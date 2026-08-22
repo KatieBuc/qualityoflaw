@@ -1,0 +1,114 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 7,
+  "chunks_corrected": 7,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 14,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'In View of' should be 'Bearing in mind' (Mengingat) in legal drafting context; current phrasing is nonstandard and may affect downstream interpretation.",
+        "Minor meaning drift/omission: item 5 in the original includes the English convention title in parentheses; the translation omits that parenthetical title.",
+        "Minor meaning drift: 'Mitigation' used for 'Penanggulangan' in several places; in this legal context 'countermeasures/handling' is closer (also for vagrants/beggars).",
+        "Meaning drift/typo: \"Indobesia\" in the original is rendered as \"Indonesia\"; for strict fidelity it should be kept as written in the source.",
+        "Minor meaning drift: \"Memutuskan\" is better rendered as \"DECIDES\" (not \"HAS DECIDED\") to match the formal declarative style of the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list markers: in Article 1 items 5–6 and 13–14 are merged on one line; in Article 3 items h–j are merged and markers i. and j. are missing; in Article 4 markers a–c are merged; in Article 5 markers g–h are merged; in Articles 6 and 7 list items a–g are run together on one line instead of separate items.",
+        "Meaning drift: Article 1(19) translates '18 (Dua Belas) tahun' as '18 (Eighteen) years old'—the parenthetical in the source is 'Twelve' (even though inconsistent), so the translation must reflect it.",
+        "Meaning drift/garbage text: Article 1(22) contains an untranslated Chinese word '障碍' not present in the source.",
+        "Meaning drift: Article 1(7) mistranslates UKPD as 'Regional Apparatus Work Unit' (should be 'Regional Apparatus Work Unit Unit'/'Regional Apparatus Work Unit' is SKPD; UKPD is 'Regional Apparatus Work Unit Unit' or 'Regional Apparatus Work Unit' but must reflect 'Unit Kerja' vs 'Satuan Kerja').",
+        "Meaning drift: Article 1 item 19 mistranslates “18 (Dua Belas) tahun” as “18 (Twelve) years old”; the parenthetical should be “twelve” to match the source text exactly.",
+        "Scrambled/merged list structure in the source is not mirrored exactly: Article 3 item h in the original is garbled/merged (“...perdagangan orangi. anak berkebutuhan khususj. anak dalam situasi darurat”); translation normalizes it into separate h/i/j items. For downstream boundary matching, the translation should preserve the original’s list-marker/content association as written (keep only a–h, with the merged text remaining under h)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 8(2), Article 8(3), Article 10(1)-(2), Article 11(1), Article 16(2), and especially Article 21(1), the lettered items (a., b., c., etc.) are run together on the same line instead of being clearly separated, risking boundary-based parsing errors downstream.",
+        "Meaning drift: Article 16(1) translates \"tuna susila\" as \"prostitutes\"; the term is broader (immoral/sexually deviant persons) and should be rendered more neutrally (e.g., \"persons engaged in immoral conduct\" / \"sex workers\" depending on context).",
+        "Scrambled/altered list-marker structure in Article 9: original uses inline markers (a.–e.) immediately after the colon; translation reformats them as a separate list, changing the marker structure used for downstream splitting.",
+        "Meaning drift in Article 13 and Article 21(5): \"Peraturan Bupati\" should be translated as \"Regent Regulation\" (not \"Regent Regulation\" is fine) but the translation says \"Regent Regulation\" in some places and \"Regent Regulation\" is okay; however Article 13 uses \"Regent Regulation\" whereas the correct term is \"Regent Regulation\"—no issue. Main meaning drift: Article 13 should be \"Regent Regulation\" not \"Regent Regulation\"? (No). Actual drift: Article 13 and Article 21(5) should be \"Regent Regulation\" not \"Regent Regulation\"—terminology inconsistency not present. Also Article 16(1) \"tuna susila\" rendered as \"persons engaged in immoral conduct\"; closer legal meaning is \"sex workers/prostitutes\"; current wording may misclassify the target group."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several numbered items run together (e.g., Article 24(1) with (2); Article 28(1) with (2); Article 33(2) with (3)).",
+        "Scrambled/merged lettered sublists: missing line breaks/spaces causing markers to merge with text (e.g., Article 22(2) 'through:a.'; Article 24 'andi.'; Article 25 'andc.'; Article 29(2) items b–h run together).",
+        "Meaning drift in Article 22(2)(c): Indonesian 'sarana dan prasarana' (facilities and infrastructure) was translated as 'infrastructure and facilities' after already saying 'facilities', creating duplication/awkwardness; corrected to 'facilities and infrastructure'.",
+        "Article 24 list marker error: the last item is labeled \"g.\" in the translation but should be \"i.\" to match the original sequence (a–h, then i) and avoid duplicate markers.",
+        "Minor meaning drift in Article 22(2)(c)-(d): \"pemberian kemudahan\" is rendered as \"granting of facilities\"; should be translated as providing/giving ease/facilitation (and facilities/infrastructure in (c))."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure in Article 38(3): sub-items a–c are not formatted as separate list items and are partially run together with the lead-in text; original has distinct a., b., c. items.",
+        "Minor meaning/wording issue in Article 43: missing punctuation/line break causes two sentences to run together (\"promulgation In order\"), reducing clarity compared to the original separate sentences.",
+        "Broken/scrambled list structure in Article 38(3): original has inline markers “a. …; b. …; c. …” on separate lines without indentation; translation converts them into an indented sublist, changing the marker structure used for downstream splitting.",
+        "Minor meaning/wording drift in Article 43: original is a single run-on sentence (“mulai berlaku… Agar… memerintahkan…”) while translation adds a subject (“orders the promulgation…”)—should be rendered as an imperative/standard legal formula without adding an explicit subject."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: in multiple articles (e.g., Article 3, 5, 8, 11) the lettered items and paragraph markers are run together in a single paragraph instead of being separated per marker, risking boundary-based retrieval errors.",
+        "Meaning drift/terminology: 'panti' is translated as 'institutions' in Article 11(2); more accurate is 'social homes/orphanages' (residential care facilities).",
+        "Minor meaning/wording error: Original 'perupakan' (typo for 'merupakan') should be rendered as 'constitute'; translation already does, but overall item (e) should be kept clear as separate list item to avoid misassociation."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "List/numbering marker inconsistency: original uses \"Ayat (7)\" but translation renders it as \"Paragraph 7\" (missing parentheses), which can break downstream boundary matching."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_WONOSOBO.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.634872+00:00",
+  "prompt_version": "v2"
+}

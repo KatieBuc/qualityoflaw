@@ -1,0 +1,68 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 1 items 3 and 4 are combined into one line, whereas the original has separate numbered items 3. and 4.",
+        "Scrambled/merged list structure: in Article 2 the list items a. and b. are merged (\"andb.\"), whereas the original has separate items a. and b.",
+        "Scrambled/merged list item markers in Article 2: original has 'a.' and 'b.' but translation split into two lines with 'and' while original text has 'danb.' (no line break); must preserve list marker structure exactly as in original.",
+        "Meaning drift in Article 2 due to restructuring: original presents two principles as 'a. ...; danb. ...' on one line; translation reformats into two separate lines, which can break downstream boundary matching."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items run together (e.g., \"j...; k.\", \"andm.\", \"andc.\", \"andf.\", \"and/ataue.\") causing list structure to be broken and potentially mis-parsed downstream.",
+        "Minor meaning/term drift: \"Regent Regulation\" should be \"Regent's Regulation\" (Peraturan Bupati).",
+        "Broken Markdown/list structure: in Article 4, items '1.' and '2.' are rendered as a numbered list with indented subitems, whereas the original uses '1.'/'2.' as paragraph markers followed inline by 'a.' etc.; downstream boundary matching may fail.",
+        "Meaning drift: Article 10(2)(c) translates 'kedayagunaan dan kehasilgunaan' as 'efficiency and effectiveness'; closer meaning is 'utility and effectiveness' (or 'usefulness and effectiveness')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items (a., b., c., etc.) are run together on the same line (e.g., Article 17(1), Article 17(2), Article 21(2), Article 22(1), Article 23(2), Article 24, Article 25(2), Article 29(2)), which breaks marker-to-content association for downstream parsing.",
+        "Minor meaning/term drift: 'Bagian Kesatu/Kedua/Ketiga' should be rendered consistently as 'Section' (not 'Part') to reflect the original structural term; also keep capitalization consistent for defined term 'Victim(s)'."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure in Article 21(3): item markers c and d are merged as \"andd.\" instead of separate items, breaking the list structure and meaning.",
+        "Scrambled list/numbering structure: in Article 21(3) original list item c and d are merged as \"dand.\"; translation separates them, which changes the source structure and should be corrected to reflect the original text exactly."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "DI_YOGYAKARTA_SLEMAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.570663+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,129 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 9,
+  "chunks_corrected": 7,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 16,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering: items 27 and 28 are combined into a single line; each numbered item must appear once and in order as separate list entries to match the original structure.",
+        "Broken Markdown/list structure: in the original, item 27 and item 28 are on the same line (\"27.... 28....\"); the translation splits them into two separate lines, so the marker/content boundary does not match the source formatting used downstream.",
+        "Minor meaning drift in item 25: \"warga korban\" is translated as \"victim citizens\"; it should be rendered as \"victim community members/residents\" (i.e., members of the public who are victims), not citizens as a legal status."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken numbering/structure: in Article 4 paragraph 8, item (9) is embedded mid-paragraph instead of appearing as a separate numbered item, which scrambles the list boundary compared to the original.",
+        "Minor meaning drift: Article 2 letter d translates \"kemanfaatan\" as \"benefit\"; in this legal context it should be \"expediency/utility\" (principle of usefulness).",
+        "Broken list/numbering structure in Article 2: item d is merged into item c in the original (\"dan d.\"), but the translation splits it into \"c.\" and \"and d.\"; list markers must match the original structure and order."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 6: paragraph (3) is run into paragraph (2) and several lettered items are concatenated (e.g., 'has:a.', 'andc.', 'andg.').",
+        "Scrambled/merged list structure in Article 7 and Article 9: multiple lettered items are concatenated (e.g., 'andd.', 'andc.', 'andl.', 'andq.') and one item marker is merged into the previous sentence (Article 9(4) b/c).",
+        "Meaning drift in Article 7(3): Indonesian lists criminal acts (e.g., murder, assault, rape) under 'discrimination'; translation renders them as 'forms of discrimination' without clarifying they are the listed acts—kept but structure corrected to match source.",
+        "Scrambled numbering in Article 6: original has '(3)' embedded after item 2(g); translation presents it as a normal '3.' paragraph, which changes the marker sequence used for downstream splitting.",
+        "Meaning drift in Article 7(3): Indonesian text lists serious crimes (murder, assault, rape, indecency, violent theft, deprivation of liberty) under 'diskriminasi'; translation renders it as 'Forms of discrimination', which is faithful to the label but the items are crimes—keep closer to source wording by translating 'diskriminasi' as 'discrimination' but preserve the oddity; also fix item f punctuation to match 'and/or' structure without adding 'or'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: several lettered list items are merged onto the same line as the preceding item (e.g., 'and k.', 'h. ...; i. ...', 'k. ...; l. ...', 'and w.'), which can break downstream boundary splitting.",
+        "Meaning drift/terminology: 'balai pemasyarakatan' translated as 'correctional centers' (ambiguous); better rendered as 'correctional guidance centers (probation offices)' to match the Indonesian term more closely.",
+        "Minor meaning/consistency: 'keputusan berdasarkan korban' is better rendered as 'decisions based on the victim' (not 'victim-based decisions') to preserve the legal phrasing."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Not actually translated into English: the 'translation' repeats the Indonesian text verbatim (meaning drift / wrong language).",
+        "Scrambled/merged list markers: several items are concatenated (e.g., 'danc.', 'dane.', 'dand.') and some list introductions run into item 'a.' without a line break (e.g., 'dalam bentuk:a.').",
+        "Numbering structure issue in Article 30: paragraph (4) is merged into paragraph (3) text instead of being a separate '(4)' item.",
+        "Scrambled numbering structure in Article 30: paragraph (4) appears as a standalone marker instead of being formatted consistently as item 4 under Article 30, and is detached from the numbered list sequence.",
+        "Minor meaning drift in Article 28(1): Indonesian lists 'kekerasan, eksploitasi dan diskriminasi' (violence, exploitation, and discrimination), but the translation renders 'violence, exploitation, and acts of violence' (duplicates violence and omits discrimination)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 33(3): sub-items a, b, c are not properly separated; \"andc.\" is merged and the original has \"dan c.\" (and c).",
+        "Scrambled/merged list structure in Article 38: items a and b are run together on one line; original has separate a. and b. items.",
+        "Broken list/numbering structure in Article 33(3): in the original, item 3 contains subitems a–c inline with a formatting error (\"danc.\"), but the translation reformats into a clean multi-line list; downstream boundary-sensitive processing requires preserving the original marker sequence/structure.",
+        "Meaning drift risk from restructuring Article 33(3): the original text has \"b. ...; danc. ...\" (no separate \"and\" line break); translation introduces an explicit conjunction line and separates items, which changes the surface structure used for automated evaluation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal commentary at the end of the translation: \"This excerpt sits under: CHAPTER XII > CLOSING PROVISIONS\" is not part of the source text.",
+        "Meaning drift/structure issue in Article 11 paragraph (1) point e: missing separation before \"Point f\" (source has \"Huruf e ... Huruf f\"), causing point e text to run into point f marker; needs clear boundary to preserve list structure for downstream splitting."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_KEBUMEN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.608436+00:00",
+  "prompt_version": "v2"
+}

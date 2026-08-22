@@ -1,0 +1,469 @@
+{
+  "policy_file": "BENGKULU_REJANG_LEBONG.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-08-21T11:36:53.525978+00:00",
+  "prompt_version": "v3",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "9. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);",
+      "rationale": "The policy explicitly references the legal framework on the elimination of domestic violence, indicating domestic violence is included within its scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "c. sexual violence;\n4. Sexual violence as referred to in paragraph (1) letter c is caused by:",
+      "rationale": "The policy explicitly lists sexual violence as a form of violence and further defines/illustrates what constitutes sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "a. physical violence;\n2. Physical violence as referred to in paragraph (1) letter a is caused by acts that result in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or cause death.",
+      "rationale": "The policy explicitly includes physical violence as a form of violence and provides a description of acts/results that constitute physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "b. psychological violence;\n3. Psychological violence as referred to in paragraph (1) letter b is caused by acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.",
+      "rationale": "The policy explicitly includes psychological violence and describes the kinds of impacts/acts that constitute psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "d. acts that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;",
+      "rationale": "The policy includes neglect leading to economic dependence (restricting/prohibiting decent work) and also recognizes economic exploitation as a form of exploitation/violence-related harm.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "b. preventing early marriage;",
+      "rationale": "The policy explicitly addresses a harmful practice by assigning family/parent responsibilities that include preventing early marriage.",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss forms of violence generally (including physical violence that may cause death) but do not explicitly mention femicide/feminicide or gender-motivated killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "a. preventing acts of violence or neglect against women and children including trafficking in persons;\n1. Every woman and child who becomes a victim of physical violence, exploitation or human trafficking has the right to receive protection and services.",
+      "rationale": "The policy explicitly mentions trafficking in persons as part of prevention objectives and also references human trafficking in defining victim entitlements to protection and services.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "a. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the victim's consent which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial; and/or",
+      "rationale": "The policy explicitly includes sexual exploitation and also references slavery or similar practices within the definition of exploitation, covering sexual exploitation/sexual slavery-related conduct.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences list general forms of violence and related procedures but do not explicitly reference cyber/online/digital forms of violence or technology-facilitated abuse.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "1. In order to carry out activities for the prevention and handling of violence against women and children, the regional government shall establish P2TP2A as an integrated service center for women and children victims of violence.\nP2TP2A shall build functional networks with:",
+      "rationale": "The policy establishes P2TP2A as an integrated service center for prevention and handling of violence, and assigns it to build functional networks with key institutions (e.g., police, prosecutors, courts, health services), which constitutes an institutional coordination mechanism to support implementation.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "2. Cooperation as referred to in paragraph (1) is carried out with:\n4. Cooperation as referred to in paragraph (1) and paragraph (2), is set forth in the form of a joint agreement.",
+      "rationale": "The policy explicitly provides for cooperation with non-governmental institutions and specifies that such cooperation is formalized through a joint agreement, indicating a collaboration mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "2. The Regional Government through P2TP2A shall conduct data collection on areas of violence based on incidence rates and conduct research and studies on the level of vulnerability of areas to find solutions for reducing to stopping violence, exploitation and neglect in vulnerable areas.",
+      "rationale": "The policy assigns responsibility to the Regional Government through P2TP2A to conduct data collection on areas of violence (based on incidence rates) and related studies, which constitutes an explicit data collection function related to violence.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While gender mainstreaming is mentioned as part of BKKBD’s scope of duties, the provided sentences do not establish or require gender mainstreaming as an institutional mechanism for implementing women’s protection/VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "b. technical guidance and training;",
+      "rationale": "The policy includes technical guidance and training as part of the Regent’s guidance function for implementation, which constitutes a requirement/provision for training and capacity building for implementation actors.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "d. monitoring; and\ne. evaluation.",
+      "rationale": "The policy explicitly includes monitoring and evaluation within the guidance framework for implementation of protection from violence, indicating monitoring and evaluation of implementation/service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "1. In order to carry out activities for the prevention and handling of violence against women and children, the regional government shall establish P2TP2A as an integrated service center for women and children victims of violence.",
+      "rationale": "The policy explicitly requires the regional government to establish P2TP2A as an integrated service center for women and children victims of violence, which constitutes an integrated service unit for VAW victims.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions that investigations should be handled by special investigators and specifies gender-sensitive procedures, it does not establish or describe a specialised service unit within police offices (i.e., a dedicated police unit/service desk) for VAW victims.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "d. opening of public complaint channels by the Regional Government or P2TP2A in each area through community networks;\na. receive reports or complaints from a person regarding the existence of criminal acts of violence against women and children;",
+      "rationale": "The policy provides mechanisms for receiving complaints, including opening public complaint channels by the Regional Government or P2TP2A and authorizing investigators to receive reports or complaints regarding violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "c. psycho-social services are lessons provided by companions in the context of traumatic recovery of the victim's condition, including the provision of space and shelter for victims to protect victims from threats and intimidation;",
+      "rationale": "The policy includes shelter as part of services delivered through P2TP2A, explicitly referencing provision of space and shelter to protect victims from threats and intimidation.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "d. legal services to assist victims in undergoing the judicial process;",
+      "rationale": "The policy specifies that P2TP2A-organized services include legal services to assist victims in undergoing the judicial process, indicating a service unit provides legal assistance.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "a. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;",
+      "rationale": "The policy states that P2TP2A provides medical services for victims, including treatment and recovery of physical injuries by medical personnel and paramedics.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "c. psycho-social services are lessons provided by companions in the context of traumatic recovery of the victim's condition, including the provision of space and shelter for victims to protect victims from threats and intimidation;\nh. psychological assistance to restore the traumatic condition of victims and restore victims' self-confidence;",
+      "rationale": "The policy includes psycho-social services for traumatic recovery and explicitly provides for psychological assistance to restore victims’ traumatic condition and self-confidence.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe medical, legal, psycho-social, and other services, but do not mention religious or spiritual counselling/guidance/mentoring as a service for victims.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "g. continuous handling up to the rehabilitation stage;\nb. rehabilitation of victims of violence;\nc. repatriation and social reintegration; and",
+      "rationale": "The policy includes continued handling up to rehabilitation and references cooperation that includes rehabilitation, repatriation, and social reintegration, indicating resocialisation-related services are provided/organized.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "1. The Regional Government through P2TP2A shall be obliged to carry out economic empowerment for women and children victims of violence, exploitation and/or trafficking or neglect.\na. providing the necessary needs for entrepreneurship training for victims of violence, in order to increase knowledge, attitudes, and business skills;\ne. seeking the provision of capital for victims of violence; and",
+      "rationale": "The policy explicitly mandates economic empowerment for women and children victims through P2TP2A, including entrepreneurship training and seeking provision of capital, which are concrete forms of economic support.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "a. socialization activities of laws and regulations related to the protection of women and children to the wider community in the region;\ng. counseling/socialization in the form of raising awareness of the wider community down to the smallest community groups (families), especially parents to protect women and children.",
+      "rationale": "The policy specifies prevention activities that include socialization of relevant laws/regulations on protection of women and children to the wider community and counseling/socialization to raise community awareness to protect women and children, which are information/education measures aimed at preventing violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Gender equality education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions gender equality as a guiding principle and includes socialization of laws on protection of women and children and socialization of women’s/children’s rights, the retrieved sentences do not explicitly frame primary prevention education/awareness activities as being specifically about gender equality and/or women’s rights (as distinct topics) beyond general protection/rights socialization.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "VAW laws awareness",
+      "included": "Yes",
+      "evidence": "a. socialization activities of laws and regulations related to the protection of women and children to the wider community in the region;",
+      "rationale": "The policy includes a primary prevention measure consisting of socialization activities of laws and regulations related to the protection of women and children to the wider community, which constitutes awareness/education about relevant VAW-related legal frameworks.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "a. socialization activities of laws and regulations related to the protection of women and children to the wider community in the region;\nc. training for members who are able to disseminate norms of prohibitions and sanctions to the community;\ng. counseling/socialization in the form of raising awareness of the wider community down to the smallest community groups (families), especially parents to protect women and children.",
+      "rationale": "The policy lists prevention forms that include socialization activities, training to disseminate norms/prohibitions/sanctions, and counseling/socialization to raise awareness to protect women and children—explicitly using education/training/socialization as strategies within prevention.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "NGO collaboration",
+      "included": "Yes",
+      "evidence": "2. P2TP2A as referred to in paragraph (1) shall be established on the joint initiative of the Regional Government, NGOs, Universities, professional organizations, organizations and the community.\nd. non-governmental institutions; and",
+      "rationale": "The policy explicitly includes NGOs in establishing the integrated service center (P2TP2A) and also lists cooperation with non-governmental institutions to strengthen P2TP2A’s role, indicating collaboration with civil society/NGOs for prevention and handling/services.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Religious engagement",
+      "included": "Yes",
+      "evidence": "3. Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly names religious institutions as actors through which community participation is carried out, indicating inclusion of faith-based actors in implementation/prevention-related participation.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Traditional/cultural engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer broadly to “community,” “organizations,” and cooperation with various institutions, but do not explicitly mention traditional/customary/cultural leaders, customary institutions, or customary dispute-resolution mechanisms.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Education institutions engagement",
+      "included": "Yes",
+      "evidence": "2. P2TP2A as referred to in paragraph (1) shall be established on the joint initiative of the Regional Government, NGOs, Universities, professional organizations, organizations and the community.\n3. Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy includes universities in the joint initiative to establish P2TP2A and also lists educational institutions as participants in community participation, indicating engagement of the education sector in implementation.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "International organisations engagement",
+      "included": "Yes",
+      "evidence": "e. international institutions whose existence is recognized.\nb. rehabilitation of victims of violence;",
+      "rationale": "The policy explicitly provides for cooperation with recognized international institutions, and specifies that such cooperation can include victim rehabilitation (a service-delivery function), demonstrating engagement with international organizations to support services/prevention-related objectives.",
+      "evidence_verified": true
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Media engagement",
+      "included": "Yes",
+      "evidence": "3. Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.\nNews media are not permitted to expose news coverage for cases concerning child victims of sexual violence in order to protect the child's identity and their hope for the future unless the victim loses their life as a result of such violence.",
+      "rationale": "The policy recognizes mass media as part of community participation and also regulates news media conduct regarding reporting on child victims, demonstrating explicit engagement/recognition of media as a stakeholder relevant to protection.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Community engagement",
+      "included": "Yes",
+      "evidence": "b. community;\n1. the obligations and responsibilities of the community as referred to in Article 7 letter b, are organized in the form of community participation.",
+      "rationale": "The policy assigns shared responsibility to the community and organizes community obligations through community participation, indicating explicit engagement/collaboration with community/society in prevention and response.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Private sector engagement",
+      "included": "Yes",
+      "evidence": "1. The Regional Government establishes partnerships with the business sector for support in the implementation of protection of women and children in the regional area.\n3. Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly establishes partnerships with the business sector to support implementation of protection for women and children, and also includes the private sector within community participation actors, demonstrating private sector engagement.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on protection and services for women and children victims of violence (including safe houses, legal/medical/psychosocial services) and special procedures in investigations/trials, but none of the candidate sentences mention conflict, disaster, emergency, displacement, or refugees, nor do they establish measures specifically for women in those situations.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "1. Every woman and child who becomes a victim of physical violence, exploitation or human trafficking has the right to receive protection and services.",
+      "rationale": "The policy explicitly includes women who are victims of human trafficking within the group entitled to protection and services.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference employment opportunities, training, and economic independence for women victims of violence, but do not identify women workers/employees as a specific target group for protection or special measures as workers.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions elderly women or provides age-specific protection measures targeted at older women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text provides general victim services and non-discrimination principles, but does not explicitly mention persons with disabilities or establish disability-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions women heads of household/families or provides targeted protection measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention minority or isolated groups, nor do they provide targeted measures for women from such groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address women and children as victims/reporters/witnesses and set special procedures for handling cases involving women/girl victims, but they do not provide protection/services for women as suspects, defendants, or perpetrators (women in conflict with the law).",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence references Indigenous peoples, customary communities (masyarakat adat), or Indigenous women, nor are any Indigenous-targeted measures described.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention refugees, forced displacement, or displacement-related protection measures.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions domestic workers or provides targeted protection measures for domestic workers as a group.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy mentions shelters/safe houses for victims of violence, it does not mention homelessness or provide measures specifically targeted at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions former inmates/correctional institutions or provides targeted measures for formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "1. The regional government shall assist the operations of P2TP2A by budgeting in the APBD in accordance with the capacity and financial condition of the region.",
+      "rationale": "The policy explicitly states that the regional government will support P2TP2A operations by budgeting in the APBD, which is the regional (local) government revenue and expenditure budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss financing from the regional budget (APBD) and other assistance from individuals/bodies/official institutions, but do not explicitly mention funding from the national government budget or a national budget line.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions cooperation with “international institutions whose existence is recognized,” it does not specify any funding, budget source, donor support, or international assistance for VAW measures.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "1. Financing of P2TP2A in addition to being obtained from APBD funds may be through obtaining assistance receipts from individuals, bodies, or official institutions whose existence is legally recognized.",
+      "rationale": "The policy states that financing may come not only from APBD but also from assistance receipts from individuals, bodies, or legally recognized official institutions, which constitutes other legally recognized sources beyond government budgets.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences reference APBD (regional/local budget) and cooperation with the provincial government, but do not explicitly identify the provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

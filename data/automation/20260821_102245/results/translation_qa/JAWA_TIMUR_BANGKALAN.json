@@ -1,0 +1,45 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 2,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 2,
+  "qa_passes_total": 4,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken numbering/list structure in Article 1: item (2) is merged into item (1) (\"1. ... 2. ...\" on the same line), so list boundaries do not match the original.",
+        "Minor meaning/term issue: \"Pendamping\" translated as \"Companion\"; in this legal context it should be \"Assistant\"/\"Accompanist\"/\"Counselor\" (victim advocate) to avoid meaning drift.",
+        "Broken Markdown/list structure: in Article 1, item 1 and item 2 are merged into one line in the original but split into separate numbered items in the translation; numbering/list markers must match the original exactly.",
+        "Meaning drift/formatting: the original has items 1 and 2 on the same line (\"1. ... 2. ...\"), which is a distinct structure used downstream; translation must preserve that structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: original has heading '## BABIV' (level-2) but translation renders it as '## CHAPTER IV' instead of preserving the same heading level/structure (should be '# CHAPTER IV' to match other BAB headings).",
+        "Scrambled/leftover text: the garbled string '. \" , ..•' appears in the translation (and source) and is not a valid list marker/content; it should be removed to avoid downstream parsing errors.",
+        "Meaning drift: 'kepentingan terbaik bagi anak' is translated as 'the best interests of the child' but the original says 'kepentingan lerbaik bagi anak' (best interests for the child) in Article 3; keep as 'best interests of the child' is acceptable, but Article 2 item d is 'kepentingan terbaik bagi korban' (best interests of the victim) which is correctly translated—no change needed. Main required change is structural/garbled text.",
+        "Broken Markdown structure: original has heading '## BABIV' (level-2) but translation renders it as '## CHAPTER IV' under a level-1 '# CHAPTER III' section; to match the original, it must be a level-2 heading ('## CHAPTER IV') rather than a new top-level chapter heading.",
+        "Meaning drift/normalization: original heading is '### BABV\"' (typo/quote) but translation normalizes it to '### CHAPTER VII' without reflecting the source text's chapter label; for strict structural fidelity, the translated heading should mirror the original's chapter label at the same level (i.e., keep it as '### CHAPTER V\"' translated, not renumbered to VII)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_BANGKALAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.636412+00:00",
+  "prompt_version": "v2"
+}

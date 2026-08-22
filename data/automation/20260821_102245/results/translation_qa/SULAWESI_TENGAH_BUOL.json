@@ -1,0 +1,174 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 11,
+  "chunks_corrected": 11,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 9,
+  "qa_passes_total": 22,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Considering point (c): mistranslates the referenced amending law as 'Law Number 2014' instead of 'Law Number 23 of 2014' (as in the original)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 29: 'Bimbingan rohani' (spiritual guidance) was mistranslated; the Indonesian text actually describes psychological/systematic recovery related to gender differences and removing structural/cultural barriers (more aligned with gender-sensitive counseling), not spiritual guidance.",
+        "Meaning drift in item 29: 'Bimbingan rohani' (spiritual guidance) mistranslated; the Indonesian text describes gender-sensitive psychological/systematic recovery efforts related to gender differences and removing structural/cultural barriers (more akin to gender-sensitive counseling), not spiritual guidance."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers with text: multiple instances where conjunctions/letters are stuck to the next item (e.g., 'andn.', 'andl.', 'contains:a.', 'responsible for:a.', 'economy.  e.', 'andd.', 'andf.'), breaking list structure required for downstream splitting.",
+        "Meaning drift/typo carryover: Article 5 item h translates 'oshis' as 'psychological' (should be 'psychic/psychological', but source has a typo); keep meaning as 'psychological/mental' recovery while preserving structure.",
+        "Potential reference ambiguity: Article 13 refers to 'Article 11 letter 1' (source likely intends 'letter l'); translation keeps 'letter 1' which may mislead—should reflect the source marker 'huruf 1' but in context it is the letter 'l'.",
+        "Meaning drift in Article 11: reference should be to Article 11 letter l (Indonesian text shows 'huruf 1' but context and subsequent Article 13 confirm it is letter l), not letter l already in the original translation? Actually translation uses letter l; correction needed to align with source text's internal reference consistency.",
+        "Minor meaning drift in Article 5 letter h: Indonesian text says 'oshis' (typo) but intended 'psikis' (psychological); translation renders 'psychological'—acceptable as intended, but since source has 'oshis' ambiguity, keep as 'psychological (psychic)'?",
+        "Scrambled/merged list markers in original Indonesian (e.g., 'dann.' and 'danl.' and 'dand.' and 'danf.') are normalized in translation; needs correction to preserve exact list marker structure and conjunction placement as in source (e.g., 'andl.' indicates missing line break before l; downstream boundary matching requires each marker a–l etc. appear cleanly and in order)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: missing spaces/newlines cause markers to attach to preceding text (e.g., Article 18 'responsible for:a.' and 'andg.', Article 19 'andf.', Article 20 'principles of:a.' and 'andl.', Article 21 'ande.', Article 22 'and/ork.', Article 22(2) 'complaints:a.' and 'and/orc.', Article 24 'aspects of:a.' and 'andd.', Article 24(3) 'including:a.' and 'andc.'). This breaks list structure required for downstream splitting.",
+        "Meaning drift/terminology: 'women crisis center' should be 'women's crisis center' (possessive) to match the institution name; otherwise content is largely accurate."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated with preceding text (e.g., 'services:a.', 'andc.', 'ord.', 'and/orc.', 'andb.', 'ande.') instead of appearing as separate list items in the same order as the original.",
+        "Minor meaning drift/typo: Article 29(1) original has 'kerindungan' (intended 'perlindungan'); translation correctly renders as 'protection'—no change needed, but ensure no content is omitted while fixing list structure.",
+        "Broken Markdown structure: original has heading \"## Bagian Keempat\" but translation renders it as \"## Part Four\" (should be \"## Fourth Part\" to match the heading text while keeping the same level).",
+        "Meaning drift/terminology: \"Peraturan Bupati\" is translated as \"Regent Regulation\"; the standard legal rendering is \"Regent Regulation\" or \"Regent's Regulation\"—but to avoid ambiguity and preserve Indonesian legal term, it should be \"Regent Regulation (Peraturan Bupati)\".",
+        "Minor meaning drift: \"Pemulangan\" is translated as \"Repatriation\"; in this context it is better rendered as \"Return\" (returning to region of origin) to avoid cross-border connotation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items run together (e.g., \"andd.\", \"ande.\", \"and/ore.\") in Articles 38–41, 43, and 44, which breaks list structure required for downstream splitting.",
+        "Meaning drift/awkward rendering: Article 50(1) is missing the operative verb (should state that education unit providers must provide services without discrimination).",
+        "Meaning drift in Article 37 item a: 'pembinaan' should be 'coaching/development' (not 'guidance'), to stay consistent with Articles 38–40 where 'Pembinaan' is treated as a distinct term.",
+        "Meaning drift in Article 39 heading term: 'Bimbingan' should be 'Guidance' (not 'Counseling'), because 'penyuluhan' within the items is the counseling/outreach activity.",
+        "Meaning drift in Article 38 item c: 'pembinaan dan bimbingan lansia' was rendered as 'elderly guidance and counseling'—'bimbingan' is guidance, not counseling.",
+        "Minor meaning drift in Article 43(1): 'ruangan pojok ASI' is a 'breastfeeding corner room/space' (not 'breastfeeding corner rooms' plural)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list markers are attached to preceding text (e.g., 'include:a.', 'by:a.', 'andf.', 'ande.', 'and/org.', 'and/or d.', 'andc.') and Article 54(3) is incorrectly merged into item (2) instead of being its own numbered paragraph.",
+        "Broken list/numbering boundaries: Article 54 should have a separate '(3)' paragraph; multiple lettered subitems (a–e, a–g, a–i, a–e) are not cleanly separated, risking downstream splitting.",
+        "Scrambled numbering/list structure in Article 54(2): in the original, item (3) is incorrectly attached after letter e within paragraph (2); translation normalized it, but downstream requires markers to appear in the same order/placement as the original.",
+        "Markdown/list-marker fidelity: original has \"...meliputi:a.\" (no line break) and \"dan (3)\" appended after letter e; corrected translation must mirror this marker placement to preserve boundary-sensitive retrieval."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated with preceding text (e.g., 'comprising:a.', 'ande.', 'andh.', 'andd.', 'andc.', 'ande.') and one marker appears mid-line ('e....; f....').",
+        "Broken heading structure for Articles 76 and 77: in the original they are not headings (they appear as plain text 'Pasa 76'/'Pasa 77'), but the translation introduces them as 'Article 76'/'Article 77' paragraphs; needs to mirror the original structure (not add headings).",
+        "Meaning drift: Article 69 second paragraph incorrectly limits mutatis mutandis application to 'women victims of violence' instead of 'women victims of acts of violence' applying to 'service efforts for women victims of acts of violence' (should mirror original wording).",
+        "Broken/mismatched structure: original contains provisions for Pasal 76 and Pasal 77 but the translation does not preserve them as headings at the same level (they appear as plain paragraphs and retain the typo 'Pasa' instead of 'Pasal/Article').",
+        "Scrambled numbering in Article 66: the original has two separate numbered sequences (1)-(2) for the Action Plan, then a new (1)-(4) sequence for the Task Force; the translation keeps both but does not indicate the restart clearly and risks downstream parsing because both are rendered as a single continuous list under one heading.",
+        "Meaning/terminology drift: 'Peraturan Bupati' should be 'Regent Regulation' (kept) but 'Keputusan Bupati' should be 'Regent's Decree' (missing possessive is minor); more importantly, 'Pasa 76/77' should be treated as Article 76/77 provisions, not left as 'Pasa' text."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: in the original, \"Pasal 78\" is a plain paragraph line (not a heading), but the translation turns it into \"Article 78\" as a standalone line; it should remain a paragraph line starting with \"Article 78 (1)\" to match the original structure.",
+        "Scrambled/incorrect list formatting: in Article 78 paragraph (2), the original has list items \"a.\" and \"b.\" as separate items; the translation runs them together inline. Also in the principles list, the original has separate items a–f and then \"dan keadilan dan kesetaraan gender\" as part of the last item; the translation merges markers (\"a. ...: b.\") and drops the marker for the final \"justice and gender equality\" item.",
+        "Meaning drift: in the principles list, the original includes \"keadilan dan kesetaraan gender\" as an additional principle; the translation includes the words but not as a properly marked list item, which can affect downstream indicator extraction.",
+        "Broken Markdown structure: original has no heading for Article 78 (it is plain text starting with \"Pasa 78\"), but translation adds an \"Article 78\" line formatted like a heading/standalone article label; list marker formatting should mirror original (\"Pasa 78 (1)\" and \"2.\" inline).",
+        "Scrambled/normalized list structure: original paragraph 2 has inline markers \"a.\" and \"b.\" immediately after a colon (\"bersumber dari:a.\" and \"danb.\"), but translation reformats into a spaced list; downstream boundary-splitting requires markers appear in the same order and structure as the original.",
+        "Meaning drift/terminology: \"Pasa 78\" is a typo for \"Pasal 78\" in the original; translation should reflect the intended legal structure by keeping it as plain text (not introducing a new heading) while translating as \"Article 78\" within the same paragraph structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission in Article 25 paragraph (3) letter c: the original lists additional religious roles (Priest/Pastor and Da'i), but the translation reduces this to “Pastors and Preachers” and omits “Priest” and the specific term “Da'i”.",
+        "Minor meaning drift in Article 19 letter c: Indonesian misspelling “Reintgrasi” should be rendered as “Reintegration” (not “Reintegration” as a proper noun “Reintegration” is fine, but better as the concept).",
+        "Scrambled/merged list structure: multiple markers (e.g., Paragraph (1), Paragraph (2), Letter a, etc.) are run together in single paragraphs instead of being clearly separated, risking boundary-based retrieval errors.",
+        "Meaning drift/typos: 'Convention on the Elimination of All Against Women' is incorrect/incomplete; should be 'Convention on the Elimination of All Forms of Discrimination Against Women'.",
+        "Minor meaning/term accuracy: 'assimilation' for 'pembauran' is better rendered as 'blending/mixing'; 'possible and appropriate' for 'memungkinkan dan layak' is awkward; 'mental retardation' is outdated/pejorative (better: 'intellectual disabilities')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: Indonesian legal drafting uses \"Ayat\" and \"Huruf\"; translating as \"Verse\" and \"Point\" is inaccurate for legal structure (should be \"Paragraph\" and \"Letter\").",
+        "Minor meaning/wording issue in Article 44: \"situs pengolahan data merupakan sebuah aplikasi yang berbasis\" rendered as \"a data processing site which is a based application\" (ungrammatical; should preserve the incomplete/awkward source meaning more faithfully, e.g., \"a data processing site in the form of an application that is based ...\").",
+        "Scrambled/flattened numbering structure: paragraph and letter markers (e.g., Paragraph (1), Paragraph (2), Letter a/b, etc.) are run together in single paragraphs instead of being clearly separated, risking downstream boundary splitting.",
+        "Meaning drift/terminology: \"pembinaan\" translated as \"development\" (should be coaching/guidance/development in the sense of fostering), and Article 39 duplicates \"embroidery training\" where the original distinguishes \"menyulam\" (embroidery) vs \"bordir\" (embroidery/needlework); keep both distinct.",
+        "Minor meaning/wording drift: Article 44 \"survey\" rendered as \"comprehensive understanding\"; closer is \"comprehensive assessment/overview\" of an object."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_TENGAH_BUOL.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.731449+00:00",
+  "prompt_version": "v2"
+}

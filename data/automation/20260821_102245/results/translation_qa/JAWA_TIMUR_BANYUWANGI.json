@@ -1,0 +1,92 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Mengingat\" should be rendered as \"Considering\" or \"Having regard to\", not \"In View of\" (nonstandard legal formula).",
+        "Minor meaning drift: \"derajad\" is \"degree\" in the text but intended meaning is \"human dignity and status/degree of humanity\"; current phrasing \"human dignity and degree\" is awkward and risks misinterpretation.",
+        "Punctuation/parenthesis error in item 10: missing closing parenthesis after the Indonesian explanatory title, causing malformed structure.",
+        "Meaning drift in item 18: original refers to amendment by Government Regulation No. 58 of 2010 to Government Regulation No. 27 of 1983; translation incorrectly says amendment to Government Regulation No. 90 of 2010 and mismatches year/State Gazette details.",
+        "Meaning drift in item 18: the original refers to an amendment to Government Regulation No. 90 of 2010, but the translation changes it to an amendment to Government Regulation No. 27 of 1983.",
+        "Minor meaning/terminology drift in item 16: 'Pemberantasan' is better rendered as 'Eradication'/'Combating' rather than 'Eradication of the Criminal Act' (awkward but not fatal); main required fix is the incorrect reference in item 18."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 18: Indonesian term 'Pengiriman' means 'Dispatch/Sending', but translation uses 'Transfer', which conflicts with item 7 already covering 'transfer' and changes the defined term.",
+        "Minor meaning/wording error in item 11: 'gugurnya pingsan' is rendered as 'miscarriage and fainting' but the structure is awkward; should clearly list consequences (pain, injury/wounds, miscarriage, fainting, and/or death).",
+        "Missing end punctuation consistent with list items 31 and 32 (original items end without period, but translation should preserve clear sentence termination; add periods for legal-text clarity without changing structure).",
+        "Meaning drift in item 18: 'melabuhkan' means to disembark/land (arrive), not 'landing a person from one place to another' (should be 'to another place').",
+        "Minor meaning drift/terminology in item 23: 'Pendamping' is better rendered as 'assistant/advocate' rather than 'Companion' (which can mislead in legal context)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list and numbering structure: in Article 3 item e is merged into item d on the same line.",
+        "Scrambled/merged list and numbering structure: in Article 9 paragraph (1) sub-items a and b are merged into the same line as the main sentence, and paragraph (2) marker is merged into the end of paragraph (1) instead of appearing as its own numbered item.",
+        "Scrambled/merged list structure: in Article 11 items f and i are merged into items e and h respectively (missing line breaks), disrupting list boundaries.",
+        "Scrambled/incorrect list structure in Article 3: item e is merged into item d in the original (\"...Orang.  e.\") but appears as a separate line without preserving the original marker placement; needs to preserve the exact a–e sequence as separate items.",
+        "Scrambled/incorrect list structure in Article 11: in the original, items e–i are run together (\"...non judgemental)f. ...; ...; dani. Terpadu.\") but the translation reformats them; list markers must appear once and in the same order and be correctly associated with their content."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list structure in Article 15: item (2) is merged into item 1.k instead of appearing as a separate numbered item.",
+        "Scrambled lettering in Article 21: list item 'e.' is merged into item 'd.' as 'ande.' (should be separate 'e.').",
+        "Minor meaning drift in Article 15.k: 'penanganan' translated as 'treatment' (better 'handling/assistance/services') in this legal-service context.",
+        "Scrambled numbering/marker structure in Article 15(1): the original has item 1 with sub-items a–k, then continues with “(2) …”; the translation incorrectly makes this a separate top-level item “2.” instead of “(2)” within Article 15.",
+        "Meaning drift in Article 15(1): “Tugas Pekerja Sosial sebagai pendamping adalah:a.” is rendered with a line break and indentation that changes the marker association; needs to keep “a.” as part of item (1) exactly as in the original structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering in Article 26(2): sub-items a–e are run together (\"services for:a.\", \"ande.\"), which breaks the required list-marker structure.",
+        "Minor meaning/clarity issue in Article 26(2): \"dane\" in the source corresponds to \"and e\"; needs separation to preserve the intended enumeration.",
+        "Broken/scrambled list structure in Article 26(2): original has inline 'layanan:a.' and 'dane.'; translation reformats into a nested list, which may break downstream marker-based splitting and does not preserve the original marker placement.",
+        "Meaning drift in Article 30(2): 'sejak Peraturan Daerah ini ditetapkan' means 'since this Regional Regulation is stipulated/enacted (adopted)', not 'from the enactment' (which can be read as coming into force).",
+        "Meaning drift in Article 29: 'diancam dengan hukuman pidana' is 'shall be subject to/threatened with criminal penalties'; 'shall be threatened with criminal punishment' is awkward and can be misread."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_BANYUWANGI.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.637845+00:00",
+  "prompt_version": "v2"
+}

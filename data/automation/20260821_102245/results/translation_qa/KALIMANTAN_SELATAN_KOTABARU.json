@@ -1,0 +1,106 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: in item 3, the year of the State Gazette is mistranslated as 1984; the original states 1999.",
+        "Broken/dirty text carried over: standalone page markers \"2 -\", \"3 -\", \"4 -\" are included as content; these are pagination artifacts, not legal text.",
+        "Meaning drift/typo: in item 8, the State Gazette year is mistranslated as 2003; the original states 2007.",
+        "Meaning drift: in item 24, the closing citation is corrupted; the original ends with \"(Lembaran Daerah ... Tahun 2012 Nomor 17).\" but the translation has a broken line and \"17. ;\"",
+        "Meaning drift in legal citation: Original item 3 cites the State Gazette year as 1984 (likely a source-text error but must be preserved); translation changes it to 1999.",
+        "Omission of original pagination markers: the standalone lines \"2 -\", \"3 -\", and \"4 -\" present in the original are missing in the translation (downstream boundary-sensitive content)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 2: sub-items a–e and a–f are run together (e.g., \"principles of:a.\", \"ande.\", \"include:a.\", \"children:c.\") instead of being clearly separated as distinct list items in order.",
+        "Meaning drift in Article 2 item 2(b): the original has a separate sub-item (c) but the translation merges it into (b), which can affect downstream clause retrieval.",
+        "Minor meaning drift/word choice in Article 1 item 24: \"landaan\" should be rendered as \"foundation/basis\" (not \"a foundation\" is OK but better as \"the basis and guideline\" to match definiteness).",
+        "Scrambled/altered list-marker structure in Article 2(1) and 2(2): original has inline markers (a.–e., a.–f.) on the same line as the preceding text; translation reformats into a nested list and inserts an extra standalone line \"- 8 -\" that splits item (2). This can break downstream boundary-based retrieval.",
+        "Meaning drift in Article 2(2)(f): translated as \"compensation/compensation\" whereas original is \"ganti rugi/kompensasi\" (damages/compensation)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated with preceding text (e.g., 'include:a.', 'andk.', 'including:a.', 'andf.', 'andd.', 'andg.', 'Vice Chairpersonf.', 'andi.', 'and - 12 -f.') which breaks list structure and downstream boundary detection.",
+        "Minor meaning drift/awkward rendering: 'hak atas penghormatan dan penggunaan sepenuhnya' rendered as 'right to respect and full use' (should reflect 'full enjoyment' of rights).",
+        "Scrambled/incorrect list-marker attachment in Article 4(2): original has \"dan k.\" (and k.) run together as \"dank.\"; translation normalizes it to \"and\" + separate \"k.\" which changes the marker sequence and could break downstream boundary matching.",
+        "Meaning drift in Article 4(2)(i): \"hak ganti rugi atau kompensasi\" rendered as \"compensation or compensation rights\"; should be \"rights to damages/compensation\" (ganti rugi = damages/indemnity).",
+        "Meaning drift in Article 14(2): missing verb; should state that budgeting is carried out through the relevant SKPD (\"Penganggaran ... melalui SKPD\"), not a fragment.",
+        "Minor meaning drift in Article 11(2): \"Koordinator terdiri\" refers to coordinator divisions/units; translation \"Coordinators consist\" implies multiple coordinators rather than the coordinator function consisting of divisions."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: missing line breaks between introductory clause and sub-items (e.g., 'through:a.'), and merged items such as 'and/org.' (should be 'and/or g.') and 'andf.'/'ande.'/'andd.' (should be separate 'and f.' etc.).",
+        "Article 23(2) contains an inline page marker '- 16 -' embedded in the sentence ('through: - 16 -a.'), breaking list structure; it should be on its own line before item a.",
+        "Article 25(3) is not formatted as a numbered paragraph item '(3)' on its own line; it is embedded after the page marker '17 -'.",
+        "Scrambled/mismatched list marker formatting: Article 25 paragraph (3) appears as a standalone '(3)' instead of being part of the numbered list item '3.' as in the original.",
+        "Minor meaning drift in Article 17(1)(e): 'Pemerintahan tingkat Kecamatan, Kelurahan/Desa' was translated as 'Sub-district, Village/Sub-district Governments' (Kelurahan is urban village/ward, not sub-district)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 28(2): 'berwenang:a.' not separated; items d/e and h/i run together as 'and/ori.'",
+        "Scrambled/merged list markers in Article 30(2): '- 19 -a.' and 'andd.' merged into surrounding text",
+        "Scrambled/merged list markers in Article 32: items b–f run together (b with c; 'andf.' merged)",
+        "Non-substantive page/line artifacts retained ('18 -', '20 -', '2 -', '- 19 -') that are not part of the legal text and can disrupt downstream structure",
+        "Broken/scrambled list structure in Article 28(2): original uses inline markers \"berwenang:a.\" etc.; translation reformats into an indented sublist, which may break downstream boundary-based retrieval that expects the original marker structure.",
+        "Missing original pagination artifacts/markers (e.g., \"18 -\", \"- 19 -\", \"20 -\", \"2 -\") that appear as standalone lines in the source; translation omits them, which is an omission relative to the provided source text."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in Article 3: item \"c.\" is merged into the end of item \"b.\" instead of appearing as its own list item in sequence.",
+        "Meaning drift in Article 3: \"lem aibon\" (Aibon glue) is translated generically as \"glue\", losing the specific reference in the original."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_SELATAN_KOTABARU.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.680492+00:00",
+  "prompt_version": "v2"
+}

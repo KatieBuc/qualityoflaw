@@ -1,0 +1,95 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list marker in 'Considering': original has items a, b, c, d but translation omits the 'c.' marker (the text for c is present but unlabelled).",
+        "Broken heading structure near the joint approval section: original has two consecutive headings '# DEWAN PERWAKILAN RAKYAT DAERAH KOTA PALOPO' and '# WALIKOTA PALOPO' (no '# AND' heading), but translation inserts an extra '# AND' heading and changes the second heading text.",
+        "Meaning drift in the decision headings: original has '# MEMUTUSKAN:' and then separate headings '# DAERAH TENTANG', '# PENYELENGGARAAN', '# PEREMPUAN DAN ANAK', '# KORBAN'; translation collapses/changes these into '# HAS DECIDED:' and '# REGIONAL REGULATION CONCERNING' etc., not preserving the same segmented headings.",
+        "Leftover stray characters '( (' carried over; while present in the original, it should remain exactly but is better kept as-is—no correction needed there beyond preserving placement (kept).",
+        "Meaning drift/omission: in the original, item c in 'Menimbang' is missing its list marker ('c.') and appears as a run-on line ('bahwatindakan...'); the translation supplies 'c.' and normalizes the text, which changes the structure relative to the source.",
+        "Scrambled list/numbering structure: the stray text '( (' appears as its own line in the original before item 15 under 'Mengingat'; the translation keeps it but should preserve it exactly in position and spacing as in the source (currently preserved, but ensure it remains as a standalone line between item 14 and 15)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list numbering in Article 1: items 23 and 24 are combined on one line, whereas the original has separate items 23 and 24.",
+        "List marker formatting errors: in Article 2, Article 4, and Article 5 the marker 'e.' is merged into 'ande.'; in the original it is 'dan e.' (and e.) as a separate item.",
+        "Extraneous character in Article 4 list: a standalone '}' appears in the original after item a and must be preserved in the translation at the same position (it is missing in the translation).",
+        "Leftover untranslated word/stray text: standalone \"oleh\" appears between items 10 and 11 and should not be present.",
+        "Scrambled/incorrect list text in Article 2 and Article 4: original has \"dan e.\" (and e.) merged/misplaced; translation normalizes to \"and\" but must preserve list marker structure a–e cleanly.",
+        "Stray character \"}\" appears as its own line in Article 4 list, not present in original (broken structure/noise)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list markers are run together (e.g., Article 6 item (2) merged into item 1; Article 7(2) a–f run together; Article 9(2) a–f run together; Article 10(1) a–g run together; Article 11(1) a–f run together; Article 16 i–j run together; Article 17 has stray '}' and e is merged).",
+        "Broken Markdown/text artifacts carried over from source: stray characters/lines appear in the translation ('>', '}', '(' and standalone 'victim services'), which are not legal text and disrupt structure.",
+        "Meaning drift in Article 12: Indonesian says a complaint unit for protection of women/children victims of violence; translation adds 'from violence' and omits 'victims' nuance in the unit name (should reflect 'korban kekerasan').",
+        "Broken/mismatched Markdown structure: original has stray standalone lines/symbols that are part of the source Markdown (\">\", \"}\", \"(\", and the standalone line \"pelayanan korban\") which are missing in the translation; downstream boundary-sensitive processing may rely on exact presence/order of these markers.",
+        "Meaning drift/omission relative to source text-as-given: the untranslated standalone line \"pelayanan korban\" (appearing between Article 11 and Article 12 in the original) is omitted; other stray markers are also omitted."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/broken list structure in Article 18 and Article 19: sub-items a–d are run together (missing line breaks/spaces before 'a.' and before 'd.'), and an orphan line 'employment opportunities for' appears before item b.",
+        "List/numbering marker error carried over: Article 19 paragraph (2) appears as '( (2)' instead of '(2)'.",
+        "Scrambled numbering in Article 20: paragraph (3) is merged into paragraph (2) text ('...evaluation (3) Guidance...') and list item 'e.' is run together as 'ande.'.",
+        "Leftover stray characters/notes from source not handled cleanly: standalone '(' after Article 21 and '( }' later should be preserved but are better placed as their own lines (currently OK but keep consistent).",
+        "Scrambled/broken list structure in Article 19(2): stray text 'employment opportunities for' is detached and the a–d items do not match the original (original item a is 'employment opportunities for women victims of violence', not 'provision of information...').",
+        "Scrambled numbering/formatting in Article 20: paragraph (3) is merged into paragraph (2) and the list item 'e.' is missing its terminating punctuation/line break; original has 'dan e. evaluasi' followed by a separate (3).",
+        "Leftover stray characters from source remain: '( (2)' in Article 19, a standalone '(' after Article 21, and '( }' after the Regional Gazette line; these are not meaningful legal text and should be removed/normalized.",
+        "Meaning drift/omission: Article 19(2)(a) mistranslated (should be 'employment opportunities', not 'provision of information')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal commentary at the end of the translation: \"This excerpt sits under: CHAPTER XII > CLOSING PROVISIONS\" (not present in the original).",
+        "Scrambled/merged list structure: multiple lettered items (Point a–e, Paragraphs, etc.) are run together in single paragraphs instead of being clearly separated, increasing risk of boundary errors for downstream splitting.",
+        "Extraneous/stray characters carried over from source formatting (e.g., \"}\", \"(\") appear mid-provision and should be retained but placed in the correct position without breaking the marker-content association.",
+        "Meaning drift in Article 16 Point d: \"keterangan\" was translated as \"statements\"; it should be \"information/explanations\" (the clause defines the right to obtain information)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_SELATAN_PALOPO_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.729900+00:00",
+  "prompt_version": "v2"
+}

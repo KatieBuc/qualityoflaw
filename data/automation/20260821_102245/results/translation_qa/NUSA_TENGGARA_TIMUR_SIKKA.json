@@ -1,0 +1,89 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [
+        "Meaning drift/omission: the Indonesian phrase \"Pengesahan Konvensi ILO No. 182 mengenai Pelarangan dan Tindakan Segara Penghapusan Bentuk-Bentuk Pekerjaan Tertutup Bagi Anak\" was mistranslated/normalized into \"worst forms of child labour\" and omitted the specific Indonesian wording (\"bentuk-bentuk pekerjaan terburuk bagi anak\").",
+        "Meaning drift: \"Tindakan Segara\" should be rendered as \"Immediate Action\" (not left as a generic phrase); keep the intended meaning explicit in the Indonesian parenthetical translation.",
+        "Meaning drift/typo in Law No. 1 of 2000 title: 'Bentuk-Bentuk Pekerjaan Tertutup Bagi Anak' should be 'Bentuk-Bentuk Pekerjaan Terburuk Bagi Anak' (worst forms of child labour), not 'worst forms of work for children'.",
+        "Minor meaning drift in the parenthetical Indonesian title for Law No. 1 of 2000: 'Tindakan Segara' should be rendered as 'Immediate Action' (typo in source 'Segara' -> 'Segera'), and the English should reflect the standard convention title consistently."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 2: item 'e.' is merged into 'and' as 'ande.'; should be separate list item 'e.'",
+        "Scrambled/merged list markers in Article 4: items 'b.', 'd.', and 'e.' are merged with surrounding text as 'b.eliminate', 'd.provide', 'ande.'; list formatting/ordering must match the original",
+        "Scrambled/merged list markers in Article 5: item 'd.' is merged into 'and' as 'andd.'; should be separate list item 'd.'"
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled numbering and list structure: several paragraph markers are merged into preceding text instead of appearing as separate items (e.g., Article 6 item (4) is embedded in item 3; Article 7 item (3) embedded in item 2; Article 9 item (2) embedded in item 1; Article 11 item (3) embedded in item 2).",
+        "Scrambled lettered lists: in multiple places the a–e/f/g markers are run together with missing line breaks/structure, risking downstream boundary splitting (Articles 6(1), 7(2), 9(2), 10(1), 11(1), 16, 17).",
+        "Broken/scrambled list structure in the original (markers run together) was normalized in translation, but one meaning drift: Article 11(3) incorrectly references paragraphs (1),(2),(3) whereas the original references (1),(2),(3) even though (3) is the clause itself; should reference (1) and (2) only (or (1),(2) and this paragraph).",
+        "Meaning drift in Article 11(3): original 'ayat (1), ayat (2), dan ayat (3)' is internally inconsistent; as a legal drafting convention it should be rendered as referring to paragraphs (1) and (2) and this paragraph, not (3) as an external reference. Translation currently preserves the inconsistency in a way that can mislead downstream evaluation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: Article 18(1) a–d, Article 18(2) a–d, Article 19(2) b–d, Article 20(2) and its a–e, Article 22 b–c are run together (e.g., 'with:a.', 'Government;c.', 'andd.', '(2)' inline), breaking list/numbering structure required for downstream splitting.",
+        "Minor meaning drift/terminology: 'Pemerintah provinsi' rendered as 'The Provincial Government' but original says 'Pemerintah provinsi' (provincial government) while 'Pemerintah' is central government; keep as 'Central Government' vs 'Provincial Government' to preserve distinction.",
+        "Broken/scrambled list structure in Article 22: original uses inline markers 'a.', 'b.', 'c.'; translation reformats into a separate bullet list, which changes boundary/marker structure for downstream splitting.",
+        "Meaning drift in Article 18(1) item b: 'Pemerintah provinsi' translated as 'the Provincial Government' but original implies 'provincial government(s)' (not necessarily a single one); keep generic 'provincial government' without 'the' to avoid specificity."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 6 paragraph (1) letter b: sub-items a–d are not properly separated; item c runs into item d, causing marker/content association errors.",
+        "Scrambled/merged list structure in Article 4: letters c–e are run together on one line instead of being clearly separated as distinct letter items.",
+        "Scrambled/merged list structure in Article 16: letters b–j are partially run together on the same lines, reducing boundary clarity for downstream splitting.",
+        "Scrambled/merged list structure in Article 17: letters a–e are partially run together on the same lines, reducing boundary clarity for downstream splitting.",
+        "Scrambled/merged list structure in Article 18 paragraph (1): letters a–d are run together on one line instead of being clearly separated as distinct letter items.",
+        "Minor meaning drift/awkwardness in Article 16 letter d: 'statements, declarations' should reflect 'keterangan, pernyataan' (information/explanations and statements), not 'declarations' (legalistic shift).",
+        "Broken structure: original has two consecutive headings '#### Pasal 21' and then '#### Pasal 23' (no Pasal 22); translation mirrors this, but this is acceptable—however list marker structure in Pasal 6 Ayat (1) Huruf b is missing the semicolon after 'kekerasan' before item d (original has '...kekerasan d. ...' indicating item d continues the list).",
+        "Scrambled/merged list marker in Article 6 Paragraph (1) Letter b: item c and item d are run together without proper separation/punctuation, risking downstream list parsing."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "NUSA_TENGGARA_TIMUR_SIKKA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.719712+00:00",
+  "prompt_version": "v2"
+}

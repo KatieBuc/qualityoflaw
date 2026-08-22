@@ -1,0 +1,92 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pembentukan Peraturan Perundang-undangan\" is mistranslated as \"the Formulation of Legislation\" (should be \"the Formation/Establishment of Laws and Regulations\").",
+        "Minor meaning drift/terminology: \"Pemerintahan Daerah Kabupaten\" is rendered as \"Regional Government of Regencies\"; should be singular and clearer as \"Regional Government of Regencies in East Java\" or \"Regency Regional Government in East Java\" (kept faithful to the cited law title).",
+        "Meaning drift: \"Menimbang\" should be rendered as \"Whereas\" (recitals), not \"Considering\".",
+        "Meaning drift: \"Mengingat\" should be rendered as \"In view of\"/\"Having regard to\" (legal basis), not \"In View of\" is acceptable but inconsistent capitalization; more importantly the standard legal term is \"Having regard to\".",
+        "Meaning drift/terminology: \"Peraturan Daerah\" is \"Regional Regulation\" (ok), but \"Peraturan Daerah Kabupaten Pasuruan\" is more precisely \"Regional Regulation of Pasuruan Regency\" (kept) and \"Bupati\" is \"Regent\" (ok); however \"Dengan Persetujuan Bersama\" is better as \"With the joint approval\" rather than \"Mutual Approval\".",
+        "Meaning drift: \"Menetapkan\" in this context is \"Stipulates/Enacts\" rather than \"To Establish\"."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: item 3 in Article 1 is merged into item 2; in Article 2 the conjunction and list item 'i.' are merged ('andi.'); in Articles 3, 4, 5, 7, and 8 several lettered items are merged into preceding text ('a... b...', 'andc.', 'andd.'). This breaks downstream boundary splitting.",
+        "Meaning drift: Article 22 translates 'di tingkat kota' as 'at the city level' whereas the original refers to the regency/district level context; should be rendered as 'at the regency level' (or 'district level') to match the instrument's scope.",
+        "Meaning drift in Article 1 item 18: 'lembaga swadaya masyarakat (LSM)' is translated as 'non-governmental organization (NGO)' but the original specifies LSM (community self-help organization); should be rendered as 'Non-Governmental Organization (LSM)' or similar while preserving the LSM term.",
+        "Meaning drift in Article 1 item 22: original says 'di tingkat kota' (city level), but translation changes it to 'regency level'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., 'andc.', 'andb.', 'andc.', 'andi.'; Article 15 numbering where item '2.' is not at the same heading/list level as 1 and 3).",
+        "Meaning drift/awkward rendering: 'repatriation' used for 'pemulangan' (should be 'return'); some phrases duplicated/incorrectly rendered due to structure issues (e.g., Article 12(b) repeats 'peacefully').",
+        "Broken/scrambled list structure in Article 15: in the original, item \"2. PUSYAN GATRA; dan\" is not a level-5 heading, but the translation makes it \"##### 2. PUSYAN GATRA; and\" (heading level mismatch)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 2: Letter e and Letter f are run together in one paragraph; should be separate items in order.",
+        "Scrambled/merged list structure in Article 5: Letter b and Letter c are run together; should be separate items in order.",
+        "Minor meaning/format drift: missing punctuation/line break between Letter h and Letter i in Article 2 (should be separate items).",
+        "Scrambled/merged list structure in Article 2: in the original, Letter e and Letter f are run together in one paragraph; translation keeps them as separate paragraphs but does not reflect the original's marker/content boundary exactly. For downstream boundary-sensitive splitting, each 'Huruf/Letter' item should be clearly separated and in order.",
+        "Meaning drift/awkward rendering: 'Huruf e Yang dimaksud kemanfaatan' is better rendered as 'the principle of expediency/benefit (kemanfaatan)' rather than 'What is meant by benefit', to preserve the legal-principle sense. Minor but relevant for legal-indicator evaluation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_PASURUAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.654431+00:00",
+  "prompt_version": "v2"
+}

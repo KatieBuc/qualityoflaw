@@ -1,0 +1,125 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 7,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 6,
+  "qa_passes_total": 13,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Mengingat\" should be rendered as \"In view of\"/\"Bearing in mind\", not \"Noting\".",
+        "Broken Markdown structure: the original has an unheaded line \"Pengertian\" under \"## Bagian Kesatu\", but the translation turns it into a heading \"Definitions\" (should remain plain text to match structure)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list structure in Article 2 and Article 3: lettered items are merged (e.g., \"andd.\") and not separated as distinct list markers a., b., c., d. as in the original.",
+        "Meaning drift in Article 2: \"keadilan\" translated as \"justice\"; in this context it should be \"fairness\" (principle of fairness and gender equality).",
+        "Minor meaning/term drift: \"Tenaga Kerja\" translated as \"Labor Force\"; more accurate is \"Manpower/Workforce\" (definition refers to a person/worker, not an aggregate labor force).",
+        "Scrambled/incorrect list structure in Article 2 and Article 3: list markers run together (e.g., \"dand.\" / \"d.\"), and items a–d are not consistently separated as distinct list items as in the original.",
+        "Meaning drift in Article 2(b): \"keadilan\" translated as \"fairness\"; in this legal context it should be \"justice\".",
+        "Meaning drift in Article 4: the original includes standalone unlettered lines \"koordinasi dan keijasama;\", \"pendanaan; dan\" and a final standalone \"l.\"; the translation partially changes/normalizes these and should preserve the same structure (including the standalone lines and the final \"l.\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 5(1): lettered items a–l are not separated correctly; stray text ('live and improve the standard b. fulfill.') and merged marker 'andl.'",
+        "Scrambled/merged list structure in Article 6: duplicate 'f.' and merged markers 'h.' and 'andi.'; item 'f. women.' should remain as its own item followed by another 'f.' item per source",
+        "Scrambled/merged list structure in Article 7(2): merged markers 'over:a.' and 'dane.'; item e should be 'violence in the workplace'",
+        "Scrambled/merged list structure in Article 8(2): merged markers 'over:a.' and 'dand.'",
+        "Broken/merged list markers in Article 9(2): merged 'over:a.'; spacing around 'and d.' inconsistent with source marker sequence",
+        "Scrambled/merged list structure in Article 10(2): merged markers 'over:a.' and 'dane.'",
+        "Article 11(2) numbering/marker corruption: stray '9- (2)' and ellipsis line retained; needs to preserve paragraph (2) marker cleanly while keeping the ellipsis text as in source",
+        "Scrambled/merged list structure in Article 12(2) and Article 13(2): merged markers 'over:a.' and 'andc.'/'andb.'",
+        "Extraneous scanned/page-break artifacts left untranslated and inconsistently placed (e.g., \"6-\", \"7-\", \"8-\", \"9-\", \"10-\"), including a stray \"9- (2)\" that breaks the numbering structure in Article 11.",
+        "Scrambled/incorrect list structure in Article 6: item \"f\" appears twice and \"f. women.\" is separated from the continuation; needs to match the original sequence (a–i) with the page-break artifact removed.",
+        "Meaning drift in Article 7(2)(e): translated as \"violence in the workplace\" but the original is \"kekerasan ditempat bekerja\" (violence at the workplace); keep as \"violence at the workplace\".",
+        "Minor meaning/term drift: \"perempuan\" as a standalone category in Article 6 should remain \"women\" but without an erroneous period splitting the list; also keep consistent capitalization (e.g., discrimination not capitalized unless in original)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are attached to preceding text (e.g., 'for:a.', 'andg.', 'ande.', 'andh.', 'andc.', 'andd.') and one item is split by an inserted page marker ('12-').",
+        "Meaning drift: 'KBG' (Kelompok Berisiko Gender) is translated as 'vulnerable groups' and then used as the object of 'protection from vulnerable groups', which changes the meaning; it should be kept as the specific term (gender-based vulnerable groups) and the phrase should be 'protection from KBG in Disasters'.",
+        "Meaning drift: Article 14(2) should refer to women from KBG in Disasters (not generic vulnerable groups).",
+        "Meaning drift: Article 14(4)(b) should be commitment to prevention/handling/protection from KBG in Disasters (not from vulnerable groups).",
+        "Scrambled numbering/list structure in Article 15: paragraph (2) is merged into item 1 instead of being a separate numbered item.",
+        "Scrambled numbering/list structure in Article 21: paragraphs (2) and (3) are merged into item 1 instead of being separate numbered items.",
+        "Scrambled numbering/list structure in Article 19: paragraph markers (1), (2), (3), (4) appear inline/out of order; items 4 and 5 are not formatted consistently as numbered list items.",
+        "Meaning drift/formatting: Article 18 list items are mis-segmented; original has a., b., c., d. but translation collapses/misplaces c/d content (technology/arts/culture) and omits separate d. marker.",
+        "Broken list marker duplication in Article 17: 'c.' appears twice with an extraneous 'c. facilitation.' line; needs to reflect original structure including the stray 'c. fasilitasi.' and page marker placement without duplicating the marker sequence.",
+        "Leftover non-legal/page artifacts retained (e.g., '11-', '12-', '13-', '14-', ellipses '................', 'The Regional Government................'); these are scan/page-break artifacts, not normative text, and should be removed for downstream legal evaluation. (If required to keep, they should at least not break numbering; but they currently do.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated with preceding text (e.g., 'include:a.', 'andd.', 'andc.', 'and/orb.') instead of appearing as separate list items in order.",
+        "Numbering marker mismatch: '{4)' should be '(4)' to match the original list marker exactly.",
+        "Minor meaning drift/awkwardness: Article 34(1) translated 'terpadu dan terintegrasi' as 'integrated and integrated' (should be 'integrated and interconnected/integrated').",
+        "Scrambled/altered list marker formatting: in Article 28, item (2) is merged into the previous paragraph instead of appearing as its own numbered item, breaking the original numbering structure.",
+        "Meaning drift/marker fidelity: Article 29 paragraph (4) marker is rendered as '(4)' while the original shows '{4)' (nonstandard but should be preserved for exact boundary matching)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list markers in Article 38: items a–g are not formatted as separate list items; duplicate marker \"c.\" appears; \"dang.\" merged into \"andg.\"",
+        "Meaning drift/typo: \"dang.\" (dan g.) should be \"and g.\" as a separate item; current text merges f and g.",
+        "Minor formatting/structure issue: \"Article3\" missing space (should be \"Article 3\") to match original \"Pasal3\" as a label; keep as separate line but correct spacing.",
+        "Scrambled/incorrect list structure in Article 38: the original has items a–b, then a placeholder line, then page marker \"20-\", then continues with item c–g; the translation introduces an extra standalone \"c.\" before the placeholder, resulting in duplicated/reordered list markers.",
+        "Meaning drift in Article 38 item f: original says \"dan g.\" (and g.) due to a scan/typo; translation normalizes to \"and\" but also changes the punctuation/structure—needs to preserve the original marker sequence and keep f and g as separate items without adding an extra c."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_BOYOLALI.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.601287+00:00",
+  "prompt_version": "v2"
+}

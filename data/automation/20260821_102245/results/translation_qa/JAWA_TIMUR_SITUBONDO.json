@@ -1,0 +1,96 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal/garbled text carried over from the source remains in the translation (e.g., \"r(\", \"{ Jalan...IJ IrtJ1 ;1\", \"\\t:.:'Sr Y:\", \"d { Jr -t !r .:\", \"il \\$ t*\") and should be removed as it is not part of the legal text.",
+        "Meaning drift/incorrect rendering: \"Menetapkan:\" is translated as \"Hereby Decides:\"; it should be rendered as \"Stipulates:\" (or \"Determines:\") and kept as a standalone marker before the list continues.",
+        "Minor meaning/grammar issue: \"number of violence\" should be \"number of incidents of violence\" to match \"jumlah kekerasan\".",
+        "Broken/mismatched Markdown structure: original begins with stray text \"r(\" that is missing in the translation; original contains an address/contact line that is omitted in the translation; original has stray symbols/lines (e.g., \"{ Jalan PB...\", \"IJ IrtJ1 ;1\", \"il \\$ t*\", and other garbled fragments) that are not preserved in the translation.",
+        "Meaning drift/omission: the address/contact information and other non-heading text present in the original are missing from the translation (even if garbled, it is part of the source text and must be carried through for downstream boundary-sensitive processing)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched heading: original has '## KBIENTUAN UMUM' but translation renders it as '## GENERAL PROVISIONS' (should reflect the original heading text, not a different one).",
+        "Scrambled/corrupted list markers and numbering: multiple items are merged (e.g., 'dane.','andf.','ande.'), Article 3(2) and Article 5(2) use '(21' instead of '(2)', Article 9 has stray 'n (1) (2t', and Article 10 list items are missing/reordered (shows 'b. c.' and omits the separate b/c items).",
+        "Meaning drift/omissions due to list corruption: Article 10 should list five responsible parties (a-e) including BPMP, PPT, community, family, and parents; translation omits BPMP and PPT and misstructures the rest.",
+        "Minor meaning/term issue: 'Pendamping' is better rendered as 'assistant/advocate' rather than 'companion' in this legal-service context (to avoid misinterpretation in downstream evaluation).",
+        "Broken Markdown structure: Original heading '## KBIENTUAN UMUM' is translated as '## GENERAL PROVISIONS' but should preserve the same heading text/structure; also original has '## HAK.HAK KORBAN' (with dot) which is translated as '## VICTIMS' RIGHTS' (apostrophe) and original '## TANGGUNGJAUIAB' is translated as '## RESPONSIBILITY'—these are meaning/label changes that may affect downstream boundary matching if exact heading text is expected.",
+        "Scrambled/incorrect list/numbering in Article 10: original list items are corrupted but indicate separate items for BPMP, PPT, community, family, and parents; translation adds items b and c (BPMP, PPT) that are not clearly present as list markers in the original and may be an inference.",
+        "Meaning drift/normalization of corrupted source tokens: several corrupted fragments in the original (e.g., 'sewenang-wen&rg', 'menganc€un', 'anakl tersebut', 'sheltefl', 'anakryo', 'tanggungjauiAB', and garbled lines in Article 8 and Article 10) are silently normalized/cleaned in translation; for legal-indicator evaluation, these should be translated conservatively without adding clarity not present in the source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Heading mismatch: original has \"#### Pasal 1 1\" but translation has \"#### Article 11\" (should be Article 1; keep same heading position/level).",
+        "Scrambled list formatting: several lettered items are merged on one line (e.g., \"and c.\", \"and b.\") instead of separate a./b./c. items as in the original.",
+        "Meaning drift in Article 1(5): reference should be to paragraph (2)1 (i.e., paragraph (2)), but original text is corrupted; translation currently states paragraph (2) without reflecting the original's (2)1 artifact. (Minor, but keep structure faithful).",
+        "Article 18 closing sentence meaning/structure is garbled: translation \"Enacted in on Situbondo\" does not reflect the original phrasing/order; needs correction to preserve intended legal formula (enacted/established in Situbondo on [date]).",
+        "Missing/altered stray text markers: original contains stray bracketed/garbled lines (e.g., \"\\[ trl.\", \"tt'\") around Article 14; translation omits them. For strict downstream boundary/content preservation, these should be retained as-is (untranslated) or minimally represented.",
+        "Broken/mismatched heading text: original has \"#### Pasal 1 1\" but translation renders it as \"#### Article 1\" (missing the trailing \"1\").",
+        "Scrambled/incorrect list marker in Article 1(5): original refers to ayat (2) but translation has \"paragraph (2)1\".",
+        "Leftover non-legal/garbled text carried over in Article 14: \"\\[ trl.\" and \"tt'\" should be removed (they are not meaningful legal content).",
+        "Meaning drift/omission in Article 18: original includes \"Kabupaten\" and the phrase \"Ditetapkan di pada tanggal\"; translation omits these elements and truncates the promulgation date line (\"Pada tanggal 0 g ...\" rendered as \"On 0 9\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: heading level mismatch for section II (original is '##### II. PASAL DEMI PASAL' but translation uses '##### II. ARTICLE BY ARTICLE'; should be '##### II. ARTICLE BY ARTICLE' is fine, but original is level 5 and translation is level 5—no issue there. However list/item markers in Article 2 are not preserved: original uses 'Huruf a/b/c/d/e' without punctuation and includes a merged 'Huruf aYang' typo; translation changes marker formatting to 'Letter a' etc. Downstream requires exact marker tokens/order; should preserve 'Letter a' etc but ensure each appears once and in order—this is mostly OK. Main structural issue is that 'Huruf aYang' indicates no space; translation adds space, which may break exact boundary matching if system expects exact marker string.",
+        "Meaning drift/normalization risk: 'Perda' is left untranslated but also not expanded consistently; should be rendered as 'Regional Regulation (Perda)' to preserve meaning and acronym reference. Also 'rumah aman dan nyaman' is better as 'safe and comfortable house/shelter'; translation uses 'shelter' which is acceptable, but keep consistent with later 'sarana dan prasarana rumah aman dan nyaman'.",
+        "Scrambled/merged list marker in Article 2: \"Huruf a\" is attached to the following word (\"Huruf aYang\"), should be separated as in the original structure (\"Huruf a ...\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: Article 9, Article 11, and Article 18 are not formatted as headings (####) like the original Pasal 9, Pasal 11, and Pasal 18; they are embedded in paragraphs.",
+        "Scrambled/merged structure: the end of Article 8 Paragraph (2) is merged with Article 9; Article 10 section also contains Article 11 content instead of having a separate Article 11 heading.",
+        "Leftover/extra non-legal text: stray fragments in the original (e.g., \"1[d\", stray punctuation) should not appear; translation appropriately omitted them, but must preserve the separate Pasal/Article boundaries for downstream splitting.",
+        "Broken structure: Original has stray text after Article 12 (\"1[d\") that is omitted in the translation.",
+        "Broken structure: Original ends with \"TAMBAIIAN LEMBARAN DAERAII KABUPATEN SITUBONDO NOMOR I5 n $\\I\" but translation omits the trailing \"n $\\I\".",
+        "Meaning/faithfulness: The translation normalizes/cleans apparent OCR artifacts; for downstream boundary-sensitive processing, these should be preserved as-is when they appear as standalone tokens/lines in the source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_SITUBONDO.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.660255+00:00",
+  "prompt_version": "v2"
+}

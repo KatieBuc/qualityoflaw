@@ -1,0 +1,92 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 10: items 'j.' is merged into 'andj.' instead of a separate list item.",
+        "Scrambled/merged list markers in Article 11: item 'f.' is merged into 'andf.' instead of a separate list item.",
+        "Scrambled/merged list markers in Article 13: item 'f.' is merged into 'andf.' instead of a separate list item.",
+        "Meaning drift risk from merged markers: list boundaries are unclear for downstream parsing; needs separation to match original structure.",
+        "Scrambled/missing list structure in Article 2: original has no paragraph (1) but translation refers to paragraph (1); principles should be presented as a list matching the original sequence.",
+        "Scrambled list structure in Articles 3, 6, 7, and 8: original uses semicolon-separated items without markers; translation keeps them as run-on text. For downstream boundary-splitting, items should be explicitly listed and kept in order.",
+        "List marker formatting issues in Article 10/11/13: original has lettered items a–j / a–f; translation adds blank lines between items (not fatal) but must ensure markers appear once and in order; also original has merged 'danj.'/'andf.' which should be separated as 'and j.'/'and f.' (meaning/structure clarity)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., 'form of:a.', '...Council.  f.', 'andw.', 'ande.', 'andh.', 'and/ord.') causing list items to run together and potentially break downstream boundary splitting",
+        "Minor meaning/term drift: 'Kabupaten Layak Anak' should be rendered as 'Child-Friendly Regency/District' (not plural 'Regencies')",
+        "Broken numbering/list structure in Article 18: original has an unnumbered first paragraph under Pasal 18 followed by items 2–4; translation keeps this but should explicitly preserve the missing item (1) marker to match the original structure used downstream.",
+        "Minor meaning drift/term choice: 'Kabupaten Layak Anak' is a specific program/title; translating as 'Child-Friendly Regency' is acceptable but better preserved as 'Child-Friendly District/Regency (Kabupaten Layak Anak)' to avoid ambiguity in legal indicator evaluation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: missing spaces/newlines causing items to run together (e.g., 'cara:a.', 'by:a.', 'andh.', 'andf.', 'and/org.', 'and/ord.', 'andc.', 'andg.', 'including:1)' etc.), which breaks list/numbering structure required for downstream splitting.",
+        "Article 28 in the original is a lettered list (a, b, c) but the translation introduces it as an inline clause; needs to preserve the same list-item structure explicitly.",
+        "Minor meaning drift/terminology: 'Peraturan Bupati' should be 'Regent Regulation' (not 'Regent Regulation' is fine) but 'Tata cara dan prosedur' better rendered as 'procedures and procedures'—current 'procedures and mechanisms' is acceptable; main required fix is structural rather than semantic.",
+        "Article 28 list marker structure differs from original: original begins directly with item 'b.' (with 'a.' missing) and has 'danc. ...' (c. preceded by 'and'); translation normalizes to a., b., c., which breaks downstream boundary matching.",
+        "Article 29 numbering structure differs from original: original has no '1.'/'2.' markers and contains a stray '3.' and '4.'; translation adds '1.' and '2.' and restructures content, which breaks list/numbering alignment.",
+        "Meaning drift in Article 27: 'Peraturan Bupati' should be translated as 'Regent Regulation', not 'Regent Regulation' is fine; however 'tata cara dan prosedur' is 'procedures and procedures/mechanisms'—current is acceptable; main issue is structural, not meaning. (Kept meaning but must restore numbering/markers to match original.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Ayat\" should be translated as \"Paragraph\" (or \"Clause\"), not \"Verse\" in a legal context."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "NUSA_TENGGARA_BARAT_LOMBOK_UTARA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.716668+00:00",
+  "prompt_version": "v2"
+}

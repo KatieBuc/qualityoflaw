@@ -1,0 +1,50 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 1,
+  "qa_passes_total": 5,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled list marker in Article 2: item 'e.' is merged into item 'd.' ('and e.'), not preserved as a separate list item as in the original.",
+        "Scrambled list marker in Article 6(2): sub-items 'a.' and 'b.' are on the same line; list structure should keep each marker as a distinct item in order.",
+        "Broken list item in Article 2: original has \"d. ...; dan e. ...\" (missing space/newline) but translation normalizes it; downstream requires list markers appear exactly once and in the same order/structure as the original, including the combined \"dane.\" marker.",
+        "Meaning drift in Article 2 list markers: original merges \"dan\" with item e (\"dane.\"), but translation separates into \"and\" plus \"e.\"; this changes the marker structure used for boundary-based retrieval."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: in the original, \"Pasal 14\" is a separate heading (#### Pasal 14), but in the translation it is merged into the Article 13 paragraph and the Article 14 heading is missing."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "MALUKU_UTARA_TERNATE_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.712514+00:00",
+  "prompt_version": "v2"
+}

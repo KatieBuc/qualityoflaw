@@ -1,0 +1,109 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 7,
+  "chunks_corrected": 7,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 14,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken numbering structure: in the \"In View of\" list, item \"5.\" is missing the line break/spacing before item \"6.\", causing the list formatting to be inconsistent with the original.",
+        "Minor meaning drift/terminology: \"Undang-Undang Dasar 1945 Amandemen\" is rendered as \"The 1945 Constitution ... Amendment\"; more accurate is \"The 1945 Constitution ... (as amended)\". (Kept meaning but corrected phrasing for legal accuracy.)",
+        "Broken numbering/list structure: item \"5.\" in the 'In View of' list is missing the required line break/termination, causing item \"6.\" to run on immediately after it (scrambled list boundary).",
+        "Minor meaning drift/terminology: 'Pembentukan Peraturan Perundang-undangan' is better rendered as 'Formation of Laws and Regulations' (not 'Formulation of Legislation')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 2(3) and Article 2(4): sub-items a–e are run together with the lead-in text (\"include:a.\") and item d/e are not cleanly separated, risking downstream boundary splitting.",
+        "Broken Markdown structure: the original has an additional heading line \"Maksud\" (unheaded text) under \"## Bagian Kesatu\"; translation renders it as \"Purpose\", which changes meaning (should be \"Intent\").",
+        "Meaning drift: \"Maksud\" was translated as \"Purpose\"; in this context it should be \"Intent\" (while \"Tujuan\" corresponds to \"Objectives\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list structure in Article 7(1): items c–f are run together on one line instead of separate lettered items; item l is merged into item k (missing separate 'l.' marker).",
+        "Minor meaning/term issue: 'Komisi Perlindungan Anak Indonsia Daerah' should be rendered as 'Regional Indonesian Child Protection Commission' (spelling/word order), not 'Indonesian Child Protection Commission Regional'.",
+        "Minor meaning drift/typo carried from source formatting: 'process peradilanl.' should be 'judicial process; l.' (separate item l).",
+        "Broken/scrambled list structure: in Article 7(1), items c–g are not kept as a single a–l list; markers c–g are split into separate lines/paragraphs and not formatted consistently with the original sequence.",
+        "Meaning drift/terminology: 'Komisi Perlindungan Anak Indonsia Daerah (KPAID)' is rendered as 'Regional Indonesian Child Protection Commission', which changes the proper name; should reflect 'Regional Indonesian Child Protection Commission (KPAID)' but based on the original wording (including the 'Indonesia' name) without adding 'Child' if not present in the name."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: in Article 12(1), Article 17(1), and Article 19(3) the sub-items a–d/a–c are run together with the preceding sentence (missing line break after the colon), which can break downstream list-boundary parsing."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 35(4): markers c., d., and e. are concatenated/missing line breaks (\"social advocacyd. legal aide. psychological...\") causing item boundaries to be unclear and out of order.",
+        "Minor meaning drift/terminology: \"bantuan hukum\" should be \"legal aid\" (not \"legal aide\"); NAPZA should be rendered as narcotics/psychotropics/addictive substances rather than generic \"drug abuse\" (kept as drug abuse elsewhere but better aligned in Article 35(4)(e)).",
+        "Scrambled/incorrect list structure in Article 35(4): markers c., d., e. are separated onto their own lines and not kept in a single ordered list item sequence as in the original (\"advokasi sosiald. bantuan hukume. ...\").",
+        "Minor meaning drift in Article 35(4)(a): \"penyuluhan\" is better rendered as \"outreach/education\" rather than \"counseling\" in this legal context (to avoid implying individual counseling services)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers due to missing spaces/line breaks: several sub-items are concatenated with preceding text (e.g., 'from:a.', 'andd.', 'include:a.', 'andg.', 'andh.', 'andg.'), which breaks list structure required for downstream splitting.",
+        "Minor meaning drift/terminology: 'pemulangan' is translated as 'repatriation' (could imply cross-border return); more accurate is 'return'.",
+        "Broken list/numbering structure: in Article 40 the original has list items a–d in one continuous list; the translation inserts an extra blank line before item a, which can break downstream list parsing.",
+        "Meaning drift/grammar: Article 43 is rendered as a sentence fragment; it should state that the obligations of the family and/or parents are to prevent all forms of violence and protect women and children as family members."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers due to missing spaces/newlines: Article 53(1) 'with:a.'; Article 54(2) merges 'andd.'; Article 55(2) merges 'ande.'; Article 58 merges 'andb.'",
+        "Meaning drift/grammar issue in Article 51(1)(c): original repeats 'diperlukan' (required) and refers to testimony needed in the investigation process report; translation omits the repetition but keeps meaning—minor; main required fix is structural list separation to preserve downstream parsing"
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_BEKASI_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.583674+00:00",
+  "prompt_version": "v2"
+}

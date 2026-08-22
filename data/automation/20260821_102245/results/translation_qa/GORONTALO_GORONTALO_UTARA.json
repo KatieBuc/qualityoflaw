@@ -1,0 +1,95 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list items in the 'Considering' section: items c., d., and e. are run together and the markers 'd.' and 'e.' are missing as separate list items (\"violenced. ... violencee.\").",
+        "Meaning drift/omission risk due to the merged items: the content for letters d and e is not clearly separated and 'Bearing in Mind:' is incorrectly attached to letter e instead of starting a new section after e.",
+        "Scrambled/merged list structure in the original 'Menimbang' section: items b–e are run together in the source; translation presents them as cleanly separated a–e, which may not match downstream marker-boundary expectations.",
+        "Meaning drift/omission risk: original text includes explicit reference to considerations in letters a, b, and c, but due to source scrambling it also contains additional clauses (including a 'd.' clause and an 'e.' clause) that are not clearly delimited; translation should preserve the original's run-on formatting to avoid introducing structure not present in the source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken numbering/marker structure in Article 1: item 21 is written as \"21 .\" in the original but rendered as \"21.\" in the translation; downstream splitting requires the same marker formatting.",
+        "Meaning drift in Article 2 principles list: original text has a corrupted marker sequence \"d...; dane. kepastian hukum\" (i.e., \"d\" then \"e\" attached to \"dan\"), but the translation normalizes it to a clean \"d...; and e...\"; for strict boundary matching the translated markers should reflect the original structure.",
+        "Minor meaning drift in Article 1 point 15: \"kejaksaan\" is \"prosecution service/prosecutor's office\"; translation uses \"prosecutor's office\" (ok) but should keep parallelism with other institutions and avoid implying only an office; adjusted to \"prosecution service\".",
+        "Broken/scrambled list markers in Article 2: original has items a–e, but translation merges 'd' and 'e' into 'ande.' and changes the text around item d/e.",
+        "Minor numbering/formatting issue in Article 1 item 21: original shows '21 .' (with a space before the dot); translation keeps it but spacing is inconsistent with other items—standardize to '21.' while preserving content.",
+        "Meaning drift in Article 2 item d/e due to marker merge: original reads 'd. bagi Korban tindak kekerasan; dan e. kepastian hukum.' but translation renders 'd. for victims of acts of violence; ande. legal certainty.' (missing separate 'e.' marker)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers and text: several sub-items are concatenated (e.g., 'activities:a.', 'and/ataud.', 'andd.', 'andf.', 'ando.') instead of appearing as separate list items in order.",
+        "Broken numbering/marker fidelity: Article 15 is not formatted as a heading like the original 'Pasa l 15 (1)' line; paragraph markers '(1)' vs '(l)' are inconsistent; some list markers (a., b., c., etc.) are not cleanly separated.",
+        "Meaning drift/translation errors: 'Peraturan Gubernur' should be 'Governor Regulation' (not 'Governor Regulation' is fine) but 'Peraturan Bupati' should be 'Regent Regulation' vs 'Regent Decree'—original uses 'Keputusan Bupati' (Decree) in Art. 18(4) and Art. 22(3), but Art. 21 uses 'Peraturan Bupati' (Regulation); translation correctly uses Regulation in Art. 21 but needs to ensure Decree/Regulation distinctions are preserved; also 'special service rooms in police lines' is awkward but acceptable; main required fix is structural/marker separation to avoid downstream boundary errors. ",
+        "Broken/missing heading for Pasal 15: original has an Article 15 section but translation leaves it as plain text \"Pasa l 15 (1)\" instead of a \"#### Article 15\" heading.",
+        "List/numbering structure mismatch in Article 15: paragraph (1) is not properly separated under the Article 15 heading, causing structural boundary errors for downstream splitting.",
+        "Minor meaning/term drift: \"Peraturan Gubernur\" should be \"Governor's Regulation\" (possessive) / \"Gubernatorial Regulation\"; and \"special service rooms in police lines\" is an inaccurate rendering of \"ruang pelayanan khusus dijajaran kepolisian\" (should be within the police institution/units)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 23(1): lettered items a–k are run together; marker \"k.\" is corrupted as \"orek.\" and spacing like \"j .\" is inconsistent with original markers.",
+        "Scrambled/merged list structure in Article 23(2): lettered items a–h are run together; \"and/orh.\" is merged and should be a separate \"h.\" item.",
+        "Scrambled/merged list structure in Article 24(1): \"d\" and \"e\" items are merged (\"dane.\") and should be separate markers in order.",
+        "Scrambled/merged list structure in Article 24(2): \"f\" and \"g\" items are merged (\"andg.\") and should be separate markers in order.",
+        "Scrambled/merged list structure in Article 25(2): \"and/ord.\" is merged and should be a separate \"d.\" item.",
+        "Scrambled/merged list structure in Article 30: \"and/orb.\" is merged and should be a separate \"b.\" item.",
+        "Broken/scrambled list structure in Article 23(1): in the original, item 1 contains an inline list starting with “dengan:a.”; the translation reformats it as a nested list, which changes the marker structure used for downstream splitting.",
+        "Meaning drift in Article 23(1) item h: “proses di siding pengadilan” means “trial/court session process”; translation renders it as “court hearing process” (acceptable) but should be “trial/court session” to match legal sense more closely.",
+        "Minor meaning drift/terminology: “sosialisasi” is better rendered as “dissemination/outreach” rather than “socialization” in a legal-policy context (appears in Articles 23(2), 25(2), 27(2))."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal commentary at end of translation: \"This excerpt sits under: CHAPTER XII > CLOSING PROVISIONS\" is not in the original text.",
+        "Meaning drift/formatting error in Article 22 Number 7: opening quotation mark is not closed in the translation (should close after \"victims\").",
+        "Scrambled/incorrect list structure in Article 6 Letter f: item a is incomplete and item b contains the continuation; should be a single item a followed by b–e as in the original.",
+        "Minor meaning drift/typo: \"Paragraph(l)\" should be \"Paragraph (1)\" to match Ayat (1) formatting in the original (not letter l)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "GORONTALO_GORONTALO_UTARA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.575116+00:00",
+  "prompt_version": "v2"
+}

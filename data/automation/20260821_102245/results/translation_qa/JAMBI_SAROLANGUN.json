@@ -1,0 +1,105 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 6,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in item 3: 'Tanjung Jambung Timur' should be 'Tanjung Jabung Timur' (matches the Indonesian text).",
+        "Meaning drift in the first heading: \"SALINANBUPATI SAROLANGUN\" was translated as \"COPY REGENT OF SAROLANGUN\"; it should reflect \"Copy of the Regent of Sarolangun\" (i.e., a copy of the document), not \"copy regent\".",
+        "Minor meaning drift/terminology: \"Pembentukan Peraturan Perundang-Undangan\" is more accurately \"Formation/Establishment of Laws and Regulations\" rather than \"Formulation of Legislation\" (appears in items 8 and 15)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list numbering in Article 1: item 9 is run into item 8 (\"...women. 9. Gender...\")",
+        "Scrambled/merged lettered list items in Article 2: \"andi.\" is merged into the previous item instead of being a separate \"i.\" item",
+        "Scrambled/merged lettered list items in Article 3: items c. and d. are merged into the previous text (\"...quality; c.\" and \"...systems; andd.\")",
+        "Scrambled/merged lettered list items in Article 4: item k. is merged into the previous text (\"andk.\")",
+        "Scrambled/merged sub-items in Article 5(1): the \"a.\" marker is merged into the preceding text (\"right to:a.\") and \"k.\" is merged (\"andk.\")",
+        "Broken/scrambled list structure in Article 5(1): in the original, the lettered items a–k are inline within item (1) (e.g., \"1. ...:a.\"); the translation reformats them as an indented sublist, changing the marker structure used for downstream splitting.",
+        "Minor meaning drift in Article 5(1)(f): \"bebas dari perbudakan atau diperhamba\" is better rendered as \"free from slavery or servitude\" (not \"slavery or enslavement\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated with preceding text (e.g., 'include:a.', 'andc.', 'andd.', 'and/or g.', 'ande.', 'andf.') causing list structure to be unclear for downstream splitting.",
+        "Minor meaning drift/wording: Article 13(2) 'kebutuhan hidup yang layak' should be 'decent living needs/standard of living' (not 'a decent living' as an object).",
+        "Scrambled/incorrect list structure in Article 7(2): original has 'meliputi:a.' with items a, b, c; translation reformats but OK; however original text has merged 'danc.': must be rendered as 'and c.' (already) — no issue. Main issue is Article 15 list marker formatting: item b and c are merged in translation ('b. child identity card.  c.') instead of separate items, which breaks list structure for downstream splitting.",
+        "Broken list formatting/extra blank lines that separate markers from content: Article 8 and Article 9/10/12/14/15/16/17/18 contain blank lines that split list markers from their content blocks; Article 8 has 'and' on its own line and 'd. law.' separated, which can be parsed incorrectly.",
+        "Minor meaning drift in Article 16(e): original 'tidak mengekspose' = 'does not expose/publicize'; translation 'does not expose' is acceptable; no change needed. No other meaning drift found."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: multiple items are concatenated (e.g., 'ande.', 'by: a.'; 'andh.', 'andi.', 'andg.', 'andl.'), and in Article 27(3) items 'm.' and 'n.' are merged; this breaks list structure required for downstream splitting.",
+        "Broken list/numbering structure in Article 20, 21, 22, 23, 24, 26, 27(3), 29 where lettered items are not consistently on their own markers/lines as in the original.",
+        "Minor meaning drift/clarity risk from merged markers (e.g., Article 19 'and e.'; Article 27(3) 'm.'/'n.'), which can cause item boundaries to be misread.",
+        "Scrambled list/numbering structure in the original: several list markers are merged (e.g., 'dane.','danh.','dangi.','dang.','andl.') and must be separated into distinct items (d and e; g and h; h and i; f and g; and l). The English translation regularized these, but downstream requires the same marker sequence as the original.",
+        "Meaning drift: Article 20(b) in the original says welfare support is provided to all children; the translation says the Regional Government provides it (reasonable from context) but the original list is within the Regional Government clause—OK. Main meaning issue is structural: merged markers in the source imply missing explicit markers; corrected translation must reflect the intended separate items while preserving order."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering and list structure: several paragraph markers and lettered items are run together (e.g., Article 31(3) with (4); Article 32(1) with (2); Article 33(1) with a./b.; multiple 'andg/andk/andc' merged), which breaks downstream boundary splitting.",
+        "Meaning drift: Article 35(2) incorrectly refers to paragraph (4) (should be paragraph (1)).",
+        "Broken Markdown heading structure: original has '## Bagian Hukum,' but translation renders it as '## Legal Division,' (should remain a section heading at same level but translated consistently with the original phrase; also the comma placement should match the heading text).",
+        "Meaning drift/terminology: 'Bagian Hukum' is an organizational unit name; translating as 'Legal Division' is acceptable, but the original includes the Indonesian label as part of the formal document structure; downstream matching may expect the exact heading text translation pattern used elsewhere (e.g., 'Section').",
+        "Minor meaning drift: 'An Sekretaris Daerah Asisten Pemerintahan u.b Kepala' is rendered as 'On Behalf of Regional Secretary Assistant for Government u.b Head of' leaving 'u.b' untranslated/unclear; should be expanded to 'for/on behalf of the Head of' to preserve meaning."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure: several list markers are merged with adjacent items (e.g., \"andx.\", \"h. ...; i.\", \"and/orj.\", \"c. ...; d.\", \"f. ...; g.\", \"i. ...; j.\", \"andl.\") instead of appearing as separate list items in the same order as the original.",
+        "Meaning drift: \"kedayagunaan dan kehasilgunaan\" is translated as \"effectiveness and efficiency\"; it should be closer to \"utility and effectiveness\" (or \"usefulness and effectiveness\").",
+        "Broken Markdown structure: missing heading for '#### Pasal 38' (Article 38) before the final supplement heading.",
+        "Meaning drift/omission: the content for Pasal 38 ('Cukup jelas') is missing in the translation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAMBI_SAROLANGUN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.577940+00:00",
+  "prompt_version": "v2"
+}

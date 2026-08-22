@@ -1,0 +1,78 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Indonesian heading \"Mengingat::\" (legal basis/\"In view of\") was mistranslated as \"Considering::\".",
+        "Scrambled/merged numbering structure: items 1 and 2 in the \"Mengingat\" list are run together on one line (\"1. ...; 2. ...\"), unlike the original which separates them as distinct numbered items.",
+        "Meaning drift/format: item 14 has mismatched punctuation and an incorrect year placement compared to the original (should keep the same citation text structure; original shows \"Tahun 2004\" even though the law is 2006).",
+        "Scrambled/incorrect list structure: item f. under \"Mengingat\" is actually part of \"Menimbang\" (considerations) and must appear before the \"Mengingat\" section.",
+        "Meaning drift: \"Mengingat\" should be translated as \"Considering\"/\"Having regard to\" (legal basis), not \"In view of\" used after a separate \"Considering\" section; also the placement changes the logical meaning/structure.",
+        "Minor fidelity issue: retained informal note in item 5 (\"sudah ada yang terbaru...\") should be translated but kept as part of item 5 with proper punctuation; current translation runs on without a period."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 1: items 4–5 and 11–12 are run together on one line, breaking the numbered list structure required for downstream splitting.",
+        "Scrambled/merged lettered list markers in Article 2: points c, d, and e are merged into one line (\"c. ... d. ... e. ...\"), breaking the list structure.",
+        "Minor meaning drift in Article 17: Indonesian says \"pemenuhan dan penanggulangan\" (fulfillment and countermeasures/mitigation), but translation renders \"fulfillment and prevention\" (prevention ≠ mitigation/handling).",
+        "Broken Markdown structure: in the original, the line 'PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK, TERUTAMA KORBAN KEKERASAN' is plain text under '# BAB V' (not a heading), but the translation renders it as a level-1 heading '# IMPLEMENTATION ...', changing structure.",
+        "Scrambled list/numbering structure in Article 1: original items 4–5 and 11–12 are merged on the same line; translation separates them, which is fine, but item 25 is missing the terminating punctuation/line break before item 26 (should preserve item boundaries clearly)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/malformed list structure: several sub-items are merged (e.g., \"andd.\", \"andc.\", \"andh.\") and paragraph markers (2) and (3) in Article 8 are embedded mid-paragraph instead of appearing as separate numbered items.",
+        "Scrambled numbering in Article 7: paragraph (2) is embedded inside item 1 instead of being a separate item 2.",
+        "Meaning drift: \"layanan penjagaan\" is translated as \"Protection services\" in Article 6(2) and throughout; it should be \"safeguarding\" (distinct from \"perlindungan\"/protection).",
+        "Meaning drift/term inconsistency: Article 8(4) refers to \"penjagaan\" (safeguarding) but translation renders it as \"protection\".",
+        "Meaning drift: Article 9(1)(f) references cooperation with P2TP2T (as in the source), but the translation should preserve the same acronym while keeping the rest; also ensure list item separation so (f) is not merged into (e).",
+        "Broken/scrambled list structure in Article 11: item marker \"a.\" is not aligned/indented consistently with items b–e, risking downstream list parsing.",
+        "Meaning drift in Article 6(4), Article 9(3), and Article 8(3): \"Peraturan Bupati\" should be rendered as \"Regent Regulation\" (a regulation), not \"Regent Regulation\" in some places and not \"Regent Regulation\" vs \"Regent Regulation\" is fine, but \"Regent Regulation\" is correct; however Article 6(4) and 9(3) omit the definite article consistency is fine; main drift is using \"Regent Regulation\" vs \"Regent Regulation\"? (No). More substantive: Article 6(4) should be \"Regent Regulation\" (Peraturan Bupati), not \"Regent Regulation\" (already). Actually the drift is in Article 6(4) and 9(3): should be \"Regent Regulation\" not \"Regent Regulation\"—already correct. The real meaning drift: Article 6(4) should say \"regulated further by a Regent Regulation\"; translation says \"by Regent Regulation\" (acceptable). No drift. Therefore remove. Instead: Meaning drift in Article 9(1)(f): original references cooperation with \"P2TP2T\" (typo in original) but institution earlier is P2TP2A; translation keeps P2TP2T; this is faithful to original though. So not drift. Main issue remains list indentation/structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure in Article 18(2): lettered items a–e are not consistently separated onto their own lines; marker 'a.' is embedded in the same line as the lead-in, risking boundary-based parsing errors.",
+        "Minor meaning drift/terminology: 'dana kurungan' in Article 21 is rendered as 'imprisonment' (should be 'confinement/detention'); also keep the legal term consistent with other articles.",
+        "Scrambled list/numbering structure in Article 18(2): original has inline markers 'a.' 'b.' 'c.' 'd.' 'e.' on the same numbering line; translation reformatted into a nested list, which may break downstream boundary-based retrieval.",
+        "Meaning drift in Article 18(2)(c): 'mendatangkan ahli' means to bring in/present experts, not to summon experts."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_BLITAR.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.639401+00:00",
+  "prompt_version": "v2"
+}

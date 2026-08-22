@@ -1,0 +1,94 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Mengingat\" should be translated as \"Considering\"/\"Whereas\" in the sense of \"Having regard to\", not \"In View of\" (nonstandard legal rendering that can affect downstream indicator parsing)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 2: items e–g are run together (\"e...; f...; andg...\") and item (2) is not marked as a separate paragraph/numbered item.",
+        "Scrambled/merged list structure in Article 3: letter item d is merged into item c (\"...legislation; andd...\").",
+        "Scrambled/merged list structure in Article 4: letter item d is merged into item c (\"...prevention; andd...\").",
+        "Scrambled/altered list structure in Article 2: original has 'Azas (1) ... meliputi:' followed by lettered items a–g, then a separate item '2. Kepastian Hukum dan Kearifan lokal.'; translation renders 'Principles' as a standalone line and changes '2.' into a continuation of the same list without matching the original structure.",
+        "Minor meaning drift in Article 2 item 2: 'Kepastian Hukum dan Kearifan lokal' should be rendered as a principle alongside the others; keep it as numbered item '2.' as in the original (not merged into (1) list)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are concatenated (e.g., 'andf.', 'andc.', 'ande.') causing list structure to be broken in Articles 5, 7, 8, 9, 13, 16, 17, 18.",
+        "Meaning drift/omission risk due to merged markers: some conjunctions and item boundaries are unclear (e.g., Article 5 e–f; Article 7 b–c; Article 8 (1) a–f; Article 9 d–e; Article 13 (1) a–b, (2) b–c, (3) b–c; Article 16 d–e; Article 17 d–e; Article 18 b–c).",
+        "Scrambled/incorrect list marker formatting in Article 10: item b is not marked as \"b.\" (it appears as a continuation after item a).",
+        "Meaning drift/grammar error in Article 18 letter c: \"to carry out prevention and against women and children\" is missing the object of prevention; should be \"prevention of acts of violence against women and children\" (pencegahan ... dari tindak kekerasan)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are attached to preceding text without a line break (e.g., 'fields of:a.', 'covering:a.', 'include:a.'), and some markers are merged ('andg.', 'andf.', 'andd.'), which can break downstream boundary splitting.",
+        "Minor meaning/terminology drift: 'ketenteraman dan ketertiban' is better rendered as 'tranquility and public order' (not 'peace and order'); keep legal sense.",
+        "Punctuation/structure: missing period at end of Article 21(2) sentence; list items should be clearly separated and consistently formatted."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 32(2): the marker \"a.\" is merged into the preceding sentence (\"...form of:a.\") and items a–b run together; line breaks/markers are not cleanly separated as in the original, risking downstream boundary parsing.",
+        "Scrambled list structure in Article 32(2): in the original, items a–e are run together (\"...berupa:a. ... kelurahanb. ... dane.\"), but the translation presents them as separate items; needs correction to ensure each marker a–e corresponds to the correct content and includes the missing punctuation/word breaks (\"and\" before e).",
+        "Minor meaning/terminology drift: \"sosialisasi\" is better rendered as \"dissemination/outreach\" rather than \"socialization\" in a legal/policy context; adjust to avoid awkward/misleading term."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/flattened internal structure: markers such as Huruf/Letter a–g, Ayat/Paragraph 1–4, Butir/Point a–b are run together in single paragraphs instead of being clearly separated in the same order as the original, risking boundary-based retrieval errors.",
+        "Minor meaning/term drift: 'aparat desa/kelurahan' is rendered as 'village/sub-district officials' (kelurahan is urban village, not sub-district); keep as 'village/urban village officials'."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "MALUKU_MALUKU_TENGAH.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.709720+00:00",
+  "prompt_version": "v2"
+}

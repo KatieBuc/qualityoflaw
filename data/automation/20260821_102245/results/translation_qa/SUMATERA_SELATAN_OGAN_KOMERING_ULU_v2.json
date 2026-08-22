@@ -1,0 +1,212 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 13,
+  "chunks_corrected": 13,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 12,
+  "qa_passes_total": 26,
+  "max_passes": 2,
+  "lost_clauses": [
+    "Paragraph 11"
+  ],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"SALINAN\" should be rendered as \"COPY\"/\"EXCERPT\" is acceptable, but the standard legal rendering is \"COPY\"; no change needed there. However, \"Dengan Persetujuan Bersama\" is better translated as \"With Joint Approval\" (not \"With Mutual Approval\") to reflect formal legislative phrasing.",
+        "Leftover pagination artifacts included: \"-1-\" inside item 4 and standalone \"2-\" line are not part of the legal text and should be removed (they are page markers).",
+        "Broken structure/omission: the standalone line \"2-\" present in the original between items 12 and 13 is missing in the translation (downstream boundary-sensitive content).",
+        "Meaning/format fidelity: the original contains the page marker \"-1-\" within item 4 and \"2-\" as a separate line; the translation removed/normalized these markers instead of preserving them verbatim."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Leftover pagination artifact \"5-\" appears as a standalone line between items 28 and 29 (not part of the legal text).",
+        "Minor meaning drift/typo: Indonesian item 26 spells \"Acquired Immuno Deficiencg Syndrome\" (as written in source); translation normalizes it to \"Acquired Immuno Deficiency Syndrome\" instead of reflecting the source text exactly.",
+        "Original contains standalone page markers \"5-\" and \"-6-\"; translation omits these, causing content mismatch for downstream boundary-sensitive processing.",
+        "Minor meaning drift in Article 1 point 18: original includes \"-4-\" page marker within the sentence; translation omits it (should be preserved as in source)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items run together without separation (e.g., 'andd.', 'andb.', 'andc.', 'andg.', 'andf.'), which can break downstream list-boundary parsing.",
+        "Minor meaning drift/unnatural phrasing: 'field of economic culture and social' should be rendered as 'economic, cultural, and social fields' (Indonesian: 'bidang ekonomi budaya dan sosial')."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are concatenated (e.g., 'andb.', 'andc.', 'andd.') in Articles 16, 17, 19(2), 20, 21(1)-(2), 22(1), 23(h), 27, which breaks list structure required for downstream splitting.",
+        "Minor meaning drift/terminology: Article 22(1) 'satuan tugas' is rendered as 'operational task force' (should be 'task unit'/'task force'); keep consistent with 'task force'/'task unit' without adding 'operational'.",
+        "Broken list/numbering structure in Article 21: paragraph markers are inconsistent with the original (uses '( 1 )' for item 1 but '2.' and '3.' instead of '( 2 )' and '( 3 )')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: multiple items run together (e.g., 'andd.', 'andc.', 'andh.', 'ando.') and missing line breaks between list items, which can break downstream boundary detection.",
+        "List/numbering structure not faithfully preserved: Article 29 paragraphs (3)-(6) are not formatted as '( 3 )' etc. like the original (they appear as '3.' etc.), and several list items (b., c., etc.) are on the same line instead of separate items.",
+        "Minor meaning drift/unnatural rendering: 'prevent marriage at child age' should be 'prevent marriage at a child's age/child marriage' (clarity), while keeping the same legal meaning.",
+        "Scrambled/incorrect numbering structure in Article 29: original uses items \"3.\", \"4.\", \"5.\", \"6.\" (not \"( 3 )\" etc.), so list markers do not match the source and will break downstream boundary splitting.",
+        "Minor meaning drift in Article 29(4) item i: \"Puskesmas ramah anak\" is \"child-friendly community health centers\" (plural) in translation; source is singular (can be rendered generically but should match)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are run together without proper separation (e.g., 'through:a.', 'andn.', 'andp.', 'andd.', 'andc.', 'and/ orj.'), and Article 36(1) item h contains item i on the same line.",
+        "Meaning drift/terminology inconsistency: 'Anak yang Berhadapan Dengan Hukum' is translated as 'Children in Conflict with the Law' throughout, whereas it means 'Children in Contact with/Dealing with the Law' (broader than only 'in conflict').",
+        "Minor meaning/wording error: Article 37(4) translates 'Pemberian keadilan' as 'Provision of justice' instead of 'Provision of a trial/hearing' (context is court proceedings).",
+        "Scrambled/broken list marker in Article 35(1): the original has \"dan n.\" (and n.) run together; translation normalizes it but does not reflect the original marker sequence exactly. Also the stray page marker \"22-\" appears mid-list and should be preserved but not break list structure.",
+        "Meaning drift in Article 35(1) letter m: original includes \"dan\" (and) before letter n; translation renders as \"and\" but the original has a formatting error (\"dann.\") that should be reflected as separate \"and\" + \"n.\" item marker sequence, not merged.",
+        "Minor meaning drift/typo handling: Article 35(3) original has typos (\"yaang\", \"leh\") but meaning is clear; translation is fine, but correction needed only to align list-marker structure with the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list markers are concatenated with preceding text (e.g., 'form of:a.', 'andc.', 'through:a.', 'andb.', 'andf.', etc.), which breaks downstream list-boundary parsing.",
+        "Article 43(2) meaning drift/structure error: the translation incorrectly includes an extra 'c.' clause inside paragraph (2) (and refers to paragraph (2)), whereas in the original paragraph (2) contains only items a and b; the 'implemented in accordance...' sentence belongs to paragraph (3).",
+        "Stray page-number artifacts/formatting: '30-' appears as a standalone line and '-29-' is embedded after a colon; these should be preserved but placed consistently as in the original flow (not as a dangling line).",
+        "Scrambled/incorrect list structure in Article 43: original paragraph (2) contains items a, b, and c (where c is a sentence about implementation per laws), and original paragraph (3) repeats that same sentence; translation omits item c under paragraph (2) and therefore loses the duplication structure.",
+        "Meaning drift in Article 43 due to the above omission: the translated text does not reflect that point (c) appears under paragraph (2) and is then repeated again as paragraph (3) in the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled/garbled list markers and conjunctions: several items are merged (\"ande.\", \"andd.\", \"and/ore.\", \"andf.\", \"andc.\") and some list markers are attached to preceding text (e.g., \"through:a.\", \"to:a.\", \"needs:a.\").",
+        "Extraneous pagination artifacts included in the legal text (\"-31-\", \"32-\", \"33-\", \"34-\", \"-35-\") disrupting list structure.",
+        "Meaning drift/clarity issue in Article 56(e): \"sistem panti dan nonpanti\" should be \"institutional (orphanage/residential) and non-institutional\"; current \"institutional and non-institutional systems\" is acceptable but tightened to reflect the original term.",
+        "Scrambled list/numbering structure in Article 65: item markers (a.–d.) are separated from the introductory clause; in the original they are part of point (1) after 'untuk:'",
+        "Minor meaning drift in Article 56(e): 'panti dan nonpanti' is rendered as 'institutional (residential/orphanage) and non-institutional systems', adding 'orphanage' which is not stated in the original"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., 'andc.', 'ande.', 'and/ord.', 'andb.', 'andd.', 'and/orek.', 'and/org.') causing list structure to be unclear and potentially mis-parsed downstream.",
+        "Meaning drift in Article 75(4): original says care/rehabilitation is carried out 'by' (missing subject in source text), but translation omits 'by' entirely; should preserve the source’s phrasing/structure.",
+        "Minor source artifacts/page markers ('36-', '-37-', '-38-', '39-') are preserved, but some are embedded within sentences (e.g., Article 78, Article 81) and should remain as in source while not breaking list items; current placement is acceptable but list-marker merging around them needs correction.",
+        "Scrambled/merged list markers in the original (\"danc.\", \"dane.\", \"dan/ataud.\") were normalized in translation; downstream requires markers appear exactly once and in the same order—needs explicit a–c / a–e / a–d structure matching the original.",
+        "Meaning/structure issue in Article 75(4): translation contains an incomplete agent phrase (\"is carried out by in accordance...\") and omits the subject present in the original (though the original itself is defective, it still contains \"oleh\" that must be reflected).",
+        "Article 80(1) incorrectly references Article 74; the original references Pasal 74 but contextually should be Pasal 76—however per instructions we must follow the original text as ground truth; keep as Article 74 (no change needed)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated (e.g., \"andd.\", \"andc.\", \"and/ord.\") instead of appearing as separate list items a., b., c., d. in the same order as the original.",
+        "Minor meaning/term issue: \"huruf 1\" should be rendered as \"letter l\" (ell), not \"letter 1\" (one).",
+        "Leftover pagination artifacts kept inside sentences/lines (e.g., \"-40-\", \"-41-\", \"-42-\", \"43-\", \"-44-\") should be removed from the legal text; they are not part of the normative content and can disrupt downstream parsing.",
+        "Broken/mismatched heading structure: original has no \"### Paragraph 11\" heading (it is plain text \"### Paragraf 11\"), but translation adds a level-3 heading; original later has plain text \"Pargraf 12 Anak Penyandang Disabilitas\" but translation renders it as a heading-like line and changes content.",
+        "Meaning drift/typos in section label: \"Pargraf 12\" is misspelled in original and should be preserved as-is (only translated), but translation keeps misspelling and also changes structure; also original uses \"Anak Penyandang Disabilitas\" which should be translated consistently as \"Children with Disabilities\" but without turning it into a heading.",
+        "Stray pagination artifacts in original (e.g., \"-40-\", \"-41-\", \"-42-\", \"43-\", \"-44-\") are omitted in translation; for strict downstream boundary/content preservation, these should be retained as plain text in the corresponding positions."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list items are concatenated (e.g., 'andb.', 'andd.', 'and/orb.', 'are:a.') instead of appearing as separate items in order (Articles 103, 104, 105, 109, 115(2), 118, 119, 123).",
+        "List marker formatting not preserved: Article 115(2) sub-items a–e are not properly separated; Article 120 uses spaced markers '( 1 )' etc. but acceptable; main issue is merged markers affecting downstream splitting.",
+        "Scrambled/incorrect list-item formatting in several places where markers and conjunctions are merged in the original (e.g., Article 103 'danb.', Article 104 'dand.', Article 105 'dan/ataub.', Article 109 'dand.', Article 118 'b.pemberian', Article 119 'danb.', Article 123 'andf.'); translation should preserve separate list items a., b., c., d., etc. in correct order.",
+        "Extraneous page-number artifacts retained as inline text ('-45-', '-46-', '-47-', '-48-', '49-') that interrupt sentences/lists and are not part of the legal content."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Scrambled list formatting: several list items are concatenated (e.g., \"andc.\", \"andb.\", \"with:a.\", \"and/orb.\", \"by:a.\", \"andi.\", \"through:a.\", \"andc.\", \"includes:a.\", \"ande.\", \"form of:a.\", \"andb.\", \"andb.\") causing markers/content to run together.",
+        "Meaning drift/typo: Article 139(2) uses \"or e.\" but should be \"or\" + item \"e.\" (i.e., \"or\" before e.).",
+        "Minor text artifact retained: page markers like \"50-\", \"51-\", \"52-\", \"53-\", \"-54-\" appear inline and disrupt structure; should be separated as standalone lines to avoid merging with list items. (Content retained, only repositioned)",
+        "Scrambled list/numbering structure: in Article 128 item (2) lost its leading list marker and appears as a standalone paragraph after a stray \"50-\" line; should be \"2.\" to match the original sequence.",
+        "Scrambled list/numbering structure: in Article 138 the page marker \"-54-\" is inserted between list items a and b, breaking the list continuity; it should not split the list items.",
+        "Minor meaning/structure fidelity: Article 128 uses \"1.\" then \"(2)\"; original uses \"1.\" then \"(2)\" preceded by \"50-\" page marker—normalize numbering to consistent list items while preserving the page marker line separately."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"dicabut dan dinyatakan tidak berlaku\" should be translated as \"revoked and declared no longer in force\" (not \"declared invalid\").",
+        "Meaning drift: \"memerintahkan Pengundangan\" should be translated as \"orders the promulgation\"; current text has awkward/incorrect \"orders\" phrasing.",
+        "Meaning drift: \"Plh. BUPATI\" is \"Acting Regent\"; translation uses \"Acting REGENT\" but should reflect the Indonesian abbreviation more precisely as \"Acting Regent\" (case/wording consistency).",
+        "Meaning drift: Several Indonesian official titles left untranslated (e.g., \"PEMBINA TINGKAT I\") while surrounding similar items are translated; for consistency and to avoid downstream indicator errors, translate these titles.",
+        "Minor wording: \"Salinan Sesuai Dengan Aslinya\" better rendered as \"Certified True Copy\" rather than \"True Copy of the Original\".",
+        "Meaning drift: \"memerintahkan Pengundangan\" should be rendered as \"orders the promulgation\" (not \"orders ... orders\"), and the repeated phrase should remain faithful to the original wording.",
+        "Minor meaning drift/terminology: \"Plh. BUPATI\" is \"Acting/Ad interim Regent\"; translation uses \"Acting Regent\" which is acceptable, but the surrounding duplicated text should not introduce extra verbs (\"orders\") not present in the Indonesian.",
+        "Formatting/structure fidelity: the translation merges repeated Indonesian lines into long run-on sentences; while duplication exists in the source, the English should preserve the same line/paragraph breaks to avoid downstream boundary confusion."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.753587+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,53 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 1,
+  "qa_passes_total": 5,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown/list structure in Article 1 preamble: original has items 1 and 2 on the same line; translation split them into separate lines, changing list-item boundaries used for downstream splitting.",
+        "Meaning drift/omission in Article 1 item 10: original includes protection when one sees/hears/knows that violence 'will, is, or has' occurred; translation renders 'impending' but drops the explicit 'will' (akan) formulation and slightly alters the phrasing.",
+        "Punctuation/parenthesis errors affecting meaning/structure in 'In view of' list: item 6 has an unclosed parenthesis and stray punctuation; item 9 ends with '109.;' and is missing the closing parenthesis/formatting present in the original."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list numbering in Article 4: original has items 1., (2), and 3., but translation uses 1., (2), and 3. (missing parentheses on (1) reference consistency and missing marker '2.' as '(2)' should be a separate numbered paragraph).",
+        "In Article 4 paragraph (2), list marker 'a.' is attached to preceding text ('in the form of:a.') and should be separated to preserve list structure.",
+        "Minor meaning/format drift: 'pasal 4' reference in Article 12(1) should be 'Article 4' capitalized consistently; also ensure 'and/or' corresponds to 'dan atau'.",
+        "Scrambled/incorrect list numbering in Article 4: original has items (1), (2), and 3., but translation shows 1., (2), and 3. (missing parentheses for (1) and using 3. instead of (3)).",
+        "List marker formatting in Article 4: sub-items a–d belong under (1) and a–b under (2); ensure markers appear exactly as in the original sequence ((1) ... a–d; (2) ... a–b; (3) ...)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_BOJONEGORO.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.642155+00:00",
+  "prompt_version": "v2"
+}

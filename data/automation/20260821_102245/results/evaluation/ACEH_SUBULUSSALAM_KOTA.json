@@ -1,0 +1,469 @@
+{
+  "policy_file": "ACEH_SUBULUSSALAM_KOTA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-08-21T11:36:08.992962+00:00",
+  "prompt_version": "v3",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "c. that in reality, the quality of life of women is still low and vulnerable to threats of violence, persecution, torture, domestic violence, trafficking in women, exploitation and discrimination against women which need to be immediately stopped by providing protection in accordance with human dignity;",
+      "rationale": "The policy explicitly mentions “domestic violence” among the threats women are vulnerable to, indicating domestic violence is included within the policy’s scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "13. Violence is any act against a person, especially women, which results in misery or suffering physically, psychologically, sexually and/or domestic neglect including threats to commit acts, coercion, or deprivation of liberty unlawfully, whether within or outside the scope of the household.",
+      "rationale": "The policy’s definition of violence explicitly includes sexual suffering (“sexually”), which constitutes inclusion of sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "13. Violence is any act against a person, especially women, which results in misery or suffering physically, psychologically, sexually and/or domestic neglect including threats to commit acts, coercion, or deprivation of liberty unlawfully, whether within or outside the scope of the household.",
+      "rationale": "The policy defines violence as acts resulting in physical suffering (“physically”), which covers physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "13. Violence is any act against a person, especially women, which results in misery or suffering physically, psychologically, sexually and/or domestic neglect including threats to commit acts, coercion, or deprivation of liberty unlawfully, whether within or outside the scope of the household.",
+      "rationale": "The policy defines violence as acts resulting in psychological suffering (“psychologically”), which covers psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "13. Violence is any act against a person, especially women, which results in misery or suffering physically, psychologically, sexually and/or domestic neglect including threats to commit acts, coercion, or deprivation of liberty unlawfully, whether within or outside the scope of the household.",
+      "rationale": "The policy’s definition of violence explicitly includes “domestic neglect,” which is a form of economic violence/domestic neglect as requested by the criterion.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention early/child marriage, female genital mutilation, honour crimes, female infanticide, or other harmful practices. The reference to no coercion in marriage does not explicitly address early/child marriage or other listed harmful practices.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss violence against women generally but do not explicitly mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "c. that in reality, the quality of life of women is still low and vulnerable to threats of violence, persecution, torture, domestic violence, trafficking in women, exploitation and discrimination against women which need to be immediately stopped by providing protection in accordance with human dignity;",
+      "rationale": "The policy explicitly references “trafficking in women” as a threat that needs to be stopped, indicating inclusion of trafficking.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions trafficking/exploitation in general, it does not explicitly specify sexual exploitation or sexual slavery in the candidate sentences.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "h. Opening information and access to all forms of protection against actions that harm women, including the use of information technology, social media;",
+      "rationale": "The policy explicitly references protection against harmful actions including the use of information technology and social media, which constitutes inclusion of technology-facilitated violence/abuse.",
+      "evidence_verified": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "1. The Mayor forms a city-level Coordination Team in the implementation of women's rights fulfillment and women's empowerment programs.\n2. Coordination as referred to in paragraph (1) is carried out together with agencies, offices, educational institutions, the business world and community organizations related to women's empowerment and protection.",
+      "rationale": "The policy establishes a formal city-level Coordination Team formed by the Mayor for implementing women’s rights fulfillment and empowerment programs, and it specifies coordination with multiple external stakeholders (agencies, offices, educational institutions, business world, and community organizations), indicating an institutional coordination mechanism/network to support implementation.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "2. The establishment of the monitoring and evaluation team referred to in paragraph (1) may be carried out through cooperation with Universities, Women's/Gender Study Centers or Non-Governmental Organizations.\n(5) The implementation of monitoring and evaluation is carried out in cooperation with sub-district and kampong governments as well as civil society organizations.",
+      "rationale": "The policy explicitly allows cooperation with Non-Governmental Organizations in establishing the monitoring and evaluation team, and also states that monitoring and evaluation implementation is carried out in cooperation with civil society organizations, demonstrating collaboration mechanisms with non-government actors.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "1. Every service provider institution is obligated to conduct disaggregated data collection on women with disabilities, women with HIV/AIDS, women victims of violence, women victims of conflict and natural disasters who are handled in accordance with the documentation format that has been established.\n1. The Mayor is responsible for annual reports on the implementation of women's protection.",
+      "rationale": "The policy requires every service provider institution to conduct disaggregated data collection on women victims of violence (and other specified groups) using an established documentation format, and it assigns reporting responsibility to the Mayor through annual reports on women’s protection, indicating a system of data collection and reporting.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "b. Implementing gender mainstreaming and forming a gender mainstreaming working group;",
+      "rationale": "The policy requires the City Government to implement gender mainstreaming and to form a gender mainstreaming working group, establishing gender mainstreaming as an institutional mechanism relevant to implementing women’s empowerment/protection programs.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "The City Government organizes and facilitates capacity building activities for human resources regarding guidance, supervision of the implementation of women's rights fulfillment and women's empowerment programs for all SKPKs, Community Institutions, Business World, women's Forums and Media on a regular, tiered basis according to needs.",
+      "rationale": "The policy states that the City Government organizes and facilitates capacity building activities for human resources related to guidance and supervision of implementation for all SKPKs and other stakeholder groups, which constitutes required/provided training and capacity building for implementers.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "1. The Mayor conducts monitoring and evaluation of the implementation of women's empowerment and protection.\n1. The Mayor may establish a special team to conduct monitoring and evaluation of the implementation of women's empowerment and protection.",
+      "rationale": "The policy explicitly mandates that the Mayor conducts monitoring and evaluation of implementation, and it also provides for establishing a special team to conduct monitoring and evaluation, demonstrating a monitoring and evaluation mechanism for policy implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "23. UPTD PPA is a technical and integrated service unit in handling women and children victims of violence.\nb. Establish Integrated Service Centers for Women's Empowerment and Child Protection or UPTD PPA as a Technical Implementation Unit under the City Office of Women's Empowerment, Child Protection and Family Planning; and",
+      "rationale": "The policy defines UPTD PPA as a technical and integrated service unit for handling women and children victims of violence, and obliges the City Government to establish an Integrated Service Center for Women's Empowerment and Child Protection/UPTD PPA.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions establishing integrated crisis/service centers at police hospitals, it does not specify a specialised service unit within police offices (e.g., a dedicated police unit/desk) for VAW victims.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "a. Providing complaint/report handling services for victims of violence against women;",
+      "rationale": "The policy explicitly includes providing complaint/report handling services for victims of violence against women.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "c. Establish Shelters and Trauma Centers (RPTC) as facilities to provide protection and assist women with disabilities, women with HIV/AIDS, women victims of violence, women victims of conflict and natural disasters in psychosocial and traumatic recovery.",
+      "rationale": "The policy obliges the City Government to establish shelters and trauma centers as facilities to provide protection and assist women victims of violence (including psychosocial/trauma recovery).",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "3. The City Government is obligated to provide free legal assistance to women, women with disabilities, women with HIV/AIDS, poor women, minority women, women victims of violence, women victims of conflict and natural disasters who are indigent and facing legal problems.",
+      "rationale": "The policy explicitly obliges the City Government to provide free legal assistance to women victims of violence (and other groups) who are indigent and facing legal problems.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "c. Providing health services for women, women with disabilities, women with HIV/AIDS, minority women, poor women, women victims of violence, women victims of conflict and natural disasters from basic level to advanced referral.\na. Establish Integrated Crisis Centers (PKT) and/or Integrated Service Centers (PPT) at Regional General Hospitals, Police Hospitals, Private Hospitals to provide services for women with disabilities, women with HIV/AIDS, women victims of violence and women victims of conflict and natural disasters;",
+      "rationale": "The policy includes provision of health services for women victims of violence and requires establishing integrated crisis/service centers at hospitals (including regional general hospitals and others) to provide services to women victims of violence.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "2. Forms of protection as referred to in paragraph (1) include fulfillment of basic rights, security, consultation and legal assistance, psychosocial accompaniment, social reintegration and other actions that are needed.\nc. Establish Shelters and Trauma Centers (RPTC) as facilities to provide protection and assist women with disabilities, women with HIV/AIDS, women victims of violence, women victims of conflict and natural disasters in psychosocial and traumatic recovery.",
+      "rationale": "The policy includes psychosocial accompaniment as a form of protection and requires shelters/trauma centers to assist victims in psychosocial and traumatic recovery.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy defines assistance as potentially including spiritual guidance, the candidate sentences do not explicitly state that religious/spiritual counselling or guidance is provided as a service available to victims.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "f. Carrying out repatriation and social reintegration by building social safety networks starting from the gampong, sub-district and city levels;\n2. Forms of protection as referred to in paragraph (1) include fulfillment of basic rights, security, consultation and legal assistance, psychosocial accompaniment, social reintegration and other actions that are needed.",
+      "rationale": "The policy includes social reintegration and repatriation/social reintegration measures as part of protection for women victims of violence.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "a. Strengthening independence, namely efforts to increase knowledge, skills and work skills to more easily obtain employment;\nd. Opening access to capital, marketing, networking and maintaining local production results both at national and international levels;\n• (1) The city government provides adequate employment opportunities based on the level of education and skills possessed by women, women with disabilities, women with HIV/AIDS, minority women, poor women, women victims of violence, women victims of conflict and natural disasters.",
+      "rationale": "The policy provides economic empowerment measures applicable to women victims of violence, including skills/work training to obtain employment, opening access to capital/marketing/networking, and providing employment opportunities with affirmative alignment.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on protection and service delivery for women victims of violence (e.g., complaint handling, legal aid, health and rehabilitation services) and on providing access to information about protection mechanisms. However, none of the candidate sentences describe preventive awareness-raising, communication, socialisation, or education activities specifically aimed at preventing violence against women or promoting anti-violence values.",
+      "evidence_verified": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Gender equality education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references gender equality as an aim and includes women’s rights provisions and capacity building for program implementation, but it does not specify primary prevention activities such as public education, awareness campaigns, communication/socialisation, or training/advocacy explicitly focused on gender equality and/or women’s rights for the general population.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "VAW laws awareness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions legal assistance, law enforcement, and preparation of service/referral/prevention-handling guidelines, the candidate sentences do not indicate any primary prevention activity that provides information or education to the public about laws and policies on violence against women.",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include women’s right to education and the government’s obligation to provide educational/training institutions for women’s skills, as well as guidelines for prevention and handling at service level. However, they do not present education as an explicit strategy to prevent violence against women or children (i.e., no educational prevention programming is described as a VAW/VAC prevention measure).",
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "NGO collaboration",
+      "included": "Yes",
+      "evidence": "(5) The implementation of monitoring and evaluation is carried out in cooperation with sub-district and kampong governments as well as civil society organizations.\n2. The establishment of the monitoring and evaluation team referred to in paragraph (1) may be carried out through cooperation with Universities, Women's/Gender Study Centers or Non-Governmental Organizations.",
+      "rationale": "The policy explicitly states that monitoring and evaluation is carried out in cooperation with civil society organizations, and that a monitoring and evaluation team may be established through cooperation with NGOs, indicating collaboration with NGOs/civil society stakeholders.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Religious engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references religious sharia and mentions religious funds (Baitul Mal), the provided sentences do not explicitly include religious organizations/leaders/clergy/faith-based actors in delivering services, prevention, coordination, or implementation.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Traditional/cultural engagement",
+      "included": "Yes",
+      "evidence": "1. Non-litigation channels in handling cases of violence against women may be conducted through restorative justice mechanisms and customary justice mechanisms.",
+      "rationale": "The policy explicitly allows non-litigation case handling through customary justice mechanisms, which constitutes engagement of customary/community mechanisms in dispute resolution.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Education institutions engagement",
+      "included": "Yes",
+      "evidence": "2. Coordination as referred to in paragraph (1) is carried out together with agencies, offices, educational institutions, the business world and community organizations related to women's empowerment and protection.\n2. The establishment of the monitoring and evaluation team referred to in paragraph (1) may be carried out through cooperation with Universities, Women's/Gender Study Centers or Non-Governmental Organizations.",
+      "rationale": "The policy explicitly includes educational institutions in coordination for women's empowerment and protection, and also allows cooperation with universities and gender study centers in establishing a monitoring and evaluation team.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "International organisations engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention international organizations or international support for service delivery, prevention, or implementation.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Media engagement",
+      "included": "Yes",
+      "evidence": "The City Government organizes and facilitates capacity building activities for human resources regarding guidance, supervision of the implementation of women's rights fulfillment and women's empowerment programs for all SKPKs, Community Institutions, Business World, women's Forums and Media on a regular, tiered basis according to needs.",
+      "rationale": "The policy explicitly includes media as a target stakeholder group for regular, tiered capacity building activities related to supervision and implementation of women's rights fulfillment and empowerment programs.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Community engagement",
+      "included": "Yes",
+      "evidence": "1. Every member of the community has the right to obtain the opportunity to participate in women's empowerment and protection.",
+      "rationale": "The policy explicitly provides for community participation in women's empowerment and protection, recognizing community members as participants/stakeholders in these efforts.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Private sector engagement",
+      "included": "Yes",
+      "evidence": "2. Coordination as referred to in paragraph (1) is carried out together with agencies, offices, educational institutions, the business world and community organizations related to women's empowerment and protection.\n(1) The City Government is obliged to provide support for the development of service institutions for women with disabilities, women with HIV/AIDS, minority women, poor women, women victims of violence, women victims of conflict and natural disasters, both provided by the government and the private sector.",
+      "rationale": "The policy explicitly includes the business world/private sector in coordination for women's empowerment and protection and commits to supporting development of service institutions provided by both government and the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "Yes",
+      "evidence": "b. Providing special services for women with disabilities, women with HIV/AIDS, minority women, poor women, minority women, women victims of violence, women victims of conflict and natural disasters;",
+      "rationale": "The policy explicitly includes women victims of conflict and natural disasters as a group eligible for special services, indicating targeted protection measures in conflict/disaster contexts.",
+      "evidence_verified": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "12. Victim is a woman who experiences threats of violence and or violence inside and or outside the household and or becomes an object of trafficking/exploitation, and or discrimination in all its forms and aspects.",
+      "rationale": "The definition of \"Victim\" explicitly includes women who become objects of trafficking/exploitation, bringing women trafficking victims within the policy’s scope.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "d. Women obtain the right to special protection in carrying out their work or profession in both the public and domestic spheres against matters that threaten their safety and/or health in relation to reproductive functions.",
+      "rationale": "The policy explicitly recognizes women’s right to special protection in carrying out their work or profession, which constitutes protection measures for women workers/employees as a target group.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention elderly women or provide protection measures specifically targeted to older/elderly women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "b. Providing special services for women with disabilities, women with HIV/AIDS, minority women, poor women, minority women, women victims of violence, women victims of conflict and natural disasters;",
+      "rationale": "The policy explicitly provides special services for women with disabilities, indicating targeted protection measures for women with disabilities.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention women heads of household/families or specify any protection measures targeted to that group.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "Yes",
+      "evidence": "b. Providing special services for women with disabilities, women with HIV/AIDS, minority women, poor women, minority women, women victims of violence, women victims of conflict and natural disasters;",
+      "rationale": "The policy explicitly includes minority women among groups receiving special services, indicating targeted protection measures for women from minority groups.",
+      "evidence_verified": true
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references legal assistance and law enforcement for certain categories (e.g., victims of violence/conflict/disaster), it does not explicitly address women in conflict with the law as suspects, defendants, perpetrators, or witnesses.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly mention Indigenous peoples, Indigenous women, or customary communities (masyarakat adat) as specific target groups for special protection measures.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy covers women victims of conflict and natural disasters, the provided sentences do not explicitly mention refugees, displacement, or forced displacement as a specific target group for special protection measures.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly mention domestic workers as a specific target group or provide special protection measures specifically for domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention homelessness or women experiencing homelessness, nor do they specify targeted protection measures for this group.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly refer to former inmates/correctional institution releasees or formerly incarcerated women as a target group for special protection measures.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "1. Funding for women's empowerment and protection in the City is sourced from the City Revenue and Expenditure Budget.",
+      "rationale": "The policy explicitly states that funding is sourced from the City Revenue and Expenditure Budget, which is the local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "2. Funding for women's empowerment and protection in the City may also be sourced from the Aceh Revenue and Expenditure Budget, the State Revenue and Expenditure Budget.",
+      "rationale": "The policy explicitly includes the State Revenue and Expenditure Budget as a possible funding source, which corresponds to the national government budget.",
+      "evidence_verified": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences list city, Aceh/provincial, state budgets, and religious/other lawful sources, but do not mention any international organizations, foreign governments, UN agencies, donors, or other international assistance.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(3) Funding for women's empowerment and protection in the City may be sourced from religious funds collected through Baitul Mal and other lawful sources.",
+      "rationale": "The policy explicitly allows funding to come from religious funds collected through Baitul Mal and from other lawful sources, which qualifies as other legal sources beyond government budgets.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "Yes",
+      "evidence": "2. Funding for women's empowerment and protection in the City may also be sourced from the Aceh Revenue and Expenditure Budget, the State Revenue and Expenditure Budget.",
+      "rationale": "The policy explicitly states that funding may also be sourced from the Aceh Revenue and Expenditure Budget, which is a provincial-level budget source.",
+      "evidence_verified": true
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

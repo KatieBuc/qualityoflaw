@@ -27,6 +27,45 @@ TRANSLATION_RESULT = {
     "output_dir": "",
 }
 
+MD_TRANSLATION_RESULT = {
+    "counts": {"total": 5, "succeeded": 5, "skipped": 0, "failed": 0},
+    "failed_files": [],
+    "elapsed_s": 1.0,
+    "token_usage": {"prompt_tokens": 10, "completion_tokens": 20, "total_tokens": 30},
+    "output_dir": "",
+}
+
+MD_TRANSLATION_QA_RESULT = {
+    "counts": {
+        "total": 5,
+        "succeeded": 5,
+        "corrected": 0,
+        "incomplete": 0,
+        "not_converged": 0,
+        "clauses_lost": 0,
+        "qa_passes": 5,
+        "skipped": 0,
+        "failed": 0,
+    },
+    "failed_files": [],
+    "elapsed_s": 0.5,
+    "token_usage": {"prompt_tokens": 5, "completion_tokens": 5, "total_tokens": 10},
+    "output_dir": "",
+}
+
+MD_TO_TEXT_RESULT = {
+    "counts": {
+        "total": 5,
+        "succeeded": 5,
+        "skipped": 0,
+        "failed": 0,
+        "clauses_lost": 0,
+        "repaired": 0,
+    },
+    "failed_files": [],
+    "elapsed_s": 0.1,
+}
+
 STORAGE_RESULT = {
     "counts": {"total": 5, "succeeded": 5, "skipped": 0, "failed": 0},
     "failed_files": [],
@@ -209,7 +248,15 @@ def test_requires_run_id_false_when_run_id_provided():
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.run_storage_step", return_value=STORAGE_RESULT)
-@patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.run_md_to_text_step", return_value=MD_TO_TEXT_RESULT)
+@patch(
+    "automation.src.run_pipeline.run_md_translation_qa_step",
+    return_value=MD_TRANSLATION_QA_RESULT,
+)
+@patch(
+    "automation.src.run_pipeline.run_md_translation_step",
+    return_value=MD_TRANSLATION_RESULT,
+)
 @patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
@@ -218,6 +265,8 @@ def test_main_full_pipeline_small_scale_without_run_id(
     mock_wrapper,
     mock_embedder,
     mock_translate,
+    mock_translation_qa,
+    mock_to_text,
     mock_storage,
     mock_eval,
     mock_compare,
@@ -236,11 +285,14 @@ def test_main_full_pipeline_small_scale_without_run_id(
 
     assert exc.value.code == 0
     mock_translate.assert_called_once()
+    mock_translation_qa.assert_called_once()
+    mock_to_text.assert_called_once()
     mock_storage.assert_called_once()
     mock_eval.assert_called_once()
     mock_compare.assert_called_once()
     mock_diagnose.assert_called_once()
     assert mock_translate.call_args.kwargs["small_scale"] is True
+    assert mock_to_text.call_args.kwargs["small_scale"] is True
     assert mock_translate.call_args.kwargs["force"] is False
     assert mock_eval.call_args.kwargs["small_scale"] is True
     assert mock_eval.call_args.kwargs["allow_partial"] is False
@@ -255,7 +307,15 @@ def test_main_full_pipeline_small_scale_without_run_id(
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.run_storage_step", return_value=STORAGE_RESULT)
-@patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.run_md_to_text_step", return_value=MD_TO_TEXT_RESULT)
+@patch(
+    "automation.src.run_pipeline.run_md_translation_qa_step",
+    return_value=MD_TRANSLATION_QA_RESULT,
+)
+@patch(
+    "automation.src.run_pipeline.run_md_translation_step",
+    return_value=MD_TRANSLATION_RESULT,
+)
 @patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
@@ -264,6 +324,8 @@ def test_main_full_pipeline_without_small_scale_passes_false(
     mock_wrapper,
     mock_embedder,
     mock_translate,
+    mock_translation_qa,
+    mock_to_text,
     mock_storage,
     mock_eval,
     mock_compare,
@@ -282,11 +344,14 @@ def test_main_full_pipeline_without_small_scale_passes_false(
 
     assert exc.value.code == 0
     mock_translate.assert_called_once()
+    mock_translation_qa.assert_called_once()
+    mock_to_text.assert_called_once()
     mock_storage.assert_called_once()
     mock_eval.assert_called_once()
     mock_compare.assert_called_once()
     mock_diagnose.assert_called_once()
     assert mock_translate.call_args.kwargs["small_scale"] is False
+    assert mock_to_text.call_args.kwargs["small_scale"] is False
     assert mock_eval.call_args.kwargs["small_scale"] is False
     assert mock_diagnose.call_args.kwargs["small_scale"] is False
     mock_init_metadata.assert_called_once()

@@ -1,0 +1,100 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: in item 9, the original refers to amendment to Law No. 23 of 2002 by Law No. 35 of 2014, but the translation incorrectly says 'Amendment to Law Number 23 of 2003'.",
+        "Minor legal-title accuracy: item 26 is rendered as 'Government Number 9 of 2008' instead of 'Government Regulation Number 9 of 2008' (Peraturan Pemerintah)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several lettered lists: \"dane.\", \"ande.\", and items b/d/j are run together with preceding text (missing line breaks), which can break downstream boundary splitting.",
+        "Minor meaning drift in Article 1(1): \"Kabupaten Bupati Barito Kuala\" is rendered as \"Regency of Regent Barito Kuala\"; should be \"Barito Kuala Regency\" (the regency), not \"regency of regent\".",
+        "Broken list/marker structure in Article 2 and Article 3 in the original: items 'dane. non diskriminasi' and 'dane. memfasilitasi...' indicate the source has merged 'dan e.'; translation normalizes to 'and e.' which changes the marker text and may break downstream boundary matching.",
+        "Meaning drift in Article 1 point 1: 'Daerah adalah Kabupaten Bupati Barito Kuala' is rendered as 'Region is Barito Kuala Regency' (omits 'Bupati/Regent' as written in the source, even if likely a source typo)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., 'dane.', 'ande.', 'andf.', 'andg.', and '(3)' merged into item e in Article 12), which breaks downstream boundary detection.",
+        "Missing/incorrect heading marker for Pasal 7: original has 'Pasal7 (1)' as a separate article section; translation renders it as plain paragraph 'Article7 (1)' without the required '#### Article 7' heading.",
+        "Meaning drift/clarity issue caused by merged numbering in Article 12(2): paragraph (3) is incorrectly attached to item e, obscuring that it is a separate paragraph.",
+        "Original has an unheaded “Pasal7 (1)” section; translation incorrectly turns it into a level-4 heading “#### Article 7”, changing the Markdown structure/boundary.",
+        "List/numbering markers in the original are inconsistent (e.g., “Pasal7 (1)” and subsequent “2., 3., 4.” without parentheses); translation normalizes some markers (adds heading and uses “paragraph (1)”), which can break downstream boundary matching.",
+        "Minor meaning drift/terminology: “Peraturan Bupati” should be “Regent Regulation” (not “Regent Regulation” vs “Regent Regulation” is fine), but “diatur dengan” is better rendered as “regulated by” consistently; also keep “Regional Government” capitalization consistent (not required but kept)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 20: item (1) is merged with sub-items a–d and item (2) is missing as a numbered item; markers run together (\"with:a.\", \"andd.\")",
+        "Scrambled/merged list structure in Article 21(2): sub-item d is merged (\"andd.\")",
+        "Scrambled/merged list structure in Article 22(2): sub-item e is merged (\"ande.\")",
+        "Scrambled/merged list structure in Article 27(2): sub-items a and d are merged (\"includes:a.\", \"andd.\")",
+        "Broken list/numbering structure in Article 20(1) in the original: list items a–d are run together (\"dand.\") and paragraph (2) marker is embedded; translation normalizes this into a clean list, which changes the marker structure required downstream.",
+        "Markdown/list marker formatting mismatch in Article 25: original has list items \"a.\" and \"b.\" on the same line; translation keeps them on the same line, but should preserve separate markers/ordering clearly (split into two lines to avoid downstream parsing issues)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: multiple lettered items are run together in single paragraphs (e.g., Article 2 points a–b; Article 3 points c–d; Article 4 points b–d, e–f, i–j; Article 5 points a–b, d–e; Article 7 paragraphs (1)–(2); Article 12 paragraph (1) with points a–f). Markers are not separated as in the original, risking boundary-based retrieval errors.",
+        "Scrambled/flattened list structure: original uses in-line markers (Huruf a, b, c, etc.; Ayat (1), (2), (3)) within paragraphs, but translation breaks them into separate paragraphs and adds extra line breaks (notably Article 12 Paragraph (1) separated from Point a–f). This can break downstream boundary splitting that expects markers to appear in the same sequence/association as the source.",
+        "Meaning drift/terminology: \"Azas pengayoman\" translated as \"principle of protection\"; closer is \"principle of guardianship/protection\" (protective/guardianship principle). Also \"pendamping\" rendered as \"assistant\"; in this legal context \"companion/assistant\" is better as \"companion\" or \"support person\" (kept as \"companion\" below) to avoid ambiguity."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [
+        "Scrambled list/numbering structure in Article 17: items j. and k. are merged into the same line as item i., so list markers are not separated and ordered as in the original.",
+        "Scrambled list/numbering structure in Article 22: Paragraph (2) and Paragraph (3) are run together on one line instead of being separated as in the original. (Also, 'Ayat' is better rendered as 'Paragraph' with clear separation.)",
+        "Scrambled list/numbering structure in Article 17: in the original, items i., j., and k. are on the same line (i. ...; j. ...; dan k. ...), but the translation split them into separate lines, changing the list-marker structure used for downstream boundary detection."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_SELATAN_BARITO_KUALA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.676413+00:00",
+  "prompt_version": "v2"
+}

@@ -2,6 +2,14 @@
 
 Config-driven orchestration for policy translation, LLM quality evaluation, golden-dataset comparison, and discrepancy diagnosis.
 
+Translation reads the curated Markdown corpus at
+`data/processed/localpolicies/cleaned_markdown/` (`<POLICY>.cleaned.md`) and
+writes translated Markdown, which the `md_to_text` step then renders to the
+plain text every downstream stage reads. The older raw-OCR-text path
+(`--steps translation,translation_qa,markdown`) is unchanged and still
+runnable, so the two can be compared on the same corpus; it is just no longer
+part of the default chain. See [Markdown translation path](#markdown-translation-path).
+
 Golden-dataset comparison logic lives in [`src/evaluate_accuracy.py`](src/evaluate_accuracy.py).
 
 ## Layout
@@ -12,22 +20,212 @@ automation/
 │   ├── model_config.yaml      # Model deployment parameters
 │   └── pipeline_config.yaml   # Experiment combination
 ├── prompts/
-│   ├── translation/v1/
-│   ├── translation_qa/v1/
+│   ├── translation/v1/, v2/   # Raw-text path
+│   ├── translation/v3/        # Markdown path (markdown in, markdown out)
+│   ├── translation_qa/v1/     # Raw-text path
+│   ├── translation_qa/v2/     # Markdown path (adds a Markdown-fidelity check)
 │   ├── quality_eval/v1/
 │   └── discrepancy_diagnosis/v1/
 └── src/
     ├── llm/                   # Shared Azure LLM wrapper
+    ├── markdown/              # Markdown translation path (the default)
+    │   ├── chunking.py        # Heading parsing, section packing, structure checks
+    │   ├── translate.py       # `translation_md` step
+    │   ├── qa.py              # `translation_qa_md` step
+    │   ├── to_text.py         # `md_to_text` step + standalone CLI
+    │   └── policy_files.py    # `<POLICY>.cleaned.md` -> `<POLICY>` naming
     ├── evaluate_accuracy.py   # Golden-dataset comparison
     ├── run_pipeline.py        # Main entry point
-    ├── translate.py
-    ├── translation_qa.py      # Translation QA + re-align step (runs right after translation)
+    ├── chunking.py            # Raw-text clean/chunk/combine
+    ├── translate.py           # Raw-text `translation` + `markdown` steps
+    ├── translation_qa.py      # Raw-text Translation QA + re-align step
     ├── translation_qa_prompt_builder.py
     ├── run_eval.py
     ├── diagnose.py            # Discrepancy diagnosis (final pipeline step)
     ├── diagnose_prompt_builder.py
     └── compare.py             # Thin wrapper around evaluate_accuracy
 ```
+
+## Markdown translation path
+
+The default chain:
+
+```
+translation_md -> translation_qa_md -> md_to_text -> storage -> evaluation -> comparison -> discrepancy_diagnosis
+```
+
+Input is `data/processed/localpolicies/cleaned_markdown/<POLICY>.cleaned.md`
+(`paths.markdown_input_dir`) — 198 curated files whose structure is explicit:
+`#` BAB, `##` Bagian/titles, `###` Paragraf, `####` Pasal. The `.cleaned`
+suffix is stripped on entry, so every artifact stays keyed on `<POLICY>` and
+the golden-dataset join (`<POLICY>.txt`) is unaffected.
+
+### `translation_md`
+
+`automation/src/markdown/translate.py`. Headings are read directly rather than
+re-detected by regex — running `chunking.clean_text` over this corpus would
+destroy the structure, since `#### Pasal 5` matches neither
+`STRUCTURE_MARKER_RE` nor the all-caps-title rule.
+
+Sections are split at headings using the same boundary rule as
+`chunking.split_into_sections` (a heading only starts a new section once the
+current one has body content, so a title stack stays with its content), then
+**packed**: adjacent sections merge up to `target_chars`. This is the one
+deliberate difference from the raw-text path. Measured over the corpus:
+
+| target_chars | translation units | per file (mean / max) |
+|--------------|-------------------|------------------------|
+| 4,000        | 2,194             | 11.1 / 29 |
+| **8,000**    | **1,116**         | **5.6 / 16** |
+| 16,000       | 578               | 2.9 / 9  |
+| unpacked     | 15,291            | 77.2 / 231 |
+
+Unpacked, translation would cost ~15,300 LLM calls per full run (median
+section: ~200 chars, half of them under 200) plus as many QA calls. At 8,000
+that is 1,116 — a ~93% reduction — with far more context per call. Each unit
+carries its heading breadcrumb (e.g. `BAB IV > Bagian Kesatu`) so the model
+can resolve cross-references when a unit starts mid-chapter.
+
+A section larger than `safe_limit` still falls through to
+`chunking.fallback_split` (sentence packing with 300-char trailing context).
+Nothing in the current corpus reaches it — the largest single section is
+16,583 chars.
+
+Outputs: `results/translation_markdown/<POLICY>.md`,
+`results/source_markdown/<POLICY>.md`, and
+`mid_product/translation_chunks/<POLICY>.json`.
+
+### `translation_qa_md`
+
+`automation/src/markdown/qa.py`, prompt `translation_qa/v2`. Same contract as
+the raw-text QA step (and it reuses that module's retry-then-degrade logic),
+audited per packed unit. The prompt adds Markdown fidelity as its first
+check. Corrections are written back to both the Markdown and the chunk
+artifact, atomically per policy.
+
+**Each chunk is audited repeatedly, up to `qa_max_passes` (default 5).** A
+single pass only guarantees the auditor *reported* what was wrong — a
+correction can leave or introduce a further problem, and these sources carry
+heavy OCR damage, so one rewrite often does not finish the job. Each pass
+re-audits the previous pass's output against the unchanged Indonesian source,
+and the loop stops as soon as a pass reports no action required.
+
+What drives the loop is the auditor's own verdict, never a structural count:
+heading totals legitimately move when a repair lands, so looping on those
+would chase successful repairs forever.
+
+A chunk that still reports problems after the cap keeps its **last**
+correction — that is the most-audited version available, and discarding it
+would throw away several passes of genuine repair — and is counted in
+`chunks_not_converged` for a human to look at. The report also carries
+`qa_passes_total` and per-chunk `passes` / `converged`.
+
+Cost: at best one call per chunk (unchanged), at worst `qa_max_passes` × the
+number of chunks. Over the full corpus that is 1,116 to 5,580 QA calls,
+against the ~15,300 the unpacked design would have needed for a single pass.
+
+### `md_to_text`
+
+`automation/src/markdown/to_text.py`. Writes two artifacts per policy:
+
+1. `results/translation/<POLICY>.txt` — plain text in the same shape the
+   raw-text path produced. `policy_files.filter_policy_files` globs `*.txt`,
+   so storage, evaluation, comparison and diagnosis need no changes.
+2. `mid_product/chunks/<POLICY>.chunks.json` — the **retrieval** units, one
+   per heading section, in the schema `rag/store.py:_load_translation_chunks`
+   already expects.
+
+Point 2 is what keeps evidence retrieval stable. Translation packs sections to
+save API calls, but retrieval must keep its per-Pasal granularity:
+`rag/retriever.py` reads only `chunk_id` and `text`, and
+`rag/prompt_builder.py` cites individual sentences *within* a chunk, so
+coarser chunks would directly coarsen the evidence. Rebuilding chunks.json
+here at heading granularity — rather than handing storage the packed units —
+means `rag/store.py` sees the same kind of input through the same code path as
+before. Measured against the previous run's store:
+
+|                        | total chunks | per file | chars median | p90 | max |
+|------------------------|--------------|----------|--------------|-----|-----|
+| previous `rag_store`   | 15,405       | 77.4     | 206          | 1,112 | 6,000 |
+| via `md_to_text`       | 15,392       | 77.7     | 197          | 1,086 | 5,999 |
+
+Source and translation sections are paired positionally, which is only sound
+when the translation preserved the source's heading signature. When it did
+not, the records are emitted with `translated_text` only — storage never reads
+the source side, so it keeps working, but nothing is silently misaligned.
+
+Because both sides are Markdown, `markdown/chunking.py:check_structure`
+compares heading-level sequences exactly, rather than the length-ratio
+heuristics (`check_structural_output`) the raw-text path has to rely on. The
+message names the levels whose counts changed, which is what separates a
+serious finding from a benign one: `#### Pasal` is level 4, so `level 4: 121
+-> 120` means an Article was lost, while `level 5: 11 -> 10` means the model
+dropped an OCR fragment such as `##### P  P` — arguably the right call.
+Individual headings are deliberately not named: the two sides are in
+different languages, so the only thing to align on is the level sequence, and
+that cannot tell two same-level headings apart.
+
+**Only a lost numbered clause is a defect.** The curated corpus carries OCR
+damage that a good translation *repairs*, and every repair moves the heading
+counts — so counts alone cannot be the verdict. Observed on the benchmark four:
+
+| corpus artifact | what the translation did |
+|---|---|
+| `#### Pasal 28 ayat (1) huruf f, meliputi:` (a cross-reference promoted to a heading) | demoted it back into its sentence, which OCR had split |
+| `##### 1  AN` (a fragment splitting a run-on list) | dropped it and reconstructed the a.–n. list |
+| `#### Pasal 3 1` (OCR split the number) | recovered it as `#### Article 31` |
+
+`clause_ids()` is what separates these from real loss. A numbered clause
+heading has a language-independent identity — `HEADING_KEYWORD_LEVELS` maps
+`Pasal`/`Article` onto the same canonical level and the number is the same on
+both sides, so `Pasal 34` and `Article 34` both yield `(4, "34")`. Comparing
+those sequences is exact. Headings with no such identity (OCR fragments,
+all-caps titles, spelled-out ordinals like `Bagian Kesatu`/`Part One`, and
+cross-reference text) are skipped rather than guessed at.
+
+So `md_to_text` records a `LostClause` failure only when a numbered clause
+disappears; everything else increments `repaired` and is logged. On the four
+benchmark policies that is 0 failures and 3 repairs, where raw heading counts
+had reported 2 failures — and had stayed silent about ACEH_BIREUEN, whose
+translation *added* `Article 31`.
+
+**List-item counts are reported but never count as drift either.** The source corpus
+is full of OCR-scrambled list markers — a bare `1,` on one line, `2. 3. 10.`
+bunched on the next, and the content following with no markers at all — and
+repairing exactly that is `translation_qa_md`'s chartered job (problem 3 in
+its prompt). Observed on the benchmark four: 68 source list items becoming
+277 correctly marked ones. Treating a count change as drift would flag the
+repair as a defect. Heading structure is also the only part retrieval depends
+on, since `build_retrieval_chunks` splits on headings.
+
+### Standalone conversion
+
+`md_to_text`'s converter is also a CLI, for rendering the source corpus or
+checking one file without spending a run:
+
+```bash
+python -m automation.src.markdown.to_text data/processed/localpolicies/cleaned_markdown /tmp/plain
+```
+
+### Config
+
+```yaml
+translation_markdown:
+  prompt_version: v3
+  qa_prompt_version: v2
+  qa_max_passes: 5          # re-audit a chunk until clean, at most this often
+  chunking:
+    target_chars: 8000
+    safe_limit: 32000
+
+paths:
+  input_dir: data/raw/localpolicies                              # raw OCR text; still used by diagnose
+  markdown_input_dir: data/processed/localpolicies/cleaned_markdown
+```
+
+Models are not duplicated — the Markdown path reuses `translation.model` and
+`translation_qa.model`.
+
 
 ## Run output (`data/automation/<run_id>/`)
 
@@ -41,15 +239,15 @@ data/automation/<run_id>/
 │   ├── model_config.yaml
 │   └── pipeline_config.yaml
 ├── results/                   # Main deliverables of the pipeline
-│   ├── cleaned_text/          # OCR-noise-stripped, reflowed original-language text — plain text (one per input policy)
-│   │   └── <policy>.cleaned.txt
-│   ├── cleaned_markdown/      # Markdown-rendered copy of cleaned_text, for human reading only
-│   │   └── <policy>.cleaned.md
-│   ├── translation/           # English policy .txt files (one per input policy) — plain text, read by storage/RAG/evaluation
+│   ├── source_markdown/       # Copy of the .cleaned.md input, so a run records what it translated
+│   │   └── <policy>.md
+│   ├── translation_markdown/  # PRIMARY translated artifact — English Markdown, structure preserved
+│   │   └── <policy>.md
+│   ├── translation/           # English policy .txt files — plain text, read by storage/RAG/evaluation.
+│   │   │                      # Derived from translation_markdown by the `md_to_text` step.
+│   │   └── <policy>.txt
 │   ├── translation_qa/        # QA audit reports (one per policy) — action_required/issues per chunk, not the text itself
 │   │   └── <policy>.json
-│   ├── translation_markdown/  # Markdown-rendered copy of the translation output, for human reading only
-│   │   └── <policy>.md
 │   ├── evaluation/            # LLM JSON reports (one per policy)
 │   ├── comparison/            # Golden-dataset comparison outputs
 │   │   ├── metrics.csv
@@ -57,7 +255,10 @@ data/automation/<run_id>/
 │   │   └── unmatched_indicators.csv   # Only when join pairs are missing on one side
 │   └── diagnosis/             # Discrepancy diagnosis reports (one per policy with mismatches)
 └── mid_product/                # Intermediate artifacts consumed by later stages
-    ├── chunks/                # Per-policy chunk boundaries + per-chunk translations
+    ├── translation_chunks/     # Packed translation units (~6 per policy) + their translations, for QA
+    │   └── <policy>.json
+    ├── chunks/                # Per-heading retrieval units (~77 per policy) + per-chunk translations.
+    │   │                      # Rebuilt by `md_to_text`; read by RAG storage.
     │   └── <policy>.chunks.json
     ├── rag_store/              # Per-policy embedded chunk store
     └── rag_candidates/         # Full RAG candidate list per indicator (one per policy, written by evaluation)
@@ -74,7 +275,7 @@ data/automation/<run_id>/
 | `status` | `running`, `completed`, `completed_with_errors`, or `failed` |
 | `timestamps.created_at` / `timestamps.updated_at` | UTC timestamps |
 | `config` | Model and prompt versions used |
-| `execution_scope.steps_executed` | List of completed steps: `translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` |
+| `execution_scope.steps_executed` | List of completed steps: `translation_md`, `translation_qa_md`, `md_to_text`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` |
 | `execution_scope.small_scale` | Whether only the 5 benchmark policies were processed |
 | `execution_scope.evaluated_policy_files` | Policy filenames compared during the comparison step |
 | `file_counts` | Per-step (`translation`, `storage`, `evaluation`, `discrepancy_diagnosis`) success/failure counts |
@@ -398,8 +599,12 @@ numbered/lettered/roman-numeral list starts become proper
 ordered/nested-bullet Markdown lists. The plain-text artifacts
 (`cleaned_text`, `translation`) skip that rendering step entirely.
 
-`markdown` runs by default as part of the full pipeline (right after
-`translation`). See `run_markdown_step` in `automation/src/translate.py`.
+`markdown` belongs to the raw-OCR-text path and is **not** part of the
+default chain any more — run it explicitly with `--steps markdown` alongside
+`--steps translation`. See `run_markdown_step` in
+`automation/src/translate.py`. In the Markdown path the source side needs no
+rendering at all (the input is already Markdown, and is snapshotted to
+`results/source_markdown/`), and the translated side *is* Markdown.
 
 #### Chunked translation (`translation.chunking`)
 

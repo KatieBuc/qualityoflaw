@@ -1,0 +1,74 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 21: original ends with a semicolon, but translation ends with a period, breaking consistency with the numbered list punctuation/structure.",
+        "Meaning drift in item 4: the original cites State Gazette year 1974 No. 32; translation keeps this but should be 1979 No. 32 to match the law’s year/number reference (likely OCR issue, but downstream legal indicator evaluation depends on accurate citation).",
+        "Meaning drift in item 7 and item 9: the original incorrectly repeats year 1984 in the State Gazette citation; translation preserves it, but the correct years should match the respective laws (1992 for Law 23/1992; 1999 for Law 39/1999) to avoid incorrect legal references."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list structure in Article 2: items 1–4 are not consistently formatted as a list (\"1.\" appears inline after a colon, with extra line breaks), risking downstream boundary parsing.",
+        "Minor meaning drift/terminology: \"peradilan diluar pengadilan\" translated as \"courts outside the court\"; should be \"out-of-court dispute resolution/non-court proceedings\" (peradilan di luar pengadilan).",
+        "Meaning drift in Article 5 item 4: \"peradilan diluar pengadilan\" was translated as \"out-of-court dispute resolution\"; it should be \"courts outside the court\" (i.e., judiciary outside the court) as in the original wording.",
+        "Minor meaning drift in Article 5 item 4: \"mahkamah Internasional\" translated as \"International Court\"; should be \"International Court/International Tribunal\" (Mahkamah Internasional) to match the original term more faithfully."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list markers: several items are merged (e.g., Article 7 item (6), Article 9 items (2)-(4), Article 11 item (3)) instead of appearing as separate numbered points in order.",
+        "Meaning/structure risk: Article 7 point (6) is attached to point 5 in the translation; original has a separate (6).",
+        "Minor meaning drift/term: \"Informed Concent\" should be rendered as \"Informed Consent\" (typo in original, but translation should reflect the intended term).",
+        "Scrambled/merged list structure in Article 7: item (6) in the original is merged into item 5 and not marked as \"6.\"; must be separated as its own numbered item.",
+        "Scrambled list/marker formatting in Article 14(3) and Article 15(1): the original has \"... adalah:a.\" / \"meliputi:a.\" but the translation merges the marker into the preceding text (\"are:a.\" / \"includes:a.\"), risking downstream list parsing.",
+        "Minor meaning drift/term accuracy: \"Informed Concent\" should be \"Informed Consent\" (typo correction) while preserving the original parenthetical."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list marker in Article 17: the original has item 5 labeled as \"12 - (5)\" (a pagination artifact) but the translation keeps it as a standalone line instead of a numbered list item, breaking the list structure (1–5).",
+        "Meaning drift in Article 17(5): \"Pengelola PPT\" is translated as \"PPT managers\" without clarifying it refers to the service center/Integrated Service Center; keep the term but render it as \"PPT (Integrated Service Center) managers\" to preserve meaning.",
+        "Minor meaning drift: \"penjatuhannya\" in Article 17(4) is better rendered as \"the imposition thereof\" (not just \"shall be imposed\") to reflect the noun form and reference to the act of imposing sanctions.",
+        "Scrambled/altered list marker in Article 17: original has an extra marker/text \"12 - (5)\" before item (5), but translation omits it and renumbers as plain \"5.\"",
+        "Meaning drift in Article 17(5): original refers to \"PPT\" without expanding it; translation adds \"(Integrated Service Center)\" which is not present in the source"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_JEMBER.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.643570+00:00",
+  "prompt_version": "v2"
+}

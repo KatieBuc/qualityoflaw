@@ -1,0 +1,110 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 7,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., Article 11 'and/orc.', Article 12 '...; f.' and '...;andh.', Article 13 'andd.', Article 15 'andc.', Article 16 '...; d.' and 'ande.', Article 19 'duty to:a.' and 'andh.', and 'consisting of:a.' and 'andd.') causing list structure to not match the original.",
+        "Minor meaning drift/awkwardness: Article 8 ends with 'to a person' (should be 'in a person'); Article 9 'and or' should be 'and/or' (reflecting 'dan/atau').",
+        "Scrambled/merged list markers in the original require preservation: Article 11 item b ends with 'and/or' and item c is attached in the source ('dan/atauc.'), but the translation normalizes it; Article 12 items e–h are run together in the source ('e...; f...; g...; ...;danh...') and must be preserved as separate a–h items in order without adding conjunctions not present as list text.",
+        "Meaning drift: Article 11(b) translates 'kerja atau Pelayanan paksa' as 'forced labor or Services' (capitalized/odd) and misses that 'pelayanan paksa' is 'forced service'; Article 19(1) 'organisasi Masyarakat pemerhati Masyarakat' is rendered as 'community organizations concerned with the Community' (awkward/unclear), better as 'community organizations concerned with society/community affairs'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 21: item c is attached to item b; item j is attached to item i (\"danj.\")",
+        "Scrambled/merged list markers in Article 23: item e is attached to item d",
+        "Scrambled/merged list markers in Article 25: item d is attached to item c (\"dand.\")",
+        "Scrambled/merged list markers in Article 26(1): list header and item a are merged; item g is attached to item f (\"dang.\")",
+        "Scrambled/merged list markers in Article 27(2)-(3): multiple lettered items are run together on one line; item d is attached to item c (\"dand.\")",
+        "Scrambled/merged list markers in Article 28(2): multiple lettered items are run together on one line",
+        "Scrambled/merged list markers in Article 29(2): item c is attached to \"and\" (\"danc.\")",
+        "Scrambled list/numbering structure in Article 21: item markers are not consistently separated; in the original, point b runs into point c, and point i runs into 'dan j' (and j). Translation should preserve distinct a–j items in order.",
+        "Scrambled list/numbering structure in Article 22(1): in the original, the field list has 'di bidang:a.' and 'dan g.' run together; translation should preserve distinct a–g items in order.",
+        "Scrambled list/numbering structure in Article 23: in the original, 'dan e.' is run together with item d; translation should preserve distinct d and e items.",
+        "Scrambled list/numbering structure in Article 26(1) and 26(2): in the original, 'sebagai berikut:a.' and 'dan g.' / 'dan d.' run together; translation should preserve distinct a–g and a–d items in order."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered sub-items (a., b., c., etc.) are run together with preceding text (e.g., 'criteria:a.', 'andc.', 'includes:a.', 'andf.', etc.), which breaks marker boundaries required downstream.",
+        "Minor meaning/grammar drift in Article 32(4): subject-verb agreement ('Handling ... have the right') should reflect that child victims have the right to protection.",
+        "List/numbering structure not preserved: in Article 33 the original uses inline markers (a., b., c., d., e., f.) but the translation breaks them into separate lines without preserving the original marker formatting/order as a continuous list block.",
+        "Meaning drift/terminology: 'Peraturan Bupati' in Article 36(2) is translated as 'Regent's Regulation' while elsewhere 'Keputusan Bupati' is 'Regent's Decree'; to avoid legal-type confusion, translate 'Peraturan Bupati' consistently as 'Regent Regulation' (distinct from 'Regent's Decree')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are run together (e.g., Article 38 items e–h; Article 39(2) items d–g; Article 40(1) and 40(2) missing spaces before a.; Article 41(1) item h runs into i; Article 41(2) item g runs into h; Article 43(3) item a runs into b; Article 44(3) and 44(4) items run together; Article 46(2) items run together; Article 47 items a and b run together). This risks downstream boundary splitting.",
+        "Minor meaning drift/terminology: 'socialization' should be 'dissemination/outreach' (sosialisasi) in a legal-policy context; keep consistent phrasing.",
+        "Scrambled list/numbering structure in Article 41(1): item i is incorrectly attached to item h (should be a separate list item)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/mismatched list-marker structure: original uses 'Huruf a/b/c...' and 'ayat (1)/(2)...' but translation changes these to 'Point a/b...' and 'paragraph (1)/(2)...', which breaks downstream marker matching requirements.",
+        "Minor meaning drift/terminology: 'Huruf' should be rendered as 'Letter' (not 'Point') and 'ayat' as 'paragraph/subsection' but marker must remain '(1)' style; also 'Article by Article' should reflect 'Pasal demi Pasal' while keeping heading level (ok) but marker terms need alignment.",
+        "Broken Markdown structure: Original has heading '##### ATAS' which is missing in the translation (should appear as a same-level heading, e.g., '##### ON').",
+        "Scrambled/mismatched list/numbering structure: In Article 38 the original includes 'Huruf g' and 'Huruf h' but the translation omits them, causing the lettered list to not match the source structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_UTARA_LABUHANBATU_SELATAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.757409+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,68 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 2,
+  "qa_passes_total": 7,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the final line is truncated; original ends with \"...BERBASIS\" (to be continued), but translation drops \"BASED\" and ends at \"GENDER-BASED VIOLENCE\" only.",
+        "Minor meaning drift: \"anak\" in the title is rendered as \"children\"; in this legal context it should be singular \"Child\" (as in \"Perlindungan Anak\"), i.e., \"...Gender-Based Violence and Child\" to match the original phrasing.",
+        "Broken list/numbering structure in 'Considering': original shows separate items a., b., c., d., but translation merges them into 'a. b.' and 'c. d.' and leaves b and c content without their markers.",
+        "Meaning drift/omission risk due to missing explicit markers for b. and c. in 'Considering', which are required for downstream boundary splitting.",
+        "Minor meaning drift: 'anak' should be rendered as 'children' (plural) in the title and elsewhere; 'Child' singular is unnatural and can change interpretation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 2: items a–i are run together without separation, and there is a typo ('Empowermemt').",
+        "Scrambled/merged list markers in Article 3: items a–c are merged into the preceding sentence and 'andc.' is run together.",
+        "Scrambled/merged list markers in Article 4(1): sub-items a–i are partially run together (e.g., 'g.' with 'h.' and 'andi.'), risking boundary-based retrieval errors.",
+        "Scrambled/merged list markers in Article 5(1) and 5(2): sub-items a–f are run together (e.g., 'obligated to:a.' and 'andf.'), risking boundary-based retrieval errors."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are concatenated (e.g., 'andf.', 'andc.', 'andb.', 'andg.', 'andh.') and some list markers run into preceding text (e.g., Article 12 'includes: a.'; Article 13 'and e.'; Article 14 'd.... e.'). This breaks list structure required for downstream splitting.",
+        "Article 7 numbering structure not preserved: paragraph marker '(2)' is embedded mid-sentence instead of being a separate item '2.' in sequence, unlike the original which has distinct 1., (2), 3. markers.",
+        "Broken numbering structure in Article 7: in the original, items (1) and (2) are run together in one paragraph; translation split them into separate list items, which may break downstream boundary matching.",
+        "Scrambled/merged list markers in the original (e.g., \"danf.\", \"danc.\", \"danb.\", \"danh.\") were normalized in the translation; to match the source structure, list markers should appear exactly as separate items a–f/a–c/a–b/a–h in order, but without altering the original item boundary intent."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_DEMAK.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.603191+00:00",
+  "prompt_version": "v2"
+}

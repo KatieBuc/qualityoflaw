@@ -1,0 +1,88 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list numbering and association in the 'In View of' section: item 'l.' should be '1.'; items 3–12 are separated from their markers by blank lines; item 7 marker is embedded in the previous line ('Year -3- 7. 2004...'); item 8 marker appears after the Law No. 36/2009 text instead of before it.",
+        "Leftover pagination/scan artifacts included as text (e.g., '-2- ,,', 'Year -3-', '4-') that are not part of the legal content and disrupt downstream structure.",
+        "Broken list/numbering structure: original uses a dash bullet for 'Mengingat:' and includes page/formatting artifacts ('-2-', '-3-', '4-') that are not reflected consistently; translation changes the marker to a plain heading-like line and omits these markers.",
+        "Meaning drift/omission: original includes the standalone line '4- Dengan Persetujuan Bersama  1 ...' (with leading '4-' and '1') which is not preserved; translation renders it without the leading numbering artifacts, losing exact markers needed for downstream splitting.",
+        "Minor meaning drift: 'Menetapkan PERATURAN DAERAH...' is rendered as 'To Establish A...' with altered capitalization and missing colon after 'Menetapkan' (structure/marker fidelity)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/omitted list markers: original items 3 and 4 include leading symbols (\"' 3.\" and \"• 4.\") that are missing in the translation; downstream boundary matching may rely on exact markers.",
+        "Minor meaning drift in item 9: original contains a corrupted phrase around participation (\"berpartisipasi kemanusiaan diskriminasi\") and a line break; translation normalizes it to \"participate optimally... and receive protection from violence and discrimination\" without reflecting the original's explicit (though garbled) wording about participation/humanity/discrimination.",
+        "Meaning drift/garbling in item 9: stray parenthetical '(humanity, discrimination)' and mistranslated/omitted phrase about participation 'in humanity' and 'without discrimination'.",
+        "Scrambled/dirty text artifacts carried over from source in list markers: item 3 and item 4 include leading stray characters (\"'\" and \"•\") that are not part of the legal numbering structure and should be normalized to match the original list numbering."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: several paragraph headings in the original are plain text in the translation (\"Paragraf2\", \"Paragraf3\", \"Paragraf4\" should be \"### Paragraph 2/3/4\"), and the original has \"### Paragraf 5\" but the translation uses \"### Paragraph 5\" without ensuring earlier paragraph headings match the same level/format.",
+        "Scrambled/incorrect list markers: in Article 7(2) the original uses letter f but the translation has a bullet \"•\" instead of \"f.\"; in Article 9 the heading/marker structure is broken (\"} Article 9 • (1)\" inline) and numbering (1)(2)(3) is not cleanly separated.",
+        "Meaning drift/omission: Article 3 item d in the original includes \"pelaporan\" (reporting) and \"saksi\" (witnesses); the translation renders \"reporters and witnesses\" but loses the explicit \"reporting\" concept; also several stray artifacts (\"}\", \"12-\") are leftover non-legal text affecting downstream parsing.",
+        "Broken/mismatched Markdown structure: original has an unheaded line \"Paragraf2 Upaya Pemulihan dan Reintegrasi Sosial\" (no ### heading), but translation turns it into a \"### Paragraph 2\" heading; original also has \"Paragraf3 Perlindungan Hukum\" and \"Paragraf4 Koordinasi\" as plain lines (not ### headings) but translation turns them into ### headings. Headings must match exactly in level and presence.",
+        "List/numbering marker mismatch: in Article 9, original uses (1) and (2) then \"3.\"; translation keeps \"3.\" but should preserve the marker style/sequence as in the original (i.e., \"3.\" is fine but (1)/(2) should remain inline with the same paragraph structure)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 17 item e is merged into item d line (\"and  e.\") instead of being a separate list item.",
+        "Scrambled/merged numbering and list structure in Article 23: paragraph (2) is merged into paragraph (1) line; the phrase \"with:\" is merged into \"by:a.\"; list items a–f are merged (\"andf.\") instead of separate items.",
+        "Minor meaning drift/typo: Article 23 refers to paragraph (l) with letter l; should be paragraph (1) (numeric) to match the original.",
+        "Broken numbering/list structure in Article 23: original has '(2)' on same line as item (1) and uses inline 'dengan:a.' plus 'danf.'; translation reformats into a nested list and changes marker formatting, which can break downstream boundary splitting.",
+        "Minor meaning drift in Article 20: 'Dalam hal Kerja sama ... ditetapkan dengan Keputusan Bupati' means the cooperation is stipulated/established by a Regent's Decree; translation adds 'In the case of' and is awkward/ambiguous."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in Article 2 letter a: original defines \"hak korban\" (victim rights), but translation says \"victim's rights\"; should be \"victim rights\".",
+        "Minor meaning/wording drift in Article 2 letter e: original says \"artinya\" (meaning), translation uses \"means\" twice; should read \"means\" then \"is\"/\"means\" once for clarity while preserving meaning.",
+        "List/marker fidelity: letter markers are inconsistently rendered (e.g., \"lettera\", \"Lettera\"); should consistently be \"letter a\", \"letter b\", etc., matching original 'huruf a/b/c...' markers in order."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_BARAT_BENGKAYANG.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.664749+00:00",
+  "prompt_version": "v2"
+}

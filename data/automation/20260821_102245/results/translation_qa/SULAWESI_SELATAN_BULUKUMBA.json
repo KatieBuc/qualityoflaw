@@ -1,0 +1,101 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA' was translated as if 'by the grace of God Almighty' modifies the implementation, whereas in Indonesian it is the standard preamble phrase 'By the Grace of God Almighty' (separate from the subject/title).",
+        "Meaning drift: 'Dengan Persetujuan Bersama ... Dan' should be rendered as 'With the Joint Approval of ... and' (missing 'of' and 'joint', and 'And' should be lowercase 'and' within the sentence).",
+        "Meaning drift: omitted phrase “DENGAN RAHMAT TUHAN YANG MAHA ESA / BY THE GRACE OF GOD ALMIGHTY” from the title line; it must be part of the title text, not separated as a standalone paragraph.",
+        "Meaning drift: in item 5, the amendment reference is mistranslated as “Amendment to Law Number 23 of 2014”; the original states Law No. 35/2014 amends Law No. 23/2002 (not 23/2014)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: 'e. ...;danf.' and 'dang. ...' in Article 2/Article 4, and inline a–g items in Article 3 are not properly separated, risking downstream boundary splitting.",
+        "Minor meaning drift/terminology: 'pengayoman' rendered as 'protection' (acceptable) but list formatting must preserve distinct items; also 'dinas' should be 'Service/Office' rather than 'Agency' to avoid confusion, and 'ammatoa Kajang' capitalization should reflect proper name 'Ammatoa Kajang'.",
+        "Broken list structure: Article 3 and Article 4 lettered items are run together on the same line; each marker (a., b., c., etc.) should appear once and in order on separate items. ",
+        "Leftover pagination artifacts included as standalone lines (“3 -”, “4 -”, “5 -”) that are not part of the legal text and can break downstream structure.",
+        "Minor meaning drift in Article 1 item 2: “kelurahan” was translated as “hamlet”; it should be “urban village/kelurahan” (hamlet corresponds to “dusun”)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 5: sub-items a/b/c and paragraph (5) are run together; marker 'd' is missing in the English (original has 'dan c.' but translation has 'andc.').",
+        "Scrambled/merged list structure in Article 6: paragraph (3) is incorrectly prefixed with stray text '6 - (3)' and is not formatted as item '3.' like the original numbering sequence.",
+        "Scrambled/merged list structure in Article 10: paragraph (2) is incorrectly prefixed with stray text '7 - (2)' and is not formatted as item '2.' like the original numbering sequence.",
+        "Meaning drift/terminology: 'Peraturan Bupati' should be translated as 'Regent Regulation' (not 'a Regent Regulation'); 'keputusan Bupati/Keputusan Bupati' should be 'Regent Decree' (not 'a Regent's decree' with possessive).",
+        "Leftover non-legal text/artefact: stray page marker \"8 -\" appears in the translation (and should not be present as part of the translated legal text).",
+        "Minor meaning drift/terminology: \"Regent Regulation\" should be \"Regent's Regulation\" (Peraturan Bupati), and \"Regent Decree\" should be \"Regent's Decree\" (Keputusan Bupati)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list markers (a., b., etc.), paragraph numbers (2), and conjunctions (and/atau, dan) are attached to adjacent items (e.g., 'meliputi:a.', 'danh.', 'dani.', 'danc.', 'and/or e.'), which breaks downstream boundary detection.",
+        "Meaning drift in Article 25(2)(c): 'kecamatan, desa dan kelurahan' was translated as 'regional, sub-district, village and sub-district levels' (duplicates sub-district and omits 'kelurahan/urban village').",
+        "Scrambled/incorrect list structure in Article 16(1): after the standalone \"9 -\" line, items g–j are not consistently formatted/indented as part of the same lettered list (g is not aligned with a–f; i and j are indented differently), risking boundary-based parsing errors.",
+        "Meaning drift in Article 16(1) item g: \"kelurahan\" was translated as \"sub-district\"; it should be \"urban village\" (kelurahan) and/or village (desa)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure in Article 27(1): lettered items a–h are run together on the same line; original has distinct a., b., c., d., e., f., g., h. items (including 'dan h.'), which must be preserved as separate list markers in order.",
+        "Meaning drift/normalization: 'dan h.' in the original is rendered as 'and h.' but should preserve the marker as 'and h.' while keeping h. as its own item; also ensure 'transportation' spelling and keep 'medicolegal' scope tied to visum et repertum/psychiatricum and DNA test as in original (already correct, but needs re-association to the proper markers).",
+        "Broken Markdown heading: original has separate heading '##### PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK I. UMUM' but translation merges it into one heading line ('##### IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN I. GENERAL'), losing the 'I. UMUM'/'I. GENERAL' heading boundary.",
+        "Scrambled/merged list structure in Article 2: original has distinct items 'Huruf a' through 'Huruf f' (letters a–f), but translation uses 'Point a' etc. and merges 'Point e' and 'Point f' into one paragraph without a clear boundary; also page marker '15 -' is embedded mid-paragraph, disrupting structure.",
+        "Meaning drift/terminology: 'Huruf' should be rendered as 'Letter' (not 'Point') to preserve legal referencing; 'asas pengayoman' is better rendered as 'principle of protection/guardianship' but current 'principle of protection' is acceptable—main issue is structural merging affecting meaning retrieval."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 10 paragraph (2) point d: “pemerhati kelompok rentan” translated as “vulnerable group advocates”; should be “observers/concerned persons regarding vulnerable groups” (not necessarily advocates)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_SELATAN_BULUKUMBA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.726186+00:00",
+  "prompt_version": "v2"
+}

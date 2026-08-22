@@ -1,0 +1,68 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 7,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated (e.g., \"andc.\", \"danc.\", \"advokat,f.\", \"h.\" on same line), which breaks list structure required for downstream splitting.",
+        "Numbering/line-break issue in Article 1: item 20 and 21 are merged into one paragraph and item 21 marker is not on its own line; item 17 lacks the ending punctuation/line break before item 18.",
+        "Numbering/structure issue in Article 7: paragraph marker \"(2)\" is merged into the end of item d. instead of being a separate paragraph/line.",
+        "Minor meaning drift/terminology: \"repatriation\" for \"pemulangan\" is potentially misleading in domestic context; better rendered as \"return\" (pemulangan) while keeping meaning consistent.",
+        "Broken list/numbering structure in Article 7: item (2) is not formatted consistently as a numbered list item and is merged into the same paragraph block, unlike the original which has (2) as a separate numbered item.",
+        "Minor meaning drift in Article 7(2): Indonesian 'diatur dengan Peraturan Bupati' is a complete clause; translation ends with a semicolon and should end as a sentence (period) to match legal drafting and avoid downstream parsing issues."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: missing spaces/newlines cause items to run together (e.g., 'andf.', 'andh.', 'services for:a.', 'may:a.', 'andb.'). This breaks list structure required for downstream splitting.",
+        "Article 17 numbering structure is broken: paragraph (2) is merged into paragraph (1) on the same line, and lettered subitems are not clearly separated from the lead-in.",
+        "Minor meaning drift/terminology: 'pemulangan' is translated as 'repatriation' (can imply cross-border return); a more neutral 'return' better matches the Indonesian in this local context.",
+        "Broken/scrambled list structure in Article 20: original has inline markers “a.” and “b.” on the same line; translation split them into separate lines and added a blank line, changing list-item boundary structure used for downstream splitting.",
+        "Minor meaning drift in Article 12(2): Indonesian states the houses “guarantee in the implementation of” the listed services; translation renders as “shall guarantee the implementation of ... services” (acceptable), but to stay closer to source phrasing, adjust to “shall guarantee, in the implementation of services, ...”."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure in Article 8: original uses lettered items (Huruf a, b, c) but translation uses 'Point a/b/c' as plain text instead of preserving the list markers as separate items in the same order.",
+        "Broken list/numbering structure in Article 8: original uses in-line markers 'Huruf a/b/c' (letter a/b/c) but translation converts them to a., b., c. list items, which changes the marker format required for downstream boundary matching."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "BALI_TABANAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.553229+00:00",
+  "prompt_version": "v2"
+}

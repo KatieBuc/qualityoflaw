@@ -1,0 +1,90 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 4: the original includes the English parenthetical title \"(Convention on The Elimination of All Forms of Discrimination Againts Women)\" which is omitted in the translation.",
+        "Minor meaning drift/typo in item 5: original misspells \"Republim\"; translation normalizes to \"Republic\" (should preserve source content as closely as possible for downstream matching)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: Article 2 items a and b run together; Article 3(1) list a is attached to the preceding sentence and items c/d and e/f are merged; Article 3(2) items c/d are merged; Article 4 items d/e are merged; Article 7 items c/d are merged.",
+        "Minor meaning drift/omission: Article 6 original has 'rasa tidak berdaya' (helplessness) which is correctly translated, but ensure Article 6 references 'letter b' (already correct); main required fix is structural to preserve downstream parsing.",
+        "Meaning drift in Article 1 item 11: Indonesian includes 'rasa tidak percaya' (feeling of distrust) and 'penderitaan psikologis berat' (severe psychological suffering); translation renders 'distrust' but omits the 'feeling of' nuance and uses 'psychological' vs 'psychologis' inconsistently (should be 'psychological' but keep meaning).",
+        "Meaning drift in Article 1 item 8: Indonesian ends with 'baik sementara' (whether temporary); translation 'either temporarily' is awkward/unclear—should be 'whether temporary or permanent/ongoing' is not in original; best is 'whether temporary' (as in original) but attach correctly to 'protection' not 'other parties'.",
+        "Minor meaning/terminology issue in Article 1 item 22: 'instansi/dinas/badan/kantor' translated as 'agency/office/body/office' (duplicate 'office'); should reflect 'agency/service/board/office' or similar without duplication while preserving meaning.",
+        "Minor meaning/structure fidelity: Article 6 Indonesian phrase 'rasa tidak berdaya' is 'feeling of helplessness'; translation OK, but ensure consistency with Article 1 item 11 wording (psychological/psychic)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: missing spaces/newlines cause 'and/ord.', 'and/orc.', 'andg.', 'ande.', 'andd.', 'through:a.', and Article 14 '(2)' to run into surrounding text, breaking list structure and item boundaries required downstream.",
+        "Broken numbering/paragraph structure in Article 14: paragraph (2) is merged into paragraph (1) instead of starting as its own numbered item.",
+        "Minor meaning drift/terminology: 'Peraturan Walikota' should be 'Mayor Regulation' (not 'Mayor Decree'); 'Keputusan Walikota' is 'Mayor Decree'—these need to be kept distinct. (Translation currently uses 'Mayor Regulation' for Peraturan Walikota correctly, but ensure consistency while keeping 'Mayor Decree' for Keputusan Walikota.)",
+        "Broken Markdown/list structure in Article 14: original has '(2)' on the same line as paragraph (1); translation splits it into a separate line, which can break downstream boundary matching.",
+        "Meaning drift in Article 15: translated sentence is a fragment and omits the operative meaning that the obligations are 'to prevent all forms of violence and protect women and children as family members' (needs to be stated as the content of the obligations)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers with text in multiple places (e.g., 'f. ...; andg.', 'andd.', 'ande.', '(2)' attached to prior sentence), which breaks downstream boundary detection.",
+        "Article 25 numbering structure is inconsistent with the original: item '(2)' is not formatted as a numbered item '2.' like the original sequence.",
+        "Minor meaning drift/terminology: 'manpower' should be 'employment/labor' (ketenagakerjaan) in Article 22(1)(d).",
+        "Scrambled/altered list-marker structure in the original (e.g., \"...berikut:a.\", \"dan g.\") was normalized in translation; downstream requires markers appear exactly once and in the same order/structure as the original (including the original's fused \"dan g.\" occurrences).",
+        "Article 25(1) in the original has item markers \"...; f.\" and \"dan g.\" on the same line; translation reformatted into a clean list, changing the marker structure.",
+        "Article 28(2) and (3) in the original have fused markers (\"dane.\", \"prinsip:a.\", \"danc.\") that are not preserved in the translation, changing list-marker tokens.",
+        "Minor meaning drift: \"pos pengaduan\" translated as \"complaint posts\"; more accurate is \"complaints post(s)\"/\"complaint post(s)\" but kept as \"complaints posts\" to match legal sense; also \"Peraturan Walikota\" should be \"Mayor Regulation\" (kept) but ensure consistency."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Ttd.\" should be translated as \"Signed\" (without a period) or \"Signed.\" consistently; current \"Signed.\" adds punctuation not present in the original and may be treated as different token downstream",
+        "Meaning drift: \"Pembina Tingkat I\" left untranslated (rank/title should be translated to English)",
+        "Meaning drift: \"Ttd.\" should be translated as \"Signed.\" (with period) to match the original notation.",
+        "Meaning drift: \"Pembina Tingkat I\" is a civil-service rank; \"Senior Supervisor\" is inaccurate. Use \"First-Level Supervisor\" (or equivalent) to preserve the rank meaning."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_BLITAR_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.640754+00:00",
+  "prompt_version": "v2"
+}

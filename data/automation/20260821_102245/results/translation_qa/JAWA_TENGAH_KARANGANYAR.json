@@ -1,0 +1,82 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [
+    "Article I"
+  ],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken numbering/list structure in the preamble: original has separate items a., b., c., d., e., but translation merges a. and b. as \"a. b.\" and omits the letter marker for d.",
+        "Broken numbering/list structure in the preamble: original has separate items 1., 2., 3., 4., ... but translation merges 1. and 2. as \"In View of 1. 2.\" and merges 3. and 4. as \"3. 4. Law...\"",
+        "Scrambled/merged list items: item 13 is run together with item 12 (\"...4844); 13.Government Regulation...\") and items 13 and 14 lack a space after the number/period, deviating from the original list marker structure.",
+        "Meaning drift/omission risk due to missing list marker \"d.\" in the Considering section (the clause is present but not labeled), which can break downstream boundary-based retrieval.",
+        "Broken/scrambled list structure in the 'Considering' section: original has a., b., c., (then two unlettered paragraphs), then e.; translation incorrectly labels the second paragraph as d. and leaves two subsequent paragraphs without the required letter markers.",
+        "Broken Markdown/heading structure at the end: original shows 'BAts III' (as written) while translation changes it to 'CHAPTER III'.",
+        "Meaning drift/omission in Article 2(d): original says 'best interests for the victim' (kepentingan terbaik bagi korban) but translation renders it as 'Best interests of the victim' (minor but should be 'for')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list marker formatting in Article 7(2): items d–i and paragraph (3) are run together on one line; paragraph marker '(3)' should be '3.' and appear as its own numbered item after i.",
+        "Scrambled list marker formatting in Article 10(3)–(5): markers '(4)' and '(5)' are embedded mid-paragraph; they must be separate numbered items '4.' and '5.' in sequence.",
+        "Minor meaning drift/awkwardness in Article 4: 'dari individu...' rendered as 'from individuals...' (should be 'by individuals...' to reflect actor providing confidential handling).",
+        "Heading mismatch: original has \"## PHNYEI-ENGGARAAN PERLIN DU NGAN\" but translation changes it to \"## IMPLEMENTATION OF PROTECTION\" (must preserve the same heading text content as the source section title, translated but reflecting the original wording; also original spacing/typos indicate \"PENYELENGGARAAN PERLINDUNGAN\").",
+        "List marker mismatch in Article 6(1): original uses \"a'\" and \"c'\" but translation normalizes to \"a.\" and \"c.\"; list markers must match exactly for downstream splitting.",
+        "Meaning drift in Chapter V title: original indicates \"PENYELENGGARAAN PERLINDUNGAN\" (implementation/administration/organization of protection) but translation uses a different phrasing; corrected to \"ORGANIZATION OF PROTECTION\" to align more closely.",
+        "Minor numbering/marker fidelity: original has irregular marker \"(2\\\" in Article 8(2); translation normalizes to \"(2)\"—markers should be preserved as in the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: \"Pasal12\" in the original is not translated as a level-4 heading (\"#### Article 12\"); it is left as a plain paragraph line \"Article 12 (1) ...\".",
+        "Scrambled/incorrect numbering markers: original has item \"(2\\\" (paragraph (2)) but translation uses \"(2)\"; original also has \"(5)\" as a separate numbered item but translation embeds it mid-sentence after item 4.",
+        "Meaning drift/grammar: Article 11 item 3 should refer to protection for non-residents who experience violence in Karanganyar; translation phrase \"which occurs\" is unclear—should be \"who experience violence\" to match the subject (victims).",
+        "Broken/mismatched heading structure: original has \"Pasal12 (1)\" inline (not a \"#### Pasal 12\" heading) and \"Fasal 16\" is inline (not a \"#### Pasal 16\" heading), but translation introduces \"#### Article 12\" and omits the \"Pasal12\" inline marker; translation also turns \"Fasal 16\" into plain text without preserving the original marker form.",
+        "Scrambled/incorrect list markers: original uses \"(2\\\" (malformed) and \"(2'1\" and \"ayat (2)'1\" artifacts; translation changes these markers to clean \"(2)\" and removes the artifacts, which breaks downstream boundary matching.",
+        "Meaning drift/omission: in the ELUCIDATION section, the last sentence ends with \"dan\" in the original; translation changes it to \"and\" but does not preserve the truncation artifact exactly as in the source structure (needs to remain equally incomplete)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: misspellings/variants in the original (\"Gr.rkup jelas.\", \"Gukup jelas.\") were normalized to \"Sufficiently clear\"; should reflect the original wording (e.g., \"Clear enough\" vs. preserving the corrupted form)",
+        "Minor meaning drift: \"terlibat dafam\" translated as \"involved\" but should be \"involved/participate\"; acceptable, but keep closer to original phrasing",
+        "Meaning drift / untranslated phrases: several occurrences of \"Gr.rkup jelas.\", \"Gukup jelas.\" remain in Indonesian/garbled and should be translated consistently as \"Clear enough.\"",
+        "Minor meaning drift: \"involved/participating\" adds an alternative not present in the original; should be a single meaning (\"involved\")"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_KARANGANYAR.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.604820+00:00",
+  "prompt_version": "v2"
+}

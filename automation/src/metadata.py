@@ -128,6 +128,20 @@ def validate_run_for_steps(
     """
     run_dir = ensure_run_exists(run_id)
 
+    # Both paths end up producing results/translation/*.txt: the raw-text
+    # `translation` step writes it directly, the Markdown path's `md_to_text`
+    # step renders it from the translated Markdown. Either one satisfies a
+    # later step's prerequisite when it runs in the same invocation.
+    produces_translation_text = "translation" in steps or "md_to_text" in steps
+
+    markdown_steps = [s for s in ("translation_qa_md", "md_to_text") if s in steps]
+    if markdown_steps and "translation_md" not in steps:
+        markdown_dir = resolve_results_dir(run_dir, "translation_markdown")
+        if not markdown_dir.is_dir() or not list(markdown_dir.glob("*.md")):
+            raise FileNotFoundError(
+                f"Translated markdown required for {', '.join(markdown_steps)}: {markdown_dir}"
+            )
+
     if "translation_qa" in steps and "translation" not in steps:
         translation_dir = resolve_results_dir(run_dir, "translation")
         if not translation_dir.is_dir():
@@ -136,7 +150,7 @@ def validate_run_for_steps(
         if not txt_files:
             raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
 
-    if "storage" in steps and "translation" not in steps:
+    if "storage" in steps and not produces_translation_text:
         translation_dir = resolve_results_dir(run_dir, "translation")
         if not translation_dir.is_dir():
             raise FileNotFoundError(f"Translation output required for storage: {translation_dir}")
@@ -145,7 +159,7 @@ def validate_run_for_steps(
             raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
 
     if "evaluation" in steps:
-        if "translation" not in steps:
+        if not produces_translation_text:
             translation_dir = resolve_results_dir(run_dir, "translation")
             if not translation_dir.is_dir():
                 raise FileNotFoundError(

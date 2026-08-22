@@ -1,0 +1,69 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 1,
+  "qa_passes_total": 7,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list structure under \"Considering\": items b and c are missing their markers (only \"a.\" appears), so the lettered list does not match the original.",
+        "Scrambled/missing list structure under \"In View of\": only item \"1.\" appears; subsequent legal bases (2, 3, etc.) are missing their numbering markers, so the numbered list does not match the original."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged sentence in Article 26: the last list item ('evaluation') is incorrectly joined with the next sentence ('Supervision...'), obscuring the boundary between guidance items and supervision principles.",
+        "Minor meaning/grammar issue in Article 26 due to missing separator/punctuation between 'evaluation' and 'Supervision', which can affect downstream parsing.",
+        "Meaning drift: 'ketentraman dan ketertiban' translated as 'peace and order' instead of the standard legal term 'tranquility and public order'.",
+        "Minor meaning drift/terminology: 'Peraturan Walikota' should be rendered as 'Mayor Regulation' or 'Mayor's Regulation'; keep consistent phrasing (used inconsistently as 'Mayor Regulation' without possessive/article)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "NUSA_TENGGARA_BARAT_BIMA_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.713854+00:00",
+  "prompt_version": "v2"
+}

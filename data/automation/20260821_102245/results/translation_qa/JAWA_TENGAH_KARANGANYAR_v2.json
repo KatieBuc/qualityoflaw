@@ -1,0 +1,95 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the Indonesian text has a typo 'enetapkan:' (intended 'Menetapkan:'), but the translation renders it as 'To Establish:' without reflecting the missing initial 'M' present in the source text; downstream legal-indicator evaluation may require exact fidelity to source anomalies.",
+        "Meaning drift/typo: \"enetapkan\" is left untranslated/misspelled; should be \"Stipulates/Establishes\" (translation of \"Menetapkan\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 2: sub-items a–d and a–f are run together with the preceding text (missing line breaks after ':' and missing separation before 'd.' and 'f.'), risking boundary-based parsing errors.",
+        "Minor meaning drift/terminology: 'Perintah Perlindungan' is defined as a 'determination/decision' issued by the Court; translation as 'order' is acceptable but should reflect it as a court determination/decision. Also 'Companion' should be 'Assistant/Companion (Pendamping)' but kept as legal term; adjusted for clarity without adding content.",
+        "Markdown/list marker spacing inconsistency: 'and i . Funding' should be 'and i. Funding' to match marker exactly.",
+        "Broken Markdown structure: the original has an unnumbered heading line \"Umu m\" after \"## Bagian Kesatu\"; the translation renders it as plain paragraph \"General\" instead of a heading at the same level.",
+        "Minor meaning drift/terminology: \"Pendamping\" is translated as \"Companion (Assistant)\"; in this legal context it should be \"Companion\"/\"Accompanist\"/\"Assistant\" consistently without adding an extra parenthetical term not in the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect numbering and list-marker structure in Article 3: lettered items a–k are not properly separated; item 'k.' is merged into 'j.'; the wage right is incorrectly labeled as '1.' (should be letter 'l.'); paragraph numbering is inconsistent: '(3)' appears inline after paragraph 2 and paragraph (4) is mislabeled as '4.' instead of '(4)'.",
+        "Scrambled list markers in Article 4: 'and f.' is merged into item e (should be separate 'f.').",
+        "Scrambled list/numbering structure in Article 3(1): item markers j, k, and l do not match the original (original has j, k, then '1.' as the next item; translation uses k and l).",
+        "Scrambled list/numbering structure in Article 3: paragraphs (3) and (4) are not formatted as list items '3.' and '4.' like the original sequence.",
+        "Scrambled list/numbering structure in Article 7: paragraph (3) is embedded at the end of item 2 instead of being a separate '3.' item.",
+        "Minor meaning drift in Article 3(1) item e: 'ancaman' is 'threats' generally; translation implies 'and threats' tied to slavery/servitude (acceptable but better kept as 'and threats' without narrowing)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering structure in Article 19: paragraph (2) is not formatted as a numbered item like in the original (it appears as '(2)' on a new line, breaking the list marker sequence)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list structure: in Article 31 the marker “(2)” is not formatted as item 2 in sequence (it appears as a separate paragraph), whereas the original has numbered items 1, 2, 3, 4, 5.",
+        "Scrambled list/marker concatenation: in Article 32(4) the introductory phrase is merged with list item “a.” (“activities ofa.”) and item “e.” is merged with “and” (“ande.”), breaking list markers.",
+        "Meaning drift/unfinished clause carried over: Article 28(6) ends with an incomplete phrase (“and to provide.”) reflecting a truncated original; needs faithful rendering but should not add content—retain as incomplete but fix punctuation/structure so it is clearly part of item (6).",
+        "Broken Markdown/list structure in Article 28(1): original has \"meliputi:a.\" on the same line; translation split into a separate line and indented subitems, which may break downstream boundary matching.",
+        "Meaning drift/omission in Article 28(6): Indonesian text ends with an unfinished phrase \"...dan memberikan.\"; translation renders \"and to provide.\" but does not preserve the exact unfinished nature/placement; needs to mirror the original structure more closely.",
+        "Minor marker fidelity: original has \"i .\" (with space) in Article 29; translation uses \"i.\" (normalized). For strict marker matching, preserve as \"i .\"."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_KARANGANYAR_v2.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.606782+00:00",
+  "prompt_version": "v2"
+}

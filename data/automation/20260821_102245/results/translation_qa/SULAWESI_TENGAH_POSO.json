@@ -1,0 +1,61 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 6,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"d a n\" (and) in the original is rendered as \"a n d\" instead of normal \"and\".",
+        "Minor meaning/format drift: item 13 citation line break/spacing is awkward; normalize to keep the citation intact (\"...Number 4635\").",
+        "Broken/mismatched Markdown structure: the original line \"Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN POSO d a n\" is a plain paragraph, but the translation turns part of it into a level-1 heading (\"# THE REGENT OF POSO\"), which changes downstream splitting boundaries.",
+        "Meaning drift/omission: the translated line \"With the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF POSO REGENCY and\" omits the spaced-out \"d a n\" styling present in the original (should be preserved as part of the text).",
+        "Punctuation/parenthesis error affecting meaning/structure: item 13 has an unclosed parenthesis and misplaced punctuation (\"Number 4635.;\"), whereas the original closes the citation properly."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list markers in Article 2: last item is rendered as \"6.\" instead of \"e.\" (must preserve original marker sequence).",
+        "Scrambled list/numbering in Article 3: item \"d.\" is merged into item \"c.\" instead of appearing as its own list item.",
+        "Scrambled list/numbering in Article 5(3): sub-items a–e are not properly separated; \"a.\" is on the same line as the lead-in, and \"dane.\" / \"ande.\" is merged (must be \"d.\" and \"e.\" as separate items).",
+        "List item marker mismatch in Article 2: original uses \"6.\" for the last item, but translation changes it to \"e.\" (must preserve the original marker/order)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are run together with preceding text (e.g., 'include:a.', 'with:a.', 'cooperate with:a.') and some markers are concatenated ('andc.', 'andf.', 'Budgetb.').",
+        "Article 10 numbering structure not preserved: '(1)' appears inline after a colon instead of as its own list item, unlike the original structure.",
+        "Minor meaning drift/terminology: 'Regent Regulation' should be 'Regent's Regulation' (Peraturan Bupati).",
+        "Scrambled/incorrect list marker structure in Article 8: original has a., b., and c. (with a typo 'danc.'), but translation inserts an extra 'and' and changes punctuation; needs to preserve a/b/c markers cleanly.",
+        "Scrambled/incorrect list marker structure in Article 10: original uses '(1)' then '2.' and '3.'; translation changes '(1)' to '1.' which breaks downstream boundary matching.",
+        "Scrambled/incorrect list marker structure in Article 11: original has a., b., c. but source text runs together ('Daerahb.' and 'danc.'); translation should still present a., b., c. as separate items with the same markers and order."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_TENGAH_POSO.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.734836+00:00",
+  "prompt_version": "v2"
+}

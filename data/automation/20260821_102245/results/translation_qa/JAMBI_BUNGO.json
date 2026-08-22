@@ -1,0 +1,104 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 9,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list numbering: after item 8, the original has item 9 (Law No. 23/2014) but the translation omits the '9.' marker, causing numbering mismatch.",
+        "Minor meaning drift/typo: original shows duplicated '31 31 Tahun 2014'; translation normalizes to '31 of 2014' (should preserve the source text as-is for downstream alignment).",
+        "Meaning drift in item a: translated 'freedom from the state' but original means 'freedom from fear' (bebas dari rasa takut).",
+        "Meaning drift/typo in legal basis item 6: duplicated number '31 31' should be '31'.",
+        "Meaning drift/omission in legal basis list: original has an unnumbered entry for Law No. 23/2014 before item 10; translation numbers it as 9, which changes the list marker structure.",
+        "Meaning drift in item 8: original includes 'Nomor Pembentukan Peraturan Perundang-undangan' (with 'Nomor'); translation omits 'Number' wording.",
+        "Meaning drift/formatting in item 14: original ends with 'Nomor 85. ;' (garbled but present); translation breaks/omits closing parenthesis and punctuation, leaving the citation incomplete."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in multiple places: several list markers are fused with adjacent text (e.g., Article 1 items 3–4; Article 2(2) principles a–f; Article 3 a–c; Article 5 a–i; Article 6 a–e; Article 7(3) a–d; Article 7(4) a–b), and some markers are missing (e.g., Article 5 item a., i.).",
+        "Broken numbering/lettering fidelity: duplicate '8.' in Article 1 is present (as in source) but needs to remain while keeping the definition aligned; also 'C.' should remain as in source but list formatting must be preserved.",
+        "Meaning drift/clarity risk due to missing separators: e.g., Article 2(2) 'andf.' should be 'and f.'; Article 6 'and/ore.' should be 'and/or e.'; Article 5 'obtaini.' should be 'obtain i.'; these currently change the parseable structure for downstream evaluation.",
+        "Scrambled/duplicated list numbering in Article 1: item 8 appears twice and includes leftover page-break text \"Discrimination.....7 -7-\"",
+        "Scrambled list/marker structure in Article 2(2): original has \"asas:a.\" run-on and \"kemanusiaan.....9a.\"; translation keeps this artifact instead of cleanly associating marker a. with its content",
+        "Scrambled list/marker structure in Article 3: original has run-on \"a.\" and \"b.\" on same line; translation separates but must ensure markers appear once in correct order (fixed)",
+        "Scrambled list/marker structure in Article 4: original contains \"C.\" (uppercase) and stray \"I\" plus page-break text \"Bagian.....10. 10-\"; translation retains these artifacts and does not present the rights as a consistent a–f list",
+        "Scrambled list/marker structure in Article 5: original has run-on text causing h./i. and the final right to be merged; translation leaves \"Right to assistance\" without a marker and splits h/i incorrectly",
+        "Scrambled list/marker structure in Article 6: original has run-on \"a. ...b.\" and \"dan/ataue.\"; translation partially fixes but must preserve markers a–e each once in order (fixed)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list structure: in Article 9(1) the sub-items a–f are not preserved (missing 'a.' marker; 'f.' is merged into 'andf.'; page artifacts '...13 -13-' are embedded in item e).",
+        "Scrambled numbering: Article 9 paragraph (2) is not presented as a separate numbered item and is merged into a sentence with stray words ('in accordance implementation').",
+        "Scrambled numbering in Article 10: paragraph (3) is embedded at the end of paragraph (2) instead of being a separate '(3)' item; sub-item markers are merged ('includes:a.', 'and/orc.').",
+        "Scrambled list items in Article 11(1) and Article 12(1): sub-item markers are merged ('includes:a.', 'andd.', 'andj.').",
+        "Scrambled list items in Article 13(2): item f is missing its marker and is merged into item e line ('and/or repatriation...').",
+        "Scrambled list items in Article 15(1): missing markers for items e and f (their contents appear as unnumbered paragraphs); stray uppercase 'C.' line; overall a–g structure not preserved.",
+        "Scrambled list items in Article 16: 'andc.' merged; should be separate item c.",
+        "Scrambled list items in Article 17(1): duplicated/garbled 'a. provision.....a. provision' and merged 'andb.'; needs clean a and b items.",
+        "Scrambled list items in Article 18: 'andc.' merged; should be separate item c.",
+        "Scrambled numbering in Article 18/19 boundary: stray '1. Repatriation' appears under Article 18; Article 19 paragraphs are garbled with duplicated '2. Repatriation.....19.' and page artifacts; needs restoration to (1) and (2) with a and b sub-items.",
+        "Meaning drift risk due to structural corruption: several obligations/clauses are present but not correctly associated with their legal markers, which can change downstream interpretation.",
+        "Scrambled/unclean list markers and pagination artifacts embedded in items (e.g., \"allocating....13 -13-e.\", \"participating.....14 14-c.\", \"Prevention.....16 -16- (2)\", \"provision.....18 - 18 -a.\", duplicated \"2. Repatriation.....19.\"), which disrupt list structure for downstream splitting.",
+        "Meaning drift/garbling in several clauses due to misplaced fragments (e.g., Article 9(2) starts with stray phrase \"in accordance implementation\"; Article 10(3) missing the paragraph reference number; Article 12(2) contains duplicated marker \"(2)\" inside the sentence)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items run together (e.g., 'andc.', 'andb.', 'and/orc.') in Articles 21, 22, 23, 24(2), 25(2), 26(2), 27(2), 28(2), 29(3) and elsewhere; needs separation to preserve list structure.",
+        "Meaning drift: Article 32 translation omits the subject ('Implementing regulations') and changes the sentence into a fragment; should state that implementing regulations must be stipulated within 1 year.",
+        "Meaning drift: Article 29(3) first list item marker 'a.' is missing in translation (appears as plain text), breaking the required a–h structure.",
+        "Minor meaning/wording issue: Article 24(2) contains stray word 'synchronizing' on its own line; should be integrated as part of item b consistent with the original 'mensingkronisasikan'.",
+        "Scrambled/merged list structure in Article 21: original has 'b. ...; dan c. ...' but translation split into 'b.' and 'and c.'; needs to keep markers a., b., c. in order.",
+        "Scrambled/merged list structure in Article 24(2): original has separate items a., b., c. with a stray 'mensingkronisasikan' line; translation merged 'synchronizing' into item b and omitted the standalone 'synchronizing' line placement.",
+        "Scrambled/merged list structure in Article 25(2): original has 'dengan:a.' (no line break) and 'dan/atau c.'; translation reformatted but must preserve markers and order; also stray line 'ketentuan peraturan' translated as 'provisions of legislation' but should remain as a separate line matching original placement.",
+        "Scrambled/merged list structure in Article 26(2): original has a., b., c. with embedded scan artifact 'c. bantuan.....22 -22-c.'; translation kept artifact but punctuation/marker association needs to match original (a., b., c., d. in order).",
+        "Article 27 structure drift: original has 'Umum (1) Bupati' then Article 27 text starts mid-sentence ('melakukan...'); translation kept this but needs paragraph numbering '(1)' before the Regent clause to match original numbering structure.",
+        "Article 29(3) list item a is missing its marker in the original (it starts directly with text) but translation added 'a.'; must mirror original marker sequence (keep the missing 'a.' and start with the text, then b., c., etc.)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAMBI_BUNGO.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.576873+00:00",
+  "prompt_version": "v2"
+}

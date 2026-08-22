@@ -1,0 +1,100 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: 'andf.', 'andd.', 'ande.', and 'and/or' merged with the next item (e.g., 'and/ataue.'), and some lettered items run together with preceding text (e.g., 'aims to:a.').",
+        "List structure not cleanly preserved: items 21 and 22 are on the same numbered line; several lettered subitems (Article 4(3), Article 4(4)) have markers attached to preceding text, risking boundary-based splitting downstream.",
+        "Minor meaning/term drift: 'Peraturan Walikota' should be 'Mayor Regulation' or 'Mayor's Regulation' consistently; keep as 'Mayor Regulation' but ensure it clearly refers to a regulation issued by the Mayor. (Main fix is structural.)",
+        "Scrambled/altered list-marker structure in Article 4(4)(b): original has 'dan - 8 -c.' inline, but translation split it into a separate '- 8 -' line, breaking the list flow and potentially confusing downstream parsing.",
+        "Minor meaning drift in Article 4(4)(b): 'perlindungan secara represif ... dan kuratif ...' rendered as 'repressive protection ... and curative ...' without repeating 'protection' for the curative part; should clearly read 'curative protection' to match the original structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are run together with preceding text (e.g., Article 6(1) 'by:a.', Article 9 'to: a.', Article 13(1) 'include:a.', Article 17(1) 'including:a.'), and some conjunctions/markers are merged (e.g., 'and d.', 'and e.', 'and h.'). This risks downstream boundary splitting.",
+        "Meaning drift in Article 13(1)(c): Indonesian says 'including the provision of space and the victim's house (ruang dan rumah korban)', but translation changes it to 'space and safe houses', which is not the same term (rumah aman is used elsewhere).",
+        "Scrambled numbering/list structure in Article 6: paragraph (2) is preceded by stray text \"9 -\" and is not numbered as item \"2.\" like the original; sub-items a–c under paragraph (2) are not indented/associated consistently with the paragraph marker.",
+        "Minor meaning drift/terminology: \"Peraturan Walikota\" should be rendered as \"Mayor Regulation\" (not \"Mayor Regulation\" vs \"Mayor Regulation\" is fine) but in Article 11 and others it should be \"Mayor Regulation\" consistently; also \"prosecution\" for \"kejaksaan\" is better as \"Public Prosecutor's Office\" to match the institution (legal indicator sensitivity)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 19 items 'e.' and 'f.' are merged ('and f.'), and in Article 21 items 'a.' and 'b.' are merged on one line.",
+        "Scrambled/merged list structure: in Article 25 paragraph (2) the list items a–d are not cleanly separated (a. appears inline after the colon; 'and/or d.' is merged).",
+        "Scrambled/merged list structure: in Article 26 paragraph (1) items a–d are not cleanly separated (a. appears inline after the colon; 'and d.' is merged), and in paragraph (2) items a–g are not cleanly separated (a. inline; 'and/or g.' merged).",
+        "Scrambled numbering: Article 28 paragraph (2) is incorrectly formatted as '18 - (2)' instead of a separate '2.' item, and item k. is preceded by an inserted page marker '- 19 -' within the list.",
+        "Meaning drift: Article 20 translates 'pemahaman terhadap anak' as 'understanding for children' (should be 'children's understanding/understanding among children').",
+        "Scrambled list/numbering structure in Article 19 original: item f is merged into item e as \"danf.\"; translation separates them but should reflect the original marker sequence by restoring distinct e. and f. items (structure fix).",
+        "Scrambled list/numbering structure in Article 25(2) original: \"meliputi:a.\" and \"dan/ataud.\" are merged; translation regularizes but needs to preserve list markers a–d in correct order with proper separation.",
+        "Scrambled list/numbering structure in Article 26(1) original: \"dand.\" is merged; translation regularizes but should ensure markers a–d appear once in order without stray page-break text interrupting the list.",
+        "Scrambled list/numbering structure in Article 28: original has page-break text \"18 - (2)\" and \"j. ... dan/atau - 19 -k.\"; translation leaves \"- 19 -\" as a standalone line splitting the list, which breaks list continuity (Markdown structure issue)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 2: markers for letter a–f are not separated and 'letter f' is merged into the end of letter e.",
+        "Scrambled/merged list structure in Article 3: markers for paragraph (1) and paragraph (2) are merged into one run-on line; letter a is merged into paragraph (2) line.",
+        "Meaning/structure risk: merged markers can cause downstream boundary splitting errors; needs re-segmentation to match original marker order (huruf/ayat and a.–e. under letter c)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled list markers in Article 16: missing separation/spacing causes merged items \"andd.\" (should be \"and d.\") and \"andf.\" (should be \"and f.\") which can break downstream list parsing.",
+        "Minor meaning drift/terminology: \"Pemulangan\" is better rendered as \"Return\" rather than \"Repatriation\" in this domestic context; adjust to preserve intended meaning without adding content.",
+        "Scrambled list/numbering structure in the original (e.g., 'dand. ...' and 'andf. ...'); translation normalizes these into separate list items but does not reflect that the original has merged markers. For boundary-sensitive downstream processing, list markers must match the original exactly.",
+        "Meaning drift: 'Bantuan hukum adalah hukum segala sesuatu...' is mistranslated as a clean definition ('Legal aid is everything...'), omitting the awkward 'is law' phrasing present in the source; should be rendered more literally to preserve meaning/wording for legal-indicator evaluation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_MADIUN_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.649458+00:00",
+  "prompt_version": "v2"
+}

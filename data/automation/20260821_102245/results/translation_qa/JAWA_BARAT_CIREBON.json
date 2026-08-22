@@ -1,0 +1,77 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering structure in the 'In View of:' list: items 11, 12, and 13 are merged into one line instead of being separate numbered items, which can break downstream boundary-based retrieval.",
+        "Meaning drift: \"Dengan Persetujuan Bersama\" was translated as \"With Mutual Approval\"; in this legal context it should be rendered as \"With the Joint Approval\" (of the DPRD and the Regent)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 1 items 2–3 and 8–9 are run together on one line, breaking the numbered list boundaries.",
+        "Scrambled/merged list structure: in Article 3 lettered items a–f are merged (e.g., 'to: a.' inline; 'children:d.' and 'd... e...' on same line), breaking the lettered list boundaries.",
+        "Scrambled/merged list structure: in Article 4(4) lettered items a–e are merged with the lead-in text and with each other (e.g., 'related to:a.' and 'activities; e.'), breaking the lettered list boundaries.",
+        "Meaning drift/garbling in Article 1(17): 'and Indirect' is an incorrect/incomplete rendering of 'dan Tidak Langgsung' (should express both direct and indirect efforts).",
+        "Meaning drift in Article 2 letter c: \"Pengayoman\" translated as \"Shelter\"; more accurate is \"Protection\"/\"Safeguarding\".",
+        "Meaning drift in Article 1 item 17: Indonesian text ends with \"dan Tidak Langgsung\" (indirect) but translation renders it as \"and indirect efforts\" without reflecting the phrasing; should explicitly state both direct and indirect efforts.",
+        "Minor meaning/term accuracy: Article 1 item 11 \"penjeratan uang\" is closer to \"debt bondage\" (already present) but the clause structure should reflect that it is one of the means used; current wording is acceptable but can be tightened to mirror the original list structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., 'ande.', 'andg.', 'danc.', 'andh.', 'servicesd.', 'Economyc.', '(4)' merged into paragraph (3)); list item markers must appear once each and in the same order as the original.",
+        "Broken numbering structure: Article 8 paragraph (4) is merged into paragraph (3) instead of being a separate '(4)' item.",
+        "Minor meaning drift/terminology: 'ketenteraman dan ketertiban' rendered as 'peace and order' (better 'tranquility and public order'); keep legal sense consistent.",
+        "Scrambled/altered list structure in Article 8(3)-(4): original has item 3 followed immediately by item (4) on the same line; translation split them into separate lines and changed marker formatting.",
+        "Scrambled/altered list structure in Article 13(1): original has \"c. Pelayanan hukumd. Pemulangan;\" (missing separator) which requires preserving two separate items c and d; translation separated them but also changed punctuation/line-break structure (missing semicolon after c) and indentation differs from original marker style.",
+        "Scrambled/altered list structure in Article 13(2): original has \"b. Ekonomic. Kesehatan;\" (missing separator) which requires preserving two separate items b and c; translation separated them but removed the semicolon after b and changed marker formatting/indentation.",
+        "Meaning drift: Article 6(d) original contains a typo \"dane.\"; translation silently corrected it. For downstream boundary matching, the marker sequence should reflect the original (d. then e.) but the text should not introduce/omit items—needs careful reconstruction while keeping intended items distinct."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 19: item (1) and (2) sub-items a–e are run together (e.g., \"with:a.\", \"ande.\") instead of being separated as distinct list items.",
+        "Scrambled/merged list structure in Article 20(2): sub-item d is merged into the preceding text (\"andd.\").",
+        "Scrambled/merged list structure in Article 21: paragraph (2) is embedded in paragraph (1) and sub-items a–e are merged (\"ande.\") instead of being properly separated.",
+        "Scrambled/merged list structure in Article 23: sub-item c is merged (\"andc.\").",
+        "Scrambled list/numbering structure: in Article 19(1), Article 19(2), and Article 20(2) the original uses inline list markers (a., b., c., d., e.) on the same line as the preceding clause; the translation reformats them as indented sublists, changing the list-marker structure used for downstream splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_CIREBON.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.586910+00:00",
+  "prompt_version": "v2"
+}

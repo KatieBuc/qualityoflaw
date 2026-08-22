@@ -5,9 +5,11 @@ from pathlib import Path
 import yaml
 
 from automation.src.chunking import SAFE_LIMIT_DEFAULT
+from automation.src.markdown.chunking import TARGET_CHARS_DEFAULT
 from automation.src.constants import (
     AUTOMATION_ROOT,
     CHUNKING_FALLBACK_PROMPT,
+    MARKDOWN_FALLBACK_PROMPT,
     DEFAULT_DATA_ROOT,
     DEFAULT_MODEL_CONFIG,
     DEFAULT_PIPELINE_CONFIG,
@@ -22,6 +24,13 @@ class PipelinePaths:
     input_dir: Path
     golden_csv: Path
     index_schema: Path
+    # The curated Markdown corpus the `translation_md` step reads. Separate
+    # from `input_dir`, which stays pointed at the raw OCR text: `diagnose`
+    # still needs the Indonesian original as plain text, and the raw-text
+    # translation path stays runnable side by side with the Markdown one.
+    markdown_input_dir: Path = field(
+        default_factory=lambda: PROJECT_ROOT / "data" / "processed" / "localpolicies" / "cleaned_markdown"
+    )
 
 
 @dataclass
@@ -35,6 +44,27 @@ class ChunkingConfig:
     enabled: bool
     safe_limit: int
     fallback_prompt_path: Path
+
+
+@dataclass
+class MarkdownTranslationConfig:
+    """Settings for the Markdown translation path.
+
+    Deliberately has no `model` of its own -- it reuses
+    `translation.model` / `translation_qa.model`, so switching models stays a
+    one-place change. `target_chars` is what packs heading sections into
+    translation units; `safe_limit` still guards the model's context and
+    triggers sentence-level fallback splitting.
+    """
+
+    prompt_path: Path
+    fallback_prompt_path: Path
+    qa_template_path: Path
+    target_chars: int = TARGET_CHARS_DEFAULT
+    safe_limit: int = SAFE_LIMIT_DEFAULT
+    # How many times translation_qa_md may re-audit one chunk before giving
+    # up and keeping its last correction.
+    qa_max_passes: int = 5
 
 
 @dataclass
@@ -99,6 +129,13 @@ class ResolvedPipelineConfig:
     sliding_window: SlidingWindowConfig = field(default_factory=SlidingWindowConfig)
     sliding_window_template_path: Path = field(
         default_factory=lambda: PROMPTS_ROOT / "quality_eval" / "sliding_window_v1" / "prompt_template.txt"
+    )
+    markdown: MarkdownTranslationConfig = field(
+        default_factory=lambda: MarkdownTranslationConfig(
+            prompt_path=PROMPTS_ROOT / "translation" / "v3" / "prompt.txt",
+            fallback_prompt_path=MARKDOWN_FALLBACK_PROMPT,
+            qa_template_path=PROMPTS_ROOT / "translation_qa" / "v2" / "prompt_template.txt",
+        )
     )
 
 
@@ -291,6 +328,39 @@ def parse_sliding_window_config(raw: dict | None) -> SlidingWindowConfig:
     )
 
 
+def parse_markdown_config(raw: dict | None) -> MarkdownTranslationConfig:
+    """Resolve the `translation_markdown:` block, defaults included.
+
+    Prompt versions resolve the same way the raw-text path's do, so a missing
+    prompt file fails loudly at config-load time rather than mid-run.
+    """
+    raw = raw or {}
+    chunking = raw.get("chunking") or {}
+
+    prompt_version = str(raw.get("prompt_version", "v3"))
+    qa_version = str(raw.get("qa_prompt_version", "v2"))
+    prompt_path = PROMPTS_ROOT / "translation" / prompt_version / "prompt.txt"
+    qa_template_path = PROMPTS_ROOT / "translation_qa" / qa_version / "prompt_template.txt"
+
+    if not prompt_path.exists():
+        raise FileNotFoundError(f"Markdown translation prompt not found: {prompt_path}")
+    if not MARKDOWN_FALLBACK_PROMPT.exists():
+        raise FileNotFoundError(
+            f"Markdown fallback prompt not found: {MARKDOWN_FALLBACK_PROMPT}"
+        )
+    if not qa_template_path.exists():
+        raise FileNotFoundError(f"Markdown translation QA prompt not found: {qa_template_path}")
+
+    return MarkdownTranslationConfig(
+        prompt_path=prompt_path,
+        fallback_prompt_path=MARKDOWN_FALLBACK_PROMPT,
+        qa_template_path=qa_template_path,
+        target_chars=int(chunking.get("target_chars", TARGET_CHARS_DEFAULT)),
+        safe_limit=int(chunking.get("safe_limit", SAFE_LIMIT_DEFAULT)),
+        qa_max_passes=max(1, int(raw.get("qa_max_passes", 5))),
+    )
+
+
 def evaluation_output_names(method: str) -> tuple[str, str]:
     """Map the active evaluation method to its (evaluation_dir, comparison_dir)
     names, so both methods can be run against the same run_id without one
@@ -391,6 +461,9 @@ def load_pipeline_config(
         translation_qa_version,
     )
 
+    markdown_cfg = pipeline_data.get("translation_markdown") or {}
+    markdown = parse_markdown_config(markdown_cfg)
+
     rag_cfg = evaluation_cfg.get("rag") or {}
     rag_enabled = bool(rag_cfg.get("enabled", True))
 
@@ -422,6 +495,11 @@ def load_pipeline_config(
             index_schema=_resolve_path(
                 paths_cfg.get("index_schema", "data/mapping/index_schema.yaml")
             ),
+            markdown_input_dir=_resolve_path(
+                paths_cfg.get(
+                    "markdown_input_dir", "data/processed/localpolicies/cleaned_markdown"
+                )
+            ),
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),
@@ -436,6 +514,7 @@ def load_pipeline_config(
         evaluation_method=evaluation_method,
         sliding_window=sliding_window,
         sliding_window_template_path=sliding_window_template_path,
+        markdown=markdown,
     )
 
 

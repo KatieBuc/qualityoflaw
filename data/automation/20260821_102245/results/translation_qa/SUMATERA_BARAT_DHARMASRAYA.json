@@ -1,0 +1,166 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 10,
+  "chunks_corrected": 9,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 9,
+  "qa_passes_total": 20,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [
+        "Scrambled/merged list structure in 'Considering': items a and b are on the same line, and items c and d are on the same line; each lettered item must appear separately in order (a., b., c., d.).",
+        "Broken list/numbering structure in 'Considering': in the original, items a. and b. are on the same line; the translation split them into separate lines, which can break downstream marker-based retrieval expecting the original structure.",
+        "Minor meaning drift/typo in the title: original has 'PERLINDUNGANANAK' (Child Protection) but also contains a spacing issue; translation is fine semantically, but to preserve exact structure, keep the 'Considering' a.-b. formatting aligned to the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: in Article 1 items 25–28 are merged into single lines, causing list markers 26., 28. not to appear as separate numbered items (and 27./28. content runs together).",
+        "Scrambled list/numbering structure: in Article 2 and Article 4 lettered sub-items (a–d/e–h) are run together on the same line as the parent item, risking mis-parsing; each lettered item should be a distinct list entry in order.",
+        "Scrambled list/numbering structure in Article 2(1): the original has \"1. ... asas: a. ...\" on the same line; translation split the list marker and subitems onto separate lines/indentation, which can break downstream boundary matching."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are run together (e.g., 'andh.', 'andn.', 'ande.', 'andi.', 'andc.'), which breaks list structure and can affect downstream splitting.",
+        "Numbering structure in Article 11 and Article 12 is merged: '(2)' is attached to the end of the previous sentence instead of starting as its own numbered item.",
+        "Minor meaning drift/terminology: 'Bapppeda' should be rendered as 'Bappeda' (Regional Development Planning Agency) rather than left with an apparent typo; keep the proper name but correct the spelling to match the source (Bappeda).",
+        "Scrambled/incorrect list marker structure in Article 11: subparagraph (2) is written as '(2)' instead of '2.' as in the original, which can break downstream boundary splitting.",
+        "Minor meaning drift in Article 6 letter h: original says 'not to be forced to change religion by foster parents, adoptive parents and by anyone' (oleh siapapun) — translation is acceptable, but keep structure consistent; main required fix is numbering marker."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: original has heading '# BAB IV' followed by separate text 'PERLINDUNGAN PEREMPUAN DAN ANAK' and then 'Bagian Kesatu ...' as its own section heading; translation merges these into one line ('PROTECTION OF WOMEN AND CHILDRENPart One ...'), losing the separate section heading boundary.",
+        "Scrambled/incorrect list marker spacing: several list items are run together (e.g., 'andl.', 'andd.', 'andf.', 'andg.', 'andh.', 'andd.', 'ande.'), which can break downstream parsing of list items.",
+        "Scrambled numbering structure in Article 18: paragraph (2) is merged into paragraph (1) instead of appearing as its own numbered item '(2)'/ '2.' in sequence.",
+        "Meaning drift/terminology: 'Camat' is translated as 'Sub-district Heads' (acceptable) but should be singular/plural consistent; more importantly, 'Wali Nagari' is a specific local office and should be retained as 'Wali Nagari' (kept) — OK; main meaning issue is structural rather than semantic.",
+        "Broken Markdown structure: the original has a level-2 heading '## Bagian Kesatu ...' (Part One) but the translation renders it as plain text ('Part One ...') instead of a '##' heading.",
+        "Broken Markdown structure: in the original, 'Paragraf 1 Umum' is plain text following '## Bagian Ketiga', but the translation merges it into the same line as the heading ('Effectiveness of Services for Women and ChildrenParagraph 1 General'), altering structure and readability."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/broken list structure: several lettered list items are merged or misordered (e.g., Article 26(3) 'includes:a.' and 'and f.'; Article 29 items c/d and e/f; Article 30(2) 'and/orc.'; Article 31(1) b/c; Article 31(3) c/d; Article 32(2) b/c; Article 33(1) c/d; Article 33(2) b/c; Article 33(4) c/d; Article 34(4) b/c and 'and/ord.'; Article 35(1)-(2) merged).",
+        "corrected_text",
+        "Minor meaning/terminology drift: 'Peraturan Bupati' should be rendered as 'Regent Regulation' (not 'Regent Regulation' missing article) and 'ditetapkan dengan' better as 'stipulated by'—kept but standardized; also ensure 'Visum er Repertum' is correctly rendered as 'Visum et Repertum' (already correct).",
+        "Scrambled list/numbering in Article 29: original has item 'c.' immediately followed by 'd. rumah perlindungan trauma center;' (missing line break), but translation duplicates marker 'd.' and shifts subsequent lettering; must preserve original marker sequence a–j exactly once each.",
+        "Meaning drift in Article 29 item c: original item c is 'pusat pelayanan terpadu pemberdayaan perempuan dan anak' (integrated service center for women and children empowerment), but translation adds 'centers' plural and changes phrasing; should be singular and closer to original.",
+        "Minor meaning drift/term choice: 'kementerian agama' should be 'Ministry of Religious Affairs' (proper name) rather than generic 'ministry of religion'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 37 paragraph (3) the lettered items a–e are run together on the same line, and paragraph (4) is incorrectly embedded at the end of paragraph (3) instead of being a separate numbered item.",
+        "Scrambled/merged list structure: in Article 41 paragraph (1) the lettered items a–c are run together on the same line, and paragraph (2) is incorrectly embedded at the end of paragraph (1) instead of being a separate numbered item.",
+        "Scrambled/merged list structure: in Article 48 paragraphs (1)–(3) are run together on one line; sub-items a–b under (3) are also run together; needs separation to preserve numbering boundaries.",
+        "Minor meaning drift/terminology: Article 42 item b translates \"bimbingan\" as \"counseling\" whereas Article 44 already uses \"Counseling\" for \"Bimbingan\"; to keep internal consistency with the original structure, Article 42(b) should be \"Counseling\" and Article 44 should be \"Counseling\" only if it corresponds to \"Bimbingan\" (it does).",
+        "Scrambled numbering in Article 39: original uses items (1)–(3) but translation shows 6–8, breaking list/numbering structure and downstream boundary matching."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 52, paragraph (1) letter items a–h are run together and paragraph (2) is appended on the same line; in the original, (2) is a separate numbered item.",
+        "Scrambled/merged list structure: in Article 53, paragraph (2) is appended to paragraph (1) instead of being a separate numbered item.",
+        "Scrambled/merged list structure: in Article 59, paragraph (2) letter a is appended to the same line as the lead-in instead of starting on its own line.",
+        "Scrambled/merged list structure: in Article 60, paragraph (2) letter e is appended to the same line as 'and' instead of being a separate lettered item.",
+        "Scrambled/merged list structure: in Article 61, paragraph (2) letter items e–g are run together on one line; should be separate lettered items.",
+        "Scrambled/merged list structure: in Article 64, letter items a–e are run together on one line; should be separate lettered items.",
+        "Scrambled/merged list structure: in Article 66, paragraph (2) letter d is appended to the same line as 'and/or' instead of being a separate lettered item.",
+        "Broken/scrambled list structure in Article 52(1): original has markers a.–h. inline after 'bertanggungjawab:'; translation reformats as a nested list. Downstream requires markers to appear once in the same order and structure as the original.",
+        "Broken/scrambled list structure in Article 59(2): original has 'meliputi:a.' inline; translation reformats as a nested list.",
+        "Broken/scrambled list structure in Article 64: original has items a.–e. inline after a colon; translation reformats as a vertical list with extra blank line, changing structure.",
+        "Minor meaning drift in Article 65: 'Perlindungan terhadap pekerja Anak' is protection of child workers; translation 'Protect child workers' is awkward/ambiguous—should be 'provide protection for child workers'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in several places: in Article 68(2) items a–c are run together; in Article 69(1) items b–e are run together; in Article 70(2) items c–h are run together; in Article 72(2) items c–e and paragraphs (3)–(4) are merged into the same line, and (3) and (4) are not formatted as numbered items like the original.",
+        "Meaning drift in Article 70(2)(g): translated as 'Child-Friendly City' whereas the original says 'Kota Layak Anak' but the chapter context is 'Kabupaten Layak Anak' (KLA); should be 'Child-Friendly Regency' (or at least KLA) to match the original term used throughout this section.",
+        "Minor meaning/term drift in Article 72(2) point 5: 'pokja PUG' rendered as 'GMS working groups' (incorrect); should refer to PUG (Gender Mainstreaming) working group.",
+        "Scrambled/mismatched list marker structure in Article 72: original has paragraphs (3) and (4) but translation uses 3. and 4., shifting numbering and breaking alignment with the source.",
+        "Minor meaning drift in Article 71: 'layanan Perlindungan dan Anak' refers to protection services for women and children; translation renders it as 'Protection and Child services' (awkward/incorrect)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Broken list/numbering structure: in the scope list, item \"i.\" is merged into the end of item \"h.\" (\"and i.\") instead of being a separate list item, unlike the original.",
+        "Minor meaning drift/terminology: \"Ninik Mamak\" explanation adds/changes meaning by translating \"mamak\" as \"uncle\"; better kept as the customary title/role (clan elder) to avoid incorrect kinship implication.",
+        "Scrambled/flattened list structure in several articles: original markers like \"Ayat (1)\", \"Huruf a/b/c/d\" are run together as plain text; list/numbering boundaries are not preserved as separate items in the same order (notably Article 2, Article 9, Article 33).",
+        "Minor meaning drift/terminology: \"Ninik Mamak\" rendered as \"clan/community group\"; better as \"clan\" (kaum) and preserve customary roles; also keep quoted phrase spacing closer to original (\"tampek baiyo dan bamolah\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Scrambled/flattened internal structure in Article 59: markers for Paragraph (1), Paragraph (2) Letter a, Letter b, and Paragraph (3) are run together in one line instead of being clearly separated, risking downstream boundary splitting.",
+        "Minor meaning/term drift: IMD is translated as EBI; standard rendering is Early Initiation of Breastfeeding (EIBF) / early breastfeeding initiation (IMD)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_BARAT_DHARMASRAYA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.744565+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,584 @@
+Considering:  
+1. 2. 3. 4. (5. (2
+
+# KULON PROGO REGENCY
+
+# REGIONAL GAZETTE
+
+# YEAR: 2015
+
+# REGIONAL REGULATION OF KULON PROGO REGENCY
+
+# NUMBER 7 OF 2015
+
+# PROTECTION OF WOMEN AND CHILDREN VICTIMS
+
+# BY THE GRACE OF GOD ALMIGHTY
+
+# REGENT OF KULON PROGO,
+
+Whereas:  
+a. that violence against women and children is an act that violates the rights and dignity of women and children as human beings;  
+b. that protection efforts for women are optimal, not yet violence and institutional strengthening of regulations that can guarantee its implementation;  
+
+that based on the considerations as referred to in letter a and letter b, it is necessary about Regional Victims Children
+
+# NUMBER: 7
+
+# CONCERNING
+
+# VIOLENCE
+
+child victims and necessary so that  
+c. Regulation stipulates Women Protection Violence;  
+
+To Enact: PPDd1. 2. 3. 4. 5. 6. 7. 4 Number 58, State Gazette Supplement of the Republic of Indonesia Number 5659);  
+
+Government Regulation Number 32 of 1950  6.  
+
+concerning the Stipulation of the Commencement of Law 1950 Numbers 12, 13, 14 and 15 on the Establishment of Regency Regions in East/Central/West Java and the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia Year 1950 Number 59);  
+
+Government Regulation Number 4 of 2006  7.  
+
+Cooperation and Implementation concerning Shelters in Domestic Violence Victims Recovery, (State Gazette of the Republic of Indonesia Year 2006 Number 15, State Gazette Supplement of the Republic of Indonesia Number 4604);  
+
+Women's Empowerment State Minister Regulation
+
+8. Women and Child Protection Number 1 of 2010 concerning Minimum Service Standards;  
+
+Women's Empowerment State Minister Regulation
+
+9. Women and Child Protection Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;  
+10. Regional Regulation of the Special Region of Yogyakarta Number 3 of 2012 concerning the Protection of Women and Children Victims of Violence of the Special Region of Yogyakarta Province (Regional Gazette of the Special Region of Yogyakarta Province Year 2012 Number 3);  
+
+With Mutual Approval
+
+# REGIONAL HOUSE OF REPRESENTATIVES
+
+# KULON PROGO REGENCY
+
+# REGENT OF KULON PROGO
+
+1111Paa. b. c. 6 actions all are
+
+8. Protection is empowerment and prevention services, rights guaranteeing and protecting for women and children from acts of violence.  
+9. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.  
+
+actions carried out are
+
+10. Service as soon as possible to victims when seeing, hearing and knowing will, is, or has occurred violence against victims.  
+11. Empowerment is strengthening women victims of violence to be able to make efforts and work on their own after they are recovered and provided with health and social rehabilitation services.  
+12. Companion is a person who has victims accompaniment expertise to conduct counseling, therapy and advocacy for strengthening and self-recovery from victims of violence.  
+13. Accompaniment is activities and actions to companions by carried out which women and children victims of violence during the service process.  
+
+by assistance provision is
+
+14. Counseling a person who is expert/trained in such a way ability and understanding so that the perpetrator and/or victim psychological self increases in solving the problems faced.  
+
+hereinafter Integrated Service 15.Center abbreviated as PPT is a functional integrated work unit organizing services for victims of violence.  
+e. f. KPmppiKPmditipKPa. b. c. d. Pha. 8 the best interests for the victim; and  d.  
+
+empowerment.  e.
+
+#### Article 3
+
+This Regional Regulation aims to: so that household integrity is maintained
+
+a. the realization of a harmonious family;  
+
+prevent violence against women and children;  
+b. protect and provide a sense of security for women and children;  
+c. provide services to women and children victims of acts of violence;  
+d. provide protection to reporters and witnesses; and  
+e. carry out empowerment to women victims of violence.  
+
+f.
+
+#### Article 4
+
+The scope of this Regional Regulation includes: prevention;  
+a.  
+
+service and accompaniment; and  b.  
+
+empowerment.  c.
+
+# CHAPTER II
+
+## FORMS OF VIOLENCE
+
+#### Article 5
+
+Forms of violence include: physical violence;  
+a.  
+
+psychological violence;  
+b.  
+
+sexual violence;  
+c.  
+
+neglect;  
+d.  
+
+c. KPa. b. (1 carried out by parents, guardians, or other parties responsible for their care;  
+
+acts of deliberately neglecting to  b.  
+
+maintain, care for, or take care of children by carried out which should be as other parties or guardians, parents, persons responsible for their care;  
+
+acts of neglecting people within the scope  c.  
+
+of their household, whereas according to the law applicable to them or because of an agreement or contract they are obliged to provide life, care, or maintenance to that person; and/or acts that result in dependence  d.  
+
+and/or restricting by economic means prohibiting to work properly inside or outside the home so that the victim is under the control of that person.
+
+#### Article 10
+
+Exploitation as referred to in Article 5 letter e is caused because of: acts that exploit economically or  
+a.  
+
+sexually with the intention to benefit oneself or others;  
+
+acts that with or without consent  
+b.  
+
+or prostitution work, among others the victim practice or forced slavery, similar services, oppression, extortion, physical utilization, sexual, reproductive organs, or unlawfully moving tissues and/or transplanting organs or utilizing the power or ability of a person by another party to obtain material or immaterial benefits; and/or
+
+(1 (2 acts the occurrence anticipating
+
+(2) To provide Regional Government violence, and organize services for victims in the form of: facilitating the implementation of PPT for  
+a.  
+
+victims by involving community elements; and will  community concern encouraging b.  
+
+the importance of protection for victims.  
+
+3. The Regional Government carries out the provision of services implementation and as referred to in paragraph (2) letter a in accordance with the minimum service standards that have been established.  
+
+standards regarding further (4) Provisions minimum service standards as referred to in paragraph (3) are regulated by Regent Regulation.
+
+#### Article 13
+
+Every person who sees, hears, or knows the occurrence of violence in the household is obliged to carry out efforts in accordance with the limits of their ability to:
+
+a. prevent the continuation of criminal acts;  
+
+b. provide protection to victims;  
+
+c. provide emergency assistance request; and/or  
+
+d. help the process of filing protection determination.
+
+a. b. c. d. Psema. b. Pda. b. c. d. e. f. g. PPa. b. 14 as referred to in Article 14 paragraph (1) prevention family and/or closest relatives;  
+
+efforts Non-Governmental Organizations.
+
+## Part Two
+
+#### Article 15
+
+Regional, educational institutions; and Service
+
+#### Article 16
+
+services to victims are implemented with: safe and comfortable;  
+
+non-discrimination;  
+
+easily accessible;  
+
+not charged; and guaranteed confidentiality.
+
+#### Article 17
+
+Forms of services to victims include: and consultation, complaint, accompaniment services;  
+
+health services;  
+
+social rehabilitation services;  
+
+legal services; and social reintegration services.  
+
+Government In addition carried out by:  
+a. community;  
+b.  c. d. Implementation fast;  
+a.  b. sense of empathy;  
+c.  d. e. f. g. service a.  
+
+counseling;  
+b. c. d. e. f. (1 (2 Bka. b. c. P216 and carried out by medical personnel and paramedics; and referral to health services.  c.
+
+#### Article 21
+
+(1) Social rehabilitation services as referred to in Article 17 letter d constitute services provided by companions in order to restore the traumatic condition of victims.
+
+(2) The form of services as referred to in paragraph (1) is through the provision of safe houses and social support.
+
+(3) Social support as referred to in paragraph (2) is carried out through:
+
+a. spiritual guidance to victims; and
+
+b. psychological recovery of victims.
+
+#### Article 22
+
+Legal services as referred to in Article 17 letter e are to assist victims in undergoing the judicial process by:
+
+a. providing legal consultation that includes information regarding the rights of victims and the judicial process;
+
+b. accompanying victims at the investigation level, prosecution, and examination in court hearings and assisting victims to fully describe the violence experienced; and
+
+c. coordinating with fellow law enforcers, volunteer companions, and social workers so that the judicial process proceeds as it should.
+
+(1 (2 (1 (2 (3 (1 (2 18 skills training;
+
+a. field work practice; and
+
+b. apprenticeship.
+
+c.
+
+#### Article 26
+
+Productive economic groups and/or joint ventures as referred to in Article 24 letter b include:
+
+a. entrepreneurial skills training;
+
+b. facilitation of the establishment of joint venture groups; and
+
+c. assistance in the implementation of business.
+
+#### Article 27
+
+c. Capital assistance as referred to in Article 24 letter c includes:
+
+a. assistance with work facilities and infrastructure; and
+
+b. facilitation of working capital assistance.
+
+### Paragraph 2
+
+Fulfillment of the Rights of Child Victims of Violence
+
+#### Article 28
+
+(1) The Government, Regional Government, PPT, and the community are obliged to fulfill the rights of child victims of violence.
+
+(2) The form of fulfillment of the rights of child victims of violence as referred to in paragraph (1) is the fulfillment of the basic rights of children according to their needs.
+
+(1 (2 (3 (4 (5 (6 Td20 counselors can be implemented in a networked manner (2) The counseling field as referred to in (1) The implementation of counseling carried out by the prosecutor's office, counseling Health Office, Hospital religion, ministry of religion and religious leaders counseling in the field of psychology with psychological companions and/or as referred to in paragraph (1) may spiritual with health counseling in the field of health with with Institutions (1) PPT consists of several counseling fields.
+
+legal court services necessary, paragraph (1) at least consists of: police, legal field counseling in the field of
+
+#### Article 32
+
+#### Article 33
+
+deemed necessary to involve related parties.
+
+Community Self-Reliance Organizations;
+
+state, legal field;
+
+a. health field;
+
+b. spiritual field; and
+
+c. psychology field.
+
+d.
+
+as follows: in counseling
+
+a. involving court advocacy institutions
+
+b. involving Regional General others;
+
+c. involving religion; and
+
+d. involving psychologists.
+
+2. In (2 (1 synchronizing and coordinating
+
+a. prevention, services, and empowerment of victims of violence against women and children;
+
+b. maintaining and developing FPKK in prevention, services, and empowerment of victims of violence in a networked manner as well as a referral system;
+
+c. conducting education on non-discrimination values towards women and children;
+
+d. conducting socialization of laws and regulations related to the implementation of protection of women and children victims of violence;
+
+e. compiling, collecting, and presenting data reports on victims of violence; and
+
+f. conducting monitoring and evaluation of the implementation of protection of women and children victims of violence.
+
+## Part Three
+
+Forms and Mechanisms of Services
+
+#### Article 36
+
+(1) Forms of services provided to victims organized by PPT include:
+
+a. medical services, in the form of treatment and recovery of physical injuries aimed at the recovery of the physical condition of victims carried out by medical personnel and paramedics;
+
+b. medicolegal services constitute a form of medical services for evidentiary purposes in the legal field;
+
+c. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, (3 Ssepi(eRPdi
+
+g. the right to complaint handling;
+
+h. the right to obtain facilities in the judicial process; and/or
+
+i. the right to assistance.
+
+2. Children who become victims of violence in addition to obtaining the rights as referred to also obtain special rights, as follows: in paragraph (1) the right to respect for survival, growth and development;
+
+a. the right to basic services;
+
+b. the right to receive spiritual guidance;
+
+c. the right to equal protection;
+
+d. the right to be free from various stigma; and/or
+
+e. the right to obtain freedom.
+
+f.
+
+# CHAPTER VI
+
+## COMMUNITY PARTICIPATION
+
+#### Article 38
+
+(1) The community participates in the implementation of protection for Victims.
+
+2. Community participation as referred to in paragraph (1) is in the form of:
+
+a. establishing family partners at the village/sub-district level;
+
+b. establishing women protection units children in community organizations;
+
+c. conducting socialization of women's and children's rights independently;
+
+d. providing first aid to victims; and
+
+Agar every person knows it, orders with REGULATIONPROTECTION Regional
+
+##### GENERAL
+
+I.
+
+##### REGENT OF KULON PROGO,
+
+constitutes women their dignity and natureViolencewhich causes women toThe number in the Regency59 cases (3cases (26 pcases (40 pcases (54 perIn rtowards perprotected fromtreatment humanitywomen Regional Regulation DaBy kguarantee pacts of violence Act
+
+##### REGISTRATION NUMBER OF REGIONAL REGULATION OF KULON PROGO REGENCY
+
+Regional Regulation promulgation in the Regional Gazette of Kulon Progo Regency.
+
+Enacted in Wates on 6 May 2015 Seal/signature
+
+##### HASTO WARDOYO
+
+Promulgated in Wates on 6 May 2015
+
+##### REGIONAL SECRETARY
+
+##### OF KULON PROGO REGENCY,
+
+Seal/signature
+
+##### ASTUNGKORO
+
+##### REGIONAL GAZETTE OF KULON PROGO REGENCY
+
+##### NUMBER 7 YEAR 2015
+
+##### KULON PROGO, SPECIAL REGION OF YOGYAKARTA
+
+##### (NUMBER 7/2015)
+
+#### Article 3
+
+Sufficiently clear
+
+#### Article 4
+
+Sufficiently clear
+
+#### Article 5
+
+Sufficiently clear
+
+#### Article 6
+
+Sufficiently clear
+
+#### Article 7
+
+Sufficiently clear
+
+#### Article 8
+
+Sufficiently clear
+
+#### Article 9
+
+Sufficiently clear
+
+#### Article 10
+
+Sufficiently clear
+
+#### Article 11
+
+Sufficiently clear
+
+#### Article 12
+
+Sufficiently clear
+
+#### Article 13
+
+Sufficiently clear
+
+#### Article 14
+
+Paragraph (1 Paragraph (2 Based on the considerations mentioned above, it is necessary to establish a Regional Regulation of Kulon Progo Regency concerning the Protection of Women and Children Victims of Violence.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear
+
+#### Article 2
+
+Letter a What is meant by "respect for the rights of victims" is the guarantee of the fulfillment of the basic rights of victims.
+
+Letter b What is meant by "justice" is a state where women and gender equality are treated equally and obtain equal opportunities to obtain access, as well as welfare;
+
+What is meant by "gender equality" is the equality of rights, opportunities, benefits and decision-making between women and men including in entering employment opportunities both in the formal and informal sectors.
+
+Letter c What is meant by "non-discrimination" is an attitude and treatment towards victims without making distinctions on the basis of age, gender, race, ethnicity, religion and between groups.
+
+Letter d What is meant by "the best interests of victims" is all the best actions concerning victims carried out by the Regional Government, the community, the legislative body and the judicial body, so that the best interests of victims must be the primary consideration.
+
+Letter e Sufficiently clear Letter LemmyLetter C
+
+#### Article 16
+
+Sufficiently clear
+
+#### Article 17
+
+Sufficiently clear
+
+#### Article 18
+
+Letter Letter Ytitiatpkte
+
+#### Article 19
+
+Letter Ypprilhmvi Letter C Letter d What is meant by a “violence prevention system” includes: mapping locations and/or areas prone to the occurrence of violence, as well as carrying out preventive and promotive efforts for the community.
+
+Letter e Socialization can be carried out through mass media, electronic media, and direct counseling/outreach to the community.
+
+Letter f Critical education for women victims of violence is an effort to build women’s awareness about their rights.
+
+The purpose of implementing critical education is to be able to help in decision-making and to not become victims of repeated violence. The forms of critical education trainings for women victims consist of: gender equality and justice, education to understand women’s reproductive health, and providing understanding in the field of laws and regulations on the protection of women and children.
+
+#### Article 15
+
+Letter a Preventive efforts within the family and/or closest relatives/nearest neighbors can be carried out by strengthening household resilience, such as: practicing religious values, managing household time, and communication among family members.
+
+Letter b Preventive efforts within the community include: fostering environmental concern/care regarding acts of violence occurring in their environment.
+
+PPlelast
+
+#### Article 30
+
+Sufficient
+
+#### Article 31
+
+Paragraph (1Ysedirase(edmy Paragraph (2
+
+#### Article 32
+
+Paragraph (1 Paragraph (2H H H H House for victims of violence. This service unit may be located at the Integrated Service Center (PPT) and the Integrated Crisis Center (PKT) based in Hospitals, the Women’s and Children’s Empowerment Center (P2TP2A), the Women and Children Service Unit (UPPA), Community Health Center, Integrated Service Center.
+
+What is meant by “other service units” is a unitary unit that organizes integrated service functions for women and children.
+
+##### (RPTC),
+
+Trauma Protection Center Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Letter g Letter e Paragraph (1) Paragraph (2) Letter f
+
+#### Article 20
+
+#### Article 21
+
+#### Article 22
+
+#### Article 23
+
+#### Article 24
+
+#### Article 25
+
+#### Article 26
+
+#### Article 27
+
+#### Article 28
+
+#### Article 29
+
+Paragraph (2
+
+#### Article 37
+
+Sufficient
+
+#### Article 38
+
+Sufficient
+
+#### Article 39
+
+Sufficient
+
+#### Article 40
+
+Sufficient
+
+##### ADDITIONAL PROVISION L
+
+Counseling provided to perpetrators is intended to help perpetrators not to commit violence again.
+
+#### Article 33
+
+Sufficiently clear
+
+#### Article 34
+
+Sufficiently clear
+
+#### Article 35
+
+Sufficiently clear
+
+#### Article 36
+
+Paragraph (1) Letter a Sufficiently clear Letter b What is meant by “medicolegal” is providing optimal and professional medical services by utilizing medical science for the purposes of law enforcement and justice.
+
+Medicolegal services include, among others: visum et repertum and visum et psikiatrikum.
+
+What is meant by “visum et repertum” is a written statement made by a doctor in forensic medical science at the request of an authorized investigator regarding the results of a medical examination of the victim, based on their expertise and under oath, for the purposes of the judicial process.
+
+What is meant by “visum et psikiatrikum” is a statement given by a Psychiatrist regarding the victim’s mental health condition, which is needed to clarify a case and for the purposes of the judicial process.
+
+Letter c Sufficiently clear

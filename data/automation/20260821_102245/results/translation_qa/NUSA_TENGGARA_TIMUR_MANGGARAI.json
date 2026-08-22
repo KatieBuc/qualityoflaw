@@ -1,0 +1,61 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 2,
+  "qa_passes_total": 6,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several numbered items in Article 1 are run together on the same line (e.g., items 2–3 and 4–5), which can break downstream list-boundary parsing.",
+        "Scrambled/merged list structure: in Article 2, the list item marker 'm.' is merged into the preceding text ('andm.').",
+        "Scrambled/merged list structure: in Article 3, list items 'a.' and 'b.' are on the same line, and 'andd.' is merged.",
+        "Scrambled/merged list structure: in Article 4, list item marker 'g.' is merged ('andg.').",
+        "Scrambled/merged list structure: in Article 5, list item marker 'l.' is merged ('andl.')."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are concatenated with preceding text (e.g., 'by:a.', 'andd.', 'andc.', 'or g.') and Article 7 paragraph (3) is merged into paragraph (2) instead of appearing as its own numbered item '(3)'.",
+        "Markdown/list markers not preserved cleanly: missing line breaks between list markers and content cause downstream boundary splitting errors (e.g., Article 6(1) a–d; Article 6(2) a–c; Article 7(2) a–g; Article 7(3) a–e; Article 8(3) a–c; Article 11(2) a–d; Article 12 a–b).",
+        "Broken/scrambled list structure in Article 12: original uses list markers 'a.' and 'b.'; translation omits the 'a.'/'b.' indentation/structure consistency and loses the explicit 'dan/atau' linkage formatting.",
+        "Meaning drift in Article 12 item b: original 'dan/atau b.' indicates 'and/or' between items; translation renders 'and/or' but formatting makes it ambiguous; also 'sumber pembiayaan lainnya yang sah dan tidak mengikat' should be 'other lawful and non-binding funding sources' (not necessarily 'sources of financing')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/marker structure in Article 4: 'letter e' text is incorrectly appended to item 2 under letter d; it must be a separate letter e entry.",
+        "Scrambled list/marker structure in Article 6: in Paragraph (1), 'Letter b' is incorrectly appended to the end of Letter a; it must be a separate Letter b entry.",
+        "Scrambled list/marker structure in Article 7: in Paragraph (2), 'Letter c' is incorrectly appended to the end of Letter b; it must be a separate Letter c entry.",
+        "Meaning drift in Article 2 Letter a: duplicated 'harmonious' and omitted 'serasi' nuance (should be 'harmonious, aligned, balanced, and harmonious' or similar).",
+        "Meaning drift in Article 2 Letter a: 'equility in diversity' should be preserved as written in the source (typo) with the Indonesian gloss 'persamaan dalam keragaman'.",
+        "Meaning drift in Article 7 Paragraph (2) Letter b: 'orang suruhan pelaku' mistranslated as 'the perpetrator's messenger' (should be 'the perpetrator's agents/associates')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "NUSA_TENGGARA_TIMUR_MANGGARAI.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.718103+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,76 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure in Article 2 and Article 3: list items are merged (\"dand.\", \"andd.\", \"andf.\") and the \"d.\" marker is missing as a separate item in Article 2; this can break downstream boundary splitting.",
+        "Meaning drift/omission risk due to merged markers: Article 2 item d (\"kepentingan terbaik perempuan\") is not clearly preserved as its own list item; Article 3 item f is merged into item e line.",
+        "Broken/scrambled list structure in Article 2: original has items a–d on one list; translation leaves a truncated 'c. Non ...' then repeats 'c.' and places 'd.' on next page, causing marker/content mismatch.",
+        "Meaning drift/omission due to the truncated 'c. Non ...' in Article 2; should be rendered as 'non-discrimination' and include 'and' before item d as in the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown/list structure: several list markers are merged with adjacent text (e.g., 'andi.', 'dang.', 'danc.', 'dane.', 'among others:a.', 'form of:a.', 'include:a.', 'and f.'), which can break downstream boundary splitting.",
+        "Scrambled/incorrect list lettering: in Article 6(2) the original has 'a., h., c.' (as printed) but the translation changes the last item to 'and c.'; must preserve the original marker sequence exactly.",
+        "Meaning drift: 'Dinas' is translated as 'Agency' (should be 'Service/Department/Office'); keep as 'Service (Dinas)' to avoid changing the institutional referent.",
+        "Minor meaning drift/term consistency: 'Pemulangan' is translated as 'Repatriation' (better 'Return'); keep closer to original administrative meaning.",
+        "Broken numbering/meaning drift: \"Umum Pasa19\" in the original is Article 9, but the translation renders it as \"General Article 9\" (should be \"General\" as a heading/label and \"Article 9\" separately)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: in the original, \"Rumah Perlindungan Sosial Pasa118 (1)\" is plain text under \"## Bagian Keenam\" (no heading), but the translation introduces/merges it as a heading-like line \"Social Shelter Houses Article 18 (1)\"; Article 18 should not be formatted as a heading and should mirror the original structure.",
+        "Scrambled/merged list structure: items b–h in the original are separate lettered points (b., c., d., e., f., g., h.), but the translation merges several into one paragraph line (\"b. ...; c. ...; d. ...; e. ...;\"), which can break downstream list-boundary parsing.",
+        "Meaning drift: \"bimbingan rohan(i)\" is translated as \"spiritual guidance\" (acceptable), but the original text has OCR-corrupted \"bimbingan ndica\"; to stay faithful, it should be rendered as \"spiritual guidance\" only if the Indonesian clearly indicates that—here it is ambiguous. Better to translate more literally as \"guidance\" without adding \"spiritual\".",
+        "Broken Markdown structure: original has \"## Bagian Keenam\" followed by an unheaded line \"Rumah Perlindungan Sosial Pasa118 (1) ...\"; translation incorrectly introduces \"Article 18\" (and uses \"Article\" numbering) without matching the original heading structure (\"Pasal18\" is not a heading in the original).",
+        "Meaning drift/typo propagation: \"Pasa118\" in the original is a corrupted \"Pasal 18\"; translation normalizes to \"Article 18\" but does not preserve the original's structure (it should remain as inline \"Article 18\" text, not a heading).",
+        "Scrambled/merged list formatting: in Article 25(1) the markers f., g., h. are run together in one paragraph; should be separated as distinct list items to match the original marker sequence.",
+        "Minor meaning drift: \"Pemulangan\" is translated as \"Repatriation\"; in this context (services for victims) \"Return\"/\"Repatriation\" is acceptable, but keep consistent; no change required beyond structural fixes."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled structure: several article markers that are headings in the original are merged into running text in the translation (e.g., Pasal 3–6, 8–10, 12–13, 15–16, 19–22, 24–28), and some are missing as headings entirely.",
+        "Meaning drift/typos: 'Pasa16' in the original corresponds to 'Pasal 6' but appears as 'Article6' only in a merged line; also inconsistent rendering of 'Huruf a/b/c/d' as 'Lettera/Letterb/Letterc' without spacing; 'REGIONALREGULATIONOFEASTkutairegency' has incorrect casing/spacing.",
+        "Broken/scrambled article structure: in the original, several articles are not headings but run together in one paragraph (e.g., 'Pasal3 Cukup jelas.', 'Pasal4 ...', 'Pasal5 Cukupjelas Pasa16 Cukupjelas', 'Cukupjelas Pasal8 ...'); the translation incorrectly converts these into separate '#### Article X' headings, changing downstream split boundaries.",
+        "List/marker fidelity: original has 'Hurufa/Hurufb/Hurufc/Hurufd' and later 'Hurufb', 'Huruf c' as inline markers; translation changes formatting to 'Letter a/b/c/d' lines but also introduces heading boundaries not present in the original around these sections."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_TIMUR_KUTAI_TIMUR.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.694533+00:00",
+  "prompt_version": "v2"
+}

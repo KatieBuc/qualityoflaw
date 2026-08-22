@@ -1,0 +1,77 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled numbering structure in the 'In View of/Mengingat' section: the stray line '2 - ...' should remain as in the original ('2 - Tahun 2002 ...') and not be mistranslated as '2 - of 2002 ...'.",
+        "Meaning drift/omission in item 4 continuation line: the original contains '2 - Tahun 2002 ...' (a broken line continuing the reference to Law No. 35/2014 amending Law No. 23/2002), but the translation renders it incorrectly ('2 - of 2002 ...'), losing 'Year' and the intended continuation.",
+        "Meaning drift: heading 'PROVINS!.' mistranslated/normalized as 'PROVINCE OF SOUTH SUMATRA' instead of reflecting the original text 'PROVINS!. SUMATERA SELATAN'.",
+        "Scrambled/incorrect numbering carried over: the fragment '2 - Tahun 2002...' is rendered as '2 - Year 2002...' (should be '2 - of 2002...') and the broken item 17/\"3 -\" lines need to preserve the original structure and wording more faithfully (including the garbled 'Penyelenggar��').",
+        "List/structure fidelity: item 14 and 15 are merged into one line; they should remain distinct list items '14.' and '15.' in order."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure in Article 8: paragraph marker “(2)” is not formatted as item 2., causing numbering/order mismatch with the original (which has 1., 2., 3.).",
+        "Meaning drift/leftover untranslated text: Article 1 item 13 remains in Indonesian (“Perlindungan …..”); Article 7 includes leftover Indonesian placeholder (“g. hak …..”).",
+        "Broken list-marker fidelity: In Article 2 and Article 3, the original has merged markers/text (e.g., “a. ...·b.”, “dang.”); translation normalizes them, which is acceptable, but Article 8 must preserve the numbered item sequence explicitly (2) -> 2.).",
+        "Broken/scrambled list structure in Article 8: original has (1) with subitems a–g, then (2), then 3.; translation presents (2) as '2.' and '3.' as '3.' but uses 'paragraph' instead of 'ayat' and changes numbering label from (2) to 2 (marker mismatch).",
+        "Meaning drift in Article 8(2) and 8(3): 'ayat' should be rendered as 'paragraph' only if consistently mapped from (1)/(2); however the original explicitly uses 'ayat (1)' and the marker '(2)' appears inline—translation should preserve the (2) marker format to match downstream boundary splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items run together (e.g., \"andc.\", \"danc.\", \"dane.\", \"andn.\", \"andd.\") instead of separate a./b./c. etc., which breaks downstream list boundary detection.",
+        "List marker mismatch: in Article 14(3) and Article 15 last item, the original uses \"1.\" (digit one) as a list marker; translation keeps it but also has merged markers elsewhere—needs consistent separation while preserving the original markers.",
+        "Minor meaning drift/clarity: Article 16(2) \"temuan langsung\" is better rendered as \"direct discovery\" (not \"direct findings\") to match the sense of an on-the-spot finding/reporting method; corrected without adding content.",
+        "Scrambled/incorrect list marker in Article 14(3): original uses lettered item \"i.\" but translation shows \"1.\" (digit one) and later repeats \"1.\" for the next item; this breaks list structure and can affect downstream splitting.",
+        "Meaning drift/marker fidelity: in Article 14(3) the original has items \"i.\" and \"j.\" (lowercase i and uppercase J) and later \"l.\"; translation misrenders these markers as \"1.\" and \"J.\"/\"1.\", altering the legal list identifiers."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list and numbering structure in Article 21: items b/c/d and paragraph (2) are run together; 'andd.', 'consisting of:a.', 'andc.'; item marker '3.' should be '(3)'.",
+        "Scrambled/merged list and numbering structure in Article 22: paragraph markers '2.' and '3.' should be '(2)' and '(3)'; list items b/c/d are run together; '(4).' is attached to item d.",
+        "Meaning drift/normalization issue: paragraph numbering should match the original exactly, including spacing '( 1)' and use of '(2)/(3)/(4)' rather than '2./3.'.",
+        "Scrambled/mismatched list/numbering markers in Article 21: original has \"3.\" (not \"(3)\") and uses \"dan\" without Oxford-style \"and\" before item d in (1); also original has merged text \"dand.\" that should be separated into \"dan\" + \"d.\"",
+        "Meaning drift in Article 22(1): original says safe house for women and victims (implicitly women/children victims) from violence in the form of intimidation; translation narrows/changes to \"women and victims\" but adds \"acts of violence\" phrasing—needs to stay closer to original wording.",
+        "Minor fidelity issues in closing lines: \"Dite Palembang\" should be rendered as \"In Palembang\"/\"At Palembang\" (not \"Issued in\" necessarily), and garbled official imprint lines should be preserved as-is as much as possible (avoid normalizing unknown text)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_SELATAN_PALEMBANG_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.754441+00:00",
+  "prompt_version": "v2"
+}

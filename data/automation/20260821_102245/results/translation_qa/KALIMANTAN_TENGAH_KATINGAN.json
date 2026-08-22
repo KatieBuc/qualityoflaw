@@ -1,0 +1,69 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 7,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [
+        "Meaning drift: 'Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Sosial' was mistranslated as 'the Criminal Act of Social Violence' (should be 'the Criminal Act of Sexual Violence').",
+        "Meaning drift: 'Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Sosial' was translated as 'Criminal Act of Sexual Violence' (should be 'Criminal Act of Social Violence' per the source text)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list items in Article 2: items f, g, h are run together as \"f...; g...; andh...\" instead of separate a–h entries.",
+        "Scrambled/merged list items in Article 3: items a, b, c are run together as \"a...; b...; andc...\" instead of separate a–c entries.",
+        "Scrambled/merged list items in Article 4: item i is merged into item h as \"andi\" instead of a separate i entry.",
+        "Scrambled/merged list items in Article 5: item e is merged into item d on the same line, disrupting list structure.",
+        "Scrambled/merged list items in Article 6: items a, b, c are run together as \"a... b... andc...\" instead of separate a–c entries.",
+        "Leftover non-legal page markers \"4 -\", \"5 -\", \"6 -\" included in the translation (should not be part of the translated legal text).",
+        "Broken Markdown structure: original contains standalone page markers \"4 -\", \"5 -\", \"6 -\" which are missing in the translation (content boundary mismatch for downstream splitting)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in multiple places: lettered items are run together with preceding text (e.g., Article 7(2), Article 8(2), Article 9(2), Article 10(2), Article 11(1), Article 14(2), Article 15(1), Article 16) and some markers are fused (\"andd.\", \"andg.\", \"andi.\").",
+        "Article 12 numbering/paragraph structure is corrupted: stray markers \"( 1 )\", \"( 2)\", and \"(3)\" appear mid-sentence and the three intended paragraphs are not clearly separated; also contains leftover pagination artifacts (\". 1 - 8 -\").",
+        "Leftover non-legal/pagination artifacts present (e.g., \"7 -\", \"- 9 -\", \". 1 - 8 -\"), which are not part of the normative text and interfere with downstream parsing.",
+        "Article 16 list/Markdown structure differs from the original: the original has a single bullet line followed by inline lettered items (a., b., c.) with some words run together (\"APBNb.\", \"danc.\"), but the translation reformats into separate lines without preserving the original marker/run-on structure.",
+        "Minor meaning drift in Article 16: \"Dana\" is \"funds\" rather than \"funding\" (should reflect the noun 'funds' as the source)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_TENGAH_KATINGAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.688273+00:00",
+  "prompt_version": "v2"
+}

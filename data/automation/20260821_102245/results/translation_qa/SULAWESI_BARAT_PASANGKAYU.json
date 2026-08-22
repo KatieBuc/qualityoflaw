@@ -1,0 +1,76 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 2: items c–e are run together (\"c.\" followed by \"d.\" and \"ande.\" without proper separation).",
+        "Scrambled/merged list markers in Article 3: \"a.\" is merged into the preceding sentence and \"andg.\" is merged; list item g should be separate.",
+        "Scrambled/merged list markers in Article 4: \"and/ore.\" is merged; item e should be separate.",
+        "Scrambled/merged list markers in Article 7: \"and/orc.\" is merged; item c should be separate.",
+        "Scrambled/merged list markers in Article 8: \"and/ord.\" is merged; item d should be separate.",
+        "Minor meaning drift/typo: Article 2 item c should be a separate objective; current formatting makes it appear combined with item d.",
+        "Broken list/marker structure in Article 2: in the original, items c–e are run together (\"c. ... d. ... dane.\"), but the translation normalizes them into separate list items; downstream processing requires preserving the original marker sequence/attachment as written.",
+        "Broken list/marker structure in Article 3: in the original, items f–g are run together (\"f. ... dang.\"), but the translation normalizes them into separate list items; must preserve original marker sequence/attachment."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are concatenated (e.g., 'and/orc.', 'right to:a.', 'andh.', 'andd.', 'andb.') causing list structure to break and potentially mis-associate content.",
+        "Numbering/list formatting inconsistency with original: some paragraph markers like '(2)' are run into prior text in the original; translation should preserve markers but separate them cleanly to avoid downstream boundary errors.",
+        "Scrambled/incorrect list marker structure in Article 11: paragraph (2) is not formatted as item 2. and numbering order differs from original (\"1.\" then \"(2)\" instead of \"1.\" then \"2.\").",
+        "Scrambled/incorrect list marker structure in Article 20: paragraph (2) is not formatted as item 2. and numbering order differs from original (\"1.\" then \"(2)\" instead of \"1.\" then \"2.\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure: several list markers are merged with adjacent text (e.g., 'andd.', 'andb.', '(2)' inline), and some sub-items (a–d) are not properly separated as in the original.",
+        "Meaning drift/omission risk due to merged markers: Article 27(2) and Article 30 items b/d are concatenated, and Article 31(1)–(2) and Article 34(1) a–c are run together, which can change downstream parsing of obligations.",
+        "Minor meaning drift: 'penganiayaan' translated as 'persecution' (should be 'abuse/mistreatment').",
+        "Broken Markdown structure: top-level and second-level headings 'BAB' and 'Bagian' were not translated (should be 'CHAPTER' and 'Part/Section'), while 'Pasal' was translated to 'Article', creating inconsistent heading translation required by the spec (e.g., '# BAB VI' should be '# CHAPTER VI').",
+        "Meaning drift/terminology: 'Bagian Kesatu/Kedua' translated as 'Part One/Two' is acceptable, but the heading 'BAB' left untranslated conflicts with required pattern 'Pasal -> Article' and the instruction example; fix by translating all such structural headings consistently.",
+        "Minor meaning/format issue: In Article 35, 'Diundangkan di Pasangkau' (typo in original place name) was kept as 'Pasangkau'—acceptable as faithful, but ensure other proper nouns remain consistent; no change needed there."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "List/marker structure not preserved: original uses 'Huruf b/c/d' but translation uses 'Point b/c/d' and omits the 'Huruf' marker form; downstream expects the same marker pattern/order.",
+        "Minor meaning drift/terminology: 'Kegiatan soialisasi' should be 'socialization/outreach activities' but keep closer to original phrasing; also 'Rumah Aman' should be rendered consistently as 'Safe House' (singular) matching the Indonesian term, not pluralized."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_BARAT_PASANGKAYU.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.725403+00:00",
+  "prompt_version": "v2"
+}

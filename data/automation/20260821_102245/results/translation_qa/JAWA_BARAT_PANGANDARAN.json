@@ -1,0 +1,113 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 7,
+  "chunks_corrected": 7,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 14,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the standalone line \"Dengan Persetujuan Bersama\" is not translated (meaning omission).",
+        "Meaning drift/unnatural rendering in heading: \"NOMOR TAHUN 2019\" translated as \"NUMBER YEAR 2019\"; should be rendered as \"NUMBER ... OF 2019\" (number missing in source, but \"of 2019\" is required to match meaning/standard legal form)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering structure: several definition items are run together on the same line (e.g., 6–9, 13–14, 22–23), which can break downstream boundary-based retrieval; each numbered item should be clearly separated and in order.",
+        "Leftover non-legal text included: page watermark lines “jdih.pangandarankab.go.id 4/5” appear in the translation and should not be part of the translated legal text."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers with content: multiple items run together (e.g., 'andh.', 'andf.', 'dane.', 'andd.') instead of separate a–h/a–f etc.",
+        "Scrambled numbering structure: some paragraph markers are merged into running text (e.g., Article 9 '(2)' and Article 13 '(2)' not on their own numbered line; Article 15 '(2)' merged with page footer).",
+        "Meaning drift/terminology: 'perempuan pekerja rumah tangga' translated as 'domestic workers' (missing 'women'); minor phrasing issues but main meaning preserved once structure fixed.",
+        "Broken/altered non-legal text: source footer 'jdih.pangandarankab.go.id 6' was mistranslated as 'ejdih.pangandarankab.go.id 6'.",
+        "Scrambled numbering marker formatting: several paragraph markers '(2)' and '(5)' are detached onto their own lines instead of appearing as '2.'/'5.' in sequence like the original, risking downstream boundary splitting.",
+        "Minor meaning drift: 'berkeluarga dan melanjutkan keturunan' rendered as 'continue offspring' (unnatural/ambiguous); should be 'have a family and continue their lineage/descendants'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated with preceding text (e.g., 'for:a.', 'andd.', 'ande.', 'andf.') instead of appearing as separate list items in order.",
+        "Scrambled numbering in Article 24: paragraph (3) is merged into paragraph (2) and must be a separate numbered item.",
+        "Minor meaning drift/terminology: 'Perempuan Pekerja Seks Komersial' is 'women commercial sex workers' (women who are commercial sex workers), not 'Commercial Sex Workers' (gender-neutral).",
+        "Scrambled list/numbering structure: in Article 20 paragraph (2), item marker \"b.\" is not formatted/aligned as a list item (missing indentation), breaking the list structure and potentially downstream parsing.",
+        "Scrambled list/numbering structure: in Article 25 list, item \"b.\" ends with a comma and items b–d are inconsistently punctuated/indented compared to the original list-item separation (should be consistent list items with semicolons and \"and\" before the last item)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering and list structure: paragraph markers (2) and (3) are embedded in item (1) text; several lettered list items are merged (e.g., 'include:a.', 'andd.', 'ande.', 'andi.', 'andg.') and '(3)' is merged into item 2 in Article 30.",
+        "Broken list/numbering boundaries: items a–d/e etc. are not consistently separated and some list markers are not on their own items, risking downstream boundary splitting.",
+        "Scrambled numbering/list structure in Article 26(1)–(2): original has item (1) followed immediately by item (2) in the same paragraph; translation split them into separate list items, changing the marker structure required downstream.",
+        "Minor meaning drift in Article 26(7): 'Peraturan Bupati' should be rendered as 'Regent Regulation' (not 'Regent Regulation' missing the article type is fine, but should not be 'Regent Regulation' vs 'Regent Regulation'—kept consistent)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated (e.g., 'and/org.', 'andi.', 'ande.', 'andc.', 'and/ord.', 'andg.') instead of separate a–g/i items as in the original.",
+        "List/numbering structure not cleanly preserved: some list items run together on the same line (e.g., Article 34(1), Article 40(2)), risking boundary-based splitting downstream.",
+        "Meaning drift in Article 38(3): 'letter b' should be 'letter a' (tenaga ahli dan profesional ... huruf a).",
+        "Meaning drift in Article 39(1): sentence is incomplete/incorrectly rendered; should state that P2TP2A carries out women's protection service implementation.",
+        "Broken list/numbering structure: Article 39 paragraph (3) is formatted as '(3)' instead of '3.' to match the original list marker style and sequence.",
+        "Meaning drift in Article 39(1): Indonesian is a fragment ('P2TP2A dalam penyelenggaraan pelayanan perlindungan perempuan.') but translation adds an explicit verb ('carries out the implementation'), which is not present in the source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in Article 45: list items 'a.' and 'b.' are merged into one line; original has separate items in order.",
+        "Minor meaning drift/terminology: 'Peraturan Bupati' should be rendered as 'Regent Regulation' (kept) but 'diatur dengan' is better as 'shall be regulated by' to preserve normative force (Article 44)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_PANGANDARAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.592154+00:00",
+  "prompt_version": "v2"
+}

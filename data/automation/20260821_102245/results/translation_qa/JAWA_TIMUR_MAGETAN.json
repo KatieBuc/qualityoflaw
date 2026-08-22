@@ -1,0 +1,99 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [
+    "Article I"
+  ],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched heading text at the end: original has an unheaded line \"Batthn Kesatu Pengertian...\" (intended \"Bagian Kesatu Pengertian\"), but translation turns it into \"First Part Definitions Article\" which adds \"Article\" not present and alters meaning/structure.",
+        "Meaning drift: \"First Part Definitions Article\" incorrectly implies an article; the source indicates a section/part on definitions (no article mentioned in the provided source excerpt).",
+        "Broken/mismatched heading structure at the end: original has plain text line \"Batthn Kesatu Pengertian ls血\" (not a Markdown heading), but translation changes it to a new heading-like line \"First Part Definitions\"; this should remain plain text and reflect the original wording/structure.",
+        "Meaning drift/normalization: the final line is rendered as a formal English sectional label (\"First Part Definitions\"), whereas the source text is garbled OCR and should be translated more literally without inventing a clean legal label."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: in the original, the heading 'Bagran Kesatu Pencegahan' is plain text (not a heading), but the translation renders it as 'Part One Prevention' as a plain line; however the original also has 'Pelayanan' as plain text under '## Bagian Kedua', and the translation renders it as plain text 'Services'—OK. Main structural issue is that 'Pasal 5' is a plain paragraph line in the original ('Pasa1 5 ...'), but the translation changes it to 'Article 5 ...' without the '####' heading level used for other articles; this mismatch can break downstream splitting.",
+        "Meaning drift/omission: Article 6 paragraph references are inconsistent with the original text: the original contains corrupted cross-references '(3)' and '(4)' and '(5)' that should be preserved as-is for fidelity, but the translation normalizes/omits them (e.g., 'as referred to in paragraph (1)' instead of 'as referred to (3) in paragraph (1)'; and omits '(4)' and '(5)' markers in subsequent sentences).",
+        "Broken Markdown structure: in the original, 'Pasal 5' is a level-4 heading (#### Pasal 5), but the translation renders it as a plain paragraph ('Article 5 ...') instead of '#### Article 5'.",
+        "Meaning drift/omission: Article 1 definition list skips item number 7 and 8; the definitions for 'Victim' and 'Protection' are present but not numbered as in the original (7 and 8).",
+        "Scrambled/merged structure: Article 1 item 16 incorrectly merges the end of item 16 with the separate definition 'Masyarakat' (Community), which should be item 16's continuation? In the original, 'Masyarakat ...' is a separate definition that should be numbered (as item 16/17 depending on numbering), but the translation keeps numbering 17 and 18, causing misalignment.",
+        "Broken Markdown structure: 'Bagran Kesatu Pencegahan' is a plain line in the original (not a heading); translation renders 'Part One Prevention' similarly but should preserve the same wording/structure; also 'Pelayanan' appears as a plain line under '## Bagian Kedua' and should be translated as a plain line 'Services' (kept), but ensure consistent spacing.",
+        "Meaning drift: Article 6 contains corrupted cross-references '(3)' and '(4)' in the original; translation keeps them but with ungrammatical phrasing ('as referred to (3)')—needs correction to preserve intended reference structure without inventing content. "
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: several headings present in the original are missing or not kept at the same heading level (e.g., 'Bagian Kesatu', 'Bagian Kedua', and 'BAE} IX' are plain text in the translation instead of headings).",
+        "Scrambled/incorrect numbering structure: Article 19 contains stray numbers '13 (2) (3) (4)' and duplicates '(2)' instead of clean paragraph numbering; Article 21 and Article 22 paragraph markers are not preserved as '(1)' and '(2)' consistently.",
+        "Meaning drift: Article 15 incorrectly references Article 23 letter b (should be Article 13 letter b).",
+        "Meaning drift/omission: Article 17 should contain two numbered paragraphs (1) and (2); the translation retains a stray '(2)' but does not structure the two paragraphs correctly.",
+        "Meaning drift: Article 25 should refer to 'P2TP2A as referred to in Article 19' (not 'Article 19 shall be established'); also should end with a period.",
+        "Minor meaning/wording: Article 11 item a should be 'quick' rather than 'speed' (quality/accuracy for legal indicators).",
+        "Broken Markdown heading structure: in the original, 'Bagian Kedua' and 'Bagian Kesatu' are plain lines (not headings), but the translation turns them into '## Part One' and '## Part Two' headings; also 'Bagran Kedua' appears as a plain line in the original but is converted to a heading in translation.",
+        "Scrambled/mismatched numbering in Article 18: the original has two unnumbered paragraphs and contains a stray '(2)' after 'P2TP2A'; the translation introduces '(1)' and keeps '(2)' in a way that changes the structure.",
+        "List/marker formatting issues: several places merge markers into text (e.g., Article 21 and Article 22 use '2.' instead of '(2)' and run list markers inline), which does not mirror the original marker style and risks downstream boundary splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure in Article 4: sub-item markers are merged into surrounding sentences (e.g., '...will Letter c...', 'and/or d.', 'and/or c.', 'and/or b.') instead of appearing as separate list items in order, matching the original.",
+        "Minor meaning drift/clarity issue in Article 2 letter b: original says women are treated equally and obtain equal opportunities to obtain access and welfare; translation adds 'to gain access' but is acceptable—main required fix is structural to prevent downstream boundary errors.",
+        "Heading numbering mismatch: original uses \"Pasal I\" (Roman numeral I) but translation renders it as \"Article I\"; should be \"Article 1\" to match the intended numbering (original likely typo, but downstream splitting requires consistent article numbering).",
+        "Scrambled/merged list structure in Article 4 Letter b: in the original, the sentence ending with \"...memaksakan kehendak\" is followed by \"Huruf c\" on the same line; translation correctly separates but must ensure Letter b ends with a period and Letter c starts as its own marker (minor structure/termination fix)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched list-marker structure in Article 12: original begins with 'Huruf f' then continues with Huruf a–d, then a new sequence of service types Huruf a–g; translation collapses/merges markers (e.g., 'Letter d Sufficiently clear Sufficiently clear Letter a ...') and loses clear separation between the two different 'Huruf a' sequences.",
+        "Scrambled/merged sub-list markers in Article 12: several 'a./b./c.' items are run together on the same line (e.g., 'and c.'; 'and b.'), and some markers (e.g., e., g.) are embedded mid-sentence instead of appearing as distinct items in order, harming downstream boundary splitting.",
+        "Meaning drift/uncertainty due to marker scrambling: 'Huruf d Cukup jelas Cukup jelas' is not faithfully represented as a standalone clarification before the next lettered provision; the structure implies content belongs to the wrong letter.",
+        "Broken numbering/marker fidelity: Original has 'Ayat (l)' (letter l) but translation renders it as '(1)'; downstream expects exact marker sequence.",
+        "Scrambled/ambiguous structure in Article 12: Original contains 'Huruf d Cukup jelas Cukup jelas Huruf a ...' (a duplicated 'Cukup jelas' and then a new 'Huruf a' section). Translation splits this into separate paragraphs ('Letter d Sufficiently clear.' then standalone 'Sufficiently clear.' then 'Letter a ...'), which risks mis-association of markers/content.",
+        "Meaning drift in Article 9(2) letter b: 'tadngan keゴ a' (likely 'tetangga kerja') is translated as 'family institutions', changing the referent; should be rendered as 'neighbors/working neighbors' (closest faithful term) and then list the examples.",
+        "Minor meaning drift/term choice: 'pendamping' is translated as 'companions' in multiple places; in this legal context it should be 'assistants/companions' -> 'companions' is unnatural and can confuse; use 'companions/assistants' -> best 'companions' replaced with 'companions/assistants' or 'companions' replaced with 'companions'?? (Corrected to 'companions/assistants' is still odd; use 'companions' -> 'assistants'/'accompanying officers')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_MAGETAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.651116+00:00",
+  "prompt_version": "v2"
+}

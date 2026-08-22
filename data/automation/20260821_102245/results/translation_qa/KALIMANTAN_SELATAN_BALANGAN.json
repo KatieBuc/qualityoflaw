@@ -1,0 +1,70 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 7,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: in point (c) the object of protection is incomplete—original is 'women and children from acts of violence' but translation says only 'Protection of Women From Acts of Violence'.",
+        "Scrambled/merged numbering structure: several numbered items are run together on the same line (e.g., 'Bearing in mind 1.' and items 3–5; items 12–15; definitions 5–8, 10–12, and 20–21), which risks downstream boundary splitting; they should be separated so each marker appears once in order with its content.",
+        "Meaning drift: in recital letter c, the original refers to establishing a regulation on protection of women from acts of violence (not women and children).",
+        "Meaning drift: in Law No. 39/1999 citation, the State Gazette year is mistranslated as 1984; the original states 1999.",
+        "Meaning drift: in Law No. 21/2007 citation, the State Gazette year is mistranslated as 2003; the original states 2007."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken structure: article numbering does not match the original (e.g., original Pasal 12/13 rendered as Article 2/3; original Pasal 19 rendered as Article 9).",
+        "Scrambled/incorrect list markers: several sub-item markers are merged or punctuated incorrectly (e.g., Pasal 14(3) 'a. bidang pelayananb. bidang informasi' not properly separated; Pasal 15(2) 'd.' and 'e.' run together).",
+        "Broken Markdown structure: article labels in the original (e.g., \"Pasa12\", \"Pasa13\", \"Pasal4\", etc.) are not represented as headings; downstream requires Pasal/Article boundaries as headings at consistent levels (e.g., \"#### Pasal 12\" -> \"#### Article 12\").",
+        "Scrambled/merged list structure: several list markers are run into text in the original (e.g., \"tindakan:a.\", \"danc.\", \"danh.\"); translation partially normalizes but does not preserve explicit marker structure consistently (e.g., missing line breaks before some items)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: several article headings in the original are plain text (e.g., \"Pasal18\", \"Pasal19\", etc.) but the translation changes them into headings inconsistently; to preserve downstream boundary matching, the article markers should remain as plain text lines (not promoted/demoted).",
+        "Scrambled list/numbering structure: in Article 18(2) and Article 19(3), lettered items (a., b., etc.) are run together on the same line as the lead-in text; they should be separated so each marker appears once and in order, matching the original structure.",
+        "Meaning drift/omission risk: the original has \"Pasa122\" (typo) and the translation normalizes it to \"Article 22\"; for strict traceability, keep the article label consistent with the source marker while still translating the content.",
+        "Broken/mismatched heading structure: original has \"## BABIX...\", \"## BABX...\", \"## BABXI...\" but translation uses \"## CHAPTER IX...\", \"## CHAPTER X...\", \"## CHAPTER XI...\" (extra space changes the heading text boundary used downstream).",
+        "Meaning/structure issue: \"Pasa122\" is not translated/normalized to an Article heading/label (should reflect \"Pasal 22\" / \"Article 22\"), and the original heading \"# BAB XIII\" skips BAB XII; translation preserves skip but leaves the article label corrupted.",
+        "List/numbering formatting not preserved exactly: original has \"2. ... berupa:a.\" and \"ayat (2)berupa:a.\" with markers immediately following; translation inserts line breaks and colons that alter marker adjacency (risking downstream boundary parsing)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_SELATAN_BALANGAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.674987+00:00",
+  "prompt_version": "v2"
+}

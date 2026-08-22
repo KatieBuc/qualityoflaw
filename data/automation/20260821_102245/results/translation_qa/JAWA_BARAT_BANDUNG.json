@@ -1,0 +1,86 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: items 14–16 in Article 1 are merged into a single paragraph; list markers 15 and 16 are not on their own numbered lines, risking boundary-based parsing errors."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers and paragraph numbering: several items are run together (e.g., 'andh.', 'andf.', 'andg.', 'andd.'), and Article 7 paragraph '(2)' is merged into paragraph (1) text; Article 8 paragraph '(3)' is merged into paragraph (2) text; multiple lettered subitems are merged on one line (e.g., 'b. ...; c. ...'). This breaks downstream boundary splitting.",
+        "Meaning drift/awkward rendering: 'melanjutkan keturunan' is better rendered as 'to procreate/continue the lineage' rather than 'continue descendants' (unclear English)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items (a–e, a–i, a–g, a–j, a–f, a–e) are run together on the same line as preceding text, and in Article 19 paragraph (2) is embedded in paragraph (1) instead of being a separate numbered item.",
+        "Broken list-marker separation: missing line breaks cause markers like 'c.', 'f.', 'i.' and 'and e.' to attach to prior items, risking downstream boundary splitting.",
+        "Scrambled/incorrect list structure in Article 17(1): items e and f are both preceded by 'and', whereas the original has 'and' only before item e and then 'and/or' before item f (dane. ... danf. ...).",
+        "Minor meaning drift in Article 17(1) list connectors: item f should be linked with 'and/or' (not a separate 'and' line), reflecting the original 'dan/atau' usage elsewhere in the document."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are concatenated with preceding text (e.g., 'elements of:a.', 'andf.', 'andd.', 'andh.', 'ande.') instead of appearing as separate list items in order.",
+        "Meaning drift: Article 26 cross-references the wrong articles; original refers to Articles 21 through 23, but context shows it should refer to Articles 23 through 25 (Pengawasan/Evaluasi/Pembinaan).",
+        "Broken structure in body text: 'II. PASAL DEMI PASAL' is merged into the preceding sentence instead of being a separate section line as in the original.",
+        "Broken/scrambled list structure in Article 27: original has two separate items 'a.' and 'b.' on separate lines; translation merges them into one line, risking downstream boundary splitting.",
+        "Meaning drift in Article 26 cross-reference: original refers to Articles 21 through 23, but translation says Articles 23 through 25."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 5 letter c: list markers run together (\"and/ord.\") and should be separate item d.",
+        "Scrambled/merged list structure in Article 5 letter d: items b, c, d run together (\"other partyc.\", \"and/ord.\") and missing proper separation/line breaks; also \"Letter e\" is merged into the same paragraph as item d.",
+        "Scrambled/merged list structure in Article 5 letter f: item c is merged into \"and/orc.\" and should be separate item c.",
+        "Meaning drift/awkwardness: \"livelihood\" used for \"kehidupannya\" (should be \"life\"), and \"basic right\" for \"hak asasi\" (should be \"human right\").",
+        "Scrambled/merged list structure: in Article 5 letter d, item b runs into item c in the original (\"pihak lainc.\"), but the translation separates them without preserving the original marker adjacency; also missing the final \"and/or\" connector before item d in letter d.",
+        "Meaning drift/omission: Article 5 letter d item b in the original ends with \"dan/atau\" (and/or) before continuing to item c; this connector is omitted in the translation.",
+        "Meaning drift/omission: Article 5 letter d item d in the original ends with \"membatasi dan/atau melarang untuk bekerja\" (restricting and/or prohibiting to work); translation renders \"prohibiting work\" which can imply prohibiting work generally rather than prohibiting the person from working.",
+        "Meaning drift/omission: Article 5 letter f item b in the original ends with \"dan/atau\" before item c (\"dan/atauc.\"), but the translation uses \"; and/or\" at the end of item b and cleanly separates c; needs to reflect the original marker adjacency and connector placement."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_BANDUNG.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.578929+00:00",
+  "prompt_version": "v2"
+}

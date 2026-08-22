@@ -1,0 +1,86 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: final clause after “To Establish:” is incomplete; original includes “...PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN” but translation ends at “VICTIMS OF VIOLENCE”.",
+        "Meaning drift: “Dengan Persetujuan Bersama” should be rendered as “With Joint Approval” (standard legal phrasing), not “With Mutual Approval”.",
+        "Meaning drift/omission: final 'Menetapkan' line in the original ends with '...KORBAN KEKERASAN' but the translation adds '...GENDER-BASED VIOLENCE AND CHILDREN', which is not present in the provided original excerpt."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal commentary at end of translation: \"This excerpt sits under: CONCERNING > Legal Section\".",
+        "Scrambled/merged list markers in Article 2: item \"m.\" is merged into \"andm.\" instead of being a separate list item.",
+        "Scrambled/merged list markers in Article 3: items \"b.\" and \"e.\" are merged into preceding text (\"...; b.\" and \"ande.\") instead of appearing as separate list items.",
+        "Scrambled/merged list markers in Article 4(1) and Article 5(1)-(2): sub-items a. are merged into the preceding sentence (\"right to:a.\" / \"include:a.\" / \"authority to:a.\") rather than being properly separated, risking boundary-based parsing.",
+        "Meaning drift in Article 5(2)(a): \"penghapusan kekerasan berbasis gender dan anak\" translated as \"elimination of gender-based violence and children\"; should be \"elimination of gender-based violence and violence against children\" (or equivalent)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: \"Paragarf 6 Monitoring and Reporting\" is not marked as a heading like the original (should be a level-3 heading).",
+        "Meaning drift/omission in Article 13 letter a: the original item a is incomplete/corrupt, but the translation should preserve it exactly as in the source (\"gender and children;\")—kept, but ensure list structure remains consistent under the correct heading.",
+        "Meaning drift/omission in Article 13 letter a: original text appears truncated/garbled but must be preserved; translation leaves it as meaningless fragment without reflecting that it is incomplete in the source.",
+        "Minor meaning drift in Article 21(1): missing conjunction 'and' between 'the Government' and 'other Regional Governments' (should reflect cooperation with both)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown heading structure: original has '###' nowhere in this excerpt, but translation adds '##### II. ARTICLE BY ARTICLE' followed by '#### Article 1' without the preceding original heading level '##### II. PASAL DEMI PASAL' is correct but must match exactly; also original has '#### Pasal 1' under '##### II. PASAL DEMI PASAL'—translation is fine there, but the issue is meaning drift in the 'CONCERNING' line.",
+        "issues",
+        "Meaning drift: 'PENYELENGGARAAN PERLINDUNGAN ... BERBASIS GENDER DAN ANAK' means '... gender-based and child violence' (i.e., gender-based violence and violence against children), but translation renders '... GENDER-BASED VIOLENCE AND CHILDREN' (missing 'violence against' before 'children').",
+        "Broken heading structure: original has multiple level-5 headings (e.g., '##### PENJELASAN', '##### ATAS', etc.) followed by '##### II. PASAL DEMI PASAL' and then '#### Pasal 1'; translation keeps these but changes '##### II. PASAL DEMI PASAL' to '##### II. ARTICLE BY ARTICLE' (ok) yet the earlier 'PENYELENGGARAAN ... DAN ANAK' is translated with added phrase 'VIOLENCE AGAINST CHILDREN' not matching original '... DAN ANAK' (children) and may be acceptable but is a meaning drift risk in title consistency.",
+        "Meaning drift: 'PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK' is translated as 'IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND VIOLENCE AGAINST CHILDREN'—the original says '... gender-based violence and children' (i.e., gender-based violence and child [victims]/children), not explicitly 'violence against children' in that specific title line; this adds 'violence against' not present in the original title wording."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the two final headings are mistranslated/structurally incomplete; the second heading omits the regency name and the word 'NOMOR' (Number), and does not preserve the original heading content order.",
+        "Meaning drift: final heading 'KABUPATEN OGAN KOMERING ULU NOMOR TAHUN 2012' is translated as 'OF OGAN KOMERING ULU REGENCY NUMBER YEAR 2012', which omits 'KABUPATEN' placement and fails to render 'NOMOR' and 'TAHUN' in a natural/legal way (should be 'Number ... of ... Year 2012' or equivalent).",
+        "Meaning drift in final heading: original reads \"KABUPATEN OGAN KOMERING ULU NOMOR TAHUN 2012\" (no blank number), but translation adds \"NUMBER ___ OF YEAR 2012\" which introduces content not in the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_SELATAN_OGAN_KOMERING_ULU.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.752144+00:00",
+  "prompt_version": "v2"
+}

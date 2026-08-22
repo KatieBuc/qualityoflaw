@@ -1,0 +1,106 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 6,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [
+        "Broken Markdown structure: the second line \"PERATURAN DAERAH...\" is plain text in the original but was incorrectly turned into a level-1 heading in the translation, changing heading boundaries used for downstream splitting.",
+        "Meaning drift/typo in institutional name: original \"PROVINSISULA WESIUTARA\" (Provinsi Sulawesi Utara) was translated as \"PROVINCE OF NORTH SULAWESI\" but the Indonesian header line is missing spacing; translation should reflect the intended official name while keeping structure consistent. (Main required fix is heading level.)",
+        "Broken Markdown structure: the second line \"PERATURAN DAERAH ...\" is plain text in the original but was incorrectly turned into a level-1 heading in the translation (extra \"#\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: 'Pasal2' and 'Pasal4' are plain paragraphs in the translation instead of headings at the same level as in the original (they should be '#### Article 2' and '#### Article 4').",
+        "Scrambled list/numbering structure: several list markers are merged with conjunctions (e.g., 'dane.','danc.','and b.','and c.') and item 'b.' in Article 9 is not on its own marker line; markers must appear once each in the same order as the original.",
+        "Broken/mismatched heading structure: original has '# BABI KETENTUAN UMUM' (BAB I) but translation renders it as '# CHAPTER I GENERAL PROVISIONS' (missing the 'BAB I' numbering).",
+        "Meaning drift/term accuracy: 'BABI' is 'BAB I' (Chapter I); translation should reflect the chapter numbering explicitly to match the legal structure used in the source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: multiple items are concatenated (e.g., 'andb.', 'andc.', 'andd.', 'ande.', 'andf.') instead of separate a., b., c., etc., and some numbered clauses have 'in the form of:a.' without separation",
+        "Meaning drift in Article 13 opening sentence: it incorrectly refers to 'Article 13' (self-reference) instead of the original reference to Article 12",
+        "Broken heading text spacing: 'CHAPTERV' should reflect 'BABV' as 'CHAPTER V' (missing space), while keeping the same heading level",
+        "Meaning drift in Article 13 opening sentence: original incorrectly references Article 13, but translation changes it to Article 12 (must preserve the original reference)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple articles: missing spaces/newlines causing items to run together (e.g., 'andg.', 'andf.', 'andb.', 'andc.', 'ande.'), which breaks list structure required for downstream splitting.",
+        "Meaning drift/awkward rendering in Article 32 item a: 'cepat' should be 'quickly/promptly' rather than 'speed' (noun).",
+        "Meaning drift in Article 32 list item (a): 'cepat' should be 'quickly/rapidly', not 'promptly' used as an adverb after 'with:' (should be an adjective/quality).",
+        "Meaning drift in Article 35 item (g): 'penanganan yang berkelanjutan' means 'continuous handling/assistance/services', not 'continuous treatment' (which implies medical treatment only).",
+        "Meaning drift in Article 37: 'ancaman dan intimidasi bagi korban' should be 'threats and intimidation against the victim(s)' (current wording 'for victims' is incorrect).",
+        "Meaning drift in Article 47: 'dibebankan pada APBD' means 'charged to/regarded as borne by the Regional Revenue and Expenditure Budget (APBD)'—translation leaves APBD untranslated without explanation, which can reduce legal-indicator accuracy.",
+        "Original contains anomalous/garbled numbered lines under Article 45 (e.g., '5. 1. 1. ...', 'None'); translation reproduces them, but they are not meaningful legal text and likely represent source corruption—needs to be preserved but should not be altered (flagging for awareness)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken/missing content: Original Article 7 contains a long block of text (including a numbered item \"6.\") that is omitted entirely in the translation; translation jumps from \"Sufficiently clear.\" at Article 7 directly to Article 8.",
+        "Broken Markdown/list structure: In the original, Articles 8–11 are headings with inline text (\"#### Pasal 8 Cukup jelas.\" etc.); translation matches this, but Article 50 is not marked as a heading like the original \"Pasa150\" line (it is a plain paragraph).",
+        "Meaning drift/typo handling: Original has \"Pasa150\" (intended Pasal 50) without a heading marker; translation renders it as \"Article 50\" but does not preserve the same structural marker situation; to match downstream splitting requirements, it should be a heading consistent with surrounding structure (or at least preserve the original's heading level pattern).",
+        "Broken heading structure: original has '# BAB XI KETENTUANPENUTUP' followed by plain 'Pasa150 ...', but translation inserts a new heading '#### Article 50' that is not a heading in the original (and original 'Pasa150' is not rendered as a heading).",
+        "Meaning drift/normalization: original contains the typo/format 'Pasa150' (no space) and it should be preserved as 'Article 50' in running text, not promoted to a heading."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: several articles that are headings in the original are merged into a single heading line in the translation (Articles 17–19; 24–26; 27–29; 32; and Articles 36–50). Each '#### Pasal X' must be a separate '#### Article X' heading at the same level and in the same order.",
+        "Leftover non-legal commentary appended at the end: 'This excerpt sits under: CHAPTER XI CLOSING PROVISIONS > II. ARTICLE BY ARTICLE'.",
+        "Meaning drift in Article 31(2): 'lembaga-lembaga keamatan lainnya' was mistranslated as 'other security institutions' (should be other sub-district-level institutions/units).",
+        "Broken Markdown structure: original has a single combined heading line \"#### Pasal 17 Cukup jelas. Pasal 18 Cukup jelas. Pasal 19 Cukup jelas.\" but translation splits into three separate headings (Articles 17–19).",
+        "Broken Markdown structure: original has combined heading lines for Articles 24–26 and 27–29, but translation splits them into separate headings.",
+        "Broken Markdown structure: original has a single combined line containing \"Huruf g ... Pasal 36 ... Pasal 50\" all in one paragraph, but translation splits Articles 36–50 into separate headings.",
+        "Meaning drift/omission: original includes \"Pasal 32 Cukup jelas.\" followed by an additional standalone \"Cukup jelas.\" line (not labeled as an article); translation keeps both but structure around missing Article 33 is ambiguous—must preserve original structure exactly (no added Article 33)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_UTARA_MINAHASA_TENGGARA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.743147+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,109 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 6,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal/file-path text included (e.g., \"D:\\PERDA PDF\\...\" lines) that is not part of the regulation text.",
+        "Scrambled/incorrect list structure in Article 2: item h is merged into item g in the original translation; item k is duplicated; \"andl.\" should be a separate item l.",
+        "Meaning drift in Article 2 list due to the merged g/h items and missing separate l item.",
+        "Meaning drift/omission: stray file-path lines present in the original (e.g., \"D:\\\\PERDA PDF\\\\...doc 1/2/3/4/5\") are missing from the translation.",
+        "Scrambled/incorrect list structure in Article 2: item h is merged into item g in the original; the translation splits them into separate items and also duplicates item k (\"guidance….\" then \"k. guidance and supervision\").",
+        "Minor meaning drift in Article 1(13): \"berusaha dan bekerja sendiri\" is translated as \"work and work independently\"; should be \"to engage in business/enterprise and work independently\"."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are concatenated (e.g., \"andf.\", \"and/orh.\", \"andj.\", \"ande.\", \"andc.\") and some list items run on the same line as the previous item (e.g., Article 5 intro with \"a.\", Article 6 a/b).",
+        "List/numbering structure not cleanly preserved: Article 10 paragraph (3) marker is merged into paragraph (2) line; Article 12 list skips \"c.\" in the source and translation but the translation must preserve the source structure while keeping markers properly separated.",
+        "Meaning drift: Article 11 is rendered as a sentence fragment; it should state that the obligations of family/parents are to prevent violence and protect women/children (missing main predicate such as \"include\"/\"are\").",
+        "Scrambled/mismatched list numbering in Article 12: original has items a, b, d, d, e (with a missing c) and the translation preserves this but includes a placeholder line \"d. provide….\" that should remain aligned; ensure list markers and content are correctly associated and formatted consistently.",
+        "Minor meaning drift in Article 6(b): translation redundantly repeats \"recovery\" (\"recovery of health and psychological recovery\"), whereas the original states recovery of health and psychological (pemulihan kesehatan dan psikologis)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list markers: several lettered items are merged (e.g., 'andg.', 'and/orc.', 'and/ord.', 'ando.', 'ande.') and one item is duplicated/misplaced (Article 15 has 'h. children…' then another 'h.'; the first should be the continuation of item g/h as in the source).",
+        "Meaning drift/omission due to ellipses: 'anak….' and 'bantuan….' are not translated as omissions/illegible text; they should be rendered as an explicit ellipsis/omitted text in English while keeping the correct list item marker.",
+        "Broken numbering continuity: Article 15 letter sequence should be a–o with 'o.' present as its own item; Article 16 should end with 'g.'; Article 17(1) should be a–g; Article 17(2) should be a–d; Article 21(1) should be a–c; Article 23 should be a–e; Article 24(1) and 25(1) should be a–f; Article 27(3) marker '(3)' is embedded in a file-path line and needs to be a proper '3.' item. ",
+        "Broken/scrambled list structure in Article 15: item h appears twice (one as 'h. children….' and again as 'h. children who are victims of kidnapping...'); original has a single h item ('anak….') followed by i–o.",
+        "Scrambled list/numbering in Article 17(1): original has 'c. bantuan….' placeholder then later continues with 'c. bantuan hukum'; translation renders 'c. legal….' then repeats 'c. legal assistance' instead of keeping the placeholder as an unnumbered continuation line and continuing with d–g.",
+        "Scrambled numbering in Article 27(3): translation contains both '3. Further….' and '(3) Further provisions…'; original has only '(3) Ketentuan lebih lanjut...' (with a stray 'Ketentuan…' line due to page break), so the translation should have a single item (3) without duplicating it.",
+        "Leftover non-legal file path/page artifacts included (e.g., 'D:\\PERDA PDF\\...doc 11/12/13/14/15/16' and 'Article….'); these are not part of the legal text and should be removed for downstream processing."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure: several lettered items are merged with preceding text (e.g., 'with:a.', 'andd.', 'andc.', 'ande.') instead of appearing as separate list markers in order.",
+        "Leftover non-legal file path/page artifacts included (e.g., 'D:\\PERDA PDF\\...doc 17/18/19/20/21') that are not part of the policy text.",
+        "Meaning drift/omission marker: 'c. bantuan….' is rendered as 'c. assistance….' but then another 'c.' appears; needs to preserve the original ellipsis item and keep subsequent items as d., not duplicate c.",
+        "Broken/scrambled list structure in Article 29(2): original has items a–d (with c = 'bantuan pendidikan...' and d = 'menumbuhkan...'), but translation adds an extra item 'e' and leaves 'c. assistance….' as an orphan/incorrect item.",
+        "Leftover non-legal/file-path artifacts and ellipses not handled consistently: original contains 'D:\\PERDA PDF\\...' lines and 'Oleh....'; translation omits the file-path lines but keeps 'CHAPTER XVI....' and 'Therefore....', causing meaning/structure drift from the source text boundaries.",
+        "Scrambled numbering in Article 31(3): translation contains both '3. Guidance….' and a separate '(3) ...' paragraph; in the original, item 3 is 'Pembinaan….' followed by the continuation text, not a new separately-numbered '(3)' item."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal file-path/page-break artifacts included (e.g., \"D:\\PERDA PDF\\...doc 22/23/24/25\" and \"Huruf…\" rendered as \"Point…\"), which are not part of the normative text and can break downstream parsing.",
+        "Scrambled/duplicated list numbering in Article 5 Point c and Point f: item \"2.\" appears twice due to page-break insertion; the second \"2.\" should be \"3.\" and subsequent items renumbered to match the original sequence (1–4 for Point c; 1–3 for Point f).",
+        "Scrambled/mismatched list numbering in Article 5 Point c: original has items 1–4, but translation has 1–5 and shifts numbering/content (\"forced....\" should be item 2, not a separate placeholder).",
+        "Scrambled/mismatched list numbering in Article 5 Point f: original has items 1–3, but translation has 1–4 and includes an extra placeholder item \"acts….\"; items 2–3 content is misnumbered.",
+        "Leftover non-legal artifact/ellipsis placeholders (\"....\", \"acts….\"), and an omitted source artifact line (file path/page text) was dropped; while the file path is not substantive law, it is present in the source text and the translation should not introduce/retain ellipsis placeholders that distort structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal commentary at the end of the translation: \"This excerpt sits under: CHAPTER XVI > CLOSING PROVISIONS\" is not in the original text.",
+        "Minor meaning drift/typo: \"psokolog\" in the original should be rendered as \"psychologists\" (already done), but the translation should not add any extra contextual notes; remove the added contextual line only.",
+        "Scrambled/flattened list structure in Article 23 Point b: sub-items a–l are run together on one line instead of being separated as distinct list items, risking downstream boundary splitting.",
+        "Minor meaning/term drift: 'jermal' (a specific type of fishing platform) is left untranslated/unclear; should be rendered as 'jermal (traditional fishing platform)' to preserve meaning for English readers without adding new content."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_BELITUNG.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.701435+00:00",
+  "prompt_version": "v2"
+}

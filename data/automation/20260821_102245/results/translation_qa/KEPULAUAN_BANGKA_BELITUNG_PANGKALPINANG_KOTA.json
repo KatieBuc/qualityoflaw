@@ -1,0 +1,85 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in recital c: original says to establish a Regional Regulation on 'Pemberdayaan dan Perempuan' (Empowerment and Women), but translation renders 'empowerment and protection of women', adding 'protection' and changing the title.",
+        "Minor meaning drift in item 2: 'Kotapraja' is translated as 'Municipal Cities' (plural) and phrasing is awkward; should reflect 'municipality/city (kotapraja)' within Level I South Sumatra.",
+        "Broken text/format in item 6: line break splits 'Number 3835' onto a new line and punctuation is malformed ('3835. ;'), which can disrupt downstream parsing.",
+        "Meaning drift in Considering letter c: original says to establish a Regional Regulation on 'Pemberdayaan dan Perempuan' (Empowerment and Women), but translation renders 'Empowerment and Women' while the overall subject is 'Empowerment and Protection of Women'; should match the original wording exactly without adding 'Protection'.",
+        "Minor meaning/format drift in item 6 citation: original contains a trailing fragment 'Nomor 3835. ;' (punctuation/fragment) which is omitted/normalized in translation; for strict legal-text fidelity it should be preserved as in source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list markers are run together without proper separation (e.g., Article 2(1) 'are:a.' and 'andd.'; Article 2(2) 'are to:a.' and 'andf.'; Article 2(3) 'and i .'; Article 3(1) 'and l.'; Article 3(2) 'andb.' and paragraph (3) is merged into paragraph (2); Article 4 'andf.'; Article 5 'has: a.' and 'i'/'j' formatting). This risks downstream boundary splitting.",
+        "Meaning drift/omission risk due to merged numbering: Article 3 paragraph (3) is not presented as its own numbered paragraph '(3)' as in the original.",
+        "Scrambled numbering/list structure in Article 3: paragraph marker (3) is not formatted consistently with other numbered paragraphs (appears as plain text '(3)' instead of '3.'), risking downstream boundary splitting.",
+        "Minor meaning drift/typo in Article 1 point 3: original has a typo 'dalah' (intended 'adalah'); translation correctly renders meaning, but missing terminal punctuation compared to surrounding items (consistency)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list and numbering structure: several list markers are attached to preceding text (e.g., 'include:a.', 'andd.', 'ande.', 'andh.') and one paragraph marker '(3)' in Article 6 and '(2)' in Article 20 are not on their own numbered line, risking boundary-based parsing.",
+        "Minor meaning/grammar drift due to malformed sentence in Article 14(1) ('The implementation for women... health services...') which should clearly state that health-sector implementation is in the form of health services.",
+        "Broken Markdown structure: the original has the headings \"## PEMERINTAH DAERAH\" and \"## Bagian kesatu\" (lowercase 'kesatu'); translation changes them to \"## OF REGIONAL GOVERNMENT\" and \"## Part One\" (not a direct/consistent rendering of the heading text).",
+        "Meaning drift/awkward legal meaning in several places: Article 13 introductory clause is incomplete in English (\"...as referred to... through:\" should be \"is carried out through\"); Articles 14–16 repeatedly translate \"Penyelenggaraan ...\" as \"The implementation for women...\" which is ungrammatical and can obscure that it is the implementation of empowerment/provision in that sector; Article 20(1) missing line break/marker separation between (1) and (2) in the original (risk of downstream parsing)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list-item markers in several places: lettered subitems (a–e) are run together with the preceding text (e.g., 'atas:a.'), and some 'and d.'/'and e.' are on the same line as the previous item, which can break downstream boundary splitting. Reformat to keep each marker (a., b., c., d., e.) as its own list item in the correct order.",
+        "Minor meaning drift/awkwardness: 'perlindungan atas: tindakan diskriminasi...' should be 'protection from discriminatory actions...' (not 'protection over'), and similar 'protection over' phrasing appears repeatedly; adjust to 'protection from/for' without changing substance."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 32(1), Article 36(3), and Article 36(4) the sub-items a–e are run together (e.g., 'include:a.' and 'ande.'), and some markers (d., e.) are not on their own items as in the original, risking boundary-based parsing errors.",
+        "Minor meaning/clarity drift from formatting: missing separation makes it ambiguous where item c ends and item d begins in several places; needs explicit item breaks to match the original structure.",
+        "Broken list/numbering structure: in Article 33 the original uses inline lettered items (a.–i.) without a preceding colon/newline; translation adds a colon and changes list formatting, which can affect downstream boundary splitting.",
+        "Minor meaning drift/terminology: 'Kantor Kepolisian' translated as 'Police Offices' (plural) instead of singular 'Police Office'/'Police Station'; 'tanggung jawab sosial lingkungan' rendered as 'environmental social responsibility' which is awkward and may mislead; better as 'social and environmental responsibility'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.702128+00:00",
+  "prompt_version": "v2"
+}

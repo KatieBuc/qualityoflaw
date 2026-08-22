@@ -1,0 +1,101 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: several lettered list items are merged (\"andf.\", \"ande.\", \"andi.\") and some items run together on the same line (e.g., \"a. ...; b. ...\"), which breaks downstream boundary detection.",
+        "Meaning/structure fidelity: list markers must appear once each and in order; current translation risks missing distinct items due to merged markers.",
+        "Broken list structure in Article 2: original has merged marker/text \"danf. pengayoman\"; translation split into separate \"f.\" item, changing marker sequence.",
+        "Broken list structure in Article 3: original has merged marker/text \"dane.\"; translation split into separate \"e.\" item, changing marker sequence.",
+        "Broken list structure in Article 4: original has merged marker/text \"dani.\"; translation split into separate \"i.\" item, changing marker sequence."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers and items: several lettered items are concatenated (e.g., 'andg.', 'andh.', 'and/orb.', 'and/ord.') and some list markers run into preceding text (e.g., '...by:a.', '...fields of:a.').",
+        "List/numbering structure not cleanly preserved: Article 8 merges item (2) into the same paragraph as item (1) and lettered items e–h are run together; similar concatenations occur in Articles 9–11, 13–16, 17–18.",
+        "Meaning drift: 'kelurahan' is mistranslated as 'sub-district' (should be 'urban village/kelurahan').",
+        "Scrambled/incorrect list marker structure in Article 7(2): original has items a–g, but translation uses a–g while original item g is merged as 'dan g.' (and g.) without proper separation; needs to preserve marker sequence exactly.",
+        "Scrambled/incorrect list marker structure in Article 8(1): original has a–h but markers are run together in the source (including '...pencatatan sipil:f.' and 'dan h.'), so translation must preserve explicit a–h markers and ensure (2) is clearly separated as '(2)'.",
+        "Leftover page-number artifacts retained ('- 8 -', '10 -', '- 11 -') that are not part of the legal text and disrupt downstream parsing.",
+        "Minor meaning drift/normalization: 'kelurahan' should be translated but may retain the Indonesian term in parentheses; ensure it reflects 'in every kelurahan' as in original, and keep 'Bupati' as 'Regent' consistently (already mostly consistent)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list marker in Article 29: original has paragraph numbering error where “(3)” is embedded after item c in paragraph (2); translation normalizes it into a clean new paragraph 3, changing the marker structure/order used for downstream splitting.",
+        "Minor meaning drift in Article 19 item e: “hak mendapatkan kebebasan” is rendered as “right to obtain freedom”; more accurate is “right to freedom.”",
+        "Scrambled numbering/list structure in Article 29: paragraph (3) is merged into paragraph (2) and the list item c contains '(3) ...' text; the '- 14 -' page marker is embedded mid-structure.",
+        "Meaning drift/structural error in Article 29: paragraph (2) and paragraph (3) sanctions are not clearly separated as in the original, which can change downstream interpretation.",
+        "Minor formatting issue carried over from source: in Article 19 the original has a merged 'dane. ...' (d and e); translation should preserve separate d. and e. items (already separated), but ensure consistent list formatting with line breaks."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: Original Article 9 says \"Sukup jelas.\" (as written), but translation normalizes it to \"Sufficiently clear.\"; for strict fidelity it should reflect the original wording/typo.",
+        "Minor meaning drift: \"Asas pengayoman\" is translated as \"principle of protection\"; closer is \"principle of guidance/shelter (pengayoman)\" to avoid shifting the legal term.",
+        "Meaning drift/typo: \"Sukup clear\" in Article 9 should be \"Sufficiently clear\" (original: \"Sukup jelas\" intended as \"Cukup jelas\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering in Article 17 Point f: item 2 is written as \"2)\" and merged into item 1 instead of being a separate numbered item \"2.\"",
+        "Scrambled marker/content in Article 19: \"Point d\" is appended to the end of Point c instead of appearing as its own point in sequence",
+        "Scrambled marker/content in Article 24 Paragraph (4): \"Point d\" is appended to the end of Point c instead of appearing as its own point in sequence",
+        "Scrambled list/numbering structure in Article 17 Point f: original has mixed markers \"2)\" embedded in the same line as item 2; translation regularized it to \"2.\" but needs to preserve the original marker style/sequence (1., 2), 3.).",
+        "Meaning drift in Article 17 Point f item 2: original says \"perbuatan yang dengan atau tanpa persetujuan korban\" (with or without the victim's consent); translation renders \"with or without the victim's consent\" correctly, but the marker mismatch can affect downstream boundary splitting and must be corrected to match original list marker formatting.",
+        "Minor structure fidelity: Original uses \"Huruf\" and mixed numbering (\"2)\") in Point f; translation should mirror list marker forms exactly to avoid downstream retrieval errors."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.677967+00:00",
+  "prompt_version": "v2"
+}

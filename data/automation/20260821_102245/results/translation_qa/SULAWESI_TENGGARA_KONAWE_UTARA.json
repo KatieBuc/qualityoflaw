@@ -1,0 +1,75 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 2: item 'e.' is merged into the end of item 'd.' as 'ande.'; should be a separate 'e.' item.",
+        "Scrambled/merged list structure in Article 3(1): the 'a.' item is merged into the end of the introductory sentence ('obtain:a.'), and 'and e.' is merged into the end of item 'd.'; list markers must appear separately and in order as in the original.",
+        "Broken/scrambled list structure in Article 2: original has item 'd.' followed immediately by 'dan e.' on the same line; translation split into 'd.' and 'and' on a separate line, altering the list-marker/content association.",
+        "Meaning drift in the preamble heading: 'Menimbang Mengingat' was rendered as 'Considering Noting' (should be 'Considering; Bearing in mind/Considering'), and 'Noting' is not an accurate rendering of 'Mengingat' in this legal context."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are concatenated (e.g., 'andg.', 'andc.', 'and/ ord.', 'andm.') instead of separate list items as in the original.",
+        "List/numbering marker case mismatch: original uses 'g.' etc. as separate markers; translation merges them into prior lines, which breaks downstream boundary splitting.",
+        "Minor meaning/terminology drift: 'peraturan Bupati' should be 'Regent Regulation' consistently (not 'Regent regulation'); keep consistent capitalization; also ensure 'protection order' corresponds to 'penetapan perlindungan' (application for determination of protection).",
+        "Broken/scrambled list markers: in Article 7 the last item is rendered as \"1.\" instead of letter \"i.\" (original uses \"1.\" as a mis-OCR for \"i\" but it is still a list item that should remain the 9th lettered item).",
+        "Broken/scrambled list markers: in Article 10 the lettered sub-items use \"1.\" and \"J.\" where the original shows \"1.\" and \"J.\" (mis-OCR for i/j); for downstream structure these should be normalized to i. and j. while keeping order and content the same.",
+        "Minor meaning drift/terminology: \"Peraturan Bupati\" should be translated consistently as \"Regent Regulation\" (not \"Regent Regulation\" vs \"Regent Regulation\" is fine) but in Articles 4 and 10 it should be \"Regent Regulation\" with article \"a\" not required; kept consistent in correction."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers and numbering: several items are run together (e.g., Article 14(1) item c; Article 14(3) item d; Article 15 item b; Article 16 item e; Article 19 items i/j and l; Article 20(2) list; Article 21 item b; Article 22(2) item d; Article 19 item q).",
+        "List/paragraph numbering not consistently preserved: some paragraphs use '3.'/'2.' instead of '(3)'/'(2)' as in the original, and some markers are missing parentheses/spaces; needs normalization to match original structure for downstream splitting.",
+        "Broken numbering/list markers: several items use digit '1.' where the original uses letter 'i.' and the sequence is inconsistent (Article 19 list items i and l; Article 23 item i).",
+        "Scrambled/incorrect list marker rendering: original has lettered items that were converted to numeric '1.' in multiple places, which can break downstream boundary splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled structure around Pasal 7–9: original contains Huruf a–h and Pasal 8, but translation leaves 'Point h' without content, omits Article 8 as a heading, and places 'Article 8 Sufficiently clear' inline under Article 9.",
+        "List marker formatting issue: in the objectives list, item f is merged into item e line ('and f.') instead of being a separate 'f.' item as in the original.",
+        "Meaning drift/term error: 'pemandulan' translated as 'castration' (should be 'infertility/sterilization'); original phrase is 'pemandulan atau sterilisasi secara paksa'.",
+        "Broken/reordered article headings: in the original, the text about forced pregnancy etc. and the definition of \"Ancaman Tindakan Tertentu\" appears under Pasal 9, while \"Pasal 8 Cukup jelas\" is embedded at the end of that paragraph; the translation instead places that content under Article 7 and then presents Article 8 and Article 9 as \"Sufficiently clear\".",
+        "Meaning drift/omission due to mis-association: the original does not state that Pasal 9 is \"Cukup jelas\"; instead Pasal 9 contains substantive definitions, and \"Pasal 8 Cukup jelas\" must be preserved in its original embedded position."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_TENGGARA_KONAWE_UTARA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.740587+00:00",
+  "prompt_version": "v2"
+}

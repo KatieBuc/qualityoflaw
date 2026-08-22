@@ -1,0 +1,106 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list marker formatting in Article 2: original has separate items 'a.' through 'e.' on separate lines; translation merges 'dane.' into 'ande.' and does not clearly separate item e.",
+        "Meaning drift/typo in Article 2 list: 'dane. non diskriminasi' should be rendered as 'and e. non-discrimination' (i.e., item e), not 'ande.'",
+        "Meaning drift in Article 1 item 31: 'Gugus Perlindungan Perempuan dan Anak' (Protection Cluster/Group) was translated as 'Women and Child Protection Task Force', which duplicates item 32 and changes the defined institution.",
+        "Meaning drift in Article 1 item 32: 'Satuan Tugas' is at 'Kelurahan/Desa' level, but translation renders it as 'Village/Sub-district level' (should be Village/Urban Village level).",
+        "Minor meaning drift/typo in Article 2 principles list: original has 'dan e. non diskriminasi' (a formatting error meaning 'and e.'), translation normalizes it; should preserve list markers a–e and the conjunction placement without altering structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated (e.g., 'andf.', 'andj.', 'and/orf.', 'and/ord.', 'and/orc.', 'andc.', 'andk.', 'andd.') instead of appearing as separate list items in the same order as the original.",
+        "Minor meaning drift in Article 9(a): 'penghormatan dan penggunaan sepenuhnya' is mistranslated as 'respect and full use'; it should convey 'respect and full fulfillment/realization' of the child's rights for survival, growth, and development."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: lettered items run together (e.g., 'andc.', 'andd.', 'ande.', 'andg.', 'and/orb.') and some lettered lists are not on separate lines, risking boundary-based parsing errors.",
+        "Article 13(2) list formatting: 'include: a.' is on the same line and 'andc.' is merged; should be separate a., b., c. items in order.",
+        "Article 15 list formatting: 'andd.' merged with item c; should be separate a.–d. items.",
+        "Article 16(1)–(3) list formatting: 'by:a.' and 'fields of:a.' and 'by:a.' merged; 'ande.', 'andg.', 'andc.' merged; should be separate a.–e., a.–g., a.–c. items.",
+        "Article 18 list formatting: 'andg.' merged; should be separate a.–g. items.",
+        "Article 19 list formatting: marker 'b.' is merged into prior line; sub-item '6.' is merged with 'and'; should preserve a., b. and 1–6 structure clearly.",
+        "Article 20 list formatting: 'andb.' merged; should be separate a., b. items.",
+        "Article 21 list formatting: 'b.' is preceded by extra space and 'andh.' merged; should be separate a.–h. items.",
+        "Article 22 list formatting: 'andc.' merged; should be separate a.–c. items.",
+        "Article 23(2) list formatting: 'by:a.' and 'andc.' merged; should be separate a.–c. items.",
+        "Article 24(2) list formatting: 'with:a.' and 'and/orb.' merged; should be separate a., b. items.",
+        "Article 25(1) list formatting: 'fields of:a.' and 'andg.' merged; should be separate a.–g. items.",
+        "Broken Markdown structure: the original ends with heading '## Bagian Keempat' followed by plain text 'Rehabilitasi Sosial', but the translation renders 'Social Rehabilitation' as a heading-like line; it should remain plain text to match the original structure.",
+        "Meaning drift: Article 20 incorrectly cross-references 'Article 18 letter a number 1' but the original refers to 'Pasal 18' (should be 'Article 18') 'huruf a angka 1' which corresponds to Article 19(a)(1) in the translated structure; the correct reference is 'Article 19 letter a number 1'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., 'cara:a.', 'andd.', 'andc.', 'and/orc.', 'andb.') causing list structure to be unclear and potentially mis-associated with items.",
+        "Article 34 numbering is broken: paragraph (3) is merged into paragraph (2) text, disrupting the required (1)-(4) sequence.",
+        "Minor meaning drift/terminology: 'Unit Task' should be 'Task Force' (Satuan Tugas) for consistency with the original; keep P2TP2A as-is.",
+        "Broken Markdown structure: original includes the heading '## Bagian Kedua' followed by 'Kemitraan' under it; translation ends at '## Part Two' with only 'Partnership' and is missing the 'Kemitraan' heading line (as a separate paragraph) present in the original.",
+        "Meaning drift/terminology: 'Babinsa' expanded as 'Village Development Non-Commissioned Officer' and 'Babinmas' as 'Community Development Non-Commissioned Officer'; these are specific Indonesian roles and should be kept as Babinsa/Bhabinkamtibmas (or Babinmas) with an explanatory gloss, not redefined as 'development NCO'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: missing spaces/newlines before sub-items (e.g., 'through:a.', 'andd.', 'andc.') causing list structure to be broken.",
+        "Meaning drift in Article 39(1) item c: 'Kepala Desa/Lurah' was translated as 'Village Head/Sub-District Head'; 'Lurah' is an Urban Village Head, not a Sub-District Head.",
+        "Minor meaning drift in Article 40 item c: 'sumber lain yang sah' should be 'other lawful sources' (plural), not 'other lawful source' (singular).",
+        "Scrambled/merged list markers in the original (Article 36(2) and Article 39(1)-(2), Article 40): original has run-together items like 'melalui:a.' and 'danb./danc.'; translation regularized them into separate items, which changes the marker structure required downstream.",
+        "List-marker formatting not preserved exactly: in Article 40 the original has 'b. ...; danc. ...' (i.e., 'c.' is merged with 'dan'); translation outputs clean 'b.' and 'c.' items, losing the original marker sequence as written."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_GARUT.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.588994+00:00",
+  "prompt_version": "v2"
+}

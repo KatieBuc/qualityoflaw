@@ -1,0 +1,125 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 8,
+  "chunks_corrected": 7,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 6,
+  "qa_passes_total": 15,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/broken numbering: items 39 and 40 are merged into one line; list item 40 marker is missing as a separate item.",
+        "Meaning drift/omission risk due to merged items: definition of APBD (39) and gender responsive budget (40) are not clearly separated as in the original.",
+        "Meaning drift in item 23: Indonesian says service is provided when seeing/hearing/knowing violence will/is/has occurred; translation says 'to the victim' instead of 'to victims' and slightly shifts the construction (should be 'to victims' and keep the trigger condition as in original).",
+        "Minor meaning drift in item 35: 'pemulangan' is 'returning/bringing home' rather than 'repatriation' (which implies cross-border)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: multiple items run together without spaces (e.g., \"andd.\", \"andl.\", \"andf.\", \"andg.\", \"ande.\") which can break downstream list-boundary parsing; needs separation so each a., b., c., d., etc. appears cleanly once in order.",
+        "Minor meaning drift/terminology: \"Bagian Kesatu\" is a structural heading; translating it as \"Part One\" is acceptable, but \"Kelembagaan\" is better rendered as \"Institutional Arrangement\" (not \"Institutions\") to match the legal-institutional sense. (Kept as heading text correction only; structure unchanged.)",
+        "Broken Markdown/list structure: several list markers are merged with preceding text (e.g., 'aspects of:a.', 'form of:a.', 'consists of:a.', 'include:a.') instead of appearing as separate list items, risking boundary-based splitting.",
+        "Meaning drift: Article 14(1) incorrectly refers to 'Article 12 paragraph (1)' but the original refers to 'Pasal 12 ayat (1)' which is an internal inconsistency in the source; however in this context it should be 'Article 13 paragraph (1)' because PPT is established in Article 13(1).",
+        "Meaning drift: Article 13(5) refers to 'paragraph (3)' but the original refers to 'ayat (3)' even though the shelter clause is in paragraph (4); it should refer to paragraph (4) to match the intended reference."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in the original (e.g., \"danc.\", \"dane.\", \"danb.\", \"danh.\") were normalized in translation; downstream requires each list item marker (a., b., c., etc.) to appear once in the same order and as separate items.",
+        "Several places in the translation keep list markers on the same line as preceding text (e.g., \"include: a.\", \"implemented with: a.\"), which breaks the original list structure where items are separate; corrected to put each marker on its own list line while preserving meaning.",
+        "Minor meaning drift/wording: \"Peraturan Bupati\" should be rendered as \"Regent Regulation\" (not \"Regent Regulation\" is fine) but sentence was awkward; adjusted without changing meaning."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered sub-items (a–e) are run together with preceding text (e.g., 'duties:a.', 'roles:a.', 'with:a.', 'andd.', 'ande.') instead of being clearly separated and in order.",
+        "Minor meaning drift/term inconsistency: 'Chairperson of PTT' should be 'Chairperson of PPT' (original: Ketua PTT appears to be a typo, but translation should follow the original context; elsewhere uses PPT).",
+        "Broken/reordered heading structure: BAB VII (Article 44) appears before BAB VIII (Article 43) in the translation, while the original has BAB VIII (Article 43) before BAB VII (Article 44).",
+        "Meaning drift/term error in Article 40(3): original says the decree is by the Chairperson of PTT, but translation renders it as Chairperson of PPT."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: original has heading '##### II. PASAL DEMI PASAL' but translation uses '##### II. ARTICLE BY ARTICLE' (should preserve the same heading text structure by translating 'Pasal' consistently as 'Article' and 'Demi' as 'by', i.e., '##### II. ARTICLE BY ARTICLE' is acceptable; however the key issue is list/marker structure: original uses 'Huruf a/b/c/d' markers; translation changes them to 'Letter a/b/c/d' but does not preserve the 'Huruf' marker format as a distinct marker line/item, risking downstream boundary matching.",
+        "Scrambled/implicit list structure: 'Huruf a/b/c/d' in the original are separate labeled items; translation renders them as run-on paragraphs without explicit list formatting, which can break automated splitting on markers.",
+        "Meaning drift: 'Convention of Elimination and Discrimination Againts Women' is mistranslated/incorrectly named; should be 'Convention on the Elimination of All Forms of Discrimination against Women (CEDAW)' to match the intended reference. Also 'Women's Convention' is vague; should be 'Convention on the Elimination of All Forms of Discrimination against Women' for precision.",
+        "List/letter markers not translated: \"Huruf a/b/c/d\" should be rendered as \"Letter a/b/c/d\" to match English legal drafting and avoid mixed-language markers."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure in Article 3 Paragraph (2): markers b. and c. are embedded in item a. instead of being separate list items.",
+        "Scrambled list/numbering structure in Article 4: Point d is merged into Point c; Points h and k are merged into Points g and j respectively; Point l capitalization inconsistent (minor).",
+        "Scrambled list/numbering structure in Article 24 Paragraph (2): Points b–d are not marked as lettered list items (a., b., c., d.) matching the original.",
+        "Meaning/structure risk: Indonesian 'Huruf a/b/c/d' are lettered subpoints; translation uses 'Point' but must preserve distinct subpoints and their boundaries for downstream splitting.",
+        "Scrambled/altered list-marker structure: original uses inline markers (Ayat (1), Ayat (2), Huruf a/b/c, etc.) and lettered subitems a./b./c. within Huruf a; translation changes these to new lines and different marker labels (Paragraph/Point), which can break downstream boundary splitting.",
+        "Meaning drift/terminology: \"Ayat\" and \"Huruf\" are structural markers; translating them as \"Paragraph\"/\"Point\" changes the marker text and may not match required list-item boundaries. Also \"jaringan kerja\" translated as \"network\" (missing \"work\"/\"working network\" nuance)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are run together on one line (e.g., Article 27 points f and g; Article 29 points a and b), which breaks the original item separation and can affect downstream boundary-based parsing.",
+        "Meaning drift in abbreviations: Indonesian official abbreviations “a.n.” and “u.b.” were mistranslated as “o.b.” and “f.o.”; they should be kept as the same abbreviations (or accurately rendered), not changed to different ones.",
+        "Scrambled/merged list structure in Article 27: original has separate items for Huruf f and Huruf g, but translation separates them; however original text merges 'Huruf f Cukup jelas Huruf g ...' on one line—needs to ensure both markers appear distinctly and in order (f then g) without ambiguity.",
+        "Meaning drift in Article 27 point g: 'murah bagi kalangan tidak mampu atau relatif cukup bagi kalangan mampu' is better rendered as 'inexpensive for the underprivileged and relatively sufficient for those who can afford it' (not 'privileged')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "DI_YOGYAKARTA_BANTUL.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.563505+00:00",
+  "prompt_version": "v2"
+}

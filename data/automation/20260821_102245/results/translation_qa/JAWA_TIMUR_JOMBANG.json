@@ -1,0 +1,62 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 6,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched heading structure: original has headings \"# TENTANG\" then \"# PEREMPUAN\" before \"# BAB I\", but translation omits \"# WOMEN\" and places \"# CONCERNING\" immediately before \"# CHAPTER I\".",
+        "Scrambled numbering/list structure: in Article 1, items 14–18 are merged onto the same lines (\"14...; 15...\" and \"17...; 18...\") instead of being separate numbered items as in the original.",
+        "Meaning drift/typo: translation renders \"Menimbang Mengingat\" as \"Considering Bearing in mind\" without the colon structure; also original has \"Peraturan Pemerintah Pemerintah Nomor 4 Tahun 2006 2006\" (duplicated) which should be preserved as-is or at least not silently normalized for downstream traceability.",
+        "Broken/scrambled list structure in the 'Remembering' section: item numbering is merged (e.g., '3.' and '4.' on one line; '10.' and '11.' on one line) and item 11 lacks proper separation/termination, which can break downstream boundary splitting.",
+        "Meaning drift/typo carried through in item 11 reference: 'Government Regulation Government Regulation Number 4 of 2006 2006' should reflect the original wording but be rendered cleanly as a single Government Regulation Number 4 of 2006 (the original has duplication/typo, but the translation should not introduce additional duplication)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list structure in Article 6: markers 'a.' and '(2)' are merged into the same line as item (1) text; '(1)' marker is missing; item '3.' should be '(3)' to match the original numbering style.",
+        "Scrambled/incorrect list structure in Article 8: heading text 'Bentuk dan mekanisme Pelayanan (1) Bentuk-bentuk' is broken across lines; stray word 'which' appears (not in original); list item 'a.' and 'b.' are merged into one line; numbering '(1)' is missing before the list; item '2.' should be '(2)' to match the original numbering style.",
+        "Broken Markdown heading structure: original has '##### 1. PENJELASAN UMUM' but translation renders it as '##### I. GENERAL ELUCIDATION' (numbering mismatch); original has '##### 1. PENJELASAN UMUM' and later '##### II. PENJELASAN PASAL DEMI PASAL'—the first should remain '1.' not 'I.'; also original has '# Angka 3 ...' and translation keeps '# Number 3 ...' but this is an unintended top-level heading likely caused by source formatting; keep as-is but ensure surrounding numbering is consistent.",
+        "Meaning drift/terminology: 'Pembina Utama Muda' is a civil-service rank; translated as 'Principal Counselor' (not accurate). Better left as the Indonesian rank or translated as 'Junior Principal Supervisor' (common rendering).",
+        "Broken Markdown structure: in the elucidation for Article 2, the original has a '# Angka 3' heading-level line; translation renders it as '# Number 3' but this is not an actual heading in context and disrupts structure (should remain plain text like other 'Number' lines).",
+        "Meaning drift/formatting artifact: stray '}' after 'Number 2' carried over; should be removed to match original punctuation/meaning. (Original shows 'Angka 2 }' as a scan artifact; keep consistent formatting by removing the brace in English.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/incorrect reference: \"State Gazette year 1973 No 350\" should be \"State Gazette of 1973 No. 350\" (and keep the reference as in the original).",
+        "Minor meaning drift: \"Kesatuan Polri\" rendered as \"Police Unit\"; should be \"Indonesian National Police (Polri)\" contextually.",
+        "Meaning drift/typo: \"Women't Crisis Center\" in the original should be translated as \"Women's Crisis Center\" (WCC).",
+        "Meaning drift/unnatural attachment in Article 6: the phrase \"husband, wife and children\" is incorrectly attached to the list of protecting parties; it should refer to who receives protection (husband, wife, and children).",
+        "Minor meaning drift in Article 9(1): \"Kesatuan Polri\" is rendered as \"Indonesian National Police (Polri)\"; it should be \"a police unit\" (within the police), not the institution as a whole."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_JOMBANG.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.645184+00:00",
+  "prompt_version": "v2"
+}

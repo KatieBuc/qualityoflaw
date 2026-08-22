@@ -1,0 +1,71 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 6,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched heading: original has \"# BABI\" but translation renders it as \"# CHAPTER I\" (should preserve the same heading text/structure).",
+        "Scrambled numbering in Article 1: items 7 and 8 are merged into one line; original has a standalone \"atau\" line between items 6 and 7 that is missing.",
+        "Meaning drift/omission: the standalone word \"atau\" (\"or\") after item 6 in Article 1 is omitted.",
+        "List formatting issues: in Article 2 and Article 4, list items b/c/d are run together (\"b. ... c. ... dand. ...\" / \"b. handling; c. empowerment.\"), risking downstream boundary detection.",
+        "Leftover extraneous page markers retained (e.g., \"2-\", \"3-\", \"5-\")—kept but need consistent placement; also \"and\" inserted between institutional headings not present in original.",
+        "Heading not translated: \"# BABI\" should be rendered as \"# CHAPTER I\" (currently left as Indonesian/typo).",
+        "Scrambled/garbled text carried over in preamble: stray fragment \"violence and so that\" does not reflect the Indonesian text segment \"kekerasan dan agar dapat bahwa\" and should be translated consistently (even if source is corrupted).",
+        "List/marker formatting errors: in Article 2 the items \"c.\" and \"d.\" are merged (\"andd.\"), and in Article 3 item \"f.\" is merged (\"andf.\"); original has separate markers.",
+        "Stray page markers not part of legal text: \"2-\", \"3-\", \"5-\" appear in the translation and should be removed (they are pagination artifacts in the source)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list markers in Article 6: original has separate items e., f., g., h. but translation merges them as \"e....,f...\" and \"andh...\".",
+        "Scrambled/missing list markers in Article 7(1): original has a–j, but translation omits the marker for item f (\"lingkungan yang sehat dan bersih\"), and merges markers/content for i and j (\"i...j...\").",
+        "Stray standalone text line in Article 9(1): \"anti-violence\" should be integrated as part of item b (\"anti kekerasan\"), not left as a separate paragraph.",
+        "Minor meaning drift/term choice: \"sosialisasi\" better rendered as \"disseminating\" (legal outreach) rather than \"socializing\"; also keep \"Regent Regulation\" as \"Regent's Regulation\" consistently (optional but improves legal meaning).",
+        "Scrambled/incorrect list structure in Article 6: items e–h are merged in the Indonesian source (\"e.\" runs into \"f.\", \"dan\" runs into \"h.\"), but the translation normalizes them into separate items, changing the marker/content mapping required downstream.",
+        "Scrambled/incorrect list structure in Article 7(1): the Indonesian source has several run-on/merged markers and stray lines (e.g., \"a.\" runs into \"b.\", a standalone line \"lingkungan yang sehat dan bersih;\", a standalone clause about special protection, and merged \"i.\"/\"j.\"), but the translation restructures them into clean a–j items and relocates content, altering boundary/marker alignment.",
+        "Scrambled/incorrect list structure in Article 9(1): the standalone text \"anti kekerasan\" is not kept as its own line between items b and c as in the source; it is attached to item b in the translation.",
+        "Meaning drift in Article 21(1) item f: Indonesian \"f bantuan pemulangan\" (repatriation/return assistance) is translated as \"return assistance\" but the list marker formatting is inconsistent (\"or f\"), and the original lacks the word \"or\"; needs to mirror the original marker sequence/formatting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list structure: in Part Three Supervision, Article 24 paragraph (1) marker is missing and paragraph (2) is embedded mid-sentence; original has a stray '1. Pemerintah' that continues into the next section and must be preserved as a list item marker/content.",
+        "Broken list formatting in Article 24(2): 'meliputi:a.' is not separated; subitems a–e and punctuation/spacing (d./e.) are run together; needs to preserve markers a.–e. in order with their associated content.",
+        "Meaning drift/garbling in dates and place names: 'Diundangkari'/'6 pistes 2019' and 'é agustus 2019' are corrupted in the source; translation introduces 'pistes' and lowercases/changes month; should preserve the garbled tokens as-is (or minimally normalize without inventing).",
+        "Minor meaning drift: 'professional' should be 'professional' (OK) but the sentence should reflect 'dengan prinsip professional, transparan dan akuntabel' as 'based on the principles of ...' rather than 'with ... principles' (clarity).",
+        "Scrambled/mismatched list structure in Part Three/Article 24: original has a stray '1. Pemerintah' before the next heading and then continues 'daerah ... (2) ...'; translation instead inserted a new '1.' item and left '(2)' as a separate paragraph, not matching the original marker sequence.",
+        "List marker formatting mismatch: original uses inline 'meliputi:a.' with subsequent 'b., c., d. Pemantauan,e. Evaluasi.' on same line; translation reformatted into an indented sublist. This changes downstream boundary/marker matching.",
+        "Meaning drift/omissions in closing section dates: 'é agustus 2019' and '6 pistes 2019' were not translated/normalized; month names remain Indonesian/garbled and should be rendered as 'August' while preserving the uncertain characters.",
+        "Heading/list boundary issue: 'Masyarakat' appears as a standalone line in the original (not a heading); translation changed it to 'The Community' but kept it as a standalone line—ok—but needs to ensure it remains in the same position relative to headings and articles while fixing Article 24 numbering."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_SELATAN_LUWU.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.727954+00:00",
+  "prompt_version": "v2"
+}

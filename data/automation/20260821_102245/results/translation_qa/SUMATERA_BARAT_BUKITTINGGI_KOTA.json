@@ -1,0 +1,104 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 7,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: 'Indoensia' in the original is rendered as 'Indonesia' in item 1; should be kept as in source for fidelity in legal-indicator processing.",
+        "Meaning drift/typo carried into translation: \"Indoensia\" should be \"Indonesia\" in item 1.",
+        "Meaning drift: \"Pembentukan Peraturan Perundang-Undangan\" is better rendered as \"Formation/Establishment of Laws and Regulations\" rather than \"Formulation of Legislation\" (potentially changes legal term of art)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/flattened list structure: in Article 2 the marker “(1)” is embedded in a sentence while items 2–4 are separate; should be a consistent numbered list (1)–(4).",
+        "Scrambled list formatting in Article 3: items a–i are run together on the same lines (e.g., “a. ... b. ...”), risking boundary-based parsing; should be one item per marker in order.",
+        "Minor meaning drift/terminology: “tindakan keputusan dan kebijakan” rendered as “actions, decisions and policies”; should reflect “actions, decisions, and policies” (i.e., include “decisions” explicitly as a noun phrase tied to “actions/decisions/policies”), and “hak-hak azazi” should be consistently “human rights” (already mostly OK) but keep structure clear.",
+        "Broken list/numbering structure in Article 2: item markers are inconsistent with the original (original uses '(1)' then '2.', '3.', '4.'; translation starts a new line for '(1)' but does not keep it inline as in the original, risking boundary-based parsing).",
+        "Broken list/numbering structure in Article 3: in the original, items a–i are run together on one line (a. ... b. ... c. ...), but the translation reformats them into separate lines; this changes the Markdown/list structure used for downstream splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list structure: in the original, the lettered items (a.–u.) under Article 6 and Article 7 are presented as a continuous inline sequence; the translation reformats them into separate lines, which changes the Markdown/list-marker structure used for downstream splitting.",
+        "Meaning drift in Article 7(f): Indonesian says to obey all provisions that are considered able to damage oneself and one's future (i.e., avoid harmful things); translation says to comply with provisions deemed capable of damaging themselves and their future (opposite meaning).",
+        "Scrambled/merged list structure: several lettered items run together on the same line (e.g., a–r; also r. and s. are merged), which can break downstream boundary splitting; each list marker should be separated and kept in order.",
+        "Meaning drift in Article 6 letter l: original has typo 'disanilitas' but clearly refers to 'disabilitas'; translation is fine, but keep structure; also Article 9(d) wording is awkward ('facilities and facilities')—not meaning drift but needs correction for clarity without changing meaning."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 10: item (3) is missing as a numbered item and is merged into item 2; several lettered subitems are concatenated (e.g., 'includes:a.', 'd. ... e.', 'f. ... g.', 'andk.', 'andj.', 'andf.') instead of appearing as separate markers in order.",
+        "Meaning drift in Article 10(5)(f): 'panti' (orphanage/institution) was mistranslated as 'institutions' rather than 'orphanages'/'shelters', changing the referent.",
+        "Minor meaning drift/terminology: 'panti milik masyarakat' in Article 10(5)(f) rendered as 'community-owned institutions' instead of 'community-owned orphanages/shelters' (consistent with (d) 'panti').",
+        "Scrambled numbering/list structure in Article 10(2): in the original, item (2) contains subitems a–k and then continues directly with item (3); the source text has several run-together markers (\"meliputi:a.\", \"...pemerintah; e.\", \"...kelurahan; g.\", \"...perempuan; dank.\", \"keluarga. (3)\", \"sekolah:a.\", \"...masyarakat; danj.\", \"...lembaga; danf.\") that must be preserved as distinct list items in the same order. The translation regularized these, but to match the source boundaries for downstream splitting, the markers must appear exactly once and in the same sequence, including the parenthetical (3) style.",
+        "Meaning drift risk from structural normalization: the translation changes the source's explicit marker \"(3)\" to \"3.\"; downstream systems relying on exact marker forms may mis-split or mis-associate content."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in several places: Article 23(5), Article 29(1), Article 29(2), Article 30(2), Article 31(3) have lettered items (a, b, c, etc.) run together (e.g., 'form of:a.' / 'andc.' / 'andd.' / 'ande.' / 'andi.') instead of separate list items in order.",
+        "Minor meaning drift/terminology: 'Peraturan Walikota' should be rendered consistently as 'Mayor Regulation' (not 'Mayor's Regulation') to reflect the Indonesian legal instrument name; corrected for consistency in Articles 28(2), 29(3), 30(3), 33.",
+        "Broken Markdown structure: in the original, the title under BAB IX is a level-2 heading (\"##\"), but the translation renders it as plain text (missing \"##\" heading)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_BARAT_BUKITTINGGI_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.743808+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,105 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list markers in the 'Considering' section: the original has an unlabelled first point followed by b., c., d.; the translation is missing the initial 'a.' marker and uses 'C.' instead of 'c.'",
+        "Scrambled/incorrect numbering structure in the 'In View of' section: the original shows fragmented markers (\"1.\", \"2. 3.\") and later repeats/continues numbering (2., 3., 4., 5., 6., 7., 8., 9.); the translation further scrambles these (e.g., \"3. Law\" / \"4. Number...\", \"6. Law\" / \"7. Number...\") and leaves some items without their intended numbers",
+        "Meaning drift/typo carried over: 'Agains Women' in the original convention title should be rendered as 'Against Women' in English (translation currently has 'Against', but ensure consistent correct convention name); also 'State Gazette ... year 1948' reflects the original typo but should not be 'corrected' beyond faithfully translating—kept as-is",
+        "Scrambled/incorrect list-numbering structure in the 'In View of/Mengingat' section: the original has mixed/fragmented markers (\"1.\", \"2. 3.\", then later \"2.\", \"3.\", \"4.\", a stray \"5.\" line, \"6.\", \"6. ... 7.\", and \"8.\", \"9.\"), but the translation introduces/duplicates numbering (e.g., two \"5.\" items, two \"6.\" items) and mis-associates markers with content (e.g., \"5.\" appears both before and inside the Witness/Victims law citation).",
+        "Meaning drift/typos in legal citation: \"Agains Women\" should be \"Against Women\" (reflecting the convention title), and the Indonesian text says \"Lembar\"/\"Lembaran\" but translation inconsistently renders; also the year \"1948\" appears in both original and translation but is likely a source typo—must be preserved, but the convention title should be corrected."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the original has the heading \"# BAB II\" followed by \"## HAK PEREMPUAN\", \"## Bagian Pertama\", and then an unheaded line \"Hak Dasar Perempuan\"; the translation incorrectly turns that last line into a heading-like title case line (should remain plain text, not a heading).",
+        "Meaning drift: \"Hak Dasar Perempuan\" is rendered as \"Basic Rights of Women\"; more accurate is \"Basic Rights of Women\" but it should remain as plain text (not a heading)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/broken list structure in Article 2: item numbering repeats/misplaced (a stray \"1.\" appears after item 2; sub-items l and m are missing as markers and their text is concatenated into the previous line).",
+        "Scrambled/broken list structure in Article 6(3)-(4): sub-items a–d are collapsed/misordered (\"a. b. C. d.\"), and paragraph (4) is merged into the same line as item d.",
+        "Multiple list markers are concatenated with conjunctions (e.g., \"andh.\", \"andk.\", \"andi.\", \"andg.\", \"andc.\") instead of preserving separate markers a., b., etc., which breaks downstream boundary detection.",
+        "Scrambled/mismatched list structure in Article 2(2): in the original, items l and m are incorrectly preceded by a repeated \"1.\" and run together with \"m.\"; the translation presents them as l and m under paragraph (2) without reflecting the original numbering anomaly, which can break downstream boundary-based retrieval.",
+        "Minor meaning drift in Article 2(2)(a): \"tentram, aman, damai\" is rendered redundantly as \"peacefully, safely, in peace\"; should be kept closer as \"peacefully, safely, and in harmony\" (still same meaning but avoids duplication)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering and list structure: Article 13(3) is merged into item 2; several lettered list items are merged (e.g., 'andh.', 'andf.', 'andc.', 'andg.', 'ande.').",
+        "Extraneous/non-legal text left in translation: stray '· 13' line (page number) and stray '1.' line after Article 14(2).",
+        "Meaning/structure drift in numbering format: Article 24 uses '(1)' while other articles use '1.'; should mirror original markers consistently within the translated section.",
+        "Broken list/numbering structure: Original Article 14 contains an extra standalone list item \"1.\" after paragraph (2) which is missing in the translation.",
+        "Meaning/content omission: Original Article 16 contains stray text markers \"· 13\" and an uppercase list marker \"C.\"; the translation omitted the \"· 13\" line (even if it is likely a pagination artifact, it is part of the provided source text and must be preserved for downstream boundary matching)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list markers and formatting: Article 26 item 'C.' should be 'c.'; Article 28 has merged 'a. b.' into one line and loses separate list items; several places have concatenated markers/text (e.g., 'andb.', 'andd.', 'andf.', 'andg.')",
+        "Meaning/structure drift due to misplaced fragments and incomplete clauses: stray/incomplete lines such as '1. The organization of', 'on supervision of the organization', 'who (3)', '1. In order to', and Article 30 opening phrase order is garbled; these should remain but be positioned/translated to match the original structure",
+        "Broken numbering structure in Article 32: paragraph (3) is not properly marked as item 3 and is preceded by stray text; list in paragraph (4) has merged marker/content ('as follows:a.')",
+        "Scrambled/incorrect list structure in Article 28: original has markers \"a.\" and \"b.\" but translation leaves \"a.\" empty and merges content into \"b.\"; needs reassociation so each marker has its correct content.",
+        "Meaning drift/garbling in Article 32(2): translation adds stray word \"who\" and the sentence is ungrammatical; needs to reflect the original meaning that UPTD PPA is under the regional apparatus responsible to the head of the apparatus administering women’s empowerment and child protection affairs.",
+        "Numbering marker mismatch in Article 32: original contains \"(3)\" inline; translation renders it as \"(3)\" on its own line and also leaves an extra stray line break; keep numbering consistent and remove stray fragment.",
+        "Minor marker/case fidelity: in Article 26 the original list item is \"C.\" (uppercase) and should be preserved as \"C.\" (not \"c.\") to match downstream boundary expectations.",
+        "Leftover fragmentary text carried over from source formatting (e.g., \"1. The organization of\", \"on supervision of the organization\", \"1. In order to\") should be preserved but positioned as in the original; ensure they remain as standalone numbered/paragraph fragments without introducing extra headings or reordering."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering and list structure: Article 36 paragraph (2) is embedded in a stray phrase instead of being a separate item; Article 38 item (3) contains an extraneous '(4)' and lettered points a–d are run together (e.g., '(4)a.' and 'andd.'); Article 40 item (4) lettered sanctions a–i are merged with the lead-in and 'and/ori.' is malformed; paragraph (5) is appended to item (4) instead of being its own numbered item.",
+        "Meaning/clarity impacted by structural corruption: list markers are not cleanly separated, risking downstream mis-parsing of obligations and sanctions.",
+        "Scrambled/garbled numbering in original Article 36(2) line (“tugasnya kepada (2) …”) not reflected; translation normalizes it but should preserve the intended paragraph marker sequence from the source.",
+        "List/numbering markers in the original are corrupted and include extra markers (Article 38 has “(4)a.”; Article 40 has “... dan/ataui.” and “(5) ...”); translation omits these artifacts, but downstream boundary-splitting requires preserving the markers as they appear in the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_BEKASI.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.582771+00:00",
+  "prompt_version": "v2"
+}

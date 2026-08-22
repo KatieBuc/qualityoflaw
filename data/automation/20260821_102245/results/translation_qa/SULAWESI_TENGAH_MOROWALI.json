@@ -1,0 +1,78 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [
+    "Article I"
+  ],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list markers in several places: lettered items are merged (e.g., 'a. b.'; 'c. d. In view of:'; 'andj.'; 'and/ord.'; 'andc.'; 'and/ore.'; 'andd.') and some markers are attached to the wrong text.",
+        "Meaning drift/typos carried over that should be normalized for legal indicator parsing: 'Article I' should be 'Article 1' (Pasal I is intended as Pasal 1 in this context); 'UP/[D PPA' should be 'UPTD PPA'.",
+        "Minor meaning/clarity issue: 'domestic neglect' should reflect 'penelantaran rumah tangga' as 'household neglect' (not necessarily 'domestic' in the sense of domestic violence).",
+        "Broken list-marker structure in the preamble: original has combined markers \"a. b.\" and \"c. d.\" and \"1. 2.\" on the same lines; translation splits them into separate lines, which can break downstream boundary-based retrieval.",
+        "Minor meaning drift/normalization: original has \"Kabupaten Morowali\" (Morowali Regency) but the translation uses \"Morowali Regency\" consistently; however the main required correction is structural—restore list-marker formatting to match the original exactly. (No content added/removed.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list structure in Article 10: item (4) is not formatted as a numbered list item like (1)-(3).",
+        "Scrambled numbering/list structure in Article 12: items (3) and (4) are embedded in the same paragraph as item 2 instead of being separate numbered items.",
+        "List marker formatting mismatch in Article 10 and Article 12: original uses (4) and (3)/(4) markers; translation should preserve these as separate items in sequence for downstream splitting.",
+        "Scrambled/altered list-marker structure in Article 7: original has “dan/atau d.” on the same line (no blank line); translation splits “and/or” onto its own line and separates item d with an extra blank line.",
+        "Scrambled/altered list-marker structure in Article 11: original has “dan/atau e.” on the same line (no blank line); translation splits “and/or” onto its own line and separates item e with an extra blank line."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered/numbered items are run together (e.g., Article 19 item c and subitems 1–3; Article 20 items a–c; Article 22(1) items a–k and Article 22(2) items a–g; Article 24(1) items a–h; Article 27(2) items a–e and paragraph (3); Article 29 paragraph (2) is mistranscribed as “(21” and merged with its content).",
+        "Meaning drift/typos affecting legal references: Article 22 reference rendered as “Article 17 paragraph (f) letter e” (should be paragraph (1)); Article 29 paragraph numbering “(21” should be “(2)”.",
+        "Leftover non-legal commentary appended at end: “This excerpt sits under: CHAPTER VI > …” is not part of the regulation text.",
+        "Broken numbering marker in Article 26: original uses (1) but translation shows (f).",
+        "Meaning drift in Article 26(2): original says further provisions are regulated by a Regent Regulation (Peraturan Bupati), not 'Regent Regulation' is fine, but it must clearly be 'Regent Regulation' as the instrument; keep consistent phrasing while fixing the paragraph reference to (1)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Leftover note/commentary at end of translation: \"This excerpt sits under: CHAPTER XII > CLOSING PROVISIONS > Article 34\" is not in the original text and must be removed.",
+        "Meaning drift/normalization: original contains the marker \"JJ\" (likely a scan/typing artifact) and translation should preserve it exactly as in the original list sequence; keep as \"JJ\" (not interpret or change).",
+        "Broken/scrambled numbering and list-marker structure: multiple occurrences of \"Pasal Pasal\"/\"Article Article\" and standalone \"Pasal\"/\"Article\" headings are not rendered as proper article headings; numeric markers (2–8, 29–34, etc.) are embedded in running text instead of being preserved as distinct article headings/markers as in the source.",
+        "Meaning drift/garbling in several places due to source OCR issues not handled: e.g., \"NOMOR TAHUN2022\" rendered as \"NUMBER YEAR 2022\" (missing the absence of the number), \"Pasal 1O\" uses letter O vs 10, \"Pasal 1 1\" spacing, and \"JJ\" left untranslated/unclear; also \"hak pelayanan dasa/\" mistranslated as \"basic services\" without reflecting the truncated source.",
+        "Markdown structure not faithfully preserved for the 'Pasal demi Pasal' section: the translation should keep each repeated heading line and the subsequent 'Cukup jelas' blocks aligned; currently content is merged into paragraphs, making boundary-based retrieval unreliable. "
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_TENGAH_MOROWALI.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.733103+00:00",
+  "prompt_version": "v2"
+}

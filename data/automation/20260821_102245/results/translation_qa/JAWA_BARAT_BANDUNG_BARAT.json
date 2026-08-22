@@ -1,0 +1,94 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [
+        "Meaning drift in item 20: original refers to Law No. 23 of 2014 as amended most recently by Law No. 9 of 2015 concerning the Second Amendment to Law No. 23 of 2014; translation incorrectly says 'Second Amendment to Law Number 23 of 2015' and also mismatches the year/number in that clause.",
+        "Meaning drift in item 20: original refers to Law No. 23 of 2014 as amended most recently by Law No. 9 of 2015; translation incorrectly says 'Second Amendment to Law Number 23 of 2014' but the original says 'Second Amendment to Law Number 23 of 2015' (as written in the source text)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 39: 'kabupaten' (regency/district) was translated as 'city'.",
+        "Minor meaning/grammar issue in item 10: 'atas hak-haknya' rendered as 'over their rights' (should be 'in/with respect to their rights').",
+        "Meaning drift in item 39: original defines KLA as a 'city' (kota), but translation renders it as a 'regency' (regency)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers due to missing spaces/newlines: occurrences of \"andf.\", \"andc.\", \"andl.\", \"andd.\", \"ande.\", and \"contains:a.\" cause list items to run together (Article 4(e)-(f), Article 5(1)(a)-(c), Article 8(1)(l), Article 8(3)(a)-(d), Article 9(2)(f), Article 10(2)(e)-(f), Article 12(e), Article 14(c)-(g)).",
+        "Meaning drift/typo: Article 5(1) list marker is wrong in the original (a, b, d, c); translation normalized it to a, b, c. Must preserve the original marker sequence for downstream splitting.",
+        "Scrambled/incorrect list marker in Article 5(1): original has subitems a, b, c, but translation uses a, b, d (missing c and wrong letter)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 15: item f runs into g in the original; translation keeps 'g.' but f/g should be separate list items with consistent formatting.",
+        "Scrambled/merged list markers in Article 16: original has 'c. Desa PRIMA; dand. P2WKSS.' (missing space/newline); translation corrects meaning but needs to preserve list item separation explicitly (c and d as separate items).",
+        "Scrambled/merged list markers in Article 17(1): original has 'berupa:a.' (missing space/newline); translation fixes but should ensure numbering/list structure matches (1) with a–c under it).",
+        "Minor meaning drift in Article 24(1)(d): 'pemulangan' is 'return/repatriation' (not necessarily cross-border); 'repatriation' can imply international return. Use 'return' to stay neutral."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered sub-items are concatenated with preceding text (e.g., Article 27(2) 'functions:a.' and 'andc.'; Article 31(2) 'including:a.' and 'and e.'; Article 33(2) 'include:a.' and 'ande.'; Article 35 sources 'andb.'). This breaks marker boundaries required downstream.",
+        "Minor meaning drift/word choice: 'psikis' rendered as 'psychic' (should be 'psychosocial/psychiatric/mental' context); keep meaning aligned while preserving content.",
+        "Scrambled/altered list-marker structure: in Article 27(2) the original has inline markers \"a.\", \"b.\", \"c.\" (with \"dan c.\"), but the translation reformats them into a nested bullet list, changing the marker structure used for downstream splitting.",
+        "Scrambled/altered list-marker structure: in Article 28 the original list items \"a.\" and \"b.\" are part of the same paragraph line; the translation inserts a blank line and reformats them as a separate list block, changing marker association/boundaries.",
+        "Scrambled/altered list-marker structure: in Article 31(2) the original has inline markers \"a.\"–\"e.\" (with \"dan e.\"), but the translation reformats them into a nested bullet list, changing the marker structure used for downstream splitting.",
+        "Scrambled/altered list-marker structure: in Article 33(2) the original has inline markers \"a.\"–\"e.\" (with \"dan e.\"), but the translation reformats them into a nested bullet list, changing the marker structure used for downstream splitting.",
+        "Scrambled/altered list-marker structure: in Article 35 the original has inline markers \"a.\" and \"b.\" on the same line (\"danb.\"), but the translation reformats them into a separated list block, changing marker association/boundaries."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_BANDUNG_BARAT.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.579770+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,91 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Extraneous page/formatting artifacts carried over and embedded in text (e.g., \"46 - 3 -\", standalone \"4 -\", \"5 -\", \"6 -\", \"7 -\"), which are not legal content and disrupt structure.",
+        "Meaning drift in item 30: \"Penanggulangan Pekerjaan Anak\" means countermeasures/handling of child labor, not \"Prevention of Child Labor\".",
+        "Meaning drift/typo carried over in item 18 protocol title: should be rendered as the proper protocol name (suppress; persons; children; United Nations), not the garbled \"Suppres... Personsm... Childrenm... United Nation\".",
+        "Broken line/parenthesis structure in items 32–33: the supplement number is split onto a new line and parentheses are not properly closed, disrupting Markdown/text integrity.",
+        "Broken numbering/structure: the standalone page markers \"46 - 3 -\", \"4 -\", \"5 -\", \"6 -\", \"7 -\" present in the original are missing in the translation, which changes the document's marker sequence used for downstream splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering structure in Article 7: item (3) appears as a standalone line after a page marker \"12 -\" instead of as list item 3 under Article 7 (should be \"3.\" in sequence after 1. and 2.).",
+        "Scrambled list/numbering structure in Article 7: original has item “(3)” (with page marker “12 -”) but translation renders it as “3.”, changing the marker format/order used downstream.",
+        "Minor meaning drift in Article 7(1): “penanggulangan” is closer to “response/handling” than “mitigation”; adjust to avoid narrowing the obligation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/malformed numbering in Article 9(2): item (3) is merged into item 2 and item 3 is missing as a separate list entry.",
+        "Scrambled list structure in Article 10(3): sub-items a–d are not properly separated from the main item text (\"Principles...:a.\").",
+        "Scrambled/malformed numbering in Article 14(1): item (2) is merged into item 1 and item 2 is missing as a separate list entry.",
+        "Scrambled numbering/marker structure in several places: original has items merged (e.g., Article 9 item 2 contains the text of item 3; Article 14 item 1 contains the text of item 2; Article 15 item 2 is prefixed by stray '16 -'), but the translation partially split/reflowed them inconsistently. Markers like '13 - (5)', '14 - (3)', '15 - (3)', '16 - (2)', '17 -', '18 -' must be preserved as in the original and associated with the correct clause.",
+        "Meaning drift risk from restructuring: Article 9(2)-(3) and Article 14(1)-(2) boundaries must match the original (including keeping '(2)' as part of item 1 in Article 14, not a separate list item)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: original has heading '##### II. PASAL DEMI PASAL' but translation uses '##### II. ARTICLE BY ARTICLE' instead of '##### II. ARTICLE BY ARTICLE' being acceptable; however the required structure expects a direct equivalent of 'PASAL DEMI PASAL' as 'ARTICLE BY ARTICLE' is fine—no issue. Actual issue: original headings '##### NOMOR TAHUN' and others are fragments; translation keeps them but '##### NUMBER YEAR' is ungrammatical and drifts meaning from 'NOMOR ... TAHUN ...' (missing the implied regulation number and year placeholders).",
+        "Meaning drift/awkward legal rendering: 'NUMBER YEAR' should reflect 'NUMBER ... YEAR ...' (i.e., 'NUMBER ... OF YEAR ...' / 'NUMBER ... YEAR ...' as a placeholder), and 'needs to be owned by South Tangerang City' mistranslates 'perlu dimiliki' (should be 'needs to have/needs to adopt').",
+        "Broken Markdown structure: heading level mismatch for \"Pasal 1–4\" (original uses \"#### Pasal\" but translation uses \"#### Article\"; should be \"#### Article\" at the same level as original, which is correct—however original has \"#### Pasal\" under \"##### II. PASAL DEMI PASAL\" and translation matches levels; no issue there. Actual issue: none found in headings/levels.",
+        "Meaning drift: \"NOMOR TAHUN\" translated as \"NUMBER ... OF YEAR ...\" adds ellipses not present in original and changes content.",
+        "Meaning drift: \"NOMOR TAHUN\" should be rendered as \"NUMBER ... YEAR\" or \"NUMBER OF YEAR\" without added placeholders; translation introduces \"...\" not in source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: in Article 6, Letter b and Letter c are run together in the original but should be clearly separated as distinct items; translation partially merges them into one paragraph line break only.",
+        "Scrambled/merged structure: in Article 11, Paragraph (2), (3), and (4) are run together in the original; translation keeps them but without clear separation/line breaks, risking downstream boundary detection.",
+        "Scrambled/merged structure: in Article 17, Paragraph (2) and Paragraph (3) are run together in the original; translation places Paragraph (3) immediately after Paragraph (2) without a clear paragraph break.",
+        "Minor meaning drift/terminology: 'pengaduan' is 'complaints/reporting' (filing complaints), not 'complaints' in general; clarify as 'reporting/complaints filing' to match legal sense.",
+        "Scrambled/merged structure in Article 6: original has Letter b and then Letter c within the same paragraph; translation splits them into separate paragraphs, changing boundary structure used for downstream splitting.",
+        "Scrambled/merged structure in Article 11: original merges Ayat (2), Ayat (3), and Ayat (4) into one continuous paragraph; translation separates them into distinct paragraphs, changing boundary structure.",
+        "Scrambled/merged structure in Article 17: original merges Ayat (2) and 'Ayat (3) Cukup jelas.' into one continuous paragraph; translation separates Paragraph (3) into its own paragraph, changing boundary structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "BANTEN_TANGERANG_SELATAN_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.555423+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,19 @@
+Translate the following Indonesian legal text into English.
+
+The input is Markdown, and the output must be Markdown with the identical
+structure. Specifically:
+- Every heading stays a heading at the same level: a line beginning with
+  "#### " must come back beginning with "#### ", never "###" or "#####".
+- Translate the heading text itself (BAB -> CHAPTER, Bagian -> Part,
+  Paragraf -> Paragraph, Pasal -> Article), but keep its numbering exactly as
+  written, including Roman numerals.
+- Keep every list marker, clause number and cross-reference unchanged:
+  "a.", "(1)", "3)" stay "a.", "(1)", "3)".
+- Keep the same number of paragraphs and list items, in the same order. Do not
+  merge, split, reorder, summarise or omit anything.
+- Preserve trailing line breaks and blank lines as they appear.
+
+Do not wrap the output in a code fence. Do not add a preamble, a title, or any
+commentary. Respond with the translated Markdown only.
+
+{text}

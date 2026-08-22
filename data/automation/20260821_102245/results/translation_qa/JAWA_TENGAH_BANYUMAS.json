@@ -1,0 +1,89 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the phrase \"KOREAN\" in the title line is missing in the English (original appears to contain a typo but must be preserved as-is for downstream matching).",
+        "Minor meaning drift: \"Menimbang\" is rendered as \"Considering\" (acceptable), but the final \"Menetapkan\" line omits the word \"KOREAN\" present in the original title; needs to match the original wording.",
+        "Meaning drift/leftover untranslated word: \"KOREAN\" appears in headings and final clause; should be \"victims\" (korban).",
+        "Minor meaning drift: \"Mengingat\" rendered as \"In View of\"; standard/legal equivalent is \"In view of/Considering\" but better as \"In view of:\" with proper punctuation; also original has \"Mengingat 1.\" on same line—keep numbering structure but add colon for clarity without changing markers.",
+        "Formatting/line-break issue in item 6: stray line break before \"4419\" and punctuation \"4419. ;\" should be normalized while preserving content. (Original also has a break, but translation can keep it on one line without changing meaning.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/corrupted list markers in several places: stray 'T' attached to items (Article 3 'Tb.', Article 8 'Tc.') and missing line breaks causing merged markers/content (Article 5 'and/orf.', Article 8 'and/ord.', Article 9 'and/ord.').",
+        "List marker error in Article 2: item 'l.' is mistranscribed as '1.' (number one), which breaks the lettering sequence and downstream parsing."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list markers are concatenated with adjacent items (e.g., Article 11 'and b.', Article 12 'a.' on same line as item 1, '(2)' attached to prior sentence, 'Td.' artifact, Article 13 'andd.', Article 22 'include:a.' and '(2)' attached; stray symbols '•\\3 Tc.'), which breaks downstream boundary detection.",
+        "Meaning drift/typos: Article 21(c) renders 'Penyelidikan dan/atau penyidikan' as 'Investigation and/or investigation' (should distinguish inquiry/investigation); various OCR artifacts ('Td.', 'V—-') left in text.",
+        "Broken/scrambled list structure in Article 12: original has item numbering \"1.\" then inline subitems \"a.\" \"b.\" \"c.\" \"d.\" and then \"(2)\"; translation reformats but keeps markers—however original has \"(2)\" (parenthesized) and translation uses \"(2)\" but original also has \"3.\" and \"4.\"; structure is mostly preserved. Main issue is Article 11 list marker formatting: original has \"a.\" then immediately \"danb.\" (b. attached) indicating two items; translation correctly separates, but must ensure both markers appear once in order (OK).",
+        "Meaning drift/omission: Article 12(2) item c in original is corrupted \"Td.\" (likely \"d.\") and translation renders as \"c.\" then \"d.\"; also original Article 12(2) introductory phrase \"mempunyai kewenangan untuk:a.\" has no space; translation is fine. The real meaning drift is in Article 21(a): original distinguishes \"bantuan pendampingan hukum litigasi\" and \"non litigasi\" (legal accompaniment/assistance), translation reduces to \"litigation legal assistance and non-litigation legal assistance\" (drops 'accompaniment/assistance' nuance). Also Article 23(b) original \"antar kabupaten/kota\" (inter-district/city) translated as \"between districts/cities\" (acceptable). Need to correct Article 21(a) to reflect 'legal accompaniment assistance'."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering in Article 27: item (2) is embedded in item 1 instead of being a separate list item.",
+        "Extraneous/garbled text carried over from source scan (e.g., \"-yv\", \"T 17\", \"^\", \"jfioj JabatanID.a\", \"1 g MAR 2015\", etc.) should be preserved but not treated as list markers; however the translation also duplicates large sections (repeats Article 36(d)-(f), Chapter IX, Chapter X, Article 37 and Article 38) mirroring the original duplication—this is acceptable, but the structure must remain consistent.",
+        "Meaning drift/typo: \"paragraph (l)\" should be \"paragraph (1)\" in Article 28(2).",
+        "Scrambled numbering in Article 27: original has '1.' then '(2)' on same line; translation uses '2.' instead of '(2)'.",
+        "List/marker formatting issues: missing space after colon before 'a.' in Article 28(2); Article 33(2) marker is corrupted ('-yv (2)') and should be a separate item '(2)'.",
+        "Leftover OCR/noise carried into translation that should be preserved but correctly positioned as part of the legal text markers: 'T 17' in Article 36(2) and '^' in Article 37; ensure markers/content association is correct.",
+        "Broken structure due to duplicated blocks at the end (repeated Article 36(d)-(f) and paragraph (3), then repeated CHAPTER IX/CHAPTERX/Article 37/38). This duplication exists in the source and must be preserved, but the translation must keep headings and list markers in correct order and association."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched heading content: original has an extra heading line \"PENYELENGGARAAN PERLINDUNGAN 'FBRHABAP KOREAN\" which is missing from the translation (translation instead merges/rewrites it as part of the next heading).",
+        "Scrambled/flattened list structure: many lettered items (Huruf a, b, c, etc.) and paragraph markers (Ayat (1), Ayat (2)) are run together on one line in the translation (e.g., Articles 18, 20, 22, 24, 29, 32), not preserving the original marker-by-marker sequence and separations.",
+        "Meaning drift/omission: Article 32 repeats \"Huruf b\" in the original (once under Ayat (1) and again after Huruf c); the translation collapses this and loses the structure. Also original contains stray markers (e.g., \"v_\" and \"^\"), which are omitted in translation and should be preserved as they are part of the source text stream used downstream.",
+        "Scrambled/incorrect list structure in Article 32: after Paragraph (1) points a–c, the translation repeats 'Point b' instead of reflecting the original's continuation ('Huruf b Cukup Jelas') which appears to be a duplicated marker in the source; numbering/marker sequence needs to match the original exactly.",
+        "Minor meaning/term issue in Article 32 Point c: 'pertanyaan yang menjerat' is better rendered as 'leading/trapping questions' rather than 'entrapping questions' (to preserve intended legal meaning)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_BANYUMAS.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.598421+00:00",
+  "prompt_version": "v2"
+}

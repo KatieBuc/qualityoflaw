@@ -1,0 +1,100 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect numbering structure in the 'In View of' section: items 5–16 are collapsed into a single line ('5. 6. 7...16.') instead of being separate numbered items as in the original.",
+        "Meaning/structure drift in the legal-basis list: the content corresponding to items 6–16 is not properly separated and associated with its respective numbers; several instruments are run together into one paragraph, breaking downstream boundary-based retrieval.",
+        "Meaning drift/omission: Original list item numbering includes placeholders “5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16.” before the next citation; the translation omits these placeholders and instead renumbers the subsequent citations as items 6–16, altering the structure used for downstream splitting.",
+        "Scrambled/incomplete legal-citation text: Several citations in the original are garbled/incomplete; the translation replaces/normalizes parts (e.g., inserts “Law Number 9 of 2015” and completes/changes fragments) rather than preserving the original content as-is, and leaves some items truncated (e.g., item 6 ends with “Number i /”, item 7 and 11 missing closing citation details)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list-numbering structure in Article 1: definition items 1–21 are not consistently separated; item 7 is missing as a numbered marker and its content is merged into item 6; several items run together (e.g., 4–6, 14–21).",
+        "Meaning drift in Article 1 item 12: Indonesian defines 'Korban tindak kekerasan' (victims of violence), but translation renders it as 'Acts of violence' (the act itself).",
+        "Meaning drift/addition in Article 6 letter d: Indonesian text is garbled/illegible and does not clearly state 'submitting requests for determination of protection orders'; translation adds specific content not supported by the source.",
+        "Scrambled/merged list structure in Article 2: item 'e.' is merged into the end of item 'd.' (\"and e.\") instead of being a separate list item.",
+        "Scrambled/merged list structure in Article 3: items d., e., and f. are run together on one line (\"c. ...; d. ...; e. ...; and f.\") rather than appearing as separate list items in order.",
+        "Scrambled numbering in Article 4: paragraph marker '(3)' is incorrectly rendered as '(3)' within the same line after item 2, instead of being a separate numbered paragraph '3.' as in the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering structure: in Article 9 the marker “(2)” is embedded in item 1 instead of being a separate item 2, unlike the original.",
+        "Broken Markdown/list structure: Article 20 is merged into the Article 19 paragraph instead of appearing as its own heading “#### Article 20” (original has “Pasal 20”).",
+        "Meaning drift: Article 13(1) translates “perlindungan perempuan” as “acts of violence against women”, omitting the “women’s protection” concept; should be “women’s protection from acts of violence”.",
+        "Minor meaning drift/normalization: Article 11(2) is garbled in the original; translation adds specific content (“duties of the Apparatus”) not clearly supported by the source text. Kept minimal/neutral rendering to avoid adding meaning.",
+        "Article 11 paragraph (2) is incomplete/omitted: original contains additional (garbled but present) text after 'ayat 1' that is missing in the translation (meaning/content loss).",
+        "Article 14 list item markers differ from the original: original has 'L' (capital i) and a stray ',m’' marker; translation normalizes them to i/m, which breaks exact marker preservation required downstream.",
+        "Article 16 paragraph (3) list markers do not match the original: original repeats 'b.' twice and then 'c.'; translation changes the third marker to 'b.' but also changes ordering/association (needs to preserve the original marker sequence)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list structure in Article 21: lettered items are merged into the same line as the numeric item; markers like 'a.' are not separated; 'i.' and 'j' are run together; paragraph (2) is merged into paragraph (1).",
+        "Scrambled/incorrect list structure in Article 22: lettered items are merged into the same line; 'and e.' is merged as 'ande.'; duplicated 'b.' preserved but formatting needs separation.",
+        "Meaning drift/leftover source-language corruption not translated in Articles 28–31 and Article 29: untranslated/garbled Indonesian fragments remain (e.g., 'ketentua^^ ^ngan', 'P J 8 dak bertentangan dengan', 'Article 30«ini harus ditetapkan', 'Promulgation PeraturL memenntahkan...'). These should be translated as far as legible while preserving the original garbled parts where illegible.",
+        "Broken list markers in Article 21(2): 'ia.', 'd,', ', £', and 'and/atauh.' reflect OCR errors; need to preserve the same markers as the original while keeping the intended meaning and order.",
+        "Leftover non-legal stray text 'i *' after Article 24 (present in original as well) should be preserved but kept as-is; ensure it remains outside headings and does not break structure.",
+        "Scrambled/incorrect list markers in Article 21: paragraph (1) items have duplicated 'b.' and an uppercase 'C.'; paragraph (2) starts with 'ia.' and contains corrupted markers ', £' and 'd,' that should be lettered items; markers must match the original exactly in order.",
+        "Meaning drift/leftover untranslated fragments: multiple Indonesian OCR fragments are left untranslated (e.g., 'ketentua^^ ^ngan', 'This Regional Regulation.P J 8 dak bertentangan dengan', garbled text in Article 30 and Article 31). These should be translated to the extent possible while preserving the original content; where the source is garbled, keep it as-is but do not introduce new English meaning.",
+        "Broken numbering formatting: paragraph (2) in Article 21 is not formatted as '2.' like the original ' (2)' appears inline; list structure should preserve the original sequence and association of markers with content."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 5 Letter f: items 2–4 are run together on one line; must be separated as 2., 3., 4. in order.",
+        "Scrambled/garbled structure in Article 10: Paragraph (2) and its Letter a–c content is corrupted/merged with stray characters (e.g., 't', 'K') and missing clear boundaries; needs re-association to the original markers and order.",
+        "Leftover non-legal commentary at end: 'This excerpt sits under: CHAPTER XII > CLOSING PROVISIONS' should not be included in the translated legal text.",
+        "Meaning drift in Article 10 Letter g: 'pemulangan dan reintegrasi' should be 'return and reintegration' (not 'repatriation'), and should reflect returning victims from receiving area to area of origin.",
+        "Scrambled numbering in Article 5 Letter f: items 3 and 4 are run together in the original but must appear as separate list items 3. and 4. in order (the translation already separates them; keep structure consistent with original markers).",
+        "Meaning drift/normalization in Article 10 Paragraph (2) Letter a: original text is garbled/unclear (mentions \"di sakit\" and \"tempabtempat\" etc.); translation introduces specific term \"Resort Hospitals\" and smooths content beyond what is reliably in the source.",
+        "Leftover/garbled source artifacts not faithfully reflected: Article 10 contains corrupted fragments (e.g., \"Huruf g. t ... vTya ... ryyai [Zj\") that are omitted/cleaned in translation; downstream evaluation requires preserving all content, even if garbled.",
+        "Meaning drift in Article 13: original has \"Cukup jelas Rumah center,\"; translation changes to \"Sufficiently clear Safe House center,\" (adds \"Safe House\" not present).",
+        "Meaning drift in Article 31: original ends with \"EXo™DAERAH lampung\"; translation replaces with \"LAMPUNG REGIONAL GOVERNMENT\" (not a faithful rendering of the corrupted original text)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "LAMPUNG_LAMPUNG_UTARA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.704642+00:00",
+  "prompt_version": "v2"
+}

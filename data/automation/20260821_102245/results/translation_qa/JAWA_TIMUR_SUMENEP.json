@@ -1,0 +1,55 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 3,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 2,
+  "qa_passes_total": 6,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "List/numbering marker case mismatch: original uses \"C. Mengingat:\" but translation has \"C. In view of:\"; downstream splitting may be case-sensitive and expects the same marker form.",
+        "Meaning drift: \"Penanggulangan Pekerjaan Anak\" is translated as \"Handling of Child Labor\"; more accurate is \"Countermeasures/Control of Child Labor\" (penanggulangan = countermeasures/mitigation).",
+        "List/numbering marker case mismatch: original uses \"C. Mengingat:\" but translation has \"C. In view of:\"; list marker should match exactly (\"C.\") and be consistently represented (use \"C.\" not \"c.\" or a heading).",
+        "Meaning drift in the last clause: \"Dengan Persetujuan Bersama\" is rendered as \"With Mutual Approval\"; in this legal context it should be \"With Joint Approval\" (i.e., joint approval of DPRD and Regent)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list numbering: several items are run together on the same line, causing markers (2), (4), 15, 16, 18 to not appear as separate list items in order (e.g., Article 1 items 1-2, 14-18; Article 5 paragraph (4); Article 6 paragraph (4); Article 7 paragraph (2)).",
+        "Markdown/list structure not preserved: original has distinct numbered items/paragraphs that must be separated; translation keeps stray standalone word \"Implementation\" but it is acceptable as it matches the original \"Penyelenggaraan\" line."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure in Article 8: item (5) is embedded within item 4 and not presented as its own numbered item, causing a missing/reordered list marker.",
+        "Broken list/numbering structure in Article 8: original has item 4 containing the text for item (5) inline; translation splits them into separate items 4 and 5, changing the marker sequence/boundaries used for downstream splitting.",
+        "Meaning drift/omission: original Article 8 item 4 refers to 'Women and Children.' (with punctuation) and then continues with 'Victims of Violence' and includes the economic protection clause as marker (5) within item 4; translation does not reflect this combined structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_SUMENEP.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.661870+00:00",
+  "prompt_version": "v2"
+}

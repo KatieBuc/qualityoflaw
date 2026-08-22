@@ -1,0 +1,52 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 1,
+  "qa_passes_total": 5,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list structure in the 'In View of:' section: item 8 is merged into item 7, and item 20 is merged into item 19; these must be separate numbered items in the same order as the original.",
+        "Minor meaning/format drift in legal citation: 'State Gazette ... of 200 Number 30' should reflect the original 'Tahun 200' (intended 2000) and the broken parenthesis/punctuation in item 3 should be closed to match the original structure."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown heading level: original has \"### Translated Text (English Markdown, to be checked)\" section not applicable; but within the translated legal text, the heading \"###\" is not present—however the original has \"###\" nowhere except the final \"###\"? Actually original has \"###\" only in prompt; ignore. Real issue: In original, \"###\" not used; translation matches. No. Need real issues: Meaning drift: CEDAW ratification law number/year mistranslated (original: UU No. 7 Tahun 1984; translation: Law Number 7 of 1948).",
+        "Meaning drift: \"Kabupaten\" inconsistently translated as \"District\" vs \"Regency\"; should be consistently \"Regency\" for legal entity (Pemerintah Kabupaten, Lembaran Daerah Kabupaten Lumajang).",
+        "Broken/mismatched heading level: original has \"### Translated Text (English Markdown, to be checked)\" but translation content starts directly; however within the legal text, the original has \"###\" nowhere except that label—main issue is that the original ends with \"Cukup Jelas\" while translation renders it as \"Sufficiently Clear\" (acceptable), but the heading structure differs at the very end: original has \"###\"? No—actual issue is meaning drift: CEDAW ratification law number/year mistranslated (original: UU No. 7 Tahun 1948; translation: Law No. 7 of 1984).",
+        "corrected_text",
+        "Minor meaning drift/wording: \"DUHAK\" should be rendered as UDHR; already done. But the key numeric mismatch must be corrected to match the source text exactly for downstream evaluation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_LUMAJANG.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.646571+00:00",
+  "prompt_version": "v2"
+}

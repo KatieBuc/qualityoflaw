@@ -1,0 +1,171 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 10,
+  "chunks_corrected": 9,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 9,
+  "qa_passes_total": 19,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 5 under \"In View of\": the State Gazette year/number is mistranslated (original: 1997 law; State Gazette 1997 No. 3, not 1979).",
+        "Meaning drift/omission in item 7 under \"In View of\": original includes the Indonesian title/parenthetical explanation of Convention No. 182; translation omits it.",
+        "Meaning drift in item 8 under \"In View of\": State Gazette year is mistranslated (original: 2002 law; State Gazette 2002 No. 109, not 2004).",
+        "Meaning drift in item 22 under \"In View of\": original includes parenthetical Indonesian description; translation omits it.",
+        "Meaning drift in item 26 under \"In View of\": missing \"concerning\" and the subject (original: Presidential Decree No. 52 of 2004 concerning the National Commission for the Elderly).",
+        "Meaning drift: citation year in item 8 is mistranslated as “State Gazette ... of 2002 Number 109” but the original states “Tahun 2004 Nomor 109”.",
+        "Meaning drift: item 22 parenthetical is mistranslated as “Convention concerning Basic Rights” whereas the original says “Konvensi tentang Hak-hak Asasi” (human rights)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/garbled text: item 17 contains non-English characters (“障礙”) and does not faithfully render “hambatan” as “impairments/limitations”.",
+        "Scrambled/merged list formatting: several list markers are run together with surrounding text (e.g., Article 2 items “meliputi:a.”, “and - 11 -d.”; Article 2(2) “andd.”; Article 3 “danc.”; Article 4 “danc.”), which risks downstream boundary splitting.",
+        "List item boundary missing: items 23 and 24 are merged into one paragraph; items 28 and 29 are merged into one paragraph (should be separate numbered items).",
+        "Scrambled/altered list-marker structure in Article 2(1) and Article 2(2): original has \"meliputi:a.\" and \"meliputi:a.\" inline and includes an in-text page marker \"- 11 -\" before item d; translation reformats into an indented bullet list and omits the \"- 11 -\" marker, which breaks downstream boundary matching.",
+        "Meaning drift in Article 2(2) item c: original has \"perkembangan\" (development) but translation renders \"development\" correctly; however the original contains a spacing artifact \"perkem bangan\" that should be preserved as-is only if keeping exact text markers—main issue is structural, not semantic. (No substantive semantic errors found otherwise.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several items are concatenated (\"andm.\", \"ands.\", \"including:a.\", \"p.\" on same line as \"o.\", \"andk.\", and \"e.\" merged with \"f.\" in Article 10), which breaks list structure required for downstream splitting.",
+        "Minor meaning drift/awkwardness: Article 5(a) translates \"kehidupannya\" as \"livelihood\"; should be \"life\" (or \"her life\") to match the original meaning.",
+        "Meaning drift in Article 5 letter p: translated as fragment 'in the defense of the state' but should be a right 'to participate in efforts to defend the state'.",
+        "Minor meaning drift in Article 5 letter j: 'basic right' should be 'human right' (hak asasi)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: sub-items run together (e.g., 'andc.', 'andb.', 'andm.') and page markers interrupt list items (e.g., '- 19 -' inside Article 16; '(2)' appended after '21 -'). This breaks downstream list boundary detection.",
+        "Meaning drift/awkwardness: Article 15(a) translates 'pendidikan luar biasa' as 'special education' and repeats 'special education' for 'pendidikan khusus'; should distinguish 'special education (extraordinary education)' vs 'special education for gifted children' to reflect original contrast.",
+        "Minor fidelity: Article 12(1)(c) 'sidang tertutup untuk umum' should be 'closed to the public' (not 'closed session to the public').",
+        "Scrambled/incorrect list structure in Article 16: the page marker \"- 19 -\" is inserted between list items d and e; in the original it appears before item e as part of the running text, not as a standalone list-breaking line.",
+        "Scrambled numbering in Article 19: paragraph (2) appears detached from the main numbering (shown as \"21 -\\n\\n(2)\" instead of continuing as item 2 under Article 19).",
+        "Scrambled numbering in Article 25: paragraph (2) is detached from the main numbering (shown as \"(2)\" on a new line rather than as item 2 under Article 25)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list numbering: Article 29 paragraph (4) appears as stray text \"24 - (4)\" instead of list item \"4.\"",
+        "Scrambled list formatting: Article 30 paragraphs (2) and (3) are run together on the same line as paragraph (1) instead of separate numbered items",
+        "Scrambled list formatting: Article 32(2) lettered items a–c are merged (\"perbuatan:a.\", \"and c.\") and not cleanly separated",
+        "Scrambled list formatting: Article 35 letter e is merged into previous text (\"dane.\")",
+        "Scrambled list formatting: Article 40 paragraphs (2) and (3) appear as \"27 - (2)\" and are run together instead of separate numbered items",
+        "Scrambled list formatting: Article 41(1) lettered items are merged (\"anak dapat:a.\", \"andf.\")",
+        "Scrambled list formatting: Article 45 letter d is merged (\"dand.\")",
+        "Scrambled list formatting: Article 47 letter b is merged into previous text (\"sertab.\")",
+        "Leftover pagination artifacts included as standalone lines (\"25 -\", \"26 -\", \"28 -\", \"29 -\") that are not part of the legal text and should be removed.",
+        "Original has a stray pagination/line-break artifact \"24 - (4)\" before paragraph (4) of Article 29; translation correctly renders it as item 4, but should not include any such artifacts elsewhere—remove the remaining artifacts to keep structure clean for downstream splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are run together on the same line (e.g., Article 49(2) b/c, e/f; Article 49(3) a; Article 51(2) a; Article 55(1) b/c; Article 59 d/e and h/i), which can break downstream boundary splitting.",
+        "Article 54 list markers are not preserved as in the original: 'a' and 'b' are missing the '.' and paragraph (2) is merged into paragraph (1) instead of being a separate numbered item.",
+        "Minor meaning drift/typo carryover: original has 'dan g.' and 'dan d.' due to formatting; translation should reflect intended 'and g.' / 'and d.' while keeping markers correctly separated.",
+        "Broken numbering/list-marker structure: original has numbered item \"2.\" in Article 49 but translation shows \"30 - (2)\" instead of \"2.\"",
+        "Scrambled/merged list markers in original (e.g., \"b.\" and \"c.\" on one line; \"dan g.\"; \"melalui:a.\"; \"dane.\"; \"dand.\"; \"andi.\") were not consistently normalized; ensure each list item a–g and a–d and a–i appears once, in order, with correct association to its content",
+        "Meaning drift: Article 49(1) should refer to \"children in conflict with the law\" and \"children who are victims of criminal acts\" (not \"child victims\" as a category); adjust to match original phrasing",
+        "Minor meaning drift/precision: Article 61 should translate \"derajad\" as \"degree\" and keep the condition clause structure; current is acceptable but adjusted for closer fidelity"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 63(1): sub-item markers are not properly separated (\"Government:a.\", \"andh.\"), causing item h to be merged into item g.",
+        "Scrambled/merged list structure in Article 64(2): sub-item markers are not properly separated (\"to:a.\" and \"and - 37 -d.\"), causing list markers to attach to preceding text.",
+        "Meaning drift risk due to the merged markers (h and d) which obscures that they are separate obligations/items.",
+        "Scrambled list/numbering structure: in Article 63(1) the lettered items are not consistently aligned; the page marker \"36 -\" interrupts the list and item c. is not properly associated/indented with its marker.",
+        "Scrambled list/numbering structure: in Article 64(2) the page marker \"- 37 -\" splits the list so that item d. is separated from items a–c.",
+        "Meaning drift: Article 63(2) \"Peraturan Bupati\" should be translated as \"Regent Regulation\" (not \"Regent Regulation\" is fine) but should include the definite form \"a Regent Regulation\"; minor but legal-form specificity.",
+        "Minor formatting: original has \"danh.\" (typo/line-join) which should be rendered as \"and h.\"; translation already has \"and\" but list should remain continuous without stray line breaks/page markers inside the list."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: item d. is merged into item c. line; each list item (a.–d.) must appear separately and in order.",
+        "Meaning/structure drift: the original has a separate list item 'd. penghargaan terhadap pendapat anak' which is not properly separated in the translation.",
+        "Meaning drift/awkward rendering: 'PENJELASAN' should be 'EXPLANATION' (legal heading), not 'ELUCIDATION'.",
+        "Meaning drift: 'penindakan pelaku' is better rendered as 'prosecution/handling of perpetrators' rather than the vague 'take action against perpetrators'.",
+        "Minor meaning drift: 'perangkat hukum' is 'legal instruments/framework', not 'devices'. (Adjusted for legal accuracy.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal commentary at the end of the translation: \"This excerpt sits under: CHAPTER VI > CLOSING PROVISIONS > Article 66\" is not in the original text.",
+        "Minor meaning drift in Article 40(1): \"panti\" translated as \"orphanage\"; the original refers to institutional homes/shelters generally, not specifically orphanages.",
+        "Scrambled/merged structure in Article 43: Paragraph (1) and Paragraph (2) are run together on one line; should be separated to match the original's structure.",
+        "Scrambled/merged structure in Article 43: Paragraph (1) and Paragraph (2) are separated into different paragraphs, while in the original they appear on the same line/paragraph (\"Ayat (1) ... Ayat (2) ...\").",
+        "Scrambled/merged structure in Article 59: Letter a and Letter b are merged into one paragraph in the translation, while in the original \"Huruf b\" starts a new item after the end of Letter a."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_TRENGGALEK.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.663312+00:00",
+  "prompt_version": "v2"
+}

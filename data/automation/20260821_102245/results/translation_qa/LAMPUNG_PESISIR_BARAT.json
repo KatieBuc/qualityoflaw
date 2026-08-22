@@ -1,0 +1,104 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text/boilerplate URLs included as standalone lines (\"https://jdih.pesisirbaratkab.go.id\") which are not part of the translated legal provisions and should be removed for downstream boundary splitting.",
+        "Broken Markdown structure: the original includes the standalone lines \"https://jdih.pesisirbaratkab.go.id\" (three occurrences) which are missing in the translation, causing content mismatch for downstream boundary-sensitive processing.",
+        "Meaning drift/omission: the website lines present in the original are omitted in the translation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: in the original, the list items under Pasal 2, Pasal 3, and Pasal 4 are inline (e.g., \"... adalah: a. ... b. ...\"), but the translation reformats them into multi-line lists; downstream splitting expects the original marker placement/order within the same paragraph.",
+        "Meaning drift/typo carryover: original has \"danl atau\" (intended \"dan/ atau\") in item 13; translation normalizes to \"and/or\". For strict fidelity, keep the original's wording/structure as closely as possible while still in English (retain the conjunction structure without silently correcting source typos).",
+        "Scrambled/merged list structure in Article 2: items a–f are run together (e.g., 'andf.') instead of being clearly separated and in order.",
+        "Scrambled/merged list structure in Article 3: items a–h are run together on the same line instead of being clearly separated and in order.",
+        "Scrambled/merged list structure in Article 4: items a–f are run together (e.g., 'and/ atauf.') instead of being clearly separated and in order.",
+        "Meaning/typo drift: 'andl or' should be 'and/or' in item 13.",
+        "Meaning/typo drift: 'and/ atauf.' should be 'and/or f.' in Article 4 list. "
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list and paragraph numbering in Article 7: items 'and i.' and '(2)' are concatenated; list markers not cleanly separated from content; continuation list (d–j) appears after an inserted header and needs to remain part of paragraph (2).",
+        "Scrambled/merged list markers in Article 11: 'and j.' is concatenated with item i.",
+        "Scrambled/merged list markers in Article 12: 'and e.' is concatenated with item d.",
+        "Scrambled/merged list/paragraph numbering in Article 14: 'include:a.' and 'and g.' are concatenated.",
+        "Scrambled/merged list/paragraph numbering in Article 15: 'include:a.' and 'and c.' are concatenated; paragraph '(3)' is merged into the end of paragraph (2).",
+        "Scrambled/incorrect list structure in Article 7: paragraph (2) is not part of item 1; items d–j of paragraph (2) are detached from the (2) marker and appear after an unrelated heading/boilerplate line.",
+        "Scrambled/incorrect list structure in Article 15: paragraph (3) marker is separated from the numbered list (should be item 3 under Article 15).",
+        "Minor meaning drift/formatting: Article 10(1) uses lowercase “article 4” instead of “Article 4” (legal reference consistency)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in several places: lettered items (a., b., etc.) are run together with preceding text (e.g., Article 17(2), Article 18(1), Article 19(2), Article 24(1)-(2), Article 25(2), Article 26(3), Article 27(4), Article 28), and paragraph marker (2) in Article 18 is merged into the same line as item k.",
+        "Meaning drift/terminology: Article 27(2) translates \"desa/kelurahan\" incorrectly as \"villages/sub-districts\" (kelurahan is urban village/ward, not sub-district).",
+        "Scrambled list/numbering structure in Article 19: item (4) appears after the 'LEGAL SECTION...' heading instead of immediately following item (3) under Article 19, breaking the original structure.",
+        "Meaning drift/terminology: 'UPTDPPA' in Article 19(1) should match the original 'UPTDPPA' (without inserting a space), while 'UPTD PPA' is used in later paragraphs; keep as in original.",
+        "Minor list-marker formatting inconsistency: Article 25(2) list item 'c.' is not aligned/structured consistently with 'a.' and 'b.' (risking downstream parsing)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 29(1): sub-items a–e are run together after 'includes:' instead of being clearly separated as in the original.",
+        "Scrambled/merged list structure in Article 30(2): sub-items a–b are run together after 'in the form of:' instead of being clearly separated as in the original.",
+        "Scrambled/merged list structure in Article 7: markers c., d., e., f., g., h. are merged into surrounding text (e.g., '...lustfully. c. ...', '...Clear g.'), breaking item boundaries and order required for downstream splitting.",
+        "Meaning drift in Article 7(i): added clause 'shall be punished for committing violence' which is not present in the original text segment provided.",
+        "Scrambled list/numbering structure: in Article 30 paragraph (2), items c. and d. are separated from the a./b. list by an inserted heading and appear outside the list block; they must remain part of the same a.–d. list in order.",
+        "Meaning drift/omission in Article 7 item i: the original ends with 'dipidana karena melakukan kekerasan' (punished for committing violence), which is missing in the translation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "LAMPUNG_PESISIR_BARAT.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.706597+00:00",
+  "prompt_version": "v2"
+}

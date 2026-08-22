@@ -1,0 +1,919 @@
+# MAYOR OF PROBOLINGGO
+
+# EAST JAVA PROVINCE
+
+COPY OF REGIONAL REGULATION OF PROBOLINGGO CITY NUMBER 10 OF 2018
+
+# CONCERNING
+
+IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN BY THE GRACE OF GOD ALMIGHTY
+
+# MAYOR OF PROBOLINGGO,
+
+Considering:  
+a. that women and children have a strategic position as assets of the nation, so that the implementation of protection for women and children must be carried out in an integrated and sustainable manner through the fulfillment and protection of the rights of women and children in their personal lives, family, community, nation and state;  
+b. that the implementation of protection for women and children in Probolinggo City has not been carried out comprehensively so that the fulfillment and protection of the rights of women and children has not been implemented optimally;  
+c. that the Law on Regional Government states that women's empowerment and child protection is one of the mandatory government affairs not related to basic services and is the authority of the Regional Government;  
+d. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation on the Implementation of Protection for Women and Children;  
+
+In View of:  
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;  
+
+2. Law Number 17 of 1950 concerning the Establishment of Small City Regions Within the Provinces of East Java, Central Java and West Java (State Gazette of the Republic of Indonesia, dated August 14, 1950) as amended by Law Number 13 of 1954 concerning Amendment to Laws Number 16 and Number 17 of 1950 (State Gazette of the Republic of Indonesia Year 1954 Number 40, Supplement to the State Gazette of the Republic of Indonesia Number 551);  
+3. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);  
+4. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);  
+5. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 3143) as amended several times by Law Number 17 of 2016 concerning Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection into Law (State Gazette of the Republic of Indonesia Year 2016 Number 237 Supplement to the State Gazette of the Republic of Indonesia Number 5882);  
+6. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia Year 2003 Number 39 Supplement to the State Gazette of the Republic of Indonesia Number 4279);  
+7. Law Number 20 of 2003 concerning the National Education System (State Gazette of the Republic of Indonesia Year 2003 Number 78, Supplement to the State Gazette of the Republic of Indonesia Number 4301);  
+8. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia year 2004 Number 95 Supplement to the State Gazette of the Republic of Indonesia Number 4419);  
+9. Law Number 23 of 2006 concerning Population Administration (State Gazette of the Republic of Indonesia Year 2006 Number 124, Supplement to the State Gazette of the Republic of Indonesia Number 4674), as amended by Law Number 24 of 2013 (State Gazette of the Republic of Indonesia Year 2013 Number 232, Supplement to the State Gazette of the Republic of Indonesia Number 5475);  
+10. Law Number 21 of 2007 concerning the Eradication of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);  
+11. Law Number 44 of 2008 concerning Pornography (State Gazette of the Republic of Indonesia Year 2008 Number 181, Supplement to the State Gazette of the Republic of Indonesia Number 4720);  
+12. Law Number 36 of 2009 concerning Health (State Gazette of the Republic of Indonesia Year 2009 Number 144, Supplement to the State Gazette of the Republic of Indonesia Number 5063);  
+13. Law Number 12 of 2011 Concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);  
+14. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);  
+15. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);  
+16. Government Regulation Number 12 of 2017 concerning Guidance and Supervision of Regional Government Administration (State Gazette of the Republic of Indonesia Year 2017 Number 73, Supplement to the State Gazette of the Republic of Indonesia Number 6041);  
+17. Presidential Regulation Number 87 of 2014 concerning Implementing Regulations of Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia Year 2014 Number 199);  
+18. Regulation of the State Minister for Women's Empowerment Number 3 of 2008 concerning Guidelines for the Implementation of Child Protection;  
+19. Regulation of the State Minister for Women's Empowerment and Child Protection Number 1 of 2010 concerning Minimum Service Standards for Integrated Services for Women and Child Victims of Violence;  
+20. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products (State Gazette of the Republic of Indonesia Year 2015 Number 2036);  
+21. Regulation of the Minister of Women's Empowerment and Child Protection Number 1 of 2017 concerning Governance of Technical Implementation Units for the Protection of Women and Children (State Gazette of the Republic of Indonesia Year 2017 Number 158);  
+22. Regulation of the Minister of Women's Empowerment and Child Protection Number 4 of 2018 concerning Guidelines for the Establishment of Regional Technical Implementation Units for the Protection of Women and Children (State Gazette of the Republic of Indonesia Year 2018 Number 532);  
+23. Regional Regulation of East Java Province Number 16 of 2012 concerning the Implementation of Protection for Women and Child Victims of Violence;  
+24. Regional Regulation of East Java Province Number 2 of 2014 concerning the Child Protection Implementation System;  
+
+With Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF PROBOLINGGO CITY and
+
+# MAYOR OF PROBOLINGGO
+
+# DECIDES:
+
+To Establish: REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms shall mean:
+
+1. Region is the City of Probolinggo.  
+2. Regional Government is the Government of the City of Probolinggo.  
+3. Mayor is the Mayor of Probolinggo.  
+4. Regional Apparatus is the Regional Apparatus within the Regional Government.  
+5. Agency is the Agency for Empowerment, Protection of Women and Children and Family Planning of the City of Probolinggo.  
+6. Technical Implementation Unit of the Agency for the Protection of Women and Children, hereinafter referred to as UPTD PPA, is the Technical Implementation Unit of the Agency for the Protection of Women and Children of the City of Probolinggo.  
+7. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.  
+8. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.  
+9. Violence is any act that results in misery or suffering whether physical, sexual, psychological, and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.  
+10. Protection of Women and Children Victims of Violence is all activities aimed at providing a sense of security carried out by the Regional Government, family, advocates, police, prosecutors, courts, social institutions, or other parties who know or hear that violence against Women and Children will or has occurred.  
+11. Empowerment is the strengthening of women victims of violence to be able to work and work independently after they have been restored and provided with health and social rehabilitation services.  
+12. Medical rehabilitation is an effort to restore the condition of victims including physical and psychological health so that victims can carry out their roles again properly and naturally both in the family and in society.  
+13. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.  
+14. Repatriation is an effort to return victims of violence from the regional area to their area of origin.  
+15. Social Reintegration is an effort to reunite victims with family, substitute family or community that can provide protection and fulfillment of needs for victims.  
+16. Women and Children Protection Service Center is an integrated service center in efforts to empower women in various fields of development, as well as protect women and children from various forms of discrimination and acts of violence, including trafficking in persons.  
+17. Safe House is a temporary residence used to provide protection to victims in accordance with determined operational standards.
+
+# CHAPTER II
+
+## IMPLEMENTATION OF WOMEN'S PROTECTION
+
+## Part One
+
+Prevention
+
+#### Article 2
+
+1. The Regional Government is responsible for implementing efforts to prevent the occurrence of violence and protect victims of violence.  
+2. Prevention of the occurrence of violence as referred to in paragraph (1) in the form of:
+   a. collecting data and information about women and children as well as related laws and regulations;  
+   b. conducting education on anti-violence values; and  
+   c. conducting socialization of laws and regulations related to the implementation of prevention and protection of victims of violence.  
+3. Protection of victims of violence as referred to in paragraph (1) in the form of:
+   a. establishing and facilitating the implementation of integrated service institutions for victims by involving community elements;  
+   b. facilitating assistance, legal aid and legal services according to the needs of victims;  
+   c. providing housing both safe houses and alternative housing along with handling mechanisms, services, psychosocial and spiritual;  
+   d. conducting continuous handling up to the rehabilitation and social reintegration stage;  
+   e. conducting monitoring and evaluation of the implementation of protection of victims of violence; and  
+   f. encouraging public awareness of the importance of protection for victims of violence.  
+4. In order to carry out the responsibilities as referred to in paragraph (1), the Regional Government establishes programs and action activities for the protection of women and children in one Regional Action Plan for the Protection of Women and Children Victims of Violence.  
+5. The Regional Action Plan for the Protection of Women and Children Victims of Violence as referred to in paragraph (4) is established for a period of 3 (three) years by Mayor's Decree.
+
+#### Article 3
+
+Community responsibility is implemented in the form: (1) preventing the occurrence of acts of violence against women and children; and (2) providing information and/or reporting acts of violence against women and children to law enforcement or authorized parties.
+
+#### Article 4
+
+1. The Regional Government is obliged to provide protection to women in order to realize welfare for women.  
+2. Protection of women as referred to is implemented through:
+   a. prevention of violence against women;
+   b. provision of services for women victims of violence; and
+   c. strengthening of institutions of women's protection service provider institutions.  
+3. The Regional Government facilitates the formation of women's protection institutions.  
+4. The Mayor establishes policies, programs and activities for the protection of women to eliminate all forms of discrimination and acts of violence against women including trafficking in persons in the Region.
+
+#### Article 5
+
+The regional government is obliged to implement policies, programs and activities for the protection of women, which can be carried out with efforts:
+
+a. to provide and facilitate women's protection services;
+
+b. to compile a data system for women's protection;  
+
+c. to implement coordination of the implementation of policies, programs and activities for the protection of women among Regional Apparatus; and
+
+d. to cooperate with the business world, non-governmental institutions, private companies, Foundations, and other domestic institutions as well as international institutions, in accordance with the provisions of laws and regulations.
+
+## Part Two
+
+Handling
+
+#### Article 6
+
+1. Provision and facilitation of women's protection services as referred to in Article 5 letter a in the form of:
+   a. victim identification;  
+   b. legal aid;  
+   c. medical rehabilitation;  
+   d. psychosocial rehabilitation;  
+   e. social reintegration; and
+   f. repatriation assistance.  
+2. Provision and facilitation of women's protection services as referred to in paragraph (1) are provided to women:
+   a. victims of violence;  
+   b. victims of trafficking in persons;  
+   c. elderly who are not independent;  
+   d. with disabilities;  
+   e. victims of sexual exploitation;  
+   f. heads of households;  
+   g. in conflict-prone and disaster areas;  
+   h. workers; and
+   i. other vulnerable groups.
+
+#### Article 7
+
+Every woman victim of violence has the right to receive:
+
+a. protection and assistance;  
+
+b. legal aid;  
+
+c. health services according to medical needs;  
+
+d. spiritual services;  
+
+e. psychosocial services;  
+
+f. information; and
+
+g. integrated services.
+
+#### Article 8
+
+1. In the event that victims of violence as referred to in Article 7 require continuous handling, they have the right to stay in a safe house or alternative housing.  
+2. Continuous handling as referred to in paragraph (1) is handling at the rehabilitation stage carried out by individuals, groups or Government and non-Government institutions.
+
+#### Article 9
+
+1. Safe houses as referred to in Article 8 paragraph (1) provide temporary safe places and/or shelters for victims of violence until their rights are restored.
+2. The operation and/or management of safe houses as referred to in paragraph (1) shall be carried out by the Service (Dinas).
+3. For the safety and at the request of victims of violence, the manager or operator of safe houses as referred to in paragraph (2) may place victims of violence in certain confidential locations.
+
+## Part Three
+
+Women's Empowerment
+
+#### Article 10
+
+1. The Regional Government has the obligation and responsibility in efforts to empower women.
+2. Efforts to empower women as referred to in paragraph (1) shall be carried out in an integrated manner in accordance with applicable laws and regulations.
+3. In order to improve the position, role and quality of women as well as efforts to realize gender equality and justice in family, community, national and state life, women must be empowered.
+4. Women's empowerment as referred to in paragraph (3) is directed towards obtaining opportunities and their rights as human beings so that they are able to play a role and participate in political, legal, economic, socio-cultural activities, and equality in improving welfare in all aspects of development.
+
+# CHAPTER III
+
+## IMPLEMENTATION OF CHILD PROTECTION
+
+## Part One
+
+Prevention
+
+#### Article 11
+
+1. The Regional Government, NGOs/Social Organizations, the community and families are obliged to provide protection for children from the womb in accordance with applicable Laws and Regulations.
+2. The Regional Government is responsible for implementing efforts to prevent the occurrence of violence and protect victims of violence. (3) Prevention of the occurrence of violence as referred to in paragraph (1) is in the form of: a. conducting education on anti-violence values;
+   b. conducting socialization of laws and regulations related to the implementation of prevention and protection of victims of violence. c. forming a network in efforts to prevent violence;
+   d. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;
+   e. establishing a violence prevention system; andf. providing critical education on children's rights to the community.
+
+#### Article 12
+
+In addition to the Regional Government, prevention efforts as referred to in Article 11 paragraph (2) shall be carried out by:
+
+a. family and/or closest relatives;
+b. the community;
+c. educational institutions; and/ord. Non-Governmental Organizations.
+
+## Part Two
+
+Birth Registration
+
+#### Article 13
+
+1. The Regional Government is obliged to organize the Fulfillment of Children's Rights in the field of birth registration by issuing birth certificates free of charge in accordance with the provisions of laws and regulations.
+2. The identity of every child must be provided from birth. (3) Identity as referred to in paragraph (1) shall be set forth in: a. family card;
+   b. birth certificate; danc. Child Identity Card.
+
+## Part Three
+
+Health
+
+#### Article 14
+
+1. The Regional Government is obliged to organize the Fulfillment of Children's Rights in the field of health by providing comprehensive health services for children, so that every child obtains optimal health status from the womb, which is carried out in stages adjusted to the regional financial capacity and supported by community participation.
+2. Comprehensive health services as referred to in paragraph (1) include: a. promotive, preventive, curative and rehabilitative efforts for basic health services; andb. exemption from the burden of health service costs for children in accordance with the provisions of applicable laws and regulations.
+3. Children as referred to in paragraph (2) letter b are children from poor families unless otherwise regulated in accordance with the health financing program established by the Government and/or Regional Government.
+4. The Regional Government, community, family and parents are obliged to ensure that children born are protected from diseases that threaten the continuity of life and/or cause disability.
+
+## Part Four
+
+Education
+
+#### Article 15
+
+1. The Regional Government is obliged to organize the Fulfillment of Children's Rights in the field of education by ensuring the implementation of compulsory education programs in accordance with its authority.
+2. Every organizer of an education unit is obliged to provide opportunities for children to obtain educational services without discrimination. (3) Every organizer of an education unit is not permitted to expel children from educational institutions unless there is a guarantee for the continuity of the child's education.
+4. Every organizer of an education unit is obliged to coordinate with the Service (Dinas) if they encounter children who drop out of school due to being victims of violence.
+
+#### Article 16
+
+Children with disabilities/children with special needs are given equal opportunities to obtain formal, non-formal and informal education services.
+
+#### Article 17
+
+Early Childhood Education for children aged 0 (zero) to 6 (six) years and 4 (four) to 6 (six) years may be organized by Integrated Service Post Park (Posyandu Park) institutions, Early Childhood Education Posts and similar Early Childhood Education unit institutions.
+
+#### Article 18
+
+For children who do not pursue formal education, they may pursue education through non-formal education units in accordance with the provisions of applicable laws and regulations.
+
+## Part Five
+
+Social Welfare
+
+#### Article 19
+
+1. The Regional Government is obliged to organize the Fulfillment of Children's Rights in the field of social welfare, which includes: a. children in conflict with the law;
+   b. child victims of violence who are economically and sexually exploited, neglected children, child victims of kidnapping and child victims of human trafficking;
+   c. child victims of narcotics, alcohol, psychotropic and other addictive substance abuse (NAPZA);
+   d. children infected with HIV/AIDS;
+   e. children who do not have parents and are cared for by other parties or families who are unable;
+   f. street children;
+   g. child victims of natural disasters or social disasters;
+   h. children with disabilities;
+   i. children of migrant worker families;
+   j. children living in or around prostitution locations; and/or k. child victims of other maltreatment.
+2. Social welfare as referred to in paragraph (1) may be in the form of providing services: a. health;
+   b. education;
+   c. legal aid;
+   d. assistance;
+   e. social, mental and spiritual guidance;
+   f. social rehabilitation;
+   g. empowerment;
+   h. social assistance; and/ataui. reintegration.
+
+#### Article 20
+
+1. The Regional Government is obliged to protect the fulfillment of the rights of child workers in the informal sector.
+2. Child Workers in the informal sector as referred to in paragraph (1) include: a. domestic workers;
+   b. shoe shiners;
+   c. street vendors;
+   d. scavengers, buskers;
+   e. parking attendants;
+   f. construction laborers; dang. other informal sector work that employs children. (3) Every person who employs children in the formal sector is obliged to pay attention to the requirements: a. minimum age of 15 (fifteen) years, except for the category of worst forms of child labor minimum 18 (eighteen) years;
+   b. obtain written consent from the parents/guardian of the child worker;
+   c. have a written employment agreement between the employer and the parent/guardian of the child worker and obtain validation from the authorized agency;
+   d. not employed at night;
+   e. working time of a maximum of 3 (three) hours per day;
+   f. not employed in a place or environment that can interfere with the child's growth and development process, whether physical, mental, moral and intellectual or the child's health;
+   g. provide opportunities to receive education in accordance with their talents and interests;
+   h. employ for light types of work; andi. provide one day off per week.
+
+#### Article 21
+
+Regional Government is obliged to implement prevention of violence against children which includes:
+a. physical violence;  
+b. psychological violence;  
+c. sexual violence;  
+d. neglect;  
+e. exploitation; dan/atauf. other violence.
+
+#### Article 22
+
+Physical violence as referred to in Article 21 letter a is caused because of acts that result in pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causing death.
+
+#### Article 23
+
+Psychological violence as referred to in Article 21 letter b is caused because of acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.
+
+#### Article 24
+
+Sexual violence as referred to in Article 21 letter c is caused because of:
+a. acts in the form of sexual harassment;  
+b. forced sexual intercourse;  
+c. forced sexual intercourse in an unnatural or unwanted manner; dan/atau  d. forced sexual intercourse with another person for commercial purposes and/or certain purposes.
+
+#### Article 25
+
+Neglect as referred to in Article 21 letter d is caused because of: a. acts that result in the unfulfillment of a child's needs properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;  
+b. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or other parties responsible for their care;  
+c. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; dan/ataud. acts that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.
+
+#### Article 26
+
+Exploitation as referred to in Article 21 letter e is caused because of: a. acts that exploit economically or sexually with the intention of benefiting oneself or others;  
+b. acts with or without the victim's consent including prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or ability of a person by another party to obtain material or immaterial benefits; dan/atauc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or indecency.
+
+#### Article 27
+
+Other violence as referred to in Article 21 letter f is caused because of:
+a. threat of violence includes: any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; dan/ataub. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.
+
+#### Article 28
+
+1. Regional Government, community, family and parents are obliged to protect children in emergency situations.  
+2. Services and handling for children as referred to in paragraph (1) are in the form of fulfillment of basic needs consisting of basic social services, education, religious guidance, health services, psychological counseling, legal assistance, recreational and educational activities.
+
+#### Article 29
+
+Regional Government is obliged to provide special protection for children in conflict with the law including children in conflict with the law and child victims of criminal acts, in cooperation with the Police, Prosecutor's Office, Courts, institutions/organizations concerned with women and children, parents, families and the community.
+
+## Part Six
+
+Handling
+
+#### Article 30
+
+Implementation of Handling of child victims of violence is carried out with:
+a. speed;  
+b. safety and comfort;  
+c. sense of empathy;  
+d. non discrimination;  
+e. easy accessibility;  
+f. no charges; dang. guaranteed confidentiality.
+
+#### Article 31
+
+Forms of handling for women and child victims of violence include: a. complaint, consultation, and counseling services;  
+b. accompaniment services;  
+c. medical rehabilitation services;  
+d. social rehabilitation services;  
+e. legal services; danf. social reintegration services.
+
+#### Article 32
+
+Complaint, consultation, and counseling services as referred to in Article 31 letter a include:
+a. initial identification or recording of victims;  
+b. case identification; danc. consent for action to be taken.
+
+#### Article 33
+
+Accompaniment services as referred to in Article 31 letter b include: a. accompanying victims during the examination and health recovery process;  
+b. accompanying victims during the examination process at the police, prosecutor's office and court;  
+c. monitoring the interests and rights of victims in the examination process at the police, prosecutor's office and court;  
+d. maintaining the privacy and confidentiality of victims from all parties who have no interest, including reporting by mass media;  
+e. providing a sense of security to victims; danf. providing continuous handling up to the rehabilitation stage.
+
+#### Article 34
+
+Medical rehabilitation services as referred to in Article 31 letter c include:
+a. first aid to victims;  
+b. treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics; dan  c. referral to health services.
+
+#### Article 35
+
+1. Social rehabilitation services as referred to in Article 31 letter d are services provided in order to restore the traumatic condition of victims.  
+2. Forms of services as referred to in paragraph (1) through social support.  
+3. Social support as referred to in paragraph (2) is carried out through:a. spiritual guidance to victims; danb. psychological recovery of victims.
+
+#### Article 36
+
+Legal services as referred to in Article 31 letter e are to assist victims in undergoing the judicial process by: a. providing legal consultation which includes information regarding victims' rights and the judicial process;  
+b. accompanying victims at the investigation, prosecution, and examination levels in court hearings and helping victims to fully describe the violence they experienced; danc. coordinating with fellow law enforcers, volunteer companions, and social workers so that the judicial process proceeds as it should.
+
+#### Article 37
+
+1. Social reintegration services as referred to in Article 31 letter f aim to return victims to their families and social environment.  
+2. Social reintegration services as referred to in paragraph (1) are carried out by the Regional Government in coordination with:a. relevant agencies and institutions both government and non-government;  danb. village community institutions and/or local community leaders.
+
+# CHAPTER IV
+
+## INSTITUTIONS
+
+#### Article 38
+
+In the framework of efforts to Protect women and children in Probolinggo City it is necessary to establish:
+a. Family Learning Center;  
+b. Women and Child Protection Service Center
+
+## Part One
+
+Learning Center for Families
+
+#### Article 39
+
+In the framework of efforts to prevent family psychosocial problems, recovery and create harmonious families as well as prevention of child marriage, the Regional Government needs to establish a Family Learning Center that functions as:
+a. providing counseling guidance to families in order to improve family resilience and family life;  
+b. provider of family consultation services and socialization on child marriage prevention; and  
+c. providing information and solutions to family problems.
+
+#### Article 40
+
+1. Family Learning Center Officers are licensed psychiatrists and psychologists.  
+2. Family Learning Center services are provided free of charge.  
+3. The organization and/or management of the Family Learning Center as referred to in Article 37 is carried out by the Agency.  
+4. The Norms, Standards and Procedures of the Family Learning Center will be regulated separately in a Mayor Regulation.
+
+## Part Two
+
+Women And Children Protection Service Center
+
+#### Article 41
+
+1. The provision of protection for women and children victims of violence is carried out by the Women and Children Protection Service Center as an integrated Service Center to provide protection, handling and fulfillment of the rights of victims of violence.  
+2. The Service Center as referred to in paragraph (1) is an implementing unit under the coordination of the Agency and is an integrated technical service unit that functions as an information center for women and children, a service center for women and children victims of violence as well as an empowerment center for women and children.  
+3. The provision of protection for women and children victims of violence as referred to in paragraph (1) includes:
+a. providing fast and free services to victims;  
+b. organizing complaint services, consultation, mediation, outreach, health, social rehabilitation, spiritual guidance, assistance, law enforcement and legal aid, repatriation, social reintegration;  
+c. cooperating with certain institutions in providing translators and volunteer assistants needed for victims;  
+d. networking with government or private hospitals for treatment and health recovery of victims as well as cooperating with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for victim health recovery;  
+e. providing convenience, comfort and safety for victims;  
+f. maintaining victim confidentiality; and  
+g. providing fulfillment of legal aid for victims.  
+4. The institutional structure of the Women and Children Protection Service Center may be upgraded to a structural institution in the form of a Technical Implementation Unit of the Agency (UPTD) as long as it meets the criteria and requirements for the establishment of a Technical Implementation Unit of the Agency according to the provisions of the Minister of Home Affairs Regulation.  
+5. Further provisions regarding the establishment, institutional structure, procedures and mechanisms for organizing the Women and Children Victims of Violence Protection Service Center are regulated by Mayor Regulation.
+
+#### Article 42
+
+1. In providing integrated services to women and children victims of violence, UPTD PPA carries out the entire process required for women and children, especially for the fulfillment of victims' rights as referred to in Article 41 paragraph (3) letter b.  
+2. In the case of integrated services for women and children victims of violence networked with other institutions, UPTD PPA carries out the entire referral process required for women and children so that they remain protected and their rights are fulfilled.
+
+# CHAPTER VI
+
+## PROHIBITIONS
+
+#### Article 43
+
+1. Every Person in Charge of business and/or activities whose business and/or activities may interfere with child development is prohibited from accepting child visitors.  
+2. Business and/or activities as referred to in paragraph (1) include:  
+a. discotheques;  
+b. nightclubs;  
+c. bars;  
+d. adult karaoke;  
+e. pubs;  
+f. massage parlors;  
+g. steam bath/sauna parlors; and  
+h. other similar business fields.
+
+#### Article 44
+
+Every Person in Charge of business and/or activities organizing hotels, motels, lodging houses, guesthouse businesses, homestays and similar business activities is prohibited from renting rooms to children without being accompanied by parents or adult family members or accompanying teachers/persons in charge.
+
+#### Article 45
+
+1. Every Person in Charge of business and/or activities that organize internet service businesses, play stations and types of children's games based on other information and communication technology must manage and design child-friendly places.  
+2. The provisions as referred to in paragraph (1) include:  
+a. arranging rooms/cubicles with adequate lighting and not closed;  
+b. not accepting children wearing uniforms and/or during school hours;  
+c. locally blocking sites containing elements of pornography and pornographic acts; and  
+d. limiting visiting hours and supervising the use of existing facilities.
+
+# CHAPTER VII
+
+## ADMINISTRATIVE SANCTIONS
+
+#### Article 46
+
+Persons in charge of business and/or activities who violate the provisions as referred to in Article 43, Article 44, Article 45 are subject to administrative sanctions in the form of:
+a. written warning;  
+b. government coercion;  
+c. license suspension; and  
+d. license revocation.
+
+#### Article 47
+
+1. The imposition of written Warning sanctions as referred to in Article 46 letter a is given 3 (three) times with a grace period between one warning and another of at least 1 (one) month.  
+2. The imposition of government coercion sanctions as referred to in Article 46 letter b is the temporary cessation of all business and/or activities, and is carried out if the Person in Charge of business and/or activities does not comply with the written warning as referred to in paragraph (2).  
+3. If the Person in Charge of business and/or activities as referred to in paragraph (2) does not implement the government coercion, a fine may be imposed for each delay in implementing the government coercion sanction of at most Rp.30,000,000.00. (thirty million rupiah).  
+4. The imposition of license suspension or revocation sanctions as referred to in Article 46 letter c and letter d is carried out if the Person in Charge of business and/or activities does not implement the government coercion.  
+5. If within the period specified in the license suspension, the administrative fine is not paid, then license revocation will be carried out.
+
+# CHAPTER VIII
+
+## COORDINATION
+
+#### Article 48
+
+1. The implementation of Child Protection in the region is coordinated by the Agency by forming a Team tasked with conducting monitoring, evaluation, and reporting.  
+2. The Team as referred to in paragraph (1) is established by Mayor Decree.
+
+#### Article 49
+
+1. The Agency carries out monitoring to ensure synergy, balance and effectiveness of integrated measures in the implementation of policies, programs, activities, protection of Women and children.  
+2. Monitoring as referred to in paragraph (1) is carried out by the Agency to determine developments and obstacles in the implementation of policies, programs and activities for the Protection of Women and children.  
+3. Monitoring is carried out periodically on Regional Apparatus implementing policies, activities for the protection of Women and children victims of violence.  
+4. Monitoring is carried out starting from planning to implementation of policies, programs and activities for the protection of women and children every year.
+
+#### Article 50
+
+1. Evaluation of the implementation of policies, programs and activities for the Protection of Women and children victims of violence is carried out at the end of each Budget year or if necessary according to needs.  
+2. Evaluation as referred to in paragraph (1) is carried out in accordance with the provisions of laws and regulations.
+
+#### Article 51
+
+The results of monitoring and evaluation shall be reported by the Agency to the Mayor to be used as input material for the formulation of policies, programs and activities for the protection of women and children victims of violence for the following year
+
+#### Article 52
+
+Further provisions regarding the implementation of coordination as referred to in Article 48, Article 49, Article 50, and Article 51 shall be regulated by Mayor Regulation.
+
+# CHAPTER IX
+
+## GUIDANCE AND SUPERVISION
+
+#### Article 53
+
+1. The Mayor shall carry out guidance and supervision over the implementation of this regional regulation.  
+2. Guidance and supervision as referred to in paragraph (1) shall include the provision of implementation instructions, guidance, supervision, monitoring and evaluation of the Implementation of Protection of Women and Children.  
+3. Further provisions regarding guidance and supervision shall be regulated in a Mayor Regulation.
+
+# CHAPTER X
+
+## COMMUNITY PARTICIPATION
+
+#### Article 54
+
+1. In the implementation of Protection of women and children, the community may participate for:a. establish family partners and complaint services at the Kelurahan level by the community;  
+b. conduct independent socialization of the rights of women and children;  
+c. provide first aid to victims; andd. report to the competent authority if violence against victims occurs in their environment.  
+2. Community participation as referred to in paragraph (1) shall be carried out by individuals, community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector and/or mass media.
+
+# CHAPTER XI
+
+## FUNDING
+
+#### Article 55
+
+Funding for the implementation of Protection of women and children shall be sourced from:
+a. Regional Revenue and Expenditure Budget; and/orb. other legal and non-binding sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER XII
+
+## CLOSING PROVISIONS
+
+#### Article 56
+
+Implementing regulations of this Regional Regulation must be stipulated no later than 1 (one) year, calculated from the promulgation of this Regional Regulation.
+
+#### Article 57
+
+This Regional Regulation shall come into force on the date of promulgation.  
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Probolinggo City.  
+
+Stipulated in Probolinggo on 28 December 2018
+
+##### MAYOR OF PROBOLINGGO,
+
+Signed,
+
+##### R U K M I N I
+
+Promulgated in Probolinggo on 28 December 2018
+
+##### REGIONAL SECRETARY OF PROBOLINGGO CITY,
+
+Signed,
+
+##### BAMBANG AGUS SUWIGNYO
+
+REGIONAL GAZETTE OF PROBOLINGGO CITY YEAR 2018 NUMBER 10 REGISTRATION NUMBER OF REGIONAL REGULATION OF PROBOLINGGO CITY NUMBER 467 – 10/2018 Copy in accordance with the original
+
+##### HEAD OF LEGAL DIVISION,
+
+TITIK WIDAYAWATI, SH, M.Hum
+
+##### NIP. 19680108 199403 2 014
+
+##### ELUCIDATION
+
+##### OF
+
+##### REGIONAL REGULATION OF PROBOLINGGO CITY
+
+##### NUMBER 10 YEAR 2018
+
+##### CONCERNING
+
+##### IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN
+
+##### I. GENERAL
+
+Women and children have become a serious concern both domestically and internationally, considering their vulnerable position as victims of violence and discrimination from their families and environment. Various acts of violence against both women and children within the household and outside the household continue to increase from time to time. This condition, if without serious handling, will destroy the life of households, society, nation and state. Therefore, the government of Probolinggo City is obliged to provide protection to women and children against acts of violence and discrimination which is an implementation of various laws and regulations, including Law Number 23 Year 2002 concerning Child Protection as amended by Law Number 35 Year 2014 and most recently by Law Number 17 Year 2016, Law Number 39 Year 1999 concerning Human Rights, Law Number 23 Year 2004 concerning the Elimination of Domestic Violence, Law Number 21 Year 2007 concerning the Eradication of the Crime of Trafficking in Persons.  
+
+Violence against women and children is a violation of human rights so that their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination. The fate of women and children victims of violence must be given attention by the regional government. The large number of cases of violence against women and children are often caused by factors that develop in society, for example low economic levels, education, environments in the industrial sector. Therefore, victims of violence such as this need to receive protection in accordance with the principles of justice, truth, legal certainty, equality and upholding human rights.  
+
+For the empowerment of victims of violence, the regional government establishes an Integrated Service Center (PPT) which is a generic term that can be used by various institutions that provide services for victims of violence such as the Integrated Service Center for Women and Children Empowerment (P2TP2A), Safe House, Child Social Protection House (RPSA), Trauma Center Protection House (RPTC), Women's Social Protection House (RPSW), Shelter, etc. Which specifically has the main duties and functions for the empowerment of women and children victims of violence.  
+
+The Regional Government is obliged and responsible to carry out efforts to protect women and children victims of violence through: implementing policies for the protection of women and children victims of violence applied by the government, establishing policies, programs, and activities for the protection of women and children victims of violence, establishing PPT, ensuring the implementation of service facilities for victims, seeking effectiveness and efficiency for the victim recovery process, and seeking the creation of cooperation and coordination in victim recovery efforts.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently Clear.
+
+#### Article 2
+
+Sufficiently Clear.
+
+#### Article 3
+
+Sufficiently Clear.
+
+#### Article 4
+
+Sufficiently Clear.
+
+#### Article 5
+
+Sufficiently Clear.
+
+#### Article 6
+
+Sufficiently Clear.
+
+#### Article 7
+
+Sufficiently Clear.
+
+#### Article 8
+
+Sufficiently Clear.
+
+#### Article 9
+
+Sufficiently Clear.
+
+#### Article 10
+
+Sufficiently Clear.
+
+#### Article 11
+
+Sufficiently Clear.
+
+#### Article 12
+
+Sufficiently Clear.
+
+#### Article 13
+
+Sufficiently Clear.
+
+#### Article 14
+
+Sufficiently Clear.
+
+#### Article 15
+
+Sufficiently Clear.
+
+#### Article 16
+
+Sufficiently Clear.
+
+#### Article 17
+
+Sufficiently Clear.
+
+#### Article 18
+
+Sufficiently Clear.
+
+#### Article 19
+
+Sufficiently Clear.
+
+#### Article 20
+
+Sufficiently Clear.
+
+#### Article 21
+
+Sufficiently Clear.
+
+#### Article 22
+
+Sufficiently Clear.
+
+#### Article 23
+
+Sufficiently Clear.
+
+#### Article 24
+
+Sufficiently Clear.
+
+#### Article 25
+
+Sufficiently Clear.
+
+#### Article 26
+
+Sufficiently Clear.
+
+#### Article 27
+
+Sufficiently Clear.
+
+#### Article 28
+
+Sufficiently Clear.
+
+#### Article 29
+
+Sufficiently Clear.
+
+#### Article 30
+
+Point a What is meant by "fast" is immediate action taken without complications or simplified procedures.  
+
+Point b What is meant by "safe and comfortable" is a guarantee of service protection that is not burdensome and feels comfortable, not disturbed, and served in a friendly manner, with respect and appreciation.  
+
+Point c What is meant by "empathy" is actions of appreciating, respecting, caring, being friendly, and making happy which aim to please and calm the hearts of victims.  
+
+Point d What is meant by "non-discriminatory" is service that does not differentiate based on social status and any background.  
+
+Point e What is meant by "easily accessible" is the provision of services and assistance for all people regardless of their social status, so that such services are affordable for the underprivileged or relatively sufficient for the privileged.  
+
+Point f What is meant by "not charged" is that the activities of providing services and assistance carried out by PPT are not charged to victims.  
+
+Point g What is meant by "guaranteed confidentiality" is an effort to guarantee certainty for victims that their identity, medical treatment and legal handling will not be disseminated.
+
+#### Article 31
+
+Point a What is meant by "complaint service" is a series of actions taken by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families or the community.  
+
+What is meant by "counseling" is a process of providing objective and complete information, carried out systematically with interpersonal communication guidance, counseling techniques and mastery of clinical knowledge aimed at helping a person recognize their current condition, the problems being faced, and determine a solution or effort to overcome those problems.  
+
+Point b Assistance services are provided to victims of violence including psychologists, psychiatrists, health experts, religious leaders, advocates and other support personnel as needed.  
+
+Point c What is meant by "medical rehabilitation services" is services or actions to reduce/eliminate pain resulting from physical and functional disorders to restore optimal functional capacity.  
+
+Point d What is meant by "social rehabilitation" is services aimed at restoring and developing the capacity of a person experiencing social dysfunction so that they can perform their social functions properly.  
+
+Point e What is meant by "legal services" is legal services provided by legal assistants or advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.  
+
+Point f What is meant by "social reintegration" is an effort to reunite victims with family, substitute family, or community that can provide protection and fulfillment of needs for victims.
+
+#### Article 32
+
+Sufficiently Clear.
+
+#### Article 33
+
+Point a Sufficiently Clear.  
+
+Point b Sufficiently Clear.  
+
+Point c Sufficiently Clear.  
+
+Point d Sufficiently Clear.  
+
+Point e Sufficiently Clear.  
+
+Point f What is meant by "continuous handling up to the rehabilitation stage" is handling that does not stop at physical and psychological healing, but until the victim can resume life in society including the restoration of their good name.
+
+#### Article 34
+
+Sufficiently Clear.
+
+#### Article 35
+
+Sufficiently Clear.
+
+#### Article 36
+
+Sufficiently Clear.
+
+#### Article 37
+
+Sufficiently Clear.
+
+#### Article 38
+
+Sufficiently Clear.
+
+#### Article 39
+
+Sufficiently Clear.
+
+#### Article 40
+
+Sufficiently Clear.
+
+#### Article 41
+
+Paragraph (1) Sufficiently Clear.  
+
+Paragraph (2) Sufficiently Clear.  
+
+Paragraph (3) Point a What is meant by "health services" is efforts that include promotive, preventive, curative and rehabilitative aspects.  
+
+What is meant by "fast" is immediate action taken without complications or simplified procedures.  
+
+What is meant by "without charge" is that the activities of providing services and assistance carried out by the Service Center are not charged to victims.  
+
+Point b What is meant by "social rehabilitation" is services aimed at restoring and developing the capacity of a person experiencing social dysfunction so that they can perform their social functions properly.  
+
+What is meant by "social reintegration" is an effort to reunite victims with family, substitute family, or community that can provide protection and fulfillment of needs for victims.  
+
+Point c Sufficiently Clear.  
+
+Point d Sufficiently Clear.  
+
+Point e Sufficiently Clear.  
+
+Point f What is meant by "maintaining confidentiality" is an effort to guarantee certainty for victims that their identity, medical treatment and legal handling will not be disseminated.  
+
+Point g What is meant by "fulfillment of legal aid" is legal services provided by legal assistants or advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.  
+
+Paragraph (4) Sufficiently Clear.
+
+#### Article 42
+
+Sufficiently Clear.
+
+#### Article 43
+
+Sufficiently Clear.
+
+#### Article 44
+
+Sufficiently Clear.
+
+#### Article 45
+
+Sufficiently Clear.
+
+#### Article 46
+
+Sufficiently Clear.
+
+#### Article 47
+
+Sufficiently Clear.
+
+#### Article 48
+
+Sufficiently Clear.
+
+#### Article 49
+
+Sufficiently Clear.
+
+#### Article 50
+
+Sufficiently Clear.
+
+#### Article 51
+
+Sufficiently Clear.
+
+#### Article 52
+
+Sufficiently Clear.
+
+#### Article 53
+
+Sufficiently Clear.
+
+#### Article 54
+
+Sufficiently Clear.
+
+#### Article 55
+
+Sufficiently Clear.
+
+#### Article 56
+
+Sufficiently Clear.
+
+#### Article 57
+
+Sufficiently Clear.
+
+##### SUPPLEMENT TO THE REGIONAL GAZETTE OF PROBOLINGGO CITY NUMBER 35

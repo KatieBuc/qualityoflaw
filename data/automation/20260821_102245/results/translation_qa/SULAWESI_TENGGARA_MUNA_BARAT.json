@@ -1,0 +1,77 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched headings: original includes multiple # headings after the joint approval section (# BUPATI MUNA BARAT, # MEMUTUSKAN, and the fragmented # DAE RAH TENT ANG PERLINDUNGAN) which are missing/merged in the translation; translation also adds a new heading '# HAS DECIDED' not present as a heading in the original.",
+        "Scrambled list formatting: in Article 2, 3, and 4 the list items 'andf.', 'dane.', and 'andb.' are run together; they must be separate list items (a–f / a–e / a–b) matching the original markers and order.",
+        "Meaning drift/omission: the line 'Menetapkan: PERA TU RAN  PEREMPUAN' is not faithfully represented; the translation collapses/normalizes it into 'To Establish: REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN' and omits the separate fragmented headings that follow in the original. For downstream boundary-splitting, these must be preserved as distinct headings/lines.",
+        "Broken/altered text in the enactment clause: \"Menetapkan: PERA TU RAN  PEREMPUAN\" and \"# DAE RAH TENT ANG PERLINDUNGAN\" were mistranslated/garbled as \"To Establish: REGULATION  WOMEN\" and \"# REGIONAL  CONCERNING PROTECTION\"; should be \"To stipulate: REGIONAL REGULATION ...\" and heading should reflect \"REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN\".",
+        "Meaning drift in Article 1 point 6: OPD is incorrectly translated as including a \"regional people's representative institution\"; the original defines OPD as a regional apparatus organization (executive), not the DPRD (legislative).",
+        "Meaning drift in Article 5(1) letter f: \"diperhampa\" (intended \"diperhamba\" = enslaved) was translated as \"servitude\"; should be \"enslavement\" (or \"being enslaved\").",
+        "Minor meaning/structure fidelity: Article 2 list item e/f in the original is run together (\"danf.\"), but translation regularizes it; acceptable, but ensure no content is lost (kept as separate e and f)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places (e.g., 'andc.', 'includes:a.', 'and/or d.') causing list structure to differ from the original.",
+        "Article 8 item list marker 'L' should be 'l.' (lowercase L) to match the original lettering sequence.",
+        "Minor meaning drift/terminology: 'Peraturan Bupati' should be rendered consistently as 'Regent Regulation' (not 'Regent Regulation' vs 'Regent Regulation' is fine), but 'Peraturan Bu pati' typo in original should still be translated as 'Regent Regulation'—main issue is structural, not terminology.",
+        "Scrambled/altered list-marker structure in Article 14: original uses numbered items 1–6, but translation changes item (1) to '(1)' while items 2–6 are not consistently marked as '2.' etc., risking boundary-based retrieval.",
+        "Minor meaning drift/term specificity: 'Peraturan Bupati' should be rendered consistently as 'Regent Regulation' (kept), but OPD is translated as 'Regional Apparatus Organization'—better as 'Regional Apparatus Device/Organization (OPD)' to preserve the legal acronym used in the source for downstream reference."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 18(2): the markers 'a.' and 'g.' are attached to preceding text ('...as follows:a.' and 'andg.') instead of being separate items, risking downstream boundary splitting.",
+        "Minor meaning/format drift in Article 18(2): original has 'dan g.' (typo 'dang.') indicating item g; translation should clearly render it as separate item 'g.'.",
+        "Broken Markdown/list structure in Article 18(2): original has inline list markers \"a.\"–\"g.\" (with \"dan g.\" typo) immediately after the sentence; translation reformats into an indented sublist, changing marker structure used for downstream splitting.",
+        "Meaning drift/normalization of source typo: original merges items \"f.\" and \"g.\" as \"...;  dang.\"; translation renders clean \"and g.\", which may not match strict marker expectations.",
+        "Minor meaning nuance: \"dipidana\" in Article 19 is rendered as \"subject to criminal sanctions\"; closer is \"shall be punished\"/\"shall be sentenced\" (still within laws and regulations)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/leftover source artifact: in Article 14(1) the phrase \"Gender Mainstreaming is a strategy that can ..\" retains the Indonesian ellipsis \"..\" and leaves the sentence incomplete; the original indicates an unfinished/omitted phrase (\"dapat ..\") that should not be rendered as literal \"..\" in English legal text.",
+        "Scrambled/merged list structure in Article 8: original has distinct markers 'Ayat (1) Huruf a, Huruf b, Huruf c, ... Huruf l' and 'Ayat (2)'; translation collapses them into running text and does not preserve the original markers exactly (e.g., 'Hurufb', 'Hurufh', 'Hurufj', 'Hurufk', 'Hurufl' are not preserved as-is).",
+        "Meaning drift in Article 8 letter g: 'Perempuan man tan warga binaan lembaga kemasyarakatn' refers to a former inmate of a correctional institution; translation changes it to 'former resident of correctional institution' (should be 'former inmate/convict').",
+        "Meaning drift in Article 13(2): 'dalam lingkup rumah tangganya' (within the scope of the household) is translated as 'within the scope of her household' (should be 'their household')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_TENGGARA_MUNA_BARAT.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.741823+00:00",
+  "prompt_version": "v2"
+}

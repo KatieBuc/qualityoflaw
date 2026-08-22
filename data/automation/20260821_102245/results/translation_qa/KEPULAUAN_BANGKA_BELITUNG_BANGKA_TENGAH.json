@@ -1,0 +1,53 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 1,
+  "qa_passes_total": 5,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in Article 2: \"dand.\" should be separate items \"d.\" and \"and\"; translation has \"andd.\" merged.",
+        "Scrambled/merged list markers in Article 3: \"andf.\" should be separate item \"f.\" preceded by \"and\".",
+        "List marker formatting issue in Article 4: item \"h.\" is merged with its text (\"h.Hak\" / \"h.Right\"), should be \"h.\" followed by a space.",
+        "Meaning drift in legal citation item 12: original includes the Indonesian parenthetical title of the convention; translation omits it.",
+        "Broken/scrambled list text in Article 2 and Article 3 in the original: \"dand.\" and \"andf.\" are merged; translation normalizes them but should reflect the original list-marker structure exactly (a–d and a–f) and keep markers in the same order without merged text artifacts.",
+        "Minor meaning drift in Article 1 point 7: \"didyagunakan\" is closer to \"utilized/assigned\"; current translation is acceptable but should be tightened to avoid implying broader exploitation; adjust wording slightly while preserving meaning."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: multiple sub-items are concatenated with preceding text (e.g., 'right to:a.', 'andj.', 'to:a.', 'andd.', 'ande.', 'org.', 'andi.', 'and/orc.'), which breaks list structure and downstream parsing.",
+        "Markdown/list structure not faithfully preserved: sub-item markers a–j, a–e, etc. are not separated as distinct list items in the same order/format as the original."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.700717+00:00",
+  "prompt_version": "v2"
+}

@@ -1,0 +1,186 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 11,
+  "chunks_corrected": 11,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 10,
+  "qa_passes_total": 22,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken numbering/list structure: item number 5 is missing in the translation (original has an unnumbered Law No. 23/2002 entry that corresponds to item 5 in the sequence between 4 and 6).",
+        "Meaning drift/omission: the translation omits the 'Mengingat:' (Considering/Observing/Whereas) label before the legal-basis list, which is present in the original and affects the legal drafting structure.",
+        "Minor meaning drift: 'litrah dan kodratnya' is rendered as 'nature and destiny'; 'destiny' is not accurate for 'kodrat' (more properly 'nature').",
+        "Broken numbering/list structure: item '1.' is incorrectly attached to the Article 18 heading; in the original, '1.' is a separate list item (UUD 1945) and 'Pasal 18 ayat (6)' is part of that item, not a heading.",
+        "Meaning drift/omission: the 'Mengingat:' label is missing as a heading/label; the translation adds 'Observing:' but the original has no separate 'Observing:' line—only 'Mengingat:' followed by the legal bases list.",
+        "Scrambled/incorrect list items: items 15–17 are present as empty markers in both texts, but the translation should preserve them as separate numbered items (not merged into surrounding text).",
+        "Minor meaning drift: 'litrah dan kodratnya' is rendered redundantly as 'nature and inherent nature'; should be 'nature and disposition' (or similar) to reflect two distinct concepts."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect numbering: item 17 is mistranslated as \"12. Guardian\" (should be 17), causing list marker mismatch with the original sequence.",
+        "Meaning drift/foreign text: item 19 contains non-English characters (\"障碍\") not present in the original; should be rendered as \"barriers/impairments\".",
+        "Minor meaning/structure fidelity: item 8 in the original includes an extra stray marker \"g.\" before the definition of physical violence; translation normalizes it to \"9.\" only. To preserve markers for downstream splitting, include the \"g.\" marker in the same position.",
+        "Scrambled/mismatched list marker: item 9 in the original appears as \"g.\" in the translation; numbering must match the original sequence (9.).",
+        "Minor meaning drift/typo propagation: original item 17 is misprinted as \"12.\"; translation normalizes it to 17. but downstream structure requires preserving the original marker sequence exactly (keep it as 17 only if original is clearly 17; here it is \"12.\" so marker should be 17?—to match original markers, keep the original's marker as written)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items (a–e) are run together on the same line in Articles 2, 3, 7, 5, 9, and 12; Article 3 also merges item e. into item 3 and item d. into item c.",
+        "Meaning drift/translation error: Article 12 item b contains an untranslated/garbled word \"€unan\"; it should be \"safe\" (aman).",
+        "Broken structure/stray text: a standalone \"/\" line appears after Article 12; it is not part of the legal text.",
+        "Meaning drift: Article 15 paragraph (4) is mistranslated as \"free of charge\"; the original says it is carried out \"gradually\" (secara ...).",
+        "Broken numbering: Article 10 paragraph (4) is embedded into paragraph (3) instead of being a separate numbered item; Article 15 has corrupted paragraph numbering (\"(2t\", \"(3) (1)\") that should be (1)–(5) in order.",
+        "Broken Markdown structure: original has unheaded lines \"Ba.gan Kesattr Kelembagaan\", \"Bagtan Kedua Bentuk dan Mekanisme PelaYanan\", \"Bagran Ketiga PrinsiP PelaYanan\", \"## Bagian kesattr\", \"Agama\", \"Bagtan Kedua Kesehatan\" as plain paragraphs, but translation turns several into headings (\"Part One\", \"Part Two\", \"Part Three\", \"## Part One\") and changes heading levels.",
+        "Scrambled list/numbering structure: Article 13 in the original uses (1) and (2) markers inline; translation separates them and changes their placement, altering the structure used for downstream parsing.",
+        "Meaning drift: Article 12 item b is \"€unan\" (unclear/garbled) in the original but translated as \"safety\"; should be kept as an unclear term rather than interpreted.",
+        "Minor meaning/faithfulness: Article 15 paragraph (4) \"cuilra-cuilra\" is unclear/garbled; translation renders it as \"gradually\" (interpretation). Also original has typos like \"paragraph (2;;\" that should be preserved structurally as (2) in translation without introducing new errors."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: \"Pasal24\" and \"Pasa1 31\" are headings in the original but are not rendered as \"#### Article 24\" and \"#### Article 31\" headings in the translation.",
+        "Scrambled/incorrect list structure: Article 18 merges item (1) and (2) into one line and runs subitems together (\"acts of:a.\", \"andc.\"); Article 26 merges (1) and (2) and has corrupted references (\"paragraph (U\", \"(21\"); Article 27 has a stray fragment line and subitem f is merged into \"andf.\"; Article 33 merges subitem b into \"andb.\"; Article 35 merges subitem g into \"andg.\" and item (2) subitems are partially run together.",
+        "Meaning drift/omissions due to structural corruption: Article 27(2) is incomplete/garbled compared to the original (contains an extra fragment and does not clearly convey that efforts are adjusted to age, environment, and the child's ability level so as not to hinder or disturb development).",
+        "Article 24: original has no heading marker (\"Pasal24\" is inline), but translation adds a new heading \"#### Article 24\", breaking Markdown boundary alignment.",
+        "Article 24: numbering/structure drift—original contains paragraph markers \"(1)\" and \"(2)\"; translation renders them as stray \"(1)\" in the sentence and \"paragraph (1) (2)\" instead of two separate numbered paragraphs.",
+        "Article 18(1): meaning drift—\"upaya transplantasi organ tubuhnya\" is organ transplantation of the child's organs; translation says \"transplant their body organs\" (could imply transplanting into the child).",
+        "Article 34: meaning drift—\"membiarkan anak tanpa perlindungan jiwa\" is leaving children without protection of life/safety; translation \"without protection of life\" is awkward/unclear; should be \"without protection for their lives/safety\"."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown heading structure: \"Pasal42\" is not translated/preserved as a level-4 heading (\"#### Article 42\"), but is merged into a paragraph line starting with \"Article 42\".",
+        "Scrambled/merged list formatting: several lettered items are concatenated with preceding text (e.g., \"through:a.\", \"andc.\", \"andg.\") and one item marker includes stray text \"24g.\"; some markers/content are not cleanly separated as in the original.",
+        "Meaning drift/omission risk due to formatting: Article 40 in the original has paragraph markers (1) and (2) referenced; translation references paragraph (1) but does not preserve the (1)/(2) structure, and Article 42 loses its paragraph (1)/(2) structure by being merged into running text.",
+        "Minor meaning/term issue: Article 43 item u is rendered as \"move and citizenship\" which is incomplete vs. \"berpindah tempat dan kewarganegaraan\" (should be \"freedom of movement and nationality/citizenship\").",
+        "Broken Markdown heading structure: several headings in the original are missing or not kept as headings (e.g., \"Bagian Kesahr\" and \"Umum\"; \"Bagran Keempat Hak Privasi\"; \"Bagan Kelima Hak Keadilan dan Perlindungan Hukum\"; \"Bagran Keenam Hak Pendidikan\"), and the last line is incorrectly rendered as a list item (\"i. Part Six Right to Education\") instead of a heading.",
+        "Scrambled/incorrect list/numbering: in Article 49 the original has a stray \"24\" before item g (\"24g.\"), which must be preserved as part of the list marker; the translation normalizes it to \"g.\" and also duplicates \"i.\" at the end.",
+        "Meaning drift: Article 49(h)-(i) is mistranslated/garbled in the source; the translation invents a clean structure (civil matters + IP rights) whereas the original text is fragmented and includes \"memilih dan menunjuk...\" and \"dilindungi hak kekayaan intelektualnya\" with a broken marker sequence. The translation must reflect the original structure/content without adding clarity not present in the source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled list markers: several items are run together without required spacing/newlines (e.g., 'andd.'); Article 54 and Article 61 have 'b.' and 'c.' merged into prior text; Article 60 has 'includes:a.' merged.",
+        "List/numbering marker typo carried over: '2l' should be '2.' to match the original numbering marker.",
+        "Broken Markdown heading marker for Article 61: original has 'Pasal6l' as a plain line (no heading), but translation changes it to 'Article6l' also as plain line; keep structure but fix spacing to 'Article 61' to reflect the article number consistently without altering heading levels.",
+        "Meaning drift/grammar affecting legal clarity: 'present an Companion' should be 'present a Companion' (pendamping).",
+        "Broken Markdown structure: \"Pasal 61\" in the original is not formatted as a level-4 heading (####) in the translation; it appears as plain text \"Article 61 ...\".",
+        "Meaning drift/duplication: Article 57 point (3) repeats the phrase \"due to physical and psychological obstacles\" twice; the original states it once (\"hambatan fisik dan psikis\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal commentary at the end of the translation: \"This excerpt sits under: CHAPTER X > CLOSING PROVISIONS > Article 62\" is not in the original text.",
+        "Meaning drift in item (2): \"seluruh tumpah darah Indonesia\" was mistranslated as \"all Indonesian bloodshed\"; it should be \"the entire territory of Indonesia\" (or equivalent).",
+        "Meaning drift/omission: the last sentence is cut off; original ends with 'sebenarnya sudah terkandung pada' and translation ends with 'are actually already contained in' without completing the thought, indicating truncation/incomplete translation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in constitutional reference: original cites Article 28H paragraph (2) but translation renders it as paragraph (2) while original text shows \"ayat (21\" (intended (2)); keep as (2) is fine, but another drift: original fine minimum for Article 81(1) is Rp.5.000.000.000,- (five billion) while translation keeps it; however original maximum fine is Rp.300.000.000,- and minimum Rp.5.000.000.000,- (inconsistent in source) — translation should preserve this inconsistency exactly (it does). Main issue: original Article 28H reference is written as \"ayat (21\" and translation normalizes to (2), which may affect downstream exact matching.",
+        "Scrambled/flattened numbering structure: Article 81 and 82 paragraphs (1)(2)(3) are run together in one line; original uses explicit markers (1), (2), (3) and (1), (2) that should be preserved as separate list/paragraph items for reliable boundary splitting.",
+        "Meaning drift in Article 27: original cites Articles 27–34 of the 1945 Constitution, but translation says Articles 27–34 (should be 27–34, not changed) — OK; however original refers to Article 28H paragraph (2) but translation renders it as paragraph (21).",
+        "Meaning drift in Article 81(1): minimum fine is Rp.5,000,000,000 (five billion) in the original, but translation states minimum fine Rp.5,000,000,000 while maximum Rp.300,000,000, which is inconsistent with the original text’s stated 'paling banyak Rp.300.000.000' and 'paling sedikit Rp.5.000.000.000' (kept) but needs clearer rendering; also original has several typos but the legal meaning is that max fine is 300 million and min fine is 5 billion—retain as written.",
+        "Meaning drift in Article 82(1): original includes both maximum fine Rp.5,000,000,000 and (implicitly) no minimum fine stated; translation matches but should preserve spacing/formatting consistently; minor but acceptable. Main required fix is the incorrect paragraph number (21) -> (2) in Article 28H."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list marker formatting: several list items are merged (\"andp.\", \"andv.\"), and some markers are missing required spacing/newlines (\"4.\" should be \"(4)\")",
+        "List/numbering structure not preserved exactly: original uses parenthesized numbering (e.g., \"(1)\") but translation mixes (1)/(2)/(3) with \"4.\"",
+        "Meaning drift/typo in Criminal Code article range: original refers to Articles 281–296 (not 281), translation says \"281 to 296\" (should be 281–296 but also original text has \"28L\" which is clearly 281; keep as 281–296)",
+        "Meaning drift: original refers to Criminal Code Articles 281–296 (often OCR-misread as 28L), but translation renders it as Articles 281–296; should match the original text's numbering as given.",
+        "Scrambled/incorrect list marker: in the original, the victim rights list begins with “(1)” but is OCR-rendered as “(U)”; translation normalizes it to “(1)” instead of preserving the marker as it appears in the source, risking boundary mismatch for downstream splitting.",
+        "Scrambled/incorrect list marker: in the original, the victim rights list item “(2)” is OCR-rendered as “121”; translation changes it to “(2)” instead of preserving the marker as it appears in the source.",
+        "Scrambled/incorrect list marker: in the original, the victim rights list item “(3)” is OCR-rendered as “(3)” but appears on the same line as “121 ...”; translation restructures/normalizes numbering rather than preserving the exact marker sequence as in the source."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Broken/scrambled Markdown structure: several headings in the original are merged into the preceding paragraph in the translation (Article 9, 22, 24, 27, 31, 41 are not separate '####' headings)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Konseling3\" in the original is rendered as \"Counseling\" (missing the trailing \"3\").",
+        "Meaning drift: \"Cukup je1as.\" in Article 61 is translated as \"Sufficiently clear.\" without reflecting the original typo/character \"1\" (should be preserved as \"je1as\" -> \"c1ear\" if mirroring).",
+        "Meaning drift/typo carried into translation: \"Counseling3\" should be \"Counseling\" (original has a typo \"Konseling3\" but intended term is Counseling; leaving the '3' can break downstream indicator matching)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_SELATAN_MUSI_RAWAS.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.750632+00:00",
+  "prompt_version": "v2"
+}

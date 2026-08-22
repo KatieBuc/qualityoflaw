@@ -1,0 +1,113 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 7,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 6,
+  "qa_passes_total": 13,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "List marker inconsistency: original uses \"a\" (no period) for item a, but translation uses \"a\" while items b–d use \"b.\", \"c.\", \"d.\"; should match original markers (a, b., c., d.).",
+        "Minor meaning drift/accuracy: \"SALINAN\" is better rendered as \"COPY\" or \"EXCERPT\"; current is acceptable, but keep as \"COPY\"; no change needed there. Primary required fix is list marker fidelity for downstream parsing.",
+        "Scrambled list/numbering structure: in the 'Considering' section, item marker 'a' is missing the period (should be 'a.' to match the original list markers)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 1: item 5 is merged into item 4 (missing separate '5.' marker).",
+        "Scrambled/merged numbering and lettered lists in Article 2: paragraph (3) is merged into paragraph (2); lettered subitems a–c and a–f are run together (e.g., 'form of:a.', 'andc.', 'andf.') and '(3)' marker is not on its own item.",
+        "Scrambled/merged lettered list in Article 4(2): subitem markers a–c are run together (e.g., 'womenb.').",
+        "Scrambled/merged lettered list in Article 5: subitems a–d are run together (e.g., 'services; b.', 'andd.').",
+        "Scrambled/merged numbering and lettered lists in Article 6: subitems a–f and a–i are run together (e.g., 'form of:a.', 'andf.', 'women:a.', 'andi.').",
+        "Scrambled/merged lettered list in Article 7: subitems a–g are run together (e.g., 'receive: a.', 'andg.').",
+        "Scrambled list/numbering structure in Article 3: original uses inline markers '... bentuk: (1) ...; dan (2) ...', but translation breaks them into separate paragraphs; downstream boundary splitting requires markers to appear once in the same order and attached to their content.",
+        "Meaning drift in Article 2(5): cross-reference should be to paragraph (5) (original: 'ayat (2)' appears to be a typo; context indicates it refers to the Regional Action Plan in paragraph (4)); translation currently says 'paragraph (2)', which misstates the reference."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several paragraph markers and lettered sub-items are run together (e.g., Article 11(3) with a–f, Article 12 c–d, Article 13(3) a–c, Article 14(2) a–b, Article 19(1) intro with a–k, Article 19(2) intro with a–i, Article 20(2) intro with a–g, Article 20(3) intro with a–i). This breaks downstream boundary splitting.",
+        "Minor meaning drift/terminology: \"Dinas\" translated as \"Agency\"; should be \"Service/Department (Dinas)\" to avoid changing the referenced institution name.",
+        "Broken numbering/list structure in the original is not mirrored: in Article 11(2) the original contains an inline “(3)” and in Article 13(2) the original contains an inline “(3)”; the translation regularized these into separate items, which breaks downstream boundary matching.",
+        "List-marker attachment differs from the original in a few places where markers are concatenated (e.g., “dan/ataud.”, “danc.”, “danf.”, “dangi.”); translation should preserve the same marker sequence/placement as the source for reliable splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in multiple places: missing spaces/newlines cause items to run together (e.g., 'and/orf.', 'and/ord.', 'and/orc.', 'and/orb.', 'andg.', 'andf.', 'andc.', and 'through:a.'). This breaks list structure required for downstream splitting.",
+        "Minor meaning drift/unnatural rendering: 'Handling' used as a noun heading/term; better rendered as 'Management/Handling' but kept as 'Handling' is acceptable—main required fix is structural list separation.",
+        "Broken list/numbering formatting in the original (e.g., \"dan/atauf.\", \"dang.\", \"and/ataud.\") was normalized in the translation; downstream requires the same list-item markers and order, including the fused markers as they appear in the source.",
+        "Meaning drift risk from normalizing fused markers: the source text has \"dan/atau\" directly attached to the next item marker (e.g., \"dan/atauf.\"), which must be preserved exactly as a marker boundary for retrieval."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers: several lettered items are concatenated with conjunctions (e.g., \"andc.\", \"andg.\", \"andh.\", \"andd.\"), and Article 41(3) has \"includes:a.\" without proper separation.",
+        "Scrambled numbering in Article 40: items (3) and (4) are merged into item 2 instead of appearing as separate numbered points.",
+        "Meaning drift in Article 47(2): translation says noncompliance with written warning referred to in paragraph (2), but the original refers to paragraph (1).",
+        "Scrambled/incorrect list numbering in Article 40: items (3) and (4) are not formatted consistently with items 1 and 2 (should be 3. and 4. in sequence).",
+        "Meaning drift in Article 47(2): translation incorrectly refers to noncompliance with the written warning in paragraph (1); the original says noncompliance with the written warning referred to in paragraph (2) (even though this appears internally inconsistent, it must be preserved)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 54(1): sub-items a–d are run together (missing line breaks/spaces), causing markers and content to be improperly associated.",
+        "Scrambled/merged list structure in Article 55: sub-items a and b are run together (\"and/orb.\"), breaking list marker boundaries.",
+        "Scrambled list/numbering structure: in Article 54(1) the original has inline list markers (a., b., c., d.) with some markers joined to adjacent words (\"untuk:a.\", \"dand.\"), but the translation reformats into a nested list; downstream requires markers appear exactly once and in the same order/structure as the original.",
+        "Scrambled list/numbering structure: in Article 55 the original has inline markers with joined text (\"dan/ataub.\"), but the translation reformats into a vertical list; downstream requires markers appear exactly once and in the same order/structure as the original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_PROBOLINGGO_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.657399+00:00",
+  "prompt_version": "v2"
+}

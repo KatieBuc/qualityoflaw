@@ -1,0 +1,77 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the final clause \"Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN\" is cut off in the translation (missing \"PROTECTION\"/\"PENYELENGGARAAN\" continuation).",
+        "Scrambled/stray list marker: an extra standalone bullet \"•\" appears between items 6 and 7, which is not part of the numbered list structure.",
+        "Meaning drift/terminology: \"PROVINS! MALUKU\" is rendered as \"PROVINCE OF MALUKU\"; the original appears to be \"PROVINSI MALUKU\" (typo in source), but translation should reflect the intended heading consistently; also item 12 is better rendered as \"Formation of Laws and Regulations\" rather than \"Formulation of Legislation\" to match \"Pembentukan\".",
+        "Broken Markdown/list structure: the original contains a standalone bullet line \"•\" between items 6 and 7 under \"Mengingat:\"; this marker is missing in the translation, so list markers are not preserved exactly.",
+        "Meaning/format drift in item 6 closing punctuation: original ends with \"3961. ;\"; translation renders it as \"3961. ;\" but also leaves the parenthesis unclosed and punctuation awkward—needs to match original structure by keeping the same trailing punctuation while maintaining the same item boundary (no content added)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the original has two separate top-level headings (“# PERLINDUNGAN KEKERASAN.” and “# PEREMPUAN DAN ANAK KORBAN”), but the translation merged them into one heading, so headings do not match 1:1 in order/level.",
+        "Scrambled/incorrect numbering in Article 6: the original has a stray “(1)” after “memberikan tempat” and then continues with items 2–4; the translation kept this as “provides a place (1)” and also uses “paragraph (!)”, which should be “paragraph (1)”.",
+        "Leftover non-text artifact: a standalone bullet “•” appears under Article 9, which is not part of the legal text and disrupts list structure.",
+        "List/marker formatting drift: in Article 4 the original has “i. ...; danj. ...” (j is attached to “dan”); translation should preserve separate markers i. and j. as distinct list items (not “and j.” on the same line).",
+        "Broken/mismatched heading structure: in the original, 'Pasal8' and 'Pasal9' are not formatted as '#### Pasal 8/9' headings, but the translation changes them into plain paragraphs starting with 'Article 8' and 'Article 9' without matching the original's heading level/marker structure.",
+        "Scrambled/incorrect list marker in Article 6(1): the translation contains an extraneous '(1)' inside the sentence ('provides a place (1) and/or...'), which does not correspond to the original and disrupts the numbering structure."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: Article 12 item f is merged into item e as 'andf.'; Article 16 item g is merged into item f as 'andg.'; Article 17 item e is merged into item d as 'ande.'; Article 20 item b is merged into item a as 'orb.'",
+        "List/numbering structure not faithfully preserved: in Article 12 the second numbered item '2.' should be a separate numbered item after the a–f list (as in the original), and the a–f list must have distinct items a–f in order.",
+        "Broken/scrambled list structure in Article 12: item numbering is inconsistent with the original (the original has a single list starting with '1.' then 'a.'–'f.' and then '2.', but the translation omits the leading '1.' before the a–f list).",
+        "Meaning drift/typo in Article 12(2): 'paragraph (l)' uses letter 'l' instead of numeral '1' (should be 'paragraph (1)')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Broken structure: original has headings \"## BABXII\" and \"## KETENTUAN PENUTUP\" but translation changes them to English headings (not a direct structural match) and omits the original 'Pasal' heading formatting (original has plain 'Pasa122'/'Pasal23' lines, not '####' headings).",
+        "Meaning drift/numbering: original shows 'Pasa122' (intended Pasal 22) and 'Pasal23'; translation renders as 'Article 22' and 'Article 23' but does not preserve the original's exact marker text/formatting, which downstream splitting depends on.",
+        "Scrambled/merged markers: in Article 8 and Article 9, the original has multiple markers on one line (e.g., 'Ayat (1) Cukupjelas Ayat (2)...'); translation keeps them merged but changes 'Ayat' to 'Paragraph' and 'Huruf' to 'Letter' without preserving the original marker tokens, risking boundary mismatch.",
+        "Headings and article labels not translated: 'Pasal' remains 'Pasal' (should be 'Article') and 'BABXII'/'KETENTUAN PENUTUP' etc. remain Indonesian, violating required heading translation example.",
+        "Meaning drift/typos carried into translation: 'Pasa122' and 'Pasal23' are not rendered as proper article references (should be Article 22 and Article 23 based on context), which can break downstream legal-indicator parsing.",
+        "Minor meaning/format issue: 'Promulgated on date.' omits the colon/placeholder structure from the original ('Diundangkan pada tanggal.') and should be kept as 'Promulgated on:' to match."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "MALUKU_KEPULAUAN_TANIMBAR.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.708808+00:00",
+  "prompt_version": "v2"
+}

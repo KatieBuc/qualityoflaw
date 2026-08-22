@@ -1,0 +1,110 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/mismatched numbering in the legal basis list: the original skips number 15 (goes 14 then 16), but the translation should preserve this exactly; ensure numbering and punctuation match the original list markers and sequence.",
+        "Minor meaning drift/accuracy: original item 2 contains a typo in the English title of the convention (“Flimination… Againts…”); translation silently corrects it. For strict downstream matching, keep the referenced title as in the source (or at least do not introduce content not present).",
+        "Scrambled/mismatched numbering in the legal basis list: item 15 is missing in both original and translation, but the translation must preserve the original list markers exactly; ensure numbering matches the source (including the jump from 14 to 16).",
+        "Minor meaning drift/typo carried over in the title of the CEDAW convention in item 2: 'Flimination'/'Againts' are not faithful renderings; should be 'Elimination'/'Against' while keeping the parenthetical convention title."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: in Article 1 items 6–8 are run together on one line instead of separate numbered items.",
+        "Scrambled/merged list structure: in Article 2 list items e–h are merged (\"e.\" and \"f.\" on one line; \"andh.\" missing space), and item g duplicates item b as in the source but formatting is broken.",
+        "Scrambled/merged list structure: in Article 3 items b–c and d–e are merged on the same lines, disrupting list boundaries required for downstream splitting."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 4: several lettered items run together on the same line (a with b; k with l; m with n; o with p with q with r with s), and sub-bullets under l, n, and r are not consistently marked as list items.",
+        "Scrambled/merged list structure in Article 5: a and b run together; d and e run together (\"ande.\").",
+        "Scrambled/merged list structure in Article 6: d and e run together (\"ande.\").",
+        "Scrambled/merged list structure in Article 7: c and d run together (\"andd.\").",
+        "Scrambled/merged numbering in Article 8: item (3) is merged into item 2 and its subpoints a and b are merged into the same line; numbering markers should appear in order as 1, 2, (3), 4, 5.",
+        "Scrambled/merged numbering in Articles 9–11: paragraph markers (2) and (4) are merged into preceding sentences instead of appearing as separate numbered items.",
+        "Scrambled/merged list structure in Article 10(3): the lead-in and subpoints a–d are merged (\"to:a.\" and \"andd.\").",
+        "Meaning drift in Article 4(h): Indonesian distinguishes 'extraordinary education' for children with disabilities vs 'special education' for gifted/advantaged children; translation renders both as 'special education'.",
+        "Meaning drift/awkwardness in Article 4(r): phrase 'in a closed hearing for law' is incorrect; should reflect 'in a closed session for the sake of law' (demi hukum).",
+        "Scrambled/inconsistent numbering markers: Article 8 and Article 9 use “(3)”/“(2)” while other items use “1.”/“2.”; markers should match the original sequence and style (1., 2., 3., etc.).",
+        "List marker formatting drift in Article 4 letter l and n: original uses inline “- …; …; …; …; …; dan - …” structure; translation partially converts to bullets but leaves some lines without bullet markers, risking downstream list splitting/retrieval. Reformat to consistent bullet list while preserving content and order."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/malformed list structure: several markers are merged into preceding text (e.g., '(3)' in Article 12 and 13; 'a.' attached to preceding clause; 'andc.', 'andd.', 'andf.'), and some list items are not on their own lines, risking boundary-based splitting.",
+        "Broken numbering formatting: Article 12 item (3) is embedded in item 2 instead of being a separate numbered item; similarly Article 13 item (3) and (4) are embedded in item 2/3 block; Article 14 letter f is merged into letter e line.",
+        "Minor meaning drift/awkwardness: '1x24 (one times twenty-four) hours' should be '1x24 (one time twenty-four) hours' (singular), to match 'satu kali'.",
+        "Scrambled list/numbering structure in the original: Article 12(2) contains the (3) clause, and Article 12(4) contains lettered items a–c with 'dan c.'; translation normalizes these into separate items, which breaks marker alignment with the source structure.",
+        "Scrambled list/numbering structure in the original: Article 13(2) contains the (3) clause and Article 13(3) contains (4) and (5); translation splits them into separate numbered items, changing the original marker sequence.",
+        "Scrambled list/numbering structure in the original: Article 14(2) contains lettered items a–f with 'dan f.'; translation normalizes them, changing marker alignment."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken/mismatched heading: \"Pasl 29\" in the original is not rendered as a \"#### Pasal 29\" heading; the translation likewise lacks the required \"#### Article 29\" heading and instead uses an inline \"Article 29 (1)\" paragraph.",
+        "Scrambled numbering structure: several paragraph markers are merged into preceding text instead of appearing as separate items in order (e.g., Article 31 paragraph (3) is embedded in paragraph (2); Article 33 paragraph (2) is embedded in paragraph (1); Article 39 paragraph (2) is embedded in paragraph (1).",
+        "Meaning drift/formatting: Article 28 item d/e in the original is corrupted (\"dane.\"); translation normalizes it, but the required list-marker sequence must be preserved; also Article 38 list intro and items are run together in the original and should be kept as list items a–d on separate lines for structure consistency.",
+        "Broken Markdown structure: in the original, the heading for Article 29 is not a Markdown heading but a run-in line \"Pasl 29 (1) ...\"; the translation incorrectly introduces a new heading \"#### Article 29\".",
+        "Scrambled/changed numbering markers: Article 29 uses (1) then \"2.\" and \"3.\" in the original run-in structure; translation changes the structure by separating it under a new heading (and keeps numbering but not the original heading/marker placement)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the original has no heading for “I. PENJELASAN UMUM” (it is inline text), but the translation introduces “I. GENERAL ELUCIDATION” inline; however the main structural issue is that “##### II.PENJELASAN PASAL DEMI PASAL” is a single heading in the original, while the translation changes spacing/punctuation to “##### II.ARTICLE BY ARTICLE ELUCIDATION” (missing the original’s no-space after II).",
+        "Meaning drift/terminology: “Cukup Jelas” is better rendered as “Sufficiently clear” or “Self-explanatory”; “Sufficiently Clear” is acceptable, but “ELUCIDATION” for “PENJELASAN” is awkward; more importantly, “NUMBER 16 YEAR 2015” should be “NUMBER 16 OF 2015” to match legal meaning/idiom.",
+        "Minor meaning/format fidelity: double period “rights..” retained; acceptable but should match original’s punctuation (original has “hak..”); keep as-is but ensure no extra changes. (No content added/omitted otherwise.)",
+        "Meaning drift/translation error in heading: \"II.PENJELASAN PASAL DEMI PASAL\" was mistranslated as \"II.PARTICLE BY ARTICLE ELUCIDATION\"; should be \"II. ARTICLE BY ARTICLE ELUCIDATION\" (or equivalent).",
+        "Untranslated Indonesian text remains at the end: \"TAMBAHAN LEMBARAN DAERAH KABUPATEN LAMANDAU TAHUN 2015 NOMOR 182\" should be translated to English."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_TENGAH_LAMANDAU.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.689823+00:00",
+  "prompt_version": "v2"
+}

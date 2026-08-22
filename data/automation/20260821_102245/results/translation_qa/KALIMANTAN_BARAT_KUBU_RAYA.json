@@ -1,0 +1,79 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 4,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 8,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/translation error: \"Mengingat\" was translated as \"Noting\"; in Indonesian legal drafting it should be rendered as \"Considering\"/\"In view of\" (legal basis).",
+        "Meaning drift/translation error in Article 1 point 13: \"orang atau perkawinan\" was mistranslated as \"a person or marriage\"; it should be \"person or group/team\" (or similar), i.e., companion(s) from an institution.",
+        "Minor meaning/terminology: Article 1 point 12 \"Pelayanan/penanganan\" better rendered as \"service/handling\" but the definition refers to actions taken immediately; keep but ensure grammatical clarity.",
+        "Formatting/list marker issue: in Article 2 and Article 4, list items \"and d.\" / \"and c.\" are run together on the same line; should be separated to preserve clear item boundaries (a., b., c., d.)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list numbering in Article 7: original shows \"1. (2)\" and a bullet before the list; translation keeps this but it is structurally inconsistent and should reflect the original structure as separate items (paragraph (1) content and then the following sentence referring to paragraph (1)).",
+        "List markers are merged with text in multiple places (e.g., \"by:a.\", \"andf.\", \"andg.\", \"and/atauf.\", \"and/orc.\", \"andb.\", \"and I.\"), risking downstream boundary splitting; needs spacing/newlines so each marker (a., b., c., etc.) appears cleanly and in order.",
+        "Meaning drift/typo carryover: \"and/atauf.\" in Article 13 should be \"and/or f.\" (original \"dan/atau f\"), and similar \"and/ a tau\" artifacts should be normalized to \"and/or\" without changing meaning.",
+        "Markdown/list structure not faithfully preserved where original has standalone bullets \"•  •\" and \"•\" lines; translation keeps some but list association is inconsistent (e.g., Article 18 has bullets between a. and b.; keep them as separate lines but ensure a./b./c. remain properly ordered and formatted).",
+        "Scrambled/incorrect list numbering in Article 7: original shows '1. (2) •' (corrupted), but translation preserves this corruption; should be normalized to match intended paragraph numbering and remove stray bullet while keeping content order.",
+        "List marker mismatch in Article 20: original uses '1.' then 'J.' then 'I.' (letter I) due to source corruption; translation keeps '1.' and 'J.' but uses 'I.' which can be confused with Roman numeral/uppercase i—should preserve exact marker forms from original (use '1.' then 'J.' then 'I.' as in source, but ensure consistent capitalization and not convert to '1.' as a number item in a lettered list).",
+        "Meaning drift in Article 6(2): original has typo 'dan/ a tau' meaning 'and/or'; translation correct, but should reflect 'and/or'—OK; however Article 5(2)(f) adds 'through' phrasing that slightly shifts structure; should be 'through communication, information and education media that are complete and easily accessible' (minor).",
+        "Broken list formatting where original has run-together markers (e.g., 'danf.', 'dang.') that must appear as separate items a–f/g in same order; translation fixes this, which is acceptable, but must ensure no markers are omitted (notably Article 8 includes g; OK)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several provisions: sub-items a–c in Article 24(2), a–d in Article 25(5), a–f in Article 28(2), and a–d in Article 29(2) are run together (e.g., 'andc.', 'including:a.', 'andf.', 'include:a.') instead of being clearly separated as distinct list items in the original.",
+        "Minor meaning drift/terminology: 'kelurahan/desa' rendered as 'sub-district/village' (kelurahan is urban village/ward, not sub-district).",
+        "Broken/scrambled list structure in Article 24(2): original has subitems a, b, and c (with 'dan c.' merged), but translation presents a, b, and c with different line structure; needs to preserve original marker sequence and association exactly.",
+        "Broken Markdown/list-marker fidelity: original contains standalone bullet symbols '•' and '•  •' around CHAPTER IX and before CHAPTER X; translation includes them but placement should mirror original line breaks exactly (keep as separate lines as in source)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "List/letter markers are mistranslated/merged (e.g., \"Huruf a\" rendered as \"Lettera\" instead of \"Letter a\"; \"Huruf c\" vs \"Hurufc\" inconsistent), which can break downstream marker-based parsing.",
+        "Article 30 heading is missing/incorrectly formatted: original has \"Pasal30\" as a separate line (not a heading), but translation should preserve the same marker structure; also spacing/typos like \"Cuk:up\" should be reflected as meaning \"Sufficiently clear\" without altering structure.",
+        "Minor meaning/term drift: \"rohaniawan\" translated as \"religious counselors\"; closer is \"clergy/religious leaders\" in this legal context.",
+        "Markdown/list structure needs normalization to match original markers exactly (e.g., keep standalone bullet lines \"•\" and \"•  •\" as in original, and keep combined line for Article 24/25 as in original).",
+        "Broken Markdown structure: in the original, \"Pasal30\" is plain text (not a heading), but the translation renders it as \"Article30\" plain text without the space; keep formatting consistent and correct spacing to match the original marker.",
+        "Meaning drift/typo: \"Cuk:up jelas\" is rendered as \"Sufficiently clear\" (fine), but the colon artifact should be preserved only as meaning, while the missing space in \"Article30\" is an error affecting downstream matching.",
+        "Minor structure fidelity: Original has \"#### Pasal 24   Cukup jelas. tt Pasal 25  Cukup jelas.\" (with \"Pasal 25\" not as a heading); translation mirrors this but should keep \"Article 25\" spacing consistent with other articles."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_BARAT_KUBU_RAYA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.666003+00:00",
+  "prompt_version": "v2"
+}

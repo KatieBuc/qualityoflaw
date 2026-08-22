@@ -1,0 +1,101 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item 20 is missing the period after the number (should be \"20.\") compared to the original \"20\" list item marker format used elsewhere.",
+        "Meaning drift/accuracy: in item 4, the translation omits \"Nomor\" (Number) after \"State Gazette\" and does not reflect the original lowercase \"lembar\" but more importantly loses the explicit numbering format; also item 4 should consistently render \"Lembaran Negara ... Nomor ...\" as \"State Gazette ... Number ...\".",
+        "Meaning drift/accuracy: in item 3, the phrase \"Perubahan\" is mistranslated/duplicated; the original is already internally inconsistent, but the translation should mirror it more faithfully by keeping \"Amendment\" tied to Law No. 16/2019 without inserting an extra standalone \"Amendment\" phrase that changes readability/structure.",
+        "Meaning drift/omission in legal citation item 4: the State Gazette number is missing in the translation (\"Number ,\"), whereas the original specifies it (\"tahun 1997\").",
+        "Minor meaning drift in item 3: duplicated/garbled amendment phrase; should reflect the original wording (\"as amended several times, most recently by Law No. 16 of 2019\")."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/structure in the original: items 3–5 and 15–16 are run together; translation did not preserve the original’s exact list-item boundaries (e.g., original item 3 contains items 4–5 text; original item 15 contains item 16 text). For downstream splitting, each numbered item must appear once and in the same order with its correct content.",
+        "Meaning drift in item 43: 'Pendampingan' is defined as a 'social worker' (pekerja sosial), not 'social work' (an activity)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: multiple lettered items are run together on the same line (e.g., 'andf.', 'Childrene.', 'andj.', 'ande.'), and in Article 15 paragraph (2) the '(3)' marker is merged into the same line, risking boundary-based parsing errors.",
+        "Minor meaning/clarity drift from formatting errors: some items become ambiguous due to missing separators (e.g., Article 2 item f, Article 3 items d–g, Article 11 item j, Article 12 item e, Article 13 item f, Article 14 item g).",
+        "Scrambled/incorrect list marker formatting: Article 15 paragraph (3) is written as '(3)' instead of '3.' and is not aligned with the numbering style used in the original (1., 2., 3.).",
+        "Meaning drift/awkward rendering in Article 4 item 10: 'Children in Need of Special Protection others.' mistranslates 'Anak Membutuhkan Perlindungan Khusus lainnya' (should be 'other children in need of special protection')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several list markers are attached to preceding text without required line breaks (e.g., Article 19(2) 'as follows:a.', Article 20(1) 'fields of:a.', Article 21(2) 'services:a.', Article 21(3) merges item (4) into the same paragraph, Article 25(1) 'with:a.', Article 25(2) 'includes: a.').",
+        "List item markers incorrectly merged: 'andg.'/'ande.' appear instead of separate 'g.'/'e.' items, which breaks downstream parsing.",
+        "Meaning drift/grammar: Article 16 renders 'keluarga dan/atau orang tua ... yang ... memiliki tanggung jawab penuh' as if the family/parents are 'referred to in Article 13 letter d' rather than the obligations being referred to; needs reattachment to match original meaning.",
+        "Scrambled/inconsistent list markers: Article 17 uses mixed markers '(1)' then '2.' and '3.'; should consistently follow the original sequence (1), 2), 3).",
+        "Scrambled list/numbering structure in Article 21: paragraph (4) is formatted as '(4)' instead of '4.' and is separated from item 3; numbering should follow the original order 1., 2., 3., 4., 5. with the same markers.",
+        "Meaning drift/grammar affecting legal clarity: Article 16 renders the clause as if 'who' refers to Article 13(d) rather than to family/parents; should clearly state that the family/parents have full legal responsibility.",
+        "Minor meaning drift: Article 23(1) lists 'education' as an actor; should be 'educators/education personnel' to match 'tenaga ... pendidikan'.",
+        "Markdown/list boundary issue: In Article 19(2) the original has '... upaya sebagai berikut:a.' (no line break); translation inserts a blank line. This can affect downstream splitting; keep marker adjacency consistent."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list structure in Article 28: paragraph marker “(2)” is merged into item d of paragraph (1); items a–d under paragraph (1) are not clearly separated from paragraph (2).",
+        "Scrambled list structure in Article 31(1): list item “b.” is merged into item “a.” on the same line, disrupting list boundaries.",
+        "Minor meaning/term drift: “kabupaten” rendered as “district” in several places; should be “regency” in Indonesian administrative context (affects legal indicator evaluation).",
+        "Original Article 28 paragraph (1) contains lettered items a–d inline; translation reformats them as a nested list, changing the list/numbering structure required for downstream splitting.",
+        "Original Article 29 paragraph (3) contains lettered items a–f inline; translation breaks them across lines and merges markers/content (e.g., '...related to: a.' on same line; 'd.' and 'e.' on same line), scrambling list structure.",
+        "Meaning drift in Article 29(3): original incorrectly references paragraph (3) (self-reference); translation preserves it, but numbering structure is still inconsistent with original (missing paragraph (4) and jumps to (5) must be preserved exactly as in original).",
+        "Minor meaning drift/typo handling: Original Article 27 item d/e/f are run together with typos ('kabupatene. fasilitasi... danf.'); translation silently normalizes; should preserve intended separate items but keep markers exactly a–f in order (already present) while not adding structure beyond original."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "LAMPUNG_TANGGAMUS.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.708013+00:00",
+  "prompt_version": "v2"
+}

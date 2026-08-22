@@ -1,0 +1,130 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 9,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 15,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list structure in 'Considering': only item 'a.' is shown; items 'b.' and 'c.' from the original are present as paragraphs but their markers are missing, which breaks downstream list-boundary retrieval."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/inconsistent list marker structure: in Article 10 the original list item marker \"d.\" appears only for the last item, while items a–c are unmarked; the translation reproduces this, but downstream evaluation requires every original list marker to appear once and in order. The list should be consistently marked a–d.",
+        "Minor meaning/term drift: \"huruf\" should be rendered as \"letter\" consistently, but list items in Article 10 should be aligned to letters a–d to match the reference structure.",
+        "Scrambled/inconsistent list structure: Original uses inline/semicolon-separated items without lettered subpoints in Articles 4–9; translation introduces/omits explicit list markers inconsistently (e.g., Article 10 adds a–d markers not present as such in the original, while other similar lists remain unmarked). For downstream boundary-sensitive processing, list markers should mirror the original structure.",
+        "Meaning drift/terminology: In Article 7, \"hidup tenteram, aman, damai\" is rendered as \"peacefully, safely, in peace\" (duplicative/awkward) and \"assemble\" for \"berkumpul\" is unnatural in legal English; adjust to standard legal phrasing without changing meaning."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list structure: in Article 14(1), Article 15(2), Article 16, Article 17, Article 18, and Article 20 the original contains multiple list items separated by semicolons/line breaks, but the translation collapses them into run-on paragraphs without preserving the individual list markers/items in order (downstream boundary-sensitive).",
+        "Meaning drift: Article 17 last sentence should be 'Regent Regulation' (Peraturan Bupati), not 'Regent Regulation' is acceptable but should be 'Regent Regulation' vs 'Regent Regulation'—ok; however Article 18 item on 'pendidikan luar biasa' vs 'pendidikan khusus' is mistranslated as 'special education' for both, losing the distinction between special education for disabilities and special education for gifted children.",
+        "Minor meaning drift/word choice: 'lembaga pemerhati perempuan' is closer to 'women's observer/concern organizations' than 'women's advocacy institutions' (advocacy adds meaning).",
+        "Scrambled/altered list structure: Article 15 and Article 17 were converted into numbered subparagraphs (1)-(4) and lettered lists, whereas the original has unnumbered paragraphs and inline list items separated by semicolons.",
+        "List markers do not match the original: Article 14 item (1) in the original has no a.–m. markers, but the translation added them; downstream boundary splitting requires the same markers/order as the original.",
+        "Meaning drift: Article 17 last sentence should refer to a Regent Regulation (Peraturan Bupati), not a “Regent Regulation” is acceptable but should be “Regent Regulation”/“Regent’s Regulation”; also Article 16 last item should be “women's observer institutions” (lembaga pemerhati perempuan), not “women's observer/concern institutions” (slash adds ambiguity)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/mismatched list/numbering structure: original uses lettered items (huruf a–i) and paragraph numbering (ayat (1)–(3)), but translation renders them as plain paragraphs and uses an incorrect marker \"3.\" instead of \"(3)\"; list markers must be preserved in the same order.",
+        "Meaning drift: Article 39(1) \"anak yang berhadapan dengan hukum\" is broader than \"children in conflict with the law\"; it includes both children in conflict with the law and child victims of crimes. Translation should use \"children in contact with the law\" (or equivalent) for the umbrella term.",
+        "Meaning drift: Article 39(2) should refer to implementation of special protection as referred to in paragraph (1) (not reintroduce the narrower term).",
+        "Broken Markdown/list structure: Article 37 in the original is a plain semicolon-separated list without letter markers, but the translation adds a.–i. items (downstream boundary mismatch).",
+        "Scrambled/mismatched numbering: In the original Article 39, the third paragraph is marked \"3.\" (not \"(3)\"); translation changes it to \"(3)\".",
+        "Meaning drift/term choice: \"anak yang berhadapan dengan hukum\" is better rendered as \"children in conflict with the law\"; \"children in contact with the law\" can broaden/shift meaning in legal context."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list structure in Article 49(3): the original contains a list of actions but the translation renders them as run-on semicolon-separated paragraphs without the original list markers.",
+        "Scrambled/missing list structure in Article 50(2): the original contains a list of parental obligations but the translation renders them as run-on semicolon-separated paragraphs without the original list markers.",
+        "Scrambled list structure in Article 51(3): original uses lettered items (a, b, etc.) for forms of PPT; translation uses headings for first two items and omits the letter markers.",
+        "Meaning drift/formatting: Article 52 function list item c is missing as a separate marker; in the original it is part of the a/b/c list (with c combined into the same line as b), but the translation collapses it into b without preserving the c marker.",
+        "Broken Markdown/list structure in Article 51: original uses separate '#####' list items for P2TP2A and LK3, then plain items for KPAD and other institutions; translation converted these into a single a./b./c. list and removed the '#####' headings.",
+        "Meaning drift in Article 51(3): original does not label the forms as lettered sub-items (a/b/c); translation adds lettered structure not present in the source, which can affect downstream boundary-based parsing."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list structure in Article 61: the original has paragraph (1) and then a list of obligations; the translation omits the (1) marker and does not preserve the item markers/structure (should be presented as a list).",
+        "Meaning drift/clarity risk in Article 61 due to missing paragraph reference: 'as referred to in paragraph (1)' is inconsistent because paragraph (1) is not marked in the translation.",
+        "Scrambled/altered list structure in Article 61: the original has no explicit (1)/(2) paragraphs or a–d list markers; the translation introduced new numbering/lettering, which breaks downstream boundary matching.",
+        "Meaning drift risk from added paragraph/list markers: obligations are the same but the structural segmentation is not faithful to the source Markdown."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_SELATAN_TANA_TORAJA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.730632+00:00",
+  "prompt_version": "v2"
+}

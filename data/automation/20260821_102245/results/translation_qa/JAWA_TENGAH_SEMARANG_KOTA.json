@@ -1,0 +1,92 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 11,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken numbering/formatting: item 6 in the \"In View of\" list is missing the terminating semicolon and line break, causing it to run into item 7 (scrambled list structure risk).",
+        "Meaning drift: 'Pembentukan Peraturan Perundang-undangan' is mistranslated as 'Formulation of Legislation' (should be 'Formation/Establishment of Laws and Regulations').",
+        "Minor meaning drift/terminology: 'Tenaga kerja Indonesia Diluar Negeri' is translated as 'Indonesian Migrant Workers Abroad' (more accurate: 'Indonesian Workers Abroad')."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: missing line breaks causing items to run together (Article 3: 'ande.'; Article 4: 'and/org.'; Article 5: 'a.' with 'b.' on same line and 'andj.'; Article 6: 'a.' with 'b.' on same line and 'ande.'). This breaks list structure required for downstream splitting.",
+        "Minor meaning drift in Article 2(f): Indonesian 'Pengayoman' is better rendered as 'Guidance/Patronage' rather than repeating 'Protection' (already used as the subject).",
+        "Meaning drift in Article 2 item f: \"Pengayoman\" translated as \"Guidance\"; should be closer to \"Protection/Shelter\" (protective patronage)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items (a–g) are run together on the same line as the preceding sentence/item (e.g., Article 8(1) 'include: a.', Article 9(2) 'includes: a.', Article 10 list items, Article 15(2) 'by way of: a.', Article 16(1) 'fields of: a.'), and some markers are concatenated (e.g., 'and/or d.', 'and g.', 'and j.'). This risks downstream boundary splitting.",
+        "Minor meaning drift/terminology: 'kelurahan' is translated as 'sub-district' in Article 15(2)(g); 'kelurahan' is more accurately 'urban village' (administrative village).",
+        "Broken list/numbering structure: in Article 16(1) item e ends with a colon instead of a semicolon, which disrupts the original a–j list marker formatting (original uses semicolons and 'and' before j)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list markers in several places: missing spaces/newlines causing items to run together (e.g., Article 21(2) 'and:a.' and 'and/org. Media'; Article 21(3) 'andd.'; Article 22(2) 'b....; c....; andd.'; Article 23(2) 'andf.'; Article 26 'Budgetb.' and 'and/ore.'). This breaks list/numbering structure required for downstream splitting.",
+        "Minor meaning/terminology drift: 'and/or g. Media' should be 'and/or g. Media' (missing space and list marker), and several instances need proper separation to preserve the exact a–g and a–f itemization from the original.",
+        "Broken list/numbering structure in Article 26: item 'a.' is missing its required semicolon and the original has 'a.' and 'b.' run together (\"Negarab.\")—the translation should preserve separate list items with correct markers and punctuation.",
+        "Minor meaning drift in Article 24: 'DPRD' is left untranslated/undefined; should be rendered as the Regional People's Representative Council (DPRD) to match legal meaning in English while retaining the acronym."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/inconsistent list marker formatting in Article 8 Paragraph (1) Point a: original uses subitems '1)' then '2.' '3.' '4.'; translation changes the first marker to '1)' but keeps others as '2.' etc. Markers must match the original exactly and in order.",
+        "Scrambled/inconsistent list marker structure in Article 8 Paragraph (1) Point a: original uses mixed markers \"1)\" then \"2.\", \"3.\", \"4.\"; translation changes the second marker to \"2.\" but keeps the first as \"1)\", not matching the original marker sequence.",
+        "Minor meaning drift in Article 4 Point e: \"Perlakuan salah\" translated as \"Maltreatment is maltreatment\" (tautological); should convey \"abuse/mistreatment\" as a definition.",
+        "Minor meaning drift in Article 11 Paragraph (2): \"PPT Kecamatan\" rendered as \"PPT Sub-district\"; should retain the proper name/term \"PPT Kecamatan\" (or \"Sub-district PPT (PPT Kecamatan)\") to avoid altering an institutional designation."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_SEMARANG_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.626227+00:00",
+  "prompt_version": "v2"
+}

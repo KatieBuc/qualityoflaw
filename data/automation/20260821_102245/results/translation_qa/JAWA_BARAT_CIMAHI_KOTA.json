@@ -1,0 +1,80 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 4,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 3,
+  "qa_passes_total": 9,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the standalone line \"Dengan Persetujuan Bersama\" is translated as \"With Mutual Approval\" but the translation adds an extra level-1 heading \"# AND\" that does not exist in the original and splits the intended heading sequence.",
+        "Meaning/structure drift: the original has two consecutive headings \"# DEWAN PERWAKILAN RAKYAT DAERAH KOTA CIMAHI\" and \"# WALI KOTA CIMAHI\"; the translation inserts \"# AND\" between them, altering the boundary used for downstream splitting.",
+        "Meaning drift/omission: in legal basis item 2, the original includes the English convention title in parentheses and has punctuation '3277. ;' which is not reflected; translation omits the parenthetical convention title and normalizes punctuation.",
+        "Minor meaning drift: original 'Dengan Persetujuan Bersama' is a formal phrase; translation 'With Mutual Approval' is acceptable but better rendered as 'With Joint Approval' in this legal context. (Not structural, but affects legal phrasing consistency.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: in Article 7 items (4), (5), and (6) are not formatted as list item 4., 5., 6. like the original sequence (they appear as parenthetical markers), which breaks downstream list boundary matching.",
+        "Scrambled list/numbering structure: several lettered sub-items (a–g, a–e) are run together on the same line as preceding text (e.g., '...because: a.'; '...stage; e.'; '...stigma; and e.'), risking marker/content association errors; reformat to keep each marker on its own line in the correct order.",
+        "Broken Markdown structure: original has heading \"## Bagian Kesatu\" but translation uses \"## Part One\"; it should be a third-level heading (\"###\") to match the original heading level.",
+        "Meaning drift/terminology: \"Bagian Kesatu\" is better rendered as \"Part One\" but must preserve heading level; also keep structure exactly as original for downstream splitting."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list marker structure: Article 14 paragraph (8) is merged into paragraph (7) and uses '(8)' instead of '8.'",
+        "Scrambled list formatting: several lettered items are merged on one line (e.g., 'and j. universities', 'and e.', 'and d.', 'and g.'), which breaks the original a./b./c. item boundaries and order required for downstream splitting",
+        "Meaning drift/typos from source due to merged markers: 'andj. perguruan tinggi' should be item j (universities) as a separate list item; similar merges occur in Articles 17, 19, 20, 22, 23, 24"
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list numbering in Article 26: item (2) is merged into item 1 and lacks the '2.' marker; list sub-items a–d are run together (missing line breaks before 'a.' and 'd.').",
+        "Markdown/list structure not faithfully preserved in Article 26: original has separate numbered items 1, 2, 3 and sub-items a–d; translation formatting collapses these boundaries, which can break downstream splitting.",
+        "Scrambled numbering/list structure in Article 26 in the original: item (2) is embedded in item 1 and sub-items a–d are run together; translation normalizes it but does not preserve the original marker placement/sequence exactly as written.",
+        "Markdown/list marker fidelity: original Article 26 has '(2)' inline after item 1 and 'd. kinerja' is attached to 'dan' without a line break; translation reformats into a clean list, which may break downstream boundary matching that expects the original marker layout."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_CIMAHI_KOTA.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.585380+00:00",
+  "prompt_version": "v2"
+}

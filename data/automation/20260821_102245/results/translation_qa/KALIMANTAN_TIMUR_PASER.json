@@ -1,0 +1,89 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 5,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 4,
+  "qa_passes_total": 10,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in Considering point (c): original incorrectly references letters a and c; translation repeats this, but it should be letters a and b to match the intended legal reference.",
+        "Minor formatting issue: missing space after colon in \"To Establish:REGIONAL...\" (original has \"Menetapkan:PERATURAN...\" but for clarity and consistency in English legal drafting, a space should be inserted without changing structure).",
+        "Meaning drift in Considering point c: original incorrectly references letters a and c; translation changes it to letters a and b, altering the source text.",
+        "Broken structure/extra text inserted: the standalone word \"and\" is added between two level-1 headings; the original has no such line and downstream heading-based splitting may be affected."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled/flattened list structure: multiple defined terms in Article 1 are run together without the original list markers (e.g., 'Pemerintah Daerah adalah...', 'Bupati adalah...', etc.), which risks downstream boundary splitting.",
+        "Scrambled/flattened list structure: Article 2 principles and Article 3 objectives are presented as run-on text separated by semicolons instead of distinct list items as in the original.",
+        "Scrambled/flattened list structure: Article 4 obligations and Article 5 scope items are not preserved as separate list items in the same order as the original.",
+        "List marker mismatch: Article 7 references 'Article 5 letter a' but Article 5 items are not labeled a/b/c in the translation; original uses 'huruf a' (letter a) tied to the first item.",
+        "Broken list/numbering structure: Article 1 in the original is a run-on series of definitions without lettered items, but the translation adds a.–w. list markers that do not exist in the source (added structure)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list structure: original uses paragraph (1) reference but the translation does not mark the preceding items as paragraph (1); service/prevention items are run together without preserving the original's paragraph/list boundary.",
+        "Meaning drift/terminology: \"Peraturan Bupati\" should be \"Regent Regulation\" (not \"Regent Regulation\" is fine) but consistency needed; also \"Handling\" is better rendered as \"Management\"/\"Response\"—however main required fix is structural to match paragraph numbering used downstream.",
+        "Broken/scrambled list structure: Original uses unnumbered items separated by semicolons (no (1)-(6), (1)-(5), etc.), but translation introduces numbered lists, changing list markers and structure required for downstream splitting.",
+        "Meaning drift: Article 8 second paragraph refers to prevention in paragraph (1) in the translation, but the original refers to prevention as meant in paragraph (1) even though no paragraph numbering exists; this should be rendered as 'as referred to in paragraph (1)' only if paragraph (1) exists—better to keep structure consistent by not inventing paragraph numbering.",
+        "Meaning drift/terminology: 'Penanganan' is translated as 'Handling' throughout; in this legal context it should be 'Handling/Response' or 'Management'. (Kept as 'Handling' is acceptable, but the main issue is structural numbering.)"
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 26: 'pada seseorang' translated as 'to a person' instead of 'in a person' (psychological suffering experienced by the person).",
+        "Meaning drift in Article 35 (third occurrence): original says 'mulai berlaku' (begins to apply) but translation repeats 'shall come into force' (same as earlier occurrences), failing to reflect the wording difference.",
+        "Broken Markdown/list structure: heading '## Bagian Hukum' in the original is translated as '## Part Legal' (unnatural/incorrect rendering of the heading; should be '## Legal Section' to match meaning while preserving heading level).",
+        "Meaning drift: In Article 28, the second item adds 'with other persons' (dengan orang lain) which is not present in the original; the original only states coercion for commercial and/or certain purposes.",
+        "Meaning drift/terminology: In Article 31, 'bantuan pemulangan' is translated as 'repatriation assistance', which can imply cross-border return; the original is general return/transport home assistance.",
+        "Minor meaning drift: In Article 33, 'service managers' is used for 'Pengelola pelayanan'; better rendered as 'service providers/service administrators' to match the original scope."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Bantuan pemulangan\" translated as \"Repatriation assistance\"; should be \"return assistance\" (assistance in returning home/other destination safely), not repatriation.",
+        "Minor meaning/grammar issue: \"The best interests of victims means...\" should be \"The best interests of the victim are...\" (kepentingan yang terbaik bagi korban adalah...), and the sentence structure should reflect that it is a principle/consideration.",
+        "Formatting/structure: missing punctuation/paragraph break in Article 2 and Article 31 where two separate definitions run together (\"...hasil pembangunan tersebut Non-discrimination...\" and \"...menyelesaikan masalahnya Social reintegration...\"). This risks downstream parsing and clarity."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_TIMUR_PASER.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.695213+00:00",
+  "prompt_version": "v2"
+}

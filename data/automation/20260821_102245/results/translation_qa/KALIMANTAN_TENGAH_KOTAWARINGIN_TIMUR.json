@@ -1,0 +1,103 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 6,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 5,
+  "qa_passes_total": 12,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Undang-Undang Nomor 23 Tahun 2003' should be 'Law Number 23 of 2002' (Child Protection Law), consistent with the original text and the amendment reference.",
+        "Minor meaning drift: 'Berita Negara Republik Indonesia' is better rendered as 'State Gazette of the Republic of Indonesia' (not 'State News').",
+        "Meaning drift in legal citation: Original item (3) is Law No. 23 of 2003, but translation renders it as Law No. 23 of 2002.",
+        "Minor meaning drift: Original item (11) contains typo 'Negra' (should be 'Negara'); translation normalizes it to 'State Gazette'—acceptable generally, but keep meaning faithful; main required fix is the year/number in item (3)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Broken/missing structure: the original has the heading text \"Pasal\" (Article) before the definitions list (i.e., Article 1), but the translation renders it as \"Article In...\" without the article number/title, so the article marker is missing.",
+        "Meaning drift/omission: the original implies this is Article 1 (definitions) and the translation fails to state the article number, which can affect legal-indicator parsing and retrieval boundaries.",
+        "Broken/mismatched Markdown heading structure: original has '# BAB I' then '## KETENTUAN' then '## UMUM' and no 'Pasal 1' heading, but translation uses '# CHAPTER I' then '## GENERAL' then '## PROVISIONS' (order swapped) and adds '#### Article 1' heading not present in the original.",
+        "Scrambled list/numbering structure in Article 9: item 'e.' should be part of the same a–e list and follow 'd.' with proper conjunction; original has 'dan/atau d.' then 'e.', but translation has 'd.' ending with a period and then 'e.' on a new line without 'and/or' linkage."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Broken Markdown structure: the original has no heading for \"Kewajiban Pemerintah Daerah\" (it is plain text under \"## Bagian Kesatu\"), but the translation turns it into a heading-like standalone line; same issue for \"Kewajiban Masyarakat dan Keluarga\" and \"Pencegahan\" which are plain text in the original but appear as standalone lines in the translation.",
+        "Meaning drift/accuracy: Article 20(1) in the original is internally inconsistent (refers to paragraph (1)); translation keeps the inconsistency but adds an extra duplicated phrase \"is P2TP2A is\" that is not in the original Indonesian wording (it should be a single copula construction).",
+        "Broken Markdown structure: missing heading level for \"Kewajiban Pemerintah Daerah\" (should be plain paragraph under \"## Part One\", not an added heading), and missing heading level for \"PUSAT PELAYANAN TERPADU...\" (should be a # CHAPTER VII heading, not plain paragraph).",
+        "Scrambled/incorrect list formatting in Article 22: original has \"dan d.\" (and d.) but translation drops the conjunction; list item d should be preceded by \"and\" to match the original structure.",
+        "Meaning drift in Article 20(1) and 20(3): Indonesian text is internally inconsistent (refers to ayat (1) and (3)); translation should preserve this by keeping the same references and the duplicated phrasing \"is P2TP2A\" in (1), and (3) should refer to paragraph (3) as in the original even if odd."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items are concatenated with preceding text (e.g., 'by:a.', 'ande.', 'andc.', 'andg.', 'andf.'), which breaks list markers and can affect downstream splitting.",
+        "Meaning drift in Article 38(1): original refers to Article 32 letter f, but translation incorrectly says letter e.",
+        "Minor meaning drift/awkwardness in Article 45(3): Indonesian states that monthly, quarterly, and annual reports are submitted periodically; translation is ungrammatical and risks misreading.",
+        "Meaning drift: Article 37 incorrectly refers to Article 34 letter e; the original refers to Article 32 letter e (legal services).",
+        "Meaning drift: Article 38 paragraph (1) incorrectly refers to Article 32 letter e; the original refers to Article 32 letter f (repatriation and social reintegration services)."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Broken structure: original has heading '# BAB VIII' after '# BAB XII' (as written); translation follows it, but this indicates chapter numbering inconsistency in source—no fix needed. However, original contains 'II. PASAL DEMI Pasal Cukup jelas.' as plain text; translation renders it as 'II. ARTICLE BY Article Sufficiently clear.' which is meaning/wording drift and malformed phrase.",
+        "Meaning drift/terminology: 'Pasal demi Pasal' should be translated as 'Article by Article', not 'ARTICLE BY Article'.",
+        "Meaning drift: 'memerintahkan pengundangan' is mistranslated as 'orders the promulgation' without subject; should be 'it is ordered to promulgate' / 'it orders the promulgation' referring to the regulation/government; current English is ungrammatical and can affect downstream parsing.",
+        "Minor meaning drift: 'pidana kurungan' is 'confinement imprisonment' (short-term detention); translation as 'imprisonment' is acceptable but could be closer as 'confinement' or 'detention'.",
+        "Broken Markdown structure: original has heading '##### PENJELASAN', '##### ATAS', '##### PERATURAN DAERAH ...', '##### NOMOR 3 TAHUN 2015', '##### TENTANG', and then '##### PERLINDUNGAN ... I. UMUM' as a single heading; translation splits 'I. GENERAL' into the same heading line but changes the meaning/structure by translating it and not preserving the combined heading text exactly as a heading unit.",
+        "Meaning drift: 'I. UMUM' is rendered as 'I. GENERAL' within the heading; for legal-document fidelity and downstream boundary matching, the heading text should preserve the section label 'I. UMUM' (or at least keep the 'I.' section marker as in the original) rather than translating it into a different label."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 28(2) point a: “mitra keluarga” translated as “family partners” instead of “family partners/companions (mitra keluarga)”—term is a specific community cadre concept; better kept as “family partners (mitra keluarga)” to avoid misinterpretation.",
+        "Meaning drift in Article 30(2): “Puskesmas” translated generically as “Community Health Centers”; should be “Community Health Centers (Puskesmas)” to preserve the specific Indonesian institution name used in the legal text.",
+        "Meaning drift in Article 30(2): “lembaga-lembaga keumatan lainnya” translated as “other religious institutions”; closer is “other faith-based/community religious institutions” and should preserve the nuance of “keumatan” (community/faith-based)."
+      ],
+      "passes": 2,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.689072+00:00",
+  "prompt_version": "v2"
+}

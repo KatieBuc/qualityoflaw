@@ -1,0 +1,49 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 3,
+  "chunks_corrected": 1,
+  "chunks_response_incomplete": 0,
+  "chunks_not_converged": 1,
+  "qa_passes_total": 4,
+  "max_passes": 2,
+  "lost_clauses": [],
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Scrambled list markers in Article 6: item d is merged into the end of item c (\"andd.\") instead of appearing as a separate list item.",
+        "Scrambled list markers in Article 8: item a is merged into the preceding sentence, and item e is merged into item d (\"ande.\") instead of appearing as separate list items.",
+        "Scrambled list markers in Article 10: items a, c, and f are merged into surrounding text (\"with: a.\", \"process; c.\", \"andf.\") instead of appearing as separate list items in order.",
+        "Broken Markdown structure: the original has a separate line \"# BAB IV\" followed by a plain (non-heading) line \"PENANGANAN DAN MEKANISME\", but the translation turns that second line into a level-2 heading (\"## HANDLING AND MECHANISM\"). Headings must match the original levels exactly.",
+        "Meaning drift: Article 17 should refer to a singular \"Regent Regulation\" (Peraturan Bupati), but the translation uses plural \"Regent Regulations\"."
+      ],
+      "passes": 2,
+      "converged": false,
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "passes": 1,
+      "converged": true,
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.md",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-21T11:27:53.698200+00:00",
+  "prompt_version": "v2"
+}
