@@ -569,9 +569,11 @@ Cukup jelas.
 Huruf a  
 Yang dimaksud dengan "untuk dihormati harkat dan  martabatnya sebagai manusia" adalah menjunjung tinggi  hak-hak asasi manusia.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
 Huruf d  
 Yang dimaksud dengan "mendapatkan informasi" adalah hak  mendapatkan keterangan, pernyataan, gagasan, dan tanda tanda yang mengandung nikd, makna, dan pesan, baik data,  fakta maupu n penjelasannya yang dapat dilihat, didengar,  dan dibaca yang disajikan dalam berbagai kemasan dan  format sesuai dengan perkembangan teknologi informasi dan  komunikasi secara elektronik ataupun non elektronik yang terkait tindak kekerasan.  
