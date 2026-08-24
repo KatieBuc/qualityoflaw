@@ -1,28 +1,20 @@
-Mengingat:  
- 
- 
- 
- 
- 
- 
- 
-1. 2. 3. 4. (5. (2
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# KABUPATEN KULON PROGO
+KABUPATEN KULON PROGO
 
-# LEMBARAN DAERAH
-
-# TAHUN: 2015
+LEMBARAN DAERAH
 
 # PERATURAN DAERAH KABUPATEN KULON PROGO
 
-# NOMOR 7 TAHUN 2015
+NOMOR 7 TAHUN 2015  
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN
+TENTANG  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# BUPATI KULON PROGO,
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI KULON PROGO,  
 
 Menimbang:  
  
@@ -34,46 +26,45 @@ Menimbang:
  
 a. bahwa kekerasan terhadap perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa upaya perlindungan terhadap perempuan optimal,  belum kekerasan dan  kelembagaan penguatan peraturan yang dapat menjamin pelaksanaannya;  
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
-bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu tentang  Daerah Korban  Anak
+Mengingat:  
 
-# NOMOR: 7
+1. Pasal 18 ayat (6) Undang-undang Dasar Negara Republik Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 15 Tahun 1950 tentang Pembentukan Daerah Daerah Kabupaten dalam Lingkungan Daerah Istimewa Jogjakarta sebagaimana telah diubah dengan Undang-Undang Nomor 18 Tahun 1951 tentang Perubahan Undang-Undang Nomor 15 Tahun 1950 untuk Penggabungan Daerah Daerah Kabupaten Kulon Progo dan Adikarta dalam Lingkungan Daerah Istimewa Jogjakarta menjadi satu Kabupaten dengan nama Kulon Progo (Lembaran Negara Republik Indonesia Tahun 1951 Nomor 101);  
+3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 3143) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
+4. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Negara Nomor 4419);  
+5. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5659);  
+6. Peraturan Pemerintah Nomor 32 Tahun 1950 tentang Penetapan Mulai Berlakunya Undang- Undang 1950 Nomor 12, 13, 14 dan 15 dari Hal Pembentukan Daerah Kabupaten di Djawa Timur/ Tengah/Barat dan Daerah Istimewa Jogjakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 59);  
+7. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga, (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
+8. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal;  
+9. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
+10. Peraturan Daerah Istimewa Yogyakarta Nomor 3 Tahun 2012 tentang Perlindungan Perempuan dan Anak Korban Kekerasan (Lembaran Daerah Provinsi Daerah Istimewa Yogyakarta Tahun 2012 Nomor 3);
 
-# TENTANG
+Dengan Persetujuan Bersama  
 
-# KEKERASAN
+DEWAN PERWAKILAN RAKYAT DAERAH  
 
-korban anak dan perlu sehingga
-c. Peraturan menetapkan Perempuan Perlindungan Kekerasan;  
+KABUPATEN KULON PROGO  
 
-Menetapkan: PPDd1. 2. 3. 4. 5. 6. 7. 4 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5659);  
+dan  
 
-Peraturan Pemerintah Nomor 32 Tahun 1950  6.  
+BUPATI KULON PROGO  
 
-tentang Penetapan Mulai Berlakunya Undang Undang 1950 Nomor 12, 13, 14 dan 15 dari Hal Pembentukan Daerah Kabupaten di Djawa Timur/ Tengah/Barat dan Daerah Istimewa Jogjakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 59);  
+MEMUTUSKAN:  
 
-Peraturan Pemerintah Nomor 4 Tahun 2006  7.  
+Menetapkan:   
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
-Kerjasama  dan Penyelenggaraan tentang Rumah  Dalam Kekerasan Korban Pemulihan Tangga, (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
+# BAB I 
 
-Pemberdayaan  Negara Menteri Peraturan
+## KETENTUAN UMUM
 
-8. Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal;  
+## Bagian Kesatu
 
-Pemberdayaan  Negara Menteri Peraturan
+Pengertian Istilah  
 
-9. Perempuan dan Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
-10. Peraturan Daerah Istimewa Yogyakarta Nomor 3 Tahun 2012 tentang Perlindungan Perempuan dan Daerah  (Lembaran Kekerasan Korban Anak Provinsi Daerah Istimewa Yogyakarta Tahun 2012 Nomor 3);  
-
-Dengan Persetujuan Bersama
-
-# DEWAN PERWAKILAN RAKYAT DAERAH
-
-# KABUPATEN KULON PROGO
-
-# BUPATI KULON PROGO
-
-1111Paa. b. c. 6 tindakan  segala adalah
+#### Pasal 1
 
 8. Perlindungan pemberdayaan  dan pelayanan pencegahan, hak-hak  menjamin dan melindungi untuk perempuan dan anak dari tindak kekerasan.  
 9. Pencegahan adalah kegiatan yang dilakukan untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan anak.  
