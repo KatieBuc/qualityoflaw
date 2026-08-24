@@ -500,7 +500,7 @@ Ketentuan lebih lanjut mengenai pengembangan, mekanisme dan hubungan kerja berje
 2. Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dan
+c. pendidikan dan pelatihan; dan  
 d. pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a mencakup aspek yang berkaitan dengan perencanaan dan pelaksanaan.  
 4. Bimbingan sebagaimana dimaksud pada ayat (2) huruf b mencakup aspek yang berkaitan dengan perencanaan, pelaksanaan, tata laksana, pendanaan, kualitas, pengendalian dan pengawasan.  
