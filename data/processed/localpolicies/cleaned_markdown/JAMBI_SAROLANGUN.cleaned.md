@@ -1,18 +1,18 @@
-# SALINANBUPATI SAROLANGUN
+# PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DAN ANAK
 
-# PROVINSI JAMBI
+PROVINSI JAMBI  
 
 # PERATURAN DAERAH KABUPATEN SAROLANGUN
 
-# NOMOR 2 TAHUN 2023
+NOMOR 2 TAHUN 2023  
 
-# TENTANG
+TENTANG  
 
-PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN  PEREMPUAN DAN ANAK
+PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI SAROLANGUN,
+BUPATI SAROLANGUN,  
 
 Menimbang:  
  
@@ -35,34 +35,35 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
-2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3886);  
-3. Undang-Undang Nomor 54 Tahun 1999 tentang Pembentukan  Kabupaten Sarolangun, Kabupaten Tebo, Kabupaten Muaro Jambi dan Kabupaten Tanjung Jabung Timur (Lembaran  Negara Republik Indonesia Tahun 1999 Nomor 182,  Tambahan Lembaran Negara Republik Indonesia Nomor  3903); sebagaimana telah diubah dengan Undang-Undang  Nomor 14 Tahun 2000 tentang Perubahan Atas Undang Undang Nomor 54 Tahun 1999 tentang Pembentukan  Kabupaten Sarolangun, Kabupaten Tebo, Kabupaten Muaro  Jambi dan Kabupaten Tanjung Jambung Timur (Lembaran  Negara Republik Indonesia Tahun 2000 Nomor 81, Tambahan  Lembaran Negara Republik Indonesia Nomor 3969);  
-4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002  Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235), sebagaimana telah diubah dengan Undang Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik  Indonesia Nomor 5606);  
+2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3886);  
+3. Undang-Undang Nomor 54 Tahun 1999 tentang Pembentukan Kabupaten Sarolangun, Kabupaten Tebo, Kabupaten Muaro Jambi dan Kabupaten Tanjung Jabung Timur (Lembaran  Negara Republik Indonesia Tahun 1999 Nomor 182,  Tambahan Lembaran Negara Republik Indonesia Nomor  3903); sebagaimana telah diubah dengan Undang-Undang  Nomor 14 Tahun 2000 tentang Perubahan Atas Undang Undang Nomor 54 Tahun 1999 tentang Pembentukan  Kabupaten Sarolangun, Kabupaten Tebo, Kabupaten Muaro  Jambi dan Kabupaten Tanjung Jambung Timur (Lembaran  Negara Republik Indonesia Tahun 2000 Nomor 81, Tambahan  Lembaran Negara Republik Indonesia Nomor 3969);  
+4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002  Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235), sebagaimana telah diubah dengan Undang Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
 5. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
-6. Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi  Pemerintahan (Lembaran Negara Republik Indonesia Tahun  2014 Nomor 292, Tambahan Lembaran Negara Republik Indonesia Nomor 5601);  
+6. Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan (Lembaran Negara Republik Indonesia Tahun  2014 Nomor 292, Tambahan Lembaran Negara Republik Indonesia Nomor 5601);  
 7. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720);  
-8. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan  Peraturan Perundang-Undangan (Lembaran Negara Tahun  2011 Nomor 82, Tambahan Lembaran Negara Republik  Indonesia Nomor 5234), sebagaimana telah diubah beberapa  kali terakhir dengan Undang-Undang Nomor 13 Tahun 2022  Tentang Perubahan Kedua Atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang Undangan (Lembaran Negara Republik Indonesia Tahun 2022  Nomor 143, Tambahan Lembaran Negara Republik Indonesia  Nomor 6801);  
+8. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan (Lembaran Negara Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 13 Tahun 2022  Tentang Perubahan Kedua Atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang Undangan (Lembaran Negara Republik Indonesia Tahun 2022  Nomor 143, Tambahan Lembaran Negara Republik Indonesia Nomor 6801);  
 9. Undang-Undang Nomor 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 153, Tambahan Lembaran Negara Republik Indonesia Nomor 5332);  
 10. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014  Nomor 244, Tambahan Lembaran Negara Republik Indonesia Tahun 2014 Nomor 5587), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Nomor 5679);  
 11. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerja Sama Pemulihan Korban Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
-12. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara  dan Mekanisme Pelayanan Terpadu bagi Saksi dan/atau  Korban Tindak Pidana Perdagangan Orang (Lembaran Negara  Republik Indonesia Tahun 2008 Nomor 22, Tambahan  Lembaran Negara Republik Indonesia 4818);  
+12. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara  dan Mekanisme Pelayanan Terpadu bagi Saksi dan/atau  Korban Tindak Pidana Perdagangan Orang (Lembaran Negara  Republik Indonesia Tahun 2008 Nomor 22, Tambahan Lembaran Negara Republik Indonesia 4818);  
 13. Peraturan Menteri Negara Pemberdayaan Perempuan Nomor 1 Tahun 2008 tentang Pedoman Peningkatan Kualitas Hidup Perempuan;  
 14. Peraturan Menteri Negara Pemberdayaan Perempuan Nomor 2 Tahun 2008 tentang Pedoman Pelaksanaan Perlindungan Perempuan;  
-15. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015  tentang Pembentukan Produk Hukum Daerah (Berita  Negara Republik Indonesia Tahun 2015 Nomor 2036)  sebagaimana telah diubah dengan Peraturan Menteri Dalam Negeri Nomor 120 Tahun 2018 tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 80 Tahun  2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2018 Nomor 157);  
-16. Peraturan Daerah Kabupaten Sarolangun Nomor 5 Tahun  2016 Tentang Pembentukan dan Susunan Perangkat Daerah  (Lembaran Daerah Kabupaten Sarolangun Tahun 2016 Nomor  5) sebagaimana telah beberapa kali diubah terakhir dengan  Peraturan Daerah Kabupaten Sarolangun Nomor 1 Tahun  2021 tentang Perubahan Ketiga atas Peraturan Daerah  Kabupaten Sarolangun Nomor 5 Tahun 2016 tentang  Pembentukan dan Susunan Perangkat Derah (Lembaran  Daerah Kabupaten Sarolangun Tahun 2021 Nomor 1);  
+15. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015  tentang Pembentukan Produk Hukum Daerah (Berita  Negara Republik Indonesia Tahun 2015 Nomor 2036) sebagaimana telah diubah dengan Peraturan Menteri Dalam Negeri Nomor 120 Tahun 2018 tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 80 Tahun  2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2018 Nomor 157);  
+16. Peraturan Daerah Kabupaten Sarolangun Nomor 5 Tahun  2016 Tentang Pembentukan dan Susunan Perangkat Daerah  (Lembaran Daerah Kabupaten Sarolangun Tahun 2016 Nomor 5) sebagaimana telah beberapa kali diubah terakhir dengan  Peraturan Daerah Kabupaten Sarolangun Nomor 1 Tahun  2021 tentang Perubahan Ketiga atas Peraturan Daerah  Kabupaten Sarolangun Nomor 5 Tahun 2016 tentang  Pembentukan dan Susunan Perangkat Daerah (Lembaran  Daerah Kabupaten Sarolangun Tahun 2021 Nomor 1);  
 
 Dengan Persetujuan Bersama
 
-# DEWAN PERWAKILAN RAKYAT DAERAH
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SAROLANGUN
 
-# KABUPATEN SAROLANGUN
+dan  
 
-# BUPATI SAROLANGUN
+BUPATI SAROLANGUN  
 
-# MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DAN ANAK.  
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -70,17 +71,17 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNG
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 
 1. Daerah adalah Kabupaten Sarolangun.  
-2. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh  Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas- luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.  
-3. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintah  Daerah yang memimpin Pelaksanaan urusan pemerintahan yang menjadi  kewenangan daerah otonom.  
+2. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas- luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.  
+3. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintah  Daerah yang memimpin Pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.  
 4. Bupati adalah Bupati Sarolangun.  
-5. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah lembaga perwakilan rakyat daerah yang berkedudukan sebagai unsur  penyelenggara Pemerintahan Daerah.  
+5. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah lembaga perwakilan rakyat daerah yang berkedudukan sebagai unsur penyelenggara Pemerintahan Daerah.  
 6. Pemberdayaan Perempuan adalah setiap upaya meningkatkan kemampuan fisik, mental, spiritual, sosial, pengetahuan, dan keterampilan agar perempuan siap didayagunakan sesuai dengan kemampuan masing-masing.  
 7. Perlindungan Perempuan adalah segala upaya yang ditujukan untuk melindungi perempuan dan memberikan rasa aman dalam pemenuhan hak haknya dengan memberikan perhatian yang konsisten dan sistematis yang ditujukan untuk mencapai kesetaraan gender.  
-8. Diskriminasi Terhadap Perempuan adalah setiap pembedaan, pengucilan atau pembatasan yang dibuat atas dasar jenis kelamin yang mempunyai pengaruh atau tujuan untuk mengurangi atau meng-hapuskan pengakuan, penikmatan atau penggunaan hak-hak asasi manusia dan kebebasan kebebasan pokok dibidang politik, ekonomi, sosial budaya, sipil atau apapun lainnya oleh kaum perempuan, terlepas dari status perkawinan  mereka atas dasar persamaan antara laki-laki dan perempuan. 9. Gender adalah konsep yang mengacu pada pembedaan peran dan tanggung jawab laki-laki dan perempuan yang terjadi akibat dari keadaan sosial dan budaya masyarakat.  
-10. Kesetaraan Gender adalah kesamaan kondisi bagi laki-laki dan perempuan untuk memperoleh kesempatan dan hak-haknya sebagai manusia agar  mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial  budaya, pertahanan dan keamanan, dan kesamaan dalam menikmati hasil pembangunan.  
+8. Diskriminasi Terhadap Perempuan adalah setiap pembedaan, pengucilan atau pembatasan yang dibuat atas dasar jenis kelamin yang mempunyai pengaruh atau tujuan untuk mengurangi atau meng-hapuskan pengakuan, penikmatan atau penggunaan hak-hak asasi manusia dan kebebasan kebebasan pokok dibidang politik, ekonomi, sosial budaya, sipil atau apapun lainnya oleh kaum perempuan, terlepas dari status perkawinan mereka atas dasar persamaan antara laki-laki dan perempuan. 9. Gender adalah konsep yang mengacu pada pembedaan peran dan tanggung jawab laki-laki dan perempuan yang terjadi akibat dari keadaan sosial dan budaya masyarakat.  
+10. Kesetaraan Gender adalah kesamaan kondisi bagi laki-laki dan perempuan untuk memperoleh kesempatan dan hak-haknya sebagai manusia agar mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya, pertahanan dan keamanan, dan kesamaan dalam menikmati hasil pembangunan.  
 11. Pengarusutamaan gender adalah strategi yang dibangun untuk mengintegrasikan gender menjadi satu dimensi integral dari perencanaan, penyusunan, pelaksanaan, pemantauan, dan evaluasi atas kebijakan program pembangunan nasional.  
 12. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun, termasuk anak yang masih dalam kandungan.  
 13. Orangtua adalah ayah dan/atau ibu kandung, atau ayah dan/atau ibu tiri, atau ayah dan/atau ibu angkat.  
@@ -88,9 +89,9 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 15. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami isteri dan anaknya, atau ayah dan anaknya, atau ibu dan anaknya, atau keluarga  sedarah dalam garis lurus ke atas atau ke bawah sampai dengan derajat ketiga.  
 16. Masyarakat adalah orang perorangan, keluarga, komunitas, tokoh agama,  tokoh masyarakat, tokoh adat, dunia usaha dan korporasi, organisasi  kemasyarakatan, organisasi sosial, pusat studi wanita dan gender, media  massa atau yang sejenis lainnya.  
 17. Perlindungan Anak adalah segala kegiatan untuk menjamin dan melindungi anak dan hak-haknya agar dapat hidup, tumbuh dan berkembang serta berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan, eksploitasi, diskriminasi, dan penelantaran.  
-18. Perlindungan khusus adalah perlindungan yang diberikan kepada anak  dalam situasi darurat, anak yang berhadapan dengan hukum, anak dari kelompok minoritas dan terisolasi, anak yang dieksploitasi secara ekonomi  dan/atau seksual, anak yang diperdagangkan, anak yang menjadi korban  penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya  (napza), anak korban penculikan, penjualan, perdagangan, anak korban kekerasan baik fisik dan/atau mental, anak yang menyandang cacat, dan anak korban perlakuan salah dan penelantaran.  
-19. Rumah aman adalah rumah singgah atau rumah perlindungan sementara  untuk korban selama proses pendampingan guna menjamin keamanan dan  kenyamanan korban dari ancaman dan bahaya pelaku serta hanya diketahui  oleh pihak yang berkepentingan untuk alasan keselamatan dan keamanan  korban.  
-20. Kabupaten layak anak adalah kabupaten yang mempunyai sistem  pembangunan berbasis hak anak melalui pengintegrasian komitmen dan  sumber daya pemerintah, masyarakat, dunia usaha, dan media yang  terencana secara menyeluruh dan berkelanjutan dalam kebijakan program  dan kegiatan untuk menjamin pemenuhan hak anak dan perlindungan  khusus anak.  
+18. Perlindungan khusus adalah perlindungan yang diberikan kepada anak  dalam situasi darurat, anak yang berhadapan dengan hukum, anak dari kelompok minoritas dan terisolasi, anak yang dieksploitasi secara ekonomi  dan/atau seksual, anak yang diperdagangkan, anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya  (napza), anak korban penculikan, penjualan, perdagangan, anak korban kekerasan baik fisik dan/atau mental, anak yang menyandang cacat, dan anak korban perlakuan salah dan penelantaran.  
+19. Rumah aman adalah rumah singgah atau rumah perlindungan sementara  untuk korban selama proses pendampingan guna menjamin keamanan dan kenyamanan korban dari ancaman dan bahaya pelaku serta hanya diketahui oleh pihak yang berkepentingan untuk alasan keselamatan dan keamanan korban.  
+20. Kabupaten layak anak adalah kabupaten yang mempunyai sistem pembangunan berbasis hak anak melalui pengintegrasian komitmen dan sumber daya pemerintah, masyarakat, dunia usaha, dan media yang terencana secara menyeluruh dan berkelanjutan dalam kebijakan program  dan kegiatan untuk menjamin pemenuhan hak anak dan perlindungan  khusus anak.  
 
 #### Pasal 2
 
@@ -138,9 +139,10 @@ Pemenuhan Hak Perempuan
 
 #### Pasal 5
 
-1. Setiap perempuan berhak untuk:a. hidup dan mempertahankan hidup serta meningkatkan taraf kehidupannya;  
+1. Setiap perempuan berhak untuk:  
+a. hidup dan mempertahankan hidup serta meningkatkan taraf kehidupannya;  
 b. memenuhi kebutuhan dasarnya untuk tumbuh dan berkembang secara layak, berkeluarga dan melanjutkan keturunan;  
-c. mengembangkan pribadinya, untuk memperoleh pendidikan, dan meningkatkan kualitas hidupnya agar menjadi manusia yang beriman,  bertaqwa, bertanggung jawab, berakhlak mulia, bahagia, dan sejahtera sesuai dengan hak asasi manusia;  
+c. mengembangkan pribadinya, untuk memperoleh pendidikan, dan meningkatkan kualitas hidupnya agar menjadi manusia yang beriman, bertaqwa, bertanggung jawab, berakhlak mulia, bahagia, dan sejahtera sesuai dengan hak asasi manusia;  
 d. memperoleh keadilan, rasa aman, dan kebebasan menyampaikan pendapat tanpa diskriminasi;  
 e. terlibat dalam setiap tahapan proses pembangunan;  
 f. bebas dari perbudakan atau diperhamba dan ancaman;  
@@ -155,12 +157,13 @@ k. bebas memilih pasangan dalam perkawinannya.
 
 1. Setiap istri selama dalam ikatan perkawinan mempunyai hak dan tanggung jawab yang sama dengan suaminya atas semua hal yang berkenaan dengan kehidupan perkawinannya, hubungan dengan anaknya, dan kepemilikan serta pengelolaan harta bersama sesuai dengan peraturan perundang-undangan yang berlaku.  
 2. Setelah putusnya perkawinan, seorang perempuan mempunyai hak dan tanggung jawab dengan mantan suaminya atas semua hal yang berkenaan dengan anak dengan memperhatikan kepentingan terbaik bagi anak.  
-3. Setelah putusnya perkawinan, seorang wanita mempunyai hak yang sama  dengan mantan suaminya atas semua hal yang berkenaan dengan harta bersama tanpa mengurangi hak anak, sesuai dengan ketentuan peraturan perundang-undangan.  
+3. Setelah putusnya perkawinan, seorang wanita mempunyai hak yang sama dengan mantan suaminya atas semua hal yang berkenaan dengan harta bersama tanpa mengurangi hak anak, sesuai dengan ketentuan peraturan perundang-undangan.  
 
 #### Pasal 7
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab terhadap pemberdayaan dan perlindungan perempuan.  
-2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud pada ayat (1) meliputi:a. penetapan kebijakan, program, dan kegiatan peningkatan kualitas hidup perempuan terkait dengan bidang pembangunan, pendidikan, kesehatan, ekonomi, hukum, Hak Asasi Manusia dan politik, lingkungan dan sosial budaya;  
+2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. penetapan kebijakan, program, dan kegiatan peningkatan kualitas hidup perempuan terkait dengan bidang pembangunan, pendidikan, kesehatan, ekonomi, hukum, Hak Asasi Manusia dan politik, lingkungan dan sosial budaya;  
 b. penyelenggaraan layanan terhadap perempuan terutama terhadap korban kekerasan, tenaga kerja perempuan, perempuan lanjut usia, dan perempuan penyandang cacat, korban konflik dan korban terkena bencana; dan  
 c. pelaksanaan pengarusutamaan gender pada lembaga pemerintah, pusat studi wanita, lembaga penelitian dan pengembangan, lembaga non pemerintah.  
 3. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud pada ayat (2) dilakukan secara terpadu sesuai dengan peraturan perundang-undangan yang berlaku.  
@@ -183,7 +186,7 @@ d. hukum.
 Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 8 huruf a dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
-c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomiproduktif;  
+c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
 d. fasilitasi dan bantuan permodalan; dan  
 e. fasilitasi pengembangan jaringan pemasaran.  
 
@@ -197,7 +200,8 @@ d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetah
 
 #### Pasal 11
 
-1. Pemberdayaan perempuan dibidang politik sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:a. pelibatan perempuan dalam pengambilan keputusan diberbagaitingkatan;  
+1. Pemberdayaan perempuan dibidang politik sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:  
+a. pelibatan perempuan dalam pengambilan keputusan di berbagai tingkatan;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dan  
 d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
@@ -205,7 +209,8 @@ d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengelua
 
 #### Pasal 12
 
-1. Pemberdayaan perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 8 huruf d meliputi:a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan edukasi; dan  
+1. Pemberdayaan perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 8 huruf d meliputi:  
+a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan edukasi; dan  
 b. fasilitasi akses dan layanan konsultasi hukum.  
 2. Pemberdayaan perempuan di bidang hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan peraturan perundang- undangan yang berlaku.  
 
@@ -215,11 +220,12 @@ Perlindungan Perempuan
 
 #### Pasal 13
 
-1. Perlindungan perempuan meliputi:a. perlindungan sosial;  
+1. Perlindungan perempuan meliputi:  
+a. perlindungan sosial;  
 b. perlindungan ekonomi; dan  
 c. perlindungan hukum.  
 2. Perlindungan sosial sebagaimana dimaksud pada ayat (1) huruf a untuk menjamin kelangsungan hidup perempuan dalam bentuk perlindungan sosial guna menjamin terpenuhinya kebutuhan hidup yang layak.  
-3. Perlindungan ekonomi sebagaimana dimaksud pada ayat (1) huruf b untuk  mencegah dan menangani resiko kerentanan akibat dari guncangan dan kerentanan sosial seseorang, keluarga, kelompok dan/atau masyarakat untuk kelangsungan hidup perempuan.  
+3. Perlindungan ekonomi sebagaimana dimaksud pada ayat (1) huruf b untuk mencegah dan menangani resiko kerentanan akibat dari guncangan dan kerentanan sosial seseorang, keluarga, kelompok dan/atau masyarakat untuk kelangsungan hidup perempuan.  
 4. Perlindungan hukum sebagaimana dimaksud pada ayat (1) huruf c dilaksanakan dalam hal memberikan perlindungan terhadap perempuan yang menjadi saksi dan korban tindak kekerasan dan diskriminasi.  
 
 # BAB III
@@ -236,7 +242,8 @@ Setiap Anak mempunyai hak dasar yang meliputi:
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan, pemanfaatan waktu luang dan kegiatan budaya; dan e. perlindungan khusus.  
+d. pendidikan, pemanfaatan waktu luang dan kegiatan budaya; dan  
+e. perlindungan khusus.  
 
 ## Bagian Kedua
 
@@ -246,10 +253,12 @@ Hak Sipil dan Kebebasan
 
 Setiap Anak berhak mendapatkan Hak Sipil dan Kebebasan sebagaimana dimaksud dalam Pasal 14 huruf a dalam bentuk:  
 a. akte kelahiran;  
-b. kartu identitas anak.  c. menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasannya;  
+b. kartu identitas anak;  
+c. menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasannya;  
 d. mendapatkan informasi yang sehat dan aman;  
 e. kebebasan berkumpul dan berorganisasi yang sesuai bagi mereka;  
-f. penjagaan nama baik dan tidak dieksploitasi ke publik tanpa seizin anak tersebut; dan/ataug. berpartisipasi dalam pembangunan melalui forum anak di tingkat desa/kelurahan, kecamatan bahkan tingkat Kabupaten.  
+f. penjagaan nama baik dan tidak dieksploitasi ke publik tanpa seizin anak tersebut; dan/atau  
+g. berpartisipasi dalam pembangunan melalui forum anak di tingkat desa/kelurahan, kecamatan bahkan tingkat Kabupaten.  
 
 #### Pasal 16
 
@@ -303,7 +312,8 @@ c. memenuhi hak tumbuh kembang anak dan melindungi anak penyandang masalah kesej
 d. melindungi anak-anak dari perlakuan kejam, tidak manusiawi dan merendahkan martabat manusia;  
 e. mengadakan pelatihan untuk orang tua tentang pola asuh anak yang baik atau membentuk lembaga konsultasi bagi keluarga;  
 f. berperan aktif membantu keluarga dalam menjalankan kewajibannya;  
-g. mencegah tidak terjadinya perkawinan pada usia anak; dan h. menyediakan Infrastruktur ramah anak, ruang bermain ramah anak dan rute aman selamat sekolah.  
+g. mencegah tidak terjadinya perkawinan pada usia anak; dan  
+h. menyediakan Infrastruktur ramah anak, ruang bermain ramah anak dan rute aman selamat sekolah.  
 
 ## Bagian Keempat
 
@@ -389,16 +399,17 @@ Perlindungan Khusus
 
 #### Pasal 27
 
-1. Pemerintah Daerah bertanggung jawab untuk mewujudkan Perlindungan  Anak di Daerah dalam bentuk mengoordinasikan pelaksanaan  penyelenggaraan Perlindungan Anak di Daerah.  
-2. Koordinasi pelaksanaan penyelenggaraan Perlindungan Anak di Daerah  sebagaimana dimaksud pada ayat (1) dalam rangka memenuhi Hak Anak  yang memerlukan Perlindungan Khusus.  
-3. Anak yang memerlukan Perlindungan Khusus sebagaimana dimaksud pada  ayat (1) meliputi:a. anak dalam situasi darurat;  
+1. Pemerintah Daerah bertanggung jawab untuk mewujudkan Perlindungan Anak di Daerah dalam bentuk mengoordinasikan pelaksanaan  penyelenggaraan Perlindungan Anak di Daerah.  
+2. Koordinasi pelaksanaan penyelenggaraan Perlindungan Anak di Daerah sebagaimana dimaksud pada ayat (1) dalam rangka memenuhi Hak Anak  yang memerlukan Perlindungan Khusus.  
+3. Anak yang memerlukan Perlindungan Khusus sebagaimana dimaksud pada ayat (1) meliputi:  
+a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum;  
 c. anak dari kelompok minoritas dan terisolasi;  
 d. anak yang dieksploitasi secara ekonomi dan/atau seksual;  
 e. anak yang menjadi korban penyalahgunaan narkotika, alkohol,  psikotropika, dan zat adiktif lainnya;  
 f. anak yang menjadi korban pornografi;  
 g. anak yang menjadi pelaku pornografi;  
-h. anak dengan human immunodeficiency virus/ acquired immuno deficiency  syndrome;  
+h. anak dengan human immunodeficiency virus/ acquired immuno deficiency syndrome;  
 i. anak korban penculikan, penjualan, dan/atau perdagangan;  
 j. anak korban kekerasan fisik dan/atau psikis;  
 k. anak korban kejahatan seksual;  
@@ -406,7 +417,7 @@ l. anak korban jaringan terorisme;
 m. anak pelaku jaringan terorisme:n. anak penyandang disabilitas;  
 o. anak korban perlakuan salah dan penelantaran;  
 p. anak dengan perilaku sosial menyimpang; dan  
-q. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
+q. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya.  
 
 #### Pasal 28
 
@@ -417,7 +428,7 @@ Setiap keluarga menjalankan fungsi dan tanggungjawabnya dalam hal pemenuhan hak 
 Pemerintah Daerah mengupayakan pemenuhan Hak Perlindungan Khusus terhadap anak dengan:  
 a. menyusun program untuk mencegah agar anak tidak terlibat dalam situasi dan kondisi sebagaimana dimaksud dalam Pasal 27 ayat (3);  
 b. memberikan akses layanan publik dan jaminan sosial bagi anak penyandang disabilitas; dan  
-c. menyediakan fasilitas pelayanan pengaduan 24 (dua puluh empat) jam,  Rumah Singgah,panti rehabilitasi dan panti asuhan.  
+c. menyediakan fasilitas pelayanan pengaduan 24 (dua puluh empat) jam, Rumah Singgah,panti rehabilitasi dan panti asuhan.  
 
 # BAB IV
 
@@ -438,12 +449,13 @@ c. menyediakan fasilitas pelayanan pengaduan 24 (dua puluh empat) jam,  Rumah Si
 
 1. Dalam rangka implementasi pemenuhan hak layak anak dan berbagai  peraturan perundang-undangan serta kebijakan terkait pemenuhan hak anak  dan perlindungan khusus anak, Pemerintah Daerah, Swasta dan Lembaga  Masyarakat melakukan upaya mewujudkan Kabupaten Layak Anak.  
 2. Untuk mewujudkan Kabupaten Layak Anak sebagaimana dimaksud pada  ayat (1) Pemerintah Daerah, Swasta, dan Lembaga Masyarakat  memperhatikan hak anak yang berkaitan dengan hak hidup, tumbuh  kembang, perlindungan, dan partisipasi.  
-3. Pemerintah Daerah, Swasta, dan Lembaga Masyarakat dalam mewujudkan  Kabupaten Layak Anak tergabung dalam gugus tugas Kabupaten Layak Anak. (4) Gugus tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3)  bertanggungjawab pada pemenuhan hak anak yang berkaitan dengan:  
+3. Pemerintah Daerah, Swasta, dan Lembaga Masyarakat dalam mewujudkan  Kabupaten Layak Anak tergabung dalam gugus tugas Kabupaten Layak Anak. (4) Gugus tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3)  bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan:  
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya; dan e. perlindungan khusus anak.  
-5. Ketentuan lebih lanjut mengenai Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
+d. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya; dan  
+e. perlindungan khusus anak.   
+4. Ketentuan lebih lanjut mengenai Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
 # BAB VI
 
@@ -451,12 +463,14 @@ d. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya; dan e. perlind
 
 #### Pasal 32
 
-1. Bupati melaksanakan pembinaan, dan pengawasan penyelenggaraan pemberdayaan perempuan dan perlindungan anak di Daerah. (2) Pembinaan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak.  
+1. Bupati melaksanakan pembinaan, dan pengawasan penyelenggaraan pemberdayaan perempuan dan perlindungan anak di Daerah.  
+2. Pembinaan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak.  
 3. Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan  perlindungan anak sebagaimana dimaksud pada ayat (2) merupakan koordinator pelaksanaan penyelenggaraan pemberdayaan perempuan dan perlindungan anak di Daerah.  
 
 #### Pasal 33
 
-1. Bentuk pembinaan sebagaimana dimaksud dalam Pasal 32 dapat dilaksanakan dengan kegiatan:a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai kebijakan pemberdayaan perempuan dan perlindungan anak;  
+1. Bentuk pembinaan sebagaimana dimaksud dalam Pasal 32 dapat dilaksanakan dengan kegiatan:  
+a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai kebijakan pemberdayaan perempuan dan perlindungan anak;  
 b. menyediakan buku, leaflet, brosur mengenai pemberdayaan perempuan  dan perlindungan anak, dan isu-isu terkait lainnya serta menyebarluaskannya ke masyarakat;  
 c. fasilitasi peningkatan kapasitas lembaga pemberdayaan perempuan dan perlindungan anak;  
 d. fasilitasi forum partisipasi perempuan dan organisasi perempuan dan anak;  
@@ -472,7 +486,8 @@ g. memberikan penghargaan kepada masyarakat dan dunia usaha baik secara individu
 #### Pasal 34
 
 1. Pemerintah Daerah memiliki kewajiban untuk menguatkan partisipasi masyarakat dalam dalam pembangunan pemberdayaan perempuan dan  Perlindungan Anak.  
-2. Partisipasi masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:a. sosialisasi;  
+2. Partisipasi masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:  
+a. sosialisasi;  
 b. advokasi;  
 c. penyuluhan;  
 d. pembinaan;  
@@ -483,14 +498,16 @@ h. kajian;
 i. pelatihan;  
 j. permodalan; dan  
 k. penyediaan sarana prasarana.  
-3. Penguatan partisipasi masyarakat sebagaimana dimaksud pada ayat (1)dapat dilakukan dengan:a. penguatan kerjasama;  
+3. Penguatan partisipasi masyarakat sebagaimana dimaksud pada ayat (1)dapat dilakukan dengan:  
+a. penguatan kerjasama;  
 b. penguatan kapasitas kelembagaan pencegahan dan layanan dari masyarakat, pesantren dan dunia usaha; dan  
 c. dukungan pembiayaan.  
 
 #### Pasal 35
 
 1. Dunia usaha memiliki tanggung jawab dalam pelaksanaan pemberdayaan perempuan dan perlindungan anak.  
-2. Bentuk tanggung jawab dunia usaha sebagaimana dimaksud pada ayat (4) dilakukan dalam bentuk:a. bantuan pembiayaan kepada lembaga layanan;  
+2. Bentuk tanggung jawab dunia usaha sebagaimana dimaksud pada ayat (4) dilakukan dalam bentuk:  
+a. bantuan pembiayaan kepada lembaga layanan;  
 b. pemberdayaan;  
 c. peningkatan kapasitas;  
 d. media publikasi dan informasi;  
@@ -512,7 +529,8 @@ Bupati dapat memberikan penghargaan kepada lembaga pendidikan, lembaga keagamaan
 
 #### Pasal 37
 
-1. Pembiayaan penyelenggaraan pemberdayaan perempuan dan perlindungan anak bersumber dari Anggaran Pendapatan dan Belanja Daerah. (2) Selain bersumber dari Anggaran Pendapatan dan Belanja Daerah, Pembiayaan penyelenggaraan pemberdayaan perempuan dan perlindungan anak dapat bersumber dari sumber pembiayaan lain yang sah dan tidak mengikat.  
+1. Pembiayaan penyelenggaraan pemberdayaan perempuan dan perlindungan anak bersumber dari Anggaran Pendapatan dan Belanja Daerah.  
+2. Selain bersumber dari Anggaran Pendapatan dan Belanja Daerah, Pembiayaan penyelenggaraan pemberdayaan perempuan dan perlindungan anak dapat bersumber dari sumber pembiayaan lain yang sah dan tidak mengikat.  
 
 # BAB X
 
@@ -520,58 +538,56 @@ Bupati dapat memberikan penghargaan kepada lembaga pendidikan, lembaga keagamaan
 
 #### Pasal 38
 
-Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Sarolangun.  
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Ditetapkan di Sarolangun pada tanggal 26 Januari 2023 Pj. BUPATI SAROLANGUN, ttd.  
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Sarolangun.  
 
-##### HENRIZAL
+Ditetapkan di Sarolangun  
 
-Diundangkan di Sarolangun pada tanggal 26 Januari 2023
+pada tanggal 26 Januari 2023  
 
-##### SEKRETARIS DAERAH KABUPATEN SAROLANGUN,
+Pj. BUPATI SAROLANGUN, ttd.  
+
+HENRIZAL  
+
+Diundangkan di Sarolangun  
+
+pada tanggal 26 Januari 2023  
+
+SEKRETARIS DAERAH KABUPATEN SAROLANGUN,  
 
 ttd.  
 
-##### ENDANG ABDUL NASER
+ENDANG ABDUL NASER  
 
-##### LEMBARAN DAERAH KABUPATEN SAROLANGUN TAHUN 2023 NOMOR 2
+LEMBARAN DAERAH KABUPATEN SAROLANGUN TAHUN 2023 NOMOR 2  
 
-NOMOR REGISTER PERATURAN DAERAH KABUPATEN SAROLANGUN PROVINSI JAMBI: (1 - 2/ 2023) Salinan Sesuai Dengan Aslinya An Sekretaris Daerah Asisten Pemerintahan u.b Kepala
+NOMOR REGISTER PERATURAN DAERAH KABUPATEN SAROLANGUN PROVINSI JAMBI: (1 - 2/ 2023) Salinan Sesuai Dengan Aslinya An Sekretaris Daerah Asisten Pemerintahan u.b Kepala  
 
-## Bagian Hukum,
+Mulya Malik, SH,.MM Pembina  
 
-Mulya Malik, SH,.MM Pembina
+NIP. 19830316 200903 1 005  
 
-### NIP. 19830316 200903 1 005
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN SAROLANGUN
 
-### PENJELASAN
+NOMOR 2 TAHUN 2023 TENTANG PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-### ATAS
+#### A. PENJELASAN UMUM
 
-### PERATURAN DAERAH KABUPATEN SAROLANGUN
+Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 telah secara tegas dan nyata memberikan perlindungan terhadap Hak Asasi Manusia, termasuk hak perempuan dan anak. Setiap orang mempunyai harkat dan martabat yang sama tidak hanya dijamin oleh  Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, akan tetapi  juga telah diakui secara internasional melalui Universal Declaration of Human Right atau Deklarasi Universal Hak Asasi Manusia (DUHAM) Tahun  1948 yang secara tegas mengatur tentang pentingnya perlindungan terhadap Hak Asasi Manusia termasuk di dalamnya perlindungan terhadap perempuan dan anak.  
 
-### NOMOR 2 TAHUN 2023
+Untuk menjamin pemenuhan hak perempuan dan anak pemerintah daerah berkewajiban dan bertanggung jawab untuk melaksanakan dan mendukung kebijakan nasional dalam penyelenggaraan urusan pemerintahan bidang pemberdayaan dan perlindungan perempuan dan anak di daerah. Selain itu, pemerintah daerah juga diberi kewajiban untuk melakukan pengawasan terhadap penyelenggaraan pemberdayaan dan perlindungan perempuan dan anak tersebut.  
 
-### TENTANG
+Penyelenggaraan pemberdayaan dan perlindungan perempuan dan anak merupakan upaya mewujudkan perempuan yang berkemampuan serta upaya melindungi perempuan dan anak dari segala tindakan kekerasan guna mencapai tujuan kesejahteraan. Pemberdayaan dan perlindungan perempuan dan anak yang terlaksana selama ini belum optimal dan komprehensif dalam menjangkau permasalahan-permasalahan yang dihadapi perempuan dan anak. Disamping itu, kepedulian masyarakat terhadap upaya pemberdayaan dan perlindungan perempuan dan anak masih sangat kurang. Untuk mencapai tujuan tersebut serta melaksanakan kewenangan pemerintah daerah yang telah dijabarkan di dalam Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah pada sub urusan pemberdayaan dan perlindungan perempuan dan anak, maka diperlukan suatu regulasi yang dapat menjadi payung hukum bagi pemerintah daerah dalam penyelenggaraan urusan pemerintahan bidang pemberdayaan perempuan dan perlindungan anak di daerah.  
 
-PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN  PEREMPUAN DAN ANAK
-
-### A. PENJELASAN UMUM
-
-Pancasila dan Undang-Undang Dasar Negara Republik Indonesia  Tahun 1945 telah secara tegas dan nyata memberikan perlindungan  terhadap Hak Asasi Manusia, termasuk hak perempuan dan anak. Setiap  orang mempunyai harkat dan martabat yang sama tidak hanya dijamin oleh  Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, akan tetapi  juga telah diakui secara internasional melalui Universal Declaration of  Human Right atau Deklarasi Universal Hak Asasi Manusia (DUHAM) Tahun  1948 yang secara tegas mengatur tentang pentingnya perlindungan terhadap  Hak Asasi Manusia termasuk didalamnya perlindungan terhadap perempuan  dan anak.  
-
-Untuk menjamin pemenuhan hak perempuan dan anak pemerintah  daerah berkewajiban dan bertanggung jawab untuk melaksanakan dan  mendukung kebijakan nasional dalam penyelenggaraan urusan  pemerintahan bidang pemberdayaan dan perlindungan perempuan dan anak  di daerah. Selain itu, pemerintah daerah juga diberi kewajiban untuk  melakukan pengawasan terhadap penyelenggaraan pemberdayaan dan  perlindungan perempuan dan anak tersebut.  
-
-Penyelenggaraan pemberdayaan dan perlindungan perempuan dan  anak merupakan upaya mewujudkan perempuan yang berkemampuan serta  upaya melindungi perempuan dan anak dari segala tindakan kekerasan guna  mencapai tujuan kesejahteraan. Pemberdayaan dan perlindungan  perempuan dan anak yang terlaksana selama ini belum optimal dan  komprehensif dalam menjangkau permasalahan-permasalahan yang  dihadapi perempuan dan anak. Disamping itu, kepedulian masyarakat  terhadap upaya pemberdayaan dan perlindungan perempuan dan anak  masih sangat kurang. Untuk mencapai tujuan tersebut serta melaksanakan  kewenangan pemerintah daerah yang telah dijabarkan di dalam Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah pada sub urusan pemberdayaan dan perlindungan perempuan dan anak, maka  diperlukan suatu regulasi yang dapat menjadi payung hukum bagi  pemerintah daerah dalam penyelenggaraan urusan pemerintahan bidang  pemberdayaan perempuan dan perlindungan anak di daerah.  
-
-Dalam menyusun kebijakan terkait dengan pemberdayaan  perempuan dan perlindungan anak ini, perlu diperhatikan asas  pembentukan peraturan perundang-undangan yang baik sebagaimana telah  diatur didalam Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan meliputi:  
-r. kejelasan tujuan;  
-s. kelembagaan atau pejabat pembentuk yang tepat;  
-t. kesesuaian antara jenis, hierarki, dan materi muatan;  
-u. dapat dilaksanakan;  
-v. kedayagunaan dan kehasilgunaan;  
-w. kejelasan rumusan; dan  
-x. keterbukaan.  
+Dalam menyusun kebijakan terkait dengan pemberdayaan perempuan dan perlindungan anak ini, perlu diperhatikan asas pembentukan peraturan perundang-undangan yang baik sebagaimana telah diatur di dalam Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan meliputi:  
+a. kejelasan tujuan;  
+b. kelembagaan atau pejabat pembentuk yang tepat;  
+c. kesesuaian antara jenis, hierarki, dan materi muatan;  
+d. dapat dilaksanakan;  
+e. kedayagunaan dan kehasilgunaan;  
+f. kejelasan rumusan; dan  
+g. keterbukaan.  
 
 Disamping asas pembentukan peraturan perundangundangan, perlu  juga memperhatikan asas materi muatan yang meliputi:  
 a. pengayoman;  
@@ -584,7 +600,7 @@ g. keadilan;
 h. kesamaan kedudukan dalam hukum dan pemerintahan;  
 i. ketertiban dan kepastian hokum; dan/atauj. keseimbangan, keserasian, dan keselarasan.  
 
-Penyelenggaraan urusan pemerintahan bidang Pemberdayaan  Perempuan dan Perlindungan Anak bertujuan meningkatkan upaya  Perlindungan hak perempuan, pemenuhan hak anak dan Perlindungan  Khusus Anak dan meningkatkan peran Pemerintah Daerah dan dunia  usaha, media serta masyarakat dalam upaya Pemberdayaan Perempuan dan  Perlindungan Anak. Adapun materi pokok yang terkandung didalam batang  tubuh Peraturan Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak meliputi:  
+Penyelenggaraan urusan pemerintahan bidang Pemberdayaan Perempuan dan Perlindungan Anak bertujuan meningkatkan upaya  Perlindungan hak perempuan, pemenuhan hak anak dan Perlindungan  Khusus Anak dan meningkatkan peran Pemerintah Daerah dan dunia  usaha, media serta masyarakat dalam upaya Pemberdayaan Perempuan dan  Perlindungan Anak. Adapun materi pokok yang terkandung didalam batang  tubuh Peraturan Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak meliputi:  
 a. pemenuhan hak perempuan;  
 b. pemberdayaan perempuan;  
 c. perlindungan perempuan;  
@@ -602,154 +618,154 @@ l. pembiayaan.
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 24
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 25
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 26
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 27
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 28
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 29
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 30
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 31
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 32
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 33
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 34
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 35
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 36
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 37
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 38
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN SAROLANGUN NOMOR 2
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SAROLANGUN NOMOR 2  
