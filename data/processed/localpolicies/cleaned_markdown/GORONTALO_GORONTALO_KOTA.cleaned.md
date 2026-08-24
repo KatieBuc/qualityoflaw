@@ -348,7 +348,7 @@ g. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.
 Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 25 huruf e meliputi:  
 a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan  
-e. rujukan ke layanan kesehatan.  
+c. rujukan ke layanan kesehatan.  
 
 #### Pasal 29
 
