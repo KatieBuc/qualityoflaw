@@ -288,7 +288,7 @@ c. konselor dalam bidang psikologi.
 
 1. Selain membentuk P2TP2A Berjejaring, Pemerintah Daerah  membentuk Forum Penanganan Korban Kekerasan terhadap  Perempuan dan Anak (FPK2PA).  
 2. FPK2PA sebagaimana dimaksud pada ayat (1) terdiri dari  FPK2PA kabupaten dan FPK2PA kecamatan.  
-3. Struktur Organisasi FPK2PA terdiri dari:
+3. Struktur Organisasi FPK2PA terdiri dari:  
 a. Pembina;  
 b. Penasehat;  
 c. Pengarah;  
