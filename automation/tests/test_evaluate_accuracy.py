@@ -193,7 +193,7 @@ def test_calculate_metrics_applies_manual_overwrites(tmp_path):
         ]
     )
 
-    errors_df, _, metrics_summary = calculate_metrics(
+    errors_df, _, metrics_summary, _merged = calculate_metrics(
         str(csv_path), llm_df, manual_overwrites={"ACEH_BIREUEN.txt": {"4.4": 1.0}}
     )
 

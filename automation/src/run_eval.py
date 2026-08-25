@@ -19,12 +19,14 @@ from automation.src.config_loader import (
 )
 from automation.src.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_COUNT, EXPECTED_INDICATOR_IDS
 from automation.src.failure_log import clear_failure, record_failure
+from automation.src.llm.confidence import ConfidenceSpec
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
 from automation.src.policy_files import filter_policy_files
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.evidence_check import resolve_evidence_citation
 from automation.src.rag.prompt_builder import (
     build_candidate_lookup,
+    format_criteria_list,
     format_criteria_with_candidates,
     parse_criteria_lines,
 )
@@ -44,6 +46,28 @@ class CriterionResult(BaseModel):
 
 class PolicyEvaluationResponse(BaseModel):
     evaluation_results: List[CriterionResult]
+
+
+class VerbalizedCriterionResult(CriterionResult):
+    self_reported_confidence: float = Field(
+        description="Your confidence that this 'included' answer is correct, from 0.0 (coin flip) to 1.0 (certain)."
+    )
+
+
+class VerbalizedPolicyEvaluationResponse(BaseModel):
+    evaluation_results: List[VerbalizedCriterionResult]
+
+
+def response_model_for(confidence: ConfidenceSpec) -> type[BaseModel]:
+    """Pick the response schema for the configured confidence methods.
+
+    The verbalized field is only in the schema when it is asked for, so runs
+    without it produce byte-identical requests to before the confidence module
+    existed — the v3 baseline stays comparable.
+    """
+    if confidence.needs_verbalized:
+        return VerbalizedPolicyEvaluationResponse
+    return PolicyEvaluationResponse
 
 
 def validate_completeness(evaluation_results: dict) -> tuple[bool, list[str]]:
@@ -191,9 +215,7 @@ def _evaluate_dimension(
         criteria_rows = parse_criteria_lines(str(criteria_folder / criteria_file))
 
         if not retrieval_config.enabled:
-            criteria_list_str = "\n".join(
-                f"- {cid} ({indicator}): {question}" for cid, indicator, question in criteria_rows
-            )
+            criteria_list_str = format_criteria_list(criteria_rows)
             final_prompt = template_text.replace("{{CRITERIA_LIST}}", criteria_list_str).replace(
                 "{{POLICY_TEXT}}", policy_path.read_text(encoding="utf-8")
             )
@@ -205,18 +227,22 @@ def _evaluate_dimension(
             logger.info("[%s] %s completed (full-policy mode)", policy_path.name, criteria_file)
             return DimensionResult(criteria_file=criteria_file, batch_evals=batch_evals)
 
-        question_embeddings = embedder.embed_texts([question for _, _, question in criteria_rows])
+        # Retrieval is queried with the question alone, deliberately: the rubric
+        # is guidance for deciding the answer, and folding its "Code No if …"
+        # exclusions into the embedding would pull retrieval toward the very
+        # passages the criterion exists to rule out.
+        question_embeddings = embedder.embed_texts(
+            [criterion.question for criterion in criteria_rows]
+        )
 
         candidates_by_id = {
-            cid: retrieve_evidence_candidates(
-                query=question,
+            criterion.id: retrieve_evidence_candidates(
+                query=criterion.question,
                 query_embedding=query_embedding,
                 store_chunks=store_chunks,
                 config=retrieval_config,
             )
-            for (cid, _indicator, question), query_embedding in zip(
-                criteria_rows, question_embeddings
-            )
+            for criterion, query_embedding in zip(criteria_rows, question_embeddings)
         }
 
         final_prompt = template_text.replace(
@@ -492,8 +518,10 @@ def run_evaluation_step(
             pending_files.append(policy_path)
     policy_files = pending_files
 
+    response_model = response_model_for(wrapper.confidence)
+
     def complete_fn(prompt: str) -> dict:
-        return wrapper.complete_structured(prompt, PolicyEvaluationResponse)
+        return wrapper.complete_structured(prompt, response_model)
 
     deployment_name = wrapper.profile.deployment
     use_serial = not limiter.enabled or limiter.max_workers == 1

@@ -16,6 +16,12 @@ from automation.src.constants import (
     PROJECT_ROOT,
     PROMPTS_ROOT,
 )
+from automation.src.llm.confidence import (
+    AVAILABLE_METHODS,
+    METHOD_LOGPROBS,
+    METHOD_MARGIN,
+    ConfidenceSpec,
+)
 from automation.src.llm.model_profile import ModelProfile, RerankerProfile
 
 
@@ -96,6 +102,27 @@ class RetrievalConfig:
     enabled: bool = True
 
 
+#: Evaluation-side confidence capture. Which methods to record and which one
+#: leads; see `llm/confidence.py` for what each one measures.
+ConfidenceConfig = ConfidenceSpec
+
+
+@dataclass
+class ConfidenceReportConfig:
+    """Comparison-side cutoffs for the confidence report.
+
+    Both absolute and quantile cutoffs are reported: logprob confidence on a
+    binary answer tends to sit near 1.0, where absolute thresholds can flag
+    nothing at all, while a quantile always yields a non-empty flagged set.
+    """
+
+    thresholds: tuple[float, ...] = (0.5, 0.7, 0.9, 0.95, 0.99)
+    quantiles: tuple[float, ...] = (0.05, 0.10, 0.20, 0.30)
+    primary_threshold: float = 0.9
+    flagged_sample_size: int = 100
+    calibration_bins: int = 10
+
+
 @dataclass
 class SlidingWindowConfig:
     window_sentences: int = 40
@@ -126,6 +153,10 @@ class ResolvedPipelineConfig:
     pipeline_config_path: Path
     model_config_path: Path
     evaluation_method: str = "rag"
+    confidence: ConfidenceConfig = field(default_factory=ConfidenceConfig)
+    comparison_confidence: ConfidenceReportConfig = field(
+        default_factory=ConfidenceReportConfig
+    )
     sliding_window: SlidingWindowConfig = field(default_factory=SlidingWindowConfig)
     sliding_window_template_path: Path = field(
         default_factory=lambda: PROMPTS_ROOT / "quality_eval" / "sliding_window_v1" / "prompt_template.txt"
@@ -163,6 +194,7 @@ def parse_model_profile(name: str, raw: dict) -> ModelProfile:
         temperature=float(raw.get("temperature", 0.1)),
         max_tokens=raw.get("max_tokens"),
         max_retries=int(raw.get("max_retries", 3)),
+        supports_logprobs=bool(raw.get("supports_logprobs", True)),
     )
 
 
@@ -303,6 +335,92 @@ def parse_retrieval_config(
         ),
         evidence_verification_enabled=bool(verification_raw.get("enabled", True)),
         enabled=rag_enabled,
+    )
+
+
+def parse_confidence_config(raw: dict | None) -> ConfidenceConfig:
+    raw = raw or {}
+
+    top_logprobs = int(raw.get("top_logprobs", 5))
+    if not 1 <= top_logprobs <= 20:
+        raise ValueError("evaluation.confidence.top_logprobs must be between 1 and 20")
+
+    raw_methods = raw.get("methods")
+    if raw_methods is None:
+        methods = (METHOD_LOGPROBS, METHOD_MARGIN)
+    else:
+        if not isinstance(raw_methods, (list, tuple)):
+            raise ValueError("evaluation.confidence.methods must be a list")
+        methods = tuple(dict.fromkeys(str(method) for method in raw_methods))
+        unknown = [method for method in methods if method not in AVAILABLE_METHODS]
+        if unknown:
+            raise ValueError(
+                f"Unknown evaluation.confidence.methods: {', '.join(unknown)}. "
+                f"Available: {', '.join(AVAILABLE_METHODS)}"
+            )
+
+    primary = str(raw.get("primary", methods[0] if methods else METHOD_LOGPROBS))
+    if methods and primary not in methods:
+        raise ValueError(
+            f"evaluation.confidence.primary '{primary}' must be one of the enabled "
+            f"methods: {', '.join(methods)}"
+        )
+
+    return ConfidenceConfig(
+        enabled=bool(raw.get("enabled", True)) and bool(methods),
+        methods=methods,
+        primary=primary,
+        top_logprobs=top_logprobs,
+    )
+
+
+def _parse_cutoffs(values: object, key: str, *, exclusive_upper: bool) -> tuple[float, ...]:
+    if values is None:
+        return ()
+    if not isinstance(values, (list, tuple)):
+        raise ValueError(f"{key} must be a list of numbers")
+    cutoffs = []
+    for value in values:
+        cutoff = float(value)
+        upper_ok = cutoff < 1.0 if exclusive_upper else cutoff <= 1.0
+        if not (0.0 < cutoff and upper_ok):
+            bound = "0 < x < 1" if exclusive_upper else "0 < x <= 1"
+            raise ValueError(f"{key} entries must satisfy {bound}, got {cutoff}")
+        cutoffs.append(cutoff)
+    return tuple(sorted(set(cutoffs)))
+
+
+def parse_confidence_report_config(raw: dict | None) -> ConfidenceReportConfig:
+    raw = raw or {}
+    defaults = ConfidenceReportConfig()
+
+    thresholds = (
+        _parse_cutoffs(raw.get("thresholds"), "comparison.confidence.thresholds", exclusive_upper=False)
+        or defaults.thresholds
+    )
+    quantiles = (
+        _parse_cutoffs(raw.get("quantiles"), "comparison.confidence.quantiles", exclusive_upper=True)
+        or defaults.quantiles
+    )
+
+    primary_threshold = float(raw.get("primary_threshold", defaults.primary_threshold))
+    if not 0.0 < primary_threshold <= 1.0:
+        raise ValueError("comparison.confidence.primary_threshold must satisfy 0 < x <= 1")
+
+    flagged_sample_size = int(raw.get("flagged_sample_size", defaults.flagged_sample_size))
+    if flagged_sample_size < 0:
+        raise ValueError("comparison.confidence.flagged_sample_size must be >= 0")
+
+    calibration_bins = int(raw.get("calibration_bins", defaults.calibration_bins))
+    if calibration_bins < 2:
+        raise ValueError("comparison.confidence.calibration_bins must be >= 2")
+
+    return ConfidenceReportConfig(
+        thresholds=thresholds,
+        quantiles=quantiles,
+        primary_threshold=primary_threshold,
+        flagged_sample_size=flagged_sample_size,
+        calibration_bins=calibration_bins,
     )
 
 
@@ -512,6 +630,10 @@ def load_pipeline_config(
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
         evaluation_method=evaluation_method,
+        confidence=parse_confidence_config(evaluation_cfg.get("confidence")),
+        comparison_confidence=parse_confidence_report_config(
+            (pipeline_data.get("comparison") or {}).get("confidence")
+        ),
         sliding_window=sliding_window,
         sliding_window_template_path=sliding_window_template_path,
         markdown=markdown,

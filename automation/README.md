@@ -24,10 +24,14 @@ automation/
 │   ├── translation/v3/        # Markdown path (markdown in, markdown out)
 │   ├── translation_qa/v1/     # Raw-text path
 │   ├── translation_qa/v2/     # Markdown path (adds a Markdown-fidelity check)
-│   ├── quality_eval/v1/
+│   ├── quality_eval/v1/, v2/, v3/   # v3 is the default RAG judge prompt
+│   ├── quality_eval/v4/            # v3 + verbalized-confidence field
+│   ├── quality_eval/sliding_window_v1/
 │   └── discrepancy_diagnosis/v1/
 └── src/
     ├── llm/                   # Shared Azure LLM wrapper
+    │   ├── logprobs.py        # Answer-token alignment, probability + margin
+    │   └── confidence.py      # Confidence methods and how they attach to results
     ├── markdown/              # Markdown translation path (the default)
     │   ├── chunking.py        # Heading parsing, section packing, structure checks
     │   ├── translate.py       # `translation_md` step
@@ -35,6 +39,7 @@ automation/
     │   ├── to_text.py         # `md_to_text` step + standalone CLI
     │   └── policy_files.py    # `<POLICY>.cleaned.md` -> `<POLICY>` naming
     ├── evaluate_accuracy.py   # Golden-dataset comparison
+    ├── confidence_report.py   # Low-confidence coverage of errors, per method
     ├── run_pipeline.py        # Main entry point
     ├── chunking.py            # Raw-text clean/chunk/combine
     ├── translate.py           # Raw-text `translation` + `markdown` steps
@@ -252,6 +257,8 @@ data/automation/<run_id>/
 │   ├── comparison/            # Golden-dataset comparison outputs
 │   │   ├── metrics.csv
 │   │   ├── error_analysis.csv
+│   │   ├── confidence_report.json     # Low-confidence coverage of the errors, calibration, breakdowns
+│   │   ├── low_confidence.csv         # Only when the primary threshold flags something
 │   │   └── unmatched_indicators.csv   # Only when join pairs are missing on one side
 │   └── diagnosis/             # Discrepancy diagnosis reports (one per policy with mismatches)
 └── mid_product/                # Intermediate artifacts consumed by later stages
@@ -350,6 +357,36 @@ If any chunk's QA call **raises** (a real API/LLM-call failure, after the wrappe
 
 A different, more common case is handled separately: the LLM sometimes sets `action_required: true` but doesn't actually return `corrected_text` (a content-quality slip, not an API error). Since one policy can be split into dozens or hundreds of chunks, treating this as a hard failure would mean even a small per-chunk chance of it happening discards every other chunk's already-good result. Instead, that one unit is retried once; if it's still missing, the unit is degraded to "no action" (its original text is kept) and flagged with `response_incomplete: true` in the report for manual review, rather than failing the whole policy.
 
+### Criteria files and their coding rubric
+
+Each dimension's criteria live in `prompts/quality_eval/<version>/<NN>_<dimension>.txt`. A line of
+
+```
+4.1 | Information and education about VAW | Does the policy include education about VAW?
+```
+
+starts a criterion; **every following line belongs to it as coding rubric**, until the next criterion:
+
+```
+Code Yes if any of the following apply:
+campaigns, counseling, or socialization explicitly described to provide education about violence against women;
+Code No if the policy refers only to:
+education, awareness or information about women's rights, victims' rights, or gender equality;
+```
+
+That rubric is what makes borderline calls decidable — the distinction above (education *about VAW* is Yes, education about women's rights generally is No) cannot be inferred from the question alone.
+
+**This was previously discarded.** `parse_criteria_lines` kept only lines that split into exactly three pipe-separated fields, so of the 451 non-empty lines in the v3 criteria, 56 reached the judge and **395 were silently dropped** — every coding rule. v1 and v2 carry no rubric, so they were unaffected, which is why the loss went unnoticed when v3 introduced it. Rules now render under their criterion as an indented `Coding rules:` block, before the retrieved candidate sentences, and the prompt templates instruct the model to treat them as authoritative.
+
+Notes on the current state:
+
+- 38 of the 56 criteria have a rubric; the remaining 18 (listed in `test_criteria_parsing.py`) have none written yet and render exactly as before, question only. Adding rubric for them needs no code change.
+- Retrieval is deliberately **not** affected: the embedding query stays the question alone. Folding a rubric's "Code No if…" exclusions into the query would pull retrieval toward the very passages the criterion exists to rule out.
+- Prompts grow about 5% (~14k tokens per policy, ~2.8M across a full 198-policy run) — the retrieved candidate sentences still dominate.
+- A line that appears before any criterion cannot be attributed and is logged as a warning rather than dropped in silence.
+
+**This changes v3 and v4 outputs**, so results from before the fix are not directly comparable. On a 4-policy spot check (224 pairs) errors went 26 → 23, with false positives falling 19 → 12 and false negatives rising 7 → 11 — the expected signature of adding explicit exclusions, since the judge becomes stricter. That sample is too small to draw conclusions from; a full re-run is needed to measure the real effect.
+
 ### `evaluation/`
 
 Per-policy JSON reports named `<timestamp>-<model>-<POLICY_BASENAME>.json`. Each report contains:
@@ -359,6 +396,40 @@ Per-policy JSON reports named `<timestamp>-<model>-<POLICY_BASENAME>.json`. Each
 - `model`, `evaluated_at`, `prompt_version`
 
 If multiple reports exist for the same policy, comparison keeps the **latest** by timestamp.
+
+#### Per-indicator confidence
+
+When `evaluation.confidence` is enabled, each indicator also carries how sure the judge was of its Yes/No. Three methods are available, selected in config:
+
+| Method | What it measures | Cost |
+|--------|------------------|------|
+| `logprobs` | `exp(answer_logprob)` — the probability the model put on the answer it gave | Free; rides along on the evaluation call |
+| `margin` | How decisively the winning label beat the losing one, from the same call's `top_logprobs` | Free; same call |
+| `verbalized` | The judge's own stated certainty, requested as a response field | Needs `prompt_version: v4` |
+
+Every enabled method is recorded, and `primary` picks which one fills the `confidence` field that the comparison step treats as the headline signal:
+
+| Field | Description |
+|-------|-------------|
+| `confidence` | The primary method's score |
+| `confidence_source` | The primary method's name, or `unaligned` / `unavailable`; suffixed `_merged` on the sliding-window path |
+| `confidence_scores` | Every captured method, e.g. `{"logprobs": 0.9998, "margin": 0.9995, "verbalized": 0.85}` |
+| `answer_logprob` | Logprob summed over every token spelling the answer, reported unmodified |
+| `p_yes` / `p_no` | Normalised over the two labels, from the first answer token's `top_logprobs` |
+| `margin` | `abs(p_yes - p_no)` |
+| `margin_counterpart_observed` | `false` when the losing label never appeared in `top_logprobs`, so its probability was bounded rather than read — see the caveat below |
+
+One evaluation call covers a whole dimension, so each `included` value is a field inside a large JSON object rather than a standalone token. `llm/logprobs.py` rebuilds the response text from the token stream, pairs each `"included"` value with the `"id"` that precedes it, and sums the logprobs of the tokens covering that value — so a split (`Y` + `es`) or quote-merged (`"Yes`) answer still yields the right probability.
+
+**Margin caveat.** The losing label is usually missing from the returned top-k: when the judge is confident, the runners-up are casing and whitespace variants, not the opposite answer. Its probability is then bounded by the smallest alternative that *was* returned, which makes margin a monotone function of the answer probability rather than an independent signal. Measured on 224 real indicators at `top_logprobs: 5`, the counterpart was observed **10 times out of 224 (4.5%)**, and margin ranked predictions identically to `logprobs` (AUROC 0.62 for both). `confidence_report.json` reports this ratio per run under `methods.margin.notes`. Azure caps `top_logprobs` at 5, so this cannot be improved by asking for more alternatives.
+
+**Verbalized** produces visibly more spread than either token-level method — a probe returned 0.78/0.98/0.99 across three criteria where `logprobs` returned 0.96/1.0/1.0 — which makes it the most promising candidate for `primary`, though it has not yet been measured at scale.
+
+Deployments that reject the `logprobs` parameter are handled automatically: the first 400 triggers one warning and a retry without it, all later calls skip it, and the affected methods yield `null`. A 400 that merely says `top_logprobs` is *too high* is treated differently — the value is clamped to the deployment's own limit and logprobs stay on, so one over-large setting doesn't cost the run its confidence scores. To skip logprobs entirely, set `supports_logprobs: false` on the model profile in `model_config.yaml`.
+
+Note that the token-level methods saturate: on real policies the median is above 0.9999 and roughly 40% of indicators come back at exactly 1.0, which is why the comparison report sweeps quantile cutoffs alongside absolute ones.
+
+Self-consistency (k samples per indicator, scored by vote share) is **not** implemented. It needs repeated sampling rather than a single call, so it belongs in a separate step; `llm/confidence.py` is structured so adding it means adding a method name and a writer for its score, and the comparison report will pick it up automatically.
 
 ### `rag_candidates/`
 
@@ -449,9 +520,39 @@ One row per **value mismatch** (golden ≠ LLM prediction):
 | `golden_label` / `pred_label` | `Yes` or `No` |
 | `value` / `pred_value` | Numeric labels (1.0 = Yes, 0.0 = No) |
 | `error_type` | `false_positive` (golden No, LLM Yes) or `false_negative` (golden Yes, LLM No) |
+| `confidence` | The judge's confidence in the wrong answer, from `evaluation/`; empty for runs without confidence data |
 | `evidence` | The judge's cited evidence snippet for this indicator, from `evaluation/` |
 | `rationale` | The judge's rationale for this indicator, from `evaluation/` |
 | `discrepancy_root_cause` | Always `Reference only` — root causes are produced by the `discrepancy_diagnosis` step (see `diagnosis/<stem>.json`), which runs after this file is written and doesn't write back into it |
+
+#### `confidence_report.json`
+
+Answers the operational question the accuracy numbers can't: **if the least-confident predictions were sent for human review, what share of the actual errors would that catch?** That share — `errors_captured / total_errors` — is the `coverage_rate`.
+
+A prediction counts as flagged when its `confidence` is strictly below a cutoff. The report sweeps both kinds of cutoff, because confidence saturates near 1.0 and absolute thresholds alone can flag almost nothing:
+
+| Section | Contents |
+|---------|----------|
+| `method_comparison` | **Read this first when choosing `primary`.** One compact row per captured method — availability, AUROC, coverage, precision, ECE, Brier — ranked best error-detector first |
+| `methods` | The full analysis repeated independently for each captured method, plus per-method `notes` (e.g. how often margin observed its counterpart) |
+| `primary_method` | Which method the top-level sections below describe — the method actually scored, which is not necessarily the one config asked for (see `primary_method_requested` / `primary_method_warning`) |
+| `confidence_source` | Model, temperature, methods present, and how many pairs actually carry a score (`availability`, `source_counts`) |
+| `baseline` | Accuracy, error count, and confusion matrix over **all** matched pairs — the denominator the coverage rate is measured against |
+| `coverage.by_absolute_threshold` | One row per configured probability cutoff |
+| `coverage.by_quantile` | One row per configured quantile, with the confidence value that quantile resolves to |
+| `coverage.primary` | The row for `comparison.confidence.primary_threshold` |
+| `calibration` | Confidence-bucket accuracy table, plus ECE, max calibration error, and Brier score |
+| `discrimination` | `auroc_error_detection` (AUROC of `1 - confidence` for predicting an error; 0.5 means no signal), AURC, and a risk–coverage curve |
+| `breakdowns` | Coverage by dimension, and split by `false_positive` vs `false_negative` |
+| `flagged_sample` | The N least-confident predictions with their labels and whether each was actually wrong |
+
+Each coverage row carries `flagged`, `flagged_share`, `errors_captured`, `coverage_rate`, `precision`, `lift` (precision ÷ baseline error rate), `remaining_errors`, and `accuracy_on_unflagged`. Rates over an empty population are `null`, never `0` — a cutoff that flags nothing has undefined precision, not perfect precision.
+
+Coverage statistics are computed over the pairs that carry a score, while `baseline` covers all of them; compare `pairs_with_confidence` against `pairs_total` before reading too much into a partially-scored run. Methods can differ in availability — `verbalized` is absent from indicators the model declined to rate, `margin` from answers that couldn't be aligned — so each method block reports its own `pairs_scored` and `errors_in_scope`. The file is written on every comparison, including for runs whose evaluation predates this feature — those get `"status": "no_confidence_data"` with the analysis sections `null`, so a missing file always means comparison didn't run.
+
+#### `low_confidence.csv`
+
+Every prediction below `primary_threshold`, least confident first, with `correct` and `error_type` alongside the judge's rationale — the manual-review worklist behind the coverage number. Deleted rather than left stale when nothing is flagged.
 
 #### `unmatched_indicators.csv`
 
@@ -560,6 +661,40 @@ discrepancy_diagnosis:
 ```
 
 `discrepancy_diagnosis.model`/`prompt_version` and `translation_qa.model`/`prompt_version` are required just like `translation`/`evaluation`'s (config is validated eagerly on every invocation, regardless of which `--steps` are selected). Templates live at `automation/prompts/discrepancy_diagnosis/<prompt_version>/prompt_template.txt` and `automation/prompts/translation_qa/<prompt_version>/prompt_template.txt` respectively.
+
+#### Confidence (`evaluation.confidence` + `comparison.confidence`)
+
+```yaml
+evaluation:
+  prompt_version: v3            # v4 adds the verbalized-confidence field
+  confidence:
+    enabled: true
+    methods: [logprobs, margin] # any of logprobs / margin / verbalized
+    primary: logprobs           # must be one of the enabled methods
+    top_logprobs: 5             # alternatives per answer token; Azure caps at 5
+
+comparison:
+  confidence:
+    thresholds: [0.5, 0.7, 0.9, 0.95, 0.99]   # absolute cutoffs to sweep
+    quantiles: [0.05, 0.10, 0.20, 0.30]       # quantile cutoffs to sweep
+    primary_threshold: 0.9                    # drives coverage.primary and low_confidence.csv
+    flagged_sample_size: 100                  # least-confident predictions listed in the report
+    calibration_bins: 10
+```
+
+Both blocks are optional and fall back to the values above. `evaluation.confidence` only affects the `evaluation` step; `comparison.confidence` only affects report cutoffs, so it can be re-tuned and comparison re-run without touching the model. A model profile can also opt out permanently with `supports_logprobs: false`.
+
+`methods: []` disables capture entirely. `primary` must name one of the enabled methods, and `verbalized` requires `prompt_version: v4` — the field is only added to the response schema when the method is enabled, so a v3 run produces byte-identical requests to before the confidence module existed and stays comparable to the existing baseline.
+
+**Switching `primary` after a run is a comparison-only change.** Every enabled method is stored per indicator, so:
+
+```bash
+python -m automation.src.run_pipeline --run-id <run> --steps comparison --force
+```
+
+recomputes the entire report — coverage, calibration, discrimination, breakdowns, `flagged_sample`, and `low_confidence.csv` — against the newly chosen method. No re-evaluation and no API calls.
+
+The `confidence` field inside an evaluation report holds whichever method was primary *at evaluation time*, so comparison deliberately ignores it when the requested method has its own score, and reads that method's column instead. If the requested method was never captured, the report does **not** silently relabel someone else's numbers: it keeps the method it actually scored, sets `confidence_source.primary_method_warning`, and prints a warning naming what to re-run.
 
 #### Translation QA + re-align (`translation_qa` step)
 

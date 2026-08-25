@@ -1,0 +1,1141 @@
+{
+  "policy_file": "SUMATERA_SELATAN_MUSI_RAWAS.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-08-24T14:38:49.670628+00:00",
+  "prompt_version": "v4",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "4. Domestic Violence is any act against a person, especially women, which results in misery or suffering physically, sexually, psychologically, and/or domestic neglect including threats to commit acts, coercion, or deprivation of liberty unlawfully within the scope of the household.",
+      "rationale": "The policy explicitly defines “Domestic Violence” within its general provisions, clearly bringing domestic violence within the scope of the regulation.",
+      "confidence": 1.0,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 1.0
+      },
+      "answer_logprob": 0.00012969970703125,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "11. Sexual violence is an act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.",
+      "rationale": "The policy explicitly defines “Sexual violence” and thus includes it as a covered form of violence.",
+      "confidence": 1.0,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 1.0
+      },
+      "answer_logprob": 0.00012969970703125,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "9. Physical violence is any act that causes pain, injury, wounds, or disability to a person's body, miscarriage, unconsciousness and/or causes death",
+      "rationale": "The policy explicitly defines “Physical violence,” indicating it is included within the scope of violence addressed.",
+      "confidence": 1.0,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 1.0
+      },
+      "answer_logprob": 1.9073486328125e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "10. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.",
+      "rationale": "The policy explicitly defines “Psychological violence,” demonstrating that psychological violence is included as a covered form of violence.",
+      "confidence": 1.0,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 1.0
+      },
+      "answer_logprob": 0.0,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "8. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, psychological to the victim.",
+      "rationale": "The policy’s definition of “Violence” explicitly includes economic suffering, which meets the criterion for including economic violence/abuse within the scope of violence addressed.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999732974756593,
+        "margin": 0.9999465949513187,
+        "verbalized": 0.9
+      },
+      "answer_logprob": -2.6702880859375e-05,
+      "p_yes": 0.9999732974756593,
+      "p_no": 2.6702524340671552e-05,
+      "margin": 0.9999465949513187,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly mention harmful practices such as early/child marriage, forced marriage, FGM/cutting, honour crimes, or female infanticide, nor do they include specific measures or legal references targeting such practices.",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.85
+      },
+      "answer_logprob": 5.7220458984375e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss various forms of violence (including domestic, physical, psychological, sexual) but do not explicitly mention femicide/feminicide or gender-related killing of women/girls as a distinct issue.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 1.9073486328125e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "6. Trafficking in Persons is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, use of violence, abduction, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payments or benefits, so as to obtain the consent of a person holding control over another person, whether carried out within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.",
+      "rationale": "The policy explicitly defines “Trafficking in Persons,” which directly includes human trafficking within the policy’s scope.",
+      "confidence": 1.0,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 1.0
+      },
+      "answer_logprob": 0.0001068115234375,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "1. Special protection for children who are exploited economically and/or sexually as referred to in Article 30 is the obligation and responsibility of the government and society.",
+      "rationale": "The policy explicitly refers to children being exploited “economically and/or sexually,” which constitutes explicit inclusion of sexual exploitation within the scope of protection measures.",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9998397955489475,
+        "margin": 0.9996795910978951,
+        "verbalized": 0.95
+      },
+      "answer_logprob": -0.00016021728515625,
+      "p_yes": 0.9998397955489475,
+      "p_no": 0.00016020445105247028,
+      "margin": 0.9996795910978951,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention cyber/online/digital forms of violence (e.g., cyber harassment, cyber bullying, cyber pornography, online sexual exploitation) or otherwise recognize technology-facilitated violence as a form of violence covered by the policy.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 4.1961669921875e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "a. establishing and facilitating the operation of integrated service institutions for victims involving community elements; and\n3. The implementation of Protection Institutions for victims is carried out in an integrated manner within the P.ZTP2,A- framework.",
+      "rationale": "The policy obligates the regency government to establish and facilitate integrated service institutions for victims and specifies that implementation is carried out in an integrated manner within a defined P2TP2A framework, which constitutes an institutional coordination/network mechanism rather than isolated agency responsibilities.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 8.392333984375e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "c. involvement of various government agencies, companies, labor unions, non-governmental organizations, and the community in the elimination of economic and/or sexual exploitation of children.\nAll parties both from government elements, Law Enforcement Officials (APH) and NGOs, have become members of the P2TP2A of Musi Rawas Regency.",
+      "rationale": "The policy explicitly includes non-governmental organizations among the actors involved in eliminating exploitation and also states that NGOs are members of the integrated service center (P2TP2A), indicating collaboration/participation of non-government service providers in the protection/response mechanism.",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.88
+      },
+      "answer_logprob": 0.000102996826171875,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "a. collecting data and information about women and children victims of violence;",
+      "rationale": "The policy explicitly mentions collecting data and information about women and children victims of violence, directly linking data collection to violence victims as required by the criterion.",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.93
+      },
+      "answer_logprob": 4.1961669921875e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references gender equality/justice principles and cites a regulation on gender mainstreaming in the legal considerations, none of the candidate sentences establish or require gender mainstreaming as an institutional mechanism (e.g., no mandate, working group, focal point, or integration into planning/budgeting for implementation).",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.78
+      },
+      "answer_logprob": 8.7738037109375e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss service provision, cooperation mechanisms, and the need for skilled/professional personnel, but they do not explicitly mandate or provide training/technical guidance/capacity building for implementing agencies or service providers as a duty under the policy (and victim skills training is not the relevant type).",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.8
+      },
+      "answer_logprob": 0.000110626220703125,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "e. monitoring and evaluation of the implementation of protection for women and children victims of violence.",
+      "rationale": "The policy explicitly includes monitoring and evaluation of the implementation of protection for women and children victims of violence, satisfying the monitoring and evaluation criterion.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999122658117596,
+        "margin": 0.9998245316235193,
+        "verbalized": 0.9
+      },
+      "answer_logprob": -8.7738037109375e-05,
+      "p_yes": 0.9999122658117596,
+      "p_no": 8.773418824037371e-05,
+      "margin": 0.9998245316235193,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "a. establishing and facilitating the operation of integrated service institutions for victims involving community elements; and\n34. Integrated Service Center for the Empowerment of Women and Children (P2TP2A) hereinafter abbreviated as P2TP2A is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and legal services.",
+      "rationale": "The policy defines and mandates an Integrated Service Center for the Empowerment of Women and Children (P2TP2A) as an institution providing integrated services (medical, psychosocial, legal) to victims of violence, and obligates the regency government to establish and facilitate integrated service institutions for victims.",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.95
+      },
+      "answer_logprob": 6.4849853515625e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "Yes",
+      "evidence": "a. provide special service rooms at police stations;",
+      "rationale": "The policy explicitly mentions providing special service rooms at police stations for victim services, which constitutes a police-based specialised victim service mechanism under the coding rules.",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9993593361721408,
+        "margin": 0.9987186723442816,
+        "verbalized": 0.78
+      },
+      "answer_logprob": -0.000640869140625,
+      "p_yes": 0.9993593361721408,
+      "p_no": 0.0006406638278592114,
+      "margin": 0.9987186723442816,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "The Integrated Service Center for Women's Empowerment and Children (P2TP2A) serves as a place for reporting, handling, rehabilitation and reintegration of victims of violence.",
+      "rationale": "The policy identifies an integrated service center (P2TP2A) that functions as a place for reporting and handling victims of violence, which is a mechanism for receiving reports/complaints.",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999542246805344,
+        "margin": 0.9999084493610688,
+        "verbalized": 0.86
+      },
+      "answer_logprob": -4.57763671875e-05,
+      "p_yes": 0.9999542246805344,
+      "p_no": 4.577531946559077e-05,
+      "margin": 0.9999084493610688,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "36. Safe house is a temporary residence used to provide protection to victims in accordance with established operational standards.\nc. psychosocial services constitute services provided by companions in the context of recovering the traumatic condition of victims, including the provision of space and victim houses to protect victims from threats and intimidation against victims;",
+      "rationale": "The policy defines a safe house as a temporary residence for victim protection and includes provision of victim houses/space within psychosocial services as part of integrated services, indicating shelter/accommodation-based protection for victims.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 8.392333984375e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "d. legal services to assist victims in undergoing the judicial process;\n34. Integrated Service Center for the Empowerment of Women and Children (P2TP2A) hereinafter abbreviated as P2TP2A is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and legal services.",
+      "rationale": "The policy includes legal services within integrated services and defines P2TP2A as providing legal services to victims, indicating a service unit that provides legal assistance.",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999542246805344,
+        "margin": 0.9999084493610688,
+        "verbalized": 0.92
+      },
+      "answer_logprob": -4.57763671875e-05,
+      "p_yes": 0.9999542246805344,
+      "p_no": 4.577531946559077e-05,
+      "margin": 0.9999084493610688,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "a. medical services, in the form of treatment and recovery for physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\na. Health services;",
+      "rationale": "The policy explicitly includes medical/health services as part of integrated services for victims and as part of recovery activities, indicating provision of health/medical services for victims.",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999732974756593,
+        "margin": 0.9999465949513187,
+        "verbalized": 0.93
+      },
+      "answer_logprob": -2.6702880859375e-05,
+      "p_yes": 0.9999732974756593,
+      "p_no": 2.6702524340671552e-05,
+      "margin": 0.9999465949513187,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Counseling is provided by social workers, volunteer assistants, by listening empathetically and exploring problems for the psychological strengthening of victims.\nc. psychosocial services constitute services provided by companions in the context of recovering the traumatic condition of victims, including the provision of space and victim houses to protect victims from threats and intimidation against victims;",
+      "rationale": "The policy explicitly provides counselling for psychological strengthening and includes psychosocial services for trauma recovery within integrated services, meeting the requirement for psychosocial/psychological counselling services.",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.94
+      },
+      "answer_logprob": 0.0001068115234375,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "d. Spiritual guidance;\ne. spiritual guidance services",
+      "rationale": "The policy explicitly lists spiritual guidance as a recovery activity carried out by spiritual counselors and also lists spiritual guidance services among victims’ rights, satisfying the criterion for religious/spiritual counselling support.",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.95
+      },
+      "answer_logprob": 0.0,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Resocialization of victims is carried out by social agencies and social institutions so that victims can resume their social functions in society.",
+      "rationale": "The policy specifies that resocialization of victims is carried out by social agencies and social institutions, identifying responsible institutions for reintegration/resocialisation services.",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999313378065751,
+        "margin": 0.9998626756131501,
+        "verbalized": 0.88
+      },
+      "answer_logprob": -6.866455078125e-05,
+      "p_yes": 0.9999313378065751,
+      "p_no": 6.866219342493984e-05,
+      "margin": 0.9998626756131501,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "e. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.",
+      "rationale": "The policy explicitly includes “economic independence services” for victims in the form of skills training and providing economic access so that victims can be independent, which directly meets the economic support/empowerment criterion for victims.",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.93
+      },
+      "answer_logprob": 1.52587890625e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "b. conducting education on anti-violence values toward women and children;",
+      "rationale": "The policy explicitly includes an education activity focused on anti-violence values toward women (and children), which qualifies as an information/education preventive measure about violence against women/anti-violence norms.",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.93
+      },
+      "answer_logprob": 0.00012969970703125,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Gender equality education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions gender equality as a principle and lists various women’s rights, the candidate sentences do not specify any prevention activity (e.g., awareness-raising, campaigns, socialisation, training) that educates about gender equality/women’s rights as a strategy to prevent violence against women. The only explicit education activity shown is about anti-violence values, which is excluded for this indicator.",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9998664945083545,
+        "margin": 0.999732989016709,
+        "verbalized": 0.78
+      },
+      "answer_logprob": -0.000133514404296875,
+      "p_yes": 0.0001335054916454803,
+      "p_no": 0.9998664945083545,
+      "margin": 0.999732989016709,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "VAW laws awareness",
+      "included": "Yes",
+      "evidence": "c. socialization of laws and regulations related to the implementation of protection for women and children victims of violence;",
+      "rationale": "The policy explicitly mentions socialization of laws and regulations related to implementing protection for women and children victims of violence, which is an information/education activity about relevant legal provisions and is presented within the implementation framework that includes prevention elements.",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9933048312998409,
+        "margin": 0.9866096625996819,
+        "verbalized": 0.84
+      },
+      "answer_logprob": -0.006717681884765625,
+      "p_yes": 0.9933048312998409,
+      "p_no": 0.006695168700159071,
+      "margin": 0.9866096625996819,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy mentions conducting education on anti-violence values and references educational institutions/school environments, the candidate sentences do not explicitly identify formal education instruments (e.g., school-based programs, curricula, teaching/learning materials, education institutions delivering prevention education) as a prevention mechanism for violence against women or children, as required by the coding rules.",
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9993783976205598,
+        "margin": 0.9987567952411196,
+        "verbalized": 0.66
+      },
+      "answer_logprob": -0.000621795654296875,
+      "p_yes": 0.0006216023794402004,
+      "p_no": 0.9993783976205598,
+      "margin": 0.9987567952411196,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "NGO collaboration",
+      "included": "Yes",
+      "evidence": "c. involvement of various government agencies, companies, labor unions, non-governmental organizations, and the community in the elimination of economic and/or sexual exploitation of children.\nAll parties both from government elements, Law Enforcement Officials (APH) and NGOs, have become members of the P2TP2A of Musi Rawas Regency.",
+      "rationale": "The policy explicitly includes non-governmental organizations as involved parties in eliminating exploitation and states that NGOs are members of the integrated service center (P2TP2A), indicating collaboration with civil society actors in protection/service mechanisms.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 8.392333984375e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Religious engagement",
+      "included": "Yes",
+      "evidence": "Victim assistance is carried out by health workers, social workers, volunteer assistants, and/or spiritual counselors by providing counseling, therapy, spiritual guidance and advocacy for the strengthening and recovery of victims.\nSpiritual guidance is carried out by spiritual counselors by providing explanations regarding their rights and obligations, as well as strengthening faith and piety in accordance with the religion and beliefs they adhere to.\nLetter d What is meant by \"spiritual guidance\" is counseling provided by a clergyman.\n2. The role of the community as referred to in paragraph (1) is carried out by individuals, child protection institutions, community social institutions, community self-reliance institutions, educational institutions, religious institutions, business entities, and mass media.",
+      "rationale": "The policy includes spiritual guidance as part of victim recovery delivered by spiritual counselors, clarifies that spiritual guidance is counseling provided by a clergyman, and lists religious institutions among community actors participating in protection—meeting the criterion for faith-based actor engagement in services/implementation.",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.92
+      },
+      "answer_logprob": 0.00012969970703125,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Traditional/cultural engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe general community participation and list several institution types (e.g., educational, religious, business, mass media) but do not identify traditional/customary/cultural leaders or institutions, nor do they recognize customary mechanisms for prevention, services, coordination, or dispute resolution related to violence.",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.83
+      },
+      "answer_logprob": 0.000110626220703125,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Education institutions engagement",
+      "included": "Yes",
+      "evidence": "2. The role of the community as referred to in paragraph (1) is carried out by individuals, child protection institutions, community social institutions, community self-reliance institutions, educational institutions, religious institutions, business entities, and mass media.",
+      "rationale": "The policy explicitly includes educational institutions as part of the community actors who carry out the community’s role in protecting women and children, which constitutes engagement of the education sector within implementation structures.",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.78
+      },
+      "answer_logprob": 1.9073486328125e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "International organisations engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international organizations, international partners, or international support for service delivery or prevention; references to conventions or national laws do not constitute engagement with international organizations.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999275233785103,
+        "margin": 0.9998550467570206,
+        "verbalized": 0.9
+      },
+      "answer_logprob": -7.2479248046875e-05,
+      "p_yes": 7.247662148968104e-05,
+      "p_no": 0.9999275233785103,
+      "margin": 0.9998550467570206,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Media engagement",
+      "included": "Yes",
+      "evidence": "2. The role of the community as referred to in paragraph (1) is carried out by individuals, child protection institutions, community social institutions, community self-reliance institutions, educational institutions, religious institutions, business entities, and mass media.",
+      "rationale": "The policy includes mass media among the actors through which the community’s role in protection of women and children is carried out, thereby recognizing media as a stakeholder in implementation.",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.8
+      },
+      "answer_logprob": 8.0108642578125e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Community engagement",
+      "included": "Yes",
+      "evidence": "To implement the efforts as referred to in Article 7, the government and regional governments in accordance with their respective functions and duties, may cooperate with the community or other social institutions.\n1. The community has the right to obtain the widest possible opportunity to participate in the protection of women and children.\na. establishing and facilitating the operation of integrated service institutions for victims involving community elements; and",
+      "rationale": "The policy explicitly provides for cooperation with the community/social institutions, grants the community broad opportunity to participate in protection, and requires integrated service institutions to involve community elements—demonstrating stakeholder engagement with community/society for services and prevention.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 0.0001068115234375,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Private sector engagement",
+      "included": "Yes",
+      "evidence": "2. The role of the community as referred to in paragraph (1) is carried out by individuals, child protection institutions, community social institutions, community self-reliance institutions, educational institutions, religious institutions, business entities, and mass media.\nHealth services are carried out by health workers at health facilities owned by the government, regional government, and the community, including the private sector by providing treatment services and health recovery for victims.",
+      "rationale": "The policy recognizes business entities as part of the community actors participating in protection and explicitly includes the private sector as part of the providers of health services for victim recovery, indicating private-sector engagement in service delivery.",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999732974756593,
+        "margin": 0.9999465949513187,
+        "verbalized": 0.88
+      },
+      "answer_logprob": -2.6702880859375e-05,
+      "p_yes": 0.9999732974756593,
+      "p_no": 2.6702524340671552e-05,
+      "margin": 0.9999465949513187,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions on emergency/disaster/refugee situations apply to children (e.g., special protection for child refugees, disaster victims, and children in armed conflict). While women are discussed as victims of violence generally, the candidate sentences do not identify women or girls in conflict/disaster/emergency/displacement situations as a specific group receiving special protection measures.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 4.1961669921875e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "6. Trafficking in Persons is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, use of violence, abduction, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payments or benefits, so as to obtain the consent of a person holding control over another person, whether carried out within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n7. Victim of Trafficking in Persons is a person who experiences psychological, mental, physical, sexual, economic, and/or social suffering, caused by the criminal act of trafficking in persons.\n7. Law Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 181, Supplement to the State Gazette of the Republic of Indonesia Number 4928);",
+      "rationale": "The policy explicitly defines trafficking in persons and victims of trafficking, and it also cites the national anti-trafficking law in its legal basis, indicating trafficking victims are within scope.",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.98
+      },
+      "answer_logprob": 0.0,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text recognizes women’s right to work and mentions special protection related to safety/health connected to women’s reproductive function, but it does not explicitly provide protection measures for women workers as a target group against violence/exploitation in the workplace as required by the coding rules.",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.72
+      },
+      "answer_logprob": 4.9591064453125e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention elderly women or provide any special protection measures targeted specifically at elderly women.",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.95
+      },
+      "answer_logprob": 1.9073486328125e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "In addition to the rights of Persons with Disabilities as referred to in paragraph (1), women with disabilities have the right to:\nc. obtain greater Protection from multiple Discrimination;\nd. obtain greater Protection from acts of violence, including sexual violence and exploitation.",
+      "rationale": "The policy explicitly identifies women with disabilities and specifies enhanced protections (including greater protection from multiple discrimination and from violence, including sexual violence and exploitation), which constitutes disability-targeted protection measures.",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.97
+      },
+      "answer_logprob": 0.0,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention women heads of household/families or provide any special protection measures targeted to them.",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999084514564487,
+        "margin": 0.9998169029128974,
+        "verbalized": 0.93
+      },
+      "answer_logprob": -9.1552734375e-05,
+      "p_yes": 9.154854355131192e-05,
+      "p_no": 0.9999084514564487,
+      "margin": 0.9998169029128974,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only minority/isolated-group provisions shown apply to children (special protection for children from minority and isolated groups). There is no explicit mention of women from minority/isolated groups as beneficiaries of special protection.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9998855656301433,
+        "margin": 0.9997711312602866,
+        "verbalized": 0.9
+      },
+      "answer_logprob": -0.00011444091796875,
+      "p_yes": 0.00011443436985669742,
+      "p_no": 0.9998855656301433,
+      "margin": 0.9997711312602866,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "Yes",
+      "evidence": "13. Women in conflict with the law are women in conflict with the law, women as victims, women as witnesses or women as parties.\nIn the examination of cases of Women in Contact with the Law, judges must not:\nThe judge on his or her own initiative and or at the request of the parties, public prosecutor, legal advisor and/or victim may order Women in Contact with the Law to have their testimony heard through examination by remote audio visual communication at the local court or at another place, if:",
+      "rationale": "The policy explicitly defines women in conflict/contact with the law and provides procedural protections in legal proceedings (e.g., judicial conduct requirements and options for remote testimony), covering women as witnesses/parties in legal processes.",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9998855656301433,
+        "margin": 0.9997711312602866,
+        "verbalized": 0.96
+      },
+      "answer_logprob": -0.00011444091796875,
+      "p_yes": 0.9998855656301433,
+      "p_no": 0.00011443436985669742,
+      "margin": 0.9997711312602866,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to minority and isolated groups (and only in relation to children) but do not explicitly mention Indigenous peoples/customary communities (masyarakat adat) or provide protections specifically targeted to Indigenous groups.",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999084514564487,
+        "margin": 0.9998169029128974,
+        "verbalized": 0.86
+      },
+      "answer_logprob": -9.1552734375e-05,
+      "p_yes": 9.154854355131192e-05,
+      "p_no": 0.9999084514564487,
+      "margin": 0.9998169029128974,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "Yes",
+      "evidence": "Special protection for children who become refugees as referred to in Article 30 letter a is implemented in accordance with the provisions of humanitarian law.",
+      "rationale": "The policy explicitly provides special protection for refugees (specifically, children who become refugees) and frames it as special protection implemented under humanitarian law, which satisfies the criterion’s focus on refugee/forced displacement protection measures.",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.84
+      },
+      "answer_logprob": 1.9073486328125e-05,
+      "p_yes": 1.0,
+      "p_no": 0.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": true
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify domestic workers as a target group for special protection measures. References to household members including servants/drivers are definitional and do not establish protections for domestic workers specifically.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9998626803276469,
+        "margin": 0.9997253606552938,
+        "verbalized": 0.9
+      },
+      "answer_logprob": -0.0001373291015625,
+      "p_yes": 0.00013731967235308673,
+      "p_no": 0.9998626803276469,
+      "margin": 0.9997253606552938,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention homelessness or women experiencing homelessness as a group receiving special protection measures.",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9998855656301433,
+        "margin": 0.9997711312602866,
+        "verbalized": 0.95
+      },
+      "answer_logprob": -0.00011444091796875,
+      "p_yes": 0.00011443436985669742,
+      "p_no": 0.9998855656301433,
+      "margin": 0.9997711312602866,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss children in conflict with the law and women in contact with the law during proceedings, but do not mention women who are former inmates or formerly incarcerated women as a target group for special protection measures.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 8.7738037109375e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe obligations and roles of the regency/regional government and the government (e.g., providing services, education costs, health efforts) and mention community participation/cooperation, but they do not explicitly identify a funding or budget source such as a local government budget/APBD or any budget allocation mechanism.",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.86
+      },
+      "answer_logprob": 0.000110626220703125,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references responsibilities of “the government” to provide education costs and health facilities, but it does not explicitly mention a national government budget, state budget, or any national budget funding source/allocation. General responsibility statements are not explicit budget-source identification.",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.78
+      },
+      "answer_logprob": 0.000110626220703125,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international-related references are to international conventions/standards (e.g., CEDAW and the Convention on the Rights of the Child) as principles/legal foundations, but there is no mention of international assistance, donors, UN agencies, foreign aid, or international funding/partnerships for implementation.",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.9
+      },
+      "answer_logprob": 5.340576171875e-05,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss legal provisions, institutions, cooperation, and criminal fines/penalties, but do not identify any funding/budget sources from “other legal sources” (e.g., earmarked funds, levies, fines as a funding stream, or other legally defined revenue sources for program financing). Fines are mentioned as sanctions, not as a budget source for services.",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 0.9999008227894784,
+        "margin": 0.9998016455789569,
+        "verbalized": 0.83
+      },
+      "answer_logprob": -9.918212890625e-05,
+      "p_yes": 9.917721052155049e-05,
+      "p_no": 0.9999008227894784,
+      "margin": 0.9998016455789569,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences mention “government and regional governments” and various obligations, but do not explicitly reference a provincial government budget or provincial-level funding source. No provincial budget term or allocation is identified.",
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "logprobs": 1.0,
+        "margin": 1.0,
+        "verbalized": 0.87
+      },
+      "answer_logprob": 0.0,
+      "p_yes": 0.0,
+      "p_no": 1.0,
+      "margin": 1.0,
+      "margin_counterpart_observed": false,
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

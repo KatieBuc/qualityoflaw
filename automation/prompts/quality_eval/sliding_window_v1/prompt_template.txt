@@ -8,7 +8,7 @@ If "Yes" for a criterion, set its evidence field to a JSON array of the citation
 {{WINDOW_SENTENCES}}
 
 ### Evaluation Criteria
-Evaluate every one of the following criteria against the window above. Each criterion is listed with its ID, indicator name, and question:
+Evaluate every one of the following criteria against the window above. Each criterion is listed with its ID, indicator name, and question. Where a criterion has `Coding rules`, those rules are the authoritative definition of what counts as "Yes" for it — apply them literally, and prefer them over your own reading of the question whenever the two could differ:
 
 {{CRITERIA_LIST}}
 

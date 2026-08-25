@@ -6,42 +6,130 @@ sentences instead of an entire chunk — the retrieved evidence unit that ends
 up in the final report is a handful of sentences, not a multi-KB passage.
 """
 
+import logging
+import re
+from dataclasses import dataclass, field
+
 from automation.src.rag.retriever import RetrievedChunk
 from automation.src.rag.sentence_split import split_sentences
 
+logger = logging.getLogger(__name__)
 
-def parse_criteria_lines(criteria_file_path: str) -> list[tuple[str, str, str]]:
-    """Parse `id | indicator | question` rows from a criteria file."""
-    rows: list[tuple[str, str, str]] = []
+#: A criterion line starts with an indicator id like `4.1`. Requiring the shape
+#: keeps a rubric line that happens to contain two pipes from being read as a
+#: new criterion.
+INDICATOR_ID_RE = re.compile(r"^\d+(?:\.\d+)*$")
+
+
+@dataclass
+class Criterion:
+    """One indicator: the question to answer, plus the rules for answering it.
+
+    `rubric` holds the "Code Yes if … / Code No if …" lines that follow the
+    criterion in the criteria file. From v3 onward these carry the actual
+    coding guidance — the distinctions between, say, education *about violence
+    against women* and education about women's rights generally — so they are
+    what makes a borderline call decidable.
+    """
+
+    id: str
+    indicator: str
+    question: str
+    rubric: list[str] = field(default_factory=list)
+
+    @property
+    def heading(self) -> str:
+        return f"- {self.id} ({self.indicator}): {self.question}"
+
+
+def parse_criteria_lines(criteria_file_path: str) -> list[Criterion]:
+    """Parse a criteria file into criteria plus their coding rubric.
+
+    A line of `id | indicator | question` starts a criterion; every following
+    line belongs to it as rubric, until the next criterion. Earlier versions of
+    this function kept only the three-field lines, which silently discarded 395
+    of the 451 lines in the v3 criteria — the entire rubric never reached the
+    judge. Anything that cannot be attributed is now logged rather than
+    dropped in silence.
+    """
+    criteria: list[Criterion] = []
+    orphans: list[str] = []
+
     with open(criteria_file_path, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith("#"):
                 continue
+
             parts = line.split("|")
-            if len(parts) == 3:
-                rows.append((parts[0].strip(), parts[1].strip(), parts[2].strip()))
-    return rows
+            if len(parts) == 3 and INDICATOR_ID_RE.match(parts[0].strip()):
+                criteria.append(
+                    Criterion(
+                        id=parts[0].strip(),
+                        indicator=parts[1].strip(),
+                        question=parts[2].strip(),
+                    )
+                )
+            elif criteria:
+                criteria[-1].rubric.append(line)
+            else:
+                orphans.append(line)
+
+    if orphans:
+        logger.warning(
+            "%s: %d line(s) before the first criterion were ignored (first: %r)",
+            criteria_file_path,
+            len(orphans),
+            orphans[0][:80],
+        )
+    return criteria
 
 
 def _sentence_tag(cid: str, candidate: RetrievedChunk, sentence_idx: int) -> str:
     return f"{cid}-{candidate.chunk_id}.{sentence_idx}"
 
 
+def format_rubric_block(criterion: Criterion, indent: str = "  ") -> list[str]:
+    """Render a criterion's coding rules, labelled so the judge knows what they
+    are. Returns an empty list for criteria files that carry no rubric (v1/v2),
+    leaving those prompts byte-identical."""
+    if not criterion.rubric:
+        return []
+    return [f"{indent}Coding rules:"] + [f"{indent}  {line}" for line in criterion.rubric]
+
+
+def format_criteria_list(criteria_rows: list[Criterion]) -> str:
+    """Criteria plus rubric, without retrieved candidates.
+
+    Used by the sliding-window method (one window covers every criterion, so
+    candidates are listed once elsewhere) and by the non-RAG full-policy mode.
+    """
+    lines: list[str] = []
+    for criterion in criteria_rows:
+        lines.append(criterion.heading)
+        lines.extend(format_rubric_block(criterion))
+    return "\n".join(lines)
+
+
 def format_criteria_with_candidates(
-    criteria_rows: list[tuple[str, str, str]],
+    criteria_rows: list[Criterion],
     candidates_by_id: dict[str, list[RetrievedChunk]],
 ) -> str:
     blocks: list[str] = []
-    for cid, indicator, question in criteria_rows:
-        blocks.append(f"- {cid} ({indicator}): {question}")
-        candidates = candidates_by_id.get(cid, [])
+    for criterion in criteria_rows:
+        blocks.append(criterion.heading)
+        # Rules first, then evidence: the judge should know how the call is
+        # decided before reading the sentences it decides on.
+        blocks.extend(format_rubric_block(criterion))
+        candidates = candidates_by_id.get(criterion.id, [])
         if not candidates:
             blocks.append("  Candidate passages: (none retrieved)")
         else:
             for candidate in candidates:
                 for sentence_idx, sentence in enumerate(split_sentences(candidate.text)):
-                    blocks.append(f"  [{_sentence_tag(cid, candidate, sentence_idx)}] {sentence}")
+                    blocks.append(
+                        f"  [{_sentence_tag(criterion.id, candidate, sentence_idx)}] {sentence}"
+                    )
         blocks.append("")
     return "\n".join(blocks)
 

@@ -30,8 +30,22 @@ translation_qa:
 
 evaluation:
   model: gpt-5.2
-  prompt_version: v3
+  prompt_version: v4
   method: rag  # "rag" | "sliding_window"
+  # Per-indicator confidence. `logprobs` and `margin` ride along on the
+  # evaluation call for free; `verbalized` asks the judge to rate itself and
+  # requires prompt_version: v4. `primary` picks which score drives the
+  # comparison report's headline coverage; every enabled method is recorded
+  # and scored side by side regardless.
+  # Deployments that reject logprobs degrade to confidence: null, with one warning.
+  confidence:
+    enabled: true
+    methods: [logprobs, verbalized, margin]   # + verbalized (needs prompt_version: v4)
+    primary: margin
+    # Alternatives requested per answer token, which is what margin reads.
+    # Azure caps this at 5; a higher value is detected and clamped at runtime
+    # rather than costing the run its logprobs.
+    top_logprobs: 5
   sliding_window:
     prompt_version: sliding_window_v1
     window_sentences: 100
@@ -52,6 +66,16 @@ evaluation:
         top_k: 25
       evidence_verification:
         enabled: true
+
+comparison:
+  # Cutoffs for confidence_report.json. Predictions below a cutoff count as
+  # "low confidence"; coverage_rate is the share of actual errors they capture.
+  confidence:
+    thresholds: [0.5, 0.7, 0.9, 0.95, 0.99]
+    quantiles: [0.05, 0.10, 0.20, 0.30]
+    primary_threshold: 0.9
+    flagged_sample_size: 100
+    calibration_bins: 10
 
 discrepancy_diagnosis:
   model: gpt-5.2-diagnosis

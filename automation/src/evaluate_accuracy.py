@@ -2,6 +2,7 @@ import argparse
 import csv
 import json
 import os
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -9,6 +10,14 @@ import pandas as pd
 import yaml
 from sklearn.metrics import classification_report, confusion_matrix
 
+from automation.src.confidence_report import (
+    CONFIDENCE_METHOD_PREFIX,
+    STATUS_NO_DATA,
+    build_confidence_report,
+    build_low_confidence_frame,
+    write_confidence_report,
+)
+from automation.src.config_loader import ConfidenceReportConfig
 from automation.src.criteria import get_indicator_dimension
 
 
@@ -78,7 +87,22 @@ def reports_to_dataframe(reports: list[tuple[datetime, str, dict]]) -> pd.DataFr
                     "pred_value": 1.0 if details.get("included") == "Yes" else 0.0,
                     "evidence": details.get("evidence"),
                     "rationale": details.get("rationale"),
+                    # Confidence rides along so the comparison step can score
+                    # it; reports written before the confidence module simply
+                    # carry None here.
+                    "confidence": details.get("confidence"),
+                    "answer_logprob": details.get("answer_logprob"),
+                    "p_yes": details.get("p_yes"),
+                    "p_no": details.get("p_no"),
+                    "confidence_source": details.get("confidence_source"),
+                    "margin_counterpart_observed": details.get("margin_counterpart_observed"),
                     "source_report": file_path,
+                    # One column per method actually present, so the report can
+                    # score them against each other.
+                    **{
+                        f"{CONFIDENCE_METHOD_PREFIX}{method}": score
+                        for method, score in (details.get("confidence_scores") or {}).items()
+                    },
                 }
             )
     return pd.DataFrame(llm_data)
@@ -205,10 +229,14 @@ def build_error_analysis_df(errors_df: pd.DataFrame) -> pd.DataFrame:
         "value",
         "pred_value",
         "error_type",
+        "confidence",
         "evidence",
         "rationale",
         "discrepancy_root_cause",
     ]
+    for column in columns:
+        if column not in output.columns:
+            output[column] = None
     return output[columns]
 
 
@@ -296,7 +324,7 @@ def calculate_metrics(
     csv_path: str,
     llm_df: pd.DataFrame,
     manual_overwrites: dict[str, dict[str, float]] | None = None,
-) -> tuple[pd.DataFrame | None, pd.DataFrame | None, dict | None]:
+) -> tuple[pd.DataFrame | None, pd.DataFrame | None, dict | None, pd.DataFrame | None]:
     golden_df = load_golden_dataframe(csv_path)
     golden_df = apply_manual_overwrites(golden_df, manual_overwrites or {})
 
@@ -329,7 +357,7 @@ def calculate_metrics(
 
     if merged_df.empty:
         print("Error: No matching data. Please check the CSV and JSON.")
-        return None, None, None
+        return None, None, None, None
 
     unmatched_df = find_unmatched_indicator_pairs(golden_filtered, llm_df)
     if not unmatched_df.empty:
@@ -355,7 +383,7 @@ def calculate_metrics(
 
     if merged_df.empty:
         print("Error: No matching data after excluding missing golden values.")
-        return None, None, None
+        return None, None, None, None
 
     y_true = merged_df["value"]
     y_pred = merged_df["pred_value"]
@@ -413,7 +441,7 @@ def calculate_metrics(
             "llm_only": int((unmatched_df["match_status"] == "llm_only").sum()),
         }
 
-    return errors, unmatched_df, metrics_summary
+    return errors, unmatched_df, metrics_summary, merged_df
 
 
 METRICS_CSV_HEADER = [
@@ -461,12 +489,76 @@ def write_metrics_csv(metrics_summary: dict, metrics_path: str) -> None:
             writer.writerow([dimension, f"{accuracy:.6f}", matched, correct, error_count, notes])
 
 
+CONFIDENCE_REPORT_FILENAME = "confidence_report.json"
+LOW_CONFIDENCE_FILENAME = "low_confidence.csv"
+
+
+def write_confidence_outputs(
+    merged_df: pd.DataFrame,
+    export_dir: Path,
+    *,
+    config: ConfidenceReportConfig | None = None,
+    context: dict | None = None,
+) -> dict:
+    """Write confidence_report.json (always) and low_confidence.csv (when the
+    primary threshold flags anything).
+
+    The JSON is written even for runs with no confidence data, so its absence
+    always means "comparison did not run" rather than "no signal this time".
+    """
+    config = config or ConfidenceReportConfig()
+    context = context or {}
+
+    report = build_confidence_report(merged_df, config, **context)
+    report_path = write_confidence_report(report, export_dir / CONFIDENCE_REPORT_FILENAME)
+    print(f"Confidence report saved: {report_path}")
+
+    warning = (report.get("confidence_source") or {}).get("primary_method_warning")
+    if warning:
+        print(f"Warning: {warning}", file=sys.stderr)
+
+    coverage = (report.get("coverage") or {}).get("primary") or {}
+    if report["status"] == STATUS_NO_DATA:
+        print(
+            "No confidence scores in the evaluation reports; coverage analysis skipped."
+        )
+    else:
+        rate = coverage.get("coverage_rate")
+        print(
+            f"Low-confidence coverage at {config.primary_threshold:g} "
+            f"(method={report.get('primary_method')}): "
+            f"{coverage.get('errors_captured', 0)}/{report['baseline']['error_count']} errors "
+            f"({'n/a' if rate is None else f'{rate:.2%}'}) "
+            f"from {coverage.get('flagged', 0)} flagged predictions"
+        )
+
+    low_confidence_path = str(export_dir / LOW_CONFIDENCE_FILENAME)
+    flagged_df = build_low_confidence_frame(
+        merged_df, config.primary_threshold, report.get("primary_method")
+    )
+    if not flagged_df.empty:
+        flagged_df.to_csv(low_confidence_path, index=False)
+        print(f"Low-confidence predictions saved: {low_confidence_path}")
+    else:
+        if Path(low_confidence_path).exists():
+            Path(low_confidence_path).unlink()
+        low_confidence_path = None
+
+    return {
+        "report": report,
+        "report_path": report_path,
+        "low_confidence_path": low_confidence_path,
+    }
+
+
 def run_accuracy_evaluation(
     golden_csv: str,
     llm_input: str,
     export_errors: str = "error_analysis.csv",
     export_metrics: str | None = None,
     manual_overwrites_path: str | None = None,
+    confidence_config: ConfidenceReportConfig | None = None,
+    confidence_context: dict | None = None,
 ) -> dict | None:
     llm_df = load_llm_results(llm_input)
     if llm_df.empty:
@@ -475,7 +567,9 @@ def run_accuracy_evaluation(
     manual_overwrites = load_manual_overwrites(manual_overwrites_path)
 
     print("Evaluating...")
-    errors_df, unmatched_df, metrics_summary = calculate_metrics(golden_csv, llm_df, manual_overwrites)
+    errors_df, unmatched_df, metrics_summary, merged_df = calculate_metrics(
+        golden_csv, llm_df, manual_overwrites
+    )
     if metrics_summary is None:
         return None
 
@@ -502,6 +596,13 @@ def run_accuracy_evaluation(
     else:
         print("The JSON report is completely correct.")
 
+    confidence = write_confidence_outputs(
+        merged_df,
+        export_dir,
+        config=confidence_config,
+        context=confidence_context or {},
+    )
+
     return {
         "metrics_summary": metrics_summary,
         "metrics_path": metrics_path,
@@ -509,6 +610,9 @@ def run_accuracy_evaluation(
         "unmatched_path": unmatched_path if unmatched_df is not None and not unmatched_df.empty else None,
         "error_count": int(len(errors_df)) if errors_df is not None else 0,
         "unmatched_count": int(len(unmatched_df)) if unmatched_df is not None else 0,
+        "confidence_report": confidence["report"],
+        "confidence_report_path": confidence["report_path"],
+        "low_confidence_path": confidence["low_confidence_path"],
     }
 
 

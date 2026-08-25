@@ -585,7 +585,11 @@ def main() -> None:
         if not stopped and "evaluation" in steps:
             print(f"\nStep: evaluation (method={config.evaluation_method})")
             try:
-                wrapper = AzureLLMWrapper.from_profile(config.evaluation_model, limiter=limiter)
+                wrapper = AzureLLMWrapper.from_profile(
+                    config.evaluation_model,
+                    limiter=limiter,
+                    confidence=config.confidence,
+                )
                 if config.evaluation_method == "sliding_window":
                     result = run_sliding_window_evaluation_step(
                         run_id=run_id,

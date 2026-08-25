@@ -29,6 +29,7 @@ from automation.src.config_loader import (
 )
 from automation.src.criteria import CRITERIA_FILES
 from automation.src.failure_log import clear_failure, record_failure
+from automation.src.llm.confidence import merge_scores
 from automation.src.llm.wrapper import AzureLLMWrapper, format_api_error
 from automation.src.policy_files import filter_policy_files
 from automation.src.rag.evidence_check import resolve_evidence_citation
@@ -36,12 +37,12 @@ from automation.src.rag.prompt_builder import parse_criteria_lines
 from automation.src.rag.retriever import RetrievedChunk
 from automation.src.run_eval import (
     DimensionResult,
-    PolicyEvaluationResponse,
     _failure_entry_from_exc,
     _failure_entry_from_report,
     _has_eval_report,
     _merge_dimension_results,
     _process_policy_result,
+    response_model_for,
 )
 from automation.src.sliding_window.prompt_builder import (
     build_window_lookup,
@@ -76,6 +77,25 @@ def _resolve_window_evidence(batch_evals: dict, candidate_lookup: dict[str, str]
             item["rationale"] = f"{item.get('rationale', '')} {note}".strip()
 
 
+def _merge_window_confidence(items: list[dict], included: str) -> dict:
+    """Fold per-window confidences into one figure for the merged answer.
+
+    A merged "Yes" rests on the windows that voted Yes, so it inherits the
+    most confident of those. A merged "No" means every window declined, so it
+    is only as strong as its weakest window — hence the min.
+    """
+    if included == "Yes":
+        pool = [it for it in items if it.get("included") == "Yes"]
+        reducer = max
+    else:
+        pool = items
+        reducer = min
+
+    scored = [it for it in pool if it.get("confidence") is not None]
+    chosen = reducer(scored, key=lambda it: it["confidence"]) if scored else None
+    return merge_scores(items, chosen)
+
+
 def _merge_window_results(ids: list[str], window_results: list[dict[str, dict]]) -> dict[str, dict]:
     """Merge one dimension's per-window results into a single per-indicator
     result: "Yes" if any window says "Yes", evidence is the deduplicated
@@ -92,6 +112,7 @@ def _merge_window_results(ids: list[str], window_results: list[dict[str, dict]])
                 "evidence": None,
                 "rationale": "No window returned a result for this indicator.",
                 "evidence_verified": None,
+                **merge_scores([], None),
             }
             continue
 
@@ -118,6 +139,7 @@ def _merge_window_results(ids: list[str], window_results: list[dict[str, dict]])
                 "evidence": "\n".join(evidence_sentences) if evidence_sentences else None,
                 "rationale": " | ".join(rationales),
                 "evidence_verified": bool(evidence_sentences),
+                **_merge_window_confidence(items, "Yes"),
             }
         else:
             rationale = next((it.get("rationale", "").strip() for it in items if it.get("rationale")), "")
@@ -128,6 +150,7 @@ def _merge_window_results(ids: list[str], window_results: list[dict[str, dict]])
                 "evidence": None,
                 "rationale": rationale or "Not addressed in any window.",
                 "evidence_verified": None,
+                **_merge_window_confidence(items, "No"),
             }
 
     return merged
@@ -143,7 +166,7 @@ def _evaluate_dimension_sliding_window(
 ) -> DimensionResult:
     try:
         criteria_rows = parse_criteria_lines(str(criteria_folder / criteria_file))
-        ids = [cid for cid, _, _ in criteria_rows]
+        ids = [criterion.id for criterion in criteria_rows]
 
         window_results: list[dict[str, dict]] = []
         for window in windows:
@@ -263,8 +286,10 @@ def run_sliding_window_evaluation_step(
             pending_files.append(policy_path)
     policy_files = pending_files
 
+    response_model = response_model_for(wrapper.confidence)
+
     def complete_fn(prompt: str) -> dict:
-        return wrapper.complete_structured(prompt, PolicyEvaluationResponse)
+        return wrapper.complete_structured(prompt, response_model)
 
     deployment_name = wrapper.profile.deployment
     prompt_version = config.sliding_window.prompt_version

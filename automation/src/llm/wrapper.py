@@ -8,6 +8,8 @@ from openai import APIConnectionError, APIStatusError, AzureOpenAI, OpenAI, Rate
 from pydantic import BaseModel
 
 from automation.src.llm.client import ApiStyle
+from automation.src.llm.confidence import DISABLED, ConfidenceSpec, attach_confidence
+from automation.src.llm.logprobs import extract_answer_confidences
 from automation.src.llm.model_profile import ModelProfile
 
 if TYPE_CHECKING:
@@ -53,6 +55,49 @@ def format_api_error(exc: Exception) -> tuple[str, dict[str, Any]]:
         details["body"] = body
 
     return error_type, details
+
+LOGPROB_UNSUPPORTED_MARKERS = ("logprob", "top_logprobs")
+TOP_LOGPROBS_LIMIT_PATTERN = re.compile(
+    r"top_logprobs.*?(?:less than or equal to|at most|maximum of|<=)\s*(\d+)", re.IGNORECASE
+)
+#: Fallback when a deployment rejects the requested value without naming its
+#: own ceiling. Azure's chat completions cap top_logprobs at 5.
+TOP_LOGPROBS_FALLBACK = 5
+
+
+def top_logprobs_limit(exc: Exception) -> int | None:
+    """The deployment's own `top_logprobs` ceiling, if a 400 just complained
+    about the requested value being too high.
+
+    This is a fixable request rather than an unsupported one, so it must be
+    checked before `is_logprobs_unsupported` — otherwise asking for one
+    alternative too many silently costs the whole run its confidence scores.
+    """
+    if getattr(exc, "status_code", None) != 400:
+        return None
+    message = (getattr(exc, "message", None) or str(exc)).lower()
+    if "top_logprobs" not in message:
+        return None
+    match = TOP_LOGPROBS_LIMIT_PATTERN.search(message)
+    if match:
+        return max(1, int(match.group(1)))
+    if "must be" in message or "invalid value" in message:
+        return TOP_LOGPROBS_FALLBACK
+    return None
+
+
+def is_logprobs_unsupported(exc: Exception) -> bool:
+    """True when a 400 says this deployment will not accept `logprobs`.
+
+    Reasoning-family deployments reject the parameter outright. Detecting that
+    here lets `complete_structured` retry once without it, instead of letting
+    `_call_with_retry` burn every attempt on a request that can never succeed.
+    """
+    if getattr(exc, "status_code", None) != 400:
+        return False
+    message = (getattr(exc, "message", None) or str(exc)).lower()
+    return any(marker in message for marker in LOGPROB_UNSUPPORTED_MARKERS)
+
 
 PREAMBLE_PATTERNS = [
     re.compile(r"^here(?:'s| is) the translation[:\s]*", re.IGNORECASE),
@@ -107,11 +152,16 @@ class AzureLLMWrapper:
         client: OpenAI | AzureOpenAI,
         api_style: ApiStyle,
         limiter: "ConcurrencyLimiter | None" = None,
+        confidence: ConfidenceSpec = DISABLED,
     ):
         self.profile = profile
         self.client = client
         self.api_style = api_style
         self.limiter = limiter
+        self.confidence = confidence
+        self._logprobs_lock = threading.Lock()
+        self._logprobs_disabled = False
+        self._top_logprobs_cap: int | None = None
         self._usage_lock = threading.Lock()
         self.token_usage = {
             "prompt_tokens": 0,
@@ -125,6 +175,7 @@ class AzureLLMWrapper:
         profile: ModelProfile,
         *,
         limiter: "ConcurrencyLimiter | None" = None,
+        confidence: ConfidenceSpec = DISABLED,
     ) -> "AzureLLMWrapper":
         from automation.src.llm.client import get_api_style, get_azure_client
 
@@ -133,13 +184,69 @@ class AzureLLMWrapper:
             client=get_azure_client(),
             api_style=get_api_style(),
             limiter=limiter,
+            confidence=confidence,
         )
 
-    def _build_request_kwargs(self) -> dict[str, Any]:
+    def _build_request_kwargs(self, *, with_logprobs: bool = False) -> dict[str, Any]:
         kwargs: dict[str, Any] = {"temperature": self.profile.temperature}
         if self.profile.max_tokens is not None:
             kwargs["max_tokens"] = self.profile.max_tokens
+        if with_logprobs:
+            kwargs["logprobs"] = True
+            kwargs["top_logprobs"] = self.effective_top_logprobs()
         return kwargs
+
+    def effective_top_logprobs(self) -> int:
+        with self._logprobs_lock:
+            if self._top_logprobs_cap is None:
+                return self.confidence.top_logprobs
+            return min(self.confidence.top_logprobs, self._top_logprobs_cap)
+
+    def _cap_top_logprobs(self, limit: int) -> bool:
+        """Lower the requested alternatives to what the deployment allows.
+
+        Returns False when the cap wouldn't change anything, so the caller
+        knows retrying is pointless and the error is real.
+        """
+        with self._logprobs_lock:
+            current = self.confidence.top_logprobs if self._top_logprobs_cap is None else self._top_logprobs_cap
+            if limit >= current:
+                return False
+            already_capped = self._top_logprobs_cap is not None
+            self._top_logprobs_cap = limit
+        if not already_capped:
+            logger.warning(
+                "Deployment %s caps top_logprobs at %d; requesting %d instead of %d "
+                "for the rest of this run.",
+                self.profile.deployment,
+                limit,
+                limit,
+                self.confidence.top_logprobs,
+            )
+        return True
+
+    def logprobs_active(self) -> bool:
+        if not (self.confidence.needs_logprobs and self.profile.supports_logprobs):
+            return False
+        with self._logprobs_lock:
+            return not self._logprobs_disabled
+
+    def _disable_logprobs(self, reason: str) -> None:
+        """Stop asking for logprobs for the rest of the run, warning once.
+
+        Evaluation runs 20-wide, so several threads can hit the same 400 before
+        the first one lands here; the lock keeps that to a single warning.
+        """
+        with self._logprobs_lock:
+            already_disabled = self._logprobs_disabled
+            self._logprobs_disabled = True
+        if not already_disabled:
+            logger.warning(
+                "Deployment %s rejected logprobs; continuing without confidence "
+                "scores for the rest of this run: %s",
+                self.profile.deployment,
+                reason,
+            )
 
     def _record_usage(self, usage: dict[str, int]) -> None:
         if not usage:
@@ -227,29 +334,71 @@ class AzureLLMWrapper:
         text, usage = self._call_with_retry(_call)
         return clean_translation_response(text), usage
 
+    def _parse_request(
+        self,
+        prompt: str,
+        response_format: type[BaseModel],
+        *,
+        with_logprobs: bool,
+    ) -> Any:
+        return self.client.beta.chat.completions.parse(
+            model=self.profile.deployment,
+            messages=[{"role": "user", "content": prompt}],
+            response_format=response_format,
+            **self._build_request_kwargs(with_logprobs=with_logprobs),
+        )
+
     def complete_structured(
         self,
         prompt: str,
         response_format: type[BaseModel],
     ) -> dict:
         def _call() -> dict:
-            kwargs = self._build_request_kwargs()
-            response = self.client.beta.chat.completions.parse(
-                model=self.profile.deployment,
-                messages=[{"role": "user", "content": prompt}],
-                response_format=response_format,
-                **kwargs,
-            )
+            with_logprobs = self.logprobs_active()
+            try:
+                response = self._parse_request(
+                    prompt, response_format, with_logprobs=with_logprobs
+                )
+            except Exception as exc:
+                if not with_logprobs:
+                    raise
+                limit = top_logprobs_limit(exc)
+                if limit is not None and self._cap_top_logprobs(limit):
+                    # Too many alternatives requested, not an unsupported
+                    # parameter — retry with logprobs still on.
+                    response = self._parse_request(
+                        prompt, response_format, with_logprobs=True
+                    )
+                elif is_logprobs_unsupported(exc):
+                    self._disable_logprobs(str(exc))
+                    with_logprobs = False
+                    response = self._parse_request(
+                        prompt, response_format, with_logprobs=False
+                    )
+                else:
+                    raise
 
-            parsed_output = response.choices[0].message.parsed
+            choice = response.choices[0]
+            parsed_output = choice.message.parsed
             if not parsed_output:
                 raise ValueError("LLM return structure error.")
 
             output_dict = parsed_output.model_dump()
             if "evaluation_results" in output_dict:
-                output_dict["evaluation_results"] = {
+                items_by_id = {
                     item["id"]: item for item in output_dict["evaluation_results"]
                 }
+                if self.confidence.enabled:
+                    confidences = (
+                        extract_answer_confidences(choice) if with_logprobs else []
+                    )
+                    attach_confidence(
+                        items_by_id,
+                        confidences,
+                        self.confidence,
+                        logprobs_available=with_logprobs,
+                    )
+                output_dict["evaluation_results"] = items_by_id
             self._record_usage(_extract_usage(response, "chat"))
             return output_dict
 

@@ -31,6 +31,14 @@ def run_comparison_step(
         export_errors=export_errors,
         export_metrics=export_metrics,
         manual_overwrites_path=str(DEFAULT_MANUAL_OVERWRITES),
+        confidence_config=config.comparison_confidence,
+        confidence_context={
+            "run_id": run_id,
+            "model": config.evaluation_model.deployment,
+            "temperature": config.evaluation_model.temperature,
+            "evaluation_dir": str(evaluation_dir),
+            "primary_method": config.confidence.primary,
+        },
     )
     elapsed = round(time.time() - start, 2)
 
@@ -39,6 +47,8 @@ def run_comparison_step(
 
     metrics = result["metrics_summary"]
     overall = metrics.get("overall", {})
+    confidence = result.get("confidence_report") or {}
+    primary_coverage = (confidence.get("coverage") or {}).get("primary") or {}
 
     return {
         "counts": {
@@ -50,5 +60,15 @@ def run_comparison_step(
         "elapsed_s": elapsed,
         "metrics_path": result["metrics_path"],
         "errors_path": result.get("errors_path"),
+        "confidence_report_path": result.get("confidence_report_path"),
+        "low_confidence_path": result.get("low_confidence_path"),
+        "confidence": {
+            "status": confidence.get("status"),
+            "availability": (confidence.get("confidence_source") or {}).get("availability"),
+            "primary_threshold": primary_coverage.get("threshold"),
+            "coverage_rate": primary_coverage.get("coverage_rate"),
+            "flagged": primary_coverage.get("flagged"),
+            "errors_captured": primary_coverage.get("errors_captured"),
+        },
         "output_dir": str(comparison_dir),
     }
