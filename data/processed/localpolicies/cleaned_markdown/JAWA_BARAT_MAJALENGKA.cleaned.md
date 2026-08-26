@@ -92,7 +92,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 20. Rencana Pembangunan Jangka Panjang Daerah yang selanjutnya disebut RPJPD adalah dokumen perencanaan pembangunan daerah untuk periode 20 (dua puluh) tahun.  
 21. Rencana Pembangunan Jangka Menengah Daerah yang selanjutnya disebut RPJMD adalah dokumen perencanaan daerah untuk periode 5 (lima) tahun.  
 22. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang yang selanjutnya disebut Gugus Tugas adalah lembaga koordinatif yang bertugas mengoordinasikan upaya pencegahan dan penanganan tindak pidana perdagangan orang di Kabupaten Majalengka.  
-23. Orang Tua adalah ayah dan/ atau ibu kandung, atau ayah dan/ atau ibu 00, atau ayah dan/ atau ibu angkat.  
+23. Orang Tua adalah ayah dan/ atau ibu kandung, atau ayah dan/ atau ibu, atau ayah dan/ atau ibu angkat.  
 24. Keluarga adalah orang yang mempunyai hubungan darah dalam garis lurus ke atas atau ke bawah dan garis menyamping sampai derajat ketiga, atau yang mempunyai hubungan perkawinan, atau orang yang menjadi tanggungan perempuan dan/ atau anak.  
 25. Masyarakat adalah perseorangan, keluarga, kelompok, dan organisasi sosial dan/ atau organisasi kemasyarakatan.  
 26. Kabupaten Layak Anak adalah kabupaten yang mempunyai sistem pembangunan berbasis hak anak melalui pengintegrasian komitmen dan sumber daya pemerintah, masyarakat, duma usaha dan media yang terencana secara menyeluruh dan berkelanjutan dalam kebijakan, program dan kegiatan untuk menjamin pemenuhan hak anak dan perlindungan khusus anak.  
