@@ -372,9 +372,9 @@ Pemulihan Korban, Saksi, dan Pelaku
 1. Untuk kepentingan pemulihan, perempuan dan anak korban, saksi dan pelaku kekerasan dapat memperoleh pelayanan dari:  
 a. Lembaga sosial (kelompok atau institusi yang mempunyai ruang lingkup pada perempuan dan anak) dan atau;  
 b. Pekerja sosial (Individu yang mempunyai kompetensi melakukan pemulihan atau rehabilitasi) yaitu:  
-1/. Perawat
-2/. Tenaga kesehatan
-3/. Tenaga konseling
+1/.Perawat
+2/.Tenaga kesehatan
+3/.Tenaga konseling
 2. Yang dimaksud memberikan pelayanan pemulihan yang  dilakukan oleh lembaga sosial sebagaimana dimaksud pada  ayat (1) huruf a adalah sebagai berikut:  
 a. relawan pendamping melakukan upaya:  
 1/. membangun hubungan yang setara dengan korban  agar bersedia membuka diri dalam mengemukakan  persoalannya;  
