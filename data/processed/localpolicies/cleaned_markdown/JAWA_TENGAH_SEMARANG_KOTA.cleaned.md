@@ -1,14 +1,18 @@
-# PROVINSI JAWA TENGAH
+# PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN
+
+PROVINSI JAWA TENGAH  
 
 # PERATURAN DAERAH KOTA SEMARANG
 
-# NOMOR 5 TAHUN 2016
+NOMOR 5 TAHUN 2016  
 
-# TENTANG
+TENTANG  
 
-PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA
+PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  
 
-# WALIKOTA SEMARANG,
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+WALIKOTA SEMARANG,  
 
 Menimbang:  
  
@@ -32,7 +36,6 @@ Mengingat:
  
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 16 Tahun 1950 tentang  Pembentukan Daerah-daerah Kota Besar dalam  Lingkungan Propinsi Djawa Timur, Djawa Tengah, Djawa  Barat dan Daerah Istimewa Jogyakarta;  
 3. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia  Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah  diubah dengan Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 tentang Perubahan Atas Undang Undang Nomor 23 Tahun 2002 Tentang Perlindungan  Anak (Lembaran Negara Republik Indonesia Tahun 2014  Nomor 297, Tambahan Lembaran Negara Republik  Indonesia Nomor 5606);  
 4. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran  Negara Republik Indonesia Tahun 2004 Nomor 95,  Tambahan Lembaran Negara Republik Indonesia Nomor  4419);  
@@ -46,17 +49,19 @@ Mengingat:
 12. Peraturan Daerah Provinsi Jawa Tengah Nomor 3 Tahun  2009 Tentang Penyelenggaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan Anak (Lembaran Daerah Tahun 2009 Nomor 3, Tambahan Lembaran Daerah nomor 20);  
 13. Peraturan Daerah Provinsi Jawa Tengah Nomor 7 Tahun  2013 Tentang Penyelenggaraan Perlindungan Anak (Lembaran Daerah Nomor 2013 Nomor 7, Tambahan Lembaran Daerah Nomor 53).  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA SEMARANG  
 
-# KOTA SEMARANG
+Dan  
 
-# WALIKOTA SEMARANG
+WALIKOTA SEMARANG  
 
-# MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN.  
 
 # BAB I
 
@@ -64,8 +69,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK DARI TINDA
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksuddengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kota Semarang.  
 2. Pemerintah Daerah adalah Kepala Daerah sebagai unsur penyelenggara  Pemerintah Daerah yang memimpin pelaksanaan urusan pemerintahan yang  menjadi kewenangan daerah otonom.  
 3. Walikota adalah Walikota Semarang.  
@@ -79,16 +83,16 @@ Dalam Peraturan Daerah ini yang dimaksuddengan:
 11. Kekerasan terhadap anak adalah setiap perbuatan terhadap anak yang  berakibat timbulnya kesengsaraan atau penderitaan secara fisik, mental,  seksual, psikologis, termasuk penelantaran dan perlakuan buruk yang  mengancam integritas tubuh dan merendahkan martabat anak.  
 12. Diskriminasi adalah setiap pembedaan, pelecehan atau pengucilan yang  langsung ataupun tak langsung yang didasarkan pada pembedaan manusia  atas dasar agama, suku, ras, etnik kelompok golongan status sosial, status  ekonomi, jenis kelamin, bahasa, keyakinan politik yang berakibat  pengurangan penyimpangan atau penghapusan pengakuan, pelaksanaan  atau penggunaan hak azasi manusia dan kebebasan dasar dalam kehidupan  baik individual maupun kolektif dalam bidang politik, ekonomi, hukum,  sosial, budaya dan aspek kehidupan lainnya.  
 13. Perdagangan Orang adalah tindakan perekrutan, pengangkutan,  penampungan, pengiriman, pemindahan, atau penerimaan seseorang  dengan ancaman kekerasan, penggunaan kekerasan, penculikan,  penyekapan, pemalsuan, penipuan dan penyalahgunaan kekuasaan atau  posisi rentan, penjeratan uang atau memberikan bayaran atau manfaat,  sehingga memperoleh persetujuan dari orang yang memegang kendali atas  orang lain tersebut, baik yang dilakukan di dalam negara maupun antar  negara, untuk tujuan ekspolitasi atau mengakibatkan orang tereksploitasi.  
-14. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun  termasuk anak yangmasih dalam kandungan.  
+14. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun  termasuk anak yang masih dalam kandungan.  
 15. Korban tindak kekerasan adalah perempuan dan anak yang mengalami  penderitaan baik fisik, mental maupun emosional, kerugian ekonomi, atau  mengalami pengabaian, pengurangan atau perampasan hak-hak dasarnya.  
 16. Pencegahan adalah upaya langsung yang dilakukan oleh Pemerintah Daerah  dan/atau masyarakat untuk mencegah terjadinya tindak kekerasan kepada  perempuan dan anak.  
-17. Pusat Pelayanan Terpadu yang selanjutnya disingkat dengan PPT adalah  Unit Pelayanan Terpadu yang dibentuk oleh Pemerintah daerah untuk  memberikan pelayanan dan rehabilitasi kepada perempuan dan anak yang  menjadikorban tindak kekerasan secara komprehensif meliputi pelayanan  informasi, pendampingan dan bantuan hukum, pelayanan konseling,  pelayanan medis dan rumah aman melalui rujukan.  
+17. Pusat Pelayanan Terpadu yang selanjutnya disingkat dengan PPT adalah  Unit Pelayanan Terpadu yang dibentuk oleh Pemerintah daerah untuk  memberikan pelayanan dan rehabilitasi kepada perempuan dan anak yang  menjadi korban tindak kekerasan secara komprehensif meliputi pelayanan  informasi, pendampingan dan bantuan hukum, pelayanan konseling,  pelayanan medis dan rumah aman melalui rujukan.  
 18. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan  Orang, yang selanjutnya disebut Gugus Tugas adalah lembaga koordinatif  yang bertugas mengkoordinasikan upaya pencegahan dan penanganan  tindak pidana perdagangan orang di Kota Semarang.  
 19. Rumah aman adalah tempat tinggal sementara yang digunakan untuk  memberikan perlindungan terhadap korban sesuai dengan standar  operasional yang ditentukan.  
-20. Reintegrasi sosial adalah proses mempersiapkan masyarakat dan korban  yang mendukung penyatuan kembali korban kedalam lingkungankeluarga,  lingkungan sekolah, lingkungan kerja dan lingkungan masyarakat yang  dapat memberikan perlindungan dan pemenuhan kebutuhan korban.  
-21. Pemulihan korban adalah pelayanan yang diberikan dalam bentuk  penguatan dan pengembangan kemampuan seseorang yang mengalami  tindak kekerasan terhadap perempuan dan anak agar lebih berdaya baik  fisik psikis,seksual, ekonomi maupun sosial.  
+20. Reintegrasi sosial adalah proses mempersiapkan masyarakat dan korban  yang mendukung penyatuan kembali korban ke dalam lingkungan keluarga,  lingkungan sekolah, lingkungan kerja dan lingkungan masyarakat yang  dapat memberikan perlindungan dan pemenuhan kebutuhan korban.  
+21. Pemulihan korban adalah pelayanan yang diberikan dalam bentuk  penguatan dan pengembangan kemampuan seseorang yang mengalami  tindak kekerasan terhadap perempuan dan anak agar lebih berdaya baik  fisik psikis, seksual, ekonomi maupun sosial.  
 22. Pendampingan adalah segala tindakan berupa konseling, terapi psikologis,  advokasi dan bimbingan rohani, guna penguatan diri perempuan dan anak  dari tindak kekerasan untuk menyelesaikan permasalahan yang dihadapi.  
-23. Keluarga adalah unit terkecil dalam masyarakat yangterdiri dari suami istri,  atau suami istri dan anaknya, atau ayah dan anaknya, atau ibu dan  anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah  sampai derajat ketiga.  
+23. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri,  atau suami istri dan anaknya, atau ayah dan anaknya, atau ibu dan  anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah  sampai derajat ketiga.  
 24. Orangtua adalah ayah dan/atau ibu kandung, atau ayah dan/atau ibu tiri,  atau ayah dan/atau ibu angkat.  
 25. Masyarakat adalah perseorangan, keluarga, kelompok, dan organisasi sosial  dan/atau organisasi kemasyarakatan.  
 
@@ -98,7 +102,7 @@ Dalam Peraturan Daerah ini yang dimaksuddengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan  berdasarkan asas:  
+Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan berdasarkan asas:  
 a. Kemanusiaan;  
 b. Keadilan dan kesetaraan gender;  
 c. Non diskriminasi;  
@@ -127,7 +131,8 @@ b. Kekerasan psikis;
 c. Kekerasan seksual;  
 d. Penelantaran;  
 e. Perlakuan salah;  
-f. Eksploitasi; dan/ataug. Kekerasan lainnya.  
+f. Eksploitasi; dan/atau  
+g. Kekerasan lainnya.  
 
 # BAB IV
 
@@ -155,7 +160,8 @@ Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam 
 a. Hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. Hak pelayanan dasar kependudukan;  
 c. Hak perlindungan yang sama;  
-d. Hak bebas dari berbagai stigma;dane. Hak mendapatkan kebebasan.  
+d. Hak bebas dari berbagai stigma; dan  
+e. Hak mendapatkan kebebasan.  
 
 # BAB V
 
@@ -169,7 +175,8 @@ b. Masyarakat.
 
 #### Pasal 8
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 7 huruf a, meliputi:a. menetapkan, melaksanakan kebijakan, program, dan melakukan  kerjasama kegiatan dalam penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 7 huruf a, meliputi:  
+a. menetapkan, melaksanakan kebijakan, program, dan melakukan  kerjasama kegiatan dalam penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan;  
 b. memfasilitasi pendirian kelembagaan perlindungan perempuan dan anak  dari tindak kekerasan serta memberikan dukungan sarana dan  prasarana;  
 c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah;  
 d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
@@ -183,18 +190,20 @@ g. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai  langkah perl
 #### Pasal 9
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan kepada perempuan dan anak dari tindak  kekerasan;  
 c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dan  
 d. turut serta dalam penanganan korban tindak kekerasan.  
-3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan  perundang-undangan.  
+3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 10
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajibmelakukan upaya sesuai dengan batas  kemampuannya untuk:  
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan terhadap perempuan dan anak wajib melakukan upaya sesuai dengan batas kemampuannya untuk:  
 a. Mencegah dan menghentikan berlangsungnya tindak kekerasan;  
 b. Memberikan perlindungan kepada korban;  
-c. Memberikan pertolongan darurat; dan/ataud. Membantu proses pengajuan permohonan penetapan perlindungan.  
+c. Memberikan pertolongan darurat; dan/atau  
+d. Membantu proses pengajuan permohonan penetapan perlindungan.  
 
 # BAB VI
 
@@ -235,7 +244,8 @@ Pencegahan Tindak Kekerasan
 #### Pasal 15
 
 1. Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada  keluarga, orangtua, dan masyarakat dengan memberikan informasi,  bimbingan dan/atau penyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),  dilaksanakan dengan cara:a. memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal maupun informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),  dilaksanakan dengan cara:  
+a. memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal maupun informal;  
 b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial sesuai  dengan ketentuan yang berlaku;  
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -245,7 +255,8 @@ g. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan  anak dari t
 
 #### Pasal 16
 
-1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 15, dilaksanakan oleh Perangkat  Daerah yang tugas dan fungsinya di bidang:a. sosial;  
+1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 15, dilaksanakan oleh Perangkat  Daerah yang tugas dan fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
@@ -265,7 +276,7 @@ Perlindungan Hukum
 Perlindungan hukum meliputi:  
 a. Memberi perlindungan dirumah aman (shelter);  
 b. Memberikan informasi hukum kepada korban;  
-c. Melakukan pendampingan untuk korban sebagai saksi mulai dari proses  penyidikan hingga putusan;  
+c. Melakukan pendampingan untuk korban sebagai saksi mulai dari proses penyidikan hingga putusan;  
 d. Memberikan perlindungan hukum secara khusus bagi anak korban tindak  kekerasan dapat dilakukan dengan penunjukkan perwalian sesuai dengan  peraturan perundang-undangan yang berlaku.  
 
 ## Bagian Ketiga
@@ -281,7 +292,7 @@ c. Membantu pemulangan korban;
 d. Memberikan perlindungan sementara di rumah aman (shelter);  
 e. Memberikan pemulihan dan pendampingan psikososial;  
 f. Memberikan pelayanan bimbingan rohani;  
-g. Melakukan penyiapan lingkungan keluarga, sekolah, kerja dan masyarakat,  serta pemberdayaan ekonomi.  
+g. Melakukan penyiapan lingkungan keluarga, sekolah, kerja dan masyarakat, serta pemberdayaan ekonomi.  
 
 ## Bagian Keempat
 
@@ -304,7 +315,7 @@ a. Menumbuhkan kepedulian masyarakat terhadap kasus tindak kekerasan  pada perem
 b. Mendorong masyarakat untuk berpartisipasi aktif dalam memberikan  informasi dan melaporkan adanya tindak kekerasaan terhadap perempuan  dan anak;  
 c. Menumbuhkan kearifan lokal dalam penanganan kasus tindak kekerasan;  
 d. Menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan tindak kekerasan terhadap perempuan dan anak;  
-e. Menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan tindak kekerasan terhadap perempuan dan anak.  
+e. Menyebarluaskan informasi tentang peraturan perundang-undangan yang berkaitan dengan tindak kekerasan terhadap perempuan dan anak.  
 
 # BAB VIII
 
@@ -317,17 +328,20 @@ Kerjasama
 #### Pasal 21
 
 1. Pemerintah Daerah mengembangkan pola kerjasama dalam rangka  mencapai tujuan perlindungan perempuan dan anak dari tindak kekerasan sesuai ketentuan peraturan perundang-undangan.  
-2. Kerjasama sebagaimana dimaksud pada ayat (1) dilakukan antara  Pemerintah Daerah dengan:a. Pemerintah Pusat;  
+2. Kerjasama sebagaimana dimaksud pada ayat (1) dilakukan antara Pemerintah Daerah dengan:  
+a. Pemerintah Pusat;  
 b. Pemerintah Provinsi;  
 c. Pemerintah Kabupaten/Kota lain;  
 d. Perguruan Tinggi;  
 e. Lembaga sosial dan keagamaan;  
-f. Lembaga Swadaya Masyarakat; dan/ataug. Media.  
-3. Kerjasama sebagaimana dimaksud pada ayat (2) meliputi:  a. pertukaran data dan informasi;  
+f. Lembaga Swadaya Masyarakat; dan/atau  
+g. Media.  
+3. Kerjasama sebagaimana dimaksud pada ayat (2) meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dan  
 d. penyediaan barang bukti dan saksi.  
-4. Kerjasama sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai  ketentuan Perundang-undangan
+4. Kerjasama sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai ketentuan Perundang-undangan
 
 ## Bagian Kedua
 
@@ -340,7 +354,7 @@ Kemitraan
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dan  
-d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dilaksanakan  sesuai ketentuan Perundang-undangan.  
 
 # BAB IX
@@ -373,9 +387,11 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembinaan dan  pengawasan 
 #### Pasal 26
 
 Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan dapat bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Negarab. Anggaran Pendapatan dan Belanja Daerah;  
+a. Anggaran Pendapatan dan Belanja Negara;  
+b. Anggaran Pendapatan dan Belanja Daerah;  
 c. Sumbangan masyarakat yang tidak mengikat;  
-d. Bantuan luar negeri yang tidak mengikat; dan/ataue. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  
+d. Bantuan luar negeri yang tidak mengikat; dan/atau  
+e. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 27
 
@@ -392,33 +408,25 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kota Semarang.  
 
-Ditetapkan di Semarang pada tanggal
+Ditetapkan di Semarang pada tanggal  
 
-##### WALIKOTA SEMARANG,
+WALIKOTA SEMARANG,  
 
-##### HENDRAR PRIHADI
+HENDRAR PRIHADI  
 
-Diundangkan di Semarang pada tanggal
+Diundangkan di Semarang pada tanggal  
 
-##### SEKRETARIS DAERAH KOTA SEMARANG,
+SEKRETARIS DAERAH KOTA SEMARANG,  
 
-##### ADI TRIHANANTO
+ADI TRIHANANTO  
 
-##### LEMBARAN DAERAH KOTA SEMARANG TAHUN 2016 NOMOR 5
+LEMBARAN DAERAH KOTA SEMARANG TAHUN 2016 NOMOR 5  
 
-NOREG PERATURAN DAERAH KOTA SEMARANG, PROVINSI JAWA TENGAH: (5/2016)
+NOREG PERATURAN DAERAH KOTA SEMARANG, PROVINSI JAWA TENGAH: (5/2016)  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KOTA SEMARANG
 
-##### ATAS
-
-##### PERATURAN DAERAH KOTA SEMARANG
-
-##### NOMOR 5 TAHUN 2016
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN
+NOMOR 5 TAHUN 2016 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN
 
 ##### I. UMUM
 
@@ -434,171 +442,288 @@ Adanya Peraturan Daerah tentang PerlindunganPerempuan dan Anak,  memberikan tang
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Huruf a Asas kemanusian menjadi landasan konsep perlindunganperempuan  dan anak korban dari tindak kekerasan,merupakan penghormatan hak  asasi manusia serta harkatdan martabat setiap warga negara dan  pendudukIndonesia secaraproporsional (sila kedua Pancasila).  
+Huruf a  
+Asas kemanusian menjadi landasan konsep perlindunganperempuan  dan anak korban dari tindak kekerasan,merupakan penghormatan hak  asasi manusia serta harkatdan martabat setiap warga negara dan  pendudukIndonesia secaraproporsional (sila kedua Pancasila).  
 
-Huruf b Asas keadilan dan kesetaraan gender, bahwa keadilan  gendermerupakan suatu proses untuk menjadi adil terhadap laki-laki  dan perempuan. Kesetaraan gender adalah kesamaan kondisi bagi laki laki dan perempun untuk memperoleh kesempatandan hak-haknya  sebagai manusia, agar mampu berperan danberpartisipasi dalam  kegiatan politik, ekonomi, sosial budaya,pemerintahan dan kesamaan  dalam menikmatihasilpembangunan.  
+Huruf b  
+Asas keadilan dan kesetaraan gender, bahwa keadilan  gendermerupakan suatu proses untuk menjadi adil terhadap laki-laki  dan perempuan. Kesetaraan gender adalah kesamaan kondisi bagi laki laki dan perempun untuk memperoleh kesempatandan hak-haknya  sebagai manusia, agar mampu berperan danberpartisipasi dalam  kegiatan politik, ekonomi, sosial budaya,pemerintahan dan kesamaan  dalam menikmatihasilpembangunan.  
 
-Huruf c Asas non diskriminasi, bahwa dalam memberikan  perlindunganterhadap perempuan dan anak korban tindak kekerasan  tidakmembeda-bedakan atas dasar usia, jenis kelamin, ras, etnis,suku,  agama dan antar golongan.  
+Huruf c  
+Asas non diskriminasi, bahwa dalam memberikan  perlindunganterhadap perempuan dan anak korban tindak kekerasan  tidakmembeda-bedakan atas dasar usia, jenis kelamin, ras, etnis,suku,  agama dan antar golongan.  
 
-Huruf d Asas ketertiban dan kepastian hukum dapat menimbulkan ketertiban  dalam masyarakat dan perlindungan bagi perempuan dan anak korban  tindak kekerasan melalui jaminan kepastian hukum.  
+Huruf d  
+Asas ketertiban dan kepastian hukum dapat menimbulkan ketertiban  dalam masyarakat dan perlindungan bagi perempuan dan anak korban  tindak kekerasan melalui jaminan kepastian hukum.  
 
-Huruf e Asas keterbukaan mencerminkan penyelenggaraan perlindungan  korban kekerasan secara transparan.  
+Huruf e  
+Asas keterbukaan mencerminkan penyelenggaraan perlindungan  korban kekerasan secara transparan.  
 
-Huruf f Asas pengayoman memberikan perlindungan korban tindak kekerasan,  menjamin kerahasiaan, keamanan, keselamatan jiwa dan psikologis  korban.  
+Huruf f  
+Asas pengayoman memberikan perlindungan korban tindak kekerasan,  menjamin kerahasiaan, keamanan, keselamatan jiwa dan psikologis  korban.  
 
 #### Pasal 3
 
-Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Menguatkan perempuan dan anak korban tindak kekerasan adalah  kekuatan untuk menggunakan daya yang dimiliki secara fisik, dapat  lebih percaya diri, hidup bermasyarakat dan dapat memenuhi  kebutuhan dasar (sandang, pangan, papan).  
+Huruf a  
+Cukup jelas.  
+
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Menguatkan perempuan dan anak korban tindak kekerasan adalah  kekuatan untuk menggunakan daya yang dimiliki secara fisik, dapat  lebih percaya diri, hidup bermasyarakat dan dapat memenuhi  kebutuhan dasar (sandang, pangan, papan).  
 
 #### Pasal 4
 
-Huruf a Kekerasan fisik disebabkan karena perbuatan yang mengakibatkan rasa  sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya  kandungan, pingsan dan/atau menyebabkan kematian.  
+Huruf a  
+Kekerasan fisik disebabkan karena perbuatan yang mengakibatkan rasa  sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya  kandungan, pingsan dan/atau menyebabkan kematian.  
 
-Huruf b Kekerasan psikis disebabkan karena perbuatan yang mengakibatkan  ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk  bertindak, rasa tidak berdaya dan/atau penderitaan psikis berat pada  seseorang.  
+Huruf b  
+Kekerasan psikis disebabkan karena perbuatan yang mengakibatkan  ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk  bertindak, rasa tidak berdaya dan/atau penderitaan psikis berat pada  seseorang.  
 
-Huruf c Kekerasan seksual disebabkan karena:
-
+Huruf c  
+Kekerasan seksual disebabkan karena:  
 1. perbuatan yang berupa pelecehan seksual;  
 2. pemaksaan hubungan seksual;  
-3. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/atau
-4. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuantertentu.  
+3. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/atau  
+4. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 
-Huruf d Penelantaran disebabkan karena:
+Huruf d  
+Penelantaran disebabkan karena:  
+1. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupun sosial yang  dilakukan oleh orang tua, wali, atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
+2. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain yangbertanggung  jawab atas pengasuhannya;  
+3. perbuatan menelantarkan orang dalam lingkup rumah tangganya,  padahal menurut hokum yang berlaku baginya atau karena  persetujuan atau perjanjian ia harus memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang tersebut;  dan/atau  
+4. perbuatan yang mengakibatkan ketergantungan ekonomi dengan  cara membatasi dan/atau melarang untuk bekerja yang layak di  dalama tau di luar rumah sehingga korban berada dibawah kendali  orang tersebut.  
 
-1. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupun sosial yang  dilakukan oleh orang tua, wali, atau pihak lainmanapun yang  bertanggung jawab atas pengasuhannya;  
-2. perbuatan mengabaikan dengan sengaja untukmemelihara,  merawat, atau mengurus anaksebagaimana mestinya yang  dilakukan olehorang tua, wali, atau pihak lain yangbertanggung  jawab atas pengasuhannya;  
-3. perbuatan menelantarkan orang dalam lingkuprumah tangganya,  padahal menurut hokum yang berlaku baginya atau karena  persetujuanatau perjanjian ia harus memberikan  kehidupan,perawatan, atau pemeliharaan kepada orangtersebut;  dan/atau
-4. perbuatan yang mengakibatkan ketergantunganekonomi dengan  cara membatasi dan/ataumelarang untuk bekerja yang layak di  dalamatau di luar rumah sehingga korban beradadibawah kendali  orang tersebut.  
+Huruf e  
+Perlakuan salah adalah perlakuan salah terhadap fisik dan emosi  seorang anak termasuk menelantarkan pendidikan dan kesehatannya  serta penyalahgunaan seksual akibat perilaku manusia yang keliru  terhadap anak.  
 
-Huruf e Perlakuan salah adalah perlakuan salah terhadap fisik dan emosi  seorang anak termasuk menelantarkan pendidikan dan kesehatannya  serta penyalahgunaan seksual akibat perilaku manusia yang keliru  terhadap anak.  
-
-Huruf f Eksploitasi disebabkan karena:
-
-1. perbuatan yang mengeksploitasi ekonomi atauseksual dengan  maksud untuk menguntungkandiri sendiri atau orang lain;  
-2. perbuatan yang dengan atau tanpa persetujuankorban antara lain  pelacuran, kerja ataupelayanan paksa, perbudakan atau praktik  serupa, penindasan, pemerasan, pemanfaatanfisik, seksual, organ  reproduksi, atau secaramelawan hukum memindahkan  ataumentransplantasi organ dan/atau jaringantubuh atau  memanfaatkan tenaga ataukemampuan seseorang oleh pihak lain  untuk mendapatkan keuntungan materiil atauimmateriil; dan/atau
+Huruf f  
+Eksploitasi disebabkan karena:  
+1. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
+2. perbuatan yang dengan atau tanpa persetujuan korban antara lain  pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik  serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum memindahkan  atau mentransplantasi organ dan/atau jaringan tubuh atau  memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain  untuk mendapatkan keuntungan materiil atau immateriil; dan/atau  
 3. segala bentuk pemanfaatan organ tubuh seksualatau organ tubuh  lain dari korban untukmendapatkan keuntungan, termasuk tetapi  tidak terbatas pada semua kegiatan pelacuranatau pencabulan.  
 
-Huruf g Kekerasan lainnya disebabkan karena:
-
-1. ancaman kekerasan meliputi: setiap perbuatansecara melawan  hukum berupa ucapan, tulisan,gambar, simbol, atau gerakan  tubuh, baikdengan atau tanpa menggunakan sarana  yangmenimbulkan rasa takut atau mengekangkebebasan hakiki  seseorang; dan
-2. pemaksaan, meliputi: suatu keadaan dimanaseseorang/korban  disuruh melakukan sesuatusedemikian rupa sehingga orang itu  melakukansesuatu yang berlawanan dengan kehendaksendiri.  
+Huruf g  
+Kekerasan lainnya disebabkan karena:  
+1. ancaman kekerasan meliputi: setiap perbuatan secara melawan  hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan  tubuh, baik dengan atau tanpa menggunakan sarana  yang menimbulkan rasa takut atau mengekang kebebasan hakiki  seseorang; dan
+2. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban  disuruh melakukan sesuatu sedemikian rupa sehingga orang itu  melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 #### Pasal 5
 
-Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Yang dimaksud hak untuk mendapatkan informasi adalah hakuntuk  mendapatkan keterangan, pernyataan, gagasan, dantanda-tanda yang  mengandung nilai, makna, dan pesan, baikdata, fakta maupun  penjelasannya yang dapat dilihat, didengardan dibaca yang disajikan  dalam berbagai kemasan dan formatsesuai dengan perkembangan  teknologi informasi dankomunikasi secara elektronik ataupun non  elektronik yangterkait tindakan kekerasan.  
+Huruf a 
+Cukup jelas.  
 
-Huruf e Cukup jelas Huruf f Yang dimaksud sebagai rehabilitasi sosial adalah pemulihan kembali  keadaan individu yang mengalamai permasalahan sosial kembali seperti  semula Huruf g Cukup jelas Huruf h Cukup jelas Huruf i Yang dimaksud dengan hak atas pendampingan antara lain psikolog,  psikiater, ahli kesehatan, rohaniwan, advokat dananggota keluarga Huruf j Cukup jelas
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Yang dimaksud hak untuk mendapatkan informasi adalah hak untuk  mendapatkan keterangan, pernyataan, gagasan, dantanda-tanda yang  mengandung nilai, makna, dan pesan, baik data, fakta maupun  penjelasannya yang dapat dilihat, di dengar dan dibaca yang disajikan  dalam berbagai kemasan dan format sesuai dengan perkembangan  teknologi informasi dan komunikasi secara elektronik ataupun non  elektronik yang terkait tindakan kekerasan.  
+
+Huruf e  
+Cukup jelas.  
+
+Huruf f  
+Yang dimaksud sebagai rehabilitasi sosial adalah pemulihan kembali  keadaan individu yang mengalami permasalahan sosial kembali seperti  semula.  
+
+Huruf g  
+Cukup jelas.  
+
+Huruf h  
+Cukup jelas.  
+
+Huruf i  
+Yang dimaksud dengan hak atas pendampingan antara lain psikolog,  psikiater, ahli kesehatan, rohaniwan, advokat dan anggota keluarga.  
+
+Huruf j  
+Cukup jelas.  
 
 #### Pasal 6
 
-Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Yang dimaksud hak perlindungan yang sama adalah berkaitan dengan  status, kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa,  keyakinan, agama, politik atau pendapat lain, etnis atau kehidupan  sosialnya, kepemilikan, kelahiran atau status lain.  
+Huruf a  
+Cukup jelas.  
 
-Huruf d Cukup jelas Huruf e Yang dimaksud dengan hak mendapat kebebasan adalah bebas mengekspresikan pandangannya terhadap semua hal,termasuk yang  berkaitan dengan proses hukum, perawatan dan perlindungan  sementara serta identifikasi dan pelaksanaan solusi selanjutnya.  
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Yang dimaksud hak perlindungan yang sama adalah berkaitan dengan  status, kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa,  keyakinan, agama, politik atau pendapat lain, etnis atau kehidupan  sosialnya, kepemilikan, kelahiran atau status lain.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Yang dimaksud dengan hak mendapat kebebasan adalah bebas mengekspresikan pandangannya terhadap semua hal,termasuk yang  berkaitan dengan proses hukum, perawatan dan perlindungan  sementara serta identifikasi dan pelaksanaan solusi selanjutnya.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Ayat (1) Huruf a Yang dimaksud dengan melaksanakan kebijakan, program dandan  melakukan kerjasama kegiatan dalam penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan meliputi; 1) mengumpulkan data dan informasi tentang perempuan dan  anak korban kekerasan;  
-
+Ayat (1)  
+Huruf a  
+Yang dimaksud dengan melaksanakan kebijakan, program dandan  melakukan kerjasama kegiatan dalam penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan meliputi:  
+1. mengumpulkan data dan informasi tentang perempuan dan  anak korban kekerasan;  
 2. memberikan pendidikan tentang nilai-nilai anti kekerasan  terhadap perempuan dan anak;  
 3. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan penyelenggaraan perlindungan perempuan  dan anak korban kekerasan;  
 4. melakukan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan perempuan dan anak korban kekerasan.  
 
-Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Huruf f Cukup jelas Huruf g Cukup jelas Ayat (2) Yang diamksud dengan Rencana Aksi Daerah adalah tahapan program  dan kegiatan penyelenggaraan perlindungan perempuan dan anak  korban tindak kekerasan termasuk bentuk pekerjaan terburuk bagi  anak yang harus dilakukan Perangkat daerah sesuai dengan tugas dan  fungsinya, disusun berdasarkan target pencapaian dalam jangka waktu  5 (lima) tahun.  
+Huruf b  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
+
+Huruf f  
+Cukup jelas.  
+
+Huruf g  
+Cukup jelas.  
+
+Ayat (2)  
+Yang diamksud dengan Rencana Aksi Daerah adalah tahapan program  dan kegiatan penyelenggaraan perlindungan perempuan dan anak  korban tindak kekerasan termasuk bentuk pekerjaan terburuk bagi  anak yang harus dilakukan Perangkat daerah sesuai dengan tugas dan fungsinya, disusun berdasarkan target pencapaian dalam jangka waktu  5 (lima) tahun.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Ayat (1) Cukup jelas Ayat (2) Yang dimaksud PPT di tingkat kota adalah PPT Seruni dan di tingkat  kecamatan adalah PPT Kecamatan.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (2)  
+Yang dimaksud PPT di tingkat kota adalah PPT Seruni dan di tingkat  kecamatan adalah PPT Kecamatan.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4) 
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Ayat (1) Cukup jelas Ayat (2) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Huruf f Yang dimaksud dengan Lembaga Swadaya Masyarakat adalah  Lembaga Swadaya Masyarakat yang terdaftar secara resmi di  Pemerintah.  
+Ayat (1)  
+Cukup jelas.  
 
-Huruf g Yang dimaksud dengan media adalah Koran, Televisi dan Radio.  
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
+
+Huruf f  
+Yang dimaksud dengan Lembaga Swadaya Masyarakat adalah  Lembaga Swadaya Masyarakat yang terdaftar secara resmi di  Pemerintah.  
+
+Huruf g  
+Yang dimaksud dengan media adalah Koran, Televisi dan Radio.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 24
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 25
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 26
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 27
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 28
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KOTA SEMARANG NOMOR 106
+TAMBAHAN LEMBARAN DAERAH KOTA SEMARANG NOMOR 106  
