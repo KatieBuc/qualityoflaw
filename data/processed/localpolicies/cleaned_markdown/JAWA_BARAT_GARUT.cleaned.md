@@ -190,7 +190,7 @@ a. perbuatan yang berupa pelecehan seksual, terdiri dari:
 2. pelecehan lisan;  
 3. pelecehan isyarat;  
 4. pelecehan tertulis atau gambar; dan
-5. pelecehan psikologis/emosional.
+5. pelecehan psikologis/emosional.  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan/atau tujuan tertentu.  
 4. Penelantaran sebagaimana dimaksud dalam Pasal 6 huruf d, meliputi:  
