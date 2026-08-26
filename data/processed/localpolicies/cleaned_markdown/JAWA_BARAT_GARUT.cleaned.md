@@ -186,11 +186,11 @@ e. eksploitasi; dan/atauf. kekerasan lainnya.
 2. Kekerasan psikis sebagaimana dimaksud dalam Pasal 6 huruf b merupakan perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau  penderitaan psikis pada perempuan dan/atau anak.  
 3. Kekerasan seksual sebagaimana dimaksud dalam Pasal 6 huruf c, meliputi:  
 a. perbuatan yang berupa pelecehan seksual, terdiri dari:  
-1. pelecehan fisik;  
-2. pelecehan lisan;  
-3. pelecehan isyarat;  
-4. pelecehan tertulis atau gambar; dan
-5. pelecehan psikologis/emosional.  
+ 1. pelecehan fisik;  
+ 2. pelecehan lisan;  
+ 3. pelecehan isyarat;  
+ 4. pelecehan tertulis atau gambar; dan
+ 5. pelecehan psikologis/emosional.  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan/atau tujuan tertentu.  
 4. Penelantaran sebagaimana dimaksud dalam Pasal 6 huruf d, meliputi:  
