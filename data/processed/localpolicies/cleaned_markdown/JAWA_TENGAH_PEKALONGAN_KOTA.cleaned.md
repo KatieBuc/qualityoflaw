@@ -1,20 +1,20 @@
-# PROVINSI JAWA TENGAH
+# PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK 
 
-# WALIKOTA PEKALONGAN
+PROVINSI JAWA TENGAH  
+
+WALIKOTA PEKALONGAN  
 
 # PERATURAN DAERAH KOTA PEKALONGAN
 
-# NOMOR 5 TAHUN 2015
+NOMOR 5 TAHUN 2015  
 
-# TENTANG
+TENTANG  
 
-# PENYELENGGARAAN PERLINDUNGAN TERHADAP
+PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK  
 
-# KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# WALIKOTA PEKALONGAN,
+WALIKOTA PEKALONGAN,  
 
 Menimbang:  
  
@@ -27,7 +27,7 @@ Menimbang:
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis gender dan anak adalah pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus mendapatkan perlindungan, baik dari Pemerintah Daerah, instansi terkait dan/atau masyarakat, agar masyarakat terhindar dan terbebas dari kekerasan dan/atau ancaman kekerasan dalam rumah tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak, sebagaimana telah diubah dengan Undang-Undang Nomor 35 tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, maka Pemerintah Daerah, instansi terkait, dan/atau masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
-d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan Anak;  
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
  
@@ -38,7 +38,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 16 Tahun 1950 tentang Pembentukan Daerah-daerah Kota Besar Dalam Lingkungan Provinsi Jawa Timur, Jawa Tengah, Jawa Barat dan Daerah Istimewa Djogjakarta, sebgaimana telah diubah dengan Undang-Undang Nomor 13 Tahun 1954 tentang Penggabungan Undang-Undang Nomor16 dan17 Tahun 1950 tentang Pembentukan Kota-kota Besar dan Kota-kota Ketjil di Jawa (Lembaran Negara Republik Indonesia Tahun 1954 Nomor 40, Tambahan Lembaran Negara Republik Indonesia Nomor 551);  
 3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235), sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
 4. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
@@ -46,13 +45,19 @@ Mengingat:
 6. Peraturan Pemerintah Nomor 21 Tahun 1988 tentang Perubahan Batas Wilayah Kotamadya Daerah Tingkat II Pekalongan, Kabupaten Daerah Tingkat II Pekalongan dan Kabupaten Daerah Tingkat II Batang (Lembaran Negara Republik Indonesia Tahun 1988 Nomor 42, Tambahan Lembaran Negara Republik Indonesia Nomor 3381);  
 7. Peraturan Daerah Kota Pekalongan Nomor 11 Tahun 2012 tentang Penyelenggaraan Perlindungan Anak (Lembaran Daerah Kota Pekalongan tahun 2011 Nomor 11);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA PEKALONGAN dan
+Dengan Persetujuan Bersama  
 
-# WALIKOTA PEKALONGAN
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA PEKALONGAN  
 
-# MEMUTUSKAN:
+dan
 
-Menetapka n: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK.  
+WALIKOTA PEKALONGAN  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK.  
 
 # BAB I
 
@@ -60,14 +65,15 @@ Menetapka n: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORB
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kota Pekalongan.  
 2. Pemerintah Daerah adalah Walikota sebagai unsur penyelenggara Pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom. 3. Walikota adalah Walikota Pekalongan.  
 4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD, adalah lembaga perwakilan rakyat daerah Kota Pekalongan yang berkedudukan sebagai unsur penyelenggara pemerintahan daerah.  
 5. Satuan Kerja Perangkat Daerah yang selanjutnya disingkat SKPD adalah unsur pembantu Walikota dan DPRD dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah.  
 6. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun, termasuk anak yang masih dalam kandungan.  
-7. Pencegahan adalah kegiatan yang dilakukan untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan anak. 8. Gender adalah konsep yang mengacu pada peran-peran dan tanggung jawab laki-laki dan perempuan yang terjadi akibat dari dan dapat berubah oleh keadaan sosial dan budaya masyarakat. 9. Perlindungan adalah segala upaya yang ditujukan untuk memberikan rasa aman dan memenuhi hak-hak korban yang dilakukan oleh pihak keluarga, pelayanan terpadu, advokat, lembaga sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya baik sementara maupun berdasarkan penetapan pengadilan.  
+7. Pencegahan adalah kegiatan yang dilakukan untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan anak.  
+8. Gender adalah konsep yang mengacu pada peran-peran dan tanggung jawab laki-laki dan perempuan yang terjadi akibat dari dan dapat berubah oleh keadaan sosial dan budaya masyarakat.  
+9. Perlindungan adalah segala upaya yang ditujukan untuk memberikan rasa aman dan memenuhi hak-hak korban yang dilakukan oleh pihak keluarga, pelayanan terpadu, advokat, lembaga sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya baik sementara maupun berdasarkan penetapan pengadilan.  
 10. Penyelenggaraan Perlindungan adalah serangkaian kegiatan yang ditujukan untuk mencegah terjadinya kekerasan, memberikan perlindungan serta layanan pemulihan dan reintegrasi sosial, melakukan koordinasi dan kerjasama, dan peningkatan partisipasi masyarakat yang dilakukan oleh SKPD yang membidangi.  
 11. Kekerasan adalah setiap perbuatan yang berakibat atau yang mengakibatkan kesengsaraan dan penderitaan baik fisik, seksual, psikologis termasuk penelantaran, ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan secara sewenang wenang, baik yang terjadi di depan umum atau dalam kehidupan pribadi.  
 12. Kekerasan Berbasis Gender adalah setiap bentuk pembatasan, pengucilan, pembedaan dan seluruh bentuk perlakuan yang dilakukan atas dasar jenis kelamin dan bertujuan untuk mengurangi, menghapuskan pengakuan, penikmatan atau penggunaan hak asasi manusia, yang akibatnya berupa dan tidak terbatas pada kekerasan fisik, seksual, psikologis dan ekonomi.  
@@ -114,11 +120,14 @@ j. kerahasiaan korban.
 
 #### Pasal 3
 
-1. Tujuan penyelenggaraan perlindungan korban kekerasan berbasis gender dan anak adalah:a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;  
+1. Tujuan penyelenggaraan perlindungan korban kekerasan berbasis gender dan anak adalah:  
+a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;  
 b. memberikan perlindungan;  
 c. memberikan pendampingan hukum;  
-d. mengupayakan pemulihan dan reintegrasi sosial; dan/atau e. meningkatkan partisipasi masyarakat.  
-2. Tujuan penyelenggaraan perlindungan korban kekerasan berbasis gender dan anak sebagaimana dimaksud pada ayat (1), meliputi aspek:a. pencegahan;  
+d. mengupayakan pemulihan dan reintegrasi sosial; dan/atau  
+e. meningkatkan partisipasi masyarakat.  
+2. Tujuan penyelenggaraan perlindungan korban kekerasan berbasis gender dan anak sebagaimana dimaksud pada ayat (1), meliputi aspek:  
+a. pencegahan;  
 b. pelayanan dan pendampingan;  
 c. reunifikasi; dan  
 d. pemberdayaan.  
@@ -144,7 +153,8 @@ a. hak atas penghormatan;
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dan  
-e. hak mendapatkan kebebasanf. hak sepenuhnya untuk kelangsungan hidup, tumbuh dan berkembang.  
+e. hak mendapatkan kebebasan;  
+f. hak sepenuhnya untuk kelangsungan hidup, tumbuh dan berkembang.  
 
 # BAB IV
 
@@ -159,19 +169,23 @@ c. keluarga dan/atau orangtua.
 
 #### Pasal 7
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 6 huruf a, meliputi:a. melaksanakan kebijakan perlindungan terhadap tindak kekerasan berbasis gender dan anak yang ditetapkan oleh pemerintah;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 6 huruf a, meliputi:  
+a. melaksanakan kebijakan perlindungan terhadap tindak kekerasan berbasis gender dan anak yang ditetapkan oleh pemerintah;  
 b. menetapkan kebijakan, program, dan kegiatan perlindungan terhadap tindak kekerasan berbasis gender dan anak;  
 c. melakukan kerjasama dalam penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan terhadap tindak kekerasan berbasis gender dan anak;  
 e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak sesuai kemampuan keuangan daerah; dan  
-f. membina dan mengawasi penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak. (2) Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1), pemerintah daerah menetapkan program dan kegiatan aksi perlindungan terhadap gender dan anak dalam 1 (satu) Rencana Aksi Daerah sebagai dasar bagi SKPD dalam melaksanakan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
+f. membina dan mengawasi penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
+2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1), pemerintah daerah menetapkan program dan kegiatan aksi perlindungan terhadap gender dan anak dalam 1 (satu) Rencana Aksi Daerah sebagai dasar bagi SKPD dalam melaksanakan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
 3. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), diatur dengan Peraturan Walikota.  
 
 #### Pasal 8
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 6 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:a. mencegah terjadinya tindak kekerasan berbasis gender dan anak;  
-b. memberikan informasi dan/atau melaporkan tindak kekerasan berbasis gender dan anak kepada penegak hukum atau pihak yang berwenang; dan/atauc. turut serta dalam memberikan bantuan, perlindungan atau penanganan terhadap korban tindak kekerasan.  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
+a. mencegah terjadinya tindak kekerasan berbasis gender dan anak;  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan berbasis gender dan anak kepada penegak hukum atau pihak yang berwenang; dan/atau  
+c. turut serta dalam memberikan bantuan, perlindungan atau penanganan terhadap korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan perundang-undangan.  
 
 #### Pasal 9
@@ -188,11 +202,12 @@ Kewajiban dan tanggung jawab keluarga dan/atau orangtua sebagaimana dimaksud dal
 a. mengumpulkan data dan informasi tentang tindak kekerasan berbasis gender dan anak, dan peraturan perundang-undangan;  
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak;  
 c. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap gender dan anak; dan  
-d. melakukan pemantauan dan evaluasi terhadap penyelengaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
-2. Pemerintah Daerah dalam mengantisipasi terjadinya tindak kekerasan berbasis gender dan anak, berwenang menyediakan dan menyelengarakan layanan bagi korban dalam bentuk:  
+d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
+2. Pemerintah Daerah dalam mengantisipasi terjadinya tindak kekerasan berbasis gender dan anak, berwenang menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
 a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk korban tindak kekerasan dengan melibatkan lembaga dan unsur masyarakat;  
 b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban; dan  
-c. melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.  d. secara aktif melakukan upaya penanganan terhadap korban kekerasan berbasis gender dan anak.  
+c. melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.  
+d. secara aktif melakukan upaya penanganan terhadap korban kekerasan berbasis gender dan anak.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami, istri, atau orang lain yang secara hukum bertanggung jawab kepada korban.  
 
 # BAB VI
@@ -229,8 +244,9 @@ Pencegahan Tindak Kekerasan
 #### Pasal 14
 
 1. Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada keluarga, orang tua, dan masyarakat dengan memberikan informasi, bimbingan dan/atau penyuluhan untuk mencegah terjadi tindak pidana kekerasan berbasis gender dan anak.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1), Pemerintah Daerah melakukan upaya sebagai berikut:a. peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
-b. pembukuan aksebilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1), Pemerintah Daerah melakukan upaya sebagai berikut:  
+a. peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
+b. pembukuan aksesbilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. pembukaan lapangan kerja;  
 d. membangun partisipasi dan kepedulian masyarakat untuk melaksanakan pencegahan dan perlindungan terhadap tindak kekerasan berbasis gender dan anak;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan mudah diakses;  
@@ -239,7 +255,8 @@ g. membuka pos pengaduan untuk perlindungan terhadap tindak kekerasan berbasis g
 
 #### Pasal 15
 
-1. Upaya pencegahan terjadi tindak kekerasan berbasis gender dan anak sebagaimana dimaksud dalam Pasal 14, dilaksanakan oleh SKPD yang tugas dan fungsinya di bidang:a. sosial;  
+1. Upaya pencegahan terjadi tindak kekerasan berbasis gender dan anak sebagaimana dimaksud dalam Pasal 14, dilaksanakan oleh SKPD yang tugas dan fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
@@ -259,7 +276,7 @@ a. medis;
 b. medicolegal;  
 c. psikososial;  
 d. hukum;  
-e. kemandirian ekonomi
+e. kemandirian ekonomi  
 
 ## Bagian Kelima
 
@@ -279,7 +296,8 @@ Pelayanan Korban Tindak Kekerasan
 
 #### Pasal 18
 
-1. Bentuk pelayanan dilaksanakan sesuai standar pelayanan minimal yang ditetapkan pemerintah dan dilaksanakan oleh SKPD yang tugas dan fungsinya di bidang:a. sosial;  
+1. Bentuk pelayanan dilaksanakan sesuai standar pelayanan minimal yang ditetapkan pemerintah dan dilaksanakan oleh SKPD yang tugas dan fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pemberdayaan berbasis gender dan perlindungan anak;  
 d. kesejahteraan;  
@@ -298,11 +316,15 @@ Reunifikasi
 
 #### Pasal 20
 
-1. Bentuk Reunifikasi yang diberikan kepada korban kekerasan berbasis gender dan anak sebagai berikut:a. pemulangan;  
+1. Bentuk Reunifikasi yang diberikan kepada korban kekerasan berbasis gender dan anak sebagai berikut:  
+a. pemulangan;  
 b. reintegrasi sosial.  
-2. Pelayanan pemulangan sebagaimana dimaksud pada ayat (1) huruf a meliputi:a. melaksanakan koordinasi dengan instansi terkait;  
+2. Pelayanan pemulangan sebagaimana dimaksud pada ayat (1) huruf a meliputi:  
+a. melaksanakan koordinasi dengan instansi terkait;  
 b. melaksanakan proses pemulangan korban; dan  
-c. memberikan perlindungan sampai tempat tujuan korban. (3) Pelayanan reintegrasi sosial sebagaimana dimaksud pada ayat (1) huruf b meliputi:a. pendampingan dalam proses penyatuan dengan keluarga korban;  
+c. memberikan perlindungan sampai tempat tujuan korban.  
+3. Pelayanan reintegrasi sosial sebagaimana dimaksud pada ayat (1) huruf b meliputi:  
+a. pendampingan dalam proses penyatuan dengan keluarga korban;  
 b. memberikan informasi kepada masyarakat setempat untuk penyatuan kembali korban dengan lingkungannya;  
 c. memberikan kepastian bahwa keluarga dan masyarakat siap untuk menerima kembali korban; dan  
 d. melaksanakan pemberdayaan ekonomi.  
@@ -315,7 +337,8 @@ Pemberdayaan Korban Tindak Kekerasan
 
 1. Pemerintah Daerah berkewajiban melakukan pemberdayaan terhadap korban tindak kekerasan.  
 2. Pemberdayaan korban tindak kekerasan sebagaimana dimaksud pada ayat (1), dilaksanakan oleh Lembaga Perlindungan Perempuan Anak dan Remaja.  
-3. Dalam melakukan pemberdayaan korban tindak kekerasan sebagaimana dimaksud pada ayat (1), Pemerintah Daerah menyusun program pemberdayaan di bidang ekonomi, yang meliputi:a. mengusahakan kebutuhan yang diperlukan bagi pelatihan kewirausahaan terhadap korban tindak kekerasan, guna meningkatkan pengetahuan, sikap, dan ketrampilan berusaha;  
+3. Dalam melakukan pemberdayaan korban tindak kekerasan sebagaimana dimaksud pada ayat (1), Pemerintah Daerah menyusun program pemberdayaan di bidang ekonomi, yang meliputi:  
+a. mengusahakan kebutuhan yang diperlukan bagi pelatihan kewirausahaan terhadap korban tindak kekerasan, guna meningkatkan pengetahuan, sikap, dan keterampilan berusaha;  
 b. memfasilitasi terlaksananya berbagai pelatihan kerja dan pelatihan keterampilan;  
 c. melakukan pendampingan dalam mengembangkan usaha ekonomi produktif;  
 d. menjajaki kerjasama dengan perusahaan kecil, menengah dan besar, serta lembaga keuangan untuk mengembangkan usaha korban tindak kekerasan;  
@@ -384,7 +407,8 @@ b. bimbingan teknis dan pelatihan;
 c. penyediaan fasilitas;  
 d. pemantauan; dan  
 e. evaluasi.  
-3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan dengan prinsip:a. profesional;  
+3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan dengan prinsip:  
+a. profesional;  
 b. transparan; dan  
 c. akuntabel.  
 4. Ketentuan lebih lanjut mengenai tata cara pembinaan dan pengawasan oleh Pemerintah Daerah sebagaimana dimaksud pada ayat (2) dan ayat (3) diatur dengan Peraturan Walikota.  
@@ -399,8 +423,10 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan terhadap tind
 
 #### Pasal 28
 
-1. Masyarakat dapat berperan serta dalam upaya penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak. (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1), dapat dilakukan oleh perorangan atau organisasi.  
-3. Peran serta masyarakat dalam penyelenggaraan perlindungan Korban Kekerasan Berbasis Gender dan Anak dapat dilakukan melalui:a. memberikan perlindungan bagi korban kekerasan berbasis gender dan anak;  
+1. Masyarakat dapat berperan serta dalam upaya penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1), dapat dilakukan oleh perorangan atau organisasi.  
+3. Peran serta masyarakat dalam penyelenggaraan perlindungan Korban Kekerasan Berbasis Gender dan Anak dapat dilakukan melalui:  
+a. memberikan perlindungan bagi korban kekerasan berbasis gender dan anak;  
 b. memberikan pertolongan darurat;  
 c. memberikan advokasi terhadap korban dan/atau masyarakat tentang penanganan kasus kekerasan berbasis gender dan anak;  
 d. membantu proses pengajuan permohonan penetapan perlindungan;  
@@ -416,7 +442,8 @@ h. menyebarluaskan informasi tentang peraturan perundang undangan yang berkaitan
 #### Pasal 29
 
 1. SKPD wajib melaporkan pelaksanaan penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak kepada Walikota.  
-2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis, meliputi:a. administrasi;  
+2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis, meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dan  
 d. kinerja.  
@@ -442,39 +469,31 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kota Pekalongan.  
 
-Ditetapkan di Pekalongan pada tanggal 16 Juni 2015
+Ditetapkan di Pekalongan  
 
-##### WALIKOTA PEKALONGAN,
+pada tanggal 16 Juni 2015  
 
-Cap.  
+WALIKOTA PEKALONGAN,  
 
-ttd.-
+ttd.  
 
-##### MOHAMAD BASYIR AHMAD
+MOHAMAD BASYIR AHMAD  
 
-Diundangkan di Pekalongan pada tanggal 16 Juni 2015
+Diundangkan di Pekalongan  
 
-##### SEKRETARIS DAERAH,
+pada tanggal 16 Juni 2015  
 
-##### DWI ARIE PUTRANTO
+SEKRETARIS DAERAH,  
 
-##### LEMBARAN DAERAH KOTA PEKALONGAN TAHUN 2015 NOMOR 5
+DWI ARIE PUTRANTO  
 
-NOREG PERATURAN DAERAH KOTA PEKALONGAN, PROVINSI JAWA TENGAH: ( 5 / 2015 )
+LEMBARAN DAERAH KOTA PEKALONGAN TAHUN 2015 NOMOR 5  
 
-##### PENJELASAN
+NOREG PERATURAN DAERAH KOTA PEKALONGAN, PROVINSI JAWA TENGAH: (5/2015)  
 
-##### ATAS
+# PENJELASAN ATAS PERATURAN DAERAH KOTA PEKALONGAN
 
-##### PERATURAN DAERAH KOTA PEKALONGAN
-
-##### NOMOR 5 TAHUN 2015
-
-##### TENTANG
-
-##### PENYELENGGARAAN PERLINDUNGAN TERHADAP
-
-##### KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
+NOMOR 5 TAHUN 2015 TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
 ##### I. UMUM
 
@@ -490,65 +509,67 @@ Nasib perempuan dan anak korban tindak kekerasan harus diperhatikan oleh pemerin
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Ayat (1) Apabila berdasarkan urgensi dan kajian memungkinkan, maka Lembaga Perlindungan Perempuan Anak dan Remaja dapat dibentuk sampai dengan tingkat Kelurahan.  
+Ayat (1)  
+Apabila berdasarkan urgensi dan kajian memungkinkan, maka Lembaga Perlindungan Perempuan Anak dan Remaja dapat dibentuk sampai dengan tingkat Kelurahan.  
 
-Ayat (2) Cukup jelas
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
@@ -568,64 +589,64 @@ Bentuk pelayanan dan pendampingan yang diselenggarakan oleh LP-PAR diberikan jug
 
 Perlindungan hukum terhadap kepentingan perempuan dalam memerankan kedudukannya dalam masyarakat perlu dilakukan penyiapan berbagai peraturan–perundangan, dan konsekuen penegakannya, serta kegiatan sosialisasi untuk penyadaran akan hak-dan kewajibannya. Selain itu, dibutuhkan dukungan yang bersifat non-hukum, karena hukum hanyalah salah satu sarana pengendalian sosial. Agenda-agenda aksi dari berbagai komponen masyakat secara integratif perlu dan harus segera direalisasikan.  
 
-Disamping itu dalam rangka pemberdayaan dan perlindungan perempuan perlu adanya pendampingan secara hukum, psikologis , sosial dan ekonomi manakala perempuan dihadapkan pada proses hukum.  
+Di samping itu dalam rangka pemberdayaan dan perlindungan perempuan perlu adanya pendampingan secara hukum, psikologis , sosial dan ekonomi manakala perempuan dihadapkan pada proses hukum.  
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 24
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 25
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 26
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 27
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 28
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 29
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 30
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 31
 
-Cukup jelas
+Cukup jelas.  
