@@ -372,26 +372,26 @@ Pemulihan Korban, Saksi, dan Pelaku
 1. Untuk kepentingan pemulihan, perempuan dan anak korban, saksi dan pelaku kekerasan dapat memperoleh pelayanan dari:  
 a. Lembaga sosial (kelompok atau institusi yang mempunyai ruang lingkup pada perempuan dan anak) dan atau;  
 b. Pekerja sosial (Individu yang mempunyai kompetensi melakukan pemulihan atau rehabilitasi) yaitu:  
-1/.Perawat
-2/.Tenaga kesehatan
-3/.Tenaga konseling
-2. Yang dimaksud memberikan pelayanan pemulihan yang  dilakukan oleh lembaga sosial sebagaimana dimaksud pada  ayat (1) huruf a adalah sebagai berikut:  
+1/. Perawat  
+2/. Tenaga kesehatan  
+3/. Tenaga konseling  
+2. Yang dimaksud memberikan pelayanan pemulihan yang dilakukan oleh lembaga sosial sebagaimana dimaksud pada ayat (1) huruf a adalah sebagai berikut:  
 a. relawan pendamping melakukan upaya:  
-1/. membangun hubungan yang setara dengan korban  agar bersedia membuka diri dalam mengemukakan  persoalannya;  
-2/. berempati dan tidak menyalahkan korban mengenai  atau yang terkait dengan permasalahannya;  
-3/. meyakinkan korban bahwa tidak seorang pun boleh  melakukan tindakan kekerasan;  
-4/. menanyakan apa yang ingin dilakukan dan bantuan  apa yang diperlukan;  
-5/. memberikan informasi dan menghubungkan dengan  lembaga atau perorangan yang dapat membantu  mengatasi persoalannya; dan/atau
+1/. membangun hubungan yang setara dengan korban agar bersedia membuka diri dalam mengemukakan persoalannya;  
+2/. berempati dan tidak menyalahkan korban mengenai atau yang terkait dengan permasalahannya;  
+3/. meyakinkan korban bahwa tidak seorang pun boleh melakukan tindakan kekerasan;  
+4/. menanyakan apa yang ingin dilakukan dan bantuan apa yang diperlukan;  
+5/. memberikan informasi dan menghubungkan dengan lembaga atau perorangan yang dapat membantu mengatasi persoalannya; dan/atau
 6/. membantu memberikan informasi tentang layanan konsultasi hukum  
 b. pembimbing rohani melakukan upaya:  
-1/. menggali informasi dan mendengarkan keluh kesah  dari korban;  
-2/. mempertebal keimanan dan ketakwaan korban serta  mendorong untuk menjalankan ibadat menurut  agama masing-masing korban dan kepercayaannya  itu.  
-3/. menyarankan pemecahan masalah kekerasan dalam  rumah tangga menurut agama masing-masing korban  dan kepercayaannya itu.  
+1/. menggali informasi dan mendengarkan keluh kesah dari korban;  
+2/. mempertebal keimanan dan ketakwaan korban serta mendorong untuk menjalankan ibadat menurut agama masing-masing korban dan kepercayaannya itu.  
+3/. menyarankan pemecahan masalah kekerasan dalam  rumah tangga menurut agama masing-masing korban dan kepercayaannya itu.  
 4/. memberikan pemahaman mengenai kesetaraan laki laki dan perempuan.  
-3. Yang dimaksud memberikan pelayanannya pemulihan yang  dilakukan oleh Pekerja sosial sebagaimana dimaksud pada  ayat (1) huruf b memiliki ketentuan sebagai berikut:  
-a. menggali permasalahan korban untuk membantu  pemecahan masalahnya;  
+3. Yang dimaksud memberikan pelayanannya pemulihan yang dilakukan oleh Pekerja sosial sebagaimana dimaksud pada  ayat (1) huruf b memiliki ketentuan sebagai berikut:  
+a. menggali permasalahan korban untuk membantu pemecahan masalahnya;  
 b. memulihkan korban dari kondisi traumatis melalui terapi psikososial;  
-c. melakukan rujukan ke rumah sakit atau rumah aman  atau pusat pelayanan atau tempat alternatif lainnya  sesuai dengan kebutuhan korban;  
+c. melakukan rujukan ke rumah sakit atau rumah aman atau pusat pelayanan atau tempat alternatif lainnya  sesuai dengan kebutuhan korban;  
 d. mendampingi korban dalam upaya pemulihan melalui  pendampingan dan konseling; dan/atau  
 e. melakukan resosialisasi agar korban dapat kembali melaksanakan fungsi sosialnya di dalam masyarakat.  
 
