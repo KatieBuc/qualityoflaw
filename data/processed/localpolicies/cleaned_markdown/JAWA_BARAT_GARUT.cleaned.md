@@ -368,8 +368,9 @@ a. pelayanan terhadap perempuan dan anak korban tindak kekerasan, meliputi:
 1. pelayanan pengaduan, konsultasi dan konseling;  
 2. pelayanan pendampingan;  
 3. pelayanan kesehatan;  
-4. pelayanan bantuan hukum; dan
+4. pelayanan bantuan hukum; dan  
 5. pelayanan pemulangan dan reintegrasi sosial.  
+
 b. pelayanan khusus terhadap perempuan korban tindak kekerasan dalam rumah tangga atau perdagangan orang, meliputi:  
 1. pelayanan pengaduan;  
 2. pelayanan penjemputan;  
