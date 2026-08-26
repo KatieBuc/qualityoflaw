@@ -1,36 +1,22 @@
-# LEMBARAN DAERAH
+# PENCEGAHAN, PERLINDUNGAN DAN PEMULIHAN PEREMPUAN DAN ANAK SEBAGAI KORBAN TINDAK KEKERASAN DI KABUPATEN INDRAMAYU
 
-# KABUPATEN INDRAMAYU
+LEMBARAN DAERAH  
 
-# NOMOR: 18 TAHUN 2012
+KABUPATEN INDRAMAYU  
 
-# PERATURAN DAERAH KABUPATEN INDRAMAYU NOMOR: 18 TAHUN 2012
+NOMOR: 18 TAHUN 2012  
 
-# TENTANG
+# PERATURAN DAERAH KABUPATEN INDRAMAYU  
 
-# PENCEGAHAN, PERLINDUNGAN DAN PEMULIHAN  PEREMPUAN DAN ANAK
+NOMOR 18 TAHUN 2012  
 
-# SEBAGAI KORBAN TINDAK KEKERASAN DI KABUPATEN INDRAMAYU
+TENTANG
 
-## BAGIAN HUKUM
+PENCEGAHAN, PERLINDUNGAN DAN PEMULIHAN PEREMPUAN DAN ANAK SEBAGAI KORBAN TINDAK KEKERASAN DI KABUPATEN INDRAMAYU  
 
-### SETDA KABUPATEN INDRAMAYU
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-Salinan
-
-### NO: 18/LD/2012
-
-### LEMBARAN DAERAH KABUPATEN INDRAMAYU NOMOR: 18 TAHUN 2012
-
-### PERATURAN DAERAH KABUPATEN INDRAMAYU NOMOR: 18 TAHUN 2012
-
-### TENTANG
-
-### PENCEGAHAN, PERLINDUNGAN DAN PEMULIHAN  PEREMPUAN DAN ANAK
-
-### SEBAGAI KORBAN TINDAK KEKERASAN DI KABUPATEN INDRAMAYU
-
-### DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI INDRAMAYU,
+BUPATI INDRAMAYU,  
 
 Menimbang:  
  
@@ -42,7 +28,6 @@ Menimbang:
  
 a. bahwa kekerasan terhadap  perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak sebagai korban kekerasan di Kabupaten Indramayu selama ini belum dilakukan secara optimal;  
-
 c.bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b tersebut diatas, perlu membentuk Peraturan Daerah tentang Pencegahan, Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban Tindak Kekerasan di Kabupaten Indramayu.  
 
 Mengingat:  
@@ -54,39 +39,34 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang–Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Berita Negara Republik Indonesia Tahun 1950) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan Mengubah Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Lembaran Negara Republik Indonesia  Tahun 1968 Nomor 31,  Tambahan Lembaran Negara  Republik Indonesia Nomor 2851);  
 3. Undang-Undang Nomor 7 Tahun  1984 tentang Pengesahan  Konvensi tentang Penghapusan  Segala Bentuk Diskriminasi  terhadap Perempuan (Convention  on The Elimination of All Forms  of Discrimination Againts  Women) (Lembaran Negara  Republik Indonesia Tahun 1984  Nomor 29, Tambahan Lembaran  Negara Republik Indonesia  Nomor 3668);  
 4. Undang-Undang Nomor 39  Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara  Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran  Negara Republik Indonesia  Nomor 3886);  
-5. Undang-Undang Nomor 23  Tahun 2002 tentang  Perlindungan Anak (Lembaran  Negara Republik Indonesia  Tahun 2002 Nomor 169,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4235);  
-6. Undang-Undang Nomor 23  Tahun 2004 tentang  Penghapusan Kekerasan Dalam  Rumah Tangga (Lembaran  Negara Republik Indonesia  Tahun 2004 Nomor 95,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4419);  
-7. Undang-Undang Nomor 32  Tahun 2004 tentang  Pemerintahan Daerah (Lembaran  Negara Republik Indonesia  Tahun 2004 Nomor 125,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4437)  sebagaimana telah diubah  keduakalinya dengan Undang- Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua Atas  Undang-Undang Nomor 32  Tahun 2004 tentang  Pemerintahan Daerah (Lembaran  Negara Republik Indonesia  Tahun 2008 Nomor 59,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4844);  
-8. Peraturan Pemerintah Nomor 4  Tahun 2006 tentang  Penyelenggaraan dan Kerjasama  Pemulihan Korban Kekerasan  dalam Rumah Tangga (Lembaran Negara Republik Indonesia  Tahun 2006 Nomor 15,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4604);  
-9. Peraturan Pemerintah Nomor 38  Tahun 2007 tentang Pembagian  Urusan Pemerintahan Antara  Pemerintah, Pemerintahan  Daerah Provinsi, dan  Pemerintahan Daerah  Kabupaten/Kota (Lembaran  Negara Republik Indonesia  Tahun 2007 Nomor 82,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4737);  
+5. Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak (Lembaran  Negara Republik Indonesia  Tahun 2002 Nomor 169,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4235);  
+6. Undang-Undang Nomor 23  Tahun 2004 tentang Penghapusan Kekerasan Dalam  Rumah Tangga (Lembaran  Negara Republik Indonesia  Tahun 2004 Nomor 95,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4419);  
+7. Undang-Undang Nomor 32  Tahun 2004 tentang Pemerintahan Daerah (Lembaran  Negara Republik Indonesia  Tahun 2004 Nomor 125,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4437)  sebagaimana telah diubah  kedua kalinya dengan Undang- Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua Atas  Undang-Undang Nomor 32  Tahun 2004 tentang  Pemerintahan Daerah (Lembaran  Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara  Republik Indonesia Nomor 4844);  
+8. Peraturan Pemerintah Nomor 4  Tahun 2006 tentang  Penyelenggaraan dan Kerjasama  Pemulihan Korban Kekerasan  dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4604);  
+9. Peraturan Pemerintah Nomor 38  Tahun 2007 tentang Pembagian  Urusan Pemerintahan Antara Pemerintah, Pemerintahan  Daerah Provinsi, dan  Pemerintahan Daerah  Kabupaten/Kota (Lembaran  Negara Republik Indonesia  Tahun 2007 Nomor 82,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4737);  
 10. Peraturan Pemerintah Nomor 41  Tahun 2007 tentang Organisasi  Perangkat Daerah (Lembaran  Negara Republik Indonesia  Tahun 2007 Nomor 89,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4741);  
-11. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara  dan Mekanisme Pelayanan  Terpadu bagi Saksi dan/atau  Korban Tindak Pidana  Perdagangan Orang (Lembaran  Negara Republik Indonesia  Tahun 2008 Nomor 22,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4818);  
-12. Peraturan Daerah Kabupaten  Indramayu Nomor 7 Tahun 2008 tentang Sekretariat Daerah dan  Sekretariat DPRD Kabupaten  Indramayu (Lembaran Daerah  Kabupaten Indramayu Tahun  2008 Nomor 7 Seri D.3);  
-13. Peraturan Daerah Kabupaten  Indramayu Nomor 8 Tahun 2008  tentang Dinas Daerah Kabupaten  Indramayu (Lembaran Daerah  Kabupaten Indramayu Tahun 2008 Nomor 8 Seri: D 4);  
-14. Peraturan Daerah Kabupaten  Indramayu Nomor 9 Tahun 2008  tentang Lembaga Teknis Daerah  dan Satuan Polisi Pamong Praja  Kabupaten Indramayu (Lembaran  Daerah Kabupaten Indramayu  Tahun 2008 Nomor 9 Seri D.5)  sebagaimana telah diubah  keduakalinya dengan Peraturan  Daerah Kabupaten Indramayu  Nomor 16 Tahun 2012 tentang  Perubahan Kedua Atas Peraturan  Daerah Kabupaten Indramayu  Nomor 9 Tahun 2008 tentang  Lembaga Teknis Daerah dan  Satuan Polisi Pamong Praja  Kabupaten Indramayu (Lembaran  Daerah Kabupaten Indramayu  Tahun 2012 Nomor 16).  
+11. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara  dan Mekanisme Pelayanan  Terpadu bagi Saksi dan/atau Korban Tindak Pidana  Perdagangan Orang (Lembaran  Negara Republik Indonesia  Tahun 2008 Nomor 22,  Tambahan Lembaran Negara  Republik Indonesia Nomor 4818);  
+12. Peraturan Daerah Kabupaten Indramayu Nomor 7 Tahun 2008 tentang Sekretariat Daerah dan  Sekretariat DPRD Kabupaten Indramayu (Lembaran Daerah  Kabupaten Indramayu Tahun  2008 Nomor 7 Seri D.3);  
+13. Peraturan Daerah Kabupaten Indramayu Nomor 8 Tahun 2008  tentang Dinas Daerah Kabupaten Indramayu (Lembaran Daerah Kabupaten Indramayu Tahun 2008 Nomor 8 Seri: D 4);  
+14. Peraturan Daerah Kabupaten  Indramayu Nomor 9 Tahun 2008  tentang Lembaga Teknis Daerah dan Satuan Polisi Pamong Praja Kabupaten Indramayu (Lembaran  Daerah Kabupaten Indramayu Tahun 2008 Nomor 9 Seri D.5) sebagaimana telah diubah kedua kalinya dengan Peraturan Daerah Kabupaten Indramayu Nomor 16 Tahun 2012 tentang Perubahan Kedua Atas Peraturan Daerah Kabupaten Indramayu Nomor 9 Tahun 2008 tentang Lembaga Teknis Daerah dan  Satuan Polisi Pamong Praja  Kabupaten Indramayu (Lembaran Daerah Kabupaten Indramayu  Tahun 2012 Nomor 16).  
 15. Peraturan Daerah Kabupaten Indramayu Nomor 5 Tahun 2012 tentang Tata Cara Pembentukan Produk Hukum Daerah Kabupaten Indramayu (Lembaran Daerah Kabupaten Indramayu Nomor 5 Tahun 2012).  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-### DEWAN PERWAKILAN RAKYAT DAERAH  KABUPATEN INDRAMAYU
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN INDRAMAYU  
 
-### BUPATI INDRAMAYU
+dan  
 
-### MEMUTUSKAN:
+BUPATI INDRAMAYU  
 
-Menetapkan: PERATURAN DAERAH TENTANG  PENCEGAHAN, PERLINDUNGAN
+MEMUTUSKAN:  
 
-### DAN PEMULIHAN PEREMPUAN
+Menetapkan:  
 
-### DAN ANAK SEBAGAI KORBAN
-
-### TINDAK KEKERASAN DI
-
-### KABUPATEN INDRAMAYU.  
+PERATURAN DAERAH TENTANG PENCEGAHAN, PERLINDUNGAN DAN PEMULIHAN PEREMPUAN DAN ANAK SEBAGAI KORBAN TINDAK KEKERASAN DI KABUPATEN INDRAMAYU.  
 
 # BAB I
 
@@ -94,28 +74,29 @@ Menetapkan: PERATURAN DAERAH TENTANG  PENCEGAHAN, PERLINDUNGAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud  dengan:
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 
-1. Daerah adalah Kabupaten Indramayu. 2. Pemerintah Daerah adalah Bupati beserta  Perangkat Daerah sebagai unsur penyelenggara  pemerintahan daerah.  
+1. Daerah adalah Kabupaten Indramayu.  
+2. Pemerintah Daerah adalah Bupati beserta Perangkat Daerah sebagai unsur penyelenggara  pemerintahan daerah.  
 3. Bupati adalah Bupati Indramayu.  
-4. Dewan Perwakilan Rakyat Daerah yang  selanjutnya disingkat DPRD adalah Dewan  Perwakilan Rakyat Daerah Kabupaten  Indramayu sebagai unsur penyelenggara  Pemerintahan Daerah.  
-5. Badan adalah Satuan Kerja Perangkat Daerah  yang berwenang di bidang Pencegahan,  Perlindungan dan Pemulihan Perempuan dan  Anak sebagai Korban Tindak Kekerasan di  Kabupaten Indramayu.  
-6. Perempuan adalah manusia dewasa berjenis  kelamin perempuan dan orang yang oleh  hukum diakui sebagai perempuan.  
-7. Anak adalah seseorang yang belum berusia 18  tahun, termasuk anak yang ada dalam  kandungan dan perkawinan tidak bisa  mengubah status anak.  
-8. Pencegahan adalah kegiatan yang dilakukan  untuk mencegah terjadinya tindak kekerasan  terhadap perempuan dan anak.  
-9. Pemulihan adalah merehabilitasi korban  sampai sehat secara fisik dan/ atau psikis dan  diterima oleh masyarakat kembali.  
-10. Perlindungan adalah kegiatan dan/atau  tindakan dalam rangka melindungi perempuan  dan anak dari kekerasan dan eksploitasi.  
-11. Kekerasan adalah setiap perbuatan yang  berakibat atau yang mengakibatkan  kesengsaraan dan penderitaan baik fisik,  seksual, psikologis termasuk ancaman  tindakan tertentu, pemaksaan atau  perampasan kemerdekaan secara sewenang- wenang, baik yang terjadi di depan umum atau  dalam kehidupan pribadi.  
+4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah Dewan  Perwakilan Rakyat Daerah Kabupaten  Indramayu sebagai unsur penyelenggara  Pemerintahan Daerah.  
+5. Badan adalah Satuan Kerja Perangkat Daerah yang berwenang di bidang Pencegahan,  Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban Tindak Kekerasan di  Kabupaten Indramayu.  
+6. Perempuan adalah manusia dewasa berjenis kelamin perempuan dan orang yang oleh  hukum diakui sebagai perempuan.  
+7. Anak adalah seseorang yang belum berusia 18 tahun, termasuk anak yang ada dalam  kandungan dan perkawinan tidak bisa  mengubah status anak.  
+8. Pencegahan adalah kegiatan yang dilakukan untuk mencegah terjadinya tindak kekerasan  terhadap perempuan dan anak.  
+9. Pemulihan adalah merehabilitasi korban sampai sehat secara fisik dan/ atau psikis dan  diterima oleh masyarakat kembali.  
+10. Perlindungan adalah kegiatan dan/atau tindakan dalam rangka melindungi perempuan  dan anak dari kekerasan dan eksploitasi.  
+11. Kekerasan adalah setiap perbuatan yang berakibat atau yang mengakibatkan  kesengsaraan dan penderitaan baik fisik, seksual, psikologis termasuk ancaman  tindakan tertentu, pemaksaan atau  perampasan kemerdekaan secara sewenang- wenang, baik yang terjadi di depan umum atau  dalam kehidupan pribadi.  
 12. Kekerasan fisik adalah setiap perbuatan yang  mengakibatkan rasa sakit, cedera, luka atau  cacat pada tubuh seseorang, gugurnya  kandungan atau pingsan dan/atau  menyebabkan kematian.  
-13. Kekerasan psikologis adalah perbuatan yang  mengakibatkan ketakutan, hilang rasa percaya  diri, hilangnya kemampuan untuk bertindak,  rasa tidak percaya atau penderitaan psikologis  berat pada seseorang.  
-14. Kekerasan seksual adalah setiap  perbuatan yang berupa pelecehan seksual,  pemaksaan hubungan seksual, baik dengan  tidak wajar maupun tidak disukai dengan  orang lain dengan tujuan komersial dan/atau  tujuan tertentu.  
-15. Korban adalah perempuan dan anak yang  mengalami tindak kekerasan, baik fisik, psikis  maupun kekerasan seksual.  
+13. Kekerasan psikologis adalah perbuatan yang  mengakibatkan ketakutan, hilang rasa percaya  diri, hilangnya kemampuan untuk bertindak, rasa tidak percaya atau penderitaan psikologis  berat pada seseorang.  
+14. Kekerasan seksual adalah setiap  perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, baik dengan  tidak wajar maupun tidak disukai dengan  orang lain dengan tujuan komersial dan/atau  tujuan tertentu.  
+15. Korban adalah perempuan dan anak yang mengalami tindak kekerasan, baik fisik, psikis  maupun kekerasan seksual.  
 16. Pelayanan adalah kegiatan dan  tindakan segera yang dilakukan oleh  tenaga profesional sesuai dengan profesi  masing-masing berupa konseling, terapi dan  advokasi guna penguatan dan pemulihan  korban kekerasan.  
 17. Pendampingan adalah kegiatan dan  tindakan yang dilakukan oleh pendamping  selama proses pelayanan.  
 18. Pendamping adalah orang atau perwakilan dari  lembaga yang mempunyai keahlian melakukan  pendampingan.  
 19. Lembaga adalah instansi/badan dan/atau  lembaga swadaya masyarakat (LSM) yang  melakukan pendampingan.  
 20. Pusat Pelayanan Terpadu yang kemudian  disingkat PPT, adalah lembaga penyedia  pelayanan terhadap korban kekerasan yang  berbasis rumah sakit, dikelola bersama-sama  dalam bentuk pelayanan medis (termasuk  medico-legal), psikososial dan pelayanan  hukum.  
-21. Rumah aman (Shelter) adalah tempat tinggal  sementara, yang diberikan untuk memberikan  perlindungan terhadap korban sesuai dengan  standar yang telah ditentukan.  
+21. Rumah aman (Shelter) adalah tempat tinggal  sementara, yang diberikan untuk memberikan perlindungan terhadap korban sesuai dengan  standar yang telah ditentukan.  
 22. Masyarakat adalah perseorangan, keluarga,  kelompok, organisasi sosial dan/atau  organisasi kemasyarakatan.  
 23. P2TP2A adalah merupakan salah satu bentuk  wahana pelayanan bagi perempuan dan anak  dalam upaya pemenuhan informasi dan  kebutuhan di bidang pendidikan, kesehatan,  ekonomi, hukum, perlindungan dan  penanggulangan tindak kekerasan serta  perdagangan terhadap perempuan dan anak.  
 
@@ -125,7 +106,7 @@ Dalam Peraturan Daerah ini yang dimaksud  dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Pencegahan, Perlindungan dan  Pemulihan Perempuan dan Anak sebagai Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:  
+Penyelenggaraan Pencegahan, Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:  
 a. Penghomatan terhadap hak-hak korban;  
 b. Keadilan dan kesejahteraan gender;  
 c. Non diskriminasi; dan  
@@ -133,7 +114,7 @@ d. Kepentingan terbaik bagi korban.
 
 #### Pasal 3
 
-Tujuan penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak sebagai  korban tindak kekerasan adalah memberikan  pencegahan dan perlindungan yang meliputi aspek:  
+Tujuan penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak sebagai  korban tindak kekerasan adalah memberikan pencegahan dan perlindungan yang meliputi aspek:  
 a. Pencegahan;  
 b. Pelayanan dan pendampingan;  
 c. Pemulihan; dan  
@@ -152,7 +133,7 @@ c. Pelayanan minimal sesuai Standar Pelayanan  Minimal (SPM);
 d. Penanganan berkelanjutan sampai tahap  rehabilitasi;  
 e. Penanganan secara rahasia;  
 f. Pendampingan secara psikologis dan hukum; dan  
-g. Jaminan atas hak-hak yang berkaitan dengan  status sebagai anggota keluarga maupun  anggota masyarakat.  
+g. Jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga maupun  anggota masyarakat.  
 
 # BAB IV
 
@@ -162,22 +143,16 @@ g. Jaminan atas hak-hak yang berkaitan dengan  status sebagai anggota keluarga m
 
 #### Pasal 5
 
-1. Pemerintah Daerah berkewajiban  melaksanakan upaya pencegahan terjadinya  kekerasan terhadap perempuan dan anak dalam bentuk:
-
-a.mengumpulkan data dan informasi tentang  perempuan dan anak korban kekerasan;  
+1. Pemerintah Daerah berkewajiban  melaksanakan upaya pencegahan terjadinya  kekerasan terhadap perempuan dan anak dalam bentuk:  
+a.mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan;  
 b.melakukan sosialisasi peraturan perundang- undangan yang berkaitan dengan  penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak  sebagai korban kekerasan dan eksploitasi;  
-c.melakukan sosialisasi tentang pemahaman  dan nilai-nilai anti kekerasan terhadap  Perempuan dan Anak melalui KIE  (komunikasi, informasi dan edukasi) baik  melalui masyarakat, sekolah dan perguruan  tinggi;  
-
-d.melakukan pemantauan dan evaluasi  terhadap penyelenggaraan pencegahan,  perlindungan dan pemulihan perempuan  dan anak sebagai korban kekerasan dan  eksploitasi.  
-
-2. Pemerintah Daerah dalam mengantisipasi  terjadinya tindak kekerasan terhadap  Perempuan dan Anak, berwenang menyediakan  dan menyelenggarakan layanan bagi korban  dalam bentuk:
-
-a.menyediakan dan memfasilitasi  terbentuknya lembaga pelayanan terpadu  untuk korban tindak kekerasan dengan  melibatkan lembaga dan unsur masyarakat;  
-b. mendorong kepedulian masyarakat akan  pentingnya perlindungan terhadap korban  tindak kekerasan;  
-
-c.melakukan pemberdayaan masyarakat  untuk pencegahan tindak kekerasan.  
-
-3. Kewajiban dan wewenang Pemerintah Daerah  dilaksanakan oleh Badan
+c.melakukan sosialisasi tentang pemahaman  dan nilai-nilai anti kekerasan terhadap  Perempuan dan Anak melalui KIE  (komunikasi, informasi dan edukasi) baik  melalui masyarakat, sekolah dan perguruan tinggi;  
+d.melakukan pemantauan dan evaluasi terhadap penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan  dan anak sebagai korban kekerasan dan eksploitasi.  
+2. Pemerintah Daerah dalam mengantisipasi  terjadinya tindak kekerasan terhadap Perempuan dan Anak, berwenang menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
+a.menyediakan dan memfasilitasi terbentuknya lembaga pelayanan terpadu untuk korban tindak kekerasan dengan melibatkan lembaga dan unsur masyarakat;  
+b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban  tindak kekerasan;  
+c.melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.  
+3. Kewajiban dan wewenang Pemerintah Daerah dilaksanakan oleh Badan
 
 # BAB V
 
@@ -189,9 +164,9 @@ Kelembagaan
 
 #### Pasal 6
 
-1. Dalam rangka Penyelenggaraan pencegahan, perlindungan dan pemulihan terhadap  perempuan dan anak korban tindak kekerasan  secara terpadu, selaras, dan berkesinam- bungan, Bupati membentuk P2TP2A tingkat  Kabupaten.  
-2. Ketentuan lebih lanjut mengenai pembentukan  kepengurusan P2TP2A, keanggotaan P2TP2A,  dan tata kerja P2TP2A sebagaimana dimaksud  pada ayat (1) diatur oleh Bupati.  
-3. P2TP2A Kabupaten dapat menerima rujukan  kasus dari Rumah Sakit, Puskesmas, LSM,  Rumah Aman (Shelter) maupun Masyarakat.  
+1. Dalam rangka Penyelenggaraan pencegahan, perlindungan dan pemulihan terhadap  perempuan dan anak korban tindak kekerasan secara terpadu, selaras, dan berkesinam- bungan, Bupati membentuk P2TP2A tingkat  Kabupaten.  
+2. Ketentuan lebih lanjut mengenai pembentukan  kepengurusan P2TP2A, keanggotaan P2TP2A,  dan tata kerja P2TP2A sebagaimana dimaksud pada ayat (1) diatur oleh Bupati.  
+3. P2TP2A Kabupaten dapat menerima rujukan kasus dari Rumah Sakit, Puskesmas, LSM,  Rumah Aman (Shelter) maupun Masyarakat.  
 
 ## Bagian Kedua
 
@@ -199,10 +174,8 @@ Bentuk dan Mekanisme Pencegahan
 
 #### Pasal 7
 
-Bentuk pencegahan terjadinya tindak kekerasan  terhadap perempuan dan anak yang dilakukan  oleh P2TP2A dapat dilaksanakan melalui:
-
+Bentuk pencegahan terjadinya tindak kekerasan  terhadap perempuan dan anak yang dilakukan  oleh P2TP2A dapat dilaksanakan melalui:  
 a.kegiatan sosialisasi peraturan perundang- undangan dan/atau peraturan daerah kepada  masyarakat yang berkaitan dengan  perlindungan hak-hak perempuan dan anak;  
-
 b.pelatihan anggota P2TP2A terkait tentang  pelaksanaan tugasnya dalam melakukan  pencegahan tindak kekerasan terhadap  perempuan dan anak.  
 
 #### Pasal 8
@@ -212,14 +185,12 @@ b.pelatihan anggota P2TP2A terkait tentang  pelaksanaan tugasnya dalam melakukan
 
 #### Pasal 9
 
-Bentuk pelayanan terhadap korban yang  diselenggarakan oleh P2TP2A meliputi:
-
+Bentuk pelayanan terhadap korban yang  diselenggarakan oleh P2TP2A meliputi:  
 a.pelayanan medis, berupa perawatan dan  pemulihan luka-luka fisik yang bertujuan untuk  pemulihan kondisi fisik korban yang dilakukan  oleh tenaga medis dan paramedis;  
-
 b.pelayanan medico-legal merupakan bentuk  layanan medis untuk kepentingan pembuktian  dibidang hukum;  
 c. Pelayanan psikologis merupakan pelayanan  yang diberikan dalam rangka memulihkan  kondisi traumatis korban, termasuk penyediaan  rumah aman untuk melindungi korban dari  berbagai ancaman dan intimidasi bagi korban  dan memberikan dukungan secara sosial  sehingga korban mempunyai rasa percaya diri,  kekuatan dan kemandirian, dalam  menyelesaikan masalahnya;  
-d. Pelayanan hukum untuk membantu korban  dalam menjalani proses hukum;  
-e. Pelayanan kemandirian ekonomi berupa  pelatihan keterampilan dan memberikan akses  ekonomi agar korban dapat mandiri.  
+d. Pelayanan hukum untuk membantu korban dalam menjalani proses hukum;  
+e. Pelayanan kemandirian ekonomi berupa pelatihan keterampilan dan memberikan akses  ekonomi agar korban dapat mandiri.  
 
 #### Pasal 10
 
@@ -258,7 +229,7 @@ Standar Pelayanan Minimal
 
 #### Pasal 13
 
-1. Dalam rangka Penyelenggaraan pencegahan,  perlindungan dan pemulihan terhadap  perempuan dan anak korban tindak kekerasan  secara terpadu, selaras, dan  berkesinambungan, Pemerintah Daerah menetapkan Standar Pelayanan Minimal (SPM).  
+1. Dalam rangka Penyelenggaraan pencegahan, perlindungan dan pemulihan terhadap  perempuan dan anak korban tindak kekerasan  secara terpadu, selaras, dan  berkesinambungan, Pemerintah Daerah menetapkan Standar Pelayanan Minimal (SPM).  
 2. Ketentuan lebih lanjut mengenai Standar  Pelayanan Minimal sebagaimana dimaksud  pada ayat (1), lebih lanjut diatur dengan  Peraturan Bupati.  
 3. Pemerintah Daerah berkewajiban menerapkan  Standar Pelayanan Minimal di Rumah Sakit,  Puskesmas, LSM, Rumah Aman (Shelter) yang  ditunjuk oleh Bupati.  
 
@@ -268,10 +239,10 @@ Bentuk dan Mekanisme Pemulihan
 
 #### Pasal 14
 
-Bentuk pemulihan terhadap korban perempuan  dan anak yang dilakukan oleh P2TP2A dapat  dilaksanakan melalui:  
-a. kegiatan rehabilitasi dan pendampingan  dilaksanakan maksimal sampai satu bulan;  
-b. P2TP2A wajib menyediakan sumber daya yang  berkompeten seperti psikiater dan psikolog;  
-c. P2TP2A wajib menyediakan test kesehatan fisik  dan psikis bagi korban tindak kekerasan;  
+Bentuk pemulihan terhadap korban perempuan dan anak yang dilakukan oleh P2TP2A dapat  dilaksanakan melalui:  
+a. kegiatan rehabilitasi dan pendampingan dilaksanakan maksimal sampai satu bulan;  
+b. P2TP2A wajib menyediakan sumber daya yang berkompeten seperti psikiater dan psikolog;  
+c. P2TP2A wajib menyediakan test kesehatan fisik dan psikis bagi korban tindak kekerasan;  
 
 # BAB VII
 
@@ -281,16 +252,16 @@ c. P2TP2A wajib menyediakan test kesehatan fisik  dan psikis bagi korban tindak 
 
 #### Pasal 15
 
-1. Bupati berwenang melakukan pembinaan,  pengendalian dan pengawasan terhadap  seluruh kegiatan yang berkaitan dengan  penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak korban  tindak kekerasan dan eksploitasi di daerah.  
+1. Bupati berwenang melakukan pembinaan, pengendalian dan pengawasan terhadap  seluruh kegiatan yang berkaitan dengan  penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak korban  tindak kekerasan dan eksploitasi di daerah.  
 2. Kewenangan sebagaimana dimaksud pada ayat  (1) secara teknis operasional dilaksanakan oleh  Badan.  
 
 #### Pasal 16
 
-Pembinaan, pengendalian dan pengawasan  sebagaimana dimaksud dalam Bab VII diarahkan  untuk:  
-a. meningkatkan derajat kesadaran masyarakat  sehingga mampu mencegah, melindungi  dan/atau memulihkan kondisi fisik dan atau  psikis perempuan dan anak korban tindak  kekerasan;  
+Pembinaan, pengendalian dan pengawasan sebagaimana dimaksud dalam Bab VII diarahkan  untuk:  
+a. meningkatkan derajat kesadaran masyarakat sehingga mampu mencegah, melindungi dan/atau memulihkan kondisi fisik dan atau psikis perempuan dan anak korban tindak kekerasan;  
 b. terpenuhinya kebutuhan masyarakat akan  informasi dan pelayanan perlindungan bagi  perempuan dan anak korban tindak kekerasan;  
-c. memberikan kemudahan dalam rangka  menunjang peningkatan upaya kegiatan  penyelenggaraan pencegahan, perlindungan,  pemulihan perempuan dan anak korban tindak  kekerasan;  
-d. meningkatkan mutu kesehatan bagi perempuan  dan anak yang mengalami tindak kekerasan.  
+c. memberikan kemudahan dalam rangka menunjang peningkatan upaya kegiatan  penyelenggaraan pencegahan, perlindungan, pemulihan perempuan dan anak korban tindak  kekerasan;  
+d. meningkatkan mutu kesehatan bagi perempuan dan anak yang mengalami tindak kekerasan.  
 
 # BAB VIII
 
@@ -298,13 +269,12 @@ d. meningkatkan mutu kesehatan bagi perempuan  dan anak yang mengalami tindak ke
 
 #### Pasal 17
 
-1. Masyarakat dapat berperan serta dalam upaya  pencegahan, perlindungan dan pemulihan  terhadap korban tindak kekerasan perempuan  dan anak.  
-2. Peran serta masyarakat sebagaimana dimaksud  pada ayat (1) dapat dilakukan oleh perorangan  atau organisasi.  
-3. Peran serta masyarakat sebagaimana dimaksud  pada ayat (2) dapat dilakukan dalam bentuk:  
-a. mencegah terjadinya tindak kekerasan  terhadap perempuan dan anak;  
-b. menyampaikan laporan kepada yang  berwajib apabila terjadi tindak kekerasan  terhadap perempuan dan anak;  
-
-c.memberikan bantuan terhadap korban  tindak kekerasan terhadap perempuan dan  anak.  
+1. Masyarakat dapat berperan serta dalam upaya pencegahan, perlindungan dan pemulihan  terhadap korban tindak kekerasan perempuan  dan anak.  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan atau organisasi.  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+b. menyampaikan laporan kepada yang berwajib apabila terjadi tindak kekerasan terhadap perempuan dan anak;  
+c.memberikan bantuan terhadap korban tindak kekerasan terhadap perempuan dan anak.  
 
 # BAB IX
 
@@ -312,12 +282,13 @@ c.memberikan bantuan terhadap korban  tindak kekerasan terhadap perempuan dan  a
 
 #### Pasal 18
 
-1. P2TP2A wajib melaporkan pelaksanaan  penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak korban  tindak kekerasan kepada Bupati.  
-2. Pelaporan sebagaimana dimaksud pada ayat (1)  meliputi:a. Administrasi;  
+1. P2TP2A wajib melaporkan pelaksanaan penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak korban tindak kekerasan kepada Bupati.  
+2. Pelaporan sebagaimana dimaksud pada ayat (1)  meliputi:  
+a. Administrasi;  
 b. Keuangan;  
 c. Pelayanan;  
 d. Kinerja.  
-3. Penyampaian laporan secara tertulis  sebagaimana dimaksud pada ayat (2)  dilaksanakan paling sedikit 3 (tiga) bulan  sekali.  
+3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada ayat (2)  dilaksanakan paling sedikit 3 (tiga) bulan  sekali.  
 
 # BAB X
 
@@ -325,9 +296,9 @@ d. Kinerja.
 
 #### Pasal 19
 
-1. Belanja program dan kegiatan Penyelenggaraan  Pencegahan, Perlindungan dan Pemulihan  Perempuan dan Anak sebagai Korban Tindak  Kekerasan bersumber dari APBD Kabupaten  Indramayu.  
-2. Selain bersumber dari APBD, belanja program  dan kegiatan sebagaimana dimaksud pada ayat  (1) dapat bersumber dari APBN, APBD Provinsi  dan sumber lain yang sah dan tidak mengikat.  
-3. Untuk menunjang belanja operasional P2TP2A,  dapat disediakan anggaran yang bersumber  dari Anggaran Pendapatan dan Belanja Daerah  (APBD).  
+1. Belanja program dan kegiatan Penyelenggaraan Pencegahan, Perlindungan dan Pemulihan  Perempuan dan Anak sebagai Korban Tindak Kekerasan bersumber dari APBD Kabupaten  Indramayu.  
+2. Selain bersumber dari APBD, belanja program dan kegiatan sebagaimana dimaksud pada ayat (1) dapat bersumber dari APBN, APBD Provinsi dan sumber lain yang sah dan tidak mengikat.  
+3. Untuk menunjang belanja operasional P2TP2A, dapat disediakan anggaran yang bersumber  dari Anggaran Pendapatan dan Belanja Daerah (APBD).  
 
 # BAB XI
 
@@ -335,8 +306,8 @@ d. Kinerja.
 
 #### Pasal 20
 
-1. Setiap orang yang menghalangi, mengganggu dan/atau menghambat pelaksanaan program  penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak korban  tindak kekerasan, diancam pidana kurungan  paling lama 3(tiga) bulan atau denda paling  banyak Rp. 50.000.000,00 (Lima Puluh Juta  Rupiah).  
-2. Selain tindak pidana sebagaimana dimaksud  pada ayat (1) baik berupa tindak pidana  pelanggaran dan/atau tindakan yang  mengakibatkan kerugian bagi Pemerintah  Daerah, orang pribadi atau pihak lain diancam  dengan hukum pidana sesuai dengan  peraturan perundang-undangan yang berlaku.  
+1. Setiap orang yang menghalangi, mengganggu dan/atau menghambat pelaksanaan program  penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak korban  tindak kekerasan, diancam pidana kurungan paling lama 3(tiga) bulan atau denda paling  banyak Rp. 50.000.000,00 (Lima Puluh Juta Rupiah).  
+2. Selain tindak pidana sebagaimana dimaksud  pada ayat (1) baik berupa tindak pidana  pelanggaran dan/atau tindakan yang mengakibatkan kerugian bagi Pemerintah Daerah, orang pribadi atau pihak lain diancam dengan hukum pidana sesuai dengan peraturan perundang-undangan yang berlaku.  
 
 # BAB XII
 
@@ -346,7 +317,8 @@ d. Kinerja.
 
 1. Pejabat Pegawai Negeri Sipil tertentu di  lingkungan Pemerintah Daerah diberi  wewenang khusus sebagai Penyidik untuk  melakukan penyidikan tindak pidana, sebagaimana dimaksud dalam Undang- Undang Hukum Acara Pidana.  
 2. Penyidik sebagaimana dimaksud pada ayat (1)  adalah pejabat pegawai negeri sipil tertentu di  lingkungan Pemerintah Daerah yang diangkat  oleh pejabat yang berwenang sesuai dengan  ketentuan peraturan perundang-undangan.  
-3. Wewenang Penyidik sebagaimana dimaksud  pada ayat (1) adalah:a. menerima, mencari, mengumpulkan, dan  meneliti keterangan atau laporan  berkenaan dengan tindak pidana agar  keterangan atau laporan tersebut menjadi  lebih lengkap dan jelas;  
+3. Wewenang Penyidik sebagaimana dimaksud  pada ayat (1) adalah:  
+a. menerima, mencari, mengumpulkan, dan  meneliti keterangan atau laporan  berkenaan dengan tindak pidana agar  keterangan atau laporan tersebut menjadi  lebih lengkap dan jelas;  
 b. meneliti, mencari, dan mengumpulkan  keterangan mengenai orang pribadi atau  Badan tentang kebenaran perbuatan yang  dilakukan sehubungan dengan tindak  pidana;  
 c. meminta keterangan dan bahan bukti dari  orang pribadi atau Badan sehubungan  dengan tindak pidana;  
 d. memeriksa buku, catatan, dan dokumen  lain berkenaan dengan tindak pidana;  
@@ -355,8 +327,9 @@ f. meminta bantuan tenaga ahli dalam rangka  pelaksanaan tugas penyidikan tindak
 g. menyuruh berhenti dan/atau melarang  seseorang meninggalkan ruangan atau  tempat pada saat pemeriksaan sedang  berlangsung dan memeriksa identitas  orang, benda, dan/atau dokumen yang  dibawa;  
 h. memotret seseorang yang berkaitan dengan  tindak pidana;  
 i. memanggil orang untuk didengar  keterangannya dan diperiksa sebagai  tersangka atau saksi;  
-j. menghentikan penyidikan; dan/atauk. melakukan tindakan lain yang perlu untuk  kelancaran penyidikan tindak pidana  sesuai dengan ketentuan peraturan  perundang-undangan.  
-4. Penyidik sebagaimana dimaksud pada ayat (1)  memberitahukan dimulainya penyidikan dan  menyampaikan hasil penyidikannya kepada  Penuntut Umum melalui Penyidik pejabat  Polisi Negara Republik Indonesia, sesuai  dengan ketentuan yang diatur dalam Undang Undang Hukum Acara Pidana.  
+j. menghentikan penyidikan; dan/atau  
+k. melakukan tindakan lain yang perlu untuk kelancaran penyidikan tindak pidana  sesuai dengan ketentuan peraturan  perundang-undangan.  
+4. Penyidik sebagaimana dimaksud pada ayat (1) memberitahukan dimulainya penyidikan dan  menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik pejabat  Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Undang Undang Hukum Acara Pidana.  
 
 # BAB XIII
 
@@ -364,33 +337,9 @@ j. menghentikan penyidikan; dan/atauk. melakukan tindakan lain yang perlu untuk 
 
 #### Pasal 22
 
-Peraturan Daerah ini mulai berlaku pada tanggal  diundangkan.  
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Agar setiap orang mengetahui, memerintahkan  pengundangan Peraturan Daerah ini dengan  penempatannya dalam Lembaran Daerah  Kabupaten Indramayu Ditetapkan di Indramayu pada tanggal 26 Desember 2012
-
-##### BUPATI INDRAMAYU,
-
-Cap/ttd
-
-##### ANNA SOPHANAH
-
-diundangkan di Indramayu pada tanggal 28 Desember 2012 SEKRETARIS DAERAH KABUPATEN INDRAMAYU, Cap/ttd
-
-##### AHMAD BAHTIAR
-
-##### LEMBARAN DAERAH KABUPATEN INDRAMAYU  TAHUN 2012 NOMOR 18
-
-Salinan sesuai dengan aslinya
-
-##### KEPALA BAGIAN HUKUM SETDA
-
-##### KABUPATEN INDRAMAYU
-
-##### SUNARDI, SH
-
-##### NIP. 19590411 198503 1 005
-
-Agar setiap orang mengetahui, memerintahkan  pengundangan Peraturan Daerah ini dengan  penempatannya dalam Lembaran Daerah  Kabupaten Indramayu Ditetapkan di Indramayu pada tanggal 26 Desember 2012
+Agar setiap orang mengetahui, memerintahkan pengundangan Peraturan Daerah ini dengan  penempatannya dalam Lembaran Daerah Kabupaten Indramayu Ditetapkan di Indramayu pada tanggal 26 Desember 2012
 
 ##### BUPATI INDRAMAYU,
 
@@ -398,57 +347,31 @@ Cap/ttd
 
 ##### ANNA SOPHANAH
 
-diundangkan di Indramayu pada tanggal 28 Desember 2012 SEKRETARIS DAERAH KABUPATEN INDRAMAYU, Cap/ttd
+diundangkan di Indramayu  
 
-##### AHMAD BAHTIAR
+pada tanggal 28 Desember 2012  
 
-##### LEMBARAN DAERAH KABUPATEN INDRAMAYU  TAHUN 2012 NOMOR 18
+SEKRETARIS DAERAH KABUPATEN INDRAMAYU,  
 
-Salinan sesuai dengan aslinya
+Cap/ttd  
 
-##### KEPALA BAGIAN HUKUM SETDA
+AHMAD BAHTIAR  
 
-##### KABUPATEN INDRAMAYU
+LEMBARAN DAERAH KABUPATEN INDRAMAYU TAHUN 2012 NOMOR 18  
 
-##### SUNARDI, SH
+Salinan sesuai dengan aslinya  
 
-##### NIP. 19590411 198503 1 005
+KEPALA BAGIAN HUKUM SETDA  
 
-Agar setiap orang mengetahui, memerintahkan  pengundangan Peraturan Daerah ini dengan  penempatannya dalam Lembaran Daerah  Kabupaten Indramayu Ditetapkan di Indramayu pada tanggal 26 Desember 2012
+KABUPATEN INDRAMAYU  
 
-##### BUPATI INDRAMAYU,
+SUNARDI, SH  
 
-Cap/ttd
+NIP. 19590411 198503 1 005  
 
-##### ANNA SOPHANAH
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN INDRAMAYU 
 
-diundangkan di Indramayu pada tanggal 28 Desember 2012 SEKRETARIS DAERAH KABUPATEN INDRAMAYU, Cap/ttd
-
-##### AHMAD BAHTIAR
-
-##### LEMBARAN DAERAH KABUPATEN INDRAMAYU  TAHUN 2012 NOMOR 18
-
-Salinan sesuai dengan aslinya
-
-##### KEPALA BAGIAN HUKUM SETDA
-
-##### KABUPATEN INDRAMAYU
-
-##### SUNARDI, SH
-
-##### NIP. 19590411 198503 1 005
-
-##### PENJELASAN
-
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN INDRAMAYU NOMOR: 18 TAHUN 2012
-
-##### TENTANG
-
-##### PENCEGAHAN, PERLINDUNGAN DAN PEMULIHAN  PEREMPUAN DAN ANAK
-
-##### SEBAGAI KORBAN TINDAK KEKERASAN DI KABUPATEN INDRAMAYU
+NOMOR 18 TAHUN 2012 TENTANG PENCEGAHAN, PERLINDUNGAN DAN PEMULIHAN PEREMPUAN DAN ANAK SEBAGAI KORBAN TINDAK KEKERASAN DI KABUPATEN INDRAMAYU  
 
 ##### I. UMUM
 
@@ -472,7 +395,7 @@ Dari kerangka diatas, maka pemerintah  daerah bertanggung jawab untuk melakukan 
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
@@ -486,126 +409,195 @@ Yang dimaksud dengan “Kepentingan  yang terbaik bagi korban” adalah semua  t
 
 #### Pasal 3
 
-Huruf a Aspek “pencegahan” adalah upaya strategi  perlindungan melalui:  
+Huruf a  
+Aspek “pencegahan” adalah upaya strategi  perlindungan melalui:    
 a. Pencegahan primer, semua orang,  keluarga, masyarakat dan negara  dalam upaya peningkatan kemampuan  pengetahuan, pemahaman dan  menjaga agar kekerasan terhadap  perempuan dan anak tidak terjadi,  meliputi sosialisasi kebijakan,  pelayanan yang memadai, kebijakan  tempat bekerja yang mendukung, serta  pelatihan live skill bagi perempuan dan  anak.  
 
 Yang dimaksud dengan pelatihan live  skill meliputi penyelesaian konflik  tanpa kekerasan, keterampilan  menangani stress, manajemen sumber  daya, membuat keputusan efektif,  komunikasi interpersonal secara  efektif, tuntunan perkembangan  psikososial perempuan dan anak.  
+
 b. Pencegahan sekunder, ditujukan bagi  kelompok masyarakat dengan resiko  tinggi dalam upaya meningkatkan  keterampilan, termasuk pelatihan dan  layanan korban untuk menjaga agar  kekerasn terhadap perempuan dan  anak tidak terjadi pada generasi  berikut. Kegiatan yang dilakukan di  sini di antaranya dengan melakukan  kunjungan rumah bagi orang tua yang  baru mempunyai anak untuk  melakukan self assesment apakah  mereka beresiko melakukan kekerasan  pada anak dikemudian hari.  c. Pencegahan tersier, dimaksudkan  untuk meningkatkan kemampuan  pengasuhan yang menjaga agar  kekerasan terhadap prempuan dan  anak tidak terulang lagi, di sini yang  dilakukan adalah pelayanan terpadu  untuk perempuan dan anak yang  menjadi korban kekerasan, melalui  konseling, pelatihan tatalaksana stres.  
 
-Huruf b Aspek “pelayanan dan pendampingan”  adalah kegiatan dan tindakan segera yang  dilakukan oleh tenaga profesional dan  pendampingan sesuai dengan profesi  masing-masing berupa konseling, terapi  dan advokasi guna penguat dan  pemulihan korban kekerasan.  
+Huruf b  
+Aspek “pelayanan dan pendampingan”  adalah kegiatan dan tindakan segera yang  dilakukan oleh tenaga profesional dan  pendampingan sesuai dengan profesi  masing-masing berupa konseling, terapi  dan advokasi guna penguat dan  pemulihan korban kekerasan.  
 
-Huruf c Aspek “pemulihan” adalah upaya  mengembalikan dan memulihkan kondisi  fisik dan kejiwaan korban yang kemudian  menyatukan dengan keluarga korban dan  masyarakatnya.  
+Huruf c  
+Aspek “pemulihan” adalah upaya  mengembalikan dan memulihkan kondisi  fisik dan kejiwaan korban yang kemudian  menyatukan dengan keluarga korban dan  masyarakatnya.  
 
-Huruf d Aspek “pemberdayaan” adalah proses  meningkatkan peran masyarakat untuk  berpartisipasi dalam penyelenggaraan  perlindungan bagi perempuan dan anak  korban tindak kekerasan yang bertujuan  dapat memperoleh akses dan partisipasi  dalam proses perlindungan terhadap  perempuan dan anak secara luas.  
+Huruf d  
+Aspek “pemberdayaan” adalah proses  meningkatkan peran masyarakat untuk  berpartisipasi dalam penyelenggaraan  perlindungan bagi perempuan dan anak  korban tindak kekerasan yang bertujuan  dapat memperoleh akses dan partisipasi  dalam proses perlindungan terhadap  perempuan dan anak secara luas.  
 
 #### Pasal 4
 
-Huruf a Yang dimaksud dengan “mendapatkan  perlindungan” adalah mendapatkan  perlindungan dari individu, kelompok dan  lembaga baik pemerintah maupun non  pemerintah.  
+Huruf a  
+Yang dimaksud dengan “mendapatkan  perlindungan” adalah mendapatkan  perlindungan dari individu, kelompok dan  lembaga baik pemerintah maupun non  pemerintah.  
 
-Huruf b Yang dimaksud dengan “mendapatkan  informasi” adalah aksesdan keterangan  tentang keberadaan tempat pengaduan,  PPT, dan segala hal-hal yang  berhubungan dengan penuhan hak- haknya dan terlibat dalam proses  pengambilan keputusan yang berkaitan  dengan pendampingan dan perkembangan  perkara.  
+Huruf b  
+Yang dimaksud dengan “mendapatkan  informasi” adalah aksesdan keterangan  tentang keberadaan tempat pengaduan,  PPT, dan segala hal-hal yang  berhubungan dengan penuhan hak- haknya dan terlibat dalam proses  pengambilan keputusan yang berkaitan  dengan pendampingan dan perkembangan  perkara.  
 
-Huruf c Yang dimaksud dengan “pelayanan  minimal” adalah pelayanan yang  mencakup medis, medicolegal ektensial,  psikososial dan hukum.  
+Huruf c  
+Yang dimaksud dengan “pelayanan  minimal” adalah pelayanan yang  mencakup medis, medicolegal ektensial,  psikososial dan hukum.  
 
-Huruf d Yang dimaksud dengan “penanganan  berkelanjutan sampai tahap rehabilitasi”  adalah penanganan yang tidak berhenti  sampai penyembuhan fisik dan psikis,  tapi sampai korban dapat menjalani  kehidupan kembali dalam masyarakat  termasuk dalam pemulihan nama  baiknya.  
+Huruf d  
+Yang dimaksud dengan “penanganan  berkelanjutan sampai tahap rehabilitasi”  adalah penanganan yang tidak berhenti  sampai penyembuhan fisik dan psikis,  tapi sampai korban dapat menjalani  kehidupan kembali dalam masyarakat  termasuk dalam pemulihan nama  baiknya.  
 
-Huruf e Yang dimaksud dengan “penanganan  secara rahasia” adalah upaya jaminan  kepastian bagi korban untuk tidak  disebarluaskan mengenai identitas  dirinya, perawatan medis dan penanganan  hukum.  
+Huruf e  
+Yang dimaksud dengan “penanganan  secara rahasia” adalah upaya jaminan  kepastian bagi korban untuk tidak  disebarluaskan mengenai identitas  dirinya, perawatan medis dan penanganan  hukum.  
 
-Huruf f Yang dimaksud dengan “mendapatkan  pendampingan secara psikologis” adalah  bantuan yang diberikan oleh psikolog  kepada korban yang menderita  trauma/masalah kejiwaan lainnya untuk  memulihkan kembali kondisi kejiwaan  korban. Sedangkan pendampingan secara  hukum adalah upaya bantuan yang  diberikan oleh orang dan/atau lembaga  bantuan hukum kepada orang pada setiap  tingkatan pemeriksaan dan selama proses  hukum berjalan.  
+Huruf f  
+Yang dimaksud dengan “mendapatkan  pendampingan secara psikologis” adalah  bantuan yang diberikan oleh psikolog  kepada korban yang menderita  trauma/masalah kejiwaan lainnya untuk  memulihkan kembali kondisi kejiwaan  korban. Sedangkan pendampingan secara  hukum adalah upaya bantuan yang  diberikan oleh orang dan/atau lembaga  bantuan hukum kepada orang pada setiap  tingkatan pemeriksaan dan selama proses  hukum berjalan.  
 
-Huruf g Yang dimaksud dengan “jaminan atas  hak-hak yang berkaitan dengan status  korban” adalah upaya memberi kepastian  dan perlindungan bagi korban sebagai  anggota keluarga dan masyarakat.  
+Huruf g  
+Yang dimaksud dengan “jaminan atas  hak-hak yang berkaitan dengan status  korban” adalah upaya memberi kepastian  dan perlindungan bagi korban sebagai  anggota keluarga dan masyarakat.  
 
 #### Pasal 5
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 6
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 11
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 12
 
-Huruf a - Yang dimaksud dengan “cepat” adalah  tindakan segera yang dilakukan tanpa  berbelit-belit atau prosedur  dipermudah.  
+Huruf a  
+Yang dimaksud dengan “cepat” adalah  tindakan segera yang dilakukan tanpa  berbelit-belit atau prosedur  dipermudah.  
 
 Yang dimaksud dengan “aman” adalah  jaminan perlindungan pelayanan yang  terasa nyaman, tidak diganggu, dan  dilayani dengan ramah, menghormati  dan menghargai.  
 
 Yang dimaksud dengan “empati” adalah  tindakan menghargai, menghormati,  menyayangi, bersahabat, dan  membahagiakan yang bertujuan  menyenangkan dan menentramkan hati  korban.  
+Huruf b  
+Yang dimaksud dengan “adanya jaminan  kerahasiaan” adalah upaya jaminan  kepastian bagi korban untuk tidak  disebarluaskan mengenai identitas  dirinya, perawatan medis dan penanganan  hukum.  
 
-Huruf b Yang dimaksud dengan “adanya jaminan  kerahasiaan” adalah upaya jaminan  kepastian bagi korban untuk tidak  disebarluaskan mengenai identitas  dirinya, perawatan medis dan penanganan  hukum.  
+Huruf c  
+Yang dimaksud dengan “mudah  dijangkau” adalah penyelenggaraan  pelayanan dan pendampingan untuk  semua orang tanpa memandang status  sosialnya, sehingga pelayanan tersebut  murah bagi kalangan tidak mampu atau  relatif cukup bagi kalangan mampu.  
 
-Huruf c Yang dimaksud dengan “mudah  dijangkau” adalah penyelenggaraan  pelayanan dan pendampingan untuk  semua orang tanpa memandang status  sosialnya, sehingga pelayanan tersebut  murah bagi kalangan tidak mampu atau  relatif cukup bagi kalangan mampu.  
-
-Huruf d Yang dimaksud dengan “tidak dipungut  biaya” adalah kegiatan penyelenggaraan  pelayanan dan pendampingan yang  dilakukan oleh PPT tidak dibebankan  pada korban.  
+Huruf d  
+Yang dimaksud dengan “tidak dipungut  biaya” adalah kegiatan penyelenggaraan  pelayanan dan pendampingan yang  dilakukan oleh PPT tidak dibebankan  pada korban.  
 
 #### Pasal 13
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 16
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 17
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 18
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH
+TAMBAHAN LEMBARAN DAERAH  
 
-##### KABUPATEN INDRAMAYU NOMOR 5
+KABUPATEN INDRAMAYU NOMOR 5  
 
-Salinan sesuai dengan aslinya
+Salinan sesuai dengan aslinya  
 
-##### KEPALA BAGIAN HUKUM SETDA KABUPATEN INDRAMAYU
+KEPALA BAGIAN HUKUM SETDA KABUPATEN INDRAMAYU  
 
-##### MAMAN KOSTAMAN, SH
+MAMAN KOSTAMAN, SH  
 
-Pembina Tk I
+Pembina Tk I  
 
-##### NIP. 19620610 1999103 1 006
+NIP. 19620610 1999103 1 006  
