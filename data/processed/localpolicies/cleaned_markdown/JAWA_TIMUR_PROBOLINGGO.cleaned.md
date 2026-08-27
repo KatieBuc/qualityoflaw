@@ -1,18 +1,20 @@
-# SALINANBUPATI PROBOLINGGO
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
 
-# PROVINSI JAWA TIMUR
+SALINAN BUPATI PROBOLINGGO  
+
+PROVINSI JAWA TIMUR  
 
 # PERATURAN DAERAH KABUPATEN PROBOLINGGO
 
-# NOMOR: 2 TAHUN 2019
+NOMOR 2 TAHUN 2019  
 
-# TENTANG
+TENTANG  
 
-# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI PROBOLINGGO,
+BUPATI PROBOLINGGO,  
 
 Menimbang:  
  
@@ -36,7 +38,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa Timur (Berita Negara Tahun 1950 Nomor 41) sebagaimana telah diubah dengan Undang-Undang Nomor 2 Tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 2730);  
 3. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Nomor 3143);  
 4. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskriminasi terhadap Perempuan (Convention on The Elimination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia 3668);  
@@ -45,7 +46,7 @@ Mengingat:
 7. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
 8. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Saksi dan Korban (Lembara Negara Republik  Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 4635);  
 9. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007  Nomor 58, Tambahan Lembaran Negara Republik Indonesia  Nomor 4720);  
-10. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-Undangan (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 82,  Tambahan Lembaran Negara 5234);  
+10. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-Undangan (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara 5234);  
 11. Undang-Undang Nomor 11 Tahun 2012 tentang Sistem  Peradilan Anak (Lembaran Negara Republik Indonesia  Tahun 2012 Nomor 153 Tambahan Lembaran Negara  Republik Indonesia Nomor 5332);  
 12. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran  Negara Republik Indonesia Nomor 5512) sebagaimana telah  diubah beberapa kali terakhir dengan Undang-Undang  Nomor 9 Tahun 2015 (Lembaran Negara Republik Indonesia  Tahun 2015 Nomor 24, Tambahan Lembaran Negara  Republik Indonesia Nomor 5657);  
 13. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  penyelenggaraan dan Kerjasama Pemulihan Korban  Kekerasan dalam Rumah tangga (Lembaran Negara  Republik Indonesia Tahun 2006 Nomor 15, Tambahan  Lembaran Negara Republik Indonesia nomor 64);  
@@ -59,13 +60,19 @@ Mengingat:
 21. Peraturan Daerah Provinsi Jawa Timur Nomor 2  Tahun 2014 tentang Penyelenggaraan Perlindungan  Anak (Lembaran Daerah Provinsi Jawa Timur Tahun 2014  Nomor 2 Seri D, Tambahan Lembaran Daerah Provinsi Jawa  Timur Nomor 38);  
 22. Peraturan Daerah Kabupaten Probolinggo Nomor 6  Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah.  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PROBOLINGGO dan
+Dengan Persetujuan Bersama  
 
-# BUPATI PROBOLINGGO
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PROBOLINGGO  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN ANAK.  
+BUPATI PROBOLINGGO. 
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -73,10 +80,10 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Probolinggo.  
-2. Pemerintah Daerah adalah Pemerintah Kabupaten Probolinggo. 3. Bupati adalah Bupati Probolinggo.  
+2. Pemerintah Daerah adalah Pemerintah Kabupaten Probolinggo.  
+3. Bupati adalah Bupati Probolinggo.  
 4. Dinas adalah Perangkat Daerah yang mempunyai tugas dan fungsi  perlindungan perempuan dan anak.  
 5. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak yang selanjutnya  disingkat PPT adalah pusat pelayanan yang terintegrasi dalam upaya  pemberdayaan perempuan di berbagai bidang pembangunan serta perlindungan  perempuan dan anak dari berbagai jenis diskriminasi dan tindak kekerasan,  termasuk perdagangan orang, yang dibentuk oleh Pemerintah Daerah atau  berbasis masyarakat.  
 6. Perlindungan Perempuan dan Anak adalah segala kegiatan untuk melindungi  hak-hak perempuan dan anak serta memberikan rasa aman dalam pemenuhan  hak-haknya tanpa kekerasan dan diskriminasi sesuai harkat dan martabat  kemanusiaan.  
@@ -102,7 +109,8 @@ Penyelenggaraan perlindungan perempuan dan anak berdasarkan asas:
 a. penghormatan dan pemenuhan terhadap hak anak dan perempuan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. kepentingan terbaik bagi perempuan dan anak korban kekerasan; dan e. kepastian hukum.  
+d. kepentingan terbaik bagi perempuan dan anak korban kekerasan; dan  
+e. kepastian hukum.  
 
 #### Pasal 3
 
@@ -145,7 +153,8 @@ Bupati menetapkan kebijakan dasar penyelenggaraan perlindungan perempuan dan  an
 
 1. Kebijakan dasar sebagaimana dimaksud dalam Pasal 6 dijabarkan dalam  Rencana Aksi Daerah.  
 2. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (1) terintegrasi dengan  dokumen Rencana Pembangunan Jangka Panjang Daerah, Rencana  Pembangunan Jangka Menengah Daerah dan Rencana Kerja Pemerintah  Daerah.  
-3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (1) sekurang-kurangnya  memuat:a. program dan kegiatan aksi perlindungan perempuan dan anak, termasuk  perempuan dan anak korban kekerasan;  
+3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (1) sekurang-kurangnya  memuat:  
+a. program dan kegiatan aksi perlindungan perempuan dan anak, termasuk  perempuan dan anak korban kekerasan;  
 b. program dan kegiatan aksi daerah untuk mencegah segala bentuk kekerasan  dan diskriminasi terhadap perempuan dan anak;  
 c. program dan kegiatan aksi perbaikan dan peningkatan pelayanan  perlindungan perempuan dan anak korban kekerasan; dan  
 d. program dan kegiatan aksi pemberdayaan perempuan dan anak korban  kekerasan.  
@@ -198,19 +207,23 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 10 huruf b disebabkan  karena 
 Kekerasan seksual sebagaimana dimaksud dalam Pasal 10 huruf c  disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
-c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau  d. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan  atau tujuan tertentu.  
+c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau  
+d. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan  atau tujuan tertentu.  
 
 #### Pasal 14
 
-Penelantaran sebagaimana dimaksud dalam Pasal 10 huruf d disebabkan karena:  a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas pengasuhan;  
+Penelantaran sebagaimana dimaksud dalam Pasal 10 huruf d disebabkan karena:  
+a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali atau  pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal  menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian  ia wajib memberikan penghidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/atau
 d. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar  rumah sehingga korban berada di bawah kendali orang tersebut.  
 
 #### Pasal 15
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 10 huruf e disebabkan karena:  a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
-b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak  terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktek  serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi,  atau secara melawan hukum memindahkan atau mentransplantasi organ  dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil  maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ seksual atau organ tubuh lain dari korban  untuk mendapatkan keuntungan, termasuk tidak terbatas pada semua kegiatan  pelacuran atau pencabulan.  
+Eksploitasi sebagaimana dimaksud dalam Pasal 10 huruf e disebabkan karena:  
+a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
+b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak  terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktek  serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi,  atau secara melawan hukum memindahkan atau mentransplantasi organ  dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil  maupun immateriil; dan/atau  
+c. segala bentuk pemanfaatan organ seksual atau organ tubuh lain dari korban  untuk mendapatkan keuntungan, termasuk tidak terbatas pada semua kegiatan  pelacuran atau pencabulan.  
 
 ### Paragraf 2
 
@@ -218,7 +231,8 @@ Hak-Hak Korban
 
 #### Pasal 16
 
-Setiap perempuan dan anak korban kekerasan berhak mendapatkan:  a. perlindungan;  
+Setiap perempuan dan anak korban kekerasan berhak mendapatkan:  
+a. perlindungan;  
 b. informasi;  
 c. pelayanan prima;  
 d. penanganan berkelanjutan sampai tahap rehabilitasi;  
@@ -268,7 +282,8 @@ c. pemberdayaan.
 
 #### Pasal 22
 
-1. Pemerintah Daerah melakukan pencegahan sebagaiamana dimaksud dalam  Pasal 21 huruf a dengan cara:a. menyosialisasikan peraturan perundang-undangan yang berkaitan dengan  penyelenggaraan perlindungan perempuan dan anak;  
+1. Pemerintah Daerah melakukan pencegahan sebagaiamana dimaksud dalam  Pasal 21 huruf a dengan cara:  
+a. menyosialisasikan peraturan perundang-undangan yang berkaitan dengan  penyelenggaraan perlindungan perempuan dan anak;  
 b. memberikan konseling/bimbingan;  
 c. memberikan pendidikan tentang bahaya kekerasan dalam rumah tangga;  
 d. membentuk jaringan kerjasama dalam upaya pencegahan kekerasan;  
@@ -281,12 +296,14 @@ h. meningkatkan kesadaran masyarakat dalam berperilaku yang sesuai dengan  norma
 
 #### Pasal 23
 
-1. Pelayanan sebagaimana dimaksud dalam Pasal 21huruf b diselenggarakan  melalui kegiatan:a. pelayanan pengaduan;  
+1. Pelayanan sebagaimana dimaksud dalam Pasal 21huruf b diselenggarakan melalui kegiatan:  
+a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. konseling;  
 d. bimbingan rohani;  
 e. pelayanan sosial;  
-f. pelayanan bantuan dan pendampingan hukum; dan/ataug. pemulangan dan reintegrasi.  
+f. pelayanan bantuan dan pendampingan hukum; dan/atau  
+g. pemulangan dan reintegrasi.  
 2. Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan:  
 a. cepat dan tepat;  
 b. aman dan nyaman;  
@@ -299,15 +316,17 @@ g. dijamin kerahasiaannya.
 
 #### Pasal 24
 
-1. Pemberdayaan sebagaimana dimaksud dalam Pasal 21 huruf c diselenggarakan  melalui:a. pelatihan kerja;  
+1. Pemberdayaan sebagaimana dimaksud dalam Pasal 21 huruf c diselenggarakan  melalui:  
+a. pelatihan kerja;  
 b. usaha ekonomis produktif dan kelompok usaha bersama; dan c. bantuan permodalan.  
-2. Pelatihan kerja sabagaimana dimaksud pada ayat (1) huruf a meliputi:  
+2. Pelatihan kerja sebagaimana dimaksud pada ayat (1) huruf a meliputi:  
 a. pelatihan keterampilan;  
 b. praktek kerja lapangan; dan  
 c. pemagangan.  
-3. Usaha ekonomis produktif dan kelompok usaha bersama sabagaimana  dimaksud pada ayat (1) huruf b meliputi:a. pelatihan keterampilan wirausaha; dan  
+3. Usaha ekonomis produktif dan kelompok usaha bersama sebagaimana dimaksud pada ayat (1) huruf b meliputi:  
+a. pelatihan keterampilan wirausaha; dan  
 b. pendampingan pelaku usaha.  
-4. Bantuan permodalan sabagaimana dimaksud pada ayat (1) huruf c meliputi:  
+4. Bantuan permodalan sebagaimana dimaksud pada ayat (1) huruf c meliputi:  
 a. bantuan sarana dan prasarana; dan  
 b. fasilitas bantuan modal kerja/usaha.  
 5. Pemberdayaan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PPT.  
@@ -318,8 +337,9 @@ Perlindungan Khusus Anak
 
 #### Pasal 25
 
-1. Pemerintah Daerah berkewajiban dan bertanggungjawab menyelenggarakan  perlindungan khusus anak.  
-2. Perlindungan khusus anak sebagaimana dimaksud pada ayat (1) diberikan  kepada:a. anak dalam situasi darurat;  
+1. Pemerintah Daerah berkewajiban dan bertanggungjawab menyelenggarakan perlindungan khusus anak.  
+2. Perlindungan khusus anak sebagaimana dimaksud pada ayat (1) diberikan  kepada:  
+a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum;  
 c. anak dari kelompok minoritas dan terisolasi;  
 d. anak yang dieksploitasi secara ekonomi dan/atau seksual;  
@@ -334,7 +354,7 @@ l. anak penyandang disabilitas;
 m. anak korban perlakuan salah dan penelantaran;  
 n. anak dengan perilaku sosial menyimpang; dan  
 o. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengankondisi  orang tuanya.  
-3. Ketentuan mengenai tata cara perlindungan khusus anak sebagaimana  dimaksud pada ayat (2) diatur lebih lanjut dengan Peraturan Bupati.  
+3. Ketentuan mengenai tata cara perlindungan khusus anak sebagaimana dimaksud pada ayat (2) diatur lebih lanjut dengan Peraturan Bupati.  
 
 ## Bagian Keempat
 
@@ -351,11 +371,11 @@ Pemulihan Korban, Saksi, dan Pelaku
 
 #### Pasal 27
 
-Untuk kepentingan pemulihan, perempuan dan anak korban, saksi dan  pelakukekerasan dapat memperoleh pelayanan dari:  
+Untuk kepentingan pemulihan, perempuan dan anak korban, saksi dan pelaku kekerasan dapat memperoleh pelayanan dari:  
 a. Lembaga sosial (kelompok atau institusi yang mempunyai ruang lingkup pada  perempuan dan anak) dan atau;  
 b. Pekerja sosial (Individu yang mempunyai kopetensi melakukan pemulihan atau  rehabilitasi) yaitu:
-1. Perawat
-2. Tenaga kesehatan
+1\. Perawat
+2\. Tenaga kesehatan
 
 #### Pasal 28
 
@@ -375,7 +395,8 @@ b. Pekerja sosial (Individu yang mempunyai kopetensi melakukan pemulihan atau  r
 #### Pasal 30
 
 1. Dalam rangka penyelenggaraan perlindungan perempuan dan anak, Pemerintah  Dearah membentuk PPT sebagai pusat pelayanan terpadu bagi perempuan  dan anak.  
-2. PPT sebagaimana dimaksud pada ayat (1) terdiri dari unsur perangkat daerah  yang membidangi urusan:a. kesehatan;  
+2. PPT sebagaimana dimaksud pada ayat (1) terdiri dari unsur perangkat daerah  yang membidangi urusan:  
+a. kesehatan;  
 b. pendidikan;  
 c. kepemudaand. sosial;  
 e. koperasi;  
@@ -389,7 +410,8 @@ l. rumah sakit umum daerah;
 m. kepolisian;  
 n. lembaga swadaya masyarakat; dan  
 o. perguruan tinggi.  
-3. PPT sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati. (4) Ketentuan mengenai struktur organisasi, tugas dan fungsi PPT diatur lebih  lanjut dengan Peraturan Bupati.  
+3. PPT sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati.  
+4.  Ketentuan mengenai struktur organisasi, tugas dan fungsi PPT diatur lebih  lanjut dengan Peraturan Bupati.  
 
 # BAB VII
 
@@ -397,7 +419,8 @@ o. perguruan tinggi.
 
 #### Pasal 31
 
-1. Dalam penyelenggaraan perlindungan perempuan dan anak, Pemerintah Daerah  dapat melakukan kerjasama dengan:a. pemerintah daerah lainnya;  
+1. Dalam penyelenggaraan perlindungan perempuan dan anak, Pemerintah Daerah  dapat melakukan kerjasama dengan:  
+a. pemerintah daerah lainnya;  
 b. komisi/badan/lembaga pemerintah di bidang perlindungan perlindungan  perempuan dan anak;  
 c. kepolisian;  
 d. advokat;  
@@ -407,7 +430,8 @@ g. relawan pendamping;
 h. pembimbing rohani;  
 i. lembaga swadaya masyarakat yang bergerak di bidang perlindungan  perempuan dan anak; dan  
 j. masyarakat.  
-2. Kerjasama sebagaimana dimaksud pada ayat (1) berupa:a. sosialisasi;  
+2. Kerjasama sebagaimana dimaksud pada ayat (1) berupa:  
+a. sosialisasi;  
 b. pemberian bantuan hukum;  
 c. pelayanan kesehatan;  
 d. pendampingan korban;  
@@ -424,7 +448,7 @@ i. Lembaga Konsultasi Kesejahteraan Keluarga (LK3).
 
 #### Pasal 32
 
-1. Masyarakat dapat berperan serta dalam penyelenggaraan perlindungan  perempuan dan anak.  
+1. Masyarakat dapat berperan serta dalam penyelenggaraan perlindungan perempuan dan anak.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  
 a. membentuk mitra keluarga ditingkat kelurahan/desa;  
 b. membentuk lembaga swadaya masyarakat yang bidang kerjanya di bidang  perlindungan perempuan dan anak;  
@@ -474,7 +498,8 @@ Ketentuan mengenai pembinaan dan pengawasan penyelenggaraan perlindungan  peremp
 #### Pasal 38
 
 1. PPT wajib melaporkan pelaksanaan penyelenggaraan perlindungan terhadap  perempuan dan anak kepada Bupati melalui Dinas.  
-2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis, meliputi:a. administrasi;  
+2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis, meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dan  
 d. kinerja.  
@@ -502,7 +527,7 @@ b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.
 #### Pasal 41
 
 Setiap orang dilarang:  
-a. memperlakukan perempuan dan anak secara diskriminatif yang mengakibatkan  perempuan dan anak mengalami kerugian, baik materiil maupun moril sehingga  menghambat fungsi sosialnya;  
+a. memperlakukan perempuan dan anak secara diskriminatif yang mengakibatkan perempuan dan anak mengalami kerugian, baik materiil maupun moril sehingga menghambat fungsi sosialnya;  
 b. memperlakukan perempuan dan anak penyandang disabilitas secara  diskriminatif;  
 c. menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak dalam  situasi perlakuan salah dan penelantaran;  
 d. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta  melakukan kekerasan terhadap perempuan dan anak;  
@@ -523,10 +548,13 @@ Penyelenggara PPT atau rumah aman dilarang memungut biaya dalam memberikan  pela
 
 #### Pasal 43
 
-1. Tenaga Kesehatan yang menolak atau tidak mau memberikan pelayanan  pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 28 dikenakan  sanksi administrasi berupa:a. peringatan tertulis;  
+1. Tenaga Kesehatan yang menolak atau tidak mau memberikan pelayanan  pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 28 dikenakan  sanksi administrasi berupa:  
+a. peringatan tertulis;  
 b. pembekuan izin praktek/izin kerja;  
-c. pembatasan praktek bagi Tenaga Kesehatan yang praktek mandiri; (2) Pekerja sosial, relawan pendamping, dan/atau pembimbing rohani yang  menolak atau tidak mau memberikan pelayanan konseling sebagaimana  dimaksud dalam Pasal 29 dikenakan sanksi administrasi berupa:  
-a. teguran; ataub. peringatan tertulis.  
+c. pembatasan praktek bagi Tenaga Kesehatan yang praktek mandiri;  
+2. Pekerja sosial, relawan pendamping, dan/atau pembimbing rohani yang  menolak atau tidak mau memberikan pelayanan konseling sebagaimana  dimaksud dalam Pasal 29 dikenakan sanksi administrasi berupa:  
+a. teguran; atau  
+b. peringatan tertulis.  
 3. Ketentuan mengenai mekanisme penjatuhan sanksi sebagaimana dimaksud  pada ayat (1) dan ayat (2) diatur lebih lanjut dengan Peraturan Bupati.  
 
 # BAB XIV
@@ -536,7 +564,8 @@ a. teguran; ataub. peringatan tertulis.
 #### Pasal 44
 
 1. Penyidik Pegawai Negeri Sipil di lingkungan Pemerintah Daerah diberi wewenang  khusus untuk melakukan penyidikan tindak pidana sebagaimana dimaksud  dalam Kitab Undang-undang Hukum Acara Pidana yang berlaku.  
-2. Wewenang penyidik sebagaimana dimaksud pada ayat (1) adalah:  a. menerima, mencari, mengumpulkan dan meneliti keterangan atau laporan  berkenaan dengan tindak pidana;  
+2. Wewenang penyidik sebagaimana dimaksud pada ayat (1) adalah:  
+a. menerima, mencari, mengumpulkan dan meneliti keterangan atau laporan  berkenaan dengan tindak pidana;  
 b. meneliti, mencari dan mengumpulkan keterangan atau laporan berkenaan  dengan tindak pidana;  
 c. meminta keterangan dan bahan bukti dari orang pribadi atau badan  sehubungan dengan tindak pidana;  
 d. memeriksa buku-buku catatan dan dokumen-dokumen lain berkenaan  dengan tindak pidana;  
@@ -546,7 +575,8 @@ g. menyuruh berhenti, melarang seseorang meninggalkan ruangan atau tempat  pada 
 h. memotret seseorang yang berkaitan dengan tindak pidana;  
 i. memanggil orang untuk didengar keterangannya dan diperiksa sebagai  tersangka atau saksi;  
 j. menghentikan penyidikan;  
-k. melakukan tindakan lain yang perlu untuk kelancaran penyidikan tindak  pidana menurut hukum yang berlaku dan dapat dipertanggungjawabkan. (3) Penyidik sebagaimana dimaksud pada ayat (1), memberitahukan dimulainya  penyidikan dan menyampaikan hasil penyidikannya kepada penuntut umum  melalui Penyidik Polisi Negara Republik Indonesia sesuai dengan ketentuan  yang diatur dalam Undang-Undang Hukum Acara Pidana yang berlaku.  
+k. melakukan tindakan lain yang perlu untuk kelancaran penyidikan tindak  pidana menurut hukum yang berlaku dan dapat dipertanggungjawabkan.  
+3. Penyidik sebagaimana dimaksud pada ayat (1), memberitahukan dimulainya  penyidikan dan menyampaikan hasil penyidikannya kepada penuntut umum  melalui Penyidik Polisi Negara Republik Indonesia sesuai dengan ketentuan  yang diatur dalam Undang-Undang Hukum Acara Pidana yang berlaku.  
 
 # BAB XV
 
@@ -571,45 +601,43 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangan.
 
 Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan  peraturan daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Probolinggo.  
 
-Ditetapkan di Probolinggo Pada tanggal 1 Maret 2019
+Ditetapkan di Probolinggo  
 
-##### BUPATI PROBOLINGGO
+Pada tanggal 1 Maret 2019  
+
+BUPATI PROBOLINGGO  
 
 ttd.  
 
-Hj. P. TANTRIANA SARI, SE Diundangkan di Probolinggo Pada tanggal 1 Maret 2019
+Hj. P. TANTRIANA SARI, SE  
 
-##### SEKRETARIS DAERAH
+Diundangkan di Probolinggo  
 
-##### H. SOEPARWIYONO, SH, MH
+Pada tanggal 1 Maret 2019  
 
-Pembina Utama Muda
+SEKRETARIS DAERAH  
 
-##### NIP. 19621225 198508 1 002
+H. SOEPARWIYONO, SH, MH  
 
-LEMBARAN DAERAH KABUPATEN PROBOLINGGO TAHUN 2019  NOMOR 2 SERI E NOREG PERATURAN DAERAH KABUPATEN PROBOLINGGO  NOMOR 24-2/2019 Salinan sesuai dengan aslinya:
+Pembina Utama Muda  
 
-a.n. SEKRETARIS DAERAH Asisten Administrasi Pemerintahan dan Kesra
+NIP. 19621225 198508 1 002  
 
-u.b.  
+LEMBARAN DAERAH KABUPATEN PROBOLINGGO TAHUN 2019 NOMOR 2 SERI E NOREG PERATURAN DAERAH KABUPATEN PROBOLINGGO  NOMOR 24-2/2019 Salinan sesuai dengan aslinya:  
 
-##### KEPALA BAGIAN HUKUM
+a.n. SEKRETARIS DAERAH Asisten Administrasi Pemerintahan dan Kesra  
 
-P A R J O N O, SH. M.Si Pembina Tingkat I
+KEPALA BAGIAN HUKUM  
 
-##### NIP. 19610607 198102 1 002
+PARJONO, SH. M.Si Pembina Tingkat I  
 
-##### PENJELASAN
+NIP. 19610607 198102 1 002  
 
-##### ATAS
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PROBOLINGGO
 
-##### PERATURAN DAERAH KABUPATEN PROBOLINGGO
+NOMOR 2 TAHUN 2019  
 
-##### NOMOR: 2 TAHUN 2019
-
-##### TENTANG
-
-##### PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
+TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
 
 ##### I. PENJELASAN UMUM
 
@@ -617,68 +645,130 @@ Bahwa perlindungan terhadap perempuan dan anak merupakan urusan  konkuren wajib 
 
 ##### II. PENJELASAN PASAL DEMI PASAL
 
-#### Pasal 1: Cukup jelas.  
+#### Pasal 1
 
-#### Pasal 2: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 3: Cukup jelas.  
+#### Pasal 2
 
-#### Pasal 4: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 5: Cukup jelas.  
+#### Pasal 3
 
-#### Pasal 6: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 7: Cukup jelas.  
+#### Pasal 4
 
-#### Pasal 8: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 9: Cukup jelas.  
+#### Pasal 5
 
-#### Pasal 10: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 11: Cukup jelas.  
+#### Pasal 6
 
-#### Pasal 12: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 13: Cukup jelas.  
+#### Pasal 7
 
-#### Pasal 14: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 15: Cukup jelas.  
+#### Pasal 8
 
-#### Pasal 16: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 17: Cukup jelas.  
+#### Pasal 9
 
-#### Pasal 18: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 19: Cukup jelas.  
+#### Pasal 10
 
-#### Pasal 20: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 21: Cukup jelas.  
+#### Pasal 11
 
-#### Pasal 22: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 23: Cukup jelas.  
+#### Pasal 12
 
-#### Pasal 24: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 25: Cukup jelas.  
+#### Pasal 13
 
-#### Pasal 26: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 27: Cukup jelas.  
+#### Pasal 14
 
-#### Pasal 28: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 29: Cukup jelas.  
+#### Pasal 15
 
-#### Pasal 30: Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 31: Cukup jelas.  
+#### Pasal 16
 
-#### Pasal 32: Cukup jelas.  
+Cukup jelas.  
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#### Pasal 17
+
+Cukup jelas.  
+
+#### Pasal 18
+
+Cukup jelas.  
+
+#### Pasal 19
+
+Cukup jelas.  
+
+#### Pasal 20
+
+Cukup jelas.  
+
+#### Pasal 21
+
+Cukup jelas.  
+
+#### Pasal 22
+
+Cukup jelas.  
+
+#### Pasal 23
+
+Cukup jelas.  
+
+#### Pasal 24
+
+Cukup jelas.  
+
+#### Pasal 25
+
+Cukup jelas.  
+
+#### Pasal 26
+
+Cukup jelas.  
+
+#### Pasal 27
+
+Cukup jelas.  
+
+#### Pasal 28
+
+Cukup jelas.  
+
+#### Pasal 29
+
+Cukup jelas.  
+
+#### Pasal 30
+
+Cukup jelas.  
+
+#### Pasal 31
+
+Cukup jelas.  
+
+#### Pasal 32
+
+Cukup jelas.  
