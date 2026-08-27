@@ -1,16 +1,18 @@
-# PEMERINTAH KABUPATEN LUMAJANG
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN LUMAJANG
+
+PEMERINTAH KABUPATEN LUMAJANG
 
 # PERATURAN DAERAH KABUPTEN LUMAJANG
 
-# NOMOR 48 TAHUN 2007
+NOMOR 48 TAHUN 2007  
 
-# T E N T A N G
+TENTANG  
 
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN LUMAJANG
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN LUMAJANG  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI LUMAJANG
+BUPATI LUMAJANG  
 
 Menimbang:  
  
@@ -31,40 +33,40 @@ Mengingat:
  
  
  
-1. Undang-Undang Nomor 12 Tahun 1950, tentang Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa Timur (Lembaran Negara Republik Indonesia Tahun 1950 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 9) ;  
+1. Undang-Undang Nomor 12 Tahun 1950, tentang Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa Timur (Lembaran Negara Republik Indonesia Tahun 1950 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 9);  
+2. Undang-Undang Nomor 6 Tahun 1974, tentang Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 53. Tambahan Lembaran Negara Republik Indonesia Nomor 3039);  
+3. Undang-Undang Nomor 4 Tahun 1979, tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143;  
+4. Undang-Undang Nomor 7 Tahun 1984, tentang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskrimasi Terhadap Perempuan (Convention on The Elimination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29,Tambahan Lembaran Negara Republik Indonesia Nomor 3668);  
+5. Undang-Undang Nomor 23 Tahun 1992, tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 100);  
+6. Undang-Undang Nomor 20 Tahun 1999, tentang Pengesahan Konvensi ILO Nomor 138 Mengenai Usia Minimum Anak Diperbolehkan Bekerja ( Lembaran Negara Republik Indonesia Tahun 1999 Nomor 56, Tambahan Lembaran Republik Indonesia Negara Nomor 3835);  
+7. Undang-Undang Nomor 5 Tahun 1998, tentang Konvensi Menentang Penyiksaan dan Penghukuman yang Kejam (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Republik Indonesia Negara Nomor 3783);  
+8. Undang-Undang Nomor 39 Tahun 1999, tentang Hak Asasi Manusia ( Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886) ;  
+9. Undang-Undang Nomor 1 Tahun 2000 tentang Pengesahan Konvensi ILO Nomor 182 Mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-Bentuk Pekerjaan Terburuk bagi Anak (Lembaran Negara Republik Indonesia Tahun 200 Nomor 30, Tambahan Lembaran Negara Republik Indonesia Nomor 3941);  
+10. Undang-Undang Nomor 23 Tahun 2002, tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Nomor 4235);  
+11. Undang-Undang Nomor 10 Tahun 2004, tentang Pembentukan Peraturan Perundang-Undangan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 53, Tambahan Lembaran Negara Republik Indonesia Nomor 4389);  
+12. Undang-Undang Nomor 23 Tahun 2004, tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
+13. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2005 Lembaran Negara Republik Indonesia Tahun 2005 Nomor 108, Tambahan Lembaran Negara Republik Indonesia Nomor 4548);  
+14. Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 4422);  
+15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Propinsi, dan Pemerintahan Daerah Kabupaten / Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Nomor 4737);  
+16. Keputusan Presiden Nomor 36 Tahun 1990 tentang Pengesahan Konvensi Hak Anak;  
+17. Keputusan Presiden Nomor 181 Tahun 1998, tentang Komisi Nasional Anti Kekerasan terhadap Perempuan;  
+18. Keputusan Presiden Nomor 88 Tahun 2002 tentang Rencana Aksi Nasional (RAN) Penghapusan Trafiking Perempuan dan Anak;  
+19. Keputusan Presiden Nomor 61 Tahun 2003 tentang Rencana Aksi Nasional Hak-Hak Asasi Manusia Indonesia 1999 – 2003;  
+20. Peraturan Daerah Propinsi Jawa Timur Nomor 9 Tahun 2005, tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
-2. Undang-Undang Nomor 6 Tahun 1974, tentang Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 53. Tambahan Lembaran Negara Republik Indonesia Nomor 3039) ;  
-3. Undang-Undang Nomor 4 Tahun 1979, tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor
-3143. ;  
-4. Undang-Undang Nomor 7 Tahun 1984, tentang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskrimasi Terhadap Perempuan (Convention on The Elimination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29,Tambahan Lembaran Negara Republik Indonesia Nomor 3668) ;  
-5. Undang-Undang Nomor 23 Tahun 1992, tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 100) ;  
-6. Undang-Undang Nomor 20 Tahun 1999, tentang Pengesahan Konvensi ILO Nomor 138 Mengenai Usia Minimum Anak Diperbolehkan Bekerja ( Lembaran Negara Republik Indonesia Tahun 1999 Nomor 56, Tambahan Lembaran Republik Indonesia Negara Nomor 3835) ;  
-7. Undang-Undang Nomor 5 Tahun 1998, tentang Konvensi Menentang Penyiksaan dan Penghukuman yang Kejam (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Republik Indonesia Negara Nomor 3783) ; 8. Undang-Undang Nomor 39 Tahun 1999, tentang Hak Asasi Manusia ( Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886) ;  
-9. Undang-Undang Nomor 1 Tahun 2000 tentang Pengesahan Konvensi ILO Nomor 182 Mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-Bentuk Pekerjaan Terburuk bagi Anak (Lembaran Negara Republik Indonesia Tahun 200 Nomor 30, Tambahan Lembaran Negara Republik Indonesia Nomor 3941) ;  
-10. Undang-Undang Nomor 23 Tahun 2002, tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Nomor 4235) ;  
-11. Undang-Undang Nomor 10 Tahun 2004, tentang Pembentukan Peraturan Perundang-Undangan (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 53, Tambahan Lembaran Negara Republik Indonesia Nomor 4389) ;  
-12. Undang-Undang Nomor 23 Tahun 2004, tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419) ;  
-13. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2005 Lembaran Negara Republik Indonesia Tahun 2005 Nomor 108, Tambahan Lembaran Negara Republik Indonesia Nomor 4548) ;  
-14. Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan antara Pemerintah Pusat dan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 4422) ;  
-15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Propinsi, dan Pemerintahan Daerah Kabupaten / Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Nomor 4737) ;  
-16. Keputusan Presiden Nomor 36 Tahun 1990 tentang Pengesahan Konvensi Hak Anak ;  
-17. Keputusan Presiden Nomor 181 Tahun 1998, tentang Komisi Nasional Anti Kekerasan terhadap Perempuan ;  
-18. Keputusan Presiden Nomor 88 Tahun 2002 tentang Rencana Aksi Nasional (RAN) Penghapusan Trafiking Perempuan dan Anak ;  
-19. Keputusan Presiden Nomor 61 Tahun 2003 tentang Rencana Aksi Nasional Hak-Hak Asasi Manusia Indonesia 1999 – 2003 ; 20. Peraturan Daerah Propinsi Jawa Timur Nomor 9 Tahun 2005, tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan .  
+Dengan Persetujuan Bersama  
 
-Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN LUMAJANG  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH
+Dan  
 
-# KABUPATEN LUMAJANG
+BUPATI LUMAJANG  
 
-# BUPATI LUMAJANG
+MEMUTUSKAN:  
 
-# M E M U T U S K A N:
+Menetapkan:  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAANPERLINDUNGAN PEREMPUAN DAN ANAK KORBAN
-
-# KEKERASAN DI KABUPATEN LUMAJANG.  
+PERATURAN DAERAH TENTANG PENYELENGGARAANPERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN LUMAJANG.  
 
 # BAB I
 
@@ -72,23 +74,22 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAANPERLINDUNGAN PEREMPUAN DAN A
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
-1. Pemerintah Daerah adalah Pemerintah Kabupaten Lumajang ;  
-2. Bupati adalah Bupati Lumajang ;  
-3. Anak adalah seorang yang belum berusia 18 tahun, termasuk yang ada dalam kandungan ;  
-4. Kekerasan adalah setiap perbuatan yang berakibat atau dapat mengakibatkan kesengsaraan atau penderitaan fisik, seksual, ekonomi, psikis terhadap korban ;  
-5. Kekerasan fisik adalah setiap perbuatan yang mengakibatkan rasa sakit, cedera, luka, atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan/atau menyebabkan kematian ;  
-6. Kekerasan psikis adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan penderitaan psikis berat pada seseorang ;  
-7. Kekerasan seksual adalah perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan tujuan tertentu ;  
-8. Korban adalah perempuan dan anak yang mengalami kesengsaraan dan/atau penderitaan baik secara langsung maupun tidak langsung sebagai akibat kekerasan ;  
-9. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada korban ketika melihat, mendengar dan mengetahui akan, sedang atau telah terjadinya kekerasan terhadap korban ;  
-10. Pendamping adalah orang yang mempunyai keahlian melakukan pendampingan korban untuk melakukan konseling, terapi dan advokasi guna penguatan dan pemulihan diri dari korban kekerasan ;  
-11. Pusat Pelayanan Terpadu, yang selanjutnya disingkat PPT adalah lembaga penyedia layanan terhadap korban kekerasan, yang berbasis rumah sakit, dikelola secara bersama-sama dalam bentuk pelayanan medis (termasuk medico-legal), psiko-sosial dan pelayanan hukum ;  
-12. Rumah aman adalah tempat tinggal sementara yang digunakan untuk memberikan perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan ;  
-13. Mayarakat adalah perseorangan, keluarga, kelompok, organisasi sosial dan/atau organisasi kemasyarakatan ;  
-14. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami-istri, atau suami-isteri dan anaknya , atau ayah dengan anaknya, serta ibu dan anaknya ;  
-15. Rumah tangga adalah anggota keluaraga dan kerabat (cucu, kemenakan, kakak, adik, kakek, nenek, sepupu, dan sebagainya) dan bukan kerabat (pembantu, sopir, dan sebagainya) yang hidup dan makan dari satu dapur serta menetap dalam satu rumah.  
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
+1. Pemerintah Daerah adalah Pemerintah Kabupaten Lumajang;  
+2. Bupati adalah Bupati Lumajang;  
+3. Anak adalah seorang yang belum berusia 18 tahun, termasuk yang ada dalam kandungan;  
+4. Kekerasan adalah setiap perbuatan yang berakibat atau dapat mengakibatkan kesengsaraan atau penderitaan fisik, seksual, ekonomi, psikis terhadap korban;  
+5. Kekerasan fisik adalah setiap perbuatan yang mengakibatkan rasa sakit, cedera, luka, atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan/atau menyebabkan kematian;  
+6. Kekerasan psikis adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan penderitaan psikis berat pada seseorang;  
+7. Kekerasan seksual adalah perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan tujuan tertentu;  
+8. Korban adalah perempuan dan anak yang mengalami kesengsaraan dan/atau penderitaan baik secara langsung maupun tidak langsung sebagai akibat kekerasan;  
+9. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada korban ketika melihat, mendengar dan mengetahui akan, sedang atau telah terjadinya kekerasan terhadap korban;  
+10. Pendamping adalah orang yang mempunyai keahlian melakukan pendampingan korban untuk melakukan konseling, terapi dan advokasi guna penguatan dan pemulihan diri dari korban kekerasan;  
+11. Pusat Pelayanan Terpadu, yang selanjutnya disingkat PPT adalah lembaga penyedia layanan terhadap korban kekerasan, yang berbasis rumah sakit, dikelola secara bersama-sama dalam bentuk pelayanan medis (termasuk medico-legal), psiko-sosial dan pelayanan hukum;  
+12. Rumah aman adalah tempat tinggal sementara yang digunakan untuk memberikan perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan;  
+13. Masyarakat adalah perseorangan, keluarga, kelompok, organisasi sosial dan/atau organisasi kemasyarakatan;  
+14. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami-istri, atau suami-isteri dan anaknya, atau ayah dengan anaknya, serta ibu dan anaknya;  
+15. Rumah tangga adalah anggota keluarga dan kerabat (cucu, kemenakan, kakak, adik, kakek, nenek, sepupu, dan sebagainya) dan bukan kerabat (pembantu, sopir, dan sebagainya) yang hidup dan makan dari satu dapur serta menetap dalam satu rumah.  
 
 # BAB II
 
@@ -97,10 +98,10 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Asas penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah:  
-a. Penghormatan terhadap hak-hak korban ;  
-b. Keadilan dan kesetaraan gender ;  
-c. Non – diskriminasi ;  
-d. Kepentingan terbaik bagi korban ;  
+a. Penghormatan terhadap hak-hak korban;  
+b. Keadilan dan kesetaraan gender;  
+c. Non – diskriminasi;  
+d. Kepentingan terbaik bagi korban;  
 e. Penghormatan terhadap hak-hak perempuan dan anak.  
 
 #### Pasal 3
@@ -125,11 +126,13 @@ Dalam hal terjadi kekerasan, setiap korban berhak mendapatkan pendampingan baik 
 
 #### Pasal 6
 
-1. Pemerintah Kabupaten berkewajiban dan bertanggungjawab untuk melaksanakan upaya pencegahan terjadinya kekerasan, dalam bentuk:a. mengumpulkan data dan informasi tentang nilai-nilai arti kekerasan serta peraturan perundang-undangan ;  
-b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak ;  
-c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan peneyelenggaraan perlindungan perempuan dan anak korban kekerasan ;  
+1. Pemerintah Kabupaten berkewajiban dan bertanggungjawab untuk melaksanakan upaya pencegahan terjadinya kekerasan, dalam bentuk:  
+a. mengumpulkan data dan informasi tentang nilai-nilai arti kekerasan serta peraturan perundang-undangan;  
+b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak;  
+c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan peneyelenggaraan perlindungan perempuan dan anak korban kekerasan;  
 d. melakukan pemantauan dan evaluasi terhadap penyelenggraan perlindungan perempuan dan anak korban kekerasan.  
-2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Kabupaten berkewajiban menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:a. meningkatkan kualitas lembaga layanan terpadu untuk korban dengan melibatkan unsur masyarakat ;  
+2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Kabupaten berkewajiban menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
+a. meningkatkan kualitas lembaga layanan terpadu untuk korban dengan melibatkan unsur masyarakat;  
 b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban.  
 3. Pemerintah Kabupaten dalam melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami atau orang lain secara hukum yang bertanggungjawab terhadap korban.  
 
@@ -153,12 +156,13 @@ Bentuk dan Mekanisme Pelayanan
 
 #### Pasal 9
 
-1. Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT meliputi:a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis ;  
-b. pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan pembuktian di bidang hukum ;  
-c. pelayanan psikososial merupakan pelayanan yang diberikan oleh pendamping dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman untuk melindungi korban dari ancaman dan intimidasi bagi korban dan memberikan dukungan secara sosial sehingga korban mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya ;  
-d. pelayanan hukum untuk membantu korban dalam menjalani proses peradilan ;  
+1. Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT meliputi:  
+a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
+b. pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan pembuktian di bidang hukum;  
+c. pelayanan psikososial merupakan pelayanan yang diberikan oleh pendamping dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman untuk melindungi korban dari ancaman dan intimidasi bagi korban dan memberikan dukungan secara sosial sehingga korban mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya;  
+d. pelayanan hukum untuk membantu korban dalam menjalani proses peradilan;  
 e. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan ketampilan dan memberikan akses ekonomi agar korban dapat mandiri.  
-2. Mekanisme pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan menurut prosedur standar opersional yang akan diatur lebih lanjut dengan Peraturan Bupati ;  
+2. Mekanisme pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan menurut prosedur standar opersional yang akan diatur lebih lanjut dengan Peraturan Bupati.   
 
 ## Bagian Ketiga
 
@@ -186,8 +190,8 @@ Pendampingan dilakukan oleh orang tua atau lembaga yang mempunyai keahlian untuk
 
 #### Pasal 13
 
-1. Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan anak sehingga menyebabkan terjadinya kekerasan, membiarkan terjadinya kekerasan, dan atau tidak melaporkan dan tidak memberikan perlindungan terhadap korban, dikenakan sanksi sebagaimana diatur dalam peraturan perundang-undangan yang berlaku .  
-2. Pejabat yang ditunjuk untuk menyelenggarakan perlindungan tidak melaksanakan kewajiban dan tanggung jawabnya dikenakan tindakan atau sanksi administratif .  
+1. Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan anak sehingga menyebabkan terjadinya kekerasan, membiarkan terjadinya kekerasan, dan atau tidak melaporkan dan tidak memberikan perlindungan terhadap korban, dikenakan sanksi sebagaimana diatur dalam peraturan perundang-undangan yang berlaku.  
+2. Pejabat yang ditunjuk untuk menyelenggarakan perlindungan tidak melaksanakan kewajiban dan tanggung jawabnya dikenakan tindakan atau sanksi administratif.  
 3. Pengelola PPT yang melaksanakan tugas pelayanan yang melanggar prinsip pelayanan, dapat dikenakan sanksi sesuai dengan mekanisme internal PPT.  
 
 # BAB X
@@ -200,21 +204,17 @@ Peraturan Daerah ini berlaku sejak tanggal diundangkan.
 
 Agar setiap orang mengetahuinya memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya pada Lembaran Daerah Kabupaten Lumajang.  
 
-Ditetapkan di Lumajang Pada tanggal 9 Nopember 2007
+Ditetapkan di Lumajang  
 
-##### BUPATI LUMAJANG
+Pada tanggal 9 Nopember 2007  
 
-##### ACHMAD FAUZI
+BUPATI LUMAJANG  
 
-##### PENJELASAN
+ACHMAD FAUZI  
 
-##### A T A S
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN LUMAJANG  
 
-##### PERATURAN DAERAH KABUPATEN LUMAJANG NOMOR 48 TAHUN 2007
-
-##### T E N T A N G
-
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN LUMAJANG
+NOMOR 48 TAHUN 2007 TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN LUMAJANG  
 
 ##### I. PENJELASAN UMUM
 
@@ -230,33 +230,33 @@ bahwa dari serangkaian ketentuan diatas, maka Pemerintah bertanggungjawab untuk 
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
-penghormatan terhadap hak-hak korban dimaksudkan untuk menjamin terpenuhinya hak-hak korban ;  
+penghormatan terhadap hak-hak korban dimaksudkan untuk menjamin terpenuhinya hak-hak korban;  
 
-keadilan gender merupakan suatu proses untuk menjadi adil terhadap laki laki dan perempuan ;  
+keadilan gender merupakan suatu proses untuk menjadi adil terhadap laki laki dan perempuan;  
 
-kesetaraan gender adalah kesamaan kondisi bagi laki-laki dan perempuan untuk meperoleh kesempatan dan hak-haknya sebagai manusia, agar mampu berperan dan berpartisipasi dalam kegaitan politik, ekonomi, sosial budaya, pertahanan dan keamanan dalam menikmati hasil pembangunan ;  
+kesetaraan gender adalah kesamaan kondisi bagi laki-laki dan perempuan untuk meperoleh kesempatan dan hak-haknya sebagai manusia, agar mampu berperan dan berpartisipasi dalam kegaitan politik, ekonomi, sosial budaya, pertahanan dan keamanan dalam menikmati hasil pembangunan;  
 
-non-diskriminasi adalah sikap dan perlakuan terhadap korban dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama, antar golongan ;  
+non-diskriminasi adalah sikap dan perlakuan terhadap korban dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama, antar golongan;  
 
 kepentingan yang terbaik bagi korban adalah semua tindakan yang menyangkut korban yang dilakukan pemerintah, masyarakat, badan legislatif, dan badan yudikatif maka kepentingan yang terbaik bagi korban harus menjadi pertimbangan utama.  
 
 #### Pasal 3
 
-yang dimaksud kekerasan berbasis gender adalah tindakan berdasarkan relasi gender yang menempatkan perempuan secara subordinat terhadap laki-laki
+yang dimaksud kekerasan berbasis gender adalah tindakan berdasarkan relasi gender yang menempatkan perempuan secara subordinat terhadap laki-laki  
 
 #### Pasal 4
 
-yang dimaksudkan mendapatkan perlindungan adalah mendapatkan perlindungan dari individu, kelompok atau lembaga baik pemerintah maupun non pemerintah ;  
+yang dimaksudkan mendapatkan perlindungan adalah mendapatkan perlindungan dari individu, kelompok atau lembaga baik pemerintah maupun non pemerintah;  
 
-mendapatkan informasi tentang keberadaan tempat pengaduan, PPT, dan hal-hal yang berhubungan dengan pemenuhan hak-haknya dan terlibat dalam setiap proses pengambilan keputusan yang berkaitan dengan pendampingan dan perkembangan penangan perkara ;  
+mendapatkan informasi tentang keberadaan tempat pengaduan, PPT, dan hal-hal yang berhubungan dengan pemenuhan hak-haknya dan terlibat dalam setiap proses pengambilan keputusan yang berkaitan dengan pendampingan dan perkembangan penangan perkara;  
 
-yang dimaksud dengan pelayanan terpadu adalah layanan yang mencakup medis, medico legal, psikososial dan hukum ;  
+yang dimaksud dengan pelayanan terpadu adalah layanan yang mencakup medis, medico legal, psikososial dan hukum;  
 
-yang dimaksud dengan penanganan berkelanjutan adalah penanganan yang tidak hanya berhenti sampai pada penyembuhan fisik dan psikis , tetapi sampai korban dapat menjalani kehidupannya kembali dalammasyarakat termasuk pemulihan nama baiknya.  
+yang dimaksud dengan penanganan berkelanjutan adalah penanganan yang tidak hanya berhenti sampai pada penyembuhan fisik dan psikis, tetapi sampai korban dapat menjalani kehidupannya kembali dalammasyarakat termasuk pemulihan nama baiknya.  
 
 #### Pasal 5
 
@@ -264,4 +264,6 @@ yang dimaksud mendapatkan pendampingan secara psikologis maupun hukum adalah pen
 
 #### Pasal 6 sampai dengan pasal 14
 
-Cukup Jelas TAMBAHAN LEMBARAN DAERAH KABUPATEN LUMAJANG TAHUN 2007 NOMOR
+Cukup Jelas.  
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN LUMAJANG TAHUN 2007 NOMOR  
