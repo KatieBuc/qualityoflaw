@@ -1,16 +1,20 @@
-# SALINAN
+# PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
-# BUPATI WONOGIRI
+SALINAN  
 
-# PERATURAN DAERAH KABUPATEN WONOGIRI NOMOR 2 TAHUN 2013
+BUPATI WONOGIRI  
 
-# TENTANG
+# PERATURAN DAERAH KABUPATEN WONOGIRI 
 
-PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK
+NOMOR 2 TAHUN 2013  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+TENTANG  
 
-# BUPATI WONOGIRI,
+PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI WONOGIRI,  
 
 Menimbang:  
  
@@ -20,7 +24,7 @@ Menimbang:
  
  
  
-a. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
+a. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 b. bahwa untuk mewujudkan pemberian perlindungan terhadap korban kekerasan yang berbasis gender dan anak serta untuk memberikan kepastian hukum khususnya dalam penyelenggaraan perlindungan anak di Kabupaten Wonogiri, maka perlu diatur dalam Peraturan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Korban Kekerasan berbasis Gender dan Anak.  
 
@@ -33,10 +37,9 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten Dalam  Lingkungan Provinsi Jawa Tengah (Berita Negara  Republik Indonesia Tahun 1950 Nomor 42);  
 3. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik  Indonesia Tahun 1979 Nomor 32, Tambahan  Lembaran Negara Republik Indonesia Nomor 3143);  
-4. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi Penghapusan Segala Bentuk  Diskriminasi Terhadap Wanita (Convention on The  Elimination of All Forms Discrimination Againts  Women) (Lembaran Negara Republik Indonesia  Tahun 1984 Nomor 29, Tambahan Lembaran  Negara Republik Indonesia Nomor 3668);  
+4. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on The  Elimination of All Forms Discrimination Againts  Women) (Lembaran Negara Republik Indonesia  Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3668);  
 5. Undang-Undang Nomor 4 Tahun 1997 tentang  Penyandang Cacat (Lembaran Negara Republik  Indonesia Tahun 1997 Nomor 9, Tambahan  Lembaran Negara Republik Indonesia Nomor 3670);  
 6. Undang-Undang Nomor 20 Tahun 1999 tentang  Pengesahan Konvensi ILO Mengenai Usia Minimum  Untuk Diperbolehkan Bekerja (Lembaran Negara  Republik Indonesia Tahun 1999 Nomor 56, Tambahan Lembaran Negara Republik Indonesia  Nomor 3835);  
 7. Undang-Undang Nomor 39 Tahun 1999 tentang  Hak Asasi Manusia (Lembaran Negara Republik  Indonesia Tahun 1999 Nomor 165, Tambahan  Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -47,35 +50,30 @@ Mengingat:
 12. Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2004 Nomor 125, Tambahan  Lembaran Negara Republik Indonesia Nomor 4437)  sebagaimana telah beberapa kali diubah terakhir  dengan Undang-Undang Nomor 12 Tahun 2008  tentang Perubahan Kedua Atas Undang-Undang  Nomor 32 Tahun 2004 tentang Pemerintahan  Daerah (Lembaran Negara Republik Indonesia  Tahun 2008 Nomor 59, Tambahan Lembaran  Negara Republik Indonesia Nomor 4844);  
 13. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Saksi dan Korban (Lembaran Negara  Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia  Nomor 4635);  
 14. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007  Nomor 58, Tambahan Lembaran Negara Republik  Indonesia Nomor 4720);  
-15. 16.  
-
-Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-undangan  (Lembaran Negara Republik Indonesia Tahun 2011  Nomor 82, Tambahan Lembaran Negara Republik  Indonesia Nomor 5234);  
-
-Undang-Undang Nomor 11 Tahun 2012 tentang  Sistem Peradilan Anak (Lembaran Negara Republik  Indonesia Tahun 2012 Nomor 153, Tambahan  Lembaran Negara Republik Indonesia Nomor 5332);  
-
-17. Peraturan Pemerintah Nomor 2 Tahun 1988  tentang Usaha Kesejahteraan Anak Bermasalah  (Lembaran Negara Republik Indonesia Tahun 1988  Nomor 2, Tambahan Lembaran Negara Republik  Indonesia Nomor 3367);  
+15. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-undangan  (Lembaran Negara Republik Indonesia Tahun 2011  Nomor 82, Tambahan Lembaran Negara Republik  Indonesia Nomor 5234);  
+16. Undang-Undang Nomor 11 Tahun 2012 tentang  Sistem Peradilan Anak (Lembaran Negara Republik  Indonesia Tahun 2012 Nomor 153, Tambahan  Lembaran Negara Republik Indonesia Nomor 5332);  
+17. Peraturan Pemerintah Nomor 2 Tahun 1988  tentang Usaha Kesejahteraan Anak Bermasalah  (Lembaran Negara Republik Indonesia Tahun 1988  Nomor 2, Tambahan Lembaran Negara Republik Indonesia Nomor 3367);  
 18. Peraturan Pemerintah Nomor 79 Tahun 2005  tentang Pedoman Pembinaan dan Pengawasan  Penyelenggaraan Pemerintahan Daerah (Lembaran  Negara Republik Indonesia Tahun 2005 Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 4593);  
-19. Peraturan Pemerintah Nomor 38 Tahun 2007  tentang Pembagian Urusan Pemerintahan Antara  Pemerintah, Pemerintahan Daerah Provinsi, dan  Pemerintahan Daerah Kabupaten/Kota (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia  Nomor 4737);  
+19. Peraturan Pemerintah Nomor 38 Tahun 2007  tentang Pembagian Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi, dan  Pemerintahan Daerah Kabupaten/Kota (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia  Nomor 4737);  
 20. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara dan Mekanisme Pelayanan  Terpadu Bagi Saksi dan/atau Korban Tindak  Pidana Perdagangan Orang (Lembaran Negara  Republik Indonesia Tahun 2008 Nomor 22, Tambahan Lembaran Negara Republik Indonesia  Nomor 4818);  
-21.  
-22. 23.  
-24. Peraturan Presiden Nomor 1 Tahun 2007 tentang  Pengesahan, Pengundangan, dan Penyebarluasan  Peraturan Perundang-undangan;  
+21. Peraturan Presiden Nomor 1 Tahun 2007 tentang  Pengesahan, Pengundangan, dan Penyebarluasan  Peraturan Perundang-undangan;  
+22. Keputusan Presiden Nomor 36 Tahun 1990 tentang  Pengesahan Konvensi Hak Anak;  
+23. Keputusan Presiden Nomor 88 Tahun 2002 tentang  Rencana Aksi Nasional Penghapusan Trafficking  Perempuan dan Anak;  
+24. Peraturan Daerah Provinsi Jawa Tengah Nomor 3  Tahun 2009 tentang Penyelenggaraan Perlindungan  Terhadap Korban Kekerasan Berbasis Gender dan  Anak;  
 
-Keputusan Presiden Nomor 36 Tahun 1990 tentang  Pengesahan Konvensi Hak Anak;  
+Dengan Persetujuan Bersama  
 
-Keputusan Presiden Nomor 88 Tahun 2002 tentang  Rencana Aksi Nasional Penghapusan Trafficking  Perempuan dan Anak;  
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI  
 
-Peraturan Daerah Provinsi Jawa Tengah Nomor 3  Tahun 2009 tentang Penyelenggaraan Perlindungan  Terhadap Korban Kekerasan Berbasis Gender dan  Anak;  
+Dan  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN WONOGIRI Dan
+BUPATI WONOGIRI  
 
-# BUPATI WONOGIRI
+MEMUTUSKAN:  
 
-# MEMUTUSKAN:
+Menetapkan:  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP KORBAN KEKERASAN
-
-# BERBASIS GENDER DAN ANAK
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK.  
 
 # BAB I
 
@@ -83,8 +81,9 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP KORB
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:  1. Daerah adalah Kabupaten Wonogiri.  
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 
+1. Daerah adalah Kabupaten Wonogiri.  
 2. Pemerintah Daerah adalah Bupati dan Perangkat Daerah  sebagai penyelenggara Pemerintahan Daerah.  
 3. Bupati adalah Bupati Wonogiri.  
 4. Kekerasan adalah setiap perbuatan yang mengakibatkan  kesengsaraan atau penderitaan baik fisik, mental, seksual, dan  ekonomi.  
@@ -134,7 +133,8 @@ Penyelenggaraan Perlindungan Terhadap Korban Kekerasan  Berbasis Gender dan Anak
 
 #### Pasal 4
 
-1. Ruang Lingkup kekerasan berbasis gender meliputi:  a. suami, istri, dan anak;  
+1. Ruang Lingkup kekerasan berbasis gender meliputi:  
+a. suami, istri, dan anak;  
 b. orang-orang yang mempunyai hubungan keluarga dengan  orang sebagaimana dimaksud pada huruf a karena  hubungan darah, perkawinan, persusuan, pengasuhan, dan  perwalian, yang menetap dalam rumah tangga, dan/atauc. orang yang bekerja membantu rumah tangga dan menetap  dalam rumah tangga tersebut.  
 2. Orang yang bekerja membantu rumah tangga dan menetap  dalam rumah tangga sebagaimana dimaksud pada ayat (1)  huruf c dipandang sebagai anggota keluarga dalam jangka  waktu selama berada dalam rumah tangga yang bersangkutan.  
 
@@ -144,10 +144,12 @@ b. orang-orang yang mempunyai hubungan keluarga dengan  orang sebagaimana dimaks
 
 #### Pasal 5
 
-Setiap orang dilarang melakukan kekerasan dalam rumah tangga  terhadap orang dalam lingkup rumah tangganya, dengan cara:  
+Setiap orang dilarang melakukan kekerasan dalam rumah tangga terhadap orang dalam lingkup rumah tangganya, dengan cara:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
-c. kekerasan ekonomid. kekerasan seksual; ataue. penelantaran rumah tangga.  
+c. kekerasan ekonomi;  
+d. kekerasan seksual; atau  
+e. penelantaran rumah tangga.  
 
 # BAB V
 
@@ -155,12 +157,14 @@ c. kekerasan ekonomid. kekerasan seksual; ataue. penelantaran rumah tangga.
 
 #### Pasal 6
 
-1. Korban kekerasan berbasis gender dan anak korban kekerasan  berhak mendapatkan:a. perlindungan dari pihak keluarga, kepolisian, kejaksaan,  pengadilan, advokad, lembaga sosial atau pihak lainnya baik  sementara maupun berdasarkan penetapan perintah  perlindungan dari pengadilan;  
+1. Korban kekerasan berbasis gender dan anak korban kekerasan  berhak mendapatkan:  
+a. perlindungan dari pihak keluarga, kepolisian, kejaksaan,  pengadilan, advokat, lembaga sosial atau pihak lainnya baik  sementara maupun berdasarkan penetapan perintah  perlindungan dari pengadilan;  
 b. memperoleh perlindungan atas keamanan pribadi, keluarga,  dan harta bendanya, serta bebas dari ancaman yang  berkenaan dengan keterangan yang akan, sedang, atau telah  diberikan;  
 c. untuk ikut serta dalam proses memilih dan menentukan  bentuk perlindungan dan dukungan keamanan;  
 d. bebas dari pertanyaan yang menjerat;  
 e. mendapatkan informasi mengenai perkembangan kasus dan  putusan pengadilan;  
-f. mendapatkan pelayanan yang cepat, tepat, nyaman, dan  sesuai kebutuhan.  g. pelayanan kesehatan sesuai dengan kebutuhan medis;  
+f. mendapatkan pelayanan yang cepat, tepat, nyaman, dan  sesuai kebutuhan;  
+g. pelayanan kesehatan sesuai dengan kebutuhan medis;  
 h. penanganan secara khusus berkaitan dengan kerahasiaan  korban;  
 i. pendampingan oleh pekerja sosial dan bantuan hukum pada  setiap tingkat proses pemeriksaan sesuai dengan ketentuan  peraturan perundang-undangan dan pelayanan bimbingan  rohani;  
 j. pemulihan dan reintegrasi sosial;  
@@ -173,19 +177,21 @@ k. mendapatkan pendampingan hukum, psikologis, bimbingan  rohani, ekonomi, dan s
 
 #### Pasal 7
 
-1. Kewajiban Pemerintah Daerah meliputi:a. mencegah terjadinya kekerasan;  
+1. Kewajiban Pemerintah Daerah meliputi:  
+a. mencegah terjadinya kekerasan;  
 b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi sosial;  
 d. mendorong dan meningkatkan partisipasi masyarakat;  
 e. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban  kekerasan; dan  
-f. mengawasi penyelenggaraan pelayanan terhadap korban  dengan standar pelayanan yang melibatkan masyarakat;  (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada  ayat (1), Pemerintah Daerah mempunyai kewenangan untuk:  
+f. mengawasi penyelenggaraan pelayanan terhadap korban  dengan standar pelayanan yang melibatkan masyarakat.  
+2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada  ayat (1), Pemerintah Daerah mempunyai kewenangan untuk:  
 a. merumuskan kebijakan dan program tentang penghapusan  kekerasan berbasis gender dan anak;  
 b. membentuk dan memfasilitasi terselenggaranya pelayanan  terpadu;  
 c. menyediakan sarana dan prasarana;  
 d. meningkatkan kapasitas lembaga penyedia layanan;  
-e. melakukan koordinasi dan kerjasama dalam  penyelenggaraan perlindungan terhadap korban kekerasan  berbasis gender an anak;  
+e. melakukan koordinasi dan kerjasama dalam  penyelenggaraan perlindungan terhadap korban kekerasan  berbasis gender dan anak;  
 f. mendorong partisipasi masyarakat; dan  
-g. melakukan monitorong dan evaluasi.  
+g. melakukan monitoring dan evaluasi.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban  sebagaimana dimaksud pada ayat (1) harus memperhatikan  hak dan kewajiban orang tua, wali, suami, istri atau orang lain  yang secara hukum bertanggung jawab kepada korban.  
 
 # BAB VII
@@ -222,13 +228,13 @@ b. sosialisasi peraturan perundang-undangan yang berkaitan  dengan kekerasan ber
 
 #### Pasal 12
 
-Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 10 meliputi:  
+Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 10 meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. membantu pemulangan korban;  
 c. memberikan perlindungan sementara di rumah aman (shelter);  
 d. memberikan pemulihan dan pendampingan psikososial;  
 e. memberikan pelayanan bimbingan rohani;  
-f. melakukan penyiapan keluarga dan masyarakat,  pemberdayaan ekonomi, dan pengembalian ke sekolah  dan/atau lembaga pendidikan lainnya.  
+f. melakukan penyiapan keluarga dan masyarakat, pemberdayaan ekonomi, dan pengembalian ke sekolah  dan/atau lembaga pendidikan lainnya.  
 
 #### Pasal 13
 
@@ -309,12 +315,16 @@ Kerjasama
 #### Pasal 22
 
 1. Masyarakat dapat berperan serta membantu upaya  pencegahan dan penanganan korban kekerasan berbasis  gender dan anak.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  diwujudkan dengan:a. memberikan informasi dan/atau melaporkan setiap  kekerasan yang diketahuinya;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  diwujudkan dengan:  
+a. memberikan informasi dan/atau melaporkan setiap  kekerasan yang diketahuinya;  
 b. memberikan perlindungan bagi korban;  
 c. memberikan pertolongan darurat;  
 d. memberikan advokasi terhadap korban dan/atau  masyarakat tentang penanganan kasus kekerasan berbasis  gender dan anak;  
 e. membantu proses pengajuan permohonan penetapan  perlindungan;  
-f. membantu dalam proses pemulangan dan reintegrasi. (3) Peran serta masyarakat dapat dilakukan oleh perorangan,  kelompok maupun organisasi sosial kemasyarakatan. (4) Organisasi sosial kemasyarakatan yang berperan serta dalam  penyelenggaraan perlindungan terhadap korban kekerasan  berbasis gender dan anak sebagaimana dimaksud pada ayat (3)  diberikan pembinaan oleh Pemerintah Kabupaten Wonogiri  melalui perangkat daerah sesuai tugas pokok dan fungsinya. (5) Pembinaan sebagaimana dimaksud pada ayat (4) dapat berupa  bimbingan konseling, bimbingan ketrampilan, pelatihan  paralegal dan bimbingan teknis operasional.  
+f. membantu dalam proses pemulangan dan reintegrasi.  
+3. Peran serta masyarakat dapat dilakukan oleh perorangan, kelompok maupun organisasi sosial kemasyarakatan.  
+4. Organisasi sosial kemasyarakatan yang berperan serta dalam  penyelenggaraan perlindungan terhadap korban kekerasan  berbasis gender dan anak sebagaimana dimaksud pada ayat (3)  diberikan pembinaan oleh Pemerintah Kabupaten Wonogiri  melalui perangkat daerah sesuai tugas pokok dan fungsinya.  
+5. Pembinaan sebagaimana dimaksud pada ayat (4) dapat berupa  bimbingan konseling, bimbingan ketrampilan, pelatihan  paralegal dan bimbingan teknis operasional.  
 
 # BAB XI
 
@@ -370,54 +380,55 @@ Pada saat Peraturan Daerah ini mulai berlaku, semua peraturan  pelaksanaan berka
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran  Daerah Kabupaten Wonogiri Ditetapkan di Wonogiri pada tanggal 28 Oktober 2013
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Wonogiri.  
 
-##### BUPATI WONOGIRI
+Ditetapkan di Wonogiri  
+
+pada tanggal 28 Oktober 2013  
+
+BUPATI WONOGIRI  
 
 Cap. ttd.  
 
-##### DANAR RAHMANTO
+DANAR RAHMANTO  
 
-Diundangkan di Wonogiri pada tanggal 28 Oktober 2013 Plt. SEKRETARIS DAERAH KABUPATEN WONOGIRI  KEPALA BAPPEDA Cap. ttd.  
+Diundangkan di Wonogiri  
 
-##### SUHARNO
+pada tanggal 28 Oktober 2013  
 
-##### LEMBARAN DAERAH KABUPATEN WONOGIRI TAHUN 2013  NOMOR 2
+Plt. SEKRETARIS DAERAH KABUPATEN WONOGIRI  
 
-Salinan sesuai dengan aslinya, Kepala
+KEPALA BAPPEDA  
 
-## Bagian Hukum
+Cap. ttd.  
 
-WIYANTO, SH,  
-M. Si.  
+SUHARNO  
 
-### NIP. 19700904 199803 1 009
+LEMBARAN DAERAH KABUPATEN WONOGIRI TAHUN 2013 NOMOR 2  
 
-### PENJELASAN
+Salinan sesuai dengan aslinya, Kepala Bagian Hukum  
 
-### ATAS
+WIYANTO, SH,  M. Si.  
 
-### PERATURAN DAERAH KABUPATEN WONOGIRI
+NIP. 19700904 199803 1 009  
 
-### NOMOR 2 TAHUN 2013
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN WONOGIRI
 
-### TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK
+NOMOR 2 TAHUN 2013 TENTAN PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
 ### I UMUM
 
 Kekerasan berbasis gender dan anak merupakan fenomena  sosial yang ada sejak jaman dahulu dan semakin marak akhir-akhir  ini. Bahkan kekerasan berbasis gender dan anak, semakin  meningkat, baik jumlah maupun bentuk dan modus operandinya  yang semakin beragam. Perkosaan, pelecehan seksual, perdagangan  perempuan dan anak, kekerasan dalam rumah tangga, eksploitasi  seksual, kekerasan terhadap pembantu rumah tangga, pornografi,  eksploitasi terhadap pekerja migran, dan penelantaran, tampaknya  akan terus ditemui dalam kehidupan sehari-hari, baik di lingkup  domestik (rumah tangga) maupun publik.  
 
-Faktor penyebab terjadinya kekerasan berbasis gender dan  anak, sangat komplek dan satu sama lain saling berkaitan. Faktor faktor tersebut, antara lain perangkat hukum yang belum mampu memberikan perlindungan kepada para korban, konsep bahwa  perempuan dan anak adalah milik keluarga (asset), media yang  kurang mendukung pemberitaan tentang kekerasan terhadap  perempuan dan anak, pelayanan publik yang belum optimal, adat  istiadat yang kadang melegalkan kekerasan, persoalan kemiskinan,  interpretasi yang keliru pada ajaran agama, yang semua itu  terbungkus dalam budaya patriarkhi.  
+Faktor penyebab terjadinya kekerasan berbasis gender dan  anak, sangat komplek dan satu sama lain saling berkaitan. Faktor faktor tersebut, antara lain perangkat hukum yang belum mampu memberikan perlindungan kepada para korban, konsep bahwa  perempuan dan anak adalah milik keluarga (asset), media yang  kurang mendukung pemberitaan tentang kekerasan terhadap  perempuan dan anak, pelayanan publik yang belum optimal, adat  istiadat yang kadang melegalkan kekerasan, persoalan kemiskinan,  interpretasi yang keliru pada ajaran agama, yang semua itu  terbungkus dalam budaya patriarki.  
 
-Penanganan korban kekerasan berbasis gender dan kekerasan  terhadap anak yang terjadi di Wonogiri, sesuai dengan ketentuan  Pasal 3 Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak dan Pasal 13 Undang-Undang Nomor 23 Tahun  2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, bahwa  Pemerintah Daerah diwajibkan untuk membentuk dan  mengembangkan sistem dan mekanisme kerjasama untuk  penaganan kekerasan. Selanjutnya berdasarkan ketentuan Pasal 26  ayat (1) huruf b Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintahan Daerah menyatakan Wakil Kepala Daerah  mempunyai tugas membantu Kepala Daerah dalam  mengkoordinasikan kegiatan instansi vertikal di daerah, menindaklanjuti laporan dan/atau temuan hasil pengawasan aparat  pengawasan, melaksanakan pemberdayaan perempuan dan pemuda,  serta mengupayakan pengembangan dan pelestarian sosial budaya  dan lingkungan hidup. Dengan demikian perlu dibentuk Peraturan  Daerah tentang Penyelenggaraan Perlindungan terhadap Korban  Kekerasan Berbasis Gender dan Anak.  
+Penanganan korban kekerasan berbasis gender dan kekerasan  terhadap anak yang terjadi di Wonogiri, sesuai dengan ketentuan  Pasal 3 Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak dan Pasal 13 Undang-Undang Nomor 23 Tahun  2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, bahwa  Pemerintah Daerah diwajibkan untuk membentuk dan  mengembangkan sistem dan mekanisme kerjasama untuk  penanganan kekerasan. Selanjutnya berdasarkan ketentuan Pasal 26  ayat (1) huruf b Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintahan Daerah menyatakan Wakil Kepala Daerah  mempunyai tugas membantu Kepala Daerah dalam  mengkoordinasikan kegiatan instansi vertikal di daerah, menindaklanjuti laporan dan/atau temuan hasil pengawasan aparat  pengawasan, melaksanakan pemberdayaan perempuan dan pemuda,  serta mengupayakan pengembangan dan pelestarian sosial budaya  dan lingkungan hidup. Dengan demikian perlu dibentuk Peraturan  Daerah tentang Penyelenggaraan Perlindungan terhadap Korban  Kekerasan Berbasis Gender dan Anak.  
 
 ### II PASAL DEMI PASAL
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
@@ -437,108 +448,232 @@ Yang dimaksud dengan “tumbuh berkembang” anak  adalah sebagaimana tercantum 
 
 #### Pasal 4
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Ayat (1) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Yang dimaksud “bebas dari pertanyaan yang  menjerat” adalah pertanyaan yang merugikan  (menyudutkan, merendahkan, melecehkan,  menyalahkan, dan menghakimi) korban.  
+Ayat (1)  
+Huruf a  
+Cukup jelas.  
 
-Huruf e Cukup jelas Huruf f Cukup jelas Huruf g Cukup jelas Huruf h Cukup jelas Huruf i Cukup jelas Huruf j Cukup jelas Huruf k Cukup jelas Ayat (2) Cukup jelas
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d 
+Yang dimaksud “bebas dari pertanyaan yang  menjerat” adalah pertanyaan yang merugikan  (menyudutkan, merendahkan, melecehkan,  menyalahkan, dan menghakimi) korban.  
+
+Huruf e  
+Cukup jelas.  
+
+Huruf f  
+Cukup jelas.  
+
+Huruf g  
+Cukup jelas.  
+
+Huruf h  
+Cukup jelas.  
+
+Huruf i  
+Cukup jelas.  
+
+Huruf j  
+Cukup jelas.  
+
+Huruf k  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 7
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 8
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 9
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 19
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 20
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 21
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas Ayat (5) Cukup jelas Ayat (6) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
+
+Ayat (5)  
+Cukup jelas.  
+
+Ayat (6)  
+Cukup jelas.  
 
 #### Pasal 22
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas Ayat (5) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
+
+#### Pasal 21
+
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
+
+Ayat (5)  
+Cukup jelas.  
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 24
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 25
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 26
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 27
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 28
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 29
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN WONOGIRI NOMOR 123
+TAMBAHAN LEMBARAN DAERAH KABUPATEN WONOGIRI NOMOR 123  
