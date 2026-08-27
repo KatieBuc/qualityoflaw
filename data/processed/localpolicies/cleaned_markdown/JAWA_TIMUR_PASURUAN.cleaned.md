@@ -1,16 +1,18 @@
-# BUPATI PASURUAN
+# PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
 
-# PROVINSI JAWA TIMUR
+BUPATI PASURUAN  
+
+PROVINSI JAWA TIMUR  
 
 # PERATURAN DAERAH KABUPATEN PASURUAN
 
-# NOMOR 4 TAHUN 2018
+NOMOR 4 TAHUN 2018  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
+PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK  
 
-# BUPATI PASURUAN,
+BUPATI PASURUAN,  
 
 Menimbang:  
  
@@ -33,7 +35,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 12 Tahun 1950 tentang  Pemerintahan Daerah Kabupaten di Djawa Timur (Berita Negara Tahun 1950 Nomor 32) sebagaimana telah diubah dengan Undang-Undang Nomor 2 Tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor
 2730. ;  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -62,13 +63,19 @@ Mengingat:
 25. Peraturan Daerah Provinsi Jawa Timur Nomor 16 Tahun  2012 tentang Penyelenggaraan Perlindungan Perempuan Dan Anak Korban Kekerasan (Lembaran Daerah Provinsi Jawa Timur Tahun 2013 Nomor 3 Seri D, Tambahan Lembaran Daerah Provinsi Jawa Timur Nomor 23);  
 26. Peraturan Gubernur Jawa Timur Nomor 66 Tahun 2013  tentang Pedoman Pelaksanaan Pengarusutamaan Gender Dalam Pembangunan Provinsi Jawa Timur (Lembaran Daerah Provinsi Jawa Timur Tahun 2013 Nomor 67 Seri E);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PASURUAN dan
+Dengan Persetujuan Bersama  
 
-# BUPATI PASURUAN
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PASURUAN  
 
-# MEMUTUSKAN:
+dan
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN  PEREMPUAN DAN PERLINDUNGAN ANAK
+BUPATI PASURUAN  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK  
 
 # BAB I
 
@@ -76,12 +83,12 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN  PEREMPUAN DAN PERLINDUNGAN AN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Pasuruan.  
-2. Pemerintah Daerah adalah Pemerintah daerah Kabupaten Pasuruan. 3. Bupati adalah Bupati Pasuruan.  
-4. Organiasasi Perangkat Daerah yang selanjutnya disingkat OPD adalah  organisasi Perangkat Daerah di lingkungan Pemerintah kabupaten  Pasuruan.  
-5. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun,  termasuk anak yang masih dalam kandungan.  
+2. Pemerintah Daerah adalah Pemerintah daerah Kabupaten Pasuruan.  
+3. Bupati adalah Bupati Pasuruan.  
+4. Organisasi Perangkat Daerah yang selanjutnya disingkat OPD adalah organisasi Perangkat Daerah di lingkungan Pemerintah kabupaten  Pasuruan.  
+5. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun, termasuk anak yang masih dalam kandungan.  
 6. Perempuan adalah orang (manusia) yang dapat menstruasi, hamil,  melahirkan anak dan menyusui.  
 7. Keluarga adalah unit terkecil dalam masyarakat yang terdiri atas suami  istri, atau suami istri dan anaknya, atau ayah dan anaknya, atau ibu dan  anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah  sampai dengan derajat ketiga.  
 8. Setiap orang adalah orang perseorangan atau korporasi, baik yang  berbadan hukum maupun tidak berbadan hukum.  
@@ -140,7 +147,8 @@ d. mendorong program-program yang dapat meningkatkan kemandirian perempuan di bi
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  b dilakukan melalui upaya:  
 a. pembentukan, pengembangan dan penguatan kapasitas lembaga perlindungan perempuan dan anak termasuk unit-unit layanan pengaduan  kekerasan terhadap perempuan dan anak serta layanan bantuan hukum;  
 b. peningkatan kualitas sumber daya manusia pengelola;  
-c. penguataan kapasitas kelembagaan PUG dan Anak di daerah; dan d. penguatan dan pengembangan sistem data gender dan anak.  
+c. penguataan kapasitas kelembagaan PUG dan Anak di daerah; dan  
+d. penguatan dan pengembangan sistem data gender dan anak.  
 
 #### Pasal 6
 
@@ -158,7 +166,8 @@ c. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  penc
 Upaya preventif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
 a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya  bagi perempuan dan anak;  
 b. mengembangkan gerakan masif dan berkelanjutan yang melibatkan masyarakat dalam aksi pencegahan dan penangangan kekerasan;  
-c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga;  dand. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan dan perlindungan anak.  
+c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga; dan  
+d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan dan perlindungan anak.  
 
 #### Pasal 9
 
@@ -192,7 +201,8 @@ e. memperoleh pekerjaan sesuai kemampuan, syarat-syarat serta upah yang  layak d
 f. khusus bagi perempuan penyandang disabilitas, berhak untuk  mendapatkan kemudahan dan perlakuan khusus dalam pelayanan publik;  
 g. berperan aktif di bidang politik dan pemerintahan sesuai dengan potensi  dan kemampuan yang dimilikinya;  
 h. mendapatkan informasi dan pelayanan hukum;  
-i. memperoleh pelayanan untuk meningkatkan pendapatannya; dan  j. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan  berdasarkan ketentuan Peraturan Perundang-undangan.  
+i. memperoleh pelayanan untuk meningkatkan pendapatannya; dan  
+j. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan  berdasarkan ketentuan Peraturan Perundang-undangan.  
 
 #### Pasal 13
 
@@ -214,7 +224,8 @@ i. diasuh oleh orang tuanya sendiri, kecuali jika ada alasan dan/atau aturan  hu
 #### Pasal 14
 
 Setiap orang wajib:  
-a. memenuhi hak-hak perempuan sebagaimana dimaksud dalam Pasal 12; dan b. memenuhi hak-hak anak sebagaimana dimaksud dalam Pasal 13.  
+a. memenuhi hak-hak perempuan sebagaimana dimaksud dalam Pasal 12; dan  
+b. memenuhi hak-hak anak sebagaimana dimaksud dalam Pasal 13.  
 
 # BAB V
 
@@ -227,13 +238,10 @@ Umum
 #### Pasal 15
 
 Dalam rangka pemberdayaan perempuan dan pelindungan anak di Daerah  dibentuk:  
-a. Pusat Pelayanan Terpadu, dapat berbentuk:
-
-##### 1. PPTPPA;  
-
-2. PUSYAN GATRA; dan
-
-##### 3. PUSPAGA.  
+a. Pusat Pelayanan Terpadu, dapat berbentuk:  
+1\. PPTPPA;  
+2\. PUSYAN GATRA; dan  
+3\. PUSPAGA.  
 b. Komisi Perlindungan Anak Daerah; dan  
 c. Lembaga lain sesuai kebutuhan dan/atau ketentuan Peraturan Perundang undangan.  
 
@@ -244,15 +252,17 @@ c. Lembaga lain sesuai kebutuhan dan/atau ketentuan Peraturan Perundang undangan
 #### Pasal 16
 
 1. PPTPPA berkedudukan di tingkat Kabupaten.  
-2. PPTPPA berada di bawah koordinasi OPD atau unit kerja yang menangani  pemberdayaan perempuan dan perlindungan anak.  
-3. PPTPPA sebagaimana dimaksud ayat (1) memiliki kewenangan membantu  merumuskan kebijakan pemberdayaan perempuan dan perlindungan anak.  
-4. PPTPPA adalah salah satu bentuk unit pelayanan terpadu, yang berfungsi  sebagai:a. pusat informasi bagi perempuan dan anak;  
-b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan  c. pusat pemberdayaan bagi perempuan dan anak.  
+2. PPTPPA berada di bawah koordinasi OPD atau unit kerja yang menangani pemberdayaan perempuan dan perlindungan anak.  
+3. PPTPPA sebagaimana dimaksud ayat (1) memiliki kewenangan membantu merumuskan kebijakan pemberdayaan perempuan dan perlindungan anak.  
+4. PPTPPA adalah salah satu bentuk unit pelayanan terpadu, yang berfungsi sebagai:  
+a. pusat informasi bagi perempuan dan anak;  
+b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan  
+c. pusat pemberdayaan bagi perempuan dan anak.  
 
 #### Pasal 17
 
 1. Kepengurusan PPTPPA tingkat kabupaten ditetapkan dengan Keputusan  Bupati.  
-2. Kepengurusan PPTPPA dapat berasal dari unsur Pemerintah Daerah,  organisasi profesi, akademisi, tokoh masyarakat dan unsur lain sesuai  kebutuhan.  
+2. Kepengurusan PPTPPA dapat berasal dari unsur Pemerintah Daerah, organisasi profesi, akademisi, tokoh masyarakat dan unsur lain sesuai  kebutuhan.  
 3. Ketentuan lebih lanjut mengenai PPTPPA diatur dengan Peraturan Bupati.  
 
 ## Bagian Ketiga
@@ -262,9 +272,10 @@ b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan  c. pusat pembe
 #### Pasal 18
 
 1. PUSYAN GATRA berkedudukan di tingkat Kabupaten.  
-2. PUSYAN GATRA berada di bawah koordinasi OPD atau unit kerja yang  menangani ketahanan kesejahteraan keluarga dan penggerakan.  
+2. PUSYAN GATRA berada di bawah koordinasi OPD atau unit kerja yang menangani ketahanan kesejahteraan keluarga dan penggerakan.  
 3. PUSYAN GATRA sebagaimana dimaksud ayat (1) memiliki kewenangan membantu merumuskan kebijakan pembangunan kesejahteraan keluarga.  
-4. PUSYAN GATRA adalah salah satu bentuk unit pelayanan terpadu, yang  berfungsi sebagai:a. pelayanan Informasi dan Dokumentasi KKB (kependudukan dan  keluarga berencana);  
+4. PUSYAN GATRA adalah salah satu bentuk unit pelayanan terpadu, yang berfungsi sebagai:  
+a. pelayanan Informasi dan Dokumentasi KKB (kependudukan dan  keluarga berencana);  
 b. pusat konseling keluarga; dan  
 c. pusat pembinaaan usaha ekonomi keluarga.  
 
@@ -282,10 +293,12 @@ c. pusat pembinaaan usaha ekonomi keluarga.
 
 1. PUSPAGA berkedudukan di tingkat Kabupaten.  
 2. PUSPAGA berada di bawah koordinasi OPD atau unit kerja yang  menangani pemberdayaan perempuan dan perlindungan anak.  
-3. PUSPAGA sebagaimana dimaksud ayat (1) merupakan bentuk layanan  pencegahan kekerasan pada anak yang mempunyai program spesifik  diantaranya:a. pendidikan/pengasuhan;  
+3. PUSPAGA sebagaimana dimaksud ayat (1) merupakan bentuk layanan  pencegahan kekerasan pada anak yang mempunyai program spesifik  diantaranya:  
+a. pendidikan/pengasuhan;  
 b. ketrampilan menjadi orang tua;  
 c. ketrampilan melindungi anak;  
-d. kemampuan meningkatkan partisipasi anak dalam keluarga; dan e. konseling bagi anak dan keluarga.  
+d. kemampuan meningkatkan partisipasi anak dalam keluarga; dan  
+e. konseling bagi anak dan keluarga.  
 
 #### Pasal 21
 
@@ -335,15 +348,17 @@ b. sumber lain yang sah dan tidak mengikat.
 #### Pasal 26
 
 1. Masyarakat dan Dunia Usaha dapat berperan serta dalam kegiatan  penyelenggaraan pemberdayaan perempuan.  
-2. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1) dapat dilakukan oleh perorangan, kelompok masyarakat,  organisasi kemasyarakatan dan Perusahaan.  
-3. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1) dapat berbentuk:a. kerjasama;  
+2. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1) dapat dilakukan oleh perorangan, kelompok masyarakat, organisasi kemasyarakatan dan Perusahaan.  
+3. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1) dapat berbentuk:  
+a. kerjasama;  
 b. peran aktif dalam penyusunan kebijakan; dan  
 c. pengaduan/laporan.  
 4. Ketentuan lebih lanjut mengenai tata cara peran serta masyarakat dan  Dunia Usaha sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan  Bupati.  
 
 #### Pasal 27
 
-1. Masyarakat dan Dunia Usaha dapat berperan serta dalam pemenuhan hak anak termasuk:a. upaya pencegahan;  
+1. Masyarakat dan Dunia Usaha dapat berperan serta dalam pemenuhan hak anak termasuk:  
+a. upaya pencegahan;  
 b. pengurangan risiko dan penanganan anak korban kekerasan;  
 c. eksploitasi; dan  
 d. perlakuan salah dan penelantaran, baik melalui upaya perseorangan  maupun lembaga.  
@@ -390,7 +405,9 @@ b. Teguran tertulis;
 c. Penghentian sementara kegiatan;  
 d. Penghentian tetap kegiatan;  
 e. Pencabutan sementara izin;  
-f. Pencabutan tetap izing. Denda administratif; dan/atauh. Sanksi administratif lain sesuai dengan ketentuan peraturan  perundang-undangan.  
+f. Pencabutan tetap izin;  
+g. Denda administratif; dan/atau  
+h. Sanksi administratif lain sesuai dengan ketentuan peraturan  perundang-undangan.  
 3. Ketentuan lebih lanjut mengenai sanksi administratif diatur dalam  Peraturan Bupati.  
 
 # BAB XII
@@ -407,37 +424,33 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Pasuruan.  
 
-Ditetapkan di Pasuruan Pada tanggal 26 September 2018
+Ditetapkan di Pasuruan  
 
-##### BUPATI PASURUAN,
+Pada tanggal 26 September 2018  
 
-ttd,
+BUPATI PASURUAN,  
 
-##### M. IRSYAD YUSUF
+ttd,  
 
-Diundangkan di Pasuruan Pada tanggal 26 September 2018
+M. IRSYAD YUSUF. 
 
-##### SEKRETARIS DAERAH
+Diundangkan di Pasuruan  
 
-##### KABUPATEN PASURUAN,
+Pada tanggal 26 September 2018  
 
-ttd,
+SEKRETARIS DAERAH  
 
-##### AGUS SUTIADJI
+KABUPATEN PASURUAN,  
 
-LEMBARAN DAERAH KABUPATEN PASURUAN TAHUN 2018 NOMOR 4 NOREG. PERATURAN DAERAH KABUPATEN PASURUAN NOMOR 260-4/2018
+ttd,  
 
-##### PENJELASAN
+AGUS SUTIADJI  
 
-##### A T A S
+LEMBARAN DAERAH KABUPATEN PASURUAN TAHUN 2018 NOMOR 4 NOREG. PERATURAN DAERAH KABUPATEN PASURUAN NOMOR 260-4/2018  
 
-##### PERATURAN DAERAH KABUPATEN PASURUAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PASURUAN
 
-##### NOMOR 4 TAHUN 2018
-
-##### TENTANG
-
-##### PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
+NOMOR 4 TAHUN 2018 TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
 
 ##### I. UMUM
 
@@ -469,25 +482,33 @@ Cukup jelas.
 
 #### Pasal 2
 
-Huruf a Yang dimaksud dengan “asas penghormatan hak-hak asasi  manusia, mengandung pengertian bahwa Negara Republik  Indonesia mengakui dan menjunjung tinggi hak asasi manusia  dan kebebasan dasar manusia sebagai hak yang secara kodrati  melekat pada dan tidak terpisahkan dari manusia, yang harus  dilindungi, dihormati, dan ditegakkan demi peningkatan  martabat kemanusiaan, kesejahteraan, kebahagiaan, dan  kecerdasan serta keadilan;  
+Huruf a  
+Yang dimaksud dengan “asas penghormatan hak-hak asasi  manusia, mengandung pengertian bahwa Negara Republik  Indonesia mengakui dan menjunjung tinggi hak asasi manusia  dan kebebasan dasar manusia sebagai hak yang secara kodrati  melekat pada dan tidak terpisahkan dari manusia, yang harus  dilindungi, dihormati, dan ditegakkan demi peningkatan  martabat kemanusiaan, kesejahteraan, kebahagiaan, dan  kecerdasan serta keadilan;  
 
-Huruf b Yang dimaksud dengan “asas kesetaraan gender”, mengandung  pengertian bahwa setiap kebijakan yang dibuat harus  didasarkan pada kesamaan kondisi dan posisi yang  menggambarkan kemitraan yang selaras, serasi dan seimbang  antara laki-laki dan perempuan dalam akses, partisipasi,  kontrol dan perolehan manfaat yang sama dan adil dari hasil hasil pembangunan;  
+Huruf b  
+Yang dimaksud dengan “asas kesetaraan gender”, mengandung  pengertian bahwa setiap kebijakan yang dibuat harus  didasarkan pada kesamaan kondisi dan posisi yang  menggambarkan kemitraan yang selaras, serasi dan seimbang  antara laki-laki dan perempuan dalam akses, partisipasi,  kontrol dan perolehan manfaat yang sama dan adil dari hasil hasil pembangunan;  
 
-Huruf c Yang dimaksud dengan “asas non-diskriminasi, mengandung  pengertian bahwa setiap kebijakan yang dibuat tidak boleh  membedakan, membatasi, melecehkan, atau mengucilkan yang  langsung ataupun tidak langsung berdasarkan pada  pembedaan manusia atas dasar agama, suku, ras, etnik,  kelompok, golongan, status sosial, status ekonomi, jenis  kelamin, bahasa, keyakinan politik, yang berakibat pada  pengurangan, penyimpangan atau penghapusan pengakuan,  pelaksanaan atau penggunaan hak asasi manusia dan  kebebasan dasar dalam kehidupan baik individual maupun kolektif dalam bidang politik, ekonomi, hukum, sosial, budaya,  dan aspek kehidupan lainnya;  
+Huruf c  
+Yang dimaksud dengan “asas non-diskriminasi, mengandung  pengertian bahwa setiap kebijakan yang dibuat tidak boleh  membedakan, membatasi, melecehkan, atau mengucilkan yang  langsung ataupun tidak langsung berdasarkan pada  pembedaan manusia atas dasar agama, suku, ras, etnik,  kelompok, golongan, status sosial, status ekonomi, jenis  kelamin, bahasa, keyakinan politik, yang berakibat pada  pengurangan, penyimpangan atau penghapusan pengakuan,  pelaksanaan atau penggunaan hak asasi manusia dan  kebebasan dasar dalam kehidupan baik individual maupun kolektif dalam bidang politik, ekonomi, hukum, sosial, budaya,  dan aspek kehidupan lainnya;  
 
-Huruf d Yang dimaksud dengan “asas keadilan dan kepastian hukum,  yang mengandung pengertian bahwa setiap orang berhak atas  pengakuan, jaminan, perlindungan dan perlakuan hukum yang  adil serta mendapat kepastian hukum dan perlakuan yang  sama di depan hukum;  
+Huruf d  
+Yang dimaksud dengan “asas keadilan dan kepastian hukum,  yang mengandung pengertian bahwa setiap orang berhak atas  pengakuan, jaminan, perlindungan dan perlakuan hukum yang  adil serta mendapat kepastian hukum dan perlakuan yang  sama di depan hukum;  
 
-Huruf e Yang dimaksud kemanfaatan, yang mengandung pengertian  bahwa pengaturan kebijakan pemberdayaan perempuan dan  perlindungan anak harus memberikan manfaat yang sebesar besarnya bagi kesejahteraan masyarakat Huruf f Yang dimaksud partisipasi mengandung pengertian bahwa  seluruh proses pembentukan dan pelaksanaan kebijakan harus  memperhatikan partisipasi aktif seluruh komponen masyarakat  sehingga memperoleh manfaat yang setara di semua bidang  pembangunan dan kehidupan;  
+Huruf e  
+Yang dimaksud kemanfaatan, yang mengandung pengertian  bahwa pengaturan kebijakan pemberdayaan perempuan dan  perlindungan anak harus memberikan manfaat yang sebesar besarnya bagi kesejahteraan masyarakat Huruf f Yang dimaksud partisipasi mengandung pengertian bahwa  seluruh proses pembentukan dan pelaksanaan kebijakan harus  memperhatikan partisipasi aktif seluruh komponen masyarakat  sehingga memperoleh manfaat yang setara di semua bidang  pembangunan dan kehidupan;  
 
-Huruf g Yang dimaksud kepentingan terbaik bagi anak mengandung  arti yang mengandung pengertian bahwa dalam semua  tindakan yang menyangkut anak yang dilakukan oleh  pemerintah, masyarakat, badan legislatif, dan badan yudikatif,  maka kepentingan yang terbaik bagi anak harus menjadi  pertimbangan utama;  
+Huruf g  
+Yang dimaksud kepentingan terbaik bagi anak mengandung  arti yang mengandung pengertian bahwa dalam semua  tindakan yang menyangkut anak yang dilakukan oleh  pemerintah, masyarakat, badan legislatif, dan badan yudikatif,  maka kepentingan yang terbaik bagi anak harus menjadi  pertimbangan utama;  
 
-Huruf h Yang dimaksud akuntabilitas menyangkut bahwa  penyelenggaraan pemberdayaan perempuan dan pelindungan  anak harus dapat dipertanggungjawabkan dan merupakan  bagian dari pertanggungjawaban pelaksanaan pemerintahan.  
+Huruf h  
+Yang dimaksud akuntabilitas menyangkut bahwa  penyelenggaraan pemberdayaan perempuan dan pelindungan  anak harus dapat dipertanggungjawabkan dan merupakan  bagian dari pertanggungjawaban pelaksanaan pemerintahan.  
 
-Huruf i Yang dimaksud responsif gender menyangkut kebijakan,  program, kegiatan dan penganggaran yang memperhatikan  perbedaan kebutuhan pengalaman dan aspirasi laki-laki dan  perempuan.  
+Huruf i  
+Yang dimaksud responsif gender menyangkut kebijakan,  program, kegiatan dan penganggaran yang memperhatikan  perbedaan kebutuhan pengalaman dan aspirasi laki-laki dan  perempuan.  
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
@@ -495,11 +516,14 @@ Cukup jelas.
 
 #### Pasal 5
 
-Huruf a Cukup jelas.  
+Huruf a  
+Cukup jelas.  
 
-Huruf b yang disebut pengelola adalah pengelola PUSYAN GATRA  dan PUSPAGA Huruf c Cukup jelas.  
+Huruf b  
+yang disebut pengelola adalah pengelola PUSYAN GATRA  dan PUSPAGA Huruf c Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
 #### Pasal 6
 
@@ -555,19 +579,19 @@ Cukup jelas.
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
@@ -613,4 +637,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN PASURUAN NOMOR 306
+TAMBAHAN LEMBARAN DAERAH KABUPATEN PASURUAN NOMOR 306
