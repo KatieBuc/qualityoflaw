@@ -1,16 +1,18 @@
-# BUPATI BANYUWANGI
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DAN PERDAGANGAN ORANG
+
+BUPATI BANYUWANGI  
 
 # PERATURAN DAERAH KABUPATEN BANYUWANGI
 
-# NOMOR 1 TAHUN 2011
+NOMOR 1 TAHUN 2011
 
-# TENTANG
+TENTANG  
 
-PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DAN  PERDAGANGAN ORANG
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DAN PERDAGANGAN ORANG  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA. 
 
-# BUPATI BANYUWANGI,
+BUPATI BANYUWANGI,  
 
 Menimbang:  
  
@@ -33,9 +35,7 @@ Mengingat:
  
  
  
-1. Undang-undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten di Lingkungan Provinsi Jawa Timur (Berita Negara Republik Indonesia Tahun 1950 Nomor 4), sebagaimana telah diubah dengan Undang-Undang Nomor 2 tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor
-
-2730. ;  
+1. Undang-undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten di Lingkungan Provinsi Jawa Timur (Berita Negara Republik Indonesia Tahun 1950 Nomor 4), sebagaimana telah diubah dengan Undang-Undang Nomor 2 tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 2730;  
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 23, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 3. Undang-Undang Nomor 8 Tahun 1981 tentang Hukum  Acara Pidana (Lembaran Negara Republik Indonesia  Tahun 1981 Nomor 76; Tambahan Lembaran Negara  Republik Indonesia Nomor 3209);  
 4. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi Mengenai Penghapusan Segala  Bentuk Diskriminasi terhadap Wanita (Convention on the  Elimination of All Forms of Discrimination Againt  Woment) (Lembaran negara Republik Indonesia Tahun  1984 Nomor 29, Tambahan Lembaran Negara republik  Indonesia Nomor 3277);  
@@ -43,11 +43,11 @@ Mengingat:
 6. Undang-Undang Nomor 3 Tahun 1997 tentang  Pengadilan Anak (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 76, Tambahan Lembaran Negara  Republik Indonesia Nomor 3835);  
 7. Undang-Undang Nomor 5 tahun 1998 Tentang  Pengesahan Konvensi Menentang Penyiksaan dan  Perlakuan atau Penghukuman Lain Yang Kejam, Tidak  Manusiawi, Atau Merendahkan Martabat Manusia  (Lembaran Negara Republik Indonesia Tahun 1998  Nomor 164, Tambahan Lembaran Negara Republik  Indonesia Nomor 3783);  
 8. Undang-Undang Nomor 20 Tahun 1999 tentang  Pengesahan ILO Convention No. 138 Concerning  Minimum Age for Adminission to Employment (Konvensi ILO mengenai Usia Minimum untuk diperbolehkan  Bekerja) (Lembaran Negara republik Indonesia Tahun  1999 Nomor 56, Tambahan Lembaran Negara Republik  Indonesia Nomor 3835);  
-9. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 165, Tambahan Lembaran Negara  Republik Indonesia Nomor 3886);  
+9. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 10. Undang-Undang Nomor 1 Tahun 2000 tentang  Pengesahan ILO Convention No. 182 Cocersing The  Prohibition and Immediate Action for The Elimination of  The Worst Froms of Child Labour (Konvensi ILO Nomor 182 mengenai Pelanggaran dan Tindakan Segera  Penghapusan Bentuk-Bentuk pekerjaan Terburuk Untuk  Anak (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 30, Tambahan Lembaran Negara republik  Indonesia Nomor 3941);  
-11. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia  Tahun 2002 Nomor 109, Tambahan Lembaran Negara  Republik Indonesia Nomor 3941);  
+11. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 3941);  
 12. Undang-Undang Nomor 13 Tahun 2003 tentang  Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara  Republik Indonesia Nomor 4279);  
-13. Undang-Undang Nomor 10 Tahun 2004 tentang  Pembentukan Peraturan Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2004 Nomor 53,  Tambahan Lembaran Negara Republik Indonesia Nomor  4389);  
+13. Undang-Undang Nomor 10 Tahun 2004 tentang  Pembentukan Peraturan Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2004 Nomor 53, Tambahan Lembaran Negara Republik Indonesia Nomor  4389);  
 14. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga  (Lembaran Negara Republik Indonesia Tahun 2004  Nomor 95, Tambahan Lembaran Negara Republik  Indonesia Nomor 4419);  
 15. Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintahan daerah (Lembaran Negara Republik  Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran  Negara Republik Indonesia Nomor 4437) sebagaimana  telah diubah terakhir kali dengan Undang-Undang Nomor  12 Tahun 2008 tentang Perubahan Kedua Atas Undang Undang Nomor 32 Tahun 2004 tentang Pemerintahan  Daerah (Lembaran Negara Republik Indonesia Tahun  2008 Nomor 108, Tambahan Lembaran Negara Republik  Indonesia Nomor 4548);  
 16. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007  Nomor 58, Tambahan Lembaran Negara Republik  Indonesia Nomor 4720);  
@@ -55,24 +55,25 @@ Mengingat:
 18. Peraturan Pemerintah Nomor 27 Tahun 1983 tentang  Pelaksanaan Kitab Undang-Undang Hukum Acara Pidana, sebagaimana diubah dengan Peraturan Pemerintah  Nomor 58 Tahun 2010 tentang Perubahan atas Peraturan  Pemerintah Nomor 90 Tahun 2010 (Lembaran Negara  Republik Indonesia Tahun 2007 Nomor 112, Tambahan  Lembaran Negara Republik Indonesia Nomor 5145);  
 19. Peraturan Pemerintah Republik Indonesia Nomor 79  Tahun 2005 tentang Pedoman Pembinaan dan  Pengawasan Penyelenggaraan Pemerintahan Daerah  (Lembaran Negara Republik Indonesia Tahun 2005  nomor 165, Tambahan Lembaran Negara Republik  Indonesia Nomor 4593);  
 20. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
-21. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara dan Mekanisme Pelayanan Terpadu Bagi Saksi dan/atau Korban Tindak Pidana Perdagangan Orang.  
-
-(Lembaran Negara Republik Indonesia Tahun 2008 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 4818);  
-
+21. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara dan Mekanisme Pelayanan Terpadu Bagi Saksi dan/atau Korban Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 4818);  
 22. Peraturan Pemerintah Nomor 44 Tahun 2008 tentang Pemberian Kompensasi, Restitusi dan Bantuan Kepada Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 84, Tambahan Lembaran Negara Republik Indonesia Nomor 4860);  
 23. Peraturan Presiden Nomor 1 tahun 2007 tentang Pengesahan, Pengundangan dan Penyebarluasan Peraturan Perundang-undangan.  
 24. Peraturan Presiden Republik Indonesia Nomor 69 Tahun 2008 Tentang Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang.  
-25. Peraturan Daerah Provinsi Jawa Timur Nomor 9 Tahun 2005 tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan Orang ( Lembaran Daerah Provinsi Jawa Timur Tahun 2005 Nomor 4 Seri E);  
+25. Peraturan Daerah Provinsi Jawa Timur Nomor 9 Tahun 2005 tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan Orang (Lembaran Daerah Provinsi Jawa Timur Tahun 2005 Nomor 4 Seri E);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANYUWANGI dan
+Dengan Persetujuan Bersama  
 
-# BUPATI BANYUWANGI
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANYUWANGI  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEKERASAN DAN
+BUPATI BANYUWANGI  
 
-# PERDAGANGAN ORANG
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DAN PERDAGANGAN ORANG
 
 # BAB I
 
@@ -80,7 +81,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEK
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 
 1. Daerah adalah Kabupaten Banyuwangi.  
 2. Pemerintah Daerah adalah Bupati dan perangkat daerah sebagai unsur  penyelenggara pemerintahan daerah.  
@@ -88,10 +89,10 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 4. SKPD yang membidangi Pemberdayaan Perempuan dan Perlindungan Anak  adalah Organisasi Perangkat Daerah yang memiliki tugas pokok dan fungsi di  bidang pemberdayaan perempuan dan perlindungan anak di Kabupaten  Banyuwangi.  
 5. Perempuan adalah seseorang yang berjenis kelamin perempuan.  
 6. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun,  termasuk anak yang masih dalam kandungan.  
-7. Perdagangan orang adalah tindakan perekrutan, pengangkutan,  penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan  ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan,  pemalsuan, penipuan, penyalah gunaan kekerasan atau posisi rentan,  penjeratan untang, atau memberi bayaran, atau manfaat ssehingga  memperoleh persetujuan dari orang yang memegang kendali atas orang lain  tersebut, baik yang dilakukan dalam Negara maupun antar Negara untuik  tuijuan eksploitasi atau mengakibatkan orang tereksploitasi.  
+7. Perdagangan orang adalah tindakan perekrutan, pengangkutan,  penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan  ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan,  pemalsuan, penipuan, penyalahgunaan kekerasan atau posisi rentan, penjeratan utang, atau memberi bayaran, atau manfaat sehingga  memperoleh persetujuan dari orang yang memegang kendali atas orang lain  tersebut, baik yang dilakukan dalam Negara maupun antar Negara untuk  tujuan eksploitasi atau mengakibatkan orang tereksploitasi.  
 8. Hak anak adalah bagian dari hak asasi manusia yang wajib dijamin, dilindungi,  dan dipenuhi oleh orangtua, keluarga, masyarakat, pemerintah, dan negara.  
 9. Kekerasan adalah setiap perbuatan secara melawan hukum, dengan atau  tanpa menggunakan sarana terhadap fisik dan psikis yang menimbulkan  bahaya bagi nyawa, badan, atau menimbulkan terampasnya kemerdekaan  seseorang.  
-10. Kekerasaan terhadap anak adalah setiap tindakan yang berakibat atau  mungkin berakibat penderitaan anak secara fisik, mental, sosial, psikososial,  dan seksual.  
+10. Kekerasan terhadap anak adalah setiap tindakan yang berakibat atau  mungkin berakibat penderitaan anak secara fisik, mental, sosial, psikososial,  dan seksual.  
 11. Kekerasan fisik adalah setiap perbuatan yang mengakibatkan rasa sakit,  cidera, luka atau pada tubuh seseorang, gugurnya pingsan dan/atau penyebab  kematian.  
 12. Kekerasan Psikis adalah perbuatan yang mengakibatkan ketakutan, hilangnya  rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya  dan/atau penderitaan psikis berat pada seseorang.  
 13. Kekerasan seksual adalah setiap perbuatan yang berupa pelecehan seksual,  pemaksaan hubungan seksual, pemaksaan hubungan seksual dengan tidak  wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain  untuk tujuan komersial dan/atau tujuan tertentu.  
@@ -100,7 +101,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 16. Eksploitasi seksual adalah segala bentuk pemanfaatan organ tubuh seksual  atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk  tetapi tidak terbatas pada semua kegiatan pelacuran dan percabulan.  
 17. Perekrutan adalah tindakan yang meliputi mengajak, mengumpulkan,  membawa, atau memisahkan seseorang dari keluarga atau komunitasnya.  
 18. Pengiriman adalah tindakan memberangkatkan atau melabuhkan seseorang  dari suatu tempat ke tempat lain.  
-19. Penjeratan utang adalah perbuatan menempatkan orang dalam status atau  keadaan menjaminkan atau terpaksa menjaminkan dirinya atau keluarganya  atau orang-orang yang menjadi tangung jawabnya atau jasa pribadinya  sebagai bentuk pelunasan utang.  
+19. Penjeratan utang adalah perbuatan menempatkan orang dalam status atau  keadaan menjaminkan atau terpaksa menjaminkan dirinya atau keluarganya  atau orang-orang yang menjadi tanggung jawabnya atau jasa pribadinya  sebagai bentuk pelunasan utang.  
 20. Perlindungan terhadap perempuan adalah segala upaya yang ditujukan untuk  melindungi perempuan dan memberikan rasa aman dalam pemenuhan hak haknya dengan memberikan perhatian yang konsisten dan sistematis yang  ditujukan untuk mencapai kesetaraan gender.  
 21. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi  anak dan pemenuhan hak-haknya agar dapat hidup, tumbuh, berkembang,  dan berpartisipasi secara optimal sesuai dengan harkat dan martabat  kemanusiaan, serta mendapat perlindungan dari tindak kekerasan dan  diskriminasi.  
 22. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada korban  ketika melihat, mendengar, dan mengetahui akan sedang atau telah terjadinya  kekerasan terhadap korban.  
@@ -112,8 +113,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 28. Rumah Aman adalah tempat tinggal sementara bagi korban, agar  mendapatkan rasa aman dan tidak dijangkau oleh pelaku atau orang suruhan  pelaku, selama perkaranya belum terselesaikan.  
 29. Restitusi dalah pembayaran ganti kerugian yang dibebankan kepada pelaku  berdasarkan putusan pengadilan yang berkekuatan hukum tetap atas kerugian  materiil dan/atau inmateriil yang diderita korban atau ahli warisnya.  
 30. Rehabilitasi adalah pemulihan dari ganguan terhadap kondisi fisik, psikis, dan  sosial agar dapat melaksanakan peranya kembali secara wajar baik dalam  keluarga maupun dalam masyarakat.  
-31. Reintegrasi adalah proses penyatuan korban dengan keluarga, atau keluarga  pengganti dan masyarakat yang didukung dengan pemberian bantuan  pendidikan atau peningkatan keterampilan serta pendampingan
-32. Standard Prosedur Operasi yang selanjutnya disebut SPO adalah prosedur  yang menjadi acuan tindakan layanan yang ditetapkan dengan Surat  keputusan Bupati
+31. Reintegrasi adalah proses penyatuan korban dengan keluarga, atau keluarga  pengganti dan masyarakat yang didukung dengan pemberian bantuan  pendidikan atau peningkatan keterampilan serta pendampingan.  
+32. Standard Prosedur Operasi yang selanjutnya disebut SPO adalah prosedur  yang menjadi acuan tindakan layanan yang ditetapkan dengan Surat  keputusan Bupati.  
 33. Diskriminasi terhadap perempuan adalah setiap pembedaan, pengucilan atau  pembatasan yang dibuat atas dasar jenis kelamin, yang mempunyai pengaruh  atau tujuan untuk mengurangi atau menghapuskan pengakuan, penikmatan  atau penggunaan hak-hak azasi manusia dan kebebasan-kebebasan pokok di  bidang politik, ekonomi, sosial, budaya, sipil atau apapun lainnya oleh kaum  perempuan, terlepas dari status perkawinan mereka, atas dasar persamaan  antara laki-laki dan perempuan;  
 34. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak, yang  selanjutnya disebut P2TP2A adalah pusat pelayanan yang terintegrasi dalam  upaya pemberdayaan perempuan di berbagai bidang pembangunan, serta  perlindungan perempuan dan anak dari berbagai jenis diskriminasi dan tindak  kekerasan, termasuk perdagangan orang, yang dibentuk oleh pemerintah atau  berbasis masyarakat, yang meliputi: pusat rujukan, pusat konsultasi usaha,  pusat konsultasi kesehatan reproduksi, pusat konsultasi hukum, pusat krisis  terpadu (PKT), pusat pelayanan terpadu (PPT), pusat pemulihan trauma  (trauma center), pusat penanganan krisis perempuan (women crisis center),  pusat pelatihan, rumah aman (shelter), rumah singgah, atau bentuk lainnya.  
 35. Lembaga masyarakat adalah lembaga yang dibentuk oleh anggota masyarakat  Warga Negara Indonesia secara sukarela atas dasar kesamaan visi, misi,  profesi, fungsi dan kegiatan untuk berperanserta dalam pembangunan dalam  rangka mencapai tujuan nasional dalam wadah Negara Kesatuan Republik  Indonesia yang berdasarkan Pancasila, yang terdiri dari organisasi keagamaan,  lembaga swadaya masyarakat, organisasi profesi, organisasi swasta, organisasi  sosial, organisasi politik, media massa, dan bentuk organisasi lainnya.  
@@ -133,7 +134,7 @@ Asas
 Asas-asas dalam perlindungan perempuan dan anak korban kekerasan dan  perdagangan orang ini adalah:  
 a. Kepastian Hukum;  
 b. Keadilan dan Kesetaraan gender;  
-c. Nondiskriminasi;  
+c. Non diskriminasi;  
 d. Kepentingan terbaik korban;  
 e. Penghormatan terhadap hak-hak perempuan dan anak sebagai pemenuhan Hak  Asasi Manusia.  
 
@@ -147,7 +148,8 @@ Tujuan Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan  Orang a
 a. Melindungi perempuan dan anak korban kekerasan dan perdagangan orang;  
 b. Menindak pelaku kekerasan dan perdagangan orang terhadap perempuan dan  anak;  
 c. Memberikan rasa aman terhadap perempuan dan anak korban kekerasan dan  perdagangan orang;  
-d. Memulihkan kondisi fisik, psikis, sosial, dan ekonomi perempuan dan anak  korban kekerasan dan perdagangan orang.  e. Menjamin adanya layanan yang komprehensif dalam melaksanakan kebijakan,  program dan kegiatan perlindungan perempuan dan anak korban kekerasan  dan perdagangan orang.  
+d. Memulihkan kondisi fisik, psikis, sosial, dan ekonomi perempuan dan anak  korban kekerasan dan perdagangan orang.  
+e. Menjamin adanya layanan yang komprehensif dalam melaksanakan kebijakan,  program dan kegiatan perlindungan perempuan dan anak korban kekerasan  dan perdagangan orang.  
 
 # BAB III
 
@@ -188,7 +190,7 @@ Kewajiban Lembaga Pendamping
 
 Lembaga Pendamping berkewajiban:  
 a. mendorong korban untuk memberikan keterangan kepada pihak berwajib dan  bersedia menjadi saksi;  
-b. memfasilitasi korban untuk terlibat dalam upaya pencegahan bertambahnya  korban bersama masyarakat .  
+b. memfasilitasi korban untuk terlibat dalam upaya pencegahan bertambahnya  korban bersama masyarakat.  
 
 # BAB IV
 
@@ -229,8 +231,10 @@ Sistem Perlindungan
 
 #### Pasal 9
 
-1. Sistem penyelenggaraan perlindungan terhadap korban perdagangan orang  dan kekerasan terhadap perempuan dan anak dilakukan melalui 2 (dua) cara,  yaitu:a. Cara preventif atau pencegahan; dan  
-b. Cara represif atau penanganan (2) Cara preventif atau pencegahan dilakukan melalui berbagai bentuk  perlindungan, baik oleh masyarakat maupun pemerintah yang dimaksudkan  untuk mencegah timbulnya tindak pidana perdagangan orang dan kekerasan  atau korban kekerasan terhadap perempuan dan anak.  
+1. Sistem penyelenggaraan perlindungan terhadap korban perdagangan orang  dan kekerasan terhadap perempuan dan anak dilakukan melalui 2 (dua) cara, yaitu:  
+a. Cara preventif atau pencegahan; dan  
+b. Cara represif atau penanganan.  
+2. Cara preventif atau pencegahan dilakukan melalui berbagai bentuk  perlindungan, baik oleh masyarakat maupun pemerintah yang dimaksudkan  untuk mencegah timbulnya tindak pidana perdagangan orang dan kekerasan  atau korban kekerasan terhadap perempuan dan anak.  
 3. Cara represif atau penanganan dilakukan melalui berbagai bentuk  perlindungan yang dilakukan oleh pemerintah melalui kegiatan pengaturan,  pelaksanaan dan penegakan peraturan perundang-undangan yang mengatur  tentang Perlindungan Perempuan dan Anak Korban Kekerasan dan  Perdagangan Orang.  
 4. Pedoman dan Teknis Perlindungan Perempuan dan Anak Korban Kekerasan  dan Perdagangan Orang diatur lebih lanjut melalui Peraturan Bupati.  
 
@@ -250,7 +254,7 @@ Prinsip-Prinsip Pelayanan
 
 #### Pasal 11
 
-Penyelenggaraan pelayanan terhadap korban dilakukan dengan prinsip-prinsip  antara lain:  
+Penyelenggaraan pelayanan terhadap korban dilakukan dengan prinsip-prinsip antara lain:  
 a. Tidak dipungut biaya;  
 b. Cepat;  
 c. Aman;  
@@ -271,7 +275,7 @@ a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang  bertuju
 b. pelayanan medicological merupakan satu bentuk layanan medis untuk  kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang diberikan oleh pendamping  dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan  rumah aman untuk melindungi korban dari berbagai bentuk ancaman dan  intimidasi bagi korban dan memberikan dukungan secara sosial sehingga  korban mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam  menyelesaikan masalahnya;  
 d. pelayanan hukum adalah pelayanan untuk membantu korban dalam  menjalankan proses peradilan;  
-e. pelayanan kemadirian ekonomi berupa layanan untuk pelatihan keterampilan  dan memberikan akses ekonomi agar korban dapat mandiri;  
+e. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan keterampilan  dan memberikan akses ekonomi agar korban dapat mandiri;  
 f. pelayanan rohani meliputi pemberian penjelasan tentang hak, kewajiban dan  penguatan iman dan taqwa;  
 g. pelayanan yang berkelanjutan pada tahap rehabilitasi dan reintegrasi.  
 
@@ -285,22 +289,24 @@ Pendampingan
 
 #### Pasal 14
 
-1. Pendampingan meliputi seluruh upaya yang terpadu untuk memulihkan dan  menguatkan kondisi korban yang dilakukan oleh Kepolisian, Kejaksaan,  Pengadilan, Advokat dan pekerja sosial, Women’s Crisis Center, organisasi  perempuan dan sosial peduli perempuan dan anak;  
+1. Pendampingan meliputi seluruh upaya yang terpadu untuk memulihkan dan  menguatkan kondisi korban yang dilakukan oleh Kepolisian, Kejaksaan, Pengadilan, Advokat dan pekerja sosial, Women’s Crisis Center, organisasi perempuan dan sosial peduli perempuan dan anak;  
 2. Pendampingan oleh kepolisian, kejaksaan, pengadilan, dan advokat  sebagaimana dimaksud pada ayat (1) sesuai dengan peraturan perundang undangan.  
 
 #### Pasal 15
 
-1. Tugas Pekerja Sosial sebagai pendamping adalah:a. memberikan informasi yang cukup kepada korban tentang hak-haknya;  
+1. Tugas Pekerja Sosial sebagai pendamping adalah:  
+a. memberikan informasi yang cukup kepada korban tentang hak-haknya;  
 b. membangun hubungan yang setara dengan korban agar bersedia  membuka diri dalam mengemukakan persoalannya;  
 c. menanyakan apa yang yang ingin dilakukan dan bantuan apa yang  diperlukan;  
 d. memberikan informasi dan menghubungkan dengan lembaga atau  perorangan yang dapat membantu mengatasi persoalan;  
 e. membantu memberikan informasi tentang layanan konsultasi hukum;  
 f. mendampingi korban selama proses medicological;  
-g. mendampingi korban selama proses pemeriksaan di Kepolisian, Kejaksaan,  dan Pengadilan;  
+g. mendampingi korban selama proses pemeriksaan di Kepolisian, Kejaksaan, dan Pengadilan;  
 h. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di  Kepolisian, Kejaksaan, dan Pengadilan;  
 i. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak  berkepentingan, termasuk pemberitaan oleh media massa;  
 j. melakukan koordinasi dengan pendamping yang lain;  
-k. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi dan  reintegrasi (2) Pelayanan terhadap korban dilaksanakan secara terpadu dan berkelanjutan  oleh penyedia layanan.  
+k. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi dan reintegrasi.  
+2. Pelayanan terhadap korban dilaksanakan secara terpadu dan berkelanjutan oleh penyedia layanan.  
 
 # BAB VI
 
@@ -325,7 +331,7 @@ Bupati mengintegrasikan kebijakan, program, dan kegiatan perlindungan  perempuan
 
 1. Bupati melaksanakan kebijakan, program, dan kegiatan untuk menghapus  segala bentuk diskriminasi dan tindak kekerasan terhadap perempuan dan  anak korban kekerasan dan perdagangan orang.  
 2. Pelaksanaan sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh Wakil  Bupati.  
-3. Kantor Pemberdayaan Perempuan dan Keluarga Berencana atau SKPD yang  membidangi Pemberdayaan Perempuan dan Perlindungan anak beserta  P2TP2A melaksanakan kebijakan, program dan kegiatan yang telah ditetapkan,  dan dalam pelaksanaannya bekerjasama dengan SKPD terkait, penegak  hukum, lembaga masyarakat, perguruan tinggi, dan masyarakat madani.  
+3. Kantor Pemberdayaan Perempuan dan Keluarga Berencana atau SKPD yang  membidangi Pemberdayaan Perempuan dan Perlindungan anak beserta  P2TP2A melaksanakan kebijakan, program dan kegiatan yang telah ditetapkan, dan dalam pelaksanaannya bekerjasama dengan SKPD terkait, penegak hukum, lembaga masyarakat, perguruan tinggi, dan masyarakat madani.  
 4. Pelaksanaan sebagaimana dimaksud pada ayat (3) berupa: analisis kebijakan,  koordinasi, advokasi, sosialisasi, komunikasi, informasi dan edukasi (KIE),  pelatihan, fasilitasi pelayanan, penyediaan pelayanan, pengembangan model  perlindungan perempuan dan anak serta bentuk lainnya.  
 
 #### Pasal 19
@@ -345,7 +351,7 @@ Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan  perempu
 a. koordinasi pelaksanaan kebijakan, program, dan kegiatan antar SKPD;  
 b. kerjasama dengan kabupaten dan kota lain dalam satu provinsi, dan dengan  kabupaten dan kota di provinsi lain, dalam pelaksanaan kebijakan, program dan  kegiatan sesuai dengan ketentuan peraturan perundang undangan;  
 c. fasilitasi dan penyediaan pelayanan;  
-d. pelaksanaan aksi afirmasi perlindungan perempuan dan anak serta  perdagangan orang; dan  
+d. pelaksanaan aksi afirmasi perlindungan perempuan dan anak serta perdagangan orang; dan  
 e. penyusunan sistem pendataan perlindungan perempuan dan anak, termasuk  sistem pendataan kekerasan terhadap perempuan dan anak serta perdagangan  orang.  
 
 #### Pasal 22
@@ -380,12 +386,13 @@ Fasilitasi dan penyediaan pelayanan sebagaimana dimaksud pada pasal 22 ayat (2) 
 
 #### Pasal 26
 
-1. Pemerintah Kabupaten menyusun Standar Pelayanan Minimal bagi kegiatan  perlindungan perempuan dan anak korban kekerasan dan perdagangan orang.  
-2. Standar Pelayanan Minimal sebagaimana dimaksud pada ayat (1), meliputi  layanan:a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan  dan anak;  
+1. Pemerintah Kabupaten menyusun Standar Pelayanan Minimal bagi kegiatan perlindungan perempuan dan anak korban kekerasan dan perdagangan orang.  
+2. Standar Pelayanan Minimal sebagaimana dimaksud pada ayat (1), meliputi layanan:  
+a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan  dan anak;  
 b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan;  
 c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan;  
 d. penegakan dan bantuan hukum bagi perempuan dan anak korban  kekerasan; dan  
-e. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
+e. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban kekerasan.  
 
 # BAB X
 
@@ -393,7 +400,7 @@ e. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.
 
 #### Pasal 27
 
-Seluruh dana yang dibutuhkan untuk kegiatan perlindungan terhadap perempuan  dan anak korban kekerasan/perdagangan orang, termasuk proses pemulihannya  dibebankan pada APBD Kabupaten Banyuwangi, serta penerimaan lain-lain yang  sah dan tidak mengikat.  
+Seluruh dana yang dibutuhkan untuk kegiatan perlindungan terhadap perempuan dan anak korban kekerasan/perdagangan orang, termasuk proses pemulihannya dibebankan pada APBD Kabupaten Banyuwangi, serta penerimaan lain-lain yang sah dan tidak mengikat.  
 
 # BAB XI
 
@@ -401,7 +408,7 @@ Seluruh dana yang dibutuhkan untuk kegiatan perlindungan terhadap perempuan  dan
 
 #### Pasal 28
 
-1. Kepala Daerah melakukan pembinaan dan pengawasan kepada SKPD yang  membidangi Pemberdayaan Perempuan dan Perlindungan Anak dalam  melaksanaan kebijakan, program dan kegiatan perlindungan perempuan dan  anak korban kekerasan dan perdagangan orang.  
+1. Kepala Daerah melakukan pembinaan dan pengawasan kepada SKPD yang  membidangi Pemberdayaan Perempuan dan Perlindungan Anak dalam melaksanaan kebijakan, program dan kegiatan perlindungan perempuan dan  anak korban kekerasan dan perdagangan orang.  
 2. Kepala Daerah melalui SKPD yang membidangi Pemberdayaan Perempuan dan  Perlindungan Anak, melakukan pembinaan dan pengawasan kepada P2TP2A  dalam melaksanakan kegiatan perlindungan perempuan dan anak korban  kekerasan dan perdagangan orang.  
 
 # BAB XII
@@ -435,38 +442,31 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Banyuwangi.  
 
-Ditetapkan di Banyuwangi Pada Tanggal 24 Januari 2011
+Ditetapkan di Banyuwangi  
 
-##### BUPATI BANYUWANGI,
+Pada Tanggal 24 Januari 2011  
 
-##### H. ABDULLAH AZWAR ANAS
+BUPATI BANYUWANGI,  
 
-Diundangkan di Banyuwangi pada tanggal 19 Agustus 2011
+H. ABDULLAH AZWAR ANAS  
 
-##### SEKRETARIS DAERAH
+Diundangkan di Banyuwangi  
 
-##### KABUPATEN BANYUWANGI
+pada tanggal 19 Agustus 2011  
 
-Drs. Ec. H. SUKANDI,  
-M.M.  
+SEKRETARIS DAERAH KABUPATEN BANYUWANGI  
 
-Pembina Utama Madya
+Drs. Ec. H. SUKANDI,  M.M.  
 
-##### NIP. 19560225 198212 1 002
+Pembina Utama Madya  
 
-##### LEMBARAN DAERAH KABUPATEN BANYUWANGI TAHUN 2011 NOMOR E/4
+NIP. 19560225 198212 1 002  
 
-##### PENJELASAN
+LEMBARAN DAERAH KABUPATEN BANYUWANGI TAHUN 2011 NOMOR E/4  
 
-##### ATAS
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BANYUWANGI
 
-##### PERATURAN DAERAH KABUPATEN BANYUWANGI
-
-##### NOMOR 1 TAHUN 2011
-
-##### TENTANG
-
-PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  DAN PERDAGANGAN ORANG
+NOMOR 1 TAHUN 2011 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DAN PERDAGANGAN ORANG
 
 ##### I. PENJELASAN UMUM
 
@@ -482,50 +482,67 @@ Dengan demikian diharapkan tujuan utama dari penyusunan Raperda  ini dapat terca
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
-ayat (1) huruf a Cukup Jelas huruf b Kesetaraan dan keadilan gender rnerupakan suatu proses untuk  menjadi adil terhadap laki-laki dan perempuan ; Kesetaraan gender  adalah kesamaan kondisi bagi laki-laki dan perempuan untuk  memperoleh kesempatan dan hak-haknya sebagai manusia, agar  rnampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi,  sosial budaya, pertahanan dan keamanan nasional dan kesamaan  dalam rnenikmati hasil pembangunan tersebut.  
+ayat (1)  
+huruf a  
+Cukup Jelas.  
 
-huruf c Non diskriminasi adalah sikap dan perlakuan terhadap korban  dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin,  ras, suku, agama dan antar golongan.  
+huruf b  
+Kesetaraan dan keadilan gender rnerupakan suatu proses untuk  menjadi adil terhadap laki-laki dan perempuan ; Kesetaraan gender  adalah kesamaan kondisi bagi laki-laki dan perempuan untuk  memperoleh kesempatan dan hak-haknya sebagai manusia, agar  rnampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi,  sosial budaya, pertahanan dan keamanan nasional dan kesamaan  dalam rnenikmati hasil pembangunan tersebut.  
 
-huruf d Kepentingan yang terbaik bagi korban adalah semua tindakan yang  menyangkut korban yang dilakukan o!eh pemerintah, masyarakat,  badan legislatif dan badan yudikatif, maka kepentingan yang terbaik  bagi korban harus menjadi pertimbangan utama.  
+huruf c  
+Non diskriminasi adalah sikap dan perlakuan terhadap korban  dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin,  ras, suku, agama dan antar golongan.  
 
-huruf e Cukup Jelas
+huruf d  
+Kepentingan yang terbaik bagi korban adalah semua tindakan yang  menyangkut korban yang dilakukan o!eh pemerintah, masyarakat,  badan legislatif dan badan yudikatif, maka kepentingan yang terbaik  bagi korban harus menjadi pertimbangan utama.  
+
+huruf e  
+Cukup Jelas.  
 
 #### Pasal 3
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 4
 
-huruf a
-
+huruf a  
 1. Individu adalah seseorang (dewasa) yang mampu memberikan  perlindungan.  
 2. Kelompok adalah kumpulan 2 (dua) orang atau lebih yang  mampu memberikan perlindungan, termasuk didalamnya  organisasi massa, kelompok kegiatan agama, dsb.  
 3. Lembaga swasta adalah organisasi non pemerintah yang mampu  memberikan perlindungan, termasuk didalamnya perusahaan  (badan usaha) dan Lembaga Swadaya Masyarakat (LSM).  
 
-huruf b s/d k Cukup jelas
+huruf b s/d k  
+Cukup jelas.  
 
 #### Pasal 5 s/d 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Ayat (1) Cukup jelas Ayat (2) Penyedia layanan adalah lembaga pemerintah maupun swasta yang  menyediakan layanan bagi korban kekerasan dan perdagangan orang,  seperti PPT, P2TP2A, KPPA, atau WCC (women crisis center).  
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Penyedia layanan adalah lembaga pemerintah maupun swasta yang  menyediakan layanan bagi korban kekerasan dan perdagangan orang,  seperti PPT, P2TP2A, KPPA, atau WCC (women crisis center).  
 
 #### Pasal 16 s/d 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
-Ayat (1) Pembentukan lembaga dimaksud adalah pendirian P2TP2A Kabupaten  Banyuwangi Ayat (2) Cukup Jelas Ayat (3) Cukup Jelas
+Ayat (1)  
+Pembentukan lembaga dimaksud adalah pendirian P2TP2A Kabupaten Banyuwangi.  
 
-#### Pasal 20 s/d
+Ayat (2)  
+Cukup Jelas.  
 
-#### Pasal 32
+Ayat (3)  
+Cukup Jelas.  
 
-Cukup Jelas ==============================================
+#### Pasal 20 s/d Pasal 32
+
+Cukup Jelas.  
