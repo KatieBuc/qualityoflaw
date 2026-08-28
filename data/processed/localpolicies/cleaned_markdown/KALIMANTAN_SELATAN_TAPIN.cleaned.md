@@ -1,16 +1,20 @@
-# BUPATI TAPIN
+# PERLINDUNGAN DAN PEMBERDAYAAN PEREMPUAN 
 
-# PROVINSI I{ALIMAITTAIT SELATAIT
+BUPATI TAPIN  
 
-# PERATURAN DATRAII I(ABUPATEN TAPIN
+PROVINSI KALIMANTAN SELATAN  
 
-# NOMOR 02 TAIIUN 2015
+# PERATURAN DAERAH KABUPATEN TAPIN
 
-# TENTANG
+NOMOR 02 TAHUN 2015  
 
-PEf,LIITDUNGAN DAN PEMBERDAYAAN PEREMPUAN DEITGAN RAIIMAT TI'IIAN YANG MAIIA ESA
+TENTANG  
 
-# BUPATI TAPIN,
+PERLINDUNGAN DAN PEMBERDAYAAN PEREMPUAN 
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI TAPIN,  
 
 Menimbang:  
  
@@ -21,36 +25,34 @@ Menimbang:
  
  
 a. bahwa perempuan sebagai aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi;  
-b. bahwa selain perlindungan sebagaimana dimaksud dalam huruf a, perempuarl perlu diberdayakan agar dapat mengakhralisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
-c. batrwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan hurrrf b, perlu menetapkan Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
+b. bahwa selain perlindungan sebagaimana dimaksud dalam huruf a, perempuan perlu diberdayakan agar dapat mengakhralisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
 
-Me4gingat: 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republiklndonesia Tahun 1945;  
+Mengingat:  
 
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 2, Undang-Undang Nomor 8 Tahun 1965 tentang Pembentukan Daerah Tingkat II Tanatr [a,ut, Daerah Tingkat II Tapin dan Daerah Tingkat II Tabalong (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 27561;  
-
-3. Undang-Undang Nomor 1 Tahun L974 tentang Perkawinan (kmbaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambatran Lembaran Negara Republik Indonesia Nomor 301e);  
-4. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskiriminasi Terhadap Wanita (Conuention On Tle Elimination OI All Forms Of Dbcimanation Against Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 32771;  
-5. Undang-Undang Nomor 13 Tatrun 1998 tentang Kesejatrteraan I"anjut Usia (Iembaran Negara Republik Indonesia Tahun 1998 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 37961;  
+3. Undang-Undang Nomor 1 Tahun L974 tentang Perkawinan (lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 301e);  
+4. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention On The Elimination OI All Forms Of Discrimination Against Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 32771;  
+5. Undang-Undang Nomor 13 Tatrun 1998 tentang Kesejahteraan Lanjut Usia (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 37961;  
 6. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 7. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 20Og Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor a27el;  
-8. Undang-Undang Nomor 23 Tahun 2OO4 tentang Penghapusan Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 95, Tambahan [.embaran Negara Republik Indonesia Nomor 4aBl;  
-9. Undang-Undang Nomor 21 Tahun 2OO7 tentang Pembgrantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2OOT Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 472011'
-10. Undang-Undang Nomor 11 Tahun 2009 tentang Kesejatrteraan Sosial (Lembaran Negara Republik Indonesia Tafrun 2OO9 Nomor 12, Tambahart Lembaran Negara Republik Indonesia Nomor a967l,;  
-
-l1. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Penrndang-undangan (Lembaran Negara Republik Indonesia Tatrun 2OLL Nomor 82, Tambahan Lembaran Republik Indonesia Nomor 523a\
-
-12. Undang-Undang Nomor 19 Tahun 2011 tentang Pengesaharr Conuenhon On TIE Rights Of Persons With Disabilities (Konvensi Mengenai Hak Hak Penyandang Disabilitas) (Lembaran Negara Republik Indonesia Tatrun 2OLL Nomor tO7, Tambahan Lembaran Negara Republik Indonesia Nomor 5251);  
-13. Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daeratr (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244, Tambatran Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah diubah dengan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2OL4 tentang Perubatran Atas Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintatran Daerah (kmbaran Negara Republik Indonesia Tahun 2Ol4 Nomor 246, Tambatran kmbaran Negara Republik Indonesia Nomor 5589);  
-14. Peraturan Pemerintatr Nomor 58 Tahun 2005 tentarg Pengelolaan Keuangan Daeratt (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor a578);  
-15. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang Pedoman Pembinaan dan Pengawasan Penyelenggaraan Pemerintah Daerdr (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 165, Tambatran Lembaran Negara Republik Indonesia Nomor a593);  
-16. Perattrran Pemerintah Nomor 38 Tahun 2OO7 tentang Pembagian Unrsan Pemerintatran antara Pemerintatr, Pemerintahan Daerah Provinsi, dart Pemerintatran Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor a7371;  
+8. Undang-Undang Nomor 23 Tahun 2OO4 tentang Penghapusan Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 95, Tambahan [.embaran Negara Republik Indonesia Nomor 448l);  
+9. Undang-Undang Nomor 21 Tahun 2OO7 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2OOT Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 472011;  
+10. Undang-Undang Nomor 11 Tahun 2009 tentang Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 2OO9 Nomor 12, Tambahan Lembaran Negara Republik Indonesia Nomor 4967);  
+l1. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tatrun 2OLL Nomor 82, Tambahan Lembaran Republik Indonesia Nomor 5234) 
+12. Undang-Undang Nomor 19 Tahun 2011 tentang Pengesahan Convention On ThE Rights Of Persons With Disabilities (Konvensi Mengenai Hak Hak Penyandang Disabilitas) (Lembaran Negara Republik Indonesia Tahun 2OLL Nomor tO7, Tambahan Lembaran Negara Republik Indonesia Nomor 5251);  
+13. Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah diubah dengan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2OL4 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintah Daerah (lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 246, Tambahan lembaran Negara Republik Indonesia Nomor 5589);  
+14. Peraturan Pemerintah Nomor 58 Tahun 2005 tentang Pengelolaan Keuangan Daerah (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor a578);  
+15. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang Pedoman Pembinaan dan Pengawasan Penyelenggaraan Pemerintah Daerah (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor a593);  
+16. Peraturan Pemerintah Nomor 38 Tahun 2OO7 tentang Pembagian Urusan Pemerintahan antara Pemerintah, Pemerintahan Daerah Provinsi, dart Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2OO7 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor a7371;  
 17. Peraturan Bersama Menteri Negara Pemberdayaan Perempuan, Menteri dalam Negeri dan Menteri Pendidikan Nasional Nomor: 17lMEN.PPlDEP.rrlVt/2OOs - NOMOR 28A TAHUN 2OO5- NOMOR: L IPB / 2OO5 tentang Percepatan Pemberantasan Buta Aksara Perempuan;  
 18. Peraturan Menteri Negara pemberdayaan Perempuan Nomor 2 Tatrun 2008 tentang Pedoman Pelaksanaan Perlindungan perempuan;  
-19. Peraturan Menteri Dalam Negeri Nomor 13 Tatrun 2006 tentang Pedoman Pengeloaan Keuangan Daeratr, sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Menteri Dalam Negeri Nomor 21 Tatrun 20ll tentang Perubahan Kedua Atas Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengeloaan Keuangan Daeratr;  
-20. Perahrran Menteri Dalam Negeri Nomor 1 Tahun 2OL4 tentang Pembenhrkan Produk Hulnrm Daerah;  
+19. Peraturan Menteri Dalam Negeri Nomor 13 Tatrun 2006 tentang Pedoman Pengelolaan Keuangan Daerah, sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Menteri Dalam Negeri Nomor 21 Tatrun 20ll tentang Perubahan Kedua Atas Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengelolaan Keuangan Daerah;  
+20. Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2OL4 tentang Pembentukan Produk Hukum Daerah;  
 21. Peraturan Daerah Kabupaten Tapin Nomor O4 Tahun 2008 tentang Urusan Pemerintahan Daerah Kabupaten Tapin;  
-22. Peratttran Daerah Kabupaten Tapin Nomor 05 Tatrun 2OO8 tentang Pembentukan Organisasi dan Tata Kerja Perangkat Daeralr Kabupaten Tapin, sebagaimana telalr diubah beberapa kali, terakhir dengan Perahrran Daerah Kabupaten Tapin Nomor 01 Tatrun 2OL+ tentang Perubahan Ketiga Atas Perahrran Daeratr Kabupaten Tapin Nornor 05 Tatrun 2OO8 tentang Pembentukatl Organisasi dan Tata Kerja Perangkat Daerah Kabupaten Tapin;  
-23. Peraturan Bupati Tapin Nomor O2 Tahun 2Ol4 tentang Pedoman Pembentukan Produk Hulimm Daerah di Lingkungan Pemerintatr Kabupaten Tapin;  
+22. Peraturan Daerah Kabupaten Tapin Nomor 05 Tatrun 2OO8 tentang Pembentukan Organisasi dan Tata Kerja Perangkat Daerah Kabupaten Tapin, sebagaimana telalr diubah beberapa kali, terakhir dengan Peraturan Daerah Kabupaten Tapin Nomor 01 Tatrun 2OL+ tentang Perubahan Ketiga Atas Peraturan Daerah Kabupaten Tapin Nornor 05 Tatrun 2OO8 tentang Pembentukan Organisasi dan Tata Kerja Perangkat Daerah Kabupaten Tapin;  
+23. Peraturan Bupati Tapin Nomor O2 Tahun 2Ol4 tentang Pedoman Pembentukan Produk Hulimm Daerah di Lingkungan Pemerintahan Kabupaten Tapin;  
 
 Dengaa Peroetqfuan Berrama DEWAN PERWAISUTil RAITYAT DATRAII KABI'PATEIY TAPIN dan
 
