@@ -1,20 +1,20 @@
-# BUPATI SINTANG
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-# PROVINSI KALIMANTAN BARAT
+BUPATI SINTANG  
+
+PROVINSI KALIMANTAN BARAT  
 
 # PERATURAN DAERAH KABUPATEN SINTANG
 
-# NOMOR 8 TAHUN 2015
+NOMOR 8 TAHUN 2015  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# KORBAN KEKERASAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# BUPATI SINTANG,
+BUPATI SINTANG,  
 
 Menimbang:  
  
@@ -38,8 +38,6 @@ Mengingat:
  
  
 1. Undang-Undang Nomor 27 Tahun 1959 tentang  Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 Tentang Pembentukan Daerah Tingkat II Di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9, Tambahan Lembaran Negara Republik Indonesia Nomor 352) Sebagai Undang Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 72, Tambahan Lembaran Negara Republik Indonesia Nomor 1820);  
-
-2. Undang-Undang...  
 2. Undang-Undang Nomor 1 Tahun 1974 tentang  Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019);  
 3. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 4. Undang-Undang Nomor 8 Tahun 1981 tentang Hukum  Acara Pidana (Lembaran Negara Republik Indonesia Tahun 1981 Nomor 76, Tambahan Lembaran Negara Republik Indonesia Nomor 3209 );  
@@ -48,16 +46,14 @@ Mengingat:
 7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 8. Undang-Undang Nomor 1 Tahun 2000 tentang  Pengesahan ILO Convention No. 182 Concerning The Prohibition And Immediate Action For The Elimination Of The Worst Forms Of Child Labour (Konvensi ILO No. 182 mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-Bentuk Pekerjaan Terburuk untuk Anak) (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 30, Tambahan Lembaran Negara Republik Indonesia Nomor 3941);  
 9. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
-10. Undang-Undang...  
 10. Undang-Undang Nomor 13 Tahun 2003 tentang  Ketenagakerjaan (Lembaran Negara Republik Indonesia  Tahun 2003 Nomor 39, Tambahan Lembaran Negara  Republik Indonesia Nomor 4279);  
 11. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga  (Lembaran Negara Republik Indonesia Tahun 2004  Nomor 95, Tambahan Lembaran Negara Republik  Indonesia Nomor 4419);  
 12. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Saksi Dan Korban (Lembaran Negara  Republik Indonesia Tahun 2006 Nomor 64, Tambahan  Lembaran Negara Republik Indonesia Nomor 4635)  sebagaimana telah diubah dengan Undang-Undang  Nomor 31 Tahun 2014 (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 293, Tambahan Lembaran  Negara Republik Indonesia Nomor 5602);  
 13. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007  Nomor 58, Tambahan Lemberan Negara Republik  Indonesia Nomor 4720);  
-14. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik  Indonesia Nomor 5234);  
+14. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);  
 15. Undang-Undang Nomor 11 Tahun 2012 tentang Sistem  Peradilan Anak (Lembaran Negara Republik Indonesia  Tahun 2012 Nomor 153);  
 16. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran  Negara Republik Indonesia Nomor 5587) sebagaimana  telah diubah dengan Undang-Undang Nomor 9 Tahun  2015 (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik  Indonesia Nomor 5679);  
 17. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang  Pedoman Pembinaan Dan Pengawasan Penyelenggaraan  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2005 Nomor 165, Tambahan Lembaran  Negara Republik Indonesia Nomor 4593);  
-18. Peraturan...  
 18. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi Dan Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 4737);  
 19. Peraturan Pemerintah Nomor 41 Tahun 2007 tentang  Organisasi Perangkat Daerah (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 89, Tambahan Lembaran Negara Republik Indonesia Nomor 4741);  
 20. Peraturan Daerah Kabupaten Sintang Nomor 1 Tahun  2008 tentang Urusan Pemerintah Kabupaten Sintang (Lembaran Daerah Kabupaten Sintang Tahun 2008 Nomor 1, Tambahan Lembaran Daerah Kabupaten Sintang Nomor 1);  
@@ -65,15 +61,19 @@ Mengingat:
 22. Peraturan Daerah Kabupaten Sintang Nomor 8 Tahun  2006 tentang Penyidik Pegawai Negeri Sipil Di Lingkungan Pemerintah Kabupaten Sintang (Lembaran Daerah Kabupaten Sintang Tahun 2006 Nomor 9);  
 23. Peraturan Daerah Kabupaten Sintang Nomor 10 Tahun  2010 tentang Ketertiban Umum (Lembaran Daerah Kabupaten Sintang Tahun 2010 Nomor 10, Tambahan Lembaran Daerah Kabupaten Sintang Nomor 10);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SINTANG dan
+Dengan Persetujuan Bersama  
 
-# BUPATI SINTANG
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SINTANG  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+BUPATI SINTANG  
 
-# BAB I...  
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
 # BAB I
 
@@ -81,8 +81,8 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEK
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kabupaten Sintang.  
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
+1. Daerah adalah Kabupaten Sintang.  
 2. Pemerintah Daerah adalah Bupati dan Perangkat Daerah  sebagai unsur penyelenggara pemerintahan Daerah.  
 3. Bupati adalah Bupati Sintang.  
 4. Perempuan adalah seseorang yang berjenis kelamin  perempuan.  
@@ -94,7 +94,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kabupaten Sint
 10. Kekerasan psikis adalah perbuatan yang mengakibatkan  ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan  untuk bertindak, rasa tidak berdaya dan/atau penderitaan  psikis berat pada seseorang.  
 11. Kekerasan seksual adalah setiap perbuatan yang berupa  pelecehan seksual, pemaksaan hubungan seksual, pemaksaan  hubungan seksual dengan tidak wajar atau tidak disukai,  pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan/atau tujuan tertentu.  
 12. Korban adalah perempuan dan anak yang mengalami  kesengsaraan dan/atau penderitaan baik langsung maupun  tidak langsung sebagai akibat dari kekerasan.  
-13. Perlindungan...  
 13. Perlindungan perempuan adalah segala kegiatan yang  ditujukan untuk memberikan rasa aman yang dilakukan oleh  pihak kepolisian, kejaksaan, pengadilan, lembaga sosial, atau  pihak lain yang mengetahui atau mendengar akan atau telah  terjadi kekerasan terhadap perempuan.  
 14. Perlindungan anak adalah segala kegiatan untuk menjamin  dan melindungi anak dan hak-haknya agar dapat hidup,  tumbuh, berkembang dan berpartisipasi secara optimal sesuai  dengan harkat dan martabat kemanusiaan serta mendapat  perlindungan dari kekerasan dan diskriminasi.  
 15. Pelayanan adalah tindakan yang dilakukan sesegera mungkin  kepada korban ketika melihat, mendengar dan mengetahui  akan, sedang atau telah terjadinya kekerasan terhadap  korban.  
@@ -106,7 +105,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kabupaten Sint
 21. Rumah Aman adalah rumah singgah untuk korban, selama  proses pendampingan, guna keamanan dan kenyamanan  korban dari ancaman dan bahaya pelaku.  
 22. Standar Operasional Prosedur yang selanjutnya disingkat SOP  adalah prosedur standar operasional yang menjadi acuan  tindakan layanan yang ditetapkan dengan Peraturan Bupati.  
 23. Masyarakat adalah perseorangan, keluarga, kelompok,  organisasi sosial dan atau organisasi kemasyarakatan.  
-24. Keluarga...  
 24. Keluarga adalah unit terkecil dalam masyarakat yang terdiri  dari suami istri, atau suami-istri dan anaknya, atau ayah dan  anaknya, serta ibu dan anaknya.  
 25. Rumah Tangga adalah anggota keluarga dan kerabat (cucu, kemenakan, kakak, adik, kakek, nenek, sepupu dan  sebagainya) dan bukan kerabat (pembantu, sopir dan  sebagainya) yang hidup dan makan dari satu dapur serta  menetap dalam satu rumah.  
 26. Anggaran Pendapatan dan Belanja Daerah yang selanjutnya  disingkat APBD adalah Anggaran Pendapatan dan Belanja  Daerah Kabupaten Sintang.  
@@ -117,8 +115,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kabupaten Sint
 31. Psikiater adalah profesi seorang dokter spesialistik yang  memiliki spesialisasi dalam diagnosis dan penanganan  gangguan emosional.  
 32. Visum et Repertum adalah keterangan yang diberikan oleh  seorang Dokter tentang hal yang diperlukan untuk membuat  terang suatu perkara pidana dan perdata guna kepentingan  pemeriksaan.  
 33. Visum et Repertum Psikiatrikum adalah keterangan yang  diberikan oleh seorang Dokter Ahli Kedokteran Jiwa tentang  kondisi kesehatan jiwa seseorang yang diperlukan untuk  membuat terang suatu perkara pidana dan perdata guna  kepentingan pemeriksaan.  
-
-# BAB II...  
 
 # BAB II
 
@@ -137,7 +133,8 @@ d. Kepentingan terbaik bagi korban.
 1. Tujuan Perlindungan Perempuan dan Anak Korban Kekerasan  adalah memberikan perlindungan dan pelayanan untuk  kepentingan terbaik bagi perempuan dan anak korban  kekerasan yang terjadi di ranah domestik dan/atau publik.  
 2. Bentuk kekerasan terhadap perempuan dan anak  sebagaimana dimaksud pada ayat (1) meliputi antara lain:  
 a. kekerasan fisik;  
-b. kekerasan seksual; dan/atauc. kekerasan psikis.  
+b. kekerasan seksual; dan/atau  
+c. kekerasan psikis.  
 
 #### Pasal 4
 
@@ -151,12 +148,16 @@ Penyelenggaraan pelayanan terhadap korban dilakukan dengan  prinsip-prinsip anta
 
 Setiap korban berhak:  
 a. mendapatkan perlindungan dari masyarakat dan pemerintah  maupun lembaga non pemerintah di tingkat lokal, nasional  maupun internasional;  
-b. mendapatkan informasi tentang keberadaan tempat  pengaduan.  c. mendapatkan pelayanan secara terpadu sesuai dengan  prinsip-prinsip pelayanan;  
+b. mendapatkan informasi tentang keberadaan tempat  pengaduan.  
+c. mendapatkan pelayanan secara terpadu sesuai dengan  prinsip-prinsip pelayanan;  
 d. melakukan tuntutan dan/atau gugatan hukum melalui badan  peradilan dan/atau peradilan di luar pengadilan;  
 e. mendapatkan informasi tentang peraturan perundang undangan yang melindungi korban;  
 f. mendapatkan penanganan secara rahasia;  
-g. mendapatkan...  g. mendapatkan informasi dan terlibat dalam setiap proses  pengambilan keputusan yang berkaitan dengan  pendampingan dan perkembangan penanganan perkara;  
-h. mendapatkan jaminan atas hak-haknya yang berkaitan  dengan statusnya sebagai istri, ibu atau anak, anggota  keluarga, anggota rumah tangga, serta anggota masyarakat.  i. mendapatkan pendampingan pada setiap tingkatan  pemeriksaan dan selama proses peradilan dilaksanakan.  j. mendapatkan penanganan berkelanjutan sampai tahap  rehabilitasi.  k. mendapatkan perlindungan dari pemberitaan identitas melalui  media massa.  
+g. mendapatkan informasi dan terlibat dalam setiap proses  pengambilan keputusan yang berkaitan dengan  pendampingan dan perkembangan penanganan perkara;  
+h. mendapatkan jaminan atas hak-haknya yang berkaitan  dengan statusnya sebagai istri, ibu atau anak, anggota  keluarga, anggota rumah tangga, serta anggota masyarakat.  
+i. mendapatkan pendampingan pada setiap tingkatan  pemeriksaan dan selama proses peradilan dilaksanakan.  
+j. mendapatkan penanganan berkelanjutan sampai tahap  rehabilitasi.  
+k. mendapatkan perlindungan dari pemberitaan identitas melalui  media massa.  
 
 #### Pasal 6
 
@@ -177,12 +178,13 @@ Kewajiban dan Tanggung Jawab Pemerintah Daerah
 
 #### Pasal 7
 
-1. Pemerintah Daerah berkewajiban dan bertanggung jawab  untuk melaksanakan upaya pencegahan terjadinya  kekerasan dalam bentuk:a. mengumpulkan data dan informasi tentang perempuan  dan anak yang menjadi korban kekerasan serta peraturan  perundang-undangan yang berhubungan dengan  perempuan dan anak yang menjadi korban kekerasan ;  
+1. Pemerintah Daerah berkewajiban dan bertanggung jawab  untuk melaksanakan upaya pencegahan terjadinya  kekerasan dalam bentuk:  
+a. mengumpulkan data dan informasi tentang perempuan  dan anak yang menjadi korban kekerasan serta peraturan  perundang-undangan yang berhubungan dengan  perempuan dan anak yang menjadi korban kekerasan ;  
 b. melaksanakan pendidikan tentang nilai-nilai anti  kekerasan terhadap perempuan dan anak;  
 c. melaksanakan sosialisasi peraturan perundang-undangan  yang berkaitan dengan perlindungan perempuan dan anak  korban kekerasan;  
 d. melaksanakan pemantauan dan evaluasi terhadap  perlindungan perempuan dan anak korban kekerasan.  
-2. Pemerintah...  
-2. Pemerintah Daerah berkewajiban dan bertanggung jawab  untuk menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:a. mendirikan dan menjamin terselenggaranya lembaga  layanan terpadu untuk korban dengan melibatkan unsur  masyarakat;  
+2. Pemerintah Daerah berkewajiban dan bertanggung jawab  untuk menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:  
+a. mendirikan dan menjamin terselenggaranya lembaga  layanan terpadu untuk korban dengan melibatkan unsur  masyarakat;  
 b. memfasilitasi terbentuknya lembaga-lembaga layanan;  
 c. mendorong kepedulian masyarakat akan pentingnya  perlindungan terhadap korban.  
 3. Pemerintah Daerah berkewajiban dan bertanggung jawab  untuk menjamin terselenggaranya perlindungan untuk korban  dengan memperhatikan hak dan kewajiban orang tua, wali, suami atau orang lain secara hukum.  
@@ -207,7 +209,7 @@ Kewajiban dan Tanggung Jawab Masyarakat
 Kewajiban dan tanggung jawab masyarakat sebagai berikut:  
 a. melakukan upaya memberikan dukungan terhadap  pengembangan program pencegahan terjadinya kekerasan;  
 b. melakukan penyusunan usulan mengenai perumusan dan  kebijakan tentang perlindungan;  
-c. melakukan...  c. melakukan upaya perlindungan dan dukungan moril atau  materiil kepada korban;  
+c. melakukan upaya perlindungan dan dukungan moril atau  materiil kepada korban;  
 d. melakukan pengawasan dan pelaporan terhadap terjadinya  tindak kekerasan kepada pihak yang berwenang.  
 
 # BAB V
@@ -243,7 +245,7 @@ Bentuk dan Mekanisme Pelayanan
 Bentuk-bentuk pelayanan terhadap korban meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka  fisik yang bertujuan untuk pemulihan kondisi fisik korban  yang dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medicolegal, adalah satu bentuk layanan medis  untuk kepentingan pembuktian di bidang hukum;  
-c. pelayanan...  c. pelayanan psikososial, merupakan pelayanan yang diberikan  oleh pendamping dalam rangka memulihkan kondisi  traumatis korban, termasuk penyediaan rumah aman untuk  melindungi korban dari berbagai ancaman dan intimidasi bagi  korban dan memberikan dukungan secara sosial sehingga  korban mempunyai rasa percaya diri, kekuatan, dan  kemandirian dalam menyelesaikan masalahnya;  
+c. pelayanan psikososial, merupakan pelayanan yang diberikan  oleh pendamping dalam rangka memulihkan kondisi  traumatis korban, termasuk penyediaan rumah aman untuk  melindungi korban dari berbagai ancaman dan intimidasi bagi  korban dan memberikan dukungan secara sosial sehingga  korban mempunyai rasa percaya diri, kekuatan, dan  kemandirian dalam menyelesaikan masalahnya;  
 d. Pelayanan hukum, adalah pelayanan untuk membantu  korban dalam menjalani proses peradilan;  
 e. Pelayanan kemandirian ekonomi, berupa layanan untuk pelatihan ketrampilan dan memberikan akses ekonomi agar  korban dapat mandiri;  
 f. Pelayanan Informasi (Informed Consent), yang berkaitan  dengan pelayanan dan pendampingan.  
@@ -258,17 +260,19 @@ Mekanisme pelayanan diselenggarakan sesuai dengan Standar Operasional Prosedur (
 
 #### Pasal 14
 
-1. Pendampingan terhadap korban antara lain dilakukan oleh:  a. Kepolisian;  
+1. Pendampingan terhadap korban antara lain dilakukan oleh:  
+a. Kepolisian;  
 b. Kejaksaan;  
 c. Advokat; dan  
 d. Pekerja Sosial.  
 2. Pendampingan oleh Kepolisian, Kejaksaan, dan Advokat  sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan  huruf c, sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
-3. Tugas pekerja sosial sebagaimana dimaksud pada ayat (1) huruf d sebagai pendamping adalah sebagai berikut:a. memberikan informasi yang cukup kepada korban tentang  hak-haknya;  
+3. Tugas pekerja sosial sebagaimana dimaksud pada ayat (1) huruf d sebagai pendamping adalah sebagai berikut:  
+a. memberikan informasi yang cukup kepada korban tentang  hak-haknya;  
 b. memberikan layanan psikososial kepada korban sehingga  korban merasa aman dan nyaman;  
 c. mendampingi korban selama proses pemeriksaan dan  pemulihan medis;  
 d. mendampingi korban selama proses medicolegal;  
-e. mendampingi korban selama proses pemeriksaan di  Kepolisian, Kejaksaan, dan Pengadilan;  
-f. memantau...  f. memantau kepentingan dan hak-hak korban dalam proses  pemeriksaan di Kepolisian, Kejaksaan, dan Pengadilan;  
+e. mendampingi korban selama proses pemeriksaan di Kepolisian, Kejaksaan, dan Pengadilan;  
+f. memantau kepentingan dan hak-hak korban dalam proses  pemeriksaan di Kepolisian, Kejaksaan, dan Pengadilan;  
 g. menjaga privasi dan kerahasiaan korban dari semua pihak  yang tidak berkepentingan, termasuk pemberitaan oleh  media massa;  
 h. melakukan koordinasi dengan pendamping yang lain;  
 i. memberikan penanganan yang berkelanjutan hingga tahap  rehabilitasi.  
@@ -279,7 +283,8 @@ i. memberikan penanganan yang berkelanjutan hingga tahap  rehabilitasi.
 
 #### Pasal 15
 
-1. Pendanaan penyelenggaraan perlindungan bagi perempuan  dan anak korban kekerasan meliputi:a. pelayanan medis, yang meliputi pemeriksaan dokter, biaya  tindakan, biaya rumah sakit, dan biaya obat-obatan;  
+1. Pendanaan penyelenggaraan perlindungan bagi perempuan  dan anak korban kekerasan meliputi:  
+a. pelayanan medis, yang meliputi pemeriksaan dokter, biaya  tindakan, biaya rumah sakit, dan biaya obat-obatan;  
 b. pelayanan medicolegal, yang meliputi pemeriksaan untuk  Visum et Repertum dan Visum et Psikiatrikum;  
 c. pelayanan psikososial, yang terdiri dari konseling dan  terapi psikologi serta rumah aman (shelter);  
 d. pelayanan hukum;  
@@ -295,7 +300,6 @@ e. penguatan ekonomi, berupa layanan untuk pelatihan  ketrampilan dan memberikan
 
 1. Pembinaan terhadap penyelenggaraan perlindungan  perempuan dan anak dilakukan oleh Instansi terkait sesuai  dengan tugas pokok dan fungsinya masing-masing.  
 2. Pembinaan sebagaimana dimaksud pada ayat (1) berupa  pemberian pedoman yang mencakup teknis penyelenggaraan  perlindungan perempuan dan anak.  
-3. Pengawasan...  
 3. Pengawasan terhadap penyelenggaraan perlindungan  Perempuan dan Anak dilaksanakan oleh Instansi terkait  bersama aparat pengawas internal pemerintah sesuai  peraturan perundang-undangan yang berlaku.  
 
 # BAB IX
@@ -304,7 +308,9 @@ e. penguatan ekonomi, berupa layanan untuk pelatihan  ketrampilan dan memberikan
 
 #### Pasal 17
 
-1. Pejabat atau Petugas yang ditunjuk lembaga/instansi yang  berwenang apabila tidak melaksanakan kewajiban dan tanggung jawab sebagaimana diatur dalam Pasal 7 dan Pasal  8, dikenakan sanksi administratif berupa:a. peringatan tertulis dari pejabat yang berwenang; dan/ataub. denda paling banyak sebesar Rp.50.000.000,00 (lima puluh  juta rupiah).  
+1. Pejabat atau Petugas yang ditunjuk lembaga/instansi yang  berwenang apabila tidak melaksanakan kewajiban dan tanggung jawab sebagaimana diatur dalam Pasal 7 dan Pasal  8, dikenakan sanksi administratif berupa:  
+a. peringatan tertulis dari pejabat yang berwenang; dan/atau  
+b. denda paling banyak sebesar Rp.50.000.000,00 (lima puluh  juta rupiah).  
 2. Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi  administratif sebagaimana dimaksud pada ayat (1) dan ayat  (2) ditetapkan dengan Peraturan Bupati.  
 
 # BAB X
@@ -315,12 +321,13 @@ e. penguatan ekonomi, berupa layanan untuk pelatihan  ketrampilan dan memberikan
 
 1. Pejabat Pegawai Negeri Sipil tertentu di lingkungan  Pemerintah Daerah diberi wewenang khusus sebagai penyidik  untuk melakukan penyidikan tindak pidana di bidang  perlindungan perempuan dan anak sebagaimana dimaksud  dalam Undang-Undang Hukum Acara Pidana.  
 2. Penyidik sebagaimana dimaksud pada ayat (1) adalah Pejabat  Pegawai Negeri Sipil tertentu di lingkungan Pemerintah  Daerah yang diangkat oleh Pejabat yang berwenang sesuai  ketentuan peraturan perundang-undangan.  
-3. Wewenang Penyidik Pegawai Negeri Sipil sebagaimana  dimaksud pada ayat (1) dan ayat (2) adalah:a. menerima laporan atau pengaduan dari seseorang  mengenai adanya tindak pidana;  
+3. Wewenang Penyidik Pegawai Negeri Sipil sebagaimana  dimaksud pada ayat (1) dan ayat (2) adalah:  
+a. menerima laporan atau pengaduan dari seseorang  mengenai adanya tindak pidana;  
 b. melakukan tindakan pertama dan pemeriksaan di tempat  kejadian;  
 c. menyuruh berhenti seseorang dan memeriksa tanda  pengenal diri tersangka;  
 d. melakukan penyitaan benda dan surat;  
 e. mengambil sidik jari dan memotret seseorang;  
-f. memanggil...  f. memanggil orang untuk didengar dan diperiksa sebagai  tersangka atau saksi;  
+f. memanggil orang untuk didengar dan diperiksa sebagai  tersangka atau saksi;  
 g. mendatangkan ahli yang diperlukan dalam hubungannya  dengan pemeriksaan perkara;  
 h. mengadakan penghentian penyidikan setelah mendapat  petunjuk dari penyidik Kepolisian Republik Indonesia  bahwa tidak terdapat cukup bukti atau peristiwa tersebut  bukan merupakan tindak pidana dan selanjutnya melalui  penyidik memberitahukan hal tersebut kepada Penuntut  Umum, tersangka atau keluarganya.  
 
@@ -346,8 +353,6 @@ Setiap perbuatan pidana yang berkenaan dengan perlindungan perempuan dan anak di
 
 Ketentuan lebih lanjut mengenai penyelenggaraan perlindungan  perempuan dan anak korban kekerasan diatur dengan Peraturan  Bupati.  
 
-# BAB XIII...  
-
 # BAB XIII
 
 ## KETENTUAN PENUTUP
@@ -358,44 +363,38 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran  Daerah Kabupaten Sintang.  
 
-Ditetapkan di Sintang pada tanggal 20 April 2015
+Ditetapkan di Sintang  
 
-##### BUPATI SINTANG,
+pada tanggal 20 April 2015  
 
-##### MILTON CROSBY
+BUPATI SINTANG,  
 
-Diundangkan di Sintang pada tanggal 20 April 2015
+MILTON CROSBY  
 
-##### SEKRETARIS DAERAH KABUPATEN SINTANG,
+Diundangkan di Sintang  
 
-##### YOSEPHA HASNAH
+pada tanggal 20 April 2015  
 
-##### LEMBARAN DAERAH KABUPATEN SINTANG TAHUN 2015 NOMOR 8
+SEKRETARIS DAERAH KABUPATEN SINTANG,  
 
-Salinan sesuai dengan aslinya
+YOSEPHA HASNAH  
 
-##### KEPALA BAGIAN HUKUM,
+LEMBARAN DAERAH KABUPATEN SINTANG TAHUN 2015 NOMOR 8  
+
+Salinan sesuai dengan aslinya  
+
+KEPALA BAGIAN HUKUM,  
 
 HERKOLANUS RONI, SH.,  
-M.Si Pembina
+M.Si Pembina  
 
-##### NIP. 19750403 200312 1 005
+NIP. 19750403 200312 1 005  
 
-NOREG PERATURAN DAERAH KABUPATEN SINTANG PROVINSI KALIMANTAN  BARAT: ( 8 / 2015)
+NOREG PERATURAN DAERAH KABUPATEN SINTANG PROVINSI KALIMANTAN  BARAT: (8/ 2015)  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN SINTANG
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN SINTANG
-
-##### NOMOR 8 TAHUN 2015
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK
-
-##### KORBAN KEKERASAN
+NOMOR 8 TAHUN 2015 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
 ##### I. UMUM
 
@@ -409,19 +408,23 @@ Dari serangkaian ketentuan di atas, maka Pemerintah bertanggung jawab  untuk mel
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Huruf a Penghormatan terhadap hak-hak korban dimaksudkan untuk  menjamin terpenuhinya hak-hak korban sebagaimana  dimaksud dalam Pasal 5.  
+Huruf a  
+Penghormatan terhadap hak-hak korban dimaksudkan untuk  menjamin terpenuhinya hak-hak korban sebagaimana  dimaksud dalam Pasal 5.  
 
-Huruf b...AngkaalS Huruf b Keadilan gender adalah keadaan di mana setiap orang baik  laki-laki maupun perempuan diperlakukan sama dan  memperoleh kesempatan yang sama guna mendapatkan  kesempatan (akses), serta kesejahteraan.  
+Huruf b  
+Keadilan gender adalah keadaan di mana setiap orang baik  laki-laki maupun perempuan diperlakukan sama dan  memperoleh kesempatan yang sama guna mendapatkan  kesempatan (akses), serta kesejahteraan.  
 
 Kesetaraan gender adalah kesamaan hak, kesempatan,  manfaat dan pengambilan keputusan antara perempuan dan  laki-laki termasuk dalam memasuki kesempatan kerja baik di sektor formal maupun informal.  
 
-Huruf c Non Diskriminasi adalah sikap dan perlakuan terhadap  korban dengan tidak melakukan pembedaan atas dasar usia,  jenis kelamin, ras, suku, agama dan antar golongan.  
+Huruf c  
+Non Diskriminasi adalah sikap dan perlakuan terhadap  korban dengan tidak melakukan pembedaan atas dasar usia,  jenis kelamin, ras, suku, agama dan antar golongan.  
 
-Huruf d Kepentingan yang terbaik bagi korban adalah semua tindakan  terbaik yang menyangkut korban yang dilakukan oleh  pemerintah, masyarakat, badan legislatif dan badan yudikatif,  maka kepentingan yang terbaik bagi korban harus menjadi  pertimbangan utama.  
+Huruf d  
+Kepentingan yang terbaik bagi korban adalah semua tindakan  terbaik yang menyangkut korban yang dilakukan oleh  pemerintah, masyarakat, badan legislatif dan badan yudikatif,  maka kepentingan yang terbaik bagi korban harus menjadi  pertimbangan utama.  
 
 #### Pasal 3
 
@@ -452,8 +455,6 @@ Cukup jelas
 #### Pasal 8
 
 Cukup jelas.  
-
-#### Pasal 9...  
 
 #### Pasal 9
 
@@ -507,4 +508,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-TAMBAHAN LEMBARAN DAERAH KABUPATEN SINTANG TAHUN 2015 NOMOR 8
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SINTANG TAHUN 2015 NOMOR 8  
