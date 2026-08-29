@@ -1,18 +1,20 @@
-# BUPATI BANGKA SELATAN
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-# PROVINSI KEPULAUAN BANGKA BELITUNG
+BUPATI BANGKA SELATAN
 
-PERATURAN DAERAH KABUPATEN BANGKA SELATAN NOMOR 7 TAHUN 2015
+PROVINSI KEPULAUAN BANGKA BELITUNG
 
-# TENTANG
+# PERATURAN DAERAH KABUPATEN BANGKA SELATAN 
 
-# PENYELENGGARAAN PERLINDUNGAN
+NOMOR 7 TAHUN 2015  
 
-# PEREMPUAN DAN ANAK KORBAN KEKERASAN
+TENTANG  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# BUPATI BANGKA SELATAN,
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI BANGKA SELATAN,  
 
 Menimbang:  
  
@@ -35,9 +37,7 @@ Mengingat:
  
  
 1. Pasal 18 (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
-2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor
-3143. ;  
+2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143;  
 3. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengeani Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Repbulik Indonesia Nomor 3277);  
 4. Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain yang Kejam, Tidak Manusiawi atau Merendahkan Martabat Manusia (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Negara Republik Indonesia Nomor 3783);  
 5. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor
@@ -50,26 +50,26 @@ Mengingat:
 11. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indoneisa Tahun 2014 Nomor 244, Tambahan  Lembaran Negara Republik Indonesia Nomor  5587) sebagaimana telah beberapa kali diubah,  terakhir dengan Undang-Undang Nomor 9 Tahun  2015 (Lembaran Negara Republik Indonesia  Tahun 2015 Nomor 58, Tambahan Lembaran  Negara Republik Indonesia Nomor 5679);  
 12. Peraturan Pemerintah Nomor 4 Tahun 2006  tentang Penyelenggaraan dan Kerjasama  Pemulihan Korban Kekerasaan Dalam Rumah  Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran  Negara Republik Indonesia Nomor 4604);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGKA SELATAN  
 
-# KABUPATEN BANGKA SELATAN
+dan  
 
-# BUPATI BANGKA SELATAN
+BUPATI BANGKA SELATAN  
 
-# MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+Menetapkan:  
 
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 # BAB I
 
 ## KETENTUAN UMUM
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Bangka Selatan.  
 2. Bupati adalah Bupati Bangka Selatan.  
 3. Pemerintah Daerah adalah Bupati dan perangkat daerah sebagai unsur  penyelenggara pemerintahan daerah.  
@@ -86,7 +86,9 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 14. Kekerasan seksual adalah setiap perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan atau tujuan tertentu.  
 15. Kekerasan ekonomi adalah setiap perbuatan yang sengaja menelantarkan anggota keluarga dalam bentuk tidak memberikan kehidupan perawatan atau pemeliharaan secara layak.  
 16. Kekerasan psikis adalah setiap perbuatan yang mengakibatkan ketakutan,  hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau penderitaan fsikis berat pada seseorang.  
-17. Korban adalah perempuan dan anak yang mengalami dan/atau menderita baik langsung maupun tidak langsung sebagai akibat dari kekerasan. 18. Perlindungan terhadap perempuan adalah segala kegiatan yang ditujukan untuk memberikan rasa aman yang dilakukan oleh pihak kepolisian, kejaksaan, pengadilan, lembaga sosial, atau pihak lain yang mengetahui atau mendengar atau telah terjadi kekerasan terhadap perempuan.  19. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi anak dan hak-haknya agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan dan diskriminasi.  
+17. Korban adalah perempuan dan anak yang mengalami dan/atau menderita baik langsung maupun tidak langsung sebagai akibat dari kekerasan.  
+18. Perlindungan terhadap perempuan adalah segala kegiatan yang ditujukan untuk memberikan rasa aman yang dilakukan oleh pihak kepolisian, kejaksaan, pengadilan, lembaga sosial, atau pihak lain yang mengetahui atau mendengar atau telah terjadi kekerasan terhadap perempuan.  
+19. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi anak dan hak-haknya agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan dan diskriminasi.  
 20. Pelayanan optimal adalah usaha yang dinamis yang terdiri dari berbagai bagian yang berkaitan secara teratur, diikuti dengan unjuk kerja yang ditawarkan oleh satu pihak terhadap pihak lain dengan memberikan manfaat, guna mencapai suatu tujuan terbaik.  
 21. Informasi adalah pesan (ucapan atau ekspresi) atau kumpulan pesan yang terdiri dari order sekuens dari simbol, atau makna yang dapat ditafsirkan  dari pesan atau kumpulan pesan serta dapat direkam atau ditransmisikan.  
 22. Pemulangan adalah upaya mengembalikan Korban kekerasaan dari  Daerah ke Daerah Asal.  
@@ -129,7 +131,8 @@ Setiap korban berhak mendapatkan:
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
-d. penanganan berkelanjutan sampai tahap rehabilitasi; dan  e. penanganan secara rahasia baik individu, kelompok atau lembaga baik  pemerintah maupun non pemerintah.  
+d. penanganan berkelanjutan sampai tahap rehabilitasi; dan  
+e. penanganan secara rahasia baik individu, kelompok atau lembaga baik  pemerintah maupun non pemerintah.  
 
 #### Pasal 9
 
@@ -141,11 +144,13 @@ Dalam hal terjadi kekerasan, setiap korban berhak mendapatkan  pendampingan baik
 
 #### Pasal 10
 
-1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan, penanganan dan pemulihan korban kekerasan terhadap Perempuan dan Anak, dengan melakukan:a. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan;  
+1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan, penanganan dan pemulihan korban kekerasan terhadap Perempuan dan Anak, dengan melakukan:  
+a. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan;  
 b. melakukan sosialisasi Peraturan Perundang-undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan;  
 c. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap anak dan perempuan; dan  
 d. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan.  
-2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan, penanganan dan pemulihan korban kekerasan terhadap perempuan dan anak, menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk  korban dengan melibatkan lembaga dan unsur masyarakat;  
+2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan, penanganan dan pemulihan korban kekerasan terhadap perempuan dan anak, menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
+a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk  korban dengan melibatkan lembaga dan unsur masyarakat;  
 b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korban; dan  
 c. melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.  
 
@@ -157,7 +162,8 @@ c. melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.
 
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban  Kekerasan dengan melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan, kelompok maupun organisasi sosial kemasyarakatan.  
-3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b.menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap perempuan dan anak; dan  
 c. memberikan bantuan terhadap korban.  
 
@@ -173,7 +179,8 @@ c. memberikan bantuan terhadap korban.
 #### Pasal 13
 
 1. Pemerintah Daerah membentuk Pusat Pelayanan Terpadu Perlindungan  Perempuan dan Anak (P2TP2A) sebagai Lembaga Penyelenggara,  Pencegahan dan Perlindungan Perempuan dan Anak Korban Kekerasan secara terpadu.  
-2. P2TP2A sebagaimana dimaksud pada ayat (1) terdiri dari unsur:  a. kesehatan;  
+2. P2TP2A sebagaimana dimaksud pada ayat (1) terdiri dari unsur:  
+a. kesehatan;  
 b. penegak hukum;  
 c. sosial dan pemberdayaan;  
 d. pendidikan dan keagamaan;  
@@ -200,15 +207,17 @@ f. swasta.
 
 #### Pasal 16
 
-1. Bentuk perlindungan yang diberikan kepada Korban yang  diselenggarakan oleh P2TP2A berupa perlindungan:a. medis;  
+1. Bentuk perlindungan yang diberikan kepada Korban yang  diselenggarakan oleh P2TP2A berupa perlindungan:  
+a. medis;  
 b. hukum;  
 c. medico-legal (kedokteran forensik);  
-d. psikologis; ataue. ekonomi.  
+d. psikologis; atau  
+e. ekonomi.  
 2. Bentuk perlindungan medis terhadap korban sebagaimana dimaksud  pada ayat (1) huruf a, berupa perawatan dan pemulihan dan luka-luka  fisik yang bertujuan untuk pemulihan kondisi fisik korban.  
 3. Bentuk perlindungan hukum terhadap Korban sebagaimana dimaksud pada ayat (1) huruf b, berupa pelayanan dan pendampingan untuk membantu korban dalam menjalani proses hukum dan peradilan.  
 4. Bentuk perlindungan medico-legal terhadap korban sebagaimana  dimaksud pada ayat (1) huruf c, berupa layanan medis untuk kepentingan pembuktian secara hukum.  
 5. Bentuk perlindungan psikologis terhadap korban sebagaimana dimaksud  pada ayat (1) huruf d, berupa pendampingan dalam rangka memulihkan kondisi traumatis termasuk penyediaan rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban dan memberikan dukungan secara psikologis sehingga korban mempunyai rasa percaya diri, kekuatan dan kemandirian dalam penyelesaian  masalah.  
-5. Bentuk perlindungan ekonomi terhadap korban sebagaimana dimaksud pada ayat (1), berupa layanan untuk keterampilan dan memberikan akses ekonomi agar korban dapat mandiri.  
+6. Bentuk perlindungan ekonomi terhadap korban sebagaimana dimaksud pada ayat (1), berupa layanan untuk keterampilan dan memberikan akses ekonomi agar korban dapat mandiri.  
 
 #### Pasal 17
 
@@ -234,11 +243,12 @@ Pengelola P2TP2A berkewajiban menyelenggarakan layanan sebagaimana  yang diatur 
 
 #### Pasal 20
 
-1. P2TP2A wajib melaporkan secara tertulis pelaksanaan penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan kepada Bupati. (2) Laporan sebagaimana dimaksud pada ayat (1) meliputi:  a. administrasi;  
+1. P2TP2A wajib melaporkan secara tertulis pelaksanaan penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan kepada Bupati. (2) Laporan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dan  
 d. kinerja.  
-3. Penyampaian laporan sebagaimana dimaksud pada ayat (2) dilaksanakan  paling sedikit 3 (tiga) bulan sekali.  
+2. Penyampaian laporan sebagaimana dimaksud pada ayat (2) dilaksanakan  paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB X
 
@@ -261,33 +271,29 @@ Peraturan Bupati sebagai pelaksanaan Peraturan Daerah ini ditetapkan paling  lam
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Bangka Selatan.  
 
-Ditetapkan di Toboali  pada tanggal Agustus 2015
+Ditetapkan di Toboali  
 
-##### BUPATI BANGKA SELATAN
+pada tanggal Agustus 2015  
 
-##### JAMRO H. JALIL
+BUPATI BANGKA SELATAN  
 
-Diundangkan di Toboali pada tanggal Agustus 2015 Plt. SEKRETARIS DAERAH
+JAMRO H. JALIL  
 
-##### KABUPATEN BANGKA SELATAN,
+Diundangkan di Toboali  
 
-##### ACHMAD ANSYORI
+pada tanggal Agustus 2015 Plt. SEKRETARIS DAERAH  
 
-##### LEMBARAN DAERAH KABUPATEN BANGKA SELATAN TAHUN 2015 NOMOR 7
+KABUPATEN BANGKA SELATAN,  
 
-NOREG PERATURAN DAERAH KABUPATEN BANGKA SELATAN,  PROVINSI KEPULAUAN BANGKA BELITUNG: 6.7/2015
+ACHMAD ANSYORI  
 
-##### PENJELASAN
+LEMBARAN DAERAH KABUPATEN BANGKA SELATAN TAHUN 2015 NOMOR 7  
 
-##### ATAS
+NOREG PERATURAN DAERAH KABUPATEN BANGKA SELATAN,  PROVINSI KEPULAUAN BANGKA BELITUNG: 6.7/2015  
 
-##### PERATURAN DAERAH KABUPATEN BANGKA SELATAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BANGKA SELATAN
 
-##### NOMOR TAHUN 2015
-
-##### TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN  ANAK KORBAN KEKERASAN
+NOMOR TAHUN 2015 TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
 ##### I. UMUM
 
@@ -309,47 +315,47 @@ Semoga dengan disahkannya Perda Penyelenggaraan Perlindungan  Perempuan dan Anak
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 12
 
@@ -357,15 +363,15 @@ Pembinaan sebagaimana yang dimaksud pada ayat (2) adalah  dilakukan oleh Badan P
 
 #### Pasal 13
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
@@ -373,28 +379,28 @@ Yang dimaksud “Rumah Aman“ pada ayat (5) adalah Bangunan  berupa sebuah ruma
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
