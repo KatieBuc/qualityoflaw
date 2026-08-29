@@ -1,18 +1,18 @@
-# BUPATI BANGKA BARAT
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+
+BUPATI BANGKA BARAT  
 
 # PERATURAN DAERAH KABUPATEN BANGKA BARAT
 
-# NOMOR 13 TAHUN 2013
+NOMOR 13 TAHUN 2013  
 
-# TENTANG
+TENTANG  
 
-# PENYELENGGARAAN PERLINDUNGAN
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# PEREMPUAN DAN ANAK KORBAN KEKERASAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# BUPATI BANGKA BARAT,
+BUPATI BANGKA BARAT,  
 
 Menimbang:  
  
@@ -34,7 +34,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 3. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
 4. Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman lain yang kejam, tidak manusiawi, atau merendahkan martabat manusia (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Negara Republik Indonesia Nomor 3783);  
@@ -48,16 +47,22 @@ Mengingat:
 12. Undang-Undang Nomor 36 Tahun 2009 tentang  Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 99, Tambahan Lembaran Negara Republik Indonesia Nomor 3495 );  
 13. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
 14. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang  Pembagian urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi dan Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 4737);  
-15. Peraturan Daerah Kabupaten Bangka Barat Nomor 2  Tahun 2008 tentang Kewenangan Kabupaten Bangka Barat (Lembaran Daerah Kabupaten Bangka Barat Tahun 2008 Nomor 1 Seri D);  
+15. Peraturan Daerah Kabupaten Bangka Barat Nomor 2 Tahun 2008 tentang Kewenangan Kabupaten Bangka Barat (Lembaran Daerah Kabupaten Bangka Barat Tahun 2008 Nomor 1 Seri D);  
 16. Peraturan Daerah Kabupaten Bangka Barat Nomor 15 Tahun 2011 tentang Kerjasama Penyelenggaraan Perlindungan Perempuan dan Anak Korban Tindak Kekerasan (Lembaran Daerah Kabupaten Bangka Barat Tahun 2011 Nomor 2 Seri E);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGKA BARAT  dan
+Dengan Persetujuan Bersama  
 
-# BUPATI BANGKA BARAT
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGKA BARAT  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN   PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN
+BUPATI BANGKA BARAT  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN.  
 
 # KEKERASAN.  
 
@@ -67,8 +72,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN   PERLINDUNGAN PEREMPUAN DA
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Bupati adalah Bupati Bangka Barat.  
 2. Pemerintah Daerah adalah Pemerintah Kabupaten Bangka Barat.  
 3. Pusat Pelayanan Terpadu yang selanjunya disingkat PPT adalah lembaga  penyedia pelayanan terhadap korban kekerasan, yang berbasis Rumah  Sakit, dikelola bersama-sama dalam bentuk perawatan medik (termasuk  medico–legal), Psiko–sosial dan pelayanan hukum.  
@@ -121,11 +125,13 @@ g. jaminan atas hak-hak yang berkaitan dengan status korban sebagai  anggota kel
 
 #### Pasal 5
 
-1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:a. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan;  
+1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:  
+a. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan;  
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan perlindungan Perempuan dan Anak Korban Kekerasan;  
 c. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap  anak dan perempuan; dan  
 d. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan.  
-2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, menyediakan dan menyelenggarakan layanan bagi korban dalam  bentuk:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu  untuk korban dengan melibatkan lembaga dan unsur masyarakat;  
+2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, menyediakan dan menyelenggarakan layanan bagi korban dalam  bentuk:  
+a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu  untuk korban dengan melibatkan lembaga dan unsur masyarakat;  
 b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap korban; dan  
 c. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.  
 
@@ -137,8 +143,9 @@ c. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.
 
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban  Kekerasan dapat melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, kelompok maupun organisasi sosial  kemasyarakatan.  
-3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat  dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan  Anak;  
-b. menyampaikan laporan kepada yang berwajib apabila terjadi  tindakan kekerasan terhadap Perempuan dan Anak; dan  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:  
+a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan kekerasan terhadap Perempuan dan Anak; dan  
 c. memberikan bantuan terhadap korban.  
 
 #### Pasal 7
@@ -152,8 +159,9 @@ c. memberikan bantuan terhadap korban.
 
 #### Pasal 8
 
-1. Pemerintah Daerah membentuk Pusat Pelayanan Terpadu (PPT ) sebagai  Lembaga Penyelenggara, Pencegahan dan Perlindungan Perempuan dan  Anak Korban Kekerasan.  
-2. PPT sebagaimana dimaksud pada ayat (1) terdiri dari unsur:a. kesehatan;  
+1. Pemerintah Daerah membentuk Pusat Pelayanan Terpadu (PPT) sebagai  Lembaga Penyelenggara, Pencegahan dan Perlindungan Perempuan dan  Anak Korban Kekerasan.  
+2. PPT sebagaimana dimaksud pada ayat (1) terdiri dari unsur:  
+a. kesehatan;  
 b. penegak hukum;  
 c. sosial dan pemberdayaan;  
 d. pendidikan dan keagamaan;  
@@ -180,7 +188,8 @@ f. swasta.
 
 #### Pasal 11
 
-1. Bentuk perlindungan yang diberikan kepada Korban yang diselenggarakan  oleh PPT berupa perlindungan:a. medis;  
+1. Bentuk perlindungan yang diberikan kepada Korban yang diselenggarakan  oleh PPT berupa perlindungan:  
+a. medis;  
 b. hukum;  
 c. medicolegal (Kedokteran Forensik);  
 d. psikologis; ataue. ekonomi.  
@@ -206,7 +215,8 @@ d. psikologis; ataue. ekonomi.
 #### Pasal 13
 
 1. PPT wajib melaporkan secara tertulis pelaksanaan penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan kepada Bupati.  
-2. Laporan sebagaimana dimaksud pada ayat (1) meliputi:a. administrasi;  
+2. Laporan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dan  
 d. kinerja.  
@@ -226,20 +236,22 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Bangka Barat.  
 
-Ditetapkan di Muntok pada tanggal 31 Desember 2013
+Ditetapkan di Muntok  
 
-##### BUPATI BANGKA BARAT,
+pada tanggal 31 Desember 2013  
 
-##### DTO.  
+BUPATI BANGKA BARAT,  
 
-Ust. H. ZUHRI M. SYAZALI Diundangkan di Muntok pada tanggal 2 Januari 2014
+DTO.  
 
-##### SEKRETARIS DAERAH
+Ust. H. ZUHRI M. SYAZALI Diundangkan di Muntok pada tanggal 2 Januari 2014  
 
-##### KABUPATEN BANGKA BARAT,
+SEKRETARIS DAERAH  
 
-##### DTO.  
+KABUPATEN BANGKA BARAT,  
 
-##### RAMLI NGAD JUM
+DTO.  
 
-LEMBARAN DAERAH KABUPATEN BANGKA BARAT TAHUN 2014 NOMOR 6 SERI E
+RAMLI NGAD JUM  
+
+LEMBARAN DAERAH KABUPATEN BANGKA BARAT TAHUN 2014 NOMOR 6 SERI E  
