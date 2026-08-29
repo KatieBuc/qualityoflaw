@@ -1,14 +1,16 @@
+# PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN
+
 # PERATURAN DAERAH KOTA BONTANG
 
-# NOMOR 9 TAHUN 2012
+NOMOR 9 TAHUN 2012  
 
-# TENTANG
+TENTANG  
 
-PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN TINDAK  KEKERASAN
+PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# WALIKOTA BONTANG,
+WALIKOTA BONTANG,  
 
 Menimbang:  
  
@@ -31,17 +33,22 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 47 Tahun 1999 tentang  Pembentukan Kabupaten Nunukan, Kabupaten Malinau, Kabupaten Kutai Barat, Kabupaten Kutai Timur dan Kota Bontang (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 175, Tambahan Lembaran Negara Republik Indonesia Nomor 3839) sebagaimana telah diubah dengan Undang-Undang Nomor 7 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 74 Tambahan Lembaran Negara Republik Indonesia Tahun 3962);  
 3. Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah terakhir dengan Undang-undang Nomor 12 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA BONTANG dan
+Dengan Persetujuan Bersama  
 
-# WALIKOTA BONTANG
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA BONTANG  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  TERHADAP PEREMPUAN DAN ANAK KORBAN TINDAK  KEKERASAN .  
+WALIKOTA BONTANG  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN.  
 
 # BAB I
 
@@ -49,8 +56,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  TERHADAP PEREMPUAN DAN ANAK K
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kota Bontang.  
 2. Pemerintah Daerah adalah Walikota dan perangkat daerah  sebagai unsur penyelenggara Pemerintah Daerah.  
 3. Kepala Daerah adalah Walikota Bontang.  
@@ -78,16 +84,18 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak  korban tindak kekerasan dilakukan berasaskan:  
+Penyelenggaraan perlindungan terhadap perempuan dan anak korban tindak kekerasan dilakukan berasaskan:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
 d. non-diskriminasi;  
-e. penghormatan dan pengakuan atas hak asasi manusia;   f. kepentingan terbaik bagi perempuan dan anak; dan   g. perlindungan korban.  
+e. penghormatan dan pengakuan atas hak asasi manusia;   
+f. kepentingan terbaik bagi perempuan dan anak; dan   
+g. perlindungan korban.  
 
 #### Pasal 3
 
-Tujuan perlindungan terhadap perempuan dan anak korban  tindak kekerasan adalah memberikan perlindungan dan  pelayanan untuk kepentingan yang terbaik bagi korban yang  terjadi di rumah tangga dan atau publik.  
+Tujuan perlindungan terhadap perempuan dan anak korban tindak kekerasan adalah memberikan perlindungan dan  pelayanan untuk kepentingan yang terbaik bagi korban yang terjadi di rumah tangga dan atau publik.  
 
 # BAB III
 
@@ -102,7 +110,8 @@ Bentuk Tindak Kekerasan
 Bentuk tindak kekerasan terhadap perempuan dan anak berupa:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
-c. kekerasan seksual; ataud. penelantaran rumah tangga.  
+c. kekerasan seksual; atau  
+d. penelantaran rumah tangga.  
 
 #### Pasal 5
 
@@ -111,25 +120,30 @@ a. rasa sakit menurut ahli medis;
 b. cedera;  
 c. luka atau cacat pada tubuh seseorang;  
 d. gugurnya kandungan;  
-e. pingsan; dan/atauf. menyebabkan kematian.  
+e. pingsan; dan/atau  
+f. menyebabkan kematian.  
 
 #### Pasal 6
 
 Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b  meliputi perbuatan yang antara lain mengakibatkan:  
 a. ketakutan;  
 b. hilangnya rasa percaya diri;  
-c. hilangnya kemampuan untuk bertindak; dan/atau   d. rasa tidak berdaya.  
+c. hilangnya kemampuan untuk bertindak; dan/atau   
+d. rasa tidak berdaya.  
 
 #### Pasal 7
 
 Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi perbuatan yang berupa:  
-a. pelecehan seksual; dan/ataub. pemaksaan hubungan seksual, dengan secara tidak wajar  atau tidak disukai oleh salah satu pihak, untuk tujuan  komersial dan atau tujuan tertentu.  
+a. pelecehan seksual; dan/atau  
+b. pemaksaan hubungan seksual, dengan secara tidak wajar  atau tidak disukai oleh salah satu pihak, untuk tujuan  komersial dan atau tujuan tertentu.  
 
 #### Pasal 8
 
 1. Penelantaran rumah tangga sebagaimana dimaksud dalam  Pasal 4 huruf d merupakan perbuatan menelantarkan orang  dalam lingkup rumah tangganya;  
-2. Penelantaran sebagaimana dimaksud pada ayat (1) juga  berlaku bagi setiap orang yang mengakibatkan  ketergantungan ekonomi sehingga korban berada di bawah  kendali orang tersebut, dengan cara:a. membatasi dan/atau melarang untuk bekerja yang layak  di dalam atau di luar rumah;  
-b. tidak memberi nafkah; atauc. meniadakan akses dan kontrol serta partisipasi berkenaan  dengan sumber-sumber ekonomi.  
+2. Penelantaran sebagaimana dimaksud pada ayat (1) juga  berlaku bagi setiap orang yang mengakibatkan  ketergantungan ekonomi sehingga korban berada di bawah  kendali orang tersebut, dengan cara:  
+a. membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah;  
+b. tidak memberi nafkah; atau  
+c. meniadakan akses dan kontrol serta partisipasi berkenaan dengan sumber-sumber ekonomi.  
 
 ## Bagian Kedua
 
@@ -139,9 +153,11 @@ Lingkup Tindak Kekerasan
 
 1. Lingkup tindak kekerasan terhadap perempuan dan anak  meliputi:a. tindak kekerasan yang terjadi di dalam rumah tangga; dan  
 b. tindak kekerasan yang terjadi di luar rumah tangga.  
-2. Tindak kekerasan yang terjadi di dalam rumah tangga  sebagaimana dimaksud pada ayat (1) huruf a terjadi dalam  rumah tangga yang dilakukan oleh:a. suami atau isteri di dalam perkawinan;  
+2. Tindak kekerasan yang terjadi di dalam rumah tangga  sebagaimana dimaksud pada ayat (1) huruf a terjadi dalam  rumah tangga yang dilakukan oleh:  
+a. suami atau isteri di dalam perkawinan;  
 b. mempunyai hubungan keluarga sedarah, perkawinan,  adat, adopsi; atauc. bekerja pada orang lain atau yang tinggal dan menetap  pada orang lain.  
-3. Tindak kekerasan yang terjadi di luar rumah tangga  sebagaimana dimaksud pada ayat (1) huruf b terjadi di luar  rumah tangga meliputi:a. pelecehan;  
+3. Tindak kekerasan yang terjadi di luar rumah tangga  sebagaimana dimaksud pada ayat (1) huruf b terjadi di luar  rumah tangga meliputi:  
+a. pelecehan;  
 b. diskriminasi kekerasan di tempat kerja;  
 c. kekerasan di wilayah konflik;  
 d. kekerasan di media massa; dan  
@@ -153,22 +169,23 @@ e. perdagangan orang.
 
 #### Pasal 10
 
-Perempuan dan anak korban kekerasan mendapatkan hak  sebagai berikut:  
+Perempuan dan anak korban kekerasan mendapatkan hak sebagai berikut:  
 a. dihormati harkat dan martabatnya sebagai manusia;  
 b. pemulihan kesehatan dan psikologis dari penderitaan yang  dialami;  
 c. menentukan sendiri keputusannya;  
-d. jaminan atas hak-haknya yang berkaitan dengan statusnya  sebagai isteri, ibu atau anak dan anggota rumah tangga serta  anggota masyarakat;  
+d. jaminan atas hak-haknya yang berkaitan dengan statusnya sebagai isteri, ibu atau anak dan anggota rumah tangga serta  anggota masyarakat;  
 e. kompensasi;  
 f. penanganan pengaduan;  
-g. mendapatkan perlindungan, informasi, pelayanan terpadu,  penanganan berkelanjutan sampai tahap rehabilitasi dan  penanganan secara rahasia baik dari individu, kelompok  atau lembaga baik pemerintah maupun non pemerintah;  
-h. mendapatkan akses dan pelayanan di sarana pelayanan  kesehatan Pemerintah dan swasta;  
-i. mendapatkan kemudahan dalam proses peradilan; dan   j. pendampingan secara psikologis maupun hukum.  
+g. mendapatkan perlindungan, informasi, pelayanan terpadu, penanganan berkelanjutan sampai tahap rehabilitasi dan  penanganan secara rahasia baik dari individu, kelompok  atau lembaga baik pemerintah maupun non pemerintah;  
+h. mendapatkan akses dan pelayanan di sarana pelayanan kesehatan Pemerintah dan swasta;  
+i. mendapatkan kemudahan dalam proses peradilan; dan   
+j. pendampingan secara psikologis maupun hukum.  
 
 #### Pasal 11
 
 Anak korban tindak kekerasan, selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 10, juga mendapatkan hak  khusus sebagai berikut:  
 a. penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
-b. pelayanan dasar terutama pendidikan wajib belajar 12  tahun;  
+b. pelayanan dasar terutama pendidikan wajib belajar 12 tahun;  
 c. perlindungan yang sama;  
 d. bebas dari berbagai stigma; dan  
 e. mendapatkan kebebasan.  
@@ -186,7 +203,8 @@ c. Keluarga dan/atau orang tua.
 
 #### Pasal 13
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 12 huruf a, meliputi:a. melaksanakan kebijakan perlindungan perempuan dan  anak dari tindak kekerasan yang ditetapkan oleh Pemerintah;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 12 huruf a, meliputi:  
+a. melaksanakan kebijakan perlindungan perempuan dan  anak dari tindak kekerasan yang ditetapkan oleh Pemerintah;  
 b. menetapkan kebijakan, program, dan kegiatan  perlindungan perempuan dan anak dari tindak kekerasan;  
 c. melakukan kerja sama dalam penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan;  
 d. menyelenggarakan layanan terpadu bagi perempuan dan  anak korban tindak kekerasan;  
@@ -196,12 +214,13 @@ g. mengalokasikan anggaran penyelenggaraan perlindungan  perempuan dan anak korb
 h. membina dan mengawasi penyelenggaraan perlindungan  perempuan dan anak korban tindak kekerasan;  
 i. membuka akses informasi seluas-luasnya kepada  perempuan dan anak korban tindak kekerasan.  
 2. Pelaksanaan kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1) dituangkan dalam Rencana Aksi  Daerah yang berisikan program dan kegiatan perlindungan  terhadap perempuan dan anak korban tindak kekerasan;  
-3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2)  menjadi bagian dari Rencana Pembangunan Jangka  Menengah Daerah untuk selanjutnya digunakan sebagai  dasar bagi SKPD dalam melaksanakan perlindungan  terhadap perempuan dan anak korban tindak kekerasan;  
+3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2) menjadi bagian dari Rencana Pembangunan Jangka  Menengah Daerah untuk selanjutnya digunakan sebagai  dasar bagi SKPD dalam melaksanakan perlindungan  terhadap perempuan dan anak korban tindak kekerasan;  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah  sebagaimana dimaksud pada ayat (2) diatur dalam Peraturan  Walikota.  
 
 #### Pasal 14
 
-1. Kewajiban dan tanggung jawab masyarakat sebagaimana  dimaksud dalam Pasal 12 huruf b dilaksanakan dalam  bentuk peran serta masyarakat melalui:a. pencegahan tindak kekerasan terhadap perempuan dan  anak;  
+1. Kewajiban dan tanggung jawab masyarakat sebagaimana  dimaksud dalam Pasal 12 huruf b dilaksanakan dalam  bentuk peran serta masyarakat melalui:  
+a. pencegahan tindak kekerasan terhadap perempuan dan  anak;  
 b. memberikan informasi dan/atau melaporkan tindak  kekerasan terhadap perempuan dan anak kepada pihak yang berwenang;  
 c. pertolongan dan bantuan penanganan perempuan dan  anak korban tindak kekerasan;  
 d. upaya perlindungan dan dukungan moral dan/atau  materi kepada perempuan dan anak korban tindak kekerasan.  
@@ -218,7 +237,8 @@ Kewajiban keluarga dan/atau orang tua sebagaimana dimaksud  dalam Pasal 6 huruf 
 #### Pasal 16
 
 1. Untuk mencegah terjadinya tindak kekerasan terhadap  perempuan dan anak, Pemerintah Daerah melakukan  pemberdayaan dan penyadaran kepada keluarga, orang tua,  dan masyarakat dengan memberikan informasi, bimbingan  dan/atau penyuluhan;  
-2. Selain pemberdayaan dan penyadaraan sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah melakukan  upaya sebagai berikut:a. meningkatkan jumlah dan mutu pendidikan baik formal  maupun non-formal dan informal;  
+2. Selain pemberdayaan dan penyadaraan sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah melakukan  upaya sebagai berikut:  
+a. meningkatkan jumlah dan mutu pendidikan baik formal  maupun non-formal dan informal;  
 b. membuka aksesibilitas untuk memperoleh pendidikan,  pelatihan, pendanaan, dan peningkatan pelayanan sosial;  
 c. membuka lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat  terhadap pencegahan dan perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -232,7 +252,8 @@ Dalam melaksanakan upaya pencegahan tindak kekerasan terhadap perempuan dan anak
 
 #### Pasal 18
 
-1. Pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak sebagaimana dimaksud dalam Pasal  16, dilaksanakan oleh SKPD yang tugas dan fungsinya di  bidang:a. sosial;  
+1. Pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak sebagaimana dimaksud dalam Pasal  16, dilaksanakan oleh SKPD yang tugas dan fungsinya di  bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
@@ -251,7 +272,8 @@ Bentuk Pelayanan
 
 #### Pasal 19
 
-1. Bentuk pelayanan yang diberikan kepada perempuan dan  anak korban tindak kekerasan meliputi:a. pelayanan kesehatan/medis berupa perawatan dan  pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
+1. Bentuk pelayanan yang diberikan kepada perempuan dan  anak korban tindak kekerasan meliputi:  
+a. pelayanan kesehatan/medis berupa perawatan dan  pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medico legal merupakan bentuk layanan medis  untuk kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang  diberikan oleh pendamping dalam rangka pemulihan kondisi traumatis korban, dengan menyediakan rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi;  
 d. pemberian dukungan moral/mental untuk  mengembalikan rasa percaya diri, kekuatan sikap mental dan kemandirian dalam menghadapi dan menyelesaikan permasalahan yang menimpanya;  
@@ -263,7 +285,7 @@ f. pelayanan kemandirian ekonomi berupa pelayanan untuk  pelatihan keterampilan 
 #### Pasal 20
 
 1. Pemerintah Daerah berkewajiban menyediakan pelayanan  pengaduan oleh korban tindak kekerasan;  
-2. Pemerintah Daerah wajib membentuk rumah pemulihan atau  rumah aman;  
+2. Pemerintah Daerah wajib membentuk rumah pemulihan atau rumah aman;  
 3. Ketentuan mengenai pelayanan pengaduan dan pelayanan  sosial sebagaimana dimaksud pada ayat (1) dan ayat (2)  diatur dalam Peraturan Walikota.  
 
 ## Bagian Kedua
@@ -311,7 +333,8 @@ Pemerintah Daerah wajib memfasilitasi pemberian bantuan  hukum baik di dalam mau
 #### Pasal 28
 
 1. Pemerintah Daerah menyediakan rumah aman yang  dirahasiakan dengan seluruh fasilitasnya yang  pembiayaannya dibebankan kepada APBD;  
-2. Pelayanan pada rumah aman diberikan kepada korban  dengan memenuhi persyaratan sebagai berikut:a. mengisi form identitas diri dan pemenuhan kebutuhan  korban;  
+2. Pelayanan pada rumah aman diberikan kepada korban  dengan memenuhi persyaratan sebagai berikut:  
+a. mengisi form identitas diri dan pemenuhan kebutuhan  korban;  
 b. menandatangani surat perjanjian atas kerahasiaan  keberadaan rumah aman; dan  
 c. menaati ketentuan yang ada di rumah aman.  
 3. Pelayanan yang diberikan di rumah aman meliputi konseling  kegiatan pemberdayaan dan kemandirian korban;  
@@ -360,7 +383,8 @@ Mekanisme Pelayanan
 
 #### Pasal 33
 
-Penanganan anak yang berhadapan dengan hukum meliputi:  a. anak sebagai pelaku;  
+Penanganan anak yang berhadapan dengan hukum meliputi:  
+a. anak sebagai pelaku;  
 b. anak sebagai korban; dan  
 c. anak sebagai saksi tindak pidana.  
 
@@ -406,10 +430,13 @@ Kerjasama
 
 #### Pasal 37
 
-1. Dalam rangka mencapai tujuan perlindungan perempuan  dan anak dari tindak kekerasan sebagaimana dimaksud  dalam Pasal 3, Pemerintah Daerah bekerjasama dengan:a. Pemerintah;  
+1. Dalam rangka mencapai tujuan perlindungan perempuan  dan anak dari tindak kekerasan sebagaimana dimaksud  dalam Pasal 3, Pemerintah Daerah bekerjasama dengan:  
+a. Pemerintah;  
 b. Pemerintah Provinsi;  
-c. Pemerintah Kabupaten/Kota lain; dan/ataud. Lembaga non pemerintah.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1)  ditindaklanjuti sesuai dengan hukum yang berlaku, meliputi:a. pertukaran data dan informasi;  
+c. Pemerintah Kabupaten/Kota lain; dan/atau  
+d. Lembaga non pemerintah.  
+2. Kerja sama sebagaimana dimaksud pada ayat (1)  ditindaklanjuti sesuai dengan hukum yang berlaku, meliputi:  
+a. pertukaran data dan informasi;  
 b. penyediaan barang bukti dan saksi;  
 c. rehabilitasi korban tindak kekerasan; dan  
 d. pemulangan dan reintegrasi sosial.  
@@ -422,10 +449,11 @@ Kemitraan
 #### Pasal 38
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia  usaha dalam perlindungan perempuan dan anak dari tindak  kekerasan;  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan  melalui:a. pemberitahuan informasi kesempatan kerja bagi  perempuan tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan  melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi  perempuan tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak  kekerasan;  
 c. bantuan pendidikan bagi anak korban tindak kekerasan;  dand. menumbuhkan dan meningkatkan kemandirian ekonomi  perempuan korban tindak kekerasan.  
-3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2)  dituangkan dalam bentuk perjanjian.  
+4. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2)  dituangkan dalam bentuk perjanjian.  
 
 # BAB XII
 
@@ -443,7 +471,8 @@ c. bantuan pendidikan bagi anak korban tindak kekerasan;  dand. menumbuhkan dan 
 #### Pasal 40
 
 1. Pemerintah Daerah berkewajiban melakukan pembinaan dan  pengawasan penyelenggaraan perlindungan perempuan dan  anak korban tindak kekerasan;  
-2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  a. pedoman dan standar pelayanan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pedoman dan standar pelayanan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dan  
@@ -467,16 +496,18 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan  perlindungan perempuan da
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan penempatannya  dalam lembaran daerah Ditetapkan di Bontang pada tanggal 28 Juni 2012
+Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan penempatannya  dalam lembaran daerah Ditetapkan di Bontang pada tanggal 28 Juni 2012  
 
-##### WALIKOTA BONTANG,
+WALIKOTA BONTANG,  
 
-##### ADI DARMA
+ADI DARMA  
 
-Diundangkan di Bontang pada tanggal 28 Juni 2012
+Diundangkan di Bontang  
 
-##### SEKRETARIS DAERAH KOTA BONTANG
+pada tanggal 28 Juni 2012  
 
-##### ASMUDIN
+SEKRETARIS DAERAH KOTA BONTANG  
 
-##### LEMBARAN DAERAH KOTA BONTANG TAHUN 2012 NOMOR 9
+ASMUDIN  
+
+LEMBARAN DAERAH KOTA BONTANG TAHUN 2012 NOMOR 9  
