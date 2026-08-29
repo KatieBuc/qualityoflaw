@@ -1,18 +1,20 @@
-# WALIKOTA BANDAR LAMPUNG
+# PERLINDUNGAN PEREMPUAN
 
-# PROVINSI LAMPUNG
+WALIKOTA BANDAR LAMPUNG  
+
+PROVINSI LAMPUNG  
 
 # PERATURAN DAERAH KOTA BANDAR LAMPUNG
 
-# NOMOR: 03 TAHUN 2019
+NOMOR 03 TAHUN 2019  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN PEREMPUAN
+PERLINDUNGAN PEREMPUAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# WALIKOTA BANDAR LAMPUNG,
+WALIKOTA BANDAR LAMPUNG,  
 
 Menimbang:  
  
@@ -32,9 +34,8 @@ Mengingat:
  
  
  
- 
-1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 4 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 55, Undang- undang Darurat Nomor 5 Tahun 1956 (Lembaran Negara Republik Indonesia Nomor 1956 Nomor 57) tentang Pembentukan Daerah Tingkat II Termasuk Kotapraja Dalam Lingkungan Daerah Tingkat I Sumatera Selatan Sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
 3. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on the Elimination of all forms of Discrimonation Against Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
 4. Undang-Undang Nomor 19 Tahun 1999 tentang Pengesahan ILO Convention Nomor 105 Concering The Ablition Of Forced Labour [Konvensi ILO mengenai Penghapusan Kerja Paksa] (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 3834);  
@@ -57,13 +58,21 @@ Mengingat:
 21. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 19 Tahun 2011 tentang Pedoman Pemberdayaan Perempuan Korban Kekerasan(Berita Negara Republik Indonesia Nomor 19 Tahun 2011);  
 22. Peraturan Menteri Kesehatan Republik Indonesia Nomor 61 Tahun 2014 tentang Kesehatan Reproduksi (Lembaran Negara Republik Indonesia Tahun 2014 Nomor169);  
 23. Peraturan Menteri Pemberdayaan Perempuan Dan Perlindungan Anak Nomor 8 Tahun 2016 tentang Hasil Pemetaan Urusan Pemerintah Bidang Pemberdayaan Perempuan Dan Perlindungan Anak (Berita Negara Republik Indonesia Nomor 8 Tahun 2016);  
-24. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 04 Tahun 2018 tentang Pedoman Pembentukan Unit Pelaksana Teknis Daerah Perlindungan Perempuan Dan Anak (Berita Negara Republik Indonesia Tahun 2018 Nomor 532): Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA BANDAR LAMPUNG dan
+24. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 04 Tahun 2018 tentang Pedoman Pembentukan Unit Pelaksana Teknis Daerah Perlindungan Perempuan Dan Anak (Berita Negara Republik Indonesia Tahun 2018 Nomor 532).  
 
-# WALIKOTA BANDAR LAMPUNG
+Dengan Persetujuan Bersama  
 
-# MEMUTUSKAN:
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA BANDAR LAMPUNG  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN.  
+dan
+
+WALIKOTA BANDAR LAMPUNG  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN.  
 
 # BAB I
 
@@ -71,8 +80,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kota Bandar Lampung.  
 2. Pemerintah Daerah adalah Walikota sebagai unsur penyelengga pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.  
 3. Dewan Perwakilan Rakyat Daerah selanjutnya Disingkat DPRD adalah Dewan Perwakilan Rakyat Daerah Kota Bandar Lampung.  
@@ -139,7 +147,8 @@ l. perlindungan khusus dalam kondisi/keadaan darurat.
 #### Pasal 5
 
 1. Pencegahan dalam rangka perlindungan meliputi bidang pendidikan, infrastruktur, pelayanan publik dan tata ruang, pemerintahan dan tata kelola kelembagaan, ekonomi, ketenagakerjaan, sosial dan budaya;  
-2. Upaya pencegahan sebagaimana dimaksud ayat (1) dilaksanakan melalui:a. peningkatan kualitas hidup;  
+2. Upaya pencegahan sebagaimana dimaksud ayat (1) dilaksanakan melalui:  
+a. peningkatan kualitas hidup;  
 b. membentuk dan mengembangkan strategi dan kebijakanperlindungan; dan  
 c. membentuk dan mengembangkan kapasitas kelembagaan yang berkaitan dengan perlindungan perempuan.  
 
@@ -162,12 +171,14 @@ e. meningkatkan dan melibatkan peran serta dan partisipasi aktif masyarakat dala
 
 #### Pasal 8
 
-1. Dalam rangka membentuk dan mengembangkan kapasitas kelembagaan yang berkaitan dengan perlindungan perempuan, sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf c dapat dilakukan melalui:a. memperkuat mekanisme koordinasi dan jejaring kerja unit perlindungan perempuan;  
+1. Dalam rangka membentuk dan mengembangkan kapasitas kelembagaan yang berkaitan dengan perlindungan perempuan, sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf c dapat dilakukan melalui:  
+a. memperkuat mekanisme koordinasi dan jejaring kerja unit perlindungan perempuan;  
 b. Pemerintah Daerah membentuk gugus tugas yang beranggotakan wakil dari pemerintah daerah, penegak hukum, organisasi masyarakat, lembaga swadaya masyarakat, organisasi profesi, dan peneliti/akademisi;  
 c. peningkatan sumber daya pengelola melalui pendidikan dan pelatihan bagi aparatur penegak hukum, petugas medis, psikolog, psikiater, dan pendamping korban;  
 d. penguatan kapasitas kelembagaan Pengarusutamaan Gender;  
 e. mengoptimalkan unit layanan teknis;  
-f. menyediakan sarana dan prasarana yang memadai dalam rangka perlindungan perempuan (2) Untuk melaksanakan ketentuan sebagaimana dimaksud pada ayat (1) diatur lebih lanjut dengan Peraturan Walikota.  
+f. menyediakan sarana dan prasarana yang memadai dalam rangka perlindungan perempuan.  
+2. Untuk melaksanakan ketentuan sebagaimana dimaksud pada ayat (1) diatur lebih lanjut dengan Peraturan Walikota.  
 
 ## Bagian Kedua
 
@@ -182,23 +193,25 @@ Bentuk Kekerasan
 Bentuk kekerasan terhadap perempuan berupa:  
 a. kekerasan fisikdisebabkan karena perbuatan yang mengakibatkan rasa sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan/atau menyebabkan kematian;  
 b. kekerasan psikisdisebabkan karena perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau penderitaan psikis berat pada seseorang;  
-c. kekerasan seksual disebabkan karena:
-1. pelecehan seksual;  
-2. eksploitasi seksual;  
-3. pemaksaan kontrasepsi;  
-4. pemaksaan aborsi;  
-5. perkosaan;  
-6. pemaksaan perkawinan;  
-7. pemaksaan pelacuran;  
-8. perbudakan seksual;  
-9. penyiksaan seksual;  
-10. penelantaran.  d. Penelantaran disebabkan karena:
-1. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan perempuan secara wajar, baik fisik, mental, spiritual maupun sosial;  
-2. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan penghidupan, perawatan, atau pemeliharaan kepada orang tersebut; dan/atau
-3. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang perempuan untuk bekerja secara layak di dalam atau di luar rumah.  e. Eksploitasi disebabkan karena:
-1. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
-2. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktek serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil; dan/atau
-3. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, dan/atau tidak terbatas pada semua kegiatan pelacuran dan pencabulan
+c. kekerasan seksual disebabkan karena:  
+1\. pelecehan seksual;  
+2\. eksploitasi seksual;  
+3\. pemaksaan kontrasepsi;  
+4\. pemaksaan aborsi;  
+5\. perkosaan;  
+6\. pemaksaan perkawinan;  
+7\. pemaksaan pelacuran;  
+8\. perbudakan seksual;  
+9\. penyiksaan seksual;  
+10\. penelantaran.  
+d. Penelantaran disebabkan karena:  
+1\. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan perempuan secara wajar, baik fisik, mental, spiritual maupun sosial;  
+2\. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan penghidupan, perawatan, atau pemeliharaan kepada orang tersebut; dan/atau
+3\. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang perempuan untuk bekerja secara layak di dalam atau di luar rumah.  
+e. Eksploitasi disebabkan karena:
+1\. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
+2\. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktek serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil; dan/atau
+3\. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, dan/atau tidak terbatas pada semua kegiatan pelacuran dan pencabulan
 
 ### Paragraf Kedua
 
@@ -220,7 +233,8 @@ Bentuk Layanan
 #### Pasal 11
 
 1. Penanganan pengaduan merupakan serangkaian tindakan yang dilakukan oleh penyelenggara layanan terpadu untuk menindaklanjuti laporan adanya tindak kekerasan terhadap perempuan yang diajukan korban, keluarga atau masyarakat.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. melakukan wawancara dan observasi keadaan korban;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:  
+a. melakukan wawancara dan observasi keadaan korban;  
 b. membuat rekomendasi layanan lanjutan;  
 c. melakukan koordinasi dan rujukan ke layanan lanjutan dan pihak terkait;  
 d. melakukan administrasi proses pengaduan.  
@@ -228,34 +242,43 @@ d. melakukan administrasi proses pengaduan.
 #### Pasal 12
 
 1. Pelayanan kesehatan merupakan upaya yang meliputi aspek promotif, preventif, kuratif dan rehabilitatif.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. melakukan pemeriksaan;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:  
+a. melakukan pemeriksaan;  
 b. pengobatan;  
 c. perawatan lanjutan terhadap korban;  
 d. melakukan koordinasi pelaksanaan rehabilitasi kesehatan dan layanan kesehatan reproduksi;  
-e. melakukan pemeriksaan mediko-legal meliputi pengumpulan barang bukti pada korban dan pembuatan visum et repertum.  f. melakukan pemeriksaan penunjang dan laboratorium terhadap barang bukti.  g. melakukan konsultasi kepada dokter ahli atau melakukan rujukan.  h. membuat laporan kasus.  
+e. melakukan pemeriksaan mediko-legal meliputi pengumpulan barang bukti pada korban dan pembuatan visum et repertum.  
+f. melakukan pemeriksaan penunjang dan laboratorium terhadap barang bukti.  
+g. melakukan konsultasi kepada dokter ahli atau melakukan rujukan.  
+h. membuat laporan kasus.  
 
 #### Pasal 13
 
 1. Rehabilitasi sosial merupakan pelayanan yang ditujukan untuk memulihkan dan mengembangkan kemampuan seseorang yang mengalami disfungsi sosial agar dapat melaksanakan fungsi sosialnya secara wajar.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. melakukan pendampingan selama proses penanganan kasus;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:  
+a. melakukan pendampingan selama proses penanganan kasus;  
 b. melakukan konseling.  
 
 #### Pasal 14
 
 1. Bantuan hukum merupakan jasa hukum yang diberikan oleh pendamping hukum dan advokat untuk melakukan proses pendampingan saksi dan/atau korban kekerasan terhadap perempuan.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. Mendampingi dan/atau membela setiap proses penanganan hukum;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:  
+a. Mendampingi dan/atau membela setiap proses penanganan hukum;  
 b. membuat laporan perkembangan penanganan hukum.  
 
 #### Pasal 15
 
 1. Pemulangan merupakan upaya mengembalikan perempuan korban kekerasan dari daerah kota ke daerah asal.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban.  b. membuat laporan perkembangan proses pendampingan pemulangan korban;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:  
+a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban.  
+b. membuat laporan perkembangan proses pendampingan pemulangan korban;  
 c. melakukan pemantauan sekurang- kurangnya tiga bulan setelah korban dipulangkan kekeluarganya.  
 
 #### Pasal 16
 
 1. Reintegrasi sosial merupakan upaya penyatuan kembali korban dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi korban.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. Pemberdayaan ekonomi dan sosial;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:  
+a. Pemberdayaan ekonomi dan sosial;  
 b. Pendidikan; dan  
 c. Monitoring dan/atau bimbingan lanjut.  
 
@@ -274,13 +297,15 @@ Penyelenggaraan pemberdayaan perempuan di bidang ekonomi sebagaimana dimaksud da
 a. memberikan pengetahuan, keterampilan dan pelatihan kerja;  
 b. memfasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. memfasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
-d. memfasilitasi dan bantuan permodalan; dan e. memfasilitasi pengembangan jaringan pemasaran.  
+d. memfasilitasi dan bantuan permodalan; dan  
+e. memfasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 19
 
 Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud dalam Pasal 17 ayat (2) dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
-b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi.  c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dan  
+b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi.  
+c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dan  
 d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
 
 #### Pasal 20
@@ -288,7 +313,8 @@ d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetah
 Penyelenggaraan pemberdayaan perempuan di bidang politik sebagaimana dimaksud dalam Pasal 17 ayat (2) meliputi:  
 a. pelibatan perempuan dalam pengambilan keputusan di berbagai level;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
-c. partisipasi dalam pemilihan umum; dan d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
+c. partisipasi dalam pemilihan umum; dan  
+d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
 
 #### Pasal 21
 
@@ -306,14 +332,16 @@ Pemerintah Daerah
 
 #### Pasal 22
 
-1. Pemerintah Daerah berkewajiban dan bertanggung jawab:a. membuat kebijakan yang memperhatikan kepentingan bagi perempuan terutama dalam hal pemenuhan dan perlindungan haknya;  
+1. Pemerintah Daerah berkewajiban dan bertanggung jawab:  
+a. membuat kebijakan yang memperhatikan kepentingan bagi perempuan terutama dalam hal pemenuhan dan perlindungan haknya;  
 b. memfasilitasi usaha penyelenggaraan pelayanan pemenuhan hak serta memberikan dukungan sarana dan prasarana dalam penyelenggaraan perlindungan perempuan;  
 c. menjamin perlindungan, pemeliharaan, dan kesejahteraan perempuan dengan memperhatikan hak dan kewajiban perempuan;  
 d. mengawasi penyelenggaraan perlindungan perempuan;  
 e. melakukan koordinasi lintas lembaga pemerintah maupun dengan masyarakat dan Dunia Usaha;  
 f. melakukan pendataan dan inventarisasi data perempuan;  
 g. menyediakan rumah aman.  
-2. Pemerintah Daerah berwenang:a. menyusun pedoman operasional standar pelayanan minimal bagi usaha pemenuhan hak dan perlindungan bagi perempuan;  
+2. Pemerintah Daerah berwenang:  
+a. menyusun pedoman operasional standar pelayanan minimal bagi usaha pemenuhan hak dan perlindungan bagi perempuan;  
 b. melaksanakan pelayanan pemenuhan hak dan perlindungan terhadap perempuan;  
 c. melakukan pengawasan terhadap usaha pemenuhan hak perempuan dan pelayanan perlindungan perempuan; dan  
 d. mengembangkan jejaring kerjasama antar lembaga pemerintah maupun dengan Perguruan Tinggi, masyarakat dan Dunia Usaha.  
@@ -325,7 +353,8 @@ Masyarakat
 #### Pasal 23
 
 1. Masyarakat bertanggung jawab untuk melakukan pencegahan, pengurangan resiko dan penanganan kasus perempuan korban kekerasan, eksploitasi, perdagangan orang.  
-2. Tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1) meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan;  
+2. Tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1) meliputi:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan;  
 b. memberikan informasi dan/atau melaporkan bila terjadi tindak kekerasankepada penegak hukum atau pihak yang berwenang;  
 c. melindungi korban; dan  
 d. memberikan pertolongan darurat.  
@@ -399,22 +428,22 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kota Bandar Lampung.  
 
-Ditetapkan di Bandar Lampung, pada tanggal 17 Juni 2019
+Ditetapkan di Bandar Lampung, pada tanggal 17 Juni 2019  
 
-##### WALIKOTA BANDAR LAMPUNG,
+WALIKOTA BANDAR LAMPUNG,  
+
+Cap/Dto  
+
+HERMAN HN. 
+
+Diundangkan di Bandar Lampung pada tanggal 17 Juni 2019  
+
+SEKRETARIS DAERAH KOTA BANDAR LAMPUNG,  
 
 Cap/Dto
 
-##### HERMAN HN
+BADRI TAMAM  
 
-Diundangkan di Bandar Lampung pada tanggal 17 Juni 2019
+LEMBARAN DAERAH KOTA BANDAR LAMPUNG TAHUN 2019 NOMOR 03  
 
-##### SEKRETARIS DAERAH KOTA BANDAR LAMPUNG,
-
-Cap/Dto
-
-##### BADRI TAMAM
-
-##### LEMBARAN DAERAH KOTA BANDAR LAMPUNG TAHUN 2019 NOMOR 03
-
-NOMOR REGISTER PERATURAN DAERAH KOTA BANDAR LAMPUNG PROVINSI LAMPUNG: 03/857/BL/2019
+NOMOR REGISTER PERATURAN DAERAH KOTA BANDAR LAMPUNG PROVINSI LAMPUNG: 03/857/BL/2019  
