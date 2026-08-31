@@ -88,9 +88,10 @@ Content of article two.
 
 
 def test_build_retrieval_chunks_pairs_source_to_translation_when_aligned():
-    records, aligned = build_retrieval_chunks(SOURCE_MD, TRANSLATED_MD)
+    records, alignment = build_retrieval_chunks(SOURCE_MD, TRANSLATED_MD)
 
-    assert aligned is True
+    assert alignment.fully_aligned is True
+    assert (alignment.paired, alignment.total) == (2, 2)
     assert len(records) == 2
     assert records[0]["translated_text"].startswith("CHAPTER I")
     assert records[0]["text"].startswith("BAB I")
@@ -112,15 +113,28 @@ def test_build_retrieval_chunks_records_are_plain_text():
     assert all("#" not in r["translated_text"] for r in records)
 
 
-def test_build_retrieval_chunks_drops_the_source_side_when_structure_drifts():
-    drifted = TRANSLATED_MD.replace("#### Article 2\n\n", "")
-    records, aligned = build_retrieval_chunks(SOURCE_MD, drifted)
+def test_build_retrieval_chunks_still_pairs_a_section_relabelled_by_the_translation():
+    # A heading the translation re-levelled ("#### Article 2" -> "### Article 2")
+    # used to flip the whole file to unaligned; clause-anchor pairing keeps it.
+    drifted = TRANSLATED_MD.replace("#### Article 2", "### Article 2")
+    records, alignment = build_retrieval_chunks(SOURCE_MD, drifted)
 
-    assert aligned is False
-    # Pairing by position would misalign, so the source side is left empty --
-    # storage never reads it, and the drift is reported separately.
-    assert all(r["text"] == "" for r in records)
-    assert all(r["translated_text"] for r in records)
+    assert alignment.fully_aligned is True
+    assert len(records) == 2
+    assert "Pasal 2" in records[1]["text"]
+
+
+def test_build_retrieval_chunks_leaves_a_translation_only_section_unpaired():
+    # An extra section the source has no counterpart for gets text="" while
+    # the sections around it stay paired.
+    extended = TRANSLATED_MD + "\n#### Article 3\n\nContent of article three.\n"
+    records, alignment = build_retrieval_chunks(SOURCE_MD, extended)
+
+    assert [bool(r["text"]) for r in records] == [True, True, False]
+    assert alignment.paired == 2
+    assert alignment.total == 3
+    assert alignment.unpaired == 1
+    assert alignment.fully_aligned is False
 
 
 def test_build_retrieval_chunks_never_emits_an_empty_translated_text():

@@ -27,6 +27,7 @@ section: 16,583 chars), exactly as it is for the raw-text path.
 Pure text processing: no I/O, no LLM calls.
 """
 
+import difflib
 import logging
 import re
 from dataclasses import dataclass, field
@@ -115,32 +116,97 @@ def count_list_items(md_text: str) -> int:
 CLAUSE_TOKEN_RE = re.compile(r"^(?:\d+|[ivxlcdm]+)$", re.IGNORECASE)
 
 
+def _clause_identity(heading_text: str) -> tuple[int, str] | None:
+    """The numbered-clause identity of one heading, language-independently.
+
+    `HEADING_KEYWORD_LEVELS` maps both languages onto one canonical level
+    (bab/chapter -> 1, bagian/part/section -> 2, paragraf/paragraph -> 3,
+    pasal/article -> 4), and a numbered token is the same on both sides, so
+    `Pasal 34` and `Article 34` both yield `(4, "34")`.
+
+    Returns None for a heading that carries no such identity -- OCR fragments
+    (`1  AN`), all-caps titles, spelled-out ordinals (`Bagian Kesatu`), and
+    cross-reference text the corpus wrongly promoted to a heading
+    (`Pasal 28 ayat (1) huruf f, meliputi:` -- more than two words).
+    """
+    words = heading_text.split()
+    if len(words) != 2:
+        return None
+    keyword_level = HEADING_KEYWORD_LEVELS.get(words[0].strip(".:;,").lower())
+    token = words[1].strip(".:;,")
+    if keyword_level is None or not CLAUSE_TOKEN_RE.match(token):
+        return None
+    return (keyword_level, token.upper())
+
+
 def clause_ids(md_text: str) -> list[tuple[int, str]]:
     """The document's numbered clause headings, language-independently.
 
-    `chunking.HEADING_KEYWORD_LEVELS` already maps both languages onto one
-    canonical level (bab/chapter -> 1, bagian/part/section -> 2,
-    paragraf/paragraph -> 3, pasal/article -> 4), and a numbered token is the
-    same on both sides, so `Pasal 34` and `Article 34` both yield `(4, "34")`.
-    That makes the sequence directly comparable between a source and its
-    translation -- which raw heading counts are not.
-
-    Headings that carry no such identity are skipped rather than guessed at:
-    OCR fragments (`1  AN`), all-caps titles, spelled-out ordinals, and
-    cross-reference text that the corpus wrongly promoted to a heading
-    (`Pasal 28 ayat (1) huruf f, meliputi:` -- three words, so not a clause).
+    A `(canonical_level, token)` sequence directly comparable between a source
+    and its translation -- which raw heading counts are not. See
+    `_clause_identity` for which headings qualify.
     """
     ids: list[tuple[int, str]] = []
     for _level, text in heading_outline(md_text):
-        words = text.split()
-        if len(words) != 2:
-            continue
-        keyword_level = HEADING_KEYWORD_LEVELS.get(words[0].strip(".:;,").lower())
-        token = words[1].strip(".:;,")
-        if keyword_level is None or not CLAUSE_TOKEN_RE.match(token):
-            continue
-        ids.append((keyword_level, token.upper()))
+        cid = _clause_identity(text)
+        if cid is not None:
+            ids.append(cid)
     return ids
+
+
+def section_clause_key(section: MarkdownSection) -> tuple[int, str] | None:
+    """The most specific numbered clause anywhere in `section.text`, as a
+    language-independent `(canonical_level, token)` pair, or None.
+
+    `parse_sections` keeps a run of consecutive headings (`# BAB III` /
+    `#### Pasal 4`) together in one section, so its `.heading` is only the
+    first, coarsest one. For pairing a translated section to its source
+    counterpart the finest anchor is what matters, so this returns the
+    deepest-level clause the section contains -- `Pasal 4` over `BAB III`.
+    """
+    best: tuple[int, str] | None = None
+    for _level, text in heading_outline(section.text):
+        cid = _clause_identity(text)
+        if cid is not None and (best is None or cid[0] > best[0]):
+            best = cid
+    return best
+
+
+def align_sections(
+    source: list[MarkdownSection], translated: list[MarkdownSection]
+) -> list[int | None]:
+    """Pair each translated section to a source section by structural identity.
+
+    Returns a list the length of `translated`; entry `j` is the index of the
+    source section paired with `translated[j]`, or None when the translation
+    has a section with no sound source counterpart (structural drift the
+    translation introduced -- e.g. an OCR repair that split one block in two).
+
+    Matches with `difflib.SequenceMatcher` over one key per section: its
+    numbered-clause identity when it has one (`section_clause_key`, a hard
+    cross-language anchor -- `Pasal 4` == `Article 4`), otherwise its heading
+    nesting level. Within an `equal` run, and within an equal-length `replace`
+    run (a heading relabelled or re-levelled but the same underlying clause),
+    sections pair positionally; unequal-length `replace` and translation-only
+    `insert` runs leave those translated sections unpaired. `autojunk=False`:
+    with a few hundred sections the many identical level-only keys would
+    otherwise be treated as junk and stop matching.
+    """
+
+    def key(section: MarkdownSection) -> tuple:
+        cid = section_clause_key(section)
+        return ("C", *cid) if cid is not None else ("L", section.level)
+
+    source_keys = [key(s) for s in source]
+    translated_keys = [key(s) for s in translated]
+    pairing: list[int | None] = [None] * len(translated)
+
+    matcher = difflib.SequenceMatcher(a=source_keys, b=translated_keys, autojunk=False)
+    for tag, i1, i2, j1, j2 in matcher.get_opcodes():
+        if tag == "equal" or (tag == "replace" and i2 - i1 == j2 - j1):
+            for offset in range(j2 - j1):
+                pairing[j1 + offset] = i1 + offset
+    return pairing
 
 
 def _format_clause(clause: tuple[int, str]) -> str:

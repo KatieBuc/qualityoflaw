@@ -1,11 +1,14 @@
 from automation.src.markdown.chunking import (
     TARGET_CHARS_DEFAULT,
+    _clause_identity,
+    align_sections,
     chunk_markdown,
     check_structure,
     count_list_items,
     heading_signature,
     pack_sections,
     parse_sections,
+    section_clause_key,
 )
 
 POLICY_MD = """# BAB I
@@ -226,3 +229,73 @@ def test_list_item_counts_are_still_reported_as_context():
         "2. Kabupaten adalah Kabupaten Bireuen.\n", ""
     )
     assert "list items 2 -> 1" in check_structure(POLICY_MD, translated).describe()
+
+
+def test_clause_identity_is_language_independent():
+    assert _clause_identity("Pasal 34") == (4, "34")
+    assert _clause_identity("Article 34") == (4, "34")
+    assert _clause_identity("BAB IV") == (1, "IV")
+    assert _clause_identity("CHAPTER IV") == (1, "IV")
+
+
+def test_clause_identity_rejects_non_clause_headings():
+    assert _clause_identity("Bagian Kesatu") is None  # spelled-out ordinal
+    assert _clause_identity("KETENTUAN UMUM") is None
+    assert _clause_identity("Pasal 28 ayat (1) huruf f, meliputi:") is None  # >2 words
+    assert _clause_identity("1  AN") is None  # OCR fragment
+
+
+def test_section_clause_key_returns_the_deepest_clause_in_the_section():
+    # parse_sections keeps "# BAB III" and "#### Pasal 4" in one section.
+    section = parse_sections("# BAB III\n\n## RUANG LINGKUP\n\n#### Pasal 4\n\nIsi.\n")[0]
+    assert section_clause_key(section) == (4, "4")
+
+
+def test_section_clause_key_is_none_without_a_numbered_clause():
+    section = parse_sections("# KETENTUAN UMUM\n\nIsi tanpa pasal.\n")[0]
+    assert section_clause_key(section) is None
+
+
+SRC_SECTIONS = parse_sections(
+    "# BAB I\n\n#### Pasal 1\n\nSatu.\n\n#### Pasal 2\n\nDua.\n\n#### Pasal 3\n\nTiga.\n"
+)
+
+
+def _translated(md):
+    return parse_sections(md)
+
+
+def test_align_sections_identity_when_structure_holds():
+    tr = _translated(
+        "# CHAPTER I\n\n#### Article 1\n\nOne.\n\n#### Article 2\n\nTwo.\n\n#### Article 3\n\nThree.\n"
+    )
+    assert align_sections(SRC_SECTIONS, tr) == [0, 1, 2]
+
+
+def test_align_sections_pairs_across_a_relabelled_heading():
+    tr = _translated(
+        "# CHAPTER I\n\n#### Article 1\n\nOne.\n\n### Article 2\n\nTwo.\n\n#### Article 3\n\nThree.\n"
+    )
+    assert align_sections(SRC_SECTIONS, tr) == [0, 1, 2]
+
+
+def test_align_sections_leaves_a_translation_only_section_unpaired():
+    tr = _translated(
+        "# CHAPTER I\n\n#### Article 1\n\nOne.\n\n#### Article 2\n\nTwo.\n\n"
+        "#### Article 3\n\nThree.\n\n#### Article 9\n\nExtra.\n"
+    )
+    assert align_sections(SRC_SECTIONS, tr) == [0, 1, 2, None]
+
+
+def test_align_sections_reanchors_after_a_source_only_section():
+    # Source has an Article 2 the translation dropped; Article 3 must still
+    # pair to Pasal 3, not slip onto Pasal 2.
+    tr = _translated(
+        "# CHAPTER I\n\n#### Article 1\n\nOne.\n\n#### Article 3\n\nThree.\n"
+    )
+    assert align_sections(SRC_SECTIONS, tr) == [0, 2]
+
+
+def test_align_sections_all_none_when_nothing_matches():
+    tr = _translated("# PREAMBLE\n\nUnrelated body with no clauses at all.\n")
+    assert align_sections(SRC_SECTIONS, tr) == [None]

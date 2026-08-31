@@ -144,10 +144,11 @@ def test_a_lost_clause_is_reported_as_a_failure(tmp_path, data_root, run_dir):
     assert result["counts"]["succeeded"] == 1
     assert result["counts"]["clauses_lost"] == 1
 
-    # Pairing by position would put Pasal 2's source against Article 3's
-    # translation, so the source side is dropped rather than guessed at.
+    # The clause is gone, but the sections around it still pair by clause
+    # anchor -- Article 3 to Pasal 3, not to Pasal 2.
     records = chunks_of(run_dir)
-    assert all(r["text"] == "" for r in records)
+    assert records[0]["text"].startswith("BAB I")
+    assert "Pasal 3" in records[-1]["text"]
     assert all(r["translated_text"] for r in records)
 
     failures = json.loads((run_dir / "failures.json").read_text(encoding="utf-8"))
@@ -155,6 +156,29 @@ def test_a_lost_clause_is_reported_as_a_failure(tmp_path, data_root, run_dir):
     assert entry["filename"] == "ACEH_BIREUEN.txt"
     assert entry["error_type"] == "LostClause"
     assert entry["details"]["lost_clauses"] == ["Article 2"]
+
+
+def test_a_translation_only_section_is_reported_but_not_a_lost_clause(tmp_path, data_root, run_dir):
+    # The translation gains a section the source has no counterpart for: not a
+    # content defect, but its original-language text is missing, so it is
+    # recorded as an advisory and counted.
+    seed(
+        run_dir,
+        translated_md=TRANSLATED_MD + "\n#### Article 9\n\nAn added provision.\n",
+    )
+    result = run_md_to_text_step(RUN_ID, make_config(tmp_path, target_chars=8000))
+
+    assert result["counts"]["clauses_lost"] == 0
+    assert result["counts"]["source_unaligned"] == 1
+
+    records = chunks_of(run_dir)
+    assert records[-1]["text"] == ""
+    assert records[-1]["translated_text"].startswith("Article 9")
+
+    entry = json.loads((run_dir / "failures.json").read_text(encoding="utf-8"))["translation"][0]
+    assert entry["filename"] == "ACEH_BIREUEN.txt"
+    assert entry["error_type"] == "SourceAlignmentPartial"
+    assert entry["details"] == {"step": "md_to_text", "unpaired": 1, "total": 4}
 
 
 def test_repairing_an_ocr_artifact_is_not_a_failure(tmp_path, data_root, run_dir):

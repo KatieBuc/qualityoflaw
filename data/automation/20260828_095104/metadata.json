@@ -4,7 +4,7 @@
   "status": "completed",
   "timestamps": {
     "created_at": "2026-08-28T09:51:04.360754+00:00",
-    "updated_at": "2026-08-29T02:09:28.692667+00:00"
+    "updated_at": "2026-08-31T05:41:58.944396+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -270,28 +270,29 @@
     },
     "md_to_text": {
       "total": 198,
-      "succeeded": 0,
-      "skipped": 198,
+      "succeeded": 32,
+      "skipped": 166,
       "failed": 0,
-      "clauses_lost": 0,
-      "repaired": 0
+      "clauses_lost": 4,
+      "repaired": 19,
+      "source_unaligned": 10
     },
     "storage": {
       "total": 198,
-      "succeeded": 0,
-      "skipped": 198,
+      "succeeded": 32,
+      "skipped": 166,
       "failed": 0
     },
     "evaluation": {
       "total": 198,
-      "succeeded": 19,
+      "succeeded": 32,
       "failed": 0,
-      "skipped": 179,
-      "saved_reports": 19
+      "skipped": 166,
+      "saved_reports": 32
     }
   },
   "failures": {
-    "translation": 12,
+    "translation": 21,
     "translation_qa": 0,
     "storage": 0,
     "evaluation": 0,
@@ -305,17 +306,17 @@
       "total_tokens": 0
     },
     "evaluation": {
-      "prompt_tokens": 7420834,
-      "completion_tokens": 90646,
-      "total_tokens": 7511480
+      "prompt_tokens": 13352475,
+      "completion_tokens": 153872,
+      "total_tokens": 13506347
     }
   },
   "timing_seconds": {
     "translation_md": 0.21,
-    "md_to_text": 0.17,
-    "storage": 0.19,
-    "evaluation": 2244.88,
+    "md_to_text": 2.0,
+    "storage": 41.92,
+    "evaluation": 4512.71,
     "comparison": 1.5,
-    "total": 2283.34
+    "total": 4610.83
   }
 }

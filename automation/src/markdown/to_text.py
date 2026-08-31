@@ -42,6 +42,7 @@ import logging
 import re
 import sys
 import time
+from dataclasses import dataclass
 from pathlib import Path
 
 from automation.src.config_loader import (
@@ -53,8 +54,8 @@ from automation.src.config_loader import (
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.markdown.chunking import (
     MD_HEADING_RE,
+    align_sections,
     check_structure,
-    heading_signature,
     parse_sections,
 )
 from automation.src.markdown.policy_files import (
@@ -130,16 +131,35 @@ def markdown_to_text(md_text: str) -> str:
     return f"{text}\n" if text else ""
 
 
+@dataclass
+class SourceAlignment:
+    """How much of a document's original-language text made it into the
+    retrieval records -- see `build_retrieval_chunks`."""
+
+    paired: int  # records that carry a source section's text
+    total: int  # records emitted (== translated sections with non-empty text)
+
+    @property
+    def unpaired(self) -> int:
+        return self.total - self.paired
+
+    @property
+    def fully_aligned(self) -> bool:
+        return self.total > 0 and self.unpaired == 0
+
+
 def build_retrieval_chunks(
     source_md: str, translated_md: str
-) -> tuple[list[dict], bool]:
+) -> tuple[list[dict], SourceAlignment]:
     """Build per-heading retrieval records from a translated document.
 
-    Returns `(records, aligned)`. `aligned` is True when the translation kept
-    the source's heading signature *and* produced the same number of
-    sections, which is the only condition under which pairing source to
-    translation by position is sound. When it is False the records carry
-    `translated_text` only.
+    Returns `(records, alignment)`. Each translated section is paired to its
+    source counterpart individually (`chunking.align_sections`, which anchors
+    on numbered-clause headings and tolerates a heading relabel or a
+    one-section drift), so a structural difference costs at most the original
+    text of the sections it actually touched -- not the whole document, which
+    is what the old all-or-nothing heading-signature gate did. A section with
+    no sound source counterpart gets `text=""`; `alignment` reports how many.
 
     Every record carries the keys `rag.store._load_translation_chunks`
     validates (`section_id`, `chunk_index`, `type`, a non-empty
@@ -149,15 +169,26 @@ def build_retrieval_chunks(
     """
     source_sections = parse_sections(source_md)
     translated_sections = parse_sections(translated_md)
-    aligned = heading_signature(source_md) == heading_signature(translated_md) and len(
-        source_sections
-    ) == len(translated_sections)
+    pairing = (
+        align_sections(source_sections, translated_sections)
+        if source_sections
+        else [None] * len(translated_sections)
+    )
 
     records: list[dict] = []
+    paired = 0
     for index, section in enumerate(translated_sections):
         translated_text = markdown_to_text(section.text).strip()
         if not translated_text:
             continue
+        source_index = pairing[index]
+        source_text = (
+            markdown_to_text(source_sections[source_index].text).strip()
+            if source_index is not None
+            else ""
+        )
+        if source_text:
+            paired += 1
         records.append(
             {
                 "chunk_index": 0,
@@ -166,13 +197,11 @@ def build_retrieval_chunks(
                 "context": None,
                 "heading": section.heading,
                 "heading_path": section.heading_path,
-                "text": (
-                    markdown_to_text(source_sections[index].text).strip() if aligned else ""
-                ),
+                "text": source_text,
                 "translated_text": translated_text,
             }
         )
-    return records, aligned
+    return records, SourceAlignment(paired=paired, total=len(records))
 
 
 def convert_one(
@@ -180,20 +209,20 @@ def convert_one(
     source_path: Path | None,
     text_path: Path,
     chunks_path: Path,
-) -> tuple[int, bool]:
-    """Convert one translated document. Returns `(chunk_count, aligned)`."""
+) -> tuple[int, SourceAlignment]:
+    """Convert one translated document. Returns `(chunk_count, alignment)`."""
     translated_md = translated_path.read_text(encoding="utf-8")
     source_md = source_path.read_text(encoding="utf-8") if source_path else ""
 
     text_path.parent.mkdir(parents=True, exist_ok=True)
     text_path.write_text(markdown_to_text(translated_md), encoding="utf-8")
 
-    records, aligned = build_retrieval_chunks(source_md, translated_md)
+    records, alignment = build_retrieval_chunks(source_md, translated_md)
     chunks_path.parent.mkdir(parents=True, exist_ok=True)
     chunks_path.write_text(
         json.dumps(records, indent=2, ensure_ascii=False), encoding="utf-8"
     )
-    return len(records), aligned
+    return len(records), alignment
 
 
 def run_md_to_text_step(
@@ -228,6 +257,10 @@ def run_md_to_text_step(
         # Files whose structure changed without losing content, i.e. the
         # translation repaired the corpus's OCR damage.
         "repaired": 0,
+        # Files where some translated section could not be paired to a source
+        # section, so its original-language text (and thus `evidence_original`
+        # downstream) is missing.
+        "source_unaligned": 0,
     }
     failed_files: list[dict] = []
 
@@ -255,7 +288,7 @@ def run_md_to_text_step(
             source_path = None
 
         try:
-            chunk_count, aligned = convert_one(
+            chunk_count, alignment = convert_one(
                 translated_path, source_path, text_path, chunks_path
             )
         except Exception as exc:
@@ -267,6 +300,8 @@ def run_md_to_text_step(
             continue
 
         counts["succeeded"] += 1
+        if alignment.unpaired:
+            counts["source_unaligned"] += 1
         diff = (
             check_structure(
                 source_path.read_text(encoding="utf-8"),
@@ -287,6 +322,7 @@ def run_md_to_text_step(
                 "translation",
                 {
                     "filename": f"{stem}.txt",
+                    "policy_file": f"{stem}.txt",
                     "error_type": "LostClause",
                     "message": diff.describe(),
                     "details": {"step": "md_to_text", "lost_clauses": diff.lost_clauses},
@@ -300,8 +336,46 @@ def run_md_to_text_step(
             if diff is not None:
                 counts["repaired"] += 1
                 logger.info("[%s] structure changed (no content lost): %s", stem, diff.describe())
+            if alignment.unpaired:
+                # Not a content defect, but the original-language side is
+                # incomplete: `evidence_original` will be missing for the
+                # sections that couldn't be paired. Recorded so it is visible
+                # instead of only in the logs; re-added under the same
+                # `filename` key `clear_failure` just cleared.
+                logger.warning(
+                    "[%s] %d/%d sections have no original-language text (structure drift)",
+                    stem,
+                    alignment.unpaired,
+                    alignment.total,
+                )
+                record_failure(
+                    run_id,
+                    "translation",
+                    {
+                        "filename": f"{stem}.txt",
+                        "policy_file": f"{stem}.txt",
+                        "error_type": "SourceAlignmentPartial",
+                        "message": (
+                            f"{alignment.unpaired}/{alignment.total} sections have no "
+                            "original-language text (structure drift); evidence_original "
+                            "will be missing for those"
+                        ),
+                        "details": {
+                            "step": "md_to_text",
+                            "unpaired": alignment.unpaired,
+                            "total": alignment.total,
+                        },
+                        "attempts": 1,
+                    },
+                )
 
-        logger.info("[%s] %d retrieval chunks (aligned=%s)", stem, chunk_count, aligned)
+        logger.info(
+            "[%s] %d retrieval chunks (%d/%d source-paired)",
+            stem,
+            chunk_count,
+            alignment.paired,
+            alignment.total,
+        )
 
     elapsed = round(time.time() - start, 2)
     return {"counts": counts, "failed_files": failed_files, "elapsed_s": elapsed}

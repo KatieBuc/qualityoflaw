@@ -441,6 +441,7 @@ def main() -> None:
                     f"{result['counts']['skipped']} skipped, "
                     f"{result['counts']['failed']} failed, "
                     f"{result['counts']['repaired']} structure-repaired, "
+                    f"{result['counts'].get('source_unaligned', 0)} with unpaired source, "
                     f"{result['counts']['clauses_lost']} with LOST CLAUSES"
                 )
                 if result.get("failed_files"):
