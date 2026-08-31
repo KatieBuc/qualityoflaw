@@ -1,18 +1,20 @@
-# BUPATI PESAWARAN
+# PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# PROVINSI LAMPUNG
+BUPATI PESAWARAN  
+
+PROVINSI LAMPUNG  
 
 # PERATURAN DAERAH KABUPATEN PESAWARAN
 
-# NOMOR 1 TAHUN 2019
+NOMOR 1 TAHUN 2019  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK
+PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI PESAWARAN,
+BUPATI PESAWARAN,  
 
 Menimbang:  
  
@@ -36,7 +38,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 3. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279);  
 4. Undang-Undang Nomor 20 Tahun 2003 tentang SistemPendidikan Nasional (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 4301);  
@@ -52,13 +53,19 @@ Mengingat:
 14. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 6 Tahun 2015 tentang Sistem Pemberdayaan Perempuan dan Perlindungan Anak;  
 15. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PESAWARAN dan
+Dengan Persetujuan Bersama  
 
-# BUPATI PESAWARAN
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PESAWARAN  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
+BUPATI PESAWARAN  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -66,8 +73,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Pesawaran.  
 2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintah Daerah yang memimpin pelaksanaan pemerintah yang menjadi kewenangan daerah otonom.  
 3. Bupati adalah Bupati Pesawaran.  
@@ -188,7 +194,8 @@ Pemberdayaan Perempuan
 #### Pasal 7
 
 1. Guna meningkatkan kedudukan, peran, dan kualitas perempuan, serta upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa, dan bernegara, perempuan harus diberdayakan.  
-2. Pemberdayaan perempuan sebagaimana dimaksud pada ayat (1) diarahkan untuk memperoleh kesempatan dan hak-haknya sebagai manusia, agar mampu berperan dan berpartisipasi dalam kegiatan:a. ekonomi;  
+2. Pemberdayaan perempuan sebagaimana dimaksud pada ayat (1) diarahkan untuk memperoleh kesempatan dan hak-haknya sebagai manusia, agar mampu berperan dan berpartisipasi dalam kegiatan:  
+a. ekonomi;  
 b. sosial budaya;  
 c. politik; dan  
 d. hukum.  
@@ -212,7 +219,8 @@ d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetah
 
 #### Pasal 10
 
-1. Penyelenggaraan pemberdayaan perempuan di bidang politik sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf c, meliputi:a. pelibatan perempuan dalam pengambilan keputusan di berbagai level;  
+1. Penyelenggaraan pemberdayaan perempuan di bidang politik sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf c, meliputi:  
+a. pelibatan perempuan dalam pengambilan keputusan di berbagai level;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dan  
 d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
@@ -231,7 +239,8 @@ b. fasilitasi akses dan layanan konsultasi hukum.
 
 #### Pasal 13
 
-1. Untuk melaksanakan pemberdayaan perempuan sebagaimana dimaksud dalam Pasal 12 ayat (1), Pemerintah Daerah menyelenggarakan pengarusutamaan gender meliputi:a. menetapkan pelaksanaan pengarusutamaan gender;  
+1. Untuk melaksanakan pemberdayaan perempuan sebagaimana dimaksud dalam Pasal 12 ayat (1), Pemerintah Daerah menyelenggarakan pengarusutamaan gender meliputi:  
+a. menetapkan pelaksanaan pengarusutamaan gender;  
 b. mengoordinasikan, memfasilitasi, dan memediasi pengarusutamaan gender;  
 c. memfasilitasi penguatan kelembagaan dan pengembangan mekanisme pengarusutamaan gender pada lembaga pemerintah, pusat studi perempuan, lembaga penelitian dan pengembangan, lembaga non pemerintah;  
 d. melaksanakan pengarusutamaan gender yang terkait dengan bidang pembangunan, pendidikan, kesehatan, ekonomi, hukum, hak asasi manusia dan politik, lingkungan dan sosial budaya;  
@@ -257,7 +266,8 @@ Pencegahan Kekerasan
 #### Pasal 14
 
 1. Upaya pencegahan kekerasan terhadap perempuan dilakukan secara terpadu oleh Pemerintah Daerah yang dikoordinasikan oleh instansi yang mempunyai tugas dan fungsi koordinasi di bidang pemberdayaan perempuan dan perlindungan anak.  
-2. Upaya pencegahan sebagaimana dimaksud pada ayat (1), dilaksanakan melalui cara:a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+2. Upaya pencegahan sebagaimana dimaksud pada ayat (1), dilaksanakan melalui cara:  
+a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kerja kemitraan antar institusi Pemerintah Daerah dan masyarakat;  
 c. membangun sistem keamanan yang terpadu di wilayah yang rawan terjadi kasus kekerasan terhadap perempuan;  
 d. membangun unit pengaduan dan pelayanan tentang kekerasan terhadap perempuan di tingkat kecamatan, kelurahan dan/atau Desa; dan  
@@ -280,7 +290,8 @@ Perlindungan Perempuan
 
 #### Pasal 16
 
-1. Perlindungan perempuan meliputi:a. perlindungan atas keamanan pribadi korban atau saksi;  
+1. Perlindungan perempuan meliputi:  
+a. perlindungan atas keamanan pribadi korban atau saksi;  
 b. ancaman fisik dan psikis;  
 c. kerahasiaan identitas korban dan saksi;  
 d. pemberian keterangan selama proses hukumberlangsung yang diatur melalui mekanisme perlindungan.  
@@ -337,7 +348,8 @@ Setiap Anak Penyandang Disabilitas berhak memperoleh rehabilitasi, bantuan sosia
 
 #### Pasal 26
 
-1. Setiap anak selama dalam pengasuhan orang tua, wali, atau pihak lain mana pun yang bertanggung jawab atas pengasuhan, berhak mendapat perlindungan dari perlakuan:a. diskriminasi;  
+1. Setiap anak selama dalam pengasuhan orang tua, wali, atau pihak lain mana pun yang bertanggung jawab atas pengasuhan, berhak mendapat perlindungan dari perlakuan:  
+a. diskriminasi;  
 b. eksploitasi, baik ekonomi maupun seksual;  
 c. penelantaran;  
 d. kekejaman, kekerasan, dan penganiayaan;  
@@ -348,13 +360,10 @@ f. perlakuan salah lainnya.
 #### Pasal 27
 
 1. Setiap Anak berhak untuk diasuh oleh Orang Tuanya sendiri, kecuali jika ada alasan dan/atau aturan hukumyang sah menunjukkan bahwa pemisahan itu adalah demi kepentingan terbaik bagi Anak dan merupakan pertimbangan terakhir.  
-2. Dalam hal terjadi pemisahan sebagaimana dimaksud pada ayat (1), Anak tetap berhak:
-
+2. Dalam hal terjadi pemisahan sebagaimana dimaksud pada ayat (1), Anak tetap berhak:  
 a.bertemu langsung dan berhubungan pribadi secara tetap dengan kedua Orang Tuanya;  
-
 b.mendapatkan pengasuhan, pemeliharaan, pendidikan dan perlindungan untuk proses tumbuh kembang dari kedua Orang Tuanya sesuai dengan kemampuan, bakat dan minatnya;  
-c. memperoleh pembiayaan hidup dari kedua Orang Tuanya; dan
-
+c. memperoleh pembiayaan hidup dari kedua Orang Tuanya; dan  
 d.memperoleh Hak Anak lainnya.  
 
 #### Pasal 28
@@ -374,7 +383,8 @@ e. pelibatan dalam peperangan.
 
 #### Pasal 30
 
-1. Setiap anak yang dirampas kebebasannya berhak untuk:a. mendapatkan perlakuan secara manusiawi dan penempatannya dipisahkan dari orang dewasa;  
+1. Setiap anak yang dirampas kebebasannya berhak untuk:  
+a. mendapatkan perlakuan secara manusiawi dan penempatannya dipisahkan dari orang dewasa;  
 b. memperoleh bantuan hukum atau bantuan lainnya secara efektif dalam setiap tahapan upaya hukumyang berlaku; dan  
 c. membela diri dan memperoleh keadilan di depan pengadilan anak yang objektif dan tidak memihak dalam sidang tertutup untuk umum.  
 2. Setiap anak yang menjadi korban atau pelaku kekerasan seksual atau yang berhadapan dengan hukum berhak dirahasiakan.  
@@ -389,7 +399,8 @@ Setiap anak berkewajiban untuk:
 a. menghormati orang tua, wali, dan guru;  
 b. mencintai keluarga, masyarakat, dan menyayangi teman;  
 c. mencintai tanah air, bangsa, dan negara;  
-d. menunaikan ibadah sesuai dengan ajaran agamanya; dan e. melaksanakan etika dan akhlak yang mulia.  
+d. menunaikan ibadah sesuai dengan ajaran agamanya; dan  
+e. melaksanakan etika dan akhlak yang mulia.  
 
 #### Pasal 33
 
@@ -411,7 +422,8 @@ Pencegahan
 #### Pasal 36
 
 1. Upaya pencegahan kekerasan terhadap anak dilakukan secara terpadu oleh Pemerintah Daerah yang dikoordinasikan oleh instansi yang mempunyai tugas dan fungsi koordinasi di bidang pemberdayaan perempuan dan perlindungan anak.  
-2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan melalui cara:a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan melalui cara:  
+a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kerja kemitraan antar institusi pemerintah daerah dan masyarakat;  
 c. membangun sistem keamanan yang terpadu di wilayah yang rawan terjadi kasus kekerasan terhadap anak;  
 d. memasukkan materi muatan lokal tentang hak anak serta penghapusan kekerasan terhadap anak sebagai bahan pengajaran dalam kegiatan belajar mengajar di institusi pendidikan usia dini hingga setingkat Sekolah Menengah Atas;  
@@ -425,7 +437,8 @@ Perlindungan Anak
 #### Pasal 37
 
 1. Setiap anak mendapatkan perlindungan dari perlakuan kekerasan, eksploitasi, trafficking, diskriminasi, perlakuan salah dan penelantaran.  
-2. Perlindungan sebagaimana dimaksud pada ayat (1) diuraikan dalam berbagai bidang kehidupan, antara lain:a. di bidang kesehatan;  
+2. Perlindungan sebagaimana dimaksud pada ayat (1) diuraikan dalam berbagai bidang kehidupan, antara lain:  
+a. di bidang kesehatan;  
 b. di bidang keagamaan;  
 c. di bidang pendidikan;  
 d. di bidang sosial; dan  
@@ -446,7 +459,8 @@ e. perlindungan khusus.
 #### Pasal 40
 
 1. Setiap Anak berhak untuk diasuh oleh Orang Tuanya sendiri, kecuali jika ada alasan dan/atau aturan hukumyang sah menunjukkan bahwa pemisahan itu adalah demi kepentingan terbaik bagi Anak dan merupakan pertimbangan terakhir.  
-2. Dalam hal terjadi pemisahan sebagaimana dimaksud pada ayat (1), Anak tetap berhak:a. bertemu langsung dan berhubungan pribadi secara tetap dengan kedua Orang Tuanya;  
+2. Dalam hal terjadi pemisahan sebagaimana dimaksud pada ayat (1), Anak tetap berhak:  
+a. bertemu langsung dan berhubungan pribadi secara tetap dengan kedua Orang Tuanya;  
 b. mendapatkan pengasuhan, pemeliharaan, pendidikan dan perlindungan untuk proses tumbuh kembang dari kedua Orang Tuanya sesuai dengan kemampuan, bakat, dan minatnya;  
 c. memperoleh pembiayaan hidup dari kedua Orang Tuanya; dan  
 d. memperoleh Hak Anak lainnya.”
@@ -494,7 +508,8 @@ Pelayanan khusus sebagaimana dimaksud dalam Pasal 33, selain bantuan berupa uang
 #### Pasal 48
 
 1. Perlindungan anak di bidang Sosial sebagaimana dimaksud dalam Pasal 37 ayat (2) huruf d, adalah meliputi pemeliharaan dan perawatan anak terlantar.  
-2. Pemeliharaan dan perawatan sebagaimana dimaksud pada ayat (1), meliputi:a. pemenuhan kebutuhan dasar yang terdiri atas sandang, pangan, tempat tinggal, pendidikan, kesehatan, jaminan keamanan, kebebasan beribadah sesuai agamanya dan perlakuan sama dengan anak lainnya untuk mencapai integrasi sosial seoptimal mungkin; dan  
+2. Pemeliharaan dan perawatan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pemenuhan kebutuhan dasar yang terdiri atas sandang, pangan, tempat tinggal, pendidikan, kesehatan, jaminan keamanan, kebebasan beribadah sesuai agamanya dan perlakuan sama dengan anak lainnya untuk mencapai integrasi sosial seoptimal mungkin; dan  
 b. pemenuhan kebutuhan khusus bagi anak penyandang disabilitas.  
 3. Pemeliharaan anak terlantar sebagaimana dimaksud pada ayat (1), juga dapat dilakukan oleh perorangan dan lembaga non pemerintah atau lembaga kemasyarakatan.  
 4. Lembaga pemerintah daerah, dan/atau perorangan, dan/atau lembaga kemasyarakatan dalam memberikan pelayanan sebagaimana dimaksud pada ayat (2), dapat melakukan kerjasama dengan berbagai unit layanan terkait.  
@@ -520,7 +535,8 @@ n. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi o
 
 #### Pasal 50
 
-1. Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal 37 huruf a, terdiri atas:a. anak yang menjadi pengungsi;  
+1. Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal 37 huruf a, terdiri atas:  
+a. anak yang menjadi pengungsi;  
 b. anak korban kerusuhan;  
 c. anak korban bencana alam; dan  
 d. anak dalam situasi konflik bersenjata.  
@@ -529,7 +545,8 @@ d. anak dalam situasi konflik bersenjata.
 #### Pasal 51
 
 1. Pemerintah daerah dan masyarakat memberikan perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud dalam Pasal 49 huruf a, yang meliputi anak yang berkonflik dengan hukum dan anak korban tindak pidana.  
-2. Perlindungan sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. perlakuan secara manusiawi dengan memperhatikan kebutuhan sesuai dengan umurnya;  
+2. Perlindungan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. perlakuan secara manusiawi dengan memperhatikan kebutuhan sesuai dengan umurnya;  
 b. pemisahan dari orang dewasa;  
 c. pemberian bantuan hukum dan bantuan lain secara efektif;  
 d. pemberlakuan kegiatan rekreasional;  
@@ -537,10 +554,10 @@ e. pembebasan dari penyiksaan, penghukuman, atau perlakuan lain yang kejam, tida
 f. penghindaran dari penjatuhan pidana mati dan/atau pidana seumur hidup;  
 g. penghindaran dari penangkapan, penahanan atau penjara, kecuali sebagai upaya terakhir dan dalamwaktu yang paling singkat;  
 h. pemberian keadilan di muka pengadilan Anak yang objektif, tidak memihak, dan dalam sidang yang tertutup untuk umum;  
-i. penghindaran dari publikasi atas identitasnya.  j. pemberian pendampingan Orang Tua/Wali dan orang yang dipercaya oleh Anak;  
+i. penghindaran dari publikasi atas identitasnya.  
+j. pemberian pendampingan Orang Tua/Wali dan orang yang dipercaya oleh Anak;  
 k. pemberian advokasi sosial;  
 l. pemberian kehidupan pribadi;  
-
 m.pemberian aksesibilitas, terutama bagi Anak Penyandang Disabilitas;  
 n. pemberian pendidikan;  
 o. pemberian pelayanan kesehatan; dan  
@@ -668,7 +685,8 @@ Masyarakat
 
 1. Kewajiban dan tanggungjawab masyarakat sebagaimana dimaksud dalam Pasal 64 huruf c, dilakukan dengan cara berperan serta dalam perlindungan perempuan dan anak korban kekerasan, eksploitasi, trafficking dan diskriminasi, baik secara perseorangan maupun kelompok.  
 2. Peran masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh orang perseorangan, lembaga perlindungan perempuan dan anak, lembaga kesejahteraan sosial, organisasi kemasyarakatan, lembaga pendidikan, media massa, dan dunia usaha.  
-3. Peran masyarakat dalam penyelenggaraan perlindungan perempuan dan anak sebagaimana dimaksud pada ayat (1) dilakukan dengan cara:a. memberikan informasi melalui sosialisasi dan edukasi mengenai perlindungan perempuan dan anak dari tindak kekerasan, eksploitasi, trafficking dan diskriminasi;  
+3. Peran masyarakat dalam penyelenggaraan perlindungan perempuan dan anak sebagaimana dimaksud pada ayat (1) dilakukan dengan cara:  
+a. memberikan informasi melalui sosialisasi dan edukasi mengenai perlindungan perempuan dan anak dari tindak kekerasan, eksploitasi, trafficking dan diskriminasi;  
 b. memberikan masukan dalam perumusan kebijakan yang terkait perlindungan perempuan dan anak dari tindak kekerasan, eksploitasi, trafficking dan diskriminasi;  
 c. melaporkan kepada pihak berwenang jika terjadi pelanggaran tindak kekerasan, eksploitasi, trafficking dan diskriminasi terhadap perempuan dan anak;  
 d. berperan aktif dalam proses rehabilitasi dan reintegrasi sosial bagi perempuan dan anak korban tindak kekerasan, eksploitasi, trafficking dan diskriminasi;  
@@ -684,13 +702,14 @@ Orang tua dan Keluarga
 #### Pasal 69
 
 1. Kewajiban dan tanggungjawab orang tua dan keluarga sebagaimana dimaksud dalam Pasal 45 huruf d, adalah menjaga dan mencegah terjadinya segala bentuk kekerasan, eksploitasi, trafficking dan diskriminasi baik terhadap perempuan maupun terhadap anak.  
-2. Kewajiban dan tanggungjawab orangtua terhadap anak sebagaimana dimaksud pada ayat (1), adalah untuk:a. mengasuh, memelihara, mendidik, dan melindungi anak;  
+2. Kewajiban dan tanggungjawab orangtua terhadap anak sebagaimana dimaksud pada ayat (1), adalah untuk:  
+a. mengasuh, memelihara, mendidik, dan melindungi anak;  
 b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. mencegah terjadinya perkawinan pada usia anak; dan  
 d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada anak.  
 3. Wali dan/atau orang tua asuh yang ditunjuk sebagaimana dimaksud pada ayat (3) harus memiliki kesamaan dengan agama yang dianut Anak.  
 4. Wali dan/atau orang tua asuh sebagaimana dimaksud pada ayat (3) bertanggungjawab terhadap diri anak dan wajib mengelola harta milik anak yang bersangkutan untuk kepentingan terbaik bagi anak.  
-6. Wali dan/atau orangtua asuh sebagaimana dimaksud pada ayat (3), dapat mewakili anak untuk melakukan perbuatan hukum, baik di dalam maupun di luar pengadilan untuk kepentingan yang terbaik bagi anak.  
+5. Wali dan/atau orangtua asuh sebagaimana dimaksud pada ayat (3), dapat mewakili anak untuk melakukan perbuatan hukum, baik di dalam maupun di luar pengadilan untuk kepentingan yang terbaik bagi anak.  
 
 # BAB VII
 
@@ -702,7 +721,8 @@ d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada anak.
 
 1. Dalam rangka perlindungan perempuan dan anak, Pemerintah Daerah dapat membentuk PPT.  
 2. Pembentukan dan pengembangan PPT disesuaikan dengan prioritas kebutuhan, kemampuan keuangan daerah serta kemampuan kelembagaan dan personil yang ada di daerah.  
-3. PPT sebagaimana dimaksud pada ayat (1), dapat berbentuk:a. P2TP2A;  
+3. PPT sebagaimana dimaksud pada ayat (1), dapat berbentuk:  
+a. P2TP2A;  
 b. LK3;  
 c. KPAD; dan  
 d. lembaga lain sesuai kebutuhan dan sesuai dengan ketentuan peraturan perundang-undangan.  
@@ -712,7 +732,8 @@ d. lembaga lain sesuai kebutuhan dan sesuai dengan ketentuan peraturan perundang
 1. P2TP2A sebagaimana dimaksud dalam Pasal 70 ayat (3) huruf a, berkedudukan di tingkat daerah dan tingkat kecamatan.  
 2. P2TP2A berada di bawah koordinasi OPD atau unit-unit lainnya yang menangani pemberdayaan perempuan dan perlindungan anak.  
 3. P2TP2A sebagaimana dimaksud pada ayat (1) tidak memiliki kewenangan merumuskan kebijakan pemberdayaan perempuan dan perlindungan anak.  
-4. P2TP2A adalah salah satu bentuk unit pelayanan terpadu, yang berfungsi sebagai:a. pusat informasi bagi perempuan dan anak;  
+4. P2TP2A adalah salah satu bentuk unit pelayanan terpadu, yang berfungsi sebagai:  
+a. pusat informasi bagi perempuan dan anak;  
 b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan  
 c. pusat pemberdayaan bagi perempuan dan anak.  
 
@@ -742,7 +763,8 @@ Forum Anak
 2. Forum anak sebagaimana dimaksud pada ayat (1) merupakan representasi anak di Kabupaten Pesawaran, baik representasi domisili geografis anak, komponen kelompok sosial budaya anak dan latar belakang pendidikan anak.  
 3. Dalam setiap penyusunan kebijakan yang terkait dengan anak, Pemerintah Daerah harus memperhatikan dan mengakomodasi pendapat anak yang disampaikan melalui forum anak.  
 4. Pembentukan forum anak sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Kepala Daerah.  
-5. Sumber pembiayaan untuk pelaksanaan kegiatan forumanak dapat berasal dari:a. iuran dari anggota forum anak;  
+5. Sumber pembiayaan untuk pelaksanaan kegiatan forum anak dapat berasal dari:  
+a. iuran dari anggota forum anak;  
 b. sumbangan dari masyarakat/pihak swasta yang bersifat tidak mengikat;  
 c. bantuan dari Pemerintah Daerah; dan/ataud. sumber-sumber pembiayaan lainnya sesuai peraturan perundang-undangan yang berlaku.  
 
@@ -753,7 +775,8 @@ c. bantuan dari Pemerintah Daerah; dan/ataud. sumber-sumber pembiayaan lainnya s
 #### Pasal 76
 
 1. Untuk menjamin terpenuhinya hak anak agar dapat hidup, tumbuh, berkembang, dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan dan diskriminasi, maka perlu upaya nyata secara terpadu antara pemerintah daerah, masyarakat dan dunia usaha melalui pengembangan KLA.  
-2. Penyelenggaraan Kabupaten Layak Anak oleh Pemerintah Kabupaten dimaksudkan untuk:a. Menjamin terpenuhinya hak anak agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara optimal sesuai dengan harkat martabat kemanusiaan, demi terwujudnya anak yang berkualitas, berakhlak mulia dan sejahtera;  
+2. Penyelenggaraan Kabupaten Layak Anak oleh Pemerintah Kabupaten dimaksudkan untuk:  
+a. Menjamin terpenuhinya hak anak agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara optimal sesuai dengan harkat martabat kemanusiaan, demi terwujudnya anak yang berkualitas, berakhlak mulia dan sejahtera;  
 b. Menjamin pemenuhan hak anak di dalammenciptakan rasa aman, ramah, bersahabat;  
 c. Melindungi anak dari ancaman permasalahan sosial dalam kehidupannya;  
 d. Mengembangkan potensi, bakat dan kreatifitas anak;  
@@ -762,8 +785,10 @@ f. Membangun sarana dan prasarana Kabupaten yang mampu memenuhi kebutuhan dasar 
 
 #### Pasal 77
 
-Kabupaten Layak Anak yang diselengarakan oleh Pemerintah Kabupaten dilaksanakan berdasarkan prinsip- prinsip yang meliputi:  
-a. Tata kelola pemerintahan yang baik, yaitu transparasi, akuntabilasi, partisipasi, keterbukaan informasi dan supremasi hukum.  b. Non-diskriminasi, yaitu tidak membedakan suku, ras, agama, jenis kelamin, bahasa, paham politik, asal kebangsaan, status ekonomi, kondisi fisik, mental maupun psikis anak.  c. Budaya dan kearifan lokal;  
+Kabupaten Layak Anak yang diselenggarakan oleh Pemerintah Kabupaten dilaksanakan berdasarkan prinsip- prinsip yang meliputi:  
+a. Tata kelola pemerintahan yang baik, yaitu transparansi, akuntabilitasi, partisipasi, keterbukaan informasi dan supremasi hukum.  
+b. Non-diskriminasi, yaitu tidak membedakan suku, ras, agama, jenis kelamin, bahasa, paham politik, asal kebangsaan, status ekonomi, kondisi fisik, mental maupun psikis anak.  
+c. Budaya dan kearifan lokal;  
 d. Kepentingan terbaik bagi anak yaitu menjadikan hal yang paling baik bagi anak sebagai pertimbangan utama dalam setiap kebijakan, program dan kegiatan; dan  
 e. Penghargaan terhadap pandangan anak yaitu mengakui dan memastikan bahwa setiap anak yang memiliki kemampuan untuk menyampaikan pendapatnya diberikan kesempatan untuk mengapresiasikan pandangan nya secara bebas terhadap segala sesuatu hal yang mempengaruhi dirinya.  
 
@@ -784,7 +809,8 @@ Ramah Anak
 #### Pasal 79
 
 1. Kondisi nonfisik suatu wilayah yang didalamnya terdapat nilai budaya, etika, sikap, dan prilaku masyarakat yang secara sadar dipraktikan atau digunakan dan dikembangkan sedemikian rupa untuk memberikan rasa senang, nyaman, dan gembira pada anak.  
-2. Keramahan sebagaimana yang dimaksud pada ayat (1) diantaranya berupa:a. Tata cara orang dewasa dalam menghadapi dan memperlakukan anak seperti bertegur sapa, memberi salam;  
+2. Keramahan sebagaimana yang dimaksud pada ayat (1) diantaranya berupa:  
+a. Tata cara orang dewasa dalam menghadapi dan memperlakukan anak seperti bertegur sapa, memberi salam;  
 b. Memilih dan menggunakan kata-kata bijak untuk anak;  
 c. Kebiasaan memuji anak;  
 d. Mengucapkan terimakasih;  
@@ -813,19 +839,14 @@ e. Pemenuhan hak mendapatkan perlindungan terhadap kekerasan dan diskriminasi.
 #### Pasal 81
 
 1. Dalam rangka efektifitas pelaksanaan kebijakan Kabupaten Layak Anak di daerah dibentuk Gugus Tugas Kabupaten Layak Anak yang keanggotaanya meliputi OPD, perwakilan anak, dan dapat melibatkan lembaga legislatif, yudikatif, dunia usaha, tokoh agama/masyarakat/adat dan masyarakat.  
-2. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1) mempunyai tugas pokok:
-
-a.mengkoordinasikan pelaksanaan kebijakan dan pengembangan Kabupaten Layak Anak;  
-
-b.menetapkan tugas-tugas dari anggota Gugus Tugas;  
+2. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1) mempunyai tugas pokok:  
+a. mengkoordinasikan pelaksanaan kebijakan dan pengembangan Kabupaten Layak Anak;  
+b. menetapkan tugas-tugas dari anggota Gugus Tugas;  
 c. melakukan sosialisasi, advokasi dan komunikasi informasi dan edukasi kebijakan Kabupaten Layak Anak;  
-
-d.mengumpulkan data dasar;  
+d. mengumpulkan data dasar;  
 e. melakukan analisis kebutuhan yang bersumber dari data dasar;  
 f. melakukan deseminasi data dasar;  
-
 g.menentukan fokus dan prioritas program dalammewujudkan Kabupaten Layak Anak, yang disesuaikan dengan potensi daerah;  
-
 h.menyusun Rencana Aksi Daerah Kabupaten Layak Anak 5 (lima) tahunan dan mekanisme kerja;  
 i. melakukan monitoring, evaluasi dan pelaporan sekurang-kurangnya 1 (satu) tahun sekali.  
 3. Keanggotaan Gugus Tugas Kabupaten Layak Anak diangkat dan diberhentikan oleh Bupati.  
@@ -865,7 +886,8 @@ c. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan per
 #### Pasal 85
 
 1. Kepala Daerah berwenang melakukan pembinaan dan pengawasan atas Perlindungan Perempuan dan Anak.  
-2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) dapat berupa:a. memberikan sosialisasi kepada masyarakat dan kelompok anak mengenai konsep Kabupaten Layak Anak dan hak anak;  
+2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. memberikan sosialisasi kepada masyarakat dan kelompok anak mengenai konsep Kabupaten Layak Anak dan hak anak;  
 b. menyediakan buku, leaflet, brosur mengenai perlindungan anak, kesehatan reproduksi, bahaya Penyakit Menular Seksual dan Narkotika dan Zat Adiktif lainnya (NAPZA) serta menyebarkannya ke masyarakat;  
 c. memberikan pelatihan yang berkaitan dengan pengasuhan/pendidikan anak, prinsip konseling, psikologi dasar terhadap masyarakat yang berperan serta dalam upaya penyelenggaraan pendidikan anak usia dini, pengembangan Kelompok Bina Keluarga Balita (BKB), penyelenggaraan layanan terpadu perlindungan anak dan kegiatan lain yang sejenis yang berkaitan dengan pemenuhan kebutuhan anak;  
 d. memfasilitasi terselenggaranya forum anak dan komponen kelompok sosial budaya anak;  
@@ -884,50 +906,45 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Pesawaran.  
 
-Ditetapkan di Gedong Tataan pada tanggal 14 Januari 2019
+Ditetapkan di Gedong Tataan  
 
-##### BUPATI PESAWARAN,
+pada tanggal 14 Januari 2019  
 
-##### DTO.  
+BUPATI PESAWARAN,  
 
-##### DENDI RAMADHONA K.  
+DTO.  
 
-Diundangkan di Gedong Tataan pada tanggal 14 Januari 2019
+DENDI RAMADHONA K.  
 
-##### SEKRETARIS DAERAH KABUPATEN PESAWARAN,
+Diundangkan di Gedong Tataan  
 
-##### DTO.  
+pada tanggal 14 Januari 2019  
 
-##### KESUMA DEWANGSA
+SEKRETARIS DAERAH KABUPATEN PESAWARAN,  
 
-##### LEMBARAN DAERAH KABUPATEN PESAWARAN TAHUN 2019 NOMOR 41
+DTO.  
+
+KESUMA DEWANGSA  
+
+LEMBARAN DAERAH KABUPATEN PESAWARAN TAHUN 2019 NOMOR 41  
 
 NOMOR REGISTER PERATURAN DAERAH KABUPATEN PESAWARAN PROVINSI LAMPUNG: 02/837/PSW/2019.  
 
-Sesuai Dengan Salinan Aslinya
+Sesuai Dengan Salinan Aslinya  
 
-##### KEPALA BAGIAN HUKUM
+KEPALA BAGIAN HUKUM  
 
-##### SETDAKAB PESAWARAN,
+SETDAKAB PESAWARAN,  
 
-##### SUSI PATMININGTYAS,  
-S.H.  
+SUSI PATMININGTYAS,  S.H.  
 
-Pembina Tk. I
+Pembina Tk. I  
 
-##### NIP. 19661015 199503 2 002
+NIP. 19661015 199503 2 002  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PESAWARAN
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN PESAWARAN
-
-##### NOMOR 1 TAHUN 2019
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK
+NOMOR 1 TAHUN 2019 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK  
 
 ##### I. UMUM
 
@@ -943,346 +960,346 @@ Negara, Pemerintah, Pemerintah Daerah, Masyarakat, Keluarga dan Orang Tua berkew
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 3
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 4
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 5
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 6
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 7
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 8
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 9
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 10
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 11
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 12
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 13
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 14
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 15
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 16
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 17
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 18
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 19
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 20
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 21
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 22
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 23
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 24
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 25
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 26
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 27
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 28
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 29
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 30
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 31
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 32
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 33
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 34
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 35
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 36
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 37
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 38
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 39
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 40
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 41
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 42
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 43
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 44
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 45
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 46
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 47
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 48
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 49
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 50
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 51
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 52
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 53
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 54
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 55
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 56
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 57
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 58
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 59
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 60
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 61
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 62
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 63
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 64
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 65
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 66
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 67
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 68
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 69
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 70
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 71
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 72
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 73
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 74
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 75
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 76
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 77
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 78
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 79
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 80
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 81
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 82
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 83
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 84
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 85
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 86
 
-Cukup Jelas
+Cukup Jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN PESAWARAN NOMOR 78
+TAMBAHAN LEMBARAN DAERAH KABUPATEN PESAWARAN NOMOR 78  
