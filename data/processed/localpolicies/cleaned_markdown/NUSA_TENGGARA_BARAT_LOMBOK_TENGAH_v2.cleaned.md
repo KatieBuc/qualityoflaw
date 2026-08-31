@@ -69,11 +69,17 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Pelindungan perempuan dan anak didasarkan pada asas: Up penghargaan atas harkat dan martabat manusia: non-diskriminasi: "Pp kepentingan terbaik bagi Korban,  keadilan: kemanfaatan, dan kepastian hukum.  
+Pelindungan perempuan dan anak didasarkan pada asas:  
+a. penghargaan atas harkat dan martabat manusia;  
+b. non-diskriminasi;  
+c. kepentingan terbaik bagi Korban;  
+d. keadilan;  
+e. kemanfaatan; dan  
+f. kepastian hukum.  
 
 #### Pasal 3
 
-Tujuan Pelindungan perempuan dan anak terdiri atas: 
+Tujuan Pelindungan perempuan dan anak terdiri atas:  
 a. mencegah segala bentuk kekerasan terhadap perempuan dan anak, memberikan Pelindungan dan pelayanan terhadapb. perempuan dan anak korban kekerasan;  
 b. memberikan rasa aman terhadap perempuan dan anak dari  kejahatan dan kekerasan;  
 c. menghindari anak dari pernikahan usia anak, menjamin Pelindungan dan pemenuhan terhadap hak anak; dan  
