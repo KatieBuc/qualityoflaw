@@ -105,6 +105,45 @@ def test_merge_dimension_results_handles_failures():
     assert candidates_by_id == {}
 
 
+def test_merge_dimension_results_reports_evidence_original_aligned_rate():
+    policy_path = Path("ACEH_BIREUEN.txt")
+    results = [
+        DimensionResult(
+            "01_scope_of_violence.txt",
+            {
+                "1.1": {"id": "1.1", "indicator": "x", "included": "Yes", "evidence_original_aligned": True},
+                "1.2": {"id": "1.2", "indicator": "x", "included": "Yes", "evidence_original_aligned": True},
+                "1.3": {"id": "1.3", "indicator": "x", "included": "Yes", "evidence_original_aligned": False},
+                # Not counted: no original-language pairing resolved.
+                "1.4": {"id": "1.4", "indicator": "x", "included": "No", "evidence_original_aligned": None},
+                "1.5": {"id": "1.5", "indicator": "x", "included": "Yes"},
+            },
+        ),
+    ]
+    report, _ = _merge_dimension_results(policy_path, "gpt-4o", "v3", results)
+    assert report["evidence_original_aligned_rate"] == {
+        "sentence_aligned": 2,
+        "resolved": 3,
+        "rate": round(2 / 3, 4),
+    }
+
+
+def test_merge_dimension_results_evidence_original_aligned_rate_none_when_no_pairing():
+    policy_path = Path("ACEH_BIREUEN.txt")
+    results = [
+        DimensionResult(
+            "01_scope_of_violence.txt",
+            {"1.1": {"id": "1.1", "indicator": "x", "included": "No", "evidence_original_aligned": None}},
+        ),
+    ]
+    report, _ = _merge_dimension_results(policy_path, "gpt-4o", "v3", results)
+    assert report["evidence_original_aligned_rate"] == {
+        "sentence_aligned": 0,
+        "resolved": 0,
+        "rate": None,
+    }
+
+
 def test_validate_completeness_detects_missing():
     partial = {"1.1": {"id": "1.1", "included": "Yes"}}
     is_complete, issues = validate_completeness(partial)

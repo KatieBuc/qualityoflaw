@@ -15,7 +15,7 @@ DEFAULT_MANUAL_OVERWRITES = PROJECT_ROOT / "data" / "corrections" / "manual_over
 SMALL_SCALE_FILES = [
     "ACEH_BIREUEN.txt",
     "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
-    "NUSA_TENGGARA_BARAT_DOMPU.txt",
+    # "NUSA_TENGGARA_BARAT_DOMPU.txt",
     "RIAU_PEKANBARU_KOTA.txt"
 ]
 
@@ -25,7 +25,7 @@ SMALL_SCALE_FILES = [
 # renders the plain-text artifact everything downstream reads.
 DEFAULT_STEPS = (
     "translation_md",
-    "translation_qa_md",
+    # "translation_qa_md",
     "md_to_text",
     "storage",
     "evaluation",

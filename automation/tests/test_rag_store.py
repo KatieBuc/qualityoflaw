@@ -186,6 +186,12 @@ def test_run_storage_step_reuses_translation_chunks_when_available(pipeline_conf
         "Article 2\nThe content of article two.",
     ]
     assert [c["section_id"] for c in store["chunks"]] == [0, 1]
+    # The source-language text travels alongside the translation, rather than
+    # being discarded, so evidence can show both side by side.
+    assert [c["source_text"] for c in store["chunks"]] == [
+        "Pasal 1\nIsi pasal satu.",
+        "Pasal 2\nIsi pasal dua.",
+    ]
 
 
 def test_run_storage_step_falls_back_when_chunks_json_invalid(pipeline_config, data_root):
@@ -212,6 +218,36 @@ def test_run_storage_step_falls_back_when_chunks_json_invalid(pipeline_config, d
 
     store = json.loads((data_root / run_id / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
     assert store["chunks"][0]["text"].startswith("CHAPTER I\nGENERAL PROVISIONS")
+
+
+def test_load_translation_chunks_carries_source_text(tmp_path):
+    path = tmp_path / "A.chunks.json"
+    path.write_text(
+        json.dumps(
+            [
+                {
+                    "chunk_index": 0,
+                    "section_id": 0,
+                    "type": "structural",
+                    "text": "Pasal 1\nIsi pasal satu.",
+                    "translated_text": "Article 1\nThe content of article one.",
+                },
+                {
+                    # Unaligned section: source text is empty, so pairing
+                    # falls back to None instead of an empty string.
+                    "chunk_index": 0,
+                    "section_id": 1,
+                    "type": "structural",
+                    "text": "",
+                    "translated_text": "Article 2\nThe content of article two.",
+                },
+            ]
+        ),
+        encoding="utf-8",
+    )
+    loaded = _load_translation_chunks(path)
+    assert loaded[0]["source_text"] == "Pasal 1\nIsi pasal satu."
+    assert loaded[1]["source_text"] is None
 
 
 def test_load_translation_chunks_rejects_empty_or_missing(tmp_path):

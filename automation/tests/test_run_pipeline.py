@@ -17,7 +17,14 @@ from automation.src.config_loader import (
 )
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, DEFAULT_STEPS, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
-from automation.src.run_pipeline import main, parse_steps, requires_run_id
+import json
+
+from automation.src.run_pipeline import (
+    _print_overall_alignment_rate,
+    main,
+    parse_steps,
+    requires_run_id,
+)
 
 TRANSLATION_RESULT = {
     "counts": {"total": 5, "succeeded": 5, "skipped": 0, "failed": 0},
@@ -198,6 +205,44 @@ def mock_config():
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
     )
+
+
+def _write_eval_report(eval_dir: Path, name: str, stat: dict | None) -> None:
+    eval_dir.mkdir(parents=True, exist_ok=True)
+    report = {"policy_file": name}
+    if stat is not None:
+        report["evidence_original_aligned_rate"] = stat
+    (eval_dir / name).write_text(json.dumps(report), encoding="utf-8")
+
+
+def test_print_overall_alignment_rate_aggregates_across_reports(tmp_path, capsys):
+    eval_dir = tmp_path / "results" / "evaluation"
+    _write_eval_report(eval_dir, "A.json", {"sentence_aligned": 40, "resolved": 50, "rate": 0.8})
+    _write_eval_report(eval_dir, "B.json", {"sentence_aligned": 5, "resolved": 10, "rate": 0.5})
+    _write_eval_report(eval_dir, "C.json", None)  # report without the stat is ignored
+
+    with patch("automation.src.run_pipeline.get_run_dir", return_value=tmp_path):
+        _print_overall_alignment_rate("run123")
+
+    out = capsys.readouterr().out
+    assert "Evidence original-language alignment: 45/60 sentence-aligned (75.0%)" in out
+
+
+def test_print_overall_alignment_rate_silent_when_nothing_resolved(tmp_path, capsys):
+    eval_dir = tmp_path / "results" / "evaluation"
+    _write_eval_report(eval_dir, "A.json", {"sentence_aligned": 0, "resolved": 0, "rate": None})
+
+    with patch("automation.src.run_pipeline.get_run_dir", return_value=tmp_path):
+        _print_overall_alignment_rate("run123")
+
+    assert capsys.readouterr().out == ""
+
+
+def test_print_overall_alignment_rate_silent_when_no_eval_dir(tmp_path, capsys):
+    with patch("automation.src.run_pipeline.get_run_dir", return_value=tmp_path):
+        _print_overall_alignment_rate("run123")
+
+    assert capsys.readouterr().out == ""
 
 
 def test_parse_steps_defaults_to_all():

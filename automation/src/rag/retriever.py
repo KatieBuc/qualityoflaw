@@ -24,6 +24,11 @@ class RetrievedChunk:
     chunk_id: int
     text: str
     score: float
+    #: The same chunk's original-language text, when the translation step's
+    #: chunk pairing was aligned (see markdown/to_text.py:build_retrieval_chunks).
+    #: None when unavailable (unaligned translation, or the direct-chunking
+    #: fallback in rag/store.py, which never has source text at all).
+    source_text: str | None = None
 
 
 def load_policy_store(store_path: Path) -> list[dict]:
@@ -52,6 +57,7 @@ def vector_search(
             chunk_id=c["chunk_id"],
             text=c["text"],
             score=_cosine_similarity(query_embedding, c["embedding"]),
+            source_text=c.get("source_text"),
         )
         for c in chunks
     ]
@@ -67,7 +73,12 @@ def _bm25_search(query: str, chunks: list[dict], top_k: int) -> list[RetrievedCh
     scores = bm25.get_scores(query.lower().split())
     ranked = sorted(zip(chunks, scores), key=lambda pair: pair[1], reverse=True)
     return [
-        RetrievedChunk(chunk_id=c["chunk_id"], text=c["text"], score=float(s))
+        RetrievedChunk(
+            chunk_id=c["chunk_id"],
+            text=c["text"],
+            score=float(s),
+            source_text=c.get("source_text"),
+        )
         for c, s in ranked[:top_k]
     ]
 
@@ -85,7 +96,12 @@ def _reciprocal_rank_fusion(
             chunk_by_id[item.chunk_id] = item
     ordered_ids = sorted(fused_scores, key=lambda cid: fused_scores[cid], reverse=True)
     return [
-        RetrievedChunk(chunk_id=cid, text=chunk_by_id[cid].text, score=fused_scores[cid])
+        RetrievedChunk(
+            chunk_id=cid,
+            text=chunk_by_id[cid].text,
+            score=fused_scores[cid],
+            source_text=chunk_by_id[cid].source_text,
+        )
         for cid in ordered_ids
     ]
 
@@ -103,7 +119,7 @@ def rerank(
     scores = score_candidates(model_name, query, [c.text for c in candidates])
     reranked = sorted(zip(candidates, scores), key=lambda pair: pair[1], reverse=True)
     return [
-        RetrievedChunk(chunk_id=c.chunk_id, text=c.text, score=score)
+        RetrievedChunk(chunk_id=c.chunk_id, text=c.text, score=score, source_text=c.source_text)
         for c, score in reranked[:top_k]
     ]
 

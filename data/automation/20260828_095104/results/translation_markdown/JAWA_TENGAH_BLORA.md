@@ -1,0 +1,692 @@
+# REGENT OF BLORA
+
+# CENTRAL JAVA PROVINCE
+
+# REGIONAL REGULATION OF BLORA REGENCY
+
+# NUMBER 3 OF 2017
+
+# CONCERNING
+
+IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE
+
+# BY THE GRACE OF GOD ALMIGHTY
+
+# THE REGENT OF BLORA,
+
+Considering:  
+a. that every citizen has the right to be free from torture or treatment that degrades human dignity, honor and worth and has the right to obtain security and freedom from all forms of violence and discrimination as a form of respect, protection and enforcement of Human Rights, especially the basic rights of women and Children, so it is necessary to regulate the implementation of protection for women and Children Victims of violence in Blora Regency;  
+b. that based on the considerations as referred to in letter a, it is necessary to establish a Regional Regulation concerning the Implementation of Protection for Women and Children Victims of Violence;  
+
+In View of:  
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;  
+
+2. Law Number 13 of 1950 concerning the Establishment of Regency Regions within the Province of Central Java (State Gazette dated August 8, 1950) as amended by Law Number 9 of 1965 concerning the Establishment of Level II Region of Batang by amending Law Number 13 of 1950 concerning the Establishment of Regency Regions within the Province of Central Java (State Gazette of the Republic of Indonesia of 1965 Number 52, Supplement to the State Gazette of the Republic of Indonesia Number 2757);  
+3. Law Number 1 of 1974 concerning Marriage (State Gazette of the Republic of Indonesia of 1974 Number 1, Supplement to the State Gazette of the Republic of Indonesia Number 3019);  
+4. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number
+3143. ;  
+5. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);  
+6. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);  
+7. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);  
+8. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);  
+9. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);  
+10. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);  
+11. Law Number 44 of 2008 concerning Pornography (State Gazette of the Republic of Indonesia of 2008 Number 181, Supplement to the State Gazette of the Republic of Indonesia Number 4928);  
+12. Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia Number 12, Supplement to the State Gazette of the Republic of Indonesia of 2009 Number 4967);  
+13. Law Number 36 of 2009 concerning Health (State Gazette of the Republic of Indonesia of 2009 Number 144, Supplement to the State Gazette of the Republic of Indonesia Number 5063);  
+14. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);  
+15. Law Number 6 of 2014 concerning Villages (State Gazette of the Republic of Indonesia of 2014 Number 7, Supplement to the State Gazette of the Republic of Indonesia Number 5495);  
+16. Law Number 18 of 2014 concerning Mental Health (State Gazette of the Republic of Indonesia of 2014 Number 185, Supplement to the State Gazette Number 5571);  
+17. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);  
+18. Government Regulation Number 6 of 1988 concerning Coordination of Vertical Agency Activities in the Regions (State Gazette of the Republic of Indonesia of 1988 Number 10, Supplement to the State Gazette of the Republic of Indonesia 3373);  
+19. Government Regulation Number 79 of 2005 concerning Guidance and Supervision of the Implementation of Regional Government (State Gazette of the Republic of Indonesia of 2005 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 4593);  
+20. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation of Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4606);  
+21. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of Criminal Acts of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);  
+22. Government Regulation Number 43 of 2014 concerning Implementation Guidelines for Law Number 6 of 2014 concerning Villages (State Gazette of the Republic of Indonesia of 2014 Number 123, Supplement to the State Gazette of the Republic of Indonesia Number 5539) as amended by Government Regulation Number 47 of 2015 concerning Amendment to Government Regulation Number 43 of 2014 concerning Implementation Guidelines for Law Number 6 of 2014 concerning Villages (State Gazette of the Republic of Indonesia of 2015 Number 157, Supplement to the State Gazette of the Republic of Indonesia Number 5717);  
+23. Presidential Regulation Number 87 of 2014 concerning Implementing Regulations of Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2014 Number 199);  
+
+With Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF BLORA REGENCY and
+
+# THE REGENT OF BLORA
+
+# HAS DECIDED:
+
+To Establish: REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms shall mean:
+
+1. Region is Blora Regency.  
+2. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.  
+3. Regional Apparatus is an auxiliary element of the Regent and the Regional House of Representatives in the administration of regional government affairs that are the authority of the Region.  
+4. Village is a legal community unit that has territorial boundaries authorized to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin, and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.  
+5. Sub-district is a sub-district apparatus formed to assist or carry out part of the duties of the sub-district head.  
+6. Child is a person who has not reached the age of 18 (eighteen) years, including a Child who is still in the womb.  
+7. Protection is all efforts aimed at providing a sense of security to Victims carried out by family, Integrated Services, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.  
+8. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.  
+9. Empowerment is the strengthening of Victims of violence to be able to work and work independently after they are recovered and provided with health and social rehabilitation services.  
+10. Violence is any unlawful act that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens and/or endangers life and body and degrades dignity.  
+11. Violence Against Women is any act against women that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in the public sphere or in private life.  
+12. Violence Against Children is any act against a Child that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the Child committed by parties who should be responsible for the Child or those who should be trusted.  
+13. Victim is a woman and Child who experiences violence and/or threat of violence within the scope of the household and community.  
+14. Companion is a social worker who has professional competence in their field.  
+15. Integrated Services is a series of activities to handle and protect Victims of acts of violence including criminal acts of trafficking in persons carried out jointly by relevant agencies or institutions and the community as one unit of organizing health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance.  
+16. Integrated Service Center hereinafter abbreviated as PPT is a unified unit that organizes Integrated Services for women and Child Victims of violence.  
+17. Women and Child Protection Unit hereinafter abbreviated as UPPA is a unit at the sub-district and village/sub-district level that organizes protection for Victims of Violence Against Women and Children.  
+18. Social Rehabilitation is the recovery of Victims from psychosocial condition disorders and the restoration of normal social functioning both in the family and in the community.  
+19. Legal Assistance is the provision of legal assistance to Victims seeking justice who are unable and face difficulties in the legal field outside and before the court without remuneration.  
+20. Repatriation is the act of returning Victims to their region of origin or country of origin while prioritizing protection services and fulfillment of their needs.  
+21. Social Reintegration is the reunification of Victims with family, substitute family, or community that can provide protection and fulfillment of needs for Victims.  
+22. Safe House (shelter) is a temporary residence used to provide protection to Victims in accordance with determined operational standards.  
+23. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their Child, or father and his Child, or mother and her Child, or blood relatives in a straight line upward or downward up to the third degree.  
+24. Household is husband, wife, and Child, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.  
+25. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of Blora Regency.  
+26. Village Revenue and Expenditure Budget hereinafter abbreviated as APBDes is the Village Revenue and Expenditure Budget in Blora Regency.
+
+# CHAPTER II
+
+## PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+Protection of Victims is based on Pancasila and grounded in the 1945 Constitution of the Republic of Indonesia, as well as basic principles that include:
+a. non-discrimination;  
+b. best interests of Victims;  
+c. justice and gender equality;  
+d. protection of Victims;  
+e. survival of mothers;  
+f. survival, growth, and development of Children; g. respect for the opinion of Children;  
+h. openness;  
+i. integration;  
+j. not blaming Victims;  
+k. empowering;  
+l. confidentiality of Victims; andm. decision-making in the hands of Victims.
+
+#### Article 3
+
+The objectives of organizing protection of Victims are:
+a. to prevent Violence Against Women and Children; b. to provide services to women and Child Victims of Violence; andc. to empower women and Child Victims of Violence.
+
+# CHAPTER III
+
+## SCOPE
+
+#### Article 4
+
+The scope of organizing protection for Victims includes prevention, service and empowerment efforts for Victims of Violence.
+
+# CHAPTER IV
+
+## RIGHTS OF VICTIMS
+
+#### Article 5
+
+Every Victim receives the following rights:
+a. the right to have their dignity respected as a human being;  
+b. the right to determine their own decisions;  
+c. the right to obtain information;  
+d. the right to confidentiality of their identity;  
+e. the right to complaint handling;  
+f. the right to health and psychological recovery from the suffering experienced by Victims;  
+g. the right to obtain facilities in the judicial process; h. the right to obtain repatriation and social reintegration efforts; i. the right to social rehabilitation; andj. the right to obtain assistance in psychological recovery, legal services and health services.
+
+# CHAPTER V
+
+## OBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT
+
+#### Article 6
+
+1. The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of Violence.  
+2. Efforts to prevent the occurrence of Violence as referred to in paragraph (1) may be implemented in the form of:a. conducting efforts to increase awareness about anti-Violence values Against Women and Children;  
+b. conducting socialization of laws and regulations related to the implementation of protection of women and Child Victims of violence.  
+3. The Regional Government has the obligation to provide and organize services for Victims in the form of:a. establishing and facilitating the operation of integrated service institutions for Victims;  
+b. providing support for facilities and infrastructurec. increasing the capacity of service provider institutions; d. conducting coordination and cooperation in services for women and Child Victims of violence;  
+e. conducting monitoring and evaluation;  
+f. encouraging public awareness of the importance of protection for Victims; andg. conducting empowerment of Victims.
+
+# CHAPTER VI
+
+## FORMS OF VIOLENCE
+
+#### Article 7
+
+1. Forms of Violence Against Women and Children are: a. physical violence;  
+b. psychological violence;  
+c. sexual violence;  
+d. neglect;  
+e. exploitation; andf. maltreatment.  
+2. Physical violence as referred to in paragraph (1) letter a is an act that results in pain, injury, wounds, or disability to a person's body, miscarriage, fainting and/or causes death.  
+3. Psychological violence as referred to in paragraph (1) letter b is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to the Victim.  
+4. Sexual violence as referred to in paragraph (1) letter c is:a. an act in the form of sexual harassment whether physical or psychological;  
+b. an act of sexual abuse and sexual intercourse with a Child; c. forced sexual intercourse;  
+d. forced sexual intercourse in an unnatural or unwanted manner; and/ore. forced sexual intercourse with another person for commercial purposes and/or certain purposes.  
+5. Neglect as referred to in paragraph (1) letter d is: a. an act that results in the unfulfillment of the Victim's needs properly whether physical, mental, spiritual or social committed by parents, guardians, or any other party responsible for their care;  
+b. an act of deliberately neglecting to maintain, care for, or take care of a Child as appropriate committed by parents, guardians, any other party responsible for their care;  
+c. an act of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and/ord. an act that results in economic dependence by restricting and/or prohibiting proper work inside or outside the home so that the Victim is under the control of that person.  
+6. Exploitation as referred to in paragraph (1) letter e is: a. an act that exploits economically or sexually with the intention of benefiting oneself or others; b. an act with or without the Victim's consent which includes but is not limited to prostitution, forced labor or service, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits whether material or immaterial; and/orc. any form of utilization of sexual organs or other body organs of the Victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.  
+7. Maltreatment as referred to in paragraph (1) letter f is: a. any act or action whether intentional or unintentional committed by another person that makes an individual sick or disturbed in their feelings, or receives an unpleasant feeling that makes a person sad, disappointed, angry and afraid;  
+b. any sexual violation committed or permitted to be committed against a Child by an adult or another person legally responsible for them, including touching a Child with the intention of sexual gratification or forcing a Child to touch an adult, sexual intercourse, showing sexual activities to a Child, pornography or allowing a Child to engage in sexual intercourse that is not appropriate to their development.
+
+# CHAPTER VII
+
+## INSTITUTIONAL ARRANGEMENTS
+
+## Part One
+
+Establishment of Integrated Service Center
+
+#### Article 8
+
+1. In organizing protection for women and Child Victims of Violence, the Regional Government establishes an ISC.  
+2. The membership of the ISC as referred to in paragraph (1) consists of elements of:a. Regional Government;  
+b. Law Enforcement Apparatus;  
+c. Community Organizations;  
+d. community members who have competence in organizing protection for Victims of violence.  
+3. The composition of the ISC membership as referred to in paragraph (2) consists of:a. Chairperson;  
+b. Vice Chairperson;  
+c. Secretary; andd. Divisions (4) The divisions as referred to in paragraph (3) consist of at least:a. complaint service division;  
+b. health service division;  
+c. social rehabilitation and spiritual guidance service division; d. law enforcement and legal aid service division; and/ore. repatriation and social reintegration division.
+
+#### Article 9
+
+The ISC as referred to in Article 8 paragraph (1) has the duty to provide protection to Victims in the form of:
+a. seeking prevention, handling and rehabilitation, legal protection;  
+b. conducting coordination in the context of handling services for Violence Victims;  
+c. seeking to increase community participation; and d. conducting monitoring and reporting.
+
+#### Article 10
+
+Further provisions regarding the establishment of the ISC are regulated by Regent Regulation.
+
+## Part Two
+
+Women's Protection and Child Protection Unit
+
+#### Article 11
+
+1. In an effort to improve protection for Victims of violence, a WPCP Unit is established at the sub-district and Village/Sub-district levels.  
+2. The WPCP Unit at the sub-district level as referred to in paragraph (1) is established by the Sub-district Head by involving community institutions, the Family Welfare Development Mobilization Team at the sub-district level, community leaders and Child representatives.  
+3. The WPCP Unit at the Village/Sub-district level as referred to in paragraph (1) is established by the Village Head/Sub-district Head by involving Village/Sub-district officials, community institutions in the Village/Sub-district, the Family Welfare Development Mobilization Team, community leaders and Child representatives.  
+4. The WPCP Unit as referred to in paragraph (1) has the duty to provide protection to Victims in the form of:a. seeking prevention and handling;  
+b. conducting coordination in the context of handling services for Violence Victims;  
+c. seeking to increase community participation; and d. conducting monitoring and reporting.
+
+#### Article 12
+
+1. The composition of the WPCP Unit membership as referred to in Article 11 paragraph (1) consists of:a. Chairperson;  
+b. Vice Chairperson;  
+c. Secretary; andd. Sections.  
+2. The sections of the WPCP Unit as referred to in paragraph (1) consist of at least:a. prevention section;  
+b. case handling section; andc. partnership development section.
+
+#### Article 13
+
+Further provisions regarding the procedures for establishing the WPCP Unit are regulated by Regent Regulation.
+
+# CHAPTER VIII
+
+## IMPLEMENTATION OF PROTECTION FOR VICTIMS OF VIOLENCE
+
+## Part One
+
+General
+
+#### Article 14
+
+The implementation of protection for Victims of Violence is carried out through: a. prevention efforts;  
+b. services; andc. empowerment.
+
+## Part Two
+
+Prevention Efforts
+
+#### Article 15
+
+1. Efforts to prevent Violence Against Women and Children are carried out by:a. Regional Government coordinated by the Regional Apparatus responsible for the affairs of empowerment and protection of women and Children;  
+b. family and closest relatives;  
+c. community; andd. educational institutions.  
+2. Prevention efforts as referred to in paragraph (1) are implemented by:a. forming work networks in efforts to prevent Violence; b. conducting coordination, integration, synchronization of Violence prevention based on partnership patterns;  
+c. forming a Violence prevention system; andd. conducting socialization on the prevention of Violence Against Women and Children, as well as the fulfillment of Children's rights.
+
+## Part Three
+
+Services
+
+#### Article 16
+
+1. The provision of services to Victims is carried out in an integrated manner by PPT.  
+2. PPT as referred to in paragraph (1) may receive and send case referrals from other service units in a networked manner.
+
+#### Article 17
+
+The provision of services to Victims is implemented with the principles of:
+a. fast;  
+b. safe and comfortable;  
+c. empathy;  
+d. non-discrimination;  
+e. easily accessible;  
+f. not charged; andg. guaranteed confidentiality.
+
+#### Article 18
+
+1. Forms of services to Victims include:a. complaint services;  
+b. assistance services;  
+c. health services;  
+d. social rehabilitation services;  
+e. legal services; andf. repatriation and social reintegration services.  
+2. Complaint services as referred to in paragraph (1) letter a include:a. initial identification or recording of Victims;  
+b. informed consent; andc. basic counseling, mediation, outreach and/or referral.  
+3. Assistance services as referred to in paragraph (1) letter b include:a. assistance to Victims during the examination and health recovery process;  
+b. assistance to Victims during the medicolegal process;  
+c. assistance to Victims during the examination process at the Police, Prosecutor's Office and Court;  
+d. monitoring the interests and rights of Victims in the examination process at the Police, Prosecutor's Office and Court;  
+e. maintaining the privacy and confidentiality of Victims from all parties who have no interest, including coverage by mass media;  
+f. coordinating with other assistants; and g. providing continuous handling up to the rehabilitation stage.  
+4. Health services as referred to in paragraph (1) letter c include:a. medical services to Victims; andb. medicolegal services.  
+5. Social rehabilitation services as referred to in paragraph (1) letter d include:a. spiritual guidance to Victims; andb. psychological recovery of Victims.  
+6. Legal services as referred to in paragraph (1) letter e include:a. providing legal consultation that includes information regarding Victims' rights and the judicial process;  
+b. assisting Victims at the investigation, prosecution, and court hearing examination levels and helping Victims to fully describe the violence they experienced;  andc. coordinating with fellow law enforcers, volunteer assistants, and social workers.  
+7. Repatriation and social reintegration services as referred to in paragraph (1) letter f may coordinate with:a. Central Java Provincial Government and other regency/city governments; andb. related agencies and institutions both government and non-government.
+
+## Part Four
+
+Empowerment
+
+### Paragraph 1
+
+Empowerment of Women Victims of Violence
+
+#### Article 19
+
+Forms of empowerment for women Victims of violence include: a. job training;  
+b. productive economic enterprises and joint business groups; and c. capital assistance.
+
+#### Article 20
+
+Job training as referred to in Article 19 letter a includes: a. pre-placement training; and
+b. field work practice.
+
+#### Article 21
+
+Productive economic enterprises and joint business groups as referred to in Article 19 letter b include:
+a. entrepreneurial skills training;  
+b. facilitation of joint business group formation; and c. business implementation assistance.
+
+#### Article 22
+
+Capital assistance as referred to in Article 19 letter c includes:
+a. work facilities and infrastructure assistance; andb. facilitation of working capital assistance.
+
+### Paragraph 2
+
+Fulfillment of Rights of Child Victims of Violence
+
+#### Article 23
+
+1. Forms of fulfillment of rights of Child Victims of Violence include the fulfillment of Children's basic rights according to their needs.  
+2. Fulfillment of rights of Child Victims of Violence as referred to in paragraph (1) is the responsibility of the Regional Government, family, and community.
+
+# CHAPTER IX
+
+## COOPERATION
+
+#### Article 24
+
+1. In providing protection to Victims, the Regional Government may cooperate with the Government, Central Java Provincial Government, other regency/city governments and other institutions.  
+2. Cooperation between the Regional Government and the government includes consultation, coordination and reporting.  
+3. Cooperation between the Regional Government and the Central Java Provincial Government includes consultation, coordination, advocacy, referral, repatriation, social reintegration, reporting and development of Integrated Service systems.  
+4. Cooperation between the Regional Government and other regency/city governments includes coordination, referral, repatriation and social reintegration.  
+5. Cooperation between the Regional Government and other institutions includes coordination, referral, social rehabilitation including provision of Safe Houses (shelters) and social reintegration.
+
+#### Article 25
+
+Implementation of cooperation as referred to in Article 24 is in accordance with the provisions of laws and regulations.
+
+# CHAPTER X
+
+## COMMUNITY PARTICIPATION
+
+#### Article 26
+
+1. The community participates in the provision of protection to Victims.  
+2. Community participation as referred to in paragraph (1) is in the form of: a. providing protection for Victims;  
+b. providing emergency assistance;  
+c. providing advocacy to Victims and/or the community regarding the handling of cases of Violence Against Women and Children;  
+d. assisting in the process of submitting applications for protection orders;  
+e. conveying information to the competent authorities related to cases of Violence Against Women and Children; f. organizing strengthening of community groups in handling Violence Against Women and Children; and g. disseminating information on the provisions of laws and regulations related to Violence Against Women and Children.
+
+# CHAPTER XI
+
+## CONTROL, GUIDANCE AND SUPERVISION
+
+#### Article 27
+
+1. The Regent conducts control, guidance and supervision of the provision of protection for Women and Children Victims of Violence at the regency and Village/Sub-district levels.  
+2. In carrying out control, guidance and supervision as referred to in paragraph (1), the Regent may delegate to the Regional Apparatus responsible for the affairs of women's empowerment and Child protection.
+
+# CHAPTER XII
+
+## FUNDING
+
+#### Article 28
+
+Funding for activities of providing protection to Victims carried out by the Regional Government is sourced from the APBD and other legitimate sources in accordance with the provisions of laws and regulations.
+
+#### Article 29
+
+Funding for activities of providing protection to Victims carried out by the Village/Sub-district government is sourced from APBDes, APBD and other legitimate sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER XIII
+
+## TRANSITIONAL PROVISIONS
+
+#### Article 30
+
+1. At the time this Regional Regulation comes into force, the institution/network of Integrated Services for Victims of Acts of Violence Against Women and Children of Blora Regency and the Prevention and Handling Unit for Victims of Violence Against Women and Children in Villages/Sub-districts that have already been established shall continue to carry out their duties until the establishment of the institution/network of Integrated Services for Victims of Acts of Violence Against Women and Children of Blora Regency and the Prevention and Handling Unit for Victims of Violence Against Women and Children in Villages/Sub-districts based on this Regional Regulation.  
+2. Adjustment of the network institution of Integrated Services for Victims of Acts of Violence Against Women and Children of Blora Regency and the Prevention and Handling Unit for Victims of Violence Against Women and Children in Villages/Sub-districts shall be implemented no later than 1 (one) year.
+
+# CHAPTER XIV
+
+## CLOSING PROVISIONS
+
+#### Article 31
+
+This Regional Regulation shall come into force on the date of promulgation.  
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by its placement in the Regional Gazette of Blora Regency.  
+
+Enacted in Blora on 18 January 2017
+
+##### REGENT OF BLORA,
+
+Seal Signature.
+
+##### DJOKO NUGROHO
+
+Promulgated in Blora on 18 January 2017
+
+##### REGIONAL SECRETARY OF BLORA REGENCY,
+
+Seal Signature.
+
+##### BONDAN SUKARNO
+
+##### REGIONAL GAZETTE OF BLORA REGENCY YEAR 2017 NUMBER
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF BLORA REGENCY, CENTRAL JAVA PROVINCE: ( 3/2017) In accordance with the original Head of Legal Division of Blora Regency Secretariat
+
+##### A. KAIDAR ALI, SH. MH.  
+
+##### NIP. 19610103 198608 1 001
+
+##### ELUCIDATION
+
+##### OF
+
+##### REGIONAL REGULATION OF BLORA REGENCY
+
+##### NUMBER 3 YEAR 2017
+
+##### CONCERNING
+
+IMPLEMENTATION OF PROTECTION OF WOMEN AND  CHILDREN VICTIMS OF VIOLENCE
+
+##### I. GENERAL
+
+Acts of violence against women and children constitute a  violation of human rights so that their dignity and honor need to be  protected and their right to life guaranteed in accordance with their  nature and character without discrimination. In order to prevent and  overcome violence against women and children in Blora Regency so  that they are protected from violence, threats of violence, torture or  treatment that degrades human dignity and honor, it is necessary to  provide protection for women and children victims of violence in the  form of a Regional Regulation. So far, laws and regulations governing  the protection of women and children victims of violence have not  regulated protection efforts in the regions, so institutional and  regulatory support is needed that can guarantee its implementation.  This Regional Regulation regulates protection efforts for victims,  particularly in terms of prevention, services and empowerment of  women and children victims of violence in Blora Regency.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Letter a What is meant by "non-discrimination" is  protection for all victims without distinguishing ethnicity,  religion, race, class, gender, ethnicity, culture and language,  legal status and physical or mental condition.  
+
+Letter b What is meant by "best interests of the victim"  is that all actions concerning victims carried out by the government, society, legislative bodies and  judicial bodies, the best interests of the victim must  be the primary consideration.  
+
+Letter c What is meant by "gender justice" is fair treatment  given to women and men.  
+
+What is meant by "gender equality" is a condition  and position that describes a harmonious, aligned and  balanced relationship between men and women in obtaining  opportunities/chances in access, participation, control  and benefits in the implementation of development as well as  enjoying the results of development in family life,  as well as in society, nation and state.  
+
+Letter d What is meant by "victim protection" is  providing a sense of security to victims carried out by  the family, advocates, social institutions, police,  prosecutors, courts, or other parties either temporarily  or based on court determination.  
+
+Letter e What is meant by "maternal survival" is  ensuring that a mother does not experience death  that occurs during pregnancy, childbirth, and post-delivery,  whether caused by physical or non-physical conditions Letter f.  
+
+What is meant by "growth and development" of children is  as stated in the principles of the Convention on the Rights  of the Child, including the right to education, the right  to play, the right to create and recreate.  
+
+What is meant by "survival" of children is  as stated in the principles of the Convention on the Rights  of the Child, including the right to identity and the right to enjoy  the highest attainable health status.  
+
+Letter g What is meant by "respect for the opinion  of children" is respect for the rights of children to  participate and express their opinions in  decision-making, especially if it concerns matters  that affect their lives.  
+
+Letter h What is meant by "openness" is that in  the implementation of victim protection it is transparent  among the integrated service providers.  
+
+Letter i What is meant by "integration" is that in  the implementation of protection of victims of gender-based violence and children is carried out by building coordination  among service providers, including medical services,  legal assistance, psychologists, religious leaders, social workers,  police.  
+
+Letter j What is meant by "not blaming the victim" is  an attitude and treatment of not blaming the victim for the incident  of violence experienced.  
+
+Letter k What is meant by "empowering" is every effort  given must be able to strengthen the victim, both physically, psychologically, socially and economically.  
+
+Letter l What is meant by "victim confidentiality" is every  action taken to ensure the victim is in a safe condition from threats or other actions that  threaten the life and psychology of the victim.  
+
+Letter m What is meant by "decision-making in the hands of  the victim" is the right of the victim to determine the best choice  in resolving their problem.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Letter a What is meant by "the right to have one's dignity and  honor respected as a human being" is upholding human rights.  
+
+Letter b Sufficiently clear.  
+
+Letter c What is meant by "the right to obtain information" is  the right to obtain information, statements, ideas, and signs that contain value and meaning, and messages, whether  data, facts or explanations that can be seen,  heard, and read that are presented in various packages  and formats in accordance with the development of information and communication technology either electronically or non-electronically  related to acts of violence.  
+
+Letter d Sufficiently clear.  
+
+Letter e What is meant by "the right to complaint handling"  is the right to obtain complaint services at the  integrated service special unit by officers.  
+
+Letter f Sufficiently clear.  
+
+Letter g Sufficiently clear.  
+
+Letter h Sufficiently clear.  
+
+Letter i Sufficiently clear.  
+
+Letter j Sufficiently clear.
+
+#### Article 6
+
+Paragraph (1) Sufficiently clear.  
+
+Paragraph (2) Sufficiently clear.  
+
+Paragraph (3) Letter a Sufficiently clear.  
+
+Letter b - What is meant by "facilities" is everything  used as a tool in achieving purposes and objectives, for example, tables and patient examination beds, stethoscopes.  
+
+What is meant by "infrastructure" is everything  that constitutes the main support for the implementation  of integrated services, for example, examination rooms,  treatment rooms, Safe Houses.  
+
+Letter c Sufficiently clear.  
+
+Letter d Sufficiently clear.  
+
+Letter e Sufficiently clear.  
+
+Letter f Sufficiently clear.  
+
+Letter g Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Paragraph (1) Point a Sufficiently clear Point b Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication among family members.
+
+Point c Prevention efforts within the community include: fostering environmental awareness of acts of violence occurring in their environment.
+
+Point c Educational institutions can participate in efforts to provide educational punishment, endeavoring to eliminate provisions that do not side with victims of violence.
+
+Paragraph (2) Point a What is meant by "network" includes: family partners, dasawisma, family groups existing in the Region.
+
+Point b What is meant by "coordination" includes: planning, implementation and monitoring of violence prevention programs.
+
+Point c What is meant by "violence prevention system" includes: mapping locations or areas prone to violence and conducting promotive and preventive efforts to the community.
+
+Point d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.
+
+#### Article 16
+
+Paragraph (1) Sufficiently clear.
+
+Paragraph (2) These other service units may be located at Integrated Crisis Centers (PKT) based in Hospitals, Community Health Centers, Integrated Service Centers for Women and Children Empowerment (P2TP2A), Women and Children Service Units (UPPA), Trauma Center Shelters (RPTC), Children's Social Shelters (RPSA), BP4, and other religious institutions, prosecutor's offices, courts, Women Crisis Centers (WCC), and other similar institutions.
+
+#### Article 17
+
+Point a What is meant by "quick" is immediate action taken without complications or simplified procedures.
+
+Point b What is meant by "safe and comfortable" is a guarantee of service protection that feels comfortable, undisturbed, and served in a friendly, respectful and appreciative manner.
+
+Point c What is meant by "empathy" is an act of appreciating, respecting, caring, befriending, and making happy that aims to please and calm the victim's heart.
+
+Point d What is meant by "non-discrimination" is service to women and children victims of violence without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status and physical or mental condition.
+
+Point e What is meant by "easily accessible" is the provision of services and assistance for everyone regardless of their social status, so that such services are affordable for the underprivileged or relatively sufficient for the capable.
+
+Point f What is meant by "not charged" is that the activities of providing services and assistance carried out by PPT are not charged to the victim.
+
+Point g What is meant by "guaranteed confidentiality" is an effort to guarantee certainty for victims that their identity, medical care and legal handling will not be disseminated.
+
+#### Article 18
+
+Paragraph (1) Sufficiently clear.
+
+Paragraph (2) Point a Sufficiently clear.
+
+Point b What is meant by "informed consent" is consent given by the Victim or their family based on an explanation of the services to be provided to the Victim.
+
+Point c Sufficiently clear.
+
+Paragraph (3) Point a Sufficiently clear.
+
+Point b - What is meant by "medicolegal" is medical services to provide optimal professional assistance in utilizing medical science for the purposes of law enforcement and justice. Medicolegal services include, among others: visum et repertum and visum et psikiatrikum.
+
+What is meant by "visum et repertum" is a written statement made by a doctor in forensic medical science at the request of an authorized investigator regarding the results of a medical examination of the victim based on their expertise and under oath, for the purposes of judicial proceedings.
+
+What is meant by "visum et psikiatrikum" is a statement given by a Psychiatrist regarding the mental health condition of the victim required to clarify a case and for the purposes of judicial proceedings.
+
+Point c Sufficiently clear.
+
+Point d Sufficiently clear.
+
+Point e Sufficiently clear.
+
+Point f Sufficiently clear.
+
+Point g Sufficiently clear.
+
+Paragraph (4) Sufficiently clear.
+
+Paragraph (5) Sufficiently clear.
+
+Paragraph (6) Sufficiently clear.
+
+Paragraph (7) Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+##### SUPPLEMENT TO THE REGIONAL GAZETTE OF BLORA REGENCY NUMBER 3

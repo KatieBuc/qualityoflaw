@@ -1,0 +1,224 @@
+# POSO REGENCY GOVERNMENT
+
+# POSO REGENCY REGIONAL REGULATION
+
+# NUMBER 6 OF 2008
+
+# CONCERNING
+
+THE IMPLEMENTATION OF PROTECTION, SERVICES AND RECOVERY FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE
+
+# BY THE GRACE OF ALMIGHTY GOD
+
+# THE REGENT OF POSO,
+
+Considering:  
+a. that acts of violence occurring against women and children can result in victims who suffer prolonged traumatic impacts;  
+b. that in order to protect the interests of women and children, it is deemed necessary to have legal certainty that guarantees protection for women and children;  
+c. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation concerning the Implementation of Protection, Services and Recovery for Women and Children Victims of Violence;  
+
+In View of:  
+1. Law Number 29 of 1959 concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia of 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);  
+
+2. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143);  
+3. Law Number 7 of 1984 concerning the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);  
+4. Law Number 23 of 1992 concerning Health (State Gazette of the Republic of Indonesia of 1992 Number 100, Supplement to the State Gazette of the Republic of Indonesia Number 3495);  
+5. Law Number 20 of 1999 concerning Ratification of ILO Convention No. 138 Concerning Minimum Age for Admission to Employment (Ratification of ILO Convention No. 138 Concerning Minimum Age for Admission to Employment) (State Gazette of the Republic of Indonesia of 1999 Number 56, Supplement to the State Gazette of the Republic of Indonesia Number 3835);  
+6. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);  
+7. Law Number 1 of 2000 concerning Ratification of ILO Convention No. 182 Concerning The Prohibition and Immediate Action for Elimination of The Worst Forms of Child Labour (Ratification of ILO Convention No. 182 Concerning The Prohibition and Immediate Action for Elimination of The Worst Forms of Child Labour) (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941);  
+8. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235);  
+9. Law Number 10 of 2004 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2004 Number 53, Supplement to the State Gazette of the Republic of Indonesia Number 4389);  
+10. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);  
+11. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437), as amended by Government Regulation in Lieu of Law Number 3 of 2005 concerning Amendment to Law 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2005 Number 38, Supplement to the State Gazette of the Republic of Indonesia Number 4493), which was enacted into Law Number 8 of 2005 (State Gazette of the Republic of Indonesia of 2004 Number 126, Supplement to the State Gazette of the Republic of Indonesia Number 4548), as amended by Law Number 12 of 2008 concerning the Second Amendment to Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette of the Republic of Indonesia Number 4844);  
+12. Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments (State Gazette of the Republic of Indonesia of 2004 Number 126, Supplement to the State Gazette of the Republic of Indonesia Number 4438);  
+13. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia
+4635.;  
+14. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia 4604);  
+15. Government Regulation Number 38 of 2007 concerning the Division of Governmental Affairs between the Government, Provincial Regional Governments and Regency/Municipal Regional Governments (State Gazette of the Republic of Indonesia of 2007 Number 82, Supplement to the State Gazette of the Republic of Indonesia 4737);  
+16. Poso Regency Regional Regulation Number 25 of 2003 concerning Community Empowerment of Poso Regency (Poso Regency Regional Gazette of 2003 Series D Number 25).  
+17. Poso Regency Regional Regulation Number 1 of 2008 concerning the Authority of Poso Regency (Poso Regency Regional Gazette of 2008 Number 1);  
+
+With the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF POSO REGENCY a n d
+
+# THE REGENT OF POSO
+
+# HAS DECIDED:
+
+To Enact: REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION, SERVICES AND RECOVERY FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE.
+
+# C H A P T E R I
+
+# GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms shall mean:
+
+1. Region is the Regency of Poso.  
+2. Regional Government is the Regent and Regional Apparatus as Elements of the Regional Government Administration of Poso Regency.  
+3. Regional House of Representatives is the Regional People's Representative Institution as an Element of the Regional Government Administration of Poso Regency.  
+4. Child is a person who has not reached 18 years of age, including those in the womb.  
+5. Victim is a woman and child who experiences violence and or threat of violence in conflict situations, post-conflict, domestic sphere and or public.  
+6. Implementation is all actions that include Protection, Services and Recovery for Victims of Violence.  
+7. Protection is all efforts aimed at providing a sense of security to victims carried out by the Government, Family, Advocates, Social Institutions, Police, Prosecutors, Courts, or other parties either temporarily or based on court determination.  
+8. Special Protection is Protection given to children in emergency situations, children in conflict with the law, children in minority and isolated groups, children who are exploited economically and or sexually, children who are trafficked, children who are victims of narcotics abuse, alcohol, psychotropic substances and other addictive substances (drugs), children victims of kidnapping sales trafficking, children victims of violence both physical and or mental, children victims of conflict who experience physical violence and trauma, children with disabilities, and children victims of abuse and neglect.  
+9. Recovery is all efforts to strengthen victims of violence to be more empowered both physically, psychologically and economically.  
+10. Organizer is Government Agencies and Social Institutions in accordance with their respective duties and functions, including providing facilities needed for victim recovery.  
+11. Violence is any act and or threat of act that results in or may result in misery or suffering whether physical, psychological, sexual, or neglect.  
+12. Physical Violence is any act that causes pain, injury, wounds or bodily defects to a person, miscarriage, fainting and or causing death.  
+13. Psychological Violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.  
+14. Sexual Violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.  
+15. Domestic Neglect is the act of neglecting a person within the household scope whereas according to the applicable law for the person concerned or because of an agreement or contract he or she is obliged to provide life, care, or maintenance to that person. Neglect also applies to any person who causes economic dependence by restricting and or prohibiting proper work inside or outside the home so that the victim is under the control of that person.  
+16. Service is carrying out actions taken immediately to victims when seeing, hearing and knowing that violence has occurred against victims.  
+17. Assistance is all actions in the form of counseling, psychological therapy, advocacy, spiritual guidance for the purpose of strengthening victims of violence to resolve the problems faced.  
+18. Integrated Service Center hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in Hospitals, managed jointly in the form of medical services including medical-legal, psycho-social, legal services, and customary institutions.  
+19. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A is an institution for recovery of victims of violence from health, education and economic independence aspects.  
+20. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.
+
+##### C H A P T E R II
+
+##### PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+The principles of regulating protection for women and children victims of violence are:
+a. Respect for the rights of victims;  
+b. Gender equality and justice;  
+c. Non-discrimination;  
+d. The best interests of victims; and
+6. Respect for the rights of women and children.
+
+#### Article 3
+
+The implementation of protection for women and children from acts of violence aims to:
+a. Prevent all forms of violence;  
+b. Protect victims of violence;  
+c. Provide recovery services to victims of violence; and d. Carry out comprehensive recovery for victims;
+
+##### C H A P T E R III
+
+##### PROTECTION, SERVICES AND RECOVERY
+
+## Part One
+
+### PROTECTION
+
+#### Article 4
+
+1. In order to provide strengthening to victims of violence, protection and special protection need to be provided;  
+2. Protection is given to victims in the form of assistance;  
+3. In order to provide assistance, a forum called the Integrated Service Center (PPT) and/or Integrated Service Center for Women and Children Empowerment (P2TP2A) is established;  
+4. In order to provide a sense of security, victims can be placed in safe houses and rehabilitation centers for child victims of violence under the auspices of the Integrated Service Center and / or P2TP2A.
+
+## Part Two
+
+### SERVICES
+
+#### Article 5
+
+1. Services are carried out for recovery of victims.  
+2. Services for victims are organized by Regional Government Agencies and Social Institutions in accordance with their respective duties and functions, including providing facilities needed for victim recovery.  
+3. Facilities as referred to in paragraph (2) include: a. Integrated Service Center for Women and Children abbreviated as P2TPA;  
+b. Expert and Professional Personnel;  
+c. Integrated Service Center (PPT) and or Integrated Service Center for Women and Children Empowerment (P2TP2A);  
+d. Safe House; ande. Other facilities and infrastructure needed for victim recovery.  
+4. PPT and or P2TP2A is an assistance forum managed in an integrated manner consisting of health workers, education workers, social institutions, law enforcement officers, psychologists, psychiatrists, volunteer assistants and or spiritual counselors and involving community participation;  
+5. PPT and or P2TP2A seeks and receives reports, complaints and or referrals from the community;  
+6. Regulations regarding PPT and or P2TP2A will be further regulated by Regent Regulation.
+
+#### Article 6
+
+1. Forms of services for victims of violence implemented by PPT and/or P2TP2A include:a. Medical Services carried out by Medical Personnel and Paramedics, in the form of treatment and recovery of physical injuries and/or other physical consequences;  
+b. Medical-Legal Services constitute medical services for the purposes of legal evidence;  
+c. Psycho-social Services constitute services provided by companions in order to restore the traumatic condition of victims including recovery with a spiritual approach;  
+d. Legal Services at every level of examination; and e. Resocialization Services so that victims can return to performing their social functions in society;  
+2. The Service Mechanism as referred to in paragraph (1) shall be organized according to Standard Operating Procedures, which will be further regulated by Regent Regulation.  
+3. In certain cases PPT and/or P2TP2A may cooperate with:a. The Police, to report and process perpetrators of criminal acts of violence against women and children;  
+b. Advocates, to assist victims in the judicial process; c. Other Law Enforcers, to assist victims at every level of examination;  
+d. Commission on anti-violence against women;  
+e. Indonesian Child Protection Commission (KPAI); and f. Certain parties desired for the benefit of victims.
+
+#### Article 7
+
+1. The provision of services to victims shall be conducted free of charge, quickly, safely, with empathy, non-discrimination, easily accessible, and with a guarantee of confidentiality;  
+2. Managers of PPT and/or P2TP2A are obligated to provide services in accordance with the service principles as referred to in paragraph (1).
+
+## Part Three
+
+### RECOVERY
+
+#### Article 8
+
+Recovery as intended includes:
+a. Health recovery;  
+b. Education for child victims of violence may be in the form of formal, informal and non-formal education; andc. Economic independence in the form of skills training, providing access and economic strengthening so that victims can be independent
+
+##### CHAPTER IV
+
+##### OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 9
+
+1. The Regional Government is obligated to organize protection, services and recovery for victims of violence, including:a. Providing integrated service facilities and infrastructure;  
+b. Involving Non-Governmental Organizations, Women's Organizations, Religious Leaders, Traditional Leaders, Community Leaders, in organizing protection and services for victims;  
+c. Providing budget according to programs and needs;  
+d. Guaranteeing the implementation of ease of service to victims;  
+e. Seeking effectiveness and efficiency for the victim recovery process; andf. Seeking the creation of cooperation and coordination in victim recovery efforts.  
+2. The Regional Government coordinates between agencies and other social institutions that are fully responsible for carrying out their obligations as referred to in paragraph (1) in accordance with applicable laws and regulations.
+
+##### CHAPTER V
+
+##### RIGHTS OF VICTIMS
+
+#### Article 10
+
+Every victim has the right to obtain guarantees of their rights as Citizens in accordance with laws and regulations which include: (1) Protection and special protection in the form of assistance and a sense of security.  
+
+2. Services in the form of medical services, psycho-social, medical-legal, legal services and resocialization services.  
+3. Recovery in the form of education, health and economic recovery.
+
+##### CHAPTER VI
+
+##### FINANCING
+
+#### Article 11
+
+All costs for organizing protection, services and recovery carried out by the Regional Government for victims of violence shall be charged to:
+a. Regional Revenue and Expenditure Budgetb. Other lawful sources of income in accordance with Laws and Regulations; andc. Other sources of income that are non-binding.
+
+# CHAPTER VII
+
+## SUPERVISION
+
+#### Article 12
+
+Supervision of the implementation of this Regional Regulation shall be carried out in accordance with the provisions of applicable Laws and Regulations.
+
+# CHAPTER VIII
+
+## CRIMINAL PROVISIONS
+
+#### Article 13
+
+1. Officials appointed to organize integrated protection, services and recovery who do not carry out their obligations and responsibilities shall be subject to actions and/or sanctions in accordance with applicable laws and regulations;  
+2. Managers of PPT and/or P2TP2A in carrying out protection, service and recovery duties who violate the principles of protection, service, and recovery may be subject to sanctions in accordance with the internal mechanisms of PPT and/or P2TP2A and sanctions in accordance with applicable laws and regulations.
+
+# CHAPTER IX
+
+## CLOSING PROVISIONS
+
+#### Article 14
+
+This Regional Regulation shall come into force on the date of promulgation.  
+
+So that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Poso Regency.  
+
+Enacted in Poso On 26 July 2008
+
+##### REGENT OF POSO,
+
+##### PIET INKIRIWANG
+
+Promulgated in Poso On 29 July 2008
+
+##### REGIONAL GAZETTE OF POSO REGENCY YEAR 2008 NUMBER 6

@@ -1,4 +1,5 @@
 import argparse
+import json
 import logging
 import sys
 import time
@@ -10,7 +11,12 @@ if str(PROJECT_ROOT) not in sys.path:
 
 from automation.src.compare import run_comparison_step
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ConcurrencyConfig, get_run_dir, load_pipeline_config
+from automation.src.config_loader import (
+    ConcurrencyConfig,
+    get_run_dir,
+    load_pipeline_config,
+    resolve_results_dir,
+)
 from automation.src.constants import DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONFIG, DEFAULT_STEPS, VALID_STEPS
 from automation.src.diagnose import run_diagnosis_step
 from automation.src.failure_log import (
@@ -146,6 +152,35 @@ def _print_policy_failures(run_id: str, step: str, failed_policies: list[str]) -
     }
     for name in failed_policies:
         print(f"  {name}: {messages.get(name, 'unknown error')}", file=sys.stderr)
+
+
+def _print_overall_alignment_rate(run_id: str) -> None:
+    """Aggregate `evidence_original_aligned_rate` across every evaluation report
+    in the run and print one overall figure: how often the original-language
+    evidence was paired at exact sentence granularity rather than falling back
+    to the whole chunk (see rag/sentence_align.py). Silent when no report
+    carries the stat (e.g. evaluation never ran, or ran in non-RAG mode)."""
+    eval_dir = resolve_results_dir(get_run_dir(run_id), "evaluation")
+    if not eval_dir.is_dir():
+        return
+
+    sentence_aligned = resolved = 0
+    for report_path in sorted(eval_dir.glob("*.json")):
+        try:
+            data = json.loads(report_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        stats = data.get("evidence_original_aligned_rate")
+        if isinstance(stats, dict):
+            sentence_aligned += stats.get("sentence_aligned") or 0
+            resolved += stats.get("resolved") or 0
+
+    if not resolved:
+        return
+    print(
+        f"Evidence original-language alignment: {sentence_aligned}/{resolved} "
+        f"sentence-aligned ({sentence_aligned / resolved:.1%})"
+    )
 
 
 def build_limiter(concurrency: ConcurrencyConfig) -> ConcurrencyLimiter:
@@ -727,6 +762,7 @@ def main() -> None:
         )
 
         print(f"\nPipeline finished (run_id={run_id}, status={status})")
+        _print_overall_alignment_rate(run_id)
         if (
             failure_summary["translation"]
             or failure_summary["translation_qa"]

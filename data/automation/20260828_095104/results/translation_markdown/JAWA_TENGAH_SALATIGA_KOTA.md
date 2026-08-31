@@ -1,0 +1,483 @@
+# REGIONAL GAZETTE OF SALATIGA CITY
+
+# NUMBER 6 OF 2013
+
+# REGIONAL REGULATION OF SALATIGA CITY
+
+# NUMBER 6 OF 2013
+
+# CONCERNING
+
+IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN
+
+# BY THE GRACE OF GOD ALMIGHTY THE MAYOR OF SALATIGA,
+
+Considering:
+a. b. that all forms of Violence, especially Gender-Based Violence and Violence against Children constitute violations of human rights and crimes against human dignity as well as forms of discrimination;
+
+that discriminatory treatment and Gender-Based Violence and Violence against Children in Salatiga City tend to increase and may lead to potential decline in the quality of family and community life, thus requiring Bearing in Mind:
+c. 1. 2. 3. 4. integrated handling including prevention efforts, case handling, and post-crisis handling of Victims of Violence;
+
+that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation concerning Implementation of Protection for Victims of Gender-Based Violence and Violence against Children;
+
+#### Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+Law Number 17 of 1950 concerning Formation of Small City Regions within the Province of East Java, Central Java, and West Java;
+
+Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3835);
+
+Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235);
+
+5. 6. 7. 8. Law Number 23 of 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437), as amended several times most recently by Law Number 12 of 2008 concerning Second Amendment to Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette of the Republic of Indonesia Number 4844);
+
+Law Number 12 of 2011 concerning Formation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+Government Regulation Number 6 of 1988 concerning Coordination of Vertical Agency Activities in the Regions (State Gazette of the Republic of Indonesia of 1988 Number 10, Supplement to the State Gazette of the Republic of Indonesia Number 3373);
+
+9. 10. 11. 12. 13. Government Regulation Number 69 of 1992 concerning Amendment to the Territorial Boundaries of the Second Level Municipality of Salatiga and the Second Level Regency of Semarang (State Gazette of the Republic of Indonesia of 1992 Number 114, Supplement to the State Gazette of the Republic of Indonesia Number 3500);
+
+Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+
+Regional Regulation of Central Java Province Number 3 of 2009 concerning Implementation of Protection for Victims of Gender-Based Violence and Children (Regional Gazette of Central Java Province of 2009 Number 3, Supplement to the Regional Gazette of Central Java Province Number 20);
+
+Regional Regulation of Salatiga City Number 3 of 2007 concerning Principles of Regional Financial Management (Regional Gazette of Salatiga City of 2007 Number 3);
+
+Regional Regulation of Salatiga City Number 8 of 2008 concerning Governmental Affairs that Constitute the Authority of the Regional Government of Salatiga City (Regional Gazette of Salatiga City of 2008 Number 8);
+
+14. 15. 16. Regional Regulation of Salatiga City Number 9 of 2008 concerning Organization and Working Procedures of the Regional Secretariat of Salatiga City and the Secretariat of the Regional House of Representatives of Salatiga City (Regional Gazette of Salatiga City of 2008 Number 9), as amended by Regional Regulation of Salatiga City Number 7 of 2011 concerning Amendment to Regional Regulation of Salatiga City Number 9 of 2008 concerning Organization and Working Procedures of the Regional Secretariat of Salatiga City and the Secretariat of the Regional House of Representatives of Salatiga City (Regional Gazette of Salatiga City of 2011 Number 7);
+
+Regional Regulation of Salatiga City Number 10 of 2008 concerning Organization and Working Procedures of Regional Agencies of Salatiga City (Regional Gazette of Salatiga City of 2008 Number 10), as amended by Regional Regulation of Salatiga City Number 8 of 2011 concerning Amendment to Regional Regulation of Salatiga City Number 10 of 2008 concerning Organization and Working Procedures of Regional Agencies of Salatiga City (Regional Gazette of Salatiga City of 2011 Number 8);
+
+Regional Regulation of Salatiga City Number 11 of 2008 concerning Organization and Working Procedures of Regional
+
+17. 18. 19. Technical Institutions, Integrated Licensing Service Office, and Civil Service Police Unit of Salatiga City (Regional Gazette of Salatiga City of 2008 Number 10), as amended by Regional Regulation of Salatiga City Number 9 of 2011 concerning Second Amendment to Regional Regulation of Salatiga City Number 11 of 2008 concerning Organization and Working Procedures of Regional Technical Institutions, Integrated Licensing Service Office, and Civil Service Police Unit of Salatiga City (Regional Gazette of Salatiga City of 2011 Number 9);
+
+Regional Regulation of Salatiga City Number 12 of 2008 concerning Organization and Working Procedures of Sub-districts and Urban Villages of Salatiga City (Regional Gazette of Salatiga City of 2008 Number 12);
+
+Regional Regulation of Salatiga City Number 5 of 2011 concerning Implementation of Public Services (Regional Gazette of Salatiga City of 2011 Number 5, Supplement to the Regional Gazette of Salatiga City Number 4);
+
+Regional Regulation of Salatiga City Number 1 of 2012 concerning Regional Medium-Term Development Plan of Salatiga City for 2011-2016 (Regional Gazette of Salatiga City of 2012 Number 1);
+
+With Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF SALATIGA CITY and
+
+##### THE MAYOR OF SALATIGA
+
+##### HAS DECIDED:
+
+To Establish: REGIONAL REGULATION CONCERNING IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms shall mean: 1. Region is the City of Salatiga.
+
+7. Violence is any act that results in or causes suffering and distress whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.
+8. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.
+9. Gender-Based Violence is any act based on gender differences that results in suffering or distress physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life, including domestic violence.
+2. Regional Government is the Mayor and regional apparatus as elements of the Regional Government administration.
+3. Mayor is the Mayor of Salatiga.
+4. Regional Apparatus Work Unit, hereinafter abbreviated as SKPD, is a Regional Apparatus Work Unit within the Regional Government that carries out certain regional government affairs based on the principles of autonomy and co-administration tasks.
+5. Protection is all efforts aimed at providing a sense of security and fulfilling the rights of Victims carried out by family, integrated services, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.
+6. Implementation of Protection is a series of activities aimed at preventing the occurrence of Violence, case handling and post-crisis handling, coordination and cooperation, and increasing community participation.
+10. Child is a person who has not reached the age of 18 (eighteen) years, including a Child still in the womb as referred to in Law Number 23 of 2002 concerning Child Protection.
+11. Violence against Children is any form of restriction, differentiation, exclusion, and all forms of treatment carried out against children that results in and is not limited to physical, sexual, psychological violence, economic exploitation, including neglect and ill-treatment that degrades the dignity of the Child.
+12. Complaint is notification regarding an incident of violence either in writing or orally by the Victim or other parties to interested parties.
+13. Victim Recovery is all efforts to strengthen Victims of Gender-Based Violence and Children to be more empowered, whether physically, psychologically, socially, economically or sexually.
+14. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, as well as interpreters for the purpose of self-strengthening of Victims of Gender-Based Violence and Children to resolve the problems they face.
+15. Social Reintegration is the process of preparing the community and Victims that supports the reunification of Victims into the family environment or family substitute that can provide Protection and fulfillment of the needs of Victims.
+16. Safe House (shelter) is a temporary residence used to provide Protection to Victims.
+
+#### Article 2
+
+Protection of Victims of Gender-Based Violence and Children is organized based on the principles of: a. non-discrimination;
+b. best interests of the Victim;
+c. justice and Gender equality;
+d. victim protection;
+e. maternal survival;
+f. child survival, growth, and development;
+g. respect for the child's opinion;
+h. openness;
+i. integration;
+j. not blaming the victim;
+k. empowering;
+l. victim confidentiality; andm. decision-making in the hands of the victim.
+
+#### Article 3
+
+The Implementation of Gender-Based Protection and Children aims to:
+a. prevent all forms of Gender-Based Violence and Children that occur within the household and/or community;
+b. protect and provide a sense of security for victims;
+c. provide Assistance to victims;
+d. provide integrated services to victims;
+e. seek Recovery and Social Reintegration; and f. increase synergy and community participation as well as stakeholders.
+
+#### Article 4
+
+The Implementation of Gender-Based Protection and Children has a scope, including:
+a. rights and obligations of Victims;
+b. obligations and responsibilities of the Regional Government, community, family, and parents;
+c. implementation;
+d. organization;
+e. resources;
+f. community participation; andg. guidance, control, and supervision.
+
+# CHAPTER II
+
+RIGHTS AND OBLIGATIONS OF VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN
+
+#### Article 5
+
+1. Every Victim of Gender-Based Violence and Children has the right to:a. obtain Protection for the security of themselves, family, and property, and be free from threats related to information that will be, is being, or has been given;
+b. participate in the process of selecting and determining the form of Protection and security support;
+c. be free from ensnaring questions;
+d. obtain information regarding case developments and court decisions;
+e. receive services that are fast, appropriate, comfortable, and according to needs;
+f. Recovery and Social Reintegration; andg. obtain legal, psychological, spiritual guidance, economic, social assistance, and interpreters. (2) The rights of Victims as referred to in paragraph (1) shall be implemented in accordance with the provisions of applicable laws and regulations.
+
+#### Article 6
+
+Every Victim of Gender-Based Violence and Children is obligated to:
+a. provide true and accountable information to interested parties; andb. be willing to be a witness if it does not endanger themselves and receive security guarantees.
+
+# CHAPTER III
+
+## OBLIGATIONS AND RESPONSIBILITIES OF THE GOVERNMENT
+
+#### Article 7
+
+The Regional Government, community, family, and parents are obligated and responsible for the Implementation of Protection of Victims of Gender-Based Violence and Children.
+
+#### Article 8
+
+1. In the Implementation of Protection of Victims of Gender-Based Violence and Children, the Regional Government is obligated and responsible to: a. prevent the occurrence of Violence;
+b. provide Protection for Victims of Violence;
+c. provide Recovery and Social Reintegration services;
+d. facilitate the implementation of integrated services;
+e. provide facilities and infrastructure;
+f. increase the capacity of service provider institutions;
+g. encourage and increase community participation; andh. cooperate with service provider institutions in efforts to prevent, protect and Recover Victims of Violence.
+2. To carry out the obligations and responsibilities as referred to in paragraph (1), the Regional Government has the authority to:a. formulate policies and programs on the Elimination of Gender-Based Violence and Children;
+b. establish service institutions for Victims of Gender-Based Violence and Children; andc. conduct monitoring and evaluation.
+3. The Regional Government in carrying out obligations and responsibilities as well as authorities as referred to in paragraph (1) and paragraph (2) must take into account the rights and obligations of parents, family or other persons who are legally responsible for the Victim.
+
+#### Article 9
+
+In the Implementation of Protection of Victims of Gender-Based Violence and Children, the community, family, and parents are obligated and responsible to: a. prevent the occurrence of incidents of Violence;
+b. provide information and report incidents of Violence to interested parties; and c. participate in the handling of Victims of Violence.
+
+# CHAPTER IV
+
+## IMPLEMENTATION
+
+#### Article 10
+
+The Implementation of Protection for Victims of Gender-Based Violence and Children consists of:
+a. prevention;  
+b. case handling;  
+c. post-crisis handling;  
+d. coordination and cooperation;  
+e. enhancement of community participation; andf. monitoring and reporting.
+
+#### Article 11
+
+Prevention as referred to in Article 10 letter a, includes:
+a. establishing a network for prevention and handling of Violence in a coordinated, integrated, and synchronized manner based on partnership patterns;  
+b. establishing a Violence prevention system, mapping of locations or areas prone to the occurrence of Violence;  
+c. organizing communication, information, and education regarding Gender-Based Violence and Children along with prevention and handling efforts; andd. organizing socialization of Laws and Regulations related to Gender-Based Violence and Children.
+
+#### Article 12
+
+Case handling as referred to in Article 10 letter b, includes:
+a. providing complaint services for cases of Gender-Based Violence and Children;  
+b. providing temporary Protection in safe houses (shelters);  
+c. providing Medicolegal services;  
+d. conducting legal Assistance in the handling and resolution of cases of Gender-Based Violence and Children, both inside and outside the court; ande. providing special legal Protection for Child Victims of Violence in accordance with the provisions of Laws and Regulations.
+
+#### Article 13
+
+Post-crisis handling as referred to in Article 10 letter c includes:
+a. providing physical Recovery at health Service institutions;  
+b. assisting the repatriation of Victims;  
+c. providing psychosocial Recovery and Assistance;  
+d. providing spiritual guidance Services;  
+e. preparing families and communities in the social reintegration process; andf. providing skills training services and increasing economic access.
+
+#### Article 14
+
+1. Coordination and cooperation as referred to in Article 10 letter d, includes:a. conducting coordination and cooperation between regions in handling cases of Gender-Based Violence and Children;  
+b. conducting coordination and cooperation with institutions that handle Gender and Child issues.  
+(2) Cooperation as referred to in paragraph (1) includes Assistance, referral, repatriation, Social Reintegration, and development of integrated Service systems.
+
+#### Article 15
+
+Enhancement of community participation as referred to in Article 10 letter e, includes:
+a. fostering community awareness of cases of Gender-Based Violence and Children; andb. encouraging the community to actively participate in providing information and reporting the occurrence of Gender-Based Violence and Children;  
+c. fostering local wisdom in handling Victims of Gender-Based Violence and Children;  
+d. strengthening community groups in handling Victims of Gender-Based Violence and Children; ande. disseminating information about Laws and Regulations related to Gender-Based Violence and Children.
+
+#### Article 16
+
+Monitoring and reporting as referred to in Article 10 letter f includes monitoring, documentation, and reporting on the handling and resolution of cases of Gender-Based Violence and Children.
+
+# CHAPTER V
+
+## ORGANIZATION
+
+#### Article 17
+
+1. The Implementation of Protection for Victims of Gender-Based Violence and Children is carried out by a non-structural institution under the coordination of the SKPD responsible for women's empowerment and Child Protection.  
+2. The non-structural institution as referred to in paragraph (1) consists of elements of the Regional Government, elements of vertical agencies in the field of law enforcement, elements of the community, and elements of related stakeholders.  
+3. The non-structural institution as referred to in paragraph (1) has the duty to:a. organize Protection efforts for Victims of Gender-Based Violence and Children, covering prevention, case handling, post-crisis handling, as well as monitoring and reporting;  
+b. prepare action plans, programs, and activities for the Implementation of Protection for Victims of Gender-Based Violence and Children;  
+c. prepare service standards for the Implementation of Protection for Victims of Gender-Based Violence and Children; andd. report the results of task implementation and be accountable to the Mayor.  
+4. Further provisions regarding the establishment, membership, and description of duties as well as working procedures of the non-structural institution as referred to in paragraph (1) shall be regulated by Mayor Regulation.
+
+# CHAPTER VI
+
+## RESOURCES
+
+#### Article 18
+
+Resources for the Implementation of Protection for Victims of Gender-Based Violence and Children consist of:  a. human resources;  
+b. supporting facilities and infrastructure; andc. financing.
+
+#### Article 19
+
+Human resources as referred to in Article 18 letter a may come from civil servants, academics, practitioners, and professionals.
+
+#### Article 20
+
+Supporting facilities and infrastructure as referred to in Article 18 letter b may include secretariat offices, safe houses (shelters), lactation rooms, operational vehicles, as well as supporting facilities and infrastructure according to needs.
+
+#### Article 21
+
+Financing as referred to in Article 18 letter c is sourced from:
+a. State Revenue and Expenditure Budget;  
+b. Regional Revenue and Expenditure Budget of Central Java Province;  
+c. Regional Revenue and Expenditure Budget of Salatiga City; and/ord. other legitimate and non-binding funding sources in accordance with the provisions of Laws and Regulations.
+
+# CHAPTER VII
+
+## COMMUNITY PARTICIPATION
+
+#### Article 22
+
+Community participation in the Implementation of Protection for Victims of Gender-Based Violence and Children, includes:
+a. providing information and/or reporting every incident of Violence that is known;  
+b. providing Protection for Victims;  
+c. providing emergency assistance;  
+d. providing Assistance to Victims and/or the community in handling and resolving cases of Gender-Based Violence and Children; ande. assisting in the repatriation and Social Reintegration process.
+
+# CHAPTER VIII
+
+## GUIDANCE, CONTROL, AND SUPERVISION
+
+#### Article 23
+
+Guidance and control of the Implementation of Protection for Victims of Gender-Based Violence and Children includes:
+a. provision of guidelines, instructions, guidance and direction, as well as supervision;  
+b. coordination of the preparation and implementation of action plans, programs, and activities;  
+c. provision of consultation on the implementation of programs and activities as well as provision of solutions to obstacles faced; andd. implementation of monitoring and evaluation.
+
+#### Article 24
+
+Supervision of the Implementation of Protection for Victims of Gender-Based Violence and Children is carried out by functional officials in the field of supervision in accordance with the provisions of Laws and Regulations.
+
+# CHAPTER IX
+
+## CLOSING PROVISIONS
+
+#### Article 25
+
+This Regional Regulation shall come into force on the date of promulgation.  
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by its placement in the Regional Gazette of Salatiga City.  
+
+Enacted in Salatiga on 20 May 2013 27 December
+
+##### MAYOR OF SALATIGA,
+
+Seal signature
+
+##### YULIYANTO
+
+Promulgated in Salatiga on 20 May 2013
+
+##### REGIONAL SECRETARY
+
+##### OF SALATIGA CITY,
+
+Seal signature
+
+##### AGUS RUDIANTO
+
+##### REGIONAL GAZETTE OF SALATIGA CITY YEAR 2013  NUMBER 6
+
+##### ELUCIDATION
+
+##### OF
+
+##### REGIONAL REGULATION OF SALATIGA CITY
+
+##### NUMBER 6 YEAR 2013 20
+
+##### CONCERNING
+
+IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN
+
+##### I. GENERAL
+
+In essence, Gender-Based Violence and Violence Against Children constitute a form of social discrimination, a violation of human rights, and a crime against human dignity. The issue of Gender-Based Violence needs to receive serious attention, therefore the state has issued Law Number 23 of 2004 concerning the Elimination of Domestic Violence and Law Number 23 of 2002 concerning Child Protection, which can serve as a foundation in creating a community and national life that is enveloped in peace, equality, and gender-based social justice.
+
+Law Number 23 of 2004 has stated that all forms of Violence within the scope of the household, whether affecting one of the partners (husband/wife) or family members (especially children) constitute a violation of human rights and a crime against human dignity as well as a form of discrimination that must be eliminated, so that the state and/or society must prevent and are obliged to fulfill the right of every citizen to obtain Protection in order to avoid and be free from Violence, threats of torture or treatment that degrades human dignity and worth.
+
+Discriminatory treatment and Gender-Based Violence and Violence Against Children in Salatiga City can potentially reduce the quality of family and community life, thus requiring integrated handling. The Salatiga City Government carefully captures the issue of Gender-Based Violence and Violence Against Children and subsequently implements regional development programs based on the spirit of strengthening opportunities, equality, and Gender-Based social justice as set forth in the Salatiga City Medium-Term Development Plan for 2011-2016. Nevertheless, in line with community aspirations, the Salatiga City Government deems it necessary to increase attention, response, and action in handling these issues.
+
+In relation to this matter, the Salatiga City Government together with the Salatiga City Regional House of Representatives needs to establish a Regional Regulation concerning the Implementation of Protection for Victims of Gender-Based Violence and Violence Against Children, which regulates clearly, firmly, and comprehensively, useful for providing understanding, knowledge, and education regarding various forms of Gender-Based Violence and Violence Against Children as well as to provide legal certainty to Victims as to where they should seek Protection.
+
+This Regional Regulation is also intended to provide understanding and instill the value that every citizen without exception has the right to obtain a sense of security and be free from all forms of Violence, whether occurring within the scope of the household (family) or the scope of society.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+letter a What is meant by "non-discrimination" is protection for all victims of Gender-Based Violence and Violence Against Children without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status, and physical and mental condition.
+
+letter b What is meant by "best interests of the victim" is that all actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, must be the primary consideration.
+
+letter c What is meant by "Gender justice" is fair treatment given to both women and men.
+
+What is meant by "Gender equality" is a condition and position that describes a harmonious, aligned, and balanced relationship between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in society, nation and state.
+
+letter d What is meant by "Victim Protection" is providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.
+
+letter e What is meant by "maternal survival" is ensuring that a mother does not experience death that occurs during pregnancy, childbirth, and postpartum, whether caused by physical or non-physical conditions.
+
+letter f What is meant by "child development" is as stated in the principles of the Convention on the Rights of the Child, including the right to education, the right to play, the right to create and recreate.
+
+What is meant by "child survival" is as stated in the principles of the Convention on the Rights of the Child, including the right to identity and the right to enjoy the highest attainable health status.
+
+letter g What is meant by "respect for the views of the child" is respect for children's rights to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.
+
+letter h What is meant by "openness" is that in the Implementation of Protection for Victims of Gender-Based Violence and Violence Against Children it is transparent among integrated service providers.
+
+letter i What is meant by "integration" is that in the Implementation of Protection for Victims of Gender-Based Violence and Violence Against Children it is carried out by building coordination among service providers, including medical services, legal Companions, psychologists, religious counselors, social workers, and police.
+
+letter j What is meant by "not blaming the victim" is an attitude and treatment of not blaming the victim for the occurrence of the Violence they experienced.
+
+letter k What is meant by "empowering" is that every effort provided must be able to strengthen the victim, whether physically, psychologically, socially or economically.
+
+letter l What is meant by "victim confidentiality" is every action taken to ensure the Victim is in a safe condition from threats or other actions that threaten the life and psychology of the Victim.
+
+letter m What is meant by "decision-making in the hands of the victim" is the victim's right to determine the best choice in resolving their problem.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently Clear.
+
+#### Article 12
+
+Letter a Sufficiently clear.
+
+Letter b Sufficiently clear.
+
+Letter c What is meant by "Medicolegal" is the effort to collect evidence for the purposes of proof in the judicial process.
+
+Letter d Sufficiently clear.
+
+Letter e Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently Clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently Clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+##### SUPPLEMENT TO THE REGIONAL GAZETTE OF SALATIGA CITY NUMBER 6.

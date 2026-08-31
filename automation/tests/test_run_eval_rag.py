@@ -93,6 +93,160 @@ def test_cited_candidate_gets_copied_as_final_evidence(tmp_path):
     )
 
 
+def test_cited_candidate_pairs_original_language_sentence_not_whole_chunk(tmp_path):
+    store_chunks = [
+        {
+            "chunk_id": 0,
+            "section_id": 0,
+            "chunk_index": 0,
+            "type": "structural",
+            "text": (
+                "The policy explicitly covers domestic violence. "
+                "The policy also covers sexual violence."
+            ),
+            "source_text": (
+                "Kebijakan ini secara eksplisit mencakup kekerasan dalam rumah tangga. "
+                "Kebijakan ini juga mencakup kekerasan seksual."
+            ),
+            "embedding": [1.0, 0.0],
+        }
+    ]
+    criteria_dir = tmp_path / "criteria"
+    criteria_dir.mkdir()
+    (criteria_dir / "01_scope.txt").write_text("1.1 | Domestic violence | does it cover DV?\n", encoding="utf-8")
+
+    def complete_fn(prompt: str) -> dict:
+        # Cite only the second sentence.
+        return {
+            "evaluation_results": {
+                "1.1": {
+                    "id": "1.1",
+                    "indicator": "Domestic violence",
+                    "included": "Yes",
+                    "evidence": ["1.1-0.1"],
+                    "rationale": "stated directly",
+                }
+            }
+        }
+
+    result = _evaluate_dimension(
+        policy_path=Path("policy.txt"),
+        criteria_file="01_scope.txt",
+        criteria_folder=criteria_dir,
+        template_text="{{CRITERIA_WITH_CANDIDATES}}",
+        store_chunks=store_chunks,
+        embedder=_embedder(),
+        retrieval_config=_retrieval_config(),
+        complete_fn=complete_fn,
+    )
+
+    item = result.batch_evals["1.1"]
+    assert item["evidence"] == "The policy also covers sexual violence."
+    # Only the matching Indonesian sentence, not the whole chunk's source text.
+    assert item["evidence_original"] == "Kebijakan ini juga mencakup kekerasan seksual."
+    # Exact per-sentence pairing (both sides have 1 line, 2 sentences each).
+    assert item["evidence_original_aligned"] is True
+
+
+def test_chunk_level_fallback_reports_not_aligned(tmp_path):
+    store_chunks = [
+        {
+            "chunk_id": 0,
+            "section_id": 0,
+            "chunk_index": 0,
+            "type": "structural",
+            "text": "Article 1\nThe Regent shall establish a committee. It shall report annually.",
+            # The Indonesian merges two translated sentences into one, so the
+            # whole-chunk sentence counts disagree (2 vs 3) and every sentence
+            # falls back to the whole chunk's original text (see sentence_align.py).
+            "source_text": "Pasal 1\nBupati harus membentuk komite yang melapor setiap tahun.",
+            "embedding": [1.0, 0.0],
+        }
+    ]
+    criteria_dir = tmp_path / "criteria"
+    criteria_dir.mkdir()
+    (criteria_dir / "01_scope.txt").write_text("1.1 | Domestic violence | does it cover DV?\n", encoding="utf-8")
+
+    def complete_fn(prompt: str) -> dict:
+        # Cite the second sentence (flat index 1 = "The Regent shall...").
+        return {
+            "evaluation_results": {
+                "1.1": {
+                    "id": "1.1",
+                    "indicator": "Domestic violence",
+                    "included": "Yes",
+                    "evidence": ["1.1-0.1"],
+                    "rationale": "stated directly",
+                }
+            }
+        }
+
+    result = _evaluate_dimension(
+        policy_path=Path("policy.txt"),
+        criteria_file="01_scope.txt",
+        criteria_folder=criteria_dir,
+        template_text="{{CRITERIA_WITH_CANDIDATES}}",
+        store_chunks=store_chunks,
+        embedder=_embedder(),
+        retrieval_config=_retrieval_config(),
+        complete_fn=complete_fn,
+    )
+
+    item = result.batch_evals["1.1"]
+    assert item["evidence"] == "The Regent shall establish a committee."
+    # Best-effort pairing still produced (the whole chunk's original text),
+    # but flagged as not an exact per-sentence match.
+    assert item["evidence_original"] == "Pasal 1\nBupati harus membentuk komite yang melapor setiap tahun."
+    assert item["evidence_original_aligned"] is False
+
+
+def test_cited_candidate_without_source_text_leaves_original_null(tmp_path):
+    store_chunks = [
+        {
+            "chunk_id": 0,
+            "section_id": 0,
+            "chunk_index": 0,
+            "type": "structural",
+            "text": "The policy explicitly covers domestic violence.",
+            # No "source_text" key — mirrors an unaligned translation, or the
+            # direct-chunking fallback in rag/store.py.
+            "embedding": [1.0, 0.0],
+        }
+    ]
+    criteria_dir = tmp_path / "criteria"
+    criteria_dir.mkdir()
+    (criteria_dir / "01_scope.txt").write_text("1.1 | Domestic violence | does it cover DV?\n", encoding="utf-8")
+
+    def complete_fn(prompt: str) -> dict:
+        return {
+            "evaluation_results": {
+                "1.1": {
+                    "id": "1.1",
+                    "indicator": "Domestic violence",
+                    "included": "Yes",
+                    "evidence": ["1.1-0.0"],
+                    "rationale": "stated directly",
+                }
+            }
+        }
+
+    result = _evaluate_dimension(
+        policy_path=Path("policy.txt"),
+        criteria_file="01_scope.txt",
+        criteria_folder=criteria_dir,
+        template_text="{{CRITERIA_WITH_CANDIDATES}}",
+        store_chunks=store_chunks,
+        embedder=_embedder(),
+        retrieval_config=_retrieval_config(),
+        complete_fn=complete_fn,
+    )
+
+    item = result.batch_evals["1.1"]
+    assert item["evidence_verified"] is True
+    assert item["evidence_original"] is None
+    assert item["evidence_original_aligned"] is None
+
+
 def test_cited_candidate_tag_may_include_brackets(tmp_path):
     store_chunks = [
         {
@@ -181,6 +335,8 @@ def test_unresolvable_citation_gets_nulled_and_flagged(tmp_path):
     item = result.batch_evals["1.1"]
     assert item["evidence_verified"] is False
     assert item["evidence"] is None
+    assert item["evidence_original"] is None
+    assert item["evidence_original_aligned"] is None
     assert "unresolved evidence citation removed" in item["rationale"]
 
 
@@ -225,6 +381,8 @@ def test_no_answer_skips_resolution(tmp_path):
 
     item = result.batch_evals["1.1"]
     assert item["evidence_verified"] is None
+    assert item["evidence_original"] is None
+    assert item["evidence_original_aligned"] is None
 
 
 def test_verification_disabled_skips_resolution_entirely(tmp_path):
@@ -271,3 +429,5 @@ def test_verification_disabled_skips_resolution_entirely(tmp_path):
     # through untouched (legacy trust-the-LLM behavior).
     assert item["evidence"] == ["1.1-0.0"]
     assert item["evidence_verified"] is None
+    assert item["evidence_original"] is None
+    assert item["evidence_original_aligned"] is None

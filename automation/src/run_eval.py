@@ -23,9 +23,15 @@ from automation.src.llm.confidence import ConfidenceSpec
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
 from automation.src.policy_files import filter_policy_files
 from automation.src.rag.embedder import AzureEmbedder
-from automation.src.rag.evidence_check import resolve_evidence_citation
+from automation.src.rag.evidence_check import (
+    resolve_evidence_citation,
+    resolve_evidence_original_alignment,
+    resolve_evidence_source_text,
+)
 from automation.src.rag.prompt_builder import (
     build_candidate_lookup,
+    build_source_alignment_lookup,
+    build_source_text_lookup,
     format_criteria_list,
     format_criteria_with_candidates,
     parse_criteria_lines,
@@ -223,6 +229,10 @@ def _evaluate_dimension(
             batch_evals = batch_result.get("evaluation_results", {})
             for item in batch_evals.values():
                 item["evidence_verified"] = None
+                # No retrieval, so no chunk to pair the original-language text
+                # against; full-policy mode is a legacy fallback anyway.
+                item["evidence_original"] = None
+                item["evidence_original_aligned"] = None
 
             logger.info("[%s] %s completed (full-policy mode)", policy_path.name, criteria_file)
             return DimensionResult(criteria_file=criteria_file, batch_evals=batch_evals)
@@ -252,7 +262,16 @@ def _evaluate_dimension(
         batch_result = complete_fn(final_prompt)
         batch_evals = batch_result.get("evaluation_results", {})
         candidate_lookup = build_candidate_lookup(candidates_by_id)
-        _resolve_batch_evidence(batch_evals, candidate_lookup, retrieval_config, policy_path.name)
+        source_lookup = build_source_text_lookup(candidates_by_id)
+        alignment_lookup = build_source_alignment_lookup(candidates_by_id)
+        _resolve_batch_evidence(
+            batch_evals,
+            candidate_lookup,
+            source_lookup,
+            alignment_lookup,
+            retrieval_config,
+            policy_path.name,
+        )
 
         logger.info("[%s] %s completed", policy_path.name, criteria_file)
         return DimensionResult(
@@ -280,6 +299,8 @@ def _evaluate_dimension(
 def _resolve_batch_evidence(
     batch_evals: dict,
     candidate_lookup: dict[str, str],
+    source_lookup: dict[str, str],
+    alignment_lookup: dict[str, str],
     retrieval_config: RetrievalConfig,
     policy_name: str,
 ) -> None:
@@ -289,14 +310,27 @@ def _resolve_batch_evidence(
     dimension call. Since the final evidence is copied verbatim from
     retrieved sentences rather than transcribed by the LLM, it can never
     diverge from the real document.
+
+    Also sets `evidence_original` to the same citations' original-language
+    text (from `source_lookup`), so the report can show translated and
+    original text side by side, and `evidence_original_aligned` to whether
+    that pairing was an exact per-sentence match versus a line/whole-chunk
+    fallback (from `alignment_lookup`; see sentence_align.py). Both are
+    best-effort (None when the source couldn't be aligned at all) and never
+    affect `evidence`/`evidence_verified`, which stay governed by the
+    translated text alone.
     """
     for cid, item in batch_evals.items():
         if item.get("included") != "Yes":
             item["evidence_verified"] = None
+            item["evidence_original"] = None
+            item["evidence_original_aligned"] = None
             continue
 
         if not retrieval_config.evidence_verification_enabled:
             item["evidence_verified"] = None
+            item["evidence_original"] = None
+            item["evidence_original_aligned"] = None
             continue
 
         citations = item.get("evidence")
@@ -304,6 +338,10 @@ def _resolve_batch_evidence(
         if resolved_sentences is not None:
             item["evidence"] = "\n".join(resolved_sentences)
             item["evidence_verified"] = True
+            item["evidence_original"] = resolve_evidence_source_text(citations, source_lookup)
+            item["evidence_original_aligned"] = resolve_evidence_original_alignment(
+                citations, alignment_lookup
+            )
         else:
             logger.warning(
                 "[%s] %s evidence citation %r did not match any retrieved candidate; nulling.",
@@ -313,6 +351,8 @@ def _resolve_batch_evidence(
             )
             item["evidence"] = None
             item["evidence_verified"] = False
+            item["evidence_original"] = None
+            item["evidence_original_aligned"] = None
             note = "[unresolved evidence citation removed]"
             item["rationale"] = f"{item.get('rationale', '')} {note}".strip()
 
@@ -367,6 +407,22 @@ def _merge_dimension_results(
         for key, item in final_report["evaluation_results"].items()
         if item.get("evidence_verified") is False
     ]
+
+    # How often the original-language evidence was paired at exact sentence
+    # granularity rather than falling back to the whole chunk (see
+    # sentence_align.py). Denominator is indicators where any original-language
+    # pairing resolved at all -- i.e. evidence_original_aligned is not None.
+    aligned_flags = [
+        item.get("evidence_original_aligned")
+        for item in final_report["evaluation_results"].values()
+    ]
+    resolved_flags = [flag for flag in aligned_flags if flag is not None]
+    sentence_aligned = sum(1 for flag in resolved_flags if flag)
+    final_report["evidence_original_aligned_rate"] = {
+        "sentence_aligned": sentence_aligned,
+        "resolved": len(resolved_flags),
+        "rate": round(sentence_aligned / len(resolved_flags), 4) if resolved_flags else None,
+    }
     return final_report, all_candidates_by_id
 
 

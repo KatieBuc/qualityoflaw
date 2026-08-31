@@ -11,6 +11,7 @@ import re
 from dataclasses import dataclass, field
 
 from automation.src.rag.retriever import RetrievedChunk
+from automation.src.rag.sentence_align import align_chunk_sentences, align_chunk_sentences_detailed
 from automation.src.rag.sentence_split import split_sentences
 
 logger = logging.getLogger(__name__)
@@ -148,4 +149,36 @@ def build_candidate_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) ->
         for cid, candidates in candidates_by_id.items()
         for candidate in candidates
         for sentence_idx, sentence in enumerate(split_sentences(candidate.text))
+    }
+
+
+def build_source_text_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) -> dict[str, str]:
+    """Build tag -> original-language text, for showing alongside the
+    verified translated evidence sentence a tag resolves to.
+
+    Resolved to the matching original-language sentence when the chunk's
+    translated and original text produce the same sentence count (strict
+    1:1, see `align_chunk_sentences`), otherwise the whole chunk. Chunks
+    without source text (translation couldn't be aligned to source sections)
+    are simply absent from the lookup.
+    """
+    return {
+        _sentence_tag(cid, candidate, flat_idx): source_text
+        for cid, candidates in candidates_by_id.items()
+        for candidate in candidates
+        for flat_idx, source_text in align_chunk_sentences(candidate).items()
+    }
+
+
+def build_source_alignment_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) -> dict[str, str]:
+    """Tag -> the granularity its `build_source_text_lookup` entry was
+    resolved at (one of `sentence_align.GRANULARITY_*`), so the caller can
+    tell an exact per-sentence pairing from a best-effort whole-chunk
+    fallback (see evidence_check.resolve_evidence_original_alignment).
+    """
+    return {
+        _sentence_tag(cid, candidate, flat_idx): granularity
+        for cid, candidates in candidates_by_id.items()
+        for candidate in candidates
+        for flat_idx, (_text, granularity) in align_chunk_sentences_detailed(candidate).items()
     }

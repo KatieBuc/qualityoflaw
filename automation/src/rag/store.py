@@ -57,6 +57,12 @@ def _split_oversized_for_embedding(chunk_dicts: list[dict]) -> list[dict]:
     ever treats it as an index into this one policy's own rag_store chunk
     list (see retriever.py), never against chunks.json, so re-splitting here
     doesn't affect anything downstream.
+
+    A sub-split keeps its parent's whole `source_text` rather than splitting
+    it too — the split is decided purely on translated-text length, and
+    slicing the original-language text to match is not sound. It's a rare
+    case (chunk over ~6000 chars) so the whole-section original text is a
+    fine substitute for a wholly accurate sub-excerpt.
     """
     expanded: list[dict] = []
     for chunk in chunk_dicts:
@@ -108,6 +114,11 @@ def _load_translation_chunks(chunks_path: Path) -> list[dict] | None:
             "chunk_index": c["chunk_index"],
             "type": c["type"],
             "text": c["translated_text"],
+            # Original-language text for the same section, so evidence can be
+            # shown side-by-side with its translation. Empty when the
+            # translation step couldn't align source to translated sections
+            # (see markdown/to_text.py:build_retrieval_chunks).
+            "source_text": c.get("text") or None,
         }
         for i, c in enumerate(data)
     ]
