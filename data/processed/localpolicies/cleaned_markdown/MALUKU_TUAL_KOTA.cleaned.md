@@ -1,18 +1,20 @@
-# WALIKOTA TUAL
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# PROVINSI MALUKU
+WALIKOTA TUAL  
+
+PROVINSI MALUKU  
 
 # PERATURAN DAERAH KOTA TUAL
 
-# NOMOR 03 TAHUN 2019
+NOMOR 03 TAHUN 2019. 
 
-# TENTANG
+TENTANG  
 
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# WALIKOTA TUAL,
+WALIKOTA TUAL,  
 
 Menimbang:  
  
@@ -36,13 +38,12 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia 1945;  
-
 2. Undang-Undang Nomor 60 Tahun 1958 tentang  Penetapan Undang-Undang Nomor 23 Tahun 1957  tentang Pembentukan Daerah-Daerah Swatantra  Tingkat II Dalam Wilayah Daerah Swatantra Tingkat I  Maluku (Lembaran Negara Republik Indonesia  Tahun 1958 Nomor 111, Tambahan Lembaran Negara  Republik Indonesia Nomor 1645);  
 3. Undang-Undang Nomor 6 Tahun 1974 tentang Ketentuan  Pokok Kesejahteraan Sosial (Lembaran Negara Repblik Indonesia Tahun 1974 Nomor 53, Tambahan Lembaran  Negara Republik Indonesia Nomor 3039);  
 4. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik  Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran  Negara Republik Indonesia Nomor 3143);  
 5. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi Tentang Penghapusan Segala  Bentuk Diskriminasi Terhadap Perempuan (Convention  On The Elimination Of All Forms Of Discrimination  Againts Women (Lembaran Negara Republik Indonesia  Tahun 1984 Nomor 19, Tambahan Lembaran Negara  Republik Indonesian Nomor 3668);  
 6. Undang-Undang Nomor 20 Tahun 1999 tentang  Pengesahan ILO Convension Minimum Age For Admission To Employment (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 56, Tambahan Lembaran Negara  Republik Indonesia Nomor 3835);  
-7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 165, Tambahan Lembaran Negara  Republik Indonesia Nomor 3886);  
+7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara  Republik Indonesia Nomor 3886);  
 8. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007  Nomor 58, Tambahan Lembaran Negara Republik  Indonesia Nomor 4928);  
 9. Undang-Undang Nomor 31 Tahun 2007 tentang  Pembentukan Kota Tual di Provinsi Maluku (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 97,  Tambahan Lembaran Negara Republik Indonesia  Nomor 3209);  
 10. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 82,  Tambahan Lembaran Negara Republik Indonesia  Nomor 4389);  
@@ -56,15 +57,19 @@ Mengingat:
 18. Keputusan Gubernur Maluku Nomor 302 Tahun 2007  tentang Pembentukan Pusat Pelayanan Terpadu  Perempuan dan Anak (P2TPA);  
 19. Peraturan Daerah Kota Tual Nomor 02 Tahun 2016  tentang Pembentukan dan Susunan Perangkat Daerah  Kota Tual (Lembaran Daerah Kota Tual Tahun 2016  Nomor 88, Tambahan Lembaran Daerah Kota Tual  Nomor 7096);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KOTA TUAL
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA TUAL  
 
-# WALIKOTA TUAL
+dan  
 
-# MEMUTUSKAN:
+WALIKOTA TUAL  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN  KEKERASAN.  
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN  KEKERASAN.  
 
 # BAB I
 
@@ -72,8 +77,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kota Tual.  
 2. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh  Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah menurut asas  otonomi dan Tugas Pembantuan dengan prinsip otonomi seluas-luasnya  dalam sistem dan prinsip Negara Kesatuan Republik Indonesia  sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945.  
 3. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara  Pemerintahan Daerah yang memimpin pelaksanaan urusan  pemerintahan yang menjadi kewenangan daerah otonom.  
@@ -95,12 +99,12 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 19. Lembaga perlindungan perempuan dan anak adalah lembaga penyedia  layanan terhadap korban kekerasan, yang berbasis rumah sakit, dikelola  secara bersama-sama dalam bentuk pelayanan medis (Termasuk  Medicolegal), pisko-sosial dan pelayanan hukum.  
 20. Rumah aman adalah tempat tinggal sementara yang digunakan untuk  memberikan perlindungan terhadap perempuan dan anak korban sesuai  dengan standar operasional prosedur atau disingkat SOP yang  ditentukan.  
 21. Masyarakat adalah perseorangan, keluarga, kelompok, organisasi sosial  dan atau organisasi kemasyarakatan lain.  
-22. Pusat Pelayanan Terpadu yang selanjutnya disebut PPT suatu unit  kesatuan yang menyelenggarakan funsi pelayanan terpadu bagi  perempuan dan anak korban kekerasan, yang berbasis rumah sakit,  puskesmas, P2TP2A, Rumah Aman, Rumah Perlindungan Sosial Anak  (RPSA), Rumah Perlindungan Trauma Center (RPTC), Rumah  Perlindungan Sosial Wanita (RPSW).  
+22. Pusat Pelayanan Terpadu yang selanjutnya disebut PPT suatu unit  kesatuan yang menyelenggarakan funsi pelayanan terpadu bagi  perempuan dan anak korban kekerasan, yang berbasis rumah sakit,  puskesmas, P2TP2A, Rumah Aman, Rumah Perlindungan Sosial Anak  (RPSA), Rumah Perlindungan Trauma Center (RPTC), Rumah Perlindungan Sosial Wanita (RPSW).  
 23. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak  selanjutnya disingkat P2TP2A adalah unit pelayanan terpadu yang  dibentuk oleh Pemerintah Daerah untuk memberikan pelayanan kepada  perempuan dan anak korban kekerasan secara konfrehensip dan  berkwalitas.  
 
 #### Pasal 1
 
-Penyelenggaraan perlindungan perempuan dan anak korban kekerasan  dilakukan berdasarkan pancasila, Undang-Undang Dasar Negara Republik  Indonesia tahun 1945, serta prinsip-prinsip dan hak dasar sebagaimana  diatur dalam konvensi perempuan dan anak yang meliputi:  
+Penyelenggaraan perlindungan perempuan dan anak korban kekerasan  dilakukan berdasarkan pancasila, Undang-Undang Dasar Negara Republik  Indonesia tahun 1945, serta prinsip-prinsip dan hak dasar sebagaimana diatur dalam konvensi perempuan dan anak yang meliputi:  
 a. Penghormatan hak azasi manusia;  
 b. Non-diskriminasi;  
 c. Kepentingan yang terbaik bagi perempuan dan atau anak;  
@@ -152,14 +156,16 @@ h. menetukan keputusan sendiri;
 #### Pasal 6
 
 1. Perlindungan terhadap Perempuan dan Anak merupakan kewajiban dan  tanggungjawab dari pada Pemerintah Daerah, masyarakat, orang tua  dan keluarga;  
-2. Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana  dimaksud dalam pasal 6 ayat (1) meliputi:a. melaksanakan kebijakan perlindungan perempuan dan anak dari  tindak kekerasan yang ditetapkan oleh pemerintah;  
+2. Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana  dimaksud dalam pasal 6 ayat (1) meliputi:  
+a. melaksanakan kebijakan perlindungan perempuan dan anak dari  tindak kekerasan yang ditetapkan oleh pemerintah;  
 b. menetapkan kebijakan, program dan kegiatan perlindungan  perempuan dan anak dari tindakan kekerasan;  
 c. melakukan kerja sama dalam penyelenggaraan Perempuan dan Anak  dari tindak kekerasan;  
 d. memberikan dukungan sarana dan prasarana dalam pelaksanaan  perlindungan perempuan dan anak dari tindak kekerasan;  
 e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan;  
 f. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan sesuai kemampuan keuangan  daerah dan;  
 g. membina dan mengawasi penyelenggaraan Perlindungan perempuan  dan anak dari tindak kekerasan.  
-3. Untuk mengantisipasi terjadinya tindak kekerasan terhadap perempuan  dan anak, Pemerintah Daerah berkewajiban menyediakan dan  menyelenggarakan layanan bagi dalam bentuk:a. mendirikan dan memfasilitasi penyelenggaraan lembaga layanan  terpadu untuk korban dengan melibatkan unsur masyarakat terkait;  
+3. Untuk mengantisipasi terjadinya tindak kekerasan terhadap perempuan  dan anak, Pemerintah Daerah berkewajiban menyediakan dan  menyelenggarakan layanan bagi dalam bentuk:  
+a. mendirikan dan memfasilitasi penyelenggaraan lembaga layanan  terpadu untuk korban dengan melibatkan unsur masyarakat terkait;  
 b. mendorong kepedulian masyarakat akan pentingnya perlindungan  terhadap korban.  
 
 #### Pasal 7
@@ -168,7 +174,8 @@ Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 6 ayat
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan terhadap korban;  
 c. memberikan pertolngan darurat;  
-d. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada pihak yang berwewenang; dan  e. turut serta dalam penanganan korban kekerasan.  
+d. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada pihak yang berwewenang; dan  
+e. turut serta dalam penanganan korban kekerasan.  
 
 #### Pasal 8
 
@@ -197,7 +204,8 @@ Kelembagaan
 1. Selain membentuk PPT sebagaimana dimaksud dalam Pasal 9, untuk  menunjang terlaksananya pemberdayaan dan perlindungan terhadap  perempuan dan anak korban tindak kekerasan, pemerintah daerah dapat  membentuk P2TP2A.  
 2. P2TP2A sebagaimana dimaksud pada ayat (1), terdiri dari unsur  Kepolisian, Kejaksaan, Pengadilan, Dinas Kesehatan, Dinas Sosial,  Kementrian Agama, Dinas Pemberdayaan Perempuan dan Perlindungan  Anak, LSM, Pemerhati Anak.  
 3. P2TP2A sebagaimana dimaksud pada ayat (1), adalah unit kerja  fungsional mempunyai tugas menyelenggarakan pelayanan terpadu  perempuan dan anak korban kekerasan.  
-4. Dalam melaksanakan tugas pokok dan fungsi sebagaimana dimaksud  pada ayat (3), P2TP2A dapat berkoordinasi dan menjadi mitra kerja PPT.  (5) Ketentuan lebih lanjut mengenai P2TP2A sebagaimana dimaksud pada  ayat (1), ayat (2), ayat (3), dan ayat (4), diatur dengan Peraturan Walikota.  
+4. Dalam melaksanakan tugas pokok dan fungsi sebagaimana dimaksud  pada ayat (3), P2TP2A dapat berkoordinasi dan menjadi mitra kerja PPT.  
+5.  Ketentuan lebih lanjut mengenai P2TP2A sebagaimana dimaksud pada  ayat (1), ayat (2), ayat (3), dan ayat (4), diatur dengan Peraturan Walikota.  
 
 ## Bagian Kedua
 
@@ -207,7 +215,10 @@ Penanganan dan Mekanisme
 
 1. Penyelenggaraan Perlindungan kepada korban dilaksanakan secara  terpadu dalam penanganan medis, perlindungan hukum, medicolegal,  psikologis maupun ekonomi yang pelaksanaanya dapat dilakukan melalui  kemitraan dengan lembaga-lembaga sosial kemasyarakatan yang  bergerak dalam bidang perlindungan perempuan dan anak.  
 2. Penyelenggaraan perlindungan kepada korban sebagaimana dimaksud  pada ayat (1), harus memeperhatikan norma-norma agama serta hak dan  kewajiban orang tua, wali, suami atau orang lain yang secara hukum  bertanggungjawab terhadap korban.  
-3. Prinsip pelayanan dan pendampingan:c. cepat, aman dan empati;  
+3. Prinsip pelayanan dan pendampingan:  
+a. cepat;  
+b. aman;  
+c. empati;  
 d. adanya jaminan kerahasiaan;  
 e. mudah dijangkau; dan  
 f. tidak dipungut biaya.  
@@ -246,7 +257,8 @@ f. tidak dipungut biaya.
 
 #### Pasal 15
 
-1. Pemerintah dalam menyelenggarakan perlindungan perempuan dan anak  korban kekerasan. Dapat melibatkan peran serta masyarakat.  (2) Peran serta sebagaimana dimaksud pada ayat (1), dapat dilakukan oleh  perorangn, kelompok maupun organisasi sosial kemasyarakatan.  
+1. Pemerintah dalam menyelenggarakan perlindungan perempuan dan anak  korban kekerasan. Dapat melibatkan peran serta masyarakat.  
+2. Peran serta sebagaimana dimaksud pada ayat (1), dapat dilakukan oleh  perorangn, kelompok maupun organisasi sosial kemasyarakatan.  
 
 #### Pasal 16
 
@@ -263,7 +275,9 @@ Pembinaan
 
 #### Pasal 17
 
-1. Pemerintah Daerah berkewajiban melakukan pembinaan  penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  (2) Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  a. pedoman dan standar pemenuhan;  
+1. Pemerintah Daerah berkewajiban melakukan pembinaan  penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas; dan  
 d. pemantauan dan evaluasi.  
@@ -274,7 +288,9 @@ Pengawasan
 
 #### Pasal 18
 
-1. Pemerintah daerah berkewajiban melakukan pengawasan terhadap  penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  (2) Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan dengan  prinsip:a. profesional;  
+1. Pemerintah daerah berkewajiban melakukan pengawasan terhadap  penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
+2. Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan dengan  prinsip:  
+a. profesional;  
 b. transparan; dan  
 c. akuntabel.  
 
@@ -307,29 +323,27 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kota Tual.  
 
-Ditetapkan di Tual pada tanggal 17 Juli 2019
+Ditetapkan di Tual  
+
+pada tanggal 17 Juli 2019  
 
 ##### WALIKOTA TUAL,
 
 ##### ADAM RAHAYAAN
 
-Diundangkan di Tual pada tanggal 17 Juli 2019 Plt. SEKRETARIS DAERAH KOTA TUAL
+Diundangkan di Tual  
 
-##### MUUTI MATDOAN
+pada tanggal 17 Juli 2019  
 
-##### LEMBARAN DAERAH KOTA TUAL TAHUN 2019 NOMOR 106.  
+Plt. SEKRETARIS DAERAH KOTA TUAL  
 
-##### PENJELASAN
+MUUTI MATDOAN. 
 
-##### ATAS
+LEMBARAN DAERAH KOTA TUAL TAHUN 2019 NOMOR 106.  
 
-##### PERATURAN DAERAH KOTA TUAL
+# PENJELASAN ATAS PERATURAN DAERAH KOTA TUAL
 
-##### NOMOR 03 TAHUN 2019
-
-##### TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
+NOMOR 03 TAHUN 2019 TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN  
 
 ##### I. UMUM
 
@@ -425,4 +439,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KOTA TUAL NOMOR 7106
+TAMBAHAN LEMBARAN DAERAH KOTA TUAL NOMOR 7106  
