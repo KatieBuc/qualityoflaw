@@ -1,240 +1,160 @@
-Menimbang Mengingat
+# PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# WALI KOTA PEKANBARU
+WALI KOTA PEKANBARU  
 
-# PROVINSI RIAU
+PROVINSI RIAU  
 
 # PERATURAN DAERAH KOTA PEKANBARU
 
-# NOMOR TAHUN 2023
+NOMOR 2 TAHUN 2023  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK
+PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA WALI KOTA PEKANBARU,  
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+WALI KOTA PEKANBARU,  
+
+Menimbang:  
+
 a. bahwa pemenuhan hak-hak dasar atau hak-hak konstitusional Perempuan dan Anak, baik yang termasuk ke dalam kelompok hak-hak sipil dan politik maupun hak-hak ekonomi, pendidikan, sosial, dan kebudayaan perlu diupayakan secara berkelanjutan;  
 b. bahwa untuk melaksanakan pemenuhan segala hak- hak yang harus dimiliki Perempuan dan Anak secara berkelanjutan diperlukan landasan peraturan yang sesuai dengan kebutuhan Daerah;  
-c. bahwa_ berdasarkan pertimbangan sebagaimana dimaksud dalam huruf dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
+
+Mengingat:  
+
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-3. 4.  
-5. Undang-Undang Nomor Tahun 1956 tentang Pembentukan Daerah Otonom Kota Kecil Dalam Lingkungan Daerah Propinsi Sumatera Tengah (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 19);  
+2. Undang-Undang Nomor Tahun 1956 tentang Pembentukan Daerah Otonom Kota Kecil Dalam Lingkungan Daerah Propinsi Sumatera Tengah (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 19);  
+3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235), sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
+4. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia 5587), sebagaimana telah diubah berberapa kali terakhir dengan Undang-Undang Nomor Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
+5. Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);  
 
-Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235), sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5679); Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia 5587), sebagaimana telah diubah berberapa kali terakhir dengan Undang-Undang Nomor Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
+Dengan Persetujuan Bersama  
 
-Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573);  
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA PEKANBARU  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA PEKANBARU dan
+dan  
 
-# WALI KOTA PEKANBARU
+WALI KOTA PEKANBARU  
 
-# MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # KETENTUAN UMUM
 
-Pasal Dalam Peraturan Daerah ini yang dimaksud dengan:
-
-1. 3.  
-
-Daerah adalah Kota Pekanbaru.  
-
-Pemerintah Daerah adalah Pemerintah Kota Pekanbaru. Wali Kota adalah Wali Kota Pekanbaru.  
-
-Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah Dewan Perwakilan Rakyat Daerah Kota Pekanbaru.  
-
-Perangkat Daerah adalah unsur pembantu Wali Kota dan DPRD dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah.  
-
-Dinas Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat Kota Pekanbaru atau sebutan lain selanjutnya disebut Dinas adalah Perangkat Daerah yang melaksanakan tugas dan fungsi urusan Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat.  
-
-Kepala Dinas Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat Kota Pekanbaru atau sebutan lain yang selanjutnya disebut Kepala Dinas adalah Kepala Perangkat yang lingkup tugas dan tanggungjawabnya meliputi urusan Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat.  
-
-Masyarakat adalah perseorangan, Keluarga, Kelompok, dan organisasi sosial dan/atau organisasi kemasyarakatan. Keluarga adalah unit terkecil dalam masyarakat yang terdiri atas suami istri, atau suami istri dan Anaknya, atau ayah dan Anaknya, atau ibu dan Anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah sampai dengan derajat ketiga.  
-
-Orang Tua adalah ayah dan/atau ibu kandung, atau ayah
-
-10. dan/atau ibu tiri, atau ayah dan/atau ibu angkat.  
-
-Setiap Orang adalah perseorangan atau korporasi, baik yang
-
-11. berbentuk badan hukum maupun yang tidak berbadan hukum. Perlindungan adalah segala tindakan pencegahan, pelayanan
-12. dan pemberdayaan untuk melindungi dan menjamin hak-hak Perempuan dan Anak dari tindak kekerasan.  
-
-Gender adalah konsep yang mengacu pada perbedaan peran
-
-13. dan tanggungjawab laki-laki dan Perempuan yang terjadi akibat dari dan dapat berubah oleh keadaan sosial dan budaya masyarakat.  
-
-Sistem Data Gender dan Anak adalah pelembagaan
-
-14. penyelenggaraan data gender dan Anak yang terdiri dari komponen-komponen peraturan, lembaga, dan mekanisme di Daerah dalam rangka perencanaan, pelaksanaan, evaluasi, dan pelaporan hasil kebijakan/program/kegiatan pembangunan yang responsif gender dan peduli Anak.  
-
-Data Terpilih adalah data yang dipilih menurut jenis kelamin
-
-15. dan umum.  
-
-Responsif gender adalah perhatian yang konsisten dan
-
-16. sistematis terhadap perbedaan Perempuan dan Laki-laki di dalam masyarakat yang disertai upaya menghapus hambatan struktural dan kultural dalam mencapai kesetaraan gender. Kepekaan gender atau kesadaran gender adalah kemampuan
-17. untuk menemukenali kesenjangan hubungan kekuasaan antara Perempuan dan Laki-laki di dalam keluarga dan di dalam komunitas, dampak pembagian kerja berdasarkan gender terhadap Perempuan dan Laki-laki, dan pengalaman, permasalahan, kebutuhan, kepentingan dan aspirasi Perempuan dan Laki-laki adalah berbeda.  
-
-Pengarusutamaan Gender di daerah yang selanjutnya disebut PUG
-
-18. adalah strategi yang dibangun untuk mengintegrasikan gender menjadi satu dimensi integral dari perencanaan, penyusunan, pelaksanaan, pemantauan, dan evaluasi atas kebijakan, program, dan kegiatan pembangunan di daerah.  
-
-Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT,
-
-19. adalah unit yang menyelenggarakan pelayanan terpadu untuk korban kekerasan dan terintegrasi dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi dan/atau korban tindak pidana perdagangan orang.  
-
-Kesetaraan Gender yang selanjutnya disebut KG adalah
-
-20. kesamaan hak, kesempatan, manfaat dan pengambilan keputusan antara Perempuan dan laki-laki termasuk dalam memasuki kesempatan kerja baik di sektor formal maupun informal.  
-
-Pemberdayaan Perempuan adalah setiap upaya meningkatkan
-
-21. kemampuan fisik, mental spiritual, sosial, pengetahuan, dan keterampilan agar Perempuan siap didayagunakan sesuai dengan kemampuan masing-masing.  
-
-Perempuan adalah manusia berjenis kelamin Perempuan dan
-
-22. orang yang oleh hukum diakui sebagai Perempuan.  
-
-Pemberdayaan korban kekerasan adalah penguatan Perempuan
-
-23. korban kekerasan untuk dapat berusaha dan bekerja sendiri Vv setelah mereka dipulihkan dan diberikan layanan rehabilitasi kesehatan dan sosial.  
-
-Tindak Pidana Perdagangan Orang atau yang selanjutnya
-
-24. disebut TPPO adalah setiap tindakan atau serangkaian tindakan yang memenuhi unsur-unsur tindak pidana yang ditentukan dalam Undang-Undang Nomor 21 Tahun 2007 Tentang Pemberantasan Tindak Pidana Perdagangan Orang.  
-
-Rehabilitasi kesehatan adalah upaya pemulihan kondisi korban
-
-25. meliputi kesehatan fisik, psikis dan sosial agar korban dapat melaksanakan perannya kembali secara baik dan wajar dalam keluarga maupun dalam masyarakat.  
-
-Rehabilitasi sosial adalah pelayanan yang ditujukan untuk
-
-26. memulihkan dan mengembangkan kemampuan seseorang yang mengalami disfungsi sosial agar dapat melaksanakan kembali fungsi sosialnya secara wajar.  
-
-Pemulangan adalah upaya mengembalikan korban kekerasan
-
-27. dari wilayah daerah tempat terjadinya kekerasan kembali ke daerah asal yang bersangkutan.  
-
-Reintegrasi sosial adalah upaya penyatuan kembali korban
-
-28. dengan pihak keluarga, keluarga pengganti atau masyarakat yang dapat memberi perlindungan dan pemenuhan kebutuhan bagi korban.  
-
-Unit Pelayanan Terpadu Perlindungan Perempuan dan Anak
-
-29. yang selanjutnya disingkat UPT PPA adalah Unit Pelaksana Teknis yang dibentuk Pemerintah Daerah dalam memberikan layanan bagi Perempuan dan Anak yang mengalami kekerasan, diskriminasi, perlindungan khusus, dan masalah lainnya. Anak adalah seseorang yang belum berusia 18 (delapan belas)
-30. tahun, termasuk Anak yang masih dalam kandungan.  
-
-Pemenuhan Hak Anak yang selanjutnya disingkat PHA adalah
-
-31. segala kegiatan untuk menjamin dan melindungi Anak serta hak-haknya agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan dan diskriminasi.  
-
-Anak Penyandang Disabilitas adalah Anak yang memiliki
-
-32. keterbatasan fisik, mental, intelektual, atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dan sikap masyarakatnya dapat menemui hambatan yang menyulitkan untuk berpartisipasi penuh dan_ efektif berdasarkan kesamaan hak.  
-
-Anak yang Memiliki Keunggulan adalah Anak yang mempunyai
-
-33. akhlak yang terpuji, kecerdasan yang luar biasa atau memiliki potensi dan/atau bakat istimewa tidak terbatas pada kemampuan intelektual, tetapi juga pada bidang lain.  
-
-Hak Anak adalah bagian dari hak asasi manusia yang wajib
-
-34. dijamin, dilindungi, dan dipenuhi oleh Orang Tua, Keluarga, masyarakat, negara, pemerintah, dan pemerintah daerah. Pencegahan adalah kegiatan yang dilakukan untuk mencegah
-35. terjadinya tindak kekerasan terhadap Perempuan dan Anak. Rumah Aman adalah tempat kediaman sementara atau tempat
-36. kediaman baru yang didesain dalam kondisi pengawasan dan penjagaan yang ketat selama 24 (dua puluh empat) jam yang dirahasiakan sesuai dengan standar berdasarkan ketentuan yang berlaku yang diperuntukkan bagi Perempuan dan Anak korban tindak kekerasan.  
-
-Pelayanan adalah tindakan yang dilakukan sesegera mungkin
-
-37. kepada korban ketika melihat, mendengar dan mengetahui akan, sedang atau telah terjadinya kekerasan terhadap korban. Perlindungan Khusus adalah suatu bentuk perlindungan yang
-38. diterima oleh Anak dalam situasi dan kondisi tertentu untuk mendapatkan jeminan rasa aman terhadap ancaman yang membahayakan diri dan jiwa dalam tumbuh kembangnya.  
-
-Kekerasan adalah setiap perbuatan terhadap Anak yang
-
-39. berakibat timbulnya kesengsaraan atau penderitaan secara fisik, psikis, seksual, dan/atau penelantaran, termasuk ancaman untuk melakukan perbuatan, pemaksaan, atau perampasan kemerdekaan secara melawan hukum.  
-
-Korban adalah Perempuan dan/atau Anak yang mengalami
-
-40. kesengsaraan dan/atau penderitaan yang terjadi di wilayah Kota Pekanbaru.  
-
-Orang dengan HIV/AIDS yang selanjutnya disebut ODHA
-
-41. adalah orang yang sudah terinfenksi HIV baik pada tahap belum ada gejala maupun yang sudah ada gejala.  
-
-Standar Operasional Prosedur yang selanjutnya disingkat SOP
-
-42. adalah serangkaian instruksi tertulis yang dibakukan mengenai berbagai proses penyelenggaraan administrasi pemerintahan, bagaimana dan kapan harus dilakukan, dimana dan oleh siapa dilakukan.  
-
-Kota Layak Anak selanjutnya disingkat KLA adalah kota yang
-
-43. mempunyai sistem pembangunan berbasis hak anak melalui pengintegrasian komitmen dan sumber daya Pemerintah, Pemerintah Daerah, masyarakat dan dunia usaha yang terencana secara menyeluruh dan_ berkelanjutan dalam kebijakan, program dan kegiatan untuk menjamin terpenuhinya hak Anak.  
-
-Pasal Perlindungan terhadap Perempuan, diselenggarakan dengan asas berikut ini: penghormatan dan penghargaan terhadap Hak Asasi Manusia; keadilan dan kesetaraan gender;  
-
-non-diskriminasi;  
-
-pemberdayaan;  
-
-kepentingan terbaik bagi perempuan;  
+#### Pasal 1 
+
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
+1. Daerah adalah Kota Pekanbaru.
+2. Pemerintah Daerah adalah Pemerintah Kota Pekanbaru. Wali Kota adalah Wali Kota Pekanbaru.
+3. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah Dewan Perwakilan Rakyat Daerah Kota Pekanbaru.
+4. Perangkat Daerah adalah unsur pembantu Wali Kota dan DPRD dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah.
+5. Dinas Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat Kota Pekanbaru atau sebutan lain selanjutnya disebut Dinas adalah Perangkat Daerah yang melaksanakan tugas dan fungsi urusan Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat.
+6. Kepala Dinas Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat Kota Pekanbaru atau sebutan lain yang selanjutnya disebut Kepala Dinas adalah Kepala Perangkat yang lingkup tugas dan tanggungjawabnya meliputi urusan Pemberdayaan Perempuan, Perlindungan Anak dan Pemberdayaan Masyarakat.
+7. Masyarakat adalah perseorangan, Keluarga, Kelompok, dan organisasi sosial dan/atau organisasi kemasyarakatan.
+8. Keluarga adalah unit terkecil dalam masyarakat yang terdiri atas suami istri, atau suami istri dan Anaknya, atau ayah dan Anaknya, atau ibu dan Anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah sampai dengan derajat ketiga.
+9. Orang Tua adalah ayah dan/atau ibu kandung, atau ayah dan/atau ibu tiri, atau ayah dan/atau ibu angkat.
+10. Setiap Orang adalah perseorangan atau korporasi, baik yang berbentuk badan hukum maupun yang tidak berbadan hukum. Perlindungan adalah segala tindakan pencegahan, pelayanan dan pemberdayaan untuk melindungi dan menjamin hak-hak Perempuan dan Anak dari tindak kekerasan.
+11. Gender adalah konsep yang mengacu pada perbedaan peran dan tanggungjawab laki-laki dan Perempuan yang terjadi akibat dari dan dapat berubah oleh keadaan sosial dan budaya masyarakat.
+12. Sistem Data Gender dan Anak adalah pelembagaan penyelenggaraan data gender dan Anak yang terdiri dari komponen-komponen peraturan, lembaga, dan mekanisme di Daerah dalam rangka perencanaan, pelaksanaan, evaluasi, dan pelaporan hasil kebijakan/program/kegiatan pembangunan yang responsif gender dan peduli Anak.
+13. Data Terpilih adalah data yang dipilih menurut jenis kelamin dan umum.
+14. Responsif gender adalah perhatian yang konsisten dan sistematis terhadap perbedaan Perempuan dan Laki-laki di dalam masyarakat yang disertai upaya menghapus hambatan struktural dan kultural dalam mencapai kesetaraan gender.
+15. Kepekaan gender atau kesadaran gender adalah kemampuan untuk menemukenali kesenjangan hubungan kekuasaan antara Perempuan dan Laki-laki di dalam keluarga dan di dalam komunitas, dampak pembagian kerja berdasarkan gender terhadap Perempuan dan Laki-laki, dan pengalaman, permasalahan, kebutuhan, kepentingan dan aspirasi Perempuan dan Laki-laki adalah berbeda.
+16. Pengarusutamaan Gender di daerah yang selanjutnya disebut PUG adalah strategi yang dibangun untuk mengintegrasikan gender menjadi satu dimensi integral dari perencanaan, penyusunan, pelaksanaan, pemantauan, dan evaluasi atas kebijakan, program, dan kegiatan pembangunan di daerah.
+17. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT, adalah unit yang menyelenggarakan pelayanan terpadu untuk korban kekerasan dan terintegrasi dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi dan/atau korban tindak pidana perdagangan orang.
+18. Kesetaraan Gender yang selanjutnya disebut KG adalah kesamaan hak, kesempatan, manfaat dan pengambilan keputusan antara Perempuan dan laki-laki termasuk dalam memasuki kesempatan kerja baik di sektor formal maupun informal.
+19. Pemberdayaan Perempuan adalah setiap upaya meningkatkan kemampuan fisik, mental spiritual, sosial, pengetahuan, dan keterampilan agar Perempuan siap didayagunakan sesuai dengan kemampuan masing-masing.
+20. Perempuan adalah manusia berjenis kelamin Perempuan dan orang yang oleh hukum diakui sebagai Perempuan.
+21. Pemberdayaan korban kekerasan adalah penguatan Perempuan korban kekerasan untuk dapat berusaha dan bekerja sendiri setelah mereka dipulihkan dan diberikan layanan rehabilitasi kesehatan dan sosial.
+22. Tindak Pidana Perdagangan Orang atau yang selanjutnya disebut TPPO adalah setiap tindakan atau serangkaian tindakan yang memenuhi unsur-unsur tindak pidana yang ditentukan dalam Undang-Undang Nomor 21 Tahun 2007 Tentang Pemberantasan Tindak Pidana Perdagangan Orang.
+23. Rehabilitasi kesehatan adalah upaya pemulihan kondisi korban
+24. meliputi kesehatan fisik, psikis dan sosial agar korban dapat melaksanakan perannya kembali secara baik dan wajar dalam keluarga maupun dalam masyarakat.
+25. Rehabilitasi sosial adalah pelayanan yang ditujukan untuk memulihkan dan mengembangkan kemampuan seseorang yang mengalami disfungsi sosial agar dapat melaksanakan kembali fungsi sosialnya secara wajar.
+26. Pemulangan adalah upaya mengembalikan korban kekerasan
+27. dari wilayah daerah tempat terjadinya kekerasan kembali ke daerah asal yang bersangkutan.
+28. Reintegrasi sosial adalah upaya penyatuan kembali korban
+29. dengan pihak keluarga, keluarga pengganti atau masyarakat yang dapat memberi perlindungan dan pemenuhan kebutuhan bagi korban.
+30. Unit Pelayanan Terpadu Perlindungan Perempuan dan Anak yang selanjutnya disingkat UPT PPA adalah Unit Pelaksana Teknis yang dibentuk Pemerintah Daerah dalam memberikan layanan bagi Perempuan dan Anak yang mengalami kekerasan, diskriminasi, perlindungan khusus, dan masalah lainnya. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun, termasuk Anak yang masih dalam kandungan.
+31. Pemenuhan Hak Anak yang selanjutnya disingkat PHA adalah segala kegiatan untuk menjamin dan melindungi Anak serta hak-haknya agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan dan diskriminasi.
+32. Anak Penyandang Disabilitas adalah Anak yang memiliki keterbatasan fisik, mental, intelektual, atau sensorik dalam jangka waktu lama yang dalam berinteraksi dengan lingkungan dan sikap masyarakatnya dapat menemui hambatan yang menyulitkan untuk berpartisipasi penuh dan efektif berdasarkan kesamaan hak.
+33. Anak yang Memiliki Keunggulan adalah Anak yang mempunyai akhlak yang terpuji, kecerdasan yang luar biasa atau memiliki potensi dan/atau bakat istimewa tidak terbatas pada kemampuan intelektual, tetapi juga pada bidang lain.
+34. Hak Anak adalah bagian dari hak asasi manusia yang wajib
+35. dijamin, dilindungi, dan dipenuhi oleh Orang Tua, Keluarga, masyarakat, negara, pemerintah, dan pemerintah daerah.
+36. Pencegahan adalah kegiatan yang dilakukan untuk mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak.
+37. Rumah Aman adalah tempat kediaman sementara atau tempat kediaman baru yang didesain dalam kondisi pengawasan dan penjagaan yang ketat selama 24 (dua puluh empat) jam yang dirahasiakan sesuai dengan standar berdasarkan ketentuan yang berlaku yang diperuntukkan bagi Perempuan dan Anak korban tindak kekerasan.
+38. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada korban ketika melihat, mendengar dan mengetahui akan, sedang atau telah terjadinya kekerasan terhadap korban.
+39. Perlindungan Khusus adalah suatu bentuk perlindungan yang diterima oleh Anak dalam situasi dan kondisi tertentu untuk mendapatkan jeminan rasa aman terhadap ancaman yang membahayakan diri dan jiwa dalam tumbuh kembangnya.
+40. Kekerasan adalah setiap perbuatan terhadap Anak yang
+41. berakibat timbulnya kesengsaraan atau penderitaan secara fisik, psikis, seksual, dan/atau penelantaran, termasuk ancaman untuk melakukan perbuatan, pemaksaan, atau perampasan kemerdekaan secara melawan hukum.
+42. Korban adalah Perempuan dan/atau Anak yang mengalami  kesengsaraan dan/atau penderitaan yang terjadi di wilayah Kota Pekanbaru.
+43. Orang dengan HIV/AIDS yang selanjutnya disebut ODHA adalah orang yang sudah terinfenksi HIV baik pada tahap belum ada gejala maupun yang sudah ada gejala.
+44. Standar Operasional Prosedur yang selanjutnya disingkat SOP adalah serangkaian instruksi tertulis yang dibakukan mengenai berbagai proses penyelenggaraan administrasi pemerintahan, bagaimana dan kapan harus dilakukan, dimana dan oleh siapa dilakukan.
+45. Kota Layak Anak selanjutnya disingkat KLA adalah kota yang mempunyai sistem pembangunan berbasis hak anak melalui pengintegrasian komitmen dan sumber daya Pemerintah, Pemerintah Daerah, masyarakat dan dunia usaha yang terencana secara menyeluruh dan berkelanjutan dalam kebijakan, program dan kegiatan untuk menjamin terpenuhinya hak Anak.  
+
+#### Pasal 2 
+
+Perlindungan terhadap Perempuan, diselenggarakan dengan asas berikut ini:  
+a. penghormatan dan penghargaan terhadap Hak Asasi Manusia;  
+b. keadilan dan kesetaraan gender;  
+c. non-diskriminasi;  
+d. pemberdayaan;  
+e. kepentingan terbaik bagi perempuan;  
 f. pengayoman;  
+g. keberlangsungan dan keberlanjutan;  
+h. keterbukaan;  
+i. ketertiban;  
+j. kepastian hukum; dan  
+k. kearifan lokal.  
 
-keberlangsungan dan keberlanjutan; keterbukaan;  
+#### Pasal 3 
 
-ketertiban;  
+Perlindungan terhadap Anak dilakukan berdasarkan asas:  
+a. penghormatan dan penghargaan terhadap hak asasi manusia;  
+b. non-diskriminasi;  
+c. kepentingan terbaik bagi Anak;  
+d. penghargaan terhadap pendapat Anak;  
+e. hak untuk hidup, tumbuh, dan berkembang Anak; dan  
+f. kearifan lokal.  
 
-kepastian hukum; dan kearifan lokal.  
+#### Pasal 4  
 
-Pasal Perlindungan terhadap Anak dilakukan berdasarkan asas: penghormatan dan penghargaan terhadap hak asasi manusia;  
-a. non-diskriminasi;  
-
-kepentingan terbaik bagi Anak;  
-
-penghargaan terhadap pendapat Anak;  
-
-hak untuk hidup, tumbuh, dan berkembang Anak; dan kearifan lokal.  
-f. Pasal Maksud dan Tujuan Peraturan Daerah ini adalah sebagai dasar dan pedoman bagi Pemerintah Daerah dan pemangku kepentingan untuk: pemenuhan hak-hak Perempuan dan Anak;  
-a. melindungi Perempuan dan Anak secara maksimal, memberikan rasa aman dan tenang bagi Perempuan dan Anak; mencegah terjadinya kekerasan terhadap Perempuan dan Anak; melakukan pemberdayaan kepada Perempuan;  
-
-melakukan pemberdayaan kepada Perempuan korban kekerasan;  
-f. memberikan pelayanan kepada Perempuan dan Anak korban tindak kekerasan;  
-
-memberikan perlindungan kepada Pelapor dan Saksi;  
-
-memelihara keutuhan rumah tangga sehingga terwujud keluarga yang harmonis;  
-
-mendorong terwujudnya keluarga yang berkualitas; dan -10-
+Maksud dan Tujuan Peraturan Daerah ini adalah sebagai dasar dan pedoman bagi Pemerintah Daerah dan pemangku kepentingan untuk:  
+a. pemenuhan hak-hak Perempuan dan Anak;  
+b. melindungi Perempuan dan Anak secara maksimal;  
+c. memberikan rasa aman dan tenang bagi Perempuan dan Anak;  
+d. mencegah terjadinya kekerasan terhadap Perempuan dan Anak;  
+e. melakukan pemberdayaan kepada Perempuan;  
+f. melakukan pemberdayaan kepada Perempuan korban kekerasan;  
+g. memberikan pelayanan kepada Perempuan dan Anak korban tindak kekerasan;  
+h. memberikan perlindungan kepada Pelapor dan Saksi;  
+i. memelihara keutuhan rumah tangga sehingga terwujud keluarga yang harmonis;  
+j. mendorong terwujudnya keluarga yang berkualitas; dan  
 k. peningkatan partisipasi lembaga non-pemerintah guna mendukung upaya Daerah dalam memberikan perlindungan terhadap Perempuan.  
 
-Pasal Ruang lingkup Peraturan Daerah ini meliputi: kewajiban dan Tanggungjawab Pemerintah Daerah; hak Perempuan dan Anak;  
+#### Pasal 5 
 
-peningkatan kualitas hidup Perempuan di Daerah; perlindungan Perempuan;  
-
-kualitas keluarga;  
-
-pemenuhan hak Anak;  
-
-perlindungan khusus Anak;  
-
-Sistem Data Gender dan Anak;  
-
-i.  
-k. 1.  
-
-pendanaan;  
-
-peran serta Orang Tua, Keluarga/Kerabat dan/atau Masyarakat;  
-
-pemantauan dan Evaluasi;  
-
-pembinaan dan Pengawasan; dan
+Ruang lingkup Peraturan Daerah ini meliputi:  
+a. kewajiban dan Tanggungjawab Pemerintah Daerah;  
+b. hak Perempuan dan Anak;  
+c. peningkatan kualitas hidup Perempuan di Daerah;  
+d. perlindungan Perempuan;  
+e. kualitas keluarga;  
+f. pemenuhan hak Anak;  
+g. perlindungan khusus Anak;  
+h. Sistem Data Gender dan Anak;  
+i. pendanaan;  
+j. peran serta Orang Tua, Keluarga/Kerabat dan/atau Masyarakat;  
+k. pemantauan dan Evaluasi;  
+l. pembinaan dan Pengawasan; dan  
 m. larangan dan sanksi.  
 
 # BAB II
 
-## KEWAJIBAN DAN TANGGUNGJAWAB
-
-## PEMERINTAH DAERAH
+## KEWAJIBAN DAN TANGGUNGJAWAB PEMERINTAH DAERAH
 
 Pasal Pemerintah Daerah bertanggungjawab dalam menjamin dan mengupayakan secara maksimal penghormatan terhadap Perempuan dan Anak sesuai dengan martabatnya tanpa membedakan suku, agama, ras, golongan, jenis kelamin, etnik, budaya dan bahasa, status hukum serta kondisi fisik dan mental.  
 1ll1- Pasal Pemerintah Daerah berkewajiban dan bertanggung-jawab dalam menyelenggarakan perlindungan Perempuan dan Anak di Daerah.  
