@@ -1,12 +1,18 @@
-# BUPATI ENREKANG PROVINSI SULAWESI SELATAN
+# PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# PERATURAN DAERAH KABUPATEN ENREKANG NOMOR 1 TAHUN 2018
+BUPATI ENREKANG PROVINSI SULAWESI SELATAN
 
-# TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK
+# PERATURAN DAERAH KABUPATEN ENREKANG 
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+NOMOR 1 TAHUN 2018  
 
-# BUPATI ENREKANG.  
+TENTANG  
+
+PERLINDUNGAN PEREMPUAN DAN ANAK  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI ENREKANG.  
 
 Menimbang:  
  
@@ -29,8 +35,8 @@ Mengingat:
  
  
  
-1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);  
-
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);  
 3. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019);  
 4. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 5. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi terhadap wanita (Convention on the Elimination of All Forms of Discrimination Again s Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
@@ -43,15 +49,22 @@ Mengingat:
 12. Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063);  
 13. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
 14. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
-15. Peraturan Presiden Nomor 18 Tahun 2014 tentang Perlindungan Perempuan dan Anak Dalam Konflik Sosial (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 44);  
+15. Peraturan Presiden Nomor 18 Tahun 2014 tentang Perlindungan Perempuan dan Anak Dalam Konflik Sosial (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 44);
+16. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 6 Tahun 2015 tentang Sistem Pemberdayaan Perempuan dan Perlindungan Anak (Berita UPD) Negara Republik Indonesia Tahun 2015 Nomor 615;  
+   
+Dengan Persetujuan Bersama  
 
-Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 6 Tahun 2015 tentang Sistem Pemberdayaan Perempuan dan Perlindungan Anak (Berita UPD) Negara Republik Indonesia Tahun 2015 Nomor 615; 2018 S32 Dengan Persetujuan Bersama  DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN ENREKANG  dan
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN ENREKANG  
 
-# BUPATI ENREKANG
+dan  
 
-# MEMUTUSKAN:
+BUPATI ENREKANG  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -59,8 +72,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Enrekang.  
 2. Pemerintah Daerah adalah Pemerintah Kabupaten Enrekang.  
 3. Bupati adalah Bupati Enrekang.  
@@ -88,7 +100,9 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 25. Rumah singgah adalah wadah pembinaan atau pelayanan kesejahteraan anak jalanan yang melaksanakan kegiatan pendampingan/bimbingan sosial, pemeliharaan, perawatan, pendidikan dan kesehatan, bimbingan keterampilan guna menjamin agar anak tidak melakukan aktifitas di jalanan sehingga dapat tumbuh kembang secara wajar.  
 26. Orang tua adalah ayah dan/atau ibu kandung, atau ayah dan/atau ibu angkat.  
 
-# BAB II ASAS, TUJUAN DAN RUANG LINGKUP
+# BAB II 
+
+## ASAS, TUJUAN DAN RUANG LINGKUP
 
 #### Pasal 2
 
@@ -166,7 +180,8 @@ Pemerintah Daerah
 
 #### Pasal 7
 
-1. Pemerintah Daerah dalam upaya perlindungan terhadap perempuan dan anak berkewajiban dan bertanggung jawab:a. menjamin hak perempuan dan anak tanpa diskriminasi sesuai peraturan perundang-undangan;  
+1. Pemerintah Daerah dalam upaya perlindungan terhadap perempuan dan anak berkewajiban dan bertanggung jawab:  
+a. menjamin hak perempuan dan anak tanpa diskriminasi sesuai peraturan perundang-undangan;  
 b. menetapkan dan melaksanakan kebijakan, program dan kegiatan perlindungan terhadap hak perempuan dan hak anak;  
 c. memberikan dukungan sarana, prasarana dalam penyelenggaraan perlindungan perempuan dan anak;  
 d. melakukan kerjasama dengan masyarakat dan/atau organisasi kemasyarakatan dalam penyelenggaraan perlindungan perempuan dan anak sesuai peraturan perundang-undangan;  
@@ -195,7 +210,8 @@ c. mengawasi proses penegakan hukum terhadap kasus pelanggaran hak perempuan dan
 
 #### Pasal 10
 
-1. Orang tua/wali dalam upaya perlindungan terhadap hak anak berkewajiban dan  bertanggung jawab:a. mengasuh, memelihara, mendidik dan melindungi anak;  
+1. Orang tua/wali dalam upaya perlindungan terhadap hak anak berkewajiban dan  bertanggung jawab:  
+a. mengasuh, memelihara, mendidik dan melindungi anak;  
 b. menumbuh kembangkan anak sesuai dengan kemampuan, bakat dan minatnya;  
 c. memberikan pendidikan formal dan non formal;  
 d. membimbing anak berprilaku sesuai dengan agama, etika dan moral serta adat istiadat; dan  
@@ -248,7 +264,8 @@ e. menguatkan peran serta masyarakat dalam pemulihan dan reintegrasi sosial.
 #### Pasal 14
 
 Orang tua/wali, dan/atau keluarga melakukan pencegahan terhadap pelanggaran hak perempuan dan anak dengan cara:  
-a. melindungi perempuan dan anak dari berbagai tindak pelanggaran hak perempuan dan anak dalam rumah tangga.  b. mengawasi perempuan dan anak dalam beraktivitas di dalam ataupun di luar rumah; dan  
+a. melindungi perempuan dan anak dari berbagai tindak pelanggaran hak perempuan dan anak dalam rumah tangga.  
+b. mengawasi perempuan dan anak dalam beraktivitas di dalam ataupun di luar rumah; dan  
 c. memberikan peluang bagi perempuan dan anak berdialog menyampaikan pendapat secara demokratis.  
 
 # BAB VI PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
@@ -348,7 +365,8 @@ Anak yang berhadapan dengan hukum, anak yang mengalami kehamilan di luar pernika
 #### Pasal 26
 
 Bagi anak berusia 7 (tujuh) sampai dengan kurang dari 15 (lima belas) tahun yang belum menyelesaikan pendidikan formalnya dapat menempuh pendidikan melalui satuan pendidikan informal:  
-a. kelompok belajar paket A setara Sekolah Dasar dan Madrasah Ibtidaiyah; ataub. kelompok belajar paket B setara Sekolah Menengah Pertama dan Madrasah Tsanawiyah;  
+a. kelompok belajar paket A setara Sekolah Dasar dan Madrasah Ibtidaiyah; atau  
+b. kelompok belajar paket B setara Sekolah Menengah Pertama dan Madrasah Tsanawiyah;  
 
 #### Pasal 27
 
@@ -368,9 +386,10 @@ Pemerintah wajib melindungi anak dalam lingkungan sekolah dari tindakan kekerasa
 #### Pasal 30
 
 1. Penyelenggara pendidikan melengkapi sekolah yang dipimpinanya dengan fasilitas responsive gender.  
-2. Fasilitas responsive gender sebagaimana yang dimaksud pada ayat (1) meliputi:a. toilet/WC laki-laki dan perempuan dipisahkan serta antara guru dan murid;  
+2. Fasilitas responsive gender sebagaimana yang dimaksud pada ayat (1) meliputi:  
+a. toilet/WC laki-laki dan perempuan dipisahkan serta antara guru dan murid;  
 b. meja guru dan meja siswa dilengkapi penutup.  
-3. Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan sesuai kemampuan keuangan daerah.  
+4. Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan sesuai kemampuan keuangan daerah.  
 
 ### Paragraf 3
 
@@ -379,8 +398,10 @@ Ketenagakerjaan
 #### Pasal 31
 
 1. Setiap orang dilarang mempekerjakan dan melibatkan anak pada pekerjaan yang terburuk.  
-2. Pekerjaan yang terburuk sebagaimana dimaksud pada ayat (1) meliputi:a. pekerjaan dalam bentuk perbudakan atau sejenisnya;  
-b. pekerjaan yang memanfaatkan, menyediakan atau menawarkan anak untuk pelacuran, produksi pornografi, pertunjukan porno atau perjudiaan.  c. pekerjaan yang memanfaatkan, menyediakan, atau melibatkan anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya; dan/ataud. pekerjaan yang membahayakan kesehatan, keselamatan dan moral anak.  
+2. Pekerjaan yang terburuk sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pekerjaan dalam bentuk perbudakan atau sejenisnya;  
+b. pekerjaan yang memanfaatkan, menyediakan atau menawarkan anak untuk pelacuran, produksi pornografi, pertunjukan porno atau perjudiaan.  
+c. pekerjaan yang memanfaatkan, menyediakan, atau melibatkan anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya; dan/ataud. pekerjaan yang membahayakan kesehatan, keselamatan dan moral anak.  
 
 ### Paragraf 4
 
@@ -419,33 +440,36 @@ Bentuk pelayanan yang diberikan kepada perempuan dan anak korban kekerasan sebag
 a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
-d. bantuan hukum, dane. pemulangan dan reintegrasi sosial.  
+d. bantuan hukum, dan  
+e. pemulangan dan reintegrasi sosial.  
 
 ## Bagian Kedua Pelayanan Pengaduan
 
 #### Pasal 37
 
 1. Pelaksanaan pelayanan pengaduan sebagaimana dimaksud dalam Pasal 36 huruf a dilaksanakan melalui pelayanan terpadu.  
-2. Pelayanan terpadu bagi perempuan dan anak korban kekerasan menggunakan prinsip:a. cepat, tanggap, aman, empati;  
+2. Pelayanan terpadu bagi perempuan dan anak korban kekerasan menggunakan prinsip:  
+a. cepat, tanggap, aman, empati;  
 b. responsive gender;  
 c. non diskriminasi;  
 d. mudah dijangkau;  
-e. adanya jaminan kerahasiaan, danf. tanpa dipungut biaya dari korban.  
+e. adanya jaminan kerahasiaan, dan  
+f. tanpa dipungut biaya dari korban.  
 
 #### Pasal 38
 
 1. Pengaduan tindak kekerasan terhadap perempuan dan anak dapat dilakukan oleh pelapor yang terdiri atas korban, keluarga, masyarakat dan/atau organisasi kemasyarakatan di bidang perlindungan perempuan dan anak.  
 2. Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan pengaduan;  
 a. secara langsung;  
-b. melalui telepon/ short message service; atauc. melalui surat/ elektroni mail.  
+b. melalui telepon/ short message service; atau  
+c. melalui surat/ elektroni mail.  
 
 #### Pasal 39
 
 Pelayanan penanganan pengaduan korban kekerasan terhadap perempuan dan anak dilaksanakan oleh:  
 a. Rumah Sakit;  
 b. Pusat Kesehatan Masyarakat;  
-
-##### P2TP2A,  
+c. P2TP2A,  
 d. Kepolisian;  
 e. Kantor Urusan Agama;  
 f. Lembaga Bantuan Hukum;  
@@ -479,20 +503,24 @@ Rehabilitasi Sosial
 
 1. Pelayanan Rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan ditujukan untuk memulihkan dan mengembangkan kemampuan korban yang mengalami disfungsi sosial untuk dapat melaksanakan fungsi sosialnya dalam masyarakat secara wajar.  
 2. Pelayanan Rehabilitasi Sosial sebagaimana dimaksud pada ayat (1) meliputi pelayanan konseling dan bimbingan rohani.  
-3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:a. PD yang mempunyai tugas dan fungsi di bidang sosial; dan  
+3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:  
+a. PD yang mempunyai tugas dan fungsi di bidang sosial; dan  
 b. lembaga penanganan pelayanan.  
 
 #### Pasal 43
 
-1. Pelayanan konseling sebagaimana dimaksud dalam Pasal 42 ayat (2) bertujuan:a. membantu korban mengenai permasalahan dan menemukan cara yang efektif untuk mengatasinya sendiri;  
+1. Pelayanan konseling sebagaimana dimaksud dalam Pasal 42 ayat (2) bertujuan:  
+a. membantu korban mengenai permasalahan dan menemukan cara yang efektif untuk mengatasinya sendiri;  
 b. memberdayakan korban untuk menentukan masa depannya;  
 c. memberikan dukungan moral bagi korban dalam menghadapi proses yang dijalaniya; dan  
 d. membuat korban merasa diterima di lingkungan masyarakat.  
-2. Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsif gender, terdiri atas:a. Konselor;  
+2. Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsif gender, terdiri atas:  
+a. Konselor;  
 b. Psikolog; dan  
 c. Psik iater.  
 3. Pelayanan konseling dilakukan di tempat yang menjamin rasa aman, nyaman dan kerahasiaan informasi dari korban.  
-4. Tahapan pelayanan konseling meliputi:a. konseling awal; dan  
+4. Tahapan pelayanan konseling meliputi:  
+a. konseling awal; dan  
 b. konseling lanjutan.  
 
 #### Pasal 44
@@ -500,15 +528,20 @@ b. konseling lanjutan.
 1. Pemerintah Daerah bertanggungjawab memfasilitasi ketersediaan rumah aman bagi perempuan dan anak korban kekerasan.  
 2. Rumah aman bertujuan untuk melindungi perempuan dan anak korban kekerasan dari intimidasi pelaku dan pihak lain.  
 3. Lokasi rumah aman sebagaimana dimaksud pada ayat (1) harus dirahasiakan.  
-4. Kriteria perempuan dan anak korban kekerasan yang memerlukan rumah aman meliputi:a. terancam jiwanya;  
+4. Kriteria perempuan dan anak korban kekerasan yang memerlukan rumah aman meliputi:  
+a. terancam jiwanya;  
 b. mendapatkan penolakan dari keluarga atau masyarakat;  
-c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh; dan/ataud. terlantar jika tidak ditempatkan dalam rumah aman.  
+c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh; dan/atau  
+d. terlantar jika tidak ditempatkan dalam rumah aman.  
 
 #### Pasal 45
 
 1. Terhadap perempuan dan anak korban kekerasan diberikan bimbingan rohani yang ditujukan untuk pemulihan kejiwaan.  
-2. Bimbingan rohani sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:a. tidak memaksakan agama dan keyakinan apapun; dan  
-b. menyerahkan putusan akhir ditangan korban/self determination (3) Bimbingan rohani dilakukan oleh petugas bimbingan rohani (4) Petugas bimbingan rohani sebagaimana dimaksud pada ayat (3) terdiri dari Konsultan Badan Penasehatan, Pembinaan dan Pelestarian Perkawinan (BP4), Petugas Kantor Urusan Agama (KUA), Ustad/Ulama, Pastor, Pendeta dan pemuka agama lainnya yang responsif gender.  
+2. Bimbingan rohani sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:  
+a. tidak memaksakan agama dan keyakinan apapun; dan  
+b. menyerahkan putusan akhir ditangan korban/self determination.  
+3. Bimbingan rohani dilakukan oleh petugas bimbingan rohani.  
+4.  Petugas bimbingan rohani sebagaimana dimaksud pada ayat (3) terdiri dari Konsultan Badan Penasehatan, Pembinaan dan Pelestarian Perkawinan (BP4), Petugas Kantor Urusan Agama (KUA), Ustad/Ulama, Pastor, Pendeta dan pemuka agama lainnya yang responsif gender.  
 
 ## Bagian Kelima
 
@@ -517,7 +550,8 @@ Bantuan Hukum
 #### Pasal 46
 
 1. Bantuan hukum sebagaimana dimaksud dalam Pasal 36 huruf d ditujukan untuk memberikan pendampingan dan perlindungan terhadap perempuan dan anak korban kekerasan dan saksi dengan pendekatan responsive gender agar korban mendapatkan keadilan dan kepastian hak hukumnya.  
-2. Jenis pelayanan bantuan hukum meliputi:a. bantuan hukum dalam proses pelaporan dan pembuatan Berita Acara Pemeriksaan;  
+2. Jenis pelayanan bantuan hukum meliputi:  
+a. bantuan hukum dalam proses pelaporan dan pembuatan Berita Acara Pemeriksaan;  
 b. bantuan hukum dalam proses penuntutan di Kejaksaan;  
 c. bantuan hukum dalam proses pemeriksaan di Pengadilan;  
 d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan yang berkekuatan hukum tetap;  
@@ -543,7 +577,9 @@ Pelayanan Pemulangan dan Reintegrasi Sosial
 #### Pasal 48
 
 1. Penyelenggaraan Perlindungan Perempuan dan Anak dilakukan oleh Pemerintah Daerah.  
-2. Penyelenggaraan Perlindungan Perempuan dan Anak oleh Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan oleh:a. P2TP2A, UPTb. LK3; dan  
+2. Penyelenggaraan Perlindungan Perempuan dan Anak oleh Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan oleh:  
+a. P2TP2A, UPT  
+b. LK3; dan  
 c. Satgas PPA.  
 
 ## Bagian Kesatu
@@ -562,7 +598,8 @@ c. Satgas PPA.
 #### Pasal 50
 
 1. Pelayanan LK3 sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf b, merupakan pelayanan kepada keluarga yang mengalami masalah psikososial.  
-2. Jenis pelayanan LK3 sebagaimana dimaksud pada ayat (1), terdiri atas:a. konsultasi;  
+2. Jenis pelayanan LK3 sebagaimana dimaksud pada ayat (1), terdiri atas:  
+a. konsultasi;  
 b. konseling;  
 c. informasi;  
 d. advokasi;  
@@ -572,12 +609,12 @@ f. penjangkauan.
 
 #### Pasal 51
 
-4. Pemerintah Daerah memfasilitasi terbentuknya Forum anak pada tingkat kabupaten, kecamatan, dan desa/kelurahan.  
-5. Forum anak sebagaimana dimaksud pada ayat (1) merupakan representasi anak di Daerah, baik representasi domisili geografis anak, komponen kelompok sosial budaya anak, dan latar belakang pendidikan anak.  
-6. Dalam setiap penyusunan kebijakan yang terkait dengan anak, Pemerintah Daerah harus memperhatikan dan mengakomodasi pendapat anak yang disampaikan melalui Forum anak.  
-7. Pembentukan Forum anak sebagaimana dimaksud pada ayat (1) pada tingkat kabupaten ditetapkan dengan Keputusan Bupati.  
-8. Pembentukan Forum anak sebagaimana dimaksud pada ayat (1) pada tingkat kecamatan ditetapkan oleh Camat.  
-9. Pembentukan Forum anak sebagaimana dimaksud pada ayat (1) pada tingkat Desa ditetapkan dengan Keputusan Kepala Desa dan pada tingkat Kelurahan ditetapkan oleh Lurah.  
+1. Pemerintah Daerah memfasilitasi terbentuknya Forum anak pada tingkat kabupaten, kecamatan, dan desa/kelurahan.  
+2. Forum anak sebagaimana dimaksud pada ayat (1) merupakan representasi anak di Daerah, baik representasi domisili geografis anak, komponen kelompok sosial budaya anak, dan latar belakang pendidikan anak.  
+3. Dalam setiap penyusunan kebijakan yang terkait dengan anak, Pemerintah Daerah harus memperhatikan dan mengakomodasi pendapat anak yang disampaikan melalui Forum anak.  
+4. Pembentukan Forum anak sebagaimana dimaksud pada ayat (1) pada tingkat kabupaten ditetapkan dengan Keputusan Bupati.  
+5. Pembentukan Forum anak sebagaimana dimaksud pada ayat (1) pada tingkat kecamatan ditetapkan oleh Camat.  
+6. Pembentukan Forum anak sebagaimana dimaksud pada ayat (1) pada tingkat Desa ditetapkan dengan Keputusan Kepala Desa dan pada tingkat Kelurahan ditetapkan oleh Lurah.  
 
 ## Bagian Ketiga
 
@@ -587,7 +624,8 @@ Satgas PPA
 
 1. Dalam rangka efektifitas pelaksanaan Perlindungan Perempuan dan Anak, Pemerintah Daerah membentuk Satuan Tugas.  
 3. Satuan Tugas sebagaimana dimaksud pada ayat (1) mempunyai tugas membantu PD yang menangani pemberdayaan perempuan dan perlindungan anak untuk menangani masalah perempuan dan anak.  
-4. Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1), satuan tugas mempunyai fungsi:a. melakukan penjangkauan terhadap perempuan dan anak yang mengalami permasalahan;  
+4. Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1), satuan tugas mempunyai fungsi:  
+a. melakukan penjangkauan terhadap perempuan dan anak yang mengalami permasalahan;  
 b. melakukan identifikasi kondisi dan layanan yang dibutuhkan perempuan dan anak yang mengalami permasalahan;  
 c. melindungi perempuan dan anak di lokasi kejadian dari hal yang dapat membahayakan dirinya;  
 d. menempatkan dan mengungsikan perempuan dan anak yang mengalami permasalahan;  
@@ -596,7 +634,9 @@ e. melakukan rekomendasi kepada organisasi layanan perempuan dan anak yang diben
 6. Pembentukan Satuan Tugas ditetapkan dengan Keputusan Bupati.  
 7. Ketentuan lebih lanjut mengenai struktur organisasi, tata cara pembentukan dan mekanisme kerja di atur dengan Peraturan Bupati.  
 
-# BAB IX KERJA SAMA DAN KEMITRAAN
+# BAB IX 
+
+KERJA SAMA DAN KEMITRAAN
 
 ## Bagian Kesatu
 
@@ -604,11 +644,13 @@ Kerja sama
 
 #### Pasal 53
 
-1. Dalam rangka mencapai tujuan Perlindungan Perempuan dan Anak, dapat dilakukan kerjasama dengan:a. pemerintah pusat;  
+1. Dalam rangka mencapai tujuan Perlindungan Perempuan dan Anak, dapat dilakukan kerjasama dengan:  
+a. pemerintah pusat;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/kota lain; dan  
 d. lembaga non pemerintah.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:a. penyampaian data dan informasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. penyampaian data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dan  
 d. penyediaan barang bukti dan saksi.  
@@ -620,23 +662,29 @@ Kemitraan
 #### Pasal 54
 
 1. Pemerintah Daerah dapat membentuk kemitraan dengan dunia usaha dalam perlindungan perempuan dan anak dari tindak kekerasan.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. sistem informasi kesempatan kerja bagi perempuan korban tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. sistem informasi kesempatan kerja bagi perempuan korban tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dan  
 d. mennubuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan;  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk Perjanjian Kerjasama.  
 
-# BAB X PEMBINAAN DAN PENGAWASAN
+# BAB X 
+
+PEMBINAAN DAN PENGAWASAN
 
 #### Pasal 55
 
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan penyelenggaraan Perlindungan Perempuan dan Anak yang dilaksanakan oleh masyarakat dan lembaga kemasyarakatan.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:a. pedoman dan standar pemenuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan;  
 e. evaluasi; dan  
-f. pelaporan (3) Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan dengan prinsip:a. profesional;  
+f. pelaporan.  
+3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan dengan prinsip:  
+a. profesional;  
 b. transparan; dan  
 c. akuntabel.  
 
@@ -650,12 +698,14 @@ Koordinasi
 
 #### Pasal 56
 
-1. Koordinasi PD meliputi:a. rujukan layanan kesehatan kepada korban;  
+1. Koordinasi PD meliputi:  
+a. rujukan layanan kesehatan kepada korban;  
 b. bantuan hukum;  
 c. pemulangan korban perdagangan perempuan dan anak;  
 d. reintegrasi sosial; dan  
 e. pengembangan bentuk Perlindungan Perempuan dan Anak.  
-2. Pengembangan bentuk perlindungan sebagaimana dimaksud pada ayat (1) huruf e meliputi:a. proses mediasi kasus Kekerasan Dalam Rumah Tangga;  
+2. Pengembangan bentuk perlindungan sebagaimana dimaksud pada ayat (1) huruf e meliputi:  
+a. proses mediasi kasus Kekerasan Dalam Rumah Tangga;  
 b. pendampingan orang dengan HIV/AIDS (ODHA) dan orang hidup dengan HIV/AIDS (OHIDHA);  
 c. pendampingan korban perdagangan orang;  
 d. anak korban dan eksploitasi seksual atau eksploitasi lainnya; dan  
@@ -681,7 +731,8 @@ Evaluasi
 #### Pasal 59
 
 1. Masyarakat dan swasta berperan serta membantu upaya perlindungan perempuan dan anak dari segala bentuk kekerasan, eksplotasi dan diskriminasi.  
-2. Bentuk peran serta masyarakat dan sektor swasta sebagaimana dimaksud pada ayat (1) dapat berupa:a. membentuk mitra keluarga di tingkat Kelurahan/Desa oleh masyarakat;  
+2. Bentuk peran serta masyarakat dan sektor swasta sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. membentuk mitra keluarga di tingkat Kelurahan/Desa oleh masyarakat;  
 b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 c. melaporkan atau memberi informasi peristiwa kekerasan, eksplotasi dan diskriminasi yang dialami perempuan dan anak;  
 d. menyediakan rumah aman dan rumah singgah;  
@@ -709,7 +760,8 @@ b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.
 #### Pasal 62
 
 1. Setiap orang atau Lembaga yang melaksanakan tugas pelayanan penanganan pengaduan korban kekerasan terhadap perempuan dan anak yang melanggar prinsip pelayanan sebagaimana dimaksud dalam Pasal 37 ayat (2) dikenakan sanksi administratif.  
-2. Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:a. teguran lisan;  
+2. Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:  
+a. teguran lisan;  
 b. teguran tertulis;  
 c. pencabutan izin sementara; ataud. pencabutan izin.  
 3. Pencabutan izin sementara sebagaimana dimaksud pada ayat (2) huruf c dilakukan setelah peringatan tertulis selama 3 (tiga) kali berturut-turut dengan tenggang waktu selama 7 (tujuh) hari kerja.  
@@ -735,9 +787,9 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Enrekang.  
 
-Diundangkan di Enrekang pada tanggal
+Diundangkan di Enrekang pada tanggal  
 
-##### SEKRETARIS DAERAH KABUPATEN ENREKANG.  
+SEKRETARIS DAERAH KABUPATEN ENREKANG.  
 
 CHAIRUL LATANRO LEMBARAN DAERAH KABUPATEN ENREKANG TAHUN 2018 NOMOR NOREG PERATURAN DAERAH KABUPATEN ENREKANG PROVINSI SULAWESI SELATAN NOMOR B.HK.HAM.7.098.18 NOREG PERATURAN DAERAH KABUPATEN ENREKANG PROVINSI SULAWESI SELATAN NOMOR B.HK.HAM.7.098.18
 
@@ -749,4 +801,4 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Enrekang.  
 
-Ditetapkan di Enrekang pada tanggal 13 SEPTEMBER 2018 BUPATI ENREKANG, Diundangkan di Enrekang pada tanggal 13 September 2018 SEKRETARIS DAERAH KABUPATEN ENREKANG, CHAIRUL LATANRO LEMBARAN DAERAH KABUPATEN ENREKANG TAHUN 2018 NOMOR 7 NOREG PERATURAN DAERAH KABUPATEN ENREKANG PROVINSI SULAWESI SELATAN NOMOR B.HK.HAM.7.098.18
+Ditetapkan di Enrekang pada tanggal 13 SEPTEMBER 2018 BUPATI ENREKANG, Diundangkan di Enrekang pada tanggal 13 September 2018 SEKRETARIS DAERAH KABUPATEN ENREKANG, CHAIRUL LATANRO LEMBARAN DAERAH KABUPATEN ENREKANG TAHUN 2018 NOMOR 7 NOREG PERATURAN DAERAH KABUPATEN ENREKANG PROVINSI SULAWESI SELATAN NOMOR B.HK.HAM.7.098.18  
