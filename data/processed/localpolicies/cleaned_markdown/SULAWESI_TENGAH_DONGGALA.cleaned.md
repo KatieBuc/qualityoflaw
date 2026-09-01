@@ -1,79 +1,66 @@
-Menimbang:
+# PERLINDUNGAN BAGI PEREMPUAN DAN ANAK
 
-# SALINAN
+SALINAN  
 
-# BUPATI DONGGALA
+BUPATI DONGGALA  
 
-# PROVINSI SULAWESI TENGAH
+PROVINSI SULAWESI TENGAH  
 
 # PERATURAN DAERAH KASUPATEN DONGGALA
 
-# NOMOR 5 TAHUN 2014
+NOMOR 5 TAHUN 2014  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN BAGI PEREMPUAN DAN ANAK
+PERLINDUNGAN BAGI PEREMPUAN DAN ANAK
 
-# DENGAN RAHMAT TUHAN YANG ]IIAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI DONGGALA"
+BUPATI DONGGALA,  
+
+Menimbang:  
+
 a. bahwa perempuan dan anak merupakan ciptaan Tuhan Yang Maha Esa yang meniadi unsur penting dari masyarakat dan bangsa Indonesia;  
 b. bahwa perempuan Indonesia mempunyai peran penting dalam kegiatan kemasyarakatan, pembangunan dan kekeluargaan serta berkewajiban memelihara, melindungi dan membesarkan anak anak bangsa lndonesia untuk tumbuh dan berkembang sebagai gensrasi penerus bangsa:c. bahwa anak-anak Indonesia merupakan sumber daya manusia Indonesia yang kelak akan menjadi pelaku dalam semua bidang kehidupan bermasyarakat dan bemegara;  
 d. bahwa dalam kehidupan masyarakat seringkali perempuan dan anak di Kabupaten Donggala mendapatkan kekerasan atau perlakuan yang kurang menyenangkan sehingga dipandang penting untuk melindunginya;  
-e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c. dan huruf d dibentuk Peraturan Daerah Mengingat:  
+e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c. dan huruf d dibentuk Peraturan Daerah Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  
  
  
  
  
  
  
- 
-1. 6.  
+Mengingat:  
 
-Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  
+1. Undang-Undang Nomor 29 Tahun 1959 Tentang Pembentukan daerah Tingkat lt Oi Sulawesi Oongggala (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik lndonesia Nomor 1822);
+2. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik lndonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Nomor 3143);
+3. Undang-Undang Nomor 6 Tahun 1974 tentang Ketentuan Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 1974 Nornor 53, Tambahan Lembaran Negara Republik Indonesia Nomor 3039);
+4. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (iembaran Negara Republik Indon€sia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);
+5. Undang-Undang Nomor 7 Tahun 1984 teniang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskriminasi terhadap Peremp uan (Convention on Th€ Himination of All Forms ol Discrimination Againts Women (Lembaran Negara Reoublik Indonesla Tahun '1984 Nomor 29' Tambahan Lembaran Negara Republik Indonesia Nomor 3668);
+6. Undang-Undang Nomor 20 Tahun 1999 tentang Pengesahan Konven'si ILO Nomor 138 mengsnai Usia Minimum Anak Dip€rbolehkan Bekeria (Lembaran Negata Republik lndonesia iahun 1999 Nomor 56, Tambahan Lembaran Negara Republik lndoneoia Nomor 3835);
+7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusl lLembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indones'a Nomor 3941);  
+8. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (temUaran Negara Repubtik Indonesia Tahun 2002 Nomor 109, iambahan Lembaran Negara Republik Indonesia Nomor 4235): Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);
+9. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik lndonesia Tahun 2004 Nomor '125, Tambahan Lembaran Negara Republik Indonesia Nomor t1437) sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor '12 Tahun 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran N€ara Republik Indonesia Nomor 4844);
+10. Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan
+11. Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 4635);
+12. Undang-Undang Nomor 21 Tahun 2007 tentang Pembetantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 472o)i Undang-Undang Nomor 12 Tahun 2011 lentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 201 1 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);
+13. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik lndonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 6,4);
+14. Peraturan Pemerinlah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan antara Pemerintah, Pemerintahan Daerah Provinsi, Dan Pemerintahan Daerah Kabupaten/Kola (Lombaran Negara Republik Indonesia Tahun 2007 Nomor 82; Tambahan Lembaran Negara Republik Indonesia Nomor 4737);
+15. Undang-Undang Nomor Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Republik Indonesia Negara Nomor 4419);
+16. Keputusan Presiden Nomor 33 Tahun 1990 tentang Pengesahan Konvensi Hak Anak;  
 
-Undang-Undang Nomor 29 Tahun 1959 Tentang Pembentukan daerah Tingkat lt Oi Sulawesi Oongggala (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik lndonesia Nomor 1822);  
+Dengan Persetujuan Bersama  
 
-Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik lndonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Nomor 3143);  
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN DONGGALA  
 
-Undang-Undang Nomor 6 Tahun 1974 tentang Ketentuan Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 1974 Nornor 53, Tambahan Lembaran Negara Republik Indonesia Nomor 3039) ' Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (iembaran Negara Republik Indon€sia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143): Undang-Undang Nomor 7 Tahun 1984 teniang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskriminasi terhadap Peremp uan (Convention on Th€ Himination of All Forms ol Disc minatbn Againts Womenl (Lembaran Negara Reoublik Indonesla Tahun '1984 Nomor 29' Tambahan Lembaran Negara Republik Indonesia Nomor 3668);  
+dan  
 
-Undang-Undang Nomor 20 Tahun 1999 tentang Pengesahan Konven'si ILO Nomor 138 mengsnai Usia Minimum Anak Dip€rbolehkan Bekeria (Lembaran Negata Republik lndonesia iahun 1999 Nomor 56, Tambahan Lembaran Negara Republik lndoneoia Nomor 3835);  
-
-Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusl lLembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indones'a Nomor 3941): Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (temUaran Negara Repubtik Indonesia Tahun 2002 Nomor 109, iambahan Lembaran Negara Republik Indonesia Nomor 4235): Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan
-
-9. Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);  
-
-Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan
-
-10. Daerah (Lembaran Negara Republik lndonesia Tahun 2004 Nomor '125, Tambahan Lembaran Negara Republik Indonesia Nomor t1437) sebagaimana telah diubah beberapa kali, terakhi!' dengan Undang-Undang Nomor '12 Tahun 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran N€ara Republik Indonesia Nomor 4844);  
-
-Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan
-
-11. Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 4635);  
-
-Undang-Undang Nomor 21 Tahun 2007 tentang
-
-12. Pembetantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 472o)i Undang-Undang Nomor 12 Tahun 2011 lentang Pembentukan
-13. Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 201 1 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);  
-
-Peraturan Pemerintah Nomor 4 Tahun 2006 tentang
-
-14. Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik lndonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 6,4);  
-
-Peraturan Pemerinlah Nomor 38 Tahun 2007 tentang
-
-15. Pembagian Urusan Pemerintahan antara Pemerintah, Pemerintahan Daerah Provinsi, Dan Pemerintahan Daerah Kabupaten/Kola (Lombaran Negara Republik Indonesia Tahun 2007 Nomor 82; Tambahan Lembaran Negara Republik Indonesia Nomor 4737);  
-16. Undang-Undang Nomor Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Republik Indonesia Negara Nomor 4419);  
-17. Keputusan Presiden Nomor 33 Tahun 1990 tentang Pengesahan Konvensi Hak Anak;  
-
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN DONGGALA dan
-
-# BUPATI DONGGALA'
+BUPATI DONGGALA  
 
 # MEMUTUSKAN:
 
-MenetaDkan: PERATURAT{ DAERAH KABUPATEN DONGGALATENTANG PERLINDUNGAN AAGI PEREMPUAN DAN ANAK.  
+Menetapkan:  
+PERATURAN DAERAH KABUPATEN DONGGALATENTANG PERLINDUNGAN BAGI PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -81,9 +68,8 @@ MenetaDkan: PERATURAT{ DAERAH KABUPATEN DONGGALATENTANG PERLINDUNGAN AAGI PEREMP
 
 #### Pasal I
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
-1. Buoati adalah Bupati Oonggala'
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
+1. Bupati adalah Bupati Donggala'
 2. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD' adalah lembaga perwakilan rakyal daerah Kabupaten Donggala sebagai unsur penyel€nggara pemerinlahan daerah.  
 3. Pemerintah Daerah adalah Bupati oonggala dan Perangkat Daerah sebagai unsur penyelenggara pemerintahan daerah.  
 4. Satuan Keria Perangkat Oaerah yang selanjutnya disingkat SKPD' adalah satuan kerja perangkat daerah Kabupaten Donggala yang membidangi kepentingan perempuan dan anak
