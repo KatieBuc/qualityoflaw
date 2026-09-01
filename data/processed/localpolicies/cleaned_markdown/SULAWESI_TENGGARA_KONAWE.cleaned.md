@@ -1,18 +1,20 @@
-# BUPATI KONAWE
+# PERLINDUNGAN ANAK DAN PEREMPUAN KORBAN KEKERASAN DI KABUPATEN KONAWE
 
-# PROVINSI SULAWESI TENGGARA
+BUPATI KONAWE  
+
+PROVINSI SULAWESI TENGGARA  
 
 # PERATURAN DAERAH KABUPATEN KONAWE
 
-# NOMOR: 12 TAHUN 2018
+NOMOR 12 TAHUN 2018  
 
-# TENTANG
+TENTANG  
 
-PERLINDUNGAN ANAK DAN PEREMPUAN KORBAN KEKERASAN  DI KABUPATEN KONAWE
+PERLINDUNGAN ANAK DAN PEREMPUAN KORBAN KEKERASAN DI KABUPATEN KONAWE  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI KONAWE,
+BUPATI KONAWE,  
 
 Menimbang:  
  
@@ -38,15 +40,11 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 29 Tahun 1959 tentang  Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);  
-3. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor
-3143. ;  
+3. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143;  
 4. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita [Convention on the Elimination of all Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
-5. Undang-Undang Nomor 39 Tahun 1999 tentang  Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor
-3886. ;  
-6. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor
-4235. ;  
+5. Undang-Undang Nomor 39 Tahun 1999 tentang  Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886;  
+6. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235;  
 7. Undang-Undang Nomor 23 Tahun 2004 tentang  2 Penghapusan Kekerasan Dalam Rumah Tangga  (Lembaran Negara Republik Indonesia Tahun 2004  Nomor 95, Tambahan Lembaran Negara Republik  Indonesia Nomor 4419);  
 8. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Saksi dan Korban (Lembaran Negara  Republik Indonesia Tahun 2006 Nomor 64,  Tambahan Lembaran Negara Republik Indonesia  Nomor 4635);  
 9. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007  Nomor 58, Tambahan Lembaran Negara Republik  Indonesia Nomor 4720);  
@@ -59,13 +57,19 @@ Mengingat:
 16. Peraturan Menteri Negara Pemberdayaan  Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal (SPM) dan Layanan Terpadu Bagi Perempuan dan Anak Korban Kekerasan (Berita Negara Republik Indonesia Tahun 2010 Nomor 56);  
 17. Peraturan Menteri Negara Pemberdayaan  Perempuan dan Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN KONAWE  dan
+Dengan Persetujuan Bersama  
 
-# BUPATI KONAWE
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN KONAWE  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH KABUPATEN KONAWE  TENTANG PERLINDUNGAN ANAK DAN PEREMPUAN  KORBAN KEKERASAN DI KABUPATEN KONAWE
+BUPATI KONAWE  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH KABUPATEN KONAWE  TENTANG PERLINDUNGAN ANAK DAN PEREMPUAN  KORBAN KEKERASAN DI KABUPATEN KONAWE
 
 # BAB I
 
@@ -73,9 +77,10 @@ Menetapkan: PERATURAN DAERAH KABUPATEN KONAWE  TENTANG PERLINDUNGAN ANAK DAN PER
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:  1. Daerah adalah Kabupaten Konawe.  
-
-2. Pemerintah Daerah adalah Pemerintah Kabupaten Konawe.  3. Bupati adalah Bupati Konawe.  
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
+1. Daerah adalah Kabupaten Konawe.  
+2. Pemerintah Daerah adalah Pemerintah Kabupaten Konawe.  
+3. Bupati adalah Bupati Konawe.  
 4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat  DPRD adalah Dewan Perwakilan Rakyat Daerah Kabupaten  Konawe.  
 5. Perlindungan adalah segala upaya yang ditujukan untuk  memberikan rasa aman kepada korban yang dilakukan oleh  pihak keluarga, advokat, lembaga sosial, kepolisian, kejaksaan,  pengadilan, atau pihak lainnya baik sementara maupun  berdasarkan penetapan pengadilan.  
 6. Anak adalah seseorang yang belum berusia 18 (delapan belas)  tahun, termasuk anak yang ada dalam kandungan.  
@@ -93,9 +98,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:  1. Daerah adalah Kabupaten Ko
 18. Orang tua adalah ayah dan/ atau ibu kandung, atau ayah dan/  atau ibu tiri, atau ayah dan/ atau ibu angkat.  
 19. Pelayanan adalah kegiatan dan tindakan segera yang dilakukan  oleh tenaga Profesional sesuai dengan profesi masing-masing  berupa konseling, terapi dan advokasi guna penguatan dan  pemulihan korban kekerasan.  
 20. Pendampingan adalah segala tindakan berupa konseling, terapi  psikologis, advokasi, dan bimbingan rohani, guna penguatan diri  korban kekerasan untuk menyelesaikan permasalahan yang  dihadapi.  
-
-21 . Pemulangan adalah upaya pengembalian anak dan perempuan  korban kekerasan kepada pihak keluarga, keluarga pengganti,  atau masyarakat yang dapat memberikan perlindungan dan  pemenuhan kebutuhannya.  
-
+21. Pemulangan adalah upaya pengembalian anak dan perempuan  korban kekerasan kepada pihak keluarga, keluarga pengganti,  atau masyarakat yang dapat memberikan perlindungan dan  pemenuhan kebutuhannya.  
 22. Rehabilitasi adalah pemulihan dari gangguan terhadap kondisi  fisik, psikis, dan sosial agar dapat melaksanakan perannya  kembali secara wajar baik dalam keluarga maupun dalam  masyarakat.  
 23. Reintegrasi Sosial adalah upaya untuk menyatukan kembali  korban kepada pihak keluarga, atau pengganti keluarga,  masyarakat, lembaga, atau lingkungan sosial lainnya yang dapat  memberikan perlindungan dan pemenuhan kebutuhan bagi  korban.  
 24. Lembaga adalah instansi/dinas/badan/kantor dalam lingkup  pemerintah daerah dan/atau lembaga swadaya masyarakat yang  melakukan pendampingan.  
@@ -103,7 +106,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:  1. Daerah adalah Kabupaten Ko
 26. Rencana Aksi Daerah adalah merupakan landasan dan pedoman  bagi dinas terkait, instansi vertikal, dan masyarakat, dalam  rangka melaksanakan kegiatan penyelenggaraan pencegahan dan  perlindungan terhadap perempuan dan anak korban kekerasan.  
 27. Rumah Aman adalah tempat tinggal sementara, yang diberikan  untuk memberikan perlindungan terhadap korban sesuai dengan  standar yang telah ditentukan.  
 
-# BAB I I
+# BAB II
 
 ## ASAS DAN TUJUAN
 
@@ -117,13 +120,15 @@ d. perlindungan korban;
 
 #### Pasal 3
 
-1. Tujuan penyelenggaraan perlindungan anak dan perempuan  korban kekerasan, adalah untuk:a. mencegah kekerasan terhadap anak dan perempuan;  
+1. Tujuan penyelenggaraan perlindungan anak dan perempuan  korban kekerasan, adalah untuk:  
+a. mencegah kekerasan terhadap anak dan perempuan;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap  anak dan perempuan;  
 c. melindungi dan memberikan rasa aman bagi anak dan  perempuan;  
 d. memberikan pelayanan kepada anak dan perempuan korban  kekerasan, pelapor, dan saksi; dan  
 e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah  tangga untuk mewujudkan keutuhan rumah tangga yang  harmonis dan sejahtera.  
-2. Tujuan penyelenggaraan perlindungan anak dan perempuan  korban kekerasan sebagaimana dimaksud pada ayat (1), meliputi  aspek:a. pencegahan;  
-h. pelayanan dan pendampingan;  
+2. Tujuan penyelenggaraan perlindungan anak dan perempuan  korban kekerasan sebagaimana dimaksud pada ayat (1), meliputi  aspek:  
+a. pencegahan;  
+b. pelayanan dan pendampingan;  
 c. reunifikasi; dan  
 d. pemberdayaan.  
 
@@ -133,7 +138,8 @@ d. pemberdayaan.
 
 #### Pasal 4
 
-Bentuk-bentuk kekerasan terhadap anak dan perempuan berupa:  a. kekerasan fisik;  
+Bentuk-bentuk kekerasan terhadap anak dan perempuan berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran; dan  
@@ -152,20 +158,23 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b  disebabkan karena p
 Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c  disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
-c. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan atau tujuan tertentu.  
+c. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/atau  
+d. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan atau tujuan tertentu.  
 
 #### Pasal 8
 
 Penelantaran sebagaimana dimaksud dalam Pasal 4 bumf d  disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupun sosial yang  dilakukan oleh orang tua, wali, atau pihak lain maupun yang  bertanggung jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
-c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian ia wajib memberikan  penghidupan, perawatan, atau pemeliharaan kepada orang tersebut;  dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan  cara membatasi dan/atau melarang untuk bekerja yang layak di  dalam atau di luar rumah sehingga korban berada di bawah kendali  orang tersebut.  
+c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian ia wajib memberikan  penghidupan, perawatan, atau pemeliharaan kepada orang tersebut;  dan/atau  
+d. perbuatan yang mengakibatkan ketergantungan ekonomi dengan  cara membatasi dan/atau melarang untuk bekerja yang layak di  dalam atau di luar rumah sehingga korban berada di bawah kendali  orang tersebut.  
 
 #### Pasal 9
 
 Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e disebabkan  karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
-b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan  paksa, perbudakan atau praktek serupa, penindasan, pemerasan,  pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan  hukum memindahkan atau mentransplantasi organ dan/atau  jaringan tubuh atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan keuntungan baik  materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh  lain dari korban untuk mendapatkan keuntungan, termasuk tetapi  tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
+b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan  paksa, perbudakan atau praktek serupa, penindasan, pemerasan,  pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan  hukum memindahkan atau mentransplantasi organ dan/atau  jaringan tubuh atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan keuntungan baik  materiil maupun immateriil; dan/atau  
+c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh  lain dari korban untuk mendapatkan keuntungan, termasuk tetapi  tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
 # BAB IV
 
@@ -184,7 +193,8 @@ g. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota  keluarga m
 
 #### Pasal 11
 
-Anak korban kekerasan, selain mendapat hak sebagaimana dimaksud  dalam Pasal 10, juga mendapatkan hak khusus sebagai berikut:  a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
+Anak korban kekerasan, selain mendapat hak sebagaimana dimaksud  dalam Pasal 10, juga mendapatkan hak khusus sebagai berikut:  
+a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dan  
@@ -203,7 +213,8 @@ c. keluarga dan orangtua.
 
 #### Pasal 13
 
-1. Pemerintah Daerah melaksanakan upaya perlindungan anak dan  perempuan korban kekerasan melalui:a. melaksanakan kebijakan perlindungan terhadap anak dan  perempuan korban kekerasan yang diterapkan oleh  pemerintah;  
+1. Pemerintah Daerah melaksanakan upaya perlindungan anak dan  perempuan korban kekerasan melalui:  
+a. melaksanakan kebijakan perlindungan terhadap anak dan  perempuan korban kekerasan yang diterapkan oleh  pemerintah;  
 b. menetapkan kebijakan, program, dan kegiatan perlindungan  terhadap anak dan perempuan korban kekerasan;  
 c. pembentukan PPT;  
 d. menjamin terlaksananya kemudahan pelayanan kepada  korban;  
@@ -216,10 +227,12 @@ f. mengupayakan terciptanya kerjasama dan koordinasi dalam  upaya pemulihan korb
 #### Pasal 14
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud  dalam Pasal 11 huruf b, diselenggarakan dalam bentuk peran serta  masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat  (1) , meliputi:a. membentuk mitra keluarga di tingkat kelurahan;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat  (1) , meliputi:  
+a. membentuk mitra keluarga di tingkat kelurahan;  
 b. membentuk unit perlindungan anak dan perempuan di dalam  organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak anak dan hak perempuan secara  mandiri;  
-d. melakukan pertolongan pertama kepada korban; dan  e. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan oleh perorangan, lembaga sosial kemasyarakatan,  lembaga swadaya masyarakat, lembaga pendidikan, lembaga  keagamaan, swasta, dan media massa.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat  (2) , dilaksanakan secara bertanggungjawab sesuai dengan  ketentuan peraturan perundang-undangan.  
 
@@ -243,8 +256,10 @@ Kelembagaan
 4. Penyelenggaraan pelayanan terhadap korban dilakukan secara  terpadu oleh PPT.  
 5. PPT sebagaimana dimaksud pada ayat (4) dapat menerima dan  mengirim rujukan kasus dari atau kepada unit pelayanan lainnya  secara berjejaring.  
 6. PPT memberikan pelayanan dan perlindungan sementara berupa  rumah aman.  
-7. Dalam hal PPT belum memiliki rumah aman, maka korban  kekerasan dirujuk pada PPT yang memiliki rumah aman.  (8) PPT terdiri dari beberapa bidang konseling.  
-9. Bidang konseling sebagaimana dimaksud pada ayat (8) paling  kurang terdiri dari:a. bidang hukum;  
+7. Dalam hal PPT belum memiliki rumah aman, maka korban  kekerasan dirujuk pada PPT yang memiliki rumah aman.  
+8. PPT terdiri dari beberapa bidang konseling.  
+9. Bidang konseling sebagaimana dimaksud pada ayat (8) paling  kurang terdiri dari:  
+a. bidang hukum;  
 b. bidang kesehatan;  
 c. bidang rohani; dan  
 d. bidang psikologi.  
@@ -256,7 +271,8 @@ Bentuk dan Mekanisme Pencegahan dan Pelayanan
 
 #### Pasal 17
 
-Bentuk pencegahan terjadinya kekerasan terhadap anak dan  perempuan yang dilakukan oleh PPT, dapat dilaksanakan melalui:  a. Kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak anak dan  perempuan; dan
+Bentuk pencegahan terjadinya kekerasan terhadap anak dan  perempuan yang dilakukan oleh PPT, dapat dilaksanakan melalui:  
+a. Kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak anak dan  perempuan; dan
 b. Pelatihan anggota PPT terkait tentang pelaksanaan tugasnya dalam  melakukan pencegahan kekerasan terhadap anak dan perempuan.  
 
 #### Pasal 18
@@ -305,16 +321,19 @@ Pelayanan
 
 #### Pasal 23
 
-1. Bentuk pelayanan yang diberikan kepada anak dan perempuan  korban kekerasan, sebagai berikut:a. pelayanan pengaduan;  
+1. Bentuk pelayanan yang diberikan kepada anak dan perempuan  korban kekerasan, sebagai berikut:  
+a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial, dan medikolegal;  
 f. pelayanan identifikasi; dan  
 g. pelayanan psikologis.  
-2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1),  dilaksanakan sesuai standar pelayanan minimal yang ditetapkan  pemerintah dan dilaksanakan oleh perangkat daerah yang tugas dan  fungsinya di bidang:a. sosial;  
+2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1),  dilaksanakan sesuai standar pelayanan minimal yang ditetapkan  pemerintah dan dilaksanakan oleh perangkat daerah yang tugas dan  fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
-c. pemberdayaan perempuan dan perlindungan anak; dan  14d. mental dan spiritual.  
+c. pemberdayaan perempuan dan perlindungan anak; dan  
+d. mental dan spiritual.  
 3. Dalam melaksanakan tugas dan fungsi sebagaimana dimaksud pada  ayat (2), pemerintah daerah bekerjasama dengan instansi  pemerintah, pemerintah provinsi, pemerintah kabupaten/kota lain,  masyarakat, keluarga dan orang tua.  
 4. Ketentuan lebih lanjut menganai tata cara pelayanan, dan  penanganan terhadap anak dan perempuan korban kekerasan  sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3), diatur  dengan Peraturan Bupati.  
 
@@ -325,12 +344,14 @@ c. pemberdayaan perempuan dan perlindungan anak; dan  14d. mental dan spiritual.
 #### Pasal 24
 
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan terhadap anak dan perempuan  korban kekerasan.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  a. pedoman dan standar pemenuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dan  
 e. evaluasi.  
-3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan  dengan prinsip:a. profesional;  
+3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan  dengan prinsip:  
+a. profesional;  
 b. transparan; dan  
 c. akuntabel.  
 
@@ -338,14 +359,15 @@ c. akuntabel.
 
 Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 24  ayat (2) dan ayat (3), dilakukan dalam rangka mewujudkan tujuan  penyelenggaraan perlindungan terhadap anak dan perempuan korban  kekerasan sesuai standar pelayanan minimal yang ditetapkan  peraturan perundang- undangan.  
 
-# BAB VI I
+# BAB VII
 
 ## PELAPORAN
 
 #### Pasal 26
 
 1. PPT melaporkan pelaksanaan penyelenggaraan perlindungan  terhadap anak dan perempuan korban kekerasan kepada Bupati.  
-2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara  tertulis, meliputi:a. administrasi;  
+2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara  tertulis, meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dan  
 d. kinerja.  
@@ -374,9 +396,6 @@ b. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Konawe.  
 
-Ditetapkan di: Unaaha Pada Tanggal: 16 April 2018 Pit. BUPATI KONAWE PARINRINGI, SE.,M.Si DrgjQjdgjigkan di: Unaaha: 16 April 2018
+Ditetapkan di: Unaaha Pada Tanggal: 16 April 2018  
 
-##### ;RAH KABUPATE N KONAW E
-
-. L,  
-S.Sos.,M.Si ^l^MBARAN DAERA H KABUPATE N KONAW E TAHU N 2018 NOMO R  ••••••• NOMOR REGISTRASI PROVINSI SULAWESI TENGGARA  KABUPATEN KONAWE NOMOR 12/62/2018 Disahkan-sesuai dengan aslinya KEPALA^sAGiAI^ HUKUM SETDA KABUPATEN KONAWE  / I.M.Si ,19670712"! ^9803 1 013
+Pit. BUPATI KONAWE PARINRINGI, SE.,M.Si  
