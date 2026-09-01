@@ -1,18 +1,20 @@
-# BUPATI BUOL
+# PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK  
 
-# PROVINSI SULAWESI TENGAH
+BUPATI BUOL  
+
+PROVINSI SULAWESI TENGAH  
 
 # PERATURAN DAERAH KABUPATEN BUOL
 
-# NOMOR 07 TAHUN 2018
+NOMOR 07 TAHUN 2018  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
+PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI BUOL,
+BUPATI BUOL,  
 
 Menimbang:  
  
@@ -36,7 +38,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 51 Tahun 1999 tentang Pembentukan Kabupaten Buol, Kabupaten Morowali, dan Kabupaten Banggai Kepulauan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 179, Tambahan Lembaran Negara Republik Indonesia Nomor 3900) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2000 tentang Perubahan atas Undang-Undang Nomor 51 Tahun 1999 tentang Pembentukan Kabupaten Buol, Kabupaten Morowali, dari Kabupaten Banggai Kepulauan (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 3966);  
 3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
 4. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah beberapa kali diubah, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
@@ -49,20 +50,25 @@ Mengingat:
 11. Peraturan Menteri Sosial Nomor 16 Tahun 2013 tentang Lembaga Konsultasi Kesejahteraan Keluarga (Berita Negara Republik Indonesia Tahun 2013 Nomor 1509);  
 12. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 6 Tahun 2015 tentang Sistem Pemberdayaan Perempuan dan Perlindungan Anak (Berita Negara Republik Indonesia Tahun 2015 Nomor 615);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BUOL dan
+Dengan Persetujuan Bersama  
 
-# BUPATI BUOL
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BUOL  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK.  
+BUPATI BUOL  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK.  
 
 # BAB I KETENTUAN UMUM
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Buol.  
 2. Pemerintah Daerah adalah kepala Daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan Urusan Pemerintahan yang menjadi kewenangan Daerah otonom.  
 3. Bupati adalah Bupati Kabupaten Buol.  
@@ -114,7 +120,7 @@ Setiap perempuan dan anak memiliki hak dasar sebagai manusia yang wajib dilindun
 #### Pasal 3
 
 Hak perempuan sebagaimana dimaksud dalam Pasal 2 meliputi:  
-a. hidup tenteram, aman, damai, bahagia, sejahtera lahir dan bathin;  
+a. hidup tenteram, aman, damai, bahagia, sejahtera lahir dan batin;  
 b. menikmati lingkungan hidup yang baik dan sehat;  
 c. hidup berkeluarga dalam ikatan perkawinan yang sah berdasarkan ketentuan peraturan perundang-undangan;  
 d. memperoleh pekerjaan sesuai kemampuan, syarat serta upah yang layak dan adil;  
@@ -162,7 +168,7 @@ c. kearifan lokal;
 d. penegakan dan kepastian hukum;  
 e. non diskriminasi;  
 f. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
-g. penghargaan terhadap pendapat anak; dan
+g. penghargaan terhadap pendapat anak;  
 
 # BAB III
 
@@ -174,14 +180,16 @@ Umum
 
 #### Pasal 7
 
-1. Dalam rangka meningkatkan kualitas hidup perempuan, pemerintah daerah bertanggungjawab:a. menghormati dan menjamin hak perempuan tanpa diskriminasi sesuai dengan harkat dan martabat kemanusiaan;  
+1. Dalam rangka meningkatkan kualitas hidup perempuan, pemerintah daerah bertanggungjawab:  
+a. menghormati dan menjamin hak perempuan tanpa diskriminasi sesuai dengan harkat dan martabat kemanusiaan;  
 b. melaksanakan pengarusutamaan gender;  
 c. membentuk pokja pengarusutamaan gender;  
 d. meningkatkan pemberdayaan perempuan dalam peran, kualitas dan kemampuan di bidang:
-1. politik;  
-2. hukum;  
-3. sosial; dan
-4. ekonomi.  e. menguatkan dan mengembangkan lembaga penyedia layanan pemberdayaan perempuan di Daerah;  
+1\. politik;  
+2\. hukum;  
+3\. sosial; dan
+4\. ekonomi.  
+e. menguatkan dan mengembangkan lembaga penyedia layanan pemberdayaan perempuan di Daerah;  
 2. Tanggungjawab Pemerintah Daerah dalam upaya peningkatan kualitas hidup perempuan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PD yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan perlindungan anak.  
 
 ## Bagian Kedua
@@ -227,7 +235,8 @@ l. mendorong dilaksanakannya pemilihan dan penetapan focal point pengarusutamaan
 #### Pasal 12
 
 1. Tim Teknis sebagaimana dimaksud dalam Pasal 11 huruf j beranggotakan aparatur yang memahami analisis angaran responsif gender.  
-2. Rencana aksi daerah pengarusutamaan gender Daerah sebagaimana dimaksud dalam Pasal 11 huruf k memuat:a. pengarusutamaan gender dalam peraturan perundang-undangan;  
+2. Rencana aksi daerah pengarusutamaan gender Daerah sebagaimana dimaksud dalam Pasal 11 huruf k memuat:  
+a. pengarusutamaan gender dalam peraturan perundang-undangan;  
 b. pengarusutamaan gender dalam siklus pembangunan;  
 c. penguatan kelembagaan pengarusutamaan gender; dan  
 d. penguatan peran serta masyarakat.  
@@ -235,7 +244,8 @@ d. penguatan peran serta masyarakat.
 #### Pasal 13
 
 1. Focal point pengarusutamaan gender pada setiap PD sebagaimana dimaksud dalam Pasal 11 huruf 1 terdiri dari pejabat dan/atau staf yang membidangi tugas perencanaan dan/atau program.  
-2. Focal point pengarusutamaan gender sebagaimana dimaksud pada ayat (1), mempunyai tugas:a. mempromosikan pengarusutamaan gender pada unit kerja;  
+2. Focal point pengarusutamaan gender sebagaimana dimaksud pada ayat (1), mempunyai tugas:  
+a. mempromosikan pengarusutamaan gender pada unit kerja;  
 b. memfasilitasi penyusunan rencana kerja dan penganggaran PD yang responsif gender;  
 c. melaksanakan pelatihan, sosialisasi, advokasi pengarusutamaan gender kepada seluruh pejabat dan staf di lingkungan PD;  
 d. melaporkan pelaksanaan pengarusutamaan gender kepada pimpinan PD;  
@@ -309,7 +319,8 @@ Umum
 
 #### Pasal 18
 
-1. Pemerintah Daerah dalam upaya perlindungan perempuan bertanggungjawab:a. menetapkan dan menyelenggarakan kebijakan, program dan kegiatan perlindungan perempuan;  
+1. Pemerintah Daerah dalam upaya perlindungan perempuan bertanggungjawab:  
+a. menetapkan dan menyelenggarakan kebijakan, program dan kegiatan perlindungan perempuan;  
 b. melakukan upaya pencegahan terjadinya tindak kekerasan terhadap perempuan termasuk tindak pidana perdagangan orang;  
 c. meningkatkan efektivitas layanan terhadap perempuan korban tindak kekerasan;  
 d. meningkatkan upaya perlindungan terhadap tenaga kerja perempuan;  
@@ -343,7 +354,8 @@ Umum
 #### Pasal 20
 
 1. Perlindungan perempuan korban tindak kekerasan dilaksanakan melalui layanan terpadu.  
-2. Pemberian layanan terpadu terhadap perempuan korban tindak kekerasan sebagaimana dimaksud pada ayat (1) menggunakan prinsip:a. responsif gender;  
+2. Pemberian layanan terpadu terhadap perempuan korban tindak kekerasan sebagaimana dimaksud pada ayat (1) menggunakan prinsip:  
+a. responsif gender;  
 b. non diskriminasi;  
 c. hubungan setara dan menghormati;  
 d. menjaga kerahasiaan;  
@@ -383,7 +395,8 @@ h. kejaksaan;
 i. pengadilan;  
 j. kementerian agama; dan/atauk. lembaga bantuan hukum.  
 1. Pengaduan tindak kekerasan terhadap perempuan dapat dilakukan oleh pelapor yang terdiri atas korban, keluarga, masyarakat dan/atau organisasi kemasyarakatan di bidang perlindungan perempuan dan anak.  
-2. Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan pengaduan:a. secara langsung;  
+2. Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan pengaduan:  
+a. secara langsung;  
 b. melalui telepon; dan/atauc. melalui surat.  
 3. Selain penanganan pengaduan yang disampaikan oleh pelapor, petugas pada lembaga pelayanan sebagaimana dimaksud dalam Pasal 22, juga berwenang melakukan penanganan korban tindak kekerasan terhadap perempuan yang diperoleh melalui informasi lainnya.  
 4. Ketentuan lebih lanjut mengenai tata cara pelayanan penanganan pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dalam Peraturan Bupati.  
@@ -394,12 +407,14 @@ Rehabilitasi Kesehatan
 
 #### Pasal 24
 
-1. Rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 21 huruf b merupakan upaya yang meliputi aspek:a. promotif;  
+1. Rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 21 huruf b merupakan upaya yang meliputi aspek:  
+a. promotif;  
 b. preventif;  
 c. kuratif; dan  
 d. rehabilitatif.  
 2. Rehabilitasi kesehatan sebagaimana dimaksud pada ayat (1) dilakukan secara komprehensif, dapat diakses 24 (dua puluh empat) jam di RSUD, berkualitas dan dilakukan sesuai dengan standar pelayanan kesehatan.  
-3. Perempuan korban tindak kekerasan memiliki hak terhadap pelayanan kesehatan secara bebas biaya, meliputi:a. pelayanan medis;  
+3. Perempuan korban tindak kekerasan memiliki hak terhadap pelayanan kesehatan secara bebas biaya, meliputi:  
+a. pelayanan medis;  
 b. pelayanan medikolegal; dan  
 c. visum.  
 4. Ketentuan lebih lanjut mengenai tata cara pelaksanaan pelayanan kesehatan sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Bupati.  
@@ -411,23 +426,28 @@ Rehabilitasi Sosial
 #### Pasal 25
 
 1. Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 21 huruf c ditujukan untuk memulihkan dan mengembangkan kemampuan terhadap perempuan korban tindak kekerasan yang mengalami disfungsi sosial untuk dapat melaksanakan fungsi sosialnya dalam masyarakat secara wajar.  
-2. Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi pelayanan:a. konseling;  
+2. Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi pelayanan:  
+a. konseling;  
 b. penyediaan rumah aman; dan  
 c. bimbingan rohani.  
-3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:a. PD yang menyelenggarakan urusan pemerintahan di bidang sosial;  
+3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:  
+a. PD yang menyelenggarakan urusan pemerintahan di bidang sosial;  
 b. PD yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan anak, serta dapat bekerjasama dengan pusat pelayanan terpadu, women crisis center atau organisasi kemasyarakatan bidang sosial telah ada; atauc. instansi dan/atau organisasi keagamaan.  
 
 #### Pasal 26
 
-1. Pelayanan konseling sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf a bertujuan:a. membantu perempuan korban tindak kekerasan mengenali permasalahannya dan menemukan cara yang efektif untuk mengatasinya sendiri;  
+1. Pelayanan konseling sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf a bertujuan:  
+a. membantu perempuan korban tindak kekerasan mengenali permasalahannya dan menemukan cara yang efektif untuk mengatasinya sendiri;  
 b. memberdayakan perempuan korban tindak kekerasan untuk menentukan masa depannya;  
 c. memberikan dukungan moral terhadap perempuan korban tindak kekerasan dalam menghadapi proses yang dijalani nya; dan  
 d. membuat perempuan korban tindak kekerasan merasa diterima di lingkungan masyarakat.  
-2. Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsif gender, terdiri atas:a. konselor;  
+2. Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsif gender, terdiri atas:  
+a. konselor;  
 b. psikolog; dan  
 c. psikiatre.  
 3. Pelayanan konseling dilakukan di tempat yang menjamin rasa aman, nyaman dan kerahasiaan informasi dari perempuan korban tindak kekerasan.  
-4. Tahapan pelayanan konseling meliputi:a. konseling awal;  
+4. Tahapan pelayanan konseling meliputi:  
+a. konseling awal;  
 b. konseling lanjutan;  
 c. pembahasan kasus; dan  
 d. kunjungan ke lokasi.  
@@ -437,17 +457,22 @@ d. kunjungan ke lokasi.
 1. Pemerintah Daerah dapat menyediakan rumah aman terhadap perempuan korban tindak kekerasan.  
 2. Pelayanan penyediaan rumah aman sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf b bertujuan untuk melindungi perempuan korban tindak kekerasan dari intimisasi pelaku atau pihak lain.  
 3. Lokasi rumah aman sebagaimana dimaksud pada ayat (1) harus dirahasiakan.  
-4. Kriteria perempuan korban tindak kekerasan yang memerlukan rumah aman meliputi:a. terancam jiwanya;  
+4. Kriteria perempuan korban tindak kekerasan yang memerlukan rumah aman meliputi:  
+a. terancam jiwanya;  
 b. mendapatkan penolakan dari keluarga atau masyarakat;  
-c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh; dan/ataud. terlantar jika tidak ditempatkan dalam rumah aman.  
-5. Penyelenggaraan pelayanan rumah aman dilakukan oleh petugas rehabilitasi sosial yang memiliki kepekaan gender atau kesadaran gender, terdiri atas:a. pekerja sosial/relawan;  
-b. petugas keamanan; dan/atauc. tokoh masyarakat.  
+c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh; dan/atau  
+d. terlantar jika tidak ditempatkan dalam rumah aman.  
+5. Penyelenggaraan pelayanan rumah aman dilakukan oleh petugas rehabilitasi sosial yang memiliki kepekaan gender atau kesadaran gender, terdiri atas:  
+a. pekerja sosial/relawan;  
+b. petugas keamanan; dan/atau  
+c. tokoh masyarakat.  
 6. Ketentuan lebih lanjut mengenai penyelenggaraan pelayanan rumah aman diatur dalam Peraturan Bupati.  
 
 #### Pasal 28
 
 1. Bimbingan rohani sebagaimana dimaksud dalam Pasal 25 ayat (2) huruf c bertujuan untuk pemulihan kejiwaan.  
-2. Bimbingan rohani sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:a. tidak memaksakan agama atau keyakinan apapun; dan  
+2. Bimbingan rohani sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:  
+a. tidak memaksakan agama atau keyakinan apapun; dan  
 b. menyerahkan putusan akhir ditangan korban.  
 3. Bimbingan rohani dilakukan oleh petugas bimbingan rohani.  
 4. Petugas bimbingan rohani sebagaimana dimaksud pada ayat (3) terdiri dari konsultan Badan Penasehatan, Pembinaan dan Pelestarian Perkawinan, Petugas Kantor Urusan Agama, pemuka agama, yang memiliki kepekaan gender atau kesadaran gender.  
@@ -464,7 +489,8 @@ Penegakan dan Bantuan Hukum
 #### Pasal 30
 
 1. Pelayanan penegakan dan bantuan hukum ditujukan untuk memberikan pendampingan dan perlindungan terhadap perempuan korban tindak kekerasan dan saksi dengan pendekatan responsif gender agar korban mendapatkan keadilan dan kepastian hukum.  
-2. Jenis pelayanan bantuan hukum meliputi:a. bantuan hukum dalam proses pelaporan dan pembuatan berita acara pemeriksaan;  
+2. Jenis pelayanan bantuan hukum meliputi:  
+a. bantuan hukum dalam proses pelaporan dan pembuatan berita acara pemeriksaan;  
 b. bantuan hukum dalam proses penuntutan di kejaksaan;  
 c. bantuan hukum dalam proses pemeriksaan di pengadilan;  
 d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dan  
@@ -484,7 +510,8 @@ Pemulangan dan Reintegrasi Sosial
 #### Pasal 32
 
 1. Reintegrasi sosial dilakukan dalam rangka penyatuan kembali perempuan korban tindak kekerasan dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi korban.  
-2. Reintegrasi sosial ditujukan agar:a. perempuan korban tindak kekerasan dapat meneruskan kembali kehidupan sosialnya; dan  
+2. Reintegrasi sosial ditujukan agar:  
+a. perempuan korban tindak kekerasan dapat meneruskan kembali kehidupan sosialnya; dan  
 b. perempuan korban tindak kekerasan dapat memiliki kehidupan yang layak.  
 3. Reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan setelah korban menerima pelayanan rehabilitasi sosial.  
 
@@ -507,7 +534,8 @@ Perlindungan Ketenagakerjaan
 
 1. Pekerja/buruh perempuan yang berumur kurang dari 18 (delapan belas) tahun dilarang dipekerjakan antara pukul 23.00 WIB sampai dengan 07.00 WIB.  
 2. Pengusaha dilarang mempekerjakan pekerja/buruh perempuan hamil yang menurut keterangan dokter berbahaya bagi kesehatan dan keselamatan kandungannya.  
-3. Pengusaha yang mempekerjakan pekerja/buruh perempuan antara pukul 23.00 WIB sampai dengan 07.00 WIB, wajib:a. memberikan makanan dari minuman bergizi; dan  
+3. Pengusaha yang mempekerjakan pekerja/buruh perempuan antara pukul 23.00 WIB sampai dengan 07.00 WIB, wajib:  
+a. memberikan makanan dari minuman bergizi; dan  
 b. menjaga kesusilaan dan keamanan selama di tempat kerja.  
 4. Pengusaha wajib menyediakan angkutan antar jemput bagi pekerja/buruh perempuan yang berangkat dan pulang bekerja antara pukul 23.00 WIB sampai dengan 05.00 WIB.  
 
@@ -517,7 +545,8 @@ b. menjaga kesusilaan dan keamanan selama di tempat kerja.
 
 #### Pasal 36
 
-1. Dalam rangka meningkatkan kualitas keluarga, Pemerintah Daerah bertanggung jawab:a. melakukan upaya peningkatan kualitas keluarga untuk mewujudkan kesetaraan gender dan hak anak;  
+1. Dalam rangka meningkatkan kualitas keluarga, Pemerintah Daerah bertanggung jawab:  
+a. melakukan upaya peningkatan kualitas keluarga untuk mewujudkan kesetaraan gender dan hak anak;  
 b. menyediakan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan hak anak; dan  
 c. menguatkan dan mengembangkan lembaga penyedia layanan peningkatan kualitas keluarga.  
 2. Tanggungjawab Pemerintah Daerah dalam upaya peningkatan kualitas keluarga sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PD sesuai dengan tugas dan fungsinya.  
@@ -574,7 +603,8 @@ Komunikasi, informasi dan edukasi sebagaimana dimaksud dalam Pasal 41 huruf a me
 
 1. Selain Pemerintah Daerah, pihak swasta wajib menyediakan ruangan pojok ASI.  
 2. Ruangan pojok ASI sebagaimana dimaksud pada ayat (1) merupakan ruangan yang layak dan memadai.  
-3. Pihak swasta yang tidak menyediakan ruangan pojok ASI sebagaimana dimaksud pada ayat (2) dikenai sanksi administratif berupa:a. peringatan tertulis;  
+3. Pihak swasta yang tidak menyediakan ruangan pojok ASI sebagaimana dimaksud pada ayat (2) dikenai sanksi administratif berupa:  
+a. peringatan tertulis;  
 b. pembatasan kegiatan usaha;  
 c. pembekuan kegiatan usaha;  
 d. denda administratif; dan/ataue. pencabutan izin.  
@@ -585,7 +615,8 @@ d. denda administratif; dan/ataue. pencabutan izin.
 
 #### Pasal 44
 
-1. PD dan instansi terkait wajib melakukan pengelolaan data gender dan anak yang meliputi tahapan:a. pengumpulan;  
+1. PD dan instansi terkait wajib melakukan pengelolaan data gender dan anak yang meliputi tahapan:  
+a. pengumpulan;  
 b. pengolahan;  
 c. analisis; dan  
 d. penyajian.  
@@ -614,7 +645,8 @@ Umum
 
 #### Pasal 47
 
-1. Pemerintah Daerah dalam upaya pemenuhan hak anak bertanggungjawab:a. menetapkan dan melaksanakan kebijakan serta program/kegiatan pemenuhan hak anak;  
+1. Pemerintah Daerah dalam upaya pemenuhan hak anak bertanggungjawab:  
+a. menetapkan dan melaksanakan kebijakan serta program/kegiatan pemenuhan hak anak;  
 b. menghormati dan menjamin hak asasi setiap anak dengan tidak membedakan suku, agama, ras, golongan, jenis kelamin, etnik, budaya dan bahasa, status hukum anak, urutan kelahiran anak, dan kondisi fisik dan/atau mental;  
 c. menguatkan dan mengembangkan lembaga penyedia layanan peningkatan kualitas keluarga dalam mewujudkan hak anak;  
 d. menjamin perlindungan, pemeliharaan, dan kesejahteraan anak dengan memperhatikan hak dan kewajiban orang tua, wali, atau orang lain yang secara hukum bertanggung jawab terhadap anak;  
@@ -659,23 +691,27 @@ Kesehatan dan Sosial
 #### Pasal 53
 
 1. Pemerintah Daerah wajib menyelenggarakan layanan kesehatan yang komprehensif bagi anak, agar setiap anak memperoleh derajat kesehatan yang optimal sejak dalam kandungan.  
-2. Layanan kesehatan yang komprehensif sebagaimana dimaksud pada ayat (1) meliputi:a. upaya promotif, preventif, kuratif dan rehabilitatif untuk pelayanan kesehatan dasar;  
+2. Layanan kesehatan yang komprehensif sebagaimana dimaksud pada ayat (1) meliputi:  
+a. upaya promotif, preventif, kuratif dan rehabilitatif untuk pelayanan kesehatan dasar;  
 b. pembebasan dari beban biaya bagi anak gizi buruk, anak penyandang disabilitas, anak berkebutuhan khusus, anak yang terinfeksi HIV/AIDS, pekerja anak, anak korban penyalahgunaan narkotika, alkohol, psikotropika dan zat adiktif lainnya, anak yang menjadi korban kekerasan, dan anak korban perdagangan orang.  
 3. Pemerintah Daerah, masyarakat, keluarga dan orang tua wajib mengusahakan agar anak yang lahir terhindar dari penyakit yang mengancam kelangsungan hidup dan/atau menimbulkan kecacatan.  
 
 #### Pasal 54
 
 1. Upaya promotif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 53 ayat (2) huruf a ditujukan untuk meningkatkan derajat kesehatan secara lebih optimal.  
-2. Upaya promotif sebagaimana dimaksud pada ayat (1) dilakukan dengan memberikan sosialisasi atau penyuluhan kepada masyarakat mengenai pola hidup sehat yang meliputi:a. pentingnya ASI ekslusif bagi bayi;  
+2. Upaya promotif sebagaimana dimaksud pada ayat (1) dilakukan dengan memberikan sosialisasi atau penyuluhan kepada masyarakat mengenai pola hidup sehat yang meliputi:  
+a. pentingnya ASI ekslusif bagi bayi;  
 b. pentingnya imunisasi bagi balita;  
 c. pola hidup bersih;  
 d. pentingnya makanan bergizi;  
-e. bahaya narkoba dan merokok; dan (3) Selain upaya promotif sebagaimana dimaksud pada ayat (2), Pemerintah Daerah dapat melakukan kegiatan lain dalam rangka penyeleggaraan kesehatan.  
+e. bahaya narkoba dan merokok; dan  
+3. Selain upaya promotif sebagaimana dimaksud pada ayat (2), Pemerintah Daerah dapat melakukan kegiatan lain dalam rangka penyeleggaraan kesehatan.  
 
 #### Pasal 55
 
 1. Upaya preventif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 53 ayat (2) huruf a ditujukan untuk mencegah terjadinya penyakit atau permasalahan kesehatan.  
-2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan:a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai usia 6 (enam) bulan;  
+2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan:  
+a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai usia 6 (enam) bulan;  
 b. pemberian imunisasi dan vitamin gratis pada bayi dan balita;  
 c. pemberian makanan bergizi kepada balita dari keluarga kurang mampu;  
 d. mengoptimalkan peran posyandu untuk pelayanan kesehatan bagi ibu dan balita;  
@@ -694,17 +730,20 @@ f. menyediakan sarana sanitasi dan air bersih disetiap sekolah.
 
 #### Pasal 58
 
-1. Pemerintah Daerah wajib menyelenggarakan kesejahteraan sosial bagi:a. anak yang berhadapan dengan hukum;  
+1. Pemerintah Daerah wajib menyelenggarakan kesejahteraan sosial bagi:  
+a. anak yang berhadapan dengan hukum;  
 b. anak korban kekerasan yang tereksploitasi secara ekonomi dan seksual, anak terlantar, anak korban penculikan dan anak korban perdagangan orang;  
 c. anak yang tidak mempunyai orang tua dan diasuh oleh pihak atau keluarga yang tidak mampu;  
 d. anak korban bencana alam atau bencana sosial; dan  
 e. anak penyandang disabilitas;  
-2. Kesejahteraan sosial sebagaimana dimaksud pada ayat (1) dapat berupa penyediaan layanan:a. kesehatan;  
+2. Kesejahteraan sosial sebagaimana dimaksud pada ayat (1) dapat berupa penyediaan layanan:  
+a. kesehatan;  
 b. pendidikan;  
 c. bantuan hukum;  
 d. pendampingan;  
 e. bimbingan sosial, mental dan spiritual;  
-f. rehabilitasi sosial; dan/ataug. reintegrasi.  
+f. rehabilitasi sosial; dan/atau  
+g. reintegrasi.  
 
 ## Bagian Keempat
 
@@ -734,7 +773,8 @@ Dalam hal anak dipekerjakan bersama dengan tenaga kerja dewasa, maka tempat kerj
 #### Pasal 62
 
 1. Setiap orang/badan dilarang mempekerjakan dan melibatkan anak pada pekerjaan yang terburuk.  
-2. Pekerjaan yang terburuk yang dimaksud dalam ayat (1) meliputi:a. segala pekerjaan dalam bentuk perbudakan atau sejenisnya;  
+2. Pekerjaan yang terburuk yang dimaksud dalam ayat (1) meliputi:  
+a. segala pekerjaan dalam bentuk perbudakan atau sejenisnya;  
 b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan anak untuk pelacuran, produksi pornografi, pertunjukan porno, atau perjudian;  
 c. segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya; dan/ataud. semua pekerjaan yang membahayakan kesehatan, keselamatan, atau moral anak.  
 
@@ -745,7 +785,8 @@ Fasilitasi Sistem Peradilan Anak
 #### Pasal 63
 
 1. Fasilitasi sistem peradilan anak meliputi peradilan pidana dan perdata.  
-2. Fasilitasi sistem peradilan pidana sebagaimana dimaksud pada ayat (1) meliputi:a. penyediaan pendamping atau relawan anak pada saat pemeriksaan oleh penyidik;  
+2. Fasilitasi sistem peradilan pidana sebagaimana dimaksud pada ayat (1) meliputi:  
+a. penyediaan pendamping atau relawan anak pada saat pemeriksaan oleh penyidik;  
 b. pemberian layanan bantuan hukum dan psikolog;  
 c. melibatkan anggota/periyidik kepolisian setempat dalam upaya pencegahan terjadinya tindak pidana yang dilakukan oleh Anak, anak sebagai korban maupun anak sebagai saksi;  
 d. mewujudkan proses keadilan restorative bagi anak yang berhadapan dengan hukum; dan  
@@ -771,22 +812,25 @@ Kabupaten Layak Anak
 #### Pasal 65
 
 1. Dalam rangka pemenuhan hak anak secara terpadu dan sistematis dan berkelanjutan Pemerintah Daerah menetapkan Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak.  
-2. Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak memuat tentang:a. konsep Kabupaten Layak Anak menyangkut dengan tujuan, strategi dan peranan para pihak terkait;  
+2. Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak memuat tentang:  
+a. konsep Kabupaten Layak Anak menyangkut dengan tujuan, strategi dan peranan para pihak terkait;  
 b. hak anak; dan  
 c. pendekatan pengembangan Kabupaten Layak Anak.  
 
 #### Pasal 66
 
-1. Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak diarahkan pada pemenuhan hak anak yang terbagi dalam 5 (lima) kelompok sasaran, meliputi:a. hak sipil dan kebebasan;  
+1. Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak diarahkan pada pemenuhan hak anak yang terbagi dalam 5 (lima) kelompok sasaran, meliputi:  
+a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
 d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya; dan  
 e. perlindungan khusus.  
 2. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Bupati.  
-1. Dalam rangka efektifitas pelaksanaan Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak di Daerah dibentuk Gugus Tugas Kabupaten Layak Anak.  
-2. Pembentukan dan susunan keanggotaan Gugus Tugas Kabupaten Layak Anak ditetapkan dengan Keputusan Bupati.  
-3. Gugus Tugas Kabupaten Layak Anak berkedudukan pada OPD yang menyelenggarakan urusan pemerintah di bidang pemberdayaan perempuan dan perlindungan anak.  
-4. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1), mempunyai tugas pokok:a. mengkoordinasikan pelaksanaan kebijakan dan pengembangan Kabupaten Layak Anak;  
+3. Dalam rangka efektifitas pelaksanaan Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak di Daerah dibentuk Gugus Tugas Kabupaten Layak Anak.  
+4. Pembentukan dan susunan keanggotaan Gugus Tugas Kabupaten Layak Anak ditetapkan dengan Keputusan Bupati.  
+5. Gugus Tugas Kabupaten Layak Anak berkedudukan pada OPD yang menyelenggarakan urusan pemerintah di bidang pemberdayaan perempuan dan perlindungan anak.  
+6. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1), mempunyai tugas pokok:  
+a. mengkoordinasikan pelaksanaan kebijakan dan pengembangan Kabupaten Layak Anak;  
 b. melakukan sosialisasi, advokasi dan komunikasi informasi dan edukasi kebijakan Kabupaten Layak Anak;  
 c. mengumpulkan data dasar pengembangan Kabupaten Layak Anak;  
 d. melakukan analisis kebutuhan yang bersumber dari data dasar;  
@@ -816,6 +860,8 @@ g. melakukan koordinasi dan kerjasama dalam pencegahan terjadinya pelanggaran te
 h. penguatan fungsi lembaga atau organisasi yang bergerak dibidang perlindungan anak; dan  
 i. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap anak dengan membentuk pendamping perlindungan perempuan dan anak.  
 
+#### Pasal 70 
+
 Upaya pelayanan yang dilakukan oleh Pemerintah Daerah terhadap perempuan korban tindak kekerasan sebagaimana dimaksud dalam Pasal 20 sampai dengan Pasal 33 berlaku secara mutatis mutandis terhadap upaya pelayanan perempuan korban tindak kekerasan.  
 
 # BAB IX
@@ -828,7 +874,8 @@ Masyarakat
 
 #### Pasal 71
 
-1. Peran serta masyarakat dalam upaya perlindungan terhadap perempuan dan anak:a. berpartisipasi dalam pencegahan dan memberikan dukungan terhadap pengembangan program pencegahan terjadinya pelanggaran terhadap hak perempuan dan anak;  
+1. Peran serta masyarakat dalam upaya perlindungan terhadap perempuan dan anak:  
+a. berpartisipasi dalam pencegahan dan memberikan dukungan terhadap pengembangan program pencegahan terjadinya pelanggaran terhadap hak perempuan dan anak;  
 b. memberikan perlindungan kepada korban dan pertolongan darurat;  
 c. memberikan informasi dari/atau melaporkan terjadinya pelanggaran hak perempuan dan anak kepada pihak yang berwenang; dan  
 d. mengawasi proses penegakan hukum terhadap kasus pelanggaran hak perempuan dan anak.  
@@ -837,11 +884,13 @@ d. mengawasi proses penegakan hukum terhadap kasus pelanggaran hak perempuan dan
 
 #### Pasal 72
 
-1. Dalam rangka pencegahan terjadinya pelanggaran terhadap hak perempuan, masyarakat:a. mengawasi berbagai kondisi yang terjadi di lingkungannya yang dapat menimbulkan pelanggaran terhadap hak perempuan;  
+1. Dalam rangka pencegahan terjadinya pelanggaran terhadap hak perempuan, masyarakat:  
+a. mengawasi berbagai kondisi yang terjadi di lingkungannya yang dapat menimbulkan pelanggaran terhadap hak perempuan;  
 b. meningkatkan kepedulian terhadap pelanggaran hak perempuan;  
 c. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; dan  
 d. mencegah pernikahan di bawah tangan.  
-2. Dalam rangka pencegahan terjadinya pelanggaran terhadap hak anak, masyarakat:a. mengawasi berbagai kondisi yang terjadi dilingkungannya yang menimbulkan pelanggaran terhadap hak anak;  
+2. Dalam rangka pencegahan terjadinya pelanggaran terhadap hak anak, masyarakat:  
+a. mengawasi berbagai kondisi yang terjadi dilingkungannya yang menimbulkan pelanggaran terhadap hak anak;  
 b. meningkatkan kepedulian terhadap pelanggaran hak anak;  
 c. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; dan  
 d. mencegah terjadinya perkawinan pada usia dini.  
@@ -859,7 +908,8 @@ c. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang meren
 
 #### Pasal 74
 
-1. Orang Tua dalam upaya perlindungan terhadap hak anak berperan:a. mengasuh, memelihara, mendidik, dari melindungi anak;  
+1. Orang Tua dalam upaya perlindungan terhadap hak anak berperan:  
+a. mengasuh, memelihara, mendidik, dari melindungi anak;  
 b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. memberikan pendidikan formal dan non formal;  
 d. membimbing anak berperilaku sesuai dengan agama, etika dan moral serta adat istiadat; dan  
@@ -873,27 +923,32 @@ e. mencegah terjadinya perkawinan pada usia dini.
 #### Pasal 75
 
 1. Pembinaan pemberdayaan perempuan dan perlindungan anak dilakukan oleh Pemerintah Daerah.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:a. memberikan pelatihan bagi aparat pemerintah dan penegak hukum tentang pencegahan dan penanganan kekerasan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:  
+a. memberikan pelatihan bagi aparat pemerintah dan penegak hukum tentang pencegahan dan penanganan kekerasan;  
 b. memberikan pelatihan bagi tokoh agama, tokoh masyarakat, tokoh adat, tenaga pendidik, jurnalis dan pengelola media dalam rangka mencegah kekerasan terhadap perempuan dan anak;  
 c. memberikan pelatihan kepada tenaga kesehatan yang memberikan pelayanan kesehatan kepada perempuan dan anak korban kekerasan di puskesmas, unit pelayanan terpadu dan rumah sakit umum;  
 d. memberikan pelatihan kepada petugas rehabilitasi sosial dan petugas bimbingan rohani dalam rangka melindungi perempuan dan anak korban kekerasan; dan  
 e. melakukan peningkatan profesionalitas petugas, pengelola data kasus kekerasan terhadap perempuan dan anak di puskesmas, unit pelayanan terpadu dan rumah sakit.  
 3. Bupati berwenang melakukan pembinaan dalam penyelenggaraan pemberdayan perempuan dan perlindungan anak.  
 
-Pasa 76 (1) Pimpinan PD yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan perlindungan anak wajib menyampaikan laporan pelaksanaan program perlindungan perempuan dan anak kepada Bupati.  
+#### Pasal 76 
 
+1. Pimpinan PD yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan perlindungan anak wajib menyampaikan laporan pelaksanaan program perlindungan perempuan dan anak kepada Bupati.  
 2. Laporan sebagaimana dimaksud pada ayat (1) disampaikan secara berkala 1 (satu) kali dalam 6 (enam) bulan.  
 
-Pasa 77 (1) Bupati melakukan pengawasan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak secara berkala 1 (satu) kali dalam 3 (tiga) bulan.  
+#### Pasal 77 
 
+1. Bupati melakukan pengawasan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak secara berkala 1 (satu) kali dalam 3 (tiga) bulan.  
 2. Dalam melakukan pengawasan dan evaluasi sebagaimana dimaksud pada ayat (1) Bupati dapat menunjuk PD sesuai dengan tugas dan fungsinya.  
 3. Hasil pengawasan dan evaluasi sebagaimana dimaksud pada ayat (1) merupakan bahan evaluasi bagi kebijakan program perlindungan perempuan dan anak di Daerah.  
 
 # BAB XI PEMBIAYAAN
 
-Pasa 78 (1) Pemerintah Daerah wajib menyediakan anggaran untuk penyelenggaraan program dan kegiatan pemberdayaan perempuan dan perlindungan anak melalui Anggaran Pendapatan dan Belanja Daerah dan/atau sumber keuangan daerah lainnya sesuai kemampuan keuangan daerah.  
+#### Pasal 78 
 
-2. Pembiayaan penyelenggaraan program dan kegiatan pemberdayaan perempuan dan perlindungan anak sebagaimana dimaksud pada ayat (1) bersumber dari:a. anggaran pendapatan dan belanja daerah; dan  
+1. Pemerintah Daerah wajib menyediakan anggaran untuk penyelenggaraan program dan kegiatan pemberdayaan perempuan dan perlindungan anak melalui Anggaran Pendapatan dan Belanja Daerah dan/atau sumber keuangan daerah lainnya sesuai kemampuan keuangan daerah.  
+2. Pembiayaan penyelenggaraan program dan kegiatan pemberdayaan perempuan dan perlindungan anak sebagaimana dimaksud pada ayat (1) bersumber dari:  
+a. anggaran pendapatan dan belanja daerah; dan  
 b. sumber lain yang sah sesuai dengan ketentuan peraturan perundangundangan.  
 
 # BAB XII
@@ -910,15 +965,15 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahui, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Buol.  
 
-Ditetapkan di Buol pada tanggal , 09 Juli 2018
+Ditetapkan di Buol pada tanggal , 09 Juli 2018  
 
-##### LEMBARAN DAERAH KABUPATEN BULOH TAHUN 2018 NOMOR . 27
+LEMBARAN DAERAH KABUPATEN BULOH TAHUN 2018 NOMOR . 27  
 
-##### NOMOR REGISTRASI: 26,07/2018
+NOMOR REGISTRASI: 26,07/2018  
 
-PENJELASAN  ATAS  PERATURAN DAERAH KABUPATEN BUOL  NOMOR 03 TAHUN 2018
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BUOL  
 
-##### TENTANG  PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
+NOMOR 03 TAHUN 2018 TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
 
 ##### I. UMUM
 
@@ -951,81 +1006,152 @@ c. Perlindungan anak yang didalamnya memuat tanggung jawab pemerintah daerah, or
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Huruf a Cukup jelas Huruf b Yang dimaksud keadilan gender adalah kondisi dan perlakuan yang adil terhadap perempuan dan laki-laki, agar keadilan terhadap perempuan dan laki-laki terwujud, maka diperlukan langkah-langkah untuk menghentikan hal-hal yang secara politik dan sosial budaya dapat menghambat perempuan dan laki-laki untuk bisa berperan dan menikmati hasil dari perannya tersebut.  
+Huruf a  
+Cukup jelas.  
+
+Huruf b  
+Yang dimaksud keadilan gender adalah kondisi dan perlakuan yang adil terhadap perempuan dan laki-laki, agar keadilan terhadap perempuan dan laki-laki terwujud, maka diperlukan langkah-langkah untuk menghentikan hal-hal yang secara politik dan sosial budaya dapat menghambat perempuan dan laki-laki untuk bisa berperan dan menikmati hasil dari perannya tersebut.  
 
 Yang dimaksud kesetaraan gender adalah kesamaan kondisi dan posisi bagi laki-laki dan perempuan untuk memperoleh kesempatan dan hakhaknya sebagai manusia, agar mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya, pendidikan, pertahanan, keamanan nasional dan kesamaan dalam menikmati hasil pembangunan yang dampaknya seimbang.  
 
-Huruf c Yang dimaksud kearifan lokal yaitu nilai-nilai budaya yang baik yang ada di dalam suatu masyarakat, karena setiap kebudayaan mengajarkan cara-cara, kaedah-kaedah atau metode-metode tertentu untuk memperoleh pengetahuan atau kebenaran tentang sesuatu.  
+Huruf c  
+Yang dimaksud kearifan lokal yaitu nilai-nilai budaya yang baik yang ada di dalam suatu masyarakat, karena setiap kebudayaan mengajarkan cara-cara, kaedah-kaedah atau metode-metode tertentu untuk memperoleh pengetahuan atau kebenaran tentang sesuatu.  
 
-Huruf d Cukup jelas Huruf e Yang dimaksud dengan non diskriminasi adalah setiap perempuan dan anak tanpa kecuali berhak mendapatkan layanan berkaitan dengan kekerasan yang dialaminya, tidak ada seorang pun boleh ditolak atau diberikan prioritas atas yang lain kecuali atas pertimbangan kedaruratan tertentu.  
+Huruf d  
+Cukup jelas.  
 
-Huruf f Cukup jelas Huruf g Cukup jelas Huruf h Cukup jelas
+Huruf e  
+Yang dimaksud dengan non diskriminasi adalah setiap perempuan dan anak tanpa kecuali berhak mendapatkan layanan berkaitan dengan kekerasan yang dialaminya, tidak ada seorang pun boleh ditolak atau diberikan prioritas atas yang lain kecuali atas pertimbangan kedaruratan tertentu.  
+
+Huruf f  
+Cukup jelas.  
+
+Huruf g  
+Cukup jelas.  
+
+Huruf h  
+Cukup jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Huruf a cukup jelas Huruf b cukup jelas Huruf c cukup jelas Huruf d cukup jelas Huruf e cukup jelas Huruf f cukup jelas Huruf g cukup jelas Huruf h cukup jelas Huruf i cukup jelas Huruf j cukup jelas Huruf k cukup jelas Huruf l Yang dimaksud dengan Focal Point adalah kader-kader PUG yang ada dimasing-masing SKPD, guna dapat melaksanakan strategi pengarusutamaan gender sehingga integrasi konsep gender kedalam program kegiatan bidang pembangunan terlaksana dengan baik.  
+Huruf a  
+cukup jelas.  
+
+Huruf b  
+cukup jelas.  
+
+Huruf c  
+cukup jelas.  
+
+Huruf d  
+cukup jelas.  
+
+Huruf e  
+cukup jelas.  
+
+Huruf f  
+cukup jelas.  
+
+Huruf g  
+cukup jelas.  
+
+Huruf h  
+cukup jelas.  
+
+Huruf i  
+cukup jelas.  
+
+Huruf j  
+cukup jelas.  
+
+Huruf k  
+cukup jelas.  
+
+Huruf l  
+Yang dimaksud dengan Focal Point adalah kader-kader PUG yang ada dimasing-masing SKPD, guna dapat melaksanakan strategi pengarusutamaan gender sehingga integrasi konsep gender kedalam program kegiatan bidang pembangunan terlaksana dengan baik.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Huruf a Cukup jelas Huruf b Cukup jelas Huruf b Yang dimaksud dengan kebijakan bias gender adalah kebijakan/program /kegiatan atau kondisi yang memihak atau merugikan salah satu jenis kelamin.  
+Huruf a  
+Cukup jelas.  
 
-Huruf c Cukup jelas
+Huruf b  
+Cukup jelas.  
+
+Huruf b  
+Yang dimaksud dengan kebijakan bias gender adalah kebijakan/program /kegiatan atau kondisi yang memihak atau merugikan salah satu jenis kelamin.  
+
+Huruf c  
+Cukup jelas.  
 
 #### Pasal 16
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 17
 
-Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Yang dimaksud dengan komprehensif adalah pelatihan kewirausahaan secara menyeluruh dimulai dari motivasi berusaha, manajemen usaha, pemasaran, mengemas barang (packaging).  
+Huruf a  
+cukup jelas.  
+
+Huruf b  
+cukup jelas.  
+
+Huruf c  
+cukup jelas.  
+
+Huruf d  
+cukup jelas.  
+
+Huruf e  
+Yang dimaksud dengan komprehensif adalah pelatihan kewirausahaan secara menyeluruh dimulai dari motivasi berusaha, manajemen usaha, pemasaran, mengemas barang (packaging).  
 
 #### Pasal 18
 
@@ -1033,123 +1159,269 @@ Cukup jelas
 
 #### Pasal 19
 
-Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Yang dimaksud dengan Reintgrasi adalah penggabungan kembali sebuah sistim yang mengalami pembauran hingga menjadi satu kesatuan yang utuh.  
+Huruf a  
+cukup jelas.  
 
-Huruf d cukup jelas Huruf e cukup jelas Huruf f Yang dimaksud dengan fasilitas umum adalah rumah sakit, kantor, terminal, bandara, halte atau tempat-tempat yang memungkinkan dan layak.  
+Huruf b  
+cukup jelas.  
+
+Huruf c  
+Yang dimaksud dengan Reintgrasi adalah penggabungan kembali sebuah sistim yang mengalami pembauran hingga menjadi satu kesatuan yang utuh.  
+
+Huruf d  
+cukup jelas.  
+
+Huruf e  
+cukup jelas.  
+
+Huruf f  
+Yang dimaksud dengan fasilitas umum adalah rumah sakit, kantor, terminal, bandara, halte atau tempat-tempat yang memungkinkan dan layak.  
 
 #### Pasal 20
 
-Ayat (1) Cukup jelas Ayat (2) Huruf a Yang dimaksud dengan responsif gender adalah semua petugas pelayanan harus peka gender ketika mendalami masalah yang dialami korban dan dapat melakukan pemberdayaan terhadap korban.  
+Ayat (1)  
+Cukup jelas.  
 
-Huruf b Cukup jelas Huruf c Yang dimaksud dengan hubungan setara dan menghormati adalah siapapun korban, pemberian layanan bagi korban harus dijalankan dengan rasa hormat kepada korban tanpa membedakan keyakinan, nilai-nilai dan status sosialnya.  
+Ayat (2)  
+Huruf a  
+Yang dimaksud dengan responsif gender adalah semua petugas pelayanan harus peka gender ketika mendalami masalah yang dialami korban dan dapat melakukan pemberdayaan terhadap korban.  
 
-Huruf d Yang dimaksud dengan menjaga kerahasiaan adalah pelayanan harus diberikan di tempat yang menjamin privasi korban. Setiap informasi yang terungkap dalam proses pemberian layanan harus dijaga kerahasiaannya dan diketahui hanya oleh orang yang relevan dalam pemberian layanan. Petugas harus menyampaikan prinsip ini kepada korban.  
+Huruf b  
+Cukup jelas.  
 
-Huruf e Yang dimaksud dengan memberi rasa aman dan nyaman adalah petugas pemberi layanan harus memastikan bahwa korban dalam keadaan aman dan nyaman dalam menceritakan masalahnya.  
+Huruf c  
+Yang dimaksud dengan hubungan setara dan menghormati adalah siapapun korban, pemberian layanan bagi korban harus dijalankan dengan rasa hormat kepada korban tanpa membedakan keyakinan, nilai-nilai dan status sosialnya.  
 
-Huruf f Yang dimaksud dengan menghargai perbedaan individu (individual differences) adalah setiap individu harus dipandang unik, masing-masing orang mempunyai latar belakang, pengalaman hidup dan cara menghadapi stress (coping mechanism) yang berbeda sehingga tidak boleh dibandingkan antara satu korban dengan korban lain dalam hal apapun.  
+Huruf d  
+Yang dimaksud dengan menjaga kerahasiaan adalah pelayanan harus diberikan di tempat yang menjamin privasi korban. Setiap informasi yang terungkap dalam proses pemberian layanan harus dijaga kerahasiaannya dan diketahui hanya oleh orang yang relevan dalam pemberian layanan. Petugas harus menyampaikan prinsip ini kepada korban.  
 
-Huruf g Yang dimaksud dengan tidak menghakimi adalah petugas pemberi layanan harus memastikan bahwa apapun kondisi korban atau informasi yang keluar dari korban tidak akan dinilai atau dihakimi.  
+Huruf e  
+Yang dimaksud dengan memberi rasa aman dan nyaman adalah petugas pemberi layanan harus memastikan bahwa korban dalam keadaan aman dan nyaman dalam menceritakan masalahnya.  
 
-Huruf h Yang dimaksud dengan menghormati pilihan dan keputusan korban adalah pemberian layanan harus dilakukan dengan persetujuan korban, mulai dari proses wawancara, pencatatan data, hingga penanganan/tindakan yang akan diambil.  
+Huruf f  
+Yang dimaksud dengan menghargai perbedaan individu (individual differences) adalah setiap individu harus dipandang unik, masing-masing orang mempunyai latar belakang, pengalaman hidup dan cara menghadapi stress (coping mechanism) yang berbeda sehingga tidak boleh dibandingkan antara satu korban dengan korban lain dalam hal apapun.  
 
-Huruf i Yang dimaksud dengan peka terhadap latar belakang dan kondisi korban dan pemakaian bahasa yang sesuai dan dimengerti oleh korban adalah kadang-kadang korban berasal dari daerah atau latar belakang ekonomi, pendidikan dan lingkungan yang tidak sama dengan petugas. Harus diyakinkan bahwa korban dilayani dengan bahasa yang dimengerti oleh korban. Akhir-akhir ini, semakin banyak perempuan cacat/difable/disable yang menjadi korban kekerasan, apakah yang tuli, bisu, buta maupun yang mengalami keterbelakangan mental. Untuk kategori korban ini pun harus disediakan penterjemah yang misalnya, dapat diambilkan dari para guru SLB.  
+Huruf g  
+Yang dimaksud dengan tidak menghakimi adalah petugas pemberi layanan harus memastikan bahwa apapun kondisi korban atau informasi yang keluar dari korban tidak akan dinilai atau dihakimi.  
 
-Huruf j Yang dimaksud dengan cepat dan sederhana adalah pemberian layanan harus diberikan dengan segera tanpa penundaan yang keterlibatan berbagai pihak, tetapi dengan pro aktifnya petugas pelayanan, korban harus dijamin dapat menjalani semuanya dengan proses yang sederhana. Bila korban datang atas rujukan pihak pemberi layanan lain, maka petugas penerima harus membaca terlebih dahulu surat pengantar rujukan. Harus diusahakan agar korban tidak ditanya berulang kali tentang hal yang sama terkait identitas maupun narasi kasusnya.  
+Huruf h  
+Yang dimaksud dengan menghormati pilihan dan keputusan korban adalah pemberian layanan harus dilakukan dengan persetujuan korban, mulai dari proses wawancara, pencatatan data, hingga penanganan/tindakan yang akan diambil.  
 
-Huruf k Yang dimaksud dengan empati adalah petugas harus menerapkan sikap empati, yakni kesanggupan untuk menempatkan diri dalam posisi orang lain (dalam hal ini korban). Dengan demikian korban merasa diterima, dipahami dan dapat terbuka menceritakan persoalannya.  
+Huruf i  
+Yang dimaksud dengan peka terhadap latar belakang dan kondisi korban dan pemakaian bahasa yang sesuai dan dimengerti oleh korban adalah kadang-kadang korban berasal dari daerah atau latar belakang ekonomi, pendidikan dan lingkungan yang tidak sama dengan petugas. Harus diyakinkan bahwa korban dilayani dengan bahasa yang dimengerti oleh korban. Akhir-akhir ini, semakin banyak perempuan cacat/difable/disable yang menjadi korban kekerasan, apakah yang tuli, bisu, buta maupun yang mengalami keterbelakangan mental. Untuk kategori korban ini pun harus disediakan penterjemah yang misalnya, dapat diambilkan dari para guru SLB.  
 
-Huruf l Yang dimaksud dengan pemenuhan hak perempuan dan anak adalah korban yang berhak atas penghormatan dan penggunaan sepenuhnya hak-haknya untuk bertahan hidup, pengembangan, perlindungan, bebas dari segala bentuk diskriminasi dan ikut berpartisipasi, sebagaimana diatur dalam Konvensi Hak-Hak Anak (Convention on the Rights of the Child) dan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on the Elimination of All Against Women).  
+Huruf j  
+Yang dimaksud dengan cepat dan sederhana adalah pemberian layanan harus diberikan dengan segera tanpa penundaan yang keterlibatan berbagai pihak, tetapi dengan pro aktifnya petugas pelayanan, korban harus dijamin dapat menjalani semuanya dengan proses yang sederhana. Bila korban datang atas rujukan pihak pemberi layanan lain, maka petugas penerima harus membaca terlebih dahulu surat pengantar rujukan. Harus diusahakan agar korban tidak ditanya berulang kali tentang hal yang sama terkait identitas maupun narasi kasusnya.  
+
+Huruf k  
+Yang dimaksud dengan empati adalah petugas harus menerapkan sikap empati, yakni kesanggupan untuk menempatkan diri dalam posisi orang lain (dalam hal ini korban). Dengan demikian korban merasa diterima, dipahami dan dapat terbuka menceritakan persoalannya.  
+
+Huruf l  
+Yang dimaksud dengan pemenuhan hak perempuan dan anak adalah korban yang berhak atas penghormatan dan penggunaan sepenuhnya hak-haknya untuk bertahan hidup, pengembangan, perlindungan, bebas dari segala bentuk diskriminasi dan ikut berpartisipasi, sebagaimana diatur dalam Konvensi Hak-Hak Anak (Convention on the Rights of the Child) dan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on the Elimination of All Against Women).  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Huruf a cukup jelas Huruf b cukup jelas Huruf c cukup jelas Huruf d cukup jelas Huruf e Yang dimaksud dengan women crisis centre adalah pusat penanganan wanita korban kekerasan.  
+Huruf a  
+cukup jelas.  
 
-Huruf f cukup jelas Huruf g cukup jelas Huruf h cukup jelas Huruf i cukup jelas Huruf j cukup jelas Huruf k cukup jelas
+Huruf b  
+cukup jelas.  
+
+Huruf c  
+cukup jelas.  
+
+Huruf d  
+cukup jelas.  
+
+Huruf e  
+Yang dimaksud dengan women crisis centre adalah pusat penanganan wanita korban kekerasan.  
+
+Huruf f  
+cukup jelas.  
+
+Huruf g  
+cukup jelas.  
+
+Huruf h  
+cukup jelas.  
+
+Huruf i  
+cukup jelas.  
+
+Huruf j  
+cukup jelas.  
+
+Huruf k  
+cukup jelas.  
 
 #### Pasal 23
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Yang dimaksud dengan informasi lainnya adalah sumber informasi dari segala hal yang dapat digunakan oleh seseorang sehingga mengetahui tentang hal yang baru dan mempunyai ciri-ciri dapat dilihat, dibaca dan dipelajari, ditransformasikan kepada orang lain melalui media informasi secara visual (buku, jurnal, makalah) audio (radio dan lain-lain) dan audiovisual (televisi, HP, internet, pakar/ahli).  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (4) Cukup jelas
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Yang dimaksud dengan informasi lainnya adalah sumber informasi dari segala hal yang dapat digunakan oleh seseorang sehingga mengetahui tentang hal yang baru dan mempunyai ciri-ciri dapat dilihat, dibaca dan dipelajari, ditransformasikan kepada orang lain melalui media informasi secara visual (buku, jurnal, makalah) audio (radio dan lain-lain) dan audiovisual (televisi, HP, internet, pakar/ahli).  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 24
 
-Ayat (1) Huruf a Yang dimaksud dengan aspek promotif adalah meningkatkan agar status kesehatan menjadi semakin meningkat, misalnya pemberian inisiasi menyusui dini (IMD) dan ASI eksklusif yang dapat membantu meningkatkan kekebalan terhadap penyakit karena kolostrum dan zat-zat gizi yang terkandung dalam ASI, sehingga anak tidak mudah terkena penyakit.  
+Ayat (1)  
+Huruf a  
+Yang dimaksud dengan aspek promotif adalah meningkatkan agar status kesehatan menjadi semakin meningkat, misalnya pemberian inisiasi menyusui dini (IMD) dan ASI eksklusif yang dapat membantu meningkatkan kekebalan terhadap penyakit karena kolostrum dan zat-zat gizi yang terkandung dalam ASI, sehingga anak tidak mudah terkena penyakit.  
 
-Huruf b Yang dimaksud dengan aspek preventif adalah mencegah jangan sampai terkena penyakit atau menjaga prang yang sehat agar tetap sehat, misalnya melakukan cuci tangan sebelum makan dan sesudah buang air besar akan mencegah terjadinya penyakit diare.  
+Huruf b  
+Yang dimaksud dengan aspek preventif adalah mencegah jangan sampai terkena penyakit atau menjaga prang yang sehat agar tetap sehat, misalnya melakukan cuci tangan sebelum makan dan sesudah buang air besar akan mencegah terjadinya penyakit diare.  
 
-Huruf c Yang dimaksud dengan aspek kuratif adalah proses menyembuhkan seseorang dari keadaan sakit secara fisik dan psikis.  
+Huruf c  
+Yang dimaksud dengan aspek kuratif adalah proses menyembuhkan seseorang dari keadaan sakit secara fisik dan psikis.  
 
-Huruf d Yang dimaksud dengan aspek rehabilitatif adalah proses menjaga agar seorang yang sudah sembuh (belum 100% sembuh) kembali bugar seperti semula.  
+Huruf d  
+Yang dimaksud dengan aspek rehabilitatif adalah proses menjaga agar seorang yang sudah sembuh (belum 100% sembuh) kembali bugar seperti semula.  
 
-Ayat (2) Cukup jelas Ayat (3) Huruf a Cukup jelas Huruf b Yang dimaksud medikolegal adalah memberikan pelayanan prima/sebaik-baiknya pada korban kekerasan.  
+Ayat (2)  
+Cukup jelas.  
 
-Huruf c cukup jelas Ayat (4) Cukup jelas
+Ayat (3)  
+Huruf a  
+Cukup jelas.  
+
+Huruf b  
+Yang dimaksud medikolegal adalah memberikan pelayanan prima/sebaik-baiknya pada korban kekerasan.  
+
+Huruf c  
+cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 25
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Yang dimaksud dengan instansi dan/atau organisasi keagamaan adalah Pengurus Majelis Ulama Indonesia, Petugas Kantor Urusan Agama, Pendeta dan Pastor serta Da'i.  
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Huruf a.  
+Cukup jelas.  
+
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Yang dimaksud dengan instansi dan/atau organisasi keagamaan adalah Pengurus Majelis Ulama Indonesia, Petugas Kantor Urusan Agama, Pendeta dan Pastor serta Da'i.  
 
 #### Pasal 26
 
-Ayat (1) Cukup jelas Ayat (2) Huruf a Yang dimaksud dengan Konselor adalah petugas terlatih yang melakukan konseling yakni pemberian bantuan oleh seseorang yang ahli/terlatih sedemikian rupa sehingga pemahaman dan kemampuan psikologis diri korban meningkat dalam memecahkan permasalahan yang dihadapi.  
+Ayat (1)  
+Cukup jelas.  
 
-Huruf b Yang dimaksud dengan Psikolog adalah tenaga yang memiliki kemampuan untuk melakukan pemulihan psikologis bagi perempuan dan anak korban kekerasan.  
+Ayat (2)  
+Huruf a  
+Yang dimaksud dengan Konselor adalah petugas terlatih yang melakukan konseling yakni pemberian bantuan oleh seseorang yang ahli/terlatih sedemikian rupa sehingga pemahaman dan kemampuan psikologis diri korban meningkat dalam memecahkan permasalahan yang dihadapi.  
 
-Huruf c Yang dimaksud dengan Psikiater adalah profesi dokter spesialistik yang bertugas menangani masalah-masalah gangguan jiwa.  
+Huruf b  
+Yang dimaksud dengan Psikolog adalah tenaga yang memiliki kemampuan untuk melakukan pemulihan psikologis bagi perempuan dan anak korban kekerasan.  
 
-Ayat (3) Cukup jelas Ayat (4) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Yang dimaksud dengan pembahasan kasus (case conference) adalah konferensi atau pertemuan yang diikuti lebih dari 1 (satu) tenaga profesi untuk membahas kasus dalam rangka pemecahan masalah ketika ada penyelesaian kasus yang menemui kebuntuan dan tidak dapat dipecahkan melalui konseling Huruf d Yang dimaksud dengan kunjungan ke lokasi (home visit) adalah kunjungan kelingkungan sosial korban dalam rangka resosialisasi dan menggali informasi lebih lanjut berkaitan dengan masalah korban.  
+Huruf c  
+Yang dimaksud dengan Psikiater adalah profesi dokter spesialistik yang bertugas menangani masalah-masalah gangguan jiwa.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Huruf a  
+Cukup jelas.  
+
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Yang dimaksud dengan pembahasan kasus (case conference) adalah konferensi atau pertemuan yang diikuti lebih dari 1 (satu) tenaga profesi untuk membahas kasus dalam rangka pemecahan masalah ketika ada penyelesaian kasus yang menemui kebuntuan dan tidak dapat dipecahkan melalui konseling Huruf d Yang dimaksud dengan kunjungan ke lokasi (home visit) adalah kunjungan kelingkungan sosial korban dalam rangka resosialisasi dan menggali informasi lebih lanjut berkaitan dengan masalah korban.  
 
 #### Pasal 27
 
-Ayat (1) Cukup Jelas Ayat (2) Cukup Jelas Ayat (3) Cukup Jelas Ayat (4) Cukup Jelas Ayat (5) Huruf a Yang dimaksud dengan pekerja sosial/relawan adalah seseorang yang mempunyai kompetensi profesional dalam pekerjaan sosial yang diperoleh melalui pendidikan formal atau pengalaman praktik di bidang pekerjaan sosial/kesejahteraan sosial yang diakui secara resmi oleh Pemerintah dan melaksanakan tugas profesional pekerjaan sosial yang peka gender.  
+Ayat (1)  
+Cukup Jelas.  
 
-Huruf b Yang dimaksud petugas keamanan, antara lain terdiri atas kepolisian, satuan pengamanan, Satpol PP, petugas yang ditunjuk sesuai dengan ketentuan yang berlaku.  
+Ayat (2)  
+Cukup Jelas.  
 
-Huruf c Cukup jelas
+Ayat (3)  
+Cukup Jelas.  
+
+Ayat (4)  
+Cukup Jelas.  
+
+Ayat (5)  
+Huruf a  
+Yang dimaksud dengan pekerja sosial/relawan adalah seseorang yang mempunyai kompetensi profesional dalam pekerjaan sosial yang diperoleh melalui pendidikan formal atau pengalaman praktik di bidang pekerjaan sosial/kesejahteraan sosial yang diakui secara resmi oleh Pemerintah dan melaksanakan tugas profesional pekerjaan sosial yang peka gender.  
+
+Huruf b  
+Yang dimaksud petugas keamanan, antara lain terdiri atas kepolisian, satuan pengamanan, Satpol PP, petugas yang ditunjuk sesuai dengan ketentuan yang berlaku.  
+
+Huruf c  
+Cukup jelas.  
 
 #### Pasal 28
 
-Ayat (1) Cukup jelas Ayat (2) Huruf a Cukup jelas Huruf b Yang dimaksud dengan menyerahkan putusan akhir di tangan korban (self determination) adalah pembimbing menyampaikan informasi selengkap-lengkapnya dan mempersilahkan korban untuk mengambil putusan akhir.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
+
+Huruf b  
+Yang dimaksud dengan menyerahkan putusan akhir di tangan korban (self determination) adalah pembimbing menyampaikan informasi selengkap-lengkapnya dan mempersilahkan korban untuk mengambil putusan akhir.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 29
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 30
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 31
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 32
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 33
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 34
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 35
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 36
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 37
 
@@ -1167,63 +1439,81 @@ Cukup jelas
 
 #### Pasal 39
 
-Huruf a Yang dimaksud dengan pelatihan peningkatan keterampilan keluarga meliputi: pelatihan menjahit, pelatihan salon, pelatihan tata boga, pelatihan menyulam, pelatihan bordir Huruf b Cukup jelas
+Huruf a  
+Yang dimaksud dengan pelatihan peningkatan keterampilan keluarga meliputi: pelatihan menjahit, pelatihan salon, pelatihan tata boga, pelatihan menyulam, pelatihan bordir.  
+
+Huruf b  
+Cukup jelas.  
 
 #### Pasal 40
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 41
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 42
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 43
 
-Ayat (1) Yang dimaksud pihak swasta antara lain Perseroan Terbatas yang menyelenggarakan pelayanan publik.  
+Ayat (1)  
+Yang dimaksud pihak swasta antara lain Perseroan Terbatas yang menyelenggarakan pelayanan publik.  
 
-Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 44
 
-Ayat (1) Cukup jelas Ayat (2) Yang dimaksud dengan survey adalah pengertian secara komperehensif kepada suatu objek tertentu yang tujuannya untuk mendapatkan data valid.  
+Ayat (1) Cukup jelas.  
+
+Ayat (2)  
+Yang dimaksud dengan survey adalah pengertian secara komperehensif kepada suatu objek tertentu yang tujuannya untuk mendapatkan data valid.  
 
 Yang dimaksud registrasi adalah merupakan urutan prosedur administrasi yang wajib dijalanani oleh setiap korban kekerasan.  
 
 Yang dimaksud dengan statistik rutin instansi adalah situs pengolahan data merupakan sebuah aplikasi yang berbasis.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (3) Cukup jelas.  
+
+Ayat (4) Cukup jelas.  
 
 #### Pasal 45
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 46
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 47
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 48
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 49
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 50
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Yang dimaksud instansi adalah instansi yang berkaitan dengan pelaksanaan perlindungan anak, misalnya OPD yang menyelenggarakan urusan pemerintahan dibidang pemberdayaan perempuan dan perlindungan anak, P2TP2A dan lain-lain.  
+Ayat (1) Cukup jelas Ayat (2) Cukup jelas.  
+
+Ayat (3)  
+Yang dimaksud instansi adalah instansi yang berkaitan dengan pelaksanaan perlindungan anak, misalnya OPD yang menyelenggarakan urusan pemerintahan dibidang pemberdayaan perempuan dan perlindungan anak, P2TP2A dan lain-lain.  
 
 #### Pasal 51
 
-Ayat (1) Yang dimaksud dengan anak berkebutuhan khusus adalah anak yang mengalami keterbatasan/keluarbiasaan baik fisik, mentalintelektual, sosial, maupun emosional yang berpengaruh secara signifikan dalam proses pertumbuhan dan perkembangan yang dibandingkan dengan anak-anak lain seusianya.  
+Ayat (1)  
+Yang dimaksud dengan anak berkebutuhan khusus adalah anak yang mengalami keterbatasan/keluarbiasaan baik fisik, mentalintelektual, sosial, maupun emosional yang berpengaruh secara signifikan dalam proses pertumbuhan dan perkembangan yang dibandingkan dengan anak-anak lain seusianya.  
 
 Yang dimaksud dengan pendidikan formal adalah adalah kegiatan yang sistematis, berstruktur, bertingkat dimulai dari sekolah dasar sampai perguruan tinggi dan yang setaraf dengannya, termasuk di dalamnya adalah kegiatan studi yang berorientasi akademis dan umum, program spesialisasi, dan latihan profesional yang dilaksanakan dalam waktu yang terus menerus.  
 
@@ -1233,118 +1523,136 @@ Yang dimaksud dengan pendidikan informal adalah jalur pendidikan keluarga (les, 
 
 #### Pasal 52
 
-Yang dimaksud dengan anak berhadapan dengan hukum adalah anak yang berkonflik dengan hukum, anak yang menjadi tindak pidana dan anak yang menjadi saksi tindak pidana
+Yang dimaksud dengan anak berhadapan dengan hukum adalah anak yang berkonflik dengan hukum, anak yang menjadi tindak pidana dan anak yang menjadi saksi tindak pidana.  
 
 #### Pasal 53
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 54
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 55
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 56
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 57
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 58
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 59
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 60
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 61
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 62
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 63
 
-Ayat (1) Cukup jelas Ayat (2) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Yang dimaksud dengan keadilan restorative adalah penyelesaian perkara tindak pidana dengan melibatkan pelaku, korban, keluarga pelaku/korban dan pihak lain yang terkait untuk bersama-sama mencari penyelesaian yang adil dengan menekankan pemulihan kembali pada keadaan semula dan bukan pembalasan Huruf e Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
+
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Yang dimaksud dengan keadilan restorative adalah penyelesaian perkara tindak pidana dengan melibatkan pelaku, korban, keluarga pelaku/korban dan pihak lain yang terkait untuk bersama-sama mencari penyelesaian yang adil dengan menekankan pemulihan kembali pada keadaan semula dan bukan pembalasan Huruf e Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas
 
 #### Pasal 64
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 65
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 66
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 67
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 68
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 69
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 70
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 71
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 72
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 73
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 74
 
-Ayat (1) Cukup jelas Ayat (2) Yang dimaksud dengan dapat beralih pada keluarga adalah anak dialihkan pengasuhannya kepada keluarga luas, keluarga alternatif atau orang tua angkat
+Ayat (1)  
+Cukup jelas.  
+
+Ayat (2)  
+Yang dimaksud dengan dapat beralih pada keluarga adalah anak dialihkan pengasuhannya kepada keluarga luas, keluarga alternatif atau orang tua angkat
 
 #### Pasal 75
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 76
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 77
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 78
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 79
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 80
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN BUOL NOMOR 69
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BUOL NOMOR 69  
