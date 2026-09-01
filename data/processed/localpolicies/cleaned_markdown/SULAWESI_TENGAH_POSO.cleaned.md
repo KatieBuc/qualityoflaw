@@ -1,16 +1,18 @@
-# PEMERINTAH KABUPATEN POSO
+# PENYELENGGARAAN PERLINDUNGAN, PELAYANAN DAN PEMULIHAN PEREMPUAN DAN ANAK KORBAN KEKERASAN 
+
+PEMERINTAH KABUPATEN POSO  
 
 # PERATURAN DAERAH KABUPATEN POSO
 
-# NOMOR 6 TAHUN 2008
+NOMOR 6 TAHUN 2008  
 
-# TENTANG
+TENTANG  
 
-PENYELENGGARAAN PERLINDUNGAN, PELAYANAN DAN PEMULIHAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+PENYELENGGARAAN PERLINDUNGAN, PELAYANAN DAN PEMULIHAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA. 
 
-# BUPATI POSO,
+BUPATI POSO,  
 
 Menimbang:  
  
@@ -33,7 +35,6 @@ Mengingat:
  
  
 1. Undang–Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822 );  
-
 2. Undang–Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 3. Undang–Undang Nomor 7 Tahun 1984 tentang Penghapusan Segala Bentuk Diskriminasi Terhadap Perempuan (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
 4. Undang–Undang Nomor 23 Tahun 1992 tentang Kesehatan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 100, Tambahan Lembaran Negara Republik Indonesia Nomor 3495);  
@@ -52,22 +53,27 @@ Mengingat:
 16. Peraturan Daerah Kabupaten Poso Nomor 25 Tahun 2003 tentang Pemberdayaan Masyarakat Kabupaten Poso (Lembaran Daerah Kabupaten Poso Tahun 2003 Seri D Nomor 25).  
 17. Peraturan Daerah Kabupaten Poso Nomor 1 Tahun 2008 tentang Kewenangan Daerah Kabupaten Poso (Lembaran Daerah Kabupaten Poso Tahun 2008 Nomor 1 );  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN POSO d a n
+Dengan Persetujuan Bersama  
 
-# BUPATI POSO
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN POSO  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN, PELAYANAN DAN PEMULIHAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+BUPATI POSO  
 
-# B A B I
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN, PELAYANAN DAN PEMULIHAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+
+# BAB I
 
 # KETENTUAN UMUM
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Daerah Kabupaten Poso.  
 2. Pemerintah Daerah adalah Bupati dan Perangkat Daerah sebagai Unsur Penyelenggara Pemerintahan Daerah Kabupaten Poso.  
 3. Dewan Perwakilan Rakyat Daerah adalah Lembaga Perwakilan Rakyat Daerah sebagai Unsur Penyelenggara Pemerintahan Daerah Kabupaten Poso.  
@@ -89,7 +95,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 19. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak yang selanjutnya disingkat P2TP2A adalah Lembaga pemulihan korban kekerasan dari aspek kesehatan, pendidikan dan kemandirian ekonomi.  
 20. Rumah aman adalah tempat tinggal sementara yang digunakan untuk memberikan perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan.  
 
-##### B A B II
+# BAB II
 
 ##### AZAS DAN TUJUAN
 
@@ -107,9 +113,10 @@ d. Kepentingan yang terbaik bagi korban; dan
 Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan bertujuan:  
 a. Mencegah segala bentuk kekerasan ;  
 b. Melindungi korban kekerasan ;  
-c. Memberikan pelayanan pemulihan kepada korban kekerasan; dan d. Menyelenggarakan pemulihan secara menyeluruh kepada korban ;  
+c. Memberikan pelayanan pemulihan kepada korban kekerasan; dan  
+d. Menyelenggarakan pemulihan secara menyeluruh kepada korban ;  
 
-##### B A B III
+# BAB III
 
 ##### PERLINDUNGAN, PELAYANAN DAN PEMULIHAN
 
@@ -149,11 +156,13 @@ b. Pelayanan Medical – Legal merupakan layanan medis untuk kepentingan pembukt
 c. Pelayanan Psiko – sosial merupakan pelayanan yang diberikan oleh pendamping dalam rangka memulihkan kondisi traumatis korban termasuk pemulihan dengan pendekatan spiritual ;  
 d. Pelayanan Hukum disetiap tingkatan pemeriksaan; dan e. Pelayanan resosialisasi agar korban dapat kembali melaksanakan funsgi sosialnya dalam masyarakat ;  
 2. Mekanisme Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan menurut Prosedur Standar Operasional, yang akan diatur lebih lanjut dengan Peraturan Bupati.  
-3. Dalam hal tertentu PPT dan atau P2TP2A dapat bekerjasama dengan:a. Kepolisian, untuk melaporkan dan memproses pelaku tindak pidana kekerasan terhadap perempuan dan anak ;  
+3. Dalam hal tertentu PPT dan atau P2TP2A dapat bekerjasama dengan:  
+a. Kepolisian, untuk melaporkan dan memproses pelaku tindak pidana kekerasan terhadap perempuan dan anak ;  
 b. Advokat, untuk membantu korban dalam proses peradilan ;  
 c. Penegak Hukum lainnya, untuk membantu korban pada setiap tingkatan pemeriksaan ;  
 d. Komisi anti kekerasan terhadap perempuan ;  
-e. Komisi Perlindungan Anak Indonesia ( KPAI ); dan f. Pihak tertentu yang diinginkan demi kepentingan korban.  
+e. Komisi Perlindungan Anak Indonesia ( KPAI ); dan  
+f. Pihak tertentu yang diinginkan demi kepentingan korban.  
 
 #### Pasal 7
 
@@ -171,13 +180,14 @@ a. Pemulihan kesehatan ;
 b. Pendidikan bagi anak korban kekerasan dapat berupa pendidikan formal, informal dan non formal ; dan  
 c. Kemandirian ekonomi berupa pelatihan keterampilan, memberikan akses dan penguatan ekonomi agar korban dapat mandiri
 
-##### B A B IV
+# BAB IV
 
 ##### KEWAJIBAN DAN TANGGUNG JAWAB
 
 #### Pasal 9
 
-1. Pemerintah Daerah berkewajiban menyelenggarakan perlindungan, pelayanan dan pemulihan terhadap korban kekerasan, meliputi:a. Menyediakan sarana dan prasarana layanan terpadu ;  
+1. Pemerintah Daerah berkewajiban menyelenggarakan perlindungan, pelayanan dan pemulihan terhadap korban kekerasan, meliputi:  
+a. Menyediakan sarana dan prasarana layanan terpadu ;  
 b. Melibatkan Lembaga Swadaya Masyarakat, Organisasi Perempuan, Tokoh Agama, Tokoh Adat, Tokoh Masyarakat, dalam penyelenggaraan perlindungan dan layanan terhadap korban ;  
 c. Menyediakan anggaran sesuai program dan kebutuhan ;  
 d. Menjamin terlaksananya kemudahan pelayanan kepada korban ;  
@@ -185,18 +195,18 @@ e. Mengupayakan efektifitas dan efisiensi bagi proses pemulihan korban ; dan
 f. Mengupayakan terciptanya kerjasama dan koordinasi dalam upaya pemulihan korban.  
 2. Pemerintah Daerah berkoordinasi antar instansi dan lembaga sosial lainnya yang bertanggung jawab penuh dalam melaksanakan kewajibannya sebagaimana dimaksud pada ayat (1) sesuai dengan peraturan perundang – undangan yang berlaku.  
 
-##### B A B V
+# BAB V
 
 ##### HAK– HAK KORBAN
 
 #### Pasal 10
 
-Setiap korban berhak mendapatkan jaminan atas hak – haknya sebagai Warga Negara sesuai dengan peraturan perundang – undangan yang meliputi: (1) Perlindungan dan perlindungan khusus dalam bentuk pendampingan dan rasa aman.  
-
+Setiap korban berhak mendapatkan jaminan atas hak – haknya sebagai Warga Negara sesuai dengan peraturan perundang – undangan yang meliputi:  
+1. Perlindungan dan perlindungan khusus dalam bentuk pendampingan dan rasa aman.  
 2. Pelayanan dalam bentuk pelayanan medis, psiko – sosial, medical – legal, pelayanan hukum dan pelayanan resosialisasi.  
 3. Pemulihan dalam bentuk pendidikan, kesehatan dan pemulihan ekonomi.  
 
-##### B A B VI
+# BAB VI
 
 ##### PEMBIAYAAN
 
@@ -233,12 +243,12 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Poso.  
 
-Ditetapkan di Poso Pada tanggal 26 Juli 2008
+Ditetapkan di Poso Pada tanggal 26 Juli 2008  
 
-##### BUPATI POSO,
+BUPATI POSO,  
 
-##### PIET INKIRIWANG
+PIET INKIRIWANG  
 
-Diundangkan di Poso Pada tanggal 29 Juli 2008
+Diundangkan di Poso Pada tanggal 29 Juli 2008  
 
-##### LEMBARAN DAERAH KABUPATEN POSO TAHUN 2008 NOMOR 6
+LEMBARAN DAERAH KABUPATEN POSO TAHUN 2008 NOMOR 6. 
