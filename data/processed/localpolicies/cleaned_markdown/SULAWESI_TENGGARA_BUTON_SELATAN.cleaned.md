@@ -1,16 +1,20 @@
-# BUPATI BUTON SELATAN
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# PROVINSI SULAWESI TENGGARA
+BUPATI BUTON SELATAN  
+
+PROVINSI SULAWESI TENGGARA  
 
 # PERATURAN DAERAH KABUPATEN BUTON SELATAN
 
-# NOMOR: 2 TAHUN 2021
+NOMOR 2 TAHUN 2021  
 
-# TENTANG
+TENTANG
 
-PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# BUPATI BUTON SELATAN,
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI BUTON SELATAN,  
 
 Menimbang:  
  
@@ -32,13 +36,9 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
-2. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah di ubah dengan Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor
-5946. ;  
-3. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor
-4419. ;  
-4. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Terhadap Saksi dan Saksi Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor
-4635. ;  
+2. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah di ubah dengan Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor 5946;  
+3. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419;  
+4. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Terhadap Saksi dan Saksi Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 4635;  
 5. Undang-Undang Nomor 16 Tahun 2011 tentang Bantuan  Hukum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 104, Tambahan Lembaran Negara Republik Indonesia Nomor 5248);  
 6. Undang-Undang Nomor 11 Tahun 2012 tentang Sistem  Peradilan Pidana Anak (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 153, Tambahan Lembaran Negara Republik Indonesia Nomor 5332);  
 7. Undang-Undang Nomor 16 Tahun 2014 tentang  Pembentukan Kabupaten Buton Selatan di Provinsi Sulawesi Tenggara (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 173, Tambahan Lembaran Negara Republik Indonesia Nomor 5563);  
@@ -46,15 +46,19 @@ Mengingat:
 9. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 64);  
 10. Peraturan Menteri Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 6 Tahun 2015 tentang Sistem Pemberdayaan Perempuan dan Perlindungan Anak (Berita Negara Republik Indonesia Tahun 2015 Nomor 615);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BUTON SELATAN DAN
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BUTON SELATAN  
 
-# BUPATI BUTON SELATAN
+DAN  
 
-# MEMUTUSKAN:
+BUPATI BUTON SELATAN  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
 # BAB I
 
@@ -62,8 +66,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKE
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Buton Selatan.  
 2. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara  Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan  yang menjadi kewenangan daerah otonom.  
 3. Bupati adalah Bupati Buton Selatan.  
@@ -123,7 +126,8 @@ b. kekerasan psikis;
 c. kekerasan seksual;  
 d. penelantaran;  
 e. perlakuan salah;  
-f. eksploitasi; dan/ataug. kekerasan lainnya.  
+f. eksploitasi; dan/atau  
+g. kekerasan lainnya.  
 
 # BAB V
 
@@ -164,7 +168,8 @@ b. Masyarakat.
 
 #### Pasal 8
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 7 huruf a, meliputi:a. menetapkan, melaksanakan kebijakan, program dan melakukan  kerjasama kegiatan dalam penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 7 huruf a, meliputi:  
+a. menetapkan, melaksanakan kebijakan, program dan melakukan  kerjasama kegiatan dalam penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
 b. memfasilitasi pendirian kelembagaan perlindungan perempuan dan anak dari tindak kekerasan serta memberikan dukungan sarana dan prasarana;  
 c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan sesuai kemampuan keuangan daerah;  
 d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
@@ -178,7 +183,8 @@ g. menunjuk orang tua dan/ atau pengasuh keluarga pengganti sebagai  langkah per
 #### Pasal 9
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan kepada perempuan dan anak dari tindak  kekerasan;  
 c. memberikan informasi dan/ atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dan  
 d. turut serta dalam penanganan korban tindak kekerasan.  
@@ -189,7 +195,8 @@ d. turut serta dalam penanganan korban tindak kekerasan.
 Setiap orang yang mendengar, melihat atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajib melakukan upaya sesuai dengan batas  kemampuannya untuk:  
 a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
 b. memberikan perlindungan kepada korban;  
-c. memberikan pertolongan darurat; dan/ ataud. membantu proses pengajuan permohonan penetapan perlindungan korban  kekerasan.  
+c. memberikan pertolongan darurat; dan/ atau  
+d. membantu proses pengajuan permohonan penetapan perlindungan korban  kekerasan.  
 
 # BAB VII
 
@@ -230,7 +237,8 @@ Pencegahan Tindak Kekerasan
 #### Pasal 15
 
 1. Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada  keluarga, orangtua dan masyarakat dengan memberikan informasi,  bimbingan dan/ atau penyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),  dilaksanakan dengan cara:a. memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal maupun informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),  dilaksanakan dengan cara:  
+a. memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal maupun informal;  
 b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial sesuai dengan  ketentuan yang berlaku;  
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan  perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -240,7 +248,8 @@ g. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan  anak dari t
 
 #### Pasal 16
 
-1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 15, dilaksanakan oleh Perangkat  Daerah yang tugas dan fungsinya di bidang:a. sosial;  
+1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 15, dilaksanakan oleh Perangkat  Daerah yang tugas dan fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
@@ -312,12 +321,14 @@ Kerjasama
 #### Pasal 21
 
 1. Pemerintah Daerah mengembangkan pola kerjasama dalam rangka mencapai  tujuan perlindungan perempuan dan anak dari tindak kekerasan sesuai  ketentuan peraturan perundang-undangan.  
-2. Kerjasama sebagaimana dimaksud pada ayat (1), dilakukan antara  Pemerintah Daerah dengan:a. Pemerintah Pusat;  
+2. Kerjasama sebagaimana dimaksud pada ayat (1), dilakukan antara  Pemerintah Daerah dengan:  
+a. Pemerintah Pusat;  
 b. Pemerintah Provinsi;  
 c. Pemerintah Kabupaten/Kota lain;  
 d. Perguruan Tinggi;  
 e. Lembaga Sosial dan Keagamaan;  
-f. Lembaga Swadaya Masyarakat; dan/ ataug. Media.  
+f. Lembaga Swadaya Masyarakat; dan/ atau  
+g. Media.  
 3. Kerjasama sebagaimana dimaksud pada ayat (2), meliputi:  
 a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
@@ -331,7 +342,8 @@ Kemitraan
 
 #### Pasal 22
 
-1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha  dalam perlindungan perempuan dan anak dari tindak kekerasan. (2) Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
+1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha  dalam perlindungan perempuan dan anak dari tindak kekerasan.  
+2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dan  
@@ -344,7 +356,8 @@ d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kek
 
 #### Pasal 23
 
-1. Pemerintah Daerah berkewajiban melakukan pembinaan dan pengawasan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan. (2) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi:  
+1. Pemerintah Daerah berkewajiban melakukan pembinaan dan pengawasan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan.  
+2.  Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi:  
 a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. koordinasi;  
@@ -369,7 +382,8 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembinaan dan  pengawasan 
 Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan, dapat bersumber dari:  
 a. anggaran pendapatan dan belanja negarab. anggaran pendapatan dan belanja daerah;  
 c. sumbangan masyarakat yang tidak mengikat;  
-d. bantuan luar negeri yang tidak mengikat; dan/ ataue. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
+d. bantuan luar negeri yang tidak mengikat; dan/ atau  
+e. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 #### Pasal 27
 
@@ -386,16 +400,16 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Buton  Selatan.  
 
-Ditetapkan di Batauga pada tanggal 16 Maret 2021
+Ditetapkan di Batauga pada tanggal 16 Maret 2021  
 
-##### BUPATI BUTON SELATAN,
+BUPATI BUTON SELATAN,  
 
-##### LA ODE ARUSANI
+LA ODE ARUSANI  
 
-Diundangkan di Batauga pada tanggal 16 Maret 2021
+Diundangkan di Batauga pada tanggal 16 Maret 2021  
 
-##### SEKRETARIS DAERAH KABUPATEN BUTON SELATAN,
+SEKRETARIS DAERAH KABUPATEN BUTON SELATAN,  
 
-##### LA SIAMBO
+LA SIAMBO  
 
-LEMBARAN DAERAH KABUPATEN BUTON SELATAN TAHUN 2021 NOMOR: 2 NOREG. PERATURAN DAERAH KABUPATEN BUTON SELATAN PROVINSI  SULAWESI TENGGARA NOMOR: 2/ 35/ 2021
+LEMBARAN DAERAH KABUPATEN BUTON SELATAN TAHUN 2021 NOMOR: 2 NOREG. PERATURAN DAERAH KABUPATEN BUTON SELATAN PROVINSI  SULAWESI TENGGARA NOMOR: 2/ 35/ 2021  
