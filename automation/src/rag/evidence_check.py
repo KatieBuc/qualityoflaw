@@ -8,7 +8,12 @@ mistyped — it's the same strings that came straight from the retrieved
 chunks.
 """
 
-from automation.src.rag.sentence_align import GRANULARITY_SENTENCE
+from automation.src.rag.sentence_align import GRANULARITY_ITEM, GRANULARITY_SENTENCE
+
+#: Granularities tight enough to show as a genuine side-by-side pairing: an
+#: exact sentence, or the one list item the cited sentence sits in. A
+#: whole-chunk fallback is not one of these.
+_LOCALLY_ALIGNED = frozenset({GRANULARITY_SENTENCE, GRANULARITY_ITEM})
 
 
 def resolve_evidence_citation(
@@ -59,9 +64,9 @@ def resolve_evidence_source_text(
 def resolve_evidence_original_alignment(
     citations: list[str] | None, alignment_lookup: dict[str, str]
 ) -> bool | None:
-    """Whether every citation's `evidence_original` text came from an exact
-    per-sentence pairing (`sentence_align.GRANULARITY_SENTENCE`) rather than
-    a whole-chunk fallback.
+    """Whether every citation's `evidence_original` text came from a tight local
+    pairing -- an exact sentence or its single list item
+    (`sentence_align._LOCALLY_ALIGNED`) -- rather than a whole-chunk fallback.
 
     None when no citation resolved to any granularity at all, mirroring
     `resolve_evidence_source_text` returning None in that same case -- there
@@ -76,4 +81,4 @@ def resolve_evidence_original_alignment(
     resolved = [g for g in granularities if g is not None]
     if not resolved:
         return None
-    return all(g == GRANULARITY_SENTENCE for g in resolved)
+    return all(g in _LOCALLY_ALIGNED for g in resolved)

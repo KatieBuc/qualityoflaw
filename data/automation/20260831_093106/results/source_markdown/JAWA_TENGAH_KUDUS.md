@@ -1,0 +1,457 @@
+# LEMBARAN DAERAH
+
+# NOMOR 2 TAHUN 2013
+
+# PERATURAN DAERAH KABUPATEN KUDUS
+
+# NOMOR 2 TAHUN
+
+# TENTANG
+
+PENYELENGGARAAN PERLINDUNGAN TERHADAP  KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
+
+# DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI KUDUS,
+
+Menimbang:  
+a. bahwa segala bentuk kekerasan,  terutama kekerasan berbasis gender dan anak adalah pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
+b. bahwa korban kekerasan berbasis gender dan anak harus mendapatkan perlindungan, baik dari Pemerintah Daerah, instansi terkait, dan/atau masyarakat agar terhindar dan terbebas dari kekerasan dan/atau ancaman kekerasan dalam rumah tangga dan masyarakat;  
+c. bahwa berdasarkan Undang-Undang  Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah, instansi terkait, dan/atau masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
+d. bahwa berdasarkan pertimbangan  sebagaimana dimaksud huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender Dan Anak;  
+
+Mengingat:  
+1. Pasal 18 ayat (6) Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
+
+2. Undang-Undang Nomor 13 Tahun 1950  tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Jawa Tengah;  
+3. Undang-Undang Nomor 4 Tahun 1979  tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
+4. Undang-Undang Nomor 39 Tahun 1999  tentang Hak Asasi Manusia (Lembaran  Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran  Negara Republik Indonesia Nomor  3886);  
+5. Undang-Undang Nomor 23 Tahun 2002  tentang Perlindungan Anak (Lembaran  Negara Republik Indonesia Tahun 2002  Nomor 109, Tambahan Lembaran  Negara Republik Indonesia Nomor  4235);  
+6. Undang-Undang Nomor 13 Tahun 2003  tentang Ketenagakerjaan (Lembaran  Negara Republik Indonesia Tahun 2003  Nomor 39, Tambahan Lembaran Negara  Republik Indonesia Nomor 4281);  
+7. Undang-Undang Nomor 23 Tahun 2004  tentang Penghapusan Kekerasan Dalam  Rumah Tangga (Lembaran Negara  Republik Indonesia Tahun 2004 Nomor  95, Tambahan Lembaran Negara  Republik Indonesia Nomor 4419);  
+8. Undang-Undang Nomor 32 Tahun 2004  tentang Pemerintahan Daerah  (Lembaran Negara Republik Indonesia  Tahun 2004 Nomor 125, Tambahan  Lembaran Negara Republik Indonesia  Nomor 4437 sebagaimana telah diubah  beberapa kali terakhir dengan Undang Undang Nomor 12 Tahun 2008 tentang  Perubahan Kedua Atas Undang-Undang  Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran  Negara Republik Indonesia Tahun 2008  Nomor 59, Tambahan Lembaran Negara  Republik Indonesia Nomor 4844);  
+9. Undang-Undang Nomor 13 Tahun 2006  tentang Perlindungan Saksi dan  Korban (Lembaran Negara Republik  Indonesia Tahun 2006 Nomor 64,  Tambahan Lembaran Negara Republik  Indonesia Nomor 4635);  
+10. Undang-Undang Nomor 21 Tahun 2007  tentang Pemberantasan Tindak Pidana  Perdagangan Orang (Lembaran Negara  Republik Indonesia Tahun 2007 Nomor  58, Tambahan Lembaran Negara  Republik Indonesia Nomor 4720);  
+11. Undang-Undang Nomor 11 Tahun 2009  tentang Kesejahteraan Sosial  (Lembaran Negara Republik Indonesia  Tahun 2009 Nomor 12, Tambahan  Lembaran Negara Republik Indonesia  Nomor 4967);  
+12. Undang-Undang Nomor 36 Tahun 2009  tentang Kesehatan (Lembaran Negara  Republik Indonesia Tahun 2009 Nomor  144, Tambahan Lembaran Negara  Republik Indonesia Nomor 5063);  
+13. Undang-Undang Nomor 12 Tahun 2011  tentang Pembentukan Peraturan  Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2011  Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);  
+14. Undang-Undang Nomor 11 Tahun 2012  tentang Sistem Peradilan Pidana Anak  (Lembaran Negara Republik Indonesia  Tahun 2012 Nomor 153, Tambahan  Lembaran Negara Republik Indonesia  Nomor 5332);  
+15. Peraturan Pemerintah Nomor 2 Tahun  1988 tentang Usaha Kesejahteraan  Anak Yang Mempunyai Masalah  (Lembaran Negara Republik Indonesia  Tahun 1988 Nomor 2, Tambahan  Lembaran Negara Republik Indonesia  3367);  
+16. Peraturan Pemerintah Nomor 6 Tahun  1988 tentang Koordinasi Kegiatan  Instansi Vertikal Di Daerah (Lembaran  Negara Republik Indonesia Tahun 1988  Nomor 10, Tambahan Lembaran Negara  Republik Indonesia 3373);  
+17. Peraturan Pemerintah Nomor 79 Tahun  2005 tentang Pedoman Pembinaan dan  Pengawasan Penyelenggaraan  Pemerintahan Daerah (Lembaran  Negara Republik Indonesia Tahun 2005  Nomor 165, Tambahan Lembaran  Negara Republik Indonesia Nomor  4593);  
+18. Peraturan Pemerintah Nomor 4 Tahun  2006 tentang Penyelenggaraan dan  Kerjasama Pemulihan Korban  Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia  Tahun 2006 Nomor 15 Tambahan  Lembaran Negara Republik Indonesia  Nomor 4604);  
+19. Peraturan Pemerintah Nomor 38 Tahun  2007 tentang Pembagian Urusan  Pemerintahan Antara Pemerintah,  Pemerintahan Daerah Provinsi, Dan  Pemerintahan Daerah Kabupaten/Kota  (Lembaran Negara Republik Indonesia  Tahun 2007 Nomor 82, Tambahan  Lembaran Negara Republik Indonesia  Nomor 4737);  
+20. Peraturan Pemerintah Nomor 50 Tahun  2007 tentang Tata Cara Pelaksanaan  Kerja Sama Daerah (Lembaran Negara  Republik Indonesia Tahun 2007 Nomor  112, Tambahan Lembaran Negara  Republik Indonesia Nomor 4761);  
+21. Peraturan Pemerintah Nomor 9 Tahun  2008 tentang Tata Cara Dan  Mekanisme Pelayanan Terpadu Bagi  Saksi dan/atau Korban Tindak Pidana  Perdagangan Orang (Lembaran Negara  Republik Indonesia Tahun 2008 Nomor  22, Tambahan Lembaran Negara  Republik Indonesia Nomor 4818);  
+22. Peraturan Presiden Nomor 1 Tahun  2007 tentang Pengesahan,  Pengundangan dan Penyebarluasan  Peraturan Perundang-undangan;  
+23. Peraturan Daerah Provinsi Jawa  Tengah Nomor 3 Tahun 2009 tentang Penyelenggaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender Dan Anak (Lembaran Daerah Provinsi Tahun 2009 Nomor 3, Tambahan Lembaran Daerah Provinsi Jawa Tengah Nomor 20);  
+24. Peraturan Daerah Kabupaten Kudus  Nomor 3 Tahun 2008 tentang Urusan Pemerintahan yang menjadi Kewenangan Pemerintahan Daerah Kabupaten Kudus (Lembaran Daerah Kabupaten Kudus Tahun 2008 Nomor 3, Tambahan Lembaran Daerah Kabupaten Kudus Nomor 106);  
+
+Dengan Persetujuan Bersama
+
+# DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN  KUDUS
+
+# BUPATI KUDUS
+
+# MEMUTUSKAN:
+
+Menetapkan: PERATURAN DAERAH TENTANG  PENYELENGGARAAN PERLINDUNGAN  TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK.  
+
+# BAB I
+
+## KETENTUAN UMUM
+
+#### Pasal 1
+
+Dlam Peraturan Daerah ini, yang dimaksud dengan:
+
+1. Pemerintah Pusat yang selanjutnya disebut  Pemerintah adalah Presiden Republik Indonesia  yang memegang kekuasaan Pemerintah Negara  Republik Indonesia sebagaimana dimaksud dalam  Undang-Undang Dasar Republik Indonesia Tahun  1945.  
+2. Daerah adalah Kabupaten Kudus.  
+3. Pemerintah Daerah adalah Bupati dan Perangkat  Daerah sebagai unsur penyelenggara pemerintahan daerah.  
+4. Bupati adalah Bupati Kudus.  
+5. Dewan Perwakilan Rakyat Daerah yang selanjutnya  disebut DPRD adalah Dewan Perwakilan Rakyat  Daerah Kabupaten Kudus.  
+6. Satuan Kerja Perangkat Daerah yang selanjutnya  disingkat SKPD adalah Satuan Kerja Perangkat  Daerah yang membidangi pemberdayaan  perempuan dan perlindungan anak.  
+7. Anak adalah seseorang yang belum berusia 18  (delapan belas) tahun, termasuk anak yang masih  dalam kandungan.  
+8. Gender adalah konsep yang mengacu pada peran peran dan tanggung jawab laki-laki dan perempuan  yang terjadi akibat dari dan dapat berubah oleh  keadaan sosial dan budaya masyarakat.  
+9. Perlindungan adalah segala upaya yang ditujukan  untuk memberikan rasa aman dan memenuhi hak hak korban yang dilakukan oleh pihak keluarga,  pelayanan terpadu, advokat, lembaga sosial,  kepolisian, kejaksaan, pengadilan, atau pihak  lainnya baik sementara maupun berdasarkan  penetapan pengadilan.  
+10. Perlindungan Anak adalah segala kegiatan untuk  menjamin dan melindungi anak dan hak-haknya  agar dapat hidup, tumbuh, berkembang, dan  berpartisipasi, secara optimal sesuai dengan harkat  dan martabat kemanusiaan, serta mendapat  perlindungan dari kekerasan dan diskriminasi.  
+11. Penyelenggaraan perlindungan adalah serangkaian  kegiatan yang ditujukan untuk mencegah  terjadinya kekerasan, memberikan perlindungan  serta layanan pemulihan dan reintegrasi sosial,  melakukan koordinasi dan kerjasama, dan  peningkatan partisipasi masyarakat yang dilakukan  oleh SKPD yang membidangi.  
+12. Kekerasan adalah setiap bentuk perbuatan  melawan hukum yang dapat mengakibatkan atau  menimbulkan bahaya bagi seseorang baik yang  bersifat fisik, seksual, psikologis dan ekonomi.  
+13. Kekerasan Berbasis Gender adalah setiap bentuk  pembatasan, pengucilan, pembedaan dan seluruh  bentuk perlakuan yang dilakukan atas dasar jenis kelamin dan bertujuan untuk mengurangi,  menghapuskan pengakuan, penikmatan atau  penggunaan hak asasi manusia, yang akibatnya  berupa dan tidak terbatas pada kekerasan fisik,  seksual, psikologis dan ekonomi.  
+14. Kekerasan Terhadap Anak adalah setiap bentuk  pembatasan, pembedaan, pengucilan dan seluruh  bentuk perlakuan yang dilakukan terhadap anak,  yang akibatnya berupa dan tidak terbatas pada  kekerasan fisik, seksual, psikologis, dan ekonomi.  
+15. Kekerasan Fisik adalah setiap perbuatan yang  mengakibatkan rasa sakit, jatuh sakit, atau luka  berat.  
+16. Kekerasan Seksual adalah setiap perbuatan yang  berupa pemaksaan hubungan seksual, pemaksaan  hubungan seksual dengan tidak wajar dan/atau  tidak disukai, pemaksaan hubungan seksual  dengan orang lain untuk tujuan komersial  dan/atau tujuan tertentu.  
+17. Kekerasan Psikologis atau kekerasan psikis adalah  setiap perbuatan yang mengakibatkan ketakutan,  hilangnya rasa percaya diri, hilangnya kemampuan  untuk bertindak, rasa tidak berdaya dan/atau  penderitaan psikis berat pada seseorang.  
+18. Kekerasan Ekonomi adalah setiap perbuatan yang  dapat berupa membatasi hak seseorang untuk  bekerja dengan layak di dalam maupun di luar  rumah dan juga perbuatan menelantarkan anggota  keluarga dalam bentuk tidak memberikan  kehidupan, perawatan atau pemeliharaan secara  layak.  
+19. Korban Kekerasan Berbasis Gender adalah orang  yang karena jenis kelaminnya mengalami  penderitaan fisik, psikis, ekonomi, sosial, seksual,  dan kerugian lain yang diakibatkan karena  kebijakan negara, tindak kekerasan dan atau  ancaman kekerasan dalam lingkup rumah tangga  dan masyarakat.  
+20. Anak Korban Kekerasan adalah anak yang  mendapatkan perlakuan kasar baik secara fisik,  psikis, ekonomi, sosial, seksual, dan kerugian lain  yang diakibatkan karena kebijakan negara, tindak  kekerasan dan atau ancaman kekerasan dalam  lingkup rumah tangga dan masyarakat.  
+21. Pemulihan Korban adalah segala upaya untuk  penguatan korban kekerasan berbasis gender dan  kekerasan terhadap anak agar lebih berdaya, baik  fisik, psikis, sosial, ekonomi maupun seksual.  
+22. Pendampingan adalah segala tindakan berupa  konseling, terapi psikologis, advokasi, dan  bimbingan rohani, guna penguatan diri korban  kekerasan berbasis gender dan kekerasan terhadap  anak untuk menyelesaikan permasalahan yang  dihadapi.  
+23. Pelayanan Terpadu adalah serangkaian kegiatan  untuk melakukan perlindungan bagi korban  kekerasan berbasis gender dan anak yang  dilaksanakan secara bersama-sama oleh instansi  atau lembaga terkait sebagai satu kesatuan  penyelenggaraan, upaya pencegahan, pelayanan  kesehatan, pelayanan medicolegal, rehabilitasi  psikososial, pemulangan, reintegrasi sosial, dan  bantuan hukum bagi korban kekerasan berbasis gender dan anak.  
+24. Reintegrasi Sosial adalah proses mempersiapkan  masyarakat dan korban yang mendukung  penyatuan kembali korban ke dalam lingkungan  keluarga, pengganti keluarga yang dapat  memberikan perlindungan dan pemenuhan  kebutuhan korban.  
+25. Rumah Aman (shelter) adalah tempat tinggal  sementara yang digunakan untuk memberikan  perlindungan terhadap korban sesuai dengan  standar operasional yang ditentukan.  
+26. Masyarakat adalah perseorangan, keluarga,  kelompok, organisasi sosial, dan/atau organisasi  kemasyarakatan.  
+
+# BAB II
+
+## ASAS DAN TUJUAN
+
+#### Pasal 2
+
+Perlindungan korban kekerasan berbasis gender dan  anak berasaskan Pancasila dan berlandaskan Undang Undang Dasar 1945, serta prinsip-prinsip dasar yang  meliputi:
+a. non diskriminasi;  
+b. kepentingan terbaik bagi korban;  
+c. keadilan dan kesetaraan gender;  
+d. perlindungan korban;  
+e. kelangsungan hidup, dan tumbuh berkembang  anak;  
+f. penghargaan terhadap pendapat anak; g. keterbukaan;  
+h. keterpaduan;  
+i. memberdayakan; danj. kerahasiaan korban.  
+
+#### Pasal 3
+
+Tujuan Peraturan Daerah ini adalah:
+a. mencegah segala bentuk kekerasan berbasis gender  dalam rumah, dan kekerasan terhadap anak yang  terjadi di rumah tangga dan/atau masyarakat;  
+b. memberikan pelayanan dan perlindungan; c. memberikan pendampingan hukum;  
+d. mengupayakan pemulihan dan reintegrasi sosial;  dane. memberikan rasa aman terhadap korban.  
+
+# BAB III
+
+## HAK-HAK KORBAN
+
+#### Pasal 4
+
+1. Setiap korban kekerasan berbasis gender dan anak  berhak:a. memperoleh perlindungan atas keamanan  pribadi, keluarga, dan harta bendanya, serta  bebas dari ancaman yang berkenaan dengan  keterangan yang akan, sedang, atau telah  diberikan;  
+b. untuk ikut serta dalam proses memilih dan  menentukan bentuk perlindungan dan  dukungan keamanan;  
+c. mendapatkan informasi mengenai  perkembangan kasus dan putusan pengadilan;  
+d. mendapatkan pelayanan terpadu yang cepat,  tepat, nyaman, dan sesuai kebutuhan;  
+e. pemulihan dan reintegrasi sosial; danf. mendapatkan pendampingan hukum,  psikologis, bimbingan rohani, ekonomi, sosial  dan penterjemah.  
+2. Hak korban sebagaimana dimaksud pada ayat (1)  dilaksanakan sesuai dengan ketentuan peraturan  perundang-undangan.  
+
+# BAB IV
+
+## KEWAJIBAN DAN KEWENANGAN PEMERINTAH  DAERAH
+
+#### Pasal 5
+
+1. Dalam menyelenggarakan perlindungan terhadap  korban kekerasan berbasis gender dan anak  Pemerintah Daerah berkewajiban:a. mencegah terjadinya kekerasan;  
+b. memberikan perlindungan bagi korban  kekerasan;  
+c. menyediakan layanan pemulihan dan  reintegrasi sosial bagi korban;  
+d. mendorong dan meningkatkan partisipasi  masyarakat;  
+e. melakukan kerjasama dengan penyedia  layanan dalam upaya pencegahan,  perlindungan dan pemulihan korban  kekerasan;  
+f. mengawasi penyelenggaraan pelayanan  terhadap korban yang melibatkan  masyarakat; dang. menyediakan rumah aman (shelter).  
+2. Untuk melaksanakan kewajiban sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah  mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang  penghapusan kekerasan berbasis gender dan  anak;  
+b. memfasilitasi terselenggaranya pelayanan  terpadu;  
+c. menyediakan sarana dan prasarana;  
+d. meningkatkan kapasitas lembaga penyedia  layanan;  
+e. melakukan koordinasi dan kerjasama dalam  penyelenggaraan perlindungan terhadap  korban kekerasan berbasis gender dan anak;  
+f. mendorong partisipasi masyarakat; dan  g. melakukan monitoring dan evaluasi.  
+3. Pemerintah Daerah dalam melaksanakan kewajiban  sebagaimana dimaksud pada ayat (1) dan ayat (2)  harus memperhatikan hak dan kewajiban orang  tua, wali, suami, istri, atau orang lain yang secara  hukum bertanggung jawab kepada korban.  
+
+# BAB V
+
+## PENYELENGGARAAN PERLINDUNGAN
+
+## Bagian Kesatu
+
+Pelayanan Terpadu
+
+#### Pasal 6
+
+Dalam menyelenggarakan perlindungan terhadap  korban kekerasan berbasis gender dan anak korban  kekerasan, Pemerintah Daerah dibantu oleh Pelayanan  Terpadu.  
+
+#### Pasal 7
+
+1. Pelayanan Terpadu sebagaimana dimaksud dalam  Pasal 6 dibentuk oleh Bupati sesuai dengan  peraturan perundang-undangan yang berlaku.  
+2. Pelayanan Terpadu sebagaimana dimaksud pada  ayat (1) beranggotakan dari unsur-unsur:  a. pemerintah daerah;  
+b. lembaga non pemerintah;  
+c. institusi pelayanan kesehatan;  
+d. aparat penegak hukum;  
+e. tenaga profesi;  
+f. relawan pendamping;  
+g. pekerja sosial; dan/atauh. rohaniawan.  
+3. Pelayanan Terpadu sebagaimana dimaksud pada  ayat (1) bertugas:a. mengupayakan pencegahan;  
+b. pemulihan dan reintegrasi sosial;  
+c. memberikan perlindungan hukum;  
+d. melakukan koordinasi dan kerjasama;  
+e. mengupayakan peningkatan partisipasi  masyarakat; danf. monitoring dan pelaporan.  
+
+#### Pasal 8
+
+Ketentuan lebih lanjut mengenai pembentukan  Pelayanan Terpadu diatur lebih lanjut dengan Peraturan  Bupati.  
+
+## Bagian Kedua
+
+Upaya Pencegahan
+
+#### Pasal 9
+
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 7  ayat (3) huruf a meliputi:
+a. menyelenggarakan komunikasi, informasi, dan  edukasi tentang kekerasan berbasis gender dan  anak; danb. sosialisasi peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan  anak.  
+
+## Bagian Ketiga
+
+Upaya Pemulihan dan Reintegrasi Sosial
+
+#### Pasal 10
+
+Upaya Pemulihan dan Reintegrasi Sosial sebagaimana  dimaksud dalam Pasal 7 ayat (3) huruf b meliputi:
+a. memberikan pemulihan fisik di lembaga pelayanan  kesehatan;  
+b. pelayanan medicolegal;  
+c. membantu pemulangan korban;  
+d. memberikan perlindungan di Rumah Aman (shelter), pusat rehabilitasi sosial, atau tempat lain yang dikehendaki korban;  
+e. memberikan pemulihan dan pendampingan  psikososial;  
+f. memberikan pelayanan bimbingan rohani; dang. melakukan penyiapan keluarga dan masyarakat,  pemberdayaan ekonomi, dan pengembalian ke  sekolah dan/atau lembaga pendidikan lainnya.  
+
+## Bagian Keempat
+
+Perlindungan Hukum
+
+#### Pasal 11
+
+Perlindungan hukum sebagaimana dimaksud dalam  Pasal 7 ayat (3) huruf c meliputi:
+a. melakukan pendampingan selama proses hukum  pada setiap tahapan pemeriksaan; danb. memberikan perlindungan hukum secara khusus  bagi anak korban kekerasan dapat dilakukan  dengan penunjukan perwalian sesuai dengan  peraturan yang berlaku.  
+
+## Bagian Kelima
+
+Koordinasi dan Kerjasama
+
+#### Pasal 12
+
+Koordinasi dan kerjasama sebagaimana dimaksud  dalam Pasal 7 ayat (3) huruf d meliputi:
+a. melakukan koordinasi dan kerjasama penanganan  kasus kekerasan dengan pelayanan terpadu  kabupaten/kota;  
+b. melakukan koordinasi dan kerjasama dengan  lembaga-lembaga penyedia layanan bagi korban  kekerasan berbasis gender dan anak; danc. melakukan koordinasi dan konsultasi dengan  Pemerintah Daerah.  
+
+## Bagian Keenam
+
+Penimngkatan Partisipasi Masyarakat
+
+#### Pasal 13
+
+1. Peningkatan Partisipasi Masyarakat sebagaimana  dimaksud dalam Pasal 7 ayat (3) huruf e adalah  memberikan kesempatan seluas-luasnya kepada  masyarakat untuk berpartisipasi dalam membantu  pencegahan dan penanganan kekerasan berbasis  gender dan anak.  
+2. Partisipasi masyarakat sebagaimana dimaksud  dalam ayat (1) dapat dilakukan dengan:a. memberikan perlindungan bagi korban; b. memberikan pertolongan darurat;  
+c. memberikan advokasi terhadap korban dan  atau masyarakat tentang penanganan kasus  kekerasan berbasis gender dan anak;  
+d. membantu proses pengajuan permohonan  penetapan perlindungan;  
+e. memberikan bantuan baik berupa uang,  barang, maupun jasa; dan/atauf. menyampaikan informasi kepada aparat yang  berwenang terkait dengan kasus kekerasan  berbasis gender dan anak.  
+
+## Bagian Ketujuh
+
+Monitoring dan Pelaporan
+
+#### Pasal 14
+
+Monitoring dan pelaporan sebagaimana dimaksud dalam  Pasal 7 ayat (3) huruf f dilakukan terhadap seluruh  aspek kegiatan pelayanan terpadu dalam bentuk  pelaksanaan pengawasan, pendokumentasian dan  evaluasi terhadap kasus-kasus kekerasan berbasis  gender dan anak.  
+
+#### Pasal 15
+
+Penyelenggaraan Pelayanan Terpadu pelaksanaannya  dikoordinasikan oleh SKPD yang membidangi.  
+
+# BAB VI
+
+## PENDAMPINGAN
+
+#### Pasal 16
+
+Pendampingan dilakukan oleh orang atau lembaga resmi  yang mempunyai kompetensi profesional dibidangnya  dan bekerjasama dengan Pelayanan Terpadu.  
+
+# BAB VII
+
+## KERJASAMA
+
+#### Pasal 17
+
+1. Dalam menyelenggarakan perlindungan bagi korban  kekerasan berbasis gender dan anak, Pemerintah  Daerah bekerjasama dengan Pemerintah,  Pemerintah Provinsi, dan Pemerintah  Kabupaten/Kota, dan lembaga lainnya.  
+2. Kerjasama antara Pemerintah Daerah dengan  Pemerintah dan Pemerintah Provinsi sebagaimana  dimaksud pada ayat (1) meliputi konsultasi,  koordinasi dan pelaporan.  
+3. Kerjasama antara Pemerintah Daerah dan  Kabupaten/Kota sebagaimana dimaksud pada ayat  (1) meliputi koordinasi, advokasi, rujukan,  pemulangan, reintegrasi sosial, fasilitasi  pengembangan sistem pelayanan terpadu,  monitoring, evaluasi dan pelaporan.  
+
+# BAB VIII
+
+## PENGENDALIAN, PEMBINAAN DAN PENGAWASAN
+
+#### Pasal 18
+
+1. Pengendalian, pembinaan dan pengawasan  penyelenggaraan perlindungan terhadap korban  kekerasan berbasis gender dan kekerasan terhadap  anak dilakukan oleh Bupati.  
+2. Pelaksanaan pengendalian, pembinaan dan  pengawasan sebagaimana dimaksud pada ayat (1)  dibantu oleh SKPD yang membidangi.  
+
+# BAB IX
+
+## PEMBIAYAAN
+
+#### Pasal 19
+
+Semua kegiatan yang terkait dengan penyelenggaraan  perlindungan terhadap korban kekerasan berbasis  gender dan kekerasan terhadap anak dibebankan pada  Anggaran Pendapatan dan Belanja Daerah dan sumber lain yang sah dan tidak mengikat.  
+
+# BAB X
+
+## KETENTUAN PENUTUP
+
+#### Pasal 20
+
+Hal-hal yang belum diatur dalam Peraturan Daerah ini  sepanjang mengenai pelaksanaannya diatur dengan  Peraturan Bupati.  
+
+#### Pasal 21
+
+Peraturan Daerah ini mulai berlaku pada tanggal  diundangkan.  
+
+Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan  penempatannya dalam Lembaran Daerah Kabupaten  Kudus.  
+
+Ditetapkan di Kudus  pada tanggal 23 Desember 2013
+
+##### BUPATI KUDUS,
+
+ttd.  
+
+##### M U S T H O F A
+
+Diundangkan di Kudus pada tanggal 24 Desember 2013 SEKRETARIS DAERAH KABUPATEN KUDUS,  ttd.  
+
+##### NOOR YASIN
+
+##### LEMBARAN DAERAH KABUPATEN KUDUS TAHUN  2013 NOMOR 2
+
+##### PENJELASAN
+
+##### ATAS
+
+##### PERATURAN DAERAH KABUPATEN KUDUS
+
+##### NOMOR 2 TAHUN 2014
+
+##### TENTANG
+
+PENYELENGGARAAN PERLINDUNGAN TERHADAP  KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
+
+##### I. UMUM
+
+Perempuan dan anak mempunyai peran penting  dalam pembangunan suatu bangsa. Perempuan  sebagai ibu bangsa yang akan melahirkan anak dan  anak sebagai generasi penerus bangsa adalah modal  pembangunan bangsa yang perlu memperoleh  perlindungan hukum dari tindakan kekerasan  berbasis gender dan anak.  
+
+Kekerasan berbasis gender dan anak dewasa ini  semakin meningkat jumlahnya. Beberapa bentuk  tindak kekerasan terhadap perempuan dan anak yang  terjadi di masyarakat dapat berupa tindakan pelecehan  sosial, perkosaan, perdagangan perempuan dan anak,  pornografi, eksploitasi seksual, penelantaran,  kekerasan dalam rumah tangga. Oleh karena itu  dibutuhkan perangkat hukum yang dapat menjamin  terlaksananya perlindungan terhadap hak-hak  perempuan dan anak baik di tingkat nasional maupun  daerah.  
+
+Guna mewujudkan perlindungan terhadap  hak-hak perempuan dan anak dari ancaman tindak  kekerasan sebagaimana dimaksud di atas perlu  membentuk Peraturan Daerah tentang  Penyelenggaraan Perlindungan Terhadap Korban  Kekerasan Berbasis Gender dan Anak.  
+
+##### II. PASAL DEMI PASAL
+
+#### Pasal 1
+
+Cukup jelas
+
+#### Pasal 2
+
+Huruf a Yang dimaksud dengan “non diskriminasi”  adalah perlindungan kepada semua korban  kekerasan berbasis gender dan anak tanpa  membedakan suku, agama, ras, golongan,  jenis kelamin, etnis, budaya dan bahasa,  status hokum dan kondisi fisik maupun  mental.  
+
+Huruf b Yang dimaksud dengan “kepentingan terbaik  bagi korban” adalah semua tindakan yang  menyangkut korban yang dilakukan oleh  pemerintah, masyarakat, badan legislative  dan badan yudikatif, maka kepentingan  terbaik baik korban harus menjadi  pertimbangan utama.  
+
+Huruf c Yang dimaksud dengan “keadilan gender”  adalah perlakuan adil yang diberikan kepada  perempuan maupun laki-laki.  
+
+Yang dimaksud dengan “kesetaraan gender”  adalah kondisi dan posisi yang  menggambarkan relasi yang selaras, serasi  dan seimbang antara laki-laki dan  perempuan dalam mempewroleh  peluang/kesempatan dalam mengakses,  partisipasi, control dan manfaat dalam  pelaksanaan pembangunan serta menikmati  hasil pembangunan dalam kehidupan  keluarga maupun bermasyarakat, berbangsa  dan bernegara.  
+
+Huruf d Yang dimaksud “ perlindungan korban”  adalah memberikan rasa aman pada korban  yang dilakukan oleh pihak keluarga, advokat,  lembaga social, kepolisian, kejaksaan,  pengadilan, atau pihak lainnya baik secara  sementara maupun berdasarkan penetapan  pengadilan.  
+
+Huruf e Yang dimaksud dengan “kelangsungan hidup  anak” adalah sebagaimana tercantum dlam  prinsip-prinsip Konvensi Hak Anak, meliputi  hak atas identitas.  
+
+Yang dimaksud dengan “tumbuh kembang  anak” adalah sebagaimana tercantum dalam  prinsip-prinsip Konvensi Hak Anak, meliputi  hak atas berkreasi dan berekreasi.  
+
+Huruf f Yang dimaksud “ penghargaan terhadap  pendapat anak” adalah penghormatan atas  hak-hak anak untuk berpartisipasi dan  menyatakan pendapatnya dalam  pengambilan keputusan yang dapat dijadikan  pertimbangan terutama jika menyangkut hal- hal yang mempengaruhi kehidupannya.  
+
+Huruf g Yang dimaksud dengan “keterbukaan” adalah  bahwa dalam penyelenggaraan perlindungan  korban kekerasan berbasis gender dan anak  bersifat transparan diantara para  penyelenggara layanan terpadu.  
+
+Huruf h Yang dimaksud dengan “keterpaduan” adalah  baha dalam penyelenggaraan perlindungan  korban kekerasan berbasis gender dan anak  dilaksanakan dengan membangun koordinasi  antar penyedia layanan, antara lain  pelayanan medis, pendamping hokum,  psikolog, rohaniawan, pekerja sosial, polisi.  
+
+Huruf i Yang dimaksud dengan “memberdayakan”  adalah setiap usaha yang diberikan harus  dapat menguatkan korban, baik secara fisik,  psikis, sosial maupun ekonomi.  
+
+Huruf j Yang dimaksud dengan “kerahasiaan korban”  adalah seeetiap tindakan yang dilakukan  untuk menjamin korban dalam kondisi aman  dari ancaman atau tindakan lainnya yang  mengancam jiwa dan psikologi korban.  
+
+#### Pasal 3
+
+Cukup jelas
+
+#### Pasal 4
+
+Cukup jelas
+
+#### Pasal 5
+
+Ayat (1) Huruf a Cukup jelas.  
+
+Huruf b Cukup jelas.  
+
+Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Yang dimaksud dengan “kerjasama” adalah  cara yang sistematis dan terpadu antar  penyelenggara perlindungan dan  penanganan korban kekerasan dalam  memberikan pelayanan untuk korban  kekerasan berbasis gender dan anak.  
+
+Huruf f Cukup jelas.  
+
+Ayat (2) Cukup jelas.  
+
+Ayat (3) Cukup jelas.  
+
+#### Pasal 6
+
+Cukup jelas
+
+#### Pasal 7
+
+Ayat (1) Cukup jelas Ayat (2) Tenaga profesi yang diperlukan selain yang  disebutkan sesuai dengan kasus yang  ditangani.  
+
+#### Pasal 8
+
+Cukup jelas
+
+#### Pasal 9
+
+Cukup jelas
+
+#### Pasal 10
+
+Huruf a Cukup jelas Huruf b Yang dimaksud dengan “Pelayanan  Medicolega” adalah bentuk layanan medis  untuk kepentingan pembuktian di bidang  hukum.  
+
+Jenis pelayanan Medicolegal, yaitu:
+a. pemeriksaan visum et repertum; danb. pemeriksaan kesehatan untuk kepentingan hokum.  
+
+Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Yang dimaksud dengan “pelayanan  psikososial” adalah pelayanan yang  deberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban,  termasuk penyediaan rumah aman untuk  melindungi korban dari berbagai  ancaman dan intimidasi bagi korban dan  memberikan dukungan secara social  sehingga korban mempunyai rasa  percaya diri kekuatan, dan kemandirian  dalam menyelesaikan masalahnya.  
+
+Huruf f Cukup jelas.  
+
+Huruf g Cukup jelas.  
+
+#### Pasal 11
+
+Cukup jelas
+
+#### Pasal 12
+
+Cukup jelas
+
+#### Pasal 13
+
+Cukup jelas
+
+#### Pasal 14
+
+Cukup jelas
+
+#### Pasal 15
+
+Cukup jelas
+
+#### Pasal 16
+
+Cukup jelas
+
+#### Pasal 17
+
+Cukup jelas
+
+#### Pasal 18
+
+Cukup jelas
+
+#### Pasal 19
+
+Cukup jelas
+
+#### Pasal 20
+
+Cukup jelas
+
+#### Pasal 21
+
+Cukup jelas
+
+##### TAMBAHAN LEMBARAN DAERAH KABUPATEN KUDUS  NOMOR 168

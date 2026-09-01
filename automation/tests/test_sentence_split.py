@@ -75,3 +75,28 @@ def test_protects_decimal_numbers_in_indonesian_text():
 
 def test_single_indonesian_sentence_returns_one_item():
     assert split_sentences("Satu kalimat saja.") == ["Satu kalimat saja."]
+
+
+def test_protect_abbreviations_keeps_indonesian_abbreviations_intact():
+    text = "Ditetapkan oleh Plt. Sekretaris Daerah dll. Ketentuan lain berlaku."
+    # Without protection pysbd's English model splits at "Plt." and "dll.".
+    assert len(split_sentences(text)) > 1
+    assert split_sentences(text, protect_abbreviations=True) == [
+        "Ditetapkan oleh Plt. Sekretaris Daerah dll. Ketentuan lain berlaku.",
+    ]
+
+
+def test_protect_abbreviations_still_splits_real_sentence_boundaries():
+    text = "Kewajiban diatur dalam Kab. Bireuen. Pelaksanaannya diawasi Bupati."
+    assert split_sentences(text, protect_abbreviations=True) == [
+        "Kewajiban diatur dalam Kab. Bireuen.",
+        "Pelaksanaannya diawasi Bupati.",
+    ]
+
+
+def test_protect_abbreviations_handles_dotted_forms():
+    text = "Surat ditandatangani a.n. Bupati. Salinan sesuai aslinya."
+    assert split_sentences(text, protect_abbreviations=True) == [
+        "Surat ditandatangani a.n. Bupati.",
+        "Salinan sesuai aslinya.",
+    ]

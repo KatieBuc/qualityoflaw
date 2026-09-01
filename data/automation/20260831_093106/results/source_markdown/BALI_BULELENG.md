@@ -1,0 +1,595 @@
+# SALINAN
+
+# BUPATI BULELENG
+
+# PROVINSI BALI
+
+# PERATURAN DAERAH KABUPATEN BULELENG NOMOR 5 TAHUN 2019
+
+# TENTANG
+
+# PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN
+
+# PEMERINTAH DAERAH KABUPATEN BULELENG
+
+# TAHUN 2019
+
+jdih.bulelengkab.go.id
+
+# SALINAN
+
+# BUPATI BULELENG
+
+# PROVINSI BALI
+
+# PERATURAN DAERAH KABUPATEN BULELENG NOMOR 5 TAHUN 2019
+
+# TENTANG
+
+PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+# BUPATI BULELENG,
+
+Menimbang:  
+a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan yang merendahkan  derajat martabat manusia;  
+b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami kekerasan, sehingga perlu  mendapatkan perlindungan yang optimal;  
+c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang-Undang 23 Tahun 2014 tentang Pemerintahan  Daerah sebagaimana telah diubah beberapa kali, terakhir  dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun  2014 tentang Pemerintahan Daerah, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintah wajib bagi pemerintah daerah;  
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Dari  Tindak Kekerasan;  
+
+Mengingat:  
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
+
+2. Undang-Undang Nomor 69 Tahun 1958 tentang  Pembentukan Daerah-daerah Tingkat II dalam Wilayah  Daerah-daerah Tingakat I Bali, Nusa Tenggara Barat dan  Nusa Tenggara Timur (Lembaran Negara Republik Indonesia jdih.bulelengkab.go.id Tahun 1958 Nomor 122, Tambahan Lembaran Negara  Republik Indonesia Nomor 1655);  
+3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik  Indonesia Nomor 3886);  
+4. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia  Tahun 2002 Nomor 109, Tambahan Lembaran Negara  Republik Indonesia Nomor 4235) sebagaimana telah diubah  dengan Undang-Undang Nomor 35 Tahun 2014 tentang  Perubahan atas Undang-Undang Nomor 23 Tahun 2002  tentang Perlindungan Anak (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran  Negara Republik Indonesia Nomor 5606);  
+5. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan dalam Rumah Tangga (Lembaran  Negara Republik Indonesia Tahun 2004 Nomor 95,  Tambahan Lembaran Negara Republik Indonesia Nomor  4419);  
+6. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007 Nomor  58, Tambahan Lembaran Negara Republik Indonesia Nomor  4720);  
+7. Undang-Undang Nomor 11 Tahun 2012 tentang Sistem  Peradilan Pidana Anak (Lembaran Negara Republik  Indonesia Tahun 2012 Nomor 153, Tambahan Lembaran  Negara Republik Indonesia Nomor 5332);  
+8. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia  Tahun 2014 Nomor 244, Tambahan Lembaran Negara  Republik Indonesia Nomor 5587); sebagaimana telah diubah  beberapa kali, terakhir dengan Undang-Undang Nomor 9  Tahun 2015 tentang Perubahan Kedua atas Undang-Undang  Nomor 23 Tahun 2014 tentang Pemerintahan Daerah  (Lembaran Negara Republik Indonesia Tahun 2015 Nomor jdih.bulelengkab.go.id 58, Tambahan Lembaran Negara Republik Indonesia Nomor  5679);  
+9. Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan  Peraturan Pemerintah Pengganti Undang-Undang Nomor 1  Tahun 2016 tentang Perubahan Kedua Atas Undang Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak  (Lembaran Negara Republik Indonesia Tahun 2016 Nomor  99, Tambahan Lembaran Negara Republik Indonesia Nomor  5882);  
+10. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan dan Kerjasama Pemulihan Korban  Kekerasan dalam Rumah Tangga (Lembaran Negara  Republik Indonesia Tahun 2006 Nomor 15, Tambahan  Lembaran Negara Republik Indonesia Nomor 4604);  
+11. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang  Tata Cara dan Mekanisme Pelayanan Terpadu bagi Saksi  dan/atau Korban Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2008 Nomor  22, Tambahan Lembaran Negara Republik Indonesia Nomor  4818);  
+12. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Taun 2008 tentang Pedoman  Pelaksanaan Perlindungan Perempuan;  
+13. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 3 Taun 2008 tentang Pedoman  Pelaksanaan Perlindungan Anak;  
+14. PeraturanMenteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar  Pelayanan Minimal Bidang Layanan Terpadu bagi  Perempuan dan Anak Korban Kekerasan;  
+15. PeraturanMenteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar  Pelayanan Minimal Bidang Layanan Terpadu bagi  Perempuan dan Anak Korban Kekerasan;  
+16. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan  Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
+
+jdih.bulelengkab.go.id
+
+17. PeraturanMenteri NegaraPemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2011 tentang Pedoman  Penanganan Anak Korban Kekerasan;  
+18. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 6 Tahun 2015 tentang Sistem  Pemberdayaan Perempuan dan Perlindungan Anak;  
+19. Peraturan Daerah Provinsi Bali Nomor 6 Tahun 2014  tentang Perlindungan Anak (Lembaran Daerah Provinsi Bali  Tahun 2014 Nomor 6, Tambahan Lembaran Daerah Provinsi  Bali Nomor 6 Tahun 2014);  
+
+Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAHKABUPATEN BULELENG dan
+
+# BUPATI BULELENG
+
+# MEMUTUSKAN:
+
+Menetapkan: PERATURAN DAERAH TENTANGPERLINDUNGAN  PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN.  
+
+# BAB I
+
+## KETENTUAN UMUM
+
+#### Pasal 1
+
+Dalam Peraturan Daerah ini yang dimaksud dengan:
+
+1. Daerah adalah Kabupaten Buleleng.  
+2. Pemerintah Daerah adalah Pemerintahan Kabupaten Buleleng. 3. Bupati adalah Bupati Buleleng.  
+4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD  adalah Dewan Perwakilan Daerah Kabupaten Buleleng.  
+5. Perangkat Daerah adalah unsur pembantu kepala daerah dan DPRD  dalam penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan  Daerah.  
+6. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun,  termasuk anak yang masih dalam kandungan.  
+7. Masyarakat adalah perseorangan, keluarga, kelompok, organisasi sosial  dan organisasi dan/atau kemasyarakatan.  
+8. Keluarga adalah unit terkecil dalam masyarakat yang terdiri atas suami,  istri, atau suami istri dan anaknya, atau ayah dan anaknya, atau ibu dan jdih.bulelengkab.go.id anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah  sampai dengan derajat ketiga.  
+9. Setiap orang adalah orang perseorangan atau korporasi. 10. Kekerasan adalah setiap perbuatan yang berakibat timbulnya  kesengsaraan atau penderitaan secara fisik, psikis, seksual, dan/atau  penelantaran, termasuk ancaman untuk melakukan perbuatan,  pemaksaan, atau perampasan kemerdekaan secara melawan hukum. 11. Kekerasan terhadap perempuan adalah setiap tindakan berdasarkan  perbedaan jenis kelamin yang berakibat atau mungkin berakibat  kesengsaraan atau penderitaan perempuan secara fisik, seksual, ekonomi,  sosial, psikis, termasuk ancaman tindakan tertentu, pemaksaan atau  perampasan kemerdekaan, baik yang terjadi di depan umum atau  kehidupan pribadi.  
+12. Kekerasan terhadap anak adalah setiap tindakan yang berakibat atau  mungkin berakibat penderitaan anak secara fisik, seksual, ekonomi,  sosial dan psikis.  
+13. Korban adalah perempuan dan anak yang mengalami kesengsaraan dan  atau penderitaan baik langsung maupun tidak langsung sebagai akibat  dari kekerasan.  
+14. Perlindungan perempuan adalah segala kegiatan yang ditujukan untuk  memberikan rasa aman yang dilakukan oleh pihak kepolisian, kejaksaan,  pengadilan, lembaga sosial, atau pihak lain yang mengetahui atau  mendengar akan atau telah terjadi kekerasan terhadap perempuan.  
+15. Perlindungan Anak adalah segala kegiatan untuk menjamin dan  melindungi Anak dan hak-haknya agar dapat hidup, tumbuh,  berkembang, dan berpartisipasi secara optimal sesuai dengan harkat dan  martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan  diskriminasi.  
+16. Perlindungan Khusus adalah suatu bentuk perlindungan yang diterima  oleh Anak dalam situasi dan kondisi tertentu untuk mendapatkan  jaminan rasa aman terhadap ancaman yang membahayakan diri dan jiwa  dalam tumbuh kembangnya.  
+17. Kerjasama adalah kegiatan atau usaha yang dilakukan oleh beberapa  orang untuk mencapai tujuan bersama.  
+18. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada  korban ketika melihat, mendengar dan mengetahui akan, sedang atau  telah terjadinya kekerasan terhadap korban.  
+
+jdih.bulelengkab.go.id
+
+19. Pendamping adalah pekerja sosial yang mempunyai kompetensi  profesional dalam bidangnya.  
+20. Pemulihan korban adalah segala upaya untuk penguatan korban  kekerasan, baik secara fisik maupun psikis.  
+21. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak yang  selanjutnya disebut P2TP2A adalah Unit Pelayanan Terpadu yang  dibentuk oleh Pemerintah Daerah untuk menyelenggarakan fungsi dan  tugas pokok pelayanan terpadu bagi Perempuan dan Anak Korban  Kekerasan, meliputi pelayanan pengaduan, Rehabilitasi Kesehatan,  Rehabilitasi Sosial, Pemulangan, Reintegrasi Sosial, dan Bantuan Hukum.  
+22. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah tolok  ukur kinerja pelayanan unit pelayanan terpadu dalam memberikan  pelayanan penanganan laporan/ pengaduan, pelayanan kesehatan,  Rehabilitasi Sosial, penegakan dan bantuan hukum, serta Pemulangan  dan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.  
+
+# BAB II
+
+## ASAS DAN TUJUAN
+
+#### Pasal 2
+
+Perlindungan Perempuan dan Anak dari Tindak Kekerasan,  dilaksanakanberdasarkan asas:
+a. penghormatan dan pemenuhan terhadap hak korban tindak kekerasan; b. keadilan dan kesetaraan gender;  
+c. non diskriminasi;  
+d. kepentingan terbaik bagi korban tindak kekerasan; dan e. kepastian hukum.  
+
+#### Pasal 3
+
+Perlindungan Perempuan dan Anak dari Tindak Kekerasan bertujuan: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak; b. melindungi Perempuan dan memberikan pelayanan kepada perempuan  dan anak korban tindak kekerasan; dan
+c. pemberdayaan perempuan dan anak korban tindak kekerasan.  
+
+# BAB III
+
+## HAK-HAK KORBAN
+
+#### Pasal 4
+
+Setiap Perempuan dan Anak Korban Kekerasan berhak:
+a. untuk dihormati harkat dan martabat sebagai manusia;  
+
+jdih.bulelengkab.go.id
+b. untuk mendapatkan Perlindungan dari keluarga, masyarakat, Pemerintah  Daerah dan/atau pihak lain baik sementara maupun berdasarkan  penetapan perintah Perlindungan dari pengadilan;  
+c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai  penderitaan yang dialami korban kekerasan;  
+d. atas penanganan secara khusus berkaitan dengan kerahasiaan Korban; e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap  tingkat proses pemeriksaan sesuai dengan ketentuan peraturan  perundang-undangan;  
+f. atas pelayanan bimbingan rohani; dang. atas penyelesaian melalui mediasi, jika merupakan penyelesaian terbaik  bagi kepentingan korban; danh. menentukan sendiri keputusannya.  
+
+# BAB IV
+
+## PERLINDUNGAN PEREMPUAN DAN ANAK
+
+## Bagian Kesatu
+
+Umum
+
+#### Pasal 5
+
+Pemerintah Daerah bertanggungjawab dalam upaya melindungi perempuan  dan anak dari perbuatan tindak kekerasan dalam bentuk:
+a. kekerasan fisik;  
+b. kekerasan seksual;  
+c. kekerasan ekonomi;  
+d. kekerasan sosial;  
+e. kekerasan psikis;  
+f. penelantaran rumah tangga;  
+g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.  
+
+#### Pasal 6
+
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  sebagaimana dimaksud dalam Pasal 5berkewajiban melakukan upaya-upaya  untuk:
+a. mencegah berlangsungnya tindak pidana;  
+b. memberikan perlindungan kepada korban tindak kekerasan; c. memberikan pertolongan darurat;dan /ataud. membantu proses pengajuan permohonan penetapan perlindungan.  
+
+jdih.bulelengkab.go.id
+
+#### Pasal 7
+
+Perlindungan anak korban tindak kekerasan dilaksanakan dengan cara: a. merumuskan kebijakan pencegahan, Pengurangan resiko rentan,  Penanganan korban dan sistem data dan informasi anak;  
+b. menyelenggarakan pemeliharaan, perawatan, dan rehabilitasi sosial anak  terlantar, baik di dalam lembaga maupun di luar lembaga;  
+c. menyediakan tempat penampungan, pemeliharaan dan perawatan anak  terlantar; dand. menyelenggarakan perlindungan khusus kepada anak.  
+
+## Bagian Kedua
+
+Pencegahan Tindak Kekerasan
+
+#### Pasal 8
+
+1. Pemerintah Daerah melakukan pencegahan tindak kekerasan terhadap  perempuan dan anak dengan cara:a. melakukan sosialisasi peraturan perundang-undangan; b. memberikan konseling/bimbingan;  
+c. memberikan edukasi bahaya kekerasan dalam rumah tangga; d. melakukan seminar/lokakarya atau sejenisnya;  
+e. membentuk jaringan kerja dalam upaya pencegahan kekerasan; f. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
+g. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan;danh. meningkatkan kesadaran masyarakat dalam berprilaku yang sesuai  dengan norma agama.  
+2. Selain melakukan pencegahan sebagaimana dimaksud pada ayat (1)  pencegahan tindak kekerasan terhadap anak juga dilakukan dengan cara  meningkatkan kapasitas keluarga dalam perlindungan anak dan  ketrampilan pengasuhan anak.  
+3. Selain Pemerintah Daerah pencegahan sebagaimana dimaksud pada ayat  (1) berkewajiban dilaksanakan oleh:a. keluarga dan/atau kerabat terdekat;  
+b. masyarakat;  
+c. lembaga pendidikan;  
+d. lembaga kesehatan;  
+e. lembaga sosial kemasyarakatan;  
+f. Desa pakraman; dan jdih.bulelengkab.go.idg. dunia usaha dan lembaga lainnya.  
+
+#### Pasal 9
+
+1. Pemerintah Daerah berkewajiban menyusun program atau kegiatan  Pencegahan sebagaimana dimaksud dalam Pasal 8 ayat (1) dalam  Rencana Kerja dan Rencana Strategis Daerah;  
+2. Program atau kegiatan sebagaimana dimaksud pada ayat (1) untuk  mendukung terwujudnya Rencana PembangunanJangka Panjang Daerah  dan Rencana Pembangunan Jangka Menengah Daerah.  
+
+#### Pasal 10
+
+1. Perangkat Daerah yang menyelenggarakan urusan pemerintahan di  bidang pemberdayaan perempuan melaksanakan pencegahan  sebagaimana dimaksud dalam Pasal 8;  
+2. Perangkat Daerah sebagaimana dimaksud pada ayat (1) dalam melakukan  pencegahan dapat bekerjasama dengan Instansi vertikal.  
+
+## Bagian Ketiga
+
+Pelayanan Terpadu Bagi Korban Tindak Kekerasan
+
+#### Pasal 11
+
+1. Pemerintah Daerah melaksanakan pelayanan terpadu bagi korban tindak  kekerasan melalui kegiatan:a. pelayanan pengaduan;  
+b. pelayanan kesehatan;  
+c. konseling;  
+d. bimbingan rohani;  
+e. pelayanan rehabilitasi sosial;  
+f. pelayanan bantuan dan pendampingan hukum; dang. pemulangan dan reintegrasi.  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) harus didukung dengan  fasilitas berupa:a. ruang pelayanan khusus di jajaran kepolisian;  
+b. tenaga ahli dan professional;  
+c. pusat pelayanan dan rumah aman;dan/ataud. sarana dan prasarana lain yang diperlukan untuk pemulihan korban. (3) Pelayanan sebagaimana dimaksud pada ayat (1), termasuk pembuatan  visum et repertum, dilakukan tanpa biaya.  
+
+jdih.bulelengkab.go.id (4) Penyelenggaraan pelayanan terhadap korban tindak kekerasan dilakukan  secara terpadu oleh Pemerintah Daerah bersama P2TP2A dengan lembaga  sosial lainnya;  
+
+5. P2TP2A dan lembaga sosial lainnya sebagaimana dimaksud pada ayat (4)  dapat menerima dan mengirim rujukan kasus dari unit pelayanan lainnya  secara berjejaring;  
+6. Pelayanan terpadu bagi tindak korban kekerasan sebagaimana dimaksud  pada ayat (1), ayat (2), ayat (3)dan ayat (4) dilaksanakan sesuai dengan  Standar Operasional Prosedur;  
+7. Ketentuan mengenai Standar Operasional Prosedur sebagaimana  dimaksud pada ayat (6) diatur dengan Peraturan Bupati.  
+
+## Bagian Keempat
+
+Pemberdayaan Terhadap Korban Tindak Kekerasan
+
+#### Pasal 12
+
+1. Pemberdayaan korban tindak kekerasan terhadap perempuan dilakukan  oleh Pemerintah Daerah dalam bentuk:a. pelatihan kerja;  
+b. usaha ekonomis produktif dan kelompok usaha bersama; dan c. bantuan permodalan.  
+2. Pemberdayaan korban tindak kekerasan terhadap anak dilakukan oleh  Pemerintah Daerah dalam bentuk memberikan edukasi, bimbingan, dan  konseling.  
+3. Pemberdayaan sebagaimana dimaksud ayat (1) dan ayat (2) dilaksanakan  oleh Perangkat Daerah sesuai dengan tugas dan fungsinya.  
+
+## Bagian Kelima
+
+Perlindungan Khusus Anak
+
+#### Pasal 13
+
+1. Perlindungan khusus anak diberikan kepada:a. Anak dalam situasi darurat;  
+b. Anak yang berhadapan dengan hukum;  
+c. Anak dari kelompok minoritas dan terisolasi;  
+d. Anak yang dieksploitasi secara ekonomi dan/atau seksual; e. Anak yang menjadi korban penyalahgunaan narkotika, alkohol,  psikotropika, dan zat adiktif lainnya;  
+f. Anak yang menjadi korban pornografi;  
+g. Anak dengan HIV/AIDS;  
+h. Anak korban penculikan, penjualan, dan/atau perdagangan;  
+
+jdih.bulelengkab.go.id
+i. Anak korban Kekerasan fisik dan/atau psikis;  
+j. Anak korban kejahatan seksual;  
+k. Anak korban jaringan terorisme;  
+l. Anak penyandang disabilitas;  
+m. Anak korban perlakuan salah dan penelantaran;  
+n. Anak dengan perilaku sosial menyimpang; dano. Anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
+2. Pemerintah Daerah melaksanakan perlindungan khusus anak  sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan Peraturan  Perundang-undangan.  
+
+# BAB V
+
+KERJASAMA DAN KOORDINASI PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN
+
+## Bagian Kesatu
+
+Umum
+
+#### Pasal 14
+
+1. Pemerintah Daerah melakukan kerjasama dan koordinasi dalam rangka  menjamin terlaksananya perlindungan terhadap perempuan dan anak  dari tindak kekerasan;  
+2. Kerjasama dan koordinasi sebagaimana dimaksud pada ayat (1)  dilaksanakan oleh Perangkat Daerah yang menyelenggarakan urusan  pemerintahan di bidang pemberdayaan perempuan dan perlindungan  anak.  
+
+## Bagian Kedua
+
+Kelembagaan Perlindungan Perempuan dan Anak
+
+#### Pasal 15
+
+1. Pemerintah Daerah dalam rangka pelayanan korban tindak kekerasan perempuan dan anak,membentuk P2TP2A;  
+2. P2TP2A sebagaimana dimaksud pada ayat (1) berfungsi sebagai: a. pusat informasi bagi perempuan dan anak;  
+b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan c. pusat pemberdayaan bagi perempuan dan anak.  
+3. P2TP2A sebagaimana dimaksud pada ayat (1) berkewajiban: a. memberikan layanan secepat mungkin dan tanpa biaya kepada saksi  dan/atau korban;  
+
+jdih.bulelengkab.go.id
+b. menyelenggarakan perlindungan dan pemenuhan hak saksi dan/atau  korban atas rehabilitasi kesehatan,rehabilitasi sosial pemulangan,  reintregrasi sosial dan bantuan hukum;  
+c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan  penterjemah dan relawan pendamping yang diperlukan bagi saksi  dan/atau korban;  
+d. melakukan jejaring dengan rumah sakit pemerintah atau swasta  untuk perawatan dan pemulihan kesehatan korban serta melakukan  kerjasama dengan lembaga perlindungan saksi dan korban, rumah  perlindungan sosial atau pusat trauma milik pemerintah masyarakat  atau lembaga-lembaga lainnya untuk pemulihan kesehatan korban.  e. memberikan kemudahan, kenyamanan, dan keselamatan bagi saksi  dan/atau korban;  
+f. menjaga kerahasiaan saksi dan/atau korban;  
+g. memberikan pemenuhan bantuan hukum bagi saksi dan/atau  korban; danh. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, bertanggung jawab atas keseluruhan proses rujukan  pelayanan yang diperlukan korban.  
+4. P2TP2A sebagaimana dimaksud pada ayat (1) mempunyai tugas: a. memberikan layanan terpadu kepada korban kekerasan; dan b. memberikan perlindungan terhadap korban tindak kekerasan,  pelapor dan saksi.  
+5. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (4) huruf a  dilaksanakan sesuai dengan Standar Operasional Prosedur yang  ditetapkan Pemerintah Daerah.  
+6. Pengangkatan pengurus P2TP2A sebagaimana dimaksud pada ayat (1)  ditetapkan dengan Keputusan Bupati.  
+
+## Bagian Ketiga
+
+Kerjasama
+
+#### Pasal 16
+
+1. Dalam hal tertentu Pemerintah Daerah dapatmelakukan kerjasama  dengan:a. pemerintah daerah lainnya;  
+b. kepolisian;  
+c. advokat;  
+d. tenaga kesehatan;  
+
+jdih.bulelengkab.go.id
+e. pekerja sosial;  
+f. relawan pendamping;  
+g. pembimbing rohani;  
+h. penegak hukum lainnya, untuk membantu korban dalam proses di  sidang pengadilan;  
+i. komisi nasional anti kekerasan terhadap perempuan;  
+j. komisi perlindungan anak Indonesia atau lembaga perlindungan  anak;dan/atauk. pihak tertentu yang diinginkan demi kepentingan korban. (2) Kerjasama sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi;  
+b. pemberian bantuan hukum;  
+c. pelayanan kesehatan;  
+d. pendampingan korban;  
+e. konseling;  
+f. rehabilitasi sosial;  
+g. bimbingan rohani;dan/atauh. pemulangan dan reintegrasi sosial.  
+
+## Bagian Keempat
+
+Koordinasi
+
+#### Pasal 17
+
+1. Bupati melakukan koordinasi perlindungan perempuan dan anak dari  tindak kekerasan dengan:a. pemerintah;  
+b. pemerintah provinsi;  
+c. instansi vertikal;  
+d. lembaga pendidikan;dane. lembaga kemasyarakatan.  
+2. Koordinasi sebagaimana dimaksud pada ayat (1) meliputi: a. urusan keagamaan;  
+b. urusan kesehatan;  
+c. urusan pendidikan;  
+d. urusan sosial;  
+e. urusan hukum; danf. urusan ketenagakerjaan.  
+
+jdih.bulelengkab.go.id
+
+# BAB VI
+
+## PARTISIPASI MASYARAKAT DAN DUNIA USAHA
+
+#### Pasal 18
+
+1. Setiap orang dapat berpatisipasi dalam memberikan perlindungan  terhadap perempuan dan anak dari tindak kekerasan.  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan  cara:a. melaporkan tindak kekerasan terhadap perempuan dan/atau anak; b. melakukan pertolongan pertama kepada korban Tindak Kekerasan; c. mensosialisasikan hak perempuan dan anak secara mandiri;  dan/ataud. membentuk lembaga sosial masyarakat yang mandiri.  
+
+#### Pasal 19
+
+Dalam hal lembaga sosial masyarakat melaksanakan perlindungan terhadap  perempuan dan anak dari tindak kekerasan berkewajiban berkoordinasi  dengan P2TP2A.  
+
+#### Pasal 20
+
+1. Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam  perlindungan terhadap perempuan dan anak dari tindak kekerasan. (2) Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai  bahaya tindak kekerasan terhadap perempuan dan anak; dan b. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
+
+# BAB VII
+
+## STANDAR PELAYANAN MINIMAL
+
+#### Pasal 21
+
+SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan,  meliputi layanan:
+a. penanganan pengaduan/laporan Korban Kekerasan terhadap Perempuan  dan Anak;  
+b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan; c. rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan; d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban  Kekerasan; dane. pemulangan dan reintegrasi sosial bagi Perempuan dan AnakKorban  Kekerasan.  
+
+jdih.bulelengkab.go.id
+
+#### Pasal 22
+
+SPM sebagaimana dimaksud dalam Pasal 21 memiliki indikator kinerja  meliputi:
+a. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan  terpadu;  
+b. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di  Rumah Sakit;  
+c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas  Rehabilitasi Sosial terlatih bagi Perempuan dan Anak Korban Kekerasan  di dalam unit pelayanan terpadu;  
+d. cakupan layanan bimbingan rohani yang diberikan oleh petugas  bimbingan rohani terlatih bagi Perempuan dan Anak Korban Kekerasan di  dalam unit pelayanan terpadu;  
+e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan  putusan pengadilan atas kasus-kasus Kekerasan terhadap Perempuan  dan Anak;  
+f. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  layanan bantuan hukum;  
+g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban  Kekerasan; danh. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban  Kekerasan.  
+
+# BAB VIII
+
+## PEMBINAAN DAN PENGAWASAN
+
+#### Pasal 23
+
+1. Pemerintah Daerah membina dan mengawasi P2TP2A dan lembaga sosial  lainnya.  
+2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  dilaksanakan oleh perangkat daerah yang menyelenggarakan urusan  pemberdayaan perempuan dan anak.  
+3. Hasil pelaksanaan pembinaan dan pengawasan sebagaimana dimaksud  pada ayat (2) dilaporkan kepada Bupati.  
+
+jdih.bulelengkab.go.id
+
+# BAB IX
+
+## SISTEM INFORMASI DAN PELAPORAN
+
+#### Pasal 24
+
+1. Pemerintah Daerah menyiapkan dan menyusun sistem informasi dan  pelaporan perlindungan terhadap perempuan dan anak dari tindak  kekerasan.  
+2. Sistem Informasi dan pelaporan sebagaimana dimaksud pada ayat (1)  sesuai dengan ketentuan Peraturan Perundang-undangan.  
+
+#### Pasal 25
+
+1. Bupati bertanggung jawab untuk membuat laporan pelaksanaan SPM  Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan di  Daerah kepada Gubernur dengan tembusan disampaikan kepada Menteri  Negara Pemberdayaan Perempuan dan Perlindungan Anak dan Menteri  Dalam Negeri.  
+2. Pelaporan pelaksanaan sebagaimana dimaksud pada ayat (1) dilakukan  setiap tahun.  
+
+# BAB X
+
+## PEMBIAYAAN
+
+#### Pasal 26
+
+Pembiayaan atas kegiatan Perlindungan Perempuan dan Anak dari tindak  kekerasan, dapat bersumber dari:
+a. Anggaran Pendapatan dan Belanja Daerah;dan/ataub. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  Peraturan Perundang undangan.  
+
+jdih.bulelengkab.go.id
+
+# BAB XI
+
+## PENUTUP
+
+#### Pasal 27
+
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Buleleng.  
+
+Ditetapkan di Singaraja pada tanggal 20 Agustus 2019
+
+##### BUPATI BULELENG,
+
+##### PUTU AGUS SURADNYANA
+
+Diundangkan di Singaraja pada tanggal 20 Agustus 2019
+
+##### SEKRETARIS DAERAH KABUPATEN BULELENG,
+
+##### DEWA KETUT PUSPAKA
+
+##### LEMBARAN DAERAH KABUPATEN BULELENG TAHUN 2019 NOMOR 5.  
+
+NOREG PERATURAN DAERAH KABUPATEN BULELENG, PROVINSI BALI: ( 5  , 33 / 2019 ) jdih.bulelengkab.go.id
+
+##### PENJELASAN
+
+##### ATAS
+
+##### PERATURAN DAERAH KABUPATEN BULELENG NOMOR 5 TAHUN 2019
+
+##### TENTANG
+
+##### SALINAN
+
+##### PERLINDUNGAN PEREMPUAN DAN ANAK DARITINDAK KEKERASAN
+
+##### I. PENJELASAN UMUM.  
+
+Tujuan pembentukan Negara dinyatakan dalam alinea ke IV  Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun  1945 yang menyebutkan bahwa “Negara melindungi segenap bangsa  Indonesia dan seluruh tumpah darah Indonesia dan untuk memajukan  kesejahteraan umum, mencerdaskan kehidupan bangsa dan ikut  melaksanakan ketertiban dunia yang berdasarkan kemerdekaan,  perdamaian abadi dan keadilan sosial”. Pengertian melindungi di sini  termasuk melindungi setiap warga Negara termasuk dari segala bentuk  kekerasan. Selain itu dalam Pasal 28 G ayat 2 UUD Tahun 1945  menyatakan bahwa setiap orang berhak untuk bebas dari penyiksaan  atau perlakuan yang merendahkan derajat martabat manusia. Dengan  demikian hak untuk mendapatkan perlindungan dari tindak kekerasan  dijamin oleh konstitusi.  
+
+Tindak kekerasan terhadap perempuan dan anak merupakan  pelanggaran hak asasi manusia.Perempuan dan anak korban kekerasan  harus dilindungi harga diri dan martabatnya serta dijamin hak hidupnya  sesuai dengan kodratnya tanpa diskriminasi.Dalam rangka mencegah  dan menanggulangi kekerasan terhadap perempuan dan anak di  Kabupaten Buleleng perlu dilakukan perlindungan terhadap perempuan  dan anak korban kekerasan dalam bentuk peraturan Daerah.  
+
+Perlindungan perempuan dan anak korban kekerasan di Daerah  memerlukan dukungan kelembagaan dan peraturan yang dapat  menjamin pelaksanaannya.Peraturan Daerah mengatur upaya  perlindungan bagi korban khususnya dalamhal pencegahan, pelayanan,  dan pemberdayaan terhadap perempuan dan anak korban kekerasan di  Kabupaten Buleleng.  
+
+##### II. PENJELASAN PASAL DEMI PASAL
+
+#### Pasal 1
+
+Cukup jelas jdih.bulelengkab.go.id
+
+#### Pasal 2
+
+Cukup jelas
+
+#### Pasal 3
+
+Cukup jelas
+
+#### Pasal 4
+
+Cukup jelas
+
+#### Pasal 5
+
+Huruf a Yang dimaksud dengan “kekerasan fisik” yaitu setiap perbuatan yang mengakibatkan rasa sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan atau menyebabkan kematian Huruf b Yang dimaksud dengan “kekerasan seksual” yaitu setiap perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, pemaksaan hubungan seksual denganorang lain untuk tujuan komersial dan atau tujuan tertentu.  
+
+Huruf c Yang dimaksud dengan “kekerasan ekonomi” adalah suatu tindakan yang membatasi manusia untuk bekerja di dalam atau di luar rumah untuk menghasilkan uang dan barang, termasuk membiarkan manusia yang bekerja untuk di eksploitasi, sementara sesorang tidak memenuhi kebutuhan ekonomi keluarga.  
+
+Huruf d Yang dimaksud dengan “kekerasan sosial” adalah sebagai perbuatan seseorang atau sekelompok orang yang menyebabkan cedera atau hilangnya nyawa seseorang atau dapat menyebabkan kerusakan fisik atau barang orang lain Huruf e Yang dimaksud dengan “kekerasan psikis” yaitu perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan atau penderitaan psikis berat pada seseorang.  
+
+Huruf f Yang dimaksud dengan “Penelantaran Rumah Tangga” yaitu:
+a. tindakan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial;  
+b. tindakan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya;  
+
+jdih.bulelengkab.go.id
+c. tindakan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikankehidupan, perawatan, atau pemeliharaan kepada orang tersebut;  
+d. tindakan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah sehingga korban berada dibawah kendali orang tersebut.  
+
+Huruf g Cukup jelas.  
+
+Huruf h Yang dimaksud dengan “ancaman tindakan tertentu” yaitu setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang.  
+
+#### Pasal 6
+
+Cukup jelas
+
+#### Pasal 7
+
+Cukup jelas
+
+#### Pasal 8
+
+Cukup jelas
+
+#### Pasal 9
+
+Cukup jelas
+
+#### Pasal 10
+
+Cukup jelas
+
+#### Pasal 11
+
+Ayat (1) Huruf a Yang dimaksud dengan “pelayananpengaduan”yaituserangkaiantindakanya ngdilakukanolehpenyelenggaralayananterpadu untukmenindaklanjutilaporan adanya tindak kekerasan terhadapperempuan dan anak yang diajukankorban, keluarga atau masyarakat.  
+
+Huruf b Yang dimaksud dengan “pelayanankesehatan”yaituupayayang meliputi aspek promotif,prefentif,kuratif dan rehabilitatif.  
+
+Huruf c Yang dimaksud dengan “konseling”yaitu proses pemberian informasiobyektif dan lengkap, dilakukansecara sistematik denganpanduankomunikasi interpersonal, teknik bimbingandanpenguasaanpengetahuan klinik jdih.bulelengkab.go.id yang bertujuanuntukmembantuseseorang mengenali kondisinya saatini, masalah yang  sedang dihadapi, dan menentukan jalan keluar  atau upayamengatasi masalah tersebut.  
+
+Huruf d Yang dimaksud dengan “bimbinganrohani” yaitu  bentuk kegiatan yangdidalamnyaterjadiproses bimbingan dan pembinaan rohani kepada manusia  sehinggadapatmemberikan ketenangan,  kedamaiandan kesejukan hati kepada  manusiadengansenantiasamemberikandorongan dan motivasi untuk  tetapbersabar,tawakaldantetapmenjalankan kewajibannya.  
+
+Huruf e Yang dimaksud dengan “pelayanan rehabilitasi  sosial” yaitu pelayananyang ditunjukan untuk  memulihkan dan mengembangkan  kemampuanseseorang yang mengalami disfungsi sosial agar dapat melaksanakanfungsi sosialnya secara wajar.  
+
+Huruf f Yang dimaksud dengan “pelayananbantuan dan  pendampingan hukum”yaitu jasa hukum  yangdiberikanolehpendampinghukumatauadvokat untuk melakukanprosespendampingansaksidan/ataukorb ankekerasanterhadapperempuan dan anak yang  sensitivegender.  
+
+Huruf g Yang dimaksud dengan “pemulangan danreintegrasi”yaituupayapenyatuan kembali  korban denganpihak keluarga, keluarga  pengganti,atau masyarakatyangdapatmemberikan  perlindungandanpemenuhan kebutuhan bagi  korban.  
+
+Ayat (2) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Yang dimaksuddengan“Pusat Pelayanan dan  Rumah Aman” yaituyang dikenal dengan trauma  center, sedangkan rumah aman dikenaldengan  shelter.  
+
+Huruf d Cukup jelas jdih.bulelengkab.go.id Ayat (3) Cukup jelas Ayat (4) Cukup jelas Ayat (5) Cukup jelas Ayat (6) Cukup jelas Ayat (7) Cukup jelas
+
+#### Pasal 12
+
+Cukup jelas
+
+#### Pasal 13
+
+Ayat (1) Huruf 0 Yangdimaksuddengan “stigmatisasi”yaitupemberian„tanda‟ataustigm terhadap seseorang,atau sekelompok orang dengan pengertian yang bermakna tertentu dalam situasi dan konteks tertentusecaraterbukaatau terselubung untuk mempengaruhi daya pikir atau dayaevaluasi seseorang atau sekelompok orang terhadap sesuatu.  
+
+#### Pasal 14
+
+Cukup jelas
+
+#### Pasal 15
+
+Cukup jelas
+
+#### Pasal 16
+
+Cukup jelas
+
+#### Pasal 17
+
+Cukup jelas
+
+#### Pasal 18
+
+Cukup jelas
+
+#### Pasal 19
+
+Cukup jelas
+
+#### Pasal 20
+
+Cukup jelas
+
+#### Pasal 21
+
+Cukup jelas
+
+#### Pasal 22
+
+Cukup jelas
+
+#### Pasal 23
+
+Cukup jelas
+
+#### Pasal 24
+
+Cukup jelas
+
+#### Pasal 25
+
+Cukup jelas
+
+#### Pasal 26
+
+Cukup jelas
+
+#### Pasal 27
+
+Cukup jelas
+
+##### TAMBAHAN LEMBARAN DAERAH KABUPATEN BULELENG NOMOR 4.  
+
+jdih.bulelengkab.go.id

@@ -179,7 +179,7 @@ def _print_overall_alignment_rate(run_id: str) -> None:
         return
     print(
         f"Evidence original-language alignment: {sentence_aligned}/{resolved} "
-        f"sentence-aligned ({sentence_aligned / resolved:.1%})"
+        f"locally aligned ({sentence_aligned / resolved:.1%})"
     )
 
 

@@ -225,7 +225,7 @@ def test_print_overall_alignment_rate_aggregates_across_reports(tmp_path, capsys
         _print_overall_alignment_rate("run123")
 
     out = capsys.readouterr().out
-    assert "Evidence original-language alignment: 45/60 sentence-aligned (75.0%)" in out
+    assert "Evidence original-language alignment: 45/60 locally aligned (75.0%)" in out
 
 
 def test_print_overall_alignment_rate_silent_when_nothing_resolved(tmp_path, capsys):
