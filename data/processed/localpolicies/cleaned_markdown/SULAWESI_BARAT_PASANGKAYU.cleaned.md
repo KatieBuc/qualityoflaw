@@ -1,18 +1,22 @@
-# SALINAN
-
-# BUPATI PASANGKAYU
-
-# PROVINSI SULAWESI BARAT
-
-# PERATURAN DAERAH KABUPATEN PASANGKAYU  NOMOR 9 TAHUN 2019
-
-# TENTANG
-
 # PERLINDUNGAN PEREMPUAN DAN ANAK
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+SALINAN  
 
-# BUPATI PASANGKAYU,
+BUPATI PASANGKAYU  
+
+PROVINSI SULAWESI BARAT  
+
+# PERATURAN DAERAH KABUPATEN PASANGKAYU 
+
+NOMOR 9 TAHUN 2019  
+
+TENTANG  
+
+PERLINDUNGAN PEREMPUAN DAN ANAK  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI PASANGKAYU,  
 
 Menimbang:  
  
@@ -36,24 +40,22 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 7 Tahun 2003 tentang  Pembentukan Kabupaten Luwu Timur dan Kabupaten Mamuju Utara di Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 27, Tambahan Lembaran Negara Republik Indonesia Nomor 4270;  
+3. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah terakhir kali dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679;  
 
-2. Undang-Undang Nomor 7 Tahun 2003 tentang  Pembentukan Kabupaten Luwu Timur dan Kabupaten Mamuju Utara di Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 27, Tambahan Lembaran Negara Republik Indonesia Nomor
-4270. ;  
-3. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
+Dengan Persetujuan Bersama  
 
-# JDIH KABUPATEN PASANGKAYU
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PASANGKAYU  
 
-Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah terakhir kali dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor
+dan  
 
-5679. ;  
+BUPATI PASANGKAYU  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PASANGKAYU dan
+MEMUTUSKAN:  
 
-# BUPATI PASANGKAYU
+Menetapkan:  
 
-# MEMUTUSKAN:
-
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN  DAN ANAK.  
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -61,8 +63,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN  DAN ANAK.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Pasangkayu.  
 2. Pemerintah Daerah adalah Bupati sebagai unsur  penyelenggara Pemerintahan Daerah yang memimpin  pelaksanaan urusan pemerintahan yang menjadi kewenangan  daerah otonom.  
 3. Bupati adalah Bupati Pasangkayu.  
@@ -70,9 +71,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 5. Perempuan adalah manusia dewasa berjenis kelamin  Perempuan dan orang yang oleh hukum diakui sebagai  Perempuan.  
 6. Anak adalah seseorang yang belum berusia 18 tahun,  termasuk Anak yang ada dalam kandungan.  
 7. Perlindungan adalah segala tindakan pelayanan untuk memenuhi hak-hak, serta menjamin dan melindungi hak korban tindak kekerasan.  
-
-##### JDIH KABUPATEN PASANGKAYU
-
 8. Perlindungan Perempuan adalah upaya yang ditujukan untuk  melindungi Perempuan dan hak-haknya agar mendapatkan  rasa aman dari tindak kekerasan.  
 9. Perlindungan Anak adalah segala kegiatan untuk menjamin  dan melindungi Anak dan hak-haknya agar dapat hidup,  tumbuh, berkembang, dan berpartisipasi, secara optimal  sesuai dengan harkat dan martabat kemanusiaan, serta  mendapat perlindungan dari kekerasan dan diskriminasi.  
 10. Kekerasan adalah setiap perbuatan yang berakibat atau yang  mengakibatkan kesengsaraan dan penderitaan baik fisik,  seksual, psikologis termasuk penelantaran, ancaman  tindakan tertentu, pemaksaan atau perampasan  kemerdekaan secara sewenang-wenang, baik yang terjadi di  depan umum atau dalam kehidupan pribadi.  
@@ -87,17 +85,17 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Tujuan perlindungan Perempuan dan Anak adalah untuk:
-
-##### JDIH KABUPATEN PASANGKAYU
+Tujuan perlindungan Perempuan dan Anak adalah untuk:  
 a. memberikan dan meningkatkan rasa aman bagi Perempuan  dan Anak;  
 b. membantu mencegah tindak Kekerasan terhadap Perempuan  dan Anak;  
-c. membantu mencegah kegiatan eksploitasi terhadap  Perempuan dan Anak.  d. memberikan Pelayanan kepada Perempuan dan Anak dalam  menghadapi permasalahan hukum; dan  
+c. membantu mencegah kegiatan eksploitasi terhadap  Perempuan dan Anak.  
+d. memberikan Pelayanan kepada Perempuan dan Anak dalam  menghadapi permasalahan hukum; dan  
 e. membantu meningkatkan kualitas hidup Perempuan dan  Anak.  
 
 #### Pasal 3
 
-Ruang lingkup pengaturan dalam Peraturan Daerah ini meliputi:  a. bentuk-bentuk Kekerasan;  
+Ruang lingkup pengaturan dalam Peraturan Daerah ini meliputi:  
+a. bentuk-bentuk Kekerasan;  
 b. hak-hak Perempuan dan Anak;  
 c. tugas dan wewenang;  
 d. penanganan tindak Kekerasan;  
@@ -115,7 +113,8 @@ Bentuk-bentuk kekerasan terhadap Perempuan dan Anak berupa:
 a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual;  
-d. penelantaran; dan/ataue. eksploitasi.  
+d. penelantaran; dan/atau  
+e. eksploitasi.  
 
 ##### JDIH KABUPATEN PASANGKAYU
 
@@ -131,14 +130,16 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b  disebabkan karena p
 
 Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c  berupa:  
 a. perbuatan yang berupa pelecehan seksual;  
-b. pemaksaan hubungan seksual; dan/atauc. pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan atau tujuan tertentu.  
+b. pemaksaan hubungan seksual; dan/atau  
+c. pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan atau tujuan tertentu.  
 
 #### Pasal 8
 
 Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d  disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan Anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain yang bertanggung jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus Anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali atau pihak lain yang bertanggung jawab atas pengasuhannya;  
-c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian wajib memberikan  penghidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja
+c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian wajib memberikan  penghidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/atau  
+d. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja
 
 ##### JDIH KABUPATEN PASANGKAYU
 
@@ -148,7 +149,8 @@ yang layak di dalam atau di luar rumah sehingga Korban  berada di bawah kendali 
 
 Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e  disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
-b. perbuatan yang dengan atau tanpa persetujuan Korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  Pelayanan paksa, perbudakan atau praktek serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan  baik materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari Korban untuk mendapatkan keuntungan yang  tidak terbatas pada semua kegiatan pelacuran atau  pencabulan.  
+b. perbuatan yang dengan atau tanpa persetujuan Korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  Pelayanan paksa, perbudakan atau praktek serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan  baik materiil maupun immateriil; dan/atau  
+c. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari Korban untuk mendapatkan keuntungan yang  tidak terbatas pada semua kegiatan pelacuran atau  pencabulan.  
 
 # BAB IV
 
@@ -161,10 +163,12 @@ Hak Perempuan
 #### Pasal 10
 
 1. Pemerintah Daerah wajib melindungi hak Perempuan di Daerah.  
-2. Hak Perempuan sebagaimana dimaksud pada ayat (1) berupa  hak atas:a. kebutuhan dasar;  
+2. Hak Perempuan sebagaimana dimaksud pada ayat (1) berupa  hak atas:  
+a. kebutuhan dasar;  
 b. rasa nyaman dan rasa aman;  
 c. Pelayanan kesehatan maksimal dalam menghadapi  tindak Kekerasan;  
-d. layanan pendampingan, bantuan hukum dan bimbingan  rohani dalam menghadapi tindak Kekerasan; dan  e. kerahasiaan atas masalah yang dihadapi.  
+d. layanan pendampingan, bantuan hukum dan bimbingan  rohani dalam menghadapi tindak Kekerasan; dan  
+e. kerahasiaan atas masalah yang dihadapi.  
 
 ## Bagian Kedua
 
@@ -174,7 +178,9 @@ Hak Anak
 
 #### Pasal 11
 
-1. Pemerintah Daerah wajib melindungi hak Anak di Daerah.  (2) Hak Anak sebagaimana dimaksud pada ayat (1) berupa hak  untuk:a. dapat hidup, tumbuh, berkembang dan berpartisipasi  secara wajar sesuai dengan harkat dan martabat  kemanusiaan serta mendapat pembinaan dan  Perlindungan dari Kekerasan dan diskriminasi;  
+1. Pemerintah Daerah wajib melindungi hak Anak di Daerah. 
+2. Hak Anak sebagaimana dimaksud pada ayat (1) berupa hak  untuk:  
+a. dapat hidup, tumbuh, berkembang dan berpartisipasi  secara wajar sesuai dengan harkat dan martabat  kemanusiaan serta mendapat pembinaan dan  Perlindungan dari Kekerasan dan diskriminasi;  
 b. beribadah menurut agamanya, berpikir dan berekspresi  sesuai dengan tingkat kecerdasan dan usianya dalam  bimbingan orang tua;  
 c. suatu akta kelahiran yang diperoleh dan/atau diusahakan  oleh orang tuanya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;  
 d. mendapatkan perlindungan dari keluarga, masyarakat  dan Pemerintah Daerah terhadap perlakuan diskriminasi  dan eksploitasi baik secara ekonomi maupun sosial,  penelantaran, kekejaman, kekerasan, penganiayaan,  ketidak-adilan dan perlakuan salah lainnya;  
@@ -198,19 +204,15 @@ Tugas Pemerintah Daerah dalam Perlindungan Perempuan
 #### Pasal 12
 
 1. Pemerintah Daerah wajib melakukan Perlindungan  Perempuan di Daerah.  
-2. Perlindungan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan penyusunan rencana strategis
-
-##### JDIH KABUPATEN PASANGKAYU
-
-Perlindungan Perempuan jangka panjang, jangka menengah,  dan jangka pendek.  
-
+2. Perlindungan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan penyusunan rencana strategis Perlindungan Perempuan jangka panjang, jangka menengah,  dan jangka pendek.  
 3. Penyusunan strategis sebagaimana dimaksud pada ayat (2)  harus terintegrasi dengan dokumen perencanaan  pembangunan Daerah.  
 4. Pemerintah Daerah dalam menyusun rencana strategis  sebagaimana dimaksud pada ayat (3) dapat melibatkan masyarakat, lembaga sosial dan/atau lembaga lainnya yang  melakukan kegiatan terkait dengan Perlindungan Perempuan.  
 
 #### Pasal 13
 
 1. Pemerintah Daerah wajib melakukan pencegahan atas  tindakan Kekerasan terhadap Perempuan.  
-2. Pencegahan atas tindak Kekerasan terhadap Perempuan  sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk kegiatan:a. Rencana Aksi Daerah;  
+2. Pencegahan atas tindak Kekerasan terhadap Perempuan  sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk kegiatan:  
+a. Rencana Aksi Daerah;  
 c. penyiapan sistem informasi yang efektif; dan  
 d. kerja sama dengan lembaga yang mempunyai kegiatan  dalam pencegahan tindak Kekerasan terhadap  Perempuan.  
 
@@ -227,11 +229,7 @@ Tugas Pemerintah Daerah dalam Perlindungan Anak
 1. Pemerintah Daerah wajib melakukan Perlindungan Anak di  Daerah.  
 2. Perlindungan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan penyusunan rencana strategis  Perlindungan Anak jangka panjang, jangka menengah, dan  jangka pendek.  
 3. Penyusunan strategis sebagaimana dimaksud pada ayat (2)  harus terintegrasi dengan dokumen perencanaan  pembangunan Daerah.  
-4. Pemerintah Daerah dalam menyusun rencana strategis
-
-##### JDIH KABUPATEN PASANGKAYU
-
-sebagaimana dimaksud pada ayat (3) dapat melibatkan masyarakat, lembaga sosial dan/atau lembaga lainnya yang  melakukan kegiatan terkait dengan Perlindungan Anak.  
+4. Pemerintah Daerah dalam menyusun rencana strategis sebagaimana dimaksud pada ayat (3) dapat melibatkan masyarakat, lembaga sosial dan/atau lembaga lainnya yang  melakukan kegiatan terkait dengan Perlindungan Anak.  
 
 #### Pasal 16
 
@@ -259,13 +257,16 @@ Pemerintah Daerah memberikan pembinaan dan bimbingan bagi  Anak untuk memeluk ag
 
 #### Pasal 20
 
-1. Pemerintah Daerah wajib memberikan Perlindungan khusus  bagi Anak Korban kerusuhan atau Korban bencana alam.  (2) Perlindungan khusus sebagaimana dimaksud pada ayat (1)  berupa pemenuhan kebutuhan:a. dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan, kesehatan, belajar dan berekreasi, jaminan  keamanan, dan persamaan perlakuan; dan  
+1. Pemerintah Daerah wajib memberikan Perlindungan khusus  bagi Anak Korban kerusuhan atau Korban bencana alam.  
+2.  Perlindungan khusus sebagaimana dimaksud pada ayat (1)  berupa pemenuhan kebutuhan:  
+a. dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan, kesehatan, belajar dan berekreasi, jaminan  keamanan, dan persamaan perlakuan; dan  
 b. khusus bagi Anak yang menyandang cacat dan Anak yang  mengalami gangguan psikososial.  
 
 #### Pasal 21
 
 1. Pemerintah Daerah wajib melakukan pencegahan atas upaya  dan tindakan kekerasan terhadap Anak.  
-2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk kegiatan yang meliputi:  a. deteksi dan intervensi dini;  
+2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk kegiatan yang meliputi:  
+a. deteksi dan intervensi dini;  
 b. sosialisasi, seminar atau lokakarya;  
 c. penyiapan sistem informasi yang efektif; dan  
 d. kerja sama dengan lembaga yang mempunyai kegiatan  dalam pencegahan tindak kekerasan terhadap Anak.  
@@ -280,14 +281,17 @@ Wewenang
 
 #### Pasal 23
 
-1. Pemerintah Daerah berwenang:a. menampung Korban tindak Kekerasan terhadap  Perempuan dan Anak; dan  
-b. menampung dan/atau mengasuh Anak terlantar.  (2) Pemerintah Daerah dalam melaksanakan kewenangan  sebagaimana dimaksud pada ayat (1) dapat melakukan kerja  sama dengan pihak terkait.  
+1. Pemerintah Daerah berwenang:  
+a. menampung Korban tindak Kekerasan terhadap  Perempuan dan Anak; dan  
+b. menampung dan/atau mengasuh Anak terlantar.  
+2. Pemerintah Daerah dalam melaksanakan kewenangan  sebagaimana dimaksud pada ayat (1) dapat melakukan kerja  sama dengan pihak terkait.  
 
 ##### JDIH KABUPATEN PASANGKAYU
 
 #### Pasal 24
 
-1. Pihak terkait sebagaimana dimaksud dalam Pasal 23 ayat (2)  adalah:a. organisasi sosial kemasyarakatan, lembaga atau panti  asuhan yang mempunyai kegiatan terkait dengan  perlindungan, pengasuhan, penampungan, bimbingan,  pemberdayaan Anak dan/atau Perempuan;  
+1. Pihak terkait sebagaimana dimaksud dalam Pasal 23 ayat (2)  adalah:  
+a. organisasi sosial kemasyarakatan, lembaga atau panti  asuhan yang mempunyai kegiatan terkait dengan  perlindungan, pengasuhan, penampungan, bimbingan,  pemberdayaan Anak dan/atau Perempuan;  
 b. pekerja sosial atau relawan;  
 c. advokat; dan  
 d. rohaniawan.  
@@ -310,23 +314,23 @@ d. rohaniawan.
 #### Pasal 27
 
 1. Pekerja sosial atau tenaga relawan sebagaimana dimaksud  dalam Pasal 24 ayat (1) huruf b bertugas mendampingi Korban  dalam menghadapi proses penyelesaian tindak kekerasan.  
-2. Dalam melaksanakan tugas sebagaimana dimaksud pada ayat  (1), Pekerja sosial atau tenaga relawan melakukan kegiatan:  a. konseling atau bimbingan untuk menguatkan dan  memberikan rasa aman bagi Korban;  
-
-##### JDIH KABUPATEN PASANGKAYU
+2. Dalam melaksanakan tugas sebagaimana dimaksud pada ayat  (1), Pekerja sosial atau tenaga relawan melakukan kegiatan:  
+a. konseling atau bimbingan untuk menguatkan dan  memberikan rasa aman bagi Korban;  
 b. memberikan informasi mengenai hak Korban untuk  mendapatkan Perlindungan dari kepolisian dan penetapan  perintah Perlindungan dari pengadilan;  
 c. mengantarkan Korban ke Rumah Aman atau tempat  tinggal alternatif; dan  
 d. melakukan koordinasi terpadu dalam memberikan  layanan kepada Korban dengan instansi atau pihak terkait  yang dibutuhkan Korban.  
 
 #### Pasal 28
 
-1. Pemerintah Daerah wajib menyiapkan Rumah Aman.  (2) Rumah Aman sebagaimana dimaksud pada ayat (1)  digunakan dalam penanganan sementara bagi Korban  Kekerasan terhadap Perempuan dan Anak.  
+1. Pemerintah Daerah wajib menyiapkan Rumah Aman.  
+2. Rumah Aman sebagaimana dimaksud pada ayat (1)  digunakan dalam penanganan sementara bagi Korban  Kekerasan terhadap Perempuan dan Anak.  
 3. Rumah Aman sebagaimana dimaksud pada ayat (2)  disediakan di setiap Kecamatan.  
 
 #### Pasal 29
 
 1. Advokat sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf  c membantu memberikan layanan hukum bagi Korban atau  memberikan konsultasi hukum berupa informasi mengenai  hak Korban dan proses peradilan;  
 2. Advokat wajib mendampingi dan/atau mewakili Korban di  tingkat penyidikan, penuntutan, dan pemeriksaan dalam  sidang pengadilan.  
-3. Informasi kekerasan dari Korban yang bersifat pribadi wajib  dirahasiakan oleh advokat.  
+3. Informasi kekerasan dari Korban yang bersifat pribadi wajib dirahasiakan oleh advokat.  
 4. Advokat dapat melakukan koordinasi dengan sesama penegak  hukum, relawan pendamping, dan pekerja sosial agar proses  peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 30
@@ -341,14 +345,15 @@ b. memberikan penjelasan mengenai hak dan kewajiban Korban.
 
 ## Bagian Kesatu
 
-### JDIH KABUPATEN PASANGKAYU
-
 Pembinaan
 
 #### Pasal 31
 
-1. Pemerintah Daerah melaksanakan pembinaan Perempuan  dan Anak (2) Pembinaan Perempuan dan Anak sebagaimana dimaksud  pada ayat (1) dilakukan melalui:a. sosialisasi;  
-b. bimbingan; dan/atauc. pelatihan.  
+1. Pemerintah Daerah melaksanakan pembinaan Perempuan dan Anak.  
+2. Pembinaan Perempuan dan Anak sebagaimana dimaksud  pada ayat (1) dilakukan melalui:  
+a. sosialisasi;  
+b. bimbingan; dan/atau  
+c. pelatihan.  
 3. Pembinaan Perempuan dan Anak dilakukan oleh Perangkat  Daerah yang menyelenggarakan urusan pemerintahan bidang  pemberdayaan Perempuan dan Anak.  
 
 ## Bagian Kedua
@@ -368,10 +373,9 @@ Pengawasan
 #### Pasal 33
 
 1. Masyarakat berperan serta dalam upaya perlindungan  Perempuan dan Anak.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan dalam bentuk:a. memberikan data atau informasi mengenai Perempuan  dan Anak yang belum mendapatkan pemenuhan hak dari  Pemerintah Daerah;  
-b. memberikan informasi setiap kondisi yang cenderung  mengarah pada tindak kekerasan terhadap Perempuan  dan Anak kepada pihak yang berwenang dan/atau  Pemerintah Daerah; dan/atau
-
-##### JDIH KABUPATEN PASANGKAYU
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan dalam bentuk:  
+a. memberikan data atau informasi mengenai Perempuan  dan Anak yang belum mendapatkan pemenuhan hak dari  Pemerintah Daerah;  
+b. memberikan informasi setiap kondisi yang cenderung  mengarah pada tindak kekerasan terhadap Perempuan  dan Anak kepada pihak yang berwenang dan/atau  Pemerintah Daerah; dan/atau  
 c. mempromosikan Perlindungan Perempuan dan Anak.  
 
 # BAB IX
@@ -380,7 +384,8 @@ c. mempromosikan Perlindungan Perempuan dan Anak.
 
 #### Pasal 34
 
-1. Pendanaan atas penyelenggaraan Perlindungan Perempuan  dan Anak dibebankan pada:a. anggaran pendapatan dan belanja negara;  
+1. Pendanaan atas penyelenggaraan Perlindungan Perempuan  dan Anak dibebankan pada:  
+a. anggaran pendapatan dan belanja negara;  
 b. anggaran pendapatan dan belanja daerah; dan  
 c. sumber lain yang sah dan tidak mengikat.  
 2. Pendanaan sebagaimana dimaksud pada ayat (1) huruf a  dianggarkan pada Perangkat Daerah yang menyelenggarakan  urusan pemerintahan dibidang pemberdayaan Perempuan dan Anak.  
@@ -395,41 +400,33 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan penempatannya  dalam Lembaran Daerah Kabupaten Pasangkayu.  
 
-Ditetapkan di Pasangkayu pada tanggal 18 November 2019
+Ditetapkan di Pasangkayu pada tanggal 18 November 2019  
 
-##### BUPATI PASANGKAYU,
+BUPATI PASANGKAYU,  
 
-##### AGUS AMBO DJIWA
+AGUS AMBO DJIWA  
 
-Diundangkan di Pasangkau pada tanggal 18 November 2019
+Diundangkan di Pasangkau pada tanggal 18 November 2019  
 
-##### SEKRETARIS DAERAH
+SEKRETARIS DAERAH  
 
-##### KABUPATEN PASANGKAYU,
+KABUPATEN PASANGKAYU,  
 
-##### FIRMAN
+FIRMAN  
 
-LEMBARAN DAERAH KABUPATEN PASANGKAYU TAHUN 2019 NOMOR 9  NOREG PERATURAN DAERAH KABUPATEN PASANGKAYU, PROVINSI  SULAWESI BARAT: ( 42 ) / ( 2019 ) Salinan Sesuai Bunyi Aslinya Plt. KEPALA BAGIAN HUKUM DAN HAM,
+LEMBARAN DAERAH KABUPATEN PASANGKAYU TAHUN 2019 NOMOR 9  NOREG PERATURAN DAERAH KABUPATEN PASANGKAYU, PROVINSI  SULAWESI BARAT: ( 42 ) / ( 2019 ) Salinan Sesuai Bunyi Aslinya Plt. KEPALA BAGIAN HUKUM DAN HAM,  
 
-##### MULYADI, SH
+MULYADI, SH  
 
-PANGKAT: Penata Tk.I/III.d
+PANGKAT: Penata Tk.I/III.d  
 
-##### JDIH KABUPATEN PASANGKAYU
+JDIH KABUPATEN PASANGKAYU  
 
-##### NIP: 19791115 200804 1 001
+NIP: 19791115 200804 1 001  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PASANGKAYU
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN PASANGKAYU
-
-##### NOMOR 9 TAHUN 2019
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK
+NOMOR 9 TAHUN 2019 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK
 
 ##### I. UMUM
 
@@ -471,8 +468,6 @@ Cukup jelas.
 
 #### Pasal 8
 
-##### JDIH KABUPATEN PASANGKAYU
-
 Cukup jelas.  
 
 #### Pasal 9
@@ -493,11 +488,21 @@ Cukup jelas.
 
 #### Pasal 13
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Cukup jelas Huruf b Huruf c Penyiapan sistem informasi berupa penyediaan data data tentang kondisi Perempuan atau sarana telephon, email, website atau sarana lainnya untuk keperluan laporan lisan/pengaduan dari Korban/ masyarakat.  
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
 
-Huruf d Cukup jelas
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Penyiapan sistem informasi berupa penyediaan data data tentang kondisi Perempuan atau sarana telephon, email, website atau sarana lainnya untuk keperluan laporan lisan/pengaduan dari Korban/ masyarakat.  
+
+Huruf d  
+Cukup jelas.  
 
 #### Pasal 14
 
@@ -529,21 +534,23 @@ Cukup jelas.
 
 #### Pasal 21
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Deteksi dan intervensi dini dilakukan terhadap potensi  pelanggaran hak-hak Anak dari segala bentuk
+Ayat (2)  
+Huruf a  
+Deteksi dan intervensi dini dilakukan terhadap potensi  pelanggaran hak-hak Anak dari segala bentuk kekerasan, perlakuan salah, eksploitasi, penelantaran dan diskriminasi.  
 
-##### JDIH KABUPATEN PASANGKAYU
-
-kekerasan, perlakuan salah, eksploitasi, penelantaran dan diskriminasi.  
-
-Huruf b Kegiatan soialisasi berupa penjelasan mengenai hak hak Anak, implikasi pelanggaran hak-hak Anak dan peraturan perundang-undangan terkait dengan perlindungan Anak kepada masyarakat. Sosialisasi dapat menggunakan berbagai sarana atau media disesuaikan dengan materi yang hendak disampaikan.  
+Huruf b  
+Kegiatan soialisasi berupa penjelasan mengenai hak hak Anak, implikasi pelanggaran hak-hak Anak dan peraturan perundang-undangan terkait dengan perlindungan Anak kepada masyarakat. Sosialisasi dapat menggunakan berbagai sarana atau media disesuaikan dengan materi yang hendak disampaikan.  
 
 Kegiatan seminar atau lokakarya dapat dilaksAnakan  oleh Perguruan Tinggi, LSM atau lembaga lainnya yang menangani perlindungan Anak. Seminar atau lokakarya difokuskan pada tema “perlindungan hak-hak Anak”.  
 
-Huruf c Penyiapan sistem informasi berupa penyediaan data data tentang kondisi Anak Daerah, atau sarana telephon, email, website atau sarana lainnya untuk keperluan laporan lisan/pengaduan dari Korban/masyarakat.  
+Huruf c  
+Penyiapan sistem informasi berupa penyediaan data data tentang kondisi Anak Daerah, atau sarana telephon, email, website atau sarana lainnya untuk keperluan laporan lisan/pengaduan dari Korban/masyarakat.  
 
-Huruf d Cukup jelas
+Huruf d  
+Cukup jelas.  
 
 #### Pasal 22
 
@@ -559,9 +566,11 @@ Cukup Jelas.
 
 #### Pasal 25
 
-Ayat (1) Yang dimaksud Rumah Sakit dalam ketentuan ini,  diprioritaskan pada Rumah Sakit milik Pemerintah Daerah.  
+Ayat (1)  
+Yang dimaksud Rumah Sakit dalam ketentuan ini,  diprioritaskan pada Rumah Sakit milik Pemerintah Daerah.  
 
-Ayat (2) Cukup jelas
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 26
 
@@ -573,9 +582,11 @@ Cukup jelas.
 
 #### Pasal 28
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Pembangunan Rumah Aman diutamakan dalam lingkungan  setiap Kantor Kecamatan.  
+Ayat (2)  
+Pembangunan Rumah Aman diutamakan dalam lingkungan  setiap Kantor Kecamatan.  
 
 #### Pasal 29
 
@@ -584,8 +595,6 @@ Cukup jelas.
 #### Pasal 30
 
 Cukup jelas.  
-
-##### JDIH KABUPATEN PASANGKAYU
 
 #### Pasal 31
 
@@ -611,6 +620,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN PASANGKAYU NOMOR …
-
-##### JDIH KABUPATEN PASANGKAYU
+TAMBAHAN LEMBARAN DAERAH KABUPATEN PASANGKAYU NOMOR  
