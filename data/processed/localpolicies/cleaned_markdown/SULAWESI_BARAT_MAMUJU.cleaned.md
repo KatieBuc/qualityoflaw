@@ -1,18 +1,20 @@
-# BUPATI MAMUJU
+# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
 
-# PROVINSI SULAWESI BARAT
+BUPATI MAMUJU  
+
+PROVINSI SULAWESI BARAT  
 
 # PERATURAN DAERAH KABUPATEN MAMUJU
 
-# NOMOR 9 TAHUN 2023
+NOMOR 9 TAHUN 2023  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHAESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI MAMUJU,
+BUPATI MAMUJU,  
 
 Menimbang:  
  
@@ -36,18 +38,23 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 29 Tahun 1959 tentang  Pembentukan Daerah Tingkat II di Sulawesi (Lembaran  Negara Republik Indonesia Tahun 1959 Nomor 74,  Tambahan Lembaran Negara Republik Indonesia Nomor 1822);  
 3. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah  Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang  Cipta Kerja Menjadi Undang-Undang (Lembaran Negara  Republik Indonesia Tahun 2023 Nomor 41, Tambahan  Lembaran Negara Republik Indonesia  Nomor 6856);  
 4. Undang-Undang Nomor 12 Tahun 2022 tentang Tindak  Pidana Kekerasan Seksual (Lembaran Negara Republik  Indonesia Tahun 2022 Nomor 120, Tambahan Lembaran  Negara Republik Indonesia Nomor 6792);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MAMUJU dan
+Dengan Persetujuan Bersama  
 
-# BUPATI MAMUJU
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MAMUJU  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN.  
+BUPATI MAMUJU  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN.  
 
 # BAB I
 
@@ -55,8 +62,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN.
 
 #### Pasal 1
 
-Dalam peraturan daerah ini, yang dimaksud dengan:
-
+Dalam peraturan daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Mamuju.  
 2. Pemerintah Daerah adalah Pemerintah Kabupaten  Mamuju.  
 3. Bupati adalah Bupati Mamuju.  
@@ -72,7 +78,9 @@ Dalam peraturan daerah ini, yang dimaksud dengan:
 13. Rencana Aksi Daerah Pengarusutamaan Gender yang  selanjutnya disebut RANDA PUG adalah dokumen  perencanaan sebagai pedoman dalam upaya melaksanakan  strategi pembangunan dengan mengintegrasikan gender  menjadi satu kesatuan dimensi integral dari perencanaan,  penyusunan, pelaksanaan, pemantauan dan evaluasi atas  kebijakan, program, dan kegiatan pembangunan di daerah.  
 14. Kelembagaan PUG adalah kelembagaan yang memenuhi  unsur-unsur prasyarat PUG, yang berfungsi secara efektif  dalam satu sistem berkelanjutan dengan norma yang  disepakati dalam pemenuhan hak-hak asasi perempuan  dan laki-laki secara adil untuk mencapai kesetaraan antara  perempuan dan laki-laki di seluruh bidang pembangunan  dan tingkatan pemerintahan.  
 15. Lembaga masyarakat adalah lembaga yang dibentuk oleh  anggota masyarakat Warga Negara Indonesia secara  sukarela atas dasar kesamaan visi, misi, profesi, fungsi,  dan kegiatan untuk berperan serta dalam pembangunan  dalam rangka mencapai tujuan nasional dalam wadah  Negara Kesatuan Republik Indonesia yang berdasarkan  Pancasila, yang terdiri dari organisasi keagamaan, lembaga  swadaya masyarakat, organisasi profesi, organisasi swasta,  organisasi sosial, organisasi politik, media massa, dan  bentuk organisasi lainnya.  
-16. Korban adalah orang yang mengalami kekerasan dan/atau  ancaman kekerasan dalam lingkup rumah tangga. 17. Masyarakat adalah perseorangan, keluarga, kelompok, dan  organisasi sosial dan/atau organisasi kemasyarakatan. 18. Gugus tugas adalah lembaga koordinatif bentukan  Pemerintah Kabupaten Mamuju yang mengoordinasikan  kebijakan, program dan kegiatan perlindungan perempuan  dan anak di Kabupaten Mamuju.  
+16. Korban adalah orang yang mengalami kekerasan dan/atau  ancaman kekerasan dalam lingkup rumah tangga.  
+17. Masyarakat adalah perseorangan, keluarga, kelompok, dan  organisasi sosial dan/atau organisasi kemasyarakatan.  
+18. Gugus tugas adalah lembaga koordinatif bentukan  Pemerintah Kabupaten Mamuju yang mengoordinasikan  kebijakan, program dan kegiatan perlindungan perempuan  dan anak di Kabupaten Mamuju.  
 
 # BAB II
 
@@ -80,10 +88,13 @@ Dalam peraturan daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-1. Pemerintah Daerah berkewajiban dan bertanggung jawab  terhadap pemberdayaan dan Perlindungan Perempuan. (2) Upaya Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (1) meliputi:a. penetapan kebijakan, program, dan kegiatan;  
+1. Pemerintah Daerah berkewajiban dan bertanggung jawab  terhadap pemberdayaan dan Perlindungan Perempuan.  
+2. Upaya Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (1) meliputi:  
+a. penetapan kebijakan, program, dan kegiatan;  
 b. penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan; dan  
-b. koordinasi kebijakan, program dan kegiatan. (3) Upaya Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (2) dilakukan secara  terpadu sesuai dengan peraturan perundang- undangan  yang berlaku.  
+b. koordinasi kebijakan, program dan kegiatan.  
+3. Upaya Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (2) dilakukan secara  terpadu sesuai dengan peraturan perundang- undangan  yang berlaku.  
 
 # BAB III
 
@@ -91,17 +102,20 @@ b. koordinasi kebijakan, program dan kegiatan. (3) Upaya Pemberdayaan dan Perlin
 
 #### Pasal 3
 
-1. Setiap perempuan berhak untuk:a. hidup dan mempertahankan hidup serta meningkatkan  taraf kehidupannya;  
+1. Setiap perempuan berhak untuk:  
+a. hidup dan mempertahankan hidup serta meningkatkan  taraf kehidupannya;  
 b. memenuhi kebutuhan dasarnya untuk tumbuh dan  berkembang secara layak, berkeluarga dan melanjutkan  keturunan;  
 c. mengembangkan pribadinya, untuk memperoleh  pendidikan, dan meningkatkan kualitas hidupnya agar  menjadi manusia yang beriman, bertaqwa, bertanggung  jawab, berakhlak mulia, bahagia, dan sejahtera sesuai  dengan hak asasi manusia;  
 d. memperoleh keadilan, rasa aman, dan kebebasan  menyampaikan pendapat tanpa diskriminasi;  
 e. terlibat dalam setiap tahapan proses pembangunan;  
 f. bebas dari perbudakan atau diperhambag. bebas dari ancaman;  
-h. memperoleh perlindungan diri pribadi, keluarga,  kehormatan, martabat dan hak miliknya;  
+h. memperoleh perlindungan diri pribadi, keluarga, kehormatan, martabat dan hak miliknya;  
 i. mendapatkan kesejahteraan dan kehidupan yang layak;  
 j. berpartisipasi dalam bidang politik, ekonomi, sosial  budaya;  
 k. melakukan perbuatan hukum; dan  
-l. bebas memilih pasangan dalam perkawinannya. (2) Setiap istri selama dalam ikatan perkawinan mempunyai  hak dan tanggung jawab yang sama dengan suaminya atas  semua hal yang berkenaan dengan kehidupan  perkawinannya, hubungan dengan anak-anaknya, dan  kepemilikan serta pengelolaan harta bersama sesuai  dengan peraturan perundang-undangan yang berlaku. (3) Setelah putusnya perkawinan, seorang perempuan mempunyai hak dan tanggung jawab dengan mantan  suaminya atas semua hal yang berkenaan dengan anak  dengan memperhatikan kepentingan terbaik bagi anak.  
+l. bebas memilih pasangan dalam perkawinannya.  
+2. Setiap istri selama dalam ikatan perkawinan mempunyai  hak dan tanggung jawab yang sama dengan suaminya atas  semua hal yang berkenaan dengan kehidupan  perkawinannya, hubungan dengan anak-anaknya, dan  kepemilikan serta pengelolaan harta bersama sesuai  dengan peraturan perundang-undangan yang berlaku.  
+3. Setelah putusnya perkawinan, seorang perempuan mempunyai hak dan tanggung jawab dengan mantan  suaminya atas semua hal yang berkenaan dengan anak  dengan memperhatikan kepentingan terbaik bagi anak.  
 
 # BAB IV
 
@@ -113,10 +127,11 @@ Umum
 
 #### Pasal 4
 
-1. Untuk meningkatkan kualitas hidup perempuan, Pemerintah Daerah bertanggung jawab dalam:a. menghormati dan menjamin hak perempuan tanpa  diskriminasi sesuai dengan harkat dan martabat  kemanusiaan;  
+1. Untuk meningkatkan kualitas hidup perempuan, Pemerintah Daerah bertanggung jawab dalam:  
+a. menghormati dan menjamin hak perempuan tanpa  diskriminasi sesuai dengan harkat dan martabat kemanusiaan;  
 b. pelembagaan PUG pada lembaga Pemerintah Daerah;  
 c. Pemberdayaan Perempuan;  
-d. penguatan dan pengembangan lembaga penyedia  layanan Pemberdayaan Perempuan di Daerah.  
+d. penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan Perempuan di Daerah.  
 2. Upaya peningkatan kualitas hidup perempuan  sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PD  yang menyelenggarakan urusan pemerintahan di bidang  pemberdayaan perempuan dan perlindungan anak.  
 
 ## Bagian Kedua
@@ -125,7 +140,8 @@ Pelembagaan PUG pada Lembaga Pemerintah Daerah
 
 #### Pasal 5
 
-1. Bupati bertanggung jawab atas pelaksanaan PUG. (2) Tanggung jawab Bupati sebagaimana dimaksud pada ayat  (1) dapat dilimpahkan kepada Wakil Bupati.  
+1. Bupati bertanggung jawab atas pelaksanaan PUG.  
+2. Tanggung jawab Bupati sebagaimana dimaksud pada ayat  (1) dapat dilimpahkan kepada Wakil Bupati.  
 
 #### Pasal 6
 
@@ -134,9 +150,11 @@ Koordinator penyelenggaraan PUG di daerah adalah PD yang  membidangi urusan peme
 #### Pasal 7
 
 1. Dalam upaya percepatan pelembagaan PUG sebagaimana  dimaksud dalam Pasal 4 ayat (1) huruf b, dibentuk pokja  PUG.  
-2. Anggota pokja PUG adalah seluruh kepala/pimpinan PD. (3) Bupati menetapkan:a. kepala PD yang menyelenggarakan urusan  pemerintahan di bidang perencanaan pembangunan daerah sebagai ketua pokja PUG; dan  
+2. Anggota pokja PUG adalah seluruh kepala/pimpinan PD.  
+3. Bupati menetapkan:  
+a. kepala PD yang menyelenggarakan urusan pemerintahan di bidang perencanaan pembangunan daerah sebagai ketua pokja PUG; dan  
 b. kepala PD yang menyelenggarakan urusan  pemerintahan di bidang pemberdayaan perempuan dan  perlindungan anak sebagai kepala sekretariat pokja  PUG.  
-4. Pembentukan pokja PUG sebagaimana dimaksud pada ayat  (1) ditetapkan dengan Keputusan Bupati.  
+4. Pembentukan pokja PUG sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati.  
 
 #### Pasal 8
 
@@ -160,7 +178,8 @@ Bidang Politik
 
 #### Pasal 10
 
-1. Pemberdayaan perempuan di bidang politik sebagaimana  dimaksud dalam Pasal 9 huruf a meliputi:a. pelibatan perempuan dalam pengambilan keputusan di  berbagai tingkatan;  
+1. Pemberdayaan perempuan di bidang politik sebagaimana  dimaksud dalam Pasal 9 huruf a meliputi:  
+a. pelibatan perempuan dalam pengambilan keputusan di  berbagai tingkatan;  
 b. pemberian kesempatan bagi perempuan untuk  menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dan  
 d. pengembangan diri melalui organisasi untuk berserikat,  berkumpul dan mengeluarkan pendapat.  
@@ -168,12 +187,11 @@ d. pengembangan diri melalui organisasi untuk berserikat,  berkumpul dan mengelu
 3. Pemerintah Daerah memberikan jaminan kepada  perempuan untuk memilih dan/atau dipilih dalam:  
 a. pemilihan umum;  
 b. pemilihan kepala daerah;  
-c. pemilihan kepala desa; dan/ataud. pemilihan jabatan politik lainnya.  
-
-berdasarkan persamaan hak.  
-
+c. pemilihan kepala desa; dan/atau  
+d. pemilihan jabatan politik lainnya.  
 4. Persamaan hak sebagaimana dimaksud pada Ayat (3)  dilaksanakan melalui pemungutan suara yang langsung,  umum, bebas, rahasia, jujur dan adil menurut peraturan  perundang-undangan yang berlaku.  
-5. Pemerintah Daerah memberikan kesempatan pada  perempuan untuk diangkat sebagai pejabat pemerintah  daerah dan menempati posisi strategis dalam pemerintahan  daerah; dan (6) Pemerintah Daerah dan/atau Partai Politik bertanggung jawab memberikan pendidikan politik bagi perempuan.  
+5. Pemerintah Daerah memberikan kesempatan pada  perempuan untuk diangkat sebagai pejabat pemerintah  daerah dan menempati posisi strategis dalam pemerintahan  daerah; dan  
+6.  Pemerintah Daerah dan/atau Partai Politik bertanggung jawab memberikan pendidikan politik bagi perempuan.  
 
 ### Paragraf 2
 
@@ -181,8 +199,11 @@ Bidang Hukum
 
 #### Pasal 11
 
-1. Pemberdayaan perempuan di bidang hukum sebagaimana  dimaksud dalam Pasal 9 huruf b meliputi:a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi;  
-b. pemetaan dan review kebijakan bias gender; dan c. fasilitasi akses dan layanan konsultasi hukum. (2) Pemberdayaan perempuan di bidang hukum sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan  peraturan perundang-undangan yang berlaku.  
+1. Pemberdayaan perempuan di bidang hukum sebagaimana  dimaksud dalam Pasal 9 huruf b meliputi:  
+a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi;  
+b. pemetaan dan review kebijakan bias gender; dan  
+c. fasilitasi akses dan layanan konsultasi hukum.  
+2. Pemberdayaan perempuan di bidang hukum sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan  peraturan perundang-undangan yang berlaku.  
 
 ### Paragraf 3
 
@@ -208,7 +229,8 @@ b. kemudahan dalam memperoleh pekerjaan;
 c. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 d. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
 e. fasilitasi dan bantuan permodalan;  
-f. kemudahan akses informasi dan teknologi; dan g. fasilitasi pengembangan jaringan pemasaran.  
+f. kemudahan akses informasi dan teknologi; dan  
+g. fasilitasi pengembangan jaringan pemasaran.  
 
 ## Bagian Keempat
 
@@ -216,8 +238,9 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan  Pemberdayaan Perempuan
 
 #### Pasal 14
 
-1. Penguatan dan pengembangan lembaga penyedia layanan  pemberdayaan perempuan dilaksanakan oleh PD yang  membidangi urusan pemerintahan di bidang  pemberdayaan perempuan.  
-2. Penguatan dan pengembangan lembaga penyedia layanan  pemberdayaan perempuan sebagaimana dimaksud pada  ayat (1) meliputi:a. sosialisasi;  
+1. Penguatan dan pengembangan lembaga penyedia layanan  pemberdayaan perempuan dilaksanakan oleh PD yang membidangi urusan pemerintahan di bidang  pemberdayaan perempuan.  
+2. Penguatan dan pengembangan lembaga penyedia layanan  pemberdayaan perempuan sebagaimana dimaksud pada  ayat (1) meliputi:  
+a. sosialisasi;  
 b. koordinasi;  
 c. komunikasi, informasi dan edukasi;  
 d. pelatihan; dan  
@@ -249,7 +272,11 @@ l. media.
 
 #### Pasal 16
 
-1. Pencegahan kekerasan terhadap perempuan dimaksudkan  untuk:a. menciptakan lingkungan yang aman bagi perempuan;  danb. mengurangi kerentanan kekerasan, eksploitasi dan  diskriminasi kepada kelompok perempuan rentan. (2) Kelompok perempuan rentan sebagaimana dimaksud pada  ayat (1) huruf b sebagai berikut:a. perempuan dalam situasi bencana dan konflik sosial;  
+1. Pencegahan kekerasan terhadap perempuan dimaksudkan  untuk:  
+a. menciptakan lingkungan yang aman bagi perempuan; dan  
+b. mengurangi kerentanan kekerasan, eksploitasi dan  diskriminasi kepada kelompok perempuan rentan.  
+2. Kelompok perempuan rentan sebagaimana dimaksud pada  ayat (1) huruf b sebagai berikut:  
+a. perempuan dalam situasi bencana dan konflik sosial;  
 b. perempuan dengan penyandang disabilitas;  
 c. perempuan dengan HIV/AIDS;  
 d. perempuan pekerja migran;  
@@ -264,7 +291,8 @@ l. kelompok perempuan rentan lainnya.
 
 #### Pasal 17
 
-1. Pencegahan kekerasan terhadap perempuan dilakukan  pada bidang sebagai berikut:a. pendidikan;  
+1. Pencegahan kekerasan terhadap perempuan dilakukan  pada bidang sebagai berikut:  
+a. pendidikan;  
 b. kesehatan;  
 c. agama;  
 d. keamanan;  
@@ -286,7 +314,8 @@ s. kebudayaan;
 t. pariwisata;  
 u. perdagangan dan perindustrian; dan  
 v. bidang lainnya yang terkait.  
-2. Pencegahan kekerasan terhadap perempuan sebagaimana  dimaksud pada ayat (1) dilakukan dalam bentuk sebagai  berikut:a. mengembangkan media komunikasi, informasi, edukasi  dan kampanye publik melalui media;  
+2. Pencegahan kekerasan terhadap perempuan sebagaimana  dimaksud pada ayat (1) dilakukan dalam bentuk sebagai  berikut:  
+a. mengembangkan media komunikasi, informasi, edukasi  dan kampanye publik melalui media;  
 b. mengembangkan materi dan kurikulum pendidikan;  
 c. mengembangkan sistem transportasi dan ruang publik  yang aman;  
 d. membangun sistem deteksi dini, keamanan dan layanan  pengaduan terpadu di kawasan industri, perusahaan,  lingkungan pemukiman, lingkungan pendidikan,  pesantren dan ruang publik lainnya;  
@@ -297,7 +326,9 @@ h. membentuk dan mengembangkan kader, komunitas,  dan kelompok dari kalangan mud
 i. melakukan edukasi dan advokasi kepada pemilik,  pengelola dan/atau pengguna sosial media;  
 j. mengembangkan sistem perlindungan dan dukungan  khusus bagi kelompok perempuan rentan;  
 k. melakukan penyadaran bagi pelaku;  
-l. melakukan kerja sama antara penanggung jawab  pencegahan kekerasan terhadap perempuan; dan m. melakukan sosialisasi peraturan perundang-undangan. (3) Bidang dan bentuk pencegahan kekerasan terhadap  perempuan sebagaimana dimaksud pada ayat (1) dan ayat  (2) menjadi tanggung jawab Perangkat Daerah yang  membidangi urusan terkait.  
+l. melakukan kerja sama antara penanggung jawab  pencegahan kekerasan terhadap perempuan; dan  
+m. melakukan sosialisasi peraturan perundang-undangan.  
+3. Bidang dan bentuk pencegahan kekerasan terhadap  perempuan sebagaimana dimaksud pada ayat (1) dan ayat  (2) menjadi tanggung jawab Perangkat Daerah yang  membidangi urusan terkait.  
 
 #### Pasal 18
 
@@ -315,12 +346,14 @@ Penyediaan Layanan Bagi Perempuan Korban Kekerasan
 
 1. Dalam pelaksanaan pelayanan perlindungan perempuan  Pemerintah Daerah membentuk P2TP2A sebagai jejaring  pelayanan bagi perempuan korban kekerasan.  
 2. Pembentukan P2TP2A dimaksudkan agar perempuan  korban kekerasan memperoleh pelayanan yang  komprehensif, terintegrasi, berkualitas, inklusif dan  berkelanjutan.  
-3. P2TP2A sebagaimana dimaksud pada ayat (1) mempunyai  tugas sebagai berikut:a. memberikan layanan kepada perempuan korban  kekerasan sesuai dengan standar operasional prosedur;  
+3. P2TP2A sebagaimana dimaksud pada ayat (1) mempunyai  tugas sebagai berikut:  
+a. memberikan layanan kepada perempuan korban  kekerasan sesuai dengan standar operasional prosedur;  
 b. melakukan koordinasi pencegahan, pelayanan dan  rujukan antara lembaga layanan milik pemerintah,  lembaga layanan milik masyarakat, organisasi profesi,  lembaga penegak hukum dan lembaga lainnya yang  terkait;  
 c. melakukan pendataan pelayanan kasus;  
-d. menyediakan berbagai informasi yang dibutuhkan  korban, keluarga korban dan masyarakat;  
+d. menyediakan berbagai informasi yang dibutuhkan korban, keluarga korban dan masyarakat;  
 e. melakukan pencegahan dari keberulangan kekerasan,  eksploitasi dan diskriminasi terhadap perempuan;  
-f. melakukan monitoring dan evaluasi pelayanan korban;  dang. memberikan penguatan kapasitas, bimbingan dan  asistensi yang terkait dengan pelayanan korban.  
+f. melakukan monitoring dan evaluasi pelayanan korban; dan  
+g. memberikan penguatan kapasitas, bimbingan dan  asistensi yang terkait dengan pelayanan korban.  
 
 #### Pasal 21
 
@@ -347,7 +380,8 @@ Ketentuan lebih lanjut mengenai pembentukan dan struktur  P2TP2A sebagaimana dim
 
 #### Pasal 23
 
-1. Pelayanan dilaksanakan untuk memenuhi hak perempuan  korban kekerasan dan dilakukan dengan prinsip-prinsip  sebagai berikut:a. penghormatan terhadap hak asasi manusia;  
+1. Pelayanan dilaksanakan untuk memenuhi hak perempuan  korban kekerasan dan dilakukan dengan prinsip-prinsip  sebagai berikut:  
+a. penghormatan terhadap hak asasi manusia;  
 b. non diskriminasi;  
 c. kerahasiaan;  
 d. empati;  
@@ -358,18 +392,22 @@ h. kejujuran;
 i. profesional;  
 j. keterpaduan; dan  
 k. keberlanjutan.  
-2. Pelayanan kepada perempuan korban kekerasan harus  mempertimbangkan kondisi dan kebutuhan khusus  berdasarkan kerentanan yang dialami perempuan sebagaimana dimaksud dalam Pasal 20
+2. Pelayanan kepada perempuan korban kekerasan harus  mempertimbangkan kondisi dan kebutuhan khusus berdasarkan kerentanan yang dialami perempuan sebagaimana dimaksud dalam Pasal 20.  
 
 #### Pasal 24
 
-1. Bentuk pelayanan sebagaimana dimaksud dalam Pasal 23 meliputi:a. pelayanan pengaduan;  
+1. Bentuk pelayanan sebagaimana dimaksud dalam Pasal 23 meliputi:  
+a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. pelayanan rehabilitasi sosial;  
-d. pelayanan bantuan dan penegakan hukum; dan e. pelayanan pemulangan dan reintegrasi sosial. (2) Pelayanan perempuan korban kekerasan dilaksanakan  secara cepat, bebas biaya, paripurna, berkualitas dan  terintegrasi dengan layanan yang disediakan instansi  pemerintah, masyarakat, lembaga pendidikan, lembaga  keagamaan, lembaga profesi, pesantren, dunia usaha  melalui sistem pelayanan terpadu.  
+d. pelayanan bantuan dan penegakan hukum; dan  
+e. pelayanan pemulangan dan reintegrasi sosial.  
+2. Pelayanan perempuan korban kekerasan dilaksanakan  secara cepat, bebas biaya, paripurna, berkualitas dan  terintegrasi dengan layanan yang disediakan instansi  pemerintah, masyarakat, lembaga pendidikan, lembaga  keagamaan, lembaga profesi, pesantren, dunia usaha  melalui sistem pelayanan terpadu.  
 
 #### Pasal 25
 
-1. Pelayanan pengaduan sebagaimana dimaksud dalam  Pasal 24 ayat (1) huruf a terdiri atas:a. penerimaan pengaduan;  
+1. Pelayanan pengaduan sebagaimana dimaksud dalam  Pasal 24 ayat (1) huruf a terdiri atas:  
+a. penerimaan pengaduan;  
 b. pengaduan khusus;  
 c. pemberian informasi;  
 d. penjangkauan;  
@@ -381,7 +419,8 @@ g. bentuk pelayanan pengaduan lainnya yang  dibutuhkan korban.
 
 #### Pasal 26
 
-1. Pelayanan kesehatan sebagaimana dimaksud dalam Pasal  24 ayat (1) huruf b dilaksanakan dengan kegiatan sebagai  berikut:a. pemeriksaan dan perawatan kesehatan fisik dan jiwa;  
+1. Pelayanan kesehatan sebagaimana dimaksud dalam Pasal  24 ayat (1) huruf b dilaksanakan dengan kegiatan sebagai  berikut:  
+a. pemeriksaan dan perawatan kesehatan fisik dan jiwa;  
 b. pemeriksaan dan pemulihan psikologis;  
 c. pelayanan kehamilan, persalinan, dan kesehatan  reproduksi;  
 d. resume medis dan hasil pemeriksaan psikologi;  
@@ -394,7 +433,8 @@ g. bentuk pelayanan kesehatan lainnya yang dibutuhkan  korban.
 
 #### Pasal 27
 
-1. Pelayanan rehabilitasi sosial sebagaimana dimaksud  dalam Pasal 24 ayat (1) huruf c dilaksanakan dengan  kegiatan sebagai berikut:a. konseling;  
+1. Pelayanan rehabilitasi sosial sebagaimana dimaksud  dalam Pasal 24 ayat (1) huruf c dilaksanakan dengan  kegiatan sebagai berikut:  
+a. konseling;  
 b. pendampingan;  
 c. ahli bahasa dan/atau penterjemah;  
 d. bimbingan rohani;  
@@ -402,14 +442,16 @@ e. shelter dan/atau rumah aman;
 f. penampungan sementara;  
 g. penguatan berbasis dukungan keluarga dan/atau  kelompok;  
 h. dukungan mobilitas bagi korban dengan penyandang  disabilitas;  
-i. pemberian bantuan sosial khusus bagi korban; dan j. bentuk pelayanan rehabilitasi sosial lainnya yang  dibutuhkan korban.  
+i. pemberian bantuan sosial khusus bagi korban; dan  
+j. bentuk pelayanan rehabilitasi sosial lainnya yang  dibutuhkan korban.  
 2. Layanan rehabilitasi sosial sebagaimana dimaksud pada  ayat (1) huruf a, huruf b, huruf c, huruf d, huruf f, huruf  g, huruf h, dan huruf i menjadi tanggung jawab Perangkat  Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak.  
 3. Layanan rehabilitasi sosial sebagaimana dimaksud pada  ayat (1) huruf e dan huruf j menjadi tanggung jawab  Perangkat Daerah yang membidangi urusan sosial dan urusan pemberdayaan perempuan dan perlindungan  anak.  
 4. Ketentuan lebih lanjut mengenai pelayanan rehabilitasi  sosial diatur dengan Peraturan Bupati.  
 
 #### Pasal 28
 
-1. Pelayanan bantuan dan penegakan hukum sebagaimana  dimaksud dalam Pasal 24 ayat (1) huruf d dilaksanakan  secara terpadu dengan pihak terkait melalui kegiatan  sebagai berikut:a. konsultasi hukum;  
+1. Pelayanan bantuan dan penegakan hukum sebagaimana  dimaksud dalam Pasal 24 ayat (1) huruf d dilaksanakan  secara terpadu dengan pihak terkait melalui kegiatan  sebagai berikut:  
+a. konsultasi hukum;  
 b. pemberdayaan hukum;  
 c. mediasi;  
 d. keadilan restoratif;  
@@ -418,20 +460,18 @@ f. tenaga ahli;
 g. restitusi;  
 h. perlindungan keamanan; dan  
 i. bentuk pelayanan bantuan dan penegakan hukum  lainnya yang dibutuhkan korban.  
-2. Dalam melaksanakan keterpaduan pelayanan bantuan  dan penegakan hukum sebagaimana dimaksud pada ayat  (1), Bupati bertanggungjawab mengoordinir kerjasama  antara:a. perangkat daerah;  
+2. Dalam melaksanakan keterpaduan pelayanan bantuan  dan penegakan hukum sebagaimana dimaksud pada ayat  (1), Bupati bertanggungjawab mengoordinir kerjasama  antara:  
+a. perangkat daerah;  
 b. lembaga layanan;  
 c. organisasi bantuan hukum;  
-
 d.organisasi profesi advokat dengan lembaga penegak  hukum; dan
-e. instansi vertikal lainnya yang terkait.  
-
-melalui integrasi sistem pemulihan ke dalam sistem  peradilan pidana.  
-
+e. instansi vertikal lainnya yang terkait melalui integrasi sistem pemulihan ke dalam sistem  peradilan pidana.  
 3. Ketentuan lebih lanjut mengenai pelayanan bantuan dan  penegakan hukum diatur dengan Peraturan Bupati.  
 
 #### Pasal 29
 
-1. Pelayanan pemulangan dan reintegrasi sosial  sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf e  dilaksanakan dengan kegiatan sebagai berikut:a. pemulangan dan/atau penjemputan korban;  
+1. Pelayanan pemulangan dan reintegrasi sosial  sebagaimana dimaksud dalam Pasal 24 ayat (1) huruf e  dilaksanakan dengan kegiatan sebagai berikut:  
+a. pemulangan dan/atau penjemputan korban;  
 b. penyediaan dokumen kependudukan atau identitas  diri;  
 c. keluarga alternatif;  
 d. beasiswa dan sarana penunjang pendidikan;  
@@ -445,7 +485,8 @@ k. pemberian program perlindungan sosial dan program  penanggulangan kemiskinan;
 l. bentuk pelayanan pemulangan dan reintegrasi sosial  lainnya yang dibutuhkan korban.  
 2. Pelayanan pemulangan dan reintegrasi sosial  sebagaimana dimaksud pada ayat (1) diberikan kepada  korban, keluarga dan orang yang kehidupannya  bergantung kepada korban dengan tujuan agar korban  memiliki kesiapan dan kemampuan menjalani kehidupan  di masyarakat.  
 3. Pelayanan pemulangan dan reintegrasi sosial  sebagaimana dimaksud pada ayat (1) dilakukan secara  terpadu dengan Sistem Layanan Rujukan Terpadu untuk  perlindungan sosial dan penanggulangan kemiskinan dan  Pusat Kesejahteraan Sosial Anak.  
-4. Pelayanan pemulangan dan reintegrasi sosial  sebagaimana dimaksud pada ayat (1) menjadi tanggung jawab Perangkat Daerah yang membidangi:a. urusan sosial;  
+4. Pelayanan pemulangan dan reintegrasi sosial  sebagaimana dimaksud pada ayat (1) menjadi tanggung jawab Perangkat Daerah yang membidangi:  
+a. urusan sosial;  
 b. urusan administrasi kependudukan dan pencatatan sipil;  
 c. urusan tenaga kerja;  
 d. urusan koperasi usaha kecil dan menengah;  
@@ -471,7 +512,8 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan  Perlindungan Perempuan
 
 #### Pasal 31
 
-1. Untuk meningkatkan kualitas keluarga, Pemerintah Daerah  bertanggung jawab dalam:a. peningkatan kualitas keluarga dalam mewujudkan  kesetaraan gender dan hak anak;  
+1. Untuk meningkatkan kualitas keluarga, Pemerintah Daerah  bertanggung jawab dalam:  
+a. peningkatan kualitas keluarga dalam mewujudkan  kesetaraan gender dan hak anak;  
 b. penguatan dan pengembangan lembaga penyedia  layanan peningkatan kualitas keluarga dalam  mewujudkan kesetaraan gender; dan  
 c. penyediaan layanan bagi keluarga dalam mewujudkan  kesetaraan gender dan hak anak.  
 2. Upaya peningkatan kualitas keluarga sebagaimana  dimaksud pada ayat (1) dilaksanakan oleh PD sesuai  dengan tugas dan fungsinya.  
@@ -486,7 +528,8 @@ Pemerintah Daerah melakukan upaya peningkatan kualitas  keluarga dalam mewujudka
 a. pembinaan;  
 b. bimbingan;  
 c. supervisi;  
-d. fasilitas penyelenggaraan pembangunan keluarga; dan e. peningkatan kualitas kesehatan ibu hamil dan menyusui.  
+d. fasilitas penyelenggaraan pembangunan keluarga; dan  
+e. peningkatan kualitas kesehatan ibu hamil dan menyusui.  
 
 #### Pasal 33
 
@@ -515,7 +558,7 @@ Supervisi sebagaimana dimaksud dalam Pasal 32 huruf c yaitu  melakukan evaluasi 
 Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender meliputi:  
 a. komunikasi, informasi dan edukasi;  
 b. alat dan obat kontrasepsi; dan  
-c. pencatatan dan pelaporan pelayanan keluarga berencana  keluarga berencana difasilitas sarana dan prasarana  pelayanan kesehatan yang memadai ruang pojok ASI di  setiap fasilitas umum.  
+c. pencatatan dan pelaporan pelayanan keluarga berencana keluarga berencana di fasilitas sarana dan prasarana  pelayanan kesehatan yang memadai ruang pojok ASI di  setiap fasilitas umum.  
 
 ## Bagian Kedua
 
@@ -523,9 +566,10 @@ Penyediaan Layanan Bagi Keluarga Dalam Mewujudkan  Kesetaraan Gender
 
 #### Pasal 37
 
-1. Dalam rangka meningkatkan kualitas keluarga, Pemerintah  Daerah bertanggung jawab:a. melakukan upaya peningkatan kualitas keluarga untuk  mewujudkan kesetaraan gender dan hak anak;  
-b. menyediakan layanan bagi keluarga dalam mewujudkan  kesetaraan gender dan hak anak; dan  
-c. menguatkan dan mengembangkan lembaga penyediaan  layanan peningkatan kualitas keluarga.  
+1. Dalam rangka meningkatkan kualitas keluarga, Pemerintah  Daerah bertanggung jawab:  
+a. melakukan upaya peningkatan kualitas keluarga untuk  mewujudkan kesetaraan gender dan hak anak;  
+b. menyediakan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan hak anak; dan  
+c. menguatkan dan mengembangkan lembaga penyediaan layanan peningkatan kualitas keluarga.  
 2. Tanggung jawab Pemerintah Daerah dalam upaya  peningkatan kualitas keluarga sebagaimana dimaksud pada  ayat (1) dilaksanakan oleh PD sesuai dengan tugas dan  fungsinya.  
 
 ## Bagian Ketiga
@@ -538,7 +582,8 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan  Peningkatan Kualitas Keluar
 a. pembinaan;  
 b. bimbingan;  
 c. supervisi;  
-d. fasilitasi penyelenggaraan pembangunan keluarga; dan e. meningkatkan kualitas kesehatan ibu hamil dan  menyusui.  
+d. fasilitasi penyelenggaraan pembangunan keluarga; dan  
+e. meningkatkan kualitas kesehatan ibu hamil dan  menyusui.  
 
 # BAB VII
 
@@ -547,10 +592,12 @@ d. fasilitasi penyelenggaraan pembangunan keluarga; dan e. meningkatkan kualitas
 #### Pasal 39
 
 1. Masyarakat berperan serta dalam penyelenggaraan  pemberdayaan dan perlindungan perempuan.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat  (1) berupa:a. pemberian penyuluhan mengenai hak perempuan;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat  (1) berupa:  
+a. pemberian penyuluhan mengenai hak perempuan;  
 b. pemberian pelatihan keterampilan untuk menunjang  perekonomian masyarakat;  
 c. pembentukan lembaga sosial kemasyarakatan untuk  menolong korban kekerasan;  
-d. memberi informasi dan/atau melaporkan kekerasan  terhadap perempuan kepada penegak hukum atau  pihak yang berwajib; dan/ataub. turut serta menangani tindak kekerasan terhadap  perempuan.  
+d. memberi informasi dan/atau melaporkan kekerasan  terhadap perempuan kepada penegak hukum atau  pihak yang berwajib; dan/atau  
+e. turut serta menangani tindak kekerasan terhadap  perempuan.  
 
 # BAB VIII
 
@@ -558,12 +605,14 @@ d. memberi informasi dan/atau melaporkan kekerasan  terhadap perempuan kepada pe
 
 #### Pasal 40
 
-1. Bupati melaksanakan pembinaan, dan pengawasan pemberdayaan dan perlindungan perempuan di Daerah. (2) Dalam melaksanakan pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), Bupati menugaskan  Perangkat Daerah yang membidangi urusan pemberdayaan  perempuan dan perlindungan anak.  
+1. Bupati melaksanakan pembinaan, dan pengawasan pemberdayaan dan perlindungan perempuan di Daerah.  
+2. Dalam melaksanakan pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), Bupati menugaskan  Perangkat Daerah yang membidangi urusan pemberdayaan  perempuan dan perlindungan anak.  
 3. Perangkat Daerah yang membidangi urusan pemberdayaan  perempuan dan perlindungan anak sebagaimana dimaksud  pada ayat (1) merupakan koordinator pelaksanaan  pemberdayaan dan perlindungan perempuan di Daerah.  
 
 #### Pasal 41
 
-1. Pembinaan dan pengawasan sebagaimana dimaksud dalam  Pasal 40 dilaksanakan dengan kegiatan sebagai berikut:  a. koordinasi rutin;  
+1. Pembinaan dan pengawasan sebagaimana dimaksud dalam  Pasal 40 dilaksanakan dengan kegiatan sebagai berikut:  
+a. koordinasi rutin;  
 b. penyusunan modul dan pedoman kerja;  
 c. bimbingan teknis dan pelatihan;  
 d. penyusunan standar operasional prosedur;  
@@ -584,7 +633,8 @@ j. pelaporan.
 
 Pendanaan pelaksanaan kebijakan program dan kegiatan  Pemberdayaan dan Perlindungan Perempuan di Daerah  bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
-b. Anggaran Pendapatan dan Belanja Daerah; dan c. sumber dana lain yang sah dan tidak mengikat.  
+b. Anggaran Pendapatan dan Belanja Daerah; dan  
+c. sumber dana lain yang sah dan tidak mengikat.  
 
 # BAB X
 
@@ -608,35 +658,27 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan penempatannya  dalam Lembaran Daerah Kabupaten Mamuju.  
 
-Ditetapkan di Mamuju pada tanggal, 8 Desember 2023
+Ditetapkan di Mamuju pada tanggal, 8 Desember 2023  
 
-##### BUPATI MAMUJU,
+BUPATI MAMUJU,  
 
-cap/ttd
+cap/ttd.  
 
-##### SITTI SUTINAH SUHARDI
+SITTI SUTINAH SUHARDI  
 
-Diundangkan di Mamuju pada tanggal 8 Desember 2023
+Diundangkan di Mamuju pada tanggal 8 Desember 2023  
 
-##### SEKRETARIS DAERAH KABUPATEN MAMUJU,
+SEKRETARIS DAERAH KABUPATEN MAMUJU,  
 
-cap/ttd
+cap/ttd.  
 
-##### SUAIB
+SUAIB  
 
-LEMBARAN DAERAH KABUPATEN MAMUJU TAHUN 2023 NOMOR 9 NOREG PERATURAN DAERAH KABUPATEN MAMUJU TAHUN 2023 NOMOR 32
+LEMBARAN DAERAH KABUPATEN MAMUJU TAHUN 2023 NOMOR 9 NOREG PERATURAN DAERAH KABUPATEN MAMUJU TAHUN 2023 NOMOR 32  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KEBUPATEN MAMUJU
 
-##### ATAS
-
-##### PERATURAN DAERAH KEBUPATEN MAMUJU
-
-##### NOMOR 9 TAHUN 2023
-
-##### TENTANG
-
-##### PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+NOMOR 9 TAHUN 2023 TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
 ##### I. PENJELASAN UMUM
 
@@ -652,59 +694,60 @@ Dalam Pasal ini memuat pengertian atau memuat tentang definisi definisi umum yan
 
 #### Pasal 2
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 3
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 4
 
-Ayat (1) Cukup Jelas
+Ayat (1)  
+Cukup Jelas.  
 
 #### Pasal 5
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 6
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 7
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 8
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 9
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 10
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 11
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 12
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 13
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
@@ -756,7 +799,7 @@ Cukup jelas.
 
 #### Pasal 28
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 29
 
@@ -784,46 +827,46 @@ Cukup jelas.
 
 #### Pasal 35
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 36
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 37
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 38
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 39
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 40
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 41
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 42
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 43
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 44
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 45
 
-Cukup Jelas
+Cukup Jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN MAMUJU NOMOR 7
+TAMBAHAN LEMBARAN DAERAH KABUPATEN MAMUJU NOMOR 7  
