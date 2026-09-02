@@ -1,14 +1,20 @@
-# BUPATI MUSI RAWAS
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# PROVINSI SUMATERA SELATAN
+BUPATI MUSI RAWAS  
 
-PERATURAN DAERAH KABUPATEN MUSI RAWAS NOMOR 4 TAHUN 2Ar8
+PROVINSI SUMATERA SELATAN  
 
-# TENTANG
+# PERATURAN DAERAH KABUPATEN MUSI RAWAS 
 
-PEI{YELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+NOMOR 4 TAHUN 2018. 
 
-# DENGAN RAHMAT TUHAN.YANG MAHA ESA BUPATI MUSI RAWAS,
+TENTANG. 
+
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI MUSI RAWAS,  
 
 Menimbang:  
  
@@ -18,78 +24,44 @@ Menimbang:
  
  
  
-Mengingat bahwa perempuan dan anak termasuk kelompok
-a. rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
+a. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
+b. bahwa kekerasan terhadap perempu€rn dan anak terus meningkat, sehingga perlu upaya perlindungan;  
+c. bahwa segala bentuk kekerasan terhadap perempuanc. dan anak merupakan pelanggaran hukum dan hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan litrah dan kodratnya tanpa diskriminasi;  
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam hurrf a, huruf b, dan hunrf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
-bahwa kekerasan terhadap perempu€rn dan anak
-b. terus meningkat, sehingga perlu upaya perlindungan; bahwa segala bentuk kekerasan terhadap perempuanc. dan anak merupakan pelanggaran hukum dan hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan litrah dan kodratnya tanpa diskriminasi;  
+Mengingat:  
 
-bahwa berdasarkan pertimbangan sebagaimana
-d. dimaksud dalam hurrf a, huruf b, dan hunrf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
-
-#### Pasal 18 ayat (6) Undang-Undang Dasar Negara 1.  
-
-Republik Indonesia Tahun 1945;  
-
-Undang-Undang Nomor 28 Tahun 1959 tentang
-
-2. Pembentrrkan Daerah Tingkat II dan Kotaprqia di Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor l82ll;  
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 28 Tahun 1959 tentang Pembentrrkan Daerah Tingkat II dan Kotaprqia di Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor l82ll;  
 3. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Deskriminasi Terhadap Wanita (l,embaran Negara Republik Indonesia Tahun L984 Nomor 29, Tambatran Iembaran Negara Republik Indonesia Nomor 32771;  
-
-Undang-Undang Nomor 39 Tahun 1999 tentang Hak
-
-4. Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambatran Lembaran Negara Republik Indonesia Nomor 3886);  
-
-Undang-Undang Nomor 23 Tahun 2OO2 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor 1O9, Tambatran Irmbaran Negara Republik Indonesia Nomor 42351, sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2OL4 tentang pembahan atas Undang-Undang Nomor 23 Tahun 2OO2 tentang Perlindungan Anak. Tambahan Lembaran Negara Republik Indonesia Nomor 5606;  
-
-Undang-Undang Nomor 23 Tahun 2OO4 tentang
-
-6. Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 95, Tambahan kmbaran Negara Republik Indonesia Nomor aaL9l;  
-
-Undang-Undang Nomor 2L Tahun 2OOT tentang
-
-7. Pemberantasan Tindak Pidana Perdagangan Orang (kmbaran Negara Republik Indonesia Tahun 2OO8 Nomor 181, Tambahan lembaran Negara Republik Indonesia Nomor a9281;  
-
-Undang-Undang Nomor 44 Tahun 2OO8 tentang
-
-8. Pornograli (kmbaran Negara Republik Indonesia Tahun 2OOZ Nomor 58, Tambahan lembaran Negara Republik Indonesia Nomor a72Ol;  
-
-/
-
+4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambatran Lembaran Negara Republik Indonesia Nomor 3886);
+5. Undang-Undang Nomor 23 Tahun 2OO2 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2OO2 Nomor 1O9, Tambatran Irmbaran Negara Republik Indonesia Nomor 42351, sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2OL4 tentang pembahan atas Undang-Undang Nomor 23 Tahun 2OO2 tentang Perlindungan Anak. Tambahan Lembaran Negara Republik Indonesia Nomor 5606;  
+6. Undang-Undang Nomor 23 Tahun 2OO4 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2OO4 Nomor 95, Tambahan kmbaran Negara Republik Indonesia Nomor aaL9l;  
+7. Undang-Undang Nomor 2L Tahun 2OOT tentang Pemberantasan Tindak Pidana Perdagangan Orang (kmbaran Negara Republik Indonesia Tahun 2OO8 Nomor 181, Tambahan lembaran Negara Republik Indonesia Nomor a9281;  
+8. Undang-Undang Nomor 44 Tahun 2OO8 tentang Pornograli (kmbaran Negara Republik Indonesia Tahun 2OOZ Nomor 58, Tambahan lembaran Negara Republik Indonesia Nomor a72Ol;  
 9. Undang-Undang Nomor 11 Tahun 2Ot2 tentang Sistem Peradilan Anak (kmbaran Negara Republik Indonesia Tahun 2Ol2 Nomor 153, Tambahan kmbaran Negara Republik Indonesia Nomor 5332);  
+10. Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244,Tarrbahan kmbaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubatran Kedua Atas Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Irmbaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Republik Indonesia Nomor 56791;
+11. Undang-Undang Nomor 8 Tahun 2OL6 tentang Penyandang Disabilitas (kmbaran Negara Republik Indonesia Tahun 2016 Nomor 69, Tambahan [.embaran Negara Republik Indonesia Nomor 5871);  
+12. Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan Peratrrran Pemerintah Pengganti Undang Undang Nomor I Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2OO2 tentang Perlindungan Anak menjadi Undang-Undang; Peraturan Pemerintah Nomor 4 tahun 2006 tentang Penyelenggaxaan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Iembaran Negara Republik Indonesia Tahun 2006 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor a6O5);  
+13. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Republik Indonesia Nomor 2 Tahun 2OO8 tentang Pelaksanaan Perlindungan Perempuan;  
+14. Peratrrran Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Republik Indonesia Nomor O5 Tahun 2O1O tentang Panduan Pembenhrkan dart Pengembangan R.rsat Pel,ayanan Terpadu;  
+15. Peraturan Menteri Dalam Negeri Nomor 67 Tahun 2OLt tentang Pedoman Umum Pelaksanaan Penganrsutamaan Gender dalam Pembangunan Daerah;  
+16. Perattrran Menteri Negara Pemberdayaan Perempuan darr Perlindungan Anak Nomor 1 tahun 2OLS tentang Standar Operasional Prosedur Bidang Layanan Terpadu Bagr Perempuan Dan Anak Korban Kekerasan;  
+17. Peraturan Mahkamah Agung Republik Indonesia Nomor 3 Tahun 2017 tentang Pedoman Mengadili Perkara Perempuan Berhadapan dengan Hukum.  
 
-Undang-Undang Nomor 23 Tahun 2Ol4 tentang
+Dengan Persehrjuan Bersama  
 
-10. Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2Ol4 Nomor 244,Tarrbahan kmbaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubatran Kedua Atas Undang-Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daerah (Irmbaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Republik Indonesia Nomor 56791;  
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUSI RAWAS  
 
-Undang-Undang Nomor 8 Tahun 2OL6 tentang
+dan  
 
-11. Penyandang Disabilitas (kmbaran Negara Republik Indonesia Tahun 2016 Nomor 69, Tambahan [.embaran Negara Republik Indonesia Nomor 5871); Undang-Undang Nomor 17 Tahun 2016 tentang
-12. Penetapan Peratrrran Pemerintah Pengganti Undang Undang Nomor I Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2OO2 tentang Perlindungan Anak menjadi Undang-Undang; Peraturan Pemerintah Nomor 4 tahun 2006 tentang
-13. Penyelenggaxaan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Iembaran Negara Republik Indonesia Tahun 2006 Nomor 5, Tambahan Lembaran Negara Republik Indonesia Nomor a6O5);  
+BUPATI MUSI RAWAS  
 
-Peraturan Menteri Negara Pemberdayaan Perempuan 14.  
+MEMUTUSKAN:  
 
-dan Perlindungan Anak Republik Indonesia Nomor 2 Tahun 2OO8 tentang Pelaksanaan Perlindungan Perempuan;  
+Menetapkan:  
 
-15. 16. L7.  
-18. Peratrrran Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Republik Indonesia Nomor O5 Tahun 2O1O tentang Panduan Pembenhrkan dart Pengembangan R.rsat Pel,ayanan Terpadu;  
-
-Peraturan Menteri Dalam Negeri Nomor 67 Tahun 2OLt tentang Pedoman Umum Pelaksanaan Penganrsutamaan Gender dalam Pembangunan Daerah;  
-
-Perattrran Menteri Negara Pemberdayaan Perempuan darr Perlindungan Anak Nomor 1 tahun 2OLS tentang Standar Operasional Prosedur Bidang Layanan Terpadu Bagr Perempuan Dan Anak Korban Kekerasan;  
-
-Peraturan Mahkamah Agung Republik Indonesia Nomor 3 Tahun 2017 tentang Pedoman Mengadili Perkara Perempuan Berhadapan dengan Hukum.  
-
-Dengan Persehrjuan Bersama DEWAN PERWAKII,AN RAIflAT DAERAH KABUPATEN MUSI RAWAS dan
-
-##### BI,JPATI MUSI RAWAS
-
-##### MEMUTUSI(AN:
-
-Menetapkan: PERATURAN DAERAH TENTANG PET'TYELENGGAIRAAII PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN
-
-##### KEKERASAI.I
+PERATURAN DAERAH TENTANG PENYELENGGAIRAAII PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
 # BAB I
 
