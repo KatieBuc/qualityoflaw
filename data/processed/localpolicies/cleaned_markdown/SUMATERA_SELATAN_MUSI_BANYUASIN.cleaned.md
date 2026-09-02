@@ -1,50 +1,56 @@
-Menimbang Mengingat
+# PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# BUPATI MUSI BANYUASIN
+BUPATI MUSI BANYUASIN  
 
-# PROVINSI SUMATERA SELATAN
+PROVINSI SUMATERA SELATAN  
 
-# PERATURANDAERAHKABUPATENMUSIBANYUASIN NOMOR II TAHUN2018
+# PERATURAN DAERAH KABUPATEN MUSI BANYUASIN 
 
-# TENTANG
+NOMOR 11 TAHUN 2018  
 
-# PERLINDUNGANPEREMPUANDANANAK
+TENTANG  
 
-# DENGANRAHMATTUHANYANGMAHAESA
+PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# BUPATIMUSIBANYUASIN,  
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI MUSIBANYUASIN,  
+
+Menimbang:  
+
 a. bahwa pemerintah memiliki kewajiban memberi penghormatan, perlindungan dan pemenuhan Hak Asasi Manusia setiap warga negara termasuk Hak Perempuan dan Anak;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang cenderung mengalami kekerasan dan diskriminasi sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa pemenuhan hak-hak konstitusional Perempuan dan Anak serta peningkatan kualitas hidup Perempuan dan Anak, merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
+
+Mengingat:  
+
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Pembentukan Daerah Tingkat II dan Kotapraja di Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
-
-Menetapkan: I
-
 3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235), sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
 4. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerlntahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah beberapa kali diubah, terakhir dengan Undang Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerlntahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWANPERWAKILANRAKYATDAERAH
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUSI BANYUASIN  
 
-# KABUPATENMUSI BANYUASIN
+dan  
 
-# BUPATIMUSI BANYUASIN
+BUPATI MUSI BANYUASIN  
 
-# MEMUTUSKAN:
+MEMUTUSKAN:  
 
-# PERATURAN DAERAH TENTANG PERLINDUNGAN HAK PEREMPUANDANANAK.  
+Menetapkan:  
 
-# BABI
+PERATURAN DAERAH TENTANG PERLINDUNGAN HAK PEREMPUAN DAN ANAK.  
+
+# BAB I
 
 # KETENTUANUMUM
 
 ## Bagian Kesatu
 
-Definisi, Pengertian dan Peristilahan Pasal1 Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Definisi, Pengertian dan Peristilahan Pasal1 Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Kabupaten adalah Kabupaten Musi Banyuasin.  
 2. Pemerintah Kabupaten adalah Pemerintah Kabupaten Musi Banyuasin. 3. Bupati adalah Bupati Musi Banyuasin.  
 4. Perangkat Daerah yang selanjutnya disingkat PD adalah Perangkat Daerah di lingkungan Pemerintah Kabupaten Musi Banyuasin.  
@@ -79,7 +85,11 @@ Definisi, Pengertian dan Peristilahan Pasal1 Dalam Peraturan Daerah ini yang dim
 
 ## Bagian Kedua
 
-Definisi, Pengertian dan Peristilahan Pasal2 (1) Penyelenggaraan Perlindungan Perempuan berdasarkan asas:  
+Definisi, Pengertian dan Peristilahan 
+
+#### Pasal 2 
+
+1. Penyelenggaraan Perlindungan Perempuan berdasarkan asas:  
 a. kepentingan terbaik bagi Perempuan;  
 b. keadilan gender dan kesetaraan gender;  
 c. kearifan lokal; dan  
@@ -91,7 +101,9 @@ c. hak untuk hidup, kelangsungan hidup, dan perkembangan;
 d. penghargaan terhadap pendapat Anak; dan  
 e. kepastian hukum.  
 
-Pasal3 Pengaturan Perlindungan Perempuan dan Anak bertujuan:  
+#### Pasal 3 
+
+Pengaturan Perlindungan Perempuan dan Anak bertujuan:  
 a. sebagai pedoman bagi Pemerintah Kabupaten dalam perencanaan, kebijakan dan strategi Perlindungan Perempuan dan Anak;  
 b. melindungi Perempuan dan Anak dari tindakan, keputusan dan kebijakan yang melanggar hak Perempuan dan Anak;  
 c. mencegah teIjadinya pelanggaran Hak Perempuan dan Anak;  
@@ -99,16 +111,18 @@ d. meningkatkan pemberdayaan terhadap Perempuan dan Anak;
 e. meningkatkan peran dan nilai kearifan lokal dalam Perlindungan Perempuan dan Anak; dan  
 f. meningkatkan peran Perangkat Daerah dan non Pemerintah di Kabupaten dalam upaya Perlindungan Perempuan dan Anak.  
 
-Pasal4 Ruang lingkup pengaturan Perlindungan Perempuan dan Anak meliputi:  
+#### Pasal 4 
+
+Ruang lingkup pengaturan Perlindungan Perempuan dan Anak meliputi:  
 a. pencegahan;  
 b. penyelenggaraan Perlindungan Hak Perempuan dan Anak;  
 c. penanganan;  
 d. pemberdayaan; dan  
 e. pembinaan dan pengawasan.  
 
-### BABII
+# BAB II
 
-### HAKPEREMPUANDANHAKANAK
+### HAK PEREMPUAN DAN HAK ANAK
 
 ## Bagian Kesatu
 
@@ -124,7 +138,11 @@ h. pemilikan dan pengelolaan harta bersama dalam perkawinan sesuai dengan ketent
 
 ## Bagian Kedua
 
-HakAnak Pasal6 (1)Setiap Anak berhak:  
+Hak Anak 
+
+#### Pasal 6 
+
+1. Setiap Anak berhak:  
 a. untuk dapat hidup, tumbuh, berkembang, dan berpartisipasi secara wajar sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi;  
 b. mendapatkan nama sebagai identitas diri dan status kewarganegaraan;  
 c. beribadah menurut agamanya, berpikir, dan berekspresi sesuai dengan tingkat kecerdasan dan usianya dalam bimbingan Orang Tua atau Wali;  
@@ -134,33 +152,25 @@ f. memperoleh kebebasan sesuai dengan hukum dan penangkapan, penahanan, atau tin
 g. diasuh oleh Orang Tuanya sendiri, kecuali jika ada alasan dan/atau aturan hukum yang sah menunjukkan bahwa pemisahan itu adalah demi kepentingan terbaik bagi Anak dan merupakan pertimbangan terakhir;  
 h. memperoleh perlindungan dari penyalahgunaan dalam kegiatan politik , pelibatan dalam sengketa bersenjata, pelibatan dalam kerusuhan sosial, pelibatan dalam peristiwa yang mengandung unsur Kekerasan, pelibatan dalam peperangan dan, kejahatan seksual;  
 i. berpartisipasi, menyatakan pendapat dan berpikir sesuai dengan hati nurani dan agamanya;  
-
-J. menerima informasi lisan atau tertulis sesuai dengan tahapan usia dan perkembangan Anak;  
+j. menerima informasi lisan atau tertulis sesuai dengan tahapan usia dan perkembangan Anak;  
 k. untuk berserikat dan berkumpul; dan
-1. beristirahat, bermain, berekreasi, berkreasi, dan berkarya seni budaya, memperoleh sarana bermain yang memenuhi syarat kesehatan dan keselamatan dan disesuaikan dengan usia Anak, tingkat kemampuan Anak, dan lingkungannya agar tidak menghambat dan mengganggu. (2)Setiap anak yang dirampas kebebasannya berhak:
-
+1. beristirahat, bermain, berekreasi, berkreasi, dan berkarya seni budaya, memperoleh sarana bermain yang memenuhi syarat kesehatan dan keselamatan dan disesuaikan dengan usia Anak, tingkat kemampuan Anak, dan lingkungannya agar tidak menghambat dan mengganggu.  
+2. Setiap anak yang dirampas kebebasannya berhak:  
 a.mendapatkan perlakuan secara manusiawi;  
-
 b.penempatannya dipisahkan dari orang dewasa;  
-
 c.memperoleh bantuan hukum atau bantuan lainnya secara efektif dalam setiap tahapan upaya hukum yang berlaku; dan
-
-d.membela diri dan memperoleh keadilan di depan pengadilan Anak yang objektif dan tidak memihak dalam sidang tertutup untuk umum. (3)Setiap anak yang menjadi korban atau pelaku kekerasan seksual atau yang berhadapan dengan hukum berhak dirahasiakan.  
-
-4. Setiap Anak Penyandang Disabilitas selain mendapatkan hak sebagaimana dimaksud pada ayat (1)juga berhak memperoleh:
-
+d.membela diri dan memperoleh keadilan di depan pengadilan Anak yang objektif dan tidak memihak dalam sidang tertutup untuk umum.  
+3. Setiap anak yang menjadi korban atau pelaku kekerasan seksual atau yang berhadapan dengan hukum berhak dirahasiakan.  
+4. Setiap Anak Penyandang Disabilitas selain mendapatkan hak sebagaimana dimaksud pada ayat (1)juga berhak memperoleh:  
 a.pendidikan luar biasa/pendidikan khusus;  
-
 b.rehabilitasi;  
-c. bantuan social; dan
-
+c. bantuan social; dan  
 d.pemeliharaan taraf kesejahteraan social.  
-
 5. Setiap Anak yang memiliki keunggulan berhak mendapatkan pendidikan khusus.  
 
-BAB1lI
+# BAB III
 
-### KEWAJIBANDANTANGGUNGJAWAB
+### KEWAJIBAN DAN TANGGUNG JAWAB
 
 ## Bagian Kesatu
 
@@ -168,7 +178,8 @@ Pemerintah Kabupaten
 
 #### Pasal 7
 
-1. Pemerintah Kabupaten dalam upaya perlindungan terhadap Perempuan wajib dan bertanggung jawab:a. menjamin Hak Perempuan tanpa diskriminasi sesuai dengan ketentuan Peraturan Perundang-undangan;  
+1. Pemerintah Kabupaten dalam upaya perlindungan terhadap Perempuan wajib dan bertanggung jawab:  
+a. menjamin Hak Perempuan tanpa diskriminasi sesuai dengan ketentuan Peraturan Perundang-undangan;  
 b. menetapkan dan melaksanakan kebijakan program dan kegiatan perlindungan terhadap Perempuan;  
 c. melakukan keIjasama dengan masyarakat dan/atau Organisasi Kemasyarakatan dalam penyelenggaraan Perlindungan Perempuan sesuai dengan ketentuan Peraturan Perundang-undangan;  
 d. melakukan rehabilitasi dan pemberdayaan terhadap Perempuan yang menjadi korban tindak kekerasan;  
@@ -176,7 +187,9 @@ e. memberlkan perlindungan khusus kepada Perempuan korban tindak kekerasan dan p
 f. melakukan tindakan preventif dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan.  
 2. Tanggung jawab Pemerintah Kabupaten dalam upaya perlindungan Hak Perempuan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh DPPPA.  
 
-Pasal8 (1) Pemerlntah Kabupaten dalam upaya perlindungan terhadap Anak wajib dan bertanggung jawab:  
+#### Pasal 8 
+
+1. Pemerlntah Kabupaten dalam upaya perlindungan terhadap Anak wajib dan bertanggung jawab:  
 a. menghormati pemenuhan hak Anak tanpa membedakan suku, agama, ras, golongan, jenis kelamin, etnik, budaya dan bahasa, status hukum, urutan kelahiran, dan kondisi fisik dan/atau mental;  
 b. memberlkan dukungan sarana, prasarana, dan ketersediaan sumber daya manusia dalam penyelenggaraan Perlindungan Anak;  
 c. menjamin perlindungan, pemeliharaan, dan kesejahteraan Anak dengan memperhatikan hak dan kewajiban Orang Tua, WaH, atau orang lain yang secara hukum bertanggungjawab terhadap Anak;  
@@ -184,25 +197,31 @@ d. menjamin Anak untuk menyampaikan haknya menyampaikan pendapat sesuai dengan u
 e. menetapkan dan melaksanakan kebijakan serta program/kegiatan perlindungan terhadap hak Anak;  
 f. melakukan keIjasama dengan masyarakat dan/ atau Organisasi Kemasyarakatan dalam penyelenggaraan perlindungan Anak sesuai dengan ketentuan Peraturan Perundang-undangan;  
 g. melakukan rehabilitasi terhadap Anak yang menjadi korban tindak kekerasan;  
-h. memberlkan perlindungan khusus kepada Anak:
-1. dalam situasi darurat korban bencana dan konflik;  
-2. yang berhadapan dengan hukum;  
-3. korban tindak kekerasan, penelantaran dan perdagangan orang; 4. dari kelompok minoritas dan terisolasi;  
-5. yang tereksploitasi secara ekonomi dan/ atau seksual/korban pomografi;  
-6. yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika; dan
-7. teridentifikasi dengan HIV/ AIDS;  
+h. memberlkan perlindungan khusus kepada Anak:  
+1\. dalam situasi darurat korban bencana dan konflik;  
+2\. yang berhadapan dengan hukum;  
+3\. korban tindak kekerasan, penelantaran dan perdagangan orang;  
+4\. dari kelompok minoritas dan terisolasi;  
+5\. yang tereksploitasi secara ekonomi dan/ atau seksual/korban pomografi;  
+6\. yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika; dan
+7\. teridentifikasi dengan HIV/ AIDS;  
 i. menyelenggarakan pendidikan inklusif bagi Anak yang berkebutuhan khusus;  
 j. melakukan tindakan preventif dalam rangka mencegah teIjadinya pelanggaran terhadap Anak; dan  
 k. melaksanakan dan mendukung kebijakan Nasional dalam penyelenggaraan Perlindungan Anak di Kabupaten yang dilakukan melalui upaya mewujudkan Kabupaten Layak Anak, Kecamatan Layak Anak dan Desa Layak Anak;  
 2. Tan~ng jawab Pemerintah Kabupaten dalam upaya perlindungan Anak sebagaimana dimaksud pada ayat (1)dilaksanakan oleh DPPPA.  
 
-Pasal9 (1) Pemerintah Kabupaten dalam rangka melaksanakan tanggung jawabnya, , menetapkan program dan kegiatan perlindungan Perempuan dan Anak •, dengan Rencana Aksi Daerah sebagai dasar bagi Perangkat Daerah dalam I, melaksanakan perlindungan Perempuan dan Anak.  
+#### Pasal 9 
 
+1. Pemerintah Kabupaten dalam rangka melaksanakan tanggung jawabnya, , menetapkan program dan kegiatan perlindungan Perempuan dan Anak •, dengan Rencana Aksi Daerah sebagai dasar bagi Perangkat Daerah dalam I, melaksanakan perlindungan Perempuan dan Anak.  
 2. Ketentuan lebih Ianjut mengenai Rencana Aksi Daerah sebagaimana dimaksud pada ayat (1) diatur dengan Pemturan Bupati.  
 
 ## Bagian Kedua
 
-Masyarakat PasallO (1) Masyarakat wajib dan bertanggung jawab dalam menyelenggarakan I perlindungan Perempuan dan Anak meliputi:  
+Masyarakat 
+
+#### Pasal lO 
+
+1. Masyarakat wajib dan bertanggung jawab dalam menyelenggarakan I perlindungan Perempuan dan Anak meliputi:  
 a. partisipasi dalam pencegahan dan memberikan dukungan terhadap pengembangan program pencegahan teIjadinya pelanggaran terhadap hak Perempuan dan Anak;  
 b. memberikan informasi dan/ atau melaporkan teIjadinya pelanggaran hak Perempuan dan Anak kepada pihak yang berwenang; dan  
 c. mengawasi proses penegakan hukum terhadap kasus pelanggaran hak Perempuan dan Anak.  
@@ -214,15 +233,26 @@ Orang Tua dan/ atau Keluarga
 
 ### Paragraf 1
 
-Tanggung Jawab Terhadap Perlindungan Hak Perempuan Pasalil Tanggungjawab keluarga dalam upaya perlindungan perempuan meliputi:  
-a. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan;  
-b. memberikan kesempatan yang sarna pada perempuan untuk mengembangkan diri di bidang:
-1. pendidikan;  
-2.:social;  
-3. ekonomi; dan
-4. politik dan budaya.  c. mencegah terjadinya pelanggaran terhadap hak perempuan dalam rumah tangga.  
+Tanggung Jawab Terhadap Perlindungan Hak Perempuan 
 
-Paragraf2 Tanggung Jawab Terhadap Periindungan Hak Anak PasalI2 (1) Orang tua dalam upaya perlindungan terhadap Anak bertanggungjawab:  
+#### Pasal 11 
+
+Tanggungjawab keluarga dalam upaya perlindungan perempuan meliputi:  
+a. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan;  
+b. memberikan kesempatan yang sarna pada perempuan untuk mengembangkan diri di bidang:  
+1\. pendidikan;  
+2\.social;  
+3\. ekonomi; dan
+4\. politik dan budaya.  
+c. mencegah terjadinya pelanggaran terhadap hak perempuan dalam rumah tangga.  
+
+## Paragraf 2 
+
+Tanggung Jawab Terhadap Periindungan Hak Anak 
+
+#### Pasal 12 
+
+1. Orang tua dalam upaya perlindungan terhadap Anak bertanggungjawab:  
 a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
 b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. memberikan pendidikan formal dan non formal;  
@@ -230,13 +260,17 @@ d. membimbing Anak berperilaku sesuai dengan agama, etika dan moral serta adat i
 e. mencegah teIjadinya perkawinan pada usia Anak.  
 2. Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat beralih pada keluarga.  
 
-#### BABIV
+# BAB IV
 
 #### PENCEGAHAN
 
 ## Bagian Kesatu
 
-Pemerintah Kabupaten Pasal13 (1) Upaya yang dilakukan Pemerintah Kabupaten dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan meliputi:  
+Pemerintah Kabupaten 
+
+#### Pasal 13 
+
+1. Upaya yang dilakukan Pemerintah Kabupaten dalam rangka mencegah terjadinya pelanggaran terhadap hak Perempuan meliputi:  
 a. penyelenggaraan sosialisasi mengenai pencegahan kekerasan terhadap Perempuan dengan mengoptimalkan peran lembaga adat, budaya, agama dan organisasi kemasyarakatan;  
 b. penyediaan pedoman tentang penanganan tindak kekerasan terhadap Perempuan;  
 c. melibatkan peran serta masyarakat dalam pemulihan dan reintegrasi;  
@@ -244,7 +278,8 @@ d. pengembangan database dan sistem informasi yang terintegrasi tentang tindak k
 e. pengembangan program pemberdayaan keluarga;  
 f. penguatan fungsi organisasi kemasyarakatan yang bergerak di bidang pemberdayaan Perempuan; dan  
 g. penyediaan fasilitas umum yang nyaman dan aman untuk Perempuan.  
-2. Upaya yang dilakukan Pemerintah Kabupaten dalam rangka mencegah teIjadinya pelanggaran hak Anak meliputi:a. pencegahan tindak kekerasan terhadap Anak dengan mengoptimalkan peran lembaga adat, budaya, agama dan organisasi kemasyarakatan;  
+2. Upaya yang dilakukan Pemerintah Kabupaten dalam rangka mencegah teIjadinya pelanggaran hak Anak meliputi:  
+a. pencegahan tindak kekerasan terhadap Anak dengan mengoptimalkan peran lembaga adat, budaya, agama dan organisasi kemasyarakatan;  
 b. pengembangan sekolah ramah Anak;  
 c. mendorong peningkatan partisipasi anak melalui pembentukan Forum Anak;  
 d. penyediaan pedoman tentang penanganan tindak kekerasan terhadap Anak;  
@@ -255,26 +290,37 @@ h. mendorong pembentukan Kabupaten Layak Anak.
 
 ## Bagian Kedua
 
-Masyarakat Pasal14 (1) Upaya yang dilakukan masyarakat dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan meliputi:  
+Masyarakat 
+
+#### Pasal 14 
+
+1. Upaya yang dilakukan masyarakat dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan meliputi:  
 a. pengawasan berbagai kondisi yang teIjadi di lingkungannya yang dapat menimbulkan pelanggaran terhadap hak Perempuan;  
 b. penguatan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; dan  
-c. pencegahan pernikahan di bawah tanganjpernikahan sirl. (2) Upaya yang dilakukan dalam rangka mencegah teIjadinya pelanggaran terhadap hak Anak meliputi:a. pengawasan berbagai kondisi yang teIjadi di lingkungannya yang menimbulkan pelanggaran terhadap hak Anak;  
+c. pencegahan pernikahan di bawah tangan pernikahan siri.  
+2. Upaya yang dilakukan dalam rangka mencegah teIjadinya pelanggaran terhadap hak Anak meliputi:  
+a. pengawasan berbagai kondisi yang teIjadi di lingkungannya yang menimbulkan pelanggaran terhadap hak Anak;  
 b. penguatan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; dan  
 c. pencegahan teIjadinya perkawinan pada usia Anak.  
 
 ## Bagian Ketiga
 
-Orang Tua danjatau Keluarga Pasal15 (1) Upaya yang dilakukan pihak keluarga dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan meliputi:  
+Orang Tua danjatau Keluarga 
+
+#### Pasal 15 
+
+1. Upaya yang dilakukan pihak keluarga dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan meliputi:  
 a. perlindungan perempuan dari berbagai pelanggaran hak dalam rumah tangga; dan  
 b. mendorong terbentuknya keluarga yang harmonis, edukatif dan demokratis;  
-2. Upaya yang dilakukan pihak orang tua dalam rangka mencegah teIjadinya pelanggaran terhadap hak Anak meliputi:a. pemberian tauladan yang baik kepada anak sesuai ajaran agama dan adat;  
+2. Upaya yang dilakukan pihak orang tua dalam rangka mencegah teIjadinya pelanggaran terhadap hak Anak meliputi:  
+a. pemberian tauladan yang baik kepada anak sesuai ajaran agama dan adat;  
 b. pengawasan anak dalam beraktivitas di dalam ataupun di luar rumah;  
 c. pemberian peluang bagi anak berdialog menyampaikan pendapat Isecara demokratis; dan  
 d. perlindungan anak dari berbagai tindak pelanggaran hak Anak dalam rumah tangga.  
 
-### BABV
+# BAB V
 
-### PENYELENGGARAANPERLINDUNGANPEREMPUANDANANAK
+### PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
 
 ## Bagian Kesatu
 
@@ -282,40 +328,70 @@ Penyelenggaraan Perlindungan Perempuan
 
 ### Paragraf 1
 
-Umum Pasal16 Pemerintah Kabupaten menyelenggarakan Perlindungan Perempuan dengan melibatkan:  
+Umum 
+
+#### Pasal 16 
+
+Pemerintah Kabupaten menyelenggarakan Perlindungan Perempuan dengan melibatkan:  
 a. keluarga;  
 b. tokoh masyarakat;  
 c. pernuka agama;  
 d. masyarakat;  
 e. organisasi kemasyarakatan di bidang periindungan Perempuan.  
 
-Paragraf2 Perkawinan Pasall7 Selama dalam ikatan perkawinan atau setelah perceraian, seorang Perempuan memiliki hak yang sama dengan laki-Iaki yang menjadi suami/mantan , suaminya atas semua hal yang berhubungan dengan akibat perkawinan dan/atau perceraian.  
+## Paragraf 2 
 
-Paragraf3 Kesehatan Pasal18 (1)Pemerintah Kabupaten menyediakan fasilitas kesehatan dan persalinan yang memadai bagi ibu hamil dan menyusui.  
+Perkawinan 
 
+#### Pasal l7 
+
+Selama dalam ikatan perkawinan atau setelah perceraian, seorang Perempuan memiliki hak yang sama dengan laki-Iaki yang menjadi suami/mantan , suaminya atas semua hal yang berhubungan dengan akibat perkawinan dan/atau perceraian.  
+
+## Paragraf 3 
+
+Kesehatan 
+
+#### Pasal 18 
+
+1. Pemerintah Kabupaten menyediakan fasilitas kesehatan dan persalinan yang memadai bagi ibu hamil dan menyusui.  
 2. Penyelenggara pelayanan publik wajib menyediakan fasilitas khusus bagi ibu menyusui.  
 
-Paragraf4 Ketenagakerjaan Pasal19 (1) Pengusaha yang mempekerjakan Perempuan wajib menjaga kesusilaan, keselamatan dan keamanan selama di tempat kerja.  
+## Paragraf 4 
 
+Ketenagakerjaan 
+
+#### Pasal 19 
+
+1. Pengusaha yang mempekerjakan Perempuan wajib menjaga kesusilaan, keselamatan dan keamanan selama di tempat kerja.  
 2. Pengusaha wajib menempatkan pekerja Perempuan di tempat yang aman I bagi kesehatan reproduksi Perempuan.  
 3. Pengusaha wajib memenuhi hak pekerja Perempuan untuk mendapatkan upah sesuai dengan ketentuanperaturan perundang-undangan.  
 4. Pengusaha menyediakan fasilitas khusus bagi ibu menyusui di perusahaannya.  
 
-Pasal20 (1) Pekerja/buruh Perempuan yang berumur paling tinggi 18 (delapan belas) tahun dilarang dipekerjakan antara pukul 23.00 WIBsampai dengan 07.00 WIB.  
+#### Pasal 20 
 
+1. Pekerja/buruh Perempuan yang berumur paling tinggi 18 (delapan belas) tahun dilarang dipekerjakan antara pukul 23.00 WIBsampai dengan 07.00 WIB.  
 2. Pengusaha dilarang mempekerjakan pekerja/buruh Perempuan hamil yang menurut keterangan dokter berbahaya bagi kesehatan dan keselamatan kandungannya maupun dirinya pada jam kerja pukul 23.00 WIB sampai I . dengan 07.00 WIB.  
-3. Pengusaha yang mempekerjakan pekerja/buruh Perempuan antara pukul 23.00 WIBsampai dengan 07.00 WIB,wajib:a. memberikan makanan dan minuman bergizi; dan  
-b. menjaga kesusilaan dan keamanan selama di tempat kerja. (4) Pengusaha wajib menyediakan angkutan antar jemput bagi pekerja/buruh Perempuan yang berangkat dan pulang bekerja antara pukul 23.00 WIB sampai dengan 05.00 WIB.  
+3. Pengusaha yang mempekerjakan pekerja/buruh Perempuan antara pukul 23.00 WIBsampai dengan 07.00 WIB,wajib:  
+a. memberikan makanan dan minuman bergizi; dan  
+b. menjaga kesusilaan dan keamanan selama di tempat kerja.  
+4. Pengusaha wajib menyediakan angkutan antar jemput bagi pekerja/buruh Perempuan yang berangkat dan pulang bekerja antara pukul 23.00 WIB sampai dengan 05.00 WIB.  
 
-ParagrafS Pendidikan
+## Paragraf 5 
+
+Pendidikan
 
 #### Pasal 21
 
 Perempuan dijamin hak untuk memperoleh pendidikan pada setiap jenjang pendidikan formal dan non formal.  
 
-Paragraf6 Sosial Pasal22 (1) Pemerintah Kabupaten menyelenggarakan pemberdayaan Perempuan yang mengalami rawan sosial ekonomi melalui kegiatan usaha ekonomi produktif.  
+## Paragraf 6 
 
-2. Organisasi Kemasyarakatan dapat melakukan pemberdayaan bagi Perempuan yang mengalami rawan sosial ekonomi sebagaimana dimaksud pada ayat (1)sesuai dengan ketentuan Peraturan Perundang-undangan. !
+Sosial 
+
+#### Pasal 22 
+
+1. Pemerintah Kabupaten menyelenggarakan pemberdayaan Perempuan yang mengalami rawan sosial ekonomi melalui kegiatan usaha ekonomi produktif.  
+2. Organisasi Kemasyarakatan dapat melakukan pemberdayaan bagi Perempuan yang mengalami rawan sosial ekonomi sebagaimana dimaksud pada ayat (1)sesuai dengan ketentuan Peraturan Perundang-undangan.  
 
 ## Bagian Kedua
 
@@ -323,7 +399,12 @@ Penyelenggaraan Perlindungan Hak Anak
 
 ### Paragraf 1
 
-Kesehatan Pasal23 (1) Upaya Pemerintah Kabupaten memberikan perlindungan Anak di bidang kesehatan meliputi: a .. pelayanan kesehatan bebas biaya bagi Anak dari keluarga miskin;  
+Kesehatan 
+
+#### Pasal 23
+
+1. Upaya Pemerintah Kabupaten memberikan perlindungan Anak di bidang kesehatan meliputi:  
+a. pelayanan kesehatan bebas biaya bagi Anak dari keluarga miskin;  
 b. !penyelenggaraan kesehatan yang optimal bagi Anak agar memperoleh derajat kesehatan yang baik sejak dalam kandungan;  
 c. penjaminan agar bayi menerima AS! eksklusif dari ibunya secara benar dan wajar;  
 d. menjamin Anak mendapat gizi yang cukup;  
@@ -331,36 +412,58 @@ e. menjamin Anak yang baru lahir dilakukan screening; dan
 f. menjamin penyediaan pemantauan pertumbuhan dan perkembangan ,balita dan anak usia pra sekolah.  
 2. Pemerintah Kabupaten, keluarga, dan orang tua melindungi anak dari upaya transplantasi organ tubuhnya untuk pihak lain.  
 
-Paragraf2 Pendidikan Pasal24 Anak yang berada di lingkungan Iembaga pendidikan formal dan non formal wajib dilindungi dari tindakan kekerasan.  
+## Paragraf 2 
 
-,I Pasa125 Setiap Anak berusia 7 (tujuh) sampai dengan 18 (delapan belas) tahun yang belum menyelesaikan pendidikan, melewati 3 (tiga) tahun melewati batas usia I pendidikan formal dapat menempuh pendidikan melalui satuan pendidikan non fonAal:  
+Pendidikan 
+
+#### Pasal 24 
+
+Anak yang berada di lingkungan Iembaga pendidikan formal dan non formal wajib dilindungi dari tindakan kekerasan.  
+
+#### Pasa1 25 
+
+Setiap Anak berusia 7 (tujuh) sampai dengan 18 (delapan belas) tahun yang belum menyelesaikan pendidikan, melewati 3 (tiga) tahun melewati batas usia I pendidikan formal dapat menempuh pendidikan melalui satuan pendidikan non fonAal:  
 a. Program kesetaraan paket A setara Sekolah Dasar dan Madrasah i Ibtidaiyah;  
 b. Program kesetaraan paket B setara Sekolah Menengah Pertama dan • Madtasah Tsanawiyah; dan  
 c. Program kesetaraan paket C setara Sekolah Menengah Atas, Madrasah Aliyah dan Sekolah Menengah Kejuruan.  
 
-PasaI26 (1) Anak yang berkebutuhan khusus dan/atau memiliki potensi kecerdasan dan/atau bakat istimewa diberikan kesempatan dan fasilitas yang sama untuk memperoleh pendidikan reguler maupun pendidikan inklusif.  
+#### Pasal 26 
 
+1. Anak yang berkebutuhan khusus dan/atau memiliki potensi kecerdasan dan/atau bakat istimewa diberikan kesempatan dan fasilitas yang sama untuk memperoleh pendidikan reguler maupun pendidikan inklusif.  
 2. Pendidikan inklusif sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Pemerintah Kabupaten dan masyarakat.  
 
-Pasa127 Setiap penyelenggara pendidikan formal dilarang mengeluarkan Anak tanpa adanyajaminan terhadap keberlangsungan pendidikan Anak.  
+#### Pasa1 27 
 
-Pasal28 (1) Pemerintah Kabupaten memberikan beasiswa dan/atau bantuan pendidikan bagi:  
+Setiap penyelenggara pendidikan formal dilarang mengeluarkan Anak tanpa adanyajaminan terhadap keberlangsungan pendidikan Anak.  
+
+#### Pasal 28 
+
+1. Pemerintah Kabupaten memberikan beasiswa dan/atau bantuan pendidikan bagi:  
 a. anak dari keluarga miskin;  
 b. anak terlantar; dan  
 c. anak yang bertempat tinggal di daerah terpencil.  
 2. Penyelenggaraan program beasiswa dan/atau bantuan pendidikan sebagaimana dimaksud pada ayat (1) didukung oleh peran serta masyarakat dan organisasi kemasyarakatan.  
 3. Ketentuan 1ebih lanjut mengenai pemberian beasiswa dan atau bantuan pendidikan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
-Pasal29 Anak yang berhadapan dengan hukum, Anak korban kekerasan dan pe1ecehan seksual dan Anak korban penularan HIV/ AIDS dilindungi haknya guna memperoleh pendidikan.  
+#### Pasal 29 
+
+Anak yang berhadapan dengan hukum, Anak korban kekerasan dan pe1ecehan seksual dan Anak korban penularan HIV/ AIDS dilindungi haknya guna memperoleh pendidikan.  
 
 #### Pasal 30
 
 Pemerintah Kabupaten dan masyarakat menye1enggarakan Pendidikan Anak Usia DiJi (PAUD).  
 
-Paragraf3 KetenagakeIjaan Pasal31 Pengusaha dilarang untuk mempekeIjakan Anak.  
+## Paragraf 3 
 
-Pasal32 (1) Ketentuan sebagaimana dimaksud dalam Pasal 31 dapat dikecualikan bagi Anak yang berumur antara 13 (tiga belas) tahun sampai dengan 15 (lima belas) tahun, untuk melakukan pekeIjaan ringan sepanjang tidak mengganggu perkembangan dan kesehatan fisik, mental, dan sosial.  
+KetenagakeIjaan 
 
+#### Pasal 31 
+
+Pengusaha dilarang untuk mempekerjakan Anak.  
+
+#### Pasal 32 
+
+1. Ketentuan sebagaimana dimaksud dalam Pasal 31 dapat dikecualikan bagi Anak yang berumur antara 13 (tiga belas) tahun sampai dengan 15 (lima belas) tahun, untuk melakukan pekeIjaan ringan sepanjang tidak mengganggu perkembangan dan kesehatan fisik, mental, dan sosial.  
 2. Pengusaha yang mempekeIjakan Anak pada pekeIjaan ringan sebagaimana dimaksud pada ayat (1) harns memenuhi persyaratan meliputi:  
 a. izin tertulis dari orang tua atau wali;  
 b. perjanjian kerja antara pengusaha dengan orang tua atau wall;  
@@ -371,56 +474,74 @@ f. adanya hubungan kerja yangjeIas; dan
 g. menerima upah sesuai dengan ketentuan peraturan perundang - undangan.  
 3. Ketentuan sebagaimana dimaksud pada ayat (2) huruf a, huruf b, huruf f, dan huruf g dikecualikan bagi Anak yang bekerja pada usaha keluarganya.  
 
-Pasal33 Dalam hal perusahaan mempekerjakan Anak sebagaimana dimaksud dalam Pasal 32, maka tempat kerja Anak harns dipisahkan dari tempat kerja pekerja dewasa.  
+#### Pasal 33 
 
-Pasal34 (1) Anak dapat melakukan pekerjaan di tempat kerja yang merupakan bagian dari kurikulum pendidikan atau pelatihan disahkan oleh pejabat yang berwenang.  
+Dalam hal perusahaan mempekerjakan Anak sebagaimana dimaksud dalam Pasal 32, maka tempat kerja Anak harns dipisahkan dari tempat kerja pekerja dewasa.  
 
+#### Pasal 34 
+
+1. Anak dapat melakukan pekerjaan di tempat kerja yang merupakan bagian dari kurikulum pendidikan atau pelatihan disahkan oleh pejabat yang berwenang.  
 2. Anak sebagaimana dimaksud pada ayat (1) paling rendah berumur 14 I (empat beIas) tahun.  
 
-I\ Pasal35 (1) Setiap orang dilarang mempekerjakan dan melibatkan Anak pada pekerjaan yang terburuk.  
+#### Pasal 35 
 
+1. Setiap orang dilarang mempekerjakan dan melibatkan Anak pada pekerjaan yang terburuk.  
 2. Pekerjaan yang terburuk sebagaimana dimaksud pada ayat (1)meliputi:  
 a. segaia pekerjaan dalam bentuk perbudakan atau sejenisnya;  
-b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan Anak untuk . 1. pelacuran;  
-2. produksi pomografi;  
-3. pomo aksi;  
-4. perjudian;  
-5. produksi dan perdagangan minuman keras;  
-6. narkotika;  
-7. psikotropika; dan
-8. zat adiktif Iainnya; danl atauc. semua pekeIjaan yang membahayakan kesehatan, keselamatan, atau moralAnak.  
+b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan Anak untuk:  
+1\. pelacuran;  
+2\. produksi pomografi;  
+3\. pomo aksi;  
+4\. perjudian;  
+5\. produksi dan perdagangan minuman keras;  
+6\. narkotika;  
+7\. psikotropika; dan
+8\. zat adiktif Iainnya; danl atauc. semua pekeIjaan yang membahayakan kesehatan, keselamatan, atau moralAnak.  
 
-Paragraf4 Sosial Pasal36 (1) Pemerlntah Kabupaten wajib menyelenggarakan pemeliharaan Anak terlantar.  
+## Paragraf 4 
 
+Sosial  
+
+#### Pasal 36 
+
+1. Pemerintah Kabupaten wajib menyelenggarakan pemeliharaan Anak terlantar.  
 2. Pemeliharaan sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh Organisasi Kemasyarakatan di bidang sosial.  
 3. Dalam hal Anak terlantar karena suatu sebab orang tuanya melalaikan kewajibannya, maka Keluarga atau Pemerlntah Kabupaten atau Organisasi Kemasyarakatan sebagaimana dimaksud pada ayat (2) dapat mengajukan permohonan ke pengadilan untuk menetapkan Anak sebagai Anak terlantar.  
 4. Penetapan pengadilan sebagaimana dimaksud pada ayat (3) sekaligus menetapkan tempat penampungan dan pemeliharaan Anak terlantar yang bersangkutan.  
 
-Pasal37 (1) Pemerlntah Kabupaten menyelenggarakan pelatihan keterampilan bagi Anakjalanan dan Anak terlantar.  
+#### Pasal 37 
 
+1. Pemerlntah Kabupaten menyelenggarakan pelatihan keterampilan bagi Anakjalanan dan Anak terlantar.  
 2. Pelatihan keterampilan sebagaimana dimaksud pada ayat (1) diselenggarakan oleh Perangkat Daerah yang tugas dan fungsinya di bidang sosial dan ketenagakeIjaan serta dapat bekeIjasama dengan Organisasi Kemasyarakatan.  
 
-Pasal38 (1) Pemerintah Kabupaten menyediakan rumah singgah untuk membina Anak jalanan dan panti sosial untuk Anak terlantar.  
+#### Pasal 38 
 
+1. Pemerintah Kabupaten menyediakan rumah singgah untuk membina Anak jalanan dan panti sosial untuk Anak terlantar.  
 2. Rumah singgah sebagaimana dimaksud pada ayat (1) dapat diselenggarakan bekeIjasama dengan Organisasi Kemasyarakatan.  
 3. Ketentuan lebih lanjut mengenai rumah singgah sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati Pasal39 Penyelenggaraan perlindungan Perempuan dan Anak diselenggarakan oleh Perangkat Daerah yang tugas dan fungsinya berkaitan perlindungan Perempuan dan Anak.  
 
-##### BABVI
+# BAB VI
 
-##### PENANGANAN
+### PENANGANAN
 
 ## Bagian Kesatu
 
-Penanganan Perempuan dan Anak Korban Kekerasan Pasal40 Pelaksanaan penanganan Perempuan dan Anak korban kekerasan meliputi:  
+Penanganan Perempuan dan Anak Korban Kekerasan 
+
+#### Pasal 40 
+
+Pelaksanaan penanganan Perempuan dan Anak korban kekerasan meliputi:  
 a. penanganan pengaduan korban kekerasan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
 d. penegakan dan bantuan hukum; dan  
 e. pemulangan dan reintegrasi sosial.  
 
-Pasal41 (1) Pelaksanaan penanganan Perempuan dan Anak korban kekerasan sebagaimana dimaksud dalam Pasal 40 dilaksanakan melalui pelayanan terpadu.  
+#### Pasal 41
 
-2. Pelayanan terpadu bagi Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1)menggunakan prinsip:a. responsif gender;  
+1. Pelaksanaan penanganan Perempuan dan Anak korban kekerasan sebagaimana dimaksud dalam Pasal 40 dilaksanakan melalui pelayanan terpadu.  
+2. Pelayanan terpadu bagi Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1)menggunakan prinsip:  
+a. responsif gender;  
 b. non diskriminasi;  
 c. hubungan setara dan menghormati;  
 d. menjaga kerahasiaan;  
@@ -431,35 +552,33 @@ h. menghormati pilihan dan keputusan korban;
 i. peka terhadap latar belakang dan kondisi korban dan pemakaian bahasa yang sesuai dan dimengerti oleh korban;  
 j. cepat dan sederhana;  
 k. empati;  
-
-I. pemenuhan hak Perempuan dan Anak; dan
+l. pemenuhan hak Perempuan dan Anak; dan
 m. tidak dipungut biaya.  
 
-Pasal42 Pelayanan penanganan pengaduan korban kekerasan terhadap Perempuan dan Anak dilaksanakan oleh:  
+#### Pasal 42 
+
+Pelayanan penanganan pengaduan korban kekerasan terhadap Perempuan dan Anak dilaksanakan oleh:  
 a. rumah sakit;  
 b. puskesmas;  
 c. P2TP2A;  
 d. Unit Pelayanan Perempuan dan Anak (UPPA);  
 e. Rumah Perlindungan Trauma Center (RPTC);  
 f. Rumah Perlindungan Sosial Anak (RPSA);  
-g. Women Crisis Centre (WCC)h. Badan Penasehat Pembinaan dan Pelestarian Perkawinan (BP4);  
+g. Women Crisis Centre (WCC);  
+h. Badan Penasehat Pembinaan dan Pelestarian Perkawinan (BP4);  
 i. Kepolisian;  
 j. Kejaksaan;  
 k. Pengadilan;  
+l. Lembaga Bantuan Hukum (LBH);dan
+m. Lembaga Perlindungan Anak (LPA).  
 
-I. Lembaga Bantuan Hukum (LBH);dan
+#### Pasal 43 
 
-m.Lembaga Perlindungan Anak (LPA).  
-
-Pasal43 (1) Pengaduan tindak kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 42 dapat dilakukan oleh pelapor yang terdiri atas:
-
+1. Pengaduan tindak kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 42 dapat dilakukan oleh pelapor yang terdiri atas:  
 a.Korban;  
-
-b.Keluarga;  
-c. Masyarakat; dan Iatau
-
+b.Keluarga;    
+c. Masyarakat; dan/atau  
 d.organisasi kemasyarakatan di bidang perlindungan Perempuan dan Anak.  
-
 2. Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan pengaduan:  
 a. secara langsung;  
 b. melalui telepon; dan  
@@ -469,141 +588,175 @@ c. melalui surat.
 
 ## Bagian Kedua
 
-Pelayanan Kesehatan Bagi Perempuan dan Anak Korban Kekerasan I Pasal44 (1) Pelayanan kesehatan bagi Perempuan dan Anak korban kekerasan meliputi aspek:
+Pelayanan Kesehatan Bagi Perempuan dan Anak Korban Kekerasan 
 
+#### Pasal 44 
+
+1. Pelayanan kesehatan bagi Perempuan dan Anak korban kekerasan meliputi aspek:  
 a.Promotif;  
-
 b.Preventif;  
-
 c.Kuratif;  
-
 d.rehabilitatif.  
-
-2. Pelayanan kesehatan bagi Perempuan dan Anak korban kekerasan dilakukan secaraa. Komprehensif;  
+2. Pelayanan kesehatan bagi Perempuan dan Anak korban kekerasan dilakukan secara:  
+a. Komprehensif;  
 b. dapat diakses 24 (dua puluh empat) jam;  
 c. berkualitas; dan  
 d. sesuai dengan standar pelayanan kesehatan.  
 3. Pelayanan kesehatan khusus untuk Anak korban kekerasan, harus I mendahulukan kepentingan terbaik untuk Anak.  
-4. pere~puan dan Anak korban kekerasan berhak terhadap pelayanan I kesehatan, meliputia. pelayanan medis;  
+4. pere~puan dan Anak korban kekerasan berhak terhadap pelayanan I kesehatan, meliputi:  
+a. pelayanan medis;  
 b. pelayanan medikolegal; dan  
 c. konseling psikososial.  
 5. Ketentuan lebih lanjut mengenai tata cara pelaksanaan pelayanan kesehatan sebagaimana dimaksud pada ayat (4) diatur dengan Peraturan Bupati
 
 ## Bagian Ketiga
 
-Pelayanan Rehabilitasi Sosial Bagi Perempuan dan Anak Korban Kekerasan Pasal45 (1) Pelayanan rehabilitasi sosial bagi Perempuan dan Anak korban kekerasan ditujukan untuk memulihkan dan mengembangkan kemampuan korban yang mengalami disfungsi sosial untuk dapat melaksanakan fungsi sosialnya dalam masyarakat secara wajar.  
+Pelayanan Rehabilitasi Sosial Bagi Perempuan dan Anak Korban Kekerasan 
 
+#### Pasal 45 
+
+1. Pelayanan rehabilitasi sosial bagi Perempuan dan Anak korban kekerasan ditujukan untuk memulihkan dan mengembangkan kemampuan korban yang mengalami disfungsi sosial untuk dapat melaksanakan fungsi sosialnya dalam masyarakat secara wajar.  
 2. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pelayanan konseling;  
 b. penyediaan rumah aman;  
 c. bimbingan rohani.  
-3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:a. Perangkat Daerah yang mempunyai tugas dan berfungsi di bidang sosial;  
+3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:  
+a. Perangkat Daerah yang mempunyai tugas dan berfungsi di bidang sosial;  
 b. DPPPA;  
 c. P2TP2A;  
 d. Women Crisis Centre (WeC);  
 e. organisasi kemasyarakatan bidang sosial; dan/ atauf. instansi keagamaan.  
 
-Pasal46 (1) Pelayanan konseling sebagaimana dimaksud dalam Pasal 45 ayat (2) huruf a bertujuan:  
+#### Pasal 46 
+
+1. Pelayanan konseling sebagaimana dimaksud dalam Pasal 45 ayat (2) huruf a bertujuan:  
 a. membantu korban mengenali permasalahannya dan menemukan cara cara yang efektif untuk mengatasinya sendiri;  
 b. memberdayakan korban untuk menentukan masa depannya;  
 c. memberikan dukungan moral bagi korban dalam menghadapi proses yang dijalaninya; dan  
-d. membuat korban merasa diterima di lingkungan masyarakat. 25 (2) Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsif gender, terdiri atas:a. konselor;  
+d. membuat korban merasa diterima di lingkungan masyarakat.  
+2. Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsif gender, terdiri atas:  
+a. konselor;  
 b. psikolog; dan  
 c. psikiater.  
 3. Pelayanan konseling dilakukan di tempat yang menjamin rasa aman, nyaman dan kerahasiaan informasi dari korban.  
-4. Tahapan pelayanan konseling meliputi:a. konseling awal;  
+4. Tahapan pelayanan konseling meliputi:  
+a. konseling awal;  
 b. konseling lanjutan;  
 c. pembahasan kasus (Case conference); dan  
 d. kunjungan ke lokasi (home visit).  
 
-Pasal47 (1) Pemerintah Kabupaten dapat menyediakan Rumah aman bagi Perempuan dan Anak korban kekerasan.  
+#### Pasal 47 
 
+1. Pemerintah Kabupaten dapat menyediakan Rumah aman bagi Perempuan dan Anak korban kekerasan.  
 2. Rumah aman sebagaimana dimaksud pada ayat (1) bertujuan untuk melindungi Perempuan dan Anak korban kekerasan dari intimidasi pelaku ataui pihak lain.  
 3. Lokasi Rumah aman sebagaimana dimaksud pada ayat (1) harns dirahasiakan.  
 4. Kriteria Perempuan dan Anak korban kekerasan yang memerlukan Rumah amart meliputi:a. terancam jiwanya;  
 b. mendapatkan penolakan dari ke1uarga atau masyarakat;  
 c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh; dan/ataud. terlantar jika tidak ditempatkan dalam rumah aman.  
-5. Penyelenggaraan pelayanan Rumah aman dilakukan oleh petugas I rehabilitasi sosial yang memiliki kepekaan gender atau kesadaran gender, terdiri atas:a. peketja sosial/relawan;  
+5. Penyelenggaraan pelayanan Rumah aman dilakukan oleh petugas I rehabilitasi sosial yang memiliki kepekaan gender atau kesadaran gender, terdiri atas:  
+a. peketja sosial/relawan;  
 b. petugas keamanan; dan  
 c. tokoh masyarakat.  
 6. Ketentuan lebih lanjut mengenai penyelenggaraan pelayanan Rumah aman diatur dengan Peraturan Bupati.  
 
-Pasa148 (1) Setiap Perempuan dan Anak korban kekerasan diberikan bimbingan rohani yang ditujukan untuk pemulihan kejiwaan.  
+#### Pasa1 48 
 
-2. Bimbingan rohani sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:a. tidak memaksakan agama atau keyakinan apapun; dan  
-b. menyerahkan putusan akhir di tangan korban (self determination). (3) Bimbingan rohani sebagaimana dimaksud pada ayat (2) dilakukan oleh petugas bimbingan rohani.  
-4. Petugas bimbingan rohani sebagaimana dimaksud pada ayat (3)terdiri dari:a. konsultan Badan Penasehatan, Pembinaan dan Pelestarian Perkawinan (BP4);  
+1. Setiap Perempuan dan Anak korban kekerasan diberikan bimbingan rohani yang ditujukan untuk pemulihan kejiwaan.  
+2. Bimbingan rohani sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:  
+a. tidak memaksakan agama atau keyakinan apapun; dan  
+b. menyerahkan putusan akhir di tangan korban (self determination).  
+3. Bimbingan rohani sebagaimana dimaksud pada ayat (2) dilakukan oleh petugas bimbingan rohani.  
+4. Petugas bimbingan rohani sebagaimana dimaksud pada ayat (3)terdiri dari:  
+a. konsultan Badan Penasehatan, Pembinaan dan Pelestarian Perkawinan (BP4);  
 b. Petugas Kantor Urusan Agama (KUA);  
 c. Ustad atau Ulama;  
 d. Pastor;  
-e. Pendeta; dan •f. pemuka agama lainnya yang memiliki kepekaan gender atau kesadaran gender.  
+e. Pendeta; dan  
+f. pemuka agama lainnya yang memiliki kepekaan gender atau kesadaran gender.  
 
 ## Bagian Keempat
 
-Pelayanan Penegakan dan Bantuan Hukum I, Pasal49 (1) Pelayanan penegakan dan bantuan hukum merupakan tindakan aparat penegak hukum diberikan terhadap Perempuan dan Anak korban kekerasan dan/ atau saksi.  
+Pelayanan Penegakan dan Bantuan Hukum 
 
+#### Pasal 49 
+
+1. Pelayanan penegakan dan bantuan hukum merupakan tindakan aparat penegak hukum diberikan terhadap Perempuan dan Anak korban kekerasan dan/ atau saksi.  
 2. Pelayanan penegakan dan bantuan hukum sebagaimana dimaksud pada ayat (1)dilakukan dengan mengutamakan kepentingan terbaik bagi korban.  
 
-Pasal50 (1)Pelayanan penegakan dan bantuan hukum sebagaimana dimaksud dalam pasal 49 ditujukan untuk memberikan pendampingan dan perlindungan terhadap Perempuan dan Anak korban kekerasan dan saksi dengan pendekatan responsif gender agar korban mendapatkan keadilan dan kepastian hak hukum.  
+#### Pasal 50 
 
-2. Jenis pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) meliputi:a. bantu an hukum dalam proses pelaporan dan pembuatan BAP;  
+1. Pelayanan penegakan dan bantuan hukum sebagaimana dimaksud dalam pasal 49 ditujukan untuk memberikan pendampingan dan perlindungan terhadap Perempuan dan Anak korban kekerasan dan saksi dengan pendekatan responsif gender agar korban mendapatkan keadilan dan kepastian hak hukum.  
+2. Jenis pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) meliputi:  
+a. bantu an hukum dalam proses pelaporan dan pembuatan BAP;  
 b. bantuan hukum dalam proses penuntutan di kejaksaan;  
 c. bantuan hukum dalam proses pemeriksaan di pengadilan;  
 d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dan  
 e. bantuan hukum dalam proses mediasi.  
 3. Pemerintah Kabupaten memberikan bantuan hukum kepada Anak dan Perempuan korban kekerasan secara bebas biaya.  
-4. Dalam pemberian bantuan hukum sebagaimana dimaksud pada ayat (3) Pemerintah Kabupaten dapat bekeIjasama dengan:a. Lembaga Bantuan Hukum (LBH);  
+4. Dalam pemberian bantuan hukum sebagaimana dimaksud pada ayat (3) Pemerintah Kabupaten dapat bekerja sama dengan:  
+a. Lembaga Bantuan Hukum (LBH);  
 b. Women Crisis Center (WCC);  
 c. Advokat; dan/ataud. pendamping hukum lainnya yang sensitif gender.  
 
 ## Bagian Kelima
 
-Pelayanan Pemulangan dan Reintegrasi Sosial Pasal51 (1) Pemulangan korban kekerasan ditujukan untuk mengembalikan Perempuan dan Anak korban kekerasan ke daerah asalnya.  
+Pelayanan Pemulangan dan Reintegrasi Sosial 
 
+#### Pasal 51 
+
+1. Pemulangan korban kekerasan ditujukan untuk mengembalikan Perempuan dan Anak korban kekerasan ke daerah asalnya.  
 2. Pemulangan korban kekerasan Perempuan dan Anak sebagaimana dimaksud pada ayat (1) disertai upaya reintegrasi sosial.  
 3. Pemerintah Kabupaten melaksanakan pemulangan dan reintegrasi sosial Perempuan dan Anak korban kekerasan sesuai dengan ketentuan Peraturan Perundang-undangan.  
 
-### BABVII
+# BAB VII
 
-### PEMBERDAYAANPEREMPUAN
+### PEMBERDAYAAN PEREMPUAN
 
-Pasal52 (1) Pemerintah Kabupaten menjamin terselenggaranya pemberdayaan bagi Perempuan.  
+#### Pasal 52
 
+1. Pemerintah Kabupaten menjamin terselenggaranya pemberdayaan bagi Perempuan.  
 2. Penyelenggaraan pemberdayaan Perempuan sebagaimana dimaksud pada ayat (1) didukung oleh peran serta masyarakat dan Organisasi Kemasyarakatan.  
 
-Pasa153 (1) Pemerintah Kabupaten memberikan pelatihan keterampilan untuk peningkatan kapasitas Perempuan.  
+#### Pasa1 53 
 
+1. Pemerintah Kabupaten memberikan pelatihan keterampilan untuk peningkatan kapasitas Perempuan.  
 2. Dalam memberikan pelatihan sebagaimana dimaksud pada ayat (1) Pemerintah Kabupaten dapat melakukan keIjasama dengan lembaga pelatihan yang diselenggarakan oleh organisasi kemasyarakatan.  
 3. Pemerintah Kabupaten memperluas akses dan kesempatan kepada Perempuan dalam memperoleh keterampilan dan lapangan pekeIjaan.  
 
-Pasal54 (1) Pemerintah Kabupaten memfasilitasi:  
+#### Pasal 54 
+
+1. Pemerintah Kabupaten memfasilitasi:  
 a. pemberian bantuan modal usaha bagi Perempuan yang memiliki ekonomi Iemah;  
 b. pemasaran produk hasil usaha Perempuan;  
 c. penyelenggaraan pelatihan pengembangan kemampuan masyarakat melalui pemberdayaan ekonomi keluarga prasejahtera;  
-d. perluasan akses, informasi dan memberikan pengetahuan pada Perempuan mengenai upaya pemasaran produk yang dihasilkan; dan e. memberikan pelatihan kewirausahaan kepada Perempuan secara komprehensif.  
+d. perluasan akses, informasi dan memberikan pengetahuan pada Perempuan mengenai upaya pemasaran produk yang dihasilkan; dan  
+e. memberikan pelatihan kewirausahaan kepada Perempuan secara komprehensif.  
 2. Pemerintah Kabupaten dalam memfasilitasi kegiatan sebagaimana dimaksud pada ayat (1) bekeIjasama dengan masyarakat dan/atau organisasi kemasyarakatan.  
 
-# BAB VIll
+# BAB VIII
 
-## PARTISIPASIANAK
+## PARTISIPASI ANAK
 
-Pasal55 (1) Setiap Anak berhak berpartlsipasi menyampaikan pendapat, ide, dan gagasan yang berkaitan dengan hidup berdasarkan kesadaran serta pemahaman, sesuai dengan usia dan tingkat kematangan berpikir.  
+#### Pasal 55 
 
+1. Setiap Anak berhak berpartlsipasi menyampaikan pendapat, ide, dan gagasan yang berkaitan dengan hidup berdasarkan kesadaran serta pemahaman, sesuai dengan usia dan tingkat kematangan berpikir.  
 2. Partlsipasi Anak sebagaimana dimaksud pada ayat (1) dapat dilakukan meialui Forum Anak mulai dari tingkat desa, kecamatan dalam kabupaten.  
 3. Forum Anak sebagaimana dimaksud pada ayat (2)merupakan representasi Anak, baik representasi domisili geografis, kelompok sosial budaya dan latar belakang pendidikan Anak.  
 4. Pembentukan Forum Anak sebagaimana dimaksud pada ayat (2) difasilitasi oleh Pemerintah Kabupaten.  
 5. Pembentukan Forum Anak sebagaimana dimaksud pada ayat (4) ditetapkan dengan Keputusan Bupati.  
 
-Pasal56 (1)Dalam setiap penyusunan kebijakan yang terkait dengan Anak, Pemerintah Kabupaten memperhatikan dan mengakomodasi Pendapat Anak yang disampaikan melalui Forum Anak.  
+#### Pasal 56 
 
+1. Dalam setiap penyusunan kebijakan yang terkait dengan Anak, Pemerintah Kabupaten memperhatikan dan mengakomodasi Pendapat Anak yang disampaikan melalui Forum Anak.  
 2. Pemerintah Kabupaten mengikutsertakan perwakilan Forum Anak dalam Musyawarah Perencanaan Pembangunan Kabupaten.  
 
-## BABIX
+# BAB IX
 
-## KABUPATENLAYAKANAK
+## KABUPATEN LAYAK ANAK
 
-Pasal57 (1) Pemerintah Kabupaten melakukan pembinaan kepada Pemerintah Kecamatan dalam pengembangan Kabupaten Layak Anak.  
+#### Pasal 57 
 
+1. Pemerintah Kabupaten melakukan pembinaan kepada Pemerintah Kecamatan dalam pengembangan Kabupaten Layak Anak.  
 2. Pembinaan sebagaimana dimaksud pada ayat (1)meliputi:  
 a. koordinasi;  
 b. fasilitasi;  
@@ -613,54 +766,58 @@ e. konsultasi; dan
 f. pendidikan dan pelatihan.  
 3. Ketentuan mengenai Kabupaten Layak Anak diatur lebih 1anjut dengan Peraturan Bupati.  
 
-## BABX
+# BAB X
 
-## PEMBINAANDANPENGAWASAN
+## PEMBINAAN DAN PENGAWASAN
 
-Pasal58 (1)Bupati melakukan pembinaan dan pengawasan penyelenggaraan Perlindungan Perempuan dan Anak.  
+#### Pasal 58 
 
-2. Pembinaan sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:a. pelatihan bagi aparat pemerintah dan penegak hukum tentang pencegahan dan penanganan kekerasan;  
+1. Bupati melakukan pembinaan dan pengawasan penyelenggaraan Perlindungan Perempuan dan Anak.  
+2. Pembinaan sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:  
+a. pelatihan bagi aparat pemerintah dan penegak hukum tentang pencegahan dan penanganan kekerasan;  
 b. pelatihan bagi tokoh agama, tokoh masyarakat, tokoh adat, tenaga pendidik, jumalis dan pengelola media dalam rangka mencegah kekerasan terhadap Perempuan dan Anak;  
 c. pelatihan kepada tenaga kesehatan yang memberikan pelayanan kesehatan kepada Perempuan dan Anak korban kekerasan di puskesmas, unit pelayanan terpadu, dan rumah sakit umum;  
 d. pelatihan kepada petugas rehabilitasi sosial dan petugas bimbingan rohani dalam rangka melindungi Perempuan dan Anak korban kekerasan; dan  
 f. peningkatan profesionalitas petugas, pengelola data kasus kekerasan terhadap Perempuan dan Anak di puskesmas, unit pelayanan terpadu dan rumah sakit.  
 3. Bupati dalam melakukan pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)dapat mendelegasikan kepada Kepala Dinas.  
 
-Pasal59 (1) Kepala DPPPA wajib menyampaikan laporan pelaksanaan program perlindungan Perempuan dan Anak kepada Bupati.  
+#### Pasal 59 
 
+1. Kepala DPPPA wajib menyampaikan laporan pelaksanaan program perlindungan Perempuan dan Anak kepada Bupati.  
 2. Laporan sebagaimana dimaksud pada ayat (1) disampaikan secara berkala 1 (satu) kali dalam 3 (tiga)bulan.  
 
-Pasal60 (1) Bupati melakukan pengawasan dan evaluasi terhadap penyelenggaraan Perlindungan Perempuan dan Anak secara berkala 1 (satu) kali dalam 3 (tiga)bulan.  
+#### Pasal 60 
 
+1. Bupati melakukan pengawasan dan evaluasi terhadap penyelenggaraan Perlindungan Perempuan dan Anak secara berkala 1 (satu) kali dalam 3 (tiga)bulan.  
 2. Hasil evaluasi sebagaimana dimaksud pada ayat (1) merupakan bahan evaluasi bagi kebijakan program perlindungan Perempuan dan Anak di Kabupaten.  
 
-## BABXI
+# BAB XI
 
-PEMBlAYAAN.  
+## PEMBiAYAAN.  
 
-Pasal61 Pembiayaan penyelenggaraan perlindungan Perempuan dan Anak bersumber dari:  
+#### Pasal 61 
+
+Pembiayaan penyelenggaraan perlindungan Perempuan dan Anak bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
 b. Anggaran Pendapatan dan Belanja Negara; dan  
 c. sumber lain yang sah sesuai dengan ketentuan Peraturan Perundang- , undangan.  
 
 # BAB XII
 
-## KETENTUANPENUTUP
+## KETENTUAN PENUTUP
 
-Pasal62 Peraturan pelaksanaan dari Peraturan Daerah ini ditetapkan paling lama 1 (satu) tahun sejak Peraturan Daerah ini diundangkan.  
+#### Pasal 62 
 
-Pasal63 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Musi Banyuasin.  
+Peraturan pelaksanaan dari Peraturan Daerah ini ditetapkan paling lama 1 (satu) tahun sejak Peraturan Daerah ini diundangkan.  
 
-pada tanggal ~bDi;Sf;IYI8e1--;/2018 f BUPATI ,MUSI BAN'lUASIN'r .  
+#### Pasal 63 
 
-Ditetapkan di Sekayu - \:Y' l H. DODI REZA ALEXNOERDIN Diundangkan di Sekayu pada tapggal;:)1 OHEf/18EfL.! 2018
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Musi Banyuasin.  
 
-## SEKR TARIS DAERAH
+SEKRETARIS DAERAH  
 
-## KAB ATENMUSI BANYUASIN,
+KAB ATENMUSI BANYUASIN,  
 
-## H. APRIYADI
+H. APRIYADI  
 
-## LEMBARANDAERAHKABUPATENMUSI BANYUASINTAHUN2018 NOMOR "
-
-NOREG PERATURAN DAERAH KABUPATEN MUSI BANYUASIN (13-144/2018)
+NOREG PERATURAN DAERAH KABUPATEN MUSI BANYUASIN (13-144/2018)  
