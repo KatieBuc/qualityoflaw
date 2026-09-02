@@ -1,18 +1,20 @@
-1 -
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN 
 
-# BUPATI PAKPAK BHARAT
+BUPATI PAKPAK BHARAT  
 
-# PROVINSI SUMATERA UTARA
+PROVINSI SUMATERA UTARA  
 
-# PERATURAN DAERAH KABUPATEN PAKPAK BHARAT
+# PERATURAN DAERAH KABUPATEN PAKPAK BHARAT  
 
-# NOMOR 2 TAHUN 2017
+NOMOR 2 TAHUN 2017  
 
-# TENTANG
+TENTANG  
 
-PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# BUPATI PAKPAK BHARAT,
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+BUPATI PAKPAK BHARAT,  
 
 Menimbang:  
  
@@ -35,14 +37,10 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi terhadap Wanita (Convention on the Elimination of all Form of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 4. Undang-Undang Nomor 9 Tahun 2003 tentang  Pembentukan Kabupaten Nias Selatan, Kabupaten Pakpak Bharat dan Kabupaten Humbang Hasundutan di Provinsi Sumatera Utara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 4272);  
 5. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
-
-jdih.pakpakbharatkab.go.id - 2 -
-
 6. Undang-Undang Nomor 33 Tahun 2004 tentang  Perimbangan Keuangan Antara Pemerintah Pusat dan  Pemerintahan Daerah (Lembaran Negara Repulik  Indonesia Tahun 2004 Nomor 126, Tambahan lembaran  Negara Republik Indonesia Nomor 4438);  
 7. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Saksi dan Korban (Lembaran Negara  Republik Indonesia Tahun 2006 Nomor 64, Tambahan  Lembaran Negara Republik Indonesia Nomor 4635);  
 8. Undang-Undang nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007  Nomor 58, Tambahan Lembaran Negara Republik  Indonesia Nomor 4720);  
@@ -55,18 +53,21 @@ jdih.pakpakbharatkab.go.id - 2 -
 15. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 3 Tahun 2008 tentang  Pelaksanaan Perlindungan Anak;  
 16. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 1 Tahun 2010 tentang  Standart Pelayanan Minimal Bidang Layanan Terpadu  Bagi Perempuan dan Anak Korban Kekerasan;  
 17. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2011 tentang  Pedoman Pemberdayaan Anak Korban Kekerasan;  
-
-jdih.pakpakbharatkab.go.id - 3 -
-
 18. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 19 Tahun 2011 tentang Pedoman Pemberdayaan Perempuan Korban Kekerasan.  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PAKPAK BHARAT dan
+Dengan Persetujuan Bersama  
 
-# BUPATI PAKPAK BHARAT
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PAKPAK BHARAT  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+BUPATI PAKPAK BHARAT  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
 # BAB I
 
@@ -74,20 +75,17 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEK
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Pakpak Bharat.  
 2. Pemerintahan Daerah adalah Kepala Daerah sebagai unsur penyelenggara  Pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan  yang menjadi kewenangan daerah otonom.  
 3. Bupati adalah Bupati Pakpak Bharat.  
 4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD  adalah lembaga perwakilan rakyat daerah yang berkedudukan sebagai  unsur penyelenggara Pemerintahan Daerah.  
-5. Dinas Sosial adalah Dinas Sosial Kabupaten Pakpak Bharat. 6. Diskriminasi adalah setiap pembedaan, pelecehan atau pengucilan yang  langsung ataupun tidak langsung yang didasarkan pada pembedaan  manusia atas dasar agama, suku, ras, etnik kelompok golongan status  sosial, status ekonomi, jenis kelamin, bahasa, keyakinan politik akibat  pengurangan penyimpangan atau penghapusan pengakuan, pelaksanaan  atau penggunaan hak asasi manusia dan kebebasan dasar dalam  kehidupan baik individual maupun kolektif dalam bidang politik, ekonomi,  hukum, sosial, budaya dan aspek kehidupan lainnya.  
+5. Dinas Sosial adalah Dinas Sosial Kabupaten Pakpak Bharat.  
+6. Diskriminasi adalah setiap pembedaan, pelecehan atau pengucilan yang  langsung ataupun tidak langsung yang didasarkan pada pembedaan  manusia atas dasar agama, suku, ras, etnik kelompok golongan status  sosial, status ekonomi, jenis kelamin, bahasa, keyakinan politik akibat  pengurangan penyimpangan atau penghapusan pengakuan, pelaksanaan  atau penggunaan hak asasi manusia dan kebebasan dasar dalam  kehidupan baik individual maupun kolektif dalam bidang politik, ekonomi,  hukum, sosial, budaya dan aspek kehidupan lainnya.  
 7. Perdagangan orang adalah tindakan perekrutan, pengangkutan,  penampungan, pengiriman, pemindahan, atau penerimaan seseorang  dengan ancaman kekerasan, penggunaan kekerasan, penculikan,  penyekapan, pemalsuan, penipuan dan penyalahgunaan kekuasaan atau  posisi rentan, penjeratan uang atau memberikan bayaran atau manfaat,  sehingga memperoleh persetujuan dari orang yang memegang kendali atas  orang lain tersebut, baik yang dilakukan di dalam negara maupun antar  negara, untuk tujuan eksploitasi atau mengakibatkan orang  tereksploitasi.  
 8. Anak adalah seorang yang belum berusia 18 tahun termasuk yang ada  dalam kandungan.  
 9. Kekerasan adalah setiap perbuatan secara melawan hukum dengan atau  tanpa menggunakan sarana terhadap fisik dan psikis yang menimbulkan  bahaya bagi nyawa, badan atau menimbulkan terampasnya kemerdekaan  seseorang.  
 10. Kekerasan terhadap perempuan adalah setiap tindakan yang berakibat  kesengsaraan atau penderitaan perempuan secara fisik, seksual atau  psikologis, termasuk ancaman tindakan tertentu, pemaksaan atau  perampasan kemerdekaan secara sewenang-wenang, baik yang terjadi di  ranah publik atau dalam kehidupan pribadi.  
-
-jdih.pakpakbharatkab.go.id - 4 -
-
 11. Kekerasan terhadap anak adalah setiap perbuatan terhadap anak yang  berakibat timbulnya kesengsaraan atau penderitaan secara fisik, mental,  seksual, psikologis, termasuk penelantaran dan perlakuan buruk yang  mengancam integritas tubuh dan merendahkan martabat anak yang  dilakukan oleh pihak-pihak yang seharusnya bertanggungjawab atas  anak tersebut atau mereka memiliki kuasa atas anak tersebut, yang  seharusnya dapat dipercaya, misalnya orang tua, keluarga dekat, guru  dan pendamping.  
 12. Korban adalah perempuan dan anak yang mengalami kesengsaraan  dan/atau penderitaan baik langsung maupun tidak langsung sebagai  akibat kekerasan.  
 13. Rehabilitasi Kesehatan adalah upaya pemulihan kondisi korban meliputi  kesehatan fisik, psikis, dan seksual agar korban dapat melaksanakan  perannya kembali secara baik dan wajar baik dalam keluarga maupun  dalam masyarakat.  
@@ -104,8 +102,6 @@ jdih.pakpakbharatkab.go.id - 4 -
 24. Rumah tangga adalah anggota keluarga dan kerabat seperti cucu,  kemenakan, kakak, adik, kakek, nenek, suami, istri, sepupu dan  sebagainya dan bukan kerabat seperti pekerja rumah tangga, sopir dan  sebagainya yang hidup dan menetap dalam satu rumah.  
 25. Kearifan lokal (local wisdom) adalah kebenaran yang telah mentradisi atau  ajeg dalam suatu daerah, kearifan lokal merupakan perpaduan antara  nilai-nilai suci agama dan berbagai nilai yang ada.  
 
-jdih.pakpakbharatkab.go.id - 5 -
-
 # BAB II
 
 ## ASAS DAN TUJUAN
@@ -121,12 +117,14 @@ e. kepastian Hukum.
 
 #### Pasal 3
 
-1. Tujuan penyelenggaraan perlindungan perempuan dan anak korban kekerasan untuk:a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
+1. Tujuan penyelenggaraan perlindungan perempuan dan anak korban kekerasan untuk:  
+a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor dan saksi;  
 e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah  tangga untuk mewujudkan keutuhan rumah tangga yang harmonis  dan sejahtera.  
-2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat berupa:  a. kekerasan fisik;  
+2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran ekonomi;  
@@ -138,7 +136,8 @@ e. pembatasan ruang gerak.
 
 #### Pasal 4
 
-Setiap perempuan dan anak korban kekerasan berhak untuk mendapatkan:  a. untuk dihormati harkat dan martabat sebagai manusia;  
+Setiap perempuan dan anak korban kekerasan berhak untuk mendapatkan:  
+a. untuk dihormati harkat dan martabat sebagai manusia;  
 b. perlindungan dari pihak keluarga, masyarakat, Pemerintah Daerah  dan/atau pihak lain baik sementara maupun berdasarkan penetapan  perintah perlindungan dari pengadilan;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
 d. penanganan secara khusus berkaitan dengan kerahasiaan korban;  
@@ -146,15 +145,14 @@ e. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat  prose
 f. pelayanan bimbingan rohani;  
 g. menentukan sendiri keputusannya.  
 
-jdih.pakpakbharatkab.go.id - 6 -
-
 # BAB IV
 
 ## KEWAJIBAN DAN TANGGUNGJAWAB
 
 #### Pasal 5
 
-Kewajiban dan tanggungjawab dalam memberikan perlindungan terhadap  perempuan dan anak korban kekerasan merupakan tanggungjawab bersama:  a. pemerintah daerah;  
+Kewajiban dan tanggungjawab dalam memberikan perlindungan terhadap  perempuan dan anak korban kekerasan merupakan tanggungjawab bersama:  
+a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga;  
 d. orangtua.  
@@ -162,10 +160,11 @@ d. orangtua.
 #### Pasal 6
 
 1. Pemerintah Daerah berkewajiban dan bertanggungjawab dalam  memberikan perlindungan terhadap perempuan dan anak korban  kekerasan.  
-2. Kewajiban dan tanggung jawab pemerintah daerah sebagaimana dimaksud  dalam Pasal 5 huruf a meliputi:a. melaksanakan kebijakan perlindungan perempuan dan anak korban  kekerasan berdasarkan peraturan perundang-undangan;  
+2. Kewajiban dan tanggung jawab pemerintah daerah sebagaimana dimaksud  dalam Pasal 5 huruf a meliputi:  
+a. melaksanakan kebijakan perlindungan perempuan dan anak korban  kekerasan berdasarkan peraturan perundang-undangan;  
 b. menetapkan kebijakan, program, dan kegiatan perlindungan perempuan  dan anak korban kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  perempuan dan anak korban kekerasan;  
-d. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum  sesuai kebutuhan korban;  
+d. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum sesuai kebutuhan korban;  
 e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari korban kekerasan sesuai kemampuan keuangan daerah;  dan;  
 f. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak korban kekerasan.  
 3. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), Bupati menetapkan program dan kegiatan aksi  perlindungan perempuan dan anak dalam satu Rencana Aksi Daerah  sebagai dasar bagi OPD dalam melaksanakan perlindungan perempuan  dan anak dari tindak kekerasan.  
@@ -173,13 +172,13 @@ f. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak korban
 
 #### Pasal 7
 
-1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
+1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:  
+a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan  terhadap perempuan dan anak kepada penegak hukum atau pihak  yang berwenang;  
 c. turut serta dalam penanganan korban tindak kekerasan;  
 d. memberikan perlindungan terhadap korban; dan  
 e. memberikan pertolongan darurat.  
-
-jdih.pakpakbharatkab.go.id - 7 -
 
 #### Pasal 8
 
@@ -192,7 +191,8 @@ Kewajiban keluarga dan/atau orangtua sebagaimana dimaksud dalam Pasal 5 huruf c 
 #### Pasal 9
 
 1. Untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan  anak, pemerintah daerah melakukan pemberdayaan dan penyadaran  kepada keluarga, orangtua, dan masyarakat dengan memberikan informasi,  bimbingan dan/atau penyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), pemerintah daerah melakukan upaya sebagai berikut:a. peningkatan jumlah mutu pendidikan baik formal maupun non formal  dan informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), pemerintah daerah melakukan upaya sebagai berikut:  
+a. peningkatan jumlah mutu pendidikan baik formal maupun non formal  dan informal;  
 b. pembukaan aksebilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -202,7 +202,8 @@ g. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan.
 
 #### Pasal 10
 
-1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 9, dilaksanakan oleh OPD yang tugas  dan fungsinya dibidang:a. kesehatan;  
+1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 9, dilaksanakan oleh OPD yang tugas  dan fungsinya dibidang:  
+a. kesehatan;  
 b. pendidikan;  
 c. sosial;  
 d. pemberdayaan perempuan dan perlindungan anak;  
@@ -216,17 +217,17 @@ e. ketentraman dan ketertiban.
 #### Pasal 11
 
 1. Dalam hal penyelenggaraan perlindungan terhadap perempuan dan anak  korban kekerasan, pemerintah daerah dapat membentuk Pusat Pelayanan  Terpadu (PPT).  
-
-jdih.pakpakbharatkab.go.id - 8 - (2) Pembentukan dan pengembangan PPT disesuaikan dengan perkembangan  prioritas kebutuhan, dan kemampuan keuangan daerah serta kemampuan  kelembagaan personil yang ada di daerah.  
-
+2. Pembentukan dan pengembangan PPT disesuaikan dengan perkembangan  prioritas kebutuhan, dan kemampuan keuangan daerah serta kemampuan  kelembagaan personil yang ada di daerah.  
 3. PPT sebagaimana dimaksud pada ayat (1) dapat mewadahi lembaga/ unit  kerja yang memberikan pelayanan bagi korban kekerasan seperti P2TP2A,  Rumah Aman, Rumah perlindungan Sosial Anak, Rumah Trauma Center,  Rumah perlindungan Sosial Wanita, Rumah singgah dan lain-lain kegiatan  pelayanan sesuai peraturan perundang-undangan yang berlaku.  
-4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:a. pengaduan;  
+4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:  
+a. pengaduan;  
 b. rehabilitasi kesehatan;  
 c. rehabilitasi sosial;  
 d. bantuan hukum;  
 e. pemulangan;  
 f. reintegrasi sosial.  
-5. Dalam memberikan perlindungan terhadap perempuan dan anak korban  kekerasan PPT berkewajiban:a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
+5. Dalam memberikan perlindungan terhadap perempuan dan anak korban  kekerasan PPT berkewajiban:  
+a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
 b. menyelenggarakan perlindungan dan pemenuhan hak korban atas  rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial  dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan  penterjemah dan relawan pendamping yang diperlukan bagi korban;  
 d. melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk  perawatan dan pemulihan kesehatan korban serta melakukan kerjasama  dengan lembaga perlindungan saksi dan korban, rumah perlindungan  sosial atau pusat trauma milik pemerintah, masyarakat atau lembaga lembaga lainnya untuk pemulihan kesehatan korban;  
@@ -249,15 +250,14 @@ c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan;
 d. penegakan dan bantuan hukum bagi perempuan dan anak korban  kekerasan;  
 e. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
 
-jdih.pakpakbharatkab.go.id - 9 -
-
 #### Pasal 13
 
 SPM sebagaimana dimaksud dalam Pasal 12 memiliki indikator kinerja  meliputi:  
 a. cakupan perempuan dan anak korban kekerasan yang mendapatkan  penanganan pengaduan, layanan kesehatan, layanan rehabilitasi sosial,  layanan bimbingan rohani dilakukan oleh petugas terlatih didalam unit  pelayanan terpadu;  
 b. cakupan penegakan hukum dari tingkat penyidikan sampai dengan  putusan pengadilan atas kasus-kasus kekerasan terhadap perempuan dan  anak;  
 c. cakupan perempuan dan anak korban kekerasan yang mendapatkan  layanan bantuan hukum;  
-d. cakupan layanan pemulangan bagi perempuan dan anak korban  kekerasan;dane. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
+d. cakupan layanan pemulangan bagi perempuan dan anak korban  kekerasan; dan  
+e. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
 
 # BAB VIII
 
@@ -275,8 +275,6 @@ d. cakupan layanan pemulangan bagi perempuan dan anak korban  kekerasan;dane. ca
 1. Evaluasi pelaksanaan kebijakan, program dan kegiatan perlindungan  perempuan dan anak dilakukan setiap evaluasi pelaksanaan kebijakan,  program dan kegiatan perlindungan perempuan dan anak dilakukan setiap  akhir tahun anggaran atau jika diperlukan sesuai kebutuhan.  
 2. Hasil evaluasi pelaksanaan kebijakan, program dan kegiatan perlindungan  perempuan dan anak digunakan sebagai bahan masukan bagi  penyusunan kebijakan, program, dan kegiatan perlindungan perempuan  dan anak untuk tahun berikutnya.  
 3. Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan  ketentuan peraturan perundang-undangan.  
-
-jdih.pakpakbharatkab.go.id - 10 -
 
 # BAB IX
 
@@ -316,9 +314,8 @@ Dalam menyelenggarakan perlindungan terhadap perempuan dan anak korban  kekerasa
 a. membentuk mitra keluarga di tingkat desa oleh masyarakat;  
 b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 c. melakukan pertolongan pertama kepada korban;  
-d. peran serta kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  e. peran serta masyarakat dilakukan oleh perorangan, lembaga sosial  kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan,  lembaga keagamaan, swasta, dan media massa.  
-
-jdih.pakpakbharatkab.go.id - 11 -
+d. peran serta kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
+e. peran serta masyarakat dilakukan oleh perorangan, lembaga sosial  kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan,  lembaga keagamaan, swasta, dan media massa.  
 
 # BAB XIII
 
@@ -338,35 +335,32 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Pakpak Bharat.  
 
-Ditetapkan di Salak pada tanggal 10 April 2017
+Ditetapkan di Salak pada tanggal 10 April 2017  
 
-##### BUPATI PAKPAK BHARAT,
+BUPATI PAKPAK BHARAT,  
 
-##### REMIGO YOLANDO BERUTU
+REMIGO YOLANDO BERUTU  
 
-Diundangkan di Salak pada tanggal 11 April 2017
+Diundangkan di Salak pada tanggal 11 April 2017  
 
-##### SEKRETARIS DAERAH
+SEKRETARIS DAERAH  
 
-##### KABUPATEN PAKPAK BHARAT,
+KABUPATEN PAKPAK BHARAT,  
 
-##### SAHAT BANUREA
+SAHAT BANUREA  
 
-##### LEMBARAN DAERAH KABUPATEN PAKPAK BHARAT TAHUN 2017 NOMOR 2
+LEMBARAN DAERAH KABUPATEN PAKPAK BHARAT TAHUN 2017 NOMOR 2  
 
-NOMOR REGISTRASI PERATURAN DAERAH KABUPATEN PAKPAK BHARAT  PROVINSI SUMATERA UTARA (2/41/2017) jdih.pakpakbharatkab.go.id - 12 -
+NOMOR REGISTRASI PERATURAN DAERAH KABUPATEN PAKPAK BHARAT  PROVINSI SUMATERA UTARA (2/41/2017)  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PAKPAK BHARAT
 
-##### ATAS
+NOMOR 2 TAHUN 2017 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK DARI KORBAN KEKERASAN  
 
-##### PERATURAN DAERAH KABUPATEN PAKPAK BHARAT
+##### I. UMUM 
 
-##### NOMOR 2 TAHUN 2017
 
-##### TENTANG
-
-PERLINDUNGAN PEREMPUAN DAN ANAK DARI KORBAN KEKERASAN I. UMUM Tujuan nasional Negara Kesatuan Republik Indonesia,  sebagaimana diatur dalam Pembukaan Undang-Undang Dasar Tahun  1945 pada alinea keempat dinyatakan meliputi: (1) melindungi  segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, (2)  memajukan kesejahteraan umum, (3) mencerdaskan kehidupan  bangsa dan (4) ikut melaksanakan ketertiban dunia yang berdasarkan (a) kemerdekaan, (b) perdamaian abadi , dan (c) keadilan sosial.   Negara Republik Indonesia merupakan Negara Hukum  (rechtstaat) dan bukan negara kekuasaan (machstaat), sehingga  semua perbuatan warga negaranya, termasuk yang berupa  kekerasan, yang dilakukan baik oleh laki-laki maupun perempuan,  juga diatur dengan hukum.  
+Tujuan nasional Negara Kesatuan Republik Indonesia,  sebagaimana diatur dalam Pembukaan Undang-Undang Dasar Tahun  1945 pada alinea keempat dinyatakan meliputi: (1) melindungi  segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, (2)  memajukan kesejahteraan umum, (3) mencerdaskan kehidupan  bangsa dan (4) ikut melaksanakan ketertiban dunia yang berdasarkan (a) kemerdekaan, (b) perdamaian abadi , dan (c) keadilan sosial.   Negara Republik Indonesia merupakan Negara Hukum  (rechtstaat) dan bukan negara kekuasaan (machstaat), sehingga  semua perbuatan warga negaranya, termasuk yang berupa  kekerasan, yang dilakukan baik oleh laki-laki maupun perempuan,  juga diatur dengan hukum.  
 
 Hak perempuan dan anak diakui sebagai Hak Asasi Manusia  (HAM), yang wajib dijunjung tinggi dan dihormati oleh semua pihak,  namun dalam kenyataannya masih banyak perempuan dan anak  yang menjadi korban kekerasan. Komitmen Pemerintah Pusat untuk  melindungi anak dan perempuan tercermin dalam perundang undangan dibawahnya.  
 
@@ -478,4 +472,6 @@ Cukup jelas
 
 #### Pasal 21
 
-Cukup jelas TAMBAHAN LEMBARAN DAERAH KABUPATEN PAKPAK BHARAT NOMOR 126 jdih.pakpakbharatkab.go.id jdih.pakpakbharatkab.go.id
+Cukup jelas  
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN PAKPAK BHARAT NOMOR 126  
