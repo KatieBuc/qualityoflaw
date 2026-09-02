@@ -1,14 +1,20 @@
-# BUPATI MUSI RAWAS UTARA
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK 
 
-PROVINSI SUMATERA SELATAN PERATURAN DAERAH KABUPATEN MUSI RAWAS UTARA NOMOR 9 TAHUN 2019
+BUPATI MUSI RAWAS UTARA  
 
-# TENTANG
+PROVINSI SUMATERA SELATAN  
 
-# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
+# PERATURAN DAERAH KABUPATEN MUSI RAWAS UTARA 
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+NOMOR 9 TAHUN 2019  
 
-# BUPATI MUSI RAWAS UTARA.  
+TENTANG  
+
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI MUSI RAWAS UTARA.  
 
 Menimbang:  
  
@@ -31,17 +37,22 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 16 tahun 2013 tentang Pembentukan Kabupaten Musi Rawas Utara di Provinsi Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 112, Tambahan Lembaran Negara Republik Indonesia Nomor 5429);  
 3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUSI RAWAS UTARA dаn
+Dengan Persetujuan Bersama  
 
-# BUPATI MUSI RAWAS UTARA
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUSI RAWAS UTARA  
 
-# MEMUTUSKAN:
+dаn  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK.  
+BUPATI MUSI RAWAS UTARA  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -49,8 +60,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN 
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Kabupaten adalah Kabupaten Musi Rawas Utara.  
 2. Pemerintah Kabupaten adalah Pemerintah Kabupaten Musi Rawas Utara.  
 3. Bupati adalah Bupati Musi Rawas Utara.  
@@ -89,7 +99,8 @@ Peraturan Daerah ini bertujuan:
 a. menjadi pedoman dalam perencanaan dan pelaksanaan kebijakan Perlindungan Perempuan dan Anak;  
 b. mencegah terjadinya pelanggaran terhadap hak Perempuan dan Anak;  
 c. mewujudkan upaya Perlindungan Perempuan dan Anak yang terpadu, komprehensif dan berkelanjutan;  
-d. mencegah adanya keputusan dan kebijakan yang melanggar serta tidak mendukung upaya Perlindungan Perempuan dan Anak;dane. meningkatkan peran Pemerintah Kabupaten, masyarakat, dan lembaga kemasyarakatan lainnya dalam upaya Perlindungan Perempuan dan Anak.  
+d. mencegah adanya keputusan dan kebijakan yang melanggar serta tidak mendukung upaya Perlindungan Perempuan dan Anak; dan  
+e. meningkatkan peran Pemerintah Kabupaten, masyarakat, dan lembaga kemasyarakatan lainnya dalam upaya Perlindungan Perempuan dan Anak.  
 
 #### Pasal 4
 
@@ -97,7 +108,8 @@ Ruang lingkup Peraturan Daerah ini sebagai berikut:
 a. hak Perempuan dan Anak;  
 b. kewajiban dan tanggung jawab;  
 c. penyelenggaraan Perlindungan Perempuan dan Anak;  
-d. pembinaan dan pengawasan;dane. pembiayaan;  
+d. pembinaan dan pengawasan; dan  
+e. pembiayaan;  
 
 # BAB II
 
@@ -109,7 +121,8 @@ Hak Perempuan
 
 #### Pasal 5
 
-1. Setiap Perempuan berhak:a. memeluk agama dan beribadat menurut agamanya dan kepercayaannya;  
+1. Setiap Perempuan berhak:  
+a. memeluk agama dan beribadat menurut agamanya dan kepercayaannya;  
 b. mendapat pendidikan, memperoleh manfaat dari  ilmu pengetahuan dan teknologi, seni dan budaya,  demi meningkatkan kualitas hidupnya;  
 c. untuk hidup dan mempertahankan hidup  serta kehidupannya;  
 d. membentuk keluarga dan melanjutkan  keturunan melalui perkawinan yang sah;  
@@ -144,7 +157,8 @@ d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetah
 
 #### Pasal 8
 
-1. Pemberdayaan Perempuan dibidang politik sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:a. keterlibatan Perempuan dalam pengambilan keputusan diberbagai tingkatan;  
+1. Pemberdayaan Perempuan dibidang politik sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:  
+a. keterlibatan Perempuan dalam pengambilan keputusan diberbagai tingkatan;  
 b. pemberian kesempatan bagi Perempuan untuk menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dan  
 d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
@@ -152,7 +166,8 @@ d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengelua
 
 #### Pasal 9
 
-1. Penyelenggaraan pemberdayaan Perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan edukasi; dan  
+1. Penyelenggaraan pemberdayaan Perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:  
+a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan edukasi; dan  
 b. fasilitasi akses dan layanan konsultasi hukum.  
 2. Penyelenggaraan pemberdayaan Perempuan di bidang hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan Peraturan Perundang-Undangan.  
 
@@ -189,7 +204,8 @@ f. perlakuan salah lainnya.
 #### Pasal 15
 
 1. Setiap Anak berhak untuk diasuh oleh Orang Tuanya sendiri, kecuali jika ada alasan dan/atau aturan hukum yang sah menunjukkan bahwa pemisahan itu adalah demi kepentingan terbaik bagi Anak dan merupakan pertimbangan terakhir.  
-2. Dalam hal terjadi pemisahan sebagaimana dimaksud pada ayat (1), Anak tetap berhak:a. bertemu langsung dan berhubungan pribadi secara tetap dengan kedua Orang Tuanya;  
+2. Dalam hal terjadi pemisahan sebagaimana dimaksud pada ayat (1), Anak tetap berhak:  
+a. bertemu langsung dan berhubungan pribadi secara tetap dengan kedua Orang Tuanya;  
 b. mendapatkan pengasuhan, pemeliharaan, pendidikan dan Perlindungan untuk proses tumbuh kembang dari kedua Orang Tuanya sesuai dengan kemampuan, bakat, dan minatnya;  
 c. memperoleh pembiayaan hidup dari kedua Orang Tuanya; dan  
 d. memperoleh hak Anak lainnya.  
@@ -224,7 +240,8 @@ f. kejahatan seksual.
 #### Pasal 21
 
 1. Setiap Anak berhak memperoleh perlindungan dari sasaran penganiayaan, penyiksaan, atau penjatuhan hukuman yang tidak manusiawi.  
-2. Setiap Anak berhak untuk memperoleh kebebasan sesuai dengan ketentuan Peraturan Perundang-Undangan (3) Penangkapan, penahanan, atau tindak pidana penjara Anak hanya dilakukan sebagai upaya terakhir sesuai dengan ketentuan Peraturan Perundang-Undangan.  
+2. Setiap Anak berhak untuk memperoleh kebebasan sesuai dengan ketentuan Peraturan Perundang-Undangan.  
+3. Penangkapan, penahanan, atau tindak pidana penjara Anak hanya dilakukan sebagai upaya terakhir sesuai dengan ketentuan Peraturan Perundang-Undangan.  
 
 #### Pasal 22
 
@@ -259,9 +276,12 @@ Pemerintah Kabupaten
 
 #### Pasal 26
 
-1. Pemerintah Kabupaten wajib dan bertanggung jawab:a. menyelenggarakan Perlindungan Perempuan dan Anak;  
-b. melakukan upaya pencegahan terjadinya tindakan kekerasan terhadap Perempuan dan Anak;danc. menjamin terpenuhinya hak Perempuan dan Anak sebagaimana dimaksud dalam Pasal 5 sampai dengan Pasal 25.  
-2. Kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat dilaksanakan melalui:a. kebijakan Perlindungan Perempuan dan Anak dari tindak Kekerasan yang ditetapkan oleh pemerintah pusat;  
+1. Pemerintah Kabupaten wajib dan bertanggung jawab:  
+a. menyelenggarakan Perlindungan Perempuan dan Anak;  
+b. melakukan upaya pencegahan terjadinya tindakan kekerasan terhadap Perempuan dan Anak; dan  
+c. menjamin terpenuhinya hak Perempuan dan Anak sebagaimana dimaksud dalam Pasal 5 sampai dengan Pasal 25.  
+2. Kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat dilaksanakan melalui:  
+a. kebijakan Perlindungan Perempuan dan Anak dari tindak Kekerasan yang ditetapkan oleh pemerintah pusat;  
 b. menetapkan program, dan kegiatan Perlindungan terhadap Perempuan dan Anak dari tindak Kekerasan;  
 c. melakukan kerjasama dalam penyelenggaraan Perlindungan Perempuan dan Anak;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan Perlindungan Perempuan dan Anak;  
@@ -281,7 +301,8 @@ Orang Tua dan Keluarga wajib dan bertanggung jawab:
 a. mengasuh, memelihara, dan mendidik Anak;  
 b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. mencegah terjadinya perkawinan pada usia Anak;  
-d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada Anak.  e. mencegah terjadinya pelanggaran hak terhadap Perempuan dan Anak; dan  
+d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada Anak.  
+e. mencegah terjadinya pelanggaran hak terhadap Perempuan dan Anak; dan  
 f. melindungi Perempuan dan Anak dari tindakan kekerasan.  
 
 ## Bagian Ketiga Masyarakat
@@ -289,7 +310,8 @@ f. melindungi Perempuan dan Anak dari tindakan kekerasan.
 #### Pasal 28
 
 1. Masyarakat wajib dan bertanggung jawab untuk berperan serta dalam menyelenggarakan Perlindungan Perempuan dan Anak.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilaksanakan melalui:a. membentuk mitra Keluarga ditingkat kelurahan dan desa;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilaksanakan melalui:  
+a. membentuk mitra Keluarga ditingkat kelurahan dan desa;  
 b. membentuk unit Perlindungan Perempuan dan Anak didalam organisasi kemasyarakatan;  
 e. melakukan sosialisasi dan edukasi tentang hak Perempuan dan Anak  secara mandiri;  
 d. menegah terjadinya pelanggaran hak Perempuan dan Anak;  
@@ -297,7 +319,9 @@ e. melakukan pertolongan pertama kepada Perempuan dan Anak yang  menjadi korban 
 f. memberikan informasi atau melaporkan kepada instansi yang berwenang jika dilingkungannya terjadi tindakan Kekerasan terhadap Perempuan dan Anak.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilaksanakan oleh perseorangan atau kelompok, akademisi, pemerhati Perempuan dan Anak, perlindungan Anak terpadu berbasis masyarakat, organisasi kemasyarakatan/lembaga kemasyarakatan/ lembaga keagamaan/ lembaga lainnya yang sah.  
 
-# BAB IV PENYELENGGARAAN PERLINDUNGAN
+# BAB IV 
+
+### PENYELENGGARAAN PERLINDUNGAN
 
 ## Bagian Kesatu
 
@@ -314,7 +338,8 @@ Umum
 Penyelenggaraan Perlindungan Perempuan dan Anak dilaksanakan melalui upaya:  
 a. pencegahan;  
 b. pengurangan resiko kerentanan;  
-c. penanganan;dand. rehabilitasi.  
+c. penanganan; dan  
+d. rehabilitasi.  
 
 ## Bagian Kedua
 
@@ -358,7 +383,8 @@ c. rujukan ke layanan kesehatan.
 
 1. Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 31 huruf d merupakan pelayanan yang diberikan dalam rangka memulihkan kondisi traumatis korban.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1) melalui dukungan secara sosial.  
-3. Dukungan secara sosial sebagaimana dimaksud pada ayat (2) dilakukan melalui:a. bimbingan kerohanian kepada korban; dan  
+3. Dukungan secara sosial sebagaimana dimaksud pada ayat (2) dilakukan melalui:  
+a. bimbingan kerohanian kepada korban; dan  
 b. pemulihan kejiwaan korban.  
 
 #### Pasal 36
@@ -371,7 +397,8 @@ c. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pek
 #### Pasal 37
 
 1. Pelayanan reintegrasi sosial sebagaimana dimaksud dalam Pasal 31 huruf f bertujuan untuk mengembalikan korban kepada keluarga dan lingkungan sosialnya.  
-2. Pelayanan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan oleh Pemerintah Kabupaten dengan berkoordinasi kepada:a. instansi dan lembaga terkait baik pemerintah maupun non pemerintah; dan  
+2. Pelayanan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan oleh Pemerintah Kabupaten dengan berkoordinasi kepada:  
+a. instansi dan lembaga terkait baik pemerintah maupun non pemerintah; dan  
 b. lembaga kemasyarakatan dan/atau tokoh masyarakat setempat.  
 
 ## Bagian Ketiga Kabupaten Layak Anak
@@ -379,7 +406,8 @@ b. lembaga kemasyarakatan dan/atau tokoh masyarakat setempat.
 #### Pasal 38
 
 1. Pemerintah Kabupaten dalam rangka mewujudkan Kabupaten Layak Anak sebagaimana dimaksud dalam Pasal 26 ayat (2) huruf h mengacu pada kebijakan pengembangan Kabupaten Layak Anak yang telah ditetapkan.  
-2. Kebijakan pengembangan Kabupaten Layak Anak sebagaimana dimaksud ayat (1) memuat tentang:a. konsep Kabupaten Layak Anak;  
+2. Kebijakan pengembangan Kabupaten Layak Anak sebagaimana dimaksud ayat (1) memuat tentang:  
+a. konsep Kabupaten Layak Anak;  
 b. hak anak; dan  
 c. pendekatan pengembangan Kabupaten Layak Anak.  
 3. Ketentuan lebih lanjut mengenai Kabupaten Layak Anak diatur dengan Peraturan Bupati.  
@@ -396,7 +424,8 @@ c. pendekatan pengembangan Kabupaten Layak Anak.
 
 #### Pasal 40
 
-1. Pengawasan sebagaimana dimaksud dalam Pasal 39 dilaksanakan melalui pemantauan dan evaluasi terhadap:a. kebijakan/program Perlindungan Perempuan dan Anak; dan  
+1. Pengawasan sebagaimana dimaksud dalam Pasal 39 dilaksanakan melalui pemantauan dan evaluasi terhadap:  
+a. kebijakan/program Perlindungan Perempuan dan Anak; dan  
 b. penyelenggaraan kegiatan Perlindungan Perempuan dan Anak.  
 2. Hasil pemantauan dan evaluasi sebagaimana dimaksud pada ayat (1) disampaikan secara berkala kepada Bupati.  
 
@@ -407,7 +436,8 @@ b. penyelenggaraan kegiatan Perlindungan Perempuan dan Anak.
 #### Pasal 41
 
 Pembiayaan penyelenggaraan Perlindungan Perempuan dan Anak bersumber dari:  
-a. APBD; dan/atau (4) sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-Undangan.  
+a. APBD; dan/atau  
+b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-Undangan.  
 
 # BAB VII
 
@@ -415,9 +445,10 @@ a. APBD; dan/atau (4) sumber lain yang sah dan tidak mengikat sesuai dengan kete
 
 #### Pasal 42
 
-5. Pejabat Pegawai Negeri Sipil tertentu dilingkungan Pemerintah Kabupaten yang diberi wewenang khusus sebagai Penyidik untuk melakukan penyidikan tindak pidana sebagaimana diatur dalam ketentuan Peraturan Perundang-Undangan.  
-6. Penyidik sebagaimana dimaksud pada ayat (1) adalah Pegawai Negeri Sipil tertentu dilingkungan Pemerintah Kabupaten yang diangkat oleh pejabat yang berwenang sesuai dengan ketentuan Peraturan Perundang- Undangan.  
-1. Wewenang Penyidik sebagaimana dimaksud pada ayat (1) meliputi:a. menerima pelaporan atau pengaduan dari seorang tentang adanya tindak pidana;  
+1. Pejabat Pegawai Negeri Sipil tertentu dilingkungan Pemerintah Kabupaten yang diberi wewenang khusus sebagai Penyidik untuk melakukan penyidikan tindak pidana sebagaimana diatur dalam ketentuan Peraturan Perundang-Undangan.  
+2. Penyidik sebagaimana dimaksud pada ayat (1) adalah Pegawai Negeri Sipil tertentu dilingkungan Pemerintah Kabupaten yang diangkat oleh pejabat yang berwenang sesuai dengan ketentuan Peraturan Perundang- Undangan.  
+3. Wewenang Penyidik sebagaimana dimaksud pada ayat (1) meliputi:  
+a. menerima pelaporan atau pengaduan dari seorang tentang adanya tindak pidana;  
 b. melakukan tindakan pertama pada saat itu ditempat kejadian dan melakukan pemeriksaan;  
 c. menyuruh berhenti seorang tersangka dan memeriksa tanda pengenal diri tersangka;  
 d. melakukan penyitaan benda atau surat;  
@@ -426,7 +457,7 @@ f. memanggil orang untuk didengar dan diperiksa sebagai tersangka atau saksi;
 g. mendatangkan orang ahli yang diperlukan dalam hubungannya dengan pemeriksaan perkara;  
 h. mengadakan penghentian penyidikan setelah mendapat petunjuk dari Penyidik bahwa tidak terdapat cukup bukti atau peristiwa tersebut bukan merupakan tindak pidana dan selanjutnya melalui penyidik memberitahukan hal tersebut kepada Penuntut Umum, tersangka atau keluarganya;  
 i. mengadakan tindakan lain menurut hukum yang dapat dipertanggungjawabkan.  
-2. Penyidik sebagaimana dimaksud pada ayat (1) memberitahukan dimulainya penyidikan dan menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Kitab Undang- Undang Hukum Acara Pidana.  
+4. Penyidik sebagaimana dimaksud pada ayat (1) memberitahukan dimulainya penyidikan dan menyampaikan hasil penyidikannya kepada Penuntut Umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Kitab Undang- Undang Hukum Acara Pidana.  
 
 # BAB VIII
 
@@ -436,7 +467,9 @@ i. mengadakan tindakan lain menurut hukum yang dapat dipertanggungjawabkan.
 
 Setiap orang yang dengan sengaja membiarkan terjadinya kekerasan terhadap perempuan dan anak dan/atau tidak melaporkan terjadinya kekerasan terhadap perempuan dan anak dikenakan sanksi sesuai dengan ketentuan Peraturan Perundang-Undangan.  
 
-##### 'BAB IX KETENTUAN PENUTUP
+# BAB IX 
+
+## KETENTUAN PENUTUP
 
 #### Pasal 44
 
@@ -444,8 +477,8 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Musi Rawas Utara.  
 
-Ditetapkan di Muara Rupit pada tanggal 23 September 2019 Diundangkan di Muara Rupit pada tanggal 23 September 2019 SEKRETARIS DAERAH KABUPATEN MUSI RAWAS UTARA,
+Ditetapkan di Muara Rupit pada tanggal 23 September 2019 Diundangkan di Muara Rupit pada tanggal 23 September 2019 SEKRETARIS DAERAH KABUPATEN MUSI RAWAS UTARA,  
 
-##### ALWI ROHAM
+ALWI ROHAM  
 
-LEMBARAN DAERAH KABUPATEN MUSI RAWAS UTARA TAHUN 2019 NOMOR 9 NOMOR REGISTER PERATURAN DAERAH KABUPATEN MUSI RAWAS UTARA PROVINSI SUMATERA SELATAN NOMOR: (9-116/2019)
+LEMBARAN DAERAH KABUPATEN MUSI RAWAS UTARA TAHUN 2019 NOMOR 9 NOMOR REGISTER PERATURAN DAERAH KABUPATEN MUSI RAWAS UTARA PROVINSI SUMATERA SELATAN NOMOR: (9-116/2019)  
