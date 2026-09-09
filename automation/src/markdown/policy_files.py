@@ -16,7 +16,7 @@ from pathlib import Path
 from automation.src.constants import SMALL_SCALE_FILES
 
 # The curated corpus's naming convention.
-CLEANED_MD_SUFFIX = ".cleaned.md"
+CLEANED_MD_SUFFIX = ".md"
 
 # The same four benchmark policies `--small-scale` selects for the raw-text
 # path, as bare stems. Derived from the single source of truth rather than

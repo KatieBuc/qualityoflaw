@@ -1,0 +1,640 @@
+# WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+
+REGENT OF PASURUAN
+
+PROVINCE OF EAST JAVA
+
+# REGIONAL REGULATION OF PASURUAN REGENCY
+
+NUMBER 4 OF 2018
+
+CONCERNING
+
+WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+
+REGENT OF PASURUAN,
+
+Considering:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a. that women and children are creatures of God Almighty who need to receive respect and protection for their dignity as human beings;
+b. that women and children have a strategic position as assets of the nation, so that women's empowerment and child protection must be carried out in an integrated and sustainable manner through acceleration of the fulfillment and protection of the rights of women and children in their personal lives, family, society, nation and state;
+c. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on Women's Empowerment and Child Protection;
+
+In View of:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+2. Law Number 12 of 1950 concerning Regional Government of Regencies in East Java (State Gazette of 1950 Number 32) as amended by Law Number 2 of 1965 (State Gazette of the Republic of Indonesia of 1965 Number 19, Supplement to the State Gazette of the Republic of Indonesia Number
+2730. ;
+3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number
+5606. ;
+5. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);
+6. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4844);
+7. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635) as amended by Law Number 35 of 2014 (State Gazette of the Republic of Indonesia of 2014 Number 293, Supplement to the State Gazette of the Republic of Indonesia Number 5602);
+8. Law Number 21 of 2007 concerning the Eradication of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+9. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 64);
+12. Government Regulation Number 12 of 2017 concerning Guidance and Supervision of the Implementation of Regional Government (State Gazette of the Republic of Indonesia of 2017 Number 73, Supplement to the State Gazette of the Republic of Indonesia Number 6041);
+13. Presidential Regulation of the Republic of Indonesia Number 87 of 2014 concerning Implementing Regulations of Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2014 Number 199);
+14. Presidential Regulation Number 61 of 2016 concerning the Indonesian Child Protection Commission (State Gazette of the Republic of Indonesia of 2016 Number 135);
+15. Regulation of the State Minister for Women's Empowerment of the Republic of Indonesia Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;
+16. Regulation of the State Minister for Women's Empowerment . of the Republic of Indonesia Number 3 of 2008 Concerning Guidelines for the Implementation of Child Protection;
+17. Regulation of the Minister of Home Affairs Number 15 of 2008 concerning General Guidelines for the Implementation of Gender Mainstreaming in the Regions as amended by Regulation of the Minister of Home Affairs Number 67 of 2011 (State Gazette of the Republic of Indonesia of 2011 Number 927);
+18. Regulation of the State Minister for Women's Empowerment of the Republic of Indonesia Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Child Victims of Violence;
+19. Regulation of the State Minister for Women's Empowerment and Child Protection Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers (State Gazette of the Republic of Indonesia of 2010 Number 446);
+20. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 2 of 2011 concerning Guidelines for Handling Child Victims of Violence (State Gazette of the Republic of Indonesia of 2011 Number 42);
+21. Regulation of the State Minister for Women's Empowerment And Child Protection Number 19 of 2011 concerning Guidelines for the Empowerment of Women Victims of Violence (State Gazette of the Republic of Indonesia of 2011 Number 903);
+22. Joint Regulation of the Minister of Law and Human Rights and the Minister of Home Affairs Number 20 of 2012/Number: 77 of 2012 concerning Human Rights Parameters in the Formulation of Regional Legal Products;
+23. Regulation of the Minister of Women's Empowerment and Child Protection Number 6 of 2015 concerning the System for Women's Empowerment and Child Protection (State Gazette of the Republic of Indonesia of 2015 Number 615);
+24. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products;
+25. Regional Regulation of East Java Province Number 16 of 2012 concerning the Implementation of Protection of Women And Child Victims of Violence (Regional Gazette of East Java Province of 2013 Number 3 Series D, Supplement to the Regional Gazette of East Java Province Number 23);
+26. Regulation of the Governor of East Java Number 66 of 2013 concerning Guidelines for the Implementation of Gender Mainstreaming in the Development of East Java Province (Regional Gazette of East Java Province of 2013 Number 67 Series E);
+
+With Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF PASURUAN REGENCY
+
+and
+
+REGENT OF PASURUAN
+
+HAS DECIDED:
+
+To Establish:
+
+REGIONAL REGULATION CONCERNING WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:  
+1. Region is Pasuruan Regency.  
+2. Regional Government is the Regional Government of Pasuruan Regency.  
+3. Regent is the Regent of Pasuruan.  
+4. Regional Apparatus Organization hereinafter abbreviated as OPD is the Regional Apparatus Organization within the Government of Pasuruan Regency.  
+5. Child is a person who has not reached the age of 18 (eighteen) years, including a child still in the womb.  
+6. Woman is a person (human being) who can menstruate, become pregnant, give birth to children and breastfeed.  
+7. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.  
+8. Every person is an individual or corporation, whether a legal entity or not a legal entity.  
+9. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.  
+10. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts or other parties either temporarily or based on court determination.  
+11. Women's Empowerment is a systematic and planned effort to achieve gender equality and justice in family and community life.  
+12. Gender responsive is a policy, program, activity and budgeting that takes into account differences in the needs, experiences and aspirations of men and women.  
+13. Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.  
+14. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.  
+15. Service is an immediate activity and action carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.  
+16. Companion is a person or representative from an institution who has the expertise to provide assistance and has professional competence in their field.  
+17. Assistance is an activity and action carried out by a companion during the service process.  
+18. Institution is an Office/Agency/Bureau within the scope of regional government and/or non-governmental organization (NGO) that provides assistance.  
+19. Integrated Service Center for Women's Empowerment and Child Protection hereinafter referred to as PPTPPA, is an institution/functional work unit providing integrated services and assistance, counseling, referral and advocacy for women and children victims of violence.  
+20. Community is individuals, families, groups, social organizations and/or community organizations.  
+21. Child-Friendly Regency is a Regency that has a child rights-based development system through the integration of commitment and resources of government, community and business world that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights.  
+22. Child-Friendly Regency Task Force is a coordinating institution at the city level that coordinates policy efforts, programs and activities to realize a Child-Friendly Regency.  
+23. Prosperous Family Service Center hereinafter abbreviated as PUSYAN GATRA is a forum for activities or a series of family service activities through the provision of IEC, consultation, counseling, guidance and facilitation in order to help realize a small, happy and prosperous family of quality.  
+24. Family Learning Center hereinafter abbreviated as PUSPAGA is a learning place to improve the family's ability to care for and protect children and create referrals for parenting, education, health, protection for children and parents/families to support optimal child development.  
+25. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension in the planning, formulation, implementation, monitoring and evaluation of national development policies and programs.
+
+# CHAPTER II
+
+## PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+Women's Empowerment and Child Protection is implemented based on the principles of:  
+a. respect for human rights;  
+b. gender equality;  
+c. non-discrimination;  
+d. justice and legal certainty;  
+e. benefit;  
+f. participatory;  
+g. best interests of the child;  
+h. accountability; and  
+i. gender responsive.
+
+#### Article 3
+
+Women's Empowerment and Child Protection aims to:  
+a. improve the quality of life of women, children and family quality;  
+b. increase the institutional capacity of women's empowerment and child protection in the region, including the development of gender and child data systems; and
+c. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.
+
+#### Article 4
+
+In order to realize the objectives as referred to in Article 3 letter a, it is carried out through:  
+a. providing access for women and children to education, health and other strategic services;  
+b. encouraging the involvement of women and children in the development process;  
+c. providing knowledge, skills, character values, morals and family resilience; and  
+d. encouraging programs that can increase women's independence in the economic, political, legal, social, cultural and other strategic fields.
+
+#### Article 5
+
+In order to realize the objectives as referred to in Article 3 letter b, it is carried out through efforts to:  
+a. establish, develop and strengthen the capacity of women and child protection institutions including service units for complaints of violence against women and children as well as legal aid services;  
+b. improve the quality of management human resources;  
+c. strengthen the institutional capacity of PUG and Children in the region; and  
+d. strengthen and develop gender and child data systems.
+
+#### Article 6
+
+In order to carry out the objectives as referred to in Article 3 letter c, it is carried out through promotive, preventive, curative, and rehabilitative efforts in accordance with the provisions of Laws and Regulations.
+
+#### Article 7
+
+Promotive efforts as referred to in Article 6 are as follows:  
+a. strengthen coordination mechanisms and work networks between service units in efforts to handle cases of violence;  
+b. provide Communication, Information and Education (IEC) materials related to the prevention and handling of violence; and  
+c. conduct socialization, advocacy and social campaigns in the context of preventing and handling violence.
+
+#### Article 8
+
+Preventive efforts as referred to in Article 6 are as follows:  
+a. conduct legal awareness education for the community, especially for women and children;  
+b. develop massive and sustainable movements involving the community in actions to prevent and handle violence;  
+c. instill character values, morals, and family resilience; and  
+d. involve the role and participation of the community in women's empowerment and child protection.
+
+#### Article 9
+
+Curative efforts as referred to in Article 6 are as follows:  
+a. optimizing technical service units related to complaints of violence against women and children;  
+b. providing adequate facilities and infrastructure for handling complaints, health rehabilitation, social rehabilitation, legal aid, repatriation, social reintegration; and  
+c. carrying out handling of victims of crime and violence quickly, precisely and accurately by law enforcement officers.
+
+#### Article 10
+
+Rehabilitative efforts as referred to in Article 6 are as follows:  
+a. providing accompanying personnel for victims of crime and violence, which include among others psychologists, psychiatrists, clergy/spiritual companions, lawyers, medical personnel; and  
+b. strengthening work networks and coordination in the reintegration process as well as repatriation of victims to their families and/or social environment.
+
+# CHAPTER III
+
+PROTECTION, ADVANCEMENT, ENFORCEMENT AND FULFILLMENT OF THE RIGHTS OF WOMEN AND CHILDREN
+
+#### Article 11
+
+Every woman and child has basic rights as a human being which must be protected, advanced, enforced and fulfilled in accordance with the provisions of Laws and Regulations.
+
+#### Article 12
+
+Every woman has the right to:  
+a. live, sustain life and improve her standard of living;  
+b. live peacefully, safely, in peace, happily, prosperously physically and spiritually;  
+c. enjoy a good and healthy living environment;  
+d. live in a family within a legal marriage bond based on the provisions of Laws and Regulations;  
+e. obtain work according to ability, conditions and fair and just wages;  
+f. specifically for women with disabilities, have the right to obtain facilities and special treatment in public services;  
+g. play an active role in the field of politics and government in accordance with the potential and capabilities she possesses;  
+h. obtain information and legal services;  
+i. obtain services to increase her income; and  
+j. obtain other rights in accordance with her human dignity and based on the provisions of Laws and Regulations.
+
+#### Article 13
+
+Every child has the right to:  
+a. live, grow, develop and participate reasonably in accordance with human dignity and worth, and receive protection from acts of violence, exploitation, discrimination and neglect;  
+b. obtain his/her identity;  
+c. obtain other rights in accordance with his/her human dignity and based on the provisions of Laws and Regulations;  
+d. worship according to his/her religion, think, and express in accordance with the level of intelligence and age under the guidance of Parents or Guardians;  
+e. obtain education and teaching in the context of developing his/her personality and level of intelligence in accordance with interests and talents;  
+f. receive protection in educational units from sexual crimes and violence committed by educators, education personnel, fellow students, and/or other parties;  
+g. children with disabilities have the right to obtain special education and children who have excellence have the right to receive special education;  
+h. children with disabilities have the right to obtain rehabilitation, social assistance, and maintenance of social welfare standards; and  
+i. be cared for by his/her own parents, unless there are reasons and/or valid legal rules showing that the separation is in the best interests of the child and is a last consideration.
+
+# CHAPTER IV
+
+## OBLIGATIONS
+
+#### Article 14
+
+Every person is obliged to:  
+a. fulfill the rights of women as referred to in Article 12; and  
+b. fulfill the rights of children as referred to in Article 13.
+
+# CHAPTER V
+
+## INSTITUTIONAL ARRANGEMENTS
+
+## Part One
+
+General
+
+#### Article 15
+
+In the context of women's empowerment and child protection in the Region, the following are established:  
+a. Integrated Service Center, which may take the form of:  
+1\. PPTPPA;  
+2\. PUSYAN GATRA; and  
+3\. PUSPAGA.  
+b. Regional Child Protection Commission; and  
+c. Other institutions according to needs and/or provisions of Laws and Regulations.
+
+## Part Two
+
+### PPTPPA
+
+#### Article 16
+
+1. PPTPPA is positioned at the Regency level.  
+2. PPTPPA is under the coordination of the Regional Apparatus Organization or work unit that handles women's empowerment and child protection.  
+3. PPTPPA as referred to in paragraph (1) has the authority to assist in formulating policies on women's empowerment and child protection.  
+4. PPTPPA is one form of integrated service unit, which functions as:  
+a. an information center for women and children;  
+b. a service center for women and children victims of violence; and  
+c. an empowerment center for women and children.
+
+#### Article 17
+
+1. The management of PPTPPA at the regency level is determined by Regent's Decree.  
+2. The management of PPTPPA may come from elements of the Regional Government, professional organizations, academics, community leaders and other elements as needed.  
+3. Further provisions regarding PPTPPA are regulated by Regent's Regulation.
+
+## Part Three
+
+### PUSYAN GATRA
+
+#### Article 18
+
+1. PUSYAN GATRA is positioned at the Regency level.  
+2. PUSYAN GATRA is under the coordination of the Regional Apparatus Organization or work unit that handles family welfare resilience and mobilization.  
+3. PUSYAN GATRA as referred to in paragraph (1) has the authority to assist in formulating family welfare development policies.  
+4. PUSYAN GATRA is one form of integrated service unit, which functions as:  
+a. Information and Documentation services for KKB (population and family planning);  
+b. a family counseling center; and  
+c. a family economic business development center.
+
+#### Article 19
+
+1. The management of PUSYAN GATRA at the regency level is determined by Regent's Decree.  
+2. The management of PUSYAN GATRA may come from elements of the Regional Government, professional organizations, academics, community leaders and other elements as needed.  
+3. Further provisions regarding PUSYAN GATRA are regulated by Regent's Regulation.
+
+## Part Four
+
+### PUSPAGA
+
+#### Article 20
+
+1. PUSPAGA is positioned at the Regency level.  
+2. PUSPAGA is under the coordination of the Regional Apparatus Organization or work unit that handles women's empowerment and child protection.  
+3. PUSPAGA as referred to in paragraph (1) is a form of violence prevention service for children that has specific programs including:  
+a. education/parenting;  
+b. parenting skills;  
+c. skills to protect children;  
+d. ability to increase children's participation in the family; and  
+e. counseling for children and families.
+
+#### Article 21
+
+1. The management of PUSPAGA at the regency level is determined by Regent's Decree.  
+2. The management of PUSPAGA may come from elements of the Regional Government, professional organizations, academics, community leaders and other elements as needed.  
+3. Further provisions regarding PUSPAGA are regulated by Regent's Regulation.
+
+# CHAPTER VI
+
+## GENDER MAINSTREAMING
+
+#### Article 22
+
+1. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.  
+2. Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, socio-cultural, defense and national security activities, and equality in enjoying the results of such development.  
+3. Gender justice is a process to be fair to men and women.
+
+#### Article 23
+
+1. Gender Mainstreaming aims to ensure the planning, formulation, implementation, monitoring and evaluation of gender-perspective national development policies and programs in order to realize gender equality and justice in family, community, national and state life.
+2. Gender Mainstreaming covers all planning, formulation, implementation, monitoring, and evaluation of national development policies and programs.
+3. Further provisions regarding Gender Mainstreaming as referred to in paragraph (1) shall be regulated by Regent Regulation.
+
+# CHAPTER VII
+
+## CHILD-FRIENDLY REGENCY
+
+#### Article 24
+
+1. The Regional Government together with the community and business sector in an integrated manner shall ensure the fulfillment of children's rights so that they can live, grow, develop and participate optimally in accordance with human dignity through the development of a Child-Friendly Regency.
+2. Further provisions regarding the development of a Child-Friendly Regency as referred to in paragraph (1) shall be regulated by Regent Regulation.
+
+# CHAPTER VIII
+
+## FUNDING
+
+#### Article 25
+
+Funding for the implementation of policies, programs and activities for women's empowerment and child protection in the Region shall be sourced from:
+a. Regional Revenue and Expenditure Budget; and
+b. other legal and non-binding sources.
+
+# CHAPTER IX
+
+## PARTICIPATION OF THE COMMUNITY AND BUSINESS SECTOR
+
+#### Article 26
+
+1. The Community and Business Sector may participate in activities for the implementation of women's empowerment.
+2. The participation of the community and Business Sector as referred to in paragraph (1) may be carried out by individuals, community groups, community organizations and Companies.
+3. The participation of the community and Business Sector as referred to in paragraph (1) may take the form of:
+a. cooperation;
+b. active role in policy formulation; and
+c. complaints/reports.
+4. Further provisions regarding the procedures for participation of the community and Business Sector as referred to in paragraph (3) shall be regulated in a Regent Regulation.
+
+#### Article 27
+
+1. The Community and Business Sector may participate in the fulfillment of children's rights including:
+a. prevention efforts;
+b. risk reduction and handling of child victims of violence;
+c. exploitation; and
+d. abuse and neglect, both through individual and institutional efforts.
+2. The participation of the community and Business Sector as referred to in paragraph (1), shall be realized through support for the fulfillment of children's rights including:
+a. providing information and or reporting any situation of vulnerability and violence that is known;
+b. facilitating or conducting prevention and risk reduction activities;
+c. providing protection services for children who become victims;
+d. assisting advocacy for victims and/or the community regarding the handling of cases of violence, exploitation, abuse and neglect of children;
+e. assisting the process of repatriation, rehabilitation and social reintegration;
+f. support in the process of fulfilling other children's rights;
+g. establishment of integrated child service centers;
+h. provision of education scholarships;
+i. provision of health cost assistance; and
+j. provision of legal aid to children experiencing legal problems.
+3. The participation of the community and Business Sector as referred to in paragraph (2) may be carried out by individuals, families, community organizations and companies.
+4. Further provisions regarding the procedures for participation of the community and Business Sector as referred to in paragraph (3) shall be regulated in a Regent Regulation.
+
+# CHAPTER X
+
+## MONITORING, EVALUATION AND REPORTING
+
+#### Article 28
+
+Monitoring shall be conducted periodically and in an integrated manner every 6 (six) months by the Regional Apparatus Organization that administers governmental affairs in the field of women's empowerment and child protection in coordination with Regional Apparatus Organizations or other units that handle women's empowerment and child protection in the region.
+
+#### Article 29
+
+Evaluation of the implementation of the women's empowerment and child protection system shall be conducted by the Regional Apparatus Organization that administers governmental affairs in the field of women's empowerment and child protection at least 1 (one) time per year.
+
+#### Article 30
+
+Reporting on the implementation of the women's empowerment and child protection system shall be conducted at least 1 (one) time per year and coordinated by Regional Apparatus Organizations or other units that handle women's empowerment and child protection to the Regional Apparatus Organization that administers affairs in the field of Women's Empowerment and Child Protection through the Secretary of the Regional Apparatus Organization.
+
+# CHAPTER XI
+
+## ADMINISTRATIVE SANCTIONS
+
+#### Article 31
+
+1. Any person who does not carry out obligations as referred to in Article (14) shall be subject to administrative sanctions.
+2. Administrative sanctions as referred to in paragraph (1) shall be in the form of:
+a. Oral warning;
+b. Written warning;
+c. Temporary suspension of activities;
+d. Permanent suspension of activities;
+e. Temporary revocation of permit;
+f. Permanent revocation of permit;
+g. Administrative fine; and/or
+h. Other administrative sanctions in accordance with the provisions of laws and regulations.
+3. Further provisions regarding administrative sanctions shall be regulated in a Regent Regulation.
+
+# CHAPTER XII
+
+## CLOSING PROVISIONS
+
+#### Article 32
+
+Regent Regulations as implementation of this Regional Regulation shall be stipulated no later than 1 (one) year after this Regional Regulation is promulgated.
+
+#### Article 33
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Pasuruan Regency.
+
+Stipulated in Pasuruan
+
+On 26 September 2018
+
+REGENT OF PASURUAN,
+
+sgd,
+
+M. IRSYAD YUSUF.
+
+Promulgated in Pasuruan
+
+On 26 September 2018
+
+REGIONAL SECRETARY
+
+OF PASURUAN REGENCY,
+
+sgd,
+
+AGUS SUTIADJI
+
+REGIONAL GAZETTE OF PASURUAN REGENCY YEAR 2018 NUMBER 4 REGISTRATION NUMBER OF REGIONAL REGULATION OF PASURUAN REGENCY NUMBER 260-4/2018
+
+# ELUCIDATION OF REGIONAL REGULATION OF PASURUAN REGENCY
+
+NUMBER 4 OF 2018 CONCERNING WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+
+##### I. GENERAL
+
+The State as the holder of the mandate of the people's sovereignty is responsible for carrying out development to achieve the welfare of the people. This is as mandated by the constitution which has become a national consensus for the Indonesian nation. The 1945 Constitution is the fundamental legal foundation (Fundamental Norm) in formulating the direction and basis for social, political, and state legal policy-making.
+
+The State as an organization certainly always has objectives as set forth in the fourth paragraph of the preamble to the 1945 Constitution of the Republic of Indonesia which states: "Furthermore, to form a Government of the State of the Republic of Indonesia which protects the entire Indonesian nation and all Indonesian territory and to promote general welfare, educate the life of the nation, and participate in implementing world order based on freedom, eternal peace and social justice." Considering the fourth paragraph of the Preamble to the 1945 Constitution of the Republic of Indonesia, it is clearly stated that this state was formed with the aim of protecting the entire nation and all Indonesian territory as well as improving the welfare of the people. This is also the purpose of the formation of regional government which aims to accelerate the realization of community welfare through improvement, service, empowerment, and community participation, as well as increasing regional competitiveness by taking into account the principles of democracy, equity, justice, privileges and specificities of a region within the system of the Unitary State of the Republic of Indonesia.
+
+The objectives of the Indonesian State explicitly reflect several national objectives of the Indonesian nation. The objectives contained in this fourth paragraph constitute the constitutional promise of the Indonesian state to all its people and at the same time become the basic rights of the people. Therefore, the State is obliged to make various efforts in order to fulfill the constitutional rights of its citizens.
+
+One of the four objectives is to protect the entire Indonesian nation and all Indonesian territory as well as promote general welfare. This means that the Indonesian nation must be free from all forms of actions that can harm its citizens, efforts to maintain conduciveness are carried out in order to create a prosperous and beneficial social life without regard to certain groups and classes, because the meaning of the entire nation is a reflection for all Indonesian people without exception, whether men, women or children.
+
+The protection that is the responsibility of the State is not only for every person both in the individual and group sense along with the cultural identity attached to them, but this protection must also be interpreted as an effort to promote general welfare for the entire nation. So there is a need for steps that must be taken by the State to achieve the above objectives by empowering its people, especially those who have been considered weak and marginalized. Based on these considerations, the Pasuruan Regency Government needs to establish a Regional Regulation on Women's Empowerment and Child Protection as a concrete step in order to protect the entire nation and promote general welfare.
+
+From the above description, it is clearly explained that based on Article 18 of the 1945 Constitution of the Republic of Indonesia, regional governments have the authority to make regulations related to regional needs in order to accommodate regional potential and local wisdom according to their respective local needs. Meanwhile, Pasuruan Regency has a distinctive character as a santri city that is thick with the values of its religious teachings. From the perspective of Islam, the empowerment of women and protection of children is highly upheld, even when Islam was first revealed to the Prophet Muhammad SAW. The condition of the Arab nation at that time greatly looked down on the status of women. This can be proven by the custom of women as wives being able to be inherited by their children if their father died. Furthermore, the fate of children at that time seemed to have no protection whatsoever for the rights given, children born with female gender would be killed by being buried alive because they were considered a disgrace to their parents. Starting from this condition, it is necessary to establish a regulation that reflects the values of women's empowerment and child protection.
+
+Women's empowerment and child protection is a problem that needs to receive special attention from the Pasuruan Regency regional government to immediately create a legal instrument to oversee and ensure the guarantee of welfare and security for women and children.
+
+Therefore, a legal umbrella in the form of a Regional Regulation is needed that is capable of accommodating all issues related to women's empowerment and child protection, capable of providing integrated services in a holistic and comprehensive manner, and explicitly giving a mandate to institutions to coordinate policies and supervision, and a mandate to institutions to provide services. In addition, Regional Regulations can also open the involvement of non-governmental institutions and the community as well as the business world to play a broad role.
+
+The implementation of women's empowerment and child protection in Pasuruan Regency does not yet have a strong legal basis in the form of regional regulations. Therefore, activities related to women's empowerment and child protection are carried out optimally in order to provide protection for women and children.
+
+In connection with this, the Regional Regulation on women's empowerment and child protection is expected to anticipate and overcome all problems related to women's empowerment and child protection programs as well as become a juridical solution for regulations in Pasuruan Regency, so that it can provide protection and services for women and children in an integrated and comprehensive manner.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Letter a  
+What is meant by "the principle of respect for human rights" contains the understanding that the Republic of Indonesia recognizes and upholds human rights and fundamental human freedoms as rights that are inherently attached to and inseparable from human beings, which must be protected, respected, and upheld for the enhancement of human dignity, welfare, happiness, and intelligence as well as justice;  
+
+Letter b  
+What is meant by "the principle of gender equality" contains the understanding that every policy made must be based on equality of conditions and positions that reflect harmonious, aligned and balanced partnerships between men and women in access, participation, control and equal and fair benefits from development outcomes;  
+
+Letter c  
+What is meant by "the principle of non-discrimination" contains the understanding that every policy made must not differentiate, restrict, harass, or exclude directly or indirectly based on human differences on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs, which result in the reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural fields, and other aspects of life;  
+
+Letter d  
+What is meant by "the principle of justice and legal certainty" contains the understanding that every person has the right to recognition, guarantee, protection and fair legal treatment as well as obtaining legal certainty and equal treatment before the law;  
+
+Letter e  
+What is meant by benefit contains the understanding that the regulation of women's empowerment and child protection policies must provide the greatest benefit for the welfare of society Letter f What is meant by participation contains the understanding that the entire process of policy formation and implementation must pay attention to the active participation of all components of society so as to obtain equal benefits in all fields of development and life;  
+
+Letter g  
+What is meant by the best interests of the child contains the meaning that in all actions concerning children carried out by the government, society, legislative bodies, and judicial bodies, the best interests of the child must be the primary consideration;  
+
+Letter h  
+What is meant by accountability concerns that the implementation of women's empowerment and child protection must be accountable and is part of the accountability for the implementation of government.  
+
+Letter i  
+What is meant by gender responsive concerns policies, programs, activities and budgeting that take into account differences in the needs, experiences and aspirations of men and women.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Letter a  
+Sufficiently clear.  
+
+Letter b  
+what is referred to as manager is the manager of PUSYAN GATRA and PUSPAGA Letter c Sufficiently clear.  
+
+Letter d  
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear
+
+#### Article 8
+
+Sufficiently clear
+
+#### Article 9
+
+Sufficiently clear
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear
+
+#### Article 17
+
+The management of PPTPPA as referred to in Article 17 refers to the Regulation of the Minister of PPPA Number 6 of 2015 concerning the System for Women's Empowerment and Child Protection.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+The development of Child-Friendly Regency as referred to has been regulated in Regent Regulation Number 15 of 2015 concerning the Establishment of Child-Friendly Regency and Regent Decree Number 050/120/HK/424.014/2017 concerning the Establishment of KLA Task Force, KLA Advocacy Team and Children's Forum.
+
+#### Article 25
+
+Other lawful and non-binding sources may be obtained from CSR assistance, business entities or other institutions in accordance with the provisions of Laws and Regulations.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+#### Article 32
+
+Sufficiently clear.
+
+#### Article 33
+
+Sufficiently clear.  
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF PASURUAN REGENCY NUMBER 306

@@ -1,0 +1,633 @@
+# BUPATI DONGGALA PROVINSI SULAWESI TENGAH
+
+# PERATURAN DAERAH KABUPATEN DONGGALA NOMOR 5 TAHUN 2014
+
+# TENTANG
+
+# PERLINDUNGAN BAGI PEREMPUAN DAN ANAK
+
+# DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+# BUPATI DONGGALA.
+
+Menimbang:
+
+a. bahwa perempuan dan anak merupakan ciptaan Tuhan Yang Maha Esa yang menjadi unsur penting dari masyarakat dan bangsa Indonesia;
+
+b. bahwa perempuan Indonesia mempunyai peran penting dalam kegiatan kemasyarakatan, pembangunan dan kekeluargaan serta berkewajiban memelihara, melindungi dan membesarkan anak- anak bangsa Indonesia untuk tumbuh dan berkembang sebagai generasi penerus bangsa;
+
+c. bahwa anak-anak Indonesia merupakan sumber daya manusia Indonesia yang kelak akan menjadi pelaku dalam semua bidang kehidupan bermasyarakat dan bernegara;
+
+d. bahwa dalam kehidupan masyarakat seringkali perempuan dan anak di Kabupaten Donggala mendapatkan kekerasan atau perlakuan yang kurang menyenangkan sehingga dipandang penting untuk melindunginya;
+
+e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, dan huruf d dibentuk Peraturan Daerah
+
+Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.
+
+1. Undang-Undang Nomor 29 Tahun 1959 Tentang Pembentukan daerah Tingkat II Di Sulawesi Dongggala (Lembaran Negara Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);
+
+2. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Nomor 3143);
+
+3. Undang-Undang Nomor 6 Tahun 1974 tentang Ketentuan- Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 1974 Nornor 53, Tambahan Lembaran Negara Republik Indonesia Nomor 3039) :
+
+4. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);
+
+5. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskriminasi terhadap Perempuan (Convention on The Elimination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3668);
+
+6. Undang-Undang Nomor 20 Tahun 1999 tentang Pengesahan Konvensi ILO Nomor 138 mengenai Usia Minimum Anak Diperbolehkan Bekerja (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 56, Tambahan Lembaran Negara Republik Indonesia Nomor 3835);
+
+7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3941);
+
+8. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235);
+
+9. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);
+
+10. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);
+
+11. Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan Saksi dan Korban (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik Indonesia Nomor 4635);
+
+12. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720);
+
+13. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);
+
+14. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 64);
+
+15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan antara Pemerintah, Pemerintahan Daerah Provinsi, Dan Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82; Tambahan Lembaran Negara Republik
+
+Indonesia Nomor 4737); 16. Undang-Undang Nomor Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Republik Indonesia Negara Nomor 4419); 17. Keputusan Presiden Nomor 33 Tahun 1990 tentang Pengesahan Konvensi Hak Anak;
+
+# Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN DONGGALA dan BUPATI DONGGALA,
+
+MEMUTUSKAN:
+
+Menetapkan: PERATURAN DAERAH KABUPATEN DONGGALA TENTANG PERLINDUNGAN BAGI PEREMPUAN DAN ANAK.
+
+## BAB I KETENTUAN UMUM
+
+## Pasal 1
+
+Dalam Peraturan Daerah ini, yang dimaksud dengan:
+
+1. Bupati adalah Bupati Donggala.
+
+2. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD, adalah lembaga perwakilan rakyat daerah Kabupaten Donggala sebagai unsur penyelenggara pemerintahan daerah.
+
+3. Pemerintah Daerah adalah Bupati Donggala dan Perangkat Daerah sebagai unsur penyelenggara pemerintahan daerah.
+
+4. Satuan Kerja Perangkat Daerah yang selanjutnya disingkat SKPD, adalah satuan kerja perangkat daerah Kabupaten Donggala yang mem biddingi kepentingan perempuan dan anak.
+
+5. Unit Kerja Perangkat Daerah yang selanjutnya disingkat UKPD, adalah unit kerja perangkat daerah yang berada dalam SKPD Kabupaten Donggala.
+
+6. Anak adalah seseorang yang belum berusia 18 tahun, termasuk anak yang ada dalam kandungan.
+
+7. Perempuan adalah manusia dewasa berjenis kelamin perempuan dan orang yang oleh hukum diakui sebagai perempuan.
+
+8. Pencegahan adalah kegiatan yang dilakukan untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan anak.
+
+9. Perlindungan adalah segala tindakan pelayanan untuk memenuhi hak-hak, serta menjamin dan melindungi hak-hak korban tindak kekerasan.
+
+10. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi anak dan hak-haknya agar dapat hidup, tumbuh, berkembang, dan berpartisipasi, secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi.
+
+11. Perlindungan perempuan adalah upaya yang ditujukan untuk melindungi perempuan dan hak-haknya agar mendapatkan rasa aman dari tindak kekerasan.
+
+12. Kekerasan adalah setiap perbuatan yang berakibat atau yang mengakibatkan kesengsaraan dan penderitaan baik fisik, seksual, psikologis termasuk penelantaran, ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan secara sewenang-wenang, baik yang terjadi di depan umum atau dalam kehidupan pribadi.
+
+13. Kekerasan fisik adalah setiap perbuatan yang mengakibatkan rasa sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan atau pingsan dan/ atau menyebabkan kematian.
+
+14. Kekerasan psikologis adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak peraya atau penderitaan psikologis berat pada seseorang.
+
+15. Kekerasan seksual adalah setiap perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, baik dengantidak wajar maupun tidak disuka dengan orang lain dengan tujuan komersial dan/ atau tujuan tertentu.
+
+16. Korban tindak kekerasan yang selanjutnya disebut korban adalah perseorangan atau kelompok orang yang mengalami penderitaan baik fisik, mental maupun emosional, kerugian ekonomi, atau mengalami pengabaian, pengurangan atau perampasan hak-hak dasarnya, sebagai akibat pelanggaran hak asasi manusia (HAM), atau tindak pidana serta tindak kekerasan yang dilakukan baik oleh aparat negara atau oleh negara atau aparat pemerintah daerah atauoleh orang perorangan.
+
+17. Pelayanan adalah kegiatan dan tindakan segera yang dilakukan oleh tenaga Profesional sesuai dengan profesi masing-masing berupa konseling, terapi dan advokasi guna penguatan danpemulihan korban kekerasan.
+
+18. Pendampingan adalah kegiatan dan tindakan yang dilakukan oleh pendamping selama proses pelayanan.
+
+19. Pemulangan adalah upaya pengembalian korban tindak kekerasan kepada pihak keluarga, keluarga pengganti, ataumasyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhannya.
+
+20. Lembaga adalah lembaga swadaya masyarakat (LSM) yang melakukan pendampingan.
+
+21. Rencana Aksi Daerah adalah merupakan landasan dan pedomanbagi dinas terkait, dan masyarakat, dalam rangka melaksanakan kegiatan penyelenggaraan pencegahan dan perlindungan terhadap perempuan dan anak korban tindak kekerasan.
+
+22. Masyarakat adalah perseorangan, keluarga, kelompok, organisasi sosial dan/ atau organisasi kemasyarakatan.
+
+23. Keluarga adalah orang yang mempunyai hubungan darah dalam garis lurus ke atas atau ke bawah dan garis menyamping sampai derajat ketiga, atau yang mempunyai hubungan perkawinan,atau orang yang menjadi tanggungan perempuan dan/ atauanak.
+
+24. Orang tua adalah ayah dan/ atau ibu kandung, atau ayah dan/atau ibu tiri, atau ayah dan/ atau ibu angkat.
+
+25. Pengawasan adalah kegiatan mengamati, mendengar, memeriksa, mengkaji, menilai pelaksanaan perlindungan perempuan dan anak.
+
+## BAB II ASAS, TUJUAN DAN RUANG LINGKUP
+
+## Pasal 2
+
+Penyelenggaraan perlindungan perempuan dan anak dilaksanakan berdasarkan asas:
+
+a. penghormatan terhadap hak-hak perempuan dan anak;
+
+b. non diskriminasi;
+
+c. keadilan.
+
+## Pasal 3
+
+Tujuan perlindungan perempuan dan anak untuk:
+
+a. memberikan dan meningkatkan rasa aman bagi perempuan dan anak;
+
+b. membantu mencegah tindak kekerasan terhadap perempuan dan anak;
+
+c. membantu mencegah kegiatan eksploitasi terhadap perempuan dan anak.
+
+d. memberikan pelayanan kepada perempuan dan anak dalam menghadapi permasalahan.
+
+e. membantu meningkatkan kualitas hidup anak.
+
+## Pasal 4
+
+Ruang lingkup pengaturan perlindungan bagi perempuan dan anak meliputi:
+
+a. Hak-hak perempuan dan anak;
+
+b. Tugas dan wewenang
+
+c. Penanganan tindak kekerasan;
+
+e. Pembiayaan;
+
+f. Pengawasan;
+
+g. Peran serta masyarakat.
+
+## BAB III PEMENUHAN HAK-HAK ANAK DAN PEREMPUAN
+
+## Bagian Kesatu Hak-Hak Anak
+
+## Pasal 5
+
+Dalam penyelenggaraan perlindungan anak di daerah, anak berhak atas:
+
+a. untuk dapat hidup, tumbuh dan berkembang dan berpartisipasi secara wajar sesuai dengan harkat dan martabat kemanusiaan serta mendapat pembinaan dan perlindungan dari kekerasan, kelalaian dan diskriminasi;
+
+b. atas suatu akta kelahiran yang sah diperoleh dan/atau diusahakan oleh orang tuanya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;
+
+c. untuk beribadah menurut agamanya, berpikir dan berekspresi sesuai dengan tingkat kecerdasan dan usianya dalam bimbingan orang tua;
+
+d. untuk mengetahui, dibesarkan dan diasuh oleh orang tuanya sendiri;
+
+e. dalam hal karena suatu sebab orang tua tidak dapat menjamin tumbuh kembang anak atau anak dalam keadaan terlantar maka anak berhak untuk diasuh atau diangkat sebagai anak asuh atau anak angkat oleh orang lain sesuai ketentuan peraturan perundang-undangan;
+
+f. untuk memperoleh pelayanan kesehatan dan jaminan sosial sesuai dengan kebutuhan fisik, mental spritual dan sosial;
+
+g. memperoleh pendidikan dan pengajaran sesuai kemampuan, minat dan bakatnya;
+
+h. menyatakan pendapat dan didengar pendapatnya;
+
+i. beristirahat dan memanfaatkan waktu untuk mengembangkan diri dan kemampuannya;
+
+j. mendapat perlindungan dari keluarga, masyarakat dan Pemerintah Daerah terhadap perlakuan diskriminasi dan eksploitasi baik secara ekonomi maupun sosial, penelantaran, kekejaman, kekerasan, penganiayaan, ketidak adilan dan perlakuan salah lainnya;
+
+k. untuk mendapatkan kembali pendidikan formal atau non formal bagi anak putus sekolah;
+
+1. mendapatkan ASI (Air Susu Ibu) ekslusif sebagai prioritas;
+
+m.untuk mendapatkan pembinaan.
+
+n. memperoleh hak-hak lainnya sesuai dengan ketentuan peraturan perundang- undangan.
+
+## Bagian Kedua Hak-Hak Perempuan
+
+## Pasal 6
+
+Dalam penyelenggaraan perlindungan perempuan di daerah, perempuan berhak atas:
+
+a. kebutuhan dasar;
+
+b. rasa nyaman;
+
+d. rasa aman;
+
+e. pelayanan kesehatan maksimal dalam menghadapi tindak kekerasan; f. layanan pendampingan, bantuan hukum dan bimbingan rohani dalam menghadapi
+
+g. kerahasiaan atas masalah yang dihadapi.
+
+# BAB IV TUGAS DAN WEWENANG
+
+Bagian Kesatu Tugas
+
+Paragraf 1 Tugas Pemerintah dalam Penyelenggaraan Perlindungan Anak
+
+## Pasal 7
+
+Tugas Pemerintah Daerah dalam Penyelenggaraan Perlindungan Anak meliputi: a. penyusunan rencana strategis Perlindungan Anak jangka panjang, menengah, dan pendek sebagai bagian yang terintegrasi dengan Dokumen Perencanaan Pembangunan;
+
+b. pelaksanaan dan pengawasan Penyelenggaran Perlindungan Anak.
+
+## Pasal 8
+
+Pemerintah daerah memberikan pembinaan dan bimbingan bagi anak untuk memeluk agama sesuai dengan agama dan keyakinan orang tuanya.
+
+## Pasal 9
+
+(1) Pemerintah daerah menyediakan fasilitas dan menyelenggarakan upaya kesehatan yang komprehensif bagi anak, agar setiap anak memperoleh derajat kesehatan yang optimal sejak dalam kandungan melalui pusat kesehatan masyarakat dan rumah sakit.
+
+(2) Upaya kesehatan yang komprehensif sebagaimana dimaksud dalam ayat (1) meliputi upaya promotif, preventif, kuratif, dan rehabilitatif, baik untuk pelayanan kesehatan dasar maupun rujukan.
+
+(3) Upaya kesehatan yang komprehensif sebagaimana dimaksud dalam ayat (2) diberikan secara gratis bagi keluarga yang tidak mampu atau keluarga miskin.
+
+(4) Pemerintah daerah melaksanakan kegiatan untuk menunjang pemberian ASI kepada bayi.
+
+## Pasal 10
+
+(1) Pemerintah daerah menyelenggarakan pendidikan dasar dan menengah bagi semua anak.
+
+(2) Dalam menyelenggarakan pendidikan sebagaimana dimaksud pada ayat (1) Pemerintah daerah wajib memberikan bantuan biaya pendidikan atau pendidikan gratis bagi peserta didik yang berasal dari keluarga yang tidak mampu atau keluarga miskin atau anak terlantar.
+
+## Pasal 11
+
+(1) Pemerintah daerah wajib menampung dan mengasuh anak yang ditelantarkan oleh orang tuanya dan/ atau keluarganya.
+
+(2) Penampungan dan/ atau pengasuhan anak sebagaimana dimaksud pada ayat (1) dapat dilakukan melalui kerja sama dengan lembaga, yayasan sosial atau panti asuhan.
+
+## Pasal 12
+
+Pemerintah daerah memberikan perlindungan khusus bagi anak korban kerusuhan atau korban bencana berupa:
+
+a. pemenuhan kebutuhan dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan, kesehatan, belajar dan berekreasi, jaminan keamanan, dan persamaan perlakuan; dan
+
+b. pemenuhan kebutuhan khusus bagi anak yang menyandang cacat dan anak yang mengalami gangguan psikososial.
+
+## Pasal 13
+
+(1) Pemerintah daerah melakukan pencegahan atas upaya transplantasi organ tubuh anak kepada pihak lain dan tindakan kekerasan terhadap anak-anak.
+
+(2) Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk kegiatan yang meliputi:
+
+a. Deteksi dan intervensi dini;
+
+b. Sosialisasi dan edukasi;
+
+c. Seminar atau lokakarya;
+
+d. Penyiapan sistim informasi yang efektif; e. Kerja sama dengan lembaga yang mempunyai kegiatan dalam pencegahan tindak kekerasan terhadap anak.
+
+## Pasal 14
+
+Pemerintah daerah berkewajiban membantu penanganan tindak kekerasan terhadap anak.
+
+## Paragraf 2 Tugas Pemerintah dalam Penyelenggaraan Perlindungan Perempuan
+
+## Pasal 15
+
+Tugas Pemerintah Daerah dalam Penyelenggaraan Perlindungan Perempuan meliputi: a. penyusunan rencana strategis Perlindungan Perempuan jangka panjang, menengah, dan pendek sebagai bagian yang terintegrasi dengan Dokumen Perencanaan Pembangunan;
+
+b. pelaksanaan dan pengawasan Penyelenggaran Perlindungan perempuan.
+
+## Pasal 16
+
+(1) Pemerintah daerah melakukan pencegahan atas tindakan kekerasan terhadap perempuan.
+
+(2) Upaya pencegahan atas tindak kekerasan terhadap perempuan dilakukan dengan bentuk kegiatan yang meliputi:
+
+a. Rencana Aksi Daerah
+
+b. Sosialisasi;
+
+c. Seminar atau lokakarya;
+
+d. Penyiapan sistim informasi yang efektif;
+
+e. Kerjasama dengan lembaga yang mempunyai kegiatan dalam pencegahan tindak kekerasan terhadap perempuan.
+
+## Pasal 17
+
+Pemerintah daerah wajib membantu penanganan tindak kekerasan terhadap perempuan.
+
+## Bagian Kedua Wewenang
+
+## Pasal 18
+
+(1) Bupati dapat melakukan kerjasama dengan pihak terkait dalam membantu upaya penampungan dan/atau pengasuhan anak terlantar atau penanganan tindak kekerasan terhadap terhadap perempuan dan anak.
+
+(2) Bupati dalam melakukan kerjasama sebagaimana dimaksud pada ayat (1) dapat menugaskan kepada pejabat dalam lingkungan pemerintah daerah.
+
+(2) Pejabat yang ditugaskan sebagaimana dimaksud pada ayat (2) bertindak untuk dan atas nama Bupati.
+
+(3) Penugasan kepada pejabat sebagaimana dimaksud pada ayat (2) ditetapkan dengan Keputusan Bupati.
+
+## Pasal 19
+
+(1) Pihak terkait yang dilakukan kerjasama oleh Bupati sebagaimana dimaksud dalam Pasal 14 ayat (1) antara lain:
+
+a. Organisasi sosial kemasyarakatan, lembaga atau panti asuhan yang mempunyai kegiatan terkait dengan perlindungan, pengasuhan, penampungan, bimbingan, pemberdayaan anak dan/atau perempuan;
+
+b. Pekerja sosial atau relawan;
+
+c. Advokat; dan
+
+d. Rohaniawan
+
+(2) Kerja sama sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk perjanjian kerja sama.
+
+# BAB V PENANGANAN TINDAK KEKERASAN TERHADAP PEREMPUAN DAN ANAK
+
+## Pasal 20
+
+(1) Pemerintah daerah wajib menyiapkan tenaga medis di pusat kesehatan masyarakat (Puskesmas) atau dirumah sakit yang khusus menangani korban.
+
+(2) Tenaga medis sebagaimana dimaksud pada ayat (1) wajib memberikan layanan kesehatan secara lengkap kepada korban.
+
+## Pasal 21
+
+Pemerintah daerah wajib membantu penyediaan ruangan khusus yang memadai bagi korban di instansi Polisi Resort (Polres) dan disetiap instansi Polisi Sektor.
+
+## Pasal 22
+
+(1) Pekerja sosial atau tenaga relawan sebagaimana dimaksud dalam Pasal 19 ayat (1) huruf b bertugas mendampingi korban dalam menghadapi proses penyelesaian tindak kekerasan.
+
+(2) Pekerja sosial atau tenaga relawan selain bertugas sebagaimana dimaksud pada ayat (1) melakukan kegiatan antara lain:
+
+a. konseling atau bimbingan untuk menguatkan dan memberikan rasa aman bagi korban:
+
+b. memberikan informasi mengenai hak-hak korban untuk mendapatkan perlindungan dari kepolisian dan penetapan perintah perlindungan dari pengadilan:
+
+c. mengantarkan korban ke rumah aman atau tempat tinggal alternatif; dan
+
+d. melakukan koordinasi yang terpadu dalam memberikan layanankepada korban dengan instansi atau pihak terkait yang dibutuhkan korban.
+
+## Pasal 23
+
+(1) Pemerintah daerah wajib menyiapkan Rumah Aman untuk digunakan dalam penanganan sementara bagi korban kekerasan terhadap perempuan dan anak.
+
+(2) Rumah Aman sebagaimana dimaksud pada ayat (2) disediakan di setiap Kecamatan.
+
+## Pasal 24
+
+(1) Advokat sebagaimana dimaksud dalam Pasal 19 ayat (1) huruf c membantu memberikan layanan hukum bagi korban atau memberikan konsultasi hukum berupa informasi mengenai hak-hak korban dan proses peradilan;
+
+(2) Advokat wajib mendampingi dan/atau mewakili korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya.
+
+(3) Informasi kekerasan dari korban yang bersifat pribadi wajib dirahasiakan oleh advokat.
+
+(3) Advokat dapat melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.
+
+## Pasal 25
+
+(1) Rohaniawan sebagaimana dimaksud dalam Pasal 19 ayat (1) huruf d bertugas memberi bimbingan rohani atau penguatan iman dan taqwa kepada korban.
+
+(2) Selain memberikan bimbingan rohani, rohaniawan wajib memberikan penjelasan mengenai hak dan kewajiban korban.
+
+## BAB VI PEMBIAYAAN
+
+## Pasal 26
+
+(1) Biaya kegiatan yang terkait dengan penyelenggaraan perlindungan perempuan dan anak dibebankan pada Anggaran Pendapatan dan Belanja Daerah serta penerimaan lain yang sah sesuai dengan peraturan perundang-undangan yang berlaku.
+
+(2) Belanja kegiatan yang bersumber dari Anggaran Pendapatan dan Belanja Daerah dianggarkan pada Satuan Kerja Perangkat Daerah yang membidangi urusan
+
+penyelenggaraan perlindungan perempuan dan anak sesuai dengan kebutuhan dan kemampuan keuangan Daerah.
+
+(3) Alokasi anggaran sebagaimana dimaksud pada ayat (1) wajib dianggarkan oleh Bupati dan DPRD dan ditetapkan setiap tahun anggaran dalam APBD.
+
+## BAB VII PENGAWASAN DAN PEMBINAAN
+
+## Pasal 27
+
+(1) Pengawasan dan pembinaan penyelenggaraan perlindungan perempuan dan anak dilaksanakan oleh Bupati.
+
+(2) Kegiatan pengawasan dan pembinaan sebagaimana dimaksud pada ayat (1) sehari- hari dilakukan oleh Satuan Kerja Perangkat Daerah yang membidangi perlindungan anak.
+
+(3) Hasil kegiatan pengawasan dan pembinaan oleh Satuan Kerja Perangkat Daerah wajib dilaporkan kepada Bupati.
+
+## BAB VIII PERAN SERTA MASYARAKAT
+
+## Pasal 28
+
+(1) Masyarakat berhak memperoleh kesempatan seluas-luasnya untuk berperan dalam membantu/ mendukung upaya perlindungan perempuan dan anak.
+
+(2) Peran masyarakat sebagaimana dimaksud dalam ayat (1) dilakukan oleh orang perseorangan, lembaga perlindungan anak, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, badan usaha, dan media massa.
+
+## Pasal 29
+
+(1) Bentuk peran serta masyarakat dapat berupa:
+
+a. Pengawasan; atau
+
+b. Pemberian bantuan;
+
+(2) Pengawasan masyarakat meliputi kegiatan:
+
+a. mengamati atau melihat kondisi pemenuhan hak-hak perempuan dan anak; dan b. memberikan informasi setiap kondisi yang cenderung mengarah pada tindak kekerasan terhadap perempuan dan anak kepada aparat kepolisian dan/atau pemerintah daerah.
+
+(3) Pemberian bantuan sebagaimana dimaksud pada ayat (1) huruf b berupa:
+
+a. pengamanan atau penampungan sementara bagi korban;
+
+b. dukungan dana untuk memenuhi kebutuhan bagi korban sesuai kemampuan masyarakat;
+
+c. Bantuan dana dan/ atau fasilitas kepada pemerintah daerah dalam menunjang penyelenggaraan perlindungan perempuan dan anak.
+
+## BAB IX KETENTUAN PENUTUP
+
+## Pasal 30
+
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Donggala.
+
+Ditetapkan di Donggala pada tanggal 28 Agustus 2014 BUPATI DONGGALA,
+
+ttd
+
+KASMAN LASSA
+
+Diundangkan di Donggala pada tanggal 28 Agustus 2014 SEKRETARIS DAERAH KABUPATEN DONGGALA,
+
+Ttd
+
+AIDIL NUR, SH., M.Si Pembina Utama Madya NIP. 19600511 198603 1 019
+
+LEMBARAN DAERAH KABUPATEN DONGGALA TAHUN 2014 NOMOR 5
+
+Salinan sesuai dengan aslinya :
+
+NOREG 86 PERATURAN DAERAH KABUPATEN DONGGALA, PROVINSI SULAWESI TENGAH : 05/TAHUN 2014
+
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN DONGGALA NOMOR 5 TAHUN 2014 TENTANG PERLINDUNGAN BAGI PEREMPUAN DAN ANAK
+
+## I. UMUM
+
+Negara melalui pemerintah dan pemerintah daerah saat ini meletakkan perhatian yang sangat besar terhadap keberadaan anak-anak. Atas keberadannya sebagai generasi penerus bangsa yang berkualitas dan bermartabat pemerintah dan pemerintah daerah berkewajiban untuk mengakui keberadaan hak-hak anak dalam ke- hakasasiannya. Hak asasi yang melekat pada anak, meliputi hak-hak dasar sebagai manusia yaitu Hak Hidup, Hak Tumbuh Kembang, Hak Perlindungan dan Hak Partisipasi. Untuk memenuhi Hak hidup, anak memerlukan makanan dalam jumlah yang cukup, sehat dan bergizi, serta akses kesehatan yang optimal. Dalam mendukung dan prasarana pendidikan, pengembangan bakat dan minat yang memadai. Demi terwujudnya anak untuk tumbuh dan berkembang, anak memerlukan berbagai sarana dan prasarana pendidikan, pengembangan bakat dan minat yang memadai. Demi mewujudkan hak perlindungan dan hak partisipasi, anak membutuhkan perhatian yang serius dari berbagai pihak, baik pemerintah, pemerintah daerah dan masyarakat.
+
+Khusus mengenai upaya perlindungan dari kekerasan yang mengancam keselamatan dan kesehatan anakdan perempuan harus diberikan sejak dini. Perlindungan diperlukan untuk mencegah adanya kekerasan dan eksploitasi fisik, mental dan seksual. Misalnya perempuan dan anak korban penganiayaan, penelantaran, pengusiran dan perlakuan salah oleh orang tua ataupun orang lain. Bagi perempuan dan anak yang mengalami masalah tersebut pemerintah harus menyediakan Rumah Aman dan anggaran yang memadai, peran berbagai pihak untuk membantu menangani persoalan kekerasan yang dihadapi oleh perempuan dan anak antara lain organisasi sosial kemasyarakatan, relawan, tenaga sosial, tenaga medis advokat dan rohaniawan.
+
+Kondisi keterpurukan anak berserta hak-haknya dan kondisi kekerasan terhadap perempuan dan anak yang kerap terjadi di daerah hendaknya menjadi perhatian bersama bagi seluruh pemangku kepentingan tak terkecuali pemerintah daerah untuk berperan mencegah dan menanggulangi keterpurukan dan kekerasan tersebut.
+
+Bagi pemerintah daerah Kabupaten Donggala dalam menghadapi semesta kondisi di atas melakukan berbagai tindakan untuk memenuhi hak-hak anak serta
+
+mencegah dan membantu penanganan tindak kekerasan terhadap perempuan dan anak yang diikhtiarkan dengan membentuk Peraturan Daerah tentang Perlindungan Bagi Perempuan dan Anak.
+
+## II. PASAL DEMI PASAL
+
+Pasal 1 Cukup Jelas. Pasal 2 Cukup Jelas. Pasal 3 Cukup Jelas. Pasal 4 Cukup Jelas. Pasal 5 Cukup jelas. Pasal 6 Cukup jelas. Pasal 7 Cukup jelas. Pasal 8 Cukup jelas. Pasal 9 Cukup jelas. Pasal 10 Cukup jelas. Pasal 11 Cukup jelas. Pasal 12 Cukup jelas. Pasal 13 Ayat (1) Cukup jelas. Ayat (2) Huruf a:
+
+Deteksi dan intervensi dini dilakukan terhadap potensi pelanggaran hak-hak anak dari segala bentuk kekerasan, perlakuan salah, eksploitasi, penelantaran dan diskriminasi.
+
+Huruf b:
+
+Kegiatan soialisasi berupa penjelasan mengenai hak-hak anak, implikasi pelanggaran hak-hak anak dan peraturan perundang-undangan terkait dengan perlindungan anak kepada masyarakat.
+
+Sosialisasi dapat menggunakan berbagai sarana atau media disesuaikan dengan materi yang hendak disampaikan.
+
+Edukasi dilakukan terkait dengan hak-hak anak, perlakuan salah dan kekerasan pada anak.
+
+Huruf c:
+
+Kegiatan seminar dan lokakarya dapat dilaksanakan oleh Perguruan Tinggi Di Sulawesi Tengah, LSM atau lembaga lainnya yang menangani perlindungan anak.
+
+Seminar atau lokakarya difokuskan pada tema “perlindungan hak-hak anak”.
+
+Huruf d:
+
+Penyiapan sistim informasi berupa penyediaan data-data tentang kondisi anak daerah atau sarana telephon, faximile, website atau sarana lainnya untuk keperluan laporan lisan/pengaduan dari korban/ masyarakat.
+
+Huruf e:
+
+Cukup jelas
+
+Pasal 14
+
+Cukup jelas.
+
+Pasal 15
+
+Cukup jelas.
+
+Pasal 16
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Huruf a:
+
+Cukup jelas
+
+Huruf b:
+
+Kegiatan sosialisasi berupa penjelasan mengenai hak-hak anak, implikasi pelanggaran hak-hak perempuan dan peraturan perundang-undangan terkait dengan perlindungan perempuan kepada masyarakat.
+
+Sosialisasi dapat menggunakan berbagai sarana atau media disesuaikan dengan materi yang hendak disampaikan.
+
+Huruf c:
+
+Kegiatan seminar dan lokakarya dapat dilaksanakan oleh Perguruan Tinggi Di Sulawesi Tengah, LSM atau lembaga lainnya yang menangani persoalan perempuan.
+
+Seminar atau lokakarya difokuskan pada tema “perlindungan perempuan”.
+
+Huruf d:
+
+Penyiapan sistim informasi berupa penyediaan data-data tentang kondisi anak daerah atau sarana telephon, faximile, website atau sarana lainnya untuk keperluan laporan lisan/pengaduan dari korban/ masyarakat.
+
+Huruf e:
+
+Cukup jelas
+
+Pasal 17
+
+Cukup jelas.
+
+Pasal 18
+
+Cukup jelas.
+
+Pasal 19
+
+Ayat (1)
+
+Huruf a: Cukup jelas
+
+Huruf b: Cukup jelas
+
+Huruf c: Cukup jelas
+
+Huruf d:
+
+Yang dimaksud rohaniawan dalam ketentuan ini ialah ahli-ahli agama, pemuka-pemuka agama, imam, pendeta, pastor baik secara personal maupun secara kelembagaan/ struktural.
+
+Ayat (2)
+
+Perjanjian kerja sama dengan pihak terkait dibuat secara tertulis.
+
+Pasal 20
+
+Ayat (1)
+
+Yang dimaksud rumah sakit dalam ketentuan ini diprioritaskan pada rumah sakit milik pemerintah daerah.
+
+Ayat (2)
+
+Cukup jelas
+
+Pasal 21
+
+Bantuan pemerintah daerah bersifat dukungan anggaran dan/ atau barang- barang yang diperlukan oleh Kepolisian dalam menyediakan ruangan khusus.
+
+Pasal 22
+
+Cukup jelas.
+
+Pasal 23
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Pembangunan Rumah Aman diutamakan dalam lingkungan setiap Kantor Kecamatan.
+
+Pasal 24
+
+Cukup Jelas.
+
+Pasal 25
+
+Cukup jelas.
+
+Pasal 26
+
+Ayat (1)
+
+Cukup jelas.
+
+Ayat (2)
+
+Cukup jelas
+
+Ayat (3)
+
+Pada saat penyusunan RAPBD Bupati mengalokasikan dan mengusulkan anggaran untuk keperluan penyelenggaraan perlindungan bagi perempuan dan anak.
+
+Pasal 27
+
+Cukup jelas.
+
+Pasal 28
+
+Cukup jelas.
+
+Pasal 29
+
+Cukup jelas.
+
+Pasal 30
+
+Cukup jelas.
+
+# LEMBARAN DAERAH KABUPATEN DONGGALA TAHUN 2014 NOMOR 5
+
+Salinan sesuai dengan aslinya :
+
+NOREG 86 PERATURAN DAERAH KABUPATEN DONGGALA, PROVINSI SULAWESI TENGAH : 05/TAHUN 2014
