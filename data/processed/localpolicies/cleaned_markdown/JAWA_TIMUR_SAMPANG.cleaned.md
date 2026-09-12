@@ -1,16 +1,20 @@
-# BUPATI SAMPANG
-
-# PROVINSI JAWA TIMUR
-
-# PERATURAN DAERAH KABUPATEN SAMPANG NOMOR 7 TAHUN 2017
-
-# TENTANG
-
 # PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+BUPATI SAMPANG  
 
-# BUPATI SAMPANG,
+PROVINSI JAWA TIMUR  
+
+# PERATURAN DAERAH KABUPATEN SAMPANG 
+
+NOMOR 7 TAHUN 2017  
+
+TENTANG  
+
+PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI SAMPANG,  
 
 Menimbang:  
  
@@ -25,30 +29,34 @@ b. bahwa pemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasik
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapatkan perlindungan khusus agar tidak mengalami  kekerasan dan dapat menjalani hidup layak sesuai prinsip  kemanusiaan kesetaraan dan keadilan;  
 d. bahwa dengan diberlakukannya Peraturan Menteri  Pemberdayaan Perempuan dan Perlindungan Anak Nomor 6  Tahun 2015 Tentang Sistem Pemberdayaan Perempuan dan  Perlindungan Anak, maka pemerintah daerah perlu  meningkatkan kualitas hidup perempuan dan melindungi  anak.  e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c,dan huruf d, perlu  menetapkan Peraturan Daerah tentang Pemberdayaan  Perempuan dan Perlindungan Anak;  
 
-2 - Mengingat:1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
+Mengingat:  
 
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 2. Undang-Undang nomor 12 Tahun 1950 tentang Pembentukan  Daerah-Daerah Kabupaten dalam Lingkungan Provinsi Jawa  Timur sebagaimana telah diubah dengan Undang-Undang  Nomor 2 Tahun 1965 tentang Perubahan Batas Wilayah Kota  Praja Surabaya dan Daerah Tingkat II Surabaya (Lembaran  Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan  Lembaran Negara Republik Indonesia Nomor 2730);  
 3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik  Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran  Negara Republik Indonesia Nomor 4235) sebagaimana  telah diubah dengan Undang-Undang Nomor 35 Tahun  2014 (Lembaran Negara Republik Indonesia Tahun 2014  Nomor 297, Tambahan Lembaran Negara Republik  Indonesia Nomor 5606);  
 4. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor  58, Tambahan Lembaran Negara Republik Indonesia  Nomor 4720);  
 5. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-Undangan  (Lembaran Negara Republik Indonesia Tahun 2011 Nomor  82, Tambahan Lembaran Negara Republik Indonesia  Nomor 5234);  
 6. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan  Daerah (Lembaran Negara Republik Indonesia Tahun 2014  Nomor 244, Tambahan Lembaran Negara Republik Indonesia  Tahun 2014 Nomor 5587), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015  (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58,  Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
 7. Peraturan Presiden Nomor 87 Tahun 2014 tentang Peraturan  Pelaksanaan Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-Undangan (Lembaran  Negara Republik Indonesia Tahun 2014 Nomor 199);  
-
-3 -
-
 8. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2008 tentang Pedoman  Pelaksanaan Perlindungan Perempuan;  
 9. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 3 Tahun 2008 tentang Pedoman  Pelaksanaan Perlindungan Anak;  
 10. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan  Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
 11. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan AnakNomor 6 Tahun 2015 tentang Sistem  Pemberdayaan Perempuan dan Perlindungan Anak;  
 12. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah;  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SAMPANG dan
+Dengan Persetujuan Bersama  
 
-# BUPATI SAMPANG
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SAMPANG  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN  DAN PERLINDUNGAN ANAK
+BUPATI SAMPANG  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK  
 
 # BAB I
 
@@ -56,15 +64,12 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN  DAN PERLINDUNGAN AN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 
 1. Daerah adalah Kabupaten Sampang.  
-2. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh  Pemerintah Daerah dan DPRD menurut asas otonomi dan tugas pembantuan  dengan prinsip otonomi seluasluasnya dalam sistem dan prinsip Negara  Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
+2. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh  Pemerintah Daerah dan DPRD menurut asas otonomi dan tugas pembantuan  dengan prinsip otonomi seluas-luasnya dalam sistem dan prinsip Negara  Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
 3. Bupati adalah Bupati Sampang.  
 4. Sekretaris Daerah adalah Sekretaris Daerah Kabupaten Sampang.  
-
-4 -
-
 5. Perangkat Daerah adalah unsur pembantu Kepala Daerah dan Dewan  Perwakilan Rakyat Daerah dalam penyelenggaraan Urusan Pemerintahan  yang menjadi kewenangan Daerah.  
 6. Dinas Keluarga Berencana Pemberdayaan Perempuan dan Perlindungan Anak yang selanjutnya disebut DKBP3A adalah Organisasi Perangkat Daerah yang  memiliki tugas pokok dan fungsi di bidang Pemberdayaan Perempuan dan  Perlindungan Anak di Kabupaten Sampang.  
 7. Anak adalah seseorang yang belum berusia 18 tahun, termasuk anak yang  masih dalam kandungan.  
@@ -75,9 +80,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 12. Kekerasan terhadap anak adalah setiap tindakan yang berakibat atau  mungkin berakibat penderitaan anak secara fisik, mental, sosial, psikososial,  dan seksual.  
 13. Kekerasan fisik adalah setiap perbuatan yang mengakibatkan rasa sakit,  cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan  dan atau menyebabkan kematian.  
 14. Kekerasan psikis adalah perbuatan yang mengakibatkan ketakutan,  hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa  tidak berdaya dan atau penderitaan psikis berat pada seseorang.  
-
-5 -
-
 15. Kekerasan seksual adalah setiap perbuatan yang berupa pelecehan seksual,  pemaksaan hubungan seksual, pemaksaan hubungan seksual dengan tidak  wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain  untuk tujuan komersial dan atau tujuan tertentu.  
 16. Diskriminasi adalah setiap pembatasan, pelecehan, atau pengucilan yang  langsung ataupun tak langsung didasarkan pada pembedaan manusia atas  dasar agama, suku, ras, etnik, kelompok, golongan, status sosial, status  ekonomi, jenis kelamin, bahasa, keyakinan politik yang berakibat  pengurangan, penyimpangan atau penghapusan pengakuan, pelaksanaan  atau penggunaan hak asasi manusia dan kebebasan dasar dalam kehidupan  baik individual maupun kolektif dalam bidang politik, ekonomi, hukum,  sosial, budaya dan aspek kehidupan lainnya.  
 17. Korban adalah perempuan termasuk Tenaga Kerja Perempuan yang bekerja  ke luar negeri dan anak yang mengalami kesengsaraan dan/atau penderitaan  baik langsung maupun tidak langsung sebagai akibat dari kekerasan  tersebut.  
@@ -86,17 +88,17 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 20. Pelayanan terpadu adalah serangkaian kegiatan untuk melakukan  perlindungan bagi korban kekerasan termasuk tindak pidana perdagangan  orang yang dilaksanakan secara bersama-sama oleh instansi atau lembaga  terkait sebagai satu kesatuan penyelenggaraan rehabilitasi kesehatan,  rehabilitasi sosial, pemulangan, reintegrasi sosial, dan bantuan hukum;  
 21. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Perlindungan Anak yang selanjutnya disebut P2TP2A adalah lembaga pelayanan terpadu bagi  korban kekerasan terhadap perempuan dan anak;  
 22. Perlindungan terhadap perempuan adalah segala perbuatan yang ditujukan  untuk memberikan rasa aman yang dilakukan oleh pihak kepolisian,  kejaksaan, pengadilan, lembaga sosial, atau pihak lain yang mengetahui atau  mendengar akan atau telah terjadi kekerasan terhadap perempuan.  
-23. Sistem pemberdayaan perempuan dan perlindungan anak adalah  keseluruhan proses penyelenggaraan pemberdayaan perempuan dan  perlindungan anak yang dilakukan secara komprehensif, inklusif, integratif  mulai dari tahap pelayanan penanganan laporan/pengaduan, pelayanan  kesehatan, rehabilitasi sosial, penegakan dan bantuan hukum sampai dengan - 6 - pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kejahatan dan kekerasan ke lingkungan sosialnya;  
+23. Sistem pemberdayaan perempuan dan perlindungan anak adalah  keseluruhan proses penyelenggaraan pemberdayaan perempuan dan  perlindungan anak yang dilakukan secara komprehensif, inklusif, integratif  mulai dari tahap pelayanan penanganan laporan/pengaduan, pelayanan  kesehatan, rehabilitasi sosial, penegakan dan bantuan hukum sampai dengan pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kejahatan dan kekerasan ke lingkungan sosialnya;  
 24. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri,  atau suami-istri dan anaknya, atau ayah dan anaknya, atau ibu dan  anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke bawah  sampai dengan derajat ketiga.  
 25. Perbuatan hukum adalah setiap perbuatan atau tindakan subjek hukum  yang mempunyai akibat hukum dan akibat hukum itu memang dikehendaki  oleh subjek hukum.  
 26. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada korban  ketika melihat, mendengar dan mengetahui akan, sedang atau telah  terjadinya kekerasan terhadap korban;  
 27. Pendamping adalah orang yang mempunyai keahlian untuk melakukan  konseling, terapi dan advokasi guna penguatan dan pemulihan diri korban  kekerasan.  
 28. Pekerja sosial adalah orang yang mempunyai keahlian untuk mendengarkan  secara empati dan menggali permasalahan untuk memberikan konseling  dalam upaya penguatan psikologis korban.  
 29. Medicolegal adalah upaya pengumpulan barang bukti untuk kepentingan  pembuktian dalam proses peradilan.  
-30. Women’s Crisis Centeradalah pusat pelayanan bagi perempuan dan anak  korban kekerasan.  
+30. Women’s Crisis Center adalah pusat pelayanan bagi perempuan dan anak korban kekerasan.  
 31. Rumah Aman adalah tempat tinggal sementara bagi korban, agar  mendapatkan rasa aman dan tidak dijangkau oleh pelaku atau orang  suruhan pelaku, selama perkaranya belum terselesaikan.  
 32. Standard Operational Procedure yang selanjutnya disebut SOP adalah  prosedur yang menjadi acuan tindakan layanan yang ditetapkan dengan  Surat Keputusan Bupati.  
-33. Masyarakat adalah orang perseorangan, keluarga, kelompok, organisasi sosial  dan/atau organisasi kemasyarakatan.  
+33. Masyarakat adalah orang perseorangan, keluarga, kelompok, organisasi sosial dan/atau organisasi kemasyarakatan.  
 
 # BAB II
 
@@ -107,20 +109,18 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 Asas-asas dalam Pemberdayaan perempuan dan perlindungan anak ini adalah:  
 a. Non diskriminasi;  
 b. Kepentingan terbaik bagi anak;  
-c. Hakuntukhidup, kelangsungan hidup dan perkembangan;  
+c. Hak untuk hidup, kelangsungan hidup dan perkembangan;  
 d. Penghargaan terhadap pendapat anak;  
-
-7 -
 e. Kesetaraan gender;  
 f. Keadilan gender;  
-g. Kepastian hukum
+g. Kepastian hukum.  
 
 #### Pasal 3
 
 Sistem Pemberdayaan perempuan dan perlindungan anak bertujuan untuk:  
 a. meningkatkan kualitas hidup perempuan, anak, dan kualitas keluarga;  
-b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistim data gender  dan anak;dan
-c. memberikan perlindungan hak perempuan dan pemenuhan hak anak  termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan  dan perlakuan diskriminatif lainnya.  
+b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistim data gender  dan anak; dan  
+c. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan  dan perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
@@ -142,8 +142,6 @@ d. penguatan dan pengembangan sistem data gender dan anak.
 
 Dalam rangka menyelenggarakan tujuan sebagaimana dimaksud dalam Pasal 3  huruf c Pemerintah Daerah melakukan upaya promotif, preventif, kuratif,  maupun rehabilitatif sesuai dengan ketentuan perundang-undangan.  
 
-8 -
-
 #### Pasal 7
 
 Upaya promotif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
@@ -162,17 +160,15 @@ d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan  perempuan dan
 #### Pasal 9
 
 Upaya kuratif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
-a. mengoptimalkan layanan teknis terkait pengaduan kekerasan terhadap  perempuan dan anak;  
-b. menyediakan sarana dan prasarana yang memadai untuk penanganan  rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan  bantuan hukum;  
-c. melakukan penanganan bagi korban kejahatan dan kekerasan secara cepat,  tepat, dan akurat oleh aparat penegak hukum.  
+a. mengoptimalkan layanan teknis terkait pengaduan kekerasan terhadap perempuan dan anak;  
+b. menyediakan sarana dan prasarana yang memadai untuk penanganan rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan  bantuan hukum;  
+c. melakukan penanganan bagi korban kejahatan dan kekerasan secara cepat, tepat, dan akurat oleh aparat penegak hukum.  
 
 #### Pasal 10
 
 Upaya rehabilitatif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
-a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan yang  meliputi antara lain tenaga psikolog, psikiater, rohaniawan/ pendamping  spiritual, pengacara, tenaga medis;  
+a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan yang  meliputi antara lain tenaga psikolog, psikiater, rohaniawan/pendamping  spiritual, pengacara, tenaga medis;  
 b. memperkuat jejaring kerja dan koordinasi dalam proses reintegrasi serta  pemulangan korban kepada keluarga dan/atau lingkungan sosialnya.  
-
-9 -
 
 # BAB III
 
@@ -184,7 +180,7 @@ Pemerintah Daerah dibantu oleh perangkat daerah harus berkomitmen kuat  membangu
 
 #### Pasal 12
 
-1. Pemerintah Daerah, masyarakat, lembaga swadaya masyarakat, atau  lembaga-lembaga lain membentuk unit layanan teknis dalam mewujudkan  sistem pemberdayaan perempuan dan perlindungan anak yang terintegrasi,  satu atap dan berjejaring;  
+1. Pemerintah Daerah, masyarakat, lembaga swadaya masyarakat, atau  lembaga-lembaga lain membentuk unit layanan teknis dalam mewujudkan  sistem pemberdayaan perempuan dan perlindungan anak yang terintegrasi, satu atap dan berjejaring;  
 2. Unit layanan teknis sebagaimana dimaksud pada ayat (1) adalah P2TP2A.  
 
 # BAB IV
@@ -202,17 +198,17 @@ P2TP2A berada di bawah koordinasi DKBP3A atau unit-unit lainnya yang  menangani 
 
 #### Pasal 15
 
-P2TP2A adalah salah satu bentuk unit pelayanan terpadu yang berfungsi  sebagai:  
+P2TP2A adalah salah satu bentuk unit pelayanan terpadu yang berfungsi sebagai:  
 a. pusat informasi bagi perempuan dan anak;  
-b. pusat pelayanan bagi perempuan dan anak kornban kekerasan; dan c. pusat pemberdayaan bagi perempuan dan anak.  
+b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan  
+c. pusat pemberdayaan bagi perempuan dan anak.  
 
 #### Pasal 16
 
 Struktur kelembagaan P2TP2A:  
 a. dibentuk berdasarkan keputusan Bupati/Camat;  
-
-10 -
-b. keanggotaannya berasal dari unsur struktural dan non struktural yang  berasal dari kalangan profesi, akademisi, tokoh masyarakat; dan c. sumber biaya pembentukan, pengembangan, dan penguatan P2TP2A  bersumber dari APBD dan sumber lain yang sah dan tidak mengikat  berdasarkan ketentuan perundang-undangan.  
+b. keanggotaannya berasal dari unsur struktural dan non struktural yang  berasal dari kalangan profesi, akademisi, tokoh masyarakat; dan  
+c. sumber biaya pembentukan, pengembangan, dan penguatan P2TP2A  bersumber dari APBD dan sumber lain yang sah dan tidak mengikat  berdasarkan ketentuan perundang-undangan.  
 
 #### Pasal 17
 
@@ -235,7 +231,8 @@ P2TP2A dapat berkonsultasi dan berkoordinasi dengan Kementerian yang  menyelengg
 Koordinasi dapat dilakukan dalam bentuk:  
 a. rapat koordinasi dengan jejaring kerja;  
 b. konsultasi;  
-c. penyampaian data dan informasi; dan/ataud. tindak lanjut penanganan kasus.  
+c. penyampaian data dan informasi; dan/atau  
+d. tindak lanjut penanganan kasus.  
 
 # BAB VI
 
@@ -248,8 +245,6 @@ Masyarakat, dunia usaha, akademisi, dan kelompok profesi lainnya dapat  berperan
 # BAB VII
 
 ## PEMANTAUAN, EVALUASI, DAN PELAPORAN
-
-11 -
 
 #### Pasal 22
 
@@ -279,33 +274,29 @@ Peraturan Daerah ini mulai berlaku sejak tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Sampang.  
 
-Ditetapkandi: Sampang padatanggal: 27 April 2017
+Ditetapkan di:  
 
-##### WAKIL BUPATI SAMPANG,
+Sampang pada tanggal: 27 April 2017  
 
-##### H. FADHILAH BUDIONO
+WAKIL BUPATI SAMPANG,  
 
-12 - Diundangkan di: Sampang Pada tanggal: 27 April 2017
+H. FADHILAH BUDIONO
 
-##### SEKRETARIS DAERAH KABUPATEN SAMPANG
+Diundangkan di:  
 
-PUTHUT BUDI SANTOSO, SH,M.Si Pembina Utama Muda
+Sampang Pada tanggal: 27 April 2017  
 
-##### NIP. 19610114 198603 1 008
+SEKRETARIS DAERAH KABUPATEN SAMPANG  
 
-LEMBARAN DAERAH KABUPATEN SAMPANG TAHUN 2017 NOMOR: 7 NOMOR REGISTER PERATURAN DAERAH KABUPATEN SAMPANG NOMOR 77-7/2017 - 13 - - 1 -
+PUTHUT BUDI SANTOSO, SH,M.Si Pembina Utama Muda  
 
-##### PENJELASAN
+NIP. 19610114 198603 1 008  
 
-##### ATAS
+LEMBARAN DAERAH KABUPATEN SAMPANG TAHUN 2017 NOMOR: 7 NOMOR REGISTER PERATURAN DAERAH KABUPATEN SAMPANG NOMOR 77-7/2017  
 
-##### PERATURAN DAERAH KABUPATEN SAMPANG
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN SAMPANG
 
-##### NOMOR 7 TAHUN 2017
-
-##### TENTANG
-
-##### PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
+NOMOR 7 TAHUN 2017 TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
 
 ##### 1. UMUM
 
@@ -315,114 +306,120 @@ Selain itu, konstitusi Negara Republik Indonesia juga telah  mengamanatkan dalam
 
 Oleh karena itu, perlu dilakukan upaya-upaya untuk mencegah dan  memberantas segala bentuk diskriminasi dan kekerasan terhadap  perempuan dan anak khususnya bagi daerah Kabupaten Sampang.  Pemerintah Kabupaten Sampang merupakan salah satu pihak yang paling  berwenang dalam melakukan pemberdayaan perempuan dan perlindungan  anak dengan melakukan dan merumuskan regulasi guna memberikan  jaminan terhadap pemberdayaan perempuan dan perlindungan anak.  
 
-Salah satu bentuk regulasi tersebut adalah Peraturan Daerah  Kabupaten Sampang. Peraturan tersebut diharapkan mampu mendorong - 14 - upaya perbaikan kondisi fisik maupun mental seorang perempuan dan anak - 2 - korban kekerasan.  
+Salah satu bentuk regulasi tersebut adalah Peraturan Daerah  Kabupaten Sampang. Peraturan tersebut diharapkan mampu mendorong upaya perbaikan kondisi fisik maupun mental seorang perempuan dan anak korban kekerasan.  
 
 ##### 2. PASAL DEMI PASAL
 
 #### Pasal 1
 
-Cukupjelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Huruf b Yang dimaksud dengan asas kepentingan yang terbaik bagi anak adalah bahwa dalam semua tindakan yang menyangkut anak yang  dilakukan oleh pemerintah, masyarakat, badan legislatif, dan badan  yudikatif, maka kepentingan yang terbaik bagi bagi anak harus  menjadi pertimbangan utama.  
+Huruf b  
 
-Huruf e Kesataraan gender berarti kesamaan kondisi bagi laki-laki dan  perempuan untuk memperoleh kesempatan serta hak-haknya  sebagai manusia, agar mampu berperan dan berpartisipasi dalam  kegiatan politik, hukum, ekonomi, sosial dan budaya, pendidikan  dan pertahanan dan keamanan nasional, serta kesamaan dalam  menikmati hasil pembangunan tersebut.  
+Yang dimaksud dengan asas kepentingan yang terbaik bagi anak adalah bahwa dalam semua tindakan yang menyangkut anak yang  dilakukan oleh pemerintah, masyarakat, badan legislatif, dan badan  yudikatif, maka kepentingan yang terbaik bagi bagi anak harus  menjadi pertimbangan utama.  
 
-Huruf f Keadilan gender merupakan suatu proses dan perlakuan adil  terhadap perempuan dan laki-laki. Dengan keadilan gender berarti  tidak ada pembakuan peran, beban ganda, subordinasi,  marginalisasi dan kekerasan terhadap perempuan maupun laki-laki
+Huruf e  
+Kesataraan gender berarti kesamaan kondisi bagi laki-laki dan  perempuan untuk memperoleh kesempatan serta hak-haknya  sebagai manusia, agar mampu berperan dan berpartisipasi dalam  kegiatan politik, hukum, ekonomi, sosial dan budaya, pendidikan  dan pertahanan dan keamanan nasional, serta kesamaan dalam  menikmati hasil pembangunan tersebut.  
+
+Huruf f  
+Keadilan gender merupakan suatu proses dan perlakuan adil  terhadap perempuan dan laki-laki. Dengan keadilan gender berarti  tidak ada pembakuan peran, beban ganda, subordinasi, marginalisasi dan kekerasan terhadap perempuan maupun laki-laki
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
-15 - - 3 - Petunjuk Pelaksanan dan/atau Petunjuk Teknis P2TP2A berisi hal hal teknis tentang pelayanan penanganan perempuan dan anak  korban kekerasan meliputi SDM pelayanan, sarana dan prasarana,  hak dan kewajiban korban, sistem rujukan termasuk penanganan  mulai dari pelayanan pengaduan, pelayanan rehabilitasi medis,  pelayanan rehabnilitasi sosial, pelayanan pembinaan rohani,  pelayanan pemulangan dan reintegrasi sosial. Disamping itu juga  memuat alur pelayanan dan Standar Operasi Prosedur dari masing masing pelayanan.  
+Petunjuk Pelaksanaan dan/atau Petunjuk Teknis P2TP2A berisi hal hal teknis tentang pelayanan penanganan perempuan dan anak  korban kekerasan meliputi SDM pelayanan, sarana dan prasarana,  hak dan kewajiban korban, sistem rujukan termasuk penanganan  mulai dari pelayanan pengaduan, pelayanan rehabilitasi medis,  pelayanan rehabilitasi sosial, pelayanan pembinaan rohani,  pelayanan pemulangan dan reintegrasi sosial. Disamping itu juga  memuat alur pelayanan dan Standar Operasi Prosedur dari masing masing pelayanan.  
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Pemantauan dan evaluasi dimaksudkan untuk mengetahui  perkembangan dan hambatan dalam pelaksanaan kebijakan,  program, dan kegiatan yang telah ditetapkan. Pemantauan dilakukan  secara berkala melalui koordinasi dan pemantauan langsung  terhadap OPD yang melaksanakan kebijakan, program, dan kegiatan - 16 - pemberdayaan perempuan dan anak korban kekerasan. Pemantauan  - 4 - ini dilakukan mulai dari perencanaan sampai dengan pelaksanaan  kebijakan, program, dan kegiatan pemberdayaan perempuan dan  anak korban kekerasan untuk tahun berjalan dan akan diadakan  evaluasi setiap berakhirnya tahun anggaran.  
+Pemantauan dan evaluasi dimaksudkan untuk mengetahui  perkembangan dan hambatan dalam pelaksanaan kebijakan,  program, dan kegiatan yang telah ditetapkan. Pemantauan dilakukan  secara berkala melalui koordinasi dan pemantauan langsung  terhadap OPD yang melaksanakan kebijakan, program, dan kegiatan pemberdayaan perempuan dan anak korban kekerasan. Pemantauan ini dilakukan mulai dari perencanaan sampai dengan pelaksanaan  kebijakan, program, dan kegiatan pemberdayaan perempuan dan  anak korban kekerasan untuk tahun berjalan dan akan diadakan  evaluasi setiap berakhirnya tahun anggaran.  
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 24
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 25
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 26
 
-Cukup jelas TAMBAHAN LEMBARAN DAERAH KABUPATEN SAMPANG TAHUN 2017 NOMOR: 7 NOMOR REGISTER PERATURAN DAERAH KABUPATEN SAMPANG NOMOR 77-7/2017
+Cukup jelas.  
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SAMPANG TAHUN 2017 NOMOR: 7 NOMOR REGISTER PERATURAN DAERAH KABUPATEN SAMPANG NOMOR 77-7/2017  

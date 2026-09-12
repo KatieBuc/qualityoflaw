@@ -1,18 +1,20 @@
-# BUPATI KLATEN
+# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
-# PROVINSI JAWA TENGAH
+BUPATI KLATEN  
+
+PROVINSI JAWA TENGAH  
 
 # PERATURAN DAERAH KABUPATEN KLATEN
 
-# NOMOR 17 TAHUN 2018
+NOMOR 17 TAHUN 2018  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI KLATEN,
+BUPATI KLATEN,  
 
 Menimbang:  
  
@@ -36,28 +38,33 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten Dalam Lingkungan Propinsi Jawa Tengah;  
-3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik  Indonesia Nomor 3886);  
+3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 4. Undang-Undang Nomor 13 Tahun 2003 tentang  Ketenagakerjaan (Lembaran Negara Republik Indonesia  Tahun 2003 Nomor 39, Tambahan Lembaran Negara  Republik Indonesia Nomor 4279);  
 5. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem  Pendidikan Nasional (Lembaran Negara Republik Indonesia  Tahun 2003 Nomor 78, Tambahan Lembaran Negara  Republik Indonesia Nomor 4301);  
 6. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran  Negara Republik Indonesia Tahun 2004 Nomor 95,  Tambahan Lembaran Negara Republik Indonesia Nomor  4419);  
 7. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007 Nomor  58, Tambahan Lembaran Negara Republik Indonesia Nomor  4720);  
 8. Undang-Undang Nomor 11 Tahun 2009 tentang  Kesejahteraan Sosial (Lembaran Negara Republik Indonesia  Tahun 2009 Nomor 12, Tambahan Lembaran Negara  Republik Indonesia Nomor 4967);  
-9. Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan  (Lembaran Negara Republik Indonesia Tahun 2009 Nomor  144, Tambahan Lembaran Negara Republik Indonesia Nomor  5063);  
+9. Undang-Undang Nomor 36 Tahun 2009 tentang Kesehatan  (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor  5063);  
 10. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 82,  Tambahan Lembaran Negara Republik Indonesia Nomor  5324);  
-11. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara  Republik Indonesia Nomor 5587) sebagaimana telah diubah  beberapa kali, terakhir dengan Undang-Undang Nomor 9  Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang  Nomor 23 Tahun 2014 tentang Pemerintahan Daerah  (Lembaran Negara Republik Indonesia Tahun 2015 Nomor  58, Tambahan Lembaran Negara Republik Indonesia Nomor  5679);  
-12. Peraturan Pemerintah Nomor 61 Tahun 2014 tentang  Kesehatan Reproduksi (Lembaran Negara Republik Indonesia  Tahun 2014 Nomor 169, Tambahan Lembaran Negara  Republik Indonesia Nomor 5559);  
-13. Peraturan Daerah Kabupaten Klaten Nomor 13 Tahun 2013  tentang Pelayanan Kesehatan (Lembaran Daerah Kabupaten  Klaten Tahun 2013 Nomor 13, Tambahan Lembaran Daerah  Kabupaten Klaten Nomor 99);  
-14. Peraturan Daerah Kabupaten Klaten Nomor 8 Tahun 2016  tentang Pembentukan dan Susunan Perangkat Daerah  Kabupaten Klaten (Lembaran Daerah Kabupaten Klaten  Tahun 2016 Nomor 8, Tambahan Lembaran Daerah  Kabupaten Klaten Nomor 138);  
+11. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara  Republik Indonesia Nomor 5587) sebagaimana telah diubah  beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang  Nomor 23 Tahun 2014 tentang Pemerintahan Daerah  (Lembaran Negara Republik Indonesia Tahun 2015 Nomor  58, Tambahan Lembaran Negara Republik Indonesia Nomor  5679);  
+12. Peraturan Pemerintah Nomor 61 Tahun 2014 tentang  Kesehatan Reproduksi (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 169, Tambahan Lembaran Negara  Republik Indonesia Nomor 5559);  
+13. Peraturan Daerah Kabupaten Klaten Nomor 13 Tahun 2013  tentang Pelayanan Kesehatan (Lembaran Daerah Kabupaten Klaten Tahun 2013 Nomor 13, Tambahan Lembaran Daerah  Kabupaten Klaten Nomor 99);  
+14. Peraturan Daerah Kabupaten Klaten Nomor 8 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah  Kabupaten Klaten (Lembaran Daerah Kabupaten Klaten Tahun 2016 Nomor 8, Tambahan Lembaran Daerah  Kabupaten Klaten Nomor 138);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN KLATEN dan
+Dengan Persetujuan Bersama  
 
-# BUPATI KLATEN
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN KLATEN  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN.  
+BUPATI KLATEN  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN.  
 
 # BAB I
 
@@ -65,8 +72,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Klaten.  
 2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi  kewenangan daerah otonom.  
 3. Bupati adalah Bupati Klaten.  
@@ -78,7 +84,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 10. Kekerasan adalah setiap perbuatan secara melawan hukum, dengan atau  tanpa menggunakan sarana terhadap fisik dan psikis yang menimbulkan  bahaya bagi nyawa, badan atau menimbulkan terampasnya kemerdekaan  seseorang.  
 11. Kerja sama daerah adalah kesepakatan antara gubernur dengan bupati/wali  kota atau antara bupati/wali kota dengan bupati/wali kota yang lain, dan atau  gubernur, bupati/wali kota dengan pihak ketiga, yang dibuat secara tertulis  serta menimbulkan hak dan kewajiban.  
 12. Masyarakat adalah lembaga keagamaan, dunia usaha/asosiasi, lembaga  swadaya masyarakat, serikat buruh/pekerja, organisasi kemasyarakatan,  guru/lembaga pendidikan, media massa.  
-13. Pendidikan formal adalah jalur pendidikan yang terstruktur dan berjenjang  yang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan  tinggi.  
+13. Pendidikan formal adalah jalur pendidikan yang terstruktur dan berjenjang  yang terdiri atas pendidikan dasar, pendidikan menengah, dan pendidikan tinggi.  
 14. Pendidikan Nonformal adalah jalur pendidikan di luar pendidikan formal yang  dapat dilaksanakan secara terstruktur dan berjenjang.  
 
 #### Pasal 2
@@ -86,8 +92,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 Pemberdayaan dan Perlindungan Perempuan bertujuan untuk:  
 a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
 b. meningkatkan kualitas hidup perempuan;  
-c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai  manusia; dan  
-d. memberikan rasa aman dengan meningkatkan perlindungan kepada  perempuan dari berbagai tindak kekerasan.  
+c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai manusia; dan  
+d. memberikan rasa aman dengan meningkatkan perlindungan kepada perempuan dari berbagai tindak kekerasan.  
 
 # BAB II
 
@@ -99,8 +105,8 @@ Umum
 
 #### Pasal 3
 
-1. Pemerintah Daerah bertanggung jawab dalam upaya pemberdayaan  perempuan.  
-2. Pemberdayaan perempuan sebagaimana dimaksud pada ayat (1) diarahkan  untuk memperoleh kesempatan dan hak-haknya sebagai manusia agar mampu berperan dan berpartisipasi dalam kegiatan pendidikan, kesehatan,  ketenagakerjaan, ekonomi, jaminan sosial serta politik dan pemerintahan  guna menikmati hasil pembangunan.  
+1. Pemerintah Daerah bertanggung jawab dalam upaya pemberdayaan perempuan.  
+2. Pemberdayaan perempuan sebagaimana dimaksud pada ayat (1) diarahkan untuk memperoleh kesempatan dan hak-haknya sebagai manusia agar mampu berperan dan berpartisipasi dalam kegiatan pendidikan, kesehatan, ketenagakerjaan, ekonomi, jaminan sosial serta politik dan pemerintahan  guna menikmati hasil pembangunan.  
 
 ## Bagian Kedua
 
@@ -108,8 +114,8 @@ Bidang Pendidikan
 
 #### Pasal 4
 
-1. Pemerintah Daerah bertanggungjawab dalam penyelenggaraan pendidikan  formal dan nonformal bagi perempuan di daerah.  
-2. Pendidikan nonformal sebagaimana dimaksud pada ayat (1) bertujuan untuk  meningkatkan kemampuan perempuan.  
+1. Pemerintah Daerah bertanggungjawab dalam penyelenggaraan pendidikan formal dan nonformal bagi perempuan di daerah.  
+2. Pendidikan nonformal sebagaimana dimaksud pada ayat (1) bertujuan untuk meningkatkan kemampuan perempuan.  
 3. Pendidikan nonformal sebagaimana dimaksud pada ayat (1) meliputi pendidikan pemberdayaan perempuan, pendidikan ketrampilan dan  pelatihan kerja.  
 4. Pendidikan formal dan nonformal sebagaimana dimaksud pada ayat (1)  diatur dengan Peraturan Daerah tersendiri.  
 5. Penyelenggaraan pendidikan nonformal sebagaimana dimaksud pada ayat (1)  berada di bawah Perangkat Daerah yang menyelenggarakan urusan di  bidang perempuan.  
@@ -124,10 +130,10 @@ Bidang Kesehatan
 2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pelayanan kesehatan reproduksi remaja;  
 b. pelayanan kesehatan reproduksi usia subur;  
-c. pelayanan kesehatan masa sebelum hamil, hamil, persalinan dan sesudah  persalinan; dan  
-d. pengaturan kehamilan, pelayanan kontrasepsi dan pelayanan kesehatan  seksual;  
-3. Perempuan mempunyai hak untuk mendapat pelayanan kesehatan sesuai  siklus kehidupan perempuan.  
-4. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dan ayat (3)  dilaksanakan melalui pendekatan promotif, preventif, kuratif dan  rehabilitatif.  
+c. pelayanan kesehatan masa sebelum hamil, hamil, persalinan dan sesudah persalinan; dan  
+d. pengaturan kehamilan, pelayanan kontrasepsi dan pelayanan kesehatan seksual;  
+3. Perempuan mempunyai hak untuk mendapat pelayanan kesehatan sesuai siklus kehidupan perempuan.  
+4. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dan ayat (3) dilaksanakan melalui pendekatan promotif, preventif, kuratif dan rehabilitatif.  
 
 ## Bagian Keempat
 
@@ -135,16 +141,16 @@ Bidang Ketenagakerjaan
 
 #### Pasal 6
 
-1. Perempuan memiliki kesempatan yang sama tanpa diskriminasi untuk  memperoleh pekerjaan.  
-2. Pemberi kerja yang menggunakan tenaga kerja perempuan, wajib  memberikan perlindungan yang mencakup kesejahteraan, keselamatan dan  kesehatan.  
+1. Perempuan memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh pekerjaan.  
+2. Pemberi kerja yang menggunakan tenaga kerja perempuan, wajib memberikan perlindungan yang mencakup kesejahteraan, keselamatan dan kesehatan.  
 3. Perlindungan sebagaimana dimaksud pada ayat (2) adalah:  
 a. perlindungan kesehatan/asuransi;  
 b. pelayanan kesehatan ditempat kerja;  
 c. kesempatan dan fasilitas memerah ASI atau memberikan ASI ditempat  kerja pada waktu yang ditentukan;  
-d. mendapatkan cuti melahirkan selama 3 (tiga) bulan setelah melahirkan;  dane. mendapatkan makanan seimbang bagi perempuan hamil.  
-4. Pemberi kerja yang tidak mempu memberikan perlindungan sebagaimana  dimaksud pada ayat (2) akan dikenai sanksi administratif.  
-
-Ketentuan lebih lanjut mengenai sanksi administratif sebagaimana  dimaksud pada ayat (3) diatur dalam Peraturan Bupati.  
+d. mendapatkan cuti melahirkan selama 3 (tiga) bulan setelah melahirkan; dan  
+e. mendapatkan makanan seimbang bagi perempuan hamil.  
+4. Pemberi kerja yang tidak mampu memberikan perlindungan sebagaimana dimaksud pada ayat (2) akan dikenai sanksi administratif.  
+5. Ketentuan lebih lanjut mengenai sanksi administratif sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan Bupati.  
 
 ## Bagian Kelima
 
@@ -152,15 +158,16 @@ Bidang Ekonomi
 
 #### Pasal 7
 
-1. Pemerintah Daerah bertanggungjawab memajukan kemandirian ekonomi  perempuan.  
-2. Kemandirian ekonomi perempuan sebagaimana dimaksud pada ayat (1)  bertujuan untuk meningkatkan kemandirian dan taraf hidup ekonomi  perempuan.  
-3. Kemandirian ekonomi perempuan sebagaimana dimaksud pada ayat (1)  dapat dilaksanakan melalui:a. Pemberian keterampilan dan pelatihan kerja;  
+1. Pemerintah Daerah bertanggung jawab memajukan kemandirian ekonomi perempuan.  
+2. Kemandirian ekonomi perempuan sebagaimana dimaksud pada ayat (1) bertujuan untuk meningkatkan kemandirian dan taraf hidup ekonomi  perempuan.  
+3. Kemandirian ekonomi perempuan sebagaimana dimaksud pada ayat (1) dapat dilaksanakan melalui:  
+a. Pemberian keterampilan dan pelatihan kerja;  
 b. Kemudahan dalam memperoleh pekerjaan;  
 c. Fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 d. kemudahan permodalan usaha;  
 e. fasilitasi pengembangan jaringan pemasaran; dan  
 f. Kemudahan akses informasi dan teknologi.  
-4. Ketentuan lebih lanjut mengenai pelaksanaan kemandirian ekonomi  perempuan sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan  Bupati.  
+4. Ketentuan lebih lanjut mengenai pelaksanaan kemandirian ekonomi perempuan sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan  Bupati.  
 
 ## Bagian Keenam
 
@@ -168,10 +175,10 @@ Jaminan Sosial
 
 #### Pasal 8
 
-1. Pemerintah Daerah bertanggungjawab menyediakan fasilitas pembinaan bagi  perempuan penyandang masalah sosial.  
+1. Pemerintah Daerah bertanggung jawab menyediakan fasilitas pembinaan bagi perempuan penyandang masalah sosial.  
 2. Pemerintah Daerah memberikan hak atas jaminan sosial bagi perempuan penyandang masalah sosial.  
-3. Tanggungjawab penyediaan fasilitas pembinaan bagi perempuan penyandang  masalah sosial berada di bawah Perangkat Daerah yang menyelenggarakan  urusan di bidang perempuan.  
-4. Ketentuan lebih lanjut mengenai jaminan sosial bagi perempuan perempuan  penyandang masalah sosial sebagaimana dimaksud pada ayat (2) diatur  dalam Peraturan Bupati.  
+3. Tanggung jawab penyediaan fasilitas pembinaan bagi perempuan penyandang masalah sosial berada di bawah Perangkat Daerah yang menyelenggarakan  urusan di bidang perempuan.  
+4. Ketentuan lebih lanjut mengenai jaminan sosial bagi perempuan perempuan penyandang masalah sosial sebagaimana dimaksud pada ayat (2) diatur  dalam Peraturan Bupati.  
 
 ## Bagian Ketujuh
 
@@ -179,9 +186,9 @@ Bidang Politik dan Pemerintahan
 
 #### Pasal 9
 
-1. Pemerintah Daerah memberikan jaminan kepada perempuan untuk  mempunyai hak memilih dan/atau dipilih dalam pemilihan umum,  pemilihan Kepala Daerah, pemilihan Kepala Desa dan/atau pemilihan  jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan  suara yang langsung, umum, bebas, rahasia, jujur dan adil menurut  ketentuan peraturan perundang-undangan.  
+1. Pemerintah Daerah memberikan jaminan kepada perempuan untuk mempunyai hak memilih dan/atau dipilih dalam pemilihan umum, pemilihan Kepala Daerah, pemilihan Kepala Desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan  suara yang langsung, umum, bebas, rahasia, jujur dan adil menurut ketentuan peraturan perundang-undangan.  
 2. Pemerintah Daerah memberikan kesempatan pada perempuan untuk  diangkat sebagai pejabat Pemerintah Daerah dan menempati posisi strategis  dalam pemerintahan.  
-3. Pemerintah Daerah dan/atau Partai Politik bertanggungjawab memberikan  pendidikan politik bagi perempuan.  
+3. Pemerintah Daerah dan/atau Partai Politik bertanggungjawab memberikan pendidikan politik bagi perempuan.  
 
 # BAB III
 
@@ -189,12 +196,13 @@ Bidang Politik dan Pemerintahan
 
 #### Pasal 10
 
-Pemerintah Daerah bertanggung jawab dalam melakukan pencegahan tindak  kekerasan terhadap perempuan dengan cara:  
+Pemerintah Daerah bertanggung jawab dalam melakukan pencegahan tindak kekerasan terhadap perempuan dengan cara:  
 a. Menyosialisasikan peraturan perundang-udangan;  
 b. Memberikan konseling/bimbingan;  
 c. Memberikan edukasi bahaya kekerasan dalam rumah tangga;  
 d. Melakukan seminar/lokakarya atau sejenisnya;  
-e. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan; dan f. Meningkatkan kesadaran masyarakat dalam berperilaku yang sesuai dengan  norma agama dan norma sosial.  
+e. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan; dan  
+f. Meningkatkan kesadaran masyarakat dalam berperilaku yang sesuai dengan norma agama dan norma sosial.  
 
 #### Pasal 11
 
@@ -207,7 +215,8 @@ Pelaksanaan perlindungan perempuan sebagaimana dimaksud dalam Pasal 11  ayat (1)
 a. menyediakan dan memfasilitasi pelayanan bagi perempuan korban kekerasan;  
 b. Penguatan dan pengembangan lembaga pelayanan bagi perempuan korban  kekerasan;  
 c. melaksanakan koordinasi pelaksanaan kebijakan, program dan kegiatan  perlindungan perempuan antar Perangkat Daerah;  
-d. menyusun sistem pendataan perlindungan perempuan; dan e. melakukan kerjasama daerah sesuai dengan ketentuan peraturan perundang undangan.  
+d. menyusun sistem pendataan perlindungan perempuan; dan  
+e. melakukan kerjasama daerah sesuai dengan ketentuan peraturan perundang undangan.  
 
 #### Pasal 13
 
@@ -233,7 +242,7 @@ c. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat  Desa/Kelurahan.
 
 #### Pasal 15
 
-Pendanaan pelaksanaan kebijakan program dan kegiatan pemberdayaan dan  perlindungan perempuan di Daerah bersumber dari:  
+Pendanaan pelaksanaan kebijakan program dan kegiatan pemberdayaan dan perlindungan perempuan di Daerah bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah; dan  
 c. Sumber dana lain yang sah dan tidak mengikat.  
@@ -263,51 +272,47 @@ Pada saat Peraturan Daerah ini mulai berlaku, semua peraturan atau ketentuan  me
 
 #### Pasal 18
 
-Peraturan pelaksanaan dari Peraturan Daerah ini ditetapkan paling lambat 1  (satu) tahun sejak Peraturan Daerah ini diundangkan.  
+Peraturan pelaksanaan dari Peraturan Daerah ini ditetapkan paling lambat 1 (satu) tahun sejak Peraturan Daerah ini diundangkan.  
 
 #### Pasal 19
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Agar setiap orang mengetahuinya, memerintahkan Pengundangan Peraturan  Daerah ini, dengan penempatannya dalam Lembaran Daerah Kabupaten Klaten.  
+Agar setiap orang mengetahuinya, memerintahkan Pengundangan Peraturan Daerah ini, dengan penempatannya dalam Lembaran Daerah Kabupaten Klaten.  
 
-Mengesahkan Salinan/Foto copy Sesuai dengan Aslinya
+Mengesahkan Salinan/Foto copy Sesuai dengan Aslinya  
 
-a.n BUPATI KLATEN
+a.n BUPATI KLATEN  
 
-##### SEKRETARIS DAERAH
+SEKRETARIS DAERAH  
 
-u.b
+KEPALA BAGIAN HUKUM  
 
-##### KEPALA BAGIAN HUKUM
+Luciana Rina Damayanti, SIP, MM Pembina Tk. I  
 
-Luciana Rina Damayanti, SIP, MM Pembina Tk. I
+NIP. 19710724 199003 2 001  
 
-##### NIP. 19710724 199003 2 001
+Diundangkan di Klaten  
 
-Diundangkan di Klaten pada tanggal 17 September 2018 Ditetapkan di Klaten pada tanggal 17 September 2018
+pada tanggal 17 September 2018  
 
-##### BUPATI KLATEN,
+Ditetapkan di Klaten  
 
-##### SRI MULYANI
+pada tanggal 17 September 2018  
 
-##### SEKRETARIS DAERAH KABUPATEN KLATEN,
+BUPATI KLATEN,  
 
-##### JAKA SAWALDI
+SRI MULYANI  
 
-LEMBARAN DAERAH KABUPATEN KLATEN TAHUN 2018 NOMOR 17 NOREG PERATURAN DAERAH KABUPATEN KLATEN, PROVINSI JAWA TENGAH:  ( 17/2018 )
+SEKRETARIS DAERAH KABUPATEN KLATEN,  
 
-##### PENJELASAN
+JAKA SAWALDI  
 
-##### ATAS
+LEMBARAN DAERAH KABUPATEN KLATEN TAHUN 2018 NOMOR 17 NOREG PERATURAN DAERAH KABUPATEN KLATEN, PROVINSI JAWA TENGAH: (17/2018)  
 
-##### PERATURAN DAERAH KABUPATEN KLATEN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN KLATEN
 
-##### NIOMOR 17 TAHUN 2018
-
-##### TENTANG
-
-##### PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+NOMOR 17 TAHUN 2018 TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
 
 ##### I. UMUM
 
@@ -335,7 +340,18 @@ Cukup jelas.
 
 #### Pasal 5
 
-Ayat 1 Cukup Jelas Ayat 2 Cukup Jelas Ayat 3 Cukup Jelas Ayat 4 Yang dimaksud dengan pendekatan promotif adalah suatu kegiatan  dan/atau serangkaian kegiatan pelayanaan kesehatan yang lebih  mengutamakan kegiatan yang bersifat promosi kesehatan.  
+Ayat 1  
+Cukup Jelas.  
+
+Ayat 2  
+Cukup Jelas.  
+
+Ayat 3  
+Cukup Jelas.  
+
+Ayat 4  
+
+Yang dimaksud dengan pendekatan promotif adalah suatu kegiatan  dan/atau serangkaian kegiatan pelayanaan kesehatan yang lebih  mengutamakan kegiatan yang bersifat promosi kesehatan.  
 
 Yang dimaksud dengan pendekatan preventif adalah suatu kegiatan  pencegahan terhadap suatu masalah kesehatan/penyakit.  
 
@@ -353,8 +369,24 @@ Cukup jelas.
 
 #### Pasal 8
 
-Ayat (1) Yang dimaksud dengan perempuan penyandang masalah sosial adalah  yang memenui kriteria:  
-a. Kemiskinanb. Ketelantaranc. Kecacatand. Keterpencilane. Ketunaan sosial dan penyimpangan perilakuf. Korban bencana dan/ataug. Korban tindak kekerasan, eksploitasi dan diskriminasi Ayat (2) Cukup Jelas Ayat (3) Cukup Jelas Ayat (4) Cukup Jelas
+Ayat (1)  
+Yang dimaksud dengan perempuan penyandang masalah sosial adalah yang menemui kriteria:  
+a. Kemiskinan  
+b. Ketelantaran  
+c. Kecacatan  
+d. Keterpencilan  
+e. Ketunaan sosial dan penyimpangan perilaku  
+f. Korban bencana dan/atau  
+g. Korban tindak kekerasan, eksploitasi dan diskriminasi 
+
+Ayat (2)  
+Cukup Jelas.  
+
+Ayat (3)  
+Cukup Jelas.  
+
+Ayat (4)  
+Cukup Jelas.  
 
 #### Pasal 9
 
@@ -400,4 +432,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN KLATEN NOMOR 18
+TAMBAHAN LEMBARAN DAERAH KABUPATEN KLATEN NOMOR 18  

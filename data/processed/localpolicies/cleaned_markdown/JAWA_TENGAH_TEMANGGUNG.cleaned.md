@@ -1,18 +1,20 @@
-# BUPATI TEMANGGUNG
+# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
 
-# PROVINSI JAWA TENGAH
+BUPATI TEMANGGUNG  
+
+PROVINSI JAWA TENGAH  
 
 # PERATURAN DAERAH KABUPATEN TEMANGGUNG
 
-# NOMOR 14 TAHUN 2020
+NOMOR 14 TAHUN 2020  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI TEMANGGUNG,
+BUPATI TEMANGGUNG,  
 
 Menimbang:  
  
@@ -27,13 +29,13 @@ b. bahwapemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasika
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapat perlindungan khusus agar tidak mengalami kekerasan dan dapat menjalani hidup layak sesuai prinsip kemanusiaan kesetaraan dan keadilan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf cperlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
-Mengingat 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
+Mengingat:  
+1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 13 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa Tengah;  
 3. Undang–Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi Mengenai ng Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention The Elimination Of All Forms Of Discrimination Againts Women) Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
 4. Undang–Undang Nomor 13 Tahun 1998 tentang  Kesejahteraan Lanjut Usia (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 3796);  
 5. Undang-Undang Nomor 20 Tahun 1999 tentang Pengesahan  ILO Convention No. 138 Concerning Minimum Age for  Admission to Employment (Konvensi ILO Mengenai Usia  Minimum untuk Diperbolehkan Bekerja) (Lembaran Negara  Republik Indonesia Tahun 1999 Nomor 56, Tambahan  Lembaran Negara Republik Indonesia Nomor 3835);  
-6. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3835);  
+6. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3835);  
 7. Undang-Undang Nomor 13 Tahun 2003 tentang  Ketenagakerjaan (Lembaran Negara Republik Indonesia  Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik  Indonesia Nomor 4279);  
 8. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan  Kekerasan dalam Rumah Tangga (Lembaran Negara Republik  Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran Negara  Republik Indonesia Nomor 4419);  
 9. Undang-Undang Nomor 13 Tahun 2006 tentang Perlindungan  Saksi dan Korban (Lembaran Negara Republik Indonesia  Tahun 2006 Nomor 64, Tambahan Lembaran Negara  Republik Indonesia Nomor 4635);  
@@ -45,13 +47,19 @@ Mengingat 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Ta
 15. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan  Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia  Nomor 5587) sebagaimana beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun  2014 tentang Pemerintahan Daerah (Lembaran Negara  Republik Indonesia Tahun 2015 Nomor 58, Tambahan  Lembaran Negara Republik Indonesia Nomor 5679);  
 16. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006, Tambahan Lembaran Negara Republik Indonesia Nomor 64);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TEMANGGUNG dan
+Dengan Persetujuan Bersama  
 
-# BUPATI TEMANGGUNG
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TEMANGGUNG  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN
+BUPATI TEMANGGUNG  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
 # BAB I
 
@@ -59,7 +67,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 
 1. Daerah adalah Kabupaten Temanggung.  
 2. Pemerintah Daerah adalah Bupati dan Perangkat Daerah sebagai unsur  penyelenggara Pemerintahan Daerah.  
@@ -68,17 +76,17 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 5. Perangkat Daerah adalah unsur pembantu Kepala Daerah dan Dewan  Perwakilan Rakyat Daerah dalam penyelenggaraan Urusan Pemerintah yang  menjadi kewenangan Daerah.  
 6. Perlindungan adalah segala upaya yang ditujukan untuk memberikan rasa  aman dan memenuhi hak-hak yang dilakukan oleh keluarga pelayanan terpadu,  advokat, lembaga sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya  baik sementara maupun berdasarkan penetapan pengadilan.  
 7. Perlindungan Perempuan adalah segala kegiatan untuk menjamin dan  melindungi perempuan dan hak-haknya, agar dapat hidup berkeadilan , sesuai  dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari  kekerasan dan diskriminasi.  
-8. Kekerasan terhadap perempuan adalah setiap tindakan berdasarkan perbedaan  jenis kelamin yang berakibat atau mungkin berakibat kesengsaraan atau  penderitaan perempuan secara fisik, seksual atau psikologi,termasuk ancaman  tindak tertentu, pemaksaan atau perampasan kemerdekaan, baik yang terjadi  di depan umum atau kehidupan pribadi.  
+8. Kekerasan terhadap perempuan adalah setiap tindakan berdasarkan perbedaan  jenis kelamin yang berakibat atau mungkin berakibat kesengsaraan atau  penderitaan perempuan secara fisik, seksual atau psikologi, termasuk ancaman  tindak tertentu, pemaksaan atau perampasan kemerdekaan, baik yang terjadi  di depan umum atau kehidupan pribadi.  
 9. Kekerasan fisik adalah setiap perbuatan yang mengakibatkan rasa sakit, cedera,  luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan atau  menyebabkan kematian.  
 10. Kekerasan psikis adalah perbuatan yang mengakibatkan ketakutan, hilangnya  rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya  dan atau penderitaan psikis berat pada seseorang.  
-11. Kekerasan seksual adalah setiap perbuatan yang berupa pelecehan seksual,  pemaksaaan hubungan seksual, pemaksaan hubungan seksual dengan tidak  wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain  untuk tujuan komersial atau tujuan tertentu.  
+11. Kekerasan seksual adalah setiap perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial atau tujuan tertentu.  
 12. Diskriminasi adalah setiap pembatasan, pelecehan atau pengucilan yang  langsung ataupun tak langsung didasarkan pada pembedaan manusia atas  dasar agama, suku, ras, etnik, kelompok, golongan, status sosial, status  ekonomi, jenis kelamin, bahasa, keyakinan politik yang berakibat pengurangan,  penyimpangan atau penghapusan pengakuan, pelaksanaan atau penggunaan  hak asasi manusia dan kebebasan dasar dalam kehidupan baik individual  maupun kolektif dalam bidang politik, ekonomi, hukum, sosial, budaya dan  aspek kehidupan lainnya.  
 13. Korban adalah perempuan termasuk Tenaga Kerja Perempuan yang bekerja ke  luar negeri dan anak yang mengalami kesengsaraan dan/atau penderitaan baik  langsung maupun tidak langsung sebagai akibat dari kekerasan tersebut.  
 14. Pemberdayaan Perempuan adalah setiap upaya meningkatkan kemampuan  fisik, mental, spiritual, sosial, pengetahuan dan ketrampilan agar perempuan  siap didayagunakan sesuai dengan kemampuan masing-masing.  
 15. Gender adalah perbedaan antara laki-laki dan perempuan dalam peran, fungsi,  hak, tanggung jawab, dan perilaku yang dibentuk oleh tata nilai sosial, budaya  dan adat istiadat dari kelompok masyarakat yang dapat berubah menurut waktu  dan kondisi setempat. Tanggung jawab dan perilaku yang dibentuk oleh tata  nilai sosial, budaya dan adat istiadat dari kelompok masyarakat yang dapat  berubah menurut waktu dan kondisi setempat.  
 16. Kesetaraan dan keadilan gender adalah kesempatan yang sama antara laki-laki  dan perempuan untuk ikut serta dalam proses pembangunan, akses yang sama  dalam segala bentuk pelayanan, serta memiliki status sosial dan ekonomi yang  seimbang.  
 17. Pengarusutamaan Gender yang selanjutnya disingkat PUG adalah strategi yang  dibangun untuk mengintegrasikan gender menjadi satu dimensi integral dari  perencanaan, penyusunan, pelaksanaan, penganggaran, pemantauan dan  evaluasi atas kebijakan, program adalah strategi yang dibangun untuk  mengintegrasikan gender menjadi satu dimensi integral dari perencanaan,  penyusunan, pelaksanaan, penganggaran, pemantauan dan evaluasi atas  kebijakan, program dan kegiatan pembangunan di daerah
-18. Kelompok Kerja Pengarusutamaan Gender yang selanjutnya disingkat Pokja  PUG adalah wadah konsultasi bagi pelaksana dan penggerak Pengarusutamaan  Gender dari berbagai instansi/lembaga di daerah.  
+18. Kelompok Kerja Pengarusutamaan Gender yang selanjutnya disingkat Pokja PUG adalah wadah konsultasi bagi pelaksana dan penggerak Pengarusutamaan  Gender dari berbagai instansi/lembaga di daerah.  
 19. Pelayanan terpadu adalah serangkaian kegiatan untuk melakukan perlindungan  bagi korban kekerasan termasuk tindak pidana perdagangan orang yang  dilaksanakan secara bersama-sama oleh instansi atau lembaga terkait sebagai  satu kesatuan penyelenggaraan rehabilitasi kesehatan, rehabilitasi sosial, atau  pihak lain yang mengetahui atau mendengar akan atau telah terjadi kekerasan  terhadap perempuan.  
 20. Perlindungan terhadap Perempuan adalah segala perbuatan yang ditujukan  untuk member rasa aman yang dilakukan oleh pihak kepolisian, kejaksaan,  pengadilan, lembaga sosial, atau pihak lain yang mengetahui atau mendengar  akan atau telah terjadi kekerasan terhadap perempuan.  
 21. perbuatan hukum adalah setiap perbuatan atau tindakan subjek hukum yang  mempunyai akibat hukum dan akibat hukum itu memang dikehendaki oleh subjek hukum.  
@@ -93,7 +101,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Asas-asas dalam Pemberdayaan dan Perlindungan Perempuan ini adalah:  a. penghormatan terhadap Hak Asasi Manusia;  
+Asas-asas dalam Pemberdayaan dan Perlindungan Perempuan ini adalah:  
+a. penghormatan terhadap Hak Asasi Manusia;  
 b. kesetaraan gender;  
 c. keadilan gender; dan  
 d. kepastian hukum.  
@@ -130,7 +139,8 @@ d. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di b
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf b dilakukan melalui upaya:  
 a. pembentukan,pengembangan, dan penguatan kapasitas lembaga perlindungan  perempuan dan anak termasuk unit-unit layanan pengaduan kekerasan  terhadap perempuan dan anak, serta layanan bantuan hukum;  
 b. peningkatan kualitas sumber daya manusia pengelola;  
-c. penguatan kapasitas lembaga PUG dan anak;dand. penguatan dan pengembangan system data gender dan anak.  
+c. penguatan kapasitas lembaga PUG dan anak; dan  
+d. penguatan dan pengembangan system data gender dan anak.  
 
 #### Pasal 7
 
@@ -148,7 +158,8 @@ c. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  penc
 Upaya preventif sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut:  
 a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya  perempuan dan anak;  
 b. mengadakan gerakan masif dan berkelanjutan yang melibatkan masyarakat  dalam aksi pencegahan dan penanganan kekerasan;  
-c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga; dan d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan  dan perlindungan anak.  
+c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga; dan  
+d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan dan perlindungan anak.  
 
 #### Pasal 10
 
@@ -173,17 +184,21 @@ Umum
 
 #### Pasal 12
 
-1. Setiap perempuan berhak untuk:a. hidup dan mempertahankan hidup serta meningkatkan taraf  kehidupannya ;  
+1. Setiap perempuan berhak untuk:  
+a. hidup dan mempertahankan hidup serta meningkatkan taraf  kehidupannya;  
 b. memenuhi kebutuhan dasarnya untuk tumbuh dan berkembang secara  layak, berkeluarga dan melanjutkan keturunan;  
-c. mengembangkan pribadinya, untuk memperoleh pendidikan, dan  meningkatkan kualitas hidupnya agar menjadi manusia yang beriman,  bertaqwa, bertanggung jawab, berakhlak mulia, bahagia, dan sejahtera  sesuai dengan hak asasi manusia;  
-d. memperoleh keadilan, rasa aman, dan kebebasan menyampaikan pendapat  tanpa diskriminasi ;  
+c. mengembangkan pribadinya, untuk memperoleh pendidikan, dan  meningkatkan kualitas hidupnya agar menjadi manusia yang beriman,  bertaqwa, bertanggung jawab, berakhlak mulia, bahagia, dan sejahtera sesuai dengan hak asasi manusia;  
+d. memperoleh keadilan, rasa aman, dan kebebasan menyampaikan pendapat tanpa diskriminasi;  
 e. bebas dari perbudakan atau diperhamba dan ancaman ;  
-f. memperoleh perlindungan diri pribadi, keluarga, kehormatan, martabat  dan hak miliknya;  
+f. memperoleh perlindungan diri pribadi, keluarga, kehormatan, martabat dan hak miliknya;  
 g. mendapatkan kesejahteraan dan kehidupan yang layak ;  
 h. berpartisipasi dalam politik;  
 i. melakukan perbuatan hukum;  
-j. bebas memilih pasangan dalam perkawinannya.  k. memilih pekerjaan yang disukainya dan berhak pula atas syarat  ketenagakerjaan yang adil; dan  
-l. mendapatkan upah kerja yang adil sesuai dengan pekerjaannya yang  sebanding dan sepadan dengan martabat kemanusiaannya (2) Hak berpartisipasi dalam politik sebagaimana dimaksud pada ayat (1) huruf h  adalah, perempuan berhak untuk:a. memilih dan/atau dipilih dalam pemilihan umum, pemilihan Kepala  Daerah, pemilihan kepala desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan suara yang langsung,  umum, bebas, rahasia; dan  
+j. bebas memilih pasangan dalam perkawinannya;  
+k. memilih pekerjaan yang disukainya dan berhak pula atas syarat  ketenagakerjaan yang adil; dan  
+l. mendapatkan upah kerja yang adil sesuai dengan pekerjaannya yang  sebanding dan sepadan dengan martabat kemanusiaannya.  
+2. Hak berpartisipasi dalam politik sebagaimana dimaksud pada ayat (1) huruf h  adalah, perempuan berhak untuk:  
+a. memilih dan/atau dipilih dalam pemilihan umum, pemilihan Kepala  Daerah, pemilihan kepala desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan suara yang langsung,  umum, bebas, rahasia; dan  
 b. diangkat dalam setiap jabatan pemerintahan.  
 
 ## Bagian Kedua
@@ -224,7 +239,8 @@ c. menaati ketentuan peraturan perundang-undangan.
 #### Pasal 15
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab terhadap  penyelenggaraan pemberdayaan dan perlindungan perempuan.  
-2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud  pada ayat (1)meliputi:a. penetapan kebijakan, program, dan kegiatan;  
+2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud  pada ayat (1)meliputi:  
+a. penetapan kebijakan, program, dan kegiatan;  
 b. penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan; dan  
 d. koordinasi kebijakan, program dan kegiatan.  
@@ -272,7 +288,7 @@ Perlindungan Ketenagakerjaan
 
 #### Pasal 20
 
-1. Perempuan memiliki kesempatan yang sama tanpa Diskriminasi untuk  memperoleh pekerjaan.  
+1. Perempuan memiliki kesempatan yang sama tanpa Diskriminasi untuk memperoleh pekerjaan.  
 2. Kesempatan yang sama sebagaimana dimaksud pada ayat (1) diwujudkan melalui  pemenuhan hak perempuan untuk mendapatkan perlakuan yang sama dari Pengusaha.  
 
 #### Pasal 21
@@ -314,14 +330,17 @@ d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu  pengeta
 
 #### Pasal 26
 
-1. Penyelenggaraan Pemberdayaan Perempuan dibidang politik sebagaimana  dimaksud dalam Pasal 23 huruf c, meliputi:a. pelibatan perempuan dalam pengambilan keputusan di berbagai tingkatan;  
+1. Penyelenggaraan Pemberdayaan Perempuan dibidang politik sebagaimana  dimaksud dalam Pasal 23 huruf c, meliputi:  
+a. pelibatan perempuan dalam pengambilan keputusan di berbagai tingkatan;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dan  
-d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan  mengeluarkan pendapat (2) Penyelenggaraan Pemberdayaan Perempuan di bidang politik sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan Peraturan  Perundang-undangan.  
+d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan  mengeluarkan pendapat.  
+2. Penyelenggaraan Pemberdayaan Perempuan di bidang politik sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan Peraturan  Perundang-undangan.  
 
 #### Pasal 27
 
-1. Penyelenggaraan Pemberdayaan Perempuan dibidang hukum sebagaimana  dimaksud dalam Pasal 22 huruf d, meliputi:a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan  komunikasi, informasi dan edukasi; dan  
+1. Penyelenggaraan Pemberdayaan Perempuan dibidang hukum sebagaimana  dimaksud dalam Pasal 22 huruf d, meliputi:  
+a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan  komunikasi, informasi dan edukasi; dan  
 b. fasilitasi akses dan layanan konsultasi hukum.  
 2. Penyelenggaraan Pemberdayaan Perempuan di bidang hukum sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan Peraturan  Perundang-undangan.  
 
@@ -350,17 +369,20 @@ b. melakukan pendidikan tentang nilai-nilai anti Kekerasan terhadap  Perempuan;
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan penyelenggaraan Perlindungan akan Korban kekerasan;  
 d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan  Perlindungan Korban kekerasan; dan  
 e. menyusun laporan terhadap penyelenggaraan Perlindungan perempuan  Korban kekerasan.  
-2. Untuk mengantisipasi terjadinya tindak Kekerasan terhadap Perempuan, Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu  untuk Korban dengan melibatkan unsur masyarakat; dan  
+2. Untuk mengantisipasi terjadinya tindak Kekerasan terhadap Perempuan, Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
+a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu  untuk Korban dengan melibatkan unsur masyarakat; dan  
 b. mendorong kepedulian masyarakat akan pentinganya Perlindungan  terhadap Korban.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban sebagaimana dimaksud  pada ayat (1) dan ayat (2) harus memperhatikan hak dan kewajiban orang tua,  wali atau orang lain yang secara hukum bertanggung jawab terhadap korban.  
-4. Untuk mencegah terjadinya tindak Kekerasan terhadap Perempuan, Pemerintah  Daerah melakukan upaya sebagai berikut:a. melakukan penyuluhan dan sosialisasi mengenai hal-hal yang berkenaan dengan Kekerasan terhadap Perempuan;  
+4. Untuk mencegah terjadinya tindak Kekerasan terhadap Perempuan, Pemerintah  Daerah melakukan upaya sebagai berikut:  
+a. melakukan penyuluhan dan sosialisasi mengenai hal-hal yang berkenaan dengan Kekerasan terhadap Perempuan;  
 b. melakukan sosialisasi terhadap hak-hak perempuan;  
 c. mengupayakan peningkatan pendidikan bagi perempuan;  
-d. membuka kursus-kursus ketrampilan bagi perempuan guna menunjang  kebutuhan ekonomi keluarga;  
+d. membuka kursus-kursus ketrampilan bagi perempuan guna menunjang kebutuhan ekonomi keluarga;  
 e. menciptakan lapangan kerja bagi perempuan;  
 f. memberikan penyuluhan untuk segera melaporkan kepada aparat  setempat apabila terjadi Kekerasan terhadap Perempuan;  
 g. memberdayakan Organisasi-organisasi Sosial Kemasyarakatan dan  Organisasi-organisasi perempuan untuk meningkatkan pengetahuan, dan wawasan perempuan;  
-h. membangun Pos Pengaduan Perlindungan Perempuan; dan i. membentuk jaringan kerja dalam upaya pencegahan kekerasan.  
+h. membangun Pos Pengaduan Perlindungan Perempuan; dan  
+i. membentuk jaringan kerja dalam upaya pencegahan kekerasan.  
 
 ## Bagian Ketiga
 
@@ -368,8 +390,8 @@ Penyelenggaraan Perlindungan
 
 #### Pasal 30
 
-1. Pemerintah Daerah memfasilitasi terbentuknya lembaga Perlindungan  Perempuan.  
-2. Lembaga Perlindungan Perempuan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan membentuk P2TP2A.  
+1. Pemerintah Daerah memfasilitasi terbentuknya lembaga Perlindungan Perempuan.  
+2. Lembaga Perlindungan Perempuan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan membentuk P2TP2A.  
 3. Ketentuan lebih lanjut mengenai P2TP2A diatur dengan Peraturan Bupati. Pasal 31 Pelaksanaan tugas dan fungsi P2TP2A di Daerah dikoordinasikan oleh Perangkat  Daerah yang membidangi urusan pemberdayaan perempuan.  
 
 #### Pasal 32
@@ -390,7 +412,8 @@ Bentuk Kekerasan dan Perlindungan
 
 #### Pasal 34
 
-1. Bentuk Kekerasan terhadap Perempuan meliputi:a. kekerasan fisik;  
+1. Bentuk Kekerasan terhadap Perempuan meliputi:  
+a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi; dan  
 d. kekerasan psikis.  
@@ -416,8 +439,8 @@ e. Perlindungan psikis.
 2. Bentuk Perlindungan medis sebagaimana dimaksud pada ayat (1) huruf a, berupa perawatan dan pemulihan luka luka fisik yang bertujuan untuk  pemulihan kondisi fisik Korban yang dilakukan tenaga medis dan paramedis.  
 3. Bentuk hukum sebagaimana dimaksud pada ayat (1) huruf b, berupa pelayanan  dan pendampingan untuk membantu Korban dalam menjalani proses hukum  dan peradilan.  
 4. Bentuk Perlindungan medico legal sebagaimana dimaksud pada ayat (1) huruf c, berupa layanan medis untuk kepentingan pembuktian dibidang hukum.  
-5. Bentuk Perlindungan ekonomi sebagimana dimaksud pada ayat (1) huruf d, berupa layanan untuk ketrampilan dan untuk memberikan akses ekonomi agar  Korban kekerasan dapat mandiri.  
-6. Bentuk Perlindungan psikis sebagimana dimaksud pada ayat (1) huruf e berupa  dukungan secara psikologis sehingga korban mempunyai rasa percaya diri,  kekuatan dan kemandirian dalam penyelesaian masalah pendampingan dalam  rangka memulihkan kondisi traumatis Korban termasuk penyediaan rumah  aman untuk melindungi korban dari berbagai ancaman dan intimidasi bagi  korban dan memberikan.  
+5. Bentuk Perlindungan ekonomi sebagaimana dimaksud pada ayat (1) huruf d, berupa layanan untuk ketrampilan dan untuk memberikan akses ekonomi agar Korban kekerasan dapat mandiri.  
+6. Bentuk Perlindungan psikis sebagaimana dimaksud pada ayat (1) huruf e berupa  dukungan secara psikologis sehingga korban mempunyai rasa percaya diri, kekuatan dan kemandirian dalam penyelesaian masalah pendampingan dalam  rangka memulihkan kondisi traumatis Korban termasuk penyediaan rumah  aman untuk melindungi korban dari berbagai ancaman dan intimidasi bagi  korban dan memberikan.  
 
 #### Pasal 37
 
@@ -428,7 +451,7 @@ c. menjaga kerahasiaan saksi dan/atau Korban;
 d. menjamin keadilan dan kepastian hukum bagi saksi dan/atau Korban;  
 e. penyediaan ruang pelayanan khusus di Kantor Kepolisian;  
 f. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani;  
-g. pembuatan dan pengembangam sistem dan mekanisme kerjasama program  pelayanan yang melibatkan pihak yang mudah diakses oleh Korban;  
+g. pembuatan dan pengembangan sistem dan mekanisme kerjasama program  pelayanan yang melibatkan pihak yang mudah diakses oleh Korban;  
 h. memberikan Perlindungan bagi pendamping, saksi, keluarga, dan teman  Korban;  
 i. memberikan Perlindungan bagi pekerja/buruh perempuan sesuai ketentuan Peraturan Perundang-undangan.  
 
@@ -449,17 +472,9 @@ PERAN SERTA dan PARTISIPASI MASYARAKAT
 
 Pelaporan Pemberdayaan dan Perlindungan Perempuan dilakukan 1 (satu) kali dalam  setahun dan dikoordinasikan oleh Perangkat Daerah yang membidangi urusan  pemberdayaan perempuan dengan Provinsi kepada Menteri yang menyelenggarakan  urusan Pemerintahan di bidang Pemberdayaan Perempuan dan Perlindungan Anak  melalui Sekretaris Kementerian.  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TEMANGGUNG
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN TEMANGGUNG
-
-##### NOMOR 14 TAHUN 2020
-
-##### TENTANG
-
-##### PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+NOMOR 14 TAHUN 2020 TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
 
 ##### I. UMUM
 
@@ -469,7 +484,7 @@ Selain itu, konstitusi Negara Republik Indonesia juga telah  mengamanatkan dalam
 
 Perlindungan yang dilakukan Pemerintah terhadap perempuan secara  nyata dilakukan, yaitu dengan diterbitkannya Undang-Undang Nomor 7 Tahun  1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk  Diskriminasi Terhadap Wanita (Conventionnon the Elimination of All Forms of  Discrimination Against Women), yang selanjutnya disingkat CEDAW.  
 
-Upaya pemerintah dalam melindungi warga negaranya utamanya kaum  perempuan, juga tersirat jelas dalam ketentuan Pasal 3 ayat (2) Undang-Undang  Nomor 39 Tahun 1999 tentang Hak Asasi Manusia yang menyatakan bahwa: "  setiap orang berhak atas pengakuan, jaminan, perlindungan dan perlakuan  hukum yang adil serta mendapat kepastian hukum dan perlakuan yang sama  didepan hukum".  
+Upaya pemerintah dalam melindungi warga negaranya utamanya kaum  perempuan, juga tersirat jelas dalam ketentuan Pasal 3 ayat (2) Undang-Undang  Nomor 39 Tahun 1999 tentang Hak Asasi Manusia yang menyatakan bahwa: "setiap orang berhak atas pengakuan, jaminan, perlindungan dan perlakuan  hukum yang adil serta mendapat kepastian hukum dan perlakuan yang sama  didepan hukum".  
 
 Kekerasan dan perdagangan terhadap perempuan sudah diatur dalam  Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia, Undang Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah  Tangga, dan Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan  Tindak Pidana Perdagangan Orang.  
 
@@ -481,176 +496,180 @@ Peraturan Daerah ini diharapkan mampu mendorong upaya perbaikan  atas akses, kon
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Huruf a Yang dimaksud dengan penghormatan terhadap Hak Asasi  Manusia adalah menghormati dan menegakkan hukum hak azasi  manusia.  
+Huruf a  
+Yang dimaksud dengan penghormatan terhadap Hak Asasi  Manusia adalah menghormati dan menegakkan hukum hak azasi  manusia.  
 
-Huruf b Yang dimaksud Kesetaraan Gender adalah kesamaan kondisi bagi  laki-laki dan perempuan untuk memperoleh kesempatan serta  hak-haknya sebagai manusia, agar mampu berperan dan  berpertisipasi dalam kegiatan politik, hukum, ekonomi, sosial dan  budaya, Pendidikan dan pertahanan dan keamanan nasional, serta  kesamaan dalam menikmati hasil pembangunan tersebut.  
+Huruf b  
+Yang dimaksud Kesetaraan Gender adalah kesamaan kondisi bagi  laki-laki dan perempuan untuk memperoleh kesempatan serta  hak-haknya sebagai manusia, agar mampu berperan dan  berpertisipasi dalam kegiatan politik, hukum, ekonomi, sosial dan  budaya, Pendidikan dan pertahanan dan keamanan nasional, serta  kesamaan dalam menikmati hasil pembangunan tersebut.  
 
-Huruf c Yang dimaksud Keadilan Gender adalah suatu proses dan  perlakuan adil terhadap perempuan dan laki-laki. Dengan keadilan  gender berarti tidak ada pembakuan peran, beban, ganda,  subkoordinasi, marginalisasi dan kekerasan terhadap perempuan  maupun laki-laki.  
+Huruf c  
+Yang dimaksud Keadilan Gender adalah suatu proses dan  perlakuan adil terhadap perempuan dan laki-laki. Dengan keadilan  gender berarti tidak ada pembakuan peran, beban, ganda,  subkoordinasi, marginalisasi dan kekerasan terhadap perempuan  maupun laki-laki.  
 
-Huruf d Yang dimaksud dengan kepastian hukum adalah asas dalam  negara hukum yang mengutamakan landasan peraturan  perundang-undangan, kepatutan, dan keadilan dalam setiap  kebijakan Penyelenggara Negara.  
+Huruf d  
+Yang dimaksud dengan kepastian hukum adalah asas dalam  negara hukum yang mengutamakan landasan peraturan  perundang-undangan, kepatutan, dan keadilan dalam setiap  kebijakan Penyelenggara Negara.  
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
-C0ukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 24
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 25
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 26
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 27
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 28
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 29
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 30
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 31
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 32
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 33
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 34
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 35
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 36
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 37
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 38
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 39
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 40
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 41
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 42
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN TEMANGGUNG NOMOR 120
+TAMBAHAN LEMBARAN DAERAH KABUPATEN TEMANGGUNG NOMOR 120  

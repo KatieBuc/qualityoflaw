@@ -1,58 +1,29 @@
-# BUPATI SANGGAU
+# PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN  
 
-# PROVINSI KALIMANTAN BARAT
+BUPATI SANGGAU  
+
+PROVINSI KALIMANTAN BARAT  
 
 # PERATURAN DAERAH KABUPATEN SANGGAU NOMOR 12 TAHUN 2019
 
-# TENTANG
+TENTANG  
 
-PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI SANGGAU, Menimbang:  
- 
- 
- 
- 
- 
- 
- 
-Dirancang oleh: Kepala DINSOSP3AKB Kab. Sanggau,
+PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN  
 
-# YOHANES
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# SUPRIYANTO,  SH
+BUPATI SANGGAU,  
 
-# NIP. 19580610  199003 1 004
+Menimbang:  
 
-Diteliti oleh: Kabag. Hukum  dan HAM Setda. Kab.  
-
-Sanggau,
-
-# YAKOBUS, SH,  MH
-
-NIP. 19700223 Mengingat:  
- 
- 
- 
- 
- 
- 
- 
-Disetujui oleh:  
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dari segala  bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan merupakan pelanggaran hak asasi  manusia, sehingga perlu dilindungi harga diri dan  martabatnya serta dijamin hak hidupnya sesuai  dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan di  Kabupaten Sanggau menunjukan kecenderungan  meningkat sehingga harus dilakukan upaya  pencegahan dan optimalisasi penanggulangan  tindak kekerasan terhadap perempuan, sehingga  diperlukan Peraturan Daerah yang menjamin  perlindungan hukum terhadap perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c,  maka perlu menetapkan Peraturan Daerah  tentang Perlindungan Perempuan dari Tindak  Kekerasan;  
+
+Mengingat:  
+
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
-Sekda. Kab.  Sanggau,
-
-# A.L
-
-# LEYSANDRISH NIP. 19610616  199001 1 001
-
-Disahkan oleh: Pjs. Bupati Sanggau,
-
-# MOSES TABAH
-
 2. Undang-Undang Nomor 27 Tahun 1959 tentang  Penetapan Undang-Undang Darurat Nomor 3  Tahun 1953 tentang Pembentukan Daerah  Tingkat II di Kalimantan (Lembaran Negara  Republik Indonesia Tahun 1959 Nomor 9) sebagai  Undang-Undang (Lembaran Negara Republik  Indonesia Tahun 1959 Nomor 72, Tambahan  Lembaran Negara Republik Indonesia Nomor  1820);  
 3. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga  (Lembaran Negara Republik Indonesia Tahun  2004 Nomor 95, Tambahan Lembaran Negara  Republik Indonesia Nomor 4419);  
 4. Undang–Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara  Republik Indonesia Tahun 2014 Nomor 244,  Tambahan Lembaran Negara Republik Indonesia  Nomor 5587) sebagaimana telah beberapa kali  diubah, terakhir dengan Undang-Undang Nomor 9  Tahun 2015 tentang Perubahan Kedua atas  Undang–Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2015 Nomor 58, Tambahan  Lembaran Negara Republik Indonesia Nomor  5679);  
@@ -61,13 +32,19 @@ Disahkan oleh: Pjs. Bupati Sanggau,
 7. Peraturan Presiden Nomor 18 Tahun 2014 tentang Perlindungan dan Pemberdayaan Perempuan dan Anak Dalam Konflik Sosial (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 44);  
 8. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 01 Tahun 2010 tentang Standar Pelayanan Minimal Bidang Layanan Terpadu Bagi Perempuan dan Anak Korban Kekerasan (Berita Negara Republik Indonesia Tahun 2010 Nomor 56);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SANGGAU dan
+Dengan Persetujuan Bersama  
 
-# BUPATI SANGGAU
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SANGGAU  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DARI TINDAK KEKERASAN.  
+BUPATI SANGGAU  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN.  
 
 # BAB I
 
@@ -75,8 +52,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DARI TINDAK KEKERAS
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Bupati adalah Bupati Sanggau.  
 2. Daerah adalah Kabupaten Sanggau.  
 3. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara  Pemerintahan Daerah yang memimpin pelaksanaan urusan  Pemerintahan yang menjadi kewenangan Daerah.  
@@ -115,11 +91,13 @@ Pencegahan
 
 #### Pasal 3
 
-1. Upaya pencegahan Kekerasan Terhadap Perempuan dilakukan secara  terpadu oleh Pemerintah Daerah yang dikoordinasikan oleh Perangkat  Daerah yang membidangi pemberdayaan perempuan.  
-2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dengan cara:a. membentuk jejaring kerja;  
+1. Upaya pencegahan Kekerasan Terhadap Perempuan dilakukan secara  terpadu oleh Pemerintah Daerah yang dikoordinasikan oleh Perangkat Daerah yang membidangi pemberdayaan perempuan.  
+2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dengan cara:  
+a. membentuk jejaring kerja;  
 b. melakukan koordinasi, integrasi, dan sinkronisasi pencegahan  Kekerasan berdasarkan pola kemitraan;  
 c. membentuk sistem pencegahan Kekerasan;  
-d. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan Perlindungan Perempuan Korban Kekerasan;  dane. memberikan informasi mengenai Perlindungan Perempuan dari  tindak Kekerasan melalui media komunikasi, informasi dan  edukasi (KIE).  
+d. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan Perlindungan Perempuan Korban Kekerasan; dan  
+e. memberikan informasi mengenai Perlindungan Perempuan dari  tindak Kekerasan melalui media komunikasi, informasi dan  edukasi (KIE).  
 
 #### Pasal 4
 
@@ -163,7 +141,8 @@ Pemberdayaan
 Bentuk pemberdayaan bagi perempuan Korban Kekerasan meliputi:  
 a. membentuk komunitas perempuan Korban Kekerasan;  
 b. pelatihan kerja;  
-c. usaha ekonomi produktif dan kelompok usaha bersama; dan d. bantuan permodalan.  
+c. usaha ekonomi produktif dan kelompok usaha bersama; dan  
+d. bantuan permodalan.  
 
 #### Pasal 9
 
@@ -195,7 +174,8 @@ a. kekerasan fisik;
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran;  
-e. eksploitasi; dan/atauf. kekerasan lainnya.  
+e. eksploitasi; dan/atau  
+f. kekerasan lainnya.  
 
 #### Pasal 13
 
@@ -209,7 +189,8 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 12 huruf b meliputi  perbuatan
 
 Kekerasan seksual sebagaimana dimaksud dalam Pasal 12 huruf c meliputi:  
 a. perbuatan yang berupa pelecehan seksual;  
-b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/atauc. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
+b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau  
+c. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 
 #### Pasal 16
 
@@ -245,7 +226,8 @@ e. dirahasiakan identitasnya;
 f. mendapatkan kompensasi;  
 g. mendapatkan Rehabilitasi Sosial;  
 h. mendapatkan Penanganan Pengaduan;  
-i. mendapatkan kemudahan dalam proses peradilan; dan j. mendapatkan Pendampingan.  
+i. mendapatkan kemudahan dalam proses peradilan; dan  
+j. mendapatkan Pendampingan.  
 
 # BAB V
 
@@ -292,7 +274,8 @@ Koordinasi Perlindungan Korban
 2. Jejaring sebagaimana dimaksud pada ayat (1) bertujuan untuk:  
 a. mengkoordinasikan dan mensinkronisasikan penanganan  pelayanan PPT;  
 b. mengembangkan jejaring serta sistem rujukan; dan  
-c. mengumpulkan, menyusun dan menyajikan laporan Kekerasan. (3) Jejaring sebagaimana dimaksud pada ayat (2) melaksanakan tugas  dan fungsinya sesuai dengan bentuk pelayanan sebagaimana  dimaksud dalam Pasal 6.  
+c. mengumpulkan, menyusun dan menyajikan laporan Kekerasan.
+3. Jejaring sebagaimana dimaksud pada ayat (2) melaksanakan tugas  dan fungsinya sesuai dengan bentuk pelayanan sebagaimana  dimaksud dalam Pasal 6.  
 
 # BAB VI
 
@@ -333,7 +316,8 @@ b. membentuk unit perlindungan perempuan dalam organisasi  kemasyarakatan;
 c. melakukan sosialisasi hak perempuan secara mandiri;  
 d. melakukan upaya pencegahan jika menemukan indikasi  Kekerasan Terhadap Perempuan di masyarakat;  
 e. melakukan pertolongan pertama pada Korban; dan  
-f. melaporkan kepada instansi yang berwenang apabila  dilingkungannya terjadi Kekerasan Terhadap Perempuan. (3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga  swadaya masyarakat, lembaga pendidikan, lembaga keagamaan,  swasta, dan/atau media massa.  
+f. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi Kekerasan Terhadap Perempuan.  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga  swadaya masyarakat, lembaga pendidikan, lembaga keagamaan,  swasta, dan/atau media massa.  
 
 # BAB X
 
@@ -342,7 +326,8 @@ f. melaporkan kepada instansi yang berwenang apabila  dilingkungannya terjadi Ke
 #### Pasal 28
 
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan terhadap  pelaksanaan Perlindungan Perempuan.  
-2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:a. koordinasi;  
+2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:  
+a. koordinasi;  
 b. bimbingan;  
 c. pendidikan dan pelatihan; dan  
 d. pemantauan dan evaluasi.  
@@ -361,37 +346,29 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Sanggau.  
 
-Ditetapkan di Sanggau pada tanggal 30 Desember 2019
+Ditetapkan di Sanggau  
 
-##### BUPATI SANGGAU,
+pada tanggal 30 Desember 2019  
 
-##### PAOLUS HADI
+BUPATI SANGGAU,  
 
-Diundangkan di Sanggau pada tanggal 30 Desember 2019
+PAOLUS HADI  
 
-##### SEKRETARIS DAERAH KABUPATEN SANGGAU,
+Diundangkan di Sanggau  
 
-##### KUKUH TRIYATMAKA
+pada tanggal 30 Desember 2019  
+
+SEKRETARIS DAERAH KABUPATEN SANGGAU,  
+
+KUKUH TRIYATMAKA  
 
 LEMBARAN DAERAH KABUPATEN SANGGAU TAHUN 2019 NOMOR 12. NOREG PERATURAN DAERAH KABUPATEN SANGGAU, PROVINSI  KALIMANTAN BARAT: ( 12 ) / ( 2019 ) Salinan sesuai dengan aslinya Plt. KEPALA BAGIAN HUKUM DAN HAM BAMBANG,  
-S.H.,  
-M.Hum.  
 
-Penata
+NIP 19821026 201001 1 010  
 
-##### NIP 19821026 201001 1 010
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN SANGGAU
 
-##### PENJELASAN
-
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN SANGGAU
-
-##### NOMOR 12 TAHUN 2019
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN
+NOMOR 12 TAHUN 2019 TENTANG PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN
 
 ##### I. UMUM
 
@@ -409,33 +386,47 @@ Peraturan Daerah ini mengatur upaya Perlindungan Perempuan khususnya dalam bentu
 
 #### Pasal 1
 
-Angka 1 Cukup jelas.  
+Angka 1  
+Cukup jelas.  
 
-Angka 2 Cukup jelas.  
+Angka 2  
+Cukup jelas.  
 
-Angka 3 Cukup jelas.  
+Angka 3  
+Cukup jelas.  
 
-Angka 4 Cukup jelas.  
+Angka 4  
+Cukup jelas.  
 
-Angka 5 Cukup jelas.  
+Angka 5  
+Cukup jelas.  
 
-Angka 6 Cukup jelas.  
+Angka 6  
+Cukup jelas.  
 
-Angka 7 Cukup jelas.  
+Angka 7  
+Cukup jelas.  
 
-Angka 8 Cukup jelas.  
+Angka 8  
+Cukup jelas.  
 
-Angka 9 Cukup jelas.  
+Angka 9  
+Cukup jelas.  
 
-Angka 10 Cukup jelas.  
+Angka 10  
+Cukup jelas.  
 
-Angka 11 Cukup jelas.  
+Angka 11  
+Cukup jelas.  
 
-Angka 12 Cukup jelas.  
+Angka 12  
+Cukup jelas.  
 
-Angka 13 Cukup jelas.  
+Angka 13  
+Cukup jelas.  
 
-Angka 14 Yang dimaksud dengan upaya dari aspek promotif yaitu  usaha mempromosikan/mensosialisasikan tentang tindak  Kekerasan kepada masyarakat, dengan tujuan  meningkatkan kewaspadaan dan kepekaan masyarakat  terhadap bahaya Kekerasan yang mengancam perempuan.  
+Angka 14  
+Yang dimaksud dengan upaya dari aspek promotif yaitu  usaha mempromosikan/mensosialisasikan tentang tindak  Kekerasan kepada masyarakat, dengan tujuan  meningkatkan kewaspadaan dan kepekaan masyarakat  terhadap bahaya Kekerasan yang mengancam perempuan.  
 
 Yang dimaksud dengan upaya dari aspek preventif yaitu  usaha yang mengedepankan aspek pencegahan dengan  sasaran masyarakat yang rentan terkena/menjadi Korban Kekerasan serta menerima dampaknya. Upaya preventif  dapat dilakukan melalui pemberdayaan masyarakat berupa  kegiatan pelatihan dan lain-lain.  
 
@@ -443,17 +434,23 @@ Yang dimaksud dengan upaya dari aspek kuratif yaitu  upaya yang dilakukan berupa
 
 Yang dimaksud dengan aspek rehabilitatif yaitu usaha yang dilakukan sebagai upaya pemulihan Korban Kekerasan baik  secara fisik, psikis maupun psikososialnya.  
 
-Angka 15 Cukup jelas.  
+Angka 15  
+Cukup jelas.  
 
-Angka 16 Cukup jelas.  
+Angka 16  
+Cukup jelas.  
 
-Angka 17 Cukup jelas.  
+Angka 17  
+Cukup jelas.  
 
-Angka 18 Cukup jelas.  
+Angka 18  
+Cukup jelas.  
 
-Angka 19 Cukup jelas.  
+Angka 19  
+Cukup jelas.  
 
-Angka 20 Cukup jelas.  
+Angka 20  
+Cukup jelas.  
 
 #### Pasal 2
 
@@ -521,45 +518,64 @@ Cukup jelas.
 
 #### Pasal 18
 
-Huruf a Ancaman kekerasan yakni setiap perbuatan secara  melawan hukum secara langsung maupun tidak langsung  termasuk diantaranya melalui jejaring media sosial dan  alat komunikasi.  
+Huruf a  
+Ancaman kekerasan yakni setiap perbuatan secara  melawan hukum secara langsung maupun tidak langsung  termasuk diantaranya melalui jejaring media sosial dan  alat komunikasi.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
 #### Pasal 19
 
-Huruf a Yang dimaksud dengan “hak dihormati harkat dan  martabatnya sebagai manusia” adalah menjunjung tinggi  hak asasi manusia.  
+Huruf a  
+Yang dimaksud dengan “hak dihormati harkat dan  martabatnya sebagai manusia” adalah menjunjung tinggi  hak asasi manusia.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Yang dimaksud dengan “hak mendapatkan informasi” adalah  hak mendapatkan keterangan, pertanyaan, gagasan, dan  tanda yang mengandung nilai, makna dan pesan baik data,  fakta maupun penjelasannya yang dapat dilihat, didengar dan dibaca yang disajikan dalam berbagai kemasan dan  format sesuai dengan perkembangan teknologi informasi dan  komunikasi secara elektronik ataupun non elektronik yang  terkait tindak Kekerasan.  
+Huruf d  
+Yang dimaksud dengan “hak mendapatkan informasi” adalah  hak mendapatkan keterangan, pertanyaan, gagasan, dan  tanda yang mengandung nilai, makna dan pesan baik data,  fakta maupun penjelasannya yang dapat dilihat, didengar dan dibaca yang disajikan dalam berbagai kemasan dan  format sesuai dengan perkembangan teknologi informasi dan  komunikasi secara elektronik ataupun non elektronik yang  terkait tindak Kekerasan.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf f Yang dimaksud dengan “hak mendapatkan kompensasi”  meliputi: pemberdayaan ekonomi, biaya Pemulangan,  jaminan kesehatan dan pendidikan atau keterampilan. Huruf g Yang dimaksud dengan “hak mendapatkan Rehabilitasi  Sosial” meliputi: akses pada layanan medis untuk pemulihan  fisik dan psikologis, Bantuan Hukum untuk mengembalikan  hak keperdataan, pemulihan nama baik, dan  kewarganegaraan.  
+Huruf f  
+Yang dimaksud dengan “hak mendapatkan kompensasi”  meliputi: pemberdayaan ekonomi, biaya Pemulangan,  jaminan kesehatan dan pendidikan atau keterampilan. Huruf g Yang dimaksud dengan “hak mendapatkan Rehabilitasi  Sosial” meliputi: akses pada layanan medis untuk pemulihan  fisik dan psikologis, Bantuan Hukum untuk mengembalikan  hak keperdataan, pemulihan nama baik, dan  kewarganegaraan.  
 
-Huruf h Yang dimaksud dengan “hak mendapatkan Penanganan  Pengaduan” adalah tersedianya unit khusus layanan terpadu  oleh petugas.  
+Huruf h  
+Yang dimaksud dengan “hak mendapatkan Penanganan  Pengaduan” adalah tersedianya unit khusus layanan terpadu  oleh petugas.  
 
-Huruf i Cukup jelas.  
+Huruf i  
+Cukup jelas.  
 
-Huruf j Yang dimaksud dengan “hak mendapatkan Pendampingan”  antara lain: psikolog, psikiater dan ahli kesehatan,  rohaniawan, advokat dan anggota Keluarga.  
+Huruf j  
+Yang dimaksud dengan “hak mendapatkan Pendampingan”  antara lain: psikolog, psikiater dan ahli kesehatan,  rohaniawan, advokat dan anggota Keluarga.  
 
 #### Pasal 20
 
-Ayat (1) Huruf a Cukup jelas.  
+Ayat (1)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Yang dimaksud dengan standar pelayanan minimal  adalah tolok ukur kinerja pelayanan unit pelayanan  terpadu dalam memberikan 5 (lima) jenis pelayanan bagi perempuan Korban Kekerasan, yaitu Penanganan Pengaduan, Pelayanan Kesehatan, Rehabilitasi Sosial, Penegakan dan Bantuan Hukum, serta Pemulangan dan Reintegrasi Sosial.  
+Huruf e  
+Yang dimaksud dengan standar pelayanan minimal  adalah tolok ukur kinerja pelayanan unit pelayanan  terpadu dalam memberikan 5 (lima) jenis pelayanan bagi perempuan Korban Kekerasan, yaitu Penanganan Pengaduan, Pelayanan Kesehatan, Rehabilitasi Sosial, Penegakan dan Bantuan Hukum, serta Pemulangan dan Reintegrasi Sosial.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 21
 
@@ -597,4 +613,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN SANGGAU NOMOR 12.  
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SANGGAU NOMOR 12.  

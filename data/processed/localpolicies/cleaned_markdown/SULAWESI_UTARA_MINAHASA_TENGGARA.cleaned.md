@@ -1,10 +1,18 @@
-# BUPATI MINAHASA TENGGARA PROVINSISULA WESIUTARA
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-PERATURAN DAERAH KABUPATEN MINAHASA TENGGARA NOMOR 8 TAHUN 2016
+BUPATI MINAHASA TENGGARA PROVINSISULA WESIUTARA  
 
-# TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+# PERATURAN DAERAH KABUPATEN MINAHASA TENGGARA 
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI MINAHASA TENGGARA,
+NOMOR 8 TAHUN 2016  
+
+TENTANG  
+
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI MINAHASA TENGGARA,  
 
 Menimbang:  
  
@@ -28,7 +36,6 @@ Mengingat:
  
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Azasi Manusia (Lembaran Negara Republik Indonesia Tahun1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Pemerintah Pengganti Undang-Undang Republik Indonesia Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas Undang- Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 99, Tambahan Lembaran Negara Republik Indonesia Nomor 5882);  
 4. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
@@ -42,12 +49,25 @@ Mengingat:
 12. Peraturan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia Nomor 6 Tahun 2015 tentang Sistem Pemberdayaan Perempuan dan Perlindungan Anak;  
 13. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036).  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MINAHASA TENGGARA dan BUPATI MINAHASA TENGGARA Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+Dengan Persetujuan Bersama  
 
-# BABI KETENTUAN UMUM
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MINAHASA TENGGARA  
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
+dan  
 
+BUPATI MINAHASA TENGGARA  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+
+# BAB I 
+
+## KETENTUAN UMUM
+
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Minahasa Tenggara.  
 2. Pemerintahan Daerah adalah penyelenggaraan urusan Pemerintahan oleh Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah menurut Azas Otonomi dan tugas pembantuan dengan prinsip Otonomi seluas luasnya dalam sistim dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.  
 3. Pemerintah Daerah adalah Kepala Daerah sebagai unsur penyelenggara pemerintahan daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi wewenang daerah otonom.  
@@ -73,7 +93,9 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 23. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT adalah suatu unit kesatuan yang menyelenggarakan pelayanan terpadu untuk saksi dan/atau korban tindak pidana perdagangan orang serta perempuan dan anak korban kekerasan.  
 24. Forum Perlindungan Korban Kekerasan yang selanjutnya disingkat FPKK adalah forum koordinasi pencegahan, penanganan dan pemberdayaan korban kekerasan perempuan dan anak yang penyelenggaraannya secara berjejaring dan dibentuk ditingkat Kabupaten, Kecamatan dan Desa.  
 
-Pasal2 Asas perlindungan Korban adalah:  
+#### Pasal 2 
+
+Asas perlindungan Korban adalah:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -87,9 +109,13 @@ a. mencegah kekerasan terhadap perempuan dan anak;
 b. memberikan pelayanan kepada Korban; dan  
 c. melakukan pemberdayaan kepada perempuan korban kekerasan.  
 
-Pasal4 Ruang lingkup perlindungan terhadap korban meliputi upaya pencegahan, pelayanan, pemberdayaan dan penanganan terhadap korban kekerasan di Daerah.  
+#### Pasal 4 
 
-# BAB II KEKERASAN
+Ruang lingkup perlindungan terhadap korban meliputi upaya pencegahan, pelayanan, pemberdayaan dan penanganan terhadap korban kekerasan di Daerah.  
+
+# BAB II 
+
+## KEKERASAN
 
 #### Pasal 5
 
@@ -118,7 +144,8 @@ b. pemaksaan hubungan seksual terhadap seseorang dalam lingkup rumah tangganya a
 #### Pasal 9
 
 Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal 5 huruf d adalah:  
-a. perbuatan menelantarkan orang dalam lingkup rumah tangga padahal menurut hukum yang berlaku bagi yang bersangkutan atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan atau pemeliharaan kepada orang tersebut.  b. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut; dan  
+a. perbuatan menelantarkan orang dalam lingkup rumah tangga padahal menurut hukum yang berlaku bagi yang bersangkutan atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan atau pemeliharaan kepada orang tersebut.  
+b. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut; dan  
 c. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah sehingga korban berada dibawah kendali orang tersebut.  
 
 #### Pasal 10
@@ -147,7 +174,8 @@ e. hak atas kerahasiaan identitasnya;
 f. hak atas kompensasi;  
 g. hak atas rehabilitasi sosial;  
 h. hak atas penanganan pengaduan;  
-i. hak untuk mendapatkan kemudahan dalam proses peradilan; dan j. hak atas pendampingan.  
+i. hak untuk mendapatkan kemudahan dalam proses peradilan; dan  
+j. hak atas pendampingan.  
 
 #### Pasal 13
 
@@ -218,7 +246,8 @@ d. orang tua harus memberikan kesempatan kepada anak usia sekolah untuk mendapat
 #### Pasal 20
 
 1. Upaya pencegahan kekerasan terhadap perempuan dan anak dilakukan secara terpadu oleh Pemerintah Daerah yang dikoordinasikan oleh instansi yang mempunyai tugas pokok dan fungsi koordinasi di bidang pemberdayaan perempuan dan perlindungan anak.  
-2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan cara:  
+a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
 c. membentuk sistem pencegahan kekerasan; dan  
 d. melakukan sosialisasi tentang peraturan perundang-undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan.  
@@ -231,7 +260,9 @@ b. masyarakat;
 c. lembaga pendidikan; dan  
 d. lembaga kemasyarakatan lainnya.  
 
-# BAB VI PUSAT PELAYANAN TERPADU
+# BAB VI 
+
+## PUSAT PELAYANAN TERPADU
 
 #### Pasal 22
 
@@ -245,7 +276,8 @@ d. lembaga kemasyarakatan lainnya.
 
 1. Struktur organisasi PPT yang dibentuk oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 22 ayat (1) terdiri dari:a. Ketua Umum:b. Sekretaris:c. Bendahara; dan  
 d. Ketua Pelaksana yang membawahi bidang-bidang.  
-2. Bidang-bidang sebagaimana dimaksud pada ayat (1) huruf d, sekurang- kurangnya meliputi:a. bidang layanan pengaduan:b. bidang layanan kesehatan:c. bidang layanan rehabilitasi sosial;  
+2. Bidang-bidang sebagaimana dimaksud pada ayat (1) huruf d, sekurang- kurangnya meliputi:  
+a. bidang layanan pengaduan:b. bidang layanan kesehatan:c. bidang layanan rehabilitasi sosial;  
 d. bidang pemulangan dan reintegrasi sosial; dan  
 e. bidang layanan bantuan hukum.  
 3. Dalam melaksanakan tugas, PPT bertanggungjawab kepada Bupati melalui Kepala instansi yang mempunyai tugas pokok dan fungsi koordinasi di bidang pemberdayaan perempuan dan perlindungan anak.  
@@ -262,7 +294,6 @@ d. melakukan administrasi proses pengaduan.
 
 Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf b memiliki tugas:  
 a. melakukan pemeriksaan, pengobatan, dan perawatan lanjutan terhadap korban;  
-
 b.melakukan koordinasi pelaksanaan rehabilitasi kesehatan dan mediko-legal;  
 c. melakukan pemeriksaan penunjang dan laboratorium terhadap barang bukti;  
 d. melakukan konsultasi kepada dokter ahli atau melakukan rujukan; dan  
@@ -290,7 +321,8 @@ b. membuat laporan perkembangan penanganan hukum.
 #### Pasal 29
 
 1. PPT yang dibentuk oleh Pemerintah Daerah sekurang-kurangnya memiliki tiga konselor.  
-2. Konselor sebagaimana dimaksud pada ayat (1) meliputi:a. konselor dalam bidang hukum;  
+2. Konselor sebagaimana dimaksud pada ayat (1) meliputi:  
+a. konselor dalam bidang hukum;  
 b. konselor dalam bidang kesehatan; dan  
 c. konselor dalam bidang psikologi.  
 
@@ -368,7 +400,8 @@ c. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pek
 #### Pasal 39
 
 1. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 33 huruf f bertujuan untuk mengembalikan korban kepada keluarga dan lingkungan sosialnya.  
-2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan:a. Pemerintah Kabupaten/Kota dalam satu wilayah Provinsi; dan  
+2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan:  
+a. Pemerintah Kabupaten/Kota dalam satu wilayah Provinsi; dan  
 b. instansi dan lembaga terkait baik pemerintah maupun non pemerintah.  
 
 ## Bagian Kedua Pemberdayaan
@@ -416,27 +449,28 @@ Koordinasi Perlindungan Korban
 #### Pasal 45
 
 1. Dalam upaya menyediakan dan menyelenggarakan penanganan layanan bagi korban, Pemerintah Daerah membentuk FPKK.  
-2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk:a. mengkoordinasikan dan mensingkronisasikan penanganan pelayanan PPT;  
+2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk:  
+a. mengkoordinasikan dan mensingkronisasikan penanganan pelayanan PPT;  
 b. memelihara dan mengembangkan jejaring serta sistem rujukan; dan  
 c. mengumpulkan, menyusun dan menyajikan laporan kekerasan.  
-3. Kepungurusan dan keanggotaan FPKK sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati.  
-4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3) dikelompokkan dalam peran sebagai berikut:a. peran kesehatan;  
+4. Kepungurusan dan keanggotaan FPKK sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati.  
+5. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3) dikelompokkan dalam peran sebagai berikut:  
+a. peran kesehatan;  
 b. peran psikologi;  
 c. peran hukum;  
 d. peran sosial; dan  
 e. peran ekonomi.  
 5. Ketentuan lebih lanjut mengenai pembentukan, tugas, pokok, dan fungsi serta keanggotaan FPKK sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
-5. 1. 1. 1. 1. 1. 1. 1.  
-1. 1. 1. 1. 1. 1. 1. 1
-1. 1. 1. 1. 1. 1. 1. 2 None  None None  None None  None None  None
-1. 1. 1. 1. 1. 1. 1. 3 None  None None  None None  None None  None None  None None  None
 
-# BAB VII PEMBINAAN DAN PENGAWASAN
+# BAB VII 
+
+## PEMBINAAN DAN PENGAWASAN
 
 #### Pasal 46
 
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan terhadap pelaksanaan standar pelayanan minimal setiap PPT di Daerah.  
-2. Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1) meliputi:a. koordinasi;  
+2. Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. koordinasi;  
 b. bimbingan;  
 c. pendidikan dan pelatihan; dan  
 d. Pemantauan dan evaluasi.  
@@ -456,14 +490,17 @@ Pendanaan atas kegiatan perlindungan bagi korban yang dilakukan oleh Pemerintah 
 #### Pasal 48
 
 1. Masyarakat berperan serta dalam penyelenggaraan perlindungan terhadap Korban.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  
+a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat;  
 b. membentuk unit perlindungan perempuan dan anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 d. melakukan pertolongan pertama kepada korban; dan  
 e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
-##### BABX SANKSI
+# BAB X 
+
+## SANKSI
 
 #### Pasal 49
 
@@ -471,33 +508,39 @@ e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi ke
 2. Bagi SKPD yang tidak melaksanakan ketentuan Pasal 14, Pasal 15 dan Pasal 16, dikenakan sanksi administrasi.  
 3. Setiap orang yang melihat secara langsung telah terjadi kekerasan sebagaimana dimaksud pada Pasal 5 dan tidak melaporkan kepada pihak yang berwenang dipidanakan sesuai dengan ketentuan Peraturan Perundang-undangan yang berlaku.  
 
-# BAB XI KETENTUANPENUTUP
+# BAB XI 
 
-Pasa150 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
+## KETENTUAN PENUTUP
+
+#### Pasa1 50 
+
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan PeraturanDaerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Minahasa Tenggara.  
 
-Ditetapkan di Ratahan | Pada tanggal 3| OKTOBER 2016
+Ditetapkan di Ratahan | Pada tanggal 3| OKTOBER 2016  
 
-## - BUPATI MINAHASA TENGGARA,
+BUPATI MINAHASA TENGGARA,  
 
-## JAMES SUMENDAP
+JAMES SUMENDAP  
 
-Diundangkan di Ratahan Pada tanggal 1 November 2016
+Diundangkan di Ratahan Pada tanggal 1 November 2016  
 
-## SEKRETARIS DAERAH
+SEKRETARIS DAERAH  
 
-## KABUPATI MINAHASA TENGGARA,
+KABUPATI MINAHASA TENGGARA,  
 
-## FARRY FREYKE LIWE
+FARRY FREYKE LIWE  
 
-## LEMBARAN DAERAH KABUPATEN MINAHASA TENGGARA TAHUN 2016
+LEMBARAN DAERAH KABUPATEN MINAHASA TENGGARA TAHUN 2016  
 
-## NOMOR ....................  
+NOMOR REGISTER PERATURAN DAERAH KABUPATEN MINAHASA TENGGARA PROVINSI SULAWESI UTARA  
 
-NOMOR REGISTER PERATURAN DAERAH KABUPATEN MINAHASA TENGGARA PROVINSI SULAWESI UTARA PENJELASAN  ATAS  PERATURAN DAERAH KABUPATEN MINAHASA TENGGARA  NOMOR TAHUN 2016  TENTANG  PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN MINAHASA TENGGARA  
 
-## I. UMUM
+NOMOR TAHUN 2016  TENTANG  PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
+
+##### I. UMUM
 
 Tindak kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi. Dalam rangka mencegah dan menanggulangi kekerasan terhadap perempuan dan anak di Kabupaten Minahasa Tenggara agar terhindar dari kekerasan, ancaman kekerasan, penyiksaan atau perlakuan yang merendahkan derajat dan martabat kemanusiaan, perlu dilakukan perlindungan terhadap perempuan dan anak korban kekerasan dalam bentuk peraturan di Daerah.  
 
@@ -505,7 +548,7 @@ Selama ini peraturan perundang-undangan yang mengatur mengenai perlindungan pere
 
 Peraturan Daerah ini mengatur upaya perlindungan bagi korban khususnya dalam hal pencegahan, pelayanan dan pemberdayaan terhadap perempuan dan anak korban kekerasan di Kabupaten Minahasa Tenggara.  
 
-## II. PASAL DEMI PASAL
+##### II. PASAL DEMI PASAL
 
 #### Pasal 1
 
@@ -545,17 +588,21 @@ Cukup jelas.
 
 Cukup jelas.  
 
-gumma sanam manamam manamam manamam manamam manamam manamam manamam  manamam manamam manamam manamam manamam manamam man  manamam manamam manamam manamam manamam manamam  manamam manamam manamam manamam manamam manamam manamam  amamam manamam manamam manamam manamam manamam manam  amamam manamam manamam manamam manamam manam  amam amam manamam manamam manamam manamam man  amam amam manamam manamam manamam manamam man  anamam manamam manamam manamam manamam man  anam amam manamam manamam manamam manamam man  anam amam amam manamam manamam manamam man  anam amam amam man amam manamam manamam man  anam amam amam amam manamam manamam man  anam amam amam amam man amam manamam man  anam amam amam amam man amam manam  anam amam amam amam man amam manam  anam amam anam amam man amam manam  anam amam anam amam man am amam man  anam amam anam amam man am amam man  anam amam amam amam man am amam man  anam amam amam amam man amam man  anam amam amam amam man am amam man  an amam amam amam amam man am amam man  an amam amam am amam man am amam man  an amam amam am amam man am am amam man  an amam amam am amam man am am amam man sih qaraq daslisa "tesmiriqtabi nor" ni qir bi hwqal: "sih qaraq  nasibdiraq naslislani yebiq iwqnab qeblma qeblmaq qasislraq  manq nas qaqar qalqar qal qir qaslisa qaslisa qaslisa qaslisa  qaslisa qaslisa qaslisa qaslisa qaslisa qaslisiq "mazlol iqal islazq janeq qaqqibqaqq qaqqib" baxlqalib qaqq  janeq qaqqibqaqq qaqqibqaqq qaqqibqaqq qaqqib qaqqibqaqq  qaqqib qaqqibqaqq qaqqibqaqq qaqqibqaqq qaqqib qaqqibqaqq  qaqqib qaqqibqaqq qaqqibqaqq qaqqibqaqq qaqqib qaqqibqaqq  qaqqib qaqqibqaqq qaqqibqaqq qaqqibqaqq qaqqib qaqqibqaqq  qaqqib qaqqibqaqq qaqqibqaqq qaqqibqaqq qaqqib qaqqibqaqq mazlol naslqaqq qalq qir "qaslqibqibqib" qaqqib baxlqalib qaqq  qaslqib qibqaq qibqaq qibqaq qibqaq qibqaq qibqabq  qaslqib qibqabq qibqabq qibqabq qibqabq qibqab qibqabq  qaslqib qibqabq qibqabq qibqabq qibqabq qibqab qibqabq  qaslqib qibqabq qibqabq qibqabq qibqabq qibqab qibqabq
+#### Pasal 8 
 
-6. imam aslq qamq + isaqq aslq qamq 2 isaqq aslq qamq d isaq q aslq qamq 2 isaqq aslq qamq
+Cukup jelas.  
 
-#### Pasal 8 Cukup jelas.  
+#### Pasal 9 
 
-#### Pasal 9 Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 10 Cukup jelas.  
+#### Pasal 10 
 
-#### Pasal 11 Cukup jelas.  
+Cukup jelas.  
+
+#### Pasal 11 
+
+Cukup jelas.  
 
 #### Pasal 12
 
@@ -603,7 +650,17 @@ Cukup jelas.
 
 Cukup jelas.  
 
-#### Pasal 17 Cukup jelas. Pasal 18 Cukup jelas. Pasal 19 Cukup jelas.  
+#### Pasal 17 
+
+Cukup jelas.  
+
+#### Pasal 18  
+
+Cukup jelas.  
+
+#### Pasal 19 
+
+Cukup jelas.  
 
 #### Pasal 20 Ayat (1)
 
@@ -641,11 +698,33 @@ Ayat (5) Cukup jelas.
 
 Pasal23 Cukup jelas.  
 
-#### Pasal 24 Cukup jelas. Pasal 25 Cukup jelas. Pasal 26 Cukup jelas.  
+#### Pasal 24 
 
-#### Pasal 27 Cukup jelas. Pasal 28 Cukup jelas. Pasal 29 Cukup jelas.  
+Cukup jelas.  
 
-#### Pasal 30 Cukup jelas.  
+#### Pasal 25  
+
+Cukup jelas.  
+
+#### Pasal 26  
+
+Cukup jelas.  
+
+#### Pasal 27  
+
+Cukup jelas.  
+
+#### Pasal 28  
+
+Cukup jelas.  
+
+#### Pasal 29  
+
+Cukup jelas.  
+
+#### Pasal 30 
+
+Cukup jelas.  
 
 #### Pasal 31
 
@@ -653,7 +732,11 @@ Ayat (1) Cukup jelas.
 
 Ayat (2) Yang dimaksud dengan “unit pelayanan lainnya” adalah suatu  unit kesatuan yang menyelenggarakan fungsi pelayanan terpadu  bagi perempuan dan anak korban kekerasan. Unit pelayanan ini  dapat berada di Pusat Pelayanan Terpadu (PPT) dan Pusat krisis  Terpadu (PKT) yang berbasis Rumah Sakit, Puskesmas, Pusat  Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A),  Unit Pelayanan Perempuan dan Anak (UPPA), Rumah  Perlindungan Trauma Center (RPTC), Rumah Perlindungan Sosial  Anak (RPSA), BP4, dan lembaga-lembaga keamatan lainnya,  kejaksaan, pengadilan, Women Crisis Center (WCC), dan lembaga  sejenis lainnya. Layanan ini dapat berbentuk satu atap (one stop  crisis center) atau berbentuk jejaring, tergantung kebutuhan di  masing-masing daerah.  
 
-#### Pasal 32 Cukup jelas.  
+#### Pasal 32 
+
+Cukup jelas.  
+
+#### Pasal 33
 
 Cukup jelas.  
 
@@ -681,8 +764,66 @@ Hurufe Cukup jelas.
 
 Huruff Cukup jelas.  
 
-Huruf g  Cukup jelas.  Pasal 36  Cukup jelas.  Pasal 37  Cukup jelas.  Pasal 38  Cukup jelas.  Pasal 39  Cukup jelas.  Pasal 40  Cukup jelas.  Pasal 41  Cukup jelas.  Pasal 42  Cukup jelas.  Pasal 43  Cukup jelas.  Pasal 44  Cukup jelas.  Pasal 45  Cukup jelas.  Pasal 46  Cukup jelas.  Pasal 47  Cukup jelas.  Pasal 48  Cukup jelas.  Pasal 49  Cukup jelas.  Pasal 50  Cukup jelas.  
+Huruf g  Cukup jelas.  
 
-TAMBAHAN LEMBARAN DAERAH KABUPATEN MINAHASA TENGGARA TAHUN 2016 NOMOR .........  
+#### Pasal 36  
 
-None  None None  None None  None None  None
+Cukup jelas.  
+
+#### Pasal 37  
+
+Cukup jelas.  
+
+#### Pasal 38  
+
+Cukup jelas.  
+
+#### Pasal 39  
+
+Cukup jelas.  
+
+#### Pasal 40  
+
+Cukup jelas.  
+
+#### Pasal 41  
+
+Cukup jelas.  
+
+#### Pasal 42  
+
+Cukup jelas.  
+
+#### Pasal 43  
+
+Cukup jelas.  
+
+#### Pasal 44  
+
+Cukup jelas.  
+
+#### Pasal 45  
+
+Cukup jelas.  
+
+#### Pasal 46  
+
+Cukup jelas.  
+
+#### Pasal 47  
+
+Cukup jelas.  
+
+#### Pasal 48  
+
+Cukup jelas.  
+
+#### Pasal 49  
+
+Cukup jelas.  
+
+#### Pasal 50  
+
+Cukup jelas.  
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN MINAHASA TENGGARA TAHUN 2016 NOMOR  

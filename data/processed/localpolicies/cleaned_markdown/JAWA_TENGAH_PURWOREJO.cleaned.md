@@ -1,16 +1,16 @@
+# PENYELENGGARAAN PELINDUNGAN PEREMPUAN DAN ANAK  
+
 # PERATURAN DAERAH KABUPATEN PURWOREJO
 
-# NOMOR 13 TAHUN 2022
+NOMOR 13 TAHUN 2022  
 
-# TENTANG
+TENTANG  
 
-# PENYELENGGARAAN PELINDUNGAN
+PENYELENGGARAAN PELINDUNGAN PEREMPUAN DAN ANAK  
 
-# PEREMPUAN DAN ANAK
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# BUPATI PURWOREJO,
+BUPATI PURWOREJO,  
 
 Menimbang:  
  
@@ -34,17 +34,22 @@ Mengingat:
  
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten dalam  Lingkungan Propinsi Djawa Tengah (Berita Negara  Republik Indonesia Tahun 1950 Nomor 42);  
 3. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran  Negara Republik Indonesia Nomor 5587), sebagaimana  telah diubah beberapa kali, terakhir dengan Undang Undang Nomor 11 Tahun 2020 tentang Cipta Kerja  (Lembaran Negara Republik Indonesia Tahun 2020 Nomor  245, Tambahan Lembaran Negara Republik Indonesia  Nomor 6573);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PURWOREJO Dan
+Dengan Persetujuan Bersama  
 
-# BUPATI PURWOREJO
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN PURWOREJO  
 
-# MEMUTUSKAN:
+Dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PELINDUNGAN PEREMPUAN DAN ANAK.  
+BUPATI PURWOREJO  
+
+MEMUTUSKAN:
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PELINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -52,8 +57,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PELINDUNGAN PEREMPUAN DAN A
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Purworejo.  
 2. Pemerintah Daerah adalah Bupati sebagai unsur  penyelenggara Pemerintahan Daerah yang memimpin  pelaksanaan urusan pemerintahan yang menjadi  kewenangan Daerah otonom.  
 3. Bupati adalah Bupati Purworejo.  
@@ -123,7 +127,8 @@ g. Pusat Pelayanan Terpadu;
 h. peran Pemerintah Desa/Kelurahan;  
 i. kelembagaan;  
 j. kerjasama dan kemitraan;  
-k. Kabupaten Ramah Perempuan dan Layak Anak; dan l. sistem data dan informasi perempuan dan anak;  
+k. Kabupaten Ramah Perempuan dan Layak Anak; dan  
+l. sistem data dan informasi perempuan dan anak;  
 m. penghargaan; dan  
 n. pendanaan.  
 
@@ -138,7 +143,8 @@ Hak Perempuan
 #### Pasal 6
 
 1. Pemerintah Daerah menghormati dan menjaga hak  perempuan secara utuh berdasarkan peraturan  perundang-undangan.  
-2. Setiap perempuan berhak:a. mendapatkan perlakuan yang sama dan setara;  
+2. Setiap perempuan berhak:  
+a. mendapatkan perlakuan yang sama dan setara;  
 b. mendapatkan kesempatan yang sama dan adil dalam  berbagai bidang, baik pendidikan, pekerjaan, politik,  dan sosial;  
 c. memperoleh informasi secara utuh untuk pelindungan  dan bantuan hukum;  
 d. memperoleh pelindungan dan pembelaan dari segala  bentuk tindakan Diskriminatif;  
@@ -153,7 +159,8 @@ Hak Anak
 #### Pasal 7
 
 1. Pemerintah Daerah menjaga dan menjamin terpenuhinya  secara utuh hak anak berdasarkan ketentuan peraturan  perundang-undangan.  
-2. Setiap anak berhak:a. untuk hidup, tumbuh, berkembang, dan berpartisipasi  secara wajar sesuai dengan harkat dan martabat  kemanusiaan;  
+2. Setiap anak berhak:  
+a. untuk hidup, tumbuh, berkembang, dan berpartisipasi  secara wajar sesuai dengan harkat dan martabat  kemanusiaan;  
 b. memperoleh identitas diri sejak kelahirannya;  
 c. beribadah menurut agamanya, berpikir, dan  berekspresi sesuai dengan tingkat kecerdasan dan  usianya, dalam bimbingan orang tua atau Wali;  
 d. mengetahui orang tuanya, dibesarkan, dan diasuh  oleh orang tuanya sendiri serta mendapatkan jaminan  atas kelangsungan hidup yang baik dan curahan kasih  sayang;  
@@ -162,9 +169,9 @@ f. mendapatkan pelindungan dan pembelaan dari  perlakuan Diskriminatif, Kekerasa
 g. memperoleh jaminan pelindungan dari pengaruh  destruktif;  
 h. memperoleh pelindungan dari penyalahgunaan dalam  kegiatan politik, pelibatan dalam sengketa bersenjata,  kerusuhan sosial, peristiwa yang mengandung unsur  Kekerasan dan peperangan;  
 i. memperoleh pelindungan dari sasaran penganiayaan,  penyiksaan, atau penjatuhan hukuman yang tidak  manusiawi dan kebebasan sesuai dengan hukum;  
-j. mendapatkan bantuan hukum dan bantuan lainnya k. memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya  sesuai minat dan bakat;  
+j. mendapatkan bantuan hukum dan bantuan lainnya;  
+k. memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya  sesuai minat dan bakat;  
 l. mendapatkan pelindungan di satuan pendidikan dari  kejahatan seksual dan Kekerasan yang dilakukan oleh  pendidik, tenaga kependidikan, sesama peserta didik,  dan/atau pihak lain;  
-
 m.memperoleh pendidikan luar biasa dan anak yang  memiliki keunggulan berhak mendapatkan pendidikan  khusus bagi anak penyandang disabilitas;  
 n. mendapatkan lingkungan dan asupan makanan yang  baik untuk tumbuh kembang sesuai dengan umurnya;  
 o. untuk berfikir, berekspresi, menyatakan dan didengar  pendapatnya, menerima, mencari, dan memberikan  informasi sesuai tingkat kecerdasan dan usianya demi  pengembangan dirinya sesuai dengan nilai-nilai  kesusilaan dan kepatutan; dan  
@@ -181,16 +188,17 @@ Hak Perempuan Korban
 #### Pasal 8
 
 1. Pemerintah Daerah bertanggungjawab dalam pemenuhan  hak Perempuan Korban Diskriminasi, Kekerasan,  dan/atau Eksploitasi.  
-2. Hak Perempuan Korban sebagaimana dimaksud pada ayat  (1) meliputi:a. memperoleh informasi yang terkait pelindungan  perempuan, prosedur Pelayanan korban dan  perkembangan penanganan kasus;  
+2. Hak Perempuan Korban sebagaimana dimaksud pada ayat  (1) meliputi:  
+a. memperoleh informasi yang terkait pelindungan  perempuan, prosedur Pelayanan korban dan  perkembangan penanganan kasus;  
 b. melapor dan ditindaklanjuti laporannya, memberikan  keterangan, dan pandangan tanpa tekanan;  
 c. berpartisipasi dalam penanganan kasus dan dalam  upaya penghapusan Kekerasan terhadap perempuan;  
 d. memperoleh pelindungan atas kerahasiaan;  
-e. memperoleh pelindungan atas keamanan pribadi,  keluarga, dan harta bendanya dari ancaman;  
+e. memperoleh pelindungan atas keamanan pribadi, keluarga, dan harta bendanya dari ancaman;  
 f. terbebas dari segala bentuk stereotip, stigma dan  diskriminasi lainnya;  
 g. memperoleh Pelayanan dan pemulihan yang dibutuhkan;  
 h. memperoleh restitusi; dan  
 i. membentuk dan bergabung dalam organisasi;  
-3. Pemenuhan hak sebagaimana dimaksud pada ayat (2)  dilakukan dengan ramah dan profesional yang  berorientasi pada korban.  
+3. Pemenuhan hak sebagaimana dimaksud pada ayat (2) dilakukan dengan ramah dan profesional yang  berorientasi pada korban.  
 
 ## Bagian Kedua
 
@@ -199,7 +207,8 @@ Hak Anak Korban
 #### Pasal 9
 
 1. Pemerintah Daerah bertanggungjawab dalam pemenuhan  hak Anak Korban Diskriminasi, Kekerasan, Eksploitasi,  perlakuan salah, dan/atau penelantaran.  
-2. Hak Anak korban sebagaimana dimaksud pada ayat (1) meliputi:a. mendapat pelindungan hukum dan Bantuan Hukum;  
+2. Hak Anak korban sebagaimana dimaksud pada ayat (1) meliputi:  
+a. mendapat pelindungan hukum dan Bantuan Hukum;  
 b. mendapatkan Pendampingan konseling;  
 c. mendapatkan jaminan pendidikan;  
 d. mendapatkan jaminan pelindungan pribadi dan  keluarga;  
@@ -207,7 +216,8 @@ e. bebas dari berbagai macam stigma;
 f. jaminan tempat tinggal dan kebutuhan hidup untuk  kelangsungan hidup, tumbuh dan berkembang;  
 g. pelindungan atas harta atau kekayaan pribadi;  
 h. jaminan kerahasiaan;  
-i. mendapatkan rehabilitasi; dan/atauj. mendapatkan restitusi.  
+i. mendapatkan rehabilitasi; dan/atau  
+j. mendapatkan restitusi.  
 
 # BAB IV
 
@@ -245,7 +255,8 @@ Tugas dan Tanggungjawab Masyarakat
 
 #### Pasal 12
 
-1. Tugas dan tanggungjawab masyarakat sebagaimana  dimaksud dalam Pasal 10 meliputi:a. memberikan perhatian terhadap isu perempuan dan  anak sebagai kelompok rentan atas tindakan  Diskriminasi, Kekerasan, Eksploitasi, perlakuan  salah, dan/atau penelantaran;  
+1. Tugas dan tanggungjawab masyarakat sebagaimana  dimaksud dalam Pasal 10 meliputi:  
+a. memberikan perhatian terhadap isu perempuan dan  anak sebagai kelompok rentan atas tindakan  Diskriminasi, Kekerasan, Eksploitasi, perlakuan  salah, dan/atau penelantaran;  
 b. mencegah berbagai tindakan dan/atau ancaman  Diskriminasi, Kekerasan, Eksploitasi, perlakuan  salah, dan/atau penelantaran terhadap perempuan  dan anak;  
 c. memberikan informasi dan/atau melaporkan adanya  dugaan tindakan Diskriminasi, Kekerasan,  Eksploitasi, perlakuan salah, dan/atau penelantaran  terhadap perempuan dan anak kepada lembaga yang  berwenang;  
 d. menjadi bagian dari pengaman sosial untuk  melindungi perempuan dan anak; dan  
@@ -267,7 +278,7 @@ e. membuat produk yang aman bagi anak;
 f. menyediakan tanggungjawab sosial perusahaan untuk  program pelindungan perempuan dan anak;  
 g. menyediakan ruangan khusus untuk ibu menyusui  atau ruang laktasi;  
 h. tidak melibatkan anak dalam kegiatan perusahaan  yang membahayakan keselamatan dan/atau  bertentangan dengan perundang- undangan;  
-i. melaporkan jika ada tindakan atau ancaman  Diskriminasi, Kekerasan, Eksploitasi, perlakuan  salah, dan/atau penelantaran terhadap perempuan  dan anak di lingkungan kerja;  
+i. melaporkan jika ada tindakan atau ancaman  Diskriminasi, Kekerasan, Eksploitasi, perlakuan  salah, dan/atau penelantaran terhadap perempuan dan anak di lingkungan kerja;  
 j. menyediakan tempat penitipan anak khusus bagi  perusahaan tertentu sesuai peraturan  perundang-undangan; dan  
 k. berpartisipasi dalam mewujudkan Kabupaten  Purworejo sebagai Kabupaten Ramah Perempuan dan  Layak Anak.  
 2. Dunia Usaha melaksanakan tugas dan tanggungjawab  sebagaimana dimaksud pada ayat (1) sesuai dengan  ketentuan peraturan perundang-undangan.  
@@ -277,11 +288,11 @@ k. berpartisipasi dalam mewujudkan Kabupaten  Purworejo sebagai Kabupaten Ramah 
 
 ## Bagian Kelima
 
-Tanggungjawab Orang Tua/Wali
+Tanggung jawab Orang Tua/Wali
 
 #### Pasal 14
 
-Tugas dan tanggungjawab orang tua/wali sebagaimana dimaksud dalam Pasal 10 meliputi:  
+Tugas dan tanggung jawab orang tua/wali sebagaimana dimaksud dalam Pasal 10 meliputi:  
 a. mengasuh dan mendidik anak sesuai dengan  kecerdasannya berdasarkan nilai-nilai agama dan  Pancasila;  
 b. memberikan asupan makanan yang baik dan bergizi  sesuai dengan umurnya;  
 c. menumbuhkembangkan anak sesuai kemampuan, bakat  dan minatnya;  
@@ -296,14 +307,16 @@ g. membimbing anak yang melakukan perilaku sosial  menyimpang.
 
 #### Pasal 15
 
-1. Upaya pelindungan perempuan dan anak dilakukan oleh  Pemerintah Daerah dengan cara:a. melakukan Pencegahan terjadinya Diskriminasi,  Kekerasan, Eksploitasi, perlakuan salah, dan/atau  penelantaran terhadap perempuan dan anak;  
+1. Upaya pelindungan perempuan dan anak dilakukan oleh  Pemerintah Daerah dengan cara:  
+a. melakukan Pencegahan terjadinya Diskriminasi,  Kekerasan, Eksploitasi, perlakuan salah, dan/atau  penelantaran terhadap perempuan dan anak;  
 b. melakukan Pencegahan perdagangan perempuan dan  anak;  
 c. melakukan manajemen resiko kerentanan;  
 d. melakukan penanganan dan Pendampingan terhadap  Perempuan Korban dan Anak Korban Diskriminasi,  Kekerasan, Eksploitasi, perlakuan salah, dan/atau  penelantaran;  
 e. melakukan pemberdayaan terhadap Perempuan  Korban dan Anak Korban Diskriminasi, Kekerasan,  Eksploitasi, perlakuan salah, dan/atau penelantaran;  
 f. melakukan strategi pelindungan perempuan dan  anak; dan  
 g. penguatan kapasitas Perangkat Daerah dan  Pemerintah Desa dalam melaksanakan pelindungan  terhadap perempuan dan anak.  
-2. Dalam melakukan upaya pelindungan sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah dapat  melibatkan:a. keluarga;  
+2. Dalam melakukan upaya pelindungan sebagaimana dimaksud pada ayat (1), Pemerintah Daerah dapat  melibatkan:  
+a. keluarga;  
 b. masyarakat;  
 c. Dunia Usaha; dan  
 d. media.  
@@ -319,7 +332,8 @@ Pencegahan
 #### Pasal 16
 
 1. Pemerintah Daerah menyelenggarakan Pelindungan  Perempuan dengan cara melakukan Pencegahan terhadap  terjadinya berbagai tindakan Diskriminasi, Kekerasan,  dan/atau Eksploitasi.  
-2. Upaya Pencegahan sebagaimana dimaksud pada ayat (1)  meliputi:a. melakukan sosialisasi atau penyuluhan pelindungan  perempuan;  
+2. Upaya Pencegahan sebagaimana dimaksud pada ayat (1)  meliputi:  
+a. melakukan sosialisasi atau penyuluhan pelindungan  perempuan;  
 b. peningkatan kesadaran, partisipasi dan kepedulian  masyarakat atas dampak dan akibat hukum dari  tindakan Diskriminasi, Kekerasan, Eksploitasi,  perlakuan salah dan/atau penelantaran melalui  integrasi program untuk keluarga, masyarakat, dan  Dunia Usaha;  
 c. internalisasi nilai-nilai anti Diskriminasi, , anti  Kekekrasan, dan anti Eksploitasi melalui pendidikan  formal dan pendidikan nonformal;  
 d. menyediakan aksesibilitas untuk memperoleh  pendidikan, pelatihan, pendanaan, peningkatan  pendapatan, dan Pelayanan sosial;  
@@ -337,7 +351,8 @@ Pelindungan
 
 #### Pasal 17
 
-1. Pemerintah Daerah memberikan perlindungan secara  komprehensif terhadap perempuan dari berbagai  tindakan:a. ancaman;  
+1. Pemerintah Daerah memberikan perlindungan secara  komprehensif terhadap perempuan dari berbagai  tindakan:  
+a. ancaman;  
 b. Diskriminasi;  
 c. Kekerasan; dan  
 d. Eksploitasi.  
@@ -360,9 +375,11 @@ Pengaman Sosial
 #### Pasal 19
 
 1. Pengamanan sosial sebagaimana dimaksud dalam Pasal  18 huruf a dilakukan oleh Pemerintah Daerah bersama  dengan Pemerintah Desa/Kelurahan, Dunia Usaha, dan  masyarakat.  
-2. Pengamanan sosial sebagaimana dimaksud pada ayat (1),  dilakukan dengan cara:a. melaporkan jika ada informasi terjadinya tindakan  ancaman Diskriminasi, Kekerasan, dan/atau  Eksploitasi terhadap perempuan;  
+2. Pengamanan sosial sebagaimana dimaksud pada ayat (1),  dilakukan dengan cara:  
+a. melaporkan jika ada informasi terjadinya tindakan  ancaman Diskriminasi, Kekerasan, dan/atau  Eksploitasi terhadap perempuan;  
 b. melaksanakan pelindungan terhadap Perempuan  Korban tindakan ancaman Diskriminasi, Kekerasan,  dan/atau Eksploitasi;  
-c. melakukan Pendampingan dan pemberdayaan  terhadap Perempuan Korban tindakan ancaman,  Diskriminasi, Kekerasan, dan/atau Eksploitasi;  dan/ataud. melakukan pengamanan terhadap pelaku  Diskriminasi, Kekerasan, dan/atau Eksploitasi  terhadap Perempuan yang berpotensi membahayakan keselamatan jiwa.  
+c. melakukan Pendampingan dan pemberdayaan  terhadap Perempuan Korban tindakan ancaman,  Diskriminasi, Kekerasan, dan/atau Eksploitasi;  dan/atau  
+d. melakukan pengamanan terhadap pelaku  Diskriminasi, Kekerasan, dan/atau Eksploitasi  terhadap Perempuan yang berpotensi membahayakan keselamatan jiwa.  
 
 ### Paragraf 2
 
@@ -371,7 +388,8 @@ Layanan Rujukan Lanjutan
 #### Pasal 20
 
 1. Layanan rujukan lanjutan sebagaimana dimaksud dalam  Pasal 18 huruf b dibangun oleh Pemerintah Daerah untuk  memberikan pelindungan secara cepat dan tepat.  
-2. Layanan rujukan lanjutan sebagaimana dimaksud pada  ayat (1), dilakukan dengan cara meliputi:a. membuat dan menjalankan standar pedoman  penanganan aduan atau laporan yang prima dan  ramah perempuan;  
+2. Layanan rujukan lanjutan sebagaimana dimaksud pada  ayat (1), dilakukan dengan cara meliputi:  
+a. membuat dan menjalankan standar pedoman  penanganan aduan atau laporan yang prima dan  ramah perempuan;  
 b. mengintegrasikan sistem aduan atau laporan antara  Perangkat Daerah di bidang komunikasi, informasi,  layanan umum, desa, pemberdayaan, perempuan,  keamanan, bantuan hukum dan penegakan;  
 c. mengintegrasikan sistem aduan atau laporan berbasis  Kelurahan dan Desa;  
 d. mengintegrasikan sistem pelindungan dan  pendampingan hukum dengan setiap organisasi  bantuan hukum yang ditunjuk;  
@@ -386,10 +404,12 @@ Penyediaan Sarana dan Prasarana Pendukung Perlindungan Terhadap Perempuan
 #### Pasal 21
 
 1. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud dalam Pasal 18 huruf c bertujuan  untuk memaksimalkan rasa aman, nyaman dan tenang  terhadap Perempuan Korban tindakan ancaman,  Diskriminasi, Kekerasan, dan/atau Eksploitasi.  
-2. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (1) meliputi:a. penyediaan rumah aman sementara;  
+2. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (1) meliputi:  
+a. penyediaan rumah aman sementara;  
 b. penyediaan kebutuhan hidup sehari-hari selama proses  Pendampingan penanganan di rumah aman sementara;  
 c. penyediaan Pendamping di bidang kesehatan dan  konseling jika dibutuhkan;  
-d. melakukan pemberdayaan untuk peningkatan  kapasitas perempuan di masa yang akan datang; dan e. penyediaan tenaga pendamping di bidang mental  spiritual.  
+d. melakukan pemberdayaan untuk peningkatan  kapasitas perempuan di masa yang akan datang; dan  
+e. penyediaan tenaga pendamping di bidang mental  spiritual.  
 3. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (2) dilakukan oleh  Perangkat Daerah Teknis dan dapat melibatkan Perangkat  Daerah terkait.  
 
 ## Bagian Ketiga
@@ -399,7 +419,8 @@ Penanganan
 #### Pasal 22
 
 1. Penanganan Perempuan Korban dan Anak Korban  bertujuan untuk memberikan tindakan yang tepat dalam  menangani korban maupun saksi dalam tindakan atau  ancaman Diskriminasi, Kekerasan, dan/atau Eksploitasi  terhadap perempuan dan anak.  
-2. Penanganan sebagaimana dimaksud pada ayat (1)  meliputi:a. aduan atau laporan;  
+2. Penanganan sebagaimana dimaksud pada ayat (1)  meliputi:  
+a. aduan atau laporan;  
 b. kebutuhan pelindungan;  
 c. kesehatan fisik dan psikis;  
 d. rehabilitasi;  
@@ -417,16 +438,20 @@ Aduan atau Laporan
 
 1. Aduan atau laporan terhadap adanya tindakan atau  ancaman Diskriminasi, Kekerasan, dan/atau Eksploitasi  terhadap perempuan dibuat dengan mudah, cepat, dan  tepat.  
 2. Setiap orang yang melihat atau mengetahui adanya  tindakan atau ancaman Diskriminasi, Kekerasan,  dan/atau Eksploitasi terhadap perempuan membuat  aduan atau laporan.  
-3. Aduan atau laporan sebagaimana dimaksud pada ayat (1)  dapat ditujukan kepada:a. Pemerintah Desa/Kelurahan;  
+3. Aduan atau laporan sebagaimana dimaksud pada ayat (1)  dapat ditujukan kepada:  
+a. Pemerintah Desa/Kelurahan;  
 b. FPKK;  
 c. Pemberi Bantuan Hukum;  
 d. fasilitas layanan kesehatan;  
 e. aparat penegak hukum;  
 f. Perangkat Daerah yang melaksanakan urusan  pemerintahan di bidang ketenteraman dan ketertiban  umum;  
-g. lembaga swadaya masyarakat; dan/atauh. Media Sosial dikelola Perangkat Daerah terkait.  
-4. Aduan atau laporan sebagaimana dimaksud pada ayat (1)  dapat dilakukan dengan cara:a. langsung;  
+g. lembaga swadaya masyarakat; dan/atau  
+h. Media Sosial dikelola Perangkat Daerah terkait.  
+4. Aduan atau laporan sebagaimana dimaksud pada ayat (1)  dapat dilakukan dengan cara:  
+a. langsung;  
 b. melalui telepon;  
-c. melalui email atau pesan langsung ke media sosial;  dan/ataud. melalui surat.  
+c. melalui email atau pesan langsung ke media sosial; dan/atau  
+d. melalui surat.  
 5. Penerima aduan atau laporan sebagaimana dimaksud  pada ayat (3) merahasiakan identitas pelapor.  
 
 ### Paragraf 2
@@ -479,7 +504,8 @@ Pencegahan
 #### Pasal 28
 
 1. Pemerintah Daerah membuat kebijakan dan program yang  bertujuan untuk Pencegahan terhadap berbagai tindak  Diskriminasi, Kekerasan, Eksploitasi, perlakuan salah,  dan/atau penelantaran terhadap anak.  
-2. Upaya Pencegahan sebagaimana dimaksud pada ayat (1),  dilakukan dengan cara:a. melakukan sosialisasi atau penyuluhan;  
+2. Upaya Pencegahan sebagaimana dimaksud pada ayat (1),  dilakukan dengan cara:  
+a. melakukan sosialisasi atau penyuluhan;  
 b. peningkatan kesadaran atas dampak dan akibat  hukum melalui integrasi program untuk keluarga,  masyarakat, dan Dunia Usaha;  
 c. internalisasi nilai anti Kekerasan, anti Eksploitasi, anti  perlakuan salah, dan anti penelantaran melalui  pendidikan formal dan pendidikan non formal;  
 d. mendorong pembentukan forum anak sebagai wadah  pembelajaran bersama, sistem pendukung, dan  kaderisasi;  
@@ -513,7 +539,8 @@ f. Ketidakadilan.
 
 Bentuk perlindungan yang diberikan oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 29 antara lain:  
 a. pengurangan risiko kerentanan;  
-b. membentuk pengaman sosial; dan/atauc. penyediaan sarana dan prasarana pendukung  pelindungan anak.  
+b. membentuk pengaman sosial; dan/atau  
+c. penyediaan sarana dan prasarana pendukung pelindungan anak.  
 
 ### Paragraf 1
 
@@ -522,7 +549,8 @@ Pengurangan Risiko Kerentanan
 #### Pasal 31
 
 1. Pemerintah Daerah melalui Perangkat Daerah Teknis atau  Perangkat Daerah terkait mengurangi resiko kerentanan  dengan manajemen risiko kerentanan yang komprehensif  dan tepat sasaran.  
-2. Upaya pengurangan risiko kerentanan sebagaimana  dimaksud pada ayat (1) antara lain:a. fasilitasi penyelenggaraan pengurangan risiko kerentanan;  
+2. Upaya pengurangan risiko kerentanan sebagaimana  dimaksud pada ayat (1) antara lain:  
+a. fasilitasi penyelenggaraan pengurangan risiko kerentanan;  
 b. fasilitasi penyelenggaraan keadilan sesuai dengan  peraturan perundang-undangan; dan  
 c. fasilitasi penguatan kapasitas masyarakat.  
 3. Fasilitas penyelenggaraan pengurangan risiko kerentanan  sebagaimana dimaksud pada ayat (2) huruf a, antara lain:  
@@ -530,7 +558,8 @@ a. identifikasi dan deteksi sejak dini potensi di masyarakat, lembaga atau Dunia
 b. melakukan tindakan segera untuk mitigasi risiko  kerentanan terhadap anak berdasarkan hasil  identifikasi dan deteksi sejak dini;  
 c. memberikan pembinaan dan pendampingan terhadap  orang tua atau wali yang teridentifikasi mengalami  kesulitan dan/atau hambatan dalam mengasuh,  merawat, dan menjaga anak; dan  
 d. memberikan pembinaan dan pendampingan terhadap  keluarga yang teridentifikasi mengalami kesulitan  dan/atau hambatan dalam membangun hubungan  yang sehat dan demokratis.  
-4. Fasilitas penyelenggaraan keadilan sesuai dengan  peraturan perundang-undangan sebagaimana  dimaksud pada ayat (2) huruf b, meliputi:a. penggunaan pendekatan diversi atau mediasi dalam  penyelesaian masalah anak yang diduga berhadapan  dengan hukum sesuai dengan ketentuan peraturan  perundang-undangan;  
+4. Fasilitas penyelenggaraan keadilan sesuai dengan  peraturan perundang-undangan sebagaimana  dimaksud pada ayat (2) huruf b, meliputi:  
+a. penggunaan pendekatan diversi atau mediasi dalam  penyelesaian masalah anak yang diduga berhadapan  dengan hukum sesuai dengan ketentuan peraturan  perundang-undangan;  
 b. pemutusan nilai restitusi yang harus dibayarkan oleh  pelaku kepada korban sesuai dengan ketentuan  peraturan perundang-undangan;  
 c. penghukuman terhadap pelaku Kekerasan,  Eksploitasi, Perlakuan Salah Terhadap Anak,  dan/atau penelantaran sesuai dengan ketentuan  peraturan perundang-undangan dan keadilan yang  hidup dalam masyarakat;  
 5. Fasilitasi penguatan kapasitas masyarakat sebagaimana dimaksud pada ayat (2) huruf c dilakukan antara lain:  
@@ -545,10 +574,11 @@ Pengaman Sosial
 #### Pasal 32
 
 1. Pemerintah Daerah bersama Pemerintah Desa,  masyarakat, dan Dunia Usaha melakukan pengamanan  sosial.  
-2. Pengamanan sosial sebagaimana dimaksud ayat (1)  meliputi:a. pelaporan jika ada informasi Kekerasan, Eksploitasi,  penelantaran dan/atau Perlakuan Salah Terhadap  Anak;  
+2. Pengamanan sosial sebagaimana dimaksud ayat (1)  meliputi:  
+a. pelaporan jika ada informasi Kekerasan, Eksploitasi,  penelantaran dan/atau Perlakuan Salah Terhadap  Anak;  
 b. perlindungan terhadap saksi anak dan Anak Korban  dengan menjauhkan dari pelaku di fasilitas  pengasuhan sementara;  
 c. Pendampingan terhadap Anak Korban; dan  
-d. pengamanan terhadap pelaku kekerasan yang  berpotensi membahayakan keselamatan jiwa.  
+d. pengamanan terhadap pelaku kekerasan yang berpotensi membahayakan keselamatan jiwa.  
 
 ### Paragraf 3
 
@@ -556,18 +586,19 @@ Penyediaan Sarana dan Prasarana
 
 #### Pasal 33
 
-1. Pemerintah Daerah menyediakan sarana dan prasarana  pendukung untuk memaksimalkan rasa aman, nyaman,  dan tenang terhadap Anak Korban.  
+1. Pemerintah Daerah menyediakan sarana dan prasarana pendukung untuk memaksimalkan rasa aman, nyaman,  dan tenang terhadap Anak Korban.  
 2. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (1), meliputi:  
 a. penyediaan rumah aman sementara;  
-b. penyediaan pendidikan, kesempatan bermain dan  asupan makan yang baik, serta kebutuhan hidup  sehari-hari selama proses Pendampingan penanganan  di rumah aman sementara;  
+b. penyediaan pendidikan, kesempatan bermain dan  asupan makan yang baik, serta kebutuhan hidup sehari-hari selama proses Pendampingan penanganan  di rumah aman sementara;  
 c. penyediaan Pendamping di bidang kesehatan dan  konseling jika dibutuhkan;  
-d. penyediaan Pendamping di bidang mental spiritual  keagamaan; dan  
+d. penyediaan Pendamping di bidang mental spiritual keagamaan; dan  
 e. memberikan jaminan sosial bagi keluarga yang rentan.  
 
 #### Pasal 34
 
 1. Penanganan korban bertujuan untuk memberikan  tindakan yang tepat dalam menangani korban maupun  saksi dalam tindak Kekerasan, Eksploitasi, Perlakuan  Salah Terhadap Anak, dan/atau penelantaran.  
-2. Penanganan korban sebagaimana dimaksud pada ayat (1)  meliputi:a. aduan atau laporan;  
+2. Penanganan korban sebagaimana dimaksud pada ayat (1)  meliputi:  
+a. aduan atau laporan;  
 b. kebutuhan pelindungan;  
 c. kesehatan fisik dan psikis;  
 d. rehabilitasi;  
@@ -582,16 +613,19 @@ Aduan dan Laporan
 
 #### Pasal 35
 
-1. Aduan atau laporan terhadap adanya tindak Kekerasan,  Eksploitasi, perlakuan Salah Terhadap Anak dan/atau  penelantaran dibuat dengan mudah, cepat dan tepat.  
-2. Setiap orang yang melihat atau mengetahui adanya  tindakan sebagaimana dimaksud pada ayat (1) membuat  aduan atau laporan.  
-3. Aduan atau laporan sebagaimana dimaksud pada ayat (2)  dapat ditujukan kepada:a. Pemerintah Desa/Kelurahan;  
+1. Aduan atau laporan terhadap adanya tindak Kekerasan, Eksploitasi, perlakuan Salah Terhadap Anak dan/atau  penelantaran dibuat dengan mudah, cepat dan tepat.  
+2. Setiap orang yang melihat atau mengetahui adanya  tindakan sebagaimana dimaksud pada ayat (1) membuat aduan atau laporan.  
+3. Aduan atau laporan sebagaimana dimaksud pada ayat (2)  dapat ditujukan kepada:  
+a. Pemerintah Desa/Kelurahan;  
 b. FPKK;  
 c. Pemberi Bantuan Hukum;  
 d. fasilitas layanan kesehatan;  
 e. aparat penegak hukum;  
 f. Satpol PP;  
-g. lembaga swadaya masyarakat; dan/atauh. Media Sosialyang dikelola Perangkat Daerah  terkait.  
-4. Aduan atau laporan sebagaimana dimaksud pada ayat (2)  dapat dilakukan dengan cara:a. langsung;  
+g. lembaga swadaya masyarakat; dan/atau  
+h. Media Sosialyang dikelola Perangkat Daerah  terkait.  
+4. Aduan atau laporan sebagaimana dimaksud pada ayat (2)  dapat dilakukan dengan cara:  
+a. langsung;  
 b. melalui telepon;  
 c. melalui email atau pesan langsung ke media sosial;  dan/ataud. melalui surat.  
 5. Penerima aduan atau laporan sebagaimana dimaksud  pada ayat (3) wajib merahasiakan identitas pelapor.  
@@ -647,7 +681,8 @@ Prinsip Layanan
 
 #### Pasal 40
 
-1. Pelayanan dalam memenuhi hak-hak perempuan dan  anak dilaksanakan berdasarkan prinsip-prinsip sebagai  berikut:a. empati;  
+1. Pelayanan dalam memenuhi hak-hak perempuan dan anak dilaksanakan berdasarkan prinsip-prinsip sebagai berikut:  
+a. empati;  
 b. rahasia;  
 c. cepat dan sigap;  
 d. kemanusiaan;  
@@ -674,7 +709,7 @@ c. Pelayanan hukum;
 d. Pelayanan pendidikan dan pemberdayaan;  
 e. Pelayanan kemandirian ekonomi; dan  
 f. Pelayanan kerohanian.  
-2. Pemberian Pelayanan sebagaimana dimaksud pada ayat  (1) diberikan kepada korban dan/atau saksi secara gratis  sesuai dengan peraturan perundang- undangan.  
+2. Pemberian Pelayanan sebagaimana dimaksud pada ayat (1) diberikan kepada korban dan/atau saksi secara gratis  sesuai dengan peraturan perundang-undangan.  
 
 # BAB IX
 
@@ -688,7 +723,8 @@ f. Pelayanan kerohanian.
 
 #### Pasal 43
 
-1. Bentuk pelindungan perempuan dan anak sebagaimana dimaksud dalam Pasal 42 meliputi:a. menerima aduan atau laporan warga;  
+1. Bentuk pelindungan perempuan dan anak sebagaimana dimaksud dalam Pasal 42 meliputi:  
+a. menerima aduan atau laporan warga;  
 b. memberikan pelindungan terhadap pelapor,  korban, dan/atau saksi;  
 c. melakukan pengamanan sosial terhadap pelaku;  
 d. menyelenggarakan mediasi untuk menyelesaikan  perselisihan;  
@@ -707,35 +743,40 @@ c. monitoring berkala.
 #### Pasal 44
 
 1. Pemerintah Daerah melalui Perangkat Daerah Teknis  melakukan pelindungan perempuan dan anak.  
-2. Dalam melaksanakan pelindungan perempuan dan anak  sebagaimana dimaksud pada ayat (1), dapat melibatkan  Perangkat Daerah yang melaksanakan urusan  pemerintahan di bidang:a. pemberdayaan masyarakat dan desa;  
+2. Dalam melaksanakan pelindungan perempuan dan anak  sebagaimana dimaksud pada ayat (1), dapat melibatkan Perangkat Daerah yang melaksanakan urusan pemerintahan di bidang:  
+a. pemberdayaan masyarakat dan desa;  
 b. sosial, pengendalian penduduk dan keluarga  berencana;  
 c. kesehatan;  
 d. komunikasi dan informatika;  
 e. perindustrian, tenaga kerja, dan transmigrasi;  
 f. hukum;  
 g. mental dan spiritual;  
-h. administrasi kependudukan dan pencatatan sipil;  dan/ataui. ketenteraman, ketertiban umum dan pelindungan  masyaraka.  
+h. administrasi kependudukan dan pencatatan sipil; dan/atau  
+i. ketenteraman, ketertiban umum dan pelindungan masyarakat.   
 3. Pemerintah Daerah membentuk UPTD PPA untuk  memberikan Pelayanan maksimal dan melakukan  koordinasi antar Perangkat Daerah dalam  menyelenggarkan pelindungan perempuan dan anak.  
 
 #### Pasal 45
 
-1. UPTD PPA melakukan fungsi koordinasi dengan FPKK  dalam menyelenggarkan pelindungan perempuan dan anak.  
-2. Pelaksanaan fungsi koordinasi dengan FPKK sebagaimana  dimaksud pada ayat (1) meliputi:a. mengoordinasikan dan menyinkronkan pencegahan, pelayanan, dan pemberdayaan terhadap Perempuan  Korban dan Anak Korban;  
+1. UPTD PPA melakukan fungsi koordinasi dengan FPKK dalam menyelenggarkan pelindungan perempuan dan anak.  
+2. Pelaksanaan fungsi koordinasi dengan FPKK sebagaimana  dimaksud pada ayat (1) meliputi:  
+a. mengoordinasikan dan menyinkronkan pencegahan, pelayanan, dan pemberdayaan terhadap Perempuan  Korban dan Anak Korban;  
 b. memelihara dan mengembangkan FPKK dalam  pencegahan, pelayanan, dan pemberdayaan  Perempuan Korban dan Anak Korban secara  berjejaring serta sistem rujukan;  
-c. melakukan pendidikan tentang nilai-nilai non  Diskriminasi, non Kekerasan, non Eksploitasi, non  Perbutan Salah Terhadap Anak dan/atau  penelantaran terhadap perempuan dan anak;  
+c. melakukan pendidikan tentang nilai-nilai non Diskriminasi, non Kekerasan, non Eksploitasi, non  Perbutan Salah Terhadap Anak dan/atau  penelantaran terhadap perempuan dan anak;  
 d. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan perlindungan perempuan dan anak;  
-e. mengumpulkan, menyusun, dan menyajikan laporan  data Perempuan Korban dan Anak Korban;  
+e. mengumpulkan, menyusun, dan menyajikan laporan data Perempuan Korban dan Anak Korban;  
 f. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan perlindungan perempuan dan anak.  
-3. UPTD PPA dapat melakukan pembinaan dan  Pendampingan terhadap:a. forum perempuan Purworejo;  
+3. UPTD PPA dapat melakukan pembinaan dan  Pendampingan terhadap:  
+a. forum perempuan Purworejo;  
 b. forum anak Purworejo;  
 c. satuan tugas perlindungan perempuan dan anak;  
 d. gugus tugas perlindungan perempuan dan anak;  
-e. lembaga swadaya masyarakat;dan/atauf. organisasi yang berkaitan dengan perempuan dan anak  lainnya.  
+e. lembaga swadaya masyarakat; dan/atau  
+f. organisasi yang berkaitan dengan perempuan dan anak  lainnya.  
 4. Pembinaan dan Pendampingan sebagaimana dimaksud  pada ayat (3) bertujuan untuk mendorong peran serta  masyarakat dalam penyelenggaraan pelindungan  perempuan dan anak.  
 
 #### Pasal 46
 
-Ketentuan lebih lanjut mengenai pembentukan UPTD PPA  diatur dengan Peraturan Bupati yang ditetapkan paling  lambat 1 (satu) tahun setelah Peraturan Daerah ini di  undangkan.  
+Ketentuan lebih lanjut mengenai pembentukan UPTD PPA  diatur dengan Peraturan Bupati yang ditetapkan paling lambat 1 (satu) tahun setelah Peraturan Daerah ini di  undangkan.  
 
 # BAB XI
 
@@ -748,15 +789,17 @@ Kerja Sama
 #### Pasal 47
 
 1. Pemerintah Daerah dapat bekerjasama dengan berbagai  pihak baik lembaga pemerintahan maupun lembaga non  pemerintahan untuk mewujudkan pelindungan  perempuan dan anak.  
-2. Kerjasama dengan lembaga pemerintahan  sebagaimana dimaksudkan pada ayat (1) meliputi:  
+2. Kerjasama dengan lembaga pemerintahan sebagaimana dimaksudkan pada ayat (1) meliputi:  
 a. pemerintah pusat;  
 b. pemerintah provinsi;  
-c. pemerintah kabupaten/kota lain; dan/atau d. lembaga pemerintah lainnya.  
+c. pemerintah kabupaten/kota lain; dan/atau  
+d. lembaga pemerintah lainnya.  
 3. Kerjasama dengan lembaga non pemerintahan  sebagaimana dimaksud pada ayat (1) diantaranya:  
 a. lembaga swadaya masyarakat;  
 b. Dunia Usaha;  
 c. masyarakat;  
-d. lembaga pendidikan; dan/ataue. media.  
+d. lembaga pendidikan; dan/atau  
+e. media.  
 
 ## Bagian Kedua
 
@@ -765,9 +808,11 @@ Kemitraan
 #### Pasal 48
 
 1. Pemerintah Daerah menjalin kemitraan dengan Dunia  Usaha, lembaga pendidikan atau lembaga non pemerintah  untuk menyelenggarakan pelindungan perempuan dan  anak sesuai dengan ketentuan peraturan perundang undangan.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1)  dilakukan melalui:a. sosialisasi dan penyuluhan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1)  dilakukan melalui:  
+a. sosialisasi dan penyuluhan;  
 b. pendidikan dan pelatihan;  
-c. bantuan hukum; dan/ataud. kesehatan dan rehabilitasi.  
+c. bantuan hukum; dan/atau  
+d. kesehatan dan rehabilitasi.  
 
 #### Pasal 49
 
@@ -793,8 +838,10 @@ Masyarakat berhak memberikan aspirasi berupa gagasan dan  saran kepada Bupati un
 #### Pasal 52
 
 1. Pemerintah Daerah memberikan penghargaan kepada  perseorangan, keluarga, kelompok, Dunia Usaha, lembaga  swadaya masyarakat, dan/atau lembaga lainnya yang  memiliki sumbangsih dan peran penting dalam upaya  pelindungan perempuan dan anak.  
-2. Penghargaan sebagaimana dimaksud pada ayat (1) dapat  berupa:a. uang;  
-b. alat atau perlengkapan usaha; dan/atauc. piagam dan sertifikat.  
+2. Penghargaan sebagaimana dimaksud pada ayat (1) dapat  berupa:  
+a. uang;  
+b. alat atau perlengkapan usaha; dan/atau  
+c. piagam dan sertifikat.  
 3. Ketentuan lebih lanjut mengenai syarat dan tata cara  pemberian penghargaan sebagaimana dimaksud pada  ayat (1) diatur dalam Peraturan Bupati.  
 
 # BAB XIV
@@ -833,35 +880,31 @@ Peraturan Daerah ini mulai berlaku pada tanggal  diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan penempatannya  dalam Lembaran Daerah Kabupaten Purworejo.  
 
-Ditetapkan di Purworejo pada tanggal 28 Desember 2022
+Ditetapkan di Purworejo pada  
 
-##### BUPATI PURWOREJO,
+tanggal 28 Desember 2022  
 
-##### AGUS BASTIAN
+BUPATI PURWOREJO,
 
-Diundangkan di Purworejo pada tanggal 28 Desember 2022
+AGUS BASTIAN  
 
-##### SEKRETARIS DAERAH KABUPATEN PURWOREJO,
+Diundangkan di Purworejo  
 
-##### SAID ROMADHON
+pada tanggal 28 Desember 2022  
 
-##### LEMBARAN DAERAH KABUPATEN PURWOREJO
+SEKRETARIS DAERAH KABUPATEN PURWOREJO,  
 
-##### TAHUN 2022 NOMOR 13 SERI E NOMOR 9
+SAID ROMADHON  
 
-NOMOR REGISTER PERATURAN DAERAH KABUPATEN PURWOREJO PROVINSI JAWA TENGAH: 13-366/2022
+LEMBARAN DAERAH KABUPATEN PURWOREJO  
 
-##### PENJELASAN
+TAHUN 2022 NOMOR 13 SERI E NOMOR 9  
 
-##### ATAS
+NOMOR REGISTER PERATURAN DAERAH KABUPATEN PURWOREJO PROVINSI JAWA TENGAH: 13-366/2022  
 
-##### PERATURAN DAERAH KABUPATEN PURWOREJO
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PURWOREJO
 
-##### NOMOR 13 TAHUN 2022
-
-##### TENTANG
-
-##### PENYELENGGARAAN PELINDUNGAN PEREMPUAN DAN ANAK
+NOMOR 13 TAHUN 2022 TENTANG PENYELENGGARAAN PELINDUNGAN PEREMPUAN DAN ANAK
 
 ##### I. UMUM
 
@@ -881,19 +924,26 @@ Cukup jelas.
 
 #### Pasal 2
 
-Huruf a Yang dimaksud dengan “asas kemanusiaan” adalah  memberikan pelindungan serta penghormatan terhadap hak  asasi manusia, harkat, dan martabat setiap warga negara  Indonesia dan secara khusus perempuan dan anak.  
+Huruf a  
+Yang dimaksud dengan “asas kemanusiaan” adalah  memberikan pelindungan serta penghormatan terhadap hak  asasi manusia, harkat, dan martabat setiap warga negara  Indonesia dan secara khusus perempuan dan anak.  
 
-Huruf b Yang dimaksud dengan “asas penghormatan dan  pemenuhan hak perempuan dan anak” adalah serangkaian  tindakan menghormati, menghargai dan menjamin  terpenuhinya hak- hak perempuan dan anak.  
+Huruf b  
+Yang dimaksud dengan “asas penghormatan dan  pemenuhan hak perempuan dan anak” adalah serangkaian  tindakan menghormati, menghargai dan menjamin  terpenuhinya hak- hak perempuan dan anak.  
 
-Huruf c Yang dimaksud dengan “asas non diskriminasi dan non  eksploitasi” adalah menghargai persamaan derajat tidak  membeda-bedakan, baik para pihak, atas dasar ras, etnis,  suku bangsa, warna kulit, status sosial, afiliasi atau ideologi  dan sebagainya, serta menghargai kedudukan dan  kehormatan perempuan dan anak tanpa ada pemanfaatan  yang bertentangan dengan nilai-nilai yang ada dalam  masyarakat.  
+Huruf c  
+Yang dimaksud dengan “asas non diskriminasi dan non  eksploitasi” adalah menghargai persamaan derajat tidak  membeda-bedakan, baik para pihak, atas dasar ras, etnis,  suku bangsa, warna kulit, status sosial, afiliasi atau ideologi  dan sebagainya, serta menghargai kedudukan dan  kehormatan perempuan dan anak tanpa ada pemanfaatan  yang bertentangan dengan nilai-nilai yang ada dalam  masyarakat.  
 
-Huruf d Yang dimaksud dengan “asas rukun” adalah pandangan  untuk hidup harmonis dan seimbang yang mendorong  keadaan relasi antar individu yang damai, tenang, dan  bahagia.  
+Huruf d  
+Yang dimaksud dengan “asas rukun” adalah pandangan  untuk hidup harmonis dan seimbang yang mendorong  keadaan relasi antar individu yang damai, tenang, dan  bahagia.  
 
-Huruf e Yang dimaksud dengan “asas pengayoman” adalah  pemberian pelindungan untuk menciptakan ketentraman  didalam masyarakat.  
+Huruf e  
+Yang dimaksud dengan “asas pengayoman” adalah  pemberian pelindungan untuk menciptakan ketentraman  didalam masyarakat.  
 
-Huruf f Yang dimaksud dengan “asas keadilan dan kesetaraan  gender” adalah mendorong keseimbangan antara hak dan  kewajiban sesuai dengan peraturan perundang-undangan. Huruf g Yang dimaksud dengan “asas kesejahteraan” adalah  terpenuhinya kebutuhan material dan non material.  
+Huruf f  
+Yang dimaksud dengan “asas keadilan dan kesetaraan  gender” adalah mendorong keseimbangan antara hak dan  kewajiban sesuai dengan peraturan perundang-undangan. Huruf g Yang dimaksud dengan “asas kesejahteraan” adalah  terpenuhinya kebutuhan material dan non material.  
 
-Huruf g Yang dimaksud dengan “asas proporsionalitas” adalah  penempatan sesuatu sesuai dengan proporsi dengan melihat  situasi, kondisi, tempat dan waktu dengan mengedepankan  keseimbangan antara hak dan kewajiban.  
+Huruf g  
+Yang dimaksud dengan “asas proporsionalitas” adalah  penempatan sesuatu sesuai dengan proporsi dengan melihat  situasi, kondisi, tempat dan waktu dengan mengedepankan  keseimbangan antara hak dan kewajiban.  
 
 #### Pasal 3
 
@@ -913,95 +963,137 @@ Cukup jelas.
 
 #### Pasal 7
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Cukup jelas.  
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Hak memperoleh identitas diri diantaranya:  
+Huruf b  
+Hak memperoleh identitas diri diantaranya:  
 a. hak atas nama;  
 b. hak atas status kewarganegaraan;  
 c. hak atas akta kelahiran; dan  
 d. hak atas kartu identitas anak.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf f Cukup jelas.  
+Huruf f  
+Cukup jelas.  
 
-Huruf g Yangdimaksud pengaruh destruktif diantaranya  meliputi:  
+Huruf g  
+Yang dimaksud pengaruh destruktif diantaranya  meliputi:  
 a. pengaruh dari pornografi;  
 b. pengaruh dari narkoba dan obat-obatan terlarang;  
 c. pengaruh dari tontonan kekerasan dan perilaku  menyimpang; dan  
 d. pengaruh dari lingkungan yang buruk.  
 
-Huruf h Cukup jelas.  
+Huruf h  
+Cukup jelas.  
 
-Huruf i Cukup jelas.  
+Huruf i  
+Cukup jelas.  
 
-Huruf j Cukup jelas.  
+Huruf j  
+Cukup jelas.  
 
-Huruf k Cukup jelas.  
+Huruf k  
+Cukup jelas.  
 
-Huruf l Cukup jelas.  
+Huruf l  
+Cukup jelas.  
 
-Huruf m Cukup jelas.  
+Huruf m  
+Cukup jelas.  
 
-Huruf n Cukup jelas.  
+Huruf n  
+Cukup jelas.  
 
-Huruf o Cukup jelas.  
+Huruf o  
+Cukup jelas.  
 
-Huruf p Cukup jelas.  
+Huruf p  
+Cukup jelas.  
 
 #### Pasal 8
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Cukup jelas.  
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Yang dimaksud pelindungan atas harta bendanya  adalah pelindungan harta kekayaan atau barang yang  memiliki nilai ekonomis baik sebagian atau seluruhnya  adalah milik Perempuan Korban Diskriminasi,  Kekerasan, dan/atau Eksploitasi, yang dikuasai pihak  lain. Bentuk pelindungannya dilakukan melalui  koordinasi dengan Pemerintah Desa/Kelurahan serta  Perangkat Daerah terkait proses pengurusan perubahan  hak milik atas harta benda dimaksud.  
+Huruf e  
+Yang dimaksud pelindungan atas harta bendanya  adalah pelindungan harta kekayaan atau barang yang  memiliki nilai ekonomis baik sebagian atau seluruhnya  adalah milik Perempuan Korban Diskriminasi,  Kekerasan, dan/atau Eksploitasi, yang dikuasai pihak  lain. Bentuk pelindungannya dilakukan melalui  koordinasi dengan Pemerintah Desa/Kelurahan serta  Perangkat Daerah terkait proses pengurusan perubahan  hak milik atas harta benda dimaksud.  
 
-Huruf f Cukup jelas.  
+Huruf f  
+Cukup jelas.  
 
-Huruf g Cukup jelas.  
+Huruf g  
+Cukup jelas.  
 
-Huruf h Cukup jelas.  
+Huruf h  
+Cukup jelas.  
 
-Huruf i Cukup jelas.  
+Huruf i  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 9
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Cukup jelas.  
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf f Cukup jelas.  
+Huruf f  
+Cukup jelas.  
 
-Huruf g Yang dimaksud pelindungan atas harta atau kekayaan  pribadi adalah pelindungan harta atau barang yang  memiliki nilai ekonomis baik sebagian atau seluruhnya  adalah milik Anak Korban Diskriminasi, Kekerasan,  Eksploitasi, Perlakuan Salah Terhadap Anak dan/atau  penelantaran yang dikuasai pihak lain. Bentuk  pelindungan dilakukan melalui koordinasi dengan  Pemerintah Desa/Kelurahan serta Perangkat Daerah  terkait proses pengurusan perubahan hak milik atas  harta atau kekayaan pribadi dimaksud.  
+Huruf g  
+Yang dimaksud pelindungan atas harta atau kekayaan  pribadi adalah pelindungan harta atau barang yang  memiliki nilai ekonomis baik sebagian atau seluruhnya  adalah milik Anak Korban Diskriminasi, Kekerasan,  Eksploitasi, Perlakuan Salah Terhadap Anak dan/atau  penelantaran yang dikuasai pihak lain. Bentuk  pelindungan dilakukan melalui koordinasi dengan  Pemerintah Desa/Kelurahan serta Perangkat Daerah  terkait proses pengurusan perubahan hak milik atas  harta atau kekayaan pribadi dimaksud.  
 
-Huruf h Cukup jelas.  
+Huruf h  
+Cukup jelas.  
 
-Huruf i Cukup jelas.  
+Huruf i  
+Cukup jelas.  
 
-Huruf j Cukup jelas.  
+Huruf j  
+Cukup jelas.  
 
 #### Pasal 10
 
@@ -1045,23 +1137,32 @@ Cukup jelas.
 
 #### Pasal 20
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Cukup jelas.  
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf f Yang dimaksud dengan visum et repertum adalah  keterangan medis yang dibuat oleh dokter tersumpah di  fasilitas layanan kesehatan berdasarkan permintaan  penyidik terhadap manusia, baik secara utuh maupun  sebagian, hidup atau mati, yang dikeluarkan secara  resmi menggunakan kertas berkepala surat, identitas  pembuat dan stempel dinas yang kemudian diserahkan  kepada institusi penyidik pemintanya untuk  kepentingan penegakan hukum.  
+Huruf f  
+Yang dimaksud dengan visum et repertum adalah  keterangan medis yang dibuat oleh dokter tersumpah di  fasilitas layanan kesehatan berdasarkan permintaan  penyidik terhadap manusia, baik secara utuh maupun  sebagian, hidup atau mati, yang dikeluarkan secara  resmi menggunakan kertas berkepala surat, identitas  pembuat dan stempel dinas yang kemudian diserahkan  kepada institusi penyidik pemintanya untuk  kepentingan penegakan hukum.  
 
 Yang dimaksud dengan visum et psikiatrikum adalah  keterangan dokter spesialis kedokteran jiwa yang  berbentuk surat sebagai hasil pemeriksaan kesehatan  jiwa pada seseorang di fasilitas Pelayanan kesehatan  untuk kepentingan penegakan hukum.  
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
 #### Pasal 21
 
@@ -1129,11 +1230,14 @@ Cukup jelas.
 
 #### Pasal 37
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
-Ayat (3) Yang dimaksud dengan visum et repertum adalah keterangan  medis yang dibuat oleh dokter tersumpah di fasilitas layanan  kesehatan berdasarkan permintaan penyidik terhadap  manusia, baik secara utuh maupun sebagian, hidup atau  mati, yang dikeluarkan secara resmi menggunakan kertas  berkepala surat, identitas pembuat dan stempel dinas yang  kemudian diserahkan kepada institusi penyidik pemintanya  untuk kepentingan penegakan hukum.  
+Ayat (3)  
+Yang dimaksud dengan visum et repertum adalah keterangan  medis yang dibuat oleh dokter tersumpah di fasilitas layanan  kesehatan berdasarkan permintaan penyidik terhadap  manusia, baik secara utuh maupun sebagian, hidup atau  mati, yang dikeluarkan secara resmi menggunakan kertas  berkepala surat, identitas pembuat dan stempel dinas yang  kemudian diserahkan kepada institusi penyidik pemintanya  untuk kepentingan penegakan hukum.  
 
 Yang dimaksud dengan visum et psikiatrikum adalah  keterangan dokter spesialis kedokteran jiwa yang berbentuk  surat sebagai hasil pemeriksaan kesehatan jiwa pada  seseorang di fasilitas Pelayanan kesehatan untuk  kepentingan penegakan hukum.  
 
@@ -1147,31 +1251,43 @@ Cukup jelas.
 
 #### Pasal 40
 
-Ayat (1) Huruf a Yang dimaksud dengan “empati” adalah keadaan mental  untuk merasakan pikiran, perasaan, dan keadaan yang  sama yang dialami oleh orang lain.  
+Ayat (1)  
+Huruf a  
+Yang dimaksud dengan “empati” adalah keadaan mental  untuk merasakan pikiran, perasaan, dan keadaan yang  sama yang dialami oleh orang lain.  
 
-Huruf b Yang dimaksud dengan “rahasia” adalah menyimpan  data dan informasi yang diberikan dengan hati-hati dan  tidak membocorkannya ke orang lain tanpa persetujuan  dari pemberi informasi atau diatur dalam perundang undangan.  
+Huruf b  
+Yang dimaksud dengan “rahasia” adalah menyimpan  data dan informasi yang diberikan dengan hati-hati dan  tidak membocorkannya ke orang lain tanpa persetujuan  dari pemberi informasi atau diatur dalam perundang undangan.  
 
-Huruf c Yang dimaksud dengan “cepat” yakni melakukan  tindakan tanpa menunda-nunda dengan penuh  perhatian sehingga segera terselesaikan tugasnya.  
+Huruf c  
+Yang dimaksud dengan “cepat” yakni melakukan  tindakan tanpa menunda-nunda dengan penuh  perhatian sehingga segera terselesaikan tugasnya.  
 
 Yang dimaksud dengan “sigap” adalah sikap selalu siap dan fokus dalam menanggapi situasi yang dihadapi.  
 
-Huruf d Yang dimaksud dengan “kemanusiaan” adalah  memberikan pelindungan serta penghormatan terhadap  hak asasi manusia, harkat, dan martabat setiap warga  negara Indonesia dan secara khusus perempuan dan  anak.  
+Huruf d  
+Yang dimaksud dengan “kemanusiaan” adalah  memberikan pelindungan serta penghormatan terhadap  hak asasi manusia, harkat, dan martabat setiap warga  negara Indonesia dan secara khusus perempuan dan  anak.  
 
-Huruf e Yang dimaksud dengan “terdokumentasi” adalah  melakukan pencatatan dan pendataan secara cermat,  lengkap serta konsisten.  
+Huruf e  
+Yang dimaksud dengan “terdokumentasi” adalah  melakukan pencatatan dan pendataan secara cermat,  lengkap serta konsisten.  
 
-Huruf f Yang dimaksud dengan “inklusi” adalah membangun  situasi dan kondisi yang terbuka bagi siapa saja tanpa  membeda-bedakan latar belakang.  
+Huruf f  
+Yang dimaksud dengan “inklusi” adalah membangun  situasi dan kondisi yang terbuka bagi siapa saja tanpa  membeda-bedakan latar belakang.  
 
-Huruf g Yang dimaksud dengan “imparsial” adalah suatu  pandangan dan sikap yang netral dan tidak memihak  siapapun.  
+Huruf g  
+Yang dimaksud dengan “imparsial” adalah suatu  pandangan dan sikap yang netral dan tidak memihak  siapapun.  
 
-Huruf h Yang dimaksud dengan “berorientasi korban” adalah  pandangan yang melihat dari sudut pandang  kepentingan korban.  
+Huruf h  
+Yang dimaksud dengan “berorientasi korban” adalah  pandangan yang melihat dari sudut pandang  kepentingan korban.  
 
-Huruf i Yang dimaksud dengan “mudah” adalah proses yang sederhana, tidak sulit, dan tidak berbelit.  
+Huruf i  
+Yang dimaksud dengan “mudah” adalah proses yang sederhana, tidak sulit, dan tidak berbelit.  
 
 Yang dimaksud dengan “prima” adalah memberikan layanan sebaik mungkin kepada masyarakat.  
 
-Huruf j Yang dimaksud dengan “profesional” adalah kemampuan atau kompetensi pemberi layanan yang mendukung untuk memberikan Pelayanan secara prima.  
+Huruf j  
+Yang dimaksud dengan “profesional” adalah kemampuan atau kompetensi pemberi layanan yang mendukung untuk memberikan Pelayanan secara prima.  
 
-Huruf k Yang dimaksud dengan “keberlanjutan” adalah kepastian akan tindak lanjut atau respon dari setiap permohonan layanan.  
+Huruf k  
+Yang dimaksud dengan “keberlanjutan” adalah kepastian akan tindak lanjut atau respon dari setiap permohonan layanan.  
 
 #### Pasal 41
 
@@ -1237,4 +1353,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN PURWOREJO NOMOR: 13/2022
+TAMBAHAN LEMBARAN DAERAH KABUPATEN PURWOREJO NOMOR: 13/2022  

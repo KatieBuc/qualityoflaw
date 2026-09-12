@@ -1,18 +1,18 @@
-# BUPATI SUKOHARJO
+# PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
+
+BUPATI SUKOHARJO  
 
 # PERATURAN DAERAH KABUPATEN SUKOHARJO
 
-# NOMOR 6 TAHUN 2011
+NOMOR 6 TAHUN 2011  
 
-# TENTANG
+TENTANG  
 
-# PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN
+PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
-# KEKERASAN BERBASIS GENDER DAN ANAK
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# BUPATI SUKOHARJO,
+BUPATI SUKOHARJO,  
 
 Menimbang:  
  
@@ -36,7 +36,6 @@ Mengingat:
  
  
 1. Undang-Undang Nomor 13 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa  Tengah;  
-
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak  (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32,  Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 3. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi  mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap  Wanita (Convention on The Elimination of All Forms of Discrimination  Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984  Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor  3277);  
 4. Undang-Undang Nomor 3 Tahun 1997 tentang Pengadilan Anak  (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 3,  Tambahan Lembaran Negara Republik Indonesia Nomor 3668);  
@@ -57,19 +56,25 @@ Mengingat:
 19. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang Pedoman  Pembinaan dan Pengawasan Penyelenggaraan Pemerintah Daerah  (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 165,  Tambahan Lembaran Negara Republik Indonesia Nomor 4593);  
 20. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan Dan Kerjasama Pemulihan Korban Kekerasan  Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun  2006 Nomor 15 Tambahan Lembaran Negara Republik Indonesia  Nomor 4604);  
 21. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian  Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi, Dan Pemerintahan Daerah Kabupaten/Kota (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan  Lembaran Negara Republik Indonesia Nomor 4737);  
-22. Peraturan Pemerintah Nomor 50 Tahun 2007 tentang Tata Cara  Pelaksanaan Kerja Sama Daerah (Lembaran Negara Republik  Indonesia Tahun 2007 Nomor 112, Tambahan Lembaran Negara  Republik Indonesia Nomor 4761);  
+22. Peraturan Pemerintah Nomor 50 Tahun 2007 tentang Tata Cara  Pelaksanaan Kerja Sama Daerah (Lembaran Negara Republik  Indonesia Tahun 2007 Nomor 112, Tambahan Lembaran Negara Republik Indonesia Nomor 4761);  
 23. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara Dan  Mekanisme Pelayanan Terpadu Bagi Saksi dan/atau Korban Tindak  Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia  Tahun 2008 Nomor 22, Tambahan Lembaran Negara Republik  Indonesia Nomor 4818);  
-24. Peraturan Presiden Nomor 1 Tahun 2007 tentang Pengesahan,  Pengundangan dan Penyebarluasan Peraturan  Perundangundangan;  
-25. Peraturan Daerah Provinsi Jawa Tengah Nomor 3 Tahun 2009  Tentang Penyelenggaraan Perlindungan Terhadap Korban  Kekerasan Berbasis Gender Dan Anak (Lembaran Daerah Provinsi  Tahun 2009 Nomor 3, Tambahan Lembaran Daerah Provinsi Jawa  Tengah Nomor 20);  
+24. Peraturan Presiden Nomor 1 Tahun 2007 tentang Pengesahan,  Pengundangan dan Penyebarluasan Peraturan  Perundang-undangan;  
+25. Peraturan Daerah Provinsi Jawa Tengah Nomor 3 Tahun 2009  Tentang Penyelenggaraan Perlindungan Terhadap Korban  Kekerasan Berbasis Gender Dan Anak (Lembaran Daerah Provinsi Tahun 2009 Nomor 3, Tambahan Lembaran Daerah Provinsi Jawa  Tengah Nomor 20);  
 26. Peraturan Daerah Kabupaten Sukoharjo Nomor 1 Tahun 2008  tentang Urusan Pemerintahan yang menjadi Kewenangan  Pemerintahan Daerah Kabupaten Sukoharjo (Lembaran Daerah  Kabupaten Sukoharjo Tahun 2008 Nomor 1, Tambahan Lembaran  Daerah Kabupaten Sukoharjo Nomor 155);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SUKOHARJO  dan
+Dengan Persetujuan Bersama  
 
-# BUPATI SUKOHARJO
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SUKOHARJO  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS  GENDER DAN ANAK.  
+BUPATI SUKOHARJO  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS  GENDER DAN ANAK.  
 
 # BAB I
 
@@ -77,7 +82,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP KORB
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 
 1. Daerah adalah Kabupaten Sukoharjo.  
 2. Pemerintah Daerah adalah Bupati dan Perangkat Daerah sebagai  unsur penyelenggara pemerintahan daerah.  
@@ -127,11 +132,12 @@ l. pengambilan keputusan di tangan korban.
 
 #### Pasal 3
 
-Tujuan perlindungan korban kekerasan berbasis gender dan anak  adalah:  
+Tujuan perlindungan korban kekerasan berbasis gender dan anak adalah:  
 a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan  terhadap anak, yang terjadi di lingkup rumah tangga dan/atau  masyarakat;  
 b. memberikan perlindungan;  
 c. memberikan pendampingan hukum;  
-d. mengupayakan pemulihan dan reintegrasi sosial; dan e. memberikan rasa aman terhadap korban.  
+d. mengupayakan pemulihan dan reintegrasi sosial; dan  
+e. memberikan rasa aman terhadap korban.  
 
 # BAB III
 
@@ -139,7 +145,8 @@ d. mengupayakan pemulihan dan reintegrasi sosial; dan e. memberikan rasa aman te
 
 #### Pasal 4
 
-1. Setiap korban kekerasan berbasis gender dan anak korban  kekerasan berhak:a. memperoleh perlindungan atas keamanan pribadi, keluarga, dan  harta bendanya, serta bebas dari ancaman yang berkenaan  dengan keterangan yang akan, sedang, atau telah diberikan;  
+1. Setiap korban kekerasan berbasis gender dan anak korban  kekerasan berhak:  
+a. memperoleh perlindungan atas keamanan pribadi, keluarga, dan  harta bendanya, serta bebas dari ancaman yang berkenaan  dengan keterangan yang akan, sedang, atau telah diberikan;  
 b. untuk ikut serta dalam proses memilih dan menentukan bentuk  perlindungan dan dukungan keamanan;  
 c. mendapatkan informasi mengenai perkembangan kasus dan  putusan pengadilan;  
 d. mendapatkan pelayanan terpadu yang cepat, tepat, nyaman,  dan sesuai kebutuhan;  
@@ -147,7 +154,7 @@ e. pemulihan dan reintegrasi sosial;
 f. mendapatkan pendampingan hukum, psikologis, bimbingan  rohani, ekonomi, sosial dan penterjemah;  
 g. penanganan khusus berkaitan dengan kerahasiaan korban;  
 h. mendapatkan jaminan atas hak-haknya yang berkaitan dengan  statusnya sebagai isteri/ibu, suami/bapak, anak dan anggota  rumah tangga serta anggota masyarakat; dan  
-i. mendapatkan informasi tentang peraturan perundang-undangan  yang melindungi korban.  
+i. mendapatkan informasi tentang peraturan perundang-undangan yang melindungi korban.  
 2. Hak korban sebagaimana dimaksud pada ayat (1) dilaksanakan  sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB IV
@@ -156,12 +163,15 @@ i. mendapatkan informasi tentang peraturan perundang-undangan  yang melindungi k
 
 #### Pasal 5
 
-1. Dalam menyelenggarakan perlindungan terhadap korban kekerasan  berbasis gender dan anak Pemerintah Daerah berkewajiban:a. melaksanakan segala upaya mencegah terjadinya kekerasan;  
+1. Dalam menyelenggarakan perlindungan terhadap korban kekerasan  berbasis gender dan anak Pemerintah Daerah berkewajiban:  
+a. melaksanakan segala upaya mencegah terjadinya kekerasan;  
 b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi sosial bagi  korban;  
 d. mendorong dan meningkatkan partisipasi masyarakat;  
-e. melakukan kerjasama dengan penyedia layanan dalam upaya  pencegahan, perlindungan dan pemulihan korban kekerasan;  danf. mengawasi penyelenggaraan pelayanan terhadap korban yang  melibatkan masyarakat.  
-2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang penghapusan  kekerasan berbasis gender dan anak;  
+e. melakukan kerjasama dengan penyedia layanan dalam upaya  pencegahan, perlindungan dan pemulihan korban kekerasan; dan  
+f. mengawasi penyelenggaraan pelayanan terhadap korban yang  melibatkan masyarakat.  
+2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah mempunyai kewenangan untuk:  
+a. merumuskan kebijakan dan program tentang penghapusan  kekerasan berbasis gender dan anak;  
 b. memfasilitasi terselenggaranya pelayanan terpadu;  
 c. menyediakan sarana dan prasarana;  
 d. meningkatkan kapasitas lembaga penyedia layanan;  
@@ -198,7 +208,8 @@ a. mengupayakan pencegahan;
 b. pemulihan dan reintegrasi sosial;  
 c. memberikan perlindungan hukum;  
 d. melakukan koordinasi dan kerjasama;  
-e. mengupayakan peningkatan partisipasi masyarakat; dan f. monitoring dan pelaporan.  
+e. mengupayakan peningkatan partisipasi masyarakat; dan  
+f. monitoring dan pelaporan.  
 
 ## Bagian Ketiga
 
@@ -236,7 +247,7 @@ Upaya Pemulihan dan Reintegrasi Sosial sebagaimana dimaksud dalam  Pasal 8 huruf
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
-d. memberikan perlindungan sementara di rumah aman (shelter) ;  
+d. memberikan perlindungan sementara di rumah aman (shelter);  
 e. memberikan pemulihan dan pendampingan psikososial;  
 f. memberikan pelayanan bimbingan rohani; dan  
 g. melakukan penyiapan keluarga dan masyarakat, pemberdayaan  ekonomi, dan pengembalian ke sekolah dan/atau lembaga  pendidikan lainnya.  
@@ -261,7 +272,8 @@ Koordinasi dan Kerjasama
 Koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 8 huruf  d meliputi:  
 a. melakukan koordinasi dan kerjasama penanganan kasus kekerasan  dengan pelayanan terpadu kabupaten/kota;  
 b. melakukan koordinasi dan kerjasama dengan pelayanan terpadu  antar kabupaten;  
-c. melakukan koordinasi dan kerjasama dengan lembaga-lembaga  penyedia layanan bagi korban kekerasan berbasis gender dan anak;  dand. melakukan koordinasi dan konsultasi dengan Pemerintah Daerah.  
+c. melakukan koordinasi dan kerjasama dengan lembaga-lembaga  penyedia layanan bagi korban kekerasan berbasis gender dan anak; dan  
+d. melakukan koordinasi dan konsultasi dengan Pemerintah Daerah.  
 
 ## Bagian Kedelapan
 
@@ -288,11 +300,11 @@ Monitoring dan Pelaporan
 
 #### Pasal 15
 
-Monitoring dan pelaporan sebagaimana dimaksud dalam Pasal 8 huruf f  meliputi monitoring, pendokumentasian dan evaluasi kasus-kasus  kekerasan berbasis gender dan anak.  
+Monitoring dan pelaporan sebagaimana dimaksud dalam Pasal 8 huruf f meliputi monitoring, pendokumentasian dan evaluasi kasus-kasus  kekerasan berbasis gender dan anak.  
 
 #### Pasal 16
 
-Penyelenggaraan pelayanan terpadu pelaksanaannya dikoordinasikan  oleh SKPD yang membidangi.  
+Penyelenggaraan pelayanan terpadu pelaksanaannya dikoordinasikan oleh SKPD yang membidangi.  
 
 # BAB VI
 
@@ -343,41 +355,39 @@ Lembaga Pelayanan Terpadu yang melanggar prinsip-prinsip pelayanan  sebagaimana 
 
 #### Pasal 22
 
-Hal-hal yang belum diatur dalam Peraturan Daerah ini sepanjang  mengenai teknis pelaksanaannya diatur dengan Peraturan Bupati.  
+Hal-hal yang belum diatur dalam Peraturan Daerah ini sepanjang mengenai teknis pelaksanaannya diatur dengan Peraturan Bupati.  
 
 #### Pasal 23
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Sukoharjo.  
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Sukoharjo.  
 
-Ditetapkan di Sukoharjo pada tanggal 25 Mei 2011
+Ditetapkan di Sukoharjo  
 
-##### BUPATI SUKOHARJO,
+pada tanggal 25 Mei 2011  
 
-Diundangkan di Sukoharjo pada tanggal 25 Mei 2011 Plt. SEKRETARIS DAERAH,
+BUPATI SUKOHARJO,  
 
-##### KABUPATEN SUKOHARJO
+Diundangkan di Sukoharjo  
 
-##### ASISTEN ADMINISTRASI UMUM
+pada tanggal 25 Mei 2011  
 
-##### AGUS SANTOSA
+Plt. SEKRETARIS DAERAH,  
 
-##### LEMBARAN DAERAH KABUPATEN SUKOHARJO TAHUN 2011 NOMOR 6
+KABUPATEN SUKOHARJO  
 
-##### WARDOYO WIJAYA
+ASISTEN ADMINISTRASI UMUM  
 
-##### PENJELASAN
+AGUS SANTOSA  
 
-##### ATAS
+LEMBARAN DAERAH KABUPATEN SUKOHARJO TAHUN 2011 NOMOR 6  
 
-##### PERATURAN DAERAH KABUPATEN SUKOHARJO
+WARDOYO WIJAYA  
 
-##### NOMOR 6 TAHUN 2011
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN SUKOHARJO
 
-##### TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK
+NOMOR 6 TAHUN 2011 TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK  
 
 ##### I. UMUM.  
 
@@ -397,33 +407,45 @@ Cukup jelas.
 
 #### Pasal 2
 
-Huruf a Yang dimaksud dengan “non diskriminasi” adalah perlindungan  kepada semua korban kekerasan berbasis gender dan anak tanpa  membedakan suku, agama, ras, golongan, jenis kelamin, etnis,  budaya dan bahasa, status hukum dan kondisi fisik maupun mental.  
+Huruf a  
+Yang dimaksud dengan “non diskriminasi” adalah perlindungan  kepada semua korban kekerasan berbasis gender dan anak tanpa  membedakan suku, agama, ras, golongan, jenis kelamin, etnis,  budaya dan bahasa, status hukum dan kondisi fisik maupun mental.  
 
-Huruf b Yang dimaksud dengan “kepentingan terbaik bagi korban” adalah  semua tindakan yang menyangkut korban yang dilakukan oleh  pemerintah, masyarakat, badan legislatif dan badan yudikatif, maka  kepentingan terbaik bagi korban harus menjadi pertimbangan utama.  
+Huruf b  
+Yang dimaksud dengan “kepentingan terbaik bagi korban” adalah  semua tindakan yang menyangkut korban yang dilakukan oleh  pemerintah, masyarakat, badan legislatif dan badan yudikatif, maka  kepentingan terbaik bagi korban harus menjadi pertimbangan utama.  
 
-Huruf c Yang dimaksud dengan “keadilan gender” adalah perlakuan adil yang  diberikan kepada perempuan maupun laki-laki.  
+Huruf c  
+Yang dimaksud dengan “keadilan gender” adalah perlakuan adil yang  diberikan kepada perempuan maupun laki-laki.  
 
 Yang dimaksud dengan “kesetaraan gender” adalah kondisi dan posisi  yang menggambarkan relasi yang selaras, serasi dan seimbang antara  laki-laki dan perempuan dalam memperoleh peluang/kesempatan  dalam mengakses, parsisipasi, kontrol dan manfaat dalam pelaksaan  pembangunan serta menikmati hasil pembangunan dalam kehidupan  keluarga maupun bermasyarakat, berbangsa dan bernegara.  
 
-Huruf d Yang dimaksud “perlindungan korban” adalah memberikan rasa aman  pada korban yang dilakukan oleh pihak keluarga, advokad, lembaga  sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya baik  secara sementara maupun berdasarkan penetapan pengadilan.  
+Huruf d  
+Yang dimaksud “perlindungan korban” adalah memberikan rasa aman  pada korban yang dilakukan oleh pihak keluarga, advokad, lembaga  sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya baik  secara sementara maupun berdasarkan penetapan pengadilan.  
 
-Huruf e Yang dimaksud dengan “kelangsungan hidup ibu” adalah memastikan  bahwa seorang ibu tidak mengalami kematian yang terjadi selama  kehamilan, persalinan, dan pasca persalinan, baik yang disebabkan  oleh kondisi fisik maupun non fisik.  
+Huruf e  
+Yang dimaksud dengan “kelangsungan hidup ibu” adalah memastikan  bahwa seorang ibu tidak mengalami kematian yang terjadi selama  kehamilan, persalinan, dan pasca persalinan, baik yang disebabkan  oleh kondisi fisik maupun non fisik.  
 
-Huruf f Yang dimaksud dengan “kelangsungan hidup anak” adalah  sebagaimana tercantum dalam prinsip-prinsip Konvensi Hak Anak,  meliputi hak atas identitas.  
+Huruf f  
+Yang dimaksud dengan “kelangsungan hidup anak” adalah  sebagaimana tercantum dalam prinsip-prinsip Konvensi Hak Anak,  meliputi hak atas identitas.  
 
 Yang dimaksud dengan “tumbuh kembang anak” adalah sebagaiman  tercantum dalam prinsip-prinsip Konvensi Hak Anak, meliputi hak atas  pendidikan, hak atas bermain, hak atas berkreasi dan berekreasi.  
 
-Huruf g Yang dimaksud dengan “penghargaan terhadap pendapat anak”  adalah penghormatan atas hak-hak anak untuk berpartsipasi dan  menyatakan pendapatnya dalam pengambilan keputusan terutama jika  menyangkut hal-hal yang mempengaruhi kehidupannya.  
+Huruf g  
+Yang dimaksud dengan “penghargaan terhadap pendapat anak”  adalah penghormatan atas hak-hak anak untuk berpartsipasi dan  menyatakan pendapatnya dalam pengambilan keputusan terutama jika  menyangkut hal-hal yang mempengaruhi kehidupannya.  
 
-Huruf h Yang dimaksud dengan “keterbukaan” adalah bahwa dalam  penyelenggaraan perlindungan korban kekerasan berbasis gender dan  anak bersifat transparan diantara para penyelenggara layanan  terpadu.  
+Huruf h  
+Yang dimaksud dengan “keterbukaan” adalah bahwa dalam  penyelenggaraan perlindungan korban kekerasan berbasis gender dan  anak bersifat transparan diantara para penyelenggara layanan  terpadu.  
 
-Huruf i Yang dimaksud dengan “keterpaduan” adalah bahwa dalam  penyelenggaraan perlindungan korban kekerasan berbasis gender dan  anak dilaksanakan dengan membangun koordinasi antar penyedia  layanan, antara lain pelayan medis, pendamping hukum, psikolog,  rohaniawan, pekerja sosial, polisi.  
+Huruf i  
+Yang dimaksud dengan “keterpaduan” adalah bahwa dalam  penyelenggaraan perlindungan korban kekerasan berbasis gender dan  anak dilaksanakan dengan membangun koordinasi antar penyedia  layanan, antara lain pelayan medis, pendamping hukum, psikolog,  rohaniawan, pekerja sosial, polisi.  
 
-Huruf j Yang dimaksud dengan “tidak menyalahkan korban” adalah sikap dan  perlakuan tidak menyelahkan korban atas peristiwa terjadinya  kekersan yang dialaminya.  
+Huruf j  
+Yang dimaksud dengan “tidak menyalahkan korban” adalah sikap dan  perlakuan tidak menyelahkan korban atas peristiwa terjadinya  kekerasan yang dialaminya.  
 
-Huruf k Yang dimaksud “kerahasiaan korban” adalah setiap tindakan yang  dilakukan unuk menjamin korban dalam kondisi aman dari ancaman  atau tindakan lainnya yang mengancam jiwa dan psikologis korban.  
+Huruf k  
+Yang dimaksud “kerahasiaan korban” adalah setiap tindakan yang  dilakukan unuk menjamin korban dalam kondisi aman dari ancaman  atau tindakan lainnya yang mengancam jiwa dan psikologis korban.  
 
-Huruf l Yang dimaksud dengan “pengambilan keputusan ditangan korban”  adalah hak korban untuk menentukan pilihan terbaik dalam  menyelesaikan masalahnya.  
+Huruf l  
+Yang dimaksud dengan “pengambilan keputusan ditangan korban”  adalah hak korban untuk menentukan pilihan terbaik dalam  menyelesaikan masalahnya.  
 
 #### Pasal 3
 
@@ -435,21 +457,30 @@ Cukup jelas.
 
 #### Pasal 5
 
-Ayat (1) Huruf a Cukup jelas.  
+Ayat (1)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Yang dimaksud “kerjasama” adalah cara yang sistematis dan  terpadu antar penyelenggara perlindungan dan penanganan  korban kekerasan dalam memberikan pelayanan untuk korban  kekerasan berbasis gender dan anak.  
+Huruf e  
+Yang dimaksud “kerjasama” adalah cara yang sistematis dan  terpadu antar penyelenggara perlindungan dan penanganan  korban kekerasan dalam memberikan pelayanan untuk korban  kekerasan berbasis gender dan anak.  
 
-Huruf f Cukup jelas.  
+Huruf f  
+Cukup jelas.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 6
 
@@ -465,9 +496,29 @@ Cukup jelas.
 
 #### Pasal 9
 
-Huruf a Yang dimaksud dengan “keluarga tidak mampu” adalah keluarga tidak  mampu sesuai kriteria peraturan perundang-undangan.  
+Huruf a  
+Yang dimaksud dengan “keluarga tidak mampu” adalah keluarga tidak  mampu sesuai kriteria peraturan perundang-undangan.  
 
-Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Huruf f Cukup jelas Huruf g Cukup jelas Huruf h Cukup jelas
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
+
+Huruf f  
+Cukup jelas.  
+
+Huruf g  
+Cukup jelas.  
+
+Huruf h  
+Cukup jelas.  
 
 #### Pasal 10
 
@@ -475,19 +526,26 @@ Cukup jelas.
 
 #### Pasal 11
 
-Huruf a Cukup jelas.  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Yang dimaksud dengan “Medicolegal” adalah upaya pengumpulan  barang bukti untuk kepentingan pembuktian dalam proses peradilan.  
+Huruf b  
+Yang dimaksud dengan “Medicolegal” adalah upaya pengumpulan  barang bukti untuk kepentingan pembuktian dalam proses peradilan.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf f Cukup jelas.  
+Huruf f  
+Cukup jelas.  
 
-Huruf g Cukup jelas.  
+Huruf g  
+Cukup jelas.  
 
 #### Pasal 12
 
@@ -537,4 +595,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN SUKOHARJO NOMOR 186
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SUKOHARJO NOMOR 186  

@@ -1,18 +1,24 @@
-# BUPATI MANGGARAI
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
 
-# PROVINSI NUSA TENGGARA TIMUR
+BUPATI MANGGARAI  
 
-# SALINAN
+PROVINSI NUSA TENGGARA TIMUR. 
 
-# PERATURAN DAERAH KABUPATEN MANGGARAI NOMOR 10 TAHUN 2018
+SALINAN. 
 
-# TENTANG
+# PERATURAN DAERAH KABUPATEN MANGGARAI  
 
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  DENGAN RAHMAT TUHAN YANG MAHA ESA
+NOMOR 10 TAHUN 2018  
 
-# BUPATI MANGGARAI,
+TENTANG  
 
-Menimbang Mengingat:  
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+BUPATI MANGGARAI,  
+
+Menimbang:   
  
  
  
@@ -21,7 +27,7 @@ a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan atas pemenuh
 b. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Manggarai terus meningkat dan berdampak  pada terganggunya kehidupan sosial masyarakat, maka perlu mengatur penyelenggaraan perlindungannya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Perlindungan  Perempuan dan Anak;  
 
-:
+Mengingat:  
 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 69 Tahun 1958 tentang  Pembentukan Daerah-Daerah Tingkat II dalam Wilayah  Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan  Nusa Tenggara Timur (Lembaran Negara Republik  Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran  Negara Republik Indonesia Nomor 1655);  
@@ -30,13 +36,19 @@ c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b
 5. Peraturan Menteri Negara Pemberdayaan Perempuan  Nomor 2 Tahun 2008 tentang Pedoman Pelaksanaan Perlindungan Perempuan;  
 6. Peraturan Menteri Negara Pemberdayaan Perempuan  Nomor 3 Tahun 2008 tentang Pedoman Pelaksanaan Perlindungan Anak;  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MANGGARAI Dan
+Dengan Persetujuan Bersama  
 
-# BUPATI MANGGARAI
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MANGGARAI  
 
-# MEMUTUSKAN:
+Dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN ANAK.  
+BUPATI MANGGARAI  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -44,11 +56,12 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Manggarai.  
-2. Pemerintah Daerah adalah Pemerintah Kabupaten Manggarai. 3. Bupati adalah Bupati Manggarai.  
-4. Penyelenggaraan Perlindungan perempuan dan anak adalah proses, cara,  perbuatan menyelenggarakan perlindungan terhadap perempuan dan anak. 5. Perempuan adalah manusia berjenis kelamin perempuan dan orang yang  oleh hukum diakui sebagai perempuan.  
+2. Pemerintah Daerah adalah Pemerintah Kabupaten Manggarai.  
+3. Bupati adalah Bupati Manggarai.  
+4. Penyelenggaraan Perlindungan perempuan dan anak adalah proses, cara,  perbuatan menyelenggarakan perlindungan terhadap perempuan dan anak.  
+5. Perempuan adalah manusia berjenis kelamin perempuan dan orang yang  oleh hukum diakui sebagai perempuan.  
 6. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun,  termasuk anak yang masih dalam kandungan.  
 7. Kekerasan adalah setiap bentuk perbuatan yang berakibat atau dapat  mengakibatkan kesengsaraan atau penderitaan fisik, emosional/ psikologis,  ekonomi, seksual dan sosial terhadap korban.  
 8. Kekerasan terhadap perempuan adalah setiap tindakan berdasarkan  perbedaan jenis kelamin yang berakibat atau mungkin berakibat  kesengsaraan atau penderitaan perempuan secara fisik, seksual atau  psikologi, termasuk ancaman tindakan tertentu, pemaksaan atau  perampasan kemerdekaan, baik yang terjadi di depan umum atau kehidupan  pribadi.  
@@ -56,7 +69,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 10. Korban adalah perempuan termasuk Tenaga Kerja Perempuan dan anak yang  mengalami kesengsaraan dan/atau penderitaan baik langsung maupun tidak  langsung sebagai akibat dari kekerasan tersebut.  
 11. Perlindungan terhadap perempuan adalah segala perbuatan ditujukan untuk  memberikan rasa aman yang dilakukan oleh pihak kepolisian, kejaksaan,  pengadilan, lembaga sosial, pihak lain yang mengetahui atau mendengar  akan atau telah terjadi kekerasan terhadap perempuan.  
 12. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi  anak dan hak-haknya agar dapat hidup, tumbuh, berkembang dan  berpartisipasi secara optimal sesuai dengan harkat dan martabat  kemanusiaan serta mendapat perlindungan dari kekerasan dan diskriminasi.  
-13. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada korban  ketika melihat, mendengar dan mengetahui akan, sedang atau terjadinya  kekerasan terhadap korban.  
+13. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada korban  ketika melihat, mendengar dan mengetahui akan, sedang atau terjadinya kekerasan terhadap korban.  
 14. Masyarakat adalah orang perseorangan, keluarga, kelompok, organisasi  sosial dan/atau organisasi kemasyarakatan.  
 
 # BAB II
@@ -90,7 +103,8 @@ Tujuan
 
 #### Pasal 3
 
-Tujuan penyelenggaraan perlindungan perempuan dan anak adalah untuk:  a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
+Tujuan penyelenggaraan perlindungan perempuan dan anak adalah untuk:  
+a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
 b. mendampingi perempuan dan anak korban kekerasan dalam proses hukum baik litigasi maupun non litigasi sesuai dengan ketentuan peraturan  perundang-undangan;  
 c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan; dan  
 d. memulihkan kondisi fisik dan psikis perempuan dan anak korban kekerasan.  
@@ -136,11 +150,13 @@ l. rehabilitasi sosial.
 
 #### Pasal 6
 
-1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:a. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan perlindungan Perempuan dan Anak Korban Kekerasan;  
+1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:  
+a. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan perlindungan Perempuan dan Anak Korban Kekerasan;  
 b. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap  perempuan dan anak;  
 c. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan; dan  
 d. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan.  
-2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan,  penanganan, pemulihan dan rehabilitasi korban kekerasan terhadap Perempuan dan Anak, menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk  korban dengan melibatkan lembaga dan unsur masyarakat;  
+2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan,  penanganan, pemulihan dan rehabilitasi korban kekerasan terhadap Perempuan dan Anak, menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:  
+a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk  korban dengan melibatkan lembaga dan unsur masyarakat;  
 b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap korban; dan  
 c. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.  
 3. Ketentuan lebih lanjut mengenai tugas Pemerintah Daerah sebagaimana  dimaksud pada ayat (1) dan kewajiban Pemerintah Daerah sebagaimana  dimaksud pada ayat (2) diatur dengan Peraturan Bupati.  
@@ -152,12 +168,16 @@ c. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.
 #### Pasal 7
 
 1. Bupati dapat membentuk Pusat Pelayanan Terpadu dalam penyelenggaraan  perlindungan terhadap perempuan dan anak.  
-2. Pusat Pelayanan Terpadu sebagaimana dimaksud pada ayat (1) dapat  mewadahi lembaga dan/atau unit kerja yang memberikan pelayanan bagi  korban kekerasan antara lain:a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A);  
+2. Pusat Pelayanan Terpadu sebagaimana dimaksud pada ayat (1) dapat  mewadahi lembaga dan/atau unit kerja yang memberikan pelayanan bagi  korban kekerasan antara lain:  
+a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A);  
 b. rumah aman;  
 c. rumah perlindungan sosial anak;  
 d. rumah perlindungan trauma centre;  
 e. rumah perlindungan sosial wanita;  
-f. rumah singgah; ataug. kegiatan pelayanan sesuai ketentuan peraturan perundang-undangan. (3) Bentuk pelayanan yang dilaksanakan Pusat Pelayanan Terpadu sebagaimana  dimaksud pada ayat (1), meliputi:a. pengaduan;  
+f. rumah singgah; atau  
+g. kegiatan pelayanan sesuai ketentuan peraturan perundang-undangan.  
+3. Bentuk pelayanan yang dilaksanakan Pusat Pelayanan Terpadu sebagaimana  dimaksud pada ayat (1), meliputi:  
+a. pengaduan;  
 b. rehabilitasi kesehatan;  
 c. rehabilitasi sosial;  
 d. bantuan hukum; dan  
@@ -172,7 +192,8 @@ e. pemulangan dan reintegrasi sosial.
 
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban Kekerasan  dapat melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, kelompok maupun organisasi sosial  kemasyarakatan.  
-3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat  dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat  dilakukan dalam bentuk:  
+a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
 b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; dan  
 c. memberikan bantuan terhadap korban.  
 
@@ -207,7 +228,8 @@ Pelaporan
 #### Pasal 11
 
 1. Pusat Pelayanan Terpadu wajib melaporkan secara tertulis pelaksanaan  penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan  kepada Bupati.  
-2. Laporan sebagaimana dimaksud pada ayat (1) meliputi:a. administrasi;  
+2. Laporan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dan  
 d. kinerja.  
@@ -220,7 +242,8 @@ d. kinerja.
 #### Pasal 12
 
 Pendanaan penyelenggaraan perlindungan terhadap perempuan dan anak  bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; dan/ataub. sumber pembiayaan lainnya yang sah dan tidak mengikat.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan/atau  
+b. sumber pembiayaan lainnya yang sah dan tidak mengikat.  
 
 # BAB X
 
@@ -240,35 +263,31 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah.  
 
-Ditetapkan di Ruteng pada tanggal 9 Oktober 2018
+Ditetapkan di Ruteng  
 
-##### BUPATI MANGGARAI,
+pada tanggal 9 Oktober 2018
 
-##### DENO KAMELUS
+BUPATI MANGGARAI,  
 
-Diundangkan di Ruteng pada tanggal 9 Oktober 2018
+DENO KAMELUS  
 
-##### SEKRETARIS DAERAH KABUPATEN MANGGARAI,
+Diundangkan di Ruteng  
 
-##### MANSELTUS MITAK
+pada tanggal 9 Oktober 2018  
 
-##### LEMBARAN DAERAH KABUPATEN MANGGARAI TAHUN 2018 NOMOR 10.  
+SEKRETARIS DAERAH KABUPATEN MANGGARAI,  
+
+MANSELTUS MITAK  
+
+LEMBARAN DAERAH KABUPATEN MANGGARAI TAHUN 2018 NOMOR 10.  
 
 NOREG PERATURAN DAERAH KABUPATEN MANGGARAI PROVINSI NUSA  TENGGARA TIMUR: 13/2018.  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN MANGGARAI
 
-##### ATAS
+NOMOR 10 TAHUN 2018 TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-##### PERATURAN DAERAH KABUPATEN MANGGARAI
-
-##### NOMOR 10 TAHUN 2018
-
-##### TENTANG
-
-##### PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
-
-##### I. UMUM
+#### I. UMUM
 
 Upaya penyelenggaraan perlindungan terhadap perempuan dan anak harus terus dilakukan dan pelaksanaannya seharusnya dilakukan secara  terkoordinasi dan terpadu antar dinas dan/atau badan yang terkait. Untuk  menunjang kelancaraan pelaksanaan penyelenggaraan perlindungan  terhadap perempuan dan anak tersebut di Kabupaten Manggarai perlu  peraturan daerah yang mengatur tentang perlindungan perempuan dan  anak.  
 
@@ -280,37 +299,50 @@ Kerja sama penyelenggaraan perlindungan terhadap perempuan dan  anak diarahkan p
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Huruf a Kesetaraan dan keadilan gender adalah suatu kondisi dimana porsi  dari siklus sosial perempuan dan laki-laki setara, serasi, seimbang  dan harmonis. Kondisi ini dapat terwujud apabila ada perlakuan  adil antara perempuan dan laki-laki. Penerapan kesetaraan dan  keadilan gender harus memperhatikan masalah kontekstual dan  situasional, bukan berdasarkan perhitungan secara matematis dan  tidak bersifat universal. Pandangan ini membedakan sekurang kurangnya 3 konteks kehidupan seseorang dalam keluarga,  masyarakat dan agama. Contoh kontekstual dari segi agama:  mengenal hak waris. Karena pemahaman atau penafsiran terhadap  kaidah agama berbeda secara individual sedangkan sifat kaidah  (norma statis) tidak dapat berubah maka seharusnya ada  pemahaman yang benar sehingga tidak berdampak negatif karena  aplikasi sebagian dapat menyesuaikan dan sebagian lagi  merupakan dogmatis sedang situasional menunjukkan penerapan  kesetaraan gender tidak bisa dilakukan sama semua strata  masyarakat. Karena itu vandana shiva menyebutnya equility in  diversity (persamaan dalam keragaman).  
+Huruf a  
+Kesetaraan dan keadilan gender adalah suatu kondisi dimana porsi  dari siklus sosial perempuan dan laki-laki setara, serasi, seimbang  dan harmonis. Kondisi ini dapat terwujud apabila ada perlakuan  adil antara perempuan dan laki-laki. Penerapan kesetaraan dan  keadilan gender harus memperhatikan masalah kontekstual dan  situasional, bukan berdasarkan perhitungan secara matematis dan  tidak bersifat universal. Pandangan ini membedakan sekurang kurangnya 3 konteks kehidupan seseorang dalam keluarga,  masyarakat dan agama. Contoh kontekstual dari segi agama:  mengenal hak waris. Karena pemahaman atau penafsiran terhadap  kaidah agama berbeda secara individual sedangkan sifat kaidah  (norma statis) tidak dapat berubah maka seharusnya ada  pemahaman yang benar sehingga tidak berdampak negatif karena  aplikasi sebagian dapat menyesuaikan dan sebagian lagi  merupakan dogmatis sedang situasional menunjukkan penerapan  kesetaraan gender tidak bisa dilakukan sama semua strata  masyarakat. Karena itu vandana shiva menyebutnya equility in  diversity (persamaan dalam keragaman).  
 
 Gender adalah konstruksi sosial yang membedakan antara peran  laki-laki dan perempuan berdasarkan ruang dan waktu yang terus  berubah.  
 
-Huruf b Non diskriminasi artinya tidak melakukan pembedaan dengan  alasan dan cara apapun, baik menyangkut agama dan  kepercayaannya, suku, ras, jenis kelamin, warna kulit, bahasa, dan  politik.  
+Huruf b  
+Non diskriminasi artinya tidak melakukan pembedaan dengan  alasan dan cara apapun, baik menyangkut agama dan  kepercayaannya, suku, ras, jenis kelamin, warna kulit, bahasa, dan  politik.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Kepentingan terbaik bagi korban, adalah bahwa dalam semua  tindakan yang menyangkut korban yang dilakukan pemerintah,  masyarakat, badan legislatif, dan badan yudikatif, maka  kepentingan yang terbaik bagi korban harus menjadi pertimbangan  utama.  
+Huruf d  
+Kepentingan terbaik bagi korban, adalah bahwa dalam semua  tindakan yang menyangkut korban yang dilakukan pemerintah,  masyarakat, badan legislatif, dan badan yudikatif, maka  kepentingan yang terbaik bagi korban harus menjadi pertimbangan  utama.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf f Cukup Jelas.  
+Huruf f  
+Cukup Jelas.  
 
-Huruf g Cukup Jelas.  
+Huruf g  
+Cukup Jelas.  
 
-Huruf h Cukup Jelas.  
+Huruf h  
+Cukup Jelas.  
 
-Huruf i Cukup Jelas.  
+Huruf i  
+Cukup Jelas.  
 
-Huruf j Cukup Jelas.  
+Huruf j  
+Cukup Jelas.  
 
-Huruf k Cukup Jelas.  
+Huruf k  
+Cukup Jelas.  
 
-Huruf l Cukup Jelas.  
+Huruf l  
+Cukup Jelas.  
 
-Huruf m Penghormatan terhadap hak-hak perempuan dan anak berarti  penghormatan terhadap Hak Asasi Manusia (HAM) sesuai dengan  harkat dan martabatnya sebagai manusia.  
+Huruf m  
+Penghormatan terhadap hak-hak perempuan dan anak berarti  penghormatan terhadap Hak Asasi Manusia (HAM) sesuai dengan  harkat dan martabatnya sebagai manusia.  
 
 #### Pasal 3
 
@@ -318,78 +350,117 @@ Cukup jelas.
 
 #### Pasal 4
 
-Huruf a Cukup Jelas.  
+Huruf a  
+Cukup Jelas.  
 
-Huruf b Cukup Jelas.  
+Huruf b  
+Cukup Jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d yang dimaksud dengan penelantaran adalah:
-
+Huruf d  
+yang dimaksud dengan penelantaran adalah:  
 1. Penelantaran anak yaitu sebuah bentuk pelalaian kewajiban  dan tanggung jawab dari keluarga terhadap anak.  
-2. Penelantaran perempuan yaitu sebuah bentuk pelalaian  kewajiban dan tanggung jawab dari suami dan/atau keluarga  terhadap perempuan yang menjadi istri dan/atau anggota  keluarga huruf e Cukup jelas.  
+2. Penelantaran perempuan yaitu sebuah bentuk pelalaian  kewajiban dan tanggung jawab dari suami dan/atau keluarga terhadap perempuan yang menjadi istri dan/atau anggota  keluarga.
 
-huruf f Yang dimaksud dengan eksploitasi adalah eksploitasi anak dan  perempuan, yaitu tindakan memanfaatkan anak dan perempuan  secara sewenang-wenang yang dilakukan oleh orang perorangan,  keluarga, dan masyarakat dengan memaksa anak dan perempuan tersebut melakukan sesuatu tanpa mempedulikan pertumbuhan  mental, kepribadian dan fisiknya.  
+huruf e  
+Cukup jelas.  
 
-huruf g Cukup jelas.  
+huruf f  
+Yang dimaksud dengan eksploitasi adalah eksploitasi anak dan  perempuan, yaitu tindakan memanfaatkan anak dan perempuan  secara sewenang-wenang yang dilakukan oleh orang perorangan,  keluarga, dan masyarakat dengan memaksa anak dan perempuan tersebut melakukan sesuatu tanpa mempedulikan pertumbuhan  mental, kepribadian dan fisiknya.  
+
+huruf g  
+Cukup jelas.  
 
 #### Pasal 5
 
-Huruf a Yang dimaksud dengan perlindungan dan pendampingan adalah  setiap korban berhak mendapatkan perlindungan di tingkat lokal  (daerah) karena statusnya sebagai warga lingkungan lokal,  perlindungan nasional karena statusnya sebagai warga negara atau  penduduk, dan perlindungan internasional karena statusnya  sebagai manusia, warga masyarakat dunia (Hak Asasi Manusia).  
+Huruf a  
+Yang dimaksud dengan perlindungan dan pendampingan adalah  setiap korban berhak mendapatkan perlindungan di tingkat lokal  (daerah) karena statusnya sebagai warga lingkungan lokal,  perlindungan nasional karena statusnya sebagai warga negara atau  penduduk, dan perlindungan internasional karena statusnya  sebagai manusia, warga masyarakat dunia (Hak Asasi Manusia).  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf f Mendapatkan informasi tentang peraturan perudangan yang  melindungi korban, peraturan perundangan yang melindungi korban  adalah Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak, Undang-undang Nomor 23 Tahun 2004 tentang Penghapusan  Kekerasan Dalam Rumah Tangga, dan Undang-Undang Nomor 21  Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan  Orang atau Trafficking.  
+Huruf f  
+Mendapatkan informasi tentang peraturan perudangan yang  melindungi korban, peraturan perundangan yang melindungi korban  adalah Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak, Undang-undang Nomor 23 Tahun 2004 tentang Penghapusan  Kekerasan Dalam Rumah Tangga, dan Undang-Undang Nomor 21  Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan  Orang atau Trafficking.  
 
-Huruf g Pelayanan secara terpadu adalah pelayanan yang mencakup layanan  medis (berkaitan dengan cedera fisik dan psikologis atau kejiwaan),  hukum (berkaitan dengan hak, kewajiban dan tanggung jawab  seseorang) dan psikososial (berkaitan dengan hak, kewajiban dan  tanggung jawab yang terkait dengan kemasyarakatan, dan  kebutuhan sosial ekonomi lainnya) serta rohani.  
+Huruf g  
+Pelayanan secara terpadu adalah pelayanan yang mencakup layanan  medis (berkaitan dengan cedera fisik dan psikologis atau kejiwaan),  hukum (berkaitan dengan hak, kewajiban dan tanggung jawab  seseorang) dan psikososial (berkaitan dengan hak, kewajiban dan  tanggung jawab yang terkait dengan kemasyarakatan, dan  kebutuhan sosial ekonomi lainnya) serta rohani.  
 
-Huruf h Cukup jelas.  
+Huruf h  
+Cukup jelas.  
 
-Huruf i Pengertian rahasia mencakup segala identitas maupun kasusnya.  
+Huruf i  
+Pengertian rahasia mencakup segala identitas maupun kasusnya.  
 
-Huruf j Cukup jelas.  
+Huruf j  
+Cukup jelas.  
 
-Huruf k Cukup Jelas.  
+Huruf k  
+Cukup Jelas.  
 
-Huruf l Cukup Jelas.  
+Huruf l  
+Cukup Jelas.  
 
 #### Pasal 6
 
-Ayat (1) Huruf a sosialisasi antara lain dilakukan dengan iklan radio dan surat  kabar serta pemasangan pamflet/baliho/stiker Huruf b Cukup jelas.  
+Ayat (1)  
+Huruf a  
+sosialisasi antara lain dilakukan dengan iklan radio dan surat  kabar serta pemasangan pamflet/baliho/stiker Huruf b Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 7
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Cukup jelas.  
+Ayat (2)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Rumah aman adalah tempat tinggal sementara bagi korban agar  mendapatkan rasa aman dan tidak dijangkau oleh pelaku atau  orang suruhan pelaku, selama perkaranya belum terselesaikan. Huruf c Cukup jelas.  
+Huruf b  
+Rumah aman adalah tempat tinggal sementara bagi korban agar  mendapatkan rasa aman dan tidak dijangkau oleh pelaku atau  orang suruhan pelaku, selama perkaranya belum terselesaikan.  
 
-Huruf d Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf e Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf f Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
-Huruf g Cukup jelas.  
+Huruf f  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas.  
+Huruf g  
+Cukup jelas.  
 
-Ayat (4) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 8
 
@@ -423,4 +494,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN BERITA DAERAH KABUPATEN MANGGARAI NOMOR 10.  
+TAMBAHAN BERITA DAERAH KABUPATEN MANGGARAI NOMOR 10.  

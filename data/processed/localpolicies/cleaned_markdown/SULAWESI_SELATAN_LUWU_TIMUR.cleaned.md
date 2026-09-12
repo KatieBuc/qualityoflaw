@@ -1,20 +1,22 @@
-# BUPATI LUWU TIMUR
+# PERLINDUNGAN PEREMPUAN TERHADAP KEKERASAN  
 
-# PROVINSI SULAWESI SELATAN
+BUPATI LUWU TIMUR  
 
-# SALINAN
+PROVINSI SULAWESI SELATAN  
+
+SALINAN  
 
 # PERATURAN DAERAH KABUPATEN LUWU TIMUR
 
-# NOMOR 4 TAHUN 2021
+NOMOR 4 TAHUN 2021  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN PEREMPUAN TERHADAP KEKERASAN
+PERLINDUNGAN PEREMPUAN TERHADAP KEKERASAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI LUWU TIMUR,
+BUPATI LUWU TIMUR,  
 
 Menimbang:  
  
@@ -37,30 +39,32 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
-3. Undang-Undang Nomor 7 Tahun 2003 tentang  Pembentukan Kabupaten Luwu Timur dan Kabupaten Mamuju Utara di Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 27, Tambahan Lembaran Negara Republik Indonesia Nomor
-4270. ;  
+3. Undang-Undang Nomor 7 Tahun 2003 tentang  Pembentukan Kabupaten Luwu Timur dan Kabupaten Mamuju Utara di Provinsi Sulawesi Selatan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 27, Tambahan Lembaran Negara Republik Indonesia Nomor 4270;  
 4. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
-5. Undang-Undang Nomor 44 Tahun 2008 tentang  Pornografi (Lembaran Negara Republik Indonesia Tahun  2008 Nomor 181, Tambahan Lembaran Negara Republik  Indonesia Nomor 4928);  
-6. Undang-Undang Nomor 16 Tahun 2011 tentang  Bantuan Hukum (Lembaran Negara Repubik Indonesia  Tahun 2011 Nomor 104, Tambahan Lembaran Negara  Republik Indonesia Nomor 5248);  
+5. Undang-Undang Nomor 44 Tahun 2008 tentang  Pornografi (Lembaran Negara Republik Indonesia Tahun  2008 Nomor 181, Tambahan Lembaran Negara Republik Indonesia Nomor 4928);  
+6. Undang-Undang Nomor 16 Tahun 2011 tentang  Bantuan Hukum (Lembaran Negara Repubik Indonesia  Tahun 2011 Nomor 104, Tambahan Lembaran Negara Republik Indonesia Nomor 5248);  
 7. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran  Negara Republik Indonesia Nomor 5587) sebagaimana  telah diubah beberapa kali terakhir dengan Undang Undang Nomor 11 Tahun 2020 tentang Cipta Kerja  (Lembaran Negara Republik Indonesia Tahun 2020  Nomor 245, Tambahan Lembaran Negara Republik  Indonesia Nomor 6573);  
 8. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan dan Kerjasama Pemulihan Korban  Kekerasan dalam Rumah Tangga (Lembaran Negara  Republik Indonesia Tahun 2006 Nomor 15, Tambahan  Lembaran Negara Republik Indonesia Nomor 4604);  
 9. Peraturan Menteri Negara Pemberdayaan Perempuan  Nomor 2 Tahun 2008 tentang Pedoman Pelaksanaan  Perlindungan Perempuan;  
 10. Peraturan Menteri Negara Pemberdayaan Perempuan  Nomor 1 Tahun 2010 tentang Standar Pelayanan  Minimal Bidang Layanan Terpadu Bagi Perempuan dan  Anak Korban Kekerasan (Berita Negara Republik  Indonesia Tahun 2010 Nomor 56);  
 11. Peraturan Menteri Dalam Negeri Nomor 12 Tahun 2017  tentang Pedoman Pembentukan dan Klasifikasi Cabang  dinas dan Unit Pelaksana Teknis Daerah (Berita Negara  Republik Indonesia Tahun 2017 Nomor 451);  
 12. Peraturan Menteri Negara Pemberdayaan Perempuan  Nomor 4 Tahun 2018 tentang Pedoman Pembentukan  Unit Pelaksana Teknis Daerah Perlindungan Perempuan  Dan Anak (Lembaran Negara Republik Indonesia Tahun  2018 Nomor 532);  
-13. Peratura Daerah Kabupaten Luwu Timur Nomor 8  Tahun 2016 tentang Pembentukan dan Susunan  Perangkat Daerah (Lembaran Daerah Kabupaten Luwu  Timur Tahun 2016 Nomor 8) sebagaimana telah diubah  dengan Peraturan Daerah Kabupaten Luwu Timur  Nomor 5 Tahun 2020 tentang Perubahan Atas Peraturan  Daerah Kabupaten Luwu Timur Nomor 8 Tahun 2016  tentang Pembentukan dan Susunan Perangkat Daerah  (Lembaran Daerah Kabupaten Luwu Timur Tahun 2020  Nomor 5, Tambahan Lembaran Daerah Kabupaten Luwu  Timur Nomor 124).  
+13. Peratura Daerah Kabupaten Luwu Timur Nomor 8  Tahun 2016 tentang Pembentukan dan Susunan  Perangkat Daerah (Lembaran Daerah Kabupaten Luwu  Timur Tahun 2016 Nomor 8) sebagaimana telah diubah  dengan Peraturan Daerah Kabupaten Luwu Timur  Nomor 5 Tahun 2020 tentang Perubahan Atas Peraturan  Daerah Kabupaten Luwu Timur Nomor 8 Tahun 2016  tentang Pembentukan dan Susunan Perangkat Daerah  (Lembaran Daerah Kabupaten Luwu Timur Tahun 2020 Nomor 5, Tambahan Lembaran Daerah Kabupaten Luwu  Timur Nomor 124).  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH
+DEWAN PERWAKILAN RAKYAT DAERAH  
 
-# BUPATI LUWU TIMUR
+dan  
 
-# MEMUTUSKAN:
+BUPATI LUWU TIMUR  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN TERHADAP KEKERASAN.  
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN TERHADAP KEKERASAN.  
 
 # BAB I
 
@@ -68,22 +72,22 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN TERHADAP KEKERASAN.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Luwu Timur.  
 2. Bupati adalah Bupati Luwu Timur.  
 3. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara  pemerintahan daerah yang memimpin pelaksanaan urusan  pemerintahan yang menjadi kewenangan daerah otonom.  
 4. Dewan Perwakilan Rakyat Daerah Kabupaten Luwu Timur yang  selanjutnya disebut DPRD adalah lembaga perwakilan rakyat daerah  yang berkedudukan sebagai unsur penyelenggara pemerintahan  daerah.  
 5. Perangkat Daerah adalah unsur pembantu Bupati dan Dewan  Perwakilan Rakyat Daerah Kabupaten dalam penyelenggaraan urusan  pemerintahan yang menjadi kewenangan Daerah Kabupaten.  
 6. Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak yang  selanjutnya disingkat UPTD PPA adalah unit pelaksana teknis daerah  yang dibentuk pemerintah daerah dalam memberikan layanan bagi  perempuan dan anak yang mengalami kekerasan, diskriminasi,  perlindungan khusus, dan masalah lainnya.  
-7. Perempuan adalah orang (manusia) yang mempunyai alat kelamin,  dapat menstruasi, hamil, melahirkan anak, dan menyusui. 8. Korban adalah Perempuan yang mengalami kesengsaraan dan/atau  penderitaan baik langsung maupun tidak langsung sebagai akibat dari  kekerasan.  
+7. Perempuan adalah orang (manusia) yang mempunyai alat kelamin,  dapat menstruasi, hamil, melahirkan anak, dan menyusui.  
+8. Korban adalah Perempuan yang mengalami kesengsaraan dan/atau  penderitaan baik langsung maupun tidak langsung sebagai akibat dari  kekerasan.  
 9. Perlindungan perempuan adalah segala upaya yang ditujukan untuk  melindungi perempuan dan memberikan rasa aman dalam pemenuhan  hak-haknya dari berbagai jenis tindak kekerasan dengan memberikan  perhatian yang konsisten dan sistematis.  
 10. Pelayanan adalah kegiatan atau rangkaian kegiatan dalam rangka  pemenuhan kebutuhan korban kekerasan.  
 11. Kekerasan adalah setiap perbuatan secara melawan hukum dengan  atau tanpa menggunakan sarana terhadap fisik dan psikis yang  menimbulkan bahaya bagi nyawa, badan, atau menimbulkan  terampasnya kemerdekaan seseorang.  
 12. Kekerasan terhadap perempuan adalah setiap tindakan yang berakibat  atau mungkin berakibat kesengsaraan atau penderitaan perempuan  secara fisik, seksual atau psikologis, eksploitasi ekonomi, termasuk  ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan  secara sewenang-wenang, baik yang terjadi diranah pubik atau dalam  kehidupan pribadi.  
 13. Pencegahan adalah segala upaya yang dilakukan oleh lembaga  pemerintah maupun non pemerintah yang ditujukan untuk  memberikan rasa aman kepada perempuan.  
 14. Pelayanan adalah tindakan yang dilakukan sesegera mungkin kepada  korban, ketika melihat, mendengar dan mengetahui akan, sedang atau  setelah terjadinya kekerasan terhadap korban.  
-15. Pendampingan adalah segala bentuk upaya yang dilakukan oleh  lembaga terkait untuk melakukan konseling, terapi, advokasi guna  penguatan dan pemulihan diri korban kekerasan.  
+15. Pendampingan adalah segala bentuk upaya yang dilakukan oleh  lembaga terkait untuk melakukan konseling, terapi, advokasi guna penguatan dan pemulihan diri korban kekerasan.  
 16. Pelayanan rehabilitasi sosial adalah pelayanan yang ditujukan untuk  memulihkan dan mengembangkan kemampuan seseorang yang  mengalami disfungsi sosial agar dapat melaksanakan fungsi sosialnya  secara wajar
 17. Pelayanan bantuan hukum adalah jasa hukum yang diberikan oleh  advokat kepada korban kekerasan.  
 18. Layanan pemulangan adalah upaya mengembalikan korban kekerasan  dari luar negeri ke titik debarkasi/entry point atau dari daerah  penerima/terjadinya kekerasan ke daerah asal atau pihak keluarga,  keluarga/institusi pengganti, atau masyarakat yang dapat memberikan  perlindungan dan pemenuhan kebutuhan korban kekerasan.  
@@ -107,7 +111,8 @@ Peraturan Daerah ini bertujuan untuk:
 a. mencegah segala bentuk kekerasan terhadap perempuan;  
 b. melindungi perempuan terhadap kekerasan;  
 c. menjamin terpenuhinya hak perempuan korban kekerasan;  
-d. memberikan pelayanan kepada perempuan korban kekerasan; dan e. mewujudkan peran serta masyarakat dalam penyelenggaraan  perlindungan perempuan.  
+d. memberikan pelayanan kepada perempuan korban kekerasan; dan  
+e. mewujudkan peran serta masyarakat dalam penyelenggaraan  perlindungan perempuan.  
 
 # BAB III
 
@@ -120,7 +125,8 @@ a. dihormati harkat dan martabatnya sebagai manusia;
 b. mendapatkan informasi perlindungan perempuan;  
 c. memperoleh rehabilitasi dan reintegrasi sosial;  
 d. memperoleh pemulihan kesehatan fisik, psikologis maupun seksual  sesuai penderitaan yang dialami korban kekerasan;  
-e. memperoleh pemberdayaan dan pendampingan hukum; dan f. pelayanan bimbingan rohani.  
+e. memperoleh pemberdayaan dan pendampingan hukum; dan  
+f. pelayanan bimbingan rohani.  
 
 # BAB IV
 
@@ -137,7 +143,7 @@ Umum
 
 #### Pasal 6
 
-Penyediaan pelayanan dalam perlindungan perempuan korban kekerasan  dilaksanakan oleh UPTD PPA;  
+Penyediaan pelayanan dalam perlindungan perempuan korban kekerasan dilaksanakan oleh UPTD PPA;  
 
 ## Bagian Kedua
 
@@ -145,12 +151,13 @@ PencegahanKekerasan
 
 #### Pasal 7
 
-1. Dalam perlindungan perempuan dilakukan pencegahan kekerasan. (2) Pencegahan sebagaimana ayat (1) dilaksanakan dengan cara:  
+1. Dalam perlindungan perempuan dilakukan pencegahan kekerasan.  
+2. Pencegahan sebagaimana ayat (1) dilaksanakan dengan cara:  
 a. mensosialisasikan peraturan perundang-undangan;  
 b. memberikan edukasi bahaya kekerasan terhadap perempuan;  
 c. melakukan seminar/lokakarya atau sejenisnya;  
 d. menjalin kerja sama dengan instansi pemerintah atau lembaga non pemerintah dalam upaya pencegahan kekerasan; dan  
-e. membentuk sistem pencegahan, pemetaan lokasi atau wilayah rawan  terjadinya kekerasan.  
+e. membentuk sistem pencegahan, pemetaan lokasi atau wilayah rawan terjadinya kekerasan.  
 3. Pencegahan kekerasan sebagaimana dimaksud pada ayat (2) dapat berkoordinasi dengan lembaga lain.  
 
 ## Bagian Ketiga
@@ -159,7 +166,8 @@ Pelayanan bagi Perempuan Korban Kekerasan
 
 #### Pasal 8
 
-Pelayanan terhadap korban kekerasan dilaksanakan berdasarkan prinsip:  a. tidak dipungut biaya;  
+Pelayanan terhadap korban kekerasan dilaksanakan berdasarkan prinsip:  
+a. tidak dipungut biaya;  
 b. cepat;  
 c. aman dan nyaman;  
 d. rasa empati;  
@@ -180,7 +188,8 @@ g. pelayanan reintegrasi sosial.
 
 #### Pasal 10
 
-1. Setiap jenis pelayanan mengikuti prosedur standar operasional. (2) Setiap jenis pelayanan wajib memiliki formulir.  
+1. Setiap jenis pelayanan mengikuti prosedur standar operasional.  
+2. Setiap jenis pelayanan wajib memiliki formulir.  
 3. Formulir sebagaimana dimaksud pada ayat (2) bertujuan untuk  mencapai tertib administrasi dan pendataan.  
 4. Formulir sebagaimana dimaksud pada ayat (2) disediakan oleh UPTD  PPA.  
 
@@ -237,7 +246,8 @@ Pelayanan Kesehatan
 1. Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 9 huruf d,  dilakukan oleh tenaga kesehatan.  
 2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dilakukan  disarana kesehatan milik pemerintah daerah atau swasta.  
 3. Pelayanan kesehatan sebagaimana dimaksud pada ayat (2) bertujuan  untuk memulihkan kondisi korban.  
-4. Pemulihan kondisi korban sebagaimana dimaksud pada ayat (3)  meliputi:a. pertolongan pertama kepada korban; dan  
+4. Pemulihan kondisi korban sebagaimana dimaksud pada ayat (3)  meliputi:  
+a. pertolongan pertama kepada korban; dan  
 b. pelayanan lanjutan berupa rawat jalan, rawat inap sesuai ketentuan  medis.  
 
 #### Pasal 16
@@ -253,9 +263,11 @@ Pelayanan Rehabilitasi Sosial
 
 1. Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 9 huruf  e, dilakukan oleh pekerja sosial, pembimbing rohani dan psikolog atau  psikiater.  
 2. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1)  dilakukan di rumah aman atau tempat lainnya yang ditentukan oleh  UPTD PPA.  
-3. Pelayanan rehabilitasi sosial dilakukan dengan cara:a. memberikan bimbingan kerohanian kepada korban;  
+3. Pelayanan rehabilitasi sosial dilakukan dengan cara:  
+a. memberikan bimbingan kerohanian kepada korban;  
 b. membangun komunikasi yang empatik terhadap korban;  
-c. memberikan layanan konseling sesuai dengan kebutuhan korban. d. pemulihan kondisi psikis korban yang dilakukan oleh psikolog  dan/atau psikiater; dan  
+c. memberikan layanan konseling sesuai dengan kebutuhan korban.  
+d. pemulihan kondisi psikis korban yang dilakukan oleh psikolog  dan/atau psikiater; dan  
 e. terapi psikologis secara berkala.  
 
 #### Pasal 18
@@ -314,7 +326,8 @@ Pembinaan
 
 #### Pasal 23
 
-1. Pembinaan pemerintah daerah meliputi:a. pedoman perlindungan perempuan; dan  
+1. Pembinaan pemerintah daerah meliputi:  
+a. pedoman perlindungan perempuan; dan  
 b. bimbingan teknis dan pelatihan.  
 2. Pembinaan sebagaimana dimaksud pada ayat (1) dapat dilakukan  pemerintah daerah paling sedikit satu kali dalam setahun.  
 
@@ -345,7 +358,8 @@ Evaluasi
 
 #### Pasal 26
 
-1. Pemerintah Daerah dalam perlindungan perempuan korban kekerasan,  dapat melibatkan peran serta masyarakat dan sektor swasta.  (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, kelompok maupun organisasi  kemasyarakatan.  
+1. Pemerintah Daerah dalam perlindungan perempuan korban kekerasan,  dapat melibatkan peran serta masyarakat dan sektor swasta.  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, kelompok maupun organisasi  kemasyarakatan.  
 
 #### Pasal 27
 
@@ -366,7 +380,8 @@ Masyarakat dapat melakukan pengawasan perlindungan perempuan dengan  menyampaika
 
 #### Pasal 30
 
-1. Perlindungan perempuan wajib melaporkan kegiatan perlindungan perempuan korban kekerasan secara berkala kepada Bupati. (2) Bupati sebagaimana dimaksud pada ayat (1) wajib melaporkan kegiatan  perlindungan perempuan korban kekerasan secara berkala kepada  Gubernur.  
+1. Perlindungan perempuan wajib melaporkan kegiatan perlindungan perempuan korban kekerasan secara berkala kepada Bupati.  
+2. Bupati sebagaimana dimaksud pada ayat (1) wajib melaporkan kegiatan  perlindungan perempuan korban kekerasan secara berkala kepada  Gubernur.  
 
 # BAB IX
 
@@ -375,7 +390,8 @@ Masyarakat dapat melakukan pengawasan perlindungan perempuan dengan  menyampaika
 #### Pasal 31
 
 1. Pemerintah Daerah dapat memberikan penghargaan kepada setiap orang  dan/atau lembaga yang secara komitmen memberikan perhatian penuh  dalam perlindungan perempuan.  
-2. Penghargaan sebagaimana dimaksud pada ayat (1) berupa pemberian  dalam bentuk:a. piagam; dan  
+2. Penghargaan sebagaimana dimaksud pada ayat (1) berupa pemberian  dalam bentuk:  
+a. piagam; dan  
 b. bentuk lain.  
 
 # BAB X
@@ -398,34 +414,26 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Luwu Timur.  
 
-Ditetapkan di Malili pada tanggal 12 April 2021
+Ditetapkan di Malili pada tanggal 12 April 2021  
 
-##### BUPATI LUWU TIMUR,
+BUPATI LUWU TIMUR,  
 
-##### BUDIMAN
+BUDIMAN  
 
-Diundangkan di Malili pada tanggal 12 April 2021
+Diundangkan di Malili pada tanggal 12 April 2021  
 
-##### SEKRETARIS DAERAH KABUPATEN LUWU TIMUR,
+SEKRETARIS DAERAH KABUPATEN LUWU TIMUR,  
 
-##### BAHRI SULI
+BAHRI SULI  
 
-##### LEMBARAN DAERAH KABUPATEN LUWU TIMUR TAHUN 2021 NOMOR 4
+LEMBARAN DAERAH KABUPATEN LUWU TIMUR TAHUN 2021 NOMOR 4  
 
 NOREG PERATURAN DAERAH KABUPATEN LUWU TIMUR PROVINSI  SULAWESI SELATAN NOMOR:  
-B.HK.05.026.21
+B.HK.05.026.21  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN LUWU TIMUR
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN LUWU TIMUR
-
-##### NOMOR 4 TAHUN 2021
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN TERHADAP KEKERASAN
+NOMOR 4 TAHUN 2021 TENTANG PERLINDUNGAN PEREMPUAN TERHADAP KEKERASAN
 
 ##### I. UMUM
 
@@ -441,144 +449,204 @@ Peraturan Daerah ini mengatur upaya Perlindungan bagi Perempuan  Korban Kekerasa
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 3
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 4
 
-Huruf a Cukup Jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Huruf f Yang dimaksud dengan “bimbingan rohani” adalah bentuk  kegiatan yang didalamnya terjadi proses bimbingan dan  pembinaan rohani kepada manusia sehingga dapat memberikan  ketenangan, kedamaian, dan kesejukan hati kepada korban  kekerasan dengan senantiasa memberikan dorongan dan  memotivasi untuk tetap bersabar, tawakkal, dan tetap  menjalankan kewajibannya kepada Tuhan Yang Maha Esa.  
+Huruf a  
+Cukup Jelas.  
+
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
+
+Huruf f  
+Yang dimaksud dengan “bimbingan rohani” adalah bentuk  kegiatan yang didalamnya terjadi proses bimbingan dan  pembinaan rohani kepada manusia sehingga dapat memberikan  ketenangan, kedamaian, dan kesejukan hati kepada korban  kekerasan dengan senantiasa memberikan dorongan dan  memotivasi untuk tetap bersabar, tawakkal, dan tetap  menjalankan kewajibannya kepada Tuhan Yang Maha Esa.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 7
 
-Ayat (1) Cukup jelas Ayat (2) Huruf a Yang dimaksud dengan “peraturan perundang-undangan”  adalah peraturan perundang-undangan yang terkait  dengan perlindungan perempuan.  
+Ayat (1)  
+Cukup jelas.  
 
-Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Ayat (3) Cukup Jelas
+Ayat (2)  
+Huruf a  
+Yang dimaksud dengan “peraturan perundang-undangan”  adalah peraturan perundang-undangan yang terkait  dengan perlindungan perempuan.  
+
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup Jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Ayat (1) Yang dimaksud dengan “lembaga sosial” adalah organisasi atau  perkumpulan yang melaksanakan penyelenggaraan  perlindungan perempuan yang dibentuk oleh masyarakat baik  yang berbadan hukum.  
+Ayat (1)  
+Yang dimaksud dengan “lembaga sosial” adalah organisasi atau  perkumpulan yang melaksanakan penyelenggaraan  perlindungan perempuan yang dibentuk oleh masyarakat baik  yang berbadan hukum.  
 
-Ayat (2) Cukup jelas
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 14
 
-Ayat (1) Cukup jelas Ayat (2) Yang dimaksud dengan “litigasi” adalah proses penyelesaian  masalah hukum di dalam peradilan; non litigasi adalah proses  penyelesaian masalah hukum diluar peradilan yang  mengutamakan kepentingan kedua belah pihak berdasarkan  musyawarah dan mufakat.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (2)  
+Yang dimaksud dengan “litigasi” adalah proses penyelesaian  masalah hukum di dalam peradilan; non litigasi adalah proses  penyelesaian masalah hukum diluar peradilan yang  mengutamakan kepentingan kedua belah pihak berdasarkan  musyawarah dan mufakat.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 17
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) huruf a Cukup jelas huruf b Yang dimaksud dengan “empatik” adalah proses  mengidentifikasi kejiwaaan atau perasaan dengan  memposisikan diri sebagai korban.  
+Ayat (1)  
+Cukup jelas.  
 
-huruf c Yang dimaksud dengan “konseling” adalah proses  pemberian informasi, obyektif, dan lengkap, dilakukan  secara sistematik dengan panduan komunikasi  interpersonal, teknik bimbingan dan penguasaan  pengetahuan klinik yang bertujuan untuk membantu  seseorang mengenali kondisinya saat ini, masalah yang  sedang dihadapi, dan menentukan jalan keluar atau  upaya mengatasi masalah tersebut.  
+Ayat (2)  
+Cukup jelas.  
 
-Huruf d Cukup jelas Huruf e Cukup jelas
+Ayat (3)  
+huruf a  
+Cukup jelas.  
+
+huruf b  
+Yang dimaksud dengan “empatik” adalah proses  mengidentifikasi kejiwaaan atau perasaan dengan  memposisikan diri sebagai korban.  
+
+huruf c  
+Yang dimaksud dengan “konseling” adalah proses  pemberian informasi, obyektif, dan lengkap, dilakukan  secara sistematik dengan panduan komunikasi  interpersonal, teknik bimbingan dan penguasaan  pengetahuan klinik yang bertujuan untuk membantu  seseorang mengenali kondisinya saat ini, masalah yang  sedang dihadapi, dan menentukan jalan keluar atau  upaya mengatasi masalah tersebut.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 19
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 20
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 21
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 22
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 23
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 24
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 25
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 26
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 27
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 28
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 29
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 30
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 31
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 32
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 33
 
-Cukup Jelas
+Cukup Jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN LUWU TIMUR NOMOR 130
+TAMBAHAN LEMBARAN DAERAH KABUPATEN LUWU TIMUR NOMOR 130  

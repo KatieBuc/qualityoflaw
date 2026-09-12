@@ -1,20 +1,22 @@
-# BUPATI BANGKA TENGAH
+# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
 
-# PROVINSI KEPULAUAN BANGKA BELITUNG
+BUPATI BANGKA TENGAH  
 
-# SALINAN
+PROVINSI KEPULAUAN BANGKA BELITUNG  
+
+SALINAN  
 
 # PERATURAN DAERAH KABUPATEN BANGKA TENGAH
 
-# NOMOR 2 TAHUN 2014
+NOMOR 2 TAHUN 2014  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI BANGKA TENGAH,
+BUPATI BANGKA TENGAH,  
 
 Menimbang:  
  
@@ -37,7 +39,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 1 Tahun 1974 tentang  Perkawinan (Lembaran Negara Republik Indonesia Tahun  1974 Nomor 1);  
 3. Undang-Undang Nomor 13 Tahun 1998 tentang  Kesejahteraan Lanjut Usia (Lembaran Negara Republik  Indonesia Tahun 1998 Nomor 190);  
 4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun  1999 Nomor 165, Tambahan Lembaran Negara Nomor 3886);  
@@ -53,13 +54,19 @@ Mengingat:
 14. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang  Pembagian Urusan Pemerintahan antara Pemerintah,  Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah  Kabupaten/Kota (Lembaran Negara Republik Indonesia  Tahun 2007 Nomor 82, Tambahan Lembaran Negara  Republik Indonesia Nomor 4737);  
 15. Peraturan Menteri Negara Pemberdayaan Perempuan  Nomor 2 Tahun 2008 tentang Pedoman Pelaksanaan  Perlindungan Perempuan;  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGKA TENGAH  dan
+Dengan Persetujuan Bersama  
 
-# BUPATI BANGKA TENGAH
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGKA TENGAH  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN.  
+BUPATI BANGKA TENGAH  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN.  
 
 # BAB I
 
@@ -67,8 +74,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Bangka Tengah.  
 2. Pemerintah Daerah adalah Bupati dan perangkat daerah  sebagai unsur penyelenggara Pemerintahan Daerah.  
 3. Bupati adalah Bupati Bangka Tengah.  
@@ -116,13 +122,13 @@ c. Hak mengembangkan diri;
 d. Hak memperoleh keadilan;  
 e. Hak atas kebebasan pribadi;  
 f. Hak atas rasa aman;  
-g. Hak atas kesejahteraan; dan
-
-h.Hak turut serta dalam pemerintahan.  
+g. Hak atas kesejahteraan; dan  
+h. Hak turut serta dalam pemerintahan.  
 
 #### Pasal 5
 
-1. Setiap perempuan berhak untuk:a. hidup tentram, aman, damai, bahagia, sejahtera lahir  dan batin;  
+1. Setiap perempuan berhak untuk:  
+a. hidup tentram, aman, damai, bahagia, sejahtera lahir  dan batin;  
 b. hidup berkeluarga dalam ikatan perkawinan yang sah;  
 c. mempertahankan hidup dan meningkatkan taraf  hidupnya;  
 d. memiliki pekerjaan yang disukainya dan berhak pula  atas syarat-syarat ketenagakerjaan yang adil;  
@@ -159,7 +165,8 @@ j. hak khusus yang melekat pada diri wanita dikarenakan  fungsi reproduksinya di
 
 1. Perempuan mempunyai hak untuk mendapatkan  perlindungan khusus dari hal-hal yang mengancam  keselamatan dan/atau kesehatannya.  
 2. Perlindungan khusus diberikan kepada perempuan  karena fungsi reproduksinya dijamin dan dilindungi oleh  hukum.  
-3. Perlindungan khusus sebagaimana dimaksud pada ayat  (2) terdiri dari pelayanan kesehatan yang berkaitan  dengan:a. menstruasi;  
+3. Perlindungan khusus sebagaimana dimaksud pada ayat  (2) terdiri dari pelayanan kesehatan yang berkaitan  dengan:  
+a. menstruasi;  
 b. hamil;  
 c. melahirkan; dan  
 d. menyusui.  
@@ -170,7 +177,7 @@ Perempuan korban tindak kekerasan berhak untuk  mendapatkan perlindungan, inform
 
 #### Pasal 9
 
-1. Perempuan memiliki kesempatan yang sama tanpa  diskriminasi untuk memperoleh pekerjaan.  
+1. Perempuan memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh pekerjaan.  
 2. Kesempatan yang sama sebagaimana dimaksud pada  ayat (1) diwujudkan melalui pemenuhan hak perempuan  untuk mendapatkan perlakuan yang sama dari  pengusaha.  
 3. Pengusaha yang menggunakan tenaga kerja perempuan,  wajib memberikan perlindungan sesuai dengan peraturan  perundang-undangan yang berlaku.  
 4. Perlindungan yang wajib diberikan oleh pengusaha  kepada perempuan sebagaimana dimaksud pada ayat (3)  akan diatur lebih lanjut dengan Peraturan Bupati.  
@@ -194,17 +201,20 @@ Pelaksanaan kebijakan, program dan kegiatan perlindungan  perempuan, dapat dilak
 a. melakukan kerjasama dengan dunia usaha, lembaga  nonpemerintah, perusahaan swasta, Yayasan, dan lembaga  di dalam negeri lainnya serta lembaga internasional, sesuai  dengan ketentuan peraturan perundang-undangan;  
 b. melakukan kerjasama daerah, sesuai dengan ketentuan  peraturan perundang-undangan yang berlaku;  
 c. menyediakan dan memfasilitasi pelayanan perlindungan  perempuan;  
-d. menyusun sistem pendataan perlindungan perempuan;  dane. melaksanakan koordinasi pelaksanaan kebijakan, program  dan kegiatan perlindungan perempuan antar Satuan Kerja  Perangkat Daerah.  
+d. menyusun sistem pendataan perlindungan perempuan; dan  
+e. melaksanakan koordinasi pelaksanaan kebijakan, program  dan kegiatan perlindungan perempuan antar Satuan Kerja  Perangkat Daerah.  
 
 #### Pasal 13
 
-1. Penyediaan dan fasilitasi pelayanan perlindungan  perempuan sebagaimana dimaksud dalam Pasal 12 huruf  c berupa:a. identifikasi korban;  
+1. Penyediaan dan fasilitasi pelayanan perlindungan  perempuan sebagaimana dimaksud dalam Pasal 12 huruf  c berupa:  
+a. identifikasi korban;  
 b. bantuan hukum;  
 c. rehabilitasi medis;  
 d. rehabilitasi psikososial;  
 e. reintegrasi sosial;  
 f. bantuan pemulangan; ataug. bentuk lainnya.  
-2. Penyediaan dan fasilitasi pelayanan perlindungan  perempuan sebagaimana dimaksud pada ayat (1)  diberikan pada perempuan:a. korban kekerasan;  
+2. Penyediaan dan fasilitasi pelayanan perlindungan  perempuan sebagaimana dimaksud pada ayat (1)  diberikan pada perempuan:  
+a. korban kekerasan;  
 b. korban perdagangan orang;  
 c. lanjut usia yang tidak mandiri;  
 d. disabilitas;  
@@ -222,7 +232,8 @@ i. kelompok rentan lainnya.
 
 1. Masyarakat dapat berperan serta dalam penyelenggaraan  pemberdayaan dan perlindungan perempuan.  
 2. Peran serta sebagaimana dimaksud pada ayat (1)  dilakukan oleh perorangan, kelompok maupun organisasi  sosial kemasyarakatan.  
-3. Peran serta masyarakat sebagaimana dimaksud pada ayat  (1) dapat berupa:a. peran aktif dalam penyusunan kebijakan;  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat  (1) dapat berupa:  
+a. peran aktif dalam penyusunan kebijakan;  
 b. kerja sama; dan/atauc. pengaduan/laporan.  
 4. Tata cara peran serta masyarakat sebagaimana dimaksud  pada ayat (3) diatur lebih lanjut dengan Peraturan Bupati.  
 
@@ -267,22 +278,26 @@ Peraturan Daerah ini mulai berlaku pada tanggal  diundangkan.
 
 Agar setiap orang dapat mengetahuinya, memerintahkan  Pengundangan Peraturan Daerah ini, dengan penempatannya  dalam Lembaran Daerah Kabupaten Bangka Tengah.  
 
-Ditetapkan di Koba pada tanggal 5 Mei 2014
+Ditetapkan di Koba  
 
-##### BUPATI BANGKA TENGAH,
+pada tanggal 5 Mei 2014  
 
-Cap/dto
+BUPATI BANGKA TENGAH,  
 
-##### ERZALDI ROSMAN
+Cap/dto  
 
-Diundangkan di Koba pada tanggal 5 Mei 2014
+ERZALDI ROSMAN  
 
-##### SEKRETARIS DAERAH
+Diundangkan di Koba  
 
-##### KABUPATEN BANGKA TENGAH,
+pada tanggal 5 Mei 2014  
 
-Cap/dto
+SEKRETARIS DAERAH  
 
-##### IBNU SALEH
+KABUPATEN BANGKA TENGAH,  
 
-LEMBARAN DAERAH KABUPATEN BANGKA TENGAH TAHUN 2014 NOMOR 186 NOMOR REGISTER PERATURAN DAERAH KABUPATEN BANGKA TENGAH  PROVINSI KEPULAUAN BANGKA BELITUNG (4.2/2014)
+Cap/dto  
+
+IBNU SALEH
+
+LEMBARAN DAERAH KABUPATEN BANGKA TENGAH TAHUN 2014 NOMOR 186 NOMOR REGISTER PERATURAN DAERAH KABUPATEN BANGKA TENGAH  PROVINSI KEPULAUAN BANGKA BELITUNG (4.2/2014)  

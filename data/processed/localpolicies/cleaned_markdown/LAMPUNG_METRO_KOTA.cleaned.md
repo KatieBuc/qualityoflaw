@@ -1,10 +1,20 @@
-# WALIKOTA METRO
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DARI KEKERASAN 
 
-PROVINSI LAMPUNG PERATURAN DAERAH KOTA METRO NOMOR 03 TAHUN 2014 PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DARI KEKERASAN
+WALIKOTA METRO  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+PROVINSI LAMPUNG  
 
-# WALIKOTA METRO.  
+# PERATURAN DAERAH KOTA METRO 
+
+NOMOR 03 TAHUN 2014  
+
+TENTANG  
+
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DARI KEKERASAN  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+WALIKOTA METRO,  
 
 Menimbang:  
  
@@ -28,7 +38,6 @@ Mengingat:
  
  
 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Convention on The Elimination of All Forms of Discrimination Against Women (Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Perempuan) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
-
 2. Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain Yang Kejam, Tidak Manusiawi atau Merendahkan Martabat Manusia) (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Negara Republik Indonesia Nomor 3783);  
 3. Undang-Undang Nomor 12 Tahun 1999 tentang Pembentukan Kabupaten Dati II Way Kanan, Kabupaten Dati II Lampung Timur dan Kotamadya Dati II Metro (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 46, Tambahan Lembaran Negara Republik Indonesia Nomor 3825);  
 4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -48,20 +57,29 @@ Mengingat:
 18. Peraturan Daerah Kota Metro Nomor 7 Tahun 2008 tentang Pembentukan Organisasi dan Tata Kerja Perangkat Daerah Kota Metro (Lembaran Daerah Kota Metro Tahun 2008 Nomor 07, Tambahan Lembaran Daerah Kota Metro Nomor 107) sebagaimana telah diubah dengan Peraturan Daerah Kota Metro Nomor 12 Tahun 2010 (Lembaran Daerah Kota Metro Tahun 2012 Nomor 01, Tambahan Lembaran Daerah Kota Metro Nomor 01);  
 19. Peraturan Daerah Kota Metro Nomor 6 Tahun 2013 Penyelenggaraan Bantuan Hukum (Lembaran Daerah Kota Metro Tahun 2013 Nomor 03, Tambahan Lembaran Daerah Kota Metro Nomor 03);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KOTA METRO
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA METRO  
 
-None  None  None  None  None  None  None None  None  None  None  None  None    None  None  None  None  None      None None  None  None  None  None None  None  None  None  None    None None  None  None  None  None  None  None None  None  None None  None  None  None None  None None  None  None  None  None  None None None  None  None  None  None None  None  None  None    None  None None  None  None  None None  None  None  None  None None  None None  None  None  None  None None None  None  None  None  None None  None None  None  None  None None  None None  None  None  None  None None  None None  None  None  None None  None None  None  None  None None  None None  None  None  None None  None  None None  None  None  None None  None None  None  None  None None  None  None None  None  None  None None None  None  None  None  None None None  None  None  None  None None None  None  None  None  None None None  None  None  None None  None  None  None  None  None   None  None  None  None  None  None
+dan  
 
-# WALIKOTA METRO
+WALIKOTA METRO  
 
-# MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan:  PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DARI KEKERASAN.  
+Menetapkan:  
 
-# BAB I KETENTUAN UMUM Pasal 1 Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Kota adalah Kota Metro. 2. Pemerintah Daerah adalah Walikota dan perangkat Daerah sebagai unsur penyelenggara Pemerintahan Daerah.  
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DARI KEKERASAN.   
 
+# BAB I 
+
+## KETENTUAN UMUM 
+
+#### Pasal 1 
+
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
+1. Kota adalah Kota Metro.  
+2. Pemerintah Daerah adalah Walikota dan perangkat Daerah sebagai unsur penyelenggara Pemerintahan Daerah.  
 3. Walikota adalah Walikota Metro
 4. Dewan Perwakilan Rakyat Daerah, yang selanjutnya disingkat DPRD, adalah lembaga perwakilan rakyat daerah sebagai unsur penyelenggara Pemerintah Daerah
 5. Satuan Kerja Perangkat Daerah yang selanjutnya disingkat SKPD adalah Perangkat Daerah di Kota Metro.  
@@ -126,7 +144,8 @@ Ruang lingkup perlindungan terhadap perempuan dan anak korban kekerasan meliputi
 
 #### Pasal 5
 
-1. Setiap perempuan dan anak korban kekerasan berhak:a. memperoleh perlindungan atas keamanan pribadi, keluarga, dan harta bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan yang akan, sedang, atau telah diberikan;  
+1. Setiap perempuan dan anak korban kekerasan berhak:  
+a. memperoleh perlindungan atas keamanan pribadi, keluarga, dan harta bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan yang akan, sedang, atau telah diberikan;  
 b. untuk ikut serta dalam proses memilih dan menentukan bentuk perlindungan dan dukungan keamanan;  
 c. bebas dari pertanyaan yang menjerat;  
 d. mendapatkan informasi mengenai perkembangan kasus dan putusan pengadilan;  
@@ -148,13 +167,16 @@ b. menjadi saksi bila tidak membahayakan diri sendiri dan bila ada jaminan keama
 
 #### Pasal 7
 
-1. Pemerintah Daerah wajib:a. mencegah terjadinya kekerasan;  
+1. Pemerintah Daerah wajib:  
+a. mencegah terjadinya kekerasan;  
 b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi sosial;  
 d. mendorong dan meningkatkan partisipasi masyarakat;  
-e. melakukan kerja sama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban kekerasan.  f. memfasilitasi terbentuknya P2TP2A yang berbasis Rumah Sakit, Puskesmas, Rumah Perlindungan Trauma Center, dan lembaga pendukung lain;  
+e. melakukan kerja sama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban kekerasan.  
+f. memfasilitasi terbentuknya P2TP2A yang berbasis Rumah Sakit, Puskesmas, Rumah Perlindungan Trauma Center, dan lembaga pendukung lain;  
 g. mengawasi penyelenggaraan pelayanan terhadap korban, dengan standar pelayanan yang melibatkan masyarakat.  
-2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1), Pemerintah Daerah berwenang:a. merumuskan kebijakan dan program tentang penghapusan kekerasan terhadap perempuan dan anak;  
+2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1), Pemerintah Daerah berwenang:  
+a. merumuskan kebijakan dan program tentang penghapusan kekerasan terhadap perempuan dan anak;  
 b. membentuk P2TP2A;  
 c. memfasilitasi terselenggaranya kegiatan P2TP2A;  
 d. menyediakan sarana dan prasarana;  
@@ -203,7 +225,8 @@ Upaya Pencegahan
 
 #### Pasal 13
 
-1. Upaya pencegahan sebagaimana dimaksud dalam Pasal 12 huruf a, meliputi:a. membentuk jaringan pencegahan dan penanganan kekerasan secara koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
+1. Upaya pencegahan sebagaimana dimaksud dalam Pasal 12 huruf a, meliputi:  
+a. membentuk jaringan pencegahan dan penanganan kekerasan secara koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
 b. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau wilayah rawan terjadinya kekerasan;  
 c. menyelenggarakan komunikasi, informasi, dan edukasi tentang kekerasan terhadap perempuan dan anak;  
 d. sosialisasi peraturan perundang-undangan yang berkaitan dengan kekerasan terhadap perempuan dan anak.  
@@ -309,21 +332,25 @@ Kerja sama sebagaimana dimaksud dalam Pasal 20 dilaksanakan sesuai dengan ketent
 #### Pasal 24
 
 1. Masyarakat dapat berperan serta membantu upaya pencegahan dan penanganan korban kekerasan terhadap perempuan dan anak.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) diwujudkan dengan:a. memberikan informasi dan atau melaporkan setiap kekerasan yang diketahui;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) diwujudkan dengan:  
+a. memberikan informasi dan atau melaporkan setiap kekerasan yang diketahui;  
 b. memberikan perlindungan bagi korban;  
 c. memberikan pertolongan darurat;  
 d. memberikan advokasi terhadap korban dan atau masyarakat tentang penanganan kasus kekerasan terhadap perempuan dan anak;  
 e. membantu proses pengajuan permohonan penetapan perlindungan;  
 f. membantu dalam proses pemulangan dan reintegrasi sosial.  
 
-# BAB X PEMBIAYAAN
+# BAB X 
+
+PEMBIAYAAN
 
 #### Pasal 25
 
 Pembiayaan kegiatan yang terkait dengan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah Provinsi;  
-c. Anggaran Pendapatan dan Belanja Daerah; dan/ataud. sumber lain yang sah dan tidak mengikat.  
+c. Anggaran Pendapatan dan Belanja Daerah; dan/atau  
+d. sumber lain yang sah dan tidak mengikat.  
 
 # BAB XI
 
@@ -335,11 +362,15 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kota Metro Diundangkan di Metro pada tanggal 25 April 2014
 
-##### SEKRETARIS DAERAH KOTA METRO,
+SEKRETARIS DAERAH KOTA METRO,  
 
-##### LEMBARAN DAERAH KOTA METRO TAHUN 2014 NOMOR 03
+LEMBARAN DAERAH KOTA METRO TAHUN 2014 NOMOR 03  
 
-NOMOR REGISTRASI PERATURAN DAERAH KOTA METRO, PROVINSI LAMPUNG; (2/MTR/ 2014) PENJELASAN  ATAS  PERATURAN DAERAH KOTA METRO  NOMOR 03 TAHUN 2014 PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DARI KEKERASAN
+NOMOR REGISTRASI PERATURAN DAERAH KOTA METRO, PROVINSI LAMPUNG; (2/MTR/ 2014) 
+
+# PENJELASAN ATAS PERATURAN DAERAH KOTA METRO  
+
+NOMOR 03 TAHUN 2014 PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DARI KEKERASAN  
 
 ##### I. UMUM
 
@@ -359,22 +390,134 @@ Cukup jelas.
 
 #### Pasal 2
 
-huruf a Yang dimaksud dengan "penghormatan terhadap hak-hak korban" adalah serangkaian tindakan menghormati, menghargai dan menjamin terpenuhinya hak-hak korban.  
+huruf a  
+Yang dimaksud dengan "penghormatan terhadap hak-hak korban" adalah serangkaian tindakan menghormati, menghargai dan menjamin terpenuhinya hak-hak korban.  
 
-huruf b Yang dimaksud dengan "keadilan dan kesetaraan gender" adalah suatu proses untuk menjadi adil terhadap laki-laki dan perempuan dalam memperoleh kesempatan dan hak-haknya sebagai manusia agar mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya, pertahanan dan keamanan serta kesamaan dalam menikmati hasil pembangunan.  
+huruf b  
+Yang dimaksud dengan "keadilan dan kesetaraan gender" adalah suatu proses untuk menjadi adil terhadap laki-laki dan perempuan dalam memperoleh kesempatan dan hak-haknya sebagai manusia agar mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya, pertahanan dan keamanan serta kesamaan dalam menikmati hasil pembangunan.  
 
-huruf c Yang dimaksud dengan “perlindungan korban” adalah memberikan rasa aman pada korban yang dilakukan oleh pihak keluarga, advokat, lembaga sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya baik secara sementara maupun berdasarkan penetapan pengadilan.  
+huruf c  
+Yang dimaksud dengan “perlindungan korban” adalah memberikan rasa aman pada korban yang dilakukan oleh pihak keluarga, advokat, lembaga sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya baik secara sementara maupun berdasarkan penetapan pengadilan.  
 
-huruf d Yang dimaksud dengan "kepentingan terbaik bagi korban" adalah semua tindakan yang menyangkut korban yang dilakukan oleh pemerintah, masyarakat, badan legislatif dan badan yudikatif, harus menjadi pertimbangan utama.  
+huruf d  
+Yang dimaksud dengan "kepentingan terbaik bagi korban" adalah semua tindakan yang menyangkut korban yang dilakukan oleh pemerintah, masyarakat, badan legislatif dan badan yudikatif, harus menjadi pertimbangan utama.  
 
-huruf e Yang dimaksud dengan “non diskriminasi“ artinya tidak melakukan pembedaan dengan alasan dan cara apapun, baik menyangkut agama dan kepercayaannya, suku, ras, jenis kelamin, warna kulit, bahasa, dan politik.  
+huruf e  
+Yang dimaksud dengan “non diskriminasi“ artinya tidak melakukan pembedaan dengan alasan dan cara apapun, baik menyangkut agama dan kepercayaannya, suku, ras, jenis kelamin, warna kulit, bahasa, dan politik.  
 
-#### Pasal 3 Cukup jelas. Pasal 4 Cukup jelas. Pasal 5 Cukup jelas. Pasal 6 Cukup jelas. Pasal 7 Cukup jelas. Pasal 8 Cukup jelas. Pasal 9 Cukup jelas. Pasal 10 Cukup jelas. Pasal 11 Cukup Jelas. Pasal 12 Cukup jelas. Pasal 13 Cukup jelas. Pasal 14 Cukup jelas.  
+#### Pasal 3
+
+Cukup jelas.  
+
+#### Pasal 4
+
+Cukup jelas.  
+
+#### Pasal 5
+
+Cukup jelas.  
+
+#### Pasal 6
+
+Cukup jelas.  
+
+#### Pasal 7
+
+Cukup jelas.  
+
+#### Pasal 8
+
+Cukup jelas.  
+
+#### Pasal 9
+
+Cukup jelas.  
+
+#### Pasal 10
+
+Cukup jelas.  
+
+#### Pasal 11
+
+Cukup jelas.  
+
+#### Pasal 12
+
+Cukup jelas.  
+
+#### Pasal 13
+
+Cukup jelas.  
+
+#### Pasal 14
+
+Cukup jelas.  
 
 #### Pasal 15
 
-#### Pasal 11 Cukup Jelas. Pasal 12 Cukup jelas. Pasal 13 Cukup jelas. Pasal 14 Cukup jelas. Pasal 15 Huruf a Cukup jelas. Huruf b Yang dimaksud dengan “medicolegal” adalah upaya pengumpulan barang bukti untuk kepentingan pembuktian dalam proses peradilan. Huruf c Cukup jelas.  
+Huruf a  
+Cukup jelas.  
 
-Huruf d  Cukup jelas.  Huruf e  Cukup jelas.  Huruf f  Cukup jelas.  Huruf g  Cukup jelas.  Pasal 16  Cukup jelas.  Pasal 17  Cukup jelas.  Pasal 18  Cukup jelas.  Pasal 19  Cukup jelas.  Pasal 20  Cukup jelas.  Pasal 21  Cukup Jelas.  Pasal 22  Cukup jelas.  Pasal 23  Cukup jelas.  Pasal 24  Cukup jelas.  Pasal 25  Cukup Jelas.  Pasal 26  Cukup jelas.  
+Huruf b  
+Yang dimaksud dengan “medicolegal” adalah upaya pengumpulan barang bukti untuk kepentingan pembuktian dalam proses peradilan.  
 
-##### TAMBAHAN LEMBARAN DAERAH KOTA METRO NOMOR 23
+Huruf c  
+Cukup jelas.  
+
+Huruf d   
+Cukup jelas.   
+
+Huruf e   
+Cukup jelas.  
+
+Huruf f  
+Cukup jelas.  
+
+Huruf g  
+Cukup jelas.  
+
+#### Pasal 16  
+
+Cukup jelas.  
+
+#### Pasal 17  
+
+Cukup jelas.  
+
+#### Pasal 18  
+
+Cukup jelas.  
+
+#### Pasal 19  
+
+Cukup jelas.  
+
+#### Pasal 20  
+
+Cukup jelas.  
+
+#### Pasal 21  
+
+Cukup jelas.  
+
+#### Pasal 22  
+
+Cukup jelas.  
+
+#### Pasal 23  
+
+Cukup jelas.  
+
+#### Pasal 24  
+
+Cukup jelas.  
+
+#### Pasal 25  
+
+Cukup jelas.  
+
+#### Pasal 26  
+
+Cukup jelas.  
+
+TAMBAHAN LEMBARAN DAERAH KOTA METRO NOMOR 23  

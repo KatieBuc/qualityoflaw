@@ -1,14 +1,16 @@
+# PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN
+
 # PERATURAN DAERAH KOTA TERNATE
 
-# NOMOR 3 TAHUN 2013
+NOMOR 3 TAHUN 2013  
 
-# TENTANG
+TENTANG  
 
-PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN
+PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# WALIKOTA TERNATE,
+WALIKOTA TERNATE,  
 
 Menimbang:  
  
@@ -30,8 +32,7 @@ Mengingat:
  
  
  
-1.Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskriminasi terhadap Wanita (Convention on The Elimination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
 3. Undang-Undang Nomor 11 Tahun 1999 tentang Pembentukan Kotamadya Daerah Tingkat II Ternate (Lembaran Negara Tahun 1999 Nomor 45, Tambahan Lembaran Nomor 3824);  
 4. Undang-Undang Nomor 20 Tahun 1999 tentang Pengesahan Konvensi ILO Nomor 138 mengenai Usia Minimum Anak diperbolehkan Bekerja (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 56, Tambahan Lembaran Negara Republik Indonesia Nomor 3835);  
@@ -46,13 +47,19 @@ Mengingat:
 13. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan antara Pemerintah, Pemerintah Daerah Provinsi, dan Pemerintah Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 4737);  
 14. Peraturan Daerah Kota Ternate Nomor 19 Tahun 2008 tentang Urusan Pemerintahan Daerah Kota Ternate (Lembaran Daerah Kota Ternate Tahun 2008 Nomor 28);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA TERNATE dan
+Dengan Persetujuan Bersama  
 
-# WALIKOTA TERNATE
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA TERNATE  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+WALIKOTA TERNATE  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
 # BAB I
 
@@ -60,8 +67,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREM
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kota Ternate.  
 2. Pemerintah Daerah adalah Walikota, dan Perangkat Daerah sebagai unsur penyelenggara Pemerintahan Daerah Kota Ternate.  
 3. Kepala Daerah adalah Walikota Ternate.  
@@ -99,7 +105,6 @@ e. kepentingan terbaik bagi korban.
 #### Pasal 3
 
 Tujuan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan ini adalah memberikan perlindungan dan pelayanan terhadap perempuan dan anak korban kekerasan berbasis gender dan kepentingan terbaik bagi anak yang terjadi di rumah tangga dan publik.  
-
 # BAB III
 
 ## HAK-HAK KORBAN
@@ -123,7 +128,8 @@ a. mengumpulkan data dan informasi tentang korban kekerasan terhadap perempuan d
 b. melaksanakan pendidikan dan pembimbingan tentang anti kekerasan dan perlindungan pada perempuan dan anak korban kekerasan;  
 c. melaksanakan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan;  
 d. melakukan pemantauan dan evaluasi penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan.  
-2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan perlindungan bagi perempuan dan anak dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya pusat pelayanan terpadu untuk korban dengan melibatkan unsur masyarakat;  
+2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan perlindungan bagi perempuan dan anak dalam bentuk:  
+a. mendirikan dan memfasilitasi terselenggaranya pusat pelayanan terpadu untuk korban dengan melibatkan unsur masyarakat;  
 b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korban.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dan (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami atau orang lain yang secara hukumbertanggung jawab terhadap korban.  
 
@@ -152,7 +158,8 @@ Jenis Pelayanan
 
 #### Pasal 9
 
-1. Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A, meliputi:a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
+1. Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A, meliputi:  
+a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang diberikan oleh pendamping dalam rangka memulihkan kondisi traumatik korban, termasuk penyediaan rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi serta memberikan dukungan secara sosial sehingga korban mempunyai rasa percaya diri, kekuatan dan kemandirian dalam menyelesaikan masalahnya;  
 d. pelayanan hukum untuk membantu korban dalam menjalani proses peradilan;  
@@ -207,31 +214,27 @@ Peraturan Daerah ini berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kota Ternate.  
 
-Ditetapkan di Ternate pada tanggal 21 Januari 2013
+Ditetapkan di Ternate  
 
-##### WALIKOTA TERNATE,
+pada tanggal 21 Januari 2013  
 
-##### BURHAN ABDURAHMAN
+WALIKOTA TERNATE,  
 
-Diundangkan di Ternate pada tanggal 22 Januari 2013
+BURHAN ABDURAHMAN  
 
-##### SEKRETARIS DAERAH KOTA TERNATE,
+Diundangkan di Ternate  
 
-ISNAIN Hi. IBRAHIM
+pada tanggal 22 Januari 2013  
 
-##### LEMBARAN DAERAH KOTA TERNATE TAHUN 2013 NOMOR 106
+SEKRETARIS DAERAH KOTA TERNATE,  
 
-##### PENJELASAN
+ISNAIN Hi. IBRAHIM  
 
-##### ATAS
+LEMBARAN DAERAH KOTA TERNATE TAHUN 2013 NOMOR 106  
 
-##### PERATURAN DAERAH KOTA TERNATE
+# PENJELASAN ATAS PERATURAN DAERAH KOTA TERNATE
 
-##### NOMOR 3 TAHUN 2013
-
-##### TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN
+NOMOR 3 TAHUN 2013 TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
 ##### I. UMUM
 
@@ -243,21 +246,26 @@ Perempuan dan anak kerap menjadi korban tindak kekerasan baik dalam lingkup ruma
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Huruf a Penghormatan terhadap hak-hak korban dimaksudkan untuk menjamin terpenuhinya hak-hak korban.  
+Huruf a  
+Penghormatan terhadap hak-hak korban dimaksudkan untuk menjamin terpenuhinya hak-hak korban.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Yang dimaksud dengan keadilan gender adalah suatu keadaan di mana perempuan dan laki-laki memiliki status yang setara dan hak-hak asasi yang sama.  
+Huruf c  
+Yang dimaksud dengan keadilan gender adalah suatu keadaan di mana perempuan dan laki-laki memiliki status yang setara dan hak-hak asasi yang sama.  
 
 Yang dimaksud dengan kesetaraan gender adalah kesamaan kondisi bagi laki-laki dan perempuan untuk memperoleh kesempatan dan hak-haknya sebagai manusia, agar mampu berperan dan berpartisipasi dalam kegiatan publik, ekonomi, sosial budaya, pertahanan dan keamanan nasional dan kesamaan dalammenikmati hasil pembangunan tersebut.  
 
-Huruf d Non diskriminasi adalah sikap dan perlakuan terhadap korban dengan tidak melakukan pembedaan atas dasar ras, suku, agama dan golongan.  
+Huruf d  
+Non diskriminasi adalah sikap dan perlakuan terhadap korban dengan tidak melakukan pembedaan atas dasar ras, suku, agama dan golongan.  
 
-Huruf e Yang dimaksud dengan Kepentingan yang terbaik bagi korban adalah semua tindakan yang dilakukan untuk melindungi korban semata-mata bertujuan untuk memberikan kondisi yang terbaik bagi korban
+Huruf e  
+Yang dimaksud dengan Kepentingan yang terbaik bagi korban adalah semua tindakan yang dilakukan untuk melindungi korban semata-mata bertujuan untuk memberikan kondisi yang terbaik bagi korban
 
 #### Pasal 3
 
@@ -307,10 +315,14 @@ Cukup jelas.
 
 #### Pasal 13
 
-Yang dimaksudkan sanksi adalah sanksi administrasi. Pasal 14 Cukup jelas.  
+Yang dimaksudkan sanksi adalah sanksi administrasi.  
+
+#### Pasal 14 
+
+Cukup jelas.  
 
 #### Pasal 15
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KOTA TERNATE NOMOR 115
+TAMBAHAN LEMBARAN DAERAH KOTA TERNATE NOMOR 115  

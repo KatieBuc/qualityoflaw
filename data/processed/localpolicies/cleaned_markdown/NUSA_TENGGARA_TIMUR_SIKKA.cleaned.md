@@ -1,14 +1,16 @@
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN 
+
 # PERATURAN DAERAH KABUPATEN SIKKA
 
-# NOMOR 12 TAHUN 2012
+NOMOR 12 TAHUN 2012  
 
-# TENTANG
+TENTANG  
 
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI SIKKA,
+BUPATI SIKKA,  
 
 Menimbang:  
  
@@ -32,22 +34,26 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 69 Tahun 1958 tentang  Pembentukan Daerah-daerah Tingkat II dalam Wilayah Daerah-daerah Tingkat I, Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 4. Undang-Undang Nomor 1 Tahun 2000 tentang  Pengesahan ILO Convention No. 182 Concerning The Prohibition and Immediate Action For Elimination Of The Worst Forms Of Child Labour (Pengesahan Konvensi ILO No. 182 mengenai Pelarangan dan Tindakan Segara Penghapusan Bentuk-Bentuk Pekerjaan Tertutup Bagi Anak) (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 30, Tambahan Lembaran Negara Republik Indonesia Nomor 3941);  
 5. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlidungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235);  
 6. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
-7. Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor
-4844. ;  
+7. Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844;  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SIKKA dan
+Dengan Persetujuan Bersama  
 
-# BUPATI SIKKA
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SIKKA  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN  KEKERASAN.  
+BUPATI SIKKA  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
 # BAB I
 
@@ -55,11 +61,12 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Sikka.  
-2. Pemerintah Daerah adalah Pemerintah Kabupaten Sikka. 3. Bupati adalah Bupati Sikka.  
-4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD  adalah Dewan Perwakilan Rakyat Daerah Kabupaten Sikka.  5. Sekretaris Daerah adalah Sekretaris Daerah Kabupaten Sikka.  
+2. Pemerintah Daerah adalah Pemerintah Kabupaten Sikka.  
+3. Bupati adalah Bupati Sikka.  
+4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD  adalah Dewan Perwakilan Rakyat Daerah Kabupaten Sikka.  
+5. Sekretaris Daerah adalah Sekretaris Daerah Kabupaten Sikka.  
 6. Satuan Kerja Perangkat Daerah yang selanjutnya disingkat SKPD  adalah Satuan Kerja Perangkat Daerah pada Pemerintah Daerah  Kabupaten Sikka.  
 7. Anak adalah seseorang yang belum berusia 18 tahun, termasuk yang  ada dalam kandungan.  
 8. Korban adalah perempuan dan anak yang mengalami tindak kekerasan  dan/atau ancaman kekerasan yang mencakup kekerasan fisik,  seksual, psikologis, ekonomi dan/atau sosial, dalam keluarga,  komunitas dan/atau masyarakat, dalam situasi konflik, pasca konflik,  dan negara.  
@@ -106,7 +113,6 @@ Pengaturan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan ber
 
 Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak  kekerasan bertujuan untuk:  
 a. mencegah segala bentuk tindakan kekerasan termasuk perdagangan  orang;  
-
 b.menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. melindungi, memberi rasa aman bagi korban tindak kekerasan;  
 d.memberikan pelayanan kepada korban kekerasan; dan  
@@ -126,7 +132,8 @@ d. Orangtua.
 
 #### Pasal 6
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana  dimaksud dalam Pasal 5 huruf a, meliputi:a. menetapkan dan melaksanakan kebijakan, program dan kegiatan  perlindungan perempuan dan anak korban kekerasan;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana  dimaksud dalam Pasal 5 huruf a, meliputi:  
+a. menetapkan dan melaksanakan kebijakan, program dan kegiatan  perlindungan perempuan dan anak korban kekerasan;  
 b. melakukan kerjasama dalam penyelenggaraan perlindungan  perempuan dan anak dari korban kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan perempuan dan anak dari korban kekerasan;  
 d. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak korban kekerasan sesuai dengan kemampuan keuangan  daerah; dan  
@@ -137,12 +144,14 @@ e. membina dan mengawasi penyelenggaraan perlindungan perempuan  dan anak korban
 #### Pasal 7
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud  dalam Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta  masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mengasuh, memelihara, mendidik, dan melindungi anak;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:  
+a. mengasuh, memelihara, mendidik, dan melindungi anak;  
 b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat dan  minatnya;  
 c. mencegah terjadinya perkawinan pada usia anak-anak;  
 d. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
 e. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak korban kekerasan kepada penegak  hukum atau pihak yang berwenang; dan  
-f. turut serta dalam penanganan korban tindak kekerasan. (3) Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan  tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), dapat beralih kepada keluarga, yang  dilaksanakan sesuai dengan ketentuan Peraturan Perundang-undangan  yang berlaku.  
+f. turut serta dalam penanganan korban tindak kekerasan.  
+3. Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan  tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), dapat beralih kepada keluarga, yang  dilaksanakan sesuai dengan ketentuan Peraturan Perundang-undangan  yang berlaku.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2)  dilaksanakan secara bertanggungjawab sesuai dengan Peraturan  Perundang-undangan.  
 
 #### Pasal 8
@@ -155,7 +164,8 @@ Kewajiban keluarga dan/atau orangtua sebagaimana dimaksud dalam Pasal  5 huruf c
 
 #### Pasal 9
 
-1. Pemerintah Daerah dalam upaya untuk mecegah terjadi tindak  kekerasan terhadap perempuan dan anak melakukan pemberdayaan dan penyadaran kepada keluarga, orangtua dan masyarakat dengan  memberikan informasi, bimbingan dan/atau penyuluhan. (2) Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Darerah melakukan upaya sebagai berikut:  
+1. Pemerintah Daerah dalam upaya untuk mencegah terjadi tindak  kekerasan terhadap perempuan dan anak melakukan pemberdayaan dan penyadaran kepada keluarga, orangtua dan masyarakat dengan  memberikan informasi, bimbingan dan/atau penyuluhan.  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Darerah melakukan upaya sebagai berikut:  
 a. meningkatkan jumlah dan mutu pendidikan baik formal maupun non  formal dan informal;  
 b. membuka aksebilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. membuka lapangan kerja bagi perempuan;  
@@ -165,7 +175,8 @@ f. membangun jejaring dan kerja sama dengan aparatur penegak  hukum, aparatur pe
 
 #### Pasal 10
 
-1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 9, dilaksanakan oleh SKPD yang  tugas dan fungsinya di bidang:a. sosial;  
+1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 9, dilaksanakan oleh SKPD yang  tugas dan fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
@@ -180,19 +191,23 @@ g. ketentraman dan ketertiban.
 
 #### Pasal 11
 
-1. Bentuk pelayanan yang diberikan kepada perempuan dan anak korban  kekerasan, sebagai berikut:a. pelayanan pengaduan;  
+1. Bentuk pelayanan yang diberikan kepada perempuan dan anak korban  kekerasan, sebagai berikut:  
+a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial, dan medikolegal; dan  
 f. pelayanan psikologis.  
-2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai dengan standar pelayanan minimal yang ditetapkan Pemerintah  Daerah dan dilaksanakan oleh SKPD yang tugas dan fungsinya di  bidang:a. sosial;  
+2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai dengan standar pelayanan minimal yang ditetapkan Pemerintah  Daerah dan dilaksanakan oleh SKPD yang tugas dan fungsinya di  bidang:  
+a. sosial;  
 b. kesehatan;  
-c. pemberdayaan perempuan dan perlindungan anak; dan d. mental dan spiritual.Dalam pelaksanaan pelayanan sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah dapat bekerjasama  dengan instansi Pemerintah, Pemerintah Daerah lain dan masyarakat. (3) Ketentuan lebih lanjut mengenai tata cara pelayanan penanganan  perlindungan perempuan dan anak korban kekerasan sebagaimana  diamaksud pada ayat (1), ayat (2), dan ayat (3), diatur dengan Peraturan Bupati.  
+c. pemberdayaan perempuan dan perlindungan anak; dan  
+d. mental dan spiritual.Dalam pelaksanaan pelayanan sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah dapat bekerjasama  dengan instansi Pemerintah, Pemerintah Daerah lain dan masyarakat.  
+3. Ketentuan lebih lanjut mengenai tata cara pelayanan penanganan  perlindungan perempuan dan anak korban kekerasan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3), diatur dengan Peraturan Bupati.  
 
 #### Pasal 12
 
-Pemerintah Daerah wajib menyediakan unit pelayanan pengaduan  perlindungan perempuan dan anak korban kekerasan.  
+Pemerintah Daerah wajib menyediakan unit pelayanan pengaduan perlindungan perempuan dan anak korban kekerasan.  
 
 #### Pasal 13
 
@@ -252,7 +267,8 @@ Kerjasama
 
 #### Pasal 18
 
-1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak  korban kekerasan sebagaimana dimaksud dalam Pasal 4, Pemerintah  Daerah dapat bekerjasama dengan:a. Pemerintah;  
+1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak  korban kekerasan sebagaimana dimaksud dalam Pasal 4, Pemerintah  Daerah dapat bekerjasama dengan:  
+a. Pemerintah;  
 b. Pemerintah provinsic. Kabupaten/Kota lain; dan  
 d. Lembaga non pemerintah.  
 2. Kerjasama sebagaimana dimaksud pada ayat (1) meliputi:  
@@ -282,7 +298,9 @@ d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban kekerasan.
 
 #### Pasal 20
 
-1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan perempuan dan anak korban kekerasan. (2) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1),  meliputi:a. pedoman dan standar pemenuhan;  
+1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
+2.  Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1),  meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantuan; dan  
@@ -326,47 +344,43 @@ c. Sumber pendapatan lain yang sifatnya tidak mengikat.
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Sikka.  
 
-Ditetapkan di Maumere pada tanggal 31 Desember 2012
+Ditetapkan di Maumere  
 
-##### BUPATI SIKKA,
+pada tanggal 31 Desember 2012  
 
-##### CAP.TTD.  
+BUPATI SIKKA,  
 
-##### SOSIMUS MITANG
+CAP.TTD.  
 
-Diundangkan di Maumere pada tanggal 17 Januari 2013
+SOSIMUS MITANG  
 
-##### SEKRETARIS DAERAH KABUPATEN SIKKA,
+Diundangkan di Maumere  
 
-##### CAP.TTD.  
+pada tanggal 17 Januari 2013  
 
-##### VALENTINUS SILI TUPEN
+SEKRETARIS DAERAH KABUPATEN SIKKA,  
 
-##### LEMBARAN DAERAH KABUPATEN SIKKA TAHUN 2013 NOMOR 4
+CAP.TTD.  
 
-Salinan sesuai dengan Aslinya
+VALENTINUS SILI TUPEN  
 
-##### KEPALA BAGIAN HUKUM
+LEMBARAN DAERAH KABUPATEN SIKKA TAHUN 2013 NOMOR 4  
 
-##### SEKRETARIAT DAERAH KABUPATEN SIKKA,
+Salinan sesuai dengan Aslinya 
 
-##### CAP.TTD.  
+KEPALA BAGIAN HUKUM  
 
-##### MADERLUNG
+SEKRETARIAT DAERAH KABUPATEN SIKKA,  
 
-##### PENJELASAN
+CAP.TTD.  
 
-##### ATAS
+MADERLUNG  
 
-##### PERATURAN DAERAH KANUPATEN SIKKA
+# PENJELASAN ATAS PERATURAN DAERAH KANUPATEN SIKKA
 
-##### NOMOR 12 TAHUN 2012
+NOMOR 12 TAHUN 2012 TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN  KEKERASAN  
 
-##### TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN  KEKERASAN
-
-##### I. UMUM
+#### I. UMUM
 
 Berbagai tindakan kekerasan baik terhadap perempuan maupun  anak di dalam rumah tangga maupun di luar rumah tangga terus  meningkat dari waktu ke waktu. Kondisi ini, apabila tanpa suatu  penanganan yang serius, akan menghancurkan kehidupan rumah  tangga, masyarakat, bangsa dan negara. Oleh karena itu, pemerintah  Kabupaten Sikka berkewajiban memberikan perlindungan kepada  perempuan dan anak korban tindak kekerasan yang merupakan  implementasi dari berbagai peraturan perundang-undangan, diantaranya  Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi manusia,  Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan  Dalam Rumah Tangga, Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Perdagangan Orang, Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak.  
 
@@ -376,149 +390,239 @@ Atas dasar itu, pemerintah Kabupaten Sikka telah melakukan  langkah-langkah seba
 
 Adanya Peraturan Daerah tentang Penyelenggaran Perlindungan  Perempuan dan Anak Korban Kekerasan, memberikan tanggung jawab  kepada Pemerintah Daerah mulai dari pencegahan terjadi tindak  kekerasan hingga penanganan korban tindak kekerasan. Dalam  implementasinya Pemerintah Daerah bekerjasama dengan instansi  pemerintah, pemerintah daerah lain dan masyarakat. Selain itu,  dukungan pendanaan yang memadai baik dari pemerintah, Pemerintah  Daerah maupun peran serta masyarakat dunia usaha dan masyarakat,  diharapkan kekerasan terhadap perempuan dan anak dapat berkurang  bahkan pada waktunya akan terhapus dari muka bumi Sikka tercinta ini.  
 
-##### II. PASAL DEMI PASAL
+#### II. PASAL DEMI PASAL
 
 #### Pasal 1
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 2
 
-Huruf a Asas kemanusian menjadi landasan konsep perlindungan  perempuan dan anak korban dari tindak kekerasan,  merupakan penghormatan hak asasi manusia serta harkat  dan martabat setiap warga negara dan penduduk  Indonesia secaraproporsional (sila kedua Pancasila).  
+Huruf a  
+Asas kemanusian menjadi landasan konsep perlindungan  perempuan dan anak korban dari tindak kekerasan,  merupakan penghormatan hak asasi manusia serta harkat  dan martabat setiap warga negara dan penduduk  Indonesia secaraproporsional (sila kedua Pancasila).  
 
-Huruf b Asas keadilan dan kesetaraan gender, bahwa keadilan gender  merupakan suatu proses untuk menjadi adil terhadap laki-laki dan perempuan. Kesetaraan gender adalah kesamaan kondisi  bsgi lski-lski dsn perempun untuk memperoleh kesempatan  dan hak-haknya sebagai manusia, agar mampu berperan dan  berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya,  pemerintahan dan kesamaan dalam menikmatihasil  pembangunan.  
+Huruf b  
+Asas keadilan dan kesetaraan gender, bahwa keadilan gender  merupakan suatu proses untuk menjadi adil terhadap laki-laki dan perempuan. Kesetaraan gender adalah kesamaan kondisi  bsgi lski-lski dsn perempun untuk memperoleh kesempatan  dan hak-haknya sebagai manusia, agar mampu berperan dan  berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya,  pemerintahan dan kesamaan dalam menikmatihasil  pembangunan.  
 
-Huruf c Asas non diskriminasi, bahwa dalam memberikan perlindungan  terhadap perempuan dan anak korban tindak kekerasan tidak  membeda-bedakan atas dasar usia, jenis kelamin, ras, etnis,  suku, agama dan antar golongan.  
+Huruf c  
+Asas non diskriminasi, bahwa dalam memberikan perlindungan  terhadap perempuan dan anak korban tindak kekerasan tidak  membeda-bedakan atas dasar usia, jenis kelamin, ras, etnis,  suku, agama dan antar golongan.  
 
-Huruf d Asas kepentingan yang terbaik bagi korban, bahwa semua  tindakan yang menyangkut perempuan dan anak yang  dilakukan oleh keluarga, masyarakat dan Pemerintah daerah  untuk memenuhi hak-hak perempouan dan korban tindakan  kekerasan sebagaimana diatur dalam peraturan perundang undangan.  
+Huruf d  
+Asas kepentingan yang terbaik bagi korban, bahwa semua  tindakan yang menyangkut perempuan dan anak yang  dilakukan oleh keluarga, masyarakat dan Pemerintah daerah  untuk memenuhi hak-hak perempouan dan korban tindakan  kekerasan sebagaimana diatur dalam peraturan perundang undangan.  
 
-Huruf e Cukup jelas
+Huruf e  
+Cukup jelas.  
 
 #### Pasal 3
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 4
 
-Huruf a Yang dimaksud dengan perdagangan orang adalah tindakan  perekrutan, pengangkutan, penampungan, pengiriman,  pemindahan, atau penerimaan seseorang dengan ancaman  kekerasan, penculikan, penyekapan, pemalsuan dokumen atau  identitas, penipuan, penyalagunaan kekuasaan atau posisi  rentan, penjeratan, utang atau memberibayaran atau manfaat,  sehingga memperoleh persetujuan dari orang yang memegang  kendali atau orang lain tersebut, baik yang dilakukan di dalam  negara maupun antar negara, untuk tujuan eksploitasiatau  mengakibatkan orang tereksploitasi.  
+Huruf a  
+Yang dimaksud dengan perdagangan orang adalah tindakan  perekrutan, pengangkutan, penampungan, pengiriman,  pemindahan, atau penerimaan seseorang dengan ancaman  kekerasan, penculikan, penyekapan, pemalsuan dokumen atau  identitas, penipuan, penyalagunaan kekuasaan atau posisi  rentan, penjeratan, utang atau memberibayaran atau manfaat,  sehingga memperoleh persetujuan dari orang yang memegang  kendali atau orang lain tersebut, baik yang dilakukan di dalam  negara maupun antar negara, untuk tujuan eksploitasiatau  mengakibatkan orang tereksploitasi.  
 
-Huruf b Yang dimaksud dengan eksploitasi adalah tidandakan dengan  atau tanpa persetujuan korban yang meliputi; pelacuran, kerja  atau pelayanan paksa perbudakan atau praktek serupa  perbudakan, penindasan, pemerasan, pemanfaatan fisik  seksual organ reproduksi, atau secara melawan hukum  memindahlan/memanfaatkan tenaga atau mentranspalasi  organ dan atau jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materiil maupun immateriil.  
+Huruf b  
+Yang dimaksud dengan eksploitasi adalah tidandakan dengan  atau tanpa persetujuan korban yang meliputi; pelacuran, kerja  atau pelayanan paksa perbudakan atau praktek serupa  perbudakan, penindasan, pemerasan, pemanfaatan fisik  seksual organ reproduksi, atau secara melawan hukum  memindahlan/memanfaatkan tenaga atau mentranspalasi  organ dan atau jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materiil maupun immateriil.  
 
-Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
 
 #### Pasal 5
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 6
 
-Ayat (1) Huruf a Cukup jelas Huruf b Yang dimaksud dengan menetapkan dan melaksanakan  kebijakan, program dan kegiatan perlindungan meliputi;  
+Ayat (1)  
+Huruf a  
+Cukup jelas.  
+
+Huruf b  
+Yang dimaksud dengan menetapkan dan melaksanakan  kebijakan, program dan kegiatan perlindungan meliputi;  
 a. Mengumpulkan data dan informasi tentang  perempuan dan anak korban kekerasan;  
 b. Memberikan pendidikan tentang nilai-nilai anti  kekerasan terhadap perempuan dan anak;  
 c. Melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan  perlindungan perempuan dan anak korban kekerasand. Melakukan pemantauan dan evaluasi terhadap  penyelenggaraan perlindungan perempuan dan anak  korban kekerasan.  
 
-Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Ayat (2) Yang diamksud dengan Rencana Aksi Daerah adalah tahapan program dan kegiatan penyelenggaraan perlindungan  perempuan dan anak korban tindak kekerasan termasuk  bentuk pekerjaan terburuk bagi anak yang harus dilakukan  SKPD sesuai dengan tugas dan fungsinya, disusun berdasarkan  target pencapaian dalam jangka waktu (lima) tahun.  
+Huruf c  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Cukup jelas.  
+
+Ayat (2)  
+Yang diamksud dengan Rencana Aksi Daerah adalah tahapan program dan kegiatan penyelenggaraan perlindungan  perempuan dan anak korban tindak kekerasan termasuk  bentuk pekerjaan terburuk bagi anak yang harus dilakukan  SKPD sesuai dengan tugas dan fungsinya, disusun berdasarkan  target pencapaian dalam jangka waktu (lima) tahun.  
+
+Ayat (3)  
+Cukup jelas.  
+
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 7
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Ayat (1) Huruf a Yang dimaksud dengan pelayanan pengaduan adalah  serangkaian tindakan yang dilakukan oleh penyelenggara  lembaga layanan terpadu untukm menindaklanjuti laporan adanya tindak kekerasan terhadap perempuan  dan anak yang diajukan korban, keluarga dan/atau  masyarakat.  
+Ayat (1)  
+Huruf a  
+Yang dimaksud dengan pelayanan pengaduan adalah  serangkaian tindakan yang dilakukan oleh penyelenggara  lembaga layanan terpadu untukm menindaklanjuti laporan adanya tindak kekerasan terhadap perempuan  dan anak yang diajukan korban, keluarga dan/atau  masyarakat.  
 
-Huruf b Yang dimaksud dengan pelayanan kesehatan adalah  upaya yang meliputi aspek promotif, preventif, kuratif  dan rehabilitasi.  
+Huruf b  
+Yang dimaksud dengan pelayanan kesehatan adalah  upaya yang meliputi aspek promotif, preventif, kuratif  dan rehabilitasi.  
 
-Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Yang diamksud dengan rehabilitasi sosial adalah  pelayanan yang ditujukan untuk memulihkan dan  mengembangkan kemampuan seseorang yang mengalami  disfungsi sosial agar dapat melaksanakan fungsi  sosialnya secara wajar.  
+Huruf c  
+Cukup jelas.  
 
-Huruf f Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Yang diamksud dengan rehabilitasi sosial adalah  pelayanan yang ditujukan untuk memulihkan dan  mengembangkan kemampuan seseorang yang mengalami  disfungsi sosial agar dapat melaksanakan fungsi  sosialnya secara wajar.  
+
+Huruf f  
+Cukup jelas.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
-Huruf a Yang diamaksud hak untuk dihormati harkat dan marbatanya  adalah menjujung tinggi hak-hak asasi manusia.  
+Huruf a  
+Yang diamaksud hak untuk dihormati harkat dan marbatanya  adalah menjujung tinggi hak-hak asasi manusia.  
 
-Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Yang dimaksud hak untuk mendapatkan informasi adalah hak  untuk mendapatkan keterangan, pernyataan, gagasan, dan  tanda-tanda yang mengandung nilai, makna, dan pesan, baik  data, fakta maupun penjelasannya yang dapat dilihat, didengar  dan dibaca yang disajikan dalam berbagai kemasan dan format  sesuai dengan perkembangan teknologi informasi dan  komunikasi secara elektronik ataupun non elektronik yang  terkait tindakan kekerasan.  
+Huruf b  
+Cukup jelas.  
 
-Huruf e Cukup jelas Huruf f Yang dimaksud dengan hak korban atas rehabilitasi sosial,  meliputi; akses pada layanan medis untuk pemulihan fisik dan  psikologis, bantuan hukum untuk mengembalikan hak-hak  keperdataan, pemulihan nama baik, kewarganegaraan.  
+Huruf c  
+Cukup jelas.  
 
-Huruf g Yang dimaksud dengan hak atas kompensasi, meliputi;  pemberdayaan ekonomi, biaya pemulangan, jaminan kesehatan  dan pendidikan atau ketrampilan.  
+Huruf d  
+Yang dimaksud hak untuk mendapatkan informasi adalah hak  untuk mendapatkan keterangan, pernyataan, gagasan, dan  tanda-tanda yang mengandung nilai, makna, dan pesan, baik  data, fakta maupun penjelasannya yang dapat dilihat, didengar  dan dibaca yang disajikan dalam berbagai kemasan dan format  sesuai dengan perkembangan teknologi informasi dan  komunikasi secara elektronik ataupun non elektronik yang  terkait tindakan kekerasan.  
 
-Huruf h Yang dengan hak atas penanganan pengaduan adalah  tersedianya unit khusus layanan terpadu oleh petugas. Huruf i Cukup jelas Huruf j Yang dimaksud dengan hak atas pendampingan antara lain  psikolog, psikiater, ahli kesehatan, rohaniwan, advokat dan  anggota keluarga.  
+Huruf e  
+Cukup jelas.  
+
+Huruf f  
+Yang dimaksud dengan hak korban atas rehabilitasi sosial,  meliputi; akses pada layanan medis untuk pemulihan fisik dan  psikologis, bantuan hukum untuk mengembalikan hak-hak  keperdataan, pemulihan nama baik, kewarganegaraan.  
+
+Huruf g  
+Yang dimaksud dengan hak atas kompensasi, meliputi;  pemberdayaan ekonomi, biaya pemulangan, jaminan kesehatan  dan pendidikan atau ketrampilan.  
+
+Huruf h  
+Yang dengan hak atas penanganan pengaduan adalah  tersedianya unit khusus layanan terpadu oleh petugas. Huruf i Cukup jelas Huruf j Yang dimaksud dengan hak atas pendampingan antara lain  psikolog, psikiater, ahli kesehatan, rohaniwan, advokat dan  anggota keluarga.  
 
 Yang dimaksud dengan pendamping adalah individu yang  bekerja sebagai sukarelawan untuk memberikan perlindungan  dan dukungan kepada perempuan dan anak yang menjadi  korban tindak kekerasan selama proses peradilan, para  pendamping bisa berasal dari anggota keluarga, teman, atau  organisasi independen yang memberikan perhatian pada dan  korban maupun advokat.  
 
 #### Pasal 17
 
-Huruf a Cukup jelas Huruf b Yang dimaksud hak dasar adalah termasuk hak untuk  mendapatkan pendidikan dan akses kepada orang tua selama  proses penangan berlangsung.  
+Huruf a  
+Cukup jelas.  
 
-Huruf c Yang dimaksud hak perlindungan yang sama adalah berkaitan  dengan status, kewarganegaraan, ras, warna kulit, jenis  kelamin, bahasa, keyakinan, agama, politik atau pendapat  lain,, etnis atau kehidupan sosialnya, kepemilikan, kelahiran  atau status lain.  
+Huruf b  
+Yang dimaksud hak dasar adalah termasuk hak untuk  mendapatkan pendidikan dan akses kepada orang tua selama  proses penangan berlangsung.  
 
-Huruf d Cukup jelas Huruf e Yang dimaksud dengan hak mendapat kebebasan adalah bebas  mengekspresikan pandangannya terhadap semua hal,  termasuk yang berkaitan dengan proses hukum, perawatan dan  perlindungan sementara serta identifikasi dan pelaksanaan  solusi selanjutnya.  
+Huruf c  
+Yang dimaksud hak perlindungan yang sama adalah berkaitan  dengan status, kewarganegaraan, ras, warna kulit, jenis  kelamin, bahasa, keyakinan, agama, politik atau pendapat  lain,, etnis atau kehidupan sosialnya, kepemilikan, kelahiran  atau status lain.  
+
+Huruf d  
+Cukup jelas.  
+
+Huruf e  
+Yang dimaksud dengan hak mendapat kebebasan adalah bebas  mengekspresikan pandangannya terhadap semua hal,  termasuk yang berkaitan dengan proses hukum, perawatan dan  perlindungan sementara serta identifikasi dan pelaksanaan  solusi selanjutnya.  
 
 #### Pasal 18
 
-Ayat (1) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Yang dimaksud dengan lembaga non pemerintah  meliputi; lembaga adat, lembaga agama, lembaga sosial,  LSM, Komisi Nasional Hak Asasi Manusia, Komisi  Nasional Anti Kekerasan terhadap Perempuan, Komisi  Perlindungan Anak, Lembaga Perlindungan Saksi dan  Korban, termasuk tokoh masyarakat, tokoh adat, tokoh  agama dan pihak-pihak lain yang dikehendaki oleh  korban.  
+Ayat (1)  
+Huruf a  
+Cukup jelas.  
 
-Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Huruf b  
+Cukup jelas.  
+
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Yang dimaksud dengan lembaga non pemerintah  meliputi; lembaga adat, lembaga agama, lembaga sosial,  LSM, Komisi Nasional Hak Asasi Manusia, Komisi  Nasional Anti Kekerasan terhadap Perempuan, Komisi  Perlindungan Anak, Lembaga Perlindungan Saksi dan  Korban, termasuk tokoh masyarakat, tokoh adat, tokoh  agama dan pihak-pihak lain yang dikehendaki oleh  korban.  
+
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 19
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
-Ayat (1) Yang dimaksud dengan kelembagaan yang dibentuk adalah  termasuk rumah pemulihan atau rumah aman yang dibentuk oleh lembaga sosial yang berfungsi memberikan pelayanan  perlindungan bagi korban tindak kekerasan.  
+Ayat (1)  
+Yang dimaksud dengan kelembagaan yang dibentuk adalah  termasuk rumah pemulihan atau rumah aman yang dibentuk oleh lembaga sosial yang berfungsi memberikan pelayanan  perlindungan bagi korban tindak kekerasan.  
 
-Ayat (2) Cukup jelas
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 24
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 25
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN SIKKA NOMOR 71
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SIKKA NOMOR 71  

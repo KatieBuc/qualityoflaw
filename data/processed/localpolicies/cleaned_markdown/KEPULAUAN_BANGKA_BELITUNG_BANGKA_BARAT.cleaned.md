@@ -1,16 +1,18 @@
-# PEMERINTAH KABUPATEN BANGKA BARAT
+# KERJASAMA PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN
+
+PEMERINTAH KABUPATEN BANGKA BARAT
 
 # PERATURAN DAERAH KABUPATEN BANGKA BARAT
 
-# NOMOR 15 TAHUN 2011
+NOMOR 15 TAHUN 2011  
 
-# TENTANG
+TENTANG  
 
-KERJASAMA PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN
+KERJASAMA PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# BUPATI BANGKA BARAT,
+BUPATI BANGKA BARAT,  
 
 Menimbang:  
  
@@ -34,7 +36,6 @@ Mengingat:
  
  
 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi  mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita  (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan  Lembaran Negara Republik Indonesia Nomor 3277 );  
-
 2. Undang-Undang Nomor 3 Tahun 1997 tentang Pengadilan Anak (Lembaran  Negara Republik Indonesia Tahun 1997 Nomor 3, Tambahan Lembaran  Negara Republik Indonesia Nomor 3668);  
 3. Undang-Undang Nomor 5 Tahun 1998 Tentang Pengesahan Konvensi  Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain Yang  Kejam, Tidak Manusiawi, Atau Merendahkan Martabat Manusia (Lembaran  Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran  Negara Republik Indonesia Nomor 3783);  
 4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia  (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan  Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -46,13 +47,19 @@ Mengingat:
 9. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan  Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi dan  Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Republik  Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik  Indonesia Nomor 4737);  
 10. Peraturan Daerah Kabupaten Bangka Barat Nomor 2 Tahun 2008 tentang  Kewenangan Kabupaten Bangka Barat (Lembaran Daerah Kabupaten  Bangka Barat Tahun 2008 Nomor 1 Seri D);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGKA BARAT dan
+Dengan Persetujuan Bersama  
 
-# BUPATI BANGKA BARAT
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGKA BARAT  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG KERJASAMA  PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN  ANAK KORBAN TINDAK KEKERASAN.  
+BUPATI BANGKA BARAT  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG KERJASAMA PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN.  
 
 # BAB I
 
@@ -60,8 +67,7 @@ Menetapkan: PERATURAN DAERAH TENTANG KERJASAMA  PENYELENGGARAAN PERLINDUNGAN PER
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Pemerintah Daerah adalah Pemerintah Kabupaten Bangka Barat.  
 2. Bupati adalah Bupati Bangka Barat.  
 3. Perangkat Daerah Kabupaten adalah unsur pembantu Kepala Daerah dalam  penyelenggaraan pemerintah daerah yang terdiri dari Sekretariat Daerah, Sekretariat DPRD, Dinas Daerah dan lembaga Teknis Daerah.  
@@ -130,7 +136,8 @@ Pelayanan sebagaiman dimaksud dalam Pasal 7ayat (2) meliputi:
 a. pelayanan kesehatan;  
 b. pendampingan korban;  
 c. konseling;  
-d. bimbingan rohani;dane. resosialisasi.  
+d. bimbingan rohani; dan  
+e. resosialisasi.  
 
 #### Pasal 9
 
@@ -216,20 +223,22 @@ Hal-hal lain yang belum diatur dalam Peraturan Daerah ini, diatur lebih lanjut  
 
 Peraturan Daerah ini mulai berlaku sejak tanggal ditetapkan.  
 
-Agar setiap orang mengetahui, memerintahkan pengundangan Peraturan Daerah  ini dengan penempatannya dalam Lembaran Daerah Kabupaten Bangka Barat.  
+Agar setiap orang mengetahui, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Bangka Barat.  
 
-Ditetapkan di Muntok pada tanggal 6 Juni 2011
+Ditetapkan di Muntok  
 
-##### BUPATI BANGKA BARAT,
+pada tanggal 6 Juni 2011  
 
-cap/dto Ust.H.ZUHRI M.SYAZALI Diundangkan di Muntok pada tanggal 6 Juni 2011
+BUPATI BANGKA BARAT,  
 
-##### SEKRETARIS DAERAH
+cap/dto Ust.H.ZUHRI M.SYAZALI Diundangkan di Muntok pada tanggal 6 Juni 2011  
 
-##### KABUPATEN BANGKA BARAT,
+SEKRETARIS DAERAH  
 
-cap/dto
+KABUPATEN BANGKA BARAT,  
 
-##### RAMLI NGAD JUM
+cap/dto  
 
-LEMBARAN DAERAH KABUPATEN BANGKA BARAT TAHUN 2011 NOMOR 2 SERI E
+RAMLI NGAD JUM  
+
+LEMBARAN DAERAH KABUPATEN BANGKA BARAT TAHUN 2011 NOMOR 2 SERI E  

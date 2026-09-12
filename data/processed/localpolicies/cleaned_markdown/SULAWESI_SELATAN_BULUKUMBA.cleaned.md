@@ -1,16 +1,20 @@
-1 -
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK 
 
-# BUPATI BULUKUMBA
+BUPATI BULUKUMBA  
 
-# PROVINSI SULAWESI SELATAN
+PROVINSI SULAWESI SELATAN  
 
-# PERATURAN DAERAH KABUPATEN BULUKUMBA  NOMOR 3 TAHUN 2024
+# PERATURAN DAERAH KABUPATEN BULUKUMBA  
 
-# TENTANG
+NOMOR 3 TAHUN 2024  
 
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA
+TENTANG  
 
-# BUPATI BULUKUMBA,
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI BULUKUMBA,  
 
 Menimbang:  
  
@@ -31,23 +35,25 @@ Mengingat:
  
  
 1. Pasal18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 29 Tahun 1959 tentang  Pembentukan Daerah Tingkat II di Sulawesi (Lembaran  Negara Republik Indonesia Tahun 1959 Nomor 74,  Tambahan Lembaran Negara Republik Indonesia Nomor  1822);  
 3. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia  Tahun 2014 Nomor 244, Tambahan Lembaran Negara  Republik Indonesia Nomor 5587) sebagaimana telah diubah  beberapa kaliterakhir dengan Undang-Undang Nomor 6  Tahun 2023 tentang Penetapan Peraturan Pemerintah  Pengganti Undang-Undang Nomor 2 tahun 2022 tentang  Cipta Kerja menjadi Undang-Undang (Lembaran Negara  Republik Indonesia Tahun 2023 Nomor 41, Tambahan  Lembaran Negara Republik Indonesia Nomor 6856);  
 4. Undang-Undang Nomor 12 Tahun 2022 tentang Tindak  Pidana Kekerasan Seksual (Lembaran Negara Republik  Indonesia Tahun 2022 Nomor 120, Tambahan Lembaran  Negara Republik Indonesia Nomor 6792);  
-
-2 -
-
 5. Undang-Undang Nomor 23 tahun 2022 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia  Tahun 2022 Nomor 109, Tambahan Lembaran Negara  Republik Indinesia Nomor 4235) sebagaimana telah diubah  dengan Undang-Undang Nomor 35 tahun 2014 tentang  Perubahan atas Undang-Undang Nomor 23 tahun 2014  tentang Perlindungan Anak (Lembaran Negara Republik  Indonesia tahun 2014 Nomor 297, Tambahan Lembaran  Negara Republik Indonesia Nomor 5606)
 6. Peraturan Menteri Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 3 Tahun 2023 tentang  Penyelenggaraan Urusan Pemerintahan Konkuren Bidang  Pemberdayaan Perempuan dan Perlindungan Anak (Berita  Negara Republik Indonesia Tahun 2023 Nomor 175);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BULUKUMBA  Dan
+Dengan Persetujuan Bersama  
 
-# BUPATI KABUPATEN BULUKUMBA
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BULUKUMBA  
 
-# MEMUTUSKAN:
+Dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN ANAK.  
+BUPATI KABUPATEN BULUKUMBA  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -55,8 +61,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN PEREMPUAN DAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Bulukumba.  
 2. Pemerintah adalah badan atau organisasi yang menjalankan kekuasaan  pemerintahan suatu negara. Pemerintah memiliki tugas untuk  menyelenggarakan urusan pemerintahan, mulai dari tingkat pusat,  provinsi, kabupaten, kotamadya, kecamatan, kelurahan, hingga desa.  
 3. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara  Pemerintah Daerah yang memimpin pelaksanaan urusan pemerintahan  yang menjadi kewenangan daerah otonom.  
@@ -65,9 +70,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 6. Pemerintah Desa adalah penyelengaraan urusan pemerintahan dan  kepentingan masyarakat setempat dalam sistem pemerintahan negara  kesatuan republik Indonesia.  
 7. Anggaran Pendapatan dan Belanja Daerah yang selanjutnya disingkat  APBD adalah rencana keuangan tahunan pemerintahan daerah yang  dibahas dan disetujui bersama oleh Pemerintah Daerah dan DPRD, dan  ditetapkan dengan Peraturan Daerah.  
 8. Anggaran Pendapatan dan Belanja Desa yang selanjutnya disebut APBDes  adalah rencana keuangan tahunan pemerintah desa yang dibahas dan  disetujui bersama oleh Kepala Desa dan Badan Perwakilan Desa yang  ditetapkan melalui Peraturan Desa.  
-
-3 -
-
 9. Perempuan adalah orang yang mempunyai alat kelamin perempuan yang  dapat menstruasi dan hamil atau telah mendapat status hukum sebagai  perempuan.  
 10. Penyelenggaraan Perlindungan Perempuan dan Anak adalah upaya yang  terarah, terpadu, dan berkelanjutan yang dilakukan PemerintahPusat,  Pemerintah Daerah, Pemerintah Desa, dan masyarakat guna memenuhi  hak-hak perempuan dan anaksebagai warga negara dalam ruang lingkup  Peraturan Daerah ini.  
 11. Perlindungan Perempuan adalah segala upaya untuk melindungi dan  memberikan rasa aman kepada perempuan serta pemenuhan haknya  melalui perhatian yang konsisten, terstruktur, dan sistematis yang  ditujukan untuk mencapai kesetaraan gender.  
@@ -82,9 +84,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 20. Masyarakat adalah orang perseorangan warga negara Indonesia, kelompok  masyarakat, dan/atau Ormas.  
 21. Unit Pelaksana Teknis Perlindungan Perempuan dan Anak yang  selanjutnya disingkat UPT PPA adalah unit pelaksana teknis operasional  pada satuan kerja yang menyelenggarakan urusan pemerintahan di bidang  pemberdayaan perempuan dan perlindungan anak, yang berfungsi sebagai  penyelenggara pelayanan terpadu bagi perempuan dan Anak yang  mengalami kekerasan, diskriminasi, dan masalah lainnya.  
 22. Kabupaten Layak Anak adalah kabupaten yang mempunyai sistem  pembangunan berbasis hak anak melalui pengintegrasian komitmen dan  sumberdaya pemerintah, masyarakat dan dunia usaha yang terencana  secara menyeluruh dan berkelanjutan dalam kebijakan, program dan  kegiatan untuk menjamin terpenuhinya hak anak.  
-
-4 -
-
 23. Pendampingan Korban Kekerasan adalah suatu upaya atau proses untuk  mendampingi korban kekerasan dalam mengakses hak atas penanganan,  perlindungan, dan pemulihan.  
 24. Tim Reaksi Cepat yang selanjutnya disingkat TRC adalah tim yang  dibentuk oleh dinas yang membidangi Pemberdayaan Perempuan dan  Anak yang bertugas membantu UPT PPA melakukan penjangkauan dan/atau pendampingan guna mempercepat proses penanganan kasus  kekerasan terhadap perempuan dan anak.  
 25. Gugus Tugas Perlindungan Perempuan dan Anak adalah lembaga  koordinatif bentukan Pemerintah Kabupaten Bulukumba yang  mengkoordinasikan kebijakan, program dan kegiatan perlindungan  perempuan dan anak di Kabupaten Bulukumba.  
@@ -101,7 +100,8 @@ a. kemanusiaan;
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
 d. kepentingan terbaik bagi perempuan dan anak;  
-e. nondiskriminasi;danf. perlakuan khusus terhadap kelompok rentan.  
+e. non diskriminasi; dan  
+f. perlakuan khusus terhadap kelompok rentan.  
 
 #### Pasal 3
 
@@ -111,7 +111,8 @@ b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan  dan ana
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan korban tindak kekerasan,  pelapor, dan saksi;  
 e. memberikan pelayanan kepada anak baik sebagai korban, saksi maupun  sebagai pelaku kekerasan;  
-f. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mewujudkan rumah tangga yang setara dan berkeadilan; dan g. mengutamakan pelayanan dan perlindungan terhadap Kelompok Rentan.  
+f. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mewujudkan rumah tangga yang setara dan berkeadilan; dan  
+g. mengutamakan pelayanan dan perlindungan terhadap Kelompok Rentan.  
 
 # BAB III
 
@@ -123,8 +124,6 @@ Ruang Lingkup penyelenggaraan Perlindungan Perempuan dan Anak meliputi:
 a. pencegahan kekerasan;  
 b. penyediaan lembaga layanan;  
 c. penguatan kelembagaan;  
-
-5 -
 d. kewajiban dan tanggung jawab;  
 e. kerja sama;  
 f. partisipasi masyarakat; dan  
@@ -136,17 +135,21 @@ g. pendanaan.
 
 #### Pasal 5
 
-1. Pencegahan kekerasan sebagaimana dimaksud dalam Pasal 4 huruf a dilaksanakan melalui:a. perencanaan dan pelaksanaan kebijakan, program, dan kegiatan;  
+1. Pencegahan kekerasan sebagaimana dimaksud dalam Pasal 4 huruf a dilaksanakan melalui:  
+a. perencanaan dan pelaksanaan kebijakan, program, dan kegiatan;  
 b. pemberian edukasi; dan  
 c. peningkatan partisipasi masyarakat.  
 2. Pencegahan kekerasan sebagaimana dimaksud pada ayat (1), dilaksanakan  oleh Pemerintah Daerah secara terpadu dan berkesinambungan  berdasarkan Rencana Pembangunan Jangka Panjang Daerah dan Rencana  Pembangunan Jangka Menengah Daerah.  
-3. Perencanaan dan Pelaksanaan kebijakan, program dan kegiatan  sebagaimana dimaksud pada ayat (1) huruf a yakni:a. mengintegrasikan isu perlindungan perempuan dan anak ke dalam  kebijakan, program dan kegiatan Perangkat Daerah; dan  
+3. Perencanaan dan Pelaksanaan kebijakan, program dan kegiatan  sebagaimana dimaksud pada ayat (1) huruf a yakni:  
+a. mengintegrasikan isu perlindungan perempuan dan anak ke dalam  kebijakan, program dan kegiatan Perangkat Daerah; dan  
 b. menjadikan isu perlindungan perempuan dan anak sebagai salah satu  prioritas pembangunan daerah.  
 4. Pemberian edukasi sebagaimana dimaksud pada ayat (1) huruf b yakni:  
 a. memberikan informasi, bimbingan dan/atau penyuluhan;  
 b. penyediaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. menciptakan suasana lingkungan kerja yang ramah dan aman bagi  perempuan; dan  
-d. membangun serta menyediakan sistem informasi yang mudah diakses; (5) Peningkatan partisipasi Masyarakat melalui pelibatan para pihak  sebagaimana dimaksud pada ayat (1) huruf c, yakni:a. membangun dan meningkatkan partisipasi serta kepedulian  masyarakat terhadap pencegahan perlindungan perempuan dan anak;  
+d. membangun serta menyediakan sistem informasi yang mudah diakses;  
+5. Peningkatan partisipasi Masyarakat melalui pelibatan para pihak  sebagaimana dimaksud pada ayat (1) huruf c, yakni:  
+a. membangun dan meningkatkan partisipasi serta kepedulian  masyarakat terhadap pencegahan perlindungan perempuan dan anak;  
 b. membuat regulasi daerah dan mendorong Pemerintah Desa untuk  membuat Peraturan Desa terkait perlindungan terhadap perempuan  dan anak; dan  
 c. membangun jaringan dan kerja sama dengan aparatur penegak  hukum, swasta/dunia usaha, perguruan tinggi, media massa, dan  lembaga swadaya masyarakat serta lembaga kemasyarakatan yang  bergerak dan peduli terhadap perempuan dan anak.  
 
@@ -157,14 +160,14 @@ c. membangun jaringan dan kerja sama dengan aparatur penegak  hukum, swasta/duni
 #### Pasal 6
 
 1. Dalam rangka pelayanan perlindungan kepada perempuan dan anak,  Pemerintah Daerah membentuk UPT PPA.  
-2. UPT PPA sebagaimana dimaksud pada ayat (1) menyelenggarakan fungsi  layanan sebagai berikut:a. pengaduan masyarakat;  
+2. UPT PPA sebagaimana dimaksud pada ayat (1) menyelenggarakan fungsi  layanan sebagai berikut:  
+a. pengaduan masyarakat;  
 b. penjangkauan korban;  
 c. pengelolaan kasus;  
 d. penampungan sementara;  
 e. mediasi; dan  
 f. pendampingan korban.  
-
-6 - (3) Dalam melaksanakan fungsi layanan sebagaimana dimaksud pada ayat (2)  UPT PPA memerlukan dukungan:  
+3. Dalam melaksanakan fungsi layanan sebagaimana dimaksud pada ayat (2)  UPT PPA memerlukan dukungan:  
 a. infrastruktur sarana dan prasarana;  
 b. jumlah tenaga pengelola yang cukup;  
 c. sumber daya manusia yang kompeten;  
@@ -189,12 +192,14 @@ e. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan  dan pe
 f. mendampingi korban selama berada di rumah aman;  
 g. memantau kepentingan dan hak korban dalam proses pemeriksaan di  kepolisian, kejaksaan dan pengadilan;  
 h. menjaga privasi dan kerahasiaan identitas korban dari semua pihak yang  tidak berkepentingan, termasuk pemberitaan oleh media massa;  
-i. melakukan koordinasi dengan pendamping yang lain; dan j. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
+i. melakukan koordinasi dengan pendamping yang lain; dan  
+j. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
 #### Pasal 9
 
 1. Dalam melaksanakan fungsi layanan UPT PPA sebagaimana dimaksud  dalam Pasal 6 ayat (2) UPT PPA menggunakan pendekatan Manajemen  Kasus.  
-2. Pendekatan Manajemen Kasus sebagaimana dimaksud pada ayat (1) terdiri  atas:a. identifikasi;  
+2. Pendekatan Manajemen Kasus sebagaimana dimaksud pada ayat (1) terdiri  atas:  
+a. identifikasi;  
 b. assesment;  
 c. perencanaan intervensi;  
 d. pelaksanaan intervensi;  
@@ -206,8 +211,7 @@ g. terminasi kasus.
 #### Pasal 10
 
 1. Guna memaksimalkan fungsi dan peran UPT PPA maka dinas yang  membidangi Pemberdayaan Perempuan dan Anak sebagai induk UPT PPA  dapat membentuk TRC yang ditetapkan melalui keputusan Bupati.  
-
-7 - (2) Keanggotaan TRC sebagaimana dimaksud pada ayat (1) terdiri dari:  
+2.  Keanggotaan TRC sebagaimana dimaksud pada ayat (1) terdiri dari:  
 a. paralegal;  
 b. aktivis perempuan dan anak;  
 c. tenaga kesehatan;  
@@ -216,13 +220,14 @@ d. media massa; dan/ataue. pemerhati kelompok rentan.
 b. memiliki perspektif perempuan dan anak yang baik;  
 c. sehat jasmani dan rohani; dan  
 d. mempunyai kemampuan berkomunikasi yang baik diutamakan yang  mampu berbahasa isyarat.  
-4. TRC sebagaimana dimaksud pada ayat (1) mempunyai tugas dan fungsi  melakukan penjangkauan dan pendampingan korban.  
-5. TRC melaporkan hasil pelaksanaan tugas kepada kepala Dinas yang  membidangi perempuan dan anak melalui kepala UPT PPA.  
+3. TRC sebagaimana dimaksud pada ayat (1) mempunyai tugas dan fungsi  melakukan penjangkauan dan pendampingan korban.  
+4. TRC melaporkan hasil pelaksanaan tugas kepada kepala Dinas yang  membidangi perempuan dan anak melalui kepala UPT PPA.  
 
 #### Pasal 11
 
 1. Pemerintah Daerah membentuk Gugus Tugas Perlindungan Perempuan  dan Anak.  
-2. Keanggotaan Gugus Tugas sebagaimana dimaksud ayat (1) terdiri dari  Perangkat Daerah yang tugas dan fungsinya di bidang:a. kesejahteraan sosial;  
+2. Keanggotaan Gugus Tugas sebagaimana dimaksud ayat (1) terdiri dari  Perangkat Daerah yang tugas dan fungsinya di bidang:  
+a. kesejahteraan sosial;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
@@ -248,8 +253,6 @@ e. mendorong terwujudnya perencanaan dan penganggaran yang  mendukung Perlindung
 f. merumuskan rekomendasi kebijakan bupati.  
 2. Gugus Tugas sebagaimana dimaksud pada ayat (1) bertanggung jawab  kepada Bupati.  
 
-8 -
-
 #### Pasal 13
 
 Penyelenggaraan layanan pada lembaga layanan perlindungan Perempuan dan  anak dilakukan dengan prinsip:  
@@ -272,7 +275,8 @@ a. peningkatan jumlah dan kapasitas sumber daya manusia petugas layanan;
 b. pengembangan sistem komunikasi, informasi, dan edukasi tentang layanan  perlindungan perempuan dan anak;  
 c. sistem koordinasi antar UPT PPA dengan lembaga layanan lainnya di  tingkat Daerah;  
 d. sistem pendataan kasus yang terintegrasi;  
-e. sistem dan/atau mekanisme penanganan dan atau pendampingan kasus;  danf. peningkatan sarana dan prasarana layanan.  
+e. sistem dan/atau mekanisme penanganan dan atau pendampingan kasus; dan  
+f. peningkatan sarana dan prasarana layanan.  
 
 # BAB VII
 
@@ -284,7 +288,8 @@ Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan d
 a. Pemerintah Daerah;  
 b. Pemerintah Desa;  
 c. swasta;  
-d. lembaga kemasyarakatan dan organisasi masyarakat sipil; dan e. keluarga, orang tua atau wali.  
+d. lembaga kemasyarakatan dan organisasi masyarakat sipil; dan  
+e. keluarga, orang tua atau wali.  
 
 ## Bagian Kesatu
 
@@ -292,22 +297,22 @@ Pemerintah Daerah
 
 #### Pasal 16
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 15 huruf a meliputi:a. menetapkan kebijakan perlindungan perempuan dan anak;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 15 huruf a meliputi:  
+a. menetapkan kebijakan perlindungan perempuan dan anak;  
 b. melaksanakan kebijakan perlindungan perempuan dan anak dari  tindak kekerasan;  
 c. melakukan kerjasama kepada semua pihak dalam penyelenggaraan  perlindungan perempuan dan anak;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan perempuan dan anak;  
 e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak, sesuai kemampuan keuangan daerah;  
 f. mendorong peran swasta dan lembaga kemasyarakatan untuk terlibat  dalam mendukung perlindungan perempuan dan anak;  
-
-9 -
 g. mendorong lahirnya kelembagaan lokal di tingkat kelurahan dan/atau  desa untuk melakukan perlindungan terhadap perempuan dan anak;  danh. mendorong lahirnya regulasi di tingkat desa yang mengatur tentang  perlindungan perempuan dan anak;  
 i. membina dan mengawasi penyelenggaraan perlindungan perempuan  dan anak; dan  
 j. mewujudkan Kabupaten Layak Anak.  
 2. Selain kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah mempunyai kewajiban dan tanggung jawab untuk  memberikan perlindungan khusus kepada Anak.  
-3. Perlindungan Khusus kepada Anak sebagaimana dimaksud pada ayat (2)  diberikan kepada:a. anak dalam situasi darurat;  
+3. Perlindungan Khusus kepada Anak sebagaimana dimaksud pada ayat (2)  diberikan kepada:  
+a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum;  
 c. anak dari kelompok minoritas dan terisolasi;  
-d. anak yang dieksploitasi secara ekonomi dan/atau seksual termasuk  pernikahan usia anak;  
+d. anak yang dieksploitasi secara ekonomi dan/atau seksual termasuk pernikahan usia anak;  
 e. anak yang menjadi korban penyalahgunaan narkotika, alkohol,  psikotropika, dan zat adiktif lainnya;  
 f. anak yang menjadi korban pornografi;  
 g. anak dengan Human Immunodeficiency Virus/Acquired Immune  Deficiency Syndrom;  
@@ -336,8 +341,6 @@ Kewajiban dan tanggung jawab Pemerintah Desa sebagaimana dimaksud  dalam Pasal 1
 a. menetapkan kebijakan perlindungan perempuan dan anak di tingkat desa;  
 b. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak  kekerasan;  
 c. melakukan kerja sama kepada semua pihak dalam penyelenggaraan  perlindungan perempuan dan anak;  
-
-10 -
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  perempuan dan anak;  
 e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan  anak, sesuai kemampuan keuangan desa;  
 f. melibatkan lembaga kemasyarakatan di tingkat desa dalam mendukung  perlindungan perempuan dan anak;  
@@ -379,7 +382,7 @@ Kewajiban dan tanggung jawab keluarga, orang tua atau wali sebagaimana  dimaksud
 a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
 b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan  minatnya;  
 c. mencegah terjadinya perkawinan pada usia Anak; dan  
-d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada  Anak - 11 -
+d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada Anak.  
 
 # BAB VII
 
@@ -387,7 +390,8 @@ d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada  Anak - 
 
 #### Pasal 22
 
-1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak, maka  dapat dilakukan kerja sama dengan:a. pemerintah pusat;  
+1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak, maka  dapat dilakukan kerja sama dengan:  
+a. pemerintah pusat;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/kota lain;  
 d. lembaga non pemerintah;  
@@ -410,7 +414,8 @@ i. ditindaklanjuti sesuai dengan hukum yang berlaku.
 
 1. Pemerintah Daerah melakukan kemitraan dengan dunia usaha dalam  perlindungan perempuan dan anak dari tindakan kekerasan. (2) Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
 a. memberikan dukungan pembiayaan dalam pencegahan dan  penanganan kasus kekerasan Perempuan dan anak;  
-b. pemberian kesempatan kerja bagi perempuan korban kekerasan; dan c. pendidikan dan pelatihan bagi perempuan dan anak korban  kekerasan.  
+b. pemberian kesempatan kerja bagi perempuan korban kekerasan; dan  
+c. pendidikan dan pelatihan bagi perempuan dan anak korban  kekerasan.  
 
 #### Pasal 24
 
@@ -423,12 +428,12 @@ Kerja sama dan kemitraan sebagaimana dimaksud Pasal 22 dan Pasal 23 dituangkan d
 #### Pasal 25
 
 1. Masyarakat dapat berpartisipasi aktif dalam melakukan perlindungan  terhadap perempuan dan anak.  
-2. Bentuk partisipasi masyarakat sebagaimana dimaksud pada ayat (1),  antara lain:a. melakukan pencegahan dan melaporkan kasus kekerasan terhadap  perempuan dan anak yang terjadi di lingkungan tempat tinggalnya;  
+2. Bentuk partisipasi masyarakat sebagaimana dimaksud pada ayat (1),  antara lain:  
+a. melakukan pencegahan dan melaporkan kasus kekerasan terhadap  perempuan dan anak yang terjadi di lingkungan tempat tinggalnya;  
 b. memberikan pertolongan darurat jika terdapat kekerasan terhadap  perempuan dan anak;  
-
-12 -
 c. menginisiasi pembentukan kelembagaan perlindungan perempuan dan  anak pada tingkat daerah, kecamatan, desa dan kelurahan;  
-d. berpartisipasi dalam perlindungan perempuan dan anak melalui  kelembagaan layanan yang ada; dan/ataue. membantu proses pemulangan, rehabilitasi sosial, dan reintegrasi  sosial.  
+d. berpartisipasi dalam perlindungan perempuan dan anak melalui  kelembagaan layanan yang ada; dan/atau  
+e. membantu proses pemulangan, rehabilitasi sosial, dan reintegrasi  sosial.  
 
 # BAB IX
 
@@ -439,11 +444,12 @@ d. berpartisipasi dalam perlindungan perempuan dan anak melalui  kelembagaan lay
 Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber  dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
 b. Anggaran Pendapatan dan Belanja Desa; dan  
-c. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
+c. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan perundang-undangan.  
 
 #### Pasal 27
 
-1. Pendanaan penyelenggaraan perlindungan bagi perempuan dan anak  meliputi:a. pencegahan kekerasan terhadap perempuan dan anak;  
+1. Pendanaan penyelenggaraan perlindungan bagi perempuan dan anak  meliputi:  
+a. pencegahan kekerasan terhadap perempuan dan anak;  
 b. lembaga layanan meliputi sarana dan prasarana layanan;  
 c. pelayanan medis, yang meliputi pemeriksaan dokter, biaya tindakan,  biaya rumah sakit, biaya obat-obatan dan biaya penunjang medik;  
 d. pelayanan medicolegal, yang meliputi pemeriksaan untuk visum et  repertum, visum et repertum psikiatrikum, dan tes Deoxyribonucleic Acid;  
@@ -466,8 +472,6 @@ b. teguran tertulis; dan
 c. sanksi administratif lainnya sesuai dengan ketentuan perundang undangan.  
 3. Ketentuan lebih lanjut mengenai pemberian sanksi administratif  sebagaimana dimaksud pada ayat (1) diatur dalam peraturan bupati.  
 
-13 -
-
 # BAB XI
 
 ## KETENTUAN PENUTUP
@@ -478,36 +482,28 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Bulukumba.  
 
-Ditetapkan di Bulukumba pada tanggal 5 Juli 2024
+Ditetapkan di Bulukumba pada tanggal 5 Juli 2024  
 
-##### BUPATI BULUKUMBA,
+BUPATI BULUKUMBA,  
 
-##### MUCHTAR ALI YUSUF
+MUCHTAR ALI YUSUF  
 
-Diundangkan di Bulukumba pada tanggal 5 Juli 2024
+Diundangkan di Bulukumba pada tanggal 5 Juli 2024  
 
-##### SEKRETARIS DAERAH KABUPATEN BULUKUMBA,
+SEKRETARIS DAERAH KABUPATEN BULUKUMBA,  
 
-##### MUH. ALI SALENG
+MUH. ALI SALENG  
 
-##### LEMBARAN DAERAH KABUPATEN BULUKUMBA TAHUN 2024 NOMOR 3
+LEMBARAN DAERAH KABUPATEN BULUKUMBA TAHUN 2024 NOMOR 3  
 
 NOMOR REGISTER PERATURAN DAERAH KABUPATEN BULUKUMBA PROVINSI SULAWESI SELATAN:  
 B.HK.03.024.24.  
 
-14 -
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BULUKUMBA
 
-##### PENJELASAN
+NOMOR 3 TAHUN 2024 TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK 
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN BULUKUMBA
-
-##### NOMOR 3 TAHUN 2024
-
-##### TENTANG
-
-##### PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK I. UMUM
+##### I. UMUM
 
 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 telah  mengamanatkan untuk memberikan perlindungan terhadap perempuan dan  anak, serta memberikan hak yang sama terhadap perempuan untuk turut  serta memberikan kontribusi diberbagai aspek pembangunan. Hal ini juga  ditegaskan kembali dalam Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah mengenai pembagian urusan pemerintahan dibidang  pemberdayaan perempuan dan perlindungan anak. Sejalan dengan hal  tersebut Pemerintahan Daerah yang memiliki asas otonomi dan tugas  pembantuan dengan prinsip otonomi seluas-luasnya, juga berusaha  mewujudkan cita-cita yang tertuang dalam Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945.  
 
@@ -523,17 +519,22 @@ Cukup jelas.
 
 #### Pasal 2
 
-Huruf a Yang dimaksud dengan asas kemanusiaan adalah asas kemanusiaan menekankan pada penghormatan dan perlindungan terhadap hak-hak dasar setiap individu tanpa memandang jenis kelamin, usia, atau status sosial.  
+Huruf a  
+Yang dimaksud dengan asas kemanusiaan adalah asas kemanusiaan menekankan pada penghormatan dan perlindungan terhadap hak-hak dasar setiap individu tanpa memandang jenis kelamin, usia, atau status sosial.  
 
 Ini berarti bahwa perempuan dan anak memiliki hak yang sama untuk hidup tanpa kekerasan dan perlakuan yang merendahkan martabat manusia.  
 
-15 - Huruf b Yang dimaksud dengan asas keadilan dan kesetaraan  gender adalah asas ini menekankan perlunya mengatasi  ketidaksetaraan gender yang sering kali merupakan akar  masalah tindak kekerasan terhadap perempuan dan anak.  Perlindungan harus memastikan bahwa perempuan dan  anak mendapatkan perlakuan yang adil dan setara dalam  sistem hukum dan masyarakat tanpa diskriminasi  berdasarkan jenis kelamin.  
+Huruf b  
+Yang dimaksud dengan asas keadilan dan kesetaraan  gender adalah asas ini menekankan perlunya mengatasi  ketidaksetaraan gender yang sering kali merupakan akar  masalah tindak kekerasan terhadap perempuan dan anak.  Perlindungan harus memastikan bahwa perempuan dan  anak mendapatkan perlakuan yang adil dan setara dalam  sistem hukum dan masyarakat tanpa diskriminasi  berdasarkan jenis kelamin.  
 
-Huruf c Yang dimaksud dengan asas pengayoman adalah  perlindungan yang proaktif dan preventif terhadap tindak  kekerasan. Perlindungan ini harus dilakukan melalui  pendekatan yang mencakup pencegahan, penanganan,  rehabilitasi, dan dukungan bagi korban serta potensi  pelaku agar kekerasan tidak terjadi lagi.  
+Huruf c  
+Yang dimaksud dengan asas pengayoman adalah  perlindungan yang proaktif dan preventif terhadap tindak  kekerasan. Perlindungan ini harus dilakukan melalui  pendekatan yang mencakup pencegahan, penanganan,  rehabilitasi, dan dukungan bagi korban serta potensi  pelaku agar kekerasan tidak terjadi lagi.  
 
-Huruf d Yang dimaksud dengan asas kepentingan terbaik bagi  perempuang dan anak adalah asas ini menitikberatkan  pada kepentingan dan hak-hak terbaik perempuan dan  anak sebagai prioritas utama. Tindakan dan kebijakan  perlindungan harus selalu mengutamakan kesejahteraan  dan kepentingan mereka, termasuk mendengarkan  pandangan dan aspirasi mereka dalam proses keputusan.  
+Huruf d  
+Yang dimaksud dengan asas kepentingan terbaik bagi  perempuang dan anak adalah asas ini menitikberatkan  pada kepentingan dan hak-hak terbaik perempuan dan  anak sebagai prioritas utama. Tindakan dan kebijakan  perlindungan harus selalu mengutamakan kesejahteraan  dan kepentingan mereka, termasuk mendengarkan  pandangan dan aspirasi mereka dalam proses keputusan.  
 
-Huruf e Yang dimaksud dengan asas nondiskriminasi adalah asas  ini menegaskan bahwa perlindungan harus dilakukan  tanpa adanya diskriminasi berdasarkan jenis kelamin, usia,  latar belakang etnis, agama, atau status sosial. Setiap  individu memiliki hak yang sama untuk dilindungi dari  tindak kekerasan, tanpa terkecuali Huruf f Yang dimaksud dengan asas perlakukan khusus terhadap  kelompok rentan adalah perlakuan terhadap sekelompok  masyarakat yang mengalami kerentanan atau  keterbatasan fisik dan non fisik seperti perempuan, anak,  disabilitas, ibu hamil, lansia, kelompok minoritas, orang  dengan gangguan jiwa dan orang miskin.  
+Huruf e  
+Yang dimaksud dengan asas nondiskriminasi adalah asas  ini menegaskan bahwa perlindungan harus dilakukan  tanpa adanya diskriminasi berdasarkan jenis kelamin, usia,  latar belakang etnis, agama, atau status sosial. Setiap  individu memiliki hak yang sama untuk dilindungi dari  tindak kekerasan, tanpa terkecuali Huruf f Yang dimaksud dengan asas perlakukan khusus terhadap  kelompok rentan adalah perlakuan terhadap sekelompok  masyarakat yang mengalami kerentanan atau  keterbatasan fisik dan non fisik seperti perempuan, anak,  disabilitas, ibu hamil, lansia, kelompok minoritas, orang  dengan gangguan jiwa dan orang miskin.  
 
 #### Pasal 3
 
@@ -549,21 +550,30 @@ Cukup jelas.
 
 #### Pasal 6
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
-16 - Ayat (3) Huruf a Cukup jelas.  
+Ayat (3)  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Cukup jelas.  
+Huruf c  
+Cukup jelas.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Yang dimaksud dengan “fasilitasi rumah aman” adalah tempat yang menyediakan perlindungan, pendampingan, dan layanan bagi perempuan dan anak yang menjadi korban kekerasan atau membutuhkan bantuan. Rumah ini berfungsi sebagai tempat tinggal sementara yang aman dan rahasia, di mana korban dapat menerima dukungan psikologis, hukum, dan sosial untuk pemulihan mereka.  
+Huruf e  
+Yang dimaksud dengan “fasilitasi rumah aman” adalah tempat yang menyediakan perlindungan, pendampingan, dan layanan bagi perempuan dan anak yang menjadi korban kekerasan atau membutuhkan bantuan. Rumah ini berfungsi sebagai tempat tinggal sementara yang aman dan rahasia, di mana korban dapat menerima dukungan psikologis, hukum, dan sosial untuk pemulihan mereka.  
 
-Ayat (4) Cukup jelas.  
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 7
 
@@ -579,23 +589,32 @@ Cukup jelas.
 
 #### Pasal 10
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) Huruf a Yang dimaksud dengan “Paralegal” adalah setiap orang yang berasal dari komunitas, masyarakat, atau Pemberi Bantuan Hukum yang telah mengikuti pelatihan Paralegal dibuktikan dengan sertifikat telah mengikuti pelatihan Paralegal, tidak berprofesi sebagai advokat, dan tidak secara mandiri mendampingi Penerima Bantuan Hukum di pengadilan.  
+Ayat (2)  
+Huruf a  
+Yang dimaksud dengan “Paralegal” adalah setiap orang yang berasal dari komunitas, masyarakat, atau Pemberi Bantuan Hukum yang telah mengikuti pelatihan Paralegal dibuktikan dengan sertifikat telah mengikuti pelatihan Paralegal, tidak berprofesi sebagai advokat, dan tidak secara mandiri mendampingi Penerima Bantuan Hukum di pengadilan.  
 
-Huruf b Yang dimaksud dengan “aktivis perempuan dan anak” adalah orang yang bekerja aktif mendorong pemenuhan hak dan perlindungan perempuan dan anak, dapat berasal dari organisasi keperempuanan dan/atau anak.  
+Huruf b  
+Yang dimaksud dengan “aktivis perempuan dan anak” adalah orang yang bekerja aktif mendorong pemenuhan hak dan perlindungan perempuan dan anak, dapat berasal dari organisasi keperempuanan dan/atau anak.  
 
-17 - Huruf c Yang dimaksud dengan “Tenaga Kesehatan” adalah setiap orang yang mengabdikan diri dalam bidang kesehatan serta memiliki pengetahuan dan/atau keterampilan melalui pendidikan di bidang kesehatan yang untuk jenis tertentu memerlukan kewenangan untuk melakukan upaya kesehatan.  
+Huruf c  
+Yang dimaksud dengan “Tenaga Kesehatan” adalah setiap orang yang mengabdikan diri dalam bidang kesehatan serta memiliki pengetahuan dan/atau keterampilan melalui pendidikan di bidang kesehatan yang untuk jenis tertentu memerlukan kewenangan untuk melakukan upaya kesehatan.  
 
-Huruf d Yang dimaksud dengan “pemerhati kelompok rentan” adalah orang yang memperhatikan setiap orang atau kelompok masyarakat yang berhak memperoleh perlakuan dan perlindungan lebih yang berkenaan dengan kekhususannya yang dapat berasal dari komunitas atau organisasi pemerhati kelompok rentan.  
+Huruf d  
+Yang dimaksud dengan “pemerhati kelompok rentan” adalah orang yang memperhatikan setiap orang atau kelompok masyarakat yang berhak memperoleh perlakuan dan perlindungan lebih yang berkenaan dengan kekhususannya yang dapat berasal dari komunitas atau organisasi pemerhati kelompok rentan.  
 
 Kelompok rentan sebagaimana dimaksud aturan ini terdiri dari perempuan dan anak yang berhadapan dengan hukum, penyandang disabilitas, pekerja migran Indonesia, lanjut usia dan/atau masyarakat hukum adat ammatoa Kajang.  
 
-Ayat (3) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
 
-Ayat (4) Cukup jelas.  
+Ayat (4)  
+Cukup jelas.  
 
-Ayat (5) Cukup jelas.  
+Ayat (5)  
+Cukup jelas.  
 
 #### Pasal 11
 
@@ -632,8 +651,6 @@ Cukup jelas.
 #### Pasal 19
 
 Cukup jelas.  
-
-18 -
 
 #### Pasal 20
 
@@ -675,4 +692,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN BULUKUMBA NOMOR 3
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BULUKUMBA NOMOR 3  

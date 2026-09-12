@@ -1,16 +1,20 @@
-# BUPATI TIMOR TENGAH UTARA
+# DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# PROVINSI NUSA TENGGARA TIMUR
+BUPATI TIMOR TENGAH UTARA  
 
-PERATURAN DAERAH KABUPATEN TIMOR TENGAH UTARA  NOMOR 3 TAHUN 2020
+PROVINSI NUSA TENGGARA TIMUR  
 
-# TENTANG
+# PERATURAN DAERAH KABUPATEN TIMOR TENGAH UTARA  
 
-# PENYELENGGARAAN PEMBERDAYAAN PEREMPUAN
+NOMOR 3 TAHUN 2020  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+TENTANG
 
-# BUPATI TIMOR TENGAH UTARA,
+PENYELENGGARAAN PEMBERDAYAAN PEREMPUAN  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI TIMOR TENGAH UTARA,  
 
 Menimbang:  
  
@@ -34,17 +38,22 @@ Mengingat:
  
  
 1 Pasal 18 ayat (6) Undang - Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang–Undang Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122 Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
 3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587); Sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58 Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
 
-Dengan Persetujuan Bersama: DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TIMOR TENGAH UTARA dan
+Dengan Persetujuan Bersama  
 
-# BUPATI TIMOR TENGAH UTARA
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TIMOR TENGAH UTARA  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG P ENYELENGGARAAN PEMBERDAYAAN PEREMPUAN.  
+BUPATI TIMOR TENGAH UTARA  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG P ENYELENGGARAAN PEMBERDAYAAN PEREMPUAN.  
 
 # BAB I
 
@@ -52,8 +61,7 @@ Menetapkan: PERATURAN DAERAH TENTANG P ENYELENGGARAAN PEMBERDAYAAN PEREMPUAN.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Timor Tengah Utara.  
 2. Pemerintah Daerah adalah Pemerintah Kabupaten Timor  Tengah utara.  
 3. Bupati adalah Bupati Timor Tengah Utara.  
@@ -146,11 +154,14 @@ Pokja PUG
 1. Bupati berwenang membentuk Pokja PUG.  
 2. Pembentukan Pokja PUG sebagaimana dimaksud pada ayat  (1) ditetapkan dengan Keputusan Bupati.  
 3. Keputusan Bupati sebagaimana dimaksud pada ayat (2) berlaku  selama 5 (lima) tahun.  
-4. Kepengurusan Pokja PUG terdiri atas:a. ketua oleh kepala badan;  
+4. Kepengurusan Pokja PUG terdiri atas:  
+a. ketua oleh kepala badan;  
 b. sekretariat oleh kepala dinas;  
 c. anggota meliputi:
-1. kepala PD;  
-2. tim teknis terdiri dari:a. aparatur yang sudah mengikuti pelatihan atau  pendidikan analisis anggaran yang berperspektif gender  paling banyak 5 (lima) orang.  b. perwakilan unsur perguruan tinggi paling banyak 5  (lima) orang;  
+1\. kepala PD;  
+2\. tim teknis terdiri dari:  
+a. aparatur yang sudah mengikuti pelatihan atau  pendidikan analisis anggaran yang berperspektif gender  paling banyak 5 (lima) orang.  
+b. perwakilan unsur perguruan tinggi paling banyak 5  (lima) orang;  
 c. perwakilan pers paling banyak 5 (lima) orang; dan  
 d. perwakilan lembaga swadaya masyarakat yang memiliki  lingkup orientasi di bidang gender paling banyak 5 (lima) orang.  
 
@@ -179,7 +190,8 @@ Focal Point PUG
 
 1. Sekretaris Daerah berwenang membentuk Focal Point PUG di lingkungan Sekretariat Daerah.  
 2. Pembentukan Focal Point PUG sebagaimana dimaksud pada ayat  (1) ditetapkan dengan Keputusan Sekretaris Daerah.  
-3. Kepengurusan Focal Point PUG sebagaimana dimaksud pada ayat  (1) terdiri atas:a. penanggungjawab oleh sekretaris daerah;  
+3. Kepengurusan Focal Point PUG sebagaimana dimaksud pada ayat  (1) terdiri atas:  
+a. penanggungjawab oleh sekretaris daerah;  
 b. koordinator oleh pejabat eselon IIB yang membidangi urusan  pemerintahan di bidang hukum;  
 c. wakil koordinator oleh pejabat eselon IIIA setiap bagian pada  sekretariat daerah kecuali pejabat eselon IIB sebagaimana  dimaksud pada huruf b; dan  
 d. anggota oleh perwakilan pejabat dan/atau staf dari semua  bagian pada sekretariat daerah.  
@@ -188,7 +200,8 @@ d. anggota oleh perwakilan pejabat dan/atau staf dari semua  bagian pada sekreta
 
 1. Kepala PD wajib membentuk Focal Point PUG PD.  
 2. Pembentukan Focal Point PUG sebagaimana dimaksud pada ayat  (1) dengan Keputusan Kepala PD.  
-3. Kepengurusan Focal Point PUG sebagaimana dimaksud pada  ayat (1) terdiri atas:a. penanggungjawab oleh kepala PD;  
+3. Kepengurusan Focal Point PUG sebagaimana dimaksud pada  ayat (1) terdiri atas:  
+a. penanggungjawab oleh kepala PD;  
 b. koordinator oleh pejabat eselon III A yang membidangi urusan perencanaan pada PD;  
 c. Wakil Koordinator oleh Pejabat Eselon IIIB yang memiliki  kompetensi dalam PUG; dan  
 d. Anggota oleh perwakilan Pejabat atau staf dari bidang dan  sekretariat pada PD.  
@@ -196,7 +209,9 @@ d. Anggota oleh perwakilan Pejabat atau staf dari bidang dan  sekretariat pada P
 #### Pasal 10
 
 1. Direktur Rumah Sakit berwenang membentuk Focal Point PUG  Rumah Sakit.  
-2. Pembentukan Focal Point PUG sebagaimana dimaksud pada ayat  (1) ditetapkan dengan keputusan Direktur Rumah Sakit. (3) Kepengurusan Focal Point PUG sebagaimana dimaksud pada  ayat (1) terdiri atas:a. penanggung jawaboleh direktur rumah sakit;  
+2. Pembentukan Focal Point PUG sebagaimana dimaksud pada ayat  (1) ditetapkan dengan keputusan Direktur Rumah Sakit.  
+3. Kepengurusan Focal Point PUG sebagaimana dimaksud pada  ayat (1) terdiri atas:  
+a. penanggung jawaboleh direktur rumah sakit;  
 b. koordinator oleh pejabat eselon IIIB yang membidangi  perencanaan rumah sakit;  
 c. wakil koordinator oleh pejabat eselon IVA yang memiliki  kompetensi dalam PUG; dan  
 d. anggota oleh perwakilan pejabat atau staf pada bidang atau  bagian yang ada pada rumah sakit.  
@@ -205,7 +220,8 @@ d. anggota oleh perwakilan pejabat atau staf pada bidang atau  bagian yang ada p
 
 1. Kepala Pusat Kesehatan Masyarakat berwenang membentuk  Focal Point PUG Puskesmas.  
 2. Pembentukan Focal Point PUG sebagaimana dimaksud pada ayat  (1) ditetapkan dengan Keputusan Kepala Pusat Kesehatan Masyarakat.  
-3. Kepengurusan Focal Point PUG puskesmas terdiri atas:8a. penanggungjawab oleh Kepala Puskesmas;  
+3. Kepengurusan Focal Point PUG puskesmas terdiri atas:  
+a. penanggungjawab oleh Kepala Puskesmas;  
 b. koordinator oleh pejabat eselon IV B yang membidangi  perencanaan Puskesmas; dan  
 c. anggota terdiri dari staf Puskesmas.  
 
@@ -217,7 +233,8 @@ b. mendorong dan membantu unit kerja untuk mengevaluasi dan  memperbaiki mandat,
 c. memfasilitasi pelaksanaan pelatihan sensitifitas gender,  pelatihan analisis gender dan mengembangkan jaringan kerja  gender dengan instansi atau lembaga atau organisasi dan unit  kerja lainnya, baik pemerintah maupun non pemerintah;  
 d. mengupayakan terselenggaranya analisis gender sebagai salah  satu tahap di dalam setiap proses pembangunan yang dimulai  dari tahap perencanaan, pelaksanaan, pemantauan dan evaluasi;  
 e. menjabarkan dan menindaklanjuti kebijakan dan program  pelaksanaan pembangunan agar responsif gender yang tersirat  dalam Renstra PD,Renja PD dan RKPD;  
-f. ikut serta dalam berbagai kegiatan yang diselenggarakan oleh  Pokja PUG dan/atau kelompok kerja nasional PUG; dan g. membuat laporan kegiatan secara periodik dan dilaporkan  kepada bupati melalui ketua pokja PUG.  
+f. ikut serta dalam berbagai kegiatan yang diselenggarakan oleh  Pokja PUG dan/atau kelompok kerja nasional PUG; dan  
+g. membuat laporan kegiatan secara periodik dan dilaporkan  kepada bupati melalui ketua pokja PUG.  
 
 ### Paragraf 5
 
@@ -227,7 +244,8 @@ Perencanaan Pembangunan Daerah berbasis Gender
 
 1. Pemerintah Daerah bertanggungjawab menyusun perencanaan  kebijakan, program dan kegiatan pembangunan berperspektif Gender.  
 2. Tanggung jawab sebagaimana dimaksud pada ayat (1)  dikoordinasikan oleh PD yang menyelenggarakan urusan  pemerintahan di bidang perencanaan pembangunan, penelitian  dan pengembangan Daerah.  
-3. Perencanaan sebagaimana dimaksud pada ayat (1) meliputi tahapan:a. Musrenbangdus;  
+3. Perencanaan sebagaimana dimaksud pada ayat (1) meliputi tahapan:  
+a. Musrenbangdus;  
 b. Musrembangdes/kel;  
 c. Musrembangcam;  
 d. Musrenbang tingkat daerah;  
@@ -242,7 +260,8 @@ i. penyusunan RAPBD;
 #### Pasal 14
 
 1. Badan bertanggung jawab menyusun panduan perencanaan  pembangunan berbasis gender.  
-2. Panduan sebagaimana dimaksud pada ayat (1) harus digunakan  dalam memfasilitasi:a. Musrenbangdus;  
+2. Panduan sebagaimana dimaksud pada ayat (1) harus digunakan  dalam memfasilitasi:  
+a. Musrenbangdus;  
 b. Musrembangdes/kel;  
 c. Musrembangcam;  
 d. Musrenbang tingkat daerah;  
@@ -258,7 +277,8 @@ g. penyusunan Renja PD, yang responsif gender.
 a. tahap I analisa kebijakan yang responsif gender;  
 b. tahap II formulasi kebijakan yang responsif gender;  
 c. tahap III rencana aksi yang responsif gender;  
-d. tahap IV pelaksanaan kegiatan yang sudah disusun; dan e. tahap V monitoring dan evaluasi dari setiap tahap dan  langkah yang diambil.  
+d. tahap IV pelaksanaan kegiatan yang sudah disusun; dan  
+e. tahap V monitoring dan evaluasi dari setiap tahap dan  langkah yang diambil.  
 
 ### Paragraf 6
 
@@ -267,12 +287,9 @@ Penganggaran
 #### Pasal 16
 
 1. Pemerintah Daerah wajib mengalokasikan anggaran bagi  pelaksanaan PUG di Daerah.  
-2. Anggaran pelaksanaan sebagaimana dimaksud pada ayat (1)  bersumber dari:
-
-a.APBD; dan
-
+2. Anggaran pelaksanaan sebagaimana dimaksud pada ayat (1)  bersumber dari:  
+a.APBD; dan  
 b.bantuan dari pihak lain yang tidak mengikat, sepanjang sesuai  dengan ketentuan peraturan perundang-undangan yang berlaku.  
-
 3. Anggaran sebagaimana dimaksud pada ayat (1) dan ayat (2),  digunakan untuk membiayai kegiatan Pokja PUG dan Focal Point PUG PD dalam mengintegrasikan Gender di tingkat  perencanaan, penyusunan, pelaksanaan, pemantauan dan  evaluasi kebijakan dan pembangunan di Daerah.  
 
 ### Paragraf 7
@@ -323,7 +340,8 @@ Pengawasan
 2. Pengawasan sebagaimana dimaksud pada ayat (1) dalam bentuk:  
 a. perencanaan dan pengganggaran responsif Gender yang dilakukan oleh tim anggaran pemerintah daerah;  
 b. pelaksanaan koordinasi antara Pokja PUG dan Focal Point  gender; dan  
-c. perkembangan pencapaian RAD PUG setiap tahun. (3) Tanggung jawab sebagaimana dimaksud pada ayat (1) secara  teknis operasional dapat dilaksanakan oleh Ketua Pokja PUG  dan Kepala Sekretariat Pokja PUG.  
+c. perkembangan pencapaian RAD PUG setiap tahun.  
+3. Tanggung jawab sebagaimana dimaksud pada ayat (1) secara  teknis operasional dapat dilaksanakan oleh Ketua Pokja PUG  dan Kepala Sekretariat Pokja PUG.  
 4. Pelaksanaan tanggung jawab sebagaimana dimaksud pada ayat  (3) dilaporkan kepada Bupati.  
 
 ## Bagian Ketiga
@@ -368,7 +386,9 @@ b. mendorong adanya keterwakilan perempuan dalam setiap  kepengurusan organisasi
 #### Pasal 26
 
 1. PD yang menyelenggarakan urusan pemerintahan di bidang  hukum bertanggungjawab dalam memfasilitasi Pemberdayaan  Perempuan di bidang hukum.  
-2. Penyelenggaraan Pemberdayaan Perempuan di bidang hukum meliputi:a. peningkatan kesadaran dan pengetahuan di bidang hukum  melalui layanan komunikasi informasi dan edukasi; dan b. fasilitasi akses dan layanan konsultasi hukum.  
+2. Penyelenggaraan Pemberdayaan Perempuan di bidang hukum meliputi:  
+a. peningkatan kesadaran dan pengetahuan di bidang hukum  melalui layanan komunikasi informasi dan edukasi; dan  
+b. fasilitasi akses dan layanan konsultasi hukum.  
 
 #### Pasal 27
 
@@ -382,12 +402,11 @@ d. fasilitasi dan upaya pelestarian adat istiadat dan  pengembangan ilmu pengeta
 #### Pasal 28
 
 1. PD yang menyelenggarakan urusan pemerintahan di bidang  koperasi, usaha kecil menengah dan perindustrian perdagangan  bertanggungjawab dalam memfasilitasi Pemberdayaan  Perempuan di bidang ekonomi.  
-2. Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi  dilaksanakan melalui:a. pemberian keterampilan dan pelatihan kerja;  
-
+2. Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi  dilaksanakan melalui:  
+a. pemberian keterampilan dan pelatihan kerja;  
 b.fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
-
-d.fasilitasi dan bantuan permodalan; dan
+d.fasilitasi dan bantuan permodalan; dan  
 e. fasilitasi pengembangan jaringan pemasaran.  
 
 ### Paragraf 4
@@ -397,7 +416,8 @@ Pelaporan dan Evaluasi
 #### Pasal 29
 
 1. Setiap PD bertanggungjawab membuat laporan pelaksanaan  kegiatan Pemberdayaan Perempuan yang telah dilaksanakan  kepada Bupati melalui Dinas.  
-2. Dinas setelah menerima laporan yang disampaikan oleh PD  melakukan evaluasi terhadap pelaksanaan kegiatan. (3) Hasil evaluasi pelaksanaan kegiatan sebagaimana dimaksud  pada ayat (2) dilaporkan kepada Bupati.  
+2. Dinas setelah menerima laporan yang disampaikan oleh PD  melakukan evaluasi terhadap pelaksanaan kegiatan.  
+3. Hasil evaluasi pelaksanaan kegiatan sebagaimana dimaksud  pada ayat (2) dilaporkan kepada Bupati.  
 4. Hasil evaluasi sebagaimana dimaksud pada ayat (3) digunakan  untuk perencanaan penganggaran tahun berikutnya.  
 
 # BAB IV
@@ -412,7 +432,8 @@ Umum
 
 Perlindungan Perempuan meliputi:  
 a. penguatan dan pengembangan lembaga penyedia layanan  perlindungan perempuan;  
-b. pencegahan kekerasan terhadap perempuan;dan c. penguatan dan pengembangan lembaga penyedia layanan  perlindungan perempuan korban kekerasan;  
+b. pencegahan kekerasan terhadap perempuan; dan  
+c. penguatan dan pengembangan lembaga penyedia layanan  perlindungan perempuan korban kekerasan;  
 
 ## Bagian Kedua
 
@@ -434,18 +455,23 @@ Rencana Aksi Daerah
 
 #### Pasal 32
 
-1. Penyusunanan RAD sebagaimana dimaksud dalam Pasal 7  huruf c dilaksanakan melalui mekanisme:a. penetapan tim penyusun;  
+1. Penyusunanan RAD sebagaimana dimaksud dalam Pasal 7  huruf c dilaksanakan melalui mekanisme:  
+a. penetapan tim penyusun;  
 b. melakukan rapat untuk membentuk kelompok kerja  berdasarkan indikator;  
 c. setiap Pokja melakukan identifikasi tujuan, target dan indikator;  
 d. menetapkan program dan kegiatan prioritas terkait  pencapaian masing- masing target; dan  
-e. menetapkan alokasi anggaran setiap program kegiatan. (2) RAD paling sedikit memuat:a. pendahuluan;  
+e. menetapkan alokasi anggaran setiap program kegiatan.  
+2. RAD paling sedikit memuat:  
+a. pendahuluan;  
 b. arah kebijakan dan strategi pencapaian;  
 c. pemantauan dan evaluasi;  
-d. penutup;dane. lampiran yang berisi matriks pelaksanaan RAD. (3) Penyusunan RAD dilaksanakan dengan memperhatikan:  
+d. penutup; dan  
+e. lampiran yang berisi matriks pelaksanaan RAD.  
+3. Penyusunan RAD dilaksanakan dengan memperhatikan:  
 a. RPJMN;  
 b. RPJMD; dan  
 c. dokumen terkait lainnya.  
-4. Ketentuan mengenai pelaksanaan RAD diatur lebih lanjut dengan Peraturan Bupati.  
+5. Ketentuan mengenai pelaksanaan RAD diatur lebih lanjut dengan Peraturan Bupati.  
 
 ### Paragraf 3
 
@@ -470,7 +496,9 @@ Pencegahan Kekerasan Terhadap Perempuan
 
 #### Pasal 35
 
-1. Dinas bertanggungjawab untuk melaksanakan upaya  pencegahan terjadinya Kekerasan terhadap Perempuan. (2) Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dalam bentuk:a. melakukan penyuluhan dan sosialisasi mengenai hal yang  berkenaan dengan kekerasan terhadap perempuan;  
+1. Dinas bertanggungjawab untuk melaksanakan upaya  pencegahan terjadinya Kekerasan terhadap Perempuan.  
+2. Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dalam bentuk:  
+a. melakukan penyuluhan dan sosialisasi mengenai hal yang  berkenaan dengan kekerasan terhadap perempuan;  
 b. melakukan sosialisasi terhadap hak-hak perempuan;  
 c. mengupayakan peningkatan pendidikan bagi perempuan;  
 d. memberikan penyuluhan untuk segera melaporkan kepada  aparat setempat apabila terjadi Kekerasan terhadap perempuan;  
@@ -483,9 +511,16 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan  Perlindungan Perempuan Korb
 
 #### Pasal 36
 
-1. Dinas dapat memberikan bantuan kepada Lembaga Layanan  yang berada di daerah dalam bentuk:a. penguatan Lembaga Layanan; dan  
-b. pengembangan Lembaga Layanan (2) Penguatan kepada lembaga layanan sebagaimana dimaksud  pada ayat (1) huruf a dilaksanakan melalui:a. peningkatan kompetensi anggota lembaga layanan; dan/atau b. memfasilitasi pelatihan paralegal secara berkala (3) Pengembangan Lembaga Layanan sebagaimana dimaksud pada  ayat (1) huruf b dilaksanakan melalui:a. menyediakan sarana dan prasarana tambahan;  
-b. menyediakan pendekatan pelayanan berbasis teknologi  informasi; dan/atauc. merekrut kader desa sebagai paralegal pembantu.  
+1. Dinas dapat memberikan bantuan kepada Lembaga Layanan  yang berada di daerah dalam bentuk:  
+a. penguatan Lembaga Layanan; dan  
+b. pengembangan Lembaga Layanan.  
+2. Penguatan kepada lembaga layanan sebagaimana dimaksud  pada ayat (1) huruf a dilaksanakan melalui:  
+a. peningkatan kompetensi anggota lembaga layanan; dan/atau  
+b. memfasilitasi pelatihan paralegal secara berkala.  
+3. Pengembangan Lembaga Layanan sebagaimana dimaksud pada  ayat (1) huruf b dilaksanakan melalui:  
+a. menyediakan sarana dan prasarana tambahan;  
+b. menyediakan pendekatan pelayanan berbasis teknologi informasi; dan/atau  
+c. merekrut kader desa sebagai paralegal pembantu.  
 
 # BAB V
 
@@ -498,7 +533,8 @@ Umum
 #### Pasal 37
 
 Kualitas Keluarga meliputi:  
-a. peningkatan kualitas keluarga dalam mewujudkan  kesetaraan gender;danb. penguatan dan pengembangan lembaga penyedia layanan  peningkatan kualitas keluarga dalam mewujudkan kesetaraan  gender.  
+a. peningkatan kualitas keluarga dalam mewujudkan  kesetaraan gender; dan  
+b. penguatan dan pengembangan lembaga penyedia layanan  peningkatan kualitas keluarga dalam mewujudkan kesetaraan  gender.  
 
 ## Bagian Kedua
 
@@ -506,11 +542,12 @@ Peningkatan Kualitas Keluarga Dalam Mewujudkan Kesetaraan Gender
 
 #### Pasal 38
 
-1. Dinas bertanggungjawab memfasilitasi kegiatan peningkatan  kualitas keluarga di Daerah.  
-2. Peningkatan kualitas keluarga sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:a. memfasilitasi pembentukan lembaga penyedia layanan;  
+1. Dinas bertanggungjawab memfasilitasi kegiatan peningkatan kualitas keluarga di Daerah.  
+2. Peningkatan kualitas keluarga sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:  
+a. memfasilitasi pembentukan lembaga penyedia layanan;  
 b. secara terkoordinasi dengan PD dan/atau lembaga terkait  yang memiliki tugas pokok dan fungsi untuk melaksanakan kegiatan:
-1. peningkatan kemampuan berwirausaha bagi perempuan; atau
-2. pengembangan pelatihan kerja bagi perempuan.  
+1\. peningkatan kemampuan berwirausaha bagi perempuan; atau
+2\. pengembangan pelatihan kerja bagi perempuan.  
 
 ## Bagian Ketiga
 
@@ -524,7 +561,8 @@ a. menyiapkan regulasi;
 b. menyiapkan sumberdaya manusia;  
 c. menyiapkan sarana dan prasarana; dan  
 d. pembentukan pusat pembelajaran keluarga.  
-3. Pusat pembelajaran keluarga berfungsi:a. sebagai lembaga layanan dalam pencegahan dan konseling;  
+3. Pusat pembelajaran keluarga berfungsi:  
+a. sebagai lembaga layanan dalam pencegahan dan konseling;  
 b. sebagai tempat penghubung rujukan sebagai solusi bagi  permasalahan anak dan keluarga;  
 c. penguatan kemampuan keluarga dalam mengasuh dan  melindungi anak;  
 d. sebagai tempat pembelajaran keluarga melalui pendidikan bagi  orang tua; dan  
@@ -542,14 +580,15 @@ Umum
 
 Sistem Data Gender meliputi:  
 a. pengumpulan data;  
-b. pengolahan data;danc. analisis dan penyajian data gender.  
+b. pengolahan data; dan  
+c. analisis dan penyajian data gender.  
 
 Bagain Kedua Pengumpulan Data
 
 #### Pasal 41
 
 1. PD yang melaksanakan tugas focal point PUG bertanggungjawab  melaporkan data Gender dan kegiatan PUG yang dilaksanakan  kepada Bupati melalui Dinas.  
-2. Laporan data Gender dan kegiatan PUG sebagaimana dimaksud  pada ayat (1) dilakukan setiap 6 ( e n a m ) b u l a n .  
+2. Laporan data Gender dan kegiatan PUG sebagaimana dimaksud  pada ayat (1) dilakukan setiap 6 (enam) bulan.  
 
 ## Bagian Ketiga
 
@@ -566,7 +605,8 @@ Analisis Dan Penyajian Data Gender
 
 #### Pasal 43
 
-1. Dinas melakukan analisis terhadap data yang telah diolah. (2) Analisis sebagaimana dimaksud pada ayat (1) dilaksanakan  secara komprehensif berdasarkan pemetaan yang memadai  sehingga mudah untuk dipahami.  
+1. Dinas melakukan analisis terhadap data yang telah diolah.  
+2. Analisis sebagaimana dimaksud pada ayat (1) dilaksanakan  secara komprehensif berdasarkan pemetaan yang memadai  sehingga mudah untuk dipahami.  
 3. Analisis yang telah memadai sebagaimana dimaksud pada ayat  (2) disajikan menjadi sebuah data Gender daerah secara manual  dan/atau elektronik.  
 
 # BAB VII
@@ -597,29 +637,29 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran  Daerah Kabupaten Timor Tengah Utara.  
 
-Ditetapkan di Kefamenanu pada tanggal 7 Agustus 2020
+Ditetapkan di Kefamenanu  
 
-##### BUPATI TIMOR TENGAH UTARA,
+pada tanggal 7 Agustus 2020
 
-##### RAYMUNDUS SAU FERNANDES
+BUPATI TIMOR TENGAH UTARA,  
 
-Diundangkan di Kefamenanu pada tanggal 7 Agustus 2020
+RAYMUNDUS SAU FERNANDES  
 
-##### SEKRETARIS DAERAH
+Diundangkan di Kefamenanu  
 
-##### FRANSISKUS TILIS
+pada tanggal 7 Agustus 2020  
+
+SEKRETARIS DAERAH  
+
+FRANSISKUS TILIS  
 
 LEMBARAN DAERAH KABUPATEN TIMOR TENGAH URATA TAHUN 2020 NOMOR 3, REGISTRASI PROVINSI NUSA TENGGARA TIMUR NOMOR 03  PERATURAN DAERAH TAHUN 2020.  
 
-##### PENJELASAN ATAS
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TIMOR TENGAH UTARA  
 
-PERATURAN DAERAH KABUPATEN TIMOR TENGAH UTARA  NOMOR 3 TAHUN 2020
+NOMOR 3 TAHUN 2020 TENTANG PENYELENGGARAAN PEMBERDAYAAN PEREMPUAN
 
-##### TENTANG
-
-##### PENYELENGGARAAN PEMBERDAYAAN PEREMPUAN
-
-##### I. UMUM
+#### I. UMUM
 
 Hadirnya Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah sebagaimana telah diubah beberapa kali,  terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah dan Undang-Undang Nomor 33  Tahun 2004 tentang Perimbangan Keuangan Antara  Pemerintah Pusat dan Pemerintahan Daerah merupakan pintu  masuk bagi Pemberdayaan Perempuan dalam pembangunan  daerah. Pemberdayaan perempuan merupakan strategi  pembangunan yang tepat untuk mewujudkan kesetaraan dan  keadilan gender melalui kebijakan dan program pembangunan  yang sensitif dan responsif gender di masa yang akan datang,  khususnya di Kabupaten Timor Tengah Utara.  
 
@@ -629,7 +669,7 @@ Paradigma diatas tercermin dalam data keberadaan  perempuan yang bekerja di Peme
 
 Berdasarkan pemikiran tersebut, sudah saatnya di  Kabupaten Timor Tengah Utara membentuk Peraturan Daerah  tentang Pemberdayaan Perempuan di Kabupaten Timor Tengah  Utara. Peraturan Daerah inilah yang akan mengatur  pelaksanaan pengarusutamaan gender secara jelas, tegas,  seimbang dan komprehensif untuk mewujudkan kesetaraan dan keadilan gender serta sekaligus memberikan pemahaman  tentang pentingnya pemberdayaan perempuan sebagai sebuah  strategi analisis gender dalam perencanaan, penyusunan,  pelaksanaan, pemantauan dan evaluasi kebijakan dan program pembangunan.  
 
-##### II. PASAL DEMI PASAL
+#### II. PASAL DEMI PASAL
 
 #### Pasal 1
 
@@ -801,4 +841,6 @@ Cukup jelas.
 
 #### Pasal 43
 
-Cukup jelas TAMBAHAN LEMBARAN DAERAH KABUPATEN TIMOR TENGAH UTARA  NOMOR 107.  
+Cukup jelas.  
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN TIMOR TENGAH UTARA  NOMOR 107.  

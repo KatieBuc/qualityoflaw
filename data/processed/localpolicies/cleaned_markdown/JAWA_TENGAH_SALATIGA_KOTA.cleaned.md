@@ -1,80 +1,61 @@
-# LEMBARAN DAERAH KOTA SALATIGA
+# PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK 
 
-# NOMOR 6 TAHUN 2013
+LEMBARAN DAERAH KOTA SALATIGA  
+
+NOMOR 6 TAHUN 2013  
 
 # PERATURAN DAERAH KOTA SALATIGA
 
-# NOMOR 6 TAHUN 2013
+NOMOR 6 TAHUN 2013  
 
-# TENTANG
+TENTANG  
 
-PENYELENGGARAAN PERLINDUNGAN TERHADAP  KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
+PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA  WALIKOTA SALATIGA,
+DENGAN RAHMAT TUHAN YANG MAHA ESA  WALIKOTA SALATIGA,  
 
 Menimbang:  
  
  
  
  
-a. b. bahwa segala bentuk Kekerasan,  terutama Kekerasan Berbasis Gender  dan Anak merupakan pelanggaran  hak asasi manusia dan kejahatan  terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
+a. bahwa segala bentuk Kekerasan,  terutama Kekerasan Berbasis Gender  dan Anak merupakan pelanggaran  hak asasi manusia dan kejahatan  terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
+b. bahwa perlakuan diskriminatif dan  Kekerasan Berbasis Gender dan Anak  di Kota Salatiga cenderung  mengalami peningkatan serta dapat  menimbulkan potensi menurunnya  kualitas kehidupan keluarga dan  masyarakat sehingga diperlukan Mengingat:  
+c. bahwa berdasarkan pertimbangan  sebagaimana dimaksud dalam huruf  a dan huruf b perlu membentuk  Peraturan Daerah tentang  Penyelenggaraan Perlindungan  terhadap Korban Kekerasan Berbasis  Gender dan Anak;  
 
-bahwa perlakuan diskriminatif dan  Kekerasan Berbasis Gender dan Anak  di Kota Salatiga cenderung  mengalami peningkatan serta dapat  menimbulkan potensi menurunnya  kualitas kehidupan keluarga dan  masyarakat sehingga diperlukan Mengingat:  
- 
- 
- 
- 
-c. 1. 2. 3. 4. penanganan secara terpadu mencakup upaya pencegahan,  penanganan kasus, dan penanganan  pasca krisis terhadap Korban  Kekerasan;  
+Mengingat:  
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 17 Tahun 1950 tentang Pembentukan Daerah daerah Kota Kecil dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, dan Jawa Barat;  
+3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3835);  
+4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235);  
+5. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
+6. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);  
+7. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);  
+8. Peraturan Pemerintah Nomor 6 Tahun 1988 tentang Koordinasi Kegiatan Instansi Vertikal di Daerah (Lembaran Negara Republik Indonesia Tahun 1988 Nomor 10, Tambahan Lembaran Negara Republik Indonesia Nomor 3373);  
+9. Peraturan Pemerintah Nomor 69 Tahun 1992 tentang Perubahan Batas Wilayah Kotamadya Daerah Tingkat II Salatiga dan Kabupaten Daerah Tingkat II Semarang (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 114, Tambahan Lembaran Negara Republik Indonesia Nomor 3500);  
+10. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
+11. Peraturan Daerah Provinsi Jawa Tengah Nomor 3 Tahun 2009 tentang Penyelenggaraan Perlindungan terhadap Korban Kekerasan Berbasis Gender dan Anak (Lembaran Daerah Provinsi Jawa Tengah Tahun 2009 Nomor 3, Tambahan Lembaran Daerah Provinsi Jawa Tengah Nomor 20);  
+12. Peraturan Daerah Kota Salatiga Nomor 3 Tahun 2007 tentang Pokok pokok Pengelolaan Keuangan Daerah (Lembaran Daerah Kota Salatiga Tahun 2007 Nomor 3);  
+13. Peraturan Daerah Kota Salatiga Nomor 8 Tahun 2008 tentang Urusan Pemerintahan yang Menjadi Kewenangan Pemerintahan Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 8);  
+14. Peraturan Daerah Kota Salatiga Nomor 9 Tahun 2008 tentang Organisasi dan Tata Kerja Sekretariat Daerah Kota Salatiga dan Sekretariat Dewan Perwakilan Rakyat Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 9), sebagaimana telah diubah dengan Peraturan Daerah Kota Salatiga Nomor 7 Tahun 2011 tentang Perubahan atas Peraturan Daerah Kota Salatiga Nomor 9 Tahun 2008 tentang Organisasi dan Tata Kerja Sekretariat Daerah Kota Salatiga dan Sekretariat Dewan Perwakilan Rakyat Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 7);  
+15. Peraturan Daerah Kota Salatiga Nomor 10 Tahun 2008 tentang Organisasi dan Tata Kerja Dinas Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 10), sebagaimana telah diubah dengan Peraturan Daerah Kota Salatiga Nomor 8 Tahun 2011 tentang Perubahan atas Peraturan Daerah Kota Salatiga Nomor 10 Tahun 2008 tentang Organisasi Tata Kerja Dinas Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 8);  
+16. Peraturan Daerah Kota Salatiga Nomor 11 Tahun 2008 tentang Organisasi dan Tata Kerja Lembaga Teknis Daerah, Kantor Pelayanan Perizinan Terpadu, dan Satuan Polisi Pamong Praja Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 10), sebagaimana telah diubah dengan Peraturan Daerah Kota Salatiga Nomor 9 Tahun 2011 tentang Perubahan Kedua atas Peraturan Daerah Kota Salatiga Nomor 11 Tahun 2008 tentang Organisasi dan Tata Kerja Lembaga Teknis Daerah, Kantor Pelayanan Perizinan Terpadu, dan Satuan Polisi Pamong Praja Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 9);  
+17. Peraturan Daerah Kota Salatiga Nomor 12 Tahun 2008 tentang Organisasi dan Tata Kerja Kecamatan dan Kelurahan Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 12);  
+18. Peraturan Daerah Kota Salatiga Nomor 5 Tahun 2011 tentang Penyelenggaraan Pelayanan Publik (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 5, Tambahan Lembaran Daerah Kota Salatiga Nomor 4);  
+19. Peraturan Daerah Kota Salatiga Nomor 1 Tahun 2012 tentang Rencana Pembangunan Jangka Menengah Daerah Kota Salatiga Tahun 2011-2016 (Lembaran Daerah Kota Salatiga Tahun 2012 Nomor 1);  
 
-bahwa berdasarkan pertimbangan  sebagaimana dimaksud dalam huruf  a dan huruf b perlu membentuk  Peraturan Daerah tentang  Penyelenggaraan Perlindungan  terhadap Korban Kekerasan Berbasis  Gender dan Anak;  
+Dengan Persetujuan Bersama  
 
-#### Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA SALATIGA  
 
-Undang-Undang Nomor 17 Tahun 1950 tentang Pembentukan Daerah daerah Kota Kecil dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, dan Jawa Barat;  
+dan  
 
-Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3835);  
+WALIKOTA SALATIGA  
 
-Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235);  
+MEMUTUSKAN:  
 
-5. 6. 7. 8. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
-
-Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 12 Tahun 2008 tentang Perubahan Kedua atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);  
-
-Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);  
-
-Peraturan Pemerintah Nomor 6 Tahun 1988 tentang Koordinasi Kegiatan Instansi Vertikal di Daerah (Lembaran Negara Republik Indonesia Tahun 1988 Nomor 10, Tambahan Lembaran Negara Republik Indonesia Nomor 3373);  
-
-9. 10. 11. 12. 13. Peraturan Pemerintah Nomor 69 Tahun 1992 tentang Perubahan Batas Wilayah Kotamadya Daerah Tingkat II Salatiga dan Kabupaten Daerah Tingkat II Semarang (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 114, Tambahan Lembaran Negara Republik Indonesia Nomor 3500);  
-
-Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
-
-Peraturan Daerah Provinsi Jawa Tengah Nomor 3 Tahun 2009 tentang Penyelenggaraan Perlindungan terhadap Korban Kekerasan Berbasis Gender dan Anak (Lembaran Daerah Provinsi Jawa Tengah Tahun 2009 Nomor 3, Tambahan Lembaran Daerah Provinsi Jawa Tengah Nomor 20);  
-
-Peraturan Daerah Kota Salatiga Nomor 3 Tahun 2007 tentang Pokok pokok Pengelolaan Keuangan Daerah (Lembaran Daerah Kota Salatiga Tahun 2007 Nomor 3);  
-
-Peraturan Daerah Kota Salatiga Nomor 8 Tahun 2008 tentang Urusan Pemerintahan yang Menjadi Kewenangan Pemerintahan Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 8);  
-
-14. 15. 16. Peraturan Daerah Kota Salatiga Nomor 9 Tahun 2008 tentang Organisasi dan Tata Kerja Sekretariat Daerah Kota Salatiga dan Sekretariat Dewan Perwakilan Rakyat Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 9), sebagaimana telah diubah dengan Peraturan Daerah Kota Salatiga Nomor 7 Tahun 2011 tentang Perubahan atas Peraturan Daerah Kota Salatiga Nomor 9 Tahun 2008 tentang Organisasi dan Tata Kerja Sekretariat Daerah Kota Salatiga dan Sekretariat Dewan Perwakilan Rakyat Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 7);  
-
-Peraturan Daerah Kota Salatiga Nomor 10 Tahun 2008 tentang Organisasi dan Tata Kerja Dinas Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 10), sebagaimana telah diubah dengan Peraturan Daerah Kota Salatiga Nomor 8 Tahun 2011 tentang Perubahan atas Peraturan Daerah Kota Salatiga Nomor 10 Tahun 2008 tentang Organisasi Tata Kerja Dinas Daerah Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 8);  
-
-Peraturan Daerah Kota Salatiga Nomor 11 Tahun 2008 tentang Organisasi dan Tata Kerja Lembaga
-
-17. 18. 19. Teknis Daerah, Kantor Pelayanan Perizinan Terpadu, dan Satuan Polisi Pamong Praja Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 10), sebagaimana telah diubah dengan Peraturan Daerah Kota Salatiga Nomor 9 Tahun 2011 tentang Perubahan Kedua atas Peraturan Daerah Kota Salatiga Nomor 11 Tahun 2008 tentang Organisasi dan Tata Kerja Lembaga Teknis Daerah, Kantor Pelayanan Perizinan Terpadu, dan Satuan Polisi Pamong Praja Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 9);  
-
-Peraturan Daerah Kota Salatiga Nomor 12 Tahun 2008 tentang Organisasi dan Tata Kerja Kecamatan dan Kelurahan Kota Salatiga (Lembaran Daerah Kota Salatiga Tahun 2008 Nomor 12);  
-
-Peraturan Daerah Kota Salatiga Nomor 5 Tahun 2011 tentang Penyelenggaraan Pelayanan Publik (Lembaran Daerah Kota Salatiga Tahun 2011 Nomor 5, Tambahan Lembaran Daerah Kota Salatiga Nomor 4);  
-
-Peraturan Daerah Kota Salatiga Nomor 1 Tahun 2012 tentang Rencana Pembangunan Jangka Menengah Daerah Kota Salatiga Tahun 2011-2016 (Lembaran Daerah Kota Salatiga Tahun 2012 Nomor 1);  
-
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA SALATIGA  dan
-
-##### WALIKOTA SALATIGA
-
-##### MEMUTUSKAN:
-
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK.  
+Menetapkan:  
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK.  
 
 # BAB I
 
@@ -82,16 +63,16 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBA
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:  1. Daerah adalah Kota Salatiga.  
-
-7. Kekerasan adalah setiap perbuatan yang berakibat atau  yang mengakibatkan kesengsaraan dan penderitaan  baik fisik, seksual, psikologis termasuk ancaman  tindakan tertentu, pemaksaan atau perampasan  kemerdekaan secara sewenang-wenang, baik yang  terjadi di depan umum atau dalam kehidupan pribadi.  
-8. Gender adalah konsep yang mengacu pada peran-peran  dan tanggung jawab laki-laki dan perempuan yang  terjadi akibat dari dan dapat berubah oleh keadaan  sosial dan budaya masyarakat.  
-9. Kekerasan Berbasis Gender adalah setiap perbuatan  berdasarkan perbedaan jenis kelamin yang berakibat  kesengsaraan atau penderitaan secara fisik, seksual,  ekonomi, sosial, psikis, termasuk ancaman tindakan  tertentu, pemaksaan atau perampasan kemerdekaan,  baik yang terjadi di depan umum atau kehidupan  pribadi, termasuk kekerasan dalam rumah tangga.  
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
+1. Daerah adalah Kota Salatiga.  
 2. Pemerintah Daerah adalah Walikota dan perangkat  daerah sebagai unsur penyelenggara Pemerintahan  Daerah.  
 3. Walikota adalah Walikota Salatiga.  
 4. Satuan Kerja Perangkat Daerah, yang selanjutnya  disingkat SKPD, adalah Satuan Kerja Perangkat Daerah  di lingkungan Pemerintah Daerah yang melaksanakan  urusan pemerintahan daerah tertentu berdasarkan asas  otonomi dan tugas pembantuan.  
 5. Perlindungan adalah segala upaya yang ditujukan  untuk memberikan rasa aman dan memenuhi hak-hak  Korban yang dilakukan oleh pihak keluarga, Pelayanan  terpadu, advokat, lembaga sosial, kepolisian, kejaksaan,  pengadilan, atau pihak lainnya baik sementara maupun  berdasarkan penetapan pengadilan.  
 6. Penyelenggaraan Perlindungan adalah serangkaian  kegiatan yang ditujukan untuk mencegah terjadinya  Kekerasan, penanganan kasus dan penanganan pasca  krisis, koordinasi dan kerja sama, dan peningkatan  partisipasi masyarakat.  
+7. Kekerasan adalah setiap perbuatan yang berakibat atau  yang mengakibatkan kesengsaraan dan penderitaan  baik fisik, seksual, psikologis termasuk ancaman  tindakan tertentu, pemaksaan atau perampasan  kemerdekaan secara sewenang-wenang, baik yang  terjadi di depan umum atau dalam kehidupan pribadi.  
+8. Gender adalah konsep yang mengacu pada peran-peran  dan tanggung jawab laki-laki dan perempuan yang  terjadi akibat dari dan dapat berubah oleh keadaan  sosial dan budaya masyarakat.  
+9. Kekerasan Berbasis Gender adalah setiap perbuatan  berdasarkan perbedaan jenis kelamin yang berakibat  kesengsaraan atau penderitaan secara fisik, seksual,  ekonomi, sosial, psikis, termasuk ancaman tindakan  tertentu, pemaksaan atau perampasan kemerdekaan,  baik yang terjadi di depan umum atau kehidupan  pribadi, termasuk kekerasan dalam rumah tangga. 
 10. Anak adalah seseorang yang belum berusia 18 (delapan  belas) tahun, termasuk Anak yang masih dalam  kandungan sebagaimana dimaksud dalam Undang Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak.  
 11. Kekerasan terhadap Anak adalah setiap bentuk  pembatasan, pembedaan, pengucilan, dan seluruh  bentuk perlakuan yang dilakukan terhadap anak yang  berakibat berupa dan tidak terbatas pada kekerasan  fisik, seksual, psikologis, eksploitasi ekonomi, termasuk  penelantaran dan perlakuan buruk yang merendahkan  martabat Anak.  
 12. Pengaduan adalah pemberitahuan mengenai peristiwa  kekerasan baik secara tertulis maupun lisan oleh  Korban atau pihak lain kepada pihak yang  berkepentingan.  
@@ -102,7 +83,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:  1. Daerah adalah Kota Salatiga
 
 #### Pasal 2
 
-Perlindungan terhadap Korban Kekerasan Berbasis Gender  dan Anak diselenggarakan berdasarkan asas:  a. non diskriminasi;  
+Perlindungan terhadap Korban Kekerasan Berbasis Gender dan Anak diselenggarakan berdasarkan asas:  
+a. non diskriminasi;  
 b. kepentingan terbaik bagi Korban;  
 c. keadilan dan kesetaraan Gender;  
 d. perlindungan korban;  
@@ -123,7 +105,8 @@ a. mencegah segala bentuk Kekerasan Berbasis Gender  dan Anak yang terjadi di li
 b. melindungi dan memberi rasa aman bagi korban;  
 c. memberikan Pendampingan terhadap korban;  
 d. memberikan pelayanan secara terintegrasi kepada  korban;  
-e. mengupayakan Pemulihan dan Reintegrasi Sosial; dan  f. meningkatkan sinergi dan partisipasi masyarakat serta  pemangku kepentingan.  
+e. mengupayakan Pemulihan dan Reintegrasi Sosial; dan  
+f. meningkatkan sinergi dan partisipasi masyarakat serta  pemangku kepentingan.  
 
 #### Pasal 4
 
@@ -138,7 +121,7 @@ g. pembinaan, pengendalian, dan pengawasan.
 
 # BAB II
 
-HAK DAN KEWAJIBAN KORBAN KEKERASAN BERBASIS  GENDER DAN ANAK
+HAK DAN KEWAJIBAN KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
 #### Pasal 5
 
@@ -148,7 +131,8 @@ c. bebas dari pertanyaan yang menjerat;
 d. mendapatkan informasi mengenai perkembangan  kasus dan putusan pengadilan;  
 e. mendapatkan pelayanan yang cepat, tepat, nyaman,  dan sesuai kebutuhan;  
 f. Pemulihan dan Reintegrasi Sosial; dan  
-g. mendapatkan Pendampingan hukum, psikologis,  bimbingan rohani, ekonomi, sosial, dan penerjemah.  (2) Hak Korban sebagaimana dimaksud pada ayat (1)  dilaksanakan sesuai dengan ketentuan peraturan  perundang-undangan yang berlaku.  
+g. mendapatkan Pendampingan hukum, psikologis,  bimbingan rohani, ekonomi, sosial, dan penerjemah.  
+2. Hak Korban sebagaimana dimaksud pada ayat (1)  dilaksanakan sesuai dengan ketentuan peraturan  perundang-undangan yang berlaku.  
 
 #### Pasal 6
 
@@ -166,7 +150,8 @@ Pemerintah Daerah, masyarakat, keluarga, dan orang tua  berkewajiban dan bertang
 
 #### Pasal 8
 
-1. Dalam Penyelenggaraan Perlindungan Korban  Kekerasan Berbasis Gender dan Anak, Pemerintah  Daerah berkewajiban dan bertanggung jawab:  a. mencegah terjadinya Kekerasan;  
+1. Dalam Penyelenggaraan Perlindungan Korban  Kekerasan Berbasis Gender dan Anak, Pemerintah  Daerah berkewajiban dan bertanggung jawab:  
+a. mencegah terjadinya Kekerasan;  
 b. memberikan Perlindungan bagi Korban Kekerasan;  
 c. menyediakan layanan Pemulihan dan Reintegrasi  Sosial;  
 d. memfasilitasi terselenggaranya pelayanan terpadu;  
@@ -174,15 +159,18 @@ e. menyediakan sarana dan prasarana;
 f. meningkatkan kapasitas lembaga penyedia layanan;  
 g. mendorong dan meningkatkan partisipasi  masyarakat; dan  
 h. melakukan kerja sama dengan lembaga penyedia  layanan dalam upaya pencegahan, perlindungan  dan Pemulihan Korban Kekerasan.  
-2. Untuk menjalankan kewajiban dan tanggung jawab  sebagaimana dimaksud pada ayat (1), Pemerintah  Daerah berwenang:a. merumuskan kebijakan dan program tentang  Penghapusan Kekerasan Berbasis Gender dan  Anak;  
+2. Untuk menjalankan kewajiban dan tanggung jawab  sebagaimana dimaksud pada ayat (1), Pemerintah  Daerah berwenang:  
+a. merumuskan kebijakan dan program tentang  Penghapusan Kekerasan Berbasis Gender dan  Anak;  
 b. membentuk lembaga pelayanan bagi Korban  Kekerasan Berbasis Gender dan Anak; dan  
 c. melakukan monitoring dan evaluasi.  
 3. Pemerintah Daerah dalam menjalankan kewajiban dan  tanggung jawab serta wewenang sebagaimana  dimaksud pada ayat (1) dan ayat (2) harus  memperhatikan hak dan kewajiban orang tua, keluarga  atau orang lain yang secara hukum bertanggung jawab  kepada Korban.  
 
 #### Pasal 9
 
-Dalam Penyelenggaraan Perlindungan Korban Kekerasan  Berbasis Gender dan Anak, masyarakat, keluarga, dan  orang tua berkewajiban dan bertanggung jawab:  a. mencegah terjadinya peristiwa Kekerasan;  
-b. memberikan informasi dan melaporkan peristiwa Kekerasan kepada pihak yang berkepentingan; dan  c. turut serta dalam penanganan Korban Kekerasan.  
+Dalam Penyelenggaraan Perlindungan Korban Kekerasan  Berbasis Gender dan Anak, masyarakat, keluarga, dan  orang tua berkewajiban dan bertanggung jawab:  
+a. mencegah terjadinya peristiwa Kekerasan;  
+b. memberikan informasi dan melaporkan peristiwa Kekerasan kepada pihak yang berkepentingan; dan  
+c. turut serta dalam penanganan Korban Kekerasan.  
 
 # BAB IV
 
@@ -227,12 +215,14 @@ f. memberikan layanan pelatihan keterampilan dan  peningkatan akses ekonomi.
 
 #### Pasal 14
 
-1. Koordinasi dan kerja sama sebagaimana dimaksud  dalam Pasal 10 huruf d, meliputi:a. melakukan koordinasi dan kerja sama antar daerah  dalam penanganan kasus Kekerasan Berbasis  Gender dan Anak;  
-b. melakukan koordinasi dan kerja sama dengan  lembaga yang menangani isu-isu Gender dan Anak.  (2) Kerja sama sebagaimana dimaksud pada ayat (1)  meliputi Pendampingan, rujukan, pemulangan,  Reintegrasi Sosial, dan pengembangan sistem  Pelayanan terpadu.  
+1. Koordinasi dan kerja sama sebagaimana dimaksud  dalam Pasal 10 huruf d, meliputi:  
+a. melakukan koordinasi dan kerja sama antar daerah  dalam penanganan kasus Kekerasan Berbasis  Gender dan Anak;  
+b. melakukan koordinasi dan kerja sama dengan  lembaga yang menangani isu-isu Gender dan Anak.  
+2. Kerja sama sebagaimana dimaksud pada ayat (1)  meliputi Pendampingan, rujukan, pemulangan, Reintegrasi Sosial, dan pengembangan sistem  Pelayanan terpadu.  
 
 #### Pasal 15
 
-Peningkatan partisipasi masyarakat sebagaimana  dimaksud dalam Pasal 10 huruf e, meliputi:  
+Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 10 huruf e, meliputi:  
 a. menumbuhkan kepedulian masyarakat terhadap kasus  Kekerasan Berbasis Gender dan Anak; dan  
 b. mendorong masyarakat untuk berpartisipasi aktif  dalam memberikan informasi dan melaporkan adanya  Kekerasan Berbasis Gender dan Anak;  
 c. menumbuhkan kearifan lokal dalam penanganan  terhadap Korban Kekerasan Berbasis Gender dan Anak;  
@@ -251,7 +241,8 @@ Monitoring dan pelaporan sebagaimana dimaksud dalam  Pasal 10 huruf f meliputi p
 
 1. Penyelenggaraan Perlindungan Korban Kekerasan  Berbasis Gender dan Anak dilaksanakan oleh lembaga  non struktural yang berada dibawah koordinasi SKPD  yang membidangi pemberdayaan perempuan dan  Perlindungan Anak.  
 2. Lembaga non struktural sebagaimana dimaksud pada  ayat (1) terdiri dari unsur Pemerintah Daerah, unsur  instansi vertikal dibidang penegakan hukum, unsur  masyarakat, dan unsur pemangku kepentingan terkait.  
-3. Lembaga non struktural sebagaimana dimaksud pada  ayat (1) bertugas:a. menyelenggarakan upaya Perlindungan terhadap  Korban Kekerasan Berbasis Gender dan Anak,  mencakup pencegahan, penanganan kasus,  penanganan pasca krisis, serta monitoring dan  pelaporan;  
+3. Lembaga non struktural sebagaimana dimaksud pada  ayat (1) bertugas:  
+a. menyelenggarakan upaya Perlindungan terhadap  Korban Kekerasan Berbasis Gender dan Anak,  mencakup pencegahan, penanganan kasus,  penanganan pasca krisis, serta monitoring dan  pelaporan;  
 b. menyusun rencana aksi, program, dan kegiatan  Penyelenggaraan Perlindungan terhadap Korban  Kekerasan Berbasis Gender dan Anak;  
 c. menyusun standar pelayanan Penyelenggaraan  Perlindungan terhadap Korban Kekerasan Berbasis  Gender dan Anak; dan  
 d. melaporkan hasil pelaksanaan tugas dan  bertanggung jawab kepada Walikota.  
@@ -263,13 +254,14 @@ d. melaporkan hasil pelaksanaan tugas dan  bertanggung jawab kepada Walikota.
 
 #### Pasal 18
 
-Sumber daya Penyelenggaraan Perlindungan Korban  Kekerasan Berbasis Gender dan Anak terdiri atas:  a. sumber daya manusia;  
+Sumber daya Penyelenggaraan Perlindungan Korban Kekerasan Berbasis Gender dan Anak terdiri atas:  
+a. sumber daya manusia;  
 b. sarana dan prasarana pendukung; dan  
 c. pembiayaan.  
 
 #### Pasal 19
 
-Sumber daya manusia sebagaimana dimaksud dalam Pasal  18 huruf a dapat berasal dari pegawai negeri, akademisi,  praktisi, dan kalangan profesional.  
+Sumber daya manusia sebagaimana dimaksud dalam Pasal 18 huruf a dapat berasal dari pegawai negeri, akademisi,  praktisi, dan kalangan profesional.  
 
 #### Pasal 20
 
@@ -280,7 +272,8 @@ Sarana dan prasarana pendukung sebagaimana dimaksud  dalam Pasal 18 huruf b dapa
 Pembiayaan sebagaimana dimaksud dalam Pasal 18 huruf  c bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah Provinsi  Jawa Tengah;  
-c. Anggaran Pendapatan dan Belanja Daerah Kota  Salatiga; dan/ataud. sumber pendanaan lain yang sah dan tidak mengikat  sesuai dengan ketentuan Peraturan Perundang undangan.  
+c. Anggaran Pendapatan dan Belanja Daerah Kota  Salatiga; dan/atau. 
+d. sumber pendanaan lain yang sah dan tidak mengikat  sesuai dengan ketentuan Peraturan Perundang undangan.  
 
 # BAB VII
 
@@ -289,7 +282,7 @@ c. Anggaran Pendapatan dan Belanja Daerah Kota  Salatiga; dan/ataud. sumber pend
 #### Pasal 22
 
 Peran serta masyarakat dalam Penyelenggaraan  Perlindungan Korban Kekerasan Berbasis Gender dan  Anak, meliputi:  
-a. memberikan informasi dan/atau melaporkan setiap  peristiwa Kekerasan yang diketahuinya;  
+a. memberikan informasi dan/atau melaporkan setiap peristiwa Kekerasan yang diketahuinya;  
 b. memberikan Perlindungan bagi Korban;  
 c. memberikan pertolongan darurat;  
 d. memberikan Pendampingan terhadap Korban dan/atau  masyarakat dalam penanganan dan penyelesaian kasus  Kekerasan Berbasis Gender dan Anak; dan  
@@ -321,37 +314,33 @@ Peraturan Daerah ini mulai berlaku pada tanggal  diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan  penempatannya dalam Lembaran Daerah Kota Salatiga.  
 
-Ditetapkan di Salatiga pada tanggal 20 Mei 2013 27 Desember
+Ditetapkan di Salatiga  
 
-##### WALIKOTA SALATIGA,
+pada tanggal 20 Mei 2013 27 Desember  
+
+WALIKOTA SALATIGA,  
+
+Cap ttd  
+
+YULIYANTO  
+
+Diundangkan di Salatiga  
+
+pada tanggal 20 Mei 2013. 
+
+SEKRETARIS DAERAH  
+
+KOTA SALATIGA,  
 
 Cap ttd
 
-##### YULIYANTO
+AGUS RUDIANTO. 
 
-Diundangkan di Salatiga pada tanggal 20 Mei 2013
+LEMBARAN DAERAH KOTA SALATIGA TAHUN 2013  NOMOR 6  
 
-##### SEKRETARIS DAERAH
+# PENJELASAN ATAS PERATURAN DAERAH KOTA SALATIGA
 
-##### KOTA SALATIGA,
-
-Cap ttd
-
-##### AGUS RUDIANTO
-
-##### LEMBARAN DAERAH KOTA SALATIGA TAHUN 2013  NOMOR 6
-
-##### PENJELASAN
-
-##### ATAS
-
-##### PERATURAN DAERAH KOTA SALATIGA
-
-##### NOMOR 6 TAHUN 2013 20
-
-##### TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN TERHADAP  KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
+NOMOR 6 TAHUN 2013 20 TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK  
 
 ##### I. UMUM
 
@@ -373,35 +362,48 @@ Cukup jelas.
 
 #### Pasal 2
 
-huruf a Yang dimaksud dengan “non diskriminasi”  adalah perlindungan kepada semua korban  Kekerasan Berbasis Gender dan Anak tanpa  membedakan suku, agama, ras, golongan, jenis  kelamin, etnis, budaya dan bahasa, status  hukum, dan kondisi fisik dan mental.  
+huruf a  
+Yang dimaksud dengan “non diskriminasi”  adalah perlindungan kepada semua korban  Kekerasan Berbasis Gender dan Anak tanpa  membedakan suku, agama, ras, golongan, jenis  kelamin, etnis, budaya dan bahasa, status  hukum, dan kondisi fisik dan mental.  
 
-huruf b Yang dimaksud dengan ”kepentingan terbaik  bagi korban” adalah semua tindakan yang  menyangkut korban yang dilakukan oleh  pemerintah, masyarakat, badan legislatif dan  badan yudikatif, harus menjadi pertimbangan  utama.  
+huruf b  
+Yang dimaksud dengan ”kepentingan terbaik  bagi korban” adalah semua tindakan yang  menyangkut korban yang dilakukan oleh  pemerintah, masyarakat, badan legislatif dan  badan yudikatif, harus menjadi pertimbangan  utama.  
 
-huruf c Yang dimaksud dengan “keadilan Gender“  adalah perlakuan adil yang diberikan kepada  perempuan maupun laki-laki.  
+huruf c  
+Yang dimaksud dengan “keadilan Gender“  adalah perlakuan adil yang diberikan kepada  perempuan maupun laki-laki.  
 
 Yang dimaksud dengan “kesetaraan Gender  adalah kondisi dan posisi yang menggambarkan  relasi yang selaras, serasi, dan seimbang antara  laki-laki dan perempuan dalam memperoleh  peluang/kesempatan dalam mengakses,  partisipasi, kontrol dan manfaat dalam  pelaksanaan pembangunan serta menikmati  hasil pembangunan dalam kehidupan keluarga,  maupun dalam bermasyarakat, berbangsa dan  bernegara.  
 
-huruf d Yang dimaksud dengan “Perlindungan Korban”  adalah memberikan rasa aman pada korban  yang dilakukan oleh pihak keluarga, advokat,  lembaga sosial, kepolisian, kejaksaan,  pengadilan, atau pihak lainnya baik secara  sementara maupun berdasarkan penetapan  pengadilan.  
+huruf d  
+Yang dimaksud dengan “Perlindungan Korban”  adalah memberikan rasa aman pada korban  yang dilakukan oleh pihak keluarga, advokat,  lembaga sosial, kepolisian, kejaksaan,  pengadilan, atau pihak lainnya baik secara  sementara maupun berdasarkan penetapan  pengadilan.  
 
-huruf e Yang dimaksud dengan “kelangsungan hidup  ibu” adalah memastikan bahwa seorang ibu  tidak mengalami kematian yang terjadi selama  kehamilan, persalinan, dan pasca persalinan,  baik yang disebabkan oleh kondisi fisik dan non  fisik.  
+huruf e  
+Yang dimaksud dengan “kelangsungan hidup  ibu” adalah memastikan bahwa seorang ibu  tidak mengalami kematian yang terjadi selama  kehamilan, persalinan, dan pasca persalinan,  baik yang disebabkan oleh kondisi fisik dan non  fisik.  
 
-huruf f Yang dimaksud dengan “tumbuh kembang anak”  adalah sebagaimana tercantum dalam prinsip prinsip Konvensi Hak Anak, meliputi hak atas  pendidikan, hak atas bermain, hak atas  berkreasi dan berekreasi.  
+huruf f  
+Yang dimaksud dengan “tumbuh kembang anak”  adalah sebagaimana tercantum dalam prinsip prinsip Konvensi Hak Anak, meliputi hak atas  pendidikan, hak atas bermain, hak atas  berkreasi dan berekreasi.  
 
 Yang dimaksud dengan “kelangsungan hidup  anak” adalah sebagaimana tercantum dalam  prinsiip-prinsip Konvensi Hak Anak, meliputi  hak atas identitas dan hak untuk menikmati  status kesehatan tertinggi yang dapat dicapai.  
 
-huruf g Yang dimaksud dengan ”penghargaan terhadap  pendapat anak” adalah penghormatan atas hak hak anak untuk berpartisipasi dan menyatakan  pendapatnya dalam pengambilan keputusan  terutama jika menyangkut hal-hal yang  mempengaruhi kehidupannya.  
+huruf g  
+Yang dimaksud dengan ”penghargaan terhadap  pendapat anak” adalah penghormatan atas hak hak anak untuk berpartisipasi dan menyatakan  pendapatnya dalam pengambilan keputusan  terutama jika menyangkut hal-hal yang  mempengaruhi kehidupannya.  
 
-huruf h Yang dimaksud dengan ”keterbukaan” adalah  bahwa dalam Penyelenggaraan Perlindungan  Terhadap Korban Kekerasan Berbasis Gender  dan Anak bersifat transparan diantara  penyelenggara layanan terpadu.  
+huruf h  
+Yang dimaksud dengan ”keterbukaan” adalah  bahwa dalam Penyelenggaraan Perlindungan  Terhadap Korban Kekerasan Berbasis Gender  dan Anak bersifat transparan diantara  penyelenggara layanan terpadu.  
 
-huruf i Yang dimaksud dengan ”keterpaduan” adalah  bahwa dalam Penyelenggaraan Perlindungan  Terhadap Korban Kekerasan Berbasis Gender  dan Anak dilakukan dengan membangun  koordinasi antara penyedia layanan, antara lain  pelayanan medis, Pendamping hukum, psikolog,  rohaniawan, pekerja sosial, dan polisi.  
+huruf i  
+Yang dimaksud dengan ”keterpaduan” adalah  bahwa dalam Penyelenggaraan Perlindungan  Terhadap Korban Kekerasan Berbasis Gender  dan Anak dilakukan dengan membangun  koordinasi antara penyedia layanan, antara lain  pelayanan medis, Pendamping hukum, psikolog,  rohaniawan, pekerja sosial, dan polisi.  
 
-huruf j Yang dimaksud dengan “tidak menyalahkan  korban” adalah sikap dan perlakuan tidak  menyalahkan korban atas peristiwa terjadinya  Kekerasan yang dialaminya.  
+huruf j  
+Yang dimaksud dengan “tidak menyalahkan  korban” adalah sikap dan perlakuan tidak  menyalahkan korban atas peristiwa terjadinya  Kekerasan yang dialaminya.  
 
-huruf k Yang dimaksud dengan “memberdayakan”  adalah setiap usah yang diberikan harus dapat  menguatkan korban, baik secara fisik, psikis,  sosial maupun ekonomi.  
+huruf k  
+Yang dimaksud dengan “memberdayakan”  adalah setiap usah yang diberikan harus dapat  menguatkan korban, baik secara fisik, psikis,  sosial maupun ekonomi.  
 
-huruf l Yang dimaksud dengan” kerahasiaan korban”  adalah setiap tindakan yang dilakukan untuk  menjamin Korban dalam kondisi aman dari  ancaman atau tindakan lainnya yang  mengancam jiwa dan psikologis Korban.  
+huruf l  
+Yang dimaksud dengan” kerahasiaan korban”  adalah setiap tindakan yang dilakukan untuk  menjamin Korban dalam kondisi aman dari  ancaman atau tindakan lainnya yang  mengancam jiwa dan psikologis Korban.  
 
-huruf m Yang dimaksud dengan “pengambilan keputusan di  tangan korban” adalah hak korban untuk menentukan  pilihan terbaik dalam menyelesaikan masalahnya.  
+huruf m  
+Yang dimaksud dengan “pengambilan keputusan di  tangan korban” adalah hak korban untuk menentukan  pilihan terbaik dalam menyelesaikan masalahnya.  
 
 #### Pasal 3
 
@@ -441,15 +443,20 @@ Cukup Jelas.
 
 #### Pasal 12
 
-Huruf a Cukup jelas.  
+Huruf a  
+Cukup jelas.  
 
-Huruf b Cukup jelas.  
+Huruf b  
+Cukup jelas.  
 
-Huruf c Yang dimaksud dengan “Medicolegal” adalah  upaya pengumpulan barang bukti untuk  kepentingan pembuktian dalam proses  peradilan.  
+Huruf c  
+Yang dimaksud dengan “Medicolegal” adalah  upaya pengumpulan barang bukti untuk  kepentingan pembuktian dalam proses  peradilan.  
 
-Huruf d Cukup jelas.  
+Huruf d  
+Cukup jelas.  
 
-Huruf e Cukup jelas.  
+Huruf e  
+Cukup jelas.  
 
 #### Pasal 13
 
@@ -503,4 +510,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KOTA SALATIGA NOMOR  6.  
+TAMBAHAN LEMBARAN DAERAH KOTA SALATIGA NOMOR  6.  

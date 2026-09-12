@@ -1,34 +1,47 @@
-• Menimbang  Mengingat
-
-# BUPATI MUNA BARAT
-
-# PROVINS! SULAWESI TENGGARA
-
-# PERATURAN DAERAH KABUPATEN MUNA BARAT  NOMOR 5 TAHUN 2022
-
-# TENT ANG
-
 # PERLINDUNGAN PEREMPUAN
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+BUPATI MUNA BARAT  
 
-# BUPATI MUNA BARAT,  
+PROVINS! SULAWESI TENGGARA  
+
+# PERATURAN DAERAH KABUPATEN MUNA BARAT  
+
+NOMOR 5 TAHUN 2022  
+
+TENTANG  
+
+PERLINDUNGAN PEREMPUAN  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI MUNA BARAT,  
+
+Menimbang:  
+
+
 a. bahwa setiap perempuan berhak untuk mendapatkan  perlindungan atas hak asasinya, bebas dari penyiksaan,  ancaman, tekanan, serta mendapat kemudahan,  perlakuan, kesempatan dan manfaat yang sama guna  mencapai keadilan dan kesejahteraan hidup;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapat jaminan terhadap  pemenuhan hak-haknya dan perlindungan dari tindakan  kekerasan dan diskriminasi dalam rangka membangun  masyarakat, bangsa, dan negara;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan;  
+
+Mengingat:  
+
 1. Pasal 18 ayat (6) Undang-undang Dasar Negara Republik  Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 14 Tahun 2014 tentang  Pembentukan Kabupaten Muna Barat di Provinsi  Sulawesi Tenggara (Lembaran Negara Republik Indonesia  Tahun 2014 Nomor 171, Tambahan Lembaran Negara  Republik Indonesia Nomor 5561);  
-3. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran  Negara Republik Indonesia Nomor 5587) sebagaimana  telah diubah beberapa kali terakhir dengan Undang Undang Nomor 11 Tahun 2020 tentang Cipta Kerja  (Lembaran Negara Republik Indonesia Tahun 2020 Nomor  . 245, Tambahan Lembaran Negara Republik Indonesia  Nomor 6573);  
+3. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran  Negara Republik Indonesia Nomor 5587) sebagaimana  telah diubah beberapa kali terakhir dengan Undang Undang Nomor 11 Tahun 2020 tentang Cipta Kerja  (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia  Nomor 6573);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUNA BARAT  Dan
+Dengan Persetujuan Bersama  
 
-# BUPATI MUNA BARAT
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUNA BARAT  
 
-# MEMUTUSKAN
+Dan  
 
-Menetapkan: PERA TU RAN  PEREMPUAN
+BUPATI MUNA BARAT  
 
-# DAE RAH TENT ANG PERLINDUNGAN
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN  PEREMPUAN DAERAH TENTANG PERLINDUNGAN  
 
 # BAB I
 
@@ -36,8 +49,7 @@ Menetapkan: PERA TU RAN  PEREMPUAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Muna Barat.  
 2. Pemerintahan Daerah adalah Penyelenggaraan urusan pemerintahan  oleh pemerintah daerah dan dewan perwakilan rakyat daerah menurut  asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas " luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia  sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik • Indonesia Tahun 1945.  
 3. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara  pemerintahan daerah yang memimpin pelaksanaan urusan  pemerintahan yang menjadi kewenangan daerah otonom.  
@@ -53,9 +65,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 13. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami istri, suami-istri dan anaknya, atau ayah dan anaknya, atau ibu dan  anaknya.  
 14. Tenaga Kerja adalah setiap orang yang mampu melakukan pekerjaan  guna menghasilkan barang dan/ atau jasa baik untuk memenuhi  kebutuhan sendiri maupun untuk masyarakat.  
 15. Pekerja/Buruh adalah setiap orang yang bekerja dengan menerima  upah atau imbalan dalam bentuk lain.  
-16. Tindak Pidana Perdagangan Orang, yang selanjutnya disingkat TPPO  adalah setiap tindakan atau serangkaian tindakan yang memenuhi  ..  
-
-unsur-unsur tindak pidana yang ditentukan dalam Undang-Undang  Nomor 21 Tahun 2007 yaitu tentang Pemberantasan Tindak Pidana  Perdagangan Orang.  
+16. Tindak Pidana Perdagangan Orang, yang selanjutnya disingkat TPPO  adalah setiap tindakan atau serangkaian tindakan yang memenuhi unsur-unsur tindak pidana yang ditentukan dalam Undang-Undang  Nomor 21 Tahun 2007 yaitu tentang Pemberantasan Tindak Pidana  Perdagangan Orang.  
 
 #### Pasal 2
 
@@ -92,18 +102,17 @@ Hak-Hak Perempuan
 
 #### Pasal 5
 
-( 1) Setiap perempuan berhak untuk:  
+1. Setiap perempuan berhak untuk:  
 a. Hidup dan mempertahankan hidup serta meningkatkan taraf  kehidupannya;  
 b. Memenuhi kebutuhan dasarnya untuk tumbuh dan berkembangan  secara layak, berkeluarga, dan melanjutkan keturunan;  
 c. Mengembangkan pribadinya, untuk memperoleh pendidikan, dan  meningkatkan kualitas hidupnya agar menjadi manusia yang  beriman, bertaqwa, bertanggungjawab, berakhlak mulia, bahagia,  dan sejahtera sesuai dengan hak asasi manusia;  
 d. Memperoleh keadilan, rasa aman, dan kebebasan menyampaikan  pendapat tanpa diskriminasi;  
 e. Terlibat dalam setiap tahapan proses pembangunan;  
 f. Bebas dari perbudakan atau diperhampa dan ancaman;  
-g. Memperoleh perlindungan diri pribadi, keluarga, kehormatan,  martabat dan hak miliknya;  
+g. Memperoleh perlindungan diri pribadi, keluarga, kehormatan, martabat dan hak miliknya;  
 h. Mendapat kesejaheraan dan kehidupan yang layak;  
 i. Berpartisipasi dalam politik;  
-
-J. Melakukan perbuatan hukum; dan
+j. Melakukan perbuatan hukum; dan
 k. Bebas memilih pasangan dalam perkawinannya.  
 2. Setiap perempuan selama dalam ikatan perkawinan mempunyai hak  dan tanggung jawab yang sama dengan suaminya atas semua hal yang  berkenaan dengan kehidupan perkawinannya, hubungan dengan anak anaknya, dan kepemilikan serta pengelolaan harta bersama sesuai  dengan ketentuan peraturan perundang-undangan.  
 3. Setelah putusnya perkawinan, seorang perempuan mempunyai hak dan  tanggung jawab yang sama dengan mantan suaminya atas semua hal  yang berkenaan dengan anak dengan memperhatikan kepentingan  terbaik bagi anak.  
@@ -115,7 +124,8 @@ Kewajiban dan Tanggung Jawab
 #### Pasal 6
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab terhadap  perlindungan perempuan.  
-2. Upaya perlindungan perempuan dilakukan dalam bentuk:  a. Pencegahan;  
+2. Upaya perlindungan perempuan dilakukan dalam bentuk:  
+a. Pencegahan;  
 b. Penanganan;danc. Pemulihan.  
 3. Pencegahan sebagaimana dimaksud pada ayat (2) huruf a dilaksanakan  dalam bentuk penetapan kebijakan, pedoman pelaknsaan, rpogram, dan  kegiatan.  
 4. Penanganan sebagaimana dimaksud pada ayat (2) huruf b dilaksanakan  dalam bentuk penyelenggaraan layanan dan koordinasi antar  penyelenggara layanan.  
@@ -128,7 +138,8 @@ Pelaksanaan Perlindungan Perempuan
 
 #### Pasal 7
 
-1. Perlindungan perempuan meliputi:a. Perlindungan sosial;  
+1. Perlindungan perempuan meliputi:  
+a. Perlindungan sosial;  
 b. Perlindungan ekonomi; dan  
 c. Perlindungan hukum.  
 2. Perlindungan sosial sebagaimana dimaksud pada ayat (1) huruf a  diberikan dalam bentuk jaminan kelangsungan hidup bagi perempuan  dan menjamin terpenuhinya kebutuhan hidup yang layak.  
@@ -137,7 +148,8 @@ c. Perlindungan hukum.
 
 #### Pasal 8
 
-1. Pelaksanaan perlindungan perempuan diberikan kepada:  a. Perempuan pekerja/buruh;  
+1. Pelaksanaan perlindungan perempuan diberikan kepada:  
+a. Perempuan pekerja/buruh;  
 b. Perempuan lanjut usia;  
 c. Perempuan penyandang disabilitas;  
 d. Perempuan tuna wisma;  
@@ -147,7 +159,8 @@ g. Perempuan mantan warga binaan lembaga pemasyarakatan;
 h. Perempuan korban bencana;  
 i. Perempuanmantan pekerja seks komersial;  
 j. Perempuan korban kekerasan;  
-k. Perempuan saksi dan korban; dan L Perempuan korban TPPO.  
+k. Perempuan saksi dan korban; dan  
+l. Perempuan korban TPPO.  
 2. Ketentuan lebih lanjut mengenai bentuk pelaksanaan perlindungan  perempuan sebagaimana dimaksud pada ayat (1) diatur dengan  Peraturan Bupati.  
 
 ## Bagian Keempat
@@ -159,7 +172,8 @@ Kekerasan Terhadap Perempuan
 Setiap orang dilarang melakukan tindakan terhadap perempuan dalam  bentuk:  
 a. Kekerasan fisik;  
 b. Kekerasan psikis;  
-c. Kekerasan seksual; dan/ a taud. Penelantaran dalam rumah tangga.  
+c. Kekerasan seksual; dan/ atau  
+d. Penelantaran dalam rumah tangga.  
 
 #### Pasal 10
 
@@ -171,9 +185,12 @@ Kekerasan psikis sebagaimana dimaksud dalam pasal 9 huruf b adalah  perbuatan ya
 
 #### Pasal 12
 
-1. Kekerasan seksual sebagaimana dimaksud dalam pasal 9 huruf c  meliputi:a. Kekerasan seksual dalam rumah tangga; dan  
+1. Kekerasan seksual sebagaimana dimaksud dalam pasal 9 huruf c  meliputi:  
+a. Kekerasan seksual dalam rumah tangga; dan  
 b. Kekerasan seksual diluar rumah tangga.  
-2. Kekerasan seksual dalam rumah tangga sebagaimana dimaksud pada  ayat (1) huruf a meliputi:a. Pemaksaan hubungan seksual yang dilakukan terhadap orang  yang menetap dalam lingkup rumah tangga tersebut; dan  b. Pemaksaan hubungan seksual terhadap salah seorang dalam  lingkup rumah tangganya dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
+2. Kekerasan seksual dalam rumah tangga sebagaimana dimaksud pada  ayat (1) huruf a meliputi:  
+a. Pemaksaan hubungan seksual yang dilakukan terhadap orang  yang menetap dalam lingkup rumah tangga tersebut; dan  
+b. Pemaksaan hubungan seksual terhadap salah seorang dalam  lingkup rumah tangganya dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 3. Kekerasan seksual diluar rumah tangga sebagaimana dimaksud pada  ayat ( 1) huruf b adalah kekerasan seksual terhadap perempuan yang  tidak mempunyai keterkaitan dengan lingkup rumah tangga pelaku.  
 
 #### Pasal 13
@@ -187,8 +204,7 @@ Strategi Perlindungan Perempuan
 
 #### Pasal 14
 
-( 1) Perlindungan perempuan dilaksanakan dengan mengintegrasikan  pengarusutamaan gender dan data terpilah gender secara terpadu  berdasarkan ketentuan peraturan perundang-undangan.  
-
+1. Perlindungan perempuan dilaksanakan dengan mengintegrasikan  pengarusutamaan gender dan data terpilah gender secara terpadu  berdasarkan ketentuan peraturan perundang-undangan.  
 2. Dalam pelaksanaan perlindungan perempuan dibentuk Kelompok Kerja  dan Layanan Terpadu.  
 3. Perlindungan perempuan dikoordinasikan oleh OPD yang membidangi  pemberdayaan dan perlindungan perempuan.  
 4. Kelompok Kerja sebagaimana dimaksud pada ayat (2) dibentuk pada  setiap kecamatan dan desa/kelurahan.  
@@ -201,7 +217,7 @@ Mekanisme Penyelenggaraan Perlindungan Perempuan
 
 #### Pasal 15
 
-( 1) Mekanisme penyelenggaraan perlindungan perempuan dilakukan  melalui tahapan:  
+1. Mekanisme penyelenggaraan perlindungan perempuan dilakukan  melalui tahapan:  
 a. Perumusan kebijakan perencanaan program dan kegiatan;  
 b. Penganggaran program dan kegiatan;  
 c. Pelaksanaan program dan kegiatan; dan  
@@ -224,10 +240,12 @@ d. Monitoring, evaluasi dan pelaporan.
 
 #### Pasal 17
 
-Segala biaya pelaksanaan kebijakan perencanaan program dan kegiatan  terkait Pemberdayaan dan Perlindungan Perempuan bersumber dari:  a. Anggaran Pendapatan dan Belanja Daerah;  
+Segala biaya pelaksanaan kebijakan perencanaan program dan kegiatan  terkait Pemberdayaan dan Perlindungan Perempuan bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Daerah;  
 b. Anggaran Pendapatan dan Belanja Desa;  
 c. Coorporate Social Responsibility (tanggung jawab sosial perusahaan)  sesuai dengan ketentuan peraturan perundang-undangan;  
-d. Partisipasi masyarakat; dan/ ataue. Sumber lain yang sah dan tidak mengikat.  
+d. Partisipasi masyarakat; dan/ atau  
+e. Sumber lain yang sah dan tidak mengikat.  
 
 ##### BABV
 
@@ -236,12 +254,14 @@ d. Partisipasi masyarakat; dan/ ataue. Sumber lain yang sah dan tidak mengikat.
 #### Pasal 18
 
 1. Bupati atau OPD yang membidangi pemberdayaan dan perlindungan  perempuan melakukan pembinaan dan pengawasan atas perlindungan  perempuan.  
-2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai  berikut:a. Memberikan sosialisasi kepada masyarakat mengenai kebijakan  perlindungan perempuan;  
+2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai  berikut:  
+a. Memberikan sosialisasi kepada masyarakat mengenai kebijakan  perlindungan perempuan;  
 b. Menyediakan buku, leaflet, brosur mengenai perlindungan  perempuan, dan isu-isu terkait lainnya serta menyebarluaskannya  ke masyarakat;  
 c. Fasilitasi peningkatan kapasitas lembaga perlindungan perempuan;  
 d. Fasilitasi forum partisipasi perempuan dan organisasi perempuan;  
 e. Fasilitasi layanan rehabilitasi dan reintegrasi permepuan korban  bencana dan korban kekerasan;  
-f. Mengoordinasikan peran serta dunia usaha dan kelembagaan lain,  termasuk bantuan internasional bagi perlindungan perempuan;  dang. Memberikan penghargaan kepada masyarakat dan dunia usaha  baik secara individu maupun kelembagaan yang telah melakukan  upaya perlindungan perempuan.  
+f. Mengoordinasikan peran serta dunia usaha dan kelembagaan lain,  termasuk bantuan internasional bagi perlindungan perempuan;  dan  
+g. Memberikan penghargaan kepada masyarakat dan dunia usaha  baik secara individu maupun kelembagaan yang telah melakukan  upaya perlindungan perempuan.  
 3. Bentuk pengawasan sebagaimana dimaksud pada ayat (1) dapat berupa  kegiatan monitoring dan evaluasi atas perlindungan perempuan.  
 
 #### Pasal 19
@@ -256,27 +276,17 @@ Setiap orang yang melanggar ketentuan sebagaimana dimaksud dalam  Pasal 9 dipida
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran Daeran  Kabupaten Muna Barat.  
 
-Ditetapkan di Laworo pada tanggal 2 - 2 - 2022 Diundangkan di Laworo pada tanggal 2 - 2 - 2022
+Ditetapkan di Laworo pada tanggal 2 - 2 - 2022 Diundangkan di Laworo pada tanggal 2 - 2 - 2022  
 
-##### SEKRETARIS DAERAHKABUPATEN MUNA BARAT,
+SEKRETARIS DAERAHKABUPATEN MUNA BARAT,  
 
-NOREG PERATURAN DAERAH KABUPATEN MUNA BARAT, PROVINS!  SULAWESI TENGGARA NOMOR: 5/24/2022
+NOREG PERATURAN DAERAH KABUPATEN MUNA BARAT, PROVINS!  SULAWESI TENGGARA NOMOR: 5/24/2022  
 
-I. !
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN MUNA BARAT
 
-##### PENJELASAN
+NOMOR 5 TAHUN 2022 TENTANG PERLINDUNGAN PEREMPUAN  
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN MUNA BARAT
-
-##### NOMOR 5 TAHUN 2022
-
-##### TENT ANG
-
-##### PERLINDUNGAN PEREMPUAN
-
-##### UMUM
+##### I. UMUM
 
 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945,  mengamanatkan Pemerintah Republik Indonesia untuk melindungi  segenap tumpah darah Indonesia dan agar pemerintah daerah  mengatur dan mengurus sendiri urusan pemerintahan yang  diarahkan untuk mempecepat terwujudnya kesejahteraan  masyarakat melalui peningkatan pelayanan, pemberdayaan, dan  perlindungan masyarakat. Kewenangan Pemerintah Daerah adalah  membuat kebijakan daerah untuk memberi perlindungan dan  pelayanan, peningkatan peran serta, prakarsa, dan pemberdayaan  masyarakat yang bertujuan pada peningkatan kesejahteraan rakyat.  Penyelenggaraan otonomi daerah harus selalu berorienasi pada  peningkatan kesejahteraan masyarakat dengan selalu  memperhatikan kepentingan dan aspirasi yang tumbuh dalam  masyarakat. Oleh karena itu suatu urusan pemerintahan yang  berkaitan dengan pelayanan dasar seperti pendidikan dasar,  kesehatan, pemenuhan kebutuhan hidup minimal, prasarana  lingkungan dasar wajib untuk dipenuhi. Hak asasi manusia  merupakan hak dasar yang secara kodrati melekat secara mutlak  (absolut) pada diri manusia, bersifat universal dan langgeng,  sehingga harus dilindungi, dihormati, dipertahankan, dan tidak  boleh diabaikan, dikurangi, atau dirampas oleh siapapun. Dalam  rangka Penegakan Hak Asasi Manusia (HAM) untuk menjamin  keadilan bagi setiap individu mengupayakan pencegahan segala  bentuk perlakuan yang tidak seimbang atau dipandang merugikan  pihak lain, baik individu dengan individu, antar kelompok individu,  maupun antar individu serta antara pemerintah dengan masyarakat,  termasuk proses marjinalisasi terhadap perempuan yang  menyebabkan perempuan rentan terhadap tindak kekerasan,  diskriminasi dan eksploitasi diranah domestik maupun publik.  Perempuan mempunyai hak-hak yang sama dan setara dengan laki laki, akan tetapi pada beberapa kondisi yang diskriminatif,  pemerintah wajib perlu melaksanakan aksi afirmasi sehingga hak perempuan dan perempuan pada kelompok rentan perlu  mendapatkan perlindungan agar tidak mengalami kekerasan dan  dapat menjalani hidup layak sesuai prinsip kemanusiaan kesetaraan  dan keadilan. Perlindungan perempuan dilaksanakan dalam rangka  mewujudkan kesetaraan dan keadilan gender serta Hak Asasi  Manusia. Untuk melaksanakan urusan tersebut diperluka upaya  serius untuk meningkatkan perlindungan perempuan melalui  pendekatan program yang didasarkan pada regulasi berupa  Peraturan Daerah yang berkepastian, berkeadilan dan memberi  manfaat. Berdasar itu Pemerintah Kabupaten Muna Barat sebagai  pihak yang memiliki kewenangan mengatur dan melindungi warga  masyarakat Kabupaten Muna Barat, memandang perlu untuk secara  terus menerus melakukan dan merumuskan regulasi guna  memberikan jaminan terhadap perlindungan perempuan di  Kabupaten Muna Barat. Peraturan daerah ini diharapkan mampu  mendorong upaya perlindungan dan perbaikan kondisi fisik dan  mental perempuan dalam pemenuhan hak dan kebutuhan hidupnya  sebagai bagian dari hak asasi manusia, meningkatkan komitmen dan  efektifitas pemerintah daerah dalam melaksanakan kebijakan,  program dan kegiatan serta mendorong kapasitas kelembagaan  pemerintah dan masyarakat yang meningkatkan kualitas hidup  perempuan.  
 
@@ -290,21 +300,27 @@ Cukup jelas.
 
 Cukup jelas.  
 
-Pasal3 Huruf a Yang dimaksud dengan "hak asasi manusia" adalah  seperangkat hak yang melekat pada hakikatnya dan  keberadaan manusia sebagai makhluk Tuhan Yang Maha  Esa dan merupakan anugerah-Nya yang wajib dihormati,  dijunjung tinggi dan dilindungi oleh negara, hukum,  Pemerintah, dan setiap orang demi kehormatan serta  perlindungan harkat dan martabat manusia.  
+#### Pasal 3 
+
+Huruf a Yang dimaksud dengan "hak asasi manusia" adalah  seperangkat hak yang melekat pada hakikatnya dan  keberadaan manusia sebagai makhluk Tuhan Yang Maha  Esa dan merupakan anugerah-Nya yang wajib dihormati,  dijunjung tinggi dan dilindungi oleh negara, hukum,  Pemerintah, dan setiap orang demi kehormatan serta  perlindungan harkat dan martabat manusia.  
 
 Hurufb Yang dimaksud dengan "kepastian hukum" adalah  adanya landasan peraturan perundang-undangan,  kepatuhan, dan keadilan dalam setiap kebijakan  penyelenggaraan negara.  
 
 Huruf c Yang dimaksud dengan "keadilan" adalah kondisi ke benaran ideal yang bemilai filosofis dan moral mengenai sesuatu hal, baik meyangku t benda a tau orang.  
 
-#### Pasal 4
-
-#### Pasal 5
-
-#### Pasal 6
-
 Hurufd Yang dimaksud dengan "kesetaraan gender" adalah hak  yang adil terhadap laki-laki dan perempuan menurut  kewajaran dengan tanpa bias.  
 
 Huruf e Yang dimaksud dengan "non diskriminatif' adalah tidak  membedakan perlakuan dalam segala hal ihwal yan  berhubungan dengan dasar suku, ras, agama, golongan,  jenis kelamin dan gender.  
+
+#### Pasal 4
+
+Cukup jelas.  
+
+#### Pasal 5
+
+Cukup jelas.  
+
+#### Pasal 6
 
 Cukup jelas.  
 
@@ -340,9 +356,9 @@ Cukup jelas.
 
 #### Pasal 7
 
-#### Pasal 8
-
 Cukup jelas.  
+
+#### Pasal 8
 
 Ayat (1) Huruf a Yang dimaksud dengan "Perempuan Pekerja/Buruh"  adalah perempuan yang bekerja dengan menenma  upah atau imbalan dalam bentuk lain.  
 
@@ -420,12 +436,18 @@ Cukup jelas.
 
 #### Pasal 17
 
+Cukup jelas.  
+
 #### Pasal 18
+
+Cukup jelas.  
 
 #### Pasal 19
 
+Cukup jelas.  
+
 #### Pasal 20
 
-Cukup jelas.  Cukup jelas.  Cukup jelas.  Cukup jelas.  
+Cukup jelas.   
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN MUNA BARAT NOMOR 5 •
+TAMBAHAN LEMBARAN DAERAH KABUPATEN MUNA BARAT NOMOR 5  

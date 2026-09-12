@@ -1,34 +1,20 @@
-# BUPATI SIGI
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-# PROVINSI SULAWESI TENGAH
+BUPATI SIGI  
+
+PROVINSI SULAWESI TENGAH  
 
 # PERATURAN DAERAH KABUPATEN SIGI
 
-# NOMOR 9 TAHUN 2016
+NOMOR 9 TAHUN 2016  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# PEMERINTAH KABUPATEN SIGI
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# TAHUN 2016
-
-# BUPATI SIGI
-
-# PROVINSI SULAWESI TENGAH
-
-# PERATURAN DAERAH KABUPATEN SIGI
-
-# NOMOR 9 TAHUN 2016
-
-# TENTANG
-
-# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
-
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# BUPATI SIGI,
+BUPATI SIGI,  
 
 Menimbang:  
  
@@ -52,7 +38,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi tentang Penghapusan Segala  Bentuk Diskriminasi terhadap Wanita (Convention on The  Elimination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia  Nomor 3277);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3941);  
 4. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia  Tahun 2002 Nomor 109, Tambahan Lembaran Negara  Republik Indonesia Nomor 4235) sebagaimana telah  diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak (Lembaran Negara  Republik Indonesia Tahun 2014 Nomor 297, Tambahan  Lembaran Negara Republik Indonesia Nomor 5606);  
@@ -67,16 +52,21 @@ Mengingat:
 13. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar  Pelayanan Minimal Bidang Layanan Terpadu Bagi  Perempuan dan Anak Korban Kekerasan (Berita Negara  Republik Indonesia Tahun 2010 Nomor 56);  
 14. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 5 Tahun 2010 tentang  Panduan Pembentukan dan Pengembangan Pusat  Pelayanan Terpadu (Berita Negara Republik Indonesia  Tahun 2010 Nomor 446);  
 15. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2011 tentang Pedoman Penanganan Anak Korban Kekerasan (Berita Negara Republik Indonesia Tahun 2011 Nomor 42);  
-16. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 19 Tahun 2011 tentang Pedoman Pemberdayaan Perempuan Korban Kekerasan (Berita Negara Republik Indonesia Tahun 2011 Nomor
-903. ;  
+16. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 19 Tahun 2011 tentang Pedoman Pemberdayaan Perempuan Korban Kekerasan (Berita Negara Republik Indonesia Tahun 2011 Nomor 903;  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SIGI dan
+Dengan Persetujuan Bersama  
 
-# BUPATI SIGI
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SIGI  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
+BUPATI SIGI  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
 # BAB I
 
@@ -84,8 +74,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK KORBAN KEK
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Sigi.  
 2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara  Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan  yang menjadi kewenangan Daerah otonom.  
 3. Bupati adalah Bupati Sigi.  
@@ -127,7 +116,8 @@ d. toleransi dan tidak diskriminatif dalam perbedaan ras, antar golongan,  gende
 
 #### Pasal 3
 
-1. Tujuan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan untuk:a. mencegah terjadinya segala bentuk kekerasan terhadap perempuan  dan anak;  
+1. Tujuan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan untuk:  
+a. mencegah terjadinya segala bentuk kekerasan terhadap perempuan  dan anak;  
 b. memberikan penanganan awal korban;  
 c. memberikan pelayanan kesehatan bagi korban fisik maupun psikis;  
 d. memberikan jaminan perlindungan, rasa aman, dan kepastian hukum  kepada perempuan dan anak korban kekerasan, saksi, dan pelapor;  
@@ -138,7 +128,8 @@ g. melakukan koordinasi dan evaluasi penanganan kekerasan terhadap  perempuan da
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
-d. penelantaran ekonomi;dane. pembatasan akses publik.  
+d. penelantaran ekonomi; dan  
+e. pembatasan akses publik.  
 
 # BAB III
 
@@ -148,20 +139,23 @@ d. penelantaran ekonomi;dane. pembatasan akses publik.
 
 Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak  sebagai berikut:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
-b. hak atas penanganan pengaduan dan pelayanan yang cepat, dan murah. c. hak menentukan sendiri keputusannya;  
+b. hak atas penanganan pengaduan dan pelayanan yang cepat, dan murah.  
+c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
 f. hak atas kompensasi;  
 g. hak korban dan keluarganya untuk mendapatkan kemudahan dalam  proses peradilan;  
 h. hak atas pendampingan;  
-i. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;danj. hak atas rehabilitasi dan reintegrasi sosial.  
+i. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban; dan. 
+j. hak atas rehabilitasi dan reintegrasi sosial.  
 
 #### Pasal 5
 
 Anak korban tindak kekerasan selain mendapatkan hak-hak sebagaimana  dimaksud dalam Pasal 4, juga mendapatkan hak khusus, sebagai berikut:  
 a. hak memperoleh penghormatan dan pelayanan untuk kelangsungan  hidup, tumbuh dan berkembang;  
 b. hak atas pelayanan dasar;  
-c. hak bebas dari stigma negatif;dand. hak mendapatkan kebebasan menentukan pilihan memutuskan  pengurusan dirinya pasca perceraian orang tua.  
+c. hak bebas dari stigma negatif; dan  
+d. hak mendapatkan kebebasan menentukan pilihan memutuskan  pengurusan dirinya pasca perceraian orang tua.  
 
 # BAB IV
 
@@ -175,11 +169,14 @@ b. masyarakat.
 
 #### Pasal 7
 
-1. Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana  dimaksud dalam Pasal 6 huruf a, meliputi:a. menetapkan kebijakan, program, dan kegiatan perlindungan dan  pemulihan perempuan dan anak dari tindak kekerasan;  
+1. Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana  dimaksud dalam Pasal 6 huruf a, meliputi:  
+a. menetapkan kebijakan, program, dan kegiatan perlindungan dan  pemulihan perempuan dan anak dari tindak kekerasan;  
 b. melaksanakan kebijakan perlindungan dan pemulihan perempuan  dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
 c. melakukan kerjasama dalam penyelenggaraan perlindungan dan  pemulihan perempuan dan anak dari tindak kekerasan;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan dan pemulihan perempuan dan anak dari tindak  kekerasan;  
-e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan sesuai kemampuan  keuangan Daerah;danf. membina, mengawasi, mengevaluasi penyelenggaran perlindungan  dan pemulihan perempuan dan anak dari tindak kekerasan. (2) Dalam rangka melaksanakan kewajiban dan tanggungjawab  sebagaimana dimaksud pada ayat (1) Bupati menetapkan rencana aksi  Daerah sebagai dasar bagi SKPD dan UKPD.  
+e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan sesuai kemampuan  keuangan Daerah; dan  
+f. membina, mengawasi, mengevaluasi penyelenggaran perlindungan  dan pemulihan perempuan dan anak dari tindak kekerasan.  
+2. Dalam rangka melaksanakan kewajiban dan tanggungjawab  sebagaimana dimaksud pada ayat (1) Bupati menetapkan rencana aksi  Daerah sebagai dasar bagi SKPD dan UKPD.  
 3. Rencana aksi Daerah sebagaimana dimaksud pada ayat (2) disusun  dengan melibatkan lembaga swadaya masyarakat serta para pihak yang  konsern dan melakukan kerja pendampingan perempuan dan anak,  dengan masa tugas selama 3 (tiga) tahun.  
 4. Petunjuk pelaksanaan dan teknis rencana aksi Daerah sebagaimana  dimaksud pada ayat (2) diatur dengan Peraturan Bupati.  
 
@@ -193,7 +190,8 @@ Kewajiban dan tanggungjawab masyarakat sebagaimana dimaksud dalam  Pasal 6 huruf
 
 #### Pasal 9
 
-1. Dalam menyelenggarakan perlindungan terhadap perempuan dan  anak korban kekerasan, masyarakat dapat:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
+1. Dalam menyelenggarakan perlindungan terhadap perempuan dan  anak korban kekerasan, masyarakat dapat:  
+a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
 b. membentuk unit perlindungan perempuan dan anak di dalam  organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 d. melakukan pertolongan pertama kepada korban;dane. melaporkan kepada instansi yang berwenang apabila  di lingkungannya terjadi kekerasan terhadap korban.  
@@ -212,7 +210,8 @@ b. meningkatkan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan
 c. membuka lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses;  
-f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak;dang. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan yang berbasis kecamatan hingga desa.  
+f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak; dan. 
+g. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan yang berbasis kecamatan hingga desa.  
 
 #### Pasal 11
 
@@ -222,12 +221,14 @@ b. kegiatan yang diprakarsai masyarakat sepanjang tidak bertentangan  dengan asa
 
 #### Pasal 12
 
-1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 9, dilaksanakan oleh SKPD dan  UPTD yang tugas dan fungsinya di bidang:a. sosial;  
+1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 9, dilaksanakan oleh SKPD dan  UPTD yang tugas dan fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spritual;dang. ketentraman dan ketertiban.  
+f. mental dan spritual; dan  
+g. ketentraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh SKPD dan UPTD sebagaimana  dimaksud pada ayat (1), dilaksanakan secara terpadu dan  berkesinambungan berdasarkan petunjuk teknis Rencana Aksi Daerah.  
 
 # BAB VII
@@ -236,14 +237,18 @@ f. mental dan spritual;dang. ketentraman dan ketertiban.
 
 #### Pasal 13
 
-1. Bentuk pelayanan yang diberikan kepada perempuan dan anak korban  tindak kekerasan, sebagai berikut:a. pelayanan pengaduan;  
+1. Bentuk pelayanan yang diberikan kepada perempuan dan anak korban  tindak kekerasan, sebagai berikut:  
+a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. pelayanan bantuan hukum;  
 d. pelayanan pemulangan;  
-e. pelayanan psikologis;danf. pelayanan rehabilitasi dan reintegrasi sosial.  
-2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai Standar Pelayanan Minimal (SPM) yang ditetapkan Pemerintah dan  Pemerintah Daerah dan dilaksanakan oleh SKPD dan UPTD yang tugas  serta fungsinya di bidang:a. sosial;  
+e. pelayanan psikologis; dan
+f. pelayanan rehabilitasi dan reintegrasi sosial.  
+2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai Standar Pelayanan Minimal (SPM) yang ditetapkan Pemerintah dan  Pemerintah Daerah dan dilaksanakan oleh SKPD dan UPTD yang tugas  serta fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
-c. pemberdayaan perempuan dan perlindungan anak;dand. mental dan spiritual.  
+c. pemberdayaan perempuan dan perlindungan anak; dan  
+d. mental dan spiritual.  
 3. Dalam pelaksanaan tugas dan fungsi sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah bekerjasama dengan instansi Pemerintah,  Pemerintah Daerah lain, dan masyarakat.  
 
 #### Pasal 14
@@ -284,9 +289,11 @@ Kerjasama
 a. pemerintah;  
 b. pemerintah provinsi;  
 c. Pemerintah Daerah lainnya;dand. lembaga non pemerintahan.  
-2. Kerjasama sebagaimana dimaksud ayat (1) meliputi:a. pertukaran data dan informasi;  
+2. Kerjasama sebagaimana dimaksud ayat (1) meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. penyediaan barang bukti dan saksi;dand. mekanisme rujukan tindak lanjut kasus sesuai aturan perundangan  yang berlaku.  
+c. penyediaan barang bukti dan saksi; dan  
+d. mekanisme rujukan tindak lanjut kasus sesuai aturan perundangan  yang berlaku.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk perjanjian bersama.  
 
 ## Bagian kedua
@@ -295,7 +302,8 @@ Kemitraan
 
 #### Pasal 18
 
-1. Pemerintah Daerah membentuk kemitraan dengan badan usaha dalam  perlindungan perempuan dan anak dari korban kekerasan. (2) Kemitraan sebagaimana diatur pada ayat (1) dilakukan melalui:  
+1. Pemerintah Daerah membentuk kemitraan dengan badan usaha dalam  perlindungan perempuan dan anak dari korban kekerasan.  
+2. Kemitraan sebagaimana diatur pada ayat (1) dilakukan melalui:  
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban kekerasan yang  putus dari pendidikannya;  
@@ -309,7 +317,8 @@ e. fasilitas usaha dan akses permodalan.
 
 #### Pasal 19
 
-1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan perempuan dan anak dari kekerasan. (2) Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan perempuan dan anak dari kekerasan.  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
 a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis;  
 c. pendidikan dan pelatihan;  
@@ -354,43 +363,35 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Sigi.  
 
-Ditetapkan di Sigi Biromaru pada tanggal 28 Desember 2016
+Ditetapkan di Sigi Biromaru pada tanggal 28 Desember 2016  
 
-##### BUPATI SIGI,
+BUPATI SIGI,  
 
-##### MOHAMAD IRWAN
+MOHAMAD IRWAN  
 
-Diundangkan di Sigi Biromaru pada tanggal, 28 Desember 2016
+Diundangkan di Sigi Biromaru pada tanggal, 28 Desember 2016  
 
-##### SEKRETARIS DAERAH KABUPATEN SIGI,
+SEKRETARIS DAERAH KABUPATEN SIGI,  
 
-##### MUH. BASIR
+MUH. BASIR  
 
-##### LEMBARAN DAERAH KABUPATEN SIGI TAHUN 2016 NOMOR 8
+LEMBARAN DAERAH KABUPATEN SIGI TAHUN 2016 NOMOR 8  
 
-##### NOREG PERATURAN DAERAH KABUPATEN SIGI,
+NOREG PERATURAN DAERAH KABUPATEN SIGI,  
 
-##### PROVINSI SULAWESI TENGAH: 131, 09/2016
+PROVINSI SULAWESI TENGAH: 131, 09/2016  
 
-Salinan sesuai dengan aslinya:
+Salinan sesuai dengan aslinya:  
 
-##### KEPALA BAGIAN HUKUM & ORGANISASI
+KEPALA BAGIAN HUKUM & ORGANISASI  
 
-##### SEKRETARIAT DAERAH KABUPATEN SIGI
+SEKRETARIAT DAERAH KABUPATEN SIGI  
 
-DIDI BAKRAN, SH.,M.Si Pembina Tk. I Nip. 197005022000121004
+DIDI BAKRAN, SH.,M.Si Pembina Tk. I Nip. 197005022000121004  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN SIGI
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN SIGI
-
-##### NOMOR 9 TAHUN 2016
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+NOMOR 9 TAHUN 2016 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
 ##### I. UMUM
 
@@ -404,7 +405,7 @@ Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban  Kekerasan, memb
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
@@ -412,13 +413,20 @@ Huruf a Yang dimaksud dengan asas kemanusian adalah suatu keadaan  eksistensial 
 
 Huruf b Yang dimaksud dengan asas keadilan, adalah suatu keadaan  mental setiap manusia yang secara asali/kodrati ingin  memperoleh rasa adil sebagai bagian dari masyarakat dan/atau  terpenuhi rasa adil setiap orang dalam kedudukannya sebagai  warga negara. Dalam kaitannya dengan perlindungan terhadap  perempuan dan anak korban tindak kekerasan yang diatur  pelaksanaannya melalui perda ini, harus memenuhi asas keadilan  setidak-tidaknya meliputi kesetaraan gender, kepastian hukum,  praduga tak bersalah, persamaan hak di hadapan hukum, tidak  menyalahkan korban, kepentingan terbaik bagi korban. Maksud  kepentingan terbaik baik bagi korban, bahwa dalam proses  penanganan kasus yang dialami korban, semua pihak yang  terlibat di dalamnya, baik pemerintah, masyarakat, badan  legislatif, eksekutif, yudikatif harus mendudukkan kepentingan  korban sebagai yang paling utama dalam segala situasi.  
 
-Huruf c Cukup jelas Huruf d Cukup Jelas
+Huruf c  
+Cukup jelas.  
+
+Huruf d  
+Cukup Jelas.  
 
 #### Pasal 3
 
 Ayat (1) Huruf a Cukup Jelas Huruf b Yang dimaksud dengan eksploitasi adalah tindakan dengan  atau tanpa persetujuan korban yang meliputi pelacuran, kerja  atau pelayanan paksa perbudakan atau praktek serupa  perbudakan, penindasan, pemerasan, pemanfaatan fisik  seksual organ reproduksi atau secara melawan hukum  memindahkan/memanfaatkan tenaga atau mentranspalansi  organ dan atau jaringan tubuh atau memanfaatkan tenaga  atau kemampuan seseorang oleh pihak lain untuk  mendapatkan keuntungan baik materiil maupun immateriil.  
 
-Huruf c Cukup jelas Huruf d Yang dimaksud dengan saksi adalah orang yang melihat,  mendengar dan mengalami peristiwa kekerasan dan  pelanggaran hak asasi manusia Huruf e Mediasi dilakukan untuk kasus kekerasan dalam rumah tangga yang masuk kategori delik aduan sebagaimana  diatur dalam Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan dalam Rumah Tangga.  
+Huruf c  
+Cukup jelas.  
+
+Huruf d Yang dimaksud dengan saksi adalah orang yang melihat,  mendengar dan mengalami peristiwa kekerasan dan  pelanggaran hak asasi manusia Huruf e Mediasi dilakukan untuk kasus kekerasan dalam rumah tangga yang masuk kategori delik aduan sebagaimana  diatur dalam Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan dalam Rumah Tangga.  
 
 Ayat (2) Huruf a Yang dimaksud dengan “kekerasan fisik” adalah perbuatan  yang mengakibatkan rasa sakit, jatuh sakit, atau luka berat  seperti menampar, memukul, meludahi, menarik  rambut/menjambak, menendang, menyulut dengan benda  panas, memukul/melukai dengan senjata, dan/atau  mengakibatkan cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan/atau menyebabkan kematian.  
 
@@ -438,15 +446,24 @@ Huruf a Yang dimaksud hak untuk di hormati martabatnya adalah  menjunjung tinggi
 
 Huruf d Yang dimaksud hak informasi adalah hak mendapatkan keterangan,  pernyataan, gagasan, dan tanda-tanda yang mengandung nilai,  makna, dan pesan, baik data, fakta maupun penjelasannya yang  dapat dilihat, didengar, dan dibaca yang di sajikan dalam berbagai  kemasan dan format sesuai dengan perkembangan tehnologi  informasi dan komunikasi secara elektronik maupun non elektronik  yang terkait tindak kekerasan.  
 
-Huruf e Cukup jelas Huruf f Yang dimaksud dengan hak atas kompensasi, meliputi  pemberdayaan ekonomi, biaya pemulangan, jaminan kesehatan, dan  pendidikan atau keterampilan.  
+Huruf e  
+Cukup jelas.  
 
-Huruf g Cukup Jelas Huruf h Yang dimaksud dengan hak atas pendampingan antara lain psikolog,  psikiater, ahli kesehatan, rohaniawan, advokat, dan anggota keluarga.  Pendamping adalah individu yang bekerja sebagai sukarelawan untuk  memberikan perlindungan dan dukungan kepada perempuan dan  anak korban kekerasan selama proses peradilan, para pendamping ini  bisa berasal dari anggota keluarga, teman atau organisasi independen  yang memberikan perhatian pada saksi dan korban atau advokat.  
+Huruf f Yang dimaksud dengan hak atas kompensasi, meliputi  pemberdayaan ekonomi, biaya pemulangan, jaminan kesehatan, dan  pendidikan atau keterampilan.  
+
+Huruf g  
+Cukup Jelas.  
+
+Huruf h Yang dimaksud dengan hak atas pendampingan antara lain psikolog,  psikiater, ahli kesehatan, rohaniawan, advokat, dan anggota keluarga.  Pendamping adalah individu yang bekerja sebagai sukarelawan untuk  memberikan perlindungan dan dukungan kepada perempuan dan  anak korban kekerasan selama proses peradilan, para pendamping ini  bisa berasal dari anggota keluarga, teman atau organisasi independen  yang memberikan perhatian pada saksi dan korban atau advokat.  
 
 Huruf i Yang dimaksud dengan hak korban atas rehabilitasi, meliputi: akses  pada layanan medis untuk pemulihan fisik dan psikologis, bantuan  hukum untuk mengembalikan hak-hak keperdataan
 
 #### Pasal 5
 
-Huruf a Cukup jelas Huruf b Hak dasar yang dimaksud termasuk hak untuk pendidikan dan  akses kepada orang tua selama proses penanganan berlangsung Huruf c Yang dimaksud stigma negatif, adalah pelabelan (penjulukan,  penyimbolan) negatif publik atau masyarakat atas diri korban yang  dapat berakibat keterasingan korban di dalam komunitasnya sendiri,  termasuk tekanan mental lainnya.  
+Huruf a  
+Cukup jelas.  
+
+Huruf b Hak dasar yang dimaksud termasuk hak untuk pendidikan dan  akses kepada orang tua selama proses penanganan berlangsung Huruf c Yang dimaksud stigma negatif, adalah pelabelan (penjulukan,  penyimbolan) negatif publik atau masyarakat atas diri korban yang  dapat berakibat keterasingan korban di dalam komunitasnya sendiri,  termasuk tekanan mental lainnya.  
 
 Huruf d Yang dimaksud dengan kebebasan menentukan pilihan pasca  perceraian orang tua adalah akibat hukum dari putusnya  perkawinan karena perceraian. Berdasarkan ketentuan dalam Pasal  41 Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (“UU  Perkawinan”) disebutkan bahwa akibat dari putusnya suatu  perkawinan karena perceraian adalah:  
 a. Baik ibu atau bapak tetap berkewajiban memelihara dan  mendidik anak-anaknya, semata-mata berdasarkan kepentingan  anak, bilamana ada perselisihan mengenai penguasaan anak anak, Pengadilan memberi keputusannya.  b. Bapak yang bertanggungjawab atas semua biaya pemeliharaan  dan pendidikan yang diperlukan anak itu, bilamana bapak dalam  kenyataannya tidak dapat memberi kewajiban tersebut  pengadilan dapat menentukan bahwa ibu ikut memikul biaya  tersebut.  c. Pengadilan dapat mewajibkan kepada bekas suami untuk  memberikan biaya penghidupan dan/atau menentukan sesuatu  kewajiban bagi bekas isteri.  
@@ -460,27 +477,27 @@ Cukup jelas.
 
 #### Pasal 7
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 8
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 9
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 10
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 11
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 12
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 13
 
@@ -492,15 +509,19 @@ Huruf c Cukup Jelas Huruf d Yang dimaksud pemulangan, adalah fasilitasi yang dib
 
 Huruf e Cukup Jelas Huruf f Yang dimaksud dengan rehabilitasi sosial adalah pelayanan  yang ditujukan untuk memulihkan dan mengembangkan  kemampuan seseorang yang mengalami disfungsi sosial agar  dapat melaksanakan fungsi sosialnya secara wajar.  
 
-Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (2)  
+Cukup jelas.  
+
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 14
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 15
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 16
 
@@ -508,40 +529,44 @@ Yang dimaksud dengan Pusat Pelayanan Terpadu Pemberdayaan  Perempuan dan Anak (P
 
 #### Pasal 17
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 18
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 19
 
 Ayat (1) Yang dimaksud dengan pembinaan pelaksanaan pencegahan dan  perlindungan perempuan dan anak korban kekerasan adalah upaya  yang dilakukan oleh Pemerintah Daerah dan masyarakat untuk  mewujudkan tercapainya tujuan pencegahan dan perlindungan  perempuan dan anak korban kekerasan Yang dimaksud dengan pengawasan pelaksanaan pencegahan dan  perlindungan perempuan dan anak korban kekerasan adalah proses  kegiatan yang ditujukan untuk menjamin upaya yang dilakukan oleh  Pemerintah Daerah dan masyarakat berjalan secara efesien dan efektif  sesuai dengan rencana dan ketentuan peraturan perundang-undangan.  
 
-Ayat (2) Cukup Jelas Ayat (3) Cukup Jelas
+Ayat (2)  
+Cukup Jelas.  
+
+Ayat (3)  
+Cukup Jelas.  
 
 #### Pasal 20
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 21
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 22
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 23
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 24
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 25
 
-Cukup jelas
+Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN SIGI NOMOR 97
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SIGI NOMOR 97  

@@ -1,12 +1,18 @@
-BUPATI MUNA PROVINSI SULAWESI TENGGARA PERATURAN DAERAH KABUPATEN MUNA NOMOR 7 TAHUN 2019
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN MUNA
 
-# TENTANG
+BUPATI MUNA  
 
-PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN MUNA
+PROVINSI SULAWESI TENGGARA  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+# PERATURAN DAERAH KABUPATEN MUNA NOMOR 7 TAHUN 2019
 
-# BUPATI MUNA.  
+TENTANG  
+
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN MUNA  
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+
+BUPATI MUNA.  
 
 Menimbang:  
  
@@ -28,8 +34,10 @@ Mengingat:
  
  
  
-1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on the Elimination of all Forms of Discrimination Againts Women)(Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277); 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886); 4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah beberapa kali terakhir dengan Undang- Undang Nomor 17 tahun 2016 tentang penetapan peraturan pemerintah tentang pengganti Undang-Undang Nomor 1 Tahun 2016 Tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor 5946);  
-
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on the Elimination of all Forms of Discrimination Againts Women)(Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
+3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
+4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah beberapa kali terakhir dengan Undang- Undang Nomor 17 tahun 2016 tentang penetapan peraturan pemerintah tentang pengganti Undang-Undang Nomor 1 Tahun 2016 Tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor 5946);  
 5. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
 6. Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi Dan Korban (Lembaran Negara Republik Indonesia tahun 2006 Nomor 64, Tambahan Lembaran Negara Republik indonesia nomor 4635) sebagaimana diubah dalam Undang-Undang Nomor 31 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 13 Tahun 2006 Tentang Perlindungan Saksi Dan Korban (Lembaran Negara Republik Indonesia tahun 2014 Nomor 293, Tambahan Lembaran Negara Republik Indonesia nomor 5602);  
 7. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720);  
@@ -40,20 +48,27 @@ Mengingat:
 12. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal Bidang Layanan Terpadu Bagi Perempuan dan Anak Korban Kekerasan;  
 13. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 2 Tahun 2011 tentang Pedoman Pemberdayaan Anak Korban Kekerasan. 14. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah, seabagimana telah diubah dengan Peraturan Menteri Dalam Negeri Nomor 120 Tahun 2018 tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Peraturan Daerah;  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUNA
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN MUNA  
 
-# BUPATI MUNA
+dan  
 
-# MEMUTUSKAN:
+BUPATI MUNA  
 
-Menetapkan:PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN MUNA BAB I KETENTUAN UMUM
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN MUNA 
+
+# BAB I 
+
+## KETENTUAN UMUM
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Muna.  
 2. Pemerintah Daerah adalah Pemerintah Kabupaten Muna.  
 3. Bupati adalah Bupati Muna.  
@@ -106,13 +121,16 @@ b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak
 c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan, pelapor dan saksi;  
 e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  
-2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat berupa:a. kekerasan fisik;  
+2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran ekonomi;  
 e. pembatasan ruang gerak.  
 
-# BAB III HAK-HAK KORBAN
+# BAB III 
+
+## HAK-HAK KORBAN
 
 #### Pasal 4
 
@@ -125,7 +143,9 @@ e. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses
 f. pelayanan bimbingan rohani;  
 g. menentukan sendiri keputusannya;  
 
-# BAB IV KEWAJIBAN DAN TANGGUNGJAWAB
+# BAB IV 
+
+## KEWAJIBAN DAN TANGGUNG JAWAB
 
 #### Pasal 5
 
@@ -138,13 +158,15 @@ d. orang tua.
 #### Pasal 6
 
 1. Pemerintah Daerah berkewajiban dan bertanggungjawab dalam memberikan perlindungan terhadap perempuan dan anak korban kekerasan.  
-2. Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a meliputi:a. melaksanakan kebijakan perlindungan perempuan dan anak korban kekerasan berdasarkan Peraturan Perundang-undangan;  
+2. Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a meliputi:  
+a. melaksanakan kebijakan perlindungan perempuan dan anak korban kekerasan berdasarkan Peraturan Perundang-undangan;  
 b. menetapkan kebijakan, program dan kegiatan perlindungan perempuan dan anak korban kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan perempuan dan anak korban kekerasan;  
 d. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum sesuai kebutuhan korban;  
 e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari korban kekerasan sesuai kemampuan keuangan daerah; dan  
 f. membina dan mengawasasi penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
-3. Kewajiban Pemerintah Desa sebagaimana dimaksud dalam Pasal 5 huruf a meliputi:a. menetapkan kebijakan untuk perlindungan perempuan dan anak korban kekerasan, seperti Peraturan Desa tentang Perlindungan Perempuan dan Anak atau Peraturan Kepala Desa;  
+3. Kewajiban Pemerintah Desa sebagaimana dimaksud dalam Pasal 5 huruf a meliputi:  
+a. menetapkan kebijakan untuk perlindungan perempuan dan anak korban kekerasan, seperti Peraturan Desa tentang Perlindungan Perempuan dan Anak atau Peraturan Kepala Desa;  
 b. memasukan program perlindungan perempuan dan anak dalam Rencana Pembangunan Jangka Menengah Desa;  
 c. mengalokasikan anggaran untuk kegiatan penyelenggaraan perlindungan perempuan dan anak dalam Anggaran Pendapatan dan Belanja Desa;  
 d. membentuk posko desa untuk pelayanan terpadu bagi perempuan dan anak korban kekerasan;  
@@ -159,7 +181,8 @@ i. melakukan pembinaan dan pengawasan penyelenggaraan perlindungan perempuan dan
 #### Pasal 7
 
 1. Kewajiban dan tanggungjawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1) meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1) meliputi:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang;  
 c. turut serta dalam penanganan korban tindak kekerasan;  
 d. memberikan perlindungan terhadap korban;  
@@ -176,10 +199,13 @@ Kewajiban keluarga dan/atau orang tua sebagaimana dimaksud dalam Pasal 5 huruf c
 #### Pasal 9
 
 1. Pencegahan dimaksudkan untuk mengurangi potensi resiko dan kerentanan perempuan dan anak dari segala bentuk kekerasan baik yang terjadi dalam ranah rumah tangga maupun publik, termasuk mencegah keberulangan kekerasan yang dialami korban.  
-2. Pencegahan kekerasan terhadap perempuan dan anak meliputi:a. pencegahan kekerasan di lingkungan keluarga dan masyarakat termasuk desa;  
+2. Pencegahan kekerasan terhadap perempuan dan anak meliputi:  
+a. pencegahan kekerasan di lingkungan keluarga dan masyarakat termasuk desa;  
 b. pencegahan kekerasan di lingkungan pendidikan;  
 c. pencegahan kekerasan di lingkungan tempat kerja; dan  
-d. pencegahan kekerasan di transportasi umum (3) Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
+d. pencegahan kekerasan di transportasi umum  
+3. Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:  
+a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
 d. membentuk posko desa untuk pelayanan terpadu bagi perempuan dan anak korban kekerasan;  
 e. menyediakan program layanan bagi perempuan dan anak korban kekerasan di desa;  
 f. mengangkat pengurus dan petugas pendamping korban untuk posko desa;  
@@ -192,7 +218,8 @@ i. melakukan pembinaan dan pengawasan penyelenggaraan perlindungan perempuan dan
 #### Pasal 7
 
 1. Kewajiban dan tanggungjawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1) meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1) meliputi:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang;  
 c. turut serta dalam penanganan korban tindak kekerasan;  
 d. memberikan perlindungan terhadap korban;  
@@ -202,17 +229,20 @@ e. memberikan pertolongan darurat.
 
 Kewajiban keluarga dan/atau orang tua sebagaimana dimaksud dalam Pasal 5 huruf c dan huruf d yang secara hukum memiliki tanggungjawab penuh untuk mencegah segala bentuk kekerasan dan melindungi perempuan dan anak sebagai anggota keluarga.  
 
-##### B A B V
+# BAB V
 
-##### PENCEGAHAN TINDAK KEKERASAN
+## PENCEGAHAN TINDAK KEKERASAN
 
 #### Pasal 9
 
 1. Pencegahan dimaksudkan untuk mengurangi potensi resiko dan kerentanan perempuan dan anak dari segala bentuk kekerasan baik yang terjadi dalam ranah rumah tangga maupun publik, termasuk mencegah keberulangan kekerasan yang dialami korban.  
-2. Pencegahan kekerasan terhadap perempuan dan anak meliputi:a. pencegahan kekerasan di lingkungan keluarga dan masyarakat termasuk desa;  
+2. Pencegahan kekerasan terhadap perempuan dan anak meliputi:  
+a. pencegahan kekerasan di lingkungan keluarga dan masyarakat termasuk desa;  
 b. pencegahan kekerasan di lingkungan pendidikan;  
 c. pencegahan kekerasan di lingkungan tempat kerja; dan  
-d. pencegahan kekerasan di transportasi umum (3) Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
+d. pencegahan kekerasan di transportasi umum  
+3. Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:  
+a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
 b. publikasi, pentas budaya, jambore remaja dan kampanye;  
 c. pelatihan:d. membentuk dan memfasilitasi kelompok atau forum anak, remaja, perempuan dan masyarakat;  
 e. mendorong/menjadikan lembaga pendidikansebagai kawasan anti kekerasan terhadap perempuan dan anak;  
@@ -231,7 +261,8 @@ f. menetapkan kabupaten layak anak.
 
 #### Pasal 10
 
-1. Bentuk pelayanan kepada perempuan dan anak korban kekerasan meliputi:a. layanan pengaduan;  
+1. Bentuk pelayanan kepada perempuan dan anak korban kekerasan meliputi:  
+a. layanan pengaduan;  
 b. layanan medis;  
 c. layanan psikologis;  
 d. layanan rehabilitasi sosial;  
@@ -250,14 +281,14 @@ d. layanan konsultasi.
 
 #### Pasal 12
 
-1. Layanan medis sebagaimana dimaksud dalam Pasal 10 huruf b, meliputi ;  
+1. Layanan medis sebagaimana dimaksud dalam Pasal 10 huruf b, meliputi:  
 a. layanan konsultasi;  
 b. layanan kegawat daruratan;  
 c. layanan pemeriksaan;  
 d. layanan pengobatan dan perawatan, baik rawat jalan maupun rawat inap;  
 e. layanan rujukan; dan  
 f. layanan medis yang terkait hukum seperti visum dan tes DNA.  
-2. Layanan medis sebagaimana dimaksud pada ayat (1) dilakukan melalui;  
+2. Layanan medis sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
 a. mekanisme khusus di instalansi gawat darurat;  
 b. petugas medis khusus yang telah dilatih mengenai pelayanan medis untuk perempuan dan anak korban kekerasan;  
 c. koordinasi dengan Pusat Pelayanan Terpadu, Organisasi Perangkat Daerah, aparat penegak hukum, lembaga pendamping korban dan pihak lainnya yang terkait.  
@@ -286,7 +317,9 @@ d. layanan penguatan keluarga korban.
 
 #### Pasal 15
 
-1. Layanan penegakan dan bantuan hukum sebagaimana dimaksud dalam Pasal 10 huruf e, meliputia. lavanan konsultasi hukum:b. pendampingan oleh kuasa hukum;  
+1. Layanan penegakan dan bantuan hukum sebagaimana dimaksud dalam Pasal 10 huruf e, meliputi:  
+a. layanan konsultasi hukum;  
+b. pendampingan oleh kuasa hukum;  
 c. perlindungan sementara dari pihak kepolisian terhadap ancaman ancaman dan balas dendam yang dialami oleh korban;  
 d. perlindungan rumah aman dari Lembaga Perlindugan Saksi Korban dan/atau Pusat Pelayanan Terpadu;  
 e. pendampingan disetiap proses hukum dari lembaga pendamping korban dan/atau dari keluarga; dan  
@@ -296,7 +329,8 @@ f. pendampingan ahli bahasa atau penerjemah termasuk bahasa isyarat;
 
 #### Pasal 16
 
-1. Layanan pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam pasal 10 huruf f meliputi:a. layanan pemulangan dan/atau penjemputan;  
+1. Layanan pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam pasal 10 huruf f meliputi:  
+a. layanan pemulangan dan/atau penjemputan;  
 b. layanan dokumen kependudukan seperti akte kelahiran, kartu tanda penduduk dan kartu keluarga;  
 c. lavanan pengasuhan;  
 d. lavanan pemberian beasiswa sekolah;  
@@ -309,7 +343,8 @@ h. layanan pemberian program perlindungan sosial di bidang pendidikan, kesehatan
 
 #### Pasal 17
 
-1. Layanan pendampingan sebagaimana dimaksud dalam pasal 10 huruf g meliputi:a. layanan pendampingan di rumah sakit atau lembaga layanan medis lainnya;  
+1. Layanan pendampingan sebagaimana dimaksud dalam pasal 10 huruf g meliputi:  
+a. layanan pendampingan di rumah sakit atau lembaga layanan medis lainnya;  
 b. layanan pendampingan di lembaga penegak hukum;  
 c. layanan pendampingan di lembaga-lembaga pemerintah dan lembaga sosial;  
 d. layanan peer group.  
@@ -325,7 +360,8 @@ Biaya layanan sebagaimana dimaksud dalam pasal 10 merupakan kewajiban pemerintah
 #### Pasal 19
 
 1. Pelayanan kepada perempuan dan anak korban kekerasan sebagaimana dimaksud dalam Pasal 10 dilakukan secara komprehensif dan terpadu antar lintas sektor, profesi, dan disiplin pengetahuan.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan prinsip:a. non diskriminasi;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan prinsip:  
+a. non diskriminasi;  
 b. kesetaraan:c. perlindungan dan kerahasiaan;  
 d. kejujuran:e. pemberdayaan; dan  
 f. keterpaduan.  
@@ -333,7 +369,9 @@ f. keterpaduan.
 4. Mekanisme pelayanan kepada perempuan dan anak korban kekerasan diselenggarakan menurut standar operasional prosedur.  
 5. Standar operasional prosedur sebagaimana dimaksud pada ayat (4) diatur lebih lanjut dengan Peraturan Bupati.  
 
-# BAB VII KELEMBAGAAN
+# BAB VII 
+
+## KELEMBAGAAN
 
 #### Pasal 20
 
@@ -344,7 +382,8 @@ f. keterpaduan.
 
 1. Pelayanan terpadu perlindungan perempuan dan anak (PPTPPA) ditingkat kabupaten dilakukan oleh Pusat Pelayanan Terpadu Kabupaten.  
 2. Pembentukan dan fasilitasi penyelenggaraan Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA)ditingkat kabupaten menjadi tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak.  
-3. Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) dibentuk dengan tugas:a. memberikan layanan korban secara terpadu dan komprehensif;  
+3. Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) dibentuk dengan tugas:  
+a. memberikan layanan korban secara terpadu dan komprehensif;  
 b. menyediakan layanan pengaduan yang terintegrasi dengan layanan pendampingan, medis dan hukum;  
 c. melakukan rujukan penanganan kasus sesuai dengan layanan yang dibutuhkan korban;  
 d. melakukan koordinasi dan kerjasama penanganan kasus dengan pihak yang terkait;  
@@ -364,7 +403,8 @@ i. organisasi profesi;
 j. pemberdayaan dan kesejahteraan keluarga;  
 k. lembaga pendamping korban; dan  
 l. lembaga swadaya masyarakat.  
-5. Struktur Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari:a. penasehat;  
+5. Struktur Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari:  
+a. penasehat;  
 b. ketua;  
 c. sekretaris;  
 d. sekretariat pelayanan;  
@@ -375,48 +415,61 @@ e. divisi-divisi.
 
 1. Pelayanan terpadu perlindungan perempuan dan anak (PPTPPA) ditingkat kecamatan dilakukan oleh Pusat Pelayanan Terpadu Kecamatan.  
 2. Pembentukan dan fasilitasi penyelenggaraan Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) ditingkat kecamatan menjadi tanggungjawabOrganisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak dan bagian tata pemerintahan.  
-3. Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) dibentuk dengan tugas:a. memberikan layanan korban secara terpadu dan komprehensif di tingkat kecamatan;  
+3. Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) dibentuk dengan tugas:  
+a. memberikan layanan korban secara terpadu dan komprehensif di tingkat kecamatan;  
 b. menyediakan layanan pengaduan;  
 c. melakukan rujukan penanganan kasus sesuai dengan layanan yang dibutuhkan korban kepada Pusat Pelayanan Terpadu Kabupaten dan pihak terkait di tingkat kecamatan;  
 d. melakukan koordinasi dan kerjasama penanganan kasus dengan pihak terkait di tingkat kecamatan;  
 e. melakukan pendataan penanganan kasus di tingkat kecamatan;  
 f. menyediakan berbagai informasi yang dibutuhkan korban dan masyarakat di tingkat kecamatan;  
 g. melakukan pencegahan kasus kekerasan terhadap perempuan dan anak di tingkat kecamatan.  
-4. Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari:a. pemerintah kecamatan;  
+4. Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari:  
+a. pemerintah kecamatan;  
 b. unit pelaksana teknis dinas di kecamatan;  
 c. kepolisian sektor;  
 d. puskesmas;  
 e. pemberdayaan dan kesejahteraan keluarga;  
 f. organisasi masyarakat;  
-g. organisasi keagamaan. (5) Struktur Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari:  
+g. organisasi keagamaan.  
+5. Struktur Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari:  
 a. penasehat;  
 b. ketua;  
 c. sekretaris;  
 d. sekretariat pelayanan;  
-e. divisi divisi. (6) Struktur Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PTPPA) sebagaimana dimaksud pada ayat (5) ditetapkan melalui keputusan kepala Organisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak.  
+e. divisi divisi.  
+6. Struktur Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PTPPA) sebagaimana dimaksud pada ayat (5) ditetapkan melalui keputusan kepala Organisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak.  
 
 #### Pasal 23
 
-1. Pelayanan terpadu perlindungan perempuan dan anak (PTPPA) di tingkat desa atau kelurahan dilakukan oleh Posko Desa atau Kelurahan. (2) Pembentukan dan fasilitasi penyelenggaraan Posko Desa atau Kelurahan menjadi tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak dan Pemerintah Desa. (3) Posko Desa atau Kelurahan sebagaimana dimaksud pada ayat (1) dibentuk dengan tugas:  
+1. Pelayanan terpadu perlindungan perempuan dan anak (PTPPA) di tingkat desa atau kelurahan dilakukan oleh Posko Desa atau Kelurahan.  
+2. Pembentukan dan fasilitasi penyelenggaraan Posko Desa atau Kelurahan menjadi tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak dan Pemerintah Desa.  
+3. Posko Desa atau Kelurahan sebagaimana dimaksud pada ayat (1) dibentuk dengan tugas:  
 a. menyediakan layanan pengaduan;  
 b. memberikan layanan konseling;  
 c. memberikan layanan pendampingan;  
 d. memberikan layanan rujukan kepada Pusat Pelayanan Terpadu Kecamatan dan Kabupaten serta kepada pihak lainnya yang terkait;  
-e. memberikan layanan reintegrasi sosial f. melakukan koordinasi penanganan kasus;  
+e. memberikan layanan reintegrasi sosial;  
+f. melakukan koordinasi penanganan kasus;  
 g. melakukan pendataan penanganan kasus di tingkat desa atau kelurahan;  
-h. melakukan pencegahan di tingkat desa atau kelurahan. (4) Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari;  
+h. melakukan pencegahan di tingkat desa atau kelurahan.  
+4. Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari;  
 a. pemerintah desa atau kelurahan;  
 b. klinik kesehatan dan/atau bidan desa atau kelurahan;  
 c. pemberdayaan dan kesejahteraan keluarga;  
 d. organisasi masyarakat;  
 e. organisasi keagamaan;  
 f. lembaga layanan berbasis komunitas;  
-g. organisasi perempuan; dan h. tokoh agama, tokoh masyarakat dan tokoh adat. (5) Struktur Posko Desa atau Kelurahan sebagaimana dimaksud pada ayat (1) terdiri dari:  
+g. organisasi perempuan; dan h. tokoh agama, tokoh masyarakat dan tokoh adat.  
+5. Struktur Posko Desa atau Kelurahan sebagaimana dimaksud pada ayat (1) terdiri dari:  
 a. penasehat;  
 b. ketua;  
-c. sekretaris; dan d. divisi-divisi. (6) Struktur Posko Desa atau Kelurahan sebagaimana dimaksud pada ayat (1) ditetapkan melalui keputusan kepala desa atau lurah.  
+c. sekretaris; dan  
+d. divisi-divisi.  
+6. Struktur Posko Desa atau Kelurahan sebagaimana dimaksud pada ayat (1) ditetapkan melalui keputusan kepala desa atau lurah.  
 
-# BAB VIII PARTISIPASI MASYARAKAT
+# BAB VIII 
+
+## PARTISIPASI MASYARAKAT
 
 #### Pasal 24
 
@@ -447,16 +500,16 @@ c. sekretaris; dan d. divisi-divisi. (6) Struktur Posko Desa atau Kelurahan seba
 3. Pembinaan dan pengawasan oleh pemerintah desa sebagaimana dimaksud pada ayat (1) meliputi penyelenggaraan perlindungan perempuan dan anak di tingkat desa.  
 4. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1) meliputi:  
 a.pedoman dan standar operasional pelayanan;  
-
 b.koordinasi rutin;  
 c. bimbingan teknis dan pelatihan, penyediaan sarana dan prasarana dan sumber daya manusia;  
-
 d.monitoring dan evaluasi;  
 e. pelaporan.  
 5. Pembinaan dan pengawasan dilakukan minimal sekali dalam setahun dan pelaksanaannya menjadi tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan Perlindungan Anak dan Inspektorat Daerah.  
 6. Hasil pelaksanaan pembinaan dan pengawasan sebagaimana dimaksud pada ayat (5) dilaporkan kepada Bupati dan disampaikan kepada Organisasi Perangkat Daerah terkait, Pemerintah Desa, masyarakat dan dunia usaha.  
 
-# BAB XI  PELAPORAN
+# BAB XI  
+
+## PELAPORAN
 
 #### Pasal 28
 
@@ -487,6 +540,6 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini
 
 Diundangkan di Raha pada tanggal 10- 11 - 2019 Pj. SEKRETARIS DAERAH,
 
-##### LEMBARAN DAERAH KABUPATEN MUNA TAHUN 2019 NOMOR 7.  
+LEMBARAN DAERAH KABUPATEN MUNA TAHUN 2019 NOMOR 7.  
 
-NOREG PERATURAN DAERAH KABUPATEN MUNA, PROVINSI SULAWESI TENGGARA: (6/145/2019)
+NOREG PERATURAN DAERAH KABUPATEN MUNA, PROVINSI SULAWESI TENGGARA: (6/145/2019)  

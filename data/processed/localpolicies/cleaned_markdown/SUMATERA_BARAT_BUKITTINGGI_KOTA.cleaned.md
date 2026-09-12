@@ -1,18 +1,20 @@
-# WALIKOTA BUKITTINGGI
+# PERLINDUNGAN PEREMPUAN DAN ANAK
 
-# PROVINSI SUMATERA BARAT
+WALIKOTA BUKITTINGGI  
+
+PROVINSI SUMATERA BARAT  
 
 # PERATURAN DAERAH KOTA BUKITTINGGI
 
-# NOMOR 4 TAHUN 2015
+NOMOR 4 TAHUN 2015  
 
-# TENTANG
+TENTANG  
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK
+PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# WALIKOTA BUKITTINGGI,
+WALIKOTA BUKITTINGGI,  
 
 Menimbang:  
  
@@ -35,14 +37,13 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indoensia Tahun 1945;  
-
 2. Undang-Undang Nomor 9 Tahun 1956 tentang  Pembentukan Daerah Otonomi Kota Besar Dalam Lingkungan Daerah Propinsi Sumatera Tengah (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 20);  
 3. Undang-Undang Nomor 1 Tahun 1974 tentang  Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019);  
 4. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3243);  
 5. Undang-Undang Nomor 8 Tahun 1981 tentang Hukum  Acara Pidana (Lembaran Negara Republik Indonesia Tahun 1981 Nomor 76, Tambahan Lembaran Negara Republik Indonesia Nomor 3209);  
 6. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi Mengenai Penghapusan Segala  Bentuk Diskriminasi Terhadap Wanita (Convention On  The Elimination Of All Forms Of Discrimination Against  Women) (Lembaran Negara Republik Indonesia Tahun  1984 Nomor 29);  
 7. Undang-Undang nomor 39 Tahun 1999 tentang Hak  Azazi Manusia (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 165 Tambahan Lembaran Negara  Republik Indonesia Nomor 3886);  
-8. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik  Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran  Negara Republik Indonesia Nomor 4235), sebagaimana  telah diubah dengan Undang-Undang Nomor 35 Tahun  2014 tentang Perubahan Atas Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak (Lembaran  Negara Republik Indonesia Tahun 2014 Nomor 297,  Tambahan Lembaran Negara Republik Indonesia Nomor  5606);  
+8. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik  Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran  Negara Republik Indonesia Nomor 4235), sebagaimana  telah diubah dengan Undang-Undang Nomor 35 Tahun  2014 tentang Perubahan Atas Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak (Lembaran  Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor  5606);  
 9. Undang-Undang Nomor 13 Tahun 2003 tentang  Ketenagakerjaan (Lembaran Negara Republik Indonesia  Tahun 2003 Nomor 39, Tambahan Lembaran Negara  Republik Indonesia Nomor 4279);  
 10. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004  Nomor 95, Tambahan Lembaran Negara Republik  Indonesia Nomor 4419);  
 11. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik  Indonesia Nomor 4720);  
@@ -59,13 +60,19 @@ Mengingat:
 22. Peraturan Daerah Kota Bukittinggi Nomor 6 Tahun 2000  tentang Penyidik Pegawai Negeri Sipil (Lembaran Daerah Kota Bukittinggi Tahun 2000 Nomor 7);  
 23. Peraturan Daerah Kota Bukittinggi Nomor 11 Tahun  2008 tentang Pembentukan Organisasi dan Tata Kerja Lembaga Teknis Daerah Kota Bukittinggi (Lembaran Daerah Kota Bukittinggi Tahun 2008 Nomor 11), sebagaimana telah diubah dengan Peraturan Daerah Kota Bukittinggi Nomor 9 Tahun 2013 (Lembaran Daerah Kota Bukittinggi Tahun 2013 Nomor 9).  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA BUKITTINGGI Dan
+Dengan Persetujuan Bersama  
 
-# WALIKOTA BUKITTINGGI
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA BUKITTINGGI  
 
-# MEMUTUSKAN:
+Dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK.  
+WALIKOTA BUKITTINGGI  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -73,8 +80,8 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kota Bukittinggi.  
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
+1. Daerah adalah Kota Bukittinggi.  
 2. Pemerintahan Daerah adalah penyelenggaraan urusan  pemerintahan oleh pemerintah daerah dan dewan  perwakilan rakyat daerah menurut asas otonomi dan  tugas pembantuan dengan prinsip otonomi seluas-luasnya  dalam sistem dan prinsip Negara Kesatuan Republik  Indonesia sebagaimana dimaksud dalam Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945.  
 3. Pemerintah Daerah adalah kepala daerah sebagai unsur  penyelenggara pemerintahan daerah yang memimpin  pelaksanaan urusan pemerintahan yang menjadi  kewenangan daerah otonom.  
 4. Walikota adalah Walikota Bukittinggi.  
@@ -124,8 +131,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kota Bukitting
 
 #### Pasal 2
 
-Penyelenggaraan Perlindungan Perempuan dan Anak  berasaskan: (1) Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945.  
-
+Penyelenggaraan Perlindungan Perempuan dan Anak  berasaskan:  
+1. Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945.  
 2. Prinsip-prinsip dasar hak anak, meliputi non diskriminasi, kepentingan terbaik bagi anak, hak untuk hidup,  kelangsungan hidup dan perkembangan, dan  penghargaan terhadap pendapat anak.  
 3. Ajaran universal yang menyatakan bahwa perempuan dan  anak merupakan bagian yang sangat penting dalam konteks keberlanjutan suatu bangsa, bukan saja  dipandang dalam kaedah agama, tetapi dalam  implementasinya merupakan sumber daya manusia dalam  pembangunan suatu bangsa.  
 4. Pandangan hidup dan falsafah adat Minangkabau yang  dituangkan dalam ajaran Adat Basandi Syarak, Syarak  Basandi Kitabullah; Syarak Mangato Adat Mamakai, Alam  Takambang Jadi Guru, dan Anak dipangku kamanakan  dibimbiang, urang kampuang dipatenggangkan.  
@@ -133,7 +140,15 @@ Penyelenggaraan Perlindungan Perempuan dan Anak  berasaskan: (1) Pancasila dan U
 #### Pasal 3
 
 Tujuan dari Peraturan Daerah ini adalah:  
-a. Melindungi perempuan dan anak dari tindakan keputusan  dan kebijakan yang melanggar hak-hak azazi manusia. b. Memberi tanggungjawab yang jelas bagi pemerintah, masyarakat, keluarga, ninik mamak dan orang tua  terhadap hak anak dan perempuan.  c. Memberi batas-batas yang jelas terhadap peranan mamak  kepada kemenakan dan orang tua terhadap anak. d. Melindungi perempuan dan anak dari tindak kekerasan,  penelantaran, pengeksploitasi, dan perdagangan orang  serta hak-hak perempuan bila terjadi perceraian. e. Memberi kontribusi terhadap terwujudnya kesetaraan dan  keadilan gender dalam berbagai kegiatan serta  meningkatkan kesejahteraan perempuan dan anak di  Daerah.  f. Menata struktur dan lembaga pemerintah dan lembaga  adat dalam upaya perlindungan terhadap perempuan dan  anak.  g. Sebagai pedoman dalam mengambil kebijakan bagi  Pemerintah Daerah dan pranata-pranata sosial dalam hal  yang berhubungan dengan perlindungan perempuan dan  anak di Daerah.  h. Melindungi perempuan dan anak yang berdomisili di  Daerah dari tindakan-tindakan yang melanggar hak azazi  mereka.  i. Memberi pedoman terhadap peran Pemerintah Daerah,  masyarakat, orang tua dan pihak-pihak lain yang  bersinggungan dengan kepentingan perempuan dan anak.  
+a. Melindungi perempuan dan anak dari tindakan keputusan  dan kebijakan yang melanggar hak-hak azazi manusia.  
+b. Memberi tanggungjawab yang jelas bagi pemerintah, masyarakat, keluarga, ninik mamak dan orang tua  terhadap hak anak dan perempuan.  
+c. Memberi batas-batas yang jelas terhadap peranan mamak  kepada kemenakan dan orang tua terhadap anak.  
+d. Melindungi perempuan dan anak dari tindak kekerasan,  penelantaran, pengeksploitasi, dan perdagangan orang  serta hak-hak perempuan bila terjadi perceraian.  
+e. Memberi kontribusi terhadap terwujudnya kesetaraan dan  keadilan gender dalam berbagai kegiatan serta  meningkatkan kesejahteraan perempuan dan anak di  Daerah.  
+f. Menata struktur dan lembaga pemerintah dan lembaga  adat dalam upaya perlindungan terhadap perempuan dan  anak.  
+g. Sebagai pedoman dalam mengambil kebijakan bagi  Pemerintah Daerah dan pranata-pranata sosial dalam hal  yang berhubungan dengan perlindungan perempuan dan  anak di Daerah.  
+h. Melindungi perempuan dan anak yang berdomisili di  Daerah dari tindakan-tindakan yang melanggar hak azazi  mereka.  
+i. Memberi pedoman terhadap peran Pemerintah Daerah,  masyarakat, orang tua dan pihak-pihak lain yang  bersinggungan dengan kepentingan perempuan dan anak.  
 
 # BAB III
 
@@ -146,15 +161,26 @@ Hak dan Kewajiban Perempuan
 #### Pasal 4
 
 Setiap perempuan berhak:  
-a. Memperoleh perlindungan dari diskriminasi, eksploitasi  (ekonomi dan sosial), penelantaran, kekejaman,  kekerasan, penganiayaan (fisik, psikis, dan seksual)  ketidak adilan dan perlakuan salah lainnya.  b. Memperoleh kesempatan dan hak-haknya yang sama  dengan laki-laki sebagai manusia, agar mampu berperan  dan berpartisipasi dalam kegiatan politik, ekonomi, sosial  dan budaya, pertahanan keamanan dan kesamaan dalam  menikmati hasil pembangunan.  c. Untuk perempuan pekerja:
-1. memperoleh cuti/istirahat selama 1,5 (satu setengah)  bulan sebelum saatnya melahirkan anak dan 1,5 (satu  setengah) bulan sesudah melahirkan menurut  perhitungan dokter kandungan atau bidan, dengan  tetap mendapat upah atau gaji sesuai dengan  peraturan perundang-undangan yang berlaku;  
-2. memperoleh cuti/istirahat selama 1,5 (satu setengah)  bulan apabila mengalami keguguran kandungan  dengan tetap mendapat upah atau gaji sesuai dengan  peraturan perundang-undangan yang berlaku;  
-3. memperoleh kesempatan sepatutnya untuk  memberikan air susu ibu kepada anaknya jika hal itu  harus dilakukan selama waktu kerja, dengan tetap  mendapat upah atau gaji sesuai dengan peraturan  perundang-undangan yang berlaku.  d. Setiap perempuan yang telah menikah berhak untuk  mendapatkan nafkah lahir dan nafkah bathin dari suami.  e. Setiap perempuan yang ditinggal oleh suami karena  proses perceraian wajib diberikan nafkah lahir oleh suami  sampai ada putusan pengadilan sesuai aturan perundang undangan.  f. Setiap perempuan berhak memperoleh pekerjaan yang  layak sesuai harkat, martabat dan kodratnya.  g. Memperoleh pengetahuan dan keterampilan yang berguna  untuk meningkatkan kualitas diri dan kesejahteraan  keluarga.  
+a. Memperoleh perlindungan dari diskriminasi, eksploitasi  (ekonomi dan sosial), penelantaran, kekejaman,  kekerasan, penganiayaan (fisik, psikis, dan seksual)  ketidak adilan dan perlakuan salah lainnya.  
+b. Memperoleh kesempatan dan hak-haknya yang sama  dengan laki-laki sebagai manusia, agar mampu berperan  dan berpartisipasi dalam kegiatan politik, ekonomi, sosial  dan budaya, pertahanan keamanan dan kesamaan dalam  menikmati hasil pembangunan.  
+c. Untuk perempuan pekerja:  
+1\. memperoleh cuti/istirahat selama 1,5 (satu setengah)  bulan sebelum saatnya melahirkan anak dan 1,5 (satu  setengah) bulan sesudah melahirkan menurut  perhitungan dokter kandungan atau bidan, dengan  tetap mendapat upah atau gaji sesuai dengan  peraturan perundang-undangan yang berlaku;  
+2\. memperoleh cuti/istirahat selama 1,5 (satu setengah)  bulan apabila mengalami keguguran kandungan  dengan tetap mendapat upah atau gaji sesuai dengan  peraturan perundang-undangan yang berlaku;  
+3\. memperoleh kesempatan sepatutnya untuk  memberikan air susu ibu kepada anaknya jika hal itu  harus dilakukan selama waktu kerja, dengan tetap  mendapat upah atau gaji sesuai dengan peraturan  perundang-undangan yang berlaku.  
+d. Setiap perempuan yang telah menikah berhak untuk  mendapatkan nafkah lahir dan nafkah bathin dari suami.  
+e. Setiap perempuan yang ditinggal oleh suami karena  proses perceraian wajib diberikan nafkah lahir oleh suami  sampai ada putusan pengadilan sesuai aturan perundang undangan.  
+f. Setiap perempuan berhak memperoleh pekerjaan yang  layak sesuai harkat, martabat dan kodratnya.  
+g. Memperoleh pengetahuan dan keterampilan yang berguna  untuk meningkatkan kualitas diri dan kesejahteraan  keluarga.  
 
 #### Pasal 5
 
 Setiap perempuan berkewajiban untuk:  
-a. Saling menghormati, saling mencintai dan tolong  menolong dengan semua anggota keluarga dan  kerabatnya.  b. Mengurus rumah tangga terutama sebagai ibu rumah  tangga yang baik sesuai dengan adat istiadat setempat  dan kemampuannya.  c. Menghormati suami dan patuh kepada suami sejauh tidak  bertentangan dengan nilai-nilai agama dan adat.  d. Merawat dan mendidik anak sesuai dengan nilai agama  dan norma adat.  e. Menambah pengetahuan, keterampilan yang bermanfaat  bagi keluarga, dan masyarakat.  f. Mematuhi nilai agama dan norma adat.  
+a. Saling menghormati, saling mencintai dan tolong  menolong dengan semua anggota keluarga dan  kerabatnya.  
+b. Mengurus rumah tangga terutama sebagai ibu rumah  tangga yang baik sesuai dengan adat istiadat setempat  dan kemampuannya.  
+c. Menghormati suami dan patuh kepada suami sejauh tidak  bertentangan dengan nilai-nilai agama dan adat.  
+d. Merawat dan mendidik anak sesuai dengan nilai agama  dan norma adat.  
+e. Menambah pengetahuan, keterampilan yang bermanfaat  bagi keluarga, dan masyarakat.  
+f. Mematuhi nilai agama dan norma adat.  
 
 ## Bagian Kedua
 
@@ -163,18 +189,44 @@ Hak dan Kewajiban Anak
 #### Pasal 6
 
 Setiap anak berhak:  
-a. Untuk hidup, tumbuh, berkembang dan berpartisipasi  secara wajar sesuai harkat dan martabat manusia, serta  mendapat perlindungan dari tindak kekerasan,  eksploitasi, diskriminasi dan penelantaran.  b. Berhak atas suatu nama sebagai identitas diri dan status  kewarganegaraan.  c. Untuk beribadah menurut agamanya, berpikir dan  berekspresi sesuai dengan tingkat kecerdasan dan  usianya, dalam bimbingan orang tua.  d. Untuk mengetahui orang tua, diasuh dan dibesarkan oleh  orang tuanya sendiri.  e. Dalam hal karena suatu sebab orang tuanya tidak dapat  menjamin tumbuh kembang anak, atau anak dalam  keadaan terlantar maka anak tersebut berhak diasuh atau  diangkat sebagai anak asuh atau anak angkat oleh orang  lain sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  f. Memperoleh pelayanan kesehatan dan jaminan sosial  sesuai dengan kebutuhan fisik, mental, spiritual, dan  sosial.  g. Memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya  sesuai dengan minat dan bakatnya.  h. Mendapatkan perlindungan di satuan pendidikan dari  kejahatan seksual dan kekerasan yang dilakukan oleh  pendidik, tenaga kependidikan, sesama peserta didik,  dan/atau pihak lain.  i. Mendapatkan pendidikan luar biasa dan khusus bagi  anak penyandang disabilitas dan anak yang memiliki  keunggulan.  j. Menyatakan dan didengar pendapatnya, menerima,  mencari, dan memberikan informasi sesuai dengan  tingkat kecerdasan dan usianya demi pengembangan  dirinya sesuai dengan nilai-nilai kesusilaan dan  kepatutan.  k. Untuk beristirahat dan memanfaatkan waktu luang,  bergaul dengan anak yang sebaya, bermain, berekreasi,  dan berkreasi sesuai dengan minat, bakat, dan tingkat  kecerdasannya demi pengembangan diri.  l. Memperoleh rehabilitasi, bantuan sosial dan pemulihan  taraf kesejahteraan sosial bagi anak penyandang  disanilitas.  m. Berhak mendapat perlindungan dari perlakuan selama  dalam pengasuhan orang tua, wali, atau pihak lain  manapun yang bertanggungjawab atas pengasuhan, dari  perlakuan diskriminasi, eksploitasi, baik ekonomi  maupun seksual, penelantaran, kekejaman, kekerasan,  dan penganiayaan, ketidakadilan dan perlakuan salah  lainnya.  n. Untuk diasuh oleh orang tuanya sendiri, kecuali jika ada  alasan dan/atau aturan hukum yang sah menunjukan  bahwa pemisahan itu adalah demi kepentingan terbaik  bagi anak dan merupakan pertimbangan terakhir.  o. Dalam hal terjadi pemisahan antara anak dengan orang tuanya, anak tetap berhak:
-1. bertemu langsung dan berhubungan pribadi secara  tetap dengan kedua orang tuanya;  
-2. mendapatkan pengasuhan, pemeliharaan, pendidikan  dan perlindungan untuk proses tumbuh kembang dari  kedua orang tuanya sesuai dengan kemampuan, bakat  dan minatnya;  
-3. memperoleh pembiayaan hidup dari kedua orang  tuanya; dan
-4. memperoleh hak anak lainnya.  p. Memperoleh perlindungan dari penyalahgunaan dalam  kegiatan politik, pelibatan dalam sengketa bersenjata,  pelibatan dalam kerusuhan sosial, pelibatan dalam  peristiwa yang mengandung unsur kekerasan, pelibatan  dalam peperangan dan kejahatan seksual.  q. Untuk memperoleh perlindungan dari sasaran  penganiayaan, penyiksaan atau penjatuhan hukuman pemberian sanksi yang tidak manusiawi.  r. Untuk memperoleh kebebasan sesuai hukum. s. Setiap anak yang dirampas kebebasannya berhak untuk: 1. mendapatkan perlakuan secara manuasiawi dan  penempatannya dipisahkan dari orang dewasa;  
-2. memperoleh bantuan hukum atau bantuan lainnya secara efektif dalam setiap tahapan upaya hukum yang  berlaku; dan
-3. membela diri dan memperoleh keadilan di depan  pengadilan anak yang obyektif dan tidak memihak  dalam sidang tertutup untuk umum.  t. Setiap anak yang menjadi korban atau pelaku kekerasan  seksual atau yang berhadapan dengan hukum berhak  dirahasiakan.  u. Mendapatkan bantuan hukum dan bantuan lainnya  apabila menjadi korban atau pelaku tindak pidana.  
+a. Untuk hidup, tumbuh, berkembang dan berpartisipasi  secara wajar sesuai harkat dan martabat manusia, serta  mendapat perlindungan dari tindak kekerasan,  eksploitasi, diskriminasi dan penelantaran.  
+b. Berhak atas suatu nama sebagai identitas diri dan status  kewarganegaraan.  
+c. Untuk beribadah menurut agamanya, berpikir dan  berekspresi sesuai dengan tingkat kecerdasan dan  usianya, dalam bimbingan orang tua.  
+d. Untuk mengetahui orang tua, diasuh dan dibesarkan oleh  orang tuanya sendiri.  
+e. Dalam hal karena suatu sebab orang tuanya tidak dapat  menjamin tumbuh kembang anak, atau anak dalam  keadaan terlantar maka anak tersebut berhak diasuh atau  diangkat sebagai anak asuh atau anak angkat oleh orang  lain sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
+f. Memperoleh pelayanan kesehatan dan jaminan sosial  sesuai dengan kebutuhan fisik, mental, spiritual, dan  sosial.  
+g. Memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya  sesuai dengan minat dan bakatnya.  
+h. Mendapatkan perlindungan di satuan pendidikan dari  kejahatan seksual dan kekerasan yang dilakukan oleh  pendidik, tenaga kependidikan, sesama peserta didik,  dan/atau pihak lain.  
+i. Mendapatkan pendidikan luar biasa dan khusus bagi  anak penyandang disabilitas dan anak yang memiliki  keunggulan.  
+j. Menyatakan dan didengar pendapatnya, menerima,  mencari, dan memberikan informasi sesuai dengan  tingkat kecerdasan dan usianya demi pengembangan  dirinya sesuai dengan nilai-nilai kesusilaan dan  kepatutan.  
+k. Untuk beristirahat dan memanfaatkan waktu luang,  bergaul dengan anak yang sebaya, bermain, berekreasi,  dan berkreasi sesuai dengan minat, bakat, dan tingkat  kecerdasannya demi pengembangan diri.  
+l. Memperoleh rehabilitasi, bantuan sosial dan pemulihan  taraf kesejahteraan sosial bagi anak penyandang  disanilitas.  
+m. Berhak mendapat perlindungan dari perlakuan selama  dalam pengasuhan orang tua, wali, atau pihak lain  manapun yang bertanggungjawab atas pengasuhan, dari  perlakuan diskriminasi, eksploitasi, baik ekonomi  maupun seksual, penelantaran, kekejaman, kekerasan,  dan penganiayaan, ketidakadilan dan perlakuan salah  lainnya.  
+n. Untuk diasuh oleh orang tuanya sendiri, kecuali jika ada  alasan dan/atau aturan hukum yang sah menunjukan  bahwa pemisahan itu adalah demi kepentingan terbaik  bagi anak dan merupakan pertimbangan terakhir.  
+o. Dalam hal terjadi pemisahan antara anak dengan orang tuanya, anak tetap berhak:  
+1\. bertemu langsung dan berhubungan pribadi secara  tetap dengan kedua orang tuanya;  
+2\. mendapatkan pengasuhan, pemeliharaan, pendidikan  dan perlindungan untuk proses tumbuh kembang dari  kedua orang tuanya sesuai dengan kemampuan, bakat  dan minatnya;  
+3\. memperoleh pembiayaan hidup dari kedua orang  tuanya; dan
+4\. memperoleh hak anak lainnya.  
+p. Memperoleh perlindungan dari penyalahgunaan dalam  kegiatan politik, pelibatan dalam sengketa bersenjata,  pelibatan dalam kerusuhan sosial, pelibatan dalam  peristiwa yang mengandung unsur kekerasan, pelibatan  dalam peperangan dan kejahatan seksual.  
+q. Untuk memperoleh perlindungan dari sasaran  penganiayaan, penyiksaan atau penjatuhan hukuman pemberian sanksi yang tidak manusiawi.  
+r. Untuk memperoleh kebebasan sesuai hukum.  
+s. Setiap anak yang dirampas kebebasannya berhak untuk:  
+1\. mendapatkan perlakuan secara manuasiawi dan  penempatannya dipisahkan dari orang dewasa;  
+2\. memperoleh bantuan hukum atau bantuan lainnya secara efektif dalam setiap tahapan upaya hukum yang  berlaku; dan
+3\. membela diri dan memperoleh keadilan di depan  pengadilan anak yang obyektif dan tidak memihak  dalam sidang tertutup untuk umum.  
+t. Setiap anak yang menjadi korban atau pelaku kekerasan  seksual atau yang berhadapan dengan hukum berhak  dirahasiakan.  
+u. Mendapatkan bantuan hukum dan bantuan lainnya  apabila menjadi korban atau pelaku tindak pidana.  
 
 #### Pasal 7
 
 Setiap anak berkewajiban untuk:  
-a. Menghormati orang tua, wali dan guru.  b. Mencintai keluarga, masyarakat dan menyayangi teman. c. Mencintai Tanah Air, Bangsa, dan Negara.  d. Menunaikan ibadah sesuai dengan ajaran agama masing masing.  e. Melaksanakan etika dan akhlak yang mulia.  f. Mentaati segala ketentuan yang dianggap dapat merusak  diri dan masa depannya.  
+a. Menghormati orang tua, wali dan guru.  
+b. Mencintai keluarga, masyarakat dan menyayangi teman.  
+c. Mencintai Tanah Air, Bangsa, dan Negara.  
+d. Menunaikan ibadah sesuai dengan ajaran agama masing masing.  
+e. Melaksanakan etika dan akhlak yang mulia.  
+f. Mentaati segala ketentuan yang dianggap dapat merusak  diri dan masa depannya.  
 
 # BAB IV
 
@@ -187,12 +239,21 @@ Pemerintah Daerah bertanggung jawab atas pelaksanaan  perlindungan perempuan dan
 #### Pasal 9
 
 Perlindungan terhadap perempuan meliputi:  
-a. Melakukan sosialisasi, edukasi dan kampanye anti  kekerasan terhadap perempuan dengan melibatkan  seluruh Satuan Kerja Perangkat Daerah, mitra kerja dan masyarakat secara aktif.  b. Memastikan program pengarusutamaan gender di setiap  Satuan Kerja Perangkat Daerah, untuk menjamin  kesetaraan antara laki-laki dan perempuan, yang  tergambar pada Rencana Anggaran Satuan Kerja  Perangkat Daerah.  c. Melakukan pendeteksian secara dini terhadap kasus  kekerasan terhadap perempuan.  d. Menyediakan sarana pelayanan bagi korban kekerasan  terhadap perempuan, baik pelayanan terhadap korban  fisik maupun pelayanan korban secara psikologis, melalui  penyempurnaan sarana dan fasilitas khusus di Rumah  sakit dan pada P2TP2A.  e. Mewajibkan semua Rumah Sakit untuk bersedia menerima perempuan korban kekerasan untuk di visum  dan menjalani perawatan kesehatan.  f. Memberikan hak-hak perempuan sesuai dengan harkat  dan martabatnya sebagai perempuan.  g. Melindungi tenaga kerja perempuan dari tindakan  diskriminasi, eksploitasi dan kekerasan.  h. Mewajibkan penyediaan sarana prasarana khusus  perempuan sesuai kriteria, di setiap gedung pemerintah,  kantor swasta dan fasilitas umum lainnya.  i. Mewajibkan penyediaan sarana ruang laktasi bagi gedung  pemerintah yang memberikan pelayanan umum dan  tempat-tempat fasilitas umum lainnya seperti mall,  supermarket, tempat praktek dokter dan sejenisnya.  
+a. Melakukan sosialisasi, edukasi dan kampanye anti  kekerasan terhadap perempuan dengan melibatkan  seluruh Satuan Kerja Perangkat Daerah, mitra kerja dan masyarakat secara aktif.  
+b. Memastikan program pengarusutamaan gender di setiap  Satuan Kerja Perangkat Daerah, untuk menjamin  kesetaraan antara laki-laki dan perempuan, yang  tergambar pada Rencana Anggaran Satuan Kerja  Perangkat Daerah.  
+c. Melakukan pendeteksian secara dini terhadap kasus  kekerasan terhadap perempuan.  
+d. Menyediakan sarana pelayanan bagi korban kekerasan  terhadap perempuan, baik pelayanan terhadap korban  fisik maupun pelayanan korban secara psikologis, melalui  penyempurnaan sarana dan fasilitas khusus di Rumah  sakit dan pada P2TP2A.  
+e. Mewajibkan semua Rumah Sakit untuk bersedia menerima perempuan korban kekerasan untuk di visum  dan menjalani perawatan kesehatan.  
+f. Memberikan hak-hak perempuan sesuai dengan harkat  dan martabatnya sebagai perempuan.  
+g. Melindungi tenaga kerja perempuan dari tindakan  diskriminasi, eksploitasi dan kekerasan.  
+h. Mewajibkan penyediaan sarana prasarana khusus  perempuan sesuai kriteria, di setiap gedung pemerintah,  kantor swasta dan fasilitas umum lainnya.  
+i. Mewajibkan penyediaan sarana ruang laktasi bagi gedung  pemerintah yang memberikan pelayanan umum dan  tempat-tempat fasilitas umum lainnya seperti mall,  supermarket, tempat praktek dokter dan sejenisnya.  
 
 #### Pasal 10
 
 1. Perlindungan terhadap anak mulai dari dalam kandungan  sampai dengan usia 18 (delapan belas) tahun.  
-2. Perlindungan anak dalam kandungan, bayi dan balita  meliputi:a. perlindungan anak dalam kandungan, termasuk  menjamin anak lahir dalam keadaan sehat, untuk  menekan angka kematian ibu dan menekan angka  kematian anak;  
+2. Perlindungan anak dalam kandungan, bayi dan balita  meliputi:  
+a. perlindungan anak dalam kandungan, termasuk  menjamin anak lahir dalam keadaan sehat, untuk  menekan angka kematian ibu dan menekan angka  kematian anak;  
 b. menjamin setiap anak dilahirkan dengan proses medis  sesuai SOP dari Kementerian Kesehatan;  
 c. menjamin setiap anak pasca dilahirkan,  diselenggarakan dengan proses tuntunan agama yang  dianut oleh orangtuanya;  
 d. penyediaan sarana imunisasi yang lengkap baik di  posyandu, puskesmas atau rumah sakit pemerintah;  
@@ -202,9 +263,11 @@ g. menjamin kualitas pengetahuan kader posyandu dan  kader bina keluarga balita 
 h. pemberian edukasi kepada masyarakat tentang menjadi  orangtua hebat, untuk menjamin kesehatan anak, baik  di posyandu, bina keluarga balita bersama-sama  dengan mitra kerja pemerintah dan masyarakat;  
 i. penyediaan tempat bermain dan penitipan anak yang  dikelola oleh pemerintah daerah atau organisasi yang  berada di bawah naungan Pemerintah Daerah;  
 j. penyediaan Pojok ASI di perkantoran yang memiliki  tenaga perempuan; dan  
-k. pemberian perhatian dan kasih sayang dari keluarga. (3) Perlindungan bagi anak usia sekolah:a. melarang adanya tindakan bullying kepada anak di  sekolah;  
+k. pemberian perhatian dan kasih sayang dari keluarga.  
+3. Perlindungan bagi anak usia sekolah:  
+a. melarang adanya tindakan bullying kepada anak di sekolah;  
 b. menjamin tidak adanya tindakan penindasan (bullying) antar anak, guru ke anak, orang tua ke anak dan  masyarakat ke anak baik di sekolah, di rumah maupun  di tengah-tengah masyarakat;  
-c. memberikan edukasi kepada sekolah, keluarga dan  masyarakat tentang sekolah ramah anak;  
+c. memberikan edukasi kepada sekolah, keluarga dan masyarakat tentang sekolah ramah anak;  
 d. mewajibkan setiap sekolah di semua tingkatan  memennuhi kriteria sekolah ramah anak;  
 e. mendapat perhatian dan kasih sayang yang penuh dari  keluarga dan masyarakat;  
 f. mendapat bimbingan agama dan adat istiadat/budaya  lokal termasuk sumbang 12 (dua baleh);  
@@ -213,7 +276,8 @@ h. menyediakan program beasiswa bagi anak kurang  mampu dan anak yang berprestas
 i. menyediakan sarana penunjang untuk kegiatan ekstra kurikuler seperti untuk mata pelajaran olah raga,  kesenian dan muatan lokal lainnya serta guru  pembimbing kegiatan; dan  
 j. melarang anak sekolah berada di warnet pada jam  sekolah dan setelah jam 18.00 WIB.  
 4. Setiap orang dan/atau pihak manapun wajib melindungi  anak usia sekolah dari tindakan kekerasan di lingkungan  keluarga, sekolah dan masyarakat.  
-5. Perlindungan terhadap anak terlantar:a. pemerintah daerah, LSM/Oganisasi sosial dan  masyarakat berkewajiban memberi perlindungan  terhadap anak terlantar yang berdomisili di Daerah  sesuai dengan peraturan perundang-undangan;  
+5. Perlindungan terhadap anak terlantar:  
+a. pemerintah daerah, LSM/Oganisasi sosial dan  masyarakat berkewajiban memberi perlindungan  terhadap anak terlantar yang berdomisili di Daerah  sesuai dengan peraturan perundang-undangan;  
 b. pemerintah daerah menjamin anak tidak hidup di  jalanan;  
 c. perlindungan bagi anak terlantar yang orang tuanya  tidak punya kemampuan dan/atau melakukan  pembiaraan serta anak yang tidak punya orang tua,  yang dilaksanakan melalui pelayanan panti dan non  panti oleh pemerintah daerah dan masyarakat;  
 d. bentuk pelayanan panti sebagaimana dimaksud pada  huruf (c), dilaksanakan dalam suasana kekeluargaan  dan di lingkungan terdekat anak dikelola oleh  masyarakat dan berbentuk lembaga;  
@@ -257,7 +321,8 @@ Keluarga, pengasuh, panti dan lembaga adat wajib berperan  aktif dalam memberika
 
 #### Pasal 17
 
-1. Perlindungan perempuan dan anak dilakukan dalam  bentuk perlindungan:a. preventif;  
+1. Perlindungan perempuan dan anak dilakukan dalam  bentuk perlindungan:  
+a. preventif;  
 b. represif; dan  
 c. postremedial.  
 2. Perlindungan preventif sebagaimana dimaksud pada ayat  (1) huruf a dilaksanakan melalui sosialisasi dan  pengarahan kepada orangtua, kepala keluarga, ibu rumah  tangga, wali, tenaga pengajar/pendidik, tenaga ahli,  pengasuh (pemilik dan petugas panti asuhan) dan  masyarakat hukum adat tentang kewajiban mereka dalam  perlindungan perempuan dan anak.  
@@ -315,7 +380,8 @@ PELAKSANAAN PENANGANAN KORBAN PELANGGARAN HAK PEREMPUAN DAN ANAK
 2. P2TP2A dibentuk oleh Pemerintah Daerah.  
 3. Pengurus P2TP2A dibentuk dengan Keputusan Walikota  dengan masa kepengurusan selama 2 (dua) tahun.  
 4. Dalam melaksanakan tugas pokok dan fungsinya P2TP2A  dibiayai dengan APBD atau sumber lain yang sah.  
-5. Pelayanan Penanganan Pengaduan dilakukan dalam  bentuk:a. pelapor (korban atau keluarga, masyarakat dan/atau  lembaga) datang secara langsung, melalui telepon dan/ atau surat melaporkan tindak kekerasan;  
+5. Pelayanan Penanganan Pengaduan dilakukan dalam  bentuk:  
+a. pelapor (korban atau keluarga, masyarakat dan/atau  lembaga) datang secara langsung, melalui telepon dan/ atau surat melaporkan tindak kekerasan;  
 b. pelapor dirujuk oleh LSM, Organisasi sosial,  masyarakat ataupun media massa; dan  
 c. dalam hal tertentu petugas dapat mendatangi korban  (pelapor) secara langsung.  
 
@@ -348,10 +414,12 @@ Setiap perempuan atau anak yang menjadi korban  pelanggaran hak-hak perempuan da
 
 #### Pasal 29
 
-1. Kebijakan pengembangan KLA memuat tentang:  a. konsep KLA;  
+1. Kebijakan pengembangan KLA memuat tentang:  
+a. konsep KLA;  
 b. hak anak; dan  
 c. pendekatan pengembangan KLA.  
-2. Konsep KLA sebagaimana pada ayat (1) huruf a, meliputi:  a. pengertian;  
+2. Konsep KLA sebagaimana pada ayat (1) huruf a, meliputi:  
+a. pengertian;  
 b. tujuan;  
 c. strategi; dan  
 d. peran para pihak.  
@@ -360,7 +428,8 @@ d. peran para pihak.
 #### Pasal 30
 
 1. Kebijakan pengembangan KLA diarahkan pada  pemenuhan hak anak yang terbagi dalam 5 (lima)  kelompok.  
-2. Pemenuhan hak anak sebagaimana pada ayat (1), terdiri  dari:a. hak sipil dan kebebasan;  
+2. Pemenuhan hak anak sebagaimana pada ayat (1), terdiri  dari:  
+a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
 d. pendidikan dan sekolah ramah anak, pemanfaatan  waktu luang, dan kegiatan budaya; dan  
@@ -369,9 +438,10 @@ e. perlindungan khusus.
 
 #### Pasal 31
 
-1. Dalam rangka efektifitas pelaksanaan kebijakan KLA di  Daerah dibentuk Gugus Tugas KLA.  
+1. Dalam rangka efektifitas pelaksanaan kebijakan KLA di Daerah dibentuk Gugus Tugas KLA.  
 2. Pelaksanaan kebijakan KLA sebagaimana dimaksud pada  ayat (1), ditetapkan dengan Keputusan Walikota.  
-3. Gugus Tugas KLA sebagaimana dimaksud pada ayat (1),  mempunyai tugas pokok:a. mengkoordinasikan pelaksanaan kebijakan dan  pengembangan KLA;  
+3. Gugus Tugas KLA sebagaimana dimaksud pada ayat (1),  mempunyai tugas pokok:  
+a. mengkoordinasikan pelaksanaan kebijakan dan  pengembangan KLA;  
 b. menetapkan tugas-tugas dari anggota Gugus Tugas;  
 c. melakukan sosialisasi, advokasi dan komunikasi  informasi dan edukasi kebijakan KLA;  
 d. mengumpulkan data dasar;  
@@ -403,35 +473,29 @@ Peraturan Daerah ini mulai berlaku pada tanggal  diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan penempatannya  dalam Lembaran Daerah Kota Bukittinggi.  
 
-Ditetapkan di Bukittinggi pada tanggal 30 Mei 2015
+Ditetapkan di Bukittinggi pada tanggal 30 Mei 2015  
 
-##### WALIKOTA BUKITTINGGI,
+WALIKOTA BUKITTINGGI,  
 
-ttd,
+ttd,  
 
-##### ISMET AMZIS
+ISMET AMZIS  
 
-Diundangkan di Bukittinggi pada tanggal 1 Juni 2015
+Diundangkan di Bukittinggi pada tanggal 1 Juni 2015  
 
-##### SEKRETARIS DAERAH KOTA BUKITTINGGI,
+SEKRETARIS DAERAH KOTA BUKITTINGGI,  
 
-ttd,
+ttd,  
 
-##### YUEN KARNOVA
+YUEN KARNOVA  
 
-##### LEMBARAN DAERAH KOTA BUKITTINGGI TAHUN 2015 NOMOR 4
+LEMBARAN DAERAH KOTA BUKITTINGGI TAHUN 2015 NOMOR 4  
 
-NOREG PERATURAN DAERAH KOTA BUKITTINGGI PROVINSI SUMATERA  BARAT: (4/2015)
+NOREG PERATURAN DAERAH KOTA BUKITTINGGI PROVINSI SUMATERA  BARAT: (4/2015)  
 
-##### PENJELASAN ATAS
+# PENJELASAN ATAS PERATURAN DAERAH KOTA BUKITTINGGI
 
-##### PERATURAN DAERAH KOTA BUKITTINGGI
-
-##### NOMOR 4 TAHUN 2015
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK
+NOMOR 4 TAHUN 2015 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK
 
 ##### I. UMUM
 
@@ -593,4 +657,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KOTA BUKITTINGGI NOMOR 4
+TAMBAHAN LEMBARAN DAERAH KOTA BUKITTINGGI NOMOR 4  

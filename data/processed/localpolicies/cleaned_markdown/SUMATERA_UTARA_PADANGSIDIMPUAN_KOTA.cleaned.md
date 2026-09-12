@@ -1,36 +1,36 @@
-No. 3, 2021
+# Pemberdayaan Perempuan dan Perlindungan Anak   
 
-# LEMBARAN DAERAH
+LEMBARAN DAERAH
 
-# KOTA PADANGSIDIMPUAN
+KOTA PADANGSIDIMPUAN
 
-PEMKO-PSP. Pemberdayaan Perempuan dan Perlindungan Anak di Kota Padang Sidempuan.  
+WALI KOTA PADANG SIDEMPUAN  
 
-# WALI KO'TA PADANG SIDEMPUAN
+PROVINSI SUMATERA UTARA  
 
-# PROVINSI SUMATERA U'TARA
+# PERATURAN DAERAH KOTA PADANG SIDEMPUAN  
 
-# PERATURAN DAERAH KOTA PADANG SIDEMPUAN  NOMOR 3 TAHUN 2021
+NOMOR 3 TAHUN 2021  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
+PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK  
 
-# DENGAN RAHMAT TU HAN YANG MAHA ESA
+DENGAN RAHMAT TU HAN YANG MAHA ESA  
 
-# WALI KOTA PADANG SIDEMPUAN,
+WALI KOTA PADANG SIDEMPUAN,  
 
-Menimbang a. bahwa perempuan dan anak adalah makhluk Tuhan Yang  Maha Esa yang memiliki hak asasi yang dijamin oleh Undang Undang Dasar Negera Republik Indonesia Tahun 1945,  karenanya perempuan dan anak wajib dilindungi dari segala  bentuk kekerasan dan diskriminasi;  
+Menimbang:  
+
+a. bahwa perempuan dan anak adalah makhluk Tuhan Yang  Maha Esa yang memiliki hak asasi yang dijamin oleh Undang Undang Dasar Negera Republik Indonesia Tahun 1945,  karenanya perempuan dan anak wajib dilindungi dari segala  bentuk kekerasan dan diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di Daerah  cenderung mengalami peningkatan, maka Pemerintah Daerah  dan/atau masyarakat perlu berperan aktif secara optimal  untuk memberikan perlindungan, agar perempuan dan anak  terhindar dan terbebas dari kekerasan atau ancaman  kekerasan, penyiksaan, atau perlakuan yang merendahkan  derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi  kewenangan, kewajiban, dan tanggung jawab Pemerintah  Daerah, sehingga diperlukan pengaturan sebagai dasar  penyelenggaran perlindungan terhadap perempuan dan anak  yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan Perempuan dan  Perlindungan Anak di Kota Padang Sidempuan;  
 
-Mengingat 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
+Mengingat:  
 
-2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi  Terhadap Wanita (Lembaran Negara Republik Indonesia  Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik  Indonesia Nomor 3277);  
-
-2021, No. 3 -73­
-
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
+2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi  Terhadap Wanita (Lembaran Negara Republik Indonesia  Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik  Indonesia Nomor 3277);  ­
 3. Undang-Undang Nomor 5 Tahun 1998 tentang Pengesahan  Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain Yang Kejam, Tidak Manusiawi, Atau Merendahkan Martabat Manusia (Lembaran Negara Republik  Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Negara Republik Indonesia Nomor 3783);  
 4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asas  Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3886);  
 5. Undang-Undang Nomor 4 Tahun 2001 tentang Pembentukan  Kota Padang Sidempuan (Lembaran Negara Republik  Indonesia Nomor 84 Tahun 2001, Tambahan Lembaran Negara Republik Indonesia Nomor 4111) ;  
@@ -38,12 +38,9 @@ Mengingat 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Ta
 7. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan  Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik  Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran  Negara Republik Indonesia Nomor 4844);  
 8. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan  Lembaran Negara Republik Indonesia Nomor 4720);  
 9. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan  Daerah (Lembaran Negara Republik Indonesia Tahun 2014  Nomor 244, Tambahan Lembaran Negara Republik Indonesia  Nomor 5587) sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015  tentang Perubahan Kedua Atas Undang -Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara  Republik Indonesia Tahun 2015 Nomor 58, Tambahan  Lembaran Negara Republik Indonesia Nomor 5679);  
-10. Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan  Peraturan Pemerintah Pengganti Undang-Undang Nomor 1  Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang  Nomor 23 Tahun 2002 tentang Perlindungan Anak Menjadi  Undang-Undang (Lembaran Negara Republik Indonesia Tahun  2016 Nomor 237, Tambahan Lembaran Negara Republik  Indonesia Nomor 5946);  
+10. Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan  Peraturan Pemerintah Pengganti Undang-Undang Nomor 1  Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang  Nomor 23 Tahun 2002 tentang Perlindungan Anak Menjadi  Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik  Indonesia Nomor 5946);  
 11. Peraturan Pemerintah Nomor 10 Tahun 1983 ten tang Izin  Perkawinan dan Perceraian Bagi PNS (Lembaran Negara  Republik Indonesia Tahun 1983 Nomor 13, Tambahan  Lembaran Negara Republik Indonesia Nomor 3250)  sebagaimana telah diubah dengan Peraturan Pemerintah  Nomor 45 Tahun 1990 tentang Perubahan Atas Peraturan  Pemerintah Nomor 10 Tahun 1983 tentang Izin Perkawinan  clan Perceraian Bagi PNS (Lembaran Negara Republik  Indonesia Tahun 1990 Nomor 61, Tambahan Lembaran  Negara Republik Indonesia Nomor 3424);  
-12. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan clan Kerjasama Pemulihan Karban Kekerasan  dalam Rumah Tangga (Lembaran Negara Republik Indonesia  Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik  Indonesia Nomor 4604);  
-
-2021, No. 3 -74­
-
+12. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan clan Kerjasama Pemulihan Karban Kekerasan  dalam Rumah Tangga (Lembaran Negara Republik Indonesia  Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik  Indonesia Nomor 4604);  ­
 13. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang  Pembagian urusan Pemerintahan Antara Pemerintah,  Pemerintahan Daerah Provinsi dan Pemerintahan Daerah  Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun  2007 Nomor 82, Tambahan Lembaran Negara Republik  Indonesia Nomor 4737);  
 14. Instruksi Presiden Nomor 5 Tahun 2014 tentang Gerakan  Nasional Anti Kejahatan Seksual Terhadap Anak;  
 15. Peraturan Menteri Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar  Pelayanan Minimal Bidang Layanan Terpadu Bagi Perempuan  dan Anak Korban Kekerasan;  
@@ -57,13 +54,19 @@ Mengingat 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Ta
 23. Peraturan Gubemur Sumatera Utara Nomor 17 Tahun 2012  tentang Gugus Togas Kabupaten/Kota Layak Anak (KLA)  Provinsi Sumatera Utara;  
 24. Keputusan Gubemur Sumatera Utara Nomor 188­  44 / 502/KPTT /2013, tanggal 16 Agustus 2013 tentang  Penetapan Kabupaten/Kota Layak Anak Tahun 2013;  
 
-2021, No. 3 -75­ Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA PADANG SIDEMPUAN  clan
+Dengan Persetujuan Bersama  
 
-# WALI KOTA PADANG SIDEMPUAN
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA PADANG SIDEMPUAN  
 
-# MEMUTUSKAN:
+dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN  DAN PERLINDUNGAN ANAK
+WALI KOTA PADANG SIDEMPUAN  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN  DAN PERLINDUNGAN ANAK
 
 # BAB I
 
@@ -71,8 +74,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN  DAN PERLINDUNGAN AN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kota Padang Sidempuan.  
 2. Pemerintahan Daerah adalah penyelenggaraan urusan  pemerintahan oleh Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah menurut asas otonomi clan tugas pembantuan dengan prinsip otonomi seluas-luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.  
 3. Pemerintah Daerah adalah Wali Kota sebagai unsur  penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.  
@@ -81,10 +83,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 6. Perangkat Daerah adalah unsur pembantu Wali Kota dan  Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan  urusan pemerintahan yang menjadi kewenangan daerah.  
 7. Anak adalah seseorang yang belum berusia 18 (delapan belas)  tahun, termasuk anak yang masih dalam kandungan.  
 8. Sistem Pemberdayaan Perempuan dan Perlindungan Anak  adalah keseluruhan proses penyelenggaraan pemberdayaan  perempuan dan perlindungan anak yang dilakukan secara  komprehensif, inklusif, dan, integratif mulai dari tahap  pelayanan penanganan laporan/pengaduan, pelayanan  kesehatan, rehabilitasi sosial, penegakan dan bantuan  hukum, sampai dengan pemulangan dan reintegrasi sosial  bagi perempuan dan anak korban kejahatan dan kekerasan ke  lingkungan sosialnya.  
-9. Perlindungan Anak adalah segala kegiatan untuk menjamin  dan melindungi anak dan hak-haknya agar dapat hidup,  tumbuh, berkembang dan berpartisipasi secara optimal sesuai  dengan harkat dan martabat kemanusiaan serta mendapat  perlindungan dari kekerasan dan diskriminasi.  
-
-2021, No.3 -76­
-
+9. Perlindungan Anak adalah segala kegiatan untuk menjamin  dan melindungi anak dan hak-haknya agar dapat hidup,  tumbuh, berkembang dan berpartisipasi secara optimal sesuai  dengan harkat dan martabat kemanusiaan serta mendapat  perlindungan dari kekerasan dan diskriminasi.  ­
 10. Gender adalah konsep yang mengacu pada peran-peran dan  tanggungjawab laki-laki dan perempuan yang terjadi akibat  dari dan dapat beru bah oleh keadaan sosial dan budaya  masyarakat.  
 11. Korban adalah orang yang mengalami penderitaan fisik,  mental, dan/atau kerugian ekonomi yang diakibatkan oleh  suatu tindak pidana.  
 12. Kekerasan adalah setiap perbuatan yang menyebabkan cedera  atau matinya orang lain atau menyebabkan kerusakan fisik  atau barang orang lain.  
@@ -95,15 +94,10 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 18. Rehabilitasi Sosial adalah pelayanan yang ditujukan untuk  memulihkan dan mengembangkan kemampuan seseorang  yang mengalami disfungsi sosial agar dapat melaksanakan  fungsi sosialnya secara wajar.  
 19. Pemulangan adalah upaya mengembalikan korban kekerasan  dari wilayah daerah ke daerah asal.  
 20. Reintegrasi Sosial adalah upaya penyatuan kembali korban  dengan pihak keluarga, keluarga pengganti, atau masyarakat  yang dapat memberikan perlindungan dan pemenuhan  kebutuhan bagi korban.  
-
-2 1. Pencegahan adalah upaya langsung yang dilakukan oleh  pemerintah daerah untuk mencegah terjadi tindak kekerasan  kepada perempuan dan anak.  
-
+21. Pencegahan adalah upaya langsung yang dilakukan oleh  pemerintah daerah untuk mencegah terjadi tindak kekerasan  kepada perempuan dan anak.  
 22. Pendamping adalah orang a tau perwakilan dari lembaga yang  mempunyai keahlian melakukan pendampingan korban untuk  melakukan konseling, terapi dan advokasi guna penguatan  dan pemulihan diri korban kekerasan.  
 23. Rumah aman adalah tempat tinggal sementara yang  digunakan untuk memberikan perlindungan terhadap korban  sesuai dengan standar operasional yang ditentukan.  
-24. Kota Layak Anak yang selanjutnya disingkat KLA adalah kota  yang mempunyai sistem pembangungan berbasis hak anak  melalui pengintegrasian komitmen dan sumber daya  pemerintah, masyarakat dan dunia usaha yang terencana  secara menyeluruh dan berkelanjutan dalam kebijakan,  program dan kegiatan untuk menjamin pemenuhan hak anak.  
-
-2021, No. 3 -77­
-
+24. Kota Layak Anak yang selanjutnya disingkat KLA adalah kota  yang mempunyai sistem pembangungan berbasis hak anak  melalui pengintegrasian komitmen dan sumber daya  pemerintah, masyarakat dan dunia usaha yang terencana  secara menyeluruh dan berkelanjutan dalam kebijakan,  program dan kegiatan untuk menjamin pemenuhan hak anak.  ­
 25. Gugus tugas kota Iayak anak yang selanjutnya disingkat  gugus tugas KLA adalah lembaga koordinatif ditingkaat kota  yang mengkoordinasikan kebijakan, program dan kegiatan  untuk mewujudkan KLA.  
 29. Badan Usaha adalah lembaga yang sehari-hari melaksanakan  kegiatan mencari laba dan keuntungan, namun memiliki  komitmen dalam perlindungan perempuan dan anak.  
 26. Sadan Usaha adalah Iembaga yang sehari-hari melaksanakan  kegiatan mencari laba dan keuntungan, namun memiliki  komitmen dalam perlindungan perempuan dan anak
@@ -133,11 +127,10 @@ g. pemberdayaan.
 #### Pasal 3
 
 1. Maksud dibentuknya Peraturan Daerah ini adalah untuk  memberikan landasan kepastian hukum dalam kegiatan  Pemberdayaan Perempuan dan Perlindungan Anak di Daerah.  
-
-2021, No. 3 -78­ (2) Penyelenggaraan Perlindungan Perempuan dan Anak  bertujuan:  
+2. Penyelenggaraan Perlindungan Perempuan dan Anak  bertujuan:  
 a. meningkatkan kualitas hidup perempuan, anak, dan  kualitas keluarga;  
 b. meningkatkan kapasitas kelembagaan pemberdayaan  perempuan dan perlindungan anak termasuk  pengembangan sistem data gender dan anak;  
-c. memberikan perlindungan hak perempuan clan  pemenuhan hak anak termasuk perlindungan khusus bagi  anak dari berbagai bentuk kekerasan dan perlakuan  diskriminatif lainnya;  
+c. memberikan perlindungan hak perempuan dan  pemenuhan hak anak termasuk perlindungan khusus bagi  anak dari berbagai bentuk kekerasan dan perlakuan  diskriminatif lainnya;  
 d. memberi pedoman kepada pemerintah daerah, dalam  perencanaan kebijakan strategi perlindungan perempuan  dan anak; dan  
 e. mencegah terjadinya pelanggaran hak perempuan dan  anak.  
 
@@ -155,7 +148,8 @@ d. pelayanan tindakan kekerasan;
 e. penyelenggaraan perlindungan perempuan dan anak;  
 f. sistem informasi data perempuan dan anak;  
 g. forum anak;  
-h. kelembagaan penyelenggaraan perlindungan perempuan dan  anaki. Kota Layak Anak;  
+h. kelembagaan penyelenggaraan perlindungan perempuan dan anak;  
+i. Kota Layak Anak;  
 j. peran serta masyarakat;  
 k. kerjasama;  
 1. pembinaan dan pengawasan;  
@@ -173,17 +167,17 @@ Hak Perempuan dan Anak
 
 #### Pasal 5
 
-1. Setiap perempuan berhak untuk:a. memperoleh perlindungan dari tindakan diskriminasi;  
+1. Setiap perempuan berhak untuk:  
+a. memperoleh perlindungan dari tindakan diskriminasi;  
 b. memperoleh perlindungan dari eksploitasi ekonomi dan  eksploitasi seksual;  
 c. memperoleh perlindungan dari kekerasan fisik, psikologis,  seksual, dan penelantaran;  
-d. memperoleh pekerjaan yang layak sesuai kemampuannya;  
-
-2021, No. 3 -79­
+d. memperoleh pekerjaan yang layak sesuai kemampuannya;  ­
 e. memperoleh cuti kerja dengan menerima upah/gaji sesuai peraturan perundang-undangan;  
 f. memperoleh pendidikan dan pengajaran di semua jenis, jenjang dan jalur pendidikan;  
 g. mendapatkan perlindungan khusus dalam pelaksanaan pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi perempuan; dan  
 h. pemilikan dan pengelolaan harta bersama dalam perkawinan sesuai dengan peraturan perundang undangan.  
-2. Setiap anak berhak untuk:a. hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan;  
+2. Setiap anak berhak untuk:  
+a. hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan;  
 b. memperoleh perlindungan dari tindakan diskriminasi;  
 c. memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual;  
 d. memperoleh perlindungan dari kekerasan fisik, psikologis, seksual, dan penelantaran;  
@@ -204,19 +198,20 @@ Kewajiban Pemerintah Daerah
 
 #### Pasal 6
 
-(l)Kewajiban Pemerintah Daerah dalam upaya perlindungan  terhadap perempuan meliputi:  
+1. Kewajiban Pemerintah Daerah dalam upaya perlindungan  terhadap perempuan meliputi:  
 a. menetapkan dan melaksanakan kebijakan program dan  kegiatan perlindungan terhadap hak perempuan;  
 b. melakukan kerjasama dengan masyarakat dan/ atau  Organisasi Kemasyarakatan dalam penyelenggaraan perlindungan perempuan sesuai peraturan perundang undangan;  
-c. melakukan rehabilitasi dan pemberdayaan terhadap  perempuan yang menjadi korban tindak kekerasan;  
-
-2021, No. 3 -80­
-d. memberikan perlindungan khusus kepada perempuan  korban tindak kekerasan clan perclagangan orang ; clan  e. melakukan tindakan preventif dalam rangka mencegah  terjadinya pelanggaran terhadap hak perempuan.  
-2. Kewajiban Pemerintah Daerah clalam upaya perlinclungan  terhadap anak meliputi:a. bertanggungjawab menghormati pemenuhan hak anak  tanpa membedakan suku, agama, ras, golongan, jenis  kelamin, etnik, budaya clan bahasa, status hukum, urutan  kelahiran, clan konclisi fisik dan/atau mental;  
+c. melakukan rehabilitasi dan pemberdayaan terhadap  perempuan yang menjadi korban tindak kekerasan;  ­
+d. memberikan perlindungan khusus kepada perempuan  korban tindak kekerasan clan perdagangan orang ; dan  
+e. melakukan tindakan preventif dalam rangka mencegah  terjadinya pelanggaran terhadap hak perempuan.  
+2. Kewajiban Pemerintah Daerah dalam upaya perlindungan  terhadap anak meliputi:  
+a. bertanggungjawab menghormati pemenuhan hak anak  tanpa membedakan suku, agama, ras, golongan, jenis  kelamin, etnik, budaya clan bahasa, status hukum, urutan  kelahiran, clan kondisi fisik dan/atau mental;  
 b. berkewajiban dan bertanggungjawab untuk melaksanakan  dan mendukung kebijakan nasional dalam  penyelenggaraan perlindungan anak di daerah;  
 c. kebijakan sebagaimana dimaksud pada huruf b dapat  diwujuclkan melalui upaya daerah membangun  kabupaten/kota layak Anak;  
 d. berkewajiban clan bertanggung jawab memberikan  dukungan sarana, prasarana, clan ketersediaan sumber  daya manusia clalam penyelenggaraan perlindungan anak;  
 e. menjamin perlindungan, pemeliharaan, clan kesejahteraan  anak dengan memperhatikan hak dan kewajiban orang  tua, wali, atau orang lain yang secara hukum  bertanggungjawab terhadap anak;  
-f. mengawasi penyelenggaraan perlindungan anak.  g. menjamin anak untuk mempergunakan haknya dalam  menyampaikan pendapat sesuai dengan usia clan tingkat  kecerdasan anak.  
+f. mengawasi penyelenggaraan perlindungan anak.  
+g. menjamin anak untuk mempergunakan haknya dalam  menyampaikan pendapat sesuai dengan usia clan tingkat  kecerdasan anak.  
 
 ## Bagian Ketiga
 
@@ -224,14 +219,14 @@ Kewajiban Masyarakat
 
 #### Pasal 7
 
-1. Kewajiban masyarakat dalam upaya perlindungan terhadap  perempuan clan anak:a. berpartisipasi dalam pencegahan clan memberikan  dukungan terhadap pengembangan program pencegahan  terjaclinya pelanggaran terhadap hak perempuan clan  anak;  
-b. memberikan informasi dan/atau melaporkan terjaclinya  pelanggaran hak perempuan clan anak kepada pihak yang  berwenang;danc. mengawasi proses penegakan hukum terhadap kasus  pelanggaran hak perempuan clan anak.  
+1. Kewajiban masyarakat dalam upaya perlindungan terhadap  perempuan dan anak:  
+a. berpartisipasi dalam pencegahan clan memberikan  dukungan terhadap pengembangan program pencegahan  terjadinya pelanggaran terhadap hak perempuan dan  anak;  
+b. memberikan informasi dan/atau melaporkan terjadinya  pelanggaran hak perempuan clan anak kepada pihak yang  berwenang; dan  
+c. mengawasi proses penegakan hukum terhadap kasus  pelanggaran hak perempuan clan anak.  
 2. Kewajiban masyarakat sebagaimana dimaksud pada ayat (1)  berdasarkan peraturan perundang-undangan dan nilai-nilai  kearifan lokal masyarakat setempat.  
 3. Kewajiban dan tanggung jawab masyarakat terhadap  perlindungan anak dilaksanakan melalui kegiatan peran  masyarakat dalam penyelenggaraan perlindungan anak.  
 4. Kewajiban dan tanggung jawab masyarakat terhadap  perlindungan anak dilaksanakan melalui kegiatan peran  masyarakat dalam penyelenggaraan perlindungan anak.  
-5. Kewajiban dan tanggung jawab masyarakat sebagaimana  dirnaksud pada ayat (4) dilaksanakan dengan melibatkan  organisasi kemasyarakatan, akademisi, dan pemerhati anak.  
-
-2021, No. 3 -81­
+5. Kewajiban dan tanggung jawab masyarakat sebagaimana  dirnaksud pada ayat (4) dilaksanakan dengan melibatkan  organisasi kemasyarakatan, akademisi, dan pemerhati anak.  ­
 
 ## Bagian Keempat
 
@@ -246,7 +241,8 @@ c. mencegah terjadinya pelanggaran terhadap hak perempuan  dalam rumah tangga.
 
 #### Pasal 9
 
-1. Keluarga dalam upaya perlindungan terhadap hak anak  berkewajiban:a. mengasuh, memelihara, mendidik, dan melindungi anak;  
+1. Keluarga dalam upaya perlindungan terhadap hak anak  berkewajiban:  
+a. mengasuh, memelihara, mendidik, dan melindungi anak;  
 b. menumbuh kembangkan anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. mencegah terjadinya perkawinan pada usia anak;  
 d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada anak.  
@@ -272,22 +268,22 @@ c. menimbulkan penyakit atau halangan untuk menjalankan  pekerjaan jabatan atau 
 
 #### Pasal 12
 
-Kekerasan psikis sebagaimana dimaksud dalam Pasal 10 huruf b  mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya  kemampuan untuk bertindak, rasa tidak berdaya dan/atau  penderitaan psikis berat pada seseorang.  
-
-2021, No. 3 -82­
+Kekerasan psikis sebagaimana dimaksud dalam Pasal 10 huruf b  mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya  kemampuan untuk bertindak, rasa tidak berdaya dan/atau  penderitaan psikis berat pada seseorang.  ­
 
 #### Pasal 13
 
 Kekerasan seksual sebagaimana dimaksud dalam Pasal 10 huruf  c berupa:  
 a. perbuatan pelecehan seksual;  
-b. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/atauc. pemaksaaan hubungan seksual dengan orang lain untuk  tujuan komersil dan/atau tujuan tertentu.  
+b. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/atau  
+c. pemaksaaan hubungan seksual dengan orang lain untuk  tujuan komersil dan/atau tujuan tertentu.  
 
 #### Pasal 14
 
 Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal  10 huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain manapun yang bertanggung jawab atas  pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
-c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian wajib memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonorni  dengan cara membatasi dan/atau melarang untuk bekerja  yang layak di dalam atau di luar rumah sehingga korban  berada di bawah kendali orang tersebut.  
+c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian wajib memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/atau  
+d. perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja  yang layak di dalam atau di luar rumah sehingga korban  berada di bawah kendali orang tersebut.  
 
 # BAB VII
 
@@ -296,11 +292,13 @@ c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal me
 #### Pasal 15
 
 1. Upaya pencegahan kekerasan terhadap perempuan dan anak  dilakukan secara terpadu oleh Pemerintah Daerah yang  dikoordinasikan oleh Dinas PPPA.  
-2. Upaya pencegahan sebagairnana dimaksud pada ayat (1)  dilaksanakan dengan cara:a. membangun jejaring dan kerja bersama dengan aparatur  penegak hukurn, aparatur pernerintah, serta lernbaga  pendidikan, kesehatan, rurnah sakit, berbagai LSM yang  peduli terhadap perernpuan dan anak;  
+2. Upaya pencegahan sebagairnana dimaksud pada ayat (1)  dilaksanakan dengan cara:  
+a. membangun jejaring dan kerja bersama dengan aparatur  penegak hukurn, aparatur pemerintah, serta lembaga  pendidikan, kesehatan, rurnah sakit, berbagai LSM yang  peduli terhadap perempuan dan anak;  
 b. rnernbangun partisipasi dan kepedulian masyarakat,  keluarga, terhadap pencegahan dan perlindungan  perempuan dan anak dari tindak kekerasan;  
 c. rnembentuk sistem pencegahan kekerasan yang  rnenyediakan sistem inforrnasi yang lengkap dan rnudah  diakses;  
 d. melakukan sosialisasi tentang peraturan perundang undangan yang berkaitan dengan perlindungan  perempuan dan anak korban kekerasan;  
-e. memberikan pendidikan kritis tentang hak-hak  perempuan dan anak sebagai korban kekerasan kepada  masyarakat; dan 2021, No. 3 -83­f. membuka pos pengaduan perlindungan perempuan dan  anak dari tindak kekerasan.  
+e. memberikan pendidikan kritis tentang hak-hak  perempuan dan anak sebagai korban kekerasan kepada  masyarakat; dan  
+­f. membuka pos pengaduan perlindungan perempuan dan  anak dari tindak kekerasan.  
 
 #### Pasal 16
 
@@ -339,9 +337,7 @@ e. resosialisasi;
 
 ## PENYELENGGARAAN PERLINDUNGAN
 
-## PEREMPUAN DAN ANAK
-
-2021, No. 3 -84­
+## PEREMPUAN DAN ANAK­
 
 #### Pasal 19
 
@@ -367,38 +363,40 @@ k. Kepala Seksi Penanganan Masalah Sosial Anak Berkebutuhan  Khusus dan Kepala S
 1. Sistem informasi adalah suatu sistem untuk mengumpulkan,  menyiapkan, menyimpan, memproses, menganalisa dan/atau  menyebarkan informasi.  
 2. Sistem Data Gender dan Anak adalah pelembagaan  penyelenggaraan data gender dan anak yang terdiri dari  komponen-komponen-komponen peraturan, lembaga, dan  mekanisme di kementerian/lembaga dan daerah dalam  rangka perencanaan, pelaksanaan, evaluasi, dan pelaporan  hasil kebijkan/program/kegiatan pembangunan yang  responsif gender dan peduli anak.  
 3. Data Gender adalah data mengenai hubungan relasi dalam  status, peran dan kondisi antara laki-laki dan perempuan.  
-
-2021, No. 3 -85­ (4) Data Terpilah adalah data terpilah menurut jenis kelamin,  usia, status dan kondisi perempuan diseluruh bidang  pembangunan yang meliputi kesehatan, pendidikan, ekonomi  dan ketenagakerjaan, bidang politik dan pengambilan  keputusan, bidang hukum dan sosial budaya dan kekerasan.  
-
-5. Jenis data gender dan anak:a. data gender:
-1. data gender bidang ekonomi antara lain isu gender tenaga kerja, KUKM, industri dan perdagangan, pertanian, kehutanan, perikanan dan kelautan, perhubungan, iptek dan infrastruktur;  
-2. data gender bidang politik, sosial dan hukum;  
-3. data perlindungan hak perempuan; dan
-4. data pembangunan kesejahteraan dan ketahanan keluarga.  b. data anak:
-1. hak sipil dan kebebasan;  
-2. lingkungan keluarga dan pengasuhan alternatif;  
-3. kesehatan dasar dan kesejahteraan;  
-4. pendidikan, pemanfaatan waktu luang dan kegiatan budaya;dan
-5. perlindungan khusus.  
-6. Analisis gender alah proses menganaliss data terpilah  menurut jenis kelamin yang dilalrukan secara sistematis  dengan maksud mengidentifikasi isu gender serta faktor faktor yang dapat mempengaruhi pembangunan, khususnya  berkaitan dengan persoalan .kesetaraan gender yang menjadi  tujuan pembangunan.  
+4. Data Terpilah adalah data terpilah menurut jenis kelamin,  usia, status dan kondisi perempuan diseluruh bidang  pembangunan yang meliputi kesehatan, pendidikan, ekonomi  dan ketenagakerjaan, bidang politik dan pengambilan  keputusan, bidang hukum dan sosial budaya dan kekerasan.  
+5. Jenis data gender dan anak:  
+a. data gender:  
+1\. data gender bidang ekonomi antara lain isu gender tenaga kerja, KUKM, industri dan perdagangan, pertanian, kehutanan, perikanan dan kelautan, perhubungan, iptek dan infrastruktur;  
+2\. data gender bidang politik, sosial dan hukum;  
+3\. data perlindungan hak perempuan; dan
+4\. data pembangunan kesejahteraan dan ketahanan keluarga.  
+b. data anak:  
+1\. hak sipil dan kebebasan;  
+2\. lingkungan keluarga dan pengasuhan alternatif;  
+3\. kesehatan dasar dan kesejahteraan;  
+4\. pendidikan, pemanfaatan waktu luang dan kegiatan budaya;dan
+5\. perlindungan khusus.  
+6. Analisis gender alah proses menganalisis data terpilah  menurut jenis kelamin yang dilakukan secara sistematis  dengan maksud mengidentifikasi isu gender serta faktor faktor yang dapat mempengaruhi pembangunan, khususnya  berkaitan dengan persoalan kesetaraan gender yang menjadi  tujuan pembangunan.  
 
 #### Pasal 21
 
 1. Pedoman Penyelenggaraan Sistem Data Gender dan Anak  dimaksudkan sebagai acuan bagi kementerian/lembaga dan  daerah dalam menyediakan dan memanfaatkan data terpilah  untuk perencanaan, penyusunan, pelaksanaan, pemantauan,  evaluasi dan pelaporan kebijakan/program/kegiatan  pembangunan yang responsif gender dan peduli anak.  
 2. Meningkatkan ketersediaan dan pemanfaatan data, informasi  gender dan anak dalam penyusunan, perencanaan,  pelaksanaan, pemantauan dan evaluasi terhadap  program/kegiatan pembangunan.  
 
-Pasal22 (1) Pedoman Penyelenggaraan Sistem Data Gender dan Anak  bertujuan untuk:  
+#### Pasal 22 
+
+1. Pedoman Penyelenggaraan Sistem Data Gender dan Anak  bertujuan untuk:  
 a. memperkuat dan mendorong kelembagaan (peraturan,  lembaga, mekanisme) sistem data dengan memilah menurut jenis kelamin dan umur di kementerian/lembaga dan daerah, yang terpercaya, dapat disajikan cepat, akurat konprehensif, dan mutakhir;  
 b. membangun atau memperkuat mekanisme koordinasi  antar kementerian/lembaga dan daerah dalarn pelaksanaan pengumpulan data terpilah;  
 c. meningkatkan ketersediaan dan pemanfaatan data  terpilah untuk perencanaan, pelaksanaan, pemantuan, evaluasi, dan pelaporan hasil kebijakan/program/kegiatan pembangunan yang responsif gender dan peduli ana.k di kementerian/lembaga dan daerah.  
-
-2021, No. 3 -86­ (2) Penyelenggaraan Sistem Data Gender dan Anak berbasis  elektronik Kota Padang Sidempuan meliputi pengiriman,  verifikasi, penginputan dan publikasi data (3) Pemanfaatan Sistem Data Gender dan Anak Kota Padang  Sidempuan terdiri dari:  
+2. Penyelenggaraan Sistem Data Gender dan Anak berbasis  elektronik Kota Padang Sidempuan meliputi pengiriman,  verifikasi, penginputan dan publikasi data (3) Pemanfaatan Sistem Data Gender dan Anak Kota Padang  Sidempuan terdiri dari:  
 a. perangkat daerah di lingkungan Pemerintah Kota Padang  Sidempuan;  
-b. instansi yang berkedudukan di Kota Padang Sidempuan;  danc. masyarakat umum/publik.  
+b. instansi yang berkedudukan di Kota Padang Sidempuan;  dan  
+c. masyarakat umum/publik.  
 
 #### Pasal 23
 
-1. Pengarustamaan Gender atau disingkat PUG adalah strategi  yang dilakukan secara Rasional dan sistematis untuk  mencapai dan mewujudkan kesetaraan gender dan keadilan  gender dalam sejurnlah aspek kehidupan manusia (rumah  tangga, masyarakat dan Negara), melalui kebijakan dan  program yangb memperhatikan pengalaman dan aspirasi  kebutuhan dan permasalahan perempuan dan lak.i-lak.i  kedalam perencanaan, pelaksanaan, pemantauan dan  evaluasi dari seluruh kebijakan berrbagai kehidupan dan  pembangunan.  
+1. Pengarustamaan Gender atau disingkat PUG adalah strategi  yang dilakukan secara Rasional dan sistematis untuk  mencapai dan mewujudkan kesetaraan gender dan keadilan  gender dalam sejurnlah aspek kehidupan manusia (rumah  tangga, masyarakat dan Negara), melalui kebijakan dan  program yangb memperhatikan pengalaman dan aspirasi  kebutuhan dan permasalahan perempuan dan laki-laki  kedalam perencanaan, pelaksanaan, pemantauan dan  evaluasi dari seluruh kebijakan berrbagai kehidupan dan  pembangunan.  
 2. Dalam upaya percepatan kelembagaan pengarustamaan  gender di seluruh SKPD dibentuk Pokja PUG.  
 3. Anggota Pokja PUG adalah seluruh kepala/pimpinan SKPD.  (4) Wali Kota menetapkan ketua Bapeda sebagai ketua Pokja PUG  dan kepala SKPD yang membidangi tugas pemberdayaan  perempuan sebagai Sekretaris Pokja PUG.  
 5. Pembentukan Pokja PUG ditetapkan dengan Keputusan Wali  Kota.  
@@ -416,7 +414,8 @@ g. merumuskan rekomendasi kebijakan kepada Wali Kota;
 h. menyusun Profil Gender;  
 i. melakukan pemantauan pelaksanaan PUG di masing-masing  instansi;  
 j. menetapkan tim teknis untuk melakukan analisis terhadap  anggaran daerah;  
-k. menyusun Rencana Aksi Daerah (RANDA) PUG dan;  1. mendorong dilaksanakannya pemilihan dan penetapan Focal  Point di masing-masing SKPD.  
+k. menyusun Rencana Aksi Daerah (RANDA) PUG dan;  
+l. mendorong dilaksanakannya pemilihan dan penetapan Focal  Point di masing-masing SKPD.  
 
 #### Pasal 25
 
@@ -451,15 +450,16 @@ e. memfalitasi penyusunan data gender pada masing-masing  SKPD;
 2. Forum anak sebagaimana dimaksud pada ayat (1) merupakan  representasi anak, baik representasi domisili geografis anak,  komponen kelompok sosial budaya anak dan latar belakang  pendidikan anak serta mengakomodasi kepentingan anak  berkebutuhan khusus.  
 3. Dalam setiap penyusunan kebijakan yang terkait dengan  anak, Pemerintah Daerah harus memperhatikan dan  mengakomodasi pendapat anak yang disampaikan melalui  forum anak.  
 4. Pembentukan forum anak sebagaimana dimaksud pada ayat  (1) ditetapkan dengan Keputusan Wali Kota.  
-5. Sumber pembiayaan untuk pelaksanaan kegiatan forum anak  dapat berasal dari:a. iuran dari anggota forum anak;  
-
-2021, No. 3 -88­
+5. Sumber pembiayaan untuk pelaksanaan kegiatan forum anak  dapat berasal dari:  
+a. iuran dari anggota forum anak;  ­
 b. sumbangan dari masyarakat/pihak swasta yang sah dan bersifat tidak mengikat;  
 c. bantuan dari Pemerintah Kata; dan/ ataud. sumber-sumber pembiayaan lainnya sesuai peraturan peru ndang-u ndangan.  
 
 #### Pasal 29
 
-1. Pembentukan Forum Anak Kata Padang Sidempuan, peserta pertemuan pembentukan forum anak kabupaten/kota adalah utusan atau perwakilan forum anak kecamatan minimal satu orang laki-laki dan satu anak perempuan jumlah perwakilan tersebut disesuaikan dengan kebutuhan dan banyaknya kecamatan di wilayah Kota Padang Sidempuan (2) Pembentukan Forum Anak Kecamatan, peserta pertemuan pembentukan Forum anak Kecamatan adalah utusan atau perwakilan forum anak desa/kelurahan minimal satu orang laki-laki dan satu anak perempuan. Jumlah perwakilan tersebut disesuaikan dengan kebutuhan dan banyaknya desa/kelurahan di wilayah kecamatan tersebut (3) Pembentukan Forum Anak Desa/Kelurahan, anak-anak diundang mewakili kelompok kegiatannya masing-masing, minimal satu orang laki-laki dan satu anak perempuan setiap kelompok kegiatan anak, selanjutnya pewakilan anak dari kelompok kegiatan itulah yang menjadi peserta utama pembentukan Forum Anak Desa/Kelurahan.  
+1. Pembentukan Forum Anak Kata Padang Sidempuan, peserta pertemuan pembentukan forum anak kabupaten/kota adalah utusan atau perwakilan forum anak kecamatan minimal satu orang laki-laki dan satu anak perempuan jumlah perwakilan tersebut disesuaikan dengan kebutuhan dan banyaknya kecamatan di wilayah Kota Padang Sidempuan.  
+2.  Pembentukan Forum Anak Kecamatan, peserta pertemuan pembentukan Forum anak Kecamatan adalah utusan atau perwakilan forum anak desa/kelurahan minimal satu orang laki-laki dan satu anak perempuan. Jumlah perwakilan tersebut disesuaikan dengan kebutuhan dan banyaknya desa/kelurahan di wilayah kecamatan tersebut .  
+3. Pembentukan Forum Anak Desa/Kelurahan, anak-anak diundang mewakili kelompok kegiatannya masing-masing, minimal satu orang laki-laki dan satu anak perempuan setiap kelompok kegiatan anak, selanjutnya pewakilan anak dari kelompok kegiatan itulah yang menjadi peserta utama pembentukan Forum Anak Desa/Kelurahan.  
 
 # BAB XII
 
@@ -477,33 +477,37 @@ c. Lembaga lain sesuai dengan kebutuhan dan /atau ketentuan peraturan perundang-
 #### Pasal 31
 
 1. Dalam rangka penanganan masalah psikososial keluarga, pemulihan kondisi psikososial keluarga dan penguatan ketahanan keluarga, di daerah dibentuk Lembaga Konsultasi Kesejahteraan Keluarga.  
-2. Berkenaan dengan Lembaga Konsultasi Kesejahteraan Keluarga, Wali Kata mempunyai kewenangan sebagai berikut:a. melaksanakan kebijakan penyelengaraan Lembaga Konsultasi Kesejahteraan Keluarga;  
+2. Berkenaan dengan Lembaga Konsultasi Kesejahteraan Keluarga, Wali Kata mempunyai kewenangan sebagai berikut:  
+a. melaksanakan kebijakan penyelengaraan Lembaga Konsultasi Kesejahteraan Keluarga;  
 b. melaksanakan norrna, standar, prosedur, dan criteria tentang Lembaga konsultasi Kesejahteraan Keluarga;  
 c. melaksanakan standar pelayanan Lembaga Konsultasi Kesejahteraan Keluarga;  
-d. melaksanakan dan mengolah data Kelembagaan Konsultasi Kesejahteraan Keluarga;  
-
-2021, No. 3 -89­
+d. melaksanakan dan mengolah data Kelembagaan Konsultasi Kesejahteraan Keluarga;  ­
 e. melaksanakan penguatan kapasitas sumber daya manusia  dan kelembagaan Lembaga Konsultasi Kesejahteraan Keluarga;  
 f. menyediakan fasilitasi sarana dan prasarana pelayanan  Lembaga Konsultasi Kesejahteraan Keluarga;  
 g. melaksanakan kerja sama kesejahteraan keluarga;  
 h. melaksanakan koordinasi dengan instansi terkait, dunia  usaha dan masyarakat; dan/atau
-1. melaksanakan pemantauan evaluasi.  
+i. melaksanakan pemantauan evaluasi.  
 
 #### Pasal 32
 
-1. Pelayanan Lembaga Konsultasi Kesejateraan Keluarga  diselenggarakan dengan mengedepankan strategi untuk  membangun jejaring kerja dan kernitraan (2) Jenis pelayanan Lembaga Konsultasi Kesejahteraan Keluarga  terdiri dari atas:a. konsultasi;  
+1. Pelayanan Lembaga Konsultasi Kesejahteraan Keluarga  diselenggarakan dengan mengedepankan strategi untuk  membangun jejaring kerja dan kemitraan.  
+2.  Jenis pelayanan Lembaga Konsultasi Kesejahteraan Keluarga  terdiri dari atas:  
+a. konsultasi;  
 b. konseling;  
 c. informasi;  
 d. advokasi;  
 e. rujukan; dan  
-f. penjangkauan (3) Jejaring kerja dan kemitraan sebagaimana dimaksud pada  ayat (1) terdiri dari atas:a. potensi dan sumber kesejahteraan sosial;  
+f. penjangkauan  
+3. Jejaring kerja dan kemitraan sebagaimana dimaksud pada  ayat (1) terdiri dari atas:  
+a. potensi dan sumber kesejahteraan sosial;  
 b. Rumah Sakit;  
 c. Kepolisian Republik Indonesia;  
 d. Biro/Lembaga/Pos Bantuan Hukum;  
 e. Rumah Perlindungan Trauma Center;  
 f. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak;  
 g. pelayanan publik lainnya yang dapat dijadikan sebagai  jejaring kerja dan kernitraan Lembaga Konsultasi Kesejahteraan Keluarga.  
-4. Jejaring kerja dan kemitraan sebagaimana dimaksud pada  ayat (2) dilakukan melalui:a. kerja sama;  
+4. Jejaring kerja dan kemitraan sebagaimana dimaksud pada  ayat (2) dilakukan melalui:  
+a. kerja sama;  
 b. koordinasi; dan/atau;  
 c. kolaborasi;  
 5. Ketentuan lebih lanjut mengenai Lembaga Konsultasi  Kesejahteraan Keluarga diatur dengan Peraturan Wali Kota.  
@@ -516,10 +520,9 @@ c. kolaborasi;
 #### Pasal 34
 
 Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Perlindungan Anak (P2TP2A) yang berfungsi sebagai:  
-a. pusat informasi bagi perempuan dan anak;  
-
-2021, No. 3 -90­
-b. pusat pelayanan bagi perempuan dan korban kekerasan;dan  c. pusat pemberdayaan bagi perempuan dan anak.  
+a. pusat informasi bagi perempuan dan anak;  ­
+b. pusat pelayanan bagi perempuan dan korban kekerasan; dan  
+c. pusat pemberdayaan bagi perempuan dan anak.  
 
 #### Pasal 35
 
@@ -533,7 +536,7 @@ Pusat Pembelajaran Keluarga (PUSPAGA) adalah bentuk layanan  pencegahan di bawah
 
 # BAB Xlll
 
-## KOTA LA YAK ANAK
+## KOTA LAYAK ANAK
 
 ## Bagian kesatu
 
@@ -549,7 +552,8 @@ Pengembangan Kota Layak Anak sebagaimana dimaksud dalam  Pasal 37 dilaksanakan b
 a. tata pemerintahan yang baik, yaitu transparansi,  akuntabilitas, partisipasi, keterbukaan informasi, dan  supremasi hukum;  
 b. non-diskriminasi, yaitu tidak membedakan suku, ras, agama,  jenis kelamin, bahasa, paham politik, asal kebangsaan, status  ekonomi, kondisi fisik maupun psikis anak, atau faktor  lainnya;  
 c. kepentingan terbaik bagi anak, yaitu menjadikan ha! yang  paling baik bagi anak sebagai pertimbangan utarna dalam  setiap kebijakan, program, dan kegiatan;  
-d. hak untuk hidup, kelangsungan hidup, dan perkembangan  anak, yaitu menjamin hak untuk hidup, kelangsungan hidup  dan perkembangan anak semaksimal mungkin; dan 2021, No. 3 -91­e. penghargaan terhadap pandangan anak, yaitu mengakui dan  memastikan bahwa setiap anak yang memiliki kemampuan untuk menyampaikan pcndapatnya, diberikan kesempatan untuk mengekspresikan pandangannya secara bebas terhadap segala sesuatu hal yang mempengaruhi dirinya.  
+d. hak untuk hidup, kelangsungan hidup, dan perkembangan  anak, yaitu menjamin hak untuk hidup, kelangsungan hidup  dan perkembangan anak semaksimal mungkin; dan  
+­e. penghargaan terhadap pandangan anak, yaitu mengakui dan  memastikan bahwa setiap anak yang memiliki kemampuan untuk menyampaikan pendapatnya, diberikan kesempatan untuk mengekspresikan pandangannya secara bebas terhadap segala sesuatu hal yang mempengaruhi dirinya.  
 
 #### Pasal 39
 
@@ -557,11 +561,13 @@ Pengembangan Kata Layak Anak diarahkan pada pemenuhan hak  anak yang meliputi:
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya;  dane. perlindungan khusus.  
+d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya; dan   
+e. perlindungan khusus.  
 
 #### Pasal 40
 
-1. Dalam rangka mewujudkan Kata Layak Anak, maka disusun  tahapan pengembangan Kata Layak Anak yang meliputi:a. persiapan;  
+1. Dalam rangka mewujudkan Kata Layak Anak, maka disusun  tahapan pengembangan Kata Layak Anak yang meliputi:  
+a. persiapan;  
 b. perencanaan;  
 c. pelaksanaan;  
 d. pemantauan;  
@@ -576,15 +582,14 @@ f. pelaporan.
 
 #### Pasal 42
 
-1. Tugas pokok Gugus Togas Kata Layak Anak adalah sebagai  berikut:a. mengkoordinasikan berbagai upaya pengembangan Kata  LayakAnak;  
+1. Tugas pokok Gugus Togas Kata Layak Anak adalah sebagai  berikut:  
+a. mengkoordinasikan berbagai upaya pengembangan Kata  LayakAnak;  
 b. menyusun Rencana Aksi Daerah Pembangunan Kota Layak  Anak;  
 c. melaksanakan sosialisasi, advokasi dan komunikasi  pengembangan Kata Layak Anak;  
 d. melakukan pemantauan terhadap pelaksanaan kebijakan,  program dan kegiatan dalam Rencana Aksi Daerah Pembangunan Kata Layak Anak;  
 e. melakukan evaluasi setiap akhir tahun terhadap  pelaksanaan kebijakan, program dan kegiatan dalam Rencana Aksi Daerah Pembangunan Kata Layak Anak; dan  
 f. menyampaikan laporan kepada Wali Kota.  
-2. Ketentuan lebih Ianjut mengenai Gugus Togas Kota Layak  Anak diatur dengan Peraturan Wali Kata.  
-
-2021, No. 3 -92­
+2. Ketentuan lebih Ianjut mengenai Gugus Togas Kota Layak  Anak diatur dengan Peraturan Wali Kata.  ­
 
 # BAB XIV
 
@@ -593,7 +598,9 @@ f. menyampaikan laporan kepada Wali Kota.
 #### Pasal 43
 
 1. Pemerintah Daerah wajib menyediakan anggaran untuk  penyelenggaraan program dan kegiatan pemberdayaan  perempuan dan perlindungan anak.  
-2. Pembiayaan penyelenggaraan kegiatan pemberdayaan  perempuan dan perlindungan anak sebagaimana dimaksud  pada ayat (1) bersumber dari:a. Anggaran Pendapatan dan Belanja Daerah (APBD); dan  b. sumber lain yang sah dan tidak mengikat berdasarkan  ketentuan peraturan perundang-undangan.  
+2. Pembiayaan penyelenggaraan kegiatan pemberdayaan  perempuan dan perlindungan anak sebagaimana dimaksud  pada ayat (1) bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Daerah (APBD); dan  
+b. sumber lain yang sah dan tidak mengikat berdasarkan ketentuan peraturan perundang-undangan.  
 
 # BAB XV
 
@@ -603,7 +610,8 @@ f. menyampaikan laporan kepada Wali Kota.
 
 1. Masyarakat dapat berperan serta dalarn kegiatan  penyelenggaraan pemberdayaan perempuan.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat dilakukan oleh perorangan, kelompok masyarakat dan  organisasi kemasyarakatan.  
-3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat berbentuk:a. kerjasarna;  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat berbentuk:  
+a. kerja sama;  
 b. peran aktif dalarn penyusunan kebijakan; dan  
 c. pengaduan/laporan.  
 4. Tata cara peran serta masyarakat sebagaimana dimaksud  pada ayat(3) diatur dengan Peraturan Wali Kota.  
@@ -616,9 +624,15 @@ c. pengaduan/laporan.
 
 1. Kerjasarna daerah adalah usaha bersarna antar daerah  dengan daerah lain, antara daerah dengan pihak ketiga,  dan/atau antara daerah dan lembaga atau pemerintah daerah  di luar negeri yang didasarkan pada perimbangan efisiensi  dan efiktifitas pelayanan publik serta saling menguntungkan.  
 2. Kerjasarna daerah dengan pihak ketiga, yang selanjutnya  disingkat KSDPK adalah usaha bersarna yang dilakukan oleh  daerah dengan pihak ketiga dalam rangka penyelenggaraan  urusan pemerintahan yang menjadi kewenangan daerah  untuk meningkatkan kesejahteraan masyarakat dan  percepatan pemenuhan pelayanan publik.  
-3. Dalarn rangka mencapai tujuan perlindungan hak perempuan  dan anak dari tindak kekerasan pemerintah daerah  bekerjasarna dengan:a. provinsi lain;  
+3. Dalarn rangka mencapai tujuan perlindungan hak perempuan  dan anak dari tindak kekerasan pemerintah daerah  bekerjasarna dengan:  
+a. provinsi lain;  
 b. kabupaten/Kota; dan  
-c. lembaga non pemerintah (4) Kerjasama sebagaimana dimaksud pada ayat (3) meliputi:  a. pertukaran data dan informasib. rehabilitasi korban tindak kekerasan 2021 , No. 3 -93­c. pemulangan dan reintegrasi sosial, dand. penyediaan barang bukti dan saksi yang ditindaklanjuti  sesuai dengan hukum yang berlaku.  
+c. lembaga non pemerintah.  
+4. Kerjasama sebagaimana dimaksud pada ayat (3) meliputi:  
+a. pertukaran data dan informasi;  
+b. rehabilitasi korban tindak kekerasan;  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi yang ditindaklanjuti sesuai dengan hukum yang berlaku.  
 
 #### Pasal 46
 
@@ -631,17 +645,24 @@ c. memfasilitasi Forum Koordinasi Perlindungan Korban  Kekerasan sebagai wadah j
 
 ## PEMBINAAN DAN PENGAWASAN
 
-Pasal47 (1) Pemerintah Daerah wajib melakukan pembinaan dan  pengawasan Pemberdayaan Perempuan dan Perlindungan  Anak.  
+#### Pasal 47 
 
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  a. pembentukan kebijakan dan aturan yang dijadikan  pedoman dan standar dalam penyelenggaraan pemberdayaan perempuan dan perlindungan anak;  
+1. Pemerintah Daerah wajib melakukan pembinaan dan  pengawasan Pemberdayaan Perempuan dan Perlindungan  Anak.  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pembentukan kebijakan dan aturan yang dijadikan  pedoman dan standar dalam penyelenggaraan pemberdayaan perempuan dan perlindungan anak;  
 b. bimbingan teknis dan pelatihan, meliputi:
-1. memberikan pelatihan bagi aparat pemerintah dan penegak hukum tentang pencegahan dan penanganan kekerasan;  
-2. memberikan pelatihan bagi tokoh agama, tokoh masyarakat, tokoh adat, tenaga pendidik, jumalis dan pengelola media dalam rangka mencegah kekerasan terhadap perempuan dan anak;  
-3. memberikan pelatihan kepada tenaga kesehatan yang memberikan pelayanan kesehatan kepada perempuan dan anak korban kekerasan di puskesmas, unit pelayanan terpadu dan rumah sakit umum;  
-4. memberikan pelatihan kepada petugas rehabilitasi sosial dan petugas bimbingan rohani dalam rangka melindungi perempuan dan anak korban kekerasan;  
-5. memberikan pelatihan kepada pokja PUG dan focal point masing Perangkat Daerah untuk penyusunan program kegiatan yang berdasarkan perencanaan dan penganggaran responsif gender.  c. penyediaan sarana dan prasarana dalam  menyelenggarakan pemberdayaan perempuan dan perlindungan anak.  d. fasilitasi terbentuknya nagari peduli perempuan dan anak;  
+1\. memberikan pelatihan bagi aparat pemerintah dan penegak hukum tentang pencegahan dan penanganan kekerasan;  
+2\. memberikan pelatihan bagi tokoh agama, tokoh masyarakat, tokoh adat, tenaga pendidik, jurnalis dan pengelola media dalam rangka mencegah kekerasan terhadap perempuan dan anak;  
+3\. memberikan pelatihan kepada tenaga kesehatan yang memberikan pelayanan kesehatan kepada perempuan dan anak korban kekerasan di puskesmas, unit pelayanan terpadu dan rumah sakit umum;  
+4\. memberikan pelatihan kepada petugas rehabilitasi sosial dan petugas bimbingan rohani dalam rangka melindungi perempuan dan anak korban kekerasan;  
+5\. memberikan pelatihan kepada pokja PUG dan focal point masing Perangkat Daerah untuk penyusunan program kegiatan yang berdasarkan perencanaan dan penganggaran responsif gender.  
+c. penyediaan sarana dan prasarana dalam  menyelenggarakan pemberdayaan perempuan dan perlindungan anak.  
+d. fasilitasi terbentuknya nagari peduli perempuan dan anak;  
 e. penyediaan informasi melalui media cetak dan elektronik  terkait dengan perlindungan perempuan dan anak.  
-3. Pengawasan sebagaimana dimaksud pada ayat (1), meliputi:  a. pemantauan yang dilaksanakan dalam bentuk  penyampaian laporan pelaksanaan program pemberdayaan perempuan dan perlindungan anak oleh Kepala Perangkat Daerah kepada Wali Kota secara berkala 1 (satu) kali dalam 3 (tiga) bulan; dan 2021, No. 3 -94­b. evaluasi terhadap penyelenggaraan pemberdayaan  perempuan dan perlindungan anak secara berkala 1 (satu) kali dalam 3 (tiga) bulan yang dilaksanakan oleh Perangkat Daerah terkait (4) Hasil pengawasan sebagaimana dimaksud pada ayat (3)  merupakan bahan evaluasi bagi kebijakan program pemberdayaan perempuan dan perlindungan anak.  
+3. Pengawasan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pemantauan yang dilaksanakan dalam bentuk  penyampaian laporan pelaksanaan program pemberdayaan perempuan dan perlindungan anak oleh Kepala Perangkat Daerah kepada Wali Kota secara berkala 1 (satu) kali dalam 3 (tiga) bulan; dan  
+b. evaluasi terhadap penyelenggaraan pemberdayaan  perempuan dan perlindungan anak secara berkala 1 (satu) kali dalam 3 (tiga) bulan yang dilaksanakan oleh Perangkat Daerah terkait.  
+4. Hasil pengawasan sebagaimana dimaksud pada ayat (3)  merupakan bahan evaluasi bagi kebijakan program pemberdayaan perempuan dan perlindungan anak.  
 5. Ketentuan Jebih lanjut tentang pembinaan dan pengawasan  sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Wali Kota.  
 
 # BAB XVIII
@@ -662,30 +683,30 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran  Daerah Kota Padang Sidernpuan.  
 
-Ditetapkan di Padang Sidempuan pada tanggal 16 Maret 2021
+Ditetapkan di Padang Sidempuan pada tanggal 16 Maret 2021  
 
-##### WALI KOTA PADANG SIDEMPUAN,
-
-Ttd.  
-
-##### IRSAN EFEND NASUTION
-
-Diundangkan di Padang Sidempuan pada tanggal 17 Maret 2021
-
-##### SEKRETARIS DAERAH KOTA
-
-##### PADANG SIDEMPUAN,
+WALI KOTA PADANG SIDEMPUAN,  
 
 Ttd.  
 
-##### LETNAN
+IRSAN EFEND NASUTION  
 
-##### LEMBARAN DAERAH KOTA PADANG SIDEMPUAN TAHUN 2001 NOMOR 3
+Diundangkan di Padang Sidempuan pada tanggal 17 Maret 2021  
 
-NOREG PERATURAN DAERAH KOTA PADANG SIDEMPUAN, PROVINS!  SUMATERA UTARA: (3-40/2021) Salinan sesuai dengan aslinya
+SEKRETARIS DAERAH KOTA  
 
-##### KEP GIAN HUKUM,
+PADANG SIDEMPUAN,  
 
-##### MHD. ERWIN,S.H.  
+Ttd.  
 
-##### NIP. 19720525 200312 1 006
+LETNAN  
+
+LEMBARAN DAERAH KOTA PADANG SIDEMPUAN TAHUN 2001 NOMOR 3  
+
+NOREG PERATURAN DAERAH KOTA PADANG SIDEMPUAN, PROVINSI  SUMATERA UTARA: (3-40/2021) Salinan sesuai dengan aslinya. 
+
+KEP GIAN HUKUM, 
+
+MHD. ERWIN,S.H.  
+
+NIP. 19720525 200312 1 006  

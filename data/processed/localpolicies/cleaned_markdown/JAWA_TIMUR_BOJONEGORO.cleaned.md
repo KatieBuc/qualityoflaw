@@ -1,20 +1,20 @@
-PEMERINTAH KABUPATEN BOJONEGORO  Salinan
+# PELAYANAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN BOJONEGORO
+
+PEMERINTAH KABUPATEN BOJONEGORO  
+
+Salinan  
 
 # PERATURAN DAERAH KABUPATEN BOJONEGORO
 
-# NOMOR 10 TAHUN 2011
+NOMOR 10 TAHUN 2011  
 
-# TENTANG
+TENTANG  
 
-# PELAYANAN TERHADAP
+PELAYANAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN BOJONEGORO  
 
-# PEREMPUAN DAN ANAK KORBAN KEKERASAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# DI KABUPATEN BOJONEGORO
-
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# BUPATI BOJONEGORO,
+BUPATI BOJONEGORO,  
 
 Menimbang:  
  
@@ -35,50 +35,49 @@ Mengingat:
  
  
  
-1. Undang-Undang Nomor 12 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten/Kota di lingkungan Provinsi Jawa Timur  (diumumkan pada tanggal 8 Agustus 1950) ;  
-
-2. Undang-Undang Nomor 6 Tahun 1974 tentang Ketentutan Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Tahun  1974 Nomor 53, Tambahan Lembaran Negara Nomor 3039) ;  
-3. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan  Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor  32, Tambahan Lembaran Negara Nomor 3143) ;  
-4. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi Tentang Penghapusan Segala Bentuk Diskriminasi  terhadap Perempuan (Convention on The Elimination of All Forms  of Discrimination Againts Women) (Lembaran Negara Republik  Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara  Nomor 3668) ;  
-5. Undang-Undang Nomor 23 Tahun 1992 tentang Kesehatan  (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 100) ;  
-6. Undang-Undang Nomor 20 Tahun 1999 tentang Pengesahan  Konvensi ILO Nomor 138 Mengenai Usia Minimum Anak  Diperbolehkan Bekerja (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 56, Tambahan Lembaran Negara Nomor
-3835. ;  
-
-2 -
-
-7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Nomor 3886) ;  
-8. Undang-Undang Nomor 1 Tahun 2000 tentang Pengesahan  Konvensi ILO Nomor 182 mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-bentuk Pekerjaan Terburuk bagi Anak (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 30, Tambahan Lembaran Negara Nomor 3941) ;  
-9. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor
-109. ;  
+1. Undang-Undang Nomor 12 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten/Kota di lingkungan Provinsi Jawa Timur  (diumumkan pada tanggal 8 Agustus 1950);  
+2. Undang-Undang Nomor 6 Tahun 1974 tentang Ketentutan Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Tahun  1974 Nomor 53, Tambahan Lembaran Negara Nomor 3039);  
+3. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan  Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor  32, Tambahan Lembaran Negara Nomor 3143);  
+4. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi Tentang Penghapusan Segala Bentuk Diskriminasi  terhadap Perempuan (Convention on The Elimination of All Forms of Discrimination Against Women) (Lembaran Negara Republik  Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara  Nomor 3668);  
+5. Undang-Undang Nomor 23 Tahun 1992 tentang Kesehatan  (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 100);  
+6. Undang-Undang Nomor 20 Tahun 1999 tentang Pengesahan  Konvensi ILO Nomor 138 Mengenai Usia Minimum Anak  Diperbolehkan Bekerja (Lembaran Negara Republik Indonesia  Tahun 1999 Nomor 56, Tambahan Lembaran Negara Nomor 3835;  
+7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Nomor 3886);  
+8. Undang-Undang Nomor 1 Tahun 2000 tentang Pengesahan  Konvensi ILO Nomor 182 mengenai Pelarangan dan Tindakan Segera Penghapusan Bentuk-bentuk Pekerjaan Terburuk bagi Anak (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 30, Tambahan Lembaran Negara Nomor 3941);  
+9. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109;  
 10. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan  Kekerasan Dalam Rumah Tangga (Lembaran Negara Tahun 2004 Nomor 95) ;  
 11. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan  Daerah (Lembaran Negara Tahun 2004 Nomor 125, Tambahan Lembaran Negara Nomor 4437) sebagaimana telah diubah kedua kali dengan Undang-Undang Nomor 12 Tahun 2008 (Lembaran Negara Tahun 2008 Nomor 59, Tambahan Lembaran Negara Nomor 4844);  
 13. Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan  Keuangan antara Pemerintah Pusat dan Daerah ; (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 126) ;  
 14. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan  Peraturan Perundang-Undangan (Lembaran Negara Tahun 2011 Nomor 82, Tambahan Lembaran Negara Nomor 5234);  
-15. Peraturan Pemerintah Nomor 25 Tahun 2000 tentang  Kewenangan Pemerintah dan Kewenangan Propinsi sebagai Daerah Otonom ;  
-16. Keputusan Presiden Nomor 36 Tahun 1990 tentang Pengesahan  Konvensi Hak Anak ;  
-17. Keputusan Presiden Nomor 88 Tahun 2002 tentang Rencana  Aksi Nasional (RAN) Penghapusan Trafiking Perempuan dan Anak ;  
-18. Keputusan Presiden Nomor 61 Tahun 2003 tentang Rencana  Aksi Nasional Hak-hak Asasi Manusia Indonesia 1998-2003 ;  
+15. Peraturan Pemerintah Nomor 25 Tahun 2000 tentang  Kewenangan Pemerintah dan Kewenangan Propinsi sebagai Daerah Otonom;  
+16. Keputusan Presiden Nomor 36 Tahun 1990 tentang Pengesahan  Konvensi Hak Anak;  
+17. Keputusan Presiden Nomor 88 Tahun 2002 tentang Rencana  Aksi Nasional (RAN) Penghapusan Trafiking Perempuan dan Anak;  
+18. Keputusan Presiden Nomor 61 Tahun 2003 tentang Rencana  Aksi Nasional Hak-hak Asasi Manusia Indonesia 1998-2003;  
 19. Peraturan Daerah Propinsi Jawa Timur Nomor 9 Tahun 2005  tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BOJONEGORO dan
+Dengan Persetujuan Bersama  
 
-# BUPATI BOJONEGORO
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BOJONEGORO  
 
-# MEMUTUSKAN:
+dan
 
-Menetapkan: PERATURAN DAERAH TENTANG PELAYANAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN DI  KABUPATEN BOJO NEGORO.  
+BUPATI BOJONEGORO  
 
-3 -
+MEMUTUSKAN:  
 
-# B A B I
+Menetapkan:  
 
-# KETENTUAN UMUM
+PERATURAN DAERAH TENTANG PELAYANAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN DI  KABUPATEN BOJO NEGORO.  
+
+# BAB I
+
+## KETENTUAN UMUM
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 
-1. Pemerintah Kabupaten adalah Pemerintah Kabupaten Bojonegoro.  2. Bupati adalah Bupati Bojonegoro.  
+1. Pemerintah Kabupaten adalah Pemerintah Kabupaten Bojonegoro.  
+2. Bupati adalah Bupati Bojonegoro.  
 3. Anak adalah seseorang yang belum berusia 18 tahun, termasuk yang ada dalam  kandungan.  
 4. Kekerasan adalah setiap perbuatan yang berakibat atau dapat mengakibatkan  kesengsaraan atau penderitaan baik fisik, seksual, ekonomi, sosial, psikis terhadap  korban.  
 5. Kekerasan fisik adalah setiap perbuatan yang mengakibatkan rasa sakit, cedera,  luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan atau  menyebabkan kematian.  
@@ -90,19 +89,18 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 12. Perlindungan anak adalah segala kegiatan untuk menjamin dan melindungi anak  dan hak-haknya agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara  optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat  perlindungan dari kekerasan dan diskriminasi.  
 13. Pendamping adalah orang atau perwakilan dari lembaga yang mempunyai  keahlian melakukan pendampingan korban untuk melakukan konseling, terapi dan  advokasi guna penguatan dan pemulihan diri korban kekerasan.  
 14. Pusat Pelayanan Perempuan dan Anak yang selanjutnya disingkat P3A adalah  lembaga penyedia layanan terhadap korban kekerasan dalam bentuk pelayanan  medis (termasuk medico-legal), psiko-sosial dan pelayanan hukum.  
-15. Rumah aman adalah tempat tinggal sementara yang digunakan untuk memberikan  perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan.  16. Masyarakat adalah perseorangan, keluarga, kelompok, organisasi sosial dan atau  organisasi kemasyarakatan.  
-17. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami-istri, atau  suami-istri dan anaknya, atau ayah dan anaknya, serta ibu dan anaknya.  18. Rumah tangga adalah anggota keluarga dan kerabat (cucu, kemenakan, kakak,  adik, kakek, nenek, sepupu dan sebagainya) yang hidup dan makan dari satu  dapur serta menetap dalam satu rumah.  
+15. Rumah aman adalah tempat tinggal sementara yang digunakan untuk memberikan  perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan.  
+16. Masyarakat adalah perseorangan, keluarga, kelompok, organisasi sosial dan atau  organisasi kemasyarakatan.  
+17. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami-istri, atau  suami-istri dan anaknya, atau ayah dan anaknya, serta ibu dan anaknya.  
+18. Rumah tangga adalah anggota keluarga dan kerabat (cucu, kemenakan, kakak,  adik, kakek, nenek, sepupu dan sebagainya) yang hidup dan makan dari satu  dapur serta menetap dalam satu rumah.  
 
-4 -
+# BAB II
 
-##### B A B II
-
-##### ASAS DAN TUJUAN
+## ASAS DAN TUJUAN
 
 #### Pasal 2
 
-Asas pelayanan dan perlindungan terhadap perempuan dan anak korban kekerasan ini  adalah:
-
+Asas pelayanan dan perlindungan terhadap perempuan dan anak korban kekerasan ini adalah:  
 1. Penghormatan dan pengakuan atas hak-hak dan martabat kemanusiaan yang  sama dan sederajat.  
 2. Penghormatan terhadap hak-hak korban.  
 3. Keadilan dan kesetaraan gender.  
@@ -119,30 +117,31 @@ Tujuan pelayanan dan perlindungan terhadap perempuan dan anak korban kekerasan  
 
 #### Pasal 4
 
-1. Pemerintah Kabupaten Bojonegoro berkewajiban dan bertanggung jawab untuk  melaksanakan upaya pencegahan terjadinya kekerasan dalam bentuk:  a. mengumpulkan data dan informasi tentang perempuan dan anak korban  kekerasan sesuai Peraturan Perundang-undangan ;  
+1. Pemerintah Kabupaten Bojonegoro berkewajiban dan bertanggung jawab untuk  melaksanakan upaya pencegahan terjadinya kekerasan dalam bentuk:  
+a. mengumpulkan data dan informasi tentang perempuan dan anak korban  kekerasan sesuai Peraturan Perundang-undangan ;  
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan  dan anak ;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan  penyelenggaraan perlindungan perempuan dan anak korban kekerasan ;  
-d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan pelayanan dan perlindungan terhadap perempuan dan anak korban kekerasan.  (2) Untuk mengantisipasi terjadinya tindak kekerasan, Pemerintah Kabupaten  Bojonegoro berkewajiban menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu  untuk korban dengan melibatkan unsur masyarakat ;  
+d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan pelayanan dan perlindungan terhadap perempuan dan anak korban kekerasan.
+2. Untuk mengantisipasi terjadinya tindak kekerasan, Pemerintah Kabupaten  Bojonegoro berkewajiban menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:  
+a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu  untuk korban dengan melibatkan unsur masyarakat ;  
 b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap  korban.  
 3. Pemerintah Kabupaten Bojonegoro dalam melaksanakan kewajiban sebagaimana  dimaksud pada ayat (1) dan (2) harus memperhatikan hak dan kewajiban orang  tua, wali, suami atau orang lain yang secara hukum bertanggung jawab terhadap  korban.  
 
-##### B A B IV
+# BAB IV
 
-##### HAK-HAK KORBAN
+## HAK-HAK KORBAN
 
 #### Pasal 5
 
 Setiap korban berhak untuk mendapatkan perlindungan, informasi, pelayanan terpadu,  penanganan berkelanjutan sampai tahap rehabilitasi dan penanganan secara rahasia  baik dari individu, kelompok atau lembaga baik Pemerintah maupun Non Pemerintah.  
 
-5 -
-
 #### Pasal 6
 
 Dalam hal terjadi kekerasan, setiap korban berhak mendapatkan pendampingan baik  secara medis, psikologis maupun hukum, serta mendapatkan jaminan atas hak-haknya  yang berkaitan dengan statusnya sebagai istri, ibu, anak, anggota keluarga maupun  sebagai anggota masyarakat.  
 
-##### B A B V
+##### BAB V
 
-##### PENYELENGGARAAN PELAYANAN
+## PENYELENGGARAAN PELAYANAN
 
 ## Bagian Pertama
 
@@ -160,14 +159,13 @@ Bentuk dan Mekanisme Pelayanan dan perlindungan
 
 #### Pasal 8
 
-1. Bentuk-bentuk pelayanan dan perlindungan terhadap korban yang  diselenggarakan oleh P3A (Pusat Pelayanan Perempuan dan Anak) terdiri:  a. pelayanan medis berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga  medis dan paramedis ;  
-b. pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan  pembuktian di bidang hukum ;  
-c. pelayanan psikososial merupakan pelayanan yang diberikan oleh pendamping  dalam rangka memulihkan kondisi traumatir korban, termasuk penyediaan  rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi  bagi korban dan memberikan dukungan secara sosial sehingga korban  mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam  menyelesaikan masalahnya ;  
+1. Bentuk-bentuk pelayanan dan perlindungan terhadap korban yang  diselenggarakan oleh P3A (Pusat Pelayanan Perempuan dan Anak) terdiri:  
+a. pelayanan medis berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga  medis dan paramedis ;  
+b. pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan  pembuktian di bidang hukum;  
+c. pelayanan psikososial merupakan pelayanan yang diberikan oleh pendamping  dalam rangka memulihkan kondisi traumatir korban, termasuk penyediaan  rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi  bagi korban dan memberikan dukungan secara sosial sehingga korban  mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam  menyelesaikan masalahnya;  
 d. pelayanan hukum untuk membantu korban dalam menjalani proses peradilan;  
 e. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan ketrampilan  dan memberikan akses ekonomi agar korban dapat mandiri.  
-2. Mekanisme pelayanan dan perlindungan sebagaimana dimaksud pada ayat (1)  diselenggarakan menurut Standard Operational Procedure (SOP) yang akan diatur  lebih lanjut dengan Peraturan Bupati.  
-
-6 -
+2. Mekanisme pelayanan dan perlindungan sebagaimana dimaksud pada ayat (1) diselenggarakan menurut Standard Operational Procedure (SOP) yang akan diatur lebih lanjut dengan Peraturan Bupati.  
 
 ## Bagian Ketiga
 
@@ -181,17 +179,17 @@ Pelayanan dan perlindungan terhadap korban dilakukan dengan tidak dipungut biaya
 
 Pengelola P3A berkewajiban menyelenggarakan pelayanan dan perlindungan sesuai  dengan prinsip-prinsip pelayanan dan perlindungan sebagaimana dimaksud dalam  Pasal 9.  
 
-##### B A B VI
+# BAB VI
 
-##### PENDAMPINGAN
+## PENDAMPINGAN
 
 #### Pasal 11
 
 Pendampingan dilakukan oleh orang atau lembaga yang mempunyai keahlian untuk  melakukan konseling, terapi dan advokasi guna penguatan dan pemulihan korban  kekerasan dan telah bekerjasama dengan P3A (Pusat Pelayanan Perempuan dan  Anak).  
 
-##### B A B VII
+# BAB VII
 
-##### PENDANAAN
+## PENDANAAN
 
 #### Pasal 12
 
@@ -199,20 +197,18 @@ Pendampingan dilakukan oleh orang atau lembaga yang mempunyai keahlian untuk  me
 2. Sumber dana sebagaimana dimaksud pada ayat (1) dapat berasal dari sumber sumber lain yang sah.  
 3. Sumber dana penyelenggaraan dari sumber-sumber lain yang sah sebagaimana  dimaksud ayat (2), dilakukan pengawasan sesuai ketentuan Peraturan Perundang undangan.  
 
-##### B A B VIII
+# BAB VIII
 
-##### KETENTUAN SANKSI
+## KETENTUAN SANKSI
 
 #### Pasal 13
 
 1. Setiap orang yang dengan sengaja tidak memberikan pelayanan dan perlindungan  terhadap perempuan dan anak sehingga menyebabkan terjadinya kekerasan,  membiarkan terjadinya kekerasan, dan atau tidak melaporkan dan tidak  memberikan perlindungan terhadap korban, dikenakan sanksi sebagaimana diatur  dalam peraturan perundang-undangan yang berlaku.  
 2. Apabila Pejabat yang ditunjuk untuk menyelenggarakan pelayanan dan  perlindungan tidak melaksanakan kewajiban dan tanggung jawabnya dikenakan  sanksi sesuai ketentuan perundang-undangan yang berlaku.  
 
-7 -
+# BAB IX
 
-##### B A B I X
-
-##### KETENTUAN PENUTUP
+## KETENTUAN PENUTUP
 
 #### Pasal 14
 
@@ -220,45 +216,39 @@ Peraturan Daerah ini berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya memerintahkan pengundangan Peraturan Daerah ini  dengan penempatannya dalam Lembaran Daerah Kabupaten Bojonegoro.  
 
-Ditetapkan di Bojonegoro pada tanggal 8 September 2011
+Ditetapkan di Bojonegoro  
 
-##### BUPATI BOJONEGORO,
+pada tanggal 8 September 2011  
 
-##### H. S U Y O T O
+BUPATI BOJONEGORO,  
 
-Diundangkan di Bojonegoro pada tanggal 23 Desember 2011
+H. S U Y O T O  
 
-##### SEKRETARIS DAERAH KABUPATEN BOJONEGORO
+Diundangkan di Bojonegoro  
+
+pada tanggal 23 Desember 2011  
+
+SEKRETARIS DAERAH KABUPATEN BOJONEGORO  
 
 ttd.  
 
-Drs. SOEHADI MOELJONO, MM Pembina Utama Madya
+Drs. SOEHADI MOELJONO, MM Pembina Utama Madya  
 
-##### NIP. 19600131 198603 1 008
+NIP. 19600131 198603 1 008  
 
-##### LEMBARAN DAERAH KABUPATEN BOJONEGORO TAHUN 2011 NOMOR 23.  
+LEMBARAN DAERAH KABUPATEN BOJONEGORO TAHUN 2011 NOMOR 23.  
 
-Salinan sesuai dengan aslinya
+Salinan sesuai dengan aslinya  
 
-##### SEKRETARIS DAERAH KABUPATEN BOJONEGORO
+SEKRETARIS DAERAH KABUPATEN BOJONEGORO  
 
-Drs. SOEHADI MOELJONO,MM Pembina Utama Madya
+Drs. SOEHADI MOELJONO,MM Pembina Utama Madya  
 
-##### NIP. 19600131 198603 1 008
+NIP. 19600131 198603 1 008  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BOJONEGORO
 
-##### A T A S
-
-##### PERATURAN DAERAH KABUPATEN BOJONEGORO
-
-##### NOMOR 10 TAHUN 2011
-
-##### TENTANG
-
-##### PELAYANAN TERHADAP PEREMPUAN DAN ANAK
-
-##### KORBAN KEKERASAN DI KABUPATEN BOJONEGORO
+NOMOR 10 TAHUN 2011 TENTANG PELAYANAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN BOJONEGORO
 
 ##### I. PENJELASAN UMUM
 
@@ -268,33 +258,36 @@ Oleh karena itu Pemerintah Indonesia telah menandatangani Deklarasi  Universal H
 
 Selanjutnya dalam Rencana Aksi Nasional Penghapusan Kekerasan terhadap  Perempuan tahun 1999 dinyatakan bahwa perempuan sebagai ibu bangsa dan anak  sebagai generasi penerus bangsa yang merupakan makhluk ciptaan Tuhan Yang  Maha Kuasa sehingga wajib dilindungi dan dijaga kehormatan, martabat dan harga  dirinya secara wajar dan proporsional baik secara hukum, ekonomi, politik, sosial  dan budaya tanpa membedakan suku, agama, ras dan golongan.  
 
-2 - Dari serangkaian ketentuan di atas, maka Pemerintah bertanggung jawab  untuk melakukan tindakan-tindakan baik secara hukum, politik, ekonomi maupun  sosial untuk mencegah, menekan, mengurangi dan menghapuskan segala bentuk  kekerasan terhadap perempuan dan anak karena hal tersebut merupakan kejahatan  terhadap eksistensi manusia.  
+Dari serangkaian ketentuan di atas, maka Pemerintah bertanggung jawab  untuk melakukan tindakan-tindakan baik secara hukum, politik, ekonomi maupun  sosial untuk mencegah, menekan, mengurangi dan menghapuskan segala bentuk  kekerasan terhadap perempuan dan anak karena hal tersebut merupakan kejahatan  terhadap eksistensi manusia.  
 
 ##### II. PENJELASAN PASAL DEMI PASAL
 
 #### Pasal 1
 
-Pelayanan termasuk juga perlindungan terhadap perempuan dan anak korban  kekerasan
+Pelayanan termasuk juga perlindungan terhadap perempuan dan anak korban kekerasan.  
 
 #### Pasal 2
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Penghormatan terhadap hak-hak korban dimaksudkan untuk menjamin  terpenuhinya hak-hak korban.  
+Ayat (2)  
+Penghormatan terhadap hak-hak korban dimaksudkan untuk menjamin  terpenuhinya hak-hak korban.  
 
-Ayat (3) - Keadilan gender merupakan suatu proses untuk menjadi adil terhadap laki laki dan perempuan ;  
+Ayat (3)  
+Keadilan gender merupakan suatu proses untuk menjadi adil terhadap laki laki dan perempuan;  
 
 Kesetaraan gender adalah kesamaan kondisi bagi laki-laki dan Perempuan  untuk memperoleh kesempatan dan hak-haknya sebagai manusia, agar  mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial  budaya, pertahanan dan keamanan nasional dan kesamaan dalam  menikmati hasil pembangunan tersebut.  
 
-Ayat (4) Non diskriminasi adalah sikap dan perlakuan terhadap korban dengan tidak  melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama dan antar  golongan.  
+Ayat (4)  
+Non diskriminasi adalah sikap dan perlakuan terhadap korban dengan tidak  melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama dan antar  golongan.  
 
-Ayat (5) Kepentingan yang terbaik bagi korban adalah semua tindakan yang menyangkut  korban yang dilakukan oleh pemerintah, masyarakat, badan legislatif dan badan  yudikatif, maka kepentingan yang terbaik bagi korban harus menjadi  pertimbangan utama.  
+Ayat (5)  
+Kepentingan yang terbaik bagi korban adalah semua tindakan yang menyangkut  korban yang dilakukan oleh pemerintah, masyarakat, badan legislatif dan badan  yudikatif, maka kepentingan yang terbaik bagi korban harus menjadi  pertimbangan utama.  
 
 #### Pasal 3
 
 Yang dimaksud “kekerasan berbasis gender” adalah tindakan berdasarkan relasi  gender yang menempatkan perempuan secara subordinat terhadap laki-laki.  
-
-3 -
 
 #### Pasal 4
 
@@ -345,4 +338,3 @@ Cukup jelas.
 #### Pasal 14
 
 Cukup jelas.  
-----------------------------

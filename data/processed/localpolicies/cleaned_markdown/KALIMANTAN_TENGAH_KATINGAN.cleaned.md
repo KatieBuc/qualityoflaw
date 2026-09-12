@@ -1,18 +1,22 @@
-# BUPATI KATINGAN
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN 
 
-# PROVINSI KALIMANTAN TENGAH
+BUPATI KATINGAN  
+
+PROVINSI KALIMANTAN TENGAH  
 
 # PERATURAN DAERAH KABUPATEN KATINGAN
 
-# NOMOR \ TAHUN 2023
+NOMOR 1 TAHUN 2023  
 
-# TENTANG
+TENTANG  
 
-PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  DENGAN RAHMAT TUHAN YANG MAHA ESA
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# BUPATI KATINGAN,
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-Menimbang Mengingat:  
+BUPATI KATINGAN,  
+
+Menimbang:  
  
  
  
@@ -23,37 +27,40 @@ Menimbang Mengingat:
 a. bahwa dengan ditetapkannya Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak sebagaimana telah  diubah dengan Undang-Undang Nomor 35 Tahun 2014  tentang Perubahan atas Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak dan Undang-Undang  Nomor 24 Tahun 2004 tentang Penghapusan Kekerasan  Dalam Rumah Tangga maka dipandang perlu mencegah dan  menanggulangi kekerasan terhadap Perempuan dan Anak  melalui perlindungan hukum terhadap Perempuan dan Anak  korban kekerasan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perlindungan Perempuan dan Anak korban kekerasan;  
 
-: 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
+Mengingat:  
+
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 5 Tahun 2002 tentang Pembentukan  Kabupaten Katingan, Kabupaten Seruyan, Kabupaten  Sukamara, Kabupaten Lamandau, Kabupaten Gunung Mas,  Kabupaten Pulang Pisau, Kabupaten Murung Raya dan  Kabupaten Barito Timur di Provinsi Kalimantan Tengah  (Lembaran Negara Republik Indonesia Tahun 2002 Nomor  18, Tambahan Lembaran Negara Republik Indonesia Nomor  4180);  
-3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3886);  
+3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3886);  
 4. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Negara Republik  Indonesia Tahun 2002 Nomor 100, Tambahan Lembaran  Negara Republik Indonesia Nomor 4235) sebagaimana telah  beberapa kali diubah terakhir dengan Undang-Undang  Nomor 17 Tahun 2016 tentang Penetapan Peraturan  Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang  Perubahan Kedua atas Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak menjadi Undang-Undang  (Lembaran Negara Republik Indonesia Tahun 2016 Nomor  237, Tambahan Lembaran Negara Republik Indonesia Nomor  5946);  
 5. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan dalam Rumah Tangga (Lembaran  Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor  4419);  
 6. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007 Nomor  58, Tambahan Lembaran Negara Republik Indonesia Nomor  4720);  
-7. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor  5234) sebagaimana telah beberapa kali diubah terakhir  dengan Undang-Undang Nomor 13 Tahun 2022 tentang  Perubahan Kedua atas Undang-Undang Nomor 12 Tahun  2011 tentang Pembentukan Peraturan Perundang-undangan  (Lembaran Negara Republik Indonesia Tahun 2022 Nomor  143, Tambahan Lembaran Negara Republik Indonesia Nomor  6801);  
-8. Undang-Undang Nomor 16 Tahun 2011 tentang Bantuan  Hukum (Lembaran Negara Republik Indonesia Tahun 2011  Nomor 104, Tambahan Lembaran Negara Republik Indonesia  Nomor 5246);  
-9. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia  Tahun 2014 Nomor 244, Tambahan Lembaran Negara  Republik Indonesia Nomor 5587) sebagaimana telah diubah  beberapa kali terakhir dengan Peraturan Pemerintah  Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang  Cipta Keija (Lembaran Negara Republik Indonesia Tahun  2022 Nomor 238, Tambahan Lembaran Negara Republik  Indonesia Nomor 6841);  
+7. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor  5234) sebagaimana telah beberapa kali diubah terakhir  dengan Undang-Undang Nomor 13 Tahun 2022 tentang  Perubahan Kedua atas Undang-Undang Nomor 12 Tahun  2011 tentang Pembentukan Peraturan Perundang-undangan  (Lembaran Negara Republik Indonesia Tahun 2022 Nomor  143, Tambahan Lembaran Negara Republik Indonesia Nomor 6801);  
+8. Undang-Undang Nomor 16 Tahun 2011 tentang Bantuan  Hukum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 104, Tambahan Lembaran Negara Republik Indonesia  Nomor 5246);  
+9. Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah (Lembaran Negara Republik Indonesia  Tahun 2014 Nomor 244, Tambahan Lembaran Negara  Republik Indonesia Nomor 5587) sebagaimana telah diubah  beberapa kali terakhir dengan Peraturan Pemerintah  Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang  Cipta Keija (Lembaran Negara Republik Indonesia Tahun  2022 Nomor 238, Tambahan Lembaran Negara Republik Indonesia Nomor 6841);  
 10. Undang-Undang Nomor 12 Tahun 2022 tentang Tindak  Pidana Kekerasan Sosial (Lembaran Negara Republik  Indonesia Tahun 2022 Nomor 120, Tambahan Lembaran  Negara Republik Indonesia Nomor 3886);  
 11. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang  Penyelenggaraan dan Keija Sama Pemulihan Korban  Kekerasan dalam Rumah Tangga (Lembaran Negara Republik  Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran  Negara Republik Indonesia Nomor 4604);  
 12. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2008 tentang  Pelaksanaan Perlindungan Perempuan;  
 13. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 3 Tahun 2008 tentang Pedoman  Pelaksanaan Perlindungan Anak;  
-
-3 -
-
 14. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan Pembentukan dan Pengembangan Pusat Pelayanan Terpadu (Berita Negara Republik Indonesia Tahun 2010 Nomor 466);  
 15. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 2 Tahun 2011 tentang Pedoman Penanganan Anak Korban Kekerasan (Berita Negara Republik Indonesia Tahun 2011 Nomor 42);  
 16. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 19 Tahun 2011 tentang Pedoman Pemberdayaan Perempuan Korban Kekerasan (Berita Negara Republik Indonesia Tahun 2011 Nomor 903);  
 17. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 2 Tahun 2022 tentang Standar Layanan Perlindungan Perempuan dan Anak (Berita Negara Republik Indonesia Tahun 2022 Nomor 85);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN KATINGAN
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN KATINGAN  
 
-# BUPATI KATINGAN
+dan  
 
-# MEMUTUSKAN:
+BUPATI KATINGAN  
 
-Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN  ANAK KORBAN KEKERASAN.  
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
 # BAB I
 
@@ -61,8 +68,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN  ANAK KORBAN KEK
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Katingan.  
 2. Pemerintah Daerah adalah Pemerintah Kabupaten Katingan.  
 3. Bupati adalah Bupati Katingan.  
@@ -71,10 +77,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 6. Perempuan adalah manusia dewasa beijenis kelamin perempuan dan orang  yang oleh hukum diakui sebagai perempuan.  
 7. Anak adalah seseorang yang belum berusia 18 tahun, termasuk Anak yang  ada dalam kandungan.  
 8. Kekerasan adalah setiap perbuatan yang berakibat atau yang mengakibatkan  kesengsaraan dan penderitaan baik fisik, seksual, psikologis termasuk  penelantaran, ancaman tindakan tertentu, pemaksaan atau perampasan  kemerdekaan secara sewenang-wenang, baik yang teijadi di depan umum dan  atau dalam kehidupan pribadi.  
-9. Kekerasan terhadap anak adalah setiap perbuatan terhadap anak yang  berakibat timbulnya kesengsaraan atau penderitaan secara fisik, mental  seksual, psikologis, termasuk penelantaran dan perlakuan buruk yang  mengancam integritas dan merendahkan martabat anak.  
-
-4 -
-
+9. Kekerasan terhadap anak adalah setiap perbuatan terhadap anak yang  berakibat timbulnya kesengsaraan atau penderitaan secara fisik, mental  seksual, psikologis, termasuk penelantaran dan perlakuan buruk yang mengancam integritas dan merendahkan martabat anak.  
 10. Kekerasan terhadap perempuan adalah setiap tindakan atau mungkin  berakibat kesengsaraan atau penderitaan pada perempuan secara fisik, mental  seksual atau psikologis termasuk ancaman tindakan tertentu, pemaksaan  atau perampasan kemerdekaan secara sewenang-wenang, baik yang terjadi di  ranah publik atau kehidupan pribadi.  
 11. Korban kekerasan perempuan dan anak adalah perseorangan atau kelompok,  yang mengalami kesengsaraan dan atau penderitaan sebagai akibat dari  kekerasan dan atau ancaman kekerasan.  
 12. Perlindungan terhadap perempuan adalah segala kegiatan yang ditujukan untuk  memberikan segala rasa aman yang dilakukan oleh pihak kepolisian, kejaksaan,  pengadilan, lembaga sosial, atau pihak lain yang mengetahui atau mendengar  akan atau telah teijadi kekerasan terhadap perempuan.  
@@ -95,10 +98,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan berdasarkan  asas:  
+Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
-
-5 -
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi korban;  
@@ -138,7 +139,7 @@ a. untuk dihormati harkat dan martabatnya sebagai manusia;
 b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah  dan pihak lain baik sementara maupun berdasarkan penetapan perintah  Perlindungan dari Pengadilan;  
 c. mendapatkan pemulihan pelayanan kesehatan fisik, psikologis maupun  seksual sesuai penderitaan yang dialami oleh korban kekerasan;  
 d. mendapatkan penanganan secara khusus berkaitan dengan kerahasiaan korban;  
-e. mendapatkan pendampingan oleh pendamping dan bantuan hukum pada  setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan  perundang-undangan;  
+e. mendapatkan pendampingan oleh pendamping dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang-undangan;  
 f. mendapatkan pelayanan bimbingan rohani.  
 
 #### Pasal 6
@@ -146,9 +147,7 @@ f. mendapatkan pelayanan bimbingan rohani.
 Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak-hak khusus sebagai berikut:  
 a. penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
 b. untuk pendidikan, kesehatan dan akses kepada orang tua selama proses  penanganan berlangsung; dan  
-c. mendapatkan perlindungan yang sama berkaitan dengan status,  kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa, agama, politik,  disabilitas, kelahiran atau status lain.  
-
-6 -
+c. mendapatkan perlindungan yang sama berkaitan dengan status, kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa, agama, politik,  disabilitas, kelahiran atau status lain.  
 
 # BAB IV
 
@@ -157,7 +156,8 @@ c. mendapatkan perlindungan yang sama berkaitan dengan status,  kewarganegaraan,
 #### Pasal 7
 
 1. Pemerintah Daerah berwenang dan bertanggung jawab atas Perlindungan  Perempuan dan Anak korban kekerasan.  
-2. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud pada  ayat (1) meliputi:a. menjamin hak perempuan dan anak tanpa diskriminasi sesuai peraturan  perundang-undangan;  
+2. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud pada  ayat (1) meliputi:  
+a. menjamin hak perempuan dan anak tanpa diskriminasi sesuai peraturan  perundang-undangan;  
 b. melaksanakan kebijakan perlindungan Perempuan dan Anak korban  kekerasan berdasarkan peraturan perundang-undangan;  
 c. menetapkan kebijakan, program dan kegiatan perlindungan Perempuan  dan Anak korban kekerasan;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  Perempuan dan Anak korban kekerasan;  
@@ -171,7 +171,8 @@ i. melakukan tindakan preventive dalam rangka mencegah terjadinya  pelanggaran t
 #### Pasal 8
 
 1. Masyarakat dapat berpartisipasi dan bertanggung jawab dalam pelayanan,  pencegahan, pendampingan, pemulihan dan pemantauan terhadap korban  kekerasan.  
-2. Partisipasi masyarakat dan tanggung jawab sebagaimana dimaksud pada ayat (1)  diselenggarakan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+2. Partisipasi masyarakat dan tanggung jawab sebagaimana dimaksud pada ayat (1)  diselenggarakan dalam bentuk:  
+a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  Perempuan dan Anak kepada pihak yang berwenang;  
 c. memberikan pertolongan darurat; dan  
 d. memberikan perlindungan terhadap korban kekerasan.  
@@ -183,13 +184,12 @@ d. memberikan perlindungan terhadap korban kekerasan.
 #### Pasal 9
 
 1. UPTD PPA yang telah terbentuk dapat mewadahi lembaga/unit keija yang  memberikan pelayanan bagi korban kekerasan seperti rumah aman, rumah  perlindungan sosial Anak, rumah perlindungan trauma center, rumah  perlindungan sosial wanita, rumah singgah dan lain-lain kegiatan pelayanan  sesuai Peraturan Perundang-undangan yang berlaku.  
-2. Bentuk pelayanan yang dilaksanakan UPTD PPA meliputi:a. penanganan pengaduan;  
+2. Bentuk pelayanan yang dilaksanakan UPTD PPA meliputi:  
+a. penanganan pengaduan;  
 b. rehabilitasi kesehatan;  
 c. rehabilitasi sosial;  
 d. bantuan hukum;  
 e. pemulihan/layanan psikologis;  
-
-7 -
 f. mediasi; dan  
 g. pemulangan dan reintegrasi sosial.  
 3. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (2) dilaksanakan  sesuai dengan SPM.  
@@ -212,15 +212,17 @@ g. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.
 
 #### Pasal 11
 
-1. SPM sebagaimana dimaksud dalam Pasal 9 ayat (3) memiliki indikator kineija meliputi:a. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan  penanganan pengaduan oleh petugas terlatih di dalam UPTD PPA;  
+1. SPM sebagaimana dimaksud dalam Pasal 9 ayat (3) memiliki indikator kinerja meliputi:  
+a. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan  penanganan pengaduan oleh petugas terlatih di dalam UPTD PPA;  
 b. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan  layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di  Rumah Sakit;  
 c. cakupan layanan rehabilitasi sosial yang diberikan oleh petugas rehabilitasi sosial terlatih bagi Perempuan dan Anak korban kekerasan di  dalam UPTD PPA;  
 d. cakupan layanan bimbingan rohani yang diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan dan Anak korban kekerasan di  dalam UPTD PPA;  
 e. cakupan layanan bantuan hukum bagi perempuan dan anak korban  kekerasan;  
 f. cakupan layanan pemulihan/ layanan psikologis bagi perempuan dan anak  korban kekerasan;  
 g. cakupan layanan mediasi bagi perempuan dan anak korban kekerasan;  
-h. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan;  dani. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
-2. Penetapan indikator kineija SPM UPTD PPA bagi Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai.  
+h. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan; dan  
+i. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
+2. Penetapan indikator kinerja SPM UPTD PPA bagi Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai.  
 
 # BAB VII
 
@@ -228,9 +230,9 @@ h. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan;  dani. c
 
 #### Pasal 12
 
-Pemerintah Daerah wajib membentuk Rumah Perlindungan Sosial dan atau  ( 1 ) Rumah Aman.  
-
-Rumah Perlindungan Sosial dan atau Rumah Aman sebagaimana dimaksud ( 2) pada ayat (1) untuk menjamin dalam pelaksanaan pelayanan UPTD PPA. . 1 - 8 - (3) Untuk penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2),  Pemerintah Daerah dapat mendayagunakan rumah perlindungan sosial dan  atau Rumah Aman milik masyarakat atau lembaga-lembaga pelayanan sosial  lainnya.  
+1. Pemerintah Daerah wajib membentuk Rumah Perlindungan Sosial dan atau Rumah Aman.  
+2. Rumah Perlindungan Sosial dan atau Rumah Aman sebagaimana dimaksud pada ayat (1) untuk menjamin dalam pelaksanaan pelayanan UPTD PPA.  
+3. Untuk penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2), Pemerintah Daerah dapat mendayagunakan rumah perlindungan sosial dan  atau Rumah Aman milik masyarakat atau lembaga-lembaga pelayanan sosial  lainnya.  
 
 # BAB VIII
 
@@ -248,13 +250,15 @@ Rumah Perlindungan Sosial dan atau Rumah Aman sebagaimana dimaksud ( 2) pada aya
 
 #### Pasal 14
 
-1. Bupati melakukan pembinaan dan pengawasan penyelenggaraan UPTD PPA. (2) Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:a. pedoman dan standar pemenuhan;  
+1. Bupati melakukan pembinaan dan pengawasan penyelenggaraan UPTD PPA.  
+2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. supervisi;  
 d. penyediaan fasilitas;  
 e. monitoring; dan  
 f. evaluasi.  
-3. Pembinaan sebagaimana dimaksud pada ayat (2) dalam rangka mewujudkan  tujuan perlindungan perempuan dan Anak korban kekerasan sesuai standar  pelayanan minimal.  
+3. Pembinaan sebagaimana dimaksud pada ayat (2) dalam rangka mewujudkan tujuan perlindungan perempuan dan Anak korban kekerasan sesuai standar pelayanan minimal.  
 
 # BAB X
 
@@ -262,7 +266,8 @@ f. evaluasi.
 
 #### Pasal 15
 
-1. Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak korban  kekerasan, masyarakat dapat:a. membentuk mitra keluarga ditingkat kelurahan dan desa berkoordinasi  dengan Damang atau Mantir Adat dan Tokoh Masyarakat;  
+1. Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak korban  kekerasan, masyarakat dapat:  
+a. membentuk mitra keluarga ditingkat kelurahan dan desa berkoordinasi dengan Damang atau Mantir Adat dan Tokoh Masyarakat;  
 b. membentuk unit perlindungan Perempuan dan Anak di dalam organisasi  kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
 d. melakukan pertolongan pertama kepada korban; dan  
@@ -275,8 +280,9 @@ e. melaporkan kepada instansi yang berwenang apabila di lingkungannya teijadi  k
 
 #### Pasal 16
 
-* \ Dana penyelenggaraan perlindungan terhadap Perempuan dan Anak korban  kekerasan, bersumber dari: - 9 -
-a. APBNb. APBD; dan  
+Dana penyelenggaraan perlindungan terhadap Perempuan dan Anak korban  kekerasan, bersumber dari:  
+a. APBN;  
+b. APBD; dan  
 c. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 # BAB XII
@@ -289,25 +295,19 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah  ini dengan penempatannya dalam Lembaran Daerah Kabupaten Katingan.  
 
-Ditetaokan di Kasongan Diundangkan di Kasongan pada tanggal \{o 9c\nUQH 2D22>
+Ditetapkan di Kasongan  
 
-##### 5 DAERAH
+Diundangkan di Kasongan  
 
-##### KATINGAN,
+pada tanggal 16 Januari 2023  
 
-LEMBARAN DAERAH KABUPATEN KATINGAN TAHUN 2023 NOMOR l NOMOR REGISTER PERATURAN DAERAH KABUPATEN KATINGAN PROVINSI  KALIMANTAN TENGAH: 01,01/2023 - 10 -
+KATINGAN,
 
-##### PENJELASAN
+LEMBARAN DAERAH KABUPATEN KATINGAN TAHUN 2023 NOMOR l NOMOR REGISTER PERATURAN DAERAH KABUPATEN KATINGAN PROVINSI  KALIMANTAN TENGAH: 01,01/2023  
 
-##### ATAS
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN KATINGAN
 
-##### PERATURAN DAERAH KABUPATEN KATINGAN
-
-NOMOR j TAHUN 2023
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+NOMOR 1 TAHUN 2023 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
 ##### I. UMUM
 
@@ -327,129 +327,175 @@ Peraturan Daerah ini mengatur upaya perlindungan bagi korban khususnya dalam hal
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
-Huruf a Yang dimaksud dengan “penghormatan dan pemenuhan terhadap hak hak korban” adalah jaminan terpenuhinya hak-hak dasar korban.  
+Huruf a  
+Yang dimaksud dengan “penghormatan dan pemenuhan terhadap hak hak korban” adalah jaminan terpenuhinya hak-hak dasar korban.  
 
-Huruf b Yang dimaksud dengan “keadilan” adalah keadaan dimana setiap orang baik laki-laki maupun perempuan diperlakukan sama dan memperoleh kesempatan yang sama guna mendapatkan kesejahteraan.  
+Huruf b  
+Yang dimaksud dengan “keadilan” adalah keadaan dimana setiap orang baik laki-laki maupun perempuan diperlakukan sama dan memperoleh kesempatan yang sama guna mendapatkan kesejahteraan.  
 
-Yang dimaksud dengan “kesetaraan gender” adalah kesamaan hak, kesempatan, manfaat dan pengambilan keputusan antara perempuan dan laki-laki termasuk dalam memasuki kesempatan keija baik di sektor formal maupun informal. i -11 - Huruf c Yang dimaksud dengan “non diskriminasi” adalah sikap dan perlakuan terhadap korban dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama dan golongan.  
+Yang dimaksud dengan “kesetaraan gender” adalah kesamaan hak, kesempatan, manfaat dan pengambilan keputusan antara perempuan dan laki-laki termasuk dalam memasuki kesempatan keija baik di sektor formal maupun informal.  
 
-Huruf d Yang dimaksud dengan “kepentingan yang terbaik bagi korban” adalah semua tindakan terbaik yang menyangkut korban yang dilakukan oleh pemerintah, masyarakat, badan legislatif dan badan yudikatif, maka kepentingan yang terbaik bagi korban harus menjadi pertimbangan utama.  
+Huruf c  
+Yang dimaksud dengan “non diskriminasi” adalah sikap dan perlakuan terhadap korban dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama dan golongan.  
 
-Huruf e Yang dimaksud dengan “kearifan lokal” adalah nilai-nilai budaya yang baik yang ada di dalam masyarakat Katingan.  
+Huruf d  
+Yang dimaksud dengan “kepentingan yang terbaik bagi korban” adalah semua tindakan terbaik yang menyangkut korban yang dilakukan oleh pemerintah, masyarakat, badan legislatif dan badan yudikatif, maka kepentingan yang terbaik bagi korban harus menjadi pertimbangan utama.  
 
-Huruf f Yang dimaksud dengan “hak untuk hidup, kelangsungan hidup dan perkembangan anak” adalah suatu prinsip moral bahwa setiap orang memiliki hak untuk hidup, mempertahankan hidup dan kehidupannya, serta meningkatkan taraf kehidupannya.  
+Huruf e  
+Yang dimaksud dengan “kearifan lokal” adalah nilai-nilai budaya yang baik yang ada di dalam masyarakat Katingan.  
 
-Huruf g Yang dimaksud dengan “penghargaan terhadap pendapat korban” adalah pemerintah mengakui dan memastikan bahwa korban dapat menyampaikan pendapatnya dan diberikan kesempatan mengekspresikan pandangan secara bebas terhadap segala sesuatu yang mempengaruhi dirinya.  
+Huruf f  
+Yang dimaksud dengan “hak untuk hidup, kelangsungan hidup dan perkembangan anak” adalah suatu prinsip moral bahwa setiap orang memiliki hak untuk hidup, mempertahankan hidup dan kehidupannya, serta meningkatkan taraf kehidupannya.  
 
-Huruf h Yang dimaksud dengan “kepastian hukum” adalah adanya norma hukum yang tidak berbenturan dengan peraturan lain dan memberikan keamanan hukum bagi korban kekerasan dari kesewenangan pihak-pihak tertentu.  
+Huruf g  
+Yang dimaksud dengan “penghargaan terhadap pendapat korban” adalah pemerintah mengakui dan memastikan bahwa korban dapat menyampaikan pendapatnya dan diberikan kesempatan mengekspresikan pandangan secara bebas terhadap segala sesuatu yang mempengaruhi dirinya.  
+
+Huruf h  
+Yang dimaksud dengan “kepastian hukum” adalah adanya norma hukum yang tidak berbenturan dengan peraturan lain dan memberikan keamanan hukum bagi korban kekerasan dari kesewenangan pihak-pihak tertentu.  
 
 #### Pasal 3
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 4
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 5
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 6
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 7
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Cukup Jelas.  
+Ayat (2)  
+Cukup Jelas.  
 
-Ayat (3) Cukup Jelas.  
+Ayat (3)  
+Cukup Jelas.  
 
 #### Pasal 8
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Cukup Jelas.  
+Ayat (2)  
+Cukup Jelas.  
 
 #### Pasal 9
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-12 - Ayat (2) Huruf a Cukup Jelas.  
+Ayat (2)  
+Huruf a  
+Cukup Jelas.  
 
-Huruf b Yang dimaksud dengan “rehabilitasi kesehatan” adalah  tindakan yang diberikan untuk memulihkan fungsi fisik,  psikologis, maupun sosial korban akibat kekerasan yang  dialaminya guna mengembalikan fungsi tubuh yang  mengalami masalah.  
+Huruf b  
+Yang dimaksud dengan “rehabilitasi kesehatan” adalah  tindakan yang diberikan untuk memulihkan fungsi fisik,  psikologis, maupun sosial korban akibat kekerasan yang  dialaminya guna mengembalikan fungsi tubuh yang  mengalami masalah.  
 
-Huruf c Yang dimaksud dengan “rehabilitasi sosial” adalah proses  pengembalian fungsi dan pengembangan yang  memungkinkan korban mampu melaksanakan fungsi  sosialnya secara wajar dalam kehidupan bermasyarakat.  
+Huruf c  
+Yang dimaksud dengan “rehabilitasi sosial” adalah proses  pengembalian fungsi dan pengembangan yang  memungkinkan korban mampu melaksanakan fungsi  sosialnya secara wajar dalam kehidupan bermasyarakat.  
 
-Huruf d Yang dimaksud dengan “bantuan hukum” adalah jaminan  perlindungan hukum dan jaminan persamaan di depan  hukum bagi korban.  
+Huruf d  
+Yang dimaksud dengan “bantuan hukum” adalah jaminan  perlindungan hukum dan jaminan persamaan di depan  hukum bagi korban.  
 
-Huruf e Cukup Jelas.  
+Huruf e  
+Cukup Jelas.  
 
-Huruf f Cukup Jelas.  
+Huruf f  
+Cukup Jelas.  
 
-Huruf g Yang dimaksud dengan “pemulangan” adalah upaya  mengembalikan korban kekerasan ke daerah asal.  
+Huruf g  
+Yang dimaksud dengan “pemulangan” adalah upaya  mengembalikan korban kekerasan ke daerah asal.  
 
 Yang dimaksud dengan “reintegrasi sosial” adalah upaya  pembinaan yang dilakukan untuk memberikan kesempatan  bagi masyarakat dan korban kekerasan agar dapat saling  berinteraksi dan bersosialisasi untuk menghilangkan stigma  buruk yang ada.  
 
-Ayat (3) Cukup Jelas.  
+Ayat (3)  
+Cukup Jelas.  
 
 #### Pasal 10
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Cukup Jelas.  
+Ayat (2)  
+Cukup Jelas.  
 
 #### Pasal 11
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Cukup Jelas.  
+Ayat (2)  
+Cukup Jelas.  
 
 #### Pasal 12
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Cukup Jelas.  
+Ayat (2)  
+Cukup Jelas.  
 
-Ayat (3) Cukup Jelas.  
+Ayat (3)  
+Cukup Jelas.  
 
 #### Pasal 13
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-13 - Ayat (2) Cukup Jelas.  
+Ayat (2)  
+Cukup Jelas.  
 
-Ayat (3) Cukup Jelas.  
+Ayat (3)  
+Cukup Jelas.  
 
 #### Pasal 14
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Huruf a Cukup Jelas.  
+Ayat (2)  
+Huruf a  
+Cukup Jelas.  
 
-Huruf b Cukup Jelas.  
+Huruf b  
+Cukup Jelas.  
 
-Huruf c Cukup Jelas.  
+Huruf c  
+Cukup Jelas.  
 
-Huruf d Cukup Jelas.  
+Huruf d  
+Cukup Jelas.  
 
-Huruf e Yang dimaksud dengan Monitoring adalah untuk mengetahui perkembangan dan hambatan dalam pelaksanaan kebijakan dan kegiatan perlindungan perempuan dan Anak korban kekerasan.  
+Huruf e  
+Yang dimaksud dengan Monitoring adalah untuk mengetahui perkembangan dan hambatan dalam pelaksanaan kebijakan dan kegiatan perlindungan perempuan dan Anak korban kekerasan.  
 
-Huruf f Yang dimaksud dengan Evaluasi adalah suatu kegiatan mengumpulkan informasi mengenai kinerja sesuatu, dimana informasi tersebut akan dipakai untuk menentukan alternatif terbaik dalam membuat keputusan.  
+Huruf f  
+Yang dimaksud dengan Evaluasi adalah suatu kegiatan mengumpulkan informasi mengenai kinerja sesuatu, dimana informasi tersebut akan dipakai untuk menentukan alternatif terbaik dalam membuat keputusan.  
 
-Ayat (3) Cukup Jelas.  
+Ayat (3)  
+Cukup Jelas.  
 
 #### Pasal 15
 
-Ayat (1) Cukup Jelas.  
+Ayat (1)  
+Cukup Jelas.  
 
-Ayat (2) Cukup Jelas.  
+Ayat (2)  
+Cukup Jelas.  
 
 #### Pasal 16
 
@@ -459,4 +505,4 @@ Cukup Jelas.
 
 Cukup Jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN KATINGAN NOMOR
+TAMBAHAN LEMBARAN DAERAH KABUPATEN KATINGAN NOMOR  

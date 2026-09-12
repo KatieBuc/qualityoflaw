@@ -1,18 +1,22 @@
-# SALINAN
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# KABUPATEN TANGGAMUS
+SALINAN  
 
-# PROVINSI LAMPUNG
+KABUPATEN TANGGAMUS  
+
+PROVINSI LAMPUNG  
 
 # PERATURAN DAERAH KABUPATEN TANGGAMUS
 
-# NOMOR 2 TAHUN 2024
+NOMOR 2 TAHUN 2024  
 
-# TENTANG
+TENTANG  
 
-PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  
 
-# BUPATI TANGGAMUS,
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+BUPATI TANGGAMUS,  
 
 Menimbang:  
  
@@ -35,7 +39,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 3. Undang Undang Nomor 1 Tahun 1974 tentang  Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019), sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 16 Tahun 2019 Perubahan sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 16 Tahun 2019 (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 186, Tambahan Lembaran Negara Republik Indonesia Nomor 6401);  
 4. Undang -Undang Nomor 2 Tahun 1997 tentang  Pembentukan Kabupaten daerah Tingkat II Tulang  Bawang dan Kabupaten Daerah Tingkat II Tanggamus  ( lembar Negara Republik Indonesia tahun 1997,  Tambahan Lembaran Negara Republik Indonesia  Nomor 3667);  
@@ -54,24 +57,24 @@ Mengingat:
 17. Peraturan Pemerintah Nomor 70 Tahun 2020 Tentang  Tata Cara Pelaksanaan Tindakan Kebiri Kimia,  Pemasangan Alat Pendeteksi Elektronik, Rehabilitasi,  Dan Pengumuman Identitas Pelaku Kekerasan  Seksual Terhadap Anak (Lembaran Negara Republik  Indonesia Tahun 2020 Nomor 269, Tambahan  Lembaran Negara Republik Indonesia Nomor 6585);  
 18. Peraturan Pemerintah Nomor 78 Tahun 2021 tentang  Perlindungan Khusus Bagi Anak (Lembaran Negara  Republik Indonesia Tahun 2021 Nomor 174,  Tambahan Lembaran Negara Republik Indonesia  Nomor 6704);  
 19. Peraturan Menteri Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 4 Tahun 2018 tentang Pedoman Pembentukan Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak (Berita Negara Republik Indonesia Tahun 2018 Nomor 532);  
-
 20 Peraturan Daerah Kabupaten Tanggamus Nomor 8  Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah Kabupaten Tanggamus (Lembaran Daerah Kabupaten Tanggamus Tahun 2016 Nomor 142, Tambahan Lembaran Kabupaten Tanggamus Nomor 47) sebagaimana telah di ubah beberapa kali terakhir dengan Peraturan DaerahKabupaten Tanggamus Nomor 9 Tahun 2022 (Lembaran Daerah Kabupaten Tanggamus Tahun 2022 Nomor 212, Tambahan Lembaran Daerah Kabupaten Tanggamus Nomor 102);  
-
 21. Peraturan Daerah Kabupaten Tanggamus Nomor 02  Tahun 2017 tentang Standar Pengasuhan Anak Dalam Lembaga Kesejahteraan Sosial Anak (LKSA) (Lembaran Daerah Kabupaten Tanggamus Tahun 2017 Nomor 147);  
 22. Peraturan Daerah Kabupaten Tanggamus Nomor 1  Tahun 2019 tentang Penyelenggaraan Pendidikan (Lembaran Daerah Kabupaten Tanggamus Tahun 2019 Nomor 165, Tambahan Lembaran Daerah Nomor 67);  
 23. Peraturan Daerah Kabupaten Tanggamus Nomor 8  Tahun 2022 tentang Penyelenggaraan Kabupaten Layak Anak (Lembaran Daerah Kabupaten Tanggamus Tahun 2022 Nomor 211, Tambahan Lembaran Daerah Nomor 101);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-# DEWAN PERWAKILAN RAKYAT DAERAH
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TANGGAMUS  
 
-# KABUPATEN TANGGAMUS
+dan  
 
-# BUPATI TANGGAMUS
+BUPATI TANGGAMUS  
 
-# MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan: PERATURAN DAERAH KABUPATEN TANGGAMUS  TENTANG PENYELENGGARAAN PERLINDUNGAN  PEREMPUAN DAN ANAK
+Menetapkan:  
+
+PERATURAN DAERAH KABUPATEN TANGGAMUS TENTANG PENYELENGGARAAN PERLINDUNGAN  PEREMPUAN DAN ANAK.  
 
 # BAB I
 
@@ -79,8 +82,7 @@ Menetapkan: PERATURAN DAERAH KABUPATEN TANGGAMUS  TENTANG PENYELENGGARAAN PERLIN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Daerah adalah Kesatuan masyarakat hukum yang mempunyai batas batas wilayah yang berwenang mengatur dan mengurus urusan  pemerintah dan kepentingan masyarakat setempat menurut prakarsa  sendiri berdasarkan aspirasi masyarakat dalam sistem Negara Kesatuan  Republik Indonesia.  
 2. Pemerintahan Daerah adalah Penyelenggaraan urusan pemerintahan oleh  pemerintah daerah dan DPRD menurut asas otonomi dan tugas  pembantuan dengan prinsip otonomi seluas-luasnya dalam sistem dan  prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud  dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 3. Pemerintah Daerah adalah Bupati dan Perangkat Daerah sebagai unsur  penyelenggara pemerintahan daerah Kabupaten Tanggamus 4. Bupati adalah Bupati Tanggamus
@@ -172,8 +174,13 @@ f. Menindak pelaku kekerasan terhadap perempuan dan anak.
 #### Pasal 3
 
 Ruang Lingkup dalam Peraturan Daerah ini sebagai berikut:  
-a. Bentuk-Bentuk Kekerasan terhadap Perempuan dan anak b. Hak-Hak Korban Tindak Kekerasan Terhadap Perempuan Dan Anak c. Kewajiban Dan Tanggung Jawab
-d. Perlindungan Perempuan dan Anake. Kerja Sama, Kemitraan dan Pemberdayaanf. Pembinaan dan Pengawasang. Kabupaten Layak Anak (KLA) dan Anugerah Parahita Ekapraya (APE)
+a. Bentuk-Bentuk Kekerasan terhadap Perempuan dan anak;  
+b. Hak-Hak Korban Tindak Kekerasan Terhadap Perempuan Dan Anak;  
+c. Kewajiban Dan Tanggung Jawab;  
+d. Perlindungan Perempuan dan Anak;  
+e. Kerja Sama, Kemitraan dan Pemberdayaan;  
+f. Pembinaan dan Pengawasan;  
+g. Kabupaten Layak Anak (KLA) dan Anugerah Parahita Ekapraya (APE)  
 
 # BAB IV
 
@@ -187,17 +194,17 @@ b. Kekerasan psikis;
 c. Kekerasan seksual;  
 d. Penelantaran;  
 e. Eksploitasi;  
-f. Kekerasan lainnya, yaitu:
-1. Korban pornografi;  
-2. Korban bencana dan konflik;  
-3. Korban narkoba;  
-4. Korban terinfeksi HIV/AIDS;  
-5. Korban terorisme;  
-6. Korban Stigmatisasi;  
-7. Bentuk Pekerjaan Terburuk bagi Anak (BPTA);  
-8. Anak jalanan dan perilaku menyimpang;  
-9. Kaum disabilitas dan/ atau;  
-10. Anak Membutuhkan Perlindungan Khususlainnya.  
+f. Kekerasan lainnya, yaitu:  
+1\. Korban pornografi;  
+2\. Korban bencana dan konflik;  
+3\. Korban narkoba;  
+4\. Korban terinfeksi HIV/AIDS;  
+5\. Korban terorisme;  
+6\. Korban Stigmatisasi;  
+7\. Bentuk Pekerjaan Terburuk bagi Anak (BPTA);  
+8\. Anak jalanan dan perilaku menyimpang;  
+9\. Kaum disabilitas dan/ atau;  
+10\. Anak Membutuhkan Perlindungan Khususlainnya.  
 
 #### Pasal 5
 
@@ -212,13 +219,15 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b merupakan  perbuatan
 Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi:  
 a. Perbuatan yang berupa pelecehan seksual;  
 b. Pemaksaan hubungan seksual;  
-c. Pemaksaan hubungan seksual dengan tidak wajar; dan/ atau d. Pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan/ atau tujuan tertentu.  
+c. Pemaksaan hubungan seksual dengan tidak wajar; dan/ atau  
+d. Pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan/ atau tujuan tertentu.  
 
 #### Pasal 8
 
 Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d meliputi:  
 a. Perbuatan mengabaikan perempuan dengan sengaja dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau karena  persetujuan atau perjanjian wajib memberikan kehidupan, perawatan  kepada perempuan tersebut.  
-b. Perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas  pengasuhannya.  c. Perbuatan mengabaikan dengan sengaja untuk merawat atau mengurus  anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau  pihak lain manapun yang bertanggung jawab atas pengasuhannya.  
+b. Perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas  pengasuhannya.  
+c. Perbuatan mengabaikan dengan sengaja untuk merawat atau mengurus  anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau  pihak lain manapun yang bertanggung jawab atas pengasuhannya.  
 
 #### Pasal 9
 
@@ -279,7 +288,8 @@ Pemerintah Daerah
 
 #### Pasal 14
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 13 huruf a, meliputi:a. Menetapkan kebijakan perlindungan, pemberdayaan perempuan dan  anak;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 13 huruf a, meliputi:  
+a. Menetapkan kebijakan perlindungan, pemberdayaan perempuan dan  anak;  
 b. Melaksanakan kebijakan, perlindungan, serta pemberdayaan  perempuan dan anak dari tindak kekerasan sesuai dengan ketentuan  peraturan perundang-undangan;  
 c. Melakukan kerja sama dalam penyelenggaraan perlindungan  pemberdayaan perempuan dan anak;  
 d. Memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan, pemberdayaan perempuan dan anak;  
@@ -297,9 +307,11 @@ Swasta dan Lembaga Masyarakat
 #### Pasal 15
 
 1. Kewajiban dan tanggung jawab swasta dan masyarakat sebagaimana  dimaksud dalam Pasal 13 huruf b dan huruf c, diselenggarakan dalam  bentuk peran serta swasta dan masyarakat.  
-2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. Mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
+2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
+a. Mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
 b. Memberikan informasi dan/ atau melaporkan tindak kekerasan  terhadap perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dan  
-c. Berpartisipasi dalam tindak penanganan korban kekerasan. (3) Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan  peraturan perundang-undangan.  
+c. Berpartisipasi dalam tindak penanganan korban kekerasan.
+3. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan  peraturan perundang-undangan.  
 
 ## Bagian Ketiga
 
@@ -316,7 +328,6 @@ Dunia Usaha
 #### Pasal 17
 
 Kewajiban dan Tanggung Jawab Dunia Usaha, sebagaimana dimaksud Pasal  13 huruf e antara lain: (1) Kebijakan perusahaan yang berspektif Anak dan perempuan dalam rangka  memberikan perlindungan;  
-
 2. Produk yang ditujukan untuk Anak harus aman bagi Anak dan/atau  sesuai dengan Standar Nasional Indonesia;  
 3. Berkontribusi dalam pemenuhan Hak Anak melalui tenggung jawab sosial  perusahaan.  
 
@@ -339,16 +350,18 @@ Pencegahan kekerasan terhadap perempuan dan anak
 #### Pasal 19
 
 1. Untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan  anak, Pemerintah Daerah melakukan pemberdayaan dan penyadaran  kepada keluarga, orang tua, anak dan masyarakat dengan memberikan  informasi, bimbingan dan/ atau penyuluhan, pelatihan-pelatihan dan  mewujudkan Kabupaten Layak Anak.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah melakukan upaya sebagai berikut:a. Memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal, non formal,  maupun informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah melakukan upaya sebagai berikut:  
+a. Memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal, non formal,  maupun informal;  
 b. Penyediaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. Menciptakan suasana lingkungan kerja yang ramah dan aman bagi  perempuan;  
 d. Membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. Membangun dan menyediakan sistem informasi yang mudah diakses;  
-f. Membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak.  
+f. Membangun jejaring dan kerja sama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan anak.  
 
 #### Pasal 20
 
-1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 19 dilaksanakan oleh Perangkat  Daerah yang tugas dan fungsinya di bidang:a. Perencanaan dan Inovasi daerah;  
+1. Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak  sebagaimana dimaksud dalam Pasal 19 dilaksanakan oleh Perangkat  Daerah yang tugas dan fungsinya di bidang:  
+a. Perencanaan dan Inovasi daerah;  
 b. Sosial;  
 c. Kesehatan;  
 d. Pendidikan;  
@@ -376,14 +389,17 @@ Bentuk dan Mekanisme Layanan Tindak Kekerasan Perempuan dan Anak
 #### Pasal 21
 
 1. Dalam rangka pelayanan perlindungan kepada perempuan dan anak dari  tindak kekerasan, Pemerintah Daerah membentuk Unit Pelaksana Teknis  Daerah Perlindungan Perempuan dan Anak (UPTD PPA), Sistem Layanan  Rujukan Terpadu (SLRT), Tim Kekerasan Terhadap Perempuan/Anak (Tim  KTP/A) di puskemas, Rumah Sakit, sekolah-sekolah, Pondok Pesantren,  Desa Ramah Perempuan dan Peduli Anak (DRPPA).  
-2. Pemerintah Daerah melalui UPTD PPA sebagaimana dimaksud pada ayat  (1), berfungsi melaksanakan layanan:a. Pengaduan masyarakat;  
+2. Pemerintah Daerah melalui UPTD PPA sebagaimana dimaksud pada ayat  (1), berfungsi melaksanakan layanan:  
+a. Pengaduan masyarakat;  
 b. Penjangkuan korban;  
 c. Pengelolaan kasus;  
 d. Penampungan sementara;  
 e. Mediasi;  
 f. Pendampingan korban; dan  
 g. Pemulangan korban.  
-3. Ketentuan lebih lanjut mengenai organisasi dan tata kerja UPTD PPA  sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bupati. (4) Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah  membentuk:a. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan  Orang;  
+3. Ketentuan lebih lanjut mengenai organisasi dan tata kerja UPTD PPA  sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bupati.  
+4. Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah  membentuk:  
+a. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan  Orang;  
 b. Gugus Tugas Pencegahan Perkawinan Anak;  
 c. Gugus Tugas Kabupaten Layak Anak;  
 d. Komite Aksi Daerah penghapusan bentuk-bentuk pekerjaan terburuk  untuk anak atau Bentuk Pekerjaan Terburuk bagi Anak (BPTA);  
@@ -430,7 +446,8 @@ Kerja Sama
 
 #### Pasal 25
 
-1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak, maka  dapat dilakukan kerja sama dengan:a. Pemerintah Pusat;  
+1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak, maka  dapat dilakukan kerja sama dengan:  
+a. Pemerintah Pusat;  
 b. Pemerintah Provinsi;  
 c. Pemerintah Kabupaten/Kota lain;  
 d. Lembaga Non Pemerintah;  
@@ -453,7 +470,8 @@ Kemitraan
 #### Pasal 26
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha dan media  massa dalam perlindungan perempuan dan anak dari tindak kekerasan  sesuai dengan ketentuan peraturan perundang-undangan.  
-2. Kemitraan dengan dunia udaha sebagaimana dimaksud pada ayat (1)  dilakukan melalui:a. Pemberitahuan informasi kesempatan kerja bagi perempuan dan anak  korban tindak kekerasan;  
+2. Kemitraan dengan dunia usaha sebagaimana dimaksud pada ayat (1)  dilakukan melalui:  
+a. Pemberitahuan informasi kesempatan kerja bagi perempuan dan anak  korban tindak kekerasan;  
 b. Pendidikan dan pelatihan bagi perempuan dan anak korban tindak  kekerasan.  
 3. Kemitraan dengan media massa sebagaimana dimaksud pada ayat (1)  dilakukan melalui penyebarluasan informasi dan materi edukasi yang  bermanfaat dari aspek sosial, budaya, pendidikan, agama, dan kesehatan  perempuan dan anak dengan memperhatikan kepentingan terbaik bagi  perempuan dan anak korban kekerasan.  
 
@@ -476,7 +494,12 @@ f. pengembangan komunikasi, informasi, dan edukasi tentang layanan  Pemberdayaan
 
 #### Pasal 28
 
-1. Pemerintah daerah melaksanakan Pembinaan dan Pengawasan dilakukan  dengan cara:a. Koordinasib. Bimbinganc. Pendidikan dan Pelatihand. Pemantauan dan Evaluasi (2) Pelaksanaan koordinasi sebagaimana dimaksud dalam ayat (1) huruf a  dilakukan antara pemangku kepentingan secara lintas sektoral dengan  Perangkat Daerah, dan lembaga Masyarakat sesuai ketentuan peraturan  perundang-undangan.  
+1. Pemerintah daerah melaksanakan Pembinaan dan Pengawasan dilakukan  dengan cara:  
+a. Koordinasi;  
+b. Bimbingan;  
+c. Pendidikan dan Pelatihan;  
+d. Pemantauan dan Evaluasi.  
+2. Pelaksanaan koordinasi sebagaimana dimaksud dalam ayat (1) huruf a  dilakukan antara pemangku kepentingan secara lintas sektoral dengan  Perangkat Daerah, dan lembaga Masyarakat sesuai ketentuan peraturan  perundang-undangan.  
 3. Pelaksanaan Bimbingan sebagaimana dimaksud ayat (1) huruf b terhadap perempuan dan anak yang menjadi korban melalui bimbingan nilai agama  dan nilai sosial, Konseling, Rehabilitasi Sosial, dan Pendampingan Sosial  oleh Perangkat Daerah yang membidangi bersama dengan Instansi terkait  lainnya.  
 4. Pelaksanaan pendidikan dan pelatihan sebagaimana dimaksud dalam ayat  (1) huruf c diberikan terhadap perempuan dan anak yang menjadi korban  sebagai upaya perbaikan kondisi fisik dan mental perempuan dan anak  dalam pemenuhan hak dan kebutuhan hidupnya oleh Perangkat Daerah  yang membidangi, Balai Latihan Kerja dan Instansi terkait lainnya.  
 5. Pelaksanaan pembinaan dan pengawasan terhadap perempuan dan anak yang menjadi korban sebagaimana dimaksud ayat (2), ayat (3) dan ayat (4) dilakukan pemantauan dan evaluasi terhadap sasaran yang akan dicapai.  
@@ -498,8 +521,8 @@ c. Kesehatan dasar dan kesejahteraan;
 d. Pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya;  
 e. Perlindungan khusus anak;  
 f. Serta Kelembagaan;  
-5. Pokja PUG sebagaimana dimaksud ayat (2), bertanggungjawab pada  pemenuhan hak perempuan yang perspektif gender.  
-6. Ketentuan yang berkaitan dengan Kabupaten Layak Anak (KLA) dan PUG  diatur dalam Peraturan Perundang-undangan.  
+4. Pokja PUG sebagaimana dimaksud ayat (2), bertanggungjawab pada  pemenuhan hak perempuan yang perspektif gender.  
+5. Ketentuan yang berkaitan dengan Kabupaten Layak Anak (KLA) dan PUG  diatur dalam Peraturan Perundang-undangan.  
 
 # BAB XI
 
@@ -513,7 +536,8 @@ b. Sumber lain yang sah dan tidak mengikat.
 
 #### Pasal 31
 
-1. Pendanaan perlindungan bagi perempuan dan anak korban kekerasan  meliputi:a. Pelayanan medis, yang meliputi pemeriksaan dokter, biaya tindakan,  biaya rumah sakit, biaya obat-obatan dan biaya penunjang medic;  
+1. Pendanaan perlindungan bagi perempuan dan anak korban kekerasan  meliputi:  
+a. Pelayanan medis, yang meliputi pemeriksaan dokter, biaya tindakan,  biaya rumah sakit, biaya obat-obatan dan biaya penunjang medic;  
 b. Pelayanan medicolegal, yang meliputi pemeriksaan untuk Visum et  Repertum dan et Psikiatrikum;  
 c. Pelayanan psikososial, yang terdiri dari konseling dan terapi psikologi  serta rumah aman (shelter);  
 d. Pelayanan hukum;  
@@ -542,31 +566,31 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Tanggamus.  
 
-Ditetapkan di Kota Agung pada tanggal 25 April 2024 Pj. BUPATI TANGGAMUS,
+Ditetapkan di Kota Agung  
 
-##### MULYADI IRSAN
+pada tanggal 25 April 2024  
 
-Diundangkan di Kota Agung pada tanggal 26 April 2024
+Pj. BUPATI TANGGAMUS,  
 
-##### SEKRETARIS DAERAH KABUPATEN,
+MULYADI IRSAN  
 
-##### HAMID HERIANSYAH LUBIS
+Diundangkan di Kota Agung  
 
-##### LEMBARAN DAERAH KABUPATEN TANGGAMUS TAHUN 2024 NOMOR 221
+pada tanggal 26 April 2024  
 
-NOMOR REGISTER PERATURAN DAERAH KABUPATEN TANGGAMUS,  PROVINSI LAMPUNG: 03/1490/TGS/2024
+SEKRETARIS DAERAH KABUPATEN,  
 
-##### PENJELASAN
+HAMID HERIANSYAH LUBIS. 
 
-##### ATAS
+LEMBARAN DAERAH KABUPATEN TANGGAMUS TAHUN 2024 NOMOR 221  
 
-##### PERATURAN DAERAH KABUPATEN TANGGAMUS
+NOMOR REGISTER PERATURAN DAERAH KABUPATEN TANGGAMUS,  PROVINSI LAMPUNG: 03/1490/TGS/2024  
 
-##### NOMOR 2 TAHUN 2024
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TANGGAMUS
 
-##### TENTANG
+NOMOR 2 TAHUN 2024 TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK 
 
-##### PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK I. UMUM.  
+#### I. UMUM.  
 
 Tindak kekerasan terhadap perempuan dan anak mengalami  kecenderungan yang semakin meningkat. Faktor pemicu seperti ekonomi,  sosial, budaya serta lingkungan sosial semakin kompleks seiring dengan  pengaruh perkembangan teknologi. Perlu langkah secara nyata untuk  memberikan perlindungan oleh segenap elemen Warga Negara sebagai  kesatuan dari masyarakat, serta peran Pemerintah Daerah sebagai  pengayom warga negaranya dengan berbagai program guna melakukan  pencegahan tindak kekerasan terhadap perempuan dan anak. Salah satu  upaya untuk mencegah kekerasan terhadap perempuan dilakukan  melalui pemberdayaan perempuan dan optimalisasi potensi yang telah  dimiliki sebelumnya, sehingga diharapkan mampu meningkatkan dan  mengembangkan diri untuk berperan dan terlindungi dari potensi tindak  kekerasan. Kondisi ini akan memperkuat bentuk penghargaan dan  penghormatan terhadap perempuan dan tetap menjaga peran dan  kodratnya sebagai seorang perempuan untuk berperan dalam mendidik  dan mendukung kesejahteraan dan kebahagiaan keluarganya.  
 
@@ -578,138 +602,138 @@ Sehubungan dengan hal tersebut, untuk mewujdukan pemberian upaya  perlindungan p
 
 #### Pasal 1
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 2
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 3
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 4
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 5
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 6
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 7
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 8
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 9
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 10
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 11
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 12
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 13
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 14
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 15
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 16
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 17
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 18
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 19
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 20
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 21
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 22
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 23
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 24
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 25
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 26
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 27
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 28
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 29
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 30
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 31
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 32
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 33
 
-Cukup Jelas
+Cukup Jelas.  
 
 #### Pasal 34
 
-Cukup Jelas
+Cukup Jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN TANGGAMUS NOMOR 107
+TAMBAHAN LEMBARAN DAERAH KABUPATEN TANGGAMUS NOMOR 107  

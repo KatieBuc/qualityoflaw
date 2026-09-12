@@ -1,30 +1,16 @@
-# PERATURAN DAERAH
+# PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
-# KABUPATEN OGAN KOMERING ULU
+# PERATURAN DAERAH KABUPATEN OGAN KOMERING ULU
 
-# NOMOR 6 TAHUN 2012
+NOMOR 6 TAHUN 2012  
 
-# TENTANG
-
-PENYELENGGARAAN PERLINDUNGAN TERHADAP  KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
-
-## Bagian Hukum
-
-Sekretariat Daerah Kabupaten Ogan Komering Ulu
-
-### PERATURAN DAERAH
-
-### KABUPATEN OGAN KOMERING ULU
-
-### NOMOR 6 TAHUN 2012
-
-### TENTANG
+TENTANG  
 
 PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
-### DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-### BUPATI OGAN KOMERING ULU,
+BUPATI OGAN KOMERING ULU  
 
 Menimbang:  
  
@@ -48,11 +34,10 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945.  
-
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Pembentukan  Daerah Tingkat II dan Kotapraja di Sumatera Selatan  (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73,  Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
 3. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi  Terhadap Wanita (Convention On The Elimination of All Forms of  Discrimination Against Women) (Lembaran Negara Republik  Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara  Republik Indonesia Nomor 3277);  
-4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3886);  
-5. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor  109, Tambahan Lembaran Negara Republik Indonesia Nomor  4235);  
+4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
+5. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor  109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235);  
 6. Undang-Undang Nomor 13 Tahun 2003 tentang  Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun  2003 Nomor 39, Tambahan Lembaran Negara Republik  Indonesia Nomor 4279);  
 7. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan  Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik  Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara  Republik Indonesia Nomor 4419);  
 8. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan  Daerah (Lembaran Negara Republik Indonesia Tahun 2004  Nomor 125, Tambahan Lembaran Negara Republik Indonesia  Nomor 4437) sebagaimana telah beberapa kali diubah terakhir  dengan Undang-Undang Nomor 12 Tahun 2008 tentang  Perubahan Kedua Atas Undang-Undang Nomor 32 Tahun 2004  tentang Pemerintahan Daerah (Lembaran Negara Republik  Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara  Republik Indonesia Nomor 4844);  
@@ -65,19 +50,19 @@ Mengingat:
 15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang  Pembagian Urusan Pemerintahan Antara Pemerintah,  Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah  Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun  2007 Nomor 82, Tambahan Lembaran Negara Republik  Indonesia Nomor 4737);  
 16. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara  dan Mekanisme Pelayanan Terpadu Bagi Saksi dan/atau  Korban Tindak Pidana Perdagangan Orang (Lembaran Negara  Republik Indonesia Tahun 2008 Nomor 22, Tambahan  Lembaran Negara Republik Indonesia Nomor 4818);  
 
-Dengan Persetujuan Bersama
+Dengan Persetujuan Bersama  
 
-### DEWAN PERWAKILAN RAKYAT DAERAH
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN OGAN KOMERING ULU  
 
-### KABUPATEN OGAN KOMERING ULU
+dan  
 
-### BUPATI OGAN KOMERING ULU
+BUPATI OGAN KOMERING ULU  
 
-### MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP KORBAN KEKERASAN
+Menetapkan:  
 
-### BERBASIS GENDER DAN ANAK.  
+PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK.  
 
 # BAB I
 
@@ -85,8 +70,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP KORB
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini, yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini, yang dimaksud dengan:  
 1. Pemerintah Pusat yang selanjutnya disebut Pemerintah adalah Presiden  Republik Indonesia yang memegang kekuasaan Pemerintah Negara Republik  Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Republik  Indonesia Tahun 1945.  
 2. Daerah adalah Kabupaten Ogan Komering Ulu.  
 3. Pemerintah Daerah adalah Bupati dan Perangkat Daerah sebagai unsur  penyelenggara pemerintahan daerah.  
@@ -143,7 +127,8 @@ e. meningkatkan partisipasi masyarakat.
 
 #### Pasal 4
 
-1. Setiap korban kekerasan berbasis gender dan anak korban kekerasan berhak:a. memperoleh perlindungan atas keamanan pribadi, keluarga, dan harta  bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan  yang akan, sedang, atau telah diberikan;  
+1. Setiap korban kekerasan berbasis gender dan anak korban kekerasan berhak:  
+a. memperoleh perlindungan atas keamanan pribadi, keluarga, dan harta  bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan  yang akan, sedang, atau telah diberikan;  
 b. untuk ikut serta dalam proses memilih dan menentukan bentuk  perlindungan dan dukungan keamanan;  
 c. bebas dari pertanyaan yang menjerat;  
 d. mendapatkan informasi mengenai perkembangan kasus dan putusan  pengadilan;  
@@ -158,12 +143,14 @@ g. mendapatkan pendampingan hukum, psikologis, bimbingan rohani,  ekonomi, sosia
 
 #### Pasal 5
 
-1. Kewajiban Pemerintah Daerah meliputi:a. mencegah terjadinya kekerasan;  
+1. Kewajiban Pemerintah Daerah meliputi:  
+a. mencegah terjadinya kekerasan;  
 b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi sosial;  
 d. mendorong dan meningkatkan partisipasi masyarakat;  
 e. melakukan kerjasama dengan penyedia layanan dalam upaya  pencegahan, perlindungan dan pemulihan korban kekerasan.  
-2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1),  Pemerintah Daerah mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang penghapusan kekerasan  berbasis gender dan anak;  
+2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1),  Pemerintah Daerah mempunyai kewenangan untuk:  
+a. merumuskan kebijakan dan program tentang penghapusan kekerasan  berbasis gender dan anak;  
 b. membentuk pelayanan terpadu dan KPK2BGA;  
 c. memfasilitasi terselenggaranya pelayanan terpadu dan kegiatan  KPK2BGA;  
 d. menyediakan sarana dan prasarana;  
@@ -324,11 +311,13 @@ Pelaksanaan kerjasama sebagaimana dimaksud dalam Pasal 21 sesuai dengan  ketentu
 #### Pasal 23
 
 1. Masyarakat dapat berperan serta membantu upaya pencegahan dan  penanganan korban kekerasan berbasis gender dan anak.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) diwujudkan  dengan:a. memberikan informasi dan atau melaporkan setiap kekerasan yang  diketahuinya;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) diwujudkan  dengan:  
+a. memberikan informasi dan atau melaporkan setiap kekerasan yang  diketahuinya;  
 b. memberikan perlindungan bagi korban;  
 c. memberikan pertolongan darurat;  
 d. memberikan advokasi terhadap korban dan atau masyarakat tentang  penanganan kasus kekerasan berbasis gender dan anak;  
-e. membantu proses pengajuan permohonan penetapan perlindungan; dan f. membantu dalam proses pemulangan dan reintegrasi sosial.  
+e. membantu proses pengajuan permohonan penetapan perlindungan; dan  
+f. membantu dalam proses pemulangan dan reintegrasi sosial.  
 
 # BAB VII
 
@@ -337,7 +326,8 @@ e. membantu proses pengajuan permohonan penetapan perlindungan; dan f. membantu 
 #### Pasal 24
 
 1. Untuk mencegah terjadi tindak kekerasan terhadap perempuan dan anak,  Pemerintah Daerah melakukan sosialisasi, pemberdayaan, dan penyadaran  kepada keluarga, orangtua, dan masyarakat dengan memberikan informasi,  bimbingan dan/atau penyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1)  Pemerintah Daerah melakukan upaya sebagai berikut:a. peningkatan jumlah dan mutu pendidikan baik formal maupun non  formal dan informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1)  Pemerintah Daerah melakukan upaya sebagai berikut:  
+a. peningkatan jumlah dan mutu pendidikan baik formal maupun non  formal dan informal;  
 b. pembukaan lapangan kerja bagi perempuan;  
 c. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan; dan  
 d. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak.  
@@ -391,37 +381,29 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Ogan  Komering Ulu.  
 
-Ditetapkan di Baturaja pada tanggal, 26 Nopember 2012
+Ditetapkan di Baturaja pada tanggal, 26 Nopember 2012  
 
-##### BUPATI OGAN KOMERING ULU,
-
-Cap/Dto
-
-##### YULIUS NAWAWI
-
-Diundangkan di Baturaja pada tanggal, 26 Nopember 2012
-
-##### SEKRETARIS DAERAH KABUPATEN
-
-##### OGAN KOMERING ULU,
+BUPATI OGAN KOMERING ULU,  
 
 Cap/Dto
 
-##### UMIRTOM
+YULIUS NAWAWI  
 
-LEMBARAN DAERAH KABUPATEN OGAN KOMERING ULU TAHUN 2012 NOMOR 6
+Diundangkan di Baturaja pada tanggal, 26 Nopember 2012  
 
-##### PENJELASAN
+SEKRETARIS DAERAH KABUPATEN  
 
-##### ATAS
+OGAN KOMERING ULU,  
 
-##### PERATURAN DAERAH KABUPATEN OGAN KOMERING ULU
+Cap/Dto  
 
-##### NOMOR 6 TAHUN 2012
+UMIRTOM  
 
-##### TENTANG
+LEMBARAN DAERAH KABUPATEN OGAN KOMERING ULU TAHUN 2012 NOMOR 6  
 
-PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN OGAN KOMERING ULU
+
+NOMOR 6 TAHUN 2012 TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK.  
 
 ##### I. UMUM
 
@@ -607,6 +589,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH
-
-##### KABUPATEN OGAN KOMERING ULU NOMOR TAHUN 2012
+TAMBAHAN LEMBARAN DAERAH KABUPATEN OGAN KOMERING ULU NOMOR TAHUN 2012  

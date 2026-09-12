@@ -1,18 +1,20 @@
-# BUPATI SEMARANG
+# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN 
 
-# PROVINSI JAWA TENGAH
+BUPATI SEMARANG  
+
+PROVINSI JAWA TENGAH  
 
 # PERATURAN DAERAH KABUPATEN SEMARANG
 
-# NOMOR 1 TAHUN 2015
+NOMOR 1 TAHUN 2015  
 
-# TENTANG
+TENTANG  
 
-# PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+DENGAN RAHMAT TUHAN YANG MAHA ESA. 
 
-# BUPATI SEMARANG,
+BUPATI SEMARANG,  
 
 Menimbang:  
  
@@ -24,9 +26,9 @@ Menimbang:
  
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan sesuai dengan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
-c. bahwa berdasarkan Pasal 12 ayat (2) huruf b Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah disebutkan pada intinya bahwa pemberdayaan perempuan merupakan urusan wajib yang harus diselenggarakan oleh pemerintah daerah ;  
-d. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah dalam Lampiran disebutkan bahwa pembagian urusan pemerintah dalam bidang pemberdayaan perempuan dengan salah satu sub urusan adalah perlindungan perempuan ;  
-e. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan ;  
+c. bahwa berdasarkan Pasal 12 ayat (2) huruf b Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah disebutkan pada intinya bahwa pemberdayaan perempuan merupakan urusan wajib yang harus diselenggarakan oleh pemerintah daerah;  
+d. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah dalam Lampiran disebutkan bahwa pembagian urusan pemerintah dalam bidang pemberdayaan perempuan dengan salah satu sub urusan adalah perlindungan perempuan;  
+e. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
  
@@ -37,7 +39,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten Dalam Lingkungan Propinsi Jawa Tengah ;  
 3. Undang-Undang Nomor 67 Tahun 1958 tentang Perubahan  Batas-batas Wilayah Kotapraja Salatiga Dan Daerah  Swantantra Tingkat II Semarang (Lembaran Negara  Republik Indonesia Tahun 1958 Nomor 118, Tambahan  Lembaran Negara Republik Indonesia Nomor 1652) ;  
 4. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974  Nomor 1, Tambahan Lembaran Negara Republik Indonesia  Nomor 3019);  
@@ -65,13 +66,19 @@ Mengingat:
 26. Peraturan Menteri Dalam Negeri Nomor 15 Tahun 2008 tentang Pedoman Umum Pelaksanaan Pengarusutamaan Gender di Daerah sebagaimana telah diubah dengan Peraturan Menteri Dalam Negeri Nomor 67 Tahun 2011 tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 15 Tahun 2008 tentang Pedoman Umum Pelaksanaan Pengarusutamaan Gender di Daerah;  
 27. Peraturan Daerah Kabupaten Semarang Nomor 16  Tahun 2008 tentang Urusan Pemerintahan Yang Menjadi Kewenangan Pemerintah Daerah Kabupaten Semarang (Lembaran Daerah Kabupaten Semarang Tahun 2008 Nomor 16, Tambahan Lembaran Daerah Kabupaten Semarang Nomor 14);  
 
-Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SEMARANG Dan
+Dengan Persetujuan Bersama  
 
-# BUPATI SEMARANG
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN SEMARANG  
 
-# MEMUTUSKAN:
+Dan  
 
-Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN
+BUPATI SEMARANG  
+
+MEMUTUSKAN:  
+
+Menetapkan:  
+
+PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
 
 # BAB I
 
@@ -79,8 +86,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kabupaten Semarang.  
 2. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh  Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah menurut asas  otonomi dan tugas pembantuan dengan prinsip otonomi seluas-luasnya  dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana  dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun  1945.  
 3. Pemerintah Daerah adalah Bupati dan perangkat daerah sebagai unsur  penyelenggara Pemerintahan Daerah.  
@@ -104,7 +110,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Ruang lingkup Peraturan Daerah ini meliputi
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. asas dan tujuan;  
 b. hak perempuan;  
 c. kewajiban dan tanggungjawab pemerintah daerah;  
@@ -133,7 +139,8 @@ d. kepentingan terbaik perempuan.
 #### Pasal 4
 
 Tujuan Peraturan Daerah ini adalah:  
-a. memberdayakan perempuan baik secara individual maupun kelompok dan  masyarakat secara luas agar mampu hidup lebih mandiri; dan  b. mencegah dan menangani resiko kekerasan dan kerentanan perempuan agar  kelangsungan hidupnya dapat dipenuhi sesuai prinsip kesetaraan dan  keadilan.  
+a. memberdayakan perempuan baik secara individual maupun kelompok dan  masyarakat secara luas agar mampu hidup lebih mandiri; dan  
+b. mencegah dan menangani resiko kekerasan dan kerentanan perempuan agar  kelangsungan hidupnya dapat dipenuhi sesuai prinsip kesetaraan dan  keadilan.  
 
 # BAB IV
 
@@ -141,13 +148,14 @@ a. memberdayakan perempuan baik secara individual maupun kelompok dan  masyaraka
 
 #### Pasal 5
 
-1. Setiap perempuan berhak untuk:a. hidup dan mempertahankan hidup serta meningkatkan taraf  kehidupannya;  
+1. Setiap perempuan berhak untuk:  
+a. hidup dan mempertahankan hidup serta meningkatkan taraf  kehidupannya;  
 b. memenuhi kebutuhan dasarnya untuk tumbuh dan berkembang secara  layak, berkeluarga dan melanjutkan keturunan;  
 c. mengembangkan pribadinya, untuk memperoleh pendidikan, dan  meningkatkan kualitas hidupnya agar menjadi manusia yang beriman,  bertaqwa, bertanggung jawab, berakhlak mulia, bahagia, dan sejahtera  sesuai dengan hak asasi manusia;  
-d. memperoleh keadilan, rasa aman, dan kebebasan menyampaikan  pendapat tanpa diskriminasi ;  
+d. memperoleh keadilan, rasa aman, dan kebebasan menyampaikan  pendapat tanpa diskriminasi;  
 e. terlibat dalam setiap tahapan proses pembangunan ;  
 f. bebas dari perbudakan atau diperhamba dan ancaman;  
-g. memperoleh perlindungan diri pribadi, keluarga, kehormatan, martabat  dan hak miliknya;  
+g. memperoleh perlindungan diri pribadi, keluarga, kehormatan, martabat dan hak miliknya;  
 h. mendapatkan kesejahteraan dan kehidupan yang layak;  
 i. berpartisipasi dalam politik;  
 j. melakukan perbuatan hukum; dan  
@@ -162,7 +170,8 @@ k. bebas memilih pasangan dalam perkawinannya .
 #### Pasal 6
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab terhadap  pemberdayaan dan perlindungan perempuan.  
-2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud  pada ayat (1) meliputi:a. penetapan kebijakan, program, dan kegiatan;  
+2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud  pada ayat (1) meliputi:  
+a. penetapan kebijakan, program, dan kegiatan;  
 b. penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan; dan  
 d. koordinasi kebijakan, program dan kegiatan.  
@@ -199,7 +208,8 @@ d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu  pengeta
 
 #### Pasal 10
 
-1. Pemberdayaan perempuan di bidang politik sebagaimana dimaksud dalam  Pasal 7 huruf c meliputi:a. pelibatan perempuan dalam pengambilan keputusan di berbagai  tingkatan;  
+1. Pemberdayaan perempuan di bidang politik sebagaimana dimaksud dalam  Pasal 7 huruf c meliputi:  
+a. pelibatan perempuan dalam pengambilan keputusan di berbagai tingkatan;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan  publik;  
 c. partisipasi dalam pemilihan umum; dan  
 d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan  mengeluarkan pendapat.  
@@ -207,7 +217,8 @@ d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan  mengelu
 
 #### Pasal 11
 
-1. Pemberdayaan perempuan di bidang hukum sebagaimana dimaksud dalam  Pasal 7 huruf d meliputi:a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui  layanan komunikasi, informasi dan edukasi;  
+1. Pemberdayaan perempuan di bidang hukum sebagaimana dimaksud dalam  Pasal 7 huruf d meliputi:  
+a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui  layanan komunikasi, informasi dan edukasi;  
 b. fasilitasi akses dan layanan konsultasi hukum.  
 2. Pemberdayaan perempuan di bidang hukum sebagaimana dimaksud pada  ayat (1) dilaksanakan sesuai dengan peraturan perundang-undangan yang  berlaku.  
 
@@ -217,7 +228,8 @@ b. fasilitasi akses dan layanan konsultasi hukum.
 
 #### Pasal 12
 
-1. Perlindungan perempuan meliputi:a. perlindungan sosial;  
+1. Perlindungan perempuan meliputi:  
+a. perlindungan sosial;  
 b. perlindungan ekonomi;  
 c. perlindungan hukum.  
 2. Perlindungan sosial sebagaimana dimaksud pada ayat (1) huruf a untuk  menjamin kelangsungan hidup perempuan dalam bentuk perlindungan  sosial guna menjamin terpenuhinya kebutuhan hidup yang layak.  
@@ -253,10 +265,11 @@ Perempuan Pekerja/Buruh
 #### Pasal 14
 
 1. Pelaksanaan perlindungan bagi perempuan pekerja/buruh sebagaimana  dimaksud dalam Pasal 13 huruf a untuk memberikan perlindungan dari  tindakan eksploitasi ekonomi dan perlakuan kejam, tidak manusiawi dan  mengusahakan penghargaan yang layak atas pekerjaan.  
-2. Perempuan pekerja/buruh sebagaimana dimaksud pada ayat (1)  mendapatkan perlindungan atas:a. pengakuan hak, upah dan kondisi kerja yang layak;  
+2. Perempuan pekerja/buruh sebagaimana dimaksud pada ayat (1)  mendapatkan perlindungan atas:  
+a. pengakuan hak, upah dan kondisi kerja yang layak;  
 b. jaminan kesehatan dan sosial;  
 c. akses informasi dan layanan konsultasi hukum;  
-d. kesempatan memperoleh pengetahuan dan ketrampilan untuk  meningkatkan status; dan  
+d. kesempatan memperoleh pengetahuan dan ketrampilan untuk meningkatkan status; dan  
 e. saksi dan korban.  
 
 ## Bagian Ketiga
@@ -266,8 +279,10 @@ Perempuan Lanjut Usia
 #### Pasal 15
 
 1. Pelaksanaan perlindungan bagi perempuan lanjut usia sebagaimana  dimaksud dalam Pasal 13 huruf b dalam rangka memperpanjang usia  harapan hidup agar dapat melaksanakan fungsi sosialnya dan berperan  aktif secara wajar dalam kehidupan sosialnya.  
-2. Perempuan lanjut usia sebagaimana dimaksud pada ayat (1) mendapatkan  hak perlindungan atas:a. layanan kesehatan dasar untuk memelihara dan meningkatkan derajat  kesehatan termasuk layanan gerontologik/geriatric;  
-b. penggunaan fasilitas dan aksesibilitas sarana dan prasarana umum; dan  c. layanan administrasi pemerintahan.  
+2. Perempuan lanjut usia sebagaimana dimaksud pada ayat (1) mendapatkan  hak perlindungan atas:  
+a. layanan kesehatan dasar untuk memelihara dan meningkatkan derajat  kesehatan termasuk layanan gerontologik/geriatric;  
+b. penggunaan fasilitas dan aksesibilitas sarana dan prasarana umum; dan  
+c. layanan administrasi pemerintahan.  
 
 ## Bagian Keempat
 
@@ -276,9 +291,11 @@ Perempuan Penyandang Disabilitas
 #### Pasal 16
 
 1. Pelaksanaan perlindungan bagi perempuan penyandang disabilitas  sebagaimana dimaksud dalam Pasal 13 huruf c dalam rangka memberikan  perlindungan dan pencegahan terhadap bentuk-bentuk diskriminasi antara  lain bebas dari perlakuan kejam, tidak manusiawi, merendahkan martabat  manusia, dan bebas dari eksploitasi.  
-2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1)  mendapatkan hak perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi;  
+2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1)  mendapatkan hak perlindungan atas:  
+a. jaminan keberlangsungan dan pengembangan diri pribadi;  
 b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, olahraga,  seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi;  
-c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan  d. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk  peningkatan fungsi dan kapasitasnya.  
+c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan  
+d. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk  peningkatan fungsi dan kapasitasnya.  
 
 ## Bagian Kelima
 
@@ -287,7 +304,8 @@ Perempuan Tuna Wisma
 #### Pasal 17
 
 1. Pelaksanaan perlindungan bagi perempuan tuna wisma sebagaimana  dimaksud dalam Pasal 13 huruf d dalam rangka memberikan perlindungan  dan pencegahan terhadap bentuk-bentuk kekerasan yang disebabkan oleh  tidak adanya tempat berlindung atau tempat tinggal tetap.  
-2. Perempuan tuna wisma sebagaimana dimaksud pada ayat (1) mendapat hak  perlindungan atas:a. tempat tinggal yang layak;  
+2. Perempuan tuna wisma sebagaimana dimaksud pada ayat (1) mendapat hak perlindungan atas:  
+a. tempat tinggal yang layak;  
 b. jaminan kesehatan dan sosial;  
 c. pencatatan administrasi kependudukan;  
 d. kesempatan memperoleh keterampilan untuk meningkatkan status  ekonomi; dan  
@@ -300,7 +318,8 @@ Perempuan Pekerja Rumah Tangga
 #### Pasal 18
 
 1. Pelaksanaan Perlindungan bagi perempuan pekerja rumah tangga  sebagaimana dimaksud dalam Pasal 13 huruf e dalam rangka memberikan  perlindungan dan pencegahan terhadap bentuk-bentuk diskriminasi,  perlakuan kejam, tidak manusiawi, merendahkan martabat manusia, dan  eksploitasi dalam hubungan kerja.  
-2. Perempuan pekerja rumah tangga sebagaimana dimaksud pada ayat (1)  mendapat perlindungan atas:a. pengakuan hak, upah dan kondisi kerja yang layak;  
+2. Perempuan pekerja rumah tangga sebagaimana dimaksud pada ayat (1)  mendapat perlindungan atas:  
+a. pengakuan hak, upah dan kondisi kerja yang layak;  
 b. jaminan kesehatan dan sosial;  
 c. akses informasi dan layanan konsultasi hukum; dan  
 d. kesempatan memperoleh pengetahuan dan keterampilan untuk  meningkatkan status ekonomi.  
@@ -312,7 +331,8 @@ Perempuan Kepala Keluarga
 #### Pasal 19
 
 1. Pelaksanaan Perlindungan bagi perempuan kepala keluarga sebagaimana  dimaksud dalam Pasal 13 huruf f dalam rangka memberikan perlindungan  dan pencegahan terhadap bentuk-bentuk diskriminasi, stigma negatif dan  pemberdayaan ekonomi bagi perempuan kepala keluarga.  
-2. Perempuan kepala keluarga sebagaimana dimaksud pada ayat (1)  mendapatkan hak perlindungan atas:a. tindakan diskriminasi dan upaya pelemahan fungsi perempuan sebagai  penyangga ekonomi keluarga;  
+2. Perempuan kepala keluarga sebagaimana dimaksud pada ayat (1)  mendapatkan hak perlindungan atas:  
+a. tindakan diskriminasi dan upaya pelemahan fungsi perempuan sebagai  penyangga ekonomi keluarga;  
 b. penguatan kemampuan dan pengakuan sebagai kepala keluarga di  lingkungannya; dan  
 c. aksesibilitas terhadap lembaga ekonomi dan keuangan.  
 
@@ -323,7 +343,9 @@ Perempuan Mantan Warga Binaan Lembaga Pemasyarakatan
 #### Pasal 20
 
 1. Pelaksanaan Perlindungan bagi perempuan mantan warga binaan Lembaga  Pemasyarakatan sebagaimana dimaksud dalam Pasal 13 huruf g dalam  rangka memberikan perlindungan dari hambatan untuk menyesuaikan diri  dalam kehidupan masyarakat, sehingga dapat melaksanakan kehidupan  secara normal.  
-2. Perempuan mantan warga binaan Lembaga Pemasyarakatan sebagaimana  dimaksud pada ayat (1) mendapat perlindungan atas:a. rehabilitasi dan reintegrasi sosial;danb. kesempatan memperoleh pengetahuan dan keterampilan untuk  meningkatkan status ekonomi.  
+2. Perempuan mantan warga binaan Lembaga Pemasyarakatan sebagaimana  dimaksud pada ayat (1) mendapat perlindungan atas:  
+a. rehabilitasi dan reintegrasi sosial; dan  
+b. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status ekonomi.  
 
 ## Bagian Kesembilan
 
@@ -332,7 +354,8 @@ Perempuan Korban Bencana
 #### Pasal 21
 
 1. Pelaksanaan Perlindungan bagi perempuan korban bencana sebagaimana  dimaksud dalam Pasal 13 huruf h dalam rangka memberikan perlindungan  saat bencana dan pasca bencana.  
-2. Perempuan korban bencana sebagaimana dimaksud pada ayat (1) mendapat  perlindungan atas:a. akses tempat tinggal yang layak;  
+2. Perempuan korban bencana sebagaimana dimaksud pada ayat (1) mendapat perlindungan atas:  
+a. akses tempat tinggal yang layak;  
 b. layanan kesehatan;  
 c. layanan akses informasi dan konsultasi hukum; dan  
 d. pemulihan pasca bencana.  
@@ -344,7 +367,8 @@ Perempuan Pekerja Seks Komersial
 #### Pasal 22
 
 1. Pelaksanaan Perlindungan bagi perempuan pekerja seks komersial sebagaimana dimaksud dalam Pasal 13 huruf i dalam rangka memberikan  perlindungan kesehatan dan peningkatan kemampuan kecakapan hidup  sebagai modal untuk meningkatkan status sosial.  
-2. Perlindungan bagi perempuan pekerja seks komersial sebagaimana  dimaksud pada ayat (1) meliputi:a. memberikan kemampuan kecakapan hidup;  
+2. Perlindungan bagi perempuan pekerja seks komersial sebagaimana  dimaksud pada ayat (1) meliputi:  
+a. memberikan kemampuan kecakapan hidup;  
 b. memfasilitasi pelayanan kesehatan reproduksi; dan  
 c. mencegah terjadinya perdagangan orang.  
 
@@ -354,11 +378,12 @@ Perempuan Korban Kekerasan
 
 #### Pasal 23
 
-1. Pelaksanaan Perlindungan bagi Perempuan Korban Kekerasan sebagaimana  dimaksud dalam Pasal 13 huruf j dalam rangka memberikan perlindungan  hukum dan / atau pemulihan kesehatan.  
-2. Perlindungan bagi Perempuan Korban Kekerasan sebagaimana dimaksud  pada ayat (1) meliputi:a. bantuan hukum;  
+1. Pelaksanaan Perlindungan bagi Perempuan Korban Kekerasan sebagaimana dimaksud dalam Pasal 13 huruf j dalam rangka memberikan perlindungan  hukum dan/atau pemulihan kesehatan.  
+2. Perlindungan bagi Perempuan Korban Kekerasan sebagaimana dimaksud  pada ayat (1) meliputi:  
+a. bantuan hukum;  
 b. pendampingan pasca terjadinya tindak kekerasan;  
-c. rehabilitasi dan reintegrasi sosial ; dan  
-d. pelayanan kesehatan .  
+c. rehabilitasi dan reintegrasi sosial; dan  
+d. pelayanan kesehatan.  
 
 # BAB IX
 
@@ -388,15 +413,18 @@ d. monitoring, evaluasi dan pelaporan.
 
 #### Pasal 26
 
-1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana  dimaksud dalam Pasal 25 huruf a dilaksanakan melalui:a. pemetaan, pengumpulan, pengolahan dan penyajian data;  
+1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana  dimaksud dalam Pasal 25 huruf a dilaksanakan melalui:  
+a. pemetaan, pengumpulan, pengolahan dan penyajian data;  
 b. koordinasi dan sinkronisasi penyusunan perencanaan program dan  kegiatan dengan SKPD terkait; dan  
 c. penetapan program dan kegiatan dalam dokumen perencanaan.  
 2. Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut  dalam standar pelayanan minimal dan standar operasional prosedur.  
 3. Perumusan kebijakan perencanaan program dan kegiatan penyelenggaraan  pemberdayaan dan perlindungan perempuan dikoordinasikan oleh SKPD  yang membidangi perencanaan pembangunan daerah.  
 4. Penganggaran program dan kegiatan sebagaimana dimaksud dalam Pasal 25  huruf b dilaksanakan melalui kebijakan umum anggaran yang dituangkan  dalam APBD .  
-5. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 25  huruf c dilaksanakan melalui:a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen  anggaran SKPD; dan  
+5. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 25  huruf c dilaksanakan melalui:  
+a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen  anggaran SKPD; dan  
 b. koordinasi dan sinkronisasi pelaksanaan program dan kegiatan dengan  SKPD terkait.  
-6. Pelaksanaan monitoring, evaluasi dan pelaporan sebagaimana dimaksud  dalam Pasal 25 huruf d dilaksanakan melalui:a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan; dan  
+6. Pelaksanaan monitoring, evaluasi dan pelaporan sebagaimana dimaksud  dalam Pasal 25 huruf d dilaksanakan melalui:  
+a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan; dan  
 b. membuat laporan secara berkala.  
 
 # BAB XI
@@ -405,9 +433,10 @@ b. membuat laporan secara berkala.
 
 #### Pasal 27
 
-Segala biaya Pelaksanaan kebijakan perencanaan program dan kegiatan terkait  Pemberdayaan dan Perlindungan Perempuan bersumber dari:  a. Anggaran Pendapatan dan Belanja Negara;  
+Segala biaya Pelaksanaan kebijakan perencanaan program dan kegiatan terkait Pemberdayaan dan Perlindungan Perempuan bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah; dan  
-c. Sumber lainnya yang sah dan tidak mengikat
+c. Sumber lainnya yang sah dan tidak mengikat.  
 
 # BAB XII
 
@@ -416,7 +445,8 @@ c. Sumber lainnya yang sah dan tidak mengikat
 #### Pasal 28
 
 1. Bupati atau SKPD yang membidangi pemberdayaan perempuan melakukan  pembinaan dan pengawasan atas pemberdayaan dan perlindungan  perempuan.  
-2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai  berikut:a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai  kebijakan pemberdayaan dan perlindungan perempuan;  
+2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai  berikut:  
+a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai  kebijakan pemberdayaan dan perlindungan perempuan;  
 b. menyediakan buku, leaflet, brosur mengenai pemberdayaan dan  perlindungan perempuan, dan isu-isu terkait lainnya serta menyebar luaskannya ke masyarakat;  
 c. fasilitasi peningkatan kapasitas lembaga penyelenggara pemberdayaan  dan perlindungan perempuan;  
 d. fasilitasi forum partisipasi perempuan dan organisasi perempuan;  
@@ -431,7 +461,7 @@ g. memberikan penghargaan kepada masyarakat dan dunia usaha baik  secara individ
 
 #### Pasal 29
 
-Pada saat berlakunya Peraturan Daerah ini, maka semua ketentuan peraturan  perundang-undangan daerah yang berkaitan dengan Penyelenggaraan  Pemberdayaan dan Perlindungan Perempuan yang selama ini ada, tetap berlaku  sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Daerah ini.  
+Pada saat berlakunya Peraturan Daerah ini, maka semua ketentuan peraturan  perundang-undangan daerah yang berkaitan dengan Penyelenggaraan  Pemberdayaan dan Perlindungan Perempuan yang selama ini ada, tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Daerah ini.  
 
 # BAB XIV
 
@@ -441,37 +471,33 @@ Pada saat berlakunya Peraturan Daerah ini, maka semua ketentuan peraturan  perun
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten  Semarang .  
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan  Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Semarang .  
 
-Ditetapkan di Ungaran   pada tanggal 18-02-2015
+Ditetapkan di Ungaran  
 
-##### BUPATI SEMARANG,
+pada tanggal 18-02-2015  
 
-##### MUNDJIRIN
+BUPATI SEMARANG,  
 
-Diundangkan di Ungaran Pada tanggal 23-02-2015
+MUNDJIRIN  
 
-##### SEKRETARIS DAERAH
+Diundangkan di Ungaran  
 
-##### KABUPATEN SEMARANG,
+Pada tanggal 23-02-2015  
 
-##### GUNAWAN WIBISONO
+SEKRETARIS DAERAH  
 
-##### LEMBARAN DAERAH KABUPATEN SEMARANG TAHUN 2015 NOMOR 1
+KABUPATEN SEMARANG,  
 
-NOREG PERATURAN DAERAH KABUPATEN SEMARANG PROVINSI JAWA  TENGAH (1 / 2015)
+GUNAWAN WIBISONO  
 
-##### PENJELASAN
+LEMBARAN DAERAH KABUPATEN SEMARANG TAHUN 2015 NOMOR 1  
 
-##### ATAS
+NOREG PERATURAN DAERAH KABUPATEN SEMARANG PROVINSI JAWA  TENGAH (1 / 2015)  
 
-##### PERATURAN DAERAH KABUPATEN SEMARANG
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN SEMARANG
 
-##### NOMOR 1 TAHUN 2015
-
-##### TENTANG
-
-##### PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
+NOMOR 1 TAHUN 2015 TENTANG PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN
 
 ##### I. UMUM
 
@@ -509,31 +535,45 @@ Cukup jelas.
 
 #### Pasal 5
 
-Ayat (1) huruf a Cukup jelas.  
+Ayat (1)  
+huruf a  
+Cukup jelas.  
 
-huruf b Cukup jelas.  
+huruf b  
+Cukup jelas.  
 
-huruf c Cukup jelas.  
+huruf c  
+Cukup jelas.  
 
-huruf d Cukup jelas.  
+huruf d  
+Cukup jelas.  
 
-huruf e Yang dimaksud dengan tahapan proses pembangunan adalah melalui penyusunan Rencana Pembangunan Jangka Menengah Daerah (RPJMD), Rencana Strategis (RENSTRA), Rencana Kerja Pemerintah Daerah (RKPD), dan Rencana Kerja (RENJA) .  
+huruf e  
+Yang dimaksud dengan tahapan proses pembangunan adalah melalui penyusunan Rencana Pembangunan Jangka Menengah Daerah (RPJMD), Rencana Strategis (RENSTRA), Rencana Kerja Pemerintah Daerah (RKPD), dan Rencana Kerja (RENJA) .  
 
-huruf f Cukup jelas.  
+huruf f  
+Cukup jelas.  
 
-huruf g Cukup jelas.  
+huruf g  
+Cukup jelas.  
 
-huruf h Cukup jelas.  
+huruf h  
+Cukup jelas.  
 
-huruf i Cukup jelas.  
+huruf i  
+Cukup jelas.  
 
-huruf j Cukup jelas.  
+huruf j  
+Cukup jelas.  
 
-huruf k Cukup jelas.  
+huruf k  
+Cukup jelas.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
-Ayat (3) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
 
 #### Pasal 6
 
@@ -545,15 +585,20 @@ Cukup jelas.
 
 #### Pasal 8
 
-huruf a Kategori perempuan yang mengikuti ketrampilan dan  pelatihan kerja adalah berdasarkan kelompok umur 19 tahun  ke atas, dilihat dari tingkat pendidikan (di atas SMA) sesuai  dengan Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak .  
+huruf a  
+Kategori perempuan yang mengikuti ketrampilan dan  pelatihan kerja adalah berdasarkan kelompok umur 19 tahun  ke atas, dilihat dari tingkat pendidikan (di atas SMA) sesuai  dengan Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak .  
 
-huruf b Cukup jelas.  
+huruf b  
+Cukup jelas.  
 
-huruf c Cukup jelas.  
+huruf c  
+Cukup jelas.  
 
-huruf d Cukup jelas.  
+huruf d  
+Cukup jelas.  
 
-huruf e Cukup jelas.  
+huruf e  
+Cukup jelas.  
 
 #### Pasal 9
 
@@ -577,31 +622,43 @@ Cukup jelas.
 
 #### Pasal 14
 
-Ayat (1) Cukup jelas.  
+Ayat (1)  
+Cukup jelas.  
 
-Ayat (2) huruf a Cukup jelas.  
+Ayat (2)  
+huruf a  
+Cukup jelas.  
 
-huruf b Yang termasuk ke dalam jaminan sosial tenaga kerja adalah jaminan hari tua, jaminan kecelakaan kerja, dan jaminan kematian .  
+huruf b  
+Yang termasuk ke dalam jaminan sosial tenaga kerja adalah jaminan hari tua, jaminan kecelakaan kerja, dan jaminan kematian .  
 
-huruf c Cukup jelas.  
+huruf c  
+Cukup jelas.  
 
-huruf d Yang dimaksud dengan meningkatkan status adalah status dalam tingkatan pekerjaan, misalnya dari tenaga / staf biasa menjadi tenaga ahli secara berjenjang .  
+huruf d  
+Yang dimaksud dengan meningkatkan status adalah status dalam tingkatan pekerjaan, misalnya dari tenaga / staf biasa menjadi tenaga ahli secara berjenjang .  
 
-huruf e Yang dimaksud dengan saksi adalah orang yang dapat memberikan keterangan guna kepentingan penyelidikan, penyidikan, penuntutan, dan pemeriksaan disidang pengadilan tentang suatu perkara pidana yang ia dengar sendiri, ia lihat sendiri, dan / atau ia alami sendiri, termasuk di dalamnya saksi pelapor.  
+huruf e  
+Yang dimaksud dengan saksi adalah orang yang dapat memberikan keterangan guna kepentingan penyelidikan, penyidikan, penuntutan, dan pemeriksaan disidang pengadilan tentang suatu perkara pidana yang ia dengar sendiri, ia lihat sendiri, dan / atau ia alami sendiri, termasuk di dalamnya saksi pelapor.  
 
-Yang dimaksud dengan korban adalah seseorang yang mengalami penderitaan fisik, mental, dan / atau kerugian ekonomi yang diakibatkan oleh suatu tindak pidana.  
+Yang dimaksud dengan korban adalah seseorang yang mengalami penderitaan fisik, mental, dan/atau kerugian ekonomi yang diakibatkan oleh suatu tindak pidana.  
 
 Saksi dan korban akan mendapatkan perlindungan hukum.  
 
 #### Pasal 15
 
-Ayat (1) Lanjut usia adalah seseorang yang telah mencapai 60 tahun  keatas.  
+Ayat (1)  
+Lanjut usia adalah seseorang yang telah mencapai 60 tahun  keatas.  
 
-Ayat (2) huruf a Gerontologik adalah suatu ilmu yang mempelajari aspek yang ada pada lanjut usia (fisik, mental dan psikososial), sedangkan Geriatric adalah suatu ilmu yang mempelajari penyakit pada lanjut usia (degenerative).  
+Ayat (2)  
+huruf a  
+Gerontologik adalah suatu ilmu yang mempelajari aspek yang ada pada lanjut usia (fisik, mental dan psikososial), sedangkan Geriatric adalah suatu ilmu yang mempelajari penyakit pada lanjut usia (degenerative).  
 
-huruf b Cukup jelas.  
+huruf b  
+Cukup jelas.  
 
-huruf c Cukup jelas.  
+huruf c  
+Cukup jelas.  
 
 #### Pasal 16
 
@@ -637,17 +694,21 @@ Perlindungan pekerja seks komersial dalam Peraturan Daerah ini,  bukan bermaksud
 
 #### Pasal 23
 
-Cukup jelas
+Cukup jelas.  
 
 #### Pasal 24
 
-Ayat (1) Pengarusutamaan Gender yang selanjutnya disingkat PUG  adalah strategi yang dibangun untuk mengintegrasikan  gender menjadi satu dimensi integral dari perencanaan,  penganggaran, pelaksanaan, pemantauan, dan evaluasi atas  kebijakan, program dan kegiatan pembangunan. PUG  merupakan strategi yang dapat mengurangi kesenjangan  gender mencapai kesetaraan gender dengan cara  menggunakan perspektif gender dalam proses pembangunan,  pemberdayan perempuan merupakan strategi afirmasi untuk  mencapai kesetaraan gender yang bertujuan meningkatkan  pemenuhan hak-hak perempuan atas perlindungan dari  tindak kekerasan dan diskriminasi.  
+Ayat (1)  
+Pengarusutamaan Gender yang selanjutnya disingkat PUG  adalah strategi yang dibangun untuk mengintegrasikan  gender menjadi satu dimensi integral dari perencanaan,  penganggaran, pelaksanaan, pemantauan, dan evaluasi atas  kebijakan, program dan kegiatan pembangunan. PUG  merupakan strategi yang dapat mengurangi kesenjangan  gender mencapai kesetaraan gender dengan cara  menggunakan perspektif gender dalam proses pembangunan,  pemberdayan perempuan merupakan strategi afirmasi untuk  mencapai kesetaraan gender yang bertujuan meningkatkan  pemenuhan hak-hak perempuan atas perlindungan dari  tindak kekerasan dan diskriminasi.  
 
-Ayat (2) Layanan terpadu dapat berupa Pusat Pelayanan Terpadu  Pemberdayaan Perempuan dan Anak yang selanjutnya  disingkat P2TP2A adalah salah satu bentuk wahana  pelayanan bagi perempuan dan anak dalam upaya  pemenuhan informasi dan kebutuhan di bidang pendidikan,  kesehatan, ekonomi, politik, hukum, Pemenuhan dan  penanggulangan tindak kekerasan serta perdagangan  terhadap perempuan dan anak.  
+Ayat (2)  
+Layanan terpadu dapat berupa Pusat Pelayanan Terpadu  Pemberdayaan Perempuan dan Anak yang selanjutnya  disingkat P2TP2A adalah salah satu bentuk wahana  pelayanan bagi perempuan dan anak dalam upaya  pemenuhan informasi dan kebutuhan di bidang pendidikan,  kesehatan, ekonomi, politik, hukum, Pemenuhan dan  penanggulangan tindak kekerasan serta perdagangan  terhadap perempuan dan anak.  
 
-Ayat (3) Cukup jelas.  
+Ayat (3)  
+Cukup jelas.  
 
-Ayat (4) Cukup jelas.  
+Ayat (4)  
+Cukup jelas.  
 
 #### Pasal 25
 
@@ -673,4 +734,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN SEMARANG NOMOR 1
+TAMBAHAN LEMBARAN DAERAH KABUPATEN SEMARANG NOMOR 1

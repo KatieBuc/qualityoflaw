@@ -1,16 +1,18 @@
-# BUPATI BADUNG
+# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  
 
-# PERATURAN DAERAH KABUPATEN BADUNG
+BUPATI BADUNG  
 
-# NOMOR 15 TAHUN 2013
+## PERATURAN DAERAH KABUPATEN BADUNG  
 
-# TENTANG
+NOMOR 15 TAHUN 2013
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+TENTANG
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-# BUPATI BADUNG,
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+BUPATI BADUNG,
 
 Menimbang:  
  
@@ -34,7 +36,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan  Daerah-daerah Tingkat II dalam Wilayah Daerah-daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia  (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235);  
@@ -43,7 +44,7 @@ Mengingat:
 7. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan  Tindak Pidana Perdagangan Orang (Lembaran Negara Republik  Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara  Republik Indonesia Nomor 4720);  
 8. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan  Peraturan Perundang-undangan (Lembaran Negara Republik  Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara  Republik Indonesia Nomor 5234);  
 9. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan  dan Kerjasama Pemulihan Korban Kekerasan dalam Rumah Tangga  (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15,  Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
-10. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian  Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah Kabupaten/Kota (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan  Lembaran Negara Republik Indonesia Nomor 4737 );  
+10. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian  Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah Kabupaten/Kota (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan  Lembaran Negara Republik Indonesia Nomor 4737);  
 11. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara dan  Mekanisme Pelayanan Terpadu bagi Saksi dan/atau Korban Tindak  Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia  Tahun 2008 Nomor 22, Tambahan Lembaran Negara Republik  Indonesia Nomor 4818);  
 12. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2008 tentang Pedoman  Pelaksanaan Perlindungan Perempuan;  
 13. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 3 Tahun 2008 tentang Pedoman  Pelaksanaan Perlindungan Anak;  
@@ -55,11 +56,11 @@ Mengingat:
 
 Dengan Persetujuan Bersama
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BADUNG
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BADUNG
 
-# BUPATI BADUNG
+BUPATI BADUNG
 
-# MEMUTUSKAN:
+MEMUTUSKAN:
 
 MENETAPKAN: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
@@ -89,7 +90,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 16. Reintegrasi sosial adalah upaya penyatuan kembali Korban  dengan pihak keluarga, keluarga pengganti, atau masyarakat  yang dapat memberikan Perlindungan dan pemenuhan  kebutuhan bagi Korban.  
 17. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT adalah  suatu unit kerja fungsional yang menyelenggarakan pelayanan  terpadu untuk saksi dan/atau Korban tindak Kekerasan.  
 18. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak yang selanjutnya disebut P2TP2A adalah Unit Pelayanan Terpadu  yang dibentuk oleh Pemerintah Daerah untuk menyelenggarakan  fungsi dan tugas pokok pelayanan terpadu bagi Perempuan dan  Anak Korban Kekerasan, meliputi pelayanan pengaduan,  Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan, Reintegrasi  Sosial, dan Bantuan Hukum.  
-19. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah  tolok ukur kinerja pelayanan unit pelayanan terpadu dalam  memberikan pelayanan penanganan laporan/pengaduan,  pelayanan kesehatan, Rehabilitasi Sosial, penegakan dan bantuan  hukum, serta Pemulangan dan reintegrasi sosial bagi  Perempuan dan Anak Korban Kekerasan.  
+19. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah  tolok ukur kinerja pelayanan unit pelayanan terpadu dalam  memberikan pelayanan penanganan laporan/pengaduan, pelayanan kesehatan, Rehabilitasi Sosial, penegakan dan bantuan  hukum, serta Pemulangan dan reintegrasi sosial bagi  Perempuan dan Anak Korban Kekerasan.  
 
 # BAB II
 
@@ -111,9 +112,9 @@ a. mencegah segala bentuk Kekerasan terhadap Perempuan dan  Anak;
 b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korban Kekerasan; dan  
 c. pemberdayaan Perempuan dan Anak Korban Kekerasan.  
 
-# BAB III
+# BAB III  
 
-## HAK –HAK KORBAN
+## HAK–HAK KORBAN  
 
 #### Pasal 4
 
@@ -133,7 +134,8 @@ g. menentukan sendiri keputusannya.
 #### Pasal 5
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab dalam  memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan.  
-2. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana  dimaksud pada ayat (1) meliputi:a. melaksanakan kebijakan Perlindungan Perempuan dan Anak Korban Kekerasan berdasarkan peraturan perundang-undangan;  
+2. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana  dimaksud pada ayat (1) meliputi:  
+a. melaksanakan kebijakan Perlindungan Perempuan dan Anak Korban Kekerasan berdasarkan peraturan perundang-undangan;  
 b. menetapkan kebijakan, program dan kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan  Perlindungan Perempuan dan Anak Korban Kekerasan;  
 d. mengalokasikan anggaran dalam penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
@@ -142,7 +144,8 @@ e. membina dan mengawasi penyelenggaraan Perlindungan Perempuan dan Anak Korban 
 #### Pasal 6
 
 1. Masyarakat berkewajiban dan bertanggung jawab dalam  memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan.  
-2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud  pada ayat (1) diselenggarakan dalam bentuk:a. mencegah terjadinya tindak Kekerasan terhadap Perempuan dan  Anak;  
+2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud  pada ayat (1) diselenggarakan dalam bentuk:  
+a. mencegah terjadinya tindak Kekerasan terhadap Perempuan dan  Anak;  
 b. memberikan Perlindungan terhadap Korban;  
 c. memberikan pertolongan darurat;  
 d. memberikan informasi dan/atau melaporkan tindak Kekerasan terhadap perempuan dan Anak kepada pihak yang berwenang;  dane. turut serta dalam penanganan Korban Kekerasan.  
@@ -156,13 +159,15 @@ d. memberikan informasi dan/atau melaporkan tindak Kekerasan terhadap perempuan 
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan di Daerah, Bupati dapat membentuk PPT.  
 2. Pembentukan dan pengembangan PPT disesuaikan dengan  perkembangan prioritas kebutuhan, dan kemampuan keuangan  Daerah serta kemampuan kelembagaan dan personil yang ada di  Daerah.  
 3. PPT sebagaimana dimaksud pada ayat (1) dapat mewadahi  lembaga/ unit kerja yang memberikan pelayanan bagi Korban Kekerasan seperti P2TP2A, Rumah Aman, Rumah Perlindungan Sosial Anak, Rumah Perlindungan Trauma Center, Rumah  Perlindungan Sosial Wanita, Rumah Singgah dan lain-lain kegiatan  pelayanan sesuai peraturan perundang-undangan yang berlaku.  
-4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:  a. pengaduan;  
+4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:  
+a. pengaduan;  
 b. rehabilitasi Kesehatan;  
 c. rehabilitasi Sosial;  
 d. bantuan hukum;  
 e. pemulangan; dan  
 f. reintegrasi sosial.  
-5. Dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan PPT berkewajiban:a. memberikan layanan secepat mungkin dan tanpa biaya kepada  Korban;  
+5. Dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan PPT berkewajiban:  
+a. memberikan layanan secepat mungkin dan tanpa biaya kepada  Korban;  
 b. menyelenggarakan Perlindungan dan pemenuhan hak korban  atas Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan,  reintegrasi sosial dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam  penyediaan penterjemah dan relawan pendamping yang  diperlukan bagi Korban;  
 d. melakukan jejaring dengan rumah sakit pemerintah atau swasta  untuk perawatan dan pemulihan kesehatan Korban serta  melakukan kerjasama dengan lembaga Perlindungan saksi dan  Korban, rumah Perlindungan sosial atau pusat trauma milik  pemerintah, masyarakat, atau lembaga-lembaga lainnya untuk  pemulihan kesehatan Korban;  
@@ -175,13 +180,13 @@ h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, PP
 #### Pasal 8
 
 1. Lembaga Masyarakat dapat membentuk PPT.  
-2. Dalam pembentukan PPT sebagaimana dimaksud pada ayat (1)  berpedoman pada ketentuan peraturan perundang-undangan yang  berlaku.  
+2. Dalam pembentukan PPT sebagaimana dimaksud pada ayat (1) berpedoman pada ketentuan peraturan perundang-undangan yang berlaku.  
 
 # BAB VI
 
 ## STANDAR PELAYANAN MINIMAL
 
-#### Pasal 9
+#### Pasal 9  
 
 SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan:  
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap  Perempuan dan Anak;  
@@ -206,24 +211,24 @@ h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.
 
 ## PEMANTAUAN DAN EVALUASI
 
-#### Pasal 11
+#### Pasal 11  
 
 1. Untuk menjamin sinergi, kesinambungan, dan efektivitas langkah langkah secara terpadu dalam pelaksanaan kebijakan, program,  dan kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan,  Pemerintah Daerah melakukan pemantauan.  
 2. Pemantauan sebagaimana dimaksud pada ayat (1) adalah untuk  mengetahui perkembangan dan hambatan dalam pelaksanaan  kebijakan, program, dan kegiatan Perlindungan Perempuan dan  Anak Korban Kekerasan di Daerah.  
 3. Pemantauan dilakukan secara berkala melalui koordinasi dan  pemantauan langsung terhadap Satuan Kerja Perangkat Daerah yang melaksanakan kebijakan, program, kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 4. Pemantauan dilakukan mulai dari perencanaan sampai dengan  pelaksanaan kebijakan, program, dan kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan untuk tahun berjalan.  
 
-#### Pasal 12
+#### Pasal 12  
 
 1. Evaluasi pelaksanaan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak dilakukan setiap berakhirnya  tahun anggaran atau jika diperlukan sesuai kebutuhan.  
 2. Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak digunakan sebagai bahan  masukan bagi penyusunan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak untuk tahun berikutnya.  
 3. Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai  dengan ketentuan peraturan perundang-undangan.  
 
-# BAB VIII
+# BAB VIII  
 
-## PELAPORAN
+## PELAPORAN  
 
-#### Pasal 13
+#### Pasal 13  
 
 1. Bupati bertanggung jawab untuk membuat laporan pelaksanaan  SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban  Kekerasan di Daerah kepada Gubernur dengan tembusan  disampaikan kepada Menteri Negara Pemberdayaan Perempuan  dan Perlindungan Anak dan Menteri Dalam Negeri.  
 2. Pelaporan pelaksanaan sebagaimana dimaksud pada ayat (1)  dilakukan setiap tahun.  
@@ -253,7 +258,8 @@ b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan pe
 
 #### Pasal 16
 
-1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan, masyarakat dapat:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
+1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan, masyarakat dapat:  
+a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
 b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
 c. melakukan pertolongan pertama kepada Korban; dan  
 d. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi Kekerasan terhadap Korban.  
@@ -279,41 +285,37 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini
 
 Ditetapkan di Mangupura pada tanggal 19 Nopember 2013
 
-##### BUPATI BADUNG,
+BUPATI BADUNG,
 
 ttd.  
 
-ANAK tGUNG GDE AGUNG Diundangkan di Mangupura pada tanggal 19 Nopember 2013
+ANAK tGUNG GDE AGUNG 
 
-##### SEKRETARIS DAERAH KABUPATEN BADUNG,
+Diundangkan di Mangupura pada tanggal 19 Nopember 2013
+
+SEKRETARIS DAERAH KABUPATEN BADUNG,
 
 ttd.  
 
-##### KOMPYANG R. SWANDIKA
+KOMPYANG R. SWANDIKA
 
-##### LEMBARAN DAERAH KABUPATEN BADUNG TAHUN 2013 NOMOR 15
+LEMBARAN DAERAH KABUPATEN BADUNG TAHUN 2013 NOMOR 15
 
-Salinan sesuai dengan aslinya Kepala Bagian Hukum dan HAM Setda.Kab.Badung, ttd.  
+Salinan sesuai dengan aslinya Kepala Bagian Hukum dan HAM Setda.Kab.Badung, 
+
+ttd.  
 
 Komang Budhi Argawa,SH.,M.Si.  
 
 Pembina
 
-##### NIP. 19710901 199803 1 009
+NIP. 19710901 199803 1 009
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BADUNG
 
-##### ATAS
+NOMOR 15 TAHUN 2013 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-##### PERATURAN DAERAH KABUPATEN BADUNG
-
-##### NOMOR 15 TAHUN 2013
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
-
-##### I. UMUM
+#### I. UMUM  
 
 Negara memiliki kewajiban memberikan Perlindungan kepada setiap warga  negara sesuai dengan pembukaan UUD Negara Republik Indonesia Tahun 1945. Bahwa  Perempuan dan Anak termasuk kelompok rentan yang cenderung mengalami Kekerasan  sehingga perlu mendapatkan Perlindungan. Kekerasan terhadap Perempuan dan Anak  tersebut merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri  dan martabatnya serta dijamin hak hidupnya tanpa adanya diskriminasi.  
 
@@ -323,7 +325,7 @@ Dalam rangka mencegah dan menanggulangi Kekerasan terhadap Perempuan  dan Anak d
 
 Peraturan Daerah ini mengatur upaya Perlindungan bagi Perempuan dan Anak  Korban Kekerasan khususnya dalam hal pelayanan, pemantauan dan evaluasi,  pelaporan, pendanaan, pembinaan dan pengawasan terhadap Perempuan dan Anak  Korban Kekerasan di Kabupaten Badung.  
 
-##### II. PASAL DEMI PASAL
+#### II. PASAL DEMI PASAL
 
 #### Pasal 1
 
@@ -355,9 +357,11 @@ Cukup jelas.
 
 #### Pasal 8
 
-Ayat (1) Yang dimaksud dengan “lembaga masyarakat” adalah lembaga yang  dibentuk oleh anggota masyarakat Warga Negara Indonesia secara sukarela  atas dasar kesamaan visi, misi, profesi, fungsi dan kegiatan untuk berperan  serta dalam pembangunan dalam rangka mencapai tujuan nasional dalam  wadah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila,  yang terdiri dari organisasi keagamaan, lembaga swadaya masyarakat,  organisasi profesi, organisasi swasta, organisasi sosial, organisasi politik,  media massa, dan bentuk organisasi lainnya.  
+Ayat (1)  
+Yang dimaksud dengan “lembaga masyarakat” adalah lembaga yang  dibentuk oleh anggota masyarakat Warga Negara Indonesia secara sukarela  atas dasar kesamaan visi, misi, profesi, fungsi dan kegiatan untuk berperan  serta dalam pembangunan dalam rangka mencapai tujuan nasional dalam  wadah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila,  yang terdiri dari organisasi keagamaan, lembaga swadaya masyarakat,  organisasi profesi, organisasi swasta, organisasi sosial, organisasi politik, media massa, dan bentuk organisasi lainnya.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 9
 
@@ -399,4 +403,4 @@ Pada saat PPT terbentuk, P2TP2A merupakan bagian dari PPT.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN BADUNG NOMOR 15.  
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BADUNG NOMOR 15  

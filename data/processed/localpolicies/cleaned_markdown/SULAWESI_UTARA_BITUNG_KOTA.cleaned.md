@@ -1,26 +1,24 @@
-# L E M B A R A N D A E R A H
+# PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DI KOTA BITUNG
 
-# KOTA BITUNG
+KOTA BITUNG  
 
-# NOMOR: 8 TAHUN 2019
+NOMOR 8 TAHUN 2019  
 
-# WALIKOTA BITUNG
+WALIKOTA BITUNG  
 
-# PROVINSI SULAWESI UTARA
+PROVINSI SULAWESI UTARA  
 
 # PERATURAN DAERAH KOTA BITUNG
 
-# NOMOR 8 TAHUN 2019
+NOMOR 8 TAHUN 2019  
 
-# TENTANG
+TENTANG  
 
-# PENYELENGGARAAN PERLINDUNGAN
+PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DI KOTA BITUNG  
 
-TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DI KOTA BITUNG
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-# WALIKOTA BITUNG,
+WALIKOTA BITUNG,  
 
 Menimbang:  
  
@@ -32,11 +30,7 @@ Menimbang:
  
 a. bahwa penjaminan atas penghormatan, perlindungan dan  pemenuhan Hak Asasi Manusia bagi setiap Warga Negara Indonesia yang ada di Daerah merupakan tugas yang harus dilaksanakan oleh Pemerintah Daerah;  
 b. bahwa Kota Bitung sebagai kota industri yang berkembang  dengan pesat sebagai salah satu pusat ekonomi di Provinsi Sulawesi Utara, telah menciptakan banyak lapangan kerja sehingga banyak masyarakat dari berbagai daerah di luar Kota Bitung yang datang bekerja di dalam wilayah Kota Bitung dan berpotensi memunculkan gesekan sosial sehingga dapat berimbas pada rentannya perempuan dan anak untuk menjadi korban dari tindak kekerasan;  
-c. bahwa dalam rangka penyelenggaraan otonomi daerah yang  mengacu pada Pasal 12 ayat (2) huruf b dan
-
-#### Pasal 236
-
-Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, khususnya dalam bidang pemberdayaan perempuan dan perlindungan anak yang termasuk dalam urusan pemerintahan konkuren yang menjadi kewenangan Pemerintah Daerah yaitu urusan pemerintahan wajib yang tidak berkaitan dengan pelayanan dasar, Daerah membentuk Peraturan Daerah;  
+c. bahwa dalam rangka penyelenggaraan otonomi daerah yang  mengacu pada Pasal 12 ayat (2) huruf b dan Pasal 236 Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, khususnya dalam bidang pemberdayaan perempuan dan perlindungan anak yang termasuk dalam urusan pemerintahan konkuren yang menjadi kewenangan Pemerintah Daerah yaitu urusan pemerintahan wajib yang tidak berkaitan dengan pelayanan dasar, Daerah membentuk Peraturan Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan terhadap Perempuan dan Anak dari Tindak Kekerasan di Kota Bitung;  
 
 Mengingat:  
@@ -48,10 +42,9 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia  Tahun 1979 Nomor 32, Tambahan Lembaran Negara  Republik Indonesia Nomor 3143);  
 3. Undang-Undang Nomor 7 Tahun 1990 tentang  Pembentukan Kotamadya Daerah Tingkat II Bitung  (Lembaran Negara Republik Indonesia Tahun 1990 Nomor  52, Tambahan Lembaran Negara Republik Indonesia Nomor  3421);  
-4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun  1999 Nomor 165, Tambahan Lembaran Negara Republik  Indonesia Nomor 3886);  
+4. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik  Indonesia Nomor 3886);  
 5. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia  Tahun 2002 Nomor 109, Tambahan Lembaran Negara  Republik Indonesia Nomor 4235), sebagaimana telah  diubah beberapa kali terakhir dengan Peraturan  Pemerintah Pengganti Undang-Undang Nomor 1 Tahun  2016 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak  (Lembaran Negara Republik Indonesia Tahun 2016 Nomor  99, Tambahan Lembaran Negara Republik Indonesia Nomor  5882);  
 6. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran  Negara Republik Indonesia Tahun 2004 Nomor 95,  Tambahan Lembaran Negara Republik Indonesia Nomor  4419);  
 7. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007 Nomor  58, Tambahan Lembaran Negara Republik Indonesia Nomor  4720);  
@@ -64,21 +57,21 @@ Mengingat:
 14. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
 15. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2011 tentang Pemberdayaan Anak Korban Kekerasan;  
 16. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 19 Tahun 2011 tentang Pemberdayaan Perempuan Korban Kekerasan;  
-17. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015  tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036);  
+17. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015  tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036);  sebagaimana telah diubah dengan Peraturan Menteri Dalam Negeri Nomor 120 Tahun 2018 tentang Perubahan atas Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2018 Nomor 157);  
 
-sebagaimana telah diubah dengan Peraturan Menteri Dalam Negeri Nomor 120 Tahun 2018 tentang Perubahan atas Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2018 Nomor 157);  
+Dengan Persetujuan Bersama  
 
-Dengan Persetujuan Bersama
+DEWAN PERWAKILAN RAKYAT DAERAH KOTA BITUNG  
 
-##### DEWAN PERWAKILAN RAKYAT DAERAH KOTA BITUNG
+dan  
 
-##### WALIKOTA BITUNG
+WALIKOTA BITUNG  
 
-##### MEMUTUSKAN:
+MEMUTUSKAN:  
 
-Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK
+Menetapkan:  
 
-##### DARI TINDAK KEKERASAN DI KOTA BITUNG.  
+PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DI KOTA BITUNG.  
 
 # BAB I
 
@@ -86,8 +79,7 @@ Menetapkan: PERATURAN DAERAH TENTANG PENYELENGGARAAN  PERLINDUNGAN TERHADAP PERE
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
-
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 1. Daerah adalah Kota Bitung.  
 2. Pemerintah Daerah adalah Walikota dan perangkat daerah sebagai unsur penyelenggara pemerintahan Daerah.  
 3. Walikota adalah Walikota Bitung.  
@@ -133,7 +125,8 @@ d. kepentingan yang terbaik bagi perempuan dan anak.
 
 #### Pasal 4
 
-Maksud dan tujuan penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan, meliputi:  a. pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak;  
+Maksud dan tujuan penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan, meliputi:  
+a. pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak;  
 b. pelayanan penanganan, pendampingan dan pemulihan  terhadap perempuan dan anak yang menjadi korban  tindak kekerasan;  
 c. reunifikasi; dan  
 d. pemberdayaan perempuan dan rehabilitasi anak yang  menjadi korban tindak kekerasan.  
@@ -145,7 +138,8 @@ d. pemberdayaan perempuan dan rehabilitasi anak yang  menjadi korban tindak keke
 #### Pasal 5
 
 1. Pemerintah Daerah berkewajiban melindungi setiap  perempuan dan anak di Daerah dari berbagai macam  tindak kekerasan.  
-2. Tindak kekerasan sebagaimana dimaksud pada ayat  (1) berupa:a. kekerasan fisik;  
+2. Tindak kekerasan sebagaimana dimaksud pada ayat  (1) berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran; dan  
@@ -172,13 +166,15 @@ d. pemaksaan hubungan seksual dengan orang lain  untuk tujuan komersial dan/atau
 Penelantaran sebagaimana dimaksud dalam Pasal 5 ayat  (2) huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental,  spiritual maupun sosial yang dilakukan oleh orang  tua, wali atau pihak lain maupun yang bertanggung  jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk  memelihara, merawat atau mengurus anak  sebagaimana mestinya yang dilakukan oleh orang tua,  wali atau pihak lain manapun yang bertanggung jawab  atas pengasuhannya;  
-c. perbuatan yang menelantarkan istri dalam lingkup  rumah tangganya, padahal menurut hukum yang  berlaku bagi mereka atau karena persetujuan atau  perjanjian, ia wajib memberikan penghidupan,  perawatan atau pemeliharaan kepada istrinya  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan  ekonomi, dengan cara membatasi dan/atau melarang  istri untuk bekerja yang layak didalam atau di luar  rumah sehingga istri berada dibawah kendali  suaminya.  
+c. perbuatan yang menelantarkan istri dalam lingkup  rumah tangganya, padahal menurut hukum yang  berlaku bagi mereka atau karena persetujuan atau  perjanjian, ia wajib memberikan penghidupan,  perawatan atau pemeliharaan kepada istrinya  tersebut; dan/atau  
+d. perbuatan yang mengakibatkan ketergantungan  ekonomi, dengan cara membatasi dan/atau melarang  istri untuk bekerja yang layak didalam atau di luar  rumah sehingga istri berada dibawah kendali  suaminya.  
 
 #### Pasal 10
 
 Eksploitasi sebagaimana dimaksud dalam Pasal 5 ayat (2)  huruf e disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual  dengan maksud untuk menguntungkan diri sendiri  atau orang lain;  
-b. perbuatan yang tanpa persetujuan perempuan dan  anak yang menjadi korban eksploitasi, meliputi tetapi tidak terbatas pada pelacuran, kerja atau pelayanan  paksa, perbudakan atau praktek serupa, penindasan,  pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum  memindahkan atau mentransplantasi organ dan/atau  jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk  mendapatkan keuntungan, baik yang bersifat  fisik/kebendaan (materiil) maupun yang tidak bersifat  fisik/kebendaan; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau  organ tubuh lain dari perempuan dan anak yang  menjadi korban eksploitasi untuk mendapatkan  keuntungan, termasuk tetapi tidak terbatas pada  semua kegiatan pelacuran atau pencabulan.  
+b. perbuatan yang tanpa persetujuan perempuan dan  anak yang menjadi korban eksploitasi, meliputi tetapi tidak terbatas pada pelacuran, kerja atau pelayanan  paksa, perbudakan atau praktek serupa, penindasan,  pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum  memindahkan atau mentransplantasi organ dan/atau  jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk  mendapatkan keuntungan, baik yang bersifat  fisik/kebendaan (materiil) maupun yang tidak bersifat  fisik/kebendaan; dan/atau  
+c. segala bentuk pemanfaatan organ tubuh seksual atau  organ tubuh lain dari perempuan dan anak yang  menjadi korban eksploitasi untuk mendapatkan  keuntungan, termasuk tetapi tidak terbatas pada  semua kegiatan pelacuran atau pencabulan.  
 
 # BAB III
 
@@ -190,14 +186,16 @@ Umum
 
 #### Pasal 11
 
-Penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan dilaksanakan oleh:  a. Pemerintah Daerah;  
+Penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan dilaksanakan oleh:  
+a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dan  
 d. orangtua.  
 
 #### Pasal 12
 
-1. Pemerintah Daerah melaksanakan upaya  perlindungan terhadap perempuan dan anak dari  tindak kekerasan melalui:a. melaksanakan kebijakan perlindungan terhadap  perempuan dan anak dari tindak kekerasan yang  diterapkan oleh Pemerintah;  
+1. Pemerintah Daerah melaksanakan upaya  perlindungan terhadap perempuan dan anak dari  tindak kekerasan melalui:  
+a. melaksanakan kebijakan perlindungan terhadap  perempuan dan anak dari tindak kekerasan yang  diterapkan oleh Pemerintah;  
 b. menetapkan kebijakan, program dan kegiatan  perlindungan terhadap perempuan dan anak dari  tindak kekerasan;  
 c. pembentukan PPT;  
 d. menjamin terlaksananya kemudahan pelayanan  kepada perempuan dan anak yang menjadi  korban tindak kekerasan;  
@@ -209,7 +207,8 @@ f. mengupayakan terciptanya kerjasama dan  koordinasi dalam upaya pemulihan pere
 
 #### Pasal 13
 
-1. Bentuk peran serta masyarakat dalam melindungi perempuan dan anak dari tindak kekerasan, meliputi:  a. membentuk Mitra Keluarga di tingkat kelurahan;  
+1. Bentuk peran serta masyarakat dalam melindungi perempuan dan anak dari tindak kekerasan, meliputi:  
+a. membentuk Mitra Keluarga di tingkat kelurahan;  
 b. membentuk Unit Perlindungan Perempuan dan  Anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak  secara mandiri;  
 d. melakukan pertolongan pertama kepada  perempuan dan anak yang menjadi korban tindak  kekerasan; dan  
@@ -231,11 +230,13 @@ Perlindungan terhadap Perempuan dan Anak dari Tindak Kekerasan
 
 #### Pasal 16
 
-1. Penyelenggaraan perlindungan terhadap perempuan  dari tindak kekerasan dilaksanakan melalui kegiatan:a. pencegahan tindak kekerasan;  
+1. Penyelenggaraan perlindungan terhadap perempuan  dari tindak kekerasan dilaksanakan melalui kegiatan:  
+a. pencegahan tindak kekerasan;  
 b. pelayanan pendampingan dan pemulihan perempuan yang menjadi korban tindak kekerasan;  
 c. reunifikasi; dan  
 d. pemberdayaan perempuan yang menjadi korban tindak kekerasan.  
-2. Penyelenggaraan perlindungan anak dari tindak  kekerasan dilaksanakan melalui kegiatan:a. pencegahan tindak kekerasan;  
+2. Penyelenggaraan perlindungan anak dari tindak kekerasan dilaksanakan melalui kegiatan:  
+a. pencegahan tindak kekerasan;  
 b. pelayanan penanganan anak yang menjadi korban tindak kekerasan;  
 c. reunifikasi; dan  
 d. rehabilitasi anak yang menjadi korban tindak kekerasan.  
@@ -255,7 +256,8 @@ d. orang tua.
 
 #### Pasal 18
 
-1. Pemerintah Daerah melaksanakan upaya pencegahan terjadinya tindak kekerasan terhadap perempuan dan  anak melalui:a. pelaksanaan kebijakan pencegahan terjadinya  tindak kekerasan terhadap perempuan dan anak sesuai kebijakan yang ditetapkan oleh  Pemerintah;  
+1. Pemerintah Daerah melaksanakan upaya pencegahan terjadinya tindak kekerasan terhadap perempuan dan  anak melalui:  
+a. pelaksanaan kebijakan pencegahan terjadinya  tindak kekerasan terhadap perempuan dan anak sesuai kebijakan yang ditetapkan oleh  Pemerintah;  
 b. penetapan kebijakan, program dan kegiatan  pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak;  
 c. pembentukan PPT;  
 d. penyadaran kepada keluarga, orangtua dan  masyarakat dengan memberikan informasi,  bimbingan dan/atau penyuluhan;  
@@ -266,18 +268,22 @@ h. pengupayaan partisipasi dan kepedulian  masyarakat untuk melaksanakan pencega
 i. pembangunan dan penyediaan sistem informasi  yang lengkap dan mudah diakses;  
 j. pembangunan jejaring dan kerjasama dengan  aparatur penegak hukum, aparatur pemerintah,  perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli  terhadap perempuan dan anak; dan  
 k. pembukaan pos pengaduan untuk perlindungan  dan pencegahan terjadinya tindak kekerasan  terhadap perempuan dan anak.  
-2. Pencegahan sebagaimana dimaksud pada ayat (1)  dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan dalam  bidang:a. pemberdayaan perempuan dan perlindungan  anak;  
+2. Pencegahan sebagaimana dimaksud pada ayat (1)  dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan dalam  bidang:  
+a. pemberdayaan perempuan dan perlindungan  anak;  
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. sosial;  
 f. mental dan spiritual; dan  
 g. ketentraman dan ketertiban.  
-3. Pencegahan oleh perangkat daerah sebagaimana  dimaksud pada ayat (2) dikoordinasikan oleh Dinas. (4) Pencegahan kekerasan oleh perangkat daerah  sebagaimana dimaksud pada ayat (2) dilaksanakan  secara terpadu dan berkesinambungan berdasarkan  RAD.  
+3. Pencegahan oleh perangkat daerah sebagaimana  dimaksud pada ayat (2) dikoordinasikan oleh Dinas.  
+4. Pencegahan kekerasan oleh perangkat daerah  sebagaimana dimaksud pada ayat (2) dilaksanakan  secara terpadu dan berkesinambungan berdasarkan  RAD.  
 
 #### Pasal 19
 
-1. Bentuk pencegahan kekerasan terhadap perempuan  dan anak yang dilakukan oleh PPT, dapat  dilaksanakan melalui:a. kegiatan sosialisasi peraturan perundang undangan yang berkaitan dengan perlindungan  hak perempuan dan anak kepada masyarakat;  danb. pelatihan anggota PPT terkait tentang  pelaksanaan tugasnya dalam melakukan  pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak.  
+1. Bentuk pencegahan kekerasan terhadap perempuan  dan anak yang dilakukan oleh PPT, dapat  dilaksanakan melalui:  
+a. kegiatan sosialisasi peraturan perundang undangan yang berkaitan dengan perlindungan  hak perempuan dan anak kepada masyarakat;  dan  
+b. pelatihan anggota PPT terkait tentang  pelaksanaan tugasnya dalam melakukan  pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak.  
 2. PPT dalam melaksanakan tugas dan fungsinya dapat  berkoordinasi dengan pihak yang berkompeten dalam  melakukan upaya pencegahan terjadinya kekerasan  terhadap perempuan dan anak.  
 3. Ketentuan lebih lanjut mengenai mekanisme  pelaksanaan tugas pencegahan sebagaimana  dimaksud pada ayat (1) diatur dalam Peraturan  Walikota.  
 
@@ -302,18 +308,21 @@ d. membantu pemerintah dalam upaya melakukan  rehabilitasi dan reunifikasi korba
 
 Orang tua memiliki tanggung jawab untuk mencegah  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:  
 a. menumbuhkan rasa cinta, kasih sayang dan saling  menghormati dalam keluarga;  
-b. melakukan pertolongan kepada korban; dan c. melaporkan setiap bentuk kekerasan dalam keluarga.  
+b. melakukan pertolongan kepada korban; dan  
+c. melaporkan setiap bentuk kekerasan dalam keluarga.  
 
 #### Pasal 23
 
 1. Pencegahan terjadinya tindak kekerasan pada  perempuan dilaksanakan melalui kegiatan:a. pembentukan jaringan kerja;  
 b. pelaksanaan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, termasuk pihak swasta dan organisasi kemasyarakatan; dan  
 c. sosialisasi peraturan perundang-undangan yang mengatur mengenai perlindungan perempuan.  
-2. Pencegahan terjadinya tindak kekerasan pada anak dilaksanakan melalui kegiatan:a. pembentukan jaringan kerja;  
+2. Pencegahan terjadinya tindak kekerasan pada anak dilaksanakan melalui kegiatan:  
+a. pembentukan jaringan kerja;  
 b. pelaksanaan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat termasuk pihak swasta dan organisasi kemasyarakatan yang ada;  
 c. sosialisasi peraturan perundang-undangan yang mengatur mengenai perlindungan anak; dan  
 d. edukasi kepada orang tua.  
-3. Pencegahan sebagaimana dimaksud pada ayat (1) dan  ayat (2) dilaksanakan dengan melibatkan:a. keluarga;  
+3. Pencegahan sebagaimana dimaksud pada ayat (1) dan  ayat (2) dilaksanakan dengan melibatkan:  
+a. keluarga;  
 b. masyarakat;  
 c. swasta;  
 d. organisasi kemasyarakatan; dan  
@@ -329,7 +338,8 @@ PENYELENGGARAAN PELAYANAN, PENDAMPINGAN DAN PEMULIHAN  TERHADAP PEREMPUAN DAN AN
 
 #### Pasal 25
 
-1. Setiap perempuan dan anak yang menjadi korban  tindak kekerasan berhak mendapatkan:a. perlindungan;  
+1. Setiap perempuan dan anak yang menjadi korban  tindak kekerasan berhak mendapatkan:   
+a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
 d. penanganan berkelanjutan sampai tahap rehabilitasi;  
@@ -355,7 +365,8 @@ e. hak mendapatkan kebebasan.
 #### Pasal 28
 
 1. Pelayanan pendampingan dan pemulihan perempuan  dan anak yang menjadi korban tindak kekerasan  sebagaimana dimaksud dalam Pasal 25 diberikan kepada perempuan dan anak yang berdomisili di  Daerah dan yang mengalami kekerasan di dalam  wilayah Daerah.  
-2. Bentuk pelayanan pendampingan dan pemulihan sebagaimana dimaksud pada ayat (1) dilaksanakan  dalam bentuk:a. pemberdayaan perempuan;  
+2. Bentuk pelayanan pendampingan dan pemulihan sebagaimana dimaksud pada ayat (1) dilaksanakan  dalam bentuk:  
+a. pemberdayaan perempuan;  
 b. rehabilitasi anak;  
 c. pelayanan pengaduan, konsultasi dan konseling; dan  
 d. pelayanan pendampingan.  
@@ -400,7 +411,8 @@ Bidang Konseling PPT
 #### Pasal 32
 
 1. PPT memiliki bidang konseling dalam pelayanan  pendampingan dan pemulihan terhadap perempuan  dan anak yang menjadi korban tindak kekerasan.  
-2. Bidang konseling sebagaimana dimaksud pada ayat (1)  terdiri dari:a. bidang hukum;  
+2. Bidang konseling sebagaimana dimaksud pada ayat (1)  terdiri dari:  
+a. bidang hukum;  
 b. bidang kesehatan;  
 c. bidang rohani; dan  
 d. bidang psikologi.  
@@ -447,11 +459,12 @@ d. tidak dipungut biaya.
 #### Pasal 38
 
 1. PPT melaporkan pelaksanaan penyelenggaraan  perlindungan terhadap perempuan dan anak yang  menjadi korban tindak kekerasan kepada Walikota melalui Dinas.  
-2. Pelaporan sebagaimana dimaksud pada ayat (1)  disampaikan secara tertulis, meliputi:a. administrasi;  
+2. Pelaporan sebagaimana dimaksud pada ayat (1)  disampaikan secara tertulis, meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dan  
 d. kinerja.  
-3. Penyampaian laporan secara tertulis sebagaimana  dimaksud pada ayat (2), dilaksanakan paling lama 3 (tiga) bulan sekali.  
+4. Penyampaian laporan secara tertulis sebagaimana  dimaksud pada ayat (2), dilaksanakan paling lama 3 (tiga) bulan sekali.  
 
 # BAB VII
 
@@ -471,7 +484,8 @@ c. berkoordinasi dengan Pemerintah, Pemerintah Daerah  tempat tinggal perempuan 
 #### Pasal 40
 
 1. Pemberdayaan perempuan yang menjadi korban  tindak kekerasan sebagaimana dimaksud dalam Pasal  16 ayat (1) huruf d dilaksanakan dengan cara:  
-a. pelatihan kerja; dan/ataub. memfasilitasi pembentukan usaha ekonomis  produktif dan kelompok usaha bersama.  
+a. pelatihan kerja; dan/atau  
+b. memfasilitasi pembentukan usaha ekonomis  produktif dan kelompok usaha bersama.  
 2. Pelatihan kerja sebagaimana dimaksud pada ayat (1)  huruf a berkoordinasi dengan Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  ketenagakerjaan.  
 3. Pelatihan kerja terhadap perempuan yang menjadi  korban tindak kekerasan dapat dilaksanakan pada  lembaga pelatihan kerja yang diselenggarakan oleh  Pemerintah Daerah maupun yang diselenggarakan  oleh pihak swasta.  
 4. Pembentukan usaha ekonomis produktif dan  kelompok usaha bersama sebagaimana dimaksud  pada ayat (1) huruf b dilaksanakan dengan  berkoordinasi dengan Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  usaha kecil dan menengah.  
@@ -481,7 +495,8 @@ a. pelatihan kerja; dan/ataub. memfasilitasi pembentukan usaha ekonomis  produkt
 Rehabilitasi anak yang menjadi korban tindak kekerasan  sebagaimana dimaksud dalam Pasal 17 huruf d dilaksanakan dalam bentuk:  
 a. layanan bantuan hukum;  
 b. layanan rehabilitasi kesehatan;  
-c. layanan rehabilitasi sosial; dan/ataud. layanan pemulangan dan reintegrasi sosial.  
+c. layanan rehabilitasi sosial; dan/atau  
+d. layanan pemulangan dan reintegrasi sosial.  
 
 # BAB IX
 
@@ -490,12 +505,14 @@ c. layanan rehabilitasi sosial; dan/ataud. layanan pemulangan dan reintegrasi so
 #### Pasal 42
 
 1. Pemerintah Daerah melakukan pembinaan dan  pengawasan penyelenggaraan perlindungan terhadap  perempuan dan anak yang menjadi korban tindak  kekerasan.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1),  meliputi:a. pedoman dan standar pemenuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1),  meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dan  
 e. evaluasi.  
-3. Pengawasan sebagaimana dimaksud pada ayat (1),  dilakukan dengan prinsip:a. profesional;  
+3. Pengawasan sebagaimana dimaksud pada ayat (1),  dilakukan dengan prinsip:  
+a. profesional;  
 b. transparan; dan  
 c. akuntabel.  
 
@@ -510,7 +527,8 @@ Pembinaan dan pengawasan sebagaimana dimaksud  dalam Pasal 42 ayat (1), dilakuka
 #### Pasal 44
 
 Biaya yang diperlukan untuk pelaksanaan tugas  penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan dapat bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; dan  b. sumber lain yang sah sesuai dengan ketentuan  peraturan perundang-undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 #### Pasal 45
 
@@ -531,35 +549,25 @@ Peraturan Daerah ini mulai berlaku pada tanggal  diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan  pengundangan Peraturan Daerah ini dengan  penempatannya dalam Lembaran Daerah Kota Bitung.  
 
-Ditetapkan di Bitung pada tanggal 21 Oktober 2019
+Ditetapkan di Bitung pada tanggal 21 Oktober 2019  
 
-##### WALIKOTA BITUNG,
+WALIKOTA BITUNG,  
 
-##### MAXIMILIAAN JONAS LOMBAN
+MAXIMILIAAN JONAS LOMBAN  
 
-Diundangkan di Bitung pada tanggal 21 Oktober 2019
+Diundangkan di Bitung pada tanggal 21 Oktober 2019  
 
-##### SEKRETARIS DAERAH,
+SEKRETARIS DAERAH,  
 
-##### AUDY RONALD RICHARD PANGEMANAN
+AUDY RONALD RICHARD PANGEMANAN  
 
-##### LEMBARAN DAERAH KOTA BITUNG TAHUN 2019 NOMOR 8
+LEMBARAN DAERAH KOTA BITUNG TAHUN 2019 NOMOR 8  
 
-NOREG PERATURAN DAERAH KOTA BITUNG PROVINSI SULAWESI  UTARA: (8/2019) dangkan di Bitung pada tanggal
+NOREG PERATURAN DAERAH KOTA BITUNG PROVINSI SULAWESI  UTARA: (8/2019) dangkan di Bitung pada tanggal  
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KOTA BITUNG
 
-##### ATAS
-
-##### PERATURAN DAERAH KOTA BITUNG
-
-##### NOMOR 8 TAHUN 2019
-
-##### TENTANG
-
-##### PENYELENGGARAAN PERLINDUNGAN
-
-TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DI KOTA BITUNG
+NOMOR 8 TAHUN 2019 TENTANG PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DI KOTA BITUNG  
 
 ##### I. UMUM
 
@@ -759,4 +767,4 @@ Cukup jelas.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KOTA BITUNG NOMOR 156
+TAMBAHAN LEMBARAN DAERAH KOTA BITUNG NOMOR 156  
