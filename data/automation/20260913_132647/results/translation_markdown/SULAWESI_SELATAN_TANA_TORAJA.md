@@ -1,0 +1,1079 @@
+# PROTECTION OF WOMEN AND CHILDREN
+
+REGENT OF TANA TORAJA
+
+PROVINCE OF SOUTH SULAWESI
+
+# REGIONAL REGULATION OF TANA TORAJA REGENCY
+
+NUMBER 4 OF 2017
+
+CONCERNING
+
+PROTECTION OF WOMEN AND CHILDREN
+
+BY THE GRACE OF ALMIGHTY GOD
+
+REGENT OF TANA TORAJA,
+
+Considering:
+
+a. that the Republic of Indonesia is a State that upholds the dignity and worth of every human being, provides guarantees for the rights and security of women and children and freedom from all forms of violence, mistreatment, exploitation, trafficking and neglect;
+b. that women as mothers of the nation and children as the buds and future generation of the nation are creatures of Almighty God and therefore must be protected and their honor, dignity and self-respect must be safeguarded in a fair and proportional manner, both legally, economically, politically, socially and culturally, without distinction of ethnicity, religion, race and class;
+c. that based on the considerations as referred to in letter a, and letter b, it is necessary to establish a Regional Regulation on the Protection of Women and Children;
+
+In View of:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+2. Law Number 29 of 1959 concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia of 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);
+3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);
+5. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);
+6. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+7. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+8. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+9. Law Number 8 of 2016 concerning Persons with Disabilities (State Gazette of the Republic of Indonesia of 2016 Number 69, Supplement to the State Gazette of the Republic of Indonesia Number 5871);
+10. Regulation of the Minister of Women's Empowerment and Child Protection Number 6 of 2015 concerning the System for Women's Empowerment and Child Protection;
+11. Regional Regulation of South Sulawesi Province Number 9 of 2007 concerning the Prevention and Elimination of Trafficking of Women and Children, (Regional Gazette of South Sulawesi Province of 2007 Number 9, Supplement to the Regional Gazette of South Sulawesi Province Number 234);
+12. Regional Regulation of Tana Toraja Regency Number 3 of 2016 concerning the Regional Medium-Term Development Plan for 2016-2021 (Regional Gazette of Tana Toraja Regency of 2016 Number 03, Supplement to the Regional Gazette of Tana Toraja Regency Number 14);
+
+With Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF TANA TORAJA REGENCY
+
+and
+
+REGENT OF TANA TORAJA
+
+HAS DECIDED:
+
+To Establish:
+
+REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN AND CHILDREN.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms shall mean:  
+1. Region is Tanah Toraja Regency.  
+2. Regent is the Regent of Tana Toraja.  
+3. Regional Government is the administration of governmental affairs by the regional government and the regional house of representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.  
+4. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.  
+5. Regional House of Representatives, hereinafter abbreviated as DPRD, is a regional people's representative institution that is positioned as an element of the Regional Government administration.  
+6. District is a part of the regency area led by a district head.  
+7. Lembang is another term for village which is a part of the regency area led by the Head of Lembang;  
+8. Lembang Government is the term for village government in Tana Toraja Regency.  
+9. Community is individuals, families, groups, and social organizations and/or community organizations.  
+10. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children or mother and her children or blood relatives in direct line upward or downward or collateral to the third degree.  
+11. Parents are biological father and/or mother or step father and/or step mother, or adoptive father and/or adoptive mother.  
+12. Guardian is a person or body who in fact exercises custody as a parent over a child.  
+13. Woman is a human being who can menstruate, become pregnant, give birth and breastfeed.  
+14. Child is a person who has not reached the age of 18 (eighteen) years, including a baby still in the womb.  
+15. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.  
+16. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.  
+17. Protection of women is all efforts made to ensure the fulfillment of women's rights as a form of respect for human rights.  
+18. Empowerment of women is every effort to improve physical, mental, spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective abilities.  
+19. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.  
+20. Child with Disability is a Child who has physical, mental, intellectual, or sensory limitations for a long period of time who in interacting with the environment and community attitudes may encounter obstacles that make it difficult to participate fully and effectively based on equal rights.  
+21. Child with Excellence is a Child who has extraordinary intelligence or has special potential and/or talent not limited to intellectual ability, but also in other fields.  
+22. Adopted Child is a Child whose rights are transferred from the environment of the authority of the Family of Parents, legal Guardian, or other person responsible for the care, education, and raising of the Child into the Family environment of the adoptive Parents based on a court decision or determination.  
+23. Foster Child is a Child who is fostered by a person or institution to be given guidance, maintenance, care, education, and health because the Parents or one of the Parents is unable to guarantee the proper growth and development of the Child.  
+24. Custody is the power of Parents to care for, educate, maintain, foster, protect, and develop the Child in accordance with the religion professed and in accordance with the ability, talent, and interest.  
+25. Child's Rights are part of human rights that must be guaranteed, protected, and fulfilled by Parents, Family, community, state, government, and regional government.  
+26. Companion is a social worker who has professional competence in their field.  
+27. Violence is any act that is unlawful, which results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of a person's freedom.  
+28. Violence against women is any act based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.  
+29. Violence against children is any act against a child that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child.  
+30. Integrated Service Center, hereinafter abbreviated as PPT, is a cooperative network that organizes integrated social service functions.  
+31. Integrated Service Center for the Protection of Women and Children, hereinafter abbreviated as P2TP2A, is a cooperative network that organizes integrated service functions for the protection of women and children.  
+32. Community Social Institution is a Non-Governmental Organization (NGO) and/or other community organizations.  
+33. Family Welfare Consultation Institution, hereinafter abbreviated as LK3, is an integrated social service unit that handles family psychosocial problems to realize family resilience.  
+34. Regional Child Protection Commission, hereinafter abbreviated as KPAD, is an integrated social service unit that implements child protection services to realize the fulfillment of children's rights.  
+35. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development program policies.  
+36. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs that result in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural fields and other aspects of life.  
+37. Safe House (Shelter) is a shelter for women and children including families and witnesses of victims of violence.
+
+# CHAPTER II
+
+## SCOPE
+
+#### Article 2
+
+The Scope of this Regional Regulation consists of:  
+a. implementation of protection of women; and  
+b. implementation of child protection;  
+c. obligations and responsibilities;  
+d. institutions;  
+e. child-friendly regency;  
+f. special development planning deliberation for women and children.
+
+# CHAPTER III
+
+## PRINCIPLES AND OBJECTIVES
+
+#### Article 3
+
+The implementation of protection of women is based on Pancasila and the 1945 Constitution of the Republic of Indonesia, comprising:  
+a. respect for human rights;  
+b. gender justice and equality;  
+c. non-discrimination;  
+d. protection of victims;  
+e. the best interests of women;  
+f. respect for the opinions of women;  
+g. legal certainty; and  
+h. empowerment of women
+
+#### Article 4
+
+The implementation of protection of children is based on Pancasila and the 1945 Constitution of the Republic of Indonesia as well as the basic principles of the convention on the rights of the child, comprising:  
+a. non-discrimination;  
+b. the best interests of the child;  
+c. the right to life, survival, and development; and  
+d. respect for the views of the child.
+
+#### Article 5
+
+The objectives of implementing protection of women are:  
+a. to ensure the fulfillment of the rights of women;  
+b. to protect and provide a sense of security for women;  
+c. to maintain the integrity of the household in order to realize a harmonious
+and prosperous family;  
+d. to ensure the fulfillment of the rights of women;  
+e. to provide services to women;  
+f. to provide protection to reporters and witnesses; and  
+g. to empower women victims of violence.
+
+#### Article 6
+
+The objectives of implementing protection of children are:  
+a. to ensure the fulfillment of the rights of children;  
+b. to protect and provide a sense of security for children;  
+c. to maintain the integrity of the household in order to realize a harmonious
+and prosperous family;   
+d. to ensure the fulfillment of the rights of children;  
+e. to realize children who are qualified, of noble character, and prosperous;  
+f. to provide services to child victims of acts of violence; and  
+g. to provide protection to reporters and witnesses.
+
+# CHAPTER IV
+
+## IMPLEMENTATION OF PROTECTION OF WOMEN
+
+## Part One
+
+Rights of Women
+
+#### Article 7
+
+The rights of women are as follows:  
+a. to live, sustain life and improve their standard of living;  
+b. to live peacefully, safely, in peace, happily, prosperously physically and spiritually;  
+c. to enjoy a good and healthy living environment;  
+d. to live in a family and continue offspring in a lawful marriage bond based on the provisions of laws and regulations;  
+e. to obtain work in accordance with ability, conditions and fair and just wages;  
+f. specifically for women with disabilities, the right to
+obtain facilities and special treatment in public services;  
+g. to play an active role in the field of politics and government in accordance with the potential
+and capabilities they possess;  
+h. to obtain information and legal services;  
+i. to obtain services to increase their income; and  
+j. to obtain other rights in accordance with their human dignity and
+based on the provisions of laws and regulations.
+
+## Part Two
+
+Empowerment of Women
+
+#### Article 8
+
+1. In order to improve the position, role, and quality of women, as well as efforts to realize equality and gender justice in family life, community life, national life, and state life, women must be empowered.
+2. The empowerment of women as referred to in paragraph (1) is directed to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in activities:  
+a. economic;  
+b. socio-cultural;  
+c. political; and  
+d. legal.
+
+#### Article 9
+
+The implementation of empowerment of women in the economic field as referred to in Article 8 paragraph (2) letter a, is carried out through:  
+a. provision of skills and job training;  
+b. facilitation of the formation of productive economic business groups;  
+c. facilitation of strengthening and development of productive economic business
+groups;  
+d. facilitation of capital assistance; and  
+e. facilitation of marketing network development.
+
+#### Article 10
+
+Empowerment of women in the socio-cultural field as referred to in Article 8 paragraph (2) letter b, is carried out through:  
+a. improvement of knowledge, attitudes and skills to encourage the fulfillment of education in stages according to potential to improve social status;  
+b. improvement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts, especially in the field of reproductive health;  
+c. improvement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and  
+d. facilitation and efforts to preserve customs and the development of science, technology, arts and culture for the advancement of women.
+
+#### Article 11
+
+1. The implementation of empowerment of women in the political field as referred to in Article 8 paragraph (2) letter c, comprises:  
+a. involvement of women in decision-making at various levels;  
+b. provision of opportunities for women to hold public office;  
+c. participation in general elections; and  
+d. self-development through organizations to associate, assemble and express opinions.  
+2. The implementation of empowerment of women in the political field as referred to in paragraph (1) is carried out in accordance with the provisions of laws and regulations.
+
+#### Article 12
+
+1. The implementation of empowerment of women in the legal field as referred to in Article 8 paragraph (2) letter d, comprises:  
+a. improvement of awareness and knowledge in the legal field through communication, information and education services; and  
+b. facilitation of access and legal consultation services.  
+2. The implementation of empowerment of women in the legal field as referred to in paragraph (1) is carried out in accordance with the provisions of laws and regulations.
+
+#### Article 13
+
+1. The Regional Government has the obligation and responsibility in efforts to empower women.  
+2. Efforts to empower women as referred to in paragraph (1) are carried out in an integrated manner in accordance with the provisions of laws and regulations.
+
+#### Article 14
+
+1. To implement women's empowerment as referred to in Article 13 paragraph (1), the Regional Government shall organize gender mainstreaming including:  
+a. establishing the implementation of gender mainstreaming;  
+b. coordinating, facilitating, and mediating gender mainstreaming;  
+c. facilitating institutional strengthening and development of gender mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, non-governmental institutions;  
+d. implementing gender mainstreaming related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;  
+e. improving the quality of life of women related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;  
+f. integrating efforts to improve the quality of life of women related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;  
+g. coordinating the implementation of improving the quality of life of women related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;  
+h. organizing the protection of women especially protection for victims of violence, female workers, elderly women, and women with disabilities, in conflict areas and disaster-affected areas;  
+i. facilitating the integration of protection of women especially for victims of violence, female workers, elderly women and women with disabilities, in conflict areas and disaster-affected areas;  
+j. coordinating the protection of women especially for victims of violence, female workers, elderly women and women with disabilities;  
+k. facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of gender mainstreaming;  
+l. developing gender-based information systems; and  
+m. providing and organizing integrated or non-integrated services for women victims of violence, female workers, elderly women, and women with disabilities.  
+2. The forms of women's empowerment and gender mainstreaming mechanisms as referred to in paragraph (1), shall be implemented in accordance with laws and regulations.
+
+## Part Three
+
+Prevention of Violence and Participation in Prevention
+
+### Paragraph 1
+
+Prevention of Violence
+
+#### Article 15
+
+1. Efforts to prevent violence against women shall be carried out in an integrated manner by the Regional Government coordinated by the agency having the duties and functions of coordination in the field of women's empowerment and child protection.  
+2. Prevention efforts as referred to in paragraph (1), shall be implemented through the following means:  
+a. forming a network in efforts to prevent violence;  
+b. conducting coordination, integration, synchronization of violence prevention based on partnership work patterns between Regional Government institutions and the community;  
+c. building an integrated security system in areas prone to cases of violence against women;  
+d. building complaint and service units regarding violence against women at the sub-district, village and/or Lembang levels; and  
+e. awareness campaigns, socialization and education to the community regarding the protection and empowerment of women.
+
+### Paragraph 2
+
+Participation in Prevention
+
+#### Article 16
+
+Participation in prevention efforts as referred to in Article 15, the Regional Government shall involve:  
+a. families;  
+b. the community; and  
+c. women's advocacy institutions.
+
+## Part Four
+
+Protection of Women
+
+#### Article 17
+
+1. Protection of women includes:  
+a. protection of the personal security of victims or witnesses;  
+b. physical and psychological threats;  
+c. confidentiality of the identity of victims and witnesses;  
+d. provision of testimony during the legal process which is regulated through protection mechanisms.  
+2. Protection for women victims also includes the provision of safe houses as temporary shelters to obtain a sense of security during the judicial process and/or outside the judicial process.  
+3. The organization of protection and safe houses shall be carried out by the Regional Government.  
+4. Further provisions on the mechanism for the protection of women as referred to in paragraph (2), and the organization of safe houses as referred to in paragraph (3), shall be regulated in a Regent Regulation.
+
+# CHAPTER V
+
+## ORGANIZATION OF CHILD PROTECTION
+
+## Part One
+
+Rights and Obligations of Children
+
+#### Article 18
+
+The rights of children are as follows:  
+a. the right to survival, growth, development and participation in a reasonable manner in accordance with human dignity and to receive protection from violence and discrimination;  
+b. the right to a name as personal identity and citizenship status;  
+c. the right to worship according to their religion, to think, and to express themselves in accordance with their level of intelligence and age, under parental guidance;  
+d. the right to know their parents, to be raised, and to be cared for by their own parents;  
+e. the right to obtain health services and social security in accordance with physical, mental, spiritual, and social needs;  
+f. the right to obtain education and teaching in the context of developing their personality and level of intelligence in accordance with their interests and talents;  
+g. specifically for children with disabilities, they also have the right to obtain special education, while children who have excellence also have the right to receive special education;  
+h. the right to express and be heard their opinions, to receive, seek, and provide information in accordance with their level of intelligence and age for their self-development in accordance with the values of decency and propriety;  
+i. the right to rest and utilize leisure time, to associate with peers, to play, to recreate, and to create in accordance with their interests, talents, and level of intelligence for self-development;  
+j. children with disabilities have the right to obtain rehabilitation, social assistance and maintenance of social welfare standards;  
+k. the right to be cared for by their own parents, unless there are reasons and/or valid legal rules indicating that such separation is in the best interests of the child and is a last resort;  
+l. the right to meet directly and maintain personal contact regularly with both parents;  
+m. the right to obtain care, maintenance, education and protection for the growth and development process from both parents in accordance with their abilities, talents, and interests;  
+n. the right to obtain living expenses from both parents;  
+o. the right to obtain protection from abuse in political activities, involvement in armed conflicts, involvement in social unrest, involvement in events containing elements of violence and involvement in warfare.
+
+#### Article 19
+
+1. Every child has the right to obtain protection from being the target of persecution, torture, or imposition of inhuman punishment.  
+2. Every child has the right to obtain freedom in accordance with the law.  
+3. Every child has the right to be protected from arrest, detention, and/or criminal imprisonment of children may only be carried out if in accordance with applicable law and can only be carried out as a last resort.
+
+#### Article 20
+
+Children who are detained due to legal cases, have the right to:  
+a. receive humane treatment and their placement is separated from adults; 
+b. obtain legal assistance or other assistance effectively at every stage of applicable legal remedies; and  
+c. defend themselves and obtain justice before an objective and impartial juvenile court in a closed session to the public.
+
+#### Article 21
+
+Every child who becomes a perpetrator or victim of sexual violence or who is in conflict with the law has the right to confidentiality.
+
+#### Article 22
+
+In the event that for any reason the parents cannot guarantee the growth and development of the child, resulting in the child becoming neglected, then the child has the right to be cared for or adopted as a foster child or adopted child by another person or institution in accordance with the provisions of laws and regulations.
+
+#### Article 23
+
+Every child is obliged to:  
+a. respect parents, guardians, and teachers;  
+b. love family, community, and care for friends;  
+c. love the homeland, nation and state;  
+d. perform worship in accordance with the teachings of their religion; and practice good ethics and morals.
+
+## Part Two
+
+Prevention
+
+#### Article 24
+
+1. Efforts to prevent violence against children are carried out in an integrated manner by the Regional Government coordinated by the agency that has the duties and functions of coordination in the field of women's empowerment and child protection.  
+2. Prevention efforts as referred to in paragraph (1) are implemented through the following means:  
+a. forming a network in efforts to prevent violence;  
+b. conducting coordination, integration, synchronization of violence prevention based on partnership work patterns between regional government institutions and the community;  
+c. building an integrated security system in areas prone to cases of violence against children;  
+d. incorporating local content material on children's rights and the elimination of violence against children as teaching material in teaching and learning activities in early childhood education institutions up to the level of Senior High School;  
+e. establishing complaint and service units regarding violence against children at the sub-district, urban village and/or lembang levels, as well as schools;  
+f. awareness campaigns, socialization and education to the community about child protection.
+
+## Part Three
+
+Child Protection
+
+#### Article 25
+
+1. Every child receives protection from acts of violence, exploitation, trafficking, discrimination, mistreatment and neglect.  
+2. Protection as referred to in paragraph (1) is elaborated in various areas of life, including:  
+a. in the field of health;  
+b. in the field of religion;  
+c. in the field of education;  
+d. in the social field; and  
+e. special protection.
+
+#### Article 26
+
+1. Protection in the field of health as referred to in Article 25 paragraph (2) letter a, is carried out by the government through the provision of health facilities and seeking comprehensive health services for children, so that every child obtains the optimal degree of health from the womb.  
+2. Comprehensive health services as referred to in paragraph (1) include promotive, preventive, curative, and rehabilitative efforts, both for basic health services and referrals.  
+3. Comprehensive health service efforts as referred to in paragraph (2) are implemented by the Regional Government free of charge for families who are unable to afford it.
+
+#### Article 27
+
+1. Parents and families provide protection to maintain the health of children starting from examination of the child's growth and development from the womb.  
+2. In the event that parents and families are unable to carry out protection as referred to in paragraph (1), then the Regional Government is obliged to fulfill it.  
+3. The Regional Government provides free assistance and services for underprivileged communities as referred to in paragraph (2), and its implementation is carried out in accordance with the provisions of laws and regulations.
+
+#### Article 28
+
+1. The Regional Government provides protection to children from organ transplantation efforts for the benefit of other parties.  
+2. The Regional Government, parents and families protect children from acts of:  
+a. removal of organs and/or body tissues of children without regard to the health of the child;  
+b. buying and selling of organs and/or body tissues of children; and  
+c. health research that uses children as research objects without the permission of their parents.
+
+#### Article 29
+
+1. Every child receives protection in the field of religion as referred to in Article 25 paragraph (2) letter b, to worship according to their religion.  
+2. Protection of children in embracing their religion as referred to in paragraph (1) includes guidance, mentoring, and good practice of religious teachings for children.
+
+#### Article 30
+
+1. Every child receives protection in the field of education as referred to in Article 25 paragraph (2) letter c, to obtain education.  
+2. The Regional Government, parents, and families must provide the widest possible opportunity for children to obtain education from an early age.  
+3. The Regional Government provides adequate facilities and infrastructure to support the teaching and learning process for children.  
+4. Non-governmental institutions may provide teaching and learning facilities and infrastructure for children, in accordance with the provisions of laws and regulations.
+
+#### Article 31
+
+Education as referred to in Article 30 paragraph (1), is intended and directed towards:  
+a. development of personality abilities, mental, talents, and physical abilities of children to the fullest extent possible;  
+b. development of respect for parents and fellow human beings;  
+c. development of understanding of customary and cultural values in the place where the child grows and develops;  
+d. preparation of children for a responsible life; and  
+e. development of respect and love for the nation and state.
+
+#### Article 32
+
+1. The Regional Government provides protection for children with disabilities, to obtain opportunities in obtaining special education.  
+2. Children who have excellence are given the opportunity to obtain special education.
+
+#### Article 33
+
+The Regional Government provides education costs and/or free assistance or special services for children from underprivileged families, neglected children, and children in remote areas.
+
+#### Article 34
+
+1. Protection in the field of education as referred to in Article 30 paragraph (1), applies both outside the school environment and within the school environment.  
+2. Protection outside the school environment is to protect and prevent children from acts of violence, exploitation, trafficking and discrimination.  
+3. Protection in the school environment is protection from acts of violence that can be committed by school administrators, by teachers, or by their own friends.
+
+#### Article 35
+
+Special services as referred to in Article 33, in addition to assistance in the form of money, school equipment, may also be in the form of provision of school shuttle buses, the procurement of which is in accordance with the regional financial capacity.
+
+#### Article 36
+
+1. Child protection in the Social field as referred to in Article 25 paragraph (2) letter d, includes the maintenance and care of neglected children.  
+2. Maintenance and care as referred to in paragraph (1), includes:  
+a. fulfillment of basic needs consisting of clothing, food, shelter, education, health, security guarantees, freedom to worship according to their religion and equal treatment with other children to achieve optimal social integration; and  
+b. fulfillment of special needs for children with disabilities.  
+3. Maintenance of neglected children as referred to in paragraph (1), may also be carried out by individuals and non-governmental institutions or community institutions.
+4. Government institutions, and/or individuals, and/or community institutions in providing services as referred to in paragraph (2), may cooperate with various related service units.
+5. Supervision of the implementation of maintenance and care as referred to in paragraph (1), is carried out by regional apparatus organizations (OPD) that administer affairs in the social field in accordance with the provisions of laws and regulations.
+
+#### Article 37
+
+Special protection as referred to in Article 25 paragraph (2) letter e, is given specifically to children, namely:  
+a. children in emergency situations;  
+b. children in conflict with the law;  
+c. children from minority and isolated groups;  
+d. children exploited economically and/or sexually;  
+e. child victims of trafficking;  
+f. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances (drugs) abuse;  
+g. child victims of abduction;  
+h. child victims of violence both physical and mental; and  
+i. children with disabilities
+
+#### Article 38
+
+(1) Children in emergency situations as referred to in Article 37 letter a, consist of:  
+a. children who become refugees;  
+b. child victims of riots;  
+c. child victims of natural disasters; and  
+d. children in armed conflict situations.  
+2. Special protection for children in emergency situations as referred to in paragraph (1), is implemented in accordance with the provisions of laws and regulations.
+
+#### Article 39
+
+1. Regional government and society provide special protection for children in conflict with the law as referred to in Article 34 letter b, which includes children in conflict with the law and child victims of criminal acts.  
+2. Special protection for children in conflict with the law as referred to in paragraph (1) is implemented through:  
+a. treatment of children in a humane manner in accordance with dignity and respect for children's rights;  
+b. provision of special accompanying officers for children;  
+c. provision of special facilities and infrastructure;  
+d. imposition of appropriate sanctions for the best interests of the child;  
+e. continuous monitoring and recording of the development of children in conflict with the law;  
+f. provision of guarantees to maintain relationships with parents or family; and  
+g. protection from identity disclosure through mass media and to avoid labeling.  
+3. Special protection for children who become victims of criminal acts as referred to in paragraph (1) is implemented through:  
+a. child rehabilitation efforts;  
+b. protection efforts from identity disclosure through mass media and to avoid labeling;  
+c. provision of safety guarantees for victim witnesses;  
+d. provision of accessibility to obtain information regarding case developments.
+
+#### Article 40
+
+Special protection for children from minority and isolated groups as referred to in Article 37 letter c, is carried out through the provision of facilities and infrastructure to be able to enjoy their own culture, acknowledge and practice their own religion, and use their own language.
+
+#### Article 41
+
+1. Regional Government provides special protection for children who are exploited economically and/or sexually as referred to in Article 37 letter d and child victims of violence both physical and mental as referred to in Article 37 letter h.  
+2. Special protection for exploited children and child victims of violence as referred to in paragraph (1) is carried out through:  
+a. socialization of laws and regulations related to the protection of children exploited economically and/or sexually;  
+b. monitoring, reporting, and imposition of sanctions; and  
+c. involvement of various organizations, Regional Government, companies, labor unions, social institutions and society.
+
+#### Article 42
+
+Special protection for children who are involved in and become victims of narcotics, alcohol, psychotropic substances, and other addictive substances (drugs) abuse as referred to in Article 37 letter f, is carried out through supervision, prevention, treatment, and rehabilitation efforts by the Regional Government and society.
+
+#### Article 43
+
+Regional Government provides special protection for child victims of trafficking as referred to in Article 37 letter e and child victims of abduction as referred to in Article 37 letter g which is carried out through efforts of:  
+a. supervision;  
+b. protection;  
+c. prevention;  
+d. treatment; and  
+e. rehabilitation.
+
+#### Article 44
+
+Regional Government provides special protection for children with disabilities as referred to in Article 37 letter i, through efforts of:  
+a. treatment of children in a humane manner in accordance with dignity and respect for children's rights;  
+b. fulfillment of special needs; and  
+c. obtaining equal treatment with other children to achieve social integration as optimally as possible.
+
+# CHAPTER VI
+
+## OBLIGATIONS AND RESPONSIBILITIES
+
+## Part One
+
+General
+
+#### Article 45
+
+Obligations and responsibilities in providing protection to women and children from acts of violence and discrimination are the joint responsibility of:  
+a. Regional Government;  
+b. Lembang Government;  
+c. Society; and  
+b. Parents and Family.
+
+## Part Two
+
+Regional Government
+
+#### Article 46
+
+(1) The obligations and responsibilities of the Regional Government as referred to in Article 45 letter a, include:  
+a. establishing policies, programs, and activities for the protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+b. implementing policies for the protection of women and children from acts of violence established by the government;  
+c. conducting cooperation with other parties in the implementation of protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+d. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence;  
+e. allocating budget for the implementation of protection of women and children from acts of violence according to regional financial capacity;  
+f. fostering and supervising the implementation of protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+g. providing recovery services and social reintegration;  
+h. encouraging and increasing community participation; and  
+i. providing human resources in the implementation of protection of women and children victims of acts of violence, exploitation, trafficking and discrimination.  
+2. In the event that a child becomes neglected as referred to in Article 22, then the Regional Government is responsible and obligated to take over and provide services to neglected children as referred to in Article 36 paragraph (2) letter a.  
+3. Community institutions, and/or individuals may submit applications to the court to become guardians and/or foster parents for neglected children.
+
+#### Article 47
+
+1. In order to carry out the obligations and responsibilities as referred to in Article 46 paragraph (1), the Regent establishes programs and activities for the protection of women and children in the regional action plan as a basis for regional apparatus in implementing the protection of women and children from acts of violence, exploitation, trafficking and discrimination.  
+2. The regional action plan as referred to in paragraph (1), is part of the Regional Medium-Term Development Plan (RPJMD).  
+3. Further provisions regarding the Regional Action Plan as referred to in paragraph (2) are regulated by Regent Regulation.
+
+## Part Three
+
+Lembang Government
+
+#### Article 48
+
+The obligations and responsibilities of the Lembang Government as referred to in Article 45 letter b, include:  
+a. implementing policies for the protection of women and children from acts of violence, exploitation, trafficking and discrimination established by the Regional Government;  
+b. conducting cooperation with other parties in the implementation of protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+c. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+d. allocating budget for the implementation of protection of women and children from acts of violence, exploitation, trafficking and discrimination in accordance with the lembang's financial capacity;  
+e. fostering and supervising the implementation of protection of women and children from acts of violence, exploitation, trafficking and discrimination; and  
+f. encouraging and increasing community participation.
+
+## Part Four
+
+Community
+
+#### Article 49
+
+1. The obligations and responsibilities of the community as referred to in Article 45 letter c, are carried out by participating in the protection of women and children victims of violence, exploitation, trafficking and discrimination, either individually or in groups.  
+2. The role of the community as referred to in paragraph (1) is carried out by individuals, women and child protection institutions, social welfare institutions, community organizations, educational institutions, mass media, and the business sector.  
+3. The role of the community in the implementation of protection of women and children as referred to in paragraph (1) is carried out by:  
+a. providing information through socialization and education regarding the protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+b. providing input in the formulation of policies related to the protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+c. reporting to the competent authorities if violations of acts of violence, exploitation, trafficking and discrimination against women and children occur;  
+d. playing an active role in the rehabilitation and social reintegration process for women and children victims of acts of violence, exploitation, trafficking and discrimination;  
+e. conducting monitoring and supervision of the Protection of Women and Children from acts of violence, exploitation, trafficking and discrimination;  
+f. providing facilities and infrastructure in order to support the protection of women and children from acts of violence, exploitation, trafficking and discrimination;  
+g. playing an active role in eliminating negative labeling of women and children victims of acts of violence, exploitation, trafficking and discrimination; and  
+h. providing space for women and children to participate and express their opinions.
+
+## Part Five
+
+Parents and Family
+
+#### Article 50
+
+1. The obligations and responsibilities of parents and family as referred to in Article 45 letter d, are to safeguard and prevent the occurrence of all forms of violence, exploitation, trafficking and discrimination both against women and against children.  
+2. The obligations and responsibilities of parents towards children as referred to in paragraph (1), are to:  
+a. care for, maintain, educate, and protect children;  
+b. develop children in accordance with their abilities, talents, and interests;  
+c. prevent marriage at child age; and  
+d. provide character education and instill moral values in children.  
+3. Guardians and/or foster parents who have obtained a determination as referred to in Article 46 paragraph (3), must be able to fulfill the provisions as referred to in article 36 paragraph (2) letter a.  
+4. Guardians and/or foster parents appointed as referred to in paragraph (3) must have the same religion as that professed by the Child.  
+5. Guardians and/or foster parents as referred to in paragraph (3) are responsible for the child and are obliged to manage the property of the child concerned for the best interests of the child.  
+6. Guardians and/or foster parents as referred to in paragraph (3), may represent the child to perform legal acts, both inside and outside the court for the best interests of the child.
+
+# CHAPTER VII
+
+## INSTITUTIONAL ARRANGEMENTS
+
+#### Article 51
+
+1. In the context of protection of women and children, the Regional Government may establish PPT.  
+2. The establishment and development of PPT is adjusted to priority needs, regional financial capacity as well as institutional and personnel capacity available in the region.  
+3. PPT as referred to in paragraph (1), may take the form of:  
+a. P2TP2A;  
+b. LK3;  
+c. KPAD; and  
+d. other institutions according to needs and in accordance with the provisions of laws and regulations.
+
+#### Article 52
+
+1. P2TP2A as referred to in Article 51 paragraph (3) letter a, is positioned at the regional level and sub-district level.  
+2. P2TP2A is under the coordination of OPD or other units that handle women's empowerment and child protection.  
+3. P2TP2A as referred to in paragraph (1) does not have the authority to formulate policies on women's empowerment and child protection.  
+4. P2TP2A is one form of integrated service unit, which functions as:  
+a. an information center for women and children;  
+b. a service center for women and children victims of violence; and an empowerment center for women and children.
+
+#### Article 53
+
+1. The establishment of P2TP2A is stipulated by Regent's Decree for the regional level and sub-district head's decree for the sub-district level.  
+2. Membership of P2TP2A may come from elements of the Regional Government, professional organizations, academics, community leaders and other elements as needed.  
+3. Further provisions regarding P2TP2A are regulated in a Regent Regulation.
+
+#### Article 54
+
+1. In the context of handling psychosocial problems of victims, recovery of psychosocial conditions of victims and strengthening family resilience, LK3 may be established in the region.  
+2. The procedures for establishment, main tasks and functions as well as service mechanisms of LK3 are carried out in accordance with the provisions of laws and regulations.
+
+#### Article 55
+
+1. In the context of providing protection and fulfillment of children's rights, KPAD may be established in the region.  
+2. The procedures for establishment, main tasks and functions as well as service mechanisms of KPAD as referred to in paragraph (1), are carried out in accordance with the provisions of laws and regulations.
+
+# CHAPTER VIII
+
+## CHILD-FRIENDLY REGENCY
+
+#### Article 56
+
+1. To ensure the fulfillment of children's rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination, real efforts are needed in an integrated manner between the regional government, community and business sector through the development of KLA.  
+2. Further provisions regarding the development of KLA as referred to in paragraph (1), are regulated by regional regulation.
+
+# CHAPTER IX
+
+## SPECIAL DEVELOPMENT PLANNING DELIBERATION FOR WOMEN AND CHILDREN
+
+#### Article 57
+
+1. Special development planning deliberation for women and children is a form of annual meeting or gathering held specifically for women and children to explore various ideas and input for the fulfillment of the rights of women and children in regional development program activities.  
+2. Special development planning deliberation for women and children is carried out before the implementation of development planning deliberation.
+3. Further provisions regarding the implementation mechanism of special development planning deliberation for women and children as referred to in paragraph (1), are regulated by Regent Regulation.
+
+# CHAPTER  X
+
+## FINANCING
+
+#### Article 58
+
+The costs of implementing the protection of women and children are sourced from:  
+a. Regional Revenue and Expenditure Budget;  
+b. Lembang Revenue and Expenditure Budget; and  
+c. Other legal and non-binding sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER XI
+
+## PROHIBITIONS
+
+#### Article 59
+
+1. Every business operation whose activities may disrupt the growth and development of children is prohibited from accepting child visitors.  
+2. Business operations as referred to in paragraph (1), include among others:  
+a. night clubs including discotheques, bars and pubs;  
+b. adult karaoke;  
+c. massage parlors;  
+d. steam bath/sauna parlors; and  
+e. other similar business fields.
+
+#### Article 60
+
+Every operator of hotels, motels, inns, tourism guesthouse businesses and similar business activities is prohibited from renting rooms to children without being accompanied by parents or adult family members or supervising teachers/persons in charge in the context of carrying out school activities or other activities.
+
+#### Article 61
+
+1. Every operator of internet services, play stations and types of children's games based on information and communication technology and other communications is required to manage and design child-friendly places.  
+2. Every business operator as referred to in paragraph (1) must:  
+a. arrange rooms/cubicles with sufficient lighting and not closed;  
+b. not accept children wearing uniforms and/or during school hours;  
+c. locally block sites containing elements of pornography and pornographic acts; and  
+d. limit visiting hours and supervise the use of existing facilities.
+
+# CHAPTER XII
+
+## ADMINISTRATIVE SANCTIONS
+
+#### Article 62
+
+1. Every person or business entity that violates the provisions as referred to in Article 59, Article 60 and Article 61, shall be subject to administrative sanctions in the form of:  
+a. written warning; and  
+b. revocation of permit.  
+2. Written warning as referred to in paragraph (1) letter a, shall be given 3 (three) times with a grace period between one warning and another warning of at most 1 (one) month.  
+3. If after the third warning is not heeded, then the permit will be revoked.
+
+# CHAPTER XIII
+
+## CRIMINAL SANCTIONS
+
+#### Article 63
+
+Every person or institution that commits acts that result in misery or suffering physically, psychologically, sexually, and/or neglect, coercion, or deprivation of liberty against women and children resulting in violations of this regional regulation, shall be subject to criminal sanctions in accordance with the provisions of laws and regulations.
+
+# CHAPTER XIV
+
+## CLOSING PROVISIONS
+
+#### Article 64
+
+Regent Regulations as implementing regulations of this Regional Regulation must be stipulated at the latest 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 65
+
+This regional regulation shall come into force on the date of promulgation.  
+
+So that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Tana Toraja Regency.  
+
+Enacted in Makale on the date of August 16, 2017  
+
+REGENT OF TANA TORAJA,  
+
+Signed.  
+
+NICODEMUS BIRINGKANAE  
+
+Promulgated in Makale on the date of August 16, 2017 Acting REGIONAL SECRETARY OF TANA TORAJA REGENCY, Signed.  
+
+SEMUEL TANDE BURA  
+
+REGIONAL GAZETTE OF TANA TORAJA REGENCY YEAR 2017 NUMBER 04  
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF TANA TORAJA REGENCY, SOUTH SULAWESI PROVINCE: NUMBER B.HK.HAM.3.79.17 YEAR 2017.
+
+# ELUCIDATION OF REGIONAL REGULATION OF TANA TORAJA REGENCY
+
+NUMBER 4 Year 2017  
+
+CONCERNING PROTECTION OF WOMEN AND CHILDREN
+
+##### I. GENERAL
+
+Women and children are God's creatures who have dignity and human rights that need to be respected and valued.  
+
+Women are pillars of the nation and children are the buds of the next generation of the nation's ideals. That children, who will later bear great responsibility as the nation's next generation, need to be given the widest possible opportunity to grow and develop optimally, both physically, mentally, spiritually and socially, so that children have noble character.  
+
+Women and children have a strategic role in determining the success of development programs in all aspects of state life. However, due to the still low understanding of the dignity of women and children, they are vulnerable to becoming victims of violence and discrimination both within the family and in their environment.  
+
+Various acts of violence against women and children continue to increase from time to time. If there is no awareness to give serious attention and handling, it will destroy the life of households, society, nation and state.  
+
+Considering this, it is time that a regulation in the form of a regional regulation on the Protection of Women and Children is needed that is able to answer while providing legal certainty for the Protection of Women and Children from acts of violence and discrimination.  
+
+As a concrete step in an effort to provide Protection for Women and Children in Tana Toraja Regency, through the initiative of the DPRD a Regional Regulation on the Protection of Women and Children was drafted as an implementation of various laws and regulations, including Law Number 39 of 1999 concerning Human Rights, Law Number 23 of 2002 concerning Child Protection, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, Law Number 35 of 2014 Concerning Amendments to Law Number 23 of 2002 concerning Child Protection, Law Number 8 of 2016 concerning Persons with Disabilities and Regulation of the Minister of Women's Empowerment and Child Protection Number 6 of 2015 concerning the System for Women's Empowerment and Child Protection.  
+
+This Regional Regulation is intended to give responsibility to the Regional Government starting from the prevention of acts of violence to the handling of victims of violence.  
+
+In this regional regulation, the rights of Women and Children, Women's Empowerment, Prevention, Protection of Women and Children are regulated. Also regulated are special handling of neglected children, responsibilities of regional government, responsibilities of Lembang government, up to Community, parental and Family Participation in prevention, protection and handling of Women and Children.  
+
+This regional regulation also regulates financing sourced from the APBD, APBL and other non-binding sources, which is expected to guarantee the implementation of protection for Women and Children from acts of violence, exploitation, trafficking and discrimination.
+
+#### ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Sufficiently clear.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Letter a  
+Sufficiently clear.  
+
+Letter b  
+In the health field, what is meant by the effort: "promotive" is an activity and/or series of health service activities that prioritize activities that are health promotion in nature.  
+
+"preventive" is a prevention activity against a health problem/disease.  
+
+"curative" is an activity and/or series of treatment activities aimed at curing disease, reducing suffering due to disease, controlling disease, or controlling disability so that the quality of the sufferer can be maintained as optimally as possible.  
+
+"rehabilitative" is an activity and/or series of activities to return former sufferers to society so that they can function again as useful members of society for themselves and society as much as possible according to their abilities.  
+
+Letter c  
+Sufficiently clear.  
+
+Letter d  
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article  24
+
+Sufficiently clear.
+
+#### Article  25
+
+Sufficiently clear.
+
+#### Article  26
+
+Sufficiently clear.
+
+#### Article  27
+
+Sufficiently clear.
+
+#### Article  28
+
+Sufficiently clear.
+
+#### Article  29
+
+Sufficiently clear.
+
+#### Article  30
+
+Sufficiently clear.
+
+#### Article  31
+
+Sufficiently clear.
+
+#### Article  32
+
+Sufficiently clear.
+
+#### Article  33
+
+Sufficiently clear.
+
+#### Article  34
+
+Sufficiently clear.
+
+#### Article  35
+
+Sufficiently clear.
+
+#### Article  36
+
+Sufficiently clear.
+
+#### Article  37
+
+Sufficiently clear.
+
+#### Article  38
+
+Sufficiently clear.
+
+#### Article  39
+
+Ayat (1)  
+Sufficiently clear.  
+
+Ayat (2)  
+Sufficiently clear.  
+
+Ayat (3)  
+"labelisation" means the reporting of negative assessments resulting from legal cases experienced by children that can affect the child's mental state in their development and growth.
+
+#### Article  40
+
+Sufficiently clear.
+
+#### Article  41
+
+Sufficiently clear.
+
+#### Article  42
+
+Sufficiently clear.
+
+#### Article  43
+
+Sufficiently clear.
+
+#### Article  44
+
+Sufficiently clear.
+
+#### Article  45
+
+Sufficiently clear.
+
+#### Article  46
+
+Sufficiently clear.
+
+#### Article  47
+
+Sufficiently clear.
+
+#### Article  48
+
+Sufficiently clear.
+
+#### Article  49
+
+Sufficiently clear.
+
+#### Article  50
+
+Sufficiently clear.
+
+#### Article  51
+
+Sufficiently clear.
+
+#### Article  52
+
+Sufficiently clear.
+
+#### Article  53
+
+Sufficiently clear.
+
+#### Article  54
+
+Sufficiently clear.
+
+#### Article  55
+
+Sufficiently clear.
+
+#### Article  56
+
+Sufficiently clear.
+
+#### Article  57
+
+Sufficiently clear.
+
+#### Article  58
+
+Sufficiently clear.
+
+#### Article  59
+
+Sufficiently clear.
+
+#### Article  60
+
+Sufficiently clear.
+
+#### Article  61
+
+Sufficiently clear.
+
+#### Article  62
+
+Sufficiently clear.
+
+#### Article  63
+
+Sufficiently clear.
+
+#### Article  64
+
+Sufficiently clear.
+
+#### Article  65
+
+Sufficiently clear.  
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF TANA TORAJA REGENCY NUMBER 22

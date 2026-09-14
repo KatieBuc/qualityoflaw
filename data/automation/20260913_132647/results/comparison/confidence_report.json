@@ -1,0 +1,2668 @@
+{
+  "generated_at": "2026-09-14T03:07:49.972437+00:00",
+  "run_id": "20260913_132647",
+  "status": "ok",
+  "definitions": {
+    "probability": "exp(logprob) of the tokens spelling the Yes/No answer",
+    "coverage_rate": "errors_captured / total_errors -- the share of wrong answers that fall below the confidence cutoff",
+    "precision": "errors_captured / flagged -- the share of flagged predictions that are actually wrong",
+    "lift": "precision / baseline error rate -- how much better than random flagging",
+    "auroc_error_detection": "AUROC of (1 - confidence) as a score for predicting that an answer is wrong; 0.5 means the confidence signal carries no information",
+    "methods": "Each captured confidence method scored independently on the same pairs. The top-level coverage/calibration/discrimination sections belong to primary_method"
+  },
+  "primary_method": "margin",
+  "confidence_source": {
+    "formula": "probability = exp(logprob)",
+    "model": "gpt-5.2",
+    "temperature": 0.2,
+    "evaluation_dir": "C:\\myProject\\qualityoflaw\\data\\automation\\20260913_132647\\results\\evaluation",
+    "methods_present": [
+      "logprobs",
+      "margin",
+      "verbalized"
+    ],
+    "primary_method_requested": "margin",
+    "primary_method_warning": null,
+    "pairs_total": 11087,
+    "pairs_with_confidence": 11087,
+    "availability": 1.0,
+    "source_counts": {
+      "margin": 11087
+    }
+  },
+  "baseline": {
+    "accuracy": 0.9298277261657797,
+    "pairs": 11087,
+    "error_count": 778,
+    "error_rate": 0.07017227383422026,
+    "confusion_matrix": {
+      "true_positive": 5770,
+      "true_negative": 4539,
+      "false_positive": 390,
+      "false_negative": 388
+    }
+  },
+  "distribution": {
+    "mean": 0.9889081532529761,
+    "median": 0.9999465949513187,
+    "std": 0.07888689508544017,
+    "min": 0.0,
+    "max": 1.0,
+    "percentiles": {
+      "p1": 0.5545997223493824,
+      "p5": 0.9950927001858654,
+      "p10": 0.999732989016709,
+      "p25": 0.9998169029128974,
+      "p50": 0.9999465949513187,
+      "p75": 1.0,
+      "p90": 1.0
+    },
+    "mean_by_outcome": {
+      "correct": 0.9926971864764074,
+      "incorrect": 0.9387010279311852
+    }
+  },
+  "coverage": {
+    "primary": {
+      "kind": "absolute",
+      "threshold": 0.9,
+      "flagged": 245,
+      "flagged_share": 0.022097952557048797,
+      "errors_captured": 89,
+      "coverage_rate": 0.11439588688946016,
+      "precision": 0.363265306122449,
+      "lift": 5.176764073238551,
+      "remaining_errors": 689,
+      "accuracy_on_unflagged": 0.9364508393285371
+    },
+    "by_absolute_threshold": [
+      {
+        "kind": "absolute",
+        "threshold": 0.5,
+        "flagged": 104,
+        "flagged_share": 0.009380355371155407,
+        "errors_captured": 43,
+        "coverage_rate": 0.055269922879177376,
+        "precision": 0.41346153846153844,
+        "lift": 5.892092643859996,
+        "remaining_errors": 735,
+        "accuracy_on_unflagged": 0.9330783938814532
+      },
+      {
+        "kind": "absolute",
+        "threshold": 0.7,
+        "flagged": 139,
+        "flagged_share": 0.012537205736448093,
+        "errors_captured": 55,
+        "coverage_rate": 0.07069408740359898,
+        "precision": 0.39568345323741005,
+        "lift": 5.638743503911524,
+        "remaining_errors": 723,
+        "accuracy_on_unflagged": 0.9339605407380344
+      },
+      {
+        "kind": "absolute",
+        "threshold": 0.9,
+        "flagged": 245,
+        "flagged_share": 0.022097952557048797,
+        "errors_captured": 89,
+        "coverage_rate": 0.11439588688946016,
+        "precision": 0.363265306122449,
+        "lift": 5.176764073238551,
+        "remaining_errors": 689,
+        "accuracy_on_unflagged": 0.9364508393285371
+      },
+      {
+        "kind": "absolute",
+        "threshold": 0.95,
+        "flagged": 291,
+        "flagged_share": 0.02624695589429061,
+        "errors_captured": 105,
+        "coverage_rate": 0.13496143958868895,
+        "precision": 0.36082474226804123,
+        "lift": 5.141984469827472,
+        "remaining_errors": 673,
+        "accuracy_on_unflagged": 0.93766209707299
+      },
+      {
+        "kind": "absolute",
+        "threshold": 0.99,
+        "flagged": 475,
+        "flagged_share": 0.04284296924325787,
+        "errors_captured": 172,
+        "coverage_rate": 0.2210796915167095,
+        "precision": 0.36210526315789476,
+        "lift": 5.160232715464755,
+        "remaining_errors": 606,
+        "accuracy_on_unflagged": 0.9428948360346777
+      }
+    ],
+    "by_quantile": [
+      {
+        "kind": "quantile",
+        "threshold": 0.9950927001858654,
+        "flagged": 550,
+        "flagged_share": 0.04960764859745648,
+        "errors_captured": 193,
+        "coverage_rate": 0.2480719794344473,
+        "precision": 0.3509090909090909,
+        "lift": 5.00068006543585,
+        "remaining_errors": 585,
+        "accuracy_on_unflagged": 0.9444813514283003,
+        "quantile": 0.05
+      },
+      {
+        "kind": "quantile",
+        "threshold": 0.999732989016709,
+        "flagged": 1101,
+        "flagged_share": 0.09930549291963561,
+        "errors_captured": 304,
+        "coverage_rate": 0.390745501285347,
+        "precision": 0.2761126248864669,
+        "lift": 3.9347823549052166,
+        "remaining_errors": 474,
+        "accuracy_on_unflagged": 0.9525335469657521,
+        "quantile": 0.1
+      },
+      {
+        "kind": "quantile",
+        "threshold": 0.9997711312602866,
+        "flagged": 1929,
+        "flagged_share": 0.17398755298998828,
+        "errors_captured": 337,
+        "coverage_rate": 0.43316195372750643,
+        "precision": 0.17470191809227578,
+        "lift": 2.4896146091119045,
+        "remaining_errors": 441,
+        "accuracy_on_unflagged": 0.9518453810875737,
+        "quantile": 0.2
+      },
+      {
+        "kind": "quantile",
+        "threshold": 0.9998245316235193,
+        "flagged": 3036,
+        "flagged_share": 0.2738342202579598,
+        "errors_captured": 397,
+        "coverage_rate": 0.5102827763496144,
+        "precision": 0.13076416337285904,
+        "lift": 1.863473366728648,
+        "remaining_errors": 381,
+        "accuracy_on_unflagged": 0.9526766861259471,
+        "quantile": 0.3
+      }
+    ]
+  },
+  "calibration": {
+    "bins": [
+      {
+        "lower": 0.0,
+        "upper": 0.1,
+        "count": 11,
+        "mean_confidence": 0.0,
+        "accuracy": 0.7272727272727273,
+        "gap": 0.7272727272727273
+      },
+      {
+        "lower": 0.1,
+        "upper": 0.2,
+        "count": 23,
+        "mean_confidence": 0.12435300177159626,
+        "accuracy": 0.391304347826087,
+        "gap": 0.2669513460544907
+      },
+      {
+        "lower": 0.2,
+        "upper": 0.30000000000000004,
+        "count": 25,
+        "mean_confidence": 0.2449186624037091,
+        "accuracy": 0.52,
+        "gap": 0.27508133759629094
+      },
+      {
+        "lower": 0.30000000000000004,
+        "upper": 0.4,
+        "count": 27,
+        "mean_confidence": 0.35835739835078606,
+        "accuracy": 0.6296296296296297,
+        "gap": 0.2712722312788436
+      },
+      {
+        "lower": 0.4,
+        "upper": 0.5,
+        "count": 18,
+        "mean_confidence": 0.4621171572600098,
+        "accuracy": 0.7777777777777778,
+        "gap": 0.315660620517768
+      },
+      {
+        "lower": 0.5,
+        "upper": 0.6000000000000001,
+        "count": 18,
+        "mean_confidence": 0.5545997223493823,
+        "accuracy": 0.6666666666666666,
+        "gap": 0.11206694431728437
+      },
+      {
+        "lower": 0.6000000000000001,
+        "upper": 0.7000000000000001,
+        "count": 17,
+        "mean_confidence": 0.6351489523872873,
+        "accuracy": 0.6470588235294118,
+        "gap": 0.011909871142124495
+      },
+      {
+        "lower": 0.7000000000000001,
+        "upper": 0.8,
+        "count": 42,
+        "mean_confidence": 0.7245086582291724,
+        "accuracy": 0.7380952380952381,
+        "gap": 0.013586579866065707
+      },
+      {
+        "lower": 0.8,
+        "upper": 0.9,
+        "count": 64,
+        "mean_confidence": 0.840941838570298,
+        "accuracy": 0.640625,
+        "gap": 0.20031683857029803
+      },
+      {
+        "lower": 0.9,
+        "upper": 1.0,
+        "count": 10842,
+        "mean_confidence": 0.9990793103137573,
+        "accuracy": 0.9364508393285371,
+        "gap": 0.06262847098522017
+      }
+    ],
+    "expected_calibration_error": 0.06572126139305198,
+    "max_calibration_error": 0.7272727272727273,
+    "brier_score": 0.06791490730634052
+  },
+  "discrimination": {
+    "auroc_error_detection": 0.6593502420452243,
+    "aurc": 0.04414076553246194,
+    "risk_coverage_curve": [
+      {
+        "coverage": 0.1,
+        "selective_risk": 0.028854824165915238
+      },
+      {
+        "coverage": 0.2,
+        "selective_risk": 0.03924221921515562
+      },
+      {
+        "coverage": 0.3,
+        "selective_risk": 0.04630186410102225
+      },
+      {
+        "coverage": 0.4,
+        "selective_risk": 0.045546786922209696
+      },
+      {
+        "coverage": 0.5,
+        "selective_risk": 0.047619047619047616
+      },
+      {
+        "coverage": 0.6,
+        "selective_risk": 0.04630186410102225
+      },
+      {
+        "coverage": 0.7,
+        "selective_risk": 0.04664347377915217
+      },
+      {
+        "coverage": 0.8,
+        "selective_risk": 0.04746335963923337
+      },
+      {
+        "coverage": 0.9,
+        "selective_risk": 0.047504509921828024
+      },
+      {
+        "coverage": 1.0,
+        "selective_risk": 0.07017227383422026
+      }
+    ]
+  },
+  "breakdowns": {
+    "by_dimension": {
+      "budget_funding_sources": {
+        "pairs": 990,
+        "errors": 47,
+        "mean_confidence": 0.9984067199161859,
+        "flagged": 4,
+        "errors_captured": 2,
+        "coverage_rate": 0.0425531914893617,
+        "precision": 0.5
+      },
+      "institutional_mechanism": {
+        "pairs": 1187,
+        "errors": 121,
+        "mean_confidence": 0.9812715381914181,
+        "flagged": 43,
+        "errors_captured": 17,
+        "coverage_rate": 0.14049586776859505,
+        "precision": 0.3953488372093023
+      },
+      "intersectional_approach": {
+        "pairs": 2574,
+        "errors": 153,
+        "mean_confidence": 0.9937993011030632,
+        "flagged": 34,
+        "errors_captured": 11,
+        "coverage_rate": 0.0718954248366013,
+        "precision": 0.3235294117647059
+      },
+      "primary_prevention": {
+        "pairs": 792,
+        "errors": 122,
+        "mean_confidence": 0.9612497210763737,
+        "flagged": 56,
+        "errors_captured": 22,
+        "coverage_rate": 0.18032786885245902,
+        "precision": 0.39285714285714285
+      },
+      "scope_of_violence": {
+        "pairs": 1980,
+        "errors": 134,
+        "mean_confidence": 0.9941100573256935,
+        "flagged": 26,
+        "errors_captured": 12,
+        "coverage_rate": 0.08955223880597014,
+        "precision": 0.46153846153846156
+      },
+      "specialised_support_services": {
+        "pairs": 1980,
+        "errors": 120,
+        "mean_confidence": 0.9852760568956698,
+        "flagged": 61,
+        "errors_captured": 18,
+        "coverage_rate": 0.15,
+        "precision": 0.29508196721311475
+      },
+      "stakeholder_engagement": {
+        "pairs": 1584,
+        "errors": 81,
+        "mean_confidence": 0.9926130304769168,
+        "flagged": 21,
+        "errors_captured": 7,
+        "coverage_rate": 0.08641975308641975,
+        "precision": 0.3333333333333333
+      }
+    },
+    "by_error_type": {
+      "false_positive": {
+        "errors": 390,
+        "errors_captured": 27,
+        "coverage_rate": 0.06923076923076923,
+        "mean_confidence": 0.9591376661098838
+      },
+      "false_negative": {
+        "errors": 388,
+        "errors_captured": 62,
+        "coverage_rate": 0.15979381443298968,
+        "mean_confidence": 0.9181590462567198
+      }
+    }
+  },
+  "flagged_sample": [
+    {
+      "filename": "JAMBI_SAROLANGUN.txt",
+      "indicator_id": "2.2",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_BEKASI_KOTA_v2.txt",
+      "indicator_id": "6.3",
+      "dimension": "intersectional_approach",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TIMUR_BLITAR.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TIMUR_BLITAR.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TIMUR_JEMBER.txt",
+      "indicator_id": "5.5",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TIMUR_JOMBANG.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TIMUR_MAGETAN.txt",
+      "indicator_id": "5.5",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "LAMPUNG_LAMPUNG_TIMUR.txt",
+      "indicator_id": "2.4",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "NUSA_TENGGARA_TIMUR_SIKKA.txt",
+      "indicator_id": "6.1",
+      "dimension": "intersectional_approach",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_BARAT_BUKITTINGGI_KOTA.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
+      "indicator_id": "3.10",
+      "dimension": "specialised_support_services",
+      "confidence": 0.0,
+      "p_yes": 0.5,
+      "p_no": 0.5,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_SUMEDANG.txt",
+      "indicator_id": "5.4",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.12435300177159614,
+      "p_yes": 0.5621765008857981,
+      "p_no": 0.43782349911420193,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "LAMPUNG_PESAWARAN.txt",
+      "indicator_id": "3.5",
+      "dimension": "specialised_support_services",
+      "confidence": 0.12435300177159614,
+      "p_yes": 0.43782349911420193,
+      "p_no": 0.5621765008857981,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "MALUKU_SERAM_BAGIAN_BARAT.txt",
+      "indicator_id": "1.1",
+      "dimension": "scope_of_violence",
+      "confidence": 0.12435300177159614,
+      "p_yes": 0.5621765008857981,
+      "p_no": 0.43782349911420193,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "BALI_TABANAN.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.4378234991142019,
+      "p_no": 0.5621765008857981,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_BARAT_BEKASI_KOTA.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.4378234991142019,
+      "p_no": 0.5621765008857981,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TENGAH_SEMARANG_KOTA_v2.txt",
+      "indicator_id": "4.3",
+      "dimension": "primary_prevention",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.5621765008857981,
+      "p_no": 0.4378234991142019,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TIMUR_MALANG_KOTA.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.4378234991142019,
+      "p_no": 0.5621765008857981,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "KALIMANTAN_TENGAH_LAMANDAU.txt",
+      "indicator_id": "2.3",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.5621765008857981,
+      "p_no": 0.4378234991142019,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.4378234991142019,
+      "p_no": 0.5621765008857981,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "SULAWESI_BARAT_PASANGKAYU.txt",
+      "indicator_id": "2.3",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.4378234991142019,
+      "p_no": 0.5621765008857981,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "SULAWESI_TENGAH_TOLI_TOLI.txt",
+      "indicator_id": "1.1",
+      "dimension": "scope_of_violence",
+      "confidence": 0.1243530017715962,
+      "p_yes": 0.4378234991142019,
+      "p_no": 0.5621765008857981,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "GORONTALO_POHUWATO.txt",
+      "indicator_id": "3.3",
+      "dimension": "specialised_support_services",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.5621765008857982,
+      "p_no": 0.43782349911420193,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TENGAH_SURAKARTA_KOTA.txt",
+      "indicator_id": "4.3",
+      "dimension": "primary_prevention",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.43782349911420193,
+      "p_no": 0.5621765008857982,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TIMUR_BOJONEGORO.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.5621765008857982,
+      "p_no": 0.43782349911420193,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "LAMPUNG_PESAWARAN.txt",
+      "indicator_id": "3.10",
+      "dimension": "specialised_support_services",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.5621765008857982,
+      "p_no": 0.43782349911420193,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "NUSA_TENGGARA_TIMUR_MANGGARAI.txt",
+      "indicator_id": "5.6",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.43782349911420193,
+      "p_no": 0.5621765008857982,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SULAWESI_TENGAH_TOLI_TOLI.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.43782349911420193,
+      "p_no": 0.5621765008857982,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SULAWESI_TENGGARA_BUTON.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.43782349911420193,
+      "p_no": 0.5621765008857982,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt",
+      "indicator_id": "4.1",
+      "dimension": "primary_prevention",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.4378234991142018,
+      "p_no": 0.5621765008857981,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt",
+      "indicator_id": "5.4",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.5621765008857981,
+      "p_no": 0.4378234991142018,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
+      "indicator_id": "6.5",
+      "dimension": "intersectional_approach",
+      "confidence": 0.12435300177159625,
+      "p_yes": 0.4378234991142018,
+      "p_no": 0.5621765008857981,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_TIMUR_PASER.txt",
+      "indicator_id": "6.3",
+      "dimension": "intersectional_approach",
+      "confidence": 0.1243530017715963,
+      "p_yes": 0.4378234991142019,
+      "p_no": 0.5621765008857982,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "LAMPUNG_LAMPUNG_UTARA.txt",
+      "indicator_id": "3.2",
+      "dimension": "specialised_support_services",
+      "confidence": 0.1243530017715963,
+      "p_yes": 0.5621765008857982,
+      "p_no": 0.4378234991142019,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_BARAT_BEKASI_KOTA_v2.txt",
+      "indicator_id": "2.3",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.24491866240370908,
+      "p_yes": 0.3775406687981454,
+      "p_no": 0.6224593312018545,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TIMUR_BANYUWANGI.txt",
+      "indicator_id": "1.5",
+      "dimension": "scope_of_violence",
+      "confidence": 0.24491866240370908,
+      "p_yes": 0.3775406687981454,
+      "p_no": 0.6224593312018545,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TIMUR_PASURUAN.txt",
+      "indicator_id": "1.6",
+      "dimension": "scope_of_violence",
+      "confidence": 0.24491866240370908,
+      "p_yes": 0.6224593312018545,
+      "p_no": 0.3775406687981454,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "KALIMANTAN_SELATAN_TABALONG.txt",
+      "indicator_id": "2.3",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.24491866240370908,
+      "p_yes": 0.6224593312018545,
+      "p_no": 0.3775406687981454,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "MALUKU_UTARA_HALMAHERA_TIMUR.txt",
+      "indicator_id": "6.11",
+      "dimension": "intersectional_approach",
+      "confidence": 0.24491866240370908,
+      "p_yes": 0.3775406687981454,
+      "p_no": 0.6224593312018545,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_INDRAMAYU.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.37754066879814546,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_KARAWANG.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.37754066879814546,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_MAJALENGKA.txt",
+      "indicator_id": "2.6",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.37754066879814546,
+      "p_no": 0.6224593312018546,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TENGAH_BOYOLALI.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.37754066879814546,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.37754066879814546,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "KALIMANTAN_SELATAN_KOTABARU.txt",
+      "indicator_id": "4.1",
+      "dimension": "primary_prevention",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.37754066879814546,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_TENGAH_SUKAMARA.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.37754066879814546,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt",
+      "indicator_id": "5.4",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.37754066879814546,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "SULAWESI_SELATAN_TANA_TORAJA.txt",
+      "indicator_id": "1.5",
+      "dimension": "scope_of_violence",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.37754066879814546,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "SULAWESI_SELATAN_TANA_TORAJA.txt",
+      "indicator_id": "3.8",
+      "dimension": "specialised_support_services",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.37754066879814546,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SULAWESI_TENGGARA_BUTON_SELATAN.txt",
+      "indicator_id": "4.3",
+      "dimension": "primary_prevention",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.37754066879814546,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "SULAWESI_UTARA_BITUNG_KOTA.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.37754066879814546,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "SUMATERA_BARAT_DHARMASRAYA.txt",
+      "indicator_id": "5.4",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.24491866240370913,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.37754066879814546,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "DI_YOGYAKARTA_SLEMAN.txt",
+      "indicator_id": "5.6",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.2449186624037092,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.3775406687981454,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TENGAH_KEBUMEN.txt",
+      "indicator_id": "3.10",
+      "dimension": "specialised_support_services",
+      "confidence": 0.2449186624037092,
+      "p_yes": 0.3775406687981454,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TIMUR_BLITAR_KOTA.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.2449186624037092,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.3775406687981454,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_TENGAH_LAMANDAU.txt",
+      "indicator_id": "5.1",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.2449186624037092,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.3775406687981454,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.2449186624037092,
+      "p_yes": 0.3775406687981454,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "MALUKU_SERAM_BAGIAN_BARAT.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.2449186624037092,
+      "p_yes": 0.3775406687981454,
+      "p_no": 0.6224593312018546,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt",
+      "indicator_id": "1.1",
+      "dimension": "scope_of_violence",
+      "confidence": 0.2449186624037092,
+      "p_yes": 0.6224593312018546,
+      "p_no": 0.3775406687981454,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "LAMPUNG_PESISIR_BARAT.txt",
+      "indicator_id": "2.6",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.35835739835078584,
+      "p_yes": 0.320821300824607,
+      "p_no": 0.6791786991753929,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TENGAH_SALATIGA_KOTA.txt",
+      "indicator_id": "5.4",
+      "dimension": "stakeholder_engagement",
+      "confidence": 0.3583573983507859,
+      "p_yes": 0.3208213008246071,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "DI_YOGYAKARTA_BANTUL_v2.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TENGAH_SEMARANG.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TENGAH_WONOSOBO.txt",
+      "indicator_id": "1.6",
+      "dimension": "scope_of_violence",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TIMUR_SAMPANG.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_BARAT_KUBU_RAYA.txt",
+      "indicator_id": "1.1",
+      "dimension": "scope_of_violence",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.320821300824607,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt",
+      "indicator_id": "3.8",
+      "dimension": "specialised_support_services",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "LAMPUNG_TANGGAMUS.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt",
+      "indicator_id": "6.10",
+      "dimension": "intersectional_approach",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "SULAWESI_SELATAN_ENREKANG.txt",
+      "indicator_id": "6.3",
+      "dimension": "intersectional_approach",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.320821300824607,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SULAWESI_TENGAH_PARIGI_MOUTONG.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.320821300824607,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SULAWESI_TENGAH_SIGI.txt",
+      "indicator_id": "2.3",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.35835739835078595,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.320821300824607,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_BARAT_BANDUNG_BARAT.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_BARAT_GARUT.txt",
+      "indicator_id": "2.3",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_KARAWANG.txt",
+      "indicator_id": "1.5",
+      "dimension": "scope_of_violence",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_KARAWANG.txt",
+      "indicator_id": "4.1",
+      "dimension": "primary_prevention",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.32082130082460697,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TENGAH_BOYOLALI.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.32082130082460697,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TENGAH_KARANGANYAR_v2.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.32082130082460697,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_TENGAH_BARITO_TIMUR.txt",
+      "indicator_id": "4.1",
+      "dimension": "primary_prevention",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.32082130082460697,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_TIMUR_KUTAI_TIMUR.txt",
+      "indicator_id": "2.2",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.32082130082460697,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "NUSA_TENGGARA_BARAT_DOMPU.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.679178699175393,
+      "p_no": 0.32082130082460697,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt",
+      "indicator_id": "3.10",
+      "dimension": "specialised_support_services",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "SULAWESI_TENGGARA_MUNA_BARAT.txt",
+      "indicator_id": "4.1",
+      "dimension": "primary_prevention",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt",
+      "indicator_id": "7.3",
+      "dimension": "budget_funding_sources",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
+      "indicator_id": "6.11",
+      "dimension": "intersectional_approach",
+      "confidence": 0.358357398350786,
+      "p_yes": 0.32082130082460697,
+      "p_no": 0.679178699175393,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "GORONTALO_GORONTALO_UTARA.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.4621171572600097,
+      "p_yes": 0.7310585786300048,
+      "p_no": 0.2689414213699951,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_PANGANDARAN.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.4621171572600097,
+      "p_yes": 0.7310585786300048,
+      "p_no": 0.2689414213699951,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TENGAH_PEKALONGAN_KOTA.txt",
+      "indicator_id": "3.9",
+      "dimension": "specialised_support_services",
+      "confidence": 0.4621171572600097,
+      "p_yes": 0.7310585786300048,
+      "p_no": 0.2689414213699951,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_BARAT_SAMBAS.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.4621171572600097,
+      "p_yes": 0.7310585786300048,
+      "p_no": 0.2689414213699951,
+      "pred_label": "Yes",
+      "golden_label": "No",
+      "correct": false
+    },
+    {
+      "filename": "SULAWESI_BARAT_MAMUJU.txt",
+      "indicator_id": "6.7",
+      "dimension": "intersectional_approach",
+      "confidence": 0.4621171572600097,
+      "p_yes": 0.2689414213699951,
+      "p_no": 0.7310585786300048,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.4621171572600097,
+      "p_yes": 0.2689414213699951,
+      "p_no": 0.7310585786300048,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.46211715726000974,
+      "p_yes": 0.26894142136999516,
+      "p_no": 0.7310585786300049,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "KALIMANTAN_UTARA_NUNUKAN.txt",
+      "indicator_id": "4.2",
+      "dimension": "primary_prevention",
+      "confidence": 0.46211715726000974,
+      "p_yes": 0.7310585786300049,
+      "p_no": 0.26894142136999516,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
+      "indicator_id": "4.4",
+      "dimension": "primary_prevention",
+      "confidence": 0.46211715726000974,
+      "p_yes": 0.26894142136999516,
+      "p_no": 0.7310585786300049,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "SUMATERA_SELATAN_PALEMBANG_KOTA.txt",
+      "indicator_id": "6.8",
+      "dimension": "intersectional_approach",
+      "confidence": 0.46211715726000974,
+      "p_yes": 0.26894142136999516,
+      "p_no": 0.7310585786300049,
+      "pred_label": "No",
+      "golden_label": "No",
+      "correct": true
+    },
+    {
+      "filename": "DI_YOGYAKARTA_BANTUL_v2.txt",
+      "indicator_id": "3.10",
+      "dimension": "specialised_support_services",
+      "confidence": 0.4621171572600098,
+      "p_yes": 0.7310585786300049,
+      "p_no": 0.2689414213699951,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_BARAT_CIREBON_KOTA.txt",
+      "indicator_id": "1.3",
+      "dimension": "scope_of_violence",
+      "confidence": 0.4621171572600098,
+      "p_yes": 0.2689414213699951,
+      "p_no": 0.7310585786300049,
+      "pred_label": "No",
+      "golden_label": "Yes",
+      "correct": false
+    },
+    {
+      "filename": "JAWA_TENGAH_BANYUMAS.txt",
+      "indicator_id": "2.5",
+      "dimension": "institutional_mechanism",
+      "confidence": 0.4621171572600098,
+      "p_yes": 0.7310585786300049,
+      "p_no": 0.2689414213699951,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    },
+    {
+      "filename": "JAWA_TENGAH_WONOSOBO.txt",
+      "indicator_id": "6.1",
+      "dimension": "intersectional_approach",
+      "confidence": 0.4621171572600098,
+      "p_yes": 0.7310585786300049,
+      "p_no": 0.2689414213699951,
+      "pred_label": "Yes",
+      "golden_label": "Yes",
+      "correct": true
+    }
+  ],
+  "methods": {
+    "logprobs": {
+      "pairs_scored": 11087,
+      "availability": 1.0,
+      "errors_in_scope": 778,
+      "notes": null,
+      "distribution": {
+        "mean": 0.9943033020019164,
+        "median": 0.9999732974756593,
+        "std": 0.04128914772753508,
+        "min": 0.22271092569991974,
+        "max": 1.0,
+        "percentiles": {
+          "p1": 0.7772485569382774,
+          "p5": 0.9975463500929327,
+          "p10": 0.9998664945083545,
+          "p25": 0.9999084514564487,
+          "p50": 0.9999732974756593,
+          "p75": 1.0,
+          "p90": 1.0
+        },
+        "mean_by_outcome": {
+          "correct": 0.9962346901672204,
+          "incorrect": 0.968711167559602
+        }
+      },
+      "coverage": {
+        "primary": {
+          "kind": "absolute",
+          "threshold": 0.9,
+          "flagged": 181,
+          "flagged_share": 0.016325426174799314,
+          "errors_captured": 66,
+          "coverage_rate": 0.08483290488431877,
+          "precision": 0.36464088397790057,
+          "lift": 5.1963669417262,
+          "remaining_errors": 712,
+          "accuracy_on_unflagged": 0.9347148358701632
+        },
+        "by_absolute_threshold": [
+          {
+            "kind": "absolute",
+            "threshold": 0.5,
+            "flagged": 16,
+            "flagged_share": 0.0014431315955623703,
+            "errors_captured": 6,
+            "coverage_rate": 0.007712082262210797,
+            "precision": 0.375,
+            "lift": 5.343991002570695,
+            "remaining_errors": 772,
+            "accuracy_on_unflagged": 0.9302682684491013
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.7,
+            "flagged": 87,
+            "flagged_share": 0.007847028050870388,
+            "errors_captured": 39,
+            "coverage_rate": 0.05012853470437018,
+            "precision": 0.4482758620689655,
+            "lift": 6.388219129509795,
+            "remaining_errors": 739,
+            "accuracy_on_unflagged": 0.9328181818181818
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.9,
+            "flagged": 181,
+            "flagged_share": 0.016325426174799314,
+            "errors_captured": 66,
+            "coverage_rate": 0.08483290488431877,
+            "precision": 0.36464088397790057,
+            "lift": 5.1963669417262,
+            "remaining_errors": 712,
+            "accuracy_on_unflagged": 0.9347148358701632
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.95,
+            "flagged": 245,
+            "flagged_share": 0.022097952557048797,
+            "errors_captured": 89,
+            "coverage_rate": 0.11439588688946016,
+            "precision": 0.363265306122449,
+            "lift": 5.176764073238551,
+            "remaining_errors": 689,
+            "accuracy_on_unflagged": 0.9364508393285371
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.99,
+            "flagged": 403,
+            "flagged_share": 0.0363488770632272,
+            "errors_captured": 147,
+            "coverage_rate": 0.18894601542416453,
+            "precision": 0.36476426799007444,
+            "lift": 5.1981252431953155,
+            "remaining_errors": 631,
+            "accuracy_on_unflagged": 0.9409397229502059
+          }
+        ],
+        "by_quantile": [
+          {
+            "kind": "quantile",
+            "threshold": 0.9975463500929327,
+            "flagged": 550,
+            "flagged_share": 0.04960764859745648,
+            "errors_captured": 193,
+            "coverage_rate": 0.2480719794344473,
+            "precision": 0.3509090909090909,
+            "lift": 5.00068006543585,
+            "remaining_errors": 585,
+            "accuracy_on_unflagged": 0.9444813514283003,
+            "quantile": 0.05
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.9998664945083545,
+            "flagged": 1101,
+            "flagged_share": 0.09930549291963561,
+            "errors_captured": 304,
+            "coverage_rate": 0.390745501285347,
+            "precision": 0.2761126248864669,
+            "lift": 3.9347823549052166,
+            "remaining_errors": 474,
+            "accuracy_on_unflagged": 0.9525335469657521,
+            "quantile": 0.1
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.9998855656301433,
+            "flagged": 1929,
+            "flagged_share": 0.17398755298998828,
+            "errors_captured": 337,
+            "coverage_rate": 0.43316195372750643,
+            "precision": 0.17470191809227578,
+            "lift": 2.4896146091119045,
+            "remaining_errors": 441,
+            "accuracy_on_unflagged": 0.9518453810875737,
+            "quantile": 0.2
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.9999122658117596,
+            "flagged": 3036,
+            "flagged_share": 0.2738342202579598,
+            "errors_captured": 397,
+            "coverage_rate": 0.5102827763496144,
+            "precision": 0.13076416337285904,
+            "lift": 1.863473366728648,
+            "remaining_errors": 381,
+            "accuracy_on_unflagged": 0.9526766861259471,
+            "quantile": 0.3
+          }
+        ]
+      },
+      "calibration": {
+        "bins": [
+          {
+            "lower": 0.0,
+            "upper": 0.1,
+            "count": 0,
+            "mean_confidence": null,
+            "accuracy": null,
+            "gap": null
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.2,
+            "count": 0,
+            "mean_confidence": null,
+            "accuracy": null,
+            "gap": null
+          },
+          {
+            "lower": 0.2,
+            "upper": 0.30000000000000004,
+            "count": 1,
+            "mean_confidence": 0.22271092569991974,
+            "accuracy": 1.0,
+            "gap": 0.7772890743000802
+          },
+          {
+            "lower": 0.30000000000000004,
+            "upper": 0.4,
+            "count": 1,
+            "mean_confidence": 0.3775081748031206,
+            "accuracy": 1.0,
+            "gap": 0.6224918251968794
+          },
+          {
+            "lower": 0.4,
+            "upper": 0.5,
+            "count": 14,
+            "mean_confidence": 0.4688950799371882,
+            "accuracy": 0.5714285714285714,
+            "gap": 0.10253349149138319
+          },
+          {
+            "lower": 0.5,
+            "upper": 0.6000000000000001,
+            "count": 20,
+            "mean_confidence": 0.5497443648773326,
+            "accuracy": 0.45,
+            "gap": 0.09974436487733257
+          },
+          {
+            "lower": 0.6000000000000001,
+            "upper": 0.7000000000000001,
+            "count": 51,
+            "mean_confidence": 0.6524756176300233,
+            "accuracy": 0.5686274509803921,
+            "gap": 0.08384816664963113
+          },
+          {
+            "lower": 0.7000000000000001,
+            "upper": 0.8,
+            "count": 35,
+            "mean_confidence": 0.7535096933560469,
+            "accuracy": 0.7142857142857143,
+            "gap": 0.03922397907033259
+          },
+          {
+            "lower": 0.8,
+            "upper": 0.9,
+            "count": 59,
+            "mean_confidence": 0.8493781618875783,
+            "accuracy": 0.711864406779661,
+            "gap": 0.1375137551079173
+          },
+          {
+            "lower": 0.9,
+            "upper": 1.0,
+            "count": 10906,
+            "mean_confidence": 0.9990756156666163,
+            "accuracy": 0.9347148358701632,
+            "gap": 0.06436077979645305
+          }
+        ],
+        "expected_calibration_error": 0.06498703065355822,
+        "max_calibration_error": 0.7772890743000802,
+        "brier_score": 0.06751814912134146
+      },
+      "discrimination": {
+        "auroc_error_detection": 0.6593260537314714,
+        "aurc": 0.04414204886413907,
+        "risk_coverage_curve": [
+          {
+            "coverage": 0.1,
+            "selective_risk": 0.028854824165915238
+          },
+          {
+            "coverage": 0.2,
+            "selective_risk": 0.03924221921515562
+          },
+          {
+            "coverage": 0.3,
+            "selective_risk": 0.04630186410102225
+          },
+          {
+            "coverage": 0.4,
+            "selective_risk": 0.045546786922209696
+          },
+          {
+            "coverage": 0.5,
+            "selective_risk": 0.047619047619047616
+          },
+          {
+            "coverage": 0.6,
+            "selective_risk": 0.04630186410102225
+          },
+          {
+            "coverage": 0.7,
+            "selective_risk": 0.04664347377915217
+          },
+          {
+            "coverage": 0.8,
+            "selective_risk": 0.04746335963923337
+          },
+          {
+            "coverage": 0.9,
+            "selective_risk": 0.047504509921828024
+          },
+          {
+            "coverage": 1.0,
+            "selective_risk": 0.07017227383422026
+          }
+        ]
+      },
+      "breakdowns": {
+        "by_dimension": {
+          "budget_funding_sources": {
+            "pairs": 990,
+            "errors": 47,
+            "mean_confidence": 0.9992035379369483,
+            "flagged": 3,
+            "errors_captured": 1,
+            "coverage_rate": 0.02127659574468085,
+            "precision": 0.3333333333333333
+          },
+          "institutional_mechanism": {
+            "pairs": 1187,
+            "errors": 121,
+            "mean_confidence": 0.9902197602602537,
+            "flagged": 33,
+            "errors_captured": 13,
+            "coverage_rate": 0.10743801652892562,
+            "precision": 0.3939393939393939
+          },
+          "intersectional_approach": {
+            "pairs": 2574,
+            "errors": 153,
+            "mean_confidence": 0.9968994588960637,
+            "flagged": 26,
+            "errors_captured": 7,
+            "coverage_rate": 0.0457516339869281,
+            "precision": 0.2692307692307692
+          },
+          "primary_prevention": {
+            "pairs": 792,
+            "errors": 122,
+            "mean_confidence": 0.9806245300189795,
+            "flagged": 44,
+            "errors_captured": 19,
+            "coverage_rate": 0.1557377049180328,
+            "precision": 0.4318181818181818
+          },
+          "scope_of_violence": {
+            "pairs": 1980,
+            "errors": 134,
+            "mean_confidence": 0.9969293640036494,
+            "flagged": 15,
+            "errors_captured": 8,
+            "coverage_rate": 0.05970149253731343,
+            "precision": 0.5333333333333333
+          },
+          "specialised_support_services": {
+            "pairs": 1980,
+            "errors": 120,
+            "mean_confidence": 0.9922320774972967,
+            "flagged": 45,
+            "errors_captured": 15,
+            "coverage_rate": 0.125,
+            "precision": 0.3333333333333333
+          },
+          "stakeholder_engagement": {
+            "pairs": 1584,
+            "errors": 81,
+            "mean_confidence": 0.9962278170223324,
+            "flagged": 15,
+            "errors_captured": 3,
+            "coverage_rate": 0.037037037037037035,
+            "precision": 0.2
+          }
+        },
+        "by_error_type": {
+          "false_positive": {
+            "errors": 390,
+            "errors_captured": 22,
+            "coverage_rate": 0.05641025641025641,
+            "mean_confidence": 0.9792502187405402
+          },
+          "false_negative": {
+            "errors": 388,
+            "errors_captured": 44,
+            "coverage_rate": 0.1134020618556701,
+            "mean_confidence": 0.9581177913725761
+          }
+        }
+      }
+    },
+    "margin": {
+      "pairs_scored": 11087,
+      "availability": 1.0,
+      "errors_in_scope": 778,
+      "notes": {
+        "counterpart_observed": 312,
+        "counterpart_bounded": 10775,
+        "counterpart_observed_share": 0.028141066113466222
+      },
+      "distribution": {
+        "mean": 0.9889081532529761,
+        "median": 0.9999465949513187,
+        "std": 0.07888689508544017,
+        "min": 0.0,
+        "max": 1.0,
+        "percentiles": {
+          "p1": 0.5545997223493824,
+          "p5": 0.9950927001858654,
+          "p10": 0.999732989016709,
+          "p25": 0.9998169029128974,
+          "p50": 0.9999465949513187,
+          "p75": 1.0,
+          "p90": 1.0
+        },
+        "mean_by_outcome": {
+          "correct": 0.9926971864764074,
+          "incorrect": 0.9387010279311852
+        }
+      },
+      "coverage": {
+        "primary": {
+          "kind": "absolute",
+          "threshold": 0.9,
+          "flagged": 245,
+          "flagged_share": 0.022097952557048797,
+          "errors_captured": 89,
+          "coverage_rate": 0.11439588688946016,
+          "precision": 0.363265306122449,
+          "lift": 5.176764073238551,
+          "remaining_errors": 689,
+          "accuracy_on_unflagged": 0.9364508393285371
+        },
+        "by_absolute_threshold": [
+          {
+            "kind": "absolute",
+            "threshold": 0.5,
+            "flagged": 104,
+            "flagged_share": 0.009380355371155407,
+            "errors_captured": 43,
+            "coverage_rate": 0.055269922879177376,
+            "precision": 0.41346153846153844,
+            "lift": 5.892092643859996,
+            "remaining_errors": 735,
+            "accuracy_on_unflagged": 0.9330783938814532
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.7,
+            "flagged": 139,
+            "flagged_share": 0.012537205736448093,
+            "errors_captured": 55,
+            "coverage_rate": 0.07069408740359898,
+            "precision": 0.39568345323741005,
+            "lift": 5.638743503911524,
+            "remaining_errors": 723,
+            "accuracy_on_unflagged": 0.9339605407380344
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.9,
+            "flagged": 245,
+            "flagged_share": 0.022097952557048797,
+            "errors_captured": 89,
+            "coverage_rate": 0.11439588688946016,
+            "precision": 0.363265306122449,
+            "lift": 5.176764073238551,
+            "remaining_errors": 689,
+            "accuracy_on_unflagged": 0.9364508393285371
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.95,
+            "flagged": 291,
+            "flagged_share": 0.02624695589429061,
+            "errors_captured": 105,
+            "coverage_rate": 0.13496143958868895,
+            "precision": 0.36082474226804123,
+            "lift": 5.141984469827472,
+            "remaining_errors": 673,
+            "accuracy_on_unflagged": 0.93766209707299
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.99,
+            "flagged": 475,
+            "flagged_share": 0.04284296924325787,
+            "errors_captured": 172,
+            "coverage_rate": 0.2210796915167095,
+            "precision": 0.36210526315789476,
+            "lift": 5.160232715464755,
+            "remaining_errors": 606,
+            "accuracy_on_unflagged": 0.9428948360346777
+          }
+        ],
+        "by_quantile": [
+          {
+            "kind": "quantile",
+            "threshold": 0.9950927001858654,
+            "flagged": 550,
+            "flagged_share": 0.04960764859745648,
+            "errors_captured": 193,
+            "coverage_rate": 0.2480719794344473,
+            "precision": 0.3509090909090909,
+            "lift": 5.00068006543585,
+            "remaining_errors": 585,
+            "accuracy_on_unflagged": 0.9444813514283003,
+            "quantile": 0.05
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.999732989016709,
+            "flagged": 1101,
+            "flagged_share": 0.09930549291963561,
+            "errors_captured": 304,
+            "coverage_rate": 0.390745501285347,
+            "precision": 0.2761126248864669,
+            "lift": 3.9347823549052166,
+            "remaining_errors": 474,
+            "accuracy_on_unflagged": 0.9525335469657521,
+            "quantile": 0.1
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.9997711312602866,
+            "flagged": 1929,
+            "flagged_share": 0.17398755298998828,
+            "errors_captured": 337,
+            "coverage_rate": 0.43316195372750643,
+            "precision": 0.17470191809227578,
+            "lift": 2.4896146091119045,
+            "remaining_errors": 441,
+            "accuracy_on_unflagged": 0.9518453810875737,
+            "quantile": 0.2
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.9998245316235193,
+            "flagged": 3036,
+            "flagged_share": 0.2738342202579598,
+            "errors_captured": 397,
+            "coverage_rate": 0.5102827763496144,
+            "precision": 0.13076416337285904,
+            "lift": 1.863473366728648,
+            "remaining_errors": 381,
+            "accuracy_on_unflagged": 0.9526766861259471,
+            "quantile": 0.3
+          }
+        ]
+      },
+      "calibration": {
+        "bins": [
+          {
+            "lower": 0.0,
+            "upper": 0.1,
+            "count": 11,
+            "mean_confidence": 0.0,
+            "accuracy": 0.7272727272727273,
+            "gap": 0.7272727272727273
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.2,
+            "count": 23,
+            "mean_confidence": 0.12435300177159626,
+            "accuracy": 0.391304347826087,
+            "gap": 0.2669513460544907
+          },
+          {
+            "lower": 0.2,
+            "upper": 0.30000000000000004,
+            "count": 25,
+            "mean_confidence": 0.2449186624037091,
+            "accuracy": 0.52,
+            "gap": 0.27508133759629094
+          },
+          {
+            "lower": 0.30000000000000004,
+            "upper": 0.4,
+            "count": 27,
+            "mean_confidence": 0.35835739835078606,
+            "accuracy": 0.6296296296296297,
+            "gap": 0.2712722312788436
+          },
+          {
+            "lower": 0.4,
+            "upper": 0.5,
+            "count": 18,
+            "mean_confidence": 0.4621171572600098,
+            "accuracy": 0.7777777777777778,
+            "gap": 0.315660620517768
+          },
+          {
+            "lower": 0.5,
+            "upper": 0.6000000000000001,
+            "count": 18,
+            "mean_confidence": 0.5545997223493823,
+            "accuracy": 0.6666666666666666,
+            "gap": 0.11206694431728437
+          },
+          {
+            "lower": 0.6000000000000001,
+            "upper": 0.7000000000000001,
+            "count": 17,
+            "mean_confidence": 0.6351489523872873,
+            "accuracy": 0.6470588235294118,
+            "gap": 0.011909871142124495
+          },
+          {
+            "lower": 0.7000000000000001,
+            "upper": 0.8,
+            "count": 42,
+            "mean_confidence": 0.7245086582291724,
+            "accuracy": 0.7380952380952381,
+            "gap": 0.013586579866065707
+          },
+          {
+            "lower": 0.8,
+            "upper": 0.9,
+            "count": 64,
+            "mean_confidence": 0.840941838570298,
+            "accuracy": 0.640625,
+            "gap": 0.20031683857029803
+          },
+          {
+            "lower": 0.9,
+            "upper": 1.0,
+            "count": 10842,
+            "mean_confidence": 0.9990793103137573,
+            "accuracy": 0.9364508393285371,
+            "gap": 0.06262847098522017
+          }
+        ],
+        "expected_calibration_error": 0.06572126139305198,
+        "max_calibration_error": 0.7272727272727273,
+        "brier_score": 0.06791490730634052
+      },
+      "discrimination": {
+        "auroc_error_detection": 0.6593502420452243,
+        "aurc": 0.04414076553246194,
+        "risk_coverage_curve": [
+          {
+            "coverage": 0.1,
+            "selective_risk": 0.028854824165915238
+          },
+          {
+            "coverage": 0.2,
+            "selective_risk": 0.03924221921515562
+          },
+          {
+            "coverage": 0.3,
+            "selective_risk": 0.04630186410102225
+          },
+          {
+            "coverage": 0.4,
+            "selective_risk": 0.045546786922209696
+          },
+          {
+            "coverage": 0.5,
+            "selective_risk": 0.047619047619047616
+          },
+          {
+            "coverage": 0.6,
+            "selective_risk": 0.04630186410102225
+          },
+          {
+            "coverage": 0.7,
+            "selective_risk": 0.04664347377915217
+          },
+          {
+            "coverage": 0.8,
+            "selective_risk": 0.04746335963923337
+          },
+          {
+            "coverage": 0.9,
+            "selective_risk": 0.047504509921828024
+          },
+          {
+            "coverage": 1.0,
+            "selective_risk": 0.07017227383422026
+          }
+        ]
+      },
+      "breakdowns": {
+        "by_dimension": {
+          "budget_funding_sources": {
+            "pairs": 990,
+            "errors": 47,
+            "mean_confidence": 0.9984067199161859,
+            "flagged": 4,
+            "errors_captured": 2,
+            "coverage_rate": 0.0425531914893617,
+            "precision": 0.5
+          },
+          "institutional_mechanism": {
+            "pairs": 1187,
+            "errors": 121,
+            "mean_confidence": 0.9812715381914181,
+            "flagged": 43,
+            "errors_captured": 17,
+            "coverage_rate": 0.14049586776859505,
+            "precision": 0.3953488372093023
+          },
+          "intersectional_approach": {
+            "pairs": 2574,
+            "errors": 153,
+            "mean_confidence": 0.9937993011030632,
+            "flagged": 34,
+            "errors_captured": 11,
+            "coverage_rate": 0.0718954248366013,
+            "precision": 0.3235294117647059
+          },
+          "primary_prevention": {
+            "pairs": 792,
+            "errors": 122,
+            "mean_confidence": 0.9612497210763737,
+            "flagged": 56,
+            "errors_captured": 22,
+            "coverage_rate": 0.18032786885245902,
+            "precision": 0.39285714285714285
+          },
+          "scope_of_violence": {
+            "pairs": 1980,
+            "errors": 134,
+            "mean_confidence": 0.9941100573256935,
+            "flagged": 26,
+            "errors_captured": 12,
+            "coverage_rate": 0.08955223880597014,
+            "precision": 0.46153846153846156
+          },
+          "specialised_support_services": {
+            "pairs": 1980,
+            "errors": 120,
+            "mean_confidence": 0.9852760568956698,
+            "flagged": 61,
+            "errors_captured": 18,
+            "coverage_rate": 0.15,
+            "precision": 0.29508196721311475
+          },
+          "stakeholder_engagement": {
+            "pairs": 1584,
+            "errors": 81,
+            "mean_confidence": 0.9926130304769168,
+            "flagged": 21,
+            "errors_captured": 7,
+            "coverage_rate": 0.08641975308641975,
+            "precision": 0.3333333333333333
+          }
+        },
+        "by_error_type": {
+          "false_positive": {
+            "errors": 390,
+            "errors_captured": 27,
+            "coverage_rate": 0.06923076923076923,
+            "mean_confidence": 0.9591376661098838
+          },
+          "false_negative": {
+            "errors": 388,
+            "errors_captured": 62,
+            "coverage_rate": 0.15979381443298968,
+            "mean_confidence": 0.9181590462567198
+          }
+        }
+      }
+    },
+    "verbalized": {
+      "pairs_scored": 11087,
+      "availability": 1.0,
+      "errors_in_scope": 778,
+      "notes": null,
+      "distribution": {
+        "mean": 0.8862027599891765,
+        "median": 0.9,
+        "std": 0.07632085212692392,
+        "min": 0.55,
+        "max": 1.0,
+        "percentiles": {
+          "p1": 0.65,
+          "p5": 0.74,
+          "p10": 0.78,
+          "p25": 0.86,
+          "p50": 0.9,
+          "p75": 0.94,
+          "p90": 0.97
+        },
+        "mean_by_outcome": {
+          "correct": 0.8925628091958483,
+          "incorrect": 0.8019280205655527
+        }
+      },
+      "coverage": {
+        "primary": {
+          "kind": "absolute",
+          "threshold": 0.9,
+          "flagged": 4094,
+          "flagged_share": 0.36926129701452154,
+          "errors_captured": 558,
+          "coverage_rate": 0.7172236503856041,
+          "precision": 0.13629702002931118,
+          "lift": 1.9423201299035644,
+          "remaining_errors": 220,
+          "accuracy_on_unflagged": 0.9685399685399685
+        },
+        "by_absolute_threshold": [
+          {
+            "kind": "absolute",
+            "threshold": 0.5,
+            "flagged": 0,
+            "flagged_share": 0.0,
+            "errors_captured": 0,
+            "coverage_rate": 0.0,
+            "precision": null,
+            "lift": null,
+            "remaining_errors": 778,
+            "accuracy_on_unflagged": 0.9298277261657797
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.7,
+            "flagged": 277,
+            "flagged_share": 0.024984215748173538,
+            "errors_captured": 123,
+            "coverage_rate": 0.15809768637532134,
+            "precision": 0.44404332129963897,
+            "lift": 6.32790270340501,
+            "remaining_errors": 655,
+            "accuracy_on_unflagged": 0.9394079555966698
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.9,
+            "flagged": 4094,
+            "flagged_share": 0.36926129701452154,
+            "errors_captured": 558,
+            "coverage_rate": 0.7172236503856041,
+            "precision": 0.13629702002931118,
+            "lift": 1.9423201299035644,
+            "remaining_errors": 220,
+            "accuracy_on_unflagged": 0.9685399685399685
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.95,
+            "flagged": 8498,
+            "flagged_share": 0.7664832686930639,
+            "errors_captured": 678,
+            "coverage_rate": 0.87146529562982,
+            "precision": 0.0797834784655213,
+            "lift": 1.1369658428627694,
+            "remaining_errors": 100,
+            "accuracy_on_unflagged": 0.9613750482811897
+          },
+          {
+            "kind": "absolute",
+            "threshold": 0.99,
+            "flagged": 10632,
+            "flagged_share": 0.9589609452511951,
+            "errors_captured": 775,
+            "coverage_rate": 0.9961439588688946,
+            "precision": 0.07289315274642588,
+            "lift": 1.0387742731357632,
+            "remaining_errors": 3,
+            "accuracy_on_unflagged": 0.9934065934065934
+          }
+        ],
+        "by_quantile": [
+          {
+            "kind": "quantile",
+            "threshold": 0.74,
+            "flagged": 552,
+            "flagged_share": 0.04978804004690178,
+            "errors_captured": 195,
+            "coverage_rate": 0.2506426735218509,
+            "precision": 0.3532608695652174,
+            "lift": 5.034194422711524,
+            "remaining_errors": 583,
+            "accuracy_on_unflagged": 0.9446606549596582,
+            "quantile": 0.05
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.78,
+            "flagged": 981,
+            "flagged_share": 0.08848200595291783,
+            "errors_captured": 322,
+            "coverage_rate": 0.4138817480719794,
+            "precision": 0.32823649337410804,
+            "lift": 4.677580979484237,
+            "remaining_errors": 456,
+            "accuracy_on_unflagged": 0.9548782901246784,
+            "quantile": 0.1
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.84,
+            "flagged": 2030,
+            "flagged_share": 0.18309732118697575,
+            "errors_captured": 458,
+            "coverage_rate": 0.5886889460154242,
+            "precision": 0.22561576354679802,
+            "lift": 3.2151696278192157,
+            "remaining_errors": 320,
+            "accuracy_on_unflagged": 0.9646682124323728,
+            "quantile": 0.2
+          },
+          {
+            "kind": "quantile",
+            "threshold": 0.86,
+            "flagged": 2637,
+            "flagged_share": 0.23784612609362316,
+            "errors_captured": 500,
+            "coverage_rate": 0.6426735218508998,
+            "precision": 0.18960940462646947,
+            "lift": 2.7020558728710373,
+            "remaining_errors": 278,
+            "accuracy_on_unflagged": 0.9671005917159763,
+            "quantile": 0.3
+          }
+        ]
+      },
+      "calibration": {
+        "bins": [
+          {
+            "lower": 0.0,
+            "upper": 0.1,
+            "count": 0,
+            "mean_confidence": null,
+            "accuracy": null,
+            "gap": null
+          },
+          {
+            "lower": 0.1,
+            "upper": 0.2,
+            "count": 0,
+            "mean_confidence": null,
+            "accuracy": null,
+            "gap": null
+          },
+          {
+            "lower": 0.2,
+            "upper": 0.30000000000000004,
+            "count": 0,
+            "mean_confidence": null,
+            "accuracy": null,
+            "gap": null
+          },
+          {
+            "lower": 0.30000000000000004,
+            "upper": 0.4,
+            "count": 0,
+            "mean_confidence": null,
+            "accuracy": null,
+            "gap": null
+          },
+          {
+            "lower": 0.4,
+            "upper": 0.5,
+            "count": 0,
+            "mean_confidence": null,
+            "accuracy": null,
+            "gap": null
+          },
+          {
+            "lower": 0.5,
+            "upper": 0.6000000000000001,
+            "count": 11,
+            "mean_confidence": 0.589090909090909,
+            "accuracy": 0.18181818181818182,
+            "gap": 0.4072727272727272
+          },
+          {
+            "lower": 0.6000000000000001,
+            "upper": 0.7000000000000001,
+            "count": 350,
+            "mean_confidence": 0.6598571428571428,
+            "accuracy": 0.6171428571428571,
+            "gap": 0.042714285714285705
+          },
+          {
+            "lower": 0.7000000000000001,
+            "upper": 0.8,
+            "count": 1196,
+            "mean_confidence": 0.7575752508361205,
+            "accuracy": 0.7650501672240803,
+            "gap": 0.007474916387959718
+          },
+          {
+            "lower": 0.8,
+            "upper": 0.9,
+            "count": 2537,
+            "mean_confidence": 0.8531139140717384,
+            "accuracy": 0.9471817106819078,
+            "gap": 0.0940677966101694
+          },
+          {
+            "lower": 0.9,
+            "upper": 1.0,
+            "count": 6993,
+            "mean_confidence": 0.932002002002002,
+            "accuracy": 0.9685399685399685,
+            "gap": 0.03653796653796648
+          }
+        ],
+        "expected_calibration_error": 0.047129972039325264,
+        "max_calibration_error": 0.4072727272727272,
+        "brier_score": 0.061148110399567066
+      },
+      "discrimination": {
+        "auroc_error_detection": 0.7444611878556711,
+        "aurc": 0.03494314979826596,
+        "risk_coverage_curve": [
+          {
+            "coverage": 0.1,
+            "selective_risk": 0.04328223624887286
+          },
+          {
+            "coverage": 0.2,
+            "selective_risk": 0.03969327920613441
+          },
+          {
+            "coverage": 0.3,
+            "selective_risk": 0.03457606734816596
+          },
+          {
+            "coverage": 0.4,
+            "selective_risk": 0.03314543404735062
+          },
+          {
+            "coverage": 0.5,
+            "selective_risk": 0.030483405483405484
+          },
+          {
+            "coverage": 0.6,
+            "selective_risk": 0.03096812988574865
+          },
+          {
+            "coverage": 0.7,
+            "selective_risk": 0.031052699394407936
+          },
+          {
+            "coverage": 0.8,
+            "selective_risk": 0.03393461104847802
+          },
+          {
+            "coverage": 0.9,
+            "selective_risk": 0.043395470034074964
+          },
+          {
+            "coverage": 1.0,
+            "selective_risk": 0.07017227383422026
+          }
+        ]
+      },
+      "breakdowns": {
+        "by_dimension": {
+          "budget_funding_sources": {
+            "pairs": 990,
+            "errors": 47,
+            "mean_confidence": 0.8918383838383839,
+            "flagged": 388,
+            "errors_captured": 28,
+            "coverage_rate": 0.5957446808510638,
+            "precision": 0.07216494845360824
+          },
+          "institutional_mechanism": {
+            "pairs": 1187,
+            "errors": 121,
+            "mean_confidence": 0.8624262847514742,
+            "flagged": 553,
+            "errors_captured": 100,
+            "coverage_rate": 0.8264462809917356,
+            "precision": 0.18083182640144665
+          },
+          "intersectional_approach": {
+            "pairs": 2574,
+            "errors": 153,
+            "mean_confidence": 0.8968842268842269,
+            "flagged": 896,
+            "errors_captured": 69,
+            "coverage_rate": 0.45098039215686275,
+            "precision": 0.07700892857142858
+          },
+          "primary_prevention": {
+            "pairs": 792,
+            "errors": 122,
+            "mean_confidence": 0.8003030303030303,
+            "flagged": 592,
+            "errors_captured": 118,
+            "coverage_rate": 0.9672131147540983,
+            "precision": 0.19932432432432431
+          },
+          "scope_of_violence": {
+            "pairs": 1980,
+            "errors": 134,
+            "mean_confidence": 0.9305858585858586,
+            "flagged": 319,
+            "errors_captured": 68,
+            "coverage_rate": 0.5074626865671642,
+            "precision": 0.21316614420062696
+          },
+          "specialised_support_services": {
+            "pairs": 1980,
+            "errors": 120,
+            "mean_confidence": 0.8869141414141413,
+            "flagged": 624,
+            "errors_captured": 99,
+            "coverage_rate": 0.825,
+            "precision": 0.15865384615384615
+          },
+          "stakeholder_engagement": {
+            "pairs": 1584,
+            "errors": 81,
+            "mean_confidence": 0.8697222222222222,
+            "flagged": 722,
+            "errors_captured": 76,
+            "coverage_rate": 0.9382716049382716,
+            "precision": 0.10526315789473684
+          }
+        },
+        "by_error_type": {
+          "false_positive": {
+            "errors": 390,
+            "errors_captured": 200,
+            "coverage_rate": 0.5128205128205128,
+            "mean_confidence": 0.8521794871794872
+          },
+          "false_negative": {
+            "errors": 388,
+            "errors_captured": 358,
+            "coverage_rate": 0.9226804123711341,
+            "mean_confidence": 0.7514175257731959
+          }
+        }
+      }
+    }
+  },
+  "method_comparison": [
+    {
+      "method": "verbalized",
+      "is_primary": false,
+      "description": "the judge's own stated certainty, requested as a response field",
+      "pairs_scored": 11087,
+      "availability": 1.0,
+      "auroc_error_detection": 0.7444611878556711,
+      "coverage_rate": 0.7172236503856041,
+      "precision": 0.13629702002931118,
+      "lift": 1.9423201299035644,
+      "expected_calibration_error": 0.047129972039325264,
+      "brier_score": 0.061148110399567066
+    },
+    {
+      "method": "margin",
+      "is_primary": true,
+      "description": "normalised gap between the winning and losing label from the answer token's top_logprobs; bounded rather than measured when the losing label falls outside the returned top-k",
+      "pairs_scored": 11087,
+      "availability": 1.0,
+      "auroc_error_detection": 0.6593502420452243,
+      "coverage_rate": 0.11439588688946016,
+      "precision": 0.363265306122449,
+      "lift": 5.176764073238551,
+      "expected_calibration_error": 0.06572126139305198,
+      "brier_score": 0.06791490730634052
+    },
+    {
+      "method": "logprobs",
+      "is_primary": false,
+      "description": "exp(summed logprob) of the tokens spelling the Yes/No answer",
+      "pairs_scored": 11087,
+      "availability": 1.0,
+      "auroc_error_detection": 0.6593260537314714,
+      "coverage_rate": 0.08483290488431877,
+      "precision": 0.36464088397790057,
+      "lift": 5.1963669417262,
+      "expected_calibration_error": 0.06498703065355822,
+      "brier_score": 0.06751814912134146
+    }
+  ]
+}

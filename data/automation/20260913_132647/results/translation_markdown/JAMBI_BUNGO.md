@@ -1,0 +1,647 @@
+# PROTECTION OF WOMEN IN BUNGO REGENCY
+
+REGENT OF BUNGO
+
+JAMBI PROVINCE
+
+# REGIONAL REGULATION OF BUNGO REGENCY
+
+NUMBER 7 OF 2022
+
+CONCERNING
+
+PROTECTION OF WOMEN IN BUNGO REGENCY
+
+BY THE GRACE OF ALMIGHTY GOD
+
+REGENT OF BUNGO,
+
+Considering:
+a. that every citizen including women has equal rights to obtain a sense of security and freedom from the state to carry out activities in various aspects of life as guaranteed in Pancasila and the 1945 Constitution of the Republic of Indonesia;
+b. that there is still much gender-based violence against women and violence that treats women disproportionately in various aspects of life so that there is a need for concrete guarantees of women's rights from the government as state administrator through regional government supported by various parties;
+c. that the Bungo Regency Government as regional government administrator does not yet have regional legal products to guarantee women's rights in various aspects of life in Bungo Regency so that regulations regarding the protection of women are needed as a legal basis;
+d. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation on the Protection of Women;
+
+In View of:
+
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+2. Law Number 12 of 1956 concerning the Establishment of Autonomous Regency Regions Within the Central Sumatra Provincial Region (State Gazette of the Republic of Indonesia of 1956 Number 25) as amended by Law Number 7 of 1965 concerning the Establishment of Second Level Region of Sarolangun Bangko and Second Level Region of Tanjung Jabung (State Gazette of the Republic of Indonesia of 1965 Number 50, Supplement to the State Gazette of the Republic of Indonesia Number 2755);
+3. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention On The Elimination Of All Forms Of Discrimination Against Women) (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia 3277);
+4. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+6. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635) as amended by Law Number 31 of 2014 concerning Amendment to Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2014 Number 293, Supplement to the State Gazette of the Republic of Indonesia Number 5602);
+7. Law Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+8. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82 Supplement to the State Gazette of the Republic of Indonesia Number 5234) as amended several times most recently by Law Number 13 of 2022 concerning the Second Amendment to Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);
+9. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+10. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia 5601);
+11. Law Number 12 of 2022 concerning the Criminal Act of Sexual Violence (State Gazette of the Republic of Indonesia of 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792);
+12. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+13. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);
+14. Regulation of the Minister of Women's Empowerment and Child Protection Number 2 of 2022 concerning Service Standards for the Protection of Women and Children (State News of the Republic of Indonesia of 2022 Number 85;
+15. Regional Regulation Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Bungo Regency of 2016 Number 5), as amended by Regional Regulation Number 12 of 2019 concerning Amendment to Regional Regulation Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Bungo Regency of 2019 Number 12);
+
+With Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF BUNGO REGENCY
+
+REGENT OF BUNGO
+
+DECIDES:
+
+To Establish:
+
+REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+1. Region is Bungo Regency.
+2. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.
+3. Regional Government is the Government of Bungo Regency. 4. Regent hereinafter referred to as Regent is the Regent of Bungo.
+5. Regional Apparatus is an auxiliary element of the Regent and DPRD in the administration of government affairs that are the authority of the region.
+6. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPAA is a Regional technical implementation unit established by the Regional Government in providing services for women who experience violence, discrimination, special protection, and other problems.
+7. Protection is a series of fulfillment of the rights of women victims of violence and discrimination starting from prevention, handling and empowerment efforts.
+8. Discrimination is any distinction, harassment or exclusion, whether direct or indirect, based on human differentiation on the basis of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that result in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.
+9. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.
+10. Violence against women is any act based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.
+11. Trafficking in Persons is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, use of violence, abduction, confinement, forgery, fraud and abuse of power or vulnerable position, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the country or between countries, for the purpose of exploitation or resulting in the person being exploited.
+12. Prevention is an effort made by the Regional Government to prevent acts of violence against women.
+13. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.
+14. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or similar others.
+15. Private is Non-Governmental Institutions, Business World and Mass Media.
+
+# CHAPTER II
+
+## PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+1. The Regional Government organizes the Protection of Women from violence.
+2. Protection as referred to in paragraph (1) is organized based on the principles of:
+a. humanity;
+b. justice and gender equality;
+c. non-discrimination;
+d. protection;
+e. respect for human rights; and
+f. best interests of women.
+
+#### Article 3
+
+The objectives of the Protection of Women by the Regional Government include:
+a. Preventing all forms of violence against women;
+b. Providing protection and services to women victims of gender-based violence; and
+c. Providing services for the recovery of physical, psychological and economic conditions of women victims of violence.
+
+# CHAPTER III
+
+## RIGHTS OF WOMEN
+
+## Part One
+
+General
+
+#### Article 4
+
+Every Woman has the right:
+a. Right to life;
+b. Right to have a family and offspring;
+C. Right to self-development;
+d. Right to obtain justice;
+e. Right to personal freedom; and
+f. Right to security.
+
+## Part Two
+
+Rights of Women Victims of Violence
+
+#### Article 5
+
+Every woman victim of violence has:
+a. Right to be respected for her dignity as a human being;
+b. Right to health and psychological recovery from the suffering experienced by the victim;
+c. Right to determine her own decision;
+d. Right to obtain information;
+e. Right to confidentiality;
+f. Right to social rehabilitation;
+g. Right to complaint handling;
+h. Right of the victim and her family to obtain facilities in the judicial process; and
+i. Right to assistance.
+
+# CHAPTER IV
+
+## FORMS OF VIOLENCE AGAINST WOMEN
+
+#### Article 6
+
+Violence as referred to in Article 2 paragraph (1) in the form of:
+a. Physical violence;
+b. Psychological violence;
+c. Sexual violence;
+d. Exploitation; and/or
+e. Neglect.
+
+#### Article 7
+
+1. Physical violence as referred to in Article 6 letter a is an act that results in pain accompanied by injury, wounds or disability to the body, miscarriage, fainting and/or causing death of women.
+2. Psychological violence as referred to in Article 6 letter b is an act that results in fear, loss of self-confidence, loss of ability to act, feeling of helplessness and/or psychological suffering to women.
+3. Sexual violence as referred to in Article 6 letter c includes:
+a. acts in the form of sexual harassment;
+b. forced sexual intercourse;
+c. forced unnatural sexual intercourse, and/or d. forced sexual intercourse with others for commercial purposes and or certain purposes.
+4. Exploitation as referred to in Article 6 letter d includes:
+a. acts of economic or sexual exploitation with the intention of benefiting oneself or others; and/or
+b. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial.
+
+# CHAPTER V
+
+## OBLIGATIONS AND RESPONSIBILITIES
+
+## Part One
+
+General
+
+#### Article 8
+
+Obligations and responsibilities for the protection of women in the Region are provided by:
+a. Regional Government; and
+b. Community.
+
+## Part Two
+
+Obligations And Responsibilities of the Regional Government
+
+#### Article 9
+
+1. The obligations and responsibilities of Regional Government in providing Protection for Women as referred to in Article 8 letter a include:  
+a. establishing policies for the protection of women;  
+b. implementing policies, protection, of women from acts of violence in accordance with the provisions of laws and regulations;  
+c. conducting protection cooperation for women;  
+d. providing infrastructure support for the protection of women;  
+e. allocating budget for protection and empowerment of the implementation of women according to the financial capacity of the Region; and  
+f. fostering and supervising the protection of women.  
+2. In order to carry out the obligations and responsibilities as referred to in paragraph (1), the Regent establishes programs and activities for the protection of women in the Regional action plan as a basis for Regional Apparatus in implementing the protection of women.  
+3. The Regional action plan as referred to in paragraph (2) shall be included in the Regional Medium-Term Development Plan.  
+4. Further provisions regarding the Regional action plan as referred to in paragraph (2) shall be regulated by Regent Regulation.
+
+## Part Three
+
+Obligations and Responsibilities of the Community
+
+#### Article 10
+
+1. The obligations and responsibilities of the community as referred to in Article 9 letter b shall be carried out in the form of community participation.  
+2. Forms of participation as referred to in paragraph (1) include:  
+a. preventing the occurrence of acts of violence against women;  
+b. providing information and/or reporting acts of violence against women to law enforcement or authorized parties; and/or  
+c. participating in the handling of victims of violence.  
+3. Forms of participation as referred to in the paragraph shall be carried out responsibly in accordance with the provisions of laws and regulations.
+
+# CHAPTER VI
+
+## PROTECTION OF WOMEN
+
+## Part One
+
+General
+
+#### Article 11
+
+1. Protection of Women provided by the Regional Government includes:  
+a. prevention;  
+b. services;  
+c. empowerment; and  
+d. coordination of Protection of Women.  
+2. Protection of Women as referred to in paragraph (1) shall be carried out in an integrated manner by the Regional Government through Regional Apparatus that administers governmental affairs which are the authority of the Region in the field of women's empowerment.  
+3. Regional Apparatus that administers governmental affairs which are the authority of the Region in the field of women's empowerment in providing Protection of Women as referred to in paragraph (1) shall establish UPTD PPA.  
+4. Further provisions regarding UPTD PPAA as referred to in paragraph (3) shall be regulated by Regent Regulation.
+
+## Part Two
+
+Prevention
+
+#### Article 12
+
+1. Prevention as referred to in Article 11 paragraph (1) letter a shall be carried out by:  
+a. forming a cooperation network in prevention efforts from acts of violence with law enforcement apparatus, government apparatus, private sector, community and family;  
+b. conducting coordination, integration, synchronization of prevention of acts of violence based on partnership patterns that can involve the private sector, community and family;  
+c. conducting socialization regarding laws and regulations related to the protection of women's rights from acts of violence;  
+d. increasing the quantity and quality of education both formal and non-formal;  
+e. opening accessibility to obtain improved education, training, funding, income and social services;  
+f. providing critical education about women's rights to the community;  
+g. opening employment opportunities for women;  
+h. building community participation and awareness towards the prevention of protection of women from acts of violence;  
+i. building and providing a complete and easily accessible information system; and  
+j. opening complaint posts for the protection of women from acts of violence in every sub-district.  
+2. Prevention as referred to in paragraph (1) shall be carried out by coordinating with relevant Regional Apparatus and/or authorized agencies.
+
+## Part Three
+
+Services
+
+#### Article 13
+
+1. Services as referred to in Article 11 paragraph (1) letter b shall be carried out quickly, safely, comfortably, with empathy, non-discriminatory, easily accessible, free of charge, and guaranteed confidentiality.  
+2. Services as referred to in paragraph (1) include:  
+a. complaints, consultation, and counseling;  
+b. assistance;  
+c. health;  
+d. social rehabilitation;  
+e. legal and/or legal aid; and/or  
+f. repatriation and social reintegration.
+
+#### Article 14
+
+counseling as referred to in Article 13 paragraph (2) letter a includes:  
+a. Identification or initial recording of victims; and  
+b. Consent for action to be taken.
+
+#### Article 15
+
+1. Assistance as referred to in Article 13 paragraph (2) letter b includes:  
+a. accompanying victims during the examination and health recovery process;  
+b. accompanying victims during the medicolegal process;  
+c. accompanying victims during the examination process at the Police, Prosecutor's Office and court;  
+d. monitoring the interests and rights of victims in the examination process at the Police, Prosecutor's Office and Court;  
+e. maintaining the privacy and confidentiality of victims from all parties who have no interest, including coverage by mass media;  
+f. coordinating with other assistants;  
+g. providing continuous handling up to the rehabilitation stage.  
+2. Assistance as referred to in paragraph (1) is an activity and action carried out by assistants originating from individuals or representatives from institutions that have expertise in assisting victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.
+
+#### Article 16
+
+Health as referred to in Article 13 paragraph (2) letter c includes:  
+a. First aid to victims;  
+b. Treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical and paramedical personnel; and  
+c. Referral to health service facilities.
+
+#### Article 17
+
+1. Social rehabilitation as referred to in Article 13 paragraph (2) letter d includes:  
+a. providing spiritual guidance to victims; and  
+b. psychological recovery of victims.  
+2. Social rehabilitation as referred to in paragraph (1) is a service provided by assistants in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have confidence, strength, and independence in resolving their problems.
+
+#### Article 18
+
+Legal as referred to in Article 13 paragraph (2) letter e to assist victims in undergoing the judicial process by:  
+a. Providing legal consultation that includes information regarding the rights of victims and the judicial process;  
+b. Accompanying victims at the investigation, prosecution, and examination levels in court hearings and helping victims to fully describe the violence they experienced; and  
+c. Coordinating with fellow law enforcers, volunteer assistants, and social workers so that the judicial process proceeds as it should.
+
+#### Article 19
+
+1. Repatriation and social reintegration as referred to in Article 13 paragraph (2) letter f aims to return victims to their families and social environment.  
+2. Repatriation and social reintegration as referred to in paragraph (1) shall be carried out by the Regional Government in coordination with:  
+a. Regency/City Government within one provincial area or different provinces; and  
+b. related agencies and institutions both government and non-government.
+
+## Part Four
+
+Empowerment
+
+#### Article 20
+
+Protection of Women through empowerment as referred to in Article 11 paragraph (1) letter c includes:  
+a. Job training;  
+b. Productive economic enterprises and joint business groups;  
+c. Capital assistance.
+
+#### Article 21
+
+Job training as referred to in Article 20 letter a includes:  
+a. Skills training;  
+b. Field work practice; and  
+c. Apprenticeship.
+
+#### Article 22
+
+Productive economic enterprises and joint business groups as referred to in Article 20 letter b include:  
+a. Entrepreneurial skills training;  
+b. Facilitation of joint business group formation; and  
+c. Business implementation assistance.
+
+#### Article 23
+
+Capital assistance as referred to in Article 20 letter e includes:  
+a. Work facilities and infrastructure assistance; and  
+b. Working capital assistance facilitation.
+
+## Part Five
+
+Coordination of Women's Protection
+
+#### Article 24
+
+1. UPTD PPA as referred to in Article 11 paragraph (3) optimizes Women's Protection in the Region.  
+2. Optimization as referred to in paragraph (1) includes:  
+a. coordinating and synchronizing Women's Protection;  
+b. maintaining and developing networks and referral systems; and  
+c. collecting, compiling and presenting reports on violence.  
+3. Optimization of Women's Protection by UPTD PPA as referred to in paragraph (2) is implemented in accordance with the UPTD PPA code of ethics.  
+4. Further provisions regarding the code of ethics as referred to in paragraph (3) are regulated by Regent regulation.
+
+# CHAPTER VII
+
+## COOPERATION AND PARTNERSHIP
+
+## Part One
+
+Cooperation
+
+#### Article 25
+
+1. The Regional Government supports and facilitates UPTD PPA in conducting Women's Protection cooperation.  
+2. Cooperation as referred to in paragraph (1) is conducted with:  
+a. the central government;  
+b. other regency/city governments; and/or c. the Community.  
+3. Cooperation as referred to in paragraph (1) is conducted in accordance with statutory regulations.  
+
+## Part Two
+
+Partnership
+
+#### Article 26
+
+1. The Regional Government based on cooperation as referred to in Article 25 establishes partnerships in providing Women's Protection.  
+2. Partnership as referred to in paragraph (1) is conducted through:  
+a. provision of employment opportunity information for women victims of violence;  
+b. education and training for women victims of violence;  
+c. educational assistance for women victims of violence; and  
+d. fostering and increasing economic independence for women victims of violence.
+
+# CHAPTER VIII
+
+## GUIDANCE AND SUPERVISION
+
+## Part One
+
+General
+
+#### Article 27
+
+1. The Regent conducts guidance and supervision of the implementation of Women's Protection in the Region.  
+2. Guidance and supervision as referred to in paragraph (1) is conducted through:  
+a. information and reporting system; and  
+b. guidance and supervision team.
+
+## Part Two
+
+Information And Reporting System
+
+#### Article 28
+
+1. The Regional Government through UPTD PPA in conducting Women's Protection utilizes an information and reporting system.  
+2. The information and reporting system as referred to in paragraph (1) contains at least:  
+a. data on Women's Protection partners;  
+b. reporting of acts of violence against Women;  
+c. the process of implementing Women's Protection; and  
+d. Women's Protection activities.  
+3. Utilization of the information and reporting system as referred to in paragraph (1) is conducted in accordance with statutory regulations.
+
+## Part Three
+
+Guidance And Supervision Team
+
+#### Article 29
+
+1. The guidance and supervision team as referred to in Article 27 paragraph (2) letter b is established by the Regent.  
+2. The team as referred to in paragraph (1) is led by the head of the Regional Apparatus that administers governmental affairs that are the authority of the Region in the field of women's empowerment.  
+3. The team as referred to in paragraph (1) consists of at least:  
+a. Regional Apparatus that has the duty to assist the Regent in policy formulation and administrative coordination of the implementation of regional apparatus duties and administrative services;  
+b. Regional apparatus that has the duty to assist the Regent in guiding and supervising the implementation of governmental affairs that are the authority of the Region and Co-Administration Tasks;  
+c. Regional Apparatus that administers governmental affairs that are the authority of the Region in the field of health;  
+d. Regional Apparatus that administers governmental affairs that are the authority of the Region in the field of social affairs;  
+e. Regional Apparatus that administers governmental affairs that are the authority of the Region in the field of public order;  
+f. Prosecutor's Office of the Republic of Indonesia;  
+g. Police of the Republic of Indonesia; and  
+h. UPTD PPA.
+
+#### Article 30
+
+1. The team as referred to in Article 29 paragraph (1) is assisted by a secretariat.  
+2. The secretariat as referred to in paragraph (1) is led by the head of UPTD PPA.  
+3. The secretariat as referred to in paragraph (1) is located at UPTD PPA.  
+4. The guidance and supervision team as referred to in Article 29 paragraph (1) and the Secretariat as referred to in paragraph (1) are stipulated in a Regent's decree.
+
+# CHAPTER IX
+
+## FUNDING
+
+#### Article 31
+
+Funding for Women's Protection is sourced from:  
+a. State Revenue and Expenditure Budget;  
+b. Provincial Revenue and Expenditure Budget;  
+c. Regional Revenue and Expenditure Budget;  
+d. Other sources that are lawful and non-binding.
+
+# CHAPTER X
+
+## CLOSING PROVISIONS
+
+Implementing regulations
+
+#### Article 32
+
+This Regional Regulation must be stipulated no later than 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 33
+
+Utilization of the information and reporting system as referred to in Article 30 paragraph (1) is implemented no later than 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 34
+
+This Regional Regulation comes into force on the date of promulgation.  
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Bungo Regency.  
+
+Stipulated in Muara Bungo  
+
+on 28 DECEMBER 2007  
+
+REGENT OF BUNGO,  
+
+H. MASHURI  
+
+Promulgated in Muara Bungo   
+
+on 20 December 2022  
+
+REGIONAL SECRETARY OF BUNGO REGENCY,  
+
+MURSIDI  
+
+REGIONAL GAZETTE OF BUNGO REGENCY YEAR 2022 NUMBER 7  
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF BUNGO REGENCY JAMBI PROVINCE NUMBER 7-80/2022  
+
+HAS BEEN VERIFIED FOR ACCURACY, BY  
+
+KAGUBENG. 
+
+KABAG  
+
+HAS BEEN VERIFIED IN ACCORDANCE WITH PROVISIONS  
+
+SECRETARY OPAD  
+
+KASUBBAG H  
+
+KABAGH  
+
+TAUFIK HIDAYAT, SENN 117/08/0 20002 1005  
+
+DASM
+
+# ELUCIDATION OF REGIONAL REGULATION OF BUNGO REGENCY
+
+NUMBER YEAR 2022 CONCERNING WOMEN'S PROTECTION
+
+##### I. GENERAL
+
+Every citizen including women has equal rights to obtain a sense of security and freedom from the state to carry out activities in various aspects of life as guaranteed in Pancasila and the 1945 Constitution of the Republic of Indonesia. In reality, there is still much gender-based violence against women and violence that treats women disproportionately in various aspects of life, so there needs to be a guarantee of women's rights concretely from the government as the state administrator through regional governments supported by various parties. Thus the Bungo Regency Government as the regional government administrator does not yet have regional legal products in guaranteeing women's rights in various aspects of life in Bungo Regency, so it is necessary to establish regulations regarding women's protection as a legal basis so that women's rights in the Regency in Bungo Regency can be guaranteed in community and state life.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently Clear.
+
+#### Article 2
+
+Sufficiently Clear.
+
+#### Article 3
+
+Sufficiently Clear.
+
+#### Article 4
+
+Sufficiently Clear.
+
+#### Article 5
+
+Sufficiently Clear.
+
+#### Article 6
+
+Sufficiently Clear.
+
+#### Article 7
+
+Sufficiently Clear.
+
+#### Article 8
+
+Sufficiently Clear.
+
+#### Article 9
+
+Sufficiently Clear.
+
+#### Article 10
+
+Sufficiently Clear.
+
+#### Article 11
+
+Sufficiently Clear.
+
+#### Article 12
+
+Sufficiently Clear.
+
+#### Article 13
+
+Sufficiently Clear.
+
+#### Article 14
+
+Sufficiently Clear.
+
+#### Article 15
+
+Sufficiently Clear.
+
+#### Article 16
+
+Sufficiently Clear.
+
+#### Article 17
+
+Sufficiently Clear.
+
+#### Article 18
+
+Sufficiently Clear.
+
+#### Article 19
+
+Sufficiently Clear.
+
+#### Article 20
+
+Sufficiently Clear.
+
+#### Article 21
+
+Sufficiently Clear.
+
+#### Article 22
+
+Sufficiently Clear.
+
+#### Article 23
+
+Sufficiently Clear.
+
+#### Article 24
+
+Sufficiently Clear.
+
+#### Article 25
+
+Sufficiently Clear.
+
+#### Article 26
+
+Sufficiently Clear.
+
+#### Article 27
+
+Sufficiently Clear.
+
+#### Article 28
+
+Sufficiently Clear.
+
+#### Article 29
+
+Sufficiently Clear.
+
+#### Article 30
+
+Sufficiently Clear.
+
+#### Article 31
+
+Sufficiently Clear.
+
+#### Article 32
+
+Sufficiently Clear.
+
+#### Article 33
+
+Sufficiently Clear.
+
+#### Article 34
+
+Sufficiently Clear.  
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF BUNGO REGENCY NUMBER

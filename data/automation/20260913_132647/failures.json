@@ -1,0 +1,95 @@
+{
+  "updated_at": "2026-09-14T02:56:35.236034+00:00",
+  "translation": [
+    {
+      "filename": "JAWA_BARAT_BANDUNG_KOTA.cleaned.txt",
+      "policy_file": "JAWA_BARAT_BANDUNG_KOTA.cleaned.txt",
+      "error_type": "LostClause",
+      "message": "LOST 1 numbered clause(s): Article L; gained 27: Article 20, Article 22, Article 23, Article 24, Article 26 (+22 more); headings 95 -> 95; list items 277 -> 278",
+      "details": {
+        "step": "md_to_text",
+        "lost_clauses": [
+          "Article L"
+        ]
+      },
+      "attempts": 1,
+      "at": "2026-09-13T13:59:41.583924+00:00"
+    },
+    {
+      "filename": "KALIMANTAN_SELATAN_BALANGAN.cleaned.txt",
+      "policy_file": "KALIMANTAN_SELATAN_BALANGAN.cleaned.txt",
+      "error_type": "LostClause",
+      "message": "LOST 1 numbered clause(s): Article LL; gained 15: Article 2, Article 9, Article 10, Article 22, Article 2 (+10 more); headings 71 -> 71; list items 151 -> 161",
+      "details": {
+        "step": "md_to_text",
+        "lost_clauses": [
+          "Article LL"
+        ]
+      },
+      "attempts": 1,
+      "at": "2026-09-13T13:59:45.309405+00:00"
+    },
+    {
+      "filename": "SULAWESI_TENGAH_MOROWALI.cleaned.txt",
+      "policy_file": "SULAWESI_TENGAH_MOROWALI.cleaned.txt",
+      "error_type": "LostClause",
+      "message": "LOST 1 numbered clause(s): Article I; gained 1: Article 1; headings 99 -> 99; list items 198 -> 200",
+      "details": {
+        "step": "md_to_text",
+        "lost_clauses": [
+          "Article I"
+        ]
+      },
+      "attempts": 1,
+      "at": "2026-09-13T13:59:49.225327+00:00"
+    },
+    {
+      "filename": "SULAWESI_TENGGARA_BUTON_UTARA.cleaned.txt",
+      "policy_file": "SULAWESI_TENGGARA_BUTON_UTARA.cleaned.txt",
+      "error_type": "LostClause",
+      "message": "LOST 1 numbered clause(s): Chapter VIL; gained 2: Chapter III, Chapter VII; headings 85 -> 85; list items 172 -> 172",
+      "details": {
+        "step": "md_to_text",
+        "lost_clauses": [
+          "Chapter VIL"
+        ]
+      },
+      "attempts": 1,
+      "at": "2026-09-13T13:59:49.708418+00:00"
+    },
+    {
+      "filename": "SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.cleaned.txt",
+      "policy_file": "SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.cleaned.txt",
+      "error_type": "LostClause",
+      "message": "LOST 1 numbered clause(s): Chapter VILL; gained 1: Chapter VIII; headings 118 -> 118; list items 417 -> 422",
+      "details": {
+        "step": "md_to_text",
+        "lost_clauses": [
+          "Chapter VILL"
+        ]
+      },
+      "attempts": 1,
+      "at": "2026-09-13T13:59:51.341831+00:00"
+    },
+    {
+      "filename": "SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.cleaned.txt",
+      "policy_file": "SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.cleaned.txt",
+      "error_type": "LostClause",
+      "message": "LOST 2 numbered clause(s): Chapter LII, Chapter XLLL; gained 2: Chapter III, Chapter XIII; headings 95 -> 95; list items 356 -> 358",
+      "details": {
+        "step": "md_to_text",
+        "lost_clauses": [
+          "Chapter LII",
+          "Chapter XLLL"
+        ]
+      },
+      "attempts": 1,
+      "at": "2026-09-13T13:59:51.943087+00:00"
+    }
+  ],
+  "translation_qa": [],
+  "storage": [],
+  "evaluation": [],
+  "discrepancy_diagnosis": [],
+  "step_failures": []
+}
