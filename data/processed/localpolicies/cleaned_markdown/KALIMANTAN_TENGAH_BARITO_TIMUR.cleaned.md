@@ -1,12 +1,24 @@
-# BUPATI BARITO TIMUR  PROVINSI KALIMANTAN TENGAH  PERATURAN DAERAH KABUPATEN BARITO TIMUR  NOMOR S TAHUN 2019
+# PERLINDUNGAN PEREMPUAN DAN ANAK
+
+BUPATI BARITO TIMUR  
+
+PROVINSI KALIMANTAN TENGAH  
+
+# PERATURAN DAERAH KABUPATEN BARITO TIMUR 
+
+NOMOR 5 TAHUN 2019 
+
+TENTANG
 
 PERLINDUNGAN PEREMPUAN DAN ANAK
 
 DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-BUPATI BARITO TIMUR.
+BUPATI BARITO TIMUR
 
-Menimbang a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekerasan, eksploitasi, dan diskriminasi yang menyampingkan dan merendahkan derajatnya sebagai manusia;
+Menimbang 
+
+a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekerasan, eksploitasi, dan diskriminasi yang menyampingkan dan merendahkan derajatnya sebagai manusia;
 
 b. bahwa perilaku negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanan atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum seharusnya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap mampu menjalankan kehidupannya dalam pergaulan sosial;
 
@@ -14,7 +26,9 @@ c. bahwa Pemerintah Daerah berkewajiban untuk menyelenggarakan perlindungan pere
 
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;
 
-Mengingat 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+Mengingat :
+
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);
 
@@ -56,7 +70,7 @@ Mengingat 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tah
 
 Dengan Persetujuan Bersama
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BARITO TIMUR dan
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BARITO TIMUR dan
 
 BUPATI BARITO TIMUR
 
@@ -64,11 +78,11 @@ MEMUTUSKAN :
 
 Menetapkan : PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.
 
-BAB I
+# BAB I
 
 KETENTUAN UMUM
 
-Pasal 1
+### Pasal 1
 
 Dalam Peraturan Derah ini, yang dimaksud dengan :
 
@@ -136,9 +150,11 @@ Dalam Peraturan Derah ini, yang dimaksud dengan :
 
 32. Pelayanan Medikolegal adalah bentuk pelayanan kesehatan yang dilakukan oleh tenaga medis dengan menggunakan ilmu dan teknologi kedokteran atas dasar kewenangan yang dimiliki untuk kepentingan hukum dan untuk melaksanakan peraturan yang berlaku.
 
-## BAB II ASAS DAN TUJUAN
+# BAB II 
 
-## Pasal 2
+ASAS DAN TUJUAN
+
+#### Pasal 2
 
 (1) Penyelenggaraan perlindungan perempuan dan anak, dilaksanakan berdasarkan asas :
 
@@ -166,23 +182,21 @@ e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewu
 
 f. mengupayakan perolehan ganti rugi/kompensasi atas kerugian yang diderita korban dari pelaku kekerasan.
 
-## BAB III
+# BAB III
 
-## RUANG LINGKUP
+RUANG LINGKUP
 
-## Pasal 3
+#### Pasal 3
 
 (1) Perlindungan perempuan dan anak di daerah meliputi pencegahan, pelayanan, dan pemberdayaan terhadap korban kekerasan fisik, kekerasan psikis, kekerasan seksual, eksploitasi, perdagangan orang, dan penelantaran rumah tangga termasuk perilaku penyimpangan anak.
 
 (2) Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan kewajiban dan tanggungjawab bersama antara Pemerintah Daerah, masyarakat, keluarga, dan orang tua.
 
-## BAB IV
+# BAB IV
 
-## HAK-HAK PEREMPUAN DAN ANAK
+HAK-HAK PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-## KORBAN KEKERASAN
-
-## Pasal 4
+#### Pasal 4
 
 (1) Setiap perempuan dan anak yang menjadi korban kekerasan fisik, psikis, eksploitasi atau perdagangan orang berhak mendapatkan perlindungan dan pelayanan.
 
@@ -202,7 +216,7 @@ f. perlindungan oleh aparat penegak hukum;
 
 g. pemberian informasi seputar hak dan kewajiban hukum pada korban atau wali korban serta identifikasi kejadian;
 
-h. penanganan berkelanjutan sampai tahap Rehabilitasi;
+h. penanganan berkelanjutan sampai tahap rehabilitasi;
 
 i. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami korban kekerasan;
 
@@ -210,7 +224,7 @@ j. pendampingan secara psikologis untuk memulihkan kondisi traumatis korban dan 
 
 k. bantuan pendampingan untuk proses hukum dan perolehan hak ganti rugi atau kompensasi;
 
-1. atas pelayanan bimbingan rohani;
+l. atas pelayanan bimbingan rohani;
 
 m. menentukan sendiri keputusannya;
 
@@ -234,11 +248,11 @@ e. hak mendapatkan kebebasan; dan
 
 f. hak mendapatkan ganti kerugian dari pelaku.
 
-## BAB V
+# BAB V
 
-## KEWAJIBAN DAN TANGGUNG JAWAB
+KEWAJIBAN DAN TANGGUNG JAWAB
 
-## Pasal 5
+#### Pasal 5
 
 Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:
 
@@ -252,7 +266,7 @@ d. keluarga; dan
 
 e. orang tua.
 
-## Pasal 6
+#### Pasal 6
 
 Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a, meliputi:
 
@@ -260,9 +274,7 @@ a. melaksanakan kewajiban perlindungan perempuan dan anak dari tindak kekerasan 
 
 b. menetapkan kebijakan, program dan kegiatan perlindungan perempuan dan anak dari tindak kekerasan;
 
-c. melakukan kerjasama dalam penyelenggaraan perlindungan perempuan dan anak dari tindak
-
-kekerasan;
+c. melakukan kerjasama dalam penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;
 
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan perempuan dan anak dari tindak kekerasan;
 
@@ -274,7 +286,7 @@ g. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak dari ti
 
 h. membentuk unit pelaksana teknis daerah perlindungan perempuan dan anak berdasarkan ketentuan peraturan perundang-undangan.
 
-## Pasal 7
+#### Pasal 7
 
 (1) kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.
 
@@ -292,13 +304,15 @@ e. turut serta dalam penanganan korban tindak kekerasan.
 
 (3) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggungjawab sesuai ketentuan Peraturan Perundang-undangan.
 
-## Pasal 8
+#### Pasal 8
 
 Kewajiban keluarga dan/atau orangtua sebagaimana dimaksud dalam Pasal 5 huruf c dan huruf d, yang secara hukum memiliki tanggung jawab penuh untuk mencegah segala bentuk kekerasan dan melindungi perempuan dan anak sebagai anggota keluarga.
 
-# BAB VI KELEMBAGAAN
+# BAB VI 
 
-Pasal 9
+KELEMBAGAAN
+
+#### Pasal 9
 
 (1) Pemerintah Daerah wajib membentuk Unit Pelayanan Teknis terhadap perlindungan perempuan dan anak.
 
@@ -306,21 +320,23 @@ Pasal 9
 
 (3) Unit Pelayanan Teknis sebagaimana dimaksud pada ayat (1) dibentuk setelah Peraturan Daerah ini berlaku dan diatur dengan peraturan Bupati.
 
-# BAB VII PENCEGAHAN, PELAYANAN DAN PEMBERDAYAAN
+# BAB VII 
 
-Bagian Kesatu
+PENCEGAHAN, PELAYANAN DAN PEMBERDAYAAN
+
+## Bagian Kesatu
 
 Umum
 
-Pasal 10
+#### Pasal 10
 
 Pemerintah Daerah melalui Dinas atau unit pelayanan teknis dan PD, melaksanakan upaya pencegahan dan pelayanan terhadap korban perlakuan kekerasan, eksploitasi dan penelantaran Anak dan Perempuan sampai dengan pemberdayaan para korban untuk dapat kembali menjalankan kehidupannya sebagaimana harkat dan martabat yang dimilikinya.
 
-Bagian Kedua
+## Bagian Kedua
 
 Pencegahan Tindak Kekerasan, Eksploitasi dan Penelantaran Perempuan dan Anak
 
-Pasal 11
+#### Pasal 11
 
 (1) Bentuk pencegahan sebagaimana dimaksud dalam Pasal 10 dilakukan melalui:
 
@@ -342,25 +358,25 @@ g. penyuluhan/sosialisasi dalam bentuk penyadaran masyarakat luas hingga kelompo
 
 ## Bagian Ketiga
 
-## Pelayanan Pada Perempuan dan Anak yang  Mengalami Tindak Kekerasan, Eksploitasi dan  Penelantaran
+Pelayanan Pada Perempuan dan Anak yang  Mengalami Tindak Kekerasan, Eksploitasi dan  Penelantaran
 
-## Pasal 12
+#### Pasal 12
 
 (1) Bentuk pelayanan yang diberikan kepada perempuan dan anak korban tindak kekerasan, eksploitasi, perdagangan orang atau penelantaran dilaksanakan sesuai dengan hak-hak korban sebagaimana dimaksud dalam Pasal 4 ayat (2) dan ayat (3).
 
 (2) Untuk menunjang operasional dari UPTD Bupati memerintahkan kepada Dinas berkaitan dengan pelayanan sebagaimana dimaksud pada ayat (1) sesuai dengan standar pelayanan minimal yang ditetapkan pemerintah.
 
-## Pasal 13
+#### Pasal 13
 
 Pemerintah Daerah melalui Dinas/UPTD wajib menyusun standar operasional prosedur untuk Pendampingan terhadap korban kekerasan, eksploitasi, perdagangan atau penelantaran dalam setiap tahapan pemenuhan hak korban.
 
-## Pasal 14
+#### Pasal 14
 
 Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:
 
 a. non diskriminasi;
 
-b.	 cepat, aman, dan empati;
+b. cepat, aman, dan empati;
 
 c. koordinasi antar instansi pemerintah;
 
@@ -370,7 +386,7 @@ e. mudah dijangkau; dan
 
 f. tidak dipungut biaya.
 
-## Pasal 15
+#### Pasal 15
 
 Bentuk pelayanan terhadap hak perempuan dan anak dari tindak kekerasan meliputi:
 
@@ -388,13 +404,11 @@ f. pelayanan pemulangan dan reintegrasi sosial.
 
 ## Bagian Keempat
 
-## Pemberdayaan Korban Tindak Kekerasan
+Pemberdayaan Korban Tindak Kekerasan
 
-## Pasal 16
+#### Pasal 16
 
-(1) Pemerintah Daerah melalui Dinas/UPTD berkewajiban melakukan pemberdayaan di bidang ekonomi terhadap korban tindak kekerasan, eksploitasi dan/atau perdagangan atau
-
-penelantaran.
+(1) Pemerintah Daerah melalui Dinas/UPTD berkewajiban melakukan pemberdayaan di bidang ekonomi terhadap korban tindak kekerasan, eksploitasi dan/atau perdagangan atau penelantaran.
 
 (2) Bentuk pemberdayaan korban tindak kekerasan sebagaimana dimaksud pada ayat (1), meliputi:
 
@@ -410,23 +424,25 @@ e. mengupayakan penyediaan modal bagi korban tindak kekerasan; dan
 
 f. memperluas akses informasi dan mempromosikan hasil-hasil produk korban tindak kekerasan.
 
-## BAB VIII KERJASAMA DAN KEMITRAAN
+## BAB VIII 
+
+KERJASAMA DAN KEMITRAAN
 
 ## Bagian Kesatu
 
-## Kerjasama
+Kerjasama
 
-## Pasal 17
+#### Pasal 17
 
 (1) Kerjasama dilakukan untuk penguatan peran Dinas/UPTD dalam mencapai tujuan dari perlindungan perempuan dan anak di wilayah daerah.
 
 (2) Kerjasama dilakukan dengan :
 
-a. p e m e r i n t a h ;
+a. pemerintah;
 
-b. p e m e r i n t a h p r o v i n s i ;
+b. pemerintah provinsi;
 
-c. p e m e r i n t a h k a b u p a t e n / k o t a l a i n ;
+c. pemerintah kabupaten/kota lain;
 
 d. lembaga non pemerintah; dan
 
@@ -446,9 +462,9 @@ d. penyediaan barang bukti dan saksi, serta ditindaklanjuti berdasarkan ketentua
 
 ## Bagian Kedua
 
-## Kemitraan
+Kemitraan
 
-## Pasal 18
+#### Pasal 18
 
 (1) Pemerintah Daerah membentuk kemitraan dengan dunia usaha untuk dukungan penyelenggaraan perlindungan terhadap perempuan dan anak di wilayah daerah.
 
@@ -466,9 +482,9 @@ d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak keke
 
 ## BAB IX
 
-## PERAN SERTA MASYARAKAT
+PERAN SERTA MASYARAKAT
 
-## Pasal 19
+#### Pasal 19
 
 (1) Dalam menyelenggarakan perlindungan terhadap perempuan dan anak, masyarakat dapat:
 
@@ -486,9 +502,9 @@ e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi ke
 
 ## BAB X
 
-## RENCANA AKSI DAERAH
+RENCANA AKSI DAERAH
 
-## Pasal 20
+#### Pasal 20
 
 (1) Dalam rangka melaksanakan kewajiban dan tanggung jawab, pemerintah daerah menetapkan program dan kegiatan aksi perlindungan terhadap perempuan dan anak dalam 1 (satu) RAD sebagai dasar melaksanakan perlindungan terhadap perempuan dan anak dari tindak kekerasan.
 
@@ -498,21 +514,23 @@ e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi ke
 
 ## BAB XI
 
-## PEMBINAAN DAN PENGAWASAN
+PEMBINAAN DAN PENGAWASAN
 
-## Pasal 21
+#### Pasal 21
 
 (1) Bupati melakukan pembinaan dan pengawasan terhadap penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan.
 
 (2) Bupati dapat menunjuk Kepala Dinas untuk melakukan pembinaan dan pengawasan.
 
-## Pasal 22
+#### Pasal 22
 
 Masyarakat dapat melakukan pengawasan atas penyelenggaraan perlindungan perempuan dan anak di wilayah daerah dengan mekanisme penyampaian aspirasi kepada Bupati dan/atau DPRD.
 
-# BAB XII PENYIDIKAN
+## BAB XII 
 
-## Pasal 23
+PENYIDIKAN
+
+#### Pasal 23
 
 (1) Selain oleh pejabat penyidik umum, penyidikan atas tindak pidana kekerasan terhadap perempuan dan anak dalam Peraturan Daerah ini, dapat juga dilakukan oleh Penyidik Pegawai Negeri Sipil yang pengangkatannya sesuai dengan peraturan perundang-undangan.
 
@@ -538,19 +556,23 @@ i. melakukan tindakan lain yang perlu untuk kelancaran penyidikan tindak pidana 
 
 (3) Penyidik sebagaimana dimaksud pada ayat (2), memberitahukan dimulainya penyidikan dan menyampaikan hasil penyidikannya kepada penuntut umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Undang-Undang Hukum Acara Pidana.
 
-# BAB XIII KETENTUAN SANKSI
+# BAB XIII
 
-## Pasal 24
+KETENTUAN SANKSI
 
-(1) Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan anak sehingga menyebabkan terjadinya tindak kekerasan, membiarkan terjadinya tindak kekerasan, dan/atau tidak melaporkan dan tidak memberikan perlindungan terhadap korban, dikenakan sanksi sebagaimana diatur dalam Peraturan Perundang- undangan.
+#### Pasal 24
+
+(1) Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan anak sehingga menyebabkan terjadinya tindak kekerasan, membiarkan terjadinya tindak kekerasan, dan/atau tidak melaporkan dan tidak memberikan perlindungan terhadap korban, dikenakan sanksi sebagaimana diatur dalam Peraturan Perundang-undangan.
 
 (2) Apabila pejabat yang ditunjuk untuk menyelenggarakan perlindungan, tidak melaksanakan kewajiban dan tanggungjawabnya dikenakan sanksi sesuai ketentuan Peraturan Perundang-undangan.
 
 (3) Pejabat yang melaksanakan tugas pelayanan dan perlindungan terhadap Anak dan Perempuan dari tindak kekerasan, melanggar prinsip-prinsip pelayanan, dapat dikenakan sanksi sesuai dengan mekanisme internal organisasi.
 
-## BAB XIV KETENTUAN LAIN-LAIN
+# BAB XIV 
 
-## Pasal 25
+KETENTUAN LAIN-LAIN
+
+#### Pasal 25
 
 (1) Penanganan kasus hukum pada proses penyidikan oleh aparat penegak hukum harus ditangani oleh penyidik khusus yang telah ditetapkan sesuai kompetensinya oleh institusi penegakan hukum untuk bidang perlindungan perempuan dan anak.
 
@@ -564,15 +586,15 @@ c. pada kasus penyidikan untuk anak laki-laki korban kekerasan dapat dilakukan o
 
 d. Proses sidang tidak terbuka untuk umum.
 
-## Pasal 26
+#### Pasal 26
 
 Dalam hal proses persidangan terkait kasus kekerasan terhadap anak, keberadaan anak tidak mesti harus dihadirkan pada persidangan, kecuali keadaan yang sangat memaksa dengan tetap memisahkan pertemuan antara anak dengan pelaku dalam proses sidang yang berbeda waktunya.
 
-## Pasal 27
+#### Pasal 27
 
 Dalam hal pelaku tindak pidana adalah seorang anak, berlaku hal-hal sebagai berikut :
 
-a. proses hukum dilakukan secara manusia dengan memandang anak masih memiliki harapan kemasa depannya;
+a. proses hukum dilakukan secara manusia dengan memandang anak masih memiliki harapan ke masa depannya;
 
 b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak;
 
@@ -584,23 +606,27 @@ e. proses persidangan dilaksanakan secara khusus dalam ruang sidang pengadilan a
 
 f. proses penghukuman anak ditempatkan pada lembaga pemasyarakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.
 
-## Pasal 28
+#### Pasal 28
 
 Media pemberitaan tidak diperkenankan mengekspos pemberitaan untuk kasus yang menyangkut tentang anak korban kekerasan seksual dalam rangka menjaga identitas anak dan harapan hidupnya kemasa depan kecuali korban akibat kekerasan tersebut sampai kehilangan nyawanya.
 
-# BAB XV PENDANAAN
+# BAB XV 
 
-Pasal 29
+PENDANAAN
+
+#### Pasal 29
 
 Pengalokasian anggaran untuk perlindungan terhadap perempuan dan anak korban kekerasan yang dilakukan oleh Pemerintah Daerah bersumber dari Anggaran Pendapatan dan Belanja Daerah, dan/atau sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.
 
-## BAB XVI KETENTUAN PENUTUP
+# BAB XVI 
 
-Pasal 30
+KETENTUAN PENUTUP
+
+#### Pasal 30
 
 Pembentukan UPT sebagaimana dimaksud dalam pasal 9 ayat (3) harus dilaksanakan paling lama 1 (satu) tahun sejak ditetapkan Peraturan Daerah ini,
 
-Pasal 31
+#### Pasal 31
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
@@ -618,17 +644,15 @@ LEMBARAN DAERAH KABUPATEN BARITO TIMUR TAHUN 2019 NOMOR .50
 
 NOREG PERATURAN DAERAH KABUPATEN BARITO TIMUR, PROVINSI KALIMANTAN TENGAH : (04,50/2019)
 
-# PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BARITO TIMUR 
 
-# ATAS
+NOMOR 5. TAHUN 2019 
 
-# PERATURAN DAERAH KABUPATEN BARITO TIMUR NOMOR 5. TAHUN 2019
+TENTANG
 
-# TENTANG
+PERLINDUNGAN PEREMPUAN DAN ANAK
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK
-
-## I. UMUM
+#### I. UMUM
 
 Peran perempuan sangat penting karena merupakan ibu bangsa yang menjadi tonggak keluarga untuk membangun masa depan sumberdaya manusia dalam berbagai bidang termasuk pemberdayaan ekonomi keluarga, demikian pula dengan anak-anak yang merupakan generasi bangsa yang akan berperan dalam mengisi pembangunan dimasa mendatang.
 
@@ -638,9 +662,11 @@ Kekerasan tidak mungkin dihindari begitu saja, tetapi sedini mungkin dicegah jan
 
 Tindak kekerasan terhadap Anak dan Perempuan merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi. Selama ini peraturan perundang-undangan yang mengatur mengenai perlindungan Anak dan Perempuan korban kekerasan belum mengatur upaya-upaya perlindungan di Daerah sehingga diperlukan dukungan kelembagaan dan peraturan yang dapat menjamin pelaksanaannya. Peraturan Daerah mengatur upaya perlindungan bagi korban khususnya dalam hal pencegahan, pelayanan dan pemberdayaan terhadap Anak dan Perempuan korban kekerasan di Kabupaten Kotabaru. Sebagai salah satu upaya perlindungan Anak dan Perempuan dilakukan melalui pembinaan, pelatihan dan bantuan pada korban maupun keluarga korban kekerasan. Pemberdayaan ekonomi juga dilakukan guna pencegahan perempuan sebagai korban, yang dapat dilakukan dengan menumbuhkan dan mengembangkan usaha mikro dan kecil sesuai dengan potensi lokal. Untuk menumbuhkan usaha mikro dan kecil perlu peningkatan kapasitas dan kapabilitas perempuan melalui pendampingan dan pembinaan sehingga kaum perempuan termotivasi untuk memulai dan mengembangkan usahanya.
 
-# II. PASAL DEMI PASAL
+#### II. PASAL DEMI PASAL
 
-Pasal 1 Cukup jelas.
+Pasal 1 
+
+Cukup jelas.
 
 Pasal 2 Ayat (1)
 
@@ -686,9 +712,7 @@ b. tindakan dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbat
 
 c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan.
 
-Yang dimaksud dengan “perdagangan orang” adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan ancaman kekerasan, penggunaan kekerasan,
-
-pencilikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi.
+Yang dimaksud dengan “perdagangan orang” adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi.
 
 Yang dimaksud dengan “penelantaran Rumah Tangga” adalah:
 
@@ -778,42 +802,80 @@ Pasal 12
 
 Cukup jelas.
 
-Pasal 13 Cukup jelas.
+Pasal 13 
 
-Pasal 14 Cukup jelas.
+Cukup jelas.
 
-Pasal 15 Cukup jelas.
+Pasal 14 
 
-Pasal 16 Cukup jelas.
+Cukup jelas.
 
-Pasal 17 Cukup jelas.
+Pasal 15 
 
-Pasal 18 Cukup jelas.
+Cukup jelas.
 
-Pasal 19 Cukup jelas.
+Pasal 16 
 
-Pasal 20 Cukup jelas.
+Cukup jelas.
 
-Pasal 21 Cukup jelas.
+Pasal 17 
 
-Pasal 22 Cukup jelas.
+Cukup jelas.
 
-Pasal 23 Cukup jelas.
+Pasal 18 
 
-Pasal 24 Cukup jelas.
+Cukup jelas.
 
-Pasal 25 Cukup jelas.
+Pasal 19 
 
-Pasal 26 Cukup jelas.
+Cukup jelas.
 
-Pasal 27 Cukup jelas.
+Pasal 20 
 
-Pasal 28 Cukup jelas.
+Cukup jelas.
 
-Pasal 29 Cukup jelas.
+Pasal 21 
 
-Pasal 30 Cukup jelas.
+Cukup jelas.
 
-Pasal 31 Cukup jelas.
+Pasal 22 
 
-TAMBAHAN LEMBARAN DAERAH KABUPATEN BARITO TIMUR NOMOR .A2
+Cukup jelas.
+
+Pasal 23 
+
+Cukup jelas.
+
+Pasal 24 
+
+Cukup jelas.
+
+Pasal 25 
+
+Cukup jelas.
+
+Pasal 26 
+
+Cukup jelas.
+
+Pasal 27 
+
+Cukup jelas.
+
+Pasal 28 
+
+Cukup jelas.
+
+Pasal 29 
+
+Cukup jelas.
+
+Pasal 30 
+
+Cukup jelas.
+
+Pasal 31 
+
+Cukup jelas.
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BARITO TIMUR NOMOR 42
