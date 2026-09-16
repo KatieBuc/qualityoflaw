@@ -410,11 +410,13 @@ Pemberdayaan Perempuan
 
 ### Paragraf 1 
 
-Maksud Pemberdayaan Perempuan
+Maksud Pemberdayaan Perempuan 
+
+#### Pasal 17 
 
 Dalam rangka meningkatkan peran dan kedudukan serta kualitas Perempuan dalam berkeluarga dan bermasyarakat, Pemerintah Daerah melakukan pemberdayaan terhadap Perempuan.
 
-#### Pasal 18
+#### Pasal 18 
 
 Pemberdayaan Perempuan sebagaimana dimaksud dalam Pasal 17 dimaksudkan agar setiap Perempuan memiliki kemampuan dan kapasitas dalam meraih kemajuan dalam lapangan ekonomi, politik, sosial, budaya, dan hukum.
 
