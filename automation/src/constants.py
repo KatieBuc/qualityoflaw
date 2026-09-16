@@ -12,11 +12,29 @@ MARKDOWN_FALLBACK_PROMPT = (
 )
 DEFAULT_MANUAL_OVERWRITES = PROJECT_ROOT / "data" / "corrections" / "manual_overwrites.yaml"
 
+# The raw-OCR-text path's benchmark four -- `resolve_input_files` (.txt-only)
+# and `diagnose.py` (matches these exact filenames against the golden
+# dataframe) both need real files from `data/raw/localpolicies`, so this
+# stays pinned to that corpus regardless of which corpus `translation_md`
+# is pointed at. See `MARKDOWN_SMALL_SCALE_FILES` for the Markdown path's
+# equivalent, which can point at a different corpus's own benchmark files.
 SMALL_SCALE_FILES = [
     "ACEH_BIREUEN.txt",
     "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
     # "NUSA_TENGGARA_BARAT_DOMPU.txt",
-    "RIAU_PEKANBARU_KOTA.txt"
+    "RIAU_PEKANBARU_KOTA.txt",
+]
+
+# The Markdown path's `--small-scale` benchmark set. Deliberately separate
+# from `SMALL_SCALE_FILES`: the two paths can point at entirely different
+# corpora (e.g. the Indonesian localpolicies corpus vs. globallaws_markdown),
+# whose benchmark documents share no filenames at all. Only the stem is used
+# (`markdown.policy_files.SMALL_SCALE_STEMS`), so the extension here is
+# cosmetic -- match whatever `markdown_input_suffix` the corpus actually uses.
+MARKDOWN_SMALL_SCALE_FILES = [
+    "21. Bosnia and Herzegovina - DomViol - Bosnian (b).md",
+    "94. Latvia - DomViol - Latvian (a).md",
+    "121. New Zealand - DomViol - English.md",
 ]
 
 # The Markdown path is the default: the corpus in
@@ -25,20 +43,23 @@ SMALL_SCALE_FILES = [
 # renders the plain-text artifact everything downstream reads.
 DEFAULT_STEPS = (
     "translation_md",
-    # "translation_qa_md",
     "md_to_text",
     "storage",
     "evaluation",
     "comparison",
-    # "discrepancy_diagnosis",
 )
+
+# translation_qa_md and discrepancy_diagnosis stay out of the default chain
+# (extra QA pass / diagnosis cost isn't wanted on every run) but remain valid
+# --steps values so they can still be run explicitly.
+OPTIONAL_STEPS = ("translation_qa_md", "discrepancy_diagnosis")
 
 # The raw-OCR-text path (`translation`, `translation_qa`, `markdown`) is kept
 # runnable via --steps so the two can be compared on the same corpus, but is
 # no longer part of the default chain.
 LEGACY_TEXT_STEPS = ("translation", "translation_qa", "markdown")
 
-VALID_STEPS = DEFAULT_STEPS + LEGACY_TEXT_STEPS
+VALID_STEPS = DEFAULT_STEPS + OPTIONAL_STEPS + LEGACY_TEXT_STEPS
 
 STRUCTURE_HINT = (
     "Preserve the original paragraph and line structure where possible."

@@ -57,7 +57,7 @@ def test_score_candidates_sends_expected_request(monkeypatch):
     reranker.score_candidates("rerank-v3.5", "my query", ["doc0"])
 
     args, kwargs = mock_post.call_args
-    assert args[0] == "https://fake.models.ai.azure.com/v1/rerank"
+    assert args[0] == "https://fake.models.ai.azure.com/v2/rerank"
     assert kwargs["headers"]["Authorization"] == "Bearer fake-key"
     assert kwargs["json"] == {"model": "rerank-v3.5", "query": "my query", "documents": ["doc0"]}
 

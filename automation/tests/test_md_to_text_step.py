@@ -137,12 +137,18 @@ def test_source_and_translation_are_paired_when_structure_holds(tmp_path, data_r
     assert "Article 2" in records[1]["translated_text"]
 
 
-def test_a_lost_clause_is_reported_as_a_failure(tmp_path, data_root, run_dir):
+def test_a_lost_clause_is_logged_but_not_a_failure(tmp_path, data_root, run_dir):
+    # A genuine lost clause is informational only, same as any other
+    # structure change: `_clause_identity` no longer defends against every
+    # OCR artifact, and future amendment-style policies can legitimately
+    # have non-continuous or repeated numbering, so a clause-identity
+    # mismatch alone is no longer trusted as proof of real content loss.
     seed(run_dir, translated_md=TRANSLATED_MD.replace("#### Article 2\n\n", ""))
     result = run_md_to_text_step(RUN_ID, make_config(tmp_path, target_chars=8000))
 
     assert result["counts"]["succeeded"] == 1
-    assert result["counts"]["clauses_lost"] == 1
+    assert result["counts"]["clauses_lost"] == 0
+    assert result["counts"]["repaired"] == 1
 
     # The clause is gone, but the sections around it still pair by clause
     # anchor -- Article 3 to Pasal 3, not to Pasal 2.
@@ -151,11 +157,7 @@ def test_a_lost_clause_is_reported_as_a_failure(tmp_path, data_root, run_dir):
     assert "Pasal 3" in records[-1]["text"]
     assert all(r["translated_text"] for r in records)
 
-    failures = json.loads((run_dir / "failures.json").read_text(encoding="utf-8"))
-    entry = failures["translation"][0]
-    assert entry["filename"] == "ACEH_BIREUEN.txt"
-    assert entry["error_type"] == "LostClause"
-    assert entry["details"]["lost_clauses"] == ["Article 2"]
+    assert not (run_dir / "failures.json").exists()
 
 
 def test_a_translation_only_section_is_reported_but_not_a_lost_clause(tmp_path, data_root, run_dir):
@@ -210,8 +212,13 @@ def test_recovering_a_broken_heading_is_not_a_failure(tmp_path, data_root, run_d
 
 
 def test_a_resolved_failure_is_cleared_on_re_run(tmp_path, data_root, run_dir):
+    # SourceAlignmentPartial (unlike a lost clause) is still a recorded
+    # failure -- exercise clearing against that.
     config = make_config(tmp_path, target_chars=8000)
-    seed(run_dir, translated_md=TRANSLATED_MD.replace("#### Article 2\n\n", ""))
+    seed(
+        run_dir,
+        translated_md=TRANSLATED_MD + "\n#### Article 9\n\nAn added provision.\n",
+    )
     run_md_to_text_step(RUN_ID, config)
     assert json.loads((run_dir / "failures.json").read_text(encoding="utf-8"))["translation"]
 

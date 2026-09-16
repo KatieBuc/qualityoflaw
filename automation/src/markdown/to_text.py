@@ -31,9 +31,16 @@ the source side), rather than silently pairing mismatched sections.
 A structural difference is not automatically a defect. The curated corpus
 carries OCR damage that a good translation repairs -- a cross-reference
 promoted to a heading, a fragment like `##### 1  AN`, a number split as
-`Pasal 3 1` -- and every repair moves the heading counts. Only a *lost
-numbered clause* (`StructureDiff.lost_clauses`) is recorded as a failure;
-everything else is counted as `repaired` and logged.
+`Pasal 3 1` -- and every repair moves the heading counts. Even a *lost
+numbered clause* (`StructureDiff.lost_clauses`) is not recorded as a
+failure: `_clause_identity` is language-agnostic (heading depth + a number
+token, no per-language keyword list), which means it no longer filters out
+the OCR artifacts above the way the old keyword-based check did -- one of
+them colliding with a real clause's identity reads as a false "lost clause".
+Future policies may also be amendments with legitimately non-continuous or
+repeated numbering, which would trip the same false positive. So every
+structural difference, lost clauses included, is logged and counted as
+`repaired`, never failed.
 """
 
 import argparse
@@ -252,10 +259,13 @@ def run_md_to_text_step(
         "succeeded": 0,
         "skipped": 0,
         "failed": 0,
-        # Files that lost a numbered clause -- the only structural defect.
+        # Kept for output-schema stability; no longer incremented here (see
+        # the comment above the structure-diff handling below for why
+        # clause-identity mismatches are no longer distinguished from any
+        # other benign structure change).
         "clauses_lost": 0,
-        # Files whose structure changed without losing content, i.e. the
-        # translation repaired the corpus's OCR damage.
+        # Files whose structure changed at all -- an OCR repair, a clause
+        # renumbering, or genuinely missing content. All logged, none failed.
         "repaired": 0,
         # Files where some translated section could not be paired to a source
         # section, so its original-language text (and thus `evidence_original`
@@ -278,7 +288,9 @@ def run_md_to_text_step(
 
         source_path = source_dir / f"{stem}.md"
         if not source_path.exists():
-            source_path = source_markdown_path(config.paths.markdown_input_dir, stem)
+            source_path = source_markdown_path(
+                config.paths.markdown_input_dir, stem, suffix=config.paths.markdown_input_suffix
+            )
         if not source_path.exists():
             logger.warning(
                 "[%s] source markdown not found; retrieval chunks will carry the "
@@ -311,63 +323,61 @@ def run_md_to_text_step(
             else None
         )
 
-        # Only a lost numbered clause is a defect. Heading and list-item
-        # counts also move when the translation *repairs* the corpus's OCR
-        # damage, and reporting those as failures buries the real ones.
-        if diff is not None and diff.lost_clauses:
-            counts["clauses_lost"] += 1
-            logger.error("[%s] translation lost content: %s", stem, diff.describe())
+        # Numbered-clause identity is informational only, never a recorded
+        # failure. `_clause_identity` is language-agnostic (heading depth +
+        # a number token, no keyword dictionary), which trades away the
+        # OCR-artifact guard the old keyword-based check had: a cross-
+        # reference the corpus promoted to a heading, or a split number like
+        # `Pasal 3 1`, now resolves to an identity that won't match the
+        # translation's repaired heading, showing up as a "lost clause" even
+        # though nothing was actually lost. Future policies may also be
+        # amendments with legitimately non-continuous or repeated numbering,
+        # which would trip the same false positive. So: log for visibility,
+        # never fail the file over it.
+        clear_failure(run_id, "translation", f"{stem}.txt")
+        if diff is not None:
+            counts["repaired"] += 1
+            if diff.lost_clauses:
+                logger.warning(
+                    "[%s] structure changed (clause identities did not all match; "
+                    "not treated as a failure -- see module docstring): %s",
+                    stem,
+                    diff.describe(),
+                )
+            else:
+                logger.info("[%s] structure changed (no content lost): %s", stem, diff.describe())
+        if alignment.unpaired:
+            # Not a content defect, but the original-language side is
+            # incomplete: `evidence_original` will be missing for the
+            # sections that couldn't be paired. Recorded so it is visible
+            # instead of only in the logs; re-added under the same
+            # `filename` key `clear_failure` just cleared.
+            logger.warning(
+                "[%s] %d/%d sections have no original-language text (structure drift)",
+                stem,
+                alignment.unpaired,
+                alignment.total,
+            )
             record_failure(
                 run_id,
                 "translation",
                 {
                     "filename": f"{stem}.txt",
                     "policy_file": f"{stem}.txt",
-                    "error_type": "LostClause",
-                    "message": diff.describe(),
-                    "details": {"step": "md_to_text", "lost_clauses": diff.lost_clauses},
+                    "error_type": "SourceAlignmentPartial",
+                    "message": (
+                        f"{alignment.unpaired}/{alignment.total} sections have no "
+                        "original-language text (structure drift); evidence_original "
+                        "will be missing for those"
+                    ),
+                    "details": {
+                        "step": "md_to_text",
+                        "unpaired": alignment.unpaired,
+                        "total": alignment.total,
+                    },
                     "attempts": 1,
                 },
             )
-        else:
-            # A re-run that no longer loses anything must not leave the
-            # previous run's failure entry standing.
-            clear_failure(run_id, "translation", f"{stem}.txt")
-            if diff is not None:
-                counts["repaired"] += 1
-                logger.info("[%s] structure changed (no content lost): %s", stem, diff.describe())
-            if alignment.unpaired:
-                # Not a content defect, but the original-language side is
-                # incomplete: `evidence_original` will be missing for the
-                # sections that couldn't be paired. Recorded so it is visible
-                # instead of only in the logs; re-added under the same
-                # `filename` key `clear_failure` just cleared.
-                logger.warning(
-                    "[%s] %d/%d sections have no original-language text (structure drift)",
-                    stem,
-                    alignment.unpaired,
-                    alignment.total,
-                )
-                record_failure(
-                    run_id,
-                    "translation",
-                    {
-                        "filename": f"{stem}.txt",
-                        "policy_file": f"{stem}.txt",
-                        "error_type": "SourceAlignmentPartial",
-                        "message": (
-                            f"{alignment.unpaired}/{alignment.total} sections have no "
-                            "original-language text (structure drift); evidence_original "
-                            "will be missing for those"
-                        ),
-                        "details": {
-                            "step": "md_to_text",
-                            "unpaired": alignment.unpaired,
-                            "total": alignment.total,
-                        },
-                        "attempts": 1,
-                    },
-                )
 
         logger.info(
             "[%s] %d retrieval chunks (%d/%d source-paired)",

@@ -167,7 +167,11 @@ def test_an_unconverged_chunk_is_counted_not_discarded(policy):
 def test_a_changed_heading_count_is_not_reported_as_a_problem(tmp_path):
     # The DOMPU shape: the corpus promoted a cross-reference to a heading and
     # split the sentence around it. Demoting it back is a repair that drops
-    # the heading count by one, and must not be reported as a problem.
+    # the heading count by one. `_clause_identity` is language-agnostic (no
+    # per-language keyword list), so it no longer filters out this kind of
+    # OCR artifact -- the demoted "Pasal 28" now surfaces as an informational
+    # `lost_clauses` entry, but must still not be reported as a problem
+    # (no failure recorded, QA still converges cleanly).
     source = (
         "#### Pasal 34\n\nPelayanan rehabilitasi sosial sebagaimana dimaksud dalam  1)\n\n"
         "#### Pasal 28 ayat (1) huruf f, meliputi:\na. motivasi;"
@@ -199,7 +203,10 @@ def test_a_changed_heading_count_is_not_reported_as_a_problem(tmp_path):
 
     result = _qa_policy_file("DOMPU", markdown_dir, chunks_dir, TEMPLATE, responder(clean()))
 
-    assert result.report["lost_clauses"] == []
+    # Informational only: the identity collision surfaces in the diagnostic
+    # list, but the file still succeeds -- no failure, no forced correction.
+    assert result.status == "succeeded"
+    assert result.report["lost_clauses"] == ["Article 28"]
     assert "structure_drift" not in result.report
 
 

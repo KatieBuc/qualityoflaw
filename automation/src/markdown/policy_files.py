@@ -13,15 +13,15 @@ raw-text path and is left untouched.
 
 from pathlib import Path
 
-from automation.src.constants import SMALL_SCALE_FILES
+from automation.src.constants import MARKDOWN_SMALL_SCALE_FILES
 
 # The curated corpus's naming convention.
 CLEANED_MD_SUFFIX = ".cleaned.md"
 
-# The same four benchmark policies `--small-scale` selects for the raw-text
-# path, as bare stems. Derived from the single source of truth rather than
-# duplicated, so the two paths can never drift apart.
-SMALL_SCALE_STEMS = tuple(Path(name).stem for name in SMALL_SCALE_FILES)
+# The Markdown path's own `--small-scale` benchmark set, as bare stems (see
+# `constants.MARKDOWN_SMALL_SCALE_FILES` for why this is separate from the
+# raw-text path's `SMALL_SCALE_FILES`).
+SMALL_SCALE_STEMS = tuple(Path(name).stem for name in MARKDOWN_SMALL_SCALE_FILES)
 
 
 def policy_stem(path: Path) -> str:
@@ -29,8 +29,8 @@ def policy_stem(path: Path) -> str:
     return path.name.removesuffix(CLEANED_MD_SUFFIX).removesuffix(".md")
 
 
-def source_markdown_path(input_dir: Path, stem: str) -> Path:
-    return input_dir / f"{stem}{CLEANED_MD_SUFFIX}"
+def source_markdown_path(input_dir: Path, stem: str, suffix: str = CLEANED_MD_SUFFIX) -> Path:
+    return input_dir / f"{stem}{suffix}"
 
 
 def markdown_policy_files(

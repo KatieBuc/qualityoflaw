@@ -32,7 +32,7 @@ import logging
 import re
 from dataclasses import dataclass, field
 
-from automation.src.chunking import HEADING_KEYWORD_LEVELS, ChunkType, fallback_split
+from automation.src.chunking import ChunkType, fallback_split
 
 logger = logging.getLogger(__name__)
 
@@ -116,39 +116,44 @@ def count_list_items(md_text: str) -> int:
 CLAUSE_TOKEN_RE = re.compile(r"^(?:\d+|[ivxlcdm]+)$", re.IGNORECASE)
 
 
-def _clause_identity(heading_text: str) -> tuple[int, str] | None:
-    """The numbered-clause identity of one heading, language-independently.
+def _clause_identity(level: int, heading_text: str) -> tuple[int, str] | None:
+    """The numbered-clause identity of one heading: its actual heading depth
+    plus its clause number. Language-independent because it never inspects
+    the keyword itself -- only the heading's `#` depth and a trailing
+    number/Roman-numeral token -- so it works for `Pasal 34`, `Article 34`,
+    `§ 1`, `ARTICULO 1º`, `Art. 13`, etc. without a per-language word list.
+    Two headings at the same depth with the same token are the same clause,
+    which holds because translation is instructed to reproduce heading depth
+    exactly (see `MARKDOWN_STRUCTURE_HINT`).
 
-    `HEADING_KEYWORD_LEVELS` maps both languages onto one canonical level
-    (bab/chapter -> 1, bagian/part/section -> 2, paragraf/paragraph -> 3,
-    pasal/article -> 4), and a numbered token is the same on both sides, so
-    `Pasal 34` and `Article 34` both yield `(4, "34")`.
+    Markdown headings are assumed already clean (curated input, not raw
+    OCR), so any "#"-prefixed line is treated as a genuine heading -- this
+    function only checks the *shape* of the text (keyword + number), not
+    whether the keyword is a known word.
 
     Returns None for a heading that carries no such identity -- OCR fragments
-    (`1  AN`), all-caps titles, spelled-out ordinals (`Bagian Kesatu`), and
-    cross-reference text the corpus wrongly promoted to a heading
-    (`Pasal 28 ayat (1) huruf f, meliputi:` -- more than two words).
+    (`1  AN`), all-caps titles, and spelled-out ordinals (`Bagian Kesatu`),
+    since in each case the second word isn't a number or Roman numeral.
     """
     words = heading_text.split()
-    if len(words) != 2:
+    if len(words) < 2:
         return None
-    keyword_level = HEADING_KEYWORD_LEVELS.get(words[0].strip(".:;,").lower())
-    token = words[1].strip(".:;,")
-    if keyword_level is None or not CLAUSE_TOKEN_RE.match(token):
+    token = words[1].strip(".:;,º°")
+    if not CLAUSE_TOKEN_RE.match(token):
         return None
-    return (keyword_level, token.upper())
+    return (level, token.upper())
 
 
 def clause_ids(md_text: str) -> list[tuple[int, str]]:
     """The document's numbered clause headings, language-independently.
 
-    A `(canonical_level, token)` sequence directly comparable between a source
+    A `(heading_depth, token)` sequence directly comparable between a source
     and its translation -- which raw heading counts are not. See
     `_clause_identity` for which headings qualify.
     """
     ids: list[tuple[int, str]] = []
-    for _level, text in heading_outline(md_text):
-        cid = _clause_identity(text)
+    for level, text in heading_outline(md_text):
+        cid = _clause_identity(level, text)
         if cid is not None:
             ids.append(cid)
     return ids
@@ -156,7 +161,7 @@ def clause_ids(md_text: str) -> list[tuple[int, str]]:
 
 def section_clause_key(section: MarkdownSection) -> tuple[int, str] | None:
     """The most specific numbered clause anywhere in `section.text`, as a
-    language-independent `(canonical_level, token)` pair, or None.
+    language-independent `(heading_depth, token)` pair, or None.
 
     `parse_sections` keeps a run of consecutive headings (`# BAB III` /
     `#### Pasal 4`) together in one section, so its `.heading` is only the
@@ -165,8 +170,8 @@ def section_clause_key(section: MarkdownSection) -> tuple[int, str] | None:
     deepest-level clause the section contains -- `Pasal 4` over `BAB III`.
     """
     best: tuple[int, str] | None = None
-    for _level, text in heading_outline(section.text):
-        cid = _clause_identity(text)
+    for level, text in heading_outline(section.text):
+        cid = _clause_identity(level, text)
         if cid is not None and (best is None or cid[0] > best[0]):
             best = cid
     return best
@@ -183,22 +188,39 @@ def align_sections(
     translation introduced -- e.g. an OCR repair that split one block in two).
 
     Matches with `difflib.SequenceMatcher` over one key per section: its
-    numbered-clause identity when it has one (`section_clause_key`, a hard
-    cross-language anchor -- `Pasal 4` == `Article 4`), otherwise its heading
-    nesting level. Within an `equal` run, and within an equal-length `replace`
-    run (a heading relabelled or re-levelled but the same underlying clause),
-    sections pair positionally; unequal-length `replace` and translation-only
-    `insert` runs leave those translated sections unpaired. `autojunk=False`:
-    with a few hundred sections the many identical level-only keys would
-    otherwise be treated as junk and stop matching.
+    numbered-clause identity when it has one and it is unique within that
+    side's document (`section_clause_key`, a hard cross-language anchor --
+    `Pasal 4` == `Article 4`), otherwise its heading nesting level. Within an
+    `equal` run, and within an equal-length `replace` run (a heading
+    relabelled or re-levelled but the same underlying clause), sections pair
+    positionally; unequal-length `replace` and translation-only `insert` runs
+    leave those translated sections unpaired. `autojunk=False`: with a few
+    hundred sections the many identical level-only keys would otherwise be
+    treated as junk and stop matching.
+
+    A clause identity is only trusted as an anchor when it's unique on its
+    own side: `_clause_identity` no longer defends against every OCR
+    artifact (an amendment's own numbering can legitimately repeat too), so
+    two different sections can now resolve to the same identity -- e.g. a
+    corrupted `Pasal 3 1` next to a real `Pasal 3`. Matching both against one
+    `Article 3` would let the matcher lock onto the wrong one and silently
+    mispair sections around it. Falling back to the heading-level key for a
+    duplicate keeps that ambiguity from ever being resolved by chance.
     """
 
-    def key(section: MarkdownSection) -> tuple:
-        cid = section_clause_key(section)
-        return ("C", *cid) if cid is not None else ("L", section.level)
+    def keys_for(sections: list[MarkdownSection]) -> list[tuple]:
+        raw = [section_clause_key(s) for s in sections]
+        counts: dict[tuple[int, str], int] = {}
+        for cid in raw:
+            if cid is not None:
+                counts[cid] = counts.get(cid, 0) + 1
+        return [
+            ("C", *cid) if cid is not None and counts[cid] == 1 else ("L", section.level)
+            for cid, section in zip(raw, sections)
+        ]
 
-    source_keys = [key(s) for s in source]
-    translated_keys = [key(s) for s in translated]
+    source_keys = keys_for(source)
+    translated_keys = keys_for(translated)
     pairing: list[int | None] = [None] * len(translated)
 
     matcher = difflib.SequenceMatcher(a=source_keys, b=translated_keys, autojunk=False)
@@ -210,6 +232,10 @@ def align_sections(
 
 
 def _format_clause(clause: tuple[int, str]) -> str:
+    # Best-effort label for the common 4-tier BAB/Bagian/Paragraf/Pasal
+    # convention; `level` is now the heading's real `#` depth, so a corpus
+    # with a different or deeper hierarchy (e.g. Livre/Titre/Chapitre/Article)
+    # falls back to a plain depth label instead of a wrong name.
     names = {1: "Chapter", 2: "Part", 3: "Paragraph", 4: "Article"}
     level, token = clause
     return f"{names.get(level, f'level {level}')} {token}"

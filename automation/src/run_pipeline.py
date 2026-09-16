@@ -199,10 +199,11 @@ def main() -> None:
         default=None,
         help=(
             "Comma-separated steps. Markdown path (default): translation_md, "
-            "translation_qa_md, md_to_text, storage, evaluation, comparison, "
-            "discrepancy_diagnosis. The raw-OCR-text path (translation, translation_qa, "
-            "markdown) stays available for comparison but is not run by default. "
-            "The evaluation/comparison steps' behavior "
+            "md_to_text, storage, evaluation, comparison. translation_qa_md and "
+            "discrepancy_diagnosis are part of the Markdown path but must be requested "
+            "explicitly (not run by default). The raw-OCR-text path (translation, "
+            "translation_qa, markdown) stays available for comparison but is not run by "
+            "default either. The evaluation/comparison steps' behavior "
             "(RAG vs sliding window, and which results/ subfolder they use) is controlled by "
             "evaluation.method in pipeline_config.yaml, not by --steps."
         ),

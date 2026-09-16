@@ -6,6 +6,7 @@ import yaml
 
 from automation.src.chunking import SAFE_LIMIT_DEFAULT
 from automation.src.markdown.chunking import TARGET_CHARS_DEFAULT
+from automation.src.markdown.policy_files import CLEANED_MD_SUFFIX
 from automation.src.constants import (
     AUTOMATION_ROOT,
     CHUNKING_FALLBACK_PROMPT,
@@ -37,6 +38,11 @@ class PipelinePaths:
     markdown_input_dir: Path = field(
         default_factory=lambda: PROJECT_ROOT / "data" / "processed" / "localpolicies" / "cleaned_markdown"
     )
+    # File suffix identifying a source document in `markdown_input_dir`
+    # (glob is `*<suffix>`). The curated Indonesian corpus names files
+    # `<POLICY>.cleaned.md`; a differently-named corpus (e.g. one with plain
+    # `<name>.md` files) overrides this via `paths.markdown_input_suffix`.
+    markdown_input_suffix: str = CLEANED_MD_SUFFIX
 
 
 @dataclass
@@ -618,6 +624,7 @@ def load_pipeline_config(
                     "markdown_input_dir", "data/processed/localpolicies/cleaned_markdown"
                 )
             ),
+            markdown_input_suffix=str(paths_cfg.get("markdown_input_suffix", CLEANED_MD_SUFFIX)),
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),

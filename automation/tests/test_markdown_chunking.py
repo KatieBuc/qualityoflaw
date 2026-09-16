@@ -232,17 +232,36 @@ def test_list_item_counts_are_still_reported_as_context():
 
 
 def test_clause_identity_is_language_independent():
-    assert _clause_identity("Pasal 34") == (4, "34")
-    assert _clause_identity("Article 34") == (4, "34")
-    assert _clause_identity("BAB IV") == (1, "IV")
-    assert _clause_identity("CHAPTER IV") == (1, "IV")
+    # level is now the heading's real `#` depth, not a keyword-mapped level --
+    # same depth + same token is the same clause, regardless of language.
+    assert _clause_identity(4, "Pasal 34") == (4, "34")
+    assert _clause_identity(4, "Article 34") == (4, "34")
+    assert _clause_identity(1, "BAB IV") == (1, "IV")
+    assert _clause_identity(1, "CHAPTER IV") == (1, "IV")
+
+
+def test_clause_identity_resolves_headings_in_other_languages():
+    # No keyword dictionary involved -- any keyword works as long as the
+    # second word is a number/Roman token. Trailing title text is ignored.
+    assert _clause_identity(2, "§ 1") == (2, "1")
+    assert _clause_identity(2, "§ 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt") == (2, "1")
+    assert _clause_identity(2, "ARTICULO 1º") == (2, "1")  # Spanish ordinal indicator
+    assert _clause_identity(2, "Art. 13") == (2, "13")
 
 
 def test_clause_identity_rejects_non_clause_headings():
-    assert _clause_identity("Bagian Kesatu") is None  # spelled-out ordinal
-    assert _clause_identity("KETENTUAN UMUM") is None
-    assert _clause_identity("Pasal 28 ayat (1) huruf f, meliputi:") is None  # >2 words
-    assert _clause_identity("1  AN") is None  # OCR fragment
+    assert _clause_identity(2, "Bagian Kesatu") is None  # spelled-out ordinal
+    assert _clause_identity(1, "KETENTUAN UMUM") is None
+    assert _clause_identity(5, "1  AN") is None  # OCR fragment
+
+
+def test_clause_identity_accepts_cross_reference_wrongly_promoted_to_a_heading():
+    # Markdown headings are assumed already clean -- unlike the raw-text
+    # path, this function no longer defends against a citation the corpus
+    # occasionally OCR-promotes to a heading; it now resolves like any other
+    # keyword+number heading. Accepted trade-off for a language-agnostic
+    # identity check (see markdown/chunking.py module notes).
+    assert _clause_identity(4, "Pasal 28 ayat (1) huruf f, meliputi:") == (4, "28")
 
 
 def test_section_clause_key_returns_the_deepest_clause_in_the_section():

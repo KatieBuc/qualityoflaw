@@ -97,6 +97,35 @@ def test_resolve_concurrency_config_max_workers_override():
     assert resolved.enabled is True
 
 
+def test_resolve_concurrency_config_no_concurrency_overrides_max_workers_flag():
+    # --no-concurrency must win even when --max-workers is also passed.
+    base = ConcurrencyConfig(enabled=True, max_workers=5)
+    resolved = resolve_concurrency_config(base, max_workers_override=8, no_concurrency=True)
+    assert resolved.enabled is False
+    assert resolved.max_workers == 1
+
+
+def test_resolve_concurrency_config_rejects_zero_override():
+    base = ConcurrencyConfig(enabled=True, max_workers=5)
+    with pytest.raises(ValueError, match="--max-workers must be >= 1"):
+        resolve_concurrency_config(base, max_workers_override=0, no_concurrency=False)
+
+
+def test_resolve_concurrency_config_rejects_negative_override():
+    base = ConcurrencyConfig(enabled=True, max_workers=5)
+    with pytest.raises(ValueError, match="--max-workers must be >= 1"):
+        resolve_concurrency_config(base, max_workers_override=-1, no_concurrency=False)
+
+
+def test_resolve_concurrency_config_preserves_disabled_base_with_override():
+    # An override changes worker count but must not silently re-enable
+    # concurrency the config had turned off.
+    base = ConcurrencyConfig(enabled=False, max_workers=5)
+    resolved = resolve_concurrency_config(base, max_workers_override=3, no_concurrency=False)
+    assert resolved.enabled is False
+    assert resolved.max_workers == 3
+
+
 def test_build_limiter():
     limiter = build_limiter(ConcurrencyConfig(enabled=True, max_workers=4))
     assert limiter.max_workers == 4
