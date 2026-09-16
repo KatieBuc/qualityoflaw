@@ -1,6 +1,8 @@
-# BUPATI PENUKAL ABAB LEMATANG ILIR
+# PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
 
-## PROVINSI SUMATERA SELATAN
+BUPATI PENUKAL ABAB LEMATANG ILIR
+
+PROVINSI SUMATERA SELATAN
 
 # PERATURAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR
 
@@ -16,7 +18,9 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 BUPATI PENUKAL ABAB LEMATANG ILIR.
 
-Menimbang : a. bahwa segala bentuk kekerasan atau perlakuan yang merendahkan derajat, martabat perempuan dan anak merupakan pelanggaran terhadap hak asasi manusia, untuk itu perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;
+Menimbang : 
+
+a. bahwa segala bentuk kekerasan atau perlakuan yang merendahkan derajat, martabat perempuan dan anak merupakan pelanggaran terhadap hak asasi manusia, untuk itu perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;
 
 b. bahwa kekerasan dan perlakuan yang merendahkan derajat serta martabat perempuan dan anak wajib dilakukan upaya perlindungan;
 
@@ -26,9 +30,7 @@ Mengingat : 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik Indonesia T
 
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);
 
-3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia
-
-Nomor 4235); sebagaimana telah diubah terakhir dengan Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297 Tambahan Lembaran Negara Republik Indonesia Nomor 4235);
+3. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235); sebagaimana telah diubah terakhir dengan Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297 Tambahan Lembaran Negara Republik Indonesia Nomor 4235);
 
 4. Undang-Undang Nomor 7 Tahun 2013 tentang Pembentukan Kabupaten Penukal Abab Lematang lllr di Provinsi Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 22, Tambahan Lembaran Negara Republik Indonesia Nomor 5400);
 
@@ -44,7 +46,11 @@ MEMUTUSKAN :
 
 Menetapkan : PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK.
 
-# BAB I KETENTUAN UMUM Pasal 1
+# BAB I 
+
+KETENTUAN UMUM 
+
+#### Pasal 1
 
 Dalam Peraturan Daerah ini yang dimaksud dengan :
 
@@ -86,7 +92,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan :
 
 19. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT, adalah suatu unit yang menyelenggarakan pelayanan terpadu untuk korban kekerasan dan terintegrasi dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi dan/atau korban tindak pidana perdagangan orang.
 
-## Pasal 2
+#### Pasal 2
 
 Penyelenggaraan Pelindungan Perempuan dan Anak, dilaksanakan berdasarkan asas:
 
@@ -104,7 +110,7 @@ f. Pemberdayaan; dan
 
 g. kepastian hukum.
 
-## Pasal 3
+#### Pasal 3
 
 Perlindungan Perempuan dan Anak bertujuan untuk :
 
@@ -122,7 +128,15 @@ f. memberikan perlindungan kepada pelapor dan saksi; dan
 
 g. melakukan pemberdayaan kepada Perempuan korban kekerasan.
 
-## BAB II PERLINDUNGAN PEREMPUAN DAN ANAK Bagian Kesatu Hak Perempuan Pasal 4
+# BAB II 
+
+PERLINDUNGAN PEREMPUAN DAN ANAK 
+
+## Bagian Kesatu 
+
+Hak Perempuan 
+
+#### Pasal 4
 
 Setiap Perempuan berhak:
 
@@ -132,9 +146,7 @@ b. membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah;
 
 c. mengembangkan diri melalui pemenuhan kebutuhan dasarnya;
 
-d. mendapat pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, demi
-
-meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia;
+d. mendapat pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, demi meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia;
 
 e. memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa dan negara;
 
@@ -150,9 +162,9 @@ j. atas perlindungan diri pribadi, keluarga, kehormatan, martabat dan harta bend
 
 k. untuk bebas dari penyiksaaan atau perlakuan yang merendahkan derajat martabat manusia dan berhak memperoleh suaka politik dari negara lain;
 
-1. hidup sejahtera lahir batin, bertempat tinggal dan mendapat lingkungan hidup yang baik dan sehat, serta berhak memperoleh pelayanan kesehatan;
+l. hidup sejahtera lahir batin, bertempat tinggal dan mendapat lingkungan hidup yang baik dan sehat, serta berhak memperoleh pelayanan kesehatan;
 
-m.atas jaminan sosial yang memungkinkan pengembangan dirinya secara utuh sebagai manusia yang bermartabat;
+m. atas jaminan sosial yang memungkinkan pengembangan dirinya secara utuh sebagai manusia yang bermartabat;
 
 n. atas kebersamaan kedudukannya di dalam hukum dan pemerintahan;
 
@@ -166,12 +178,15 @@ r. memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan keper
 
 s. mendapat pendidikan.
 
-Bagian Kedua
-Pemenuhan Hak Anak
-Paragraf 1
+## Bagian Kedua 
+
+Pemenuhan Hak Anak 
+
+### Paragraf 1 
+
 Hak dan Kewajiban Anak
 
-Pasal 5
+#### Pasal 5 
 
 Setiap Anak berhak:
 
@@ -183,7 +198,7 @@ c. memperoleh pendidikan; dan
 
 d. kesejahteraan sosial.
 
-Pasal 6
+#### Pasal 6
 
 Setiap Anak wajib:
 
@@ -199,19 +214,21 @@ e. belajar dan mengembangkan diri sesuai dengan kemampuan dan bakat, minatnya; d
 
 f. berbudi pekerti luhur.
 
-Paragraf 2
+### Paragraf 2
+
 Pencatatan Kelahiran
-Pasal 7
+
+#### Pasal 7 
 
 Pencatatan kelahiran anak sebagaimana dimaksud dalam Pasal 5 huruf a, Pemerintah Kabupaten wajib menerbitkan akta kelahiran sesuai dengan ketentuan Peraturan Perundang-undangan.
 
-Paragraf 3
-Kesehatan
-Pasal 8
+### Paragraf 3 
 
-(1) Penyelenggaraan Pemenuhan Hak Anak dibidang kesehatan sebagaimana dimaksud dalam Pasal 5 huruf b, Pemerintah Kabupaten wajib menyediakan fasilitas dan
+Kesehatan 
 
-menyelenggarakan layanan kesehatan yang komprehensif bagi anak.
+#### Pasal 8 
+
+(1) Penyelenggaraan Pemenuhan Hak Anak dibidang kesehatan sebagaimana dimaksud dalam Pasal 5 huruf b, Pemerintah Kabupaten wajib menyediakan fasilitas dan menyelenggarakan layanan kesehatan yang komprehensif bagi anak.
 
 (2) Layanan kesehatan yang komprehensif sebagaimana dimaksud pada ayat (1) meliputi:
 
@@ -221,25 +238,29 @@ b. pembebasan dari beban biaya bagi anak gizi buruk, Anak penyandang disabilitas
 
 (3) Pembebasan dari beban biaya bagi Anak sebagaimana dimaksud pada ayat (2) huruf b merupakan Anak dari keluarga miskin kecuali diatur berbeda sesuai dengan program pembiayaan kesehatan yang ditetapkan pemerintah.
 
-## Pasal 9
+#### Pasal 9
 
 Pemerintah Kabupaten bersama dengan masyarakat, keluarga dan orang tua wajib mengusahakan agar Anak yang lahir terhindar dari penyakit yang mengancam kelangsungan hidup dan/atau menimbulkan kecacatan.
 
-## Paragraf 4 Pendidikan Pasal 10
+### Paragraf 4 
+
+Pendidikan 
+
+#### Pasal 10
 
 (1) Penyelenggaraan Pemenuhan Hak Anak dibidang pendidikan sebagaimana dimaksud dalam Pasal 5 huruf c, Pemerintah Kabupaten menjamin terselenggaranya program wajib belajar 9 (sembilan) tahun.
 
 (2) Setiap penyelenggara satuan pendidikan wajib memberikan kesempatan kepada Anak untuk memperoleh layanan pendidikan tanpa diskriminasi.
 
-## Pasal 11
+#### Pasal 11
 
 Setiap penyelenggara satuan pendidikan dilarang mengeluarkan Anak dari lembaga pendidikan kecuali ada jaminan terhadap keberlangsungan pendidikan Anak.
 
-## Pasal 12
+#### Pasal 12
 
 Setiap penyelenggara satuan pendidikan wajib berkoordinasi dengan instansi terkait perlindungan Anak apabila mendapati Anak putus sekolah karena menjadi korban tindak kekerasan.
 
-## Pasal 13
+#### Pasal 13
 
 Anak penyandang disabilitas dan Anak berkebutuhan khusus diberikan kesempatan yang sama untuk memperoleh layanan pendidikan :
 
@@ -253,7 +274,7 @@ d. pendidikan luar biasa; dan
 
 e. inklusi.
 
-## Pasal 14
+#### Pasal 14
 
 Pendidikan Anak Usia Dini usia 0 (nol) sampai dengan 3 (tiga) tahun dan 4 (empat) sampai dengan 6 (enam) tahun dapat diselenggarakan oleh :
 
@@ -265,9 +286,9 @@ c. Pos Pendidikan Anak Usia Dini; dan
 
 d. lembaga satuan Pendidikan Anak Usia Dini sejenis.
 
-## Paragraf 5
+### Paragraf 5
 
-### Kesejahteraan Sosial
+Kesejahteraan Sosial
 
 #### Pasal 15
 
@@ -295,7 +316,7 @@ j. anak penyandang disabilitas fisik dan mental;
 
 k. anak keluarga buruh migran;
 
-1. anak yang hidup di dalam atau di sekitar lokasi prostitusi; dan
+l. anak yang hidup di dalam atau di sekitar lokasi prostitusi; dan
 
 m. anak korban perlakuan salah lainnya.
 
@@ -321,7 +342,7 @@ i. reintegrasi.
 
 (3) Infrastruktur khusus bagi penyandang disabilitas di tempat umum.
 
-## Pasal 16
+#### Pasal 16
 
 (1) Pemerintah Kabupaten wajib melindungi pemenuhan hak pekerja Anak pada sektor informal.
 
@@ -363,7 +384,7 @@ h. mempekerjakan untuk jenis pekerjaan yang ringan; dan
 
 i. memberikan kesempatan libur satu hari dalam seminggu.
 
-## Pasal 17
+#### Pasal 17
 
 Pemenuhan hak pekerja Anak pada sektor informal sebagaimana dimaksud dalam Pasal 16 ayat (1) meliputi:
 
@@ -377,7 +398,11 @@ d. beasiswa untuk melanjutkan pendidikan formal ke jenjang yang lebih tinggi; da
 
 e. pendidikan nonformal dan pelatihan ketrampilan bagi yang tidak menempuh pendidikan formal.
 
-Bagian Ketiga Bentuk Kekerasan Pasal 18
+## Bagian Ketiga 
+
+Bentuk Kekerasan 
+
+#### Pasal 18
 
 Bentuk kekerasan terhadap Perempuan dan Anak meliputi:
 
@@ -393,7 +418,11 @@ e. eksploitasi; dan/atau
 
 f. kekerasan lainnya.
 
-Bagian Keempat Pencegahan Kekerasan terhadap Perempuan dan Anak Pasal 19
+## Bagian Keempat 
+
+Pencegahan Kekerasan terhadap Perempuan dan Anak 
+
+#### Pasal 19
 
 (1) Upaya pencegahan kekerasan terhadap Perempuan dan Anak dilakukan secara terpadu oleh Pemerintah Kabupaten dan dikoordinasikan oleh Perangkat Daerah teknis.
 
@@ -411,7 +440,7 @@ e. melakukan sosialisasi mengenai peraturan perundang- undangan yang berkaitan d
 
 f. memberikan pendidikan kritis mengenai hak-hak Perempuan dan Anak bagi masyarakat.
 
-## Pasal 20
+#### Pasal 20
 
 Upaya pencegahan kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 19 ayat (1) selain Pemerintah Kabupaten dilaksanakan juga oleh :
 
@@ -425,7 +454,9 @@ d. lembaga Swadaya Masyarakat.
 
 ## Bagian Kelima
 
-Penanganan terhadap Perempuan dan Anak Korban Kekerasan Pasal 21
+Penanganan terhadap Perempuan dan Anak Korban Kekerasan 
+
+#### Pasal 21
 
 Penyelenggaraan Penanganan terhadap Perempuan dan Anak korban kekerasan dilaksanakan dengan:
 
@@ -443,7 +474,7 @@ f. tidak dikenakan biaya; dan
 
 g. dijamin kerahasiaannya.
 
-## Pasal 22
+#### Pasal 22
 
 Bentuk penanganan terhadap Perempuan dan Anak korban kekerasan sebagaimana dimaksud dalam Pasal 21 meliputi pelayanan:
 
@@ -459,9 +490,11 @@ e. hukum; dan
 
 f. reintegrasi sosial.
 
-Bagian Keenam Pembiayaan
+## Bagian Keenam 
 
-Pasal 23
+Pembiayaan
+
+#### Pasal 23
 
 Pembiayaan yang diperlukan bagi pelaksanaan Perlindungan Perempuan dan Anak dibebankan pada :
 
@@ -469,7 +502,11 @@ a. Anggaran Pendapatan dan Belanja Daerah; dan
 
 b. Sumber dana lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-undangan yang berlaku.
 
-BAB III PUSAT PELAYANAN TERPADU (PPT) Pasal 24
+# BAB III 
+
+PUSAT PELAYANAN TERPADU (PPT) 
+
+#### Pasal 24
 
 (1) Penyelenggaraan pelayanan terhadap Perempuan dan Anak korban kekerasan dilakukan secara terpadu oleh PPT.
 
@@ -493,7 +530,11 @@ g. memberikan pemenuhan bantuan hukum bagi korban.
 
 (4) Ketentuan lebih lanjut mengenai tata cara dan mekanisme penyelenggaraan PPT diatur dengan Peraturan Bupati.
 
-BAB IV  HAK PEREMPUAN DAN ANAK KORBAN KEKERASAN  Pasal 25
+# BAB IV 
+
+HAK PEREMPUAN DAN ANAK KORBAN KEKERASAN 
+
+#### Pasal 25
 
 Setiap Perempuan dan Anak korban kekerasan berhak:
 
@@ -519,7 +560,7 @@ j. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses
 
 k. atas pelayanan bimbingan rohani.
 
-Pasal 26
+#### Pasal 26
 
 Perempuan dan anak korban kekerasan selain berhak sebagaimana dimaksud dalam Pasal 25, juga mendapatkan hak khusus sebagai berikut :
 
@@ -531,7 +572,11 @@ c. mendapatkan perlindungan yang sama; dan
 
 d. berpartisipasi dalam kehidupan bermasyarakat.
 
-# BAB V PEMANTAUAN DAN EVALUASI Pasal 27
+# BAB V 
+
+PEMANTAUAN DAN EVALUASI 
+
+#### Pasal 27
 
 (1) Pemerintah Kabupaten melakukan pemantauan untuk menjamin sinergi, keseimbangan dan efektivitas langkah secara terpadu dalam pelaksanaan kebijakan, program, kegiatan, Perlindungan Perempuan Dan Anak.
 
@@ -551,7 +596,7 @@ c. pelaksanaan program; dan
 
 d. kegiatan Perlindungan Perempuan Dan Anak setiap tahun.
 
-## Pasal 28
+#### Pasal 28
 
 (1) Evaluasi pelaksanaan kebijakan, program dan kegiatan Perlindungan Perempuan Dan Anak dilakukan setiap berakhirnya tahun Anggaran atau jika diperlukan sesuai kebutuhan.
 
@@ -559,7 +604,11 @@ d. kegiatan Perlindungan Perempuan Dan Anak setiap tahun.
 
 (3) Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan Perundang-undangan.
 
-# BAB VI PEMBINAAN DAN PENGAWASAN Pasal 29
+# BAB VI 
+
+PEMBINAAN DAN PENGAWASAN 
+
+#### Pasal 29
 
 (1) Bupati dapat menunjuk pejabat atau Perangkat Daerah yang terkait untuk melakukan pembinaan dan pengawasan pelaksanaan Perlindungan Perempuan dan Anak.
 
@@ -575,7 +624,11 @@ d. monitoring; dan
 
 e. evaluasi Pelaksanaan Perlindungan Perempuan dan Anak.
 
-## BAB VII PERAN SERTA MASYARAKAT Pasal 30
+# BAB VII 
+
+PERAN SERTA MASYARAKAT 
+
+#### Pasal 30
 
 (1) Peran serta masyarakat dalam penyelenggaraan Perlindungan terhadap Perempuan dan anak sebagai berikut :
 
@@ -603,7 +656,11 @@ f. swasta; dan/atau
 
 g. media massa.
 
-# BAB VIII KETENTUAN PENYIDIKAN Pasal 31
+# BAB VIII 
+
+KETENTUAN PENYIDIKAN 
+
+#### Pasal 31
 
 (1) Pejabat Pegawai Negeri Sipil tertentu dilingkungan Pemerintah Kabupaten yang diberi wewenang khusus sebagai Penyidik untuk melakukan penyidikan tindak pidana sebagaimana diatur dalam ketentuan peraturan perundang-undangan.
 
@@ -633,51 +690,77 @@ i. mengadakan tindakan lain menurut hukum yang dapat dipertanggungjawabkan.
 
 Pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Kitab Undang-Undang Hukum Acara Pidana.
 
-BAB IX KETENTUAN PIDANA Pasal 32
+# BAB IX 
+
+KETENTUAN PIDANA 
+
+#### Pasal 32
 
 Setiap orang yang dengan sengaja melakukan atau membiarkan terjadinya kekerasan terhadap perempuan dan anak dan/atau tidak melaporkan terjadinya kekerasan terhadap perempuan dan anak dikenakan sanksi sesuai dengan ketentuan yang diatur dalam Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2004 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2003 tentang Penghapusan Kekerasan Dalam Rumah Tangga.
 
-BAB X KETENTUAN PENUTUP Pasal 33
+# BAB X 
+
+KETENTUAN PENUTUP 
+
+#### Pasal 33
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan Penempatannya dalam Lembaran Daerah Kabupaten Penukal Abab Lematang Ilir.
 
-Ditetapkan di Talang Ubi pada tanggal 3 - 7 - 2019 BUPATI PENUKAL ABAB LEMATANG ILIR,
+Ditetapkan di Talang Ubi pada tanggal 3-7-2019 BUPATI PENUKAL ABAB LEMATANG ILIR,
 
-Diundangkan di Talang Ubi pada tanggal 3 - 7 - 2019
+Diundangkan di Talang Ubi pada tanggal 3-7-2019
 
 SEKRETARIS DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR,
 
-17 SYAHRON NAZIL LEMBARAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR TAHUN 2019 NOMOR.3 NOREG PERATURAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR PROVINSI SUMATERA SELATAN : (3-5/2019)
+SYAHRON NAZIL 
+
+LEMBARAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR TAHUN 2019 NOMOR.3 
+
+NOREG PERATURAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR PROVINSI SUMATERA SELATAN : (3-5/2019)
 
 Pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Kitab Undang-Undang Hukum Acara Pidana.
 
-BAB IX KETENTUAN PIDANA Pasal 32
+# BAB IX 
+
+KETENTUAN PIDANA 
+
+#### Pasal 32
 
 Setiap orang yang dengan sengaja melakukan atau membiarkan terjadinya kekerasan terhadap perempuan dan anak dan/atau tidak melaporkan terjadinya kekerasan terhadap perempuan dan anak dikenakan sanksi sesuai dengan ketentuan yang diatur dalam Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2004 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2003 tentang Penghapusan Kekerasan Dalam Rumah Tangga.
 
-BAB X KETENTUAN PENUTUP Pasal 33
+# BAB X 
+
+KETENTUAN PENUTUP 
+
+#### Pasal 33
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang dapat mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan Penempatannya dalam Lembaran Daerah Kabupaten Penukal Abab Lematang Ilir.
 
-Ditetapkan di Talang Ubi pada tanggal 3 - 7 - 2019 BUPATI PENUKAL ABAB LEMATANG ILIR,
+Ditetapkan di Talang Ubi pada tanggal 3-7-2019 
 
-Dewanul  HERI AMALINDO
+BUPATI PENUKAL ABAB LEMATANG ILIR,
 
-Diundangkan di Talang Ubi pada tanggal 3 - 7 - 2019
+HERI AMALINDO
+
+Diundangkan di Talang Ubi pada tanggal 3-7-2019
 
 SEKRETARIS DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR,
 
 SYAHRON NAZIL
 
-LEMBARAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR TAHUN.2019 NOMOR.3 NOREG PERATURAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR PROVINSI SUMATERA SELATAN : (3-5/2019)
+LEMBARAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR TAHUN 2019 NOMOR 3 
 
-# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR NOMOR TAHUN 2019
+NOREG PERATURAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR PROVINSI SUMATERA SELATAN : (3-5/2019)
 
-## TENTANG
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN PENUKAL ABAB LEMATANG ILIR 
 
-## PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
+NOMOR TAHUN 2019
 
-## I. UMUM
+TENTANG
+
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
+
+#### I. UMUM
 
 Kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi. Nasib perempuan dan anak korban kekerasan harus diperhatikan oleh pemerintah daerah. Banyaknya kasus kekerasan terhadap perempuan dan anak seringkali disebabkan karena faktor-faktor yang berkembang di dalam masyarakat, misalnya rendahnya tingkat ekonomi, pendidikan, lingkungan yang berada disektor industri. Oleh karena itu, korban kekerasan seperti ini perlu mendapat perlindungan sesuai dengan prinsip keadilan, kebenaran, kepastian hukum, kesetaraan dan menjunjung tinggi hak asasi manusia.
 
@@ -685,7 +768,7 @@ Untuk pemberdayaan bagi korban kekerasan, pemerintah kabupaten membentuk Pusat P
 
 Pemerintah Kabupaten berkewajiban dan bertanggung jawab untuk melaksanakan upaya perlindungan perempuan dan anak melalui melaksanakan kebijakan perlindungan terhadap perempuan dan anak yang diterapkan oleh pemerintah, menetapkan kebijakan, program, dan kegiatan perlindungan terhadap perempuan dan anak, pembentukan PPT, menjamin terlaksananya kemudahan pelayanan kepada korban, mengupayakan efektivitas dan efisiensi bagi proses pemulihan korban, dan mengupayakan terciptanya kerjasama dan koordinasi dalam upaya perlindungan perempuan dan anak.
 
-# II. PASAL DEMI PASAL
+#### II. PASAL DEMI PASAL
 
 Pasal 1
 
@@ -781,112 +864,136 @@ Cukup jelas.
 
 Pasal 16
 
-Cukup jelas.  Pasal 17  Cukup jelas.
+Cukup jelas. 
 
-## Pasal 18
+Pasal 17 
 
-## Huruf a
+Cukup jelas. 
+
+Pasal 18 
+
+Huruf a 
 
 Yang dimaksud dengan “kekerasan fisik” adalah perbuatan yang mengakibatkan rasa sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan/atau menyebabkan kematian.
 
-## Huruf b
+Huruf b
 
 Yang dimaksud dengan “kekerasan psikis” adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau penderitaan psikis berat pada seseorang.
 
-## Huruf c
+Huruf c
 
 Yang dimaksud dengan “kekerasan seksual” adalah perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai dan/atau pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan/atau tujuan tertentu.
 
-## Huruf d
+Huruf d
 
-Yang dimaksud dengan “penelantaran” adalah perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya; perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain yang bertanggung jawab atas pengasuhannya; perbuatan menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut; dan/atau perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak
+Yang dimaksud dengan “penelantaran” adalah perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya; perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain yang bertanggung jawab atas pengasuhannya; perbuatan menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut; dan/atau perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah sehingga korban berada dibawah kendali orang tersebut.
 
-di dalam atau di luar rumah sehingga korban berada dibawah kendali orang tersebut.
-
-## Huruf e
+Huruf e
 
 Yang dimaksud dengan “eksploitasi” adalah perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain; perbuatan yang dengan atau tanpa persetujuan korban antara lain pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan materiil atau immateriil; dan/atau segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan.
 
-## Huruf f
+Huruf f
 
 Yang dimaksud dengan “kekerasan lainnya” adalah ancaman kekerasan meliputi : setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang; dan pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuruh melakukan sesuatu sedemikian rupa sehingga orang itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.
 
-## Pasal 19
+Pasal 19
 
 Cukup jelas.
 
-## Pasal 20
+Pasal 20
 
 Cukup jelas.
 
-## Pasal 21
+Pasal 21
 
-## Huruf a
+Huruf a
 
 Yang dimaksud dengan “cepat” adalah tindakan segera yang dilakukan tanpa berbelit-belit atau prosedur dipermudah.
 
-## Huruf b
+Huruf b
 
 Yang dimaksud dengan “aman dan nyaman” adalah jaminan perlindungan pelayanan yang terasa nyaman, tidak diganggu, dan dilayani dengan ramah, menghormati dan menghargai.
 
-## Huruf c
+Huruf c
 
 Yang dimaksud dengan “empati” adalah tindakan menghargai, menghormati, menyayangi, bersahabat, dan membahagiakan yang bertujuan menyenagkan dan menenteramkan hati korban.
 
-## Huruf d
+Huruf d
 
 Yang dimaksud “non diskriminasi” adalah penanganan terhadap korban diberikan kepada semua korban tanpa membedakan suku, agama, ras, golongan, jenis kelamin, etnis, budaya dan bahasa, status hukum dan kondisi fisik maupun mental.
 
-## Huruf e
+Huruf e
 
 Yang dimaksud dengan “adanya jaminan kerahasiaan” adalah upaya jaminan kepastian bagi korban untuk tidak disebarluaskan mengenai identitas dirinya, perawatan medis dan penanganan hukum.
 
-## Huruf f
+Huruf f
 
 Yang dimaksud dengan “mudah dijangkau” adalah penyelenggaraan pelayanan dan pendampingan untuk semua orang tanpa memandang status sosialnya, sehingga pelayanan tersebut murah bagi kalangan tidak mampu atau relatif cukup bagi kalangan mampu.
 
-## Huruf g
+Huruf g
 
 Yang dimaksud dengan “tidak dipungut biaya” adalah kegiatan penyelenggaraan pelayanan dan pendampingan yang dilakukan oleh PPT tidak dibebankan pada korban.
 
-## Pasal 22
+Pasal 22
 
-## Huruf a
+Huruf a
 
 Yang dimaksud dengan “pelayanan pengaduan, konsultasi, dan konseling” adalah meliputi identifikasi atau pencatatan awal korban; identifikasi Kasus; dan persetujuan dilakukan tindakan.
 
-## Huruf b
+Huruf b
 
 Yang dimaksud dengan “pelayanan pendampingan” adalah meliputi mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan; mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan pengadilan; memantau kepentingan dan hak- hak korban dalam proses pemeriksaan di kepolisian, kejaksaan dan pengadilan; menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa; memberikan rasa aman kepada korban; dan memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.
 
-## Huruf c
+Huruf c
 
 Yang dimaksud dengan “pelayanan rehabilitasi medis” adalah meliputi pertolongan pertama kepada korban; perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan rujukan ke layanan kesehatan.
 
-## huruf d
+Huruf d
 
 Yang dimaksud dengan “pelayanan rehabilitasi sosial” adalah pelayanan yang diberikan dalam rangka memulihkan kondisi traumatis korban. Bentuk pelayanan dilakukan melalui dukungan secara sosial melalui bimbingan kerohanian kepada korban; dan pemulihan kejiwaan korban.
 
-## Huruf e
+Huruf e
 
 Yang dimaksud dengan “pelayanan hukum” adalah untuk membantu korban dalam menjalani proses peradilan dengan cara memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korban dan proses peradilan; mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; dan melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.
 
-## Huruf f
+Huruf f
 
 Yang dimaksud dengan “pelayanan reintegrasi sosial” adalah bertujuan untuk mengembalikan korban kepada keluarga dan lingkungan sosialnya. Pelayanan reintegrasi sosial dilakukan oleh Pemerintah Kabupaten dengan berkoordinasi kepada instansi dan lembaga terkait baik pemerintah maupun non pemerintah; dan lembaga kemasyarakatan desa dan/atau tokoh masyarakat setempat.
 
-## Pasal 23
+Pasal 23
 
 Cukup jelas.
 
-## Pasal 24
+Pasal 24
 
 Cukup jelas.
 
-## Pasal 25
+Pasal 25
 
 Cukup jelas.
 
-Pasal 26 Cukup jelas. Pasal 27 Cukup jelas. Pasal 28 Cukup jelas. Pasal 29 Cukup jelas. Pasal 30 Cukup jelas. Pasal 31 Cukup jelas.
+Pasal 26 
 
-TAMBAHAN LEMBARAN DAERAH KABUPATEN PENUKAL ABAB LEMBARAN DAERAH NOMOR.3
+Cukup jelas. 
+
+Pasal 27 
+
+Cukup jelas. 
+
+Pasal 28 
+
+Cukup jelas. 
+
+Pasal 29 
+
+Cukup jelas. 
+
+Pasal 30 
+
+Cukup jelas. 
+
+Pasal 31 
+
+Cukup jelas.
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN PENUKAL ABAB LEMBARAN DAERAH NOMOR 3
