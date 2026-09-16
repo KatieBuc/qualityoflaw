@@ -4,7 +4,7 @@
   "status": "completed",
   "timestamps": {
     "created_at": "2026-09-13T13:26:47.629503+00:00",
-    "updated_at": "2026-09-14T03:07:51.114091+00:00"
+    "updated_at": "2026-09-16T11:44:16.946973+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -264,35 +264,35 @@
   "file_counts": {
     "translation_md": {
       "total": 198,
-      "succeeded": 0,
-      "skipped": 198,
+      "succeeded": 9,
+      "skipped": 189,
       "failed": 0
     },
     "md_to_text": {
       "total": 198,
-      "succeeded": 0,
-      "skipped": 198,
+      "succeeded": 198,
+      "skipped": 0,
       "failed": 0,
       "clauses_lost": 0,
-      "repaired": 0,
-      "source_unaligned": 0
+      "repaired": 1,
+      "source_unaligned": 190
     },
     "storage": {
       "total": 198,
-      "succeeded": 0,
-      "skipped": 198,
+      "succeeded": 198,
+      "skipped": 0,
       "failed": 0
     },
     "evaluation": {
       "total": 198,
-      "succeeded": 29,
+      "succeeded": 0,
       "failed": 0,
-      "skipped": 169,
-      "saved_reports": 29
+      "skipped": 198,
+      "saved_reports": 0
     }
   },
   "failures": {
-    "translation": 6,
+    "translation": 196,
     "translation_qa": 0,
     "storage": 0,
     "evaluation": 0,
@@ -301,22 +301,22 @@
   },
   "token_usage": {
     "translation_md": {
+      "prompt_tokens": 202416,
+      "completion_tokens": 108496,
+      "total_tokens": 310912
+    },
+    "evaluation": {
       "prompt_tokens": 0,
       "completion_tokens": 0,
       "total_tokens": 0
-    },
-    "evaluation": {
-      "prompt_tokens": 13138445,
-      "completion_tokens": 138988,
-      "total_tokens": 13277433
     }
   },
   "timing_seconds": {
-    "translation_md": 0.05,
-    "md_to_text": 0.1,
-    "storage": 0.04,
-    "evaluation": 3102.33,
-    "total": 3.07,
-    "comparison": 3.06
+    "translation_md": 340.19,
+    "md_to_text": 8.79,
+    "storage": 65.93,
+    "evaluation": 0.0,
+    "total": 436.96,
+    "comparison": 0.86
   }
 }

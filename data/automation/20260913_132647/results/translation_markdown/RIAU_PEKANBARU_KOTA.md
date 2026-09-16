@@ -1,62 +1,70 @@
-# MAYOR OF PEKANBARU RIAU PROVINCE
+# PROTECTION OF WOMEN AND CHILDREN
 
-# REGIONAL REGULATION OF PEKANBARU CITY NUMBER 2 OF 2023 CONCERNING PROTECTION OF WOMEN AND CHILDREN
+MAYOR OF PEKANBARU RIAU PROVINCE
 
-# BY THE GRACE OF ALMIGHTY GOD
+# REGIONAL REGULATION OF PEKANBARU CITY
 
-# MAYOR OF PEKANBARU.
+NUMBER 2 OF 2023 CONCERNING PROTECTION OF WOMEN AND CHILDREN
 
-Considering : a. that the fulfillment of basic rights or constitutional rights of Women and Children, both those included in the group of civil and political rights as well as economic, educational, social, and cultural rights need to be pursued continuously;
+BY THE GRACE OF ALMIGHTY GOD
+
+MAYOR OF PEKANBARU.
+
+Considering:
+
+a. that the fulfillment of basic rights or constitutional rights of Women and Children, both those included in the group of civil and political rights as well as economic, educational, social, and cultural rights need to be pursued continuously;
 
 b. that to implement the fulfillment of all rights that must be possessed by Women and Children continuously, a regulatory foundation is required that is in accordance with the needs of the Region;
 
 c. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation concerning Protection of Women and Children;
 
-In View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+In View of:
 
-2. Law Number 8 of 1956 concerning the Establishment of Small City Autonomous Regions Within the Central Sumatra Provincial Region (State Gazette of the Republic of Indonesia Year 1956 Number 19);
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
 
-3. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+2. Law Number 8 of 1956 concerning the Establishment of Small City Autonomous Regions Within the Central Sumatra Provincial Region (State Gazette of the Republic of Indonesia of 1956 Number 19);
 
-4. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia 5587), as amended several times most recently by Law Number 9 of 2015 concerning Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+3. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
 
-5. Law Number 11 of 2020 concerning Job Creation (State Gazette of the Republic of Indonesia Year 2020 Number 245, Supplement to the State Gazette of the Republic of Indonesia Number 6573);
+4. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia 5587), as amended several times most recently by Law Number 9 of 2015 concerning Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+5. Law Number 11 of 2020 concerning Job Creation (State Gazette of the Republic of Indonesia of 2020 Number 245, Supplement to the State Gazette of the Republic of Indonesia Number 6573);
 
 With Mutual Approval
 
-# REGIONAL HOUSE OF REPRESENTATIVES OF PEKANBARU CITY and
+REGIONAL HOUSE OF REPRESENTATIVES OF PEKANBARU CITY and
 
 MAYOR OF PEKANBARU
 
-DECIDE:
+DECIDES:
 
-To Enact: REGIONAL REGULATION ON THE PROTECTION OF WOMEN AND CHILDREN.
+To Establish: REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN AND CHILDREN.
 
-CHAPTER I GENERAL PROVISIONS
+# CHAPTER I
 
-Article 1
+GENERAL PROVISIONS
+
+#### Article 1
 
 In this Regional Regulation, what is meant by:
 
-1. Region is Pekanbaru City.
+1. Region is the City of Pekanbaru.
 
-2. Regional Government is the Government of Pekanbaru City.
+2. Regional Government is the Government of the City of Pekanbaru.
 
 3. Mayor is the Mayor of Pekanbaru.
 
-4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Pekanbaru City.
+4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pekanbaru.
 
-5. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of Government Affairs which are the authority of the Region.
+5. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of Government Affairs that are the authority of the Region.
 
-6. Office of Women's Empowerment, Child Protection and Community Empowerment of Pekanbaru City or other designation hereinafter referred to as the Office is the Regional Apparatus that carries out the duties and functions of Women's Empowerment, Child Protection and Community Empowerment affairs.
+6. Office of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Office is a Regional Apparatus that carries out the duties and functions of Women's Empowerment, Child Protection and Community Empowerment affairs.
 
-7. Head of the Office of Women's Empowerment, Child Protection and Community Empowerment of Pekanbaru City or other designation
-
-hereinafter referred to as the Head of Office is the Head of Apparatus whose scope of duties and responsibilities includes Women's Empowerment, Child Protection and Community Empowerment affairs.
+7. Head of the Office of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Head of Office is the Head of Apparatus whose scope of duties and responsibilities covers Women's Empowerment, Child Protection and Community Empowerment affairs.
 
 8. Community is individuals, Families, Groups, and social organizations and/or community organizations.
 
-9. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their Children, or father and his Children, or mother and her Children, or blood relatives in a direct line upward or downward up to the third degree.
+9. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.
 
 10. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.
 
@@ -66,37 +74,33 @@ hereinafter referred to as the Head of Office is the Head of Apparatus whose sco
 
 13. Gender is a concept that refers to differences in the roles and responsibilities of men and Women that occur as a result of and can be changed by the social and cultural conditions of society.
 
-14. Gender and Child Data System is the institutionalization of the administration of gender and Child data consisting of regulatory components, institutions, and mechanisms in the Region in the context of planning, implementation, evaluation, and reporting of the results of gender-responsive and child-friendly policies/programs/activities.
+14. Gender and Child Data System is the institutionalization of gender and Child data administration consisting of regulatory components, institutions, and mechanisms in the Region in the context of planning, implementation, evaluation, and reporting of results of gender-responsive and child-sensitive development policies/programs/activities.
 
-15. Disaggregated Data is data selected by sex and age.
+15. Selected Data is data selected by sex and age.
 
-16. Gender responsive is consistent and systematic attention to the differences between Women and Men in
+16. Gender responsive is consistent and systematic attention to the differences between Women and Men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.
 
-society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.
-
-17. Gender sensitivity or gender awareness is the ability to identify gaps in power relations between Women and Men in the family and in the community, the impact of gender-based division of labor on Women and Men, and the experiences, problems, needs, interests and aspirations of Women and Men are different.
+17. Gender sensitivity or gender awareness is the ability to identify gaps in power relations between Women and Men in the family and in the community, the impact of gender-based division of labor on Women and Men, and that the experiences, problems, needs, interests and aspirations of Women and Men are different.
 
 18. Gender Mainstreaming in the region hereinafter referred to as PUG is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of regional development policies, programs, and activities.
 
-19. Integrated Service Center hereinafter abbreviated as PPT, is a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of trafficking in persons.
+19. Integrated Service Center hereinafter abbreviated as PPT, is a unit that provides integrated services for victims of violence and is integrated with PPT that provides integrated services for witnesses and/or victims of criminal acts of trafficking in persons.
 
 20. Gender Equality hereinafter referred to as KG is equality of rights, opportunities, benefits and decision-making between Women and men including in entering employment opportunities both in the formal and informal sectors.
 
-21. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills so that Women are ready to be utilized according to their respective abilities.
+21. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that Women are ready to be utilized according to their respective abilities.
 
 22. Woman is a human being of female sex and a person who is legally recognized as a Woman.
 
-23. Empowerment of victims of violence is the strengthening of Women victims of violence to be able to work and work independently
+23. Empowerment of victims of violence is the strengthening of Women victims of violence to be able to work and work independently after they are recovered and provided with health and social rehabilitation services.
 
-after they are recovered and provided with health and social rehabilitation services.
+24. Criminal Act of Trafficking in Persons or hereinafter referred to as TPPO is any act or series of acts that meet the elements of criminal acts determined in Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons.
 
-24. Criminal Act of Trafficking in Persons or hereinafter referred to as TPPO is any act or series of acts that meet the elements of a criminal act as determined in Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons.
+25. Health rehabilitation is an effort to restore the condition of victims including physical, psychological and social health so that victims can carry out their roles again properly and reasonably in the family and in society.
 
-25. Health rehabilitation is an effort to restore the condition of victims including physical, psychological and social health so that victims can carry out their roles again properly and naturally in the family and in society.
+26. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction to be able to carry out social functions again properly.
 
-26. Social rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction to be able to carry out social functions again properly.
-
-27. Repatriation is an effort to return victims of violence from the regional area where the violence occurred back to the area of origin concerned.
+27. Repatriation is an effort to return victims of violence from the regional area where the violence occurred back to the area of origin of the person concerned.
 
 28. Social reintegration is an effort to reunite victims with family, substitute family or community that can provide protection and fulfillment of needs for victims.
 
@@ -104,35 +108,33 @@ after they are recovered and provided with health and social rehabilitation serv
 
 30. Child is a person who has not reached the age of 18 (eighteen) years, including a Child who is still in the womb.
 
-31. Fulfillment of Children's Rights hereinafter abbreviated as PHA is all activities to guarantee and protect Children and their rights so that they can live, grow, develop and
+31. Fulfillment of Children's Rights hereinafter abbreviated as PHA is all activities to guarantee and protect Children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and dignity and receive protection from violence and discrimination.
 
-participate optimally in accordance with human dignity and receive protection from violence and discrimination.
+32. Child with Disability is a Child who has physical, mental, intellectual, or sensory limitations for a long period of time who in interacting with the environment and community attitudes may encounter obstacles that make it difficult to participate fully and effectively based on equal rights.
 
-32. Child with Disability is a Child who has physical, mental, intellectual, or sensory limitations in the long term who in interacting with the environment and community attitudes may encounter obstacles that make it difficult to participate fully and effectively based on equal rights.
+33. Child with Excellence is a Child who has commendable morals, extraordinary intelligence or has potential and/or special talents not limited to intellectual abilities, but also in other fields.
 
-33. Child with Excellence is a Child who has commendable character, extraordinary intelligence or has potential and/or special talents not limited to intellectual abilities, but also in other fields.
-
-34. Children's Rights are part of human rights that must be guaranteed, protected, and fulfilled by Parents, Families, communities, the state, government, and regional governments.
+34. Children's Rights are part of human rights that must be guaranteed, protected, and fulfilled by Parents, Family, community, state, government, and regional government.
 
 35. Prevention is activities carried out to prevent the occurrence of acts of violence against Women and Children.
 
-36. Safe House is a temporary residence or new residence designed under strict supervision and guard for 24 (twenty-four) hours which is kept confidential in accordance with standards based on applicable provisions intended for Women and Children victims of violence.
+36. Safe House is a temporary residence or new residence designed under strict supervision and guard conditions for 24 (twenty-four) hours that is kept confidential in accordance with standards based on applicable provisions intended for Women and Children victims of violence.
 
 37. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.
 
-38. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their development.
+38. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.
 
-39. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.
+39. Violence is any act against a Child that results in suffering or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.
 
-40. Victim is a Woman and/or Child who experiences misery and/or suffering that occurs in the area of Pekanbaru City.
+40. Victim is a Woman and/or Child who experiences suffering and/or suffering that occurs in the area of the City of Pekanbaru.
 
-41. People with HIV/AIDS hereinafter referred to as ODHA are people who have been infected with HIV both at the stage of no symptoms and those who already have symptoms.
+41. Person with HIV/AIDS hereinafter referred to as ODHA is a person who has been infected with HIV either at the stage of no symptoms or who already has symptoms.
 
 42. Standard Operating Procedure hereinafter abbreviated as SOP is a series of standardized written instructions regarding various processes of government administration, how and when it should be done, where and by whom it is done.
 
 43. Child Friendly City hereinafter abbreviated as KLA is a city that has a child rights-based development system through the integration of commitments and resources of the Government, Regional Government, community and business world that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights.
 
-## Article 2
+#### Article 2
 
 Protection of Women shall be conducted based on the following principles:
 
@@ -158,7 +160,7 @@ j. legal certainty; and
 
 k. local wisdom.
 
-## Article 3
+#### Article 3
 
 Protection of Children shall be conducted based on the following principles:
 
@@ -174,7 +176,7 @@ e. the right to live, grow, and develop of the Child; and
 
 f. local wisdom.
 
-## Article 4
+#### Article 4
 
 The purpose and objectives of this Regional Regulation are as the basis and guidelines for the Regional Government and stakeholders to:
 
@@ -200,11 +202,11 @@ j. encourage the realization of quality families; and
 
 k. increase the participation of non-governmental institutions to support the efforts of the Region in providing protection to Women.
 
-## Article 5
+#### Article 5
 
 The scope of this Regional Regulation includes:
 
-a. obligations and Responsibilities of the Regional Government;
+a. obligations and responsibilities of the Regional Government;
 
 b. rights of Women and Children;
 
@@ -226,27 +228,27 @@ j. participation of Parents, Family/Relatives and/or the Community;
 
 k. monitoring and Evaluation;
 
-1. guidance and Supervision; and
+l. guidance and Supervision; and
 
 m. prohibitions and sanctions.
 
-## CHAPTER II
+# CHAPTER II
 
-## OBLIGATIONS AND RESPONSIBILITIES OF THE REGIONAL GOVERNMENT
+OBLIGATIONS AND RESPONSIBILITIES OF THE REGIONAL GOVERNMENT
 
-## Article 6
+#### Article 6
 
 The Regional Government is responsible for guaranteeing and making maximum efforts to respect Women and Children in accordance with their dignity without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status and physical and mental condition.
 
-## Article 7
+#### Article 7
 
 The Regional Government has the obligation and responsibility to administer the protection of Women and Children in the Region.
 
-## Article 8
+#### Article 8
 
 The obligations and responsibilities for administering the Protection of Women and Children as referred to in Article 7 shall be implemented by the Agency.
 
-## Article 9
+#### Article 9
 
 The administration of protection for Women and Children in addition to being carried out by the Agency, is also the obligation and responsibility of related Regional Apparatus that handle Government affairs, as follows:
 
@@ -272,14 +274,15 @@ j. Transportation; and
 
 k. Sub-district.
 
-## CHAPTER III
+# CHAPTER III
 
-### RIGHTS OF WOMEN AND CHILDREN
-Part One
+RIGHTS OF WOMEN AND CHILDREN
 
-# Rights of Women
+## Part One
 
-## Article 10
+Rights of Women
+
+#### Article 10
 
 Every Woman has the following rights:
 
@@ -287,25 +290,25 @@ a. to live in prosperous conditions physically and mentally;
 
 b. to live in a family within the bonds of a lawful marriage in accordance with the teachings of the religion she adheres to;
 
-c. to obtain education and teaching in all types, levels and paths of education;
+c. to obtain education and teaching in all types, levels and pathways of education;
 
 d. to obtain protection from acts of discrimination;
 
 e. to obtain protection from economic and sexual exploitation;
 
-f. to obtain protection from physical, psychological, sexual violence, and neglect;
+f. to obtain protection from physical, psychological, sexual violence and neglect;
 
-g. to obtain decent work based on ability, interest and talent while upholding all matters related to her human nature;
+g. to obtain decent work based on her abilities, interests and talents while upholding all matters related to her human nature;
 
-h. to obtain access in advancing the business she runs for the purpose of creating adequate income improvement;
+h. to obtain access in advancing the business she runs in order to create an adequate increase in income;
 
 i. to obtain work leave while receiving wages/income in accordance with the provisions of laws and regulations;
 
-j. to obtain special protection in the performance of work or profession against matters that may threaten safety and/or health in connection with the reproductive function of Women;
+j. to receive special protection in the performance of her work or profession against matters that may threaten her safety and/or health in connection with the reproductive function of Women;
 
 k. to obtain legal information and services in accordance with her needs;
 
-1. to enjoy a good and healthy environment in accordance with the standards and provisions of laws and regulations;
+l. to enjoy a good and healthy living environment in accordance with the standards and provisions of laws and regulations;
 
 m. to own and manage joint property in a lawful marriage in accordance with laws and regulations; and
 
@@ -313,9 +316,9 @@ n. to have other rights attached in accordance with her human dignity based on t
 
 ## Part Two
 
-## Rights of Children
+Rights of Children
 
-## Article 11
+#### Article 11
 
 Every Child has the following rights:
 
@@ -341,93 +344,103 @@ j. to be recognized and know his/her parents, to be raised and cared for by his/
 
 k. to obtain health services and social security in accordance with physical, mental, spiritual, and social needs;
 
-1. to obtain education and teaching in accordance with interests and talents;
+l. to obtain education and teaching in accordance with his/her interests and talents;
 
-m. to obtain care, education, training, self-improvement and ability to participate in community and state life for Children with physical, mental disabilities and special needs;
+m. to obtain care, education, training, self-improvement and the ability to participate in community and state life for Children with physical, mental disabilities and special needs;
 
 n. to express and have his/her opinion heard;
 
-o. to rest and utilize free time for self-development outside school hours;
+o. to rest and utilize leisure time for self-development outside school hours;
 
 p. to obtain other rights in accordance with the provisions of laws and regulations.
 
 ## Part Three
 
-## Special Rights for Persons with Disabilities
+Special Rights for Persons with Disabilities
 
-## Article 12
+#### Article 12
 
 Women and Children with disabilities have the right to:
 
-a. obtain various facilities in carrying out various public services; and
+a. receive various facilities in carrying out various public services; and
 
-b. obtain additional facilities and infrastructure in carrying out activities in public spaces.
+b. receive additional facilities and infrastructure in carrying out activities in public spaces.
 
-## CHAPTER IV
+# CHAPTER IV
 
-## IMPROVEMENT OF THE QUALITY OF LIFE OF WOMEN IN THE REGION
+IMPROVEMENT OF THE QUALITY OF LIFE OF WOMEN IN THE REGION
 
-Part One
+## Part One
 
-Gender Mainstreaming Paragraph 1 Gender Mainstreaming Working Group
+PUG
 
-## Article 13
+### Paragraph 1
 
-To ensure the continuous implementation of Gender Mainstreaming in the Region, the Mayor shall establish a Regional-level Gender Mainstreaming Working Group.
+Pokja PUG
 
-## Article 14
+#### Article 13
 
-The membership of the Gender Mainstreaming Working Group as referred to in Article 13 consists of:
+To ensure the sustainable implementation of PUG in the Region, the Mayor shall establish a Regional level PUG Working Group.
 
-a. Regional Apparatus that administers Government Affairs in the field of Regional Development Planning as Chair of the Gender Mainstreaming Working Group.
+#### Article 14
 
-b. Regional Apparatus that administers Government Affairs in the field of Women's Empowerment, Child Protection and Community Empowerment as Head of the Secretariat of the Gender Mainstreaming Working Group.
+The membership of the Pokja PUG as referred to in Article 13 consists of:
 
-c. Regional Apparatus other than as referred to in letter a and letter b as members of the Gender Mainstreaming Working Group.
+a. Regional Apparatus that administers Government Affairs in the field of Regional Development Planning as Chair of the Pokja PUG.
 
-## Article 15
+b. Regional Apparatus that administers Government Affairs in the field of Women's Empowerment, Child Protection and Community Empowerment as Head of the Secretariat of the Pokja PUG.
 
-The establishment of the Gender Mainstreaming Working Group as referred to in Article 14 shall be stipulated by Mayor's Decree.
+c. Regional Apparatus other than as referred to in letter a and letter b as members of the Pokja PUG.
 
-## Paragraph 2
+#### Article 15
 
-Establishment of Gender Mainstreaming Working Group at Regional Apparatus Level
+The establishment of the Pokja PUG as referred to in Article 14 shall be stipulated by Mayor's Decree.
 
-## Article 16
+### Paragraph 2
 
-For the purpose of accelerating the implementation of PUG in the Region through the Regional level PUG Working Group formed by the Mayor
+Establishment of Regional Apparatus Level Pokja PUG
 
-as referred to in Article 25, the Mayor through the Regional Secretary orders that every head of Regional Apparatus form a PUG Working Group in each Regional Apparatus that he/she leads.
+#### Article 16
 
-Part Two Women's Empowerment Paragraph 1 Purpose of Women's Empowerment
+For the purposes of accelerating the implementation of PUG in the Region through the Regional level Pokja PUG established by the Mayor as referred to in Article 25, the Mayor through the Regional Secretary orders that every head of Regional Apparatus establish a Pokja PUG in each Regional Apparatus that he/she leads.
+
+## Part Two
+
+Women's Empowerment
+
+### Paragraph 1
+
+Purpose of Women's Empowerment
+
+#### Article 17
 
 In order to enhance the role and position as well as quality of Women in family and society, the Regional Government conducts empowerment of Women.
 
-## Article 18
+#### Article 18
 
-Women's Empowerment as referred to in Article 17 is intended so that every Woman has the ability and capacity to achieve progress in the economic, political, social, cultural, and legal fields.
+The empowerment of Women as referred to in Article 17 is intended so that every Woman has the ability and capacity to achieve progress in the economic, political, social, cultural, and legal fields.
 
-## Paragraph 2
+### Paragraph 2
 
 Women's Empowerment System
 
-## Article 19
+#### Article 19
 
-Women's Empowerment as referred to in Article 18 is implemented through an empowerment system carried out comprehensively, inclusively and integratively.
+The empowerment of Women as referred to in Article 18 is organized through an empowerment system implemented comprehensively, inclusively and integratively.
 
-## Article 20
+#### Article 20
 
 The Women's empowerment system aims to:
 
-a. improve the quality of life of Women and Families;
+a. improve the quality of life of Women, and Families;
 
 b. increase the institutional capacity of Women's empowerment in the Region, including the development of its gender system; and
 
 c. provide protection of Women's rights from various forms of violence and other discriminatory treatment.
 
-## Article 21
+#### Article 21
 
-In order to realize the objective of improving the quality of life of Women and families as referred to in Article 20 letter a, it is carried out through:
+In order to realize the objective of improving the quality of life of Women, and families as referred to in Article 20 letter a, it is carried out through:
 
 a. providing access to Women to enjoy education, health, and other strategic field services;
 
@@ -439,7 +452,7 @@ d. encouraging programs that can increase the independence of Women in the econo
 
 e. providing opportunities and chances to every Woman to occupy various positions and posts in various fields of work, including strategic positions as long as they are in accordance with her capacity and ability.
 
-## Article 22
+#### Article 22
 
 In order to realize the objective of increasing the institutional capacity of Women's empowerment in the Region, including the development of its gender system as referred to in Article 30 letter b, it is carried out through efforts to:
 
@@ -451,11 +464,11 @@ c. strengthen the institutional capacity of PUG in the Region; and
 
 d. strengthen and develop the gender data system.
 
-## Paragraph 3
+### Paragraph 3
 
 Methods of Providing Protection of Women's Rights From Various Forms of Violence and Discriminatory Treatment
 
-## Article 23
+#### Article 23
 
 In order to implement the objective of providing protection of Women's rights from various forms of violence and other discriminatory treatment as referred to in Article 20 letter c, it is carried out through:
 
@@ -469,19 +482,19 @@ d. rehabilitative efforts,
 
 in accordance with the provisions of laws and regulations.
 
-## Article 24
+#### Article 24
 
-Promotive efforts as referred to in Article 23 letter a are implemented by:
+Promotive efforts as referred to in Article 23 letter a are organized by:
 
 a. strengthening coordination mechanisms and work networks between service units in efforts to handle cases of violence;
 
 b. providing Communication, Information, and Education (KIE) materials related to the prevention and handling of violence; and
 
-c. conducting socialization, advocacy and social campaigns in the context of preventing and handling violence.
+c. organizing socialization, advocacy and social campaigns in the context of preventing and handling violence.
 
-## Article 25
+#### Article 25
 
-Preventive efforts as referred to in Article 23 letter b are implemented by:
+Preventive efforts as referred to in Article 23 letter b are organized by:
 
 a. conducting legal awareness counseling for the community, especially for women;
 
@@ -489,21 +502,21 @@ b. developing massive and sustainable movements involving the community in actio
 
 c. instilling character values, morals, and family resilience; and
 
-d. involving the role and participation of the community in Women's empowerment.
+d. involving the role and participation of the community in the empowerment of Women.
 
-## Article 26
+#### Article 26
 
-Curative efforts as referred to in Article 23 letter c are implemented by:
+Curative efforts as referred to in Article 23 letter c are organized by:
 
 a. optimizing technical service units related to complaints of violence against Women;
 
 b. providing adequate facilities and infrastructure for handling health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid; and
 
-c. conducting handling of victims of crime and violence quickly, precisely, and accurately by law enforcement officers.
+c. handling victims of crime and violence quickly, precisely, and accurately by law enforcement officers.
 
-## Article 27
+#### Article 27
 
-Rehabilitative efforts as referred to in Article 23 letter d are implemented by:
+Rehabilitative efforts as referred to in Article 23 letter d are organized by:
 
 a. providing accompanying personnel for victims of crime and violence, which include among others:
 
@@ -519,30 +532,31 @@ a. providing accompanying personnel for victims of crime and violence, which inc
 
 b. strengthening work networks and coordination in the reintegration process and repatriation of victims to their families and/or social environment.
 
-## Paragraph 4
+### Paragraph 4
+
 Establishment of UPT PPA
 
-### Article 28
+#### Article 28
 
 In building a comprehensive, inclusive, and integrative Women's empowerment system, strong commitment among stakeholders at the Regional level is required.
 
-### Article 29
+#### Article 29
 
 The Women's and Children's empowerment system is realized, among others, through the establishment of UPT formed by the Regional Government.
 
-### Article 30
+#### Article 30
 
 (1) The technical service unit as referred to in Article 29 is UPT PPA or similar institutions that have the same functions and roles.
 
 (2) The position of UPT PPA as referred to in paragraph (1) is under and responsible to the Head of the Agency.
 
-### Article 31
+#### Article 31
 
-UPT PPA as referred to in Article 30 does not have authority in terms of policy formulation related to Women's empowerment and Child protection and is not an activity across Regional Apparatus.
+UPT PPA as referred to in Article 30, does not have authority in terms of policy formulation related to Women's empowerment and Children's protection and is not a cross-Regional Apparatus activity.
 
-## Article 32
+#### Article 32
 
-(1) UPT PPA as referred to in Article 30 functions as:
+(1) UPT PPA as referred to in Article 30, functions as:
 
 a. an information center for Women and Children;
 
@@ -556,15 +570,15 @@ c. an empowerment center for Women and Children.
 
 ## Part Three
 
-## Women's Capacity Building
+Increasing Women's Capacity
 
-## Article 33
+#### Article 33
 
-Women's capacity building is intended as an effort by the Regional Government to encourage Women to play a role/contribute maximally in the implementation of development in the Region.
+Increasing Women's capacity is intended as an effort by the Regional Government to encourage Women to play a role/contribute maximally in the implementation of development in the Region.
 
-## Article 34
+#### Article 34
 
-Efforts to increase Women's capacity as referred to in Article 43 are carried out in the following various fields:
+Efforts to increase Women's capacity as referred to in Article 43, are carried out in the following various fields:
 
 a. economy;
 
@@ -576,9 +590,9 @@ d. culture; and
 
 e. law.
 
-## Article 35
+#### Article 35
 
-Women's capacity building in the economic field as referred to in Article 34 letter a is carried out by:
+Increasing Women's capacity in the economic field as referred to in Article 34 letter a is carried out by:
 
 a. multiplying training programs for Women entrepreneurs;
 
@@ -590,31 +604,31 @@ d. developing alternative fund/facility support for Women innovators; and
 
 e. providing and helping to provide market access for MSME products produced by Women in the Region.
 
-## Article 36
+#### Article 36
 
-Capacity building for Women in the political field as referred to in Article 34 letter b shall be carried out by:
+Increasing Women's capacity in the political field as referred to in Article 34 letter b is carried out by:
 
-a. increasing training programs for strengthening the political role of Women in the Region;
+a. multiplying training programs to strengthen Women's political role in the Region;
 
-b. increasing socialization regarding efforts to enhance Women's political participation in general elections;
+b. multiplying socialization about efforts to increase Women's political participation in general elections;
 
 c. preparing a facilitation system for Women's self-development in organizing, associating and assembling in the Region;
 
-d. developing support for Women's capacity building by always involving them in decision-making concerning Women's interests in the Region; and
+d. developing support for increasing Women's capacity by always involving them in decision-making concerning Women's interests in the Region; and
 
-e. implementing various programs deemed capable of encouraging Women to dare to take and occupy public positions open to be held by Women.
+e. implementing various programs deemed capable of encouraging Women to dare to take and occupy public positions that are open to be held by Women.
 
-## Article 37
+#### Article 37
 
-Capacity building for Women in the social field as referred to in Article 34 letter c shall be carried out by:
+Capacity building for Women in the social field as referred to in Article 34 letter c shall be carried out by means of:
 
-a. facilitating a Woman's access to science and technology for her future;
+a. facilitating a Woman to access science and technology for her future;
 
 b. increasing socialization regarding efforts to improve Women's health, especially Women's reproductive health;
 
-c. developing Women's participation in planning independent, prosperous families, both physically and spiritually;
+c. developing Women's participation in independent family planning, prosperous physically and spiritually;
 
-d. encouraging every marriage conducted by a Woman to be officially recorded in State documents;
+d. encouraging every marriage performed by a Woman to be officially recorded in State documents;
 
 e. persuasively inviting Women in the Region not to engage in early marriage;
 
@@ -622,43 +636,43 @@ f. encouraging the continuous implementation of programs to reduce maternal mort
 
 g. encouraging the formation and development of various organizations and various forums and coalitions of Women in the Region; and
 
-h. making massive efforts so that cooperation among various Women's organizations in the Region develops well and is able to contribute concretely in the Region.
+h. making massive efforts so that cooperation between various Women's organizations in the Region develops well so as to be able to contribute concretely in the Region.
 
-## Article 38
+#### Article 38
 
-Capacity building for Women in the cultural field as referred to in Article 34 letter d shall be carried out by:
+Capacity building for Women in the cultural field as referred to in Article 34 letter d shall be carried out by means of:
 
 a. facilitating every activity of Women related to culture, customs and traditions; and
 
-b. preserving various cultures and local wisdom that can shape Women's character into individuals who have strong and independent character in fighting for their lives.
+b. preserving various cultures and local wisdom that can shape the character of Women into individuals who have strong and independent character in fighting for their lives.
 
-## Article 39
+#### Article 39
 
-Capacity building for Women in the legal field as referred to in Article 34 letter e shall be carried out by:
+Capacity building for Women in the legal field as referred to in Article 34 letter e shall be carried out by means of:
 
 a. increasing socialization activities of various laws and regulations related to Women's legal awareness;
 
-b. conducting mapping of adverse impacts due to Women's weak understanding in the legal field;
+b. conducting mapping of adverse impacts due to weak understanding of Women in the legal field;
 
-c. making policies that can minimize Women's gender bias; and
+c. making policies that can minimize gender bias against Women; and
 
-d. always involving and seeking Women's opinions in the process of drafting and discussing legal products in the Region that are laden with Women's interests.
+d. always involving and seeking the opinions of Women in the process of drafting and discussing legal products in the Region that are laden with Women's interests.
 
 ## Part Four
 
-## Strengthening and Development of Women's Empowerment Service Provider Institutions
+Strengthening and Development of Women's Empowerment Service Provider Institutions
 
-## Article 40
+#### Article 40
 
 For the purpose of improving the quality of life of Women in the Region, the Regional Government shall strengthen and develop Women's Empowerment Service Provider Institutions in the Region.
 
-## Article 41
+#### Article 41
 
 Strengthening and development of Women's Empowerment Service Provider Institutions in the Region as referred to in Article 50 shall be implemented by the Regional Government by doing the following:
 
-a. establishing cooperation between Regional Apparatus that administer governmental affairs in the field of Women's and Children's empowerment with various partnership networks originating from the community, NGOs, foundations, universities, and other institutions engaged in providing Women's empowerment services in the Region;
+a. establishing cooperation between Regional Apparatus that administer governmental affairs in the field of Women's and Children's empowerment with various partnership networks originating from the community, NGOs, foundations, universities, and other institutions engaged in the provision of Women's empowerment services in the Region;
 
-b. seeking budget adequacy through proportional provision in the APBD and other sources that are non-binding based on laws and regulations; and
+b. seeking budget adequacy through proportional provision in the APBD and other sources that are not binding based on laws and regulations; and
 
 c. conducting approaches and embracing various structural and non-structural circles with the following backgrounds:
 
@@ -670,9 +684,15 @@ c. conducting approaches and embracing various structural and non-structural cir
 
 d. Conducting various trainings, technical guidance, workshops, and FGDs and other forms related to efforts to strengthen and develop Women's Empowerment Service Provider Institutions in the Region.
 
-CHAPTER V PROTECTION OF WOMEN Part One General
+# CHAPTER V
 
-Article 42
+PROTECTION OF WOMEN
+
+## Part One
+
+General
+
+#### Article 42
 
 Protection of Women shall be organized by the Regional Government by actively involving the following components:
 
@@ -684,13 +704,13 @@ c. community; and
 
 d. community organizations.
 
-Article 43
+#### Article 43
 
 Community organizations as referred to in Article 42 letter d are community organizations established with the intention of protecting Women.
 
-Article 44
+#### Article 44
 
-The Regional Government in its efforts to protect Women as referred to in Article 42 is responsible for doing the following:
+The Regional Government in its efforts to protect Women as referred to in Article 42 shall be responsible for doing the following:
 
 a. planning, making, establishing and organizing policies, programs and activities for the protection of Women;
 
@@ -698,13 +718,13 @@ b. strengthening and developing institutions providing Women's protection servic
 
 c. conducting various preventive efforts early on so that violence against Women does not occur or can be minimized;
 
-d. massively and continuously making various efforts to prevent acts of violence against Women in all fields of life;
+d. conducting various efforts massively and continuously so that acts of violence against Women do not occur in all fields of life;
 
 e. massively and continuously preventing the occurrence of TPPO; and
 
 f. continuously striving to provide protection for Women workers.
 
-## Article 45
+#### Article 45
 
 In order for the efforts to protect Women as referred to in Article 44 to be well organized, the Regional Government shall coordinate, cooperate and partner with the following parties:
 
@@ -726,7 +746,7 @@ g. media.
 
 Prevention of Acts of Violence Against Women
 
-## Article 46
+#### Article 46
 
 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:
 
@@ -736,85 +756,83 @@ b. developing an integrated information system database on acts of violence agai
 
 c. strengthening the competence of apparatus handling violence against Women;
 
-d. creating various modules and guidelines on prevention and handling of acts of violence against Women;
+d. creating various modules and guidelines on the prevention and handling of acts of violence against Women;
 
-e. conducting various trainings and guidance for social workers engaged in organizations/institutions handling violence against Women;
+e. conducting various trainings and guidance for social workers working in organizations/institutions handling violence against Women;
 
 f. inviting the community to play an active role in recovery and reintegration;
 
 g. strengthening the functions of community organizations engaged in the field of Women's empowerment;
 
-h. conducting various socializations regarding prevention and anticipation of acts of violence against Women to various community components in the Region; and
+h. conducting various socializations regarding the prevention and anticipation of acts of violence against Women to various components of the community in the Region; and
 
-i. optimizing the role of religious institutions, customary institutions, culture, and exploring local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.
+i. optimizing the role of religious institutions, customary institutions, culture, and exploring local wisdom in order to prevent and minimize violence against Women both occurring at home or outside the home.
 
-Part Three
+## Part Three
 
-# Empowerment of Women Victims of Violence
+Empowerment of Women Victims of Violence
 
-## Article 47
+#### Article 47
 
-The Regional Government is committed to carrying out recovery for Women victims of violence by implementing empowerment and preparing budgets according to regional financial capacity.
+The Regional Government is committed to carrying out recovery for Women victims of violence by implementing empowerment and preparing a budget according to regional financial capacity.
 
-## Article 48
+#### Article 48
 
 Empowerment of Women victims of violence as referred to in Article 47 may take the form of:
 
 a. job skills training;
 
-b. development of productive economic enterprises both individual and group;
+b. development of productive economic enterprises both individually and in groups;
 
-c. capital assistance by seeking soft loans;
+c. capital assistance by seeking soft credit;
 
-d. facilitating access to the banking and non-banking sectors; and
+d. facilitating access to the banking and non-banking world; and
 
 e. marketing assistance for various products produced by Women victims of violence.
 
-## Article 49
+#### Article 49
 
-Job skills training as referred to in Article 48 letter a shall be organized by way of:
+Job skills training as referred to in Article 48 letter a shall be organized by means of:
 
 a. training in various types of job skills; and
 
-b. seeking places to conduct internship activities.
+b. finding places to conduct internship activities.
 
-## Article 50
+#### Article 50
 
-Development of productive economic enterprises both individual and group as referred to in Article 58 letter b shall be organized by way of:
+Development of productive economic enterprises both individually and in groups as referred to in Article 58 letter b shall be organized by means of:
 
 a. providing entrepreneurship training;
 
 b. assistance in running entrepreneurship;
 
-c. continuous guidance; and
+c. continuous coaching; and
 
 d. facilitation of the formation of entrepreneurship groups.
 
-## Article 51
+#### Article 51
 
-Capital assistance by seeking soft loans as referred to in Article 58 letter c shall be organized by way of:
+Capital assistance by facilitating soft loans as referred to in Article 58 letter c shall be organized by means of:
 
 a. approaching financing source institutions to provide assistance to Women victims of violence;
 
 b. assisting in the provision of facilities and infrastructure; and
 
-c. seeking to ensure that available cheap capital assistance is obtained by Women victims of violence.
+c. endeavoring that existing cheap capital assistance be obtained by Women victims of violence.
 
 ## Part Four
 
-Provision of Integrated Services for Women Victims
+Provision of Integrated Services for Women Victims of Violence
 
-of Violence
-
-Paragraph 1
+### Paragraph 1
 
 Principles and Forms of Services
 
-## Article 52
+#### Article 52
 
 Protection of Women victims of violence shall be implemented through the provision of integrated services.
 
-## Article 53
+#### Article 53
 
 Integrated services for Women victims of violence as referred to in Article 52 shall be implemented by adhering to principles, which include:
 
@@ -822,7 +840,7 @@ a. gender responsive;
 
 b. non-discriminatory;
 
-c. equal and respectful relationships;
+c. equal and respectful relations;
 
 d. maintaining confidentiality;
 
@@ -842,7 +860,7 @@ k. empathy; and
 
 l. fulfillment of Women's rights.
 
-## Article 54
+#### Article 54
 
 Forms of integrated services for Women victims of violence shall be provided in the form of:
 
@@ -852,19 +870,19 @@ b. health rehabilitation;
 
 c. social rehabilitation;
 
-d. law enforcement and legal assistance; and
+d. law enforcement and legal aid; and
 
 e. repatriation and social reintegration.
 
-## Paragraph 2
+### Paragraph 2
 
-### Complaint Handling
+Complaint Handling
 
-## Article 55
+#### Article 55
 
-Integrated services for complaint handling as referred to in Article 54 letter a shall be organized by relevant Regional Apparatus and coordinate with vertical institutions or agencies in the Region.
+Integrated services for complaint handling as referred to in Article 54 letter a shall be organized by related Regional Apparatus and coordinated with vertical institutions or agencies in the Region.
 
-## Article 56
+#### Article 56
 
 Complaints of acts of violence against Women may be made by reporters consisting of:
 
@@ -872,11 +890,11 @@ a. victims;
 
 b. family;
 
-c. the community; and/or
+c. community; and/or
 
 d. community organizations engaged in the field of Women's protection.
 
-## Article 57
+#### Article 57
 
 Forms of complaints as referred to in Article 56 may be made:
 
@@ -886,19 +904,19 @@ b. by telephone; and/or
 
 c. by letter.
 
-## Article 58
+#### Article 58
 
 In handling complaints as referred to in Article 54 letter a, the Regional Apparatus as referred to in Article 55 shall be given the authority to handle victims of acts of violence against Women obtained through other information.
 
-## Article 59
+#### Article 59
 
-Further provisions regarding the procedures for complaint handling services as referred to in Article 56 and Article 57 shall be regulated in a Mayor Regulation.
+Further provisions regarding procedures for complaint handling services as referred to in Article 56 and Article 57 shall be regulated in a Mayor Regulation.
 
-## Paragraph 3
+### Paragraph 3
 
-### Health Rehabilitation
+Health Rehabilitation
 
-## Article 60
+#### Article 60
 
 Health rehabilitation as referred to in Article 54 letter b constitutes efforts that include aspects of:
 
@@ -910,19 +928,19 @@ c. curative; and
 
 d. rehabilitative.
 
-## Article 61
+#### Article 61
 
-Health rehabilitation as referred to in Article 60 shall be conducted with the following standards and provisions:
+Health rehabilitation as referred to in Article 60 shall be carried out with the following standards and provisions:
 
 a. comprehensively;
 
-b. accessible 24 (twenty-four) hours at Regional General Hospitals and other private hospitals;
+b. accessible 24 (twenty-four) hours at the Regional General Hospital and other private hospitals;
 
 c. quality; and
 
-d. conducted in accordance with health service standards.
+d. carried out in accordance with health service standards.
 
-## Article 62
+#### Article 62
 
 Women victims of violence have the right to free health services, including:
 
@@ -932,21 +950,19 @@ b. medicolegal services; and
 
 c. visum.
 
-## Article 63
+#### Article 63
 
-Further provisions regarding the procedures for implementing free health services as referred to in Article 62 shall be regulated in a Mayor Regulation.
+Further provisions regarding procedures for implementing free health services as referred to in Article 62 shall be regulated in a Mayor Regulation.
 
-## Paragraph 4
+### Paragraph 4
 
-### Social Rehabilitation
+Social Rehabilitation
 
-## Article 64
+#### Article 64
 
-Social rehabilitation as referred to in Article 54 letter c is intended to restore and develop
+Social rehabilitation as referred to in Article 54 letter c is aimed at restoring and developing the capacity of Women victims of acts of violence who experience social dysfunction to be able to carry out their social functions in society properly.
 
-the capacity of Women victims of acts of violence who experience social dysfunction to be able to carry out their social functions in society properly.
-
-## Article 65
+#### Article 65
 
 Social rehabilitation as referred to in Article 54 letter c shall be provided in the form of the following services:
 
@@ -956,19 +972,19 @@ b. provision of safe houses; and
 
 c. spiritual guidance.
 
-## Article 66
+#### Article 66
 
 The provision of services as referred to in Article 65 shall be organized by:
 
-a. Regional Apparatus that organizes Government Affairs in the Social Sector;
+a. Regional Apparatus that administers Government Affairs in the Social Sector;
 
-b. Regional Apparatus that organizes Government Affairs in the Sector of Women's Empowerment, and may cooperate with integrated service centers, women crisis centers or community organizations in the social sector that already exist;
+b. Regional Apparatus that administers Government Affairs in the Field of Women's Empowerment, and may cooperate with integrated service centers, women crisis centers or social community organizations that already exist;
 
 c. Agencies; and/or
 
 d. religious organizations.
 
-## Article 67
+#### Article 67
 
 Counseling services as referred to in Article 65 letter a aim to:
 
@@ -980,9 +996,9 @@ c. provide moral support to Women victims of violence in facing the recovery pro
 
 d. make Women victims of acts of violence feel accepted in the community environment.
 
-## Article 68
+#### Article 68
 
-Counseling services shall be conducted by social rehabilitation officers who have concern for gender responsiveness and consist of:
+Counseling services shall be carried out by social rehabilitation officers who have concern for gender responsiveness and consist of:
 
 a. counselors;
 
@@ -990,11 +1006,11 @@ b. psychologists; and
 
 c. psychiatrists.
 
-## Article 69
+#### Article 69
 
-Counseling services shall be conducted in a place that guarantees a sense of security, comfort and confidentiality of information from Women victims of violence.
+Counseling services shall be carried out in a place that guarantees a sense of security, comfort and confidentiality of information from Women victims of violence.
 
-## Article 70
+#### Article 70
 
 The process and stages of counseling services include:
 
@@ -1006,19 +1022,19 @@ c. case discussion; and
 
 d. site visits.
 
-## Article 71
+#### Article 71
 
 The Regional Government may provide safe houses for Women victims of violence at locations designated by the Regional Government.
 
-## Article 72
+#### Article 72
 
-The provision of safe house services as referred to in Article 65 letter b aims to protect Women victims of violence from intimidation by perpetrators of violence or other parties related to perpetrators of violence.
+The service of providing safe houses as referred to in Article 65 letter b aims to protect Women victims of violence from intimidation by perpetrators of violence or other parties related to perpetrators of violence.
 
-## Article 73
+#### Article 73
 
 The location of safe houses as referred to in Article 71 must be kept confidential.
 
-## Article 74
+#### Article 74
 
 Criteria for Women victims of violence who are entitled to and require safe houses include the following conditions:
 
@@ -1030,9 +1046,9 @@ c. requiring intensive services but their residence is relatively far; and/or
 
 d. abandoned if not placed in a safe house.
 
-## Article 75
+#### Article 75
 
-The provision of safe house services shall be conducted by social rehabilitation officers who have gender sensitivity or gender awareness and consist of:
+The provision of safe house services shall be carried out by social rehabilitation officers who have gender sensitivity or gender awareness and consist of:
 
 a. social workers/volunteers;
 
@@ -1040,15 +1056,15 @@ b. security officers; and/or
 
 c. community leaders.
 
-## Article 76
+#### Article 76
 
 Further provisions regarding the provision of safe house services shall be regulated in a Mayor Regulation.
 
-## Article 77
+#### Article 77
 
 Spiritual guidance as referred to in Article 65 letter c aims for psychological recovery.
 
-## Article 78
+#### Article 78
 
 Spiritual guidance as referred to in Article 77 shall be implemented based on the principles of:
 
@@ -1056,11 +1072,11 @@ a. not imposing any religion or belief on Women victims of violence; and
 
 b. leaving the final decision in the hands of Women victims of violence.
 
-## Article 79
+#### Article 79
 
-Spiritual guidance is carried out by spiritual guidance officers in accordance with the religion and beliefs of the victim or may cooperate with the ministry of religion.
+Spiritual guidance shall be carried out by spiritual guidance officers in accordance with the religion and beliefs of victims or may cooperate with the ministry of religion.
 
-## Article 80
+#### Article 80
 
 Spiritual guidance officers as referred to in Article 79 consist of:
 
@@ -1072,23 +1088,23 @@ c. Religious Affairs Office officers; and
 
 d. religious leaders who have gender sensitivity or gender awareness.
 
-## Paragraph 5
+### Paragraph 5
 
 Law Enforcement and Legal Aid
 
-## Article 81
+#### Article 81
 
-Law enforcement and legal aid services as referred to in Article 54 letter d constitute actions by law enforcement officials to implement laws and regulations in the context of handling cases of violence against Women, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims.
+Law enforcement and legal aid services as referred to in Article 54 letter d constitute actions by law enforcement officials to implement laws and regulations in order to handle cases of violence against Women, especially to provide sanctions against perpetrators and provide protection for witnesses and/or victims.
 
-## Article 82
+#### Article 82
 
-Law enforcement and legal aid services as referred to in Article 81 are carried out by prioritizing the best interests of the victim.
+Law enforcement and legal aid services as referred to in Article 81 shall be carried out by prioritizing the best interests of victims.
 
-## Article 83
+#### Article 83
 
-Law enforcement and legal aid services are aimed at providing assistance and protection to Women victims of violence and witnesses with a gender-responsive approach so that victims obtain justice and legal certainty.
+Law enforcement and legal aid services are intended to provide assistance and protection to Women victims of violence and witnesses with a gender-responsive approach so that victims obtain justice and legal certainty.
 
-## Article 84
+#### Article 84
 
 Legal aid services as referred to in Article 83 include:
 
@@ -1102,39 +1118,37 @@ d. legal aid in the court hearing decision process until there is a final legal 
 
 e. legal aid in the mediation process.
 
-## Article 85
+#### Article 85
 
 The Regional Government provides legal aid to Women victims of violence based on the provisions of laws and regulations.
 
-## Article 86
+#### Article 86
 
 In providing legal aid as referred to in Article 85, the Regional Government may cooperate and establish partnerships with the following parties:
 
 a. legal aid institutions;
 
-b. women crisis center;
+b. women crisis centers;
 
 c. advocates and/or other legal assistants.
 
-## Paragraph 6
+### Paragraph 6
 
-## Repatriation and Social Reintegration
+Repatriation and Social Reintegration
 
-## Article 87
+#### Article 87
 
-Repatriation as referred to in Article 54 letter e is aimed at returning Women victims of violence to their Region of origin.
+Repatriation as referred to in Article 54 letter e is intended to return Women victims of violence to their Region of origin.
 
-## Article 88
+#### Article 88
 
 Repatriation of Women victims of violence is accompanied by social reintegration efforts.
 
-## Article 89
+#### Article 89
 
-Social reintegration as referred to in Article 54 letter e is carried out in order to reunite Women victims of violence with family, substitute family, or community that can provide
+Social reintegration as referred to in Article 54 letter e is carried out in order to reunite Women victims of violence with family, substitute family, or community that can provide protection and fulfillment of needs for Women victims of violence.
 
-protection and fulfillment of needs for Women victims of violence.
-
-## Article 90
+#### Article 90
 
 The purpose and objective of social reintegration is so that:
 
@@ -1142,19 +1156,19 @@ a. Women victims of violence can resume their social life; and
 
 b. Women victims of violence can regain a decent life as before the occurrence of violence against them.
 
-## Article 91
+#### Article 91
 
 Social reintegration as referred to in Article 89 is carried out after the victim receives social rehabilitation services.
 
-## Article 92
+#### Article 92
 
 The Regional Government carries out repatriation and social reintegration of Women victims of violence in accordance with the provisions of laws and regulations.
 
 ## Part Five
 
-## Employment Protection
+Employment Protection
 
-## Article 93
+#### Article 93
 
 (1) Every employer who employs Women is obliged to maintain:
 
@@ -1170,7 +1184,7 @@ e. security.
 
 (2) The Employer's obligations to Women as referred to in paragraph (1) are carried out by the Employer while the Women workers are at the workplace and during working hours that have been determined.
 
-(3) Working hours as referred to in paragraph (2) apply to Women who enter into employment agreements for a specified time or for an unspecified time.
+(3) Working hours as referred to in paragraph (2) apply to Women who enter into employment agreements for a definite period or for an indefinite period.
 
 (4) Fixed-term employment agreements entered into by Employers and Women workers must be made in writing and must use the Indonesian language and Latin script.
 
@@ -1178,25 +1192,25 @@ e. security.
 
 a. Work that is completed once or is temporary in nature;
 
-b. Work that is estimated to be completed within a relatively short time;
+b. Work that is estimated to be completed within a not too long time;
 
 c. Seasonal work;
 
-d. Work related to new products, new activities, or additional products that are still in trial or exploration; or
+d. Work related to new products, new activities, or additional products that are still being tested or explored; or
 
 e. Work whose type and nature or activity is not permanent.
 
-(6) Fixed-term employment agreements made by Employers and Women workers cannot be entered into for work that is permanent in nature.
+(6) Fixed-term employment agreements made by Employers and Women workers cannot be made for work that is permanent in nature.
 
 (7) Fixed-term employment agreements that do not meet the provisions as referred to in paragraph (5)
 
-and paragraph (6) by law become indefinite-term employment agreements.
+and paragraph (6) shall by law become indefinite-term employment agreements.
 
-## Article 94
+#### Article 94
 
 Employers are obliged to place Women workers in places that are safe for the reproductive health of the Women concerned.
 
-## Article 95
+#### Article 95
 
 (1) Employers are obliged to fulfill the rights of Women workers to receive wages in accordance with the provisions of laws and regulations, both for fixed-term workers and for indefinite-term workers.
 
@@ -1214,25 +1228,25 @@ a. time units; and/or
 
 b. output units.
 
-(4) In addition to paying overtime wages as referred to in paragraph (2) letter c, Employers who order Women workers to perform overtime are obliged to:
+(4) In addition to paying overtime wages as referred to in paragraph (2) letter c, Employers who order Women workers to carry out overtime are obliged to:
 
 a. provide adequate rest opportunities; and
 
 b. provide food and beverages of at least 1,400 (one thousand four hundred) kilocalories, if overtime work is carried out for 4 (four) hours or more.
 
-## Article 96
+#### Article 96
 
 Employers are obliged to provide special breastfeeding facilities for Women who work in their companies.
 
-## Article 97
+#### Article 97
 
 Women workers/employees under the age of 18 (eighteen) years are prohibited from being employed between 23.00 WIB and 07.00 WIB.
 
-## Article 98
+#### Article 98
 
 Employers are prohibited from employing pregnant Women workers/employees who according to a doctor's statement are dangerous to the health and safety of their pregnancy.
 
-## Article 99
+#### Article 99
 
 Employers who employ Women workers/employees between 23.00 WIB and 07.00 WIB are obliged to:
 
@@ -1240,7 +1254,7 @@ a. provide food and beverages containing sufficient nutrition; and
 
 b. maintain the honor, morality and security of Women workers/employees while at the workplace.
 
-## Article 100
+#### Article 100
 
 Employers are obliged to provide shuttle transportation for Women workers/employees who depart and return from work between 23.00 WIB and 05.00 WIB.
 
@@ -1248,11 +1262,11 @@ Employers are obliged to provide shuttle transportation for Women workers/employ
 
 Strengthening and Development of Women's Protection Service Provider Institutions
 
-## Article 101
+#### Article 101
 
 The Regional Government is obliged to carry out strengthening and development of women's protection service provider institutions in the Region.
 
-## Article 102
+#### Article 102
 
 Strengthening and development of women's protection service provider institutions as referred to in Article 101 is intended so that cases of violence against Women can be handled:
 
@@ -1260,39 +1274,45 @@ a. on target;
 
 b. innovatively; and
 
-c. handled professionally,
+c. handled professionally, by skilled personnel who have gender sensitivity or gender awareness.
 
-by skilled personnel who have gender sensitivity or gender awareness.
+# CHAPTER VI
 
-## CHAPTER VI FAMILY QUALITY Part One General
+FAMILY QUALITY
 
-## Article 103
+## Part One
 
-Implementation of family quality improvement is carried out continuously.
+General
 
-## Article 104
+#### Article 103
 
-The implementation of continuous improvement of family quality as referred to in Article 103 shall be carried out by adopting the following various methods:
+The implementation of family quality improvement is carried out continuously.
 
-a. conducting efforts to improve family quality to realize gender equality and the rights of Children;
+#### Article 104
 
-b. providing services for families in realizing gender equality and the rights of Children; and
+The implementation of family quality improvement continuously as referred to in Article 103 is carried out by taking the following various ways:
 
-c. strengthening and developing institutions providing family quality improvement services.
+a. making efforts to improve family quality to realize gender equality and Children's rights;
 
-## Part Two Efforts to Improve Family Quality
+b. providing services for families in realizing gender equality and Children's rights; and
 
-## Article 105
+c. strengthening and developing family quality improvement service provider institutions.
 
-Efforts to improve family quality to realize gender equality and the rights of Children as referred to in Article 104 letter a shall be carried out through:
+## Part Two
 
-a. implementation of policies, programs and activities for improving family quality to realize gender equality and child protection in the region; and
+Family Quality Improvement Efforts
 
-b. development of materials and implementation of communication, information and education on gender equality and child protection for families in the region.
+#### Article 105
 
-## Article 106
+Efforts to improve family quality to realize gender equality and Children's rights as referred to in Article 104 letter a are carried out through:
 
-Implementation of activities for improving family quality to realize gender equality and child protection in the Region as referred to in Article 105 letter a shall be carried out with the following various activities:
+a. implementation of policies, programs and activities to improve family quality to realize gender equality and Child protection in the region; and
+
+b. development of materials and implementation of communication, information and education on gender equality and Child protection for families in the region.
+
+#### Article 106
+
+Implementation of activities to improve family quality to realize gender equality and Child protection in the Region as referred to in Article 105 letter a is carried out with the following activities:
 
 a. guidance;
 
@@ -1304,23 +1324,23 @@ d. facilitation of family development implementation; and
 
 e. improving the health quality of pregnant and breastfeeding mothers.
 
-## Article 107
+#### Article 107
 
 Guidance activities in the context of improving family quality as referred to in Article 106 letter a, include:
 
-a. guiding families to pay close attention to every aspect of the growth and development of toddler Children;
+a. guiding families to pay close attention to every aspect of toddler Child growth and development;
 
-b. guiding families in efforts to improve the quality of Children by providing access to information, education, counseling and services regarding the care, nurturing and development of Children through child protection programs and parenting pattern development;
+b. guiding families in efforts to improve Child quality by providing access to information, education, counseling and services regarding Child care, nurturing and development through child protection programs and parenting pattern development;
 
-c. conducting guidance related to efforts to improve the quality of adolescents by providing access to information, education, counseling and services regarding family life through planned generation activities, adolescent information and counseling centers and adolescent family development;
+c. conducting guidance related to efforts to improve youth quality by providing access to information, education, counseling and services regarding family life through planned generation activities, youth information and counseling centers and youth family development;
 
 d. conducting guidance related to efforts to protect adolescent reproductive health;
 
-e. conducting guidance related to the maturation of marriage age;
+e. conducting guidance related to marriage age maturation;
 
 f. conducting guidance in terms of birth spacing arrangements;
 
-g. conducting guidance related to the management of population and family planning issues;
+g. conducting guidance related to population and family planning problem management;
 
 h. conducting guidance related to efforts to improve family economy; and
 
@@ -1332,59 +1352,59 @@ i. conducting guidance in connection with improving the quality of life of the e
 
 3. elderly guidance and counseling.
 
-## Article 108
+#### Article 108
 
 Counseling as referred to in Article 106 letter b, includes:
 
-a. providing protection and assistance to develop oneself through improving family capabilities and skills;
+a. providing protection and assistance to develop themselves through improving family capabilities and skills;
 
-b. increasing access and opportunities to receive information and economic resources through efforts to increase the income of prosperous families and increase women's economic productivity; and
+b. increasing access and opportunities to receive information and economic resources through efforts to increase prosperous family income and increase women's economic productivity; and
 
 c. conducting empowerment efforts for female heads of households.
 
 d. conducting counseling for Women which includes:
 
-1. improving the quality of life of Women;
+1. improving Women's quality of life;
 
 2. increasing gender equality in family and community life; and
 
 3. premarital.
 
-## Article 109
+#### Article 109
 
 Supervision as referred to in Article 106 letter c, includes:
 
-a. conducting evaluation of the growth and development of toddler Children;
+a. conducting evaluation of toddler Child growth and development;
 
 b. conducting evaluation and monitoring of child protection programs and parenting pattern development;
 
-c. conducting evaluation and monitoring of adolescent quality improvement;
+c. conducting evaluation and monitoring of youth quality improvement;
 
 d. conducting evaluation of post-marriage data;
 
-e. conducting evaluation and monitoring of the improvement of family capabilities and skills;
+e. conducting evaluation and monitoring of family capability and skill improvement;
 
 f. conducting evaluation and monitoring of family economic improvement; and
 
-g. conducting evaluation and monitoring of the improvement of the quality of life of the elderly.
+g. conducting evaluation and monitoring of elderly quality of life improvement.
 
 ## Part Three
 
-### Provision of Services for Families
+Provision of Services for Families
 
 #### Article 110
 
-Provision of services for families in realizing gender equality and the rights of Children as referred to in Article 104 letter b shall be carried out through:
+Provision of services for families in realizing gender equality and Child rights as referred to in Article 104 letter b is carried out through:
 
-a. implementation of provision of services for families in realizing gender equality and child protection in the region;
+a. implementation of provision of services for families in realizing gender equality and Child protection in the region;
 
-b. assistance in the implementation of family quality improvement services in the region; and
+b. assistance in implementing family quality improvement services in the region; and
 
-c. provision of facilities and infrastructure for services for families in realizing gender equality and child protection in the region.
+c. provision of facilities and infrastructure for services for families in realizing gender equality and Child protection in the region.
 
 #### Article 111
 
-Provision of services for families in realizing gender equality and child protection as referred to in Article 110 letter a shall be realized in the form of:
+Provision of services for families in realizing gender equality and Child protection as referred to in Article 110 letter a is realized in the form of:
 
 a. communication networks;
 
@@ -1394,25 +1414,23 @@ c. provision of education.
 
 #### Article 112
 
-Provision of services for families in realizing gender equality and child protection through communication, information and education as referred to
+Provision of services for families in realizing gender equality and Child protection through communication, information and education as referred to in Article 111 letter a, letter b, and letter c constitutes communication activities to increase knowledge and improve the attitudes and behavior of families and communities in population and family planning programs.
 
-in Article 111 letter a, letter b, and letter c constitutes communication activities to increase knowledge and improve the attitudes and behavior of families and communities in population and family planning programs.
+#### Article 113
 
-## Article 113
-
-Assistance in the implementation of family quality improvement services in the region in realizing gender equality and child protection as referred to in Article 110 letter b shall be realized in the form of:
+Assistance in implementing family quality improvement services in the region in realizing gender equality and Child protection as referred to in Article 110 letter b is realized in the form of:
 
 a. assistance in obtaining access to banking;
 
-b. assistance in processing business permits at regional government agencies;
+b. assistance in processing business permits at Regional government agencies;
 
-c. assistance in financial reporting related to working capital obtained from the Regional Government and non-governmental institutions; and
+c. assistance in financial reporting related to working capital obtained from Regional Government and non-governmental institutions; and
 
 d. assistance related to parents' difficulties in handling educational bureaucracy for Children.
 
-## Article 114
+#### Article 114
 
-Provision of facilities and infrastructure for services for families in realizing gender equality and child protection as referred to in Article 110 letter c shall be realized in the form of:
+Provision of facilities and infrastructure for services for families in realizing gender equality and Child protection as referred to in Article 110 letter c is realized in the form of:
 
 a. distribution of contraceptive devices and medicines;
 
@@ -1422,17 +1440,17 @@ c. provision of complete adequate health service facilities and infrastructure; 
 
 d. breastfeeding corners that must be available in every public facility.
 
-## Article 115
+#### Article 115
 
-In addition to the Regional Government, private parties providing public services shall be obligated to provide proper and adequate breastfeeding corners.
+In addition to the Regional Government, private parties that provide public services are required to provide proper and adequate breastfeeding corner rooms.
 
-## Article 116
+#### Article 116
 
-Private parties that do not provide breastfeeding corners as referred to in Article 115 shall be subject to administrative sanctions in the form of:
+Private parties that do not provide breastfeeding corner rooms as referred to in Article 115 are subject to administrative sanctions in the form of:
 
 a. written warning;
 
-b. restriction of business activities;
+b. limitation of business activities;
 
 c. suspension of business activities;
 
@@ -1442,85 +1460,87 @@ e. revocation of permits.
 
 ## Part Four
 
-## Strengthening and Development of Institutions
+Strengthening and Development of Institutions
 
-## Article 117
+#### Article 117
 
-Strengthening and development of institutions providing family quality improvement services as referred to in Article 104 letter c shall be carried out through:
+Strengthening and development of institutions providing family quality improvement services as referred to in Article 104 letter c is carried out through:
 
 a. capacity building of resources of institutions providing family quality improvement services in the region;
 
-b. strengthening networks among institutions providing family quality improvement services in the region;
+b. strengthening networks between institutions providing family quality improvement services in the region;
 
-c. facilitation of the implementation of standardization of institutions providing family quality improvement services in the region; and
+c. facilitation of standardization implementation of institutions providing family quality improvement services in the region; and
 
 d. development of institutions providing family quality improvement services in the region.
 
-## CHAPTER VII
+# CHAPTER VII
 
-## FULFILLMENT OF CHILDREN'S RIGHTS
+FULFILLMENT OF CHILD RIGHTS
 
-Part One Birth Registration and Education
+## Part One
 
-Article 118
+Birth Registration and Education
 
-The Regional Government is obligated to organize birth registration of Children with the issuance of birth certificates.
+#### Article 118
 
-Article 119
+The Regional Government is obligated to administer Child birth registration with the issuance of birth certificates.
 
-Birth certificates as referred to in Article 118 shall be organized free of charge.
+#### Article 119
 
-Article 120
+Birth certificates as referred to in Article 118 are administered free of charge.
+
+#### Article 120
 
 The Regional Government guarantees the implementation of a 9 (nine) year compulsory education program.
 
-Article 121
+#### Article 121
 
-Every organizer of an education unit is obligated to provide opportunities for Children to obtain educational services without discrimination.
+Every education unit organizer is required to provide opportunities for Children to obtain educational services without discrimination.
 
-Article 122
+#### Article 122
 
-Every organizer of an education unit is prohibited from expelling Children from educational institutions unless there is a guarantee for the continuity of the Child's education.
+Every education unit organizer is prohibited from expelling Children from educational institutions unless there is a guarantee for the continuity of the Child's education.
 
-Article 123
+#### Article 123
 
-In the event that a Child victim of violence experiences dropping out of school, the organizer of the education unit is obligated to coordinate with relevant agencies.
+In the event that a Child victim of violence experiences dropping out of school, the education unit organizer is required to coordinate with relevant agencies.
 
-Article 124
+#### Article 124
 
 Children with disabilities and Children with special needs are given equal opportunities to obtain formal, non-formal and informal educational services, including inclusive education programs.
 
-## Article 125
+#### Article 125
 
-The Regional Government provides educators for inclusive education at every education unit.
+The Regional Government provides teaching staff for inclusive education at every education unit.
 
-## Article 126
+#### Article 126
 
-Children in conflict with the law, Children who experience pregnancy outside of marriage and/or unwanted pregnancy as well as Child victims of HIV/AIDS transmission are protected in their rights to obtain education.
+Children in conflict with the law, Children who experience pregnancy outside of marriage and/or unwanted pregnancy and Child victims of HIV/AIDS transmission are protected in their rights to obtain education.
 
-## Article 127
+#### Article 127
 
-The Regional Government is obligated to organize comprehensive health services for Children, so that every Child obtains optimal health status from the womb.
+The Regional Government is required to provide comprehensive health services for Children, so that every Child obtains optimal health status from the womb.
 
-## Article 128
+#### Article 128
 
 Comprehensive health services as referred to in Article 127 include:
 
 a. preventive, promotive, curative and rehabilitative efforts for basic health services; and
 
-b. exemption from cost burdens for malnourished Children, Children with disabilities, Children with special needs, Children infected with HIV/AIDS, child workers, Children victims of narcotics abuse, alcohol, psychotropic substances, and other addictive substances, Children who are victims of violence, and Child victims of human trafficking.
+b. exemption from cost burden for malnourished Children, Children with disabilities, Children with special needs, Children infected with HIV/AIDS, child workers, Children victims of narcotics, alcohol, psychotropic and other addictive substance abuse, Children who are victims of violence, and Children victims of human trafficking.
 
-## Article 129
+#### Article 129
 
-The Regional Government, community, family and parents are obligated to ensure that Children who are born are protected from diseases that threaten survival and/or cause disability.
+Regional Government, community, family and parents are obliged to ensure that Children who are born are protected from diseases that threaten survival and/or cause disability.
 
-## Article 130
+#### Article 130
 
-Promotive efforts for basic health services as referred to in Article 128 letter a are aimed at improving health status in a more optimal manner.
+Promotive efforts for basic health services as referred to in Article 128 letter a are aimed at improving health status more optimally.
 
-## Article 131
+#### Article 131
 
-Promotive efforts as referred to in Article 130 are carried out by providing socialization or counseling to the community regarding healthy lifestyles which include:
+Promotive efforts as referred to in Article 130 are carried out by providing socialization or counseling to the community regarding healthy lifestyle patterns which include:
 
 a. the importance of exclusive breastfeeding for infants;
 
@@ -1532,15 +1552,15 @@ d. the importance of nutritious food; and
 
 e. the dangers of drugs and smoking.
 
-## Article 132
+#### Article 132
 
 Preventive efforts for basic health services as referred to in Article 128 letter a are aimed at preventing the occurrence of disease or health problems.
 
-## Article 133
+#### Article 133
 
-In addition to promotive efforts as referred to in Article 131, the Regional Government may carry out other activities in the context of organizing health.
+In addition to promotive efforts as referred to in Article 131, Regional Government may carry out other activities in the context of health administration.
 
-## Article 134
+#### Article 134
 
 Efforts as referred to in Article 132 are carried out by:
 
@@ -1554,77 +1574,79 @@ d. optimizing the role of posyandu for health services for mothers and toddlers;
 
 e. conducting periodic health examinations; and
 
-f. providing sanitation facilities and clean water at every school.
+f. providing sanitation facilities and clean water in every school.
 
-## Article 135
+#### Article 135
 
 Curative efforts for basic health services as referred to in Article 128 letter a are aimed at preventing disease from becoming more severe through treatment.
 
-## Article 136
+#### Article 136
 
-Treatment as referred to in Article 135 shall be implemented free of charge for Children from underprivileged families.
+Treatment as referred to in Article 135 is implemented free of charge for Children from underprivileged families.
 
-## Article 137
+#### Article 137
 
 Rehabilitative efforts for basic health services as referred to in Article 128 letter a are aimed at maintaining and restoring conditions after illness.
 
-## Article 138
+#### Article 138
 
 Rehabilitative efforts as referred to in Article 137 are carried out through periodic health examinations.
 
-## Article 139
+#### Article 139
 
-The Regional Government is obligated to organize social welfare for:
+Regional Government is obliged to provide social welfare for:
 
-a.	 Children in conflict with the law;
+a. Children in conflict with the law;
 
-b.	 Child victims of violence who are economically and sexually exploited, neglected Children, Child victims of kidnapping and Child victims of human trafficking;
+b. Children victims of violence who are exploited economically and sexually, neglected Children, Children victims of kidnapping and Children victims of human trafficking;
 
-c.	 Children who do not have parents and are cared for by parties or families who are unable;
+c. Children who do not have parents and are cared for by parties or families who are unable;
 
-d.	 Child victims of natural disasters or social disasters; and
+d. Children victims of natural disasters or social disasters; and
 
-e.	 Children with disabilities.
+e. Children with disabilities.
 
-## Article 140
+#### Article 140
 
-Social welfare as referred to in Article 139 may be in the form of providing services for:
+Social welfare as referred to in Article 139 may be in the form of provision of services:
 
-a.	 health;
+a. health;
 
-b.	 education;
+b. education;
 
-c.	 legal aid;
+c. legal aid;
 
-d.	 assistance;
+d. assistance;
 
-e.	 social, mental and spiritual guidance;
+e. social, mental and spiritual guidance;
 
-f.	 social rehabilitation; and/or
+f. social rehabilitation; and/or
 
-g.	 reintegration.
+g. reintegration.
 
-# Part Two Child Labor
+## Part Two
 
-## Article 141
+Electricity
 
-The Regional Government conducts periodic supervision of every person/entity that employs Children in efforts to protect child workers.
+#### Article 141
 
-## Article 142
+Regional Government conducts periodic supervision of every person/entity that employs Children in efforts to protect child workers.
+
+#### Article 142
 
 Every person/entity that employs Children must pay attention to the requirements:
 
-a. at least 15 (fifteen) years of age;
+a. minimum age of 15 (fifteen) years;
 
-b. obtain written consent from the parents/guardian of the child worker;
+b. obtain written consent from the parent/guardian of the child worker;
 
-c. have a written employment agreement between the employer and the parents/guardian of the child worker and obtain validation from the authorized agency;
+c. have a written work agreement between the employer and the parent/guardian of the child worker and obtain validation from the authorized agency;
 
 d. not employ Children at night;
 
-e. working time of at most 3 (three) hours per day;
+e. maximum working time of 3 (three) hours per day;
 
-f. not be employed in a place or environment that can interfere with the Child's growth and development process, whether physically, mentally, morally and intellectually or the Child's health;
+f. not be employed in a place or environment that can interfere with the growth and development process of the Child, whether physically, mentally, morally and intellectually or the health of the Child;
 
 g. provide opportunities to obtain education in accordance with their talents and interests;
 
@@ -1632,15 +1654,15 @@ h. employ for light types of work; and
 
 i. provide one day off per week.
 
-## Article 143
+#### Article 143
 
-In the event that Children are employed together with adult workers, then the workplace for Children must be separated from the workplace for adult workers.
+In the event that Children are employed together with adult workers, then the workplace of Children must be separated from the workplace of adult workers.
 
-## Article 144
+#### Article 144
 
 Every person/entity is prohibited from employing and involving Children in the worst forms of work.
 
-## Article 145
+#### Article 145
 
 The worst forms of work referred to in Article 144 include:
 
@@ -1648,19 +1670,19 @@ a. all work in the form of slavery or the like;
 
 b. all work that utilizes, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling;
 
-c. all work that utilizes, provides, or involves Children for the production and trade of alcoholic beverages, narcotics, psychotropic substances, and other addictive substances; and/or
+c. all work that utilizes, provides, or involves Children for the production and trade of alcoholic beverages, narcotics, psychotropics, and other addictive substances; and/or
 
 d. all work that endangers the health, safety, or morals of Children.
 
 ## Part Three
 
-## Facilitation of the Juvenile Justice System
+Facilitation of the Child Justice System
 
-## Article 146
+#### Article 146
 
-Facilitation of the juvenile justice system includes criminal and civil justice.
+Facilitation of the child justice system includes criminal and civil justice.
 
-## Article 147
+#### Article 147
 
 Facilitation of the criminal justice system as referred to in Article 146 includes:
 
@@ -1668,64 +1690,61 @@ a. provision of companions or Child volunteers during examination by investigato
 
 b. providing legal aid and psychologist services;
 
-c. involving members/police investigators in efforts to prevent criminal acts committed by Children, Children as victims and Children as witnesses;
+c. involving members/investigators of the local police in efforts to prevent criminal acts committed by Children, Children as victims and Children as witnesses;
 
-d. realizing a restorative justice process for Children in conflict with the law; and
+d. realizing the restorative justice process for Children in conflict with the law; and
 
 e. rehabilitation and social reintegration services.
 
-## Article 148
+#### Article 148
 
 Fulfillment of Children's rights in the civil justice system as referred to in Article 146 includes the provision and delivery of consultation and legal aid services during the judicial process.
 
-## Article 149
+#### Article 149
 
-In facilitating the juvenile justice system as referred to in Article 146 and Article 147, the authorized Regional Apparatus is the Regional Apparatus that organizes government affairs in the field of protection of Women and Children as well as social affairs.
-
-
-This excerpt sits under: Empowerment of Women Victims of Violence
+In facilitating the child justice system as referred to in Article 146 and Article 147, the authorized Regional Apparatus is the Regional Apparatus that administers governmental affairs in the field of protection of Women and Children as well as social affairs.
 
 ## Part Four
 
-## Children's Forum
+Children's Forum
 
-## Article 150
+#### Article 150
 
-In organizing the fulfillment of Children's rights to express opinions and participate, the Regional Government facilitates the establishment of a Children's forum.
+In organizing the fulfillment of Children's rights to express opinions and participate, Regional Government facilitates the formation of a children's forum.
 
-## Article 151
+#### Article 151
 
-The Children's forum as referred to in Article 150 represents Children in the region, both representing the geographical domicile of Children, components of Children's socio-cultural groups and Children's educational background.
+The children's forum as referred to in Article 150 is a representation of Children in the region, both representation of Children's geographical domicile, components of Children's socio-cultural groups and Children's educational background.
 
-## Article 152
+#### Article 152
 
-In every formulation of policies related to Children, the Regional Government is obliged to consider and accommodate the opinions of Children conveyed through the Children's participation forum.
+In every formulation of policies related to Children, Regional Government is obliged to consider and accommodate the opinions of Children submitted through the children's participation forum.
 
-## Article 153
+#### Article 153
 
-Further provisions regarding the establishment of the Children's forum as referred to in Article 150 through Article 163 shall be stipulated by Mayor's Decree.
+Further provisions regarding the formation of the children's forum as referred to in Article 150 through Article 163 are stipulated by Mayor's Decree.
 
 ## Part Five
 
-## CFC
+CFC
 
-## Article 154
+#### Article 154
 
-In the framework of fulfilling Children's rights in an integrated, systematic and sustainable manner, the Regional Government establishes a Regional Action Plan for Child-Friendly City Development.
+In the context of fulfilling Children's rights in an integrated, systematic and sustainable manner, Regional Government establishes a Regional Action Plan for Child Friendly City Development.
 
-## Article 155
+#### Article 155
 
-The Regional Action Plan for Child-Friendly City Development contains:
+The Regional Action Plan for Child Friendly City Development contains:
 
-a. the concept of Child-Friendly City concerning objectives, strategies and roles of related parties;
+a. the concept of Child Friendly City concerning objectives, strategies and roles of related parties;
 
 b. Children's rights; and
 
-c. the approach to Child-Friendly City development.
+c. approaches to Child Friendly City development.
 
-## Article 156
+#### Article 156
 
-The Regional Action Plan for Child-Friendly City Development is directed at fulfilling Children's rights divided into 5 (five) target groups comprising:
+The Regional Action Plan for Child-Friendly City Development is directed at the fulfillment of Children's rights divided into 5 (five) target groups comprising:
 
 a. civil rights and freedoms;
 
@@ -1737,35 +1756,35 @@ d. education, leisure time utilization, and cultural activities; and
 
 e. special protection.
 
-## Article 157
+#### Article 157
 
-Further provisions regarding the Regional Action Plan for Child-Friendly City Development as referred to in Article 156 shall be regulated in a Mayor's Regulation.
+Further provisions regarding the Regional Action Plan for Child-Friendly City Development as referred to in Article 156 shall be regulated in a Mayor Regulation.
 
-## Article 158
+#### Article 158
 
-In order to ensure the effectiveness of implementing the Regional Action Plan for Child-Friendly City Development in the Region, a Child-Friendly City Task Force shall be established.
+In order to ensure the effectiveness of the implementation of the Regional Action Plan for Child-Friendly City Development in the Region, a Child-Friendly City Task Force shall be established.
 
-## Article 159
+#### Article 159
 
-The establishment and membership composition of the Child-Friendly City Task Force shall be stipulated by Mayor's Decree.
+The establishment and membership composition of the Child-Friendly City Task Force shall be stipulated by Mayor Decree.
 
-## Article 160
+#### Article 160
 
-The Child-Friendly City Task Force is positioned within the Regional Apparatus that administers Government Affairs in the field of Women's empowerment and Child Protection.
+The Child-Friendly City Task Force shall be domiciled at the Regional Apparatus that administers Governmental Affairs in the field of Women's empowerment and Child Protection.
 
-## Article 161
+#### Article 161
 
-The Child-Friendly City Task Force as referred to in Article 158 has the principal duties of:
+The Child-Friendly City Task Force as referred to in Article 158 shall have the following principal duties:
 
 a. coordinating the implementation of policies and development of Child-Friendly City;
 
-b. conducting socialization, advocacy, and communication, information and education on Child-Friendly City policies;
+b. conducting socialization, advocacy, and communication of information and education on Child-Friendly City policies;
 
-c. collecting baseline data for Child-Friendly City development;
+c. collecting basic data for Child-Friendly City development;
 
-d. conducting needs analysis sourced from baseline data;
+d. conducting needs analysis sourced from basic data;
 
-e. disseminating baseline data;
+e. disseminating basic data;
 
 f. determining the focus and priority of programs in realizing a Child-Friendly City, adjusted to regional potential;
 
@@ -1773,69 +1792,75 @@ g. preparing a 5 (five) year regional action plan for Child-Friendly City and wo
 
 h. conducting monitoring, evaluation and reporting at least once (1) a year.
 
-## Article 162
+#### Article 162
 
-In carrying out its duties, the Child-Friendly City Task Force may coordinate and cooperate with the UPT PPA institution and other institutions that provide Child protection services.
+In carrying out its duties, the Child-Friendly City Task Force may coordinate and cooperate with the PPA UPT institutions and other institutions that provide Child protection services.
 
 ## Part Six
 
-### CRI Organizers
+Organizers of PHA
 
-#### Paragraph 1
+### Paragraph 1
 
-#### General
+General
 
 #### Article 163
 
-The organization of CRI is carried out by:
+The implementation of PHA shall be carried out by means of:
 
-a. institutionalizing CRI in government, non-government, media and business institutions in the Region; and
+a. institutionalization of PHA in government, non-government, media and business institutions in the Region; and
 
-b. strengthening and developing service provider institutions for improving Children's quality of life at the Regional level.
+b. strengthening and developing service provider institutions for improving the quality of life of Children at the Regional level.
 
-## Paragraph 2
+### Paragraph 2
 
-Institutionalization of CRI in Government, Non-Government, Media, and Business Institutions
+Institutionalization of PHA in Government, Non-Government, Media, and Business Institutions
 
-## Article 164
+#### Article 164
 
-Institutionalization of CRI as referred to in Article 163 letter a is carried out through:
+The institutionalization of PHA as referred to in Article 163 letter a shall be carried out through:
 
-a. implementation of policies, programs and activities for fulfilling Children's rights in efforts to prevent violations of Children's rights in the Region;
+a. implementation of policies, programs and activities for the fulfillment of Children's rights in efforts to prevent violations of Children's rights in the Region;
 
-b. increasing participation and the role of Children's forums or the like;
+b. increasing the participation and role of children's forums or the like;
 
-c. facilitating institutional and resource strengthening of government, non-government, media and business institutions;
+c. facilitating the strengthening of institutions and resources of government, non-government, media and business institutions;
 
-d. facilitating network strengthening among government, non-government, media, and business institutions in the Region; and
+d. facilitating the strengthening of networks among government, non-government, media, and business institutions in the Region; and
 
-e. strengthening cross-institutional cooperation among government, non-government, media, and business institutions to realize CFC, Child-Friendly Sub-District (Kelana), Child-Friendly Village (Luna).
+e. strengthening cross-institutional cooperation among government, non-government, media, and business institutions to realize KLA, Child-Friendly Sub-District (Kelana), Child-Friendly Village (Luna).
 
-## Paragraph 3
+### Paragraph 3
 
-Strengthening and Development of Service Provider Institutions for Improving Children's Quality of Life.
+Strengthening and Development of Service Provider Institutions for Improving the Quality of Life of Children.
 
-## Article 165
+#### Article 165
 
-Strengthening and development of service provider institutions for improving Children's quality of life as referred to in Article 163 letter b is carried out through:
+The strengthening and development of service provider institutions for improving the quality of life of Children as referred to in Article 163 letter b shall be carried out through:
 
-a. capacity building of resources of service provider institutions for improving Children's quality of life in the Region;
+a. capacity building of resources of service provider institutions for improving the quality of life of Children in the Region;
 
-b. assistance in implementing services for improving Children's quality of life in the Region;
+b. assistance in the implementation of services for improving the quality of life of Children in the Region;
 
-c. development of materials and implementation of Communication, Information, and Education on fulfillment of Children's rights for service provider institutions for improving Children's quality of life in the Region;
+c. development of materials and implementation of Communication, Information, and Education on the fulfillment of Children's rights for service provider institutions for improving the quality of life of Children in the Region;
 
-d. strengthening networks among service provider institutions for improving Children's quality of life in the Region;
+d. strengthening networks among service provider institutions for improving the quality of life of Children in the Region;
 
-e. facilitating the implementation of standardization of service provider institutions for improving Children's quality of life in the Region; and
+e. facilitating the implementation of standardization of service provider institutions for improving the quality of life of Children in the Region; and
 
-f. development of service provider institutions for improving Children's quality of life in the Region.
+f. development of service provider institutions for improving the quality of life of Children in the Region.
 
-# CHAPTER VIII SPECIAL PROTECTION FOR CHILDREN Part One Organization of Special Protection for Children
+# CHAPTER VIII
 
-## Article 166
+SPECIAL PROTECTION OF CHILDREN
 
-The organization of special protection for Children is carried out through:
+## Part One
+
+Implementation of Special Protection of Children
+
+#### Article 166
+
+The implementation of special protection of Children shall be carried out through:
 
 a. prevention of violence against Children;
 
@@ -1843,9 +1868,9 @@ b. provision of services for Children requiring special protection through coord
 
 c. strengthening and development of service provider institutions for Children requiring special protection.
 
-## Article 167
+#### Article 167
 
-Special Protection for Children as referred to in Article 166 letter a is provided to:
+Special Protection for Children as referred to in Article 166 letter a shall be provided to:
 
 a. Children in emergency situations;
 
@@ -1861,7 +1886,7 @@ f. Children who are victims of pornography;
 
 g. Children with HIV/AIDS;
 
-h. Children who are victims of kidnapping, sale and/or trafficking in persons;
+h. Children who are victims of abduction, sale and/or trafficking in persons;
 
 i. Children who are victims of physical and/or psychological Violence;
 
@@ -1877,9 +1902,9 @@ n. Children with deviant social behavior; and
 
 o. Children who are victims of stigmatization from labeling related to their Parents' condition.
 
-## Article 168
+#### Article 168
 
-Special Protection for Children as referred to in Article 167 is carried out through efforts of:
+Special Protection for Children as referred to in Article 167 shall be carried out through efforts of:
 
 a. rapid response;
 
@@ -1893,7 +1918,7 @@ e. social rehabilitation;
 
 f. prevention of disease and other health disorders;
 
-g. psychosocial assistance during treatment until recovery;
+g. psychosocial assistance from treatment to recovery;
 
 h. provision of social assistance for Children from underprivileged Families; and
 
@@ -1903,13 +1928,13 @@ i. provision of protection and assistance in every judicial process.
 
 Protection for Children Victims of Violence
 
-## Paragraph 1
+#### Paragraph 1
 
 Children in Emergency Situations
 
-## Article 169
+#### Article 169
 
-Children in emergency situations as referred to in Article 167 letter a consist of:
+Children in emergency situations as referred to in Article 167 letter a shall consist of:
 
 a. Children who become refugees;
 
@@ -1919,23 +1944,23 @@ c. Children who are victims of natural disasters; and
 
 d. Children in armed conflict situations.
 
-## Article 170
+#### Article 170
 
 Special Protection for Children in emergency situations who become refugees as referred to in Article 169 letter a shall be carried out with the following provisions:
 
 a. for Children who become refugees shall be implemented in accordance with the provisions of humanitarian law;
 
-b. for Children victims of riots, victims of natural disasters, and Children in armed conflict situations as referred to in Article 169 letter b, letter c, and letter d, shall be implemented through:
+b. for Children who are victims of riots, victims of natural disasters, and Children in armed conflict situations as referred to in Article 169 letter b, letter c, and letter d, shall be implemented through:
 
-1. fulfillment of basic needs consisting of food, clothing, shelter, education, health, learning and recreation, security guarantees, and equal treatment; and
+1. fulfillment of basic needs consisting of food, clothing, housing, education, health, learning and creating, security guarantees, and equal treatment; and
 
 2. fulfillment of special needs for Children with disabilities and Children experiencing psychosocial disorders.
 
-## Paragraph 2
+### Paragraph 2
 
-### Children in Conflict with the Law
+Children in Conflict with the Law
 
-## Article 171
+#### Article 171
 
 Special Protection for Children in conflict with the law as referred to in Article 167 letter b shall be carried out through:
 
@@ -1947,17 +1972,17 @@ c. provision of legal assistance and other assistance effectively;
 
 d. implementation of recreational activities;
 
-e. freedom from torture, punishment or other treatment that is cruel, inhuman and degrading to dignity and status;
+e. freedom from torture, punishment or other treatment that is cruel, inhumane and degrading to dignity and status;
 
 f. avoidance of imposition of death penalty and/or life imprisonment;
 
 g. avoidance of detention or imprisonment, except as a last resort for the shortest possible time;
 
-h. provision of justice before a Children's court that is objective, impartial, and in a closed hearing to the public;
+h. provision of justice before an objective, impartial Children's court, and in hearings closed to the public;
 
 i. avoidance of publication of their identity;
 
-j. provision of accompaniment by Parents/Guardians and persons trusted by the Child;
+j. provision of assistance from Parents/Guardians and persons trusted by the Child;
 
 k. provision of social advocacy;
 
@@ -1971,11 +1996,11 @@ o. provision of health services; and
 
 p. provision of other rights in accordance with the provisions of laws and regulations.
 
-## Paragraph 3
+### Paragraph 3
 
-## Children from Minority and Isolated Groups
+Children from Minority and Isolated Groups
 
-## Article 172
+#### Article 172
 
 Special Protection for Children from minority and isolated groups as referred to in Article 167 letter c shall be carried out through:
 
@@ -1985,27 +2010,27 @@ b. recognizing and practicing their own religion; and
 
 c. using their own language.
 
-## Paragraph 4
+### Paragraph 4
 
-## Children Who Are Economically Exploited
+Children Who Are Economically Exploited
 
-## Article 173
+#### Article 173
 
-Special Protection for Children who are economically and/or sexually exploited as referred to in Article 167 letter d shall be carried out through:
+Special Protection for Children who are exploited economically and/or sexually as referred to in Article 167 letter d shall be carried out through:
 
-a. dissemination and/or socialization of provisions of laws and regulations related to the Protection of Children who are economically and/or sexually exploited;
+a. dissemination and/or socialization of provisions of laws and regulations related to the Protection of Children who are exploited economically and/or sexually;
 
 b. monitoring, reporting, and imposition of sanctions; and
 
-c. involvement of various companies, labor unions, non-governmental organizations, and the Community in the elimination of economic and/or sexual exploitation of Children.
+c. involvement of various companies, labor unions, non-governmental organizations, and the Community in the elimination of exploitation of Children economically and/or sexually.
 
-## Paragraph 5
+### Paragraph 5
 
-Children Who Are Victims of Narcotics, Alcohol, Psychotropic, and Other Addictive Substance Abuse
+Children Who Are Victims of Narcotics, Alcohol, Psychotropic, and Other Addictive Substances Abuse
 
-## Article 174
+#### Article 174
 
-Special Protection for Children who are victims of narcotics, alcohol, psychotropic, and other addictive substance abuse and/or involved in their production/distribution as referred to in Article 167 letter e shall be carried out through:
+Special Protection for Children who are victims of narcotics, alcohol, psychotropic, and other addictive substances abuse and/or involved in their production/distribution as referred to in Article 167 letter e shall be carried out through:
 
 a. supervision;
 
@@ -2015,23 +2040,25 @@ c. treatment; and
 
 d. rehabilitation.
 
-## Paragraph 6
+### Paragraph 6
 
-## Children Who Are Victims of Pornography
+Children Who Are Victims of Pornography
 
-## Article 175
+#### Article 175
 
 Special Protection for Children who are victims of pornography as referred to in Article 167 letter f shall be implemented through efforts of:
 
 a. guidance;
 
-b. accompaniment; and
+b. assistance; and
 
-c. social, physical and mental health recovery, which shall be implemented in accordance with the provisions of laws and regulations.
+c. social, physical and mental health recovery, which are implemented in accordance with the provisions of laws and regulations.
 
-Paragraph 7 Children with HIV/AIDS
+### Paragraph 7
 
-Article 176
+Children with HIV/AIDS
+
+#### Article 176
 
 Special Protection for Children with HIV/AIDS as referred to in Article 167 letter g shall be implemented through efforts of:
 
@@ -2039,19 +2066,19 @@ a. supervision;
 
 b. prevention;
 
-c. treatment;
+c. medical treatment;
 
 d. care; and
 
 e. rehabilitation.
 
-Paragraph 8
+### Paragraph 8
 
-Children Victims of Kidnapping, Sale and/or Trafficking in Persons
+Children Victims of Abduction, Sale and/or Trafficking in Persons
 
-Article 177
+#### Article 177
 
-Special Protection for Children victims of kidnapping, sale and/or trafficking in persons as referred to in Article 167 letter h shall be carried out through efforts of:
+Special Protection for Children victims of abduction, sale and/or trafficking in persons as referred to in Article 167 letter h shall be carried out through efforts of:
 
 a. supervision;
 
@@ -2063,11 +2090,11 @@ d. care; and
 
 e. rehabilitation.
 
-## Paragraph 9
+### Paragraph 9
 
-## Children Victims of Physical Violence
+Children Victims of Physical Violence
 
-## Article 178
+#### Article 178
 
 Special Protection for Children victims of physical Violence as referred to in Article 167 letter i shall be carried out through efforts of:
 
@@ -2079,11 +2106,11 @@ c. reporting; and
 
 d. imposition of sanctions.
 
-## Paragraph 10
+### Paragraph 10
 
-## Children Victims of Sexual Crimes
+Children Victims of Sexual Crimes
 
-## Article 179
+#### Article 179
 
 Special Protection for Children victims of sexual crimes as referred to in Article 167 letter j shall be carried out through efforts of:
 
@@ -2091,13 +2118,15 @@ a. education about reproductive health, religious values, and moral values;
 
 b. social rehabilitation;
 
-c. psychosocial accompaniment during treatment until recovery; and
+c. psychosocial assistance during treatment until recovery; and
 
-d. provision of protection and accompaniment at every level of examination starting from investigation, prosecution, up to examination in court hearings.
+d. provision of protection and assistance at every level of examination starting from investigation, prosecution, up to examination in court hearings.
 
-# Paragraph 11 Children Victims of Terrorism Networks
+### Paragraph 11
 
-## Article 180
+Children Victims of Terrorism Networks
+
+#### Article 180
 
 Special Protection for Children victims of terrorism networks as referred to in Article 167 letter k shall be carried out through efforts of:
 
@@ -2107,13 +2136,13 @@ b. counseling about the dangers of terrorism;
 
 c. social rehabilitation; and
 
-d. social accompaniment.
+d. social assistance.
 
-## Paragraph 12
+### Paragraph 12
 
-### Children with Disabilities
+Children with Disabilities
 
-## Article 181
+#### Article 181
 
 Special Protection for Children with Disabilities as referred to in Article 167 letter 1 shall be carried out through efforts of:
 
@@ -2123,13 +2152,13 @@ b. fulfillment of special needs;
 
 c. equal treatment with other Children to achieve maximum social integration and individual development; and
 
-d. social accompaniment.
+d. social assistance.
 
-## Paragraph 13
+### Paragraph 13
 
-## Children Victims of Maltreatment
+Children Victims of Maltreatment
 
-## Article 182
+#### Article 182
 
 Special Protection for Children victims of maltreatment and neglect as referred to in Article 167 letter m shall be carried out through efforts of:
 
@@ -2143,13 +2172,13 @@ d. counseling;
 
 e. social rehabilitation; and
 
-f. social accompaniment.
+f. social assistance.
 
-## Paragraph 14
+### Paragraph 14
 
-## Children with Deviant Behavior
+Children with Deviant Behavior
 
-## Article 183
+#### Article 183
 
 Special Protection for Children with deviant social behavior as referred to in Article 167 letter n shall be carried out through:
 
@@ -2159,13 +2188,13 @@ b. counseling;
 
 c. social rehabilitation; and
 
-d. social accompaniment.
+d. social assistance.
 
-## Paragraph 15
+### Paragraph 15
 
 Children Who Are Victims of Stigmatization from Labeling Related to Their Parents' Condition
 
-## Article 184
+#### Article 184
 
 Special Protection for Children who are victims of stigmatization from labeling related to their Parents' condition as referred to in Article 167 letter o shall be carried out through:
 
@@ -2173,95 +2202,93 @@ a. counseling;
 
 b. social rehabilitation; and
 
-c. social accompaniment.
+c. social assistance.
 
 ## Part Three
 
-## Provision of Services for Children Requiring
+Provision of Services for Children Who Require Special Protection
 
-## Special Protection
+#### Article 185
 
-## Article 185
+Provision of services for Children who require special protection as referred to in Article 166 letter b shall be carried out through:
 
-The provision of services for Children requiring special protection as referred to in Article 166 letter b shall be carried out through:
+a. implementation of provision of services for Children who require special protection through Regional Apparatus that administer Government Affairs in the field of women's empowerment and child protection in the Region;
 
-a. implementation of service provision for Children requiring special protection through Regional Apparatus that administers Government Affairs in the field of Women's empowerment and Child protection in the Region;
+b. provision of public complaint services for Children who require special protection in the Region;
 
-b. provision of public complaint services for Children requiring special protection in the Region;
+c. provision of outreach services for Children who require special protection in the Region;
 
-c. provision of outreach services for Children requiring special protection in the Region;
+d. provision of case management services for Children who require special protection in the Region;
 
-d. provision of case management services for Children requiring special protection in the Region;
+e. provision of temporary shelter services for Children who require special protection in the Region;
 
-e. provision of temporary shelter services for Children requiring special protection in the Region;
+f. provision of mediation services for Children who require special protection in the Region;
 
-f. provision of mediation services for Children requiring special protection in the Region;
+g. provision of assistance services for Children who require special protection in the Region; and
 
-g. provision of assistance services for Children requiring special protection in the Region; and
-
-h. provision of facilities and infrastructure services for Children requiring special protection in the Region.
+h. provision of service facilities and infrastructure for Children who require special protection in the Region.
 
 ## Part Four
 
 Strengthening and Development of Service Provider Institutions for Children Providing Special Protection
 
-## Article 186
+#### Article 186
 
-The strengthening and development of service provider institutions for Children requiring special protection as referred to in Article 166 letter c shall be carried out through:
+Strengthening and development of service provider institutions for Children requiring special protection as referred to in Article 166 letter c shall be carried out through:
 
-a. capacity building of resources of service provider institutions for protection and handling of Children requiring special protection in the Region;
+a. capacity building of resources of protection service provider institutions and handling for Children requiring special protection in the Region;
 
 b. provision of specific needs for Children in special situations and conditions in the Region;
 
 c. provision of communication, information, and education on protection of Children requiring special protection in the Region;
 
-d. strengthening networks among service provider institutions for protection of Children requiring special protection in the Region; and
+d. strengthening of networks among protection service provider institutions for Children requiring special protection in the Region; and
 
-e. facilitation of standardization implementation of service provider institutions for protection of Children requiring special protection in the Region.
+e. facilitation of implementation of standardization of protection service provider institutions for Children requiring special protection in the Region.
 
-CHAPTER IX GENDER AND CHILD DATA SYSTEM
+# CHAPTER IX
 
-Article 187
+GENDER AND CHILD DATA SYSTEM
 
-The Region shall administer a Gender and Child Data System in the context of implementing GDI and integrating Child rights into disaggregated data as an insight opener, as well as input for gender analysis and fulfillment of Child rights.
+#### Article 187
 
-Article 188
+The Region shall organize a Gender and Child Data System in the context of implementing gender mainstreaming and integrating children's rights into disaggregated data as an insight opener, as well as input for gender analysis and fulfillment of children's rights.
 
-The administration of the Gender Data System is intended as a reference for the Region in providing and utilizing disaggregated data for planning, formulation, implementation, monitoring, evaluation and reporting of policies/programs/activities of development that is gender responsive and child sensitive.
+#### Article 188
 
-Article 189
+The organization of the Gender Data System is intended as a reference for the Region in providing and utilizing disaggregated data for planning, formulation, implementation, monitoring, evaluation and reporting of development policies/programs/activities that are gender responsive and child sensitive.
 
-The administration of the Gender and Child Data System aims to:
+#### Article 189
 
-a. strengthen and encourage institutional arrangements (regulations, institutions, mechanisms) of data systems disaggregated by sex and general conditions in the Region, that are reliable, can be presented quickly, accurately, comprehensively, and up-to-date;
+The organization of the Gender and Child Data System aims to:
+
+a. strengthen and encourage institutional arrangements (regulations, institutions, mechanisms) of the data system by disaggregating by sex and general conditions in the Region, which are reliable, can be presented quickly, accurately, comprehensively, and up-to-date;
 
 b. build or strengthen coordination mechanisms among Regions, in the implementation of collection and processing of disaggregated data; and
 
-c. increase the availability and utilization of disaggregated data for planning, implementation, monitoring, evaluation, and reporting of results of policies/programs/activities
+c. increase the availability and utilization of disaggregated data for planning, implementation, monitoring, evaluation, and reporting of results of development policies/programs/activities that are gender responsive and child sensitive in the Region.
 
-of development that is gender responsive and child sensitive in the Region.
+#### Article 190
 
-## Article 190
+In organizing the Gender and Child Data System as referred to in Article 187, the Region may establish or develop a forum/working group for disaggregated data.
 
-In administering the Gender and Child Data System as referred to in Article 187, the Region may establish or develop a forum/working group for disaggregated data.
-
-## Article 191
+#### Article 191
 
 The forum/working group for disaggregated data as referred to in Article 190, has tasks including:
 
-a. coordinating data management units, research units, planning units, and reporting units internally and externally in the administration of the gender and Child data system;
+a. coordinating data management units, research units, planning units, and reporting units internally and externally in organizing the gender and Child data system;
 
 b. encouraging implementing units/work units to collect and utilize disaggregated data and gender and Child analysis in formulating planning, implementation, evaluation and reporting of gender responsive and child sensitive development activities;
 
 c. encouraging data management units, research units, reporting units to document and disseminate disaggregated data into publications and database systems that are updated regularly;
 
-d. conducting monitoring and evaluation of the administration of the gender and Child data system at least 1 (one) time in 1 (one) year; and
+d. conducting monitoring and evaluation of the organization of the gender and Child data system at least 1 (one) time in 1 (one) year; and
 
-e. reporting the results of implementation of the administration of the gender and Child data system to the Mayor and the DPRD Institution.
+e. reporting the results of implementation of the organization of the gender and Child data system to the Mayor and the DPRD Institution.
 
-## Article 192
+#### Article 192
 
-The implementation of the Gender and Child Data System covers all aspects of the following activities:
+Implementation of the Gender and Child Data System covers all aspects of the following activities:
 
 a. collection;
 
@@ -2271,61 +2298,75 @@ c. analysis; and
 
 d. presentation of disaggregated data.
 
-## Article 193
+#### Article 193
 
-For the purpose of effectiveness of the administration of the Gender and Child Data System in the Region, the Regional Government shall engage and involve the following institutions:
+For the purpose of effectiveness of organizing the Gender and Child Data System in the Region, the Regional Government shall engage and involve the following institutions:
 
-a. academic institutions;
+a. Academic institutions;
 
 b. Non-Governmental Organizations (NGOs); and
 
-c. related community groups.
+c. Related community groups.
 
-## Article 194
+#### Article 194
 
 The gender data system as referred to in Article 187 may be utilized and accessed widely by the public.
 
-## Article 195
+#### Article 195
 
 Further provisions regarding the Gender and Child Data System as referred to in Article 194, shall be regulated in a Mayor Regulation.
 
-CHAPTER X FUNDING Part One Funding by the Region
+# CHAPTER X
 
-The Regional Government is responsible for providing adequate and proportional funding for the administration of Women and Child Protection in accordance with the financial capacity of the Region.
+FUNDING
 
-Part Two Sources of Funds for Administration
+## Part One
 
-Funding for the administration of Women and Child Protection as referred to in Article 196, in addition to being sourced from the Regional Government through allocation in the APBD, may also be sourced from:
+Funding by the Region
+
+The Regional Government is responsible for providing adequate and proportional funding for the organization of Protection of Women and Children in accordance with the financial capacity of the Region.
+
+## Part Two
+
+Sources of Funds for Organization
+
+Funding for the organization of Protection of Women and Children as referred to in Article 196 in addition to being sourced from the Regional Government through allocation in the APBD, may also be sourced from:
 
 a. State Revenue and Expenditure Budget; and
 
 b. Other lawful and non-binding sources of funds, which are managed in accordance with the provisions of laws and regulations.
 
-CHAPTER XI PARTICIPATION OF PARENTS, FAMILY/RELATIVES AND/OR COMMUNITY Part One
+# CHAPTER XI
 
-# Participation of Parents
+PARTICIPATION OF PARENTS, FAMILY/RELATIVES AND/OR COMMUNITY
 
-# Paragraph 1 Role towards Women
+## Part One
 
-## Article 198
+Participation of Parents
+
+### Paragraph 1
+
+Role towards Women
+
+#### Article 198
 
 Every parent whose household contains Women, has a role in the following matters:
 
-a. providing equal and comparable opportunities to Women in terms of obtaining access and opportunities to pursue education at all levels;
+a. providing equal and comparable opportunities to Women in terms of obtaining access and opportunities to undergo education at all levels;
 
 b. preventing every Woman who is part of the family members under their leadership from receiving arbitrary, harsh, and inhumane treatment;
 
-c. protecting their family members who are Women so that they do not experience sexual pressure and harassment, physical and psychological violence that causes the Woman concerned to be unable to live her life properly;
+c. protecting their family members who are Women so that they do not receive pressure and sexual harassment, physical and psychological violence that causes the Woman concerned to be unable to live her life properly;
 
 d. preventing a female family member from entering into early marriage below the age limit determined by Law; and
 
 e. not forcing a female family member to marry a man/male whom she does not desire.
 
-## Paragraph 2
+### Paragraph 2
 
-## Role towards Children
+Role towards Children
 
-## Article 199
+#### Article 199
 
 Every parent who has Children has a primary role in the following matters:
 
@@ -2341,29 +2382,31 @@ e. teaching Children to behave in accordance with ethics and customs prevailing 
 
 ## Part Two
 
-## Participation of Family/Relatives
+Participation of Family/Relatives
 
 ## Paragraph 1
 
-## Role towards Women
+Role towards Women
 
-## Article 200
+#### Article 200
 
 The role expected from family/relatives towards Women is as follows:
 
 a. providing opportunities for Women to develop their careers in accordance with their abilities and capacities;
 
-b. providing support and assistance to Women who have limited financial capacity in pursuing education and skills; and
+b. providing support and assistance to Women who have limited funding capacity in pursuing knowledge and skills; and
 
-c. respecting the will of a Woman to choose her spouse and determine her future.
+c. respecting the will of a Woman to choose a spouse and determine her future.
 
-## Paragraph 2 Role towards Children
+### Paragraph 2
 
-## Article 201
+Role towards Children
+
+#### Article 201
 
 Every family/relatives who have Children have a primary role in the following matters:
 
-a. protecting Children in direct descendant lineage up to the third degree so that they do not fall into a bad life;
+a. safeguarding Children in direct lineage downward to the third degree so that they do not fall into a bad life;
 
 b. assisting according to ability in the event that the biological parents/guardian of a Child are unable to finance the education and welfare of the Child; and
 
@@ -2371,19 +2414,19 @@ c. teaching Children ethics and religious norms in the event that the biological
 
 ## Part Three
 
-## Community Participation
+Participation of the Community
 
-## Paragraph 1
+### Paragraph 1
 
-## Role towards Women
+Role towards Women
 
-## Article 202
+#### Article 202
 
-Community participation is carried out by:
+Community participation shall be carried out by:
 
 a. individuals;
 
-b. community social institutions;
+b. social community institutions;
 
 c. non-governmental organizations;
 
@@ -2395,37 +2438,39 @@ f. private sector; and
 
 g. mass media.
 
-## Article 203
+#### Article 203
 
-The community can play a role in the protection of Women in the following matters:
+The community may play a role in the protection of Women in the following matters:
 
-a. ensuring that every Woman who is in the same residential environment as the community does not experience violence, both physical and psychological by anyone;
+a. endeavoring to ensure that every Woman residing in the same environment as the community does not experience violence, whether physical or psychological, by anyone;
 
 b. providing first aid to victims;
 
-c. reporting to the competent authorities if violence against victims occurs in their environment;
+c. reporting to the competent authority if violence against victims occurs in their environment;
 
-d. ensuring that every Woman who is in the community environment concerned has the ability to overcome the difficulties of her life, especially due to poverty and lack of access in fighting for her economic interests;
+d. endeavoring to ensure that every Woman in the community environment has the capability to overcome life's difficulties, especially due to poverty and lack of access in fighting for their economic interests;
 
-e. ensuring that every Woman who is in the community residential environment has social capital in living her life;
+e. endeavoring to ensure that every Woman residing in the community environment has social capital in living their life;
 
-f. forming family partners at the kelurahan level;
+f. establishing family partners at the kelurahan level;
 
-g. forming Women's protection units within community organizations;
+g. establishing Women's protection units within community organizations;
 
 h. independently conducting socialization related to Women's rights;
 
 i. conducting socialization regarding Women's rights;
 
-j. forming Women's protection units within existing community organizations; and
+j. establishing Women's protection units within existing community organizations; and
 
-k. forming family partners at the Kelurahan level.
+k. establishing family partners at the Kelurahan level.
 
-## Paragraph 2 Role towards Children
+### Paragraph 2
 
-## Article 204
+Role toward Children
 
-Community participation towards Children is carried out by:
+#### Article 204
+
+Community participation toward Children is carried out by:
 
 a. individuals;
 
@@ -2439,13 +2484,13 @@ e. educational institutions;
 
 f. mass media; and
 
-g. business sector.
+g. the business sector.
 
-## Article 205
+#### Article 205
 
-The community can play a role in the protection of Children in the following matters:
+The community may play a role in the protection of Children in the following matters:
 
-a. jointly and collectively ensuring that a Child who has parents who are unable can still continue education according to their age;
+a. jointly and collectively ensuring that a Child whose parents are unable can continue their education according to their age;
 
 b. providing opportunities for a Child to develop themselves by creating various learning programs outside of school according to the community's financial capacity;
 
@@ -2467,11 +2512,11 @@ j. playing an active role by eliminating negative labeling of child victims; and
 
 k. providing space for Children to participate and express their opinions.
 
-## Article 206
+#### Article 206
 
-The role of community organizations and educational institutions as referred to in Article 204 letter d, and letter e is carried out by taking the necessary steps in accordance with the respective duties, functions, and authorities to assist in the implementation of Child Protection.
+The role of community organizations and educational institutions as referred to in Article 204 letters d and e is carried out by taking the necessary steps according to their respective duties, functions, and authorities to assist in the implementation of Child Protection.
 
-## Article 207
+#### Article 207
 
 The role of mass media as referred to in Article 204 letter f is carried out through the dissemination of information and educational materials that are beneficial from the aspects of:
 
@@ -2485,9 +2530,9 @@ d. religious; and
 
 e. health,
 
-of Children by taking into account the best interests of Children.
+for Children with due regard to the best interests of the Child.
 
-## Article 208
+#### Article 208
 
 The role of the business sector as referred to in Article 204 letter g is carried out through:
 
@@ -2499,53 +2544,59 @@ c. contributing to the fulfillment of Children's Rights through corporate social
 
 ## Part Four
 
-Obligations and Responsibilities of Parents towards Children
+Obligations and Responsibilities of Parents toward Children
 
-## Article 209
+#### Article 209
 
 Every Parent is obliged to protect Children from the influence of pornography and prevent Children's access to information containing pornography.
 
 ## Part Five
 
-## Care
+Care
 
-## Article 210
+#### Article 210
 
 Care is the right of a Child whose growth is not guaranteed and/or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social.
 
-## Article 211
+#### Article 211
 
-Care that is carried out as a result of the separation of a Child is carried out for the best interests of the Child.
+Care carried out as a result of the separation of a Child is conducted in the best interests of the Child.
 
-## Article 212
+#### Article 212
 
-In the event that the separation of a Child is carried out for the best interests of the Child, care must be carried out by a Child Care Institution with requirements in accordance with laws and regulations.
+In the event that the separation of a Child is carried out in the best interests of the Child, care must be provided by a Child Care Institution with requirements in accordance with laws and regulations.
 
-## Article 213
+#### Article 213
 
-A Child Care Institution receives a Child for its care, after the Child concerned is facilitated by the Regional Apparatus that administers Government Affairs in the fields of among others:
+A Child Care Institution receives a Child for its care, after the Child concerned is facilitated by the Regional Apparatus responsible for Government Affairs in the fields of, among others:
 
 a. Women's Empowerment and Child Protection;
 
-b. Social Affairs:
+b. Social Affairs;
 
-c. Health:
+c. Health;
 
-d. Education:
+d. Education;
 
-e. Manpower:
+e. Manpower;
 
-f. Regional Development Planning: and
+f. Regional Development Planning; and
 
-g. Other Regional Apparatus in accordance with conditions and needs.
+g. Other Regional Apparatus according to conditions and needs.
 
-## Article 214
+#### Article 214
 
-Facilitation of Child Care as referred to in Article 213, may be carried out outside Social Institutions or within Social Institutions in accordance with the provisions of laws and regulations.
+Facilitation of Child Care as referred to in Article 213 may be carried out outside Social Institutions or within Social Institutions in accordance with the provisions of laws and regulations.
 
-# CHAPTER XII MONITORING AND EVALUATION Part One Monitoring
+# CHAPTER XII
 
-## Article 215
+MONITORING AND EVALUATION
+
+## Part One
+
+Monitoring
+
+#### Article 215
 
 Monitoring is carried out by the Regional Government for the purpose of ensuring synergy, balance and effectiveness of integrated measures in the implementation of:
 
@@ -2557,135 +2608,137 @@ c. activities,
 
 for the protection of Women and Children.
 
-## Article 216
+#### Article 216
 
 Monitoring as referred to in Article 215 is carried out to determine the progress and obstacles in the implementation of policies, programs and activities for the protection of Women and Children.
 
-## Article 217
+#### Article 217
 
-Monitoring as referred to in Article 215, is carried out by the Regional Apparatus that administers Government Affairs in the field of Women's Empowerment and Child Protection.
+Monitoring as referred to in Article 215 is carried out by the Regional Apparatus responsible for Government Affairs in the field of Women's Empowerment and Child Protection.
 
-## Article 218
+#### Article 218
 
-Monitoring is carried out periodically through coordination and direct monitoring of other Regional Apparatus within the Regional Government that participate in implementing policies, activities for the protection of Women and Children victims of violence in the Region.
+Monitoring is carried out periodically through coordination and direct monitoring of other Regional Apparatus within the Regional Government that participate in implementing policies and activities for the protection of Women and Children who are victims of violence in the Region.
 
-## Article 219
+#### Article 219
 
 Monitoring is carried out from planning to implementation of policies, programs and activities for the protection of Women and Children every year.
 
 ## Part Two
 
-## Evaluation
+Evaluation
 
-## Article 220
+#### Article 220
 
-Evaluation of the implementation of policies, programs and activities for the protection of Women and Children victims of violence is carried out at the end of each fiscal year or if necessary in accordance with the needs of the Region.
+Evaluation of the implementation of policies, programs and activities for the protection of Women and Children who are victims of violence is carried out at the end of each fiscal year or if necessary according to the needs of the Region.
 
-## Article 221
+#### Article 221
 
-The results of the evaluation of the implementation of policies, programs and activities for the protection of Women and Children victims of violence shall be used as input material for the formulation of policies, programs and activities for the protection of Women and Children victims of violence in the following year.
+The results of the evaluation of the implementation of policies, programs and activities for the protection of Women and Children who are victims of violence are used as input material for the formulation of policies, programs and activities for the protection of Women and Children who are victims of violence in the following year.
 
-## Article 222
+#### Article 222
 
-The evaluation as referred to in Article 221 shall be implemented in accordance with the provisions of laws and regulations.
+Evaluation as referred to in Article 221 is carried out in accordance with the provisions of laws and regulations.
 
-## CHAPTER XIII
+# CHAPTER XIII
 
-## GUIDANCE AND SUPERVISION
+GUIDANCE AND SUPERVISION
 
 ## Part One
 
-## Guidance
+Guidance
 
-## Article 223
+#### Article 223
 
-To ensure that the implementation of the administration of protection of Women and Children can be carried out
+To ensure that the implementation of the provision of protection for Women and Children can be carried out
 
-properly in accordance with the established program, the Regional Government shall conduct guidance.
+properly in accordance with the established program, the Regional Government conducts guidance.
 
-## Article 224
+#### Article 224
 
-The guidance as referred to in Article 223 shall be conducted by the Regional Government, for the purpose of administering the protection of Women and Children in accordance with Minimum Service Standards.
+Guidance as referred to in Article 223 is carried out by the Regional Government, for the implementation of the protection of Women and Children in accordance with Minimum Service Standards.
 
-## Article 225
+#### Article 225
 
-The form of guidance as referred to in Article 224 shall be conducted by the Regional Government in the form of:
+The form of guidance as referred to in Article 224, is carried out by the Regional Government in the form of:
 
 a. establishing guidelines and fulfillment standards;
 
-b. technical guidance for apparatus from the Regional Government as well as from outside the regional government in accordance with the financial capacity of the Region;
+b. technical guidance for apparatus originating from the Regional Government as well as outside the regional government in accordance with the Regional financial capacity;
 
-c. training for regional government apparatus related to the protection of Women and Children;
+c. training for regional government apparatus related to the Protection of Women and Children;
 
 d. provision of adequate facilities or infrastructure needed by guidance implementers;
 
-e. evaluation of the implementation of guidance conducted;
+e. evaluation of the implementation of guidance carried out;
 
 f. monitoring the effectiveness of guidance; and
 
 g. continuously updating the curriculum used during technical guidance and training.
 
-Part Two
+## Part Two
 
 Supervision
 
-## Article 226
+#### Article 226
 
-The Mayor and DPRD shall conduct supervision of the administration of guidance for Women and Children in the Region.
+The Mayor and DPRD conduct supervision over the implementation of guidance for Women and Children in the Region.
 
-## Article 227
+#### Article 227
 
-The supervision as referred to in Article 226 may be delegated to the Regional Apparatus that administers Government Affairs in the field of Women's Protection, Child Protection and Community Empowerment.
+Supervision as referred to in Article 226, may be delegated to Regional Apparatus that administer Government Affairs in the field of Women's Protection, Child Protection and Community Empowerment.
 
-## Article 228
+#### Article 228
 
-The supervision conducted by the Mayor as referred to in Article 227 shall be conducted periodically 2 (two) times supervision or per semester in one calendar year.
+Supervision conducted by the Mayor as referred to in Article 227 is carried out periodically 2 (two) times supervision or per semester in one calendar year.
 
-## Article 229
+#### Article 229
 
-The results of supervision conducted by the Mayor shall be used as material for evaluation and synchronization of work programs prepared in the context of administering the protection of Women and Children in the Region in the following year.
+The results of supervision conducted by the Mayor are used as material for evaluation and synchronization of work programs prepared in the context of implementing the protection of Women and Children in the Region in the following year.
 
-## CHAPTER XIV
+# CHAPTER XIV
 
-## PROHIBITIONS AND SANCTIONS
+PROHIBITIONS AND SANCTIONS
 
-## Article 230
+#### Article 230
 
-Operators of entertainment venues that provide entertainment specifically intended for adults must prohibit Children from entering such entertainment venues.
+Entertainment venue operators who organize entertainment specifically intended for adults, must prohibit Children from entering such entertainment venues.
 
-## Article 231
+#### Article 231
 
-Every operator of a business place that provides temporary accommodation services to visitors shall not be justified in accepting visits from a person who is still under 18 (eighteen) years of age without being accompanied by a person who is categorized as an adult, whether in their capacity as a parent, family member, accompanying teacher and/or guardian who brings a Child for the purpose of carrying out activities or other positive activities.
+Every business venue operator that provides temporary accommodation services to visitors, is not justified in accepting visits from a person who is still under 18 (eighteen) years of age without being accompanied by a person who is categorized as an adult, whether in their capacity as a parent, family member, accompanying teacher and/or guardian who brings a Child in order to carry out activities or other positive activities.
 
-## Article 232
+#### Article 232
 
-Every service operator based on information technology must provide various adequate equipment and facilities for visitors who are still in the category of a Child.
+Every service provider based on information technology must provide various adequate equipment and facilities for visitors who are still in the category of a Child.
 
-## Article 233
+#### Article 233
 
 Every business operator as referred to in Article 230, Article 231, Article 232, must not accept Children who wear school uniforms and/or are still within school hours.
 
-## Article 234
+#### Article 234
 
-Every information technology-based service operator as referred to in Article 232 must limit visiting hours including blocking and closing access for a Child visitor to open and view sites containing elements of pornography and/or pornographic acts.
+Every service provider based on information technology as referred to in Article 232 must limit visiting hours including blocking and closing access for a Child visitor to open and view sites containing elements of pornography and/or pornographic acts.
 
-## Article 235
+#### Article 235
 
 Every person who violates the provisions as referred to in Article 230, Article 231, Article 232, shall be subject to administrative sanctions in the form of:
 
-a. written warning, which shall be given 3 (three) times with an interval between 1 (one) warning and the next warning of at least 1 (one) month;
+a. written warning, which is given 3 (three) times with an interval between 1 (one) warning and the next warning of at least 1 (one) month;
 
-b. suspension of permit, which shall be carried out if written warnings have been given 3 (three) times;
+b. license suspension, which is carried out if written warnings have been given 3 (three) times;
 
 c. administrative fine, with provisions of at least Rp. 5,000,000,- (five million rupiah) up to a maximum of Rp. 50,000,000,- (fifty million rupiah); and
 
-d. revocation of permit, which shall be carried out in the event that the violator of administrative sanctions does not make payment of the fine within a maximum period of 14 (fourteen) calendar days.
+d. license revocation, which is carried out in the event that the violator of administrative sanctions does not make payment of the fine within a maximum period of 14 (fourteen) calendar days.
 
-# CHAPTER XV CLOSING PROVISIONS
+# CHAPTER XV
 
-Article 236
+CLOSING PROVISIONS
 
-This Regional Regulation shall come into force on the date of promulgation.
+#### Article 236
+
+This Regional Regulation comes into force on the date of promulgation.
 
 So that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Pekanbaru City.
 
@@ -2705,30 +2758,40 @@ REGIONAL GAZETTE OF PEKANBARU CITY YEAR 2023 NUMBER 2
 
 REGISTRATION NUMBER OF REGIONAL REGULATION OF PEKANBARU CITY, RIAU PROVINCE (1.68.C/2022).
 
-ELUCIDATION OF REGIONAL REGULATION OF PEKANBARU CITY NUMBER YEAR 2023 CONCERNING PROTECTION OF WOMEN AND CHILDREN
+# ELUCIDATION OF REGIONAL REGULATION OF PEKANBARU CITY
 
-## I. GENERAL
+NUMBER YEAR 2023 CONCERNING PROTECTION OF WOMEN AND CHILDREN
 
-Protection of Women and Children is the responsibility of the State, Government, society, family, and parents. The responsibility of the State and Government within the scope of Pekanbaru City is administered by the Regional Government of Pekanbaru City through the Regional Apparatus that administers Government Affairs in the field of Women's Empowerment, Child Protection and Community Empowerment.
+#### I. GENERAL
 
-The issuance of this Regional Regulation on the Protection of Women and Children is a concrete manifestation of the commitment of the Regional Government of Pekanbaru City in fulfilling the responsibility of the State and Government within the scope of the Regional Government.
+Protection of Women and Children is the responsibility of the State, Government, community, family, and parents. The responsibility of the State and Government within the scope of Pekanbaru City is administered by the Regional Government of Pekanbaru City through Regional Apparatus that administer Government Affairs in the field of Women's Empowerment, Child Protection and Community Empowerment.
 
-The birth of this Regional Regulation on the Protection of Women and Children is expected to make Women and Children in Pekanbaru City increasingly protected in their various rights as determined in the distribution of various laws and regulations related to the protection
+The issuance of this Regional Regulation on the Protection of Women and Children is a concrete manifestation of the commitment of the Regional Government of Pekanbaru City in fulfilling the responsibility of the State and Government within the scope of Regional Government.
 
-of Women and Children.
+The birth of this Regional Regulation on the Protection of Women and Children is expected to make Women and Children in Pekanbaru City increasingly protected in their various rights as determined in the distribution of various laws and regulations related to the protection of Women and Children.
 
-In addition to the increasing protection of the rights of Women and Children, for Women and Children in Pekanbaru City, with the issuance of this Regional Regulation on the Protection of Women and Children, it is expected to increase the capacity of Women in Pekanbaru City to increasingly participate in various fields of life such as: economy, politics, social, culture and law. With the increasing capacity possessed by Women in this Civilized City, it is expected that the role and contribution of Women in accelerating development will become real.
+In addition to the increasing protection of the rights of Women and Children, for Women and Children in Pekanbaru City, with the issuance of this Regional Regulation on the Protection of Women and Children it is expected to increase the capacity of Women in Pekanbaru City to increasingly participate in various fields of life such as: economy, politics, social, culture and law. With the increasing capacity possessed by Women in this Civilized City, it is expected that the role and contribution of Women in accelerating development will become real.
 
-As for Children, with the issuance of this Regional Regulation, it is expected to accelerate the fulfillment of Children's rights in Pekanbaru City, without exception, including Children with disabilities who are given equal opportunities and accessibility to obtain special education.
+As for Children, with the issuance of this Regional Regulation it is expected to accelerate the fulfillment of Children's rights in Pekanbaru City, without exception, including Children with disabilities who are given equal opportunities and accessibility to obtain special education.
 
 As for Children who have excellence, they have the right to receive special education.
 
+#### II. ARTICLE BY ARTICLE
 
-This excerpt sits under: CHAPTER XII MONITORING AND EVALUATION Part One Monitoring
+Article 1
+Sufficiently clear.
 
-## II. ARTICLE BY ARTICLE
+Article 2
+Sufficiently clear.
 
-Article 1 Sufficiently clear. Article 2 Sufficiently clear. Article 3 Sufficiently clear. Article 4 Sufficiently clear. Article 5 Sufficiently clear.
+Article 3
+Sufficiently clear.
+
+Article 4
+Sufficiently clear.
+
+Article 5
+Sufficiently clear.
 
 Article 6
 Sufficiently clear.
@@ -2776,102 +2839,646 @@ Article 20
 Sufficiently clear.
 
 Article 21
+Sufficiently clear.
 
-Sufficiently clear. Article 22 Sufficiently clear. Article 23 Sufficiently clear. Article 24 Sufficiently clear. Article 25 Sufficiently clear. Article 26 Sufficiently clear. Article 27 Sufficiently clear. Article 28 Sufficiently clear. Article 29 Sufficiently clear. Article 30 Sufficiently clear. Article 31 Sufficiently clear. Article 32 Sufficiently clear. Article 33 Sufficiently clear. Article 34 Sufficiently clear. Article 35 Sufficiently clear. Article 36 Sufficiently clear.
+Article 22
+Sufficiently clear.
 
-Article 37 Sufficiently clear. Article 38 Sufficiently clear. Article 39 Sufficiently clear. Article 40 Sufficiently clear. Article 41 Sufficiently clear. Article 42 Sufficiently clear. Article 43 Sufficiently clear. Article 44 Sufficiently clear. Article 45 Sufficiently clear. Article 46 Sufficiently clear. Article 47 Sufficiently clear. Article 48 Sufficiently clear. Article 49 Sufficiently clear. Article 50 Sufficiently clear. Article 51 Sufficiently clear.
+Article 23
+Sufficiently clear.
 
-Article 52 Sufficiently clear. Article 53 Sufficiently clear. Article 54 Sufficiently clear. Article 55 Sufficiently clear. Article 56 Sufficiently clear. Article 57 Sufficiently clear. Article 58 Sufficiently clear. Article 59 Sufficiently clear. Article 60 Sufficiently clear. Article 61 Sufficiently clear. Article 62 Sufficiently clear. Article 63 Sufficiently clear. Article 64 Sufficiently clear. Article 65 Sufficiently clear.
+Article 24
+Sufficiently clear.
+
+Article 25
+Sufficiently clear.
+
+Article 26
+Sufficiently clear.
+
+Article 27
+Sufficiently clear.
+
+Article 28
+Sufficiently clear.
+
+Article 29
+Sufficiently clear.
+
+Article 30
+Sufficiently clear.
+
+Article 31
+Sufficiently clear.
+
+Article 32
+Sufficiently clear.
+
+Article 33
+Sufficiently clear.
+
+Article 34
+Sufficiently clear.
+
+Article 35
+Sufficiently clear.
+
+Article 36
+Sufficiently clear.
+
+Article 37
+Sufficiently clear.
+
+Article 38
+Sufficiently clear.
+
+Article 39
+Sufficiently clear.
+
+Article 40
+Sufficiently clear.
+
+Article 41
+Sufficiently clear.
+
+Article 42
+Sufficiently clear.
+
+Article 43
+Sufficiently clear.
+
+Article 44
+Sufficiently clear.
+
+Article 45
+Sufficiently clear.
+
+Article 46
+Sufficiently clear.
+
+Article 47
+Sufficiently clear.
+
+Article 48
+Sufficiently clear.
+
+Article 49
+Sufficiently clear.
+
+Article 50
+Sufficiently clear.
+
+Article 51
+Sufficiently clear.
+
+Article 52
+Sufficiently clear.
+
+Article 53
+Sufficiently clear.
+
+Article 54
+Sufficiently clear.
+
+Article 55
+Sufficiently clear.
+
+Article 56
+Sufficiently clear.
+
+Article 57
+Sufficiently clear.
+
+Article 58
+Sufficiently clear.
+
+Article 59
+Sufficiently clear.
+
+Article 60
+Sufficiently clear.
+
+Article 61
+Sufficiently clear.
+
+Article 62
+Sufficiently clear.
+
+Article 63
+Sufficiently clear.
+
+Article 64
+Sufficiently clear.
+
+Article 65
+Sufficiently clear.
 
 Article 66
 
-Point a
+Huruf a
 
 Sufficiently clear.
 
-Point b
+Huruf b
 
 Sufficiently clear.
 
-Point c
+Huruf c
 
 The agencies referred to consist of public agencies owned by the Region as well as public agencies within the vertical agency structure, including also agencies outside public agencies.
 
-Point d
+Huruf d
 
 The religious organizations referred to are "religion-based organizations that have concern and capability in providing counseling services and spiritual guidance."
 
 Article 67
-
 Sufficiently clear.
 
 Article 68
-
 Sufficiently clear.
 
 Article 69
-
 Sufficiently clear.
 
 Article 70
-
 Sufficiently clear.
 
 Article 71
-
 Sufficiently clear.
 
 Article 72
-
 Sufficiently clear.
 
 Article 73
-
 Sufficiently clear.
 
 Article 74
-
 Sufficiently clear.
 
 Article 75
+Sufficiently clear.
 
-Sufficiently clear. Article 76 Sufficiently clear. Article 77 Sufficiently clear. Article 78 Sufficiently clear. Article 79 Sufficiently clear. Article 80 Sufficiently clear. Article 81 Sufficiently clear. Article 82 Sufficiently clear. Article 83 Sufficiently clear. Article 84 Sufficiently clear. Article 85 Sufficiently clear. Article 86 Sufficiently clear. Article 87 Sufficiently clear. Article 88 Sufficiently clear. Article 89 Sufficiently clear. Article 90 Sufficiently clear.
+Article 76
+Sufficiently clear.
 
-Article 91 Sufficiently clear. Article 92 Sufficiently clear. Article 93 Sufficiently clear. Article 94 Sufficiently clear. Article 95 Sufficiently clear. Article 96 Sufficiently clear. Article 97 Sufficiently clear. Article 98 Sufficiently clear. Article 99 Sufficiently clear. Article 100 Sufficiently clear. Article 101 Sufficiently clear. Article 102 Sufficiently clear. Article 103 Sufficiently clear. Article 104 Sufficiently clear. Article 105 Sufficiently clear.
+Article 77
+Sufficiently clear.
 
-Article 106 Sufficiently clear. Article 107 Sufficiently clear. Article 108 Sufficiently clear. Article 109 Sufficiently clear. Article 110 Sufficiently clear. Article 111 Sufficiently clear. Article 112 Sufficiently clear. Article 113 Sufficiently clear. Article 114 Sufficiently clear. Article 115 Sufficiently clear. Article 116 Sufficiently clear. Article 117 Sufficiently clear. Article 118 Sufficiently clear. Article 119 Sufficiently clear. Article 120 Sufficiently clear.
+Article 78
+Sufficiently clear.
 
-Article 121 Sufficiently clear. Article 122 Sufficiently clear. Article 123 Sufficiently clear. Article 124 Sufficiently clear. Article 125 Sufficiently clear. Article 126 Sufficiently clear. Article 127 Sufficiently clear. Article 128 Sufficiently clear. Article 129 Sufficiently clear. Article 130 Sufficiently clear. Article 131 Sufficiently clear. Article 132 Sufficiently clear. Article 133 Sufficiently clear. Article 134 Sufficiently clear. Article 135 Sufficiently clear. Article 136 Sufficiently clear.
+Article 79
+Sufficiently clear.
 
-Article 137 Sufficiently clear. Article 138 Sufficiently clear. Article 139 Sufficiently clear. Article 140 Sufficiently clear. Article 141 Sufficiently clear. Article 142 Sufficiently clear. Article 143 Sufficiently clear. Article 144 Sufficiently clear. Article 145 Sufficiently clear. Article 146 Sufficiently clear. Article 147 Sufficiently clear. Article 148 Sufficiently clear. Article 149 Sufficiently clear. Article 150 Sufficiently clear. Article 151 Sufficiently clear. Article 152 Sufficiently clear.
+Article 80
+Sufficiently clear.
 
-Article 153 Sufficiently clear. Article 154 Sufficiently clear. Article 155 Sufficiently clear. Article 156 Sufficiently clear. Article 157 Sufficiently clear. Article 158 Sufficiently clear. Article 159 Sufficiently clear. Article 160 Sufficiently clear. Article 161 Sufficiently clear. Article 162 Sufficiently clear. Article 163 Sufficiently clear. Article 164 Sufficiently clear. Article 165 Sufficiently clear. Article 166 Sufficiently clear. Article 167 Sufficiently clear. Article 168 Sufficiently clear.
+Article 81
+Sufficiently clear.
 
-Article 169 Sufficiently clear. Article 170 Sufficiently clear. Article 171 Sufficiently clear. Article 172 Sufficiently clear. Article 173 Sufficiently clear. Article 174 Sufficiently clear. Article 175 Sufficiently clear. Article 176 Sufficiently clear. Article 177 Sufficiently clear. Article 178 Sufficiently clear. Article 179 Sufficiently clear. Article 180 Sufficiently clear. Article 181 Sufficiently clear. Article 182 Sufficiently clear. Article 183 Sufficiently clear. Article 184 Sufficiently clear.
+Article 82
+Sufficiently clear.
 
-Article 185 Sufficiently clear. Article 186 Sufficiently clear.
+Article 83
+Sufficiently clear.
 
-Article 187 Sufficiently clear. Article 188 Sufficiently clear.
+Article 84
+Sufficiently clear.
 
-Article 189 Sufficiently clear. Article 190 Sufficiently clear.
+Article 85
+Sufficiently clear.
 
-Article 191 Sufficiently clear. Article 192 Sufficiently clear.
+Article 86
+Sufficiently clear.
 
-Article 193 Sufficiently clear. Article 194 Sufficiently clear.
+Article 87
+Sufficiently clear.
 
-Article 195 Sufficiently clear. Article 196 Sufficiently clear.
+Article 88
+Sufficiently clear.
 
-Article 197 Sufficiently clear. Article 198 Sufficiently clear.
+Article 89
+Sufficiently clear.
 
-Article 199 Sufficiently clear.
+Article 90
+Sufficiently clear.
+
+Article 91
+Sufficiently clear.
+
+Article 92
+Sufficiently clear.
+
+Article 93
+Sufficiently clear.
+
+Article 94
+Sufficiently clear.
+
+Article 95
+Sufficiently clear.
+
+Article 96
+Sufficiently clear.
+
+Article 97
+Sufficiently clear.
+
+Article 98
+Sufficiently clear.
+
+Article 99
+Sufficiently clear.
+
+Article 100
+Sufficiently clear.
+
+Article 101
+Sufficiently clear.
+
+Article 102
+Sufficiently clear.
+
+Article 103
+Sufficiently clear.
+
+Article 104
+Sufficiently clear.
+
+Article 105
+Sufficiently clear.
+
+Article 106
+Sufficiently clear.
+
+Article 107
+Sufficiently clear.
+
+Article 108
+Sufficiently clear.
+
+Article 109
+Sufficiently clear.
+
+Article 110
+Sufficiently clear.
+
+Article 111
+Sufficiently clear.
+
+Article 112
+Sufficiently clear.
+
+Article 113
+Sufficiently clear.
+
+Article 114
+Sufficiently clear.
+
+Article 115
+Sufficiently clear.
+
+Article 116
+Sufficiently clear.
+
+Article 117
+Sufficiently clear.
+
+Article 118
+Sufficiently clear.
+
+Article 119
+Sufficiently clear.
+
+Article 120
+Sufficiently clear.
+
+Article 121
+Sufficiently clear.
+
+Article 122
+Sufficiently clear.
+
+Article 123
+Sufficiently clear.
+
+Article 124
+Sufficiently clear.
+
+Article 125
+Sufficiently clear.
+
+Article 126
+Sufficiently clear.
+
+Article 127
+Sufficiently clear.
+
+Article 128
+Sufficiently clear.
+
+Article 129
+Sufficiently clear.
+
+Article 130
+Sufficiently clear.
+
+Article 131
+Sufficiently clear.
+
+Article 132
+Sufficiently clear.
+
+Article 133
+Sufficiently clear.
+
+Article 134
+Sufficiently clear.
+
+Article 135
+Sufficiently clear.
+
+Article 136
+Sufficiently clear.
+
+Article 137
+Sufficiently clear.
+
+Article 138
+Sufficiently clear.
+
+Article 139
+Sufficiently clear.
+
+Article 140
+Sufficiently clear.
+
+Article 141
+Sufficiently clear.
+
+Article 142
+Sufficiently clear.
+
+Article 143
+Sufficiently clear.
+
+Article 144
+Sufficiently clear.
+
+Article 145
+Sufficiently clear.
+
+Article 146
+Sufficiently clear.
+
+Article 147
+Sufficiently clear.
+
+Article 148
+Sufficiently clear.
+
+Article 149
+Sufficiently clear.
+
+Article 150
+Sufficiently clear.
+
+Article 151
+Sufficiently clear.
+
+Article 152
+Sufficiently clear.
+
+Article 153
+Sufficiently clear.
+
+Article 154
+Sufficiently clear.
+
+Article 155
+Sufficiently clear.
+
+Article 156
+Sufficiently clear.
+
+Article 157
+Sufficiently clear.
+
+Article 158
+Sufficiently clear.
+
+Article 159
+Sufficiently clear.
+
+Article 160
+Sufficiently clear.
+
+Article 161
+Sufficiently clear.
+
+Article 162
+Sufficiently clear.
+
+Article 163
+Sufficiently clear.
+
+Article 164
+Sufficiently clear.
+
+Article 165
+Sufficiently clear.
+
+Article 166
+Sufficiently clear.
+
+Article 167
+Sufficiently clear.
+
+Article 168
+Sufficiently clear.
+
+Article 169
+Sufficiently clear.
+
+Article 170
+Sufficiently clear.
+
+Article 171
+Sufficiently clear.
+
+Article 172
+Sufficiently clear.
+
+Article 173
+Sufficiently clear.
+
+Article 174
+Sufficiently clear.
+
+Article 175
+Sufficiently clear.
+
+Article 176
+Sufficiently clear.
+
+Article 177
+Sufficiently clear.
+
+Article 178
+Sufficiently clear.
+
+Article 179
+Sufficiently clear.
+
+Article 180
+Sufficiently clear.
+
+Article 181
+Sufficiently clear.
+
+Article 182
+Sufficiently clear.
+
+Article 183
+Sufficiently clear.
+
+Article 184
+Sufficiently clear.
+
+Article 185
+Sufficiently clear.
+
+Article 186
+Sufficiently clear.
+
+Article 187
+Sufficiently clear.
+
+Article 188
+Sufficiently clear.
+
+Article 189
+Sufficiently clear.
+
+Article 190
+Sufficiently clear.
+
+Article 191
+Sufficiently clear.
+
+Article 192
+Sufficiently clear.
+
+Article 193
+Sufficiently clear.
+
+Article 194
+Sufficiently clear.
+
+Article 195
+Sufficiently clear.
+
+Article 196
+Sufficiently clear.
+
+Article 197
+Sufficiently clear.
+
+Article 198
+Sufficiently clear.
+
+Article 199
+Sufficiently clear.
 
 Article 200
+Sufficiently clear.
 
-Sufficiently clear. Article 201 Sufficiently clear. Article 202 Sufficiently clear. Article 203 Sufficiently clear. Article 204 Sufficiently clear.
+Article 201
+Sufficiently clear.
 
-Sufficiently clear. Article 206 Sufficiently clear. Article 207 Sufficiently clear. Article 208 Sufficiently clear. Article 209 Sufficiently clear. Article 210 Sufficiently clear. Article 211 Sufficiently clear. Article 212 Sufficiently clear. Article 213 Sufficiently clear. Article 214 Sufficiently clear. Article 215 Sufficiently clear.
+Article 202
+Sufficiently clear.
 
-Article 216 Sufficiently clear. Article 217 Sufficiently clear. Article 218 Sufficiently clear. Article 219 Sufficiently clear. Article 220 Sufficiently clear. Article 221 Sufficiently clear. Article 222 Sufficiently clear. Article 223 Sufficiently clear. Article 224 Sufficiently clear. Article 225 Sufficiently clear. Article 226 Sufficiently clear. Article 227 Sufficiently clear. Article 228 Sufficiently clear. Article 229 Sufficiently clear.
+Article 203
+Sufficiently clear.
+
+Article 204
+Sufficiently clear.
+
+Article 205
+Sufficiently clear.
+
+Article 206
+Sufficiently clear.
+
+Article 207
+Sufficiently clear.
+
+Article 208
+Sufficiently clear.
+
+Article 209
+Sufficiently clear.
+
+Article 210
+Sufficiently clear.
+
+Article 211
+Sufficiently clear.
+
+Article 212
+Sufficiently clear.
+
+Article 213
+Sufficiently clear.
+
+Article 214
+Sufficiently clear.
+
+Article 215
+Sufficiently clear.
+
+Article 216
+Sufficiently clear.
+
+Article 217
+Sufficiently clear.
+
+Article 218
+Sufficiently clear.
+
+Article 219
+Sufficiently clear.
+
+Article 220
+Sufficiently clear.
+
+Article 221
+Sufficiently clear.
+
+Article 222
+Sufficiently clear.
+
+Article 223
+Sufficiently clear.
+
+Article 224
+Sufficiently clear.
+
+Article 225
+Sufficiently clear.
+
+Article 226
+Sufficiently clear.
+
+Article 227
+Sufficiently clear.
+
+Article 228
+Sufficiently clear.
+
+Article 229
+Sufficiently clear.
 
 Article 230
 
@@ -2888,22 +3495,15 @@ What is meant by information technology-based business premises are such as: int
 What is meant by various adequate equipment and facilities for Child visitors are such as: rooms/cubicles that provide privacy to Children with the requirement of having sufficient lighting and being visible from all sides.
 
 Article 233
-
 Sufficiently clear.
 
 Article 234
-
 Sufficiently clear.
 
 Article 235
-
 Sufficiently clear.
 
 Article 236
-
 Sufficiently clear.
 
 SUPPLEMENT TO THE REGIONAL GAZETTE OF PEKANBARU CITY NUMBER 2
-
-
-This excerpt sits under: CHAPTER XV CLOSING PROVISIONS
