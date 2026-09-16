@@ -82,7 +82,7 @@ Menetapkan : PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK.
 
 KETENTUAN UMUM
 
-### Pasal 1
+#### Pasal 1
 
 Dalam Peraturan Derah ini, yang dimaksud dengan :
 
