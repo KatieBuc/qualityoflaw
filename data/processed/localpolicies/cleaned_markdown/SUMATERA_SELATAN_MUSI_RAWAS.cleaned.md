@@ -1,12 +1,22 @@
-# BUPATI MUSI RAWAS PROVINSI SUMATERA SELATAN PERATURAN DAERAH KABUPATEN MUSI RAWAS NOMOR 4 TAHUN 2018 TENTANG
-
 # PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+BUPATI MUSI RAWAS 
 
-# BUPATI MUSI RAWAS.
+PROVINSI SUMATERA SELATAN 
 
-Menimbang : a. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan
+# PERATURAN DAERAH KABUPATEN MUSI RAWAS 
+
+NOMOR 4 TAHUN 2018 TENTANG
+
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+BUPATI MUSI RAWAS.
+
+Menimbang : 
+
+a. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan;
 
 b. bahwa kekerasan terhadap perempuan dan anak terus meningkat, sehingga perlu upaya perlindungan;
 
@@ -14,7 +24,9 @@ c. bahwa segala bentuk kekerasan terhadap perempuan dan anak merupakan pelanggar
 
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;
 
-Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+Mengingat : 
+
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Pembentukan Daerah Tingkat II dan Kotapraja di Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);
 
@@ -58,7 +70,11 @@ BUPATI MUSI RAWAS MEMUTUSKAN:
 
 Menetapkan : PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-BAB I KETENTUAN UMUM Pasal 1
+# BAB I 
+
+KETENTUAN UMUM 
+
+#### Pasal 1
 
 Dalam Peraturan Daerah ini yang dimaksud dengan :
 
@@ -140,7 +156,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan :
 
 39. Rumah tangga adalah anggota keluarga, kerabat (cucu, kemenakan, kakak, adik, kakek, nenek, sepupu dan sebagainya) dan bukan kerabat (pembantu, sopir dan sebagainya) yang hidup dan makan dari satu dapur serta menetap dalam satu rumah.
 
-## Pasal 2
+#### Pasal 2
 
 Penyelenggaraan perlindungan terhadap Perempuan korban kekerasan dilaksanakan berdasarkan asas:
 
@@ -152,7 +168,7 @@ c. non diskriminasi; dan
 
 d. kepentingan terbaik bagi korban.
 
-## Pasal 3
+#### Pasal 3
 
 Penyelenggaraan perlindungan anak berasaskan Pancasila dan berlandaskan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 serta prinsip-prinsip dasar Konvensi Hak-Hak Anak meliputi :
 
@@ -172,7 +188,7 @@ d. menyediakan fasilitas yang diperlukan untuk pemulihan korban, meliputi:
 
 e. pemantauan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak korban kekerasan.
 
-## Pasal 7
+#### Pasal 7
 
 Untuk penyelenggaraan pelayanan terhadap korban, Instansi Pemerintah dan Pemerintah Daerah sesuai dengan fungsi dan tugas masing-masing dapat melakukan upaya:
 
@@ -184,7 +200,7 @@ c. pembuatan dan pengembangan sistem dan mekanisme kerja sama program pelayanan 
 
 d. memberikan perlindungan bagi pendamping, saksi, keluarga, dan teman korban.
 
-## Pasal 8
+#### Pasal 8
 
 Untuk menyelenggarakan upaya sebagaimana dimaksud dalam Pasal 7, pemerintah dan pemerintah daerah sesuai dengan fungsi dan tugas masing- masing, dapat melakukan kerja sama dengan masyarakat atau lembaga sosial lainnya.
 
@@ -196,14 +212,15 @@ c. hak untuk hidup, kelangsungan hidup, dan perkembangan; dan
 
 d. penghargaan terhadap pendapat anak.
 
-## Pasal 4
+#### Pasal 4
 
 Tujuan dibentuknya Peraturan Daerah ini adalah untuk memberikan perlindungan dan pelayanan terhadap perempuan dan anak korban kekerasan yang berbasis gender dan kepentingan terbaik bagi anak yang terjadi di rumah tangga dan/atau publik. Serta untuk menjamin terpenuhinya hak-hak anak agar dapat hidup, tumbuh, berkembang, dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi, demi terwujudnya anak Indonesia yang berkualitas, berakhlak mulia, dan sejahtera.
 
-## BAB II
+# BAB II
+
 HAK KORBAN
 
-## Pasal 5
+#### Pasal 5
 
 Setiap perempuan dan anak Korban kekerasan berhak mendapatkan
 
@@ -217,15 +234,15 @@ d. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses
 
 e. pelayanan bimbingan rohani.
 
-## BAB III
+# BAB III
 
-## KEWAJIBAN DAN TANGGUNG JAWAB
+KEWAJIBAN DAN TANGGUNG JAWAB
 
-## Pasal 6
+#### Pasal 6
 
 Pemerintah Kabupaten dan masyarakat Kabupaten wajib dan bertanggung jawab melaksanakan upaya pencegahan terjadinya kekerasan, dalam bentuk:
 
-## Pasal 9
+#### Pasal 9
 
 Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan dalam rumah tangga wajib melakukan upaya-upaya sesuai dengan batas kemampuannya untuk:
 
@@ -237,9 +254,11 @@ c. memberikan pertolongan darurat; dan
 
 d. membantu proses pengajuan permohonan penetapan perlindungan.
 
-## BAB IV PENYELENGGARAAN PERLINDUNGAN Bagian Kesatu Kelembagaan
+# BAB IV 
 
-## Pasal 10
+PENYELENGGARAAN PERLINDUNGAN Bagian Kesatu Kelembagaan
+
+#### Pasal 10
 
 (1) Untuk penyelenggaraan Perlindungan terhadap perempuan dan anak, Pemerintah Kabupaten wajib menyediakan layanan bagi korban dalam bentuk:
 
@@ -255,9 +274,9 @@ b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban.
 
 ## Bagian Kedua
 
-## Bentuk dan Mekanisme Pelayanan
+Bentuk dan Mekanisme Pelayanan
 
-## Pasal 11
+#### Pasal 11
 
 (1) Bentuk Pelayanan Terpadu terhadap korban yang diselenggarakan oleh P2TP2A meliputi:
 
@@ -275,9 +294,11 @@ e. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan ketrampilan dan 
 
 (3) Ketentuan mengenai Prosedur Standar Operasional sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Bupati.
 
-Bagian Ketiga Prinsip Pelayanan
+## Bagian Ketiga 
 
-Pasal 12
+Prinsip Pelayanan
+
+#### Pasal 12
 
 Penyelenggaraan terhadap perempuan dan anak korban dilakukan dengan:
 
@@ -295,19 +316,21 @@ f. tanpa biaya; dan
 
 g. adanya jaminan kerahasiaan.
 
-# BAB V PENYELENGGARAAN PERLINDUNGAN ANAK
+# BAB V 
 
-Bagian kesatu
+PENYELENGGARAAN PERLINDUNGAN ANAK
+
+## Bagian kesatu
 
 Agama
 
-Pasal 13
+#### Pasal 13
 
 (1) Setiap anak mendapat perlindungan untuk beribadah menurut agamanya.
 
 (2) Sebelum anak dapat menentukan pilihannya, agama yang dipeluk anak mengikuti agama orang tuanya.
 
-## Pasal 14
+#### Pasal 14
 
 (1) Negara, pemerintah, masyarakat, keluarga, orang tua, wali, dan lembaga sosial menjamin perlindungan anak dalam memeluk agamanya.
 
@@ -317,7 +340,7 @@ Pasal 13
 
 Kesehatan
 
-## Pasal 15
+#### Pasal 15
 
 (1) Pemerintah wajib menyediakan fasilitas dan menyelenggarakan upaya kesehatan yang komprehensif bagi anak, agar setiap anak memperoleh derajat kesehatan yang optimal sejak dalam kandungan.
 
@@ -329,7 +352,7 @@ Kesehatan
 
 (5) Pelaksanaan ketentuan sebagaimana dimaksud pada ayat (1), ayat (2), ayat (3), dan ayat (4) disesuaikan dengan ketentuan peraturan perundang-undangan yang berlaku.
 
-## Pasal 16
+#### Pasal 16
 
 (1) Orang tua dan keluarga bertanggung jawab menjaga kesehatan anak dan merawat anak sejak dalam kandungan.
 
@@ -337,11 +360,11 @@ Kesehatan
 
 (3) Kewajiban sebagaimana dimaksud pada ayat (2), pelaksanaannya dilakukan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
-## Pasal 17
+#### Pasal 17
 
 Negara, pemerintah, keluarga, dan orang tua wajib mengusahakan agar anak yang lahir terhindar dari penyakit yang mengancam kelangsungan hidup dan/atau menimbulkan kecacatan.
 
-## Pasal 18
+#### Pasal 18
 
 (1) Negara, pemerintah, keluarga, dan orang tua wajib melindungi anak dari upaya transplantasi organ tubuhnya untuk pihak lain.
 
@@ -355,17 +378,17 @@ c. penelitian kesehatan yang menggunakan anak sebagai objek penelitian tanpa sei
 
 ## Bagian Ketiga
 
-### Pendidikan
+Pendidikan
 
 #### Pasal 19
 
 Pemerintah wajib menyelenggarakan pendidikan dasar minimal 9 (sembilan) tahun untuk semua anak.
 
-## Pasal 20
+#### Pasal 20
 
 Negara, pemerintah, keluarga, dan orang tua wajib memberikan kesempatan yang seluas-luasnya kepada anak untuk memperoleh pendidikan.
 
-## Pasal 21
+#### Pasal 21
 
 Pendidikan sebagaimana dimaksud dalam Pasal 20 diarahkan pada :
 
@@ -379,29 +402,29 @@ d. persiapan anak untuk kehidupan yang bertanggung jawab; dan
 
 e. pengembangan rasa hormat dan cinta terhadap lingkungan hidup.
 
-## Pasal 22
+#### Pasal 22
 
 Anak yang menyandang cacat fisik dan/atau mental diberikan kesempatan yang sama dan aksesibilitas untuk memperoleh pendidikan biasa dan pendidikan luar biasa.
 
-## Pasal 23
+#### Pasal 23
 
 Anak yang memiliki keunggulan diberikan kesempatan dan aksesibilitas untuk memperoleh pendidikan khusus.
 
-## Pasal 24
+#### Pasal 24
 
 (1) Pemerintah bertanggung jawab untuk memberikan biaya pendidikan dan/atau bantuan cuma-cuma atau pelayanan khusus bagi anak dari keluarga kurang mampu, anak terlantar, dan anak yang bertempat tinggal di daerah terpencil.
 
 (2) Pertanggungjawaban pemerintah sebagaimana dimaksud pada ayat (1) termasuk pula mendorong masyarakat untuk berperan aktif.
 
-## Pasal 25
+#### Pasal 25
 
 Anak didalam dan di lingkungan sekolah wajib dilindungi dari tindakan kekerasan yang dilakukan oleh guru, pengelola sekolah atau teman- temannya di dalam sekolah yang bersangkutan, atau lembaga pendidikan lainnya.
 
 ## Bagian Keempat
 
-## Sosial
+Sosial
 
-## Pasal 26
+#### Pasal 26
 
 (1) Pemerintah wajib menyelenggarakan pemeliharaan dan perawatan anak terlantar, baik dalam lembaga maupun di luar lembaga.
 
@@ -411,7 +434,7 @@ Anak didalam dan di lingkungan sekolah wajib dilindungi dari tindakan kekerasan 
 
 (4) Dalam hal penyelenggaraan pemeliharaan dan perawatan sebagaimana dimaksud pada ayat (3), dilakukan oleh Dinas Sosial.
 
-## Pasal 27
+#### Pasal 27
 
 (1) Pemerintah dalam menyelenggarakan pemeliharaan dan perawatan wajib mengupayakan dan membantu anak, agar anak dapat :
 
@@ -429,23 +452,25 @@ f. memperoleh sarana bermain yang memenuhi syarat kesehatan dan keselamatan.
 
 (2) Upaya sebagaimana dimaksud pada ayat (1) dikembangkan dan  disesuaikan dengan usia, tingkat kemampuan anak, dan  lingkungannya agar tidak menghambat dan mengganggu  perkembangan anak.
 
-## Pasal 28
+#### Pasal 28
 
 Dalam hal anak terlantar karena suatu sebab orang tuanya melalaikan kewajibannya, maka lembaga sebagaimana dimaksud dalam Pasal 27, keluarga, atau pejabat yang berwenang dapat mengajukan permohonan ke pengadilan untuk menetapkan anak sebagai anak terlantar.
 
-## Pasal 29
+#### Pasal 29
 
 (1) Penetapan pengadilan sebagaimana dimaksud dalam Pasal 40 sekaligus  menetapkan tempat penampungan, pemeliharaan, dan perawatan anak  terlantar yang bersangkutan.
 
 (2) Pemerintah atau lembaga yang diberi wewenang wajib menyediakan tempat sebagaimana dimaksud pada ayat (1).
 
-## Bagian Kelima  Perlindungan Khusus
+## Bagian Kelima  
 
-## Pasal 30
+Perlindungan Khusus
+
+#### Pasal 30
 
 Pemerintah dan lembaga negara lainnya berkewajiban dan bertanggung jawab untuk memberikan perlindungan khusus kepada anak dalam situasi darurat, anak yang berhadapan dengan hukum, anak dari kelompok minoritas dan terisolasi, anak tereksploitasi secara ekonomi dan/atau seksual, anak yang diperdagangkan, anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya (napza), anak korban penculikan, penjualan dan perdagangan, anak korban kekerasan baik fisik dan/atau mental, anak yang menyandang cacat, dan anak korban perlakuan salah dan penelantaran.
 
-## Pasal 31
+#### Pasal 31
 
 Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal 30 terdiri atas :
 
@@ -457,11 +482,11 @@ c. anak korban bencana alam; dan
 
 d. anak dalam situasi konflik bersenjata.
 
-## Pasal 32
+#### Pasal 32
 
 Perlindungan khusus bagi anak yang menjadi pengungsi sebagaimana dimaksud dalam Pasal 30 huruf a dilaksanakan sesuai dengan ketentuan hukum humaniter.
 
-## Pasal 33
+#### Pasal 33
 
 Perlindungan khusus bagi anak korban kerusuhan, korban bencana, dan anak dalam situasi konflik bersenjata sebagaimana dimaksud dalam Pasal 30 huruf b, huruf c, dan huruf d, dilaksanakan melalui:
 
@@ -469,11 +494,11 @@ a. pemenuhan kebutuhan dasar yang terdiri atas pangan, sandang, pemukiman, pendi
 
 b. pemenuhan kebutuhan khusus bagi anak yang menyandang Disabilitas dan anak yang mengalami gangguan psikososial.
 
-## Pasal 34
+#### Pasal 34
 
 Setiap orang dilarang merekrut atau memperalat anak untuk kepentingan militer dan/atau lainnya dan membiarkan anak tanpa perlindungan jiwa.
 
-## Pasal 35
+#### Pasal 35
 
 (1) Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud dalam Pasal 30 meliputi anak yang berkonflik dengan hukum dan anak korban tindak pidana, merupakan kewajiban dan tanggung jawab pemerintah dan masyarakat.
 
@@ -503,13 +528,13 @@ c. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli, baik fisik, m
 
 d. pemberian aksesibilitas untuk mendapatkan informasi mengenai perkembangan perkara.
 
-## Pasal 36
+#### Pasal 36
 
 (1) Perlindungan khusus bagi anak dari kelompok minoritas dan terisolasi sebagaimana dimaksud dalam Pasal 30 dilakukan melalui penyediaan prasarana dan sarana untuk dapat menikmati budayanya sendiri, mengakui dan melaksanakan ajaran agamanya sendiri, dan menggunakan bahasanya sendiri.
 
 (2) Setiap orang dilarang menghalang-halangi anak sebagaimana dimaksud pada ayat (1) untuk menikmati budayanya sendiri, mengakui dan melaksanakan ajaran agamanya, dan menggunakan bahasanya sendiri tanpa mengabaikan akses pembangunan masyarakat dan budaya.
 
-## Pasal 37
+#### Pasal 37
 
 (1) Perlindungan khusus bagi anak yang dieksploitasi secara ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal 30 merupakan kewajiban dan tanggung jawab pemerintah dan masyarakat.
 
@@ -523,25 +548,25 @@ c. pelibatan berbagai instansi pemerintah, perusahaan, serikat pekerja, lembaga 
 
 (3) Setiap orang dilarang menempatkan, membiarkan, melakukan, menyuruh melakukan, atau turut serta melakukan eksploitasi terhadap anak sebagaimana dimaksud pada ayat (1).
 
-## Pasal 38
+#### Pasal 38
 
 (1) Perlindungan khusus bagi anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya (napza) sebagaimana dimaksud dalam Pasal 30, dan terlibat dalam produksi dan distribusinya, dilakukan melalui upaya pengawasan, pencegahan, perawatan, dan rehabilitasi oleh pemerintah dan masyarakat.
 
 (2) Setiap orang dilarang dengan sengaja menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak dalam penyalahgunaan, produksi dan distribusi napza sebagaimana dimaksud pada ayat (1).
 
-## Pasal 39
+#### Pasal 39
 
 (1) Perlindungan khusus bagi anak korban penculikan, penjualan, dan perdagangan anak sebagaimana dimaksud dalam Pasal 30 dilakukan melalui upaya pengawasan, perlindungan, pencegahan, perawatan, dan rehabilitasi oleh pemerintah dan masyarakat.
 
 (2) Setiap orang dilarang menempatkan, membiarkan, melakukan, menyuruh melakukan, atau turut serta melakukan penculikan, penjualan, atau perdagangan sebagaimana dimaksud pada ayat (1).
 
-## Pasal 40
+#### Pasal 40
 
 (1) Perlindungan khusus bagi anak korban kekerasan sebagaimana dimaksud dalam Pasal 30 meliputi: kekerasan fisik, psikis, dan seksual dilakukan melalui upaya : penyebarluasan dan sosialisasi ketentuan peraturan perundang-undangan yang melindungi anak korban tindak kekerasan; dan pemantauan, pelaporan, dan pemberian sanksi.
 
 (2) Setiap orang dilarang menempatkan, membiarkan, melakukan, menyuruh melakukan, atau turut serta melakukan kekerasan sebagaimana dimaksud pada ayat (1).
 
-## Pasal 41
+#### Pasal 41
 
 (1) Perlindungan khusus bagi anak yang menyandang cacat sebagaimana dimaksud dalam Pasal 30 dilakukan melalui upaya :
 
@@ -553,13 +578,21 @@ c. memperoleh perlakuan yang sama dengan anak lainnya untuk mencapai integrasi s
 
 (2) Setiap orang dilarang memperlakukan anak dengan mengabaikan pandangan mereka secara diskriminatif, termasuk labelisasi dan penyetaraan dalam pendidikan bagi anak-anak yang menyandang cacat.
 
-## Pasal 42
+#### Pasal 42
 
 (1) Perlindungan khusus bagi anak korban perlakuan salah dan penelantaran sebagaimana dimaksud dalam Pasal 30 dilakukan melalui pengawasan, pencegahan, perawatan, dan rehabilitasi oleh pemerintah dan masyarakat.
 
 (2) Setiap orang dilarang menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak dalam situasi perlakuan salah, dan penelantaran sebagaimana dimaksud pada ayat (1).
 
-# BAB VI  HAK PENYANDANG DISABILITAS  Bagian Kesatu  Umum  Pasal 43
+# BAB VI 
+
+HAK PENYANDANG DISABILITAS 
+
+## Bagian Kesatu 
+
+Umum 
+
+#### Pasal 43
 
 Penyandang Disabilitas memiliki hak:
 
@@ -585,7 +618,7 @@ j. keolahragaan;
 
 k. kebudayaan dan pariwisata;
 
-1. kesejahteraan sosial;
+l. kesejahteraan sosial;
 
 m. aksesibilitas;
 
@@ -607,7 +640,7 @@ u. berpindah tempat dan kewarganegaraan; dan
 
 v. bebas dari tindakan Diskriminasi, penelantaran, penyiksaan, dan eksploitasi.
 
-## Pasal 44
+#### Pasal 44
 
 Selain hak Penyandang Disabilitas sebagaimana dimaksud pada ayat (1), perempuan dengan disabilitas memiliki hak:
 
@@ -619,7 +652,7 @@ c. mendapatkan Pelindungan lebih dari perlakuan Diskriminasi berlapis; dan
 
 d. untuk mendapatkan Pelindungan lebih dari tindak kekerasan, termasuk kekerasan dan eksploitasi seksual.
 
-## Pasal 45
+#### Pasal 45
 
 Selain hak Penyandang Disabilitas sebagaimana dimaksud pada ayat (1), anak penyandang disabilitas memiliki hak:
 
@@ -639,9 +672,9 @@ g. mendapatkan pendampingan sosial.
 
 ## Bagian Kedua
 
-## Hak Hidup
+Hak Hidup
 
-## Pasal 46
+#### Pasal 46
 
 Hak hidup untuk Penyandang Disabilitas meliputi hak:
 
@@ -657,11 +690,19 @@ e. bebas dari ancaman dan berbagai bentuk eksploitasi; dan
 
 f. bebas dari penyiksaan, perlakuan dan penghukuman lain yang kejam, tidak manusiawi, dan merendahkan martabat manusia.
 
-Bagian Ketiga Hak Bebas dari Stigma Pasal 47
+## Bagian Ketiga 
+
+Hak Bebas dari Stigma 
+
+#### Pasal 47
 
 Hak bebas dari stigma untuk Penyandang Disabilitas meliputi hak bebas dari pelecehan, penghinaan, dan pelabelan negatif terkait kondisi disabilitasnya.
 
-Bagian Keempat Hak Privasi Pasal 48
+## Bagian Keempat 
+
+Hak Privasi 
+
+#### Pasal 48
 
 Hak privasi untuk Penyandang Disabilitas meliputi hak:
 
@@ -675,11 +716,11 @@ d. mendapat Pelindungan terhadap kehidupan pribadi dan keluarga; dan
 
 e. dilindungi kerahasiaan atas data pribadi, surat-menyurat, dan bentuk komunikasi pribadi lainnya, termasuk data dan informasi kesehatan.
 
-Bagian Kelima
+## Bagian Kelima
 
 Hak Keadilan dan Perlindungan Hukum
 
-Pasal 49
+#### Pasal 49
 
 Hak keadilan dan perlindungan hukum untuk Penyandang Disabilitas meliputi hak:
 
@@ -701,11 +742,11 @@ h. memilih dan menunjuk orang untuk mewakili kepentingannya dalam hal keperdataa
 
 i. dilindungi hak kekayaan intelektualnya.
 
-Bagian Keenam
+## Bagian Keenam
 
 Hak Pendidikan
 
-Pasal 50
+#### Pasal 50
 
 Hak pendidikan untuk Penyandang Disabilitas meliputi hak:
 
@@ -717,17 +758,17 @@ c. mempunyai Kesamaan Kesempatan sebagai penyelenggara pendidikan yang bermutu p
 
 d. mendapatkan Akomodasi yang Layak sebagai peserta didik.
 
-BAB VII
+# BAB VII
 
 PENYELENGGARAAN PERLINDUNGAN PEREMPUAN
 
 Hak Perempuan
 
-Pasal 51
+#### Pasal 51
 
 Perempuan berhak untuk memperoleh pendidikan dan pengajaran dalam pekerjaan, jabatan, dan profesi sesuai dengan persyaratan yang telah ditentukan.
 
-Pasal 52
+#### Pasal 52
 
 (1) Perempuan berhak untuk memilih, dipilih, diangkat, dalam pekerjaan, jabatan, dan profesi sesuai dengan persyaratan dan peraturan perundang-undangan.
 
@@ -735,11 +776,11 @@ Pasal 52
 
 (3) Hak khusus yang melekat pada diri Perempuan dikarenakan fungsi reproduksinya, dijamin, dan dilindungi oleh hukum.
 
-## Pasal 53
+#### Pasal 53
 
 Perempuan yang telah dewasa dan atau telah menikah berhak untuk melakukan perbuatan hukum sendiri, kecuali ditentukan lain oleh hukum agamanya.
 
-## Pasal 54
+#### Pasal 54
 
 Dalam pemeriksaan perkara Perempuan Berhadapan dengan Hukum, hakim tidak boleh :
 
@@ -751,15 +792,15 @@ c. mempertanyakan dan/atau mempertimbangkan mengenai pengalaman atau latar belak
 
 d. mengeluarkan pernyataan atau pandangan yang mengandung stereotif Gender.
 
-## Pasal 55
+#### Pasal 55
 
 Seiama jalannya pemeriksaan persidangan, hakim agar mencegah dan/atau menegur para pihak, penasehat hukum, penuntut umum dan/atau kuasa hukum yang bersikap atau membuat pernyataan yang merendahan, menyalahkan, mengintimidasi dan/atau menggunakan pengalaman atau latar belakang seksualitas Perempuan Berhadapan dengan Hukum.
 
-## Pasal 56
+#### Pasal 56
 
 Apabila Perempuan Berhadapan dengan Hukum mengalami hambatan fisik dan Psikis sehingga membutuhkan pendampingan maka Hakim dapat mengabulkan pernmintaan Perempuan Berhadapan dengan Hukum untuk menghadirkan Pendamping.
 
-## Pasal 57
+#### Pasal 57
 
 Hakim atas inisiatif sendiri dan/ atau permohonan para pihak, penuntut umum, penasehat hukum dan/atau korban dapat memerintahkan Perempuan Berhadapan dengan Hukum untuk didengar keterangannya melalui pemeriksaan dengan komunikasi audio visual jarak jauh di pengadilan setempat atau di tempat lain, apabila:
 
@@ -769,19 +810,25 @@ Hakim atas inisiatif sendiri dan/ atau permohonan para pihak, penuntut umum, pen
 
 3) Berdasarkan keputusan Lembaga Perlindungan Saksi dan Korban (LPSK), Perempuan Berhadapan dengan Hukum dinyatakan berada dalam program perlindungan saksi dan/atau korban menurut LPSK tidak dapat hadir di persidangan untuk memberikan keterangan baik karena alasan keamanan maupun karena alasan hambatan maupun karena alas an hambatan fisik dan psikis.
 
-## BAB VIII PERAN MASYARAKAT Pasal 58
+# BAB VIII 
+
+PERAN MASYARAKAT 
+
+#### Pasal 58
 
 (1) Masyarakat berhak memperoleh kesempatan seluas-luasnya untuk berperan dalam perlindungan perempuan dan anak.
 
 (2) Peran masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh orang perseorangan, lembaga perlindungan anak, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, badan usaha, dan media massa.
 
-## Pasal 59
+#### Pasal 59
 
 Peran masyarakat dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku.
 
-# PENYELENGGARAAN PEMULIHAN KORBAN
+# BAB IX
 
-## Pasal 60
+PENYELENGGARAAN PEMULIHAN KORBAN
+
+#### Pasal 60
 
 (1) Penyelenggaraan kegiatan pemulihan perempuan dan anak korban meliputi :
 
@@ -805,11 +852,11 @@ e) Resosialisasi.
 
 Resosialisasi korban dilaksanakan oleh instansi sosial dan lembaga sosial agar korban dapat kembali melaksanakan fungsi sosialnya dalam masyarakat.
 
-## BAB IX
+# BAB IX
 
-## KETENTUAN PIDANA
+KETENTUAN PIDANA
 
-## Pasal 61
+#### Pasal 61
 
 Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan anak sehingga:
 
@@ -819,7 +866,11 @@ b. membiarkan terjadinya kekerasan; dan/atau
 
 c. tidak melaporkan dan tidak memberikan perlindungan terhadap korban, dikenakan sanksi sesuai dengan ketentuan peraturan perundang- undangan.
 
-BAB X KETENTUAN PENUTUP Pasal 62
+# BAB X 
+
+KETENTUAN PENUTUP 
+
+#### Pasal 62
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
@@ -839,11 +890,13 @@ LEMBARAN DAERAH KABUPATEN MUSI RAWAS TAHUN 2018 NOMOR 4
 
 NOREG PERATURAN DAERAH KABUPATEN MUSI RAWAS PROVINSI SUMATERA SELATAN ( 4 /MURA/2018).
 
-# PENJELASAN PERATURAN DAERAH KABUPATEN MUSI RAWAS NOMOR 4. TAHUN 2017 TENTANG
+# PENJELASAN PERATURAN DAERAH KABUPATEN MUSI RAWAS 
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+NOMOR 4. TAHUN 2017 TENTANG
 
-## I. UMUM
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+
+#### I. UMUM
 
 Tujuan Nasional Negara Kesatuan Republik Indonesia, sebagaimana diatur dalam Pembukaan Undang-Undang Dasar Tahun 1945 pada alinea keempat dinyatakan meliputi: (1) melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, (2) memajukan kesejahteraan umum, (3) mencerdaskan kehidupan bangsa dan (4) ikut melaksanakan ketertiban dunia yang berdasarkan: (a) kemerdekaan, (b) perdamaian abadi, dan (c) keadilan sosial. Untuk mencapai tujuan tersebut,sesuai dengan ajaran trias politika, maka ada tiga kekuasaan Negara yaitu kekuasaan eksekutif untuk penyelenggaraan pemerintahan,kekuasaan legislative sebagai pembentuk peraturanperundang-undangan dan kekuasaan yudikatif sebagai penyelenggara paraturan perundang-undangan. Di Indonesia, ketiga kekuasaan ini saling melengkapi, untuk terselenggaranya pemerintahan yang bersih dan berwibawa, mulai dari tingkat nasional, hingga tingkat daerah.
 
@@ -879,9 +932,7 @@ Nomor 35 Tahun 2014 tentang Perubahan atas Ungang-Undang  Nomor 23 Tahun 2002 te
 
 Pasal 81 menyatakan: (1) Setiap orang yang dengan sengaja  melakukan kekerasan atau ancaman kekerasan memaksa anak  melakukan persetubuhan dengannya atau dengan orang lain,  dipidana dengan pidana penjara paling lama 15 (lima belas) tahun  dan paling singkat 5 (lima) tahun dan denda paling banyak  Rp.300.000.000,-(tiga ratus juta rupiah) dan paling sedikit  Rp.5.000.000.000.-(Lima Milyar rupiah). (2) Ketentuan Pidana  sebagaimana dimaksud pada ayat (1) berlaku pula bagi setiap orang  yang dengan sengaja melakukan tipu muslihat, serangkaian  kebohongan, atau membujuk anak melakukan persetubuhan  dengannya atau dengan orang lain. (3) Ketentuan Pidana sebagaimana  dimaksud pada ayat (1) dilakukan oleh Orang Tua, Wali, Pengasuh  Anak, Pendidik atau Tenaga Kependidikan , maka pidana nya  ditambah 1/3 ( sepertiga) dari pidana sebagaimana dimaksud pada  ayat (1)
 
-Pasal 82 menyatakan : (1) Setiap orang yang dengan sengaja  melakukan kekerasan atau ancaman kekerasan, memaksa,  melakukan tipu muslihat, serangkaian kebohongan, atau membujuk  anak untuk melakukan atau membiarkan dilakukan perbuatan cabul,  dipidana dengan pidana penjara paling lama 15 (lima belas) tahun  dan paling singkat 5 (lima) tahun dan denda paling banyak Rp.  5.000.000.000,- (Lima milyar rupiah). (2) Ketentuan Pidana  sebagaimana dimaksud pada ayat (1) dilakukan oleh Orang Tua, Wali,  Pengasuh Anak, Pendidik atau Tenaga Kependidikan, maka pidana
-
-nya ditambah 1/3 ( sepertiga) dari pidana sebagaimana dimaksud pada ayat (1)
+Pasal 82 menyatakan : (1) Setiap orang yang dengan sengaja  melakukan kekerasan atau ancaman kekerasan, memaksa,  melakukan tipu muslihat, serangkaian kebohongan, atau membujuk  anak untuk melakukan atau membiarkan dilakukan perbuatan cabul,  dipidana dengan pidana penjara paling lama 15 (lima belas) tahun  dan paling singkat 5 (lima) tahun dan denda paling banyak Rp.  5.000.000.000,- (Lima milyar rupiah). (2) Ketentuan Pidana  sebagaimana dimaksud pada ayat (1) dilakukan oleh Orang Tua, Wali,  Pengasuh Anak, Pendidik atau Tenaga Kependidikan, maka pidananya ditambah 1/3 ( sepertiga) dari pidana sebagaimana dimaksud pada ayat (1)
 
 Pasal 83 menyatakan: Setiap orang yang memperdagangkan, menjual, atau menculik anak untuk diri sendiri atau untuk dijual, dipidana dengan pidana penjara paling lama 15 (lima belas )tahun dan paling singkat 3 (tiga) tahun dan denda paling banyak Rp. 300.000.000,- (tiga ratus juta rupiah) dan paling sedikit Rp. 60.000.000,- (enam puluh juta rupiah).
 
@@ -889,9 +940,7 @@ Ketiga Pasal ini merupakan Pasal-Pasal yang sangat reformatif apabila dibandingk
 
 Permasalahannya, adalah meskipun Undang-Undang sudah menetapkan ancaman atau sanksi hukuman yang berat, namun masih ada Aparat Penegak Hukum yang masih belum optimal menerapkannya, jadi masih jauh panggang dari api, antara law inbook dengan law inaction. Pada kasus-kasus sebagaimana diatur pada Pasal 81 sampai dengan Pasal 83, sering Aparat Hukum dalam proses penyelidikan dan penyidikan yang cukup berat dan melelahkan bagi anak korban kekerasan, namun dalam tuntutan dan vonis hakim masih ringan sehingga tidak sesuai dengan keadilan.
 
-Kekerasan terhadap perempuan dan anak juga banyak terjadi dalam lingkup rumah tangga, meskipun sudah 13 tahun kita memiliki undang-undang, yaitu Undang-undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Ruamh Tangga (KDRT), namun dewasa ini KDRT makin meningkat jumlahnya. Untuk pencegahan dan penanganan KDRT di Kabupaten Musi Rawas pada Dinas Pemberdayaan Perempuan dan perlindungan Anak Kabupaten Musi Rawas telah dibentuk Pusat Pelayanan Terpadu perlindungan Perempuan dan Anak (P2TP2A) Kabupaten Musi Rawas, berdasarkan Keputusan Bupati Musi Rawas Nomor 703/ KPTS/ KPP/2015 yaitu
-
-tentang Pembentukan Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A) Kabupaten Musi R awas.
+Kekerasan terhadap perempuan dan anak juga banyak terjadi dalam lingkup rumah tangga, meskipun sudah 13 tahun kita memiliki undang-undang, yaitu Undang-undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Ruamh Tangga (KDRT), namun dewasa ini KDRT makin meningkat jumlahnya. Untuk pencegahan dan penanganan KDRT di Kabupaten Musi Rawas pada Dinas Pemberdayaan Perempuan dan perlindungan Anak Kabupaten Musi Rawas telah dibentuk Pusat Pelayanan Terpadu perlindungan Perempuan dan Anak (P2TP2A) Kabupaten Musi Rawas, berdasarkan Keputusan Bupati Musi Rawas Nomor 703/ KPTS/ KPP/2015 yaitu tentang Pembentukan Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A) Kabupaten Musi R awas.
 
 Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A) menjadi tempat pelaporan, penanganan, rehabilitasi dan reintegrasi korban kekerasan. Apabila ada KDRT atau kekerasan lainnya yang menimpa perempuan dan anak-anak, harus dilaporkan ke P2TP2A tersebut, namun keberadaan P2TP2A belum banyak diketahui oleh masyarakat.
 
@@ -905,9 +954,7 @@ b. kekerasan psikis, adalah perbuatan yang mengakibatkan (1) ketakutan, (2) hila
 
 c. kekerasan seksual meliputi: (1) pemaksaan hubungan seksual yang dilakukan terhadap orang termasuk anak, yang menetap dalam lingkup rumah tangga, (2) pemaksaan hubungan seksual terhadap salah seorang dalam lingkup rumah tangganya dengan orang lain termasuk anak, untuk tujuan komersial dan/atau tujuan tertentu;
 
-d. penelantaran rumah tangga, meliputi (1) menelantarkan orang termasuk anak dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau
-
-pemeliharaan kepada orang atau anak tersebut, (2) mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak didalam atau luar rumah sehingga korban di bawah kendali orang tersebut.
+d. penelantaran rumah tangga, meliputi (1) menelantarkan orang termasuk anak dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang atau anak tersebut, (2) mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak didalam atau luar rumah sehingga korban di bawah kendali orang tersebut.
 
 Hak-hak korban KDRT adalah mendapatkan:
 
@@ -1005,7 +1052,7 @@ j. memperoleh pendampingan orangtua/Wali dan orang yang dipercaya oleh Anak;
 
 k. memperoleh advokasi sosial;
 
-1. memperoleh kehidupan pribadi;
+l. memperoleh kehidupan pribadi;
 
 m. memperoleh aksesibilitas, terutama bagi anak cacat;
 
@@ -1015,7 +1062,7 @@ Dari ketentuan perundang-undangan tersebut diatas, kita dapat memahami betapa be
 
 Semoga dengan disahkannya Perda Perlindungan Perempuan dan Anak Korban Kekerasan ini, di Kabupaten Musi Rawas khususnya, maka penanganan, dan rehabilitasi serta reintegrasi dapat dijalankan dengan baik, dan  makin lancar proses pencegahan kekerasan terhadap perempuan dan anak, sehingga makin sedikit dan akhirnya tidak ada lagi kekerasan terhadap perempuan dan anak. Amin.
 
-## II. PENJELASAN PASAL DEMI PASAL.
+#### II. PENJELASAN PASAL DEMI PASAL.
 
 Pasal 1
 
@@ -1027,41 +1074,175 @@ Cukup jelas,
 
 Huruf b
 
-Keadilan, kesetaraan gender, prinsip ini sangat penting karena dalam kenyatannya masih banyak korban yang belum mendapatkan keadilan,apalagi pemulihan serta reintegrasi, yangmerupakan hak korban kekerasan sesuaidengan ketentuan peraturan perundang- undangan, diantaranya UU Nomor 23 Tahun 2004 tentang Penghapusan KDRT, dan UU Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang. Kalau prinsip ini tidak dijamin dan tidak dilaksanakan, maka korban akan menjadi pihak-pihak yang terpinggirkan, sehingga dapat menimbulkan
+Keadilan, kesetaraan gender, prinsip ini sangat penting karena dalam kenyatannya masih banyak korban yang belum mendapatkan keadilan,apalagi pemulihan serta reintegrasi, yangmerupakan hak korban kekerasan sesuaidengan ketentuan peraturan perundang- undangan, diantaranya UU Nomor 23 Tahun 2004 tentang Penghapusan KDRT, dan UU Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang. Kalau prinsip ini tidak dijamin dan tidak dilaksanakan, maka korban akan menjadi pihak-pihak yang terpinggirkan, sehingga dapat menimbulkan kejadian-kejadian yang tidak kita harapkan, misalnya  menjadi sakit ingatan bahkan hingga kemauan dan  pelaksanaan kemauan untuk bunuh diri karena sudah  tidak memiliki harapan lagi dapat diterima oleh  masyarakat, bahkan oleh keluarga sendiri. Banyak  pengalaman seperti ini terjadi pada bangsa Indonesia,  mari kita akhiri tragedi kemanusiaan tersebut, karena  kita mengakui bahwa meskipun mereka korban bahkan  pelaku kekerasan sekalipun, tetap merupakan bangsa  Indonesia, yang berhak atas Hak Asasi Manusia yang kita  dengang-dengungkan bersama untuk dihormati dan  dilaksanakan. Amin
 
-kejadian-kejadian yang tidak kita harapkan, misalnya  menjadi sakit ingatan bahkan hingga kemauan dan  pelaksanaan kemauan untuk bunuh diri karena sudah  tidak memiliki harapan lagi dapat diterima oleh  masyarakat, bahkan oleh keluarga sendiri. Banyak  pengalaman seperti ini terjadi pada bangsa Indonesia,  mari kita akhiri tragedi kemanusiaan tersebut, karena  kita mengakui bahwa meskipun mereka korban bahkan  pelaku kekerasan sekalipun, tetap merupakan bangsa  Indonesia, yang berhak atas Hak Asasi Manusia yang kita  dengang-dengungkan bersama untuk dihormati dan  dilaksanakan. Amin
-
-## Huruf c
+Huruf c
 
 Non diskriminasi, prinsip ini sering tidak kita sadari kalau kita lakukan, misalnya perbedaan suku bangsa, ras, jenis kelamin, agama, status perkawinan, status sosial dan masih banyak lagi. Prinsip non diskriminasi menuntut kita memperlakukan diri kitadan diri orang lain secara sama, setara, adil sebagai seorang manusia biasa.
 
-## Huruf d
+Huruf d
 
 Kepentingan terbaik bagi korban, merupakan prinsip  khas perempuan yang hanya dapat dirumuskan oleh  perempuan itu sendiri. Perempuan korban kekerasan  ingin diberi kebebasan sesuai dengan kepentingannya  perempuan ingin melupakan pelaku yang nota bene  merupakan orang yang pernah dicintainya, dan  seterusnya. Jadi kita sebagai masyarakat atau sebagai  aparat penegak hukum perlu memberi kesempatan  kepada perempuan untuk mengungkapkan kepentingan  mereka menyangkut segala sesuatu yang berkaitan  dengan pelaku maupun bagaimana mengatasi dampak  dari kekerasan yang menimpa diri mereka.
 
-## Huruf a
+Huruf a
 
 Non diskriminasi, prinsip ini sering tidak kita sadari kalau kita lakukan, misalnya perbedaan suku bangsa, ras, jenis kelamin, agama, status sosial dan masih banyak lagi. Prinsip non diskriminasi menuntut kita memperlakukan diri anak kita dan diri anak orang lain secara sama, setara, adil sebagai seorang manusia biasa.
 
-## Huruf b
+Huruf b
 
 Kepentingan terbaik bagi bagi anak, merupakan prinsip khas anak yang hanya dapat dirumuskan oleh anak itu sendiri. Contoh, bagaimana kepentingan anak korban kekerasan untuk menjalani sanksi yang dijatuhkan kepadanya, atau bagaimana anak akan menghadapi pelaku di persidangan, harus ditanyakan sesuai dengan kepentingan anak korban kekerasan. Anak ingin melupakan pelaku yang nota bene merupakan orang yang dekat denganya. Jadi kita sebagai masyarakat atau sebagai aparat penegak hukum perlu memberi kesempatan kepada anak untuk mengungkapkan kepentingan mereka menyangkut segala sesuatu yang berkaitan dengan pelaku maupun bagaimana mengatasi dampak dari kekerasan yang menimpa diri mereka.
 
-## Huruf c
+Huruf c
 
 Yang dimaksud dengan azas hak untuk hidup, kelangsungan hidup dan perkembangan adalah hak asasi yang paling mendasar bagi anak yang dilindungi oleh Negara, pemerintah, keluarga, dan orang tua.
 
-## Huruf d
+Huruf d
 
 Yang dimaksud dengan azas penghargaan terhadap pendapat anak adalah penghormatan atas hak hak anak untuk berpartisipasi dan menyatakan pendapatnya dalam pengambilan keputusan terutama jika menyangkut hal hal yang mempengaruhi kehidupan.
 
-Pasal 4 Cukup jelas Pasal 5 Cukup jelas Pasal 6 Ayat (1) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas
+Pasal 4 
 
-Pasal 7 Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas
+Cukup jelas 
 
-Pasal 8 Cukup jelas Pasal 9 Cukup jelas Pasal 10 Ayat (1) Huruf a Cukup jelas Huruf b Cukup jelas
+Pasal 5 
 
-Ayat (2) Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas Pasal 11 Ayat (1) Huruf a Cukup jelas Hurub b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas Pasal 12 Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Cukup jelas Huruf f Cukup jelas Huruf g Cukup jelas
+Cukup jelas 
+
+Pasal 6 
+
+Ayat (1) 
+
+Huruf a 
+
+Cukup jelas 
+
+Huruf b 
+
+Cukup jelas 
+
+Huruf c 
+
+Cukup jelas 
+
+Huruf d 
+
+Cukup jelas 
+
+Huruf e 
+
+Cukup jelas
+
+Pasal 7 
+
+Huruf a 
+
+Cukup jelas 
+
+Huruf b 
+
+Cukup jelas 
+
+Huruf c 
+
+Cukup jelas 
+
+Huruf d 
+
+Cukup jelas
+
+Pasal 8 
+
+Cukup jelas 
+
+Pasal 9 
+
+Cukup jelas 
+
+Pasal 10 
+
+Ayat (1) 
+
+Huruf a 
+
+Cukup jelas 
+
+Huruf b 
+
+Cukup jelas
+
+Ayat (2) 
+
+Cukup jelas 
+
+Ayat (3) 
+
+Cukup jelas 
+
+Ayat (4) 
+
+Cukup jelas 
+
+Pasal 11 
+
+Ayat (1) 
+
+Huruf a 
+
+Cukup jelas 
+
+Hurub b 
+
+Cukup jelas 
+
+Huruf c 
+
+Cukup jelas 
+
+Huruf d 
+
+Cukup jelas 
+
+Huruf e 
+
+Cukup jelas 
+
+Ayat (2) 
+
+Cukup jelas 
+
+Ayat (3) 
+
+Cukup jelas 
+
+Pasal 12 
+
+Huruf a 
+
+Cukup jelas 
+
+Huruf b 
+
+Cukup jelas 
+
+Huruf c 
+
+Cukup jelas 
+
+Huruf d 
+
+Cukup jelas 
+
+Huruf e 
+
+Cukup jelas 
+
+Huruf f 
+
+Cukup jelas 
+
+Huruf g 
+
+Cukup jelas
 
 Pasal 13
 
@@ -1123,51 +1304,120 @@ Pasal 17
 
 Penyakit yang mengancam kalungsungan hidup dan menimbulkan kecacatan, misalnya HIV/AIDS, TBC, Kusta, polio.
 
-Pasal 18 Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Pasal 18 
 
-Pasal 20 Cukup jelas Pasal 21 Cukup jelas Pasal 22 Cukup jelas
+Ayat (1) 
 
-Pasal 23 Cukup jelas Pasal 24
+Cukup jelas 
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (2) 
+
+Cukup jelas
+
+Pasal 20 
+
+Cukup jelas 
+
+Pasal 21 
+
+Cukup jelas 
+
+Pasal 22 
+
+Cukup jelas
+
+Pasal 23 
+
+Cukup jelas 
+
+Pasal 24
+
+Ayat (1) 
+
+Cukup jelas 
+
+Ayat (2) 
+
+Cukup jelas
 
 Pasal 26 Ayat (1)
 
 Yang dimaksud dengan pemeliharaan dan perawatan anak terlantar dalam lembaga adalah melalui system panti pemerintah dan panti swasta, sedangkan diluar lembaga adalah system asuhan keluarga atau perseorangan.
 
-Ayat (2) Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (2) 
+
+Cukup jelas 
+
+Ayat (3) 
+
+Cukup jelas 
+
+Ayat (4) 
+
+Cukup jelas
 
 Pasal 27
-Ayat (1)
-Cukup jelas
-Ayat (2)
-Cukup jelas
-Pasal 28
-Cukup jelas
-Pasal 29
-Ayat (1)
-Cukup jelas
-Ayat (2)
-Cukup jelas
-Pasal 30
-Cukup jelas
-Pasal 31
-Cukup jelas
-Pasal 32
-Cukup jelas
-Pasal 33
-Cukup Jelas
-Pasal 34
-Cukup jelas
-Pasal 35
-Ayat (1)
-Cukup jelas
-Ayat (2)
-Cukup jelas
-Pasal 36
-Ayat (1)
-Cukup jelas
-Ayat (2)
+
+Ayat (1) 
+
+Cukup jelas 
+
+Ayat (2) 
+
+Cukup jelas 
+
+Pasal 28 
+
+Cukup jelas 
+
+Pasal 29 
+
+Ayat (1) 
+
+Cukup jelas 
+
+Ayat (2) 
+
+Cukup jelas 
+
+Pasal 30 
+
+Cukup jelas 
+
+Pasal 31 
+
+Cukup jelas 
+
+Pasal 32 
+
+Cukup jelas 
+
+Pasal 33 
+
+Cukup Jelas 
+
+Pasal 34 
+
+Cukup jelas 
+
+Pasal 35 
+
+Ayat (1) 
+
+Cukup jelas 
+
+Ayat (2) 
+
+Cukup jelas 
+
+Pasal 36 
+
+Ayat (1) 
+
+Cukup jelas 
+
+Ayat (2) 
+
 Cukup Jelas
 
 Pasal 37
@@ -1237,29 +1487,127 @@ Pasal 43
 
 Cukup jelas.
 
-Pasal 44 Cukup jelas. Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c
+Pasal 44 
+
+Cukup jelas. 
+
+Huruf a 
+
+Cukup jelas. 
+
+Huruf b 
+
+Cukup jelas. 
+
+Huruf c
 
 Yang dimaksud dengan “Diskriminasi berlapis” adalah Diskriminasi yang dialami perempuan karena jenis kelaminnya sebagai perempuan dan sebagai Penyandang Disabilitas sehingga mereka tidak mendapatkan kesempatan yang sama dalam keluarga, masyarakat, dan negara di berbagai bidang kehidupan.
 
-Huruf d Cukup jelas.
+Huruf d 
 
-Pasal 45 Huruf a Cukup jelas. Huruf b
+Cukup jelas.
+
+Pasal 45 
+
+Huruf a 
+
+Cukup jelas. 
+
+Huruf b
 
 Yang dimaksud dengan “keluarga pengganti” adalah orang tua asuh, orang tua angkat, wali, dan/atau lembaga yang menjalankan peran dan tanggung jawab untuk memberikan perawatan dan pengasuhan kepada anak.
 
-Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g Cukup jelas. Pasal 46 Cukup jelas.
+Huruf c 
 
-Pasal 47 Cukup jelas. Pasal 48 Cukup jelas. Pasal 49 Huruf a Cukup jelas. Huruf b Cukup jelas. Huruf c Cukup jelas. Huruf d Cukup jelas. Huruf e Cukup jelas. Huruf f Cukup jelas. Huruf g
+Cukup jelas. 
+
+Huruf d 
+
+Cukup jelas. 
+
+Huruf e 
+
+Cukup jelas. 
+
+Huruf f 
+
+Cukup jelas. 
+
+Huruf g 
+
+Cukup jelas. 
+
+Pasal 46 
+
+Cukup jelas.
+
+Pasal 47 
+
+Cukup jelas. 
+
+Pasal 48 
+
+Cukup jelas. 
+
+Pasal 49 
+
+Huruf a 
+
+Cukup jelas. 
+
+Huruf b 
+
+Cukup jelas. 
+
+Huruf c 
+
+Cukup jelas. 
+
+Huruf d 
+
+Cukup jelas. 
+
+Huruf e 
+
+Cukup jelas. 
+
+Huruf f 
+
+Cukup jelas. 
+
+Huruf g
 
 Tekanan, kekerasan, penganiayaan, Diskriminasi, dan/atau perampasan atau pengambilalihan hak milik antara lain dalam bentuk pemaksaan tinggal di panti, pemaksaan penggunaan alat kontrasepsi, pemaksaan mengonsumsi obat yang membahayakan, pemasungan, penyekapan, atau pengurungan.
 
-Huruf h Cukup jelas. Huruf i Cukup jelas.
+Huruf h 
 
-Pasal 50 Huruf a Yang dimaksud dengan “pendidikan secara inklusif” adalah pendidikan bagi peserta didik Penyandang Disabilitas untuk belajar bersama dengan peserta didik bukan Penyandang Disabilitas di sekolah reguler atau perguruan tinggi.
+Cukup jelas. 
+
+Huruf i 
+
+Cukup jelas.
+
+Pasal 50 
+
+Huruf a 
+
+Yang dimaksud dengan “pendidikan secara inklusif” adalah pendidikan bagi peserta didik Penyandang Disabilitas untuk belajar bersama dengan peserta didik bukan Penyandang Disabilitas di sekolah reguler atau perguruan tinggi.
 
 Yang dimaksud dengan “pendidikan secara khusus” adalah pendidikan yang hanya memberikan layanan kepada peserta didik
 
-Pasal 58 Cukup jelas Pasal 59 Huruf a Cukup jelas. Huruf b Cukup jelas.
+Pasal 58 
+
+Cukup jelas 
+
+Pasal 59 
+
+Huruf a 
+
+Cukup jelas. 
+
+Huruf b 
+
+Cukup jelas.
 
 Huruf c
 
