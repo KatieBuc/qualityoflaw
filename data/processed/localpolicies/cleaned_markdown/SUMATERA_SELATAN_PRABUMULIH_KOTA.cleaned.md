@@ -1,6 +1,10 @@
-# WALIKOTA PRABUMULIH
+# PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
 
-# PROVINSI SUMATERA SELATAN PERATURAN DAERAH KOTA PRABUMULIH NOMOR 3 TAHUN 2021
+WALIKOTA PRABUMULIH
+
+PROVINSI SUMATERA SELATAN 
+
+# PERATURAN DAERAH KOTA PRABUMULIH NOMOR 3 TAHUN 2021
 
 PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK
 
@@ -8,21 +12,23 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 WALIKOTA PRABUMULIH.
 
-Menimbang : a. bahwa untuk menjamin Pemberdayaan Perempuan dan Perlindungan Anak sesuai dengan harkat dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi serta mendapat Perlindungan dari Kekerasan, dan pelanggaran lainnya perlu adanya suatu kepastian hukum;
+Menimbang : 
+
+a. bahwa untuk menjamin Pemberdayaan Perempuan dan Perlindungan Anak sesuai dengan harkat dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi serta mendapat Perlindungan dari Kekerasan, dan pelanggaran lainnya perlu adanya suatu kepastian hukum;
 
 b. bahwa untuk memberikan kepastian hukum dalam penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak serta menjalankan urusan wajib pemerintah Daerah, perlu adanya pengaturan dalam bentuk peraturan Daerah;
 
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;
 
-Mengingat : 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+Mengingat : 
+
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Nomor 3886);
 
 3. Undang-Undang Nomor 6 Tahun 2001 tentang Pembentukan Kota Prabumulih (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 86, Tambahan Lembaran Negara Republik Indonesia Nomor 4113);
 
-4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang
-
-Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);
+4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);
 
 5. Undang-Undang Nomor 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 153, Tambahan Lembaran Negara Republik Indonesia Nomor 5332);
 
@@ -36,11 +42,15 @@ Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tamb
 
 10. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 4 Tahun 2018 tentang Pedoman pembentukan Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak (Berita Negara Republik Indonesia Tahun 2018 Nomor 532).
 
-# Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA PRABUMULIH dan WALIKOTA PRABUMULIH MEMUTUSKAN:
+Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KOTA PRABUMULIH dan WALIKOTA PRABUMULIH MEMUTUSKAN:
 
-Menetapkan : PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK. BAB I KETENTUAN UMUM
+Menetapkan : PERATURAN DAERAH TENTANG PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK. 
 
-## Pasal 1
+# BAB I 
+
+KETENTUAN UMUM
+
+#### Pasal 1
 
 Dalam Peraturan Daerah ini yang dimaksud dengan:
 
@@ -122,7 +132,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 39. Adat Istiadat adalah tata kelakuan yang kekal dan turun-temurun dari generasi satu ke generasi lain sebagai warisan, sehingga kuat integrasinya dengan pola perilaku masyarakat.
 
-## Pasal 2
+#### Pasal 2
 
 Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak berdasarkan asas :
 
@@ -142,7 +152,7 @@ g. penghargaan terhadap pendapat Anak; dan
 
 h. penegakan dan kepastian hukum.
 
-## Pasal 3
+#### Pasal 3
 
 Peraturan Daerah ini bertujuan :
 
@@ -156,7 +166,7 @@ d. meningkatkan peran dan nilai kearifan lokal serta peranan adat dalam Pemberda
 
 e. sebagai payung hukum bagi PDdi lingkungan PemerintahKota Prabumulih yang membidangi pemberdayaan perempuan dan perlindungan anak dalam rangka memberi bantuan pendampingan korban perempuan dan anak mulai dari penyelidikan di kepolisian, kejaksaaan sampai persidangan dipengadilan.
 
-## Pasal 4
+#### Pasal 4
 
 Ruang lingkup pengaturan Pemberdayaan Perempuan dan Perlindungan Anak meliputi:
 
@@ -174,15 +184,15 @@ f. pembinaan, pengawasan, pendampingan.
 
 g. sistem data gender dan anak, data terpilah perempuan dan anak;
 
-## BAB II
+# BAB II
 
-## PENINGKATAN KUALITAS HIDUP PEREMPUAN DAN ANAK
+PENINGKATAN KUALITAS HIDUP PEREMPUAN DAN ANAK
 
 ## Bagian Kesatu
 
-## Umum
+Umum
 
-## Pasal 5
+#### Pasal 5
 
 (1) Dalam rangka meningkatkan kualitas hidup perempuan dan anak, Pemerintah Kota bertanggung jawab :
 
@@ -206,21 +216,23 @@ c. menguatkan dan mengembangkan lembaga penyedia layanan Pemberdayaan Perempuan 
 
 ## Bagian Kedua
 
-## Pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak
+Pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak
 
-## Pasal 6
+#### Pasal 6
 
 (1) Walikota bertanggungjawab atas pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak di Kota.
 
 (2) Tanggungjawab Walikota sebagaimana dimaksud pada ayat (1) dapat dilimpahkan kepada Wakil Walikota.
 
-## Pasal 7
+#### Pasal 7
 
 Dalam melaksanakan Pemberdayaan Perempuan dan Perlindungan Anak di Kota, Walikota menetapkan PD yang membidangi tugas Pemberdayaan Perempuan sebagai koordinator penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak.
 
-## Bagian Ketiga  Pembentukan Pokja  Pemberdayaan Perempuan dan Perlindungan Anak di Kota
+## Bagian Ketiga 
 
-## Pasal 8
+Pembentukan Pokja Pemberdayaan Perempuan dan Perlindungan Anak di Kota
+
+#### Pasal 8
 
 (1) Dalam upaya percepatan pelembagaan Pemberdayaan Perempuan dan Perlindungan Anak di seluruh PD dibentuk pokja Pemberdayaan Perempuan dan Perlindungan Anak di Kota.
 
@@ -230,7 +242,7 @@ Dalam melaksanakan Pemberdayaan Perempuan dan Perlindungan Anak di Kota, Walikot
 
 (4) Pembentukan pokja Pemberdayaan Perempuan dan Perlindungan Anak Kota ditetapkan dengan Keputusan Walikota.
 
-## Pasal 9
+#### Pasal 9
 
 Pokja Pemberdayaan Perempuan dan Perlindungan Anak Kota sebagaimana dimaksud dalam Pasal 8 mempunyai tugas:
 
@@ -256,9 +268,9 @@ j. menetapkan tim teknis untuk melakukan analisis terhadap anggaran Daerah;
 
 k. menyusun rencana aksi daerah Pemberdayaan Perempuan dan Perlindungan Anak Kota; dan
 
-I. mendorong dilaksanakannya pemilihan dan penetapan Focal Point di masing-masing PD.
+l. mendorong dilaksanakannya pemilihan dan penetapan Focal Point di masing-masing PD.
 
-## Pasal 10
+#### Pasal 10
 
 (1) Tim Teknis sebagaimana dimaksud dalam Pasal 9 huruf j beranggotakan aparatur yang memahami analisis anggaran responsif gender serta Pemberdayaan Perempuan dan Perlindungan Anak.
 
@@ -272,7 +284,7 @@ c. penguatan kelembagaan pemberdayaan perempuan dan perlindungan anak di Kota; d
 
 d. penguatan peran serta masyarakat di Kota.
 
-## Pasal 11
+#### Pasal 11
 
 (1) Focal Point Pemberdayaan Perempuan dan Perlindungan Anak mendorong dilaksanakannya pemilihan dan penetapan Focal Point di masing-masing PD pada setiap PD terdiri dari pejabat dan/atau staf yang membidangi tugas perencanaan dan/atau program.
 
@@ -292,9 +304,11 @@ f. memfasilitasi penyusunan data Pemberdayaan Perempuan dan Pelindungan Anak pad
 
 (3) Focal Point Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud pada ayat (1), dipilih dan ditetapkan oleh pimpinan PD.
 
-# Bagian Keempat Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Politik
+## Bagian Keempat 
 
-## Pasal 12
+Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Politik
+
+#### Pasal 12
 
 Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang politik sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b angka 1 meliputi:
 
@@ -308,9 +322,9 @@ d. melibatkan perempuan dalam pengambilan keputusan yang menyangkut kepentingan 
 
 ## Bagian Kelima
 
-## Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Hukum
+Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Hukum
 
-## Pasal 13
+#### Pasal 13
 
 Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang hukum sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b angka 2 meliputi:
 
@@ -322,9 +336,9 @@ c. melibatkan organisasi perempuan dalam proses penyusunan dan pembahasan produk
 
 ## Bagian Keenam
 
-## Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Sosial
+Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Sosial
 
-## Pasal 14
+#### Pasal 14
 
 Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang
 
@@ -344,9 +358,11 @@ g. melakukan program dalam menurunkan angka kematian ibu melahirkan; dan
 
 h. mendorong pembentukan organisasi perempuan di Kota.
 
-## Bagian Ketujuh Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Ekonomi
+## Bagian Ketujuh 
 
-## Pasal 15
+Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Ekonomi
+
+#### Pasal 15
 
 Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang ekonomi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b angka 4 meliputi:
 
@@ -358,11 +374,15 @@ c. pemasaran produk hasil usaha perempuan yang memiliki ekonomi lemah; d. pelati
 
 e. pelatihan kewirausahaan kepada perempuan secara komprehensif.
 
-## BAB III PERLINDUNGAN PEREMPUAN DAN ANAK
+# BAB III 
 
-## Bagian Kesatu Umum
+PERLINDUNGAN PEREMPUAN DAN ANAK
 
-## Pasal 16
+## Bagian Kesatu 
+
+Umum
+
+#### Pasal 16
 
 (1) Pemerintah Kota dalam upaya Perlindungan perempuan dan anak bertanggungjawab:
 
@@ -382,9 +402,11 @@ g. melibatkan peran aktif keluarga, pemuka adat, pemuka agama, masyarakat, dan l
 
 (2) Tanggungjawab Pemerintah Kota dalam upaya Perlindungan perempuan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PD sesuai dengan tugas dan fungsinya serta dapat berkoordinasi dengan instansi terkait.
 
-## Bagian Kedua Pencegahan Tindak Kekerasan terhadap Perempuan dan Anak
+## Bagian Kedua 
 
-## Pasal 17
+Pencegahan Tindak Kekerasan terhadap Perempuan dan Anak
+
+#### Pasal 17
 
 Dalam rangka mencegah terjadinya tindak Kekerasan terhadap perempuan dan anak, Pemerintah Kota:
 
@@ -396,11 +418,15 @@ c. menyediakan fasilitas umum yang nyaman dan aman untuk perempuan dan anak; dan
 
 d. membentuk Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak P2TP2A dibentuk dengan surat keputusan Walikota serta menyediakan Sekretariat Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak.
 
-## Bagian Ketiga Efektivitas Layanan terhadap Perempuan dan Anak Korban Tindak Kekerasan
+## Bagian Ketiga 
 
-## Bagian Kesatu Umum
+Efektivitas Layanan terhadap Perempuan dan Anak Korban Tindak Kekerasan
 
-## Pasal 18
+## Bagian Kesatu 
+
+Umum
+
+#### Pasal 18
 
 (1) Perlindungan perempuan dan anak korban tindak Kekerasan dilaksanakan melalui layanan terpadu.
 
@@ -430,7 +456,7 @@ k. empati; dan
 
 l. pemenuhan hak perempuan dan anak.
 
-## Pasal 19
+#### Pasal 19
 
 Bentuk layanan terpadu terhadap perempuan dan anak korban tindak Kekerasan meliputi:
 
@@ -444,9 +470,11 @@ d. pendampingan korban, penegakan dan bantuan hukum; dan
 
 e. pemulangan dan reintegrasi sosial.
 
-## Bagian Kedua Penanganan Pengaduan
+## Bagian Kedua 
 
-## Pasal 20
+Penanganan Pengaduan
+
+#### Pasal 20
 
 Layanan terpadu penanganan pengaduan sebagaimana dimaksud dalam Pasal 19 huruf a dilaksanakan oleh:
 
@@ -472,7 +500,7 @@ j. kementerian agama; dan/atau
 
 k. lembaga bantuan hukum.
 
-## Pasal 21
+#### Pasal 21
 
 (1) Pengaduan tindak Kekerasan terhadap perempuan dan anak dapat dilakukan oleh pelapor yang terdiri atas :
 
@@ -496,9 +524,11 @@ c. melalui surat.
 
 (4) Ketentuan lebih lanjut mengenai tata cara pelayanan penanganan pengaduan sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur dengan Peraturan Walikota.
 
-# Bagian Ketiga Rehabilitasi Kesehatan
+## Bagian Ketiga 
 
-## Pasal 22
+Rehabilitasi Kesehatan
+
+#### Pasal 22
 
 (1) Rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 19 huruf b merupakan upaya yang meliputi aspek :
 
@@ -524,9 +554,11 @@ d. visum.
 
 (4) Ketentuan lebih lanjut mengenai tata cara pelaksanaan pelayanan kesehatan sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Walikota.
 
-## Bagian Keempat Rehabilitasi Sosial
+## Bagian Keempat 
 
-## Pasal 23
+Rehabilitasi Sosial
+
+#### Pasal 23
 
 (1) Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 19 huruf c ditujukan untuk memulihkan dan mengembangkan kemampuan terhadap perempuan dan anak korban tindak Kekerasan yang mengalami disfungsi sosial untuk dapat melaksanakan fungsi sosialnya dalam masyarakat secara wajar.
 
@@ -560,7 +592,7 @@ a. PD yang mempunyai tugas dan fungsi dibidang sosial;
 
 b. PD yang membidangi Pemberdayaan Perempuan dan anak, dan dapatbekerjasama dengan pusat pelayanan terpadu, women crisis centre atau organisasi kemasyarakatan bidang sosial yang telah ada; atau c. kementerian agama.
 
-## Pasal 24
+#### Pasal 24
 
 (1) Pelayanan konseling sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf a bertujuan:
 
@@ -592,7 +624,7 @@ c. pembahasan kasus; dan
 
 d. kunjungan ke lokasi.
 
-## Pasal 25
+#### Pasal 25
 
 (1) Pemerintah Kota dapat menyediakan rumah aman terhadap perempuan dan anak korban tindak Kekerasan.
 
@@ -620,7 +652,7 @@ c. tokoh masyarakat.
 
 (6) Ketentuan lebih lanjut mengenai penyelenggaraan pelayanan rumah aman diatur dengan Peraturan Walikota.
 
-## Pasal 26
+#### Pasal 26
 
 (1) Bimbingan rohani bertujuan untuk pemulihan kejiwaan.
 
@@ -634,15 +666,17 @@ b. menyerahkan putusan akhir ditangan korban (self determination).
 
 (4) Petugas bimbingan rohani sebagaimana dimaksud pada ayat (3) terdiri dari konsultan Badan Penasachatan, Pembinaan dan Pelestarian Perkawinan (BP4), Petugas Kantor Urusan Agama, Ustad/Ulama, Pastor, Pendeta dan pemuka agama lainnya yang memiliki kepekaan atas pemberdayaan perempuan dan perlindungan anak dan/atau kesadaran gender.
 
-## Bagian Kelima Penegakan dan Bantuan Hukum
+## Bagian Kelima 
 
-## Pasal 27
+Penegakan dan Bantuan Hukum
+
+#### Pasal 27
 
 (1) Pelayanan penegakan dan bantuan hukum sebagaimana dimaksud dalam Pasal 19 huruf d merupakan tindakan aparat penegak hukum untuk melaksanakan peraturan perundang-undangan dalam rangka menangani kasus tindak Kekerasan terhadap perempuan dan anak, terutama untuk memberikan sanksi terhadap pelaku dan memberikan Perlindungan bagi saksi dan/atau korban.
 
 (2) Pelayanan penegakan dan bantuan hukum sebagaimana dimaksud pada ayat(1) dilakukan dengan mengutamakan kepentingan terbaik bagi korban.
 
-## Pasal 28
+#### Pasal 28
 
 (1) Pelayanan penegakan dan bantuan hukum ditujukan untuk memberikan pendampingan dan Perlindungan terhadap perempuan dan anak korban tindak Kekerasan dan saksi dengan pendekatan responsif gender agar korban mendapatkan keadilan dan kepastian hukum.
 
@@ -662,15 +696,17 @@ e. bantuan hukum dalam proses mediasi.
 
 (4) Dalam pemberian bantuan hukum sebagaimana dimaksud pada ayat (3) Pemerintah Daerah dapat bekerjasama dengan lembaga bantuan hukum, women crisis center, advokat dan/atau pendamping hukum lainnya yang sensitif gender.
 
-## Bagian Keenam Pemulangan dan Reintegrasi Sosial
+## Bagian Keenam 
 
-## Pasal 29
+Pemulangan dan Reintegrasi Sosial
+
+#### Pasal 29
 
 (1) Pemulangan ditujukan untuk mengembalikan perempuan dan anak korban tindak Kekerasan ke Daerah asalnya.
 
 (2) Pemulangan perempuan dan anak korban tindak kekerasan disertai upaya reintegrasisosial.
 
-## Pasal 30
+#### Pasal 30
 
 (1) Reintegrasi sosial dilakukan dalam rangka penyatuan kembali perempuan dan anak korban tindak Kekerasan dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan Perlindungan dan pemenuhan kebutuhan bagi korban.
 
@@ -682,13 +718,15 @@ b. perempuan dan anak korban tindak Kekerasan dapat memiliki kehidupan yang laya
 
 (3) Reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan setelah korban menerima pelayanan rehabilitasi sosial.
 
-## Pasal 31
+#### Pasal 31
 
 Pemerintah Kota melaksanakan pemulangan dan reintegrasi sosial perempuan dan anak korban tindak Kekerasan sesuai peraturan perundang- undangan.
 
-## Bagian Ketujuh Perlindungan Ketenagakerjaan
+## Bagian Ketujuh 
 
-## Pasal 32
+Perlindungan Ketenagakerjaan
+
+#### Pasal 32
 
 (1) Pengusaha yang mempekerjakan perempuan wajib menjaga kesusilaan, keselamatan dan keamanan selama di tempat kerja.
 
@@ -698,7 +736,7 @@ Pemerintah Kota melaksanakan pemulangan dan reintegrasi sosial perempuan dan ana
 
 (4) Pengusaha wajib menyediakan fasilitas khusus menyusui di perusahaannya.
 
-## Pasal 33
+#### Pasal 33
 
 (1) Pekerja/buruh perempuan yang berumur kurang dari 18 (delapan belas) tahun dilarang dipekerjakan antara pukul 23.00 WIB sampai dengan 07.00 WIB.
 
@@ -710,9 +748,9 @@ a. memberikan makanan dan minuman bergizi; dan
 
 b. menjaga Pengusaha wajib menyediakan angkutan antar jemput bagi pekerja/buruh perempuan yang berangkat dan pulang bekerja antara pukul 23.00 WIB sampai dengan 05.00 WIB.
 
-## PENINGKATAN KUALITAS KELUARGA
+PENINGKATAN KUALITAS KELUARGA
 
-## Pasal 34
+#### Pasal 34
 
 (1) Dalam rangka meningkatkan kualitas hidup keluarga, Pemerintah Kota bertanggung jawab :
 
@@ -724,7 +762,7 @@ c. menguatkan dan mengembangkan lembaga penyedia layanan peningkatan kualitas ke
 
 (2) Tanggungjawab Pemerintah Kota dalam upaya peningkatan kualitas keluarga sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PD sesuai dengan tugas dan fungsinya.
 
-## Pasal 35
+#### Pasal 35
 
 Pemerintah Kota melakukan upaya peningkatan kualitas keluarga sebagaimana dimaksud dalam Pasal 34 ayat (1) huruf a meliputi :
 
@@ -738,7 +776,7 @@ d. fasilitasi penyelenggaraan pembangunan keluarga; dan
 
 e. meningkatkan kualitas kesehatan ibu hamil dan menyusui.
 
-## Pasal 36
+#### Pasal 36
 
 Pembinaan sebagaimana dimaksud dalam Pasal 35 huruf a, meliputi:
 
@@ -752,7 +790,7 @@ d. Pengaturan kelahiran; dan
 
 e. Pengelolaan penduduk.
 
-## Pasal 37
+#### Pasal 37
 
 Bimbingan sebagaimana dimaksud Pasal 35 huruf b meliputi:
 
@@ -760,7 +798,7 @@ a. melakukan penyuluhan peningkatan kualitas hidup perempuan dan anak; dan
 
 b. melakukan penyuluhan pranikah.
 
-## Pasal 38
+#### Pasal 38
 
 Supervisi sebagaimana dimaksud dalam Pasal 35 huruf c meliputi:
 
@@ -768,7 +806,7 @@ a. melakukan evaluasi data tumbuh kembang anak balita; dan
 
 b. melakukan evaluasi data pasca perkawinan.
 
-## Pasal 39
+#### Pasal 39
 
 Penyediaan layanan bagi keluarga sebagaimana dimaksud dalam Pasal 34 ayat (1) huruf b meliputi :
 
@@ -782,11 +820,11 @@ d. fasilitas sarana dan prasarana pelayanan kesehatan yang memadai; dan
 
 e. ruangan laktasi disetiap fasilitas umum.
 
-## Pasal 40
+#### Pasal 40
 
 Komunikasi, informasi dan edukasi sebagaimana dimaksud dalam Pasal 39 huruf a merupakan kegiatan komunikasi untuk meningkatkan pengetahuan serta memperbaiki sikap dan perilaku keluarga, dan masyarakat dalam Program kependudukan dan keluarga berencana.
 
-## Pasal 41
+#### Pasal 41
 
 (1) Selain Pemerintah Kota, pihak swasta yang menyelenggarakan pelayanan Publik wajib menyediakan ruangan laktasi.
 
@@ -804,13 +842,15 @@ d. denda administratif; dan/atau
 
 e. pencabutan izin.
 
-## BAB V PERLINDUNGAN DAN PEMENUHAN HAK ANAK
+# BAB V 
+
+PERLINDUNGAN DAN PEMENUHAN HAK ANAK
 
 ## Bagian Kesatu
 
-## Umum
+Umum
 
-## Pasal 42
+#### Pasal 42
 
 (1) Pemerintah Kota dalam upaya perlindungan dan pemenuhan hak Anak bertanggungjawab:
 
@@ -832,21 +872,25 @@ h. melakukan kerjasama dengan pihak swasta dalam penyelenggaraan Perlindungan An
 
 (2) Tanggungjawab Pemerintah Kota dalam upaya Perlindungan Anak sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PD sesuai dengan tugas dan fungsinya.
 
-## Bagian Kedua Pencatatan Kelahiran
+## Bagian Kedua 
 
-## Pasal 43
+Pencatatan Kelahiran
+
+#### Pasal 43
 
 (1) Pemerintah Kota berkewajiban menyelenggarakan pencatatan kelahiran Anak dengan penerbitan akta kelahiran.
 
 (2) Akta kelahiran sebagaimana dimaksud pada ayat (1) diselenggarakan secara bebas biaya.
 
-## Bagian Ketiga Pendidikan
+## Bagian Ketiga 
 
-## Pasal 44
+Pendidikan
+
+#### Pasal 44
 
 Pemerintah Kota menjamin terselenggaranya program wajib belajar 9 (sembilan) tahun untuk Anak berusia 7 (tujuh) sampai dengan 15 (lima belas) tahun.
 
-## Pasal 45
+#### Pasal 45
 
 (1) Setiap penyelenggara satuan pendidikan wajib memberikan kesempatan kepada Anak untuk memperoleh layanan pendidikan tanpa diskriminasi.
 
@@ -854,21 +898,23 @@ Pemerintah Kota menjamin terselenggaranya program wajib belajar 9 (sembilan) tah
 
 (3) Dalam hal Anak korban tindak Kekerasan mengalami putus sekolah, penyelenggara satuan pendidikan wajib berkoordinasi dengan instansi terkait.
 
-## Pasal 46
+#### Pasal 46
 
 (1) Setiap Anak berhak memperoleh pendidikan dan pengajaran dalam rangka pengembangan pribadinya dan tingkat kecerdasannya sesuai dengan minat dan bakat.
 
 (2) Setiap Anak berhak mendapatkan Perlindungan di satuan pendidikan dari kejahatan seksual dan Kekerasan yang dilakukan oleh pendidik, tenaga kependidikan, sesama peserta didik, dan/atau pihak lain.
 
-## Pasal 47
+#### Pasal 47
 
 (1) Anak penyandang disabilitas dan Anak berkebutuhan khusus diberikan kesempatan yang sama untuk memperoleh layanan pendidikan formal, nonformal dan informal, termasuk program pendidikan inklusi.
 
 (2) Pemerintah daerah menyediakan tenaga pendidik bagi pendidikan inklusi pada setiap satuan pendidikan.
 
-## Bagian Keempat Kesehatan dan Sosial
+## Bagian Keempat 
 
-## Pasal 48
+Kesehatan dan Sosial
+
+#### Pasal 48
 
 (1) Pemerintah Kota wajib menyelenggarakan layanan kesehatan yang komprehensif bagi Anak, agar setiap Anak memperoleh derajat kesehatan yang optimal sejak dalam kandungan.
 
@@ -880,7 +926,7 @@ b. pembebasan dari beban biaya bagi Anak gizi buruk, Anak penyandang disabilitas
 
 (3) Pemerintah Kota, masyarakat, keluarga dan orang tua wajib mengusahakan agar Anak yang lahir terhindar dari penyakit yang mengancam kelangsungan hidup dan/atau menimbulkan kecacatan.
 
-## Pasal 49
+#### Pasal 49
 
 (1) Upaya promotif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf a ditujukan untuk meningkatkan derajat kesehatan secara lebih optimal.
 
@@ -898,7 +944,7 @@ e. bahaya narkoba dan merokok.
 
 (3) Selain upaya promotif sebagaimana dimaksud pada ayat (2), Pemerintah Kota dapat melakukan kegiatan lain dalam rangka penyeleggaraan kesehatan.
 
-## Pasal 50
+#### Pasal 50
 
 (1) Upaya preventif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf a ditujukan untuk mencegah terjadinya penyakit atau permasalahan kesehatan.
 
@@ -916,19 +962,19 @@ e. melakukan pemeriksaan kesehatan secara berkala; dan
 
 f. menyediakan sarana sanitasi dan air bersih disetiap sekolah.
 
-## Pasal 51
+#### Pasal 51
 
 (1) Upaya kuratif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf a ditujukan untuk mencegah penyakit menjadi lebih parah melalui pengobatan.
 
 (2) Pengobatan sebagaimana dimaksud pada ayat (1) dilaksanakan secara bebas biaya bagi Anak yang berasal dari keluarga kurang mampu.
 
-## Pasal 52
+#### Pasal 52
 
 (1) Upaya rehabilitatif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf a ditujukan untuk memelihara dan memulihkan kondisi setelah sakit.
 
 (2) Upaya rehabilitatif sebagaimana dimaksud pada ayat (1) dilakukan melalui pemeriksaan kesehatan secara berkala.
 
-## Pasal 53
+#### Pasal 53
 
 (1) Penyelenggaraan kesejahteraan sosial ditujukan kepada:
 
@@ -972,13 +1018,15 @@ f. rehabilitasi sosial; dan/atau
 
 g. reintegrasi.
 
-## Bagian Kelima Ketenagakerjaan
+## Bagian Kelima 
 
-## Pasal 54
+Ketenagakerjaan
+
+#### Pasal 54
 
 Pemerintah Daerah melakukan pengawasan berkala pada setiap orang/badan yang mempekerjakan Anak dalam upaya Perlindungan terhadap pekerja Anak.
 
-## Pasal 55
+#### Pasal 55
 
 Setiap orang/badan yang mempekerjakan Anak harus memperhatikan persyaratan:
 
@@ -992,11 +1040,11 @@ d. tidak mempekerjakan Anak pada malam hari; dan
 
 e. waktu kerja paling lama 3 (tiga) jam dalam sehari.
 
-## Pasal 56
+#### Pasal 56
 
 Dalam hal Anak dipekerjakan bersama dengan tenaga kerja dewasa, maka tempat kerja Anak harus dipisahkan dari tempat kerja tenaga kerja dewasa.
 
-## Pasal 57
+#### Pasal 57
 
 (1) Setiap orang/badan dilarang mempekerjakan dan melibatkan Anak pada pekerjaan yang terburuk.
 
@@ -1010,9 +1058,11 @@ c. segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan Anak untuk p
 
 d. semua pekerjaan yang membahayakan kesechatan, keselamatan, atau moral Anak.
 
-# Bagian Keenam Fasilitasi Sistem Peradilan Anak
+## Bagian Keenam 
 
-## Pasal 58
+Fasilitasi Sistem Peradilan Anak
+
+#### Pasal 58
 
 (1) Fasilitasi sistem peradilan Anak meliputi peradilan pidana dan perdata.
 
@@ -1032,9 +1082,11 @@ e. pelayanan rehabilitasi dan reintegrasi sosial.
 
 (4) Dalam memfasilitasi sistem peradilan Anak sebagaimana dimaksud pada ayatdan ayat (2), PD yang berwenang adalah PD yang membidangi pemberdayaan dan Perlindungan perempuan dan Anak serta mempunyai kewajiban mendampingi korban dan pelaku anak, dalam pemeriksaan polisi, kejaksaan dan dipengadilan.
 
-## Bagian Ketujuh Forum Anak
+## Bagian Ketujuh 
 
-## Pasal 59
+Forum Anak
+
+#### Pasal 59
 
 (1) Dalam menyelenggarakan pemenuhan memenuhi hak Anak untuk menyampaikan pendapat dan berpartisipasi, Pemerintah Kota memfasilitasi terbentuknya Forum Anak.
 
@@ -1044,9 +1096,11 @@ e. pelayanan rehabilitasi dan reintegrasi sosial.
 
 (4) Ketentuan lebih lanjut mengenai pembentukan Forum Anak sebagaimana dimaksud pada ayat (1) sampai dengan ayat (3) ditetapkan dengan Peraturan Walikota.
 
-## Bagian Kedelapan Kota Layak Anak
+## Bagian Kedelapan 
 
-## Pasal 60
+Kota Layak Anak
+
+#### Pasal 60
 
 (1) Dalam rangka pemenuhan hak Anak secara terpadu dan sistematis dan berkelanjutan Pemerintah Kota menetapkan kebijakan Pengembangan KLA.
 
@@ -1058,7 +1112,7 @@ b. hak Anak; dan
 
 c. pendekatan pengembangan KLA.
 
-## Pasal 61
+#### Pasal 61
 
 (1) Kebijakan pengembangan KLA diarahkan pada pemenuhan hak Anak yang terbagi dalam 5 (lima) kelompok, meliputi :
 
@@ -1074,7 +1128,7 @@ e. Perlindungan khusus.
 
 (2) Ketentuan lebih lanjut mengenai kebijakan pengembangan KLA sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Walikota.
 
-## Pasal 62
+#### Pasal 62
 
 (1) Dalam rangka efektifitas pelaksanaan kebijakan KLA di Daerah dibentuk Gugus Tugas KLA.
 
@@ -1100,13 +1154,15 @@ g. menyusun rencana aksi daerah Kota Layak Anak 5 (lima) tahunan dan mekanisme k
 
 h. melakukan monitoring, evaluasi dan pelaporan paling sedikit 1 (satu) tahun sekali.
 
-## Pasal 63
+#### Pasal 63
 
 Dalam menjalankan tugasnya, Gugus Tugas KLA dapat berkoordinasi dan bekerjasama dengan lembaga lain yang melakukan layanan Perlindungan Anak.
 
-## BAB VI PERLINDUNGAN ANAK
+# BAB VI 
 
-## Pasal 64
+PERLINDUNGAN ANAK
+
+#### Pasal 64
 
 Pemerintah Kota, dalam rangka memberikan perlidungan terhadap Anak: a. melaksanakan dan mendukung kebijakan nasional dalam penyelenggaraan Perlindungan Anak di Kota;
 
@@ -1122,15 +1178,19 @@ f. menyediakan fasilitas umum yang ramah dan aman untuk Anak; dan
 
 g. mendorong kepedulian masyarakat akan pentingnya Perlindungan terhadap Anak.
 
-## Pasal 65
+#### Pasal 65
 
 Upaya pelayanan yang dilakukan oleh Pemerintah Kota terhadap anak korban tindak Kekerasan sebagaimana dimaksud dalam Pasal 42 sampai dengan Pasal 64 berlaku secara mutatis mutandis terhadap upaya pelayanan terhadap Anak korban tindak Kekerasan.
 
-## BAB VII PERAN SERTA MASYARAKAT, DAN ORANG TUA DAN/ATAU KELUARGA
+# BAB VII 
 
-## Bagian Kesatu Masyarakat
+PERAN SERTA MASYARAKAT, DAN ORANG TUA DAN/ATAU KELUARGA
 
-## Pasal 66
+## Bagian Kesatu 
+
+Masyarakat
+
+#### Pasal 66
 
 (1) Peran serta masyarakat dalam upaya Perlindungan terhadap perempuan dan Anak:
 
@@ -1144,7 +1204,7 @@ c. mengawasi prosespenegakan hukum terhadap kasus pelanggaran hak perempuan dan 
 
 (3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dan ayat (2) berdasarkan peraturan perundang-undangan dan nilai-nilai kearifan lokal masyarakat setempat.
 
-## Pasal 67
+#### Pasal 67
 
 (1) Dalam rangka pencegahan terjadinya pelanggaran terhadap hak perempuan, masyarakat :
 
@@ -1154,9 +1214,7 @@ b. meningkatkan kepedulian terhadap pelanggaran hak perempuan;
 
 c. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; dan
 
-d. melakukan pengawasan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak yang diselenggarakan oleh Pemerintah Kota
-
-dengan mekanisme penyampaian aspirasi kepada Walikota atau Dewan Perwakilan Rakyat Daerah.
+d. melakukan pengawasan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak yang diselenggarakan oleh Pemerintah Kota dengan mekanisme penyampaian aspirasi kepada Walikota atau Dewan Perwakilan Rakyat Daerah.
 
 (2) Dalam rangka pencegahan terjadinya pelanggaran terhadap hak Anak, masyarakat :
 
@@ -1166,9 +1224,11 @@ b. meningkatkan kepedulian terhadap pelanggaran hak Anak; dan
 
 c. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; danmencegah terjadinya perkawinan pada usia dini.
 
-## Bagian Kedua Orang Tua dan/atau Keluarga
+## Bagian Kedua 
 
-## Pasal 68
+Orang Tua dan/atau Keluarga
+
+#### Pasal 68
 
 Keluarga dalam upaya Perlindungan terhadap hak perempuan berperan:
 
@@ -1178,7 +1238,7 @@ b. memberikan kesempatan yang sama pada perempuan dan anak mengembangkan diri di
 
 c. mencegah terjadinya pelanggaran terhadap hak perempuan dan anak dalam  rumah tangga.
 
-## Pasal 69
+#### Pasal 69
 
 (1) Orang Tua dalam upaya Perlindungan terhadap hak Anak berperan:
 
@@ -1196,9 +1256,11 @@ f. mencegah terjadinya perkawinan pada usia dini.
 
 (2) Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggungjawab sebagaimana dimaksud pada ayat (1) dapat beralih pada keluarga.
 
-## BAB VIII PEMBINAAN DAN PENGAWASAN
+# BAB VIII 
 
-## Pasal 70
+PEMBINAAN DAN PENGAWASAN
+
+#### Pasal 70
 
 (1) Pemerintah Kota wajib melakukan pembinaan dan pengawasan penyelenggaraan Pemberdayaan perempuan dan perlindungan Anak korban Kekerasan.
 
@@ -1216,7 +1278,7 @@ e. evaluasi.
 
 (3) Pembinaan sebagaimana dimaksud pada ayat (2) dalam rangka mewujudkan tujuan pemberdayaan dan Perlindungan perempuan dan Anak korban Kekerasan sesuai standar pelayanan minimal.
 
-## Pasal 71
+#### Pasal 71
 
 (1) Pengawasan terhadap penyelenggaraan pemberdayaan perempuan dan Perlindungan Anak sebagaimana diatur dalam Peraturan Daerah ini dilaksanakan oleh lembaga Pengawasan yang khusus dibentuk untuk itu.
 
@@ -1224,9 +1286,11 @@ e. evaluasi.
 
 (3) Rekomendasi yang disampaikan harus ditindaklanjuti oleh aparat hukum, instansi pemerintah, institusi masyarakat dan individu terkait lainnya.
 
-## BAB IX PEMBIAYAAN
+# BAB IX 
 
-## Pasal 72
+PEMBIAYAAN
+
+#### Pasal 72
 
 Pembiayaan penyelenggaraan program dan kegiatan Pemberdayaan Perempuan dan Perlindungan Anak bersumber dari :
 
@@ -1234,9 +1298,11 @@ a. anggaran pendapatan dan belanja daerah; dan
 
 b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang- undangan.
 
-## BAB X SANKSI
+# BAB X 
 
-## Pasal 73
+SANKSI
+
+#### Pasal 73
 
 (1) Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan Anak sehingga menyebabkan terjadinya kekerasan, tidak melaporkan serta tidak memberikan perlindungan terhadap korban, dikenakan sanksi sebagaimana diatur dalam peraturan perundang-undangan yang berlaku.
 
@@ -1246,20 +1312,28 @@ b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang- undangan.
 
 (4) Swasta yang melaksanakan pelayanan Publik tidak melaksanakan kewajiban dan tanggung jawabnya sesuai dengan peraturan ini dikenakan sanksi sesuai ketentuan perundang-undangan yang berlaku.
 
-## BAB XI KETENTUAN PENUTUP
+# BAB XI 
 
-## Pasal 74
+KETENTUAN PENUTUP
+
+#### Pasal 74
 
 Peraturan Walikota sebagai pelaksanaan dari Peraturan Daerah ini ditetapkan paling lama 6 (enam) bulan sejak Peraturan Daerah diundangkan.
 
-## Pasal 75
+#### Pasal 75
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan perempatannya dalam Lembaran Daerah Kota Prabumulih.
 
-Ditetapkan di Prabumulih pada tanggal 1 Juli 2021
+Ditetapkan di Prabumulih pada tanggal 1 Juli 2021 
+
+WALIKOTA PRABUMULIH
+
+H. RIDHO YAHYA
 
 Diundangkan di Prabumulih pada tanggal 2 Juli 2021
 
-SEKRETARIS DAERAH  KOTA PRABUMULIH,  ELMAN
+SEKRETARIS DAERAH  KOTA PRABUMULIH 
+
+ELMAN
 
 LEMBARAN DAERAH KOTA PRABUMULIH TAHUN 2021 NOMOR 3  NOREG PERATURAN DAERAH KOTA PRABUMULIH PROVINSI  SUMATERA SELATAN (3-48/ 2021)
