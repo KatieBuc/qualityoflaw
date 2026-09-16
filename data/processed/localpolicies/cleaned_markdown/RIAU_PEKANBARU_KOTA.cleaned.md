@@ -228,7 +228,7 @@ j. peran serta Orang Tua, Keluarga/Kerabat dan/atau Masyarakat;
 
 k. pemantauan dan Evaluasi;
 
-1. pembinaan dan Pengawasan; dan
+l. pembinaan dan Pengawasan; dan
 
 m. larangan dan sanksi.
 
