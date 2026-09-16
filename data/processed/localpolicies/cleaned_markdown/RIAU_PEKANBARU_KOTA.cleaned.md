@@ -826,7 +826,7 @@ Penyediaan Layanan Terpadu Bagi Perempuan Korban Kekerasan
 
 Prinsip dan Bentuk Layanan
 
-## Pasal 52
+#### Pasal 52
 
 Perlindungan Perempuan korban kekerasan dilaksanakan melalui penyelenggaraan layanan terpadu.
 
