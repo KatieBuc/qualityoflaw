@@ -1,0 +1,50 @@
+{
+  "models": {
+    "claude-sonnet-4-5": {
+      "deployment": "claude-sonnet-4-5",
+      "max_retries": 3,
+      "max_tokens": null,
+      "name": "claude-sonnet-4-5",
+      "supports_logprobs": true,
+      "temperature": 0.2
+    },
+    "gpt-4o": {
+      "deployment": "gpt-4o",
+      "max_retries": 3,
+      "max_tokens": null,
+      "name": "gpt-4o",
+      "supports_logprobs": true,
+      "temperature": 0.2
+    },
+    "gpt-5.2": {
+      "deployment": "gpt-5.2",
+      "max_retries": 3,
+      "max_tokens": null,
+      "name": "gpt-5.2",
+      "supports_logprobs": true,
+      "temperature": 0.2
+    },
+    "gpt-5.2-diagnosis": {
+      "deployment": "gpt-5.2",
+      "max_retries": 3,
+      "max_tokens": null,
+      "name": "gpt-5.2-diagnosis",
+      "supports_logprobs": true,
+      "temperature": 0.2
+    },
+    "gpt-5.2-translation-qa": {
+      "deployment": "gpt-5.2",
+      "max_retries": 3,
+      "max_tokens": null,
+      "name": "gpt-5.2-translation-qa",
+      "supports_logprobs": true,
+      "temperature": 0.1
+    }
+  },
+  "rerankers": {
+    "cohere-rerank-v4.0-fast": {
+      "deployment": "Cohere-rerank-v4.0-fast",
+      "name": "cohere-rerank-v4.0-fast"
+    }
+  }
+}
