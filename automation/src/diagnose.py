@@ -28,7 +28,6 @@ from automation.src.config_loader import (
     resolve_mid_product_dir,
     resolve_results_dir,
 )
-from automation.src.constants import SMALL_SCALE_FILES
 from automation.src.diagnose_prompt_builder import build_diagnosis_prompt
 from automation.src.evaluate_accuracy import deduplicate_reports, load_report_files
 from automation.src.failure_log import clear_failure, record_failure
@@ -253,7 +252,7 @@ def run_diagnosis_step(
         )
 
     if small_scale:
-        df = df[df["filename"].isin(SMALL_SCALE_FILES)]
+        df = df[df["filename"].isin([f"{stem}.txt" for stem in config.paths.small_scale_stems])]
 
     if df.empty:
         elapsed = round(time.time() - start, 2)

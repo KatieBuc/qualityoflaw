@@ -1,0 +1,38 @@
+{
+  "updated_at": "2026-09-28T15:53:59.604182+00:00",
+  "translation": [
+    {
+      "filename": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
+      "policy_file": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
+      "error_type": "SourceAlignmentPartial",
+      "message": "4/59 sections have no original-language text (structure drift); evidence_original will be missing for those",
+      "details": {
+        "step": "md_to_text",
+        "unpaired": 4,
+        "total": 59
+      },
+      "attempts": 1,
+      "at": "2026-09-28T10:25:36.547372+00:00"
+    }
+  ],
+  "translation_qa": [],
+  "storage": [],
+  "evaluation": [
+    {
+      "policy_file": "KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt",
+      "failed_dimensions": [
+        "01_scope_of_violence.txt"
+      ],
+      "errors": [
+        "01_scope_of_violence.txt: Connection error."
+      ],
+      "error_type": "EvaluationError",
+      "message": "01_scope_of_violence.txt: Connection error.",
+      "details": {},
+      "attempts": 1,
+      "at": "2026-09-28T15:53:59.604150+00:00"
+    }
+  ],
+  "discrepancy_diagnosis": [],
+  "step_failures": []
+}

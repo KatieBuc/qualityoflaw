@@ -2,7 +2,7 @@ experiment_name: first-full-run
 
 concurrency:
   enabled: true
-  max_workers: 15
+  max_workers: 5
 
 translation:
   model: claude-sonnet-4-5
@@ -91,6 +91,18 @@ paths:
   # localpolicies names files <POLICY>.cleaned.md; globallaws_markdown names
   # them plain <name>.md, so the glob suffix needs to match. Defaults to
   # ".cleaned.md" when omitted.
-  markdown_input_suffix: .md
+  markdown_input_suffix: .cleaned.md
+  # markdown_input_suffix: .md
+  # Bare policy names (no suffix) that --small-scale selects, in every step.
+  # Belongs to the corpus, so change it together with markdown_input_dir and
+  # markdown_input_suffix. Defaults to the localpolicies set when omitted.
+  small_scale_stems:
+    - ACEH_BIREUEN
+    - NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2
+    - RIAU_PEKANBARU_KOTA
+  # small_scale_stems:  # globallaws_markdown
+  #   - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
+  #   - 94. Latvia - DomViol - Latvian (a)
+  #   - 121. New Zealand - DomViol - English
   golden_csv: data/processed/long_policy_encoding.csv
   index_schema: data/mapping/index_schema.yaml

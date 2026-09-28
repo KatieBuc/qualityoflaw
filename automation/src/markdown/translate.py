@@ -214,7 +214,10 @@ def run_md_translation_step(
     prompt_template = config.markdown.prompt_path.read_text(encoding="utf-8")
     fallback_template = config.markdown.fallback_prompt_path.read_text(encoding="utf-8")
     input_files = markdown_policy_files(
-        input_dir, small_scale, suffix=config.paths.markdown_input_suffix
+        input_dir,
+        small_scale,
+        suffix=config.paths.markdown_input_suffix,
+        stems=config.paths.small_scale_stems,
     )
 
     counts = {"total": len(input_files), "succeeded": 0, "skipped": 0, "failed": 0}

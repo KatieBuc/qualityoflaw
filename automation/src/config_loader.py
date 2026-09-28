@@ -14,6 +14,7 @@ from automation.src.constants import (
     DEFAULT_DATA_ROOT,
     DEFAULT_MODEL_CONFIG,
     DEFAULT_PIPELINE_CONFIG,
+    DEFAULT_SMALL_SCALE_STEMS,
     PROJECT_ROOT,
     PROMPTS_ROOT,
 )
@@ -43,6 +44,12 @@ class PipelinePaths:
     # `<POLICY>.cleaned.md`; a differently-named corpus (e.g. one with plain
     # `<name>.md` files) overrides this via `paths.markdown_input_suffix`.
     markdown_input_suffix: str = CLEANED_MD_SUFFIX
+    # Bare policy names (no suffix) that `--small-scale` selects, for every
+    # step. Lives here rather than in a constant because the benchmark
+    # documents belong to the corpus: localpolicies and globallaws share no
+    # filenames. Each step derives its own filename from the stem (`<stem>.txt`
+    # for the plain-text artifacts, `<stem>.md` for the Markdown ones).
+    small_scale_stems: tuple[str, ...] = DEFAULT_SMALL_SCALE_STEMS
 
 
 @dataclass
@@ -239,6 +246,16 @@ def get_reranker_profile(profiles: dict[str, RerankerProfile], key: str) -> Rera
         available = ", ".join(sorted(profiles))
         raise ValueError(f"Unknown reranker model key '{key}'. Available: {available}")
     return profiles[key]
+
+
+def parse_small_scale_stems(raw: list | None) -> tuple[str, ...]:
+    """`paths.small_scale_stems`: bare policy names, defaulting to the
+    localpolicies benchmark set when omitted."""
+    if raw is None:
+        return DEFAULT_SMALL_SCALE_STEMS
+    if not isinstance(raw, list) or not raw or not all(isinstance(s, str) and s for s in raw):
+        raise ValueError("paths.small_scale_stems must be a non-empty list of policy names")
+    return tuple(raw)
 
 
 def parse_concurrency_config(raw: dict | None) -> ConcurrencyConfig:
@@ -625,6 +642,7 @@ def load_pipeline_config(
                 )
             ),
             markdown_input_suffix=str(paths_cfg.get("markdown_input_suffix", CLEANED_MD_SUFFIX)),
+            small_scale_stems=parse_small_scale_stems(paths_cfg.get("small_scale_stems")),
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),

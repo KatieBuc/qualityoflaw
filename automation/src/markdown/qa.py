@@ -341,7 +341,9 @@ def run_md_translation_qa_step(
     failed_files: list[dict] = []
 
     pending: list[str] = []
-    for translated_path in markdown_policy_files(markdown_dir, small_scale, suffix=".md"):
+    for translated_path in markdown_policy_files(
+        markdown_dir, small_scale, suffix=".md", stems=config.paths.small_scale_stems
+    ):
         counts["total"] += 1
         stem = policy_stem(translated_path)
         if (output_dir / f"{stem}.json").exists() and not force:

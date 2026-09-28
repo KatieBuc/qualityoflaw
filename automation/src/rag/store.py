@@ -185,7 +185,9 @@ def run_storage_step(
     store_dir = resolve_mid_product_dir(run_dir, "rag_store")
     store_dir.mkdir(parents=True, exist_ok=True)
 
-    policy_files = filter_policy_files(policy_dir, small_scale)
+    policy_files = filter_policy_files(
+        policy_dir, small_scale, config.paths.small_scale_stems
+    )
     if not policy_files:
         raise FileNotFoundError(f"No policy files to embed in {policy_dir}")
 

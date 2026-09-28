@@ -180,33 +180,43 @@ def section_clause_key(section: MarkdownSection) -> tuple[int, str] | None:
 def align_sections(
     source: list[MarkdownSection], translated: list[MarkdownSection]
 ) -> list[int | None]:
-    """Pair each translated section to a source section by structural identity.
+    """Pair each translated section to a source section.
 
     Returns a list the length of `translated`; entry `j` is the index of the
     source section paired with `translated[j]`, or None when the translation
     has a section with no sound source counterpart (structural drift the
     translation introduced -- e.g. an OCR repair that split one block in two).
 
-    Matches with `difflib.SequenceMatcher` over one key per section: its
-    numbered-clause identity when it has one and it is unique within that
-    side's document (`section_clause_key`, a hard cross-language anchor --
-    `Pasal 4` == `Article 4`), otherwise its heading nesting level. Within an
-    `equal` run, and within an equal-length `replace` run (a heading
-    relabelled or re-levelled but the same underlying clause), sections pair
-    positionally; unequal-length `replace` and translation-only `insert` runs
-    leave those translated sections unpaired. `autojunk=False`: with a few
-    hundred sections the many identical level-only keys would otherwise be
-    treated as junk and stop matching.
+    Two regimes, chosen by whether the documents have the same number of
+    sections:
 
-    A clause identity is only trusted as an anchor when it's unique on its
-    own side: `_clause_identity` no longer defends against every OCR
-    artifact (an amendment's own numbering can legitimately repeat too), so
-    two different sections can now resolve to the same identity -- e.g. a
-    corrupted `Pasal 3 1` next to a real `Pasal 3`. Matching both against one
-    `Article 3` would let the matcher lock onto the wrong one and silently
-    mispair sections around it. Falling back to the heading-level key for a
-    duplicate keeps that ambiguity from ever being resolved by chance.
+    * **Equal counts -- pair by position.** Nothing was split or dropped, so
+      the i-th translated section *is* the i-th source section, whatever its
+      heading says (a heading relabelled or re-levelled by the translator
+      still pairs). Clause numbers are deliberately not consulted here: an
+      OCR-damaged heading (`Pasal 3 1`, repaired by the translator to
+      `Article 31`) makes a number unique on one side and repeated on the
+      other, and the matcher below then locks onto that mismatch and shifts
+      every later section by one -- pairing sections with the wrong original
+      text, silently.
+    * **Different counts -- anchor on numbered clauses.** Something was added
+      or lost, so position alone can't be trusted. Each section is keyed by
+      its numbered-clause identity when it has one and it is unique within
+      that side's document (`section_clause_key`, a hard cross-language
+      anchor -- `Pasal 4` == `Article 4`), otherwise by its heading level, and
+      the key sequences are matched with `difflib.SequenceMatcher`
+      (`autojunk=False`: with a few hundred sections the many identical
+      level-only keys would otherwise be treated as junk and stop matching).
+      Within an `equal` run, and within an equal-length `replace` run (a
+      heading relabelled or re-levelled but the same underlying clause),
+      sections pair positionally; unequal-length `replace` and
+      translation-only `insert` runs leave those translated sections
+      unpaired. A clause identity is only trusted when unique on its own
+      side because `_clause_identity` doesn't defend against every OCR
+      artifact (an amendment's own numbering can legitimately repeat too).
     """
+    if len(source) == len(translated):
+        return list(range(len(translated)))
 
     def keys_for(sections: list[MarkdownSection]) -> list[tuple]:
         raw = [section_clause_key(s) for s in sections]
@@ -219,11 +229,11 @@ def align_sections(
             for cid, section in zip(raw, sections)
         ]
 
-    source_keys = keys_for(source)
-    translated_keys = keys_for(translated)
     pairing: list[int | None] = [None] * len(translated)
 
-    matcher = difflib.SequenceMatcher(a=source_keys, b=translated_keys, autojunk=False)
+    matcher = difflib.SequenceMatcher(
+        a=keys_for(source), b=keys_for(translated), autojunk=False
+    )
     for tag, i1, i2, j1, j2 in matcher.get_opcodes():
         if tag == "equal" or (tag == "replace" and i2 - i1 == j2 - j1):
             for offset in range(j2 - j1):

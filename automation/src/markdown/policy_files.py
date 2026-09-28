@@ -13,16 +13,11 @@ raw-text path and is left untouched.
 
 from pathlib import Path
 
-from automation.src.constants import MARKDOWN_SMALL_SCALE_FILES
+from automation.src.constants import DEFAULT_SMALL_SCALE_STEMS
+from automation.src.policy_files import select_small_scale
 
 # The curated corpus's naming convention.
 CLEANED_MD_SUFFIX = ".cleaned.md"
-
-# The Markdown path's own `--small-scale` benchmark set, as bare stems (see
-# `constants.MARKDOWN_SMALL_SCALE_FILES` for why this is separate from the
-# raw-text path's `SMALL_SCALE_FILES`).
-SMALL_SCALE_STEMS = tuple(Path(name).stem for name in MARKDOWN_SMALL_SCALE_FILES)
-
 
 def policy_stem(path: Path) -> str:
     """``ACEH_BIREUEN.cleaned.md`` -> ``ACEH_BIREUEN`` (and ``.md`` -> stem)."""
@@ -34,15 +29,21 @@ def source_markdown_path(input_dir: Path, stem: str, suffix: str = CLEANED_MD_SU
 
 
 def markdown_policy_files(
-    policy_dir: Path, small_scale: bool, suffix: str = CLEANED_MD_SUFFIX
+    policy_dir: Path,
+    small_scale: bool,
+    suffix: str = CLEANED_MD_SUFFIX,
+    stems: tuple[str, ...] = DEFAULT_SMALL_SCALE_STEMS,
 ) -> list[Path]:
-    """Every Markdown policy in `policy_dir`, sorted, optionally the benchmark four.
+    """Every Markdown policy in `policy_dir`, sorted, optionally the benchmark set.
+
+    `stems` is `config.paths.small_scale_stems` -- the benchmark set belongs to
+    the corpus, not to this module. Matching is on `policy_stem`, so it works
+    whichever suffix the corpus uses.
 
     `suffix` distinguishes the curated input (``.cleaned.md``) from the
     run's own translated output (``.md``); both resolve to the same stems.
     """
     files = sorted(p for p in policy_dir.glob(f"*{suffix}") if p.is_file())
     if small_scale:
-        allowed = set(SMALL_SCALE_STEMS)
-        files = [p for p in files if policy_stem(p) in allowed]
+        files = select_small_scale(files, set(stems), policy_dir, key=policy_stem)
     return files

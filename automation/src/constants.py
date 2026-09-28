@@ -12,30 +12,20 @@ MARKDOWN_FALLBACK_PROMPT = (
 )
 DEFAULT_MANUAL_OVERWRITES = PROJECT_ROOT / "data" / "corrections" / "manual_overwrites.yaml"
 
-# The raw-OCR-text path's benchmark four -- `resolve_input_files` (.txt-only)
-# and `diagnose.py` (matches these exact filenames against the golden
-# dataframe) both need real files from `data/raw/localpolicies`, so this
-# stays pinned to that corpus regardless of which corpus `translation_md`
-# is pointed at. See `MARKDOWN_SMALL_SCALE_FILES` for the Markdown path's
-# equivalent, which can point at a different corpus's own benchmark files.
+# The default `--small-scale` benchmark set, on the Indonesian localpolicies
+# corpus. It is only a fallback: the set actually used comes from
+# `paths.small_scale_stems` in pipeline_config.yaml, so it travels with
+# `markdown_input_dir` / `markdown_input_suffix` when the pipeline is pointed
+# at another corpus (see `config_loader.PipelinePaths.small_scale_stems`).
+# The raw-text translation path (`resolve_input_files`) stays pinned to this
+# list, since it only ever reads `data/raw/localpolicies`.
 SMALL_SCALE_FILES = [
     "ACEH_BIREUEN.txt",
     "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
     # "NUSA_TENGGARA_BARAT_DOMPU.txt",
     "RIAU_PEKANBARU_KOTA.txt",
 ]
-
-# The Markdown path's `--small-scale` benchmark set. Deliberately separate
-# from `SMALL_SCALE_FILES`: the two paths can point at entirely different
-# corpora (e.g. the Indonesian localpolicies corpus vs. globallaws_markdown),
-# whose benchmark documents share no filenames at all. Only the stem is used
-# (`markdown.policy_files.SMALL_SCALE_STEMS`), so the extension here is
-# cosmetic -- match whatever `markdown_input_suffix` the corpus actually uses.
-MARKDOWN_SMALL_SCALE_FILES = [
-    "21. Bosnia and Herzegovina - DomViol - Bosnian (b).md",
-    "94. Latvia - DomViol - Latvian (a).md",
-    "121. New Zealand - DomViol - English.md",
-]
+DEFAULT_SMALL_SCALE_STEMS = tuple(Path(name).stem for name in SMALL_SCALE_FILES)
 
 # The Markdown path is the default: the corpus in
 # `data/processed/localpolicies/cleaned_markdown/` is already cleaned and

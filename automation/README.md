@@ -838,7 +838,7 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepan
 
 | Flag | Description |
 |------|-------------|
-| `--small-scale` | Process only 5 benchmark policy files |
+| `--small-scale` | Process only the benchmark policies listed in `paths.small_scale_stems` (pipeline_config.yaml). Errors out if none of them exist in the input corpus |
 | `--steps` | `translation`, `translation_qa`, `markdown`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` (default: all) |
 | `--run-id` | Existing run ID (required for eval/comparison/diagnosis without translation) |
 | `--force` | Re-run a step even if its output already exists (all steps are idempotent by default — they skip items that already have output) |

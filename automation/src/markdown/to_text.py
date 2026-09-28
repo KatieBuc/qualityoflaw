@@ -161,9 +161,9 @@ def build_retrieval_chunks(
     """Build per-heading retrieval records from a translated document.
 
     Returns `(records, alignment)`. Each translated section is paired to its
-    source counterpart individually (`chunking.align_sections`, which anchors
-    on numbered-clause headings and tolerates a heading relabel or a
-    one-section drift), so a structural difference costs at most the original
+    source counterpart individually (`chunking.align_sections`: by position
+    when both documents have the same section count, otherwise anchored on
+    numbered-clause headings), so a structural difference costs at most the original
     text of the sections it actually touched -- not the whole document, which
     is what the old all-or-nothing heading-signature gate did. A section with
     no sound source counterpart gets `text=""`; `alignment` reports how many.
@@ -277,7 +277,9 @@ def run_md_to_text_step(
     if not md_dir.is_dir():
         raise FileNotFoundError(f"No translated markdown to convert in {md_dir}")
 
-    for translated_path in markdown_policy_files(md_dir, small_scale, suffix=".md"):
+    for translated_path in markdown_policy_files(
+        md_dir, small_scale, suffix=".md", stems=config.paths.small_scale_stems
+    ):
         stem = translated_path.stem
         counts["total"] += 1
         text_path = text_dir / f"{stem}.txt"

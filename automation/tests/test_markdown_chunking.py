@@ -318,3 +318,48 @@ def test_align_sections_reanchors_after_a_source_only_section():
 def test_align_sections_all_none_when_nothing_matches():
     tr = _translated("# PREAMBLE\n\nUnrelated body with no clauses at all.\n")
     assert align_sections(SRC_SECTIONS, tr) == [None]
+
+
+# An OCR-split heading in the source (`Pasal 3 1`) repaired by the translator
+# (`Article 31`): the clause number 31 is then unique in the source (only in
+# the elucidation) but repeated in the translation, which used to make the
+# anchor matcher shift every later section by one.
+_OCR_SPLIT_SRC = (
+    "#### Pasal 1\n\nSatu.\n\n"
+    "#### Pasal 3 1\n\nTiga satu.\n\n"
+    "#### Pasal 32\n\nTiga dua.\n\n"
+    "# PENJELASAN\n\n#### Pasal 31\n\nCukup jelas.\n\n"
+    "#### Pasal 32\n\nCukup jelas.\n\n"
+    "#### Pasal 33\n\nCukup jelas.\n"
+)
+_OCR_SPLIT_TR = (
+    "#### Article 1\n\nOne.\n\n"
+    "#### Article 31\n\nThirty-one.\n\n"
+    "#### Article 32\n\nThirty-two.\n\n"
+    "# ELUCIDATION\n\n#### Article 31\n\nSufficiently clear.\n\n"
+    "#### Article 32\n\nSufficiently clear.\n\n"
+    "#### Article 33\n\nSufficiently clear.\n"
+)
+
+
+def test_align_sections_equal_counts_pair_by_position_despite_ocr_split_heading():
+    source = parse_sections(_OCR_SPLIT_SRC)
+    translated = parse_sections(_OCR_SPLIT_TR)
+    assert len(source) == len(translated)
+    assert align_sections(source, translated) == list(range(len(translated)))
+
+
+def test_align_sections_equal_counts_ignore_clause_numbers():
+    # Same count, but the translation renumbered a clause: position still wins.
+    source = parse_sections("#### Pasal 1\n\nSatu.\n\n#### Pasal 2\n\nDua.\n")
+    translated = parse_sections("#### Article 7\n\nOne.\n\n#### Article 8\n\nTwo.\n")
+    assert align_sections(source, translated) == [0, 1]
+
+
+def test_align_sections_unequal_counts_still_anchor_on_clause_numbers():
+    # Translation dropped Pasal 2: Article 3 must land on Pasal 3, not Pasal 2.
+    source = parse_sections(
+        "#### Pasal 1\n\nSatu.\n\n#### Pasal 2\n\nDua.\n\n#### Pasal 3\n\nTiga.\n"
+    )
+    translated = parse_sections("#### Article 1\n\nOne.\n\n#### Article 3\n\nThree.\n")
+    assert align_sections(source, translated) == [0, 2]
