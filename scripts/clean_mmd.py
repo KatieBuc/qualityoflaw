@@ -81,7 +81,17 @@ def process_mmd_folder(input_dir: str, output_dir: str):
 
 
 if __name__ == "__main__":
-    INPUT_FOLDER = "./data/raw/QOL_reextract"
-    OUTPUT_FOLDER = "./data/processed/localpolicies/cleaned_markdown"
+    import argparse
 
-    process_mmd_folder(INPUT_FOLDER, OUTPUT_FOLDER)
+    parser = argparse.ArgumentParser(
+        description="Clean raw .mmd extractions into .cleaned.md files for the pipeline."
+    )
+    parser.add_argument("--input", default="./data/raw/QOL_reextract", help="Folder of .mmd files.")
+    parser.add_argument(
+        "--output",
+        default="./data/processed/localpolicies/cleaned_markdown",
+        help="Folder that receives the .cleaned.md files.",
+    )
+    args = parser.parse_args()
+
+    process_mmd_folder(args.input, args.output)
