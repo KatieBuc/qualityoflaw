@@ -1,0 +1,832 @@
+# PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE
+
+COPY
+
+REGENT OF WEST KUTAI
+
+EAST KALIMANTAN PROVINCE
+
+# REGIONAL REGULATION OF WEST KUTAI REGENCY
+
+NUMBER 9 OF 2019
+
+CONCERNING
+
+PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE
+
+BY THE GRACE OF GOD ALMIGHTY
+
+REGENT OF WEST KUTAI,
+
+Considering:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a. that every citizen has the right to be free from torture or treatment that degrades human dignity and has the right to obtain security and freedom from all forms of violence;
+b. that all forms of violence against women and children in West Kutai Regency constitute violations of human rights so that their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and destiny without discrimination;
+c. that violence against women and children in West Kutai Regency continues to increase, so that protection efforts in the form of regulation are needed;
+d. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Protection of Women and Children Victims of Violence;
+
+In View of:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+2. Law Number 47 of 1999 concerning the Establishment of Nunukan Regency, Malinau Regency, West Kutai Regency and East Kutai Regency and Bontang City (State Gazette of the Republic of Indonesia Number 175 of 1999, Supplement to the State Gazette of the Republic of Indonesia Number 3896) as amended by Law Number 07 of 2000 concerning Amendment to Law Number 47 of 1999 concerning the Establishment of Nunukan Regency, Malinau Regency, West Kutai Regency and East Kutai Regency and Bontang City (State Gazette of the Republic of Indonesia Number 74 of 2000, Supplement to the State Gazette of the Republic of Indonesia Number 3962;
+3. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+With Joint Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF WEST KUTAI REGENCY
+
+and
+
+REGENT OF WEST KUTAI
+
+HAS DECIDED:
+
+To Establish:
+
+REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+1. Region is West Kutai Regency.
+2. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of West Kutai Regency.
+3. Regent is the Regent of West Kutai.
+4. Child is a person who has not reached the age of 18 (eighteen) years, including a child still in the womb.
+5. Woman is a person who has female genitalia, can experience menstruation, pregnancy, childbirth and breastfeeding.
+6. Parents are biological father and or mother, step father and/or step mother, or adoptive father and/or adoptive mother.
+7. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, or mother and her children, or blood relatives in direct line upward or downward up to the third degree.
+8. Community is individuals, families, groups, social organizations and/or community organizations.
+9. Every Person is an individual or corporation.
+10. Violence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.
+11. Violence Against Women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically including threats of certain actions. Coercion or deprivation of liberty, whether occurring in public or private life.
+12. Protection of Women is all activities aimed at providing security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear or have experienced violence against women.
+13. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.
+14. Special Protection of Children is a form of protection received by Children in certain situations and conditions to obtain security guarantees against threats that endanger themselves and their lives in their growth and development.
+15. Victim is those who suffer physically and mentally as a result of the actions of others who seek fulfillment of their own interests or those of others that are contrary to the interests and rights of the aggrieved party.
+16. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is or has occurred.
+17. Companion is a social worker who has professional competence in their field.
+18. Victim Recovery is all efforts to strengthen victims of domestic violence to be more empowered, both physically and psychologically.
+19. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A is an integrated service provider institution for victims established by the Regional Government.
+20. Forum for Protection of Violence Victims hereinafter abbreviated as FPKK is a coordination forum for prevention, handling and empowerment of women and child violence victims whose implementation is carried out in a networked manner and established at the Regional, sub-district, and Village/Kampung levels.
+
+#### Article 2
+
+Protection of Women and Children Victims of Violence is implemented based on the principles of:
+a. respect and fulfillment of the rights of violence Victims;
+b. justice and gender equality;
+c. non-discrimination; and
+d. the best interests of Victims.
+
+#### Article 3
+
+Protection of Women and Children Victims of Violence aims to:
+a. provide social rehabilitation for children;
+b. reunite child victims of violence with their families and/or environment.
+c. protect Women and provide Services to Women and Children Victims of Violence; and
+d. empower Women and Children Victims of Violence.
+
+# CHAPTER II
+
+## SCOPE
+
+#### Article 4
+
+The Scope of this Regional Regulation consists of:
+a. protection of Women;
+b. protection of Children;
+c. rights of Victims;
+d. obligations and responsibilities of the Regional Government;
+e. institutions;
+f. cooperation and coordination of protection of Women and Children from acts of violence;
+g. participation of the community and business world;
+h. information and reporting systems; and
+i. guidance and supervision.
+
+# CHAPTER III
+
+## PROTECTION OF WOMEN
+
+## Part One
+
+General
+
+#### Article 5
+
+The Regional Government is responsible for efforts to protect women from acts of violence that occur in public or private life in the form of:
+a. physical violence;
+b. sexual violence;
+c. economic violence;
+d. social violence;
+e. psychological violence;
+f. domestic neglect;
+g. coercion or deprivation of liberty; and
+h. threats of certain actions.
+
+#### Article 6
+
+Protection of women as referred to in Article 4 letter a includes:  
+a. prevention of acts of violence;  
+b. integrated services for Victims of violence; and  
+c. empowerment of Victims of violence.
+
+#### Article 7
+
+Every person who hears, sees, or knows of the occurrence of Violence as referred to in Article 5 is obliged to make efforts to:  
+a. prevent the continuation of criminal acts;  
+b. provide protection to Victims of Violence;  
+c. provide emergency assistance; and/or  
+d. assist in the process of submitting an application for protection determination.
+
+## Part Two
+
+Prevention of Acts of Violence
+
+#### Article 8
+
+1. The Regional Government carries out prevention as referred to in Article 6 letter a by means of:  
+a. socializing laws and regulations;  
+b. providing counseling/guidance;  
+c. providing education on the dangers of domestic Violence;  
+d. conducting seminars/workshops or the like;  
+e. forming work networks in efforts to prevent Violence;  
+f. conducting coordination, integration, synchronization of Violence prevention based on partnership patterns;  
+g. establishing a violence prevention system, mapping of locations or areas prone to violence; and  
+h. increasing public awareness in behaving in accordance with religious norms.  
+2. In addition to the Regional Government, prevention as referred to in paragraph (1) must be implemented by:  
+a. Family and/or closest relatives;  
+b. Community;  
+c. educational institutions;  
+d. health institutions;  
+e. social community institutions; and  
+f. business world and other institutions.
+
+#### Article 9
+
+1. The Regional Government is obliged to prepare programs or activities for Prevention as referred to in Article 8 paragraph (1) in the Regional work plan and strategic plan.  
+2. Programs or activities as referred to in paragraph (1) are to support the realization of the Regional long-term development plan and Regional medium-term development plan.
+
+#### Article 10
+
+1. Regional Apparatus that administers governmental affairs in the field of women's empowerment implements prevention as referred to in Article 9.  
+2. Regional Apparatus as referred to in paragraph (1) in carrying out prevention may cooperate with other Agencies.
+
+## Part Three
+
+Integrated Services for Victims of Violence
+
+#### Article 11
+
+1. The Regional Government implements integrated Services for Victims of Violence as referred to in Article 6 letter b through activities:  
+a. complaint Services;  
+b. health Services;  
+c. counseling;  
+d. spiritual guidance;  
+e. social rehabilitation Services;  
+f. legal aid and assistance Services; and/or  
+g. repatriation and reintegration.  
+2. Services as referred to in paragraph (1) must be supported by facilities in the form of:  
+a. special Service rooms in police lines;  
+b. expert and professional personnel;  
+c. service centers and safe houses; and/or  
+d. other facilities and infrastructure needed for Victim Recovery.  
+3. Services for Victims of Violence are carried out in an integrated manner by the Regional Government together with P2TP2A with other social institutions.  
+4. P2TP2A and other social institutions as referred to in paragraph (3) may receive and send case referrals from other Service units in a networked manner.  
+5. Integrated services for Victims of violence as referred to in paragraphs (1) through (4) are implemented in accordance with standard operating procedures.  
+6. Provisions regarding Standard Operating Procedures as referred to in paragraph (5) are regulated by Regent Regulation.
+
+## Part Four
+
+Empowerment of Victims of Violence
+
+#### Article 12
+
+1. Empowerment of Victims of Violence as referred to in Article 6 letter c carried out by the Regional Government in the form of:  
+a. job training;  
+b. productive economic enterprises and joint business groups; and  
+c. capital assistance.  
+3. Empowerment as referred to in paragraph (1) is implemented by Regional Apparatus in accordance with their duties and functions.
+
+# CHAPTER IV
+
+## CHILD PROTECTION
+
+## Part One
+
+Protection of Children Who Are Victims of Violence
+
+#### Article 13
+
+1. Protection of Children who are Victims of Violence as referred to in Article 4 letter b is the responsibility of the Regional Government;  
+2. Protection of Child Victims of violence as referred to in paragraph (1) is implemented by:  
+a. formulating policies for prevention, Risk reduction for the vulnerable, Victim Handling and Child data and information systems;  
+b. organizing maintenance, care, and social rehabilitation of neglected Children, both within institutions and outside institutions; and  
+c. providing shelter, maintenance and care for neglected Children; and  
+d. organizing Special Protection for Children.
+
+#### Article 14
+
+Child Protection as referred to in Article 4 letter b includes:  
+a. protection of Children who are Victims of violence; and  
+b. Special Protection of Children.
+
+#### Article 15
+
+1. Provisions regarding prevention and Services for women Victims of acts of Violence as referred to in Articles 5 through Article 11 apply mutatis mutandis to Child Protection from acts of violence;  
+2. In addition to carrying out prevention as referred to in paragraph (1), also by means of increasing Family capacity in Child Protection and child care skills.
+
+## Part Two
+
+Special Protection of Children
+
+#### Article 16
+
+1. Special Protection of Children as referred to in Article 14 letter b is given to:  
+a. Children in emergency situations;  
+b. Children in conflict with the law;  
+c. Children from minority and isolated groups;  
+d. Children who are exploited economically and/or sexually;  
+e. Children who are Victims of narcotics, alcohol, psychotropic, and other addictive substance abuse;  
+f. Children who are Victims of pornography;  
+g. Children with HIV/AIDS;  
+h. Child Victims of kidnapping, sale, and/or trafficking;  
+i. Child Victims of physical and/or psychological Violence;  
+j. Child Victims of sexual crimes;  
+k. Child Victims of terrorism networks;  
+l. Children with Disabilities;  
+m. Child Victims of mistreatment and neglect;  
+n. Children with deviant social behavior; and  
+o. Children who are Victims of stigmatization from labeling related to the condition of Parents.  
+2. The Regional Government in implementing handling of Special Protection of Children as referred to in paragraph (1) in accordance with the provisions of laws and regulations.
+
+# CHAPTER V
+
+## RIGHTS OF VICTIMS
+
+#### Article 17
+
+1. Every Victim receives rights including:  
+a. the right to have their dignity respected as a human being;  
+b. the right to health and psychological recovery;  
+c. the right to determine their own decisions;  
+d. the right to obtain information;  
+e. the right to confidentiality of identity;  
+f. the right to compensation from the perpetrator;  
+g. the right to social rehabilitation;  
+h. the right to complaint handling;  
+i. the right to obtain facilitation in the judicial process; and/or  
+j. the right to assistance.  
+2. Child Victims of Violence in addition to receiving rights as referred to in paragraph (1), also receive special rights including:  
+a. the right to respect for survival, growth and development;  
+b. the right to basic Services;  
+c. the right to equal protection;  
+d. the right to be free from various stigma; and/or  
+e. the right to obtain freedom.
+
+# CHAPTER VI
+
+## OBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT
+
+#### Article 18
+
+1. Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of Violence Against Women and Children, in the form of:  
+a. collecting data and organizing an information system for the protection of women and Child Victims of violence;  
+b. conducting education on anti-Violence Against Women and Children values; and  
+c. disseminating laws and regulations related to women's empowerment and protection of Child Victims of violence.  
+2. Regional Government has the obligation and responsibility to provide and organize services for Victims in the form of:  
+a. establishing and organizing technical Service institutions for Victims by involving Community elements; and  
+b. encouraging Community awareness of the importance of protection for victims of violence.
+
+# CHAPTER VII
+
+## INSTITUTIONS
+
+## Part One
+
+General
+
+#### Article 19
+
+Technical Service institutions for Victims of Violence are implemented by P2TP2A and FPKK.
+
+## Part Two
+
+### P2TP2A
+
+#### Article 20
+
+1. The provision of Services to Victims is carried out in an integrated manner by P2TP2A.  
+2. P2TP2A as referred to in paragraph (1) may receive and send case referrals from or to other Service units in a networked manner.
+
+#### Article 21
+
+1. P2TP2A provides Services and temporary protection in the form of a safe house.  
+2. In the event that P2TP2A does not yet have a safe house, then victims of violence are referred to other integrated Service centers that have a safe house.
+
+#### Article 22
+
+1. P2TP2A consists of several counseling fields.  
+2. The counseling fields as referred to in paragraph (1) consist of at least:  
+a. law;  
+b. health;  
+c. spiritual; and  
+d. psychology.  
+3. The implementation of counseling is carried out by counselors and may be implemented in a networked manner by involving related parties.
+
+#### Article 23
+
+1. Forms of Services to Victims organized by P2TP2A include:  
+a. medical Services;  
+b. medicolegal Services;  
+c. psychosocial Services;  
+d. legal Services;  
+e. social reintegration Services; and  
+f. economic independence Services.  
+2. Regional Apparatus conducts guidance for P2TP2A in implementing Services as referred to in paragraph (1).  
+3. Further provisions regarding the Service mechanism as referred to in paragraph (1) are regulated in a Regent Regulation.
+
+## Part Three
+
+### FPKK
+
+#### Article 24
+
+1. In order to protect and guarantee the rights of Women and Children from acts of violence including conducting cooperation and coordination, FPKK is established.  
+2. FPKK as referred to in paragraph (1) consists of:  
+a. Regional FPKK;  
+b. sub-district FPKK; and  
+c. village/kampung FPKK.  
+3. The establishment of Regional FPKK as referred to in paragraph (2) letter a is determined by the Regent.  
+4. The establishment of Sub-district FPKK as referred to in paragraph (2) letter b is determined by the sub-district head.  
+5. The establishment of Village FPKK as referred to in paragraph (2) letter c is determined by the village head.  
+6. Further provisions regarding the organizational structure and elements of FPKK as referred to in paragraph (2) are regulated in a Regent Regulation.
+
+#### Article 25
+
+The duties and functions of FPKK as referred to in Article 24 paragraph (2) consist of:  
+a. providing input in policy formulation;  
+b. conducting coordination with Regional Apparatus and other social institutions;  
+c. disseminating laws and regulations related to the protection of Women and Children from acts of violence;  
+d. collecting and developing data and information related to the protection of Women and Children from acts of violence;  
+e. conducting review, monitoring, evaluation, and supervision of the implementation of protection of Women and Children from acts of violence; and  
+f. providing reports, suggestions, input, and considerations to the Regent.
+
+#### Article 26
+
+Further provisions regarding the mechanism and working procedures of FPKK are regulated by Regent Regulation.
+
+# CHAPTER VIII
+
+COOPERATION AND COORDINATION FOR THE PROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE
+
+## Part One
+
+General
+
+#### Article 27
+
+1. Regional Government conducts cooperation and coordination in order to ensure the implementation of Protection of Women and Children from acts of Violence.  
+2. Cooperation and coordination as referred to in paragraph (1) are implemented by Regional Apparatus that organizes government affairs in the field of women's empowerment and Child Protection through FPKK.
+
+## Part Two
+
+Cooperation
+
+#### Article 28
+
+1. In certain cases Regional Government may conduct cooperation with:  
+a. other Regional Governments;  
+b. police;  
+c. advocates;  
+d. health workers;  
+e. social workers;  
+f. Companion volunteers;  
+g. spiritual counselors;  
+h. other law enforcers, to assist Victims in the court hearing process;  
+i. national commission on anti-Violence Against Women;  
+j. Indonesian Child Protection Commission or Child Protection Institution; and/or  
+k. certain parties desired for the benefit of Victims.  
+2. Cooperation as referred to in paragraph (1) may be in the form of:  
+a. socialization;  
+b. provision of legal aid;  
+c. health Services;  
+d. Victim assistance;  
+e. counseling;  
+f. social rehabilitation;  
+g. spiritual guidance; and/or  
+h. repatriation and social reintegration.
+
+## Part Three
+
+Coordination
+
+#### Article 29
+
+1. The Regent conducts coordination for the protection of Women and Children from acts of Violence with:  
+a. central government;  
+b. provincial government;  
+c. other vertical agencies;  
+d. other regency/city governments;  
+e. educational institutions; and  
+f. community institutions.  
+2. Coordination as referred to in paragraph (1) includes:  
+a. religious affairs;  
+b. health affairs;  
+c. education affairs;  
+d. social affairs;  
+e. legal affairs;  
+f. labor affairs; and  
+g. other affairs.
+
+# CHAPTER IX
+
+## PARTICIPATION OF COMMUNITY AND BUSINESS SECTOR
+
+#### Article 30
+
+1. Every person may participate in providing Protection of Women and Children from acts of Violence.  
+2. Participation as referred to in paragraph (1) may be carried out by:  
+a. reporting acts of Violence Against Women and/or Children;  
+b. providing first aid to Victims of Violence;  
+c. Provision of safe houses and/or shelters;  
+d. independently disseminating the rights of Women and Children;  
+e. forming independent Community social institutions; and/or  
+f. other forms of Community participation related to the protection of women and protection of Children.
+
+#### Article 31
+
+In the event that Community social institutions implement Protection of Women and Children from acts of violence they must coordinate with FPKK.
+
+#### Article 32
+
+1. Regional Government encourages the business sector to participate in the Protection of Women and Children from acts of violence;  
+2. Participation as referred to in paragraph (1) may be in the form of:  
+a. socialization to employees within the company environment regarding the dangers of acts of Violence Against Women and Children; and  
+b. other assistance as a form of corporate social responsibility.
+
+# CHAPTER X
+
+## INFORMATION AND REPORTING SYSTEM
+
+#### Article 33
+
+1. Regional Government prepares and compiles an information and reporting system for the Protection of Women and Children from acts of Violence.  
+2. The information and reporting system as referred to in paragraph (1) is in accordance with the provisions of laws and regulations.
+
+# CHAPTER XI
+
+## GUIDANCE AND SUPERVISION
+
+#### Article 34
+
+1. Regional Government carries out guidance and supervision of FPKK and other social institutions;  
+2. Guidance and supervision as referred to in paragraph (1) by Regional Apparatus implementing women and children empowerment affairs (3) Guidance and Supervision as referred to in paragraph (1) includes:  
+a. coordination;  
+b. guidance;  
+c. education and training; and  
+d. monitoring and evaluation.  
+3. Coordination as referred to in paragraph (3) letter a covers aspects related to planning and implementation;  
+4. Guidance as referred to in paragraph (3) letter b covers aspects related to planning, implementation, administration, funding, quality, control and supervision;  
+5. Education and training as referred to in paragraph (3) letter c is conducted in accordance with laws and regulations;  
+6. Monitoring and evaluation as referred to in paragraph (3) letter d is conducted periodically every 3 (three) months;  
+7. Results of the implementation of guidance and supervision as referred to in paragraph (2) must be reported to the Regional Government.
+
+# CHAPTER XII
+
+## FINANCING
+
+#### Article 35
+
+Financing for activities of Protection of Women and Children Victims of Violence, may be sourced from:  
+a. State Revenue and Expenditure Budget;  
+b. Regional Revenue and Expenditure Budget; and/or  
+c. other legal and non-binding sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER XIII
+
+## TRANSITIONAL PROVISIONS
+
+#### Article 36
+
+In the event that FPKK as referred to in Article 24 (1) has not yet been formed, the existing P2TP2A shall continue to carry out the duties and functions of integrated services for Women and Children Victims of Violence in the Region.
+
+# CHAPTER XIV
+
+## CLOSING PROVISIONS
+
+#### Article 37
+
+Implementing regulations of this Regional Regulation must be stipulated no later than 6 (six) months from the promulgation of this Regional Regulation.
+
+#### Article 38
+
+This Regional Regulation comes into force on the date of promulgation.  
+
+So that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of West Kutai Regency.  
+
+Stipulated in Sendawar, Position Title Initials H. Edyanto Arkan,  
+
+S.E. Vice Regent Drs. Yacob Tullur,  
+
+M.M Regional Secretary Dr. Misran Effendi, S.STP.,  
+
+M.Si. Acting Ass. I Dra. Yohana, M.Si. Head of DP2KBP3A 
+
+Yosef Stevanson, S.H. Head of Legal Bureau  
+
+Pidesia, S.E.,  M.Si. Head of Sub-bureau 
+
+Kumdang Promulgated in Sendawar  
+
+on, 7 January 2019 on, 7 January 2019 REGENT OF WEST KUTAI,  
+
+FX. YAPAN  
+
+REGIONAL SECRETARY OF WEST KUTAI REGENCY,  
+
+YACOB TULLUR  
+
+REGIONAL GAZETTE OF WEST KUTAI REGENCY YEAR 2019 NUMBER 9.  
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF WEST KUTAI REGENCY EAST KALIMANTAN PROVINCE: 9/9/2019.
+
+# ELUCIDATION OF REGIONAL REGULATION OF WEST KUTAI REGENCY
+
+NUMBER 9 OF 2019 CONCERNING PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE
+
+#### I. GENERAL
+
+Acts of violence against women and children are experiencing an increasing trend. Economic factors, social environment and technological developments have a major influence on the increase in such acts of violence. This condition requires the Regional Government to take concrete steps through program activities as an effort to prevent and protect women and children from acts of violence.  
+
+One effort to prevent violence against women is carried out through women's empowerment and optimization of previously owned potential, so that it is expected to be able to improve and develop themselves to play a role and be protected from potential acts of violence. This condition will strengthen the form of appreciation and respect for women while maintaining their role and nature as women to play a role in educating and supporting the welfare and happiness of their families.  
+
+Efforts to prevent violence against children are the obligation of parents, families, communities and the private sector. Community services are the front line when there is potential for violence against children. The mechanism for preventing violence and protecting child victims of violence involves multiple sectors coordinated by the Regional Government. Such efforts are carried out with the direction of providing social rehabilitation for child victims of violence, reuniting child victims of violence with their families and/or environment, and increasing the empowerment of child victims of violence.  
+
+In connection with this, to realize the provision of protection efforts for women and children victims of violence and for legal certainty in the implementation of women's empowerment and protection of child victims of violence in the Region, it is necessary to regulate it in a Regional Regulation.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Sufficiently clear.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Letter a  
+What is meant by "physical violence" is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causing death.  
+
+Letter b  
+What is meant by "sexual violence" is any act in the form of sexual harassment, forced sexual intercourse, forced unnatural or unwanted sexual intercourse, forced sexual intercourse with others for commercial purposes and or certain purposes.  
+
+Letter c  
+What is meant by "economic violence" is an act that restricts humans from working inside or outside the home to produce money and goods, including allowing humans who work to be exploited, while someone does not fulfill the economic needs of the family.  
+
+Letter d  
+What is meant by "social violence" is an act of a person or group of people that causes injury or loss of life of a person or may cause physical damage or damage to another person's property.  
+
+Letter e  
+What is meant by "psychological violence" is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering in a person.  
+
+Letter f  
+What is meant by "Domestic Neglect" is:  
+a. actions that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social;  
+b. actions of deliberately neglecting to maintain, care for, or take care of children as they should;  
+c. actions that neglect people within the scope of their household, whereas according to the law applicable to them or because of an agreement or contract they are obliged to provide life, care, or maintenance to that person;  
+d. actions that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.  
+
+Letter g  
+Sufficiently clear.  
+
+Letter h  
+What is meant by "threat of certain actions" is any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Paragraph (1)  
+Point a  
+What is meant by "complaint service" is a series of actions taken by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families or the community.  
+
+Point b  
+What is meant by "health service" is an effort that includes promotive, preventive, curative and rehabilitative aspects.  
+
+Point c  
+What is meant by "counseling" is a process of providing objective and complete information, carried out systematically with interpersonal communication guidance, counseling techniques and mastery of clinical knowledge aimed at helping a person recognize their current condition, the problems being faced, and determine a way out or efforts to overcome these problems.  
+
+Point d  
+What is meant by "spiritual guidance" is a form of activity in which there is a process of spiritual guidance and coaching for humans so as to provide peace, tranquility and coolness of heart to humans by always providing encouragement and motivation Perda-Kubar/180/2019 -20- to remain patient, resigned and continue to carry out their obligations.  
+
+Point e  
+What is meant by "social rehabilitation service" is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.  
+
+Point f  
+What is meant by "legal aid and assistance service" is legal services provided by legal assistants or advocates to carry out the process of assisting witnesses and/or victims of violence against women and children that is gender sensitive.  
+
+Point g  
+What is meant by "repatriation and reintegration" is an effort to return women and child victims of violence from abroad to the debarkation point/entry point, or from the receiving area to the area of origin.  
+
+Paragraph (2)  
+Point a  
+Sufficiently clear.  
+
+Point b  
+Sufficiently clear.  
+
+Point c  
+What is meant by "Service Center and Safe House" is what is known as a trauma center, while a safe house is known as a shelter.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Paragraph (1)  
+Point 0  
+What is meant by "stigmatization" is the giving of a 'mark' or stigma to a person, or a group of people with a particular meaning in a particular situation and context openly or covertly to influence the thinking power or evaluative power of a person or group of people towards something.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Paragraph (1)  
+What is meant by "safe house" is a house as a temporary shelter for victims during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators of violence.  
+
+Paragraph (2)  
+Sufficiently clear.
+
+#### Article 22
+
+Paragraph (1)  
+Sufficiently clear.  
+
+Paragraph (2)  
+Sufficiently clear.  
+
+Paragraph (3)  
+What is meant by "related parties" is among others:  
+a. implementation of counseling in the legal field involving the police, prosecutor's office, district court, religious court, legal advocacy institutions and non-governmental organizations;  
+b. implementation of counseling in the health field involving the health office, regional general hospital, and other health services;  
+c. implementation of counseling in the spiritual field involving the ministry of religion and religious leaders; and  
+d. implementation of counseling in the psychology field involving psychological assistants and/or psychologists.
+
+#### Article 23
+
+Paragraph (1)  
+Point a  
+What is meant by "medical service" is a form of medical service for evidentiary purposes in the legal field.  
+
+Point b  
+What is meant by "medicolegal service" is treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics.  
+
+Point c  
+What is meant by "psychosocial service" is a service provided by assistants in the context of traumatic recovery of the victim's condition including the provision of space and safe houses to protect victims from threats and intimidation.  
+
+Point d  
+What is meant by "legal service" is service to victims in undergoing legal processes.  
+
+Point e  
+What is meant by "social reintegration" is an effort to reunite victims with family, substitute family/institutions, or communities that can provide protection and fulfillment of needs for victims.  
+
+Point f  
+What is meant by "economic independence service" is a service for skills training and providing economic access so that victims can be independent.  
+
+Paragraph (2)  
+Sufficiently clear.  
+
+Paragraph (3)  
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+#### Article 32
+
+Sufficiently clear.
+
+#### Article 33
+
+Sufficiently clear.
+
+#### Article 34
+
+Sufficiently clear.
+
+#### Article 35
+
+Sufficiently clear.
+
+#### Article 36
+
+Sufficiently clear.
+
+#### Article 37
+
+Sufficiently clear.
+
+#### Article 38
+
+Sufficiently clear.  
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF KUTAI BARAT REGENCY NUMBER 201.  Perda-Kubar/180/2019

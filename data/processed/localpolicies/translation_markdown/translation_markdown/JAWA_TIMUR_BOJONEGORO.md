@@ -1,0 +1,335 @@
+# SERVICES FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE IN BOJONEGORO REGENCY
+
+GOVERNMENT OF BOJONEGORO REGENCY
+
+Copy
+
+# REGIONAL REGULATION OF BOJONEGORO REGENCY
+
+NUMBER 10 OF 2011
+
+CONCERNING
+
+SERVICES FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE IN BOJONEGORO REGENCY
+
+BY THE GRACE OF ALMIGHTY GOD
+
+THE REGENT OF BOJONEGORO,
+
+Considering:
+
+
+
+
+a. that, violence and discrimination in any form, especially against women and children is a violation of Human Rights, therefore in the future violence and discrimination against women and children occurring in Bojonegoro Regency, must receive optimal services and protection;
+b. that, in connection with the consideration referred to in letter a, it is deemed necessary to regulate the provision of services for women and children victims of violence with a Regional Regulation of Bojonegoro Regency;
+
+In View of:
+
+
+
+
+1. Law Number 12 of 1950 concerning the Establishment of Regency/City Regions within East Java Province (promulgated on August 8, 1950);
+2. Law Number 6 of 1974 concerning Basic Provisions on Social Welfare (State Gazette of 1974 Number 53, Supplement to State Gazette Number 3039);
+3. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to State Gazette Number 3143);
+4. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention on The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to State Gazette Number 3668);
+5. Law Number 23 of 1992 concerning Health (State Gazette of the Republic of Indonesia of 1992 Number 100);
+6. Law Number 20 of 1999 concerning Ratification of ILO Convention Number 138 Concerning Minimum Age for Admission to Employment (State Gazette of the Republic of Indonesia of 1999 Number 56, Supplement to State Gazette Number 3835;
+7. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to State Gazette Number 3886);
+8. Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to State Gazette Number 3941);
+9. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109;
+10. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of 2004 Number 95);
+11. Law Number 32 of 2004 concerning Regional Government (State Gazette of 2004 Number 125, Supplement to State Gazette Number 4437) as amended for the second time by Law Number 12 of 2008 (State Gazette of 2008 Number 59, Supplement to State Gazette Number 4844);
+13. Law Number 33 of 2004 concerning Financial Balance between the Central Government and Regional Governments; (State Gazette of the Republic of Indonesia of 2004 Number 126);
+14. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of 2011 Number 82, Supplement to State Gazette Number 5234);
+15. Government Regulation Number 25 of 2000 concerning the Authority of the Government and the Authority of the Province as an Autonomous Region;
+16. Presidential Decree Number 36 of 1990 concerning Ratification of the Convention on the Rights of the Child;
+17. Presidential Decree Number 88 of 2002 concerning the National Action Plan (RAN) for the Elimination of Trafficking in Women and Children;
+18. Presidential Decree Number 61 of 2003 concerning the National Action Plan for Human Rights of Indonesia 1998-2003;
+19. Regional Regulation of East Java Province Number 9 of 2005 concerning the Implementation of Protection for Women and Children Victims of Violence.
+
+With Mutual Approval
+
+THE REGIONAL HOUSE OF REPRESENTATIVES OF BOJONEGORO REGENCY
+
+and
+
+THE REGENT OF BOJONEGORO
+
+DECIDES:
+
+To Enact:
+
+REGIONAL REGULATION CONCERNING SERVICES FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE IN BOJONEGORO REGENCY.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation what is meant by:
+
+1. Regency Government is the Government of Bojonegoro Regency.
+2. Regent is the Regent of Bojonegoro.
+3. Child is a person who has not reached 18 years of age, including those in the womb.
+4. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, psychological to the victim.
+5. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.
+6. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.
+7. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.
+8. Economic violence is the neglect of family members in the form of not providing a decent livelihood and maintenance.
+9. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.
+10. Services for Women and Children are actions that must be taken immediately including protection provided to victims when seeing, hearing and knowing of the impending, ongoing or having occurred violence against victims.
+11. Protection of women is all activities aimed at providing a sense of security carried out by the community, the police, the prosecutor's office, the courts, social institutions or other parties who know or hear of the impending or having occurred violence against women.
+12. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.
+13. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.
+14. Women and Children Service Center hereinafter abbreviated as P3A is an institution providing services to victims of violence in the form of medical services (including medico-legal), psycho-social and legal services.
+15. Safe house is a temporary residence used to provide protection to victims in accordance with established operational standards.
+16. Community is individuals, families, groups, social organizations and or community organizations.
+17. Family is the smallest unit in society consisting of husband and wife, or husband, wife and their children, or father and his children, and mother and her children.
+18. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) who live and eat from one kitchen and reside in one house.
+
+# CHAPTER II
+
+## PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+The principles of services and protection for women and children victims of violence are:
+1. Respect and recognition of equal and equivalent human rights and dignity.
+2. Respect for the rights of victims.
+3. Justice and gender equality.
+4. Non-discrimination.
+5. Best interests of the victim.
+
+#### Article 3
+
+The purpose of services and protection for women and children victims of violence is to provide services and protection for women and children victims of violence based on gender and the best interests of the child occurring in the household and or public.
+
+##### CHAPTER III
+
+##### OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 4
+
+1. The Bojonegoro Regency Government is obligated and responsible to implement efforts to prevent the occurrence of violence in the form of:  
+a. collecting data and information about women and children victims of violence in accordance with Laws and Regulations;  
+b. conducting education on anti-violence values towards women and children;  
+c. conducting socialization of laws and regulations related to the implementation of protection for women and children victims of violence;  
+d. conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence.
+2. To anticipate the occurrence of acts of violence, the Bojonegoro Regency Government is obligated to provide and organize services for victims in the form of:  
+a. establishing and facilitating the implementation of integrated service institutions for victims by involving community elements;  
+b. encouraging community awareness of the importance of protection for victims.  
+3. The Bojonegoro Regency Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.
+
+# CHAPTER IV
+
+## RIGHTS OF VICTIMS
+
+#### Article 5
+
+Every victim has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling from individuals, groups or institutions both Government and Non-Government.
+
+#### Article 6
+
+In the event of violence, every victim has the right to obtain assistance both medically, psychologically and legally, and to obtain guarantees of their rights related to their status as a wife, mother, child, family member or as a member of society.
+
+##### CHAPTER V
+
+## IMPLEMENTATION OF SERVICES
+
+## Part One
+
+Institutional
+
+#### Article 7
+
+1. The Regent establishes a community service work unit that functions as a facilitator for the Women and Children Service Center (P3A).  
+2. P3A (Women and Children Service Center) as referred to in paragraph (1) in handling services and protection for women and children victims of violence may conduct partnerships with social community institutions engaged in the field of services and protection for women and children.  
+3. Provisions regarding the institutional structure of P3A (Women and Children Service Center) shall be further regulated by Regent Regulation.
+
+## Part Two
+
+Forms and Mechanisms of Services and protection
+
+#### Article 8
+
+1. Forms of services and protection for victims organized by P3A (Women and Children Service Center) consist of:  
+a. medical services in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;  
+b. medicolegal services are forms of medical services for evidentiary purposes in the legal field;  
+c. psychosocial services are services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have self-confidence, strength, and independence in resolving their problems;  
+d. legal services to assist victims in undergoing the judicial process;  
+e. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.  
+2. The mechanism of services and protection as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which shall be further regulated by Regent Regulation.
+
+## Part Three
+
+Principles of Services and protection
+
+#### Article 9
+
+Services and protection for victims are carried out free of charge, quickly, safely, with empathy, non-discrimination, easily accessible and with guaranteed confidentiality.
+
+#### Article 10
+
+P3A managers are obligated to organize services and protection in accordance with the principles of services and protection as referred to in Article 9.
+
+# CHAPTER VI
+
+## ASSISTANCE
+
+#### Article 11
+
+Assistance is carried out by persons or institutions that have expertise to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence and have cooperated with P3A (Women and Children Service Center).
+
+# CHAPTER VII
+
+## FUNDING
+
+#### Article 12
+
+1. The source of funds for the implementation of services and protection for women and children victims of violence carried out by the Regional Apparatus of Bojonegoro Regency as referred to in article 4 is from the Regional Revenue and Expenditure Budget of Bojonegoro Regency.  
+2. The source of funds as referred to in paragraph (1) may come from other lawful sources.  
+3. The source of funds for implementation from other lawful sources as referred to in paragraph (2), shall be supervised in accordance with the provisions of Laws and Regulations.
+
+# CHAPTER VIII
+
+## SANCTION PROVISIONS
+
+#### Article 13
+
+1. Any person who intentionally does not provide services and protection for women and children resulting in the occurrence of violence, allows the occurrence of violence, and or does not report and does not provide protection for victims, shall be subject to sanctions as regulated in the applicable laws and regulations.  
+2. If Officials appointed to organize services and protection do not carry out their obligations and responsibilities, they shall be subject to sanctions in accordance with the provisions of applicable laws and regulations.
+
+# CHAPTER IX
+
+## CLOSING PROVISIONS
+
+#### Article 14
+
+This Regional Regulation shall come into force on the date of promulgation.  
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Bojonegoro Regency.  
+
+Enacted in Bojonegoro  
+
+on the date of September 8, 2011  
+
+REGENT OF BOJONEGORO,  
+
+H. S U Y O T O  
+
+Promulgated in Bojonegoro  
+
+on the date of December 23, 2011  
+
+REGIONAL SECRETARY OF BOJONEGORO REGENCY  
+
+sgd.  
+
+Drs. SOEHADI MOELJONO, MM Principal Trustee  
+
+NIP. 19600131 198603 1 008  
+
+REGIONAL GAZETTE OF BOJONEGORO REGENCY YEAR 2011 NUMBER 23.  
+
+Copy in accordance with the original  
+
+REGIONAL SECRETARY OF BOJONEGORO REGENCY  
+
+Drs. SOEHADI MOELJONO,MM Principal Trustee  
+
+NIP. 19600131 198603 1 008
+
+# ELUCIDATION OF REGIONAL REGULATION OF BOJONEGORO REGENCY
+
+NUMBER 10 YEAR 2011 CONCERNING SERVICES FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE IN BOJONEGORO REGENCY
+
+##### I. GENERAL EXPLANATION
+
+Services and protection for Women and Children constitute a series of activities that must be pursued continuously, sustainably, purposefully and ensure the growth and development of children both physically, mentally, spiritually and socially so as to realize a good life and become potential, resilient successors to the nation with noble character and a strong sense of nationalism to maintain the unity and integrity of the nation and state. In addition, the Government also guarantees that the rights of women and children are fulfilled through Laws and Regulations that protect women and children from violence and discrimination. This is philosophically stated in the Preamble of the 1945 Constitution, that the first objective of the establishment of the Unitary State of the Republic of Indonesia is to protect the entire nation and all of Indonesia's homeland.
+
+Therefore, the Government of Indonesia has signed the Universal Declaration of Human Rights (UDHR) on December 10, 1948 and ratified CEDAW with Law Number 7 of 1984 concerning the Elimination of All Forms of Discrimination against Women, and is therefore obliged to comply with these provisions. Likewise, in the Amendment to the 1945 Constitution and Law Number 39 of 1999 concerning Human Rights, it is stated that the enforcement and fulfillment of Human Rights is the responsibility of the state, especially the government, and the Law also serves as a legal umbrella for all the formation of Laws and Regulations that guarantee the realization and protection of women's human rights in implementing the elimination of discrimination.
+
+Furthermore, in the National Action Plan for the Elimination of Violence against Women of 1999, it is stated that women as mothers of the nation and children as the next generation of the nation are creatures created by Almighty God and therefore must be protected and their honor, dignity and self-worth safeguarded in a fair and proportional manner both legally, economically, politically, socially and culturally without distinguishing ethnicity, religion, race and class.
+
+From the series of provisions above, the Government is responsible for taking actions both legally, politically, economically and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because this constitutes a crime against human existence.
+
+##### II. ARTICLE-BY-ARTICLE EXPLANATION
+
+#### Article 1
+
+Services also include protection for women and children victims of violence.
+
+#### Article 2
+
+Paragraph (1)  
+Sufficiently clear.  
+
+Paragraph (2)  
+Respect for the rights of victims is intended to ensure the fulfillment of victims' rights.  
+
+Paragraph (3)  
+Gender justice is a process to be fair to men and women;  
+
+Gender equality is the equality of conditions for men and Women to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in political, economic, social, cultural, defense and national security activities and equality in enjoying the results of such development.  
+
+Paragraph (4)  
+Non-discrimination is an attitude and treatment toward victims without making distinctions based on age, gender, race, ethnicity, religion and between groups.  
+
+Paragraph (5)  
+The best interests of the victim means that all actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, the best interests of the victim must be a primary consideration.
+
+#### Article 3
+
+What is meant by "gender-based violence" is actions based on gender relations that place women in a subordinate position to men.
+
+#### Article 4
+
+What is meant by "receiving protection" is receiving protection from individuals, groups or institutions, both governmental and non-governmental.  
+
+Receiving information about the existence of complaint centers, P3A and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the development of case handling.  
+
+What is meant by "integrated services" is services that include medical, medico-legal, psychosocial and legal services.  
+
+What is meant by "continuous handling" is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including the restoration of their good name.
+
+#### Article 5
+
+What is meant by "receiving psychological and legal assistance" is receiving psychological and legal assistance at every level of examination and throughout the judicial process.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
