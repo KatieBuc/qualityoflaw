@@ -12,6 +12,7 @@ from automation.src.constants import (
     CHUNKING_FALLBACK_PROMPT,
     MARKDOWN_FALLBACK_PROMPT,
     DEFAULT_DATA_ROOT,
+    DEFAULT_MARKDOWN_INPUT_DIR,
     DEFAULT_MODEL_CONFIG,
     DEFAULT_PIPELINE_CONFIG,
     DEFAULT_SMALL_SCALE_STEMS,
@@ -37,7 +38,7 @@ class PipelinePaths:
     # still needs the Indonesian original as plain text, and the raw-text
     # translation path stays runnable side by side with the Markdown one.
     markdown_input_dir: Path = field(
-        default_factory=lambda: PROJECT_ROOT / "data" / "processed" / "localpolicies" / "cleaned_markdown"
+        default_factory=lambda: PROJECT_ROOT / DEFAULT_MARKDOWN_INPUT_DIR
     )
     # File suffix identifying a source document in `markdown_input_dir`
     # (glob is `*<suffix>`). The curated Indonesian corpus names files
@@ -181,6 +182,18 @@ class ResolvedPipelineConfig:
             qa_template_path=PROMPTS_ROOT / "translation_qa" / "v2" / "prompt_template.txt",
         )
     )
+
+
+def _require_file(path: Path, label: str) -> Path:
+    if not path.exists():
+        raise FileNotFoundError(f"{label} not found: {path}")
+    return path
+
+
+def _require_dir(path: Path, label: str) -> Path:
+    if not path.is_dir():
+        raise FileNotFoundError(f"{label} not found: {path}")
+    return path
 
 
 def _resolve_path(path_value: str) -> Path:
@@ -480,17 +493,15 @@ def parse_markdown_config(raw: dict | None) -> MarkdownTranslationConfig:
 
     prompt_version = str(raw.get("prompt_version", "v3"))
     qa_version = str(raw.get("qa_prompt_version", "v2"))
-    prompt_path = PROMPTS_ROOT / "translation" / prompt_version / "prompt.txt"
-    qa_template_path = PROMPTS_ROOT / "translation_qa" / qa_version / "prompt_template.txt"
-
-    if not prompt_path.exists():
-        raise FileNotFoundError(f"Markdown translation prompt not found: {prompt_path}")
-    if not MARKDOWN_FALLBACK_PROMPT.exists():
-        raise FileNotFoundError(
-            f"Markdown fallback prompt not found: {MARKDOWN_FALLBACK_PROMPT}"
-        )
-    if not qa_template_path.exists():
-        raise FileNotFoundError(f"Markdown translation QA prompt not found: {qa_template_path}")
+    prompt_path = _require_file(
+        PROMPTS_ROOT / "translation" / prompt_version / "prompt.txt",
+        "Markdown translation prompt",
+    )
+    _require_file(MARKDOWN_FALLBACK_PROMPT, "Markdown fallback prompt")
+    qa_template_path = _require_file(
+        PROMPTS_ROOT / "translation_qa" / qa_version / "prompt_template.txt",
+        "Markdown translation QA prompt",
+    )
 
     return MarkdownTranslationConfig(
         prompt_path=prompt_path,
@@ -517,28 +528,24 @@ def resolve_prompt_paths(
     discrepancy_diagnosis_version: str,
     translation_qa_version: str,
 ) -> tuple[Path, Path, Path, Path, Path]:
-    translation_prompt = PROMPTS_ROOT / "translation" / translation_version / "prompt.txt"
-    evaluation_dir = PROMPTS_ROOT / "quality_eval" / evaluation_version
-    evaluation_template = evaluation_dir / "prompt_template.txt"
-    discrepancy_diagnosis_template = (
-        PROMPTS_ROOT / "discrepancy_diagnosis" / discrepancy_diagnosis_version / "prompt_template.txt"
+    translation_prompt = _require_file(
+        PROMPTS_ROOT / "translation" / translation_version / "prompt.txt",
+        "Translation prompt",
     )
-    translation_qa_template = (
-        PROMPTS_ROOT / "translation_qa" / translation_qa_version / "prompt_template.txt"
+    evaluation_dir = _require_dir(
+        PROMPTS_ROOT / "quality_eval" / evaluation_version, "Evaluation prompts dir"
     )
-
-    if not translation_prompt.exists():
-        raise FileNotFoundError(f"Translation prompt not found: {translation_prompt}")
-    if not evaluation_dir.is_dir():
-        raise FileNotFoundError(f"Evaluation prompts dir not found: {evaluation_dir}")
-    if not evaluation_template.exists():
-        raise FileNotFoundError(f"Evaluation template not found: {evaluation_template}")
-    if not discrepancy_diagnosis_template.exists():
-        raise FileNotFoundError(
-            f"Discrepancy diagnosis template not found: {discrepancy_diagnosis_template}"
-        )
-    if not translation_qa_template.exists():
-        raise FileNotFoundError(f"Translation QA template not found: {translation_qa_template}")
+    evaluation_template = _require_file(
+        evaluation_dir / "prompt_template.txt", "Evaluation template"
+    )
+    discrepancy_diagnosis_template = _require_file(
+        PROMPTS_ROOT / "discrepancy_diagnosis" / discrepancy_diagnosis_version / "prompt_template.txt",
+        "Discrepancy diagnosis template",
+    )
+    translation_qa_template = _require_file(
+        PROMPTS_ROOT / "translation_qa" / translation_qa_version / "prompt_template.txt",
+        "Translation QA template",
+    )
 
     return (
         translation_prompt,
@@ -550,10 +557,10 @@ def resolve_prompt_paths(
 
 
 def resolve_sliding_window_prompt_path(version: str) -> Path:
-    template_path = PROMPTS_ROOT / "quality_eval" / version / "prompt_template.txt"
-    if not template_path.exists():
-        raise FileNotFoundError(f"Sliding window prompt template not found: {template_path}")
-    return template_path
+    return _require_file(
+        PROMPTS_ROOT / "quality_eval" / version / "prompt_template.txt",
+        "Sliding window prompt template",
+    )
 
 
 def load_pipeline_config(
@@ -637,9 +644,7 @@ def load_pipeline_config(
                 paths_cfg.get("index_schema", "data/mapping/index_schema.yaml")
             ),
             markdown_input_dir=_resolve_path(
-                paths_cfg.get(
-                    "markdown_input_dir", "data/processed/localpolicies/cleaned_markdown"
-                )
+                paths_cfg.get("markdown_input_dir", DEFAULT_MARKDOWN_INPUT_DIR)
             ),
             markdown_input_suffix=str(paths_cfg.get("markdown_input_suffix", CLEANED_MD_SUFFIX)),
             small_scale_stems=parse_small_scale_stems(paths_cfg.get("small_scale_stems")),

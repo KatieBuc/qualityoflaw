@@ -11,6 +11,8 @@ MARKDOWN_FALLBACK_PROMPT = (
     PROMPTS_ROOT / "translation" / "chunking" / "fallback_prompt_md.txt"
 )
 DEFAULT_MANUAL_OVERWRITES = PROJECT_ROOT / "data" / "corrections" / "manual_overwrites.yaml"
+# Repo-relative default for `paths.markdown_input_dir` (pipeline_config.yaml overrides it).
+DEFAULT_MARKDOWN_INPUT_DIR = "data/processed/localpolicies/cleaned_markdown"
 
 # The default `--small-scale` benchmark set, on the Indonesian localpolicies
 # corpus. It is only a fallback: the set actually used comes from
