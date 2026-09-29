@@ -11,7 +11,7 @@ from automation.src.llm.model_profile import ModelProfile
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, clean_translation_response, format_api_error
 from automation.src.metadata import generate_run_id, init_run_metadata, load_metadata, update_metadata
 from automation.src.run_pipeline import parse_steps, requires_run_id
-from automation.src.translate import resolve_input_files
+from automation.src.legacy.translate import resolve_input_files
 
 
 @pytest.fixture

@@ -7,7 +7,7 @@ sub-chunking (with trailing-context carryover) for any section that still
 exceeds the safe character limit.
 
 This module is pure text processing: no I/O, no LLM calls. It is used by
-`automation.src.translate` when `translation.chunking.enabled` is set in
+`automation.src.legacy.translate` when `translation.chunking.enabled` is set in
 `pipeline_config.yaml`.
 """
 

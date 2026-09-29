@@ -16,6 +16,7 @@ from automation.src.chunking import (
     combine_translations,
     render_markdown,
 )
+from automation.src.common import TranslateResult, chunks_artifact_path, failure_entry_from_exc
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ChunkingConfig,
@@ -80,18 +81,6 @@ def _translate_chunk(
     return translated, usage
 
 
-@dataclass
-class TranslateResult:
-    filename: str
-    status: str
-    token_usage: dict[str, int]
-    source_chars: int = 0
-    error: str | None = None
-    error_type: str | None = None
-    error_details: dict | None = None
-    attempts: int | None = None
-
-
 def resolve_input_files(
     input_dir: Path,
     small_scale: bool,
@@ -117,25 +106,6 @@ def resolve_input_files(
         files = [p for p in files if p.name in SMALL_SCALE_FILES or p.name in existing]
 
     return files
-
-
-def _failure_entry_from_exc(filename: str, exc: Exception) -> dict:
-    if isinstance(exc, LLMCallError):
-        return {
-            "filename": filename,
-            "error_type": exc.error_type,
-            "message": str(exc),
-            "details": exc.details,
-            "attempts": exc.attempts,
-        }
-    error_type, details = format_api_error(exc)
-    return {
-        "filename": filename,
-        "error_type": error_type,
-        "message": str(exc),
-        "details": details,
-        "attempts": 1,
-    }
 
 
 def _translate_one(
@@ -166,7 +136,7 @@ def _translate_one(
             source_chars=len(source_text),
         )
     except Exception as exc:
-        entry = _failure_entry_from_exc(filename, exc)
+        entry = failure_entry_from_exc(filename, exc)
         logger.error(
             "[%s] failed [%s]: %s | status=%s",
             filename,
@@ -183,10 +153,6 @@ def _translate_one(
             error_details=entry["details"],
             attempts=entry["attempts"],
         )
-
-
-def chunks_artifact_path(chunks_dir: Path, filename: str) -> Path:
-    return chunks_dir / f"{Path(filename).stem}.chunks.json"
 
 
 def _write_cleaned_plain_text(
@@ -329,7 +295,7 @@ def _translate_one_chunked(
             source_chars=len(source_text),
         )
     except Exception as exc:
-        entry = _failure_entry_from_exc(filename, exc)
+        entry = failure_entry_from_exc(filename, exc)
         logger.error(
             "[%s] failed (chunked) [%s]: %s | status=%s",
             filename,

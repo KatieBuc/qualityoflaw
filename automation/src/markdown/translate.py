@@ -1,6 +1,6 @@
 """The `translation_md` step: Markdown in, Markdown out.
 
-Counterpart to `automation.src.translate`, which translates raw OCR text and
+Counterpart to `automation.src.legacy.translate`, which translates raw OCR text and
 is left untouched. The differences that matter:
 
 - Input is the curated Markdown corpus, so structure is read from headings
@@ -38,7 +38,7 @@ from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, format_api_error
 from automation.src.markdown.chunking import MarkdownChunk, check_structure, chunk_markdown
 from automation.src.markdown.policy_files import markdown_policy_files, policy_stem
-from automation.src.translate import TranslateResult, _failure_entry_from_exc
+from automation.src.common import TranslateResult, failure_entry_from_exc
 from automation.src.chunking import combine_translations
 
 logger = logging.getLogger(__name__)
@@ -166,7 +166,7 @@ def translate_one(
             source_chars=len(source_md),
         )
     except Exception as exc:
-        entry = _failure_entry_from_exc(filename, exc)
+        entry = failure_entry_from_exc(filename, exc)
         logger.error(
             "[%s] failed [%s]: %s | status=%s",
             filename,

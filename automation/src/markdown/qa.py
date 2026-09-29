@@ -1,6 +1,6 @@
 """The `translation_qa_md` step: audit and repair the Markdown translation.
 
-Counterpart to `automation.src.translation_qa`, which audits the raw-text
+Counterpart to `automation.src.legacy.translation_qa`, which audits the raw-text
 path and is left untouched. Same contract -- a second model checks each
 translation unit against its Indonesian source, and either leaves it alone or
 returns a full corrected version -- with four differences:
@@ -19,7 +19,7 @@ returns a full corrected version -- with four differences:
   and to the chunk artifact, both atomically per file: a real API failure on
   any chunk leaves the file's previous state entirely untouched.
 
-`_qa_unit`'s retry-then-degrade behaviour is imported rather than
+`qa_unit`'s retry-then-degrade behaviour is imported rather than
 reimplemented, so both paths handle a model that flags a problem but returns
 no correction identically.
 
@@ -50,11 +50,11 @@ from automation.src.llm.wrapper import AzureLLMWrapper, format_api_error
 from automation.src.markdown.chunking import MarkdownChunk, check_structure
 from automation.src.markdown.policy_files import markdown_policy_files, policy_stem
 from automation.src.markdown.translate import translation_chunks_path
-from automation.src.translation_qa import (
+from automation.src.common import (
     QaFileResult,
     TranslationQaResult,
-    _load_chunk_records,
-    _qa_unit,
+    load_chunk_records,
+    qa_unit,
 )
 
 logger = logging.getLogger(__name__)
@@ -111,14 +111,14 @@ def qa_chunk(
 
     for _ in range(max(1, max_passes)):
         passes += 1
-        action_required, issues, corrected_text, response_incomplete = _qa_unit(
+        action_required, issues, corrected_text, response_incomplete = qa_unit(
             original_text, current, template_text, complete_fn, context=context
         )
         all_issues += issues
         incomplete = incomplete or response_incomplete
 
         if response_incomplete:
-            # _qa_unit already retried and degraded this unit to "no action";
+            # qa_unit already retried and degraded this unit to "no action";
             # another pass would just repeat that, so stop and let the report
             # carry response_incomplete for review.
             break
@@ -165,7 +165,7 @@ def _qa_policy_file(
             return QaFileResult(filename=filename, status="skipped")
 
         chunks_path = translation_chunks_path(chunks_dir, stem)
-        records = _load_chunk_records(chunks_path)
+        records = load_chunk_records(chunks_path)
         if records is None:
             raise FileNotFoundError(
                 f"Translation chunks not found or unusable: {chunks_path}"

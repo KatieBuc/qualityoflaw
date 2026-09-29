@@ -37,6 +37,14 @@ from typing import Callable
 from pydantic import BaseModel
 
 from automation.src.chunking import Chunk, combine_translations
+from automation.src.common import (
+    QaFileResult,
+    TranslationQaResult,
+    build_translation_qa_prompt,
+    chunks_artifact_path,
+    load_chunk_records,
+    qa_unit,
+)
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
@@ -46,93 +54,9 @@ from automation.src.config_loader import (
 )
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, format_api_error
-from automation.src.translate import chunks_artifact_path, resolve_input_files
-from automation.src.translation_qa_prompt_builder import build_translation_qa_prompt
+from automation.src.legacy.translate import resolve_input_files
 
 logger = logging.getLogger(__name__)
-
-
-class TranslationQaResult(BaseModel):
-    action_required: bool
-    issues: list[str]
-    corrected_text: str | None
-
-
-@dataclass
-class QaFileResult:
-    filename: str
-    status: str  # "succeeded" | "skipped" | "failed"
-    corrected: bool = False
-    response_incomplete: bool = False
-    report: dict | None = None
-    error: str | None = None
-    error_type: str | None = None
-    error_details: dict | None = None
-
-
-def _load_chunk_records(chunks_path: Path) -> list[dict] | None:
-    """Load the translation step's chunks.json, if present and usable.
-
-    Same validity checks as `rag/store.py:_load_translation_chunks` (exists,
-    valid JSON, non-empty, every record has a translated_text) but returns
-    the raw stored records unchanged -- chunk_index/section_id/type/context/
-    text/translated_text -- instead of store.py's renumbered/flattened shape,
-    since this step needs to write corrections back into the same file.
-    """
-    if not chunks_path.exists():
-        return None
-    try:
-        data = json.loads(chunks_path.read_text(encoding="utf-8"))
-    except (json.JSONDecodeError, OSError):
-        return None
-    if not isinstance(data, list) or not data:
-        return None
-    if not all(isinstance(c, dict) and c.get("translated_text") for c in data):
-        return None
-    return data
-
-
-def _qa_unit(
-    original_text: str,
-    translated_text: str,
-    template_text: str,
-    complete_fn: Callable[[str], dict],
-    context: str | None = None,
-) -> tuple[bool, list[str], str | None, bool]:
-    """Returns (action_required, issues, corrected_text, response_incomplete).
-
-    Occasionally the LLM sets action_required=true but doesn't actually
-    supply corrected_text -- a content-quality slip, not an API failure. A
-    single policy file can be split into dozens or hundreds of chunks, each
-    QA'd with its own LLM call (see _qa_policy_file's atomic per-file
-    behavior below); treating this as a hard failure would mean even a small
-    per-chunk chance of it happening compounds into most files failing
-    outright and discarding every other chunk's already-good result. So:
-    retry once, and if it's still missing, degrade this one unit to "no
-    action" (keep its original text) rather than raising -- response_incomplete
-    is set so the caller can flag it in the report for a human to review.
-    """
-    prompt = build_translation_qa_prompt(original_text, translated_text, template_text, context=context)
-
-    response: dict = {}
-    for attempt in range(2):
-        response = complete_fn(prompt)
-        action_required = bool(response.get("action_required"))
-        corrected_text = response.get("corrected_text")
-        if not action_required or corrected_text:
-            issues = list(response.get("issues") or [])
-            return action_required, issues, (corrected_text if action_required else None), False
-        logger.warning(
-            "LLM reported action_required=true but returned no corrected_text (attempt %d/2)%s",
-            attempt + 1,
-            "; retrying" if attempt == 0 else "; keeping original text for this unit",
-        )
-
-    issues = list(response.get("issues") or []) + [
-        "LLM flagged this text for correction but did not return corrected text after retry; "
-        "original text kept unchanged."
-    ]
-    return False, issues, None, True
 
 
 def _qa_policy_file(
@@ -152,7 +76,7 @@ def _qa_policy_file(
             raise FileNotFoundError(f"Original policy text not found: {original_path}")
 
         chunks_path = chunks_artifact_path(chunks_dir, filename)
-        records = _load_chunk_records(chunks_path)
+        records = load_chunk_records(chunks_path)
 
         if records is not None:
             items: list[dict] = []
@@ -162,7 +86,7 @@ def _qa_policy_file(
 
             any_incomplete = False
             for record in records:
-                action_required, issues, corrected_text, response_incomplete = _qa_unit(
+                action_required, issues, corrected_text, response_incomplete = qa_unit(
                     record["text"],
                     record["translated_text"],
                     template_text,
@@ -194,7 +118,7 @@ def _qa_policy_file(
 
             # Only reached if every chunk's QA call above returned (raised
             # exceptions -- real API/LLM-call failures, not the malformed
-            # content case _qa_unit already retries/degrades -- skip
+            # content case qa_unit already retries/degrades -- skip
             # straight to the except block below, so chunks.json/translation
             # are never partially updated).
             updated_records = [
@@ -237,7 +161,7 @@ def _qa_policy_file(
 
         original_text = original_path.read_text(encoding="utf-8")
         translated_text = translated_path.read_text(encoding="utf-8")
-        action_required, issues, corrected_text, response_incomplete = _qa_unit(
+        action_required, issues, corrected_text, response_incomplete = qa_unit(
             original_text, translated_text, template_text, complete_fn
         )
         if action_required:

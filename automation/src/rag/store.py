@@ -34,7 +34,7 @@ from automation.src.config_loader import (
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.policy_files import filter_policy_files
 from automation.src.rag.embedder import AzureEmbedder
-from automation.src.translate import chunks_artifact_path
+from automation.src.common import chunks_artifact_path
 
 logger = logging.getLogger(__name__)
 

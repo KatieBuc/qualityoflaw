@@ -5,7 +5,7 @@ from unittest.mock import MagicMock
 import pytest
 
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.translation_qa import run_translation_qa_step
+from automation.src.legacy.translation_qa import run_translation_qa_step
 
 TEMPLATE_TEXT = "ORIGINAL:\n{{ORIGINAL_TEXT}}\n\nTRANSLATED:\n{{TRANSLATED_TEXT}}\n{{CONTEXT}}"
 

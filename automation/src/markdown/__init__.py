@@ -1,7 +1,7 @@
 """Markdown-in / Markdown-out translation path.
 
-Parallel to the raw-text path in `automation.src.translate` /
-`automation.src.translation_qa`: the input is the curated Markdown corpus in
+Parallel to the raw-text path in `automation.src.legacy.translate` /
+`automation.src.legacy.translation_qa`: the input is the curated Markdown corpus in
 `data/processed/localpolicies/cleaned_markdown/`, whose structure (BAB /
 Bagian / Paragraf / Pasal headings) is already explicit, so nothing needs to
 re-detect it with regexes on OCR text.

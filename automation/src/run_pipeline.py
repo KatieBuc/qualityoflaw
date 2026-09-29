@@ -25,6 +25,8 @@ from automation.src.failure_log import (
     record_step_failure,
     summarize_failures,
 )
+from automation.src.legacy.translate import run_markdown_step, run_translation_step
+from automation.src.legacy.translation_qa import run_translation_qa_step
 from automation.src.llm.client import get_cohere_rerank_api_key, get_cohere_rerank_endpoint
 from automation.src.llm.wrapper import AzureLLMWrapper
 from automation.src.markdown.qa import run_md_translation_qa_step
@@ -40,8 +42,6 @@ from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
 from automation.src.run_eval_sliding_window import run_sliding_window_evaluation_step
-from automation.src.translate import run_markdown_step, run_translation_step
-from automation.src.translation_qa import run_translation_qa_step
 
 
 def parse_steps(steps_arg: str | None) -> list[str]:

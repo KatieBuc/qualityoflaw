@@ -16,7 +16,7 @@ from automation.src.config_loader import (
 )
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
-from automation.src.translate import run_translation_step
+from automation.src.legacy.translate import run_translation_step
 
 
 @pytest.fixture
