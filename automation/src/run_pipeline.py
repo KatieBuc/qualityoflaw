@@ -551,7 +551,7 @@ def main() -> None:
     parser.add_argument(
         "--small-scale",
         action="store_true",
-        help="Process only the 5 benchmark policy files.",
+        help="Process only the small-scale benchmark policies (paths.small_scale_stems).",
     )
     parser.add_argument(
         "--force",
@@ -635,7 +635,7 @@ def main() -> None:
             )
             print(f"Created run: {run_id}")
         elif not run_dir.exists():
-            if "translation" in steps:
+            if "translation" in steps or "translation_md" in steps:
                 init_run_metadata(
                     run_id=run_id,
                     experiment_name=config.experiment_name,
