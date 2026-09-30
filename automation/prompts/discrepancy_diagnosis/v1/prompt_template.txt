@@ -1,0 +1,32 @@
+You are auditing an automated legal-policy quality-evaluation pipeline. This pipeline: (1) translates a local Indonesian government policy into English, (2) retrieves candidate passages via embedding search for each evaluation indicator, (3) asks an LLM judge to answer "Yes"/"No" per indicator using ONLY those retrieved candidates, and (4) compares that verdict against a human-coded "golden" label. Below is a list of DISCREPANCIES — cases where the pipeline's predicted label disagreed with the golden label — for ONE policy document. Diagnose WHY each discrepancy happened, using the ORIGINAL Indonesian policy text as your ground truth.
+
+### Original Policy Text (Indonesian, source of truth)
+{{ORIGINAL_TEXT}}
+
+### Discrepancies to diagnose
+For each discrepancy: the indicator, golden vs. predicted label, error type, the English evidence snippet the judge actually cited (or "none" if it predicted No), the judge's own rationale, and the candidate passages that were retrieved for this indicator and shown to the judge (tagged like [4.2-7]) — this is everything the judge had to work with.
+
+{{DISCREPANCIES}}
+
+### Your task
+For EACH discrepancy above, select one or more root causes from this fixed set of 4 categories (multiple may apply to the same discrepancy):
+
+1. translation_quality: the English text (candidate passages / cited snippet) is missing, distorts, or mistranslates something the ORIGINAL Indonesian text says about this indicator, such that a correct judge reading only the English material could not have reached the right answer.
+2. rag_candidate_issue: none of the retrieved candidate passages actually contain the relevant material, even though the original Indonesian document DOES address this indicator elsewhere — retrieval failed to surface the right evidence.
+3. evaluation_failure: the correct information WAS available in the retrieved candidate passages, but the judge's own reasoning was flawed (misread a passage, was too strict/lenient, made a logical error) despite sufficient evidence.
+4. golden_label_issue: the correct information WAS available in the retrieved candidate passages, and the judge's own reasoning was correct. After reviewing the original document yourself, the golden label itself appears wrong.
+
+Base your diagnosis primarily on the ORIGINAL Indonesian text above. If you are not confident reading a specific Indonesian passage, say so in the rationale rather than guessing.
+
+### Response Format
+Output ONLY a single raw JSON object — no markdown fences, no commentary — with this exact structure:
+{
+  "diagnosis_results": [
+    {
+      "id": "<indicator ID exactly as shown above, e.g. \"4.2\">",
+      "root_causes": ["translation_quality", "evaluation_failure"],
+      "rationale": "Explanation citing what you found in the original text and why. Please return in English"
+    }
+  ]
+}
+Include exactly one result object per discrepancy listed above, using the same indicator ID shown in each "--- Discrepancy [...] ---" heading. Do not invent new IDs and do not omit any.

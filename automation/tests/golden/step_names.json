@@ -1,0 +1,25 @@
+{
+  "default": [
+    "translation_md",
+    "md_to_text",
+    "storage",
+    "evaluation",
+    "comparison"
+  ],
+  "optional": [
+    "translation_qa_md",
+    "discrepancy_diagnosis"
+  ],
+  "valid": [
+    "translation_md",
+    "md_to_text",
+    "storage",
+    "evaluation",
+    "comparison",
+    "translation_qa_md",
+    "discrepancy_diagnosis",
+    "translation",
+    "translation_qa",
+    "markdown"
+  ]
+}

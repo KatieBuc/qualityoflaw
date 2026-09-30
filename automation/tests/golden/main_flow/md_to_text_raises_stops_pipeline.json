@@ -1,0 +1,141 @@
+{
+  "calls": [
+    {
+      "embedder": "absent",
+      "fn": "run_md_translation_step",
+      "force": false,
+      "limiter": {
+        "enabled": true,
+        "max_workers": 5
+      },
+      "run_id": "RUN1",
+      "small_scale": false,
+      "wrapper": "wrapper:claude-sonnet-4-5:confidence=False"
+    },
+    {
+      "embedder": "absent",
+      "fn": "run_md_to_text_step",
+      "force": false,
+      "limiter": null,
+      "run_id": "RUN1",
+      "small_scale": false,
+      "wrapper": null
+    }
+  ],
+  "exit_code": 1,
+  "runs": {
+    "RUN1": {
+      "failures": {
+        "discrepancy_diagnosis": [],
+        "evaluation": [],
+        "step_failures": [
+          {
+            "at": "<ts>",
+            "message": "missing chunks",
+            "step": "md_to_text"
+          }
+        ],
+        "storage": [],
+        "translation": [],
+        "translation_qa": [],
+        "updated_at": "<ts>"
+      },
+      "files": [
+        "config/model_config.yaml",
+        "config/pipeline_config.yaml",
+        "failures.json",
+        "metadata.json"
+      ],
+      "metadata": {
+        "config": {
+          "chunking": {
+            "enabled": true,
+            "safe_limit": 32000
+          },
+          "concurrency": {
+            "enabled": true,
+            "max_workers": 5
+          },
+          "discrepancy_diagnosis_model": "gpt-5.2-diagnosis",
+          "discrepancy_diagnosis_prompt_version": "v1",
+          "evaluation_method": "rag",
+          "evaluation_model": "gpt-5.2",
+          "evaluation_prompt_version": "v4",
+          "markdown_translation": {
+            "prompt_version": "v3",
+            "qa_max_passes": 2,
+            "qa_prompt_version": "v2",
+            "safe_limit": 32000,
+            "target_chars": 8000
+          },
+          "retrieval": {
+            "enabled": true,
+            "evidence_verification_enabled": true,
+            "hybrid_bm25_enabled": true,
+            "reranker_candidate_pool_size": 125,
+            "reranker_enabled": true,
+            "reranker_model": "Cohere-rerank-v4.0-fast",
+            "reranker_top_k": 25,
+            "top_k": 10
+          },
+          "sliding_window": {
+            "overlap_sentences": 15,
+            "prompt_version": "sliding_window_v1",
+            "window_sentences": 100
+          },
+          "storage": {
+            "batch_size": 16,
+            "enabled": true
+          },
+          "translation_model": "claude-sonnet-4-5",
+          "translation_prompt_version": "v2",
+          "translation_qa_model": "gpt-5.2-translation-qa",
+          "translation_qa_prompt_version": "v1"
+        },
+        "execution_scope": {
+          "evaluated_policy_files": [],
+          "small_scale": false,
+          "steps_executed": [
+            "translation_md"
+          ]
+        },
+        "experiment_name": "first-full-run",
+        "failures": {
+          "discrepancy_diagnosis": 0,
+          "evaluation": 0,
+          "step_failures": 1,
+          "storage": 0,
+          "translation": 0,
+          "translation_qa": 0
+        },
+        "file_counts": {
+          "translation_md": {
+            "failed": 0,
+            "skipped": 0,
+            "succeeded": 3,
+            "total": 3
+          }
+        },
+        "run_id": "RUN1",
+        "status": "completed_with_errors",
+        "timestamps": {
+          "created_at": "<ts>",
+          "updated_at": "<ts>"
+        },
+        "timing_seconds": {
+          "total": "<elapsed>",
+          "translation_md": 1.5
+        },
+        "token_usage": {
+          "translation_md": {
+            "completion_tokens": 20,
+            "prompt_tokens": 10,
+            "total_tokens": 30
+          }
+        }
+      }
+    }
+  },
+  "stderr": "Step 'md_to_text' failed: missing chunks\nFailures logged: 0 translation, 0 translation_qa, 0 storage, 0 evaluation, 0 discrepancy_diagnosis, 1 step-level → <tmp>/RUN1/failures.json\n",
+  "stdout": "Created run: RUN1\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: md_to_text\n\nPipeline finished (run_id=RUN1, status=completed_with_errors)\n"
+}

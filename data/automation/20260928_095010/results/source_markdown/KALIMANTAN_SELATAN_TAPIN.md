@@ -1,0 +1,476 @@
+# PERLINDUNGAN DAN PEMBERDAYAAN PEREMPUAN
+
+BUPATI TAPIN PROVINSI KALIMANTAN SELATAN
+
+# PERATURAN DAERAH KABUPATEN TAPIN
+
+NOMOR 02 TAHUN 2015
+
+TENTANG
+
+PERLINDUNGAN DAN PEMBERDAYAAN PEREMPUAN
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+BUPATI TAPIN.
+
+Menimbang : 
+
+a. bahwa perempuan sebagai aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi;
+
+b. bahwa selain perlindungan sebagaimana dimaksud dalam huruf a, perempuan perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;
+
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;
+
+Mengingat : 
+
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+2. Undang-Undang Nomor 8 Tahun 1965 tentang Pembentukan Daerah Tingkat II Tanah Laut, Daerah Tingkat II Tapin dan Daerah Tingkat II Tabalong (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 2756);
+
+3. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019);
+
+4. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskiriminais Terhadap Wanita (Convention On The Elimination Of All Forms Of Discriman ation Against Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);
+
+5. Undang-Undang Nomor 13 Tahun 1998 tentang Kesejahteraan Lanjut Usia (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 190, Tambahan Lembaran Negara Republik Indonesia Nomor 3796);
+
+6. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);
+
+7. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 39, Tambahan Lembaran Negara Republik Indonesia Nomor 4279);
+
+8. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);
+
+9. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720);
+
+10. Undang-Undang Nomor 11 Tahun 2009 tentang Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 12, Tambahan Lembaran Negara Republik Indonesia Nomor 4967);
+
+11. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Republik Indonesia Nomor 5234);
+
+12. Undang-Undang Nomor 19 Tahun 2011 tentang Pengesahan Convention On The Rights Of Persons With Disabilities (Konvensi Mengenai Hak Hak Penyandang Disabilitas) (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 107, Tambahan Lembaran Negara Republik Indonesia Nomor 5251);
+
+13. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah diubah dengan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 246, Tambahan Lembaran Negara Republik Indonesia Nomor 5589);
+
+14. Peraturan Pemerintah Nomor 58 Tahun 2005 tentang Pengelolaan Keuangan Daerah (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 4578);
+
+15. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang Pedoman Pembinaan dan Pengawasan Penyelenggaraan Pemerintah Daerah (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 4593);
+
+16. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan antara Pemerintah, Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 4737);
+
+17. Peraturan Bersama Menteri Negara Pemberdayaan Perempuan, Menteri dalam Negeri dan Menteri Pendidikan Nasional Nomor : 17/MEN.PP/DEP.II/VII/2005 - NOMOR 28A TAHUN 2005- NOMOR : 1/PB/2005 tentang Percepatan Pemberantasan Buta Aksara Perempuan;
+
+18. Peraturan Menteri Negara Pemberdayaan Perempuan Nomor 2 Tahun 2008 tentang Pedoman Pelaksanaan Perlindungan Perempuan;
+
+19. Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengeloaan Keuangan Daerah, sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Menteri Dalam Negeri Nomor 21 Tahun 2011 tentang Perubahan Kedua Atas Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengeloaan Keuangan Daerah;
+
+20. Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2014 tentang Pembentukan Produk Hukum Daerah;
+
+21. Peraturan Daerah Kabupaten Tapin Nomor 04 Tahun 2008 tentang Urusan Pemerintahan Daerah Kabupaten Tapin;
+
+22. Peraturan Daerah Kabupaten Tapin Nomor 05 Tahun 2008 tentang Pembentukan Organisasi dan Tata Kerja Perangkat Daerah Kabupaten Tapin, sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Daerah Kabupaten Tapin Nomor 01 Tahun 2014 tentang Perubahan Ketiga Atas Peraturan Daerah Kabupaten Tapin Nomor 05 Tahun 2008 tentang Pembentukan Organisasi dan Tata Kerja Perangkat Daerah Kabupaten Tapin;
+
+23. Peraturan Bupati Tapin Nomor 02 Tahun 2014 tentang Pedoman Pembentukan Produk Hukum Daerah di Lingkungan Pemerintah Kabupaten Tapin;
+
+Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TAPIN
+
+dan
+
+BUPATI TAPIN
+
+MEMUTUSKAN :
+
+Menetapkan : PERATURAN DAERAH TENTANG PERLINDUNGAN DAN PEMBERDAYAAN PEREMPUAN.
+
+# BAB I
+
+KETENTUAN UMUM
+
+#### Pasal 1
+
+Dalam Peraturan Daerah ini yang dimaksud dengan :
+
+1. Daerah adalah Kabupaten Tapin.
+
+2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintahan Daerah Kabupaten Tapin.
+
+3. Bupati adalah Bupati Tapin.
+
+4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disingkat DPRD adalah Dewan Perwakilan Rakyat Daerah Kabupaten Tapin.
+
+5. Badan adalah Badan Pemberdayaan Perempuan dan Keluarga Berencana Kabupaten Tapin.
+
+6. Kepala Badan adalah Kepala Badan Pemberdayaan Perempuan dan Keluarga Berencana Kabupaten Tapin.
+
+7. Gender adalah konsep yang mengacu pada peran-peran dan tanggung jawab laki-laki dan perempuan yang memiliki keseteraan sesuai dengan perkembangan dan kondisi sosial budaya masyarakat.
+
+8. Kekerasan Berbasis Gender adalah setiap tindakan penyimpangan yang disebabkan adanya ketidakseimbangan dalam relasi antara perempuan dan laki-laki yang berakibat kesengsaraan atau penderitaan perempuan termasuk anak-anak baik secara fisik, seksual dan/atau psikologis termasuk ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan secara sewenang-wenang yang terjadi di ranah privat/domestik dan di ranah publik.
+
+9. Perlindungan adalah segala upaya yang ditujukan untuk memberikan rasa aman kepada perempuan yang dilakukan oleh pihak keluarga, advokat, lembaga sosial, kepolisian, kejaksaan, pengadilan, atau pihak lainnya baik sementara maupun berdasarkan penetapan pengadilan.
+
+10. Pemberdayaan Perempuan adalah setiap upaya meningkatkan kemampuan fisik, mental spiritual, sosial, pengetahuan, dan keterampilan agar perempuan siap didayagunakan sesuai dengan kemampuan masing-masing.
+
+11. Disabilitas adalah kelainan fisik, mental dan intelektual, atau sensorik secara permanen.
+
+# BAB II 
+
+ASAS DAN TUJUAN
+
+#### Pasal 2
+
+Perlindungan dan Pemberdayaan Perempuan berasaskan pada :
+
+a. penghormatan terhadap Hak Asasi Manusia;
+
+b. keadilan dan kesetaraan gender;
+
+c. non diskriminasi; dan
+
+d. perlindungan.
+
+#### Pasal 3
+
+Tujuan Perlindungan dan Pemberdayaan Perempuan adalah untuk :
+
+a. mencegah dan menangani risiko dari kerentanan perempuan agar kelangsungan hidupnya dapat dipenuhi sesuai dengan kebutuhan dasar minimal;
+
+b. memberdayakan perempuan baik secara individual maupun kelompok, dan masyarakat yang mengalami masalah gender agar mampu memenuhi kebutuhannya secara mandiri; dan
+
+c. meningkatkan peran serta perempuan baik secara individual maupun kelompok sebagai potensi dan sumber daya dalam penyelenggaraan hidup sosial kemasyarakatan.
+
+# BAB III
+
+HAK-HAK PEREMPUAN
+
+## Bagian Kesatu
+
+Bidang Sosial Budaya
+
+#### Pasal 4
+
+(1) Setiap perempuan berhak :
+
+a. untuk hidup, mempertahankan hidup dan meningkatkan taraf kehidupannya;
+
+b. hidup tentram, aman, damai, bahagia, sejahtera lahir dan batin;
+
+c. atas lingkungan hidup yang baik dan sehat;
+
+d. hidup berkeluarga dalam ikatan perkawinan yang sah;
+
+e. memilih pekerjaan yang disukainya dan berhak pula atas syarat-syarat ketenagakerjaan yang adil;
+
+f. mendapatkan upah kerja yang adil sesuai dengan pekerjaannya yang sebanding dan sepadan dengan martabat kemanusiaannya.
+
+(2) Perkawinan yang sah hanya dapat berlangsung atas kehendak bebas dari pihak perempuan dan pihak laki-laki sesuai dengan peraturan perundang-undangan.
+
+(3) Setiap perempuan yang dalam kondisi disabilitas, usia lanjut, hamil, berhak memperoleh kemudahan dan perlakuan khusus.
+
+(4) Setiap perempuan lanjut usia, disabilitas fisik dan/atau disabilitas mental, berhak memperoleh perawatan, pendidikan, pelatihan, dan bantuan khusus atas biaya pemerintah daerah, untuk menjamin kehidupan yang layak sesuai dengan martabat kemanusiaannya.
+
+(5) Hak-hak perempuan sebagaimana dimaksud pada ayat (3) dan ayat (4) diatur dengan Peraturan Bupati.
+
+## Bagian Kedua 
+
+Bidang Politik
+
+#### Pasal 5
+
+Dalam hal politik, perempuan berhak :
+
+a. memilih dan/atau dipilih dalam pemilihan umum, pemilihan kepala daerah, pemilihan kepala desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan suara yang langsung, umum, bebas, rahasia, jujur dan adil menurut peraturan perundang-undangan yang berlaku; dan
+
+b. untuk diangkat dalam setiap jabatan pemerintahan.
+
+## BAB IV 
+
+PERLINDUNGAN PEREMPUAN
+
+#### Pasal 6
+
+(1) Perempuan mempunyai hak untuk mendapatkan perlindungan khusus dari hal-hal yang mengancam keselamatan dan/atau kesehatannya.
+
+(2) Perlindungan khusus diberikan kepada perempuan karena fungsi reproduksinya dijamin dan dilindungi oleh hukum.
+
+#### Pasal 7
+
+Perempuan korban tindak kekerasan berhak untuk mendapatkan perlindungan, informasi, pelayanan terpadu, penanganan berkelanjutan sampai tahap rehabilitasi dan penanganan secara rahasia baik dari individu, kelompok atau lembaga baik Pemerintah maupun Non Pemerintah.
+
+#### Pasal 8
+
+(1) Perempuan memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh pekerjaan.
+
+(2) Kesempatan yang sama sebagaimana dimaksud pada ayat (1) diwujudkan melalui pemenuhan hak perempuan untuk mendapatkan perlakuan yang sama dari Perusahaan.
+
+#### Pasal 9
+
+(1) Perusahaan yang menggunakan tenaga kerja perempuan, wajib memberikan perlindungan sesuai dengan peraturan perundang- undangan yang berlaku.
+
+(2) Perlindungan yang wajib diberikan oleh perusahaan kepada perempuan sebagai tenaga kerja sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
+
+#### Pasal 10
+
+(1) Pemerintah Daerah memberikan perlindungan kepada perempuan lanjut usia yang tidak mandiri, dalam keadaan disabilitas agar dapat mewujudkan dan menikmati taraf hidup yang wajar.
+
+(2) Bentuk-bentuk perlindungan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
+
+#### Pasal 11
+
+(1) Pemerintah Daerah memberikan perlindungan dan rasa nyaman serta mengupayakan pemenuhan kebutuhan dasar terhadap perempuan yang berada di daerah konflik dan/atau daerah terkena bencana.
+
+(2) Bentuk-bentuk perlindungan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
+
+#### Pasal 12
+
+Pemerintah Daerah memfasilitasi terbentuknya lembaga-lembaga perlindungan perempuan.
+
+#### Pasal 13
+
+(1) Bupati melaksanakan kebijakan, program dan kegiatan perlindungan perempuan, untuk menghapus segala bentuk diskriminasi dan tindak kekerasan terhadap perempuan di daerahnya.
+
+(2) Pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh Wakil Bupati.
+
+(3) Unit kerja yang tugas dan fungsinya menangani pemberdayaan perempuan melaksanakan kebijakan, program dan kegiatan perlindungan perempuan yang telah ditetapkan, dan dalam pelaksanaannya bekerjasama dengan Satuan Kerja Perangkat Daerah, Lembaga Masyarakat, Perguruan Tinggi, dan masyarakat madani.
+
+(4) Pelaksanaan sebagaimana dimaksud pada ayat (3) berupa : analisis kebijakan, koordinasi, advokasi, sosialisasi, komunikasi, informasi, dan edukasi (KIE), pelatihan, fasilitasi pelayanan, penyediaan pelayanan, pengembangan model, dan bentuk lainnya.
+
+(5) Pengintegrasian antara kebijakan, program dan kegiatan perlindungan perempuan ke dalam perencanaan pembangunan daerah yang dituangkan dalam dokumen perencanaan dan anggaran yang meliputi Rencana Pembangunan Jangka Panjang Daerah (RPJPD), Rencana Jangka Menengah Daerah (RPJMD), Rencana Strategis Satuan Kerja Perangkat Daerah (Renstra SKPD), Rencana Kerja Pemerintah Daerah (RKPD), dan Rencana Kerja dan Anggaran Satuan Kerja Perangkat Daerah (RKA- SKPD).
+
+(6) Pengintegrasian kebijakan, program dan kegiatan perlindungan perempuan difasilitasi unit kerja yang tugas dan fungsinya menangani pemberdayaan perempuan di daerah berkoordinasi dengan Badan Perencanaan Pembangunan Daerah.
+
+#### Pasal 14
+
+(1) Pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan di daerah dilakukan dengan membentuk, mengembangkan, memperkuat, atau memanfaatkan gugus tugas, forum, kelompok kerja atau kelembagaan lainnya.
+
+(2) Keanggotaan gugus tugas, forum, kelompok kerja, atau kelembagaan lainnya sebagaimana dimaksud pada ayat (1) terdiri dari Satuan Kerja Perangkat Daerah terkait, Lembaga Masyarakat, Perguruan Tinggi, dan masyarakat madani.
+
+(3) Pembentukan gugus tugas, forum, kelompok kerja, atau kelembagaan lainnya sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati.
+
+#### Pasal 15
+
+(1) Dalam melaksanakan kebijakan, program, dan kegiatan perlindungan perempuan, Pemerintah Daerah dapat melakukan kerjasama dengan Lembaga Internasional.
+
+(2) Kerjasama sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+#### Pasal 16
+
+Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan perempuan dengan melakukan upaya :
+
+a. koordinasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan antar Satuan Kerja Perangkat Daerah;
+
+b. kerjasama dengan Kabupaten/Kota dalam satu Provinsi, dan kerjasama antar Kabupaten/Kota di Provinsi lainnya dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan peraturan perundangundangan;
+
+c. penguatan kapasitas kelembagaan pengarusutamaan gender untuk pelaksanaan kebijakan program dan kegiatan perlindungan perempuan;
+
+d. fasilitasi pelayanan perlindungan perempuan;
+
+e. penyediaan pelayanan perlindungan perempuan;
+
+f. pelaksanaan aksi afirmasi perlindungan perempuan; dan
+
+g. penyusunan sistem pendataan perlindungan perempuan.
+
+#### Pasal 17
+
+(1) Penyediaan pelayanan perlindungan perempuan sebagaimana dimaksud dalam Pasal 16 huruf e berupa identifikasi korban, bantuan hukum, rehabilitasi medis, rehabilitasi psikososial, reintegrasi sosial, bantuan pemulangan, atau bentuk lainnya.
+
+(2) Penyediaan pelayanan perlindungan perempuan sebagaimana dimaksud pada ayat (1) diberikan bagi perempuan :
+
+a. korban kekerasan;
+
+b. korban perdagangan orang;
+
+c. daerah rawan konflik dan bencana;
+
+d. pekerja;
+
+e. lanjut usia;
+
+f. disabilitas;
+
+g. korban eksploitasi seksual;
+
+h. kepala keluarga; dan
+
+i. kelompok rentan lainnya.
+
+# BAB V 
+
+PEMBERDAYAAN PEREMPUAN
+
+#### Pasal 18
+
+(1) Guna meningkatkan kedudukan, peran, dan kualitas perempuan, serta upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa, dan bernegara, perempuan harus diberdayakan.
+
+(2) Pemberdayaan perempuan sebagaimana dimaksud pada ayat (1) diarahkan untuk memperoleh kesempatan dan hak-haknya sebagai manusia, agar mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya, pertahanan dan keamanan nasional, dan kesamaan dalam menikmati hasil pembangunan.
+
+#### Pasal 19
+
+(1) Pemerintah Daerah berkewajiban dan bertanggungjawab dalam upaya pemberdayaan perempuan.
+
+(2) Upaya pemberdayaan perempuan sebagaimana dimaksud pada ayat (1) dilakukan secara terpadu sesuai dengan peraturan perundang-undangan yang berlaku.
+
+# BAB VI
+
+PERAN SERTA MASYARAKAT
+
+#### Pasal 20
+
+(1) Masyarakat dapat berperan serta dalam penyelenggaraan perlindungan dan pemberdayan perempuan.
+
+(2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan, kelompok maupun organisasi sosial kemasyarakatan.
+
+(3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat berbentuk :
+
+a. kerjasama;
+
+b. peran aktif dalam penyusunan kebijakan; dan
+
+c. pengaduan/laporan.
+
+(4) Tata cara peran serta masyarakat sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Bupati.
+
+# BAB VII
+
+PEMANTAUAN DAN EVALUASI
+
+#### Pasal 21
+
+(1) Untuk menjamin sinergi, kesinambungan, dan efektifitas langkah-langkah secara terpadu dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan, Pemerintah Daerah melakukan pemantauan.
+
+(2) Pemantauan sebagaimana dimaksud pada ayat (1) dimaksudkan untuk mengetahui perkembangan dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan di daerah.
+
+(3) Pemantauan dilakukan secara berkala melalui koordinasi dan pemantauan langsung terhadap Satuan Kerja Perangkat Daerah yang melaksanakan kebijakan, program dan kegiatan perlindungan perempuan.
+
+(4) Pemantuan dilakukan mulai dari perencanaan sampai dengan pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan untuk tahun berjalan.
+
+#### Pasal 22
+
+(1) Evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan dilakukan setiap berakhirnya tahun anggaran.
+
+(2) Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan digunakan sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan perlindungan perempuan untuk tahun berikutnya.
+
+(3) Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+# BAB VIII 
+
+PENDANAAN
+
+#### Pasal 23
+
+(1) Pendanaan pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan di daerah bersumber dari Anggaran Pendapatan dan Belanja Daerah, dan sumber pendapatan sah lainnya yang tidak mengikat.
+
+(2) Dalam hal daerah mendapatkan bantuan pendanaan pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan dari Pemerintah dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+# BAB IX 
+
+PELAPORAN
+
+#### Pasal 24
+
+(1) Bupati menyampaikan laporan pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan didaerahnya kepada Gubernur.
+
+(2) Pelaksanaan pelaporan sebagaimana dimaksud pada ayat (1) dilakukan setiap tahun dan/atau apabila diperlukan.
+
+(3) Bentuk pelaporan sebagaiman dimaksud pada ayat (2) dilaksanakan sesuai dengan ketentuan peraturan perundang- undangan.
+
+# BAB X 
+
+KETENTUAN PENUTUP
+
+#### Pasal 25
+
+Pada saat Peraturan Daerah ini mulai berlaku, semua ketentuan yang berhubungan dengan perlindungan dan pemberdayaan perempuan sepanjang tidak bertentangan dengan Peraturan Daerah tetap berlaku.
+
+#### Pasal 26
+
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Tapin.
+
+Ditetapkan di Rantau pada tanggal 13 Januari 2015
+
+Diundangkan di Rantau pada tanggal 13 Januari 2015
+
+
+LEMBARAN DAERAH KABUPATEN TAPIN TAHUN 2015 NOMOR 02
+
+NOREG PERATURAN DAERAH KABUPATEN TAPIN PROVINSI KALIMANTAN SELATAN : (212/2014)
+
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN TAPIN 
+
+NOMOR 02 TAHUN 2015
+
+TENTANG
+
+PERLINDUNGAN DAN PEMBERDAYAAN PEREMPUAN
+
+#### I. UMUM
+
+Perempuan dalam sejarah kehidupan manusia memang berada pada kondisi yang tidak menguntungkan. Artinya dalam kehidupan sosial kemasyarakatan perempuan selalu menjadi pihak yang dinomorduakan setelah kaum pria, bahkan lebih tragis lagi sejarah perempuan dalam kehidupan sosialnya bisa dikatakan mengalami suatu kondisi sejarah yang memprihatinkan.
+
+Dalam perkembangannya, sekalipun boleh dikatakan perjuangan kaum perempuan itu cukup berhasil, namun perlu mendapatkan suatu kewaspadaan. Artinya perempuan harus senantiasa dilindungi dari tindakan-tindakan yang merugikan dirinya yang disebabkan oleh karena kondisinya yang lemah. Perempuan sebagai aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi.
+
+Selain perempuan harus dilindungi, agar pada perkembangannya semakin bisa menjaga dirinya sendiri maka perempuan harus diberdayakan. Pemberdayaan ini penting ditujukan pada kesetaraan gender yaitu suatu kondisi keseteraan bagi laki-laki dan perempuan untuk memperoleh kesempatan dan hak-haknya sebagai manusia agar mampu berperan dan berpartisipasi dalam kegiatan politik, ekonomi, sosial budaya, pertahanan dan keamanan nasional, dan kesamaan dalam menikmati hasil pembangunan.
+
+#### II. PASAL DEMI PASAL
+
+Pasal 1 Cukup jelas
+
+Pasal 2 Cukup jelas
+
+Pasal 3 Cukup jelas
+
+Pasal 4 
+
+Ayat (1) Cukup Jelas 
+
+Ayat (2) Cukup Jelas
+
+Disabilitas atau cacat merupakan kelainan pada organ tubuh makhluk hidup yang dapat bersifat fisik, kognitif, mental, sensorik, emosional, perkembangan atau beberapa kombinasi dari ini.
+
+Ayat (4) Cukup Jelas 
+
+Ayat (5) Cukup Jelas
+
+Pasal 5 Cukup jelas
+
+Pasal 7 Cukup jelas
+
+Pasal 8 Cukup jelas
+
+Pasal 9 Cukup jelas
+
+Pasal 10 Cukup jelas
+
+Pasal 11 Cukup jelas
+
+Pasal 12 Cukup jelas
+
+Pasal 13 Cukup jelas
+
+Pasal 14 Cukup jelas
+
+Pasal 15 Cukup jelas
+
+Pasal 16 Cukup jelas
+
+Pasal 17 Cukup jelas
+
+Pasal 18 Cukup jelas
+
+Pasal 19 Cukup jelas
+
+Pasal 20 Cukup jelas
+
+Pasal 21 Cukup jelas
+
+Pasal 22 Cukup jelas
+
+Pasal 23 Cukup jelas
+
+Pasal 24 Cukup jelas
+
+Pasal 25 Cukup jelas
+
+Pasal 26 Cukup jelas
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN TAPIN NOMOR 02
