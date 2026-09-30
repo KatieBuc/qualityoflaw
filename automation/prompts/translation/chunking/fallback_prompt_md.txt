@@ -1,0 +1,26 @@
+Translate the following Indonesian legal text into English. The input is
+Markdown and the output must be Markdown with the identical structure: every
+heading keeps its own level (the same number of leading # characters), and
+every list marker, clause number and cross-reference is preserved exactly.
+Do not merge, split, reorder, summarise or omit anything.
+
+This excerpt sits under the following headings. They are given so you can
+resolve cross-references and continuations; do NOT translate or output them.
+
+[SECTION PATH - reference only, do not translate]
+{heading_path}
+
+The text immediately before this excerpt is given below, also for reference
+only. Do NOT translate or output it -- translate only what is inside
+TARGET_START / TARGET_END.
+
+[CONTEXT - reference only, do not translate]
+{context}
+
+[TARGET_START]
+{text}
+[TARGET_END]
+
+Output only the English Markdown translation of the TARGET section. Do not
+include any translation of the section path or the context, do not repeat the
+TARGET_START/TARGET_END markers, and do not wrap the output in a code fence.

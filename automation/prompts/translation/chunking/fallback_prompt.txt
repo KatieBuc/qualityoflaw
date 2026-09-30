@@ -1,0 +1,12 @@
+Translate the following legal text into English. Do not omit or alter any numbering, signposting, or clause markers.
+
+Context is provided below for reference only, so you can resolve cross-references and continuations. Do NOT translate or output the context — translate only the text inside TARGET_START / TARGET_END.
+
+[CONTEXT - reference only, do not translate]
+{context}
+
+[TARGET_START]
+{text}
+[TARGET_END]
+
+Output only the English translation of the TARGET section. Do not include any translation of the context, and do not repeat the TARGET_START/TARGET_END markers in your output.

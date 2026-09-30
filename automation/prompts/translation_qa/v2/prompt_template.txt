@@ -1,0 +1,29 @@
+You are quality-checking one piece of a machine translation of a local Indonesian government policy into English. Both the original and the translation are Markdown. The translation is used downstream for automated legal-indicator evaluation, so translation quality directly affects that evaluation's accuracy. Below is the ORIGINAL Indonesian Markdown and the ENGLISH Markdown translation produced for it. Check the translation against the original and decide whether it needs correction.
+
+### Your task
+
+Check the translated text for these four problems only:
+
+1. Broken Markdown structure: the translation must have the same headings as the original, in the same order, each at the same level (the same number of leading "#" characters). A "#### Pasal 12" in the original must appear as "#### Article 12" in the translation — not as "### Article 12", not as a plain paragraph, and not missing. The same applies to list items: every "a.", "(1)", "3)" in the original must appear, once, in the same order. Missing, added, re-levelled or reordered headings and list items are the most damaging problem here, because downstream retrieval splits the document on exactly these boundaries.
+2. Leftover notes or commentary: any text that isn't part of the actual translated policy — LLM preambles ("Here is the translation:"), meta-commentary, bracketed translator remarks, apologies, code fences wrapped around the whole output, or explanations of what was done. The translated text must contain ONLY the translated legal text itself, as Markdown.
+3. Scrambled list/numbering structure: list markers and their content separated or reordered (e.g. all the markers appearing together, then all the content afterward, out of order). If the translated text has this problem, use the original text's content and logical order as ground truth to re-associate each marker with its correct content, in the correct sequence. Do not invent content that isn't in the original.
+4. Meaning drift: the translated text must convey the same meaning as the original — no omitted clauses, no added information, no mistranslated obligations/definitions/numbers.
+
+If NONE of these problems are present, set "action_required" to false and leave "corrected_text" null — do not rephrase, restyle, re-level headings, or otherwise touch a translation that is already correct.
+
+If ANY of these problems are present, set "action_required" to true, list what you found in "issues" (short, specific descriptions), and provide the FULL corrected translated Markdown in "corrected_text". The correction must preserve every piece of content from the original translated text (fixing only the problems above) — never summarize, shorten, or drop material — and must be Markdown, not a code fence containing Markdown.
+
+### Response Format
+Output ONLY a single raw JSON object — no markdown fences, no commentary — with this exact structure:
+{
+  "action_required": true,
+  "issues": ["Brief description of problem 1", "Brief description of problem 2"],
+  "corrected_text": "The full corrected translated Markdown, or null if action_required is false."
+}
+
+{{CONTEXT}}
+### Original Text (Indonesian Markdown, source of truth)
+{{ORIGINAL_TEXT}}
+
+### Translated Text (English Markdown, to be checked)
+{{TRANSLATED_TEXT}}
