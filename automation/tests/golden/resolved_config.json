@@ -59,18 +59,20 @@
   "experiment_name": "first-full-run",
   "markdown": {
     "fallback_prompt_path": "automation/prompts/translation/chunking/fallback_prompt_md.txt",
-    "prompt_path": "automation/prompts/translation/v3/prompt.txt",
+    "prompt_path": "automation/prompts/translation/global/prompt.txt",
     "qa_max_passes": 2,
     "qa_template_path": "automation/prompts/translation_qa/v2/prompt_template.txt",
     "safe_limit": 32000,
     "target_chars": 8000
   },
   "paths": {
-    "golden_csv": "data/processed/long_policy_encoding.csv",
-    "index_schema": "data/mapping/index_schema.yaml",
-    "input_dir": "data/raw/localpolicies",
-    "markdown_input_dir": "data/processed/localpolicies/cleaned_markdown",
+    "golden_csv": "data/indonesia/long_policy_encoding.csv",
+    "index_schema": "data/indonesia/mapping/index_schema.yaml",
+    "input_dir": "data/indonesia/raw",
+    "manual_overwrites": "data/indonesia/corrections/manual_overwrites.yaml",
+    "markdown_input_dir": "data/indonesia/processed/cleaned_markdown",
     "markdown_input_suffix": ".cleaned.md",
+    "project": "indonesia",
     "small_scale_stems": [
       "ACEH_BIREUEN",
       "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2",

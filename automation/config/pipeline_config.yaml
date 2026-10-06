@@ -1,5 +1,9 @@
 experiment_name: first-full-run
 
+# Active project: every data path is derived from data/<project>/ (see
+# automation/src/paths.py). Change this to run another corpus.
+project: indonesia
+
 concurrency:
   enabled: true
   max_workers: 5
@@ -81,28 +85,23 @@ discrepancy_diagnosis:
   model: gpt-5.2-diagnosis
   prompt_version: v1
 
+# Corpus-specific parameters. Folder locations are NOT set here: they come from
+# `project` above. The optional keys input_dir, markdown_input_dir, golden_csv,
+# index_schema and manual_overwrites override a derived location (repo-relative
+# or absolute) when a project needs it.
 paths:
-  # Raw OCR text: still the source of truth for discrepancy_diagnosis, and the
-  # input to the legacy raw-text translation path.
-  input_dir: data/indonesia/raw/localpolicies
-  # Curated Markdown corpus: the input to translation_md.
-  markdown_input_dir: data/indonesia/processed/cleaned_markdown
-  # markdown_input_dir: data/processed/globallaws_markdown
-  # localpolicies names files <POLICY>.cleaned.md; globallaws_markdown names
-  # them plain <name>.md, so the glob suffix needs to match. Defaults to
-  # ".cleaned.md" when omitted.
+  # localpolicies names files <POLICY>.cleaned.md; globallaws names them plain
+  # <name>.md, so the glob suffix needs to match. Defaults to ".cleaned.md".
   markdown_input_suffix: .cleaned.md
   # markdown_input_suffix: .md
   # Bare policy names (no suffix) that --small-scale selects, in every step.
-  # Belongs to the corpus, so change it together with markdown_input_dir and
+  # Belongs to the corpus, so change it together with project and
   # markdown_input_suffix. Defaults to the localpolicies set when omitted.
   small_scale_stems:
     - ACEH_BIREUEN
     - NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2
     - RIAU_PEKANBARU_KOTA
-  # small_scale_stems:  # globallaws_markdown
+  # small_scale_stems:  # globallaws
   #   - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
   #   - 94. Latvia - DomViol - Latvian (a)
   #   - 121. New Zealand - DomViol - English
-  golden_csv: data/indonesia/long_policy_encoding.csv
-  index_schema: data/indonesia/mapping/index_schema.yaml

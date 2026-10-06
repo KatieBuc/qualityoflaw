@@ -8,8 +8,6 @@ from automation.src.config_loader import (
     get_run_dir,
     resolve_results_dir,
 )
-from automation.src.constants import DEFAULT_MANUAL_OVERWRITES
-
 
 def run_comparison_step(
     run_id: str,
@@ -30,7 +28,7 @@ def run_comparison_step(
         llm_input=str(evaluation_dir),
         export_errors=export_errors,
         export_metrics=export_metrics,
-        manual_overwrites_path=str(DEFAULT_MANUAL_OVERWRITES),
+        manual_overwrites_path=str(config.paths.manual_overwrites),
         confidence_config=config.comparison_confidence,
         confidence_context={
             "run_id": run_id,

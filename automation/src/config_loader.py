@@ -11,8 +11,7 @@ from automation.src.constants import (
     AUTOMATION_ROOT,
     CHUNKING_FALLBACK_PROMPT,
     MARKDOWN_FALLBACK_PROMPT,
-    DEFAULT_DATA_ROOT,
-    DEFAULT_MARKDOWN_INPUT_DIR,
+    DEFAULT_PROJECT,
     DEFAULT_MODEL_CONFIG,
     DEFAULT_PIPELINE_CONFIG,
     DEFAULT_SMALL_SCALE_STEMS,
@@ -26,6 +25,7 @@ from automation.src.llm.confidence import (
     ConfidenceSpec,
 )
 from automation.src.llm.model_profile import ModelProfile, RerankerProfile
+from automation.src.paths import project_dirs
 
 
 @dataclass
@@ -38,7 +38,7 @@ class PipelinePaths:
     # still needs the Indonesian original as plain text, and the raw-text
     # translation path stays runnable side by side with the Markdown one.
     markdown_input_dir: Path = field(
-        default_factory=lambda: PROJECT_ROOT / DEFAULT_MARKDOWN_INPUT_DIR
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).processed_cleaned_markdown
     )
     # File suffix identifying a source document in `markdown_input_dir`
     # (glob is `*<suffix>`). The curated Indonesian corpus names files
@@ -51,6 +51,11 @@ class PipelinePaths:
     # filenames. Each step derives its own filename from the stem (`<stem>.txt`
     # for the plain-text artifacts, `<stem>.md` for the Markdown ones).
     small_scale_stems: tuple[str, ...] = DEFAULT_SMALL_SCALE_STEMS
+    project: str = DEFAULT_PROJECT
+    # Manual indicator corrections applied by the comparison step.
+    manual_overwrites: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).manual_overwrites
+    )
 
 
 @dataclass
@@ -578,7 +583,10 @@ def load_pipeline_config(
     translation_qa_cfg = pipeline_data.get("translation_qa", {})
     evaluation_cfg = pipeline_data.get("evaluation", {})
     diagnosis_cfg = pipeline_data.get("discrepancy_diagnosis", {})
-    paths_cfg = pipeline_data.get("paths", {})
+    paths_cfg = pipeline_data.get("paths") or {}
+    project = str(pipeline_data.get("project") or DEFAULT_PROJECT)
+    set_active_project(project)
+    dirs = project_dirs(project)
 
     translation_model_key = translation_cfg.get("model")
     translation_qa_model_key = translation_qa_cfg.get("model")
@@ -636,18 +644,18 @@ def load_pipeline_config(
         evaluation_template_path=evaluation_template,
         discrepancy_diagnosis_template_path=diagnosis_template,
         paths=PipelinePaths(
-            input_dir=_resolve_path(paths_cfg.get("input_dir", "data/raw/localpolicies")),
-            golden_csv=_resolve_path(
-                paths_cfg.get("golden_csv", "data/processed/long_policy_encoding.csv")
-            ),
-            index_schema=_resolve_path(
-                paths_cfg.get("index_schema", "data/mapping/index_schema.yaml")
-            ),
+            input_dir=_resolve_path(paths_cfg.get("input_dir", dirs.raw)),
+            golden_csv=_resolve_path(paths_cfg.get("golden_csv", dirs.golden_csv)),
+            index_schema=_resolve_path(paths_cfg.get("index_schema", dirs.index_schema)),
             markdown_input_dir=_resolve_path(
-                paths_cfg.get("markdown_input_dir", DEFAULT_MARKDOWN_INPUT_DIR)
+                paths_cfg.get("markdown_input_dir", dirs.processed_cleaned_markdown)
             ),
             markdown_input_suffix=str(paths_cfg.get("markdown_input_suffix", CLEANED_MD_SUFFIX)),
             small_scale_stems=parse_small_scale_stems(paths_cfg.get("small_scale_stems")),
+            project=project,
+            manual_overwrites=_resolve_path(
+                paths_cfg.get("manual_overwrites", dirs.manual_overwrites)
+            ),
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),
@@ -670,8 +678,22 @@ def load_pipeline_config(
     )
 
 
+# Runs root override. None means "derive from the active project"
+# (data/<project>/automation); tests point it at a tmp dir.
+DEFAULT_DATA_ROOT: Path | None = None
+_active_project: str = DEFAULT_PROJECT
+
+
+def set_active_project(project: str) -> None:
+    """Called by `load_pipeline_config`, so every `get_run_dir` caller follows
+    the `project:` config key without threading it through each step."""
+    global _active_project
+    _active_project = project
+
+
 def get_run_dir(run_id: str) -> Path:
-    return DEFAULT_DATA_ROOT / run_id
+    root = DEFAULT_DATA_ROOT or project_dirs(_active_project).automation
+    return root / run_id
 
 
 def results_dir(run_dir: Path, name: str) -> Path:

@@ -429,7 +429,6 @@ def _read_json(path: Path):
 @pytest.fixture
 def harness(tmp_path, monkeypatch, capsys):
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.run_pipeline.generate_run_id", lambda: RUN_ID)
     monkeypatch.setattr("automation.src.run_pipeline.AzureLLMWrapper", _FakeWrapper)
     monkeypatch.setattr("automation.src.run_pipeline.AzureEmbedder", _FakeEmbedder)

@@ -219,7 +219,6 @@ def test_azure_llm_wrapper_raises_llm_call_error_after_retries():
 
 
 def test_metadata_round_trip(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "20250101_120000"
@@ -248,7 +247,6 @@ def test_metadata_round_trip(tmp_path, monkeypatch):
 
 
 def test_generate_run_id_collision(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     with patch("automation.src.metadata.datetime") as mock_dt:
@@ -267,7 +265,6 @@ def test_requires_run_id_helpers():
 
 
 def test_validate_run_for_steps_missing_translation(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "test_run"
@@ -282,7 +279,6 @@ def test_validate_run_for_steps_missing_translation(tmp_path, monkeypatch):
 def test_validate_run_for_steps_accepts_pre_refactor_flat_layout(tmp_path, monkeypatch):
     """A run created before the results/mid_product split (flat run_dir/<name>
     layout) must still pass validation without being physically migrated."""
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "old_layout_run"
@@ -301,7 +297,6 @@ def test_validate_run_for_steps_accepts_pre_refactor_flat_layout(tmp_path, monke
 
 
 def test_validate_run_for_steps_requires_rag_store_when_retrieval_enabled(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "test_run"
@@ -317,7 +312,6 @@ def test_validate_run_for_steps_requires_rag_store_when_retrieval_enabled(tmp_pa
 
 
 def test_validate_run_for_steps_allows_comparison_when_evaluation_also_requested(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "test_run"
@@ -337,7 +331,6 @@ def test_validate_run_for_steps_allows_comparison_when_evaluation_also_requested
 
 
 def test_validate_run_for_steps_rejects_comparison_alone_without_evaluation_output(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "test_run"
@@ -351,7 +344,6 @@ def test_validate_run_for_steps_rejects_comparison_alone_without_evaluation_outp
 
 
 def test_validate_run_for_steps_skips_rag_store_when_retrieval_disabled(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "test_run"

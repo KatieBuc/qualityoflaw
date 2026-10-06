@@ -3,9 +3,10 @@ from typing import Dict, FrozenSet, List, Set
 
 import yaml
 
-from automation.src.constants import PROJECT_ROOT
+from automation.src.constants import DEFAULT_PROJECT
+from automation.src.paths import project_dirs
 
-DEFAULT_INDEX_SCHEMA_PATH = PROJECT_ROOT / "data" / "indonesia" / "mapping" / "index_schema.yaml"
+DEFAULT_INDEX_SCHEMA_PATH = project_dirs(DEFAULT_PROJECT).index_schema
 
 CRITERIA_FILES: List[str] = [
     "01_scope_of_violence.txt",

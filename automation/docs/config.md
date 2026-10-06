@@ -32,7 +32,8 @@ rerankers:
 | `evaluation` | `model`, `prompt_version`, `method` (`rag` or `sliding_window`), `confidence`, `sliding_window`, `rag` (storage batch size, retrieval: top_k, hybrid BM25, reranker, evidence verification) |
 | `comparison.confidence` | Cutoffs for `confidence_report.json` |
 | `discrepancy_diagnosis` | `model`, `prompt_version` |
-| `paths` | `input_dir`, `markdown_input_dir`, `markdown_input_suffix`, `small_scale_stems`, `golden_csv`, `index_schema` |
+| `project` | Active project; all folders derive from `data/<project>/` (`automation/src/paths.py`) |
+| `paths` | `markdown_input_suffix`, `small_scale_stems`; optional overrides `input_dir`, `markdown_input_dir`, `golden_csv`, `index_schema`, `manual_overwrites` |
 
 Notes:
 
@@ -41,10 +42,12 @@ Notes:
 - The shipped YAML is authoritative. Built-in code defaults only apply to keys you leave out, and some differ from the
   shipped values (for example `sliding_window` is 40/10 in code and 100/15 in the YAML; `qa_max_passes` is 5 in
   code and 2 in the YAML).
-- To run on a different corpus, change `markdown_input_dir`, `markdown_input_suffix` and `small_scale_stems` together
+- To run on a different corpus, change `project`, `markdown_input_suffix` and `small_scale_stems` together
   (the YAML has commented-out examples for `globallaws_markdown`).
-- `paths.index_schema` is parsed but not used: the criteria schema is loaded from
-  `data/mapping/index_schema.yaml` by `automation/src/criteria.py`.
+- `paths.index_schema` is parsed but not used: `automation/src/criteria.py` loads the schema from
+  the default project's `mapping/index_schema.yaml` at import time.
+- Static values (folder names, step lists, suffixes) live in `automation/src/constants.py`;
+  frequently changed parameters live in `pipeline_config.yaml`.
 - Override the config paths per run with `--pipeline-config` and `--model-config`.
 
 ## Confidence (`evaluation.confidence` + `comparison.confidence`)

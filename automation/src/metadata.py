@@ -10,7 +10,6 @@ from automation.src.config_loader import (
     resolve_results_dir,
     snapshot_configs,
 )
-from automation.src.constants import DEFAULT_DATA_ROOT
 
 
 def generate_run_id() -> str:

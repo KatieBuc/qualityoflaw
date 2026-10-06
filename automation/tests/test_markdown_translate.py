@@ -97,7 +97,6 @@ def make_config(tmp_path, target_chars: int, safe_limit: int = 32000):
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
     return tmp_path
 
