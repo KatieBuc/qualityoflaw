@@ -479,6 +479,7 @@ def test_main_comparison_only_with_existing_run_id(
         ["comparison"],
         retrieval_enabled=mock_config.retrieval.enabled,
         evaluation_method=mock_config.evaluation_method,
+        translation_markdown_dir=mock_config.paths.translation_markdown_dir,
     )
 
 

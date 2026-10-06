@@ -9,30 +9,23 @@ is left untouched. The differences that matter:
   (8,000), which takes a full-corpus run from ~15,300 LLM calls to ~1,100. A
   packed chunk carries its heading breadcrumb into the prompt so the model can
   still resolve cross-references when it starts mid-chapter.
-- Output is Markdown, at ``results/translation_markdown/<POLICY>.md``. The
-  plain-text artifact every downstream stage reads is produced afterwards by
-  the `md_to_text` step, which also rebuilds the per-heading retrieval chunks.
-- The input is copied to ``results/source_markdown/<POLICY>.md`` so a run
-  records exactly what it translated, even if the curated corpus moves on.
+- Output is Markdown, at ``<project>/preprocessed/translation_markdown/
+  <POLICY>.md`` (``paths.translation_markdown_dir``), next to the input in
+  ``preprocessed/cleaned_markdown``. A human may edit either folder before the
+  pair is promoted to ``processed/``. Chunks are translated and recombined in
+  memory; nothing about them is saved.
 
 Because both sides are Markdown, a translation can be checked against its
 source exactly (`chunking.check_structure`) instead of by the length-ratio
 heuristics the raw-text path has to rely on.
 """
 
-import json
 import logging
-import shutil
 import time
 from pathlib import Path
 
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import (
-    ResolvedPipelineConfig,
-    get_run_dir,
-    resolve_mid_product_dir,
-    resolve_results_dir,
-)
+from automation.src.config_loader import ResolvedPipelineConfig
 from automation.src.constants import MARKDOWN_STRUCTURE_HINT
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, format_api_error
@@ -69,43 +62,9 @@ def build_prompt(template: str, chunk: MarkdownChunk) -> str:
     )
 
 
-def translation_chunks_path(chunks_dir: Path, stem: str) -> Path:
-    return chunks_dir / f"{stem}.json"
-
-
-def _write_chunks_artifact(
-    chunks_dir: Path, stem: str, chunks: list[MarkdownChunk], translations: list[str]
-) -> None:
-    """Persist the packed translation units and their translations.
-
-    Deliberately *not* written to ``mid_product/chunks/`` -- that path holds
-    the per-heading retrieval units RAG storage reads, which `md_to_text`
-    rebuilds from the translated Markdown at a much finer granularity. These
-    packed units exist for the `translation_qa_md` step and for debugging.
-    """
-    chunks_dir.mkdir(parents=True, exist_ok=True)
-    payload = [
-        {
-            "chunk_index": chunk.chunk_index,
-            "section_id": chunk.section_id,
-            "type": chunk.type,
-            "context": chunk.context,
-            "heading_path": chunk.heading_path,
-            "text": chunk.text,
-            "translated_text": translated,
-        }
-        for chunk, translated in zip(chunks, translations)
-    ]
-    translation_chunks_path(chunks_dir, stem).write_text(
-        json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8"
-    )
-
-
 def translate_one(
     input_path: Path,
     output_path: Path,
-    source_copy_path: Path,
-    chunks_dir: Path,
     *,
     prompt_template: str,
     fallback_template: str,
@@ -118,7 +77,6 @@ def translate_one(
     if not input_path.exists():
         return TranslateResult(filename=filename, status="failed", token_usage={}, error="not found")
 
-    stem = policy_stem(input_path)
     try:
         source_md = input_path.read_text(encoding="utf-8")
         chunks = chunk_markdown(source_md, target_chars=target_chars, safe_limit=safe_limit)
@@ -134,14 +92,9 @@ def translate_one(
             for key in total_usage:
                 total_usage[key] += usage.get(key, 0)
 
-        _write_chunks_artifact(chunks_dir, stem, chunks, translations)
-
         combined = combine_translations(chunks, translations)
         output_path.parent.mkdir(parents=True, exist_ok=True)
         output_path.write_text(combined, encoding="utf-8")
-
-        source_copy_path.parent.mkdir(parents=True, exist_ok=True)
-        shutil.copyfile(input_path, source_copy_path)
 
         diff = check_structure(source_md, combined)
         if diff is not None:
@@ -201,10 +154,7 @@ def run_md_translation_step(
     across files; the chunks of one file are translated in order so a
     packed chunk's predecessor is always available for context.
     """
-    run_dir = get_run_dir(run_id)
-    output_dir = resolve_results_dir(run_dir, "translation_markdown")
-    source_dir = resolve_results_dir(run_dir, "source_markdown")
-    chunks_dir = resolve_mid_product_dir(run_dir, "translation_chunks")
+    output_dir = config.paths.translation_markdown_dir
     output_dir.mkdir(parents=True, exist_ok=True)
 
     input_dir = config.paths.markdown_input_dir
@@ -225,7 +175,7 @@ def run_md_translation_step(
     failed_files: list[dict] = []
     start = time.time()
 
-    pending: list[tuple[Path, Path, Path]] = []
+    pending: list[tuple[Path, Path]] = []
     for input_path in input_files:
         stem = policy_stem(input_path)
         output_path = output_dir / f"{stem}.md"
@@ -233,22 +183,20 @@ def run_md_translation_step(
             counts["skipped"] += 1
             logger.info("[%s] skipped (output exists)", input_path.name)
             continue
-        pending.append((input_path, output_path, source_dir / f"{stem}.md"))
+        pending.append((input_path, output_path))
 
     if pending:
         tasks = [
-            lambda inp=inp, out=out, src=src: translate_one(
+            lambda inp=inp, out=out: translate_one(
                 inp,
                 out,
-                src,
-                chunks_dir,
                 prompt_template=prompt_template,
                 fallback_template=fallback_template,
                 wrapper=wrapper,
                 target_chars=config.markdown.target_chars,
                 safe_limit=config.markdown.safe_limit,
             )
-            for inp, out, src in pending
+            for inp, out in pending
         ]
         for result in limiter.run_parallel(tasks):
             if isinstance(result, BaseException):

@@ -10,6 +10,8 @@ from automation.src.config_loader import (
     resolve_results_dir,
     snapshot_configs,
 )
+from automation.src.constants import DEFAULT_PROJECT
+from automation.src.paths import project_dirs
 
 
 def generate_run_id() -> str:
@@ -116,6 +118,7 @@ def validate_run_for_steps(
     steps: list[str],
     retrieval_enabled: bool = True,
     evaluation_method: str = "rag",
+    translation_markdown_dir: Path | None = None,
 ) -> Path:
     """Check that each requested step's prerequisite output already exists.
 
@@ -135,7 +138,9 @@ def validate_run_for_steps(
 
     markdown_steps = [s for s in ("translation_qa_md", "md_to_text") if s in steps]
     if markdown_steps and "translation_md" not in steps:
-        markdown_dir = resolve_results_dir(run_dir, "translation_markdown")
+        markdown_dir = translation_markdown_dir or project_dirs(
+            DEFAULT_PROJECT
+        ).preprocessed_translation_markdown
         if not markdown_dir.is_dir() or not list(markdown_dir.glob("*.md")):
             raise FileNotFoundError(
                 f"Translated markdown required for {', '.join(markdown_steps)}: {markdown_dir}"

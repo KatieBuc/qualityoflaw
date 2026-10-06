@@ -112,33 +112,18 @@ TRANSLATED_CHUNK = "#### Article 1\n\nContent of article one."
 @pytest.fixture
 def policy(tmp_path):
     markdown_dir = tmp_path / "translation_markdown"
-    chunks_dir = tmp_path / "translation_chunks"
+    source_dir = tmp_path / "cleaned_markdown"
     markdown_dir.mkdir()
-    chunks_dir.mkdir()
+    source_dir.mkdir()
     (markdown_dir / "ACEH_BIREUEN.md").write_text(TRANSLATED_CHUNK, encoding="utf-8")
-    (chunks_dir / "ACEH_BIREUEN.json").write_text(
-        json.dumps(
-            [
-                {
-                    "chunk_index": 0,
-                    "section_id": 0,
-                    "type": "structural",
-                    "context": None,
-                    "heading_path": [],
-                    "text": SOURCE_CHUNK,
-                    "translated_text": TRANSLATED_CHUNK,
-                }
-            ]
-        ),
-        encoding="utf-8",
-    )
-    return markdown_dir, chunks_dir
+    (source_dir / "ACEH_BIREUEN.cleaned.md").write_text(SOURCE_CHUNK, encoding="utf-8")
+    return markdown_dir, source_dir
 
 
 def test_the_report_records_passes_and_convergence(policy):
-    markdown_dir, chunks_dir = policy
+    markdown_dir, source_dir = policy
     fn = responder(fix(TRANSLATED_CHUNK + "\n"), clean())
-    result = _qa_policy_file("ACEH_BIREUEN", markdown_dir, chunks_dir, TEMPLATE, fn)
+    result = _qa_policy_file("ACEH_BIREUEN", markdown_dir, source_dir, TEMPLATE, fn)
 
     assert result.status == "succeeded"
     assert result.report["qa_passes_total"] == 2
@@ -149,19 +134,18 @@ def test_the_report_records_passes_and_convergence(policy):
 
 
 def test_an_unconverged_chunk_is_counted_not_discarded(policy):
-    markdown_dir, chunks_dir = policy
+    markdown_dir, source_dir = policy
     fn = responder(fix(TRANSLATED_CHUNK + "\n\nstill wrong"))
     result = _qa_policy_file(
-        "ACEH_BIREUEN", markdown_dir, chunks_dir, TEMPLATE, fn, max_passes=3
+        "ACEH_BIREUEN", markdown_dir, source_dir, TEMPLATE, fn, max_passes=3
     )
 
     assert result.report["chunks_not_converged"] == 1
     assert result.report["qa_passes_total"] == 3
-    # The correction still lands in both artifacts.
+    # The correction still lands in the translated Markdown.
     assert "still wrong" in (markdown_dir / "ACEH_BIREUEN.md").read_text(encoding="utf-8")
-    records = json.loads((chunks_dir / "ACEH_BIREUEN.json").read_text(encoding="utf-8"))
-    assert records[0]["qa_passes"] == 3
-    assert records[0]["qa_converged"] is False
+    assert result.report["items"][0]["passes"] == 3
+    assert result.report["items"][0]["converged"] is False
 
 
 def test_a_changed_heading_count_is_not_reported_as_a_problem(tmp_path):
@@ -180,28 +164,13 @@ def test_a_changed_heading_count_is_not_reported_as_a_problem(tmp_path):
         "#### Article 34\n\nSocial rehabilitation services as referred to in "
         "Article 28 paragraph (1) letter f, include:\na. motivation;"
     )
-    markdown_dir, chunks_dir = tmp_path / "md", tmp_path / "chunks"
+    markdown_dir, source_dir = tmp_path / "md", tmp_path / "src"
     markdown_dir.mkdir()
-    chunks_dir.mkdir()
+    source_dir.mkdir()
     (markdown_dir / "DOMPU.md").write_text(translated, encoding="utf-8")
-    (chunks_dir / "DOMPU.json").write_text(
-        json.dumps(
-            [
-                {
-                    "chunk_index": 0,
-                    "section_id": 0,
-                    "type": "structural",
-                    "context": None,
-                    "heading_path": [],
-                    "text": source,
-                    "translated_text": translated,
-                }
-            ]
-        ),
-        encoding="utf-8",
-    )
+    (source_dir / "DOMPU.cleaned.md").write_text(source, encoding="utf-8")
 
-    result = _qa_policy_file("DOMPU", markdown_dir, chunks_dir, TEMPLATE, responder(clean()))
+    result = _qa_policy_file("DOMPU", markdown_dir, source_dir, TEMPLATE, responder(clean()))
 
     # Informational only: the identity collision surfaces in the diagnostic
     # list, but the file still succeeds -- no failure, no forced correction.
@@ -211,8 +180,24 @@ def test_a_changed_heading_count_is_not_reported_as_a_problem(tmp_path):
 
 
 def test_a_lost_numbered_clause_is_reported(policy):
-    markdown_dir, chunks_dir = policy
+    markdown_dir, source_dir = policy
     fn = responder(fix("Content of article one."), clean())
-    result = _qa_policy_file("ACEH_BIREUEN", markdown_dir, chunks_dir, TEMPLATE, fn)
+    result = _qa_policy_file("ACEH_BIREUEN", markdown_dir, source_dir, TEMPLATE, fn)
 
     assert result.report["lost_clauses"] == ["Article 1"]
+
+
+def test_pair_chunks_packs_source_and_translation_together():
+    from automation.src.markdown.qa import pair_chunks
+
+    source = "# BAB I\n\n#### Pasal 1\n\nIsi satu.\n\n#### Pasal 2\n\nIsi dua."
+    translated = "# CHAPTER I\n\n#### Article 1\n\nOne.\n\n#### Article 2\n\nTwo."
+
+    one = pair_chunks(source, translated, target_chars=8000)
+    assert len(one) == 1
+    assert "Pasal 2" in one[0]["text"] and "Article 2" in one[0]["translated_text"]
+
+    many = pair_chunks(source, translated, target_chars=20)
+    assert len(many) > 1
+    assert "Article 2" in many[-1]["translated_text"]
+    assert "Pasal 2" in many[-1]["text"]

@@ -8,16 +8,18 @@ returns a full corrected version -- with four differences:
 - Each chunk is audited **repeatedly**, up to `qa_max_passes` (default 5),
   until a pass reports nothing left to fix. One rewrite rarely finishes the
   job on this corpus; see `qa_chunk`.
-- The unit of audit is the *packed* translation chunk from
-  ``mid_product/translation_chunks/``, not the per-heading retrieval chunk.
-  Those are rebuilt later by `md_to_text` from whatever this step leaves
-  behind, so corrections made here reach retrieval automatically.
+- The unit of audit is the *packed* translation chunk, not the per-heading
+  retrieval chunk. Translation no longer saves its chunks, so they are
+  rebuilt here by pairing the source and translated sections (`pair_chunks`)
+  and packing them the way translation did. Retrieval chunks are rebuilt
+  later by `md_to_text`, so corrections made here reach retrieval
+  automatically.
 - The QA prompt (``translation_qa/v2``) adds Markdown fidelity as its first
   and most important check, since heading structure is what downstream
   retrieval splits on.
-- Corrections are written back to ``results/translation_markdown/<POLICY>.md``
-  and to the chunk artifact, both atomically per file: a real API failure on
-  any chunk leaves the file's previous state entirely untouched.
+- Corrections are written back to ``translation_markdown/<POLICY>.md``,
+  atomically per file: a real API failure on any chunk leaves the file's
+  previous state entirely untouched.
 
 `qa_unit`'s retry-then-degrade behaviour is imported rather than
 reimplemented, so both paths handle a model that flags a problem but returns
@@ -42,18 +44,27 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
     get_run_dir,
-    resolve_mid_product_dir,
     resolve_results_dir,
 )
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, format_api_error
-from automation.src.markdown.chunking import MarkdownChunk, check_structure
-from automation.src.markdown.policy_files import markdown_policy_files, policy_stem
-from automation.src.markdown.translate import translation_chunks_path
+from automation.src.markdown.chunking import (
+    SECTION_JOIN,
+    TARGET_CHARS_DEFAULT,
+    MarkdownChunk,
+    align_sections,
+    check_structure,
+    parse_sections,
+)
+from automation.src.markdown.policy_files import (
+    CLEANED_MD_SUFFIX,
+    markdown_policy_files,
+    policy_stem,
+    source_markdown_path,
+)
 from automation.src.common import (
     QaFileResult,
     TranslationQaResult,
-    load_chunk_records,
     qa_unit,
 )
 
@@ -143,20 +154,79 @@ def qa_chunk(
     )
 
 
+def pair_chunks(
+    source_md: str, translated_md: str, target_chars: int = TARGET_CHARS_DEFAULT
+) -> list[dict]:
+    """Rebuild the packed (source, translation) units translation worked on.
+
+    Sections are paired with `align_sections`, then source sections are packed
+    greedily up to `target_chars`, as `pack_sections` does. A translated
+    section with no source counterpart joins the unit of the section before
+    it, so no translated text is dropped. Oversized sections are kept whole
+    (not sentence-split): translation split them, but a split cannot be
+    recovered from the translated text.
+    """
+    source = parse_sections(source_md)
+    translated = parse_sections(translated_md)
+    pairing = align_sections(source, translated)
+
+    translated_for: dict[int, list[str]] = {}
+    last = 0
+    for j, section in enumerate(translated):
+        i = pairing[j]
+        if i is None:
+            i = last
+        last = i
+        translated_for.setdefault(i, []).append(section.text)
+
+    records: list[dict] = []
+    texts: list[str] = []
+    translations: list[str] = []
+    path: list[str] = []
+
+    def flush() -> None:
+        if texts:
+            records.append(
+                {
+                    "chunk_index": 0,
+                    "section_id": len(records),
+                    "type": "structural",
+                    "context": None,
+                    "heading_path": list(path),
+                    "text": SECTION_JOIN.join(texts),
+                    "translated_text": SECTION_JOIN.join(translations),
+                }
+            )
+        texts.clear()
+        translations.clear()
+
+    for i, section in enumerate(source):
+        packed = sum(len(t) for t in texts) + len(SECTION_JOIN) * len(texts)
+        if texts and packed + len(section.text) > target_chars:
+            flush()
+        if not texts:
+            path = list(section.heading_path)
+        texts.append(section.text)
+        translations.extend(translated_for.get(i, []))
+    flush()
+    return records
+
+
 def _qa_policy_file(
     stem: str,
     markdown_dir: Path,
-    chunks_dir: Path,
+    source_dir: Path,
     template_text: str,
     complete_fn: Callable[[str], dict],
     *,
     max_passes: int = 5,
+    target_chars: int = TARGET_CHARS_DEFAULT,
+    source_suffix: str = CLEANED_MD_SUFFIX,
 ) -> QaFileResult:
-    """Audit one policy's packed chunks and rewrite both of its artifacts.
+    """Audit one policy's packed chunks and rewrite its translated Markdown.
 
     Nothing is written until every chunk's QA call has returned, so a
-    mid-file API failure can't leave the Markdown and the chunk artifact
-    disagreeing.
+    mid-file API failure leaves the previous translation untouched.
     """
     filename = f"{stem}.md"
     try:
@@ -164,12 +234,16 @@ def _qa_policy_file(
         if not translated_path.exists():
             return QaFileResult(filename=filename, status="skipped")
 
-        chunks_path = translation_chunks_path(chunks_dir, stem)
-        records = load_chunk_records(chunks_path)
-        if records is None:
-            raise FileNotFoundError(
-                f"Translation chunks not found or unusable: {chunks_path}"
-            )
+        source_path = source_markdown_path(source_dir, stem, suffix=source_suffix)
+        if not source_path.exists():
+            raise FileNotFoundError(f"Source markdown not found: {source_path}")
+        records = pair_chunks(
+            source_path.read_text(encoding="utf-8"),
+            translated_path.read_text(encoding="utf-8"),
+            target_chars,
+        )
+        if not records:
+            raise ValueError(f"No chunks could be built for {filename}")
 
         items: list[dict] = []
         corrected_translations: list[str] = []
@@ -219,21 +293,6 @@ def _qa_policy_file(
                     outcome.passes,
                 )
 
-        updated_records = [
-            {
-                **record,
-                "translated_text": text,
-                "qa_action_required": item["action_required"],
-                "qa_issues": item["issues"],
-                "qa_passes": item["passes"],
-                "qa_converged": item["converged"],
-                "qa_response_incomplete": item["response_incomplete"],
-            }
-            for record, text, item in zip(records, corrected_translations, items)
-        ]
-        chunks_path.write_text(
-            json.dumps(updated_records, indent=2, ensure_ascii=False), encoding="utf-8"
-        )
         combined = combine_translations(chunks, corrected_translations)
         translated_path.write_text(combined, encoding="utf-8")
 
@@ -310,8 +369,7 @@ def run_md_translation_qa_step(
 ) -> dict:
     """QA every translated Markdown policy in the run, one task per file."""
     run_dir = get_run_dir(run_id)
-    markdown_dir = resolve_results_dir(run_dir, "translation_markdown")
-    chunks_dir = resolve_mid_product_dir(run_dir, "translation_chunks")
+    markdown_dir = config.paths.translation_markdown_dir
     output_dir = resolve_results_dir(run_dir, "translation_qa")
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -356,10 +414,12 @@ def run_md_translation_qa_step(
             lambda s=s: _qa_policy_file(
                 s,
                 markdown_dir,
-                chunks_dir,
+                config.paths.markdown_input_dir,
                 template_text,
                 complete_fn,
                 max_passes=config.markdown.qa_max_passes,
+                target_chars=config.markdown.target_chars,
+                source_suffix=config.paths.markdown_input_suffix,
             )
             for s in pending
         ]

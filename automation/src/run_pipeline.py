@@ -655,6 +655,7 @@ def main() -> None:
                 steps,
                 retrieval_enabled=config.retrieval.enabled,
                 evaluation_method=config.evaluation_method,
+                translation_markdown_dir=config.paths.translation_markdown_dir,
             )
             print(f"Using existing run: {run_id}")
 

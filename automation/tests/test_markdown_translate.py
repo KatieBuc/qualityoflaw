@@ -69,6 +69,7 @@ def make_config(tmp_path, target_chars: int, safe_limit: int = 32000):
             golden_csv=PROJECT_ROOT / "data" / "processed" / "long_policy_encoding.csv",
             index_schema=PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml",
             markdown_input_dir=tmp_path / "markdown_input",
+            translation_markdown_dir=tmp_path / "translation_out",
         ),
         concurrency=ConcurrencyConfig(enabled=True, max_workers=2),
         chunking=ChunkingConfig(
@@ -145,7 +146,7 @@ def test_a_small_target_splits_into_one_call_per_section(corpus, tmp_path, data_
     result, wrapper, run_dir = run(config, data_root)
 
     assert wrapper.complete_text.call_count == 3
-    combined = (run_dir / "results" / "translation_markdown" / "ACEH_BIREUEN.md").read_text(
+    combined = (tmp_path / "translation_out" / "ACEH_BIREUEN.md").read_text(
         encoding="utf-8"
     )
     assert combined == "T0\n\nT1\n\nT2"
@@ -155,38 +156,18 @@ def test_output_is_named_without_the_cleaned_suffix(corpus, tmp_path, data_root)
     config = make_config(tmp_path, target_chars=8000)
     _, _, run_dir = run(config, data_root)
 
-    assert (run_dir / "results" / "translation_markdown" / "ACEH_BIREUEN.md").exists()
-    assert not list((run_dir / "results" / "translation_markdown").glob("*.cleaned.*"))
+    assert (tmp_path / "translation_out" / "ACEH_BIREUEN.md").exists()
+    assert not list((tmp_path / "translation_out").glob("*.cleaned.*"))
 
 
-def test_input_is_snapshotted_for_provenance(corpus, tmp_path, data_root):
-    config = make_config(tmp_path, target_chars=8000)
-    _, _, run_dir = run(config, data_root)
-
-    snapshot = run_dir / "results" / "source_markdown" / "ACEH_BIREUEN.md"
-    assert snapshot.read_text(encoding="utf-8") == POLICY_MD
-
-
-def test_chunk_artifact_records_packed_units_with_breadcrumbs(corpus, tmp_path, data_root):
+def test_nothing_but_the_translation_is_saved(corpus, tmp_path, data_root):
     config = make_config(tmp_path, target_chars=60)
     _, _, run_dir = run(config, data_root)
 
-    path = run_dir / "mid_product" / "translation_chunks" / "ACEH_BIREUEN.json"
-    records = json.loads(path.read_text(encoding="utf-8"))
-
-    assert len(records) == 3
-    assert [r["section_id"] for r in records] == [0, 1, 2]
-    assert all(r["translated_text"] for r in records)
-    assert records[1]["heading_path"] == ["BAB I", "KETENTUAN UMUM"]
-
-
-def test_packed_units_are_not_written_to_the_retrieval_chunks_dir(corpus, tmp_path, data_root):
-    # mid_product/chunks/ is rebuilt by md_to_text at heading granularity;
-    # translation must not pre-empt it with coarse packed units.
-    config = make_config(tmp_path, target_chars=8000)
-    _, _, run_dir = run(config, data_root)
-
-    assert not (run_dir / "mid_product" / "chunks").exists()
+    # No chunk artifact, no source snapshot, nothing under mid_product/.
+    assert not (run_dir / "mid_product").exists()
+    assert not (run_dir / "results" / "source_markdown").exists()
+    assert [p.name for p in (tmp_path / "translation_out").iterdir()] == ["ACEH_BIREUEN.md"]
 
 
 def test_existing_output_is_skipped_unless_forced(corpus, tmp_path, data_root):

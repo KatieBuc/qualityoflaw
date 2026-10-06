@@ -51,11 +51,11 @@ python -m automation.src.run_pipeline --run-id 20260928_095010 --steps evaluatio
 
 ## Steps
 
-| Step | Reads | Writes (under `data/automation/<run_id>/`) |
+| Step | Reads | Writes (under `data/<project>/automation/<run_id>/` unless noted) |
 |------|-------|-----------|
-| `translation_md` | `paths.markdown_input_dir/*<suffix>` | `results/translation_markdown/`, `results/source_markdown/`, `mid_product/translation_chunks/` |
-| `translation_qa_md` *(optional)* | the two translation outputs | rewrites them in place; `results/translation_qa/` |
-| `md_to_text` | translated + source markdown | `results/translation/*.txt`, `mid_product/chunks/` |
+| `translation_md` | `data/<project>/preprocessed/cleaned_markdown/*<suffix>` | `data/<project>/preprocessed/translation_markdown/` (no chunks saved) |
+| `translation_qa_md` *(optional)* | source + translated markdown | rewrites the translated markdown in place; `results/translation_qa/` |
+| `md_to_text` | translated + source markdown (`preprocessed/`) | `results/translation/*.txt`, `mid_product/chunks/` |
 | `storage` | `results/translation/`, `mid_product/chunks/` | `mid_product/rag_store/` (embeddings) |
 | `evaluation` | translation, RAG store, `prompts/quality_eval/` | `results/evaluation/`, `mid_product/rag_candidates/` (sliding-window method: `evaluation_sliding_window/`, `sliding_window_candidates/`) |
 | `comparison` | evaluation, golden CSV, `data/corrections/manual_overwrites.yaml` | `results/comparison/` (`metrics.csv`, `error_analysis.csv`, `confidence_report.json`, ...) |

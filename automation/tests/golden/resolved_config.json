@@ -70,14 +70,15 @@
     "index_schema": "data/indonesia/mapping/index_schema.yaml",
     "input_dir": "data/indonesia/raw",
     "manual_overwrites": "data/indonesia/corrections/manual_overwrites.yaml",
-    "markdown_input_dir": "data/indonesia/processed/cleaned_markdown",
+    "markdown_input_dir": "data/indonesia/preprocessed/cleaned_markdown",
     "markdown_input_suffix": ".cleaned.md",
     "project": "indonesia",
     "small_scale_stems": [
       "ACEH_BIREUEN",
       "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2",
       "RIAU_PEKANBARU_KOTA"
-    ]
+    ],
+    "translation_markdown_dir": "data/indonesia/preprocessed/translation_markdown"
   },
   "retrieval": {
     "enabled": true,

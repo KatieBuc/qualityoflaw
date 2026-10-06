@@ -248,8 +248,7 @@ def run_md_to_text_step(
     someone looking for one would go.
     """
     run_dir = get_run_dir(run_id)
-    md_dir = resolve_results_dir(run_dir, "translation_markdown")
-    source_dir = resolve_results_dir(run_dir, "source_markdown")
+    md_dir = config.paths.translation_markdown_dir
     text_dir = resolve_results_dir(run_dir, "translation")
     chunks_dir = resolve_mid_product_dir(run_dir, "chunks")
 
@@ -288,11 +287,9 @@ def run_md_to_text_step(
             counts["skipped"] += 1
             continue
 
-        source_path = source_dir / f"{stem}.md"
-        if not source_path.exists():
-            source_path = source_markdown_path(
-                config.paths.markdown_input_dir, stem, suffix=config.paths.markdown_input_suffix
-            )
+        source_path = source_markdown_path(
+            config.paths.markdown_input_dir, stem, suffix=config.paths.markdown_input_suffix
+        )
         if not source_path.exists():
             logger.warning(
                 "[%s] source markdown not found; retrieval chunks will carry the "

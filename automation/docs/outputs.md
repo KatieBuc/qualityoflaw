@@ -5,17 +5,13 @@ Every `run_pipeline` invocation writes a self-contained folder under `data/autom
 ## Folder layout
 
 ```
-data/automation/<run_id>/
+data/<project>/automation/<run_id>/
 ├── metadata.json              # Run summary (steps, timing, config, counts)
 ├── failures.json              # Persistent log of translation/evaluation/diagnosis failures (when present)
 ├── config/                    # Snapshot of configs used for this run
 │   ├── model_config.yaml
 │   └── pipeline_config.yaml
 ├── results/                   # Main deliverables of the pipeline
-│   ├── source_markdown/       # Copy of the .cleaned.md input, so a run records what it translated
-│   │   └── <policy>.md
-│   ├── translation_markdown/  # PRIMARY translated artifact — English Markdown, structure preserved
-│   │   └── <policy>.md
 │   ├── translation/           # English policy .txt files — plain text, read by storage/RAG/evaluation.
 │   │   │                      # Derived from translation_markdown by the `md_to_text` step.
 │   │   └── <policy>.txt
@@ -32,8 +28,6 @@ data/automation/<run_id>/
 │   ├── comparison_sliding_window/   # same as comparison/, for the sliding_window method
 │   └── diagnosis/             # Discrepancy diagnosis reports (one per policy with mismatches)
 └── mid_product/                # Intermediate artifacts consumed by later stages
-    ├── translation_chunks/     # Packed translation units (~6 per policy) + their translations, for QA
-    │   └── <policy>.json
     ├── chunks/                # Per-heading retrieval units (~77 per policy) + per-chunk translations.
     │   │                      # Rebuilt by `md_to_text`; read by RAG storage.
     │   └── <policy>.chunks.json
@@ -366,3 +360,5 @@ For each mismatched indicator, the step gathers the original Indonesian policy t
 | `diagnoses.<indicator_id>.diagnosis_status` | `ok`, `missing_from_llm_response`, or `unresolved_indicator` |
 
 A policy with any `missing_diagnoses` or `unresolved_indicators` is treated as **partial**; its report is only written if `--allow-partial` is set (otherwise it's recorded as a failure in `failures.json` and no file is written).
+
+Translated Markdown now lives beside its source in `data/<project>/preprocessed/translation_markdown/` (outside the run folder); see `automation/README.md`.

@@ -38,7 +38,13 @@ class PipelinePaths:
     # still needs the Indonesian original as plain text, and the raw-text
     # translation path stays runnable side by side with the Markdown one.
     markdown_input_dir: Path = field(
-        default_factory=lambda: project_dirs(DEFAULT_PROJECT).processed_cleaned_markdown
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).preprocessed_cleaned_markdown
+    )
+    # Where `translation_md` writes (and `translation_qa_md` / `md_to_text`
+    # read) the translated Markdown. Sits beside `markdown_input_dir` so a human
+    # can edit both before they are promoted to `processed/`.
+    translation_markdown_dir: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).preprocessed_translation_markdown
     )
     # File suffix identifying a source document in `markdown_input_dir`
     # (glob is `*<suffix>`). The curated Indonesian corpus names files
@@ -648,7 +654,12 @@ def load_pipeline_config(
             golden_csv=_resolve_path(paths_cfg.get("golden_csv", dirs.golden_csv)),
             index_schema=_resolve_path(paths_cfg.get("index_schema", dirs.index_schema)),
             markdown_input_dir=_resolve_path(
-                paths_cfg.get("markdown_input_dir", dirs.processed_cleaned_markdown)
+                paths_cfg.get("markdown_input_dir", dirs.preprocessed_cleaned_markdown)
+            ),
+            translation_markdown_dir=_resolve_path(
+                paths_cfg.get(
+                    "translation_markdown_dir", dirs.preprocessed_translation_markdown
+                )
             ),
             markdown_input_suffix=str(paths_cfg.get("markdown_input_suffix", CLEANED_MD_SUFFIX)),
             small_scale_stems=parse_small_scale_stems(paths_cfg.get("small_scale_stems")),

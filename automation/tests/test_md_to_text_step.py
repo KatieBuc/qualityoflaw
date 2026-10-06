@@ -65,17 +65,17 @@ RUN_ID = "md_run"
 @pytest.fixture
 def run_dir(tmp_path, data_root):
     run_dir = data_root / RUN_ID
-    (run_dir / "results" / "translation_markdown").mkdir(parents=True)
-    (run_dir / "results" / "source_markdown").mkdir(parents=True)
+    run_dir.mkdir(parents=True)
+    (tmp_path / "translation_out").mkdir()
+    (tmp_path / "markdown_input").mkdir()
     return run_dir
 
 
 def seed(run_dir, translated_md=TRANSLATED_MD, source_md=SOURCE_MD, stem="ACEH_BIREUEN"):
-    (run_dir / "results" / "translation_markdown" / f"{stem}.md").write_text(
-        translated_md, encoding="utf-8"
-    )
+    root = run_dir.parent
+    (root / "translation_out" / f"{stem}.md").write_text(translated_md, encoding="utf-8")
     if source_md is not None:
-        (run_dir / "results" / "source_markdown" / f"{stem}.md").write_text(
+        (root / "markdown_input" / f"{stem}.cleaned.md").write_text(
             source_md, encoding="utf-8"
         )
 
@@ -234,18 +234,6 @@ def test_drift_still_leaves_storage_a_usable_artifact(tmp_path, data_root, run_d
 
     path = run_dir / "mid_product" / "chunks" / "ACEH_BIREUEN.chunks.json"
     assert _load_translation_chunks(path) is not None
-
-
-def test_falls_back_to_the_corpus_when_no_snapshot_exists(tmp_path, data_root, run_dir):
-    seed(run_dir, source_md=None)
-    config = make_config(tmp_path, target_chars=8000)
-    config.paths.markdown_input_dir.mkdir(parents=True, exist_ok=True)
-    (config.paths.markdown_input_dir / "ACEH_BIREUEN.cleaned.md").write_text(
-        SOURCE_MD, encoding="utf-8"
-    )
-
-    run_md_to_text_step(RUN_ID, config)
-    assert "Pasal 2" in chunks_of(run_dir)[1]["text"]
 
 
 def test_existing_output_is_skipped_unless_forced(tmp_path, data_root, run_dir):
