@@ -58,7 +58,7 @@ python -m automation.src.run_pipeline --run-id 20260928_095010 --steps evaluatio
 | `md_to_text` | translated + source markdown (`preprocessed/`) | `results/translation/*.txt`, `mid_product/chunks/` |
 | `storage` | `results/translation/`, `mid_product/chunks/` | `mid_product/rag_store/` (embeddings) |
 | `evaluation` | translation, RAG store, `prompts/quality_eval/` | `results/evaluation/`, `mid_product/rag_candidates/` (sliding-window method: `evaluation_sliding_window/`, `sliding_window_candidates/`) |
-| `comparison` | evaluation, golden CSV, `data/corrections/manual_overwrites.yaml` | `results/comparison/` (`metrics.csv`, `error_analysis.csv`, `confidence_report.json`, ...) |
+| `comparison` *(optional, not in the default chain)* | evaluation, golden CSV, `data/<project>/corrections/manual_overwrites.yaml` | `results/comparison/` (`metrics.csv`, `error_analysis.csv`, `confidence_report.json`, ...) |
 | `discrepancy_diagnosis` *(optional)* | comparison, evaluation, RAG candidates, raw text | `results/diagnosis/` |
 
 A failed step stops the pipeline; the error is printed and logged in `failures.json`. Each run also has

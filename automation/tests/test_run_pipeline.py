@@ -358,7 +358,7 @@ def test_main_full_pipeline_small_scale_without_run_id(
     mock_to_text.assert_called_once()
     mock_storage.assert_called_once()
     mock_eval.assert_called_once()
-    mock_compare.assert_called_once()
+    mock_compare.assert_not_called()  # comparison is optional now
     # translation_qa_md and discrepancy_diagnosis are valid --steps but not
     # part of the default chain, so the default run must not invoke them.
     mock_translation_qa.assert_not_called()
@@ -417,7 +417,7 @@ def test_main_full_pipeline_without_small_scale_passes_false(
     mock_to_text.assert_called_once()
     mock_storage.assert_called_once()
     mock_eval.assert_called_once()
-    mock_compare.assert_called_once()
+    mock_compare.assert_not_called()  # comparison is optional now
     mock_translation_qa.assert_not_called()
     mock_diagnose.assert_not_called()
     assert mock_translate.call_args.kwargs["small_scale"] is False

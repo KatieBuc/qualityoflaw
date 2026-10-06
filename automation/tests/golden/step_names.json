@@ -3,11 +3,11 @@
     "translation_md",
     "md_to_text",
     "storage",
-    "evaluation",
-    "comparison"
+    "evaluation"
   ],
   "optional": [
     "translation_qa_md",
+    "comparison",
     "discrepancy_diagnosis"
   ],
   "valid": [
@@ -15,8 +15,8 @@
     "md_to_text",
     "storage",
     "evaluation",
-    "comparison",
     "translation_qa_md",
+    "comparison",
     "discrepancy_diagnosis",
     "translation",
     "translation_qa",
