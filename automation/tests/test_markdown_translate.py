@@ -70,6 +70,8 @@ def make_config(tmp_path, target_chars: int, safe_limit: int = 32000):
             index_schema=PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml",
             markdown_input_dir=tmp_path / "markdown_input",
             translation_markdown_dir=tmp_path / "translation_out",
+            processed_cleaned_markdown_dir=tmp_path / "markdown_input",
+            processed_translation_markdown_dir=tmp_path / "translation_out",
         ),
         concurrency=ConcurrencyConfig(enabled=True, max_workers=2),
         chunking=ChunkingConfig(

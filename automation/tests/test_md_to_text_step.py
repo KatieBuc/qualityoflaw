@@ -136,67 +136,64 @@ def test_source_and_translation_are_paired_when_structure_holds(tmp_path, data_r
     assert "Article 2" in records[1]["translated_text"]
 
 
-def test_a_lost_clause_is_logged_but_not_a_failure(tmp_path, data_root, run_dir):
-    # A genuine lost clause is informational only, same as any other
-    # structure change: `_clause_identity` no longer defends against every
-    # OCR artifact, and future amendment-style policies can legitimately
-    # have non-continuous or repeated numbering, so a clause-identity
-    # mismatch alone is no longer trusted as proof of real content loss.
+def failure_entry(run_dir):
+    return json.loads((run_dir / "failures.json").read_text(encoding="utf-8"))["translation"][0]
+
+
+def test_a_dropped_heading_fails_validation_and_writes_nothing(tmp_path, data_root, run_dir):
+    # Stage 4 gate: heading count and hierarchy must match between the pair.
     seed(run_dir, translated_md=TRANSLATED_MD.replace("#### Article 2\n\n", ""))
     result = run_md_to_text_step(RUN_ID, make_config(tmp_path, target_chars=8000))
 
-    assert result["counts"]["succeeded"] == 1
-    assert result["counts"]["clauses_lost"] == 0
-    assert result["counts"]["repaired"] == 1
+    assert result["counts"]["failed"] == 1
+    assert result["counts"]["succeeded"] == 0
+    assert not (run_dir / "results" / "translation" / "ACEH_BIREUEN.txt").exists()
+    assert not (run_dir / "mid_product" / "chunks" / "ACEH_BIREUEN.chunks.json").exists()
 
-    # The clause is gone, but the sections around it still pair by clause
-    # anchor -- Article 3 to Pasal 3, not to Pasal 2.
-    records = chunks_of(run_dir)
-    assert records[0]["text"].startswith("BAB I")
-    assert "Pasal 3" in records[-1]["text"]
-    assert all(r["translated_text"] for r in records)
-
-    assert not (run_dir / "failures.json").exists()
+    entry = failure_entry(run_dir)
+    assert entry["filename"] == "ACEH_BIREUEN.txt"
+    assert entry["error_type"] == "HeaderMismatch"
+    assert entry["details"]["source_headings"] == 6
+    assert entry["details"]["translated_headings"] == 5
 
 
-def test_a_translation_only_section_is_reported_but_not_a_lost_clause(tmp_path, data_root, run_dir):
-    # The translation gains a section the source has no counterpart for: not a
-    # content defect, but its original-language text is missing, so it is
-    # recorded as an advisory and counted.
+def test_an_added_heading_fails_validation(tmp_path, data_root, run_dir):
     seed(
         run_dir,
         translated_md=TRANSLATED_MD + "\n#### Article 9\n\nAn added provision.\n",
     )
     result = run_md_to_text_step(RUN_ID, make_config(tmp_path, target_chars=8000))
 
-    assert result["counts"]["clauses_lost"] == 0
-    assert result["counts"]["source_unaligned"] == 1
-
-    records = chunks_of(run_dir)
-    assert records[-1]["text"] == ""
-    assert records[-1]["translated_text"].startswith("Article 9")
-
-    entry = json.loads((run_dir / "failures.json").read_text(encoding="utf-8"))["translation"][0]
-    assert entry["filename"] == "ACEH_BIREUEN.txt"
-    assert entry["error_type"] == "SourceAlignmentPartial"
-    assert entry["details"] == {"step": "md_to_text", "unpaired": 1, "total": 4}
+    assert result["counts"]["failed"] == 1
+    assert failure_entry(run_dir)["error_type"] == "HeaderMismatch"
 
 
-def test_repairing_an_ocr_artifact_is_not_a_failure(tmp_path, data_root, run_dir):
-    # The corpus promotes cross-reference text to headings; a good
-    # translation demotes it back. Observed in DOMPU as
-    # "#### Pasal 28 ayat (1) huruf f, meliputi:". No clause is lost, so
-    # this must not be recorded as a translation failure.
-    source = SOURCE_MD.replace(
-        "Isi pasal satu selesai.",
-        "Isi pasal satu selesai.\n\n#### Pasal 1 ayat (1) huruf f, meliputi:",
-    )
-    seed(run_dir, source_md=source)
+def test_a_different_heading_level_fails_validation(tmp_path, data_root, run_dir):
+    seed(run_dir, translated_md=TRANSLATED_MD.replace("#### Article 2", "### Article 2"))
     result = run_md_to_text_step(RUN_ID, make_config(tmp_path, target_chars=8000))
 
-    assert result["counts"]["clauses_lost"] == 0
-    assert result["counts"]["repaired"] == 1
-    assert not (run_dir / "failures.json").exists()
+    assert result["counts"]["failed"] == 1
+    assert "hierarchy" in failure_entry(run_dir)["message"]
+
+
+def test_a_missing_source_file_fails_validation(tmp_path, data_root, run_dir):
+    seed(run_dir, source_md=None)
+    result = run_md_to_text_step(RUN_ID, make_config(tmp_path, target_chars=8000))
+
+    assert result["counts"]["failed"] == 1
+    assert "no source file" in failure_entry(run_dir)["message"]
+
+
+def test_a_failed_file_removes_its_stale_outputs(tmp_path, data_root, run_dir):
+    config = make_config(tmp_path, target_chars=8000)
+    seed(run_dir)
+    run_md_to_text_step(RUN_ID, config)
+    text_path = run_dir / "results" / "translation" / "ACEH_BIREUEN.txt"
+    assert text_path.exists()
+
+    seed(run_dir, translated_md=TRANSLATED_MD.replace("#### Article 2\n\n", ""))
+    run_md_to_text_step(RUN_ID, config, force=True)
+    assert not text_path.exists()
 
 
 def test_recovering_a_broken_heading_is_not_a_failure(tmp_path, data_root, run_dir):
@@ -211,8 +208,7 @@ def test_recovering_a_broken_heading_is_not_a_failure(tmp_path, data_root, run_d
 
 
 def test_a_resolved_failure_is_cleared_on_re_run(tmp_path, data_root, run_dir):
-    # SourceAlignmentPartial (unlike a lost clause) is still a recorded
-    # failure -- exercise clearing against that.
+    # A header mismatch is a recorded failure; fixing the file clears it.
     config = make_config(tmp_path, target_chars=8000)
     seed(
         run_dir,
@@ -226,14 +222,6 @@ def test_a_resolved_failure_is_cleared_on_re_run(tmp_path, data_root, run_dir):
 
     # failure_log deletes the file once nothing is left in it.
     assert not (run_dir / "failures.json").exists()
-
-
-def test_drift_still_leaves_storage_a_usable_artifact(tmp_path, data_root, run_dir):
-    seed(run_dir, translated_md=TRANSLATED_MD.replace("#### Article 2\n\n", ""))
-    run_md_to_text_step(RUN_ID, make_config(tmp_path, target_chars=8000))
-
-    path = run_dir / "mid_product" / "chunks" / "ACEH_BIREUEN.chunks.json"
-    assert _load_translation_chunks(path) is not None
 
 
 def test_existing_output_is_skipped_unless_forced(tmp_path, data_root, run_dir):

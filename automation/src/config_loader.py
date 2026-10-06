@@ -46,6 +46,14 @@ class PipelinePaths:
     translation_markdown_dir: Path = field(
         default_factory=lambda: project_dirs(DEFAULT_PROJECT).preprocessed_translation_markdown
     )
+    # Stage 4 (evaluation) reads the validated pair from `processed/`, after
+    # the human-adjustment stage and `markdown.validate --promote`.
+    processed_cleaned_markdown_dir: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).processed_cleaned_markdown
+    )
+    processed_translation_markdown_dir: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).processed_translation_markdown
+    )
     # File suffix identifying a source document in `markdown_input_dir`
     # (glob is `*<suffix>`). The curated Indonesian corpus names files
     # `<POLICY>.cleaned.md`; a differently-named corpus (e.g. one with plain
@@ -659,6 +667,14 @@ def load_pipeline_config(
             translation_markdown_dir=_resolve_path(
                 paths_cfg.get(
                     "translation_markdown_dir", dirs.preprocessed_translation_markdown
+                )
+            ),
+            processed_cleaned_markdown_dir=_resolve_path(
+                paths_cfg.get("processed_cleaned_markdown_dir", dirs.processed_cleaned_markdown)
+            ),
+            processed_translation_markdown_dir=_resolve_path(
+                paths_cfg.get(
+                    "processed_translation_markdown_dir", dirs.processed_translation_markdown
                 )
             ),
             markdown_input_suffix=str(paths_cfg.get("markdown_input_suffix", CLEANED_MD_SUFFIX)),

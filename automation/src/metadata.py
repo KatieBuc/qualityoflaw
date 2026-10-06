@@ -119,6 +119,7 @@ def validate_run_for_steps(
     retrieval_enabled: bool = True,
     evaluation_method: str = "rag",
     translation_markdown_dir: Path | None = None,
+    processed_translation_markdown_dir: Path | None = None,
 ) -> Path:
     """Check that each requested step's prerequisite output already exists.
 
@@ -136,14 +137,19 @@ def validate_run_for_steps(
     # later step's prerequisite when it runs in the same invocation.
     produces_translation_text = "translation" in steps or "md_to_text" in steps
 
-    markdown_steps = [s for s in ("translation_qa_md", "md_to_text") if s in steps]
-    if markdown_steps and "translation_md" not in steps:
-        markdown_dir = translation_markdown_dir or project_dirs(
-            DEFAULT_PROJECT
-        ).preprocessed_translation_markdown
+    default_dirs = project_dirs(DEFAULT_PROJECT)
+    # (step, folder it reads): QA works on the editable preprocessed copy,
+    # md_to_text on the validated processed one.
+    markdown_needs = [
+        ("translation_qa_md", translation_markdown_dir or default_dirs.preprocessed_translation_markdown),
+        ("md_to_text", processed_translation_markdown_dir or default_dirs.processed_translation_markdown),
+    ]
+    for step, markdown_dir in markdown_needs:
+        if step not in steps or (step == "translation_qa_md" and "translation_md" in steps):
+            continue
         if not markdown_dir.is_dir() or not list(markdown_dir.glob("*.md")):
             raise FileNotFoundError(
-                f"Translated markdown required for {', '.join(markdown_steps)}: {markdown_dir}"
+                f"Translated markdown required for {step}: {markdown_dir}"
             )
 
     if "translation_qa" in steps and "translation" not in steps:
