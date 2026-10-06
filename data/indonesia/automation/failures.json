@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:53:59.604182+00:00",
+  "updated_at": "2026-10-06T03:49:21.703818+00:00",
   "translation": [
     {
       "filename": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
@@ -17,22 +17,7 @@
   ],
   "translation_qa": [],
   "storage": [],
-  "evaluation": [
-    {
-      "policy_file": "KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt",
-      "failed_dimensions": [
-        "01_scope_of_violence.txt"
-      ],
-      "errors": [
-        "01_scope_of_violence.txt: Connection error."
-      ],
-      "error_type": "EvaluationError",
-      "message": "01_scope_of_violence.txt: Connection error.",
-      "details": {},
-      "attempts": 1,
-      "at": "2026-09-28T15:53:59.604150+00:00"
-    }
-  ],
+  "evaluation": [],
   "discrepancy_diagnosis": [],
   "step_failures": []
 }

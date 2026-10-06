@@ -84,25 +84,25 @@ discrepancy_diagnosis:
 paths:
   # Raw OCR text: still the source of truth for discrepancy_diagnosis, and the
   # input to the legacy raw-text translation path.
-  input_dir: data/raw/localpolicies
+  input_dir: data/indonesia/raw/localpolicies
   # Curated Markdown corpus: the input to translation_md.
-  # markdown_input_dir: data/processed/localpolicies/cleaned_markdown
-  markdown_input_dir: data/processed/globallaws_markdown
+  markdown_input_dir: data/indonesia/processed/cleaned_markdown
+  # markdown_input_dir: data/processed/globallaws_markdown
   # localpolicies names files <POLICY>.cleaned.md; globallaws_markdown names
   # them plain <name>.md, so the glob suffix needs to match. Defaults to
   # ".cleaned.md" when omitted.
-  # markdown_input_suffix: .cleaned.md
-  markdown_input_suffix: .md
+  markdown_input_suffix: .cleaned.md
+  # markdown_input_suffix: .md
   # Bare policy names (no suffix) that --small-scale selects, in every step.
   # Belongs to the corpus, so change it together with markdown_input_dir and
   # markdown_input_suffix. Defaults to the localpolicies set when omitted.
-  # small_scale_stems:
-  #   - ACEH_BIREUEN
-  #   - NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2
-  #   - RIAU_PEKANBARU_KOTA
-  small_scale_stems:  # globallaws_markdown
-    - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
-    - 94. Latvia - DomViol - Latvian (a)
-    - 121. New Zealand - DomViol - English
-  golden_csv: data/processed/long_policy_encoding.csv
-  index_schema: data/mapping/index_schema.yaml
+  small_scale_stems:
+    - ACEH_BIREUEN
+    - NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2
+    - RIAU_PEKANBARU_KOTA
+  # small_scale_stems:  # globallaws_markdown
+  #   - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
+  #   - 94. Latvia - DomViol - Latvian (a)
+  #   - 121. New Zealand - DomViol - English
+  golden_csv: data/indonesia/long_policy_encoding.csv
+  index_schema: data/indonesia/mapping/index_schema.yaml

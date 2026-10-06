@@ -1,10 +1,10 @@
 {
   "run_id": "20260928_095010",
   "experiment_name": "first-full-run",
-  "status": "completed_with_errors",
+  "status": "completed",
   "timestamps": {
     "created_at": "2026-09-28T09:50:10.297379+00:00",
-    "updated_at": "2026-09-28T15:54:05.355949+00:00"
+    "updated_at": "2026-10-06T03:49:21.764921+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -156,6 +156,7 @@
       "KALIMANTAN_SELATAN_BALANGAN.txt",
       "KALIMANTAN_SELATAN_BARITO_KUALA.txt",
       "KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt",
+      "KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt",
       "KALIMANTAN_SELATAN_KOTABARU.txt",
       "KALIMANTAN_SELATAN_TABALONG.txt",
       "KALIMANTAN_SELATAN_TANAH_BUMBU.txt",
@@ -284,17 +285,17 @@
     },
     "evaluation": {
       "total": 198,
-      "succeeded": 197,
-      "failed": 1,
-      "skipped": 0,
-      "saved_reports": 197
+      "succeeded": 0,
+      "failed": 0,
+      "skipped": 198,
+      "saved_reports": 0
     }
   },
   "failures": {
     "translation": 1,
     "translation_qa": 0,
     "storage": 0,
-    "evaluation": 1,
+    "evaluation": 0,
     "discrepancy_diagnosis": 0,
     "step_failures": 0
   },
@@ -305,17 +306,17 @@
       "total_tokens": 0
     },
     "evaluation": {
-      "prompt_tokens": 87784139,
-      "completion_tokens": 936370,
-      "total_tokens": 88720509
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
     }
   },
   "timing_seconds": {
-    "translation_md": 0.04,
-    "md_to_text": 0.02,
+    "translation_md": 0.05,
+    "md_to_text": 0.03,
     "storage": 0.04,
-    "evaluation": 9260.29,
-    "comparison": 4.12,
-    "total": 9265.8
+    "evaluation": 0.0,
+    "comparison": 0.83,
+    "total": 16.69
   }
 }

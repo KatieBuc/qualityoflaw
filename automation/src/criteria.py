@@ -5,7 +5,7 @@ import yaml
 
 from automation.src.constants import PROJECT_ROOT
 
-DEFAULT_INDEX_SCHEMA_PATH = PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml"
+DEFAULT_INDEX_SCHEMA_PATH = PROJECT_ROOT / "data" / "indonesia" / "mapping" / "index_schema.yaml"
 
 CRITERIA_FILES: List[str] = [
     "01_scope_of_violence.txt",
