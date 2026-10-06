@@ -79,3 +79,10 @@ def test_validate_alignment_requires_exact_coverage():
     assert validate_alignment(u, [[[0], [0]], [[1], [1]]]) == []
     assert validate_alignment(u, [[[0], [0]]]) != []
     assert validate_alignment(u, [[[0, 0], [0]], [[1], [1]]]) != []
+
+
+def test_validate_alignment_accepts_many_to_many_and_rejects_crossing():
+    u = unit(4, 3)
+    assert validate_alignment(u, [[[0, 1], [0]], [[2, 3], [1, 2]]]) == []
+    assert any("order" in p for p in validate_alignment(u, [[[2, 3], [0]], [[0, 1], [1, 2]]]))
+    assert any("non-contiguous" in p for p in validate_alignment(u, [[[0, 2], [0]], [[1, 3], [1, 2]]]))

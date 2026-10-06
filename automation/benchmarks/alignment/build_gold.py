@@ -42,7 +42,7 @@ BENCH_DIR = Path(__file__).resolve().parent / "data"
 DRAFT_PROMPT = """You are building a gold standard for sentence alignment between an Indonesian legal text and its English translation.
 
 Align the sentences. Output a list of "beads"; each bead links some Indonesian sentence indices to some English sentence indices that express the same content.
-- Most beads are 1-1. Use 1-2 / 2-1 when the translation split or merged sentences.
+- Most beads are 1-1, but use one-to-many (1-2, 1-3), many-to-one (2-1, 3-1) and many-to-many (2-2, 2-3, ...) beads whenever sentences were split, merged or re-segmented across a boundary. Do not force 1-1 where the content does not line up sentence by sentence.
 - A sentence with no counterpart gets a bead with an empty list on the other side.
 - Every Indonesian index and every English index must appear in exactly one bead.
 - Beads must be in document order, and indices within a bead must be contiguous.
@@ -77,6 +77,19 @@ def validate_alignment(unit: Unit, beads: list[list[list[int]]]) -> list[str]:
         problems.append("source indices are not covered exactly once")
     if tgt_seen != list(range(len(unit.tgt))):
         problems.append("target indices are not covered exactly once")
+    # Beads must be in document order and each side contiguous (this is what
+    # monotonic aligners such as Bertalign and Vecalign can express).
+    last_src = last_tgt = -1
+    for src, tgt in beads:
+        for side, last_name in ((src, "src"), (tgt, "tgt")):
+            if side and side != list(range(side[0], side[-1] + 1)):
+                problems.append(f"non-contiguous {last_name} indices {side}")
+        if src and src[0] <= last_src:
+            problems.append("beads are not in source order")
+        if tgt and tgt[0] <= last_tgt:
+            problems.append("beads are not in target order")
+        last_src = max(last_src, src[-1]) if src else last_src
+        last_tgt = max(last_tgt, tgt[-1]) if tgt else last_tgt
     return problems
 
 
