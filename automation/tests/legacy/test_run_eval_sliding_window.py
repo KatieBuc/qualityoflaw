@@ -1,7 +1,7 @@
 from pathlib import Path
 
 from automation.src.rag.retriever import RetrievedChunk
-from automation.src.run_eval_sliding_window import (
+from automation.src.legacy.run_eval_sliding_window import (
     _evaluate_dimension_sliding_window,
     _merge_window_results,
     _resolve_window_evidence,

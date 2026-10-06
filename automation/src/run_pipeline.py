@@ -44,7 +44,7 @@ from automation.src.metadata import (
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
-from automation.src.run_eval_sliding_window import run_sliding_window_evaluation_step
+from automation.src.legacy.run_eval_sliding_window import run_sliding_window_evaluation_step
 
 
 def parse_steps(steps_arg: str | None) -> list[str]:

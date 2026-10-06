@@ -1,6 +1,6 @@
 import pytest
 
-from automation.src.sliding_window.windowing import split_into_windows
+from automation.src.legacy.sliding_window.windowing import split_into_windows
 
 
 def _sentences(n: int) -> list[str]:
@@ -17,7 +17,7 @@ def fake_split_sentences(monkeypatch):
             return []
         return [s.strip() for s in text.split("|") if s.strip()]
 
-    monkeypatch.setattr("automation.src.sliding_window.windowing.split_sentences", fake)
+    monkeypatch.setattr("automation.src.legacy.sliding_window.windowing.split_sentences", fake)
 
 
 def test_empty_text_returns_no_windows():

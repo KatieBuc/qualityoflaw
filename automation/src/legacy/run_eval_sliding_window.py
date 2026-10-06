@@ -44,12 +44,12 @@ from automation.src.run_eval import (
     _process_policy_result,
     response_model_for,
 )
-from automation.src.sliding_window.prompt_builder import (
+from automation.src.legacy.sliding_window.prompt_builder import (
     build_window_lookup,
     format_criteria_list,
     format_window_sentences,
 )
-from automation.src.sliding_window.windowing import split_into_windows
+from automation.src.legacy.sliding_window.windowing import split_into_windows
 
 logger = logging.getLogger(__name__)
 

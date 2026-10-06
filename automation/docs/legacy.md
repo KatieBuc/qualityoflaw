@@ -98,3 +98,9 @@ translation:
 Chunking is disabled by default — existing runs are unaffected unless `enabled: true` is set.
 
 When chunking is enabled, `mid_product/chunks/<policy>.chunks.json` is also always written — the chunk list (section 2 output): `chunk_index`, `section_id`, `type` (`structural`/`fallback`), `context`, `text`, `translated_text`, in translation order. The RAG storage step reuses it instead of re-chunking the merged English output.
+
+## Sliding-window evaluation
+
+The sliding-window evaluation method (`evaluation.method: sliding_window`) is deprecated. Its
+code lives in `automation/src/legacy/` (`run_eval_sliding_window.py`, `sliding_window/`) and its
+tests in `automation/tests/legacy/`. RAG is the default; translation is chunk-and-combine only.
