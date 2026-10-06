@@ -20,7 +20,10 @@ Bead = tuple[tuple[int, ...], tuple[int, ...]]
 
 def normalize(beads: Iterable[Iterable]) -> set[Bead]:
     """Accept lists/tuples of (src, tgt) index lists and return a bead set."""
-    return {(tuple(sorted(src)), tuple(sorted(tgt))) for src, tgt in beads}
+    return {
+        (tuple(sorted(int(i) for i in src)), tuple(sorted(int(i) for i in tgt)))
+        for src, tgt in beads
+    }
 
 
 def bead_type(bead: Bead) -> str:

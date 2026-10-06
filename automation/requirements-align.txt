@@ -1,0 +1,4 @@
+bertalign>=2.0.1
+# Vecalign is not on PyPI; it builds a Cython extension (needs a C compiler):
+#   pip install git+https://github.com/thompsonb/vecalign
+sentence-transformers
