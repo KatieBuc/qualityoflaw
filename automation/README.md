@@ -114,3 +114,15 @@ pytest
 - [outputs.md](automation/docs/outputs.md): every file a run writes, with schemas
 - [config.md](automation/docs/config.md): configuration reference
 - [legacy.md](automation/docs/legacy.md): the raw-text path
+
+## Stage 3: human adjustment and promotion
+
+Edit anything in `data/<project>/preprocessed/`, keeping the Markdown headers of each
+`cleaned_markdown` / `translation_markdown` pair identical in count and level. Then:
+
+```bash
+python -m automation.src.markdown.validate --project indonesia            # check only
+python -m automation.src.markdown.validate --project indonesia --promote  # check, then move to processed/
+```
+
+Nothing is moved unless every pair passes.
