@@ -362,3 +362,5 @@ For each mismatched indicator, the step gathers the original Indonesian policy t
 A policy with any `missing_diagnoses` or `unresolved_indicators` is treated as **partial**; its report is only written if `--allow-partial` is set (otherwise it's recorded as a failure in `failures.json` and no file is written).
 
 Translated Markdown now lives beside its source in `data/<project>/preprocessed/translation_markdown/` (outside the run folder); see `automation/README.md`.
+
+Default evaluation reports now carry the simplified core per indicator: `included` (Answer), `evidence` (Translated Evidence), `evidence_original` (Source Evidence), `rationale` and `confidence` (verbalized). Token-probability fields (`answer_logprob`, `p_yes`, `margin`, ...) appear only when `evaluation.confidence.methods` includes `logprobs` or `margin`.

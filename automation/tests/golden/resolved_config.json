@@ -29,11 +29,9 @@
   "confidence": {
     "enabled": true,
     "methods": [
-      "logprobs",
-      "verbalized",
-      "margin"
+      "verbalized"
     ],
-    "primary": "margin",
+    "primary": "verbalized",
     "top_logprobs": 5
   },
   "discrepancy_diagnosis_model": {

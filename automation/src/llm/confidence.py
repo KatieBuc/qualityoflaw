@@ -142,6 +142,8 @@ def attach_confidence(
     Items the extractor could not align still get the full field set, with
     nulls and a `confidence_source` saying why, so the comparison step never
     has to guess whether a missing key means "no signal" or "old report".
+    When no logprob-based method is enabled, the token-probability fields
+    (`answer_logprob`, `p_yes`, `p_no`, `margin`, ...) are omitted entirely.
     """
     by_id = {confidence.indicator_id: confidence for confidence in confidences}
 
@@ -169,6 +171,10 @@ def attach_confidence(
         item["confidence"] = primary
         item["confidence_source"] = source
         item["confidence_scores"] = scores.values
+        if not spec.needs_logprobs:
+            # Verbalized-only (the default report): no token-probability
+            # fields to carry, keep the evaluation report to its core content.
+            continue
         item["answer_logprob"] = scores.logprob
         item["p_yes"] = scores.p_yes
         item["p_no"] = scores.p_no

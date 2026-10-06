@@ -44,8 +44,8 @@ evaluation:
   # Deployments that reject logprobs degrade to confidence: null, with one warning.
   confidence:
     enabled: true
-    methods: [logprobs, verbalized, margin]   # + verbalized (needs prompt_version: v4)
-    primary: margin
+    methods: [verbalized]   # also: logprobs, margin (verbalized needs prompt_version: v4)
+    primary: verbalized
     # Alternatives requested per answer token, which is what margin reads.
     # Azure caps this at 5; a higher value is detected and clamped at runtime
     # rather than costing the run its logprobs.
