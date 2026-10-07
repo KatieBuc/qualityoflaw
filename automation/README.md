@@ -126,3 +126,14 @@ python -m automation.src.markdown.validate --project indonesia --promote  # chec
 ```
 
 Nothing is moved unless every pair passes.
+
+## Pipeline stages
+
+1. **Input processing** (`automation/src/ingest/`, placeholder): PDF/HTML -> TXT -> `preprocessed/cleaned_markdown`.
+2. **Translation** (`translation_md`): chunk-and-combine, writes `preprocessed/translation_markdown`.
+3. **Human adjustment**: edit `preprocessed/`, then `python -m automation.src.markdown.validate --promote`.
+4. **Evaluation** (`md_to_text`, `storage`, `evaluation`): reads `processed/`, header validation first, RAG evaluation,
+   evidence mapping (index pairing, else `alignment.method`), outputs under `data/<project>/automation/<run_id>/`.
+
+`comparison`, `translation_qa_md` and `discrepancy_diagnosis` are optional steps. Install the alignment
+dependencies with `pip install -r automation/requirements-align.txt` (plus Vecalign, see that file).

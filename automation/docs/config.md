@@ -32,6 +32,7 @@ rerankers:
 | `evaluation` | `model`, `prompt_version`, `method` (`rag` or `sliding_window`), `confidence`, `sliding_window`, `rag` (storage batch size, retrieval: top_k, hybrid BM25, reranker, evidence verification) |
 | `comparison.confidence` | Cutoffs for `confidence_report.json` |
 | `discrepancy_diagnosis` | `model`, `prompt_version` |
+| `alignment` | `method` (`vecalign` / `bertalign` / `heuristic`): step 4.6 aligner for chunks with unequal sentence counts. Needs `automation/requirements-align.txt` |
 | `project` | Active project; all folders derive from `data/<project>/` (`automation/src/paths.py`) |
 | `paths` | `markdown_input_suffix`, `small_scale_stems`; optional overrides `input_dir`, `markdown_input_dir`, `golden_csv`, `index_schema`, `manual_overwrites` |
 
