@@ -71,6 +71,13 @@ evaluation:
       evidence_verification:
         enabled: true
 
+# Step 4.6: maps evidence sentences between translation and source. Equal
+# sentence counts are paired by index; otherwise this aligner (LaBSE embeddings,
+# benchmarked in automation/benchmarks/alignment) is used. Needs
+# automation/requirements-align.txt; falls back to "heuristic" if unavailable.
+alignment:
+  method: vecalign  # "vecalign" | "bertalign" | "heuristic"
+
 comparison:
   # Cutoffs for confidence_report.json. Predictions below a cutoff count as
   # "low confidence"; coverage_rate is the share of actual errors they capture.

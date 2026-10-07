@@ -81,6 +81,7 @@
     "translation_markdown_dir": "data/indonesia/preprocessed/translation_markdown"
   },
   "retrieval": {
+    "alignment_method": "vecalign",
     "enabled": true,
     "evidence_verification_enabled": true,
     "hybrid_bm25": {

@@ -262,8 +262,10 @@ def _evaluate_dimension(
         batch_result = complete_fn(final_prompt)
         batch_evals = batch_result.get("evaluation_results", {})
         candidate_lookup = build_candidate_lookup(candidates_by_id)
-        source_lookup = build_source_text_lookup(candidates_by_id)
-        alignment_lookup = build_source_alignment_lookup(candidates_by_id)
+        source_lookup = build_source_text_lookup(candidates_by_id, retrieval_config.alignment_method)
+        alignment_lookup = build_source_alignment_lookup(
+            candidates_by_id, retrieval_config.alignment_method
+        )
         _resolve_batch_evidence(
             batch_evals,
             candidate_lookup,

@@ -1,5 +1,5 @@
 import shutil
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 from pathlib import Path
 
 import yaml
@@ -133,6 +133,9 @@ class RetrievalConfig:
     reranker: RerankerConfig
     evidence_verification_enabled: bool
     enabled: bool = True
+    #: Step 4.6 aligner for chunks whose translated/source sentence counts
+    #: differ: "vecalign" | "bertalign" | "heuristic" (see rag/evidence_align.py).
+    alignment_method: str = "vecalign"
 
 
 #: Evaluation-side confidence capture. Which methods to record and which one
@@ -288,6 +291,16 @@ def parse_small_scale_stems(raw: list | None) -> tuple[str, ...]:
     if not isinstance(raw, list) or not raw or not all(isinstance(s, str) and s for s in raw):
         raise ValueError("paths.small_scale_stems must be a non-empty list of policy names")
     return tuple(raw)
+
+
+ALIGNMENT_METHODS = ("vecalign", "bertalign", "heuristic")
+
+
+def parse_alignment_method(raw: dict | None) -> str:
+    method = str((raw or {}).get("method", "vecalign"))
+    if method not in ALIGNMENT_METHODS:
+        raise ValueError(f"alignment.method must be one of {ALIGNMENT_METHODS}, got '{method}'")
+    return method
 
 
 def parse_concurrency_config(raw: dict | None) -> ConcurrencyConfig:
@@ -689,8 +702,13 @@ def load_pipeline_config(
         storage=parse_storage_config(
             rag_cfg.get("storage"), rag_enabled=rag_enabled and evaluation_method == "rag"
         ),
-        retrieval=parse_retrieval_config(
-            rag_cfg.get("retrieval"), rag_enabled=rag_enabled, reranker_profiles=reranker_profiles
+        retrieval=replace(
+            parse_retrieval_config(
+                rag_cfg.get("retrieval"),
+                rag_enabled=rag_enabled,
+                reranker_profiles=reranker_profiles,
+            ),
+            alignment_method=parse_alignment_method(pipeline_data.get("alignment")),
         ),
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
