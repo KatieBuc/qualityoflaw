@@ -27,7 +27,7 @@ def test_strict_and_lenient_scores():
     doc = score_document(pred, gold)
 
     assert doc["strict_correct"] == 2  # the 1-2 bead was predicted as 1-1
-    assert doc["lenient_correct"] == 3  # but it overlaps the right place
+    assert doc["lenient_precise"] == 3 and doc["lenient_recalled"] == 3  # right place
     summary = summarize([doc])
     assert summary["strict"]["precision"] == 2 / 3
     assert summary["strict"]["recall"] == 2 / 3
@@ -86,3 +86,10 @@ def test_validate_alignment_accepts_many_to_many_and_rejects_crossing():
     assert validate_alignment(u, [[[0, 1], [0]], [[2, 3], [1, 2]]]) == []
     assert any("order" in p for p in validate_alignment(u, [[[2, 3], [0]], [[0, 1], [1, 2]]]))
     assert any("non-contiguous" in p for p in validate_alignment(u, [[[0, 2], [0]], [[1, 3], [1, 2]]]))
+
+
+def test_lenient_scores_never_exceed_one():
+    gold = normalize([([0, 1], [0, 1])])
+    pred = normalize([([0], [0]), ([1], [1])])  # one gold 2-2 split into two 1-1
+    lenient = summarize([score_document(pred, gold)])["lenient"]
+    assert lenient["precision"] == 1.0 and lenient["recall"] == 1.0 and lenient["f1"] == 1.0

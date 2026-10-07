@@ -13,8 +13,8 @@ Candidates: `index` (pair by position, only valid when counts match),
 ```bash
 python -m automation.benchmarks.alignment.build_gold sample --project indonesia --n-gold 120
 python -m automation.benchmarks.alignment.build_gold draft  --project indonesia   # LLM calls
-# Review data/indonesia/gold_draft.jsonl, fix alignments, set "status": "reviewed", save as gold.jsonl
-python -m automation.benchmarks.alignment.run_benchmark --project indonesia --split test --aligners index,heuristic
+# Copy gold_draft.jsonl to gold.jsonl and correct the alignments; set "status": "eliminate" on units to drop
+python -m automation.benchmarks.alignment.run_benchmark --project indonesia --aligners index,heuristic
 ```
 
 Gold units are sampled half from count-mismatched sections (where aligners are
