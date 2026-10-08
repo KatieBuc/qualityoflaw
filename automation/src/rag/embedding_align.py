@@ -5,6 +5,8 @@ differ. Both aligners are monotonic and may return many-to-many beads. They
 were benchmarked on Indonesian gold data (`automation/benchmarks/alignment`);
 Vecalign was marginally ahead and is the default.
 
+LaBSE is loaded once per process (`_labse`) and shared by both aligners.
+
 Dependencies are optional and imported lazily: `bertalign`, `vecalign` and
 `sentence-transformers` (see `automation/requirements-align.txt`). LaBSE
 weights are downloaded on first use.
@@ -39,6 +41,24 @@ def _labse():
         return SentenceTransformer(LABSE)
     except Exception as exc:  # ImportError, offline model download, ...
         raise AlignerUnavailable(f"LaBSE unavailable: {exc}") from exc
+
+
+@lru_cache(maxsize=1)
+def _bertalign_encoder():
+    """Bertalign's `Encoder` wrapped around the one shared LaBSE model.
+
+    `bertalign.encoder.get_encoder` would load a second copy of LaBSE; its
+    `Encoder` only needs `.model` and `.model_name`, so this subclass skips the
+    loading constructor and reuses `_labse()`.
+    """
+    from bertalign.encoder import Encoder
+
+    class SharedEncoder(Encoder):
+        def __init__(self, model) -> None:  # noqa: super().__init__ would reload the model
+            self.model = model
+            self.model_name = LABSE
+
+    return SharedEncoder(_labse())
 
 
 def _embed_with_overlaps(lines: list[str], max_overlap: int) -> tuple[dict, np.ndarray]:
@@ -81,7 +101,6 @@ def align_vecalign(
 def align_bertalign(src: list[str], tgt: list[str], *, max_align: int = MAX_ALIGN) -> list[Bead]:
     try:
         from bertalign import Bertalign
-        from bertalign.encoder import get_encoder
     except ImportError as exc:
         raise AlignerUnavailable(f"bertalign not installed: {exc}") from exc
 
@@ -91,7 +110,7 @@ def align_bertalign(src: list[str], tgt: list[str], *, max_align: int = MAX_ALIG
         "\n".join(tgt),
         is_split=True,
         max_align=max_align,
-        model=get_encoder("LaBSE"),
+        model=_bertalign_encoder(),
     )
     if (aligner.src_num, aligner.tgt_num) != (len(src), len(tgt)):
         raise ValueError("bertalign re-segmented the input")

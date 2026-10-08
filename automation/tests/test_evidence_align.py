@@ -88,3 +88,19 @@ def test_alignment_method_config_is_validated():
     assert parse_alignment_method({"method": "bertalign"}) == "bertalign"
     with pytest.raises(ValueError):
         parse_alignment_method({"method": "magic"})
+
+
+def test_bertalign_encoder_wraps_the_shared_labse_model(monkeypatch):
+    """Both aligners must use one LaBSE instance, not each load their own."""
+    from automation.src.rag import embedding_align
+
+    sentinel = object()
+    embedding_align._labse.cache_clear()
+    embedding_align._bertalign_encoder.cache_clear()
+    monkeypatch.setattr(embedding_align, "_labse", lambda: sentinel)
+
+    encoder = embedding_align._bertalign_encoder()
+
+    assert encoder.model is sentinel
+    assert embedding_align._bertalign_encoder() is encoder  # built once
+    embedding_align._bertalign_encoder.cache_clear()
