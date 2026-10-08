@@ -3,175 +3,166 @@
     {
       "embedder": "absent",
       "fn": "run_translation_step",
-      "force": false,
       "limiter": {
         "enabled": true,
         "max_workers": 5
       },
-      "run_id": "RUN1",
       "small_scale": false,
       "wrapper": "wrapper:claude-sonnet-4-5:confidence=False"
     },
     {
       "embedder": "absent",
       "fn": "run_translation_qa_step",
-      "force": false,
       "limiter": {
         "enabled": true,
         "max_workers": 5
       },
-      "run_id": "RUN1",
       "small_scale": false,
       "wrapper": "wrapper:gpt-5.2-translation-qa:confidence=False"
     },
     {
       "embedder": "absent",
       "fn": "run_markdown_step",
-      "force": false,
       "limiter": null,
-      "run_id": "RUN1",
       "small_scale": false,
       "wrapper": null
     }
   ],
   "exit_code": 1,
-  "runs": {
-    "RUN1": {
+  "output": {
+    "failures": {
+      "discrepancy_diagnosis": [],
+      "evaluation": [],
+      "step_failures": [],
+      "storage": [],
+      "translation": [
+        {
+          "at": "<ts>",
+          "error_type": "E",
+          "filename": "X.md",
+          "message": "bad"
+        }
+      ],
+      "translation_qa": [],
+      "updated_at": "<ts>"
+    },
+    "files": [
+      "config/model_config.yaml",
+      "config/pipeline_config.yaml",
+      "failures.json",
+      "metadata.json"
+    ],
+    "metadata": {
+      "config": {
+        "chunking": {
+          "enabled": true,
+          "safe_limit": 32000
+        },
+        "concurrency": {
+          "enabled": true,
+          "max_workers": 5
+        },
+        "discrepancy_diagnosis_model": "gpt-5.2-diagnosis",
+        "discrepancy_diagnosis_prompt_version": "v1",
+        "evaluation_method": "rag",
+        "evaluation_model": "gpt-5.2",
+        "evaluation_prompt_version": "v4",
+        "markdown_translation": {
+          "prompt_version": "global",
+          "qa_max_passes": 2,
+          "qa_prompt_version": "v2",
+          "safe_limit": 32000,
+          "target_chars": 8000
+        },
+        "retrieval": {
+          "enabled": true,
+          "evidence_verification_enabled": true,
+          "hybrid_bm25_enabled": true,
+          "reranker_candidate_pool_size": 125,
+          "reranker_enabled": true,
+          "reranker_model": "Cohere-rerank-v4.0-fast",
+          "reranker_top_k": 25,
+          "top_k": 10
+        },
+        "sliding_window": {
+          "overlap_sentences": 15,
+          "prompt_version": "sliding_window_v1",
+          "window_sentences": 100
+        },
+        "storage": {
+          "batch_size": 16,
+          "enabled": true
+        },
+        "translation_model": "claude-sonnet-4-5",
+        "translation_prompt_version": "v2",
+        "translation_qa_model": "gpt-5.2-translation-qa",
+        "translation_qa_prompt_version": "v1"
+      },
+      "execution_scope": {
+        "evaluated_policy_files": [],
+        "small_scale": false,
+        "steps_executed": [
+          "translation",
+          "translation_qa",
+          "markdown"
+        ]
+      },
+      "experiment_name": "first-full-run",
       "failures": {
-        "discrepancy_diagnosis": [],
-        "evaluation": [],
-        "step_failures": [],
-        "storage": [],
-        "translation": [
-          {
-            "at": "<ts>",
-            "error_type": "E",
-            "filename": "X.md",
-            "message": "bad"
-          }
-        ],
-        "translation_qa": [],
+        "discrepancy_diagnosis": 0,
+        "evaluation": 0,
+        "step_failures": 0,
+        "storage": 0,
+        "translation": 1,
+        "translation_qa": 0
+      },
+      "file_counts": {
+        "markdown": {
+          "failed": 1,
+          "skipped": 0,
+          "succeeded": 2,
+          "total": 3
+        },
+        "translation": {
+          "failed": 1,
+          "skipped": 0,
+          "succeeded": 2,
+          "total": 3
+        },
+        "translation_qa": {
+          "corrected": 1,
+          "failed": 1,
+          "incomplete": 1,
+          "skipped": 0,
+          "succeeded": 2,
+          "total": 3
+        }
+      },
+      "status": "completed_with_errors",
+      "timestamps": {
+        "created_at": "<ts>",
         "updated_at": "<ts>"
       },
-      "files": [
-        "config/model_config.yaml",
-        "config/pipeline_config.yaml",
-        "failures.json",
-        "metadata.json"
-      ],
-      "metadata": {
-        "config": {
-          "chunking": {
-            "enabled": true,
-            "safe_limit": 32000
-          },
-          "concurrency": {
-            "enabled": true,
-            "max_workers": 5
-          },
-          "discrepancy_diagnosis_model": "gpt-5.2-diagnosis",
-          "discrepancy_diagnosis_prompt_version": "v1",
-          "evaluation_method": "rag",
-          "evaluation_model": "gpt-5.2",
-          "evaluation_prompt_version": "v4",
-          "markdown_translation": {
-            "prompt_version": "v3",
-            "qa_max_passes": 2,
-            "qa_prompt_version": "v2",
-            "safe_limit": 32000,
-            "target_chars": 8000
-          },
-          "retrieval": {
-            "enabled": true,
-            "evidence_verification_enabled": true,
-            "hybrid_bm25_enabled": true,
-            "reranker_candidate_pool_size": 125,
-            "reranker_enabled": true,
-            "reranker_model": "Cohere-rerank-v4.0-fast",
-            "reranker_top_k": 25,
-            "top_k": 10
-          },
-          "sliding_window": {
-            "overlap_sentences": 15,
-            "prompt_version": "sliding_window_v1",
-            "window_sentences": 100
-          },
-          "storage": {
-            "batch_size": 16,
-            "enabled": true
-          },
-          "translation_model": "claude-sonnet-4-5",
-          "translation_prompt_version": "v2",
-          "translation_qa_model": "gpt-5.2-translation-qa",
-          "translation_qa_prompt_version": "v1"
+      "timing_seconds": {
+        "markdown": 0.2,
+        "total": "<elapsed>",
+        "translation": 1.5,
+        "translation_qa": 0.5
+      },
+      "token_usage": {
+        "translation": {
+          "completion_tokens": 20,
+          "prompt_tokens": 10,
+          "total_tokens": 30
         },
-        "execution_scope": {
-          "evaluated_policy_files": [],
-          "small_scale": false,
-          "steps_executed": [
-            "translation",
-            "translation_qa",
-            "markdown"
-          ]
-        },
-        "experiment_name": "first-full-run",
-        "failures": {
-          "discrepancy_diagnosis": 0,
-          "evaluation": 0,
-          "step_failures": 0,
-          "storage": 0,
-          "translation": 1,
-          "translation_qa": 0
-        },
-        "file_counts": {
-          "markdown": {
-            "failed": 1,
-            "skipped": 0,
-            "succeeded": 2,
-            "total": 3
-          },
-          "translation": {
-            "failed": 1,
-            "skipped": 0,
-            "succeeded": 2,
-            "total": 3
-          },
-          "translation_qa": {
-            "corrected": 1,
-            "failed": 1,
-            "incomplete": 1,
-            "skipped": 0,
-            "succeeded": 2,
-            "total": 3
-          }
-        },
-        "run_id": "RUN1",
-        "status": "completed_with_errors",
-        "timestamps": {
-          "created_at": "<ts>",
-          "updated_at": "<ts>"
-        },
-        "timing_seconds": {
-          "markdown": 0.2,
-          "total": "<elapsed>",
-          "translation": 1.5,
-          "translation_qa": 0.5
-        },
-        "token_usage": {
-          "translation": {
-            "completion_tokens": 20,
-            "prompt_tokens": 10,
-            "total_tokens": 30
-          },
-          "translation_qa": {
-            "completion_tokens": 20,
-            "prompt_tokens": 10,
-            "total_tokens": 30
-          }
+        "translation_qa": {
+          "completion_tokens": 20,
+          "prompt_tokens": 10,
+          "total_tokens": 30
         }
       }
     }
   },
-  "stderr": "  X.md: [RateLimit] boom (status=429)\n  X.md: [RateLimit] boom\n  X.md (chunks): boom\nFailures logged: 1 translation, 0 translation_qa, 0 storage, 0 evaluation, 0 discrepancy_diagnosis, 0 step-level → <tmp>/RUN1/failures.json\n",
-  "stdout": "Created run: RUN1\n\nStep: translation\nTranslation: 2 succeeded, 0 skipped, 1 failed\n\nStep: translation_qa\nTranslation QA: 2 succeeded (1 corrected, 1 incomplete-response), 0 skipped, 1 failed\n\nStep: markdown\nMarkdown: 2 succeeded, 0 skipped, 1 failed\n\nPipeline finished (run_id=RUN1, status=completed_with_errors)\n"
+  "stderr": "  X.md: [RateLimit] boom (status=429)\n  X.md: [RateLimit] boom\n  X.md (chunks): boom\nFailures logged: 1 translation, 0 translation_qa, 0 storage, 0 evaluation, 0 discrepancy_diagnosis, 0 step-level → <tmp>/out/failures.json\n",
+  "stdout": "Created output folder: <tmp>/out\n\nStep: translation\nTranslation: 2 succeeded, 0 skipped, 1 failed\n\nStep: translation_qa\nTranslation QA: 2 succeeded (1 corrected, 1 incomplete-response), 0 skipped, 1 failed\n\nStep: markdown\nMarkdown: 2 succeeded, 0 skipped, 1 failed\n\nPipeline finished (status=completed_with_errors)\n"
 }

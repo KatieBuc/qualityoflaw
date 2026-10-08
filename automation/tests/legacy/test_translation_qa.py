@@ -27,7 +27,7 @@ class _Config:
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
@@ -66,8 +66,7 @@ def _write_chunks(chunks_dir: Path, stem: str, records: list[dict]) -> None:
 
 
 def test_chunked_path_applies_correction_to_chunks_and_merged_file(config, data_root):
-    run_id = "run_chunked"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "A.txt").write_text(
         "Pasal 1\nisi asli a.\n\nPasal 2\nisi asli b.", encoding="utf-8"
     )
@@ -111,7 +110,7 @@ def test_chunked_path_applies_correction_to_chunks_and_merged_file(config, data_
     wrapper = _make_wrapper(complete_fn)
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["succeeded"] == 1
     assert result["counts"]["corrected"] == 1
@@ -134,8 +133,7 @@ def test_chunked_path_applies_correction_to_chunks_and_merged_file(config, data_
 
 
 def test_whole_file_path_when_no_chunks_json(config, data_root):
-    run_id = "run_whole_file"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "B.txt").write_text("Pasal 1\nisi asli.", encoding="utf-8")
 
     translation_dir = run_dir / "results" / "translation"
@@ -153,7 +151,7 @@ def test_whole_file_path_when_no_chunks_json(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["succeeded"] == 1
     assert result["counts"]["corrected"] == 1
@@ -166,8 +164,7 @@ def test_whole_file_path_when_no_chunks_json(config, data_root):
 
 
 def test_no_action_required_leaves_translation_untouched(config, data_root):
-    run_id = "run_noop"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "C.txt").write_text("Pasal 1\nisi asli.", encoding="utf-8")
 
     translation_dir = run_dir / "results" / "translation"
@@ -180,7 +177,7 @@ def test_no_action_required_leaves_translation_untouched(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["succeeded"] == 1
     assert result["counts"]["corrected"] == 0
@@ -188,8 +185,7 @@ def test_no_action_required_leaves_translation_untouched(config, data_root):
 
 
 def test_chunked_path_aborts_atomically_on_chunk_failure(config, data_root):
-    run_id = "run_atomic_fail"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "D.txt").write_text("Pasal 1\na.\n\nPasal 2\nb.", encoding="utf-8")
 
     translation_dir = run_dir / "results" / "translation"
@@ -230,7 +226,7 @@ def test_chunked_path_aborts_atomically_on_chunk_failure(config, data_root):
     wrapper = _make_wrapper(complete_fn)
     limiter = ConcurrencyLimiter(max_workers=1, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["failed"] == 1
     assert result["counts"]["succeeded"] == 0
@@ -244,8 +240,7 @@ def test_chunked_path_aborts_atomically_on_chunk_failure(config, data_root):
 
 
 def test_skips_existing_report_by_default(config, data_root):
-    run_id = "run_skip"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "E.txt").write_text("Pasal 1\na.", encoding="utf-8")
 
     translation_dir = run_dir / "results" / "translation"
@@ -261,7 +256,7 @@ def test_skips_existing_report_by_default(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["skipped"] == 1
     assert result["counts"]["succeeded"] == 0
@@ -269,8 +264,7 @@ def test_skips_existing_report_by_default(config, data_root):
 
 
 def test_force_reruns_existing_report(config, data_root):
-    run_id = "run_force"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "F.txt").write_text("Pasal 1\na.", encoding="utf-8")
 
     translation_dir = run_dir / "results" / "translation"
@@ -286,8 +280,7 @@ def test_force_reruns_existing_report(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(
-        run_id=run_id, config=config, wrapper=wrapper, limiter=limiter, force=True
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter, force=True
     )
 
     assert result["counts"]["skipped"] == 0
@@ -296,7 +289,6 @@ def test_force_reruns_existing_report(config, data_root):
 
 
 def test_missing_translation_output_is_skipped_not_failed(config, data_root):
-    run_id = "run_missing_translation"
     (config.paths.input_dir / "G.txt").write_text("Pasal 1\na.", encoding="utf-8")
     # No results/translation/G.txt written at all — translation hasn't run yet.
 
@@ -305,7 +297,7 @@ def test_missing_translation_output_is_skipped_not_failed(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["skipped"] == 1
     assert result["counts"]["failed"] == 0
@@ -313,8 +305,7 @@ def test_missing_translation_output_is_skipped_not_failed(config, data_root):
 
 
 def test_action_required_without_corrected_text_retries_then_succeeds(config, data_root):
-    run_id = "run_retry_succeeds"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "H.txt").write_text("Pasal 1\na.", encoding="utf-8")
 
     translation_dir = run_dir / "results" / "translation"
@@ -329,7 +320,7 @@ def test_action_required_without_corrected_text_retries_then_succeeds(config, da
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["succeeded"] == 1
     assert result["counts"]["failed"] == 0
@@ -345,8 +336,7 @@ def test_action_required_without_corrected_text_retries_then_succeeds(config, da
 
 
 def test_action_required_without_corrected_text_degrades_after_retry_exhausted(config, data_root):
-    run_id = "run_retry_exhausted"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "I.txt").write_text("Pasal 1\na.", encoding="utf-8")
 
     translation_dir = run_dir / "results" / "translation"
@@ -359,7 +349,7 @@ def test_action_required_without_corrected_text_degrades_after_retry_exhausted(c
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_qa_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_translation_qa_step(config=config, wrapper=wrapper, limiter=limiter)
 
     # Never a hard failure: one chunk's malformed response must not discard
     # everything else this step could have checked in the same file.

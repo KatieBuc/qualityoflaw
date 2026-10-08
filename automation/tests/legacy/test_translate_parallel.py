@@ -62,12 +62,11 @@ def pipeline_config(tmp_path):
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
 def test_run_translation_step_parallel(pipeline_config, data_root):
-    run_id = "translate_parallel"
     input_dir = pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     for name in ["A.txt", "B.txt", "C.txt"]:
@@ -80,9 +79,7 @@ def test_run_translation_step_parallel(pipeline_config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_step(
-        run_id=run_id,
-        config=pipeline_config,
+    result = run_translation_step(config=pipeline_config,
         wrapper=wrapper,
         limiter=limiter,
         small_scale=False,
@@ -91,7 +88,7 @@ def test_run_translation_step_parallel(pipeline_config, data_root):
 
     assert result["counts"] == {"total": 3, "succeeded": 3, "skipped": 0, "failed": 0}
     assert result["token_usage"]["total_tokens"] == 6
-    out_dir = data_root / run_id / "results" / "translation"
+    out_dir = data_root / "results" / "translation"
     assert (out_dir / "A.txt").read_text(encoding="utf-8") == "translated-A.txt"
     assert (out_dir / "B.txt").read_text(encoding="utf-8") == "translated-B.txt"
     assert (out_dir / "C.txt").read_text(encoding="utf-8") == "translated-C.txt"
@@ -101,27 +98,24 @@ def test_run_translation_step_parallel(pipeline_config, data_root):
     # results/cleaned_markdown/*.cleaned.md, results/translation_markdown/*.md)
     # is a separate `markdown` step (see test_markdown_step.py) — the
     # translation step no longer writes it.
-    assert not (data_root / run_id / "results" / "cleaned_text").exists()
-    assert not (data_root / run_id / "results" / "cleaned_markdown").exists()
-    assert not (data_root / run_id / "results" / "translation_markdown").exists()
+    assert not (data_root / "results" / "cleaned_text").exists()
+    assert not (data_root / "results" / "cleaned_markdown").exists()
+    assert not (data_root / "results" / "translation_markdown").exists()
 
 
 def test_run_translation_step_skips_existing(pipeline_config, data_root):
-    run_id = "translate_skip"
     input_dir = pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     (input_dir / "A.txt").write_text("source", encoding="utf-8")
 
-    out_dir = data_root / run_id / "results" / "translation"
+    out_dir = data_root / "results" / "translation"
     out_dir.mkdir(parents=True)
     (out_dir / "A.txt").write_text("existing", encoding="utf-8")
 
     wrapper = MagicMock()
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_step(
-        run_id=run_id,
-        config=pipeline_config,
+    result = run_translation_step(config=pipeline_config,
         wrapper=wrapper,
         limiter=limiter,
         small_scale=False,
@@ -134,12 +128,11 @@ def test_run_translation_step_skips_existing(pipeline_config, data_root):
 
 
 def test_run_translation_step_force_retranslates(pipeline_config, data_root):
-    run_id = "translate_force"
     input_dir = pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     (input_dir / "A.txt").write_text("source", encoding="utf-8")
 
-    out_dir = data_root / run_id / "results" / "translation"
+    out_dir = data_root / "results" / "translation"
     out_dir.mkdir(parents=True)
     (out_dir / "A.txt").write_text("existing", encoding="utf-8")
 
@@ -150,9 +143,7 @@ def test_run_translation_step_force_retranslates(pipeline_config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_translation_step(
-        run_id=run_id,
-        config=pipeline_config,
+    result = run_translation_step(config=pipeline_config,
         wrapper=wrapper,
         limiter=limiter,
         small_scale=False,

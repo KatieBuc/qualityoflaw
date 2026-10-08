@@ -62,7 +62,7 @@ def pipeline_config(tmp_path):
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
@@ -86,8 +86,7 @@ def test_has_eval_report_by_filename_suffix(data_root):
 
 @patch("automation.src.run_eval._evaluate_policy_parallel")
 def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipeline_config, data_root):
-    run_id = "eval_missing"
-    run_dir = data_root / run_id
+    run_dir = data_root
     translation_dir = run_dir / "results" / "translation"
     evaluation_dir = run_dir / "results" / "evaluation"
     translation_dir.mkdir(parents=True)
@@ -121,9 +120,7 @@ def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipel
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
     with patch("automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/B.json")):
-        result = run_evaluation_step(
-            run_id=run_id,
-            config=pipeline_config,
+        result = run_evaluation_step(config=pipeline_config,
             wrapper=wrapper,
             embedder=embedder,
             limiter=limiter,
@@ -137,8 +134,7 @@ def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipel
 
 @patch("automation.src.run_eval._evaluate_policy_parallel")
 def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_config, data_root):
-    run_id = "eval_force"
-    run_dir = data_root / run_id
+    run_dir = data_root
     translation_dir = run_dir / "results" / "translation"
     evaluation_dir = run_dir / "results" / "evaluation"
     translation_dir.mkdir(parents=True)
@@ -171,9 +167,7 @@ def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
     with patch("automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/A.json")):
-        result = run_evaluation_step(
-            run_id=run_id,
-            config=pipeline_config,
+        result = run_evaluation_step(config=pipeline_config,
             wrapper=wrapper,
             embedder=embedder,
             limiter=limiter,

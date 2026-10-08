@@ -12,12 +12,11 @@ from automation.src.failure_log import (
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
 def test_record_and_load_failure(data_root):
-    run_id = "fail_run"
     entry = {
         "filename": "ACEH_BIREUEN.txt",
         "error_type": "RateLimitError",
@@ -25,9 +24,9 @@ def test_record_and_load_failure(data_root):
         "details": {"status_code": 429},
         "attempts": 3,
     }
-    record_failure(run_id, "translation", entry)
+    record_failure("translation", entry)
 
-    log = load_failures(run_id)
+    log = load_failures()
     assert len(log["translation"]) == 1
     assert log["translation"][0]["filename"] == "ACEH_BIREUEN.txt"
     assert log["translation"][0]["error_type"] == "RateLimitError"
@@ -35,9 +34,7 @@ def test_record_and_load_failure(data_root):
 
 
 def test_record_failure_replaces_same_item(data_root):
-    run_id = "fail_replace"
     record_failure(
-        run_id,
         "translation",
         {
             "filename": "A.txt",
@@ -48,7 +45,6 @@ def test_record_failure_replaces_same_item(data_root):
         },
     )
     record_failure(
-        run_id,
         "translation",
         {
             "filename": "A.txt",
@@ -59,16 +55,14 @@ def test_record_failure_replaces_same_item(data_root):
         },
     )
 
-    log = load_failures(run_id)
+    log = load_failures()
     assert len(log["translation"]) == 1
     assert log["translation"][0]["message"] == "second"
     assert log["translation"][0]["attempts"] == 2
 
 
 def test_clear_failure_removes_entry(data_root):
-    run_id = "fail_clear"
     record_failure(
-        run_id,
         "translation",
         {
             "filename": "A.txt",
@@ -79,7 +73,6 @@ def test_clear_failure_removes_entry(data_root):
         },
     )
     record_failure(
-        run_id,
         "evaluation",
         {
             "policy_file": "B.txt",
@@ -92,16 +85,14 @@ def test_clear_failure_removes_entry(data_root):
         },
     )
 
-    clear_failure(run_id, "translation", "A.txt")
-    log = load_failures(run_id)
+    clear_failure("translation", "A.txt")
+    log = load_failures()
     assert log["translation"] == []
     assert len(log["evaluation"]) == 1
 
 
 def test_clear_failure_deletes_file_when_empty(data_root):
-    run_id = "fail_empty"
     record_failure(
-        run_id,
         "translation",
         {
             "filename": "A.txt",
@@ -111,14 +102,12 @@ def test_clear_failure_deletes_file_when_empty(data_root):
             "attempts": 1,
         },
     )
-    clear_failure(run_id, "translation", "A.txt")
-    assert not (data_root / run_id / "failures.json").exists()
+    clear_failure("translation", "A.txt")
+    assert not (data_root / "failures.json").exists()
 
 
 def test_summarize_failures(data_root):
-    run_id = "fail_summary"
     record_failure(
-        run_id,
         "translation",
         {
             "filename": "A.txt",
@@ -129,7 +118,6 @@ def test_summarize_failures(data_root):
         },
     )
     record_failure(
-        run_id,
         "evaluation",
         {
             "policy_file": "B.txt",
@@ -142,7 +130,7 @@ def test_summarize_failures(data_root):
         },
     )
 
-    summary = summarize_failures(run_id)
+    summary = summarize_failures()
     assert summary == {
         "translation": 1,
         "translation_qa": 0,
@@ -154,31 +142,29 @@ def test_summarize_failures(data_root):
 
 
 def test_record_and_clear_step_failure(data_root):
-    run_id = "step_fail_run"
-    record_step_failure(run_id, "evaluation", "No policy files to evaluate")
+    record_step_failure("evaluation", "No policy files to evaluate")
 
-    log = load_failures(run_id)
+    log = load_failures()
     assert log["step_failures"] == [
         {"step": "evaluation", "message": "No policy files to evaluate", "at": log["step_failures"][0]["at"]}
     ]
-    assert summarize_failures(run_id)["step_failures"] == 1
+    assert summarize_failures()["step_failures"] == 1
 
-    clear_step_failure(run_id, "evaluation")
-    assert not (data_root / run_id / "failures.json").exists()
+    clear_step_failure("evaluation")
+    assert not (data_root / "failures.json").exists()
 
 
 def test_record_step_failure_replaces_prior_entry_for_same_step(data_root):
-    run_id = "step_fail_replace"
-    record_step_failure(run_id, "translation", "first failure")
-    record_step_failure(run_id, "translation", "second failure")
+    record_step_failure("translation", "first failure")
+    record_step_failure("translation", "second failure")
 
-    log = load_failures(run_id)
+    log = load_failures()
     assert len(log["step_failures"]) == 1
     assert log["step_failures"][0]["message"] == "second failure"
 
 
 def test_load_failures_empty_run(data_root):
-    assert load_failures("nonexistent") == {
+    assert load_failures() == {
         "updated_at": None,
         "translation": [],
         "translation_qa": [],

@@ -524,7 +524,6 @@ def build_confidence_report(
     merged_df: pd.DataFrame,
     config: ConfidenceReportConfig | None = None,
     *,
-    run_id: str | None = None,
     model: str | None = None,
     temperature: float | None = None,
     evaluation_dir: str | None = None,
@@ -551,7 +550,6 @@ def build_confidence_report(
 
     report = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "run_id": run_id,
         "status": STATUS_OK if len(conf_df) else STATUS_NO_DATA,
         "definitions": DEFINITIONS,
         "primary_method": resolved_method,

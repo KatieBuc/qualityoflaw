@@ -139,7 +139,6 @@ def translate_one(
 
 
 def run_md_translation_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
     *,
@@ -210,12 +209,12 @@ def run_md_translation_step(
                     "attempts": 1,
                 }
                 failed_files.append(entry)
-                record_failure(run_id, FAILURE_STEP, entry)
+                record_failure(FAILURE_STEP, entry)
                 logger.error("Markdown translation task failed [%s]: %s", error_type, result)
                 continue
             if result.status == "succeeded":
                 counts["succeeded"] += 1
-                clear_failure(run_id, FAILURE_STEP, result.filename)
+                clear_failure(FAILURE_STEP, result.filename)
                 for key in token_usage:
                     token_usage[key] += result.token_usage.get(key, 0)
             else:
@@ -228,7 +227,7 @@ def run_md_translation_step(
                     "attempts": result.attempts or 1,
                 }
                 failed_files.append(entry)
-                record_failure(run_id, FAILURE_STEP, entry)
+                record_failure(FAILURE_STEP, entry)
 
     elapsed = round(time.time() - start, 2)
     return {

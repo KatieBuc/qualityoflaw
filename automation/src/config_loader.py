@@ -11,6 +11,8 @@ from automation.src.constants import (
     AUTOMATION_ROOT,
     CHUNKING_FALLBACK_PROMPT,
     MARKDOWN_FALLBACK_PROMPT,
+    AUTOMATION_DIRNAME,
+    DATA_ROOT,
     DEFAULT_PROJECT,
     DEFAULT_MODEL_CONFIG,
     DEFAULT_PIPELINE_CONFIG,
@@ -547,7 +549,7 @@ def parse_markdown_config(raw: dict | None) -> MarkdownTranslationConfig:
 
 def evaluation_output_names(method: str) -> tuple[str, str]:
     """Map the active evaluation method to its (evaluation_dir, comparison_dir)
-    names, so both methods can be run against the same run_id without one
+    names, so both methods can be run side by side in one output folder without one
     overwriting the other's results."""
     if method == "sliding_window":
         return "evaluation_sliding_window", "comparison_sliding_window"
@@ -723,22 +725,47 @@ def load_pipeline_config(
     )
 
 
-# Runs root override. None means "derive from the active project"
-# (data/<project>/automation); tests point it at a tmp dir.
-DEFAULT_DATA_ROOT: Path | None = None
+# Output dir override. None means "derive from the active project"
+# (data/<project>/automation); tests point it at a tmp dir. There is one
+# output folder per project and no run ids: a rerun cleans it and starts over
+# (`clean_output_dir`, `run_pipeline --force`).
+OUTPUT_DIR_OVERRIDE: Path | None = None
 _active_project: str = DEFAULT_PROJECT
 
 
 def set_active_project(project: str) -> None:
-    """Called by `load_pipeline_config`, so every `get_run_dir` caller follows
+    """Called by `load_pipeline_config`, so every `get_output_dir` caller follows
     the `project:` config key without threading it through each step."""
     global _active_project
     _active_project = project
 
 
-def get_run_dir(run_id: str) -> Path:
-    root = DEFAULT_DATA_ROOT or project_dirs(_active_project).automation
-    return root / run_id
+def get_output_dir() -> Path:
+    return OUTPUT_DIR_OVERRIDE or project_dirs(_active_project).automation
+
+
+def clean_output_dir() -> int:
+    """Delete everything inside the output dir (the dir itself stays).
+
+    Returns the number of top-level entries removed. Refuses to touch a path
+    that is not an `automation` folder under the data root, unless it is the
+    test override, so a bad config can never point this at something else.
+    """
+    out = get_output_dir()
+    if OUTPUT_DIR_OVERRIDE is None and not (
+        out.name == AUTOMATION_DIRNAME and DATA_ROOT in out.resolve().parents
+    ):
+        raise ValueError(f"Refusing to clean {out}: not a <data>/<project>/automation folder")
+    if not out.exists():
+        return 0
+    removed = 0
+    for entry in out.iterdir():
+        if entry.is_dir() and not entry.is_symlink():
+            shutil.rmtree(entry)
+        else:
+            entry.unlink()
+        removed += 1
+    return removed
 
 
 def results_dir(run_dir: Path, name: str) -> Path:

@@ -2,13 +2,13 @@ import json
 from datetime import datetime, timezone
 from typing import Any
 
-from automation.src.config_loader import get_run_dir
+from automation.src.config_loader import get_output_dir
 
 STEPS = ("translation", "translation_qa", "storage", "evaluation", "discrepancy_diagnosis")
 
 
-def _failures_path(run_id: str):
-    return get_run_dir(run_id) / "failures.json"
+def _failures_path():
+    return get_output_dir() / "failures.json"
 
 
 def _empty_log() -> dict[str, Any]:
@@ -23,16 +23,16 @@ def _empty_log() -> dict[str, Any]:
     }
 
 
-def load_failures(run_id: str) -> dict[str, Any]:
-    path = _failures_path(run_id)
+def load_failures() -> dict[str, Any]:
+    path = _failures_path()
     if not path.exists():
         return _empty_log()
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def _write_failures(run_id: str, log: dict[str, Any]) -> None:
+def _write_failures(log: dict[str, Any]) -> None:
     log["updated_at"] = datetime.now(timezone.utc).isoformat()
-    path = _failures_path(run_id)
+    path = _failures_path()
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(log, indent=2, ensure_ascii=False), encoding="utf-8")
 
@@ -45,11 +45,11 @@ def _item_key(step: str, entry: dict[str, Any]) -> str:
     raise ValueError(f"Unknown failure step: {step}")
 
 
-def record_failure(run_id: str, step: str, entry: dict[str, Any]) -> None:
+def record_failure(step: str, entry: dict[str, Any]) -> None:
     if step not in STEPS:
         raise ValueError(f"Unknown failure step: {step}")
 
-    log = load_failures(run_id)
+    log = load_failures()
     now = datetime.now(timezone.utc).isoformat()
     entry = {**entry, "at": entry.get("at", now)}
 
@@ -58,58 +58,58 @@ def record_failure(run_id: str, step: str, entry: dict[str, Any]) -> None:
     items = [item for item in items if _item_key(step, item) != key]
     items.append(entry)
     log[step] = items
-    _write_failures(run_id, log)
+    _write_failures(log)
 
 
-def clear_failure(run_id: str, step: str, item_key: str) -> None:
+def clear_failure(step: str, item_key: str) -> None:
     if step not in STEPS:
         raise ValueError(f"Unknown failure step: {step}")
 
-    path = _failures_path(run_id)
+    path = _failures_path()
     if not path.exists():
         return
 
-    log = load_failures(run_id)
+    log = load_failures()
     items: list[dict[str, Any]] = log.get(step, [])
     filtered = [item for item in items if _item_key(step, item) != item_key]
     if len(filtered) == len(items):
         return
 
     log[step] = filtered
-    _write_or_delete(run_id, log)
+    _write_or_delete(log)
 
 
-def record_step_failure(run_id: str, step: str, message: str) -> None:
+def record_step_failure(step: str, message: str) -> None:
     """Record a fatal, whole-step failure (e.g. the step raised before
     producing any per-item results) rather than a per-item failure.
     """
-    log = load_failures(run_id)
+    log = load_failures()
     step_failures: list[dict[str, Any]] = log.get("step_failures", [])
     step_failures = [item for item in step_failures if item.get("step") != step]
     step_failures.append(
         {"step": step, "message": message, "at": datetime.now(timezone.utc).isoformat()}
     )
     log["step_failures"] = step_failures
-    _write_failures(run_id, log)
+    _write_failures(log)
 
 
-def clear_step_failure(run_id: str, step: str) -> None:
-    path = _failures_path(run_id)
+def clear_step_failure(step: str) -> None:
+    path = _failures_path()
     if not path.exists():
         return
 
-    log = load_failures(run_id)
+    log = load_failures()
     step_failures: list[dict[str, Any]] = log.get("step_failures", [])
     filtered = [item for item in step_failures if item.get("step") != step]
     if len(filtered) == len(step_failures):
         return
 
     log["step_failures"] = filtered
-    _write_or_delete(run_id, log)
+    _write_or_delete(log)
 
 
-def _write_or_delete(run_id: str, log: dict[str, Any]) -> None:
-    path = _failures_path(run_id)
+def _write_or_delete(log: dict[str, Any]) -> None:
+    path = _failures_path()
     if (
         not log.get("translation")
         and not log.get("translation_qa")
@@ -120,11 +120,11 @@ def _write_or_delete(run_id: str, log: dict[str, Any]) -> None:
     ):
         path.unlink(missing_ok=True)
         return
-    _write_failures(run_id, log)
+    _write_failures(log)
 
 
-def summarize_failures(run_id: str) -> dict[str, int]:
-    log = load_failures(run_id)
+def summarize_failures() -> dict[str, int]:
+    log = load_failures()
     return {
         "translation": len(log.get("translation", [])),
         "translation_qa": len(log.get("translation_qa", [])),

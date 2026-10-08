@@ -1,6 +1,7 @@
 import argparse
 import json
 import logging
+import re
 import sys
 import time
 from dataclasses import dataclass
@@ -16,7 +17,8 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ConcurrencyConfig,
     ResolvedPipelineConfig,
-    get_run_dir,
+    clean_output_dir,
+    get_output_dir,
     load_pipeline_config,
     resolve_results_dir,
 )
@@ -36,10 +38,10 @@ from automation.src.markdown.qa import run_md_translation_qa_step
 from automation.src.markdown.to_text import run_md_to_text_step
 from automation.src.markdown.translate import run_md_translation_step
 from automation.src.metadata import (
-    generate_run_id,
-    init_run_metadata,
+    init_metadata,
+    metadata_exists,
     update_metadata,
-    validate_run_for_steps,
+    validate_for_steps,
 )
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.store import run_storage_step
@@ -55,27 +57,6 @@ def parse_steps(steps_arg: str | None) -> list[str]:
     if invalid:
         raise ValueError(f"Invalid steps: {', '.join(invalid)}. Valid: {', '.join(VALID_STEPS)}")
     return steps
-
-
-def requires_run_id(steps: list[str], run_id: str | None) -> bool:
-    eval_or_compare_only = (
-        any(
-            step in steps
-            for step in (
-                "translation_qa",
-                "translation_qa_md",
-                "markdown",
-                "md_to_text",
-                "storage",
-                "evaluation",
-                "comparison",
-                "discrepancy_diagnosis",
-            )
-        )
-        and "translation" not in steps
-        and "translation_md" not in steps
-    )
-    return run_id is None and eval_or_compare_only
 
 
 def build_config_summary(config) -> dict:
@@ -148,22 +129,22 @@ def _print_step_failure(step: str, message: str) -> None:
     print(f"Step '{step}' failed: {message}", file=sys.stderr)
 
 
-def _print_policy_failures(run_id: str, step: str, failed_policies: list[str]) -> None:
+def _print_policy_failures(step: str, failed_policies: list[str]) -> None:
     messages = {
         entry.get("policy_file"): entry.get("message", "unknown error")
-        for entry in load_failures(run_id).get(step, [])
+        for entry in load_failures().get(step, [])
     }
     for name in failed_policies:
         print(f"  {name}: {messages.get(name, 'unknown error')}", file=sys.stderr)
 
 
-def _print_overall_alignment_rate(run_id: str) -> None:
+def _print_overall_alignment_rate() -> None:
     """Aggregate `evidence_original_aligned_rate` across every evaluation report
     in the run and print one overall figure: how often the original-language
     evidence was paired at exact sentence granularity rather than falling back
     to the whole chunk (see rag/sentence_align.py). Silent when no report
     carries the stat (e.g. evaluation never ran, or ran in non-RAG mode)."""
-    eval_dir = resolve_results_dir(get_run_dir(run_id), "evaluation")
+    eval_dir = resolve_results_dir(get_output_dir(), "evaluation")
     if not eval_dir.is_dir():
         return
 
@@ -195,7 +176,6 @@ def build_limiter(concurrency: ConcurrencyConfig) -> ConcurrencyLimiter:
 
 @dataclass
 class StepContext:
-    run_id: str
     config: ResolvedPipelineConfig
     limiter: ConcurrencyLimiter
     args: argparse.Namespace
@@ -230,12 +210,10 @@ def _llm_runner(get_step_fn, model_attr: str, *, allow_partial: bool = False):
         if allow_partial:
             kwargs["allow_partial"] = ctx.args.allow_partial
         return get_step_fn()(
-            run_id=ctx.run_id,
             config=ctx.config,
             wrapper=wrapper,
             limiter=ctx.limiter,
             small_scale=ctx.args.small_scale,
-            force=ctx.args.force,
             **kwargs,
         )
 
@@ -245,10 +223,8 @@ def _llm_runner(get_step_fn, model_attr: str, *, allow_partial: bool = False):
 def _run_without_llm(get_step_fn):
     def run(ctx: StepContext) -> dict:
         return get_step_fn()(
-            run_id=ctx.run_id,
             config=ctx.config,
             small_scale=ctx.args.small_scale,
-            force=ctx.args.force,
         )
 
     return run
@@ -257,12 +233,10 @@ def _run_without_llm(get_step_fn):
 def _run_storage(ctx: StepContext) -> dict:
     embedder = AzureEmbedder.from_env(batch_size=ctx.config.storage.batch_size)
     return run_storage_step(
-        run_id=ctx.run_id,
         config=ctx.config,
         embedder=embedder,
         limiter=ctx.limiter,
         small_scale=ctx.args.small_scale,
-        force=ctx.args.force,
     )
 
 
@@ -275,13 +249,11 @@ def _run_evaluation(ctx: StepContext) -> dict:
     )
     if config.evaluation_method == "sliding_window":
         return run_sliding_window_evaluation_step(
-            run_id=ctx.run_id,
             config=config,
             wrapper=wrapper,
             limiter=ctx.limiter,
             small_scale=ctx.args.small_scale,
             allow_partial=ctx.args.allow_partial,
-            force=ctx.args.force,
         )
     embedder = (
         AzureEmbedder.from_env(batch_size=config.storage.batch_size)
@@ -294,19 +266,17 @@ def _run_evaluation(ctx: StepContext) -> dict:
         get_cohere_rerank_endpoint()
         get_cohere_rerank_api_key()
     return run_evaluation_step(
-        run_id=ctx.run_id,
         config=config,
         wrapper=wrapper,
         embedder=embedder,
         limiter=ctx.limiter,
         small_scale=ctx.args.small_scale,
         allow_partial=ctx.args.allow_partial,
-        force=ctx.args.force,
     )
 
 
 def _run_comparison(ctx: StepContext) -> dict:
-    return run_comparison_step(run_id=ctx.run_id, config=ctx.config)
+    return run_comparison_step(config=ctx.config)
 
 
 def _print_failed_files(result: dict, *, style: str) -> None:
@@ -414,7 +384,7 @@ def _report_evaluation(ctx: StepContext, result: dict) -> bool:
     )
     if result["failed_policies"]:
         print(f"Failed policies: {', '.join(result['failed_policies'])}", file=sys.stderr)
-        _print_policy_failures(ctx.run_id, "evaluation", result["failed_policies"])
+        _print_policy_failures("evaluation", result["failed_policies"])
         return not ctx.args.allow_partial
     return False
 
@@ -440,7 +410,7 @@ def _report_diagnosis(ctx: StepContext, result: dict) -> bool:
     )
     if result["failed_policies"]:
         print(f"Failed policies: {', '.join(result['failed_policies'])}", file=sys.stderr)
-        _print_policy_failures(ctx.run_id, "discrepancy_diagnosis", result["failed_policies"])
+        _print_policy_failures("discrepancy_diagnosis", result["failed_policies"])
         return not ctx.args.allow_partial
     return False
 
@@ -534,7 +504,7 @@ def main() -> None:
         default=None,
         help=(
             "Comma-separated steps. Markdown path (default): translation_md, "
-            "md_to_text, storage, evaluation, comparison. translation_qa_md and "
+            "md_to_text, storage, evaluation. comparison, translation_qa_md and "
             "discrepancy_diagnosis are part of the Markdown path but must be requested "
             "explicitly (not run by default). The raw-OCR-text path (translation, "
             "translation_qa, markdown) stays available for comparison but is not run by "
@@ -544,11 +514,6 @@ def main() -> None:
         ),
     )
     parser.add_argument(
-        "--run-id",
-        default=None,
-        help="Existing run ID (required for evaluation/comparison-only on prior translation).",
-    )
-    parser.add_argument(
         "--small-scale",
         action="store_true",
         help="Process only the small-scale benchmark policies (paths.small_scale_stems).",
@@ -556,7 +521,12 @@ def main() -> None:
     parser.add_argument(
         "--force",
         action="store_true",
-        help="Re-run a step even if its output already exists (steps are idempotent by default).",
+        help=(
+            "Clean the project's automation output folder, then run. Without it, existing outputs are "
+            "kept and finished files are skipped (steps are idempotent), which is what a partial "
+            "--steps rerun relies on. The requested steps must be able to rebuild everything the "
+            "wipe removes; otherwise the run stops before deleting anything."
+        ),
     )
     parser.add_argument(
         "--allow-partial",
@@ -596,13 +566,6 @@ def main() -> None:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
 
-    if requires_run_id(steps, args.run_id):
-        print(
-            "Error: --run-id is required when running evaluation or comparison without translation.",
-            file=sys.stderr,
-        )
-        sys.exit(1)
-
     try:
         config = load_pipeline_config(
             pipeline_config_path=Path(args.pipeline_config),
@@ -618,50 +581,48 @@ def main() -> None:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
 
-    run_id = args.run_id or generate_run_id()
     pipeline_start = time.time()
     exit_code = 0
 
     try:
-        run_dir = get_run_dir(run_id)
-        if not args.run_id:
-            init_run_metadata(
-                run_id=run_id,
+        output_dir = get_output_dir()
+        validate_kwargs = dict(
+            retrieval_enabled=config.retrieval.enabled,
+            evaluation_method=config.evaluation_method,
+            translation_markdown_dir=config.paths.translation_markdown_dir,
+            processed_translation_markdown_dir=config.paths.processed_translation_markdown_dir,
+        )
+        if args.force:
+            # Check first, delete second: a wipe that the requested steps
+            # cannot rebuild would only leave the folder empty and the run failed.
+            try:
+                validate_for_steps(steps, assume_empty=True, **validate_kwargs)
+            except FileNotFoundError as exc:
+                reason = re.sub(r"[\\/]\.empty", "", str(exc))
+                raise FileNotFoundError(
+                    f"--force would clean {output_dir}, and the requested steps cannot "
+                    f"rebuild what they need ({reason}). Nothing was deleted."
+                ) from exc
+            removed = clean_output_dir()
+            print(f"Cleaned {output_dir} ({removed} entries removed)")
+        else:
+            validate_for_steps(steps, **validate_kwargs)
+
+        if metadata_exists():
+            print(f"Using existing output folder: {output_dir}")
+            update_metadata(status="running")
+        else:
+            init_metadata(
                 experiment_name=config.experiment_name,
                 small_scale=args.small_scale,
                 config_summary=build_config_summary(config),
                 pipeline_config_path=config.pipeline_config_path,
                 model_config_path=config.model_config_path,
             )
-            print(f"Created run: {run_id}")
-        elif not run_dir.exists():
-            if "translation" in steps or "translation_md" in steps:
-                init_run_metadata(
-                    run_id=run_id,
-                    experiment_name=config.experiment_name,
-                    small_scale=args.small_scale,
-                    config_summary=build_config_summary(config),
-                    pipeline_config_path=config.pipeline_config_path,
-                    model_config_path=config.model_config_path,
-                )
-                print(f"Created run: {run_id}")
-            else:
-                raise FileNotFoundError(
-                    f"Run directory not found: {run_dir}. Run translation first or omit --run-id."
-                )
-        else:
-            validate_run_for_steps(
-                run_id,
-                steps,
-                retrieval_enabled=config.retrieval.enabled,
-                evaluation_method=config.evaluation_method,
-                translation_markdown_dir=config.paths.translation_markdown_dir,
-                processed_translation_markdown_dir=config.paths.processed_translation_markdown_dir,
-            )
-            print(f"Using existing run: {run_id}")
+            print(f"Created output folder: {output_dir}")
 
         stopped = False
-        ctx = StepContext(run_id=run_id, config=config, limiter=limiter, args=args)
+        ctx = StepContext(config=config, limiter=limiter, args=args)
 
         for step in STEPS:
             if stopped or step.name not in steps:
@@ -676,10 +637,10 @@ def main() -> None:
             except (FileNotFoundError, ValueError, RuntimeError) as exc:
                 exit_code = 1
                 stopped = True
-                record_step_failure(run_id, step.name, str(exc))
+                record_step_failure(step.name, str(exc))
                 _print_step_failure(step.name, str(exc))
             else:
-                clear_step_failure(run_id, step.name)
+                clear_step_failure(step.name)
                 updates: dict = {
                     "execution_scope": {"steps_executed": [step.name], **step.extra_scope(result)}
                 }
@@ -689,23 +650,22 @@ def main() -> None:
                 if step.has_tokens:
                     updates["token_usage"] = {step.name: result["token_usage"]}
                 if step.records_failures:
-                    updates["failures"] = summarize_failures(run_id)
-                update_metadata(run_id, **updates)
+                    updates["failures"] = summarize_failures()
+                update_metadata(**updates)
                 if step.report(ctx, result):
                     exit_code = 1
 
         total_elapsed = round(time.time() - pipeline_start, 2)
         status = "completed" if exit_code == 0 else "completed_with_errors"
-        failure_summary = summarize_failures(run_id)
+        failure_summary = summarize_failures()
         update_metadata(
-            run_id,
             status=status,
             timing_seconds={"total": total_elapsed},
             failures=failure_summary,
         )
 
-        print(f"\nPipeline finished (run_id={run_id}, status={status})")
-        _print_overall_alignment_rate(run_id)
+        print(f"\nPipeline finished (status={status})")
+        _print_overall_alignment_rate()
         if (
             failure_summary["translation"]
             or failure_summary["translation_qa"]
@@ -714,7 +674,7 @@ def main() -> None:
             or failure_summary["discrepancy_diagnosis"]
             or failure_summary["step_failures"]
         ):
-            failures_path = get_run_dir(run_id) / "failures.json"
+            failures_path = get_output_dir() / "failures.json"
             print(
                 f"Failures logged: {failure_summary['translation']} translation, "
                 f"{failure_summary['translation_qa']} translation_qa, "
@@ -727,11 +687,10 @@ def main() -> None:
 
     except (FileNotFoundError, ValueError, RuntimeError) as exc:
         print(f"Error: {exc}", file=sys.stderr)
-        if run_id:
-            try:
-                update_metadata(run_id, status="failed")
-            except FileNotFoundError:
-                pass
+        try:
+            update_metadata(status="failed")
+        except FileNotFoundError:
+            pass
         sys.exit(1)
 
     sys.exit(exit_code)

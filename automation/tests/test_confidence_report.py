@@ -105,10 +105,9 @@ def test_coverage_row_with_zero_errors_reports_null_coverage():
 def test_report_headline_numbers(sample_df):
     config = ConfidenceReportConfig(thresholds=(0.7, 0.9), quantiles=(0.5,), primary_threshold=0.9)
 
-    report = build_confidence_report(sample_df, config, run_id="20260821_102245", model="gpt-5.2")
+    report = build_confidence_report(sample_df, config, model="gpt-5.2")
 
     assert report["status"] == STATUS_OK
-    assert report["run_id"] == "20260821_102245"
     assert report["confidence_source"]["availability"] == 1.0
     assert report["baseline"]["error_count"] == 3
     assert report["baseline"]["accuracy"] == pytest.approx(0.5)

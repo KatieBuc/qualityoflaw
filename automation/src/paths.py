@@ -8,7 +8,7 @@
         processed/                validated pair, the input to evaluation (stage 4)
             cleaned_markdown/
             translation_markdown/
-        automation/<run_id>/      evaluation outputs
+        automation/                  evaluation outputs (one folder; a rerun cleans it)
         mapping/index_schema.yaml
         corrections/manual_overwrites.yaml
         long_policy_encoding.csv  golden indicator labels (comparison only)

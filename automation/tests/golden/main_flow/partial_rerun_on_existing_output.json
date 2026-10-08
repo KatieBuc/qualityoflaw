@@ -1,23 +1,6 @@
 {
   "calls": [
     {
-      "embedder": "absent",
-      "fn": "run_md_to_text_step",
-      "limiter": null,
-      "small_scale": false,
-      "wrapper": null
-    },
-    {
-      "embedder": "embedder:16",
-      "fn": "run_storage_step",
-      "limiter": {
-        "enabled": true,
-        "max_workers": 5
-      },
-      "small_scale": false,
-      "wrapper": null
-    },
-    {
       "allow_partial": false,
       "embedder": "embedder:16",
       "fn": "run_evaluation_step",
@@ -35,28 +18,15 @@
       "wrapper": null
     }
   ],
-  "exit_code": 1,
+  "exit_code": 0,
   "output": {
-    "failures": {
-      "discrepancy_diagnosis": [],
-      "evaluation": [
-        {
-          "at": "<ts>",
-          "message": "schema mismatch",
-          "policy_file": "B.txt"
-        }
-      ],
-      "step_failures": [],
-      "storage": [],
-      "translation": [],
-      "translation_qa": [],
-      "updated_at": "<ts>"
-    },
+    "failures": null,
     "files": [
       "config/model_config.yaml",
       "config/pipeline_config.yaml",
-      "failures.json",
-      "metadata.json"
+      "metadata.json",
+      "mid_product/rag_store/a.json",
+      "results/translation/a.txt"
     ],
     "metadata": {
       "config": {
@@ -111,8 +81,6 @@
         ],
         "small_scale": false,
         "steps_executed": [
-          "md_to_text",
-          "storage",
           "evaluation",
           "comparison"
         ]
@@ -120,7 +88,7 @@
       "experiment_name": "first-full-run",
       "failures": {
         "discrepancy_diagnosis": 0,
-        "evaluation": 1,
+        "evaluation": 0,
         "step_failures": 0,
         "storage": 0,
         "translation": 0,
@@ -128,29 +96,13 @@
       },
       "file_counts": {
         "evaluation": {
-          "failed": 1,
-          "saved_reports": 2,
-          "skipped": 1,
-          "succeeded": 2,
-          "total": 3
-        },
-        "md_to_text": {
-          "clauses_lost": 0,
           "failed": 0,
-          "repaired": 1,
-          "skipped": 0,
-          "source_unaligned": 2,
-          "succeeded": 3,
-          "total": 3
-        },
-        "storage": {
-          "failed": 0,
-          "skipped": 0,
+          "saved_reports": 3,
           "succeeded": 3,
           "total": 3
         }
       },
-      "status": "completed_with_errors",
+      "status": "completed",
       "timestamps": {
         "created_at": "<ts>",
         "updated_at": "<ts>"
@@ -158,8 +110,6 @@
       "timing_seconds": {
         "comparison": 0.1,
         "evaluation": 2.0,
-        "md_to_text": 0.1,
-        "storage": 0.4,
         "total": "<elapsed>"
       },
       "token_usage": {
@@ -171,6 +121,6 @@
       }
     }
   },
-  "stderr": "Failed policies: B.txt\n  B.txt: schema mismatch\nFailures logged: 0 translation, 0 translation_qa, 0 storage, 1 evaluation, 0 discrepancy_diagnosis, 0 step-level → <tmp>/out/failures.json\n",
-  "stdout": "Created output folder: <tmp>/out\n\nStep: md_to_text\nMarkdown to text: 3 succeeded, 0 skipped, 0 failed, 1 structure-repaired, 2 with unpaired source, 0 with LOST CLAUSES\n\nStep: storage\nStorage: 3 succeeded, 0 skipped, 0 failed\n\nStep: evaluation (method=rag)\nEvaluation: 2 succeeded, 1 failed, 1 skipped\n\nStep: comparison\nComparison: accuracy 82.13%, metrics at metrics.csv\n\nPipeline finished (status=completed_with_errors)\n"
+  "stderr": "",
+  "stdout": "Created output folder: <tmp>/out\n\nStep: evaluation (method=rag)\nEvaluation: 3 succeeded, 0 failed\n\nStep: comparison\nComparison: accuracy 82.13%, metrics at metrics.csv\n\nPipeline finished (status=completed)\n"
 }

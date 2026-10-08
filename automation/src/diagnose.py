@@ -6,7 +6,7 @@ and the translated snippet + rationale the judge produced.
 
 Final stage of the pipeline, run after comparison. Writes one aggregated
 JSON report per policy file to
-`data/automation/<run_id>/results/diagnosis/<stem>.json`.
+`data/<project>/automation/results/diagnosis/<stem>.json`.
 A no-op (no report files written) when comparison found zero mismatches.
 """
 
@@ -24,7 +24,7 @@ from pydantic import BaseModel
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
 )
@@ -222,7 +222,6 @@ def _empty_result(output_dir: Path, wrapper: AzureLLMWrapper, elapsed: float, sk
 
 
 def run_diagnosis_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
     *,
@@ -231,7 +230,7 @@ def run_diagnosis_step(
     allow_partial: bool = False,
     force: bool = False,
 ) -> dict:
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     comparison_dir = resolve_results_dir(run_dir, "comparison")
     evaluation_dir = resolve_results_dir(run_dir, "evaluation")
     rag_candidates_dir = resolve_mid_product_dir(run_dir, "rag_candidates")
@@ -311,7 +310,7 @@ def run_diagnosis_step(
                     "details": details,
                     "attempts": 1,
                 }
-                record_failure(run_id, "discrepancy_diagnosis", entry)
+                record_failure("discrepancy_diagnosis", entry)
                 logger.error("[%s] diagnosis failed [%s]: %s", filename, error_type, result)
                 failed_policies.append(filename)
                 continue
@@ -324,7 +323,7 @@ def run_diagnosis_step(
                     "details": result.error_details or {},
                     "attempts": 1,
                 }
-                record_failure(run_id, "discrepancy_diagnosis", entry)
+                record_failure("discrepancy_diagnosis", entry)
                 failed_policies.append(filename)
                 continue
 
@@ -340,7 +339,7 @@ def run_diagnosis_step(
                     "details": {},
                     "attempts": 1,
                 }
-                record_failure(run_id, "discrepancy_diagnosis", entry)
+                record_failure("discrepancy_diagnosis", entry)
                 failed_policies.append(filename)
                 continue
 
@@ -359,7 +358,7 @@ def run_diagnosis_step(
             output_path = output_dir / f"{Path(filename).stem}.json"
             output_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
             saved_paths.append(str(output_path))
-            clear_failure(run_id, "discrepancy_diagnosis", filename)
+            clear_failure("discrepancy_diagnosis", filename)
 
     elapsed = round(time.time() - start, 2)
     succeeded = len(grouped) - len(failed_policies)

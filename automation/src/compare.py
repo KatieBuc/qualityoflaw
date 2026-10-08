@@ -5,15 +5,14 @@ from automation.src.evaluate_accuracy import run_accuracy_evaluation
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
     evaluation_output_names,
-    get_run_dir,
+    get_output_dir,
     resolve_results_dir,
 )
 
 def run_comparison_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
 ) -> dict:
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     eval_name, comparison_name = evaluation_output_names(config.evaluation_method)
     evaluation_dir = resolve_results_dir(run_dir, eval_name)
     comparison_dir = resolve_results_dir(run_dir, comparison_name)
@@ -31,7 +30,6 @@ def run_comparison_step(
         manual_overwrites_path=str(config.paths.manual_overwrites),
         confidence_config=config.comparison_confidence,
         confidence_context={
-            "run_id": run_id,
             "model": config.evaluation_model.deployment,
             "temperature": config.evaluation_model.temperature,
             "evaluation_dir": str(evaluation_dir),

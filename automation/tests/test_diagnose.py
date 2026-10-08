@@ -27,7 +27,7 @@ class _Config:
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
@@ -108,22 +108,20 @@ DISCREPANCY_ROW = {
 
 
 def test_missing_error_analysis_is_noop(config, data_root):
-    run_id = "run_noop"
     wrapper = _make_wrapper(lambda *a, **k: {"diagnosis_results": []})
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_diagnosis_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["discrepancies_total"] == 0
     assert result["counts"]["saved_reports"] == 0
     assert "skipped_reason" in result
-    assert not (data_root / run_id / "results" / "diagnosis").exists()
+    assert not (data_root / "results" / "diagnosis").exists()
     wrapper.complete_structured.assert_not_called()
 
 
 def test_missing_rag_candidates_fails_only_that_policy(config, data_root):
-    run_id = "run_missing_candidates"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "A.txt").write_text("Teks asli A.", encoding="utf-8")
     (config.paths.input_dir / "B.txt").write_text("Teks asli B.", encoding="utf-8")
 
@@ -144,7 +142,7 @@ def test_missing_rag_candidates_fails_only_that_policy(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_diagnosis_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["failed_policies"] == ["A.txt"]
     assert result["counts"]["succeeded"] == 1
@@ -157,8 +155,7 @@ def test_missing_rag_candidates_fails_only_that_policy(config, data_root):
 
 
 def test_unresolved_indicator_excluded_and_reported(config, data_root):
-    run_id = "run_unresolved"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "C.txt").write_text("Teks asli C.", encoding="utf-8")
 
     row_resolvable = {**DISCREPANCY_ROW, "filename": "C.txt", "indicator_id": "1.1"}
@@ -184,7 +181,7 @@ def test_unresolved_indicator_excluded_and_reported(config, data_root):
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
     # Without --allow-partial: unresolved_indicators makes the whole policy incomplete.
-    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter, allow_partial=False)
+    result = run_diagnosis_step(config=config, wrapper=wrapper, limiter=limiter, allow_partial=False)
     assert result["failed_policies"] == ["C.txt"]
     assert not (run_dir / "results" / "diagnosis" / "C.json").exists()
     # "9.9" must never reach the LLM prompt since it has no candidates.
@@ -193,8 +190,7 @@ def test_unresolved_indicator_excluded_and_reported(config, data_root):
 
 
 def test_partial_report_written_with_allow_partial(config, data_root):
-    run_id = "run_partial"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "D.txt").write_text("Teks asli D.", encoding="utf-8")
 
     row_1 = {**DISCREPANCY_ROW, "filename": "D.txt", "indicator_id": "1.1"}
@@ -222,7 +218,7 @@ def test_partial_report_written_with_allow_partial(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter, allow_partial=True)
+    result = run_diagnosis_step(config=config, wrapper=wrapper, limiter=limiter, allow_partial=True)
 
     assert result["failed_policies"] == []
     assert result["counts"]["succeeded"] == 1
@@ -236,8 +232,7 @@ def test_partial_report_written_with_allow_partial(config, data_root):
 
 
 def test_run_diagnosis_step_skips_existing_report_by_default(config, data_root):
-    run_id = "run_resume"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "A.txt").write_text("Teks asli A.", encoding="utf-8")
 
     row = {**DISCREPANCY_ROW, "filename": "A.txt"}
@@ -253,7 +248,7 @@ def test_run_diagnosis_step_skips_existing_report_by_default(config, data_root):
     wrapper = _make_wrapper(lambda *a, **k: {"diagnosis_results": []})
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
+    result = run_diagnosis_step(config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["skipped"] == 1
     assert result["counts"]["succeeded"] == 0
@@ -261,8 +256,7 @@ def test_run_diagnosis_step_skips_existing_report_by_default(config, data_root):
 
 
 def test_run_diagnosis_step_force_reruns_existing(config, data_root):
-    run_id = "run_force"
-    run_dir = data_root / run_id
+    run_dir = data_root
     (config.paths.input_dir / "A.txt").write_text("Teks asli A.", encoding="utf-8")
 
     row = {**DISCREPANCY_ROW, "filename": "A.txt"}
@@ -282,7 +276,7 @@ def test_run_diagnosis_step_force_reruns_existing(config, data_root):
     )
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter, force=True)
+    result = run_diagnosis_step(config=config, wrapper=wrapper, limiter=limiter, force=True)
 
     assert result["counts"]["skipped"] == 0
     assert result["counts"]["succeeded"] == 1

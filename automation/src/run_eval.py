@@ -13,7 +13,7 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
     RetrievalConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
 )
@@ -542,7 +542,6 @@ def _process_policy_result(
 
 
 def run_evaluation_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
     embedder: AzureEmbedder | None,
@@ -552,7 +551,7 @@ def run_evaluation_step(
     allow_partial: bool = False,
     force: bool = False,
 ) -> dict:
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     policy_dir = resolve_results_dir(run_dir, "translation")
     rag_store_dir = resolve_mid_product_dir(run_dir, "rag_store")
     output_dir = resolve_results_dir(run_dir, "evaluation")
@@ -624,7 +623,7 @@ def run_evaluation_step(
                 )
             except Exception as exc:
                 entry = _failure_entry_from_exc(policy_path.name, exc)
-                record_failure(run_id, "evaluation", entry)
+                record_failure("evaluation", entry)
                 logger.error(
                     "[%s] evaluation failed [%s]: %s",
                     policy_path.name,
@@ -647,9 +646,9 @@ def run_evaluation_step(
                 saved_paths.append(output_path)
             if policy_failed:
                 failed_policies.append(policy_path.name)
-                record_failure(run_id, "evaluation", _failure_entry_from_report(final_report))
+                record_failure("evaluation", _failure_entry_from_report(final_report))
             elif success:
-                clear_failure(run_id, "evaluation", policy_path.name)
+                clear_failure("evaluation", policy_path.name)
     else:
         tasks = [
             lambda p=p: _evaluate_policy_parallel(
@@ -670,7 +669,7 @@ def run_evaluation_step(
         for policy_path, result in zip(policy_files, policy_results, strict=True):
             if isinstance(result, BaseException):
                 entry = _failure_entry_from_exc(policy_path.name, result)
-                record_failure(run_id, "evaluation", entry)
+                record_failure("evaluation", entry)
                 logger.error(
                     "[%s] evaluation failed [%s]: %s",
                     policy_path.name,
@@ -694,9 +693,9 @@ def run_evaluation_step(
                 saved_paths.append(output_path)
             if policy_failed:
                 failed_policies.append(policy_path.name)
-                record_failure(run_id, "evaluation", _failure_entry_from_report(final_report))
+                record_failure("evaluation", _failure_entry_from_report(final_report))
             elif success:
-                clear_failure(run_id, "evaluation", policy_path.name)
+                clear_failure("evaluation", policy_path.name)
 
     elapsed = round(time.time() - start, 2)
     total = total_candidates

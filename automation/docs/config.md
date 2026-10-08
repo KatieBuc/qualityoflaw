@@ -78,7 +78,7 @@ Both blocks are optional; when omitted the code falls back to built-in defaults.
 **Switching `primary` after a run is a comparison-only change.** Every enabled method is stored per indicator, so:
 
 ```bash
-python -m automation.src.run_pipeline --run-id <run> --steps comparison --force
+python -m automation.src.run_pipeline --steps comparison
 ```
 
 recomputes the entire report — coverage, calibration, discrimination, breakdowns, `flagged_sample`, and `low_confidence.csv` — against the newly chosen method. No re-evaluation and no API calls.

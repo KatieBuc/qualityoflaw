@@ -1,23 +1,5 @@
 {
-  "calls": [
-    {
-      "embedder": "absent",
-      "fn": "run_md_translation_step",
-      "limiter": {
-        "enabled": true,
-        "max_workers": 5
-      },
-      "small_scale": false,
-      "wrapper": "wrapper:claude-sonnet-4-5:confidence=False"
-    },
-    {
-      "embedder": "absent",
-      "fn": "run_md_to_text_step",
-      "limiter": null,
-      "small_scale": false,
-      "wrapper": null
-    }
-  ],
+  "calls": [],
   "exit_code": 1,
   "output": {
     "failures": null,
@@ -76,8 +58,7 @@
         "evaluated_policy_files": [],
         "small_scale": false,
         "steps_executed": [
-          "translation_md",
-          "md_to_text"
+          "translation_md"
         ]
       },
       "experiment_name": "first-full-run",
@@ -90,14 +71,6 @@
         "translation_qa": 0
       },
       "file_counts": {
-        "md_to_text": {
-          "clauses_lost": 1,
-          "failed": 1,
-          "repaired": 0,
-          "skipped": 0,
-          "succeeded": 2,
-          "total": 3
-        },
         "translation_md": {
           "failed": 0,
           "skipped": 0,
@@ -105,13 +78,12 @@
           "total": 3
         }
       },
-      "status": "completed_with_errors",
+      "status": "failed",
       "timestamps": {
         "created_at": "<ts>",
         "updated_at": "<ts>"
       },
       "timing_seconds": {
-        "md_to_text": 0.1,
         "total": "<elapsed>",
         "translation_md": 1.5
       },
@@ -124,6 +96,6 @@
       }
     }
   },
-  "stderr": "  X.md (chunks): boom\n",
-  "stdout": "Created output folder: <tmp>/out\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: md_to_text\nMarkdown to text: 2 succeeded, 0 skipped, 1 failed, 0 structure-repaired, 0 with unpaired source, 1 with LOST CLAUSES\n\nPipeline finished (status=completed_with_errors)\n"
+  "stderr": "Error: Translation output required for evaluation: <tmp>/out/results/translation\n",
+  "stdout": ""
 }

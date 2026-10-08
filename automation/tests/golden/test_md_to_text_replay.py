@@ -27,7 +27,7 @@ STEMS = [
 
 @pytest.mark.skipif(not REFERENCE_RUN.is_dir(), reason="reference run not available")
 def test_md_to_text_reproduces_committed_outputs(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     run_dir = tmp_path / "REPLAY"
     for stem in STEMS:
         for sub in ("translation_markdown", "source_markdown"):
@@ -39,7 +39,7 @@ def test_md_to_text_reproduces_committed_outputs(tmp_path, monkeypatch):
             shutil.copyfile(src, dst)
 
     config = load_pipeline_config(DEFAULT_PIPELINE_CONFIG, DEFAULT_MODEL_CONFIG)
-    result = run_md_to_text_step("REPLAY", config)
+    result = run_md_to_text_step(config)
     assert result["counts"]["failed"] == 0
     assert result["counts"]["total"] == len(STEMS)
 

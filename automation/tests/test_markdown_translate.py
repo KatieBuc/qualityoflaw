@@ -100,7 +100,7 @@ def make_config(tmp_path, target_chars: int, safe_limit: int = 32000):
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
@@ -121,16 +121,15 @@ def make_wrapper():
     return wrapper
 
 
-def run(config, data_root, run_id="md_run", force=False):
+def run(config, data_root, force=False):
     wrapper = make_wrapper()
     result = run_md_translation_step(
-        run_id=run_id,
         config=config,
         wrapper=wrapper,
         limiter=ConcurrencyLimiter(max_workers=2, enabled=False),
         force=force,
     )
-    return result, wrapper, data_root / run_id
+    return result, wrapper, data_root
 
 
 def test_packing_collapses_many_sections_into_few_calls(corpus, tmp_path, data_root):

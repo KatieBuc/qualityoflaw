@@ -9,8 +9,15 @@ from automation.src.config_loader import load_model_profiles, load_pipeline_conf
 from automation.src.constants import AUTOMATION_ROOT, SMALL_SCALE_FILES
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, clean_translation_response, format_api_error
-from automation.src.metadata import generate_run_id, init_run_metadata, load_metadata, update_metadata
-from automation.src.run_pipeline import parse_steps, requires_run_id
+from automation.src.config_loader import clean_output_dir
+from automation.src.metadata import (
+    init_metadata,
+    load_metadata,
+    metadata_exists,
+    update_metadata,
+    validate_for_steps,
+)
+from automation.src.run_pipeline import parse_steps
 from automation.src.legacy.translate import resolve_input_files
 
 
@@ -219,11 +226,10 @@ def test_azure_llm_wrapper_raises_llm_call_error_after_retries():
 
 
 def test_metadata_round_trip(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
 
-    run_id = "20250101_120000"
-    init_run_metadata(
-        run_id=run_id,
+    assert not metadata_exists()
+    init_metadata(
         experiment_name="exp",
         small_scale=True,
         config_summary={"translation_model": "test-translate"},
@@ -231,128 +237,113 @@ def test_metadata_round_trip(tmp_path, monkeypatch):
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
     )
 
-    meta = load_metadata(run_id)
-    assert meta["run_id"] == run_id
+    assert metadata_exists()
+    meta = load_metadata()
+    assert "run_id" not in meta
     assert meta["execution_scope"]["small_scale"] is True
-    assert (tmp_path / run_id / "config" / "pipeline_config.yaml").exists()
+    assert (tmp_path / "config" / "pipeline_config.yaml").exists()
 
     update_metadata(
-        run_id,
         execution_scope={"steps_executed": ["translation"]},
         timing_seconds={"translation": 1.5},
     )
-    updated = load_metadata(run_id)
+    updated = load_metadata()
     assert updated["execution_scope"]["steps_executed"] == ["translation"]
     assert updated["timing_seconds"]["translation"] == 1.5
 
 
-def test_generate_run_id_collision(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+def test_clean_output_dir_empties_the_folder_but_keeps_it(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
+    (tmp_path / "results" / "evaluation").mkdir(parents=True)
+    (tmp_path / "results" / "evaluation" / "A.json").write_text("{}", encoding="utf-8")
+    (tmp_path / "metadata.json").write_text("{}", encoding="utf-8")
 
-    with patch("automation.src.metadata.datetime") as mock_dt:
-        mock_dt.now.return_value.strftime.return_value = "20250101_120000"
-        first = generate_run_id()
-        (tmp_path / first).mkdir()
-        second = generate_run_id()
-
-    assert first == "20250101_120000"
-    assert second == "20250101_120000_2"
+    assert clean_output_dir() == 2
+    assert tmp_path.is_dir() and list(tmp_path.iterdir()) == []
+    assert clean_output_dir() == 0
 
 
-def test_requires_run_id_helpers():
-    assert requires_run_id(parse_steps(None), None) is False
-    assert requires_run_id(parse_steps("evaluation,comparison"), None) is True
+def test_clean_output_dir_refuses_a_path_outside_the_data_root(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", None)
+    monkeypatch.setattr("automation.src.config_loader._active_project", "../../..")
+    with pytest.raises(ValueError, match="Refusing to clean"):
+        clean_output_dir()
 
 
-def test_validate_run_for_steps_missing_translation(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
-
-    run_id = "test_run"
-    (tmp_path / run_id).mkdir()
-
-    from automation.src.metadata import validate_run_for_steps
+def test_validate_for_steps_missing_translation(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
 
     with pytest.raises(FileNotFoundError, match="Translation output required"):
-        validate_run_for_steps(run_id, ["evaluation"])
+        validate_for_steps(["evaluation"])
 
 
-def test_validate_run_for_steps_accepts_pre_refactor_flat_layout(tmp_path, monkeypatch):
-    """A run created before the results/mid_product split (flat run_dir/<name>
-    layout) must still pass validation without being physically migrated."""
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+def test_validate_for_steps_accepts_pre_refactor_flat_layout(tmp_path, monkeypatch):
+    """Output created before the results/mid_product split (flat <name> layout)
+    must still pass validation without being physically migrated."""
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
 
-    run_id = "old_layout_run"
-    run_dir = tmp_path / run_id
-    translation_dir = run_dir / "translation"  # flat, pre-refactor layout
+    translation_dir = tmp_path / "translation"  # flat, pre-refactor layout
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("text", encoding="utf-8")
-    evaluation_dir = run_dir / "evaluation"
+    evaluation_dir = tmp_path / "evaluation"
     evaluation_dir.mkdir(parents=True)
     (evaluation_dir / "report.json").write_text("{}", encoding="utf-8")
 
-    from automation.src.metadata import validate_run_for_steps
-
     # Should not raise, even though there's no results/ or mid_product/ subfolder.
-    validate_run_for_steps(run_id, ["comparison"], retrieval_enabled=False)
+    validate_for_steps(["comparison"], retrieval_enabled=False)
 
 
-def test_validate_run_for_steps_requires_rag_store_when_retrieval_enabled(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+def test_validate_for_steps_requires_rag_store_when_retrieval_enabled(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
 
-    run_id = "test_run"
-    run_dir = tmp_path / run_id
-    translation_dir = run_dir / "results" / "translation"
+    translation_dir = tmp_path / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("text", encoding="utf-8")
-
-    from automation.src.metadata import validate_run_for_steps
 
     with pytest.raises(FileNotFoundError, match="RAG store required"):
-        validate_run_for_steps(run_id, ["evaluation"], retrieval_enabled=True)
+        validate_for_steps(["evaluation"], retrieval_enabled=True)
 
 
-def test_validate_run_for_steps_allows_comparison_when_evaluation_also_requested(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+def test_validate_for_steps_allows_comparison_when_evaluation_also_requested(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
 
-    run_id = "test_run"
-    run_dir = tmp_path / run_id
-    translation_dir = run_dir / "results" / "translation"
+    translation_dir = tmp_path / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("text", encoding="utf-8")
-    rag_store_dir = run_dir / "mid_product" / "rag_store"
+    rag_store_dir = tmp_path / "mid_product" / "rag_store"
     rag_store_dir.mkdir(parents=True)
     (rag_store_dir / "A.json").write_text("{}", encoding="utf-8")
 
-    from automation.src.metadata import validate_run_for_steps
-
     # evaluation/ has no reports yet, but "evaluation" is also requested in this
     # invocation and will produce them before "comparison" runs — must not raise.
-    validate_run_for_steps(run_id, ["evaluation", "comparison"], retrieval_enabled=True)
+    validate_for_steps(["evaluation", "comparison"], retrieval_enabled=True)
 
 
-def test_validate_run_for_steps_rejects_comparison_alone_without_evaluation_output(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
-
-    run_id = "test_run"
-    run_dir = tmp_path / run_id
-    run_dir.mkdir(parents=True)
-
-    from automation.src.metadata import validate_run_for_steps
+def test_validate_for_steps_rejects_comparison_alone_without_evaluation_output(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
 
     with pytest.raises(FileNotFoundError, match="Evaluation output required"):
-        validate_run_for_steps(run_id, ["comparison"], retrieval_enabled=True)
+        validate_for_steps(["comparison"], retrieval_enabled=True)
 
 
-def test_validate_run_for_steps_skips_rag_store_when_retrieval_disabled(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+def test_validate_for_steps_skips_rag_store_when_retrieval_disabled(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
 
-    run_id = "test_run"
-    run_dir = tmp_path / run_id
-    translation_dir = run_dir / "results" / "translation"
+    translation_dir = tmp_path / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("text", encoding="utf-8")
 
-    from automation.src.metadata import validate_run_for_steps
-
     # No rag_store/ directory exists — this must not raise when retrieval is disabled.
-    validate_run_for_steps(run_id, ["evaluation"], retrieval_enabled=False)
+    validate_for_steps(["evaluation"], retrieval_enabled=False)
+
+
+def test_assume_empty_ignores_existing_outputs(tmp_path, monkeypatch):
+    """What --force checks before wiping: existing outputs do not count."""
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
+    evaluation_dir = tmp_path / "results" / "evaluation"
+    evaluation_dir.mkdir(parents=True)
+    (evaluation_dir / "A.json").write_text("{}", encoding="utf-8")
+
+    validate_for_steps(["comparison"])  # fine: the evaluation output exists
+    with pytest.raises(FileNotFoundError, match="Evaluation output required"):
+        validate_for_steps(["comparison"], assume_empty=True)  # but --force would delete it

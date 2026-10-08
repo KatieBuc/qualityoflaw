@@ -54,7 +54,7 @@ from pathlib import Path
 
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
 )
@@ -234,7 +234,6 @@ def convert_one(
 
 
 def run_md_to_text_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     *,
     small_scale: bool = False,
@@ -253,7 +252,7 @@ def run_md_to_text_step(
     `failures.json` -- it is a translation-fidelity defect, and that is where
     someone looking for one would go.
     """
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     md_dir = config.paths.processed_translation_markdown_dir
     text_dir = resolve_results_dir(run_dir, "translation")
     chunks_dir = resolve_mid_product_dir(run_dir, "chunks")
@@ -315,7 +314,6 @@ def run_md_to_text_step(
             for stale in (text_path, chunks_path):
                 stale.unlink(missing_ok=True)
             record_failure(
-                run_id,
                 "translation",
                 {
                     "filename": f"{stem}.txt",
@@ -368,7 +366,7 @@ def run_md_to_text_step(
         # amendments with legitimately non-continuous or repeated numbering,
         # which would trip the same false positive. So: log for visibility,
         # never fail the file over it.
-        clear_failure(run_id, "translation", f"{stem}.txt")
+        clear_failure("translation", f"{stem}.txt")
         if diff is not None:
             counts["repaired"] += 1
             if diff.lost_clauses:
@@ -393,7 +391,6 @@ def run_md_to_text_step(
                 alignment.total,
             )
             record_failure(
-                run_id,
                 "translation",
                 {
                     "filename": f"{stem}.txt",

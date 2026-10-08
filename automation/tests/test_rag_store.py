@@ -68,7 +68,7 @@ def pipeline_config():
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
@@ -79,8 +79,7 @@ def _fake_embedder():
 
 
 def test_run_storage_step_writes_one_json_per_policy(pipeline_config, data_root):
-    run_id = "storage_run"
-    translation_dir = data_root / run_id / "results" / "translation"
+    translation_dir = data_root / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text(
         "Article 1\nSome policy text about domestic violence.", encoding="utf-8"
@@ -92,12 +91,12 @@ def test_run_storage_step_writes_one_json_per_policy(pipeline_config, data_root)
     embedder = _fake_embedder()
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter)
+    result = run_storage_step(pipeline_config, embedder, limiter=limiter)
 
     assert result["counts"]["succeeded"] == 2
     assert result["counts"]["failed"] == 0
 
-    store_dir = data_root / run_id / "mid_product" / "rag_store"
+    store_dir = data_root / "mid_product" / "rag_store"
     a_store = json.loads((store_dir / "A.json").read_text(encoding="utf-8"))
     b_store = json.loads((store_dir / "B.json").read_text(encoding="utf-8"))
 
@@ -112,11 +111,10 @@ def test_run_storage_step_writes_one_json_per_policy(pipeline_config, data_root)
 def test_run_storage_step_falls_back_to_english_marker_chunking_without_chunks_artifact(
     pipeline_config, data_root
 ):
-    """No data/automation/<run_id>/chunks/<stem>.chunks.json exists (e.g.
+    """No data/<project>/automation/mid_product/chunks/<stem>.chunks.json exists (e.g.
     translation.chunking was disabled), so the translated .txt is chunked
     directly using the English structural marker regex."""
-    run_id = "storage_fallback"
-    translation_dir = data_root / run_id / "results" / "translation"
+    translation_dir = data_root / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text(
         "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nContent of article one.\n"
@@ -127,10 +125,10 @@ def test_run_storage_step_falls_back_to_english_marker_chunking_without_chunks_a
     embedder = _fake_embedder()
     limiter = ConcurrencyLimiter(max_workers=1, enabled=False)
 
-    result = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter)
+    result = run_storage_step(pipeline_config, embedder, limiter=limiter)
     assert result["counts"]["succeeded"] == 1
 
-    store = json.loads((data_root / run_id / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
+    store = json.loads((data_root / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
     assert len(store["chunks"]) == 2
     assert store["chunks"][0]["text"].startswith("CHAPTER I\nGENERAL PROVISIONS")
     assert store["chunks"][1]["text"].startswith("CHAPTER II\nPURPOSE")
@@ -140,14 +138,13 @@ def test_run_storage_step_reuses_translation_chunks_when_available(pipeline_conf
     """When the translation step already chunked the source doc and persisted
     per-chunk English translations, RAG storage reuses those exact chunk
     boundaries/text instead of re-chunking the merged translated file."""
-    run_id = "storage_reuse"
-    translation_dir = data_root / run_id / "results" / "translation"
+    translation_dir = data_root / "results" / "translation"
     translation_dir.mkdir(parents=True)
     # Deliberately different from the chunk translations below, to prove the
     # merged file is NOT re-chunked when a valid chunks.json is present.
     (translation_dir / "A.txt").write_text("merged output text, ignored", encoding="utf-8")
 
-    chunks_dir = data_root / run_id / "mid_product" / "chunks"
+    chunks_dir = data_root / "mid_product" / "chunks"
     chunks_dir.mkdir(parents=True)
     (chunks_dir / "A.chunks.json").write_text(
         json.dumps(
@@ -176,10 +173,10 @@ def test_run_storage_step_reuses_translation_chunks_when_available(pipeline_conf
     embedder = _fake_embedder()
     limiter = ConcurrencyLimiter(max_workers=1, enabled=False)
 
-    result = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter)
+    result = run_storage_step(pipeline_config, embedder, limiter=limiter)
     assert result["counts"]["succeeded"] == 1
 
-    store = json.loads((data_root / run_id / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
+    store = json.loads((data_root / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
     assert [c["text"] for c in store["chunks"]] == [
         "Article 1\nThe content of article one.",
         "Article 2\nThe content of article two.",
@@ -194,14 +191,13 @@ def test_run_storage_step_reuses_translation_chunks_when_available(pipeline_conf
 
 
 def test_run_storage_step_falls_back_when_chunks_json_invalid(pipeline_config, data_root):
-    run_id = "storage_invalid_chunks"
-    translation_dir = data_root / run_id / "results" / "translation"
+    translation_dir = data_root / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text(
         "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nContent of article one.", encoding="utf-8"
     )
 
-    chunks_dir = data_root / run_id / "mid_product" / "chunks"
+    chunks_dir = data_root / "mid_product" / "chunks"
     chunks_dir.mkdir(parents=True)
     # Missing translated_text -> invalid, should trigger the fallback path.
     (chunks_dir / "A.chunks.json").write_text(
@@ -212,10 +208,10 @@ def test_run_storage_step_falls_back_when_chunks_json_invalid(pipeline_config, d
     embedder = _fake_embedder()
     limiter = ConcurrencyLimiter(max_workers=1, enabled=False)
 
-    result = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter)
+    result = run_storage_step(pipeline_config, embedder, limiter=limiter)
     assert result["counts"]["succeeded"] == 1
 
-    store = json.loads((data_root / run_id / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
+    store = json.loads((data_root / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
     assert store["chunks"][0]["text"].startswith("CHAPTER I\nGENERAL PROVISIONS")
 
 
@@ -262,23 +258,22 @@ def test_load_translation_chunks_rejects_empty_or_missing(tmp_path):
 
 
 def test_run_storage_step_skips_existing_unless_forced(pipeline_config, data_root):
-    run_id = "storage_skip"
-    translation_dir = data_root / run_id / "results" / "translation"
+    translation_dir = data_root / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("Article 1\nSome text.", encoding="utf-8")
 
     embedder = _fake_embedder()
     limiter = ConcurrencyLimiter(max_workers=1, enabled=False)
 
-    first = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter)
+    first = run_storage_step(pipeline_config, embedder, limiter=limiter)
     assert first["counts"]["succeeded"] == 1
     assert embedder.embed_texts.call_count == 1
 
-    second = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter)
+    second = run_storage_step(pipeline_config, embedder, limiter=limiter)
     assert second["counts"]["skipped"] == 1
     assert embedder.embed_texts.call_count == 1  # not called again
 
-    third = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter, force=True)
+    third = run_storage_step(pipeline_config, embedder, limiter=limiter, force=True)
     assert third["counts"]["succeeded"] == 1
     assert embedder.embed_texts.call_count == 2
 
@@ -324,12 +319,11 @@ def test_run_storage_step_splits_oversized_chunk_before_embedding(pipeline_confi
     token limit gets sub-split before embedding — reproduces the real
     'maximum input length is 8192 tokens' failure and confirms it's avoided.
     """
-    run_id = "storage_oversized_chunk"
-    translation_dir = data_root / run_id / "results" / "translation"
+    translation_dir = data_root / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("merged output, ignored", encoding="utf-8")
 
-    chunks_dir = data_root / run_id / "mid_product" / "chunks"
+    chunks_dir = data_root / "mid_product" / "chunks"
     chunks_dir.mkdir(parents=True)
     sentence = "This is a sentence about the policy. "
     oversized_text = sentence * (EMBEDDING_SAFE_CHAR_LIMIT // len(sentence) + 20)
@@ -352,13 +346,13 @@ def test_run_storage_step_splits_oversized_chunk_before_embedding(pipeline_confi
     embedder = _fake_embedder()
     limiter = ConcurrencyLimiter(max_workers=1, enabled=False)
 
-    result = run_storage_step(run_id, pipeline_config, embedder, limiter=limiter)
+    result = run_storage_step(pipeline_config, embedder, limiter=limiter)
     assert result["counts"]["succeeded"] == 1
 
     embedded_texts = embedder.embed_texts.call_args[0][0]
     assert len(embedded_texts) > 1
     assert all(len(t) <= EMBEDDING_SAFE_CHAR_LIMIT for t in embedded_texts)
 
-    store = json.loads((data_root / run_id / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
+    store = json.loads((data_root / "mid_product" / "rag_store" / "A.json").read_text(encoding="utf-8"))
     assert len(store["chunks"]) > 1
     assert [c["chunk_id"] for c in store["chunks"]] == list(range(len(store["chunks"])))

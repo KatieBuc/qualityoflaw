@@ -21,7 +21,7 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ChunkingConfig,
     ResolvedPipelineConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
 )
@@ -211,7 +211,7 @@ def _write_chunks_artifact(
     translations: list[str],
 ) -> None:
     """Persist chunk metadata plus each chunk's English translation as
-    ``<stem>.chunks.json`` into ``data/automation/<run_id>/mid_product/chunks/``.
+    ``<stem>.chunks.json`` into ``data/<project>/automation/mid_product/chunks/``.
 
     Always written when translation chunking is enabled — the RAG storage
     step reuses these per-chunk translations (and their structural
@@ -315,7 +315,6 @@ def _translate_one_chunked(
 
 
 def run_translation_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
     *,
@@ -323,7 +322,7 @@ def run_translation_step(
     small_scale: bool = False,
     force: bool = False,
 ) -> dict:
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     output_dir = resolve_results_dir(run_dir, "translation")
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -381,12 +380,12 @@ def run_translation_step(
                     "attempts": 1,
                 }
                 failed_files.append(entry)
-                record_failure(run_id, "translation", entry)
+                record_failure("translation", entry)
                 logger.error("Translation task failed [%s]: %s", error_type, result)
                 continue
             if result.status == "succeeded":
                 counts["succeeded"] += 1
-                clear_failure(run_id, "translation", result.filename)
+                clear_failure("translation", result.filename)
                 for key in token_usage:
                     token_usage[key] += result.token_usage.get(key, 0)
             else:
@@ -399,7 +398,7 @@ def run_translation_step(
                     "attempts": result.attempts or 1,
                 }
                 failed_files.append(entry)
-                record_failure(run_id, "translation", entry)
+                record_failure("translation", entry)
 
     elapsed = round(time.time() - start, 2)
     return {
@@ -412,7 +411,6 @@ def run_translation_step(
 
 
 def run_markdown_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     *,
     small_scale: bool = False,
@@ -430,7 +428,7 @@ def run_markdown_step(
     run it anytime to fill in whatever outputs are missing, without
     re-running translation.
     """
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     cleaned_dir = resolve_results_dir(run_dir, "cleaned_text")
     cleaned_md_dir = resolve_results_dir(run_dir, "cleaned_markdown")
     translation_dir = resolve_results_dir(run_dir, "translation")

@@ -31,7 +31,6 @@ from automation.src.run_pipeline import (
     build_config_summary,
     main,
     parse_steps,
-    requires_run_id,
     resolve_concurrency_config,
 )
 
@@ -177,10 +176,16 @@ def pipeline_config_path(tmp_path, model_config_path):
     return path
 
 
-@pytest.fixture
+@pytest.fixture(autouse=True)
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
+
+
+@pytest.fixture(autouse=True)
+def _no_preflight_validation(monkeypatch):
+    """Tests that care about validation patch it themselves (see the --force tests)."""
+    monkeypatch.setattr("automation.src.run_pipeline.validate_for_steps", MagicMock())
 
 
 @pytest.fixture
@@ -237,8 +242,8 @@ def test_print_overall_alignment_rate_aggregates_across_reports(tmp_path, capsys
     _write_eval_report(eval_dir, "B.json", {"sentence_aligned": 5, "resolved": 10, "rate": 0.5})
     _write_eval_report(eval_dir, "C.json", None)  # report without the stat is ignored
 
-    with patch("automation.src.run_pipeline.get_run_dir", return_value=tmp_path):
-        _print_overall_alignment_rate("run123")
+    with patch("automation.src.run_pipeline.get_output_dir", return_value=tmp_path):
+        _print_overall_alignment_rate()
 
     out = capsys.readouterr().out
     assert "Evidence original-language alignment: 45/60 locally aligned (75.0%)" in out
@@ -248,15 +253,15 @@ def test_print_overall_alignment_rate_silent_when_nothing_resolved(tmp_path, cap
     eval_dir = tmp_path / "results" / "evaluation"
     _write_eval_report(eval_dir, "A.json", {"sentence_aligned": 0, "resolved": 0, "rate": None})
 
-    with patch("automation.src.run_pipeline.get_run_dir", return_value=tmp_path):
-        _print_overall_alignment_rate("run123")
+    with patch("automation.src.run_pipeline.get_output_dir", return_value=tmp_path):
+        _print_overall_alignment_rate()
 
     assert capsys.readouterr().out == ""
 
 
 def test_print_overall_alignment_rate_silent_when_no_eval_dir(tmp_path, capsys):
-    with patch("automation.src.run_pipeline.get_run_dir", return_value=tmp_path):
-        _print_overall_alignment_rate("run123")
+    with patch("automation.src.run_pipeline.get_output_dir", return_value=tmp_path):
+        _print_overall_alignment_rate()
 
     assert capsys.readouterr().out == ""
 
@@ -295,25 +300,8 @@ def test_parse_steps_rejects_invalid_step():
         parse_steps("translation,bogus")
 
 
-def test_requires_run_id_for_eval_only():
-    assert requires_run_id(["evaluation"], None) is True
-    assert requires_run_id(["comparison"], None) is True
-    assert requires_run_id(["evaluation", "comparison"], None) is True
-    assert requires_run_id(["discrepancy_diagnosis"], None) is True
-
-
-def test_requires_run_id_false_for_full_pipeline():
-    assert requires_run_id(list(DEFAULT_STEPS), None) is False
-    assert requires_run_id(["translation", "evaluation"], None) is False
-
-
-def test_requires_run_id_false_when_run_id_provided():
-    assert requires_run_id(["evaluation"], "existing_run") is False
-
-
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_diagnosis_step", return_value=DIAGNOSIS_RESULT)
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
@@ -330,7 +318,7 @@ def test_requires_run_id_false_when_run_id_provided():
 @patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_full_pipeline_small_scale_without_run_id(
+def test_main_full_pipeline_small_scale_on_fresh_output(
     mock_load_config,
     mock_wrapper,
     mock_embedder,
@@ -341,7 +329,6 @@ def test_main_full_pipeline_small_scale_without_run_id(
     mock_eval,
     mock_compare,
     mock_diagnose,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
@@ -365,14 +352,12 @@ def test_main_full_pipeline_small_scale_without_run_id(
     mock_diagnose.assert_not_called()
     assert mock_translate.call_args.kwargs["small_scale"] is True
     assert mock_to_text.call_args.kwargs["small_scale"] is True
-    assert mock_translate.call_args.kwargs["force"] is False
     assert mock_eval.call_args.kwargs["small_scale"] is True
     assert mock_eval.call_args.kwargs["allow_partial"] is False
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_diagnosis_step", return_value=DIAGNOSIS_RESULT)
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
@@ -400,7 +385,6 @@ def test_main_full_pipeline_without_small_scale_passes_false(
     mock_eval,
     mock_compare,
     mock_diagnose,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
@@ -427,26 +411,14 @@ def test_main_full_pipeline_without_small_scale_passes_false(
     assert mock_init_metadata.call_args.kwargs["small_scale"] is False
 
 
-@patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_eval_only_without_run_id_exits(mock_load_config, mock_config):
-    mock_load_config.return_value = mock_config
-
-    with patch.object(sys, "argv", ["run_pipeline", "--steps", "evaluation"]):
-        with pytest.raises(SystemExit) as exc:
-            main()
-
-    assert exc.value.code == 1
-    mock_load_config.assert_not_called()
-
-
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.run_translation_step")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_comparison_only_with_existing_run_id(
+def test_main_comparison_only_on_existing_output(
     mock_load_config,
     mock_wrapper,
     mock_translate,
@@ -458,14 +430,12 @@ def test_main_comparison_only_with_existing_run_id(
     data_root,
 ):
     mock_load_config.return_value = mock_config
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
     with patch.object(
         sys,
         "argv",
-        ["run_pipeline", "--run-id", run_id, "--steps", "comparison"],
+        ["run_pipeline", "--steps", "comparison"],
     ):
         with pytest.raises(SystemExit) as exc:
             main()
@@ -473,9 +443,8 @@ def test_main_comparison_only_with_existing_run_id(
     assert exc.value.code == 0
     mock_translate.assert_not_called()
     mock_eval.assert_not_called()
-    mock_compare.assert_called_once_with(run_id=run_id, config=mock_config)
+    mock_compare.assert_called_once_with(config=mock_config)
     mock_validate.assert_called_once_with(
-        run_id,
         ["comparison"],
         retrieval_enabled=mock_config.retrieval.enabled,
         evaluation_method=mock_config.evaluation_method,
@@ -485,37 +454,68 @@ def test_main_comparison_only_with_existing_run_id(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
+@patch("automation.src.run_pipeline.init_metadata")
+@patch("automation.src.run_pipeline.clean_output_dir", return_value=3)
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_translation_only_passes_force_flag(
+def test_main_force_validates_then_cleans_then_runs(
     mock_load_config,
     mock_wrapper,
     mock_translate,
+    mock_validate,
+    mock_clean,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
     data_root,
 ):
     mock_load_config.return_value = mock_config
+    order = MagicMock()
+    order.attach_mock(mock_validate, "validate")
+    order.attach_mock(mock_clean, "clean")
+    order.attach_mock(mock_translate, "translate")
 
-    with patch.object(
-        sys,
-        "argv",
-        ["run_pipeline", "--steps", "translation", "--run-id", "forced_run", "--force"],
-    ):
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "translation", "--force"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
     assert exc.value.code == 0
-    mock_translate.assert_called_once()
-    assert mock_translate.call_args.kwargs["force"] is True
+    assert mock_validate.call_args.kwargs["assume_empty"] is True
+    assert [c[0] for c in order.mock_calls] == ["validate", "clean", "translate"]
+    # --force wipes the folder; steps themselves are no longer forced.
+    assert "force" not in mock_translate.call_args.kwargs
+    mock_init_metadata.assert_called_once()
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.clean_output_dir")
+@patch(
+    "automation.src.run_pipeline.validate_for_steps",
+    side_effect=FileNotFoundError("Evaluation output required for comparison"),
+)
+@patch("automation.src.run_pipeline.load_pipeline_config")
+def test_main_force_does_not_clean_when_the_steps_cannot_rebuild(
+    mock_load_config,
+    mock_validate,
+    mock_clean,
+    mock_update_metadata,
+    mock_config,
+    data_root,
+):
+    mock_load_config.return_value = mock_config
+
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "comparison", "--force"]):
+        with pytest.raises(SystemExit) as exc:
+            main()
+
+    assert exc.value.code == 1
+    mock_clean.assert_not_called()
+
+
+@patch("automation.src.run_pipeline.update_metadata")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
 @patch("automation.src.run_pipeline.AzureEmbedder")
@@ -527,7 +527,6 @@ def test_main_eval_failure_without_allow_partial_exits_nonzero(
     mock_embedder,
     mock_translate,
     mock_eval,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
@@ -554,8 +553,7 @@ def test_main_eval_failure_without_allow_partial_exits_nonzero(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
 @patch("automation.src.run_pipeline.AzureEmbedder")
@@ -567,7 +565,6 @@ def test_main_allow_partial_keeps_zero_exit_on_eval_failure(
     mock_embedder,
     mock_translate,
     mock_eval,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
@@ -611,7 +608,7 @@ def test_main_invalid_config_path_exits(mock_load_config):
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.load_pipeline_config")
 def test_main_custom_config_paths(
@@ -625,17 +622,13 @@ def test_main_custom_config_paths(
     data_root,
 ):
     mock_load_config.return_value = mock_config
-    run_id = "cfg_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text("{}", encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
     with patch.object(
         sys,
         "argv",
         [
             "run_pipeline",
-            "--run-id",
-            run_id,
             "--steps",
             "comparison",
             "--pipeline-config",
@@ -660,35 +653,6 @@ def test_main_rejects_unknown_run_missing_flag():
             main()
 
     assert exc.value.code == 2
-
-
-# ---------------------------------------------------------------------------
-# requires_run_id: full step-combination coverage
-# ---------------------------------------------------------------------------
-
-
-def test_requires_run_id_false_for_translation_md_alone():
-    assert requires_run_id(["translation_md"], None) is False
-
-
-def test_requires_run_id_false_when_translation_md_paired_with_evaluation():
-    assert requires_run_id(["translation_md", "evaluation"], None) is False
-
-
-def test_requires_run_id_true_for_translation_qa_md_alone():
-    assert requires_run_id(["translation_qa_md"], None) is True
-
-
-def test_requires_run_id_true_for_md_to_text_alone():
-    assert requires_run_id(["md_to_text"], None) is True
-
-
-def test_requires_run_id_true_for_storage_alone():
-    assert requires_run_id(["storage"], None) is True
-
-
-def test_requires_run_id_false_for_legacy_translation_with_markdown():
-    assert requires_run_id(["translation", "markdown"], None) is False
 
 
 # ---------------------------------------------------------------------------
@@ -750,8 +714,7 @@ def test_build_config_summary_reflects_sliding_window_method(mock_config):
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_comparison_step")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.run_storage_step")
@@ -772,7 +735,6 @@ def test_main_stops_pipeline_when_translation_md_fails(
     mock_storage,
     mock_eval,
     mock_compare,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
@@ -795,7 +757,7 @@ def test_main_stops_pipeline_when_translation_md_fails(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_comparison_step")
 @patch("automation.src.run_pipeline.run_evaluation_step", side_effect=RuntimeError("quota exceeded"))
 @patch("automation.src.run_pipeline.AzureEmbedder")
@@ -814,12 +776,10 @@ def test_main_stops_pipeline_when_evaluation_fails_before_comparison(
     capsys,
 ):
     mock_load_config.return_value = mock_config
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
     with patch.object(
-        sys, "argv", ["run_pipeline", "--run-id", run_id, "--steps", "evaluation,comparison"]
+        sys, "argv", ["run_pipeline", "--steps", "evaluation,comparison"]
     ):
         with pytest.raises(SystemExit) as exc:
             main()
@@ -836,8 +796,7 @@ def test_main_stops_pipeline_when_evaluation_fails_before_comparison(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch(
@@ -863,7 +822,6 @@ def test_main_sliding_window_method_skips_rag_evaluation_and_storage(
     mock_sliding_eval,
     mock_eval,
     mock_compare,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
@@ -891,7 +849,7 @@ def test_main_sliding_window_method_skips_rag_evaluation_and_storage(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
@@ -909,11 +867,9 @@ def test_main_rag_evaluation_gets_no_embedder_when_retrieval_disabled(
     retrieval = dataclasses.replace(mock_config.retrieval, enabled=False)
     config = dataclasses.replace(mock_config, retrieval=retrieval)
     mock_load_config.return_value = config
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
-    with patch.object(sys, "argv", ["run_pipeline", "--run-id", run_id, "--steps", "evaluation"]):
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "evaluation"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
@@ -923,7 +879,7 @@ def test_main_rag_evaluation_gets_no_embedder_when_retrieval_disabled(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
@@ -939,11 +895,9 @@ def test_main_rag_evaluation_gets_embedder_when_retrieval_enabled(
     data_root,
 ):
     mock_load_config.return_value = mock_config  # retrieval.enabled is True by default
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
-    with patch.object(sys, "argv", ["run_pipeline", "--run-id", run_id, "--steps", "evaluation"]):
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "evaluation"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
@@ -959,7 +913,7 @@ def test_main_rag_evaluation_gets_embedder_when_retrieval_enabled(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.get_cohere_rerank_api_key")
 @patch(
@@ -986,11 +940,9 @@ def test_main_reranker_enabled_fails_fast_on_missing_credentials(
     retrieval = dataclasses.replace(mock_config.retrieval, enabled=True, reranker=reranker)
     config = dataclasses.replace(mock_config, retrieval=retrieval)
     mock_load_config.return_value = config
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
-    with patch.object(sys, "argv", ["run_pipeline", "--run-id", run_id, "--steps", "evaluation"]):
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "evaluation"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
@@ -1003,7 +955,7 @@ def test_main_reranker_enabled_fails_fast_on_missing_credentials(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.get_cohere_rerank_api_key")
 @patch("automation.src.run_pipeline.get_cohere_rerank_endpoint")
@@ -1023,11 +975,9 @@ def test_main_reranker_disabled_skips_credential_check(
     data_root,
 ):
     mock_load_config.return_value = mock_config  # reranker.enabled is False by default
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
-    with patch.object(sys, "argv", ["run_pipeline", "--run-id", run_id, "--steps", "evaluation"]):
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "evaluation"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
@@ -1042,7 +992,7 @@ def test_main_reranker_disabled_skips_credential_check(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_diagnosis_step", return_value=DIAGNOSIS_RESULT)
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
@@ -1057,12 +1007,10 @@ def test_main_discrepancy_diagnosis_prints_nothing_to_diagnose(
     capsys,
 ):
     mock_load_config.return_value = mock_config
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
     with patch.object(
-        sys, "argv", ["run_pipeline", "--run-id", run_id, "--steps", "discrepancy_diagnosis"]
+        sys, "argv", ["run_pipeline", "--steps", "discrepancy_diagnosis"]
     ):
         with pytest.raises(SystemExit) as exc:
             main()
@@ -1073,7 +1021,7 @@ def test_main_discrepancy_diagnosis_prints_nothing_to_diagnose(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_diagnosis_step")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
@@ -1092,12 +1040,10 @@ def test_main_discrepancy_diagnosis_failure_without_allow_partial_exits_nonzero(
         "counts": {**DIAGNOSIS_RESULT["counts"], "discrepancies_total": 3, "succeeded": 2, "failed": 1},
         "failed_policies": ["ACEH_BIREUEN.txt"],
     }
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
     with patch.object(
-        sys, "argv", ["run_pipeline", "--run-id", run_id, "--steps", "discrepancy_diagnosis"]
+        sys, "argv", ["run_pipeline", "--steps", "discrepancy_diagnosis"]
     ):
         with pytest.raises(SystemExit) as exc:
             main()
@@ -1106,7 +1052,7 @@ def test_main_discrepancy_diagnosis_failure_without_allow_partial_exits_nonzero(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_diagnosis_step")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
@@ -1125,14 +1071,12 @@ def test_main_discrepancy_diagnosis_failure_with_allow_partial_exits_zero(
         "counts": {**DIAGNOSIS_RESULT["counts"], "discrepancies_total": 3, "succeeded": 2, "failed": 1},
         "failed_policies": ["ACEH_BIREUEN.txt"],
     }
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
     with patch.object(
         sys,
         "argv",
-        ["run_pipeline", "--run-id", run_id, "--steps", "discrepancy_diagnosis", "--allow-partial"],
+        ["run_pipeline", "--steps", "discrepancy_diagnosis", "--allow-partial"],
     ):
         with pytest.raises(SystemExit) as exc:
             main()
@@ -1141,16 +1085,16 @@ def test_main_discrepancy_diagnosis_failure_with_allow_partial_exits_zero(
 
 
 # ---------------------------------------------------------------------------
-# --run-id pointing at a run directory that doesn't exist yet
+# Output folder without metadata.json yet
 # ---------------------------------------------------------------------------
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_creates_fresh_run_when_run_id_missing_dir_but_translation_requested(
+def test_main_creates_metadata_when_the_output_folder_is_new(
     mock_load_config,
     mock_wrapper,
     mock_translate,
@@ -1162,30 +1106,56 @@ def test_main_creates_fresh_run_when_run_id_missing_dir_but_translation_requeste
 ):
     mock_load_config.return_value = mock_config
 
-    with patch.object(
-        sys, "argv", ["run_pipeline", "--run-id", "brand_new_run", "--steps", "translation"]
-    ):
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "translation"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
     assert exc.value.code == 0
     mock_init_metadata.assert_called_once()
-    assert mock_init_metadata.call_args.kwargs["run_id"] == "brand_new_run"
-    out = capsys.readouterr().out
-    assert "Created run: brand_new_run" in out
+    assert "run_id" not in mock_init_metadata.call_args.kwargs
+    assert "Created output folder" in capsys.readouterr().out
 
 
+@patch("automation.src.run_pipeline.update_metadata")
+@patch("automation.src.run_pipeline.init_metadata")
+@patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_missing_run_dir_without_translation_step_raises(
+def test_main_reuses_existing_metadata(
     mock_load_config,
+    mock_wrapper,
+    mock_translate,
+    mock_init_metadata,
+    mock_update_metadata,
+    mock_config,
+    data_root,
+    capsys,
+):
+    mock_load_config.return_value = mock_config
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
+
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "translation"]):
+        with pytest.raises(SystemExit):
+            main()
+
+    mock_init_metadata.assert_not_called()
+    assert "Using existing output folder" in capsys.readouterr().out
+
+
+@patch(
+    "automation.src.run_pipeline.validate_for_steps",
+    side_effect=FileNotFoundError("Translation output required for storage"),
+)
+@patch("automation.src.run_pipeline.load_pipeline_config")
+def test_main_missing_prerequisite_exits_nonzero(
+    mock_load_config,
+    mock_validate,
     mock_config,
     data_root,
 ):
     mock_load_config.return_value = mock_config
 
-    with patch.object(
-        sys, "argv", ["run_pipeline", "--run-id", "never_created", "--steps", "storage"]
-    ):
+    with patch.object(sys, "argv", ["run_pipeline", "--steps", "storage"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
@@ -1198,7 +1168,7 @@ def test_main_missing_run_dir_without_translation_step_raises(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.validate_run_for_steps")
+@patch("automation.src.run_pipeline.validate_for_steps")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
@@ -1220,14 +1190,12 @@ def test_main_prints_failure_summary_line_when_allow_partial_swallows_exit_code(
         "counts": {"total": 5, "succeeded": 4, "failed": 1, "saved_reports": 4},
         "failed_policies": ["ACEH_BIREUEN.txt"],
     }
-    run_id = "existing_run"
-    (data_root / run_id).mkdir()
-    (data_root / run_id / "metadata.json").write_text('{"run_id": "existing_run"}', encoding="utf-8")
+    (data_root / "metadata.json").write_text("{}", encoding="utf-8")
 
     with patch.object(
         sys,
         "argv",
-        ["run_pipeline", "--run-id", run_id, "--steps", "evaluation", "--allow-partial"],
+        ["run_pipeline", "--steps", "evaluation", "--allow-partial"],
     ):
         with pytest.raises(SystemExit) as exc:
             main()
@@ -1245,8 +1213,7 @@ def test_main_prints_failure_summary_line_when_allow_partial_swallows_exit_code(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_diagnosis_step", return_value=DIAGNOSIS_RESULT)
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
@@ -1274,7 +1241,6 @@ def test_main_explicit_full_markdown_chain_runs_optional_steps_too(
     mock_eval,
     mock_compare,
     mock_diagnose,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,
@@ -1309,8 +1275,7 @@ def test_main_explicit_full_markdown_chain_runs_optional_steps_too(
 
 
 @patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_md_translation_step")
 @patch("automation.src.run_pipeline.run_markdown_step")
 @patch("automation.src.run_pipeline.run_translation_qa_step")
@@ -1324,7 +1289,6 @@ def test_main_legacy_text_chain_runs_translation_qa_and_markdown_only(
     mock_translation_qa,
     mock_markdown,
     mock_md_translate,
-    mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
     mock_config,

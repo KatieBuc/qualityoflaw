@@ -43,7 +43,7 @@ from automation.src.chunking import combine_translations
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_results_dir,
 )
 from automation.src.failure_log import clear_failure, record_failure
@@ -359,7 +359,6 @@ def _qa_policy_file(
 
 
 def run_md_translation_qa_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
     *,
@@ -368,7 +367,7 @@ def run_md_translation_qa_step(
     force: bool = False,
 ) -> dict:
     """QA every translated Markdown policy in the run, one task per file."""
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     markdown_dir = config.paths.translation_markdown_dir
     output_dir = resolve_results_dir(run_dir, "translation_qa")
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -436,7 +435,7 @@ def run_md_translation_qa_step(
                     "details": details,
                     "attempts": 1,
                 }
-                record_failure(run_id, FAILURE_STEP, entry)
+                record_failure(FAILURE_STEP, entry)
                 logger.error("[%s] translation_qa_md failed [%s]: %s", filename, error_type, result)
                 failed_files.append(entry)
                 counts["failed"] += 1
@@ -450,7 +449,7 @@ def run_md_translation_qa_step(
                     "details": result.error_details or {},
                     "attempts": 1,
                 }
-                record_failure(run_id, FAILURE_STEP, entry)
+                record_failure(FAILURE_STEP, entry)
                 failed_files.append(entry)
                 counts["failed"] += 1
                 continue
@@ -471,7 +470,7 @@ def run_md_translation_qa_step(
             (output_dir / f"{stem}.json").write_text(
                 json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
             )
-            clear_failure(run_id, FAILURE_STEP, filename)
+            clear_failure(FAILURE_STEP, filename)
             counts["succeeded"] += 1
             counts["not_converged"] += report.get("chunks_not_converged", 0)
             counts["qa_passes"] += report.get("qa_passes_total", 0)

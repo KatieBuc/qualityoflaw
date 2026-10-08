@@ -2,60 +2,21 @@
   "calls": [
     {
       "embedder": "absent",
-      "fn": "run_md_to_text_step",
-      "limiter": null,
-      "small_scale": false,
-      "wrapper": null
-    },
-    {
-      "embedder": "embedder:16",
-      "fn": "run_storage_step",
+      "fn": "run_translation_step",
       "limiter": {
         "enabled": true,
         "max_workers": 5
       },
       "small_scale": false,
-      "wrapper": null
-    },
-    {
-      "allow_partial": false,
-      "embedder": "embedder:16",
-      "fn": "run_evaluation_step",
-      "limiter": {
-        "enabled": true,
-        "max_workers": 5
-      },
-      "small_scale": false,
-      "wrapper": "wrapper:gpt-5.2:confidence=True"
-    },
-    {
-      "embedder": "absent",
-      "fn": "run_comparison_step",
-      "limiter": null,
-      "wrapper": null
+      "wrapper": "wrapper:claude-sonnet-4-5:confidence=False"
     }
   ],
-  "exit_code": 1,
+  "exit_code": 0,
   "output": {
-    "failures": {
-      "discrepancy_diagnosis": [],
-      "evaluation": [
-        {
-          "at": "<ts>",
-          "message": "schema mismatch",
-          "policy_file": "B.txt"
-        }
-      ],
-      "step_failures": [],
-      "storage": [],
-      "translation": [],
-      "translation_qa": [],
-      "updated_at": "<ts>"
-    },
+    "failures": null,
     "files": [
       "config/model_config.yaml",
       "config/pipeline_config.yaml",
-      "failures.json",
       "metadata.json"
     ],
     "metadata": {
@@ -105,65 +66,40 @@
         "translation_qa_prompt_version": "v1"
       },
       "execution_scope": {
-        "evaluated_policy_files": [
-          "A.txt",
-          "B.txt"
-        ],
+        "evaluated_policy_files": [],
         "small_scale": false,
         "steps_executed": [
-          "md_to_text",
-          "storage",
-          "evaluation",
-          "comparison"
+          "translation"
         ]
       },
       "experiment_name": "first-full-run",
       "failures": {
         "discrepancy_diagnosis": 0,
-        "evaluation": 1,
+        "evaluation": 0,
         "step_failures": 0,
         "storage": 0,
         "translation": 0,
         "translation_qa": 0
       },
       "file_counts": {
-        "evaluation": {
-          "failed": 1,
-          "saved_reports": 2,
-          "skipped": 1,
-          "succeeded": 2,
-          "total": 3
-        },
-        "md_to_text": {
-          "clauses_lost": 0,
-          "failed": 0,
-          "repaired": 1,
-          "skipped": 0,
-          "source_unaligned": 2,
-          "succeeded": 3,
-          "total": 3
-        },
-        "storage": {
+        "translation": {
           "failed": 0,
           "skipped": 0,
           "succeeded": 3,
           "total": 3
         }
       },
-      "status": "completed_with_errors",
+      "status": "completed",
       "timestamps": {
         "created_at": "<ts>",
         "updated_at": "<ts>"
       },
       "timing_seconds": {
-        "comparison": 0.1,
-        "evaluation": 2.0,
-        "md_to_text": 0.1,
-        "storage": 0.4,
-        "total": "<elapsed>"
+        "total": "<elapsed>",
+        "translation": 1.5
       },
       "token_usage": {
-        "evaluation": {
+        "translation": {
           "completion_tokens": 20,
           "prompt_tokens": 10,
           "total_tokens": 30
@@ -171,6 +107,6 @@
       }
     }
   },
-  "stderr": "Failed policies: B.txt\n  B.txt: schema mismatch\nFailures logged: 0 translation, 0 translation_qa, 0 storage, 1 evaluation, 0 discrepancy_diagnosis, 0 step-level → <tmp>/out/failures.json\n",
-  "stdout": "Created output folder: <tmp>/out\n\nStep: md_to_text\nMarkdown to text: 3 succeeded, 0 skipped, 0 failed, 1 structure-repaired, 2 with unpaired source, 0 with LOST CLAUSES\n\nStep: storage\nStorage: 3 succeeded, 0 skipped, 0 failed\n\nStep: evaluation (method=rag)\nEvaluation: 2 succeeded, 1 failed, 1 skipped\n\nStep: comparison\nComparison: accuracy 82.13%, metrics at metrics.csv\n\nPipeline finished (status=completed_with_errors)\n"
+  "stderr": "",
+  "stdout": "Created output folder: <tmp>/out\n\nStep: translation\nTranslation: 3 succeeded, 0 skipped, 0 failed\n\nPipeline finished (status=completed)\n"
 }

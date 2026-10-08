@@ -69,14 +69,13 @@ def chunked_pipeline_config(tmp_path):
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
 def test_run_translation_step_chunked_splits_translates_and_combines(
     chunked_pipeline_config, data_root
 ):
-    run_id = "chunked_run"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     (input_dir / "POLICY.txt").write_text(RAW_POLICY_TEXT, encoding="utf-8")
@@ -88,9 +87,7 @@ def test_run_translation_step_chunked_splits_translates_and_combines(
 
     limiter = ConcurrencyLimiter(max_workers=1, enabled=True)
 
-    result = run_translation_step(
-        run_id=run_id,
-        config=chunked_pipeline_config,
+    result = run_translation_step(config=chunked_pipeline_config,
         wrapper=wrapper,
         limiter=limiter,
         small_scale=False,
@@ -104,7 +101,7 @@ def test_run_translation_step_chunked_splits_translates_and_combines(
     assert wrapper.complete_text.call_count == 3
     assert result["token_usage"]["total_tokens"] == 6
 
-    out_path = data_root / run_id / "results" / "translation" / "POLICY.txt"
+    out_path = data_root / "results" / "translation" / "POLICY.txt"
     assert out_path.read_text(encoding="utf-8") == "T0\n\nT1AT1B"
 
     prompts = [call.args[0] for call in wrapper.complete_text.call_args_list]
@@ -121,7 +118,6 @@ def test_run_translation_step_chunked_splits_translates_and_combines(
 def test_run_translation_step_chunked_logs_suspicious_fallback_output(
     chunked_pipeline_config, data_root, caplog
 ):
-    run_id = "chunked_suspicious"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     (input_dir / "POLICY.txt").write_text(RAW_POLICY_TEXT, encoding="utf-8")
@@ -135,9 +131,7 @@ def test_run_translation_step_chunked_logs_suspicious_fallback_output(
     limiter = ConcurrencyLimiter(max_workers=1, enabled=True)
 
     with caplog.at_level(logging.WARNING):
-        run_translation_step(
-            run_id=run_id,
-            config=chunked_pipeline_config,
+        run_translation_step(config=chunked_pipeline_config,
             wrapper=wrapper,
             limiter=limiter,
             small_scale=False,
@@ -154,7 +148,6 @@ def test_run_translation_step_chunked_logs_suspicious_structural_output(
     signature-block section) whose translation balloons into an enormous,
     unrelated amount of text — previously undetected since the suspicious-
     output check only covered fallback chunks."""
-    run_id = "chunked_structural_hallucination"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     # A single tiny structural section, well under safe_limit — no fallback split.
@@ -167,9 +160,7 @@ def test_run_translation_step_chunked_logs_suspicious_structural_output(
     limiter = ConcurrencyLimiter(max_workers=1, enabled=True)
 
     with caplog.at_level(logging.WARNING):
-        run_translation_step(
-            run_id=run_id,
-            config=chunked_pipeline_config,
+        run_translation_step(config=chunked_pipeline_config,
             wrapper=wrapper,
             limiter=limiter,
             small_scale=False,
@@ -190,7 +181,6 @@ def test_run_translation_step_chunked_always_writes_chunks_but_not_markdown(
     Markdown rendering (results/cleaned_text/, results/cleaned_markdown/,
     results/translation_markdown/) is a separate `markdown` step (see
     test_markdown_step.py) and is not written here."""
-    run_id = "chunked_always_writes"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     (input_dir / "POLICY.txt").write_text(RAW_POLICY_TEXT, encoding="utf-8")
@@ -202,20 +192,18 @@ def test_run_translation_step_chunked_always_writes_chunks_but_not_markdown(
 
     limiter = ConcurrencyLimiter(max_workers=1, enabled=True)
 
-    run_translation_step(
-        run_id=run_id,
-        config=chunked_pipeline_config,
+    run_translation_step(config=chunked_pipeline_config,
         wrapper=wrapper,
         limiter=limiter,
         small_scale=False,
         force=False,
     )
 
-    chunks_path = data_root / run_id / "mid_product" / "chunks" / "POLICY.chunks.json"
+    chunks_path = data_root / "mid_product" / "chunks" / "POLICY.chunks.json"
     assert chunks_path.exists()
-    assert not (data_root / run_id / "results" / "cleaned_text").exists()
-    assert not (data_root / run_id / "results" / "cleaned_markdown").exists()
-    assert not (data_root / run_id / "results" / "translation_markdown").exists()
+    assert not (data_root / "results" / "cleaned_text").exists()
+    assert not (data_root / "results" / "cleaned_markdown").exists()
+    assert not (data_root / "results" / "translation_markdown").exists()
 
     chunks_data = json.loads(chunks_path.read_text(encoding="utf-8"))
     assert len(chunks_data) == 3

@@ -32,26 +32,25 @@ python -m automation.src.run_pipeline --small-scale
 # Full run on the whole corpus
 python -m automation.src.run_pipeline
 
-# Resume or extend an existing run; finished items are skipped
-python -m automation.src.run_pipeline --run-id 20260928_095010 --steps evaluation,comparison
+# Run later steps on what is already in the output folder; finished items are skipped
+python -m automation.src.run_pipeline --steps evaluation,comparison
 
-# Re-run a step even if its output exists
-python -m automation.src.run_pipeline --run-id 20260928_095010 --steps evaluation --force
+# Start over: clean the output folder, then run (rebuilds everything the folder held)
+python -m automation.src.run_pipeline --force
 ```
 
 | Flag | Meaning |
 |------|---------|
 | `--steps a,b,c` | Steps to run. Default: the five in the chain above. Steps always execute in pipeline order |
-| `--run-id ID` | Use an existing run. Required when `--steps` has no `translation_md` (or legacy `translation`) |
 | `--small-scale` | Only the policies listed in `paths.small_scale_stems` |
-| `--force` | Redo items that already have output (steps are idempotent by default) |
+| `--force` | Clean `data/<project>/automation/`, then run. Checked first: if the requested steps cannot rebuild what they need, nothing is deleted. Does not touch `preprocessed/` or `processed/`, so existing translations are kept (delete those files to retranslate) |
 | `--allow-partial` | Save incomplete evaluation / diagnosis reports instead of failing them |
 | `--max-workers N`, `--no-concurrency` | Override or disable parallel API calls |
 | `--pipeline-config`, `--model-config` | Use other YAML files than the ones in `automation/config/` |
 
 ## Steps
 
-| Step | Reads | Writes (under `data/<project>/automation/<run_id>/` unless noted) |
+| Step | Reads | Writes (under `data/<project>/automation/` unless noted) |
 |------|-------|-----------|
 | `translation_md` | `data/<project>/preprocessed/cleaned_markdown/*<suffix>` | `data/<project>/preprocessed/translation_markdown/` (no chunks saved) |
 | `translation_qa_md` *(optional)* | source + translated markdown | rewrites the translated markdown in place; `results/translation_qa/` |
@@ -133,7 +132,7 @@ Nothing is moved unless every pair passes.
 2. **Translation** (`translation_md`): chunk-and-combine, writes `preprocessed/translation_markdown`.
 3. **Human adjustment**: edit `preprocessed/`, then `python -m automation.src.markdown.validate --promote`.
 4. **Evaluation** (`md_to_text`, `storage`, `evaluation`): reads `processed/`, header validation first, RAG evaluation,
-   evidence mapping (index pairing, else `alignment.method`), outputs under `data/<project>/automation/<run_id>/`.
+   evidence mapping (index pairing, else `alignment.method`), outputs under `data/<project>/automation/` (the project's single, final result folder; a rerun cleans it with `--force`).
 
 `comparison`, `translation_qa_md` and `discrepancy_diagnosis` are optional steps. Install the alignment
 dependencies with `pip install -r automation/requirements-align.txt` (plus Vecalign, see that file).

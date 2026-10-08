@@ -20,8 +20,6 @@ from automation.src.constants import DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONF
 
 from ._serialize import assert_matches_golden
 
-RUN_ID = "RUN1"
-
 TOKENS = {"prompt_tokens": 10, "completion_tokens": 20, "total_tokens": 30}
 
 
@@ -174,18 +172,18 @@ def _tag(value):
 #   config: dict of top-level ResolvedPipelineConfig fields to replace
 #   storage_enabled / evaluation_method: convenience overrides
 #   results: {step_func_name: result dict | Exception}
-#   files: files to create before the run (relative to the data root run dir)
+#   files: files to create before the run (relative to the output dir)
 #   prelude: argv of an earlier invocation whose state the scenario builds on
-#   side_effects: {step_func_name: callable(run_id)} run inside the fake step
-def _record_eval_failure(run_id):
+#   side_effects: {step_func_name: callable()} run inside the fake step
+def _record_eval_failure():
     failure_log.record_failure(
-        run_id, "evaluation", {"policy_file": "B.txt", "message": "schema mismatch"}
+        "evaluation", {"policy_file": "B.txt", "message": "schema mismatch"}
     )
 
 
-def _record_translation_failure(run_id):
+def _record_translation_failure():
     failure_log.record_failure(
-        run_id, "translation", {"filename": "X.md", "error_type": "E", "message": "bad"}
+        "translation", {"filename": "X.md", "error_type": "E", "message": "bad"}
     )
 
 
@@ -207,7 +205,6 @@ SCENARIOS = {
     "storage_disabled": {
         "argv": ["--steps", "md_to_text,storage,evaluation"],
         "storage_enabled": False,
-        "files": ["results/translation_markdown/a.md"],
     },
     "translation_md_raises_stops_pipeline": {
         "argv": [],
@@ -253,7 +250,6 @@ SCENARIOS = {
     },
     "storage_failed_files": {
         "argv": ["--steps", "md_to_text,storage"],
-        "files": ["results/translation_markdown/a.md"],
         "results": {
             "run_storage_step": _storage_result(
                 counts={"total": 3, "succeeded": 2, "skipped": 0, "failed": 1},
@@ -270,7 +266,6 @@ SCENARIOS = {
             )
         },
         "side_effects": {"run_evaluation_step": _record_eval_failure},
-        "files": ["results/translation_markdown/a.md"],
     },
     "evaluation_failed_policies_allow_partial": {
         "argv": ["--steps", "md_to_text,storage,evaluation,comparison", "--allow-partial"],
@@ -281,7 +276,6 @@ SCENARIOS = {
             )
         },
         "side_effects": {"run_evaluation_step": _record_eval_failure},
-        "files": ["results/translation_markdown/a.md"],
     },
     "translation_legacy_failed_with_logged_failure": {
         "argv": ["--steps", "translation,translation_qa,markdown"],
@@ -313,12 +307,10 @@ SCENARIOS = {
                 counts={"matched_pairs": 0, "evaluated_policies": 0}
             )
         },
-        "files": ["results/translation_markdown/a.md"],
     },
     "comparison_raises": {
         "argv": ["--steps", "md_to_text,storage,evaluation,comparison"],
         "results": {"run_comparison_step": ValueError("no golden rows")},
-        "files": ["results/translation_markdown/a.md"],
     },
     "diagnosis_nothing_to_diagnose": {
         "argv": ["--steps", "md_to_text,storage,evaluation,comparison,discrepancy_diagnosis"],
@@ -331,7 +323,6 @@ SCENARIOS = {
                 skipped_reason="all policies match golden",
             )
         },
-        "files": ["results/translation_markdown/a.md"],
     },
     "diagnosis_nothing_default_reason": {
         "argv": ["--steps", "md_to_text,storage,evaluation,comparison,discrepancy_diagnosis"],
@@ -343,7 +334,6 @@ SCENARIOS = {
                 },
             )
         },
-        "files": ["results/translation_markdown/a.md"],
     },
     "diagnosis_failed_policies_strict": {
         "argv": ["--steps", "md_to_text,storage,evaluation,comparison,discrepancy_diagnosis"],
@@ -356,45 +346,34 @@ SCENARIOS = {
                 failed_policies=["A.txt"],
             )
         },
-        "files": ["results/translation_markdown/a.md"],
     },
-    "resume_existing_run_eval_only": {
-        "prelude": [],
-        "argv": ["--run-id", RUN_ID, "--steps", "evaluation,comparison"],
+    "partial_rerun_on_existing_output": {
+        "argv": ["--steps", "evaluation,comparison"],
         "files": [
             "results/translation/a.txt",
             "mid_product/rag_store/a.json",
         ],
     },
-    "resume_existing_run_missing_prereq": {
+    "partial_rerun_missing_prereq": {
         "prelude": ["--steps", "translation_md"],
-        "argv": ["--run-id", RUN_ID, "--steps", "evaluation"],
+        "argv": ["--steps", "evaluation"],
     },
-    "new_run_id_with_legacy_translation_creates_run": {
-        "argv": ["--run-id", "BRANDNEW", "--steps", "translation"],
+    "force_cleans_existing_output_then_reruns": {
+        "prelude": ["--steps", "md_to_text,storage,evaluation"],
+        "argv": ["--force", "--steps", "md_to_text,storage,evaluation"],
     },
-    "new_run_id_with_translation_md": {
-        "argv": ["--run-id", "BRANDNEW", "--steps", "translation_md"],
+    "force_refuses_when_steps_cannot_rebuild": {
+        "prelude": ["--steps", "md_to_text,storage,evaluation"],
+        "argv": ["--force", "--steps", "comparison"],
     },
-    "new_run_id_eval_only_errors": {
-        "argv": ["--run-id", "BRANDNEW", "--steps", "evaluation"],
-    },
-    "eval_only_without_run_id_errors": {"argv": ["--steps", "evaluation"]},
+    "legacy_translation_on_fresh_output": {"argv": ["--steps", "translation"]},
+    "translation_md_on_fresh_output": {"argv": ["--steps", "translation_md"]},
+    "eval_only_on_empty_output_errors": {"argv": ["--steps", "evaluation"]},
     "invalid_step_errors": {"argv": ["--steps", "bogus"]},
     "max_workers_override": {"argv": ["--max-workers", "2", "--steps", "translation_md"]},
     "no_concurrency": {"argv": ["--no-concurrency", "--steps", "translation_md"]},
     "max_workers_invalid": {"argv": ["--max-workers", "0", "--steps", "translation_md"]},
 }
-
-
-# Scenarios whose --steps omit a translation step must resume an existing run.
-for _name, _scn in SCENARIOS.items():
-    argv = _scn["argv"]
-    if _name != "eval_only_without_run_id_errors" and "--steps" in argv and "--run-id" not in argv:
-        steps = argv[argv.index("--steps") + 1].split(",")
-        if "translation_md" not in steps and "translation" not in steps:
-            _scn["prelude"] = ["--steps", "translation_md"]
-            _scn["argv"] = ["--run-id", RUN_ID, *argv]
 
 
 def _normalize(text: str, tmp_path: Path) -> str:
@@ -428,8 +407,7 @@ def _read_json(path: Path):
 
 @pytest.fixture
 def harness(tmp_path, monkeypatch, capsys):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
-    monkeypatch.setattr("automation.src.run_pipeline.generate_run_id", lambda: RUN_ID)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path / "out")
     monkeypatch.setattr("automation.src.run_pipeline.AzureLLMWrapper", _FakeWrapper)
     monkeypatch.setattr("automation.src.run_pipeline.AzureEmbedder", _FakeEmbedder)
     monkeypatch.setattr("automation.src.run_pipeline.get_cohere_rerank_endpoint", lambda: "x")
@@ -440,7 +418,7 @@ def harness(tmp_path, monkeypatch, capsys):
     def make_fake(name):
         def fake(**kwargs):
             call = {"fn": name}
-            for key in ("run_id", "small_scale", "force", "allow_partial"):
+            for key in ("small_scale", "force", "allow_partial"):
                 if key in kwargs:
                     call[key] = kwargs[key]
             call["wrapper"] = _tag(kwargs.get("wrapper"))
@@ -456,7 +434,7 @@ def harness(tmp_path, monkeypatch, capsys):
             state["calls"].append(call)
             effect = state["side_effects"].get(name)
             if effect:
-                effect(kwargs["run_id"])
+                effect()
             outcome = state["results"].get(name)
             if outcome is None:
                 outcome = DEFAULT_RESULTS[name]()
@@ -493,7 +471,7 @@ def harness(tmp_path, monkeypatch, capsys):
     return state, run
 
 
-def _apply_scenario_config(state, scenario):
+def _apply_scenario_config(state, scenario, tmp_path):
     over = {}
     from automation.src.config_loader import load_pipeline_config as real
 
@@ -502,6 +480,18 @@ def _apply_scenario_config(state, scenario):
         over["storage"] = dataclasses.replace(base.storage, enabled=scenario["storage_enabled"])
     if "evaluation_method" in scenario:
         over["evaluation_method"] = scenario["evaluation_method"]
+    # Inputs live outside the output dir; one translated file each so the
+    # md_to_text / translation_qa_md prerequisites hold without real data.
+    inputs = tmp_path / "in"
+    for name in ("pre", "proc"):
+        folder = inputs / name
+        folder.mkdir(parents=True, exist_ok=True)
+        (folder / "a.md").write_text("# H\n", encoding="utf-8")
+    over["paths"] = dataclasses.replace(
+        base.paths,
+        translation_markdown_dir=inputs / "pre",
+        processed_translation_markdown_dir=inputs / "proc",
+    )
     state["config_over"] = over
 
 
@@ -510,32 +500,30 @@ def _run_scenario(name, scenario, tmp_path, state, run):
         run(scenario["prelude"])
         state["calls"].clear()
     for rel in scenario.get("files", []):
-        run_dir = tmp_path / scenario.get("run_id_dir", RUN_ID)
-        path = run_dir / rel
+        path = tmp_path / "out" / rel
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text("x", encoding="utf-8")
-    _apply_scenario_config(state, scenario)
+    _apply_scenario_config(state, scenario, tmp_path)
     state["results"] = scenario.get("results", {})
     state["side_effects"] = scenario.get("side_effects", {})
     code, out, err = run(scenario["argv"])
 
-    run_ids = [p.name for p in sorted(tmp_path.iterdir()) if p.is_dir()]
-    runs = {}
-    for run_id in run_ids:
-        run_dir = tmp_path / run_id
-        runs[run_id] = {
-            "files": sorted(
-                p.relative_to(run_dir).as_posix() for p in run_dir.rglob("*") if p.is_file()
-            ),
-            "metadata": _read_json(run_dir / "metadata.json"),
-            "failures": _read_json(run_dir / "failures.json"),
-        }
+    out_dir = tmp_path / "out"
+    output = {
+        "files": sorted(
+            p.relative_to(out_dir).as_posix() for p in out_dir.rglob("*") if p.is_file()
+        )
+        if out_dir.exists()
+        else [],
+        "metadata": _read_json(out_dir / "metadata.json"),
+        "failures": _read_json(out_dir / "failures.json"),
+    }
     return {
         "exit_code": code,
         "stdout": _normalize(out, tmp_path),
         "stderr": _normalize(err, tmp_path),
         "calls": state["calls"],
-        "runs": runs,
+        "output": output,
     }
 
 

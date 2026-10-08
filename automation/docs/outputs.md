@@ -1,11 +1,11 @@
 # Run output reference
 
-Every `run_pipeline` invocation writes a self-contained folder under `data/automation/<run_id>/`. The run ID is `YYYYMMDD_HHMMSS` (UTC).
+`run_pipeline` writes its results to one folder per project, `data/<project>/automation/`. There are no run IDs: this folder is the project's final result, steps add to it, and `--force` cleans it before a full rerun.
 
 ## Folder layout
 
 ```
-data/<project>/automation/<run_id>/
+data/<project>/automation/
 ├── metadata.json              # Run summary (steps, timing, config, counts)
 ├── failures.json              # Persistent log of translation/evaluation/diagnosis failures (when present)
 ├── config/                    # Snapshot of configs used for this run
@@ -42,7 +42,6 @@ data/<project>/automation/<run_id>/
 
 | Field | Description |
 |-------|-------------|
-| `run_id` | Unique run identifier |
 | `experiment_name` | From `pipeline_config.yaml` |
 | `status` | `running`, `completed`, `completed_with_errors`, or `failed` |
 | `timestamps.created_at` / `timestamps.updated_at` | UTC timestamps |
@@ -59,7 +58,6 @@ Example (abridged, from a real run):
 
 ```json
 {
-  "run_id": "20260928_095010",
   "experiment_name": "first-full-run",
   "status": "completed_with_errors",
   "timestamps": {
@@ -361,6 +359,6 @@ For each mismatched indicator, the step gathers the original Indonesian policy t
 
 A policy with any `missing_diagnoses` or `unresolved_indicators` is treated as **partial**; its report is only written if `--allow-partial` is set (otherwise it's recorded as a failure in `failures.json` and no file is written).
 
-Translated Markdown now lives beside its source in `data/<project>/preprocessed/translation_markdown/` (outside the run folder); see `automation/README.md`.
+Translated Markdown now lives beside its source in `data/<project>/preprocessed/translation_markdown/` (outside the automation folder, so `--force` never touches it); see `automation/README.md`.
 
 Default evaluation reports now carry the simplified core per indicator: `included` (Answer), `evidence` (Translated Evidence), `evidence_original` (Source Evidence), `rationale` and `confidence` (verbalized). Token-probability fields (`answer_logprob`, `p_yes`, `margin`, ...) appear only when `evaluation.confidence.methods` includes `logprobs` or `margin`.

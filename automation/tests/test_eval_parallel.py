@@ -216,15 +216,14 @@ def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
 
 @pytest.fixture
 def data_root(tmp_path, monkeypatch):
-    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.OUTPUT_DIR_OVERRIDE", tmp_path)
     return tmp_path
 
 
 @patch("automation.src.run_eval.finalize_and_save_report")
 @patch("automation.src.run_eval._evaluate_policy_parallel")
 def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_config, data_root):
-    run_id = "eval_parallel"
-    policy_dir = data_root / run_id / "results" / "translation"
+    policy_dir = data_root / "results" / "translation"
     policy_dir.mkdir(parents=True)
     (policy_dir / "A.txt").write_text("policy A", encoding="utf-8")
     (policy_dir / "B.txt").write_text("policy B", encoding="utf-8")
@@ -236,7 +235,7 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
         ),
         ({"policy_file": "B.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []}, {}),
     ]
-    mock_finalize.return_value = (True, str(data_root / run_id / "results" / "evaluation" / "report.json"))
+    mock_finalize.return_value = (True, str(data_root / "results" / "evaluation" / "report.json"))
 
     wrapper = MagicMock()
     wrapper.profile.deployment = "gpt-4o"
@@ -244,9 +243,7 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
     embedder = MagicMock()
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_evaluation_step(
-        run_id=run_id,
-        config=pipeline_config,
+    result = run_evaluation_step(config=pipeline_config,
         wrapper=wrapper,
         embedder=embedder,
         limiter=limiter,
@@ -258,7 +255,7 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
     assert result["counts"]["succeeded"] == 2
     assert mock_eval_policy.call_count == 2
 
-    rag_candidates_dir = data_root / run_id / "mid_product" / "rag_candidates"
+    rag_candidates_dir = data_root / "mid_product" / "rag_candidates"
     a_candidates = json.loads((rag_candidates_dir / "A.json").read_text(encoding="utf-8"))
     assert a_candidates["policy_file"] == "A.txt"
     assert a_candidates["candidates"] == {
