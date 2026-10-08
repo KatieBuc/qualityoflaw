@@ -40,6 +40,7 @@
     "max_tokens": null,
     "name": "gpt-5.2-diagnosis",
     "supports_logprobs": true,
+    "supports_temperature": true,
     "temperature": 0.2
   },
   "discrepancy_diagnosis_template_path": "automation/prompts/discrepancy_diagnosis/v1/prompt_template.txt",
@@ -51,6 +52,7 @@
     "max_tokens": null,
     "name": "gpt-5.2",
     "supports_logprobs": true,
+    "supports_temperature": true,
     "temperature": 0.2
   },
   "evaluation_template_path": "automation/prompts/quality_eval/v4/prompt_template.txt",
@@ -112,6 +114,7 @@
     "max_tokens": null,
     "name": "claude-sonnet-4-5",
     "supports_logprobs": true,
+    "supports_temperature": true,
     "temperature": 0.2
   },
   "translation_prompt_path": "automation/prompts/translation/v2/prompt.txt",
@@ -121,6 +124,7 @@
     "max_tokens": null,
     "name": "gpt-5.2-translation-qa",
     "supports_logprobs": true,
+    "supports_temperature": true,
     "temperature": 0.1
   },
   "translation_qa_template_path": "automation/prompts/translation_qa/v1/prompt_template.txt"

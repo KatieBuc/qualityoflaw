@@ -245,6 +245,7 @@ def parse_model_profile(name: str, raw: dict) -> ModelProfile:
         max_tokens=raw.get("max_tokens"),
         max_retries=int(raw.get("max_retries", 3)),
         supports_logprobs=bool(raw.get("supports_logprobs", True)),
+        supports_temperature=bool(raw.get("supports_temperature", True)),
     )
 
 

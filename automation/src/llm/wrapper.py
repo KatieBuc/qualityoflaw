@@ -86,6 +86,19 @@ def top_logprobs_limit(exc: Exception) -> int | None:
     return None
 
 
+def is_temperature_unsupported(exc: Exception) -> bool:
+    """True when a 400 says this deployment will not accept `temperature`
+    (e.g. "Unsupported parameter: 'temperature' is not supported with this
+    model"). Retrying the same request can never succeed, so the wrapper drops
+    the parameter instead of burning its retries on it."""
+    if getattr(exc, "status_code", None) != 400:
+        return False
+    message = (getattr(exc, "message", None) or str(exc)).lower()
+    return "temperature" in message and any(
+        marker in message for marker in ("unsupported", "not supported", "does not support")
+    )
+
+
 def is_logprobs_unsupported(exc: Exception) -> bool:
     """True when a 400 says this deployment will not accept `logprobs`.
 
@@ -161,6 +174,8 @@ class AzureLLMWrapper:
         self.confidence = confidence
         self._logprobs_lock = threading.Lock()
         self._logprobs_disabled = False
+        self._temperature_lock = threading.Lock()
+        self._temperature_disabled = False
         self._top_logprobs_cap: int | None = None
         self._usage_lock = threading.Lock()
         self.token_usage = {
@@ -188,13 +203,42 @@ class AzureLLMWrapper:
         )
 
     def _build_request_kwargs(self, *, with_logprobs: bool = False) -> dict[str, Any]:
-        kwargs: dict[str, Any] = {"temperature": self.profile.temperature}
+        kwargs: dict[str, Any] = {}
+        if self.temperature_active():
+            kwargs["temperature"] = self.profile.temperature
         if self.profile.max_tokens is not None:
             kwargs["max_tokens"] = self.profile.max_tokens
         if with_logprobs:
             kwargs["logprobs"] = True
             kwargs["top_logprobs"] = self.effective_top_logprobs()
         return kwargs
+
+    def temperature_active(self) -> bool:
+        if not self.profile.supports_temperature:
+            return False
+        with self._temperature_lock:
+            return not self._temperature_disabled
+
+    def _disable_temperature(self, reason: str) -> bool:
+        """Stop sending `temperature` for the rest of the run, warning once.
+
+        Returns False when it was already off, i.e. the 400 is not about a
+        parameter we can still remove and the caller should treat it as real.
+        Several worker threads can hit the same 400 together; the lock keeps
+        that to one warning and lets the losers retry as well.
+        """
+        with self._temperature_lock:
+            if self._temperature_disabled or not self.profile.supports_temperature:
+                return False
+            self._temperature_disabled = True
+        logger.warning(
+            "Deployment %s rejected temperature; continuing without it for the "
+            "rest of this run (set supports_temperature: false in model_config.yaml "
+            "to skip this probe): %s",
+            self.profile.deployment,
+            reason,
+        )
+        return True
 
     def effective_top_logprobs(self) -> int:
         with self._logprobs_lock:
@@ -259,13 +303,26 @@ class AzureLLMWrapper:
         last_error: Exception | None = None
         last_error_type = "Exception"
         last_details: dict[str, Any] = {}
-        for attempt in range(self.profile.max_retries):
+        attempt = -1
+        # Dropping an unsupported `temperature` is not a transient failure, so
+        # the resend does not count against max_retries -- but only once per
+        # call, so a misleading error message cannot make this loop forever.
+        free_resends = 1
+        while attempt + 1 < self.profile.max_retries:
+            attempt += 1
             try:
                 if self.limiter is not None:
                     with self.limiter.semaphore:
                         return fn()
                 return fn()
             except (RateLimitError, APIConnectionError, APIStatusError, Exception) as exc:
+                if free_resends and is_temperature_unsupported(exc):
+                    # Either we drop it now, or another thread already did and
+                    # this request raced it; both are fixed by resending.
+                    if self._disable_temperature(str(exc)) or not self.temperature_active():
+                        free_resends -= 1
+                        attempt -= 1
+                        continue
                 last_error = exc
                 last_error_type, last_details = format_api_error(exc)
                 if attempt == self.profile.max_retries - 1:

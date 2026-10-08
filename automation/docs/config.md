@@ -15,6 +15,7 @@ models:
     max_tokens: null
     max_retries: 3
     supports_logprobs: true   # optional; false skips the logprobs request parameter
+    supports_temperature: true  # optional; false never sends `temperature` (reasoning models reject it)
 rerankers:
   cohere-rerank-v4.0-fast:
     deployment: ...
@@ -71,7 +72,7 @@ comparison:
     calibration_bins: 10
 ```
 
-Both blocks are optional; when omitted the code falls back to built-in defaults. `evaluation.confidence` only affects the `evaluation` step; `comparison.confidence` only affects report cutoffs, so it can be re-tuned and comparison re-run without touching the model. A model profile can also opt out permanently with `supports_logprobs: false`.
+Both blocks are optional; when omitted the code falls back to built-in defaults. `evaluation.confidence` only affects the `evaluation` step; `comparison.confidence` only affects report cutoffs, so it can be re-tuned and comparison re-run without touching the model. A model profile can also opt out permanently with `supports_logprobs: false`. Likewise, if a deployment answers 400 "Unsupported parameter: 'temperature'", the wrapper drops `temperature` for the rest of the run and resends immediately (one warning); set `supports_temperature: false` on that profile to skip the probe.
 
 `methods: []` disables capture entirely. `primary` must name one of the enabled methods, and `verbalized` requires `prompt_version: v4` — the field is only added to the response schema when the method is enabled, so a v3 run produces byte-identical requests to before the confidence module existed and stays comparable to the existing baseline.
 
