@@ -53,7 +53,7 @@ DEFAULT_STEPS = (
 # translation_qa_md, comparison and discrepancy_diagnosis stay out of the
 # default chain (extra QA / comparison against golden labels / diagnosis
 # isn't wanted on every run) but remain valid --steps values so they can
-# still be run explicitly, e.g. `--steps comparison --run-id <id>`.
+# still be run explicitly, e.g. `--steps comparison`.
 OPTIONAL_STEPS = ("translation_qa_md", "comparison", "discrepancy_diagnosis")
 
 # The raw-OCR-text path (`translation`, `translation_qa`, `markdown`) is kept
