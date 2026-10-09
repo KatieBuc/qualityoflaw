@@ -39,7 +39,8 @@ python -m automation.src.input_process run              # extract, then check
    drops headings or more than half the text. TXT → copied as UTF-8 (BOM removed, cp1252 accepted).
    A scanned PDF yields an empty file; the quality check, not the extractor, decides it needs OCR.
    An existing output is never overwritten — delete it to extract again.
-2. **Pick the best source** per policy: `__ocr` › `__html` › `__pdf` › `__txt`.
+2. **Pick the best source** per policy: `__ocr` › `__txt` › `__html` › `__pdf`. A `.txt` you supplied outranks
+   text extracted from a PDF/HTML of the same name; the ignored files are listed under `superseded`.
 3. **Check, fix, check again.** Measure the text → apply `hygiene` plus the fixers the findings call
    for → measure the fixed text → decide on *that* text. A fix that removes more than 30 % of the
    letters (K2) or loses more than 5 % of the distinct *Pasal* numbers (K1) is discarded and only the

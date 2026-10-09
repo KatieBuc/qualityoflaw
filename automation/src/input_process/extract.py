@@ -27,6 +27,10 @@ from automation.src.input_process.config import InputProcessConfig
 
 logger = logging.getLogger(__name__)
 
+# pdfminer / pdfplumber warn once per odd font or metadata key; hundreds of lines per run.
+for _noisy in ("pdfminer", "pdfplumber"):
+    logging.getLogger(_noisy).setLevel(logging.ERROR)
+
 #: Extension (lower case) -> source format.
 SOURCE_FORMATS = {".pdf": "pdf", ".html": "html", ".htm": "html", ".txt": "txt"}
 

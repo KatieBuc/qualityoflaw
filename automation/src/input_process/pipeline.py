@@ -2,7 +2,7 @@
 
 For each policy (stem) in ``extracted_txt/``:
 
-    pick the best source  (__ocr > __html > __pdf > __txt)
+    pick the best source  (__ocr > __txt > __html > __pdf)
     measure  ->  findings_before
     fix      ->  hygiene + the fixers the findings call for (limits enforced)
     measure again ->  findings_after, and the verdict is taken on THIS text
@@ -46,8 +46,10 @@ from automation.src.input_process.quality.metrics import (
 
 logger = logging.getLogger(__name__)
 
-#: Which extracted file wins when a policy has several (first match).
-PRECEDENCE = ("ocr", "html", "pdf", "txt")
+#: Which extracted file wins when a policy has several (first match). A supplied
+#: .txt outranks text extracted from a PDF/HTML: it is the text the translations
+#: and golden labels were built on.
+PRECEDENCE = ("ocr", "txt", "html", "pdf")
 
 #: The corpus-relative unique-word metric needs this many OTHER documents.
 MIN_REFERENCE_DOCS = 10

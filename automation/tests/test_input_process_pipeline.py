@@ -190,12 +190,13 @@ def test_report_only_leaves_cleaned_txt_alone_but_writes_the_report(config):
     assert json.loads(config.report_path.read_text(encoding="utf-8"))["summary"] == report["summary"]
 
 
-def test_precedence_prefers_ocr_then_html_then_pdf_then_txt(config):
-    put(config, "P", "txt", statute())
+def test_precedence_prefers_ocr_then_txt_then_html_then_pdf(config):
     put(config, "P", "pdf", statute())
     assert check_all(config)["files"]["P"]["source_format"] == "pdf"
     put(config, "P", "html", statute())
     assert check_all(config)["files"]["P"]["source_format"] == "html"
+    put(config, "P", "txt", statute())
+    assert check_all(config)["files"]["P"]["source_format"] == "txt"
     put(config, "P", "ocr", statute())
     entry = check_all(config)["files"]["P"]
     assert entry["source_format"] == "ocr" and entry["superseded"] == ["P__html.txt", "P__pdf.txt", "P__txt.txt"]
@@ -295,3 +296,16 @@ def test_cli_run_extracts_checks_and_prints_the_ocr_instructions(config, tmp_pat
     assert "SCAN__ocr.txt" in out
     assert cleaned(config) == ["GOOD.txt"]
     assert json.loads(config.report_path.read_text(encoding="utf-8"))["needs_ocr"][0]["pdf"] == "SCAN.pdf"
+
+
+def test_a_supplied_txt_is_used_when_the_pdf_of_the_same_policy_is_scanned(config):
+    """The real case in data/indonesia: 10 scanned PDFs already have a good .txt."""
+    image_only_pdf(config, "BOTH.pdf")
+    put(config, "BOTH", "pdf", "")
+    put(config, "BOTH", "txt", statute())
+
+    report = check_all(config)
+
+    assert report["needs_ocr"] == [] and cleaned(config) == ["BOTH.txt"]
+    entry = report["files"]["BOTH"]
+    assert entry["source_format"] == "txt" and entry["superseded"] == ["BOTH__pdf.txt"]
