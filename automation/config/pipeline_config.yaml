@@ -71,6 +71,18 @@ evaluation:
       evidence_verification:
         enabled: true
 
+# Stage 1 (input processing): data/<project>/raw/{raw_files,extracted_txt,cleaned_txt}.
+# Every key is optional; folders default to those names under data/<project>/raw/.
+# Overrides are repo-relative or absolute paths.
+input_process:
+  language: Indonesian
+  # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
+  # extracted_txt_dir: data/indonesia/raw/extracted_txt
+  # cleaned_txt_dir: data/indonesia/raw/cleaned_txt
+  # report_path: data/indonesia/raw/input_report.json
+  # Override individual quality thresholds (names in input_process/quality/criteria.py, T).
+  thresholds: {}
+
 # Step 4.6: maps evidence sentences between translation and source. Equal
 # sentence counts are paired by index; otherwise this aligner (LaBSE embeddings,
 # benchmarked in automation/benchmarks/alignment) is used. Needs

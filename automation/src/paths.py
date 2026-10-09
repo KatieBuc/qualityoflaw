@@ -1,7 +1,11 @@
 """Single place that turns a project name into its on-disk layout.
 
     data/<project>/
-        raw/                      source PDF / HTML / TXT
+        raw/
+            raw_files/            original PDF / HTML / TXT
+            extracted_txt/        <stem>__pdf|html|txt|ocr.txt (stage 1.1)
+            cleaned_txt/          <stem>.txt that passed the quality check
+            input_report.json     eliminated files, PDFs needing OCR
         preprocessed/             stage 1-2 output, open to human edits (stage 3)
             cleaned_markdown/
             translation_markdown/
@@ -24,14 +28,18 @@ from pathlib import Path
 from automation.src.constants import (
     AUTOMATION_DIRNAME,
     CLEANED_MARKDOWN_DIRNAME,
+    CLEANED_TXT_DIRNAME,
     CORRECTIONS_DIRNAME,
     DATA_ROOT,
+    EXTRACTED_TXT_DIRNAME,
     GOLDEN_CSV_FILENAME,
     INDEX_SCHEMA_RELPATH,
+    INPUT_REPORT_FILENAME,
     MANUAL_OVERWRITES_FILENAME,
     PREPROCESSED_DIRNAME,
     PROCESSED_DIRNAME,
     RAW_DIRNAME,
+    RAW_FILES_DIRNAME,
     TRANSLATION_MARKDOWN_DIRNAME,
 )
 
@@ -43,6 +51,22 @@ class ProjectDirs:
     @property
     def raw(self) -> Path:
         return self.root / RAW_DIRNAME
+
+    @property
+    def raw_files(self) -> Path:
+        return self.raw / RAW_FILES_DIRNAME
+
+    @property
+    def extracted_txt(self) -> Path:
+        return self.raw / EXTRACTED_TXT_DIRNAME
+
+    @property
+    def cleaned_txt(self) -> Path:
+        return self.raw / CLEANED_TXT_DIRNAME
+
+    @property
+    def input_report(self) -> Path:
+        return self.raw / INPUT_REPORT_FILENAME
 
     @property
     def preprocessed(self) -> Path:
