@@ -1,9 +1,9 @@
 """Quantitative text-quality metrics for stage 1.
 
-Ported from the GlobalLaws ``quality_metrics.py`` and adapted for one language
-per run (``input_process.language``, Indonesian by default): the filename-based
-language lookup and the 50-language tables are gone, and the statute-heading and
-web-chrome vocabularies know Indonesian (*Pasal*, *kebijakan privasi*, ...).
+Ported from the GlobalLaws ``quality_metrics.py``, keeping its multilingual
+support (language tables, per-file language from the file name) and adding
+Indonesian: *Pasal* headings and Indonesian web-chrome / paywall phrases next to
+the original Spanish, French, German, Portuguese and Croatian ones.
 
 This module only MEASURES. Thresholds and decisions live in ``criteria.py``.
 Every ratio is in [0, 1]; every ``*_per_1k`` rate is per 1,000 tokens (or lines,
@@ -30,18 +30,71 @@ class LanguageProfile:
     diacritics: bool = False
 
 
-#: Indonesian and Malay are written in plain Latin script without diacritics.
-#: Add an entry here to support another language; unknown names fall back to
-#: the default Latin / spaced profile.
-PROFILES = {
-    "Indonesian": LanguageProfile("Indonesian"),
-    "Malay": LanguageProfile("Malay"),
-    "English": LanguageProfile("English"),
+# Language -> expected script(s), from the GlobalLaws pipeline. Anything not
+# listed is Latin script. Bosnian / Serbian / Montenegrin statutes appear in
+# either alphabet, so both count as expected.
+LANG_SCRIPTS = {
+    "Arabic": {"ARABIC"},
+    "Armenian": {"ARMENIAN"},
+    "Bhutanese": {"TIBETAN"},
+    "Bulgarian": {"CYRILLIC"},
+    "Chinese": {"CJK"},
+    "Georgian": {"GEORGIAN"},
+    "Greek": {"GREEK"},
+    "Hebrew": {"HEBREW"},
+    "Japanese": {"CJK", "HIRAGANA", "KATAKANA"},
+    "Korean": {"HANGUL", "CJK"},
+    "Macedonian": {"CYRILLIC"},
+    "Russian": {"CYRILLIC"},
+    "Thai": {"THAI"},
+    "Ukrainian": {"CYRILLIC"},
+    "Bosnian": {"LATIN", "CYRILLIC"},
 }
+DEFAULT_SCRIPTS = frozenset({"LATIN"})
+
+# Written without spaces between words: token-based metrics (noisy tokens,
+# shattered / glued words, corpus-unique words) are not meaningful for them.
+UNSPACED_LANGS = {"Chinese", "Japanese", "Thai", "Bhutanese"}
+
+# Latin-script languages whose orthography uses diacritics: a text in one of
+# them with (almost) none has lost them in extraction. Indonesian, Malay and
+# English are deliberately absent.
+DIACRITIC_LANGS = {
+    "Albanian", "Azerbaijani", "Bosnian", "Croatian", "Czech", "Danish",
+    "Estonian", "French", "German", "Hungarian", "Icelandic", "Italian",
+    "Latvian", "Lithuanian", "Norwegian", "Polish", "Portuguese",
+    "Romanian", "Slovak", "Slovenian", "Spanish", "Swedish", "Turkish",
+}
+
+#: Misspellings of a language name in the source file names.
+LANG_ALIASES = {"Potuguese": "Portuguese"}
+
+
+def canonical_language(name: str) -> str:
+    name = (name or "").strip()
+    return LANG_ALIASES.get(name, name)
 
 
 def profile_for(language: str) -> LanguageProfile:
-    return PROFILES.get(language, LanguageProfile(language or "unknown"))
+    """The profile of a language name (aliases resolved). Unknown names are
+    treated as Latin script, space-separated, no diacritic check."""
+    language = canonical_language(language)
+    return LanguageProfile(
+        name=language or "unknown",
+        scripts=frozenset(LANG_SCRIPTS.get(language, DEFAULT_SCRIPTS)),
+        spaced=language not in UNSPACED_LANGS,
+        diacritics=language in DIACRITIC_LANGS,
+    )
+
+
+def language_of(stem: str, pattern=None, default: str = "") -> str:
+    """Language of a policy: group 1 of `pattern` searched in its name (e.g.
+    ``DomViol - ([A-Za-z]+)`` for GlobalLaws file names), else `default`."""
+    if pattern is not None:
+        match = pattern.search(stem)
+        if match:
+            return canonical_language(match.group(1))
+    return canonical_language(default)
 
 
 # --------------------------------------------------------------------------- patterns
@@ -56,13 +109,16 @@ EDGE_PUNCT = "\"'“”‘’«»„‚()[]{}<>.,;:!?¿¡*_-–—/\\|•·…"
 # ("Pasal 5 ayat (1) huruf f, meliputi:") is ignored. Roman-numeral Bab headings
 # are left out on purpose: the check reads Arabic numbers.
 UNIT_HEADING_RE = re.compile(
-    r"^\s*(?:pasal|art(?:icle)?\.?|section|sec\.|§)\s*(\d{1,4})\s*(?:[.:\-–—)]|º|°)?\s*(.*)$",
+    r"^\s*(?:pasal|art(?:icle|ículo|iculo|igo|icolo|ikel|ikkel|ykuł|ikla|ikulli|iklis)?\.?"
+    r"|section|sec\.|§|članak|člen|clanak|статья|стаття|член|άρθρο|madde|straipsnis|pant)"
+    r"\s*(\d{1,4})\s*(?:[.:\-–—)]|º|°)?\s*(.*)$",
     re.IGNORECASE,
 )
 # What follows a "heading" when it is really a wrapped cross-reference.
 XREF_START_RE = re.compile(
-    r"^(?:of|and|to|in|ayat|huruf|angka|butir|dan|atau|sampai|s\.d|dengan|tentang|"
-    r"yang|ini|itu|pada|dalam|di|sebagaimana|dimaksud|jo|juncto|,)(?:\b|$)",
+    r"^(?:of|de|del|du|des|da|do|van|von|and|et|y|e|to|in|ayat|huruf|angka|butir|dan|atau|"
+    r"sampai|s\.d|dengan|tentang|yang|ini|itu|pada|dalam|di|sebagaimana|dimaksud|jo|juncto|,)"
+    r"(?:\b|$)",
     re.IGNORECASE,
 )
 DECIMAL_NUM_RE = re.compile(r"^\s*(\d{1,3})\.(\d{1,3})\.?\s+[^\W\d_]")
@@ -73,6 +129,7 @@ MAX_TITLE_WORDS = 10
 PAYWALL_RE = re.compile(
     r"sign up or sign in|pro membership|full text is available|active subscription"
     r"|subscribe to (?:read|view|access)|login to (?:read|view)"
+    r"|réservé aux abonnés|contenido exclusivo|conteúdo exclusivo|nur für abonnenten"
     r"|berlangganan untuk (?:membaca|melihat|mengakses)|khusus (?:pelanggan|member|anggota)"
     r"|konten berbayar|login untuk (?:membaca|melihat|mengunduh)",
     re.IGNORECASE,
@@ -85,6 +142,9 @@ CHROME_RE = re.compile(
     r"\b(?:cookies?|log ?in|sign ?in|sign ?up|subscribe|newsletter|privacy policy"
     r"|terms of use|all rights reserved|javascript|browser|click here|share on"
     r"|facebook|twitter|linkedin|whatsapp|home ?page|back to top|skip to"
+    r"|impressum|datenschutz|abonnez|connexion|mentions légales|iniciar sesión"
+    r"|política de privacidad|aviso legal|inscreva|entrar|zum seitenanfang"
+    r"|shopping cart|košarica|prijava"
     r"|kebijakan privasi|syarat (?:dan|&) ketentuan|hubungi kami|tentang kami"
     r"|peta situs|kembali ke atas|halaman utama|beranda|bagikan (?:ke|di|melalui)"
     r"|unduh (?:dokumen|file|pdf)|cetak halaman|hak cipta dilindungi)\b",

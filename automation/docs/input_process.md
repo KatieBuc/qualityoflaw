@@ -74,11 +74,12 @@ Thresholds live in `quality/criteria.py` (`THRESHOLDS`); override any of them un
 | R6 | unit numbering looks scrambled | flag for review only |
 | duplicate | identical text in two policies | flag for review only (dropping one would also drop its golden row) |
 
-Adapted for Indonesian from the GlobalLaws pipeline: one language per run (`input_process.language`);
-`Pasal` headings drive the numbering check; wrapped cross-references ("Pasal 5 ayat (1) huruf f")
-are not headings; the web-chrome vocabulary uses unambiguous Indonesian phrases only (ordinary words
-like *masuk* or *daftar* appear in statutes). The thresholds were calibrated on the other corpus —
-check them against your files before relying on them.
+Ported from the GlobalLaws pipeline with its multilingual support kept, plus Indonesian: `Pasal`
+headings next to `Article` / `Artículo` / `Artigo` / `Artikel` / `Madde` ... drive the numbering check;
+wrapped cross-references ("Pasal 5 ayat (1) huruf f") are not headings; the web-chrome and paywall
+vocabularies cover Indonesian, English, Spanish, French, German, Portuguese and Croatian (only
+unambiguous Indonesian phrases: ordinary words like *masuk* or *daftar* appear in statutes). The
+thresholds were calibrated on GlobalLaws — check them against your own files before relying on them.
 
 ## Report (`input_report.json`)
 
@@ -92,11 +93,26 @@ check them against your files before relying on them.
 | `files` | per policy: `status`, `source_format`, `extracted_file`, `fixes_applied`, `fix_rejected`, `findings_before`, `findings_after`, `metrics`, `review`, `duplicate_of`, `superseded`, `cleaned_file` |
 | `thresholds` | the thresholds used (defaults plus your overrides) |
 
-## Supporting another language
+## Languages
 
-Add a `LanguageProfile` to `PROFILES` in `quality/metrics.py` (expected scripts, whether words are
-space-separated, whether diacritics are expected) and set `input_process.language`. Unknown names
-fall back to Latin script, space-separated words.
+Every policy is judged as its own language:
+
+- `input_process.language` is the default (Indonesian).
+- `input_process.language_pattern` is an optional regex with **one group** that picks the language out
+  of a policy name; names it does not match use the default. For GlobalLaws,
+  `DomViol - ([A-Za-z]+)` reads `Azerbaijani` out of `10. Azerbaijan - DomViol - Azerbaijani - html`, while
+  `ACEH_BIREUEN` falls back to Indonesian, so one config serves both projects.
+- The language decides the expected script (`LANG_SCRIPTS`: Arabic, Armenian, Bhutanese, Bulgarian,
+  Chinese, Georgian, Greek, Hebrew, Japanese, Korean, Macedonian, Russian, Thai, Ukrainian, Bosnian;
+  everything else is Latin), whether words are space-separated (`UNSPACED_LANGS`: Chinese, Japanese,
+  Thai, Bhutanese — token metrics are skipped), and whether lost diacritics are checked
+  (`DIACRITIC_LANGS`: Spanish, French, German, ...; not Indonesian, Malay or English). Name typos are
+  corrected through `LANG_ALIASES` (`Potuguese`).
+- The corpus-relative unique-word metric (OCR text only) is computed per language and needs more than
+  10 other files of the same language.
+
+The tables live in `quality/metrics.py`; add a language there to give it its own script or rules. The
+report records each file's `language` and `summary.by_language`.
 
 ## The `scripts/` folder
 

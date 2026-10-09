@@ -261,14 +261,14 @@ def test_report_schema(config):
     report = check_all(config)
 
     assert set(report) == {
-        "generated_at", "project", "language", "thresholds", "summary", "eliminated",
+        "generated_at", "project", "language", "language_pattern", "thresholds", "summary", "eliminated",
         "needs_ocr", "not_extracted", "unrecognized_files", "files",
     }
     assert report["project"] == "demo" and report["language"] == "Indonesian"
     assert report["thresholds"]["min_letters"] == 1000
     assert set(report["summary"]) == {
         "files", "passed", "needs_ocr", "eliminated", "fixed", "flagged_for_review",
-        "by_source_format", "not_extracted",
+        "by_source_format", "by_language", "not_extracted",
     }
     json.dumps(report)  # fully serialisable
 

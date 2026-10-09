@@ -75,7 +75,12 @@ evaluation:
 # Every key is optional; folders default to those names under data/<project>/raw/.
 # Overrides are repo-relative or absolute paths.
 input_process:
+  # Language every file is judged as, unless language_pattern finds one in its name.
   language: Indonesian
+  # Optional: regex with ONE group that picks the language out of a policy name, for
+  # multilingual corpora. GlobalLaws names look like "10. Azerbaijan - DomViol - Azerbaijani - html".
+  # Names it does not match (e.g. ACEH_BIREUEN) fall back to `language`.
+  language_pattern: 'DomViol - ([A-Za-z]+)'
   # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
   # extracted_txt_dir: data/indonesia/raw/extracted_txt
   # cleaned_txt_dir: data/indonesia/raw/cleaned_txt

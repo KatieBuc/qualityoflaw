@@ -7,6 +7,7 @@ Folder locations default to ``data/<project>/raw/...`` (see ``paths.py``) and ca
 each be overridden in the config file.
 """
 
+import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -28,6 +29,19 @@ class InputProcessConfig:
     report_path: Path
     thresholds: dict = field(default_factory=dict)
     small_scale_stems: tuple[str, ...] = ()
+    #: Regex with one group that picks the language out of a policy name
+    #: (e.g. ``DomViol - ([A-Za-z]+)``). Names it does not match use `language`.
+    language_pattern: str = ""
+
+    @property
+    def language_regex(self) -> "re.Pattern | None":
+        return re.compile(self.language_pattern) if self.language_pattern else None
+
+    def language_for(self, stem: str) -> str:
+        """Language of one policy: from its name when `language_pattern` matches, else `language`."""
+        from automation.src.input_process.quality.metrics import language_of
+
+        return language_of(stem, self.language_regex, self.language)
 
     @property
     def raw_dir(self) -> Path:
@@ -49,6 +63,15 @@ def parse_input_process_config(data: dict, *, project: str | None = None) -> Inp
     if not isinstance(thresholds, dict):
         raise ValueError("input_process.thresholds must be a mapping of threshold name -> value")
 
+    pattern = str(block.get("language_pattern") or "")
+    if pattern:
+        try:
+            compiled = re.compile(pattern)
+        except re.error as exc:
+            raise ValueError(f"input_process.language_pattern is not a valid regex: {exc}") from exc
+        if compiled.groups < 1:
+            raise ValueError("input_process.language_pattern needs one group around the language name")
+
     stems = (data.get("paths") or {}).get("small_scale_stems") or ()
     return InputProcessConfig(
         project=project,
@@ -58,6 +81,7 @@ def parse_input_process_config(data: dict, *, project: str | None = None) -> Inp
         cleaned_txt_dir=_resolve(block.get("cleaned_txt_dir") or dirs.cleaned_txt),
         report_path=_resolve(block.get("report_path") or dirs.input_report),
         thresholds=dict(thresholds),
+        language_pattern=pattern,
         small_scale_stems=tuple(str(s) for s in stems),
     )
 

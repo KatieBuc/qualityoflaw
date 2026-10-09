@@ -70,6 +70,7 @@ REPORT_METRICS = (
 class FileOutcome:
     stem: str
     source_format: str
+    language: str
     extracted_file: str
     status: str
     reason: str = ""
@@ -151,6 +152,7 @@ def _read(path: Path) -> str:
 
 
 def _measure(text: str, profile, doc_freq, n_docs: int, pdf_info: dict | None) -> dict:
+    """`doc_freq` / `n_docs` are those of the text's own language."""
     m = text_metrics(text, profile)
     m["corpus_unique_word_ratio"] = (
         corpus_unique_word_ratio(text, profile, doc_freq) if n_docs - 1 >= MIN_REFERENCE_DOCS else None
@@ -171,7 +173,6 @@ def check_all(
 ) -> dict:
     """Run the quality check over ``extracted_txt/`` and return (and write) the report."""
     thresholds = resolve_thresholds(config.thresholds)
-    profile = profile_for(config.language)
     groups, unmarked = group_extracted(config.extracted_txt_dir)
     if small_scale:
         groups = {s: f for s, f in groups.items() if s in set(config.small_scale_stems)}
@@ -179,12 +180,20 @@ def check_all(
     chosen = {stem: best_source(formats) for stem, formats in groups.items()}
     texts = {stem: _read(path) for stem, (_fmt, path) in chosen.items()}
 
-    # Corpus statistics for the unique-word metric (OCR text only).
-    doc_freq: dict[str, int] = {}
-    for text in texts.values():
-        for word in word_set(text, profile):
-            doc_freq[word] = doc_freq.get(word, 0) + 1
-    n_docs = len(texts)
+    # Each policy is judged as its own language (from its name, else the configured one).
+    languages = {stem: config.language_for(stem) for stem in texts}
+    profiles = {lang: profile_for(lang) for lang in set(languages.values())}
+
+    # Corpus statistics for the unique-word metric (OCR text only), per language:
+    # a Spanish file is compared with the other Spanish files, not with Arabic ones.
+    doc_freq: dict[str, dict[str, int]] = {}
+    n_docs: dict[str, int] = {}
+    for stem, text in texts.items():
+        lang = languages[stem]
+        counts = doc_freq.setdefault(lang, {})
+        for word in word_set(text, profiles[lang]):
+            counts[word] = counts.get(word, 0) + 1
+        n_docs[lang] = n_docs.get(lang, 0) + 1
 
     cache = PdfMetricsCache(config.report_path.with_name("pdf_metrics_cache.json"))
     outcomes: dict[str, FileOutcome] = {}
@@ -194,26 +203,29 @@ def check_all(
     for stem in sorted(chosen):
         fmt, path = chosen[stem]
         text0 = texts[stem]
+        lang = languages[stem]
+        profile, freq, n_lang = profiles[lang], doc_freq[lang], n_docs[lang]
         pdf = find_original_pdf(config, stem) if fmt == "pdf" else None
         pdf_info = cache.get(pdf) if pdf else None
 
-        m0 = _measure(text0, profile, doc_freq, n_docs, pdf_info)
+        m0 = _measure(text0, profile, freq, n_lang, pdf_info)
         before = all_findings({**m0, "source_format": fmt}, thresholds, ocr_derived=fmt == "ocr")
 
         text1, applied = apply_fixes(text0, fix_plan(before))
-        m1 = m0 if text1 == text0 else _measure(text1, profile, doc_freq, n_docs, pdf_info)
+        m1 = m0 if text1 == text0 else _measure(text1, profile, freq, n_lang, pdf_info)
         rejected = ""
         ok, why = fix_acceptable(m0, m1, thresholds)
         if not ok:
             # Too destructive: keep only the lossless normalization.
             rejected = why
             text1, applied = apply_fixes(text0, [])
-            m1 = m0 if text1 == text0 else _measure(text1, profile, doc_freq, n_docs, pdf_info)
+            m1 = m0 if text1 == text0 else _measure(text1, profile, freq, n_lang, pdf_info)
 
         verdict = decide(m1, fmt, thresholds)
         outcome = FileOutcome(
             stem=stem,
             source_format=fmt,
+            language=lang,
             extracted_file=path.name,
             status=verdict.status,
             reason=verdict.reason,
@@ -292,6 +304,7 @@ def _build_report(config, thresholds, outcomes, unmarked, missing) -> dict:
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "project": config.project,
         "language": config.language,
+        "language_pattern": config.language_pattern,
         "thresholds": thresholds,
         "summary": {
             "files": len(outcomes),
@@ -301,6 +314,12 @@ def _build_report(config, thresholds, outcomes, unmarked, missing) -> dict:
             "fixed": sum(1 for o in outcomes.values() if o.status == PASS and o.fixes_applied),
             "flagged_for_review": sum(1 for o in outcomes.values() if o.review),
             "by_source_format": dict(sorted(by_format.items())),
+            "by_language": {
+                lang: {"files": sum(1 for o in outcomes.values() if o.language == lang),
+                       "eliminated": sum(1 for o in outcomes.values() if o.language == lang and o.status == ELIMINATE),
+                       "needs_ocr": sum(1 for o in outcomes.values() if o.language == lang and o.status == NEEDS_OCR)}
+                for lang in sorted({o.language for o in outcomes.values()})
+            },
             "not_extracted": len(missing),
         },
         "eliminated": [
