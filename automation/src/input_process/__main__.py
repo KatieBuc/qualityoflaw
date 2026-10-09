@@ -2,6 +2,8 @@
 
     python -m automation.src.input_process migrate-raw [--dry-run]
     python -m automation.src.input_process extract [--small-scale]
+    python -m automation.src.input_process check [--report-only] [--small-scale]
+    python -m automation.src.input_process run [--small-scale]      # extract + check
 """
 
 import argparse
@@ -12,6 +14,7 @@ from automation.src.constants import DEFAULT_PIPELINE_CONFIG
 from automation.src.input_process.config import load_input_process_config
 from automation.src.input_process.extract import extract_all
 from automation.src.input_process.migrate import migrate_raw
+from automation.src.input_process.pipeline import check_all
 
 
 def _cmd_migrate_raw(args: argparse.Namespace, config) -> int:
@@ -40,6 +43,37 @@ def _cmd_extract(args: argparse.Namespace, config) -> int:
     return 1 if counts.get("failed") else 0
 
 
+def _print_report_summary(report: dict, config) -> None:
+    s = report["summary"]
+    print(
+        f"Quality check: {s['files']} file(s) -> {s['passed']} passed "
+        f"({s['fixed']} fixed, {s['flagged_for_review']} flagged for review), "
+        f"{s['needs_ocr']} need OCR, {s['eliminated']} eliminated"
+    )
+    if s["not_extracted"]:
+        print(f"  {s['not_extracted']} original(s) have no extracted text yet (see report)")
+    for entry in report["needs_ocr"]:
+        print(f"  needs OCR: {entry['pdf'] or entry['stem']} -> put the OCR text in "
+              f"{config.extracted_txt_dir / entry['expected_ocr_file']}")
+    print(f"Report: {config.report_path}")
+
+
+def _cmd_check(args: argparse.Namespace, config) -> int:
+    report = check_all(config, write_cleaned=not args.report_only, small_scale=args.small_scale)
+    _print_report_summary(report, config)
+    if args.report_only:
+        print("(report only: cleaned_txt/ was not touched)")
+    else:
+        print(f"Passed files are in {config.cleaned_txt_dir}")
+    return 0
+
+
+def _cmd_run(args: argparse.Namespace, config) -> int:
+    code = _cmd_extract(args, config)
+    check_args = argparse.Namespace(report_only=False, small_scale=args.small_scale)
+    return max(code, _cmd_check(check_args, config))
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="python -m automation.src.input_process",
@@ -60,6 +94,18 @@ def build_parser() -> argparse.ArgumentParser:
     )
     extract.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
     extract.set_defaults(func=_cmd_extract)
+
+    check = sub.add_parser(
+        "check",
+        help="Quality-check, fix and re-check extracted_txt/; write cleaned_txt/ and the JSON report.",
+    )
+    check.add_argument("--report-only", action="store_true", help="Write the report, leave cleaned_txt/ alone.")
+    check.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
+    check.set_defaults(func=_cmd_check)
+
+    run = sub.add_parser("run", help="extract, then check.")
+    run.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
+    run.set_defaults(func=_cmd_run)
     return parser
 
 
