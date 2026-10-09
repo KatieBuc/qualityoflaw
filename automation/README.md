@@ -128,7 +128,11 @@ Nothing is moved unless every pair passes.
 
 ## Pipeline stages
 
-1. **Input processing** (`automation/src/ingest/`, placeholder): PDF/HTML -> TXT -> `preprocessed/cleaned_markdown`.
+1. **Input processing.**
+   - 1.1 (`python -m automation.src.input_process run`): PDF/HTML/TXT in `raw/raw_files/` → `raw/extracted_txt/` →
+     quality check, fix and re-check → `raw/cleaned_txt/`, plus `raw/input_report.json` (eliminated files, PDFs that
+     need OCR). See [input_process.md](automation/docs/input_process.md).
+   - 1.2 (`automation/src/ingest/`, placeholder): `cleaned_txt` → `preprocessed/cleaned_markdown`.
 2. **Translation** (`translation_md`): chunk-and-combine, writes `preprocessed/translation_markdown`.
 3. **Human adjustment**: edit `preprocessed/`, then `python -m automation.src.markdown.validate --promote`.
 4. **Evaluation** (`md_to_text`, `storage`, `evaluation`): reads `processed/`, header validation first, RAG evaluation,
