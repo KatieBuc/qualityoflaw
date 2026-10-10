@@ -1,0 +1,3069 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0__ctl0_Head1"><title>
+	Sistema Costarricense de Información Jurídica
+</title><meta http-equiv="X-UA-Compatible" content="IE=100"> <!-- IE8 mode -->
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)"><meta name="robots" content="noarchive"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport">
+    <meta name="robots" content="noarchive" />
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;' name='viewport' />
+    
+    <meta name="GENERATOR" content="Microsoft Interdev 6.0">
+    <meta name="DESCRIPTION" content="Sistema de Busqueda Normativa SCIJ">
+    <meta name="AUTHOR" content="S-COM: Davinsson Nunjar Flores">
+    <meta name="MODIFY" content="S-COM: Sandra García Salas, sandrag@s-com.com">
+    <meta name="COPYRIGHT" content="S-COM">
+    <meta name="KEYWORDS" content="Ficha,Norma,SCIJ">
+    <meta name="SUBJECT" content="Texto Completo">
+    <title>Texto Completo</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script language="JavaScript" src="nrm_generales.js"></script>
+    <link rel="stylesheet" href="../../../scij.css">
+    <script>
+<!--
+
+        function MostrarFicha() {
+            var x, y;
+
+            x = event.x;
+            y = event.y;
+
+            ficha.style.left = '55%';
+            ficha.style.top = window.document.body.scrollTop + 125; ;
+            ficha.style.visibility = 'visible';
+            OcultarBuscador();
+        }
+
+        function OcultarFicha() {
+            ficha.style.visibility = 'hidden';
+        }
+
+        function MostrarBuscador() {
+            var x, y;
+
+            x = event.x;
+            y = event.y;
+
+            buscador.style.rigth = '30%';
+            buscador.style.top = window.document.body.scrollTop + 125;
+            buscador.style.visibility = 'visible';
+
+            OcultarFicha();
+        }
+
+        function OcultarBuscador() {
+            buscador.style.visibility = 'hidden';
+        }
+
+
+        //---------------------------------------------------------------------
+        //Function:	window_onresize
+        //Objetivo:	Cuando el usuario amplía o disminuye el tamaño de la ventana
+        //			se reubica el div que hace visible la ficha de la norma
+        //			colocándolo siempre a la derecha de la pantalla.
+        //Autor:	Sandra García Salas (S-COM)
+        //Fecha:	03 junio 2003
+        //---------------------------------------------------------------------
+        function window_onresize() {
+            //Se instancia el div que hace visible la ficha de la norma
+            var objBarra = window.barra;
+            //Se le indica que ese span siempre esté en la parte superior de la pantalla
+            objBarra.style.top = window.document.body.scrollTop;
+            //Además a la izquierda de la pantalla
+        }
+
+        //---------------------------------------------------------------------
+        //Function:	window_onscroll
+        //Objetivo:	Cuando el usuario hace scroll de la pantalla el div que
+        //			hace visible la ficha así como la ficha misma se corren,
+        //			para que siempre estén visibles al usuario
+        //Autor:	Sandra García Salas, S-COM
+        //Fecha:	03 junio 2003
+        //---------------------------------------------------------------------
+        function window_onscroll() {
+            var objBarra = window.barra;
+            //Se corre el div que hace visible la ficha de la sentencia
+            objBarra.style.top = window.document.body.scrollTop;
+        }
+
+        function MostrarArticuloSgte() {
+            frmBuscarArticulo.submit();
+        }
+
+//-->
+    </script>
+    <style type="text/css">
+        a:visited, span.MsoHyperlinkFollowed
+        {
+            /*color: White !important;*/
+            text-decoration: none !important;
+        }
+        .style5
+        {
+            color: #31639c;
+        }
+      
+        .auto-style3 {
+            height: 41px;
+        }
+         table, tr, td, img {
+          margin: 0; padding: 0;  
+         }
+
+
+    </style>
+
+    <style type="text/css">
+        .Buscar
+        {
+            display: inline-table;
+        }
+        .Buscar select
+        {
+            /*width: 60%;*/
+        }
+        .Buscar div
+        {
+           padding: 2pt 0pt 2pt 0pt;
+        }
+        .Buscar span
+        {
+            color: #004999;
+        }
+        .Buscar input[type="Text"]
+        {
+            /*width: 87%;*/
+        }
+        .Buscar input[type="submit"]
+        {
+            /*width: 40%;*/
+        }
+        .Buscar label
+        {
+            color: #004999;
+        }
+        .AlineaDropDownList
+        {
+            /*position: relative;
+            left: 11pt;*/
+        }
+        .ClaseExplorerNav
+        {
+            /*position: relative;
+            left: 11pt;*/
+        }
+        .ClaseOtroNav
+        {
+            /*position: relative;
+            left: 11pt;
+            width: 63%;*/
+        }
+        
+              @media screen and (max-width:875px)
+        {
+            .Buscar
+            {
+                /*display: block;*/
+            }
+            .Buscar select
+            {
+                /*text-align: left;
+                width: 75%;
+                left: 0px;*/
+            }
+            .Separador
+            {
+                width: 0em !important;
+            }
+
+        }
+        html{color: #000;}
+    body{min-width:1024px;}
+
+        .auto-style2 {
+            width: 37px;
+        }
+    </style>
+
+
+
+
+        
+        
+        
+         <script lang="JavaScript" src="http://www.pgrweb.go.cr:80/scij/fgeneralesscij.js" type="text/javascript"></script>
+        <script lang="JavaScript" src="http://www.pgrweb.go.cr:80/scij/menu_sinalevi.js" type="text/javascript"></script>
+
+       
+
+
+        <script src="http://www.pgrweb.go.cr:80/scij/scripts/jquery-1.4.2.js" type="text/javascript"></script>
+        <script src="http://www.pgrweb.go.cr:80/scij/scripts/jquery-ui-1.8rc3.custom.min.js" type="text/javascript"></script>
+
+        <link rel="stylesheet" href="http://www.pgrweb.go.cr:80/scij/scij.css" />
+    
+    <script>
+        window.onload = function () {
+            //Se arma la ruta en donde se encuentra el usuario...
+            var strRuta;
+            var ColumnaDerecha = document.getElementById('tablas');
+
+            var w = window,
+            d = document,
+            e = d.documentElement,
+            g = d.getElementsByTagName('body')[0],
+            x = w.innerWidth || e.clientWidth || g.clientWidth,
+            y = w.innerHeight || e.clientHeight || g.clientHeight;
+
+            //en este caso, en la raiz del sitio
+            strRuta = m_strDondeEstoy + 'Inicio';
+            window.top.document.title = 'Sistema Costarricense de Información Jurídica';
+            ActualizarMenu();
+        }
+    </script>
+    <style type="text/css">
+        .style3 {
+            width: 10%;
+            height: 100%;
+            float: right;
+            color: #FFFFFF;
+            background-color: #94AECE;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        img {
+        vertical-align:text-bottom !important;
+        border: 0px;
+        }
+        table, tr, td, img {
+         margin: 0; padding: 0; 
+         }
+        #Table1 
+        {
+            max-width:100%;
+        }
+        #SearchTable
+        {
+            border-collapse: collapse;
+            padding:0px 0px 0px 0px;
+            border-spacing: 0px 0px 0px 0px;
+            margin: 0px 0px 0px 0px;
+            background-color:white;
+            max-width:100%;
+        }
+
+        #SearchTable td 
+        {
+            padding:0px 0px 0px 0px;
+            border-spacing: 0px 0px 0px 0px;
+            margin: 0px 0px 0px 0px;
+        }
+        a {text-decoration: none;}
+    </style>
+</head>
+<body style=" margin: 0; overflow:no-display"; onload="return window_onload(); ">
+    <form name="aspnetForm" method="post" action="./nrm_texto_completo.aspx?nValor1=1&amp;nValor2=27926" id="aspnetForm" style="overflow:hidden; border-collapse:collapse; border: none">
+<input type="hidden" name="_ctl0__ctl0_ToolkitScriptManager1_HiddenField" id="_ctl0__ctl0_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="FVuPR/kV/46cbwiC/RrAgOa3WWoFa+9Ur8uktZm1SIxsniX6klWSgfN9bH9scHiUeRQmjhryaDMTs5LfNUPEBgNDgi0nXSIT5Fs0913DlNNNugvB1VNp1nfQvGH0JRvqmzSbTR05CMf3KTRaxyYqI8DimfW0AO441kXOGGf48tUiEgwKqrvl3nJmDbYupXqw/jYBvJ23HGJIcDFN+pBIb28D1TLdYyeeNlQOq6il0R8arIrGKfESlEPrAWvRartNfHMcIFxXvbPB1liiK8Tnz0UwZRtjNJEgzrWS5Fzei05/Zuj/VMnFBpZMpKscJl4LEL0lDmdkAnjait8CoVE8MtMoI31hB43P0UVdlzLzrImuHmUFm77q+iFPLDIpUce7akz/mvaDKbcHL962JMgD2Ku/B93znvIAyrqatrJPgYjEe9K9hcEUp62eopn+TJL3ISnhh1C9YIUDBCo4v6q08CIbbnnDfgsTYog8K1w8XJsXsizXj552Kjuo3Db1hGUyNqUkL6qgnrATVZwLuSorBBqRuCDrb26cfHSYGqHk2OkGqKOZ4qOXEJSkKMrwnFpS7sfI+4BqXt1bGOG3b59Na4p1BI3Kfg7YgNpzQqkp1oa4u5xvLGF5dKw2MoAc+KWAN749BnEIO9CfVd2ZW1YQy2y+VfXqOD2E1D6Re3i7+pSk5YjPaF4cSS9a+0p3WoXDEw1Mu84vugHLZzuPYXm64Q9T4NDHBajiq9mkkUgyrO13/AxAka0z+OgyPdWWKDUzdPD38AwirpaQGrvAw9FCzi3MUoFQJlNqJDv46Yeg49bVLmhU/2QgC10GgfCS4vqbXEZTfZHbEkLkh2lAJBfVSHOqVCF29hQyVeo29Xpkyztl9iEbRRsmDMdKCV989JMHafWsa9QQT8tm3Nz0KSPagNCKtn58/XDMz7RiUln9yTzqQecJSwA1r4wW6PYIliJqP2l/WhAy+VNYVQ/71OydRPg+lN+w6WXmJhucnPou3rVeZfUS6jE/NAmqpK56tjYYM5TvlAGT8SmejptIbLDm+Ieo8lcFYZe+bS4YXR1010XenDWHzMRslN2e6YWsqmFhmFkRU/0YUwoZ13uBWf2erXS5Ii/c3CFISnmd1LTbmR6tMTGD5AZnYl+qNHt8ZPNDc7RdB6Uj6AZHIalbwBrznr3+TvpZLqsFFdO/HF9+Gw2TjnuXzTAphlXLYYmIDCH0P5CptEpgywjPAqBDjqnNpSdUlrmtn4FokkDXpuqHh8whEvGvRnwKMdm/KsFft2FsaOKws0MCHq0QSla+4nwha0vVs7TXvlBYgC/iblsyt05o0j3fgSurxaaAgk49rbzGvm3KYnFsaSbkwSV+oPbmP3/6yhs3N/qJ64WZ0mycRNburHAQXk2WyDl2BXczc9LBxQsszrXADZktSRVS7H2z/Zs6ASzRZpIXvcTg835RaQ24dzdn5grg04Cb+KErMoJHUJBUi5tPXdSzzvzxyF7Q0hO3Qy4seZCxOKqahctzY03wa2pzn8NveaXHcSLPRy/fpTPkX7k2JnM4X5qqtaBvzt/Y/zjlGKMg8ckLBuml5isOzCimmCiNQwcNGsC654tzGZAceOk6eDQ4NcTVm97QirsSblNvICD+12VBHLTnVILcAIkAb6gQqnmfjrSAI0x/" />
+
+<script type="text/javascript">
+<!--
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+// -->
+</script>
+
+
+<script src="/scij/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMaUbEXYGr_QsaiGdLG9FuZnaE4oCSkmqvlkP87HS60zALFo84fl8rx-7VaFjDAneg2&amp;t=637814437746327080" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+<!--
+var __cultureInfo = {"name":"es-CR","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"₡","NaNSymbol":"NeuN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-Infinito","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinito","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"a.m.","Calendar":{"MinSupportedDateTime":"\/Date(-62135575200000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd d\u0027 de \u0027MMMM\u0027 de \u0027yyyy hh:mm:ss tt","LongDatePattern":"dddd d\u0027 de \u0027MMMM\u0027 de \u0027yyyy","LongTimePattern":"hh:mm:ss tt","MonthDayPattern":"d\u0027 de \u0027MMMM","PMDesignator":"p.m.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"hh:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM\u0027 de \u0027yyyy","AbbreviatedDayNames":["dom","lun","mar","mié","jue","vie","sáb"],"ShortestDayNames":["do","lu","ma","mi","ju","vi","sá"],"DayNames":["domingo","lunes","martes","miércoles","jueves","viernes","sábado"],"AbbreviatedMonthNames":["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic",""],"MonthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre",""],"IsReadOnly":true,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic",""],"MonthGenitiveNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre",""]},"eras":[1,"d.C.",null,0]};// -->
+</script>
+
+<script src="/scij/ScriptResource.axd?d=yeSNAJTOPtPimTGCAo3LlbIINkYYQ_UGt7u35PSiAWJufT70-SlEcub39rV5Mlq-e_0mXuLGHcQ7_NLdlW1u-nzJOyJWSJrBtrsgNkRLKuXWgKSfdTJ1Q4IILs460x5H0&amp;t=ffffffffe3663df5" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('Error al cargar el marco de trabajo de cliente ASP.NET Ajax.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6176642A" />
+        
+        <table id="Table1"  style="width:100%; border-collapse:collapse; border: none">
+            <tr>
+               <td colspan="1" style="background-image: url(http://www.pgrweb.go.cr:80/scij/images/bg_bandera.gif)">
+                    <div style="float: left; vertical-align: bottom; border-collapse: collapse; padding: 0px; border-spacing: 0px; margin: 0px;">
+                        <img id="_ctl0__ctl0_ImgLogoAbogados" src="http://www.pgrweb.go.cr:80/scij/images/LogoAbogadosFondoSCIJ.jpg" border="0" style="border-style:None;height:60px;" />
+                    </div>
+                    <div style="float: left; outline:0; border-collapse: collapse; padding:0px; border-spacing: 0px; margin: 0px;">
+                      <img id="_ctl0__ctl0_ImgEncabezadoIzq" src="http://www.pgrweb.go.cr:80/scij/images/header_left.jpg" border="0" style="border-style:None;" />
+                    </div>
+               </td>
+                <td colspan="1" rowspan="2" style="vertical-align: top; background-color: #003366;">
+                    <div style="float: right; vertical-align: top; outline-width: 0;  border-collapse:collapse; border: none">
+                        <a href="http://www.pgr.go.cr" target="_parent">
+                            <img id="_ctl0__ctl0_ImgEncabezadoDer" title="Página Principal de la Procuraduría General" src="http://www.pgrweb.go.cr:80/scij/images/header_right_3.jpg" align="top" border="0" />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="1" style="width: 100%; background-color: #003366; height: 22px;">
+                     <div id="PanelMenu" style="float: left;">
+                        <ul id="MenuPrincipal">
+                            <li><a title="Ir a al menú principal del SCIJ (Poder Judicial)" href="http://www.pgrweb.go.cr:80/scij/avanzada_pgr.aspx">INICIO</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li>
+                                <a id="_ctl0__ctl0_hlPGRSINALEVI" title="Ir a la página del SCIJ - SINALEVI (Sistema Nacional de Legislación Vigente)" class="current" href="http://www.pgrweb.go.cr/scij/main.aspx">PGR SINALEVI&nbsp;</a>
+                            </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a la página del SCIJ (Poder Judicial)" href="https://nexuspj.poder-judicial.go.cr/">PODER JUDICIAL</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a la página del SCIJ (Minsterio de Hacienda)" href="https://scij.hacienda.go.cr/SCIJ_MHDA/default.aspx">HACIENDA</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a Corte Interamericana" href="http://www.corteidh.or.cr/index.php/es">CORTE IDH</a> </li>
+							<li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a Diccionario usual del PJ" href="https://diccionariousual.poder-judicial.go.cr/index.php/diccionario">DICCIONARIO JURÍDICO PJ</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li>
+                                <a id="_ctl0__ctl0_hlAyuda" title="Manual de ayuda al usuario" href="http://www.pgrweb.go.cr/scij/ayuda_pgr.aspx">&nbsp;AYUDA&nbsp;</a>
+                            </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li>
+                                <a id="_ctl0__ctl0_hlMenu" title="Muesta el mapa de sitio SCIJ" href="http://www.pgrweb.go.cr/scij/mapa_sitio.aspx">&nbsp;MAPA DEL SITIO&nbsp;</a>
+                            </li>
+                        </ul>
+                    </div>
+                </td>
+            </tr>
+            </table>
+
+        <table id="SearchTable"  style="width:100%; border-collapse:collapse; border: none">
+            <tr style="height: 22px">
+                <td id="tdDondeEstoy" style="width: 100%; background-color: #cecfce; background: -moz-linear-gradient(left, #94AECE, #cecfce); /*mozilla*/ background: -webkit-linear-gradient(left, #94AECE, #cecfce); /*chrome*/  background: linear-background(left, #94AECE, #cecfce); /*General*/    height: 22px;">
+                    <!-- DONDE ESTOY -->
+
+                    <div style="background-color: #94adce; float: left; width: 20%; height: 100%">
+                        <span>Buscar:</span>
+                    </div>
+                    <div id="SubPanelDondeEstoy" style="float: left; font-size: 7pt; font-family: Verdana, Arial, Helvetica, sans-serif; padding-top: 5px;">
+                        
+            &nbsp;Normativa >> Ley 7586 >> Fecha 10/04/1996 >> Texto completo
+                        
+                    </div>
+                    <div class="style3">
+                        <strong>
+                            Internet
+                        </strong>
+                    </div>
+                    <div style="float: right; background-color: #94aece; height: 22px">
+                        <img id="_ctl0__ctl0_ImgDondeEstoy1" src="http://www.pgrweb.go.cr:80/scij/images/curva2.gif" border="0" style="height:25px;width:35px;" />
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <table style="border-width: 0px; border-collapse:collapse; border: none; width: 100%">
+            <tr>
+                <td id="tdContenidoPaginas">
+                    
+    
+     <script type="text/javascript" language="JavaScript">
+         var MIN_CARACTERES = 3;
+         var strAyudaContenido = "Si se marca la casilla 'Buscar en contenido' el programa buscará además en el texto de los documentos. Si no se marca, se buscará sólo en la ficha de los documentos que se indiquen.";
+         var strAyudaBuscador = "<STRONG>Búsqueda simple:</STRONG> Digite el dato que desea buscar, ya sean letras o números.<br>";
+         strAyudaBuscador += "<STRONG>Normativa:</STRONG> Debe seleccionar la búsqueda entre Normas generales, Pronunciamientos o Asuntos constitucionales.<br>";
+         strAyudaBuscador += "<STRONG>Año:</STRONG> Indique el año en el que desea buscar. Si no indica año, se buscará en todos los años.<br>";
+         strAyudaBuscador += "<STRONG>Resultados:</STRONG> Seleccione la cantidad de resultados que desea desplegar en pantalla.<br>";
+         strAyudaBuscador += "<STRONG>Buscar en:</STRONG> \"Contenido del texto\" busca dentro del texto de los documentos.<br><STRONG>Buscar en</STRONG>: \"Ficha del documento\" busca tanto en la ficha como en los descriptores asignados al documento.";
+
+
+         function ActivarMenu(strRuta) {
+             location.href = strRuta;
+         }
+
+         /////////////////////////////////////////////////////////////////////////////
+
+         var m_strTexto = "";
+         var m_nSearchScope = 0;
+         var m_nFlags = 0;
+         var m_sBookMark = "";
+         var m_nContador = 0;
+         var strEmailString = "_r=1";
+         var m_rng = null;
+         var m_BookMark = null;
+         var strMarca = "ß&Ø¥ß";
+
+         function GetContentWnd() { return parent; }
+
+         function BuscarTexto() {
+             m_nFlags = 0;
+             m_nSearchScope = 0;
+             showModalDialog("../../../nrm_find.aspx", window, "status:false;dialogWidth:350px;dialogHeight:190px");
+         }
+
+         //-------------------------------------------------------------------------------------
+         //Nombre: fnUpdate()
+         //Descripciòn: 
+         //		Realiza búsquedas en un texto, de acuerdo a los parámetros seleccionados por el
+         //		usuario. Los parámetros se solicitan en otra pantalla por medio del asp 
+         //		../../../nrm_find.asp se conservan en variables q son accesadas desde aquì en:
+         //		m_strTexto= texto q se va a buscar
+         //		m_nSearchScope= tipo de bùsqueda, si entero(+) es hacia adelante, si entero(-) es hacia atràs
+         //		m_nFlags=	0: Default. Match partial words. 
+         //					1: Match backwards. 
+         //					2: Match whole words only. 
+         //					4: Match case. 		
+         //		Marca=		ß&Ø¥ß, esta marca se pone p iniciar la bùsqueda a partir de aquì y no pasar
+         //					por la parte de la Ficha de la Sentencia. Se puso en el asp jur_ficha_completa_sentencia.asp
+         //-------------------------------------------------------------------------------------
+         function fnUpdate() {
+             if (m_rng == null) {
+
+                 m_rng = document.body.createTextRange();
+                 if (m_nSearchScope > 0) {
+                     m_rng.findText(strMarca, 1, 0);
+                 }
+             }
+
+             m_BookMark = m_rng.getBookmark();
+             m_rng.moveToBookmark(m_BookMark);
+
+             if (m_rng.findText(m_strTexto, m_strTexto.length * m_nSearchScope, m_nFlags) != false) {
+                 if (!(m_strTexto == strMarca)) {
+
+                     alert(m_strTexto);
+                     alert(strMarca);
+
+                     m_rng.select();
+                     m_rng.scrollIntoView();
+
+                     if (m_nSearchScope >= 1) {
+                         m_rng.collapse(false);
+                     }
+                     else {
+                         m_rng.collapse(true);
+                     }
+                 }
+                 else {
+                     m_rng = null;
+                     alert('Búsqueda en documento finalizada.');
+                 }
+             }
+             else {
+                 m_BookMark = null;
+                 m_rng = null;
+                 alert('Búsqueda en documento finalizada.');
+             }
+         }
+         //-------------------------------------------------------------------------------------
+         //Inserta:	Sandra García Salas, S-COM
+         //Fecha:	06-10-2003
+         //Objetivo:	Cuando el usuario hace clic en la imagen de 'guardar como' ésta se cambia
+         //			por una similiar pero que da el efecto de un botón oprimido. Además de
+         //			eso abre una nueva ventana con el texto de la sentencia o extracto seleccionado
+         //			y listo para guardar.
+         //-------------------------------------------------------------------------------------
+         function GuardarTexto(strTitulo2) {
+    
+          if (window.sidebar) {
+
+             var strTitulo = strTitulo2;
+
+             var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+             win = window.open();
+
+             self.focus();
+
+             win.document.open();
+
+             win.document.write(Texto);
+
+             win.alert("Para guardar el documento, presione click derecho en el mouse y seleccione 'Guardar Como...'")
+
+             win.document.charset = "ISO-8859-1";
+             win.document.execCommand("selectall");
+             win.document.execCommand("copy");
+             win.document.execCommand("Unselect");
+             win.document.execCommand("SaveAs", "true", strTitulo);
+
+             win.close();
+         }
+          else if (navigator.userAgent.indexOf("Chrome") != -1) {
+
+            
+              var Ruta = "http://www.pgrweb.go.cr/TextoCompleto/NORMAS/1/VIGENTE/L/1990-1999/1995-1999/1996/6D16/27926_117082-5.html";
+              
+
+              var strTitulo = strTitulo2;
+
+              var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+              win = window.open(Ruta);
+
+              self.focus();
+
+              //win.document.open();
+
+              //win.document.write(Texto);
+
+              win.alert("Para guardar el documento, presione click derecho en el mouse y seleccione 'Guardar Como...")
+
+          }
+
+          else {
+
+              var strTitulo = strTitulo2;
+
+              var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+              win = window.open();
+
+              self.focus();
+
+              win.document.open();
+
+              win.document.write(Texto);
+
+              win.document.close();
+
+              win.document.charset = "ISO-8859-1";
+              win.document.execCommand("selectall");
+              win.document.execCommand("copy");
+              win.document.execCommand("Unselect");
+              win.document.execCommand("SaveAs", "true", strTitulo);
+
+
+              win.close();
+          }
+         
+         }
+
+
+         var win = null;
+         function ImprimirTexto(strTitulo2) {
+
+
+             var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+             win = window.open();
+
+             self.focus();
+
+             win.document.open();
+
+             win.document.write(Texto);
+
+             win.document.close();
+
+             win.print();
+
+             win.close();
+
+
+         }
+
+
+         function IncluirFavorito(strTitulo2) {
+
+             var strTitulo = strTitulo2;
+             var strRuta = top.location.href;
+
+
+             if (window.sidebar) { // Mozilla Firefox
+                 window.sidebar.addPanel(strTitulo, strRuta, "");
+             }
+             else if (window.external) { // IE
+                 window.external.AddFavorite(strRuta, strTitulo);
+             }
+             else if (window.opera /*&& window.print*/) { // Opera y chrome
+                 alert("Para agregar la página a sus favoritos presione control + D");
+             }
+             else {
+                 alert("Para agregar la página a sus favoritos presione control + D");
+
+             }
+         }
+
+
+         function IncluirFavorito(strTitulo2) {
+
+             var strTitulo = strTitulo2;
+             var strRuta = top.location.href;
+
+
+             if (window.sidebar) { // Mozilla Firefox
+                 window.sidebar.addPanel(strTitulo, strRuta, "");
+             }
+             else if (window.external) { // IE
+                 window.external.AddFavorite(strRuta, strTitulo);
+             }
+             else if (window.opera /*&& window.print*/) { // Opera y chrome
+                 alert("Para agregar la página a sus favoritos presione control + D");
+             }
+             else { alert("Para agregar la página a sus favoritos presione control + D"); }
+
+         }
+
+
+         function OnEmail(strTitulo2) {
+             var oWnd = GetContentWnd();
+             var oDoc = oWnd.document;
+             var oDescription = oDoc.getElementById("Description");
+             var strDescription = ((oDescription == null) || (oDescription.content == "")) ? oDoc.title : oDescription.content;
+
+             if (oDoc.title == "")
+                 oWnd.location.href = "mailto:?body=" + BuildEmailDescription(strDescription, AddParamToURL(oWnd.location.href, strEmailString));
+             else
+                 oWnd.location.href = "mailto:?subject=" + escape(oDoc.title) + "&body=" + BuildEmailDescription(strDescription, AddParamToURL(oWnd.location.href, strEmailString));
+
+             return true;
+         }
+
+         function BuildEmailDescription(strDescription, hRef, strTitulo2) {
+             var strVolverResult;
+
+             var strTitulo = strTitulo2;
+             var strMensaje = 'Estimado amigo:' + String.fromCharCode(13) + String.fromCharCode(13) +
+                         'Adjunto envío la referencia a un asunto constitucional que podría ser de su interés. ' +
+                         'Ha sido tomada del Sistema Costarricense de Información Jurídica (SCIJ) y ' +
+                         'podrá ser consultada dando click sobre el siguiente enlace:' +
+                         String.fromCharCode(13) + String.fromCharCode(13);
+
+             var strMensaje1 = String.fromCharCode(13) + String.fromCharCode(13) + strTitulo +
+                         String.fromCharCode(13) + String.fromCharCode(13) + ' Saludos cordiales';
+             strVolverResult = hRef.replace('lResultado', 'Result');
+             return escape(strMensaje + "URL: " + strVolverResult + strMensaje1);
+         }
+
+         function AddParamToURL(strLoc, strParam) {
+             var i = strLoc.lastIndexOf("?");
+             if (strLoc.indexOf(strParam, i) >= 0)
+                 return strLoc;
+
+             strLoc += ((i >= 0) && (i > strLoc.lastIndexOf("/"))) ? "&" : "?";
+             return strLoc + strParam + ' ';
+         }
+
+         function OnDiscuss(ContentID) {
+             var strCmd = "/library/shared/comments/asp/threadedcomments.aspx?";
+             strCmd += "aID=" + ContentID;
+
+             var nHeight = (window.screen.availHeight < 560) ? window.screen.availHeight - 50 : 560;
+             var nWidth = (window.screen.availWidth < 640) ? window.screen.availWidth - 50 : 640;
+             var nTop = window.screen.availHeight * 2 / 5 - nHeight / 2;
+             var nLeft = window.screen.availWidth / 2 - nWidth / 2;
+             if (nTop < 0) nTop = 0;
+             if (nLeft < 0) nLeft = 0;
+
+             var strOpts = "resizable=yes,menubar=yes,status=yes,toolbar=no,height=" + String(nHeight) + ",width=" + String(nWidth);
+             if (navigator.appName.toUpperCase() == "NETSCAPE")
+                 strOpts = "screenX=" + String(nLeft) + ",screenY=" + String(nTop) + "," + strOpts;
+             else
+                 strOpts = "left=" + String(nLeft) + ",top=" + String(nTop) + "," + strOpts;
+
+             var oWnd = window.open(strCmd, "RatingsForum", strOpts);
+             if (oWnd == null)
+                 return false;
+
+             oWnd.focus();
+             return true;
+         }
+
+         function setCookie(name, value) {
+             var curCookie = name + "=" + escape(value) + "; expires=Wed, 07-Jun-2023 11:07:25 GMT; path=/; domain=go.com";
+             document.cookie = curCookie;
+             window.location.href = window.location.href;
+         }
+
+
+         function setFontCookie(name, value) {
+             var curCookie = name + "=" + escape(value) + "; expires=Wed, 07-Jun-2023 11:07:25 GMT;";
+             document.cookie = curCookie;
+         }
+
+         function getCookie(name) {
+             var dc = document.cookie;
+             var prefix = name + "=";
+             var begin = dc.indexOf("; " + prefix);
+             if (begin == -1) {
+                 begin = dc.indexOf(prefix);
+                 if (begin != 0) return null;
+             }
+             else
+                 begin += 2;
+
+             var end = document.cookie.indexOf(";", begin);
+             if (end == -1)
+                 end = dc.length;
+             return unescape(dc.substring(begin + prefix.length, end));
+         }
+         if (getCookie('nTamanoLetra') == null) {
+             var fontsize = 11;
+         } else {
+             var fontsize = getCookie('nTamanoLetra');
+         }
+
+         function changeFontSize(fontsize) {
+             setFontCookie('nTamanoLetra', fontsize);
+             window.top.location.reload();
+         }
+
+         //Para incluir un único articulo en la cesta
+         function IncluirActa(nNorma, strTexto) {
+             setFontCookie('Tp_Cesta_Norm', "NORM");
+             if (strTexto == "Incluir") {
+                 if (mChkIfExsists('nN' + nNorma)) {
+                     setFontCookie('nN' + nNorma, nNorma);
+
+                     m_nCesta++;
+                 }
+             }
+             else {
+                 if (strTexto == "Borrar") {
+                     DelCookie('nN' + nNorma);
+                     m_nCesta--;
+                 }
+             }
+             setCookie('nCesta', m_nCesta);
+
+         }
+         function ValidarTamano() {
+             var strNombre = document.getElementById("_ctl0__ctl0_ContentPlaceHolder1_txtConsulta")
+
+             strNombre = strNombre.value
+             if (strNombre.length <= MIN_CARACTERES) {
+                 if (SoloDigitos(strNombre) == false) {
+                     alert("Por favor digite una palabra de mayor longitud para que los resultados sean más exactos");
+
+                     return false;
+                 }
+             }
+
+             return true;
+         }
+
+    </script>
+
+    <script>
+        String.prototype.preg_quote = function () {
+            p = /([:.\+*?[^\]$(){}=!<>|:)])/g;
+            return this.replace(p, "\\$1");
+        }
+        function buscar(cadena) {
+            resetear();
+            if (!cadena.length) return;
+            var info3;
+            cadena = cadena.preg_quote();
+            var patron = new RegExp(cadena + '(?!\}\})', 'gim');
+            var espacio = /^\s$/;
+            var el = document.getElementById('tabla').getElementsByTagName('*');
+            for (var ii = 0; ii < el.length; ii++) {
+                if (el[ii].hasChildNodes && el[ii].nodeName.toLowerCase() != 'title' && el[ii].nodeName.toLowerCase() != 'script' && el[ii].nodeName.toLowerCase() != 'meta' && el[ii].nodeName.toLowerCase() != 'link' && el[ii].nodeName.toLowerCase() != 'style') {
+                    var tt = el[ii].childNodes;
+                    for (var jj in tt) {
+                        if (tt[jj].nodeType == 3 && !espacio.test(tt[jj].nodeValue)) {
+                            patron.lastIndex = 0;
+                            if (info3 = patron.exec(tt[jj].nodeValue)) {
+                                tt[jj].nodeValue = tt[jj].nodeValue.replace(patron, '{{' + tt[jj].nodeValue.substr(info3['index'], cadena.length) + '}}');
+
+                            }
+                        }
+
+                    }
+                }
+            }
+            document.getElementById('tabla').innerHTML = document.getElementById('tabla').innerHTML.split('}}').join('</span>').split('{{').join('<span style="background-color: yellow">');
+
+        }
+        function resetear() {
+            document.getElementById('tabla').innerHTML = original;
+        }
+        window.onload = function () {
+            var tabla = document.getElementById('dvContenedorTextoCompleto');
+            var ColumnaIzquierda = document.getElementById('dvMenuIzquierdo');
+            var ColumnaDerecha = document.getElementById('dvResultados');
+            var dvResultadosAfectaron = document.getElementById('dvResultadosAfectaron');
+            var dvResultadosAConcordancias = document.getElementById('dvResultadosAConcordancias');
+            var dvResultadosDescriptores = document.getElementById('dvResultadosDescriptores');
+            var ColumnaAfectaciones = document.getElementById('dvResultadosAfectaciones');
+            var dvResultadosNormaDictamen = document.getElementById('dvResultadosNormaDictamen');
+            var dvResultadosResoluciones = document.getElementById('dvResultadosResoluciones');
+            var dvResultadosObservaciones = document.getElementById('dvResultadosObservaciones');
+            var dvResultadosUsuales = document.getElementById('dvResultadosUsuales');
+            var dvResultadosJurRelacionada = document.getElementById('dvResultadosJurRelacionada');
+            var dvResultadosJurHacienda = document.getElementById('dvResultadosJurHacienda');
+            var dvResultadosArticulo = document.getElementById('dvResultadosArticulo');
+            var dvTextoCompleto = document.getElementById('dvTextoCompleto');
+            var dvPantallaGenerica = document.getElementById('dvPantallaGenerica');
+
+            var f1 = document.getElementById('_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_f1');
+            var largo = screen.height;
+
+            var w = window,
+            d = document,
+            e = d.documentElement,
+            g = d.getElementsByTagName('body')[0],
+            x = w.innerWidth || e.clientWidth || g.clientWidth,
+            y = w.innerHeight || e.clientHeight || g.clientHeight;
+
+            if (tabla != null) {
+                tabla.style.height = y - 125 + "px"
+            }
+
+            if (ColumnaIzquierda != null)
+            {
+                ColumnaIzquierda.style.height = y - 109 + "px";
+            }
+            
+            if (ColumnaDerecha != null)
+            {
+                ColumnaDerecha.style.height = y - 152 + "px"
+            }
+            
+            if (dvResultadosAfectaron != null)
+            {
+                dvResultadosAfectaron.style.height = y - 109 + "px"
+            }
+            if (dvResultadosAConcordancias)
+            {
+                dvResultadosAConcordancias.style.height = y - 109 + "px"
+            }
+
+            if (ColumnaAfectaciones != null)
+            {
+                ColumnaAfectaciones.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosDescriptores != null) {
+                dvResultadosDescriptores.style.height = y - 109 + "px"
+            }
+            
+            if (dvResultadosNormaDictamen != null) {
+                dvResultadosNormaDictamen.style.height = y - 109 + "px"
+            }
+            
+            if (dvResultadosResoluciones != null) {
+                dvResultadosResoluciones.style.height = y - 109 + "px"
+            }
+            
+            if (dvResultadosObservaciones != null)
+            {
+                dvResultadosObservaciones.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosUsuales != null) {
+                dvResultadosUsuales.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosJurRelacionada != null) {
+                dvResultadosJurRelacionada.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosJurHacienda != null) {
+                dvResultadosJurHacienda.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosArticulo != null) {
+                dvResultadosArticulo.style.height = y - 126 + "px"
+            }
+
+            if (dvTextoCompleto != null) {
+                dvTextoCompleto.style.height = y - 109 + "px"
+            }
+
+            if (dvPantallaGenerica != null) {
+                dvPantallaGenerica.style.height = y - 109 + "px"
+            }
+            
+            //original = document.getElementById('tabla').innerHTML;
+        }
+    </script>
+
+    <table style="border-width: 0px; width: 100%; margin-left: auto; margin-right: auto; border-collapse:collapse; border: none" border="0">
+        <tr>
+            <td style="background-color: #94adce; width: 20%; min-width: 120px; vertical-align: top; height: 100%">
+                <div id="dvMenuIzquierdo" style="overflow-x:hidden; overflow-y:scroll">
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_Panel1" language="javascript" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;_ctl0__ctl0_ContentPlaceHolder1_btnBuscar&#39;)">
+	
+                    <table id="_ctl0__ctl0_ContentPlaceHolder1_Table1" class="Buscar">
+		<tr>
+			<td colspan="3">
+                                <input name="_ctl0:_ctl0:ContentPlaceHolder1:txtConsulta" type="text" maxlength="100" id="_ctl0__ctl0_ContentPlaceHolder1_txtConsulta" />
+                                <img src="../../../images/boton_ayuda.gif" id="_ctl0__ctl0_ContentPlaceHolder1_Img1" onclick="MostrarAyuda(strAyudaBuscador);" class="imagen_ayuda" />
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3">
+                                <input id="_ctl0__ctl0_ContentPlaceHolder1_RBNormativa" type="radio" name="_ctl0:_ctl0:ContentPlaceHolder1:Criterio" value="RBNormativa" checked="checked" /><label for="_ctl0__ctl0_ContentPlaceHolder1_RBNormativa">Normativa</label>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3">
+                                <input id="_ctl0__ctl0_ContentPlaceHolder1_RBProcunciamientos" type="radio" name="_ctl0:_ctl0:ContentPlaceHolder1:Criterio" value="RBProcunciamientos" /><label for="_ctl0__ctl0_ContentPlaceHolder1_RBProcunciamientos">Pronunciamientos</label>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3">
+                                <input id="_ctl0__ctl0_ContentPlaceHolder1_RBAsuntosConst" type="radio" name="_ctl0:_ctl0:ContentPlaceHolder1:Criterio" value="RBAsuntosConst" /><label for="_ctl0__ctl0_ContentPlaceHolder1_RBAsuntosConst">Asuntos Constitucionales</label>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="1">
+                                <span id="_ctl0__ctl0_ContentPlaceHolder1_lblAnno">Año:</span>
+                            </td>
+			<td colspan="1">
+                                <input name="_ctl0:_ctl0:ContentPlaceHolder1:txtAnno" type="text" maxlength="4" id="_ctl0__ctl0_ContentPlaceHolder1_txtAnno" style="width:40px;" />
+                            </td>
+			<td colspan="1" style="text-align: left">
+                                <select name="_ctl0:_ctl0:ContentPlaceHolder1:DDLCantiadadResultados" id="_ctl0__ctl0_ContentPlaceHolder1_DDLCantiadadResultados">
+				<option selected="selected" value="50">50 resultados</option>
+				<option value="100">100 resultados</option>
+				<option value="0">Todos los resultados</option>
+
+			</select>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="2">
+                                <span id="_ctl0__ctl0_ContentPlaceHolder1_lblBuscarEn">Buscar en:</span>
+                            </td>
+			<td colspan="1" style="text-align: left">
+                                <select name="_ctl0:_ctl0:ContentPlaceHolder1:DDLBuscarEn" id="_ctl0__ctl0_ContentPlaceHolder1_DDLBuscarEn">
+				<option selected="selected" value="Ficha">Ficha del documento</option>
+				<option value="Contenido">Contenido del texto</option>
+
+			</select>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3" style="text-align: center">
+                                <input type="submit" name="_ctl0:_ctl0:ContentPlaceHolder1:btnBuscar" value="Buscar" id="_ctl0__ctl0_ContentPlaceHolder1_btnBuscar" />
+                            </td>
+		</tr>
+	</table>
+	
+                
+</div>
+                <hr />
+                <!-- PANEL DE BUSQUEDAS AVANZADAS -->
+                <div class="OpcionMenu" title="Búsqueda de documentos según criterios ciertos">
+                    <a href="http://www.pgrweb.go.cr:80/scij/avanzada_pgr.aspx" style="color: white !important" target="_top">Menú de Búsquedas Avanzadas</a>
+                </div>
+                <hr />
+                <!-- NORMATIVA -->
+                
+                <!--Opción de Texto Completo-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmTextoCompleto" class="OpcionMenuSeleccionado" title="Muestra el texto completo de la norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=27926&amp;nValor3=0&amp;strTipM=TC">Texto completo</a>
+                </div>
+                
+                <!--Ficha de la norma. SIEMPRE se debe mostrar-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmFichaNorma" class="OpcionMenu" title="Muestra los datos generales de la norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma.aspx?param1=NRM&nValor1=1&nValor2=27926&amp;nValor3=0&amp;strTipM=FN">Ficha de la norma</a>
+                </div>
+                <!--Ficha del artículo. No se habilita si se muestra la ficha de la norma-->
+                
+                <!--Opción de normativa afectada-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmNormativaAfectada" class="OpcionMenu" title="Muestra la normativa anterior que es afectada por la presente norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_afectaciones.aspx?param1=NRF&nValor1=1&amp;nValor2=27926&amp;nValor3=0&amp;nValor5=&amp;strTipM=NA">Normativa afectada</a>
+                </div>
+                
+                <!--Opción de normativa que la afectó-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmNormativaQueAfecto" class="OpcionMenu" title="Muestra la normativa posterior que afecta a  la presente norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_afectaron_Consulta.aspx?param1=NRR&nValor1=1&amp;nValor2=27926&amp;nValor3=0&amp;nValor5=&amp;strTipM=NF">Normativa que la afectó</a>
+                </div>
+                
+                <!--Opción de Concordancias-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmConcordancias" class="OpcionMenu" title="Concordancias de la norma con otras del mismo tema dentro del Ordenamiento Jurídico">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_concordancias.aspx?param1=NRC&nValor1=1&amp;nValor2=27926&amp;nValor3=0&amp;nValor5=&amp;strTipM=C">Concordancias</a>
+                </div>
+                
+                <!--Opción de Reglamentaciones-->
+                
+                <!--Opción de descriptores-->
+                
+                <!--Opción de pronunciamientos de la PGR-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmPronunciamientoPGR_NRI" class="OpcionMenu" title="Jurisprudencia administrativa según los análisis de la Procuraduría General">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_dictamen.aspx?param1=NRI&nValor1=1&amp;nValor2=27926&amp;nValor3=0&amp;strTipM=P">Pronunciamientos de la PGR</a>
+                </div>
+                
+                <!--Opción de acciones de inconstitucionalidad-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmAccionesResolucionesConst" class="OpcionMenu" title="Acciones, consultas y sentencias de la Sala Constitucional">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_resoluciones.aspx?param1=NRU&nValor1=1&amp;nValor2=27926&amp;nValor3=0&amp;nValor5=&amp;strTipM=AI">Acciones y resoluciones constitucionales</a>
+                </div>
+                
+                <!--Opción de observaciones. Solo se presentan en la ficha de la norma-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmObservaciones" class="OpcionMenu" title="Datos particulares, apuntes y detalles referentes a la norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_observaciones.aspx?param1=NRO&nValor1=1&amp;nValor2=27926&amp;nValor3=0&amp;strTipM=O">Observaciones</a>
+                </div>
+                
+                <!--Opción de jurisprudencia relacionada-->
+             
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmConsultaSentenciaNorma" class="OpcionMenu" title="Jurisprudencia judicial de los Tribunales de Justicia sobre la norma">
+                          <!--  <a target="_self" style="color: white !important"  href="../../../Busqueda/Normativa/Normas/jur_consulta_sent_x_nrm.aspx?nValor2=27926&nValor1=1&amp;nValor5=&amp;nValor3=0&amp;strTipM=J" >Jurisprudencia relacionada</a>-->
+                          <!--  <a target="_self" style="color: white !important" href="https://nexuspj.poder-judicial.go.cr/search?q=&wq=normasNumeroYArticulo:5027%7C%7C23850" >Jurisprudencia relacionada</a>-->
+                           <!--<a target="_self" style="color: white !important" href="https://nexuspj.poder-judicial.go.cr/pgr/27926/">Jurisprudencia relacionada</a>-->
+                          <a target="_self" style="color: white !important"  href="https://nexuspj.poder-judicial.go.cr/search?q=&advanced=true&nq=art_num:(%7C%7C)$$norm_num:(%7C7586%7C)">Jurisprudencia relacionada</a> 
+                          </div>
+
+                  
+
+
+                <!--Opción de jurisprudencia relacionada-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmJurmhda" class="OpcionMenu" title="Jurisprudencia Administrativa de Hacienda sobre la norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_JurNorma_mhda.aspx?nValor2=27926&nValor1=1&amp;nValor5=&amp;nValor3=0&amp;strTipM=JA">Jurisp. de Hacienda</a>
+                </div>
+                
+                <br />
+                
+                <!--Versión Original. Solo si existen más versiones-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmVersionOriginal" class="OpcionMenu" title="Búsqueda literal en los textos y contenidos de los pronunciamientos">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma.aspx?param1=NRM&nValor1=1&amp;nValor2=27926&amp;nValor3=29537&amp;strTipM=FN">Versión original</a>
+                </div>
+                
+                <!--Versión Anterior.-->
+                
+                <div class="OpcionMenu" title="Ir a la versión anterior de la norma, antes de la presente.">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma.aspx?param1=NRM&nValor1=1&amp;nValor2=27926&amp;nValor3=84069&amp;strTipM=VA">Versión anterior</a>
+                </div>
+                
+                <!--Versión Siguiente-->
+                
+                <!--Versión Vigente. Solo se existen más versiones y no estamos en la última-->
+                
+                <br />
+                
+                <hr />
+                    
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" background="../../../imagenes/tabla_opciones_bkg.jpg">
+                    <tr>
+                        <td colspan="2" style="color: White">Opciones:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <img src="../../../imagenes/tabla_opciones_div.gif" width="100%" height="2">
+                        </td>
+                    </tr>
+                    <tr style="cursor: pointer" onclick="return GuardarTexto('Texto Completo Norma 7586')">
+                        <td class="auto-style2">
+                            <img src="../../../imagenes/icon_guardar.gif" width="30" height="22">
+                        </td>
+                        <td class="texto2" style="color: White">Guardar
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <img src="../../../imagenes/tabla_opciones_div.gif" width="100%" height="2">
+                        </td>
+                    </tr>
+                    <tr style="cursor: pointer" onclick="return ImprimirTexto('Texto Completo Norma 7586')">
+                        <td class="auto-style2">
+                            <img src="../../../imagenes/icon_imprimir.gif" width="30" height="22">
+                        </td>
+                        <td class="texto2" style="color: White">Imprimir
+                        </td>
+                    </tr>
+                    
+                </table>
+                    
+                <hr />
+                <br />
+                </div>
+            </td>
+            <td style="width: 80%; white-space: normal; min-width: 600px; overflow:hidden; vertical-align: top; height: 100%">
+                
+                    
+
+    
+    <!-- Para ir al inicio de la página -->
+    
+    <span id="barra" style="cursor: pointer;  width: 79%; height: 15px;">
+        <table border="0" style="margin-left: auto; margin-right: auto; height: 15px; text-align: center; width: 100%" id="Tabla_botones" valign="top" >
+            <tr>
+                <!--Botón para buscar artículos-->
+                <td style="width: 30%; text-align: center !important">
+                    <table style="height: 15px; width: 50%; text-align: center; margin-left: auto; margin-right: auto">
+                        <tr bordercolordark="white" bordercolorlight="#336699" bgcolor="#003366">
+                            <td style="font-size: xx-small" title="Permite buscar artículos en particular dentro del texto de la norma">
+                                <font color="white" style="cursor: pointer" face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                                    <label style="cursor: pointer" onclick="return MostrarBuscador();">
+                                        <b>
+                                            <nobr>Buscar artículos</nobr>
+                                        </b>
+                                    </label>
+                                </font>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!--Botón para artículos anterior y siguiente de la norma-->
+                <td style="width: 40%">
+                    <table border="1" style="margin-left: auto; margin-right: auto; height: 15px; text-align: center">
+                        <tr bordercolordark="white" bordercolorlight="#336699" bgcolor="#003366">
+                            <td align="middle" style="font-size: xx-small">
+                                <font color="white" face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                                    <!--En la ficha de la norma solamente hay artículo siguiente por lo
+			 				    tanto se deshabilita la posibilidad de ir al artículo anterior-->
+                                    <font color="gray">
+                                        <label>
+                                            &lt;&lt;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                    </font><b>Artículos</b>
+                                    
+                                    <a style="text-decoration: none;" href="nrm_CONSULTA_articulo.aspx?param1=NRA&nBaseDato=1&nNorma=27926&nVersion=117082"
+                                        target="_top">&nbsp;&nbsp;&nbsp;&nbsp;<font color="white">&gt;&gt;</font></a>
+                                    
+                                </font>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!--Botón para la ficha del expediente-->
+                <td style="width: 30%">
+                    <table border="1" style="height: 15px; margin-left: auto; margin-right: auto;">
+                        <tr bordercolordark="white" bordercolorlight="#336699" bgcolor="#003366">
+                            <td style="font-size: xx-small; text-align: center" title="Muestra los datos generales de la norma">
+                                <font color="white" style="cursor: pointer" face="Verdana, Arial, Helvetica, sans-serif"
+                                    size="1">
+                                    <label style="cursor: pointer" onclick="return MostrarFicha();">
+                                        <b>
+                                            <nobr>Ficha de la Norma</nobr>
+                                        </b>
+                                    </label>
+                                </font>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </span>
+    <div id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_Panel1" language="javascript" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_BuscarArt&#39;)">
+	
+    <div id="buscador" style="z-index: 2; visibility: hidden; width: 300px; position: absolute;
+        height: 28px; top: 138px; left: 246px;">
+
+        <table style="border:1px; border-color:#31639c; text-align:center; width:100%">
+            <tr>
+                <td colspan="4">
+                    <table style="width:100%">
+                        <tr>
+                            <td class="tabla_titulo">
+                                Ley&nbsp;:&nbsp;
+                                7586
+                                
+                                &nbsp;(28&nbsp;artículos)
+                                
+                            </td>
+                            <td class="tabla_titulo" align="right">
+                                <img style="cursor: pointer" src="../../../images/boton_cerrar2.gif" width="15" height="16"
+                                    border="0" onclick="return OcultarBuscador()">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+                      <tr>
+                <td class="tabla_texto2" style="border: 0px">
+                    <b>Artículo:</b>&nbsp;
+               <input name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:txtNumeroArt" type="text" maxlength="4" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_txtNumeroArt" class="ControlesMedianos" title="Indique el número de artículo que desea buscar" style="WIDTH: 45px; HEIGHT: 20px" />&nbsp;&nbsp;
+			  
+                </td>
+                <td class="tabla_texto2" style="border: 0px">
+                    <b>Súbnúmero:</b>&nbsp;
+      
+                    <select name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:cbSubArt" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_cbSubArt" accesskey="m" class="Mediano">
+		<option selected="selected" value="0">0</option>
+		<option value="BIS">BIS</option>
+		<option value="TER">TER</option>
+		<option value="QUATER">QUATER</option>
+		<option value="QUINQUIES">QUINQUIES</option>
+		<option value="SEXIES">SEXIES</option>
+		<option value="OCTIES">OCTIES</option>
+		<option value="NOVIES">NOVIES</option>
+		<option value="DECIES">DECIES</option>
+		<option value="UNDECIES">UNDECIES</option>
+		<option value="DUODECIES">DUODECIES</option>
+		<option value="TREDECIES">TREDECIES</option>
+		<option value="QUATTUORDECIES">QUATTUORDECIES</option>
+		<option value="QUINDECIES">QUINDECIES</option>
+
+	</select>
+                    &nbsp;&nbsp;
+                </td>
+                <td class="tabla_texto2" style="border: 0px">
+                    <b>Tipo:</b>&nbsp;
+         
+                    <select name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:cbTipoArt" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_cbTipoArt" class="Mediano">
+		<option selected="selected" value="N">Normal</option>
+		<option value="T">Transitorio</option>
+		<option value="A">Anexo</option>
+
+	</select>
+                    &nbsp;&nbsp;
+                </td>
+                <td class="tabla_texto2" class="ControlesMedianos" style="border: 0px">
+                    <input type="hidden" value="1" name="nBaseDato">
+                    <input type="hidden" value="27926" name="nNorma">
+                    <input type="hidden" value="117082"
+                        name="nVersion">
+                    <input type="hidden" value="0"
+                        name="nRecopilada">
+                        <input type="submit" name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:BuscarArt" value="Buscar" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_BuscarArt" class="cmdCeleste" title="Ejecuta la búsqueda del artículo" style="height: 26px" />
+              </td>
+            </tr>
+        </table>
+
+    </div>
+        
+</div>
+    <!--Tabla de la ficha de la norma-->
+    <div id="ficha" style="position: absolute; width: 400; height: 0px; z-index: 2; visibility: hidden">
+        <table border="1" bordercolor="#31639c" cellspacing="0" cellpadding="0" align="center"
+            width="60%">
+            <!--Título-->
+            <tr>
+                <td colspan="2">
+                    <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tr>
+                            <td width="77%" class="tabla_titulo">
+                                Ley&nbsp;:&nbsp;
+                                7586
+                                
+                                &nbsp;&nbsp;&nbsp;del&nbsp;
+                                10/04/1996
+                                
+                            </td>
+                            <td class="tabla_titulo" align="right" width="1%">
+                                <img style="cursor: pointer" src="../../../images/boton_cerrar2.gif" width="15" height="16"
+                                    border="0" onclick="return OcultarFicha()">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" class="tabla_texto1" width="80%" style="border-left: 1px solid">
+                    <!--Nombre de la norma-->
+                    Ley contra la Violencia Doméstica<br>
+                    <!--Estado de la norma-->
+                    
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="tabla_texto3" width="20%">
+                    <nobr>Ente emisor:</nobr>
+                </td>
+                <td class="tabla_texto2" width="80%">
+                    Asamblea Legislativa
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="tabla_texto3" width="20%">
+                    <nobr>Fecha de vigencia desde:</nobr>
+                </td>
+                <td class="tabla_texto2" width="80%">
+                    02/05/1996
+                </td>
+            </tr>
+            
+            <!--Se indica la versión actual de un total de versiones de la norma-->
+            <tr>
+                <td colspan="2" class="tabla_texto3" width="100%" style="text-align: right">
+                    <nobr>
+				<b>Versión de la norma:</b> 5 de 5&nbsp;
+				
+							del 09/07/2019
+						
+				</nobr>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="dvContenedorTextoCompleto" style="overflow-x:hidden; overflow-y:scroll">
+    <table border="0" width="95%" align="center">
+        <tr>
+            <td align="center" class="style" style="font-weight: bold; color: Black">
+                Recuerde que Control F es una opción que le permite buscar
+                en la totalidad del texto
+            </td>
+
+        </tr>
+                    <tr><td>
+
+            </td>
+                </tr>
+        <tr>
+            <td align="center" width="100%" class="auto-style3">
+                <br />
+                <a href="#ddown" style="color: Black"><span class="style5">Ir al final del documento
+                </span></a>
+            </td>
+        </tr>
+        <tr>
+            <td id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_tdVersionIntermediaNorma" align="center" width="100%">
+                <br />
+                <span style="font-style: italic; font-family: Verdana, Arial, Helvetica, sans-serif;
+                    color: maroon; font-weight: bold;">
+                    <span id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_lblMensajeVersionesIntermedias">- Usted está en la última versión de la norma</span>
+                    - </span>                
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <div id="dvTextoCompleto" style="position: static;">
+                    <div id="divTextoPrincipal" class="texto_documento10">
+                        <title>Texto Completo Norma 7586</title>
+                        <table style="width:95%; padding-bottom: 25px; padding-left: 25px; padding-right: 25px; padding-top: 25px;">
+                            <tr>
+                                <td style="text-align:center; width:100%" colspan="2">
+                                    <font size="4">
+                        <span id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_lblTitulo">Ley contra la Violencia Doméstica                                                                                                                                                                                                                              </span>
+                    </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style1" >
+                                    
+                                    <font style="font-size: 10pt; font-family='Verdana, Arial, Helvetica, sans-serif'">
+                        <div id="dvTextoCompleto"><a name="up"></a>
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+xmlns:a="urn:schemas-microsoft-com:office:access"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882"
+xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"
+xmlns:b="urn:schemas-microsoft-com:office:publisher"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+xmlns:oa="urn:schemas-microsoft-com:office:activation"
+xmlns:html="http://www.w3.org/TR/REC-html40"
+xmlns:q="http://schemas.xmlsoap.org/soap/envelope/" xmlns:D="DAV:"
+xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+xmlns:ois="http://schemas.microsoft.com/sharepoint/soap/ois/"
+xmlns:dir="http://schemas.microsoft.com/sharepoint/soap/directory/"
+xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+xmlns:dsp="http://schemas.microsoft.com/sharepoint/dsp"
+xmlns:udc="http://schemas.microsoft.com/data/udc"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:sub="http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts/"
+xmlns:ec="http://www.w3.org/2001/04/xmlenc#"
+xmlns:sp="http://schemas.microsoft.com/sharepoint/"
+xmlns:sps="http://schemas.microsoft.com/sharepoint/soap/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="D85BE_archivos/filelist.xml">
+<title>Texto Completo acta: D85BE</title>
+<title>1</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Maydelisch</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Procuraduría General de la República</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2011-03-02T17:09:00Z</o:Created>
+  <o:LastSaved>2013-06-26T17:33:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>151</o:Words>
+  <o:Characters>835</o:Characters>
+  <o:Company>Procuraduría General de la República</o:Company>
+  <o:Lines>6</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>985</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana";
+	mso-fareast-font-family:"Verdana";}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana";
+	mso-fareast-font-family:"Verdana";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.TableNormal
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=ES style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>N°</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black'> 7586<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>LEY CONTRA LA VIOLENCIA DOMESTICA<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>LA ASAMBLEA LEGISLATIVA <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>DE LA REPÚBLICA DE COSTA RICA<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>DECRETA:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>CAPITULO I<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Disposiciones generales<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black;mso-bidi-font-weight:
+bold'>Artículo 1.- Fines</span><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Esta Ley
+regulará la aplicación de las medidas de protección necesarias para garantizar
+la vida, integridad y dignidad de las víctimas de la violencia doméstica, cuyo
+principio rector es el artículo 51 de la Constitución Política.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>La
+autoridad competente deberá procurar que las personas agresoras no utilicen
+contra las víctimas la presente Ley.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Las
+autoridades que intervengan en la aplicación de esta Ley brindarán protección
+especial a madres, personas menores de edad, personas adultas mayores y
+personas que presenten alguna condición de discapacidad, considerando las
+situaciones específicas de cada una.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Asimismo,
+esta Ley protegerá, en particular, a las víctimas de violencia en las
+relaciones de pareja o de abuso sexual intrafamiliar.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black;mso-ansi-language:ES-TRAD'>(Así reformado por el artículo 1°
+de la ley <span class=SpellE>N°</span> 8925 del 3 de febrero del 2011</span></i><span
+lang=ES-TRAD style='font-size:10pt!important!important;font-family:Verdana!important;color:black;mso-ansi-language:
+ES-TRAD'>)</span><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10pt!important!important'><o:p>&nbsp;</o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133109'> Ficha articulo</a><br /><br /><br /><br /><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 2.- <b
+style='mso-bidi-font-weight:normal'>Definiciones<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Para interpretar esta ley, se establecen las
+siguientes definiciones:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>a) <b style='mso-bidi-font-weight:normal'>Violencia
+dom&eacute;stica:</b> Acci&oacute;n u omisi&oacute;n, directa o indirecta, ejercida
+contra un pariente por consanguinidad, afinidad o adopci&oacute;n hasta el
+tercer grado inclusive, por v&iacute;nculo jur&iacute;dico o de hecho o por una
+relaci&oacute;n de guarda, tutela o curatela y que produzca como consecuencia,
+el menoscabo de su integridad f&iacute;sica, sexual, psicol&oacute;gica o
+patrimonial. El v&iacute;nculo por afinidad subsistir&aacute; aun cuando haya
+finalizado la relaci&oacute;n que lo origin&oacute;.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>b) <b style='mso-bidi-font-weight:normal'>Violencia
+psicol&oacute;gica:</b> Acci&oacute;n u omisi&oacute;n destinada a degradar o controlar
+las acciones, comportamientos, creencias y decisiones de otras personas, por
+medio de intimidaci&oacute;n, manipulaci&oacute;n, amenaza, directa o
+indirecta, humillaci&oacute;n, aislamiento o cualquier otra conducta que
+implique un perjuicio en la salud psicol&oacute;gica, la
+autodeterminaci&oacute;n o el desarrollo personal.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>c) <b style='mso-bidi-font-weight:normal'>Violencia
+f&iacute;sica:</b> Acci&oacute;n u omisi&oacute;n que arriesga o da&ntilde;a la
+integridad corporal de una persona.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>d) <b style='mso-bidi-font-weight:normal'>Violencia
+sexual:</b> Acci&oacute;n que obliga a una persona a mantener contacto <span
+class=SpellE>sexualizado</span>, f&iacute;sico o verbal, o a participar en
+otras interacciones sexuales mediante el uso de fuerza, intimidaci&oacute;n, coerci&oacute;n,
+chantaje, soborno, manipulaci&oacute;n, amenaza o cualquier otro mecanismo que
+anule o limite la voluntad personal.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Igualmente, se considerar&aacute; violencia
+sexual el hecho de que la persona agresora obligue a la agredida a realizar
+alguno de estos actos con terceras personas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>e) <b style='mso-bidi-font-weight:normal'>Violencia
+patrimonial:</b> Acci&oacute;n u omisi&oacute;n que implica da&ntilde;o, p&eacute;rdida,
+transformaci&oacute;n, sustracci&oacute;n, destrucci&oacute;n, retenci&oacute;n
+o distracci&oacute;n de objetos, instrumentos de trabajo, documentos personales,
+bienes, valores, derechos o recursos econ&oacute;micos destinados a satisfacer
+las necesidades de alguna de las personas mencionadas en el inciso a) anterior.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>f) <b style='mso-bidi-font-weight:normal'>Parentesco:</b>
+Relaci&oacute;n de adopci&oacute;n, afinidad o consanguinidad hasta tercer
+grado inclusive, por v&iacute;a ascendente, descendente o colateral, originada
+en un v&iacute;nculo jur&iacute;dico, biol&oacute;gico o de uni&oacute;n de
+hecho. El v&iacute;nculo por afinidad subsistir&aacute; aun cuando haya finalizado
+la relaci&oacute;n que lo origin&oacute;.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Las definiciones comprendidas en los incisos b),
+c), d), e) y f) no ser&aacute;n restrictivas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10pt!important!important'><o:p>&nbsp;</o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133110'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=ES
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:
+ES'>CAPITULO II<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES'>Medidas de protección<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES;mso-bidi-font-weight:bold'>Artículo 3.-<b><u
+style='text-underline:black'> </u>Medidas de protección</b></span><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'> <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES'>Cuando se trate de situaciones de violencia
+doméstica, la autoridad competente ordenará cualquiera de las siguientes
+medidas de protección: <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>a)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Ordenar a la
+presunta persona agresora que salga inmediatamente del domicilio común y, de
+acuerdo con las particularidades de la situación de violencia, limitarla a un
+área distante al de la presunta persona agredida. En el término de veinticuatro
+horas, la presunta persona agresora deberá informar a la autoridad judicial
+sobre la dirección exacta de su nueva residencia. La misma obligación tendrá
+cada vez que cambie de residencia. Si se resiste o incumple la orden será
+obligada por la Fuerza Pública, y se testimoniarán piezas por el delito de
+incumplimiento de una medida de protección. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>b)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Autorizar a
+la presunta persona agredida un domicilio diferente del común, previa solicitud
+suya, para protegerla de agresiones futuras.&nbsp; <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>c)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Ordenar el
+allanamiento del domicilio, pudiendo procederse a cualquier hora cuando, por
+violencia doméstica, se arriesgue gravemente la integridad física, sexual,
+patrimonial o psicológica de cualquiera de sus habitantes. Esta medida se
+efectuará conforme a lo dispuesto en el Código Procesal Penal. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>d)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Prohibir que
+la presunta persona agresora posea o porte armas de fuego punzocortantes o <span
+class=SpellE>punzocontundentes</span>. Asimismo, prohibir que se introduzcan o
+se mantengan armas en la casa de habitación cuando se utilicen para intimidar,
+amenazar o causar daño a alguna de las personas citadas en el inciso a) del
+artículo 2 de esta Ley. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:60.0pt;mso-layout-grid-align:none'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>e)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> </span><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>Decomisar las armas y
+los objetos que se utilicen para intimidar o agredir, así como cualesquiera
+otras armas que se encuentren en posesión de la presunta persona agresora o
+inscritas a su nombre, y ordenar la cancelación de los permisos de portación de
+armas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><i
+style='mso-bidi-font-style:normal'><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'>(Así reformado
+el inciso anterior por el artículo 1° de la ley N° 9692 del 9 de julio de 2019)<o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>f)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> De ser
+necesario y según las particularidades del caso, se podrá suspender provisionalmente
+a la presunta persona agresora el ejercicio de la guarda, crianza y educación
+de sus hijos e hijas menores de edad, así como la representación y
+administración de los bienes de estas y la protección de personas adultas
+mayores y personas que presenten alguna condición de discapacidad. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>g)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Ordenar a la
+presunta persona agresora abstenerse de interferir, de cualquier forma, en el
+ejercicio de la guarda, crianza y educación de sus hijos e hijas, así como en
+la representación y administración de los bienes de estas. Igual medida se
+podrá ordenar en la protección y representación de personas adultas mayores y
+personas que presenten alguna condición de discapacidad. Lo anterior, en los
+casos en los que la autoridad competente ordenara aplicar el inciso f) de este
+artículo. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>h)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Suspenderle
+provisionalmente a la presunta persona agresora el derecho de visitar a los
+hijos e hijas menores de edad, en los casos en que esta ejerza algún tipo de
+agresión. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>i)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Confiar la
+guarda protectora a quien la autoridad judicial considere idóneo para esa
+función, si tal guarda ha sido encargada a la presunta persona agresora, cuando
+la víctima sea persona menor de edad, persona adulta mayor que no pueda valerse
+por sí misma o persona que presente algún grado de discapacidad, en los casos
+en que la autoridad competente ordenara aplicar el inciso f) de este
+artículo.&nbsp; <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>j)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Prohibirle a
+la presunta persona agresora que agreda, perturbe o intimide a cualquier
+integrante del grupo familiar de la presunta víctima de violencia doméstica. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>k)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Prohibirle el
+acceso a la presunta persona agresora al domicilio, permanente o temporal, de
+la persona agredida y a su lugar de trabajo o estudio. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>De igual manera, acercarse a dichos lugares a una
+distancia razonable a criterio de la jueza o el juez. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>l)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Fijar una
+obligación alimentaria provisional en favor de la presunta víctima y de los
+demás dependientes que corresponda, de conformidad con la Ley de pensiones
+alimentarias, N.º 7654, aun cuando no se cuente con documento idóneo que
+acredite el grado de parentesco. Una vez fijada, de oficio, se testimoniarán
+piezas y se remitirán a la autoridad judicial correspondiente.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:60.0pt;text-align:justify'><i style='mso-bidi-font-style:normal'><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>(La Sala Constitucional mediante resolución N° 2896 del
+14 de junio de 1996, estableció que el inciso anterior no es inconstitucional,
+en relación con el artículo 10 de la presente<span style='mso-spacerun:yes'> 
+</span>ley, en tanto se entienda que: ".contra la resolución del juez de
+familia que imponga una pensión alimenticia provisional conforme a ellos,
+procede recurso de apelación en un sólo efecto, que debe tramitarse y
+resolverse por la autoridad competente según la legislación especial que regula
+la materia alimentaría, ante la cual éste debe hacer llegar de inmediato el
+testimonio de piezas que ordena la presente Ley").&nbsp;<o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:60.0pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><i style='mso-bidi-font-style:normal'><span lang=ES
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:
+ES'>(Nota de Sinalevi: Mediante el artículo 2 aparte XIII) de la ley que
+aprueba el Código Procesal de Familia, N° 9747 del 23 de octubre del 2019, se
+reformará el inciso l) anterior. De conformidad con el transitorio III de la
+ley antes mencionada dicha modificación entrarán a regir a partir del 1° de
+octubre del 2024, por lo que a partir de esa fecha el nuevo texto será el
+siguiente: "</span></i><i style='mso-bidi-font-style:normal'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>l) Fijar una obligación
+alimentaria provisional en favor de la presunta víctima y de los demás
+dependientes que corresponda, de conformidad con el artículo 270 del Código
+Procesal de Familia, aun cuando no se cuente con documento idóneo que acredite
+el grado de parentesco. Una vez fijada, de oficio, se testimoniarán piezas y se
+remitirán a la autoridad judicial correspondiente.")<o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>m)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Disponer el embargo
+preventivo, por un plazo máximo de tres meses, contado a partir de la fecha en
+que se ejecute la resolución que lo ordene, sobre la casa de habitación
+familiar y sobre los bienes de la presunta persona agresora necesarios para
+respaldar la obligación alimentaria en favor de la persona agredida y los
+dependientes que corresponda, de conformidad con la ley; dicho plazo podrá ser
+prorrogado por la jueza o el juez cuando razonablemente las circunstancias lo
+ameriten. Para aplicar esta medida, no será necesario ningún depósito de
+garantía ni el pago de honorarios ni de otros gastos. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>n)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Levantar un
+inventario de los bienes muebles existentes en el núcleo habitacional, en
+particular el menaje de casa u otros que le sirvan como medio de trabajo a la
+persona agredida. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>ñ)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Otorgar el
+uso exclusivo del menaje de casa a la persona agredida. Deberán salvaguardarse
+especialmente la vivienda y el menaje amparado al régimen de patrimonio
+familiar. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>o)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Ordenar a la presunta
+persona agresora que se abstenga de interferir en el uso y disfrute de los
+instrumentos de trabajo de la persona agredida. Cuando esta sea una persona
+adulta mayor o presente alguna condición de discapacidad, la presunta persona
+agresora no deberá interferir en el uso y disfrute de instrumentos
+indispensables para que la víctima pueda valerse por sí misma o integrarse a la
+sociedad. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>p)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Ordenar a la
+presunta persona agresora la reparación en dinero efectivo de los daños y
+perjuicios ocasionados a la persona agredida o a los bienes que le sean
+indispensables para continuar su vida normal. Se incluyen gastos de traslado,
+reparaciones a la propiedad, alojamiento y gastos médicos. El monto se hará
+efectivo en el mismo proceso mediante el embargo y remate de los bienes
+necesarios para cubrir los daños ocasionados, a juicio de la autoridad judicial
+competente. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:60.0pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>q)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Emitir una
+orden de protección y auxilio policial dirigida a la autoridad de seguridad
+pública de su vecindario. La víctima portará copia de esta orden para que pueda
+acudir a la autoridad más cercana, en caso de amenaza de agresión fuera de su
+domicilio. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES'>Para aplicar cualquiera de las medidas
+enumeradas en este artículo o de otras que de acuerdo con las particularidades
+de la situación de violencia intrafamiliar deban adoptarse, la autoridad
+judicial podrá requerir la colaboración de la policía administrativa y de la
+policía judicial. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES'>De incumplirse una o varias de estas medidas
+contraviniendo una orden emanada de la autoridad competente, esta deberá
+testimoniar piezas al Ministerio Público para que se siga el juzgamiento por el
+delito de incumplimiento de una medida de protección. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;color:black;mso-ansi-language:ES-TRAD'>(Así reformado por el
+artículo 1° de la ley N° 8925 del 3 de febrero del 2011)</span></i><span
+lang=ES-TRAD style='font-size:10pt!important!important;mso-ansi-language:ES-TRAD'> </span><span
+lang=ES style='font-size:10pt!important!important;mso-ansi-language:ES'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133111'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black;mso-bidi-font-weight:
+bold'>Artículo 4.-<b><u style='text-underline:black'> </u>Duración</b></span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Las
+medidas de protección se mantendrán por un año, mientras no sean levantadas o
+modificadas con anterioridad por resolución judicial firme.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Será
+obligación del Poder Judicial crear un registro con los nombres y la
+información de las personas a las que se les haya impuesto medidas de
+protección; para ello, los despachos que conocen la materia estarán obligados a
+enviar al registro copia de las resoluciones que ordenen, modifiquen o cesen
+las medidas de protección.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>El
+registro deberá ser consultado, necesariamente, por la jueza o el juez que deba
+resolver un asunto puesto en su conocimiento y que guarde relación con los
+hechos registrados.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>La
+información contenida en este registro será confidencial y de uso exclusivo del
+Poder Judicial. Los asientos contenidos en este registro se cancelarán
+definitivamente en un plazo de cinco años, contado a partir de la última
+resolución comunicada.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Cuando se
+trate de presuntas personas agresoras menores de edad, el registro no podrá
+contener fotografías de ellas; toda la información registrada deberá ser
+utilizada con respeto de la normativa que tutela los derechos de las personas
+menores de edad.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black;mso-ansi-language:ES-TRAD'>(Así reformado por el artículo 1°
+de la ley <span class=SpellE>N°</span> 8925 del 3 de febrero del 2011</span></i><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>)</span><span
+style='font-size:10pt!important!important'> <o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133112'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black;mso-bidi-font-weight:
+bold'>Artículo 5.-<b> Cese</b></span><span style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>La persona
+agredida o quien haya requerido las medidas, de acuerdo con el artículo 7 de
+esta Ley, podrá solicitar el levantamiento anticipado de la medida. La
+autoridad judicial podrá ordenar esta acción si lo considera conveniente,
+previa valoración de los informes a que se refiere el artículo 17 siguiente.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Cuando la
+ofendida sea una persona menor de edad, el cese a la medida, que no sea
+solicitado por una persona representante del Patronato Nacional de la Infancia,
+solo procederá cuando lo recomiende esa institución, la cual estará obligada a
+pronunciarse.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+También podrá ordenarse el levantamiento de oficio o a solicitud de parte,
+cuando evidencie que la ley está siendo utilizada en contra de sus fines.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black;mso-ansi-language:ES-TRAD'>(Así reformado el artículo 1° de
+la ley <span class=SpellE>N°</span> 8925 del 3 de febrero del 2011</span></i><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>)<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133113'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>CAPITULO III<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Procedimiento<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black;mso-bidi-font-weight:
+bold'>Artículo 6.-<b> Competencia</b></span><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Donde no
+existan juzgados especializados en violencia doméstica o de familia, serán
+competentes para conocer y ordenar las medidas de protección a que se refiere
+el artículo 3 de esta Ley, los juzgados mixtos o <span class=SpellE>contravencionales</span>.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Esas
+medidas también deberán ser otorgadas por los juzgados penales, en los casos en
+que los despachos mencionados estén imposibilitados para brindar el servicio.
+En este último supuesto, en forma inmediata deberán remitir el expediente a la
+autoridad que corresponda. Si los hechos descritos constituyen delito, deberá
+remitir testimonio de piezas al Ministerio Público.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black;mso-ansi-language:ES-TRAD'>(Así reformado por el artículo 1°
+de la ley <span class=SpellE>N°</span> 8925 del 3 de febrero del 2011)</span></i><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10pt!important!important'><o:p>&nbsp;</o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133114'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>Art&iacute;culo 7.-
+Solicitantes leg&iacute;timos. Estar&aacute;n legitimados para solicitar las
+medidas de protecci&oacute;n descritas en el cap&iacute;tulo anterior:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>a) Los mayores de doce
+a&ntilde;os afectados por una situaci&oacute;n de violencia dom&eacute;stica.
+Cuando se trate de menores de doce a&ntilde;os o de personas con discapacidad
+f&iacute;sica o mental, la medida deber&aacute; ser solicitada por su
+representante legal, el Patronato Nacional de la Infancia, una autoridad de
+polic&iacute;a o un mayor de edad.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><i style='mso-bidi-font-style:normal'><span lang=ES
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:
+ES'>(Nota de Sinalevi: Mediante el art&iacute;culo 2 aparte XIII) de la ley que
+aprueba el C&oacute;digo Procesal de Familia, N&deg; 9747 del 23 de octubre del
+2019, se reformar&aacute; el inciso<span style='mso-spacerun:yes'>&nbsp;
+</span>anterior. De conformidad con el transitorio III de la ley antes
+mencionada dicha modificaci&oacute;n entrar&aacute;n a regir a partir del
+1&deg; de octubre del 2024, por lo que a partir de esa fecha el nuevo texto
+ser&aacute; el siguiente: &#8220;</span></i><i style='mso-bidi-font-style:normal'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>a) Las personas menores
+de edad afectadas por una situaci&oacute;n de violencia dom&eacute;stica. En
+los casos de personas menores y en los de personas con discapacidad, las
+medidas de protecci&oacute;n tambi&eacute;n deber&aacute;n ser solicitadas por
+su representante legal, el Patronato Nacional de la Infancia (PANI), una
+autoridad de polic&iacute;a o cualquier otra persona que tenga conocimiento de
+la situaci&oacute;n de violencia dom&eacute;stica.&#8221;)<o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>b) Las instituciones
+p&uacute;blicas o privadas que lleven a cabo programas de protecci&oacute;n de
+los derechos humanos y la familia, cuando la persona agredida lo solicite, se
+encuentre grave o presente alguna discapacidad que le impida solicitar la
+protecci&oacute;n o tener conciencia de la agresi&oacute;n que se le inflige.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>c) Los mayores de edad,
+cuando la persona agredida est&eacute; imposibilitada para solicitarlas por
+encontrarse grave como producto de una situaci&oacute;n de violencia
+dom&eacute;stica. <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify;mso-layout-grid-align:
+none;text-autospace:none'><i style='mso-bidi-font-style:normal'><span lang=ES
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:
+ES'>(Nota de Sinalevi: Mediante el art&iacute;culo 2 aparte XIII) de la ley que
+aprueba el C&oacute;digo Procesal de Familia, N&deg; 9747 del 23 de octubre del
+2019, se reformar&aacute; el inciso<span style='mso-spacerun:yes'>&nbsp;
+</span>anterior. De conformidad con el transitorio III de la ley antes
+mencionada dicha modificaci&oacute;n entrar&aacute;n a regir a partir del
+1&deg; de octubre del 2024, por lo que a partir de esa fecha el nuevo texto
+ser&aacute; el siguiente: &#8220;</span></i><i style='mso-bidi-font-style:normal'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>c) Cualquier persona,
+cuando exista un riesgo grave para la vida o la integridad f&iacute;sica de la
+presunta v&iacute;ctima o esta se encuentre imposibilitada para solicitar las
+medidas de protecci&oacute;n por su cuenta, como producto de una
+situaci&oacute;n de violencia dom&eacute;stica.&#8221;)<o:p></o:p></span></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133115'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 8.- <b
+style='mso-bidi-font-weight:normal'>Tramitaci&oacute;n<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Las medidas podr&aacute;n ser solicitadas por
+escrito o en forma verbal, con independencia de cualquier otro proceso, ya sea
+penal o de familia. La solicitud escrita solo requerir&aacute;
+autenticaci&oacute;n cuando quien la formula no la presente personalmente. Los
+tribunales estar&aacute;n facultados para conducir la tramitaci&oacute;n
+aplicando el impulso procesal de oficio.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Cuando exista peligro inminente para la
+integridad f&iacute;sica de las personas protegidas por esta ley, de inmediato
+el juez dictar&aacute; las medidas de protecci&oacute;n pertinentes, a fin de
+evitar que el da&ntilde;o se produzca o contin&uacute;e produci&eacute;ndose.
+En estos casos, el cumplimiento de formalidades no se convertir&aacute; en
+impedimento para la intervenci&oacute;n oportuna.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>La solicitud de las medidas de protecci&oacute;n
+podr&aacute; presentarse en un formulario que elaborar&aacute;n las
+instituciones mencionadas en el inciso b) del art&iacute;culo 7 de esta ley.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:10pt!important!important'><o:p>&nbsp;</o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133116'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 9.- <b
+style='mso-bidi-font-weight:normal'>Requisitos de la solicitud<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>El solicitante de cualquiera de las medidas de
+protecci&oacute;n se&ntilde;aladas en el art&iacute;culo 3 de esta ley,
+deber&aacute; indicar:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>a) El nombre, los apellidos, las calidades y el
+vecindario de la persona agredida y la persona agresora, si los conoce.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>b) Los hechos en que se funda.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>c) Las pruebas, si existen, en las que
+fundamenta los hechos expuestos en la solicitud. La falta de indicaci&oacute;n
+de pruebas no impedir&aacute; que la autoridad judicial d&eacute; curso a la
+solicitud.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>d) Las medidas de protecci&oacute;n solicitadas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;text-align:justify'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>e) El se&ntilde;alamiento de la casa o el lugar
+para recibir notificaciones.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133117'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Artículo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 10.- <b
+style='mso-bidi-font-weight:normal'>Aplicación de medidas</b> <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Planteada la solicitud, la autoridad competente
+ordenará, de inmediato, aplicar cualquiera de las medidas de protección <span
+class=SpellE>solicitadas.Esta</span> resolución deberá notificarse conforme al
+artículo 177 del Código Procesal Civil y no cabrá recurso alguno contra ella.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>No obstante, sin perjuicio de lo dispuesto en el
+párrafo anterior, el juzgado podrá ordenar, de oficio, la aplicación de otras
+medidas distintas de las solicitadas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i style='mso-bidi-font-style:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>(La Sala Constitucional
+mediante resolución <span class=SpellE>N°</span> 2896 del 14 de junio de 1996,
+estableció que el presente artículo no es inconstitucional, en relación con el
+artículo 3 inciso l de la presente ley, en tanto se entienda que".contra la
+resolución<span style='mso-spacerun:yes'>  </span>del juez de familia que
+imponga una pensión alimenticia provisional conforme a ellos, procede recurso
+de apelación en un sólo efecto, que debe tramitarse y resolverse por la
+autoridad competente según la legislación especial que regula la materia alimentaría,
+ante la cual éste debe hacer llegar de inmediato el testimonio de piezas que
+ordena la presente</span></i><i style='mso-bidi-font-style:normal'><span
+style='font-family:Verdana!important;color:black'> Ley"). </span></i><span
+style='font-family:Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133118'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 11.- <b
+style='mso-bidi-font-weight:normal'>Examen m&eacute;dico legal<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Cuando lo estime necesario, la persona agredida
+o el solicitante de la medida, de conformidad con lo contemplado en el
+art&iacute;culo 7 de la presente ley, podr&aacute; pedir a la autoridad
+competente que se le practique un examen m&eacute;dico y sicol&oacute;gico que
+permita valorar los da&ntilde;os f&iacute;sicos y sicol&oacute;gicos sufridos.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Podr&aacute;n practicar este examen los
+profesionales del Departamento de Medicina Legal del Poder Judicial o los de la
+Caja Costarricense de Seguro Social y del Ministerio de Salud.</span><span
+style='font-size:10pt!important!important'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133119'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black;mso-bidi-font-weight:
+bold'>Artículo 12.-<b><u style='text-underline:black'> </u>Comparecencia</b></span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>En el caso
+en que la presunta persona agresora lo solicite por escrito o verbalmente,
+dentro de los cinco días siguientes a la notificación del auto inicial, o que
+la presunta víctima tenga antecedentes como persona agresora, el juzgado
+convocará a las partes a una audiencia oral, en la que evacuarán las pruebas
+correspondientes.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>En
+cualquiera de esos supuestos, la autoridad judicial fijará, de inmediato, la
+fecha y hora de la audiencia. Ese señalamiento debe ser notificado a la persona
+solicitante en forma personal, excepto que haya señalado medio para oír
+notificaciones. Entre esa notificación y la celebración de la audiencia debe
+mediar un plazo de cinco días.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Cuando la
+víctima no pueda comparecer por una discapacidad o enfermedad, de previo a
+resolver, la autoridad judicial realizará un reconocimiento judicial, en dicho
+acto se realizará la entrevista.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>En ese
+mismo supuesto, si la persona agredida no está en condiciones de atender sus
+propios intereses, la autoridad judicial deberá citar a los testigos y
+considerar su criterio para resolver.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>En casos
+justificados, la víctima podrá pedir o la autoridad judicial podrá ordenar de
+oficio que su comparecencia se realice sin estar presente la presunta persona
+agresora, a quien se le informará lo sucedido una vez finalizada la declaración
+y se le dará la oportunidad de referirse a esta.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black;mso-ansi-language:ES-TRAD'>(Así reformado por el artículo 1°
+de la ley <span class=SpellE>N°</span> 8925 del 3 de febrero del 2011</span></i><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>)<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133120'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo </span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>13.- <b
+style='mso-bidi-font-weight:normal'>Apreciaci&oacute;n de la prueba<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Para interpretar esta ley, en caso de duda en la
+apreciaci&oacute;n de la prueba, se estar&aacute; a lo m&aacute;s favorable
+para el supuesto agredido.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133121'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 14.- <b
+style='mso-bidi-font-weight:normal'>Resoluci&oacute;n<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Evacuada la prueba, la comparecencia se
+dar&aacute; por concluida y el juzgado resolver&aacute;, de inmediato, si las
+medidas aplicadas se mantienen en ejecuci&oacute;n o no.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>La autoridad judicial resolver&aacute; con base
+en las reglas de la sana cr&iacute;tica racional y, de oficio, regir&aacute; el
+impulso procesal; para eso ordenar&aacute; las pruebas que considere necesarias
+a fin de establecer la verdad.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>La aplicaci&oacute;n e interpretaci&oacute;n de
+esta ley se regir&aacute;n por los principios fundamentales de la
+legislaci&oacute;n de familia y las disposiciones contenidas en el
+art&iacute;culo 10 del C&oacute;digo Civil.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133122'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 15.- <b
+style='mso-bidi-font-weight:normal'>Apelaci&oacute;n<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>La resoluci&oacute;n del juzgado podr&aacute;
+ser apelada en el t&eacute;rmino de tres d&iacute;as h&aacute;biles.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Sin embargo, el admitir la apelaci&oacute;n no
+suspender&aacute; la ejecuci&oacute;n de las medidas decretadas.</span><span
+style='font-size:10pt!important!important'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133123'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 16.- <b
+style='mso-bidi-font-weight:normal'>Resoluci&oacute;n del recurso<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>La autoridad superior deber&aacute; resolver el
+recurso de apelaci&oacute;n dentro de los quince d&iacute;as siguientes a la
+fecha en que finaliz&oacute; su tramitaci&oacute;n.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133124'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black;mso-bidi-font-weight:
+bold'>Artículo 17.-<b><u style='text-underline:black'> </u>Ejecución de las
+medidas</b></span><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>La
+autoridad judicial deberá revisar los resultados de la ejecución de las
+medidas, ya sea mediante la comparecencia de las partes al despacho
+correspondiente, con la frecuencia que se ordene, o bien, con la intervención
+del Departamento de Trabajo Social y Psicología del Poder Judicial o de
+cualquier otra instancia estatal requerida al efecto, los cuales rendirán
+informes periódicos acerca de la efectividad de las medidas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>La policía
+administrativa tiene la obligación de vigilar el cumplimiento efectivo de las
+medidas de protección, por todos los medios que sean necesarios.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Es
+responsabilidad de los órganos públicos que forman parte del sistema nacional
+para la atención y prevención de la violencia intrafamiliar, de conformidad con
+sus competencias, brindar un acompañamiento integral a las personas víctimas de
+violencia que les permita mejorar su situación, así como la recuperación y la
+construcción de un nuevo proyecto de vida.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>El
+Instituto Nacional de las Mujeres (<span class=SpellE>Inamu</span>) brindará el
+asesoramiento para cumplir ese fin y, además, les ofrecerá a las víctimas los
+servicios de acompañamiento, asesoramiento jurídico y representación legal
+necesarios para realizar los trámites contemplados en esta Ley. Con este último
+propósito, el <span class=SpellE>Inamu</span> podrá intervenir en el
+procedimiento, con el fin de garantizar los derechos de las víctimas y
+representarlas legalmente con las mismas facultades y atribuciones otorgadas a
+la Defensa Pública en materia penal<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+Verdana!important;color:black;mso-ansi-language:ES-TRAD'>(Así reformado por el artículo 1°
+de la ley <span class=SpellE>N°</span> 8925 del 3 de febrero del 2011</span></i><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>)<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133125'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 18.- <b
+style='mso-bidi-font-weight:normal'>Denuncia<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Si los hechos que motivaron las medidas de
+protecci&oacute;n constituyen delito, la autoridad judicial tomar&aacute; las
+previsiones que estime convenientes y librar&aacute; testimonio a la agencia
+fiscal respectiva.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133126'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES;mso-bidi-font-weight:
+bold'>Art&iacute;culo</span><span lang=ES style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> 19.- <b style='mso-bidi-font-weight:
+normal'>Supletoriedad<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'>El
+C&oacute;digo Procesal Civil se aplicar&aacute; supletoriamente en lo que se
+guarde silencio, sea compatible y no se oponga a lo preceptuado en esta ley.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none;
+text-autospace:none'><i style='mso-bidi-font-style:normal'><span lang=ES
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:
+ES'>(Nota de Sinalevi: Mediante el art&iacute;culo 2 aparte XIII) de la ley que
+aprueba el C&oacute;digo Procesal de Familia, N&deg; 9747 del 23 de octubre del
+2019, se reformar&aacute; este numeral. De conformidad con el transitorio III
+de la ley antes mencionada dicha modificaci&oacute;n entrar&aacute;n a regir a
+partir del 1&deg; de octubre del 2024, por lo que a partir de esa fecha el
+nuevo texto ser&aacute; el siguiente: &#8220;</span></i><i style='mso-bidi-font-style:
+normal'><span style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>Art&iacute;culo
+19- Supletoriedad. El C&oacute;digo Procesal de Familia se aplicar&aacute;
+supletoriamente en lo que se guarde silencio, sea compatible y no se oponga a
+lo preceptuado en esta ley.&#8221;)</span></i><i style='mso-bidi-font-style:
+normal'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES'><o:p></o:p></span></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133127'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES'>CAPITULO IV<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><b style='mso-bidi-font-weight:normal'><span lang=ES
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:
+ES'>Obligaciones de la policía administrativa<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES;mso-bidi-font-weight:bold'>Artículo 20.-<b><u
+style='text-underline:black'> </u>Delimitación de competencias</b></span><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:7.1pt;margin-bottom:.0001pt;text-align:justify;text-indent:
+28.3pt'><span lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:black;mso-ansi-language:ES'>Las autoridades de policía tienen el deber de
+intervenir en las situaciones de violencia doméstica, de oficio o cuando sean
+requeridas por las víctimas o por terceras personas. En estos casos, deberán:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:3.6pt;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:35.4pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>a)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Socorrer a
+las personas agredidas aun cuando se encuentren dentro de su domicilio.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:35.4pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>b)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Detener a las
+presuntas personas agresoras y ponerlas a la orden de la autoridad competente.
+En todo caso, deberá ponerse a la persona detenida a la orden de la autoridad
+competente, en el término de veinticuatro horas, conforme lo establece el
+artículo 37 de la Constitución Política.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:35.4pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>c)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Levantar un
+acta sobre los hechos ocurridos; para ello deberán recoger información de familiares,
+personas vecinas o de otras presentes y consignar sus nombres, calidades y
+lugar donde puedan localizarse para requerirlos en un posible proceso judicial.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:35.4pt;mso-layout-grid-align:none'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>d)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> </span><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>Decomisar las armas y
+los objetos utilizados para intimidar o agredir, así como cualesquiera otras
+armas que se encuentren en posesión de la persona agresora o inscritas a su
+nombre, y ponerlos a la orden de la autoridad judicial respectiva.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:35.4pt;text-align:justify;mso-layout-grid-align:
+none'><span style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>Para estos
+efectos y con la finalidad de proteger la vida humana y la integridad personal,
+de conformidad con los artículos 21 y 23 de la Constitución Política, la
+autoridad policial que acuda al primer llamado queda autorizada para revisar el
+inmueble donde se esté dando la agresión, con la finalidad de ubicar las armas
+a las que la persona agresora pueda tener acceso, aun en caso de que la persona
+agresora no se encuentre en dicho lugar.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:35.4pt;text-align:justify;mso-layout-grid-align:
+none'><i style='mso-bidi-font-style:normal'><span style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana'>(Así reformado el inciso d) anterior por el
+artículo 1° de la ley N° 9692 del 9 de julio de 2019)<o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:1.1pt;margin-bottom:
+0cm;margin-left:35.4pt;margin-bottom:.0001pt;text-align:justify;tab-stops:60.0pt'><b><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>e)</span></b><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> Declarar como
+testigos en un posible proceso judicial.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=ES-TRAD style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;color:black;mso-ansi-language:ES-TRAD'>(Así reformado por el
+artículo 1° de la ley N° 8925 del 3 de febrero del 2011</span></i><span
+lang=ES style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+mso-ansi-language:ES'>)<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133128'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;mso-layout-grid-align:
+none'><span style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;mso-fareast-font-family:
+"Verdana"'>Artículo 20 bis- Cancelación de permisos de portación de
+armas. Cuando se trate de situaciones de violencia doméstica se procederá al
+decomiso de todas las armas que posea la persona agresora o que se encuentren
+inscritas a su nombre y serán remitidas a la Dirección General de Armamento del
+Ministerio de Seguridad Pública, para su debida custodia.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;mso-layout-grid-align:
+none'><span style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;mso-fareast-font-family:
+"Verdana"'>Una vez dictada la resolución que confirma las medidas de
+protección en el proceso de violencia doméstica, de conformidad con los
+artículos del 13 al 16 de esta ley y siempre que la autoridad judicial
+determine que ocurrió una conducta de violencia o la existencia de un riesgo
+para la víctima o su familia, lo comunicará al Departamento de Control de Armas
+y Explosivos para que inicie el procedimiento administrativo tendiente a la
+cancelación de la inscripción de las armas de fuego.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none'><i
+style='mso-bidi-font-style:normal'><span style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;mso-fareast-font-family:"Verdana"'>(Así adicionado
+por el artículo 1° de la ley N° 9692 del 9 de julio de 2019)<o:p></o:p></span></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133161'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;mso-layout-grid-align:
+none'><span style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;mso-fareast-font-family:
+"Verdana"'>Artículo 20 ter- Destrucción de armas de fuego. El
+Departamento de Control de Armas y Explosivos, una vez recibida la notificación
+de la resolución firme a la que hace referencia el artículo anterior, iniciará de
+forma inmediata el procedimiento administrativo para cancelar la inscripción de
+las armas decomisadas a la persona agresora. Las personas interesadas tendrán
+derecho a interponer los recursos ordinarios de revocatoria y de apelación en
+el plazo de tres días hábiles.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt;mso-layout-grid-align:
+none'><span style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;mso-fareast-font-family:
+"Verdana"'>Firme la resolución de cancelación, el Departamento lo
+comunicará a la Dirección para que proceda con la destrucción de las armas de
+fuego correspondientes.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify;mso-layout-grid-align:none'><i
+style='mso-bidi-font-style:normal'><span style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;mso-fareast-font-family:"Verdana"'>(Así adicionado
+por el artículo 1° de la ley N° 9692 del 9 de julio de 2019)<o:p></o:p></span></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133162'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>CAPITULO V<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Deberes del Estado<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 21.- <b
+style='mso-bidi-font-weight:normal'>Ente rector<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Corresponder&aacute; al Centro nacional para el
+desarrollo de la mujer y la <span class=GramE>familia<i style='mso-bidi-font-style:
+normal'>(</i></span><i style='mso-bidi-font-style:normal'>*)</i>, vigilar el
+cumplimiento de la Convenci&oacute;n interamericana para prevenir, sancionar y
+erradicar la violencia contra la mujer. Con este fin, estar&aacute; facultado
+para ser el ente rector de las pol&iacute;ticas p&uacute;blicas en los
+programas de detecci&oacute;n, atenci&oacute;n, prevenci&oacute;n e
+inserci&oacute;n laboral de las personas agredidas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Para cumplir con las obligaciones encomendadas,
+el Centro (*) desarrollar&aacute; las funciones establecidas en la
+Convenci&oacute;n mencionada, espec&iacute;ficamente en los incisos a) y e) del
+art&iacute;culo 7 y en los incisos a), b), c), e), g), h), i) del
+art&iacute;culo 8, en los siguientes t&eacute;rminos:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>1.- Velar&aacute; porque las autoridades, sus
+funcionarios, personal y agentes de instituciones se comporten de conformidad
+con las obligaciones estipuladas en esa Convenci&oacute;n.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>2.- Tomar&aacute; las medidas apropiadas para
+fomentar la modificaci&oacute;n de pr&aacute;cticas, jur&iacute;dicas o
+consuetudinarias, que respalden la persistencia o la tolerancia de la violencia
+contra las personas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>3.- Fortalecer&aacute; el conocimiento y la
+observancia del derecho de la mujer a una vida libre de violencia y a que se le
+respeten y protejan sus derechos.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>4.- Promover&aacute; la modificaci&oacute;n de los
+patrones socioculturales de conducta de hombres y mujeres, inclusive el
+dise&ntilde;o de programas de educaci&oacute;n, formales e informales
+apropiados para todos los niveles del proceso educativo, con el fin de
+contrarrestar prejuicios, costumbres y todo tipo de pr&aacute;cticas que se
+basen en la premisa de la inferioridad de cualquiera de los g&eacute;neros o en
+los estereotipos para el hombre y la mujer, que legitiman o exacerban la
+violencia contra las personas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>5.- Fomentar&aacute; la educaci&oacute;n y
+capacitaci&oacute;n del personal en la administraci&oacute;n de justicia,
+policial y de otros funcionarios responsables de la aplicaci&oacute;n de la
+ley, as&iacute; como del personal encargado de aplicar las pol&iacute;ticas
+para prevenir, sancionar y eliminar la violencia dom&eacute;stica.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>6.- Estimular&aacute; programas educativos, gubernamentales
+y del sector privado, tendientes a concientizar al p&uacute;blico sobre los problemas
+relacionados con la violencia dom&eacute;stica, los recursos legales y la
+reparaci&oacute;n correspondiente.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>7.- Alentar&aacute; a los medios de
+comunicaci&oacute;n para que elaboren directrices adecuadas de difusi&oacute;n
+y contribuyan as&iacute; a erradicar la violencia dom&eacute;stica en todas sus
+formas y, en especial, a realzar el respeto a la dignidad de la mujer.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>8.- Garantizar&aacute; la investigaci&oacute;n y
+recopilaci&oacute;n de estad&iacute;sticas e informaci&oacute;n pertinente
+sobre las causas, consecuencias y frecuencia de la violencia dom&eacute;stica,
+con el fin de evaluar las medidas estatales.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>9.- Promover&aacute; la cooperaci&oacute;n
+internacional para intercambiar ideas y experiencias y ejecutar programas
+encaminados a proteger el derecho a una vida sin violencia.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>El Estado procurar&aacute; ofrecer alternativas
+de tratamiento y rehabilitaci&oacute;n a las personas agresoras, tomando en
+cuenta, entre otras, su doble condici&oacute;n de v&iacute;ctimas y de
+agresoras.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i style='mso-bidi-font-style:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>(*) (Nota: De acuerdo
+con el art&iacute;culo 26, inciso b), de la Ley del Instituto Nacional de las
+Mujeres No.7801 de 30 de abril de 1998, cualquier referencia al Centro Nacional
+para el Desarrollo de la Mujer y la Familia se entender&aacute; referida al
+Instituto Nacional de las Mujeres)</span></i><span style='font-size:10pt!important!important'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133129'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 22.- <b
+style='mso-bidi-font-weight:normal'>Plan nacional</b><o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>El Centro nacional para el desarrollo de la
+mujer y la <span class=GramE>familia<i style='mso-bidi-font-style:normal'>(</i></span><i
+style='mso-bidi-font-style:normal'>*)</i> deber&aacute; desarrollar un plan
+nacional que coordine, como un sistema unificado, las instituciones que puedan
+ofrecer servicios especiales a las personas agredidas por violencia de
+g&eacute;nero o trabajar para prevenirla.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i style='mso-bidi-font-style:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>(*) (Nota: De acuerdo
+con el art&iacute;culo 26, inciso b), de la Ley del Instituto Nacional de las
+Mujeres No.7801 de 30 de abril de 1998, cualquier referencia al Centro Nacional
+para el Desarrollo de la Mujer y la Familia se entender&aacute; referida al
+Instituto Nacional de las Mujeres)<o:p></o:p></span></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133130'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 23.- <b
+style='mso-bidi-font-weight:normal'>Obligaci&oacute;n de las instituciones<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Las instituciones p&uacute;blicas que puedan
+colaborar en la detecci&oacute;n, atenci&oacute;n, prevenci&oacute;n e
+inserci&oacute;n laboral de las personas agredidas, est&aacute;n obligadas a
+orientar sus labores para cumplir con este fin.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133131'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES;mso-bidi-font-weight:
+bold'>Art&iacute;culo</span><span lang=ES style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;color:black;mso-ansi-language:ES'> 24.- <b style='mso-bidi-font-weight:
+normal'>Coordinaci&oacute;n de pol&iacute;ticas<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span lang=ES style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'>Corresponder&aacute;
+a los entes rectores en materia de discapacidad y tercera edad, formular y
+coordinar pol&iacute;ticas p&uacute;blicas para prevenir y atender casos de
+violencia intrafamiliar contra personas discapacitadas o personas de sesenta
+a&ntilde;os o m&aacute;s.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify'><i><span lang=EN-US style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;color:#222222;background:white;mso-ansi-language:EN-US'>(Nota
+de Sinalevi:</span></span></i><i style='font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+word-spacing:0px'><span style='background-image:initial;background-position:
+initial;background-size: initial;background-repeat:initial;background-origin: initial;
+background-clip: initial'><span lang=ES-MX style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;color:#222222;background:white;mso-ansi-language:ES-MX'>&nbsp;El&nbsp;</span></span></i><i
+style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
+widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
+text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+0px'><span style='background-image:initial;background-position:initial;
+background-size: initial;background-repeat:initial;background-origin: initial;
+background-clip: initial'><span lang=ES-MX style='font-size:10pt!important!important;font-family:
+"Verdana!important",Verdana;color:#3D85C6;background:white;mso-ansi-language:ES-MX'><a
+href="http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Pronunciamiento/pro_ficha.aspx?param1=PRD&amp;param6=1&amp;nDictamen=21727&amp;strTipM=T"
+target="_blank"
+data-saferedirecturl="https://www.google.com/url?q=http://www.pgrweb.go.cr/scij/Busqueda/Normativa/Pronunciamiento/pro_ficha.aspx?param1%3DPRD%26param6%3D1%26nDictamen%3D21727%26strTipM%3DT&amp;source=gmail&amp;ust=1667342234211000&amp;usg=AOvVaw1IqR5paHLnx5HykTqivnE4"><span
+style='color:#1155CC'>Dictamen N&deg; 372-2019 del 13 de diciembre de 2019</span></a></span></span></i><i
+style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
+widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
+text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+0px'><span lang=EN-US style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;
+color:#222222;background:white;mso-ansi-language:EN-US'>&nbsp; <span
+class=SpellE>concluy&oacute;</span> que el <span class=SpellE>art&iacute;culo</span>
+24 de la Ley contra la <span class=SpellE>Violencia</span> <span class=SpellE>Dom&eacute;stica</span>
+N&deg; 7586 del 10 de <span class=SpellE>abril</span> de 1996,&nbsp; ha <span
+class=SpellE>sido</span>&nbsp;<span class=SpellE>derogado</span> <span
+class=SpellE>t&aacute;citamente</span> en forma <span class=SpellE>parcial</span>.
+De acuerdo con <span class=SpellE>dicho</span> <span class=SpellE>criterio</span>,
+<span class=SpellE>e<span style='color:black'>xiste</span></span></span></i><i><span
+lang=EN-US style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:black;
+background:white;mso-ansi-language:EN-US'> <span class=SpellE>incongruencia</span>
+o <span class=SpellE>contradicci&oacute;n</span> entre el <span class=SpellE>art&iacute;culo</span>
+24 de la ley N&deg; 7586 y el numeral 2 de la Ley Integral para la Persona <span
+class=SpellE>Adulta</span> Mayor N&deg; 7935 del 25 de <span class=SpellE>octubre</span>
+de 1999, dado que <span class=SpellE>ambas</span> <span class=SpellE>normas</span>
+<span class=SpellE>fijan</span> <span class=SpellE>una</span> <span
+class=SpellE>edad</span> <span class=SpellE>distinta</span> para que <span
+class=SpellE>una</span> persona sea <span class=SpellE>considerada</span> <span
+class=SpellE>adulta</span> mayor en <span class=SpellE>nuestro</span> <span
+class=SpellE>pa&iacute;s</span>.</span></i><i><span lang=EN-US
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana;color:#222222;
+background:white;mso-ansi-language:EN-US'>&nbsp;La <span class=SpellE>antinomia</span>
+<span class=SpellE>jur&iacute;dica</span> <span class=SpellE>debe</span> <span
+class=SpellE>ser</span> <span class=SpellE>resuelta</span> <span class=SpellE>aplicando</span>
+<span class=SpellE>los</span> <span class=SpellE>criterios</span> <span
+class=SpellE>hermen&eacute;uticos</span> y, en <span class=SpellE>espec&iacute;fico</span>,
+el <span class=SpellE>criterio</span> <span class=SpellE>cronol&oacute;gico</span>
+el <span class=SpellE>cual</span> <span class=SpellE>supone</span> que, ante el
+<span class=SpellE>conflicto</span> entre dos <span class=SpellE>normas</span>
+de <span class=SpellE>igual</span> <span class=SpellE>naturaleza</span> y <span
+class=SpellE>jerarqu&iacute;a</span>, <span class=SpellE>debe</span> <span
+class=SpellE>prevalecer</span> la <span class=SpellE>norma</span> posterior. El
+<span class=SpellE>efecto</span> que <span class=SpellE>ocasiona</span> la <span
+class=SpellE>aplicaci&oacute;n</span> de <span class=SpellE>este</span> <span
+class=SpellE>criterio</span> <span class=SpellE>es</span> la <span
+class=SpellE>derogaci&oacute;n</span> <span class=SpellE>t&aacute;cita</span> <span
+class=SpellE>parcial</span> de la <span class=SpellE>norma</span> anterior, <span
+class=SpellE>es</span> <span class=SpellE>decir</span>, del <span class=SpellE>art&iacute;culo</span>
+24 de la ley N&deg; 7586 del 10 de <span class=SpellE>abril</span> de 1996, <span
+class=SpellE>&uacute;nicamente</span> en <span class=SpellE>cuanto</span> <span
+class=SpellE>fij&oacute;</span> la <span class=SpellE>edad</span> para que <span
+class=SpellE>una</span> persona sea <span class=SpellE>considerada</span> parte
+de la <span class=SpellE>tercera</span> <span class=SpellE>edad</span>, o <span
+class=SpellE>adulta</span> mayor, en 60 <span class=SpellE>a&ntilde;os</span> o
+<span class=SpellE>m&aacute;s</span>.</span></i><i><span style='font-size:10pt!important!important;
+color:#222222;background:white'>)</span></i><span lang=ES style='font-size:10pt!important!important
+pt;font-family:"Verdana!important",Verdana;color:black;mso-ansi-language:ES'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133132'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><span style='font-size:10pt!important!important;font-family:Verdana!important;
+color:black'>CAPITULO VI<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center'><b style='mso-bidi-font-weight:normal'><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'>Disposiciones finales<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 25.- <b
+style='mso-bidi-font-weight:normal'>Derogaciones<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Se derogan el inciso <span class=SpellE>ch</span>)
+del art&iacute;culo 81 y el inciso c) del art&iacute;culo 81 bis, del
+C&oacute;digo Penal.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133133'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black;mso-bidi-font-weight:bold'>Art&iacute;culo</span><span
+style='font-size:10pt!important!important;font-family:Verdana!important;color:black'> 26.- <b
+style='mso-bidi-font-weight:normal'>Vigencia<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Rige a partir de su publicaci&oacute;n.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-align:justify;text-indent:35.4pt'><span style='font-size:10pt!important!important;
+font-family:Verdana!important;color:black'>Dado en la Presidencia de la rep&uacute;blica.-San
+Jos&eacute;, a los diez d&iacute;as del mes de abril de mil novecientos noventa
+y seis.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=27926&amp;nValor3=117082&amp;nValor5=133134'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important"></span><br /><br />Fecha de generación: 13/02/2024 10:35:16 p.m.</body>
+
+</html>
+
+<a name="down" id="ddown" /></div>
+
+                       
+                    </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">
+                                     <a align="center" href="#up">
+                                        <span class="style5">Ir al principio del documento </span>
+                                    </a>
+                                </td>
+                            </tr>
+                           
+                        </table>
+                    </div>
+                </div>
+            </td>
+        </tr>
+       
+    </table>
+    <br />
+   
+   
+    <!-- Para ir al final de la página -->
+    <table border="0" width="95%" align="center">
+        <tr>
+            <td align="center" width="100%">
+                <br />
+                
+            </td>
+        </tr>
+    </table>
+    </div>
+    
+    </a>
+                
+            </td>
+        </tr>
+    </table>
+    
+    
+                    
+                </td>
+            </tr>
+        </table>
+    
+
+<script type="text/javascript">
+<!--
+(function() {var fn = function() {$get("_ctl0__ctl0_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();// -->
+</script>
+</form>
+</body>
+</html>

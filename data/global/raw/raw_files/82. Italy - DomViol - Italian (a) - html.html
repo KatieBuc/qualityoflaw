@@ -1,0 +1,639 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html><!-- 002_053-ACCESS-4.1.1 -LV_A -->
+<!--002_053-ACCES- 3.1.1 -LV_A --> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" prefix="eli: http://data.europa.eu/eli/ontology# gu: http://www.gazzettaufficiale.it/eli/">
+
+<head>
+<title>Gazzetta Ufficiale</title>
+
+
+<link rel="stylesheet" href="/resources/css/themes/pascal/pascal.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/themes/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/themes/orman/orman.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/text.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/960.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/ricerca.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/scrollNews.css" type="text/css" />
+<link rel="stylesheet" href="/resources/css/gu_.css" type="text/css" />
+<script type="text/javascript" src="/resources/js/jquery.js"></script>
+<script type="text/javascript" src="/resources/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="/resources/js/newsSlider.js"></script>
+<!--002_053-ACCES- 4.1.1 -LV_A --> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<link rel="stylesheet" href="/resources/css/dettaglio.css" type="text/css" />
+<script type="text/javascript">
+ function resizeFrame() {
+
+	f = document.getElementById('mainFrame');
+	l = document.getElementById('leftFrame');
+	t = document.getElementById('testa_atto');
+	cl = document.getElementById('clear');
+
+ 	f.style.height = (getHeight(0) - t.scrollHeight-cl.scrollHeight)+"px" ;
+	l.style.height = (getHeight(0) - t.scrollHeight-cl.scrollHeight)+"px" ;
+}
+
+ window.onresize = function(event) {
+    delay(function(){
+      resizeFrame();
+    }, 200);
+};
+
+ var delay = (function(){
+  var timer = 0;
+  return function(callback, ms){
+    clearTimeout (timer);
+    timer = setTimeout(callback, ms);
+  };
+})();
+
+ function getHeight(flag) {
+  var myWidth = 0, myHeight = 0;
+  if( typeof( window.innerWidth ) == 'number' ) {
+    //Non-IE
+    myWidth = window.innerWidth;
+    myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+    //IE 6+ in 'standards compliant mode'
+    myWidth = document.documentElement.clientWidth;
+    myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+    //IE 4 compatible
+    myWidth = document.body.clientWidth;
+    myHeight = document.body.clientHeight;
+  }
+  if(flag == 0)
+  	return myHeight;
+  else
+	return myWidth;
+}
+
+/* $(function() {
+	var $window = $(window);
+	var $sidebar = $("#wrap_albero");
+	var bodyHeight = $("body").height();
+	var sidebarHeight = $sidebar.height();
+	var startOffset = $sidebar.offset();
+	var topPadding = 15;
+
+	$window.scroll(function() {
+		var marginTopHelper = 0;
+		var scrollTop = $window.scrollTop();
+		var posibleOffset = scrollTop - startOffset.top + topPadding;
+
+		if ((sidebarHeight + posibleOffset) < bodyHeight && scrollTop > startOffset.top) {
+			marginTopHelper = posibleOffset;
+		}
+
+		$sidebar.stop().animate({
+			marginTop: marginTopHelper
+		});
+	});
+});  */
+
+</script>
+<!-- 002_053-ACCESS-4.1.1 -LV_A --><!--START-->
+<style>
+       .wrapped-iframe {
+        scroll-behavior: smooth;
+        height: 100%;
+        border: 0;
+      }
+       .wrapped-iframe2 {
+        scroll-behavior: smooth;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+</style>
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ELI legal resource -->
+<meta about="gu:id/2001/04/28/001G0209/sg" typeof="eli:LegalResource" />
+<!-- ELI legal expression -->
+<meta about="gu:id/2001/04/28/001G0209/sg/ita" typeof="eli:LegalExpression" />
+<!-- ELI is_realized_by legalrsc to legalexpr -->
+<meta about="gu:id/2001/04/28/001G0209/sg" property="eli:is_realized_by" resource="gu:id/2001/04/28/001G0209/sg/ita" />
+<!-- ELI legal version -->
+<meta about="gu:id/2001/04/28/001G0209/sg" property="eli:version" resource="gu:tables/versions#ORIGINAL"/> 
+<!-- ELI format -->
+<meta about="gu:id/2001/04/28/001G0209/sg/ita/html" typeof="eli:Format" />
+<!-- ELI is_embodied_by legalexpr to format  -->
+<meta about="gu:id/2001/04/28/001G0209/sg/ita" property="eli:is_embodied_by" resource="gu:id/2001/04/28/001G0209/sg/ita/html" />
+<!-- ELI:id_local -->
+<meta about="gu:id/2001/04/28/001G0209/sg" property="eli:id_local" content="001G0209" />
+<!-- ELI uri_schema -->
+<meta about="gu:id/2001/04/28/001G0209/sg" property="eli:uri_schema" content="gu:id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/sg"/> 
+<!-- ELI type_document -->
+<meta about="gu:id/2001/04/28/001G0209/sg" property="eli:type_document" resource="gu:tables/resource-type#LEGGE"/>
+
+
+
+
+
+<!-- ELI date_document -->
+<meta about="gu:id/2001/04/28/001G0209/sg" property="eli:date_document" content="2001-04-04" datatype="xsd:date" />
+
+<!-- ELI date_publication -->
+<meta about="gu:id/2001/04/28/001G0209/sg" property="eli:date_publication" content="2001-04-28" datatype="xsd:date" />
+
+<meta about="gu:id/2001/04/28/001G0209/sg/ita" property="eli:language" resource="http://publications.europa.eu/resource/authority/language/ITA" />
+<meta about="gu:id/2001/04/28/001G0209/sg/ita" property="eli:publisher" resource="http://www.ipzs.it" />
+<meta about="gu:id/2001/04/28/001G0209/sg/ita/html" property="eli:format" resource="http://www.iana.org/assignments/media-types/text/html" />
+
+
+</head>
+<body>
+
+
+
+<!-- Costanti EL -->
+
+
+
+
+
+
+
+
+
+<!-- Fine costanti EL -->
+
+
+
+
+
+
+
+<div class="head">
+	<div class="flag"> <!-- VSADC01-DISABILITA COGNITIVA -ADEGUAMENTI NECESSARI -->
+	<!-- Bugfix banner -->
+		<div class="logo"><!--002_053-ACCES-1.1.1-LV_A -->
+			<a href="/home" title="Home">
+				<img src="/resources/img/logo.png" alt="logo gazzetta ufficiale"/>
+	    	</a>
+	    </div>
+	    
+	    <div class="welcome">
+			<a href="/home" class="backhome" title="backhome">Home</a>
+		</div>
+			   
+
+		</div>
+
+
+
+	</div>
+</div>
+
+
+
+<div class="main_menu">
+  
+
+
+
+
+
+
+<div class="toolbar_wrapper_dettaglio">
+	<div id="comandi_atto">
+		<div id="pulsanti_atto">
+			
+			
+				
+				
+				
+				
+
+			
+			<a href="/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=2001-04-28&atto.codiceRedazionale=001G0209&tipoSerie=serie_generale&tipoVigenza=originario" target="_blank" class="stampabile"><span>Atto<br/>Completo</span> </a>
+			
+				
+				
+
+					<div class="ghost"><span>Avviso di rettifica<br/>Errata corrige</span></div>
+
+				
+			
+			
+			
+
+
+
+
+
+			
+				
+					
+						
+							
+							
+						
+						<!-- <li> 
+	                   		<a href="/do/atto/vediLavoriPreparatori?atto.dataPubblicazioneGazzetta=2001-04-28&atto.codiceRedazionale=001G0209" target="_blank" class="preparatori"><img border="0" src="/resources/img/ico_go_preparatori.png" title="LAVORI PREPARATORI" alt="LAVORI PREPARATORI" /></a>
+                				   	
+                	   		</a> 
+                   		 </li> -->
+
+						<a href="/do/atto/vediLavoriPreparatori?atto.dataPubblicazioneGazzetta=2001-04-28&atto.codiceRedazionale=001G0209" target="_blank"
+							class="preparatori"><span>Lavori<br/>Preparatori</span> </a>
+
+					
+					
+				
+				
+				
+					
+					
+					 
+					
+					
+						<div class="ghost"><span>Direttive UE<br/>recepite</span></div>
+					
+				 
+			
+			
+
+				
+
+			
+		</div>
+	</div>
+
+
+
+
+
+
+	
+	<div class="nobordo" id="comandi">
+<!-- BugFix -->
+	 
+				
+					
+					
+					
+					
+				
+			
+			
+					<a href="/atto/vediPermalink?atto.dataPubblicazioneGazzetta=2001-04-28&atto.codiceRedazionale=001G0209&tipoSerie=serie_generale&tipoVigenza=originario&tipoProvvedimento=*" class="backtosearch" target="_blank"  title="Collegamento Permanente"><span>Permalink</span> </a>
+			
+		
+			
+
+			
+			
+
+			
+			
+				
+					
+					
+						
+							
+							
+							
+
+
+							
+
+
+
+							
+
+
+							
+
+
+
+							
+							
+							
+							
+							
+							
+							
+							
+						
+
+
+					
+				
+			
+
+
+		
+		
+		
+		
+		
+			<a href="#" onclick="window.close()" class="chiudi">
+					<span>Chiudi </span>
+
+			</a>
+		
+		
+			
+		
+		
+ 	
+		
+
+	
+	</div>
+</div>
+</div>
+
+<div class="main_content">
+		<div id="corpaccio_atto">
+				<div id="titolo_atto">
+	    			<!-- 002_053-ACCESS-4.1.1 -LV_A -->
+
+
+
+
+
+
+
+
+<div id="testa_atto">
+	
+
+	<h2 class="consultazione">
+		LEGGE <span>  
+			
+			
+				
+			 
+				
+
+			 
+				
+			 
+				
+			 4 aprile 2001, n. 154&nbsp; 
+			
+			 </span>
+	</h2>
+
+	<h3 class="consultazione" style="border: none;">
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<span about="gu:id/2001/04/28/001G0209/sg/ita" property="eli:title">Misure contro la violenza nelle relazioni familiari.
+</span>
+		
+		<span class="riferimento">
+		
+		
+		
+			
+	
+			
+				 
+				
+				
+				<span class="link_gazzetta">
+				
+					
+					
+					
+					
+					
+					<!-- 002_053-ACCESSIBILITA- 1.4.3. -LV_AA  -->
+					<a target="_blank" style="color:#2F6209 !important; text-decoration:none;" href="https://www.gazzettaufficiale.it/eli/gu/2001/04/28/98/sg/pdf">(GU Serie Generale n.98 del 28-04-2001)</a>
+				</span>
+			
+			
+		
+		  
+	</span>
+		
+		
+		
+	</h3>
+
+
+	<h4 class="note">
+		
+
+		<span class="rosso">  </span>
+	</h4>
+
+	<h5></h5>
+</div>
+	         	</div>
+	         	<!-- INIZIO RESP_002_053 TR00006 -->
+	         	 <script type="text/javascript">
+        
+	         	function burgerMenuAreeTematicheDisplay() {
+	         		var d = document;
+	    			var menu = d.getElementById("wrap_albero");
+	    			var corpo = d.getElementById("testo_atto");
+	    			var text = d.getElementsByClassName("dettaglio_atto_testo");
+	    			if (menu.style.display === "block") {
+	    				menu.style.display = "none";
+	    				corpo.style.width = "100%";
+	    			} else {
+	    				menu.style.display = "block";
+	    				corpo.style.width = "63%";
+	    				text.style.fontSize = "100% !important";
+	    			}
+	    		}
+        </script>
+        <span id="burgerMenuAreeTematiche"style="font-size:75px; margin-left:35px; color: #017fb3; display: none;" onclick="burgerMenuAreeTematicheDisplay()">☰</span>
+				<!-- FINE RESP_002_053 TR00006 -->
+				<div id="colonna" class="nopadding">
+	                   <div id="wrap_albero">
+	                   <!-- 002_053-ACCESS-4.1.1 -LV_A -->
+						<iframe class=".wrapped-iframe"
+							src="/atto/serie_generale/caricaAlberoArticoli/originario?atto.dataPubblicazioneGazzetta=2001-04-28&atto.codiceRedazionale=001G0209#art"
+							name="leftFrame" id="leftFrame" title="leftFrame">
+						</iframe>
+				</div>
+		 </div>
+				<!-- 002_053-ACCESS-4.1.1 -LV_A -->
+				<div id="testo_atto">
+					<iframe class="wrapped-iframe2"
+					 	src="/atto/serie_generale/caricaArticoloDefault/originario?atto.dataPubblicazioneGazzetta=2001-04-28&atto.codiceRedazionale=001G0209&atto.tipoProvvedimento=LEGGE" 
+					  	name="mainFrame" id="mainFrame" title="mainFrame">
+					</iframe>
+					<!--END-->
+				</div>
+				<div class="clear" id="clear"></div>
+	</div>
+    </div>
+
+    <div class="wrap_footer">
+		
+<div class="container_16_f">
+<!-- <div class="grid_4">
+	<p style="padding: 10px 0px;">sommari G.U.</p>
+    <ul>
+	   	<li><a href="">Ultime Gazzette Ufficiali</a></li>
+	   	<li><a href="/archivioCompleto" title="Archivio Completo">Archivio Completo</a></li>
+     </ul>
+  </div> -->
+  <div class="grid_4" style="margin-left:0;">
+  	<p style="padding: 10px 0px;">informazioni</p>
+    <ul style="margin:5px 0px 0px 0px;">
+	   	<!-- <li><a href="">Modalit&agrave; di consultazione</a></li>
+	   	<li><a href="">Il Servizio</a></li> -->
+		<li><a href="/caricaHtml?nomeTiles=gazzettaCertificata" title="Gazzetta Ufficiale certificata" target="_blank">Gazzetta Ufficiale Certificata</a></li>
+		<li><a href="/caricaHtml?nomeTiles=privacySito" title="Privacy">Privacy</a></li>
+	   	<li><a href="/caricaHtml?nomeTiles=formatoGraficoPdf" title="Formato Grafico PDF">Formato Grafico PDF</a></li>        
+     </ul>
+  </div>
+  <div class="grid_4">
+  	<p style="padding: 10px 0px;">concessionari</p>
+    <ul style="margin:5px 0px 0px 0px;">
+    	<!-- <li><a href="caricaHtml?nomeTiles=abbonamentoCartaceo" title="Abbonamento Cartaceo">Abbonamento Cartaceo</a></li>
+	   	<li><a href="">Modalit&agrave; Pubblicazione</a></li> --> 
+	   	
+	   	<li><a href="/showConcessionariInserzioni" title="Concessionari Inserzioni">Inserzioni</a></li>         
+	   	<li><a href="/showLibrerieConcessionarie" title="Librerie Concessionarie">Librerie</a></li> 
+	   	<li><a href="https://form.agid.gov.it/view/0f40aa6e-8571-4ef7-b62f-83e65ed3e3f0" title="Dichiarazione di accessibilità" target="blank">Dichiarazione di accessibilità</a></li> 
+	   	<!-- <li><a href="caricaHtml?nomeTiles=modalitaInserzioni" title="Modalità Pubblicazioni e Inserzioni">Modalit&agrave; Pubblicazioni e Inserzioni</a></li>
+	   	<li><a href="caricaHtml?nomeTiles=venditaFascicoli" title="Vendita Fascicoli">Vendita Fascicoli</a></li> -->       
+     </ul>
+  </div>
+  <div class="grid_4" style="margin-right:0;">
+  	<p style="padding: 10px 0px;">contatti</p>
+    <ul style="margin:5px 0px 0px 0px;">
+    	<li><a  class="contatto" href="mailto:supportoGU@gazzettaufficiale.it" title="Informazioni sulla Gazzetta Ufficiale">Supporto Contenuti Gazzetta Ufficiale</a></li>
+    	<li><a  class="contatto" href="mailto:informazioni@ipzs.it" title="Informazioni Commerciali">Informazioni Commerciali</a></li>
+    	<!-- <li><a  class="contatto" href="mailto:supportotecnico@gazzettaufficiale.it" title="Supporto Tecnico">Supporto Tecnico</a></li> -->
+		<li class="nverde"><!--<label>Numero Verde:</label>-->800 864035</li>
+     </ul>
+  </div>
+  <!-- div class="grid_4">
+  	<p style="padding: 10px 0px;">archivio completo</p>
+    <ul style="margin:5px 0px 0px 0px;">
+    	<li><a href="">L'utenza privata</a></li>
+    	<li><a href="">La Pubblica Amministrazione Centrale</a></li>
+
+     </ul>
+  </div -->
+  <!-- script src="https://assets.adobedtm.com/1aaba0661858/f3615e8491bd/launch-53bf2fcc463f-development.min.js" async></script-->
+<!-- https://assets.adobedtm.com/1aaba0661858/f3615e8491bd/launch-735752f79152.min.js -->
+<!-- GA4 Config -->
+ <script>
+            // GA4 Configuration
+            var GA4_CONFIG = {
+            	    'www.sviluppo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www2.sviluppo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www.collaudo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www2.collaudo7.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-MP0S74CMHZ'
+              	    },
+              	    'www.gazzettaufficiale.it': {
+              	      enabled: true,
+              	      trackingId: 'G-FJM2V41JDD'
+              	    }
+            };
+            // GA4 Initialization Script
+            (function() {
+                var domain = window.location.hostname;
+                var config = GA4_CONFIG[domain];
+                
+                // Check if domain exists in config and is enabled
+                if (config && config.enabled) {
+                    // Create the first script element (gtag.js)
+                    var gtagScript = document.createElement('script');
+                    gtagScript.async = true;
+                    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=' + config.trackingId;
+                    
+                    // Create the second script element (configuration)
+                    var configScript = document.createElement('script');
+                    configScript.text = '' + 
+                        'window.dataLayer = window.dataLayer || [];' +
+                        'function gtag(){dataLayer.push(arguments);}' +
+                        'gtag("js", new Date());' +
+                        'gtag("config", "' + config.trackingId + '");';
+                    
+                    // Add scripts to the document head
+                    document.head.appendChild(gtagScript);
+                    document.head.appendChild(configScript);
+                }
+            })();
+</script>
+</div>
+	</div>
+
+
+	<div class="crediti">
+		<div class="loghi_crediti">
+	<img src="/resources/img/logo_mef.png" alt="mef" />
+	<img src="/resources/img/logo_ipzs_2025.png"  alt="Istituto Poligrafico e Zecca dello Stato"/>
+</div>
+<div class="clear"></div>
+<div style="color:#edebeb; margin:0 auto; padding: 10px; width:960px; text-align:center; display: inline-block; font-size:12px">Realizzazione Istituto Poligrafico e Zecca dello Stato S.p.A.</div>
+
+
+
+
+	</div>
+</body>
+</html>
