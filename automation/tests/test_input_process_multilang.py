@@ -3,7 +3,7 @@ import re
 import pytest
 
 from automation.src.input_process.config import parse_input_process_config
-from automation.src.input_process.pipeline import check_all
+from automation.src.input_process.pipeline import analyze, check_all
 from automation.src.input_process.quality.criteria import decide
 from automation.src.input_process.quality.metrics import (
     canonical_language,
@@ -156,11 +156,11 @@ def test_a_multilingual_folder_is_judged_file_by_file(mixed):
 
     report = check_all(cfg)
 
-    assert report["summary"]["passed"] == 5 and report["summary"]["eliminated"] == 0
-    assert report["files"]["1. Russia - DomViol - Russian"]["language"] == "Russian"
-    assert report["files"]["ACEH_BIREUEN"]["language"] == "Indonesian"
-    assert report["summary"]["by_language"]["Arabic"] == {"files": 1, "eliminated": 0, "needs_ocr": 0}
-    assert report["language_pattern"] == r"DomViol - ([A-Za-z]+)"
+    assert report["summary"] == {"files": 5, "passed": 5, "needs_ocr": 0, "eliminated": 0}
+    outcomes = analyze(cfg).outcomes
+    assert outcomes["1. Russia - DomViol - Russian"].language == "Russian"
+    assert outcomes["2. Egypt - DomViol - Arabic"].language == "Arabic"
+    assert outcomes["ACEH_BIREUEN"].language == "Indonesian"
 
 
 def test_without_a_language_pattern_every_file_is_judged_as_the_default_language(mixed):
@@ -170,9 +170,10 @@ def test_without_a_language_pattern_every_file_is_judged_as_the_default_language
 
     report = check_all(cfg)
 
-    assert report["files"]["1. Russia - DomViol - Russian"]["status"] == "ELIMINATE"
-    assert "C1_wrong_script" in report["files"]["1. Russia - DomViol - Russian"]["reason"]
-    assert report["files"]["ACEH_BIREUEN"]["status"] == "PASS"
+    assert report["summary"]["passed"] == 1
+    [entry] = report["eliminated"]
+    assert entry["stem"] == "1. Russia - DomViol - Russian"
+    assert "C1_wrong_script" in {f["rule"] for f in entry["failed"]}
 
 
 def test_corpus_unique_words_are_counted_within_one_language(mixed):
@@ -182,7 +183,7 @@ def test_corpus_unique_words_are_counted_within_one_language(mixed):
         write(cfg, f"{i}. Spain - DomViol - Spanish", "ocr", prose(SPANISH))
     write(cfg, "99. Russia - DomViol - Russian", "ocr", prose(RUSSIAN))
 
-    report = check_all(cfg)
+    outcomes = analyze(cfg).outcomes
 
-    assert "corpus_unique_word_ratio" in report["files"]["0. Spain - DomViol - Spanish"]["metrics"]
-    assert "corpus_unique_word_ratio" not in report["files"]["99. Russia - DomViol - Russian"]["metrics"]
+    assert "corpus_unique_word_ratio" in outcomes["0. Spain - DomViol - Spanish"].metrics
+    assert "corpus_unique_word_ratio" not in outcomes["99. Russia - DomViol - Russian"].metrics

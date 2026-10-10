@@ -46,14 +46,14 @@ python -m automation.src.input_process run              # extract, then check
    letters (K2) or loses more than 5 % of the distinct *Pasal* numbers (K1) is discarded and only the
    lossless normalization is kept.
 4. **Sort.** `PASS` → `cleaned_txt/<stem>.txt`. `NEEDS_OCR` → report entry naming the file to
-   supply. `ELIMINATE` → report entry with the rules that fired.
+   supply. `ELIMINATE` → report entry with the indicators that failed.
 
 Every run re-evaluates all of `extracted_txt/`, rewrites the report, and makes `cleaned_txt/` mirror
 the latest result (a file that no longer passes is removed from it).
 
 ## OCR round trip
 
-1. Run `run` (or `check`). The report's `needs_ocr` lists each PDF with its `expected_ocr_file`.
+1. Run `run` (or `check`). The report's `needs_ocr` lists each PDF with its `expected_ocr_file` and the indicators that failed.
 2. OCR the PDF yourself and save the text as `extracted_txt/<stem>__ocr.txt`.
 3. Run `check` again. The OCR text replaces the PDF text; if it is still unusable the file is
    `ELIMINATE`d (it is not sent back to OCR).
@@ -61,7 +61,7 @@ the latest result (a file that no longer passes is removed from it).
 ## Rules
 
 Thresholds live in `quality/criteria.py` (`THRESHOLDS`); override any of them under
-`input_process.thresholds`. Each report line carries the rule IDs that fired and their values.
+`input_process.thresholds`. Each report entry carries the failed indicators with their value and limit.
 
 | Rule | Meaning | Effect |
 |---|---|---|
@@ -83,15 +83,34 @@ thresholds were calibrated on GlobalLaws — check them against your own files b
 
 ## Report (`input_report.json`)
 
-| Key | Content |
+Short on purpose: counts, then only the files that did **not** pass and the indicators they failed.
+Passed files are not listed.
+
+```json
+{
+  "generated_at": "...", "project": "global",
+  "summary": {"files": 228, "passed": 174, "needs_ocr": 43, "eliminated": 11},
+  "needs_ocr": [
+    {"stem": "54. Estonia - DomViol - Estonian", "pdf": "54. Estonia - DomViol - Estonian.pdf",
+     "expected_ocr_file": "54. Estonia - DomViol - Estonian__ocr.txt",
+     "failed": [{"rule": "S1_scanned_pdf", "value": 1.0, "limit": 0.5}]}
+  ],
+  "eliminated": [
+    {"stem": "2. Albania - DomViol - Albanian (b)", "source_format": "pdf",
+     "failed": [{"rule": "C6_glued_words", "value": 25.198, "limit": 1.0}]}
+  ]
+}
+```
+
+| Field | Meaning |
 |---|---|
-| `summary` | counts: files, passed, needs_ocr, eliminated, fixed, flagged_for_review, by_source_format, not_extracted |
-| `eliminated` | `{stem, source_format, extracted_file, reason}` |
-| `needs_ocr` | `{stem, pdf, extracted_file, reason, expected_ocr_file}` |
-| `not_extracted` | originals in `raw_files/` with no extracted text yet |
-| `unrecognized_files` | files in `extracted_txt/` without a known marker (ignored) |
-| `files` | per policy: `status`, `source_format`, `extracted_file`, `fixes_applied`, `fix_rejected`, `findings_before`, `findings_after`, `metrics`, `review`, `duplicate_of`, `superseded`, `cleaned_file` |
-| `thresholds` | the thresholds used (defaults plus your overrides) |
+| `failed[].rule` | the indicator (table above); a severe corruption rule that survives fixing is shown under its own name, e.g. `C6_glued_words`, not `R4_C6_...` |
+| `failed[].value` / `limit` | what was measured, and the threshold it was compared with (so it is clear how far off it is) |
+| `needs_ocr[].expected_ocr_file` | the name to give the OCR text in `extracted_txt/` |
+| `warnings` | present **only** when needed: `not_extracted` (originals with no extracted text yet) and `unrecognized_files` (files in `extracted_txt/` without a known marker) |
+
+Details that used to be in the report — fixes applied, findings before / after, metrics, review
+flags, ignored sources — are still computed (`pipeline.analyze()` returns them) but are not written.
 
 ## Languages
 
@@ -111,8 +130,7 @@ Every policy is judged as its own language:
 - The corpus-relative unique-word metric (OCR text only) is computed per language and needs more than
   10 other files of the same language.
 
-The tables live in `quality/metrics.py`; add a language there to give it its own script or rules. The
-report records each file's `language` and `summary.by_language`.
+The tables live in `quality/metrics.py`; add a language there to give it its own script or rules.
 
 ## The `scripts/` folder
 

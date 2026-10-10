@@ -74,6 +74,7 @@ class FileOutcome:
     extracted_file: str
     status: str
     reason: str = ""
+    failed: list[dict] = field(default_factory=list)
     fixes_applied: list[str] = field(default_factory=list)
     fix_rejected: str = ""
     findings_before: dict = field(default_factory=dict)
@@ -165,13 +166,18 @@ def _measure(text: str, profile, doc_freq, n_docs: int, pdf_info: dict | None) -
     return m
 
 
-def check_all(
-    config: InputProcessConfig,
-    *,
-    write_cleaned: bool = True,
-    small_scale: bool = False,
-) -> dict:
-    """Run the quality check over ``extracted_txt/`` and return (and write) the report."""
+@dataclass
+class Analysis:
+    """Everything the quality check found, in full detail (the report keeps only a slice)."""
+
+    outcomes: dict[str, FileOutcome]
+    cleaned: dict[str, str]
+    unmarked: list[str]
+    missing: list[str]
+
+
+def analyze(config: InputProcessConfig, *, small_scale: bool = False) -> Analysis:
+    """Check, fix and re-check every text in ``extracted_txt/``. Writes nothing."""
     thresholds = resolve_thresholds(config.thresholds)
     groups, unmarked = group_extracted(config.extracted_txt_dir)
     if small_scale:
@@ -229,6 +235,7 @@ def check_all(
             extracted_file=path.name,
             status=verdict.status,
             reason=verdict.reason,
+            failed=verdict.failed,
             fixes_applied=applied,
             fix_rejected=rejected,
             findings_before=before,
@@ -259,10 +266,21 @@ def check_all(
             first_seen[digest] = stem
 
     missing = _missing_extraction(config, groups, small_scale)
-    report = _build_report(config, thresholds, outcomes, unmarked, missing)
+    return Analysis(outcomes, cleaned, unmarked, missing)
+
+
+def check_all(
+    config: InputProcessConfig,
+    *,
+    write_cleaned: bool = True,
+    small_scale: bool = False,
+) -> dict:
+    """Run the quality check over ``extracted_txt/``; write ``cleaned_txt/`` and the report."""
+    result = analyze(config, small_scale=small_scale)
+    report = build_report(config, result)
 
     if write_cleaned:
-        _write_cleaned(config.cleaned_txt_dir, cleaned)
+        _write_cleaned(config.cleaned_txt_dir, result.cleaned)
     config.report_path.parent.mkdir(parents=True, exist_ok=True)
     config.report_path.write_text(
         json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
@@ -296,49 +314,38 @@ def _write_cleaned(cleaned_dir: Path, cleaned: dict[str, str]) -> None:
         (cleaned_dir / f"{stem}.txt").write_text(text, encoding="utf-8", newline="")
 
 
-def _build_report(config, thresholds, outcomes, unmarked, missing) -> dict:
-    files = {stem: _outcome_dict(o) for stem, o in outcomes.items()}
+def build_report(config: InputProcessConfig, result: Analysis) -> dict:
+    """The report: counts, then only the files that did not pass and the indicators they failed.
+
+    Passed files are not listed. Fixes, review flags and metrics stay in the
+    full `Analysis`; `warnings` appears only when something needs attention
+    (originals that were never extracted, files with no known marker).
+    """
+    outcomes = result.outcomes
     by_status = Counter(o.status for o in outcomes.values())
-    by_format = Counter(o.source_format for o in outcomes.values())
-    return {
+    report = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "project": config.project,
-        "language": config.language,
-        "language_pattern": config.language_pattern,
-        "thresholds": thresholds,
         "summary": {
             "files": len(outcomes),
             "passed": by_status[PASS],
             "needs_ocr": by_status[NEEDS_OCR],
             "eliminated": by_status[ELIMINATE],
-            "fixed": sum(1 for o in outcomes.values() if o.status == PASS and o.fixes_applied),
-            "flagged_for_review": sum(1 for o in outcomes.values() if o.review),
-            "by_source_format": dict(sorted(by_format.items())),
-            "by_language": {
-                lang: {"files": sum(1 for o in outcomes.values() if o.language == lang),
-                       "eliminated": sum(1 for o in outcomes.values() if o.language == lang and o.status == ELIMINATE),
-                       "needs_ocr": sum(1 for o in outcomes.values() if o.language == lang and o.status == NEEDS_OCR)}
-                for lang in sorted({o.language for o in outcomes.values()})
-            },
-            "not_extracted": len(missing),
         },
-        "eliminated": [
-            {"stem": o.stem, "source_format": o.source_format, "extracted_file": o.extracted_file,
-             "reason": o.reason}
-            for o in outcomes.values() if o.status == ELIMINATE
-        ],
         "needs_ocr": [
-            {"stem": o.stem, "pdf": o.pdf, "extracted_file": o.extracted_file, "reason": o.reason,
-             "expected_ocr_file": o.expected_ocr_file}
+            {"stem": o.stem, "pdf": o.pdf, "expected_ocr_file": o.expected_ocr_file, "failed": o.failed}
             for o in outcomes.values() if o.status == NEEDS_OCR
         ],
-        "not_extracted": missing,
-        "unrecognized_files": unmarked,
-        "files": files,
+        "eliminated": [
+            {"stem": o.stem, "source_format": o.source_format, "failed": o.failed}
+            for o in outcomes.values() if o.status == ELIMINATE
+        ],
     }
-
-
-def _outcome_dict(o: FileOutcome) -> dict:
-    d = {k: v for k, v in o.__dict__.items() if v not in ("", [], {}, None)}
-    d["status"] = o.status  # always present
-    return d
+    warnings = {}
+    if result.missing:
+        warnings["not_extracted"] = result.missing
+    if result.unmarked:
+        warnings["unrecognized_files"] = result.unmarked
+    if warnings:
+        report["warnings"] = warnings
+    return report

@@ -193,8 +193,9 @@ def fix_plan(findings: Mapping) -> list[str]:
 
 
 # --------------------------------------------------------------------------- decisions
-def ocr_decision(m: Mapping, t: Mapping = THRESHOLDS) -> tuple[bool, str]:
-    """(needs_ocr, reason). Only a PDF-sourced text can need OCR.
+def ocr_findings(m: Mapping, t: Mapping = THRESHOLDS) -> tuple[str, dict]:
+    """(rule code, the findings behind it); ``("", {})`` when no OCR is needed.
+    Only a PDF-sourced text can need OCR.
 
       O1  scanned PDF whose text has SEVERE corruption or is missing pages
       O2  PDF with a text layer that decodes to the wrong script / garbage /
@@ -204,18 +205,24 @@ def ocr_decision(m: Mapping, t: Mapping = THRESHOLDS) -> tuple[bool, str]:
     Minor noise on a scanned PDF does not need OCR.
     """
     if m.get("source_format") != "pdf":
-        return False, ""
+        return "", {}
     cov = coverage_findings(m, t)
     severe = _only(corruption_findings(m, t), SEVERE)
     if "S1_scanned_pdf" in cov and (severe or "S2_missing_pages" in cov):
-        return True, "O1:" + _fmt({**cov, **severe})
+        return "O1", {**cov, **severe}
     bad_layer = {k: v for k, v in severe.items()
                  if k in ("C1_wrong_script", "C2_garbage_chars", "C3_noisy_tokens")}
     if bad_layer:
-        return True, "O2:" + _fmt(bad_layer)
+        return "O2", bad_layer
     if "S2_missing_pages" in cov:
-        return True, "O3:" + _fmt(cov)
-    return False, ""
+        return "O3", cov
+    return "", {}
+
+
+def ocr_decision(m: Mapping, t: Mapping = THRESHOLDS) -> tuple[bool, str]:
+    """(needs_ocr, reason string), see `ocr_findings`."""
+    code, found = ocr_findings(m, t)
+    return (True, f"{code}:{_fmt(found)}") if code else (False, "")
 
 
 def removal_reasons(m: Mapping, t: Mapping = THRESHOLDS, *, ocr_derived: bool = False) -> dict:
@@ -232,12 +239,44 @@ def removal_reasons(m: Mapping, t: Mapping = THRESHOLDS, *, ocr_derived: bool = 
     return remove
 
 
+#: The threshold each rule is compared with, for the report.
+RULE_LIMITS = {
+    "S1_scanned_pdf": "scanned_page_ratio",
+    "S2_missing_pages": "min_letters_per_pdf_page",
+    "C1_wrong_script": "min_expected_script_ratio",
+    "C2_garbage_chars": "max_garbage_char_ratio",
+    "C3_noisy_tokens": "noisy_token_severe",
+    "C4_unique_words": "unique_word_severe",
+    "C6_glued_words": "max_glued_tokens_per_1k",
+    "C7_mojibake": "max_mojibake_per_1k_lines",
+    "C8_lost_diacritics": "min_diacritic_ratio",
+    "R1_letters": "min_letters",
+    "R2_prose_letters": "min_prose_letters",
+    "R3_paywall_markers": "max_paywall_markers",
+}
+
+
+def indicators(found: Mapping, t: Mapping = THRESHOLDS) -> list[dict]:
+    """The failed indicators as ``[{"rule", "value", "limit"}]``.
+
+    ``R4_`` (a severe corruption rule that survived fixing) is shown under the
+    corruption rule's own name; `limit` is the threshold the value was compared with.
+    """
+    out = []
+    for rule, raw in found.items():
+        value = raw[0] if isinstance(raw, tuple) else raw
+        name = rule[3:] if rule.startswith("R4_") else rule
+        out.append({"rule": name, "value": value, "limit": t.get(RULE_LIMITS.get(name, ""))})
+    return out
+
+
 @dataclass
 class Verdict:
     status: str                      # PASS | NEEDS_OCR | ELIMINATE
     reason: str = ""                 # rule IDs with values; empty for a clean PASS
     findings: dict = field(default_factory=dict)  # every fired C/P/S rule
     review: str = ""                 # non-blocking flag (R6 numbering disorder)
+    failed: list = field(default_factory=list)  # indicators behind NEEDS_OCR / ELIMINATE
 
 
 def decide(m: Mapping, source_format: str, t: Mapping = THRESHOLDS) -> Verdict:
@@ -249,13 +288,13 @@ def decide(m: Mapping, source_format: str, t: Mapping = THRESHOLDS) -> Verdict:
     ocr_derived = source_format == "ocr"
     findings = all_findings(m, t, ocr_derived=ocr_derived)
 
-    needs_ocr, ocr_reason = ocr_decision(m, t)
-    if needs_ocr:
-        return Verdict("NEEDS_OCR", ocr_reason, findings)
+    code, ocr_found = ocr_findings(m, t)
+    if code:
+        return Verdict("NEEDS_OCR", f"{code}:{_fmt(ocr_found)}", findings, failed=indicators(ocr_found, t))
 
     reasons = removal_reasons(m, t, ocr_derived=ocr_derived)
     if reasons:
-        return Verdict("ELIMINATE", _fmt(reasons), findings)
+        return Verdict("ELIMINATE", _fmt(reasons), findings, failed=indicators(reasons, t))
 
     review = ""
     if (m.get("n_unit_numbers") or 0) >= t["order_min_units"] and (

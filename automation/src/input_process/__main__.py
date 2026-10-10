@@ -46,12 +46,11 @@ def _cmd_extract(args: argparse.Namespace, config) -> int:
 def _print_report_summary(report: dict, config) -> None:
     s = report["summary"]
     print(
-        f"Quality check: {s['files']} file(s) -> {s['passed']} passed "
-        f"({s['fixed']} fixed, {s['flagged_for_review']} flagged for review), "
+        f"Quality check: {s['files']} file(s) -> {s['passed']} passed, "
         f"{s['needs_ocr']} need OCR, {s['eliminated']} eliminated"
     )
-    if s["not_extracted"]:
-        print(f"  {s['not_extracted']} original(s) have no extracted text yet (see report)")
+    for name, items in report.get("warnings", {}).items():
+        print(f"  warning: {len(items)} {name.replace('_', ' ')} (see report)")
     for entry in report["needs_ocr"]:
         print(f"  needs OCR: {entry['pdf'] or entry['stem']} -> put the OCR text in "
               f"{config.extracted_txt_dir / entry['expected_ocr_file']}")

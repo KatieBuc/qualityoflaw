@@ -5,7 +5,7 @@ import pytest
 
 from automation.src.input_process.__main__ import main
 from automation.src.input_process.config import parse_input_process_config
-from automation.src.input_process.pipeline import check_all
+from automation.src.input_process.pipeline import analyze, check_all
 from automation.tests.test_input_process_quality import statute
 
 REPEATED = "Salinan resmi peraturan daerah kabupaten contoh nomor lima"
@@ -48,6 +48,10 @@ def cleaned(config):
     return sorted(p.name for p in config.cleaned_txt_dir.glob("*.txt")) if config.cleaned_txt_dir.is_dir() else []
 
 
+def rules(entry):
+    return {f["rule"]: f for f in entry["failed"]}
+
+
 # --------------------------------------------------------------------------- sorting files
 def test_a_clean_text_passes_into_cleaned_txt_without_its_marker(config):
     put(config, "ACEH_BIREUEN", "txt", statute())
@@ -55,24 +59,36 @@ def test_a_clean_text_passes_into_cleaned_txt_without_its_marker(config):
     report = check_all(config)
 
     assert cleaned(config) == ["ACEH_BIREUEN.txt"]
-    assert report["summary"]["passed"] == 1 and report["summary"]["by_source_format"] == {"txt": 1}
-    entry = report["files"]["ACEH_BIREUEN"]
-    assert entry["status"] == "PASS" and entry["source_format"] == "txt"
-    assert entry["extracted_file"] == "ACEH_BIREUEN__txt.txt" and entry["cleaned_file"] == "ACEH_BIREUEN.txt"
+    assert report["summary"] == {"files": 1, "passed": 1, "needs_ocr": 0, "eliminated": 0}
     assert "Pasal 3" in (config.cleaned_txt_dir / "ACEH_BIREUEN.txt").read_text(encoding="utf-8")
+    outcome = analyze(config).outcomes["ACEH_BIREUEN"]
+    assert outcome.extracted_file == "ACEH_BIREUEN__txt.txt" and outcome.cleaned_file == "ACEH_BIREUEN.txt"
 
 
-def test_an_unusable_text_is_eliminated_and_reported_with_its_rules(config):
+def test_passed_files_are_not_listed_in_the_report(config):
+    put(config, "GOOD", "txt", statute())
+    put(config, "TINY", "txt", "Pasal 1\nsingkat.")
+
+    report = check_all(config)
+
+    assert "GOOD" not in json.dumps(report)
+    assert [e["stem"] for e in report["eliminated"]] == ["TINY"]
+
+
+def test_an_eliminated_file_lists_the_indicators_it_failed_with_value_and_limit(config):
     put(config, "BAD", "txt", statute() + "\n" + "�" * 400)
     put(config, "TINY", "txt", "Pasal 1\nsingkat.")
 
     report = check_all(config)
 
     assert cleaned(config) == []
-    assert {e["stem"] for e in report["eliminated"]} == {"BAD", "TINY"}
-    bad = next(e for e in report["eliminated"] if e["stem"] == "BAD")
-    assert bad["source_format"] == "txt" and "R4_C2_garbage_chars" in bad["reason"]
     assert report["summary"]["eliminated"] == 2
+    bad = next(e for e in report["eliminated"] if e["stem"] == "BAD")
+    assert bad["source_format"] == "txt"
+    garbage = rules(bad)["C2_garbage_chars"]  # shown under its own name, not "R4_C2_..."
+    assert garbage["value"] > 0.003 and garbage["limit"] == 0.003
+    tiny = rules(next(e for e in report["eliminated"] if e["stem"] == "TINY"))
+    assert tiny["R1_letters"]["value"] < 1000 and tiny["R1_letters"]["limit"] == 1000
 
 
 def test_a_scanned_pdf_is_listed_as_needing_ocr_with_the_file_name_to_supply(config):
@@ -81,18 +97,13 @@ def test_a_scanned_pdf_is_listed_as_needing_ocr_with_the_file_name_to_supply(con
 
     report = check_all(config)
 
-    assert cleaned(config) == []
-    assert report["needs_ocr"] == [
-        {
-            "stem": "SCAN",
-            "pdf": "SCAN.pdf",
-            "extracted_file": "SCAN__pdf.txt",
-            "reason": report["files"]["SCAN"]["reason"],
-            "expected_ocr_file": "SCAN__ocr.txt",
-        }
-    ]
-    assert report["needs_ocr"][0]["reason"].startswith("O1")
-    assert report["summary"]["needs_ocr"] == 1 and report["eliminated"] == []
+    assert cleaned(config) == [] and report["eliminated"] == []
+    assert report["summary"]["needs_ocr"] == 1
+    [entry] = report["needs_ocr"]
+    assert set(entry) == {"stem", "pdf", "expected_ocr_file", "failed"}
+    assert (entry["stem"], entry["pdf"], entry["expected_ocr_file"]) == ("SCAN", "SCAN.pdf", "SCAN__ocr.txt")
+    scanned = rules(entry)["S1_scanned_pdf"]
+    assert scanned["value"] == 1.0 and scanned["limit"] == 0.5
 
 
 def test_ocr_round_trip_supersedes_the_pdf_text_on_the_next_run(config):
@@ -104,9 +115,9 @@ def test_ocr_round_trip_supersedes_the_pdf_text_on_the_next_run(config):
     report = check_all(config)
 
     assert report["needs_ocr"] == [] and cleaned(config) == ["SCAN.txt"]
-    entry = report["files"]["SCAN"]
-    assert entry["source_format"] == "ocr" and entry["status"] == "PASS"
-    assert entry["superseded"] == ["SCAN__pdf.txt"]
+    outcome = analyze(config).outcomes["SCAN"]
+    assert outcome.source_format == "ocr" and outcome.status == "PASS"
+    assert outcome.superseded == ["SCAN__pdf.txt"]
 
 
 def test_ocr_output_that_is_still_unusable_is_eliminated_not_sent_back_to_ocr(config):
@@ -130,10 +141,9 @@ def test_a_text_pdf_passes_without_ocr(config):
     doc.close()
     put(config, "GOOD", "pdf", statute(16))
 
-    report = check_all(config)
+    outcome = analyze(config).outcomes["GOOD"]
 
-    assert report["files"]["GOOD"]["status"] == "PASS"
-    assert report["files"]["GOOD"]["metrics"]["pdf_pages"] == 2
+    assert outcome.status == "PASS" and outcome.metrics["pdf_pages"] == 2
 
 
 # --------------------------------------------------------------------------- fix + re-check
@@ -141,31 +151,29 @@ def test_boilerplate_is_fixed_and_the_text_is_measured_again(config):
     chrome = "\n".join(["Beranda", "Kebijakan Privasi", "Hubungi Kami"] * 6)
     put(config, "WEB", "html", statute() + "\n" + chrome)
 
-    report = check_all(config)
+    check_all(config)
+    outcome = analyze(config).outcomes["WEB"]
 
-    entry = report["files"]["WEB"]
-    assert entry["status"] == "PASS"
-    assert "strip_boilerplate" in entry["fixes_applied"]
-    assert "P1_web_chrome" in entry["findings_before"]
-    assert "P1_web_chrome" not in entry.get("findings_after", {})  # re-checked after fixing
+    assert outcome.status == "PASS" and "strip_boilerplate" in outcome.fixes_applied
+    assert "P1_web_chrome" in outcome.findings_before
+    assert "P1_web_chrome" not in outcome.findings_after  # re-checked after fixing
     assert "Beranda" not in (config.cleaned_txt_dir / "WEB.txt").read_text(encoding="utf-8")
 
 
 def test_a_fix_that_removes_too_much_is_discarded(config):
-    text = statute() + "\n" + "\n".join([REPEATED] * 70)  # the repeats outweigh 30 % of the letters
-    put(config, "REPEAT", "txt", text)
+    put(config, "REPEAT", "txt", statute() + "\n" + "\n".join([REPEATED] * 70))  # > 30 % of the letters
 
-    report = check_all(config)
+    check_all(config)
+    outcome = analyze(config).outcomes["REPEAT"]
 
-    entry = report["files"]["REPEAT"]
-    assert entry["fix_rejected"].startswith("K2_letter_loss")
-    assert "strip_boilerplate" not in entry.get("fixes_applied", [])
+    assert outcome.fix_rejected.startswith("K2_letter_loss")
+    assert "strip_boilerplate" not in outcome.fixes_applied
     assert (config.cleaned_txt_dir / "REPEAT.txt").read_text(encoding="utf-8").count(REPEATED) == 70
 
 
 def test_already_clean_text_needs_no_fix(config):
     put(config, "OK", "txt", statute())
-    assert "fixes_applied" not in check_all(config)["files"]["OK"]
+    assert analyze(config).outcomes["OK"].fixes_applied == []
 
 
 # --------------------------------------------------------------------------- re-run behaviour
@@ -192,39 +200,39 @@ def test_report_only_leaves_cleaned_txt_alone_but_writes_the_report(config):
 
 def test_precedence_prefers_ocr_then_txt_then_html_then_pdf(config):
     put(config, "P", "pdf", statute())
-    assert check_all(config)["files"]["P"]["source_format"] == "pdf"
+    assert analyze(config).outcomes["P"].source_format == "pdf"
     put(config, "P", "html", statute())
-    assert check_all(config)["files"]["P"]["source_format"] == "html"
+    assert analyze(config).outcomes["P"].source_format == "html"
     put(config, "P", "txt", statute())
-    assert check_all(config)["files"]["P"]["source_format"] == "txt"
+    assert analyze(config).outcomes["P"].source_format == "txt"
     put(config, "P", "ocr", statute())
-    entry = check_all(config)["files"]["P"]
-    assert entry["source_format"] == "ocr" and entry["superseded"] == ["P__html.txt", "P__pdf.txt", "P__txt.txt"]
+    outcome = analyze(config).outcomes["P"]
+    assert outcome.source_format == "ocr" and outcome.superseded == ["P__html.txt", "P__pdf.txt", "P__txt.txt"]
 
 
-def test_exact_duplicates_are_flagged_but_both_kept(config):
+def test_a_supplied_txt_is_used_when_the_pdf_of_the_same_policy_is_scanned(config):
+    """The real case in data/indonesia: 10 scanned PDFs already have a good .txt."""
+    image_only_pdf(config, "BOTH.pdf")
+    put(config, "BOTH", "pdf", "")
+    put(config, "BOTH", "txt", statute())
+
+    report = check_all(config)
+
+    assert report["needs_ocr"] == [] and cleaned(config) == ["BOTH.txt"]
+    outcome = analyze(config).outcomes["BOTH"]
+    assert outcome.source_format == "txt" and outcome.superseded == ["BOTH__pdf.txt"]
+
+
+def test_exact_duplicates_are_flagged_internally_but_both_kept(config):
     put(config, "A_ONE", "txt", statute())
     put(config, "B_TWO", "txt", statute())
 
-    report = check_all(config)
+    check_all(config)
+    outcomes = analyze(config).outcomes
 
     assert cleaned(config) == ["A_ONE.txt", "B_TWO.txt"]
-    assert report["files"]["B_TWO"]["duplicate_of"] == "A_ONE"
-    assert "duplicate_of=A_ONE" in report["files"]["B_TWO"]["review"]
-    assert "duplicate_of" not in report["files"]["A_ONE"]
-    assert report["summary"]["flagged_for_review"] == 1
-
-
-def test_originals_without_extracted_text_and_unmarked_files_are_listed(config):
-    (config.raw_files_dir / "MISSING.pdf").write_bytes(b"%PDF")
-    (config.raw_files_dir / "HAS.txt").write_text("x", encoding="utf-8")
-    put(config, "HAS", "txt", statute())
-    (config.extracted_txt_dir / "stray.txt").write_text("no marker", encoding="utf-8")
-
-    report = check_all(config)
-
-    assert report["not_extracted"] == ["MISSING.pdf"] and report["summary"]["not_extracted"] == 1
-    assert report["unrecognized_files"] == ["stray.txt"]
+    assert outcomes["B_TWO"].duplicate_of == "A_ONE" and "duplicate_of=A_ONE" in outcomes["B_TWO"].review
+    assert outcomes["A_ONE"].duplicate_of == ""
 
 
 def test_small_scale_checks_only_the_configured_stems(config):
@@ -233,13 +241,13 @@ def test_small_scale_checks_only_the_configured_stems(config):
 
     report = check_all(config, small_scale=True)
 
-    assert list(report["files"]) == ["A"] and cleaned(config) == ["A.txt"]
+    assert report["summary"]["files"] == 1 and cleaned(config) == ["A.txt"]
 
 
 def test_threshold_overrides_change_the_outcome(config):
     short = "Pasal 1\nBupati menetapkan peraturan daerah ini dengan sebaik-baiknya demi kepentingan bersama."
     put(config, "SHORT", "txt", short)
-    assert check_all(config)["files"]["SHORT"]["status"] == "ELIMINATE"
+    assert check_all(config)["summary"]["eliminated"] == 1
 
     relaxed = parse_input_process_config(
         {
@@ -253,24 +261,38 @@ def test_threshold_overrides_change_the_outcome(config):
             },
         }
     )
-    assert check_all(relaxed)["files"]["SHORT"]["status"] == "PASS"
+    assert check_all(relaxed)["summary"] == {"files": 1, "passed": 1, "needs_ocr": 0, "eliminated": 0}
 
 
-def test_report_schema(config):
+# --------------------------------------------------------------------------- report
+def test_report_has_only_counts_and_the_files_that_did_not_pass(config):
     put(config, "OK", "txt", statute())
+    put(config, "BAD", "txt", "Pasal 1\npendek.")
+    image_only_pdf(config, "SCAN.pdf")
+    put(config, "SCAN", "pdf", "")
+
     report = check_all(config)
 
-    assert set(report) == {
-        "generated_at", "project", "language", "language_pattern", "thresholds", "summary", "eliminated",
-        "needs_ocr", "not_extracted", "unrecognized_files", "files",
-    }
-    assert report["project"] == "demo" and report["language"] == "Indonesian"
-    assert report["thresholds"]["min_letters"] == 1000
-    assert set(report["summary"]) == {
-        "files", "passed", "needs_ocr", "eliminated", "fixed", "flagged_for_review",
-        "by_source_format", "by_language", "not_extracted",
-    }
+    assert set(report) == {"generated_at", "project", "summary", "needs_ocr", "eliminated"}
+    assert report["project"] == "demo"
+    assert set(report["summary"]) == {"files", "passed", "needs_ocr", "eliminated"}
+    assert report["summary"] == {"files": 3, "passed": 1, "needs_ocr": 1, "eliminated": 1}
+    for entry in report["needs_ocr"] + report["eliminated"]:
+        for failed in entry["failed"]:
+            assert set(failed) == {"rule", "value", "limit"}
     json.dumps(report)  # fully serialisable
+
+
+def test_warnings_appear_only_when_there_is_something_to_say(config):
+    put(config, "OK", "txt", statute())
+    assert "warnings" not in check_all(config)
+
+    (config.raw_files_dir / "MISSING.pdf").write_bytes(b"%PDF")
+    (config.extracted_txt_dir / "stray.txt").write_text("no marker", encoding="utf-8")
+
+    report = check_all(config)
+
+    assert report["warnings"] == {"not_extracted": ["MISSING.pdf"], "unrecognized_files": ["stray.txt"]}
 
 
 # --------------------------------------------------------------------------- CLI
@@ -292,20 +314,7 @@ def test_cli_run_extracts_checks_and_prints_the_ocr_instructions(config, tmp_pat
 
     out = capsys.readouterr().out
     assert code == 0
-    assert "1 passed" in out and "1 need OCR" in out and "1 eliminated" in out
+    assert "1 passed, 1 need OCR, 1 eliminated" in out
     assert "SCAN__ocr.txt" in out
     assert cleaned(config) == ["GOOD.txt"]
     assert json.loads(config.report_path.read_text(encoding="utf-8"))["needs_ocr"][0]["pdf"] == "SCAN.pdf"
-
-
-def test_a_supplied_txt_is_used_when_the_pdf_of_the_same_policy_is_scanned(config):
-    """The real case in data/indonesia: 10 scanned PDFs already have a good .txt."""
-    image_only_pdf(config, "BOTH.pdf")
-    put(config, "BOTH", "pdf", "")
-    put(config, "BOTH", "txt", statute())
-
-    report = check_all(config)
-
-    assert report["needs_ocr"] == [] and cleaned(config) == ["BOTH.txt"]
-    entry = report["files"]["BOTH"]
-    assert entry["source_format"] == "txt" and entry["superseded"] == ["BOTH__pdf.txt"]
