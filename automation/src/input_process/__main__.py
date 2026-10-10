@@ -4,6 +4,7 @@
     python -m automation.src.input_process extract [--small-scale]
     python -m automation.src.input_process check [--report-only] [--small-scale]
     python -m automation.src.input_process run [--small-scale]      # extract + check
+    python -m automation.src.input_process tidy [--dry-run]         # one-off clean-up of extracted_txt
 """
 
 import argparse
@@ -14,7 +15,7 @@ from automation.src.constants import DEFAULT_PIPELINE_CONFIG
 from automation.src.input_process.config import load_input_process_config
 from automation.src.input_process.extract import extract_all
 from automation.src.input_process.migrate import migrate_raw
-from automation.src.input_process.pipeline import check_all
+from automation.src.input_process.pipeline import check_all, tidy_extracted
 
 
 def _cmd_migrate_raw(args: argparse.Namespace, config) -> int:
@@ -46,15 +47,24 @@ def _cmd_extract(args: argparse.Namespace, config) -> int:
 def _print_report_summary(report: dict, config) -> None:
     s = report["summary"]
     print(
-        f"Quality check: {s['files']} file(s) -> {s['passed']} passed, "
+        f"Quality check: {s['files']} policy(ies) -> {s['passed']} in cleaned_txt, "
         f"{s['needs_ocr']} need OCR, {s['eliminated']} eliminated"
     )
+    for line in report.get("adopted", []):
+        print(f"  moved by hand into cleaned_txt: {line}")
     for name, items in report.get("warnings", {}).items():
         print(f"  warning: {len(items)} {name.replace('_', ' ')} (see report)")
     for entry in report["needs_ocr"]:
         print(f"  needs OCR: {entry['pdf'] or entry['stem']} -> put the OCR text in "
               f"{config.extracted_txt_dir / entry['expected_ocr_file']}")
     print(f"Report: {config.report_path}")
+
+
+def _cmd_tidy(args: argparse.Namespace, config) -> int:
+    removed = tidy_extracted(config, dry_run=args.dry_run)
+    verb = "Would remove" if args.dry_run else "Removed"
+    print(f"{verb} {len(removed)} extracted file(s) of policies already in {config.cleaned_txt_dir}")
+    return 0
 
 
 def _cmd_check(args: argparse.Namespace, config) -> int:
@@ -101,6 +111,13 @@ def build_parser() -> argparse.ArgumentParser:
     check.add_argument("--report-only", action="store_true", help="Write the report, leave cleaned_txt/ alone.")
     check.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
     check.set_defaults(func=_cmd_check)
+
+    tidy = sub.add_parser(
+        "tidy",
+        help="Remove extracted files of policies already in cleaned_txt (one-off, for data from before).",
+    )
+    tidy.add_argument("--dry-run", action="store_true")
+    tidy.set_defaults(func=_cmd_tidy)
 
     run = sub.add_parser("run", help="extract, then check.")
     run.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")

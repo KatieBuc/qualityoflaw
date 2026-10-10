@@ -48,6 +48,10 @@ def cleaned(config):
     return sorted(p.name for p in config.cleaned_txt_dir.glob("*.txt")) if config.cleaned_txt_dir.is_dir() else []
 
 
+def extracted(config):
+    return sorted(p.name for p in config.extracted_txt_dir.glob("*.txt"))
+
+
 def rules(entry):
     return {f["rule"]: f for f in entry["failed"]}
 
@@ -55,13 +59,13 @@ def rules(entry):
 # --------------------------------------------------------------------------- sorting files
 def test_a_clean_text_passes_into_cleaned_txt_without_its_marker(config):
     put(config, "ACEH_BIREUEN", "txt", statute())
+    outcome = analyze(config).outcomes["ACEH_BIREUEN"]  # analyze writes nothing
 
     report = check_all(config)
 
     assert cleaned(config) == ["ACEH_BIREUEN.txt"]
     assert report["summary"] == {"files": 1, "passed": 1, "needs_ocr": 0, "eliminated": 0}
     assert "Pasal 3" in (config.cleaned_txt_dir / "ACEH_BIREUEN.txt").read_text(encoding="utf-8")
-    outcome = analyze(config).outcomes["ACEH_BIREUEN"]
     assert outcome.extracted_file == "ACEH_BIREUEN__txt.txt" and outcome.cleaned_file == "ACEH_BIREUEN.txt"
 
 
@@ -110,14 +114,16 @@ def test_ocr_round_trip_supersedes_the_pdf_text_on_the_next_run(config):
     image_only_pdf(config, "SCAN.pdf")
     put(config, "SCAN", "pdf", "")
     assert check_all(config)["summary"]["needs_ocr"] == 1
+    assert extracted(config) == ["SCAN__pdf.txt"]
 
     put(config, "SCAN", "ocr", statute())  # the user's OCR result
+    outcome = analyze(config).outcomes["SCAN"]
     report = check_all(config)
 
     assert report["needs_ocr"] == [] and cleaned(config) == ["SCAN.txt"]
-    outcome = analyze(config).outcomes["SCAN"]
     assert outcome.source_format == "ocr" and outcome.status == "PASS"
     assert outcome.superseded == ["SCAN__pdf.txt"]
+    assert extracted(config) == []  # the OCR text and the PDF text both left extracted_txt
 
 
 def test_ocr_output_that_is_still_unusable_is_eliminated_not_sent_back_to_ocr(config):
@@ -150,9 +156,9 @@ def test_a_text_pdf_passes_without_ocr(config):
 def test_boilerplate_is_fixed_and_the_text_is_measured_again(config):
     chrome = "\n".join(["Beranda", "Kebijakan Privasi", "Hubungi Kami"] * 6)
     put(config, "WEB", "html", statute() + "\n" + chrome)
+    outcome = analyze(config).outcomes["WEB"]
 
     check_all(config)
-    outcome = analyze(config).outcomes["WEB"]
 
     assert outcome.status == "PASS" and "strip_boilerplate" in outcome.fixes_applied
     assert "P1_web_chrome" in outcome.findings_before
@@ -162,9 +168,9 @@ def test_boilerplate_is_fixed_and_the_text_is_measured_again(config):
 
 def test_a_fix_that_removes_too_much_is_discarded(config):
     put(config, "REPEAT", "txt", statute() + "\n" + "\n".join([REPEATED] * 70))  # > 30 % of the letters
+    outcome = analyze(config).outcomes["REPEAT"]
 
     check_all(config)
-    outcome = analyze(config).outcomes["REPEAT"]
 
     assert outcome.fix_rejected.startswith("K2_letter_loss")
     assert "strip_boilerplate" not in outcome.fixes_applied
@@ -177,16 +183,15 @@ def test_already_clean_text_needs_no_fix(config):
 
 
 # --------------------------------------------------------------------------- re-run behaviour
-def test_cleaned_txt_mirrors_the_latest_result(config):
+def test_cleaned_txt_is_never_pruned(config):
     config.cleaned_txt_dir.mkdir()
-    (config.cleaned_txt_dir / "GONE.txt").write_text("old", encoding="utf-8")
-    (config.cleaned_txt_dir / "NOW_BAD.txt").write_text("previously fine", encoding="utf-8")
-    put(config, "NOW_BAD", "txt", "Pasal 1\nterlalu pendek.")
+    (config.cleaned_txt_dir / "EARLIER.txt").write_text("from an earlier run", encoding="utf-8")
     put(config, "FINE", "txt", statute())
 
     check_all(config)
 
-    assert cleaned(config) == ["FINE.txt"]
+    assert cleaned(config) == ["EARLIER.txt", "FINE.txt"]
+    assert (config.cleaned_txt_dir / "EARLIER.txt").read_text(encoding="utf-8") == "from an earlier run"
 
 
 def test_report_only_leaves_cleaned_txt_alone_but_writes_the_report(config):
@@ -215,20 +220,21 @@ def test_a_supplied_txt_is_used_when_the_pdf_of_the_same_policy_is_scanned(confi
     image_only_pdf(config, "BOTH.pdf")
     put(config, "BOTH", "pdf", "")
     put(config, "BOTH", "txt", statute())
+    outcome = analyze(config).outcomes["BOTH"]
 
     report = check_all(config)
 
     assert report["needs_ocr"] == [] and cleaned(config) == ["BOTH.txt"]
-    outcome = analyze(config).outcomes["BOTH"]
     assert outcome.source_format == "txt" and outcome.superseded == ["BOTH__pdf.txt"]
+    assert extracted(config) == []  # the ignored PDF text goes too: the policy is done
 
 
 def test_exact_duplicates_are_flagged_internally_but_both_kept(config):
     put(config, "A_ONE", "txt", statute())
     put(config, "B_TWO", "txt", statute())
+    outcomes = analyze(config).outcomes
 
     check_all(config)
-    outcomes = analyze(config).outcomes
 
     assert cleaned(config) == ["A_ONE.txt", "B_TWO.txt"]
     assert outcomes["B_TWO"].duplicate_of == "A_ONE" and "duplicate_of=A_ONE" in outcomes["B_TWO"].review
@@ -314,7 +320,131 @@ def test_cli_run_extracts_checks_and_prints_the_ocr_instructions(config, tmp_pat
 
     out = capsys.readouterr().out
     assert code == 0
-    assert "1 passed, 1 need OCR, 1 eliminated" in out
+    assert "1 in cleaned_txt, 1 need OCR, 1 eliminated" in out
     assert "SCAN__ocr.txt" in out
     assert cleaned(config) == ["GOOD.txt"]
     assert json.loads(config.report_path.read_text(encoding="utf-8"))["needs_ocr"][0]["pdf"] == "SCAN.pdf"
+
+
+# --------------------------------------------------------------------------- extracted_txt keeps only what is unresolved
+def test_files_that_pass_leave_extracted_txt_and_only_unresolved_ones_stay(config):
+    image_only_pdf(config, "SCAN.pdf")
+    put(config, "SCAN", "pdf", "")
+    put(config, "BAD", "txt", "Pasal 1\npendek.")
+    put(config, "GOOD", "txt", statute())
+    put(config, "GOOD", "pdf", statute())  # an ignored alternative of a passed policy
+
+    check_all(config)
+
+    assert cleaned(config) == ["GOOD.txt"]
+    assert extracted(config) == ["BAD__txt.txt", "SCAN__pdf.txt"]
+
+
+def test_report_only_does_not_move_or_delete_anything(config):
+    put(config, "GOOD", "txt", statute())
+
+    report = check_all(config, write_cleaned=False)
+
+    assert report["summary"]["passed"] == 1  # what would be in cleaned_txt
+    assert extracted(config) == ["GOOD__txt.txt"] and not config.cleaned_txt_dir.exists()
+
+
+def test_a_second_run_changes_nothing_and_counts_every_policy(config):
+    put(config, "GOOD", "txt", statute())
+    put(config, "BAD", "txt", "Pasal 1\npendek.")
+    first = check_all(config)
+    second = check_all(config)
+
+    assert first["summary"] == second["summary"] == {"files": 2, "passed": 1, "needs_ocr": 0, "eliminated": 1}
+    assert cleaned(config) == ["GOOD.txt"] and extracted(config) == ["BAD__txt.txt"]
+
+
+def test_extract_skips_policies_already_in_cleaned_txt(config):
+    from automation.src.input_process.extract import extract_all
+
+    (config.raw_files_dir / "DONE.txt").write_text(statute(), encoding="utf-8")
+    (config.raw_files_dir / "TODO.txt").write_text(statute(), encoding="utf-8")
+    config.cleaned_txt_dir.mkdir()
+    (config.cleaned_txt_dir / "DONE.txt").write_text("already cleaned", encoding="utf-8")
+
+    results = {r.source: r.status for r in extract_all(config)}
+
+    assert results == {"DONE.txt": "skipped_done", "TODO.txt": "extracted"}
+    assert extracted(config) == ["TODO__txt.txt"]
+
+
+# --------------------------------------------------------------------------- moving a file by hand = an exception
+def test_a_file_moved_by_hand_into_cleaned_txt_is_accepted_as_it_is(config):
+    """The per-file exception: drag an eliminated file from extracted_txt to cleaned_txt."""
+    put(config, "BAD", "txt", "Pasal 1\npendek.")
+    assert check_all(config)["summary"]["eliminated"] == 1
+
+    config.cleaned_txt_dir.mkdir(exist_ok=True)
+    (config.extracted_txt_dir / "BAD__txt.txt").rename(config.cleaned_txt_dir / "BAD__txt.txt")  # the user's move
+    report = check_all(config)
+
+    assert cleaned(config) == ["BAD.txt"]  # marker dropped
+    assert (config.cleaned_txt_dir / "BAD.txt").read_text(encoding="utf-8") == "Pasal 1\npendek."  # untouched
+    assert report["eliminated"] == [] and report["summary"] == {"files": 1, "passed": 1, "needs_ocr": 0, "eliminated": 0}
+    assert report["adopted"] == ["BAD__txt.txt -> BAD.txt"]
+
+
+def test_a_moved_file_is_never_renamed_over_an_existing_cleaned_text(config):
+    config.cleaned_txt_dir.mkdir()
+    (config.cleaned_txt_dir / "X.txt").write_text("the accepted text", encoding="utf-8")
+    (config.cleaned_txt_dir / "X__txt.txt").write_text("a newer text", encoding="utf-8")
+
+    report = check_all(config)
+
+    assert (config.cleaned_txt_dir / "X.txt").read_text(encoding="utf-8") == "the accepted text"
+    assert (config.cleaned_txt_dir / "X__txt.txt").exists()
+    assert report["warnings"]["cleaned_txt_conflicts"] == ["X__txt.txt"] and "adopted" not in report
+
+
+def test_report_only_does_not_rename_a_moved_file(config):
+    config.cleaned_txt_dir.mkdir()
+    (config.cleaned_txt_dir / "Y__txt.txt").write_text("accepted", encoding="utf-8")
+
+    report = check_all(config, write_cleaned=False)
+
+    assert cleaned(config) == ["Y__txt.txt"] and report["adopted"] == ["Y__txt.txt -> Y.txt"]
+
+
+def test_extracted_files_of_a_done_policy_are_ignored_and_reported(config):
+    config.cleaned_txt_dir.mkdir()
+    (config.cleaned_txt_dir / "DONE.txt").write_text("already cleaned", encoding="utf-8")
+    put(config, "DONE", "ocr", "Pasal 1\npendek.")  # would be eliminated if it were checked
+
+    report = check_all(config)
+
+    assert report["summary"] == {"files": 1, "passed": 1, "needs_ocr": 0, "eliminated": 0}
+    assert report["warnings"]["already_in_cleaned_txt"] == ["DONE__ocr.txt"]
+    assert extracted(config) == ["DONE__ocr.txt"]  # never deleted behind the user's back
+
+
+def test_cleaned_texts_are_the_reference_corpus_for_the_unique_word_rule(config):
+    """A lone OCR file is compared with the cleaned corpus, not with nothing."""
+    config.cleaned_txt_dir.mkdir()
+    for i in range(12):
+        (config.cleaned_txt_dir / f"C{i}.txt").write_text(statute(), encoding="utf-8")
+    put(config, "OCRFILE", "ocr", statute())
+
+    outcome = analyze(config).outcomes["OCRFILE"]
+
+    assert "corpus_unique_word_ratio" in outcome.metrics
+
+
+def test_tidy_removes_extracted_files_of_policies_already_in_cleaned_txt(config):
+    from automation.src.input_process.pipeline import tidy_extracted
+
+    config.cleaned_txt_dir.mkdir()
+    (config.cleaned_txt_dir / "DONE.txt").write_text("x", encoding="utf-8")
+    put(config, "DONE", "txt", "x")
+    put(config, "DONE", "pdf", "x")
+    put(config, "OPEN", "txt", "x")
+
+    assert tidy_extracted(config, dry_run=True) == ["DONE__pdf.txt", "DONE__txt.txt"]
+    assert len(extracted(config)) == 3  # dry run
+
+    assert tidy_extracted(config) == ["DONE__pdf.txt", "DONE__txt.txt"]
+    assert extracted(config) == ["OPEN__txt.txt"]

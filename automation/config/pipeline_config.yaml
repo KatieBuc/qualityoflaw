@@ -81,6 +81,10 @@ input_process:
   # multilingual corpora. GlobalLaws names look like "10. Azerbaijan - DomViol - Azerbaijani - html".
   # Names it does not match (e.g. ACEH_BIREUEN) fall back to `language`.
   language_pattern: 'DomViol - ([A-Za-z]+)'
+  # Which folder stage 1.2 (TXT -> Markdown) converts: "cleaned_txt" (default, this stage's
+  # output) or "gold" (hand-cleaned texts in data/<project>/raw/gold, or gold_dir).
+  markdown_source: cleaned_txt
+  # gold_dir: data/global/raw/gold
   # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
   # extracted_txt_dir: data/indonesia/raw/extracted_txt
   # cleaned_txt_dir: data/indonesia/raw/cleaned_txt

@@ -154,10 +154,10 @@ def test_a_multilingual_folder_is_judged_file_by_file(mixed):
     write(cfg, "4. China - DomViol - Chinese", "txt", chinese())
     write(cfg, "ACEH_BIREUEN", "txt", prose(["Bupati", "melaksanakan", "perlindungan", "perempuan", "anak", "korban", "kekerasan", "daerah"]))
 
+    outcomes = analyze(cfg).outcomes
     report = check_all(cfg)
 
     assert report["summary"] == {"files": 5, "passed": 5, "needs_ocr": 0, "eliminated": 0}
-    outcomes = analyze(cfg).outcomes
     assert outcomes["1. Russia - DomViol - Russian"].language == "Russian"
     assert outcomes["2. Egypt - DomViol - Arabic"].language == "Arabic"
     assert outcomes["ACEH_BIREUEN"].language == "Indonesian"

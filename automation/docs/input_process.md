@@ -11,8 +11,10 @@ All under `data/<project>/raw/`; each can be moved in `pipeline_config.yaml` (`i
 ```
 raw/
   raw_files/        originals: PDF, HTML, TXT
-  extracted_txt/    <stem>__pdf.txt | <stem>__html.txt | <stem>__txt.txt   (+ your <stem>__ocr.txt)
-  cleaned_txt/      <stem>.txt  — passed the quality check
+  extracted_txt/    only what is NOT resolved yet: files that need OCR or were eliminated
+                    <stem>__pdf.txt | <stem>__html.txt | <stem>__txt.txt   (+ your <stem>__ocr.txt)
+  cleaned_txt/      <stem>.txt  — passed the quality check (or accepted by you); kept across runs
+  gold/             <stem>.txt  — hand-cleaned texts (optional input of stage 1.2)
   input_report.json
 ```
 
@@ -20,14 +22,19 @@ The `__pdf` / `__html` / `__txt` / `__ocr` marker records the source format so e
 as what it is (only a PDF can need OCR). It is removed when a file passes into `cleaned_txt/`, so
 downstream steps keep the plain policy name.
 
+**A file that passes is moved, not copied.** Its text is written to `cleaned_txt/<stem>.txt` and every
+extracted file of that policy is deleted from `extracted_txt/`. After a run, `extracted_txt/` holds only
+the work that is left, and `cleaned_txt/` is never pruned: a policy in it is done.
+
 ## Commands
 
 ```bash
 python -m automation.src.input_process migrate-raw      # one-time: move raw/*.pdf|txt|html into raw/raw_files/
-python -m automation.src.input_process extract          # raw_files/ -> extracted_txt/ (existing outputs are kept)
-python -m automation.src.input_process check            # quality check + fix + re-check -> cleaned_txt/ + report
-python -m automation.src.input_process check --report-only   # report only, cleaned_txt/ untouched
+python -m automation.src.input_process extract          # raw_files/ -> extracted_txt/ (skips policies already extracted or in cleaned_txt)
+python -m automation.src.input_process check            # quality check + fix + re-check; passed files move to cleaned_txt/; writes the report
+python -m automation.src.input_process check --report-only   # report only: nothing is moved, renamed or deleted
 python -m automation.src.input_process run              # extract, then check
+python -m automation.src.input_process tidy [--dry-run] # one-off: delete extracted files of policies already in cleaned_txt
 ```
 
 `--small-scale` limits any command to `paths.small_scale_stems`; `--project` overrides the config.
@@ -38,25 +45,56 @@ python -m automation.src.input_process run              # extract, then check
    can cross a page break). HTML → `trafilatura`, falling back to BeautifulSoup when trafilatura
    drops headings or more than half the text. TXT → copied as UTF-8 (BOM removed, cp1252 accepted).
    A scanned PDF yields an empty file; the quality check, not the extractor, decides it needs OCR.
-   An existing output is never overwritten — delete it to extract again.
+   An existing output is never overwritten, and a policy already in `cleaned_txt/` is skipped, so
+   passed files are not extracted again.
 2. **Pick the best source** per policy: `__ocr` › `__txt` › `__html` › `__pdf`. A `.txt` you supplied outranks
-   text extracted from a PDF/HTML of the same name; the ignored files are listed under `superseded`.
+   text extracted from a PDF/HTML of the same name.
 3. **Check, fix, check again.** Measure the text → apply `hygiene` plus the fixers the findings call
    for → measure the fixed text → decide on *that* text. A fix that removes more than 30 % of the
    letters (K2) or loses more than 5 % of the distinct *Pasal* numbers (K1) is discarded and only the
-   lossless normalization is kept.
-4. **Sort.** `PASS` → `cleaned_txt/<stem>.txt`. `NEEDS_OCR` → report entry naming the file to
-   supply. `ELIMINATE` → report entry with the indicators that failed.
+   lossless normalization is kept. The unique-word rule compares an OCR text with the other texts of
+   its language, **including those already in `cleaned_txt/`**.
+4. **Sort.** `PASS` → written to `cleaned_txt/<stem>.txt`, and all its extracted files are removed.
+   `NEEDS_OCR` → report entry naming the file to supply. `ELIMINATE` → report entry with the
+   indicators that failed. Both stay in `extracted_txt/`.
 
-Every run re-evaluates all of `extracted_txt/`, rewrites the report, and makes `cleaned_txt/` mirror
-the latest result (a file that no longer passes is removed from it).
+Each `check` re-evaluates what is in `extracted_txt/`. Policies already in `cleaned_txt/` are not
+checked again; to re-check one, move its file back to `extracted_txt/` as `<stem>__txt.txt`.
+
+## Accepting a file by hand (per-file exception)
+
+Move the file from `extracted_txt/` to `cleaned_txt/`. That is all.
+
+- The name may keep its marker (`<stem>__txt.txt`); the next `check` renames it to `<stem>.txt` and
+  lists it under `adopted` in the report. The text is left exactly as you put it: it is not checked or
+  fixed.
+- Use this for an eliminated file you have read and accept, or one you corrected by hand.
+- If `cleaned_txt/<stem>.txt` already exists it is never overwritten; the report lists the moved file
+  under `warnings.cleaned_txt_conflicts` and leaves both.
+- Files left in `extracted_txt/` for a policy that is already in `cleaned_txt/` are ignored and listed
+  under `warnings.already_in_cleaned_txt`. They are never deleted for you (`tidy` does that on request).
 
 ## OCR round trip
 
 1. Run `run` (or `check`). The report's `needs_ocr` lists each PDF with its `expected_ocr_file` and the indicators that failed.
 2. OCR the PDF yourself and save the text as `extracted_txt/<stem>__ocr.txt`.
-3. Run `check` again. The OCR text replaces the PDF text; if it is still unusable the file is
-   `ELIMINATE`d (it is not sent back to OCR).
+3. Run `check` again. The OCR text replaces the PDF text; if it passes it moves to `cleaned_txt/`
+   (taking the PDF text with it), and if it is still unusable the file is `ELIMINATE`d (it is not
+   sent back to OCR).
+
+## Gold texts and the source of stage 1.2
+
+`raw/gold/` can hold hand-cleaned texts (`<stem>.txt`). Which folder stage 1.2 (TXT → Markdown)
+converts is a setting:
+
+```yaml
+input_process:
+  markdown_source: cleaned_txt   # or: gold
+  # gold_dir: data/global/raw/gold
+```
+
+`cleaned_txt` (the default) is this stage's output. The chosen folder is
+`InputProcessConfig.markdown_source_dir`. Stage 1.2 itself is not implemented yet.
 
 ## Rules
 
@@ -104,10 +142,12 @@ Passed files are not listed.
 
 | Field | Meaning |
 |---|---|
+| `summary.passed` | policies in `cleaned_txt/` after this run, including earlier runs and files you moved there; `files` = `passed` + `needs_ocr` + `eliminated` |
 | `failed[].rule` | the indicator (table above); a severe corruption rule that survives fixing is shown under its own name, e.g. `C6_glued_words`, not `R4_C6_...` |
 | `failed[].value` / `limit` | what was measured, and the threshold it was compared with (so it is clear how far off it is) |
 | `needs_ocr[].expected_ocr_file` | the name to give the OCR text in `extracted_txt/` |
-| `warnings` | present **only** when needed: `not_extracted` (originals with no extracted text yet) and `unrecognized_files` (files in `extracted_txt/` without a known marker) |
+| `warnings` | present **only** when needed: `not_extracted` (originals with no extracted text yet), `unrecognized_files` (files in `extracted_txt/` without a known marker), `already_in_cleaned_txt` and `cleaned_txt_conflicts` (see above) |
+| `adopted` | present only when you moved files into `cleaned_txt/` by hand: `["<stem>__txt.txt -> <stem>.txt"]` |
 
 Details that used to be in the report — fixes applied, findings before / after, metrics, review
 flags, ignored sources — are still computed (`pipeline.analyze()` returns them) but are not written.

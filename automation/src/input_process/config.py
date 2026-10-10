@@ -17,6 +17,7 @@ from automation.src.constants import DEFAULT_PIPELINE_CONFIG, DEFAULT_PROJECT, P
 from automation.src.paths import project_dirs
 
 DEFAULT_LANGUAGE = "Indonesian"
+MARKDOWN_SOURCES = ("cleaned_txt", "gold")
 
 
 @dataclass(frozen=True)
@@ -32,6 +33,15 @@ class InputProcessConfig:
     #: Regex with one group that picks the language out of a policy name
     #: (e.g. ``DomViol - ([A-Za-z]+)``). Names it does not match use `language`.
     language_pattern: str = ""
+    #: Hand-cleaned texts, an alternative input for stage 1.2 (TXT -> Markdown).
+    gold_dir: Path | None = None
+    #: Which folder stage 1.2 converts: "cleaned_txt" (this stage's output) or "gold".
+    markdown_source: str = "cleaned_txt"
+
+    @property
+    def markdown_source_dir(self) -> Path:
+        """The folder stage 1.2 reads, as chosen by `markdown_source`."""
+        return self.gold_dir if self.markdown_source == "gold" else self.cleaned_txt_dir
 
     @property
     def language_regex(self) -> "re.Pattern | None":
@@ -72,6 +82,12 @@ def parse_input_process_config(data: dict, *, project: str | None = None) -> Inp
         if compiled.groups < 1:
             raise ValueError("input_process.language_pattern needs one group around the language name")
 
+    source = str(block.get("markdown_source") or "cleaned_txt")
+    if source not in MARKDOWN_SOURCES:
+        raise ValueError(
+            f"input_process.markdown_source must be one of {', '.join(MARKDOWN_SOURCES)}, got '{source}'"
+        )
+
     stems = (data.get("paths") or {}).get("small_scale_stems") or ()
     return InputProcessConfig(
         project=project,
@@ -82,6 +98,8 @@ def parse_input_process_config(data: dict, *, project: str | None = None) -> Inp
         report_path=_resolve(block.get("report_path") or dirs.input_report),
         thresholds=dict(thresholds),
         language_pattern=pattern,
+        gold_dir=_resolve(block.get("gold_dir") or dirs.gold),
+        markdown_source=source,
         small_scale_stems=tuple(str(s) for s in stems),
     )
 

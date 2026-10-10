@@ -101,3 +101,24 @@ def test_cli_migrate_raw(raw_project, tmp_path, monkeypatch, capsys):
 
     assert "Moved 4 file(s)" in capsys.readouterr().out
     assert (raw_project / "raw_files" / "B.pdf").exists()
+
+
+def test_markdown_source_defaults_to_cleaned_txt_and_can_be_gold(tmp_path):
+    default = parse_input_process_config({"project": "demo"})
+    assert default.markdown_source == "cleaned_txt"
+    assert default.markdown_source_dir == default.cleaned_txt_dir == DATA_ROOT / "demo" / "raw" / "cleaned_txt"
+    assert default.gold_dir == DATA_ROOT / "demo" / "raw" / "gold"
+
+    gold = parse_input_process_config(
+        {"project": "demo", "input_process": {"markdown_source": "gold", "gold_dir": str(tmp_path / "g")}}
+    )
+    assert gold.markdown_source_dir == tmp_path / "g"
+
+
+def test_an_unknown_markdown_source_is_rejected():
+    with pytest.raises(ValueError, match="markdown_source"):
+        parse_input_process_config({"input_process": {"markdown_source": "cleaned_md"}})
+
+
+def test_project_dirs_expose_gold():
+    assert project_dirs("demo").gold.name == "gold" and project_dirs("demo").gold.parent == project_dirs("demo").raw

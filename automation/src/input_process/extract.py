@@ -68,7 +68,7 @@ class ExtractionResult:
     source: str
     fmt: str | None
     output: str | None
-    status: str  # extracted | skipped_existing | failed | unsupported
+    status: str  # extracted | skipped_existing | skipped_done | failed | unsupported
     detail: str = ""
 
 
@@ -189,6 +189,23 @@ READERS = {"pdf": extract_pdf, "html": extract_html, "txt": extract_txt}
 
 
 # --------------------------------------------------------------------------- driver
+def cleaned_stems(cleaned_dir: Path) -> dict[str, Path]:
+    """Policies that are done: ``{stem: path}`` for every text in ``cleaned_txt/``.
+
+    A plain ``<stem>.txt`` is what the pipeline writes. A file still carrying its
+    marker (``<stem>__txt.txt``) is one the user moved over by hand from
+    ``extracted_txt/``; it counts as done too and is renamed on the next check.
+    """
+    done: dict[str, Path] = {}
+    if not cleaned_dir.is_dir():
+        return done
+    for path in sorted(p for p in cleaned_dir.iterdir() if p.is_file() and p.suffix.lower() == ".txt"):
+        parsed = split_marked(path.name)
+        stem = parsed[0] if parsed else path.name[: -len(path.suffix)]
+        done.setdefault(stem, path)  # sorted: a plain "<stem>.txt" comes before "<stem>__fmt.txt"
+    return done
+
+
 def list_sources(config: InputProcessConfig, *, small_scale: bool = False) -> list[Path]:
     if not config.raw_files_dir.is_dir():
         raise FileNotFoundError(
@@ -204,10 +221,15 @@ def list_sources(config: InputProcessConfig, *, small_scale: bool = False) -> li
 
 def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> list[ExtractionResult]:
     results: list[ExtractionResult] = []
+    done = cleaned_stems(config.cleaned_txt_dir)
     for path in list_sources(config, small_scale=small_scale):
         fmt = SOURCE_FORMATS.get(path.suffix.lower())
         if fmt is None:
             results.append(ExtractionResult(path.name, None, None, "unsupported", path.suffix or "no extension"))
+            continue
+
+        if path.stem in done:  # already in cleaned_txt: nothing left to extract
+            results.append(ExtractionResult(path.name, fmt, None, "skipped_done"))
             continue
 
         target = config.extracted_txt_dir / marked_name(path.stem, fmt)

@@ -4,7 +4,8 @@
         raw/
             raw_files/            original PDF / HTML / TXT
             extracted_txt/        <stem>__pdf|html|txt|ocr.txt (stage 1.1)
-            cleaned_txt/          <stem>.txt that passed the quality check
+            cleaned_txt/          <stem>.txt that passed the quality check (kept across runs)
+            gold/                 <stem>.txt hand-cleaned texts (optional source for TXT -> Markdown)
             input_report.json     eliminated files, PDFs needing OCR
         preprocessed/             stage 1-2 output, open to human edits (stage 3)
             cleaned_markdown/
@@ -32,6 +33,7 @@ from automation.src.constants import (
     CORRECTIONS_DIRNAME,
     DATA_ROOT,
     EXTRACTED_TXT_DIRNAME,
+    GOLD_DIRNAME,
     GOLDEN_CSV_FILENAME,
     INDEX_SCHEMA_RELPATH,
     INPUT_REPORT_FILENAME,
@@ -63,6 +65,10 @@ class ProjectDirs:
     @property
     def cleaned_txt(self) -> Path:
         return self.raw / CLEANED_TXT_DIRNAME
+
+    @property
+    def gold(self) -> Path:
+        return self.raw / GOLD_DIRNAME
 
     @property
     def input_report(self) -> Path:
