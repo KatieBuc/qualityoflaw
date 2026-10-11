@@ -94,7 +94,24 @@ input_process:
 ```
 
 `cleaned_txt` (the default) is this stage's output. The chosen folder is
-`InputProcessConfig.markdown_source_dir`. Stage 1.2 itself is not implemented yet.
+`InputProcessConfig.markdown_source_dir`.
+
+## Stage 1.2: TXT -> Markdown
+
+```bash
+python -m automation.src.input_process markdown [--force] [--small-scale]
+```
+
+Converts every `.txt` of the chosen source into `data/<project>/preprocessed/cleaned_markdown/<stem>.cleaned.md`
+with `txt_to_md_v7.py`; existing outputs are kept unless `--force`. Texts with no recognisable heading
+structure are not written; they are listed under `skipped` in `raw/markdown_report.json`.
+
+- **Vocabulary**: every language's heading words, ordinals, cross-reference phrases, TOC titles and page words are
+  in `heading_keywords.py`. To support a language, add its words there.
+- **Depths**: a language with a profile in `heading_keywords.PROFILES` (Indonesian) uses fixed depths
+  (`BAB #`, `Bagian ##`, `Paragraf ###`, `Pasal ####`, no generated title) and counts a level from 2 line-anchored
+  hits. The language of each policy comes from `input_process.language_pattern` / `language`. Other languages
+  use depths that follow the levels the file uses.
 
 ## Rules
 

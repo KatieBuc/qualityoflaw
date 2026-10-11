@@ -293,6 +293,30 @@ PAGE_WORDS: dict[str, str] = {
 }
 
 
+# --------------------------------------------------------------------------- #
+# Per-language output conventions                                             #
+# --------------------------------------------------------------------------- #
+# Languages listed here are converted with these settings; every other language uses the generic
+# "relative" depths (levels the file really uses, starting at ``##`` under a ``#`` title).
+#   depth     level -> Markdown heading depth (1 = ``#``)
+#   min_hits  line-anchored occurrences needed before a level counts as used. The generic gate is 3 for
+#             SECTION/SUBSECTION/ARTICLE; a spelled-out ordinal such as "Bagian Kedua" is never a citation, so
+#             a short regulation with only two Bagian still keeps them.
+#   title     False: no ``# <title>`` line is added (``#`` is the top statute level, as in the existing corpus)
+PROFILES: dict[str, dict] = {
+    "indonesian": {
+        "depth": {"BOOK": 1, "PART": 1, "TITLE": 1, "CHAPTER": 1, "SECTION": 2, "SUBSECTION": 3,
+                  "ARTICLE": 4, "PARAGRAPH": 5},
+        "min_hits": {"SECTION": 2, "SUBSECTION": 2},
+        "title": False,
+    },
+}
+
+
+def profile_for(language: str | None) -> dict | None:
+    return PROFILES.get((language or "").strip().casefold())
+
+
 def alternation(by_language: dict[str, str]) -> str:
     """Join every language's words into one regex alternation."""
     return "|".join(by_language.values())

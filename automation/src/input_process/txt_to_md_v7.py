@@ -328,8 +328,10 @@ GROUPING = {"BOOK", "PART", "TITLE", "CHAPTER"}
 UNITS = {"SECTION", "ARTICLE", "PARAGRAPH"}
 
 
-def analyse(text: str) -> dict:
-    """Count heading hits per level and decide which levels are 'active'."""
+def analyse(text: str, profile: dict | None = None) -> dict:
+    """Count heading hits per level and decide which levels are 'active'.  `profile` (heading_keywords.PROFILES)
+    may lower the hit gate of some levels."""
+    min_hits = (profile or {}).get("min_hits", {})
     nl = max(text.count("\n"), 1)
     runon = len(text) / nl > 300          # HTML dumps with the whole act on one line
 
@@ -353,7 +355,7 @@ def analyse(text: str) -> dict:
     def is_active(name: str) -> bool:
         if name in GROUPING:
             return line_ct.get(name, 0) >= 2 or (runon and any_ct.get(name, 0) >= 5)
-        return line_ct.get(name, 0) >= 3 or (runon and any_ct.get(name, 0) >= 8)
+        return line_ct.get(name, 0) >= min_hits.get(name, 3) or (runon and any_ct.get(name, 0) >= 8)
 
     active = [n for n in CANON if is_active(n)]
 
@@ -1069,17 +1071,22 @@ def _doc_title(text: str, fallback: str) -> str:
 ABS_DEPTH = {"BOOK": 2, "PART": 2, "TITLE": 2, "CHAPTER": 3, "SECTION": 4, "SUBSECTION": 5, "ARTICLE": 5, "PARAGRAPH": 6}
 
 
-def convert(text: str, fallback_title: str, info: dict, depth: str = "relative", xref_pre: str | None = None, bracket_xref: bool = True) -> str:
-    """depth='relative' (default): depth follows the levels this file uses;
+def convert(text: str, fallback_title: str, info: dict, depth: str = "relative", xref_pre: str | None = None, bracket_xref: bool = True,
+            profile: dict | None = None) -> str:
+    """profile (heading_keywords.PROFILES): fixed depths per level and no auto title; overrides `depth`.
+    depth='relative' (default): depth follows the levels this file uses;
     depth='absolute': fixed depths per level (ABS_DEPTH); bare/tab-numbered sections are Section (####).
     xref_pre='nl' (key of XREF_PRE): labels preceded by a reference connective ("bedoeld in", "ingevolge", ...) are body text."""
     dm, bare_depth = depth_map(info["active"], info["bare_enabled"])
-    if depth == "absolute":
+    if profile:
+        dm = {lv: profile["depth"][lv] for lv in info["active"]}
+        bare_depth = profile["depth"]["ARTICLE"]
+    elif depth == "absolute":
         dm = {lv: ABS_DEPTH[lv] for lv in info["active"]}
         bare_depth = 4
     hits = collect_headings(text, dm, info["bare_enabled"], bare_depth, info.get("bare_mode", "num"))
     # with fixed depths a TOC title is always '##' (outermost), not the outermost level this file happens to use
-    hits = _apply_toc_spans(hits, text, 2 if depth == "absolute" else (min(dm.values()) if dm else 2))
+    hits = _apply_toc_spans(hits, text, 2 if depth == "absolute" and not profile else (min(dm.values()) if dm else 2))
     hits = _suppress_toc_echo(hits, text)
     # every detected TOC span is rendered as a nested list (after its title heading, if any)
     for a, b, title, te in _toc_spans(text):
@@ -1488,15 +1495,15 @@ def preprocess(text: str) -> str:
 
 
 def convert_document(text: str, title: str | None = None, *, snippet: bool = False, depth: str = "absolute",
-                     xref_pre: str | None = None) -> str:
+                     xref_pre: str | None = None, profile: dict | None = None) -> str:
     """Single entry point for the corpus CLI and the golden-dataset runner.  title=None -> no '# title' line.  snippet=True lowers the file-level heading gates to
     '>=1 line-anchored hit per level' (the golden-runner 'relax' mode: a few-line excerpt cannot reach the >=2/>=3 gates).
     Documents with no detected heading level are still body-formatted (the corpus CLI decides whether to skip them)."""
     text = preprocess(_strip_toc_block(text))            # page furniture + footnotes first
-    info = analyse(text)
+    info = analyse(text, profile)
     if snippet:
         info["active"] = [n for n in CANON if info["line"].get(n, 0) >= 1]
-    return convert(text, title, info, depth=depth, xref_pre=xref_pre)
+    return convert(text, title, info, depth=depth, xref_pre=xref_pre, profile=profile)
 
 
 def main() -> int:

@@ -5,6 +5,7 @@
     python -m automation.src.input_process check [--report-only] [--small-scale]
     python -m automation.src.input_process run [--small-scale]      # extract + check
     python -m automation.src.input_process tidy [--dry-run]         # one-off clean-up of extracted_txt
+    python -m automation.src.input_process markdown [--force] [--small-scale]   # stage 1.2: TXT -> Markdown
 """
 
 import argparse
@@ -77,6 +78,29 @@ def _cmd_check(args: argparse.Namespace, config) -> int:
     return 0
 
 
+def _cmd_markdown(args: argparse.Namespace, config) -> int:
+    from automation.src.ingest import run_ingest_step
+    from automation.src.paths import project_dirs
+
+    out_dir = project_dirs(config.project).preprocessed_cleaned_markdown
+    result = run_ingest_step(
+        config.markdown_source_dir,
+        out_dir,
+        language_for=config.language_for,
+        stems=set(config.small_scale_stems) if args.small_scale else None,
+        force=args.force,
+        report_path=config.report_path.with_name("markdown_report.json"),
+    )
+    summary = result["summary"]
+    print(
+        f"Markdown ({config.markdown_source} -> {out_dir}): {summary['converted']} converted, "
+        f"{summary['kept']} already there, {summary['skipped']} skipped"
+    )
+    for item in result["skipped"]:
+        print(f"  skipped {item['stem']}: {item['reason']}")
+    return 0
+
+
 def _cmd_run(args: argparse.Namespace, config) -> int:
     code = _cmd_extract(args, config)
     check_args = argparse.Namespace(report_only=False, small_scale=args.small_scale)
@@ -118,6 +142,14 @@ def build_parser() -> argparse.ArgumentParser:
     )
     tidy.add_argument("--dry-run", action="store_true")
     tidy.set_defaults(func=_cmd_tidy)
+
+    markdown = sub.add_parser(
+        "markdown",
+        help="Stage 1.2: convert markdown_source (cleaned_txt or gold) to preprocessed/cleaned_markdown/.",
+    )
+    markdown.add_argument("--force", action="store_true", help="Overwrite existing .cleaned.md files.")
+    markdown.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
+    markdown.set_defaults(func=_cmd_markdown)
 
     run = sub.add_parser("run", help="extract, then check.")
     run.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
