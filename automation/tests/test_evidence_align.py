@@ -90,17 +90,74 @@ def test_alignment_method_config_is_validated():
         parse_alignment_method({"method": "magic"})
 
 
-def test_bertalign_encoder_wraps_the_shared_labse_model(monkeypatch):
-    """Both aligners must use one LaBSE instance, not each load their own."""
+@pytest.fixture
+def fresh_models(monkeypatch):
     from automation.src.rag import embedding_align
 
-    sentinel = object()
-    embedding_align._labse.cache_clear()
-    embedding_align._bertalign_encoder.cache_clear()
-    monkeypatch.setattr(embedding_align, "_labse", lambda: sentinel)
+    monkeypatch.setattr(embedding_align, "_LOADED", {})
+    monkeypatch.setattr(embedding_align, "_FAILED", {})
+    return embedding_align
 
-    encoder = embedding_align._bertalign_encoder()
+
+def test_bertalign_encoder_wraps_the_shared_labse_model(fresh_models, monkeypatch):
+    """Both aligners must use one LaBSE instance, not each load their own."""
+    sentinel = object()
+    monkeypatch.setattr(fresh_models, "_labse", lambda: sentinel)
+
+    encoder = fresh_models._bertalign_encoder()
 
     assert encoder.model is sentinel
-    assert embedding_align._bertalign_encoder() is encoder  # built once
-    embedding_align._bertalign_encoder.cache_clear()
+    assert fresh_models._bertalign_encoder() is encoder  # built once
+
+
+def test_threads_asking_for_the_model_at_once_load_it_once(fresh_models, monkeypatch):
+    import threading
+    import time
+
+    loads = []
+
+    def slow_load():
+        loads.append(threading.get_ident())
+        time.sleep(0.2)                       # long enough for every thread to arrive while it loads
+        return object()
+
+    monkeypatch.setattr(fresh_models, "_load_labse", slow_load)
+    got = []
+    barrier = threading.Barrier(8)
+
+    def worker():
+        barrier.wait()
+        got.append(fresh_models._labse())
+
+    threads = [threading.Thread(target=worker) for _ in range(8)]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+
+    assert len(loads) == 1
+    assert len({id(m) for m in got}) == 1 and len(got) == 8
+
+
+def test_a_failed_load_is_not_retried_by_every_caller(fresh_models, monkeypatch):
+    calls = []
+
+    def broken():
+        calls.append(1)
+        raise OSError("offline")
+
+    monkeypatch.setattr(fresh_models, "_load_labse", broken)
+    for _ in range(3):
+        with pytest.raises(fresh_models.AlignerUnavailable, match="offline"):
+            fresh_models._labse()
+    assert len(calls) == 1
+
+
+def test_warm_up_loads_the_model_before_the_threads_start(fresh_models, monkeypatch):
+    loaded = []
+    monkeypatch.setattr(fresh_models, "_load_labse", lambda: loaded.append("labse") or object())
+    fresh_models.warm_up("vecalign")
+    fresh_models.warm_up("vecalign")
+    assert loaded == ["labse"]
+    fresh_models.warm_up("something-else")      # not an embedding method: nothing to load
+    assert loaded == ["labse"]

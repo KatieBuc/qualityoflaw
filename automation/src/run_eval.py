@@ -23,6 +23,7 @@ from automation.src.llm.confidence import ConfidenceSpec
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
 from automation.src.policy_files import filter_policy_files
 from automation.src.rag.embedder import AzureEmbedder
+from automation.src.rag.embedding_align import AlignerUnavailable, warm_up
 from automation.src.rag.evidence_check import (
     resolve_evidence_citation,
     resolve_evidence_original_alignment,
@@ -539,6 +540,15 @@ def _process_policy_result(
         _write_candidates_file(rag_candidates_dir, policy_path.name, candidates_by_id)
     policy_failed = not success
     return success, output_path, policy_failed
+
+
+def _warm_up_aligner(method: str) -> None:
+    """Load the alignment model once, here, instead of letting the first worker threads race to do it.
+    If it cannot be loaded the evaluation still runs: evidence alignment falls back to the heuristic aligner."""
+    try:
+        warm_up(method)
+    except AlignerUnavailable as exc:
+        logger.warning("alignment model not available (%s); evidence alignment will use the heuristic", exc)
 
 
 def run_evaluation_step(

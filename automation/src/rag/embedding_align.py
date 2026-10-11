@@ -5,14 +5,18 @@ differ. Both aligners are monotonic and may return many-to-many beads. They
 were benchmarked on Indonesian gold data (`automation/benchmarks/alignment`);
 Vecalign was marginally ahead and is the default.
 
-LaBSE is loaded once per process (`_labse`) and shared by both aligners.
+LaBSE is loaded once per process (`_labse`) and shared by both aligners. Loading is guarded by a lock:
+when evaluation threads ask for the model at the same time, one loads it and the others wait for that
+instance (a bare `lru_cache` would let every thread that misses the cache load its own copy). A failed
+load is remembered, so later calls fail at once instead of retrying the download in every thread.
+`warm_up` loads everything before the worker threads start.
 
 Dependencies are optional and imported lazily: `bertalign`, `vecalign` and
 `sentence-transformers` (see `automation/requirements-align.txt`). LaBSE
 weights are downloaded on first use.
 """
 
-from functools import lru_cache
+import threading
 
 import numpy as np
 
@@ -33,18 +37,42 @@ def _one_line(sentences: list[str]) -> list[str]:
     return [" ".join(s.split()) or "." for s in sentences]
 
 
-@lru_cache(maxsize=1)
+_LOAD_LOCK = threading.RLock()
+_LOADED: dict[str, object] = {}
+_FAILED: dict[str, AlignerUnavailable] = {}
+
+
+def _load_once(key: str, loader):
+    """Run `loader` at most once per process, however many threads ask; share its result (or its failure)."""
+    if key in _LOADED:
+        return _LOADED[key]
+    with _LOAD_LOCK:
+        if key in _LOADED:
+            return _LOADED[key]
+        if key in _FAILED:
+            raise _FAILED[key]
+        try:
+            _LOADED[key] = loader()
+        except AlignerUnavailable as exc:
+            _FAILED[key] = exc
+            raise
+        except Exception as exc:  # ImportError, offline model download, ...
+            _FAILED[key] = AlignerUnavailable(f"{key} unavailable: {exc}")
+            raise _FAILED[key] from exc
+        return _LOADED[key]
+
+
+def _load_labse():
+    from sentence_transformers import SentenceTransformer
+
+    return SentenceTransformer(LABSE)
+
+
 def _labse():
-    try:
-        from sentence_transformers import SentenceTransformer
-
-        return SentenceTransformer(LABSE)
-    except Exception as exc:  # ImportError, offline model download, ...
-        raise AlignerUnavailable(f"LaBSE unavailable: {exc}") from exc
+    return _load_once("LaBSE", _load_labse)
 
 
-@lru_cache(maxsize=1)
-def _bertalign_encoder():
+def _make_bertalign_encoder():
     """Bertalign's `Encoder` wrapped around the one shared LaBSE model.
 
     `bertalign.encoder.get_encoder` would load a second copy of LaBSE; its
@@ -59,6 +87,19 @@ def _bertalign_encoder():
             self.model_name = LABSE
 
     return SharedEncoder(_labse())
+
+
+def _bertalign_encoder():
+    return _load_once("bertalign encoder", _make_bertalign_encoder)
+
+
+def warm_up(method: str) -> None:
+    """Load what `method` needs, once, before worker threads start. Raises `AlignerUnavailable` if it cannot."""
+    if method not in METHODS:
+        return
+    _labse()
+    if method == "bertalign":
+        _bertalign_encoder()
 
 
 def _embed_with_overlaps(lines: list[str], max_overlap: int) -> tuple[dict, np.ndarray]:
