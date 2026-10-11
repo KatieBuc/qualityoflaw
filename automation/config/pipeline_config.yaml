@@ -133,3 +133,9 @@ paths:
   #   - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
   #   - 94. Latvia - DomViol - Latvian (a)
   #   - 121. New Zealand - DomViol - English
+
+# Stage 3 (optional human adjustment). true: after translation the run pauses so you can edit
+# preprocessed/cleaned_markdown and preprocessed/translation_markdown; continue with --reviewed.
+# Either way, stage 4 starts by checking the headings of each pair and moving it to processed/.
+human_review:
+  pause: false

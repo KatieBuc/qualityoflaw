@@ -83,7 +83,10 @@
       "execution_scope": {
         "evaluated_policy_files": [],
         "small_scale": false,
-        "steps_executed": []
+        "steps_executed": [
+          "input_process",
+          "txt_to_md"
+        ]
       },
       "experiment_name": "first-full-run",
       "failures": {
@@ -94,18 +97,29 @@
         "translation": 0,
         "translation_qa": 0
       },
-      "file_counts": {},
+      "file_counts": {
+        "input_process": {
+          "skipped": 1,
+          "total": 0
+        },
+        "txt_to_md": {
+          "skipped": 1,
+          "total": 0
+        }
+      },
       "status": "completed_with_errors",
       "timestamps": {
         "created_at": "<ts>",
         "updated_at": "<ts>"
       },
       "timing_seconds": {
-        "total": "<elapsed>"
+        "input_process": 0.0,
+        "total": "<elapsed>",
+        "txt_to_md": 0.0
       },
       "token_usage": {}
     }
   },
   "stderr": "Step 'translation_md' failed: no markdown input\nFailures logged: 0 translation, 0 translation_qa, 0 storage, 0 evaluation, 0 discrepancy_diagnosis, 1 step-level → <tmp>/out/failures.json\n",
-  "stdout": "Created output folder: <tmp>/out\n\nStep: translation_md\n\nPipeline finished (status=completed_with_errors)\n"
+  "stdout": "Created output folder: <tmp>/out\n\nStep: input_process\nInput process: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\n\nPipeline finished (status=completed_with_errors)\n"
 }

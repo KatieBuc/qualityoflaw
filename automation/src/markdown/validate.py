@@ -141,6 +141,44 @@ def promote(
     return report
 
 
+def promote_ready(
+    source_dir: Path,
+    translated_dir: Path,
+    processed_source_dir: Path,
+    processed_translated_dir: Path,
+    *,
+    source_suffix: str = CLEANED_MD_SUFFIX,
+    stems: tuple[str, ...] | None = None,
+    force: bool = False,
+) -> tuple[list[str], list[HeaderCheck]]:
+    """Move every policy whose pair passes the header check to ``processed/``; leave the others.
+
+    Unlike `promote`, one bad pair does not hold back the rest. A pair whose files already exist in
+    ``processed/`` is blocked unless `force`. Returns ``(promoted stems, blocked checks)``.
+    """
+    report = validate_directories(source_dir, translated_dir, source_suffix, stems)
+    promoted: list[str] = []
+    blocked: list[HeaderCheck] = []
+    sources = {policy_stem(p): p for p in source_dir.glob(f"*{source_suffix}") if p.is_file()}
+    for check in report.checks:
+        if not check.ok:
+            blocked.append(check)
+            continue
+        src, tr = sources[check.stem], translated_dir / f"{check.stem}.md"
+        dest_src, dest_tr = processed_source_dir / src.name, processed_translated_dir / tr.name
+        if (dest_src.exists() or dest_tr.exists()) and not force:
+            check.ok = False
+            check.problem = "already in processed/ (use --force to overwrite)"
+            blocked.append(check)
+            continue
+        processed_source_dir.mkdir(parents=True, exist_ok=True)
+        processed_translated_dir.mkdir(parents=True, exist_ok=True)
+        shutil.move(str(src), str(dest_src))
+        shutil.move(str(tr), str(dest_tr))
+        promoted.append(check.stem)
+    return promoted, blocked
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Validate (and optionally promote) markdown pairs.")
     parser.add_argument("--project", default=DEFAULT_PROJECT)

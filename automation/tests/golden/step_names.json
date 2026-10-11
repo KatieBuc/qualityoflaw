@@ -1,6 +1,10 @@
 {
   "default": [
+    "input_process",
+    "txt_to_md",
     "translation_md",
+    "human_review",
+    "promote",
     "md_to_text",
     "storage",
     "evaluation"
@@ -11,7 +15,11 @@
     "discrepancy_diagnosis"
   ],
   "valid": [
+    "input_process",
+    "txt_to_md",
     "translation_md",
+    "human_review",
+    "promote",
     "md_to_text",
     "storage",
     "evaluation",

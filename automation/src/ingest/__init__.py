@@ -52,12 +52,15 @@ def run_ingest_step(
     stems: set[str] | None = None,
     force: bool = False,
     report_path: Path | None = None,
+    suffix: str = OUTPUT_SUFFIX,
+    done_dirs: tuple[Path, ...] = (),
 ) -> dict:
     """Convert every ``*.txt`` of `source_dir` into `cleaned_markdown_dir`/<stem>.cleaned.md.
 
     An existing output is kept unless `force`. `stems` limits the run to those policies.
     Texts without a recognisable heading structure are not written and are listed under
-    ``skipped`` (and in the JSON report when `report_path` is given).
+    ``skipped`` (and in the JSON report when `report_path` is given). A policy that already has its
+    Markdown in one of `done_dirs` (the ``processed/`` copy) is not converted again.
     """
     source_dir = Path(source_dir)
     if not source_dir.is_dir():
@@ -72,8 +75,8 @@ def run_ingest_step(
         stem = path.stem
         if stems is not None and stem not in stems:
             continue
-        target = out_dir / f"{stem}{OUTPUT_SUFFIX}"
-        if target.exists() and not force:
+        target = out_dir / f"{stem}{suffix}"
+        if (target.exists() or any((d / f"{stem}{suffix}").exists() for d in done_dirs)) and not force:
             kept.append(stem)
             continue
         if any(sub in path.name for sub in converter.SKIP_SUBSTRINGS):

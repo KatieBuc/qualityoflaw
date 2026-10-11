@@ -23,6 +23,7 @@ from automation.src.constants import (
     OPTIONAL_STEPS,
     PROJECT_ROOT,
 )
+from automation.src.breakpoints import PipelineBreakpoint
 from automation.src.llm.model_profile import ModelProfile
 import json
 
@@ -1319,3 +1320,34 @@ def test_main_legacy_text_chain_runs_translation_qa_and_markdown_only(
     mock_translation_qa.assert_called_once()
     mock_markdown.assert_called_once()
     mock_md_translate.assert_not_called()
+
+
+@patch("automation.src.run_pipeline.update_metadata")
+@patch("automation.src.run_pipeline.init_metadata")
+@patch("automation.src.run_pipeline.run_md_translation_step")
+@patch(
+    "automation.src.run_pipeline.run_input_process_step",
+    side_effect=PipelineBreakpoint(
+        step="input_process",
+        title="some files need your attention",
+        next_steps=["OCR the PDF"],
+        docs=["automation/docs/input_process.md"],
+    ),
+)
+@patch("automation.src.run_pipeline.AzureLLMWrapper")
+@patch("automation.src.run_pipeline.load_pipeline_config")
+def test_main_pauses_at_a_breakpoint_without_failing(
+    mock_load_config, mock_wrapper, mock_input, mock_translate, mock_init, mock_update, mock_config, data_root, capsys
+):
+    mock_load_config.return_value = mock_config
+
+    with patch.object(sys, "argv", ["run_pipeline"]):
+        with pytest.raises(SystemExit) as exc:
+            main()
+
+    assert exc.value.code == 0
+    mock_translate.assert_not_called()                      # later steps wait for the person
+    out = capsys.readouterr().out
+    assert "PAUSED at step 'input_process'" in out and "1. OCR the PDF" in out
+    assert "automation/docs/input_process.md" in out and "run the same command again" in out
+    assert any(c.kwargs.get("status") == "paused" for c in mock_update.call_args_list)

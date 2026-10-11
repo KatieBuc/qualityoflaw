@@ -4,8 +4,11 @@ Pipeline that translates Indonesian local policies to English, has an LLM code e
 56-indicator rubric, and compares the result with a hand-coded golden dataset.
 
 ```
-translation_md -> md_to_text -> storage -> evaluation -> comparison
+input_process -> txt_to_md -> translation_md -> human_review -> promote -> md_to_text -> storage -> evaluation -> comparison
 ```
+
+The first steps need a person now and then (OCR, fixing a text, checking headings). Where that happens the run
+**pauses**, prints what to do, and continues when you run the same command again: see [docs/pipeline.md](docs/pipeline.md).
 
 Two more steps run only when you ask for them: `translation_qa_md` (audits and repairs each translated chunk, after
 `translation_md`) and `discrepancy_diagnosis` (LLM root-cause report for every mismatch, after `comparison`).
@@ -44,6 +47,8 @@ python -m automation.src.run_pipeline --force
 | `--steps a,b,c` | Steps to run. Default: the five in the chain above. Steps always execute in pipeline order |
 | `--small-scale` | Only the policies listed in `paths.small_scale_stems` |
 | `--force` | Clean `data/<project>/automation/`, then run. Checked first: if the requested steps cannot rebuild what they need, nothing is deleted. Does not touch `preprocessed/` or `processed/`, so existing translations are kept (delete those files to retranslate) |
+| `--skip-blocked` | At a breakpoint caused by files that are not ready, continue with the ones that are |
+| `--reviewed` | Confirm the optional human review and continue |
 | `--allow-partial` | Save incomplete evaluation / diagnosis reports instead of failing them |
 | `--max-workers N`, `--no-concurrency` | Override or disable parallel API calls |
 | `--pipeline-config`, `--model-config` | Use other YAML files than the ones in `automation/config/` |
@@ -52,8 +57,12 @@ python -m automation.src.run_pipeline --force
 
 | Step | Reads | Writes (under `data/<project>/automation/` unless noted) |
 |------|-------|-----------|
+| `input_process` | `raw/raw_files/` | `raw/cleaned_txt/`, `raw/input_report.json` (pauses for OCR / eliminated files) |
+| `txt_to_md` | `raw/cleaned_txt/` or `raw/gold/` | `preprocessed/cleaned_markdown/` |
 | `translation_md` | `data/<project>/preprocessed/cleaned_markdown/*<suffix>` | `data/<project>/preprocessed/translation_markdown/` (no chunks saved) |
 | `translation_qa_md` *(optional)* | source + translated markdown | rewrites the translated markdown in place; `results/translation_qa/` |
+| `human_review` *(optional pause)* | - | - (pauses when `human_review.pause: true`) |
+| `promote` | `preprocessed/{cleaned,translation}_markdown` | `processed/` (pairs whose headings match; pauses for the others) |
 | `md_to_text` | translated + source markdown (`preprocessed/`) | `results/translation/*.txt`, `mid_product/chunks/` |
 | `storage` | `results/translation/`, `mid_product/chunks/` | `mid_product/rag_store/` (embeddings) |
 | `evaluation` | translation, RAG store, `prompts/quality_eval/` | `results/evaluation/`, `mid_product/rag_candidates/` (sliding-window method: `evaluation_sliding_window/`, `sliding_window_candidates/`) |

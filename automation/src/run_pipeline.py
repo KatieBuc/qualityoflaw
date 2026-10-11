@@ -12,6 +12,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
+from automation.src.breakpoints import PipelineBreakpoint
 from automation.src.compare import run_comparison_step
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
@@ -46,6 +47,12 @@ from automation.src.metadata import (
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
+from automation.src.stages import (
+    run_human_review_step,
+    run_input_process_step,
+    run_promote_step,
+    run_txt_to_md_step,
+)
 from automation.src.legacy.run_eval_sliding_window import run_sliding_window_evaluation_step
 
 
@@ -295,6 +302,73 @@ def _print_failed_files(result: dict, *, style: str) -> None:
         print(line, file=sys.stderr)
 
 
+def _run_input_process(ctx: StepContext) -> dict:
+    return run_input_process_step(
+        ctx.config, small_scale=ctx.args.small_scale, skip_blocked=getattr(ctx.args, "skip_blocked", False)
+    )
+
+
+def _run_txt_to_md(ctx: StepContext) -> dict:
+    return run_txt_to_md_step(ctx.config, small_scale=ctx.args.small_scale)
+
+
+def _run_human_review(ctx: StepContext) -> dict:
+    return run_human_review_step(
+        ctx.config, small_scale=ctx.args.small_scale, reviewed=getattr(ctx.args, "reviewed", False)
+    )
+
+
+def _run_promote(ctx: StepContext) -> dict:
+    return run_promote_step(
+        ctx.config, small_scale=ctx.args.small_scale, skip_blocked=getattr(ctx.args, "skip_blocked", False)
+    )
+
+
+def _report_input_process(ctx: StepContext, result: dict) -> bool:
+    if result.get("skipped_reason"):
+        print(f"Input process: skipped ({result['skipped_reason']})")
+        return False
+    c = result["counts"]
+    print(
+        f"Input process: {c['total']} policies -> {c['succeeded']} in cleaned_txt, "
+        f"{c['needs_ocr']} need OCR, {c['eliminated']} eliminated (report: {result['report_path']})"
+    )
+    return c["failed"] > 0
+
+
+def _report_txt_to_md(ctx: StepContext, result: dict) -> bool:
+    if result.get("skipped_reason"):
+        print(f"Text to Markdown: skipped ({result['skipped_reason']})")
+        return False
+    c = result["counts"]
+    print(f"Text to Markdown: {c['succeeded']} converted, {c['skipped']} already there, {c['no_structure']} without heading structure")
+    for stem in result["unconverted"][:8]:
+        print(f"  not converted (no heading structure): {stem} - write its Markdown by hand into cleaned_markdown/ to include it")
+    return False
+
+
+def _report_human_review(ctx: StepContext, result: dict) -> bool:
+    print(
+        f"Human review: skipped ({result['skipped_reason']})"
+        if result.get("skipped_reason")
+        else f"Human review: {result['counts']['succeeded']} file(s) confirmed with --reviewed"
+    )
+    return False
+
+
+def _report_promote(ctx: StepContext, result: dict) -> bool:
+    if result.get("skipped_reason"):
+        print(f"Promote to processed/: skipped ({result['skipped_reason']})")
+        return False
+    c = result["counts"]
+    print(
+        f"Promote to processed/: {c['succeeded']} moved, {c['skipped']} already there, {c['failed']} blocked"
+    )
+    for stem, problem in result["blocked"][:8]:
+        print(f"  blocked {stem}: {problem}", file=sys.stderr)
+    return False
+
+
 def _report_translation_md(ctx: StepContext, result: dict) -> bool:
     print(
         f"Translation (markdown): {result['counts']['succeeded']} succeeded, "
@@ -423,6 +497,9 @@ def _storage_skip(ctx: StepContext) -> str | None:
 
 # Steps run in this order, regardless of the order given to --steps.
 STEPS: tuple[Step, ...] = (
+    # Stages 1-3: input, translation, optional human adjustment. They stop at a breakpoint when a person has to act.
+    Step("input_process", _run_input_process, _report_input_process),
+    Step("txt_to_md", _run_txt_to_md, _report_txt_to_md),
     # Markdown path (default chain).
     Step(
         "translation_md",
@@ -438,6 +515,8 @@ STEPS: tuple[Step, ...] = (
         has_tokens=True,
         records_failures=True,
     ),
+    Step("human_review", _run_human_review, _report_human_review),
+    Step("promote", _run_promote, _report_promote),
     Step(
         "md_to_text",
         _run_without_llm(lambda: run_md_to_text_step),
@@ -527,6 +606,19 @@ def main() -> None:
             "--steps rerun relies on. The requested steps must be able to rebuild everything the "
             "wipe removes; otherwise the run stops before deleting anything."
         ),
+    )
+    parser.add_argument(
+        "--skip-blocked",
+        action="store_true",
+        help=(
+            "At a breakpoint caused by files that are not ready (OCR / eliminated texts, mismatching headings), "
+            "go on with the files that are ready instead of stopping."
+        ),
+    )
+    parser.add_argument(
+        "--reviewed",
+        action="store_true",
+        help="Confirm the optional human review (human_review.pause) is done and continue.",
     )
     parser.add_argument(
         "--allow-partial",
@@ -622,6 +714,7 @@ def main() -> None:
             print(f"Created output folder: {output_dir}")
 
         stopped = False
+        paused: PipelineBreakpoint | None = None
         ctx = StepContext(config=config, limiter=limiter, args=args)
 
         for step in STEPS:
@@ -634,6 +727,10 @@ def main() -> None:
             print(step.header(ctx) if step.header else f"\nStep: {step.name}")
             try:
                 result = step.run(ctx)
+            except PipelineBreakpoint as stop:
+                paused = stop
+                stopped = True
+                print(stop.format())
             except (FileNotFoundError, ValueError, RuntimeError) as exc:
                 exit_code = 1
                 stopped = True
@@ -657,6 +754,8 @@ def main() -> None:
 
         total_elapsed = round(time.time() - pipeline_start, 2)
         status = "completed" if exit_code == 0 else "completed_with_errors"
+        if paused is not None and exit_code == 0:
+            status = "paused"
         failure_summary = summarize_failures()
         update_metadata(
             status=status,

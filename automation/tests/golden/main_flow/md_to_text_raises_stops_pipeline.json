@@ -91,7 +91,11 @@
         "evaluated_policy_files": [],
         "small_scale": false,
         "steps_executed": [
-          "translation_md"
+          "input_process",
+          "txt_to_md",
+          "translation_md",
+          "human_review",
+          "promote"
         ]
       },
       "experiment_name": "first-full-run",
@@ -104,11 +108,27 @@
         "translation_qa": 0
       },
       "file_counts": {
+        "human_review": {
+          "skipped": 1,
+          "total": 0
+        },
+        "input_process": {
+          "skipped": 1,
+          "total": 0
+        },
+        "promote": {
+          "skipped": 1,
+          "total": 0
+        },
         "translation_md": {
           "failed": 0,
           "skipped": 0,
           "succeeded": 3,
           "total": 3
+        },
+        "txt_to_md": {
+          "skipped": 1,
+          "total": 0
         }
       },
       "status": "completed_with_errors",
@@ -117,8 +137,12 @@
         "updated_at": "<ts>"
       },
       "timing_seconds": {
+        "human_review": 0.0,
+        "input_process": 0.0,
+        "promote": 0.0,
         "total": "<elapsed>",
-        "translation_md": 1.5
+        "translation_md": 1.5,
+        "txt_to_md": 0.0
       },
       "token_usage": {
         "translation_md": {
@@ -130,5 +154,5 @@
     }
   },
   "stderr": "Step 'md_to_text' failed: missing chunks\nFailures logged: 0 translation, 0 translation_qa, 0 storage, 0 evaluation, 0 discrepancy_diagnosis, 1 step-level → <tmp>/out/failures.json\n",
-  "stdout": "Created output folder: <tmp>/out\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: md_to_text\n\nPipeline finished (status=completed_with_errors)\n"
+  "stdout": "Created output folder: <tmp>/out\n\nStep: input_process\nInput process: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: human_review\nHuman review: skipped (not under test)\n\nStep: promote\nPromote to processed/: skipped (not under test)\n\nStep: md_to_text\n\nPipeline finished (status=completed_with_errors)\n"
 }

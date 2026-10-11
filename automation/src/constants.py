@@ -50,7 +50,11 @@ DEFAULT_SMALL_SCALE_STEMS = tuple(Path(name).stem for name in SMALL_SCALE_FILES)
 # is already cleaned and structured, so translation reads and writes Markdown and `md_to_text`
 # renders the plain-text artifact everything downstream reads.
 DEFAULT_STEPS = (
-    "translation_md",
+    "input_process",   # stage 1.1: extract, quality check (breakpoint: OCR / eliminated files)
+    "txt_to_md",       # stage 1.2: cleaned_txt -> cleaned_markdown
+    "translation_md",  # stage 2
+    "human_review",    # stage 3 (optional pause, off by default)
+    "promote",         # stage 4 first step: header check, preprocessed/ -> processed/
     "md_to_text",
     "storage",
     "evaluation",
