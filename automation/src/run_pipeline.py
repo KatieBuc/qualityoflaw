@@ -1,4 +1,5 @@
 import argparse
+import faulthandler
 import json
 import logging
 import re
@@ -678,6 +679,12 @@ def main() -> None:
 
     try:
         output_dir = get_output_dir()
+        # A native crash (access violation in torch / faiss / the Vecalign extension) ends the process without any
+        # Python traceback; this prints the stacks of all threads to the console instead.
+        try:
+            faulthandler.enable(all_threads=True)
+        except (ValueError, OSError):    # stderr without a file descriptor (captured output)
+            pass
         validate_kwargs = dict(
             retrieval_enabled=config.retrieval.enabled,
             evaluation_method=config.evaluation_method,
