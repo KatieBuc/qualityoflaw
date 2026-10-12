@@ -263,3 +263,77 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
     }
     b_candidates = json.loads((rag_candidates_dir / "B.json").read_text(encoding="utf-8"))
     assert b_candidates["candidates"] == {}
+
+
+def test_a_finished_policy_is_saved_while_the_others_are_still_running(pipeline_config, data_root):
+    import threading
+
+    policy_dir = data_root / "results" / "translation"
+    policy_dir.mkdir(parents=True)
+    for name in ("FAST", "SLOW"):
+        (policy_dir / f"{name}.txt").write_text(name, encoding="utf-8")
+
+    fast_saved = threading.Event()
+    saved_while_slow_runs = []
+
+    def evaluate(policy_path, *args, **kwargs):
+        if policy_path.stem == "SLOW":
+            # SLOW only finishes after FAST's report was written
+            saved_while_slow_runs.append(fast_saved.wait(timeout=10))
+        return {"policy_file": policy_path.name, "evaluation_results": {}, "failed_dimensions": [], "errors": []}, {}
+
+    def finalize(final_report, policy_path, output_folder, **kwargs):
+        out = Path(output_folder) / f"{Path(policy_path).stem}.json"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text("{}", encoding="utf-8")
+        if Path(policy_path).stem == "FAST":
+            fast_saved.set()
+        return True, str(out)
+
+    wrapper = MagicMock()
+    wrapper.profile.deployment = "gpt-4o"
+    wrapper.token_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+    with patch("automation.src.run_eval._evaluate_policy_parallel", side_effect=evaluate), patch(
+        "automation.src.run_eval.finalize_and_save_report", side_effect=finalize
+    ):
+        result = run_evaluation_step(
+            config=pipeline_config,
+            wrapper=wrapper,
+            embedder=MagicMock(),
+            limiter=ConcurrencyLimiter(max_workers=2, enabled=True),
+            small_scale=False,
+            allow_partial=False,
+        )
+
+    assert saved_while_slow_runs == [True]          # FAST was on disk before SLOW's evaluation returned
+    assert result["counts"]["saved_reports"] == 2 and result["counts"]["failed"] == 0
+
+
+def test_a_failed_policy_is_recorded_without_stopping_the_others(pipeline_config, data_root):
+    policy_dir = data_root / "results" / "translation"
+    policy_dir.mkdir(parents=True)
+    for name in ("A", "B"):
+        (policy_dir / f"{name}.txt").write_text(name, encoding="utf-8")
+
+    def evaluate(policy_path, *args, **kwargs):
+        if policy_path.stem == "A":
+            raise RuntimeError("model unreachable")
+        return {"policy_file": policy_path.name, "evaluation_results": {}, "failed_dimensions": [], "errors": []}, {}
+
+    wrapper = MagicMock()
+    wrapper.profile.deployment = "gpt-4o"
+    wrapper.token_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+    with patch("automation.src.run_eval._evaluate_policy_parallel", side_effect=evaluate), patch(
+        "automation.src.run_eval.finalize_and_save_report",
+        return_value=(True, str(data_root / "results" / "evaluation" / "B.json")),
+    ):
+        result = run_evaluation_step(
+            config=pipeline_config,
+            wrapper=wrapper,
+            embedder=MagicMock(),
+            limiter=ConcurrencyLimiter(max_workers=2, enabled=True),
+            small_scale=False,
+            allow_partial=False,
+        )
+
+    assert result["failed_policies"] == ["A.txt"] and result["counts"]["saved_reports"] == 1

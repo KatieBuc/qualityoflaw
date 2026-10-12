@@ -1,5 +1,6 @@
 import json
 import logging
+import threading
 import sys
 import time
 from dataclasses import dataclass
@@ -614,6 +615,45 @@ def run_evaluation_step(
             "output_dir": str(output_dir),
         }
 
+    bookkeeping_lock = threading.Lock()
+
+    def settle(policy_path: Path, outcome) -> None:
+        """Save one policy's report the moment its evaluation is done, and record how it went.
+
+        `outcome` is the exception the evaluation raised or its `(final_report, candidates_by_id)`.
+        Runs in the worker thread that evaluated the policy, so a finished policy is on disk while the others are
+        still running. The files are per policy; only the shared lists and the failure log need the lock.
+        """
+        if isinstance(outcome, BaseException):
+            entry = _failure_entry_from_exc(policy_path.name, outcome)
+            logger.error(
+                "[%s] evaluation failed [%s]: %s", policy_path.name, entry["error_type"], entry["message"]
+            )
+            with bookkeeping_lock:
+                record_failure("evaluation", entry)
+                failed_policies.append(policy_path.name)
+            return
+
+        final_report, candidates_by_id = outcome
+        success, output_path, policy_failed = _process_policy_result(
+            policy_path,
+            final_report,
+            output_dir,
+            deployment_name,
+            allow_partial,
+            candidates_by_id,
+            rag_candidates_dir,
+        )
+        with bookkeeping_lock:
+            if output_path:
+                saved_paths.append(output_path)
+                print(f"Saved evaluation: {Path(output_path).name}")
+            if policy_failed:
+                failed_policies.append(policy_path.name)
+                record_failure("evaluation", _failure_entry_from_report(final_report))
+            elif success:
+                clear_failure("evaluation", policy_path.name)
+
     if use_serial:
         for index, policy_path in enumerate(policy_files, 1):
             print("\n" + "=" * 50)
@@ -621,7 +661,7 @@ def run_evaluation_step(
             print("=" * 50)
 
             try:
-                final_report, candidates_by_id = _evaluate_policy_serial(
+                outcome = _evaluate_policy_serial(
                     policy_path,
                     config.evaluation_criteria_dir,
                     template_text,
@@ -632,80 +672,31 @@ def run_evaluation_step(
                     complete_fn,
                 )
             except Exception as exc:
-                entry = _failure_entry_from_exc(policy_path.name, exc)
-                record_failure("evaluation", entry)
-                logger.error(
-                    "[%s] evaluation failed [%s]: %s",
-                    policy_path.name,
-                    entry["error_type"],
-                    entry["message"],
-                )
-                failed_policies.append(policy_path.name)
-                continue
-
-            success, output_path, policy_failed = _process_policy_result(
-                policy_path,
-                final_report,
-                output_dir,
-                deployment_name,
-                allow_partial,
-                candidates_by_id,
-                rag_candidates_dir,
-            )
-            if output_path:
-                saved_paths.append(output_path)
-            if policy_failed:
-                failed_policies.append(policy_path.name)
-                record_failure("evaluation", _failure_entry_from_report(final_report))
-            elif success:
-                clear_failure("evaluation", policy_path.name)
+                outcome = exc
+            settle(policy_path, outcome)
     else:
-        tasks = [
-            lambda p=p: _evaluate_policy_parallel(
-                p,
-                config.evaluation_criteria_dir,
-                template_text,
-                deployment_name,
-                rag_store_dir,
-                embedder,
-                config.retrieval,
-                complete_fn,
-                limiter,
-            )
-            for p in policy_files
-        ]
-        policy_results = limiter.run_parallel(tasks)
 
-        for policy_path, result in zip(policy_files, policy_results, strict=True):
-            if isinstance(result, BaseException):
-                entry = _failure_entry_from_exc(policy_path.name, result)
-                record_failure("evaluation", entry)
-                logger.error(
-                    "[%s] evaluation failed [%s]: %s",
-                    policy_path.name,
-                    entry["error_type"],
-                    entry["message"],
+        def evaluate_and_save(policy_path: Path) -> None:
+            try:
+                outcome = _evaluate_policy_parallel(
+                    policy_path,
+                    config.evaluation_criteria_dir,
+                    template_text,
+                    deployment_name,
+                    rag_store_dir,
+                    embedder,
+                    config.retrieval,
+                    complete_fn,
+                    limiter,
                 )
-                failed_policies.append(policy_path.name)
-                continue
+            except BaseException as exc:
+                outcome = exc
+            settle(policy_path, outcome)
 
-            final_report, candidates_by_id = result
-            success, output_path, policy_failed = _process_policy_result(
-                policy_path,
-                final_report,
-                output_dir,
-                deployment_name,
-                allow_partial,
-                candidates_by_id,
-                rag_candidates_dir,
-            )
-            if output_path:
-                saved_paths.append(output_path)
-            if policy_failed:
-                failed_policies.append(policy_path.name)
-                record_failure("evaluation", _failure_entry_from_report(final_report))
-            elif success:
-                clear_failure("evaluation", policy_path.name)
+        # Each task saves its own policy as soon as it finishes; nothing waits for the slowest one.
+        limiter.run_parallel([lambda p=p: evaluate_and_save(p) for p in policy_files])
+        order = {p.name: i for i, p in enumerate(policy_files)}
+        failed_policies.sort(key=lambda name: order.get(name, len(order)))
 
     elapsed = round(time.time() - start, 2)
     total = total_candidates
