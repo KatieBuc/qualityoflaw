@@ -1,0 +1,48 @@
+2026-10-14 11:58:46,954 INFO    QUALITY CHECK started (project=indonesia)
+2026-10-14 11:58:46,955 INFO    PASS 1. Russia - DomViol - Russian__txt (txt) -> cleaned_txt/1. Russia - DomViol - Russian__txt.txt [fixes: hygiene]
+2026-10-14 11:58:46,955 INFO    PASS 2. Egypt - DomViol - Arabic__txt (txt) -> cleaned_txt/2. Egypt - DomViol - Arabic__txt.txt [fixes: hygiene]
+2026-10-14 11:58:46,955 INFO    PASS 3. Spain - DomViol - Spanish__txt (txt) -> cleaned_txt/3. Spain - DomViol - Spanish__txt.txt [fixes: hygiene]
+2026-10-14 11:58:46,955 INFO    PASS 4. China - DomViol - Chinese__txt (txt) -> cleaned_txt/4. China - DomViol - Chinese__txt.txt [fixes: hygiene]
+2026-10-14 11:58:46,957 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
+2026-10-14 11:58:46,957 INFO    QUALITY CHECK finished: 5 policies, 5 in cleaned_txt, 0 need OCR, 0 eliminated (0 were already done)
+2026-10-14 11:58:47,245 INFO    QUALITY CHECK started (project=indonesia)
+2026-10-14 11:58:47,245 WARNING ELIMINATED 1. Russia - DomViol - Russian__txt (txt): C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/1. Russia - DomViol - Russian__txt.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 11:58:47,245 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
+2026-10-14 11:58:47,245 INFO    QUALITY CHECK finished: 2 policies, 1 in cleaned_txt, 0 need OCR, 1 eliminated (0 were already done)
+2026-10-14 11:59:39,606 INFO    QUALITY CHECK started (project=indonesia)
+2026-10-14 11:59:39,607 INFO    PASS 1. Russia - DomViol - Russian__txt (txt) -> cleaned_txt/1. Russia - DomViol - Russian__txt.txt [fixes: hygiene]
+2026-10-14 11:59:39,607 INFO    PASS 2. Egypt - DomViol - Arabic__txt (txt) -> cleaned_txt/2. Egypt - DomViol - Arabic__txt.txt [fixes: hygiene]
+2026-10-14 11:59:39,607 INFO    PASS 3. Spain - DomViol - Spanish__txt (txt) -> cleaned_txt/3. Spain - DomViol - Spanish__txt.txt [fixes: hygiene]
+2026-10-14 11:59:39,607 INFO    PASS 4. China - DomViol - Chinese__txt (txt) -> cleaned_txt/4. China - DomViol - Chinese__txt.txt [fixes: hygiene]
+2026-10-14 11:59:39,607 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
+2026-10-14 11:59:39,607 INFO    QUALITY CHECK finished: 5 policies, 5 in cleaned_txt, 0 need OCR, 0 eliminated (0 were already done)
+2026-10-14 11:59:39,892 INFO    QUALITY CHECK started (project=indonesia)
+2026-10-14 11:59:39,892 WARNING ELIMINATED 1. Russia - DomViol - Russian__txt (txt): C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/1. Russia - DomViol - Russian__txt.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 11:59:39,892 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
+2026-10-14 11:59:39,893 INFO    QUALITY CHECK finished: 2 policies, 1 in cleaned_txt, 0 need OCR, 1 eliminated (0 were already done)
+2026-10-14 12:02:45,409 INFO    QUALITY CHECK started (project=indonesia)
+2026-10-14 12:02:45,410 WARNING ELIMINATED BALI_BULELENG (txt): C6_glued_words=1.181 (limit 1.0) - fix extracted_txt/BALI_BULELENG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,410 WARNING ELIMINATED DI_YOGYAKARTA_GUNUNGKIDUL (txt): C3_noisy_tokens=0.0068 (limit 0.006) - fix extracted_txt/DI_YOGYAKARTA_GUNUNGKIDUL.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,410 WARNING ELIMINATED GORONTALO_GORONTALO_KOTA (txt): C3_noisy_tokens=0.0112 (limit 0.006) - fix extracted_txt/GORONTALO_GORONTALO_KOTA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,410 WARNING ELIMINATED GORONTALO_GORONTALO_UTARA (txt): C3_noisy_tokens=0.0076 (limit 0.006) - fix extracted_txt/GORONTALO_GORONTALO_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,410 WARNING ELIMINATED JAWA_BARAT_CIMAHI_KOTA (txt): C3_noisy_tokens=0.0068 (limit 0.006) - fix extracted_txt/JAWA_BARAT_CIMAHI_KOTA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_BARAT_MAJALENGKA (txt): C6_glued_words=1.39 (limit 1.0) - fix extracted_txt/JAWA_BARAT_MAJALENGKA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_TENGAH_MAGELANG (txt): C3_noisy_tokens=0.0099 (limit 0.006) - fix extracted_txt/JAWA_TENGAH_MAGELANG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_TIMUR_BANGKALAN (txt): C3_noisy_tokens=0.0078 (limit 0.006) - fix extracted_txt/JAWA_TIMUR_BANGKALAN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_TIMUR_MAGETAN (txt): C3_noisy_tokens=0.0109 (limit 0.006) - fix extracted_txt/JAWA_TIMUR_MAGETAN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_BARAT_BENGKAYANG (txt): C3_noisy_tokens=0.0116 (limit 0.006) - fix extracted_txt/KALIMANTAN_BARAT_BENGKAYANG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_BALANGAN (txt): C3_noisy_tokens=0.0084 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_BALANGAN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA (txt): C3_noisy_tokens=0.0139 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_TABALONG (txt): C3_noisy_tokens=0.0071 (limit 0.006), C6_glued_words=1.491 (limit 1.0) - fix extracted_txt/KALIMANTAN_SELATAN_TABALONG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_TAPIN (txt): C3_noisy_tokens=0.0087 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_TAPIN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_TENGAH_BARITO_TIMUR (txt): C3_noisy_tokens=0.0086 (limit 0.006), C6_glued_words=1.919 (limit 1.0) - fix extracted_txt/KALIMANTAN_TENGAH_BARITO_TIMUR.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA (txt): C3_noisy_tokens=0.012 (limit 0.006) - fix extracted_txt/KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA (txt): C3_noisy_tokens=0.0063 (limit 0.006) - fix extracted_txt/KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 WARNING ELIMINATED LAMPUNG_LAMPUNG_UTARA (txt): C3_noisy_tokens=0.0131 (limit 0.006) - fix extracted_txt/LAMPUNG_LAMPUNG_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 WARNING ELIMINATED MALUKU_SERAM_BAGIAN_BARAT (txt): C3_noisy_tokens=0.0079 (limit 0.006) - fix extracted_txt/MALUKU_SERAM_BAGIAN_BARAT.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 WARNING ELIMINATED SULAWESI_TENGAH_DONGGALA (txt): C3_noisy_tokens=0.0239 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_DONGGALA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 WARNING ELIMINATED SULAWESI_TENGAH_MOROWALI (txt): C3_noisy_tokens=0.0082 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_MOROWALI.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 WARNING ELIMINATED SULAWESI_TENGAH_POSO (txt): C3_noisy_tokens=0.0146 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_POSO.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 WARNING ELIMINATED SUMATERA_BARAT_DHARMASRAYA (txt): C3_noisy_tokens=0.0085 (limit 0.006), C6_glued_words=1.368 (limit 1.0) - fix extracted_txt/SUMATERA_BARAT_DHARMASRAYA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 WARNING ELIMINATED SUMATERA_SELATAN_MUSI_RAWAS (txt): C3_noisy_tokens=0.0073 (limit 0.006) - fix extracted_txt/SUMATERA_SELATAN_MUSI_RAWAS.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:02:45,412 INFO    QUALITY CHECK finished: 198 policies, 174 in cleaned_txt, 0 need OCR, 24 eliminated (174 were already done)
