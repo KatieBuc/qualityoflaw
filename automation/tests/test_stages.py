@@ -5,7 +5,8 @@ import pytest
 from automation.src.breakpoints import PipelineBreakpoint
 from automation.src.stages import (
     run_human_review_step,
-    run_input_process_step,
+    run_extract_step,
+    run_quality_check_step,
     run_validate_step,
     run_txt_to_md_step,
 )
@@ -143,36 +144,84 @@ def test_human_review_does_not_pause_when_nothing_is_waiting(tmp_path):
     assert run_human_review_step(config)["skipped_reason"] == "nothing waiting for review"
 
 
-# --- input process -------------------------------------------------------- #
-def test_input_process_pauses_for_an_unusable_file_and_lists_next_steps(tmp_path):
-    config = make_config(tmp_path)
+# --- extract and quality check -------------------------------------------- #
+def make_originals(config, **files):
     originals = config.raw / "raw_files"
-    originals.mkdir(parents=True)
-    (originals / "TOO_SHORT.txt").write_text("abc", encoding="utf-8")
+    originals.mkdir(parents=True, exist_ok=True)
+    for name, text in files.items():
+        (originals / f"{name}.txt").write_text(text, encoding="utf-8")
+
+
+def test_extract_only_extracts_and_never_judges(tmp_path):
+    config = make_config(tmp_path)
+    make_originals(config, TOO_SHORT="abc")
+
+    result = run_extract_step(config)
+
+    assert result["counts"]["succeeded"] == 1 and result["counts"]["failed"] == 0
+    assert (config.raw / "extracted_txt" / "TOO_SHORT.txt").exists()
+    assert not (config.root / "preprocessed" / "cleaned_txt").exists()            # no quality check happened
+    log = (config.raw / "input_process.log").read_text(encoding="utf-8")
+    assert "EXTRACTED TOO_SHORT.txt" in log and "ELIMINATED" not in log
+
+
+def test_extract_reports_a_failed_original(tmp_path):
+    config = make_config(tmp_path)
+    make_originals(config, OK="Pasal 1 isi.")
+    (config.raw / "raw_files" / "BAD.pdf").write_bytes(b"not a pdf")
+
+    result = run_extract_step(config)
+
+    assert result["counts"]["failed"] == 1 and result["failures"][0][0] == "BAD.pdf"
+
+
+def test_extract_is_skipped_without_an_originals_folder(tmp_path):
+    assert "no originals folder" in run_extract_step(make_config(tmp_path))["skipped_reason"]
+
+
+def test_quality_check_pauses_for_an_unusable_file_and_lists_next_steps(tmp_path):
+    config = make_config(tmp_path)
+    make_originals(config, TOO_SHORT="abc")
+    run_extract_step(config)
 
     with pytest.raises(PipelineBreakpoint) as stop:
-        run_input_process_step(config)
+        run_quality_check_step(config)
 
     text = stop.value.format()
+    assert "PAUSED at step 'quality_check'" in text
     assert "eliminated: TOO_SHORT" in text and "<name>.txt" in text and "__" not in text.split("What to do next")[1]
     assert "automation/docs/input_process.md" in text and "--skip-blocked" in text
     assert "ELIMINATED TOO_SHORT" in (config.raw / "input_process.log").read_text(encoding="utf-8")
 
 
-def test_input_process_goes_on_past_unresolved_files_with_skip_blocked(tmp_path):
+def test_quality_check_goes_on_past_unresolved_files_with_skip_blocked(tmp_path):
     config = make_config(tmp_path)
-    originals = config.raw / "raw_files"
-    originals.mkdir(parents=True)
-    (originals / "TOO_SHORT.txt").write_text("abc", encoding="utf-8")
+    make_originals(config, TOO_SHORT="abc")
+    run_extract_step(config)
 
-    result = run_input_process_step(config, skip_blocked=True)
+    result = run_quality_check_step(config, skip_blocked=True)
 
     assert result["counts"]["eliminated"] == 1
 
 
-def test_input_process_is_skipped_without_an_originals_folder(tmp_path):
+def test_quality_check_checks_what_you_put_in_extracted_txt_without_any_extraction(tmp_path):
+    """The fix-and-rerun loop needs the check alone: the file in extracted_txt is what gets judged."""
     config = make_config(tmp_path)
-    assert "no originals folder" in run_input_process_step(config)["skipped_reason"]
+    make_originals(config, FIXED="abc")
+    run_extract_step(config)
+    (config.raw / "extracted_txt" / "FIXED.txt").write_text(
+        "\n".join(f"Pasal {i}\nBupati melaksanakan perlindungan perempuan dan anak korban kekerasan nomor {i}." for i in range(1, 80)),
+        encoding="utf-8",
+    )
+
+    result = run_quality_check_step(config)
+
+    assert result["counts"]["succeeded"] == 1 and result["counts"]["eliminated"] == 0
+    assert (config.root / "preprocessed" / "cleaned_txt" / "FIXED.txt").exists()
+
+
+def test_quality_check_is_skipped_when_extracted_txt_does_not_exist(tmp_path):
+    assert "nothing to check" in run_quality_check_step(make_config(tmp_path))["skipped_reason"]
 
 
 # --- txt_to_md ------------------------------------------------------------ #

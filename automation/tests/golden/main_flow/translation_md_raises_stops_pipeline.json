@@ -84,7 +84,8 @@
         "evaluated_policy_files": [],
         "small_scale": false,
         "steps_executed": [
-          "input_process",
+          "extract",
+          "quality_check",
           "txt_to_md"
         ]
       },
@@ -98,7 +99,13 @@
         "translation_qa": 0
       },
       "file_counts": {
-        "input_process": {
+        "extract": {
+          "failed": 0,
+          "skipped": 1,
+          "succeeded": 0,
+          "total": 0
+        },
+        "quality_check": {
           "failed": 0,
           "skipped": 1,
           "succeeded": 0,
@@ -117,7 +124,8 @@
         "updated_at": "<ts>"
       },
       "timing_seconds": {
-        "input_process": 0.0,
+        "extract": 0.0,
+        "quality_check": 0.0,
         "total": "<elapsed>",
         "txt_to_md": 0.0
       },
@@ -125,5 +133,5 @@
     }
   },
   "stderr": "Step 'translation_md' failed: no markdown input\nFailures logged: 0 translation, 0 translation_qa, 0 storage, 0 evaluation, 0 discrepancy_diagnosis, 1 step-level → <tmp>/out/failures.json\n",
-  "stdout": "Created output folder: <tmp>/out\n\nStep: input_process\nInput process: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\n\nPipeline finished (status=completed_with_errors)\n"
+  "stdout": "Created output folder: <tmp>/out\n\nStep: extract\nExtract: skipped (not under test)\n\nStep: quality_check\nQuality check: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\n\nPipeline finished (status=completed_with_errors)\n"
 }

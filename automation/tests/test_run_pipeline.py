@@ -28,6 +28,7 @@ from automation.src.llm.model_profile import ModelProfile
 import json
 
 from automation.src.run_pipeline import (
+    STEPS,
     _print_overall_alignment_rate,
     build_config_summary,
     main,
@@ -271,10 +272,9 @@ def test_parse_steps_defaults_to_all():
     assert parse_steps(None) == list(DEFAULT_STEPS)
 
 
-def test_parse_steps_default_excludes_optional_steps():
-    # translation_qa_md and discrepancy_diagnosis are valid --steps values but
-    # deliberately left out of the default chain (extra QA pass / diagnosis
-    # cost isn't wanted on every run).
+def test_parse_steps_default_excludes_optional_and_legacy_steps():
+    # translation_qa_md (legacy) and discrepancy_diagnosis are valid --steps values but
+    # deliberately left out of the default chain.
     steps = parse_steps(None)
     assert "translation_qa_md" not in steps
     assert "discrepancy_diagnosis" not in steps
@@ -678,6 +678,18 @@ def test_parse_steps_accepts_full_markdown_chain_including_optional_steps():
 
 def test_optional_steps_are_not_part_of_default_steps():
     assert set(OPTIONAL_STEPS).isdisjoint(DEFAULT_STEPS)
+
+
+def test_extract_and_quality_check_are_two_steps_and_translation_qa_md_is_legacy():
+    from automation.src.constants import LEGACY_TEXT_STEPS, VALID_STEPS
+
+    assert "input_process" not in VALID_STEPS
+    assert DEFAULT_STEPS[:2] == ("extract", "quality_check")
+    assert "translation_qa_md" in LEGACY_TEXT_STEPS and "translation_qa_md" not in OPTIONAL_STEPS
+    assert "translation_qa_md" in VALID_STEPS and "translation_qa_md" not in DEFAULT_STEPS
+    assert parse_steps("extract,quality_check") == ["extract", "quality_check"]
+    names = [step.name for step in STEPS]
+    assert names.index("extract") < names.index("quality_check") < names.index("txt_to_md")   # they run in this order
 
 
 # ---------------------------------------------------------------------------
@@ -1326,9 +1338,9 @@ def test_main_legacy_text_chain_runs_translation_qa_and_markdown_only(
 @patch("automation.src.run_pipeline.init_metadata")
 @patch("automation.src.run_pipeline.run_md_translation_step")
 @patch(
-    "automation.src.run_pipeline.run_input_process_step",
+    "automation.src.run_pipeline.run_quality_check_step",
     side_effect=PipelineBreakpoint(
-        step="input_process",
+        step="quality_check",
         title="some files need your attention",
         next_steps=["OCR the PDF"],
         docs=["automation/docs/input_process.md"],
@@ -1348,6 +1360,6 @@ def test_main_pauses_at_a_breakpoint_without_failing(
     assert exc.value.code == 0
     mock_translate.assert_not_called()                      # later steps wait for the person
     out = capsys.readouterr().out
-    assert "PAUSED at step 'input_process'" in out and "1. OCR the PDF" in out
+    assert "PAUSED at step 'quality_check'" in out and "1. OCR the PDF" in out
     assert "automation/docs/input_process.md" in out and "run the same command again" in out
     assert any(c.kwargs.get("status") == "paused" for c in mock_update.call_args_list)

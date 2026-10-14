@@ -13,10 +13,11 @@ python -m automation.src.run_pipeline --small-scale   # only paths.small_scale_s
 
 | Stage | Step | What it does | Breakpoint |
 |---|---|---|---|
-| 1.1 | `input_process` | `raw/raw_files` -> text -> quality check and fix -> `preprocessed/cleaned_txt`; log `raw/input_process.log` | **yes**: files that need OCR or were eliminated |
+| 1.1 | `extract` | `raw/raw_files` -> `raw/extracted_txt/<name>.txt` (only policies in neither `extracted_txt` nor `cleaned_txt`); log `raw/input_process.log` | no (a failed file is a WARNING in the log) |
+| 1.1 | `quality_check` | `raw/extracted_txt` -> quality check and fix -> `preprocessed/cleaned_txt`; log `raw/input_process.log` | **yes**: files that need OCR or were eliminated |
 | 1.2 | `txt_to_md` | `cleaned_txt` (or `gold`, see `input_process.markdown_source`) -> `preprocessed/cleaned_markdown` | no (policies without heading structure are listed) |
 | 2 | `translation_md` | `cleaned_markdown` -> `preprocessed/translation_markdown` | no |
-| 2 | `translation_qa_md` | optional, run with `--steps` | no |
+| 2 | `translation_qa_md` | **legacy**, run with `--steps`; QA pass over the translated Markdown | no |
 | 3 | `human_review` | optional pause; off unless `human_review.pause: true` | **yes**, only when enabled |
 | 4 | `validate` | header check of every pair in `preprocessed/`; mismatches go to `preprocessed/header_check.log`. **Moves nothing** | **yes**: while `processed/` is empty |
 | 4 | `md_to_text`, `storage`, `evaluation` | section mapping, per-section embeddings, RAG evaluation | no |
@@ -24,7 +25,7 @@ python -m automation.src.run_pipeline --small-scale   # only paths.small_scale_s
 
 ## Breakpoints
 
-### `input_process`: files that need your attention
+### `quality_check`: files that need your attention
 The log (`raw/input_process.log`) has a WARNING line for every file that did not pass, with the indicators that failed.
 
 1. **Needs OCR** (a scanned PDF): OCR it and save the text over `raw/extracted_txt/<name>.txt`.
@@ -58,7 +59,7 @@ and prints the mismatches. While `processed/` holds no translation yet, the run 
 
 | Flag | Meaning |
 |------|---------|
-| `--skip-blocked` | At the `input_process` breakpoint, go on with the files that passed |
+| `--skip-blocked` | At the `quality_check` breakpoint, go on with the files that passed |
 | `--reviewed` | Confirm the optional human review and continue |
 
 `--force` cleans only `data/<project>/automation/`; `raw/`, `preprocessed/` and `processed/` are not touched.

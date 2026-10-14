@@ -1,6 +1,7 @@
 """Pipeline steps for stage 1 (input), stage 3 (human adjustment) and the start of stage 4.
 
-    input_process   originals -> extracted_txt -> quality check -> preprocessed/cleaned_txt   (breakpoint: OCR / eliminated files)
+    extract         originals -> extracted_txt/<name>.txt (policies in neither extracted_txt nor cleaned_txt)
+    quality_check   extracted_txt -> quality check and fix -> preprocessed/cleaned_txt   (breakpoint: OCR / eliminated files)
     txt_to_md       cleaned_txt (or gold) -> preprocessed/cleaned_markdown
     human_review    optional pause so a person can edit cleaned/translation markdown (breakpoint, off by default)
     validate        header check of every pair in preprocessed/ -> header_check.log (breakpoint: nothing in processed/ yet)
@@ -50,14 +51,39 @@ def _input_config(config: ResolvedPipelineConfig) -> InputProcessConfig:
 # --------------------------------------------------------------------------- #
 # Stage 1.1                                                                   #
 # --------------------------------------------------------------------------- #
-def run_input_process_step(config: ResolvedPipelineConfig, *, small_scale: bool = False, skip_blocked: bool = False) -> dict:
+def run_extract_step(config: ResolvedPipelineConfig, *, small_scale: bool = False) -> dict:
+    """PDF / HTML / TXT originals -> ``extracted_txt/<name>.txt``, for the policies in neither
+    ``cleaned_txt/`` nor ``extracted_txt/``. Judges nothing: a scanned PDF gives an empty file."""
     start = time.time()
     ip = _input_config(config)
     if not ip.raw_files_dir.is_dir():
         return _skipped(f"no originals folder ({ip.raw_files_dir})", start)
 
-    extraction = extract_all(ip, small_scale=small_scale)
-    failed_extractions = [r for r in extraction if r.status == "failed"]
+    results = extract_all(ip, small_scale=small_scale)
+    by_status: dict[str, int] = {}
+    for r in results:
+        by_status[r.status] = by_status.get(r.status, 0) + 1
+    return {
+        "counts": {
+            "total": len(results),
+            "succeeded": by_status.get("extracted", 0),
+            "skipped": sum(n for status, n in by_status.items() if status.startswith("skipped")),
+            "failed": by_status.get("failed", 0),
+            "unsupported": by_status.get("unsupported", 0),
+        },
+        "elapsed_s": round(time.time() - start, 2),
+        "failures": [(r.source, r.detail) for r in results if r.status in ("failed", "unsupported")],
+        "log_path": str(ip.log_path),
+    }
+
+
+def run_quality_check_step(config: ResolvedPipelineConfig, *, small_scale: bool = False, skip_blocked: bool = False) -> dict:
+    """Quality-check every text waiting in ``extracted_txt/``; passed texts go to ``cleaned_txt/``."""
+    start = time.time()
+    ip = _input_config(config)
+    if not ip.extracted_txt_dir.is_dir():
+        return _skipped(f"nothing to check ({ip.extracted_txt_dir} does not exist; run the extract step first)", start)
+
     report = check_all(ip, write_cleaned=True, small_scale=small_scale)
     summary = report["summary"]
     needs_ocr, eliminated = report["needs_ocr"], report["eliminated"]
@@ -68,7 +94,7 @@ def run_input_process_step(config: ResolvedPipelineConfig, *, small_scale: bool 
             "needs_ocr": summary["needs_ocr"],
             "eliminated": summary["eliminated"],
             "skipped": 0,
-            "failed": len(failed_extractions),
+            "failed": 0,
         },
         "elapsed_s": round(time.time() - start, 2),
         "log_path": str(ip.log_path),
@@ -83,7 +109,7 @@ def run_input_process_step(config: ResolvedPipelineConfig, *, small_scale: bool 
         details += [f"needs OCR: {e['pdf'] or e['stem']}" for e in needs_ocr[:MAX_LISTED]]
         details += [f"eliminated: {e['stem']}" for e in eliminated[:MAX_LISTED]]
         raise PipelineBreakpoint(
-            step="input_process",
+            step="quality_check",
             title="some files need your attention",
             details=details,
             next_steps=[

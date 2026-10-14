@@ -50,7 +50,8 @@ from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
 from automation.src.stages import (
     run_human_review_step,
-    run_input_process_step,
+    run_extract_step,
+    run_quality_check_step,
     run_validate_step,
     run_txt_to_md_step,
 )
@@ -303,8 +304,12 @@ def _print_failed_files(result: dict, *, style: str) -> None:
         print(line, file=sys.stderr)
 
 
-def _run_input_process(ctx: StepContext) -> dict:
-    return run_input_process_step(
+def _run_extract(ctx: StepContext) -> dict:
+    return run_extract_step(ctx.config, small_scale=ctx.args.small_scale)
+
+
+def _run_quality_check(ctx: StepContext) -> dict:
+    return run_quality_check_step(
         ctx.config, small_scale=ctx.args.small_scale, skip_blocked=getattr(ctx.args, "skip_blocked", False)
     )
 
@@ -323,16 +328,30 @@ def _run_validate(ctx: StepContext) -> dict:
     return run_validate_step(ctx.config, small_scale=ctx.args.small_scale)
 
 
-def _report_input_process(ctx: StepContext, result: dict) -> bool:
+def _report_extract(ctx: StepContext, result: dict) -> bool:
     if result.get("skipped_reason"):
-        print(f"Input process: skipped ({result['skipped_reason']})")
+        print(f"Extract: skipped ({result['skipped_reason']})")
         return False
     c = result["counts"]
     print(
-        f"Input process: {c['total']} policies -> {c['succeeded']} in cleaned_txt, "
-        f"{c['needs_ocr']} need OCR, {c['eliminated']} eliminated (report: {result['report_path']})"
+        f"Extract: {c['succeeded']} extracted, {c['skipped']} already in extracted_txt / cleaned_txt, "
+        f"{c['failed']} failed, {c['unsupported']} unsupported (log: {result['log_path']})"
     )
+    for source, detail in result["failures"][:8]:
+        print(f"  {source}: {detail}", file=sys.stderr)
     return c["failed"] > 0
+
+
+def _report_quality_check(ctx: StepContext, result: dict) -> bool:
+    if result.get("skipped_reason"):
+        print(f"Quality check: skipped ({result['skipped_reason']})")
+        return False
+    c = result["counts"]
+    print(
+        f"Quality check: {c['total']} policies -> {c['succeeded']} in cleaned_txt, "
+        f"{c['needs_ocr']} need OCR, {c['eliminated']} eliminated (log: {result['log_path']})"
+    )
+    return False
 
 
 def _report_txt_to_md(ctx: StepContext, result: dict) -> bool:
@@ -495,7 +514,8 @@ def _storage_skip(ctx: StepContext) -> str | None:
 # Steps run in this order, regardless of the order given to --steps.
 STEPS: tuple[Step, ...] = (
     # Stages 1-3: input, translation, optional human adjustment. They stop at a breakpoint when a person has to act.
-    Step("input_process", _run_input_process, _report_input_process),
+    Step("extract", _run_extract, _report_extract),
+    Step("quality_check", _run_quality_check, _report_quality_check),
     Step("txt_to_md", _run_txt_to_md, _report_txt_to_md),
     # Markdown path (default chain).
     Step(
@@ -579,12 +599,12 @@ def main() -> None:
         "--steps",
         default=None,
         help=(
-            "Comma-separated steps. Markdown path (default): translation_md, "
-            "md_to_text, storage, evaluation. comparison, translation_qa_md and "
-            "discrepancy_diagnosis are part of the Markdown path but must be requested "
-            "explicitly (not run by default). The raw-OCR-text path (translation, "
-            "translation_qa, markdown) stays available for comparison but is not run by "
-            "default either. The evaluation/comparison steps' behavior "
+            "Comma-separated steps. Default chain: extract, quality_check, txt_to_md, "
+            "translation_md, human_review, validate, md_to_text, storage, evaluation. "
+            "comparison and discrepancy_diagnosis must be requested explicitly (not run by "
+            "default). Legacy steps, also only on request: translation_qa_md (QA pass over "
+            "the translated Markdown) and the raw-OCR-text path (translation, "
+            "translation_qa, markdown). The evaluation/comparison steps' behavior "
             "(RAG vs sliding window, and which results/ subfolder they use) is controlled by "
             "evaluation.method in pipeline_config.yaml, not by --steps."
         ),
@@ -608,7 +628,7 @@ def main() -> None:
         "--skip-blocked",
         action="store_true",
         help=(
-            "At the input_process breakpoint (files that need OCR or were eliminated), go on with the files that "
+            "At the quality_check breakpoint (files that need OCR or were eliminated), go on with the files that "
             "passed instead of stopping."
         ),
     )

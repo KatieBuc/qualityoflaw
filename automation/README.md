@@ -4,14 +4,15 @@ Pipeline that translates Indonesian local policies to English, has an LLM code e
 56-indicator rubric, and compares the result with a hand-coded golden dataset.
 
 ```
-input_process -> txt_to_md -> translation_md -> human_review -> validate -> md_to_text -> storage -> evaluation -> comparison
+extract -> quality_check -> txt_to_md -> translation_md -> human_review -> validate -> md_to_text -> storage -> evaluation -> comparison
 ```
 
 The first steps need a person now and then (OCR, fixing a text, checking headings). Where that happens the run
 **pauses**, prints what to do, and continues when you run the same command again: see [docs/pipeline.md](docs/pipeline.md).
 
-Two more steps run only when you ask for them: `translation_qa_md` (audits and repairs each translated chunk, after
-`translation_md`) and `discrepancy_diagnosis` (LLM root-cause report for every mismatch, after `comparison`).
+`comparison` and `discrepancy_diagnosis` (LLM root-cause report for every mismatch, after `comparison`) run only when you ask
+for them. **Legacy steps**, also only on request: `translation_qa_md` (audits and repairs each translated chunk, after
+`translation_md`) and the raw-OCR-text path `translation`, `translation_qa`, `markdown`.
 
 ## Setup
 
@@ -47,7 +48,7 @@ python -m automation.src.run_pipeline --force
 | `--steps a,b,c` | Steps to run. Default: the five in the chain above. Steps always execute in pipeline order |
 | `--small-scale` | Only the policies listed in `paths.small_scale_stems` |
 | `--force` | Clean `data/<project>/automation/`, then run. Checked first: if the requested steps cannot rebuild what they need, nothing is deleted. Does not touch `preprocessed/` or `processed/`, so existing translations are kept (delete those files to retranslate) |
-| `--skip-blocked` | At the `input_process` breakpoint, continue with the files that passed |
+| `--skip-blocked` | At the `quality_check` breakpoint, continue with the files that passed |
 | `--reviewed` | Confirm the optional human review and continue |
 | `--allow-partial` | Save incomplete evaluation / diagnosis reports instead of failing them |
 | `--max-workers N`, `--no-concurrency` | Override or disable parallel API calls |
@@ -57,10 +58,11 @@ python -m automation.src.run_pipeline --force
 
 | Step | Reads | Writes (under `data/<project>/automation/` unless noted) |
 |------|-------|-----------|
-| `input_process` | `raw/raw_files/` | `preprocessed/cleaned_txt/`, `raw/input_process.log` (pauses for OCR / eliminated files) |
+| `extract` | `raw/raw_files/` | `raw/extracted_txt/<name>.txt`, `raw/input_process.log` |
+| `quality_check` | `raw/extracted_txt/` | `preprocessed/cleaned_txt/`, `raw/input_process.log` (pauses for OCR / eliminated files) |
 | `txt_to_md` | `preprocessed/cleaned_txt/` or `raw/gold/` | `preprocessed/cleaned_markdown/` |
 | `translation_md` | `data/<project>/preprocessed/cleaned_markdown/*<suffix>` | `data/<project>/preprocessed/translation_markdown/` (no chunks saved) |
-| `translation_qa_md` *(optional)* | source + translated markdown | rewrites the translated markdown in place; `results/translation_qa/` |
+| `translation_qa_md` *(legacy)* | source + translated markdown | rewrites the translated markdown in place; `results/translation_qa/` |
 | `human_review` *(optional pause)* | - | - (pauses when `human_review.pause: true`) |
 | `validate` | `preprocessed/{cleaned,translation}_markdown` | `preprocessed/header_check.log`; moves nothing, you move accepted pairs to `processed/` (pauses while it is empty) |
 | `md_to_text` | translated + source markdown (`preprocessed/`) | `results/translation/*.txt`, `mid_product/chunks/` |
@@ -148,5 +150,5 @@ evaluation reads only `processed/`.
 4. **Evaluation** (`md_to_text`, `storage`, `evaluation`): reads `processed/`, header validation first, RAG evaluation,
    evidence mapping (index pairing, else `alignment.method`), outputs under `data/<project>/automation/` (the project's single, final result folder; a rerun cleans it with `--force`).
 
-`comparison`, `translation_qa_md` and `discrepancy_diagnosis` are optional steps. Install the alignment
+`comparison` and `discrepancy_diagnosis` are optional steps; `translation_qa_md` is a legacy step. Install the alignment
 dependencies with `pip install -r automation/requirements-align.txt` (plus Vecalign, see that file).

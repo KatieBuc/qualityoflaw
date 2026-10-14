@@ -52,7 +52,8 @@ DEFAULT_SMALL_SCALE_STEMS = tuple(Path(name).stem for name in SMALL_SCALE_FILES)
 # is already cleaned and structured, so translation reads and writes Markdown and `md_to_text`
 # renders the plain-text artifact everything downstream reads.
 DEFAULT_STEPS = (
-    "input_process",   # stage 1.1: extract, quality check (breakpoint: OCR / eliminated files)
+    "extract",         # stage 1.1: originals -> extracted_txt
+    "quality_check",   # stage 1.1: extracted_txt -> cleaned_txt (breakpoint: OCR / eliminated files)
     "txt_to_md",       # stage 1.2: cleaned_txt -> cleaned_markdown
     "translation_md",  # stage 2
     "human_review",    # stage 3 (optional pause, off by default)
@@ -62,16 +63,19 @@ DEFAULT_STEPS = (
     "evaluation",
 )
 
-# translation_qa_md, comparison and discrepancy_diagnosis stay out of the
-# default chain (extra QA / comparison against golden labels / diagnosis
-# isn't wanted on every run) but remain valid --steps values so they can
-# still be run explicitly, e.g. `--steps comparison`.
-OPTIONAL_STEPS = ("translation_qa_md", "comparison", "discrepancy_diagnosis")
+# comparison and discrepancy_diagnosis stay out of the default chain
+# (comparison against golden labels / diagnosis isn't wanted on every run)
+# but remain valid --steps values so they can still be run explicitly,
+# e.g. `--steps comparison`.
+OPTIONAL_STEPS = ("comparison", "discrepancy_diagnosis")
 
-# The raw-OCR-text path (`translation`, `translation_qa`, `markdown`) is kept
-# runnable via --steps so the two can be compared on the same corpus, but is
-# no longer part of the default chain.
-LEGACY_TEXT_STEPS = ("translation", "translation_qa", "markdown")
+# Legacy steps are kept runnable via --steps but are not part of the default
+# chain and are no longer developed: the raw-OCR-text path (`translation`,
+# `translation_qa`, `markdown`), kept so the two paths can be compared on the
+# same corpus, and `translation_qa_md` (the LLM audit-and-repair pass over a
+# translated Markdown file). When requested, `translation_qa_md` still runs
+# right after `translation_md`.
+LEGACY_TEXT_STEPS = ("translation", "translation_qa", "markdown", "translation_qa_md")
 
 VALID_STEPS = DEFAULT_STEPS + OPTIONAL_STEPS + LEGACY_TEXT_STEPS
 

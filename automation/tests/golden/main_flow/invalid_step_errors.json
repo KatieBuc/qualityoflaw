@@ -6,6 +6,6 @@
     "files": [],
     "metadata": null
   },
-  "stderr": "Error: Invalid steps: bogus. Valid: input_process, txt_to_md, translation_md, human_review, validate, md_to_text, storage, evaluation, translation_qa_md, comparison, discrepancy_diagnosis, translation, translation_qa, markdown\n",
+  "stderr": "Error: Invalid steps: bogus. Valid: extract, quality_check, txt_to_md, translation_md, human_review, validate, md_to_text, storage, evaluation, comparison, discrepancy_diagnosis, translation, translation_qa, markdown, translation_qa_md\n",
   "stdout": ""
 }

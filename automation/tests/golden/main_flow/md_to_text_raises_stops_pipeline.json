@@ -91,7 +91,8 @@
         "evaluated_policy_files": [],
         "small_scale": false,
         "steps_executed": [
-          "input_process",
+          "extract",
+          "quality_check",
           "txt_to_md",
           "translation_md",
           "human_review",
@@ -108,13 +109,19 @@
         "translation_qa": 0
       },
       "file_counts": {
+        "extract": {
+          "failed": 0,
+          "skipped": 1,
+          "succeeded": 0,
+          "total": 0
+        },
         "human_review": {
           "failed": 0,
           "skipped": 1,
           "succeeded": 0,
           "total": 0
         },
-        "input_process": {
+        "quality_check": {
           "failed": 0,
           "skipped": 1,
           "succeeded": 0,
@@ -145,8 +152,9 @@
         "updated_at": "<ts>"
       },
       "timing_seconds": {
+        "extract": 0.0,
         "human_review": 0.0,
-        "input_process": 0.0,
+        "quality_check": 0.0,
         "total": "<elapsed>",
         "translation_md": 1.5,
         "txt_to_md": 0.0,
@@ -162,5 +170,5 @@
     }
   },
   "stderr": "Step 'md_to_text' failed: missing chunks\nFailures logged: 0 translation, 0 translation_qa, 0 storage, 0 evaluation, 0 discrepancy_diagnosis, 1 step-level → <tmp>/out/failures.json\n",
-  "stdout": "Created output folder: <tmp>/out\n\nStep: input_process\nInput process: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: human_review\nHuman review: skipped (not under test)\n\nStep: validate\nHeader check: 0 pair(s) in preprocessed/ match, 0 mismatch (0 policy(ies) in processed/); log: \n\nStep: md_to_text\n\nPipeline finished (status=completed_with_errors)\n"
+  "stdout": "Created output folder: <tmp>/out\n\nStep: extract\nExtract: skipped (not under test)\n\nStep: quality_check\nQuality check: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: human_review\nHuman review: skipped (not under test)\n\nStep: validate\nHeader check: 0 pair(s) in preprocessed/ match, 0 mismatch (0 policy(ies) in processed/); log: \n\nStep: md_to_text\n\nPipeline finished (status=completed_with_errors)\n"
 }
