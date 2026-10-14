@@ -51,7 +51,7 @@ from automation.src.run_eval import run_evaluation_step
 from automation.src.stages import (
     run_human_review_step,
     run_input_process_step,
-    run_promote_step,
+    run_validate_step,
     run_txt_to_md_step,
 )
 from automation.src.legacy.run_eval_sliding_window import run_sliding_window_evaluation_step
@@ -319,10 +319,8 @@ def _run_human_review(ctx: StepContext) -> dict:
     )
 
 
-def _run_promote(ctx: StepContext) -> dict:
-    return run_promote_step(
-        ctx.config, small_scale=ctx.args.small_scale, skip_blocked=getattr(ctx.args, "skip_blocked", False)
-    )
+def _run_validate(ctx: StepContext) -> dict:
+    return run_validate_step(ctx.config, small_scale=ctx.args.small_scale)
 
 
 def _report_input_process(ctx: StepContext, result: dict) -> bool:
@@ -357,16 +355,14 @@ def _report_human_review(ctx: StepContext, result: dict) -> bool:
     return False
 
 
-def _report_promote(ctx: StepContext, result: dict) -> bool:
-    if result.get("skipped_reason"):
-        print(f"Promote to processed/: skipped ({result['skipped_reason']})")
-        return False
+def _report_validate(ctx: StepContext, result: dict) -> bool:
     c = result["counts"]
     print(
-        f"Promote to processed/: {c['succeeded']} moved, {c['skipped']} already there, {c['failed']} blocked"
+        f"Header check: {c['succeeded']} pair(s) in preprocessed/ match, {c['failed']} mismatch "
+        f"({result['in_processed']} policy(ies) in processed/); log: {result['log_path']}"
     )
-    for stem, problem in result["blocked"][:8]:
-        print(f"  blocked {stem}: {problem}", file=sys.stderr)
+    for stem, problem in result["mismatches"][:8]:
+        print(f"  mismatch {stem}: {problem}", file=sys.stderr)
     return False
 
 
@@ -517,7 +513,7 @@ STEPS: tuple[Step, ...] = (
         records_failures=True,
     ),
     Step("human_review", _run_human_review, _report_human_review),
-    Step("promote", _run_promote, _report_promote),
+    Step("validate", _run_validate, _report_validate),
     Step(
         "md_to_text",
         _run_without_llm(lambda: run_md_to_text_step),
@@ -612,8 +608,8 @@ def main() -> None:
         "--skip-blocked",
         action="store_true",
         help=(
-            "At a breakpoint caused by files that are not ready (OCR / eliminated texts, mismatching headings), "
-            "go on with the files that are ready instead of stopping."
+            "At the input_process breakpoint (files that need OCR or were eliminated), go on with the files that "
+            "passed instead of stopping."
         ),
     )
     parser.add_argument(

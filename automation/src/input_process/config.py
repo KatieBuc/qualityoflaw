@@ -13,7 +13,12 @@ from pathlib import Path
 
 import yaml
 
-from automation.src.constants import DEFAULT_PIPELINE_CONFIG, DEFAULT_PROJECT, PROJECT_ROOT
+from automation.src.constants import (
+    DEFAULT_PIPELINE_CONFIG,
+    DEFAULT_PROJECT,
+    EXTRACTION_MANIFEST_FILENAME,
+    PROJECT_ROOT,
+)
 from automation.src.paths import project_dirs
 
 DEFAULT_LANGUAGE = "Indonesian"
@@ -27,7 +32,7 @@ class InputProcessConfig:
     raw_files_dir: Path
     extracted_txt_dir: Path
     cleaned_txt_dir: Path
-    report_path: Path
+    log_path: Path
     thresholds: dict = field(default_factory=dict)
     small_scale_stems: tuple[str, ...] = ()
     #: Regex with one group that picks the language out of a policy name
@@ -52,6 +57,11 @@ class InputProcessConfig:
         from automation.src.input_process.quality.metrics import language_of
 
         return language_of(stem, self.language_regex, self.language)
+
+    @property
+    def manifest_path(self) -> Path:
+        """Which extracted texts are our own extraction (see extract.ExtractionManifest)."""
+        return self.log_path.with_name(EXTRACTION_MANIFEST_FILENAME)
 
     @property
     def raw_dir(self) -> Path:
@@ -95,7 +105,7 @@ def parse_input_process_config(data: dict, *, project: str | None = None) -> Inp
         raw_files_dir=_resolve(block.get("raw_files_dir") or dirs.raw_files),
         extracted_txt_dir=_resolve(block.get("extracted_txt_dir") or dirs.extracted_txt),
         cleaned_txt_dir=_resolve(block.get("cleaned_txt_dir") or dirs.cleaned_txt),
-        report_path=_resolve(block.get("report_path") or dirs.input_report),
+        log_path=_resolve(block.get("log_path") or dirs.input_log),
         thresholds=dict(thresholds),
         language_pattern=pattern,
         gold_dir=_resolve(block.get("gold_dir") or dirs.gold),

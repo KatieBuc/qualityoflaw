@@ -131,8 +131,8 @@ def mixed(tmp_path):
                     "language_pattern": pattern,
                     "raw_files_dir": str(tmp_path / "raw_files"),
                     "extracted_txt_dir": str(tmp_path / "extracted_txt"),
-                    "cleaned_txt_dir": str(tmp_path / "cleaned_txt"),
-                    "report_path": str(tmp_path / "report.json"),
+                    "cleaned_txt_dir": str(tmp_path / "preprocessed" / "cleaned_txt"),
+                    "log_path": str(tmp_path / "input_process.log"),
                 }
             }
         )
@@ -143,7 +143,11 @@ def mixed(tmp_path):
 
 
 def write(cfg, stem, fmt, text):
-    (cfg.extracted_txt_dir / f"{stem}__{fmt}.txt").write_text(text, encoding="utf-8")
+    """`extracted_txt/<stem>.txt`. fmt "ocr" = text you supplied for a policy whose original is a PDF."""
+    if fmt == "ocr":
+        cfg.raw_files_dir.mkdir(exist_ok=True)
+        (cfg.raw_files_dir / f"{stem}.pdf").write_bytes(b"%PDF")
+    (cfg.extracted_txt_dir / f"{stem}.txt").write_text(text, encoding="utf-8")
 
 
 def test_a_multilingual_folder_is_judged_file_by_file(mixed):

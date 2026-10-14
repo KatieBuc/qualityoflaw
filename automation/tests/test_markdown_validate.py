@@ -39,28 +39,18 @@ def project(tmp_path, monkeypatch):
     return tmp_path / "demo"
 
 
-def test_promote_moves_valid_pairs(project):
-    report = v.promote("demo")
-    assert report.ok
-    assert (project / "processed" / "cleaned_markdown" / "A.cleaned.md").exists()
-    assert (project / "processed" / "translation_markdown" / "A.md").exists()
-    assert not (project / "preprocessed" / "translation_markdown" / "A.md").exists()
+def test_cli_reports_mismatches_and_moves_nothing(project, capsys):
+    (project / "preprocessed" / "translation_markdown" / "A.md").write_text("no headings", encoding="utf-8")
 
+    assert v.main(["--project", "demo"]) == 1
 
-def test_promote_moves_nothing_when_any_pair_fails(project):
-    (project / "preprocessed" / "translation_markdown" / "A.md").write_text(
-        "no headings", encoding="utf-8"
-    )
-    report = v.promote("demo")
-    assert not report.ok
+    assert "FAILED A" in capsys.readouterr().out
     assert (project / "preprocessed" / "cleaned_markdown" / "A.cleaned.md").exists()
     assert not (project / "processed").exists()
 
 
-def test_promote_refuses_to_overwrite(project):
-    v.promote("demo")
-    pre = project / "preprocessed"
-    (pre / "cleaned_markdown" / "A.cleaned.md").write_text(SRC, encoding="utf-8")
-    (pre / "translation_markdown" / "A.md").write_text(GOOD, encoding="utf-8")
-    with pytest.raises(FileExistsError):
-        v.promote("demo")
+def test_cli_passes_for_matching_pairs_and_still_moves_nothing(project, capsys):
+    assert v.main(["--project", "demo"]) == 0
+    assert "1/1 pairs valid" in capsys.readouterr().out
+    assert (project / "preprocessed" / "translation_markdown" / "A.md").exists()
+    assert not (project / "processed").exists()

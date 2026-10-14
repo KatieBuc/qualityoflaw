@@ -1,7 +1,7 @@
 """Stage 1.2 - TXT -> Markdown.
 
 Stage 1.1 (``automation.src.input_process``) leaves the texts that passed in
-``data/<project>/raw/cleaned_txt/<POLICY>.txt``; hand-cleaned texts can live in
+``data/<project>/preprocessed/cleaned_txt/<POLICY>.txt``; hand-cleaned texts can live in
 ``data/<project>/raw/gold/``. Which of the two is converted is
 ``input_process.markdown_source`` (``InputProcessConfig.markdown_source_dir``).
 
@@ -13,13 +13,13 @@ profile there (Indonesian) follow that language's convention.
     python -m automation.src.input_process markdown [--force] [--small-scale]
 """
 
-import json
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable
 
 from automation.src.input_process import heading_keywords as keywords
 from automation.src.input_process import txt_to_md_v7 as converter
+from automation.src.input_process.runlog import run_log
 
 OUTPUT_SUFFIX = ".cleaned.md"
 NO_STRUCTURE = "no heading structure detected"
@@ -51,7 +51,7 @@ def run_ingest_step(
     language_for: Callable[[str], str | None] = lambda stem: None,
     stems: set[str] | None = None,
     force: bool = False,
-    report_path: Path | None = None,
+    log_path: Path | None = None,
     suffix: str = OUTPUT_SUFFIX,
     done_dirs: tuple[Path, ...] = (),
 ) -> dict:
@@ -59,7 +59,7 @@ def run_ingest_step(
 
     An existing output is kept unless `force`. `stems` limits the run to those policies.
     Texts without a recognisable heading structure are not written and are listed under
-    ``skipped`` (and in the JSON report when `report_path` is given). A policy that already has its
+    ``skipped``; with `log_path` every file is also logged (a WARNING for a text that was not converted). A policy that already has its
     Markdown in one of `done_dirs` (the ``processed/`` copy) is not converted again.
     """
     source_dir = Path(source_dir)
@@ -98,6 +98,15 @@ def run_ingest_step(
         "converted": converted,
         "skipped": skipped,
     }
-    if report_path is not None:
-        Path(report_path).write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
+    if log_path is not None:
+        with run_log(Path(log_path)) as log:
+            log.info("MARKDOWN CONVERSION started (%s -> %s)", source_dir, out_dir)
+            for item in converted:
+                log.info("MARKDOWN CONVERTED %s (%s)", item["stem"], item["hierarchy"])
+            for item in skipped:
+                log.warning("MARKDOWN SKIPPED %s: %s - write its Markdown by hand into %s to include it", item["stem"], item["reason"], out_dir)
+            log.info(
+                "MARKDOWN CONVERSION finished: %d converted, %d already there, %d skipped",
+                len(converted), len(kept), len(skipped),
+            )
     return result

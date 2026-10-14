@@ -101,7 +101,7 @@
           "txt_to_md",
           "translation_md",
           "human_review",
-          "promote",
+          "validate",
           "md_to_text",
           "storage",
           "evaluation"
@@ -124,11 +124,15 @@
           "total": 3
         },
         "human_review": {
+          "failed": 0,
           "skipped": 1,
+          "succeeded": 0,
           "total": 0
         },
         "input_process": {
+          "failed": 0,
           "skipped": 1,
+          "succeeded": 0,
           "total": 0
         },
         "md_to_text": {
@@ -139,10 +143,6 @@
           "source_unaligned": 2,
           "succeeded": 3,
           "total": 3
-        },
-        "promote": {
-          "skipped": 1,
-          "total": 0
         },
         "storage": {
           "failed": 0,
@@ -157,7 +157,15 @@
           "total": 3
         },
         "txt_to_md": {
+          "failed": 0,
           "skipped": 1,
+          "succeeded": 0,
+          "total": 0
+        },
+        "validate": {
+          "failed": 0,
+          "skipped": 1,
+          "succeeded": 0,
           "total": 0
         }
       },
@@ -171,11 +179,11 @@
         "human_review": 0.0,
         "input_process": 0.0,
         "md_to_text": 0.1,
-        "promote": 0.0,
         "storage": 0.4,
         "total": "<elapsed>",
         "translation_md": 1.5,
-        "txt_to_md": 0.0
+        "txt_to_md": 0.0,
+        "validate": 0.0
       },
       "token_usage": {
         "evaluation": {
@@ -192,5 +200,5 @@
     }
   },
   "stderr": "",
-  "stdout": "Cleaned <tmp>/out (0 entries removed)\nCreated output folder: <tmp>/out\n\nStep: input_process\nInput process: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: human_review\nHuman review: skipped (not under test)\n\nStep: promote\nPromote to processed/: skipped (not under test)\n\nStep: md_to_text\nMarkdown to text: 3 succeeded, 0 skipped, 0 failed, 1 structure-repaired, 2 with unpaired source, 0 with LOST CLAUSES\n\nStep: storage\nStorage: 3 succeeded, 0 skipped, 0 failed\n\nStep: evaluation (method=rag)\nEvaluation: 3 succeeded, 0 failed\n\nPipeline finished (status=completed)\n"
+  "stdout": "Cleaned <tmp>/out (0 entries removed)\nCreated output folder: <tmp>/out\n\nStep: input_process\nInput process: skipped (not under test)\n\nStep: txt_to_md\nText to Markdown: skipped (not under test)\n\nStep: translation_md\nTranslation (markdown): 3 succeeded, 0 skipped, 0 failed\n\nStep: human_review\nHuman review: skipped (not under test)\n\nStep: validate\nHeader check: 0 pair(s) in preprocessed/ match, 0 mismatch (0 policy(ies) in processed/); log: \n\nStep: md_to_text\nMarkdown to text: 3 succeeded, 0 skipped, 0 failed, 1 structure-repaired, 2 with unpaired source, 0 with LOST CLAUSES\n\nStep: storage\nStorage: 3 succeeded, 0 skipped, 0 failed\n\nStep: evaluation (method=rag)\nEvaluation: 3 succeeded, 0 failed\n\nPipeline finished (status=completed)\n"
 }

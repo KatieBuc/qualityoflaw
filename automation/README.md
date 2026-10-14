@@ -4,7 +4,7 @@ Pipeline that translates Indonesian local policies to English, has an LLM code e
 56-indicator rubric, and compares the result with a hand-coded golden dataset.
 
 ```
-input_process -> txt_to_md -> translation_md -> human_review -> promote -> md_to_text -> storage -> evaluation -> comparison
+input_process -> txt_to_md -> translation_md -> human_review -> validate -> md_to_text -> storage -> evaluation -> comparison
 ```
 
 The first steps need a person now and then (OCR, fixing a text, checking headings). Where that happens the run
@@ -47,7 +47,7 @@ python -m automation.src.run_pipeline --force
 | `--steps a,b,c` | Steps to run. Default: the five in the chain above. Steps always execute in pipeline order |
 | `--small-scale` | Only the policies listed in `paths.small_scale_stems` |
 | `--force` | Clean `data/<project>/automation/`, then run. Checked first: if the requested steps cannot rebuild what they need, nothing is deleted. Does not touch `preprocessed/` or `processed/`, so existing translations are kept (delete those files to retranslate) |
-| `--skip-blocked` | At a breakpoint caused by files that are not ready, continue with the ones that are |
+| `--skip-blocked` | At the `input_process` breakpoint, continue with the files that passed |
 | `--reviewed` | Confirm the optional human review and continue |
 | `--allow-partial` | Save incomplete evaluation / diagnosis reports instead of failing them |
 | `--max-workers N`, `--no-concurrency` | Override or disable parallel API calls |
@@ -57,12 +57,12 @@ python -m automation.src.run_pipeline --force
 
 | Step | Reads | Writes (under `data/<project>/automation/` unless noted) |
 |------|-------|-----------|
-| `input_process` | `raw/raw_files/` | `raw/cleaned_txt/`, `raw/input_report.json` (pauses for OCR / eliminated files) |
-| `txt_to_md` | `raw/cleaned_txt/` or `raw/gold/` | `preprocessed/cleaned_markdown/` |
+| `input_process` | `raw/raw_files/` | `preprocessed/cleaned_txt/`, `raw/input_process.log` (pauses for OCR / eliminated files) |
+| `txt_to_md` | `preprocessed/cleaned_txt/` or `raw/gold/` | `preprocessed/cleaned_markdown/` |
 | `translation_md` | `data/<project>/preprocessed/cleaned_markdown/*<suffix>` | `data/<project>/preprocessed/translation_markdown/` (no chunks saved) |
 | `translation_qa_md` *(optional)* | source + translated markdown | rewrites the translated markdown in place; `results/translation_qa/` |
 | `human_review` *(optional pause)* | - | - (pauses when `human_review.pause: true`) |
-| `promote` | `preprocessed/{cleaned,translation}_markdown` | `processed/` (pairs whose headings match; pauses for the others) |
+| `validate` | `preprocessed/{cleaned,translation}_markdown` | `preprocessed/header_check.log`; moves nothing, you move accepted pairs to `processed/` (pauses while it is empty) |
 | `md_to_text` | translated + source markdown (`preprocessed/`) | `results/translation/*.txt`, `mid_product/chunks/` |
 | `storage` | `results/translation/`, `mid_product/chunks/` | `mid_product/rag_store/` (embeddings) |
 | `evaluation` | translation, RAG store, `prompts/quality_eval/` | `results/evaluation/`, `mid_product/rag_candidates/` (sliding-window method: `evaluation_sliding_window/`, `sliding_window_candidates/`) |
@@ -123,27 +123,28 @@ pytest
 - [config.md](automation/docs/config.md): configuration reference
 - [legacy.md](automation/docs/legacy.md): the raw-text path
 
-## Stage 3: human adjustment and promotion
+## Stage 3: human adjustment
 
 Edit anything in `data/<project>/preprocessed/`, keeping the Markdown headers of each
-`cleaned_markdown` / `translation_markdown` pair identical in count and level. Then:
+`cleaned_markdown` / `translation_markdown` pair identical in count and level. The pipeline's `validate` step checks
+every pair and writes the mismatches to `preprocessed/header_check.log`; you can also run it alone:
 
 ```bash
-python -m automation.src.markdown.validate --project indonesia            # check only
-python -m automation.src.markdown.validate --project indonesia --promote  # check, then move to processed/
+python -m automation.src.markdown.validate --project indonesia
 ```
 
-Nothing is moved unless every pair passes.
+Nothing is ever moved for you: **you move the pairs you accept to `processed/`** (both files, same names), because
+evaluation reads only `processed/`.
 
 ## Pipeline stages
 
 1. **Input processing.**
    - 1.1 (`python -m automation.src.input_process run`): PDF/HTML/TXT in `raw/raw_files/` → `raw/extracted_txt/` →
-     quality check, fix and re-check → `raw/cleaned_txt/`, plus `raw/input_report.json` (eliminated files, PDFs that
-     need OCR). See [input_process.md](automation/docs/input_process.md).
-   - 1.2 (`automation/src/ingest/`, placeholder): `cleaned_txt` → `preprocessed/cleaned_markdown`.
+     quality check, fix and re-check → `preprocessed/cleaned_txt/`, plus the log `raw/input_process.log` (a WARNING
+     for every eliminated file and every PDF that needs OCR). See [input_process.md](automation/docs/input_process.md).
+   - 1.2 (`python -m automation.src.input_process markdown`): `cleaned_txt` → `preprocessed/cleaned_markdown`.
 2. **Translation** (`translation_md`): chunk-and-combine, writes `preprocessed/translation_markdown`.
-3. **Human adjustment**: edit `preprocessed/`, then `python -m automation.src.markdown.validate --promote`.
+3. **Human adjustment**: edit `preprocessed/`, then move the pairs you accept to `processed/`.
 4. **Evaluation** (`md_to_text`, `storage`, `evaluation`): reads `processed/`, header validation first, RAG evaluation,
    evidence mapping (index pairing, else `alignment.method`), outputs under `data/<project>/automation/` (the project's single, final result folder; a rerun cleans it with `--force`).
 

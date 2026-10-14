@@ -1,12 +1,13 @@
 """Pipeline steps for stage 1 (input), stage 3 (human adjustment) and the start of stage 4.
 
-    input_process   PDF/HTML/TXT -> extracted text -> quality check -> cleaned_txt   (breakpoint: OCR / eliminated files)
+    input_process   originals -> extracted_txt -> quality check -> preprocessed/cleaned_txt   (breakpoint: OCR / eliminated files)
     txt_to_md       cleaned_txt (or gold) -> preprocessed/cleaned_markdown
     human_review    optional pause so a person can edit cleaned/translation markdown (breakpoint, off by default)
-    promote         header check, then preprocessed/ -> processed/                   (breakpoint: mismatching headings)
+    validate        header check of every pair in preprocessed/ -> header_check.log (breakpoint: nothing in processed/ yet)
 
-Each step is idempotent. A breakpoint is raised as `PipelineBreakpoint`; `run_pipeline` prints it and
-stops, and running the same command again continues.
+Nothing is ever moved to ``processed/`` by the pipeline: you move the pairs you accept. Each step is idempotent. A
+breakpoint is raised as `PipelineBreakpoint`; `run_pipeline` prints it and stops, and running the same command
+again continues.
 """
 
 import time
@@ -14,6 +15,7 @@ from pathlib import Path
 
 import yaml
 
+from automation.src.constants import HEADER_CHECK_LOG_FILENAME
 from automation.src.breakpoints import DOCS_INPUT_PROCESS, DOCS_PIPELINE, PipelineBreakpoint
 from automation.src.config_loader import ResolvedPipelineConfig
 from automation.src.ingest import run_ingest_step
@@ -21,7 +23,8 @@ from automation.src.input_process.config import InputProcessConfig, load_input_p
 from automation.src.input_process.extract import extract_all
 from automation.src.input_process.pipeline import check_all
 from automation.src.markdown.policy_files import policy_stem
-from automation.src.markdown.validate import promote_ready
+from automation.src.input_process.runlog import run_log
+from automation.src.markdown.validate import validate_directories
 
 SKIP_BLOCKED_HINT = "re-run with --skip-blocked to continue with the files that are ready"
 MAX_LISTED = 8
@@ -68,7 +71,7 @@ def run_input_process_step(config: ResolvedPipelineConfig, *, small_scale: bool 
             "failed": len(failed_extractions),
         },
         "elapsed_s": round(time.time() - start, 2),
-        "report_path": str(ip.report_path),
+        "log_path": str(ip.log_path),
     }
 
     unresolved = len(needs_ocr) + len(eliminated)
@@ -84,11 +87,10 @@ def run_input_process_step(config: ResolvedPipelineConfig, *, small_scale: bool 
             title="some files need your attention",
             details=details,
             next_steps=[
-                f"Open the report {ip.report_path}: it lists every file with the quality indicators that failed.",
-                f"For a PDF that needs OCR: OCR it and save the text as {ip.extracted_txt_dir / '<name>__ocr.txt'}.",
-                f"For an eliminated file: fix the text and save it as {ip.extracted_txt_dir / '<name>__txt.txt'} "
-                "(it is checked again), or move it straight into "
-                f"{ip.cleaned_txt_dir} if you accept it as it is.",
+                f"Open the log {ip.log_path}: the WARNING lines name every file with the quality indicators that failed.",
+                f"For a PDF that needs OCR: OCR it and replace {ip.extracted_txt_dir / '<name>.txt'} with the text.",
+                f"For an eliminated file: fix {ip.extracted_txt_dir / '<name>.txt'} (it is checked again), or move it "
+                f"into {ip.cleaned_txt_dir} if you accept it as it is.",
                 "Files you do not want to include can stay where they are.",
             ],
             docs=[DOCS_INPUT_PROCESS, DOCS_PIPELINE],
@@ -116,7 +118,7 @@ def run_txt_to_md_step(config: ResolvedPipelineConfig, *, small_scale: bool = Fa
         stems=set(stems) if stems else None,
         suffix=suffix,
         done_dirs=(config.paths.processed_cleaned_markdown_dir,),
-        report_path=ip.report_path.with_name("markdown_report.json"),
+        log_path=ip.log_path,
     )
     summary = result["summary"]
     return {
@@ -169,64 +171,79 @@ def run_human_review_step(config: ResolvedPipelineConfig, *, small_scale: bool =
             "Read and edit the cleaned and translated Markdown if you want to (both folders are open to edits).",
             "Keep the headings of each pair identical: same number of headings and the same level at every position. "
             "Text under the headings is free to change.",
-            "Run the same command with --reviewed. The pair is checked and moved to processed/ at the start of stage 4.",
+            "Run the same command with --reviewed. The `validate` step then checks every pair; you move the accepted ones to processed/.",
         ],
         docs=[DOCS_PIPELINE],
-        override="set human_review.pause to false in pipeline_config.yaml, or pass --reviewed",
+        override="pass --reviewed (or set human_review.pause to false in pipeline_config.yaml)",
     )
 
 
-def run_promote_step(config: ResolvedPipelineConfig, *, small_scale: bool = False, skip_blocked: bool = False) -> dict:
-    """First step of stage 4: check the headings of each pair, then move the pair to processed/."""
+def run_validate_step(config: ResolvedPipelineConfig, *, small_scale: bool = False) -> dict:
+    """First step of stage 4: check the headings of every pair in ``preprocessed/`` and log the mismatches.
+
+    Moves nothing. Evaluation reads ``processed/``, which you fill by moving the files of each pair you
+    accept (the cleaned Markdown and its translation, same file names). The run pauses while ``processed/``
+    holds no translation yet; otherwise it goes on with what is there.
+    """
     start = time.time()
     paths = config.paths
     source_dir, translated_dir = paths.markdown_input_dir, paths.translation_markdown_dir
+    log_path = source_dir.parent / HEADER_CHECK_LOG_FILENAME
     stems = _stems(config, small_scale)
-    if not source_dir.is_dir() or not translated_dir.is_dir():
-        pending: list[str] = []
-        blocked = []
-        promoted: list[str] = []
+
+    if source_dir.is_dir() and translated_dir.is_dir():
+        checks = validate_directories(source_dir, translated_dir, paths.markdown_input_suffix, stems).checks
     else:
-        promoted, blocked = promote_ready(
-            source_dir,
-            translated_dir,
-            paths.processed_cleaned_markdown_dir,
-            paths.processed_translation_markdown_dir,
-            source_suffix=paths.markdown_input_suffix,
-            stems=stems,
-        )
-    already = [
+        checks = []
+    mismatches = [c for c in checks if not c.ok]
+    in_processed = sorted(
         policy_stem(p)
         for p in paths.processed_translation_markdown_dir.glob("*.md")
         if stems is None or policy_stem(p) in stems
-    ] if paths.processed_translation_markdown_dir.is_dir() else []
+    ) if paths.processed_translation_markdown_dir.is_dir() else []
+
+    with run_log(log_path) as log:
+        log.info("HEADER CHECK started (%s vs %s)", source_dir, translated_dir)
+        for c in checks:
+            if c.ok:
+                log.info("OK %s (%d headings)", c.stem, c.source_headings)
+            else:
+                log.warning("MISMATCH %s: %s", c.stem, c.problem)
+        log.info(
+            "HEADER CHECK finished: %d pair(s) in preprocessed/ match, %d mismatch; %d policy(ies) in processed/",
+            len(checks) - len(mismatches), len(mismatches), len(in_processed),
+        )
+
     result = {
         "counts": {
-            "total": len(promoted) + len(blocked) + len(set(already) - set(promoted)),
-            "succeeded": len(promoted),
-            "skipped": len(set(already) - set(promoted)),
-            "failed": len(blocked),
+            "total": len(checks) + len(in_processed),
+            "succeeded": len(checks) - len(mismatches),
+            "skipped": len(in_processed),
+            "failed": len(mismatches),
         },
         "elapsed_s": round(time.time() - start, 2),
-        "blocked": [(b.stem, b.problem) for b in blocked],
+        "mismatches": [(c.stem, c.problem) for c in mismatches],
+        "log_path": str(log_path),
+        "in_processed": len(in_processed),
     }
-    if blocked and not skip_blocked:
+    if not in_processed:
+        matching = len(checks) - len(mismatches)
         raise PipelineBreakpoint(
-            step="promote",
-            title="some pairs cannot move to processed/ yet",
-            details=[f"{len(promoted)} pair(s) moved to {paths.processed_translation_markdown_dir.parent}; {len(blocked)} blocked:"]
-            + _listed([f"{b.stem}: {b.problem}" for b in blocked]),
+            step="validate",
+            title="move the pairs you accept to processed/",
+            details=[
+                f"{matching} pair(s) in {source_dir.parent} have matching headings; {len(mismatches)} do not (log: {log_path}).",
+                f"Evaluation reads {paths.processed_translation_markdown_dir.parent}, which is empty. Nothing is moved for you.",
+            ]
+            + _listed([f"mismatch {stem}: {problem}" for stem, problem in result["mismatches"]]),
             next_steps=[
-                f"For each file above, make the headings of {source_dir} and {translated_dir} match "
-                "(same number of headings, same level at every position), or add the missing file.",
-                "A blocked policy is left out of the evaluation until its pair passes.",
+                "Fix each mismatch above: make the headings of the cleaned and the translated file match "
+                "(same number of headings, same level at every position).",
+                f"Move each pair you accept from {source_dir.parent} to {paths.processed_translation_markdown_dir.parent}: "
+                "the cleaned_markdown file into processed/cleaned_markdown and the translation_markdown file into "
+                "processed/translation_markdown (same file names).",
+                "Policies left in preprocessed/ are not evaluated.",
             ],
             docs=[DOCS_PIPELINE],
-            override=SKIP_BLOCKED_HINT,
-        )
-    if not (promoted or already):
-        raise FileNotFoundError(
-            f"Nothing to evaluate: no validated pair in {paths.processed_translation_markdown_dir} "
-            f"and nothing to promote from {translated_dir}"
         )
     return result

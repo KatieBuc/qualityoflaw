@@ -15,7 +15,9 @@ RAW_FILES_DIRNAME = "raw_files"
 EXTRACTED_TXT_DIRNAME = "extracted_txt"
 CLEANED_TXT_DIRNAME = "cleaned_txt"
 GOLD_DIRNAME = "gold"
-INPUT_REPORT_FILENAME = "input_report.json"
+INPUT_LOG_FILENAME = "input_process.log"
+EXTRACTION_MANIFEST_FILENAME = "extraction_manifest.json"
+HEADER_CHECK_LOG_FILENAME = "header_check.log"
 PREPROCESSED_DIRNAME = "preprocessed"
 PROCESSED_DIRNAME = "processed"
 AUTOMATION_DIRNAME = "automation"
@@ -54,7 +56,7 @@ DEFAULT_STEPS = (
     "txt_to_md",       # stage 1.2: cleaned_txt -> cleaned_markdown
     "translation_md",  # stage 2
     "human_review",    # stage 3 (optional pause, off by default)
-    "promote",         # stage 4 first step: header check, preprocessed/ -> processed/
+    "validate",        # stage 4 first step: header check of the pairs in preprocessed/ (moves nothing)
     "md_to_text",
     "storage",
     "evaluation",

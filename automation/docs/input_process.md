@@ -1,86 +1,94 @@
 # Stage 1.1 — input processing
 
-Turns the originals (PDF, HTML, TXT) into quality-checked plain text, and reports which files
-were dropped and which PDFs need OCR. Code: `automation/src/input_process/`. TXT→Markdown
-(stage 1.2) is a separate, not yet implemented step (`automation/src/ingest/`).
+Turns the originals (PDF, HTML, TXT) into quality-checked plain text and logs what happened to every
+file. Code: `automation/src/input_process/`. TXT→Markdown is stage 1.2 (below).
 
 ## Folders
 
-All under `data/<project>/raw/`; each can be moved in `pipeline_config.yaml` (`input_process:`).
-
 ```
-raw/
-  raw_files/        originals: PDF, HTML, TXT
-  extracted_txt/    only what is NOT resolved yet: files that need OCR or were eliminated
-                    <stem>__pdf.txt | <stem>__html.txt | <stem>__txt.txt   (+ your <stem>__ocr.txt)
-  cleaned_txt/      <stem>.txt  — passed the quality check (or accepted by you); kept across runs
-  gold/             <stem>.txt  — hand-cleaned texts (optional input of stage 1.2)
-  input_report.json
+data/<project>/
+  raw/
+    raw_files/            originals: PDF, HTML, TXT
+    extracted_txt/        <stem>.txt of the policies that are NOT resolved: files that need OCR or were eliminated
+    gold/                 <stem>.txt hand-cleaned texts (optional source of stage 1.2)
+    input_process.log     what stage 1 did to each file (appended to; WARNING = needs your attention)
+    extraction_manifest.json   hashes of the texts we extracted, to tell them from yours (do not edit)
+  preprocessed/
+    cleaned_txt/          <stem>.txt that passed the quality check (or that you accepted); kept across runs
 ```
 
-The `__pdf` / `__html` / `__txt` / `__ocr` marker records the source format so each file is judged
-as what it is (only a PDF can need OCR). It is removed when a file passes into `cleaned_txt/`, so
-downstream steps keep the plain policy name.
+Each folder can be moved in `pipeline_config.yaml` (`input_process:`). **There are no markers in file names.**
+A policy is the same name everywhere (`ACEH_BIREUEN.pdf` → `extracted_txt/ACEH_BIREUEN.txt` →
+`cleaned_txt/ACEH_BIREUEN.txt`) and the folder that holds the name says where it stands.
 
-**A file that passes is moved, not copied.** Its text is written to `cleaned_txt/<stem>.txt` and every
-extracted file of that policy is deleted from `extracted_txt/`. After a run, `extracted_txt/` holds only
-the work that is left, and `cleaned_txt/` is never pruned: a policy in it is done.
+## What happens, in this order
+
+For every policy name in `raw_files/`:
+
+1. **`preprocessed/cleaned_txt/<name>.txt` exists** → done. Skipped (its text only serves as reference corpus).
+2. **else `extracted_txt/<name>.txt` exists** → quality-check it. This is how a file you fixed or OCRed is picked up.
+3. **else** → extract the original into `extracted_txt/<name>.txt`, then quality-check it.
+
+A policy with several originals (`A.txt`, `A.html`, `A.pdf`) is extracted from one: `txt`, then `html`, then `pdf`.
+
+The quality check measures the text, applies `hygiene` plus the fixers the findings call for, measures it again, and decides
+on *that* text. A fix that removes more than 30 % of the letters (K2) or loses more than 5 % of the distinct
+*Pasal* numbers (K1) is discarded and only the lossless normalization is kept. Then:
+
+| Result | What happens | Log |
+|---|---|---|
+| `PASS` | written to `cleaned_txt/<name>.txt` and removed from `extracted_txt/` | `INFO PASS ...` |
+| `NEEDS_OCR` (a scanned PDF) | stays in `extracted_txt/` | `WARNING NEEDS_OCR ...` with the failed indicators |
+| `ELIMINATE` | stays in `extracted_txt/` | `WARNING ELIMINATED ...` with the failed indicators |
+
+Policies already in `cleaned_txt/` are not checked again; to re-check one, move its file back to `extracted_txt/`.
 
 ## Commands
 
 ```bash
-python -m automation.src.input_process migrate-raw      # one-time: move raw/*.pdf|txt|html into raw/raw_files/
-python -m automation.src.input_process extract          # raw_files/ -> extracted_txt/ (skips policies already extracted or in cleaned_txt)
-python -m automation.src.input_process check            # quality check + fix + re-check; passed files move to cleaned_txt/; writes the report
-python -m automation.src.input_process check --report-only   # report only: nothing is moved, renamed or deleted
-python -m automation.src.input_process run              # extract, then check
-python -m automation.src.input_process tidy [--dry-run] # one-off: delete extracted files of policies already in cleaned_txt
+python -m automation.src.input_process extract          # raw_files/ -> extracted_txt/ (only policies in neither folder)
+python -m automation.src.input_process check            # quality check; passed files go to cleaned_txt/; logs everything
+python -m automation.src.input_process check --report-only   # only log: nothing is moved or deleted
+python -m automation.src.input_process run              # extract, then check (this is what the pipeline step does)
+python -m automation.src.input_process tidy [--dry-run] # delete extracted_txt/<name>.txt of policies already in cleaned_txt
+python -m automation.src.input_process migrate-layout [--dry-run]   # one-off, data made by the earlier layout
+python -m automation.src.input_process markdown [--force] [--small-scale]   # stage 1.2
 ```
 
 `--small-scale` limits any command to `paths.small_scale_stems`; `--project` overrides the config.
 
-## What happens
+## Fixing a file or doing OCR
 
-1. **Extract.** PDF → `pdfplumber`, page by page (pages joined by a single newline, since a sentence
-   can cross a page break). HTML → `trafilatura`, falling back to BeautifulSoup when trafilatura
-   drops headings or more than half the text. TXT → copied as UTF-8 (BOM removed, cp1252 accepted).
-   A scanned PDF yields an empty file; the quality check, not the extractor, decides it needs OCR.
-   An existing output is never overwritten, and a policy already in `cleaned_txt/` is skipped, so
-   passed files are not extracted again.
-2. **Pick the best source** per policy: `__ocr` › `__txt` › `__html` › `__pdf`. A `.txt` you supplied outranks
-   text extracted from a PDF/HTML of the same name.
-3. **Check, fix, check again.** Measure the text → apply `hygiene` plus the fixers the findings call
-   for → measure the fixed text → decide on *that* text. A fix that removes more than 30 % of the
-   letters (K2) or loses more than 5 % of the distinct *Pasal* numbers (K1) is discarded and only the
-   lossless normalization is kept. The unique-word rule compares an OCR text with the other texts of
-   its language, **including those already in `cleaned_txt/`**.
-4. **Sort.** `PASS` → written to `cleaned_txt/<stem>.txt`, and all its extracted files are removed.
-   `NEEDS_OCR` → report entry naming the file to supply. `ELIMINATE` → report entry with the
-   indicators that failed. Both stay in `extracted_txt/`.
+Both work the same way, with nothing but file names:
 
-Each `check` re-evaluates what is in `extracted_txt/`. Policies already in `cleaned_txt/` are not
-checked again; to re-check one, move its file back to `extracted_txt/` as `<stem>__txt.txt`.
+- **A PDF that needs OCR**: OCR it and save the text over `extracted_txt/<name>.txt` (the empty or garbled extraction).
+- **An eliminated file**: edit `extracted_txt/<name>.txt` in place, or replace it with your corrected text.
+- Run `run` (or the pipeline) again. The file is checked again. Text you supplied is never judged "needs OCR": if it is
+  still unusable it is eliminated.
+- **To accept a file as it is**: move `extracted_txt/<name>.txt` into `preprocessed/cleaned_txt/`. It is not checked or
+  fixed again.
 
-## Accepting a file by hand (per-file exception)
+How is your text told from our extraction? `raw/extraction_manifest.json` holds the hash of every file we wrote; a file
+that no longer matches (or has no entry) is yours. A PDF-sourced text that is yours is judged with the OCR rules.
 
-Move the file from `extracted_txt/` to `cleaned_txt/`. That is all.
+If `extracted_txt/<name>.txt` is left for a policy that is already in `cleaned_txt/`, it is ignored and logged as a
+WARNING; it is never deleted for you (`tidy` does that on request).
 
-- The name may keep its marker (`<stem>__txt.txt`); the next `check` renames it to `<stem>.txt` and
-  lists it under `adopted` in the report. The text is left exactly as you put it: it is not checked or
-  fixed.
-- Use this for an eliminated file you have read and accept, or one you corrected by hand.
-- If `cleaned_txt/<stem>.txt` already exists it is never overwritten; the report lists the moved file
-  under `warnings.cleaned_txt_conflicts` and leaves both.
-- Files left in `extracted_txt/` for a policy that is already in `cleaned_txt/` are ignored and listed
-  under `warnings.already_in_cleaned_txt`. They are never deleted for you (`tidy` does that on request).
+## The log (`raw/input_process.log`)
 
-## OCR round trip
+One line per event: time, level, result and file. It is appended to, so the history of every run stays.
 
-1. Run `run` (or `check`). The report's `needs_ocr` lists each PDF with its `expected_ocr_file` and the indicators that failed.
-2. OCR the PDF yourself and save the text as `extracted_txt/<stem>__ocr.txt`.
-3. Run `check` again. The OCR text replaces the PDF text; if it passes it moves to `cleaned_txt/`
-   (taking the PDF text with it), and if it is still unusable the file is `ELIMINATE`d (it is not
-   sent back to OCR).
+```
+2026-10-14 12:03:13,495 INFO    EXTRACTED 3. Algeria - DomViol - French.pdf (pdf, 41 page(s)) -> extracted_txt/3. Algeria - DomViol - French.txt
+2026-10-14 12:03:13,496 INFO    PASS ACEH_BIREUEN (txt) -> cleaned_txt/ACEH_BIREUEN.txt [fixes: hygiene]
+2026-10-14 12:03:13,497 WARNING NEEDS_OCR 54. Estonia - DomViol - Estonian: S1_scanned_pdf=1.0 (limit 0.5) - OCR 54. Estonia - DomViol - Estonian.pdf and replace extracted_txt/54. Estonia - DomViol - Estonian.txt with the text
+2026-10-14 12:03:13,496 WARNING ELIMINATED BALI_BULELENG (txt): C6_glued_words=1.181 (limit 1.0) - fix extracted_txt/BALI_BULELENG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-14 12:03:13,499 INFO    QUALITY CHECK finished: 198 policies, 174 in cleaned_txt, 0 need OCR, 24 eliminated (174 were already done)
+```
+
+`failed indicators` are written as `rule=value (limit N)` so it is clear how far off a file is. Other WARNING lines: an
+original that could not be extracted, an unsupported file, a file left in `extracted_txt/` for a finished policy, and (stage 1.2)
+a text with no heading structure.
 
 ## Gold texts and the source of stage 1.2
 
@@ -93,7 +101,7 @@ input_process:
   # gold_dir: data/global/raw/gold
 ```
 
-`cleaned_txt` (the default) is this stage's output. The chosen folder is
+`cleaned_txt` (the default, `preprocessed/cleaned_txt`) is this stage's output. The chosen folder is
 `InputProcessConfig.markdown_source_dir`.
 
 ## Stage 1.2: TXT -> Markdown
@@ -104,7 +112,7 @@ python -m automation.src.input_process markdown [--force] [--small-scale]
 
 Converts every `.txt` of the chosen source into `data/<project>/preprocessed/cleaned_markdown/<stem>.cleaned.md`
 with `txt_to_md_v7.py`; existing outputs are kept unless `--force`. Texts with no recognisable heading
-structure are not written; they are listed under `skipped` in `raw/markdown_report.json`.
+structure are not written; they are logged as a WARNING in `raw/input_process.log`.
 
 - **Vocabulary**: every language's heading words, ordinals, cross-reference phrases, TOC titles and page words are
   in `heading_keywords.py`. To support a language, add its words there.
@@ -116,7 +124,7 @@ structure are not written; they are listed under `skipped` in `raw/markdown_repo
 ## Rules
 
 Thresholds live in `quality/criteria.py` (`THRESHOLDS`); override any of them under
-`input_process.thresholds`. Each report entry carries the failed indicators with their value and limit.
+`input_process.thresholds`. Each WARNING in the log carries the failed indicators with their value and limit.
 
 | Rule | Meaning | Effect |
 |---|---|---|
@@ -135,39 +143,6 @@ wrapped cross-references ("Pasal 5 ayat (1) huruf f") are not headings; the web-
 vocabularies cover Indonesian, English, Spanish, French, German, Portuguese and Croatian (only
 unambiguous Indonesian phrases: ordinary words like *masuk* or *daftar* appear in statutes). The
 thresholds were calibrated on GlobalLaws — check them against your own files before relying on them.
-
-## Report (`input_report.json`)
-
-Short on purpose: counts, then only the files that did **not** pass and the indicators they failed.
-Passed files are not listed.
-
-```json
-{
-  "generated_at": "...", "project": "global",
-  "summary": {"files": 228, "passed": 174, "needs_ocr": 43, "eliminated": 11},
-  "needs_ocr": [
-    {"stem": "54. Estonia - DomViol - Estonian", "pdf": "54. Estonia - DomViol - Estonian.pdf",
-     "expected_ocr_file": "54. Estonia - DomViol - Estonian__ocr.txt",
-     "failed": [{"rule": "S1_scanned_pdf", "value": 1.0, "limit": 0.5}]}
-  ],
-  "eliminated": [
-    {"stem": "2. Albania - DomViol - Albanian (b)", "source_format": "pdf",
-     "failed": [{"rule": "C6_glued_words", "value": 25.198, "limit": 1.0}]}
-  ]
-}
-```
-
-| Field | Meaning |
-|---|---|
-| `summary.passed` | policies in `cleaned_txt/` after this run, including earlier runs and files you moved there; `files` = `passed` + `needs_ocr` + `eliminated` |
-| `failed[].rule` | the indicator (table above); a severe corruption rule that survives fixing is shown under its own name, e.g. `C6_glued_words`, not `R4_C6_...` |
-| `failed[].value` / `limit` | what was measured, and the threshold it was compared with (so it is clear how far off it is) |
-| `needs_ocr[].expected_ocr_file` | the name to give the OCR text in `extracted_txt/` |
-| `warnings` | present **only** when needed: `not_extracted` (originals with no extracted text yet), `unrecognized_files` (files in `extracted_txt/` without a known marker), `already_in_cleaned_txt` and `cleaned_txt_conflicts` (see above) |
-| `adopted` | present only when you moved files into `cleaned_txt/` by hand: `["<stem>__txt.txt -> <stem>.txt"]` |
-
-Details that used to be in the report — fixes applied, findings before / after, metrics, review
-flags, ignored sources — are still computed (`pipeline.analyze()` returns them) but are not written.
 
 ## Languages
 

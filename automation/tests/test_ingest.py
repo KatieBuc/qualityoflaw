@@ -65,13 +65,14 @@ def test_text_without_structure_is_skipped_and_reported(tmp_path):
     src, out = tmp_path / "txt", tmp_path / "md"
     src.mkdir()
     (src / "PROSE.txt").write_text("Just a paragraph of prose.\nAnd another one.\n", encoding="utf-8")
-    report = tmp_path / "report.json"
+    log = tmp_path / "input_process.log"
 
-    result = run_ingest_step(src, out, report_path=report)
+    result = run_ingest_step(src, out, log_path=log)
 
     assert result["skipped"] == [{"stem": "PROSE", "reason": NO_STRUCTURE}]
     assert not (out / "PROSE.cleaned.md").exists()
-    assert json.loads(report.read_text(encoding="utf-8"))["summary"]["skipped"] == 1
+    lines = log.read_text(encoding="utf-8").splitlines()
+    assert any(" WARNING " in l and "MARKDOWN SKIPPED PROSE" in l for l in lines)
 
 
 def test_stems_limit_the_run(tmp_path):
@@ -86,7 +87,7 @@ def test_stems_limit_the_run(tmp_path):
 def test_cli_markdown_reads_the_configured_source(tmp_path, monkeypatch, capsys):
     monkeypatch.setattr("automation.src.paths.DATA_ROOT", tmp_path)
     gold = tmp_path / "demo" / "raw" / "gold"
-    cleaned = tmp_path / "demo" / "raw" / "cleaned_txt"
+    cleaned = tmp_path / "demo" / "preprocessed" / "cleaned_txt"
     gold.mkdir(parents=True); cleaned.mkdir(parents=True)
     (gold / "FROM_GOLD.txt").write_text(INDONESIAN, encoding="utf-8")
     (cleaned / "FROM_CLEANED.txt").write_text(INDONESIAN, encoding="utf-8")
@@ -94,7 +95,7 @@ def test_cli_markdown_reads_the_configured_source(tmp_path, monkeypatch, capsys)
     cfg.write_text(
         "project: demo\ninput_process:\n  markdown_source: gold\n"
         f"  gold_dir: {gold.as_posix()}\n  cleaned_txt_dir: {cleaned.as_posix()}\n"
-        f"  report_path: {(tmp_path / 'r.json').as_posix()}\n",
+        f"  log_path: {(tmp_path / 'r.log').as_posix()}\n",
         encoding="utf-8",
     )
 

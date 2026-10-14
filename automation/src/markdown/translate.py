@@ -12,7 +12,7 @@ is left untouched. The differences that matter:
 - Output is Markdown, at ``<project>/preprocessed/translation_markdown/
   <POLICY>.md`` (``paths.translation_markdown_dir``), next to the input in
   ``preprocessed/cleaned_markdown``. A human may edit either folder before the
-  pair is promoted to ``processed/``. Chunks are translated and recombined in
+  pair is moved to ``processed/`` by hand. Chunks are translated and recombined in
   memory; nothing about them is saved.
 
 Because both sides are Markdown, a translation can be checked against its

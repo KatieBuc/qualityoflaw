@@ -49,7 +49,7 @@ class PipelinePaths:
         default_factory=lambda: project_dirs(DEFAULT_PROJECT).preprocessed_translation_markdown
     )
     # Stage 4 (evaluation) reads the validated pair from `processed/`, after
-    # the human-adjustment stage and `markdown.validate --promote`.
+    # the human-adjustment stage: you move the pairs you accept here (the `validate` step only checks them).
     processed_cleaned_markdown_dir: Path = field(
         default_factory=lambda: project_dirs(DEFAULT_PROJECT).processed_cleaned_markdown
     )

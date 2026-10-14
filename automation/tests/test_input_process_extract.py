@@ -5,9 +5,8 @@ from automation.src.input_process.__main__ import main
 from automation.src.input_process.config import parse_input_process_config
 from automation.src.input_process.extract import (
     extract_all,
+    ExtractionManifest,
     heading_set,
-    marked_name,
-    split_marked,
 )
 
 PASAL = "Pasal 1\nBupati melaksanakan sistem informasi perlindungan perempuan dan anak.\n"
@@ -31,8 +30,8 @@ def config(tmp_path):
             "input_process": {
                 "raw_files_dir": str(tmp_path / "raw_files"),
                 "extracted_txt_dir": str(tmp_path / "extracted_txt"),
-                "cleaned_txt_dir": str(tmp_path / "cleaned_txt"),
-                "report_path": str(tmp_path / "report.json"),
+                "cleaned_txt_dir": str(tmp_path / "preprocessed" / "cleaned_txt"),
+                "log_path": str(tmp_path / "raw" / "input_process.log"),
             },
             "paths": {"small_scale_stems": ["B"]},
         }
@@ -41,25 +40,17 @@ def config(tmp_path):
     return cfg
 
 
-def test_marker_round_trip():
-    assert marked_name("ACEH_BIREUEN", "pdf") == "ACEH_BIREUEN__pdf.txt"
-    assert split_marked("ACEH_BIREUEN__pdf.txt") == ("ACEH_BIREUEN", "pdf")
-    assert split_marked("A__B__ocr.txt") == ("A__B", "ocr")  # only the last marker counts
-    assert split_marked("ACEH.txt") is None
-    assert split_marked("ACEH__docx.txt") is None
-
-
-def test_txt_is_copied_with_a_marker_and_utf8(config):
+def test_txt_is_copied_as_utf8_under_its_own_name(config):
     (config.raw_files_dir / "A.txt").write_bytes("﻿Pasal 1 é\r\nisi".encode("utf-8"))
     (config.raw_files_dir / "L.txt").write_bytes("caf\xe9 hukum".encode("cp1252"))
 
     results = {r.source: r for r in extract_all(config)}
 
     out = config.extracted_txt_dir
-    assert results["A.txt"].output == "A__txt.txt"
+    assert results["A.txt"].output == "A.txt"
     # BOM gone, CRLF kept (compared as bytes: read_text would translate the newline).
-    assert (out / "A__txt.txt").read_bytes() == "Pasal 1 é\r\nisi\n".encode("utf-8")
-    assert (out / "L__txt.txt").read_text(encoding="utf-8").startswith("café hukum")
+    assert (out / "A.txt").read_bytes() == "Pasal 1 é\r\nisi\n".encode("utf-8")
+    assert (out / "L.txt").read_text(encoding="utf-8").startswith("café hukum")
     assert "cp1252" in results["L.txt"].detail
 
 
@@ -69,11 +60,11 @@ def test_pdf_text_is_extracted_per_page(config):
 
     results = {r.source: r for r in extract_all(config)}
 
-    text = (config.extracted_txt_dir / "P__pdf.txt").read_text(encoding="utf-8")
+    text = (config.extracted_txt_dir / "P.txt").read_text(encoding="utf-8")
     assert "Pasal 1 isi satu." in text and "Pasal 2 isi dua." in text
     assert text.index("Pasal 1") < text.index("Pasal 2")
     assert results["P.pdf"].detail == "2 page(s)"
-    assert (config.extracted_txt_dir / "U__pdf.txt").exists()
+    assert (config.extracted_txt_dir / "U.txt").exists()
 
 
 def test_image_only_pdf_is_written_empty_for_the_quality_check_to_judge(config):
@@ -82,7 +73,7 @@ def test_image_only_pdf_is_written_empty_for_the_quality_check_to_judge(config):
     results = extract_all(config)
 
     assert results[0].status == "extracted"
-    assert (config.extracted_txt_dir / "S__pdf.txt").read_text(encoding="utf-8") == ""
+    assert (config.extracted_txt_dir / "S.txt").read_text(encoding="utf-8") == ""
 
 
 def test_html_is_extracted_and_scripts_are_dropped(config):
@@ -96,9 +87,9 @@ def test_html_is_extracted_and_scripts_are_dropped(config):
 
     extract_all(config)
 
-    text = (config.extracted_txt_dir / "H__html.txt").read_text(encoding="utf-8")
+    text = (config.extracted_txt_dir / "H.txt").read_text(encoding="utf-8")
     assert "Pasal 1" in text and "Pasal 2" in text and "var x" not in text
-    assert (config.extracted_txt_dir / "H2__html.txt").exists()
+    assert (config.extracted_txt_dir / "H2.txt").exists()
 
 
 def test_html_falls_back_to_bs4_when_trafilatura_drops_headings(config, monkeypatch):
@@ -110,19 +101,19 @@ def test_html_falls_back_to_bs4_when_trafilatura_drops_headings(config, monkeypa
 
     extract_all(config)
 
-    text = (config.extracted_txt_dir / "H__html.txt").read_text(encoding="utf-8")
+    text = (config.extracted_txt_dir / "H.txt").read_text(encoding="utf-8")
     assert "Pasal 7" in text
 
 
 def test_existing_output_is_never_overwritten(config):
     (config.raw_files_dir / "A.txt").write_text("new", encoding="utf-8")
     config.extracted_txt_dir.mkdir()
-    (config.extracted_txt_dir / "A__txt.txt").write_text("hand-fixed", encoding="utf-8")
+    (config.extracted_txt_dir / "A.txt").write_text("hand-fixed", encoding="utf-8")
 
     results = extract_all(config)
 
     assert results[0].status == "skipped_existing"
-    assert (config.extracted_txt_dir / "A__txt.txt").read_text(encoding="utf-8") == "hand-fixed"
+    assert (config.extracted_txt_dir / "A.txt").read_text(encoding="utf-8") == "hand-fixed"
 
 
 def test_corrupt_pdf_is_reported_and_the_rest_continue(config):
@@ -135,16 +126,70 @@ def test_corrupt_pdf_is_reported_and_the_rest_continue(config):
     assert results["BAD.pdf"].status == "failed" and results["BAD.pdf"].detail
     assert results["OK.txt"].status == "extracted"
     assert results["X.docx"].status == "unsupported"
-    assert not (config.extracted_txt_dir / "BAD__pdf.txt").exists()
+    assert not (config.extracted_txt_dir / "BAD.txt").exists()
 
 
-def test_same_stem_in_two_formats_keeps_both(config):
+def test_same_stem_in_several_formats_is_extracted_once_txt_first(config):
     make_pdf(config.raw_files_dir / "A.pdf", ["Pasal 1 dari pdf."])
+    (config.raw_files_dir / "A.html").write_text("<p>Pasal 1 dari html.</p>", encoding="utf-8")
     (config.raw_files_dir / "A.txt").write_text("Pasal 1 dari txt.", encoding="utf-8")
+    make_pdf(config.raw_files_dir / "B.pdf", ["Pasal 1 dari pdf."])
+    (config.raw_files_dir / "B.html").write_text("<p>Pasal 1 dari html.</p>", encoding="utf-8")
+
+    results = extract_all(config)
+
+    assert sorted(p.name for p in config.extracted_txt_dir.iterdir()) == ["A.txt", "B.txt"]
+    assert "dari txt" in (config.extracted_txt_dir / "A.txt").read_text(encoding="utf-8")
+    assert "dari html" in (config.extracted_txt_dir / "B.txt").read_text(encoding="utf-8")
+    assert sorted(r.source for r in results if r.status == "skipped_duplicate") == ["A.html", "A.pdf", "B.pdf"]
+
+
+def test_a_policy_in_cleaned_txt_is_not_extracted_again(config):
+    (config.raw_files_dir / "A.txt").write_text(PASAL, encoding="utf-8")
+    config.cleaned_txt_dir.mkdir(parents=True)
+    (config.cleaned_txt_dir / "A.txt").write_text("already done", encoding="utf-8")
+
+    results = extract_all(config)
+
+    assert results[0].status == "skipped_done" and not config.extracted_txt_dir.exists()
+
+
+def test_the_order_is_cleaned_then_extracted_then_the_original(config):
+    for name in ("DONE", "WAITING", "NEW"):
+        (config.raw_files_dir / f"{name}.txt").write_text(PASAL, encoding="utf-8")
+    config.cleaned_txt_dir.mkdir(parents=True)
+    (config.cleaned_txt_dir / "DONE.txt").write_text("done", encoding="utf-8")
+    config.extracted_txt_dir.mkdir()
+    (config.extracted_txt_dir / "WAITING.txt").write_text("your fix", encoding="utf-8")
+
+    status = {r.source: r.status for r in extract_all(config)}
+
+    assert status == {"DONE.txt": "skipped_done", "WAITING.txt": "skipped_existing", "NEW.txt": "extracted"}
+    assert (config.extracted_txt_dir / "WAITING.txt").read_text(encoding="utf-8") == "your fix"
+
+
+def test_the_manifest_tells_our_extraction_from_a_file_you_replaced(config):
+    (config.raw_files_dir / "A.txt").write_text(PASAL, encoding="utf-8")
+    extract_all(config)
+    target = config.extracted_txt_dir / "A.txt"
+
+    manifest = ExtractionManifest(config.manifest_path)
+    assert manifest.machine_format("A", target) == "txt"
+
+    target.write_text("OCR text you pasted", encoding="utf-8")
+    assert ExtractionManifest(config.manifest_path).machine_format("A", target) is None
+
+
+def test_extraction_is_logged_with_a_warning_for_a_failure(config):
+    (config.raw_files_dir / "BAD.pdf").write_bytes(b"not a pdf")
+    (config.raw_files_dir / "OK.txt").write_text(PASAL, encoding="utf-8")
 
     extract_all(config)
 
-    assert sorted(p.name for p in config.extracted_txt_dir.iterdir()) == ["A__pdf.txt", "A__txt.txt"]
+    lines = config.log_path.read_text(encoding="utf-8").splitlines()
+    assert any(" INFO " in l and "EXTRACTED OK.txt" in l for l in lines)
+    assert any(" WARNING " in l and "EXTRACTION FAILED BAD.pdf" in l for l in lines)
+    assert lines[0][:4].isdigit()          # every line starts with a timestamp
 
 
 def test_small_scale_limits_to_the_configured_stems(config):
@@ -174,7 +219,9 @@ def test_cli_extract_reports_counts_and_fails_on_a_failed_file(config, tmp_path,
     cfg_file = tmp_path / "pipeline.yaml"
     cfg_file.write_text(
         f"project: demo\ninput_process:\n  raw_files_dir: {config.raw_files_dir.as_posix()}\n"
-        f"  extracted_txt_dir: {config.extracted_txt_dir.as_posix()}\n",
+        f"  extracted_txt_dir: {config.extracted_txt_dir.as_posix()}\n"
+        f"  cleaned_txt_dir: {config.cleaned_txt_dir.as_posix()}\n"
+        f"  log_path: {config.log_path.as_posix()}\n",
         encoding="utf-8",
     )
 

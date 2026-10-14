@@ -3,14 +3,15 @@
     data/<project>/
         raw/
             raw_files/            original PDF / HTML / TXT
-            extracted_txt/        <stem>__pdf|html|txt|ocr.txt (stage 1.1)
-            cleaned_txt/          <stem>.txt that passed the quality check (kept across runs)
+            extracted_txt/        <stem>.txt waiting for OCR / a fix (stage 1.1); only unresolved files stay
             gold/                 <stem>.txt hand-cleaned texts (optional source for TXT -> Markdown)
-            input_report.json     eliminated files, PDFs needing OCR
+            input_process.log     what stage 1 did to each file; WARNING = needs your attention
         preprocessed/             stage 1-2 output, open to human edits (stage 3)
+            cleaned_txt/          <stem>.txt that passed the quality check (kept across runs)
             cleaned_markdown/
             translation_markdown/
-        processed/                validated pair, the input to evaluation (stage 4)
+            header_check.log      pairs whose headings differ (written by the `validate` step)
+        processed/                pairs YOU moved here after checking them; the input to evaluation (stage 4)
             cleaned_markdown/
             translation_markdown/
         automation/                  evaluation outputs (one folder; a rerun cleans it)
@@ -36,7 +37,8 @@ from automation.src.constants import (
     GOLD_DIRNAME,
     GOLDEN_CSV_FILENAME,
     INDEX_SCHEMA_RELPATH,
-    INPUT_REPORT_FILENAME,
+    INPUT_LOG_FILENAME,
+    HEADER_CHECK_LOG_FILENAME,
     MANUAL_OVERWRITES_FILENAME,
     PREPROCESSED_DIRNAME,
     PROCESSED_DIRNAME,
@@ -64,15 +66,19 @@ class ProjectDirs:
 
     @property
     def cleaned_txt(self) -> Path:
-        return self.raw / CLEANED_TXT_DIRNAME
+        return self.preprocessed / CLEANED_TXT_DIRNAME
 
     @property
     def gold(self) -> Path:
         return self.raw / GOLD_DIRNAME
 
     @property
-    def input_report(self) -> Path:
-        return self.raw / INPUT_REPORT_FILENAME
+    def input_log(self) -> Path:
+        return self.raw / INPUT_LOG_FILENAME
+
+    @property
+    def header_check_log(self) -> Path:
+        return self.preprocessed / HEADER_CHECK_LOG_FILENAME
 
     @property
     def preprocessed(self) -> Path:

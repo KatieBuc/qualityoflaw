@@ -1,6 +1,7 @@
 """Command line for stage 1.1.
 
     python -m automation.src.input_process migrate-raw [--dry-run]
+    python -m automation.src.input_process migrate-layout [--dry-run]   # one-off: move to the current folder layout
     python -m automation.src.input_process extract [--small-scale]
     python -m automation.src.input_process check [--report-only] [--small-scale]
     python -m automation.src.input_process run [--small-scale]      # extract + check
@@ -15,7 +16,7 @@ from pathlib import Path
 from automation.src.constants import DEFAULT_PIPELINE_CONFIG
 from automation.src.input_process.config import load_input_process_config
 from automation.src.input_process.extract import extract_all
-from automation.src.input_process.migrate import migrate_raw
+from automation.src.input_process.migrate import migrate_layout, migrate_raw
 from automation.src.input_process.pipeline import check_all, tidy_extracted
 
 
@@ -29,6 +30,16 @@ def _cmd_migrate_raw(args: argparse.Namespace, config) -> int:
             print(f"  {name}")
     if result.ignored:
         print(f"Left {len(result.ignored)} non-source file(s) in place: {', '.join(result.ignored)}")
+    return 0
+
+
+def _cmd_migrate_layout(args: argparse.Namespace, config) -> int:
+    r = migrate_layout(config, dry_run=args.dry_run)
+    verb = "Would" if args.dry_run else "Did"
+    print(f"{verb}: move {len(r.moved_cleaned)} file(s) to {config.cleaned_txt_dir}, rename {len(r.renamed)}, "
+          f"remove {len(r.removed_superseded)} superseded extraction(s) and {len(r.removed_reports)} old report(s)")
+    for item in r.conflicts:
+        print(f"  left alone (target exists): {item}")
     return 0
 
 
@@ -51,14 +62,12 @@ def _print_report_summary(report: dict, config) -> None:
         f"Quality check: {s['files']} policy(ies) -> {s['passed']} in cleaned_txt, "
         f"{s['needs_ocr']} need OCR, {s['eliminated']} eliminated"
     )
-    for line in report.get("adopted", []):
-        print(f"  moved by hand into cleaned_txt: {line}")
     for name, items in report.get("warnings", {}).items():
-        print(f"  warning: {len(items)} {name.replace('_', ' ')} (see report)")
+        print(f"  warning: {len(items)} {name.replace('_', ' ')} (see the log)")
     for entry in report["needs_ocr"]:
-        print(f"  needs OCR: {entry['pdf'] or entry['stem']} -> put the OCR text in "
-              f"{config.extracted_txt_dir / entry['expected_ocr_file']}")
-    print(f"Report: {config.report_path}")
+        print(f"  needs OCR: {entry['pdf'] or entry['stem']} -> replace "
+              f"{config.extracted_txt_dir / entry['expected_ocr_file']} with the OCR text")
+    print(f"Log: {config.log_path}")
 
 
 def _cmd_tidy(args: argparse.Namespace, config) -> int:
@@ -72,7 +81,7 @@ def _cmd_check(args: argparse.Namespace, config) -> int:
     report = check_all(config, write_cleaned=not args.report_only, small_scale=args.small_scale)
     _print_report_summary(report, config)
     if args.report_only:
-        print("(report only: cleaned_txt/ was not touched)")
+        print("(log only: cleaned_txt/ was not touched)")
     else:
         print(f"Passed files are in {config.cleaned_txt_dir}")
     return 0
@@ -89,7 +98,7 @@ def _cmd_markdown(args: argparse.Namespace, config) -> int:
         language_for=config.language_for,
         stems=set(config.small_scale_stems) if args.small_scale else None,
         force=args.force,
-        report_path=config.report_path.with_name("markdown_report.json"),
+        log_path=config.log_path,
     )
     summary = result["summary"]
     print(
@@ -122,6 +131,13 @@ def build_parser() -> argparse.ArgumentParser:
     migrate.add_argument("--dry-run", action="store_true")
     migrate.set_defaults(func=_cmd_migrate_raw)
 
+    layout = sub.add_parser(
+        "migrate-layout",
+        help="One-off: move data made by the earlier layout (markers in file names, raw/cleaned_txt, JSON reports).",
+    )
+    layout.add_argument("--dry-run", action="store_true")
+    layout.set_defaults(func=_cmd_migrate_layout)
+
     extract = sub.add_parser(
         "extract", help="PDF/HTML -> txt, TXT -> copy, into extracted_txt/ (existing outputs are kept)."
     )
@@ -130,9 +146,9 @@ def build_parser() -> argparse.ArgumentParser:
 
     check = sub.add_parser(
         "check",
-        help="Quality-check, fix and re-check extracted_txt/; write cleaned_txt/ and the JSON report.",
+        help="Quality-check, fix and re-check extracted_txt/; passed texts go to cleaned_txt/; everything is logged.",
     )
-    check.add_argument("--report-only", action="store_true", help="Write the report, leave cleaned_txt/ alone.")
+    check.add_argument("--report-only", action="store_true", help="Only log the result; move and delete nothing.")
     check.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
     check.set_defaults(func=_cmd_check)
 

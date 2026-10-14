@@ -15,7 +15,7 @@ Rule families
 Outcomes (``decide``)
     PASS        usable (possibly with a ``review`` flag or leftover minor noise)
     NEEDS_OCR   a PDF whose text layer cannot be used; OCR it and put the result in
-                ``extracted_txt/<stem>__ocr.txt``
+                ``extracted_txt/<stem>.txt`` (replace the extraction)
     ELIMINATE   unrecoverable (too little text, corrupt, paywalled, ...)
 
 Exact duplicates (the old R5) are flagged by the pipeline, never removed:

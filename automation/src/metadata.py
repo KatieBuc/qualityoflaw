@@ -137,8 +137,8 @@ def validate_for_steps(
     for step, markdown_dir in markdown_needs:
         if step not in steps or (step == "translation_qa_md" and "translation_md" in steps):
             continue
-        if step == "md_to_text" and "promote" in steps:
-            continue                      # promote fills processed/ in this run
+        if step == "md_to_text" and "validate" in steps:
+            continue                      # validate pauses until processed/ is filled, then md_to_text reads it
         if not markdown_dir.is_dir() or not list(markdown_dir.glob("*.md")):
             raise FileNotFoundError(
                 f"Translated markdown required for {step}: {markdown_dir}"

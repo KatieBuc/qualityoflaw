@@ -13,27 +13,27 @@ python -m automation.src.run_pipeline --small-scale   # only paths.small_scale_s
 
 | Stage | Step | What it does | Breakpoint |
 |---|---|---|---|
-| 1.1 | `input_process` | `raw/raw_files` -> text -> quality check and fix -> `raw/cleaned_txt`; report `raw/input_report.json` | **yes**: files that need OCR or were eliminated |
+| 1.1 | `input_process` | `raw/raw_files` -> text -> quality check and fix -> `preprocessed/cleaned_txt`; log `raw/input_process.log` | **yes**: files that need OCR or were eliminated |
 | 1.2 | `txt_to_md` | `cleaned_txt` (or `gold`, see `input_process.markdown_source`) -> `preprocessed/cleaned_markdown` | no (policies without heading structure are listed) |
 | 2 | `translation_md` | `cleaned_markdown` -> `preprocessed/translation_markdown` | no |
 | 2 | `translation_qa_md` | optional, run with `--steps` | no |
 | 3 | `human_review` | optional pause; off unless `human_review.pause: true` | **yes**, only when enabled |
-| 4 | `promote` | header check of each pair, then `preprocessed/` -> `processed/` | **yes**: pairs whose headings differ |
+| 4 | `validate` | header check of every pair in `preprocessed/`; mismatches go to `preprocessed/header_check.log`. **Moves nothing** | **yes**: while `processed/` is empty |
 | 4 | `md_to_text`, `storage`, `evaluation` | section mapping, per-section embeddings, RAG evaluation | no |
 | 4 | `comparison`, `discrepancy_diagnosis` | optional | no |
 
 ## Breakpoints
 
 ### `input_process`: files that need your attention
-The report lists, for every file that did not pass, the indicators that failed.
+The log (`raw/input_process.log`) has a WARNING line for every file that did not pass, with the indicators that failed.
 
-1. **Needs OCR** (a scanned PDF): OCR it and save the text as `raw/extracted_txt/<name>__ocr.txt`.
-2. **Eliminated**: fix the text and save it as `raw/extracted_txt/<name>__txt.txt`; it goes through the
-   quality check again. If you accept the file as it is, move it into `raw/cleaned_txt/` instead.
+1. **Needs OCR** (a scanned PDF): OCR it and save the text over `raw/extracted_txt/<name>.txt`.
+2. **Eliminated**: fix `raw/extracted_txt/<name>.txt` (it is checked again). If you accept the file as it is, move it into
+   `preprocessed/cleaned_txt/` instead.
 3. Files you do not want can stay where they are.
 4. Run the command again. To continue with the files that passed without fixing the others: `--skip-blocked`.
 
-Details: [input_process.md](input_process.md).
+No markers in file names: the file is always `<name>.txt`. Details: [input_process.md](input_process.md).
 
 ### `human_review` (optional)
 Set `human_review.pause: true` in `automation/config/pipeline_config.yaml` to review before evaluation.
@@ -42,20 +42,23 @@ After translation the run stops. Edit the files in `preprocessed/cleaned_markdow
 stay identical** (same number of headings, same level at every position); the text is free to change.
 Then run the command again with `--reviewed`.
 
-### `promote`: headings differ
-Every pair is checked; pairs that match move to `processed/` right away, the others stay in `preprocessed/`
-and are listed with the first difference (for example "heading hierarchy differs at heading 12"). Make the
-headings of the two files match and run again; a blocked policy is left out of the evaluation until it
-passes. `--skip-blocked` evaluates the policies that are ready.
+### `validate`: you move the pairs to `processed/`
+The pipeline **never moves files into `processed/`**. The `validate` step checks the headings of every pair in
+`preprocessed/` and writes one line per pair to `preprocessed/header_check.log` (`INFO OK ...`, `WARNING MISMATCH ... <why>`),
+and prints the mismatches. While `processed/` holds no translation yet, the run pauses:
 
-`promote` never overwrites a file already in `processed/`. To redo a policy, delete its files in
-`processed/` and `preprocessed/` first.
+1. Fix each mismatch (make the headings of the two files match).
+2. Move each pair you accept: the file from `preprocessed/cleaned_markdown` to `processed/cleaned_markdown` and the file
+   from `preprocessed/translation_markdown` to `processed/translation_markdown` (same file names).
+3. Run the command again. Policies still in `preprocessed/` are not evaluated; they are checked and reported on every run.
+
+`md_to_text` checks the headings of the pairs in `processed/` once more, so a mismatching pair you moved is reported there.
 
 ## Flags added for breakpoints
 
 | Flag | Meaning |
 |------|---------|
-| `--skip-blocked` | At a breakpoint caused by files that are not ready (`input_process`, `promote`), go on with the ones that are |
+| `--skip-blocked` | At the `input_process` breakpoint, go on with the files that passed |
 | `--reviewed` | Confirm the optional human review and continue |
 
 `--force` cleans only `data/<project>/automation/`; `raw/`, `preprocessed/` and `processed/` are not touched.
@@ -65,10 +68,11 @@ passes. `--skip-blocked` evaluates the policies that are ready.
 ```
 data/<project>/
   raw/raw_files/             originals (PDF, HTML, TXT)
-  raw/extracted_txt/         only unresolved files (OCR needed / eliminated)
-  raw/cleaned_txt/           passed texts
+  raw/extracted_txt/         <name>.txt of unresolved files only (OCR needed / eliminated)
+  raw/input_process.log      stage 1 log
   raw/gold/                  hand-cleaned texts (optional source of txt_to_md)
-  preprocessed/cleaned_markdown/, translation_markdown/    open to human edits
-  processed/cleaned_markdown/, translation_markdown/       validated pairs, the input of evaluation
+  preprocessed/cleaned_txt/  passed texts
+  preprocessed/cleaned_markdown/, translation_markdown/    open to human edits; header_check.log
+  processed/cleaned_markdown/, translation_markdown/       pairs you moved here, the input of evaluation
   automation/                final output of the run
 ```

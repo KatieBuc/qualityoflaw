@@ -71,9 +71,9 @@ evaluation:
       evidence_verification:
         enabled: true
 
-# Stage 1 (input processing): data/<project>/raw/{raw_files,extracted_txt,cleaned_txt}.
-# Every key is optional; folders default to those names under data/<project>/raw/.
-# Overrides are repo-relative or absolute paths.
+# Stage 1 (input processing): data/<project>/raw/{raw_files,extracted_txt} and
+# data/<project>/preprocessed/cleaned_txt.
+# Every key is optional; folders default to those names. Overrides are repo-relative or absolute.
 input_process:
   # Language every file is judged as, unless language_pattern finds one in its name.
   language: Indonesian
@@ -87,8 +87,8 @@ input_process:
   # gold_dir: data/global/raw/gold
   # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
   # extracted_txt_dir: data/indonesia/raw/extracted_txt
-  # cleaned_txt_dir: data/indonesia/raw/cleaned_txt
-  # report_path: data/indonesia/raw/input_report.json
+  # cleaned_txt_dir: data/indonesia/preprocessed/cleaned_txt
+  # log_path: data/indonesia/raw/input_process.log
   # Override individual quality thresholds (names in input_process/quality/criteria.py, T).
   thresholds: {}
 
@@ -136,6 +136,7 @@ paths:
 
 # Stage 3 (optional human adjustment). true: after translation the run pauses so you can edit
 # preprocessed/cleaned_markdown and preprocessed/translation_markdown; continue with --reviewed.
-# Either way, stage 4 starts by checking the headings of each pair and moving it to processed/.
+# Either way, the `validate` step then checks the headings of each pair (log: preprocessed/header_check.log);
+# moving the pairs you accept to processed/ is up to you.
 human_review:
   pause: false

@@ -14,8 +14,8 @@ def test_default_folders_are_under_the_project_raw_dir():
     raw = DATA_ROOT / "demo" / "raw"
     assert config.raw_files_dir == raw / "raw_files"
     assert config.extracted_txt_dir == raw / "extracted_txt"
-    assert config.cleaned_txt_dir == raw / "cleaned_txt"
-    assert config.report_path == raw / "input_report.json"
+    assert config.cleaned_txt_dir == DATA_ROOT / "demo" / "preprocessed" / "cleaned_txt"
+    assert config.log_path == raw / "input_process.log"
     assert config.language == "Indonesian"
 
 
@@ -28,7 +28,7 @@ def test_every_folder_can_be_overridden_in_the_config(tmp_path):
                 "raw_files_dir": "data/demo/originals",
                 "extracted_txt_dir": str(tmp_path / "ex"),
                 "cleaned_txt_dir": "data/demo/ok",
-                "report_path": str(tmp_path / "report.json"),
+                "log_path": str(tmp_path / "run.log"),
                 "thresholds": {"min_letters": 500},
             },
         }
@@ -36,7 +36,7 @@ def test_every_folder_can_be_overridden_in_the_config(tmp_path):
     assert config.raw_files_dir == PROJECT_ROOT / "data/demo/originals"
     assert config.extracted_txt_dir == tmp_path / "ex"
     assert config.cleaned_txt_dir == PROJECT_ROOT / "data/demo/ok"
-    assert config.report_path == tmp_path / "report.json"
+    assert config.log_path == tmp_path / "run.log"
     assert config.language == "English" and config.thresholds == {"min_letters": 500}
 
 
@@ -50,7 +50,8 @@ def test_project_dirs_expose_the_stage_1_folders():
     assert dirs.raw_files.name == "raw_files" and dirs.raw_files.parent == dirs.raw
     assert dirs.extracted_txt.name == "extracted_txt"
     assert dirs.cleaned_txt.name == "cleaned_txt"
-    assert dirs.input_report.name == "input_report.json"
+    assert dirs.input_log.name == "input_process.log"
+    assert dirs.cleaned_txt.parent == dirs.preprocessed and dirs.header_check_log.parent == dirs.preprocessed
 
 
 @pytest.fixture
@@ -106,7 +107,7 @@ def test_cli_migrate_raw(raw_project, tmp_path, monkeypatch, capsys):
 def test_markdown_source_defaults_to_cleaned_txt_and_can_be_gold(tmp_path):
     default = parse_input_process_config({"project": "demo"})
     assert default.markdown_source == "cleaned_txt"
-    assert default.markdown_source_dir == default.cleaned_txt_dir == DATA_ROOT / "demo" / "raw" / "cleaned_txt"
+    assert default.markdown_source_dir == default.cleaned_txt_dir == DATA_ROOT / "demo" / "preprocessed" / "cleaned_txt"
     assert default.gold_dir == DATA_ROOT / "demo" / "raw" / "gold"
 
     gold = parse_input_process_config(
