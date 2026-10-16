@@ -16,9 +16,20 @@ Dependencies are optional and imported lazily: `bertalign`, `vecalign` and
 weights are downloaded on first use.
 """
 
+import logging
 import threading
 
 import numpy as np
+
+#: At most this many threads encode with LaBSE at once; the others wait. Encoding on the CPU allocates a lot of
+#: temporary memory per call (up to 512 tokens per sentence, many sentences per call). With dozens of evaluation
+#: threads encoding together the process grew to ~43 GB of virtual memory and PyTorch crashed (c10.dll access
+#: violation). Everything else in the evaluation still runs in parallel.
+ENCODE_CONCURRENCY = 1
+#: Threads PyTorch uses inside one encoding call.
+TORCH_THREADS = 4
+#: Sentences per forward pass: smaller batches mean a lower peak memory.
+ENCODE_BATCH_SIZE = 16
 
 LABSE = "sentence-transformers/LaBSE"
 MAX_ALIGN = 5  # max sentences across both sides of one bead
@@ -62,10 +73,34 @@ def _load_once(key: str, loader):
         return _LOADED[key]
 
 
+_ENCODE_SLOTS = threading.BoundedSemaphore(ENCODE_CONCURRENCY)
+
+
+class _GuardedModel:
+    """The shared LaBSE model with `encode` limited to `ENCODE_CONCURRENCY` threads at a time.
+
+    Both aligners reach the model through this object (Bertalign's encoder wraps it too), so one
+    guard covers every encoding call. Any other attribute is passed through to the real model.
+    """
+
+    def __init__(self, model) -> None:
+        self._model = model
+
+    def encode(self, *args, **kwargs):
+        kwargs.setdefault("batch_size", ENCODE_BATCH_SIZE)
+        with _ENCODE_SLOTS:
+            return self._model.encode(*args, **kwargs)
+
+    def __getattr__(self, name):
+        return getattr(self._model, name)
+
+
 def _load_labse():
+    import torch
     from sentence_transformers import SentenceTransformer
 
-    return SentenceTransformer(LABSE)
+    torch.set_num_threads(TORCH_THREADS)
+    return _GuardedModel(SentenceTransformer(LABSE))
 
 
 def _labse():
@@ -114,6 +149,11 @@ def _embed_with_overlaps(lines: list[str], max_overlap: int) -> tuple[dict, np.n
     return {t: i for i, t in enumerate(unique)}, np.asarray(vectors, dtype=np.float32)
 
 
+def quiet_vecalign_timings() -> None:
+    """Vecalign logs six timing lines at INFO for every alignment; hide them (warnings and errors still show)."""
+    logging.getLogger("vecalign").setLevel(logging.WARNING)
+
+
 def align_vecalign(
     src: list[str], tgt: list[str], *, max_align: int = MAX_ALIGN, del_percentile_frac: float = 0.2
 ) -> list[Bead]:
@@ -122,6 +162,7 @@ def align_vecalign(
     except ImportError as exc:
         raise AlignerUnavailable(f"vecalign not installed: {exc}") from exc
 
+    quiet_vecalign_timings()
     src, tgt = _one_line(src), _one_line(tgt)
     n_overlap = max(1, max_align - 1)
     s2l_src, emb_src = _embed_with_overlaps(src, n_overlap)

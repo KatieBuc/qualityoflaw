@@ -161,3 +161,61 @@ def test_warm_up_loads_the_model_before_the_threads_start(fresh_models, monkeypa
     assert loaded == ["labse"]
     fresh_models.warm_up("something-else")      # not an embedding method: nothing to load
     assert loaded == ["labse"]
+
+
+def test_only_encode_concurrency_threads_encode_at_once(fresh_models, monkeypatch):
+    """The encoding call is what allocates the memory: it must not run in dozens of threads together."""
+    import threading
+    import time
+
+    running = peak = 0
+    lock = threading.Lock()
+
+    class FakeModel:
+        def encode(self, texts, **kwargs):
+            nonlocal running, peak
+            with lock:
+                running += 1
+                peak = max(peak, running)
+            time.sleep(0.05)
+            with lock:
+                running -= 1
+            return [[0.0]] * len(texts)
+
+    monkeypatch.setattr(fresh_models, "_ENCODE_SLOTS", threading.BoundedSemaphore(fresh_models.ENCODE_CONCURRENCY))
+    model = fresh_models._GuardedModel(FakeModel())
+    threads = [threading.Thread(target=lambda: model.encode(["a"])) for _ in range(12)]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+
+    assert fresh_models.ENCODE_CONCURRENCY == 1 and peak == 1
+
+
+def test_the_guard_sets_a_small_default_batch_size_and_passes_other_attributes_through(fresh_models):
+    seen = {}
+
+    class FakeModel:
+        max_seq_length = 512
+
+        def encode(self, texts, **kwargs):
+            seen.update(kwargs)
+            return []
+
+    model = fresh_models._GuardedModel(FakeModel())
+    model.encode(["a"], normalize_embeddings=True)
+
+    assert seen == {"normalize_embeddings": True, "batch_size": fresh_models.ENCODE_BATCH_SIZE}
+    assert model.max_seq_length == 512                      # attribute access reaches the real model
+    model.encode(["a"], batch_size=4)
+    assert seen["batch_size"] == 4                          # an explicit batch size wins
+
+
+def test_vecalign_timing_lines_are_hidden_but_warnings_stay(fresh_models):
+    import logging
+
+    logging.getLogger("vecalign").setLevel(logging.INFO)
+    fresh_models.quiet_vecalign_timings()
+    log = logging.getLogger("vecalign")
+    assert not log.isEnabledFor(logging.INFO) and log.isEnabledFor(logging.WARNING)
