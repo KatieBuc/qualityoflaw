@@ -5,7 +5,7 @@ endpoint — same request/response wire format as Cohere's native `/v1/rerank`
 API, just pointed at your Azure deployment's endpoint + key (see
 AZURE_COHERE_RERANK_ENDPOINT / AZURE_COHERE_RERANK_API_KEY in .env).
 
-This runs as an ordinary API call on whichever worker thread is already
+Calls go through one shared, pooled `requests.Session` (`_get_session`). This runs as an ordinary API call on whichever worker thread is already
 evaluating a dimension/window — it does not need its own concurrency
 guard or local caching; the pipeline's existing `concurrency.max_workers`
 bounds it exactly like any other Azure call.
@@ -14,15 +14,40 @@ bounds it exactly like any other Azure call.
 from __future__ import annotations
 
 import logging
+import threading
 import time
 
 import requests
+from requests.adapters import HTTPAdapter
 
 logger = logging.getLogger(__name__)
 
 _MAX_RETRIES = 3
 _RETRY_BASE_DELAY = 2.0
 _REQUEST_TIMEOUT_S = 30.0
+_POOL_SIZE = 32          # >= the number of rerank calls that can be in flight at once
+
+_session: requests.Session | None = None
+_session_lock = threading.Lock()
+
+
+def _get_session() -> requests.Session:
+    """One `requests.Session` for the whole process, shared by every worker thread.
+
+    A bare `requests.post` opens a new TCP connection and does a new TLS handshake for every call. With many
+    threads that is a burst of handshakes, and some of them get cut (SSLEOFError, WinError 10053). A session keeps
+    the connections alive in a pool and reuses them, so far fewer handshakes happen.
+    """
+    global _session
+    if _session is None:
+        with _session_lock:
+            if _session is None:
+                session = requests.Session()
+                adapter = HTTPAdapter(pool_connections=4, pool_maxsize=_POOL_SIZE)
+                session.mount("https://", adapter)
+                session.mount("http://", adapter)
+                _session = session
+    return _session
 
 
 def score_candidates(model_name: str, query: str, texts: list[str]) -> list[float]:
@@ -41,7 +66,7 @@ def score_candidates(model_name: str, query: str, texts: list[str]) -> list[floa
     last_exc: Exception | None = None
     for attempt in range(_MAX_RETRIES):
         try:
-            response = requests.post(
+            response = _get_session().post(
                 f"{endpoint}/v2/rerank", headers=headers, json=payload, timeout=_REQUEST_TIMEOUT_S
             )
             response.raise_for_status()
