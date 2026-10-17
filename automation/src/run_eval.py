@@ -461,8 +461,20 @@ def _evaluate_policy_serial(
     return _merge_dimension_results(policy_path, deployment_name, criteria_folder.name, dimension_results)
 
 
-def _evaluate_policy_parallel(
-    policy_path: Path,
+class _PolicyJob:
+    """One policy being evaluated by the flat scheduler: its dimension results arrive from different threads."""
+
+    def __init__(self, policy_path: Path, n_dimensions: int) -> None:
+        self.policy_path = policy_path
+        self.results: list = [None] * n_dimensions
+        self.remaining = n_dimensions
+        self.lock = threading.Lock()
+        self.store_chunks: list[dict] | None = None
+        self.load_error: BaseException | None = None
+
+
+def _evaluate_policies_flat(
+    policy_files: list[Path],
     criteria_folder: Path,
     template_text: str,
     deployment_name: str,
@@ -471,30 +483,79 @@ def _evaluate_policy_parallel(
     retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
     limiter: ConcurrencyLimiter,
-) -> tuple[dict, dict[str, list[RetrievedChunk]]]:
+    settle: Callable[[Path, object], None],
+) -> None:
+    """Evaluate every (policy, dimension) pair on ONE pool of `limiter.max_workers` threads.
+
+    Evaluating policies in parallel and, inside each policy, its dimensions in parallel nests two pools of
+    `max_workers`: up to `max_workers ** 2` threads at once, all retrieving, reranking, aligning and encoding
+    together. That exhausted the machine's memory (PyTorch crashed at ~43 GB). Here the total never exceeds
+    `max_workers`, and the tasks are queued policy by policy, so policies finish one after another instead of
+    all crawling together; the tail of the queue keeps every thread busy.
+
+    The thread that completes a policy's last dimension merges it and calls `settle(policy_path, outcome)`
+    (`outcome` = `(final_report, candidates_by_id)` or the exception), so a report is saved as soon as its
+    policy is done. The policy's retrieval store is loaded when its first dimension starts and dropped when
+    it settles, which keeps only a couple of stores in memory.
+    """
+    jobs = {path: _PolicyJob(path, len(CRITERIA_FILES)) for path in policy_files}
+
+    def store_for(job: _PolicyJob) -> list[dict]:
+        with job.lock:
+            if job.store_chunks is None and job.load_error is None:
+                try:
+                    job.store_chunks = (
+                        load_policy_store(store_path_for(rag_store_dir, job.policy_path.name))
+                        if retrieval_config.enabled
+                        else []
+                    )
+                except BaseException as exc:
+                    job.load_error = exc
+            if job.load_error is not None:
+                raise job.load_error
+            return job.store_chunks
+
+    def run_one(job: _PolicyJob, index: int, criteria_file: str) -> None:
+        try:
+            result = _evaluate_dimension(
+                job.policy_path,
+                criteria_file,
+                criteria_folder,
+                template_text,
+                store_for(job),
+                embedder,
+                retrieval_config,
+                complete_fn,
+            )
+        except BaseException as exc:
+            result = exc
+        with job.lock:
+            job.results[index] = result
+            job.remaining -= 1
+            last = job.remaining == 0
+        if not last:
+            return
+        if job.load_error is not None:
+            outcome: object = job.load_error
+        else:
+            try:
+                outcome = _merge_dimension_results(
+                    job.policy_path, deployment_name, criteria_folder.name, job.results
+                )
+            except BaseException as exc:
+                outcome = exc
+        job.store_chunks = None
+        settle(job.policy_path, outcome)
+
     logger.info(
-        "Starting parallel evaluation for %s (%d dimensions)", policy_path.name, len(CRITERIA_FILES)
-    )
-    store_chunks = (
-        load_policy_store(store_path_for(rag_store_dir, policy_path.name))
-        if retrieval_config.enabled
-        else []
+        "Evaluating %d policies x %d dimensions on %d threads", len(policy_files), len(CRITERIA_FILES), limiter.max_workers
     )
     tasks = [
-        lambda cf=cf: _evaluate_dimension(
-            policy_path,
-            cf,
-            criteria_folder,
-            template_text,
-            store_chunks,
-            embedder,
-            retrieval_config,
-            complete_fn,
-        )
-        for cf in CRITERIA_FILES
+        lambda job=job, index=index, cf=cf: run_one(job, index, cf)
+        for job in jobs.values()
+        for index, cf in enumerate(CRITERIA_FILES)
     ]
-    dimension_results = limiter.run_parallel(tasks)
-    return _merge_dimension_results(policy_path, deployment_name, criteria_folder.name, dimension_results)
+    limiter.run_parallel(tasks)
 
 
 def _write_candidates_file(
@@ -676,25 +737,19 @@ def run_evaluation_step(
             settle(policy_path, outcome)
     else:
 
-        def evaluate_and_save(policy_path: Path) -> None:
-            try:
-                outcome = _evaluate_policy_parallel(
-                    policy_path,
-                    config.evaluation_criteria_dir,
-                    template_text,
-                    deployment_name,
-                    rag_store_dir,
-                    embedder,
-                    config.retrieval,
-                    complete_fn,
-                    limiter,
-                )
-            except BaseException as exc:
-                outcome = exc
-            settle(policy_path, outcome)
-
-        # Each task saves its own policy as soon as it finishes; nothing waits for the slowest one.
-        limiter.run_parallel([lambda p=p: evaluate_and_save(p) for p in policy_files])
+        # One pool over every (policy, dimension) pair; each policy is saved by the thread that finishes it.
+        _evaluate_policies_flat(
+            policy_files,
+            config.evaluation_criteria_dir,
+            template_text,
+            deployment_name,
+            rag_store_dir,
+            embedder,
+            config.retrieval,
+            complete_fn,
+            limiter,
+            settle,
+        )
         order = {p.name: i for i, p in enumerate(policy_files)}
         failed_policies.sort(key=lambda name: order.get(name, len(order)))
 

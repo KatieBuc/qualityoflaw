@@ -18,6 +18,7 @@ from automation.src.config_loader import (
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.run_eval import _has_eval_report, run_evaluation_step
+from automation.tests.test_eval_parallel import fake_flat
 
 
 @pytest.fixture
@@ -84,8 +85,7 @@ def test_has_eval_report_by_filename_suffix(data_root):
     assert _has_eval_report(eval_dir, "ACEH_BIREUEN.txt") is True
 
 
-@patch("automation.src.run_eval._evaluate_policy_parallel")
-def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipeline_config, data_root):
+def test_run_evaluation_step_skips_existing_by_default(pipeline_config, data_root):
     run_dir = data_root
     translation_dir = run_dir / "results" / "translation"
     evaluation_dir = run_dir / "results" / "evaluation"
@@ -99,7 +99,7 @@ def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipel
         encoding="utf-8",
     )
 
-    mock_eval_parallel.return_value = (
+    outcome = (
         {
             "policy_file": "B.txt",
             "model": "gpt-4o",
@@ -119,7 +119,10 @@ def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipel
     embedder = MagicMock()
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    with patch("automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/B.json")):
+    seen = []
+    with patch("automation.src.run_eval._evaluate_policies_flat", fake_flat(lambda p: outcome, seen)), patch(
+        "automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/B.json")
+    ):
         result = run_evaluation_step(config=pipeline_config,
             wrapper=wrapper,
             embedder=embedder,
@@ -129,11 +132,10 @@ def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipel
 
     assert result["counts"]["skipped"] == 1
     assert result["counts"]["total"] == 2
-    assert mock_eval_parallel.call_count == 1
+    assert seen == ["B.txt"]
 
 
-@patch("automation.src.run_eval._evaluate_policy_parallel")
-def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_config, data_root):
+def test_run_evaluation_step_force_reruns_existing(pipeline_config, data_root):
     run_dir = data_root
     translation_dir = run_dir / "results" / "translation"
     evaluation_dir = run_dir / "results" / "evaluation"
@@ -146,7 +148,7 @@ def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_
         encoding="utf-8",
     )
 
-    mock_eval_parallel.return_value = (
+    outcome = (
         {
             "policy_file": "A.txt",
             "model": "gpt-4o",
@@ -166,7 +168,10 @@ def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_
     embedder = MagicMock()
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    with patch("automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/A.json")):
+    seen = []
+    with patch("automation.src.run_eval._evaluate_policies_flat", fake_flat(lambda p: outcome, seen)), patch(
+        "automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/A.json")
+    ):
         result = run_evaluation_step(config=pipeline_config,
             wrapper=wrapper,
             embedder=embedder,
@@ -177,4 +182,4 @@ def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_
 
     assert result["counts"]["skipped"] == 0
     assert result["counts"]["total"] == 1
-    assert mock_eval_parallel.call_count == 1
+    assert seen == ["A.txt"]
