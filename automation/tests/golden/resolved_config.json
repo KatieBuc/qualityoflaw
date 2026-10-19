@@ -24,7 +24,7 @@
   },
   "concurrency": {
     "enabled": true,
-    "max_workers": 5
+    "max_workers": 10
   },
   "confidence": {
     "enabled": true,
@@ -59,7 +59,7 @@
   "experiment_name": "first-full-run",
   "markdown": {
     "fallback_prompt_path": "automation/prompts/translation/chunking/fallback_prompt_md.txt",
-    "prompt_path": "automation/prompts/translation/global/prompt.txt",
+    "prompt_path": "automation/prompts/translation/v3/prompt.txt",
     "qa_max_passes": 2,
     "qa_template_path": "automation/prompts/translation_qa/v2/prompt_template.txt",
     "safe_limit": 32000,

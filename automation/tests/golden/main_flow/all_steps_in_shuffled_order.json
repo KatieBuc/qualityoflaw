@@ -5,7 +5,7 @@
       "fn": "run_md_translation_step",
       "limiter": {
         "enabled": true,
-        "max_workers": 5
+        "max_workers": 10
       },
       "small_scale": false,
       "wrapper": "wrapper:claude-sonnet-4-5:confidence=False"
@@ -15,7 +15,7 @@
       "fn": "run_md_translation_qa_step",
       "limiter": {
         "enabled": true,
-        "max_workers": 5
+        "max_workers": 10
       },
       "small_scale": false,
       "wrapper": "wrapper:gpt-5.2-translation-qa:confidence=False"
@@ -32,7 +32,7 @@
       "fn": "run_translation_step",
       "limiter": {
         "enabled": true,
-        "max_workers": 5
+        "max_workers": 10
       },
       "small_scale": false,
       "wrapper": "wrapper:claude-sonnet-4-5:confidence=False"
@@ -42,7 +42,7 @@
       "fn": "run_translation_qa_step",
       "limiter": {
         "enabled": true,
-        "max_workers": 5
+        "max_workers": 10
       },
       "small_scale": false,
       "wrapper": "wrapper:gpt-5.2-translation-qa:confidence=False"
@@ -59,7 +59,7 @@
       "fn": "run_storage_step",
       "limiter": {
         "enabled": true,
-        "max_workers": 5
+        "max_workers": 10
       },
       "small_scale": false,
       "wrapper": null
@@ -70,7 +70,7 @@
       "fn": "run_evaluation_step",
       "limiter": {
         "enabled": true,
-        "max_workers": 5
+        "max_workers": 10
       },
       "small_scale": false,
       "wrapper": "wrapper:gpt-5.2:confidence=True"
@@ -87,7 +87,7 @@
       "fn": "run_diagnosis_step",
       "limiter": {
         "enabled": true,
-        "max_workers": 5
+        "max_workers": 10
       },
       "small_scale": false,
       "wrapper": "wrapper:gpt-5.2-diagnosis:confidence=False"
@@ -109,7 +109,7 @@
         },
         "concurrency": {
           "enabled": true,
-          "max_workers": 5
+          "max_workers": 10
         },
         "discrepancy_diagnosis_model": "gpt-5.2-diagnosis",
         "discrepancy_diagnosis_prompt_version": "v1",
@@ -117,7 +117,7 @@
         "evaluation_model": "gpt-5.2",
         "evaluation_prompt_version": "v4",
         "markdown_translation": {
-          "prompt_version": "global",
+          "prompt_version": "v3",
           "qa_max_passes": 2,
           "qa_prompt_version": "v2",
           "safe_limit": 32000,

@@ -6,7 +6,7 @@ project: indonesia
 
 concurrency:
   enabled: true
-  max_workers: 5
+  max_workers: 10
 
 translation:
   model: claude-sonnet-4-5
@@ -19,7 +19,7 @@ translation:
 # translation.model and translation_qa.model; target_chars is what packs
 # heading sections into translation units.
 translation_markdown:
-  prompt_version: global
+  prompt_version: v3
   qa_prompt_version: v2
   # translation_qa_md re-audits each chunk until the auditor reports no
   # remaining problems, up to this many passes.

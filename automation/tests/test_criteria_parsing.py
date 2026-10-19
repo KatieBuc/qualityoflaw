@@ -147,10 +147,10 @@ def test_rubric_reaches_the_prompt_for_versions_that_have_one(version, has_rubri
     if has_rubric:
         # v3/v4 carry 451 non-empty lines in total; 56 are criteria and the
         # remaining 395 are coding rules that used to be discarded entirely.
-        assert rubric_lines == 395
-        # 18 of the 56 criteria have no rubric written for them yet (a gap in
+        assert rubric_lines == 416
+        # 15 of the 56 criteria have no rubric written for them yet (a gap in
         # the criteria files, not in parsing) — those render exactly as they
         # did before, question only.
-        assert sum(1 for criterion in criteria if criterion.rubric) == 38
+        assert sum(1 for criterion in criteria if criterion.rubric) == 41
     else:
         assert rubric_lines == 0
