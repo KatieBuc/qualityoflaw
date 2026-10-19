@@ -1,0 +1,1252 @@
+# MAYOR OF PRABUMULIH
+
+MAYOR OF PRABUMULIH
+
+SOUTH SUMATRA PROVINCE
+
+REGIONAL REGULATION OF PRABUMULIH CITY
+
+NUMBER YEAR 2021
+
+REGARDING
+
+WOMEN'S EMPOWERMENT AND CHILD PROTECTION BY THE GRACE OF ALMIGHTY GOD MAYOR OF PRABUMULIH,
+
+Considering Bearing in Mind
+
+a. b. that to guarantee Women's Empowerment and Child Protection in accordance with their dignity and to guarantee their right to life in accordance with their nature and disposition without discrimination and to receive Protection from Violence and other violations, legal certainty is necessary; that to provide legal certainty in the implementation of Women's Empowerment and Child Protection and to carry out mandatory Regional government affairs, regulation in the form of Regional regulation is necessary; that based on the considerations referred to in letters a and b, it is necessary to establish a Regional Regulation on Women's Empowerment and Child Protection; Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia; Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic Number 3886); Law Number Year 2001 concerning the Establishment of Prabumulih City (State Gazette of the Republic of Indonesia Year 2001 Number 86, Supplement to the State Gazette of the Republic of Indonesia Number 4113); Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement
+
+to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning
+
+5. 6. 7. 8. 9. 10. P2) Child Protection (State Gazette of the Republic of Indonesia Year 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606); Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia Year 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332); Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times, most recently by Law Number of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679); Law Number 11 of 2020 concerning Job Creation (State Gazette of the Republic of Indonesia Year 2020 Number 245, Supplement to the State Gazette of the Republic of Indonesia Number 6573); Regulation of the State Minister for Women's Empowerment and Child Protection Number of 2010 Concerning Minimum Service Standards for Integrated Services for Women and Children Victims of Violence (State News of the Republic of Indonesia Year 2010 Number 56); Regulation of the State Minister for Women's Empowerment and Child Protection Number 11 of 2011 Concerning Policy on Development of Child-Friendly Districts/Cities (State News of the Republic of Indonesia Year 2012 Number
+
+Regulation of the Minister of Women's Empowerment and Child Protection Number of 2018 concerning Guidelines for the Establishment of Regional Technical Implementation Units for Women and Child Protection (State News of the Republic of Indonesia Year 2018 Number 532).
+
+With Joint Approval of
+
+THE REGIONAL HOUSE OF REPRESENTATIVES OF PRABUMULIH CITY and
+
+THE MAYOR OF PRABUMULIH
+
+DECIDES:
+
+To Establish REGIONAL REGULATION CONCERNING WOMEN'S EMPOWERMENT AND CHILD PROTECTION.
+
+CHAPTER
+
+GENERAL PROVISIONS
+
+Article
+
+In this Regional Regulation, the following terms shall mean:
+
+City is Prabumulih City.
+
+City Government is the Government of Prabumulih City.
+
+2.
+
+Mayor is the Mayor of Prabumulih City.
+
+3.
+
+Deputy Mayor is the Deputy Mayor of Prabumulih City.
+
+4.
+
+Regional House of Representatives hereinafter abbreviated as DPRD
+
+5. is the Regional House of Representatives of Prabumulih City; Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus 6. within the Government of Prabumulih City.
+
+7. Office of Population Control, Family Planning, Women's Empowerment and Child Protection hereinafter abbreviated as DPPKBPPPA is the Office of Population Control, Family Planning, Women's Empowerment and Child Protection of Prabumulih City.
+
+8. Regional General Hospital hereinafter abbreviated as RSUD is the Regional General Hospital RSUD of Prabumulih City; 9. Integrated Service Center for Women's Empowerment and Child Protection hereinafter abbreviated as P2TP2A is the Integrated Service Center for Women's Empowerment and Child Protection of Prabumulih City; 10. Community-Based Integrated Protection hereinafter abbreviated as PATBM is the Community-Based Integrated Protection PATBM of Prabumulih City; 11. Community Health Center hereinafter abbreviated as Puskesmas is the Community Health Center Puskesmas of Prabumulih City; 12. Regional Technical Implementation Unit hereinafter abbreviated as UPTD is the Technical Implementation element of the Office that carries out Technical Operational activities and/or certain Technical Supporting Activities; 13. Private sector is part of the economy outside Government ownership, consisting of Individuals or groups of legal entity Individuals who provide Public services in Prabumulih City; 14. Women's Empowerment is an effort to protect, strengthen human rights, improve quality of life, and increase women's participation in development.
+
+15. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive Protection from Violence and discrimination.
+
+16. Child is a person who has not reached the age of 18 (eighteen) years, including a Child who is still in the womb and has not married.
+
+17. Prevention is a direct effort undertaken by the Regional Government, community and parents and/or family to prevent violations of the rights of women and Children.
+
+18. Violence is any act that results in misery or suffering whether physical, sexual, psychological and/or domestic neglect including threats to commit acts, coercion, or deprivation of a person's freedom unlawfully.
+
+19. Children's Forum is a forum for Children's participation established with the aim of facilitating the involvement of Children in the decision-making process and enjoying changes concerning their lives either directly or indirectly, which is carried out with the approval and will of all Children based on awareness and understanding, in accordance with age and level of maturity of thought.
+
+20. Child-Friendly City hereinafter abbreviated as KLA is a City that has a child rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights;
+
+21. Gender Mainstreaming is a strategy built to integrate gender as an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the Region.
+
+22. Community is individuals, families, groups and social organizations and/or community organizations.
+
+23. Women Victims of Violence are women who experience actions that result in misery or suffering physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. 24. Child Victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity.
+
+25. Human trafficking is the act of recruiting, transporting, harboring, sending, transferring, or receiving a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person who has control over the other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.
+
+26. Complaint handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence against women and Children, submitted by victims, families or the community.
+
+Isl
+
+27. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction to carry out social functions normally.
+
+28. Law enforcement is the action of officials authorized by the state to implement laws and regulations. 29. Legal aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of Violence against women and Children in a gender-sensitive manner. 30. Repatriation is an effort to return women and Child victims of Violence from abroad to the debarkation/entry point, or from the receiving Region to the Region of origin.
+
+31. Social reintegration is an effort to reunite victims with their family, substitute family, or community that can provide Protection and fulfillment of needs for victims.
+
+32. Safe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence.
+
+33. Transit home is a forum for guidance and welfare services for street children that carries out social assistance/guidance, maintenance, care, education, and health activities, skills guidance to ensure that Children do not carry out activities on the streets so that they can grow and develop normally.
+
+34. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim. 35. Public service provider is any state organizing institution, corporation, independent institution established based on Law for public service activities, and other legal entities established solely for public service activities.
+
+36. Community Organization is an organization established and formed by the community voluntarily based on common aspirations, will, needs, interests, activities and goals to participate in development for the achievement of the goals of the Unitary State of the Republic of Indonesia based on Pancasila.
+
+37. Parents are the biological father and/or mother, or step father and/or mother, or adoptive father and/or mother. 38. Family is the smallest unit in society consisting of husband and wife or husband, wife and their Children, or father and his Children, or mother and her Children, or blood family in a straight line upward or downward up to the third degree.
+
+39. Customs are enduring patterns of conduct passed down from one generation to another as heritage, so that they are strongly integrated with the behavior patterns of society.
+
+Article
+
+The implementation of Women's Empowerment and Child Protection is based on the principles of:
+
+a. the best interests of women and Children;
+
+b. gender justice and gender equality;
+
+c. local wisdom;
+
+(3 law enforcement and legal certainty. d. non-discrimination; e. the right to life, survival, and development; respect for the opinion of the Child; and law enforcement and legal certainty. h.
+
+Article
+
+This Regional Regulation aims to guarantee the fulfillment of women's empowerment and child protection in the City: a. as a guideline in planning, policies and strategies for b.
+
+Women's Empowerment and Child Protection; protecting and preventing women and Children from actions, decisions and policies that violate the rights of women and Children; enhancing the role and value of local wisdom and the role of customs in d.
+
+Women's Empowerment and Child Protection; and as a legal umbrella for PD within the Government of Prabumulih City e. that handles women's empowerment and child protection in order to provide assistance and accompaniment to women and child victims from investigation at the police, prosecution to trial in court.
+
+Article
+
+The scope of regulation of Women's Empowerment and Child Protection includes:
+
+- a. women's protection;
+- b. Child protection;
+  - c. fulfillment of Children's rights;
+- d. improving the quality of life of women and children;
+- e. community participation; and
+- f. guidance, supervision, accompaniment;
+- g. gender and child data systems, disaggregated data on women and children; CHAPTER II IMPROVING THE QUALITY OF LIFE OF WOMEN AND CHILDREN
+
+## Part One
+
+General
+
+#### Article (1)
+
+In order to improve the quality of life of women and children, the City Government is responsible for a. respecting and guaranteeing the rights of women and children without discrimination in accordance with human dignity: b. enhancing Women's Empowerment and child protection in roles, quality and capacity in the fields of: 1. politics:
+
+- 2. law:
+- 3. social:
+- 4. economy: and
+
+(7
+
+5. culture.
+
+c. strengthening and developing service provider institutions for Women's Empowerment and child protection in the City.
+
+(2) The responsibility of the City Government in efforts to improve the quality of life of women as referred to in paragraph (1) is implemented by Regional Apparatus in accordance with their duties and functions.
+
+## Part Two
+
+Implementation of Women's Empowerment and Child Protection Article
+
+(1) The Mayor is responsible for the implementation of Women's Empowerment and Child Protection in the City.
+
+(2) The responsibility of the Mayor as referred to in paragraph (1) may be delegated to the Deputy Mayor. Article
+
+In implementing Women's Empowerment and Child Protection in the City, the Mayor appoints the Regional Apparatus responsible for Women's Empowerment duties as coordinator for the implementation of Women's Empowerment and Child Protection.
+
+## Part Three
+
+Formation of Working Group
+
+Women's Empowerment and Child Protection in the City Article
+
+(1) In an effort to accelerate the institutionalization of Women's Empowerment and Child Protection in all Regional Apparatus, a Women's Empowerment and Child Protection working group is established in the City.
+
+(2) Members of the Women's Empowerment and Child Protection working group are all heads/leaders of Regional Apparatus.
+
+(3) The Mayor appoints the Head of the Regional Apparatus responsible for Women's Empowerment duties as Chairman of the Working Group and Head of the Secretariat of the Regional Women's Empowerment and Child Protection Working Group.
+
+(4) The formation of the City Women's Empowerment and Child Protection working group is established by Mayor's Decree. Article
+
+The City Women's Empowerment and Child Protection Working Group as referred to in Article has the duty to:
+
+- a. promote and facilitate Women's Empowerment and Child Protection to each Regional Apparatus,
+- b. conduct socialization and advocacy of Women's Empowerment and Child Protection to sub-district heads, village heads and village chiefs,
+  - c. prepare work programs every year,
+- d. encourage the realization of planning and budgeting that is Responsive to Women's Empowerment and Child Protection,
+- e. prepare the work plan of the Women's Empowerment and Child Protection working group every year, ISI
+- f. be accountable to the Mayor through the Deputy Mayor, formulate policy recommendations to the Mayor, g. prepare the profile of Women's Empowerment and Child Protection h.
+
+Regional,
+
+i. monitor the implementation of Women's Empowerment and Child Protection in each agency,
+
+j. establish a technical team to conduct analysis of the Regional budget, k. prepare the regional action plan for City Women's Empowerment and Child Protection, and
+
+l. encourage the implementation of selection and appointment of Focal Points in each Regional Apparatus.
+
+#### Article 10
+
+(1) The Technical Team as referred to in Article letter consists of apparatus who understand gender responsive budget analysis as well as Women's Empowerment and Child Protection.
+
+(2) The regional action plan for Regional Women's Empowerment and Child Protection as referred to in Article letter contains: a. women's empowerment and child protection in laws and regulations in the City,
+
+b. women's empowerment and child protection in the development cycle in the City,
+
+c. strengthening of women's empowerment and child protection institutions in the City, and
+
+d. strengthening community participation in the City.
+
+#### Article 11
+
+(1) The Women's Empowerment and Child Protection Focal Point encourages the implementation of selection and appointment of Focal Points in each Regional Apparatus in each Regional Apparatus consisting of officials and/or staff responsible for planning and/or program duties.
+
+(2) The Women's Empowerment and Child Protection Focal Point as referred to in paragraph (1), has the duty to:
+
+- a. promote Women's Empowerment and Child Protection in the work unit,
+- b. facilitate the preparation of work plans and budgeting of Regional Apparatus that is responsive to Women's Empowerment and Child Protection, c. conduct training, socialization, advocacy of Women's Empowerment and Child Protection to all officials and staff within the Regional Apparatus, report the implementation of Women's Empowerment and Child Protection to the leadership of the Regional Apparatus, e. encourage the implementation of Budget analysis for Women's Empowerment and Child Protection, and facilitate the preparation of Women's Empowerment and Child Protection data in each Regional Apparatus, (31 The Women's Empowerment and Child Protection Focal Point as referred to in paragraph (1), is selected and appointed by the leadership of the Regional Apparatus.
+
+E)
+
+## Part Four
+
+Enhancement of Role, Quality, and Capacity of Women in the Political Field
+
+#### Article 12
+
+Efforts to enhance the role, quality and capacity of women in the political field as referred to in Article paragraph (1) letter number include:
+
+- a. conduct socialization to increase women's political participation in general elections:
+- b. implement programs that encourage the level of women's involvement in political processes and public positions,
+- c. provide facilitation for women's self-development in organizing, associating and assembling, and
+- d. involve women in decision-making concerning women's interests.
+
+## Part Five
+
+Enhancement of Role, Quality, and Capacity of Women in the Legal Field
+
+#### Article 13
+
+Efforts to enhance the role, quality and capacity of women in the legal field as referred to in Article paragraph (1) letter number include:
+
+- a. conduct socialization to increase women's legal knowledge and awareness, b. conduct mapping and review gender-biased policies, and c. involve women's organizations in the process of drafting and discussing Regional legal products related to women's participation.
+
+## Part Six
+
+Enhancement of Role, Quality, and Capacity of Women in the Social Field
+
+#### Article 14
+
+Efforts to enhance the role, quality and capacity of women in the
+
+a. enhancement of knowledge and skills to encourage the fulfillment of education in accordance with possessed potential,
+
+b. enhancement and fulfillment of health quality for women, c. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration,
+
+d. enhancement of women's awareness of the impact of early marriage,
+
+(10)
+
+facilitate and seek to preserve customs and e. development of science, technology, arts and culture for the advancement of women, conduct enhancement of women's awareness and knowledge about independent, healthy and prosperous family planning, conduct programs to reduce maternal mortality rates, and
+
+h. encourage the formation of women's organizations in the City.
+
+## Part Seven
+
+Enhancement of Role, Quality, and Capacity of Women in the Economic Field
+
+#### Article 15
+
+Efforts to enhance the role, quality and capacity of women in the economic field as referred to in Article paragraph (1) letter number include:
+
+- a. implement programs, activities, training to enhance women's skills and expertise in order to realize the improvement of women's welfare, facilitation of business capital strengthening for women with weak b. economies, marketing of products from women's businesses with weak economies, training for developing women's capacities through pre-prosperous family economic empowerment, and comprehensive entrepreneurship training for women. €.
+
+# CHAPTER III
+
+PROTECTION OF WOMEN AND CHILDREN
+
+## Part One
+
+General
+
+#### Article 16
+
+(1) The City Government in its efforts to Protect women and children is responsible for:
+
+- a. establishing and implementing policies, programs and activities for the protection of women and children, b.making efforts to prevent acts of Violence against women and children including criminal acts of human trafficking, c. improving the effectiveness of services for women and children victims of acts of Violence,
+- d. improving efforts to Protect women workers, e. strengthening and developing institutions providing Protection services for women and children,
+- f. conducting cooperation with the Government, other Regional Governments, private parties, business community and/or NGOs in efforts to prevent acts of Violence against women and children, and
+- g. involving the active role of families, customary leaders, religious leaders, the community, and institutions in the field of Protection of women and children.
+
+(11
+
+The responsibility of the City Government in its efforts to Protect women
+
+(2)
+
+as referred to in paragraph (1) is carried out by Regional Apparatus in accordance with their duties and functions and may coordinate with relevant agencies.
+
+## Part Two
+
+Prevention of Acts of Violence against Women and Children Article 17
+
+In order to prevent acts of Violence against women and children, the City Government: conducts socialization regarding the prevention of Violence against a. women and children by optimizing the role of customary institutions, education, culture, religion and community organizations, builds networks and cooperation with law enforcement officials, b. government officials, universities and various non-governmental organizations that work and/or care for women and children victims of Violence, provides public facilities that are comfortable and safe for women and children, and establishes an Integrated Service Center for Women and Children Empowerment P2TP2A established by mayoral decree and provides d.
+
+a Secretariat for the Integrated Service Center for Women and Children Empowerment.
+
+Fi
+
+## Part Three Effectiveness of Services for Women and Children Victims of Acts of Violence
+
+## Part One
+
+General
+
+#### Article 18
+
+Protection of women and children victims of acts of Violence
+
+(1)
+
+is implemented through integrated services.
+
+Provision of integrated services for women and children victims of acts of
+
+(2)
+
+Violence as referred to in paragraph (1) uses the principles of: a. gender-responsive, b.non-discrimination: equal and respectful relationships: d.
+
+.maintaining confidentiality, providing a sense of security and comfort, respecting individual differences, non-judgmental:
+
+.respecting the choices and decisions of victims: h. sensitive to the background and condition of victims and the use of appropriate language understood by victims:
+
+- J. fast and simple,
+  - k. empathy, and
+- I. fulfillment of the rights of women and children.
+
+(121
+
+#### Article 19
+
+Forms of integrated services for women and children victims of acts of Violence include: a. complaint handling, health rehabilitation, b. social rehabilitation, victim assistance, law enforcement and legal aid, and d.
+
+e. repatriation and social reintegration.
+
+## Part Two
+
+Complaint Handling
+
+#### Article 20
+
+Integrated service for complaint handling as referred to in Article 19 letter is carried out by: hospitals, a. b. community health centers, women and children service units, protection shelters trauma centers, d. women crisis centres, e. marriage advisory, guidance and preservation agencies, police,
+
+h. prosecutors' offices,
+
+1. courts, ministry of religious affairs, and/or legal aid institutions.
+
+k.
+
+#### Article 21
+
+Complaints regarding acts of Violence against women and children may
+
+(4)
+
+be made by reporters consisting of
+
+a. victims,
+
+b. family,
+
+c. the community, and/or
+
+d. community organizations in the field of Protection of women and children.
+
+Reporters as referred to in paragraph (1) may file
+
+(2)
+
+complaints:
+
+- a. directly,
+- b. by telephone, and/or
+- c. by letter.
+
+In addition to handling complaints submitted by reporters, the agency
+
+(3)
+
+responsible for the Protection of Women and children, officers at service institutions as referred to in Article 20, are also authorized to provide Assistance in handling victims of acts of Violence against women and children obtained through other information.
+
+Further provisions regarding the procedure for complaint handling services
+
+(H)
+
+as referred to in paragraphs (1) and (2) are regulated by Mayoral Regulation.
+
+(131
+
+## Part Three
+
+Health Rehabilitation
+
+#### Article 22
+
+Health rehabilitation as referred to in Article 19 letter
+
+(4)
+
+is an effort that includes aspects of
+
+a. promotive:
+
+- b. preventive,
+- c. curative: and
+- d. rehabilitative.
+
+Health rehabilitation as referred to in paragraph (1) is carried out
+
+(2)
+
+comprehensively, is accessible 24 (twenty-four) hours, is of quality and is carried out in accordance with health service standards. Women and children victims of acts of Violence and children in conflict
+
+(3)
+
+with the law have the right to health services free of charge, including
+
+a. medical services
+
+b. medicolegal services:
+
+- c. psychosocial counseling: and d.visum.
+
+Further provisions regarding the procedure for implementing health services
+
+(4)
+
+as referred to in paragraph (3) are regulated by Mayoral Regulation.
+
+## Part Four Social Rehabilitation
+
+#### Article 23
+
+Social rehabilitation as referred to in Article 19 letter
+
+(1)
+
+is aimed at restoring and developing the abilities of women and children victims of acts of Violence who experience social dysfunction to be able to carry out their social functions in society properly.
+
+Social rehabilitation as referred to in paragraph (1) includes
+
+(2)
+
+services: motivation and psychosocial diagnosis, a. care and custody, b. vocational training and entrepreneurship development, spiritual mental guidance: d. e. physical guidance: social guidance and psychosocial counseling, accessibility services, social assistance and aid: resocialization guidance, follow-up guidance, and/or k. referral.
+
+(3) The provision of services as referred to in paragraph (2) is organized by: a. Regional Apparatus having duties and functions in the social field,
+
+(14 b.Regional Apparatus responsible for Women and children Empowerment, and may cooperate with integrated service centers, women crisis centres or social community organizations that already exist, or c. the ministry of religious affairs.
+
+#### Article 24
+
+Counseling services as referred to in Article 23 paragraph (2) letter
+
+(1)
+
+aim to:
+
+- a. help women and children victims of acts of violence recognize their problems and find effective ways to overcome them themselves, b.empower women and children victims of acts of Violence to determine their future:
+- c. provide moral support to women and children victims of acts of Violence in facing the process they are going through, and d.make women and children victims of acts of Violence feel accepted in the community environment.
+
+Counseling services are provided by gender-responsive social rehabilitation officers,
+
+(2)
+
+consisting of:
+
+- a. counselors,
+- b. psychologists, and
+- c. psychiatrists.
+
+Counseling services are provided in places that guarantee a sense of security,
+
+(3)
+
+comfort and confidentiality of information from women and children victims of acts of Violence.
+
+(1
+
+Stages of counseling services include:
+
+- a. initial counseling,
+- b. follow-up counseling,
+- c. case discussion, and
+- d. site visits.
+
+#### Article 25
+
+The City Government may provide safe houses for women
+
+(1 and child victims of Violence.
+
+The provision of safe house services as referred to in paragraph (1)
+
+(2)
+
+aims to protect women and child victims of Violence from intimidation by perpetrators or other parties.
+
+The location of safe houses as referred to in paragraph (1) must be kept confidential.
+
+(3)
+
+The criteria for women and child victims of Violence who require
+
+(1)
+
+safe houses include:
+
+- a. their life is threatened,
+- b. facing rejection from family or community,
+- c. requiring intensive services but their residence is relatively far away, and/or
+- d. abandoned if not placed in a safe house.
+
+The implementation of safe house services is carried out by
+
+(5)
+
+social rehabilitation officers who have sensitivity towards women's empowerment and child protection and/or gender awareness, consisting of:
+
+RS)
+
+a. social workers/volunteers,
+
+b. security officers: and/or
+
+C. community leaders.
+
+Further provisions regarding the implementation of safe house services shall be regulated by Mayor Regulation. (
+
+#### 6) Article 26
+
+Spiritual guidance aims for psychological recovery.
+
+(1
+
+Spiritual guidance as referred to in paragraph (1) shall be implemented
+
+(2)
+
+based on the principles of
+
+a. not imposing any religion or belief: and
+
+b. leaving the final decision in the hands of the victim (self determination).
+Spiritual guidance is conducted by spiritual guidance officers.
+
+(3)
+
+Spiritual guidance officers as referred to in paragraph (3) consist of consultants from the Marriage Advisory, Guidance and Preservation Board (BP4), Officers of the Religious Affairs Office, Ustad/Ulama, Priests, Pastors and other religious leaders who have sensitivity towards women's empowerment and child protection and/or gender awareness.
+
+## Part Five
+
+Law Enforcement and Legal Aid
+
+#### Article 27
+
+Law enforcement and legal aid services as referred to in
+
+(1)
+
+Article 19 letter constitute actions by law enforcement officers to implement statutory regulations in handling cases of Violence against women and children, especially to impose sanctions on perpetrators and provide Protection for witnesses and/or victims.
+Law enforcement and legal aid services as referred to in
+
+(2)
+
+paragraph (l) shall be carried out by prioritizing the best interests of the victim.
+
+#### Article 28
+
+Law enforcement and legal aid services are intended to provide
+
+(1)
+
+assistance and Protection for women and child victims of Violence and witnesses with a gender-responsive approach so that victims obtain justice and legal certainty.
+
+Types of legal aid services include:
+
+(2)
+
+a. legal aid in the reporting process and preparation of investigation reports,
+
+b. legal aid in the prosecution process at the prosecutor's office,
+
+c. legal aid in the examination process at court,
+
+d. legal aid in the court hearing decision process until a final legal decision is reached, and
+
+e. legal aid in the mediation process.
+
+(161
+
+The City Government provides legal aid to women and
+
+(3)
+
+child victims of Violence based on statutory provisions.
+
+In providing legal aid as referred to in paragraph (3)
+
+(M)
+
+the Regional Government may cooperate with legal aid institutions, women crisis centers, advocates and/or other gender-sensitive legal assistants.
+
+## Part Six
+
+Repatriation and Social Reintegration
+
+#### Article 29
+
+Repatriation is intended to return women and children (1 victims of Violence to their Region of origin.
+
+Repatriation of women and child victims of Violence is accompanied by
+
+(2)
+
+social reintegration efforts.
+
+#### Article 30
+
+Social reintegration is carried out in order to reunite women
+
+(1 and child victims of Violence with family, substitute family, or community who can provide Protection and fulfillment of needs for victims.
+
+Social reintegration is intended so that:
+
+(2)
+
+a. women and child victims of Violence can resume their social life, and
+
+b. women and child victims of Violence can have a decent life.
+Social reintegration as referred to in paragraph (1) shall be carried out after
+
+(8)
+
+the victim receives social rehabilitation services.
+
+#### Article 31
+
+The City Government carries out repatriation and social reintegration of women and child victims of Violence in accordance with statutory regulations.
+
+## Part Seven
+
+Employment Protection
+
+#### Article 32
+
+Employers who employ women must maintain morality,
+
+(4)
+
+safety and security while at the workplace.
+
+Employers must place female workers in places that are safe
+
+(2)
+
+for women's reproductive health.
+
+Employers must fulfill the rights of female workers to receive
+
+(3)
+
+wages in accordance with statutory provisions.
+Employers must provide special breastfeeding facilities at
+
+(H)
+
+their company.
+
+#### (17) Article 33
+
+Female workers/laborers aged less than 18 (eighteen)
+
+(1)
+
+years are prohibited from working between 11:00 PM WIB until 07:00 AM WIB.
+Employers are prohibited from employing pregnant female workers/laborers (2) who according to medical certificate would be dangerous to the health and safety of their pregnancy.
+Employers who employ female workers/laborers between
+
+(3)
+
+11:00 PM WIB until 07:00 AM WIB, must
+
+a. provide nutritious food and beverages, and
+
+b. maintain Employers must provide shuttle transportation for female workers/laborers who depart and return from work between 11:00 PM WIB until 05:00 AM WIB.
+
+IMPROVEMENT OF FAMILY QUALITY
+
+#### Article 34
+
+In order to improve family quality of life, the City Government
+
+(1)
+
+is responsible for
+
+a. making efforts to improve family quality to realize gender equality and Child rights,
+b.providing services for families in realizing gender equality and Child rights, and
+
+c. strengthening and developing service provider institutions for family quality improvement in the City.
+The responsibility of the City Government in efforts to improve family
+
+(2)
+
+quality as referred to in paragraph (1) shall be implemented by PD in accordance with their duties and functions.
+
+#### Article 35
+
+The City Government makes efforts to improve family quality as referred to in Article 34 paragraph (1) letter including
+a. guidance,
+
+b. counseling, supervision, facilitation of family development implementation, and
+d. improving the health quality of pregnant and breastfeeding mothers.
+€.
+
+#### Article 36
+
+Guidance as referred to in Article 35 letter a, includes:
+a. growth and development of toddler Children,
+Protection of adolescent reproductive health: b.
+
+Marriage age maturation, d.
+
+Birth regulation, and
+Population management.
+
+#### 118) Article 37
+
+Counseling as referred to in Article 35 letter includes:
+
+- a. conducting outreach on improving the quality of life for women and children, and
+b. conducting premarital counseling.
+
+#### Article 38
+
+Supervision as referred to in Article 35 letter includes:
+a. evaluating data on toddler child growth and development, and
+b. evaluating post-marriage data.
+
+#### Article 39
+
+Provision of services for families as referred to in Article 34 paragraph (1) letter includes
+
+a. communication, information and education:
+
+- b. contraceptive tools and medicines:
+  - Cc. recording and reporting of family planning services,
+- d. adequate health service facilities and infrastructure, and
+e. lactation rooms in every public facility.
+
+#### Article 40
+
+Communication, information and education as referred to in Article 39 letter constitute communication activities to increase knowledge and improve family and community attitudes and behavior in population and family planning Programs.
+
+#### Article 41
+
+(1) In addition to the City Government, private parties that provide Public services are required to provide lactation rooms.
+
+(2) The lactation room as referred to in paragraph (1) must be a proper and adequate room.
+
+(3) Private parties that do not provide a lactation room as referred to in paragraph (2) shall be subject to administrative sanctions in the form of:
+
+- a. written warning,
+- b. limitation of business activities,
+  - Cc. freezing of business activities,
+- d. administrative fine, and/or
+- e. revocation of permit.
+
+CHAPTER
+
+PROTECTION AND FULFILLMENT OF CHILDREN'S RIGHTS
+
+## Part One
+
+General
+
+#### Article 42
+
+(1) The City Government in its efforts to protect and fulfill the rights of Children is responsible for:
+
+(191 a.establishing and implementing policies and programs/activities for the protection and fulfillment of Children's rights,
+
+b.respecting and guaranteeing the basic rights of every Child without distinction of ethnicity, religion, race, class, gender, ethnic group, culture and language, legal status of the Child, birth order of the Child, and physical and/or mental condition,
+
+c. strengthening and developing institutions providing services for improving family quality in realizing Children's rights,
+
+d. guaranteeing the Protection, care, and welfare of Children with due regard to the rights and obligations of parents, guardians, or other persons legally responsible for the Child,
+
+e. providing facilities and infrastructure in the implementation of fulfilling Children's rights,
+
+f. guaranteeing the right of Children to express opinions in accordance with the age and level of intelligence of the Child,
+
+sg. conducting supervision and guidance in the context of implementation, and
+
+h.cooperating with private parties in the implementation of Child Protection.
+
+(2) The responsibility of the City Government in the effort of Child Protection as referred to in paragraph (1) shall be carried out by PD in accordance with its duties and functions.
+
+## Part Two
+
+Birth Registration
+
+#### Article 43
+
+(1) The City Government is obliged to conduct the registration of Children's births with the issuance of birth certificates.
+
+(2) Birth certificates as referred to in paragraph (1) shall be provided free of charge.
+
+## Part Three Education
+
+#### Article 44
+
+The City Government guarantees the implementation of a (nine) year compulsory education program for Children aged (seven) to 15 (fifteen) years.
+
+#### Article 45
+
+(1) Every education unit organizer is obliged to provide opportunities for Children to obtain educational services without discrimination.
+
+(2) Every education unit organizer is prohibited from expelling Children from educational institutions unless there is a guarantee for the continuity of the Child's education.
+
+(201
+
+(3) In the event that a Child victim of an act of Violence experiences dropping out of school, the education unit organizer must coordinate with relevant agencies.
+
+#### Article 46
+
+(1) Every Child has the right to obtain education and instruction in the context of developing their personality and level of intelligence in accordance with their interests and talents.
+
+(2) Every Child has the right to receive Protection in education units from sexual crimes and Violence committed by educators, educational personnel, fellow students, and/or other parties.
+
+#### Article 47
+
+(1) Children with disabilities and Children with special needs are given equal opportunities to obtain formal, non-formal and informal educational services, including inclusive education programs.
+
+(2) The regional government provides teaching personnel for inclusive education in every education unit.
+
+## Part Four Health and Social
+
+#### Article 48
+
+(1) The City Government is obliged to provide comprehensive health services for Children, so that every Child obtains optimal health status from the womb.
+
+(2)Comprehensive health services as referred to in paragraph(1) include:
+
+- a. promotive, preventive, curative and rehabilitative efforts for basic health services:and
+- b. exemption from the burden of costs for Children with malnutrition, Children with disabilities, Children with special needs, Children infected with HIV/AIDS, child workers, Children who are victims of narcotics, alcohol, psychotropic and other addictive substance abuse, Children who are victims of Violence, and Children who are victims of human trafficking.
+
+  - (3) The City Government, community, family and parents must ensure that Children who are born are protected from diseases that threaten the survival and/or cause disability.
+
+#### Article 49
+
+(1) Promotive efforts for basic health services as referred to in Article 48 paragraph (2) letter are aimed at improving health status in a more optimal manner.
+
+(2) Promotive efforts as referred to in paragraph (1) are carried out by providing socialization or counseling to the community regarding healthy lifestyle patterns which include:
+
+- a. the importance of exclusive breastmilk for babies, (211
+- b. the importance of immunization for toddlers,
+- c. clean living patterns,
+- d. the importance of nutritious food, and
+- e. the dangers of drugs and smoking.
+
+  - (3) In addition to promotive efforts as referred to in paragraph (2), the City Government may carry out other activities in the context of penyeleggaraankesehatan.
+
+#### Article 50
+
+(1) Preventive efforts for basic health services as referred to in Article 48 paragraph (2) letter are aimed at preventing the occurrence of disease or health problems.
+
+(2) Efforts as referred to in paragraph (1) are carried out by:
+
+a. requiring mothers to provide exclusive breastmilk to babies up to the age of (six) months,
+
+b. provision of free immunization and vitamins to bavi and toddlers,
+
+Cc. provision of nutritious food to toddlers from underprivileged families,
+
+d. optimizing the role of posyandu for health services bagiibu and toddlers,
+
+e. conducting periodic health examinations, and
+
+f. providing sanitation facilities and clean water disetiap schools.
+
+#### Article 51
+
+(1) Curative efforts for basic health services as referred to in Article 48 paragraph (2) letter are aimed at preventing diseases from becoming more severe through treatment.
+
+(2) Treatment as referred to in paragraph (1) shall be carried out free of charge for Children from underprivileged families.
+
+#### Article 52
+
+(1) Rehabilitative efforts for basic health services as referred to in Article 48 paragraph (2) letter are aimed at maintaining and restoring conditions after illness.
+
+(2) Rehabilitative efforts as referred to in paragraph (1) are carried out through periodic health examinations.
+
+#### Article 53
+
+(1) The implementation of social welfare is directed at:
+
+- a. individuals,
+- b. families,
+- c. groups: and/or
+- d. communities.
+
+  - (2) The implementation of social welfare as referred to in paragraph (1) is prioritized for those who have lives that are not decent from a humanitarian perspective and have social problem criteria:
+
+- a. poverty,
+- b. abandonment,
+- c. disability,
+- d. remoteness,
+
+(221
+
+e. social deviance and behavioral disorders,
+
+I. disaster victims, and/or
+
+g. victims of acts of violence, exploitation and discrimination.
+
+(3) Social welfare as referred to in paragraph (1) may be in the form of providing services:
+
+- a. health:
+- b. education,
+
+  - Cc. legal assistance:
+
+- d. assistance,
+- e. social, mental and spiritual guidance:
+- f. social rehabilitation, and/or
+- g. reintegration.
+
+## Part Five
+
+Employment
+
+#### Article 54
+
+The Regional Government conducts periodic supervision of every person/entity that employs Children in the effort of Protection for child workers.
+
+#### Article 55
+
+Every person/entity that employs Children must observe the following requirements:
+
+- a. at least 15 (fifteen) years of age,
+
+b. obtain written consent from the parents/guardian of the child worker:
+
+c. have a written work agreement between the employer and the parents/guardian of the child worker and obtain validation from the authorized agency:
+
+d. not employ Children at night: and
+
+- e. working hours of a maximum of (three) hours per day.
+
+#### Article 56
+
+In the event that Children are employed together with adult workers, then the workplace of Children must be separated from the workplace of adult workers.
+
+#### Article 57
+
+(1) Every person/entity is prohibited from employing and involving Children in the worst forms of work.
+
+(2) The worst forms of work referred to in paragraph (1) include a. all work in the form of slavery or similar practices: b. all work that exploits, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling,
+
+Cc. all work that exploits, provides, or involves Children for the production and trade of alcoholic beverages, narcotics, psychotropic substances, and other addictive substances, and/or
+
+d. all work that endangers the health, safety, or morals of Children.
+
+(231
+
+## Part Six
+
+Facilitation of the Child Justice System
+
+#### Article 58
+
+(1) Facilitation of the Child justice system includes criminal and civil justice.
+(2) Facilitation of the criminal justice system as referred to in paragraph (1) includes
+
+a. provision of companions or Child volunteers during examination by investigators,
+
+b. provision of legal aid and psychological services,
+
+c. involving members/investigators of local police in efforts to prevent criminal acts committed by Children as well as Children as victims,
+
+d. realizing restorative justice processes for Children in conflict with the law, and
+
+e. rehabilitation services and social reintegration.
+
+(3) Fulfillment of Children's rights in the civil justice system as referred to in paragraph (1) includes provision and delivery of consultation services and legal aid during the judicial process.
+
+(4) In facilitating the Child justice system as referred to in paragraph and paragraph (2), the authorized PD is the PD responsible for empowerment and Protection of women and Children and has the obligation to accompany child victims and perpetrators, during police examinations, prosecution and in court.
+
+## Part Seven
+
+Child Forum
+
+#### Article 59
+
+(1) In organizing the fulfillment of Children's rights to express opinions and participate, the City Government facilitates the establishment of the Child Forum.
+
+(2) The Child Forum as referred to in paragraph (1) represents Children in the City, both representation of Children's geographic domicile, components of Children's socio-cultural groups and Children's educational background.
+
+(3) In every formulation of policies related to Children, the City Government must pay attention to and accommodate Children's opinions submitted through the Child participation Forum.
+
+(4) Further provisions regarding the establishment of the Child Forum as referred to in paragraph (1) through paragraph (3) shall be stipulated by Mayor Regulation.
+
+## Part Eight
+
+Child-Friendly City
+
+#### Article 60
+
+(1) In order to fulfill Children's rights in an integrated, systematic and sustainable manner, the City Government establishes a policy for the Development of CFC.
+
+(24
+
+The CFC Development Policy contains:
+
+(2)
+
+a. the concept of CFC concerning objectives, strategies and roles of related parties:
+
+- b. Children's rights: and
+  - Cc. CFC development approach.
+
+#### Article 61
+
+The CFC development policy is directed at fulfilling Children's rights which
+
+(1 are divided into (five) groups, including
+
+a. civil rights and freedoms,
+
+b. family environment and alternative care,
+
+c. basic health and welfare:
+
+- d. education, use of leisure time, and cultural activities, and e. Special Protection. Further provisions regarding the CFC development policy (2) as referred to in paragraph (1) shall be regulated by Mayor Regulation.
+
+#### Article 62
+
+In order to ensure the effectiveness of CFC policy implementation in the Region, (1
+
+a CFC Task Force is established.
+
+The establishment and membership composition of the CFC Task Force shall be stipulated
+
+(2)
+
+by Mayor Decree.
+
+The CFC Task Force is domiciled at the DPPKBPPPA Office.
+
+(3)
+
+The CFC Task Force as referred to in paragraph (1), has (4 main duties:
+
+- a. coordinating the implementation of CFC policies and development, b. conducting socialization, advocacy and communication of information and education on CFC policies,
+  - Cc. collecting basic data for CFC development,
+- d. conducting needs analysis sourced from basic data, e. disseminating basic data,
+- f. determining the focus and priority of programs in realizing CFC, which are adjusted to regional potential,
+- g. preparing a regional action plan for Child-Friendly City (five) years and work mechanisms, and
+- h. conducting monitoring, evaluation and reporting at least (one) time per year.
+
+#### Article 63
+
+In carrying out its duties, the CFC Task Force may coordinate and cooperate with other institutions that provide Child Protection services.
+
+# CHAPTER VI
+
+CHILD PROTECTION
+
+#### Article 64
+
+The City Government, in order to provide protection to Children: a. implements and supports national policies in the administration of Child Protection in the City, (2SI
+
+b. guarantees Children to exercise their rights in expressing opinions in accordance with the age and intelligence level of Children:
+
+- Cc. prevents Violence against Children by optimizing the role of customary institutions,
+  - d. conducts socialization, seminars and counseling regarding Protection and rights of Children,
+  - e. develops child-friendly school models, provides public facilities that are friendly and safe for Children, and g. encourages public awareness of the importance of Protection for Children.
+
+#### Article 65
+
+Service efforts carried out by the City Government toward child victims of acts of Violence as referred to in Article 42 through Article 64 apply mutatis mutandis to service efforts toward Children who are victims of acts of Violence.
+
+# CHAPTER VII
+
+PARTICIPATION OF THE COMMUNITY, AND PARENTS AND/OR FAMILY
+
+## Part One
+
+Community
+
+#### Article 66
+
+(1) Community participation in efforts to Protect women and Children:
+
+- a. participates in prevention and provides support for the development of programs to prevent violations of the rights of women and Children: b. provides information and/or reports violations of the rights of women and Children to the authorities, and c. monitors the law enforcement process regarding cases of violations of the rights of women and Children.
+  - (2) The community, parents and family are responsible for protecting and preventing violations of the rights of women and Children. (3) Community participation as referred to in paragraph (1) and paragraph (2) is based on laws and regulations and the values of local wisdom of the local community.
+
+#### Article 67
+
+(1) In order to prevent violations of women's rights, the community
+
+a. monitors various conditions occurring in its environment that may cause violations of women's rights, b. increases awareness of violations of women's rights, c. strengthens the role of community organizations, religious organizations and family environment, and
+
+d. conducts supervision of the implementation of Women's Empowerment and Child Protection organized by the City Government (261 through mechanisms for conveying aspirations to the Mayor or the Regional House of Representatives. In order to prevent violations of Children's rights,
+
+(2)
+
+the community a. monitors various conditions occurring in its environment that cause violations of Children's rights: b. increases awareness of violations of Children's rights: and C. strengthens the role of community organizations, religious organizations and family environment, and prevents early marriage.
+
+## Part Two
+
+Parents and/or Family
+
+#### Article 68
+
+The family in efforts to Protect women's rights plays a role in: protecting women and children from conflict and Violence in a. the household that degrades human dignity, providing equal opportunities for women and children b. to develop themselves in the fields of education, social, economic, political and cultural, and preventing violations of the rights of women and children in the household.
+
+#### Article 69
+
+Parents in the effort to Protect the rights of Children have the role: (l
+
+a. nurturing, caring for, educating, and protecting Children,
+
+b. developing Children according to their abilities, talents, and interests,
+
+c. providing formal and non-formal education,
+
+d. providing character education and instilling moral values in Children,
+
+e. guiding Children to behave in accordance with religion, ethics and morals as well as customs, and f. preventing early marriage.
+
+In the event that parents are absent, or their whereabouts are unknown, or
+
+(2)
+
+due to a certain reason, cannot carry out their obligations and responsibilities, then the obligations and responsibilities as referred to in paragraph (1) may transfer to the family.
+
+# CHAPTER VIII
+
+GUIDANCE AND SUPERVISION
+
+#### Article 70
+
+The City Government is obligated to conduct guidance and supervision
+
+(1)
+
+of the implementation of women's Empowerment and protection of Child victims of Violence.
+
+The guidance as referred to in paragraph (1), includes
+
+(2)
+
+a. guidelines and fulfillment standards,
+
+b. technical guidance and training,
+
+(3)
+
+c. provision of facilities,
+
+d. monitoring, and
+
+e. evaluation.
+
+The guidance as referred to in paragraph (2) is in order to realize the objectives of empowerment and Protection of women and Child victims of Violence in accordance with minimum service standards.
+
+#### Article 71
+
+Supervision of the implementation of women's empowerment and Child Protection as regulated in this Regional Regulation is carried out by a Supervisory institution specifically established for that purpose.
+
+In carrying out supervision, the Institution in question is authorized to recommend cases to law enforcement, government agencies and other community institutions as regulated in the Law.
+
+Recommendations submitted must be followed up by law enforcement, government agencies, community institutions and other related individuals.
+
+# CHAPTER IX
+
+FINANCING
+
+#### Article 72
+
+Financing for the implementation of Women's Empowerment and Child Protection programs and activities is sourced from the regional revenue and expenditure budget, and a. other legitimate sources in accordance with the provisions of statutoryb. regulations.
+
+CHAPTER
+
+SANCTIONS
+
+#### Article 73
+
+Any person who intentionally does not provide protection
+
+(4)
+
+to women and Children resulting in violence, does not report and does not provide protection to victims, shall be subject to sanctions as regulated in the applicable laws and regulations.
+
+If the official appointed to administer protection does not
+
+(2)
+
+carry out their obligations and responsibilities, they shall be subject to sanctions in accordance with the applicable laws and regulations.
+
+UPT managers who carry out service duties but violate the principles of
+
+(3)
+
+service, may be subject to sanctions in accordance with applicable mechanisms.
+
+(4) Private parties that provide Public services and do not carry out their obligations and responsibilities in accordance with this regulation shall be subject to sanctions in accordance with the applicable laws and regulations.
+
+# CHAPTER XI
+
+CLOSING PROVISIONS
+
+#### Article 74
+
+The Mayor's Regulation as the implementation of this Regional Regulation shall be stipulated no later than (six) months from the promulgation of the Regional Regulation.
+
+#### Article 75
+
+This Regional Regulation comes into effect on the date of promulgation. In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Prabumulih City.
+
+Established in Prabumulih on the date of JULY 2021
+
+TMAYORPRABUMULIH, LNG
+
+barknoYAHY
+
+Promulgated in Prabumulih on the date of JULY 2021
+
+SECRETARY REGIONA
+
+PRABUMULIH,
+
+PELMAN
+
+REGIONAL GAZETTE CITY OF PRABUMULIH YEAR 2021 NUMBER REGISTRATION NUMBER REGIONAL REGULATION CITY OF PRABUMULIH PROVINCE SOUTH SUMATRA (3-48 2021)
+
+
+This excerpt sits under: CHAPTER VII > Part Two

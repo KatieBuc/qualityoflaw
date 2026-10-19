@@ -1,0 +1,582 @@
+# REGENT OF NORTH BUTON
+
+REGENT OF NORTH BUTON
+
+PROVINCE OF SOUTHEAST SULAWESI
+
+REGIONAL REGULATION OF NORTH BUTON REGENCY NUMBER S OF 2022
+
+CONCERNING
+
+PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE BY THE GRACE OF ALMIGHTY GOD
+
+REGENT OF NORTH BUTON,
+
+Considering In view of
+
+a. that one of the objectives of the State to be achieved is to protect the entire Indonesian nation and all Indonesian territory so that every citizen has the right to be free from torture or treatment that demeans human dignity and has the right to obtain a sense of security and freedom from all forms of violence;
+
+b. that violence against women and children in North Buton Regency shows quite high numbers and continues to increase, thus requiring protection efforts;
+
+c. that to provide a legal foundation and certainty for the protection of women and children victims of violence, it is necessary to stipulate it by Regional Regulation;
+
+d. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to stipulate a Regional Regulation on the Protection of Women and Children Victims of Violence;
+
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235);
+
+3. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+4. Law Number 13 of 2006 concerning Witness and Victim Protection (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635) as amended by Law Number 13 of 2014 concerning Amendment to Law Number 13 of 2006 concerning Witness and Victim Protection (State Gazette of the Republic of Indonesia of 2014 Number 293, Supplement to the State Gazette of the Republic of Indonesia Number 4602);
+
+5. Law Number 14 of 2007 concerning the Establishment of North Buton Regency in Southeast Sulawesi Province (State Gazette of the Republic of Indonesia of 2007 Number 16, Supplement to the State Gazette of the Republic of Indonesia Number 4690);
+
+6. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);
+
+7. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times, most recently by Law Number 11 of 2020 concerning Job Creation (State Gazette of the Republic of Indonesia of 2020 Number 245, Supplement to the State Gazette of the Republic of Indonesia Number 6573);
+
+8. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of
+
+| Domestic Violence (State Gazette | of the Republic of Indonesia of 2006 Number 15, Supplement to the | State Gazette of the Republic of Indonesia Number 4604); |
+|---|---|---|
+| 9. Regulation of the State Minister for Women's Empowerment | Number 2 of 2008 concerning Guidelines for the Implementation of | Women's Protection; |
+| 10. Regulation of the State Minister for Women's Empowerment | Number 3 of 2008 concerning Guidelines for the Implementation of | Child Protection; |
+
+11. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);
+
+With the Mutual Approval of
+
+THE REGIONAL HOUSE OF REPRESENTATIVES OF NORTH BUTON REGENCY and
+
+THE REGENT OF NORTH BUTON
+
+HAS DECIDED:
+
+To stipulate A REGIONAL REGULATION CONCERNING
+
+THE PROTECTION OF
+
+WOMEN AND CHILDREN VICTIMS OF VIOLENCE.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by: 1. Region is North Buton Regency.
+
+2. Regional Government is the Government of North Buton Regency. 3. Regent is the Regent of North Buton.
+
+4. Regional House of Representatives, hereinafter abbreviated as DPRD, is the Regional House of Representatives of North Buton Regency.
+
+5. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecution, court, or other parties either temporarily or based on court determination.
+
+6. Woman is a person who has female genitals, can experience menstruation, pregnancy, childbirth, breastfeeding and includes persons recognized by law as a Woman.
+
+7. Child is a person under the age of 18 (eighteen) years, including a child in the womb who becomes a victim of violence as well as a child in conflict with the law.
+
+8. Violence is any act against a person that results in misery or suffering physically, sexually, psychologically, including threats to commit acts, coercion, or unlawful deprivation of freedom.
+
+9. Violence against women is any action based on gender differences that results or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or in private life.
+
+10. Violence against children is any act against a child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of freedom.
+
+11. Physical Violence is any act that causes pain, injury, serious wounds or disability to a person's body, miscarriage or unconsciousness and/or causes death.
+
+12. Psychological Violence is an act that causes fear, loss of confidence, loss of ability to act, feeling of helplessness or severe psychological suffering in a person.
+
+13. Sexual Violence is any act in the form of forced sexual intercourse, sexual abuse, forced sexual intercourse in an unnatural and/or unwanted manner, forced sexual intercourse with another person for commercial purposes and/or certain purposes.
+
+14. Exploitation is an action with or without the victim's consent which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, physical exploitation, sexual, reproductive organs, or unlawfully moving or transplanting organs and/or body tissues or exploiting the energy or ability of a person by another party to gain material or immaterial benefits.
+
+15. Victim is a woman and child who experiences physical suffering, psychological suffering, sexual suffering, either directly or indirectly caused by acts of violence.
+
+16. Community is individuals, families, groups, social organizations and/or community organizations.
+
+17. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, or mother and her children, or blood relatives in a direct line upward or downward to the third degree.
+
+18. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or mother.
+
+19. Service is an immediate activity and action carried out by Professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.
+
+20. Assistance is any action in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for self-empowerment of victims of violence to resolve the problems faced.
+
+21. Repatriation is an effort to return women and children victims of violence to family or community who can provide protection and fulfillment of their needs.
+
+22. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions in order to be able to carry out their role normally both in the family and in society.
+
+23. Social Reintegration is an effort to reunite victims with family, community, institutions, or other social environments that can provide protection and fulfillment of needs for victims.
+
+24. Institution is an agency/service/body/office within the scope of regional government and/or non-governmental organization that provides assistance.
+
+25. Integrated Service Center, hereinafter abbreviated as PPT, is a generic term that can be used by various institutions that provide services for victims of violence such as Integrated Service Center for Women and Children Empowerment, Safe Houses, Children's Social Protection Houses, Trauma Center Protection Houses, Women's Social Protection Houses, Shelter Houses, etc.
+
+26. Minimum Service Standards, hereinafter abbreviated as SPM, is a benchmark for service performance of integrated service units in providing services for handling reports/complaints, health services, Social Rehabilitation, law enforcement and legal aid, as well as Repatriation and social reintegration for Women and Children Victims of Violence.
+
+27. Regional Action Plan is the foundation and guideline for related agencies, vertical agencies, and communities, in order to carry out activities for organizing prevention and protection for women and children victims of violence.
+
+28. Safe House is a temporary residence, provided to provide protection to victims in accordance with predetermined standards.
+
+CHAPTER JI
+
+FORMS OF VIOLENCE
+
+#### Article 2
+
+Forms of violence against Women and Children are:
+
+- a. Physical Violence;
+- b. Psychological Violence;
+- c. Sexual Violence;
+- d. Neglect; and
+- e. Exploitation.
+
+#### Article 3
+
+Physical Violence as referred to in Article 2 letter a is caused by acts that result in pain, injury, serious wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.
+
+#### Article 4
+
+Psychological Violence as referred to in Article 2 letter b is caused by acts that result in fear, loss of confidence, loss of ability to act, feeling of helplessness and/or severe psychological suffering in a person.
+
+#### Article 5
+
+Sexual Violence as referred to in Article 2 letter c is caused by:
+
+- a. acts in the form of sexual harassment;
+- b. forced sexual intercourse;
+- c. forced sexual intercourse in an unnatural or unwanted manner; and/or
+- d. forced sexual intercourse with another person for commercial purposes and/or certain purposes.
+
+#### Article 6
+
+Neglect as referred to in Article 2 letter d is caused by:
+
+- a. acts that result in the unfulfillment of a child's needs properly, whether physical, mental, spiritual or social, carried out by parents, guardians, or any other party responsible for care;
+- b. acts of deliberately neglecting to maintain, care for, or take care of a child as appropriate, carried out by parents, guardians or any other party responsible for their care;
+- c. acts that neglect people within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract, they are obliged to provide livelihood, care, or maintenance to that person; and/or
+- d. acts that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.
+
+#### Article 7
+
+Exploitation as referred to in Article 2 letter e is caused by:
+
+- a. acts that exploit economically or sexually with the intent to benefit oneself or others;
+- b. acts with or without the victim's consent which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, physical exploitation, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or exploiting the labor or ability of a person by other parties to obtain benefits both material and immaterial; and/or
+- c. all forms of exploitation of sexual organs or other body organs of the victim to obtain profit, including but not limited to all activities of prostitution or sexual abuse.
+
+CHAPTER III
+
+RIGHTS OF VICTIMS AND CHILDREN IN CONFLICT WITH THE LAW
+
+#### Article 8
+
+(1) Every victim has the right to obtain:
+
+- a. protection from individuals, groups and institutions both governmental and non-governmental;
+- b. access and information about the existence of complaint centers, PPT, and all matters related to the fulfillment of rights and involvement in the decision-making process related to assistance and case development;
+- c. services that include medical, extensive medicolegal, psychosocial and legal;
+- d. treatment that does not stop until physical and psychological recovery, but until the victim can resume life in society including the restoration of their good name;
+- e. confidential treatment which includes assurance for victims that their identity will not be disseminated, medical care and legal treatment;
+- f. assistance provided by psychologists to victims suffering from trauma/other mental problems to restore the victim's mental condition;
+- g. legal assistance accompaniment provided by individuals and/or legal aid institutions to victims at every level of examination and during the legal process; and h. guarantee of rights related to the victim's status.
+  - (2) Every child in conflict with the law has the right to obtain: a. the right to have their identity kept confidential and not disclosed; b. the right to obtain Legal Assistance at every stage of examination, from investigation to the sentencing stage; and
+- c. the right to obtain an accompanying person at every stage of examination, from investigation to the sentencing stage.
+
+# CHAPTER IV
+
+OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 9
+
+Obligations and responsibilities in the implementation of Protection for Women and Children victims of violence are joint responsibilities: a. Regional Government;
+
+b. society; and
+
+c. family and parents.
+
+#### Article 10
+
+(1) The Regional Government is obligated and responsible for providing Protection for Women and Children Victims of Violence.
+
+(2) The obligations and responsibilities of the Regional Government as referred to in paragraph (1) include:
+
+- a. implementing protection policies for women and children victims of violence established by the government;
+- b. establishing policies, programs, and activities for the protection of women and children victims of violence;
+- c. collecting data and information about women and children victims of violence;
+- d. providing support for facilities and infrastructure for the implementation of Protection for Women and Children Victims of Violence;
+- e. establishing PPT;
+- f. allocating budget in the implementation of Protection for Women and Children Victims of Violence; and
+- g. fostering, supervising and evaluating the implementation of Protection for Women and Children Victims of Violence.
+
+#### Article 11
+
+(1) The obligations and responsibilities of society as referred to in Article 9 letter b, are implemented in the form of community participation. (2) The forms of community participation as referred to in paragraph (1), include:
+
+- a. preventing acts of Violence against victims;
+- b. establishing complaint posts at the kelurahan/village level; c. establishing Women and Children Protection units within community organizations;
+- d. conducting independent socialization of Women's rights and Children's rights; e. providing first aid to victims; and
+- f. reporting to the competent authorities if violence against victims occurs in their environment.
+  - (3) Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, customary institutions, the private sector, and mass media.
+  - (4) The forms of community participation as referred to in paragraph (2), are implemented responsibly in accordance with the provisions of laws and regulations.
+
+#### Article 12
+
+The obligations of family and Parents as referred to in Article 9 letter c, who legally have full responsibility to prevent all forms of violence and protect Women and Children as part of family members.
+
+# CHAPTER V
+
+IMPLEMENTATION OF PROTECTION
+
+## Part One
+
+Institutional
+
+#### Article 13
+
+(1) In order to provide services and protection to Women and Children from violence, the Regional Government establishes PPT as an integrated service center for Women and Children victims of violence.
+
+(2) PPT as referred to in paragraph (1), consists of elements from the Health Office, Education Office, Youth and Sports Office, Social Office, Cooperatives, SMEs and Manpower Office, Industry and Trade Office, Population and Civil Registration Office, Women's Empowerment and Child Protection Office, Community and Village Empowerment Office, Civil Service Police Unit, Regional General Hospital, Resort Police, Kulisusu Palace Customary Institution, Non-Governmental Organizations, and Higher Education Institutions.
+
+(3) Further provisions regarding PPT are regulated by Regent Regulation.
+
+#### Article 14
+
+(1) In providing Protection for Women and Children Victims of Violence, PPT is obligated to:
+
+- a. provide services as quickly as possible and free of charge to Victims; b. implement Protection and fulfillment of victims' rights to Medical Rehabilitation, Social Rehabilitation, Repatriation, social reintegration and legal assistance;
+- c. collaborate with certain institutions in providing translators and volunteer assistants needed for Victims; d. network with government or private hospitals for the care and health recovery of Victims and collaborate with Witness and Victim Protection institutions, social Protection houses or trauma centers owned by the government, community, or other institutions for the health recovery of Victims;
+- e. provide ease, comfort, and safety for Victims; f. maintain the confidentiality of Victims;
+- g. provide economic empowerment;
+- h. provide fulfillment of legal assistance for Victims; and 1. in the case of integrated service implementation carried out in a networked manner, PPT remains responsible for the entire referral process of services needed by Victims.
+  - (2) The provision of integrated services as referred to in paragraph (1) is implemented in accordance with SPM.
+
+## Part Two
+
+Minimum Service Standards
+
+#### Article 15
+
+| SPM for Integrated Service Sector for Women and Children, includes services: | a. handling complaints/reports of Violence Victims against Women | and Children; |
+|---|---|---|
+| b. health services for Women and Children Victims of Violence; | c. enforcement and legal assistance for Women and Children Victims | of Violence; |
+| d. repatriation for Women and Children Victims of Violence; | e. rehabilitation, social reintegration, and medicolegal for Women and Children | Victims of Violence; and |
+
+f. psychological services for Women and Children Victims of Violence;
+
+#### Article 16
+
+SPM as referred to in Article 15 has performance indicators including:
+
+- a. coverage of Women and Child Victims of Violence who receive complaint handling by trained officers in integrated service units;
+- b. coverage of Women and Child Victims of Violence who receive health services by trained health personnel at Community Health Centers and Hospitals;
+- c. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women and Child Victims of Violence in integrated service units;
+- d. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women and Child Victims of Violence in integrated service units;
+- e. coverage of law enforcement from the investigation level to court decisions on cases of Violence against Women and Children; f. coverage of Women and Child Victims of Violence who receive legal aid services;
+- g. coverage of Repatriation services for Women and Child Victims of Violence;
+- h. coverage of social reintegration services for Women and Child Victims of Violence;
+  - 1. coverage of legal aid services from the Investigation level to Court decisions for children in conflict with the law.
+
+## Part Three
+
+Forms and Mechanisms of Prevention
+
+#### Article 17
+
+Forms of prevention of violence against women and children carried out by PPT, can be implemented through:
+
+- a. Socialization activities of laws and regulations to the community related to the protection of Women's and Children's rights; and b. Training of PPT members related to the implementation of their duties in preventing violence against Women and Children.
+
+#### Article 18
+
+(I) PPT in carrying out its duties and functions may coordinate with District PPT, and competent parties in making efforts to prevent violence against Women and Children.
+
+(2) Further provisions regarding the mechanism for implementing prevention duties as referred to in paragraph (1), shall be regulated by Regent Regulation.
+
+## Part Four
+
+Forms and Mechanisms of Service
+
+#### Article 19
+
+(I) Forms of services provided to women and child victims of violence, are as follows:
+
+- a. complaint services;
+- b. health services;
+- c. legal aid;
+- d. repatriation;
+- e. rehabilitation, social reintegration, and medicolegal;
+- f. psychological services and;
+- g. economic empowerment.
+  - (2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the government and implemented by Regional Apparatus whose duties and functions are in the field of: a. social;
+- b. health;
+- c. women's empowerment and child protection; and
+- d. mental and spiritual.
+  - (3) In carrying out duties and functions as referred to in paragraph (2), the Regional Government cooperates with government agencies, provincial government, other regency/city governments, community, family and parents.
+  - (4) Further provisions regarding procedures for services, and handling of women and child victims of violence as referred to in paragraph {l), paragraph {2), and paragraph (3), shall be regulated by Regent Regulation.
+
+#### Article 20
+
+(1) In carrying out service duties for Women and Child victims of violence, PPT coordinates with District PPT.
+
+(2) The mechanism for implementing duties as referred to in paragraph (1), shall be conducted according to Standard Operating Procedures which are further regulated by Regent Regulation.
+
+## Part Five
+
+Assistance
+
+#### Article 21
+
+(1) Assistance is carried out by individuals and/or institutions that cooperate with PPT.
+
+(2) The mechanism for assistance as referred to in paragraph (1), shall be conducted according to Standard Operating Procedures (SOP) which are further regulated by Regent Regulation.
+
+## Part Six
+
+Principles of Service and Assistance
+
+#### Article 22
+
+The provision of services and assistance to victims, is carried out with the principles of:
+
+- a. quick, safe, and empathetic;
+- b. guarantee of confidentiality;
+- c. easily accessible; and
+- d. no fees charged.
+
+# CHAPTER VI
+
+DEVELOPMENT AND SUPERVISION
+
+Article 23
+
+( 1) The Regional Government conducts development and supervision of the implementation of protection for Women and Child victims of violence.
+
+(2) Development as referred to in paragraph (1), includes: a. guidelines and fulfillment standards;
+
+b. technical guidance and training;
+
+c. provision of facilities;
+
+d. monitoring; and
+
+e. evaluation.
+
+(3) Supervision as referred to in paragraph (1), is carried out with the principles of:
+
+- a. professional;
+- b. transparent; and
+- c. accountable.
+
+#### Article 24
+
+Development and supervision as referred to in Article 23 paragraph (2) and paragraph (3), are carried out in order to realize the objectives of implementing protection for Women and Child victims of violence in accordance with SPM established by the provisions of laws and regulations.
+
+# CHAPTER VIl
+
+REPORTING
+
+#### Article 25
+
+(1) PPT reports the implementation of protection for Women and Child victims of violence to the Regent.
+
+(2) Reporting as referred to in paragraph ( 1) is submitted in writing, including:
+
+- a. administration;
+- b. finance;
+- c. services; and
+- d. performance.
+  - (3) Submission of written reports as referred to in paragraph (2), shall be carried out at least once every 3 (three) months.
+
+# CHAPTER VIII
+
+FUNDING
+
+#### Article 26
+
+Funding for the implementation of protection for Women and Child victims of violence, is sourced from:
+
+- a. Regional Revenue and Expenditure Budget; and/ or
+- b. other legitimate sources in accordance with the provisions of laws and regulations.
+
+#### Article 27
+
+( 1) The Regional Government may provide financial assistance to community organizations, social organizations, customary institutions or non-governmental organizations and universities that implement protection for women and child victims of violence.
+
+(2) Financial assistance as referred to in paragraph (1), is in accordance with regional financial capacity and implemented in accordance with the provisions of laws and regulations in the field of regional finance.
+
+# CHAPTER IX
+
+CLOSING PROVISIONS
+
+#### Article 28
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of North Buton Regency.
+
+Enacted in Buranga on date .22.-2.-2022
+
+MUH. RIDW AN ZAKARlAH
+
+Promulgated in Buranga on date 22. ... 2.- 2022
+
+REGIONAL SECRETARY
+
+NORTH BUTON REGENCY,
+
+MUH. HARDHY MUSLIM
+
+REGIONAL GAZETTE OF NORTH BUTON REGENCY YEAR 2022 NUMBER ~
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF NORTH BUTON REGENCY SOUTHEAST SULAWESI PROVINCE CONCERNING PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE : (3/31/2022)
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF NORTH BUTON REGENCY
+
+NUMBER YEAR 2022
+
+CONCERNING
+
+PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE
+
+L GENERAL
+
+Women and children are groups vulnerable to experiencing violence. All forms of violence against women and children constitute violations of human rights and crimes against human dignity, thus requiring legal protection to protect their self-respect and dignity and to guarantee their right to life in accordance with their nature and disposition without discrimination.
+
+This view is based on Article 280 paragraph (1) of the 1945 Constitution of the Republic of Indonesia which states that "Every person has the right to protection of self, family, honor, dignity, and property under their control, and has the right to a sense of security and protection from the threat of fear to do or not do something which is a basic right". The Regional Government is obligated and responsible to implement efforts to protect women and children victims of violence through implementing protection policies for women and children victims of violence adopted by the government, establishing policies, programs, and activities for the protection of women and children victims of violence, establishing PPT, guaranteeing the implementation of service facilities for victims, seeking effectiveness and efficiency for the victim recovery process, and seeking to create cooperation and coordination in victim recovery efforts.
+
+In order to prevent and overcome violence against women and children in North Buton Regency so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women and Children Victims of violence in the form of regional regulations.
+
+The implementation of protection for women and children victims of violence is carried out based on the principles of respect for human rights, justice, non-discrimination and victim protection. The objectives of implementing protection for women and children victims of violence are to a} prevent violence against women and children; bJ eliminate all forms of violence and exploitation against women and children; c) protect and provide a sense of security for women and children; d) provide services to women and children victims of violence, reporters, and witnesses; and e) facilitate and mediate household disputes to realize harmonious and prosperous household integrity.
+
+This Regional Regulation regulates protection efforts for victims, particularly in terms of services, assistance, guidance, supervision, reporting and funding for women and children victims of violence in North Buton Regency.
+
+11. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear
+
+#### Article 2
+
+Sufficiently clear
+
+#### Article 3
+
+Sufficiently clear
+
+#### Article 4
+
+Sufficiently clear
+
+#### Article 5
+
+Sufficiently clear
+
+#### Article 6
+
+Sufficiently clear
+
+#### Article 7
+
+Sufficiently clear
+
+#### Article 8
+
+Sufficiently clear
+
+#### Article 9
+
+Sufficiently clear
+
+#### Article 10
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear
+
+#### Article 11
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear Paragraph (3) Sufficiently clear Paragraph (4) Sufficiently clear
+
+#### Article 12
+
+Sufficiently clear
+
+#### Article 13
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear Paragraph (3) Sufficiently clear Paragraph (4) Sufficiently clear
+
+#### Article 14
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear
+
+#### Article 15
+
+Sufficiently clear
+
+#### Article 16
+
+Sufficiently clear
+
+#### Article 17
+
+Sufficiently clear
+
+#### Article 18
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear
+
+#### Article 19
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear Paragraph (3) Sufficiently clear Paragraph (4) Sufficiently clear
+
+#### Article 20
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear
+
+#### Article 21
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear
+
+#### Article 22
+
+Letter a What is meant by "quick" is immediate action taken without complications or with simplified procedures. What is meant by "safe" is a guarantee of service protection that feels comfortable, undisturbed, and served in a friendly manner, with respect and appreciation.
+
+What is meant by "empathy" is an act of appreciating, respecting, caring, being friendly, and making happy aimed at pleasing and calming the victim's heart.
+
+Letter b What is meant by "guarantee of confidentiality" is an effort to guarantee certainty for victims that their identity, medical treatment and legal handling will not be disseminated.
+
+Letter c What is meant by "easily accessible" is the provision of services and assistance for all people regardless of their social status, so that such services are affordable for the underprivileged or relatively adequate for the privileged.
+
+Letter d What is meant by "free of charge" is that service and assistance activities carried out by PPT are not charged to victims.
+
+#### Article 23
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear Paragraph (3) Sufficiently clear
+
+#### Article 24
+
+Sufficiently clear
+
+#### Article 25
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear Paragraph (3) Sufficiently clear
+
+#### Article 26
+
+Sufficiently clear
+
+#### Article 27
+
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear
+
+#### Article 28
+
+Sufficiently clear
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF NORTH BUTON REGENCY NUMBER

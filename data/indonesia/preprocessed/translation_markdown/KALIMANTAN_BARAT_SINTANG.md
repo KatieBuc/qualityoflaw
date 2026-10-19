@@ -1,0 +1,719 @@
+# REGENT OF SINTANG
+
+REGENT OF SINTANG
+
+WEST KALIMANTAN PROVINCE
+
+REGIONAL REGULATION OF SINTANG REGENCY
+
+NUMBER 8 OF 2015
+
+CONCERNING
+
+PROTECTION OF WOMEN AND CHILDREN
+
+VICTIMS OF VIOLENCE
+
+BY THE GRACE OF GOD ALMIGHTY
+
+THE REGENT OF SINTANG,
+
+Considering : a. that all forms of violence against women and children constitute violations of human rights and therefore their dignity and honor must be protected and their right to life must be guaranteed in accordance with their nature and disposition without discrimination;
+
+b. that in addition to protection efforts, prevention, services, and empowerment are needed for women and children victims of violence, so as to achieve the fulfillment, advancement, enforcement and protection of human rights universally and fundamentally;
+
+c. that in connection with the intent in letter b and in an effort to provide a legal basis for its implementation in Sintang Regency, it is necessary to regulate the protection of women and children victims of violence;
+
+d. that based on the considerations as referred to in letters a, b, and c, it is necessary to establish a Regional Regulation of Sintang Regency concerning the Protection of Women and Children Victims of
+
+Violence;
+
+In View of : 1. Law Number 27 of 1959 concerning the Enactment of Emergency Law Number 3 of 1953 Concerning the
+
+Establishment of Level II Regions in
+
+Kalimantan (State Gazette of the Republic of Indonesia
+
+of 1953 Number 9, Supplement to the State Gazette of
+
+the Republic of Indonesia Number 352) as a Law
+
+(State Gazette of the Republic of Indonesia of
+
+1959 Number 72, Supplement to the State Gazette of the Republic
+
+of Indonesia Number 1820);
+
+2. Law...
+
+2. Law Number 1 of 1974 concerning Marriage (State Gazette of the Republic of Indonesia
+
+of 1974 Number 1, Supplement to the State Gazette of
+
+the Republic of Indonesia Number 3019);
+
+3. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of
+
+Indonesia of 1979 Number 32, Supplement to the State
+
+Gazette of the Republic of Indonesia Number 3143);
+
+4. Law Number 8 of 1981 concerning Criminal Procedure Law (State Gazette of the Republic of Indonesia
+
+of 1981 Number 76, Supplement to the State Gazette of
+
+the Republic of Indonesia Number 3209);
+
+5. Law Number 8 of 1999 concerning Consumer Protection (State Gazette of the Republic of
+
+Indonesia of 1999 Number 42, Supplement to the State
+
+Gazette of the Republic of Indonesia Number 3821);
+
+6. Law Number 20 of 1999 concerning Ratification of ILO Convention No. 138 Concerning Minimum
+
+Age For Admission To Employment (ILO Convention
+
+Concerning Minimum Age For Admission to Employment)
+
+(State Gazette of the Republic of Indonesia of 1999
+
+Number 56, Supplement to the State Gazette of the Republic of
+
+Indonesia Number 3835);
+
+7. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia
+
+of 1999 Number 165, Supplement to the State Gazette of
+
+the Republic of Indonesia Number 3886);
+
+8. Law Number 1 of 2000 concerning Ratification of ILO Convention No. 182 Concerning The
+
+Prohibition And Immediate Action For The Elimination Of
+
+The Worst Forms Of Child Labour (ILO Convention No. 182 concerning the Prohibition and Immediate
+
+Action for the Elimination of the Worst Forms of Child Labour) (State Gazette of the Republic of Indonesia
+
+of 2000 Number 30, Supplement to the State Gazette of
+
+the Republic of Indonesia Number 3941);
+
+9. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of
+
+Indonesia of 2002 Number 109, Supplement to the State
+
+Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of
+
+2014 (State Gazette of the Republic of Indonesia of 2014
+
+Number 297, Supplement to the State Gazette of the Republic of
+
+Indonesia Number 5606);
+
+10. Law...
+
+10. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);
+
+11. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+12. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635) as amended by Law Number 31 of 2014 (State Gazette of the Republic of Indonesia of 2014 Number 293, Supplement to the State Gazette of the Republic of Indonesia Number 5602);
+
+13. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+14. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+15. Law Number 11 of 2012 concerning the Juvenile Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153);
+
+16. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended by Law Number 9 of 2015 (State Gazette of the Republic of Indonesia of 2015
+
+Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+17. Government Regulation Number 79 of 2005 concerning Guidelines for Guidance and Supervision of the Implementation of Regional Government (State Gazette of the Republic of Indonesia of 2005 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 4593);
+
+18. Government...
+
+18. Government Regulation Number 38 of 2007 concerning
+
+the Division of Government Affairs Between the Government, Provincial Regional Government and Regency/Municipal
+
+Regional Government (State Gazette of the Republic of
+
+Indonesia of 2007 Number 82, Supplement to the State
+
+Gazette of the Republic of Indonesia Number 4737);
+
+19. Government Regulation Number 41 of 2007 concerning Organization of Regional Apparatus (State Gazette of
+
+the Republic of Indonesia of 2007 Number 89, Supplement to the
+
+State Gazette of the Republic of Indonesia Number 4741);
+
+20. Regional Regulation of Sintang Regency Number 1 of 2008 concerning the Affairs of the Government of Sintang Regency
+
+(Regional Gazette of Sintang Regency of 2008
+
+Number 1, Supplement to the Regional Gazette of Sintang
+
+Regency Number 1);
+
+21. Regional Regulation of Sintang Regency Number 2 of 2008 concerning the Organizational Structure of Regional Apparatus of
+
+Sintang Regency (Regional Gazette of Sintang
+
+Regency Number 2) as amended by Regional Regulation of Sintang Regency
+
+Number 5 of 2013 (Regional Gazette of Sintang
+
+Regency Number 5);
+
+22. Regional Regulation of Sintang Regency Number 8 of 2006 concerning Civil Servant Investigators in
+
+the Government of Sintang Regency (Regional
+
+Gazette of Sintang Regency of 2006 Number 9);
+
+23. Regional Regulation of Sintang Regency Number 10 of 2010 concerning Public Order (Regional Gazette of
+
+Sintang Regency of 2010 Number 10, Supplement to the
+
+Regional Gazette of Sintang Regency Number 10);
+
+With the Mutual Approval of
+
+THE REGIONAL PEOPLE'S REPRESENTATIVE COUNCIL OF SINTANG REGENCY and
+
+THE REGENT OF SINTANG
+
+HAS DECIDED:
+
+To Enact : REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE.
+
+# CHAPTER I...
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+1. Region is Sintang Regency.
+
+2. Regional Government is the Regent and Regional Apparatus as elements of the Regional government administration.
+
+3. Regent is the Regent of Sintang.
+
+4. Woman is a person of female gender.
+
+5. Child is a person who is not yet 18 (eighteen) years old, including those in the womb (who are not married).
+
+6. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.
+
+7. Violence against women is any act based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain acts, coercion or deprivation of freedom, whether occurring in public or in private life.
+
+8. Violence against children is any act that results in suffering of children physically, sexually, economically, socially and psychologically.
+
+9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.
+
+10. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, feeling of helplessness and/or severe psychological suffering to a person.
+
+11. Sexual violence is any act in the form of sexual harassment, forced sexual relations, forced sexual relations in an unnatural or unwanted manner, forced sexual relations with others for commercial purposes and/or certain purposes.
+
+12. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.
+
+13. Protection...
+
+13. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecution, courts, social institutions, or other parties who know or hear of the occurrence or have occurred violence against women.
+
+14. Child protection is all activities to ensure and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and obtain protection from violence and discrimination.
+
+15. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing of the imminent, ongoing or occurred violence against the victim.
+
+16. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.
+
+17. Judicial body is a general court that has the authority to receive, examine, and adjudicate, as well as resolve every case submitted to it, to realize law enforcement and justice.
+
+18. Prosecution is an action by the public prosecutor to submit a case to the competent district court in matters and in the manner stipulated by law with a request to be examined and decided by a judge in a court session.
+
+19. Lawsuit is a notification accompanied by a request from an interested party to a judge to take legal action against a person who has caused civil harm to them.
+
+20. Integrated Service Center for the Empowerment of Women and Children hereinafter abbreviated as P2TP2A is a service provider institution for victims of violence based at Regional General Hospitals managed jointly in the form of medical services (including medicolegal), psychosocial and legal services.
+
+21. Safe House is a shelter for victims, during the accompaniment process, for the safety and comfort of victims from the threats and dangers of perpetrators.
+
+22. Standard Operating Procedure hereinafter abbreviated as SOP is an operational standard procedure that serves as a reference for service actions established by Regent Regulation.
+
+23. Community is individuals, families, groups, social organizations and/or community organizations.
+
+24. Family...
+
+24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, and mother and children.
+
+25. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) and non-relatives (domestic helpers, drivers and so forth) who live and eat from one kitchen and reside in one house.
+
+26. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of Sintang Regency.
+
+27. Prosecution Office is the Prosecution Office of the Republic of Indonesia, which is a government institution that exercises state power in the field of prosecution and other authorities based on law.
+
+28. Police is all matters related to the function and institution of police in accordance with laws and regulations.
+
+29. Advocate is a person who carries out activities related to facilitating and fighting for the rights and obligations of clients/persons based on applicable rules.
+
+30. Social Worker is a profession whose main field is engaged in organized social service activities, where such activities aim to provide facilities and strengthen relations, particularly in reciprocal and mutually beneficial adjustment between individuals and their social environment through the use of social work methods.
+
+31. Psychiatrist is a profession of a specialist doctor who has specialization in the diagnosis and treatment of emotional disorders.
+
+32. Visum et Repertum is a statement provided by a Doctor about matters necessary to clarify a criminal and civil case for the purposes of examination.
+
+33. Visum et Repertum Psychiatricum is a statement provided by a Psychiatric Medicine Doctor about the mental health condition of a person necessary to clarify a criminal and civil case for the purposes of examination.
+
+# CHAPTER II...
+
+# CHAPTER II
+
+PRINCIPLES, OBJECTIVES, AND SERVICE PRINCIPLES
+
+#### Article 2
+
+Protection of women and children victims of violence is implemented based on the principles of:
+
+- a. Respect for and fulfillment of the rights of victims; b. Justice and gender equality;
+- c. Non-discrimination;
+- d. Best interests of the victim.
+
+#### Article 3
+
+(1) The objective of Protection of Women and Children Victims of Violence is to provide protection and services for the best interests of women and children victims of violence occurring in the domestic and/or public sphere.
+
+(2) Forms of violence against women and children as referred to in paragraph (1) include among others: a. physical violence;
+
+b. sexual violence; and/or
+
+c. psychological violence.
+
+#### Article 4
+
+The provision of services to victims is carried out with principles including free of charge, fast, safe, empathetic, non-discriminatory, easily accessible, and confidential.
+
+# CHAPTER III
+
+RIGHTS AND OBLIGATIONS OF VICTIMS
+
+#### Article 5
+
+Every victim has the right to:
+
+- a. receive protection from the community and government as well as non-governmental organizations at the local, national and international levels;
+- b. receive information about the existence of complaint centers.
+- c. receive integrated services in accordance with service principles;
+- d. file claims and/or lawsuits through judicial bodies and/or out-of-court proceedings;
+- e. receive information about laws and regulations that protect victims;
+- f. receive confidential handling;
+- g. receive...
+- g. receive information and be involved in every decision-making process related to assistance and case handling developments;
+- h. receive guarantee of their rights related to their status as wife, mother or child, family member, household member, and community member.
+- i. receive assistance at every level of examination and during the judicial process.
+- j. receive continuous handling up to the rehabilitation stage.
+- k. receive protection from identity disclosure through mass media.
+
+#### Article 6
+
+Every victim is obligated to:
+
+- a. not take revenge against the perpetrator of violence;
+- b. be a witness if it does not endanger themselves and if there is a security guarantee for the victim;
+- c. give the perpetrator an opportunity to provide compensation to the victim in addition to the punishment determined by the Court;
+- d. be willing to receive assistance;
+- e. together with the community prevent the increase of other victims of violence.
+
+# CHAPTER IV
+
+OBLIGATIONS AND RESPONSIBILITIES
+
+## Part One
+
+Obligations and Responsibilities of Regional Government Article 7
+
+(1) The Regional Government is obligated and responsible to implement prevention efforts against violence in the form of:
+
+- a. collecting data and information about women and children who are victims of violence as well as laws and regulations related to women and children who are victims of violence;
+- b. implementing education on anti-violence values against women and children;
+- c. conducting socialization of laws and regulations related to the protection of women and children victims of violence;
+- d. conducting monitoring and evaluation of the protection of women and children victims of violence.
+  - (2) The Government...
+  - (2) The Regional Government is obligated and responsible to provide and organize services for victims in the form of:
+- a. establishing and ensuring the operation of integrated service institutions for victims by involving community elements;
+- b. facilitating the formation of service institutions;
+- c. encouraging community awareness of the importance of protection for victims.
+  - (3) The Regional Government is obligated and responsible to ensure the implementation of protection for victims with due regard to the rights and obligations of parents, guardians, husbands or other persons by law.
+  - (4) The Regional Government is obligated and responsible to supervise the implementation of services for victims, with service standards that involve the community.
+  - (5) The Regional Government is obligated and responsible to provide funds for the protection of women and children victims of violence through the APBD and other legitimate and non-binding sources.
+  - (6) The Regent appoints Officials to carry out the obligations and responsibilities of organizing protection for women and children victims of violence.
+
+## Part Two
+
+Obligations and Responsibilities of the Integrated Service Center for Women and Children Empowerment
+
+#### Article 8
+
+The Manager of Women and Children Protection implemented by P2TP2A has the obligation to organize services in accordance with service principles as stipulated in this Regional Regulation.
+
+## Part Three
+
+Obligations and Responsibilities of the Community
+
+#### Article 9
+
+The obligations and responsibilities of the community are as follows:
+
+- a. make efforts to provide support for the development of violence prevention programs;
+- b. prepare proposals regarding the formulation and policies on protection;
+- c. undertake...
+- c. make efforts to provide protection and moral or material support to victims;
+- d. conduct supervision and reporting of acts of violence to the competent authorities.
+
+# CHAPTER V
+
+IMPLEMENTATION OF PROTECTION
+
+Part One
+
+Institutional
+
+#### Article 10
+
+(1) The implementation of protection for victims is carried out in an integrated manner within the framework of P2TP2A.
+
+(2) P2TP2A of Sintang Regency receives case referrals from Service Institutions in the Sintang Regency area.
+
+(3) Provisions regarding P2TP2A are further regulated by Regent Regulation.
+
+## Part Two
+
+Principles of Implementation
+
+#### Article 11
+
+(1) The principle of service delivery to victims is not subject to any fees whatsoever.
+
+(2) The implementation of services for victims is carried out quickly, safely, empathetically, and non-discriminatorily.
+
+(3) Services to victims regarding everything reported are guaranteed confidential.
+
+## Part Three
+
+Forms and Mechanisms of Service
+
+#### Article 12
+
+Forms of services for victims include:
+
+- a. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;
+- b. medicolegal services, which is a form of medical service for the purpose of evidence in the legal field;
+- c. services...
+- c. psychosocial services, which are services provided by assistants in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have self-confidence, strength, and independence in solving their problems;
+- d. Legal services, which are services to assist victims in undergoing the judicial process;
+- e. Economic independence services, in the form of services for skills training and providing economic access so that victims can be independent;
+- f. Information Services (Informed Consent), which are related to services and assistance.
+
+#### Article 13
+
+Service mechanisms are organized in accordance with Standard Operating Procedures (SOP) whose guidelines will be further regulated by Regent Regulation.
+
+# CHAPTER VI
+
+ASSISTANCE
+
+#### Article 14
+
+(1) Assistance to victims is carried out among others by: a. the Police;
+
+b. the Prosecutor's Office;
+
+c. Advocates; and
+
+d. Social Workers.
+
+(2) Assistance by the Police, Prosecutor's Office, and Advocates as referred to in paragraph (1) letters a, b, and c, in accordance with the provisions of applicable laws and regulations.
+
+(3) The duties of social workers as referred to in paragraph (1) letter d as assistants are as follows:
+
+- a. provide sufficient information to victims about their rights;
+- b. provide psychosocial services to victims so that victims feel safe and comfortable;
+- c. accompany victims during the medical examination and recovery process;
+- d. accompany victims during the medicolegal process;
+- e. accompany victims during the examination process at the Police, Prosecutor's Office, and Court;
+- f. monitor...
+- f. monitor the interests and rights of victims in the examination process at the Police, Prosecutor's Office, and Court;
+- g. maintain the privacy and confidentiality of victims from all parties who have no interest, including coverage by mass media;
+- h. coordinate with other assistants;
+- i. provide continuous handling up to the rehabilitation stage.
+
+# CHAPTER VII
+
+FUNDING
+
+#### Article 15
+
+(1) Funding for the implementation of protection for women and children victims of violence includes:
+
+- a. medical services, which include doctor examination, treatment costs, hospital costs, and medication costs;
+- b. medicolegal services, which include examination for Visum et Repertum and Visum et Psikiatrikum;
+- c. psychosocial services, consisting of counseling and psychological therapy as well as safe houses (shelters);
+- d. legal services;
+- e. economic empowerment, in the form of services for skills training and providing economic access.
+  - (2) Management of funding is carried out through technical institutions appointed by the Regional Government which is conducted transparently and accountable in accordance with applicable laws and regulations.
+  - (3) Sources of funds in the implementation of protection for women and children come from the State Budget, Provincial Regional Budget, Sintang Regency Regional Budget as well as other legitimate and non-binding sources.
+
+# CHAPTER VIII
+
+GUIDANCE AND SUPERVISION
+
+#### Article 16
+
+(1) Guidance on the implementation of protection for women and children is carried out by relevant Agencies in accordance with their respective main tasks and functions.
+
+(2) Guidance as referred to in paragraph (1) is in the form of providing guidelines that include technical implementation of protection for women and children.
+
+(3) Supervision...
+
+(3) Supervision of the implementation of protection for Women and Children is carried out by relevant Agencies together with government internal supervisory apparatus in accordance with applicable laws and regulations.
+
+# CHAPTER IX
+
+ADMINISTRATIVE SANCTIONS
+
+#### Article 17
+
+(1) Officials or Officers appointed by authorized institutions/agencies who do not carry out obligations and responsibilities as regulated in Article 7 and Article 8, shall be subject to administrative sanctions in the form of:
+
+- a. written warning from the authorized official; and/or
+- b. fine of at most Rp.50,000,000.00 (fifty million rupiah).
+  - (2) Further provisions regarding the procedures for imposing administrative sanctions as referred to in paragraph (1) and paragraph (2) shall be stipulated by Regent Regulation.
+
+# CHAPTER X
+
+INVESTIGATION
+
+#### Article 18
+
+(1) Certain Civil Servant Officials within the Regional Government are given special authority as investigators to conduct investigations of criminal acts in the field of protection for women and children as referred to in the Criminal Procedure Code.
+
+(2) Investigators as referred to in paragraph (1) are certain Civil Servant Officials within the Regional Government who are appointed by authorized Officials in accordance with the provisions of laws and regulations.
+
+(3) The authority of Civil Servant Investigators as referred to in paragraph (1) and paragraph (2) is:
+
+- a. to receive reports or complaints from someone regarding the existence of a criminal act;
+- b. to conduct initial action and examination at the scene;
+- c. to order someone to stop and examine the suspect's identity;
+- d. to seize objects and documents;
+- e. to take fingerprints and photograph someone;
+- f. to summon...
+- f. to summon people to be heard and examined as suspects or witnesses;
+- g. to bring in experts as needed in connection with the examination of cases;
+- h. to terminate the investigation after receiving instructions from the investigator of the Indonesian National Police that there is insufficient evidence or the incident is not a criminal act and subsequently through the investigator notify the Public Prosecutor, the suspect or their family.
+
+# CHAPTER XI
+
+CRIMINAL PROVISIONS
+
+#### Article 19
+
+Every criminal act relating to the protection of women and children shall be subject to criminal sanctions as regulated in applicable laws and regulations.
+
+#### Article 20
+
+(1) Any person who intentionally does not provide protection to women and/or children resulting in the occurrence of violence as referred to in Article 3 paragraph (2), allows violence to occur, and/or does not report and does not provide protection to victims, shall be punishable by imprisonment of a maximum of 6 (six) months or a fine of at most Rp.50,000,000.00 (fifty million rupiah).
+
+(2) Any person who obstructs officers or P2TP2A institutions or any party in carrying out protection and service efforts for women and/or child victims of violence as referred to in Article 3 paragraph (1), shall be punishable by imprisonment of a maximum of 6 (six) months or a fine of at most Rp.50,000,000.00 (fifty million rupiah).
+
+(3) The criminal act as referred to in paragraph (1) is a violation.
+
+# CHAPTER XII
+
+OTHER PROVISIONS
+
+#### Article 21
+
+Further provisions regarding the implementation of protection for women and child victims of violence shall be regulated by Regent Regulation.
+
+# CHAPTER XIII...
+
+# CHAPTER XIII
+
+CLOSING PROVISIONS
+
+#### Article 22
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Sintang Regency.
+
+Enacted in Sintang on 20 April 2015
+
+REGENT OF SINTANG,
+
+SGD
+
+MILTON CROSBY
+
+Promulgated in Sintang on 20 April 2015
+
+REGIONAL SECRETARY OF SINTANG REGENCY,
+
+SGD
+
+YOSEPHA HASNAH
+
+REGIONAL GAZETTE OF SINTANG REGENCY YEAR 2015 NUMBER 8
+
+Copy in accordance with the original
+
+HEAD OF LEGAL DIVISION,
+
+HERKOLANUS RONI, SH., M.Si
+
+Supervisor
+
+NIP. 19750403 200312 1 005
+
+REGISTRATION NUMBER REGIONAL REGULATION OF SINTANG REGENCY WEST KALIMANTAN PROVINCE: ( 8 / 2015)
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF SINTANG REGENCY
+
+NUMBER 8 OF 2015
+
+CONCERNING
+
+PROTECTION OF WOMEN AND CHILDREN
+
+VICTIMS OF VIOLENCE
+
+I. GENERAL
+
+The State has the obligation to provide a sense of security for its citizens from threats and actions that may disturb or damage psychological, physical, sexual or economic security, this philosophy is stated in the Preamble of the 1945 Constitution that the purpose of establishing the Unitary State of the Republic of Indonesia, the first is to protect the entire nation and homeland of Indonesia.
+
+Furthermore, in the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that Women as mothers of the nation and children as assets and successors of the nation are creatures created by God Almighty and therefore must be protected and their honor, dignity and self-respect must be maintained reasonably and proportionally, both legally, economically, politically, socially and culturally, without distinction of ethnicity, religion, race and group.
+
+From the series of provisions above, the Government is responsible for taking actions both legally, politically, economically and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because it constitutes a crime against human existence.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear
+
+#### Article 2
+
+Letter a
+
+Respect for the rights of victims is intended to ensure the fulfillment of the rights of victims as referred to in Article 5.
+
+Letter b...AngkaalS
+
+Letter b
+
+Gender justice is a condition where every person both men and women are treated equally and obtain equal opportunities to get opportunities (access), as well as welfare.
+
+Gender equality is the equality of rights, opportunities, benefits and decision-making between women and men including in entering employment opportunities both in the formal and informal sectors.
+
+Letter c
+
+Non-Discrimination is an attitude and treatment toward victims by not making distinctions on the basis of age, gender, race, ethnicity, religion and between groups.
+
+Letter d
+
+The best interests of victims are all best actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, therefore the best interests of victims must be the primary consideration.
+
+#### Article 3
+
+What is meant by gender-based violence is an action based on gender relations that places women in a subordinate position to men.
+
+Domestic realm means the space where interpersonal relations occur.
+
+Public realm means the space where relations concerning public interests occur.
+
+Service and assistance institutions must also be able to provide education and awareness to the community regarding such gender-based violence.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9...
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF SINTANG REGENCY YEAR 2015 NUMBER 8

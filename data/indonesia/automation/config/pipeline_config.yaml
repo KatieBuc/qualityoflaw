@@ -1,8 +1,12 @@
 experiment_name: first-full-run
 
+# Active project: every data path is derived from data/<project>/ (see
+# automation/src/paths.py). Change this to run another corpus.
+project: indonesia
+
 concurrency:
   enabled: true
-  max_workers: 15
+  max_workers: 10
 
 translation:
   model: claude-sonnet-4-5
@@ -40,8 +44,8 @@ evaluation:
   # Deployments that reject logprobs degrade to confidence: null, with one warning.
   confidence:
     enabled: true
-    methods: [logprobs, verbalized, margin]   # + verbalized (needs prompt_version: v4)
-    primary: margin
+    methods: [verbalized]   # also: logprobs, margin (verbalized needs prompt_version: v4)
+    primary: verbalized
     # Alternatives requested per answer token, which is what margin reads.
     # Azure caps this at 5; a higher value is detected and clamped at runtime
     # rather than costing the run its logprobs.
@@ -67,6 +71,34 @@ evaluation:
       evidence_verification:
         enabled: true
 
+# Stage 1 (input processing): data/<project>/raw/{raw_files,extracted_txt} and
+# data/<project>/preprocessed/cleaned_txt.
+# Every key is optional; folders default to those names. Overrides are repo-relative or absolute.
+input_process:
+  # Language every file is judged as, unless language_pattern finds one in its name.
+  language: Indonesian
+  # Optional: regex with ONE group that picks the language out of a policy name, for
+  # multilingual corpora. GlobalLaws names look like "10. Azerbaijan - DomViol - Azerbaijani - html".
+  # Names it does not match (e.g. ACEH_BIREUEN) fall back to `language`.
+  language_pattern: 'DomViol - ([A-Za-z]+)'
+  # Which folder stage 1.2 (TXT -> Markdown) converts: "cleaned_txt" (default, this stage's
+  # output) or "gold" (hand-cleaned texts in data/<project>/raw/gold, or gold_dir).
+  markdown_source: cleaned_txt
+  # gold_dir: data/global/raw/gold
+  # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
+  # extracted_txt_dir: data/indonesia/raw/extracted_txt
+  # cleaned_txt_dir: data/indonesia/preprocessed/cleaned_txt
+  # log_path: data/indonesia/raw/input_process.log
+  # Override individual quality thresholds (names in input_process/quality/criteria.py, T).
+  thresholds: {}
+
+# Step 4.6: maps evidence sentences between translation and source. Equal
+# sentence counts are paired by index; otherwise this aligner (LaBSE embeddings,
+# benchmarked in automation/benchmarks/alignment) is used. Needs
+# automation/requirements-align.txt; falls back to "heuristic" if unavailable.
+alignment:
+  method: vecalign  # "vecalign" | "bertalign" | "heuristic"
+
 comparison:
   # Cutoffs for confidence_report.json. Predictions below a cutoff count as
   # "low confidence"; coverage_rate is the share of actual errors they capture.
@@ -81,28 +113,30 @@ discrepancy_diagnosis:
   model: gpt-5.2-diagnosis
   prompt_version: v1
 
+# Corpus-specific parameters. Folder locations are NOT set here: they come from
+# `project` above. The optional keys input_dir, markdown_input_dir, golden_csv,
+# index_schema and manual_overwrites override a derived location (repo-relative
+# or absolute) when a project needs it.
 paths:
-  # Raw OCR text: still the source of truth for discrepancy_diagnosis, and the
-  # input to the legacy raw-text translation path.
-  input_dir: data/raw/localpolicies
-  # Curated Markdown corpus: the input to translation_md.
-  markdown_input_dir: data/processed/localpolicies/cleaned_markdown
-  # markdown_input_dir: data/processed/globallaws_markdown
-  # localpolicies names files <POLICY>.cleaned.md; globallaws_markdown names
-  # them plain <name>.md, so the glob suffix needs to match. Defaults to
-  # ".cleaned.md" when omitted.
+  # localpolicies names files <POLICY>.cleaned.md; globallaws names them plain
+  # <name>.md, so the glob suffix needs to match. Defaults to ".cleaned.md".
   markdown_input_suffix: .cleaned.md
   # markdown_input_suffix: .md
   # Bare policy names (no suffix) that --small-scale selects, in every step.
-  # Belongs to the corpus, so change it together with markdown_input_dir and
+  # Belongs to the corpus, so change it together with project and
   # markdown_input_suffix. Defaults to the localpolicies set when omitted.
   small_scale_stems:
     - ACEH_BIREUEN
     - NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2
     - RIAU_PEKANBARU_KOTA
-  # small_scale_stems:  # globallaws_markdown
+  # small_scale_stems:  # globallaws
   #   - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
   #   - 94. Latvia - DomViol - Latvian (a)
   #   - 121. New Zealand - DomViol - English
-  golden_csv: data/processed/long_policy_encoding.csv
-  index_schema: data/mapping/index_schema.yaml
+
+# Stage 3 (optional human adjustment). true: after translation the run pauses so you can edit
+# preprocessed/cleaned_markdown and preprocessed/translation_markdown; continue with --reviewed.
+# Either way, the `validate` step then checks the headings of each pair (log: preprocessed/header_check.log);
+# moving the pairs you accept to processed/ is up to you.
+human_review:
+  pause: false

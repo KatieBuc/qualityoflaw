@@ -1,0 +1,904 @@
+# REGENT OF PURWAKARTA
+
+REGENT OF PURWAKARTA
+
+WEST JAVA PROVINCE
+
+REGIONAL REGULATION OF PURWAKARTA REGENCY
+
+NUMBER 6 OF 2021
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN BY THE GRACE OF ALMIGHTY GOD
+
+REGENT OF PURWAKARTA,
+
+Considering : a. that every citizen has the right to obtain a sense of security and freedom from all forms of Violence;
+
+b. that violence against women and children in the Region tends to increase, therefore the Regional Government and/or the community need to play an active role optimally to provide protection, so that women and children are prevented and freed from violence or threats of violence, torture, or treatment that degrades human dignity and honor;
+
+c. that protection of women and children is a mandatory concurrent affair that is the authority, obligation, and responsibility of the Regional Government, thus regulation is needed as a basis for the comprehensive and integrated implementation of protection of women and children;
+
+d. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning the Implementation of Protection of Women and Children;
+
+In view of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 14 of 1950 concerning the Establishment of Regency Areas within the Province of West Java (State Gazette of 1950), as amended by Law Number 4 of 1968 concerning the Establishment of Purwakarta Regency and Subang Regency by Amending Law Number 14 of 1950 concerning the Establishment of Regency Areas within the Province of West Java (State Gazette of the Republic of Indonesia of 1968 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number
+
+3. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette Number 3143);
+
+4. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia 3668);
+
+5. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+
+6. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended several times, most recently by Law Number 17 of 2016 concerning Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection into Law (State Gazette of the Republic of Indonesia of 2016 Number 237, Supplement to the State Gazette of the Republic of Indonesia Number 5941);
+
+7. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+8. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635) as amended by Law number 31 of 2014 concerning amendments to Law number 13 of 2006 concerning Protection of Witnesses and Victims (State
+
+Gazette of the Republic of Indonesia of 2014 Number 293, Supplement to the State Gazette of the Republic of Indonesia Number 5602);
+
+9. Law Number 21 of 2007 concerning the Eradication of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+10. Law Number 12 of 2011 concerning Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended by Law Number 15 of 2019 concerning Amendments to Law
+
+Number 12 of 2011 concerning Formulation of Legislation (State Gazette of the Republic of Indonesia of 2019 Number 183, Supplement to the State Gazette of the Republic of Indonesia Number 6398);
+
+11. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);
+
+12. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+13. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation in Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+
+14. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);
+
+15. Regional Regulation of West Java Province Number 3 of 2021 concerning Implementation of Child Protection (Regional Gazette of West Java Province of 2021 Number 3).
+
+With Joint Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF PURWAKARTA REGENCY and
+
+REGENT OF PURWAKARTA
+
+HAS DECIDED :
+
+To enact : REGIONAL REGULATION CONCERNING IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms mean:
+
+- 1. Region is Purwakarta Regency.
+- 2. Regional Government is the administration of governmental affairs by the Regional Government and DPRD according to the principles of autonomy and co-administration with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.
+- 3. Regional Government is the Regent as an element of regional government administration who leads the implementation of governmental affairs which are the authority of the autonomous region.
+- 4. Regent is the Regent of Purwakarta.
+- 5. Regional House of Representatives, hereinafter abbreviated as DPRD, is the regional people's representative institution which is positioned as an element of Regional Government administration.
+- 6. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an integrated service center in efforts to empower women in various fields of development as well as protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the Regional Government or is community-based.
+- 7. Protection of Women and Children is all activities to protect the rights of women and children and provide a sense of security in the fulfillment of their rights without violence and discrimination in accordance with human dignity.
+- 8. Woman is an adult human of female gender and a person who is legally recognized as a woman.
+- 9. Child is a person who has not reached the age of 18 (eighteen) years including a child who is still in the womb.
+- 10. Child in conflict with the law (ABH) is a child who is in conflict with the law, a child who becomes a victim of a criminal act and a child who becomes a witness to a criminal act.
+- 11. Violence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion or deprivation of freedom unlawfully.
+- 12. Discrimination is any restriction, harassment or exclusion that is directly or indirectly based on the differentiation of humans on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status.
+- 13. Victim is a woman and child who experiences misery and/or physical, mental suffering or economic loss either directly or indirectly as a result of violence and criminal acts.
+- 14. Service is immediate activities and actions carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.
+- 15. Assistance is any action in the form of counseling, psychological therapy, advocacy, and guidance and/or spiritual counseling, for the self-empowerment of victims of violence to resolve the problems faced.
+- 16. Repatriation is an effort to return women and child victims of violence to the family, substitute family, or community that can provide protection and fulfillment of their needs.
+- 17. Rehabilitation is the recovery of victims from psychosocial disturbances and the restoration of normal social functioning, both in the family and in society.
+- 18. Safe House, hereinafter referred to as Shelter, is a temporary residence used to provide protection to victims in accordance with the determined operational standards.
+- 19. Community is individuals, families, groups, social organizations and/or community organizations.
+
+# CHAPTER II
+
+PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+The administration of protection of women and children is based on the principles of:
+
+- a. respect and fulfillment of the rights of women and children;
+- b. justice and gender equality;
+- c. non-discrimination;
+- d. best interests of women and child victims of violence; and
+- e. legal certainty.
+
+#### Article 3
+
+The administration of protection of women and children aims to:
+
+- a. ensure the fulfillment of the rights of women and children so they can participate optimally in society in accordance with human dignity;
+- b. provide protection and provide a sense of security to women and children from all forms of violence and discrimination;
+- c. prevent and eliminate all forms of violence and exploitation against women and children including trafficking in persons;
+- d. provide services to women and child victims of violence, reporters, and witnesses; and
+- e. empower women and child victims of violence.
+
+# CHAPTER III
+
+OBLIGATIONS OF THE REGIONAL GOVERNMENT
+
+#### Article 4
+
+The Regional Government is obligated to administer the protection of women and children.
+
+#### Article 5
+
+In the administration of protection of women and children, the Regional Government is obligated to:
+
+- a. establish basic policies for the administration of protection of women and children in the Regional Action Plan;
+- b. implement the policies for protection of women and children established by the central government and provincial government;
+- c. coordinate the implementation of policies, programs, and activities for the protection of the rights of women and children among regional apparatus organizations;
+- d. cooperate with other regions for the implementation of policies, programs, and activities for the protection of the rights of women and children;
+- e. strengthen Gender mainstreaming institutions and children's rights mainstreaming for the implementation of policies, programs, and activities for the protection of the rights of women and children;
+- f. establish P2TP2A in the Region;
+- g. ensure the implementation of excellent service in the protection of women and children, including for women and child victims of violence;
+- h. prepare a data system for the protection of women and children, including data on violence against women and children and.
+- i. establish UPTD PPA (Protection of Women and Children).
+
+# CHAPTER IV
+
+PLANNING
+
+#### Article 6
+
+The Regent establishes basic policies for the administration of protection of women and children in the Region.
+
+#### Article 7
+
+(1) The basic policy as referred to in Article 6 is elaborated in the Regional Action Plan.
+
+(2) The Regional Action Plan as referred to in paragraph (1) is integrated with the Regional Long-Term Development Plan document, Regional Medium-Term Development Plan and Regional Government Work Plan.
+
+(3) The Regional Action Plan as referred to in paragraph (1) contains at least:
+
+- a. programs and activities of action for the protection of women and children, including women and child victims of violence;
+- b. programs and activities of regional action to prevent all forms of violence and discrimination against women and children;
+- c. programs and activities of action for improvement and enhancement of protection services for women and child victims of violence; and
+- d. programs and activities of action for empowerment of women and child victims of violence.
+  - (4) Provisions regarding the Regional Action Plan as referred to in paragraph (1) are further regulated by Regent Regulation.
+
+#### Article 8
+
+The Regional Action Plan must be used as a guideline for the Regional Government in formulating policies related to the administration of protection of women and children.
+
+# CHAPTER V
+
+IMPLEMENTATION OF PROTECTION
+
+## Part One
+
+General
+
+#### Article 9
+
+(1) The Regent is obligated to implement policies, programs and activities for the protection of women and children in an integrated manner in order to fulfill the rights of women and children in the region.
+
+(2) In carrying out the duties as referred to in paragraph (1), the Office coordinates with regional apparatus organizations, law enforcement officials and the community.
+
+## Part Two
+
+Protection of Women and Child Victims of Violence
+
+### Paragraph I
+
+Forms of Violence
+
+#### Article 10
+
+Violence against women and children can take the form of: a. physical violence;
+
+b. psychological violence;
+
+c. sexual violence
+
+d. neglect; and
+
+e. exploitation.
+
+#### Article 11
+
+Physical violence as referred to in Article 10 letter a is caused by actions that result in pain, injury, wounds or disabilities to a person's body, miscarriage, fainting and/or causing death.
+
+#### Article 12
+
+Psychological violence as referred to in Article 10 letter b is caused by actions that result in fear, loss of self-confidence, loss of ability to act, feeling of helplessness and/or severe psychological suffering to a person.
+
+#### Article 13
+
+Sexual violence as referred to in Article 10 letter c is caused by:
+
+- a. actions in the form of sexual harassment;
+- b. coercion of sexual relations;
+- c. coercion of sexual relations in an unnatural or unwanted manner;
+- d. coercion of sexual relations with others for commercial purposes and or certain purposes; and/or
+- e. persuasion, deception and a series of lies that result in sexual violence.
+
+#### Article 14
+
+Neglect as referred to in Article 10 letter d is caused by:
+
+- a. actions that result in the failure to fulfill the child's needs properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;
+- b. actions of deliberately neglecting to maintain, care for, or manage the child as appropriate, committed by parents, guardians or any other parties responsible for their care;
+- c. actions that neglect a person within their household, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and/or;
+- d. actions that result in economic dependency by limiting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.
+
+#### Article 15
+
+Exploitation as referred to in Article 10 letter e is caused by:
+
+- a. actions that exploit economically or sexually with the intention of benefiting oneself or others; and/or;
+- b. any form of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.
+
+### Paragraph 2
+
+Rights of Victims
+
+#### Article 16
+
+Every woman and child victim of violence has the right to receive:
+
+- a. protection;
+- b. information;
+- c. excellent service;
+- d. continuous handling until the rehabilitation stage; e. confidential handling;
+- f. psychological and legal assistance; and
+- g. guarantee of rights related to status as a family member as well as a community member and the right to restitution.
+
+#### Article 17
+
+In addition to obtaining the rights as referred to in Article 16, child victims of violence also receive special rights in the form of:
+
+- a. the right to respect and full use for survival, growth and development;
+- b. the right to basic services;
+- c. the right to equal protection;
+- d. the right to be free from various stigma; and
+- e. the right to obtain freedom.
+
+#### Article 18
+
+(1) In the event that women and children victims of violence require continuous handling, then women and children victims of violence have the right to stay in a safe house or alternative residence.
+
+(2) Continuous handling as referred to in paragraph (1) is handling at the rehabilitation stage, whether carried out by P2TP2A, individuals, non-governmental organizations, or by the community.
+
+#### Article 19
+
+(1) A safe house as referred to in Article 18 paragraph (1) provides a place and/or temporary safe shelter for victims of violence until their rights are restored.
+
+(2) The operation and/or management of safe houses as referred to in paragraph (1) is carried out by the relevant Agency.
+
+(3) Provisions regarding the operation of safe houses as referred to in paragraph (2) are further regulated by Regent Regulation.
+
+### Paragraph 3
+
+Rights of Witnesses and Perpetrators
+
+#### Article 20
+
+(1) Every woman and child who becomes a witness or perpetrator of violence has the right to receive information, protection, rehabilitation, confidential handling, psychological and legal assistance, as well as fulfillment of their rights related to their status as a wife, mother, child, family member or as a community member.
+
+(2) The fulfillment of rights as referred to in paragraph (1) is implemented in accordance with the provisions of laws and regulations.
+
+### Paragraph 4
+
+Scope
+
+#### Article 21
+
+Protection of women and children victims of violence includes: a. prevention;
+
+b. services;
+
+c. empowerment; and
+
+d. social rehabilitation
+
+#### Article 22
+
+(1) The Regional Government carries out prevention as referred to in Article 21 letter a by means of:
+
+- a. socializing laws and regulations related to the implementation of protection for women and children;
+- b. providing counseling/guidance;
+- c. providing education about the dangers of domestic violence;
+- d. establishing cooperation networks in efforts to prevent violence;
+- e. conducting coordination, integration, and synchronization of violence prevention based on partnership patterns;
+- f. collecting data and information as well as establishing a violence prevention system, mapping locations or areas prone to violence;
+- g. conducting monitoring and evaluation of the implementation of protection for women and children;
+- h. increasing community awareness in behaving in accordance with social norms.
+  - (2) In addition to prevention efforts carried out by the Regional Government as referred to in paragraph (1), prevention efforts are also carried out by families and/or the community.
+  - (3) Prevention as referred to in paragraph (1) is conducted in an integrated manner by P2TP2A.
+
+#### Article 23
+
+(1) Services as referred to in Article 21 letter b are conducted through activities:
+
+- a. complaint services;
+- b. health services;
+- c. counseling;
+- d. spiritual guidance;
+- e. social services;
+- f. legal aid and assistance services; and/or g. repatriation and social reintegration.
+  - (2) Services as referred to in paragraph (1) are conducted with:
+- a. fast and precise;
+- b. safe and comfortable;
+- c. a sense of empathy;
+- d. non-discrimination;
+- e. easily accessible;
+- f. free of charge; and
+- g. guaranteed confidentiality.
+  - (3) Services as referred to in paragraph (1) are conducted in an integrated manner by P2TP2A.
+
+#### Article 24
+
+(1) Empowerment as referred to in Article 21 letter c is conducted through:
+
+- a. job training;
+- b. productive economic enterprises and joint business groups; and
+- c. capital assistance.
+  - (2) Job training as referred to in paragraph (1) letter a includes:
+- a. skills training;
+- b. field work practice; and
+- c. apprenticeship.
+  - (3) Productive economic enterprises and joint business groups as referred to in paragraph (1) letter b include:
+- a. entrepreneurial skills training; and
+- b. business actor assistance.
+  - (4) Capital assistance as referred to in paragraph (1) letter c includes:
+- a. facilities and infrastructure assistance; and
+- b. working/business capital assistance facilities.
+  - (5) Empowerment as referred to in paragraph (1) is carried out by P2TP2A.
+
+## Part Three
+
+Special Protection for Children
+
+#### Article 25
+
+(1) Regional Government is obligated and responsible to implement special protection for children.
+
+(2) Special protection for children as referred to in paragraph (1) is provided to:
+
+- a. children in emergency situations;
+- b. children in conflict with the law;
+- c. children from minority and isolated groups;
+- d. children who are exploited economically and/or sexually;
+- e. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;
+- f. children who are victims of pornography;
+- g. children with HIV/AIDS;
+- h. children victims of abduction, sale, and/or trafficking;
+- i. children victims of physical and/or psychological violence;
+- j. children victims of sexual crimes;
+- k. children victims of terrorism networks;
+- l. children with disabilities;
+- m. children victims of maltreatment and neglect; n. children with deviant social behavior; and
+- o. children who are victims of stigmatization from labeling related to their parents' condition.
+  - (3) Provisions regarding the procedures for special protection of children as referred to in paragraph (2) shall be further regulated by Regent Regulation.
+
+## Part Four
+
+Assistance
+
+#### Article 26
+
+(1) Assistance is carried out by individuals or institutions that have expertise to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence, perpetrators and witnesses.
+
+(2) Further provisions regarding assistance as referred to in paragraph (1) shall be further regulated by Regent Regulation.
+
+## Part Five
+
+Recovery of Victims, Witnesses, and Perpetrators
+
+#### Article 27
+
+(1) For the purposes of recovery, women and children victims, witnesses and perpetrators of violence may obtain services from:
+
+- a. Social institutions (groups or institutions whose scope is in women and children) and/or;
+- b. Social workers (Individuals who have the competence to carry out recovery or rehabilitation) namely:
+  - 1. Nurses
+  - 2. Health personnel
+  - 3. Counseling personnel
+    - (2) What is meant by providing recovery services carried out by social institutions as referred to in paragraph (1) letter a is as follows:
+- a. volunteer assistants undertake efforts to:
+  - 1. build equal relationships with victims so they are willing to open up in expressing their problems;
+  - 2. empathize and not blame victims regarding or related to their problems;
+  - 3. convince victims that no one may commit acts of violence;
+  - 4. ask what they want to do and what assistance is needed;
+  - 5. provide information and connect with institutions or individuals who can help overcome their problems; and/or
+  - 6. help provide information about legal consultation services
+- b. spiritual counselors undertake efforts to:
+  - 1. explore information and listen to complaints from victims;
+  - 2. strengthen the faith and piety of victims and encourage them to perform worship according to their respective religion and belief.
+  - 3. suggest solutions to domestic violence problems according to their respective religion and belief.
+  - 4. provide understanding regarding equality between men and women.
+    - (3) What is meant by providing recovery services carried out by social workers as referred to in paragraph (1) letter b has the following provisions:
+- a. explore victims' problems to help solve their problems;
+- b. restore victims from traumatic conditions through psychosocial therapy;
+- c. make referrals to hospitals or safe houses or service centers or other alternative places according to the needs of victims;
+- d. accompany victims in recovery efforts through assistance and counseling; and/or
+- e. carry out resocialization so that victims can resume their social functions in society.
+
+#### Article 28
+
+(1) Women and children victims, witnesses and perpetrators of violence are entitled to receive health examination services from Health Facilities in accordance with professional standards.
+
+(2) In the event that women and children victims, witnesses, and perpetrators of violence require treatment, health personnel are obligated to provide health recovery and rehabilitation services.
+
+(3) Provision of health recovery and rehabilitation services as referred to in paragraph (2) shall be implemented in accordance with the provisions of laws and regulations.
+
+#### Article 29
+
+(1) Women and children victims, witnesses and perpetrators of violence are entitled to receive counseling services from social workers, volunteer assistants, and/or spiritual counselors.
+
+(2) Social workers, volunteer assistants, and/or spiritual counselors as referred to in paragraph (1) are obligated to provide services to women and children victims, witnesses and perpetrators of violence in the form of providing counseling to strengthen, provide a sense of security and rehabilitation.
+
+# CHAPTER VI
+
+ESTABLISHMENT OF UPTD PPA
+
+#### Article 30
+
+(1) In the context of implementing protection for women and children, the Regional Government shall establish UPTD PPA (Protection of Women and Children) as a service center for the protection of women and children.
+
+(2) UPTD PPA as referred to in paragraph (1) consists of elements of regional apparatus that oversee affairs of:
+
+- a. education;
+- b. youth;
+- c. social;
+- d. cooperatives;
+- e. industry;
+- f. manpower;
+- g. trade;
+- h. population and civil registration;
+- i. women empowerment and child protection; j. public peace and order;
+- k. regional general hospital;
+- l. health;
+  - (3) UPTD PPA as referred to in paragraph (1) shall be stipulated by Regent Regulation.
+  - (4) Provisions regarding the organizational structure, duties and functions of UPTD PPA shall be further regulated by Regent Regulation.
+
+# CHAPTER VII
+
+COOPERATION
+
+#### Article 31
+
+(1) In implementing protection for women and children, the Regional Government may cooperate with:
+
+- a. other regional governments;
+- b. commissions/agencies/government institutions in the field of protection for women and children;
+- c. police;
+- d. advocates;
+- e. health personnel;
+- f. District Prosecutor's Office
+- g. District Court
+- h. PK Bapas (Community Supervisors of Correctional Centers)
+- i. social workers
+- j. volunteer assistants;
+- k. spiritual counselors;
+- l. non-governmental organizations engaged in the protection of women and children; and
+- m. community.
+  - (2) Cooperation as referred to in paragraph (1) shall be in the form of: a. socialization;
+- b. provision of legal aid;
+- c. health services;
+- d. victim assistance
+- e. counseling;
+- f. social rehabilitation;
+- g. spiritual guidance;
+- h. repatriation and social reintegration;
+- i. Family Welfare Consultation Institution (LK3)
+  - (3) Cooperation as referred to in paragraph (1) shall be implemented in accordance with laws and regulations.
+
+# CHAPTER VIII
+
+COMMUNITY PARTICIPATION
+
+#### Article 32
+
+(1) The community may participate in the implementation of protection for women and children.
+
+(2) Community participation as referred to in paragraph (1) shall be in the form of:
+
+- a. establishing family partners at the sub-district/village level;
+- b. establishing non-governmental organizations whose field of work is in the protection of women and children;
+- c. conducting independent socialization of women's rights;
+- d. making prevention efforts if finding indications of violence against women and children in the community;
+- e. providing first aid to women and children victims of violence; and
+- f. reporting to the competent authorities if violence against women and children occurs in their environment.
+  - (3) Community participation as referred to in paragraph (1) may be carried out by individuals, non-governmental organizations, educational institutions, religious institutions, and the business sector.
+
+#### Article 33
+
+In implementing protection for women and children, individuals, non-governmental organizations, educational institutions, religious institutions, and the business sector shall coordinate with UPTD PPA.
+
+#### Article 34
+
+(1) Regional Government encourages the business sector to participate in the protection of women and children.
+
+(2) Participation as referred to in paragraph (1) may include:
+
+- a. socialization to employees within the company regarding the rights of women and children;
+- b. socialization to employees within the company regarding the dangers of acts of violence against women and children;
+- c. providing assistance in the implementation of protection of women and children as a form of corporate social responsibility.
+
+# CHAPTER IX
+
+GUIDANCE AND SUPERVISION
+
+#### Article 35
+
+(1) The Regent conducts guidance and supervision over the implementation of protection of women and children, both carried out by UPTD PPA and non-governmental organizations.
+
+(2) Guidance and supervision as referred to in paragraph (1) are carried out in order to realize the objectives of the implementation of protection of women and children in accordance with the mechanisms and service procedures established in laws and regulations.
+
+(3) Guidance and supervision as referred to in paragraph (1) are implemented by the relevant Agency.
+
+#### Article 36
+
+(1) Supervision as referred to in Article 35 is conducted on:
+
+- a. implementation of policies, programs and activities for the protection of women and children; and
+- b. fulfillment of guidelines and minimum service standards in the implementation of prevention, services and empowerment of women and children victims of violence.
+  - (2) Supervision is carried out periodically and the results are used as input for the formulation of policies, programs, and activities for the protection of women and children for the following year.
+
+#### Article 37
+
+Provisions regarding guidance and supervision of the implementation of protection of women and children are further regulated by Regent Regulation.
+
+# CHAPTER X
+
+REPORTING
+
+#### Article 38
+
+(1) UPTD PPA is obligated to report the implementation of protection of women and children to the Regent through the relevant Agency.
+
+(2) Reporting as referred to in paragraph (1) is submitted in writing and/or through reporting application, covering:
+
+- a. administration;
+- b. finance;
+- c. services; and
+- d. performance.
+  - (3) Submission of written reports as referred to in paragraph (2) is implemented at least once every 3 (three) months.
+
+# CHAPTER XI
+
+FUNDING
+
+#### Article 39
+
+Funds for the implementation of protection of women and children are sourced from:
+
+- a. Regional Revenue and Expenditure Budget;
+- b. other lawful sources in accordance with the provisions of laws and regulations.
+
+#### Article 40
+
+(1) Regional Government may provide funding assistance to community organizations, social organizations, or non-governmental organizations and universities that implement protection of women and children.
+
+(2) Funding assistance as referred to in paragraph (1) is provided in accordance with regional financial capacity and is implemented in accordance with the provisions of laws and regulations.
+
+# CHAPTER XII
+
+PROHIBITIONS
+
+#### Article 41
+
+Every person is prohibited from:
+
+- a. treating women and children in a discriminatory manner that results in women and children suffering losses, both material and moral, thereby hindering their social function;
+- b. treating women and children with disabilities in a discriminatory manner;
+- c. placing, allowing, involving, ordering the involvement of children in situations of abuse and neglect;
+- d. placing, allowing, committing, ordering to commit or participating in committing violence against women and children;
+- e. committing violence or threat of violence to force women and children to engage in sexual intercourse with them or with others;
+- f. committing violence or threat of violence, coercing, committing deception, committing a series of lies, or persuading women and children to commit or allow obscene acts to be committed;
+- g. placing, allowing, committing, ordering to commit or participating in committing abduction, sale and/or trafficking of women and children;
+- h. obstructing women and children from enjoying their own culture, recognizing and practicing their religious teachings and/or using their own language without neglecting access to community and cultural development;
+- i. placing, allowing, committing, ordering to commit or participating in committing economic and/or sexual exploitation of women and children;
+- j. deliberately placing, allowing, involving women and children in the abuse, production and distribution of narcotics and/or psychotropics; and/or
+- k. deliberately placing, allowing, involving, ordering the involvement of women and children in the abuse, production and distribution of alcohol and other addictive substances.
+
+#### Article 42
+
+UPTD PPA or safe houses are prohibited from collecting fees in providing services to women and children victims, witnesses and perpetrators of violence
+
+# CHAPTER XIII
+
+ADMINISTRATIVE SANCTIONS
+
+#### Article 43
+
+(1) Health Workers who refuse or are unwilling to provide health examination services as referred to in Article 28 are subject to administrative sanctions in the form of:
+
+- a. written warning;
+- b. suspension of practice permit/work permit;
+- c. restriction of practice for Health Workers in independent practice;
+  - (2) Social workers, accompanying volunteers, and/or spiritual counselors who refuse or are unwilling to provide counseling services as referred to in Article 29 are subject to administrative sanctions in the form of:
+- a. reprimand; or
+- b. written warning.
+  - (3) Provisions regarding the mechanism for imposing sanctions as referred to in paragraph (1) and paragraph (2) are further regulated by Regent Regulation.
+
+# CHAPTER XIV
+
+INVESTIGATION PROVISIONS
+
+#### Article 44
+
+(1) Civil Servant Investigators within the Regional Government are given special authority to conduct investigations of criminal acts as referred to in the applicable Criminal Procedure Code.
+
+(2) The authority of investigators as referred to in paragraph (1) is:
+
+- a. receiving, seeking, collecting and examining information or reports relating to criminal acts;
+- b. examining, seeking and collecting information or reports relating to criminal acts;
+- c. requesting information and evidence from individuals or entities in connection with criminal acts;
+- d. examining record books and other documents relating to criminal acts;
+- e. conducting searches to obtain evidence of bookkeeping, records and other documents as well as seizing such evidence;
+- f. requesting assistance from experts in the context of performing investigative duties for criminal acts;
+- g. ordering to stop, prohibiting someone from leaving a room or place while an examination is in progress and examining the identity of persons and/or documents carried as referred to in letter e;
+- h. photographing someone related to a criminal act
+- i. summoning persons to hear their statements and to be examined as suspects or witnesses;
+- j. terminating the investigation;
+- k. taking other actions necessary for the smooth investigation of criminal acts according to applicable law and which can be accounted for.
+  - (3) Investigators as referred to in paragraph (1), notify the commencement of the investigation and submit the results of their investigation to the public prosecutor through the Indonesian National Police Investigator in accordance with the provisions stipulated in the Criminal Procedure Code.
+
+# CHAPTER XV
+
+CRIMINAL PROVISIONS
+
+#### Article 45
+
+(1) Every person who violates the prohibitions as referred to in Article 42 and Article 43 is subject to punishment in accordance with the provisions of laws and regulations.
+
+(2) The criminal acts as referred to in paragraph (1) are violations.
+
+# CHAPTER XVI
+
+CLOSING PROVISIONS
+
+#### Article 46
+
+Implementing regulations of this Regional Regulation must be established no later than 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 47
+
+This Regional Regulation shall come into force on the date of promulgation. In order that everyone may know of it, orders the promulgation of this regional regulation by placing it in the Regional Gazette of Purwakarta Regency
+
+Enacted in Purwakarta
+
+On 12 October 2021
+
+REGENT OF PURWAKARTA
+
+signed
+
+ANNE RATNA MUSTIKA
+
+Promulgated in Purwakarta
+
+On 12 October 2021
+
+REGIONAL SECRETARY,
+
+signed
+
+IYUS PERMANA
+
+REGIONAL GAZETTE OF PURWAKARTA REGENCY YEAR 2021 NUMBER 6 REGISTRATION NUMBER OF REGIONAL REGULATION OF PURWAKARTA REGENCY WEST JAVA PROVINCE : 6/174/2021
+
+ELUCIDATION
+
+REGIONAL REGULATION OF PURWAKARTA REGENCY
+
+NUMBER 6 YEAR 2021
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN
+
+I. GENERAL ELUCIDATION
+
+That protection for women and children is a concurrent obligatory affair which is the authority, obligation, and responsibility of the Regional Government, so that regulation is needed as the basis for the implementation of protection for women and children that is comprehensive and integrated in a Regional Regulation.
+
+II. ARTICLE-BY-ARTICLE ELUCIDATION
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Sufficiently clear.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+#### Article 32
+
+Sufficiently clear.
+
+#### Article 33
+
+Sufficiently clear.
+
+#### Article 34
+
+Sufficiently clear.
+
+#### Article 35
+
+Sufficiently clear.
+
+#### Article 36
+
+Sufficiently clear.
+
+#### Article 37
+
+Sufficiently clear.
+
+#### Article 38
+
+Sufficiently clear.
+
+#### Article 39
+
+Sufficiently clear.
+
+#### Article 40
+
+Sufficiently clear.
+
+#### Article 41
+
+Sufficiently clear.
+
+#### Article 42
+
+Sufficiently clear.
+
+#### Article 42
+
+Sufficiently clear.
+
+#### Article 43
+
+Sufficiently clear.
+
+#### Article 44
+
+Sufficiently clear.
+
+#### Article 45
+
+Sufficiently clear.
+
+#### Article 46
+
+Sufficiently clear
+
+#### Article 47
+
+Sufficiently clear
+
+REGENT OF PURWAKARTA,
+
+signed
+
+ANNE RATNA MUSTIKA
+
+
+This excerpt sits under: CHAPTER XVI

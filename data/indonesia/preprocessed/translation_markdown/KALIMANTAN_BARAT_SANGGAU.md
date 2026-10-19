@@ -1,0 +1,732 @@
+# REGENT OF SANGGAU
+
+REGENT OF SANGGAU
+
+WEST KALIMANTAN PROVINCE
+
+REGIONAL REGULATION OF SANGGAU REGENCY NUMBER 12 OF 2019
+
+CONCERNING
+
+PROTECTION OF WOMEN FROM ACTS OF VIOLENCE BY THE GRACE OF GOD ALMIGHTY THE REGENT OF SANGGAU,
+
+Considering
+
+Drafted by: Head of DINSOSP3AKB Sanggau Regency,
+
+YOHANES
+
+SUPRIYANTO, SH
+
+NIP. 19580610 199003 1 004 Examined by:
+
+Head of Legal and Human Rights Division Regional Secretariat of Sanggau Regency,
+
+YAKOBUS, SH, MH
+
+NIP. 19700223 In View of Approved by:
+
+- a. that every citizen has the right to be free from torture or treatment that degrades human dignity and has the right to obtain security from all forms of violence;
+- b. that all forms of acts of violence against women constitute a violation of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and destiny without discrimination;
+- c. that violence against women in Sanggau Regency shows an increasing tendency so that prevention efforts and optimization of countermeasures against acts of violence against women must be carried out, thus requiring a Regional Regulation that guarantees legal protection for women;
+- d. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Protection of Women from Acts of Violence;
+  - 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+Regional Secretary of Sanggau Regency, A.L
+
+LEYSANDRISH NIP. 19610616 199001 1 001
+
+Enacted by: Acting Regent
+
+of Sanggau,
+
+MOSES TABAH
+
+2. Law Number 27 of 1959 concerning the Stipulation of Emergency Law Number 3 of 1953 concerning the Establishment of Level II Regions in Kalimantan (State Gazette of the Republic of Indonesia of 1959 Number 9) as Law (State Gazette of the Republic of Indonesia of 1959 Number 72, Supplement to the State Gazette of the Republic of Indonesia Number 1820);
+
+3. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+4. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+5. Law Number 21 of 2017 concerning the Eradication of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+6. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+
+7. Presidential Regulation Number 18 of 2014 concerning
+
+Protection and Empowerment of Women and
+
+Children In Social Conflict (State Gazette of
+
+the Republic of Indonesia of 2014 Number 44);
+
+8. Regulation of the State Minister for Women's
+
+Empowerment and Child Protection Number 01
+
+of 2010 concerning Minimum Service Standards
+
+for Integrated Services for Women and
+
+Child Victims of Violence (State News of the
+
+Republic of Indonesia of 2010 Number 56);
+
+With Mutual Approval of
+
+THE REGIONAL HOUSE OF REPRESENTATIVES OF SANGGAU REGENCY and
+
+THE REGENT OF SANGGAU
+
+HAS DECIDED:
+
+To Establish : REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN FROM ACTS OF VIOLENCE.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+- 1. Regent is the Regent of Sanggau.
+- 2. Region is Sanggau Regency.
+- 3. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs which are the authority of the Region.
+- 4. Regional Apparatus is an element assisting the Regent and the Regional House of Representatives in the administration of government affairs which are the authority of the Region.
+- 5. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the Victim.
+- 6. Violence Against Women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.
+- 7. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of Violence and vulnerability of life.
+- 8. Protection of Women is all activities aimed at providing security carried out by the Regional Government, community, and/or other parties who know or hear that Violence Against Women will or has occurred.
+- 9. Service/Handling is an action taken as soon as possible to the Victim when seeing, hearing and/or knowing that Violence against the Victim will, is or has occurred.
+- 10. Assistance is a person or representative from an institution who has expertise in assisting Victims to conduct counseling, therapy and/or advocacy.
+- 11. Integrated Service Center, hereinafter abbreviated as PPT, is an institution or functional work unit that provides integrated services to Victims of Violence.
+- 12. Safe House is a residence for Victims during the Assistance process for the safety and comfort of Victims from threats and dangers.
+- 13. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence Against Women submitted by Victims, Families and the community.
+- 14. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.
+- 15. Social Rehabilitation is a service aimed at restoring and developing the abilities of a person experiencing social dysfunction so that they can perform their social functions properly.
+- 16. Legal Aid is legal services provided by legal assistants and advocacy to conduct gender-sensitive Assistance for witnesses and/or Victims of Violence Against Women.
+- 17. Law Enforcement is the action of officials authorized by the state to implement laws and regulations.
+- 18. Repatriation is an effort to return women Victims of Violence from abroad to the point of debarkation/entry point, or from the receiving area to the area of origin.
+- 19. Social Reintegration is an effort to reunite Victims with the Family, substitute family, or community that can provide protection and fulfillment for Victims.
+- 20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and their children, or mother and their children, or blood family in a direct line upward or downward.
+
+# CHAPTER II
+
+SCOPE OF PROTECTION
+
+#### Article 2
+
+The scope of Protection of Women from acts of Violence includes: a. prevention;
+
+b. Service/Handling; and
+
+c. empowerment.
+
+## Part One
+
+Prevention
+
+#### Article 3
+
+(1) Efforts to prevent Violence Against Women are conducted in an integrated manner by the Regional Government coordinated by the Regional Apparatus responsible for women's empowerment.
+
+(2) Prevention efforts as referred to in paragraph (1) are implemented by:
+
+- a. establishing a working network;
+- b. conducting coordination, integration, and synchronization of Violence prevention based on partnership patterns;
+- c. establishing a Violence prevention system;
+- d. disseminating laws and regulations related to the Protection of Women Victims of Violence; and
+- e. providing information regarding the Protection of Women from acts of Violence through communication, information and education (IEC) media.
+
+#### Article 4
+
+In addition to prevention efforts undertaken by the Regional Government as referred to in Article 3, prevention efforts are also carried out by Families and/or closest relatives, communities, educational institutions and customary institutions.
+
+## Part Two
+
+Service/Treatment
+
+#### Article 5
+
+(1) The provision of Service/Treatment to Victims is carried out in an integrated manner by PPT.
+
+(2) PPT as referred to in paragraph (1) may receive and send case referrals from and/or to other service units in a networked manner.
+
+#### Article 6
+
+Forms of Service/Treatment to Victims include: a. Complaint Handling;
+
+b. health/medical rehabilitation services;
+
+c. Social Rehabilitation services;
+
+d. Law Enforcement and Legal Aid services; and
+
+e. Repatriation and Social Reintegration services.
+
+#### Article 7
+
+The provision of Service/Treatment to Victims is implemented with the principles of:
+
+- a. fast and appropriate;
+- b. safe and comfortable;
+- c. sense of empathy;
+- d. non-discrimination;
+- e. easily accessible;
+- f. no charge; and
+- g. guaranteed confidentiality.
+
+## Part Three
+
+Empowerment
+
+#### Article 8
+
+Forms of empowerment for women Victims of Violence include: a. establishing communities of women Victims of Violence; b. job training;
+
+c. productive economic enterprises and joint business groups; and d. capital assistance.
+
+#### Article 9
+
+Job training as referred to in Article 8 letter b includes: a. skills training;
+
+b. field work practice; and
+
+c. apprenticeship.
+
+#### Article 10
+
+Productive economic enterprises and joint business groups as referred to in Article 8 letter c include:
+
+- a. entrepreneurship skills training; and
+- b. Business implementation assistance.
+
+#### Article 11
+
+Capital assistance as referred to in Article 8 letter d includes:
+
+- a. facilities and infrastructure assistance; and
+- b. working/business capital assistance facilities.
+
+# CHAPTER III
+
+VIOLENCE
+
+#### Article 12
+
+Violence Against Women consists of:
+
+- a. physical violence;
+- b. psychological violence;
+- c. sexual violence;
+- d. neglect;
+- e. exploitation; and/or
+- f. other violence.
+
+#### Article 13
+
+Physical violence as referred to in Article 12 letter a includes acts that result in pain, wounds, injury or disability to the body, miscarriage, fainting, and/or death.
+
+#### Article 14
+
+Psychological violence as referred to in Article 12 letter b includes acts that result in fear, loss of self-confidence, loss of ability to act, sense of helplessness, and/or severe psychological suffering.
+
+#### Article 15
+
+Sexual violence as referred to in Article 12 letter c includes: a. acts in the form of sexual harassment;
+
+b. forced sexual intercourse in an unnatural or unwanted manner; and/or
+
+c. forcing sexual intercourse with others for commercial purposes and/or certain purposes.
+
+#### Article 16
+
+Neglect as referred to in Article 12 letter d includes: a. acts that neglect women within the scope of their household; and/or
+
+b. acts that result in economic dependence.
+
+#### Article 17
+
+Exploitation as referred to in Article 12 letter e includes: a. actions that exploit women economically or sexually with the intention of benefiting oneself or others; b. actions with or without the consent of the Victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or abilities of a person by other parties to obtain material or immaterial benefits; and/or
+
+c. all forms of exploitation of sexual organs or other body organs of the Victim for profit, including but not limited to all prostitution or indecency activities.
+
+#### Article 18
+
+Other violence as referred to in Article 12 letter f includes: a. any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and/or
+
+b. a situation where a person/Victim is ordered to do something in such a way that the person does something contrary to their own will.
+
+# CHAPTER IV
+
+RIGHTS OF WOMEN VICTIMS OF VIOLENCE
+
+#### Article 19
+
+Every woman Victim of Violence has the right to:
+
+- a. have her dignity and honor as a human being respected;
+- b. obtain physical and psychological health recovery from the suffering experienced;
+- c. determine her own decisions;
+- d. obtain information;
+- e. have her identity kept confidential;
+- f. obtain compensation;
+- g. obtain Social Rehabilitation;
+- h. obtain Complaint Handling;
+- i. obtain facilitation in the judicial process; and j. obtain Assistance.
+
+# CHAPTER V
+
+GOVERNMENT AND INSTITUTIONAL RESPONSIBILITIES
+
+## Part One
+
+Regional Government
+
+#### Article 20
+
+(1) The Regional Government is responsible for implementing efforts to Protect Women from acts of Violence in the form of: a. establishing PPT;
+
+b. policy formulation;
+
+c. preparing plans and implementing programs and activities; d. providing facilities and infrastructure support; and
+
+e. supervising the provision of services to Victims with minimum service standards.
+
+(2) In carrying out the responsibilities as referred to in paragraph (1), the Regional Government prepares a Regional Action Plan for the Protection of Women.
+
+(3) Further provisions regarding the Regional Action Plan as referred to in paragraph (2) are regulated by Regent Regulation.
+
+#### Article 21
+
+The responsibilities of the Regional Government as referred to in Article 20 paragraph (1) are coordinated by the Regional Apparatus responsible for women's empowerment.
+
+## Part Two
+
+Community and Family
+
+#### Article 22
+
+Community and Family have the obligation and responsibility to: a. prevent the occurrence of Violence Against Women; b. report if Violence occurs;
+
+c. protect Victims; and
+
+d. provide emergency assistance.
+
+## Part Three
+
+Coordination of Victim Protection
+
+#### Article 23
+
+(1) Efforts to provide and conduct Service/Treatment for Victims are carried out in a networked manner.
+
+(2) The network as referred to in paragraph (1) aims to: a. coordinate and synchronize PPT service handling;
+
+b. develop networks and referral systems; and
+
+c. collect, compile and present Violence reports. (3) The network as referred to in paragraph (2) carries out its duties and functions in accordance with the forms of service as referred to in Article 6.
+
+# CHAPTER VI
+
+PPT
+
+#### Article 24
+
+(1) PPT can be established by the Regional Government, vertical agencies in the Region, and/or community institutions.
+
+(2) PPT as referred to in paragraph (1) consists of elements of the Regional Police, Regional Apparatus responsible for Health, Education, Social Affairs, Community Empowerment, Women's Empowerment and Child Protection as well as Community Social Institutions, which function to provide protection to women from acts of Violence committed in a networked manner.
+
+(3) PPT as referred to in paragraph (1) is tasked with providing services and temporary protection in the form of a Safe House (shelter) for Victims.
+
+(4) In the event that the PPT does not have a Safe House as referred to in paragraph (3), then the Victim is referred to a PPT that has a Safe House.
+
+(5) Provisions regarding the establishment, composition of the management team and organizational structure of the PPT established by the Regional Government are stipulated by Regent's Decree.
+
+# CHAPTER VII
+
+INFORMATION AND REPORTING SYSTEM
+
+#### Article 25
+
+The Regional Apparatus responsible for women's empowerment implements the information system and submits reports on the implementation of Women's Protection to the Regent in accordance with the provisions of laws and regulations.
+
+# CHAPTER VIII
+
+FUNDING
+
+#### Article 26
+
+Funding for Women's Protection activities carried out by the Regional Government is sourced from the Regional Revenue and Expenditure Budget and/or other legitimate sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER IX
+
+COMMUNITY PARTICIPATION
+
+#### Article 27
+
+(1) The community participates in the implementation of Women's Protection.
+
+(2) Community participation as referred to in paragraph (1) is in the form of: a. establishing family partners at the urban village/village level by the community;
+
+b. establishing women's protection units in community organizations;
+
+c. conducting socialization of women's rights independently;
+
+d. conducting prevention efforts if finding indications of Violence Against Women in the community;
+
+e. providing first aid to Victims; and
+
+f. reporting to the competent authorities if Violence Against Women occurs in their environment. (3) Community participation as referred to in paragraph (1) can be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and/or mass media.
+
+# CHAPTER X
+
+GUIDANCE AND SUPERVISION
+
+#### Article 28
+
+(1) The Regional Government conducts guidance and supervision of the implementation of Women's Protection.
+
+(2) Guidance and supervision as referred to in paragraph (1) includes:
+
+- a. coordination;
+- b. guidance;
+- c. education and training; and
+- d. monitoring and evaluation.
+  - (3) Coordination as referred to in paragraph (2) letter a covers planning and implementation.
+  - (4) Guidance as referred to in paragraph (2) letter b covers planning, implementation, procedures, funding, quality, control, and supervision.
+  - (5) Education and training as referred to in paragraph (2) letter c is carried out in accordance with the provisions of laws and regulations.
+  - (6) Monitoring and evaluation as referred to in paragraph (2) letter d is carried out based on laws and regulations periodically every 6 (six) months.
+
+# CHAPTER XI
+
+CLOSING PROVISIONS
+
+#### Article 29
+
+This Regional Regulation comes into force on the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Sanggau Regency.
+
+Enacted in Sanggau on 30 December 2019
+
+REGENT OF SANGGAU,
+
+sgd
+
+PAOLUS HADI
+
+Promulgated in Sanggau on 30 December 2019
+
+REGIONAL SECRETARY OF SANGGAU REGENCY,
+
+sgd
+
+KUKUH TRIYATMAKA
+
+REGIONAL GAZETTE OF SANGGAU REGENCY YEAR 2019 NUMBER 12. NOREG REGIONAL REGULATION OF SANGGAU REGENCY, WEST KALIMANTAN PROVINCE : ( 12 ) / ( 2019 )
+
+True copy of the original
+
+Acting HEAD OF LEGAL AND HUMAN RIGHTS DIVISION
+
+BAMBANG, S.H., M.Hum.
+
+Administrative Officer
+
+NIP 19821026 201001 1 010
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF SANGGAU REGENCY
+
+NUMBER 12 OF 2019
+
+CONCERNING
+
+PROTECTION OF WOMEN FROM ACTS OF VIOLENCE
+
+I. GENERAL
+
+Acts of Violence Against Women constitute a violation of human rights, therefore it is necessary to protect their dignity and honor as well as guarantee their right to life in accordance with their nature and destiny without discrimination.
+
+In order to prevent and address Violence Against Women in Sanggau Regency so as to avoid Violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to establish a Regional Regulation on Women's Protection.
+
+Women's Protection constitutes all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by giving consistent and systematic attention.
+
+Existing laws and regulations related to the Protection of Women Victims of Violence have not yet regulated Women's Protection efforts in the Region, therefore institutional and regulatory support at the Regional level is needed to ensure its implementation.
+
+This Regional Regulation regulates Women's Protection efforts particularly in the form of prevention, Services/Handling, and empowerment of women in Sanggau Regency.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Number 1
+
+Sufficiently clear.
+
+Number 2
+
+Sufficiently clear.
+
+Number 3
+
+Sufficiently clear.
+
+Number 4
+
+Sufficiently clear.
+
+Number 5
+
+Sufficiently clear.
+
+Number 6
+
+Sufficiently clear.
+
+Number 7
+
+Sufficiently clear.
+
+Number 8
+
+Sufficiently clear.
+
+Number 9
+
+Sufficiently clear.
+
+Number 10
+
+Sufficiently clear.
+
+Number 11
+
+Sufficiently clear.
+
+Number 12
+
+Sufficiently clear.
+
+Number 13
+
+Sufficiently clear.
+
+Number 14
+
+What is meant by efforts from the promotive aspect is efforts to promote/socialize about acts of Violence to the community, with the aim of increasing community awareness and sensitivity to the dangers of Violence threatening women.
+
+What is meant by efforts from the preventive aspect is efforts that prioritize the prevention aspect targeting communities vulnerable to being affected/becoming Victims of Violence and receiving its impact. Preventive efforts can be carried out through community empowerment in the form of training activities and others.
+
+What is meant by efforts from the curative aspect is efforts carried out in the form of handling for Victims of Violence who need handling according to their needs, namely health rehabilitation handling if the Victim suffers the impact of Violence physically or psychologically, providing Assistance and Law Enforcement for Victims who need Assistance and Law Enforcement, and so on.
+
+What is meant by the rehabilitative aspect is efforts carried out as efforts to recover Victims of Violence both physically, psychologically and psychosocially.
+
+Number 15
+
+Sufficiently clear.
+
+Number 16
+
+Sufficiently clear.
+
+Number 17
+
+Sufficiently clear.
+
+Number 18
+
+Sufficiently clear.
+
+Number 19
+
+Sufficiently clear.
+
+Number 20
+
+Sufficiently clear.
+
+#### Article 2
+
+Sufficiently clear.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Letter a
+
+Threat of violence namely any act unlawfully directly or indirectly including among others through social media networks and communication devices.
+
+Letter b
+
+Sufficiently clear.
+
+#### Article 19
+
+Point a
+
+What is meant by "the right to have one's dignity respected as a human being" is upholding human rights. Point b
+
+Sufficiently clear.
+
+Point c
+
+Sufficiently clear.
+
+Point d
+
+What is meant by "the right to obtain information" is the right to obtain explanations, questions, ideas, and signs containing value, meaning and messages, whether data, facts or their explanations that can be seen, heard and read, presented in various packages and formats in accordance with the development of information and communication technology, whether electronic or non-electronic, related to acts of Violence.
+
+Point e
+
+Sufficiently clear.
+
+Point f
+
+What is meant by "the right to obtain compensation" includes: economic empowerment, Repatriation costs, health insurance and education or skills. Point g
+
+What is meant by "the right to obtain Social Rehabilitation" includes: access to medical services for physical and psychological recovery, Legal Assistance to restore civil rights, restoration of good name, and citizenship.
+
+Point h
+
+What is meant by "the right to obtain Complaint Handling" is the availability of a special integrated service unit by officers. Point i
+
+Sufficiently clear.
+
+Point j
+
+What is meant by "the right to obtain Assistance" includes among others: psychologists, psychiatrists and health experts, clergy, advocates and Family members.
+
+#### Article 20
+
+Paragraph (1)
+
+Point a
+
+Sufficiently clear.
+
+Point b
+
+Sufficiently clear.
+
+Point c
+
+Sufficiently clear.
+
+Point d
+
+Sufficiently clear.
+
+Point e
+
+What is meant by minimum service standards is the performance benchmark of the integrated service unit in providing 5 (five) types of services for women Victims of Violence, namely Complaint Handling, Health Services, Social Rehabilitation, Enforcement and Legal Assistance, as well as Repatriation and Social Reintegration.
+
+Paragraph (2)
+
+Sufficiently clear.
+
+Paragraph (3)
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF SANGGAU REGENCY NUMBER 12.

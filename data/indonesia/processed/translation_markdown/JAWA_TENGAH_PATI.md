@@ -1,10 +1,12 @@
-# IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN
+# COPY
+
+COPY
 
 REGENT OF PATI
 
 PROVINCE OF CENTRAL JAVA
 
-# REGIONAL REGULATION OF PATI REGENCY
+REGIONAL REGULATION OF PATI REGENCY
 
 NUMBER 4 OF 2015
 
@@ -12,191 +14,208 @@ CONCERNING
 
 IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN
 
-BY THE GRACE OF ALMIGHTY GOD
+BY THE GRACE OF GOD ALMIGHTY
 
-THE REGENT OF PATI,
+REGENT OF PATI,
 
-Considering:
- 
- 
- 
- 
- 
- 
- 
-a. that all forms of violence, especially gender-based violence and violence against children are violations of human rights and crimes against human dignity as well as forms of discrimination;
-b. that victims of gender-based violence and children must receive protection from threats of violence within the scope of households and communities from the Regional Government;
-c. that based on Article 59 of Law Number 23 of 2002 concerning Child Protection, the Government and other state institutions are obliged and responsible to provide special protection to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (drugs) abuse, children victims of kidnapping, sale and trafficking, children victims of physical and/or mental violence, children with disabilities, and children victims of abuse and neglect;
-d. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning the Implementation of Protection for Victims of Gender-Based Violence and Children;
+Considering : a. that all forms of violence, especially gender-based violence and against children, are violations of human rights and crimes against human dignity as well as forms of discrimination;
 
-In View of:
- 
- 
- 
- 
- 
- 
- 
-1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+b. that victims of gender-based violence and children must receive protection from threats of violence within the household and community from the Regional Government;
+
+c. that based on Article 59 of Law Number 23 of 2002 concerning Child Protection, the Government and other state institutions are obliged and responsible to provide special protection to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances (drugs) abuse, children who are victims of kidnapping, sale and trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of abuse and neglect;
+
+d. that based on the considerations as referred to in letters a, b and c, it is necessary to establish a Regional Regulation concerning the Implementation of Protection for Victims of Gender-Based Violence and Children;
+
+In View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
 2. Law Number 13 of 1950 concerning the Establishment of Regency Regions within the Province of Central Java;
+
 3. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143);
+
 4. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention of The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
+
 5. Law Number 20 of 1999 concerning Ratification of ILO Convention Number 138 concerning Minimum Age for Admission to Employment (State Gazette of the Republic of Indonesia of 1999 Number 56, Supplement to the State Gazette of the Republic of Indonesia Number 3835);
-6. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
-7. Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941);
+
+6. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of
+
+the Republic of Indonesia Number 3886);
+
+7. Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst
+
+Forms of Child Labour (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941);
+
 8. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);
+
 9. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
 10. Law Number 13 of 2006, concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);
-11. Law Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+11. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
 12. Law Number 36 of 2009 concerning Health (State Gazette of the Republic of Indonesia of 2009 Number 144, Supplement to the State Gazette of the Republic of Indonesia Number 5063);
-13. Law Number 12 of 2011 concerning Formation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+13. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
 14. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);
+
 15. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587), as amended by Government Regulation in Lieu of Law Number 2 of 2014 concerning Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 246, Supplement to the State Gazette of the Republic of Indonesia Number 5589);
-16. Government Regulation Number 2 of 1988 concerning Child Welfare Efforts for Children with Problems (State Gazette of the Republic of Indonesia of 1988 Number 2, Supplement to the State Gazette of the Republic of Indonesia Number 3367);
+
+16. Government Regulation Number 2 of 1988 concerning Child Welfare Efforts for Children with Problems (State Gazette of the Republic of Indonesia of 1988 Number 2, Supplement to the State Gazette of the Republic of
+
+Indonesia Number 3367);
+
 17. Government Regulation Number 6 of 1988 concerning Coordination of Vertical Agency Activities in the Regions (State Gazette of the Republic of Indonesia of 1988 Number 10, Supplement to the State Gazette of the Republic of Indonesia Number 3373);
-18. Government Regulation Number 79 of 2005 concerning Guidelines for Guidance and Supervision of Regional Government Administration (State Gazette of the Republic of Indonesia of 2005 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 4593);
-19. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
-20. Government Regulation Number 38 of 2007 concerning Division of Government Affairs Between the Government, Provincial Regional Government and Regency/City Regional Government (State Gazette of the Republic of Indonesia of 2007 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 4737);
-21. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of Criminal Acts of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);
-22. Regional Regulation of Central Java Province Number 3 of 2009 concerning Implementation of Protection for Victims of Gender-Based Violence and Children (Regional Gazette of the Province of 2009 Number 3, Supplement to the Regional Gazette of Central Java Province Number 20);
+
+18. Government Regulation Number 79 of 2005 concerning Guidelines for the Development and Supervision of Regional Government Administration (State Gazette of the Republic of Indonesia of 2005 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 4593);
+
+19. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+
+20. Government Regulation Number 38 of 2007 concerning the Division of Government Affairs between the Government, Provincial Regional Governments and Regency/Municipal Regional Governments (State Gazette of the Republic of Indonesia of 2007 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 4737);
+
+21. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);
+
+22. Regional Regulation of Central Java Province Number 3 of 2009 concerning the Implementation of Protection for Victims of Gender-Based Violence and Children (Regional Gazette of the Province of 2009 Number 3, Supplement to the Regional Gazette of Central Java Province Number 20);
+
 23. Regional Regulation of Pati Regency Number 3 of 2008 concerning Government Affairs of Pati Regency (Regional Gazette of Pati Regency of 2008 Number 3, Supplement to the Regional Gazette of Pati Regency Number 22);
 
 With Mutual Approval
 
-REGIONAL HOUSE OF REPRESENTATIVES OF PATI REGENCY
-
-and
+REGIONAL HOUSE OF REPRESENTATIVES OF PATI REGENCY and
 
 REGENT OF PATI
 
-HAS DECIDED:
+DECIDES :
 
-To Establish:
-
-REGIONAL REGULATION CONCERNING IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN.
+To Establish : REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN.
 
 # CHAPTER I
 
-## GENERAL PROVISIONS
+GENERAL PROVISIONS
 
 #### Article 1
 
 In this Regional Regulation, what is meant by:
 
-1. Region is Pati Regency.
-2. Regional Government is the Regent and Regional Apparatus as elements of regional government administration.
-3. Regent is the Regent of Pati.
-4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD is the Regional Apparatus Work Unit that oversees women's empowerment and child protection.
-5. Child is a person who has not yet reached 18 (eighteen) years of age, including a child still in the womb.
-6. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.
-7. Protection is all efforts aimed at providing a sense of security and fulfilling the rights of victims carried out by family, integrated services, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.
-8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.
-9. Protection implementation is a series of activities aimed at preventing violence, providing protection and recovery services and social reintegration, conducting coordination and cooperation, and increasing community participation carried out by the relevant SKPD.
-10. Violence is any form of unlawful act that can result in or cause danger to a person whether physical, sexual, psychological or economic in nature.
-11. Gender-based Violence is any form of restriction, exclusion, differentiation and all forms of treatment carried out on the basis of sex and aimed at reducing, eliminating the recognition, enjoyment or use of human rights, the consequences of which are or are not limited to physical, sexual, psychological, and economic violence.
-12. Violence against children is any form of restriction, differentiation, exclusion and all forms of treatment carried out against children, the consequences of which are and are not limited to physical, sexual, psychological, and economic violence.
-13. Physical violence is any act that results in pain, illness or serious injury.
-14. Sexual violence is any act in the form of forced sexual intercourse, forced sexual intercourse in an unnatural and/or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.
-15. Psychological violence or psychic violence is any act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.
-16. Economic violence is any act that may include restricting a person's right to work decently inside or outside the home and also acts of neglecting family members in the form of not providing a decent living, care or maintenance.
-17. Victim of gender-based violence is a person who because of their gender experiences physical, psychological, economic, social, sexual suffering, and other losses resulting from state policies, acts of violence and or threats of violence within the scope of the household and community.
-18. Child victim of violence is a child who receives harsh treatment both physically, psychologically, economically, socially, sexually, and other losses resulting from state policies, acts of violence and or threats of violence within the scope of the household and community.
-19. Victim recovery is all efforts to strengthen victims of gender-based violence and violence against children to be more empowered, whether physically, psychologically, socially, economically or sexually.
-20. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the purpose of self-strengthening of victims of gender-based violence and violence against children to resolve the problems they face.
-21. Integrated service is a series of activities to provide protection for victims of gender-based violence and children carried out jointly by relevant agencies or institutions as a unified implementation, prevention efforts, health services, psychosocial rehabilitation, repatriation, social reintegration, and legal assistance for victims of gender-based violence and children.
-22. Integrated Service Center for Victims of Gender-Based Violence and Children hereinafter abbreviated as P2TK2BGA is a unified unit that carries out integrated functions for victims of gender-based violence and children in the Pati Regency area.
-23. Social reintegration is a process of preparing the community and victims that supports the reunification of victims into the family environment, family substitutes who can provide protection and fulfillment of victims' needs.
-24. Safe house (shelter) is a temporary residence used to provide protection to victims in accordance with specified operational standards.
-25. Community is individuals, families, groups, social organizations, and/or community organizations.
+- 1. Region is Pati Regency.
+- 2. Regional Government is the Regent and Regional Apparatus as elements of regional government administration.
+- 3. Regent is the Regent of Pati.
+- 4. Regional Apparatus Working Unit, hereinafter abbreviated as SKPD, is the Regional Apparatus Working Unit responsible for women's empowerment and child protection.
+- 5. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.
+- 6. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.
+- 7. Protection is all efforts aimed at providing a sense of security and fulfilling the rights of victims carried out by family members, integrated services, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court orders.
+- 8. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.
+- 9. Implementation of protection is a series of activities aimed at preventing the occurrence of violence, providing protection and recovery services and social reintegration, carrying out coordination and cooperation, and increasing community participation conducted by the responsible SKPD.
+- 10. Violence is any form of unlawful act that may result in or cause harm to a person whether physical, sexual, psychological or economic in nature.
+- 11. Gender-based Violence is any form of restriction, exclusion, distinction and all forms of treatment carried out on the basis of sex and aimed at reducing or eliminating the recognition, enjoyment or exercise of human rights, the consequences of which include but are not limited to physical, sexual, psychological, and economic violence.
+- 12. Violence against children is any form of restriction, distinction, exclusion and all forms of treatment carried out against children, the consequences of which include but are not limited to physical, sexual, psychological, and economic violence.
+- 13. Physical violence is any act that results in pain, illness or serious injury. 14. Sexual violence is any act in the form of coercion of sexual relations, coercion of unnatural and/or unwanted sexual relations, coercion of sexual relations with others for commercial purposes and/or certain purposes.
+- 15. Psychological violence or psychic violence is any act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.
+- 16. Economic violence is any act that may include restricting a person's right to work properly inside or outside the home and also the act of neglecting family members in the form of not providing a proper living, care or maintenance.
+- 17. Victim of gender-based violence is a person who, because of their gender, experiences physical, psychological, economic, social, sexual suffering, and other losses resulting from state policies, acts of violence and/or threats of violence within the household and community sphere.
+- 18. Child victim of violence is a child who receives harsh treatment either physically, psychologically, economically, socially, sexually, and other losses resulting from state policies, acts of violence and/or threats of violence within the household and community sphere.
+- 19. Victim recovery is all efforts to empower victims of gender-based violence and violence against children to become more empowered, whether physically, psychologically, socially, economically or sexually.
+- 20. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the purpose of self-empowerment of victims of gender-based violence and violence against children to resolve the problems they face.
+- 21. Integrated service is a series of activities to provide protection for victims of gender-based violence and children carried out jointly by related agencies or institutions as a unified implementation, prevention efforts, health services, psychosocial rehabilitation, repatriation, social reintegration, and legal assistance for victims of gender-based violence and children.
+- 22. Integrated Service Center for Victims of Gender-Based Violence and Children, hereinafter abbreviated as P2TK2BGA, is a unified unit that carries out integrated functions for victims of gender-based violence and children in the Pati Regency area.
+- 23. Social reintegration is a process of preparing the community and victims that supports the reunification of victims into the family environment, family substitutes who can provide protection and fulfill the needs of victims.
+- 24. Shelter is a temporary residence used to provide protection to victims in accordance with determined operational standards.
+- 25. Community is individuals, families, groups, social organizations, and/or community organizations.
 
 # CHAPTER II
 
-## PRINCIPLES AND OBJECTIVES
+PRINCIPLES AND OBJECTIVES
 
 #### Article 2
 
-Protection of victims of gender-based violence and children is based on Pancasila and grounded in the 1945 Constitution, as well as basic principles that include:
-a. non-discrimination;
+Protection of victims of gender-based violence and children is based on Pancasila and grounded in the 1945 Constitution, as well as basic principles that include: a. non-discrimination;
+
 b. best interests of victims;
+
 c. justice and gender equality;
+
 d. victim protection;
+
 e. maternal survival;
-f. child survival, growth and development;
-g. respect for the child's opinion;
-h. openness;
+
+f. child survival, growth and development; g. respect for the child's opinion;
+
+h. transparency;
+
 i. integration;
+
 j. not blaming victims;
+
 k. empowering;
+
 l. victim confidentiality; and
+
 m. decision-making in the hands of victims.
 
 #### Article 3
 
-The objectives of protection of victims of gender-based violence and children are:
-a. to prevent all forms of gender-based violence and violence against children, occurring within the household and/or community;
-b. to provide protection;
-c. to provide legal assistance;
-d. to seek recovery and social reintegration;
-e. to provide a sense of security to victims; and
-f. to increase community participation.
+The objectives of protecting victims of gender-based violence and children are:
+
+- a. to prevent all forms of gender-based violence and violence against children, occurring within the household and/or community sphere;
+- b. to provide protection;
+- c. to provide legal assistance;
+- d. to seek recovery and social reintegration; e. to provide a sense of security to victims; and f. to increase community participation.
 
 # CHAPTER III
 
-## RIGHTS OF VICTIMS
+VICTIMS' RIGHTS
 
 #### Article 4
 
-1. Every victim of gender-based violence and child victim of violence has the right to:
-a. obtain protection for the security of themselves, their family, and their property, and be free from threats related to information that will be, is being, or has been given;
-b. participate in the process of selecting and determining the form of protection and security support;
-c. be free from ensnaring questions;
-d. obtain information regarding case developments and court decisions;
-e. obtain fast, appropriate, comfortable, and needs-based integrated services;
-f. recovery and social reintegration; and
-g. obtain legal, psychological, spiritual, economic, social assistance and interpreters.
-2. The rights of victims as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.
-3. Further provisions regarding the procedures for obtaining Rights as referred to in paragraph (1) shall be regulated by Regent Regulation.
+(1) Every victim of gender-based violence and child victim of violence has the right to:
+
+- a. obtain protection for the security of themselves, their family, and their property, and be free from threats relating to testimony that will be, is being, or has been given;
+- b. participate in the process of selecting and determining the form of protection and security support;
+- c. be free from ensnaring questions;
+- d. obtain information regarding case developments and court decisions;
+- e. obtain integrated services that are fast, appropriate, comfortable, and in accordance with needs;
+- f. recovery and social reintegration; and
+- g. obtain legal, psychological, spiritual, economic, social assistance and interpreters. (2) The rights of victims as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.
+  - (3) Further provisions regarding the procedures for obtaining Rights as referred to in paragraph (1) shall be regulated by Regent Regulation.
 
 # CHAPTER IV
 
-## OBLIGATIONS AND AUTHORITY OF REGIONAL GOVERNMENT
+OBLIGATIONS AND AUTHORITIES OF REGIONAL GOVERNMENT
 
 #### Article 5
 
-1. In implementing protection for victims of gender-based violence and children, the Regional Government is obligated to:  
-a. prevent the occurrence of violence;  
-b. provide protection for victims of violence;  
-c. provide recovery and social reintegration services for victims;  
-d. encourage and increase community participation;  
-e. cooperate with service providers in efforts to prevent, protect and recover victims of violence; and  
-f. supervise the implementation of services for victims involving the community.  
-2. To carry out the obligations as referred to in paragraph (1), the Regional Government has the authority to:  
-a. formulate policies and programs on the elimination of gender-based violence and violence against children;  
-b. facilitate the implementation of integrated services;  
-c. provide facilities and infrastructure;  
-d. increase the capacity of service provider institutions;  
-e. coordinate and cooperate in the implementation of protection for victims of gender-based violence and children;  
-f. encourage community participation; and  
-g. conduct monitoring and evaluation.  
-3. The Regional Government in carrying out obligations and authority as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands, wives or other persons who are legally responsible for the victim.
+(1) In providing protection to victims of gender-based violence and children, the Regional Government is obliged to:
+
+- a. prevent the occurrence of violence;
+- b. provide protection for victims of violence; c. provide recovery services and social reintegration for victims;
+- d. encourage and increase community participation;
+- e. cooperate with service providers in efforts to prevent, protect and recover victims of violence; and
+- f. supervise the provision of services to victims involving the community.
+  - (2) To carry out the obligations as referred to in paragraph (1), the Regional Government has the authority to:
+- a. formulate policies and programs on the elimination of gender-based violence and violence against children; b. facilitate the implementation of integrated services; c. provide facilities and infrastructure;
+- d. enhance the capacity of service provider institutions; e. coordinate and cooperate in the implementation of protection for victims of gender-based violence and children;
+- f. encourage community participation; and
+- g. conduct monitoring and evaluation.
+  - (3) The Regional Government in carrying out the obligations and authorities as referred to in paragraph (1) and paragraph (2) must consider the rights and obligations of parents, guardians, husbands, wives or other persons legally responsible for the victim.
 
 # CHAPTER V
 
-## IMPLEMENTATION OF PROTECTION
+IMPLEMENTATION OF PROTECTION
 
 ## Part One
 
-Institutional Framework
+Institution
 
 #### Article 6
 
-1. In implementing protection for victims of gender-based violence and child victims of violence, the Regional Government is assisted by P2TK2BGA.  
-2. Further provisions regarding the procedures for implementing protection for victims of violence as referred to in paragraph (1) shall be regulated in a Regent Regulation.
+(1) In providing protection to victims of gender-based violence and child victims of violence, the Regional Government is assisted by P2TK2BGA.
+
+(2) Further provisions regarding the procedures for providing protection to victims of violence as referred to in paragraph (1) shall be regulated in a Regent Regulation.
 
 #### Article 7
 
-1. P2TK2BGA as referred to in Article 6 paragraph (1) shall be established by the Regional Government in accordance with applicable laws and regulations.  
-2. P2TK2BGA as referred to in paragraph (1) shall consist of members from Regional Government elements, non-governmental institutions, health service institutions, law enforcement officials, professional personnel, volunteer assistants, social workers, religious leaders, safe houses (shelters), social rehabilitation centers, and other elements as needed.
+(1) P2TK2BGA as referred to in Article 6 paragraph (1) shall be established by the Regional Government in accordance with applicable laws and regulations.
+
+(2) The membership of P2TK2BGA as referred to in paragraph (1) consists of elements of the Regional Government, non-governmental organizations, health service institutions, law enforcement officials, professional personnel, volunteer companions, social workers, religious leaders, shelters, social rehabilitation centers, and other elements as needed.
 
 ## Part Two
 
@@ -204,7 +223,7 @@ Integrated Services
 
 #### Article 8
 
-The implementation of P2TK2BGA shall be coordinated by SKPD.
+The implementation of P2TK2BGA is coordinated by SKPD.
 
 #### Article 9
 
@@ -216,9 +235,10 @@ Prevention Efforts
 
 #### Article 10
 
-Prevention efforts as referred to in Article 9 include:  
-a. conducting communication, information, education and increasing capacity building on gender-based violence and violence against children; and  
-b. socializing laws and regulations related to gender-based violence and violence against children.
+Prevention efforts as referred to in Article 9 include:
+
+- a. organizing communication, information, education and enhancing capacity building on gender-based violence and violence against children; and
+- b. socializing laws and regulations related to gender-based violence and violence against children.
 
 ## Part Four
 
@@ -226,15 +246,15 @@ Recovery and Social Reintegration Efforts
 
 #### Article 11
 
-1. Recovery and Social Reintegration efforts as referred to in Article 9 include:  
-a. providing physical recovery at health service institutions;  
-b. providing medicolegal services;  
-c. assisting the return of victims;  
-d. providing temporary protection in safe houses (shelters);  
-e. providing psychosocial recovery and assistance;  
-f. providing spiritual guidance services; and  
-g. conducting family and community preparation, economic empowerment, and return to school and/or other educational institutions.  
-2. Further provisions regarding the procedures for recovery and social reintegration efforts as referred to in paragraph (1) shall be regulated by Regent Regulation.
+(1) Recovery and Social Reintegration efforts as referred to in Article 9 include:
+
+- a. providing physical recovery at health service institutions;
+- b. providing medicolegal services;
+- c. assisting the repatriation of victims;
+- d. providing temporary protection in shelters;
+- e. providing psychosocial recovery and assistance;
+- f. providing spiritual guidance services; and g. preparing families and communities, economic empowerment, and returning to school and/or other educational institutions.
+  - (2) Further provisions regarding the procedures for recovery and social reintegration efforts as referred to in paragraph (1) shall be regulated by Regent Regulation.
 
 ## Part Five
 
@@ -242,10 +262,10 @@ Legal Protection
 
 #### Article 12
 
-Legal protection as referred to in Article 9 includes:  
-a. providing protection in safe houses (shelters);  
-b. providing assistance during the legal process at every stage of examination; and  
-c. appointing guardianship for child victims of violence in accordance with applicable provisions.
+Legal protection as referred to in Article 9 includes:
+
+- a. providing protection in shelters; b. providing assistance during the legal process at each stage of examination; and
+- c. appointing guardianship for child victims of violence in accordance with applicable provisions.
 
 ## Part Six
 
@@ -253,10 +273,11 @@ Coordination and Cooperation
 
 #### Article 13
 
-Coordination and cooperation as referred to in Article 9 include:  
-a. conducting coordination and cooperation with integrated services between regencies/cities;  
-b. conducting coordination and cooperation with service provider institutions for victims of gender-based violence and children; and  
-c. conducting coordination and consultation with the Central Java Provincial Government.
+Coordination and cooperation as referred to in Article 9 include:
+
+- a. coordinating and cooperating with integrated services among regencies/cities;
+- b. coordinating and cooperating with service provider institutions for victims of gender-based violence and children; and
+- c. coordinating and consulting with the Provincial Government of Central Java.
 
 ## Part Seven
 
@@ -264,11 +285,12 @@ Efforts to Increase Community Participation
 
 #### Article 14
 
-Efforts to Increase Community Participation as referred to in Article 9 shall be conducted through:  
-a. providing emergency assistance;  
-b. providing advocacy to victims and/or the community regarding the handling of cases of gender-based violence and violence against children;  
-c. assisting the process of submitting applications for protection orders; and  
-d. conveying information to authorized officials related to cases of gender-based violence and violence against children.
+Efforts to Increase Community Participation as referred to in Article 9 shall be conducted through:
+
+- a. providing emergency assistance;
+- b. providing advocacy to victims and/or the community regarding the handling of cases of gender-based violence and violence against children;
+- c. assisting the process of submitting applications for protection orders; and
+- d. conveying information to the competent authorities related to cases of gender-based violence and violence against children.
 
 ## Part Eight
 
@@ -276,82 +298,91 @@ Monitoring and Reporting
 
 #### Article 15
 
-Monitoring and reporting as referred to in Article 9 shall be conducted on all aspects of integrated service activities in the form of supervision, documentation and evaluation of cases of gender-based violence and violence against children.
+Monitoring and reporting as referred to in Article 9 shall be conducted on all aspects of integrated service activities in the form of implementation of supervision, documentation and evaluation of cases of gender-based violence and violence against children.
 
 # CHAPTER VI
 
-## ASSISTANCE
+ASSISTANCE
 
 #### Article 16
 
-Assistance shall be provided by persons or institutions that have professional competence in their field and cooperate with P2TK2BGA.
+Assistance shall be provided by persons or institutions having professional competence in their field and cooperating with P2TK2BGA.
 
 # CHAPTER VII
 
-## COOPERATION
+COOPERATION
 
 #### Article 17
 
-1. In implementing protection for victims of gender-based violence and children, the Regional Government shall cooperate with the Government, Provincial Government, Regency/City Government and/or other institutions.  
-2. Cooperation between the Regional Government and the Government and Provincial Government as referred to in paragraph (1) includes consultation, coordination and reporting.  
-3. Cooperation between the Regional Government and Regency/City Government or other institutions as referred to in paragraph (1) includes coordination, advocacy, referral, repatriation, social reintegration, facilitation of integrated service system development, monitoring, evaluation and reporting.
+(1) In providing protection for victims of gender-based violence and children, the Regional Government cooperates with the Government, Provincial Government, Regency/City Government and/or other institutions.
+
+(2) Cooperation between the Regional Government and the Government and Provincial Government as referred to in paragraph (1) includes consultation, coordination and reporting.
+
+(3) Cooperation between the Regional Government and Regency/City Government or other institutions as referred to in paragraph (1) includes coordination, advocacy, referral, repatriation, social reintegration, facilitation of integrated service system development, monitoring, evaluation and reporting.
 
 # CHAPTER VIII
 
-## CONTROL, GUIDANCE AND SUPERVISION
+CONTROL, GUIDANCE AND SUPERVISION Article 18
 
-#### Article 18
+(1) Control, guidance and supervision of the implementation of protection for victims of gender-based violence and violence against children shall be conducted by the Regent.
 
-1. Control, guidance and supervision of the implementation of protection for victims of gender-based violence and violence against children shall be conducted by the Regent.  
-2. The implementation of control, guidance and supervision as referred to in paragraph (1) shall be carried out on a daily basis by SKPD.
+(2) The implementation of control, guidance and supervision as referred to in paragraph (1) shall be carried out daily by SKPD.
 
 # CHAPTER IX
 
-## CLOSING PROVISIONS
+CLOSING PROVISIONS
 
 #### Article 19
 
-Implementing regulations for this Regional Regulation shall be stipulated no later than 6 (six) months from the promulgation of this Regional Regulation.
+Implementing regulations of this Regional Regulation shall be stipulated no later than 6 (six) months from the promulgation of this Regional Regulation.
 
 #### Article 20
 
-This Regional Regulation shall come into force on the date of promulgation.  
+This Regional Regulation shall come into force on the date of promulgation.
 
-In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Pati Regency.  
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placement in the Regional Gazette of Pati Regency.
 
-Stipulated in Pati  
+Enacted in Pati on 21 January 2015
 
-on 21 January 2015  
+REGENT OF PATI,
 
-REGENT OF PATI,  
+Signed
 
-HARYANTO  
+HARYANTO
 
-Promulgated in Pati  
+Promulgated in Pati on 21 January 2015
 
-on 21 January 2015
+REGIONAL SECRETARY OF PATI REGENCY,
 
-REGIONAL SECRETARY OF PATI REGENCY,  
+Signed
 
-DESMON HASTIONO  
+DESMON HASTIONO
 
-REGIONAL GAZETTE OF PATI REGENCY YEAR 2015 NUMBER 4  
+REGIONAL GAZETTE OF PATI REGENCY YEAR 2015 NUMBER 4
 
-REGISTRATION NUMBER OF REGIONAL REGULATION OF PATI REGENCY, CENTRAL JAVA PROVINCE: (04/2015)
+REGISTRATION NUMBER OF REGIONAL REGULATION OF PATI REGENCY, CENTRAL JAVA PROVINCE : (04/2015)
 
-# ELUCIDATION OF REGIONAL REGULATION OF PATI REGENCY
+ELUCIDATION
 
-NUMBER 4 OF 2015 CONCERNING IMPLEMENTATION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN
+OF
 
-##### I. GENERAL
+REGIONAL REGULATION OF PATI REGENCY
 
-Gender-based and child violence is a social phenomenon that has existed since ancient times and has become increasingly prevalent recently. In fact, gender-based and child violence continues to increase, both in number and in the forms and modus operandi which are becoming more diverse. Rape, sexual harassment, trafficking of women and children, domestic violence, sexual exploitation, violence against domestic workers, pornography, exploitation of migrant workers, and neglect, will apparently continue to be encountered in daily life, both in the domestic sphere (household) and public sphere.
+NUMBER 4 OF 2015
 
-The causal factors of gender-based and child violence are very complex and interrelated with one another. These factors include, among others, legal instruments that have not been able to provide protection to victims, the concept that women and children are family property (assets), media that do not support reporting on violence against women and children, suboptimal public services, customs that sometimes legalize violence, poverty issues, erroneous interpretation of religious teachings, all of which are wrapped in a patriarchal culture.
+REGARDING
 
-In order to realize protection for victims of gender-based and child violence from the threat of acts of violence as mentioned above, the Regional Government deems it necessary to establish a Regional Regulation on the Implementation of Protection for Victims of Gender-Based and Child Violence.
+PROVISION OF PROTECTION FOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILDREN
 
-##### II. ARTICLE BY ARTICLE
+I. GENERAL
+
+Gender-based violence and violence against children is a social phenomenon that has existed since ancient times and has become increasingly prevalent recently. In fact, gender-based violence and violence against children continues to increase, both in number and in the forms and modus operandi which are increasingly diverse. Rape, sexual harassment, trafficking of women and children, domestic violence, sexual exploitation, violence against domestic workers, pornography, exploitation of migrant workers, and neglect, will apparently continue to be encountered in daily life, both in the domestic sphere (household) and in public.
+
+The causal factors of gender-based violence and violence against children are very complex and interrelated. These factors include, among others, legal instruments that have not been able to provide protection to victims, the concept that women and children are family property (assets), media that do not adequately support reporting on violence against women and children, suboptimal public services, customs that sometimes legalize violence, poverty issues, erroneous interpretation of religious teachings, all of which are wrapped in a patriarchal culture.
+
+In order to realize protection for victims of gender-based violence and violence against children from the threat of acts of violence as mentioned above, the Regional Government deems it necessary to establish a Regional Regulation on the Provision of Protection for Victims of Gender-Based Violence and Children.
+
+II. ARTICLE BY ARTICLE
 
 #### Article 1
 
@@ -359,40 +390,55 @@ Sufficiently clear.
 
 #### Article 2
 
-Point a  
-What is meant by "non-discrimination" is protection for all victims of gender-based and child violence without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status and physical or mental condition.
+Point a
 
-Point b  
-What is meant by "best interests of the victim" is that all actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, the best interests of the victim must be the primary consideration.
+What is meant by "non-discrimination" is protection for all victims of gender-based violence and violence against children without distinction as to ethnicity, religion, race, group, sex, ethnicity, culture and language, legal status and physical or mental condition.
 
-Point c  
+Point b
+
+What is meant by "best interests of the victim" is that all actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, the best interests of the victim must be a primary consideration.
+
+Point c
+
 What is meant by "gender justice" is fair treatment given to both women and men.
 
-What is meant by "gender equality" is a condition and position that describes harmonious, aligned and balanced relations between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family and community life, nationhood and statehood.
+What is meant by "gender equality" is a condition and position that describes a harmonious, compatible and balanced relationship between men and women in obtaining opportunities/chances in accessing, participating, controlling and benefiting in the implementation of development and enjoying the results of development in family and community life, nation and state.
 
-Point d  
-What is meant by "victim protection" is providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.
+Point d
 
-Point e  
+What is meant by "victim protection" is providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court order.
+
+Point e
+
 What is meant by "maternal survival" is ensuring that a mother does not experience death that occurs during pregnancy, childbirth, and postpartum, whether caused by physical or non-physical conditions.
 
-Point f  
-What is meant by "child survival" is as stated in the principles of the Convention on the Rights of the Child, including the right to education, the right to play, the right to recreation and creation.
+Point f
 
-Point g  
-What is meant by "respect for the child's opinion" is respect for children's rights to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.
+What is meant by "child survival" is as stated in the principles of the Convention on the Rights of the Child, covering the right to education, the right to play, the right to recreation and creation.
 
-Point h  
-What is meant by "openness" is that in the implementation of protection for victims of gender-based and child violence it is transparent among integrated service providers. Point i What is meant by "integration" is that in the implementation of protection for victims of gender-based and child violence it is carried out by building coordination among service providers, including medical services, legal advocates, psychologists, religious counselors, social workers and police.
+Point g
 
-Point j  
-What is meant by "not blaming the victim" is an attitude and treatment of not blaming the victim for the occurrence of violence experienced.
+What is meant by "respect for the views of the child" is respect for the rights of children to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.
 
-Point k  
-What is meant by "empowering" is that every effort provided must be able to strengthen the victim, whether physically, psychologically, socially or economically.
+Point h
 
-Point l  
-What is meant by "victim confidentiality" is every action taken to ensure the victim is in a safe condition from threats or other actions that threaten the victim's life and psychological state. Point m What is meant by "decision-making in the hands of the victim" is the victim's right to determine the best choice in resolving their problem.
+What is meant by "transparency" is that in the provision of protection for victims of gender-based violence and violence against children it is transparent among integrated service providers. Point i
+
+What is meant by "integration" is that in the provision of protection for victims of gender-based violence and violence against children it is implemented by building coordination among service providers, including medical services, legal advocates, psychologists, clergy, social workers and police.
+
+Point j
+
+What is meant by "not blaming the victim" is an attitude and treatment that does not blame the victim for the occurrence of the violence experienced.
+
+Point k
+
+What is meant by "empowering" is that every effort provided must be able to strengthen the victim, both physically, psychologically, socially and economically.
+
+Point l
+
+What is meant by "victim confidentiality" is every action taken to ensure the victim is in a safe condition from threats or other actions that threaten the life and psychology of the victim. Point m
+
+What is meant by "decision-making in the hands of the victim" is the right of the victim to determine the best choice in resolving their problem.
 
 #### Article 3
 
@@ -400,60 +446,15 @@ Sufficiently clear.
 
 #### Article 4
 
-Paragraph (1)  
-Point a  
-Sufficiently clear.
+Paragraph (1) Point a Sufficiently clear Point b Sufficiently clear Point c What is meant by "entrapping questions" is questions that are detrimental (cornering, degrading, harassing, blaming, and judging) to the victim.
 
-Point b  
-Sufficiently clear.
-
-Point c  
-What is meant by "entrapping questions" are questions that harm (corner, demean, harass, blame, and judge) the victim.
-
-Point d  
-Sufficiently clear.
-
-Point e  
-Sufficiently clear.
-
-Point f  
-Sufficiently clear.
-
-Point g  
-Sufficiently clear.
-
-Paragraph (2)  
-Sufficiently clear.
-
-Paragraph (3)  
-Sufficiently clear.
+Point d Sufficiently clear Point e Sufficiently clear Point f Sufficiently clear Point g Sufficiently clear Paragraph (2) Sufficiently clear Paragraph (3) Sufficiently clear
 
 #### Article 5
 
-Paragraph (1)  
-Point a  
-Sufficiently clear.
+Paragraph (1) Point a Sufficiently clear. Point b Sufficiently clear. Point c Sufficiently clear. Point d Sufficiently clear. Point e What is meant by "cooperation" is a systematic and integrated way among organizers and handlers of victims of violence in providing services for victims of gender-based violence and violence against children.
 
-Point b  
-Sufficiently clear.
-
-Point c  
-Sufficiently clear.
-
-Point d  
-Sufficiently clear.
-
-Point e  
-What is meant by "cooperation" is a systematic and integrated method among organizers and handlers of victims of violence in providing services for victims of gender-based and child violence.
-
-Point f  
-Sufficiently clear.
-
-Paragraph (2)  
-Sufficiently clear.
-
-Paragraph (3)  
-Sufficiently clear.
+Point f Sufficiently clear. Paragraph (2) Sufficiently clear. Paragraph (3) Sufficiently clear.
 
 #### Article 6
 
@@ -473,33 +474,42 @@ Sufficiently clear.
 
 #### Article 10
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 11
 
-Paragraph (1)  
-Point a  
+Paragraph (1)
+
+Point a
+
 Sufficiently clear.
 
-Point b  
+Point b
+
 What is meant by "Medicolegal" is the effort to collect evidence for the purposes of proof in the judicial process.
 
-Point c  
+Point c
+
 Sufficiently clear.
 
-Point d  
+Point d
+
 Sufficiently clear.
 
-Point e  
+Point e
+
 Sufficiently clear.
 
-Point f  
+Point f
+
 Sufficiently clear.
 
-Point g  
+Point g
+
 Sufficiently clear.
 
-Paragraph (2)  
+Paragraph (2)
+
 Sufficiently clear
 
 #### Article 12

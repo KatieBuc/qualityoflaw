@@ -1,0 +1,665 @@
+# REGENT OF NORTH KONAWE
+
+REGENT OF NORTH KONAWE
+
+PROVINCE OF SOUTHEAST SULAWESI
+
+REGIONAL REGULATION OF NORTH KONAWE REGENCY NUMBER t; OF 2022
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN
+
+BY THE GRACE OF ALMIGHTY GOD
+
+REGENT OF NORTH KONAWE
+
+Considering In view of
+
+a. that women and children have dignity and worth as complete human beings and have the right to receive protection, security and freedom from all forms of violence or inhuman treatment;
+
+b. that in its development there are still many Women and Children who need to be protected from various forms of violence, mistreatment, exploitation, and neglect so that strategic efforts are needed to provide protection for women and children;
+
+c. that in implementing concurrent governmental affairs in the field of Women Empowerment and Child Protection which are part of the Regency/City Regional Government affairs, it is necessary to be further regulated by Regional Regulation;
+
+d. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Implementation of Protection of Women and Children.
+
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 13 of 2007 concerning the establishment of North Konawe Regency in Southeast Sulawesi Province (State Gazette of the Republic of Indonesia of 2007 Number 15);
+
+Stipulating
+
+3. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia
+
+Number 5587) as amended several times most recently by Law
+
+Number 1 of 2022 concerning Financial Relations Between the Central Government and
+
+Regional Governments (State Gazette of the
+
+Republic of Indonesia of 2022 Number 4, Supplement to the State Gazette of the Republic of Indonesia
+
+Number 6757);
+
+4. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning Formation of Regional Legal Products (State News of the Republic of
+
+Indonesia of 2015 Number 83), as amended by Regulation of the Minister of Home
+
+Affairs Number 120 of 2018 concerning
+
+Amendment to Regulation of the Minister of Home Affairs
+
+Number 80 of 2015 concerning Formation of
+
+Regional Legal Products (State News of the Republic of
+
+Indonesia of 2018 Number 157).
+
+With Mutual Approval of
+
+REGIONAL HOUSE OF REPRESENTATIVES
+
+OF NORTH KONAWE REGENCY
+
+and
+
+REGENT OF NORTH KONAWE
+
+HAS DECIDED:
+
+REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by: 1. Region is North Konawe Regency.
+
+2. Regional Government is the Regional Government of North Konawe Regency. 3. Regent is the Regent of North Konawe.
+
+4. State Civil Apparatus hereinafter abbreviated as ASN is a profession for civil servants and government employees with work agreements who work in government agencies.
+
+5. Woman is an adult human being of female sex and a person recognized by law as a woman.
+
+6. Child is a person who is not yet 18 (eighteen) years old, a child who is still in the womb, a child with special needs, a child victim, a child perpetrator and a child as a Witness.
+
+7. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.
+
+8. Implementation is the execution of something done to achieve a goal.
+
+9. Protection of Women and Children is all activities to guarantee and protect women and children and their rights so that they can live, grow, and develop and participate optimally in accordance with human dignity and worth and receive protection from violence, exploitation, discrimination, and neglect.
+
+10. Trafficking of Women and Children is the act of recruiting, harboring, transporting, transferring or receiving a person by threat of violence, use of violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits so as to obtain consent from the person holding control over that other person, whether conducted within the country or between countries for the purpose of exploitation or resulting in the person being exploited.
+
+11. Special Protection is a form of protection received by children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.
+
+12. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.
+
+13. Family is the smallest unit in society consisting of husband, wife, and their children, or father and his children, or mother and her children, or blood family in a direct line upward or downward up to the third degree.
+
+14. Community is family, groups and social organizations and/or community organizations, individuals who have expertise, concern and sincerity to help and social organizations that are potential and strategic as well as legal.
+
+15. Regional Technical Implementation Unit for Protection of Women and Children hereinafter referred to as UPTD PPA is a service provider institution for protection of women and children victims of violence established and under the Regional Government.
+
+16. North Konawe Regency Child Protection Committee is a supervisory institution for the implementation of Child Protection of North Konawe Regency whose members are from various elements namely religious leaders, community leaders, related regional agencies and Social Organizations.
+
+1 7. Regional Children's Forum is a forum for Children to gather, express and be heard their opinions, as well as seek, receive and convey information.
+
+18. Exploitation is an act with or without the consent of the victim which includes but is not limited to prostitution, forced labor or service, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or utilizing the labor or abilities of a person by another party to obtain benefits both material and immaterial.
+
+1 9. Child Friendly School is an educational institution that recognizes and respects children's rights to obtain education, health, opportunities to play and have fun, protect from violence and abuse, can express views freely, and participate in making decisions according to their capacity.
+
+20. Child Friendly Health Services are hospital services that pay attention to aspects of child growth and development by providing child-friendly officers or doctors and child-friendly facilities.
+
+2 1. Services are activities or series of activities of service in the context of implementing protection of Women and Children in accordance with laws and regulations.
+
+# CHAPTER II
+
+RIGHTS OF WOMEN AND CHILDREN
+
+## Part One
+
+Rights of Women
+
+#### Article 2
+
+Women have the right to obtain:
+
+- a. protection in the field of employment;
+- b. services in the field of health;
+- c. equality in the field of education;
+- d. protection in marriage and family; and
+- e. equality in public and political life.
+
+## Part Two
+
+Rights of Children
+
+#### Article 3
+
+(1) Children have the right to obtain:
+
+- a. civil rights and freedoms;
+- b. Family environment and substitute Family;
+- c. basic health and welfare;
+- d. education, use of leisure time, and cultural and artistic activities; and e. implementation of Special protection.
+  - (2) The basic rights of children as referred to in paragraph (1) are guaranteed to be fulfilled by the Regional Government.
+
+# CHAPTER III
+
+OBLIGATIONS AND RESPONSIBILITIES
+
+## Part One
+
+Regional Government
+
+#### Article 4
+
+( 1) The obligations and responsibilities of the Regional Government include: a. establishing policies for the protection of Women and Children; b. implementing policies for the protection of Women and Children from acts of violence in accordance with the provisions of laws and regulations; c. conducting cooperation in the implementation of protection of Women and Children;
+
+d. providing support for facilities and infrastructure for the implementation of protection of Women and Children;
+
+e. allocating budget for the implementation of protection of Women and Children in accordance with the financial capacity of the Region;
+
+f. fostering and supervising the implementation of protection of women and children; and
+
+g. realizing a Child-Friendly Regency.
+
+(2) In order to carry out the obligations and responsibilities as referred to in paragraph (1), the Regent shall establish programs and activities for the protection of women and children in a regional action plan as a basis for regional apparatus in implementing the protection of Women and Children.
+
+(3) The Regional action plan as referred to in paragraph (2) constitutes part of the Regional medium-term development plan.
+
+(4) Further provisions regarding the Regional action plan shall be regulated by Regent Regulation.
+
+## Part Two
+
+Private Sector and Society
+
+#### Article 5
+
+( 1) The obligations and responsibilities of the private sector and society shall be implemented in the form of participation.
+
+(2) Forms of participation of the private sector and society as referred to in paragraph (1) include:
+
+- a. Preventing the occurrence of acts of violence against women and children; b. Providing information and/or reporting acts of violence against women and children to law enforcement or authorized parties; and
+- c. Participating in handling victims of acts of violence.
+  - (3) Forms of participation of the private sector and society as referred to in paragraph (2) shall be implemented responsibly in accordance with the provisions of laws and regulations.
+
+## Part Three
+
+Parents and Family
+
+#### Article 6
+
+(1) Parents are obliged to:
+
+- a. care for, maintain, educate, and protect Children;
+- b. develop children according to their abilities, talents and interests;
+- c. prevent marriage at child age; and
+- d. provide character education and instill moral values in Children.
+  - (2) In the event that parents do not exist, or their whereabouts are unknown, or due to certain reasons cannot carry out their obligations and responsibilities, the obligations and responsibilities referred to in paragraph (1) may be transferred to a substitute family.
+
+# CHAPTER IV
+
+FORMS OF VIOLENCE
+
+#### Article 7
+
+Forms of violence against women and children include:
+
+- a. non-physical violence;
+- b. physical violence;
+- c. sexual violence;
+- d. economic violence;
+- e. social violence;
+- f. exploitation;
+- g. domestic neglect;
+- h. coercion or deprivation of freedom; and
+  - 1. threat of certain actions.
+
+#### Article 8
+
+Every person who hears, sees, or knows of the occurrence of violence as referred to in Article 7 shall take efforts to:
+
+- a. prevent the continuation of a criminal act;
+- b. provide protection to victims of acts of violence; c. provide emergency assistance; and/ or
+- d. assist in the process of submitting an application for a protection order
+
+# CHAPTER V
+
+IMPLEMENTATION OF PROTECTION
+
+## Part One
+
+Establishment of UPTD PPA
+
+#### Article 9
+
+(1) In order to provide protection to victims, the Regional Government shall establish UPTD PPA as a Regional Technical Implementation Unit within the unit responsible for the Protection of Women and Children.
+
+(2) The establishment of UPTD PPA as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.
+
+(3) Further provisions regarding the establishment, organizational structure, and work procedures of UPTD PPA shall be regulated by Regent Regulation.
+
+## Part Two
+
+Forms and Standard Operating Procedures for Protection Services
+
+#### Article 10
+
+(1) Forms of protection services for Victims implemented by UPTD PPA include:
+
+- a. complaint and referral services;
+- b. protection services for personal safety, Family, and property, and freedom from threats;
+- c. psychosocial and psychological rehabilitation assistance services; d. legal assistance services;
+- e. spiritual assistance services;
+- f. mediation services for women and children's issues;
+- g. information services regarding case developments;
+- h. information services regarding court decisions;
+  - 1. information services in the event that a convict is released;
+    - J. compensation and restitution assistance services;
+- k. safe house services;
+  - 1. special protection services for children; and
+- m. social reintegration services.
+  - (2) The implementation of services to victims shall be conducted with the principles of: a. fast, safe, and empathetic;
+- b. prioritizing the interests of victims;
+- c. the best interests of the child;
+- d. not discriminating based on the origin of Victims/non-discrimination; e. guarantee of confidentiality;
+- f. easily accessible; and
+- g. free of charge.
+  - (3) Further provisions regarding the procedures and standard operating procedures for protection services to Victims as referred to in paragraph (1) shall be regulated in a Regent Regulation.
+
+## Part Three
+
+Prevention of Violence against Women and Children
+
+#### Article 11
+
+(1) To prevent the occurrence of violence against women and children, the Regional Government shall conduct empowerment and awareness-raising to families, parents and society by providing information, guidance and/ or counseling.
+
+(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake the following efforts:
+
+- a. increasing the quantity and quality of education, whether formal, non-formal or informal;
+- b. opening accessibility to obtain education, training, funding, income enhancement and social services; c. opening employment opportunities for women;
+- d. building community participation and concern to implement prevention and protection of women and children from violence;
+- e. building and providing a complete and easily accessible information system;
+- f. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that are engaged in and/ or care about women and children; and
+- g. opening complaint services for the protection of women and children from violence.
+
+#### Article 12
+
+(1) Prevention of the occurrence of violence against women and children as referred to in Article 11 shall be implemented by regional apparatus whose duties and functions are in the fields of:
+
+- a. social affairs;
+- b. health;
+- c. education;
+- d. manpower;
+- e. women's empowerment and child protection;
+- f. mental and spiritual affairs; and
+- g. public order and peace.
+  - (2) Prevention of violence by regional apparatus as referred to in paragraph ( 1) must be prepared by the Regional Government and implemented in an integrated and continuous manner based on the Regional Action Plan as a manifestation of the implementation of the Work Plan and Strategic Plan of Regional Apparatus in the form of programs and activities contained in the Regional Long-Term Development Plan and Regional Medium-Term Development Plan.
+
+## Part Four
+
+Special Protection for Children
+
+#### Article 13
+
+(1) Special Protection shall be provided to Children in emergency situations which include:
+
+- a. refugee children;
+- b. children who are victims of natural disasters; and
+- c. children who are victims of unrest.
+  - (2) Handling of special protection for Children in emergency situations as referred to in paragraph (1) shall be conducted in a coordinated manner between the Provincial Government, Regency/City and society.
+  - (3) Handling of refugee Children as referred to in paragraph ( 1) letter a shall be conducted without regard to citizenship status and shall be entitled to receive basic services.
+  - (4) Handling of Children as referred to in paragraph (1) letters b and c includes decent housing, physical and psychological recovery, fulfillment of nutrition, education, health, children's playgrounds, and prevention from violence and exploitation.
+
+#### Article 14
+
+(1) Special protection is provided to Children in conflict with the law including:
+
+- a. children as perpetrators of criminal acts;
+- b. children as victims of criminal acts; and c. children as witnesses of criminal acts. in conflict
+  - (2) Regional Governments must provide protection and facilities for Children in conflict with the law.
+  - (3) Protection and facilities as referred to in paragraph (2) include: a. protection from negative labeling, publication, threats and other forms that harm Children;
+- b. facilities for physical and psychological health services, education and training, safe residence or social homes for Child protection;
+- c. providing professional and trained companion/service officers in accompanying Child cases; and
+- d. providing special service units in the form of social protection homes for Children.
+
+#### Article 15
+
+Special Protection for Children from minority and isolated groups is carried out through:
+
+- a. provision of facilities and infrastructure to be able to enjoy their own culture; and
+- b. acknowledging and implementing their own religious teachings using their own language without neglecting the development of society and culture.
+
+#### Article 16
+
+and access
+
+(1) Special protection is provided to children who are economically and/or sexually exploited including:
+
+- a. worst forms of work for Children;
+- b. child victims of human trafficking crimes;
+- c. Child prostitution;
+- d. Child pornography; and
+- e. Child age marriage.
+  - (2) Regional Governments must provide protection and facilities to children who are economically and/or sexually exploited. (3) Protection for children who are economically and/or sexually exploited as referred to in paragraph (2) is carried out including rescue, recovery, and reintegration.
+  - (4) Provisions regarding procedures and procedures for providing protection and facilities as referred to in paragraph (1) and paragraph (2) are regulated by Regent Regulation.
+
+#### Article 17
+
+(1) Children with special needs have the right to receive the same treatment as other children to develop their potential in accordance with their dignity.
+
+(2) Regional governments must provide educational and health facilities and infrastructure.
+
+(3) Regional governments must provide rehabilitation centers that include rehabilitation for children and strengthening for Families.
+
+(4) Regional Governments facilitate the establishment of Communication Forums for Families of Children with Special Needs.
+
+## Part Five
+
+Child Protection Committee
+
+#### Article 18
+
+(1) In order to supervise the implementation of Child Protection, a Child Protection Committee is established.
+
+(2) Provisions regarding the composition and working procedures of the Child Protection Committee as referred to in paragraph (1) are stipulated by Regent Decree.
+
+# CHAPTER VI
+
+COOPERATION
+
+#### Article 19
+
+(1) In order to achieve the objectives of women and child protection, cooperation can be carried out with:
+
+- a. other Regional apparatus;
+- b. TNI/Polri;
+- c. advocates;
+- d. health workers;
+- e. District Prosecutor's Office;
+- f. District Court;
+- g. Correctional Center;
+- h. Correctional Institution;
+  - 1. business community
+    - J. social workers;
+- k. companion volunteers;
+  - 1. spiritual counselors;
+- m. non-governmental organizations;
+- n. other district/city governments;
+- o. society;
+- p. universities; and
+- q. mass media.
+  - (2) Cooperation as referred to in paragraph (1) is set forth in the form of a cooperation agreement in accordance with the provisions of laws and regulations.
+
+# CHAPTER VII
+
+REPORTING
+
+#### Article 20
+
+(1) UPTD PPA must report the implementation of Women and Child protection services to the Regent through the head of the agency.
+
+(2) Reporting as referred to in paragraph (1) is submitted in writing and/or electronically including:
+
+- a. administration;
+- b. finance;
+- c. services;
+- d. performance;
+  - (3) Submission of reporting as referred to in paragraph (2) is carried out at least once every 3 (three) months.
+
+# CHAPTER VIII
+
+FUNDING
+
+#### Article 21
+
+Funds for the implementation of protection for Women and Children from acts of violence are sourced from:
+
+- a. Regional revenue and expenditure budget; and
+- b. other legal sources.
+
+# CHAPTER IX
+
+GUIDANCE AND SUPERVISION
+
+#### Article 22
+
+(1) Regional Governments must conduct guidance and supervision of the implementation of women and child protection.
+
+(2) Guidance and supervision as referred to in paragraph (1) include:
+
+- a. coordination;
+- b. guidance;
+- c. education and training; and
+- d. monitoring and evaluation.
+  - (3) Guidance and supervision as referred to in paragraph (2) are in order to realize the objectives of women and child protection in accordance with minimum service standards implemented by relevant regional apparatus/agencies and the community.
+  - (4) Guidance and supervision as referred to in paragraph (3) are carried out with professional and transparent principles.
+  - (5) Related agencies must report periodically to the Regent regarding the implementation of women and child protection.
+
+# CHAPTER X
+
+PROHIBITIONS
+
+#### Article 23
+
+Every person is prohibited from:
+
+- a. treating women and children in a discriminatory manner that results in women and children suffering losses, both material and moral, thereby hindering their social functions;
+- b. treating women and children with disabilities in a discriminatory manner;
+- c. placing, allowing, involving, ordering the involvement of children in situations of maltreatment and neglect;
+- d. placing, allowing, committing, ordering or participating in violence against women and children; e. committing violence or threat of violence forcing women and children to engage in sexual intercourse with them or with others; f. committing violence or threat of violence, forcing, committing fraud, committing a series of lies, or persuading women and children to commit or allow indecent acts;
+- g. placing, allowing, committing, ordering or participating in the kidnapping, sale and/or trafficking of women and children;
+- h. obstructing women and children from enjoying their own culture, acknowledging and implementing their religious teachings and/or using their own language without neglecting access to community and cultural development;
+  - 1. placing, allowing, committing, ordering or participating in economic and/or sexual exploitation of women and children;
+    - J. intentionally placing, allowing, involving women and children in the abuse, as well as production and distribution of narcotics and/or psychotropics; and/or
+- k. intentionally placing, allowing, involving, ordering the involvement of women and children in the abuse, as well as production and distribution of alcohol and other addictive substances.
+
+#### Article 24
+
+UPTD PPA or safe houses are prohibited from collecting fees in providing services to women and child victims, witnesses and perpetrators of violence
+
+# CHAPTER XI
+
+SANCTIONS
+
+#### Article 25
+
+(1) For official officers, private agencies that violate the provisions as referred to in Article 5, Article 6 paragraph (1), Article 11 paragraph (1), paragraph (2), Article 13, Article 23 and Article 16 paragraph (2) shall be subject to Administrative sanctions in accordance with statutory provisions.
+
+(2) Provisions regarding the imposition of administrative sanctions as referred to in paragraph (1) are regulated in Regent Regulation.
+
+# CHAPTER XII
+
+CLOSING PROVISIONS
+
+#### Article 26
+
+This Regional Regulation comes into force on the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of North Konawe Regency.
+
+Enacted in Wanggudu
+
+On date ~- O\lho\xr ~ lREGENT OF NORTH KONAWE, i 1
+
+H. RUKSAMIN \
+
+Promulgated in Wanggudu
+
+On Date 9. e)k,rooq- Q..o2'J..
+
+1 REGIONAL SECRETARY OF NORTH KONAWE REGENCY, \
+
+KASIM PAGALA
+
+REGIONAL GAZETTE OF NORTH KONAWE REGENCY YEAR!lb72NUMBER .\?)(
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF NORTH KONAWE REGENCY
+
+NUMBER t. YEAR ')/)7:l
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN
+
+I. GENERAL
+
+Every human being has equal rights in living life. The State has the obligation to provide protection to every citizen in accordance with the preamble of the 1945 Constitution of the Republic of Indonesia. Women and children are vulnerable groups who tend to experience violence and therefore need to receive protection. Violence against women and children constitutes a violation of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed without discrimination.
+
+Women and children are vulnerable groups who have special needs that are at risk due to physical, psychological, social, cultural and health conditions. In order to realize general welfare in accordance with its authority, the Regional Government is obliged to provide protection to Women and Children.
+
+The objectives of implementing protection for women and children are: a. To prevent all forms of violence against women and children; b. To provide protection and services to women and children victims of violence;
+
+c. To provide a sense of security to women and children victims of violence;
+
+d. To restore the physical, psychological and economic condition of women and children victims of violence;
+
+e. The best interests of women and children victims of violence that occurs in the domestic and/or public sphere; and
+
+f. To take action against perpetrators of violence against women and children. Through the regulation of protection for Women and Children, it is expected that all parties can better implement the fulfillment of the rights of women and children and their protection so that it can be carried out more comprehensively, integrated and continuously by elements of government, families and communities as well as other institutions related to efforts to protect Women and Children.
+
+This Regional Regulation regulates efforts to implement protection for women and children, particularly in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of women and children victims of violence in North Konawe Regency.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear
+
+#### Article 2
+
+Sufficiently clear
+
+#### Article 3
+
+Sufficiently clear
+
+#### Article 4
+
+Sufficiently clear
+
+#### Article 5
+
+Sufficiently clear
+
+#### Article 6
+
+Sufficiently clear
+
+#### Article 7
+
+Letter a
+
+What is meant by "Non-physical Violence" is a statement, gesture, or improper activity that leads to violence with the aim of degrading or humiliating.
+
+Letter b
+
+What is meant by "Physical Violence" is an act that results in pain, illness, or serious injury.
+
+Letter c
+
+What is meant by "Criminal Acts of Sexual Violence" is any act that meets the elements of a criminal act as regulated in this regional regulation and other acts of sexual violence as regulated in the Law.
+
+Letter d
+
+What is meant by "economic violence" is an act of exploitation, manipulation and control through economic means in the form of forcing victims to work in an exploitative manner, including prostitution, and neglect.
+
+Letter e
+
+What is meant by "social violence" is any action with a social impact that threatens the physical, mental integrity, or relationships of a person or group, such action being carried out by a subject or by society itself.
+
+Letter f
+
+What is meant by "domestic neglect" is a neglect of a person's obligations within their household where legally that person is responsible for life within the scope of their family.
+
+Letter g
+
+What is meant by "coercion or deprivation of liberty" is deprivation of liberty or deprivation of freedom physically or otherwise arbitrarily in violation of basic provisions of international law, Torture, Rape, sexual slavery, forced prostitution, Letter h
+
+#### Article 9
+
+forced pregnancy, forced castration or sterilization or other forms of sexual violence;
+
+What is meant by "Threat of Certain Actions" is an effort or activity carried out by a particular individual or group that has the potential to endanger the safety of other individuals or groups.Article 8
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF NORTH KONAWE REGENCY .1{

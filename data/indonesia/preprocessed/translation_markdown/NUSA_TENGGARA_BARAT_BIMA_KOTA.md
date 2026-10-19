@@ -1,0 +1,665 @@
+# REGIONAL GAZETTE OF BIMA CITY
+
+REGIONAL GAZETTE OF BIMA CITY
+
+NUMBER: 203 YEAR 2018 SERIES:
+
+REGIONAL REGULATION OF BIMA CITY
+
+NUMBER 6 OF 2018
+
+CONCERNING
+
+PROTECTION OF WOMEN VICTIMS OF VIOLENCE
+
+BY THE GRACE OF ALMIGHTY GOD
+
+MAYOR OF BIMA,
+
+Considering: a. that every citizen has the right to be free from torture or treatment that demeans human degree and dignity and has the right to obtain a sense of security and freedom from all forms of violence; that all forms of violence against women constitute violations of human rights so that their dignity needs to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination; that based on the considerations as referred to in letters a and b, it is necessary to establish a Regional Regulation on the Protection of Women Victims of Violence;
+
+In View of: 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+Law Number 69 of 1958 concerning the Establishment of Level II Regions Within the Level I Regions of Bali, West Nusa Tenggara and East Nusa Tenggara (State Gazette of 1958 Number 122, Supplement to the State Gazette Number 1655);
+
+Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
+
+Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia 3886);
+
+Law Number 13 of 2002 concerning the Establishment of Bima City in West Nusa Tenggara Province (State Gazette of the Republic of Indonesia of 2002 Number 26, Supplement to the State Gazette of the Republic of Indonesia Number 4188);
+
+Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia 4279);
+
+Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia 4419);
+
+Law Number 39 of 2004 concerning the Placement and Protection of Indonesian Migrant Workers Abroad (State Gazette of the Republic of Indonesia of 2004 Number 137, Supplement to the State Gazette of the Republic of Indonesia Number 4447);
+
+Law Number 13 of 2006 concerning the Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4636);
+
+Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia of 2009 Number 12, Supplement to the State Gazette of the Republic of Indonesia Number 4976);
+
+Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5659);
+
+Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation of Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia number 64);
+
+Regulation of the State Minister for Women Empowerment and Child Protection Number 2 of 2008 concerning the Implementation of Women's Protection;
+
+Regulation of the State Minister for Women Empowerment and Child Protection Number 01 of 2010 concerning Minimum Service Standards (SPM) for Integrated Services for Women and Children Victims of Violence (State News of the Republic of Indonesia of 2010 Number 56);
+
+Regulation of the State Minister for Women Empowerment and Child Protection Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;
+
+Regulation of the State Minister for Women Empowerment and Child Protection Number 19 of 2011 concerning the Empowerment of Women Victims of Violence;
+
+With Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF BIMA CITY
+
+and
+
+MAYOR OF BIMA
+
+HAS DECIDED:
+
+To Enact: REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN VICTIMS OF VIOLENCE.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+Region is the City of Bima.
+
+Regional Government is the regional head as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.
+
+Mayor is the Mayor of Bima.
+
+Regional Apparatus is the auxiliary element of the regional head and DPRD in the administration of Government Affairs that are the authority of the Region.
+
+Woman is an adult human being of female sex and a person who is recognized by law as a woman. Prevention is an activity carried out to prevent the occurrence of acts of violence against women. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.
+
+Violence is any act that results in suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.
+
+Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage or fainting and/or causes death.
+
+Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, sense of distrust or severe psychological suffering to a person.
+
+Sexual violence is any act in the form of sexual harassment, coercion of sexual relations, either in an unnatural way or unwanted with others for commercial purposes and/or certain purposes.
+
+Victim is a woman who experiences suffering and/or hardship either directly or indirectly as a result of violence.
+
+Community is individuals, families, groups, social organizations and/or community organizations. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of the woman.
+
+Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother. Service is an immediate activity and action carried out by Professional personnel according to their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.
+
+Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the self-empowerment of victims of violence to resolve the problems they face.
+
+Repatriation is an effort to return women victims of violence to their families, substitute families, or communities that can provide protection and fulfill their needs.
+
+Rehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in the community.
+
+Social Reintegration is an effort to reunite victims with their families, communities, institutions, or other social environments that can provide protection.
+
+Institution is an agency/service/body/office within the scope of regional government and/or non-governmental organization that provides assistance.
+
+Integrated Service Center hereinafter referred to as PPT is a general term that can be used by various institutions that provide services for victims of violence.
+
+Regional Action Plan is the foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out prevention and protection activities for women victims of violence.
+
+Safe House is a temporary residence, provided to provide protection to victims in accordance with predetermined standards.
+
+#### Article 2
+
+The implementation of protection for women victims of violence is carried out based on the principles of: justice; gender equality; and non-discrimination.
+
+#### Article 3
+
+The purpose of implementing protection for women victims of violence is to: prevent violence against women including human trafficking; eliminate all forms of violence and exploitation against women; protect and provide a sense of security for women; provide services to women victims of violence, reporters, witnesses; and facilitate and mediate household disputes to realize the integrity of harmonious and prosperous households.
+
+The purpose of implementing protection for women victims of violence as referred to in paragraph (1), includes aspects of: prevention; service and assistance; reunification; and empowerment.
+
+# CHAPTER II
+
+FORMS OF VIOLENCE
+
+#### Article 4
+
+Forms of violence against women may include: physical violence; psychological violence; sexual violence; neglect; and exploitation.
+
+#### Article 5
+
+Physical violence as referred to in Article 4 letter a is caused by an act that results in pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.
+
+#### Article 6
+
+Psychological violence as referred to in Article 4 letter b is caused by an act that results in fear, loss of self-confidence, loss of ability to act, sense of helplessness and/or severe psychological suffering to a person.
+
+#### Article 7
+
+Sexual violence as referred to in Article 4 letter c is caused by: acts in the form of sexual harassment; coercion of sexual relations; coercion of sexual relations in an unnatural or unwanted manner; and/or coercion of sexual relations with others for commercial purposes and or certain purposes.
+
+#### Article 8
+
+Neglect as referred to in Article 4 letter d is caused by: acts that result in the unfulfillment of women's needs properly, whether physical, mental, spiritual or social, carried out by parents, guardians, or other parties responsible for care; acts of intentionally neglecting to maintain, care for, or take care of women as they should be carried out by parents, guardians or any other party responsible for their care; acts of neglecting a person in their household environment, when according to the law applicable to them or due to an agreement or contract they are obliged to provide a living, care, or maintenance to that person; and/or acts that result in economic dependence by limiting and/or prohibiting from working properly inside or outside the home so that the victim is under the control of that person.
+
+#### Article 9
+
+Exploitation as referred to in Article 4 letter e is caused by: acts that economically or sexually exploit with the intention of benefiting oneself or others; acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or service, slavery or similar practices, oppression, extortion, physical exploitation, sexual, reproductive organs, or unlawfully moving or transplanting organs and/or body tissues or exploiting the labor or ability of a person by another party to obtain benefits both material and immaterial; and/or all forms of exploitation of sexual organs or other body organs of victims to obtain benefits, including and not limited to all activities of prostitution or indecency.
+
+# CHAPTER III
+
+RIGHTS OF VICTIMS
+
+#### Article 10
+
+Every victim has the right to receive: protection; information; optimal service; continuous handling until the rehabilitation stage; confidential handling; psychological and legal assistance; and guarantee of rights related to their status as a family member or community member.
+
+#### Article 11
+
+Female victims of violence, in addition to obtaining the rights as referred to in Article 10, also obtain special rights, as follows: the right to respect and full use for survival, growth and development; the right to basic services; the right to equal protection; the right to be free from various stigmas; and the right to obtain freedom.
+
+# CHAPTER IV
+
+OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 12
+
+Obligations and responsibilities in the implementation of protection for female victims of violence are shared responsibilities:
+
+Regional Government; community; family; and parents.
+
+#### Article 13
+
+The Regional Government implements efforts to protect female victims of violence through: policies, programs, and activities for the protection of female victims of violence; establishment of PPT; ease of service to victims; seeking effectiveness and efficiency for the victim recovery process; and cooperation and coordination in victim recovery efforts.
+
+In order to implement the obligations and responsibilities as referred to in paragraph (1) letter b, the regional government establishes programs and action activities for the protection of women in 1 (one) Regional Action Plan as a basis for regional apparatus in implementing protection for female victims of violence.
+
+The Regional Action Plan as referred to in paragraph (2), is part of the Regional Medium-Term Development Plan (RPJMD).
+
+The Regional Action Plan as referred to in paragraph (2), is further regulated by Mayor Regulation.
+
+#### Article 14
+
+The obligations and responsibilities of the community as referred to in Article 12 letter b, are organized in the form of community participation.
+
+Community participation as referred to in paragraph (1), includes: establishment of family partners at the kelurahan level; establishment of women's protection units within community organizations; independent implementation of socialization on women's rights; provision of first aid to victims; and reporting to the competent authority if violence against victims occurs in their environment.
+
+Community participation as referred to in paragraph (1) is carried out by individuals, community social institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.
+
+#### Article 15
+
+The obligations of family and/or parents as referred to in Article 12 letters c and d, legally have full responsibility to prevent all forms of violence and protect women as family members.
+
+# CHAPTER V
+
+IMPLEMENTATION OF PROTECTION
+
+## Part One
+
+Establishment of PPT
+
+#### Article 16
+
+In order to provide services and protection to women from violence, the Regional Government establishes the PPT as an integrated service center for female victims of violence.
+
+The PPT as referred to in paragraph (1), consists of elements from the Health Office, Education and Culture Office, Social Office, Cooperative Industry and Trade Office, Population and Civil Registration Office, Women's Empowerment and Child Protection Office, Civil Service Police Unit, Regional General Hospital, City Police Resort, Non-Governmental Organizations, and Higher Education Institutions.
+
+The elements of PPT as referred to in paragraph (2), are determined by Mayor Decree.
+
+The implementation of services to victims is carried out in an integrated manner by the PPT.
+
+The PPT as referred to in paragraph (4) may receive and send case referrals from or to other service units in a networked manner.
+
+The PPT provides temporary services and protection in the form of safe houses.
+
+In the event that the PPT does not yet have a safe house, then victims of violence are referred to a PPT that has a safe house.
+
+The PPT consists of several counseling fields.
+
+The counseling fields as referred to in paragraph (8) consist of: legal field; health field; spiritual field; and psychology field.
+
+Further provisions regarding the organizational structure of the PPT are regulated by Mayor Regulation.
+
+## Part Two
+
+Forms and Mechanisms of Prevention and Services by PPT
+
+#### Article 17
+
+Forms of prevention of violence against women carried out by the PPT, can be implemented through: Socialization activities of Laws and Regulations to the community related to the protection of women's rights; and Training of PPT members related to the implementation of their duties in preventing violence against women.
+
+#### Article 18
+
+The PPT in carrying out its duties and functions may coordinate with the Sub-district PPT, and competent parties in making efforts to prevent violence against women.
+
+Further provisions regarding the mechanism for implementing prevention duties as referred to in paragraph (1), are regulated by Mayor Regulation.
+
+#### Article 19
+
+Forms of services to victims organized by the PPT include:
+
+Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;
+
+Medicolegal services are a form of medical service for the purpose of evidence in the field of law; Psychosocial services are services provided in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have self-confidence, strength and independence, in solving their problems;
+
+Legal services to assist victims in undergoing legal processes; and
+
+Economic independence services in the form of skills training and providing economic access so that victims can be independent.
+
+#### Article 20
+
+In performing service duties to female victims of violence, the city PPT coordinates with the Sub-district PPT.
+
+The mechanism for implementing duties as referred to in paragraph (1), is organized according to Standard Operating Procedures which are further regulated by Mayor Regulation.
+
+## Part Three
+
+Prevention by Regional Apparatus
+
+#### Article 21
+
+To prevent violence against women, the government conducts empowerment and awareness to families, parents and the community by providing information, guidance and/or counseling.
+
+In addition to empowerment and awareness as referred to in paragraph (1), the government makes efforts as follows: increasing the number and quality of education both formal and non-formal and informal; opening accessibility to obtain education, training, funding, income enhancement and social services; opening employment opportunities for women; building community participation and concern to implement prevention and protection of women from violence; building and providing a complete and easily accessible information system; building networks and cooperation with law enforcement apparatus, government apparatus, higher education institutions and various non-governmental organizations that work and/or care about women; and opening complaint posts for the protection of women from violence.
+
+#### Article 22
+
+Prevention of violence against women as referred to in Article 21, is implemented by regional apparatus whose duties and functions are in the fields of: social; health; education; labor; women's empowerment and child protection; mental and spiritual; and peace and order.
+
+Prevention of violence by regional apparatus as referred to in paragraph (1), is implemented in an integrated and sustainable manner based on the Regional Action Plan.
+
+## Part Four
+
+Mechanisms of Assistance by Persons and/or
+
+Institutions Cooperating with PPT
+
+#### Article 23
+
+Assistance is implemented by persons and/or institutions cooperating with the PPT.
+
+The mechanism of assistance as referred to in paragraph (1), is organized according to Standard Operating Procedures (SOP) which are further regulated by Mayor Regulation.
+
+## Part Five
+
+Principles of Service and Assistance
+
+#### Article 24
+
+The provision of services and assistance to victims shall be conducted based on the principles of: fast, safe, and empathetic; guaranteed confidentiality; easily accessible; and free of charge.
+
+## Part Six
+
+Services
+
+#### Article 25
+
+The forms of services provided to women victims of violence include: complaint services; health services; legal aid; repatriation; rehabilitation, social reintegration, and medicolegal; identification services; and psychological services.
+
+The forms of services as referred to in paragraph (1) shall be implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of: social; health; women's empowerment and protection; and mental and spiritual.
+
+In carrying out the duties and functions as referred to in paragraph (2), the Regional Government shall cooperate with government agencies, provincial government, other regency/city governments and the community.
+
+Further provisions regarding the procedures for services and handling of women victims of violence as referred to in paragraph (1) shall be regulated by Mayor Regulation.
+
+# CHAPTER VI
+
+GUIDANCE AND SUPERVISION
+
+#### Article 26
+
+The Regional Government shall conduct guidance and supervision of the provision of protection to women victims of violence.
+
+The guidance as referred to in paragraph (1) includes: guidelines and fulfillment standards; technical guidance and training; provision of facilities; monitoring; and evaluation
+
+The supervision as referred to in paragraph (1) shall be conducted based on the principles of: professional; transparent; and accountable.
+
+#### Article 27
+
+The guidance and supervision as referred to in Article 26 shall be conducted in order to realize the objectives of providing protection to women victims of violence in accordance with minimum service standards established by Laws and Regulations.
+
+# CHAPTER VII
+
+REPORTING
+
+#### Article 28
+
+The PPT shall report the implementation of the provision of protection to women victims of violence to the Mayor. The reporting as referred to in paragraph (1) shall be submitted in writing, covering: administration; finance; services; and performance.
+
+The submission of written reports as referred to in paragraph (2) shall be carried out at least once every 3 (three) months.
+
+# CHAPTER VIII
+
+FINANCING
+
+#### Article 29
+
+The financing for the provision of protection to women victims of violence shall be sourced from: Regional Revenue and Expenditure Budget; and other legitimate sources in accordance with the provisions of Laws and Regulations.
+
+#### Article 30
+
+The Regional Government may provide financial assistance to community organizations, social organizations, or non-governmental organizations and universities that carry out protection of women victims of violence.
+
+The financial assistance as referred to in paragraph (1) shall be in accordance with regional financial capacity and implemented in accordance with the provisions of Laws and Regulations in the field of finance.
+
+# CHAPTER IX
+
+CLOSING PROVISIONS
+
+#### Article 31
+
+The implementing regulations of this Regional Regulation shall be established no later than 1 (one) year after this Regional Regulation is promulgated.
+
+#### Article 32
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, order the promulgation of this Regional Regulation by placing it in the Regional Gazette of Bima City.
+
+Enacted in Bima City on 5 March 2018
+
+MAYOR OF BIMA,
+
+sgd
+
+M. QURAIS H. ABIDIN
+
+Promulgated in Bima City on 5 March 2018
+
+Acting REGIONAL SECRETARY OF BIMA CITY, sgd
+
+SYAMSUDDIN
+
+REGIONAL GAZETTE OF BIMA CITY YEAR 2018 NUMBER 203
+
+REGISTRATION NUMBER OF BIMA CITY REGIONAL REGULATION, WEST NUSA TENGGARA PROVINCE: (12/2018)
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF BIMA CITY
+
+NUMBER 6 OF 2018
+
+CONCERNING
+
+PROTECTION OF WOMEN VICTIMS OF VIOLENCE
+
+I. GENERAL
+
+Violence against women constitutes a violation of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and essence without discrimination. The fate of women victims of violence must be given attention by the regional government. The high number of cases of violence against women is often caused by factors that develop in society, such as low economic levels, education, and environments in the industrial sector. Therefore, victims of such violence need to receive protection in accordance with the principles of justice, truth, legal certainty, equality and upholding human rights.
+
+For the empowerment of victims of violence, the regional government establishes an Integrated Service Center (PPT) which is a generic term that can be used by various institutions that provide services for victims of violence such as the Integrated Service Center for Women's Empowerment (P2TP), Safe House, Social Protection House (RPS), Trauma Center Protection House (RPTC), Women's Social Protection House (RPSW), Shelter House, etc. which specifically have the main duties and functions for the empowerment of women and children victims of violence.
+
+The Regional Government is obligated and responsible to carry out efforts to protect women victims of violence through: implementing policies for the protection of women victims of violence established by the government, establishing policies, programs, and activities for the protection of women victims of violence, establishing the PPT, ensuring the implementation of ease of service to victims, pursuing effectiveness and efficiency for the victim recovery process, and pursuing the creation of cooperation and coordination in victim recovery efforts.
+
+ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently Clear
+
+#### Article 2
+
+Sufficiently Clear
+
+#### Article 3
+
+Sufficiently Clear
+
+#### Article 4
+
+Sufficiently Clear
+
+#### Article 5
+
+Sufficiently Clear
+
+#### Article 6
+
+Sufficiently Clear
+
+#### Article 7
+
+Sufficiently Clear
+
+#### Article 8
+
+Sufficiently Clear
+
+#### Article 9
+
+Sufficiently Clear
+
+#### Article 10
+
+Sufficiently Clear
+
+#### Article 11
+
+Sufficiently Clear
+
+#### Article 12
+
+Sufficiently Clear
+
+#### Article 13
+
+Sufficiently Clear
+
+#### Article 14
+
+Sufficiently Clear
+
+#### Article 15
+
+Sufficiently Clear
+
+#### Article 16
+
+Sufficiently Clear
+
+#### Article 17
+
+Sufficiently Clear
+
+#### Article 18
+
+Sufficiently Clear
+
+#### Article 19
+
+Sufficiently Clear
+
+#### Article 20
+
+Sufficiently Clear
+
+#### Article 21
+
+Sufficiently Clear
+
+#### Article 22
+
+Sufficiently Clear
+
+#### Article 23
+
+Sufficiently Clear
+
+#### Article 24
+
+Sufficiently Clear
+
+#### Article 25
+
+Sufficiently Clear
+
+#### Article 26
+
+Sufficiently Clear
+
+#### Article 27
+
+Sufficiently Clear
+
+#### Article 28
+
+Sufficiently Clear
+
+#### Article 29
+
+Sufficiently Clear
+
+#### Article 30
+
+Sufficiently Clear
+
+#### Article 31
+
+Sufficiently Clear
+
+#### Article 32
+
+Sufficiently Clear
+
+SUPPLEMENT TO REGIONAL GAZETTE OF BIMA CITY NUMBER 94
+
+ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently Clear
+
+#### Article 2
+
+Sufficiently Clear
+
+#### Article 3
+
+Sufficiently Clear
+
+#### Article 4
+
+Sufficiently Clear
+
+#### Article 5
+
+Sufficiently Clear
+
+#### Article 6
+
+Sufficiently Clear
+
+#### Article 7
+
+Sufficiently Clear
+
+#### Article 8
+
+Sufficiently Clear
+
+#### Article 9
+
+Sufficiently Clear
+
+#### Article 10
+
+Sufficiently Clear
+
+#### Article 11
+
+Sufficiently Clear
+
+#### Article 12
+
+Sufficiently Clear
+
+#### Article 13
+
+Sufficiently Clear
+
+#### Article 14
+
+Sufficiently Clear
+
+#### Article 15
+
+Sufficiently Clear
+
+#### Article 16
+
+Sufficiently Clear
+
+#### Article 17
+
+Sufficiently Clear
+
+#### Article 18
+
+Sufficiently Clear
+
+#### Article 19
+
+Sufficiently Clear
+
+#### Article 20
+
+Sufficiently Clear
+
+#### Article 21
+
+Sufficiently Clear
+
+#### Article 22
+
+Sufficiently Clear
+
+#### Article 23
+
+Sufficiently Clear
+
+#### Article 24
+
+Sufficiently Clear
+
+#### Article 25
+
+Sufficiently Clear
+
+#### Article 26
+
+Sufficiently Clear
+
+#### Article 27
+
+Sufficiently Clear
+
+#### Article 28
+
+Sufficiently Clear
+
+#### Article 29
+
+Sufficiently Clear
+
+#### Article 30
+
+Sufficiently Clear
+
+#### Article 31
+
+Sufficiently Clear
+
+#### Article 32
+
+Sufficiently Clear
+
+SUPPLEMENT TO REGIONAL GAZETTE OF BIMA CITY NUMBER 203

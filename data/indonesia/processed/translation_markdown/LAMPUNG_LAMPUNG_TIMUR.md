@@ -1,190 +1,220 @@
-# PROTECTION OF WOMEN AND CHILDREN IN EAST LAMPUNG REGENCY
-
 # REGIONAL REGULATION OF EAST LAMPUNG REGENCY
+
+REGIONAL REGULATION OF EAST LAMPUNG REGENCY
 
 NUMBER 15 OF 2013
 
 CONCERNING
 
-PROTECTION OF WOMEN AND CHILDREN IN EAST LAMPUNG REGENCY
+PROTECTION OF WOMEN AND CHILDREN
+
+IN EAST LAMPUNG REGENCY
 
 BY THE GRACE OF ALMIGHTY GOD
 
 THE REGENT OF EAST LAMPUNG,
 
-Considering:
+Considering that every person has the right to be free from torture or treatment that degrades human dignity; that women and children are among vulnerable groups who often experience discrimination and violence and therefore need to receive protection; that in order to ensure the availability of protection services for women and children in East Lampung Regency, a regional regulation on the protection of women and children is necessary; that based on the considerations as referred to in letters a, b, and c, it is necessary to establish a Regional Regulation on the Protection of Women and Children in East Lampung Regency;
 
+In View of
 
+Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette Number 3143);
 
+Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
 
-a. that every person has the right to be free from torture or treatment that degrades human dignity;
-b. that women and children are vulnerable groups who often experience discrimination and violence and therefore need to receive protection;
-c. that in order to ensure the availability of protection services for women and children in East Lampung Regency, a regional regulation on the protection of women and children is necessary;
-d. that based on the considerations as referred to in letters a, b, and c, it is necessary to establish a Regional Regulation on the Protection of Women and Children in East Lampung Regency;
+Law Number 12 of 1999 concerning the Establishment of Second Level Regency of Way Kanan, Second Level Regency of East Lampung and Second Level Municipality of Metro (State Gazette of 1999 Number 46, Supplement to the State Gazette Number 3825);
 
-In View of:
+Law Number 19 of 1999 concerning Ratification of ILO Convention Number 105 Concerning The Abolition of Forced Labour (State Gazette of the Republic of Indonesia of 1999 Number 55, Supplement to the State Gazette of the Republic of Indonesia Number 3824);
 
+Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette Number 3886):
 
+Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 Concerning the Prohibition of the Worst Forms of Child Labour (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941) and U.N Convention Against Transnational Organized Crime, 2000;
 
+Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235);
 
+Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);
 
+Law Number 20 of 2003 concerning National Education System (State Gazette of the Republic of Indonesia of 2003 Number 78, Supplement to the State Gazette of the Republic of Indonesia Number 4301);
 
+Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
 
+Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as amended several times, most recently by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette of the Republic of Indonesia Number 4844);
 
-1. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette Number 3143);
-2. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
-3. Law Number 12 of 1999 concerning the Establishment of Level II Regency of Way Kanan, Level II Regency of East Lampung and Level II Municipality of Metro (State Gazette of 1999 Number 46, Supplement to the State Gazette Number 3825);
-4. Law Number 19 of 1999 concerning Ratification of ILO Convention Number 105 Concerning The Abolition of Forced Labour (State Gazette of the Republic of Indonesia of 1999 Number 55, Supplement to the State Gazette of the Republic of Indonesia Number 3824);
-5. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette Number 3886): Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 Concerning the Prohibition of the Worst Forms of Child Labour (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941) and U.N Convention Against Transnational Organized Crime, 2000;
-6. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235);
-7. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);
-8. Law Number 20 of 2003 concerning National Education System (State Gazette of the Republic of Indonesia of 2003 Number 78, Supplement to the State Gazette of the Republic of Indonesia Number 4301);
-9. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
-10. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as amended several times, most recently by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette of the Republic of Indonesia Number 4844);
-11. Law Number 39 of 2004 concerning the Protection of Indonesian Migrant Workers Abroad (State Gazette of the Republic of Indonesia of 2004 Number 133, Supplement to the State Gazette of the Republic of Indonesia Number 4445);
-12. Law Number 13 of 2006 concerning the Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 200G Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);
-13. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
-14. Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia of 2009 Number 11, Supplement to the State Gazette of the Republic of Indonesia Number 4967);
-15. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
-16. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
-17. Government Regulation Number 38 of 2007 concerning the Division of Governmental Affairs Between the Government, Provincial Regional Government and Regency/Municipal Regional Government (State Gazette of the Republic of Indonesia of 2007 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 4737);
-18. Government Regulation Number 41 of 2007 concerning Regional Apparatus Organization (State Gazette of the Republic of Indonesia of 2007 Number 89, Supplement to the State Gazette of the Republic of Indonesia Number 4741);
-19. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Nornor 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);
-20. Government Regulation Number 83 of 2008 concerning Requirements and Procedures for Providing Free Legal Aid (State Gazette of the Republic of Indonesia of 2008 Number 214, Supplement to the State Gazette of the Republic of Indonesia Number 4955);
-21. Presidential Regulation Number 69 of 2008 concerning the Task Force for the Prevention and Handling of Trafficking in Persons;
-22. Regulation of the Minister of Social Affairs Number 102/HUK/2007 concerning the Establishment and Operation of Shelters and Trauma Centers;
-23. Regulation of the State Minister for Women's Empowerment Number 02 of 2008 concerning Guidelines for the Implementation of Women's Protection;
-24. Regulation of the Minister for Women's Empowerment Number 03 of 2008 concerning Guidelines for the Implementation of Child Protection;
-25. Regulation of the Minister of Home Affairs Number 15 of 2008 concerning General Guidelines for the Implementation of Gender Mainstreaming in the Regions as amended by Regulation of the Minister of Home Affairs Number 67 of 2011;
-26. Regulation of the Minister for Women's Empowerment and Child Protection Number 1 of 2009 concerning Minimum Service Standards for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons;
-27. Regulation of the Minister for Women's Empowerment Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Children Victims of Violence;
-28. Regulation of the Minister for Women's Empowerment Number 05 of 2010 Concerning Guidelines for the Establishment and Development of Integrated Service Centers;
-29. Regulation of the State Minister for Women's Empowerment and Child Protection Number 11 of 2011 concerning Guidelines for the Development of Child-Friendly Regency/Municipal Policies;
-30. Regulation of the State Minister for Women's Empowerment and Child Protection Number 19 of 2011 concerning Guidelines for the Empowerment of Women Victims of Violence;
-31. Regional Regulation of East Lampung Regency Number 23 of 2007 concerning the Establishment of Organization and Working Procedures of Regional Technical Institutions (Regional Gazette of East Lampung Regency of 2007 Number 23) as amended twice, most recently by Regional Regulation of East Lampung Regency Number 15 of 2011 (Regional Gazette of Lampung Regency of 2011 Number 15);
+Law Number 39 of 2004 concerning Protection of Indonesian Migrant Workers Abroad (State Gazette of the Republic of Indonesia of 2004 Number 133, Supplement to the State Gazette of the Republic of Indonesia Number 4445);
 
-With Mutual Approval.
+Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 200G Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);
 
-REGIONAL HOUSE OF REPRESENTATIVES OF EAST LAMPUNG REGENCY
+Law Number 21 of 2007 concerning Eradication of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia of 2009 Number 11, Supplement to the State Gazette of the Republic of Indonesia Number 4967);
+
+Law Number 12 of 2011 concerning Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+
+Government Regulation Number 38 of 2007 concerning Division of Government Affairs Between the Government, Provincial Regional Government and Regency/Municipal Regional Government (State Gazette of the Republic of Indonesia of 2007 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 4737);
+
+Government Regulation Number 41 of 2007 concerning Regional Apparatus Organization (State Gazette of the Republic of Indonesia of 2007 Number 89, Supplement to the State Gazette of the Republic of Indonesia Number 4741);
+
+Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Nornor 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);
+
+Government Regulation Number 83 of 2008 concerning Requirements and Procedures for Providing Free Legal Aid (State Gazette of the Republic of Indonesia of 2008 Number 214, Supplement to the State Gazette of the Republic of Indonesia Number 4955);
+
+Presidential Regulation Number 69 of 2008 concerning Task Force for Prevention and Handling of Trafficking in Persons; Regulation of the Minister of Social Affairs Number 102/HUK/2007 concerning Establishment and Operation of Shelters and Trauma Centers; Regulation of the Minister of State for Women's Empowerment Number 02 of 2008 concerning Guidelines for Implementation of Women's Protection; Regulation of the Minister for Women's Empowerment Number 03 of 2008 concerning Guidelines for Implementation of Child Protection;
+
+Regulation of the Minister of Home Affairs Number 15 of 2008 concerning General Guidelines for Implementation of Gender Mainstreaming in the Regions as amended by Regulation of the Minister of Home Affairs Number 67 of 2011;
+
+Regulation of the Minister for Women's Empowerment and Child Protection Number 1 of 2009 concerning Minimum Service Standards for Integrated Services for Witnesses and/or Victims of the Crime of Trafficking in Persons;
+
+Regulation of the Minister for Women's Empowerment Number 1 of 2010 concerning Minimum Service Standards for Integrated Services for Women and Child Victims of Violence;
+
+Regulation of the Minister for Women's Empowerment Number 05 of 2010 Concerning Guidelines for Establishment and Development of Integrated Service Centers; Regulation of the Minister of State for Women's Empowerment and Child Protection Number 11 of 2011 concerning Guidelines for Development of Child-Friendly Regency/Municipal Policies;
+
+Regulation of the Minister of State for Women's Empowerment and Child Protection Number 19 of 2011 concerning Guidelines for Empowerment of Women Victims of Violence;
+
+Regional Regulation of East Lampung Regency Number 23 of 2007 concerning Establishment of Organization and Working Procedures of Regional Technical Institutions (Regional Gazette of East Lampung Regency of 2007 Number 23) as amended twice most recently by Regional Regulation of East Lampung Regency Number 15 of 2011 (Regional Gazette of East Lampung Regency of 2011 Number 15);
+
+With the Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES
+
+OF EAST LAMPUNG REGENCY
 
 and
 
 THE REGENT OF EAST LAMPUNG
 
-DECIDES:
+HAS DECIDED:
 
-To Establish:
+To Enact
 
 REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN AND CHILDREN
 
 # CHAPTER I
 
-## GENERAL PROVISIONS
+GENERAL PROVISIONS
 
 #### Article 1
 
-In this Regional Regulation, what is meant by:  
-1. Region is East Lampung Regency.  
-2. Regional Government is the Regent and Regional Apparatus as elements of regional government administration.  
-3. Regent is the Regent of East Lampung.  
-4. Regional House of Representatives, hereinafter abbreviated as DPRD, is the regional people's representative institution of East Lampung Regency as an element of regional government administration.  
-5. Regional Apparatus Work Unit, hereinafter abbreviated as SKPD, is the Regional Apparatus Work Unit of East Lampung Regency.  
-6. Regional Apparatus Work Unit, hereinafter abbreviated as UKPD, is the Regional Apparatus Work Unit of East Lampung Regency.  
-7. Child is a person who has not reached 18 years of age, including a child in the womb.  
-8. Woman is an adult human being of female sex and a person recognized by law as a woman.  
-9. Discrimination is any distinction, harassment or exclusion, whether direct or indirect, based on human differentiation on the basis of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that results in the reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.  
-10. Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threat of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.  
-11. Protection of women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.  
-12. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination.  
-13. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension in planning, implementation, budgeting, monitoring and evaluation of policies/programs/activities in various fields of life and development.  
-14. Child Rights Mainstreaming, hereinafter referred to as PUHA, is a child protection strategy by integrating children's rights into every development activity from the preparation of planning, budgeting, implementation, monitoring, and evaluation of various laws and regulations, policies, programs, and activities by applying the principle of the best interests of the child in child welfare and protection programs covering four (4) areas of work, namely child health, child education, child protection and HIV/AIDS prevention.  
-15. Child-Friendly Regency, hereinafter referred to as KLA, is a development model that integrates the commitment and resources of government, society and the business world in a comprehensive and sustainable manner through the Child Rights Mainstreaming Strategy.  
-16. Integrated Service Center for Women and Children Empowerment, hereinafter referred to as P2TP2A, is an integrated service unit established by the regional government to provide services in the context of women's empowerment, protection of women, and protection of children from various types of discrimination and acts of violence, including trafficking in persons.  
-17. Safe House is a temporary residence, provided to provide protection to victims in accordance with predetermined standards.  
-18. Child Friend Telephone 129, hereinafter referred to as TESA 129, is a form of child protection service in the form of local toll-free telephone access (home/office telephone) for children who need protection or are in emergency situations as well as children who need counseling services.  
-19. Victim is an individual or group of people who experience suffering whether physical, mental or emotional, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights (HAM) violations, or criminal acts as well as acts of violence committed either by state apparatus or by the state or regional government apparatus or by individuals.  
-20. Implementing officer or functional officer is a health worker, psychologist, psychiatrist, social worker, legal aid worker who comes from civil servants within their respective agencies or special personnel employed at P2TP2A Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.  
-21. Rehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in society.  
-22. Social Reintegration is an effort to reunite victims with family, community, institutions, or other social environments that can provide protection.  
-23. Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of shared vision, mission, profession, function and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, consisting of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.
+In this Regional Regulation, what is meant by:
+
+Region is East Lampung Regency.
+
+Regional Government is the Regent and Regional Apparatus as elements of regional government administration.
+
+Regent is the Regent of East Lampung.
+
+Regional People's Representative Council, hereinafter abbreviated as DPRD, is the regional people's representative institution of East Lampung Regency as an element of regional government administration.
+
+Regional Apparatus Working Unit, hereinafter abbreviated as SKPD, is the Regional Apparatus Working Unit of East Lampung Regency. Regional Apparatus Work Unit, hereinafter abbreviated as UKPD, is the Regional Apparatus Work Unit of East Lampung Regency. Child is a person who is not yet 18 years old, including a child in the womb.
+
+Woman is an adult human of female sex and a person recognized by law as a woman. Discrimination is any differentiation, harassment or exclusion, direct or indirect, based on human differentiation on the basis of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that results in the reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.
+
+Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.
+
+Protection of women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.
+
+Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination.
+
+Gender Mainstreaming is a strategy built to integrate gender into an integral dimension in the planning, implementation, budgeting, monitoring and evaluation of policies/programs/activities in various fields of life and development.
+
+Mainstreaming of Children's Rights, hereinafter referred to as PUHA, is a child protection strategy by integrating children's rights into every development activity from the preparation of planning, budgeting, implementation, monitoring, and evaluation of various laws and regulations, policies, programs, and activities by applying the principle of the best interests of the child in child welfare and protection programs covering four (4) areas of work, namely child health, child education, child protection and HIV/AIDS prevention.
+
+Child-Friendly Regency, hereinafter referred to as KLA, is a development model that integrates the commitment and resources of government, society and business comprehensively and sustainably through the Strategy of Mainstreaming children's rights.
+
+Integrated Service Center for Women and Children Empowerment, hereinafter referred to as P2TP2A, is an integrated service unit established by the regional government to provide services in the context of women's empowerment, protection of women, and protection of children from various types of discrimination and acts of violence, including human trafficking.
+
+Safe House is a temporary residence provided to provide protection to victims in accordance with predetermined standards.
+
+Children's Friend Telephone 129, hereinafter referred to as TESA 129, is a form of child protection service in the form of local toll-free telephone access (home/office telephone) for children who need protection or are in emergency situations as well as children who need counseling services.
+
+Victim is an individual or group of people who suffer physically, mentally or emotionally, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights (HAM) violations, or criminal acts and acts of violence committed either by state apparatus or by the state or regional government apparatus or by individuals.
+
+Implementing officer or functional officer is a health worker, psychologist, psychiatrist, social worker, legal aid worker who comes from civil servants within their respective agencies or special personnel employed at P2TP2A
+
+Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for strengthening and recovery of victims of violence.
+
+Rehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in society.
+
+Social Reintegration is an effort to reunite victims with families, communities, institutions, or other social environments that can provide protection.
+
+Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of common vision, mission, profession, function and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, consisting of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other organizational forms.
 
 # CHAPTER II
 
-## PURPOSE AND OBJECTIVES
+PURPOSE AND OBJECTIVES
 
 #### Article 2
 
-The Regional Regulation on the Protection of Women and Children is intended to provide guidance to the East Lampung Regency Government and various related parties (law enforcers, community institutions, universities and civil society) to optimize protection efforts for women and children from discrimination and violence.
+The Regional Regulation on Protection of Women and Children is intended to provide guidance to the Government of East Lampung Regency and various related parties (law enforcement, community institutions, universities and civil society) to optimize efforts to protect women and children from discrimination and violence.
 
 #### Article 3
 
-The Regional Regulation on the Protection of Women and Children aims to:  
-a. ensure the implementation of policies, programs, and activities for the protection of women and children by the Regional Government in a systematic, comprehensive, continuous and integrated manner;  
-b. increase the commitment of the Regional Government in implementing policies, programs, and activities for the protection of women and children;  
-c. realize regional planning and development that is gender responsive and child-friendly;  
-d. encourage institutions that handle the duties and functions of women's empowerment, protection of women, and protection of children both in the Regional Government and community institutions, universities, and civil society.
+The Regional Regulation on Protection of Women and Children aims to: ensure the implementation of policies, programs, and activities for the protection of women and children by the Regional Government in a systematic, comprehensive, continuous and integrated manner; increase the commitment of the Regional Government in implementing policies, programs, and activities for the protection of women and children; realize regional planning and development that is gender-responsive and child-friendly; encourage institutions that handle the tasks and functions of women's empowerment, protection of women, and protection of children both in Regional Government and community institutions, universities, and civil society.
 
 # CHAPTER III
 
-## PLANNING
+PLANNING
 
 #### Article 4
 
-1. The Regional Government integrates policies, programs and activities for the development of protection of women and children in the region as set forth in the Regional Long-Term Development Plan (RPJPD), Regional Medium-Term Development Plan (RPJMD), Strategic Plan of Regional Work Units (Renstra-SKPD), Regional Development Work Plan (RKPD), and Work Plan and Budget of Regional Work Units (RKA-SKPD), with reference to the national policy on Protection of Women and Children.  
-2. The work unit whose duties and functions handle the protection of women and children facilitates the integration of policies, programs, and activities for the development of protection of women and children into the preparation of planning and budget documents as set forth in paragraph (1).  
-3. In implementing as referred to in paragraph (2), the work unit whose duties and functions handle the protection of women and children in the region coordinates with the Regional Development Planning Agency.
+The Regional Government integrates policies, programs and activities for the development of protection of women and children in the region which are set forth in the Regional Long-Term Development Plan (RPJPD), Regional Medium-Term Development Plan (RPJMD), Strategic Plan of the Regional Apparatus Working Unit (Renstra-SKPD), Regional Development Work Plan (RKPD), and Work Plan and Budget of the Regional Apparatus Working Unit (RKA-SKPD), with reference to the national policy on Protection of Women and Children.
+
+The work unit whose tasks and functions handle the protection of women and children facilitates the integration of policies, programs, and activities for the development of protection of women and children into the preparation of planning and budget documents as set forth in paragraph (1).
+
+In implementing as referred to in paragraph (2), the work unit whose tasks and functions handle the protection of women and children in the region coordinates with the Regional Development Planning Agency.
 
 # CHAPTER IV
 
-## IMPLEMENTATION
+IMPLEMENTATION
 
 ## Part One
 
-Duties and Authority of the Regional Government
+Duties and Authority of Regional Government
 
 #### Article 5
 
-1. The Regent is obliged to implement policies, programs, and activities for the protection of women and children, to eliminate all forms of discrimination and acts of violence against women and children in his/her region.  
-2. The implementation as referred to in paragraph (1) is coordinated by the Vice Regent.
+The Regent is obligated to implement policies, programs, and activities for the protection of women and children, to eliminate all forms of discrimination and acts of violence against women and children in their region.
+
+The implementation as referred to in paragraph (1) is coordinated by the Vice Regent.
 
 #### Article 6
 
-1. The work unit whose duties and functions handle the empowerment of women and children implements policies, programs, and activities for the protection of women and children that have been established, and in its implementation cooperates with regional work units (SKPD), the business sector, law enforcement, community institutions, universities, and civil society.  
-2. The implementation as referred to in paragraph (1) is in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, development of models for the protection of women and children, and other forms.
+The work unit whose duties and functions handle the empowerment of women and children implements the policies, programs, and activities for the protection of women and children that have been established, and in its implementation cooperates with regional apparatus work units (SKPD), the business sector, law enforcers, community institutions, universities, and civil society.
+
+The implementation as referred to in paragraph (1) consists of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, development of models for the protection of women and children, and other forms.
 
 #### Article 7
 
-1. To encourage the implementation of policies, programs, and activities for the protection of women and children in the region, it may be carried out by forming, developing, strengthening, or utilizing task forces, forums, working groups, or other institutions at the provincial, regency and city levels.  
-2. The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant SKPD, community institutions, universities, and civil society.  
-3. The formation of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is established by Regent's Decree.
+To encourage the implementation of policies, programs, and activities for the protection of women and children in the region, it may be carried out by establishing, developing, strengthening, or utilizing task forces, forums, working groups, or other institutions at the provincial, regency and city levels.
+
+The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant SKPD, community institutions, universities, and civil society.
+
+The establishment of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is stipulated by Regent Decree.
 
 #### Article 8
 
-1. In implementing policies, programs, and activities for the protection of women and children, the Regional Government of East Lampung Regency may cooperate with international institutions.  
-2. Cooperation as referred to in paragraph (1) is implemented in accordance with the provisions of laws and regulations.
+In implementing policies, programs, and activities for the protection of women and children, the Regional Government of East Lampung Regency may cooperate with international institutions.
+
+The cooperation as referred to in paragraph (1) is carried out in accordance with the provisions of laws and regulations.
 
 #### Article 9
 
-The Regent in implementing policies, programs, and activities for the protection of women and children, undertakes efforts to:  
-a. coordinate the implementation of policies, programs, and activities for the protection of women and children among SKPD in his/her territory;  
-b. cooperate with law enforcement, community institutions, universities, the business sector, and civil society in the implementation of policies, programs and activities for the protection of women and children;  
-c. strengthen the institutional capacity of PUG and PUHA;  
-d. facilitate services required in the implementation of protection of women and children;  
-e. provide services for the protection of women and children;  
-f. formulate affirmative action for the protection of women and children;  
-g. form and develop KLA; and  
-h. formulate a data system for the protection of women and children, including a data system for violence against women and children.
+The Regent in implementing policies, programs, and activities for the protection of women and children, undertakes efforts to: coordinate the implementation of policies, programs, and activities for the protection of women and children among SKPD in their area; cooperate with law enforcers, community institutions, universities, the business sector, and civil society in the implementation of policies, programs and activities for the protection of women and children; strengthen the institutional capacity of PUG and PUHA; facilitate services needed in the implementation of the protection of women and children; provide protection services for women and children; formulate affirmative action for the protection of women and children; establish and develop KLA; and formulate a data system for the protection of women and children, including a data system on violence against women and children.
 
 #### Article 10
 
-1. The provision of services for the protection of women and children as referred to in Article 9 letter e covers efforts to fulfill the rights and improve the quality of women and children, especially in the fields of education, health, economy and legal protection.  
-2. For women and children who are victims of violence and trafficking in persons, services include: complaint services/victim identification, legal aid, health rehabilitation, psychosocial rehabilitation, social reintegration, repatriation assistance or other forms according to the needs and best interests of the victim.  
-3. The provision of protection services as referred to in paragraph (2) is also intended for women and children in conflict-prone and disaster areas, women and children with disabilities, women and children victims of sexual exploitation, women and children affected by HIV/AIDS, women and children in other vulnerable groups, and children who require special protection.  
-4. The provisions as referred to in paragraphs (1), (2) and (3) are regulated through Regent's Regulation.
+The provision of protection services for women and children as referred to in Article 9 letter e encompasses efforts to fulfill rights and improve the quality of women and children, especially in the fields of education, health, economy and legal protection.
+
+For women and children who are victims of violence and trafficking in persons, services include: complaint services/victim identification, legal assistance, health rehabilitation, psychosocial rehabilitation, social reintegration, repatriation assistance or other forms in accordance with the needs and best interests of victims.
+
+The provision of protection services as referred to in paragraph (2) is also intended for women and children in conflict-prone and disaster areas, women and children with disabilities, women and children victims of sexual exploitation, women and children affected by HIV/AIDS, women and children in other vulnerable groups, and children in need of special protection.
+
+The provisions as referred to in paragraphs (1), (2) and (3) are regulated through Regent Regulation.
 
 #### Article 11
 
-The provision of services for the protection of women and children is implemented through P2TP2A, and other institutions in accordance with the needs and best interests of women and children.
+The provision of protection services for women and children is carried out through P2TP2A, and other institutions in accordance with the needs and best interests of women and children.
 
 ## Part Two
 
@@ -192,88 +222,97 @@ Implementation of Protection
 
 #### Article 12
 
-1. In order to provide services for the protection of women and children, the regional government establishes P2TP2A as an integrated service center for the protection of women and children.  
-2. The formation and development of P2TP2A is adjusted to the development of priority needs, and the regional financial capacity as well as the institutional and personnel capacity available in the region.
+In order to provide protection services for women and children, the regional government establishes P2TP2A as an integrated service center for the protection of women and children.
+
+The establishment and development of P2TP2A is adjusted to the development of priority needs, and the financial capacity of the region as well as the institutional and personnel capacity available in the region.
 
 #### Article 13
 
-1. P2TP2A has the principal duties and functions as an institution for the empowerment of women in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is formed by the government or community-based.  
-2. In carrying out the principal duties and functions as referred to in paragraph (1), P2TP2A may coordinate with sub-districts, and various parties who are competent in making efforts to protect women and children from various types of discrimination and acts of violence, including trafficking in persons.  
-3. The implementation of integrated services must be supported by implementing officers or functional officers which include health workers, psychologists, psychiatrists, social workers, legal aid workers provided by relevant agencies or institutions.
+P2TP2A has the main duties and functions as an institution for the empowerment of women in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, established by the government or community-based
+
+In carrying out the main duties and functions as referred to in paragraph (1), P2TP2A may coordinate with sub-districts, and various competent parties in making efforts to protect women and children from various types of discrimination and acts of violence, including trafficking in persons.
+
+The implementation of integrated services must be supported by implementing officers or functional officers including health workers, psychologists, psychiatrists, social workers, legal aid workers provided by relevant agencies or institutions.
 
 #### Article 14
 
-1. P2TP2A consists of various elements, among others: work units in charge of women's empowerment, family planning, health, social affairs, religion, manpower, education, population, community empowerment, civil service police, police, prosecutor's office, courts, hospitals, and community institutions, as well as universities.  
-2. The membership of P2TP2A as referred to in paragraph (1), is established by Regent's Decree.
+P2TP2A consists of various elements, among others: work units dealing with women's empowerment, family planning, health, social affairs, religion, manpower, education, population, community empowerment, civil service police, police, prosecutor's office, courts, hospitals, and community institutions, as well as universities.
+
+The membership of P2TP2A as referred to in paragraph (1), is stipulated by Regent Decree.
 
 #### Article 15
 
-1. P2TP2A as an integrated service center for the protection of women and children in East Lampung Regency, must gradually be able to function as: a referral center, reproductive health consultation center, legal consultation center, integrated crisis center (PKT), violence handling center, trauma recovery center (trauma center), women's crisis handling center (women crisis center), training center, science and technology information center (PIPTEK), business consultation center, safe house (shelter), transit house, children's friend telephone (TESSA) 129 or other forms that support the improvement of services for the protection of women and children.  
-2. Further provisions regarding the organization and working procedures of P2TP2A as referred to in paragraph (1) are regulated by Regent's Regulation.
+P2TP2A as an integrated service center for the protection of women and children in East Lampung Regency, must gradually be able to function as: a referral center, reproductive health consultation center, legal consultation center, integrated crisis center (PKT), violence response center, trauma recovery center (trauma center), women's crisis center, training center, science and technology information center (PIPTEK), business consultation center, shelter, transit home, children's friend telephone (TESSA) 129 or other forms that support the improvement of protection services for women and children.
+
+Further provisions regarding the organization and working procedures of P2TP2A as referred to in paragraph (1) are regulated by Regent Regulation.
 
 # CHAPTER V
 
-## MONITORING AND EVALUATION
+MONITORING AND EVALUATION
 
 #### Article 16
 
-1. To ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women and children, the Regional Government shall conduct monitoring.  
-2. The monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs, and activities for the protection of women and children in East Lampung Regency.  
-3. Monitoring shall be conducted periodically through coordination and direct monitoring of SKPDs that implement policies, programs, and activities for the protection of women and children.  
-4. Monitoring shall be conducted from the planning stage through the implementation of policies, programs, and activities for the protection of women and children for the current year.
+To ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women and children, the Regional Government conducts monitoring.
+
+The monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs, and activities for the protection of women and children in East Lampung Regency.
+
+Monitoring is carried out periodically through coordination and direct monitoring of SKPD that implement policies, programs, and activities for the protection of women and children.
+
+Monitoring is carried out from the planning to the implementation of policies, programs, and activities for the protection of women and children for the current year.
 
 #### Article 17
 
-1. Evaluation of the implementation of policies, programs, and activities for the protection of women and children shall be conducted at the end of each fiscal year or when necessary according to needs.  
-2. The results of the evaluation of the implementation of policies, programs, and activities for the protection of women and children shall be used as input for the formulation of policies, programs, and activities for the protection of women and children for the following year.  
-3. The evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.
+Evaluation of the implementation of policies, programs, and activities for the protection of women and children is carried out at the end of each fiscal year or when necessary according to needs.
+
+The results of the evaluation of the implementation of policies, programs, and activities for the protection of women and children are used as input material for the formulation of policies, programs, and activities for the protection of women and children for the following year.
+
+The evaluation as referred to in paragraph (1) is carried out in accordance with the provisions of laws and regulations.
 
 # CHAPTER VI
 
-## REPORTING
+REPORTING
 
 #### Article 18
 
-1. Every work unit and operational unit that implements policies, programs, and activities for the protection of women and children must conduct reporting at the end of each fiscal year.  
-2. The implementation reporting as referred to in paragraph (1) shall be conducted annually and/or when necessary.  
-3. The form of reporting as referred to in paragraph (1) and paragraph (2) shall be implemented in accordance with the provisions of laws and regulations.
+Every work unit and work unit that implements policies, programs, and activities for the protection of women and children must report at the end of each fiscal year
+
+Reporting of implementation as referred to in paragraph (1) shall be conducted annually and/or when necessary.
+
+The form of reporting as referred to in paragraph (1) and paragraph (2) shall be implemented in accordance with the provisions of laws and regulations.
 
 # CHAPTER VII
 
-## FUNDING
+FUNDING
 
 #### Article 19
 
-1. Funding for the implementation of policies, programs, and activities for the protection of women and children in the regency shall be sourced from the regency APBD and other lawful sources in accordance with the provisions of laws and regulations.
-2. The Regional Government may provide funding assistance for the implementation of policies, programs, and activities for the protection of women and children in accordance with the provisions of laws and regulations.
+Funding for the implementation of policies, programs, and activities for the protection of women and children in the regency shall be sourced from the regency APBD and other legitimate sources in accordance with the provisions of laws and regulations.
+
+The Regional Government may provide funding assistance for the implementation of policies, programs, and activities for the protection of women and children in accordance with the provisions of laws and regulations.
 
 # CHAPTER VIII
 
-## GUIDANCE
+GUIDANCE
 
 #### Article 20
 
-1. The Regional Government is obligated to provide guidance for the implementation of protection for women and children.  
-2. The guidance as referred to in paragraph (1) includes:  
-a. establishing guidelines and fulfillment standards;  
-b. facilitating technical guidance and training;  
-c. increasing the provision of facilities;  
-d. conducting periodic institutional capacity strengthening through training, consultation, advocacy and coordination to strengthen the role of P2TP2A;  
-e. strengthening institutions or organizational units that handle the protection of women and children;  
-f. conducting monitoring and evaluation;
+The Regional Government is obligated to provide guidance in the implementation of protection for women and children.
+
+Guidance as referred to in paragraph (1) includes: establishing guidelines and standards for fulfillment; facilitating technical guidance and training; improving the provision of facilities; conducting periodic institutional capacity strengthening through training, consultation, advocacy and coordination to strengthen the role of P2TP2A; strengthening institutions or organizational units handling the protection of women and children; conducting monitoring and evaluation;
 
 # CHAPTER IX
 
-## COMMUNITY PARTICIPATION
+COMMUNITY PARTICIPATION
 
 #### Article 21
 
-1. The community may participate in efforts to implement protection for women and children from discrimination and violence, either individually and/or organizationally.  
-2. The community may participate in efforts to implement protection for women and children from discrimination and violence either organizationally and/or individually.
+The community may participate in efforts to implement protection for women and children from discrimination and violence, either individually and/or through organizations.
+
+The community may participate in efforts to implement protection for women and children from discrimination and violence either through organizations and/or individually
 
 # CHAPTER X
 
-## CLOSING PROVISIONS
+CLOSING PROVISIONS
 
 #### Article 22
 
@@ -281,162 +320,180 @@ This Regulation constitutes one of the performance measures for the implementati
 
 #### Article 23
 
-This Regional Regulation shall come into force on the date of promulgation.  
+This Regional Regulation shall come into force on the date of promulgation.
 
-In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of East Lampung Regency.  
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of East Lampung Regency.
 
-Enacted in Sukadana on 07 March 2013  
+Enacted in Sukadana on 07 March 2013
 
-REGENT OF EAST LAMPUNG,  
+REGENT OF EAST LAMPUNG,
 
-ERWIN ARIFIN  
+signed
 
-Promulgated in Sukadana on 07 March 2013  
+ERWIN ARIFIN
 
-REGIONAL SECRETARY  
+Promulgated in Sukadana on 07 March 2013
 
-OF EAST LAMPUNG REGENCY,  
+REGIONAL SECRETARY
 
-I WAYAN SUTARJA  
+EAST LAMPUNG REGENCY,
 
-REGIONAL GAZETTE OF EAST LAMPUNG REGENCY YEAR 2013 NUMBER 15  
+signed
 
-Copy in accordance with the original  
+I WAYAN SUTARJA
 
-HEAD OF LEGAL DIVISION  
+REGIONAL GAZETTE OF EAST LAMPUNG REGENCY YEAR 2013 NUMBER 15
 
-H.ROSDI.S.H.  
+Copy in accordance with the original
 
-Pembina Tk.I/IV.b  
+HEAD OF LEGAL DIVISION
+
+signed
+
+H.ROSDI.S.H.
+
+Pembina Tk.I/IV.b
 
 NIP. 19630810 199003 1 011
 
-# ELUCIDATION OF REGIONAL REGULATION OF EAST LAMPUNG REGENCY
+ELUCIDATION
 
-NUMBER 15 OF 2012 CONCERNING THE PROTECTION OF WOMEN AND CHILDREN IN EAST LAMPUNG REGENCY
+ON
 
-##### I. GENERAL
+REGIONAL REGULATION OF EAST LAMPUNG REGENCY
 
-The right to obtain protection for every citizen has actually been guaranteed by the constitution. This can be observed in the purpose of the establishment of the state as referred to in the fourth paragraph of the Preamble to the 1945 Constitution which states that "The State protects the entire Indonesian nation and all of Indonesia's territory and to promote the general welfare, educate the life of the nation and participate in implementing world order based on independence, lasting peace and social justice". The meaning of protecting here includes protecting every citizen from all forms of discrimination and violence. In addition, Article 28 G paragraph 2 of the 1945 Constitution states that every person has the right to be free from torture or treatment that degrades human dignity.  
+NUMBER 15 OF 2012
 
-However, in reality, problems of discrimination, exploitation, violence, neglect, and human trafficking still frequently occur, especially among women and children. This shows how vulnerable these two groups are. Yet if examined further, women and children have a very strategic role in the dynamics of national progress. Women as part of the potential human resources that help determine the success of a family, community, and nation. Success can only be achieved when good cooperation is established between women and men as resources. Meanwhile, children are the buds, potential, and young generation who will continue the ideals of the nation's struggle. This responsibility can only be carried out well by children who are given broad opportunities to grow and develop optimally, both physically, mentally and socially.  
+CONCERNING
 
-The existence of the Regional Regulation on the Protection of Women and Children in East Lampung Regency is part of an effort so that women and children can carry out their strategic roles properly. With the existence of such Regional Regulation, it means there is a guarantee of the fulfillment of their rights and protection from various forms of discrimination and treatment that degrades the dignity of women and children.
+PROTECTION OF WOMEN AND CHILDREN
 
-##### II. ARTICLE BY ARTICLE
+IN EAST LAMPUNG REGENCY
+
+I. GENERAL
+
+The right to obtain protection for every citizen has in fact been guaranteed by the constitution. This can be observed in the objectives of the formation of the state as referred to in the fourth paragraph of the Preamble of the 1945 Constitution which states that "The State protects the entire Indonesian nation and all of Indonesia's homeland and to promote general welfare, educate the life of the nation and participate in implementing world order based on independence, eternal peace and social justice". The meaning of protecting here includes protecting every citizen from all forms of discrimination and violence. In addition, Article 28 G paragraph 2 of the 1945 Constitution states that every person has the right to be free from torture or treatment that degrades human dignity.
+
+However, in reality, problems of discrimination, exploitation, violence, neglect, and human trafficking still frequently occur, especially among women and children. This shows how vulnerable these two groups are. Whereas if examined further, women and children have a very strategic role in the dynamics of national progress. Women are part of the human resource potential that helps determine the success of a family, society, and nation. Success can only be achieved when good cooperation is established between women and men resources. Meanwhile, children are the shoots, potential, and young generation who continue the ideals of the nation's struggle. This responsibility can only be well carried by children who are given wide opportunities to grow and develop optimally, physically, mentally and socially.
+
+The existence of the Regional Regulation on the Protection of Women and Children in East Lampung Regency is part of an effort so that women and children can carry out their strategic role well. With the existence of such Regional Regulation, it means there is a guarantee that their rights are fulfilled and protection from various forms of discrimination and treatment that degrades the dignity of women and children.
+
+II. ARTICLE BY ARTICLE
 
 #### Article 1
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 2
 
-What is meant by civil society is a society that has independence, which is demonstrated by its willingness to participate actively in development.
+What is meant by civil society is a society that has independence, which is shown by its willingness to participate actively in development.
 
 #### Article 3
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 4
 
-Paragraph (1)  
-What is meant by integration is that efforts to protect women and children must be made part of regional development policies, programs, and activities that are documented in the RPJPD, RPJMD, SKPD Strategic Plan, RKPD, and RKA-SKPD.  
+Paragraph (1)
 
-Paragraph (2)  
-Sufficiently clear.  
+What is meant by integration is that efforts to protect women and children must be made part of regional development policies, programs, and activities documented in RPJPD, RPJMD, Renstra SKPD, RKPD, and RKA-SKPD.
 
-Paragraph (3)  
-Sufficiently clear.
+Paragraph (2)
+
+Sufficiently clear
+
+Paragraph (3)
+
+Sufficiently clear
 
 #### Article 5
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 6
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 7
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 8
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 9
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 10
 
-Paragraph (1)  
-Sufficiently clear.  
+Paragraph (1) Sufficiently clear Paragraph (2) Sufficiently clear
 
-Paragraph (2)  
-Sufficiently clear.  
+Paragraph (3)
 
-Paragraph (3)  
-What is meant by women and children affected by HIV/AIDS are women and children who with professional recommendation (doctor) or laboratory officer are proven to be infected with the HIV virus so that they experience immune deficiency syndrome (AIDS) and live in neglect.  
+What is meant by women and children affected by HIV/AIDS are women and children who, based on professional recommendation (doctor) or laboratory officer, are proven to have contracted the HIV virus resulting in immune deficiency syndrome (AIDS) and live in neglect.
 
-What is meant by vulnerable groups are community groups who are in a weak/powerless position, including community groups facing economic, social, and health problems, so that they are less able to meet their basic needs or have not/cannot live decently.  
+What is meant by vulnerable groups are community groups who are in a weak/powerless position, including community groups facing economic, social, and health problems, so that they are less able to meet their basic needs or have not/cannot live decently.
 
-What is meant by children requiring special protection are children in emergency situations; children in conflict with the law; children from minority and isolated groups; children who are exploited economically and/or sexually; children who are trafficked; child victims of narcotics, alcohol, psychotropic and other addictive substance abuse (drugs); child victims of kidnapping, sale, and trafficking; child victims of physical and/or mental violence; children with disabilities; and child victims of maltreatment and neglect.
+What is meant by children in need of special protection are children in emergency situations; children in conflict with the law; children from minority and isolated groups; children who are economically and/or sexually exploited; children who are trafficked; child victims of abuse of narcotics, alcohol, psychotropic substances and other addictive substances (drugs); child victims of kidnapping, sale, and trafficking; child victims of physical and/or mental violence; children with disabilities; and child victims of maltreatment and neglect.
 
 #### Article 11
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 12
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 13
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 14
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 15
 
-Paragraph (1)  
-What is meant by other forms that support the improvement of protection services for women and children includes innovative and contextual programs and activities in accordance with the needs of efforts to protect women and children.  
+Paragraph (1)
 
-Paragraph (2)  
-Sufficiently clear.
+What is meant by other forms that support the improvement of protection services for women and children includes innovative and contextual programs and activities in accordance with the needs of efforts to protect women and children.
+
+Paragraph (2)
+
+Sufficiently clear
 
 #### Article 16
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 17
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 18
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 19
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 20
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 21
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 22
 
-Sufficiently clear.
+Sufficiently clear
 
 #### Article 23
 
-Sufficiently clear.  
+Sufficiently clear
 
 SUPPLEMENT TO THE REGIONAL GAZETTE OF EAST LAMPUNG REGENCY YEAR 2013 NUMBER 15

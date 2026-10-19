@@ -1,48 +1,604 @@
-2026-10-14 11:58:46,954 INFO    QUALITY CHECK started (project=indonesia)
-2026-10-14 11:58:46,955 INFO    PASS 1. Russia - DomViol - Russian__txt (txt) -> cleaned_txt/1. Russia - DomViol - Russian__txt.txt [fixes: hygiene]
-2026-10-14 11:58:46,955 INFO    PASS 2. Egypt - DomViol - Arabic__txt (txt) -> cleaned_txt/2. Egypt - DomViol - Arabic__txt.txt [fixes: hygiene]
-2026-10-14 11:58:46,955 INFO    PASS 3. Spain - DomViol - Spanish__txt (txt) -> cleaned_txt/3. Spain - DomViol - Spanish__txt.txt [fixes: hygiene]
-2026-10-14 11:58:46,955 INFO    PASS 4. China - DomViol - Chinese__txt (txt) -> cleaned_txt/4. China - DomViol - Chinese__txt.txt [fixes: hygiene]
-2026-10-14 11:58:46,957 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
-2026-10-14 11:58:46,957 INFO    QUALITY CHECK finished: 5 policies, 5 in cleaned_txt, 0 need OCR, 0 eliminated (0 were already done)
-2026-10-14 11:58:47,245 INFO    QUALITY CHECK started (project=indonesia)
-2026-10-14 11:58:47,245 WARNING ELIMINATED 1. Russia - DomViol - Russian__txt (txt): C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/1. Russia - DomViol - Russian__txt.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 11:58:47,245 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
-2026-10-14 11:58:47,245 INFO    QUALITY CHECK finished: 2 policies, 1 in cleaned_txt, 0 need OCR, 1 eliminated (0 were already done)
-2026-10-14 11:59:39,606 INFO    QUALITY CHECK started (project=indonesia)
-2026-10-14 11:59:39,607 INFO    PASS 1. Russia - DomViol - Russian__txt (txt) -> cleaned_txt/1. Russia - DomViol - Russian__txt.txt [fixes: hygiene]
-2026-10-14 11:59:39,607 INFO    PASS 2. Egypt - DomViol - Arabic__txt (txt) -> cleaned_txt/2. Egypt - DomViol - Arabic__txt.txt [fixes: hygiene]
-2026-10-14 11:59:39,607 INFO    PASS 3. Spain - DomViol - Spanish__txt (txt) -> cleaned_txt/3. Spain - DomViol - Spanish__txt.txt [fixes: hygiene]
-2026-10-14 11:59:39,607 INFO    PASS 4. China - DomViol - Chinese__txt (txt) -> cleaned_txt/4. China - DomViol - Chinese__txt.txt [fixes: hygiene]
-2026-10-14 11:59:39,607 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
-2026-10-14 11:59:39,607 INFO    QUALITY CHECK finished: 5 policies, 5 in cleaned_txt, 0 need OCR, 0 eliminated (0 were already done)
-2026-10-14 11:59:39,892 INFO    QUALITY CHECK started (project=indonesia)
-2026-10-14 11:59:39,892 WARNING ELIMINATED 1. Russia - DomViol - Russian__txt (txt): C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/1. Russia - DomViol - Russian__txt.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 11:59:39,892 INFO    PASS ACEH_BIREUEN__txt (txt) -> cleaned_txt/ACEH_BIREUEN__txt.txt [fixes: hygiene]
-2026-10-14 11:59:39,893 INFO    QUALITY CHECK finished: 2 policies, 1 in cleaned_txt, 0 need OCR, 1 eliminated (0 were already done)
-2026-10-14 12:02:45,409 INFO    QUALITY CHECK started (project=indonesia)
-2026-10-14 12:02:45,410 WARNING ELIMINATED BALI_BULELENG (txt): C6_glued_words=1.181 (limit 1.0) - fix extracted_txt/BALI_BULELENG.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,410 WARNING ELIMINATED DI_YOGYAKARTA_GUNUNGKIDUL (txt): C3_noisy_tokens=0.0068 (limit 0.006) - fix extracted_txt/DI_YOGYAKARTA_GUNUNGKIDUL.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,410 WARNING ELIMINATED GORONTALO_GORONTALO_KOTA (txt): C3_noisy_tokens=0.0112 (limit 0.006) - fix extracted_txt/GORONTALO_GORONTALO_KOTA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,410 WARNING ELIMINATED GORONTALO_GORONTALO_UTARA (txt): C3_noisy_tokens=0.0076 (limit 0.006) - fix extracted_txt/GORONTALO_GORONTALO_UTARA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,410 WARNING ELIMINATED JAWA_BARAT_CIMAHI_KOTA (txt): C3_noisy_tokens=0.0068 (limit 0.006) - fix extracted_txt/JAWA_BARAT_CIMAHI_KOTA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_BARAT_MAJALENGKA (txt): C6_glued_words=1.39 (limit 1.0) - fix extracted_txt/JAWA_BARAT_MAJALENGKA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_TENGAH_MAGELANG (txt): C3_noisy_tokens=0.0099 (limit 0.006) - fix extracted_txt/JAWA_TENGAH_MAGELANG.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_TIMUR_BANGKALAN (txt): C3_noisy_tokens=0.0078 (limit 0.006) - fix extracted_txt/JAWA_TIMUR_BANGKALAN.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED JAWA_TIMUR_MAGETAN (txt): C3_noisy_tokens=0.0109 (limit 0.006) - fix extracted_txt/JAWA_TIMUR_MAGETAN.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_BARAT_BENGKAYANG (txt): C3_noisy_tokens=0.0116 (limit 0.006) - fix extracted_txt/KALIMANTAN_BARAT_BENGKAYANG.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_BALANGAN (txt): C3_noisy_tokens=0.0084 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_BALANGAN.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA (txt): C3_noisy_tokens=0.0139 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_TABALONG (txt): C3_noisy_tokens=0.0071 (limit 0.006), C6_glued_words=1.491 (limit 1.0) - fix extracted_txt/KALIMANTAN_SELATAN_TABALONG.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_SELATAN_TAPIN (txt): C3_noisy_tokens=0.0087 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_TAPIN.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_TENGAH_BARITO_TIMUR (txt): C3_noisy_tokens=0.0086 (limit 0.006), C6_glued_words=1.919 (limit 1.0) - fix extracted_txt/KALIMANTAN_TENGAH_BARITO_TIMUR.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA (txt): C3_noisy_tokens=0.012 (limit 0.006) - fix extracted_txt/KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,411 WARNING ELIMINATED KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA (txt): C3_noisy_tokens=0.0063 (limit 0.006) - fix extracted_txt/KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 WARNING ELIMINATED LAMPUNG_LAMPUNG_UTARA (txt): C3_noisy_tokens=0.0131 (limit 0.006) - fix extracted_txt/LAMPUNG_LAMPUNG_UTARA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 WARNING ELIMINATED MALUKU_SERAM_BAGIAN_BARAT (txt): C3_noisy_tokens=0.0079 (limit 0.006) - fix extracted_txt/MALUKU_SERAM_BAGIAN_BARAT.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 WARNING ELIMINATED SULAWESI_TENGAH_DONGGALA (txt): C3_noisy_tokens=0.0239 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_DONGGALA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 WARNING ELIMINATED SULAWESI_TENGAH_MOROWALI (txt): C3_noisy_tokens=0.0082 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_MOROWALI.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 WARNING ELIMINATED SULAWESI_TENGAH_POSO (txt): C3_noisy_tokens=0.0146 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_POSO.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 WARNING ELIMINATED SUMATERA_BARAT_DHARMASRAYA (txt): C3_noisy_tokens=0.0085 (limit 0.006), C6_glued_words=1.368 (limit 1.0) - fix extracted_txt/SUMATERA_BARAT_DHARMASRAYA.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 WARNING ELIMINATED SUMATERA_SELATAN_MUSI_RAWAS (txt): C3_noisy_tokens=0.0073 (limit 0.006) - fix extracted_txt/SUMATERA_SELATAN_MUSI_RAWAS.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:02:45,412 INFO    QUALITY CHECK finished: 198 policies, 174 in cleaned_txt, 0 need OCR, 24 eliminated (174 were already done)
+2026-10-16 17:19:21,826 INFO    EXTRACTED ACEH_BIREUEN.txt (txt, decoded as utf-8-sig) -> extracted_txt/ACEH_BIREUEN.txt
+2026-10-16 17:19:21,826 INFO    EXTRACTED ACEH_SUBULUSSALAM_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/ACEH_SUBULUSSALAM_KOTA.txt
+2026-10-16 17:19:21,826 INFO    EXTRACTED BALI_BADUNG.txt (txt, decoded as utf-8-sig) -> extracted_txt/BALI_BADUNG.txt
+2026-10-16 17:19:21,826 INFO    EXTRACTED BALI_BANGLI.txt (txt, decoded as utf-8-sig) -> extracted_txt/BALI_BANGLI.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED BALI_BULELENG.txt (txt, decoded as utf-8-sig) -> extracted_txt/BALI_BULELENG.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED BALI_TABANAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/BALI_TABANAN.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED BANTEN_TANGERANG_SELATAN_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/BANTEN_TANGERANG_SELATAN_KOTA.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED BENGKULU_KEPAHIANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/BENGKULU_KEPAHIANG.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED BENGKULU_REJANG_LEBONG.txt (txt, decoded as utf-8-sig) -> extracted_txt/BENGKULU_REJANG_LEBONG.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED BENGKULU_SELUMA.txt (txt, decoded as utf-8-sig) -> extracted_txt/BENGKULU_SELUMA.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED DI_YOGYAKARTA_BANTUL.txt (txt, decoded as utf-8-sig) -> extracted_txt/DI_YOGYAKARTA_BANTUL.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED DI_YOGYAKARTA_BANTUL_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/DI_YOGYAKARTA_BANTUL_v2.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED DI_YOGYAKARTA_GUNUNGKIDUL.txt (txt, decoded as utf-8-sig) -> extracted_txt/DI_YOGYAKARTA_GUNUNGKIDUL.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED DI_YOGYAKARTA_KULON_PROGO.txt (txt, decoded as utf-8-sig) -> extracted_txt/DI_YOGYAKARTA_KULON_PROGO.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED DI_YOGYAKARTA_SLEMAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/DI_YOGYAKARTA_SLEMAN.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED DKI_JAKARTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/DKI_JAKARTA.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED GORONTALO_GORONTALO.txt (txt, decoded as utf-8-sig) -> extracted_txt/GORONTALO_GORONTALO.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED GORONTALO_GORONTALO_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/GORONTALO_GORONTALO_KOTA.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED GORONTALO_GORONTALO_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/GORONTALO_GORONTALO_UTARA.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED GORONTALO_POHUWATO.txt (txt, decoded as utf-8-sig) -> extracted_txt/GORONTALO_POHUWATO.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED JAMBI_BUNGO.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAMBI_BUNGO.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED JAMBI_SAROLANGUN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAMBI_SAROLANGUN.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED JAWA_BARAT_BANDUNG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_BANDUNG.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED JAWA_BARAT_BANDUNG_BARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_BANDUNG_BARAT.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED JAWA_BARAT_BANDUNG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_BANDUNG_KOTA.txt
+2026-10-16 17:19:21,827 INFO    EXTRACTED JAWA_BARAT_BANJAR_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_BANJAR_KOTA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_BEKASI.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_BEKASI.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_BEKASI_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_BEKASI_KOTA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_BEKASI_KOTA_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_BEKASI_KOTA_v2.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_CIMAHI_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_CIMAHI_KOTA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_CIREBON.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_CIREBON.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_CIREBON_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_CIREBON_KOTA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_GARUT.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_GARUT.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_INDRAMAYU.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_INDRAMAYU.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_KARAWANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_KARAWANG.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_MAJALENGKA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_MAJALENGKA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_PANGANDARAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_PANGANDARAN.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_PURWAKARTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_PURWAKARTA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_SUMEDANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_SUMEDANG.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_BARAT_TASIKMALAYA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_BARAT_TASIKMALAYA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_BANYUMAS.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_BANYUMAS.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_BLORA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_BLORA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_BOYOLALI.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_BOYOLALI.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_DEMAK.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_DEMAK.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_KARANGANYAR.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_KARANGANYAR.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_KARANGANYAR_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_KARANGANYAR_v2.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_KEBUMEN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_KEBUMEN.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_KLATEN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_KLATEN.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_KUDUS.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_KUDUS.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_MAGELANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_MAGELANG.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_MAGELANG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_MAGELANG_KOTA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_PATI.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_PATI.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_PEKALONGAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_PEKALONGAN.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_PEKALONGAN_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_PEKALONGAN_KOTA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_PURBALINGGA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_PURBALINGGA.txt
+2026-10-16 17:19:21,828 INFO    EXTRACTED JAWA_TENGAH_PURWOREJO.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_PURWOREJO.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_SALATIGA_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_SALATIGA_KOTA.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_SEMARANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_SEMARANG.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_SEMARANG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_SEMARANG_KOTA.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_SEMARANG_KOTA_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_SEMARANG_KOTA_v2.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_SUKOHARJO.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_SUKOHARJO.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_SURAKARTA_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_SURAKARTA_KOTA.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_TEMANGGUNG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_TEMANGGUNG.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_WONOGIRI.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_WONOGIRI.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TENGAH_WONOSOBO.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TENGAH_WONOSOBO.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_BANGKALAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_BANGKALAN.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_BANYUWANGI.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_BANYUWANGI.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_BLITAR.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_BLITAR.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_BLITAR_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_BLITAR_KOTA.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_BOJONEGORO.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_BOJONEGORO.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_JEMBER.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_JEMBER.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_JOMBANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_JOMBANG.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_LUMAJANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_LUMAJANG.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_MADIUN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_MADIUN.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_MADIUN_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_MADIUN_KOTA.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_MAGETAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_MAGETAN.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_MALANG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_MALANG_KOTA.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_PASURUAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_PASURUAN.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_PROBOLINGGO.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_PROBOLINGGO.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_PROBOLINGGO_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_PROBOLINGGO_KOTA.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_SAMPANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_SAMPANG.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_SITUBONDO.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_SITUBONDO.txt
+2026-10-16 17:19:21,829 INFO    EXTRACTED JAWA_TIMUR_SUMENEP.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_SUMENEP.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED JAWA_TIMUR_TRENGGALEK.txt (txt, decoded as utf-8-sig) -> extracted_txt/JAWA_TIMUR_TRENGGALEK.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_BARAT_BENGKAYANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_BARAT_BENGKAYANG.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_BARAT_KUBU_RAYA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_BARAT_KUBU_RAYA.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_BARAT_MELAWI.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_BARAT_MELAWI.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_BARAT_SAMBAS.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_BARAT_SAMBAS.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_BARAT_SANGGAU.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_BARAT_SANGGAU.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_BARAT_SINTANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_BARAT_SINTANG.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_BALANGAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_BALANGAN.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_BARITO_KUALA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_BARITO_KUALA.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_KOTABARU.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_KOTABARU.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_TABALONG.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_TABALONG.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_TANAH_BUMBU.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_TANAH_BUMBU.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_SELATAN_TAPIN.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_SELATAN_TAPIN.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_BARITO_TIMUR.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_BARITO_TIMUR.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_GUNUNG_MAS.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_GUNUNG_MAS.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_KATINGAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_KATINGAN.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_LAMANDAU.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_LAMANDAU.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_PULANG_PISAU.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_PULANG_PISAU.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TENGAH_SUKAMARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TENGAH_SUKAMARA.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TIMUR_BONTANG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TIMUR_BONTANG_KOTA.txt
+2026-10-16 17:19:21,830 INFO    EXTRACTED KALIMANTAN_TIMUR_KUTAI_BARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TIMUR_KUTAI_BARAT.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KALIMANTAN_TIMUR_KUTAI_TIMUR.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TIMUR_KUTAI_TIMUR.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KALIMANTAN_TIMUR_PASER.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TIMUR_PASER.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KALIMANTAN_UTARA_NUNUKAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/KALIMANTAN_UTARA_NUNUKAN.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED KEPULAUAN_RIAU_KARIMUN.txt (txt, decoded as utf-8-sig) -> extracted_txt/KEPULAUAN_RIAU_KARIMUN.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_BANDAR_LAMPUNG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_BANDAR_LAMPUNG_KOTA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_LAMPUNG_TIMUR.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_LAMPUNG_TIMUR.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_LAMPUNG_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_LAMPUNG_UTARA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_METRO_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_METRO_KOTA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_PESAWARAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_PESAWARAN.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_PESISIR_BARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_PESISIR_BARAT.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_PRINGSEWU.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_PRINGSEWU.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED LAMPUNG_TANGGAMUS.txt (txt, decoded as utf-8-sig) -> extracted_txt/LAMPUNG_TANGGAMUS.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED MALUKU_KEPULAUAN_TANIMBAR.txt (txt, decoded as utf-8-sig) -> extracted_txt/MALUKU_KEPULAUAN_TANIMBAR.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED MALUKU_MALUKU_TENGAH.txt (txt, decoded as utf-8-sig) -> extracted_txt/MALUKU_MALUKU_TENGAH.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED MALUKU_SERAM_BAGIAN_BARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/MALUKU_SERAM_BAGIAN_BARAT.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED MALUKU_TUAL_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/MALUKU_TUAL_KOTA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED MALUKU_UTARA_HALMAHERA_TIMUR.txt (txt, decoded as utf-8-sig) -> extracted_txt/MALUKU_UTARA_HALMAHERA_TIMUR.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED MALUKU_UTARA_TERNATE_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/MALUKU_UTARA_TERNATE_KOTA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED NUSA_TENGGARA_BARAT_BIMA.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_BARAT_BIMA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED NUSA_TENGGARA_BARAT_BIMA_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_BARAT_BIMA_KOTA.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED NUSA_TENGGARA_BARAT_DOMPU.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_BARAT_DOMPU.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt
+2026-10-16 17:19:21,831 INFO    EXTRACTED NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED NUSA_TENGGARA_BARAT_MATARAM_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_BARAT_MATARAM_KOTA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED NUSA_TENGGARA_TIMUR_MANGGARAI.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_TIMUR_MANGGARAI.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED NUSA_TENGGARA_TIMUR_SIKKA.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_TIMUR_SIKKA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED PAPUA_BARAT_DAYA_SORONG.txt (txt, decoded as utf-8-sig) -> extracted_txt/PAPUA_BARAT_DAYA_SORONG.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED PAPUA_BARAT_DAYA_TAMBRAUW.txt (txt, decoded as utf-8-sig) -> extracted_txt/PAPUA_BARAT_DAYA_TAMBRAUW.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED RIAU_BENGKALIS.txt (txt, decoded as utf-8-sig) -> extracted_txt/RIAU_BENGKALIS.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED RIAU_PEKANBARU_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/RIAU_PEKANBARU_KOTA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_BARAT_MAMUJU.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_BARAT_MAMUJU.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_BARAT_PASANGKAYU.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_BARAT_PASANGKAYU.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_SELATAN_BULUKUMBA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_SELATAN_BULUKUMBA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_SELATAN_ENREKANG.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_SELATAN_ENREKANG.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_SELATAN_LUWU.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_SELATAN_LUWU.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_SELATAN_LUWU_TIMUR.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_SELATAN_LUWU_TIMUR.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_SELATAN_PALOPO_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_SELATAN_PALOPO_KOTA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_SELATAN_TANA_TORAJA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_SELATAN_TANA_TORAJA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGAH_BUOL.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGAH_BUOL.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGAH_DONGGALA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGAH_DONGGALA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGAH_MOROWALI.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGAH_MOROWALI.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGAH_PARIGI_MOUTONG.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGAH_PARIGI_MOUTONG.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGAH_POSO.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGAH_POSO.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGAH_SIGI.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGAH_SIGI.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGAH_TOLI_TOLI.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGAH_TOLI_TOLI.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGGARA_BUTON.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_BUTON.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGGARA_BUTON_SELATAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_BUTON_SELATAN.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGGARA_BUTON_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_BUTON_UTARA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGGARA_KONAWE.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_KONAWE.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGGARA_KONAWE_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_KONAWE_UTARA.txt
+2026-10-16 17:19:21,832 INFO    EXTRACTED SULAWESI_TENGGARA_MUNA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_MUNA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SULAWESI_TENGGARA_MUNA_BARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_TENGGARA_MUNA_BARAT.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SULAWESI_UTARA_BITUNG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_UTARA_BITUNG_KOTA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SULAWESI_UTARA_MINAHASA_TENGGARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SULAWESI_UTARA_MINAHASA_TENGGARA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_BARAT_BUKITTINGGI_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_BARAT_BUKITTINGGI_KOTA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_BARAT_DHARMASRAYA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_BARAT_DHARMASRAYA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_BARAT_PADANG_PARIAMAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_BARAT_PADANG_PARIAMAN.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_BARAT_PESISIR_SELATAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_BARAT_PESISIR_SELATAN.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_BARAT_SOLOK_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_BARAT_SOLOK_KOTA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_MUARA_ENIM.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_MUARA_ENIM.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_MUSI_BANYUASIN.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_MUSI_BANYUASIN.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_MUSI_RAWAS.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_MUSI_RAWAS.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_MUSI_RAWAS_UTARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_MUSI_RAWAS_UTARA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_OGAN_KOMERING_ULU.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_OGAN_KOMERING_ULU.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_PALEMBANG_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_PALEMBANG_KOTA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_SELATAN_PRABUMULIH_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_SELATAN_PRABUMULIH_KOTA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_UTARA_BATU_BARA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_UTARA_BATU_BARA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_UTARA_LABUHANBATU_SELATAN.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_UTARA_LABUHANBATU_SELATAN.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTED SUMATERA_UTARA_PAKPAK_BHARAT.txt (txt, decoded as utf-8-sig) -> extracted_txt/SUMATERA_UTARA_PAKPAK_BHARAT.txt
+2026-10-16 17:19:21,833 INFO    EXTRACTION finished: 198 extracted, 0 already in cleaned_txt, 0 already in extracted_txt, 27 with another original used, 0 failed
+2026-10-16 17:19:53,514 INFO    QUALITY CHECK started (project=indonesia)
+2026-10-16 17:19:53,514 INFO    PASS ACEH_BIREUEN (txt) -> cleaned_txt/ACEH_BIREUEN.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 INFO    PASS ACEH_SUBULUSSALAM_KOTA (txt) -> cleaned_txt/ACEH_SUBULUSSALAM_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 INFO    PASS BALI_BADUNG (txt) -> cleaned_txt/BALI_BADUNG.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 INFO    PASS BALI_BANGLI (txt) -> cleaned_txt/BALI_BANGLI.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 WARNING ELIMINATED BALI_BULELENG (txt): C6_glued_words=1.181 (limit 1.0) - fix extracted_txt/BALI_BULELENG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,514 INFO    PASS BALI_TABANAN (txt) -> cleaned_txt/BALI_TABANAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 INFO    PASS BANTEN_TANGERANG_SELATAN_KOTA (txt) -> cleaned_txt/BANTEN_TANGERANG_SELATAN_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 INFO    PASS BENGKULU_KEPAHIANG (txt) -> cleaned_txt/BENGKULU_KEPAHIANG.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 INFO    PASS BENGKULU_REJANG_LEBONG (txt) -> cleaned_txt/BENGKULU_REJANG_LEBONG.txt [fixes: hygiene]
+2026-10-16 17:19:53,514 INFO    PASS BENGKULU_SELUMA (txt) -> cleaned_txt/BENGKULU_SELUMA.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS DI_YOGYAKARTA_BANTUL (txt) -> cleaned_txt/DI_YOGYAKARTA_BANTUL.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS DI_YOGYAKARTA_BANTUL_v2 (txt) -> cleaned_txt/DI_YOGYAKARTA_BANTUL_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 WARNING ELIMINATED DI_YOGYAKARTA_GUNUNGKIDUL (txt): C3_noisy_tokens=0.0068 (limit 0.006) - fix extracted_txt/DI_YOGYAKARTA_GUNUNGKIDUL.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,515 INFO    PASS DI_YOGYAKARTA_GUNUNGKIDUL_v2 (txt) -> cleaned_txt/DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS DI_YOGYAKARTA_KULON_PROGO (txt) -> cleaned_txt/DI_YOGYAKARTA_KULON_PROGO.txt [fixes: hygiene, join_spaced_letters]
+2026-10-16 17:19:53,515 INFO    PASS DI_YOGYAKARTA_SLEMAN (txt) -> cleaned_txt/DI_YOGYAKARTA_SLEMAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS DKI_JAKARTA (txt) -> cleaned_txt/DKI_JAKARTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS GORONTALO_GORONTALO (txt) -> cleaned_txt/GORONTALO_GORONTALO.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 WARNING ELIMINATED GORONTALO_GORONTALO_KOTA (txt): C3_noisy_tokens=0.0112 (limit 0.006) - fix extracted_txt/GORONTALO_GORONTALO_KOTA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,515 WARNING ELIMINATED GORONTALO_GORONTALO_UTARA (txt): C3_noisy_tokens=0.0076 (limit 0.006) - fix extracted_txt/GORONTALO_GORONTALO_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,515 INFO    PASS GORONTALO_POHUWATO (txt) -> cleaned_txt/GORONTALO_POHUWATO.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAMBI_BUNGO (txt) -> cleaned_txt/JAMBI_BUNGO.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAMBI_SAROLANGUN (txt) -> cleaned_txt/JAMBI_SAROLANGUN.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAWA_BARAT_BANDUNG (txt) -> cleaned_txt/JAWA_BARAT_BANDUNG.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAWA_BARAT_BANDUNG_BARAT (txt) -> cleaned_txt/JAWA_BARAT_BANDUNG_BARAT.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAWA_BARAT_BANDUNG_KOTA (txt) -> cleaned_txt/JAWA_BARAT_BANDUNG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAWA_BARAT_BANJAR_KOTA (txt) -> cleaned_txt/JAWA_BARAT_BANJAR_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAWA_BARAT_BEKASI (txt) -> cleaned_txt/JAWA_BARAT_BEKASI.txt [fixes: hygiene]
+2026-10-16 17:19:53,515 INFO    PASS JAWA_BARAT_BEKASI_KOTA (txt) -> cleaned_txt/JAWA_BARAT_BEKASI_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_BEKASI_KOTA_v2 (txt) -> cleaned_txt/JAWA_BARAT_BEKASI_KOTA_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 WARNING ELIMINATED JAWA_BARAT_CIMAHI_KOTA (txt): C3_noisy_tokens=0.0068 (limit 0.006) - fix extracted_txt/JAWA_BARAT_CIMAHI_KOTA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_CIREBON (txt) -> cleaned_txt/JAWA_BARAT_CIREBON.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_CIREBON_KOTA (txt) -> cleaned_txt/JAWA_BARAT_CIREBON_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_GARUT (txt) -> cleaned_txt/JAWA_BARAT_GARUT.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_INDRAMAYU (txt) -> cleaned_txt/JAWA_BARAT_INDRAMAYU.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_KARAWANG (txt) -> cleaned_txt/JAWA_BARAT_KARAWANG.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 WARNING ELIMINATED JAWA_BARAT_MAJALENGKA (txt): C6_glued_words=1.39 (limit 1.0) - fix extracted_txt/JAWA_BARAT_MAJALENGKA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_PANGANDARAN (txt) -> cleaned_txt/JAWA_BARAT_PANGANDARAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_PURWAKARTA (txt) -> cleaned_txt/JAWA_BARAT_PURWAKARTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_SUMEDANG (txt) -> cleaned_txt/JAWA_BARAT_SUMEDANG.txt
+2026-10-16 17:19:53,516 INFO    PASS JAWA_BARAT_TASIKMALAYA (txt) -> cleaned_txt/JAWA_BARAT_TASIKMALAYA.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_TENGAH_BANYUMAS (txt) -> cleaned_txt/JAWA_TENGAH_BANYUMAS.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_TENGAH_BLORA (txt) -> cleaned_txt/JAWA_TENGAH_BLORA.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_TENGAH_BOYOLALI (txt) -> cleaned_txt/JAWA_TENGAH_BOYOLALI.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_TENGAH_DEMAK (txt) -> cleaned_txt/JAWA_TENGAH_DEMAK.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_TENGAH_KARANGANYAR (txt) -> cleaned_txt/JAWA_TENGAH_KARANGANYAR.txt [fixes: hygiene]
+2026-10-16 17:19:53,516 INFO    PASS JAWA_TENGAH_KARANGANYAR_v2 (txt) -> cleaned_txt/JAWA_TENGAH_KARANGANYAR_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_KEBUMEN (txt) -> cleaned_txt/JAWA_TENGAH_KEBUMEN.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_KLATEN (txt) -> cleaned_txt/JAWA_TENGAH_KLATEN.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_KUDUS (txt) -> cleaned_txt/JAWA_TENGAH_KUDUS.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 WARNING ELIMINATED JAWA_TENGAH_MAGELANG (txt): C3_noisy_tokens=0.0099 (limit 0.006) - fix extracted_txt/JAWA_TENGAH_MAGELANG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_MAGELANG_KOTA (txt) -> cleaned_txt/JAWA_TENGAH_MAGELANG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_PATI (txt) -> cleaned_txt/JAWA_TENGAH_PATI.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_PEKALONGAN (txt) -> cleaned_txt/JAWA_TENGAH_PEKALONGAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_PEKALONGAN_KOTA (txt) -> cleaned_txt/JAWA_TENGAH_PEKALONGAN_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_PURBALINGGA (txt) -> cleaned_txt/JAWA_TENGAH_PURBALINGGA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_PURWOREJO (txt) -> cleaned_txt/JAWA_TENGAH_PURWOREJO.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_SALATIGA_KOTA (txt) -> cleaned_txt/JAWA_TENGAH_SALATIGA_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_SEMARANG (txt) -> cleaned_txt/JAWA_TENGAH_SEMARANG.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_SEMARANG_KOTA (txt) -> cleaned_txt/JAWA_TENGAH_SEMARANG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_SEMARANG_KOTA_v2 (txt) -> cleaned_txt/JAWA_TENGAH_SEMARANG_KOTA_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_SUKOHARJO (txt) -> cleaned_txt/JAWA_TENGAH_SUKOHARJO.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_SURAKARTA_KOTA (txt) -> cleaned_txt/JAWA_TENGAH_SURAKARTA_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_TEMANGGUNG (txt) -> cleaned_txt/JAWA_TENGAH_TEMANGGUNG.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_WONOGIRI (txt) -> cleaned_txt/JAWA_TENGAH_WONOGIRI.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TENGAH_WONOSOBO (txt) -> cleaned_txt/JAWA_TENGAH_WONOSOBO.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 WARNING ELIMINATED JAWA_TIMUR_BANGKALAN (txt): C3_noisy_tokens=0.0078 (limit 0.006) - fix extracted_txt/JAWA_TIMUR_BANGKALAN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_BANYUWANGI (txt) -> cleaned_txt/JAWA_TIMUR_BANYUWANGI.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_BLITAR (txt) -> cleaned_txt/JAWA_TIMUR_BLITAR.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_BLITAR_KOTA (txt) -> cleaned_txt/JAWA_TIMUR_BLITAR_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_BOJONEGORO (txt) -> cleaned_txt/JAWA_TIMUR_BOJONEGORO.txt [fixes: hygiene, join_spaced_letters]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_JEMBER (txt) -> cleaned_txt/JAWA_TIMUR_JEMBER.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_JOMBANG (txt) -> cleaned_txt/JAWA_TIMUR_JOMBANG.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_LUMAJANG (txt) -> cleaned_txt/JAWA_TIMUR_LUMAJANG.txt [fixes: hygiene, join_spaced_letters]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_MADIUN (txt) -> cleaned_txt/JAWA_TIMUR_MADIUN.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_MADIUN_KOTA (txt) -> cleaned_txt/JAWA_TIMUR_MADIUN_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 WARNING ELIMINATED JAWA_TIMUR_MAGETAN (txt): C3_noisy_tokens=0.0109 (limit 0.006) - fix extracted_txt/JAWA_TIMUR_MAGETAN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_MALANG_KOTA (txt) -> cleaned_txt/JAWA_TIMUR_MALANG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_PASURUAN (txt) -> cleaned_txt/JAWA_TIMUR_PASURUAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_PROBOLINGGO (txt) -> cleaned_txt/JAWA_TIMUR_PROBOLINGGO.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_PROBOLINGGO_KOTA (txt) -> cleaned_txt/JAWA_TIMUR_PROBOLINGGO_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_SAMPANG (txt) -> cleaned_txt/JAWA_TIMUR_SAMPANG.txt [fixes: hygiene]
+2026-10-16 17:19:53,517 INFO    PASS JAWA_TIMUR_SITUBONDO (txt) -> cleaned_txt/JAWA_TIMUR_SITUBONDO.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS JAWA_TIMUR_SUMENEP (txt) -> cleaned_txt/JAWA_TIMUR_SUMENEP.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS JAWA_TIMUR_TRENGGALEK (txt) -> cleaned_txt/JAWA_TIMUR_TRENGGALEK.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_BARAT_BENGKAYANG (txt): C3_noisy_tokens=0.0116 (limit 0.006) - fix extracted_txt/KALIMANTAN_BARAT_BENGKAYANG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_BARAT_KUBU_RAYA (txt) -> cleaned_txt/KALIMANTAN_BARAT_KUBU_RAYA.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_BARAT_MELAWI (txt) -> cleaned_txt/KALIMANTAN_BARAT_MELAWI.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_BARAT_SAMBAS (txt) -> cleaned_txt/KALIMANTAN_BARAT_SAMBAS.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_BARAT_SANGGAU (txt) -> cleaned_txt/KALIMANTAN_BARAT_SANGGAU.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_BARAT_SINGKAWANG_KOTA (txt) -> cleaned_txt/KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_BARAT_SINTANG (txt) -> cleaned_txt/KALIMANTAN_BARAT_SINTANG.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_SELATAN_BALANGAN (txt): C3_noisy_tokens=0.0084 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_BALANGAN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_SELATAN_BARITO_KUALA (txt) -> cleaned_txt/KALIMANTAN_SELATAN_BARITO_KUALA.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN (txt) -> cleaned_txt/KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA (txt): C3_noisy_tokens=0.0139 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_SELATAN_KOTABARU (txt) -> cleaned_txt/KALIMANTAN_SELATAN_KOTABARU.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_SELATAN_TABALONG (txt): C3_noisy_tokens=0.0071 (limit 0.006), C6_glued_words=1.491 (limit 1.0) - fix extracted_txt/KALIMANTAN_SELATAN_TABALONG.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_SELATAN_TANAH_BUMBU (txt) -> cleaned_txt/KALIMANTAN_SELATAN_TANAH_BUMBU.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_SELATAN_TAPIN (txt): C3_noisy_tokens=0.0087 (limit 0.006) - fix extracted_txt/KALIMANTAN_SELATAN_TAPIN.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_TENGAH_BARITO_TIMUR (txt): C3_noisy_tokens=0.0086 (limit 0.006), C6_glued_words=1.919 (limit 1.0) - fix extracted_txt/KALIMANTAN_TENGAH_BARITO_TIMUR.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TENGAH_GUNUNG_MAS (txt) -> cleaned_txt/KALIMANTAN_TENGAH_GUNUNG_MAS.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TENGAH_KATINGAN (txt) -> cleaned_txt/KALIMANTAN_TENGAH_KATINGAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR (txt) -> cleaned_txt/KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TENGAH_LAMANDAU (txt) -> cleaned_txt/KALIMANTAN_TENGAH_LAMANDAU.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA (txt): C3_noisy_tokens=0.012 (limit 0.006) - fix extracted_txt/KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TENGAH_PULANG_PISAU (txt) -> cleaned_txt/KALIMANTAN_TENGAH_PULANG_PISAU.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TENGAH_SUKAMARA (txt) -> cleaned_txt/KALIMANTAN_TENGAH_SUKAMARA.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TIMUR_BONTANG_KOTA (txt) -> cleaned_txt/KALIMANTAN_TIMUR_BONTANG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TIMUR_KUTAI_BARAT (txt) -> cleaned_txt/KALIMANTAN_TIMUR_KUTAI_BARAT.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TIMUR_KUTAI_TIMUR (txt) -> cleaned_txt/KALIMANTAN_TIMUR_KUTAI_TIMUR.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_TIMUR_PASER (txt) -> cleaned_txt/KALIMANTAN_TIMUR_PASER.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 WARNING ELIMINATED KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA (txt): C3_noisy_tokens=0.0063 (limit 0.006) - fix extracted_txt/KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,518 INFO    PASS KALIMANTAN_UTARA_NUNUKAN (txt) -> cleaned_txt/KALIMANTAN_UTARA_NUNUKAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,518 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_BANGKA (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2 (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2 (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_BELITUNG (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA (txt) -> cleaned_txt/KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS KEPULAUAN_RIAU_KARIMUN (txt) -> cleaned_txt/KEPULAUAN_RIAU_KARIMUN.txt [fixes: hygiene, strip_boilerplate]
+2026-10-16 17:19:53,519 INFO    PASS LAMPUNG_BANDAR_LAMPUNG_KOTA (txt) -> cleaned_txt/LAMPUNG_BANDAR_LAMPUNG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS LAMPUNG_LAMPUNG_TIMUR (txt) -> cleaned_txt/LAMPUNG_LAMPUNG_TIMUR.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 WARNING ELIMINATED LAMPUNG_LAMPUNG_UTARA (txt): C3_noisy_tokens=0.0131 (limit 0.006) - fix extracted_txt/LAMPUNG_LAMPUNG_UTARA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,519 INFO    PASS LAMPUNG_METRO_KOTA (txt) -> cleaned_txt/LAMPUNG_METRO_KOTA.txt
+2026-10-16 17:19:53,519 INFO    PASS LAMPUNG_PESAWARAN (txt) -> cleaned_txt/LAMPUNG_PESAWARAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS LAMPUNG_PESISIR_BARAT (txt) -> cleaned_txt/LAMPUNG_PESISIR_BARAT.txt [fixes: hygiene, strip_boilerplate]
+2026-10-16 17:19:53,519 INFO    PASS LAMPUNG_PRINGSEWU (txt) -> cleaned_txt/LAMPUNG_PRINGSEWU.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS LAMPUNG_TANGGAMUS (txt) -> cleaned_txt/LAMPUNG_TANGGAMUS.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS MALUKU_KEPULAUAN_TANIMBAR (txt) -> cleaned_txt/MALUKU_KEPULAUAN_TANIMBAR.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS MALUKU_MALUKU_TENGAH (txt) -> cleaned_txt/MALUKU_MALUKU_TENGAH.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 WARNING ELIMINATED MALUKU_SERAM_BAGIAN_BARAT (txt): C3_noisy_tokens=0.0079 (limit 0.006) - fix extracted_txt/MALUKU_SERAM_BAGIAN_BARAT.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,519 INFO    PASS MALUKU_TUAL_KOTA (txt) -> cleaned_txt/MALUKU_TUAL_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS MALUKU_UTARA_HALMAHERA_TIMUR (txt) -> cleaned_txt/MALUKU_UTARA_HALMAHERA_TIMUR.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS MALUKU_UTARA_TERNATE_KOTA (txt) -> cleaned_txt/MALUKU_UTARA_TERNATE_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_BARAT_BIMA (txt) -> cleaned_txt/NUSA_TENGGARA_BARAT_BIMA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_BARAT_BIMA_KOTA (txt) -> cleaned_txt/NUSA_TENGGARA_BARAT_BIMA_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_BARAT_DOMPU (txt) -> cleaned_txt/NUSA_TENGGARA_BARAT_DOMPU.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_BARAT_LOMBOK_TENGAH (txt) -> cleaned_txt/NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2 (txt) -> cleaned_txt/NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt [fixes: hygiene] [duplicate_of=NUSA_TENGGARA_BARAT_LOMBOK_TENGAH]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_BARAT_LOMBOK_UTARA (txt) -> cleaned_txt/NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_BARAT_MATARAM_KOTA (txt) -> cleaned_txt/NUSA_TENGGARA_BARAT_MATARAM_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_TIMUR_MANGGARAI (txt) -> cleaned_txt/NUSA_TENGGARA_TIMUR_MANGGARAI.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT (txt) -> cleaned_txt/NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt [fixes: hygiene, strip_boilerplate]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_TIMUR_SIKKA (txt) -> cleaned_txt/NUSA_TENGGARA_TIMUR_SIKKA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA (txt) -> cleaned_txt/NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS PAPUA_BARAT_DAYA_SORONG (txt) -> cleaned_txt/PAPUA_BARAT_DAYA_SORONG.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS PAPUA_BARAT_DAYA_TAMBRAUW (txt) -> cleaned_txt/PAPUA_BARAT_DAYA_TAMBRAUW.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS RIAU_BENGKALIS (txt) -> cleaned_txt/RIAU_BENGKALIS.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS RIAU_PEKANBARU_KOTA (txt) -> cleaned_txt/RIAU_PEKANBARU_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS SULAWESI_BARAT_MAMUJU (txt) -> cleaned_txt/SULAWESI_BARAT_MAMUJU.txt [fixes: hygiene]
+2026-10-16 17:19:53,519 INFO    PASS SULAWESI_BARAT_PASANGKAYU (txt) -> cleaned_txt/SULAWESI_BARAT_PASANGKAYU.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_SELATAN_BULUKUMBA (txt) -> cleaned_txt/SULAWESI_SELATAN_BULUKUMBA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_SELATAN_ENREKANG (txt) -> cleaned_txt/SULAWESI_SELATAN_ENREKANG.txt
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_SELATAN_LUWU (txt) -> cleaned_txt/SULAWESI_SELATAN_LUWU.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_SELATAN_LUWU_TIMUR (txt) -> cleaned_txt/SULAWESI_SELATAN_LUWU_TIMUR.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_SELATAN_PALOPO_KOTA (txt) -> cleaned_txt/SULAWESI_SELATAN_PALOPO_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_SELATAN_TANA_TORAJA (txt) -> cleaned_txt/SULAWESI_SELATAN_TANA_TORAJA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGAH_BUOL (txt) -> cleaned_txt/SULAWESI_TENGAH_BUOL.txt
+2026-10-16 17:19:53,520 WARNING ELIMINATED SULAWESI_TENGAH_DONGGALA (txt): C3_noisy_tokens=0.0239 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_DONGGALA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,520 WARNING ELIMINATED SULAWESI_TENGAH_MOROWALI (txt): C3_noisy_tokens=0.0082 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_MOROWALI.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGAH_PARIGI_MOUTONG (txt) -> cleaned_txt/SULAWESI_TENGAH_PARIGI_MOUTONG.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 WARNING ELIMINATED SULAWESI_TENGAH_POSO (txt): C3_noisy_tokens=0.0146 (limit 0.006) - fix extracted_txt/SULAWESI_TENGAH_POSO.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGAH_SIGI (txt) -> cleaned_txt/SULAWESI_TENGAH_SIGI.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGAH_TOLI_TOLI (txt) -> cleaned_txt/SULAWESI_TENGAH_TOLI_TOLI.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_BUTON (txt) -> cleaned_txt/SULAWESI_TENGGARA_BUTON.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_BUTON_SELATAN (txt) -> cleaned_txt/SULAWESI_TENGGARA_BUTON_SELATAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_BUTON_UTARA (txt) -> cleaned_txt/SULAWESI_TENGGARA_BUTON_UTARA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_KONAWE (txt) -> cleaned_txt/SULAWESI_TENGGARA_KONAWE.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_KONAWE_KEPULAUAN (txt) -> cleaned_txt/SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_KONAWE_UTARA (txt) -> cleaned_txt/SULAWESI_TENGGARA_KONAWE_UTARA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_MUNA (txt) -> cleaned_txt/SULAWESI_TENGGARA_MUNA.txt
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_TENGGARA_MUNA_BARAT (txt) -> cleaned_txt/SULAWESI_TENGGARA_MUNA_BARAT.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_UTARA_BITUNG_KOTA (txt) -> cleaned_txt/SULAWESI_UTARA_BITUNG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SULAWESI_UTARA_MINAHASA_TENGGARA (txt) -> cleaned_txt/SULAWESI_UTARA_MINAHASA_TENGGARA.txt
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_BARAT_BUKITTINGGI_KOTA (txt) -> cleaned_txt/SUMATERA_BARAT_BUKITTINGGI_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 WARNING ELIMINATED SUMATERA_BARAT_DHARMASRAYA (txt): C3_noisy_tokens=0.0085 (limit 0.006), C6_glued_words=1.368 (limit 1.0) - fix extracted_txt/SUMATERA_BARAT_DHARMASRAYA.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_BARAT_KEPULAUAN_MENTAWAI (txt) -> cleaned_txt/SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_BARAT_PADANG_PARIAMAN (txt) -> cleaned_txt/SUMATERA_BARAT_PADANG_PARIAMAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_BARAT_PAYAKUMBUH_KOTA (txt) -> cleaned_txt/SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_BARAT_PESISIR_SELATAN (txt) -> cleaned_txt/SUMATERA_BARAT_PESISIR_SELATAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_BARAT_SOLOK_KOTA (txt) -> cleaned_txt/SUMATERA_BARAT_SOLOK_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_SELATAN_MUARA_ENIM (txt) -> cleaned_txt/SUMATERA_SELATAN_MUARA_ENIM.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_SELATAN_MUSI_BANYUASIN (txt) -> cleaned_txt/SUMATERA_SELATAN_MUSI_BANYUASIN.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 WARNING ELIMINATED SUMATERA_SELATAN_MUSI_RAWAS (txt): C3_noisy_tokens=0.0073 (limit 0.006) - fix extracted_txt/SUMATERA_SELATAN_MUSI_RAWAS.txt (it is checked again) or move it to cleaned_txt/
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_SELATAN_MUSI_RAWAS_UTARA (txt) -> cleaned_txt/SUMATERA_SELATAN_MUSI_RAWAS_UTARA.txt
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_SELATAN_OGAN_KOMERING_ULU (txt) -> cleaned_txt/SUMATERA_SELATAN_OGAN_KOMERING_ULU.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN (txt) -> cleaned_txt/SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,520 INFO    PASS SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2 (txt) -> cleaned_txt/SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    PASS SUMATERA_SELATAN_PALEMBANG_KOTA (txt) -> cleaned_txt/SUMATERA_SELATAN_PALEMBANG_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    PASS SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR (txt) -> cleaned_txt/SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    PASS SUMATERA_SELATAN_PRABUMULIH_KOTA (txt) -> cleaned_txt/SUMATERA_SELATAN_PRABUMULIH_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    PASS SUMATERA_UTARA_BATU_BARA (txt) -> cleaned_txt/SUMATERA_UTARA_BATU_BARA.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    PASS SUMATERA_UTARA_LABUHANBATU_SELATAN (txt) -> cleaned_txt/SUMATERA_UTARA_LABUHANBATU_SELATAN.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    PASS SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA (txt) -> cleaned_txt/SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    PASS SUMATERA_UTARA_PAKPAK_BHARAT (txt) -> cleaned_txt/SUMATERA_UTARA_PAKPAK_BHARAT.txt [fixes: hygiene]
+2026-10-16 17:19:53,521 INFO    QUALITY CHECK finished: 198 policies, 174 in cleaned_txt, 0 need OCR, 24 eliminated (0 were already done)
+2026-10-16 17:21:06,402 INFO    MARKDOWN CONVERSION started (C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_txt -> C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_markdown)
+2026-10-16 17:21:06,402 INFO    MARKDOWN CONVERSION finished: 0 converted, 198 already there, 0 skipped
+2026-10-16 17:22:35,846 INFO    MARKDOWN CONVERSION started (C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_txt -> C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_markdown)
+2026-10-16 17:22:35,846 INFO    MARKDOWN CONVERTED ACEH_BIREUEN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,846 INFO    MARKDOWN CONVERTED ACEH_SUBULUSSALAM_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,846 INFO    MARKDOWN CONVERTED BALI_BADUNG (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,846 INFO    MARKDOWN CONVERTED BALI_BANGLI (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,846 INFO    MARKDOWN CONVERTED BALI_BULELENG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,846 INFO    MARKDOWN CONVERTED BALI_TABANAN (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED BANTEN_TANGERANG_SELATAN_KOTA (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED BENGKULU_KEPAHIANG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED BENGKULU_REJANG_LEBONG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED BENGKULU_SELUMA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED DI_YOGYAKARTA_BANTUL (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED DI_YOGYAKARTA_BANTUL_v2 (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED DI_YOGYAKARTA_GUNUNGKIDUL (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED DI_YOGYAKARTA_GUNUNGKIDUL_v2 (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED DI_YOGYAKARTA_KULON_PROGO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED DI_YOGYAKARTA_SLEMAN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED DKI_JAKARTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED GORONTALO_GORONTALO (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED GORONTALO_GORONTALO_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED GORONTALO_GORONTALO_UTARA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED GORONTALO_POHUWATO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAMBI_BUNGO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAMBI_SAROLANGUN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_BANDUNG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_BANDUNG_BARAT (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_BANDUNG_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_BANJAR_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_BEKASI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_BEKASI_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_BEKASI_KOTA_v2 (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_CIMAHI_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_CIREBON (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_CIREBON_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_GARUT (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_INDRAMAYU (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_KARAWANG (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_MAJALENGKA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_PANGANDARAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_PURWAKARTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_SUMEDANG (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_BARAT_TASIKMALAYA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,847 INFO    MARKDOWN CONVERTED JAWA_TENGAH_BANYUMAS (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_BLORA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_BOYOLALI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_DEMAK (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_KARANGANYAR (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_KARANGANYAR_v2 (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_KEBUMEN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_KLATEN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_KUDUS (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_MAGELANG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_MAGELANG_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_PATI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_PEKALONGAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_PEKALONGAN_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_PURBALINGGA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_PURWOREJO (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_SALATIGA_KOTA (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_SEMARANG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_SEMARANG_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_SEMARANG_KOTA_v2 (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_SUKOHARJO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_SURAKARTA_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_TEMANGGUNG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_WONOGIRI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TENGAH_WONOSOBO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TIMUR_BANGKALAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TIMUR_BANYUWANGI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TIMUR_BLITAR (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,848 INFO    MARKDOWN CONVERTED JAWA_TIMUR_BLITAR_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_BOJONEGORO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_JEMBER (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_JOMBANG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_LUMAJANG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_MADIUN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_MADIUN_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_MAGETAN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_MALANG_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_PASURUAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_PROBOLINGGO (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_PROBOLINGGO_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_SAMPANG (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_SITUBONDO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_SUMENEP (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED JAWA_TIMUR_TRENGGALEK (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_BARAT_BENGKAYANG (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_BARAT_KUBU_RAYA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_BARAT_MELAWI (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_BARAT_SAMBAS (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_BARAT_SANGGAU (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_BARAT_SINGKAWANG_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_BARAT_SINTANG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_BALANGAN (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_BARITO_KUALA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,849 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_KOTABARU (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_TABALONG (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_TANAH_BUMBU (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_SELATAN_TAPIN (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_BARITO_TIMUR (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_GUNUNG_MAS (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_KATINGAN (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_LAMANDAU (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_PULANG_PISAU (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TENGAH_SUKAMARA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TIMUR_BONTANG_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TIMUR_KUTAI_BARAT (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TIMUR_KUTAI_TIMUR (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TIMUR_PASER (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KALIMANTAN_UTARA_NUNUKAN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_BANGKA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2 (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2 (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_BELITUNG (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED LAMPUNG_BANDAR_LAMPUNG_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED LAMPUNG_LAMPUNG_TIMUR (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED LAMPUNG_LAMPUNG_UTARA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED LAMPUNG_METRO_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED LAMPUNG_PESAWARAN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED LAMPUNG_PESISIR_BARAT (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,850 INFO    MARKDOWN CONVERTED LAMPUNG_PRINGSEWU (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED LAMPUNG_TANGGAMUS (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED MALUKU_KEPULAUAN_TANIMBAR (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED MALUKU_MALUKU_TENGAH (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED MALUKU_SERAM_BAGIAN_BARAT (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED MALUKU_TUAL_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED MALUKU_UTARA_HALMAHERA_TIMUR (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED MALUKU_UTARA_TERNATE_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_BARAT_BIMA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_BARAT_BIMA_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_BARAT_DOMPU (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_BARAT_LOMBOK_TENGAH (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2 (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_BARAT_LOMBOK_UTARA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_BARAT_MATARAM_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_TIMUR_MANGGARAI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_TIMUR_SIKKA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED PAPUA_BARAT_DAYA_SORONG (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED PAPUA_BARAT_DAYA_TAMBRAUW (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED RIAU_BENGKALIS (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED RIAU_PEKANBARU_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_BARAT_MAMUJU (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_BARAT_PASANGKAYU (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_SELATAN_BULUKUMBA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_SELATAN_ENREKANG (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_SELATAN_LUWU (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_SELATAN_LUWU_TIMUR (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_SELATAN_PALOPO_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_SELATAN_TANA_TORAJA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_TENGAH_BUOL (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_TENGAH_DONGGALA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_TENGAH_MOROWALI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_TENGAH_PARIGI_MOUTONG (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_TENGAH_POSO (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,851 INFO    MARKDOWN CONVERTED SULAWESI_TENGAH_SIGI (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGAH_TOLI_TOLI (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_BUTON (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_BUTON_SELATAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_BUTON_UTARA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_KONAWE (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_KONAWE_KEPULAUAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_KONAWE_UTARA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_MUNA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_TENGGARA_MUNA_BARAT (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_UTARA_BITUNG_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SULAWESI_UTARA_MINAHASA_TENGGARA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_BARAT_BUKITTINGGI_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_BARAT_DHARMASRAYA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_BARAT_KEPULAUAN_MENTAWAI (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_BARAT_PADANG_PARIAMAN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_BARAT_PAYAKUMBUH_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_BARAT_PESISIR_SELATAN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_BARAT_SOLOK_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_MUARA_ENIM (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_MUSI_BANYUASIN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_MUSI_RAWAS (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_MUSI_RAWAS_UTARA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_OGAN_KOMERING_ULU (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2 (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_PALEMBANG_KOTA (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR (CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_SELATAN_PRABUMULIH_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_UTARA_BATU_BARA (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_UTARA_LABUHANBATU_SELATAN (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA (CHAPTER > SECTION > ARTICLE)
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERTED SUMATERA_UTARA_PAKPAK_BHARAT (CHAPTER > ARTICLE)
+2026-10-16 17:22:35,852 WARNING MARKDOWN SKIPPED KEPULAUAN_RIAU_KARIMUN: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_markdown to include it
+2026-10-16 17:22:35,852 INFO    MARKDOWN CONVERSION finished: 197 converted, 0 already there, 1 skipped
+2026-10-16 20:57:32,008 INFO    MARKDOWN CONVERSION started (C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_txt -> C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_markdown)
+2026-10-16 20:57:32,011 WARNING MARKDOWN SKIPPED KEPULAUAN_RIAU_KARIMUN: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\indonesia\preprocessed\cleaned_markdown to include it
+2026-10-16 20:57:32,011 INFO    MARKDOWN CONVERSION finished: 0 converted, 197 already there, 1 skipped
