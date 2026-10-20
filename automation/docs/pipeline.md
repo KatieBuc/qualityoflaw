@@ -17,7 +17,6 @@ python -m automation.src.run_pipeline --small-scale   # only paths.small_scale_s
 | 1.1 | `quality_check` | `raw/extracted_txt` -> quality check and fix -> `preprocessed/cleaned_txt`; log `raw/input_process.log` | **yes**: files that need OCR or were eliminated |
 | 1.2 | `txt_to_md` | `cleaned_txt` (or `gold`, see `input_process.markdown_source`) -> `preprocessed/cleaned_markdown` | no (policies without heading structure are listed) |
 | 2 | `translation_md` | `cleaned_markdown` -> `preprocessed/translation_markdown` | no |
-| 2 | `translation_qa_md` | **legacy**, run with `--steps`; QA pass over the translated Markdown | no |
 | 3 | `human_review` | optional pause; off unless `human_review.pause: true` | **yes**, only when enabled |
 | 4 | `validate` | header check of every pair in `preprocessed/`; mismatches go to `preprocessed/header_check.log`. **Moves nothing** | **yes**: while `processed/` is empty |
 | 4 | `md_to_text`, `storage`, `evaluation` | section mapping, per-section embeddings, RAG evaluation | no |
