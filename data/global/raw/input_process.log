@@ -1,56 +1,495 @@
-2026-10-14 12:03:13,496 INFO    QUALITY CHECK started (project=global)
-2026-10-14 12:03:13,496 WARNING ELIMINATED 10. Azerbaijan - DomViol - Azerbaijani - html (html): R1_letters=15 (limit 1000), R2_prose_letters=0 (limit 1500), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/10. Azerbaijan - DomViol - Azerbaijani - html.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,496 WARNING ELIMINATED 109. Mauritius - DomViol - English (b) (pdf): R2_prose_letters=1325 (limit 1500) - fix extracted_txt/109. Mauritius - DomViol - English (b).txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 111. Micronesia - DomViol - English: C3_noisy_tokens=0.0313 (limit 0.006) - OCR 111. Micronesia - DomViol - English.pdf and replace extracted_txt/111. Micronesia - DomViol - English.txt with the text
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 116. Mozambique - DomViol - Portuguese (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=110.0 (limit 300) - OCR 116. Mozambique - DomViol - Portuguese (a).pdf and replace extracted_txt/116. Mozambique - DomViol - Portuguese (a).txt with the text
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 129. Palau - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 129. Palau - DomViol - English.pdf and replace extracted_txt/129. Palau - DomViol - English.txt with the text
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 130. Panama - DomViol - Spanish (a): C3_noisy_tokens=0.0083 (limit 0.006) - OCR 130. Panama - DomViol - Spanish (a).pdf and replace extracted_txt/130. Panama - DomViol - Spanish (a).txt with the text
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 14. Barbados - DomViol - English: C3_noisy_tokens=0.0083 (limit 0.006) - OCR 14. Barbados - DomViol - English.pdf and replace extracted_txt/14. Barbados - DomViol - English.txt with the text
-2026-10-14 12:03:13,497 WARNING ELIMINATED 146. Serbia - DomViol - Bosnian (a) - html (html): R2_prose_letters=970 (limit 1500) - fix extracted_txt/146. Serbia - DomViol - Bosnian (a) - html.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 154. South Africa - DomViol - English: C3_noisy_tokens=0.0526 (limit 0.006) - OCR 154. South Africa - DomViol - English.pdf and replace extracted_txt/154. South Africa - DomViol - English.txt with the text
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 16. Belgium - DomViol - French (a): C3_noisy_tokens=0.0729 (limit 0.006) - OCR 16. Belgium - DomViol - French (a).pdf and replace extracted_txt/16. Belgium - DomViol - French (a).txt with the text
-2026-10-14 12:03:13,497 WARNING NEEDS_OCR 160. St. Vincent and and the Grenadines - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 160. St. Vincent and and the Grenadines - DomViol - English.pdf and replace extracted_txt/160. St. Vincent and and the Grenadines - DomViol - English.txt with the text
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 168. Tajikistan - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 168. Tajikistan - DomViol - English.pdf and replace extracted_txt/168. Tajikistan - DomViol - English.txt with the text
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 172. Togo - DomViol - French: C3_noisy_tokens=0.0472 (limit 0.006) - OCR 172. Togo - DomViol - French.pdf and replace extracted_txt/172. Togo - DomViol - French.txt with the text
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 183. Uzbekistan - DomViol - English (a): C3_noisy_tokens=0.0078 (limit 0.006) - OCR 183. Uzbekistan - DomViol - English (a).pdf and replace extracted_txt/183. Uzbekistan - DomViol - English (a).txt with the text
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 183. Uzbekistan - DomViol - Russian (b): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 183. Uzbekistan - DomViol - Russian (b).pdf and replace extracted_txt/183. Uzbekistan - DomViol - Russian (b).txt with the text
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 186. Viet Nam - DomViol - English (b): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 186. Viet Nam - DomViol - English (b).pdf and replace extracted_txt/186. Viet Nam - DomViol - English (b).txt with the text
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 19. Bhutan - DomViol - Bhutanese: C2_garbage_chars=0.0033 (limit 0.003) - OCR 19. Bhutan - DomViol - Bhutanese.pdf and replace extracted_txt/19. Bhutan - DomViol - Bhutanese.txt with the text
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 190. Zimbabwe - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 190. Zimbabwe - DomViol - English.pdf and replace extracted_txt/190. Zimbabwe - DomViol - English.txt with the text
-2026-10-14 12:03:13,498 WARNING ELIMINATED 2. Albania - DomViol - Albanian (a) (pdf): C6_glued_words=3.405 (limit 1.0) - fix extracted_txt/2. Albania - DomViol - Albanian (a).txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,498 WARNING ELIMINATED 2. Albania - DomViol - Albanian (b) (pdf): C6_glued_words=25.198 (limit 1.0) - fix extracted_txt/2. Albania - DomViol - Albanian (b).txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,498 WARNING NEEDS_OCR 3. Algeria - DomViol - French: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 3. Algeria - DomViol - French.pdf and replace extracted_txt/3. Algeria - DomViol - French.txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 33. Chad - DomViol - French (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 33. Chad - DomViol - French (a).pdf and replace extracted_txt/33. Chad - DomViol - French (a).txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 35. China - DomViol - English (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 35. China - DomViol - English (a).pdf and replace extracted_txt/35. China - DomViol - English (a).txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 35. China - DomViol - English (c): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 35. China - DomViol - English (c).pdf and replace extracted_txt/35. China - DomViol - English (c).txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 4. Angola - DomViol - Portuguese: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 4. Angola - DomViol - Portuguese.pdf and replace extracted_txt/4. Angola - DomViol - Portuguese.txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 41. Cote dIvoire - DomViol - French: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 41. Cote dIvoire - DomViol - French.pdf and replace extracted_txt/41. Cote dIvoire - DomViol - French.txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 47. Dominica - DomViol - English (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 47. Dominica - DomViol - English (a).pdf and replace extracted_txt/47. Dominica - DomViol - English (a).txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 50. Egypt - DomViol - Arabic: C1_wrong_script=0.0 (limit 0.3), C3_noisy_tokens=0.1515 (limit 0.006) - OCR 50. Egypt - DomViol - Arabic.pdf and replace extracted_txt/50. Egypt - DomViol - Arabic.txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 51. El Salvador - DomViol - Spanish (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 51. El Salvador - DomViol - Spanish (a).pdf and replace extracted_txt/51. El Salvador - DomViol - Spanish (a).txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 54. Estonia - DomViol - Estonian: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 54. Estonia - DomViol - Estonian.pdf and replace extracted_txt/54. Estonia - DomViol - Estonian.txt with the text
-2026-10-14 12:03:13,499 WARNING NEEDS_OCR 58. Finland - DomViol - Swedish: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 58. Finland - DomViol - Swedish.pdf and replace extracted_txt/58. Finland - DomViol - Swedish.txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 60. Gabon - DomViol - French: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 60. Gabon - DomViol - French.pdf and replace extracted_txt/60. Gabon - DomViol - French.txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 61. Gambia - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 61. Gambia - DomViol - English.pdf and replace extracted_txt/61. Gambia - DomViol - English.txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 62. Georgia - DomViol - Georgian: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 62. Georgia - DomViol - Georgian.pdf and replace extracted_txt/62. Georgia - DomViol - Georgian.txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 63. Germany - DomViol - German: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 63. Germany - DomViol - German.pdf and replace extracted_txt/63. Germany - DomViol - German.txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 64. Ghana - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 64. Ghana - DomViol - English.pdf and replace extracted_txt/64. Ghana - DomViol - English.txt with the text
-2026-10-14 12:03:13,500 WARNING ELIMINATED 7. Armenia - DomViol - Armenian (pdf): C6_glued_words=1.87 (limit 1.0) - fix extracted_txt/7. Armenia - DomViol - Armenian.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 70. Guyana - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=52.3 (limit 300) - OCR 70. Guyana - DomViol - English.pdf and replace extracted_txt/70. Guyana - DomViol - English.txt with the text
-2026-10-14 12:03:13,500 WARNING ELIMINATED 73. Hong Kong - DomViol - English - html (html): R2_prose_letters=1433 (limit 1500) - fix extracted_txt/73. Hong Kong - DomViol - English - html.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 74. Hungary - DomViol - Hungarian (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 74. Hungary - DomViol - Hungarian (a).pdf and replace extracted_txt/74. Hungary - DomViol - Hungarian (a).txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 75. Iceland - DomViol - Icelandic (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 75. Iceland - DomViol - Icelandic (a).pdf and replace extracted_txt/75. Iceland - DomViol - Icelandic (a).txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 75. Iceland - DomViol - Icelandic (b): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - OCR 75. Iceland - DomViol - Icelandic (b).pdf and replace extracted_txt/75. Iceland - DomViol - Icelandic (b).txt with the text
-2026-10-14 12:03:13,500 WARNING NEEDS_OCR 8. Australia - DomViol - English (b1): C3_noisy_tokens=0.0062 (limit 0.006) - OCR 8. Australia - DomViol - English (b1).pdf and replace extracted_txt/8. Australia - DomViol - English (b1).txt with the text
-2026-10-14 12:03:13,501 WARNING NEEDS_OCR 8. Australia - DomViol - English (b2): C3_noisy_tokens=0.0065 (limit 0.006) - OCR 8. Australia - DomViol - English (b2).pdf and replace extracted_txt/8. Australia - DomViol - English (b2).txt with the text
-2026-10-14 12:03:13,501 WARNING NEEDS_OCR 81. Israel - DomViol - Hebrew: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 81. Israel - DomViol - Hebrew.pdf and replace extracted_txt/81. Israel - DomViol - Hebrew.txt with the text
-2026-10-14 12:03:13,501 WARNING ELIMINATED 82. Italy - DomViol - English (c) (pdf): R2_prose_letters=1440 (limit 1500) - fix extracted_txt/82. Italy - DomViol - English (c).txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,501 WARNING ELIMINATED 82. Italy - DomViol - Italian (a) - html (html): R1_letters=224 (limit 1000), R2_prose_letters=96 (limit 1500), C2_garbage_chars=0.0039 (limit 0.003), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/82. Italy - DomViol - Italian (a) - html.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,501 WARNING ELIMINATED 82. Italy - DomViol - Italian (d) - html (html): R1_letters=339 (limit 1000), R2_prose_letters=250 (limit 1500) - fix extracted_txt/82. Italy - DomViol - Italian (d) - html.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,501 WARNING NEEDS_OCR 83. Jamaica - DomViol - English (a): S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 83. Jamaica - DomViol - English (a).pdf and replace extracted_txt/83. Jamaica - DomViol - English (a).txt with the text
-2026-10-14 12:03:13,501 WARNING NEEDS_OCR 84. Japan - DomViol - Japanese: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 84. Japan - DomViol - Japanese.pdf and replace extracted_txt/84. Japan - DomViol - Japanese.txt with the text
-2026-10-14 12:03:13,501 WARNING NEEDS_OCR 87. Kenya - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 87. Kenya - DomViol - English.pdf and replace extracted_txt/87. Kenya - DomViol - English.txt with the text
-2026-10-14 12:03:13,501 WARNING ELIMINATED 89. Korea - DomViol - Korean - html (html): R2_prose_letters=111 (limit 1500), C3_noisy_tokens=0.1498 (limit 0.006) - fix extracted_txt/89. Korea - DomViol - Korean - html.txt (it is checked again) or move it to cleaned_txt/
-2026-10-14 12:03:13,501 WARNING NEEDS_OCR 9. Austria - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 9. Austria - DomViol - English.pdf and replace extracted_txt/9. Austria - DomViol - English.txt with the text
-2026-10-14 12:03:13,501 WARNING NEEDS_OCR 95. Lebanon - DomViol - English: C3_noisy_tokens=0.0352 (limit 0.006) - OCR 95. Lebanon - DomViol - English.pdf and replace extracted_txt/95. Lebanon - DomViol - English.txt with the text
-2026-10-14 12:03:13,502 INFO    QUALITY CHECK finished: 228 policies, 174 in cleaned_txt, 43 need OCR, 11 eliminated (174 were already done)
+2026-10-27 19:28:07,878 INFO    QUALITY CHECK started (project=global)
+2026-10-27 19:28:07,878 WARNING ELIMINATED 10. Azerbaijan - DomViol - Azerbaijani - html (txt): R1_letters=15 (limit 1000), R2_prose_letters=0 (limit 1500), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/10. Azerbaijan - DomViol - Azerbaijani - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,878 INFO    PASS 100. Luxembourg - DomViol - French (a) (ocr) -> cleaned_txt/100. Luxembourg - DomViol - French (a).txt
+2026-10-27 19:28:07,879 INFO    PASS 100. Luxembourg - DomViol - French (b) (ocr) -> cleaned_txt/100. Luxembourg - DomViol - French (b).txt
+2026-10-27 19:28:07,879 INFO    PASS 101. Madagascar - DomViol - French (ocr) -> cleaned_txt/101. Madagascar - DomViol - French.txt
+2026-10-27 19:28:07,879 INFO    PASS 102. Malawi - DomViol - English (ocr) -> cleaned_txt/102. Malawi - DomViol - English.txt
+2026-10-27 19:28:07,879 INFO    PASS 103. Malaysia - DomViol - English (a) - html (txt) -> cleaned_txt/103. Malaysia - DomViol - English (a) - html.txt
+2026-10-27 19:28:07,879 INFO    PASS 103. Malaysia - DomViol - English (b) (ocr) -> cleaned_txt/103. Malaysia - DomViol - English (b).txt
+2026-10-27 19:28:07,879 INFO    PASS 104. Maldives - DomViol - English (ocr) -> cleaned_txt/104. Maldives - DomViol - English.txt
+2026-10-27 19:28:07,879 INFO    PASS 105. Mali - DomViol - French (ocr) -> cleaned_txt/105. Mali - DomViol - French.txt
+2026-10-27 19:28:07,879 INFO    PASS 106. Malta - DomViol - English (a) (ocr) -> cleaned_txt/106. Malta - DomViol - English (a).txt
+2026-10-27 19:28:07,880 INFO    PASS 106. Malta - DomViol - English (b) (ocr) -> cleaned_txt/106. Malta - DomViol - English (b).txt
+2026-10-27 19:28:07,880 INFO    PASS 107. Marshall Islands - DomViol - English (ocr) -> cleaned_txt/107. Marshall Islands - DomViol - English.txt
+2026-10-27 19:28:07,880 INFO    PASS 109. Mauritius - DomViol - English (a) (ocr) -> cleaned_txt/109. Mauritius - DomViol - English (a).txt
+2026-10-27 19:28:07,880 WARNING ELIMINATED 109. Mauritius - DomViol - English (b) (ocr): R2_prose_letters=1325 (limit 1500) - fix extracted_txt/109. Mauritius - DomViol - English (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,880 INFO    PASS 11. Bahamas - DomViol - English (ocr) -> cleaned_txt/11. Bahamas - DomViol - English.txt
+2026-10-27 19:28:07,880 INFO    PASS 110. Mexico - DomViol - Spanish (ocr) -> cleaned_txt/110. Mexico - DomViol - Spanish.txt
+2026-10-27 19:28:07,880 WARNING ELIMINATED 111. Micronesia - DomViol - English (ocr): C3_noisy_tokens=0.0313 (limit 0.006), C4_unique_words=0.9259 (limit 0.11) - fix extracted_txt/111. Micronesia - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,880 INFO    PASS 112. Moldova - DomViol - Romanian (ocr) -> cleaned_txt/112. Moldova - DomViol - Romanian.txt
+2026-10-27 19:28:07,880 INFO    PASS 113. Mongolia - DomViol - English (a) (ocr) -> cleaned_txt/113. Mongolia - DomViol - English (a).txt
+2026-10-27 19:28:07,881 INFO    PASS 113. Mongolia - DomViol - English (b) (ocr) -> cleaned_txt/113. Mongolia - DomViol - English (b).txt [duplicate_of=113. Mongolia - DomViol - English (a)]
+2026-10-27 19:28:07,881 INFO    PASS 114. Montenegro - DomViol - Bosnian (a) (ocr) -> cleaned_txt/114. Montenegro - DomViol - Bosnian (a).txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,881 INFO    PASS 114. Montenegro - DomViol - Bosnian (b) - html (txt) -> cleaned_txt/114. Montenegro - DomViol - Bosnian (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,881 INFO    PASS 115. Morocco - DomViol - Arabic (ocr) -> cleaned_txt/115. Morocco - DomViol - Arabic.txt
+2026-10-27 19:28:07,881 WARNING ELIMINATED 116. Mozambique - DomViol - Portuguese (a) (ocr): R1_letters=550 (limit 1000), R2_prose_letters=550 (limit 1500) - fix extracted_txt/116. Mozambique - DomViol - Portuguese (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,881 INFO    PASS 116. Mozambique - DomViol - Portuguese (b) (ocr) -> cleaned_txt/116. Mozambique - DomViol - Portuguese (b).txt
+2026-10-27 19:28:07,881 INFO    PASS 118. Namibia - DomViol - English (ocr) -> cleaned_txt/118. Namibia - DomViol - English.txt
+2026-10-27 19:28:07,881 INFO    PASS 119. Nepal - DomViol - English (a) (ocr) -> cleaned_txt/119. Nepal - DomViol - English (a).txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,881 INFO    PASS 119. Nepal - DomViol - English (b) - html (txt) -> cleaned_txt/119. Nepal - DomViol - English (b) - html.txt
+2026-10-27 19:28:07,881 INFO    PASS 12. Bahrain - DomViol - English (ocr) -> cleaned_txt/12. Bahrain - DomViol - English.txt
+2026-10-27 19:28:07,881 INFO    PASS 120. Netherlands - DomViol - Dutch (a) - html (txt) -> cleaned_txt/120. Netherlands - DomViol - Dutch (a) - html.txt
+2026-10-27 19:28:07,882 INFO    PASS 120. Netherlands - DomViol - Dutch (b) - html (txt) -> cleaned_txt/120. Netherlands - DomViol - Dutch (b) - html.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,882 INFO    PASS 121. New Zealand - DomViol - English (ocr) -> cleaned_txt/121. New Zealand - DomViol - English.txt
+2026-10-27 19:28:07,882 INFO    PASS 122. Nicaragua - DomViol - Spanish (a) (ocr) -> cleaned_txt/122. Nicaragua - DomViol - Spanish (a).txt
+2026-10-27 19:28:07,882 INFO    PASS 122. Nicaragua - DomViol - Spanish (b) (ocr) -> cleaned_txt/122. Nicaragua - DomViol - Spanish (b).txt
+2026-10-27 19:28:07,882 INFO    PASS 124. Nigeria - DomViol - English (ocr) -> cleaned_txt/124. Nigeria - DomViol - English.txt
+2026-10-27 19:28:07,882 INFO    PASS 125. North Macedonia - DomViol - Macedonian (ocr) -> cleaned_txt/125. North Macedonia - DomViol - Macedonian.txt
+2026-10-27 19:28:07,882 INFO    PASS 126. Norway - DomViol - Norwegian - html (txt) -> cleaned_txt/126. Norway - DomViol - Norwegian - html.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,882 INFO    PASS 128. Pakistan - DomViol - English (ocr) -> cleaned_txt/128. Pakistan - DomViol - English.txt
+2026-10-27 19:28:07,882 WARNING ELIMINATED 129. Palau - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/129. Palau - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,882 INFO    PASS 13. Bangladesh - DomViol - English (ocr) -> cleaned_txt/13. Bangladesh - DomViol - English.txt
+2026-10-27 19:28:07,882 WARNING ELIMINATED 130. Panama - DomViol - Spanish (a) (ocr): C3_noisy_tokens=0.0083 (limit 0.006) - fix extracted_txt/130. Panama - DomViol - Spanish (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,882 INFO    PASS 130. Panama - DomViol - Spanish (b) - html (txt) -> cleaned_txt/130. Panama - DomViol - Spanish (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,882 INFO    PASS 131. Papua New Guinea - DomViol - English (ocr) -> cleaned_txt/131. Papua New Guinea - DomViol - English.txt
+2026-10-27 19:28:07,883 INFO    PASS 132. Paraguay - DomViol - Spanish (ocr) -> cleaned_txt/132. Paraguay - DomViol - Spanish.txt
+2026-10-27 19:28:07,883 INFO    PASS 133. Peru - DomViol - Spanish (ocr) -> cleaned_txt/133. Peru - DomViol - Spanish.txt
+2026-10-27 19:28:07,883 INFO    PASS 134. Philippines - DomViol - English - html (txt) -> cleaned_txt/134. Philippines - DomViol - English - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,883 INFO    PASS 135. Poland - DomViol - English (a) (ocr) -> cleaned_txt/135. Poland - DomViol - English (a).txt [R6_numbering_disorder=0.1169(n=155)]
+2026-10-27 19:28:07,883 INFO    PASS 135. Poland - DomViol - Polish (b) (ocr) -> cleaned_txt/135. Poland - DomViol - Polish (b).txt [R6_numbering_disorder=0.1818(n=12)]
+2026-10-27 19:28:07,883 INFO    PASS 136. Portugal - DomViol - Potuguese (ocr) -> cleaned_txt/136. Portugal - DomViol - Potuguese.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,883 INFO    PASS 137. Puerto Rico - DomViol - Spanish (ocr) -> cleaned_txt/137. Puerto Rico - DomViol - Spanish.txt [fixes: strip_boilerplate, strip_html_residue]
+2026-10-27 19:28:07,883 INFO    PASS 139. Romania - DomViol - Romanian - html (txt) -> cleaned_txt/139. Romania - DomViol - Romanian - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,883 WARNING ELIMINATED 14. Barbados - DomViol - English (ocr): C3_noisy_tokens=0.0083 (limit 0.006) - fix extracted_txt/14. Barbados - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,883 INFO    PASS 141. Rwanda - DomViol - Kinyarwanda (ocr) -> cleaned_txt/141. Rwanda - DomViol - Kinyarwanda.txt
+2026-10-27 19:28:07,883 INFO    PASS 142. Samoa - DomViol - English (ocr) -> cleaned_txt/142. Samoa - DomViol - English.txt [R6_numbering_disorder=0.1429(n=50)]
+2026-10-27 19:28:07,883 INFO    PASS 143. San Marino - DomViol - Italian (a) (ocr) -> cleaned_txt/143. San Marino - DomViol - Italian (a).txt
+2026-10-27 19:28:07,883 INFO    PASS 143. San Marino - DomViol - Italian (b) (ocr) -> cleaned_txt/143. San Marino - DomViol - Italian (b).txt
+2026-10-27 19:28:07,884 INFO    PASS 144. Saudi Arabia - DomViol - English (ocr) -> cleaned_txt/144. Saudi Arabia - DomViol - English.txt
+2026-10-27 19:28:07,884 INFO    PASS 145. Senegal - DomViol - French (ocr) -> cleaned_txt/145. Senegal - DomViol - French.txt [R6_numbering_disorder=0.12(n=201)]
+2026-10-27 19:28:07,884 WARNING ELIMINATED 146. Serbia - DomViol - Bosnian (a) - html (txt): R2_prose_letters=970 (limit 1500) - fix extracted_txt/146. Serbia - DomViol - Bosnian (a) - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,884 INFO    PASS 146. Serbia - DomViol - Bosnian (b) (ocr) -> cleaned_txt/146. Serbia - DomViol - Bosnian (b).txt
+2026-10-27 19:28:07,884 INFO    PASS 147. Seychelles - DomViol - English (ocr) -> cleaned_txt/147. Seychelles - DomViol - English.txt
+2026-10-27 19:28:07,884 INFO    PASS 148. Sierra Leone - DomViol - English (ocr) -> cleaned_txt/148. Sierra Leone - DomViol - English.txt
+2026-10-27 19:28:07,884 INFO    PASS 149. Singapore - DomViol - English - html (txt) -> cleaned_txt/149. Singapore - DomViol - English - html.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,884 INFO    PASS 15. Belarus - DomViol - Russian - html (txt) -> cleaned_txt/15. Belarus - DomViol - Russian - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,884 INFO    PASS 150. Slovak Republic - DomViol - Slovak - html (txt) -> cleaned_txt/150. Slovak Republic - DomViol - Slovak - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,884 INFO    PASS 151. Slovenia - DomViol - Slovenian (a) (ocr) -> cleaned_txt/151. Slovenia - DomViol - Slovenian (a).txt
+2026-10-27 19:28:07,884 INFO    PASS 151. Slovenia - DomViol - Slovenian (b) (ocr) -> cleaned_txt/151. Slovenia - DomViol - Slovenian (b).txt
+2026-10-27 19:28:07,884 INFO    PASS 151. Slovenia - DomViol - Slovenian (c) - html (txt) -> cleaned_txt/151. Slovenia - DomViol - Slovenian (c) - html.txt [fixes: hygiene, join_spaced_letters]
+2026-10-27 19:28:07,884 INFO    PASS 152. Solomon Islands - DomViol - English (ocr) -> cleaned_txt/152. Solomon Islands - DomViol - English.txt
+2026-10-27 19:28:07,885 WARNING ELIMINATED 154. South Africa - DomViol - English (ocr): C3_noisy_tokens=0.0526 (limit 0.006), C4_unique_words=0.4176 (limit 0.11), C6_glued_words=43.667 (limit 1.0) - fix extracted_txt/154. South Africa - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,885 INFO    PASS 156. Spain - DomViol - Spanish (a) (ocr) -> cleaned_txt/156. Spain - DomViol - Spanish (a).txt
+2026-10-27 19:28:07,885 INFO    PASS 156. Spain - DomViol - Spanish (b) (ocr) -> cleaned_txt/156. Spain - DomViol - Spanish (b).txt
+2026-10-27 19:28:07,885 INFO    PASS 157. Sri Lanka - DomViol - English (ocr) -> cleaned_txt/157. Sri Lanka - DomViol - English.txt
+2026-10-27 19:28:07,885 INFO    PASS 158. St. Kitts and Nevis - DomViol - English (ocr) -> cleaned_txt/158. St. Kitts and Nevis - DomViol - English.txt
+2026-10-27 19:28:07,885 INFO    PASS 159. St. Lucia - DomViol - English (ocr) -> cleaned_txt/159. St. Lucia - DomViol - English.txt
+2026-10-27 19:28:07,885 WARNING ELIMINATED 16. Belgium - DomViol - French (a) (ocr): C3_noisy_tokens=0.0729 (limit 0.006), C4_unique_words=0.7715 (limit 0.11), C6_glued_words=22.939 (limit 1.0) - fix extracted_txt/16. Belgium - DomViol - French (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,885 INFO    PASS 16. Belgium - DomViol - French (b) (ocr) -> cleaned_txt/16. Belgium - DomViol - French (b).txt
+2026-10-27 19:28:07,885 WARNING ELIMINATED 160. St. Vincent and and the Grenadines - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/160. St. Vincent and and the Grenadines - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,885 INFO    PASS 164. Switzerland - DomViol - French (ocr) -> cleaned_txt/164. Switzerland - DomViol - French.txt
+2026-10-27 19:28:07,885 INFO    PASS 167. Taiwan - DomViol - English - html (txt) -> cleaned_txt/167. Taiwan - DomViol - English - html.txt [fixes: hygiene, strip_boilerplate, strip_html_residue]
+2026-10-27 19:28:07,885 WARNING ELIMINATED 168. Tajikistan - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/168. Tajikistan - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,885 INFO    PASS 17. Belize - DomViol - English (ocr) -> cleaned_txt/17. Belize - DomViol - English.txt
+2026-10-27 19:28:07,886 INFO    PASS 170. Thailand - DomViol - Thai (ocr) -> cleaned_txt/170. Thailand - DomViol - Thai.txt
+2026-10-27 19:28:07,886 INFO    PASS 171. Timor-Leste - DomViol - Portuguese (a) - html (txt) -> cleaned_txt/171. Timor-Leste - DomViol - Portuguese (a) - html.txt
+2026-10-27 19:28:07,886 INFO    PASS 171. Timor-Leste - DomViol - Portuguese (b) (ocr) -> cleaned_txt/171. Timor-Leste - DomViol - Portuguese (b).txt
+2026-10-27 19:28:07,886 WARNING ELIMINATED 172. Togo - DomViol - French (ocr): C3_noisy_tokens=0.0472 (limit 0.006), C4_unique_words=0.4061 (limit 0.11) - fix extracted_txt/172. Togo - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,886 INFO    PASS 173. Tonga - DomViol - English (ocr) -> cleaned_txt/173. Tonga - DomViol - English.txt
+2026-10-27 19:28:07,886 INFO    PASS 174. Trinidad and Tobago - DomViol - English (ocr) -> cleaned_txt/174. Trinidad and Tobago - DomViol - English.txt
+2026-10-27 19:28:07,886 INFO    PASS 175. Tunisia - DomViol - French (ocr) -> cleaned_txt/175. Tunisia - DomViol - French.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,886 INFO    PASS 176. Turkiye - DomViol - Turkish (a) (ocr) -> cleaned_txt/176. Turkiye - DomViol - Turkish (a).txt
+2026-10-27 19:28:07,886 INFO    PASS 176. Turkiye - DomViol - Turkish (b) (ocr) -> cleaned_txt/176. Turkiye - DomViol - Turkish (b).txt
+2026-10-27 19:28:07,886 INFO    PASS 177. Uganda - DomViol - English (ocr) -> cleaned_txt/177. Uganda - DomViol - English.txt
+2026-10-27 19:28:07,886 INFO    PASS 178. Ukraine - DomViol - Ukrainian (a) - html (txt) -> cleaned_txt/178. Ukraine - DomViol - Ukrainian (a) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,886 INFO    PASS 178. Ukraine - DomViol - Ukrainian (b) - html (txt) -> cleaned_txt/178. Ukraine - DomViol - Ukrainian (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,886 INFO    PASS 179. United Arab Emirates - DomViol - English (ocr) -> cleaned_txt/179. United Arab Emirates - DomViol - English.txt
+2026-10-27 19:28:07,886 INFO    PASS 18. Benin - DomViol - French (ocr) -> cleaned_txt/18. Benin - DomViol - French.txt
+2026-10-27 19:28:07,887 INFO    PASS 180. United Kingdom - DomViol - English (a) (ocr) -> cleaned_txt/180. United Kingdom - DomViol - English (a).txt
+2026-10-27 19:28:07,887 INFO    PASS 180. United Kingdom - DomViol - English (b) (ocr) -> cleaned_txt/180. United Kingdom - DomViol - English (b).txt
+2026-10-27 19:28:07,887 INFO    PASS 180. United Kingdom - DomViol - English (c) (ocr) -> cleaned_txt/180. United Kingdom - DomViol - English (c).txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,887 INFO    PASS 181. United States - DomViol - English (a) (ocr) -> cleaned_txt/181. United States - DomViol - English (a).txt
+2026-10-27 19:28:07,887 INFO    PASS 181. United States - DomViol - English (b) (ocr) -> cleaned_txt/181. United States - DomViol - English (b).txt
+2026-10-27 19:28:07,887 INFO    PASS 182. Uruguay - DomViol - Spanish (a) - html (txt) -> cleaned_txt/182. Uruguay - DomViol - Spanish (a) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,887 INFO    PASS 182. Uruguay - DomViol - Spanish (b) - html (txt) -> cleaned_txt/182. Uruguay - DomViol - Spanish (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,887 WARNING ELIMINATED 183. Uzbekistan - DomViol - English (a) (ocr): C3_noisy_tokens=0.0078 (limit 0.006) - fix extracted_txt/183. Uzbekistan - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,887 WARNING ELIMINATED 183. Uzbekistan - DomViol - Russian (b) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/183. Uzbekistan - DomViol - Russian (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,887 INFO    PASS 184. Vanuatu - DomViol - English (ocr) -> cleaned_txt/184. Vanuatu - DomViol - English.txt
+2026-10-27 19:28:07,887 INFO    PASS 185. Venezuela - DomViol - Spanish (a) (ocr) -> cleaned_txt/185. Venezuela - DomViol - Spanish (a).txt
+2026-10-27 19:28:07,887 INFO    PASS 185. Venezuela - DomViol - Spanish (b) (ocr) -> cleaned_txt/185. Venezuela - DomViol - Spanish (b).txt [R6_numbering_disorder=0.1034(n=262)]
+2026-10-27 19:28:07,888 INFO    PASS 186. Viet Nam - DomViol - English (a) (ocr) -> cleaned_txt/186. Viet Nam - DomViol - English (a).txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,888 WARNING ELIMINATED 186. Viet Nam - DomViol - English (b) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/186. Viet Nam - DomViol - English (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,888 INFO    PASS 189. Zambia - DomViol - English (ocr) -> cleaned_txt/189. Zambia - DomViol - English.txt
+2026-10-27 19:28:07,888 WARNING ELIMINATED 19. Bhutan - DomViol - Bhutanese (ocr): C2_garbage_chars=0.0033 (limit 0.003) - fix extracted_txt/19. Bhutan - DomViol - Bhutanese.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,888 WARNING ELIMINATED 190. Zimbabwe - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/190. Zimbabwe - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,888 WARNING ELIMINATED 2. Albania - DomViol - Albanian (a) (ocr): C6_glued_words=3.405 (limit 1.0) - fix extracted_txt/2. Albania - DomViol - Albanian (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,888 WARNING ELIMINATED 2. Albania - DomViol - Albanian (b) (ocr): C6_glued_words=25.198 (limit 1.0) - fix extracted_txt/2. Albania - DomViol - Albanian (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,888 INFO    PASS 20. Bolivia - DomViol - Spanish (a) - html (txt) -> cleaned_txt/20. Bolivia - DomViol - Spanish (a) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,888 INFO    PASS 20. Bolivia - DomViol - Spanish (b) - html (txt) -> cleaned_txt/20. Bolivia - DomViol - Spanish (b) - html.txt [fixes: hygiene] [R6_numbering_disorder=0.14(n=51)]
+2026-10-27 19:28:07,888 INFO    PASS 20. Bolivia - DomViol - Spanish (c) - html (txt) -> cleaned_txt/20. Bolivia - DomViol - Spanish (c) - html.txt
+2026-10-27 19:28:07,888 INFO    PASS 21. Bosnia and Herzegovina - DomViol - Bosnian (a) - html (txt) -> cleaned_txt/21. Bosnia and Herzegovina - DomViol - Bosnian (a) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,888 INFO    PASS 21. Bosnia and Herzegovina - DomViol - Bosnian (b) (ocr) -> cleaned_txt/21. Bosnia and Herzegovina - DomViol - Bosnian (b).txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,888 INFO    PASS 22. Botswana - DomViol - English (ocr) -> cleaned_txt/22. Botswana - DomViol - English.txt
+2026-10-27 19:28:07,889 INFO    PASS 23. Brazil - DomViol - Portuguese - html (txt) -> cleaned_txt/23. Brazil - DomViol - Portuguese - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,889 INFO    PASS 24. Brunei Darussalam - DomViol - English (ocr) -> cleaned_txt/24. Brunei Darussalam - DomViol - English.txt
+2026-10-27 19:28:07,889 INFO    PASS 25. Bulgaria - DomViol - Bulgarian (a) - html (txt) -> cleaned_txt/25. Bulgaria - DomViol - Bulgarian (a) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,889 INFO    PASS 25. Bulgaria - DomViol - Bulgarian (b) - html (txt) -> cleaned_txt/25. Bulgaria - DomViol - Bulgarian (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,889 INFO    PASS 26. Burkina Faso - DomViol - French (ocr) -> cleaned_txt/26. Burkina Faso - DomViol - French.txt
+2026-10-27 19:28:07,889 INFO    PASS 27. Burundi - DomViol - French (ocr) -> cleaned_txt/27. Burundi - DomViol - French.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,889 INFO    PASS 28. Cabo Verde - DomViol - Portuguese (ocr) -> cleaned_txt/28. Cabo Verde - DomViol - Portuguese.txt
+2026-10-27 19:28:07,889 INFO    PASS 29. Cambodia - DomViol - English (a) (ocr) -> cleaned_txt/29. Cambodia - DomViol - English (a).txt
+2026-10-27 19:28:07,889 INFO    PASS 29. Cambodia - DomViol - English (b) (ocr) -> cleaned_txt/29. Cambodia - DomViol - English (b).txt
+2026-10-27 19:28:07,889 WARNING ELIMINATED 3. Algeria - DomViol - French (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/3. Algeria - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,889 INFO    PASS 31. Canada - DomViol - English (a) (ocr) -> cleaned_txt/31. Canada - DomViol - English (a).txt
+2026-10-27 19:28:07,889 INFO    PASS 31. Canada - DomViol - English (b) - html (txt) -> cleaned_txt/31. Canada - DomViol - English (b) - html.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,889 INFO    PASS 32. Central African Republic - DomViol - French (ocr) -> cleaned_txt/32. Central African Republic - DomViol - French.txt
+2026-10-27 19:28:07,890 WARNING ELIMINATED 33. Chad - DomViol - French (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/33. Chad - DomViol - French (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,890 INFO    PASS 33. Chad - DomViol - French (b) (ocr) -> cleaned_txt/33. Chad - DomViol - French (b).txt
+2026-10-27 19:28:07,890 INFO    PASS 34. Chile - DomViol - Spanish (ocr) -> cleaned_txt/34. Chile - DomViol - Spanish.txt [fixes: strip_boilerplate] [R6_numbering_disorder=0.1364(n=45)]
+2026-10-27 19:28:07,890 INFO    PASS 35. China - DomViol - Chinese (b) - html (txt) -> cleaned_txt/35. China - DomViol - Chinese (b) - html.txt
+2026-10-27 19:28:07,890 WARNING ELIMINATED 35. China - DomViol - English (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/35. China - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,890 WARNING ELIMINATED 35. China - DomViol - English (c) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/35. China - DomViol - English (c).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,890 INFO    PASS 36. Colombia - DomViol - Spanish (ocr) -> cleaned_txt/36. Colombia - DomViol - Spanish.txt [R6_numbering_disorder=0.1429(n=15)]
+2026-10-27 19:28:07,890 INFO    PASS 39. Congo, Rep - DomViol - French (ocr) -> cleaned_txt/39. Congo, Rep - DomViol - French.txt [R6_numbering_disorder=0.1681(n=114)]
+2026-10-27 19:28:07,890 WARNING ELIMINATED 4. Angola - DomViol - Portuguese (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/4. Angola - DomViol - Portuguese.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,890 INFO    PASS 40. Costa Rica - DomViol - Spanish (a) - html (txt) -> cleaned_txt/40. Costa Rica - DomViol - Spanish (a) - html.txt
+2026-10-27 19:28:07,890 INFO    PASS 40. Costa Rica - DomViol - Spanish (b) - html (txt) -> cleaned_txt/40. Costa Rica - DomViol - Spanish (b) - html.txt
+2026-10-27 19:28:07,890 WARNING ELIMINATED 41. Cote dIvoire - DomViol - French (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/41. Cote dIvoire - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,890 INFO    PASS 42. Croatia - DomViol - Croatian (a) - html (txt) -> cleaned_txt/42. Croatia - DomViol - Croatian (a) - html.txt
+2026-10-27 19:28:07,891 INFO    PASS 42. Croatia - DomViol - Croatian (b) - html (txt) -> cleaned_txt/42. Croatia - DomViol - Croatian (b) - html.txt
+2026-10-27 19:28:07,891 INFO    PASS 43. Cyprus - DomViol - Greek (a) - html (txt) -> cleaned_txt/43. Cyprus - DomViol - Greek (a) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,891 INFO    PASS 43. Cyprus - DomViol - Greek (b) (ocr) -> cleaned_txt/43. Cyprus - DomViol - Greek (b).txt [fixes: hygiene]
+2026-10-27 19:28:07,891 INFO    PASS 44. Czechia - DomViol - Czech (a) - html (txt) -> cleaned_txt/44. Czechia - DomViol - Czech (a) - html.txt
+2026-10-27 19:28:07,891 INFO    PASS 44. Czechia - DomViol - Czech (b) - html (txt) -> cleaned_txt/44. Czechia - DomViol - Czech (b) - html.txt
+2026-10-27 19:28:07,891 INFO    PASS 44. Czechia - DomViol - Czech (c) - html (txt) -> cleaned_txt/44. Czechia - DomViol - Czech (c) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,891 INFO    PASS 44. Czechia - DomViol - Czech (d) - html (txt) -> cleaned_txt/44. Czechia - DomViol - Czech (d) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,891 INFO    PASS 45. Denmark - DomViol - Danish (a) (ocr) -> cleaned_txt/45. Denmark - DomViol - Danish (a).txt
+2026-10-27 19:28:07,891 INFO    PASS 45. Denmark - DomViol - Danish (b) (ocr) -> cleaned_txt/45. Denmark - DomViol - Danish (b).txt
+2026-10-27 19:28:07,891 INFO    PASS 46. Djibouti - DomViol - French (ocr) -> cleaned_txt/46. Djibouti - DomViol - French.txt [fixes: hygiene]
+2026-10-27 19:28:07,891 WARNING ELIMINATED 47. Dominica - DomViol - English (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/47. Dominica - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,891 INFO    PASS 47. Dominica - DomViol - English (b) (ocr) -> cleaned_txt/47. Dominica - DomViol - English (b).txt
+2026-10-27 19:28:07,891 INFO    PASS 48. Dominican Republic - DomViol - Spanish (ocr) -> cleaned_txt/48. Dominican Republic - DomViol - Spanish.txt
+2026-10-27 19:28:07,892 INFO    PASS 49. Ecuador - DomViol - Spanish (a) (ocr) -> cleaned_txt/49. Ecuador - DomViol - Spanish (a).txt
+2026-10-27 19:28:07,892 INFO    PASS 49. Ecuador - DomViol - Spanish (b) (ocr) -> cleaned_txt/49. Ecuador - DomViol - Spanish (b).txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,892 INFO    PASS 5. Antigua and  Barbuda - DomViol - English (ocr) -> cleaned_txt/5. Antigua and  Barbuda - DomViol - English.txt
+2026-10-27 19:28:07,892 WARNING ELIMINATED 50. Egypt - DomViol - Arabic (ocr): R1_letters=941 (limit 1000), R2_prose_letters=775 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C3_noisy_tokens=0.1515 (limit 0.006) - fix extracted_txt/50. Egypt - DomViol - Arabic.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,892 WARNING ELIMINATED 51. El Salvador - DomViol - Spanish (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/51. El Salvador - DomViol - Spanish (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,892 INFO    PASS 51. El Salvador - DomViol - Spanish (b) (ocr) -> cleaned_txt/51. El Salvador - DomViol - Spanish (b).txt
+2026-10-27 19:28:07,892 WARNING ELIMINATED 54. Estonia - DomViol - Estonian (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/54. Estonia - DomViol - Estonian.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,893 INFO    PASS 55. Eswatini - DomViol - English (ocr) -> cleaned_txt/55. Eswatini - DomViol - English.txt
+2026-10-27 19:28:07,893 INFO    PASS 56. Ethiopia - DomViol - English (ocr) -> cleaned_txt/56. Ethiopia - DomViol - English.txt
+2026-10-27 19:28:07,893 INFO    PASS 57. Fiji - DomViol - English - html (txt) -> cleaned_txt/57. Fiji - DomViol - English - html.txt
+2026-10-27 19:28:07,893 WARNING ELIMINATED 58. Finland - DomViol - Swedish (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/58. Finland - DomViol - Swedish.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,893 INFO    PASS 59. France - DomViol - French - html (txt) -> cleaned_txt/59. France - DomViol - French - html.txt
+2026-10-27 19:28:07,893 INFO    PASS 6. Argentina - DomViol - Spanish (a) - html (txt) -> cleaned_txt/6. Argentina - DomViol - Spanish (a) - html.txt
+2026-10-27 19:28:07,893 INFO    PASS 6. Argentina - DomViol - Spanish (b) - html (txt) -> cleaned_txt/6. Argentina - DomViol - Spanish (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,893 WARNING ELIMINATED 60. Gabon - DomViol - French (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/60. Gabon - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,893 WARNING ELIMINATED 61. Gambia - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/61. Gambia - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,893 WARNING ELIMINATED 62. Georgia - DomViol - Georgian (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/62. Georgia - DomViol - Georgian.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,893 WARNING ELIMINATED 63. Germany - DomViol - German (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/63. Germany - DomViol - German.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,893 WARNING ELIMINATED 64. Ghana - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/64. Ghana - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,893 INFO    PASS 65. Greece - DomViol - Greek (ocr) -> cleaned_txt/65. Greece - DomViol - Greek.txt [fixes: hygiene]
+2026-10-27 19:28:07,893 INFO    PASS 66. Grenada - DomViol - English (ocr) -> cleaned_txt/66. Grenada - DomViol - English.txt
+2026-10-27 19:28:07,894 INFO    PASS 67. Guatemala - DomViol - Spanish (a) (ocr) -> cleaned_txt/67. Guatemala - DomViol - Spanish (a).txt
+2026-10-27 19:28:07,894 WARNING ELIMINATED 67. Guatemala - DomViol - Spanish (b) (ocr): C4_unique_words=0.5689 (limit 0.11) - fix extracted_txt/67. Guatemala - DomViol - Spanish (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,894 WARNING ELIMINATED 7. Armenia - DomViol - Armenian (ocr): C6_glued_words=1.87 (limit 1.0) - fix extracted_txt/7. Armenia - DomViol - Armenian.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,894 INFO    PASS 7. Armenia - DomViol - English (a) (ocr) -> cleaned_txt/7. Armenia - DomViol - English (a).txt
+2026-10-27 19:28:07,894 INFO    PASS 7. Armenia - DomViol - English (b) (ocr) -> cleaned_txt/7. Armenia - DomViol - English (b).txt
+2026-10-27 19:28:07,894 INFO    PASS 70. Guyana - DomViol - English (ocr) -> cleaned_txt/70. Guyana - DomViol - English.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,894 INFO    PASS 72. Honduras - DomViol - Spanish (a) (ocr) -> cleaned_txt/72. Honduras - DomViol - Spanish (a).txt
+2026-10-27 19:28:07,894 INFO    PASS 72. Honduras - DomViol - Spanish (b) (ocr) -> cleaned_txt/72. Honduras - DomViol - Spanish (b).txt
+2026-10-27 19:28:07,894 INFO    PASS 72. Honduras - DomViol - Spanish (c) (ocr) -> cleaned_txt/72. Honduras - DomViol - Spanish (c).txt
+2026-10-27 19:28:07,894 WARNING ELIMINATED 73. Hong Kong - DomViol - English - html (txt): R2_prose_letters=1433 (limit 1500) - fix extracted_txt/73. Hong Kong - DomViol - English - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,894 WARNING ELIMINATED 74. Hungary - DomViol - Hungarian (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/74. Hungary - DomViol - Hungarian (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,894 INFO    PASS 74. Hungary - DomViol - Hungarian (b) - html (txt) -> cleaned_txt/74. Hungary - DomViol - Hungarian (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,894 WARNING ELIMINATED 75. Iceland - DomViol - Icelandic (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/75. Iceland - DomViol - Icelandic (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,894 WARNING ELIMINATED 75. Iceland - DomViol - Icelandic (b) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/75. Iceland - DomViol - Icelandic (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,895 INFO    PASS 76. India - DomViol - English (ocr) -> cleaned_txt/76. India - DomViol - English.txt
+2026-10-27 19:28:07,895 INFO    PASS 77. Indonesia - DomViol - English (ocr) -> cleaned_txt/77. Indonesia - DomViol - English.txt
+2026-10-27 19:28:07,895 INFO    PASS 8. Australia - DomViol - English (a) (ocr) -> cleaned_txt/8. Australia - DomViol - English (a).txt
+2026-10-27 19:28:07,895 WARNING ELIMINATED 8. Australia - DomViol - English (b1) (ocr): C3_noisy_tokens=0.0062 (limit 0.006) - fix extracted_txt/8. Australia - DomViol - English (b1).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,895 WARNING ELIMINATED 8. Australia - DomViol - English (b2) (ocr): C3_noisy_tokens=0.0065 (limit 0.006) - fix extracted_txt/8. Australia - DomViol - English (b2).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,895 INFO    PASS 80. Ireland - DomViol - English (ocr) -> cleaned_txt/80. Ireland - DomViol - English.txt
+2026-10-27 19:28:07,895 WARNING ELIMINATED 81. Israel - DomViol - Hebrew (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/81. Israel - DomViol - Hebrew.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,895 WARNING ELIMINATED 82. Italy - DomViol - English (c) (ocr): R2_prose_letters=1440 (limit 1500) - fix extracted_txt/82. Italy - DomViol - English (c).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,895 WARNING ELIMINATED 82. Italy - DomViol - Italian (a) - html (txt): R1_letters=224 (limit 1000), R2_prose_letters=96 (limit 1500), C2_garbage_chars=0.0039 (limit 0.003), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/82. Italy - DomViol - Italian (a) - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,895 INFO    PASS 82. Italy - DomViol - Italian (b) - html (txt) -> cleaned_txt/82. Italy - DomViol - Italian (b) - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,895 WARNING ELIMINATED 82. Italy - DomViol - Italian (d) - html (txt): R1_letters=339 (limit 1000), R2_prose_letters=250 (limit 1500) - fix extracted_txt/82. Italy - DomViol - Italian (d) - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,896 INFO    PASS 82. Italy - DomViol - Italian (e) - html (txt) -> cleaned_txt/82. Italy - DomViol - Italian (e) - html.txt [fixes: strip_boilerplate]
+2026-10-27 19:28:07,896 WARNING ELIMINATED 83. Jamaica - DomViol - English (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/83. Jamaica - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,896 INFO    PASS 83. Jamaica - DomViol - English (b) (ocr) -> cleaned_txt/83. Jamaica - DomViol - English (b).txt [fixes: join_spaced_letters]
+2026-10-27 19:28:07,896 WARNING ELIMINATED 84. Japan - DomViol - Japanese (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/84. Japan - DomViol - Japanese.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,896 INFO    PASS 85. Jordan - DomViol - English (ocr) -> cleaned_txt/85. Jordan - DomViol - English.txt
+2026-10-27 19:28:07,896 INFO    PASS 86. Kazakhstan - DomViol - Russian - html (txt) -> cleaned_txt/86. Kazakhstan - DomViol - Russian - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,896 WARNING ELIMINATED 87. Kenya - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/87. Kenya - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,896 INFO    PASS 88. Kiribati - DomViol - English (ocr) -> cleaned_txt/88. Kiribati - DomViol - English.txt
+2026-10-27 19:28:07,896 INFO    PASS 88. Kiribati - DomViol - English - html (txt) -> cleaned_txt/88. Kiribati - DomViol - English - html.txt [fixes: hygiene]
+2026-10-27 19:28:07,896 WARNING ELIMINATED 89. Korea - DomViol - Korean - html (txt): R2_prose_letters=111 (limit 1500), C3_noisy_tokens=0.1498 (limit 0.006) - fix extracted_txt/89. Korea - DomViol - Korean - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 19:28:07,896 WARNING NOT EXTRACTED 9. Austria - DomViol - English.pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 90. Kosovo - DomViol - Albanian.pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 92. Kyrgyz Republic - DomViol - Russian.pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 93. Lao PDR - DomViol - English (a).pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 93. Lao PDR - DomViol - English (b).pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 94. Latvia - DomViol - Latvian (a).pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 94. Latvia - DomViol - Latvian (b).pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 95. Lebanon - DomViol - English.pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 96. Lesotho - DomViol - English.pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 97. Liberia - DomViol - English.pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 99. Lithuania - DomViol - Lithuanian (a).pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,897 WARNING NOT EXTRACTED 99. Lithuania - DomViol - Lithuanian (b).pdf: no extracted text yet (extraction failed or was not run)
+2026-10-27 19:28:07,898 INFO    QUALITY CHECK finished: 216 policies, 164 in cleaned_txt, 0 need OCR, 52 eliminated (0 were already done)
+2026-10-27 20:07:26,174 INFO    EXTRACTED 9. Austria - DomViol - English.pdf (pdf, 73 page(s)) -> extracted_txt/9. Austria - DomViol - English.txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 90. Kosovo - DomViol - Albanian.pdf (pdf, 30 page(s)) -> extracted_txt/90. Kosovo - DomViol - Albanian.txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 92. Kyrgyz Republic - DomViol - Russian.pdf (pdf, 21 page(s)) -> extracted_txt/92. Kyrgyz Republic - DomViol - Russian.txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 93. Lao PDR - DomViol - English (a).pdf (pdf, 21 page(s)) -> extracted_txt/93. Lao PDR - DomViol - English (a).txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 93. Lao PDR - DomViol - English (b).pdf (pdf, 22 page(s)) -> extracted_txt/93. Lao PDR - DomViol - English (b).txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 94. Latvia - DomViol - Latvian (a).pdf (pdf, 140 page(s)) -> extracted_txt/94. Latvia - DomViol - Latvian (a).txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 94. Latvia - DomViol - Latvian (b).pdf (pdf, 354 page(s)) -> extracted_txt/94. Latvia - DomViol - Latvian (b).txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 95. Lebanon - DomViol - English.pdf (pdf, 8 page(s)) -> extracted_txt/95. Lebanon - DomViol - English.txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 96. Lesotho - DomViol - English.pdf (pdf, 32 page(s)) -> extracted_txt/96. Lesotho - DomViol - English.txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 97. Liberia - DomViol - English.pdf (pdf, 13 page(s)) -> extracted_txt/97. Liberia - DomViol - English.txt
+2026-10-27 20:07:26,175 INFO    EXTRACTED 99. Lithuania - DomViol - Lithuanian (a).pdf (pdf, 5 page(s)) -> extracted_txt/99. Lithuania - DomViol - Lithuanian (a).txt
+2026-10-27 20:07:26,176 INFO    EXTRACTED 99. Lithuania - DomViol - Lithuanian (b).pdf (pdf, 131 page(s)) -> extracted_txt/99. Lithuania - DomViol - Lithuanian (b).txt
+2026-10-27 20:07:26,176 INFO    EXTRACTION finished: 12 extracted, 164 already in cleaned_txt, 52 already in extracted_txt, 0 with another original used, 0 failed
+2026-10-27 20:15:06,646 INFO    QUALITY CHECK started (project=global)
+2026-10-27 20:15:06,650 WARNING ELIMINATED 10. Azerbaijan - DomViol - Azerbaijani - html (txt): R1_letters=15 (limit 1000), R2_prose_letters=0 (limit 1500), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/10. Azerbaijan - DomViol - Azerbaijani - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,650 WARNING ELIMINATED 109. Mauritius - DomViol - English (b) (ocr): R2_prose_letters=1325 (limit 1500) - fix extracted_txt/109. Mauritius - DomViol - English (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 111. Micronesia - DomViol - English (ocr): C3_noisy_tokens=0.0313 (limit 0.006), C4_unique_words=0.9256 (limit 0.11) - fix extracted_txt/111. Micronesia - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 116. Mozambique - DomViol - Portuguese (a) (ocr): R1_letters=550 (limit 1000), R2_prose_letters=550 (limit 1500) - fix extracted_txt/116. Mozambique - DomViol - Portuguese (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 129. Palau - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/129. Palau - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 130. Panama - DomViol - Spanish (a) (ocr): C3_noisy_tokens=0.0083 (limit 0.006) - fix extracted_txt/130. Panama - DomViol - Spanish (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 14. Barbados - DomViol - English (ocr): C3_noisy_tokens=0.0083 (limit 0.006) - fix extracted_txt/14. Barbados - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 146. Serbia - DomViol - Bosnian (a) - html (txt): R2_prose_letters=970 (limit 1500) - fix extracted_txt/146. Serbia - DomViol - Bosnian (a) - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 154. South Africa - DomViol - English (ocr): C3_noisy_tokens=0.0526 (limit 0.006), C4_unique_words=0.4176 (limit 0.11), C6_glued_words=43.667 (limit 1.0) - fix extracted_txt/154. South Africa - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 16. Belgium - DomViol - French (a) (ocr): C3_noisy_tokens=0.0729 (limit 0.006), C4_unique_words=0.7715 (limit 0.11), C6_glued_words=22.939 (limit 1.0) - fix extracted_txt/16. Belgium - DomViol - French (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,651 WARNING ELIMINATED 160. St. Vincent and and the Grenadines - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/160. St. Vincent and and the Grenadines - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,653 WARNING ELIMINATED 168. Tajikistan - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/168. Tajikistan - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 172. Togo - DomViol - French (ocr): C3_noisy_tokens=0.0472 (limit 0.006), C4_unique_words=0.4061 (limit 0.11) - fix extracted_txt/172. Togo - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 183. Uzbekistan - DomViol - English (a) (ocr): C3_noisy_tokens=0.0078 (limit 0.006) - fix extracted_txt/183. Uzbekistan - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 183. Uzbekistan - DomViol - Russian (b) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/183. Uzbekistan - DomViol - Russian (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 186. Viet Nam - DomViol - English (b) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/186. Viet Nam - DomViol - English (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 19. Bhutan - DomViol - Bhutanese (ocr): C2_garbage_chars=0.0033 (limit 0.003) - fix extracted_txt/19. Bhutan - DomViol - Bhutanese.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 190. Zimbabwe - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/190. Zimbabwe - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 2. Albania - DomViol - Albanian (a) (ocr): C6_glued_words=3.405 (limit 1.0) - fix extracted_txt/2. Albania - DomViol - Albanian (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,654 WARNING ELIMINATED 2. Albania - DomViol - Albanian (b) (ocr): C6_glued_words=25.198 (limit 1.0) - fix extracted_txt/2. Albania - DomViol - Albanian (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 3. Algeria - DomViol - French (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/3. Algeria - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 33. Chad - DomViol - French (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/33. Chad - DomViol - French (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 35. China - DomViol - English (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/35. China - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 35. China - DomViol - English (c) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/35. China - DomViol - English (c).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 4. Angola - DomViol - Portuguese (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/4. Angola - DomViol - Portuguese.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 41. Cote dIvoire - DomViol - French (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/41. Cote dIvoire - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 47. Dominica - DomViol - English (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/47. Dominica - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 50. Egypt - DomViol - Arabic (ocr): R1_letters=941 (limit 1000), R2_prose_letters=775 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C3_noisy_tokens=0.1515 (limit 0.006) - fix extracted_txt/50. Egypt - DomViol - Arabic.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,655 WARNING ELIMINATED 51. El Salvador - DomViol - Spanish (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/51. El Salvador - DomViol - Spanish (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 54. Estonia - DomViol - Estonian (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/54. Estonia - DomViol - Estonian.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 58. Finland - DomViol - Swedish (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/58. Finland - DomViol - Swedish.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 60. Gabon - DomViol - French (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/60. Gabon - DomViol - French.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 61. Gambia - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/61. Gambia - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 62. Georgia - DomViol - Georgian (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/62. Georgia - DomViol - Georgian.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 63. Germany - DomViol - German (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/63. Germany - DomViol - German.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 64. Ghana - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/64. Ghana - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 67. Guatemala - DomViol - Spanish (b) (ocr): C4_unique_words=0.5689 (limit 0.11) - fix extracted_txt/67. Guatemala - DomViol - Spanish (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 7. Armenia - DomViol - Armenian (ocr): C6_glued_words=1.87 (limit 1.0) - fix extracted_txt/7. Armenia - DomViol - Armenian.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,656 WARNING ELIMINATED 73. Hong Kong - DomViol - English - html (txt): R2_prose_letters=1433 (limit 1500) - fix extracted_txt/73. Hong Kong - DomViol - English - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 74. Hungary - DomViol - Hungarian (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/74. Hungary - DomViol - Hungarian (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 75. Iceland - DomViol - Icelandic (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/75. Iceland - DomViol - Icelandic (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 75. Iceland - DomViol - Icelandic (b) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/75. Iceland - DomViol - Icelandic (b).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 8. Australia - DomViol - English (b1) (ocr): C3_noisy_tokens=0.0062 (limit 0.006) - fix extracted_txt/8. Australia - DomViol - English (b1).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 8. Australia - DomViol - English (b2) (ocr): C3_noisy_tokens=0.0065 (limit 0.006) - fix extracted_txt/8. Australia - DomViol - English (b2).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 81. Israel - DomViol - Hebrew (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/81. Israel - DomViol - Hebrew.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 82. Italy - DomViol - English (c) (ocr): R2_prose_letters=1440 (limit 1500) - fix extracted_txt/82. Italy - DomViol - English (c).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 82. Italy - DomViol - Italian (a) - html (txt): R1_letters=224 (limit 1000), R2_prose_letters=96 (limit 1500), C2_garbage_chars=0.0039 (limit 0.003), C8_lost_diacritics=0.0 (limit 0.004) - fix extracted_txt/82. Italy - DomViol - Italian (a) - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,657 WARNING ELIMINATED 82. Italy - DomViol - Italian (d) - html (txt): R1_letters=339 (limit 1000), R2_prose_letters=250 (limit 1500) - fix extracted_txt/82. Italy - DomViol - Italian (d) - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,658 WARNING ELIMINATED 83. Jamaica - DomViol - English (a) (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/83. Jamaica - DomViol - English (a).txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,658 WARNING ELIMINATED 84. Japan - DomViol - Japanese (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/84. Japan - DomViol - Japanese.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,658 WARNING ELIMINATED 87. Kenya - DomViol - English (ocr): R1_letters=0 (limit 1000), R2_prose_letters=0 (limit 1500), C1_wrong_script=0.0 (limit 0.3) - fix extracted_txt/87. Kenya - DomViol - English.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,658 WARNING ELIMINATED 89. Korea - DomViol - Korean - html (txt): R2_prose_letters=111 (limit 1500), C3_noisy_tokens=0.1498 (limit 0.006) - fix extracted_txt/89. Korea - DomViol - Korean - html.txt (it is checked again) or move it to cleaned_txt/
+2026-10-27 20:15:06,658 WARNING NEEDS_OCR 9. Austria - DomViol - English: S1_scanned_pdf=1.0 (limit 0.5), S2_missing_pages=0.0 (limit 300), C1_wrong_script=0.0 (limit 0.3) - OCR 9. Austria - DomViol - English.pdf and replace extracted_txt/9. Austria - DomViol - English.txt with the text
+2026-10-27 20:15:06,658 INFO    PASS 90. Kosovo - DomViol - Albanian (pdf) -> cleaned_txt/90. Kosovo - DomViol - Albanian.txt
+2026-10-27 20:15:06,659 INFO    PASS 92. Kyrgyz Republic - DomViol - Russian (pdf) -> cleaned_txt/92. Kyrgyz Republic - DomViol - Russian.txt
+2026-10-27 20:15:06,659 INFO    PASS 93. Lao PDR - DomViol - English (a) (pdf) -> cleaned_txt/93. Lao PDR - DomViol - English (a).txt
+2026-10-27 20:15:06,659 INFO    PASS 93. Lao PDR - DomViol - English (b) (pdf) -> cleaned_txt/93. Lao PDR - DomViol - English (b).txt
+2026-10-27 20:15:06,659 INFO    PASS 94. Latvia - DomViol - Latvian (a) (pdf) -> cleaned_txt/94. Latvia - DomViol - Latvian (a).txt
+2026-10-27 20:15:06,659 INFO    PASS 94. Latvia - DomViol - Latvian (b) (pdf) -> cleaned_txt/94. Latvia - DomViol - Latvian (b).txt
+2026-10-27 20:15:06,659 WARNING NEEDS_OCR 95. Lebanon - DomViol - English: C3_noisy_tokens=0.0352 (limit 0.006) - OCR 95. Lebanon - DomViol - English.pdf and replace extracted_txt/95. Lebanon - DomViol - English.txt with the text
+2026-10-27 20:15:06,659 INFO    PASS 96. Lesotho - DomViol - English (pdf) -> cleaned_txt/96. Lesotho - DomViol - English.txt
+2026-10-27 20:15:06,659 INFO    PASS 97. Liberia - DomViol - English (pdf) -> cleaned_txt/97. Liberia - DomViol - English.txt [R6_numbering_disorder=0.4(n=11)]
+2026-10-27 20:15:06,659 INFO    PASS 99. Lithuania - DomViol - Lithuanian (a) (pdf) -> cleaned_txt/99. Lithuania - DomViol - Lithuanian (a).txt
+2026-10-27 20:15:06,659 INFO    PASS 99. Lithuania - DomViol - Lithuanian (b) (pdf) -> cleaned_txt/99. Lithuania - DomViol - Lithuanian (b).txt [fixes: strip_boilerplate]
+2026-10-27 20:15:06,659 INFO    QUALITY CHECK finished: 228 policies, 174 in cleaned_txt, 2 need OCR, 52 eliminated (164 were already done)
+2026-10-27 20:31:17,278 INFO    MARKDOWN CONVERSION started (C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_txt -> C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown)
+2026-10-27 20:31:17,280 INFO    MARKDOWN CONVERTED 100. Luxembourg - DomViol - French (a) (ARTICLE)
+2026-10-27 20:31:17,280 INFO    MARKDOWN CONVERTED 100. Luxembourg - DomViol - French (b) (PART > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 101. Madagascar - DomViol - French (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 102. Malawi - DomViol - English (PART > CHAPTER)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 103. Malaysia - DomViol - English (a) - html (PART > SECTION)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 103. Malaysia - DomViol - English (b) (SECTION > SUBSECTION)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 104. Maldives - DomViol - English (PART)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 105. Mali - DomViol - French (BOOK > PART > TITLE > CHAPTER > SECTION > SUBSECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 106. Malta - DomViol - English (a) (PART > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 106. Malta - DomViol - English (b) (BOOK > PART > TITLE > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 107. Marshall Islands - DomViol - English (PART > TITLE > SECTION > ARTICLE)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 109. Mauritius - DomViol - English (a) (SECTION)
+2026-10-27 20:31:17,281 INFO    MARKDOWN CONVERTED 11. Bahamas - DomViol - English (CHAPTER > SECTION > SUBSECTION > PARAGRAPH)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 110. Mexico - DomViol - Spanish (BOOK > PART > TITLE > CHAPTER > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 112. Moldova - DomViol - Romanian (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 113. Mongolia - DomViol - English (a) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 113. Mongolia - DomViol - English (b) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 114. Montenegro - DomViol - Bosnian (a) (ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 114. Montenegro - DomViol - Bosnian (b) - html (ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 116. Mozambique - DomViol - Portuguese (b) (BOOK > PART > TITLE > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 118. Namibia - DomViol - English (PART > SECTION > SUBSECTION)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 119. Nepal - DomViol - English (a) (SECTION)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 119. Nepal - DomViol - English (b) - html (BARE-numbered)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 12. Bahrain - DomViol - English (PART > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 120. Netherlands - DomViol - Dutch (a) - html (ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 120. Netherlands - DomViol - Dutch (b) - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 121. New Zealand - DomViol - English (PART > TITLE > SECTION > SUBSECTION > PARAGRAPH)
+2026-10-27 20:31:17,282 INFO    MARKDOWN CONVERTED 122. Nicaragua - DomViol - Spanish (a) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 122. Nicaragua - DomViol - Spanish (b) (BOOK > PART > TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 124. Nigeria - DomViol - English (SECTION)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 125. North Macedonia - DomViol - Macedonian (ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 126. Norway - DomViol - Norwegian - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 128. Pakistan - DomViol - English (SECTION)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 13. Bangladesh - DomViol - English (CHAPTER)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 131. Papua New Guinea - DomViol - English (PART)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 132. Paraguay - DomViol - Spanish (BOOK > PART > TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 133. Peru - DomViol - Spanish (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 134. Philippines - DomViol - English - html (SECTION)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 135. Poland - DomViol - English (a) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 135. Poland - DomViol - Polish (b) (ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 137. Puerto Rico - DomViol - Spanish (PART > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 139. Romania - DomViol - Romanian - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,283 INFO    MARKDOWN CONVERTED 141. Rwanda - DomViol - Kinyarwanda (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 142. Samoa - DomViol - English (PART > SECTION)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 143. San Marino - DomViol - Italian (a) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 143. San Marino - DomViol - Italian (b) (ARTICLE)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 144. Saudi Arabia - DomViol - English (ARTICLE)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 145. Senegal - DomViol - French (BOOK > PART > TITLE > CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 146. Serbia - DomViol - Bosnian (b) (ARTICLE)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 147. Seychelles - DomViol - English (PART > SECTION)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 148. Sierra Leone - DomViol - English (PART > SUBSECTION)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 149. Singapore - DomViol - English - html (PART > CHAPTER)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 15. Belarus - DomViol - Russian - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 150. Slovak Republic - DomViol - Slovak - html (ARTICLE)
+2026-10-27 20:31:17,284 INFO    MARKDOWN CONVERTED 151. Slovenia - DomViol - Slovenian (a) (ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 151. Slovenia - DomViol - Slovenian (b) (ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 152. Solomon Islands - DomViol - English (PART > SECTION)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 156. Spain - DomViol - Spanish (a) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 156. Spain - DomViol - Spanish (b) (BOOK > PART > TITLE > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 157. Sri Lanka - DomViol - English (BARE-numbered)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 158. St. Kitts and Nevis - DomViol - English (PART > CHAPTER)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 159. St. Lucia - DomViol - English (PART > SECTION > SUBSECTION)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 16. Belgium - DomViol - French (b) (BOOK > PART > TITLE > CHAPTER > SECTION > SUBSECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 164. Switzerland - DomViol - French (TITLE > ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 167. Taiwan - DomViol - English - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 17. Belize - DomViol - English (PART > CHAPTER > SUBSECTION)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 170. Thailand - DomViol - Thai (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 171. Timor-Leste - DomViol - Portuguese (a) - html (CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,285 INFO    MARKDOWN CONVERTED 171. Timor-Leste - DomViol - Portuguese (b) (BOOK > PART > TITLE > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 173. Tonga - DomViol - English (PART > SECTION > SUBSECTION)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 174. Trinidad and Tobago - DomViol - English (PART > SECTION > SUBSECTION > PARAGRAPH)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 175. Tunisia - DomViol - French (CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 176. Turkiye - DomViol - Turkish (a) (ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 176. Turkiye - DomViol - Turkish (b) (ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 177. Uganda - DomViol - English (PART)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 178. Ukraine - DomViol - Ukrainian (a) - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 178. Ukraine - DomViol - Ukrainian (b) - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 179. United Arab Emirates - DomViol - English (ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 18. Benin - DomViol - French (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 180. United Kingdom - DomViol - English (a) (PART > CHAPTER > SECTION > SUBSECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 180. United Kingdom - DomViol - English (b) (PART > CHAPTER > SECTION > SUBSECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,286 INFO    MARKDOWN CONVERTED 180. United Kingdom - DomViol - English (c) (PART > CHAPTER > SECTION > SUBSECTION > PARAGRAPH)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 181. United States - DomViol - English (a) (TITLE > SECTION)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 181. United States - DomViol - English (b) (PART > TITLE > CHAPTER > SECTION > SUBSECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 182. Uruguay - DomViol - Spanish (a) - html (CHAPTER)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 182. Uruguay - DomViol - Spanish (b) - html (CHAPTER > SECTION)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 184. Vanuatu - DomViol - English (PART)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 185. Venezuela - DomViol - Spanish (a) (CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 185. Venezuela - DomViol - Spanish (b) (PART > CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 186. Viet Nam - DomViol - English (a) (PART > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 189. Zambia - DomViol - English (PART > SECTION > SUBSECTION)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 20. Bolivia - DomViol - Spanish (a) - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 20. Bolivia - DomViol - Spanish (b) - html (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 20. Bolivia - DomViol - Spanish (c) - html (BOOK > PART > TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 21. Bosnia and Herzegovina - DomViol - Bosnian (b) (ARTICLE)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 22. Botswana - DomViol - English (PART)
+2026-10-27 20:31:17,287 INFO    MARKDOWN CONVERTED 23. Brazil - DomViol - Portuguese - html (PART > TITLE > CHAPTER > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 24. Brunei Darussalam - DomViol - English (PART > CHAPTER > SECTION > SUBSECTION)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 25. Bulgaria - DomViol - Bulgarian (a) - html (CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 25. Bulgaria - DomViol - Bulgarian (b) - html (CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 26. Burkina Faso - DomViol - French (BOOK > PART > TITLE > CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 27. Burundi - DomViol - French (BOOK > TITLE > CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 28. Cabo Verde - DomViol - Portuguese (TITLE > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 29. Cambodia - DomViol - English (a) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 29. Cambodia - DomViol - English (b) (BOOK > TITLE > CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 31. Canada - DomViol - English (a) (PART > SECTION > SUBSECTION)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 31. Canada - DomViol - English (b) - html (SECTION > SUBSECTION > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 32. Central African Republic - DomViol - French (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 33. Chad - DomViol - French (b) (BOOK > TITLE > CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 34. Chile - DomViol - Spanish (ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,288 INFO    MARKDOWN CONVERTED 35. China - DomViol - Chinese (b) - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 36. Colombia - DomViol - Spanish (CHAPTER > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 39. Congo, Rep - DomViol - French (PART > TITLE > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 40. Costa Rica - DomViol - Spanish (a) - html (ARTICLE)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 40. Costa Rica - DomViol - Spanish (b) - html (PART > ARTICLE)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 42. Croatia - DomViol - Croatian (a) - html (ARTICLE)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 42. Croatia - DomViol - Croatian (b) - html (ARTICLE)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 43. Cyprus - DomViol - Greek (a) - html (BARE-numbered)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 43. Cyprus - DomViol - Greek (b) (PART)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 44. Czechia - DomViol - Czech (a) - html (PART > ARTICLE)
+2026-10-27 20:31:17,289 INFO    MARKDOWN CONVERTED 44. Czechia - DomViol - Czech (b) - html (ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 44. Czechia - DomViol - Czech (d) - html (PART > ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 45. Denmark - DomViol - Danish (a) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 45. Denmark - DomViol - Danish (b) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 46. Djibouti - DomViol - French (BOOK > PART > TITLE > CHAPTER > SECTION > SUBSECTION > ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 47. Dominica - DomViol - English (b) (PART > SECTION)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 48. Dominican Republic - DomViol - Spanish (BOOK > PART > TITLE > CHAPTER > SECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 49. Ecuador - DomViol - Spanish (a) (BOOK > PART > TITLE > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 49. Ecuador - DomViol - Spanish (b) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 5. Antigua and  Barbuda - DomViol - English (PART > SECTION)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 51. El Salvador - DomViol - Spanish (b) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,290 INFO    MARKDOWN CONVERTED 55. Eswatini - DomViol - English (PART > SECTION > SUBSECTION)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 56. Ethiopia - DomViol - English (BOOK > PART > TITLE > CHAPTER > SECTION > SUBSECTION > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 57. Fiji - DomViol - English - html (PART)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 59. France - DomViol - French - html (ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 6. Argentina - DomViol - Spanish (a) - html (ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 6. Argentina - DomViol - Spanish (b) - html (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 65. Greece - DomViol - Greek (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 66. Grenada - DomViol - English (PART > CHAPTER > SECTION)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 67. Guatemala - DomViol - Spanish (a) (ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 7. Armenia - DomViol - English (a) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 7. Armenia - DomViol - English (b) (PART > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 72. Honduras - DomViol - Spanish (a) (BOOK > PART > TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 72. Honduras - DomViol - Spanish (b) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,291 INFO    MARKDOWN CONVERTED 72. Honduras - DomViol - Spanish (c) (TITLE > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 74. Hungary - DomViol - Hungarian (b) - html (ARTICLE)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 76. India - DomViol - English (CHAPTER > SUBSECTION)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 77. Indonesia - DomViol - English (CHAPTER > ARTICLE > PARAGRAPH)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 8. Australia - DomViol - English (a) (PART > SECTION > SUBSECTION)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 80. Ireland - DomViol - English (PART > SECTION > SUBSECTION > PARAGRAPH)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 82. Italy - DomViol - Italian (b) - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 82. Italy - DomViol - Italian (e) - html (BOOK > TITLE > CHAPTER > SECTION > ARTICLE)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 83. Jamaica - DomViol - English (b) (SECTION)
+2026-10-27 20:31:17,292 INFO    MARKDOWN CONVERTED 86. Kazakhstan - DomViol - Russian - html (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 88. Kiribati - DomViol - English - html (PART > SECTION)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 88. Kiribati - DomViol - English (PART > SECTION)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 90. Kosovo - DomViol - Albanian (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 92. Kyrgyz Republic - DomViol - Russian (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 93. Lao PDR - DomViol - English (a) (PART > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 93. Lao PDR - DomViol - English (b) (PART > ARTICLE)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 94. Latvia - DomViol - Latvian (a) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 94. Latvia - DomViol - Latvian (b) (PART > CHAPTER > ARTICLE)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 96. Lesotho - DomViol - English (PART)
+2026-10-27 20:31:17,293 INFO    MARKDOWN CONVERTED 97. Liberia - DomViol - English (SECTION)
+2026-10-27 20:31:17,294 INFO    MARKDOWN CONVERTED 99. Lithuania - DomViol - Lithuanian (a) (ARTICLE)
+2026-10-27 20:31:17,294 INFO    MARKDOWN CONVERTED 99. Lithuania - DomViol - Lithuanian (b) (CHAPTER > ARTICLE)
+2026-10-27 20:31:17,294 WARNING MARKDOWN SKIPPED 115. Morocco - DomViol - Arabic: listed as non-statutory - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,294 WARNING MARKDOWN SKIPPED 130. Panama - DomViol - Spanish (b) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,294 WARNING MARKDOWN SKIPPED 136. Portugal - DomViol - Potuguese: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,294 WARNING MARKDOWN SKIPPED 151. Slovenia - DomViol - Slovenian (c) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,294 WARNING MARKDOWN SKIPPED 21. Bosnia and Herzegovina - DomViol - Bosnian (a) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,294 WARNING MARKDOWN SKIPPED 44. Czechia - DomViol - Czech (c) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,295 WARNING MARKDOWN SKIPPED 70. Guyana - DomViol - English: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,295 WARNING MARKDOWN SKIPPED 85. Jordan - DomViol - English: listed as non-statutory - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-27 20:31:17,295 INFO    MARKDOWN CONVERSION finished: 166 converted, 0 already there, 8 skipped
+2026-10-28 08:06:02,159 INFO    MARKDOWN CONVERSION started (C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_txt -> C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown)
+2026-10-28 08:06:02,160 WARNING MARKDOWN SKIPPED 115. Morocco - DomViol - Arabic: listed as non-statutory - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,160 WARNING MARKDOWN SKIPPED 130. Panama - DomViol - Spanish (b) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,160 WARNING MARKDOWN SKIPPED 136. Portugal - DomViol - Potuguese: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,161 WARNING MARKDOWN SKIPPED 151. Slovenia - DomViol - Slovenian (c) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,161 WARNING MARKDOWN SKIPPED 21. Bosnia and Herzegovina - DomViol - Bosnian (a) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,161 WARNING MARKDOWN SKIPPED 44. Czechia - DomViol - Czech (c) - html: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,161 WARNING MARKDOWN SKIPPED 70. Guyana - DomViol - English: no heading structure detected - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,162 WARNING MARKDOWN SKIPPED 85. Jordan - DomViol - English: listed as non-statutory - write its Markdown by hand into C:\myProject\qualityoflaw\data\global\preprocessed\cleaned_markdown to include it
+2026-10-28 08:06:02,162 INFO    MARKDOWN CONVERSION finished: 0 converted, 166 already there, 8 skipped

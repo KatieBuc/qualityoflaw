@@ -1,0 +1,142 @@
+experiment_name: first-full-run
+
+# Active project: every data path is derived from data/<project>/ (see
+# automation/src/paths.py). Change this to run another corpus.
+project: global
+
+concurrency:
+  enabled: true
+  max_workers: 10
+
+translation:
+  model: claude-sonnet-4-5
+  prompt_version: v2
+  chunking:
+    enabled: true
+    safe_limit: 32000
+
+# Markdown-in / Markdown-out translation (the default path). Reuses
+# translation.model and translation_qa.model; target_chars is what packs
+# heading sections into translation units.
+translation_markdown:
+  prompt_version: global
+  qa_prompt_version: v2
+  # translation_qa_md re-audits each chunk until the auditor reports no
+  # remaining problems, up to this many passes.
+  qa_max_passes: 2
+  chunking:
+    target_chars: 8000
+    safe_limit: 32000
+
+translation_qa:
+  model: gpt-5.2-translation-qa
+  prompt_version: v1
+
+evaluation:
+  model: gpt-5.2
+  prompt_version: v4
+  method: rag  # "rag" | "sliding_window"
+  # Per-indicator confidence. `logprobs` and `margin` ride along on the
+  # evaluation call for free; `verbalized` asks the judge to rate itself and
+  # requires prompt_version: v4. `primary` picks which score drives the
+  # comparison report's headline coverage; every enabled method is recorded
+  # and scored side by side regardless.
+  # Deployments that reject logprobs degrade to confidence: null, with one warning.
+  confidence:
+    enabled: true
+    methods: [verbalized]   # also: logprobs, margin (verbalized needs prompt_version: v4)
+    primary: verbalized
+    # Alternatives requested per answer token, which is what margin reads.
+    # Azure caps this at 5; a higher value is detected and clamped at runtime
+    # rather than costing the run its logprobs.
+    top_logprobs: 5
+  sliding_window:
+    prompt_version: sliding_window_v1
+    window_sentences: 100
+    overlap_sentences: 15
+  rag:
+    enabled: true
+    storage:
+      batch_size: 16
+    retrieval:
+      top_k: 10
+      hybrid_bm25:
+        enabled: true
+        rrf_k: 60
+      reranker:
+        enabled: true
+        model: cohere-rerank-v4.0-fast
+        candidate_pool_size: 125
+        top_k: 25
+      evidence_verification:
+        enabled: true
+
+# Stage 1 (input processing): data/<project>/raw/{raw_files,extracted_txt} and
+# data/<project>/preprocessed/cleaned_txt.
+# Every key is optional; folders default to those names. Overrides are repo-relative or absolute.
+input_process:
+  # Language every file is judged as, unless language_pattern finds one in its name.
+  language: Indonesian
+  # Optional: regex with ONE group that picks the language out of a policy name, for
+  # multilingual corpora. GlobalLaws names look like "10. Azerbaijan - DomViol - Azerbaijani - html".
+  # Names it does not match (e.g. ACEH_BIREUEN) fall back to `language`.
+  language_pattern: 'DomViol - ([A-Za-z]+)'
+  # Which folder stage 1.2 (TXT -> Markdown) converts: "cleaned_txt" (default, this stage's
+  # output) or "gold" (hand-cleaned texts in data/<project>/raw/gold, or gold_dir).
+  markdown_source: cleaned_txt
+  # gold_dir: data/global/raw/gold
+  # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
+  # extracted_txt_dir: data/indonesia/raw/extracted_txt
+  # cleaned_txt_dir: data/indonesia/preprocessed/cleaned_txt
+  # log_path: data/indonesia/raw/input_process.log
+  # Override individual quality thresholds (names in input_process/quality/criteria.py, T).
+  thresholds: {}
+
+# Step 4.6: maps evidence sentences between translation and source. Equal
+# sentence counts are paired by index; otherwise this aligner (LaBSE embeddings,
+# benchmarked in automation/benchmarks/alignment) is used. Needs
+# automation/requirements-align.txt; falls back to "heuristic" if unavailable.
+alignment:
+  method: vecalign  # "vecalign" | "bertalign" | "heuristic"
+
+comparison:
+  # Cutoffs for confidence_report.json. Predictions below a cutoff count as
+  # "low confidence"; coverage_rate is the share of actual errors they capture.
+  confidence:
+    thresholds: [0.5, 0.7, 0.9, 0.95, 0.99]
+    quantiles: [0.05, 0.10, 0.20, 0.30]
+    primary_threshold: 0.9
+    flagged_sample_size: 100
+    calibration_bins: 10
+
+discrepancy_diagnosis:
+  model: gpt-5.2-diagnosis
+  prompt_version: v1
+
+# Corpus-specific parameters. Folder locations are NOT set here: they come from
+# `project` above. The optional keys input_dir, markdown_input_dir, golden_csv,
+# index_schema and manual_overwrites override a derived location (repo-relative
+# or absolute) when a project needs it.
+paths:
+  # localpolicies names files <POLICY>.cleaned.md; globallaws names them plain
+  # <name>.md, so the glob suffix needs to match. Defaults to ".cleaned.md".
+  markdown_input_suffix: .cleaned.md
+  # markdown_input_suffix: .md
+  # Bare policy names (no suffix) that --small-scale selects, in every step.
+  # Belongs to the corpus, so change it together with project and
+  # markdown_input_suffix. Defaults to the localpolicies set when omitted.
+  small_scale_stems:
+    - ACEH_BIREUEN
+    - NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2
+    - RIAU_PEKANBARU_KOTA
+  # small_scale_stems:  # globallaws
+  #   - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
+  #   - 94. Latvia - DomViol - Latvian (a)
+  #   - 121. New Zealand - DomViol - English
+
+# Stage 3 (optional human adjustment). true: after translation the run pauses so you can edit
+# preprocessed/cleaned_markdown and preprocessed/translation_markdown; continue with --reviewed.
+# Either way, the `validate` step then checks the headings of each pair (log: preprocessed/header_check.log);
+# moving the pairs you accept to processed/ is up to you.
+human_review:
+  pause: false

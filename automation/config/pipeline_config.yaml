@@ -2,7 +2,7 @@ experiment_name: first-full-run
 
 # Active project: every data path is derived from data/<project>/ (see
 # automation/src/paths.py). Change this to run another corpus.
-project: indonesia
+project: global
 
 concurrency:
   enabled: true
@@ -19,7 +19,7 @@ translation:
 # translation.model and translation_qa.model; target_chars is what packs
 # heading sections into translation units.
 translation_markdown:
-  prompt_version: v3
+  prompt_version: global
   qa_prompt_version: v2
   # translation_qa_md re-audits each chunk until the auditor reports no
   # remaining problems, up to this many passes.

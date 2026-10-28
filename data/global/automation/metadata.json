@@ -1,0 +1,105 @@
+{
+  "experiment_name": "first-full-run",
+  "status": "completed",
+  "timestamps": {
+    "created_at": "2026-10-27T05:24:05.771857+00:00",
+    "updated_at": "2026-10-28T02:10:49.429238+00:00"
+  },
+  "config": {
+    "translation_model": "claude-sonnet-4-5",
+    "translation_qa_model": "gpt-5.2-translation-qa",
+    "evaluation_model": "gpt-5.2",
+    "discrepancy_diagnosis_model": "gpt-5.2-diagnosis",
+    "translation_prompt_version": "v2",
+    "translation_qa_prompt_version": "v1",
+    "evaluation_prompt_version": "v4",
+    "discrepancy_diagnosis_prompt_version": "v1",
+    "concurrency": {
+      "enabled": true,
+      "max_workers": 10
+    },
+    "chunking": {
+      "enabled": true,
+      "safe_limit": 32000
+    },
+    "markdown_translation": {
+      "prompt_version": "global",
+      "qa_prompt_version": "v2",
+      "target_chars": 8000,
+      "safe_limit": 32000,
+      "qa_max_passes": 2
+    },
+    "storage": {
+      "enabled": true,
+      "batch_size": 16
+    },
+    "retrieval": {
+      "enabled": true,
+      "top_k": 10,
+      "hybrid_bm25_enabled": true,
+      "reranker_enabled": true,
+      "reranker_model": "Cohere-rerank-v4.0-fast",
+      "reranker_candidate_pool_size": 125,
+      "reranker_top_k": 25,
+      "evidence_verification_enabled": true
+    },
+    "evaluation_method": "rag",
+    "sliding_window": {
+      "window_sentences": 100,
+      "overlap_sentences": 15,
+      "prompt_version": "sliding_window_v1"
+    }
+  },
+  "execution_scope": {
+    "steps_executed": [
+      "extract",
+      "txt_to_md",
+      "translation_md"
+    ],
+    "small_scale": false,
+    "evaluated_policy_files": []
+  },
+  "file_counts": {
+    "extract": {
+      "total": 228,
+      "succeeded": 12,
+      "skipped": 216,
+      "failed": 0,
+      "unsupported": 0
+    },
+    "txt_to_md": {
+      "total": 174,
+      "succeeded": 0,
+      "skipped": 166,
+      "failed": 0,
+      "no_structure": 8
+    },
+    "translation_md": {
+      "total": 166,
+      "succeeded": 42,
+      "skipped": 124,
+      "failed": 0
+    }
+  },
+  "failures": {
+    "translation": 0,
+    "translation_qa": 0,
+    "storage": 0,
+    "evaluation": 0,
+    "discrepancy_diagnosis": 0,
+    "step_failures": 0
+  },
+  "token_usage": {
+    "translation_md": {
+      "prompt_tokens": 3618846,
+      "completion_tokens": 5086980,
+      "total_tokens": 8705826
+    }
+  },
+  "timing_seconds": {
+    "total": 18288.15,
+    "extract": 1083.74,
+    "txt_to_md": 0.89,
+    "translation_md": 18285.37
+  }
+}
