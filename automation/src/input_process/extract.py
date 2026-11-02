@@ -7,8 +7,12 @@ HTML -> trafilatura, with a BeautifulSoup fallback when trafilatura drops
 TXT  -> copied as UTF-8.
 
 Every result is ``preprocessed/cleaned_txt/<stem>.txt``: the one folder every later step reads. The file name
-is the policy name and nothing else. A policy that already has its file there is never extracted again, so
-your OCR text or your fixes put in that file are kept.
+is the policy name and nothing else. A policy that already has its file there is not extracted again, so your
+OCR text or your fixes put in that file are kept.
+
+The hash of the original is kept next to the hash of the text we wrote (``raw/extraction_manifest.json``), so a
+run can tell which originals changed: an unchanged original is skipped without being read, and an original that
+changed is extracted again -- unless the text in ``cleaned_txt`` has your edits, which are never overwritten.
 
 A policy with several originals (the same name as .txt, .html and .pdf) is extracted from one of them:
 ``txt`` first, then ``html``, then ``pdf``. To tell your file from our extraction, the hash of every file we
@@ -54,7 +58,7 @@ class ExtractionResult:
     source: str
     fmt: str | None
     output: str | None
-    status: str  # extracted | skipped_existing | skipped_duplicate | failed | unsupported
+    status: str  # extracted | updated | skipped_existing | skipped_edited | skipped_duplicate | failed | unsupported
     detail: str = ""
 
 
@@ -176,15 +180,26 @@ READERS = {"pdf": extract_pdf, "html": extract_html, "txt": extract_txt}
 
 # --------------------------------------------------------------------------- manifest
 def file_hash(path: Path) -> str:
-    return hashlib.sha256(path.read_bytes()).hexdigest()
+    digest = hashlib.sha256()
+    with path.open("rb") as f:
+        for block in iter(lambda: f.read(1 << 20), b""):
+            digest.update(block)
+    return digest.hexdigest()
 
 
 class ExtractionManifest:
-    """Which ``cleaned_txt/<stem>.txt`` files are our own extraction: ``{stem: {"format", "sha256"}}``.
+    """What we wrote into ``cleaned_txt/`` and from which original:
 
-    A file whose hash still matches was machine-extracted from that format, so (for a PDF) it can be judged
-    "needs OCR". A file that no longer matches, or has no entry, was supplied by the user.
+        {stem: {"format", "sha256",                              the text we wrote
+                "source", "source_size", "source_mtime_ns", "source_sha256"}}     the original it came from
+
+    A text whose hash still matches was machine-extracted from that format, so (for a PDF) it can be judged
+    "needs OCR". A text that no longer matches, or has no entry, was supplied by the user. The original's
+    size and modification time are a shortcut: when both are unchanged the original is not read at all;
+    otherwise its hash decides whether it really changed.
     """
+
+    SOURCE_KEYS = ("source", "source_size", "source_mtime_ns", "source_sha256")
 
     def __init__(self, path: Path):
         self.path = path
@@ -193,8 +208,35 @@ class ExtractionManifest:
         except (OSError, ValueError):
             self.data = {}
 
-    def record(self, stem: str, fmt: str, written: Path) -> None:
-        self.data[stem] = {"format": fmt, "sha256": file_hash(written)}
+    def record(self, stem: str, fmt: str, written: Path, source: Path | None = None) -> None:
+        """Remember the text just written. Without `source` the original's record (if any) is kept."""
+        previous = self.data.get(stem, {})
+        entry = {"format": fmt, "sha256": file_hash(written)}
+        entry.update({k: previous[k] for k in self.SOURCE_KEYS if k in previous})
+        self.data[stem] = entry
+        if source is not None:
+            self.remember_source(stem, source)
+
+    def remember_source(self, stem: str, source: Path) -> None:
+        stat = source.stat()
+        self.data[stem].update(
+            source=source.name, source_size=stat.st_size, source_mtime_ns=stat.st_mtime_ns, source_sha256=file_hash(source)
+        )
+
+    def source_state(self, stem: str, source: Path) -> str:
+        """``"same"``, ``"changed"``, or ``"unknown"`` (no record of the original this text came from)."""
+        entry = self.data.get(stem)
+        if not entry or "source_sha256" not in entry:
+            return "unknown"
+        if entry.get("source") != source.name:
+            return "changed"                                  # e.g. a .txt was added next to the .pdf we used
+        stat = source.stat()
+        if (stat.st_size, stat.st_mtime_ns) == (entry["source_size"], entry["source_mtime_ns"]):
+            return "same"
+        if file_hash(source) == entry["source_sha256"]:
+            entry.update(source_size=stat.st_size, source_mtime_ns=stat.st_mtime_ns)    # touched, not changed
+            return "same"
+        return "changed"
 
     def machine_format(self, stem: str, file: Path) -> str | None:
         """The format `file` was extracted from, or None when it is not our untouched extraction."""
@@ -268,7 +310,13 @@ def original_format(config: InputProcessConfig, stem: str) -> str | None:
 
 
 def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> list[ExtractionResult]:
-    """Extract every policy that has no ``cleaned_txt/<stem>.txt`` yet."""
+    """Extract every policy whose original is new or changed since it was extracted.
+
+    * no ``cleaned_txt/<stem>.txt`` yet                      -> extracted
+    * the file is there and the original is unchanged        -> skipped (the original is not even read)
+    * the original changed and the file is still our own     -> extracted again (``updated``)
+    * the original changed but the file has your edits       -> kept (``skipped_edited``) and logged
+    """
     results: list[ExtractionResult] = []
     have = cleaned_stems(config.cleaned_txt_dir)
     sources = list_sources(config, small_scale=small_scale)
@@ -285,9 +333,23 @@ def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> lis
         if chosen[stem][1] != path:
             results.append(ExtractionResult(path.name, fmt, None, "skipped_duplicate", f"{chosen[stem][1].name} is used"))
             continue
-        if stem in have:  # its text is there already (extracted before, or yours): kept as it is
-            results.append(ExtractionResult(path.name, fmt, have[stem].name, "skipped_existing"))
-            continue
+        status = "extracted"
+        if stem in have:
+            machine = manifest.machine_format(stem, have[stem]) is not None
+            state = manifest.source_state(stem, path)
+            if state == "unknown" and machine:
+                manifest.remember_source(stem, path)      # first time we look: take this original as the one used
+                state = "same"
+            if state != "changed":
+                results.append(ExtractionResult(path.name, fmt, have[stem].name, "skipped_existing"))
+                continue
+            if not machine:
+                results.append(ExtractionResult(
+                    path.name, fmt, have[stem].name, "skipped_edited",
+                    f"the original changed but cleaned_txt/{have[stem].name} has your edits",
+                ))
+                continue
+            status = "updated"
         try:
             text, detail = READERS[fmt](path)
         except Exception as exc:  # corrupt / encrypted file: report it, keep going
@@ -298,8 +360,8 @@ def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> lis
         target = config.cleaned_txt_dir / f"{stem}.txt"
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(text.rstrip("\n") + "\n" if text.strip() else "", encoding="utf-8", newline="")
-        manifest.record(stem, fmt, target)
-        results.append(ExtractionResult(path.name, fmt, target.name, "extracted", detail))
+        manifest.record(stem, fmt, target, source=path)
+        results.append(ExtractionResult(path.name, fmt, target.name, status, detail))
     manifest.save()
     log_extraction(config, results)
     return results
@@ -307,13 +369,19 @@ def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> lis
 
 def log_extraction(config: InputProcessConfig, results: list[ExtractionResult]) -> None:
     """The log only records pass and elimination, so extraction writes to it only when a file could not be
-    extracted at all (such a policy would otherwise vanish without a trace)."""
-    problems = [r for r in results if r.status in ("failed", "unsupported")]
+    extracted at all (such a policy would otherwise vanish without a trace), or when a changed original could not
+    replace a text you edited."""
+    problems = [r for r in results if r.status in ("failed", "unsupported", "skipped_edited")]
     if not problems:
         return
     with run_log(config.log_path) as log:
         for r in problems:
             if r.status == "failed":
                 log.warning("ELIMINATED %s: extraction failed - %s", r.source, r.detail)
+            elif r.status == "skipped_edited":
+                log.warning(
+                    "ORIGINAL CHANGED %s: %s - kept; delete cleaned_txt/%s to extract the new original",
+                    r.source, r.detail, r.output,
+                )
             else:
                 log.warning("ELIMINATED %s: unsupported file type (%s)", r.source, r.detail)

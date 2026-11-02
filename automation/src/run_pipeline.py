@@ -334,7 +334,8 @@ def _report_extract(ctx: StepContext, result: dict) -> bool:
         return False
     c = result["counts"]
     print(
-        f"Extract: {c['succeeded']} extracted, {c['skipped']} already in cleaned_txt, "
+        f"Extract: {c['succeeded']} extracted ({c.get('updated', 0)} because the original changed), "
+        f"{c['skipped']} unchanged / already in cleaned_txt, {c.get('edited_kept', 0)} changed but kept (your edits), "
         f"{c['failed']} failed, {c['unsupported']} unsupported (log: {result['log_path']})"
     )
     for source, detail in result["failures"][:8]:

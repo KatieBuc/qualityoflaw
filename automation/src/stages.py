@@ -66,7 +66,9 @@ def run_extract_step(config: ResolvedPipelineConfig, *, small_scale: bool = Fals
     return {
         "counts": {
             "total": len(results),
-            "succeeded": by_status.get("extracted", 0),
+            "succeeded": by_status.get("extracted", 0) + by_status.get("updated", 0),
+            "updated": by_status.get("updated", 0),
+            "edited_kept": by_status.get("skipped_edited", 0),
             "skipped": sum(n for status, n in by_status.items() if status.startswith("skipped")),
             "failed": by_status.get("failed", 0),
             "unsupported": by_status.get("unsupported", 0),

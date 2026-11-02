@@ -216,3 +216,172 @@ def test_cli_extract_reports_counts_and_fails_on_a_failed_file(config, tmp_path,
     assert code == 1
     assert "1 extracted" in captured.out and "1 failed" in captured.out
     assert "BAD.pdf" in captured.err
+
+
+# --------------------------------------------------------------------------- hashes of the originals
+import os  # noqa: E402
+
+from automation.src.input_process import extract as extract_module  # noqa: E402
+
+
+@pytest.fixture
+def reads(monkeypatch):
+    """Count how often an original is actually read by its extractor."""
+    calls = []
+    real = dict(extract_module.READERS)
+
+    def counting(fmt):
+        def read(path):
+            calls.append(path.name)
+            return real[fmt](path)
+
+        return read
+
+    monkeypatch.setattr(extract_module, "READERS", {fmt: counting(fmt) for fmt in real})
+    return calls
+
+
+def test_an_unchanged_original_is_not_read_again(config, reads):
+    (config.raw_files_dir / "A.txt").write_text(PASAL, encoding="utf-8")
+    extract_all(config)
+    assert reads == ["A.txt"]
+
+    second = extract_all(config)
+
+    assert reads == ["A.txt"]                                   # not extracted a second time
+    assert [r.status for r in second] == ["skipped_existing"]
+
+
+def test_a_touched_but_identical_original_is_not_extracted_again(config, reads):
+    original = config.raw_files_dir / "A.txt"
+    original.write_text(PASAL, encoding="utf-8")
+    extract_all(config)
+
+    stat = original.stat()
+    os.utime(original, ns=(stat.st_atime_ns, stat.st_mtime_ns + 5_000_000_000))      # new time stamp, same bytes
+    second = extract_all(config)
+
+    assert reads == ["A.txt"] and second[0].status == "skipped_existing"
+    # the new time stamp was learned, so the next run does not even hash it
+    entry = ExtractionManifest(config.manifest_path).data["A"]
+    assert entry["source_mtime_ns"] == original.stat().st_mtime_ns
+
+
+def test_a_changed_original_is_extracted_again_when_the_text_is_still_ours(config):
+    original = config.raw_files_dir / "A.txt"
+    original.write_text("Pasal 1\nversi lama.\n", encoding="utf-8")
+    extract_all(config)
+
+    original.write_text("Pasal 1\nversi baru yang diperbarui.\n", encoding="utf-8")
+    results = extract_all(config)
+
+    assert results[0].status == "updated"
+    assert "versi baru" in (config.cleaned_txt_dir / "A.txt").read_text(encoding="utf-8")
+    assert extract_all(config)[0].status == "skipped_existing"        # and now it is up to date again
+
+
+def test_a_changed_original_never_overwrites_a_text_you_edited(config):
+    original = config.raw_files_dir / "A.txt"
+    original.write_text("Pasal 1\nversi lama.\n", encoding="utf-8")
+    extract_all(config)
+    (config.cleaned_txt_dir / "A.txt").write_text("my own corrected text", encoding="utf-8")
+
+    original.write_text("Pasal 1\nversi baru.\n", encoding="utf-8")
+    results = extract_all(config)
+
+    assert results[0].status == "skipped_edited"
+    assert (config.cleaned_txt_dir / "A.txt").read_text(encoding="utf-8") == "my own corrected text"
+    lines = config.log_path.read_text(encoding="utf-8").splitlines()
+    assert any(" WARNING " in l and "ORIGINAL CHANGED A.txt" in l and "delete cleaned_txt/A.txt" in l for l in lines)
+
+
+def test_a_text_fixed_by_the_quality_check_still_counts_as_ours_and_keeps_its_source_record(config):
+    from automation.src.input_process.pipeline import check_all
+    from automation.tests.test_input_process_quality import statute
+
+    original = config.raw_files_dir / "A.txt"
+    chrome = "\n".join(["Beranda", "Kebijakan Privasi", "Hubungi Kami"] * 6)
+    original.write_text(statute() + "\n" + chrome, encoding="utf-8")
+    extract_all(config)
+    check_all(config)                                           # rewrites the file with the chrome removed
+    assert "Beranda" not in (config.cleaned_txt_dir / "A.txt").read_text(encoding="utf-8")
+
+    assert extract_all(config)[0].status == "skipped_existing"  # the original is still unchanged
+
+    original.write_text(statute(), encoding="utf-8")
+    assert extract_all(config)[0].status == "updated"           # the fixed text was still ours: safe to replace
+
+
+def test_a_manifest_from_before_the_hashes_learns_the_original_without_extracting(config, reads):
+    original = config.raw_files_dir / "A.txt"
+    original.write_text(PASAL, encoding="utf-8")
+    extract_all(config)
+    manifest = ExtractionManifest(config.manifest_path)
+    for key in ExtractionManifest.SOURCE_KEYS:                  # an entry written by the earlier version
+        manifest.data["A"].pop(key)
+    manifest.save()
+
+    results = extract_all(config)
+
+    assert reads == ["A.txt"] and results[0].status == "skipped_existing"       # no re-extraction on the first sight
+    assert "source_sha256" in ExtractionManifest(config.manifest_path).data["A"]  # but the original is now recorded
+    original.write_text("Pasal 1\nberubah.\n", encoding="utf-8")
+    assert extract_all(config)[0].status == "updated"
+
+
+def test_adding_a_txt_next_to_the_pdf_that_was_used_changes_the_source(config):
+    make_pdf(config.raw_files_dir / "A.pdf", ["Pasal 1 dari pdf."])
+    extract_all(config)
+    assert "dari pdf" in (config.cleaned_txt_dir / "A.txt").read_text(encoding="utf-8")
+
+    (config.raw_files_dir / "A.txt").write_text("Pasal 1 dari txt.", encoding="utf-8")   # txt outranks pdf
+    results = {r.source: r.status for r in extract_all(config)}
+
+    assert results == {"A.txt": "updated", "A.pdf": "skipped_duplicate"}
+    assert "dari txt" in (config.cleaned_txt_dir / "A.txt").read_text(encoding="utf-8")
+
+
+def test_the_hash_is_computed_in_blocks_and_matches_sha256(tmp_path):
+    import hashlib
+
+    path = tmp_path / "big.bin"
+    path.write_bytes(os.urandom(3 * (1 << 20) + 17))
+    assert extract_module.file_hash(path) == hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+@pytest.mark.parametrize("fmt", ["pdf", "html"])
+def test_pdf_and_html_originals_are_skipped_when_unchanged_and_extracted_again_when_changed(config, reads, fmt):
+    original = config.raw_files_dir / f"A.{fmt}"
+
+    def write(version):
+        if fmt == "pdf":
+            make_pdf(original, [f"Pasal 1 isi {version}."])
+        else:
+            original.write_text(f"<html><body><p>Pasal 1</p><p>isi {version}.</p></body></html>", encoding="utf-8")
+
+    write("lama")
+    assert extract_all(config)[0].status == "extracted"
+    assert "isi lama" in (config.cleaned_txt_dir / "A.txt").read_text(encoding="utf-8")
+
+    assert extract_all(config)[0].status == "skipped_existing"
+    assert reads == [f"A.{fmt}"]                                  # the second run did not open the PDF / HTML
+
+    write("baru")
+    assert extract_all(config)[0].status == "updated"
+    assert "isi baru" in (config.cleaned_txt_dir / "A.txt").read_text(encoding="utf-8")
+    assert reads == [f"A.{fmt}"] * 2
+
+
+@pytest.mark.parametrize("fmt", ["pdf", "html"])
+def test_a_touched_pdf_or_html_with_the_same_bytes_is_still_skipped(config, reads, fmt):
+    original = config.raw_files_dir / f"A.{fmt}"
+    if fmt == "pdf":
+        make_pdf(original, ["Pasal 1 isi."])
+    else:
+        original.write_text("<html><body><p>Pasal 1</p><p>isi.</p></body></html>", encoding="utf-8")
+    extract_all(config)
+
+    stat = original.stat()
+    os.utime(original, ns=(stat.st_atime_ns, stat.st_mtime_ns + 5_000_000_000))
+
+    assert extract_all(config)[0].status == "skipped_existing" and len(reads) == 1

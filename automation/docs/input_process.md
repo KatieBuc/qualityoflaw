@@ -23,9 +23,22 @@ name everywhere (`ACEH_BIREUEN.pdf` → `cleaned_txt/ACEH_BIREUEN.txt`).
 
 ## What happens
 
-**`extract`**: for every policy name in `raw_files/` that has no `cleaned_txt/<name>.txt` yet, extract the original into
-that file. A policy that already has its file is not touched, so OCR text or a fix you saved over it is kept. A policy
-with several originals (`A.txt`, `A.html`, `A.pdf`) is extracted from one: `txt`, then `html`, then `pdf`.
+**`extract`**: extracts the originals in `raw_files/` that are new or changed. A policy with several originals
+(`A.txt`, `A.html`, `A.pdf`) is extracted from one: `txt`, then `html`, then `pdf`. The hash of each original is kept in
+`raw/extraction_manifest.json`, next to the hash of the text we wrote:
+
+| The policy's original | `cleaned_txt/<name>.txt` | What `extract` does |
+|---|---|---|
+| new (no file yet) | - | extracts it |
+| unchanged | any | skips it without reading it (a quick size + modification-time check; the content hash decides only when those differ, so a file that was merely touched is still skipped) |
+| changed | still our own extraction (or fixed by the quality check) | extracts it again and replaces the file |
+| changed | has **your** edits (OCR text, a fix) | keeps your file and logs a WARNING `ORIGINAL CHANGED ...`; delete the file to extract the new original |
+
+An entry written before the hashes existed is not re-extracted the first time: the current original is recorded as the
+one that was used, and later changes are detected from then on.
+
+Re-extracting a policy changes its text only. Its Markdown, translation and evaluation are not rebuilt by the later
+steps (they skip what exists), so delete those files, or run `markdown --force`, to carry the new text through.
 
 **`quality_check`**: for every file in `cleaned_txt/`, every run: measure the text, apply `hygiene` plus the fixers the
 findings call for, measure it again, and decide on *that* text. A fix that removes more than 30 % of the letters (K2)
