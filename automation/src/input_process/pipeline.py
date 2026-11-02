@@ -1,31 +1,29 @@
-"""Stage 1.1, step 3: quality-check, fix, re-check and sort every waiting text.
+"""Stage 1.1, step 3: quality-check, fix and re-check every text in ``preprocessed/cleaned_txt/``.
 
-Where a policy stands is read from its file name (see ``extract``):
+``cleaned_txt/`` is the one folder of stage 1: extraction puts every text there and every later step reads from
+it. Nothing is moved between folders. Each ``<stem>.txt`` is measured, fixed, measured again, and judged on the
+fixed text:
 
-    <stem>.txt in cleaned_txt/    done: skipped (its text only serves as reference corpus)
-    <stem>.txt in extracted_txt/  measured, fixed, measured again, and sorted:
-        PASS       -> cleaned_txt/<stem>.txt, and removed from extracted_txt/
-        NEEDS_OCR  -> stays in extracted_txt/; WARNING in the log with the file to replace
-        ELIMINATE  -> stays in extracted_txt/; WARNING in the log with the rules that fired
+    PASS       -> the fixed text replaces the file (only when the fixes changed something); INFO in the log
+    NEEDS_OCR  -> the file is left as it is; WARNING in the log (a scanned PDF: replace the file with the OCR text)
+    ELIMINATE  -> the file is left as it is; WARNING in the log with the rules that fired
 
-To retry a file, replace ``extracted_txt/<stem>.txt`` (with OCR text or your own fix) and run again.
-Everything that happens is appended to ``raw/input_process.log``.
+To retry a file, replace ``cleaned_txt/<stem>.txt`` (with OCR text or your own fix) and run again. The log
+(``raw/input_process.log``) records only these results.
 """
 
 import json
 import logging
 from collections import Counter
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
 from pathlib import Path
 
 from automation.src.input_process.config import InputProcessConfig
 from automation.src.input_process.extract import (
     SOURCE_FORMATS,
     ExtractionManifest,
-    cleaned_stems,
-    extracted_files,
     original_format,
+    text_files,
 )
 from automation.src.input_process.fix import apply_fixes
 from automation.src.input_process.runlog import run_log
@@ -66,7 +64,7 @@ class FileOutcome:
     stem: str
     source_format: str
     language: str
-    extracted_file: str
+    file: str
     status: str
     reason: str = ""
     failed: list[dict] = field(default_factory=list)
@@ -78,6 +76,7 @@ class FileOutcome:
     review: str = ""
     duplicate_of: str = ""
     cleaned_file: str = ""
+    machine: bool = False       # the text was our own untouched extraction (see ExtractionManifest)
     # NEEDS_OCR only
     pdf: str = ""
     expected_ocr_file: str = ""
@@ -153,45 +152,35 @@ def _measure(text: str, profile, doc_freq, n_docs: int, pdf_info: dict | None) -
 
 @dataclass
 class Analysis:
-    """Everything the quality check found, in full detail (the report keeps only a slice)."""
+    """Everything the quality check found, in full detail (the summary keeps only a slice)."""
 
-    outcomes: dict[str, FileOutcome]   # policies checked in this run (everything waiting in extracted_txt)
-    cleaned: dict[str, str]            # texts that passed in this run (to be written to cleaned_txt)
-    unrecognized: list[str]            # files in extracted_txt that are not .txt
-    missing: list[str]
-    done: dict[str, Path] = field(default_factory=dict)   # policies already in cleaned_txt
-    sources: dict[str, Path] = field(default_factory=dict)  # the waiting file of each checked policy
-    leftovers: list[str] = field(default_factory=list)    # waiting files of policies already done (ignored)
+    outcomes: dict[str, FileOutcome]   # policies checked in this run
+    rewrites: dict[str, str]           # fixed text of the policies that passed and were changed by the fixes
+    unrecognized: list[str]            # files in cleaned_txt that are not .txt
+    sources: dict[str, Path] = field(default_factory=dict)  # the file of each checked policy
 
 
 def analyze(config: InputProcessConfig, *, small_scale: bool = False) -> Analysis:
-    """Check, fix and re-check every text in ``extracted_txt/``. Writes nothing.
+    """Check, fix and re-check every text in ``cleaned_txt/``. Writes nothing.
 
-    Policies already in ``cleaned_txt/`` are done: their extracted files (if any are
-    left) are ignored, and their texts only serve as the reference corpus.
+    With `small_scale` only the configured policies are judged; every text still serves as the reference corpus.
     """
     thresholds = resolve_thresholds(config.thresholds)
-    done = cleaned_stems(config.cleaned_txt_dir)
-    waiting, unrecognized = extracted_files(config.extracted_txt_dir)
-    leftovers = sorted(path.name for stem, path in waiting.items() if stem in done)
-    waiting = {stem: path for stem, path in waiting.items() if stem not in done}
-    if small_scale:
-        waiting = {s: f for s, f in waiting.items() if s in set(config.small_scale_stems)}
+    files, unrecognized = text_files(config.cleaned_txt_dir)
+    waiting = {s: f for s, f in files.items() if not small_scale or s in set(config.small_scale_stems)}
 
     manifest = ExtractionManifest(config.manifest_path)
     chosen = {stem: (source_format(config, manifest, stem, path), path) for stem, path in waiting.items()}
     texts = {stem: _read(path) for stem, (_fmt, path) in chosen.items()}
+    others = {stem: _read(path) for stem, path in files.items() if stem not in texts}
 
     # Each policy is judged as its own language (from its name, else the configured one).
-    languages = {stem: config.language_for(stem) for stem in texts}
-    done_languages = {stem: config.language_for(stem) for stem in done}
-    profiles = {lang: profile_for(lang) for lang in set(languages.values()) | set(done_languages.values())}
+    languages = {stem: config.language_for(stem) for stem in files}
+    profiles = {lang: profile_for(lang) for lang in set(languages.values())}
 
     # Corpus statistics for the unique-word metric (OCR text only), per language:
     # a Spanish file is compared with the other Spanish files, not with Arabic ones.
-    # The reference corpus is the texts being checked plus everything already in
-    # cleaned_txt: once passed files leave extracted_txt, a lone OCR file would
-    # otherwise be compared with nothing.
+    # The reference corpus is every text in cleaned_txt, checked in this run or not.
     doc_freq: dict[str, dict[str, int]] = {}
     n_docs: dict[str, int] = {}
 
@@ -201,14 +190,12 @@ def analyze(config: InputProcessConfig, *, small_scale: bool = False) -> Analysi
             counts[word] = counts.get(word, 0) + 1
         n_docs[lang] = n_docs.get(lang, 0) + 1
 
-    for stem, text in texts.items():
+    for stem, text in {**texts, **others}.items():
         add_to_corpus(languages[stem], text)
-    for stem, path in done.items():
-        add_to_corpus(done_languages[stem], _read(path))
 
     cache = PdfMetricsCache(config.log_path.with_name("pdf_metrics_cache.json"))
     outcomes: dict[str, FileOutcome] = {}
-    cleaned: dict[str, str] = {}
+    rewrites: dict[str, str] = {}
     hashes: dict[str, str] = {}
 
     for stem in sorted(chosen):
@@ -237,7 +224,8 @@ def analyze(config: InputProcessConfig, *, small_scale: bool = False) -> Analysi
             stem=stem,
             source_format=fmt,
             language=lang,
-            extracted_file=path.name,
+            file=path.name,
+            machine=manifest.machine_format(stem, path) is not None,
             status=verdict.status,
             reason=verdict.reason,
             failed=verdict.failed,
@@ -252,15 +240,16 @@ def analyze(config: InputProcessConfig, *, small_scale: bool = False) -> Analysi
             outcome.pdf = pdf.name if pdf else ""
             outcome.expected_ocr_file = f"{stem}.txt"
         if verdict.status == PASS:
-            cleaned[stem] = text1
             hashes[stem] = m1["content_hash"]
             outcome.cleaned_file = f"{stem}.txt"
+            if text1 != text0:
+                rewrites[stem] = text1
         outcomes[stem] = outcome
 
     # Exact duplicates are flagged, never removed: dropping a policy would also
     # drop its row in the golden dataset.
     first_seen: dict[str, str] = {}
-    for stem in sorted(cleaned):
+    for stem in sorted(hashes):
         digest = hashes[stem]
         if digest in first_seen:
             outcomes[stem].duplicate_of = first_seen[digest]
@@ -269,30 +258,7 @@ def analyze(config: InputProcessConfig, *, small_scale: bool = False) -> Analysi
         else:
             first_seen[digest] = stem
 
-    missing = _missing_extraction(config, set(waiting), small_scale, done)
-    return Analysis(
-        outcomes, cleaned, unrecognized, missing,
-        done=done,
-        sources=dict(waiting),
-        leftovers=leftovers,
-    )
-
-
-def tidy_extracted(config: InputProcessConfig, *, dry_run: bool = False) -> list[str]:
-    """Remove ``extracted_txt/<stem>.txt`` of policies that are already in ``cleaned_txt/``.
-
-    Such a file is ignored by the quality check; this deletes it on request. Returns the names it
-    removed (or would remove).
-    """
-    done = cleaned_stems(config.cleaned_txt_dir)
-    waiting, _ = extracted_files(config.extracted_txt_dir)
-    removed = []
-    for stem, path in waiting.items():
-        if stem in done:
-            removed.append(path.name)
-            if not dry_run:
-                path.unlink()
-    return sorted(removed)
+    return Analysis(outcomes, rewrites, unrecognized, sources=dict(waiting))
 
 
 def check_all(
@@ -301,95 +267,65 @@ def check_all(
     write_cleaned: bool = True,
     small_scale: bool = False,
 ) -> dict:
-    """Run the quality check over ``extracted_txt/`` and log the result.
+    """Run the quality check over ``cleaned_txt/`` and log the result.
 
-    Files that pass are written to ``cleaned_txt/`` and removed from ``extracted_txt/``, which keeps only what
-    still needs OCR or was eliminated. ``cleaned_txt/`` is never pruned. With ``write_cleaned=False`` only the
-    log is written: nothing is moved or deleted. Returns the summary (counts and the failed files).
+    A text that passes is rewritten in place when the fixes changed it; nothing is moved or deleted. With
+    ``write_cleaned=False`` only the log is written. Returns the summary (counts and the failed files).
     """
     result = analyze(config, small_scale=small_scale)
     report = build_report(config, result)
 
-    if write_cleaned:
-        _write_cleaned(config.cleaned_txt_dir, result.cleaned)
+    if write_cleaned and result.rewrites:
         manifest = ExtractionManifest(config.manifest_path)
-        for stem in result.cleaned:  # only after its cleaned text is on disk
-            result.sources[stem].unlink(missing_ok=True)
-            manifest.forget(stem)
+        for stem, text in result.rewrites.items():
+            path = result.sources[stem]
+            path.write_text(text, encoding="utf-8", newline="")
+            if result.outcomes[stem].machine:     # still our extraction, now fixed: keep telling it from yours
+                manifest.record(stem, result.outcomes[stem].source_format, path)
         manifest.save()
     with run_log(config.log_path) as log:
-        log_check(log, config, result, report, wrote=write_cleaned)
+        log_check(log, result, report)
     return report
 
 
-def log_check(log, config: InputProcessConfig, result: Analysis, report: dict, *, wrote: bool) -> None:
-    """One log line per checked file, a WARNING for every file that failed, then the totals."""
+def log_check(log, result: Analysis, report: dict) -> None:
+    """One line per checked file: INFO for a pass, WARNING for a file that failed, then the totals."""
     s = report["summary"]
-    log.info("QUALITY CHECK started (project=%s%s)", config.project, "" if wrote else ", log only: nothing is moved")
     for stem in sorted(result.outcomes):
         o = result.outcomes[stem]
         failed = ", ".join(f"{f['rule']}={f['value']} (limit {f['limit']})" for f in o.failed)
         if o.status == PASS:
-            fixes = f" [fixes: {', '.join(o.fixes_applied)}]" if o.fixes_applied else ""
+            fixes = f" [fixed: {', '.join(o.fixes_applied)}]" if o.fixes_applied else ""
             note = f" [{o.review}]" if o.review else ""
-            log.info("PASS %s (%s) -> cleaned_txt/%s.txt%s%s", stem, o.source_format, stem, fixes, note)
+            log.info("PASS %s (%s)%s%s", stem, o.source_format, fixes, note)
         elif o.status == NEEDS_OCR:
             log.warning(
-                "NEEDS_OCR %s: %s - OCR %s and replace extracted_txt/%s.txt with the text",
+                "NEEDS_OCR %s: %s - OCR %s and replace cleaned_txt/%s.txt with the text",
                 stem, failed or o.reason, o.pdf or "the PDF", stem,
             )
         else:
             log.warning(
-                "ELIMINATED %s (%s): %s - fix extracted_txt/%s.txt (it is checked again) or move it to cleaned_txt/",
+                "ELIMINATED %s (%s): %s - fix cleaned_txt/%s.txt and run the quality check again",
                 stem, o.source_format, failed or o.reason, stem,
             )
-    for name in result.missing:
-        log.warning("NOT EXTRACTED %s: no extracted text yet (extraction failed or was not run)", name)
-    for name in result.leftovers:
-        log.warning("IGNORED extracted_txt/%s: the policy is already in cleaned_txt (delete the file or run `tidy`)", name)
-    for name in result.unrecognized:
-        log.warning("IGNORED extracted_txt/%s: not a .txt file", name)
     log.info(
-        "QUALITY CHECK finished: %d policies, %d in cleaned_txt, %d need OCR, %d eliminated (%d were already done)",
-        s["files"], s["passed"], s["needs_ocr"], s["eliminated"], len(result.done),
+        "QUALITY CHECK: %d policies, %d passed, %d need OCR, %d eliminated",
+        s["files"], s["passed"], s["needs_ocr"], s["eliminated"],
     )
-
-
-def _missing_extraction(config: InputProcessConfig, waiting: set, small_scale: bool, done: dict) -> list[str]:
-    """Originals in raw_files/ whose policy has no text yet (extraction failed or was not run)."""
-    if not config.raw_files_dir.is_dir():
-        return []
-    missing = []
-    for path in sorted(p for p in config.raw_files_dir.iterdir() if p.is_file()):
-        if SOURCE_FORMATS.get(path.suffix.lower()) is None:
-            continue
-        if small_scale and path.stem not in set(config.small_scale_stems):
-            continue
-        if path.stem not in done and path.stem not in waiting:
-            missing.append(path.name)
-    return missing
-
-
-def _write_cleaned(cleaned_dir: Path, cleaned: dict[str, str]) -> None:
-    cleaned_dir.mkdir(parents=True, exist_ok=True)
-    for stem, text in cleaned.items():  # only ever adds or replaces; cleaned_txt/ is not pruned
-        (cleaned_dir / f"{stem}.txt").write_text(text, encoding="utf-8", newline="")
 
 
 def build_report(config: InputProcessConfig, result: Analysis) -> dict:
     """The summary of a run: counts, then only the files that did not pass and the indicators they failed.
 
-    ``summary.passed`` is the number of policies in ``cleaned_txt/`` after this run (earlier runs included),
-    so ``files`` is every policy: passed + needs_ocr + eliminated.
+    ``files`` is every policy checked: passed + needs_ocr + eliminated.
     """
     outcomes = result.outcomes
     by_status = Counter(o.status for o in outcomes.values())
-    in_cleaned = set(result.done) | set(result.cleaned)
     return {
         "project": config.project,
         "summary": {
-            "files": len(in_cleaned) + by_status[NEEDS_OCR] + by_status[ELIMINATE],
-            "passed": len(in_cleaned),
+            "files": len(outcomes),
+            "passed": by_status[PASS],
             "needs_ocr": by_status[NEEDS_OCR],
             "eliminated": by_status[ELIMINATE],
         },
@@ -401,13 +337,5 @@ def build_report(config: InputProcessConfig, result: Analysis) -> dict:
             {"stem": o.stem, "source_format": o.source_format, "failed": o.failed}
             for o in outcomes.values() if o.status == ELIMINATE
         ],
-        "warnings": {
-            name: items
-            for name, items in (
-                ("not_extracted", result.missing),
-                ("unrecognized_files", result.unrecognized),
-                ("already_in_cleaned_txt", result.leftovers),
-            )
-            if items
-        },
+        "warnings": {"unrecognized_files": result.unrecognized} if result.unrecognized else {},
     }

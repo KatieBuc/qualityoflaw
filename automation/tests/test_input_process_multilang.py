@@ -130,13 +130,12 @@ def mixed(tmp_path):
                     "language": "Indonesian",
                     "language_pattern": pattern,
                     "raw_files_dir": str(tmp_path / "raw_files"),
-                    "extracted_txt_dir": str(tmp_path / "extracted_txt"),
                     "cleaned_txt_dir": str(tmp_path / "preprocessed" / "cleaned_txt"),
                     "log_path": str(tmp_path / "input_process.log"),
                 }
             }
         )
-        cfg.extracted_txt_dir.mkdir(exist_ok=True)
+        cfg.cleaned_txt_dir.mkdir(parents=True, exist_ok=True)
         return cfg
 
     return build
@@ -147,7 +146,7 @@ def write(cfg, stem, fmt, text):
     if fmt == "ocr":
         cfg.raw_files_dir.mkdir(exist_ok=True)
         (cfg.raw_files_dir / f"{stem}.pdf").write_bytes(b"%PDF")
-    (cfg.extracted_txt_dir / f"{stem}.txt").write_text(text, encoding="utf-8")
+    (cfg.cleaned_txt_dir / f"{stem}.txt").write_text(text, encoding="utf-8")
 
 
 def test_a_multilingual_folder_is_judged_file_by_file(mixed):

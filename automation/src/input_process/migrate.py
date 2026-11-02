@@ -50,11 +50,14 @@ def migrate_raw(config: InputProcessConfig, *, dry_run: bool = False) -> Migrati
 #: Markers the earlier layout put in file names, outranking one another in this order.
 OLD_MARKERS = ("ocr", "txt", "html", "pdf")
 OLD_REPORTS = ("input_report.json", "markdown_report.json")
+#: The folder that held the unresolved texts before everything was kept in cleaned_txt.
+OLD_EXTRACTED_DIRNAME = "extracted_txt"
 
 
 @dataclass
 class LayoutMigration:
     moved_cleaned: list[str] = field(default_factory=list)
+    moved_extracted: list[str] = field(default_factory=list)
     renamed: list[str] = field(default_factory=list)
     removed_superseded: list[str] = field(default_factory=list)
     removed_reports: list[str] = field(default_factory=list)
@@ -69,35 +72,37 @@ def _split_old_marker(name: str) -> tuple[str, str] | None:
 
 
 def migrate_layout(config: InputProcessConfig, *, dry_run: bool = False) -> LayoutMigration:
-    """Bring data made by the earlier stage 1 layout to the current one. Idempotent; never overwrites.
+    """Bring data made by an earlier stage 1 layout to the current one. Idempotent; never overwrites.
 
     1. ``raw/cleaned_txt/`` -> ``preprocessed/cleaned_txt/`` (and a ``<stem>__txt.txt`` in it loses its marker).
-    2. ``extracted_txt/<stem>__pdf|html|txt|ocr.txt`` -> ``<stem>.txt``. When a policy has several, your
-       ``__ocr`` text wins, then txt, html, pdf; the others are our own extractions and are removed. The
-       extractions we keep are recorded in ``raw/extraction_manifest.json`` (``__ocr`` is yours: no entry).
+    2. ``raw/extracted_txt/`` -> ``preprocessed/cleaned_txt/``: the unresolved texts join the passed ones. A name
+       with a marker (``<stem>__pdf|html|txt|ocr.txt``) loses it; when a policy has several, your ``__ocr``
+       text wins, then txt, html, pdf, and the others (our own extractions) are removed. A policy that already
+       has its file in ``cleaned_txt/`` keeps that one; the other is left where it is and reported.
+       The extractions moved are recorded in ``raw/extraction_manifest.json`` (``__ocr`` is yours: no entry).
     3. The JSON reports of the earlier layout are removed (the log replaced them).
     """
     from automation.src.input_process.extract import ExtractionManifest
 
     result = LayoutMigration()
+    target_dir = config.cleaned_txt_dir
 
     old_cleaned = config.raw_dir / "cleaned_txt"
-    new_cleaned = config.cleaned_txt_dir
-    if old_cleaned.is_dir() and old_cleaned.resolve() != new_cleaned.resolve():
+    if old_cleaned.is_dir() and old_cleaned.resolve() != target_dir.resolve():
         for path in sorted(p for p in old_cleaned.iterdir() if p.is_file()):
-            target = new_cleaned / path.name
+            target = target_dir / path.name
             if target.exists():
-                result.conflicts.append(f"cleaned_txt/{path.name}")
+                result.conflicts.append(f"raw/cleaned_txt/{path.name}")
                 continue
             result.moved_cleaned.append(path.name)
             if not dry_run:
-                new_cleaned.mkdir(parents=True, exist_ok=True)
+                target_dir.mkdir(parents=True, exist_ok=True)
                 shutil.move(str(path), str(target))
         if not dry_run and not any(old_cleaned.iterdir()):
             old_cleaned.rmdir()
 
-    if new_cleaned.is_dir():
-        for path in sorted(new_cleaned.glob("*.txt")):
+    if target_dir.is_dir():
+        for path in sorted(target_dir.glob("*.txt")):
             parsed = _split_old_marker(path.name)
             if parsed is None:
                 continue
@@ -109,33 +114,38 @@ def migrate_layout(config: InputProcessConfig, *, dry_run: bool = False) -> Layo
             if not dry_run:
                 path.rename(target)
 
-    if config.extracted_txt_dir.is_dir():
+    old_extracted = config.raw_dir / OLD_EXTRACTED_DIRNAME
+    if old_extracted.is_dir():
         groups: dict[str, dict[str, Path]] = {}
-        for path in sorted(config.extracted_txt_dir.glob("*.txt")):
+        for path in sorted(old_extracted.glob("*.txt")):
             parsed = _split_old_marker(path.name)
-            if parsed:
-                groups.setdefault(parsed[0], {})[parsed[1]] = path
+            stem, fmt = parsed if parsed else (path.stem, None)
+            groups.setdefault(stem, {})[fmt or "plain"] = path
         manifest = ExtractionManifest(config.manifest_path)
         for stem, formats in sorted(groups.items()):
-            fmt = next(f for f in OLD_MARKERS if f in formats)
-            target = config.extracted_txt_dir / f"{stem}.txt"
+            fmt = next((f for f in ("plain",) + OLD_MARKERS if f in formats), None)
+            chosen = formats[fmt]
+            target = target_dir / f"{stem}.txt"
             if target.exists():
-                result.conflicts.append(f"extracted_txt/{formats[fmt].name}")
+                result.conflicts.append(f"extracted_txt/{chosen.name}")
                 continue
-            result.renamed.append(f"{formats[fmt].name} -> {target.name}")
+            result.moved_extracted.append(f"{chosen.name} -> {target.name}")
             for other_fmt, other in formats.items():
                 if other_fmt != fmt:
                     result.removed_superseded.append(other.name)
             if dry_run:
                 continue
-            formats[fmt].rename(target)
-            if fmt != "ocr":
+            target_dir.mkdir(parents=True, exist_ok=True)
+            shutil.move(str(chosen), str(target))
+            if fmt not in ("plain", "ocr"):
                 manifest.record(stem, fmt, target)
             for other_fmt, other in formats.items():
                 if other_fmt != fmt:
                     other.unlink(missing_ok=True)
         if not dry_run:
             manifest.save()
+            if not any(old_extracted.iterdir()):
+                old_extracted.rmdir()
 
     for name in OLD_REPORTS:
         report = config.raw_dir / name

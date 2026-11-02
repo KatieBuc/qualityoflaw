@@ -6,17 +6,13 @@ HTML -> trafilatura, with a BeautifulSoup fallback when trafilatura drops
         ``extract_html.py``, with Indonesian headings).
 TXT  -> copied as UTF-8.
 
-Every result is ``extracted_txt/<stem>.txt``: the file name is the policy name and nothing else. Where a
-policy stands is read from which folder holds its name:
-
-    <stem>.txt in cleaned_txt/    done: nothing is extracted or checked again
-    <stem>.txt in extracted_txt/  waiting: it is quality-checked (again after you replace it)
-    neither                       extract the original, then quality-check it
+Every result is ``preprocessed/cleaned_txt/<stem>.txt``: the one folder every later step reads. The file name
+is the policy name and nothing else. A policy that already has its file there is never extracted again, so
+your OCR text or your fixes put in that file are kept.
 
 A policy with several originals (the same name as .txt, .html and .pdf) is extracted from one of them:
-``txt`` first, then ``html``, then ``pdf``. Text you get from OCR, or any fix you make, replaces
-``extracted_txt/<stem>.txt``. To tell your file from our extraction, the hash of every file we write is
-kept in ``raw/extraction_manifest.json``; a file that no longer matches was supplied by you.
+``txt`` first, then ``html``, then ``pdf``. To tell your file from our extraction, the hash of every file we
+write is kept in ``raw/extraction_manifest.json``; a file that no longer matches was supplied by you.
 
 Extraction only extracts: it never judges quality. A scanned PDF that yields no text is written as an empty
 file, and the quality check turns that into "needs OCR".
@@ -58,7 +54,7 @@ class ExtractionResult:
     source: str
     fmt: str | None
     output: str | None
-    status: str  # extracted | skipped_existing | skipped_done | skipped_duplicate | failed | unsupported
+    status: str  # extracted | skipped_existing | skipped_duplicate | failed | unsupported
     detail: str = ""
 
 
@@ -184,7 +180,7 @@ def file_hash(path: Path) -> str:
 
 
 class ExtractionManifest:
-    """Which ``extracted_txt/<stem>.txt`` files are our own extraction: ``{stem: {"format", "sha256"}}``.
+    """Which ``cleaned_txt/<stem>.txt`` files are our own extraction: ``{stem: {"format", "sha256"}}``.
 
     A file whose hash still matches was machine-extracted from that format, so (for a PDF) it can be judged
     "needs OCR". A file that no longer matches, or has no entry, was supplied by the user.
@@ -215,19 +211,17 @@ class ExtractionManifest:
 
 # --------------------------------------------------------------------------- driver
 def cleaned_stems(cleaned_dir: Path) -> dict[str, Path]:
-    """Policies that are done: ``{stem: path}`` for every ``<stem>.txt`` in ``cleaned_txt/``."""
-    if not cleaned_dir.is_dir():
-        return {}
-    return {p.stem: p for p in sorted(cleaned_dir.iterdir()) if p.is_file() and p.suffix.lower() == ".txt"}
+    """Every policy that has its text: ``{stem: path}`` for each ``<stem>.txt`` in ``cleaned_txt/``."""
+    return text_files(cleaned_dir)[0]
 
 
-def extracted_files(extracted_dir: Path) -> tuple[dict[str, Path], list[str]]:
-    """``({stem: path}`` of ``extracted_txt/<stem>.txt``, names of files that are not .txt)``."""
+def text_files(folder: Path) -> tuple[dict[str, Path], list[str]]:
+    """``({stem: path}`` of the ``<stem>.txt`` files in `folder`, names of the files that are not .txt)``."""
     files: dict[str, Path] = {}
     other: list[str] = []
-    if not extracted_dir.is_dir():
+    if not folder.is_dir():
         return files, other
-    for path in sorted(p for p in extracted_dir.iterdir() if p.is_file()):
+    for path in sorted(p for p in folder.iterdir() if p.is_file()):
         if path.suffix.lower() == ".txt":
             files[path.stem] = path
         else:
@@ -274,10 +268,9 @@ def original_format(config: InputProcessConfig, stem: str) -> str | None:
 
 
 def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> list[ExtractionResult]:
-    """Extract every policy that is in neither ``cleaned_txt/`` nor ``extracted_txt/``."""
+    """Extract every policy that has no ``cleaned_txt/<stem>.txt`` yet."""
     results: list[ExtractionResult] = []
-    done = cleaned_stems(config.cleaned_txt_dir)
-    waiting, _ = extracted_files(config.extracted_txt_dir)
+    have = cleaned_stems(config.cleaned_txt_dir)
     sources = list_sources(config, small_scale=small_scale)
     chosen, unsupported = choose_originals(sources)
     for path in unsupported:
@@ -292,11 +285,8 @@ def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> lis
         if chosen[stem][1] != path:
             results.append(ExtractionResult(path.name, fmt, None, "skipped_duplicate", f"{chosen[stem][1].name} is used"))
             continue
-        if stem in done:  # already in cleaned_txt: nothing left to do
-            results.append(ExtractionResult(path.name, fmt, None, "skipped_done"))
-            continue
-        if stem in waiting:  # already in extracted_txt: it is checked as it is (maybe you replaced it)
-            results.append(ExtractionResult(path.name, fmt, waiting[stem].name, "skipped_existing"))
+        if stem in have:  # its text is there already (extracted before, or yours): kept as it is
+            results.append(ExtractionResult(path.name, fmt, have[stem].name, "skipped_existing"))
             continue
         try:
             text, detail = READERS[fmt](path)
@@ -305,7 +295,7 @@ def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> lis
             results.append(ExtractionResult(path.name, fmt, None, "failed", f"{type(exc).__name__}: {exc}"))
             continue
 
-        target = config.extracted_txt_dir / f"{stem}.txt"
+        target = config.cleaned_txt_dir / f"{stem}.txt"
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(text.rstrip("\n") + "\n" if text.strip() else "", encoding="utf-8", newline="")
         manifest.record(stem, fmt, target)
@@ -316,22 +306,14 @@ def extract_all(config: InputProcessConfig, *, small_scale: bool = False) -> lis
 
 
 def log_extraction(config: InputProcessConfig, results: list[ExtractionResult]) -> None:
-    """Append one line per extracted or failed original to the stage 1 log; skipped ones are only counted."""
+    """The log only records pass and elimination, so extraction writes to it only when a file could not be
+    extracted at all (such a policy would otherwise vanish without a trace)."""
+    problems = [r for r in results if r.status in ("failed", "unsupported")]
+    if not problems:
+        return
     with run_log(config.log_path) as log:
-        skipped = {"skipped_done": 0, "skipped_existing": 0, "skipped_duplicate": 0}
-        for r in results:
-            if r.status == "extracted":
-                log.info("EXTRACTED %s (%s, %s) -> extracted_txt/%s", r.source, r.fmt, r.detail, r.output)
-            elif r.status == "failed":
-                log.warning("EXTRACTION FAILED %s: %s", r.source, r.detail)
-            elif r.status == "unsupported":
-                log.warning("IGNORED %s in raw_files: unsupported file type (%s)", r.source, r.detail)
+        for r in problems:
+            if r.status == "failed":
+                log.warning("ELIMINATED %s: extraction failed - %s", r.source, r.detail)
             else:
-                skipped[r.status] += 1
-        log.info(
-            "EXTRACTION finished: %d extracted, %d already in cleaned_txt, %d already in extracted_txt, "
-            "%d with another original used, %d failed",
-            sum(r.status == "extracted" for r in results),
-            skipped["skipped_done"], skipped["skipped_existing"], skipped["skipped_duplicate"],
-            sum(r.status == "failed" for r in results),
-        )
+                log.warning("ELIMINATED %s: unsupported file type (%s)", r.source, r.detail)

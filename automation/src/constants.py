@@ -12,7 +12,6 @@ DEFAULT_PROJECT = "indonesia"
 RAW_DIRNAME = "raw"
 # Stage 1 (input processing) folders, all inside raw/.
 RAW_FILES_DIRNAME = "raw_files"
-EXTRACTED_TXT_DIRNAME = "extracted_txt"
 CLEANED_TXT_DIRNAME = "cleaned_txt"
 GOLD_DIRNAME = "gold"
 INPUT_LOG_FILENAME = "input_process.log"
@@ -52,8 +51,8 @@ DEFAULT_SMALL_SCALE_STEMS = tuple(Path(name).stem for name in SMALL_SCALE_FILES)
 # is already cleaned and structured, so translation reads and writes Markdown and `md_to_text`
 # renders the plain-text artifact everything downstream reads.
 DEFAULT_STEPS = (
-    "extract",         # stage 1.1: originals -> extracted_txt
-    "quality_check",   # stage 1.1: extracted_txt -> cleaned_txt (breakpoint: OCR / eliminated files)
+    "extract",         # stage 1.1: originals -> preprocessed/cleaned_txt
+    "quality_check",   # stage 1.1: checks and fixes preprocessed/cleaned_txt (breakpoint: OCR / eliminated files)
     "txt_to_md",       # stage 1.2: cleaned_txt -> cleaned_markdown
     "translation_md",  # stage 2
     "human_review",    # stage 3 (optional pause, off by default)

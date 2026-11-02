@@ -1,11 +1,10 @@
 """Command line for stage 1.1.
 
     python -m automation.src.input_process migrate-raw [--dry-run]
-    python -m automation.src.input_process migrate-layout [--dry-run]   # one-off: move to the current folder layout
+    python -m automation.src.input_process migrate-layout [--dry-run]   # one-off: move data of an earlier layout here
     python -m automation.src.input_process extract [--small-scale]
     python -m automation.src.input_process check [--report-only] [--small-scale]
     python -m automation.src.input_process run [--small-scale]      # extract + check
-    python -m automation.src.input_process tidy [--dry-run]         # one-off clean-up of extracted_txt
     python -m automation.src.input_process markdown [--force] [--small-scale]   # stage 1.2: TXT -> Markdown
 """
 
@@ -17,7 +16,7 @@ from automation.src.constants import DEFAULT_PIPELINE_CONFIG
 from automation.src.input_process.config import load_input_process_config
 from automation.src.input_process.extract import extract_all
 from automation.src.input_process.migrate import migrate_layout, migrate_raw
-from automation.src.input_process.pipeline import check_all, tidy_extracted
+from automation.src.input_process.pipeline import check_all
 
 
 def _cmd_migrate_raw(args: argparse.Namespace, config) -> int:
@@ -36,8 +35,9 @@ def _cmd_migrate_raw(args: argparse.Namespace, config) -> int:
 def _cmd_migrate_layout(args: argparse.Namespace, config) -> int:
     r = migrate_layout(config, dry_run=args.dry_run)
     verb = "Would" if args.dry_run else "Did"
-    print(f"{verb}: move {len(r.moved_cleaned)} file(s) to {config.cleaned_txt_dir}, rename {len(r.renamed)}, "
-          f"remove {len(r.removed_superseded)} superseded extraction(s) and {len(r.removed_reports)} old report(s)")
+    print(f"{verb}: move {len(r.moved_cleaned)} + {len(r.moved_extracted)} file(s) to {config.cleaned_txt_dir}, "
+          f"rename {len(r.renamed)}, remove {len(r.removed_superseded)} superseded extraction(s) and "
+          f"{len(r.removed_reports)} old report(s)")
     for item in r.conflicts:
         print(f"  left alone (target exists): {item}")
     return 0
@@ -48,7 +48,7 @@ def _cmd_extract(args: argparse.Namespace, config) -> int:
     counts: dict[str, int] = {}
     for r in results:
         counts[r.status] = counts.get(r.status, 0) + 1
-    print(f"Extracted from {config.raw_files_dir} into {config.extracted_txt_dir}")
+    print(f"Extracted from {config.raw_files_dir} into {config.cleaned_txt_dir}")
     print(", ".join(f"{n} {status}" for status, n in sorted(counts.items())) or "no files")
     for r in results:
         if r.status in ("failed", "unsupported"):
@@ -59,31 +59,24 @@ def _cmd_extract(args: argparse.Namespace, config) -> int:
 def _print_report_summary(report: dict, config) -> None:
     s = report["summary"]
     print(
-        f"Quality check: {s['files']} policy(ies) -> {s['passed']} in cleaned_txt, "
+        f"Quality check: {s['files']} policy(ies) -> {s['passed']} passed, "
         f"{s['needs_ocr']} need OCR, {s['eliminated']} eliminated"
     )
     for name, items in report.get("warnings", {}).items():
         print(f"  warning: {len(items)} {name.replace('_', ' ')} (see the log)")
     for entry in report["needs_ocr"]:
         print(f"  needs OCR: {entry['pdf'] or entry['stem']} -> replace "
-              f"{config.extracted_txt_dir / entry['expected_ocr_file']} with the OCR text")
+              f"{config.cleaned_txt_dir / entry['expected_ocr_file']} with the OCR text")
     print(f"Log: {config.log_path}")
-
-
-def _cmd_tidy(args: argparse.Namespace, config) -> int:
-    removed = tidy_extracted(config, dry_run=args.dry_run)
-    verb = "Would remove" if args.dry_run else "Removed"
-    print(f"{verb} {len(removed)} extracted file(s) of policies already in {config.cleaned_txt_dir}")
-    return 0
 
 
 def _cmd_check(args: argparse.Namespace, config) -> int:
     report = check_all(config, write_cleaned=not args.report_only, small_scale=args.small_scale)
     _print_report_summary(report, config)
     if args.report_only:
-        print("(log only: cleaned_txt/ was not touched)")
+        print("(log only: no file was rewritten)")
     else:
-        print(f"Passed files are in {config.cleaned_txt_dir}")
+        print(f"Texts are in {config.cleaned_txt_dir}")
     return 0
 
 
@@ -133,31 +126,24 @@ def build_parser() -> argparse.ArgumentParser:
 
     layout = sub.add_parser(
         "migrate-layout",
-        help="One-off: move data made by the earlier layout (markers in file names, raw/cleaned_txt, JSON reports).",
+        help="One-off: move data of an earlier layout (raw/cleaned_txt, raw/extracted_txt, name markers, JSON reports) into preprocessed/cleaned_txt.",
     )
     layout.add_argument("--dry-run", action="store_true")
     layout.set_defaults(func=_cmd_migrate_layout)
 
     extract = sub.add_parser(
-        "extract", help="PDF/HTML -> txt, TXT -> copy, into extracted_txt/ (existing outputs are kept)."
+        "extract", help="PDF/HTML -> txt, TXT -> copy, into cleaned_txt/ (a policy that already has its file is kept)."
     )
     extract.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
     extract.set_defaults(func=_cmd_extract)
 
     check = sub.add_parser(
         "check",
-        help="Quality-check, fix and re-check extracted_txt/; passed texts go to cleaned_txt/; everything is logged.",
+        help="Quality-check, fix and re-check cleaned_txt/; a text that passes is fixed in place; results are logged.",
     )
     check.add_argument("--report-only", action="store_true", help="Only log the result; move and delete nothing.")
     check.add_argument("--small-scale", action="store_true", help="Only paths.small_scale_stems.")
     check.set_defaults(func=_cmd_check)
-
-    tidy = sub.add_parser(
-        "tidy",
-        help="Remove extracted files of policies already in cleaned_txt (one-off, for data from before).",
-    )
-    tidy.add_argument("--dry-run", action="store_true")
-    tidy.set_defaults(func=_cmd_tidy)
 
     markdown = sub.add_parser(
         "markdown",

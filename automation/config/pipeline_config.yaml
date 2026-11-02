@@ -71,8 +71,8 @@ evaluation:
       evidence_verification:
         enabled: true
 
-# Stage 1 (input processing): data/<project>/raw/{raw_files,extracted_txt} and
-# data/<project>/preprocessed/cleaned_txt.
+# Stage 1 (input processing): data/<project>/raw/raw_files (originals) and
+# data/<project>/preprocessed/cleaned_txt (every extracted text; the one folder the later steps read).
 # Every key is optional; folders default to those names. Overrides are repo-relative or absolute.
 input_process:
   # Language every file is judged as, unless language_pattern finds one in its name.
@@ -86,7 +86,6 @@ input_process:
   markdown_source: cleaned_txt
   # gold_dir: data/global/raw/gold
   # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
-  # extracted_txt_dir: data/indonesia/raw/extracted_txt
   # cleaned_txt_dir: data/indonesia/preprocessed/cleaned_txt
   # log_path: data/indonesia/raw/input_process.log
   # Override individual quality thresholds (names in input_process/quality/criteria.py, T).

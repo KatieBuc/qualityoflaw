@@ -3,11 +3,10 @@
     data/<project>/
         raw/
             raw_files/            original PDF / HTML / TXT
-            extracted_txt/        <stem>.txt waiting for OCR / a fix (stage 1.1); only unresolved files stay
             gold/                 <stem>.txt hand-cleaned texts (optional source for TXT -> Markdown)
             input_process.log     what stage 1 did to each file; WARNING = needs your attention
         preprocessed/             stage 1-2 output, open to human edits (stage 3)
-            cleaned_txt/          <stem>.txt that passed the quality check (kept across runs)
+            cleaned_txt/          <stem>.txt: every extracted text (stage 1.1), fixed in place when it passes the check
             cleaned_markdown/
             translation_markdown/
             header_check.log      pairs whose headings differ (written by the `validate` step)
@@ -33,7 +32,6 @@ from automation.src.constants import (
     CLEANED_TXT_DIRNAME,
     CORRECTIONS_DIRNAME,
     DATA_ROOT,
-    EXTRACTED_TXT_DIRNAME,
     GOLD_DIRNAME,
     GOLDEN_CSV_FILENAME,
     INDEX_SCHEMA_RELPATH,
@@ -59,10 +57,6 @@ class ProjectDirs:
     @property
     def raw_files(self) -> Path:
         return self.raw / RAW_FILES_DIRNAME
-
-    @property
-    def extracted_txt(self) -> Path:
-        return self.raw / EXTRACTED_TXT_DIRNAME
 
     @property
     def cleaned_txt(self) -> Path:

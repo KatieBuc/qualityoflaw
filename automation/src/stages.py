@@ -1,7 +1,7 @@
 """Pipeline steps for stage 1 (input), stage 3 (human adjustment) and the start of stage 4.
 
-    extract         originals -> extracted_txt/<name>.txt (policies in neither extracted_txt nor cleaned_txt)
-    quality_check   extracted_txt -> quality check and fix -> preprocessed/cleaned_txt   (breakpoint: OCR / eliminated files)
+    extract         originals -> preprocessed/cleaned_txt/<name>.txt (a policy that already has its file is kept)
+    quality_check   checks and fixes the texts in preprocessed/cleaned_txt, logs pass / elimination   (breakpoint: OCR / eliminated files)
     txt_to_md       cleaned_txt (or gold) -> preprocessed/cleaned_markdown
     human_review    optional pause so a person can edit cleaned/translation markdown (breakpoint, off by default)
     validate        header check of every pair in preprocessed/ -> header_check.log (breakpoint: nothing in processed/ yet)
@@ -27,7 +27,7 @@ from automation.src.markdown.policy_files import policy_stem
 from automation.src.input_process.runlog import run_log
 from automation.src.markdown.validate import validate_directories
 
-SKIP_BLOCKED_HINT = "re-run with --skip-blocked to continue with the files that are ready"
+SKIP_BLOCKED_HINT = "re-run with --skip-blocked to continue anyway (the failed files stay in cleaned_txt and the next steps read them too)"
 MAX_LISTED = 8
 
 
@@ -52,8 +52,8 @@ def _input_config(config: ResolvedPipelineConfig) -> InputProcessConfig:
 # Stage 1.1                                                                   #
 # --------------------------------------------------------------------------- #
 def run_extract_step(config: ResolvedPipelineConfig, *, small_scale: bool = False) -> dict:
-    """PDF / HTML / TXT originals -> ``extracted_txt/<name>.txt``, for the policies in neither
-    ``cleaned_txt/`` nor ``extracted_txt/``. Judges nothing: a scanned PDF gives an empty file."""
+    """PDF / HTML / TXT originals -> ``preprocessed/cleaned_txt/<name>.txt``, for the policies that have no
+    file there yet. Judges nothing: a scanned PDF gives an empty file."""
     start = time.time()
     ip = _input_config(config)
     if not ip.raw_files_dir.is_dir():
@@ -78,11 +78,11 @@ def run_extract_step(config: ResolvedPipelineConfig, *, small_scale: bool = Fals
 
 
 def run_quality_check_step(config: ResolvedPipelineConfig, *, small_scale: bool = False, skip_blocked: bool = False) -> dict:
-    """Quality-check every text waiting in ``extracted_txt/``; passed texts go to ``cleaned_txt/``."""
+    """Quality-check and fix every text in ``cleaned_txt/``; the pass / elimination of each is logged."""
     start = time.time()
     ip = _input_config(config)
-    if not ip.extracted_txt_dir.is_dir():
-        return _skipped(f"nothing to check ({ip.extracted_txt_dir} does not exist; run the extract step first)", start)
+    if not ip.cleaned_txt_dir.is_dir():
+        return _skipped(f"nothing to check ({ip.cleaned_txt_dir} does not exist; run the extract step first)", start)
 
     report = check_all(ip, write_cleaned=True, small_scale=small_scale)
     summary = report["summary"]
@@ -103,8 +103,9 @@ def run_quality_check_step(config: ResolvedPipelineConfig, *, small_scale: bool 
     unresolved = len(needs_ocr) + len(eliminated)
     if unresolved and not skip_blocked:
         details = [
-            f"{summary['passed']} of {summary['files']} policies passed the quality check and are in {ip.cleaned_txt_dir}.",
-            f"{len(needs_ocr)} need OCR and {len(eliminated)} were eliminated; they stay in {ip.extracted_txt_dir}.",
+            f"{summary['passed']} of {summary['files']} policies passed the quality check.",
+            f"{len(needs_ocr)} need OCR and {len(eliminated)} were eliminated. They are still in {ip.cleaned_txt_dir}, "
+            "and the next steps read every file in that folder.",
         ]
         details += [f"needs OCR: {e['pdf'] or e['stem']}" for e in needs_ocr[:MAX_LISTED]]
         details += [f"eliminated: {e['stem']}" for e in eliminated[:MAX_LISTED]]
@@ -114,10 +115,9 @@ def run_quality_check_step(config: ResolvedPipelineConfig, *, small_scale: bool 
             details=details,
             next_steps=[
                 f"Open the log {ip.log_path}: the WARNING lines name every file with the quality indicators that failed.",
-                f"For a PDF that needs OCR: OCR it and replace {ip.extracted_txt_dir / '<name>.txt'} with the text.",
-                f"For an eliminated file: fix {ip.extracted_txt_dir / '<name>.txt'} (it is checked again), or move it "
-                f"into {ip.cleaned_txt_dir} if you accept it as it is.",
-                "Files you do not want to include can stay where they are.",
+                f"For a PDF that needs OCR: OCR it and replace {ip.cleaned_txt_dir / '<name>.txt'} with the text.",
+                f"For an eliminated file: fix {ip.cleaned_txt_dir / '<name>.txt'}; the quality check runs on it again.",
+                "A policy you do not want: remove its original from raw_files and its file from cleaned_txt.",
             ],
             docs=[DOCS_INPUT_PROCESS, DOCS_PIPELINE],
             override=SKIP_BLOCKED_HINT,

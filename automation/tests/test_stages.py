@@ -27,7 +27,6 @@ def make_config(tmp_path, *, pause=False, language="Indonesian"):
         "input_process:\n"
         f"  language: {language}\n"
         f"  raw_files_dir: {(raw / 'raw_files').as_posix()}\n"
-        f"  extracted_txt_dir: {(raw / 'extracted_txt').as_posix()}\n"
         f"  cleaned_txt_dir: {(root / 'preprocessed' / 'cleaned_txt').as_posix()}\n"
         f"  gold_dir: {(raw / 'gold').as_posix()}\n"
         f"  log_path: {(raw / 'input_process.log').as_posix()}\n",
@@ -159,10 +158,8 @@ def test_extract_only_extracts_and_never_judges(tmp_path):
     result = run_extract_step(config)
 
     assert result["counts"]["succeeded"] == 1 and result["counts"]["failed"] == 0
-    assert (config.raw / "extracted_txt" / "TOO_SHORT.txt").exists()
-    assert not (config.root / "preprocessed" / "cleaned_txt").exists()            # no quality check happened
-    log = (config.raw / "input_process.log").read_text(encoding="utf-8")
-    assert "EXTRACTED TOO_SHORT.txt" in log and "ELIMINATED" not in log
+    assert (config.root / "preprocessed" / "cleaned_txt" / "TOO_SHORT.txt").exists()
+    assert not (config.raw / "input_process.log").exists()                        # no quality check, nothing to record
 
 
 def test_extract_reports_a_failed_original(tmp_path):
@@ -204,12 +201,12 @@ def test_quality_check_goes_on_past_unresolved_files_with_skip_blocked(tmp_path)
     assert result["counts"]["eliminated"] == 1
 
 
-def test_quality_check_checks_what_you_put_in_extracted_txt_without_any_extraction(tmp_path):
+def test_quality_check_checks_what_you_put_in_cleaned_txt_without_any_extraction(tmp_path):
     """The fix-and-rerun loop needs the check alone: the file in extracted_txt is what gets judged."""
     config = make_config(tmp_path)
     make_originals(config, FIXED="abc")
     run_extract_step(config)
-    (config.raw / "extracted_txt" / "FIXED.txt").write_text(
+    (config.root / "preprocessed" / "cleaned_txt" / "FIXED.txt").write_text(
         "\n".join(f"Pasal {i}\nBupati melaksanakan perlindungan perempuan dan anak korban kekerasan nomor {i}." for i in range(1, 80)),
         encoding="utf-8",
     )
@@ -217,7 +214,7 @@ def test_quality_check_checks_what_you_put_in_extracted_txt_without_any_extracti
     result = run_quality_check_step(config)
 
     assert result["counts"]["succeeded"] == 1 and result["counts"]["eliminated"] == 0
-    assert (config.root / "preprocessed" / "cleaned_txt" / "FIXED.txt").exists()
+    assert (config.root / "preprocessed" / "cleaned_txt" / "FIXED.txt").read_text(encoding="utf-8").startswith("Pasal 1")
 
 
 def test_quality_check_is_skipped_when_extracted_txt_does_not_exist(tmp_path):

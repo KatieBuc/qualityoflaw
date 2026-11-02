@@ -8,6 +8,8 @@ from pathlib import Path
 from automation.src.constants import PROJECT_ROOT
 
 GOLDEN_DIR = Path(__file__).parent
+#: Pinned copy of pipeline_config.yaml for the golden tests (see the comment at its top).
+GOLDEN_PIPELINE_CONFIG = GOLDEN_DIR / "pipeline_config.yaml"
 
 
 def to_jsonable(obj):

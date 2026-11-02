@@ -13,8 +13,8 @@ python -m automation.src.run_pipeline --small-scale   # only paths.small_scale_s
 
 | Stage | Step | What it does | Breakpoint |
 |---|---|---|---|
-| 1.1 | `extract` | `raw/raw_files` -> `raw/extracted_txt/<name>.txt` (only policies in neither `extracted_txt` nor `cleaned_txt`); log `raw/input_process.log` | no (a failed file is a WARNING in the log) |
-| 1.1 | `quality_check` | `raw/extracted_txt` -> quality check and fix -> `preprocessed/cleaned_txt`; log `raw/input_process.log` | **yes**: files that need OCR or were eliminated |
+| 1.1 | `extract` | `raw/raw_files` -> `preprocessed/cleaned_txt/<name>.txt` for every policy without a file there | no |
+| 1.1 | `quality_check` | checks and fixes the files in `preprocessed/cleaned_txt` in place; log `raw/input_process.log` | **yes**: files that need OCR or were eliminated |
 | 1.2 | `txt_to_md` | `cleaned_txt` (or `gold`, see `input_process.markdown_source`) -> `preprocessed/cleaned_markdown` | no (policies without heading structure are listed) |
 | 2 | `translation_md` | `cleaned_markdown` -> `preprocessed/translation_markdown` | no |
 | 3 | `human_review` | optional pause; off unless `human_review.pause: true` | **yes**, only when enabled |
@@ -26,12 +26,13 @@ python -m automation.src.run_pipeline --small-scale   # only paths.small_scale_s
 
 ### `quality_check`: files that need your attention
 The log (`raw/input_process.log`) has a WARNING line for every file that did not pass, with the indicators that failed.
+**Every file stays in `preprocessed/cleaned_txt`**, the one folder all later steps read.
 
-1. **Needs OCR** (a scanned PDF): OCR it and save the text over `raw/extracted_txt/<name>.txt`.
-2. **Eliminated**: fix `raw/extracted_txt/<name>.txt` (it is checked again). If you accept the file as it is, move it into
-   `preprocessed/cleaned_txt/` instead.
-3. Files you do not want can stay where they are.
-4. Run the command again. To continue with the files that passed without fixing the others: `--skip-blocked`.
+1. **Needs OCR** (a scanned PDF): OCR it and save the text over `preprocessed/cleaned_txt/<name>.txt`.
+2. **Eliminated**: fix `preprocessed/cleaned_txt/<name>.txt`; the quality check runs on it again.
+3. **A policy you do not want**: remove its original from `raw/raw_files` and its file from `cleaned_txt`.
+4. Run the command again. `--skip-blocked` goes on anyway; the failed files are still in `cleaned_txt`, so the next steps
+   (conversion, translation, evaluation) read them too.
 
 No markers in file names: the file is always `<name>.txt`. Details: [input_process.md](input_process.md).
 
@@ -58,7 +59,7 @@ and prints the mismatches. While `processed/` holds no translation yet, the run 
 
 | Flag | Meaning |
 |------|---------|
-| `--skip-blocked` | At the `quality_check` breakpoint, go on with the files that passed |
+| `--skip-blocked` | At the `quality_check` breakpoint, go on anyway (failed files stay in `cleaned_txt` and are read by the next steps) |
 | `--reviewed` | Confirm the optional human review and continue |
 
 `--force` cleans only `data/<project>/automation/`; `raw/`, `preprocessed/` and `processed/` are not touched.
@@ -68,10 +69,9 @@ and prints the mismatches. While `processed/` holds no translation yet, the run 
 ```
 data/<project>/
   raw/raw_files/             originals (PDF, HTML, TXT)
-  raw/extracted_txt/         <name>.txt of unresolved files only (OCR needed / eliminated)
   raw/input_process.log      stage 1 log
   raw/gold/                  hand-cleaned texts (optional source of txt_to_md)
-  preprocessed/cleaned_txt/  passed texts
+  preprocessed/cleaned_txt/  every extracted text, the single path of stage 1
   preprocessed/cleaned_markdown/, translation_markdown/    open to human edits; header_check.log
   processed/cleaned_markdown/, translation_markdown/       pairs you moved here, the input of evaluation
   automation/                final output of the run

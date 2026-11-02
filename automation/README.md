@@ -58,8 +58,8 @@ python -m automation.src.run_pipeline --force
 
 | Step | Reads | Writes (under `data/<project>/automation/` unless noted) |
 |------|-------|-----------|
-| `extract` | `raw/raw_files/` | `raw/extracted_txt/<name>.txt`, `raw/input_process.log` |
-| `quality_check` | `raw/extracted_txt/` | `preprocessed/cleaned_txt/`, `raw/input_process.log` (pauses for OCR / eliminated files) |
+| `extract` | `raw/raw_files/` | `preprocessed/cleaned_txt/<name>.txt` (every extracted text) |
+| `quality_check` | `preprocessed/cleaned_txt/` | the same files, fixed in place when they pass; `raw/input_process.log` records pass / elimination (pauses for OCR / eliminated files) |
 | `txt_to_md` | `preprocessed/cleaned_txt/` or `raw/gold/` | `preprocessed/cleaned_markdown/` |
 | `translation_md` | `data/<project>/preprocessed/cleaned_markdown/*<suffix>` | `data/<project>/preprocessed/translation_markdown/` (no chunks saved) |
 | `translation_qa_md` *(legacy)* | source + translated markdown | rewrites the translated markdown in place; `results/translation_qa/` |
@@ -141,9 +141,9 @@ evaluation reads only `processed/`.
 ## Pipeline stages
 
 1. **Input processing.**
-   - 1.1 (`python -m automation.src.input_process run`): PDF/HTML/TXT in `raw/raw_files/` → `raw/extracted_txt/` →
-     quality check, fix and re-check → `preprocessed/cleaned_txt/`, plus the log `raw/input_process.log` (a WARNING
-     for every eliminated file and every PDF that needs OCR). See [input_process.md](automation/docs/input_process.md).
+   - 1.1 (`python -m automation.src.input_process run`): PDF/HTML/TXT in `raw/raw_files/` → `preprocessed/cleaned_txt/`
+     (every text, one folder) → quality check and in-place fixes; the log `raw/input_process.log` records PASS and a
+     WARNING for every eliminated file or PDF that needs OCR. See [input_process.md](automation/docs/input_process.md).
    - 1.2 (`python -m automation.src.input_process markdown`): `cleaned_txt` → `preprocessed/cleaned_markdown`.
 2. **Translation** (`translation_md`): chunk-and-combine, writes `preprocessed/translation_markdown`.
 3. **Human adjustment**: edit `preprocessed/`, then move the pairs you accept to `processed/`.

@@ -13,7 +13,6 @@ def test_default_folders_are_under_the_project_raw_dir():
     config = parse_input_process_config({"project": "demo"})
     raw = DATA_ROOT / "demo" / "raw"
     assert config.raw_files_dir == raw / "raw_files"
-    assert config.extracted_txt_dir == raw / "extracted_txt"
     assert config.cleaned_txt_dir == DATA_ROOT / "demo" / "preprocessed" / "cleaned_txt"
     assert config.log_path == raw / "input_process.log"
     assert config.language == "Indonesian"
@@ -26,7 +25,6 @@ def test_every_folder_can_be_overridden_in_the_config(tmp_path):
             "input_process": {
                 "language": "English",
                 "raw_files_dir": "data/demo/originals",
-                "extracted_txt_dir": str(tmp_path / "ex"),
                 "cleaned_txt_dir": "data/demo/ok",
                 "log_path": str(tmp_path / "run.log"),
                 "thresholds": {"min_letters": 500},
@@ -34,7 +32,6 @@ def test_every_folder_can_be_overridden_in_the_config(tmp_path):
         }
     )
     assert config.raw_files_dir == PROJECT_ROOT / "data/demo/originals"
-    assert config.extracted_txt_dir == tmp_path / "ex"
     assert config.cleaned_txt_dir == PROJECT_ROOT / "data/demo/ok"
     assert config.log_path == tmp_path / "run.log"
     assert config.language == "English" and config.thresholds == {"min_letters": 500}
@@ -48,7 +45,6 @@ def test_bad_thresholds_are_rejected():
 def test_project_dirs_expose_the_stage_1_folders():
     dirs = project_dirs("demo")
     assert dirs.raw_files.name == "raw_files" and dirs.raw_files.parent == dirs.raw
-    assert dirs.extracted_txt.name == "extracted_txt"
     assert dirs.cleaned_txt.name == "cleaned_txt"
     assert dirs.input_log.name == "input_process.log"
     assert dirs.cleaned_txt.parent == dirs.preprocessed and dirs.header_check_log.parent == dirs.preprocessed

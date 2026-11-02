@@ -2,8 +2,8 @@
 
 One line per event, appended to ``raw/input_process.log``:
 
-    2026-10-14 10:21:05,412 INFO    PASS ACEH_BIREUEN (txt) -> cleaned_txt/ACEH_BIREUEN.txt
-    2026-10-14 10:21:06,090 WARNING NEEDS_OCR BALI_X: C1_garbage=0.31 (limit 0.05) - replace extracted_txt/BALI_X.txt ...
+    2026-10-14 10:21:05,412 INFO    PASS ACEH_BIREUEN (txt)
+    2026-10-14 10:21:06,090 WARNING NEEDS_OCR BALI_X: C1_garbage=0.31 (limit 0.05) - replace cleaned_txt/BALI_X.txt ...
 
 WARNING marks a file that failed the quality check (or something else that needs a person); everything
 else is INFO. The log is appended to, never rewritten, so the history of every run stays.

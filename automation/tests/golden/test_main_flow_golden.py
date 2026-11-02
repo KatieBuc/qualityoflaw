@@ -16,9 +16,9 @@ import pytest
 
 from automation.src import failure_log
 from automation.src.config_loader import load_pipeline_config
-from automation.src.constants import DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONFIG
+from automation.src.constants import DEFAULT_MODEL_CONFIG
 
-from ._serialize import assert_matches_golden
+from ._serialize import GOLDEN_PIPELINE_CONFIG, assert_matches_golden
 
 TOKENS = {"prompt_tokens": 10, "completion_tokens": 20, "total_tokens": 30}
 
@@ -450,7 +450,7 @@ def harness(tmp_path, monkeypatch, capsys):
     real_load = load_pipeline_config
 
     def patched_load(pipeline_config_path=None, model_config_path=None):
-        cfg = real_load(DEFAULT_PIPELINE_CONFIG, DEFAULT_MODEL_CONFIG)
+        cfg = real_load(GOLDEN_PIPELINE_CONFIG, DEFAULT_MODEL_CONFIG)
         return dataclasses.replace(cfg, **state["config_over"])
 
     monkeypatch.setattr("automation.src.run_pipeline.load_pipeline_config", patched_load)
@@ -475,7 +475,7 @@ def _apply_scenario_config(state, scenario, tmp_path):
     over = {}
     from automation.src.config_loader import load_pipeline_config as real
 
-    base = real(DEFAULT_PIPELINE_CONFIG, DEFAULT_MODEL_CONFIG)
+    base = real(GOLDEN_PIPELINE_CONFIG, DEFAULT_MODEL_CONFIG)
     if "storage_enabled" in scenario:
         over["storage"] = dataclasses.replace(base.storage, enabled=scenario["storage_enabled"])
     if "evaluation_method" in scenario:

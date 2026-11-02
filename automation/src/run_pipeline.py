@@ -334,7 +334,7 @@ def _report_extract(ctx: StepContext, result: dict) -> bool:
         return False
     c = result["counts"]
     print(
-        f"Extract: {c['succeeded']} extracted, {c['skipped']} already in extracted_txt / cleaned_txt, "
+        f"Extract: {c['succeeded']} extracted, {c['skipped']} already in cleaned_txt, "
         f"{c['failed']} failed, {c['unsupported']} unsupported (log: {result['log_path']})"
     )
     for source, detail in result["failures"][:8]:
@@ -348,7 +348,7 @@ def _report_quality_check(ctx: StepContext, result: dict) -> bool:
         return False
     c = result["counts"]
     print(
-        f"Quality check: {c['total']} policies -> {c['succeeded']} in cleaned_txt, "
+        f"Quality check: {c['total']} policies -> {c['succeeded']} passed, "
         f"{c['needs_ocr']} need OCR, {c['eliminated']} eliminated (log: {result['log_path']})"
     )
     return False
@@ -628,8 +628,8 @@ def main() -> None:
         "--skip-blocked",
         action="store_true",
         help=(
-            "At the quality_check breakpoint (files that need OCR or were eliminated), go on with the files that "
-            "passed instead of stopping."
+            "At the quality_check breakpoint (files that need OCR or were eliminated), go on anyway instead of "
+            "stopping. The failed files stay in cleaned_txt, so the next steps read them too."
         ),
     )
     parser.add_argument(

@@ -30,7 +30,6 @@ class InputProcessConfig:
     project: str
     language: str
     raw_files_dir: Path
-    extracted_txt_dir: Path
     cleaned_txt_dir: Path
     log_path: Path
     thresholds: dict = field(default_factory=dict)
@@ -103,7 +102,6 @@ def parse_input_process_config(data: dict, *, project: str | None = None) -> Inp
         project=project,
         language=str(block.get("language") or DEFAULT_LANGUAGE),
         raw_files_dir=_resolve(block.get("raw_files_dir") or dirs.raw_files),
-        extracted_txt_dir=_resolve(block.get("extracted_txt_dir") or dirs.extracted_txt),
         cleaned_txt_dir=_resolve(block.get("cleaned_txt_dir") or dirs.cleaned_txt),
         log_path=_resolve(block.get("log_path") or dirs.input_log),
         thresholds=dict(thresholds),
