@@ -1,6 +1,7 @@
 """Command line for stage 1.1.
 
     python -m automation.src.input_process migrate-raw [--dry-run]
+    python -m automation.src.input_process manifest-rebuild [--dry-run]   # one-off: register texts that have no record
     python -m automation.src.input_process migrate-layout [--dry-run]   # one-off: move data of an earlier layout here
     python -m automation.src.input_process extract [--small-scale]
     python -m automation.src.input_process check [--report-only] [--small-scale]
@@ -15,7 +16,7 @@ from pathlib import Path
 from automation.src.constants import DEFAULT_PIPELINE_CONFIG
 from automation.src.input_process.config import load_input_process_config
 from automation.src.input_process.extract import extract_all
-from automation.src.input_process.migrate import migrate_layout, migrate_raw
+from automation.src.input_process.migrate import migrate_layout, migrate_raw, rebuild_manifest
 from automation.src.input_process.pipeline import check_all
 
 
@@ -40,6 +41,20 @@ def _cmd_migrate_layout(args: argparse.Namespace, config) -> int:
           f"{len(r.removed_reports)} old report(s)")
     for item in r.conflicts:
         print(f"  left alone (target exists): {item}")
+    return 0
+
+
+def _cmd_manifest_rebuild(args: argparse.Namespace, config) -> int:
+    r = rebuild_manifest(config, dry_run=args.dry_run)
+    verb = "Would register" if args.dry_run else "Registered"
+    print(f"{verb} {len(r.registered)} text(s) without a record as our extraction; "
+          f"{len(r.source_added)} got their original recorded, {len(r.up_to_date)} were already complete")
+    if r.edited:
+        print(f"  left alone, no longer what we wrote (yours): {len(r.edited)}")
+    if r.no_original:
+        print(f"  no original in {config.raw_files_dir}, not registered: {len(r.no_original)}")
+        for stem in r.no_original[:10]:
+            print(f"    {stem}")
     return 0
 
 
@@ -130,6 +145,13 @@ def build_parser() -> argparse.ArgumentParser:
     )
     layout.add_argument("--dry-run", action="store_true")
     layout.set_defaults(func=_cmd_migrate_layout)
+
+    rebuild = sub.add_parser(
+        "manifest-rebuild",
+        help="One-off: give every cleaned_txt text without a record an entry, as our extraction of its current original.",
+    )
+    rebuild.add_argument("--dry-run", action="store_true")
+    rebuild.set_defaults(func=_cmd_manifest_rebuild)
 
     extract = sub.add_parser(
         "extract", help="PDF/HTML -> txt, TXT -> copy, into cleaned_txt/ (a policy that already has its file is kept)."

@@ -429,3 +429,80 @@ def test_migrate_layout_dry_run_changes_nothing(config, tmp_path, monkeypatch):
 
     assert result.moved_extracted == ["P__txt.txt -> P.txt"]
     assert files(config) == [] and (old_extracted / "P__txt.txt").exists()
+
+
+# --------------------------------------------------------------------------- manifest rebuild
+def test_manifest_rebuild_registers_texts_without_a_record_and_pdf_texts_can_need_ocr_again(config):
+    from automation.src.input_process.migrate import rebuild_manifest
+
+    image_only_pdf(config, "SCAN.pdf")
+    (config.cleaned_txt_dir / "SCAN.txt").write_text("", encoding="utf-8")          # no record: judged as yours
+    assert analyze(config).outcomes["SCAN"].status == "ELIMINATE"
+
+    result = rebuild_manifest(config)
+
+    assert result.registered == ["SCAN"]
+    assert analyze(config).outcomes["SCAN"].status == "NEEDS_OCR"                    # now a machine-extracted PDF text
+    entry = ExtractionManifest(config.manifest_path).data["SCAN"]
+    assert entry["format"] == "pdf" and entry["source"] == "SCAN.pdf" and entry["source_sha256"]
+
+
+def test_manifest_rebuild_picks_the_original_extract_would_pick(config):
+    from automation.src.input_process.migrate import rebuild_manifest
+
+    image_only_pdf(config, "A.pdf")
+    (config.raw_files_dir / "A.txt").write_text("Pasal 1 isi.", encoding="utf-8")
+    (config.cleaned_txt_dir / "A.txt").write_text("Pasal 1 isi.", encoding="utf-8")
+
+    rebuild_manifest(config)
+
+    entry = ExtractionManifest(config.manifest_path).data["A"]
+    assert (entry["format"], entry["source"]) == ("txt", "A.txt")                      # txt outranks pdf
+
+
+def test_manifest_rebuild_leaves_edited_texts_and_texts_without_an_original_alone(config):
+    from automation.src.input_process.migrate import rebuild_manifest
+
+    (config.raw_files_dir / "EDITED.txt").write_text("Pasal 1 asli.", encoding="utf-8")
+    put(config, "EDITED", "txt", "Pasal 1 asli.")
+    (config.cleaned_txt_dir / "EDITED.txt").write_text("my own correction", encoding="utf-8")   # entry no longer matches
+    (config.cleaned_txt_dir / "ORPHAN.txt").write_text("no original anywhere", encoding="utf-8")
+
+    result = rebuild_manifest(config)
+
+    assert result.edited == ["EDITED"] and result.no_original == ["ORPHAN"] and result.registered == []
+    assert "ORPHAN" not in ExtractionManifest(config.manifest_path).data
+
+
+def test_manifest_rebuild_completes_entries_that_lack_the_original_and_is_idempotent(config):
+    from automation.src.input_process.migrate import rebuild_manifest
+
+    (config.raw_files_dir / "A.txt").write_text("Pasal 1 isi.", encoding="utf-8")
+    put(config, "A", "txt", "Pasal 1 isi.")                                            # an entry from before the hashes
+
+    first = rebuild_manifest(config)
+    second = rebuild_manifest(config)
+
+    assert first.source_added == ["A"] and first.registered == []
+    assert second.up_to_date == ["A"] and second.source_added == [] and second.registered == []
+
+
+def test_manifest_rebuild_dry_run_writes_nothing(config):
+    from automation.src.input_process.migrate import rebuild_manifest
+
+    (config.raw_files_dir / "A.txt").write_text("Pasal 1 isi.", encoding="utf-8")
+    (config.cleaned_txt_dir / "A.txt").write_text("Pasal 1 isi.", encoding="utf-8")
+
+    result = rebuild_manifest(config, dry_run=True)
+
+    assert result.registered == ["A"] and not config.manifest_path.exists()
+
+
+def test_cli_manifest_rebuild(config, tmp_path, capsys):
+    (config.raw_files_dir / "A.txt").write_text("Pasal 1 isi.", encoding="utf-8")
+    (config.cleaned_txt_dir / "A.txt").write_text("Pasal 1 isi.", encoding="utf-8")
+
+    assert main(["--pipeline-config", _cli_config(config, tmp_path), "manifest-rebuild"]) == 0
+
+    assert "Registered 1 text(s)" in capsys.readouterr().out
+    assert ExtractionManifest(config.manifest_path).data["A"]["source"] == "A.txt"

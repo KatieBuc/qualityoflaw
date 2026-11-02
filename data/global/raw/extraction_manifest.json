@@ -1,4 +1,908 @@
 {
+ "10. Azerbaijan - DomViol - Azerbaijani - html": {
+  "format": "html",
+  "sha256": "d2f7c2acfba127b92d8960e8c9b0c944b06d03a2019ac59d4a35762c573afbea",
+  "source": "10. Azerbaijan - DomViol - Azerbaijani - html.html",
+  "source_mtime_ns": 1746433102000000000,
+  "source_sha256": "6f92f2de09ab65b55e82bcc15f7098b03d3116a85199f4716674543e40f1b376",
+  "source_size": 52876
+ },
+ "100. Luxembourg - DomViol - French (a)": {
+  "format": "pdf",
+  "sha256": "d5a48d550caf70e943069f228949e23dd47730aeb948bbdd1637f7389b16b372",
+  "source": "100. Luxembourg - DomViol - French (a).pdf",
+  "source_mtime_ns": 1746433104000000000,
+  "source_sha256": "0584193be76545c0a62b252c48d9cf7d4b092472e81ac87b5f49b27457455fa6",
+  "source_size": 80918
+ },
+ "100. Luxembourg - DomViol - French (b)": {
+  "format": "pdf",
+  "sha256": "116878f46d00309f5adb34f2d43eaa18a8aa471540851f0526263cff95776ef3",
+  "source": "100. Luxembourg - DomViol - French (b).pdf",
+  "source_mtime_ns": 1746433104000000000,
+  "source_sha256": "463b69570578a7924d1a9c7f39826d85f1f2494ed7f6182eefba6665c62a56ac",
+  "source_size": 362201
+ },
+ "101. Madagascar - DomViol - French": {
+  "format": "pdf",
+  "sha256": "41f822d6af31c8327ea10f8c7a255ee25cfbe5a82cefd6c9bebecd088af11c74",
+  "source": "101. Madagascar - DomViol - French.pdf",
+  "source_mtime_ns": 1746433104000000000,
+  "source_sha256": "2dfd812f48f7d1dbafd071f22450f14893af066f5a18f2741b66bc3a2c3f9900",
+  "source_size": 225811
+ },
+ "102. Malawi - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e51fd6dd54be3dc70a7c7051121cf7ebee613a52ee8609bff773b64bdd755049",
+  "source": "102. Malawi - DomViol - English.pdf",
+  "source_mtime_ns": 1746433104000000000,
+  "source_sha256": "0d39e069b36788e19442d3d0d7fa8dec8905ff0422da60fb9bbd42dc1d573c48",
+  "source_size": 413701
+ },
+ "103. Malaysia - DomViol - English (a) - html": {
+  "format": "html",
+  "sha256": "ecf88671cf87ce56e897b8ac91ff893f457164bd98ff61adad8d3f73a55e6693",
+  "source": "103. Malaysia - DomViol - English (a) - html.html",
+  "source_mtime_ns": 1746433104000000000,
+  "source_sha256": "b3e78a0822d0ebc712c62ac7b3e4c8672500ea72ce308bc241d4b8ad515f47e9",
+  "source_size": 26662
+ },
+ "103. Malaysia - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "072db95ddc207a493e2333ec58dcf975166fc486fbfc11c9281e94414c01f944",
+  "source": "103. Malaysia - DomViol - English (b).pdf",
+  "source_mtime_ns": 1746433104000000000,
+  "source_sha256": "489fcbef93f3dcec7498b1054c145f55a8a9570e8f4186775b5eb14f2b248449",
+  "source_size": 312199
+ },
+ "104. Maldives - DomViol - English": {
+  "format": "pdf",
+  "sha256": "0f79b0a8bec88006bfad4a6e9596fec1d9960d61e3bf816a51d3e4e3356e1eac",
+  "source": "104. Maldives - DomViol - English.pdf",
+  "source_mtime_ns": 1746433106000000000,
+  "source_sha256": "34cf7a92df9a01cb2af23f47b21e68d26b84355115e45246bd68531ee92dd768",
+  "source_size": 849456
+ },
+ "105. Mali - DomViol - French": {
+  "format": "pdf",
+  "sha256": "0bbb2f5bf526144d476dc1704fff70e6c27abc506e75a19bba76cc462b9c275f",
+  "source": "105. Mali - DomViol - French.pdf",
+  "source_mtime_ns": 1777453182000000000,
+  "source_sha256": "7280155fc783133962d830d7bacab24d4b92ceb529b131205ba4a9e0398f21b3",
+  "source_size": 2166212
+ },
+ "106. Malta - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "0c3d60275446f32475b5a951ceca5f29ca4f8e8dc45822c63f79986dc7cf2419",
+  "source": "106. Malta - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433104000000000,
+  "source_sha256": "a13e52b94933d366b3496b8d7ec95b8d23aa95722d9005fbbec0d7c69c6385f1",
+  "source_size": 308837
+ },
+ "106. Malta - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "a0a94a0783d6755661db40f6a327406272a1a9d30a04553cbea8abf785d095bd",
+  "source": "106. Malta - DomViol - English (b).pdf",
+  "source_mtime_ns": 1746433108000000000,
+  "source_sha256": "0bca9c973c6b359b7b6b6cacc21830c6bb6076ceb7c76fd22cdfaabd5257ac5f",
+  "source_size": 2116848
+ },
+ "107. Marshall Islands - DomViol - English": {
+  "format": "pdf",
+  "sha256": "0233f4329ae8b635fc0b9c4b0b3947154cc41a67aaafe02dd378f2f2d4034c90",
+  "source": "107. Marshall Islands - DomViol - English.pdf",
+  "source_mtime_ns": 1746433106000000000,
+  "source_sha256": "29de7acb166ef12c8c35143dc587080e664c1a6a4017bad3441f6a575b7ac1d2",
+  "source_size": 140521
+ },
+ "109. Mauritius - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "a9977871435f119df7eeb7fa44f1ad15fccd8734b185eb8ba8c7526488a9343f",
+  "source": "109. Mauritius - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433106000000000,
+  "source_sha256": "f25688c3508af74889d5f06acd75066aa7def94f20279eb3e6cb8d94689999cb",
+  "source_size": 252741
+ },
+ "109. Mauritius - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "2d007580a66291920201d43cb190d1c0126435375b3e5403e243280e7084eca2",
+  "source": "109. Mauritius - DomViol - English (b).pdf",
+  "source_mtime_ns": 1746433106000000000,
+  "source_sha256": "371045ce6ab38ad84c18276c4ae4646047fd90c89898c325e49c83a6f675f767",
+  "source_size": 175336
+ },
+ "11. Bahamas - DomViol - English": {
+  "format": "pdf",
+  "sha256": "9f1bff0b65e1933afd67a70f12a1a5beba4a33243acc0d6698b3a46dcc2e18f6",
+  "source": "11. Bahamas - DomViol - English.pdf",
+  "source_mtime_ns": 1777458580000000000,
+  "source_sha256": "434437dc8b9358a8fe6730e2fdb2a22b23ec4803590eebaa84d173848788ee29",
+  "source_size": 192143
+ },
+ "110. Mexico - DomViol - Spanish": {
+  "format": "pdf",
+  "sha256": "f673fcf3f5e4730e1208f87b417be204556c8fb58b7caaf63f70a8c1f97f72b8",
+  "source": "110. Mexico - DomViol - Spanish.pdf",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "5fd355765c765abdade6c9784cb388c7bee82a70ef1c1b96ab1526cccbca0cec",
+  "source_size": 2701196
+ },
+ "111. Micronesia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "69b3d34016acb215ece76a250738999c06b264d74788dbc59e2c1a1e8fb50314",
+  "source": "111. Micronesia - DomViol - English.pdf",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "e3e30f776a15d27298f9c687b65b540f4cc95376b274ee4ea4e14a04d6bcec55",
+  "source_size": 1514957
+ },
+ "112. Moldova - DomViol - Romanian": {
+  "format": "pdf",
+  "sha256": "a7a5a64a01b22da694cf96dac57a61bc7be85d5ca012c7c221cf0838230ed17b",
+  "source": "112. Moldova - DomViol - Romanian.pdf",
+  "source_mtime_ns": 1746433108000000000,
+  "source_sha256": "f10953b6e65ae88604f9868cd591976c144e0a4ce5ac30108f0ee93a480d41b9",
+  "source_size": 118015
+ },
+ "113. Mongolia - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "78613abac22af73fd1fdcbe18e4925c05eb5edaca0b55be2faec5c8827bd3fc2",
+  "source": "113. Mongolia - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433106000000000,
+  "source_sha256": "879e36f80b93b1e636f6ea86ebeee2fa9c4ad33fb83362ce4b2fcc25f9f271c2",
+  "source_size": 275357
+ },
+ "113. Mongolia - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "78613abac22af73fd1fdcbe18e4925c05eb5edaca0b55be2faec5c8827bd3fc2",
+  "source": "113. Mongolia - DomViol - English (b).pdf",
+  "source_mtime_ns": 1746433108000000000,
+  "source_sha256": "879e36f80b93b1e636f6ea86ebeee2fa9c4ad33fb83362ce4b2fcc25f9f271c2",
+  "source_size": 275357
+ },
+ "114. Montenegro - DomViol - Bosnian (a)": {
+  "format": "pdf",
+  "sha256": "9ab48773f2e23e218a7ed5c7cb486c19bd36e7fe7ad14355dccd4ed80f267250",
+  "source": "114. Montenegro - DomViol - Bosnian (a).pdf",
+  "source_mtime_ns": 1746433108000000000,
+  "source_sha256": "1b692a70956c498e8e1dc41519b3ba2533aeff56cb75bc2eca93431f49235663",
+  "source_size": 141215
+ },
+ "114. Montenegro - DomViol - Bosnian (b) - html": {
+  "format": "html",
+  "sha256": "9c25ee549a6c96256faae825dc34e741aabe8cb4ceaa7cbcd44b12f9e2fd2cc0",
+  "source": "114. Montenegro - DomViol - Bosnian (b) - html.html",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "e1f25b7d76ffecc3377914e26d6a0c0ba9c33fffe1b9ca24fb375e7f37ca195d",
+  "source_size": 461482
+ },
+ "115. Morocco - DomViol - Arabic": {
+  "format": "pdf",
+  "sha256": "f2933f7237be23e75395396c9838f89803824c3173a68c371dc80fec74f76130",
+  "source": "115. Morocco - DomViol - Arabic.pdf",
+  "source_mtime_ns": 1777460724000000000,
+  "source_sha256": "e6df781d9818dd757f68051d9f31fef88709871b74736fb35e8459b04b09455c",
+  "source_size": 472627
+ },
+ "116. Mozambique - DomViol - Portuguese (a)": {
+  "format": "pdf",
+  "sha256": "8dac1345833e4b32f980f93ed0b2c007faed6345dac72be12cf4a2053d7f2333",
+  "source": "116. Mozambique - DomViol - Portuguese (a).pdf",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "6bae631de4030faa6df8e1093665302b98ae5a3eb6dfbf45d55ec95fa8ed6a53",
+  "source_size": 471774
+ },
+ "116. Mozambique - DomViol - Portuguese (b)": {
+  "format": "pdf",
+  "sha256": "8f42274302314a776243eb61b0f788877ee6f39c114815d8b8e2c384276b8e42",
+  "source": "116. Mozambique - DomViol - Portuguese (b).pdf",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "a5e5d795669058f985cf0963bdff1c9c0719c68a1dff9981d9450302ebcb8eab",
+  "source_size": 897597
+ },
+ "118. Namibia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "9f33812e3f6835d9fe0851d213907003448765cef390727467fe9229d788fd9b",
+  "source": "118. Namibia - DomViol - English.pdf",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "b30efee84f3c2390097046ea47fa5add564707fd9e244007218560904b13ee89",
+  "source_size": 472047
+ },
+ "119. Nepal - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "5cbd6b1a2b5095a469c553d5311e7c3382fffa3c5f6e387967045509e5d72bdf",
+  "source": "119. Nepal - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "0aa1fbaba58363379a4bd4814ec80b3db29143f12a463893530de7f7db6039c7",
+  "source_size": 106610
+ },
+ "119. Nepal - DomViol - English (b) - html": {
+  "format": "html",
+  "sha256": "406d069569c3f7144f022210c03f0900cb5e00a61b9991dcdb623d0769883157",
+  "source": "119. Nepal - DomViol - English (b) - html.html",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "1604ab4d106b1f10974785703d4812d6cf0380f96908c014fc67d21b7ab3032e",
+  "source_size": 68725
+ },
+ "12. Bahrain - DomViol - English": {
+  "format": "pdf",
+  "sha256": "d648d4de4f2783da3e4a377771e416540356b57fcb2af45ebf6f116b7be647cb",
+  "source": "12. Bahrain - DomViol - English.pdf",
+  "source_mtime_ns": 1777458512000000000,
+  "source_sha256": "0a394c817e93f722dc75264364f5c4c7b0c9e3e16702924db8e5ae11354793b1",
+  "source_size": 414376
+ },
+ "120. Netherlands - DomViol - Dutch (a) - html": {
+  "format": "html",
+  "sha256": "5ce5cea579a338495055f5e3afef030b6b1cb81d851721128c0b4ad65fc2e677",
+  "source": "120. Netherlands - DomViol - Dutch (a) - html.html",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "503030875aded3d3d060447f4b6d6d9cea104bb6b27d2e0792694874126fb847",
+  "source_size": 120451
+ },
+ "120. Netherlands - DomViol - Dutch (b) - html": {
+  "format": "html",
+  "sha256": "d040c0568e952ea3d726926ae75548a21e4c6b8c54d3285e1eee06f5e98b04a1",
+  "source": "120. Netherlands - DomViol - Dutch (b) - html.html",
+  "source_mtime_ns": 1746433110000000000,
+  "source_sha256": "b5aa6283142241b3eb3833ee2b97d9774215dd69c78f9a0cdf74cd00647459c3",
+  "source_size": 1031401
+ },
+ "121. New Zealand - DomViol - English": {
+  "format": "pdf",
+  "sha256": "513e2540b5ef3f65f3613585ca430805a5c923782c2cb0c331815972a0eceee6",
+  "source": "121. New Zealand - DomViol - English.pdf",
+  "source_mtime_ns": 1746433112000000000,
+  "source_sha256": "0d171b2c1b0f0395b5813775735474df9e343b212b92629dfc3dfbb5a0db630e",
+  "source_size": 1078433
+ },
+ "122. Nicaragua - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "df146dad8284a0f2807c13da3e2281125781f21927532a32b2e48e64186bc774",
+  "source": "122. Nicaragua - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1746433112000000000,
+  "source_sha256": "83d8066cdd3881c8c66002f2e33bc0663f4d70b6b617263c1a75cbfe90f655b3",
+  "source_size": 205734
+ },
+ "122. Nicaragua - DomViol - Spanish (b)": {
+  "format": "pdf",
+  "sha256": "ad3e72ba724806fdb3f5b3ca9ab847d59c05e01ca3d732423e25a20f8f4ba50b",
+  "source": "122. Nicaragua - DomViol - Spanish (b).pdf",
+  "source_mtime_ns": 1746433112000000000,
+  "source_sha256": "5d9cca28659d77bf3c539900901199620f601f4ab447b0b9b2682875db63783e",
+  "source_size": 683857
+ },
+ "124. Nigeria - DomViol - English": {
+  "format": "pdf",
+  "sha256": "097490473b98dc7bf30ccdb9dbe439d2a32ad54f7f22e389e81508e0dcc5cfc8",
+  "source": "124. Nigeria - DomViol - English.pdf",
+  "source_mtime_ns": 1777460796000000000,
+  "source_sha256": "929e3bbf52b0b559be606b839500fa8ad749d2ecfa5ed3a307b0d02400560740",
+  "source_size": 232477
+ },
+ "125. North Macedonia - DomViol - Macedonian": {
+  "format": "pdf",
+  "sha256": "2cd8d34f9fe4df64ce15782086dc3a3dd926e5fc80d9a5aba17a81845fe05cde",
+  "source": "125. North Macedonia - DomViol - Macedonian.pdf",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "039aeeae6eddde7ea6cdd69514208ce3017620d91c407b693ec742890edd80cd",
+  "source_size": 348444
+ },
+ "126. Norway - DomViol - Norwegian - html": {
+  "format": "html",
+  "sha256": "726e1041e69dc4d97e5386a36d64704ec07f2fa245798f1879502a424964fbb6",
+  "source": "126. Norway - DomViol - Norwegian - html.html",
+  "source_mtime_ns": 1746433112000000000,
+  "source_sha256": "f9a76b1991c3d526bbde45bf1fa2aa0b0fffb6895917446e2f5cb77ff9441681",
+  "source_size": 149074
+ },
+ "128. Pakistan - DomViol - English": {
+  "format": "pdf",
+  "sha256": "7fbb11bc03d678c0b03716d59366e19f868c7d2867a1feab80f93330e1c6a747",
+  "source": "128. Pakistan - DomViol - English.pdf",
+  "source_mtime_ns": 1746433112000000000,
+  "source_sha256": "864472ac6bbd6c4bf0455128f3f280bd6cb213fb60f9b0b30527a9750df287d4",
+  "source_size": 105165
+ },
+ "129. Palau - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "129. Palau - DomViol - English.pdf",
+  "source_mtime_ns": 1777453380000000000,
+  "source_sha256": "40d1f7846b5e794fe932acc19fc64f60d29f11be3c394b2ad639efe65ff08e7b",
+  "source_size": 6620299
+ },
+ "13. Bangladesh - DomViol - English": {
+  "format": "pdf",
+  "sha256": "b31b7e6dc70ead56ac5d80949e80dca4c58ec5f7fe915033fb047426d3724383",
+  "source": "13. Bangladesh - DomViol - English.pdf",
+  "source_mtime_ns": 1746433112000000000,
+  "source_sha256": "90bc32a705e23a0eec19b5743acd927b3173f6ebbb2f2ec16b5456bbadaaefa1",
+  "source_size": 67298
+ },
+ "130. Panama - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "6faf7dafc1981fe1390244752a1f553131089e7198b56363d68b4c59543d170b",
+  "source": "130. Panama - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1746433112000000000,
+  "source_sha256": "5458c00b5fa0af7ca728d2c215cdb799d9324e44f295bc42a720c79a43a30cb1",
+  "source_size": 629022
+ },
+ "130. Panama - DomViol - Spanish (b) - html": {
+  "format": "html",
+  "sha256": "ef0ba5021920e0561f605d54e66b1a3aeee0976299296fbf50e4fc28fbefce48",
+  "source": "130. Panama - DomViol - Spanish (b) - html.html",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "a3236f3299cfa0f9bd722611a4207597938288c3b813fe1adb618ccce2248fb2",
+  "source_size": 193676
+ },
+ "131. Papua New Guinea - DomViol - English": {
+  "format": "pdf",
+  "sha256": "6bcb0767e99678c80fb9ff647736ea1cce120fbee665deb8b16c4af583e2db4b",
+  "source": "131. Papua New Guinea - DomViol - English.pdf",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "be10236a373425935e251a61d78c2ef47f137a5e3f087a937e24282075605f4c",
+  "source_size": 291672
+ },
+ "132. Paraguay - DomViol - Spanish": {
+  "format": "pdf",
+  "sha256": "98d131ad10ee75c6dc7eb91f654ecdfb8b9e8bd6f97b2f24548d9966668a313d",
+  "source": "132. Paraguay - DomViol - Spanish.pdf",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "ee1f9c8b84a94befdc24b95559a074fb27ef7414a0c14d693fef32ae33b01ebc",
+  "source_size": 532922
+ },
+ "133. Peru - DomViol - Spanish": {
+  "format": "pdf",
+  "sha256": "b9c433de83c5380d8080642f5e42c84f4e7837f37a905425af948152571ea4ab",
+  "source": "133. Peru - DomViol - Spanish.pdf",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "3592d312e832ed10a341b84a40dce08af3f351782a848e6b9d30e9d385a65ae4",
+  "source_size": 395478
+ },
+ "134. Philippines - DomViol - English - html": {
+  "format": "html",
+  "sha256": "43281e6204542164079ee5cedd89e842235485fb419b5899e04bf022c8730b27",
+  "source": "134. Philippines - DomViol - English - html.html",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "92b1bd2c64c2580c6006ae4f267ba7a2c3ae6fc532ff0398bba46f8141766ead",
+  "source_size": 82708
+ },
+ "135. Poland - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "d216b2b301a7ec07784e628edae6c8c3702519c66dafc22649136af3f58e393f",
+  "source": "135. Poland - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "7f9a1e835ff3f3a60e397dd059cfa95b5967505020035a22d58053cc884ef210",
+  "source_size": 240475
+ },
+ "135. Poland - DomViol - Polish (b)": {
+  "format": "pdf",
+  "sha256": "4c859e89dd6658c9dd586203cd043e96dc0e7069d5d6b51b44ee6f50232c405a",
+  "source": "135. Poland - DomViol - Polish (b).pdf",
+  "source_mtime_ns": 1746433116000000000,
+  "source_sha256": "49e06df45b56db6e0d14994860978f04826222f3ac308aaaa69bdec80649177e",
+  "source_size": 466507
+ },
+ "136. Portugal - DomViol - Potuguese": {
+  "format": "pdf",
+  "sha256": "e2d9161c47f6017488c195eb31bf31fa61c52e1d8107c339bdc03c23fcd3d82e",
+  "source": "136. Portugal - DomViol - Potuguese.pdf",
+  "source_mtime_ns": 1777460976000000000,
+  "source_sha256": "8e912a4dcfd83c7d2be6b190d90438db99a2ab684a50f981ce6e75d0da7c7d8d",
+  "source_size": 523263
+ },
+ "137. Puerto Rico - DomViol - Spanish": {
+  "format": "pdf",
+  "sha256": "aa252461aa49a388ed329779c013a4103d4da38145fe85a7d94ff26ff8ec798d",
+  "source": "137. Puerto Rico - DomViol - Spanish.pdf",
+  "source_mtime_ns": 1746433116000000000,
+  "source_sha256": "12bfd48bda17f141e18ac83347b16ce5cdbf5165a4e7ff50251910662dd11294",
+  "source_size": 816935
+ },
+ "139. Romania - DomViol - Romanian - html": {
+  "format": "html",
+  "sha256": "5e02b4946947c35595a552d185992c287f12cb6289d062440b0a6968da621c15",
+  "source": "139. Romania - DomViol - Romanian - html.html",
+  "source_mtime_ns": 1746433114000000000,
+  "source_sha256": "508c12b985251513ddb00206a549a7b0d55a1f882eec7c78423536f1db62edcd",
+  "source_size": 401007
+ },
+ "14. Barbados - DomViol - English": {
+  "format": "pdf",
+  "sha256": "f1128ce97e0c6c02d49854f34bb0b45755d51200891f0f339fa96d6e2e10d9db",
+  "source": "14. Barbados - DomViol - English.pdf",
+  "source_mtime_ns": 1746433116000000000,
+  "source_sha256": "dc917ad033f6f7125c34b81f7f86435fc3824dc49a51023a3d7ab024ffacb946",
+  "source_size": 973854
+ },
+ "141. Rwanda - DomViol - Kinyarwanda": {
+  "format": "pdf",
+  "sha256": "9a9b9d9ea81ec8b78eb0fbb22be87619e26963fc6ce10deab3d9bedd2f4c38ad",
+  "source": "141. Rwanda - DomViol - Kinyarwanda.pdf",
+  "source_mtime_ns": 1746433116000000000,
+  "source_sha256": "a6dbc7aeb4d21464bd72bb0ccbb8f2d4071edd0577133b828e37d075e78cc179",
+  "source_size": 1202759
+ },
+ "142. Samoa - DomViol - English": {
+  "format": "pdf",
+  "sha256": "47d7da8e309fd42c15253fcc5af476b3f7fccc50718557d2532e356bd426215f",
+  "source": "142. Samoa - DomViol - English.pdf",
+  "source_mtime_ns": 1777456570000000000,
+  "source_sha256": "750f7045ca0a3318d7964eba66eb1f2b39a52c6d893e55e5ccc8020decee645a",
+  "source_size": 288646
+ },
+ "143. San Marino - DomViol - Italian (a)": {
+  "format": "pdf",
+  "sha256": "2042330d34ce1a802e455e7cc2f1bbbbfbc2fdb485e91e7c796c9e2da7656814",
+  "source": "143. San Marino - DomViol - Italian (a).pdf",
+  "source_mtime_ns": 1746433116000000000,
+  "source_sha256": "683816ca8932fc4a494cb2225e630f6991e065587cc465d45ae8931ffe26754b",
+  "source_size": 67894
+ },
+ "143. San Marino - DomViol - Italian (b)": {
+  "format": "pdf",
+  "sha256": "a4add3150e8541dafc5af1c381ec68b2c60e6eed65881ca45c5237f2b0785945",
+  "source": "143. San Marino - DomViol - Italian (b).pdf",
+  "source_mtime_ns": 1746433116000000000,
+  "source_sha256": "bde3c3eb74d728952b5feb8a6f078568c9a1534ef2f5db3691f2d28762667660",
+  "source_size": 210369
+ },
+ "144. Saudi Arabia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "f9d69ac9f027bd4f5f42025adae081d5f8e3884a9eb2d170dc05a3791394e3a7",
+  "source": "144. Saudi Arabia - DomViol - English.pdf",
+  "source_mtime_ns": 1777461080000000000,
+  "source_sha256": "9a0400c03b43d3bdf5523ed4d6ac44da1af031697049d6b263e39ab34ec72cb8",
+  "source_size": 165476
+ },
+ "145. Senegal - DomViol - French": {
+  "format": "pdf",
+  "sha256": "a1f96c2f0c4be7f55687c016b03ee359ca8010c8913280bca414d33c937bb3e7",
+  "source": "145. Senegal - DomViol - French.pdf",
+  "source_mtime_ns": 1777461182000000000,
+  "source_sha256": "d2940d9e6afbb4abf832b29bad65f6b6af9bbdfea362d8f95dd9718d73bbe987",
+  "source_size": 476512
+ },
+ "146. Serbia - DomViol - Bosnian (a) - html": {
+  "format": "html",
+  "sha256": "debbbc6e99057e782bf28b1f69b6701b2c9d5d420d2ec7dd2d3af1bcf1606d3b",
+  "source": "146. Serbia - DomViol - Bosnian (a) - html.html",
+  "source_mtime_ns": 1780479376000000000,
+  "source_sha256": "21429ff94d077107dfbee4db0786b584030ae328d43d39f6ab47dce3d453dd06",
+  "source_size": 27149
+ },
+ "146. Serbia - DomViol - Bosnian (b)": {
+  "format": "pdf",
+  "sha256": "1c7342ab57d5934f584c24bc54c87b156cd8a49c46509ef89946e0c459d292e4",
+  "source": "146. Serbia - DomViol - Bosnian (b).pdf",
+  "source_mtime_ns": 1780479384000000000,
+  "source_sha256": "a57d3efca6549037b93962332e274ab2dd3109e11c89e83f0be9bbee1d00f654",
+  "source_size": 469621
+ },
+ "147. Seychelles - DomViol - English": {
+  "format": "pdf",
+  "sha256": "809cb099703ae6644400a28226ce2c702b4cbf9b096f3444bc5fd5c736fdab1a",
+  "source": "147. Seychelles - DomViol - English.pdf",
+  "source_mtime_ns": 1780479394000000000,
+  "source_sha256": "948d524d3f86575bdd030ba2999dde8d0a96aba89442165a40e1afb637bdc6b7",
+  "source_size": 581702
+ },
+ "148. Sierra Leone - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e7d98afee4610e3e35e42d5684fa832e9cd6ef0cbcffaa504cc64e7e7b223e20",
+  "source": "148. Sierra Leone - DomViol - English.pdf",
+  "source_mtime_ns": 1780479406000000000,
+  "source_sha256": "ebfe9e097886f36f4225ba0b8be437f1b5929b83d13c340a9293a47a5621555d",
+  "source_size": 53087
+ },
+ "149. Singapore - DomViol - English - html": {
+  "format": "html",
+  "sha256": "9fc34f299fb1326f8094b1ade2cca7cd79342534d924a8641b04d8aa029e551b",
+  "source": "149. Singapore - DomViol - English - html.html",
+  "source_mtime_ns": 1780479430000000000,
+  "source_sha256": "3a4e400d46b911fdef76d3d05e677cb51e32d9f32cd9936bc48956123c94eb66",
+  "source_size": 447063
+ },
+ "15. Belarus - DomViol - Russian - html": {
+  "format": "html",
+  "sha256": "8af07c0d9bcfd875b2da14e8df4d77f574e920c5eb97cd9273bcd1aefc863ca9",
+  "source": "15. Belarus - DomViol - Russian - html.html",
+  "source_mtime_ns": 1746433116000000000,
+  "source_sha256": "aaa4e0232a6f5b7a3e204949537ea7423be95446ae5b14228929310e50a3f066",
+  "source_size": 109098
+ },
+ "150. Slovak Republic - DomViol - Slovak - html": {
+  "format": "html",
+  "sha256": "f01b5bf487fc46b2e5e6fdcbad584d3a3bbc17fb2bc88ce0736c5e1695f25241",
+  "source": "150. Slovak Republic - DomViol - Slovak - html.html",
+  "source_mtime_ns": 1780479440000000000,
+  "source_sha256": "8e8c5c047bf35d433a2000161bb406d4273645ecfc735c5234d38bbca99482ee",
+  "source_size": 1108427
+ },
+ "151. Slovenia - DomViol - Slovenian (a)": {
+  "format": "pdf",
+  "sha256": "0d65921d3dcb8c89921b89287761a4c5a274d1ad137a7f2b4824382398b440fa",
+  "source": "151. Slovenia - DomViol - Slovenian (a).pdf",
+  "source_mtime_ns": 1780479452000000000,
+  "source_sha256": "84a110fb2e6eb1a0a8af1d907d031f68fb6d783ae85f18e7bbdbb37d415d11cd",
+  "source_size": 210903
+ },
+ "151. Slovenia - DomViol - Slovenian (b)": {
+  "format": "pdf",
+  "sha256": "63a395836858f6336ee35388c1fd38a1a60d330e808f60f690d140c8d795748e",
+  "source": "151. Slovenia - DomViol - Slovenian (b).pdf",
+  "source_mtime_ns": 1780479458000000000,
+  "source_sha256": "9af380dc5adba882636e2de3b3743b79a457a3c1e3b842ebce4b8bfa63884102",
+  "source_size": 879688
+ },
+ "151. Slovenia - DomViol - Slovenian (c) - html": {
+  "format": "html",
+  "sha256": "95bb6e9d57df98b4e37f24c016ca3f51cc95882d7beb2bc86a9333ba9749c7c0",
+  "source": "151. Slovenia - DomViol - Slovenian (c) - html.html",
+  "source_mtime_ns": 1780479466000000000,
+  "source_sha256": "104281d34a89fd57d39197535ec8628054c72b8262252c552cd647ffc5c959ac",
+  "source_size": 38496
+ },
+ "152. Solomon Islands - DomViol - English": {
+  "format": "pdf",
+  "sha256": "ab838a45ac0a21504a53fdfa2535715fb180062e5b3c47a18f6e59822cff16bb",
+  "source": "152. Solomon Islands - DomViol - English.pdf",
+  "source_mtime_ns": 1780479480000000000,
+  "source_sha256": "3639431760b2946afa9a68c95dfb070e0137d847242ce04a33a94003dd3a4413",
+  "source_size": 415273
+ },
+ "154. South Africa - DomViol - English": {
+  "format": "pdf",
+  "sha256": "02cddff689812e0c63a2ef36a4bee8db41d0088795f2a4b273776aace7b3e739",
+  "source": "154. South Africa - DomViol - English.pdf",
+  "source_mtime_ns": 1777461238000000000,
+  "source_sha256": "dd87d56c71505fc385b0b04cfc9f8df0e49a74d04481bdddf7906ba44e7663e1",
+  "source_size": 258676
+ },
+ "156. Spain - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "c393ff483d72bbfd8d4af832ea7835a65db10398e955d88d3036f37273c39b2a",
+  "source": "156. Spain - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "95a0b7c3c2953b25ee8883ca8139f3c34832a5f3f1821d42e71bd7c8af272f6c",
+  "source_size": 532847
+ },
+ "156. Spain - DomViol - Spanish (b)": {
+  "format": "pdf",
+  "sha256": "a55a86cb84136f17d16b7e93f4a9715e2b9b5182a4b8e917074d7d39915c2a9f",
+  "source": "156. Spain - DomViol - Spanish (b).pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "1ea899c0f0ecc4caf767a5e4fb145a524da587c5892dc45c7702b8e3d801877a",
+  "source_size": 1252476
+ },
+ "157. Sri Lanka - DomViol - English": {
+  "format": "pdf",
+  "sha256": "19d5fd1f0f706600fdf3f3b42424a8d6d15b4b33cdad6866024835eafccf5db7",
+  "source": "157. Sri Lanka - DomViol - English.pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "5aaa02057e992c305b98e4c0bf9ebe4e267e938ad3801beff7539ebb7ede11de",
+  "source_size": 55013
+ },
+ "158. St. Kitts and Nevis - DomViol - English": {
+  "format": "pdf",
+  "sha256": "31d32e61ac6dd4b2ee5e5fa9895521510d75a8ca4009b4b5ba788ebf657e8517",
+  "source": "158. St. Kitts and Nevis - DomViol - English.pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "f67175508f6d24e2c9454790c865093bf96f5c21bc84cfffdcaf4a8aff1f9b01",
+  "source_size": 252193
+ },
+ "159. St. Lucia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "3d615f74ec01e3fdb82458dcce362630954897ef015d161def400f1718cdc6bd",
+  "source": "159. St. Lucia - DomViol - English.pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "20bfea2dac37625268ebd4c1d463c5654f10d070516de7496a875a08dcda70e4",
+  "source_size": 400066
+ },
+ "16. Belgium - DomViol - French (a)": {
+  "format": "pdf",
+  "sha256": "9aa0c6469a15233b4bff2e454e4b5ab091159d4f3619b1b88585a820010d1355",
+  "source": "16. Belgium - DomViol - French (a).pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "be54d662458635059c244319387d74101e9b4cd21b7fc6db31cc094a44803ba6",
+  "source_size": 1657706
+ },
+ "16. Belgium - DomViol - French (b)": {
+  "format": "pdf",
+  "sha256": "8f2d24733f0a366542dbc981eb77be4fd5aaaad5b47631f4c3286e80adad4d82",
+  "source": "16. Belgium - DomViol - French (b).pdf",
+  "source_mtime_ns": 1777384436000000000,
+  "source_sha256": "4453dd1eab6f660b3935b1c7a59f1e5912e4dc63e1196d18e1092d94960a94cc",
+  "source_size": 2454985
+ },
+ "160. St. Vincent and and the Grenadines - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "160. St. Vincent and and the Grenadines - DomViol - English.pdf",
+  "source_mtime_ns": 1777461420000000000,
+  "source_sha256": "66bdf4d1376b54be29a9367ce1a9ca33e3d97301fdcb7ac458d5db202653ca23",
+  "source_size": 1297364
+ },
+ "164. Switzerland - DomViol - French": {
+  "format": "pdf",
+  "sha256": "f35a8c4aa29b04c1ce80e217ce2c21017c9a15ade74a557b6a07c0dd81d4da97",
+  "source": "164. Switzerland - DomViol - French.pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "307c1e907d29a744349bfc9f067cc265234258443f29c5f5c551851d88d0ef9a",
+  "source_size": 310521
+ },
+ "167. Taiwan - DomViol - English - html": {
+  "format": "html",
+  "sha256": "6be2db4c556f1a43ca30fe00d06befa5523477a236c41716bec522c1b8bf698c",
+  "source": "167. Taiwan - DomViol - English - html.html",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "a56dbce0ae1fcfc26d29db6eb68260d06d22648774ef435e52648c600deed59f",
+  "source_size": 88022
+ },
+ "168. Tajikistan - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "168. Tajikistan - DomViol - English.pdf",
+  "source_mtime_ns": 1777461642000000000,
+  "source_sha256": "96dcdaa1352a77d2b6a8576206d0128473ec4c6bd24ff6d4fc7f44e791a931af",
+  "source_size": 398288
+ },
+ "17. Belize - DomViol - English": {
+  "format": "pdf",
+  "sha256": "98f2a72bf40b20f2452e096d45eed79770225b5363055531ad5636695fb323ec",
+  "source": "17. Belize - DomViol - English.pdf",
+  "source_mtime_ns": 1777458654000000000,
+  "source_sha256": "2efed868fdc6f66236aefe7aabab9850829a3bba5772b327e676d308b8aaf593",
+  "source_size": 97602
+ },
+ "170. Thailand - DomViol - Thai": {
+  "format": "pdf",
+  "sha256": "68223f9d7c814609d650371344efaa268964e6f3776b3adc7b4fef0cba4c35da",
+  "source": "170. Thailand - DomViol - Thai.pdf",
+  "source_mtime_ns": 1746433120000000000,
+  "source_sha256": "340d25bfd5ae28ec6d31cf2b6bb14c17263e3805108d371d222472dafd1cf591",
+  "source_size": 227673
+ },
+ "171. Timor-Leste - DomViol - Portuguese (a) - html": {
+  "format": "html",
+  "sha256": "dae4d659ec29f91835448b7c7cdceb4941e4c31de76b7715c1a5a56390ae6d79",
+  "source": "171. Timor-Leste - DomViol - Portuguese (a) - html.html",
+  "source_mtime_ns": 1746433122000000000,
+  "source_sha256": "2a765b6fbc5b1c82ba8a1dd85654bacf28c8a7a5159903117e84fd3e299b9cb4",
+  "source_size": 51138
+ },
+ "171. Timor-Leste - DomViol - Portuguese (b)": {
+  "format": "pdf",
+  "sha256": "a6424b1e6f39353c37b8568cc97cdf73a53e6a2dbd0ded52cb0dba9c9c83052d",
+  "source": "171. Timor-Leste - DomViol - Portuguese (b).pdf",
+  "source_mtime_ns": 1746433122000000000,
+  "source_sha256": "a1162a683b349e11396503655867cd960cc25745fd9bec206fa65379412475aa",
+  "source_size": 1023071
+ },
+ "172. Togo - DomViol - French": {
+  "format": "pdf",
+  "sha256": "25110dc896dd925ddfa093d3a0b988889c215340799e4c0ecf758364d5a0cbcf",
+  "source": "172. Togo - DomViol - French.pdf",
+  "source_mtime_ns": 1777453830000000000,
+  "source_sha256": "907de063886b847d0a42357dc5933e59141f618fbb58d6dd2de3cbc602d1fae5",
+  "source_size": 17642062
+ },
+ "173. Tonga - DomViol - English": {
+  "format": "pdf",
+  "sha256": "0dc0da8192557accf5b975f9517266cb01aa9584f657816e661e4cc92ba500fe",
+  "source": "173. Tonga - DomViol - English.pdf",
+  "source_mtime_ns": 1746433122000000000,
+  "source_sha256": "47433324adf93e7876828c9297c5b149a3a56b02a58db2f8c8b82bf323f92a1b",
+  "source_size": 804319
+ },
+ "174. Trinidad and Tobago - DomViol - English": {
+  "format": "pdf",
+  "sha256": "423a8460203f2ef96016c0b4ae576e344e68a6602defa0e15d099ad0a853844e",
+  "source": "174. Trinidad and Tobago - DomViol - English.pdf",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "1c5b204da48718ffe978228040588d2ff6d5b92013c829037b5b955f2a43cb47",
+  "source_size": 16324098
+ },
+ "175. Tunisia - DomViol - French": {
+  "format": "pdf",
+  "sha256": "616846335867f72f5f7e7732a7b7ab16585f0e9467f140d9c3f20762de479b54",
+  "source": "175. Tunisia - DomViol - French.pdf",
+  "source_mtime_ns": 1777463436000000000,
+  "source_sha256": "5b401107cba3f8ba3cad0ac643fe5e90dc031e542cc694f3d89a73d3deabad71",
+  "source_size": 503784
+ },
+ "176. Turkiye - DomViol - Turkish (a)": {
+  "format": "pdf",
+  "sha256": "7881d20c73f55aaf624642a501424f5024b157fdc3e44630b3ad523ac8a647f2",
+  "source": "176. Turkiye - DomViol - Turkish (a).pdf",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "2f52d47ae075e92235e3592f9491592a0c96e0d9bd49d17c751cdda9ec07ed3b",
+  "source_size": 942777
+ },
+ "176. Turkiye - DomViol - Turkish (b)": {
+  "format": "pdf",
+  "sha256": "47192eb3e8f4ba3eb397939f717b6efd1177ed6a022aeab21bb037ec00e7ddf6",
+  "source": "176. Turkiye - DomViol - Turkish (b).pdf",
+  "source_mtime_ns": 1746433124000000000,
+  "source_sha256": "1ad8b48cd5fa60112cfe017d0d73084c051ddc9c2cc61a40c0de70f5df958776",
+  "source_size": 340083
+ },
+ "177. Uganda - DomViol - English": {
+  "format": "pdf",
+  "sha256": "f7bdc9c66c9b73acc9377df9ed1d9c309736a0285b0cdff9a46294a9c2b422a4",
+  "source": "177. Uganda - DomViol - English.pdf",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "e108b5ff08402d46224a69b435b8116c32dc8570ffae6ad4475c8e2fc382f716",
+  "source_size": 259939
+ },
+ "178. Ukraine - DomViol - Ukrainian (a) - html": {
+  "format": "html",
+  "sha256": "4e946049a609be7674932a0e31afdfab1dbe82c0770dc25f3d5043283d195071",
+  "source": "178. Ukraine - DomViol - Ukrainian (a) - html.html",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "dbf0d599623408aeacef2084d873cec7dc78e257cc4f73fe09010e1bc81958a6",
+  "source_size": 363955
+ },
+ "178. Ukraine - DomViol - Ukrainian (b) - html": {
+  "format": "html",
+  "sha256": "5d51d04468cb7849fe1211ff44e942067fdd78544eee446e79359709f67fac15",
+  "source": "178. Ukraine - DomViol - Ukrainian (b) - html.html",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "4e07b2c82870ab87592d3de3a19626c35a5b9d42a79acbaf725fe2a4c3d0f02e",
+  "source_size": 1956314
+ },
+ "179. United Arab Emirates - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e6afbb3bdca5722c425be7bf4ee8f0cc9a0bc5ac42c368095b10d530e60fcf01",
+  "source": "179. United Arab Emirates - DomViol - English.pdf",
+  "source_mtime_ns": 1777453918000000000,
+  "source_sha256": "30dd8352878e9329292ad8ef63eb0ab5a1f75a2a58234640077e840d9ecdc299",
+  "source_size": 96401
+ },
+ "18. Benin - DomViol - French": {
+  "format": "pdf",
+  "sha256": "280a3d5573699a116d3a46f60aab36d35488eba06a2f535c1560acc74a4205f1",
+  "source": "18. Benin - DomViol - French.pdf",
+  "source_mtime_ns": 1777458730000000000,
+  "source_sha256": "812bd11bc06d37c6e24037d606baed7703b20182607ae4dda0d4509b3204e9b5",
+  "source_size": 1329398
+ },
+ "180. United Kingdom - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "9e4b6652319b5cee8d9ae917ceecfdf31ff037e6fdc624b9ece5652db6958e91",
+  "source": "180. United Kingdom - DomViol - English (a).pdf",
+  "source_mtime_ns": 1777463498000000000,
+  "source_sha256": "a9915de31c0310fee60337abc54d7c3fb158a0221b17d5b19969b043f0724a69",
+  "source_size": 3143956
+ },
+ "180. United Kingdom - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "d34242d3d17a6b08ac75fcfba9666e24e7da30fd2067c2a1d6a05c434026e650",
+  "source": "180. United Kingdom - DomViol - English (b).pdf",
+  "source_mtime_ns": 1777463536000000000,
+  "source_sha256": "f615fe08bdd6a4023952e38a2e31f820b761bdf51c9692fca8e9a1ba51c05551",
+  "source_size": 4097279
+ },
+ "180. United Kingdom - DomViol - English (c)": {
+  "format": "pdf",
+  "sha256": "e150a965f45217f84d83e5c00b5f1eb86e2a9d2e1040ff698e8ed4bf9330acd3",
+  "source": "180. United Kingdom - DomViol - English (c).pdf",
+  "source_mtime_ns": 1777463582000000000,
+  "source_sha256": "49eb8a4a887b137382f4516e675d7e0d6e3fe552ed46313df6bd618b5d12d44b",
+  "source_size": 3794928
+ },
+ "181. United States - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "0b59de37a3ede3b7b1b434c9c587783f22746090b7a87053b6db62ddebad3c7a",
+  "source": "181. United States - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "5d24b486d2379a0da68e6d39d53f22b2b31ea05f070d174901555baa450c0fc9",
+  "source_size": 439548
+ },
+ "181. United States - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "93704d3ac6e597c28b3aa727fa07355128f889efb45d715de354562f68396250",
+  "source": "181. United States - DomViol - English (b).pdf",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "ce45e555be68fe0bfd012a3658415e137f4bc409d76f04e6b812e54999f7ac3c",
+  "source_size": 1098016
+ },
+ "182. Uruguay - DomViol - Spanish (a) - html": {
+  "format": "html",
+  "sha256": "145712b32698b7efb0acda39b7412469227e85d60155547e5cd9237fe0702cc3",
+  "source": "182. Uruguay - DomViol - Spanish (a) - html.html",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "1bc41fe9de33d3dfe5a507e11a0b7ec10dd659d9497be88ce47340a4ff13076e",
+  "source_size": 33703
+ },
+ "182. Uruguay - DomViol - Spanish (b) - html": {
+  "format": "html",
+  "sha256": "851d36e1b1c579041780b060201267a950400f145347945caec9fcdfea9a489e",
+  "source": "182. Uruguay - DomViol - Spanish (b) - html.html",
+  "source_mtime_ns": 1746433126000000000,
+  "source_sha256": "498c7ddda332dee071b9b2b9d2c046544f711ca38bd18397556cf8b0d28deb1f",
+  "source_size": 132576
+ },
+ "183. Uzbekistan - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "3bd210439c18a1959ad7cb8155c538c4b379e0574c180b9dd8f15c6b132f5f5f",
+  "source": "183. Uzbekistan - DomViol - English (a).pdf",
+  "source_mtime_ns": 1777454006000000000,
+  "source_sha256": "595aa27721b8a131583cfa71ff3e758de8876707f73bc11bda575791f914e6b0",
+  "source_size": 260166
+ },
+ "183. Uzbekistan - DomViol - Russian (b)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "183. Uzbekistan - DomViol - Russian (b).pdf",
+  "source_mtime_ns": 1777454400000000000,
+  "source_sha256": "62aeeb8d8f6dd69a4965125cd319e6b87be6b15abfd02e198eef4c4d8589ec5b",
+  "source_size": 82301937
+ },
+ "184. Vanuatu - DomViol - English": {
+  "format": "pdf",
+  "sha256": "4c2004f68232b9dd9d0ac61eeaf9bce849f7c4a79f8056a9de1eaf1ce71a5a6e",
+  "source": "184. Vanuatu - DomViol - English.pdf",
+  "source_mtime_ns": 1777457462000000000,
+  "source_sha256": "2addecdbe7dac6aacb73a3889921277a5acec3da857df3cedf279c864036470f",
+  "source_size": 298025
+ },
+ "185. Venezuela - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "f629a6f1244b4d2b491431780dd08aabcdbf70f93397277afe048b1a220a7d59",
+  "source": "185. Venezuela - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "008dfb337a402ef0240aaaeaf1039d682d314d3f28d707e2ec10f54feec83b96",
+  "source_size": 146104
+ },
+ "185. Venezuela - DomViol - Spanish (b)": {
+  "format": "pdf",
+  "sha256": "7c4fcce24bc25fd584639bb1fced1968c81708fcc65fdec07340f13e4796c6ab",
+  "source": "185. Venezuela - DomViol - Spanish (b).pdf",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "834e0197dc834a63af5f669a068f9d5c3f84be96b91f57089acb0b2b8ab31c35",
+  "source_size": 3421437
+ },
+ "186. Viet Nam - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "a1466b116e51a6b1f3b0eb7a41044f7360dfb0e662e22bf12dd3d4dafd524777",
+  "source": "186. Viet Nam - DomViol - English (a).pdf",
+  "source_mtime_ns": 1777457854000000000,
+  "source_sha256": "5c60e2a9ab42e770b2ef130d000cd71e59d1fdb586b1f37eac9a30f3cf0603d4",
+  "source_size": 1264923
+ },
+ "186. Viet Nam - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "186. Viet Nam - DomViol - English (b).pdf",
+  "source_mtime_ns": 1777457974000000000,
+  "source_sha256": "88e44c5952440b340a3ee1a509d55c577c3aafc505eb05739780b1ede5ca28de",
+  "source_size": 10554311
+ },
+ "189. Zambia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "fc94c25baad7753d6059c1d1fa5835fbbc6f2a63d6bd6cfc5287f579cc842fdb",
+  "source": "189. Zambia - DomViol - English.pdf",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "840b5ff70013dfbeb171dcb3b9a1309e6f787fa1c910cc94f46815c54a6ee3d2",
+  "source_size": 98709
+ },
+ "19. Bhutan - DomViol - Bhutanese": {
+  "format": "pdf",
+  "sha256": "e4765f5b542e364ed9892504b953b35d195b6d658debec481e1b8391c7e2b27e",
+  "source": "19. Bhutan - DomViol - Bhutanese.pdf",
+  "source_mtime_ns": 1777458790000000000,
+  "source_sha256": "f5ec0111ab5cc6ee3051e862fad156987a45acfdae36a96d54eb12b4c0ef5e92",
+  "source_size": 8224117
+ },
+ "190. Zimbabwe - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "190. Zimbabwe - DomViol - English.pdf",
+  "source_mtime_ns": 1777457724000000000,
+  "source_sha256": "7453743bcc27fde5493d419359f1213f6b123a366627f2af551c83e67cda5559",
+  "source_size": 5532376
+ },
  "2. Albania - DomViol - Albanian (a)": {
   "format": "pdf",
   "sha256": "ea6de84c429a69662313d125008c10dc126fe71ebe4cea09d9c12f06e14de740",
@@ -6,6 +910,822 @@
   "source_mtime_ns": 1746433130000000000,
   "source_sha256": "96f413370fee00ca722e611d887dd39d061fea3220b06c97d157633044bce6a8",
   "source_size": 205168
+ },
+ "2. Albania - DomViol - Albanian (b)": {
+  "format": "pdf",
+  "sha256": "660334508f7a790b773ae0c46519ca335da25458b6d92e5e84c0fadbbf4e7782",
+  "source": "2. Albania - DomViol - Albanian (b).pdf",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "3068da399b76182b6a8d1fdfa2b0b6c99a6cd457297201beb9b867acfa77091c",
+  "source_size": 584846
+ },
+ "20. Bolivia - DomViol - Spanish (a) - html": {
+  "format": "html",
+  "sha256": "5bcdd02956aa4497ad281a4c4e3bf51d47813d3c0dd26a61a499d898eef42f5a",
+  "source": "20. Bolivia - DomViol - Spanish (a) - html.html",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "b94954004255fae56f0e2ea3650c835a130aab13b04a5ec1d0187edfd240f37d",
+  "source_size": 124239
+ },
+ "20. Bolivia - DomViol - Spanish (b) - html": {
+  "format": "html",
+  "sha256": "555b33b4fb596bac50be69a4e56e5e11fd30761c4fea601ba4173823dcea8fc6",
+  "source": "20. Bolivia - DomViol - Spanish (b) - html.html",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "06c89669d5cc8d6b91b7f99f00a37bcd1d5f0efff0737091d5108fae6115800e",
+  "source_size": 564337
+ },
+ "20. Bolivia - DomViol - Spanish (c) - html": {
+  "format": "html",
+  "sha256": "7ef5eb8f4eca7638f05cbc9f13d9ee9d35b837e81fda64bbf550849a3476a51e",
+  "source": "20. Bolivia - DomViol - Spanish (c) - html.html",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "eb79a9dab43e8fd7f9a5221e8ace223e12202e1816c55470b19ebbe2f0c3b1a7",
+  "source_size": 1370730
+ },
+ "21. Bosnia and Herzegovina - DomViol - Bosnian (a) - html": {
+  "format": "html",
+  "sha256": "fc326a09b875f332aa8c2c72f83bb7ac8216100fd5cb40e18992ee5db9b471d0",
+  "source": "21. Bosnia and Herzegovina - DomViol - Bosnian (a) - html.html",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "1b8ab0d645ec623183a6cb8f5299023e7933b12f2dea1f52205541a5d81274ec",
+  "source_size": 53357
+ },
+ "21. Bosnia and Herzegovina - DomViol - Bosnian (b)": {
+  "format": "pdf",
+  "sha256": "d6a5c08049b65fe4b54a07b04f77a19aedaf7d45f4dc9f3ec1ec95fdcf30a25f",
+  "source": "21. Bosnia and Herzegovina - DomViol - Bosnian (b).pdf",
+  "source_mtime_ns": 1746433128000000000,
+  "source_sha256": "b86c829db7842f4ad73e78ad8d402bc43b23a49d193a20b2dfcd95665ec555e6",
+  "source_size": 109122
+ },
+ "22. Botswana - DomViol - English": {
+  "format": "pdf",
+  "sha256": "a842deca7ddffba205c929c7a82dfbfe28fd65b504954040ccf331e0e8f43dcb",
+  "source": "22. Botswana - DomViol - English.pdf",
+  "source_mtime_ns": 1777458858000000000,
+  "source_sha256": "03ca44ab1be0e52aea95e5b14d5375fd7c17d815704064b5edeac743f7867943",
+  "source_size": 106955
+ },
+ "23. Brazil - DomViol - Portuguese - html": {
+  "format": "html",
+  "sha256": "8b73357fd221f594be01faa017b4789f523ccb06a51e4731f42ecd69e2d82746",
+  "source": "23. Brazil - DomViol - Portuguese - html.html",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "0466e5882bdc89c565de6c37088bf26cc3f1c28f94c20cf6834ecdf337d629b1",
+  "source_size": 609383
+ },
+ "24. Brunei Darussalam - DomViol - English": {
+  "format": "pdf",
+  "sha256": "f5fa00a000450c8e5bc43e1f9486e553764dd3970bf216c2b35fa792abb5fa6e",
+  "source": "24. Brunei Darussalam - DomViol - English.pdf",
+  "source_mtime_ns": 1777459512000000000,
+  "source_sha256": "b03dc61adbeb2b59d65af9ada37793b8745b82876a43a779123e509bb358cf0d",
+  "source_size": 234590
+ },
+ "25. Bulgaria - DomViol - Bulgarian (a) - html": {
+  "format": "html",
+  "sha256": "132c06c74b8c74fefc935bc190f099d1e8f6df6189a7d94ae1bdd3ba5c9d7995",
+  "source": "25. Bulgaria - DomViol - Bulgarian (a) - html.html",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "93babf795ab3b0dee11a3930cafe7bc92cf205e119078d97b60203b20dbe032a",
+  "source_size": 272861
+ },
+ "25. Bulgaria - DomViol - Bulgarian (b) - html": {
+  "format": "html",
+  "sha256": "06f1bde35e26144859c3bb8d52aa2ecad8a20dd23bfc5e6ac16788fe7958ebe6",
+  "source": "25. Bulgaria - DomViol - Bulgarian (b) - html.html",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "0f68ff31b61d2512484eb30c19e77132f02d9c0672010e6567ff6d1b32269b51",
+  "source_size": 2886037
+ },
+ "26. Burkina Faso - DomViol - French": {
+  "format": "pdf",
+  "sha256": "d584933db398c82ed875004de08a570809d60b65abdd6020910c8eb933b96ee0",
+  "source": "26. Burkina Faso - DomViol - French.pdf",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "bef5ef077d1dbc520edf777875288f6298896b190cee4c111b06f00404e8954c",
+  "source_size": 1850341
+ },
+ "27. Burundi - DomViol - French": {
+  "format": "pdf",
+  "sha256": "a3708ed3c34094674015057dd1ee50bccd1f11d5f6df25ab2eab12f82418ff65",
+  "source": "27. Burundi - DomViol - French.pdf",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "57dabe4eaae9fef7fbb2bb5a5541cf8a1c2611566cf2c2641fd7336073c18e51",
+  "source_size": 686343
+ },
+ "28. Cabo Verde - DomViol - Portuguese": {
+  "format": "pdf",
+  "sha256": "34b5acf0f7625deb5d81bc612e4d0cb2c757c7aee99b67d38691f337c02235e7",
+  "source": "28. Cabo Verde - DomViol - Portuguese.pdf",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "b23e55588d2482e661110e573654ccdba7323e324daa5c44a5051cf4ef9911f9",
+  "source_size": 1205294
+ },
+ "29. Cambodia - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "9a20889b2141351dc54cc68394149543c2b145ae0a3bf6dbb02cc68dd9785733",
+  "source": "29. Cambodia - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "211de374da9c3b2056cce55d036809b83c791e8845fdcce52f103b27a4529d50",
+  "source_size": 106790
+ },
+ "29. Cambodia - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "3dd8027e8e8f754b06a7673272e02711e12b9afbf9afc2860d3e4f504e2fa5eb",
+  "source": "29. Cambodia - DomViol - English (b).pdf",
+  "source_mtime_ns": 1746433130000000000,
+  "source_sha256": "dc0b53ad29a4a0d18006f3778b34010311bf58966ae6b2a61735f817fa45a186",
+  "source_size": 910452
+ },
+ "3. Algeria - DomViol - French": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "3. Algeria - DomViol - French.pdf",
+  "source_mtime_ns": 1777458092000000000,
+  "source_sha256": "1a337d9aececc9a3320de5d09994de17f3e700dbead958576fec7ed779d09425",
+  "source_size": 13384498
+ },
+ "31. Canada - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "10acd92a9823291727babc63318bc8789f9e30f3bc6403a0624d020c398fe761",
+  "source": "31. Canada - DomViol - English (a).pdf",
+  "source_mtime_ns": 1777454534000000000,
+  "source_sha256": "cc9ba03d8101bcfefc34883bb5fd2c9bb8c8b31b96f4445f9106adaf58c944ec",
+  "source_size": 596416
+ },
+ "31. Canada - DomViol - English (b) - html": {
+  "format": "html",
+  "sha256": "71f944c1b394d8779e42281b24f2fc7498b04d17936786f19cb0f4cf49cfe4ad",
+  "source": "31. Canada - DomViol - English (b) - html.html",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "84a0c0468cd24a5c15ed524b2d043622da0455e3c28bb848563631bf8ed3e807",
+  "source_size": 435197
+ },
+ "32. Central African Republic - DomViol - French": {
+  "format": "pdf",
+  "sha256": "0a1efe89909025abca41a244d5e91122cfc1e17bb1f8b9e16b88e1e168f1e4b4",
+  "source": "32. Central African Republic - DomViol - French.pdf",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "686045dab7c780202fd446d3c8ce10cd596021442469820f793762bf2d6bea4e",
+  "source_size": 128465
+ },
+ "33. Chad - DomViol - French (a)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "33. Chad - DomViol - French (a).pdf",
+  "source_mtime_ns": 1777450028000000000,
+  "source_sha256": "fe73273e4618166bcabed1696cf5fd2fe36bd1d4e337d957be56b83bfd06d5e7",
+  "source_size": 11853417
+ },
+ "33. Chad - DomViol - French (b)": {
+  "format": "pdf",
+  "sha256": "b89b52d56125c9e244093ee6a00a00dc775acd3a2a3a432dfaef4633d9642214",
+  "source": "33. Chad - DomViol - French (b).pdf",
+  "source_mtime_ns": 1777450116000000000,
+  "source_sha256": "9a3833bdfdc6380ef11f380d786f18f79b06f94c22649b89b2c7be147136ea77",
+  "source_size": 1246018
+ },
+ "34. Chile - DomViol - Spanish": {
+  "format": "pdf",
+  "sha256": "9cb474421ee64d7aeed9be63fa58affa571cd91c92173b4e6c3ae39dac6a216e",
+  "source": "34. Chile - DomViol - Spanish.pdf",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "a2311d10cbc5e1030d1a62346ad907a22edf390c0a5ed1a214bec4da4d049b95",
+  "source_size": 72041
+ },
+ "35. China - DomViol - Chinese (b) - html": {
+  "format": "html",
+  "sha256": "15fdc5db6ca2be099c2629b089a4d1dd58d0384da13de61a5ab0918b44483336",
+  "source": "35. China - DomViol - Chinese (b) - html.html",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "4547f12c4eca4d3af1170bea9454d0fd0bb7e1a83bf5b509f9992879f82f018b",
+  "source_size": 25218
+ },
+ "35. China - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "35. China - DomViol - English (a).pdf",
+  "source_mtime_ns": 1777450522000000000,
+  "source_sha256": "2f5ef4bb8abf69c6f10d2612b427b370e30d0a6c70dd7154e9bb287fb452ad18",
+  "source_size": 4240900
+ },
+ "35. China - DomViol - English (c)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "35. China - DomViol - English (c).pdf",
+  "source_mtime_ns": 1777451124000000000,
+  "source_sha256": "837138af748393bd9dbe44d7e758df499587b6d3654fef076e1084bfafab6ffb",
+  "source_size": 83292128
+ },
+ "36. Colombia - DomViol - Spanish": {
+  "format": "pdf",
+  "sha256": "071a8741d6b4d2df46a44582dd77410eddf3647645e67743c9dc6cb8e0b8f9c1",
+  "source": "36. Colombia - DomViol - Spanish.pdf",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "ec550dce35c49eb4d04575ba589338f7921de8daad8c605426b242a9d319b490",
+  "source_size": 90654
+ },
+ "39. Congo, Rep - DomViol - French": {
+  "format": "pdf",
+  "sha256": "e4ad635d6f95887aa7fb7e0ad0c0eb1fef6cf4dff4a220cd7a576314e6019fbb",
+  "source": "39. Congo, Rep - DomViol - French.pdf",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "9a2140d901ba992538465d731565ec8d3598b671e8774b0424e5a547e7298210",
+  "source_size": 245616
+ },
+ "4. Angola - DomViol - Portuguese": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "4. Angola - DomViol - Portuguese.pdf",
+  "source_mtime_ns": 1777458280000000000,
+  "source_sha256": "9ccec8dded6ad3836c3d2ec80ad324c298c6e5e4ede79b3697248d1d73529b30",
+  "source_size": 7814453
+ },
+ "40. Costa Rica - DomViol - Spanish (a) - html": {
+  "format": "html",
+  "sha256": "6350664024ab5eceafb150ae0e5e002f3f6b91c799711b671e3a4575a632e8a3",
+  "source": "40. Costa Rica - DomViol - Spanish (a) - html.html",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "0c628dcb1efc6a7372e16c056111a3d1105d79cadd5ae1aeafed57e66c60ac6f",
+  "source_size": 183548
+ },
+ "40. Costa Rica - DomViol - Spanish (b) - html": {
+  "format": "html",
+  "sha256": "1a51be65791d1a6ce66540e2f2e4c2f1f555a430e6634922a9d8afe966f911b8",
+  "source": "40. Costa Rica - DomViol - Spanish (b) - html.html",
+  "source_mtime_ns": 1746433132000000000,
+  "source_sha256": "0e3cd6e47162569c7b243c09c74ebc21f45f56d75eaf00e9324d07b5dccd61ac",
+  "source_size": 188924
+ },
+ "41. Cote dIvoire - DomViol - French": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "41. Cote dIvoire - DomViol - French.pdf",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "57498d2398cced06b839a54467ce0aa2f15880ce7e4db74286093eef1601b0b4",
+  "source_size": 2466460
+ },
+ "42. Croatia - DomViol - Croatian (a) - html": {
+  "format": "html",
+  "sha256": "2111db07e8d6f94ab9da64f1965e49b7d95f0188c5a8616506146fdd7bc1c396",
+  "source": "42. Croatia - DomViol - Croatian (a) - html.html",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "790ec8b586b87f972cd041a3ea8fcaf6e8960ac127e7f6eefd81eb0bcffa9aa3",
+  "source_size": 67745
+ },
+ "42. Croatia - DomViol - Croatian (b) - html": {
+  "format": "html",
+  "sha256": "6f744ee8dd2dc480e4fabe4cdca75f3914a960517c45d34a2823c93888c98c64",
+  "source": "42. Croatia - DomViol - Croatian (b) - html.html",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "eb5ccb105311cd19d18eae19910a3df39de6eb7dcc6e441ef35d4f8c7c476bd1",
+  "source_size": 621746
+ },
+ "43. Cyprus - DomViol - Greek (a) - html": {
+  "format": "html",
+  "sha256": "ca319e1bed9398c9b453a21b5c97c1647c779200e6439ebfde006d6c4eaba73d",
+  "source": "43. Cyprus - DomViol - Greek (a) - html.html",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "cadaec5b626fb7429fdc0592497bcb9314e64ed4596f579ba2cc46650324ff38",
+  "source_size": 84006
+ },
+ "43. Cyprus - DomViol - Greek (b)": {
+  "format": "pdf",
+  "sha256": "d35c163aad87022d5e7884993256a3912cda7eefd9ad6cd0af5dd2b32b5ba74a",
+  "source": "43. Cyprus - DomViol - Greek (b).pdf",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "cc9e1b32cf2dd394ab1627b2f2e83c1449079134d8eb5604afbcf169a882ba94",
+  "source_size": 594116
+ },
+ "44. Czechia - DomViol - Czech (a) - html": {
+  "format": "html",
+  "sha256": "fce01090fb7fd38cef9b5b600e15af9b857d42dcd843d7bc4634a0354655bb3c",
+  "source": "44. Czechia - DomViol - Czech (a) - html.html",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "08c341bfe38a643ee23d937527c8b5bd3baf6883ef54789d28715828892c7de4",
+  "source_size": 41738
+ },
+ "44. Czechia - DomViol - Czech (b) - html": {
+  "format": "html",
+  "sha256": "e8e5b0522f8eafb49a1ba2560b0534661e77850b70861341f6c61ccad84dabc4",
+  "source": "44. Czechia - DomViol - Czech (b) - html.html",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "6a426a538e416898e8daef83e83c75e25a8c9b32c208d9de44801782e7f945c4",
+  "source_size": 749888
+ },
+ "44. Czechia - DomViol - Czech (c) - html": {
+  "format": "html",
+  "sha256": "af9b381e389b1900174d38977d687653f3ffac2ec2a691ee5a941c65145dc480",
+  "source": "44. Czechia - DomViol - Czech (c) - html.html",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "ce452189e98d73b4ab1be7721bc686f16453f80aa8b45405c63e12dfc02127ff",
+  "source_size": 116181
+ },
+ "44. Czechia - DomViol - Czech (d) - html": {
+  "format": "html",
+  "sha256": "940cd12e676f02b067b0660f4f1c70623ce780d866c024337f247f7d4a2cc38d",
+  "source": "44. Czechia - DomViol - Czech (d) - html.html",
+  "source_mtime_ns": 1777451104000000000,
+  "source_sha256": "e72639499a0877f6873d2aab723594fc7abc33bba99616ba3c7877738b964bc1",
+  "source_size": 117055
+ },
+ "45. Denmark - DomViol - Danish (a)": {
+  "format": "pdf",
+  "sha256": "1b085e5f711e49cf1bbdf54991698aaab69f69dc970b97a8b05f1a6c3517da50",
+  "source": "45. Denmark - DomViol - Danish (a).pdf",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "7d480841b66f90dd26f1e62435653a3a6a07aed53511f3fea29dff6a1c2a22cd",
+  "source_size": 1117394
+ },
+ "45. Denmark - DomViol - Danish (b)": {
+  "format": "pdf",
+  "sha256": "4e296004defe0e964578318656a78a52b66bed0f89964d3bc173fdece984c45d",
+  "source": "45. Denmark - DomViol - Danish (b).pdf",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "a4e9c937e6e7f17077f0c428157632ee2401ac3ffafe4355e8c95a1c2fd4f50c",
+  "source_size": 208005
+ },
+ "46. Djibouti - DomViol - French": {
+  "format": "pdf",
+  "sha256": "e8b7d379d8f89e81b3fd2c8b89029b2fc665e7f8622c02ddbf6e48506deb624d",
+  "source": "46. Djibouti - DomViol - French.pdf",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "0725ed31f8c1abff98b34d585093bf8a6470e8a69a1fe66f151998cd08c674d0",
+  "source_size": 2642991
+ },
+ "47. Dominica - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "47. Dominica - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "9f0854d430e8b73e0b82eba6f30f7dc8a22d5519956bd92e4bbb53c3985ca79d",
+  "source_size": 1316370
+ },
+ "47. Dominica - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "3274ddb944937e0878fadae005235841372a9902da2ab4d01fbee3e0d4de4c49",
+  "source": "47. Dominica - DomViol - English (b).pdf",
+  "source_mtime_ns": 1777451480000000000,
+  "source_sha256": "adb0f2265c7a77ba57b1838850b41c31950cf360d849898e29fd82edb4ff78c8",
+  "source_size": 261983
+ },
+ "48. Dominican Republic - DomViol - Spanish": {
+  "format": "pdf",
+  "sha256": "0673b849417e0fd7975e2ea86694c366f22753fd7345bf01f2281d391264966e",
+  "source": "48. Dominican Republic - DomViol - Spanish.pdf",
+  "source_mtime_ns": 1777451600000000000,
+  "source_sha256": "456c9a718552ebdd0dd251a7161c796a11ecfb691be9ab409c2bb0ceb6ebe2ae",
+  "source_size": 620593
+ },
+ "49. Ecuador - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "454ffe3d0d8dfd6b48e78a3f35ccbfeed94704d00fc497ed1aa68e06c4c9588d",
+  "source": "49. Ecuador - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1777451750000000000,
+  "source_sha256": "bb5e4ce29b5d7d4933cd0e9bbe92d73a67def5848f30ab5f56ce6bd2cb49923e",
+  "source_size": 809648
+ },
+ "49. Ecuador - DomViol - Spanish (b)": {
+  "format": "pdf",
+  "sha256": "f4d29d9127a5cb54f7c7435fdcaa8a0e8111d83f1b8f79383eeedafc825e29f6",
+  "source": "49. Ecuador - DomViol - Spanish (b).pdf",
+  "source_mtime_ns": 1746433134000000000,
+  "source_sha256": "ae21a3498c4557a471a83598157b041bcf6be613b65cb5d7037081f25c4db6e8",
+  "source_size": 124936
+ },
+ "5. Antigua and  Barbuda - DomViol - English": {
+  "format": "pdf",
+  "sha256": "7153274bb6e22c6319205cbfe3cd575500a58956827bdc0cfd0320d699c393ab",
+  "source": "5. Antigua and  Barbuda - DomViol - English.pdf",
+  "source_mtime_ns": 1777458326000000000,
+  "source_sha256": "00d34cdbbcf5a2e5c4709831dea822cf3430a37edef7105725a7877bd8bb3a2a",
+  "source_size": 309934
+ },
+ "50. Egypt - DomViol - Arabic": {
+  "format": "pdf",
+  "sha256": "fdf3632e65377fd72d5fc8c181996fe4edbb8f705e6eea81df757b74ef5663e8",
+  "source": "50. Egypt - DomViol - Arabic.pdf",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "0f1004fc9817a0a0f2399e5b7ca8a7565c2ab6891387c918eb00fb9c9ae3e8f5",
+  "source_size": 409893
+ },
+ "51. El Salvador - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "51. El Salvador - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1777455036000000000,
+  "source_sha256": "fc47aa931fb8356fcee8e470e8bc066cd9ce2aad6a549237a731f56cf4786286",
+  "source_size": 7430811
+ },
+ "51. El Salvador - DomViol - Spanish (b)": {
+  "format": "pdf",
+  "sha256": "168536d19809479f0f3bcc3111f4081c6db750326ab717ee29e116244cebde69",
+  "source": "51. El Salvador - DomViol - Spanish (b).pdf",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "4b839961c9f431a8076ab4c341b4829f483de431ef9bcc6965fc630bd8810145",
+  "source_size": 125422
+ },
+ "54. Estonia - DomViol - Estonian": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "54. Estonia - DomViol - Estonian.pdf",
+  "source_mtime_ns": 1777455112000000000,
+  "source_sha256": "f307a77223be71809720bcb76cd8cad51daeaa88ad0ab78eaed60e880da1bf7c",
+  "source_size": 2515077
+ },
+ "55. Eswatini - DomViol - English": {
+  "format": "pdf",
+  "sha256": "c817b0d2f6ccc21c3d931323fa2ecf4446e35e75a36395af4343c9d09855a7ff",
+  "source": "55. Eswatini - DomViol - English.pdf",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "b094cf826b03ab27b6b1b5dc0620501a356912427cb2b91af4550cbb6a52b78b",
+  "source_size": 830091
+ },
+ "56. Ethiopia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "df7e57b793b3ceaca8ee1847569caefafcf5e64ef57152329614d0b49ff7a73d",
+  "source": "56. Ethiopia - DomViol - English.pdf",
+  "source_mtime_ns": 1777459664000000000,
+  "source_sha256": "1078743579cf60bf1d27c5d033f23bce2592450ec33efbb1d0c4f0210831a3ed",
+  "source_size": 774103
+ },
+ "57. Fiji - DomViol - English - html": {
+  "format": "html",
+  "sha256": "8337157a9b44673f892eb067ff31b6fda0ef5fd325dcbd062ca94896c922fed1",
+  "source": "57. Fiji - DomViol - English - html.html",
+  "source_mtime_ns": 1777459736000000000,
+  "source_sha256": "1889ea1585677dbe8e20ed1c3b08be7859bdda1cb875b2ab9c11184a04d0e4a0",
+  "source_size": 101455
+ },
+ "58. Finland - DomViol - Swedish": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "58. Finland - DomViol - Swedish.pdf",
+  "source_mtime_ns": 1777455162000000000,
+  "source_sha256": "2dbfe45a025d47f69188526f397619fbf752ea66093e2f58f300d84b84559f86",
+  "source_size": 4582689
+ },
+ "59. France - DomViol - French - html": {
+  "format": "html",
+  "sha256": "699db39cb5f8e4bed67d8c7ef40c954bdfbf31fe018ce3d9cb1c0900e720108f",
+  "source": "59. France - DomViol - French - html.html",
+  "source_mtime_ns": 1777459900000000000,
+  "source_sha256": "8c4dd50fe371b2dd26848aeeec0ab2f750dbb333006b881b78a480dd7fdafaa6",
+  "source_size": 121532
+ },
+ "6. Argentina - DomViol - Spanish (a) - html": {
+  "format": "html",
+  "sha256": "a7ff1a24627e73c2f87b464252048eb8b6f976d8187570ff51fc927fc13bcea7",
+  "source": "6. Argentina - DomViol - Spanish (a) - html.html",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "05f718cd74194d2b32f6cac65c3cb2ebb1c615fe41e0d952d94f50dcf3ae1d78",
+  "source_size": 6941
+ },
+ "6. Argentina - DomViol - Spanish (b) - html": {
+  "format": "html",
+  "sha256": "486c7e9e6d372ce3509f0ba0a21ae0455398c85d94bc4013a75b4a46a3b3d263",
+  "source": "6. Argentina - DomViol - Spanish (b) - html.html",
+  "source_mtime_ns": 1746433136000000000,
+  "source_sha256": "00feeba6cee57a7d970362c44bb9a470a1fe3609fc1b06ca60c4fefa21519de7",
+  "source_size": 99761
+ },
+ "60. Gabon - DomViol - French": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "60. Gabon - DomViol - French.pdf",
+  "source_mtime_ns": 1777455206000000000,
+  "source_sha256": "750c4d320c6f783ab090d157b2cc59d93796656ccafd3cee24b0e9d15e18b788",
+  "source_size": 3799446
+ },
+ "61. Gambia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "61. Gambia - DomViol - English.pdf",
+  "source_mtime_ns": 1746433142000000000,
+  "source_sha256": "2e841d835890c86c8c13bfdae739ad6a01c6aab440fe163654695225095e7cb2",
+  "source_size": 19356160
+ },
+ "62. Georgia - DomViol - Georgian": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "62. Georgia - DomViol - Georgian.pdf",
+  "source_mtime_ns": 1777455388000000000,
+  "source_sha256": "e160b047ba943a935763295cda870e92d009a640ba067d9cbcb4b03eb08bc72b",
+  "source_size": 18683144
+ },
+ "63. Germany - DomViol - German": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "63. Germany - DomViol - German.pdf",
+  "source_mtime_ns": 1777455288000000000,
+  "source_sha256": "93e66397a680554817e973998de2fe8da18197da1a61e5d79a6ea85f82c8e1d5",
+  "source_size": 1259897
+ },
+ "64. Ghana - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "64. Ghana - DomViol - English.pdf",
+  "source_mtime_ns": 1777460062000000000,
+  "source_sha256": "28660a161839466421a42ca333620cec0c1e922ecb5b86368c2419dd3a7fe836",
+  "source_size": 5656754
+ },
+ "65. Greece - DomViol - Greek": {
+  "format": "pdf",
+  "sha256": "19cb758d8185324580b6c6f59c33e8efe563448cf2cf999aa3dfcd4d40b9a77a",
+  "source": "65. Greece - DomViol - Greek.pdf",
+  "source_mtime_ns": 1777451882000000000,
+  "source_sha256": "54ac9acb11e9628315191032dc659c92f284fecc16fcbf7e2c36c8c1839f4d22",
+  "source_size": 160101
+ },
+ "66. Grenada - DomViol - English": {
+  "format": "pdf",
+  "sha256": "0effcea5104467ba034a70fac92b9f71efe6c094a67cc83c3cff7408729bb196",
+  "source": "66. Grenada - DomViol - English.pdf",
+  "source_mtime_ns": 1777460092000000000,
+  "source_sha256": "7dbb3033accb8d385d3157a5d39ebca7fbe42ee867a40e44a7e51fcb3f3e67c8",
+  "source_size": 381970
+ },
+ "67. Guatemala - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "15b62b2c51a818a652c47ff4a4ce3245f428ffa79c93eb10df70c07c148ed5d9",
+  "source": "67. Guatemala - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1746433142000000000,
+  "source_sha256": "723901cccae4f25395e9f130110262efe17743703f26ad3cefe6ada18fc5a099",
+  "source_size": 180809
+ },
+ "67. Guatemala - DomViol - Spanish (b)": {
+  "format": "pdf",
+  "sha256": "0c04b45d4ccf9334281d3c830cd55a861a7072b9fdeb09751fea726f19a9c09f",
+  "source": "67. Guatemala - DomViol - Spanish (b).pdf",
+  "source_mtime_ns": 1746433142000000000,
+  "source_sha256": "f7abbe509c8a0844a754d152ddc7d26dc18a363ddf86b68b5c6933a1911ddad0",
+  "source_size": 709484
+ },
+ "7. Armenia - DomViol - Armenian": {
+  "format": "pdf",
+  "sha256": "c456349ea6ba57d3d685a58d3ed4ee81b8e6863052e3f6b78600423ef7174da4",
+  "source": "7. Armenia - DomViol - Armenian.pdf",
+  "source_mtime_ns": 1746433142000000000,
+  "source_sha256": "49365efc903078a816bafe7c367daa91d2682bf5d891e5abaa1cf14ed0602aa4",
+  "source_size": 161220
+ },
+ "7. Armenia - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "b315e8ada490b16e0549fe5dc77955e29b09373b0e25b6a40013773446c1c748",
+  "source": "7. Armenia - DomViol - English (a).pdf",
+  "source_mtime_ns": 1777384162000000000,
+  "source_sha256": "1b3d52407d4bc4ae210302c42ba15a0e19e1d5edb066e895d549d1652fd486be",
+  "source_size": 358517
+ },
+ "7. Armenia - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "53591a935708e1a0b87913afa93b3d159a5ed9bed68e9093d461653481c434a4",
+  "source": "7. Armenia - DomViol - English (b).pdf",
+  "source_mtime_ns": 1777384264000000000,
+  "source_sha256": "b191843b71f1ff1509118755531d693e6a0f498bd0abe12884fa487be414442c",
+  "source_size": 2093997
+ },
+ "70. Guyana - DomViol - English": {
+  "format": "pdf",
+  "sha256": "1f57b466570a3b91e508f9216d9c0a65c74639fd0ca2af2725da31a82630c215",
+  "source": "70. Guyana - DomViol - English.pdf",
+  "source_mtime_ns": 1777452048000000000,
+  "source_sha256": "5e0bf14893b844528d32580ede5190e70ee5ada282b8c3f3d4b78c4c481d6355",
+  "source_size": 7737106
+ },
+ "72. Honduras - DomViol - Spanish (a)": {
+  "format": "pdf",
+  "sha256": "c420ff3e2d22c6eade73229ef6b8d65f84121a8203b1930fd94d443c1e4ddf4a",
+  "source": "72. Honduras - DomViol - Spanish (a).pdf",
+  "source_mtime_ns": 1777452390000000000,
+  "source_sha256": "9a9e321d50371aca65232a4e183c44e0c988cc3fdb44cd543070dde84661c275",
+  "source_size": 879293
+ },
+ "72. Honduras - DomViol - Spanish (b)": {
+  "format": "pdf",
+  "sha256": "9244cc37ea6117ce72d33a4bec8ca4b3be0a2f75e777932afaf322d2635e2b6c",
+  "source": "72. Honduras - DomViol - Spanish (b).pdf",
+  "source_mtime_ns": 1777452502000000000,
+  "source_sha256": "f4c061b5305186b3ea6c9bf672b94c462398317815a54ef52e440ae2c36aa725",
+  "source_size": 190189
+ },
+ "72. Honduras - DomViol - Spanish (c)": {
+  "format": "pdf",
+  "sha256": "d6d5a74848c0e812f23b2455f14039be6183c80411796a6af005b115f6199ba2",
+  "source": "72. Honduras - DomViol - Spanish (c).pdf",
+  "source_mtime_ns": 1777452522000000000,
+  "source_sha256": "7cf11f552824cdcabe8530c2e947395be25c0656ba2a25df9c2eded20b72be6d",
+  "source_size": 113803
+ },
+ "73. Hong Kong - DomViol - English - html": {
+  "format": "html",
+  "sha256": "0180efeb7b365c11a8f7eaf6e9f3c600bc00950ed22a56128cef20701254f5cf",
+  "source": "73. Hong Kong - DomViol - English - html.html",
+  "source_mtime_ns": 1777465498000000000,
+  "source_sha256": "2198d3a5f1990776d7e9102a26585e325de8bf95a4bba372ed2085074b934b26",
+  "source_size": 106727
+ },
+ "74. Hungary - DomViol - Hungarian (a)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "74. Hungary - DomViol - Hungarian (a).pdf",
+  "source_mtime_ns": 1777455462000000000,
+  "source_sha256": "ae848c445636b2c6b7a91606e32bb23e4c6d54cd3d28eec97693e425f322d4a8",
+  "source_size": 7019307
+ },
+ "74. Hungary - DomViol - Hungarian (b) - html": {
+  "format": "html",
+  "sha256": "d151f6a58f6af503318ce1a842b65717a5498b345622319372e6f50026f04ef6",
+  "source": "74. Hungary - DomViol - Hungarian (b) - html.html",
+  "source_mtime_ns": 1746433142000000000,
+  "source_sha256": "3084ef5ecaadda710af2a9d218c94dfc2ca22ba5ad12963bb6e7b60b2302e14b",
+  "source_size": 1210941
+ },
+ "75. Iceland - DomViol - Icelandic (a)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "75. Iceland - DomViol - Icelandic (a).pdf",
+  "source_mtime_ns": 1777455662000000000,
+  "source_sha256": "20e66ecc07e13d223c308ab7d8b916a3fe887e4ef9497e93938c00319f77620b",
+  "source_size": 3889292
+ },
+ "75. Iceland - DomViol - Icelandic (b)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "75. Iceland - DomViol - Icelandic (b).pdf",
+  "source_mtime_ns": 1777455810000000000,
+  "source_sha256": "d6ae17d505d457b2cc2d1c5a554248c1eb376d9c52a7d913cee7b89e0005d6bc",
+  "source_size": 29421805
+ },
+ "76. India - DomViol - English": {
+  "format": "pdf",
+  "sha256": "f41f84751c00ff4b02af01bcdbc91cf1bb1b60718f6b2dcb0f27bd10cc154703",
+  "source": "76. India - DomViol - English.pdf",
+  "source_mtime_ns": 1746433144000000000,
+  "source_sha256": "65eba6c2b14f1ba09d48ec8d22c48189959678c2eb7622f92d079126c1724e38",
+  "source_size": 544801
+ },
+ "77. Indonesia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "cba2a18cab015eac6a271d6c5de2e27c76b854a657567ccd77fbbe6d39b48b17",
+  "source": "77. Indonesia - DomViol - English.pdf",
+  "source_mtime_ns": 1746433144000000000,
+  "source_sha256": "ba87278c504c3ec83f5d1bbc5586e577a8cd818884349fccf6ea9af2976ffa2b",
+  "source_size": 193455
+ },
+ "8. Australia - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "cb8557f87d4a2ab7b54c77f4f001f35d40c69b73663f854873ba491caf25028b",
+  "source": "8. Australia - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433144000000000,
+  "source_sha256": "8918569e4052bdcc4fd78949c2bb73b8a92fba62a8b77d02889a0aa2d565cb0f",
+  "source_size": 496655
+ },
+ "8. Australia - DomViol - English (b1)": {
+  "format": "pdf",
+  "sha256": "720a5f792b1e38e298b870d990dda02904bc8f90e6414990064718b22bae8f80",
+  "source": "8. Australia - DomViol - English (b1).pdf",
+  "source_mtime_ns": 1746433146000000000,
+  "source_sha256": "0054acf81eb68df05629bc60b1d295503bf635256475f4149f4cc334ef6853a5",
+  "source_size": 3004665
+ },
+ "8. Australia - DomViol - English (b2)": {
+  "format": "pdf",
+  "sha256": "c67672fd9da7b11e5014a1eb748fe550d5729137e1dae0cec5c295da0a2666c7",
+  "source": "8. Australia - DomViol - English (b2).pdf",
+  "source_mtime_ns": 1746433146000000000,
+  "source_sha256": "bf147800cbc9741aed660489fe4a47089ced3454dbc5c1d9334a3a3debbf7aab",
+  "source_size": 4854259
+ },
+ "80. Ireland - DomViol - English": {
+  "format": "pdf",
+  "sha256": "19f11e50a462199ba801567b6ba861fa25eb6c947c9db6e734858476aee4fea3",
+  "source": "80. Ireland - DomViol - English.pdf",
+  "source_mtime_ns": 1777460348000000000,
+  "source_sha256": "6dcc2440c1d396b5598e3b866d0e1af79e65bc02fb7a0e771a147655047a1b25",
+  "source_size": 588438
+ },
+ "81. Israel - DomViol - Hebrew": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "81. Israel - DomViol - Hebrew.pdf",
+  "source_mtime_ns": 1777456000000000000,
+  "source_sha256": "01c8c8b0e97b32b438934433ded4b04947c01c0b4812884565d7de98814269f6",
+  "source_size": 2310059
+ },
+ "82. Italy - DomViol - English (c)": {
+  "format": "pdf",
+  "sha256": "5fc734320129bcd0997708c0e6a78c0197bb9846b5feb0f9de9efa795ebf3352",
+  "source": "82. Italy - DomViol - English (c).pdf",
+  "source_mtime_ns": 1777452838000000000,
+  "source_sha256": "ad40f1ffd5b0b13535f8fedd76852f4f297b3ad32ac7739e881d6cb12c8ecd2d",
+  "source_size": 276142
+ },
+ "82. Italy - DomViol - Italian (a) - html": {
+  "format": "html",
+  "sha256": "f3492dc5e9b56aaf43040bcc9447484030f3ab21729a0c46d05c9d67e587798a",
+  "source": "82. Italy - DomViol - Italian (a) - html.html",
+  "source_mtime_ns": 1777452718000000000,
+  "source_sha256": "17d23258615f0b469c8b1226f19e8a30d2522be2df764085c85f48982df27857",
+  "source_size": 17369
+ },
+ "82. Italy - DomViol - Italian (b) - html": {
+  "format": "html",
+  "sha256": "a4fc72b891e8964956bf30264c1a9be45e2c209a8a1d2fe59baada1953573211",
+  "source": "82. Italy - DomViol - Italian (b) - html.html",
+  "source_mtime_ns": 1746433144000000000,
+  "source_sha256": "25d0022dbeed6cc566b608eb95595151affd4c9f2f2647408245ceeac8c9593f",
+  "source_size": 73653
+ },
+ "82. Italy - DomViol - Italian (d) - html": {
+  "format": "html",
+  "sha256": "6509e134b262be0919c3f20b987f416527d8e651682cc36a44a88a9b904cce2e",
+  "source": "82. Italy - DomViol - Italian (d) - html.html",
+  "source_mtime_ns": 1777452884000000000,
+  "source_sha256": "988fa75e9f65003e2bd53df5984c8a5f63a80503334864311395450d35f051ca",
+  "source_size": 20706
+ },
+ "82. Italy - DomViol - Italian (e) - html": {
+  "format": "html",
+  "sha256": "2190dfccea3ac6d8b523bd1cf40f5bdc53ef1dbfc6517ab7fa69a5ac09996513",
+  "source": "82. Italy - DomViol - Italian (e) - html.html",
+  "source_mtime_ns": 1777452932000000000,
+  "source_sha256": "166bf33216ff19d695855612867127d28d54f18ab03cc06e70d1a2414f6e6c61",
+  "source_size": 153217
+ },
+ "83. Jamaica - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "83. Jamaica - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433146000000000,
+  "source_sha256": "de7b5acd223f327a54bc5206c8554aa802ca179cfb1b3bba4d6492ec9c441905",
+  "source_size": 704878
+ },
+ "83. Jamaica - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "c4167751fc50bd873633c679c0e4ba2810628c1506051287bb897de2fd36a8dc",
+  "source": "83. Jamaica - DomViol - English (b).pdf",
+  "source_mtime_ns": 1777453000000000000,
+  "source_sha256": "3231557ce1c47ab6360831aa14b485640fc0fbeb231743717f6d4c63e9f6249a",
+  "source_size": 273738
+ },
+ "84. Japan - DomViol - Japanese": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "84. Japan - DomViol - Japanese.pdf",
+  "source_mtime_ns": 1777456084000000000,
+  "source_sha256": "1186bd1160785d0c0e942dc03dc76ecfd7d16732a93d228327a67b8bf197ea0e",
+  "source_size": 8871537
+ },
+ "85. Jordan - DomViol - English": {
+  "format": "pdf",
+  "sha256": "a4d26d049a40978665712773e506ee8bd318717e75c088b665ec6129a0ac0d5a",
+  "source": "85. Jordan - DomViol - English.pdf",
+  "source_mtime_ns": 1777460402000000000,
+  "source_sha256": "c8368be386f270427ea0384336409dd19b714b0ac21486c5d1c2952644d1976a",
+  "source_size": 2224759
+ },
+ "86. Kazakhstan - DomViol - Russian - html": {
+  "format": "html",
+  "sha256": "e97fd198e4d1fcde7e670770dcfebb9aeeacb4f5e933fa00bb6213b853497111",
+  "source": "86. Kazakhstan - DomViol - Russian - html.html",
+  "source_mtime_ns": 1746433146000000000,
+  "source_sha256": "7131a6cd67489a4e95ee403ee427e8de1e08f7019402a4b0f2e1c5b003503407",
+  "source_size": 350761
+ },
+ "87. Kenya - DomViol - English": {
+  "format": "pdf",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "source": "87. Kenya - DomViol - English.pdf",
+  "source_mtime_ns": 1777460496000000000,
+  "source_sha256": "8be2f70f1eee7753302fadacd13d6b92fb3fc572834f2cd66df774fe05df9447",
+  "source_size": 6579037
+ },
+ "88. Kiribati - DomViol - English": {
+  "format": "pdf",
+  "sha256": "1373bf6b707370ffb4b40c63a185e8ab3e6591bf658c53adfe5adc5b9311d2a4",
+  "source": "88. Kiribati - DomViol - English.pdf",
+  "source_mtime_ns": 1746433148000000000,
+  "source_sha256": "0ad21f54d29396481a26bcc27c3b503fdd3857a1e8b76645d91f95153bc80601",
+  "source_size": 5007591
+ },
+ "88. Kiribati - DomViol - English - html": {
+  "format": "html",
+  "sha256": "b4bddecff4b5526bf984e00fe128fff4d8d8662e5bfb0f5c6258ca10585849e2",
+  "source": "88. Kiribati - DomViol - English - html.html",
+  "source_mtime_ns": 1746433146000000000,
+  "source_sha256": "b83f200fd362e9bb31ef1652892c1f8ca7d5a60d08ac86db4f519e728c14d131",
+  "source_size": 96131
+ },
+ "89. Korea - DomViol - Korean - html": {
+  "format": "html",
+  "sha256": "3c8212bc4ed2b3e106d9757f4ff94af3d2aad003340f7502f3a1a76fd66285b0",
+  "source": "89. Korea - DomViol - Korean - html.html",
+  "source_mtime_ns": 1746433146000000000,
+  "source_sha256": "240954ce686ffea04adcb13fb7bd07958204a0b083e65c7ba13f6e7b6ae14d87",
+  "source_size": 130326
  },
  "9. Austria - DomViol - English": {
   "format": "pdf",
@@ -15,6 +1735,54 @@
   "source_sha256": "da21257b3a9347212a958320318a8f6c1f8e488cbc2c1f51e4e8d47c4d615dc0",
   "source_size": 30708877
  },
+ "90. Kosovo - DomViol - Albanian": {
+  "format": "pdf",
+  "sha256": "45a0c4eb9873fdea328fa47a1818394ae5919655b2237117e378e2d01d19c381",
+  "source": "90. Kosovo - DomViol - Albanian.pdf",
+  "source_mtime_ns": 1746433146000000000,
+  "source_sha256": "a321dce6f7c27bffe767fe60d76d1c092ba5b916aac16bf91de5c22aa6c519f8",
+  "source_size": 360932
+ },
+ "92. Kyrgyz Republic - DomViol - Russian": {
+  "format": "pdf",
+  "sha256": "8c8c292e00dd5894d4147708cce8cedee3b76e6a127f0f036cf9fdae22e40bfd",
+  "source": "92. Kyrgyz Republic - DomViol - Russian.pdf",
+  "source_mtime_ns": 1777456166000000000,
+  "source_sha256": "8dfd6fb16d1a1893c01acc204bb9f235fc9e6e8942ed8cd91cb24939ff6eea1c",
+  "source_size": 331537
+ },
+ "93. Lao PDR - DomViol - English (a)": {
+  "format": "pdf",
+  "sha256": "1e4c4c205ac33a4dfa1b1b82b7e5f785b205f66816818a8d16b43f48a1096e45",
+  "source": "93. Lao PDR - DomViol - English (a).pdf",
+  "source_mtime_ns": 1746433148000000000,
+  "source_sha256": "f1ab9f4a75209431e00bc01e49f3fb84150c0d12c2da4be5dfbf5c504901f2de",
+  "source_size": 181730
+ },
+ "93. Lao PDR - DomViol - English (b)": {
+  "format": "pdf",
+  "sha256": "e7661f3f603ab7232047ce9c086a309b6428fb48e09f35bde76d98147f39f08b",
+  "source": "93. Lao PDR - DomViol - English (b).pdf",
+  "source_mtime_ns": 1746433148000000000,
+  "source_sha256": "501a85303fcab1f8ce26606481afe7d037b1bdcfa970dfccc058dc1b8ed68839",
+  "source_size": 200308
+ },
+ "94. Latvia - DomViol - Latvian (a)": {
+  "format": "pdf",
+  "sha256": "217be63024ad34b30c0438855720918fbec56381603a27068e530ba87ae905ae",
+  "source": "94. Latvia - DomViol - Latvian (a).pdf",
+  "source_mtime_ns": 1746433148000000000,
+  "source_sha256": "ade35babab5a22f49532659c34c9e0188f0fcfbe5b8fc8fbe901e4f841449f8b",
+  "source_size": 1209321
+ },
+ "94. Latvia - DomViol - Latvian (b)": {
+  "format": "pdf",
+  "sha256": "98afb89d2def286aa13a2464f63fbd271d00342670c78497198796af63ef5323",
+  "source": "94. Latvia - DomViol - Latvian (b).pdf",
+  "source_mtime_ns": 1746433148000000000,
+  "source_sha256": "59144942c23a71f6a5e7dfdb9c2321f59cedeb4a4eefb10504e127078613f7f3",
+  "source_size": 3000897
+ },
  "95. Lebanon - DomViol - English": {
   "format": "pdf",
   "sha256": "bd0747c21d80484f6a110c13a8847b4bdbb196684aaa6c5e5f1ed7e8d226926e",
@@ -22,5 +1790,37 @@
   "source_mtime_ns": 1782650562000000000,
   "source_sha256": "ba5aaeab399836ae890f1c86e44a3bc8e757f565494a4595e8ceb43b077cf1ef",
   "source_size": 675314
+ },
+ "96. Lesotho - DomViol - English": {
+  "format": "pdf",
+  "sha256": "a64c7d2ec221156882abfec26686341c4a6999dc53c9dc288fc4fbcabc4c31ed",
+  "source": "96. Lesotho - DomViol - English.pdf",
+  "source_mtime_ns": 1777453094000000000,
+  "source_sha256": "e8de5c91f7e872c02d96065594d3d5504a961a3bf22978883059d5365f3c57f0",
+  "source_size": 144355
+ },
+ "97. Liberia - DomViol - English": {
+  "format": "pdf",
+  "sha256": "ecb8270ea8576084f7d9c8667ede78ce13ff698c15177a6168b735e32dae29db",
+  "source": "97. Liberia - DomViol - English.pdf",
+  "source_mtime_ns": 1777460622000000000,
+  "source_sha256": "49575d049812ab5c2ab620440a65fea6fc880312025c3a4931b2c209c30db3b8",
+  "source_size": 2168649
+ },
+ "99. Lithuania - DomViol - Lithuanian (a)": {
+  "format": "pdf",
+  "sha256": "c204810214c39142cd9b9175120019f11bea2482da4a90d27e380b16543ab2ed",
+  "source": "99. Lithuania - DomViol - Lithuanian (a).pdf",
+  "source_mtime_ns": 1777456248000000000,
+  "source_sha256": "ca96c6cc01c108f62e56ec4d20e2f7e30a84d1fe7a3df9dd8f3bdd5591f99481",
+  "source_size": 171679
+ },
+ "99. Lithuania - DomViol - Lithuanian (b)": {
+  "format": "pdf",
+  "sha256": "7b1adada653948ecdcab4f48d890e0d4b63ff51c66832ae4898b06e0e0b48760",
+  "source": "99. Lithuania - DomViol - Lithuanian (b).pdf",
+  "source_mtime_ns": 1777456274000000000,
+  "source_sha256": "9a7213e7c7225ea3951e8eb31f918aec796e8639561339457afe4bda3647e5ca",
+  "source_size": 1723056
  }
 }

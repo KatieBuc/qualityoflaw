@@ -154,3 +154,61 @@ def migrate_layout(config: InputProcessConfig, *, dry_run: bool = False) -> Layo
             if not dry_run:
                 report.unlink()
     return result
+
+
+# --------------------------------------------------------------------------- manifest rebuild
+@dataclass
+class ManifestRebuild:
+    registered: list[str] = field(default_factory=list)      # no entry before: now a record of our extraction
+    source_added: list[str] = field(default_factory=list)    # our extraction whose original had not been recorded
+    up_to_date: list[str] = field(default_factory=list)
+    edited: list[str] = field(default_factory=list)          # has an entry, but the text is no longer what we wrote
+    no_original: list[str] = field(default_factory=list)     # no original in raw_files: left unregistered
+
+
+def rebuild_manifest(config: InputProcessConfig, *, dry_run: bool = False) -> ManifestRebuild:
+    """Register every ``cleaned_txt/<stem>.txt`` in ``raw/extraction_manifest.json`` as our extraction of its original.
+
+    The manifest only had entries for the files that were still waiting under the two-folder layout; the texts that
+    had passed were dropped from it. Without an entry a text counts as yours, so a PDF text is judged by the OCR
+    rules instead of being able to "need OCR", and a change of its original is never noticed. This gives each such
+    text an entry: its format and hash, and the hash of the original it is taken to come from (``txt`` before
+    ``html`` before ``pdf``, as `extract` chooses).
+
+    Every text without an entry is taken to be our extraction. Do not run it if you saved OCR text or hand
+    corrections over files that have no entry: they would be judged as extracted text. A text that has an entry but
+    no longer matches it is yours and is left alone. Idempotent.
+    """
+    from automation.src.input_process.extract import (
+        ExtractionManifest,
+        choose_originals,
+        cleaned_stems,
+        list_sources,
+    )
+
+    result = ManifestRebuild()
+    texts = cleaned_stems(config.cleaned_txt_dir)
+    originals, _ = choose_originals(list_sources(config)) if config.raw_files_dir.is_dir() else ({}, [])
+    manifest = ExtractionManifest(config.manifest_path)
+
+    for stem, text_path in sorted(texts.items()):
+        entry = manifest.data.get(stem)
+        original = originals.get(stem)
+        if entry is None:
+            if original is None:
+                result.no_original.append(stem)
+                continue
+            result.registered.append(stem)
+            if not dry_run:
+                manifest.record(stem, original[0], text_path, source=original[1])
+        elif manifest.machine_format(stem, text_path) is None:
+            result.edited.append(stem)
+        elif "source_sha256" not in entry and original is not None:
+            result.source_added.append(stem)
+            if not dry_run:
+                manifest.remember_source(stem, original[1])
+        else:
+            result.up_to_date.append(stem)
+    if not dry_run:
+        manifest.save()
+    return result

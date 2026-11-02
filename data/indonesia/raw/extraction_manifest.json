@@ -1,98 +1,1586 @@
 {
+ "ACEH_BIREUEN": {
+  "format": "txt",
+  "sha256": "06062281f42a3835a4a873b2c61ec9058f15b1d6b75a01f726cd384bef69d8f7",
+  "source": "ACEH_BIREUEN.txt",
+  "source_mtime_ns": 1791244753691504100,
+  "source_sha256": "71ce86cfc40283cd70ce91ea40c412add7ca651e84b4d701abc04083d3da3584",
+  "source_size": 39796
+ },
+ "ACEH_SUBULUSSALAM_KOTA": {
+  "format": "txt",
+  "sha256": "fcaace6b82cedf50454ff5af7eeb5df3c20e26ff58b32b53bb09119c7f5c9bde",
+  "source": "ACEH_SUBULUSSALAM_KOTA.txt",
+  "source_mtime_ns": 1791244753699529600,
+  "source_sha256": "3328910bbb953e3c0ef2623d7f6143f4e810ed314a6af10760aaf655efe5a244",
+  "source_size": 29173
+ },
+ "BALI_BADUNG": {
+  "format": "txt",
+  "sha256": "79c677e1401e934cf6d12d9fc441007125ec66a913f84e1dd449a31aee37912e",
+  "source": "BALI_BADUNG.txt",
+  "source_mtime_ns": 1791244753705536000,
+  "source_sha256": "e926dabb2c775f264b786d4bb74ec972ca66c461c92d8b5431b4f9edaca43cd4",
+  "source_size": 23219
+ },
+ "BALI_BANGLI": {
+  "format": "txt",
+  "sha256": "23bf9f3b59563f80dcd93aeea99ce41369640c7a53a60c5672e46c79a4a81afb",
+  "source": "BALI_BANGLI.txt",
+  "source_mtime_ns": 1791244753711536800,
+  "source_sha256": "90cbb75451af4d373f4922f681dd8a76daa9d1ee4eedda737078be385ef25bf4",
+  "source_size": 25526
+ },
  "BALI_BULELENG": {
   "format": "txt",
-  "sha256": "fc83f54c7f6fe4e444652a840ec55b5a421795f02473839647213f228d037b7e"
+  "sha256": "fc83f54c7f6fe4e444652a840ec55b5a421795f02473839647213f228d037b7e",
+  "source": "BALI_BULELENG.txt",
+  "source_mtime_ns": 1791244753718095000,
+  "source_sha256": "fc83f54c7f6fe4e444652a840ec55b5a421795f02473839647213f228d037b7e",
+  "source_size": 34174
+ },
+ "BALI_TABANAN": {
+  "format": "txt",
+  "sha256": "043f3cceaa9d16e010a975f5913258fe43a4a7edaf34b3f751f9889fff9ab430",
+  "source": "BALI_TABANAN.txt",
+  "source_mtime_ns": 1791244753722097900,
+  "source_sha256": "ae919bb6cd045ec5088932e25af1025bb9bad9473ddbce7bddbbb0e5f876e91e",
+  "source_size": 23051
+ },
+ "BANTEN_TANGERANG_SELATAN_KOTA": {
+  "format": "txt",
+  "sha256": "87357fe5bca70d47bc467ff437f1433a884604a1cd39392963efddeadb7adda8",
+  "source": "BANTEN_TANGERANG_SELATAN_KOTA.txt",
+  "source_mtime_ns": 1791244753725098000,
+  "source_sha256": "e6e8f57e59ebde37ed69811fbc03e5b7ac4c2b65f38fc7920371c2bfa27a7310",
+  "source_size": 36882
+ },
+ "BENGKULU_KEPAHIANG": {
+  "format": "txt",
+  "sha256": "84c6ad2ae736328b3c09557bea9b07715bb501ff531470c8c2a9f890c35c038b",
+  "source": "BENGKULU_KEPAHIANG.txt",
+  "source_mtime_ns": 1791244753729097700,
+  "source_sha256": "1b07f16706fd2f8beb2bd05283a340191f5ee8f3405d9fad79d7df7757154616",
+  "source_size": 39401
+ },
+ "BENGKULU_REJANG_LEBONG": {
+  "format": "txt",
+  "sha256": "5e5b464d77a0aee287ce64f59037179e29dd27a1a9d21325355cab309feec614",
+  "source": "BENGKULU_REJANG_LEBONG.txt",
+  "source_mtime_ns": 1791244753734603500,
+  "source_sha256": "fc3adf1d71bb79e5f11c2bfa92e3c84889ff4495b441628371a8c6938ca34562",
+  "source_size": 39828
+ },
+ "BENGKULU_SELUMA": {
+  "format": "txt",
+  "sha256": "4977a06f652dad13c1302bdf08fd35d658424c33359d83ed7560699717c6c46f",
+  "source": "BENGKULU_SELUMA.txt",
+  "source_mtime_ns": 1791244753752609900,
+  "source_sha256": "8f4d173f0f20b7a10ce6ab5b140b7df20a932398ccee5fff51fb329c7060ac7e",
+  "source_size": 33858
+ },
+ "DI_YOGYAKARTA_BANTUL": {
+  "format": "txt",
+  "sha256": "f37484e1799acfca5a45629b5e1b740e012df3adf0632fc4ac7f6712b9fd153c",
+  "source": "DI_YOGYAKARTA_BANTUL.txt",
+  "source_mtime_ns": 1791244753755609800,
+  "source_sha256": "e6c95e6a3a69b09664e7842512bbbf1e254c7d0cb90fe6b469df4aaba57e9a77",
+  "source_size": 54445
+ },
+ "DI_YOGYAKARTA_BANTUL_v2": {
+  "format": "txt",
+  "sha256": "96d90c263bebfe9aa0251834d74c6b51aa7af37aa8f8fcd38b527ccfd509948f",
+  "source": "DI_YOGYAKARTA_BANTUL_v2.txt",
+  "source_mtime_ns": 1791244753767624300,
+  "source_sha256": "d3b6e92d182a4e122f1287a8d2c087d8d6aa4134cb5a34fe82c5f5f46991b10c",
+  "source_size": 33437
  },
  "DI_YOGYAKARTA_GUNUNGKIDUL": {
   "format": "txt",
-  "sha256": "c6aa16d88b059038dbfe0b4a4c643651c9b758de53fe0ecc7610733272fcdc9e"
+  "sha256": "c6aa16d88b059038dbfe0b4a4c643651c9b758de53fe0ecc7610733272fcdc9e",
+  "source": "DI_YOGYAKARTA_GUNUNGKIDUL.txt",
+  "source_mtime_ns": 1791244753770619600,
+  "source_sha256": "c6aa16d88b059038dbfe0b4a4c643651c9b758de53fe0ecc7610733272fcdc9e",
+  "source_size": 34492
+ },
+ "DI_YOGYAKARTA_GUNUNGKIDUL_v2": {
+  "format": "txt",
+  "sha256": "6329554985f0d54eab2e8e0f8cd9500fdfbffa5080040e899cb80d89db7d055c",
+  "source": "DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt",
+  "source_mtime_ns": 1791244753778142200,
+  "source_sha256": "a876a7df96bbbefc313986f4226a0c4996c8d5f59122fc73a193c25605b4d485",
+  "source_size": 36092
+ },
+ "DI_YOGYAKARTA_KULON_PROGO": {
+  "format": "txt",
+  "sha256": "7fce6a0b8c7618f605741b7a5f386a27760420d009b58b8d1998c49aa2b7bab1",
+  "source": "DI_YOGYAKARTA_KULON_PROGO.txt",
+  "source_mtime_ns": 1791244753797149500,
+  "source_sha256": "ce1f987fa384acdc57cf7042cca95a87cef917e22fd5fb1829213d229247af22",
+  "source_size": 20296
+ },
+ "DI_YOGYAKARTA_SLEMAN": {
+  "format": "txt",
+  "sha256": "ac3d8e4653459a585d70f6e22b41df37e29fa0bd6d59f91f8c078c9964dd4533",
+  "source": "DI_YOGYAKARTA_SLEMAN.txt",
+  "source_mtime_ns": 1791244753805663300,
+  "source_sha256": "767598406c91dca328ca3f43a7c5903238997c9fe0c4dcc6661a9e88096b62d5",
+  "source_size": 30410
+ },
+ "DKI_JAKARTA": {
+  "format": "txt",
+  "sha256": "b5e67fce679ed4c42c3a338ff4c953d0b0a3e03183d14ee7651ce40f7cc1fb92",
+  "source": "DKI_JAKARTA.txt",
+  "source_mtime_ns": 1791244753812663100,
+  "source_sha256": "783aef6f06cffa7e42eef4cf216456db6edc99ff28024f9462445e4d792740e8",
+  "source_size": 39440
+ },
+ "GORONTALO_GORONTALO": {
+  "format": "txt",
+  "sha256": "81e50c551d02e4c186d90ec02ba4a8f1d05ea2a4cdd20055db7b5b3030ce0903",
+  "source": "GORONTALO_GORONTALO.txt",
+  "source_mtime_ns": 1791244753819664900,
+  "source_sha256": "b5ecd6caa7bfa254c448cbaab7fcea9b9cb2e6eb693d7511494b1678f39a3139",
+  "source_size": 31169
  },
  "GORONTALO_GORONTALO_KOTA": {
   "format": "txt",
-  "sha256": "b0d2bfc4252146058a71ce3ef1d72d7c16c082169da0a9161f764092591d9f4b"
+  "sha256": "b0d2bfc4252146058a71ce3ef1d72d7c16c082169da0a9161f764092591d9f4b",
+  "source": "GORONTALO_GORONTALO_KOTA.txt",
+  "source_mtime_ns": 1791244753823665600,
+  "source_sha256": "b0d2bfc4252146058a71ce3ef1d72d7c16c082169da0a9161f764092591d9f4b",
+  "source_size": 31017
  },
  "GORONTALO_GORONTALO_UTARA": {
   "format": "txt",
-  "sha256": "83f97af7a6db1082a9a0e46ebc6a18a7a03ce9bc129d0bb214f52bcc3f0cb066"
+  "sha256": "83f97af7a6db1082a9a0e46ebc6a18a7a03ce9bc129d0bb214f52bcc3f0cb066",
+  "source": "GORONTALO_GORONTALO_UTARA.txt",
+  "source_mtime_ns": 1791244753829660700,
+  "source_sha256": "83f97af7a6db1082a9a0e46ebc6a18a7a03ce9bc129d0bb214f52bcc3f0cb066",
+  "source_size": 32656
+ },
+ "GORONTALO_POHUWATO": {
+  "format": "txt",
+  "sha256": "939156857ed2bd40b769ba01738f89447d6f5bf36cc631d51bc9793b59e598f1",
+  "source": "GORONTALO_POHUWATO.txt",
+  "source_mtime_ns": 1791244754310343100,
+  "source_sha256": "219b1402be74b6fa687bd340c1716e4ab223e13e5d38932b4ed722ae334e342d",
+  "source_size": 24010
+ },
+ "JAMBI_BUNGO": {
+  "format": "txt",
+  "sha256": "6582f8afc843d3fd9ebe324bffbea3ee4213943da62a2ae2eff668cf2a404cda",
+  "source": "JAMBI_BUNGO.txt",
+  "source_mtime_ns": 1791244754317331700,
+  "source_sha256": "68263d6345a3152e4928ef1f6d8d55493ea59144cf78d364391d1d3e9566656c",
+  "source_size": 29674
+ },
+ "JAMBI_SAROLANGUN": {
+  "format": "txt",
+  "sha256": "a3bcad39f4ea36be5679c00a7719c6ddd74ca306f46d2dc6426c138b1cb90e9f",
+  "source": "JAMBI_SAROLANGUN.txt",
+  "source_mtime_ns": 1791244754325891100,
+  "source_sha256": "6ea1ad816a32d464951772b581d416dcb5bdeb354bde5586f3a0b292d49f11c5",
+  "source_size": 40918
+ },
+ "JAWA_BARAT_BANDUNG": {
+  "format": "txt",
+  "sha256": "e7114ed22b71557826a29654a71dec9da0dfe5256ee8a2bf5f99bf66ee617d95",
+  "source": "JAWA_BARAT_BANDUNG.txt",
+  "source_mtime_ns": 1791244754338920100,
+  "source_sha256": "2725070a3701e9b0bfa0a456ac01049e018fea28f8b168902055fcab169e06c9",
+  "source_size": 38025
+ },
+ "JAWA_BARAT_BANDUNG_BARAT": {
+  "format": "txt",
+  "sha256": "26cad69b4816c4b4e248c09a4d4ceda0bf78b49c82f196eb069f8788aba0df7e",
+  "source": "JAWA_BARAT_BANDUNG_BARAT.txt",
+  "source_mtime_ns": 1791244754354352300,
+  "source_sha256": "d3c5bf37e2853a5c60d2123a1f6b12fd073a0447bd6de3c3c3472231ff728c04",
+  "source_size": 42703
+ },
+ "JAWA_BARAT_BANDUNG_KOTA": {
+  "format": "txt",
+  "sha256": "fe75ea728859d6625f168827e3727d7e920eb10963669ebf4c145b7ec1e8e288",
+  "source": "JAWA_BARAT_BANDUNG_KOTA.txt",
+  "source_mtime_ns": 1791244754363348500,
+  "source_sha256": "049bf2653652c29a2b8cd3e82fb6776381820de86a8bd2806a2386bfd379e194",
+  "source_size": 38954
+ },
+ "JAWA_BARAT_BANJAR_KOTA": {
+  "format": "txt",
+  "sha256": "706f25503d888595c3df080c91e19c9db1212e8accbaea4ea790ce2a556786af",
+  "source": "JAWA_BARAT_BANJAR_KOTA.txt",
+  "source_mtime_ns": 1791244754365347100,
+  "source_sha256": "9397cc3d5a45ac97148ddb674c7289aa2db9f74cb387312deefa7e5abcd30300",
+  "source_size": 29640
+ },
+ "JAWA_BARAT_BEKASI": {
+  "format": "txt",
+  "sha256": "5cb25ff5fb7a7283c902955d908ce7b310c8683e289233b9dcd0246539b6557f",
+  "source": "JAWA_BARAT_BEKASI.txt",
+  "source_mtime_ns": 1791244754384351800,
+  "source_sha256": "cd971af125dbee8656b38718a6dadc7519df232783667edc35cb85842d3b5ec8",
+  "source_size": 38387
+ },
+ "JAWA_BARAT_BEKASI_KOTA": {
+  "format": "txt",
+  "sha256": "c218fa9f74f53ba6503c7b67ef88e6c3fc73712f4bb03b607fdeeb633aca1f4e",
+  "source": "JAWA_BARAT_BEKASI_KOTA.txt",
+  "source_mtime_ns": 1791244754389368800,
+  "source_sha256": "5ef8e0eac5d2d6ebef0c78a429be68651bfc46a9aba2fdfa5678e07117ea2fdd",
+  "source_size": 51086
+ },
+ "JAWA_BARAT_BEKASI_KOTA_v2": {
+  "format": "txt",
+  "sha256": "a51739b51686fd9f70c6cee0b751e716e8c37231aa0ad351ea3c08122a0b3a33",
+  "source": "JAWA_BARAT_BEKASI_KOTA_v2.txt",
+  "source_mtime_ns": 1791244754394371400,
+  "source_sha256": "d215b0e11157b3dea2855931f08e6d85ac4bdc5d93fcf1c59b81ce75e6a140cb",
+  "source_size": 51888
  },
  "JAWA_BARAT_CIMAHI_KOTA": {
   "format": "txt",
-  "sha256": "eeca279f232434ab5031778fe226217ef1806e78c168df1a05263950fcf0dc7a"
+  "sha256": "eeca279f232434ab5031778fe226217ef1806e78c168df1a05263950fcf0dc7a",
+  "source": "JAWA_BARAT_CIMAHI_KOTA.txt",
+  "source_mtime_ns": 1791244754398363900,
+  "source_sha256": "eeca279f232434ab5031778fe226217ef1806e78c168df1a05263950fcf0dc7a",
+  "source_size": 30350
+ },
+ "JAWA_BARAT_CIREBON": {
+  "format": "txt",
+  "sha256": "4a6022e13368fe46d540aaf737509f73414ae8717d9ad84e8802041dee1789f9",
+  "source": "JAWA_BARAT_CIREBON.txt",
+  "source_mtime_ns": 1791244754404443000,
+  "source_sha256": "fdf67bcac212bf84310b543429792af2f8bb8ce9e90bf8840312c367a0daaf2b",
+  "source_size": 25709
+ },
+ "JAWA_BARAT_CIREBON_KOTA": {
+  "format": "txt",
+  "sha256": "69aa5212a1cce4a77c33016661c51c5d1ce8cbf9b74c1f658f8c408a4f42c08f",
+  "source": "JAWA_BARAT_CIREBON_KOTA.txt",
+  "source_mtime_ns": 1791244754407981400,
+  "source_sha256": "bea0f3fb01b64c93f7c3834f6f48857c122ef6cba161af4decc500eb323d88af",
+  "source_size": 50768
+ },
+ "JAWA_BARAT_GARUT": {
+  "format": "txt",
+  "sha256": "c02758d89abfbfa22401385e6a6bbdbce67406f5420205603041da072deea853",
+  "source": "JAWA_BARAT_GARUT.txt",
+  "source_mtime_ns": 1791244754419994500,
+  "source_sha256": "0c2890d242d75137eca663738953b9b3b78c04c1383e02d545835667e1368149",
+  "source_size": 43052
+ },
+ "JAWA_BARAT_INDRAMAYU": {
+  "format": "txt",
+  "sha256": "9132cb5d010a24baa514c879b073369027000cf71ca7a76db2af8172369bc7c1",
+  "source": "JAWA_BARAT_INDRAMAYU.txt",
+  "source_mtime_ns": 1791244754428016400,
+  "source_sha256": "db99bc1ae17a719fee8ca466418bba17e9a71941dbf9d5772449ff67a5beee6e",
+  "source_size": 35184
+ },
+ "JAWA_BARAT_KARAWANG": {
+  "format": "txt",
+  "sha256": "8f60082fc76df61f1b66fcc7693d98a7451cebfa55c0e989f760b963ce392e01",
+  "source": "JAWA_BARAT_KARAWANG.txt",
+  "source_mtime_ns": 1791244754431991000,
+  "source_sha256": "3bc5b858e95ec85ff21fcff2706c8e96b14b3bc82ff29f37304815f80dc202ba",
+  "source_size": 14267
  },
  "JAWA_BARAT_MAJALENGKA": {
   "format": "txt",
-  "sha256": "869c22a970c91d2e6ff3948d174064ca11cc9f562ee521906b5452f3c05f0f55"
+  "sha256": "869c22a970c91d2e6ff3948d174064ca11cc9f562ee521906b5452f3c05f0f55",
+  "source": "JAWA_BARAT_MAJALENGKA.txt",
+  "source_mtime_ns": 1791244754436993200,
+  "source_sha256": "869c22a970c91d2e6ff3948d174064ca11cc9f562ee521906b5452f3c05f0f55",
+  "source_size": 34356
+ },
+ "JAWA_BARAT_PANGANDARAN": {
+  "format": "txt",
+  "sha256": "0f70741c57aa60a04d6f75a5530facef532f8ddcdbb217be1e646607aa56c9cc",
+  "source": "JAWA_BARAT_PANGANDARAN.txt",
+  "source_mtime_ns": 1791244754441985900,
+  "source_sha256": "e17a9abfd2623cf1035d3ebc2440b4fee83fbf0d45eccfcaf6361bd06c2da69a",
+  "source_size": 47026
+ },
+ "JAWA_BARAT_PURWAKARTA": {
+  "format": "txt",
+  "sha256": "ed3a0e12de590c3aac6492abf3b3a31a09e15b62e01379f261fadb590c6b4da3",
+  "source": "JAWA_BARAT_PURWAKARTA.txt",
+  "source_mtime_ns": 1791244754447990400,
+  "source_sha256": "2446f4326871bef19575a2dc8723d80935302f6e791e638ddde22d3b61601613",
+  "source_size": 39312
+ },
+ "JAWA_BARAT_SUMEDANG": {
+  "format": "txt",
+  "sha256": "b322a91bcfc1c0d85fa9070b220c6171591a8883212f8821198184058df39fc0",
+  "source": "JAWA_BARAT_SUMEDANG.txt",
+  "source_mtime_ns": 1791244754482636500,
+  "source_sha256": "bc10cc4f236b1d42cb1821606c7f38427b053f281b0a62a97d1790da43b96b6d",
+  "source_size": 118871
+ },
+ "JAWA_BARAT_TASIKMALAYA": {
+  "format": "txt",
+  "sha256": "b9d9bd1805928a24ccacd2931dae87998707cd2a9daaa18bbe8cad9c5f030689",
+  "source": "JAWA_BARAT_TASIKMALAYA.txt",
+  "source_mtime_ns": 1791244754487638000,
+  "source_sha256": "cafad3d0f1eaa460d3271843ab1216fa64578f5b0d556eb2ba9bf3adf64ed0dc",
+  "source_size": 77092
+ },
+ "JAWA_TENGAH_BANYUMAS": {
+  "format": "txt",
+  "sha256": "251d635687dfdb063046051e2066dfcd8cf86b73c9fc9ff52f298377b6e56f3a",
+  "source": "JAWA_TENGAH_BANYUMAS.txt",
+  "source_mtime_ns": 1791244754495137200,
+  "source_sha256": "bbbf9b05898a21e0f01626248526eca7d171862dd63e94b2c387b3edc335a22e",
+  "source_size": 34552
+ },
+ "JAWA_TENGAH_BLORA": {
+  "format": "txt",
+  "sha256": "8eaf3ea2e6ee033f1fae6055e0812c2778d4b6a8d8c18c54d6550a2725c6a214",
+  "source": "JAWA_TENGAH_BLORA.txt",
+  "source_mtime_ns": 1791244754500153200,
+  "source_sha256": "8d7ce6d14ba7b37982ed5ef3a8513df51bde6d7d1cffd6e50610bab7b93e1498",
+  "source_size": 42498
+ },
+ "JAWA_TENGAH_BOYOLALI": {
+  "format": "txt",
+  "sha256": "1272b16b1a62bc8678f9656f615e916a911f9d9ebd518781ff69e6a12bf8439c",
+  "source": "JAWA_TENGAH_BOYOLALI.txt",
+  "source_mtime_ns": 1791244754502676600,
+  "source_sha256": "e47887d3f2db806144b316011f8138ca58e0d54dbf8e2eff170500a1904e8edb",
+  "source_size": 40589
+ },
+ "JAWA_TENGAH_DEMAK": {
+  "format": "txt",
+  "sha256": "464d7019210614451205a9dba0e33cf7e3cace00724881c57e04194ab62075da",
+  "source": "JAWA_TENGAH_DEMAK.txt",
+  "source_mtime_ns": 1791244754519417200,
+  "source_sha256": "788c1069ad7d546e84c4a641c1b164fdffab7138e652e7ec3590219824af1270",
+  "source_size": 24511
+ },
+ "JAWA_TENGAH_KARANGANYAR": {
+  "format": "txt",
+  "sha256": "cb4d141dc4b2022ad42c36cabd199d182fbf3a55ad1fcca933ac118952afb6b0",
+  "source": "JAWA_TENGAH_KARANGANYAR.txt",
+  "source_mtime_ns": 1791244754923483600,
+  "source_sha256": "8c776eadeab8938ee421ba57d29e340e7ee2abc3ec5f6fb2aba3d2e38e901c92",
+  "source_size": 22953
+ },
+ "JAWA_TENGAH_KARANGANYAR_v2": {
+  "format": "txt",
+  "sha256": "fa379aa2c082c193d495d950edf5d04bf07e554afe207d7f335b267307b85efe",
+  "source": "JAWA_TENGAH_KARANGANYAR_v2.txt",
+  "source_mtime_ns": 1791244754926479900,
+  "source_sha256": "522ff13621cedae64f35119845887cf98828f49dd5b4c8dc905ca701526e9409",
+  "source_size": 40159
+ },
+ "JAWA_TENGAH_KEBUMEN": {
+  "format": "txt",
+  "sha256": "3eb2f099ddfc4bbad8105e6c07246ba8f650b3797ec837ffe559dad6f9fce2f2",
+  "source": "JAWA_TENGAH_KEBUMEN.txt",
+  "source_mtime_ns": 1791244754936589800,
+  "source_sha256": "5b5658b47e578976a7ddf87a19fcbb3148197079e3d420f2666604ecae11fb38",
+  "source_size": 60277
+ },
+ "JAWA_TENGAH_KLATEN": {
+  "format": "txt",
+  "sha256": "7f8a8e9ba549ec75917750d77b9ed52008117dfac8377bb55948f768193fb22b",
+  "source": "JAWA_TENGAH_KLATEN.txt",
+  "source_mtime_ns": 1791244754940113700,
+  "source_sha256": "04be8522a6f80dd0ac1388f3192575a3e5735e37a1baa55d2e0855a5d00035da",
+  "source_size": 20785
+ },
+ "JAWA_TENGAH_KUDUS": {
+  "format": "txt",
+  "sha256": "48c8f66f3378ddbd071e1d5d9deb968bcc128946c873d2e2083fa443b4860004",
+  "source": "JAWA_TENGAH_KUDUS.txt",
+  "source_mtime_ns": 1791244754944113400,
+  "source_sha256": "f4662f530481028c0d052fdb7e05ced0dd8861da0f5da81e4395cabee25153a6",
+  "source_size": 28034
  },
  "JAWA_TENGAH_MAGELANG": {
   "format": "txt",
-  "sha256": "d9dc0fcad38d386b5c11a4c532ce41fc1680f76e23e3b470bb0add46ea436dd6"
+  "sha256": "d9dc0fcad38d386b5c11a4c532ce41fc1680f76e23e3b470bb0add46ea436dd6",
+  "source": "JAWA_TENGAH_MAGELANG.txt",
+  "source_mtime_ns": 1791244754951255000,
+  "source_sha256": "d9dc0fcad38d386b5c11a4c532ce41fc1680f76e23e3b470bb0add46ea436dd6",
+  "source_size": 36805
+ },
+ "JAWA_TENGAH_MAGELANG_KOTA": {
+  "format": "txt",
+  "sha256": "1613ff91e9bed657c73c2a65a3e780c869ae94e73e139aba57a2e5e810757802",
+  "source": "JAWA_TENGAH_MAGELANG_KOTA.txt",
+  "source_mtime_ns": 1791244754955253900,
+  "source_sha256": "1ddc6400785c7d1766a17160fc8f7d996c76809b3d8e90b8f934711c097b415b",
+  "source_size": 29614
+ },
+ "JAWA_TENGAH_PATI": {
+  "format": "txt",
+  "sha256": "7addc29633437cb822dbd210a2fc2afd4ab6b68f9e98d34ca3ea84083552c99e",
+  "source": "JAWA_TENGAH_PATI.txt",
+  "source_mtime_ns": 1791244754958265000,
+  "source_sha256": "bc1924d54e56c82b7a7a5e0f210f408790b0274e5755191c30a7eb7cb7462197",
+  "source_size": 28820
+ },
+ "JAWA_TENGAH_PEKALONGAN": {
+  "format": "txt",
+  "sha256": "4c9c24c69325b392997921e7b4b61a22b95c3d177770cda918d47525a3ce1458",
+  "source": "JAWA_TENGAH_PEKALONGAN.txt",
+  "source_mtime_ns": 1791244754961254300,
+  "source_sha256": "915517961f4a202a1b5d345854dc51792681002987c16e1f7d42c0f2faabaf44",
+  "source_size": 32511
+ },
+ "JAWA_TENGAH_PEKALONGAN_KOTA": {
+  "format": "txt",
+  "sha256": "a9d146392d86f1c38bf9c5d8e5aac4528985e10b54c9baf8b2ab035686dfa334",
+  "source": "JAWA_TENGAH_PEKALONGAN_KOTA.txt",
+  "source_mtime_ns": 1791244754967248900,
+  "source_sha256": "5d14b32f71fce88eb1bc3eea8ecf76ccb6fc78274b0e2f4a3337cfaf1d96edd3",
+  "source_size": 35670
+ },
+ "JAWA_TENGAH_PURBALINGGA": {
+  "format": "txt",
+  "sha256": "b4746cdb0dc5a7c93a3e7639a6e79dde49c17ee3c54ebc0fe2a97e0c0d46959d",
+  "source": "JAWA_TENGAH_PURBALINGGA.txt",
+  "source_mtime_ns": 1791244754982264400,
+  "source_sha256": "bd83dc5d487de142e5a745f82b215f70a3adfc145ef97e145aadd40961a2ea94",
+  "source_size": 33412
+ },
+ "JAWA_TENGAH_PURWOREJO": {
+  "format": "txt",
+  "sha256": "4fe07fdcffb2c3f01b75617d285f33c7ab80139218fb78d2c624a2ac9b9639bb",
+  "source": "JAWA_TENGAH_PURWOREJO.txt",
+  "source_mtime_ns": 1791244754989289900,
+  "source_sha256": "32b62e1a9cc55c45631b0778d55ac20f38373035baf23462ffb2e7589dc5bb00",
+  "source_size": 66867
+ },
+ "JAWA_TENGAH_SALATIGA_KOTA": {
+  "format": "txt",
+  "sha256": "9750eed9178f5785ce83577984f84ff645dbc396af3f3893198e5c6da04ea110",
+  "source": "JAWA_TENGAH_SALATIGA_KOTA.txt",
+  "source_mtime_ns": 1791244754999277500,
+  "source_sha256": "7f89442d552ba44c94012269e4ec3511cfdcf423e1fcf98fb1bff02f9608b071",
+  "source_size": 29721
+ },
+ "JAWA_TENGAH_SEMARANG": {
+  "format": "txt",
+  "sha256": "87b9ccfee00db755c4ad9d153f7f8454d610eba39ff28c4f539072f0ae4ea97d",
+  "source": "JAWA_TENGAH_SEMARANG.txt",
+  "source_mtime_ns": 1791244755002279600,
+  "source_sha256": "38e673ef897606c23466bd7aca99a63fac7a92c8d00f5b6940a262f1269d8d81",
+  "source_size": 38563
+ },
+ "JAWA_TENGAH_SEMARANG_KOTA": {
+  "format": "txt",
+  "sha256": "82882ce611da6ec4a14621159ec9bafeb390390fb1d947c63d9713725c9a882d",
+  "source": "JAWA_TENGAH_SEMARANG_KOTA.txt",
+  "source_mtime_ns": 1791244755008329800,
+  "source_sha256": "e8f48a128bf98c08280115988fabf7c1f13900316d99e6ead4de4192d7a8f0d4",
+  "source_size": 36369
+ },
+ "JAWA_TENGAH_SEMARANG_KOTA_v2": {
+  "format": "txt",
+  "sha256": "29050a99c4af87291425ee3fec4758cd1642096042eeb125e6947b0667fee25b",
+  "source": "JAWA_TENGAH_SEMARANG_KOTA_v2.txt",
+  "source_mtime_ns": 1791244755010346600,
+  "source_sha256": "28257d71193f30c45a02c53efc834e127b1cf44040a01cbb855bd40c6af5d589",
+  "source_size": 41531
+ },
+ "JAWA_TENGAH_SUKOHARJO": {
+  "format": "txt",
+  "sha256": "0e5e90e4fab7b729b9bd74c30538dc7543069840cfff365055ad2ac995d7c7b0",
+  "source": "JAWA_TENGAH_SUKOHARJO.txt",
+  "source_mtime_ns": 1791244755013332400,
+  "source_sha256": "ed0375edf2e18596be47b9af478a6bcb84292bb24cc821d1d408033f4fa615f4",
+  "source_size": 29879
+ },
+ "JAWA_TENGAH_SURAKARTA_KOTA": {
+  "format": "txt",
+  "sha256": "3c1a7f70206c31e42042e4185126ce6096546c394e792057db2cc13ada027f93",
+  "source": "JAWA_TENGAH_SURAKARTA_KOTA.txt",
+  "source_mtime_ns": 1791244755018336700,
+  "source_sha256": "694f33f73529283267133122c25c47cd28fea99df334baf88b1d586bc05b1dab",
+  "source_size": 56928
+ },
+ "JAWA_TENGAH_TEMANGGUNG": {
+  "format": "txt",
+  "sha256": "6d5e841e710601df8cce70d73ba2ddcdd43fd27cfee21b2ec5636eeff464085e",
+  "source": "JAWA_TENGAH_TEMANGGUNG.txt",
+  "source_mtime_ns": 1791244755023333500,
+  "source_sha256": "dd993906a349d2b06668f20e5b81680beb04353111b54b9fc4ccc3340c5fd6b8",
+  "source_size": 36978
+ },
+ "JAWA_TENGAH_WONOGIRI": {
+  "format": "txt",
+  "sha256": "681dbb68b861b66c9329b2c63732bbdb3021012954d94829ebcec28feb7d7014",
+  "source": "JAWA_TENGAH_WONOGIRI.txt",
+  "source_mtime_ns": 1791244755026346800,
+  "source_sha256": "26dc3dfa2fab302223e7a51e644e12b73a462f6456beaaeea7837506f8cda00f",
+  "source_size": 34090
+ },
+ "JAWA_TENGAH_WONOSOBO": {
+  "format": "txt",
+  "sha256": "ebbd394c0c9bc49b18b4d9b4cae914f9f4e68a9d09955e3e56ff4bf7e6b44c9f",
+  "source": "JAWA_TENGAH_WONOSOBO.txt",
+  "source_mtime_ns": 1791244755032334000,
+  "source_sha256": "ee3b6a1af0277c56cfb164c51183bb0badf6bc1c50ecce2bb9e550ac089f16cf",
+  "source_size": 46414
  },
  "JAWA_TIMUR_BANGKALAN": {
   "format": "txt",
-  "sha256": "13c8225fbb28a22510e93947ac6a37157ce1cb1800cd71e99b7a2430c085c4b9"
+  "sha256": "13c8225fbb28a22510e93947ac6a37157ce1cb1800cd71e99b7a2430c085c4b9",
+  "source": "JAWA_TIMUR_BANGKALAN.txt",
+  "source_mtime_ns": 1791244755034335900,
+  "source_sha256": "13c8225fbb28a22510e93947ac6a37157ce1cb1800cd71e99b7a2430c085c4b9",
+  "source_size": 13474
+ },
+ "JAWA_TIMUR_BANYUWANGI": {
+  "format": "txt",
+  "sha256": "627fdc0fc6d07feb74cc3af7de07d6bab9c84f4936571eae4cdc99f45ef9d0e9",
+  "source": "JAWA_TIMUR_BANYUWANGI.txt",
+  "source_mtime_ns": 1791244755043345500,
+  "source_sha256": "faa72ed95ab1720f3da91fd88890e6908b3d1ca8683333007ff61eb874d84eb4",
+  "source_size": 39016
+ },
+ "JAWA_TIMUR_BLITAR": {
+  "format": "txt",
+  "sha256": "a88e496f8841cf6cde055edeb342156782e84116f22a57e8c9e01a8f485c258e",
+  "source": "JAWA_TIMUR_BLITAR.txt",
+  "source_mtime_ns": 1791244755047347600,
+  "source_sha256": "5e6cdb724b60e153d90f73f448b7fbd8411c1a3f6c8e3dc84c298225b52b69d0",
+  "source_size": 27054
+ },
+ "JAWA_TIMUR_BLITAR_KOTA": {
+  "format": "txt",
+  "sha256": "df7359041bcec64866999bcc1e0bcb24359fb2372e5aea0385c69d4e9acff48b",
+  "source": "JAWA_TIMUR_BLITAR_KOTA.txt",
+  "source_mtime_ns": 1791244755051332200,
+  "source_sha256": "a731ccacf11b154f758703899801cb93a341b2f303ea2f29eb878382ec420e6e",
+  "source_size": 29321
+ },
+ "JAWA_TIMUR_BOJONEGORO": {
+  "format": "txt",
+  "sha256": "4ce1363b109bff25567dba1a02dad5057bcc414547a88b68464b117800b1e877",
+  "source": "JAWA_TIMUR_BOJONEGORO.txt",
+  "source_mtime_ns": 1791244755054330600,
+  "source_sha256": "ae9db0c869a729ff556b6af3373bced26ee34502a1eac2909051fde8821ba0b9",
+  "source_size": 19972
+ },
+ "JAWA_TIMUR_JEMBER": {
+  "format": "txt",
+  "sha256": "25c757c535e63911a75f8f399cc1c87af15d7ddce5170d9bbb05446e79c83f54",
+  "source": "JAWA_TIMUR_JEMBER.txt",
+  "source_mtime_ns": 1791244755060332500,
+  "source_sha256": "38e51e47010e306e469b32a30c1dd950fd8ce23c677709b47519a3e6280f6b6d",
+  "source_size": 29257
+ },
+ "JAWA_TIMUR_JOMBANG": {
+  "format": "txt",
+  "sha256": "466a6b2e6547a728d3967629216d8f7af84c426db55a5bcaf5210d2cb971caf0",
+  "source": "JAWA_TIMUR_JOMBANG.txt",
+  "source_mtime_ns": 1791244755062354400,
+  "source_sha256": "d8ebf9f49a47609e148b6bcff60e5daf42dc6710c940bda8379377e3d44cef06",
+  "source_size": 18809
+ },
+ "JAWA_TIMUR_LUMAJANG": {
+  "format": "txt",
+  "sha256": "82d7d45e52f704b60a867c2357e3e5c5d1436927837a7ff756b23e439c55bdc7",
+  "source": "JAWA_TIMUR_LUMAJANG.txt",
+  "source_mtime_ns": 1791244755067333000,
+  "source_sha256": "72a3a58583ba3d514c0911ee163e8d63da881c9047840437cad9838a45a90563",
+  "source_size": 16966
+ },
+ "JAWA_TIMUR_MADIUN": {
+  "format": "txt",
+  "sha256": "3baf4d28a3e9812ad960be7b62fc1a16480c62502f2b3e2083647af030066899",
+  "source": "JAWA_TIMUR_MADIUN.txt",
+  "source_mtime_ns": 1791244755071330100,
+  "source_sha256": "b5bb25abf3d93e8e636d1ff45ee4f2e544d5302815a0b15637b635c20e816e92",
+  "source_size": 18190
+ },
+ "JAWA_TIMUR_MADIUN_KOTA": {
+  "format": "txt",
+  "sha256": "d440451803cb65a8b1c622eb95b3dcfe379010c45c0f88b32648a4dab64a624d",
+  "source": "JAWA_TIMUR_MADIUN_KOTA.txt",
+  "source_mtime_ns": 1791244755074330400,
+  "source_sha256": "45568620adf8344857b66a2876c6c5d0fcabcec9720b78378371264a170f86b2",
+  "source_size": 38821
  },
  "JAWA_TIMUR_MAGETAN": {
   "format": "txt",
-  "sha256": "473d275ad62b010b65168aa5d8c8b247ab320e51c0a0c2c14645b3c19d030236"
+  "sha256": "473d275ad62b010b65168aa5d8c8b247ab320e51c0a0c2c14645b3c19d030236",
+  "source": "JAWA_TIMUR_MAGETAN.txt",
+  "source_mtime_ns": 1791244755078331200,
+  "source_sha256": "473d275ad62b010b65168aa5d8c8b247ab320e51c0a0c2c14645b3c19d030236",
+  "source_size": 35322
+ },
+ "JAWA_TIMUR_MALANG_KOTA": {
+  "format": "txt",
+  "sha256": "b1626119b02cf68b20fba4f29f31793ff29cf1cdd38d324e32fd4b50a73bf8b2",
+  "source": "JAWA_TIMUR_MALANG_KOTA.txt",
+  "source_mtime_ns": 1791244755085727000,
+  "source_sha256": "d9452bbbb174faeb4c4a944d84d17d63353cc37f2aaa0fb2d4c709028b498be2",
+  "source_size": 36641
+ },
+ "JAWA_TIMUR_PASURUAN": {
+  "format": "txt",
+  "sha256": "baf4472f1631790dd973b196e7569e5394b3b3d95a2506c141cc2c831ae3bebe",
+  "source": "JAWA_TIMUR_PASURUAN.txt",
+  "source_mtime_ns": 1791244755087727400,
+  "source_sha256": "509290841a2e25a8f9b166d2b23d97fe46024fec9797b3469d2806de54376664",
+  "source_size": 38655
+ },
+ "JAWA_TIMUR_PROBOLINGGO": {
+  "format": "txt",
+  "sha256": "7464580e41e4ab208502a05337c9236124aadbc30f45c2ad8649c480d97e2dcc",
+  "source": "JAWA_TIMUR_PROBOLINGGO.txt",
+  "source_mtime_ns": 1791244755092727800,
+  "source_sha256": "89332a88ba1bca16dcff22310409f3d2be03673bd416a4f75651557bd1153ade",
+  "source_size": 37201
+ },
+ "JAWA_TIMUR_PROBOLINGGO_KOTA": {
+  "format": "txt",
+  "sha256": "947cde91ba25bac837d144ed6467851a7eabfe493400756428f9b22ca116e2cb",
+  "source": "JAWA_TIMUR_PROBOLINGGO_KOTA.txt",
+  "source_mtime_ns": 1791244755098255600,
+  "source_sha256": "94168f22e9ae73cdf3afec5c5e3e445d5b0134696b375372ee10423d117bc42f",
+  "source_size": 50718
+ },
+ "JAWA_TIMUR_SAMPANG": {
+  "format": "txt",
+  "sha256": "baef8eadd17a531d03b00b61dc3f9f032e0de1ca808b56a1a5ad852e522bdadf",
+  "source": "JAWA_TIMUR_SAMPANG.txt",
+  "source_mtime_ns": 1791244755104449600,
+  "source_sha256": "5400413e0a18885e504fe23517fa565ec2c0063c04f62e459fde69aa3d670e0f",
+  "source_size": 23903
+ },
+ "JAWA_TIMUR_SITUBONDO": {
+  "format": "txt",
+  "sha256": "f45a88ed948e2e448a796b85ae69fecc696da5a46e600f1429ac03e01d8184db",
+  "source": "JAWA_TIMUR_SITUBONDO.txt",
+  "source_mtime_ns": 1791244755113967500,
+  "source_sha256": "b4eec1b3baeb83b572bf38081f0a686ac1c9265029b454ea1e738e1ae70a7760",
+  "source_size": 29297
+ },
+ "JAWA_TIMUR_SUMENEP": {
+  "format": "txt",
+  "sha256": "f149433185766f0ae0a642d5c9de979945a0b24de51864167c338ac37115c594",
+  "source": "JAWA_TIMUR_SUMENEP.txt",
+  "source_mtime_ns": 1791244755115969800,
+  "source_sha256": "1302bd4fe64522f68e3c80c58b9f95b5c231e11fe30c1c070320a5b855ce690f",
+  "source_size": 14388
+ },
+ "JAWA_TIMUR_TRENGGALEK": {
+  "format": "txt",
+  "sha256": "4db13690320462aa2764312ec81ba11cf638bbc1c465c31c37d68bee59318891",
+  "source": "JAWA_TIMUR_TRENGGALEK.txt",
+  "source_mtime_ns": 1791244755124978300,
+  "source_sha256": "daa7957f9eb71eda79db308c32cf96c8d1eadba454c555d32fc06535dae96ef0",
+  "source_size": 66621
  },
  "KALIMANTAN_BARAT_BENGKAYANG": {
   "format": "txt",
-  "sha256": "a4b05ad7a835400013c939b1933317a280c49e9e70e40eb5e3ce81eee09eb5af"
+  "sha256": "a4b05ad7a835400013c939b1933317a280c49e9e70e40eb5e3ce81eee09eb5af",
+  "source": "KALIMANTAN_BARAT_BENGKAYANG.txt",
+  "source_mtime_ns": 1791244755130977100,
+  "source_sha256": "a4b05ad7a835400013c939b1933317a280c49e9e70e40eb5e3ce81eee09eb5af",
+  "source_size": 30428
+ },
+ "KALIMANTAN_BARAT_KUBU_RAYA": {
+  "format": "txt",
+  "sha256": "eb7804b0b133cf854d31ca59404730d44c9533429e5574756cc1894431f20ce1",
+  "source": "KALIMANTAN_BARAT_KUBU_RAYA.txt",
+  "source_mtime_ns": 1791244755141517200,
+  "source_sha256": "3bac9c0f5a146ffe333cbdc2318ee60f871ca9bef9ae06cf048b70767e54f66f",
+  "source_size": 27608
+ },
+ "KALIMANTAN_BARAT_MELAWI": {
+  "format": "txt",
+  "sha256": "afc8ceebfa6f593429c99ea1a15533a782720fad528222de48c7611be415b9ab",
+  "source": "KALIMANTAN_BARAT_MELAWI.txt",
+  "source_mtime_ns": 1791244755147512400,
+  "source_sha256": "7300d86d626f33ae8fcfce9cddae5f1efdefd609a6dd888017904d6686f28d1d",
+  "source_size": 29354
+ },
+ "KALIMANTAN_BARAT_SAMBAS": {
+  "format": "txt",
+  "sha256": "8831939d840fac18fc1c7dacb4dc8c394e6f609ddafbb9ee617b37f9d271062c",
+  "source": "KALIMANTAN_BARAT_SAMBAS.txt",
+  "source_mtime_ns": 1791244755151511700,
+  "source_sha256": "eae98d80d1162309c66a3c6429ed51cf5b839138695892195467a9b39b610fec",
+  "source_size": 39615
+ },
+ "KALIMANTAN_BARAT_SANGGAU": {
+  "format": "txt",
+  "sha256": "c831cfbd97b58e607347a72145e1834819a02f5922814f8ddd49dac4145a5145",
+  "source": "KALIMANTAN_BARAT_SANGGAU.txt",
+  "source_mtime_ns": 1791244755160894100,
+  "source_sha256": "24a019b22cee8e79a673787ff119be204b93f347a1045c29f9af64bfb58e4e5e",
+  "source_size": 24735
+ },
+ "KALIMANTAN_BARAT_SINGKAWANG_KOTA": {
+  "format": "txt",
+  "sha256": "27b0dd88ed30b7904290b80d8129e72979532a0dcf120f90ce681756977b7117",
+  "source": "KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt",
+  "source_mtime_ns": 1791244755170881100,
+  "source_sha256": "370e2cb84f17b02adac20449e8807cdc676c4c41f682f4abb64c02448ef804e8",
+  "source_size": 92147
+ },
+ "KALIMANTAN_BARAT_SINTANG": {
+  "format": "txt",
+  "sha256": "a07c7ce4dd560cae18ce46c4e4493afb5b743e5b8fceea7aa2d6a2f5657d3bf6",
+  "source": "KALIMANTAN_BARAT_SINTANG.txt",
+  "source_mtime_ns": 1791244755174874200,
+  "source_sha256": "64c1af6bba87f27fbdfae4579b1c9cb9b79bfd5848aaca683b1eb0ae95777cd8",
+  "source_size": 31563
  },
  "KALIMANTAN_SELATAN_BALANGAN": {
   "format": "txt",
-  "sha256": "c0b218c2714ce0d5c155056d2a2633b6878ff93593dda8ccff722aec5fb4f1b7"
+  "sha256": "c0b218c2714ce0d5c155056d2a2633b6878ff93593dda8ccff722aec5fb4f1b7",
+  "source": "KALIMANTAN_SELATAN_BALANGAN.txt",
+  "source_mtime_ns": 1791244755176872600,
+  "source_sha256": "c0b218c2714ce0d5c155056d2a2633b6878ff93593dda8ccff722aec5fb4f1b7",
+  "source_size": 28122
+ },
+ "KALIMANTAN_SELATAN_BARITO_KUALA": {
+  "format": "txt",
+  "sha256": "25917539786eeee8b2c031713b6eb5f7ae74157cc30e00e76318dceb164ce684",
+  "source": "KALIMANTAN_SELATAN_BARITO_KUALA.txt",
+  "source_mtime_ns": 1791244755183877400,
+  "source_sha256": "072a0a95ea3a31630f7a2ded5671bfd6ec505086f65d34b07ff8147c6cb78b9a",
+  "source_size": 41335
+ },
+ "KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN": {
+  "format": "txt",
+  "sha256": "5809b09d7cce329b2b6d0d4aefe76d54e48d1fabb07a4c5a6be7a39d0540fb3f",
+  "source": "KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt",
+  "source_mtime_ns": 1791244755192924000,
+  "source_sha256": "43241767ed02855754c3db7a38b157a97061a7075426e88e31dd64ef46229746",
+  "source_size": 42716
  },
  "KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA": {
   "format": "txt",
-  "sha256": "75667ac820576ce4489ceee3791ca7fba921c1be295278d750143a2463b9a699"
+  "sha256": "75667ac820576ce4489ceee3791ca7fba921c1be295278d750143a2463b9a699",
+  "source": "KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt",
+  "source_mtime_ns": 1791244755199916500,
+  "source_sha256": "75667ac820576ce4489ceee3791ca7fba921c1be295278d750143a2463b9a699",
+  "source_size": 50045
+ },
+ "KALIMANTAN_SELATAN_KOTABARU": {
+  "format": "txt",
+  "sha256": "4921d3be3efc271bfac710dc48e58ec949341146413bad93ada3ee93f39e0e1c",
+  "source": "KALIMANTAN_SELATAN_KOTABARU.txt",
+  "source_mtime_ns": 1791244755207434400,
+  "source_sha256": "401422970ebd572b146faaffdcfa0f204bcbfd28a1882920ee8bfc519835cf56",
+  "source_size": 42439
  },
  "KALIMANTAN_SELATAN_TABALONG": {
   "format": "txt",
-  "sha256": "ef5b1dfe8db08d2b498fb344d33564511dbf62e629fbd34811fe62ceb26f5140"
+  "sha256": "ef5b1dfe8db08d2b498fb344d33564511dbf62e629fbd34811fe62ceb26f5140",
+  "source": "KALIMANTAN_SELATAN_TABALONG.txt",
+  "source_mtime_ns": 1791244755211434200,
+  "source_sha256": "ef5b1dfe8db08d2b498fb344d33564511dbf62e629fbd34811fe62ceb26f5140",
+  "source_size": 15999
+ },
+ "KALIMANTAN_SELATAN_TANAH_BUMBU": {
+  "format": "txt",
+  "sha256": "f29f3a173d4342a42e4e7f4a9a95b5d53f20ea0e2333e828d48e44956e2ffe49",
+  "source": "KALIMANTAN_SELATAN_TANAH_BUMBU.txt",
+  "source_mtime_ns": 1791244755213431300,
+  "source_sha256": "ea8d189b9900145bb13d5a55e66e21f220d4becb49522563c08b58e6487a7498",
+  "source_size": 58810
  },
  "KALIMANTAN_SELATAN_TAPIN": {
   "format": "txt",
-  "sha256": "700fd5d40b3d147ed8ac9e9c378ae9a077c2440366cae0f39ec75b39a7cf1df4"
+  "sha256": "700fd5d40b3d147ed8ac9e9c378ae9a077c2440366cae0f39ec75b39a7cf1df4",
+  "source": "KALIMANTAN_SELATAN_TAPIN.txt",
+  "source_mtime_ns": 1791244755218434200,
+  "source_sha256": "700fd5d40b3d147ed8ac9e9c378ae9a077c2440366cae0f39ec75b39a7cf1df4",
+  "source_size": 23102
  },
  "KALIMANTAN_TENGAH_BARITO_TIMUR": {
   "format": "txt",
-  "sha256": "d9ebc778e697029642c2fea2731ec613e0e4024652ab48123c865342ea17a5d5"
+  "sha256": "d9ebc778e697029642c2fea2731ec613e0e4024652ab48123c865342ea17a5d5",
+  "source": "KALIMANTAN_TENGAH_BARITO_TIMUR.txt",
+  "source_mtime_ns": 1791244755223435300,
+  "source_sha256": "d9ebc778e697029642c2fea2731ec613e0e4024652ab48123c865342ea17a5d5",
+  "source_size": 41660
+ },
+ "KALIMANTAN_TENGAH_GUNUNG_MAS": {
+  "format": "txt",
+  "sha256": "6261ee4bf0c63a1bb83bea19f23e80b53011806a5c5531d812da85db770f87f9",
+  "source": "KALIMANTAN_TENGAH_GUNUNG_MAS.txt",
+  "source_mtime_ns": 1791244755227430100,
+  "source_sha256": "eaa7a8e1addfed39e220093f66e2205e6e61427a9aed7785c69752250c6ed1d7",
+  "source_size": 39500
+ },
+ "KALIMANTAN_TENGAH_KATINGAN": {
+  "format": "txt",
+  "sha256": "9eb9a656fbb69a6ac1e97c8fcbd54cb5a20e2c23acb0174b327e6b74552e9abd",
+  "source": "KALIMANTAN_TENGAH_KATINGAN.txt",
+  "source_mtime_ns": 1791244755228434000,
+  "source_sha256": "a0971a80f32fbde8e684b0693eadc29299e10ee269fb10ef83ecf4d75a47b8ab",
+  "source_size": 26981
+ },
+ "KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR": {
+  "format": "txt",
+  "sha256": "1bfeef76bdada030036c285e3761b0411c894dc51904b70c78f3c0e25f738f25",
+  "source": "KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt",
+  "source_mtime_ns": 1791244755237436900,
+  "source_sha256": "f98eb2d29b010a8e55edbca318d25522e81b29101976adfe63adbcdb9c340686",
+  "source_size": 40316
+ },
+ "KALIMANTAN_TENGAH_LAMANDAU": {
+  "format": "txt",
+  "sha256": "8e503b02ff2a38880acbe882e3a2af7f06aa7b419afed4e9b3ad64af3a7d656b",
+  "source": "KALIMANTAN_TENGAH_LAMANDAU.txt",
+  "source_mtime_ns": 1791244755242434000,
+  "source_sha256": "f9dfb7a9f9107de13825c9064cb05c3f2ed4f243f9b1affd1091dc94ecb63190",
+  "source_size": 37790
  },
  "KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA": {
   "format": "txt",
-  "sha256": "cc736f5b8a9608ff9c4a27b1ae4e74d7e612482a395aa670d86f5021fb2e3b67"
+  "sha256": "cc736f5b8a9608ff9c4a27b1ae4e74d7e612482a395aa670d86f5021fb2e3b67",
+  "source": "KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt",
+  "source_mtime_ns": 1791244755246431900,
+  "source_sha256": "cc736f5b8a9608ff9c4a27b1ae4e74d7e612482a395aa670d86f5021fb2e3b67",
+  "source_size": 30668
+ },
+ "KALIMANTAN_TENGAH_PULANG_PISAU": {
+  "format": "txt",
+  "sha256": "e84071f8e77d7be2e34d8d3102e851d1bb5debc8b67035cb7a4bd0cfb2ae60f9",
+  "source": "KALIMANTAN_TENGAH_PULANG_PISAU.txt",
+  "source_mtime_ns": 1791244755252442900,
+  "source_sha256": "0908a23b58308a493cf1d3eecba2187b30c658f8e4cc8f9f41b0614874480efe",
+  "source_size": 32830
+ },
+ "KALIMANTAN_TENGAH_SUKAMARA": {
+  "format": "txt",
+  "sha256": "45fd03d918c9143dd0f49aa077303719605a7c74a79926a96986460482225bec",
+  "source": "KALIMANTAN_TENGAH_SUKAMARA.txt",
+  "source_mtime_ns": 1791244755257432000,
+  "source_sha256": "adfea6058ffdc84e7777ce1aba7e39b7121fa5a04dd5901f81d80791b8cdbbea",
+  "source_size": 83400
+ },
+ "KALIMANTAN_TIMUR_BONTANG_KOTA": {
+  "format": "txt",
+  "sha256": "8852acc49cda82268953895539932f404485330b075eb704c86a38c20b2524d6",
+  "source": "KALIMANTAN_TIMUR_BONTANG_KOTA.txt",
+  "source_mtime_ns": 1791244755260430600,
+  "source_sha256": "484e7f94f4da7ffe747cdecab66093874b2fa2c41e4aa97ef5b4e7764b8ffed2",
+  "source_size": 30922
+ },
+ "KALIMANTAN_TIMUR_KUTAI_BARAT": {
+  "format": "txt",
+  "sha256": "f0b4eb342f642f8668245c3fb0f7817c1ee45e9d4386cc04998289ad09705a3b",
+  "source": "KALIMANTAN_TIMUR_KUTAI_BARAT.txt",
+  "source_mtime_ns": 1791244755264433300,
+  "source_sha256": "2d9e394fbb6975f7d4849ce8d7a91a0196b0154ec37e16d17379272677b4262d",
+  "source_size": 35960
+ },
+ "KALIMANTAN_TIMUR_KUTAI_TIMUR": {
+  "format": "txt",
+  "sha256": "33076f870f9b62757d7a4f2be3b59fbd372408e8a7d2d9d43d5118a3ac91c162",
+  "source": "KALIMANTAN_TIMUR_KUTAI_TIMUR.txt",
+  "source_mtime_ns": 1791244755272430500,
+  "source_sha256": "6aa96e1b00d64b7dcadc2dcc7560abc136a9061a826544cd9445429bb472a52f",
+  "source_size": 26115
+ },
+ "KALIMANTAN_TIMUR_PASER": {
+  "format": "txt",
+  "sha256": "a7aee4f7a4ee5747a3ea4881781726349dc089356b9b2774bcc5db075acdc8be",
+  "source": "KALIMANTAN_TIMUR_PASER.txt",
+  "source_mtime_ns": 1791244755283430200,
+  "source_sha256": "42c0169fa07f23708514cc843c9d8abaf4ed599c75ad2a5abad51ee824fc937f",
+  "source_size": 31709
  },
  "KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA": {
   "format": "txt",
-  "sha256": "48aeeb315e8d095fd5bc8737d41f6681a4103fed4c2c4792b7d40101cb1325b3"
+  "sha256": "48aeeb315e8d095fd5bc8737d41f6681a4103fed4c2c4792b7d40101cb1325b3",
+  "source": "KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt",
+  "source_mtime_ns": 1791244755287443700,
+  "source_sha256": "3a22685a82c7b07916e555d6676f30a72e660b0451f78477183581a61c6146ff",
+  "source_size": 18811
+ },
+ "KALIMANTAN_UTARA_NUNUKAN": {
+  "format": "txt",
+  "sha256": "7e2baddda7dffa6d3b148f72f659a59eda7cee9c80a5ab14bc66a1727e5d8218",
+  "source": "KALIMANTAN_UTARA_NUNUKAN.txt",
+  "source_mtime_ns": 1791244755298951200,
+  "source_sha256": "5810863f9ffb681829732d380d8f4eeb0d37235926c0fbf97d0996906f5f42d7",
+  "source_size": 43308
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_BANGKA": {
+  "format": "txt",
+  "sha256": "f80307f254c22e187417c024f1146bcf2b5773f48b12a02196ede5cdeef38b18",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt",
+  "source_mtime_ns": 1791244755303499300,
+  "source_sha256": "8bbd6d8671b4bdde19cbf9f76dbe7e5d7896fe3b01e2cf3f87ef2f105e961c4a",
+  "source_size": 28698
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT": {
+  "format": "txt",
+  "sha256": "11ea23ca8f448432e0e7a89176c4ebf549adc4bded496a7930d9afc2ae68d2ef",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt",
+  "source_mtime_ns": 1791244755305500700,
+  "source_sha256": "b41098629c548294efbcc9914ce965f7cf7dd4b354dc3b1bba7b279b4327e0ab",
+  "source_size": 16005
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2": {
+  "format": "txt",
+  "sha256": "2e75b0658ffc39864bcf3bc75a4b71cdad3180cd832a46994dbebf35e8860f14",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt",
+  "source_mtime_ns": 1791244755309006100,
+  "source_sha256": "2e3dfca44044eddde4fa3b80d45deee7c9de2387d9af79a9c43d6bec7cf2d4ea",
+  "source_size": 16135
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN": {
+  "format": "txt",
+  "sha256": "9f9c3079e22bdb4ac525f35e8fc264ecfcdd13ccb5e8e93c5a795e52145a0774",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt",
+  "source_mtime_ns": 1791244755311012100,
+  "source_sha256": "7b4f8debad2a1a9618b1f0252cb5fc953a79a19c3d19661f3f274f0bec1d7fde",
+  "source_size": 23429
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2": {
+  "format": "txt",
+  "sha256": "1323c73679f9532f5c9b0641f56d6724c20c071365593b77c339d799a94d9d0a",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt",
+  "source_mtime_ns": 1791244755314016500,
+  "source_sha256": "8a4c89f8e4727974ae752aac872b063c07de043ac4679d04297eeb13dc6a68d9",
+  "source_size": 28543
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH": {
+  "format": "txt",
+  "sha256": "332be3d9434a987d5c58ccedc2d47f80e560aae96a5963833f91ac68b813d97c",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt",
+  "source_mtime_ns": 1791244755318020400,
+  "source_sha256": "7de4c85bfcd46d438125f5e2d1518daab22544686eb455efc2d56fce152705c4",
+  "source_size": 18650
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_BELITUNG": {
+  "format": "txt",
+  "sha256": "4eb5ed86f39b2f108232741b67fc02144f8442b272b8b3fb8b232bac7c4fed6f",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt",
+  "source_mtime_ns": 1791244755321013100,
+  "source_sha256": "6f1163ae4fc048a3fceae26b8deed339203f5e23effde2e5577f033123f58520",
+  "source_size": 43040
+ },
+ "KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA": {
+  "format": "txt",
+  "sha256": "8d3418e0fa34226a71db46416bfbcef632bf96b499a9c3071524aae8351a666f",
+  "source": "KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt",
+  "source_mtime_ns": 1791244755327011800,
+  "source_sha256": "e3eaf81887895ff52daab4977a04d247bec90c2c236fcdec91fffa8c5a93911c",
+  "source_size": 32068
+ },
+ "KEPULAUAN_RIAU_KARIMUN": {
+  "format": "txt",
+  "sha256": "c62685022a421be63c4ed7ac316600a355ca1be0c1cf207c665b269bc100a582",
+  "source": "KEPULAUAN_RIAU_KARIMUN.txt",
+  "source_mtime_ns": 1791244755329018200,
+  "source_sha256": "778c87c33069ceaa942b85743590a5cbf0c0c5bb50190affa799500443b7c914",
+  "source_size": 4570
+ },
+ "LAMPUNG_BANDAR_LAMPUNG_KOTA": {
+  "format": "txt",
+  "sha256": "d13baf516ec3aecb3f9a8fa43cc169efb6bc927aa13fc693631feb4b12100ba0",
+  "source": "LAMPUNG_BANDAR_LAMPUNG_KOTA.txt",
+  "source_mtime_ns": 1791244755332020000,
+  "source_sha256": "17fbd49e2dc4731f52f2d71ebe4f41caf91b5df30feb6698b95110f090d3f719",
+  "source_size": 26601
+ },
+ "LAMPUNG_LAMPUNG_TIMUR": {
+  "format": "txt",
+  "sha256": "2e1f1120e8483f0e2d36268ef9df40affe0c6ff7829fd8e255ef0abaa3bb18ae",
+  "source": "LAMPUNG_LAMPUNG_TIMUR.txt",
+  "source_mtime_ns": 1791244755351118800,
+  "source_sha256": "c3a165ce8a29436ad07ef90ea05c3f7ca13f5e720589e708d2bbc3b5045698fd",
+  "source_size": 31618
  },
  "LAMPUNG_LAMPUNG_UTARA": {
   "format": "txt",
-  "sha256": "03697c15758b82b549d096fdc098fcb5adbea0ee0bc0986d1ca7cfd08183dab3"
+  "sha256": "03697c15758b82b549d096fdc098fcb5adbea0ee0bc0986d1ca7cfd08183dab3",
+  "source": "LAMPUNG_LAMPUNG_UTARA.txt",
+  "source_mtime_ns": 1791244755356114700,
+  "source_sha256": "03697c15758b82b549d096fdc098fcb5adbea0ee0bc0986d1ca7cfd08183dab3",
+  "source_size": 32362
+ },
+ "LAMPUNG_METRO_KOTA": {
+  "format": "txt",
+  "sha256": "59fe8af879c2b078181c366a72801dff75bfcdbb6cd0018d2d3cf1e1324225a4",
+  "source": "LAMPUNG_METRO_KOTA.txt",
+  "source_mtime_ns": 1791244755604922200,
+  "source_sha256": "0ccf61b6494a27a5b97693e19dc206ed42ba510ad836c0be0e77fc836b975b21",
+  "source_size": 29880
+ },
+ "LAMPUNG_PESAWARAN": {
+  "format": "txt",
+  "sha256": "eb0d5e04ace8212ab0544e65b5e362cf2a635f8621e1fa329ff37e85554f46f8",
+  "source": "LAMPUNG_PESAWARAN.txt",
+  "source_mtime_ns": 1791244755610919700,
+  "source_sha256": "7375f69550d8e1680ab63be2e5e68ee15f25108873cba25e7ee488bfdc11f7c4",
+  "source_size": 64826
+ },
+ "LAMPUNG_PESISIR_BARAT": {
+  "format": "txt",
+  "sha256": "a645538feae911d809429f041039929a62fa1f9e5d768a801b49e54cfef134dc",
+  "source": "LAMPUNG_PESISIR_BARAT.txt",
+  "source_mtime_ns": 1791244755612942500,
+  "source_sha256": "526e6339c5aa0bf6f53cd838dc0305a96704a635ade822a6f3f1f7b943334cfa",
+  "source_size": 37468
+ },
+ "LAMPUNG_PRINGSEWU": {
+  "format": "txt",
+  "sha256": "48db91c3b1c8285542a6d310c7375a6a4c9902d40f6d22da2abb93bf090666c7",
+  "source": "LAMPUNG_PRINGSEWU.txt",
+  "source_mtime_ns": 1791244755622270800,
+  "source_sha256": "1c065d86c62850b21d881bacf228c4590c4b1d984f383f7d162a823bd046830e",
+  "source_size": 35136
+ },
+ "LAMPUNG_TANGGAMUS": {
+  "format": "txt",
+  "sha256": "a1f70b2348cc442918eb568ae36fa38c3639c0615861755fa879d60b2568a258",
+  "source": "LAMPUNG_TANGGAMUS.txt",
+  "source_mtime_ns": 1791244755624283000,
+  "source_sha256": "a99a857c24b8de48bb59992f84141207a8cfbf2b7cf21f9c0da894f2c47791bc",
+  "source_size": 47902
+ },
+ "MALUKU_KEPULAUAN_TANIMBAR": {
+  "format": "txt",
+  "sha256": "c0e4be6cdf4042aaf2a17bd2aae360ea0e068b2adc750267694eee73c3ede8ad",
+  "source": "MALUKU_KEPULAUAN_TANIMBAR.txt",
+  "source_mtime_ns": 1791244755631283300,
+  "source_sha256": "e28c8f39d24639a09556854593744d7e260a4b66db2ef9b798e0d0f8254b8869",
+  "source_size": 27838
+ },
+ "MALUKU_MALUKU_TENGAH": {
+  "format": "txt",
+  "sha256": "312343fae179171c38fc23a471d1d331b8dc5b0ad6b4cb9ab3e995d0e027d502",
+  "source": "MALUKU_MALUKU_TENGAH.txt",
+  "source_mtime_ns": 1791244755635299700,
+  "source_sha256": "f9551ec607d4cb9db9f82723bd008f6687abd251e04c726a9054752628f0627e",
+  "source_size": 44604
  },
  "MALUKU_SERAM_BAGIAN_BARAT": {
   "format": "txt",
-  "sha256": "012ddffd9a47f45bda18d4f3b900fb62aca81c7f7e108a5388129ed76eb280d7"
+  "sha256": "012ddffd9a47f45bda18d4f3b900fb62aca81c7f7e108a5388129ed76eb280d7",
+  "source": "MALUKU_SERAM_BAGIAN_BARAT.txt",
+  "source_mtime_ns": 1791244755639309800,
+  "source_sha256": "012ddffd9a47f45bda18d4f3b900fb62aca81c7f7e108a5388129ed76eb280d7",
+  "source_size": 36742
+ },
+ "MALUKU_TUAL_KOTA": {
+  "format": "txt",
+  "sha256": "fd532c8541a7ec65a9e34e7080f6a0a78e49d240de51313e95bdce592a6d3f46",
+  "source": "MALUKU_TUAL_KOTA.txt",
+  "source_mtime_ns": 1791244755645296300,
+  "source_sha256": "c80ff8f3d84bfaba840160800367da88b06b8e0f0e6aef07f1236ceaa8ce6ada",
+  "source_size": 26207
+ },
+ "MALUKU_UTARA_HALMAHERA_TIMUR": {
+  "format": "txt",
+  "sha256": "5bea99cf8a7e89518d094c3e97aa936d0bb91e9983e52798b7050c01ab9977fd",
+  "source": "MALUKU_UTARA_HALMAHERA_TIMUR.txt",
+  "source_mtime_ns": 1791244755647818000,
+  "source_sha256": "7f2540f928cb57386f1bbbdedd5fad657d6cde3cb02dff81ed47802a43a0392e",
+  "source_size": 45733
+ },
+ "MALUKU_UTARA_TERNATE_KOTA": {
+  "format": "txt",
+  "sha256": "1d8457992bb567dd6a0257ddcd5817122d861bebe4eb71043b81845cb127a039",
+  "source": "MALUKU_UTARA_TERNATE_KOTA.txt",
+  "source_mtime_ns": 1791244755652848900,
+  "source_sha256": "beb28e256782a83efc589e11353d985f5267dccec5177dfe1a05e9cefeda18ef",
+  "source_size": 17492
+ },
+ "NUSA_TENGGARA_BARAT_BIMA": {
+  "format": "txt",
+  "sha256": "41e96c714f4702f848dd90f8303178e95199d6bc90e3f0048c061970f01bcaf3",
+  "source": "NUSA_TENGGARA_BARAT_BIMA.txt",
+  "source_mtime_ns": 1791244755655835500,
+  "source_sha256": "4bdb562789b721cbaaec815f71c5d13881000d408384aa2b76e67e02c9b598b6",
+  "source_size": 42655
+ },
+ "NUSA_TENGGARA_BARAT_BIMA_KOTA": {
+  "format": "txt",
+  "sha256": "6206deeb893a146bc10476434f558532f9d2591a383e4eeedeaa05ca70b4790f",
+  "source": "NUSA_TENGGARA_BARAT_BIMA_KOTA.txt",
+  "source_mtime_ns": 1791244755657848900,
+  "source_sha256": "941a0fb91e71fca636effd12fb9263e3f9aadf4eb6e22695531c48e02c2f8802",
+  "source_size": 28341
+ },
+ "NUSA_TENGGARA_BARAT_DOMPU": {
+  "format": "txt",
+  "sha256": "1f210f94846c016a6dd527c648e9f6b1c3ea0c197e78509ede1b71ebd73bbe42",
+  "source": "NUSA_TENGGARA_BARAT_DOMPU.txt",
+  "source_mtime_ns": 1791244755746370800,
+  "source_sha256": "853d458fef503ed02ef3b164d89e37ca54ffbf1029af50ff331ced1254c55452",
+  "source_size": 52464
+ },
+ "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH": {
+  "format": "txt",
+  "sha256": "69e4c7ceb244ce8e9beabad63c34ef42096d22927a207546eb46abfe05f61b80",
+  "source": "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt",
+  "source_mtime_ns": 1791244755750196400,
+  "source_sha256": "eecfb13e887caa59597206f86c5952c0eb432892652262ae565fadf179c654fc",
+  "source_size": 42692
+ },
+ "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2": {
+  "format": "txt",
+  "sha256": "5d8d494a0031092a710f9c1f46accaf7520d62415b14145fb65a19fdfa39980e",
+  "source": "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
+  "source_mtime_ns": 1791244755895954100,
+  "source_sha256": "33cfe17c448d4f3bb1ee89af2fab8b54c9402043ea20dd5cd4463eebfc784662",
+  "source_size": 42673
+ },
+ "NUSA_TENGGARA_BARAT_LOMBOK_UTARA": {
+  "format": "txt",
+  "sha256": "281de114e21794564fe66b3ac61496d5adaf10c58f9fc39ff606423ac85fa305",
+  "source": "NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt",
+  "source_mtime_ns": 1791244755910286400,
+  "source_sha256": "b3076e3d0cb84b0f8458b55ca0ca68433bb623527fbb312be9fa848aeeb5f72f",
+  "source_size": 40082
+ },
+ "NUSA_TENGGARA_BARAT_MATARAM_KOTA": {
+  "format": "txt",
+  "sha256": "05ba0422520c56a3d10a24cc9bf941691590d0afc4b7772718f7323136e9f7d8",
+  "source": "NUSA_TENGGARA_BARAT_MATARAM_KOTA.txt",
+  "source_mtime_ns": 1791244755915331500,
+  "source_sha256": "5cb6881f40338d2a049c55432dede12ea88a509bacaf6462d9a88533a1211180",
+  "source_size": 44721
+ },
+ "NUSA_TENGGARA_TIMUR_MANGGARAI": {
+  "format": "txt",
+  "sha256": "6f4abfb336b7a2b47095f75fd82932a4d8393b0c66150c553f6fd28361886196",
+  "source": "NUSA_TENGGARA_TIMUR_MANGGARAI.txt",
+  "source_mtime_ns": 1791244755918337500,
+  "source_sha256": "54099ff3a2daf953ed769aa2dc8a275980eba86d0943b2250b7a3cb2bc95414a",
+  "source_size": 20198
+ },
+ "NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT": {
+  "format": "txt",
+  "sha256": "dc4001ba259f8fae7f08b7e79129f25c9c56296dc9ed26ee7e6faea44f08bbba",
+  "source": "NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt",
+  "source_mtime_ns": 1791244755928342900,
+  "source_sha256": "f740fd97238cf82118b585a5bcf76d2e083513b2f9462dc271fd9edffd4ec107",
+  "source_size": 17435
+ },
+ "NUSA_TENGGARA_TIMUR_SIKKA": {
+  "format": "txt",
+  "sha256": "e3956ef621f4ae57052a4351d3587bf87049a83d274b411a337bd04091984cc0",
+  "source": "NUSA_TENGGARA_TIMUR_SIKKA.txt",
+  "source_mtime_ns": 1791244755932356700,
+  "source_sha256": "b0d4943a37977c6c48777d6f97aeddd97b3124fa5824ab60cc9d183c958ab9ee",
+  "source_size": 33377
+ },
+ "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA": {
+  "format": "txt",
+  "sha256": "8f627a83a2f217c6528d54157b9e38f8fefd5c3121e7714db4e15d0254fb6d96",
+  "source": "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
+  "source_mtime_ns": 1791244755934964000,
+  "source_sha256": "54e30f0ef8f2a8ea7375ba3df414e77609f4a6d2b28c7991d2bcf0e36260b5f0",
+  "source_size": 37477
+ },
+ "PAPUA_BARAT_DAYA_SORONG": {
+  "format": "txt",
+  "sha256": "4d881fa7cebacbbf794bbc04eab4e175f9968533faa75671dfaf38b2b0e04303",
+  "source": "PAPUA_BARAT_DAYA_SORONG.txt",
+  "source_mtime_ns": 1791244755940797700,
+  "source_sha256": "bd2e5eff9a56ffc976e800bdb1743d2c966e94935cb8ecef5eb130330a48c5e8",
+  "source_size": 18754
+ },
+ "PAPUA_BARAT_DAYA_TAMBRAUW": {
+  "format": "txt",
+  "sha256": "d0e382e3a95eccef8c6f586b772dfe7b2bae51dc360b408819513c2541c9cfe1",
+  "source": "PAPUA_BARAT_DAYA_TAMBRAUW.txt",
+  "source_mtime_ns": 1791244755951886400,
+  "source_sha256": "877d34ff26429be5ebc64d37a52b3ecc8510d2d4ba0a0355a024b78356cf8997",
+  "source_size": 23252
+ },
+ "RIAU_BENGKALIS": {
+  "format": "txt",
+  "sha256": "81d5546884f482ec2ce7f33ae0253c615676e2fd823484c9b6575b371a83a604",
+  "source": "RIAU_BENGKALIS.txt",
+  "source_mtime_ns": 1791244756235797900,
+  "source_sha256": "ff478a1807b1a31075c21855b4884d35f01eea97aa86f46c456ebd4b5ae3d03d",
+  "source_size": 39506
+ },
+ "RIAU_PEKANBARU_KOTA": {
+  "format": "txt",
+  "sha256": "b88c13594701ce4730012c7b0ccb2d50936bcbab9acc8ec433445f276946499b",
+  "source": "RIAU_PEKANBARU_KOTA.txt",
+  "source_mtime_ns": 1791244756238801800,
+  "source_sha256": "ce772ad277d3ec0976dd4d9c398f4e7a4b23116ddedf522aec4b620f8113cb4f",
+  "source_size": 85795
+ },
+ "SULAWESI_BARAT_MAMUJU": {
+  "format": "txt",
+  "sha256": "c05fb61dcef96ddd07115ab61592970ed5da9a3836325f866e87dd88e9b154a9",
+  "source": "SULAWESI_BARAT_MAMUJU.txt",
+  "source_mtime_ns": 1791244756244708400,
+  "source_sha256": "b39c0f7e7cb2c7e9b9ab81dc235fe4e1baee4bf0f89aae81e273a666da923323",
+  "source_size": 36665
+ },
+ "SULAWESI_BARAT_PASANGKAYU": {
+  "format": "txt",
+  "sha256": "306119774bab0443140749f912e5bf5673f5f2f3840c6f6901a70b78a369937e",
+  "source": "SULAWESI_BARAT_PASANGKAYU.txt",
+  "source_mtime_ns": 1791244756247694600,
+  "source_sha256": "dcc97785d9f6668c3f547c15c81e396f410d3ae230e27e5b7d32976fc0dcd7bd",
+  "source_size": 25086
+ },
+ "SULAWESI_SELATAN_BULUKUMBA": {
+  "format": "txt",
+  "sha256": "ec6ab91e7154a525fef4ab12ce646cf41246029ef94e4c1372c5a229202ac722",
+  "source": "SULAWESI_SELATAN_BULUKUMBA.txt",
+  "source_mtime_ns": 1791244756250697200,
+  "source_sha256": "f69071fd6182da3aea06453ad8f15392e741c46e592ed5fb31a58baa39bfc166",
+  "source_size": 35640
+ },
+ "SULAWESI_SELATAN_ENREKANG": {
+  "format": "txt",
+  "sha256": "6e990ab5d8dab519643f6cda1ee9ec8c44db94478152a3edb1f2f7d9dce42daf",
+  "source": "SULAWESI_SELATAN_ENREKANG.txt",
+  "source_mtime_ns": 1791244756391877200,
+  "source_sha256": "685443ca2c8860c628874abdc49da7fefdb85829d5c64ad554f1ba80361407ea",
+  "source_size": 46001
+ },
+ "SULAWESI_SELATAN_LUWU": {
+  "format": "txt",
+  "sha256": "9c930c6170907e00ca7d95e8811d03e1f44366e61642bd80c75d633a7b855120",
+  "source": "SULAWESI_SELATAN_LUWU.txt",
+  "source_mtime_ns": 1791244756397875900,
+  "source_sha256": "18e415012d52a32592e7272b6ffe4d89c7a1779cc8ccd24736f3553a65a4c44d",
+  "source_size": 19687
+ },
+ "SULAWESI_SELATAN_LUWU_TIMUR": {
+  "format": "txt",
+  "sha256": "3f16fc32281c339ddf5d0ed30a97c4bcf2e79668d0e60aa934700c6080a67e91",
+  "source": "SULAWESI_SELATAN_LUWU_TIMUR.txt",
+  "source_mtime_ns": 1791244756399876300,
+  "source_sha256": "623d3643ad7e6e82a55a45a1d45ed2c9a6bf9d7146ac2171d67922b77036ccd7",
+  "source_size": 25309
+ },
+ "SULAWESI_SELATAN_PALOPO_KOTA": {
+  "format": "txt",
+  "sha256": "436646acf033978c81f620e885ed60b9c0fb0ccc03c2d034a723df698c6a0b10",
+  "source": "SULAWESI_SELATAN_PALOPO_KOTA.txt",
+  "source_mtime_ns": 1791244756405929000,
+  "source_sha256": "6bddbc3eda73b9eaa0bddab255c44b9b2a151d7bf415cda549785bd8f3d80758",
+  "source_size": 36206
+ },
+ "SULAWESI_SELATAN_TANA_TORAJA": {
+  "format": "txt",
+  "sha256": "79d86a9a5fe0718158fdfa935b510ed7c99fb529464fedb041ce068ccfd50aea",
+  "source": "SULAWESI_SELATAN_TANA_TORAJA.txt",
+  "source_mtime_ns": 1791244756409928500,
+  "source_sha256": "23bcbda1c29965912e6bccc652766e83d3e73badcde9b5dbb52d0934eb94e88d",
+  "source_size": 55970
+ },
+ "SULAWESI_TENGAH_BUOL": {
+  "format": "txt",
+  "sha256": "ef03acca80bd7e27294eba558680997df1f4b2c23b38bdebf6ad046b115ac4f0",
+  "source": "SULAWESI_TENGAH_BUOL.txt",
+  "source_mtime_ns": 1791244756517396700,
+  "source_sha256": "86b87d056a6ced698cf88c587e965fa77449db044176dfedb167b4981407ed76",
+  "source_size": 82794
  },
  "SULAWESI_TENGAH_DONGGALA": {
   "format": "txt",
-  "sha256": "32cc082e17306731f75b31a85bdff1b6eeac65f2ef748f8afdcb201306326c2b"
+  "sha256": "32cc082e17306731f75b31a85bdff1b6eeac65f2ef748f8afdcb201306326c2b",
+  "source": "SULAWESI_TENGAH_DONGGALA.txt",
+  "source_mtime_ns": 1791244756520395900,
+  "source_sha256": "32cc082e17306731f75b31a85bdff1b6eeac65f2ef748f8afdcb201306326c2b",
+  "source_size": 29032
  },
  "SULAWESI_TENGAH_MOROWALI": {
   "format": "txt",
-  "sha256": "212c366cfaa4f5d2985b56aa00d48cebbfc10002769f14384a45a82de6b094d3"
+  "sha256": "212c366cfaa4f5d2985b56aa00d48cebbfc10002769f14384a45a82de6b094d3",
+  "source": "SULAWESI_TENGAH_MOROWALI.txt",
+  "source_mtime_ns": 1791244756647018000,
+  "source_sha256": "87928f36fd00c624dbda1972849a571a59734bcc63d1ad76981c8dfe9407d330",
+  "source_size": 30514
+ },
+ "SULAWESI_TENGAH_PARIGI_MOUTONG": {
+  "format": "txt",
+  "sha256": "4401bf25fcd6fc2e0f6abe045d4086ea369416c95ba63059fdb182c87034c3ec",
+  "source": "SULAWESI_TENGAH_PARIGI_MOUTONG.txt",
+  "source_mtime_ns": 1791244756652064600,
+  "source_sha256": "c47abf3bb5f0092ae154fe5b74aa8fb7e25abb3a47518f33cccdbf0b160b443c",
+  "source_size": 37949
  },
  "SULAWESI_TENGAH_POSO": {
   "format": "txt",
-  "sha256": "de3b8312da3123e1920999c707ed17055ca716714b30ac49bd2aa3bfd2319509"
+  "sha256": "de3b8312da3123e1920999c707ed17055ca716714b30ac49bd2aa3bfd2319509",
+  "source": "SULAWESI_TENGAH_POSO.txt",
+  "source_mtime_ns": 1791244756656061700,
+  "source_sha256": "de3b8312da3123e1920999c707ed17055ca716714b30ac49bd2aa3bfd2319509",
+  "source_size": 17336
+ },
+ "SULAWESI_TENGAH_SIGI": {
+  "format": "txt",
+  "sha256": "43a528dc5959b94f2f4ccd843328b2387f5910fc9a01edc32d70d8d42be66946",
+  "source": "SULAWESI_TENGAH_SIGI.txt",
+  "source_mtime_ns": 1791244756659062800,
+  "source_sha256": "267009d5b47a508e5985f101f9d24542cb84acb14a6b9412a688288b74eab937",
+  "source_size": 38599
+ },
+ "SULAWESI_TENGAH_TOLI_TOLI": {
+  "format": "txt",
+  "sha256": "0e367f877d1ea6625dc8ab6f9e8701eb473483440ca2688dc0823058711334d1",
+  "source": "SULAWESI_TENGAH_TOLI_TOLI.txt",
+  "source_mtime_ns": 1791244756662574500,
+  "source_sha256": "f31ea26aba2c9c065633486921a3c8b241c30320ad61cac2eba548c33bc0177b",
+  "source_size": 35426
+ },
+ "SULAWESI_TENGGARA_BUTON": {
+  "format": "txt",
+  "sha256": "74f0976edb2cc2ef8e2b005d0c14222fe567bb2249187aad6b65e74f2d6c14dd",
+  "source": "SULAWESI_TENGGARA_BUTON.txt",
+  "source_mtime_ns": 1791244756665585500,
+  "source_sha256": "9e641a8b61d1a5515fa6753c3f8582a334c74c772bd2fcaa69b9f6e210a50c0a",
+  "source_size": 37482
+ },
+ "SULAWESI_TENGGARA_BUTON_SELATAN": {
+  "format": "txt",
+  "sha256": "ff2dda6dcb3f5b1de6d1b33b9b1798b2902ded8a53b2eb6aa80a96e38e691b2a",
+  "source": "SULAWESI_TENGGARA_BUTON_SELATAN.txt",
+  "source_mtime_ns": 1791244756669604300,
+  "source_sha256": "875164914667e2861be0eb7907bf27012748f02fd784bc5d609821dd9bf0c47e",
+  "source_size": 23929
+ },
+ "SULAWESI_TENGGARA_BUTON_UTARA": {
+  "format": "txt",
+  "sha256": "514acf7b905697082e8f001be62e9d27b8e9b1e12641a3200c69ce9fea0f7275",
+  "source": "SULAWESI_TENGGARA_BUTON_UTARA.txt",
+  "source_mtime_ns": 1791244756671586000,
+  "source_sha256": "0e8e7b4ac6e0f464c0662a4f5d366f16c3e567dc7fd4872bc9ddf9aa6768d189",
+  "source_size": 32363
+ },
+ "SULAWESI_TENGGARA_KONAWE": {
+  "format": "txt",
+  "sha256": "9a26c1334a35fec1701f6ed21b11d195913fff0a2c9cfdc8409a64486187426a",
+  "source": "SULAWESI_TENGGARA_KONAWE.txt",
+  "source_mtime_ns": 1791244756674586500,
+  "source_sha256": "287420b8d63bcc2ae6f41fc29c4e68c1cc050837cfdd67839466276722ba60fc",
+  "source_size": 26999
+ },
+ "SULAWESI_TENGGARA_KONAWE_KEPULAUAN": {
+  "format": "txt",
+  "sha256": "4f245face8205c7c48578629e20f8d1fc27d98f7f4614f76644af0c95639efdb",
+  "source": "SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt",
+  "source_mtime_ns": 1791244756677583200,
+  "source_sha256": "4199c9a9c9ae69a3adad645c7859bf13ad1de7dd401e329226e5dffcc6470a0c",
+  "source_size": 31927
+ },
+ "SULAWESI_TENGGARA_KONAWE_UTARA": {
+  "format": "txt",
+  "sha256": "0e3cb41803753110376b115f780dbd4eac6dca853721e7f8ba62717966fffd22",
+  "source": "SULAWESI_TENGGARA_KONAWE_UTARA.txt",
+  "source_mtime_ns": 1791244756684582900,
+  "source_sha256": "5beb0ccb27d7e433400885e13979c3f1853b68fd2fd1e5687172667e1572a764",
+  "source_size": 28913
+ },
+ "SULAWESI_TENGGARA_MUNA": {
+  "format": "txt",
+  "sha256": "e40b3612b1b65b673c6a0c043f213ce11534f22f14bb615ec5cab1adcbe09bc5",
+  "source": "SULAWESI_TENGGARA_MUNA.txt",
+  "source_mtime_ns": 1791244756812264500,
+  "source_sha256": "9a175595d8bb4b9ea5e3fd01e7ccea00b0f74fab6f01f1285f432516f7aa5821",
+  "source_size": 39215
+ },
+ "SULAWESI_TENGGARA_MUNA_BARAT": {
+  "format": "txt",
+  "sha256": "4f1de3365929e3bb2ada389d14d3a30490ce4e093df20fad8396d731560e5998",
+  "source": "SULAWESI_TENGGARA_MUNA_BARAT.txt",
+  "source_mtime_ns": 1791244756815264000,
+  "source_sha256": "236567c93358f375adbbb6567258267d64dad2112f85b4d647ec561ca35f8ddc",
+  "source_size": 26805
+ },
+ "SULAWESI_UTARA_BITUNG_KOTA": {
+  "format": "txt",
+  "sha256": "80cdaef07c99a242e1d33d1cb7811837ddc66e30f8ee27e68690ac6555ba8c9d",
+  "source": "SULAWESI_UTARA_BITUNG_KOTA.txt",
+  "source_mtime_ns": 1791244756818250900,
+  "source_sha256": "86ac92e2315ad849d945f5e6138cd18beee94875e2b7e0b986f08ac8e1975960",
+  "source_size": 38264
+ },
+ "SULAWESI_UTARA_MINAHASA_TENGGARA": {
+  "format": "txt",
+  "sha256": "3ef07f4d470d9df73cd96268507af122bcd89c9aee8d9e65afc4d2794ee7cac3",
+  "source": "SULAWESI_UTARA_MINAHASA_TENGGARA.txt",
+  "source_mtime_ns": 1791244757108727800,
+  "source_sha256": "01502d1cc92a09076e9ef61f1abee523f39afd10c61f554e0accee40ba5d705f",
+  "source_size": 42705
+ },
+ "SUMATERA_BARAT_BUKITTINGGI_KOTA": {
+  "format": "txt",
+  "sha256": "e3a49602b547e132d99973fc0c0ac15deb276a465a22a1928f77def7722d40d4",
+  "source": "SUMATERA_BARAT_BUKITTINGGI_KOTA.txt",
+  "source_mtime_ns": 1791244757113285400,
+  "source_sha256": "5044edf723142d964dd3e8097ca449a2e7a0b7d0cbb238543acf1c186268f2bf",
+  "source_size": 45872
  },
  "SUMATERA_BARAT_DHARMASRAYA": {
   "format": "txt",
-  "sha256": "5f9f2ce96cfa1522d37c87547d9ebbd1e8b7e65eb17fa959f24a0598e91c4b64"
+  "sha256": "5f9f2ce96cfa1522d37c87547d9ebbd1e8b7e65eb17fa959f24a0598e91c4b64",
+  "source": "SUMATERA_BARAT_DHARMASRAYA.txt",
+  "source_mtime_ns": 1791244757117276500,
+  "source_sha256": "5f9f2ce96cfa1522d37c87547d9ebbd1e8b7e65eb17fa959f24a0598e91c4b64",
+  "source_size": 64243
+ },
+ "SUMATERA_BARAT_KEPULAUAN_MENTAWAI": {
+  "format": "txt",
+  "sha256": "fce491cd89d57c30883c63abf4b21b66a80f1ce22684ac6c6b1f76ea8ff3781b",
+  "source": "SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt",
+  "source_mtime_ns": 1791244757208547700,
+  "source_sha256": "97c49589b37cdb1ed6cc93fe71987c03b5b15e8dc827e0602f85a6c703dc5d4e",
+  "source_size": 78701
+ },
+ "SUMATERA_BARAT_PADANG_PARIAMAN": {
+  "format": "txt",
+  "sha256": "48a1c9826b86c067af4fe98e1281167f4ad79e2fe5df1cb138d03d8c54537f94",
+  "source": "SUMATERA_BARAT_PADANG_PARIAMAN.txt",
+  "source_mtime_ns": 1791244757213545000,
+  "source_sha256": "f6c3bb4086d1a8e76ae6a33b3a043498e90d8b36df7de7e53d21b2a4f1c890da",
+  "source_size": 52044
+ },
+ "SUMATERA_BARAT_PAYAKUMBUH_KOTA": {
+  "format": "txt",
+  "sha256": "0f20240761fc2d01fef84fcf8b2880a108415b0a6638713553f2b67260fa5e69",
+  "source": "SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt",
+  "source_mtime_ns": 1791244757217564700,
+  "source_sha256": "759b547905c8085c96b063e329bb6cc624b05d69fe7b80e030c1f2352a991886",
+  "source_size": 65054
+ },
+ "SUMATERA_BARAT_PESISIR_SELATAN": {
+  "format": "txt",
+  "sha256": "417d3d2c185fbdfc5bf84ac0a1d719db375ca457b8ac81082458d503e1dc1b38",
+  "source": "SUMATERA_BARAT_PESISIR_SELATAN.txt",
+  "source_mtime_ns": 1791244757222559300,
+  "source_sha256": "491686eb9ea638f2e2e122efef305eaaa00ff0ff3c5656c8a3cfec01fdf6bfa8",
+  "source_size": 71806
+ },
+ "SUMATERA_BARAT_SOLOK_KOTA": {
+  "format": "txt",
+  "sha256": "3f679ffe257975807b495eee205d938868a9ed3907ab68dfde70b81836f1d8c1",
+  "source": "SUMATERA_BARAT_SOLOK_KOTA.txt",
+  "source_mtime_ns": 1791244757227545700,
+  "source_sha256": "eed7cd78443ddcde4c47bf5098de5fc9d4c88437088a07f43fae88412bc3422a",
+  "source_size": 48182
+ },
+ "SUMATERA_SELATAN_MUARA_ENIM": {
+  "format": "txt",
+  "sha256": "6fb3d9647a71baee8089cbaec6094e40a93e8c3bbd4b25dfacaa4f2c9fe74320",
+  "source": "SUMATERA_SELATAN_MUARA_ENIM.txt",
+  "source_mtime_ns": 1791244757232547300,
+  "source_sha256": "143116eac9daeccba029a1a2087d589d34916ad6ef8e3195efdf188aae1194a4",
+  "source_size": 60030
+ },
+ "SUMATERA_SELATAN_MUSI_BANYUASIN": {
+  "format": "txt",
+  "sha256": "0c776f56400fbf1baedbd594bf35753068cabd9f6a2f66c4a8bda67325810ed8",
+  "source": "SUMATERA_SELATAN_MUSI_BANYUASIN.txt",
+  "source_mtime_ns": 1791244757236547100,
+  "source_sha256": "c12d86fef9dbf62ee30914228a680f0535a0a5a8ddff29178609581f2ae3b188",
+  "source_size": 47125
  },
  "SUMATERA_SELATAN_MUSI_RAWAS": {
   "format": "txt",
-  "sha256": "4ee8f71a139d2d14bd933a11d616b047d36922292fe4a1a99591af27591d79f5"
+  "sha256": "4ee8f71a139d2d14bd933a11d616b047d36922292fe4a1a99591af27591d79f5",
+  "source": "SUMATERA_SELATAN_MUSI_RAWAS.txt",
+  "source_mtime_ns": 1791244757249545300,
+  "source_sha256": "4ee8f71a139d2d14bd933a11d616b047d36922292fe4a1a99591af27591d79f5",
+  "source_size": 70852
+ },
+ "SUMATERA_SELATAN_MUSI_RAWAS_UTARA": {
+  "format": "txt",
+  "sha256": "0e32db2f134efada93f69d76e66b89156e1ebd783d62e1a77842aad84e639a44",
+  "source": "SUMATERA_SELATAN_MUSI_RAWAS_UTARA.txt",
+  "source_mtime_ns": 1791244757376892400,
+  "source_sha256": "5b11dc1c40cef9f3329c627fc2f52cefc0c6ffc3494abae165c4b62e890d8b13",
+  "source_size": 27046
+ },
+ "SUMATERA_SELATAN_OGAN_KOMERING_ULU": {
+  "format": "txt",
+  "sha256": "66a19c97384049157975d7a0c0300f243469835e9a1a2aacbbcf13f504763b7b",
+  "source": "SUMATERA_SELATAN_OGAN_KOMERING_ULU.txt",
+  "source_mtime_ns": 1791244757379465000,
+  "source_sha256": "989957dab7f30e846d4f4d0cc86b0a7427270d0e6a860c9b6a8634abd03f5326",
+  "source_size": 30902
+ },
+ "SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN": {
+  "format": "txt",
+  "sha256": "47f778f1bba91414bd34878e384cc1edb040989e2cada37f4f5a180d080ef1aa",
+  "source": "SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt",
+  "source_mtime_ns": 1791244757384354300,
+  "source_sha256": "734ab26831aceb6ef4bea200d8e6a8fcdd700c2f605aa17aec558f8f38d8cd8a",
+  "source_size": 54181
+ },
+ "SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2": {
+  "format": "txt",
+  "sha256": "4f6dfee4d45dd531cf7876f83364c1d4d1297e53483a0209be7eeadd2cf121ee",
+  "source": "SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt",
+  "source_mtime_ns": 1791244757387466800,
+  "source_sha256": "e1511b92f57a758a84dcf3a3b174b3c2a48fca8e3d8b25e48b2a3fbaea2e8b9c",
+  "source_size": 98297
+ },
+ "SUMATERA_SELATAN_PALEMBANG_KOTA": {
+  "format": "txt",
+  "sha256": "596678f3a9d4ba9487204198e5012ddb7be5be88d0d2253fb124de15c2ced536",
+  "source": "SUMATERA_SELATAN_PALEMBANG_KOTA.txt",
+  "source_mtime_ns": 1791244757389459800,
+  "source_sha256": "36bd5efee0d7dbbe6e5b2c6ed64517ab8b93e1f23262630fe2a4fe38033f84e5",
+  "source_size": 22544
+ },
+ "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR": {
+  "format": "txt",
+  "sha256": "2bc0596e7b79139d443ddc473413cf93c63e35d7920722b1c5b1b0ee8323acd1",
+  "source": "SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt",
+  "source_mtime_ns": 1791244757392571800,
+  "source_sha256": "d980ab98e72afb53d2e6b8e8e67bfe397bce311218ac52c4d3519f752bba063b",
+  "source_size": 38876
+ },
+ "SUMATERA_SELATAN_PRABUMULIH_KOTA": {
+  "format": "txt",
+  "sha256": "0748a4fa469b6213d600125ae57e0f27e4e5d28930a2f02534f8d2f9f751c49f",
+  "source": "SUMATERA_SELATAN_PRABUMULIH_KOTA.txt",
+  "source_mtime_ns": 1791244757751423600,
+  "source_sha256": "9d956ac6e050d44a8baea774abdb13f9d3ef06d83862d82901eb9579231cc414",
+  "source_size": 55402
+ },
+ "SUMATERA_UTARA_BATU_BARA": {
+  "format": "txt",
+  "sha256": "714de11458fc5fcb795f36b6f77dad9621e50f3eed1f3c93e5d4811870fd3fbc",
+  "source": "SUMATERA_UTARA_BATU_BARA.txt",
+  "source_mtime_ns": 1791244757771983100,
+  "source_sha256": "dca0a3a993a75d8acd0e47d2b7213a352fd40d3b206300281469822867afe060",
+  "source_size": 23013
+ },
+ "SUMATERA_UTARA_LABUHANBATU_SELATAN": {
+  "format": "txt",
+  "sha256": "efd405196609d4e4d0f3d56878c3bf4a5a76de05b417be93994f19b1fb462725",
+  "source": "SUMATERA_UTARA_LABUHANBATU_SELATAN.txt",
+  "source_mtime_ns": 1791244757776984300,
+  "source_sha256": "6ec8fddbfa4bc87baaa65d9f2a6ef87174fe2dc36a2fa4f72be5185123ca890d",
+  "source_size": 50567
+ },
+ "SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA": {
+  "format": "txt",
+  "sha256": "93233747fde32893ee970fcce60dd9d62d1f2ee715c715fe6318ed08d7a895f1",
+  "source": "SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt",
+  "source_mtime_ns": 1791244757780517700,
+  "source_sha256": "052c2fc3ff690a98bdab6b3ac6f2372fecf9c51c9258b291d5f3f47c2cffb86a",
+  "source_size": 52101
+ },
+ "SUMATERA_UTARA_PAKPAK_BHARAT": {
+  "format": "txt",
+  "sha256": "c6808108cb1bbbe0c79cf97f38f2ebbd70958e3325401d46d2a2d2ac371cbf9a",
+  "source": "SUMATERA_UTARA_PAKPAK_BHARAT.txt",
+  "source_mtime_ns": 1791244757783525500,
+  "source_sha256": "b7ad2bdb10d3ce235c7c1468e127d106df971ed0503af17a5ee4ca8ddbc0348b",
+  "source_size": 33458
  }
 }
