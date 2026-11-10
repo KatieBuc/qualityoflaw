@@ -1,0 +1,967 @@
+{
+  "policy_file": "93. Lao PDR - DomViol - English (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T15:21:50.888730+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Domestic violence against women and children is an act or omission committed by someone in the family which causes physical [or] mental impact on[,] or [which impacts on the] assets of[,] women and children in the family.\nVictims of domestic violence have the right to seek assistance from other family members, persons nearby and relatives, or to report to village administrations aiming at educating the violator, stopping the violence and changing his or her bad behaviour to [achieve] a united, harmonious and happy family.\nAny individual committing domestic violence against women and children, as provided in Articles 30, 31 and 32 of this law, shall be re-educated and receive an [official] warning37.",
+      "rationale": "The text contains operative provisions that define domestic violence against women and children, establish victims’ rights to seek assistance/report, and set out measures/sanctions for perpetrators (including referral to penal law where it constitutes an offence).",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Domestic violence against women and children is an act or omission committed by someone in the family which causes physical [or] mental impact on[,] or [which impacts on the] assets of[,] women and children in the family.\n\nVictims of domestic violence have the right to seek assistance from other family members, persons nearby and relatives, or to report to village administrations aiming at educating the violator, stopping the violence and changing his or her bad behaviour to [achieve] a united, harmonious and happy family.\n\nAny individual committing domestic violence against women and children, as provided in Articles 30, 31 and 32 of this law, shall be re-educated and receive an [official] warning37.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "The use of violence to cause physical impact is an act of any individual in the family that causes death, incapacity, or injury to other members of the family as a result of battery, torture, locking up or tying up the person, rape or other immoral acts.",
+      "rationale": "Sexual violence is substantively addressed by including rape (and other immoral acts) within an operative definition/classification of violence causing physical impact within the family context, indicating it is a covered form of violence under the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "The use of violence to cause physical impact is an act of any individual in the family that causes death, incapacity, or injury to other members of the family as a result of battery, torture, locking up or tying up the person, rape or other immoral acts.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "The use of violence to cause physical impact is an act of any individual in the family that causes death, incapacity, or injury to other members of the family as a result of battery, torture, locking up or tying up the person, rape or other immoral acts.",
+      "rationale": "The framework includes an operative definition of violence causing physical impact, listing acts such as battery, torture, and restraint that result in death/incapacity/injury, which substantively covers physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "The use of violence to cause physical impact is an act of any individual in the family that causes death, incapacity, or injury to other members of the family as a result of battery, torture, locking up or tying up the person, rape or other immoral acts.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "The use of violence to cause mental impact is an act of any individual in the family that causes damage to the mental health of women and children in the same family, such as: adultery, coercion, insults, defamation, scorn, [and] putting up obstacles against the performance of different kinds of activities[,] especially social activities.",
+      "rationale": "The framework defines violence causing mental impact as acts damaging mental health (e.g., coercion, insults, defamation, scorn), which constitutes an operative recognition/definition of psychological violence.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "The use of violence to cause mental impact is an act of any individual in the family that causes damage to the mental health of women and children in the same family, such as: adultery, coercion, insults, defamation, scorn, [and] putting up obstacles against the performance of different kinds of activities[,] especially social activities.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Domestic violence against women and children is an act or omission committed by someone in the family which causes physical [or] mental impact on[,] or [which impacts on the] assets of[,] women and children in the family.\nTranslation Endorsed by the Law Committee of the National Assembly of the Lao PDR her own interests in an unlawful way, non-performance of obligations to take care of the family23, causing women to lose their inheritance rights as provided in the laws, [and] destroying the house [or] property of the family.",
+      "rationale": "Domestic violence is defined to include impacts on assets, and the law further specifies conduct constituting impact on assets (including unlawful use of family assets and non-performance of obligations to take care of the family), which substantively addresses economic/asset-related abuse as a form of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Domestic violence against women and children is an act or omission committed by someone in the family which causes physical [or] mental impact on[,] or [which impacts on the] assets of[,] women and children in the family.\n\nTranslation Endorsed by the Law Committee of the National Assembly of the Lao PDR her own interests in an unlawful way, non-performance of obligations to take care of the family23, causing women to lose their inheritance rights as provided in the laws, [and] destroying the house [or] property of the family.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention or regulate early/child marriage, FGM/C, honour crimes, female infanticide, or similar harmful practices; the excerpts focus on domestic violence, trafficking, and general health protections.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, prevention, or monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Trafficking in women means the recruitment, hiding, moving, transportation12, transfer, harbouring, [or] receipt of women, within or across national borders, by means of deception, the giving or receiving of bribes, threats, the use of force, [the use of] other forms of coercion, abduction, debt bondage or by other means[,] for forced labour, [for] prostitution, [for] publishing\nTrafficking in women and children is an offence.\nAny person committing the offence of trafficking in women and children shall be punished by five to fifteen years of imprisonment and shall be fined from 10,000,000 Kip to 100,000,000 Kip, and shall be subject to confiscation of property as provided under Article 32 of the Penal Law.",
+      "rationale": "The framework defines trafficking in women, explicitly states it is an offence, and provides penal measures for committing the offence, which constitutes substantive legal coverage of trafficking.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "Trafficking in women means the recruitment, hiding, moving, transportation12, transfer, harbouring, [or] receipt of women, within or across national borders, by means of deception, the giving or receiving of bribes, threats, the use of force, [the use of] other forms of coercion, abduction, debt bondage or by other means[,] for forced labour, [for] prostitution, [for] publishing\n\nTrafficking in women and children is an offence.\n\nAny person committing the offence of trafficking in women and children shall be punished by five to fifteen years of imprisonment and shall be fined from 10,000,000 Kip to 100,000,000 Kip, and shall be subject to confiscation of property as provided under Article 32 of the Penal Law.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Trafficking in women means the recruitment, hiding, moving, transportation12, transfer, harbouring, [or] receipt of women, within or across national borders, by means of deception, the giving or receiving of bribes, threats, the use of force, [the use of] other forms of coercion, abduction, debt bondage or by other means[,] for forced labour, [for] prostitution, [for] publishing",
+      "rationale": "The trafficking definition explicitly includes exploitation for prostitution and pornography, establishing a clear sexual-exploitation nexus within an operative provision, which substantively addresses sexual exploitation (including in the trafficking context).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Trafficking in women means the recruitment, hiding, moving, transportation12, transfer, harbouring, [or] receipt of women, within or across national borders, by means of deception, the giving or receiving of bribes, threats, the use of force, [the use of] other forms of coercion, abduction, debt bondage or by other means[,] for forced labour, [for] prostitution, [for] publishing",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not define, prohibit, or otherwise recognize cyber/online/digital forms of violence; references to being photographed or video recorded relate to victim privacy protections rather than technology-facilitated violence as a form of violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Any person committing the offence of trafficking in women and children shall be punished by five to fifteen years of imprisonment and shall be fined from 10,000,000 Kip to 100,000,000 Kip, and shall be subject to confiscation of property as provided under Article 32 of the Penal Law.",
+      "rationale": "The framework establishes a specific criminal offence (trafficking in women and children) and attaches explicit criminal sanctions including imprisonment and fines, satisfying the requirement that at least one form of violence against women is criminalised with a specified penalty.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Any person committing the offence of trafficking in women and children shall be punished by five to fifteen years of imprisonment and shall be fined from 10,000,000 Kip to 100,000,000 Kip, and shall be subject to confiscation of property as provided under Article 32 of the Penal Law.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe assistance, mediation/conciliation, reporting to police, and prosecution pathways, but do not specify any protection/restraining order mechanism with an application process, issuing authority, duration, and consequences for breach.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text assigns roles to police officers (receiving complaints, conciliation, instituting proceedings, cooperating with doctors/social workers), it does not designate or mandate a specific specialised unit/desk/division within police services for VAW victims.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences reference standard prosecution in court and general criminal procedure steps, but do not establish any specialised court/chamber/judicial officer or expedited/specialised judicial procedure for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Rape is mentioned as an example of conduct causing physical impact within the family, and serious domestic violence may be treated as an offence under penal law, but there is no operative provision expressly criminalising rape within marriage, stating that spousal status is not a defence, or otherwise removing a marital/spousal exemption for sexual violence.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Women's Union plays the central role in coordination with other concerned sectors.\nWhen it is deemed necessary, the government may establish a task force committee on the management and monitoring of the development and protection of women.",
+      "rationale": "The text establishes an inter-sectoral coordination arrangement by assigning multiple sectors and specifying that the Lao Women’s Union plays a central coordination role with other concerned sectors, and it also provides for creation of a task force committee when necessary—both constituting formal coordination mechanisms/processes rather than mere parallel assignment of responsibilities.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Women’s Union plays the central role in coordination with other concerned sectors.\n\nWhen it is deemed necessary, the government may establish a task force committee on the management and monitoring of the development and protection of women.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss management/monitoring of activities, coordination among sectors, and reporting of trafficking information to authorities, but they do not establish or assign responsibility for a system/entity to collect, record, manage, exchange, or report data specifically on violence against women/domestic violence cases or victims as an information-management function.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference gender equality and broad policies for women’s development and protection, but they do not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal points, working groups, or integration into planning/budgeting as mainstreaming). Under the coding rules, gender equality alone is insufficient.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences do not mandate training, technical guidance, or capacity building for implementing officials or service providers. References to dissemination/education and to women receiving professional training are not directed at government implementers for VAW response, and thus fall under exclusions.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The government uniformly manages and monitors the implementation of activities relating to the development and protection of women.\nThe government assigns concerned sectors such as public health, education, information and culture, labour and social welfare, national security, foreign affairs, [and] local administrations, together with the Lao Women's Union, the Lao Front for National Construction, the Lao Federation of Trade Unions, the",
+      "rationale": "The framework designates the government and specified sectors to “manage and monitor” implementation of activities relating to development and protection of women, establishing a monitoring function and responsible bodies for oversight of implementation (including areas that encompass domestic violence).",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "The government uniformly manages and monitors the implementation of activities relating to the development and protection of women.\n\nThe government assigns concerned sectors such as public health, education, information and culture, labour and social welfare, national security, foreign affairs, [and] local administrations, together with the Lao Women’s Union, the Lao Front for National Construction, the Lao Federation of Trade Unions, the",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "The State provides an appropriate budget to organisations that provide assistance to victims of trafficking and domestic violence against women and children.",
+      "rationale": "The text provides that the State provides an appropriate budget to organisations assisting victims of trafficking and domestic violence, which constitutes an operative funding provision tied to response services for domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "The State provides an appropriate budget to organisations that provide assistance to victims of trafficking and domestic violence against women and children.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe general state responsibilities, budgeting for organisations that assist victims, and cooperation among police, doctors, and social workers in providing urgent assistance, but they do not explicitly establish, mandate, or recognise a designated integrated/one-stop/multidisciplinary service mechanism or unit for women victims/survivors of violence. References to counselling units and village mediation units relate to dispute settlement/mediation and complaint pathways rather than an integrated victim-support service mechanism.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Victims of domestic violence have the right to seek assistance from other family members, persons nearby and relatives, or to report to village administrations aiming at educating the violator, stopping the violence and changing his or her bad behaviour to [achieve] a united, harmonious and happy family.\nIn the case of domestic violence which results in serious impact constituting an offence, the victims shall have the right to report to police officers to deal with the matter in accordance with laws and regulations.",
+      "rationale": "The framework provides operative avenues for victims of domestic violence to seek assistance and to report to village administrations and police officers, which constitutes a designated reporting/help-seeking mechanism even without a hotline.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "Victims of domestic violence have the right to seek assistance from other family members, persons nearby and relatives, or to report to village administrations aiming at educating the violator, stopping the violence and changing his or her bad behaviour to [achieve] a united, harmonious and happy family.\n\nIn the case of domestic violence which results in serious impact constituting an offence, the victims shall have the right to report to police officers to deal with the matter in accordance with laws and regulations.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "During the process20, police officers must cooperate with concerned counterparts such as doctors, social workers and other parties in order to give necessary and urgent assistance, to provide medical treatment and counselling services to the victims and to send them to safe shelter.",
+      "rationale": "The framework requires police officers, in cooperation with doctors/social workers/others, to provide urgent assistance and to send victims to a safe shelter, which is an operative provision for shelter/safe accommodation as part of victim assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "During the process20, police officers must cooperate with concerned counterparts such as doctors, social workers and other parties in order to give necessary and urgent assistance, to provide medical treatment and counselling services to the victims and to send them to safe shelter.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "In order to protect the rights and interests of women and children, women and children have the rights to counselling, legal advice, moral advice, advice on health issues and others30 from organisations that provide counselling services.",
+      "rationale": "The framework provides an operative right for women and children to receive counselling including legal advice from organisations that provide counselling services, which constitutes provision of legal advice/assistance (even if not framed as legal aid representation).",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "In order to protect the rights and interests of women and children, women and children have the rights to counselling, legal advice, moral advice, advice on health issues and others30 from organisations that provide counselling services.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "During the process20, police officers must cooperate with concerned counterparts such as doctors, social workers and other parties in order to give necessary and urgent assistance, to provide medical treatment and counselling services to the victims and to send them to safe shelter.",
+      "rationale": "The framework requires that police officers cooperate with doctors/social workers/others to provide necessary urgent assistance including medical treatment and counselling services to victims, explicitly linking health/medical services to victims of violence/trafficking.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "During the process20, police officers must cooperate with concerned counterparts such as doctors, social workers and other parties in order to give necessary and urgent assistance, to provide medical treatment and counselling services to the victims and to send them to safe shelter.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "During the process20, police officers must cooperate with concerned counterparts such as doctors, social workers and other parties in order to give necessary and urgent assistance, to provide medical treatment and counselling services to the victims and to send them to safe shelter.\nIn order to protect the rights and interests of women and children, women and children have the rights to counselling, legal advice, moral advice, advice on health issues and others30 from organisations that provide counselling services.",
+      "rationale": "The framework includes operative provisions for counselling services to victims (including counselling services provided during assistance by officers) and a general right of women and children to counselling from counselling-service organisations, which covers psychosocial/counselling support even if not explicitly labelled trauma therapy.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "During the process20, police officers must cooperate with concerned counterparts such as doctors, social workers and other parties in order to give necessary and urgent assistance, to provide medical treatment and counselling services to the victims and to send them to safe shelter.\n\nIn order to protect the rights and interests of women and children, women and children have the rights to counselling, legal advice, moral advice, advice on health issues and others30 from organisations that provide counselling services.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to counselling, legal advice, moral advice, and health advice, but do not mention religious or spiritual counselling, faith-based support, or roles for religious leaders/institutions in victim support.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "4. To request for compensation, to be rehabilitated and to be reintegrated into the society;\n8. To receive suitable assistance in the form of shelter, food, clothes, medical services, vocational training, repatriation and others;",
+      "rationale": "The framework provides that victims (defined here for trafficking) may request to be rehabilitated and reintegrated into society and to receive assistance including vocational training, which are longer-term recovery/reintegration supports (even though not explicitly framed for domestic-violence victims in the cited sentences).",
+      "coverage": "Substantive",
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. To request for compensation, to be rehabilitated and to be reintegrated into the society;\n\n8. To receive suitable assistance in the form of shelter, food, clothes, medical services, vocational training, repatriation and others;",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "Any individual committing domestic violence against women and children, as provided in Articles 30, 31 and 32 of this law, shall be re-educated and receive an [official] warning37.",
+      "rationale": "The framework provides that individuals committing domestic violence shall be re-educated and receive an official warning, which constitutes a perpetrator-focused behaviour-change/rehabilitative measure beyond purely punitive sanctions.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Any individual committing domestic violence against women and children, as provided in Articles 30, 31 and 32 of this law, shall be re-educated and receive an [official] warning37.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include education/dissemination provisions focused on trafficking (not domestic violence) and several provisions about educating/\"re-educating\" individual perpetrators or educating parties during dispute settlement/assistance. None of the retrieved sentences explicitly require public information/awareness/education activities specifically about violence against women/domestic violence as a primary prevention measure (e.g., campaigns or public education on VAW).",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions gender equality as an aim and includes a provision about disseminating information/educating families to be harmonious and have gender equality, the coding rules require that the educational/awareness activity about gender equality or women’s rights be explicitly linked to the prevention of violence against women. The retrieved sentences do not explicitly link gender-equality education/awareness to preventing VAW.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences include dissemination/education about Party/State laws and policies relating generally to women’s development and protection, but they do not specify dissemination/education about laws/policies/legal protections concerning violence against women/domestic violence. Other education references relate to mediation/conciliation or re-education of perpetrators, not public legal-awareness about VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention “education” in contexts such as educating perpetrators/parties during mediation or educating families, but they do not identify formal education systems (schools, curricula, educational institutions, teaching materials, or education authorities) or improvements in education quality as measures explicitly linked to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences do not provide prevention programmes or activities specifically targeting men or boys to prevent violence against women, nor do they address masculinities or harmful gender norms among men/boys as a prevention strategy. References to equality between women and men in the family and general domestic-violence response/education measures are not framed as engaging men/boys in primary prevention.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The Lao Front for National Construction, mass organisations, and social organisations have the responsibility to educate, create conditions for, and facilitate the development and protection of the rights and interests of women, and to participate in the implementation of policies, laws and regulations, mechanisms, and measures of the State as provided in Article 39 of this law.",
+      "rationale": "The framework assigns responsibilities to non-state social actors (including social organisations) to participate in implementing state measures for women’s rights and protection, which includes domestic violence against women and children under the law’s scope. This constitutes an operative provision establishing participation/collaboration with civil society-type organisations in implementation activities relevant to VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Lao Front for National Construction, mass organisations, and social organisations have the responsibility to educate, create conditions for, and facilitate the development and protection of the rights and interests of women, and to participate in the implementation of policies, laws and regulations, mechanisms, and measures of the State as provided in Article 39 of this law.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention administrative authorities, mass organisations, social organisations, village mediation units, and counselling units, but do not identify religious organisations/leaders or traditional/cultural leaders, nor establish collaboration with them in relation to violence against women.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text references the education sector as a government sector involved in management/monitoring, it does not establish engagement or collaboration with education institutions (schools/universities) as partners in preventing or responding to violence against women, nor assign such institutions VAW-related roles.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "The State promotes international relations and cooperation with regard to women in many aspects and forms, such as the development and advancement of women, the implementation of international conventions relating to women, and cooperation in the prevention and combating of trafficking in women and children, the combating of the use of violence against women, the exchange of experience and other forms of assistance and cooperation.",
+      "rationale": "The framework contains an operative provision on international cooperation that explicitly includes cooperation related to combating the use of violence against women, which constitutes authorisation/promotion of collaboration at the international level on VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "The State promotes international relations and cooperation with regard to women in many aspects and forms, such as the development and advancement of women, the implementation of international conventions relating to women, and cooperation in the prevention and combating of trafficking in women and children, the combating of the use of violence against women, the exchange of experience and other forms of assistance and cooperation.",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to dissemination of information and education generally, and to an ‘information and culture’ sector, but they do not identify media organisations/actors (journalists, broadcasters, publishers, etc.) or establish a mechanism/requirement to engage media in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "Persons nearby, individuals or organisations discovering, being aware of or being asked to give assistance to victims who are in a situation threatening their life [or] physical health, impacting on their mental health, or damaging their assets shall give assistance to the victims in the above-mentioned ways24.",
+      "rationale": "The framework establishes an operative expectation that persons nearby and individuals or organisations who discover or are asked to assist victims in threatening situations must provide assistance, which functions as a community/public engagement mechanism in response to domestic violence against women and children.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Persons nearby, individuals or organisations discovering, being aware of or being asked to give assistance to victims who are in a situation threatening their life [or] physical health, impacting on their mental health, or damaging their assets shall give assistance to the victims in the above-mentioned ways24.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to ‘individuals or organisations’ providing assistance, but do not specifically identify businesses, employers, private companies, or other private-sector actors, nor establish private-sector participation mechanisms tied to VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention that “the State” provides an appropriate budget and may establish a fund, but they do not specify any funding/budget source from local government budgets (e.g., local administrations’ own budgets). References to “local administrations” are about roles/management, not budget sourcing.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "The State provides an appropriate budget to organisations that provide assistance to victims of trafficking and domestic violence against women and children.",
+      "rationale": "The text explicitly states that the State provides an appropriate budget to organizations assisting victims of trafficking and domestic violence, which constitutes national government budget support.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "The State provides an appropriate budget to organisations that provide assistance to victims of trafficking and domestic violence against women and children.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "The State promotes international relations and cooperation with regard to women in many aspects and forms, such as the development and advancement of women, the implementation of international conventions relating to women, and cooperation in the prevention and combating of trafficking in women and children, the combating of the use of violence against women, the exchange of experience and other forms of assistance and cooperation.",
+      "rationale": "The policy explicitly promotes international relations and cooperation regarding women, including cooperation in combating violence against women and other forms of assistance/cooperation, which meets the criterion for explicit international support/cooperation.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "The State promotes international relations and cooperation with regard to women in many aspects and forms, such as the development and advancement of women, the implementation of international conventions relating to women, and cooperation in the prevention and combating of trafficking in women and children, the combating of the use of violence against women, the exchange of experience and other forms of assistance and cooperation.",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "In order to have effective development and protection of women, the State has a policy to establish a fund for the development of women.",
+      "rationale": "Beyond a general state budget, the policy mentions establishing a dedicated fund for the development of women, which is an additional (non-budget-line) financing mechanism/source and thus qualifies as another legal source of funding.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "In order to have effective development and protection of women, the State has a policy to establish a fund for the development of women.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to the State providing a budget and to local administrations in implementation/management roles, but they do not mention provincial government budgets or provincial-level budget allocations as a funding source.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 24,
+    "resolved": 24,
+    "rate": 1.0
+  }
+}

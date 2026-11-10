@@ -1,0 +1,963 @@
+{
+  "policy_file": "86. Kazakhstan - DomViol - Russian - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T15:31:21.792674+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "3) domestic violence — an intentional unlawful act (action or inaction) of one person in the sphere of family-domestic relations in relation to another (others), causing or containing a threat of causing physical and (or) mental suffering;\n3. A protective order shall prohibit committing domestic violence, against the will of the victim, searching for, pursuing, visiting, conducting oral, telephone conversations and contacting him or her by other means, including minor and (or) incapacitated members of his or her family.",
+      "rationale": "The text contains operative provisions that define “domestic violence” and establish legal protective measures (e.g., protective orders prohibiting domestic violence), indicating substantive legal coverage rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "3) бытовое насилие — умышленное противоправное деяние (действие или бездействие) одного лица в сфере семейно-бытовых отношений в отношении другого (других), причиняющее или содержащее угрозу причинения физического и (или) психического страдания;\n\n3. Защитным предписанием запрещается совершать бытовое насилие, вопреки воле потерпевшего разыскивать, преследовать, посещать, вести устные, телефонные переговоры и вступать с ним в контакты иными способами, включая несовершеннолетних и (или) недееспособных членов его семьи.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence may be expressed in the form of physical, psychological, sexual and (or) economic violence.\n4. Sexual violence — intentional unlawful action infringing on sexual inviolability or sexual freedom of a person, as well as actions of a sexual nature in relation to minors.",
+      "rationale": "Sexual violence is explicitly included as a form of domestic violence and is defined in operative provisions, meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Бытовое насилие может выражаться в виде физического, психологического, сексуального и (или) экономического насилия.\n\n4. Сексуальное насилие — умышленное противоправное действие, посягающее на половую неприкосновенность или половую свободу человека, а также действия сексуального характера по отношению к несовершеннолетним.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence may be expressed in the form of physical, psychological, sexual and (or) economic violence.\n2. Physical violence — intentional infliction of harm to health through the use of physical force and infliction of physical pain.",
+      "rationale": "Physical violence is listed as a covered form of domestic violence and is defined in operative text, which constitutes substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Бытовое насилие может выражаться в виде физического, психологического, сексуального и (или) экономического насилия.\n\n2. Физическое насилие — умышленное причинение вреда здоровью путем применения физической силы и причинения физической боли.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence may be expressed in the form of physical, psychological, sexual and (or) economic violence.\n3. Psychological violence — intentional impact on a person's psyche, humiliation of honor and dignity by means of threats, insults, blackmail or coercion (inducement) to commit offenses or acts that pose a danger to life or health, as well as leading to violation of mental, physical and personal development.",
+      "rationale": "Psychological violence is expressly included as a form of domestic violence and defined in operative provisions, satisfying substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Бытовое насилие может выражаться в виде физического, психологического, сексуального и (или) экономического насилия.\n\n3. Психологическое насилие — умышленное воздействие на психику человека, унижение чести и достоинства посредством угроз, оскорблений, шантажа или принуждение (понуждение) к совершению правонарушений или деяний, представляющих опасность для жизни или здоровья, а также ведущих к нарушению психического, физического и личностного развития.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence may be expressed in the form of physical, psychological, sexual and (or) economic violence.\n5. Economic violence — intentional deprivation of a person of housing, food, clothing, property, means to which he or she has a right provided by law.",
+      "rationale": "Economic violence is explicitly identified as a form of domestic violence and defined (including deprivation of housing/food/clothing/property/means), which is substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Бытовое насилие может выражаться в виде физического, психологического, сексуального и (или) экономического насилия.\n\n5. Экономическое насилие — умышленное лишение человека жилья, пищи, одежды, имущества, средств, на которые он имеет предусмотренное законом право.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice; the excerpts focus on domestic violence types and prevention measures without addressing harmful practices as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they establish any femicide-specific aggravation, definition, registry, or prevention/monitoring mechanism.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts address domestic violence prevention and victim assistance but do not mention trafficking in persons/human trafficking or trafficking victims; therefore the criterion is not met.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence is defined as a form of domestic violence, none of the provided sentences refer to sexual exploitation, sexual slavery, forced prostitution, or a sexual-exploitation nexus as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions cyber violence, online harassment, digital abuse, or any technology-facilitated form of violence; the text concerns domestic violence measures without a digital/online violence component.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe protective orders and explicitly tie violations of protective orders to administrative liability, and refer generally to situations involving elements of a criminal offense and criminal procedure, but they do not define any form of violence against women as a criminal offence with a specified criminal sanction (e.g., imprisonment/fine) within the shown text. References to the Criminal Procedure Code or to “domestic violence containing the elements of a criminal offense” do not, by themselves, establish criminal penalties in the framework excerpts provided.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "1. In order to ensure the safety of the victim and in the absence of grounds for administrative detention in the manner prescribed by the Code of the Republic of Kazakhstan on Administrative Offenses, or detention in the manner prescribed by Article 128 of the Criminal Procedure Code of the Republic of Kazakhstan, a protective order shall be issued by the heads of the territorial police body, the local police service of the internal affairs body, their deputies, district police inspectors, inspectors for juvenile affairs and for the protection of women from violence, taking into account the opinion of the victim, which shall be handed over for execution to the person who committed domestic violence or from whom there is a threat of its commission, against signature.\n5. The period of validity of the protective order shall be thirty days from the moment of its delivery to the person against whom it was issued.\n7. Violation of a protective order shall entail liability established by the Code of the Republic of Kazakhstan on Administrative Offenses.",
+      "rationale": "The text sets out an operative protective order mechanism, including the issuing authority (specified police officials), the duration (30 days), and a defined consequence for breach (liability under the Administrative Offenses Code). These elements satisfy the substantive coding requirements for protection/restraining orders.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. В целях обеспечения безопасности потерпевшего и при отсутствии оснований для производства административного задержания в порядке, предусмотренном Кодексом Республики Казахстан об административных правонарушениях, либо задержания в порядке, предусмотренном статьей 128 Уголовно-процессуального кодекса Республики Казахстан, начальниками территориального органа полиции, местной полицейской службы органа внутренних дел, их заместителями, участковыми инспекторами полиции, инспекторами по делам несовершеннолетних и по защите женщин от насилия выносится защитное предписание с учетом мнения потерпевшего, которое вручается для исполнения лицу, совершившему бытовое насилие либо от которого исходит угроза его совершения, под расписку.\n\n5. Срок действия защитного предписания составляет тридцать суток с момента его вручения лицу, в отношении которого оно вынесено.\n\n7. Нарушение защитного предписания влечет ответственность, установленную Кодексом Республики Казахстан об административных правонарушениях.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences mention “inspectors … for the protection of women from violence” among officials who may issue protective orders, but they do not designate or mandate a specific specialised unit/desk/division within police services with a defined institutional mandate to handle VAW cases. Listing an inspector role is not the same as establishing a specialised unit within police services under the criterion’s rules.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts reference courts in general (e.g., the court may establish special behavioral requirements) and general criminal procedure measures, but they do not establish a specialised court, chamber, designated judicial officer, or specialised/expedited judicial procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text defines “sexual violence” as a type of domestic violence and defines family-domestic relations to include spouses, but it does not expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a spousal exemption from criminal liability for sexual violence. Under the coding rules, general references to sexual violence/domestic violence are insufficient without explicit applicability/removal of exemption.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "3) ensures interaction of subjects of prevention of domestic violence and coordination of their activities;\n2. Local executive bodies: 1) Excluded in accordance with the Law of the RK dated 03.07.13 No. 124-V (see previous version) 2) ensure interaction of subjects of prevention of domestic violence at the local level; 3) establish assistance organizations and ensure their functioning; 4) identify and maintain records of minors affected by domestic violence and dysfunctional families; Subparagraph 5 was amended in accordance with the Law of the RK dated 20.04.23 No. 226-VII (entered into force on July 1, 2023) (see previous version) 5) organize the provision of special social services to victims in the manner established by the legislation of the Republic of Kazakhstan on social protection; The paragraph was supplemented with subparagraph 6 in accordance with the Law of the RK dated 24.11.21 No. 75-VII 6) ensure the analysis of the needs of students and pupils subjected to domestic violence in the provision of special social services in accordance with the standards for the provision of special social services and submit proposals to the authorized body in the field of education.",
+      "rationale": "The framework assigns the Government responsibility to ensure interaction and coordination among subjects of domestic violence prevention, and separately assigns local executive bodies responsibility to ensure interaction of prevention subjects at the local level—together constituting an operative coordination mechanism across agencies/sectors.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "3) обеспечивает взаимодействие субъектов профилактики бытового насилия и координацию их деятельности;\n\n2. Местные исполнительные органы: 1) Исключен в соответствии с Законом РК от 03.07.13 г. № 124-V (см. стар. ред.) 2) обеспечивают взаимодействие субъектов профилактики бытового насилия на местном уровне; 3) создают организации по оказанию помощи и обеспечивают их функционирование; 4) выявляют и ведут учет несовершеннолетних, пострадавших от бытового насилия, и неблагополучных семей; В подпункт 5 внесены изменения в соответствии с Законом РК от 20.04.23 г. № 226-VII (введен в действие с 1 июля 2023 г.) (см. стар. ред.) 5) организуют предоставление специальных социальных услуг потерпевшим в порядке, установленном законодательством Республики Казахстан о социальной защите; Пункт дополнен подпунктом 6 в соответствии с Законом РК от 24.11.21 г. № 75-VII 6) обеспечивают проведение анализа потребностей обучающихся и воспитанников, подвергшихся бытовому насилию, в предоставлении специальных социальных услуг в соответствии со стандартами оказания специальных социальных услуг и направляют предложения в уполномоченный орган в области образования.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "2. Local executive bodies: 1) Excluded in accordance with the Law of the RK dated 03.07.13 No. 124-V (see previous version) 2) ensure interaction of subjects of prevention of domestic violence at the local level; 3) establish assistance organizations and ensure their functioning; 4) identify and maintain records of minors affected by domestic violence and dysfunctional families; Subparagraph 5 was amended in accordance with the Law of the RK dated 20.04.23 No. 226-VII (entered into force on July 1, 2023) (see previous version) 5) organize the provision of special social services to victims in the manner established by the legislation of the Republic of Kazakhstan on social protection; The paragraph was supplemented with subparagraph 6 in accordance with the Law of the RK dated 24.11.21 No. 75-VII 6) ensure the analysis of the needs of students and pupils subjected to domestic violence in the provision of special social services in accordance with the standards for the provision of special social services and submit proposals to the authorized body in the field of education.",
+      "rationale": "The framework assigns local executive bodies responsibility to identify and maintain records of minors affected by domestic violence and dysfunctional families, which is an explicit duty to record/document domestic-violence-related cases/victims (at least for minors).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Местные исполнительные органы: 1) Исключен в соответствии с Законом РК от 03.07.13 г. № 124-V (см. стар. ред.) 2) обеспечивают взаимодействие субъектов профилактики бытового насилия на местном уровне; 3) создают организации по оказанию помощи и обеспечивают их функционирование; 4) выявляют и ведут учет несовершеннолетних, пострадавших от бытового насилия, и неблагополучных семей; В подпункт 5 внесены изменения в соответствии с Законом РК от 20.04.23 г. № 226-VII (введен в действие с 1 июля 2023 г.) (см. стар. ред.) 5) организуют предоставление специальных социальных услуг потерпевшим в порядке, установленном законодательством Республики Казахстан о социальной защите; Пункт дополнен подпунктом 6 в соответствии с Законом РК от 24.11.21 г. № 75-VII 6) обеспечивают проведение анализа потребностей обучающихся и воспитанников, подвергшихся бытовому насилию, в предоставлении специальных социальных услуг в соответствии со стандартами оказания специальных социальных услуг и направляют предложения в уполномоченный орган в области образования.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences explicitly require or establish gender mainstreaming as an institutional mechanism (nor a gender mainstreaming focal point/working group, nor integration of gender mainstreaming into planning/budgeting) for implementing violence prevention/protection.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "17) ensure the organization of special training courses on issues of prevention of domestic violence for employees of internal affairs bodies;",
+      "rationale": "The framework explicitly mandates internal affairs bodies to ensure the organization of special training courses on issues of prevention of domestic violence for their employees, which is a clear training/capacity-building requirement for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "17) обеспечивают организацию специальных учебных курсов по вопросам профилактики бытового насилия для сотрудников органов внутренних дел;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "1. Local representative bodies: 1) Excluded in accordance with the Law of the RK dated 03.07.13 No. 124-V (see previous version) 2) approve and monitor the execution of local budgets with regard to expenses for the prevention of domestic violence; 3) promote the implementation by citizens and organizations of the provisions of this Law.\n2) ensures monitoring of the analysis by local executive bodies of the needs of students and pupils subjected to domestic violence in the provision of special social services in accordance with the standards for the provision of special social services;",
+      "rationale": "The framework includes operative provisions requiring monitoring functions related to implementation: local representative bodies approve and monitor execution of local budgets for domestic-violence-prevention expenses, and the authorized education body ensures monitoring of local executive bodies’ analysis of needs of students/pupils subjected to domestic violence for special social services.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Местные представительные органы: 1) Исключен в соответствии с Законом РК от 03.07.13 г. № 124-V (см. стар. ред.) 2) утверждают и контролируют исполнение местных бюджетов в части расходов на профилактику бытового насилия; 3) содействуют исполнению гражданами и организациями норм настоящего Закона.\n\n2) обеспечивает ведение мониторинга за проведением местными исполнительными органами анализа потребностей обучающихся и воспитанников, подвергшихся бытовому насилию, в предоставлении специальных социальных услуг в соответствии со стандартами оказания специальных социальных услуг;",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "3. Financing of the activities of assistance organizations is carried out at the expense of budgetary funds and other sources not prohibited by the legislation of the Republic of Kazakhstan.",
+      "rationale": "The framework provides that financing of assistance organizations’ activities is carried out at the expense of budgetary funds (and other lawful sources), which establishes a funding provision for domestic-violence-related assistance services (even if not explicitly labeled as a national-budget line item).",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Финансирование деятельности организации по оказанию помощи осуществляется за счет бюджетных средств и иных источников, не запрещенных законодательством Республики Казахстан.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "2) organize the provision of necessary psychological, pedagogical, medical, legal assistance to victims, if necessary refer them to healthcare organizations for the provision of medical assistance and further rehabilitation;\n3) in accordance with their capabilities provide temporary accommodation to victims; 3-1) provide victims with special social services, and also apply on their behalf to local executive bodies of districts, cities of regional significance with an application for the provision of guaranteed and (or) additional volume of special social services provided in excess of the guaranteed volume;",
+      "rationale": "The law establishes and regulates “assistance organizations” that receive victims and organize multiple forms of assistance (psychological/pedagogical/medical/legal) and can provide temporary accommodation and referrals, which constitutes an integrated/multi-service victim-support mechanism in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) организуют предоставление необходимой психологической, педагогической, медицинской, юридической помощи потерпевшим, при необходимости направляют их в организации здравоохранения для оказания медицинской помощи и дальнейшей реабилитации;\n\n3) в соответствии с возможностями предоставляют временное проживание потерпевшим; 3-1) оказывают потерпевшим специальные социальные услуги, а также обращаются в их интересах в местные исполнительные органы районов, городов областного значения с заявлением о предоставлении гарантированного и (или) дополнительного объема специальных социальных услуг, предоставляемых сверх гарантированного объема;",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "6) consider applications and reports on facts of domestic violence or threats of its commission with on-site visits and take measures to suppress them;",
+      "rationale": "The framework assigns internal affairs bodies the function of considering applications and reports about domestic violence or threats and taking measures, which constitutes an operative reporting mechanism/service through a designated authority (even though no hotline is specified).",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "6) рассматривают заявления и сообщения о фактах бытового насилия или об угрозе их совершения с выездом на место и принимают меры по их пресечению;",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "3) in accordance with their capabilities provide temporary accommodation to victims; 3-1) provide victims with special social services, and also apply on their behalf to local executive bodies of districts, cities of regional significance with an application for the provision of guaranteed and (or) additional volume of special social services provided in excess of the guaranteed volume;",
+      "rationale": "Assistance organizations are empowered to provide temporary accommodation to victims, which is an operative provision for shelter/safe accommodation as part of victim support.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "3) в соответствии с возможностями предоставляют временное проживание потерпевшим; 3-1) оказывают потерпевшим специальные социальные услуги, а также обращаются в их интересах в местные исполнительные органы районов, городов областного значения с заявлением о предоставлении гарантированного и (или) дополнительного объема специальных социальных услуг, предоставляемых сверх гарантированного объема;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "2) organize the provision of necessary psychological, pedagogical, medical, legal assistance to victims, if necessary refer them to healthcare organizations for the provision of medical assistance and further rehabilitation;",
+      "rationale": "Assistance organizations are tasked to organize provision of necessary legal assistance to victims, which is an operative legal-assistance service for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) организуют предоставление необходимой психологической, педагогической, медицинской, юридической помощи потерпевшим, при необходимости направляют их в организации здравоохранения для оказания медицинской помощи и дальнейшей реабилитации;",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "1) provide narcological, psychological, psychiatric, therapeutic and preventive care and conduct medical rehabilitation of victims and persons who committed domestic violence;\n1) develops and implements in the practice of healthcare organizations methodological recommendations for providing medical and psychological assistance to victims;",
+      "rationale": "Healthcare organizations are assigned responsibility to provide various forms of care and medical rehabilitation to victims, and the authorized health body develops and implements methodological recommendations for providing medical and psychological assistance to victims—both operative links between health services and victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) оказывают наркологическую, психологическую, психиатрическую, лечебно-профилактическую помощь и проводят медицинскую реабилитацию потерпевших и лиц, совершивших бытовое насилие;\n\n1) разрабатывает и внедряет в практику работы организаций здравоохранения методические рекомендации по оказанию медицинской и психологической помощи потерпевшим;",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "2) organize the provision of necessary psychological, pedagogical, medical, legal assistance to victims, if necessary refer them to healthcare organizations for the provision of medical assistance and further rehabilitation;\n1) provide narcological, psychological, psychiatric, therapeutic and preventive care and conduct medical rehabilitation of victims and persons who committed domestic violence;",
+      "rationale": "The framework provides for psychological assistance to victims through assistance organizations and assigns healthcare organizations to provide psychological/psychiatric care and medical rehabilitation to victims, meeting the requirement for psychosocial/psychological support services in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) организуют предоставление необходимой психологической, педагогической, медицинской, юридической помощи потерпевшим, при необходимости направляют их в организации здравоохранения для оказания медицинской помощи и дальнейшей реабилитации;\n\n1) оказывают наркологическую, психологическую, психиатрическую, лечебно-профилактическую помощь и проводят медицинскую реабилитацию потерпевших и лиц, совершивших бытовое насилие;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious or spiritual counselling, faith-based guidance, or roles for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "2) organize the provision of necessary psychological, pedagogical, medical, legal assistance to victims, if necessary refer them to healthcare organizations for the provision of medical assistance and further rehabilitation;\n1) provide narcological, psychological, psychiatric, therapeutic and preventive care and conduct medical rehabilitation of victims and persons who committed domestic violence;",
+      "rationale": "The framework explicitly links victim assistance to “further rehabilitation” via referrals and assigns healthcare organizations to conduct medical rehabilitation of victims, which constitutes recovery/rehabilitation support in operative provisions (even if broader reintegration measures are not detailed).",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) организуют предоставление необходимой психологической, педагогической, медицинской, юридической помощи потерпевшим, при необходимости направляют их в организации здравоохранения для оказания медицинской помощи и дальнейшей реабилитации;\n\n1) оказывают наркологическую, психологическую, психиатрическую, лечебно-профилактическую помощь и проводят медицинскую реабилитацию потерпевших и лиц, совершивших бытовое насилие;",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "4) conduct psycho-correctional programs with persons who committed domestic violence;",
+      "rationale": "Assistance organizations are tasked to conduct psycho-correctional programs with persons who committed domestic violence, which is an operative perpetrator-focused intervention/behaviour-change programme.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "4) проводят психокоррекционные программы с лицами, совершившими бытовое насилие;",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address domestic violence prevention generally and include items such as preventive conversations and legal education on domestic violence prevention, but they do not explicitly direct information/awareness/education activities at violence against women specifically (VAW/GBV) as required by the criterion; the text is framed around domestic violence in general rather than VAW.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences require or provide information/education/awareness activities specifically about gender equality or women’s rights, nor do they link such activities to preventing violence against women. The only education-related references concern domestic violence prevention or general law-abiding behavior, not gender equality/women’s rights education.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions “legal education work on issues of domestic violence prevention” and explaining social/legal consequences in preventive conversations, it does not specify dissemination/awareness about laws and policies (legal protections, remedies, obligations) concerning violence against women/domestic violence. Under the coding rules, general legal education without specifying VAW laws/policies is insufficient.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention the education authority developing programs/methodologies to form law-abiding behavior among students and monitoring needs of students subjected to domestic violence, but they do not explicitly identify education institutions/curricula as a measure to prevent violence against women (or even explicitly to prevent domestic violence). The link to VAW prevention required by the criterion is not explicit.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentences describe prevention activities that specifically engage men and boys, address masculinities/gender norms among men/boys, or otherwise target men/boys as part of primary prevention of violence against women.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "2. Assistance organizations are created by local executive bodies, as well as individuals and legal entities in the manner established by the legislation of the Republic of Kazakhstan.\n3. Financing of the activities of assistance organizations is carried out at the expense of budgetary funds and other sources not prohibited by the legislation of the Republic of Kazakhstan.\n3) jointly with assistance organizations organize and conduct measures for the prevention of domestic violence and rehabilitation of victims.",
+      "rationale": "The text establishes that assistance organizations (which may be created by individuals and legal entities, not only the state) participate in prevention and rehabilitation activities, and provides for their financing, indicating an operative mechanism for non-state/NGO-type participation in domestic violence prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Организации по оказанию помощи создаются местными исполнительными органами, а также физическими и юридическими лицами в порядке, установленном законодательством Республики Казахстан.\n\n3. Финансирование деятельности организации по оказанию помощи осуществляется за счет бюджетных средств и иных источников, не запрещенных законодательством Республики Казахстан.\n\n3) совместно с организациями по оказанию помощи организуют и проводят мероприятия по профилактике бытового насилия и реабилитации потерпевших.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors in relation to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to the authorized body in education and to implementation of programs in educational organizations, but do not establish engagement/collaboration with education institutions as partners (e.g., coordination/partnership mechanism with schools/universities) for VAW prevention/response; they assign duties to government bodies rather than creating collaboration with institutions.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference is the rule on applying ratified international treaties if they differ from the law, which is not an operative collaboration mechanism with international organisations on VAW/domestic violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention media organisations, journalists, broadcasters, or any media engagement mechanism related to domestic violence/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the law defines subjects of prevention broadly to include organizations and citizens, the cited sentences do not establish a specific mechanism for community/public participation or mobilisation in domestic violence/VAW prevention/response beyond general inclusion/interaction language.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text allows assistance organizations to be created by individuals and legal entities, but it does not specifically establish or require engagement with businesses/private-sector actors as such (e.g., employers, companies, industry bodies) in VAW prevention/response, nor does it set out private-sector partnership mechanisms.",
+      "coverage": null,
+      "confidence": 0.58,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.58
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "1. Local representative bodies: 1) Excluded in accordance with the Law of the RK dated 03.07.13 No. 124-V (see previous version) 2) approve and monitor the execution of local budgets with regard to expenses for the prevention of domestic violence; 3) promote the implementation by citizens and organizations of the provisions of this Law.",
+      "rationale": "The text explicitly assigns local representative bodies responsibility to approve and monitor execution of local budgets for expenses related to domestic violence prevention, which constitutes an explicit local government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Местные представительные органы: 1) Исключен в соответствии с Законом РК от 03.07.13 г. № 124-V (см. стар. ред.) 2) утверждают и контролируют исполнение местных бюджетов в части расходов на профилактику бытового насилия; 3) содействуют исполнению гражданами и организациями норм настоящего Закона.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention 'budgetary funds' in general and specifically reference local budgets, but do not explicitly identify national/central government budget funding as a source.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference is to the applicability of international treaties and a recommendation about studying international experience; there is no explicit mention of international funding, donor support, international organizations/UN agencies, or international assistance for implementation or services.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "3. Financing of the activities of assistance organizations is carried out at the expense of budgetary funds and other sources not prohibited by the legislation of the Republic of Kazakhstan.",
+      "rationale": "The policy states that financing is carried out from budgetary funds and 'other sources not prohibited by the legislation,' which explicitly provides for additional (non-specified) legally permissible funding sources beyond budgets.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Финансирование деятельности организации по оказанию помощи осуществляется за счет бюджетных средств и иных источников, не запрещенных законодательством Республики Казахстан.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to local budgets and local executive bodies (districts/cities), but do not explicitly mention provincial/regional government budgets as a distinct funding source.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 22,
+    "resolved": 22,
+    "rate": 1.0
+  }
+}

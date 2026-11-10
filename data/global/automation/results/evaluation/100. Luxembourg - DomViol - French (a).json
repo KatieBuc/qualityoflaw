@@ -1,0 +1,939 @@
+{
+  "policy_file": "100. Luxembourg - DomViol - French (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T13:57:30.281563+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(1) Within the framework of its missions of prevention of offenses and protection of persons, the Police, with the authorization of the State Prosecutor, expels from their home and its outbuildings persons against whom there exist indications that they are preparing to commit against a close person with whom they cohabit an offense against life or physical integrity, or that they are preparing to commit again against that person, already a victim, an offense against life or physical integrity.\nIn the second part, in Book I, following title VII entitled \"On judicial intervention concerning the rights of spouses\", a new title VII bis entitled \"On judicial intervention in cases of domestic violence\" is inserted as follows:",
+      "rationale": "The candidate sentences include operative provisions explicitly framed as part of a law on domestic violence, including police expulsion powers to protect a cohabiting close person and insertion of a civil-procedure title specifically for judicial intervention in cases of domestic violence. This goes beyond a mere mention and creates protection mechanisms and procedures tied to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Dans le cadre de ses missions de prévention des infractions et de protection des personnes, la Police, avec l’autorisation du procureur d’Etat, expulse de leur domicile et de ses dépendances les personnes contre lesquelles il existe des indices qu’elles se préparent à commettre à l’égard d’une personne proche avec laquelle elles cohabitent une infraction contre la vie ou l’intégrité physique, ou qu’elles se préparent à commettre à nouveau à l’égard de cette personne, déjà victime, une infraction contre la vie ou l’intégrité physique.\n\nDans la deuxième partie, au livre Ier, à la suite du titre VII intitulé « De l’intervention de justice quant aux droits des époux », est inséré un nouveau titre VII bis intitulé « De l’intervention de justice en cas de violence domestique » libellé comme suit:",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, there is no explicit mention of sexual violence, rape, sexual assault, sexual abuse, or sexual harassment, nor any operative definition/classification indicating sexual violence is covered. The text focuses on domestic violence measures and certain Penal Code provisions (threats, injuries/blows, etc.) without identifying sexual violence as such.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Shall be punished by imprisonment from six months to five years and a fine from 251 euros to 5,000 euros, whoever has voluntarily inflicted injuries or struck blows",
+      "rationale": "The candidate sentences include an operative Penal Code provision punishing those who voluntarily inflict injuries or strike blows, which is a direct criminal-law treatment of physical assault/bodily harm (physical violence).",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Sera puni d’un emprisonnement de six mois à cinq ans et d’une amende de 251 euros à 5.000 euros, quiconque aura volontairement fait des blessures ou porté des coups 1° au conjoint ou conjoint divorcé, à la personne avec laquelle il vit ou a vécu habituellement; 2° à un ascendant légitime ou naturel ou ses père ou mère adoptifs;",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "When a person makes the continuation of common life intolerable for a close person, either because they assault or threaten to assault them or because they have towards them a behaviour that seriously affects their mental health, the president of the district court orders them, upon the request of the concerned person, to leave the dwelling and its outbuildings and prohibits them from returning before the expiration of a maximum period of three months, without regard to any real or personal rights of the defendant party in relation to the dwelling.\na behaviour that seriously affects their mental health and thus makes any encounter with them intolerable, the president of the district court orders, upon the request of the concerned person, all or part of the injunctions or prohibitions listed below, provided that they do not go against fundamental and legitimate interests of the defendant party:",
+      "rationale": "The candidate sentences include operative civil-procedure provisions allowing judicial orders when a person’s behaviour seriously affects a close person’s mental health and makes encounters intolerable, including orders to leave the dwelling and other injunctions/prohibitions. This substantively addresses psychological harm/abuse through protective remedies.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Lorsqu’une personne rend intolérable pour une personne proche la continuation de la vie commune, soit parce qu’elle l’agresse ou la menace de l’agresser soit parce qu’elle a à son encontre un comportement qui porte gravement atteinte à sa santé psychique, le président du tribunal d’arrondissement lui enjoint, sur la demande de la personne concernée, de quitter le domicile et ses dépendances et lui interdit d’y retourner avant l’expiration d’un délai maximal de trois mois, et ce sans égard aux éventuels droits réels ou personnels de la partie défenderesse par rapport au domicile.\n\nencontre un comportement qui porte gravement atteinte à sa santé psychique et lui rend ainsi intolérable toute rencontre avec elle, le président du tribunal d’arrondissement prononce, sur la demande de la personne concernée, tout ou partie des injonctions ou interdictions énumérées ci-après, à condition qu’elles ne vont pas à l’encontre d’intérêts fondamentaux et légitimes de la partie défenderesse:",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention economic violence/abuse, financial control, deprivation of resources, or neglect as a form of violence. References to housing/accommodation logistics in expulsion procedures are not framed as economic abuse or neglect, and no operative definition/classification includes economic violence.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include minimum-age or protective rules related to such practices.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they establish any femicide-specific aggravation, classification, registry, or monitoring mechanism.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of human trafficking/trafficking in persons or trafficking victims, and no operative provisions are framed around trafficking-related exploitation.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention sexual exploitation, sexual slavery, forced prostitution, or any exploitation with a sexual purpose, nor do they link any exploitation provisions to sexual exploitation.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference cyber violence, online harassment, digital abuse, or any technology-facilitated form of violence. The provisions shown concern domestic violence measures and general criminal/civil procedure topics without a digital-violence nexus.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Shall be punished by imprisonment from six months to five years and a fine from 251 euros to 5,000 euros, whoever has voluntarily inflicted injuries or struck blows",
+      "rationale": "The text amends the Penal Code to provide that certain acts of violence (e.g., voluntarily inflicting injuries/striking blows against a spouse or cohabiting partner) are punishable by specified terms of imprisonment and fines, which constitutes a criminal offence with attached criminal sanctions.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Sera puni d’un emprisonnement de six mois à cinq ans et d’une amende de 251 euros à 5.000 euros, quiconque aura volontairement fait des blessures ou porté des coups 1° au conjoint ou conjoint divorcé, à la personne avec laquelle il vit ou a vécu habituellement; 2° à un ascendant légitime ou naturel ou ses père ou mère adoptifs;",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "expulsion measure based on article I of the law of 8 September 2003 on domestic violence, he or she may, by simple petition, request the president of the district court to order against the expelled person a prohibition of return to the residence for a maximum period of three months following the expiration of the expulsion measure, without regard to any real or personal rights of the expelled person in relation to the residence.\n\"Shall be punished by imprisonment from six months to five years and a fine from 501 euros to 5,000 euros, whoever has entered or attempted to enter a house, apartment, room or dwelling inhabited by a person with whom he has cohabited, or their outbuildings, either by means of threats or violence against persons, or by means of breaking in, climbing or false keys, or even by means of keys if he acts in violation of an eviction measure governed by article I of the law of 8 September 2003 on domestic violence, an interim order temporarily assigning the common dwelling to his spouse, an order prohibiting his return to the domicile in accordance with article 1017-1 or 1017-7 of the new Code of Civil Procedure.\"",
+      "rationale": "The framework provides a court-issued prohibition of return to the residence (a restraining/protection order) specifying who may apply (a protected person via petition), the issuing authority (president of the district court), the duration (maximum three months), and a criminal consequence for breach via Penal Code sanctions for violating an order prohibiting return.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "mesure d’expulsion fondée sur l’article Ier de la loi du 8 septembre 2003 sur la violence domestique, elle peut, par simple requête, demander au président du tribunal d’arrondissement de prononcer à l’égard de la personne expulsée une interdiction de retour au domicile pour une période maximale de trois mois consécutive à l’expiration de la mesure d’expulsion, et ce sans égard aux éventuels droits réels ou personnels de la personne expulsée par rapport au domicile.\n\n» 6°. L’article 439 est complété par un nouvel alinéa rédigé comme suit: «Sera puni d’un emprisonnement de six mois à cinq ans et d’une amende de 501 euros à 5.000 euros, celui qui se sera introduit ou aura tenté de s’introduire dans une maison, un appartement, une chambre ou un logement habités par une personne avec laquelle il a cohabité, ou leurs dépendances, soit à l’aide de menaces ou de violences contre les personnes, soit au moyen d’effraction, d’escalade ou de fausses clefs, soit même au moyen des clefs s’il agit en violation d’une mesure d’expulsion régie par l’article Ier de la loi du 8 septembre 2003 sur la violence domestique, d’une ordonnance de référé attribuant provisoirement le logement commun à son époux, d’une ordonnance lui interdisant le retour au domicile conformément à l’article 1017-1 ou 1017-7 du nouveau Code de procédure civile.»",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police duties (e.g., informing a domestic violence victim assistance service) and define external victim assistance services, but they do not designate or mandate a specific specialised unit/desk/division within the police itself to handle VAW cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "A ruling is made urgently on the application by order of the president.",
+      "rationale": "The framework establishes an expedited judicial procedure for domestic-violence-related protective measures by providing that a ruling is made urgently by order of the president, which constitutes a special/expedited judicial procedure for such cases.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Il est statué d’urgence sur la demande par ordonnance du président.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence measures and various Penal Code provisions (threats, injuries/blows, breach of eviction/prohibition orders), but they do not expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a spousal exemption for sexual violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "A cooperation committee between professionals in the field of combating violence is created, composed of representatives of state authorities competent for the implementation of this law as well as representatives of approved domestic violence victim assistance services, responsible for centralizing and studying the statistics referred to in the previous article, examining the implementation and any practical application problems of Articles I to II of this law, Articles 1017-1 to 1017-12 of the new Code of Civil Procedure and Article 3-1 of the Code of Criminal Instruction and submitting to the Government the proposals it deems useful.",
+      "rationale": "The text creates a formal multi-stakeholder “cooperation committee” composed of state authorities and approved victim assistance services, with defined responsibilities related to implementation review and problem-solving, which constitutes an institutional coordination mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Il est créé un comité de coopération entre les professionnels dans le domaine de la lutte contre la violence, composé de représentants d’instances étatiques compétentes pour la mise en oeuvre de la présente loi ainsi que de représentants de services d’assistance aux victimes de violence domestique agréés, chargé de centraliser et d’étudier les statistiques visées à l’article précédent, d’examiner la mise en œuvre et les éventuels problèmes d’application pratique des articles Ier à II de la présente loi, des articles 1017-1 à 1017-12 du nouveau Code de procédure civile et de l’article 3-1 du Code d’instruction criminelle et de soumettre au Gouvernement les propositions qu’il juge utile.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "The Minister of Justice, the Police, the Public Prosecutor's Office, the domestic violence victim assistance services establish each year statistics broken down by sex, age and relationship between perpetrator and victim and indicating for each category the existence or absence of a cohabitation situation between the perpetrator and the victim, each as far as it is concerned, on the number of complaints, denunciations, expulsion measures and other types of police intervention, social interventions, prosecutions and convictions for the offenses referred to in the following articles:\nA cooperation committee between professionals in the field of combating violence is created, composed of representatives of state authorities competent for the implementation of this law as well as representatives of approved domestic violence victim assistance services, responsible for centralizing and studying the statistics referred to in the previous article, examining the implementation and any practical application problems of Articles I to II of this law, Articles 1017-1 to 1017-12 of the new Code of Civil Procedure and Article 3-1 of the Code of Criminal Instruction and submitting to the Government the proposals it deems useful.",
+      "rationale": "The framework requires multiple entities to produce annual statistics disaggregated by sex, age, and relationship and covering complaints, interventions, prosecutions, and convictions, and assigns a committee responsibility for centralizing and studying those statistics—meeting the requirement to mandate and assign responsibility for data collection/management on domestic violence cases.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Le Ministre de la Justice, la Police, le Ministère public, les services d’assistance aux victimes de violence domestique établissent chaque année des statistiques ventilées par sexe, âge et relation entre auteur et victime et indiquant pour chaque rubrique l’existence ou l’absence d’une situation de cohabitation entre l’auteur et la victime, chacun pour ce qui le concerne, sur le nombre de plaintes, dénonciations, mesures d’expulsion et autres types d’intervention policière, interventions sociales, poursuites et condamnations pour les infractions visées aux articles suivants:\n\nIl est créé un comité de coopération entre les professionnels dans le domaine de la lutte contre la violence, composé de représentants d’instances étatiques compétentes pour la mise en oeuvre de la présente loi ainsi que de représentants de services d’assistance aux victimes de violence domestique agréés, chargé de centraliser et d’étudier les statistiques visées à l’article précédent, d’examiner la mise en œuvre et les éventuels problèmes d’application pratique des articles Ier à II de la présente loi, des articles 1017-1 à 1017-12 du nouveau Code de procédure civile et de l’article 3-1 du Code d’instruction criminelle et de soumettre au Gouvernement les propositions qu’il juge utile.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention gender mainstreaming or establish any gender-mainstreaming mechanism (e.g., focal points, working groups, mainstreaming in planning/budgeting) for implementing violence/domestic violence policy; the only gender-related element is sex-disaggregated statistics, which is not gender mainstreaming as defined by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address information-sharing, service definitions/approvals, statistics, and a cooperation committee, but do not mandate or provide for training, technical guidance, or capacity building for implementing personnel or service providers.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "A cooperation committee between professionals in the field of combating violence is created, composed of representatives of state authorities competent for the implementation of this law as well as representatives of approved domestic violence victim assistance services, responsible for centralizing and studying the statistics referred to in the previous article, examining the implementation and any practical application problems of Articles I to II of this law, Articles 1017-1 to 1017-12 of the new Code of Civil Procedure and Article 3-1 of the Code of Criminal Instruction and submitting to the Government the proposals it deems useful.",
+      "rationale": "The framework establishes a cooperation committee tasked with examining implementation and practical application problems of specified provisions and submitting proposals to the Government, which functions as a designated mechanism/body for monitoring implementation issues (even if not labeled “M&E”).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Il est créé un comité de coopération entre les professionnels dans le domaine de la lutte contre la violence, composé de représentants d’instances étatiques compétentes pour la mise en oeuvre de la présente loi ainsi que de représentants de services d’assistance aux victimes de violence domestique agréés, chargé de centraliser et d’étudier les statistiques visées à l’article précédent, d’examiner la mise en œuvre et les éventuels problèmes d’application pratique des articles Ier à II de la présente loi, des articles 1017-1 à 1017-12 du nouveau Code de procédure civile et de l’article 3-1 du Code d’instruction criminelle et de soumettre au Gouvernement les propositions qu’il juge utile.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No provided sentence contains any requirement to allocate budget/funding or to provide resources for implementation of domestic violence response or prevention; the excerpts focus on procedures, penalties, coordination, and statistics without financial provisions.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions define and regulate a “domestic violence victim assistance service” and require collaboration with police/judicial authorities, and create a cooperation committee to study implementation/statistics. However, none of the candidate sentences explicitly establish, mandate, or recognise an integrated/one-stop/multidisciplinary service mechanism that coordinates multiple victim services (e.g., health, legal, shelter) through a designated integrated mechanism; they describe a victim assistance service and inter-agency collaboration but not an integrated service unit/mechanism as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police expulsion measures and the police informing a domestic violence victim assistance service, plus court petition procedures and statistical reporting. They do not establish a hotline/helpline or a designated reporting/complaint intake mechanism for victims to report violence or seek emergency assistance; references to “complaints/denunciations” are in the context of annual statistics rather than a victim-facing reporting service.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on expulsion of the perpetrator from the home and judicial prohibitions on return/contact. While the police may inform the expelled person about “accommodation possibilities,” this concerns the expelled person’s housing and does not establish or recognise shelters/safe houses or require provision of safe accommodation for victims/survivors. No operative provision in the candidate sentences provides residential protection/shelter for victims.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences allow parties to appear “through a lawyer” and to be assisted/represented by a lawyer or others, but they do not establish legal aid/legal assistance entitlements or obligations for victims/survivors of violence, nor identify victims as eligible for supported legal assistance. The provisions are procedural representation rules rather than a legal assistance mechanism for VAW victims.",
+      "coverage": null,
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention medical examination, treatment, forensic services, health facilities, or any health-sector responsibilities linked to victims/survivors of domestic violence. The text concerns police/judicial measures and victim assistance services in general terms without specifying health/medical services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the “domestic violence victim assistance service” is described as assisting/guiding/advising victims, the candidate sentences do not explicitly provide psychosocial/psychological counselling, therapy, trauma support, or assign such responsibilities to relevant professionals. References to mental health appear only as a condition for court-ordered injunctions, not as a service provision.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of religious/spiritual counselling, pastoral care, faith-based support, or religious institutions/personnel providing victim support.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address immediate protection measures (expulsion, prohibitions, injunctions), procedural matters, and statistics/coordination for implementation. They do not establish longer-term recovery/rehabilitation/reintegration support (e.g., economic support, training, long-term housing support) for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide criminal penalties and mention mediation as a prosecutorial option (with exclusions), but they do not establish perpetrator intervention/rehabilitation/treatment/behaviour-change programmes or provide for referral to such programmes as part of sentencing/probation/diversion.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on police expulsion measures, victim assistance service notifications, criminal penalties, and the collection/centralization of statistics on domestic-violence-related offenses. None of the sentences require or provide public information, awareness-raising, communication, or education activities specifically about violence against women/domestic violence as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences address domestic violence procedures (expulsion, court orders), criminal law amendments, mediation exclusion, and statistical reporting. They do not include any operative provision requiring information/education/awareness activities about gender equality or women’s rights, nor do they link such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text establishes and amends legal measures related to domestic violence and related offenses, the candidate sentences do not provide for dissemination, public legal-awareness, education, or communication activities about these laws/policies as prevention. References to police notifications and statistics are administrative/operational and not public education about VAW laws.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of education systems, schools, curricula, educational institutions, or improving education quality as a measure to prevent violence against women. The provisions shown relate to policing, judicial measures, criminal penalties, and statistics/coordination.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish prevention programmes or activities that specifically engage men or boys (e.g., norm change, positive masculinity, targeted campaigns/training) to prevent violence against women. The text shown is focused on legal sanctions, protective measures, and procedural mechanisms.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "A cooperation committee between professionals in the field of combating violence is created, composed of representatives of state authorities competent for the implementation of this law as well as representatives of approved domestic violence victim assistance services, responsible for centralizing and studying the statistics referred to in the previous article, examining the implementation and any practical application problems of Articles I to II of this law, Articles 1017-1 to 1017-12 of the new Code of Civil Procedure and Article 3-1 of the Code of Criminal Instruction and submitting to the Government the proposals it deems useful.",
+      "rationale": "The law creates a cooperation committee on combating violence that includes representatives of approved domestic violence victim assistance services alongside state authorities, establishing a formal mechanism for collaboration with non-state service providers in implementation/monitoring functions (statistics, implementation review, proposals). This constitutes operative, substantive engagement with civil-society-type bodies in the response to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "Il est créé un comité de coopération entre les professionnels dans le domaine de la lutte contre la violence, composé de représentants d’instances étatiques compétentes pour la mise en oeuvre de la présente loi ainsi que de représentants de services d’assistance aux victimes de violence domestique agréés, chargé de centraliser et d’étudier les statistiques visées à l’article précédent, d’examiner la mise en œuvre et les éventuels problèmes d’application pratique des articles Ier à II de la présente loi, des articles 1017-1 à 1017-12 du nouveau Code de procédure civile et de l’article 3-1 du Code d’instruction criminelle et de soumettre au Gouvernement les propositions qu’il juge utile.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors in relation to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference schools, universities, or other education institutions, and do not assign them any role or establish any partnership/coordination mechanism with them regarding violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of international organisations or any operative cooperation mechanism with international/regional bodies concerning violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention media organisations/actors, nor do they establish any media-related responsibilities or partnerships for prevention/awareness/response to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish community/public participation mechanisms (e.g., community mobilisation, community organisations as partners, public engagement) in preventing or responding to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private companies, or other private-sector actors as partners, nor do they establish any private-sector engagement mechanism related to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention any funding or budget source, let alone a local/municipal government budget. The text focuses on legal procedures, institutional roles, and statistics/committees rather than financing.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference national-level institutions (e.g., ministers, police, prosecutor) but do not mention any funding mechanism, budget allocation, or national government budget as a source of financing for VAW measures.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions international assistance, donors, UN agencies, foreign governments, development partners, or any international funding/support arrangements. The content is purely domestic legal and institutional provisions.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any funding/budget sources from other legal sources (e.g., earmarked funds, levies, fines as revenue streams, private sector funding mechanisms). References to fines appear only as criminal penalties, not as a budget source for services or implementation.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention provincial/regional government budgets or any subnational budgetary financing. The text addresses legal measures and institutional procedures without funding provisions.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 10,
+    "resolved": 10,
+    "rate": 1.0
+  }
+}

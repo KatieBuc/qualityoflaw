@@ -1,25 +1,34 @@
 {
   "default": [
+    "extract",
+    "quality_check",
+    "txt_to_md",
     "translation_md",
+    "human_review",
+    "validate",
     "md_to_text",
     "storage",
-    "evaluation",
-    "comparison"
+    "evaluation"
   ],
   "optional": [
-    "translation_qa_md",
+    "comparison",
     "discrepancy_diagnosis"
   ],
   "valid": [
+    "extract",
+    "quality_check",
+    "txt_to_md",
     "translation_md",
+    "human_review",
+    "validate",
     "md_to_text",
     "storage",
     "evaluation",
     "comparison",
-    "translation_qa_md",
     "discrepancy_diagnosis",
     "translation",
     "translation_qa",
-    "markdown"
+    "markdown",
+    "translation_qa_md"
   ]
 }

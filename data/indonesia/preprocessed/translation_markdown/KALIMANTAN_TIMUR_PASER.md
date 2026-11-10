@@ -1,0 +1,623 @@
+# REGENT OF PASER
+
+REGENT OF PASER
+
+EAST KALIMANTAN PROVINCE
+
+REGIONAL REGULATION OF PASER REGENCY
+
+NUMBER 6 OF 2016
+
+CONCERNING
+
+PROTECTION OF WOMEN
+
+AGAINST ACTS OF VIOLENCE
+
+BY THE GRACE OF ALMIGHTY GOD
+
+THE REGENT OF PASER,
+
+Considering : a. that every person has the right to receive protection and guarantee of their human rights, the right to be free from torture, threats, pressure that degrades human dignity, and the right to receive ease and fair treatment to obtain equal opportunities and benefits in achieving life welfare;
+
+b. that in the family and community environment including in conflict areas and in the workplace, women are among vulnerable groups who often experience violence and discrimination, and have not received optimal protection and empowerment, therefore to ensure the fulfillment of women's rights as a vulnerable group from all forms of acts of violence and exploitation, protection of women is required;
+
+c. that based on the considerations as referred to in letters a and c, it is necessary to establish a Regional Regulation concerning Protection of Women Against Acts of Violence.
+
+In view of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 27 of 1959 concerning Stipulation of Emergency Law Number 3 of 1953 concerning Establishment of Level II Regions in Kalimantan (State Gazette of 1953 Number 9) as Law (State Gazette of the Republic of Indonesia of 1959 Number 72, Supplement to State Gazette of the Republic of Indonesia Number 1820);
+
+3. Law Number 68 of 1958 concerning Approval of the Convention on the Political Rights of Women (State Gazette of the Republic of Indonesia of 1958 Number 119, Supplement to State Gazette of the Republic of Indonesia Number 1653);
+
+4. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to State Gazette of the Republic of Indonesia Number 3277);
+
+5. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to State Gazette of the Republic of Indonesia Number 3886);
+
+6. Law Number 23 of 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to State Gazette of the Republic of Indonesia Number 4419);
+
+7. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to State Gazette of the Republic of Indonesia Number 4635);
+
+8. Law Number 14 of 2009 concerning Ratification of the Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, Supplementing the United Nations Convention against Transnational Organized Crime (State Gazette of the Republic of Indonesia of 2009 Number 53, Supplement to State Gazette of the Republic of Indonesia Number 4990);
+
+9. Law Number 12 of 2011 concerning Formation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to State Gazette of the Republic of Indonesia Number 5234);
+
+10. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation of Recovery of Domestic Violence Victims (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to State Gazette of the Republic of Indonesia Number 4604);
+
+11. Government Regulation Number 49 of 2007 concerning Change of Name of Pasir Regency to Paser Regency of East Kalimantan Province (State Gazette of the Republic of Indonesia of 2007 Number 111, Supplement to State Gazette of the Republic of Indonesia Number 4760);
+
+12. Government Regulation Number 7 of 2013 concerning Change of Name of Capital of Paser Regency of East Kalimantan Province from Tanah Grogot to Tana Paser (State Gazette of the Republic of Indonesia of 2013 Number 7, Supplement to State Gazette of the Republic of Indonesia Number 5392);
+
+13. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 1 of 2008 concerning Guidelines for Implementation of Women's Quality of Life Improvement;
+
+14. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 24 of 2010 concerning Model for Gender Responsive Protection of Elderly Women;
+
+With Mutual Approval
+
+REGIONAL PEOPLE'S REPRESENTATIVE COUNCIL OF PASER REGENCY
+
+and
+
+REGENT OF PASER
+
+HAS DECIDED:
+
+To stipulate:REGIONAL REGULATION OF PASER REGENCY CONCERNING PROTECTION OF WOMEN AGAINST ACTS OF VIOLENCE
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms shall mean:
+
+Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region of Paser Regency.
+
+Regent is the Regent of Paser
+
+Women are all women who are both inside and outside the household
+
+Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.
+
+Physical violence is an act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.
+
+Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness and or severe psychological suffering to a person.
+
+Sexual violence is any act in the form of sexual harassment, coercion of sexual relations, whether in an unnatural or unwanted manner with another person for commercial purposes and or certain purposes.
+
+Domestic neglect is any person who neglects another person in their household, whereas according to the law applicable to them or because of an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person
+
+Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence
+
+Protection is a form of service that must be carried out by law enforcement officials or security apparatus to provide a sense of security, both physical and mental to victims or witnesses from threats, disturbances, terror and violence from any party given at the stage of investigation, inquiry, determination and upon examination in court hearings.
+
+Protection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.
+
+Service is an action that must be immediately taken to the victim when seeing, hearing and knowing that violence against the victim (women) will, is, or has occurred.
+
+Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.
+
+Integrated Service Center, hereinafter abbreviated as PPT is an institution providing services to victims of violence, hospital-based, managed jointly in the form of medical services (including medico-legal), psycho-social and legal services.
+
+Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.
+
+Community is individuals, families, groups, social organizations and/or community organizations. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and their children, as well as mother and their children.
+
+Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (servants, drivers and so on) who live and eat from one kitchen and reside in one house
+
+Gender is a characteristic attached to men and women that is constructed socially and culturally. Gender injustice is a system and structure in which both men and women become victims of that system.
+
+Gender justice is a state in which fair treatment of men and women is created by considering experiences, needs, difficulties, concerns as women and also as men
+
+Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, legal, economic, socio-cultural, educational and defense and security activities, as well as equality in enjoying the results of development.
+
+Gender mainstreaming (PUG) is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of development policies and programs.
+
+# CHAPTER II
+
+PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+Protection of women is carried out with regard to religion, customs, and socio-culture of the community by prioritizing the basic principles of women's rights.
+
+Protection of women includes efforts to protect and provide a sense of security to women by fulfilling their rights, namely by empowerment to improve the quality of life of women through improvement of the physical and mental condition of women in fulfilling their rights and life needs as part of human rights.
+
+The implementation of protection for women victims of violence is based on the principles of:
+
+Respect for the rights of victims;
+
+Justice and gender equality;
+
+Non-discrimination;
+
+Best interests of the victim.
+
+#### Article 3
+
+The objectives of implementing the protection of women against acts of violence are: to prevent all forms of violence against women; to take action against perpetrators of violence against women in accordance with applicable legislation; to provide integrated protection and services to women victims of gender-based violence occurring in the household and/or public in the area of Paser Regency.
+
+# CHAPTER III
+
+OBLIGATIONS OF THE REGIONAL GOVERNMENT
+
+#### Article 4
+
+The regional government in implementing the protection of women from acts of violence has the following obligations: to formulate a strategic plan for the protection of women against acts of violence for the short, medium, and long term as an integrated part of the Regional Medium-Term Development Plan (RPJMD); to prevent and handle in an integrated manner the occurrence of acts of violence against women; to encourage the responsibility of police institutions, prosecutor institutions, judicial institutions, non-governmental organizations, religious institutions, and the general public to coordinate and cooperate in preventing and handling the occurrence of acts of violence against women; to optimize the role and function of institutions within the regional government related to preventing and handling protection of women from acts of violence; to provide facilities and infrastructure; to conduct guidance, supervision and evaluation.
+
+# CHAPTER IV
+
+SCOPE
+
+#### Article 5
+
+The implementation of protection of women from acts of violence includes: prevention; handling; empowerment.
+
+#### Article 6
+
+Protection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.
+
+Protection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.
+
+# CHAPTER V
+
+IMPLEMENTATION OF PROTECTION
+
+Part One
+
+Prevention
+
+#### Article 7
+
+The targets of prevention as referred to in Article 5 letter a are all women.
+
+#### Article 8
+
+Prevention as referred to in Article 5 letter a, includes: collecting data and information about women victims of violence and laws and regulations; conducting education on anti-violence values against women; disseminating laws and regulations related to the implementation of protection for women victims of violence; establishing and facilitating the implementation of integrated service institutions for women victims by involving community elements; encouraging community awareness of the importance of protection for women victims of violence;
+
+Increasing women's awareness of the importance of adhering to ethics, religious norms and cultural norms in behavior.
+
+Prevention as referred to in paragraph (1) is carried out by the Regency Regional Government, police institutions, prosecutor's institutions, judicial institutions, non-governmental organizations, and the community in accordance with their duties, functions, and responsibilities.
+
+## Part Two
+
+Handling
+
+#### Article 9
+
+The target of handling as referred to in Article 5 letter b is every woman.
+
+#### Article 10
+
+Forms of services for women victims of violence that are provided include: medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical and paramedical personnel; medicolegal services are a form of medical service for the purposes of evidence in the field of law; psychosocial services are services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems; legal services to assist victims in undergoing the judicial process; economic independence services in the form of services for skills training and providing economic access so that victims can be independent.
+
+The service mechanism as referred to in paragraph (1) is organized according to standard operating procedures which will be further regulated by Regent Regulation.
+
+#### Article 11
+
+The provision of integrated services for women victims of violence is carried out free of charge, quickly, safely, with empathy, non-discrimination, easily accessible, and with guaranteed confidentiality.
+
+#### Article 12
+
+Integrated service providers are obliged to provide services in accordance with the service principles as referred to in Article 11.
+
+## Part Three
+
+Empowerment
+
+#### Article 13
+
+Women victims of violence in the family environment, community including in conflict areas and in the workplace have the right to be empowered.
+
+Empowerment as referred to in paragraph (1) is directed to create conditions that enable women's potential to develop, make efforts and seek their own livelihood and not depend on others.
+
+#### Article 14
+
+The Manpower Office and the Cooperatives and Small and Medium Enterprises Office empower women victims of violence.
+
+In empowering women as referred to in paragraph (1), it is implemented in accordance with the people's economic empowerment program.
+
+The people's economic empowerment program as referred to in paragraph (2) is carried out through: increasing the economic productivity of regional women by conducting entrepreneurship training for women in micro and small businesses; developing models for increasing women's economic productivity through partnerships between regional governments and communities.
+
+#### Article 15
+
+The Manpower Office and the Cooperatives and Small and Medium Enterprises Office in conducting entrepreneurship training as referred to in Article 14 paragraph (3) letter a in the form of: strengthening independence, namely increasing knowledge, skills and work skills of women victims of violence to more easily obtain work; productive economic businesses, namely fostering entrepreneurial spirit and skills of women victims of violence in the economic field who are not accommodated to work in the formal sector.
+
+Productive economic businesses as referred to in paragraph (1) letter b include forms of business that can be carried out by women.
+
+# CHAPTER VI
+
+ASSISTANCE
+
+#### Article 16
+
+Assistance is carried out by persons or institutions that have expertise to conduct counseling, therapy and advocacy for the strengthening and recovery of women victims of violence and have cooperated with integrated service providers.
+
+# CHAPTER VII
+
+COMMUNITY PARTICIPATION
+
+#### Article 17
+
+The community can participate in prevention and handling efforts for women victims of violence through individuals or institutions.
+
+Community participation as referred to in paragraph (1) is implemented through: providing information and/or reporting any potential violence and incidents of violence that they know of; preventing the occurrence of acts of violence against women; providing protection services for women who are victims of violence; assisting in the process of repatriation, social rehabilitation, and social reintegration for women victims of acts of violence.
+
+#### Article 18
+
+Community participation as referred to in Article 17 paragraph (1) can be carried out by: individuals; families; non-governmental organizations; social community organizations; professional organizations; business entities.
+
+# CHAPTER VIII
+
+INSTITUTIONAL, GUIDANCE, AND SUPERVISION
+
+## Part One
+
+Institutional
+
+#### Article 19
+
+Handling as referred to in Article 9 is carried out in an integrated manner by relevant SKPDs and/or service institutions that handle the protection of women from acts of violence.
+
+The provision of integrated services is coordinated by BPPKB or another name which will be further regulated by Regent Regulation.
+
+The provision of integrated services is in accordance with applicable laws and regulations.
+
+## Part Two
+
+Guidance
+
+#### Article 20
+
+The regional government is obliged to provide guidance and supervision for the implementation of protection for women victims of violence.
+
+Guidance as referred to in paragraph (1), includes:
+
+Guidelines and fulfillment standards;
+
+Technical guidance and training;
+
+Provision of facilities;
+
+Monitoring;
+
+Evaluation.
+
+Guidance as referred to in paragraph (2), is intended to realize the protection of women from acts of violence in accordance with minimum service standards implemented by SKPDs and the community.
+
+SKPDs as referred to in paragraph (3) are Regional Working Units within the Paser Regency Regional Government that are related to the protection of women against acts of violence.
+
+## Part Three
+
+Supervision
+
+#### Article 21
+
+The regional government is obliged to supervise the implementation of protection for women from acts of violence.
+
+Supervision as referred to in paragraph (1) is carried out with professional, transparent and accountable principles.
+
+#### Article 22
+
+The community can supervise the implementation of protection for women from acts of violence organized by the regional government with a mechanism for conveying aspirations to the Regent or DPRD.
+
+# CHAPTER IX
+
+FINANCING
+
+#### Article 23
+
+Financing for the implementation of protection for women against acts of violence is sourced from:
+
+Regional Revenue and Expenditure Budget (APBD); and other legal sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER X
+
+PROHIBITION OF VIOLENCE AGAINST WOMEN
+
+#### Article 24
+
+Everyone is prohibited from committing violence against women both in the household and/or outside the household, by means of: physical violence; psychological violence; verbal violence; sexual violence; or neglect.
+
+#### Article 25
+
+Physical violence as referred to in Article 24 letter a, is an act that results in pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causing death.
+
+#### Article 26
+
+Psychological violence as referred to in Article 24 letter b, is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering in a person.
+
+#### Article 27
+
+Verbal violence as referred to in Article 24 letter c, is an act using words that causes another person to feel humiliated and degraded.
+
+#### Article 28
+
+Sexual violence as referred to in Article 24 letter d, includes: coercion of sexual intercourse committed against women residing within the household or outside the household; coercion of sexual intercourse against women within the household or outside the household with other persons for commercial purposes and/or certain purposes;
+
+#### Article 29
+
+Abandonment as referred to in Article 21 letter e, includes:
+
+Every person is prohibited from abandoning persons within their household, whereas according to the law applicable to them or by agreement or contract they are obliged to provide livelihood, care, or maintenance to such person.
+
+Abandonment as referred to in paragraph (1) also applies to every person who causes economic dependency by limiting and/or prohibiting proper work inside or outside the home so that the victim is under the control of such person.
+
+# CHAPTER XI
+
+RIGHTS OF VICTIMS
+
+#### Article 30
+
+Every woman victim of acts of violence has the right to receive protection, information, and integrated services.
+
+#### Article 31
+
+Integrated services as referred to in Article 30, include: victim identification; legal assistance; medical rehabilitation; psychosocial rehabilitation; social reintegration; repatriation assistance; empowerment.
+
+#### Article 32
+
+Every woman victim has the right to receive assistance both psychologically and legally as well as to receive guarantee of her rights relating to her status as wife, mother, child, family member as well as member of society.
+
+# CHAPTER XII
+
+PROVISIONS ON SANCTIONS
+
+#### Article 33
+
+Every person who deliberately fails to provide protection to women thereby causing violence, allows violence to occur, and/or fails to report and provide protection to victims, shall be subject to sanctions as stipulated in the applicable laws and regulations.
+
+If officials appointed to provide protection fail to carry out their obligations and responsibilities they shall be subject to sanctions in accordance with the applicable laws and regulations.
+
+Service managers who carry out service duties that violate service principles, may be subject to sanctions in accordance with the mechanisms of applicable laws and regulations.
+
+# CHAPTER XIII
+
+OTHER PROVISIONS
+
+#### Article 34
+
+Matters not yet regulated in this Regional Regulation shall be further regulated by Regent Regulation.
+
+# CHAPTER XIV
+
+CLOSING PROVISIONS
+
+#### Article 35
+
+This Regional Regulation shall enter into force on the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Paser Regency.
+
+REGENT OF PASER,
+
+YUSRIANSYAH SYARKAWI
+
+REGIONAL SECRETARY OF PASER REGENCY,
+
+HELMY LATHYF
+
+REGIONAL GAZETTE OF PASER REGENCY YEAR 2016 NUMBER 6.
+
+No
+
+Name
+
+Position
+
+Initial
+
+1.
+
+Kusnedi
+
+Head of Sub-Division of Regional Legal Products
+
+2.
+
+Andi Azis
+
+Head of Legal Division
+
+3.
+
+Heriansyah Idris
+
+Assistant for Governance
+
+4.
+
+Helmy Lathyf
+
+Regional Secretary
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF PASER REGENCY PROV. EAST KALIMANTAN : 06/2016
+
+# CHAPTER XIV
+
+CLOSING PROVISIONS
+
+#### Article 35
+
+This Regional Regulation shall enter into force on the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Paser Regency.
+
+REGENT OF PASER,
+
+YUSRIANSYAH SYARKAWI
+
+REGIONAL SECRETARY OF PASER REGENCY,
+
+HELMY LATHYF
+
+REGIONAL GAZETTE OF PASER REGENCY YEAR 2016 NUMBER 6.
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF PASER REGENCY PROV. EAST KALIMANTAN : 06/2016
+
+# CHAPTER XIV
+
+CLOSING PROVISIONS
+
+#### Article 35
+
+This Regional Regulation shall commence into force on the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Paser Regency.
+
+REGENT OF PASER,
+
+sgd
+
+YUSRIANSYAH SYARKAWI
+
+REGIONAL SECRETARY OF PASER REGENCY,
+
+sgd
+
+HELMY LATHYF
+
+REGIONAL GAZETTE OF PASER REGENCY YEAR 2016 NUMBER 6.
+
+True copy of the original
+
+Head of Legal Division Regional Secretariat Paser Regency,
+
+ANDI AZIS
+
+PEMBINA
+
+NIP. 19680816 199803 1 007
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF PASER REGENCY PROV. EAST KALIMANTAN : 06/2016
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF PASER REGENCY
+
+NUMBER 6 OF 2016
+
+CONCERNING
+
+PROTECTION OF WOMEN AGAINST ACTS OF VIOLENCE
+
+I. GENERAL
+
+To prevent, protect victims, and take action against perpetrators of violence against women, the state and society are obliged to carry out prevention, protection, and action against perpetrators in accordance with the philosophy of Pancasila and the 1945 Constitution of the Republic of Indonesia. The state holds the view that all forms of violence, especially violence against women, are violations of human rights and crimes against human dignity as well as forms of discrimination.
+
+Such a view is based on Article 28 of the 1945 Constitution of the Republic of Indonesia, along with its amendments. Article 28G paragraph (1) of the 1945 Constitution of the Republic of Indonesia stipulates that "Every person has the right to protection of self, family, honor, dignity, and property under their control, and has the right to security and protection from threats of fear to do or not do something which is a basic right". Article 28H paragraph (2) of the 1945 Constitution of the Republic of Indonesia stipulates that "Every person has the right to receive facilities and special treatment to obtain equal opportunities and benefits in order to achieve equality and justice".
+
+Current developments show that acts of violence against women physically, psychologically, sexually, and abandonment in reality occur so that adequate legal instruments are needed to eliminate violence against women.
+
+The Indonesian Government has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified CEDAW (Law Number 7 of 1984 concerning the Elimination of all forms of Discrimination against women), therefore is obliged to comply with these provisions. Likewise in the 1945 Constitution fourth amendment, Chapter XA of the 1945 Constitution concerning Human Rights, states that the enforcement and fulfillment of Human Rights is the responsibility of the state, especially the Government.
+
+In the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that Women as, mothers of the nation and children as successors of the nation are creatures created by God Almighty, therefore must be protected and their honor, dignity and self-worth guarded properly and proportionally, both legally, economically, politically, socially and culturally, without distinguishing ethnicity, religion, race and class.
+
+Regional governments also have an obligation to prevent, protect victims, and take action against perpetrators of violence against women. For this purpose regional governments need regional regulations that can be used as instruments to realize prevention, protection and action against perpetrators of violence against women.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Respect for victims' rights is intended to ensure the fulfillment of victims' rights. Gender justice is a process to be fair to men and women; Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so as to be able to play a role and participate in political, economic, socio-cultural activities, national defense and security and equality in enjoying the results of such development
+
+Non-discrimination is an attitude and treatment toward victims without making distinctions on the basis of age, gender, race, ethnicity, religion and among groups.
+
+The best interests of victims are all actions concerning victims undertaken by the government, community, legislative bodies and judicial bodies, then the best interests of victims must be the primary consideration.
+
+#### Article 3
+
+#### Article 4
+
+#### Article 5
+
+#### Article 6
+
+#### Article 7
+
+#### Article 8
+
+#### Article 9
+
+#### Article 10
+
+#### Article 11
+
+#### Article 12
+
+#### Article 13
+
+#### Article 14
+
+#### Article 15
+
+#### Article 16
+
+#### Article 17
+
+#### Article 18
+
+#### Article 19
+
+#### Article 20
+
+#### Article 21
+
+#### Article 22
+
+#### Article 23
+
+#### Article 24
+
+#### Article 25
+
+#### Article 26
+
+#### Article 27
+
+#### Article 28
+
+#### Article 29
+
+#### Article 30
+
+#### Article 31
+
+Identification of victims is data collection on women who are victims of violence. Data collection is carried out by SKPD and/or service institutions established by the regional government that are given the authority to carry out that function.
+
+Legal assistance is legal service to assist victims in undergoing judicial proceedings.
+
+Medical rehabilitation is medical service, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical and paramedical personnel.
+
+Psychosocial rehabilitation is a service provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation against victims and to provide social support so that victims have a sense of self-confidence, strength, and independence in resolving their problems
+
+Social reintegration is the effort of the regional government through SKPD and/or service institutions together with the community to assist women victims of violence in adapting and integrating in the community environment where they live.
+
+Repatriation assistance is the effort of the regional government through SKPD and/or service institutions to assist in returning women victims of violence to their homes or other intended places safely.
+
+Empowerment is the regional government through SKPD and/or service institutions providing assistance to women victims of violence in the form of training and opening access to capital with the aim that women victims of violence can be independent.
+
+#### Article 32
+
+#### Article 33
+
+#### Article 34
+
+#### Article 35
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF PASER REGENCY NUMBER 45
+
+REGIONAL REGULATION OF PASER REGENCY
+
+NUMBER 6 OF 2016
+
+PROTECTION OF WOMEN
+
+AGAINST ACTS OF VIOLENCE

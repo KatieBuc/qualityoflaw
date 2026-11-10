@@ -1,0 +1,1010 @@
+{
+  "units": 119,
+  "results": {
+    "index": {
+      "all": {
+        "documents": 119,
+        "strict": {
+          "precision": 0.96484375,
+          "recall": 0.41687763713080167,
+          "f1": 0.582203889216264
+        },
+        "lenient": {
+          "precision": 1.0,
+          "recall": 0.42447257383966247,
+          "f1": 0.5959715639810427
+        },
+        "evidence_recall": 0.3700374531835206,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-1": {
+            "gold": 1055,
+            "found": 494,
+            "recall": 0.46824644549763034
+          },
+          "1-2": {
+            "gold": 36,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 25,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-2": {
+            "gold": 49,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 4,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "dev": {
+        "documents": 36,
+        "strict": {
+          "precision": 1.0,
+          "recall": 0.42443729903536975,
+          "f1": 0.5959367945823928
+        },
+        "lenient": {
+          "precision": 1.0,
+          "recall": 0.42443729903536975,
+          "f1": 0.5959367945823928
+        },
+        "evidence_recall": 0.37714285714285717,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-1": {
+            "gold": 261,
+            "found": 132,
+            "recall": 0.5057471264367817
+          },
+          "1-2": {
+            "gold": 11,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 11,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-2": {
+            "gold": 25,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "test": {
+        "documents": 83,
+        "strict": {
+          "precision": 0.9526315789473684,
+          "recall": 0.41418764302059496,
+          "f1": 0.5773524720893142
+        },
+        "lenient": {
+          "precision": 1.0,
+          "recall": 0.4244851258581236,
+          "f1": 0.5959839357429718
+        },
+        "evidence_recall": 0.36751269035532996,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-1": {
+            "gold": 794,
+            "found": 362,
+            "recall": 0.45591939546599497
+          },
+          "1-2": {
+            "gold": 25,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 14,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-2": {
+            "gold": 24,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      }
+    },
+    "heuristic": {
+      "all": {
+        "documents": 119,
+        "strict": {
+          "precision": 0.7691453940066593,
+          "recall": 0.5848101265822785,
+          "f1": 0.6644295302013423
+        },
+        "lenient": {
+          "precision": 0.9822419533851277,
+          "recall": 0.9924050632911392,
+          "f1": 0.9872973545997463
+        },
+        "evidence_recall": 0.5325842696629214,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-1": {
+            "gold": 1055,
+            "found": 686,
+            "recall": 0.6502369668246446
+          },
+          "1-2": {
+            "gold": 36,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 1,
+            "recall": 0.5
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 1,
+            "recall": 1.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 25,
+            "found": 5,
+            "recall": 0.2
+          },
+          "2-2": {
+            "gold": 49,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 4,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "dev": {
+        "documents": 36,
+        "strict": {
+          "precision": 0.8089887640449438,
+          "recall": 0.6945337620578779,
+          "f1": 0.7474048442906576
+        },
+        "lenient": {
+          "precision": 0.9925093632958801,
+          "recall": 0.9935691318327974,
+          "f1": 0.9930389648188797
+        },
+        "evidence_recall": 0.62,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-1": {
+            "gold": 261,
+            "found": 213,
+            "recall": 0.8160919540229885
+          },
+          "1-2": {
+            "gold": 11,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 11,
+            "found": 3,
+            "recall": 0.2727272727272727
+          },
+          "2-2": {
+            "gold": 25,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "test": {
+        "documents": 83,
+        "strict": {
+          "precision": 0.7523659305993691,
+          "recall": 0.545766590389016,
+          "f1": 0.6326259946949602
+        },
+        "lenient": {
+          "precision": 0.9779179810725552,
+          "recall": 0.9919908466819222,
+          "f1": 0.9849041461837117
+        },
+        "evidence_recall": 0.5015228426395939,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-1": {
+            "gold": 794,
+            "found": 473,
+            "recall": 0.5957178841309824
+          },
+          "1-2": {
+            "gold": 25,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 1,
+            "recall": 0.5
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 1,
+            "recall": 1.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 14,
+            "found": 2,
+            "recall": 0.14285714285714285
+          },
+          "2-2": {
+            "gold": 24,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      }
+    },
+    "bertalign": {
+      "all": {
+        "documents": 119,
+        "strict": {
+          "precision": 0.8310291858678955,
+          "recall": 0.9130801687763713,
+          "f1": 0.8701246481704865
+        },
+        "lenient": {
+          "precision": 0.9907834101382489,
+          "recall": 0.9983122362869198,
+          "f1": 0.9945335747214977
+        },
+        "evidence_recall": 0.8292134831460675,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 2,
+            "found": 1,
+            "recall": 0.5
+          },
+          "1-1": {
+            "gold": 1055,
+            "found": 1030,
+            "recall": 0.976303317535545
+          },
+          "1-2": {
+            "gold": 36,
+            "found": 28,
+            "recall": 0.7777777777777778
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 25,
+            "found": 22,
+            "recall": 0.88
+          },
+          "2-2": {
+            "gold": 49,
+            "found": 1,
+            "recall": 0.02040816326530612
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 4,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "dev": {
+        "documents": 36,
+        "strict": {
+          "precision": 0.8119402985074626,
+          "recall": 0.8745980707395499,
+          "f1": 0.8421052631578947
+        },
+        "lenient": {
+          "precision": 0.9940298507462687,
+          "recall": 0.9967845659163987,
+          "f1": 0.9954053024641658
+        },
+        "evidence_recall": 0.8057142857142857,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-1": {
+            "gold": 261,
+            "found": 253,
+            "recall": 0.9693486590038314
+          },
+          "1-2": {
+            "gold": 11,
+            "found": 10,
+            "recall": 0.9090909090909091
+          },
+          "2-1": {
+            "gold": 11,
+            "found": 9,
+            "recall": 0.8181818181818182
+          },
+          "2-2": {
+            "gold": 25,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "test": {
+        "documents": 83,
+        "strict": {
+          "precision": 0.8376421923474664,
+          "recall": 0.9267734553775744,
+          "f1": 0.8799565453557849
+        },
+        "lenient": {
+          "precision": 0.9896587383660806,
+          "recall": 0.9988558352402745,
+          "f1": 0.9942360180148981
+        },
+        "evidence_recall": 0.8375634517766497,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 1,
+            "recall": 1.0
+          },
+          "1-1": {
+            "gold": 794,
+            "found": 777,
+            "recall": 0.9785894206549118
+          },
+          "1-2": {
+            "gold": 25,
+            "found": 18,
+            "recall": 0.72
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 14,
+            "found": 13,
+            "recall": 0.9285714285714286
+          },
+          "2-2": {
+            "gold": 24,
+            "found": 1,
+            "recall": 0.041666666666666664
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      }
+    },
+    "vecalign": {
+      "all": {
+        "documents": 119,
+        "strict": {
+          "precision": 0.8427914110429447,
+          "recall": 0.9274261603375528,
+          "f1": 0.8830855765367617
+        },
+        "lenient": {
+          "precision": 0.9915644171779141,
+          "recall": 0.9966244725738397,
+          "f1": 0.9940880058094629
+        },
+        "evidence_recall": 0.8434456928838951,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 2,
+            "found": 2,
+            "recall": 1.0
+          },
+          "1-1": {
+            "gold": 1055,
+            "found": 1042,
+            "recall": 0.9876777251184834
+          },
+          "1-2": {
+            "gold": 36,
+            "found": 31,
+            "recall": 0.8611111111111112
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 1,
+            "recall": 1.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 25,
+            "found": 21,
+            "recall": 0.84
+          },
+          "2-2": {
+            "gold": 49,
+            "found": 2,
+            "recall": 0.04081632653061224
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 4,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "dev": {
+        "documents": 36,
+        "strict": {
+          "precision": 0.8235294117647058,
+          "recall": 0.9003215434083601,
+          "f1": 0.8602150537634409
+        },
+        "lenient": {
+          "precision": 0.9882352941176471,
+          "recall": 0.9935691318327974,
+          "f1": 0.9908950352173166
+        },
+        "evidence_recall": 0.8314285714285714,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 1,
+            "recall": 1.0
+          },
+          "1-1": {
+            "gold": 261,
+            "found": 259,
+            "recall": 0.9923371647509579
+          },
+          "1-2": {
+            "gold": 11,
+            "found": 11,
+            "recall": 1.0
+          },
+          "2-1": {
+            "gold": 11,
+            "found": 9,
+            "recall": 0.8181818181818182
+          },
+          "2-2": {
+            "gold": 25,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      },
+      "test": {
+        "documents": 83,
+        "strict": {
+          "precision": 0.8495850622406639,
+          "recall": 0.937070938215103,
+          "f1": 0.8911860718171927
+        },
+        "lenient": {
+          "precision": 0.9927385892116183,
+          "recall": 0.9977116704805492,
+          "f1": 0.9952189172976448
+        },
+        "evidence_recall": 0.8477157360406091,
+        "recall_by_type": {
+          "0-1": {
+            "gold": 1,
+            "found": 1,
+            "recall": 1.0
+          },
+          "1-1": {
+            "gold": 794,
+            "found": 783,
+            "recall": 0.9861460957178841
+          },
+          "1-2": {
+            "gold": 25,
+            "found": 20,
+            "recall": 0.8
+          },
+          "1-4": {
+            "gold": 1,
+            "found": 1,
+            "recall": 1.0
+          },
+          "1-6": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "10-9": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "13-13": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "15-15": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "2-1": {
+            "gold": 14,
+            "found": 12,
+            "recall": 0.8571428571428571
+          },
+          "2-2": {
+            "gold": 24,
+            "found": 2,
+            "recall": 0.08333333333333333
+          },
+          "2-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-2": {
+            "gold": 2,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-3": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "3-4": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "4-6": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "7-7": {
+            "gold": 1,
+            "found": 0,
+            "recall": 0.0
+          },
+          "8-7": {
+            "gold": 3,
+            "found": 0,
+            "recall": 0.0
+          }
+        }
+      }
+    }
+  },
+  "remainder": {
+    "units": 6918,
+    "counts_match": 6710,
+    "counts_match_rate": 0.969933506793871
+  }
+}

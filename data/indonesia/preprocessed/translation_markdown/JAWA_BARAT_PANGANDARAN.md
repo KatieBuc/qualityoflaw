@@ -1,0 +1,1088 @@
+# REGENT OF PANGANDARAN
+
+REGENT OF PANGANDARAN
+
+WEST JAVA PROVINCE
+
+REGIONAL REGULATION OF PANGANDARAN REGENCY
+
+NUMBER YEAR 2019
+
+CONCERNING
+
+EMPOWERMENT AND PROTECTION OF WOMEN
+
+BY THE GRACE OF GOD ALMIGHTY
+
+REGENT OF PANGANDARAN,
+
+Considering : a. that in order to improve the position, role and quality of women is an effort to realize gender equality and justice in family, community, national and state life;
+
+b. that all forms of violence against women constitute a violation of human rights so that women need to be protected in their dignity and honor and guaranteed their right to life in accordance with their nature and destiny without discrimination and empowered to be able to actualize their potential optimally;
+
+c. that to protect the community and realize equality and justice, as an obligation of the regional government to provide protection and welfare for women, a legal foundation is needed in the implementation of empowerment and protection of women;
+
+d. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Empowerment and Protection of
+
+Women.
+
+In View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of
+
+Indonesia of 1984 Number 29, Supplement to the State Gazette
+
+of the Republic of Indonesia Number 3277);
+
+3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia
+
+Number 3886);
+
+4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number
+
+5. Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia of 2009 Number 12, Supplement to the State Gazette of the Republic of
+
+Indonesia Number 4976);
+
+6. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the
+
+Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9
+
+of 2015 concerning the Second Amendment to Law
+
+Number 23 of 2014 concerning Regional Government
+
+(State Gazette of the Republic of Indonesia of 2015 Number
+
+58, Supplement to the State Gazette of the Republic of Indonesia Number
+
+7. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the
+
+Republic of Indonesia of 2006 Number 15, Supplement to the
+
+State Gazette of the Republic of Indonesia Number 4604);
+
+8. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Crime of Trafficking in Persons
+
+(State Gazette of the Republic of Indonesia of 2008 Number
+
+22, Supplement to the State Gazette of the Republic of Indonesia Number
+
+With Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES
+
+OF PANGANDARAN REGENCY
+
+and
+
+REGENT OF PANGANDARAN
+
+DECIDES:
+
+To Enact : REGIONAL REGULATION CONCERNING EMPOWERMENT AND PROTECTION OF WOMEN. jdih.pangandarankab.go.id 2
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by: 1. Regency is Pangandaran Regency. 2. Regent is the Regent of Pangandaran.
+
+3. Regency Government is the Regent as an element of regional government organizer who leads the implementation of government affairs that are the authority of the autonomous region.
+
+4. Regional Apparatus is an auxiliary element of the Regent and Regional House of Representatives in the administration of government affairs that are the authority of the Region.
+
+5. Woman is an adult human being of female sex and a person recognized by law as a Woman.
+
+6. Prevention is an activity carried out to prevent acts of violence against Women. 7. Women's Empowerment is every effort to improve physical, spiritual mental, social, knowledge and skills capabilities so that Women are ready to be utilized in accordance with their respective capabilities. 8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily. 9. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that violence against Women will or has occurred.
+
+10. Victim is a Woman who experiences misery and/or suffering either directly or indirectly as a result of violence and life vulnerability.
+
+11. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the victim.
+
+12. Victim of Violence is an individual or group of people who experience suffering whether physical, mental or emotional, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations or criminal acts as well as acts of Violence committed either by state apparatus, Regional Government apparatus, or individuals.
+
+13. Violence Against Women is any act that results in or may result in misery or suffering to Women physically, sexually, economically, socially, psychologically including threats of jdih.pangandarankab.go.id 3 certain acts, coercion or deprivation of freedom, whether occurring in public or in private life. 14. Physical Violence is any act that causes pain, injury, wounds or disability to someone's body, miscarriage or fainting and/or causes death.
+
+15. Psychological Violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering in someone.
+
+16. Sexual Violence is any act in the form of sexual harassment, coercion of sexual relations, whether unnatural or unwanted with other people for commercial purposes and/or certain purposes.
+
+17. Domestic Neglect is someone who neglects a person within their household, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide life, care, or maintenance to that person. In addition, neglect also applies to anyone who causes economic dependence by restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.
+
+18. Trafficking in Persons is the act of recruitment, transportation, harboring, sending, transfer or receipt of a person by threat of violence, use of violence, abduction, confinement, fraud, deception, abuse of power or vulnerable position, debt bondage or giving payment or benefit, so as to obtain consent from the person holding control over that other person, whether carried out within a country or between countries, for the purpose of exploitation or causing a person to be exploited.
+
+19. Exploitation is an act that exploits economically or sexually with the intention of benefiting oneself or others, acts with or without the victim's consent which include but are not limited to prostitution, forced labor or service, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial and/or all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all prostitution or indecency activities. jdih.pangandarankab.go.id 4
+
+20. Domestic Violence is any act against a Woman that results in the emergence of misery or suffering physically, sexually, psychologically and/or Domestic Neglect including threats to commit acts, coercion or deprivation of freedom unlawfully within the household environment.
+
+21. Family is a person who has blood relations in direct ascending or descending line and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a Woman.
+
+22. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother. 23. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by Women, regardless of their marital status, on the basis of equality between men and Women.
+
+24. All Forms of Discrimination Against Women are all forms of discrimination that include territorial dimensions, age dimensions, and special dimensions.
+
+25. Gender is a concept that refers to the differentiation of roles and responsibilities of men and Women that occur as a result of and can be changed by the social and cultural conditions of society.
+
+26. Gender Equality is the equality of conditions of men and Women to obtain opportunities and their rights as human beings to be able to play a role and participate in political, economic, socio-cultural, defense and security activities, and equality in enjoying the results of development.
+
+27. Gender Justice is a process to be fair to men and Women.
+
+28. Health Rehabilitation is an effort to restore the condition of Victims including physical, psychological, and sexual health so that Victims can carry out their roles again properly and normally both in the family and in society.
+
+29. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions normally.
+
+30. Repatriation is an effort to return Victims of Violence to their area of origin. jdih.pangandarankab.go.id 5
+
+31. Social Reintegration is an effort to reunite Victims with family, substitute family, or community that can provide Protection and fulfillment of needs for Victims.
+
+32. Integrated Service Center for the Empowerment of Women and Children, hereinafter referred to as P2TP2A, is an integrated service unit established by the Regional Government to carry out the functions and main tasks of integrated services for Women and children victims of violence, including complaint services, Health Rehabilitation, Social Rehabilitation, Repatriation, Social Reintegration, and legal assistance.
+
+33. Minimum Service Standards, hereinafter abbreviated as SPM, are performance benchmarks for integrated service units in providing services for handling reports, complaints, health services, Social Rehabilitation, enforcement and legal assistance, as well as Repatriation and Social Reintegration for Women Victims of Violence.
+
+# CHAPTER II
+
+RIGHTS OF WOMEN
+
+## Part One
+
+General
+
+#### Article 2
+
+Every Woman has the right:
+
+- a. to life;
+- b. to found a family and continue lineage;
+- c. to self-development;
+- d. to obtain justice;
+- e. to personal freedom;
+- f. to security;
+- g. to welfare; and
+- h. to participate in government.
+
+## Part Two
+
+Rights of Women with Disabilities
+
+#### Article 3
+
+Every Woman with disabilities has the right to obtain: a. education in all units, pathways, types and levels of education;
+
+b. decent work and livelihood in accordance with the type and degree of disability, education and abilities; c. equal treatment to participate in development and enjoy its results;
+
+d. accessibility for the purpose of independence; jdih.pangandarankab.go.id 6
+
+e. rehabilitation, social assistance and maintenance of social welfare standards; and
+
+f. equal rights to develop talents, abilities and social life.
+
+## Part Three
+
+Rights of Women Victims of Violence
+
+#### Article 4
+
+Every woman victim of violence has the right: a. to have her dignity and worth as a human being respected; b. health rehabilitation;
+
+c. to make her own decisions;
+
+d. to obtain information;
+
+e. to confidentiality;
+
+f. to compensation;
+
+g. to social rehabilitation;
+
+h. to complaint handling;
+
+i. to receive facilitation in the judicial process; and j. to assistance.
+
+# CHAPTER III
+
+WOMEN'S EMPOWERMENT
+
+#### Article 5
+
+Women's empowerment is directed to obtain opportunities and rights as human beings to be able to play a role and participate in the fields of:
+
+- a. economy;
+- b. social culture;
+- c. politics and government;
+- d. law;
+- e. education;
+- f. health;
+- g. employment; and
+- h. social security.
+
+## Part One
+
+Field of Economy
+
+#### Article 6
+
+Women's empowerment in the field of economy is implemented through:
+
+- a. provision of skills and job training;
+- b. facilitation of the formation of productive economic business groups; c. facilitation of strengthening and development of productive economic business groups;
+- d. facilitation and capital assistance; and
+- e. facilitation of marketing network development. jdih.pangandarankab.go.id 7
+
+## Part Two
+
+Field of Social Culture
+
+#### Article 7
+
+Women's empowerment in the field of social culture is implemented through;
+
+a. improvement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;
+
+b. improvement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts, particularly in the field of reproductive health;
+
+c. improvement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and
+
+d. facilitation and efforts to preserve customs and develop science, technology, arts and culture for the advancement of women.
+
+## Part Three
+
+Field of Politics and Government
+
+#### Article 8
+
+(1) Women's empowerment in the field of politics and government includes:
+
+- a. involvement of women in decision-making at various levels;
+- b. provision of opportunities for women to hold public office;
+- c. participation in general elections; and
+- d. self-development through organizations to associate, assemble and express opinions.
+  - (2) Women's empowerment in the field of politics and government as referred to in paragraph (1) is implemented in accordance with laws and regulations.
+  - (3) The Regional Government provides guarantees to women to have the right to vote and/or be elected in general elections, regional head elections, village head elections and/or other political office elections based on equal rights through direct, general, free, secret, honest and fair voting in accordance with laws and regulations.
+  - (4) The Regional Government provides opportunities for women to be appointed as regional government officials and occupy strategic positions in regional government; and jdih.pangandarankab.go.id 8
+  - (5) The Regional Government and/or Political Parties are responsible for providing political education for women.
+
+## Part Four
+
+Field of Law
+
+#### Article 9
+
+(1) Women's empowerment in the field of law includes: a. improvement of awareness and knowledge in the field of law through communication, information and education services; and
+
+b. facilitation of access and legal consultation services. (2) Women's empowerment in the field of law as referred to in paragraph (1) is implemented in accordance with laws and regulations.
+
+## Part Five
+
+Field of Education
+
+#### Article 10
+
+Women's empowerment in the field of education through: a. provision of formal and nonformal education for women in the Region.
+
+b. nonformal education aimed at improving women's capabilities.
+
+c. nonformal education as referred to in point b, includes women's empowerment education, skills education and job training.
+
+d. formal and nonformal education as referred to in point a, is regulated by a separate Regional Regulation.
+
+## Part Six
+
+Field of Health
+
+#### Article 11
+
+(1) Women have the right to receive health services in order to lead a healthy, safe reproductive and sexual life, free from coercion and/or violence.
+
+(2) Health services as referred to in paragraph (1) include:
+
+- a. health services during the pre-pregnancy, childbirth and postpartum periods;
+- b. pregnancy regulation, contraceptive services and sexual health; and
+- c. reproductive health services.
+- d. health services implemented through promotive, preventive, curative and rehabilitative approaches. jdih.pangandarankab.go.id 9
+
+## Part Seven
+
+Field of Employment
+
+#### Article 12
+
+(1) Women have equal opportunities without discrimination to obtain employment.
+
+(2) Employers who employ female workers are obliged to provide protection covering welfare, safety and health.
+
+## Part Eight
+
+Field of Social Security
+
+#### Article 13
+
+(1) The Regional Government is responsible for providing guidance facilities for women with social problems. (2) The Regional Government provides the right to social security for women with social problems.
+
+(3) The responsibility for providing guidance facilities for women with social problems lies under the regional apparatus organization that handles women's empowerment affairs.
+
+# CHAPTER IV
+
+PROTECTION OF WOMEN
+
+## Part One
+
+General
+
+#### Article 14
+
+Implementation of protection for women is provided to: a. women workers/laborers;
+
+b. elderly women;
+
+c. women with disabilities;
+
+d. homeless women;
+
+e. domestic women workers;
+
+f. women as family economic pillars;
+
+g. women former inmates of correctional institutions;
+
+h. women disaster victims;
+
+i. women commercial sex workers; and
+
+j. women victims of violence.
+
+## Part One
+
+Women Workers/Laborers
+
+#### Article 15
+
+(1) Implementation of protection for women workers/laborers to provide protection from acts of economic exploitation and cruel, inhumane treatment and to pursue proper appreciation for work. jdih.pangandarankab.go.id 10
+
+(2) Women workers/laborers as referred to in paragraph (1) receive protection for:
+
+- a. recognition of rights, wages and decent working conditions; b. health insurance and employment Social insurance; c. access to information and legal consultation services; d. opportunities to acquire knowledge and skills to improve status.
+
+## Part Two
+
+Elderly Women
+
+#### Article 16
+
+(1) The implementation of protection for elderly women in order to extend life expectancy so that they can carry out their social functions and play an active role naturally in their social life.
+
+(2) Elderly women as referred to in paragraph (1) are entitled to Protection over:
+
+- a. guarantee of continuity and personal self-development;
+- b. participation in the fields of education, health, employment, politics, arts and culture as well as the utilization of information and communication technology;
+- c. accessibility to information, legal aid, mobility, social services; and
+- d. early intervention efforts including treatment and rehabilitation for the improvement of their functions and capacities.
+
+## Part Three
+
+Women with Disabilities
+
+#### Article 17
+
+(1) The implementation of Protection for women with disabilities in order to provide protection and prevention against forms of discrimination including freedom from cruel treatment, inhumane treatment, degrading human dignity and freedom from exploitation;
+
+(2) Women with disabilities as referred to in paragraph (1) are entitled to protection over: a. guarantee of continuity and personal self-development;
+
+b. participation in the fields of education, health, employment, politics, sports, arts and culture as well as the utilization of information and communication technology;
+
+c. accessibility to information, legal aid, mobility, social services; and
+
+d. early intervention efforts including treatment and rehabilitation for the improvement of their functions and capacities. jdih.pangandarankab.go.id 11
+
+## Part Four
+
+Homeless Women
+
+#### Article 18
+
+(1) The implementation of protection for homeless women in order to provide protection and prevention against forms of violence caused by the absence of shelter or permanent residence.
+
+(2) Homeless women as referred to in paragraph (1) are entitled to protection over:
+
+- a. adequate housing;
+- b. health and social security;
+- c. population administration registration;
+- d. opportunities to acquire skills to improve economic status; and
+- e. access to information and legal consultation services.
+
+## Part Five
+
+Domestic Women Workers
+
+#### Article 19
+
+(1) The implementation of Protection for domestic women workers in order to provide protection and prevention against forms of discrimination, cruel treatment, inhumane treatment, degrading human dignity, and exploitation in employment relationships.
+
+(2) Domestic women workers as referred to in paragraph (1) are entitled to protection over:
+
+- a. recognition of rights, wages, and decent working conditions; b. health insurance and social security;
+- c. access to information and legal consultation services; and d. opportunities to acquire knowledge and skills to improve economic status.
+
+## Part Six
+
+Women as Economic Pillars of the Family
+
+#### Article 20
+
+(1) The implementation of protection for women as economic pillars of the family in order to provide protection and prevention against forms of discrimination, negative stigma and economic empowerment for women as economic pillars of the family.
+
+(2) Women as economic pillars of the family as referred to in paragraph (1) are entitled to protection over:
+
+- a. discriminatory actions and efforts to weaken the function of women as economic pillars of the family; jdih.pangandarankab.go.id 12
+- b. strengthening of capacities and recognition as economic pillars of the family in their environment; and c. accessibility to economic and financial institutions.
+
+## Part Seven
+
+Women Former Inmates of Correctional Institutions
+
+#### Article 21
+
+(1) The implementation of Protection for women former inmates of Correctional Institutions in order to provide protection from obstacles to adjusting to community life, so that they can carry out life normally.
+
+(2) Women former inmates of Correctional Institutions as referred to in paragraph (1) are entitled to protection over:
+
+- a. social rehabilitation and reintegration; and
+- b. opportunities to acquire knowledge and skills to improve economic status.
+
+## Part Eight
+
+Women Disaster Victims
+
+#### Article 22
+
+(1) The implementation of Protection for women disaster victims in order to provide protection during disasters and post-disaster.
+
+(2) Women disaster victims as referred to in paragraph (1) are entitled to protection over:
+
+- a. access to adequate housing;
+- b. health services;
+- c. access to information services and legal consultation; and d. post-disaster recovery.
+
+## Part Nine
+
+Women Commercial Sex Workers
+
+#### Article 23
+
+(1) The implementation of Protection for women commercial sex workers in order to provide health protection and improvement of life skills abilities as capital to improve social status.
+
+(2) Protection for women commercial sex workers as referred to in paragraph (1) includes:
+
+- a. providing life skills abilities;
+- b. facilitating reproductive health services; and c. preventing human trafficking. jdih.pangandarankab.go.id 13
+
+## Part Ten
+
+Women Victims of Violence
+
+#### Article 24
+
+(1) Forms of violence against Women include: a. physical violence;
+
+b. psychological violence;
+
+c. sexual violence;
+
+d. domestic neglect;
+
+e. trafficking of women; and
+
+f. exploitation.
+
+(2) The implementation of protection for women victims of violence in order to provide legal protection and/or health recovery
+
+(3) Protection for women victims of violence as referred to in paragraph (2) includes:
+
+- a. legal aid;
+- b. assistance following acts of violence; c. social rehabilitation and reintegration; and
+- d. health services.
+
+# CHAPTER V
+
+OBLIGATIONS AND RESPONSIBILITIES
+
+## Part One
+
+General
+
+#### Article 25
+
+The empowerment and protection of women is a joint obligation and responsibility between:
+
+- a. Regional Government;
+- b. society,
+- c. family; and
+- d. parents.
+
+## Part Two
+
+Obligations and Responsibilities of Regional Government
+
+#### Article 26
+
+(1) The Regional Government is obligated and responsible for the empowerment and protection of women. (2) Efforts for empowerment and protection of women as referred to in paragraph (1), include:
+
+- a. establishment of policies, programs, and activities;
+- b. establishment of implementation guidelines;
+- c. provision of services; and
+- d. coordination of policies, programs and activities. jdih.pangandarankab.go.id 14
+  - (3) The obligations and responsibilities of the Regional Government as referred to in Article 25 letter a include: a. implementing policies for the Protection of Women from all forms of discrimination and acts of violence; b. establishing policies, programs, and activities for the Empowerment and Protection of Women that have been determined;
+- c. collecting data and information about Women Victims of Violence and Discrimination as well as supporting legislation;
+- d. conducting education on matters related to the Protection of Women Victims of Violence and Discrimination;
+- e. conducting socialization of legislation related to the Protection of Women Victims of Violence and Discrimination;
+- f. conducting monitoring and evaluation of the implementation of Protection of Women Victims of Violence and Discrimination.
+  - (4) To anticipate the occurrence of acts of Violence, the Regional Government is obligated to provide and carry out services for Victims in the form of: a. establishing and facilitating the operation of integrated service institutions for Victims by involving community elements;
+- b. facilitating legal aid assistance and legal services according to the needs of Victims;
+- c. providing safe houses or alternative shelter along with handling mechanisms, services, psychosocial and spiritual;
+- d. carrying out continuous handling up to the stage of rehabilitation and social reintegration;
+- e. conducting monitoring and evaluation of the implementation of protection of Victims; and
+- f. encouraging public awareness of the importance of Protection of Victims.
+  - (5) In carrying out the obligations as referred to in paragraph (3) and paragraph (4) the Regional Government must pay attention to the rights and obligations of Parents, guardians, husbands or other persons who are legally responsible for Victims.
+  - (6) To carry out the obligations and responsibilities as referred to in paragraph (1) through paragraph (4) the Regional Government prepares a regional action plan for the Protection of Women Victims of Violence.
+  - (7) Provisions regarding the regional action plan for the Protection of Women Victims of Violence as referred to in paragraph (6) are regulated by Regent Regulation. jdih.pangandarankab.go.id 15
+
+#### Article 27
+
+(1) The Regent integrates policies, programs and activities for the empowerment and protection of women into regional development planning.
+
+(2) The integration of programs and activities as referred to in paragraph (1) is set forth in planning and budget documents which include:
+
+- a. regional long-term development plan; b. regional medium-term development plan; c. strategic plan of Regional Apparatus;
+- d. regional government work plan; and
+- e. work plan and budget of Regional Apparatus work units.
+  - (3) The Regional Apparatus responsible for Women facilitates the integration of policies, programs, and activities for the Protection of Women into the preparation of planning and budget documents as referred to in paragraph (2).
+  - (4) In carrying out activities as referred to in paragraph (3) the Regional Apparatus responsible for Women coordinates with Regional Apparatus that have direct relations with the field of Women.
+
+#### Article 28
+
+(1) The Regent implements policies, programs, and activities for the Protection of Women to eliminate all forms of discrimination and acts of Violence Against Women.
+
+(2) The Regional Apparatus responsible for Women implements policies, programs, and activities for the Protection of Women that have been established and their implementation is carried out in cooperation and coordination with relevant Regional Apparatus, law enforcement, community institutions, universities, and the public.
+
+(3) The implementation of policies, programs, and activities for the Protection of Women as in paragraph (2) is in the form of:
+
+- a. policy analysis;
+- b. advocacy;
+- c. coordination and communication;
+- d. socialization;
+- e. education;
+- f. training;
+- g. facilitation;
+- h. provision of services; and
+- i. other forms. jdih.pangandarankab.go.id 16
+
+#### Article 29
+
+(1) The Regent in implementing policies, programs, and activities for the protection of women as referred to in Article 28 undertakes efforts to:
+
+- a. coordinate implementation among Regional Apparatus; b. cooperate with the central government, provincial government, and other regency/city governments in accordance with the provisions of legislation;
+- c. strengthen gender institutional capacity;
+- d. facilitate services for the Protection of Women; e. provide services for the Protection of Women; f. implement affirmative action for the Protection of Women; and
+- g. develop a data collection system for the Protection of Women including a data collection system for Violence Against Women.
+  - (2) The implementation of policies, programs, and activities as referred to in paragraph (1) is coordinated by the Vice Regent.
+
+## Part Three
+
+Obligations and Responsibilities of the Community, Family, and Parents
+
+#### Article 30
+
+(1) The obligations and responsibilities of the community as referred to in Article 25 letter b are carried out in the form of community participation.
+
+(2) Forms of community participation as referred to in paragraph (1) include:
+
+- a. forming family partners at the sub-district and/or village level;
+- b. forming women's protection units within community organizations;
+- c. conducting socialization of women's rights independently; d. providing first aid to victims; and e. reporting to the competent authorities if violence against victims occurs in their environment; (3) Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and the mass media.
+  - (4) Provisions regarding forms of community participation as referred to in paragraph (2) are carried out responsibly in accordance with the provisions of legislation. jdih.pangandarankab.go.id 17
+
+#### Article 31
+
+The obligations of the family and parents as referred to in Article 25 letter c and letter d are in the form of full responsibility to prevent all forms of violence and protect women as family members.
+
+# CHAPTER VI
+
+EMPOWERMENT AND PROTECTION OF WOMEN STRATEGY
+
+#### Article 32
+
+(1) Empowerment and protection of women is carried out by integrating gender mainstreaming and gender-disaggregated data in an integrated manner based on legislation.
+
+(2) In the empowerment and protection of women, a Working Group and Integrated Services are established by Regent Decree.
+
+(3) Empowerment and protection of women is coordinated by the Agency that handles Women's Empowerment.
+
+# CHAPTER VII
+
+PREVENTION, PROTECTION SERVICES, AND RECOVERY OF WOMEN VICTIMS OF VIOLENCE
+
+## Part One
+
+Prevention of Violence Against Women
+
+#### Article 33
+
+The Regional Government in preventing acts of violence against women:
+
+- a. conducts the preparation and socialization regarding matters concerning violence against women; b. conducts socialization on the rights of Women; c. seeks to improve education for Women; d. opens skills courses for Women to support the economic needs of the family;
+- e. creates employment opportunities for Women; f. provides counseling related to Violence Against Women;
+- g. empowers social community organizations and Women's organizations at the Regional, sub-district, and village levels to increase the knowledge and insight of Women;
+- h. establishes complaint posts for the Protection of Women; and i. forms a working network in efforts to prevent Violence Against Women. jdih.pangandarankab.go.id 18
+
+## Part Two
+
+Protection Services
+
+#### Article 34
+
+(1) Protection services to women are carried out in the form of:
+
+- a. protection of the victim's personal security from physical and mental threats;
+- b. health services according to medical needs; c. medical services for the purposes of evidence in the legal field;
+- d. maintaining the confidentiality of the victim's identity;
+- e. providing testimony during examination at trial without facing the suspect; f. spiritual guidance services; and/or
+- g. protection for Women who work as laborers or workers in accordance with the provisions of laws and regulations.
+  - (2) Protection of the victim's personal security from physical and mental threats as referred to in paragraph (1) letter a is carried out by the family, law enforcement officers, social institutions, and other parties either temporarily or based on the determination of a Protection order from the court.
+
+#### Article 35
+
+(1) In providing protection services as referred to in Article 34 paragraph (1), the Regional Government: a. provides services and handling as quickly as possible to witnesses and/or victims;
+
+b. provides convenience, comfort, safety, and free of charge for witnesses and/or victims;
+
+c. maintains the confidentiality of witnesses and/or victims;
+
+d. guarantees justice and legal certainty for witnesses and/or Victims;
+
+e. provision of officers, health workers, social workers, and spiritual guides;
+
+f. creation and development of systems and mechanisms for cooperation in service programs involving parties that are easily accessible to victims;
+
+g. provides protection for companions, witnesses, family, and friends of victims;
+
+h. provides decent work and livelihood according to the type and degree of disability, education, and ability; and
+
+i. provides protection for female workers or laborers in accordance with the provisions of protection for laborers or workers in accordance with the provisions of laws and regulations. jdih.pangandarankab.go.id 19
+
+(2) The Regional Government in providing protection services as referred to in paragraph (1) may cooperate with the central government, provincial government, other regency/city governments, the community, and/or other social institutions.
+
+(3) Cooperation as referred to in paragraph (2) is set forth in a cooperation agreement.
+
+#### Article 36
+
+(1) The provision of Women's Protection services as referred to in Article 35 consists of Victim identification, legal assistance, medical rehabilitation, psychosocial rehabilitation, Social Reintegration, Repatriation assistance, or other forms.
+
+(2) The provision of Women's Protection services as referred to in paragraph (1) is provided for Women Victims of Violence including Victims of Human Trafficking, Women in disaster-prone areas, working Women, elderly Women, Women with disabilities, Women Victims of sexual exploitation, Women heads of households, and Women in other vulnerable groups.
+
+#### Article 37
+
+Every person related to the implementation of Women's Protection who knows of acts of Violence against Women but allows it, does not provide Protection to Victims, and/or does not report to the relevant agency may be subject to administrative sanctions in the form of:
+
+- a. written warning;
+- b. temporary suspension from activities;
+- c. termination of cooperation;
+- d. revocation of registered certificate;
+- e. revocation of operational permit;
+- f. withdrawal of facilities; and
+- g. administrative fines.
+
+## Part Three
+
+Recovery
+
+#### Article 38
+
+(1) For the purposes of recovery, victims are entitled to obtain: a. health services;
+
+b. victim assistance;
+
+c. counseling;
+
+d. spiritual guidance; and
+
+e. resocialization. jdih.pangandarankab.go.id 20
+
+(2) For the purposes of recovery as referred to in paragraph (1), the Regional Government is required to provide: a. expert and professional personnel;
+
+b. service centers and safe houses; and
+
+c. other facilities and infrastructure needed for the recovery of victims.
+
+(3) Expert and professional personnel as referred to in paragraph (2) letter b consist of:
+
+- a. health workers;
+- b. social workers;
+- c. companion volunteers; and/or
+- d. spiritual guides.
+  - (4) Health workers as referred to in paragraph (3) letter a must examine victims in accordance with their professional standards, restore, and rehabilitate the health of victims if victims require treatment.
+  - (5) Social workers, companion volunteers, and spiritual guides as referred to in paragraph (3) letters b, c, and d must provide services to victims in the form of counseling to strengthen and/or provide a sense of security for victims.
+  - (6) Violations of the provisions as referred to in paragraphs (4) and (5) may be subject to administrative sanctions in the form of:
+- a. written warning;
+- b. temporary suspension from activities;
+- c. termination of cooperation;
+- d. revocation of registered certificate;
+- e. revocation of operational permit;
+- f. withdrawal of facilities; and
+- g. administrative fines.
+  - (7) Provisions regarding the procedures for applying administrative sanctions as referred to in paragraph (6) are regulated in the Regent Regulation.
+
+# CHAPTER VIII
+
+INSTITUTIONAL ARRANGEMENTS
+
+#### Article 39
+
+(1) P2TP2A in the implementation of women's protection services.
+
+(2) Women's protection services by P2TP2A as referred to in paragraph (1) involve elements of: a. health;
+
+b. psychology;
+
+c. law;
+
+d. clergy;
+
+e. social; and
+
+f. economy. jdih.pangandarankab.go.id 21
+
+(3) Further provisions regarding the establishment, membership composition, duties, and functions of P2TP2A as referred to in paragraphs (1) and (2) are stipulated by Regent Decree.
+
+#### Article 40
+
+(1) The Regional Government establishes a forum for the protection of women victims of violence at every sub-district level.
+
+(2) The forum for the protection of women victims of violence as referred to in paragraph (1) has the duty to:
+
+- a. coordinate and synchronize the handling of protection services for women victims of violence; b. facilitate and provide more optimal services and reach lower-level communities; c. maintain and develop networks and referral systems; and
+- d. compile a database regarding the development of protection for women victims of violence.
+  - (3) Further provisions regarding the establishment, membership composition, duties, and functions of the Protection Forum for Women Victims of Violence as referred to in paragraphs (1) and (2) are stipulated by Regent Decree.
+
+# CHAPTER IX
+
+SUPERVISION, EVALUATION AND GUIDANCE
+
+## Part One
+
+Supervision
+
+#### Article 41
+
+(1) The Regent shall supervise the implementation of policies, programs, and activities for the empowerment and protection of women.
+
+(2) To ensure synergy, continuity and integrated effectiveness in the implementation of supervision as referred to in paragraph (1), the Regent shall conduct monitoring through the Regional Apparatus handling Women's affairs.
+
+(3) The monitoring as referred to in paragraph (2) shall be conducted starting from the planning to the implementation of policies, programs and activities for the empowerment and protection of women for the current year.
+
+(4) The monitoring results as referred to in paragraph (3) shall be reported to the Regent periodically 2 (two) times within 1 (one) year. jdih.pangandarankab.go.id 22
+
+## Part Two
+
+Evaluation
+
+#### Article 42
+
+(1) The Regional Government shall evaluate the implementation of policies, programs, and activities for the protection of women at the end of every fiscal year.
+
+(2) The evaluation results as referred to in paragraph (1) shall be used as input material for the formulation of policies, programs, and activities for the protection of women in the following year.
+
+(3) The evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.
+
+## Part Three
+
+Guidance
+
+#### Article 43
+
+The Regent shall provide guidance on the implementation of policies, programs, and activities for the protection of women to relevant Regional Apparatus and sub-districts.
+
+#### Article 44
+
+Further provisions regarding the supervision, evaluation and guidance of policies, programs and activities for the protection of women as referred to in Article 41 through Article 43 shall be regulated by Regent Regulation.
+
+# CHAPTER X
+
+SOURCES OF FINANCING
+
+#### Article 45
+
+Financing for the implementation of the protection of Women is sourced from:
+
+- a. regional revenue and expenditure budget; and b. other legitimate and non-binding sources of funds.
+
+#### Article 46
+
+(1) The Regional Government may provide financial assistance to community organizations, social organizations, or non-governmental organizations and universities that carry out protection of women.
+
+(2) The financial assistance as referred to in paragraph (1) shall be provided in accordance with the Regional financial capacity and implemented in accordance with the provisions of laws and regulations in the field of regional finance. jdih.pangandarankab.go.id 23
+
+# CHAPTER XI
+
+CLOSING PROVISIONS
+
+#### Article 47
+
+Implementing regulations of this Regional Regulation must be stipulated no later than 2 (two) years calculated from the promulgation of this Regional Regulation.
+
+#### Article 48
+
+This Regional Regulation shall enter into force on the date of promulgation.
+
+So that everyone may know, orders the promulgation of this Regional Regulation with its placement in the Regional Gazette of Pangandaran Regency.
+
+Stipulated in Parigi on the date of
+
+REGENT OF PANGANDARAN,
+
+SGD
+
+H. JEJE WIRADINATA
+
+Promulgated in Parigi on the date of
+
+REGIONAL SECRETARY
+
+OF PANGANDARAN REGENCY,
+
+SGD
+
+H. KUSDIANA
+
+REGIONAL GAZETTE OF PANGANDARAN REGENCY
+
+YEAR 2019 NUMBER
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF PANGANDARAN REGENCY,
+
+WEST JAVA PROVINCE 5 / 245 / 2019
+
+jdih.pangandarankab.go.id 24
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF PANGANDARAN REGENCY
+
+NUMBER YEAR 2019
+
+CONCERNING
+
+EMPOWERMENT AND PROTECTION OF WOMEN
+
+I. GENERAL
+
+Fundamentally, the Region is formed to improve public services and realize public welfare, therefore in the implementation of autonomy, the region has obligations including protecting the community, maintaining unity, integrity and national harmony.
+
+Unequal opportunities in all areas of life including in the fields of economy, social culture, politics and governance, law, education, health, employment and social security, may give rise to various social problems, especially for women. The reality shows that in the Region there are still acts of violence both physically, psychologically, sexually and this constitutes a violation of human rights. Violence against women is a violation of human rights so their dignity and honor must be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination. The fate of women victims of violence must be addressed by the regional government. The high number of cases of violence against women is often caused by factors that develop in society, such as low economic and education levels, environments located in the industrial sector. Therefore, victims of violence like this need to receive protection in accordance with the principles of justice, truth, legal certainty, equality and upholding human rights.
+
+The Regional Government has the obligation and responsibility to implement efforts to protect women victims of violence through: implementing policies for the protection of women victims of violence applied by the government, establishing policies, programs, and activities for the protection of women victims of violence, establishing P2TP2A, ensuring the implementation of service facilities for victims, seeking effectiveness and efficiency for the victim recovery process, and seeking to create cooperation and coordination in victim recovery efforts.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Sufficiently clear.
+
+#### Article 3
+
+jdih.pangandarankab.go.id 25
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+jdih.pangandarankab.go.id 26
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+#### Article 32
+
+Sufficiently clear.
+
+#### Article 33
+
+Sufficiently clear.
+
+#### Article 34
+
+Sufficiently clear.
+
+#### Article 35
+
+Sufficiently clear.
+
+#### Article 36
+
+Sufficiently clear.
+
+#### Article 37
+
+Sufficiently clear.
+
+#### Article 38
+
+Sufficiently clear.
+
+#### Article 39
+
+Sufficiently clear.
+
+#### Article 40
+
+Sufficiently clear.
+
+#### Article 41
+
+Sufficiently clear.
+
+#### Article 42
+
+Sufficiently clear.
+
+#### Article 43
+
+Sufficiently clear.
+
+#### Article 44
+
+Sufficiently clear.
+
+#### Article 45
+
+Sufficiently clear.
+
+#### Article 46
+
+Sufficiently clear.
+
+#### Article 47
+
+Sufficiently clear.
+
+#### Article 48
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF PANGANDARAN REGENCY NUMBER
+
+jdih.pangandarankab.go.id 27

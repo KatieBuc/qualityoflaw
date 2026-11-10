@@ -1,0 +1,965 @@
+{
+  "policy_file": "15. Belarus - DomViol - Russian - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:30:39.464964+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "This Law uses the following basic terms and their definitions: close relatives – parents, children, adopters, adopted children, siblings, grandfather, grandmother, grandchildren, as well as spouse; actions of a psychological nature – impact on the psyche of a citizen of the Republic of Belarus, a foreign citizen and a stateless person (hereinafter, unless otherwise defined, – citizen) by means of threat, humiliation of honor and dignity, commission of other immoral actions that objectively give the citizen reason to fear for his safety or the safety of persons close to him; actions of a sexual nature – encroachment on sexual freedom or sexual inviolability; actions of a physical nature – infliction of bodily injury, pain, torment, battery; domestic violence – intentional unlawful or immoral actions of a physical, psychological or sexual nature by close relatives, former spouses, citizens having a common child (children), or other citizens who live (lived) together and maintain (maintained) a common household, in relation to each other, causing physical and (or) mental suffering; individual prevention of offenses – activities of subjects of prevention of offenses to provide corrective influence on a citizen in order to prevent the commission of offenses, carried out in accordance with this Law and other acts of legislation; general prevention of offenses – activities of subjects of prevention of offenses to identify the causes of offenses and conditions contributing to their commission, and to take measures to eliminate them, influence social processes and phenomena in order to prevent unlawful behavior of citizens, carried out in accordance with this Law and other acts of legislation; victim of domestic violence – a citizen to whom physical and (or) mental suffering has been caused as a result of domestic violence; offense – unlawful culpable action (inaction) for the commission of which criminal or administrative liability is provided; prevention of offenses – activities involving the application of measures of general and (or) individual prevention of offenses by subjects of prevention of offenses in accordance with this Law and other acts of legislation; preventive measure – a set of actions of a subject of prevention of offenses, organized and carried out by it within the framework of general and (or) individual prevention of offenses.\nA protective order is the establishment of temporary prohibitions on performing certain actions and obligations for a citizen who has committed domestic violence, for the protection of the life and health of a victim of domestic violence.",
+      "rationale": "The text contains an operative definition of “domestic violence” and establishes a protective order mechanism applicable to a citizen who has committed domestic violence, indicating substantive legal coverage (definitions and protective remedies).",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "В настоящем Законе применяются следующие основные термины и их определения: близкие родственники – родители, дети, усыновители (удочерители), усыновленные (удочеренные), родные братья и сестры, дед, бабка, внуки, а также супруг (супруга); действия психологического характера – воздействие на психику гражданина Республики Беларусь, иностранного гражданина и лица без гражданства (далее, если не определено иное, – гражданин) посредством угрозы, унижения чести и достоинства, совершения иных аморальных действий, которые объективно дают основания гражданину опасаться за свою безопасность или безопасность близких ему лиц; действия сексуального характера – посягательство на половую свободу или половую неприкосновенность; действия физического характера – причинение телесного повреждения, боли, мучений, нанесение побоев; домашнее насилие – умышленные противоправные либо аморальные действия физического, психологического или сексуального характера близких родственников, бывших супругов, граждан, имеющих общего ребенка (детей), либо иных граждан, которые проживают (проживали) совместно и ведут (вели) общее хозяйство, по отношению друг к другу, причиняющие физические и (или) психические страдания; индивидуальная профилактика правонарушений – деятельность субъектов профилактики правонарушений по оказанию корректирующего воздействия на гражданина в целях недопущения совершения правонарушений, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; общая профилактика правонарушений – деятельность субъектов профилактики правонарушений по выявлению причин правонарушений и условий, способствующих их совершению, и принятию мер по их устранению, воздействию на социальные процессы и явления в целях недопущения противоправного поведения граждан, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; пострадавший от домашнего насилия – гражданин, которому в результате совершения домашнего насилия причинены физические и (или) психические страдания; правонарушение – противоправное виновное действие (бездействие), за совершение которого предусмотрена уголовная или административная ответственность; профилактика правонарушений – деятельность по применению мер общей и (или) индивидуальной профилактики правонарушений субъектами профилактики правонарушений в соответствии с настоящим Законом и другими актами законодательства; профилактическое мероприятие – совокупность действий субъекта профилактики правонарушений, организованных и проводимых им в рамках общей и (или) индивидуальной профилактики правонарушений.\n\nЗащитное предписание – установление гражданину, совершившему домашнее насилие, временных запретов на совершение определенных действий и обязанности для защиты жизни и здоровья пострадавшего от домашнего насилия.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "This Law uses the following basic terms and their definitions: close relatives – parents, children, adopters, adopted children, siblings, grandfather, grandmother, grandchildren, as well as spouse; actions of a psychological nature – impact on the psyche of a citizen of the Republic of Belarus, a foreign citizen and a stateless person (hereinafter, unless otherwise defined, – citizen) by means of threat, humiliation of honor and dignity, commission of other immoral actions that objectively give the citizen reason to fear for his safety or the safety of persons close to him; actions of a sexual nature – encroachment on sexual freedom or sexual inviolability; actions of a physical nature – infliction of bodily injury, pain, torment, battery; domestic violence – intentional unlawful or immoral actions of a physical, psychological or sexual nature by close relatives, former spouses, citizens having a common child (children), or other citizens who live (lived) together and maintain (maintained) a common household, in relation to each other, causing physical and (or) mental suffering; individual prevention of offenses – activities of subjects of prevention of offenses to provide corrective influence on a citizen in order to prevent the commission of offenses, carried out in accordance with this Law and other acts of legislation; general prevention of offenses – activities of subjects of prevention of offenses to identify the causes of offenses and conditions contributing to their commission, and to take measures to eliminate them, influence social processes and phenomena in order to prevent unlawful behavior of citizens, carried out in accordance with this Law and other acts of legislation; victim of domestic violence – a citizen to whom physical and (or) mental suffering has been caused as a result of domestic violence; offense – unlawful culpable action (inaction) for the commission of which criminal or administrative liability is provided; prevention of offenses – activities involving the application of measures of general and (or) individual prevention of offenses by subjects of prevention of offenses in accordance with this Law and other acts of legislation; preventive measure – a set of actions of a subject of prevention of offenses, organized and carried out by it within the framework of general and (or) individual prevention of offenses.",
+      "rationale": "The framework defines “actions of a sexual nature” as encroachment on sexual freedom or sexual inviolability, and includes sexual nature actions within the operative definition of domestic violence, which is tied to protective and preventive measures in the law.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "В настоящем Законе применяются следующие основные термины и их определения: близкие родственники – родители, дети, усыновители (удочерители), усыновленные (удочеренные), родные братья и сестры, дед, бабка, внуки, а также супруг (супруга); действия психологического характера – воздействие на психику гражданина Республики Беларусь, иностранного гражданина и лица без гражданства (далее, если не определено иное, – гражданин) посредством угрозы, унижения чести и достоинства, совершения иных аморальных действий, которые объективно дают основания гражданину опасаться за свою безопасность или безопасность близких ему лиц; действия сексуального характера – посягательство на половую свободу или половую неприкосновенность; действия физического характера – причинение телесного повреждения, боли, мучений, нанесение побоев; домашнее насилие – умышленные противоправные либо аморальные действия физического, психологического или сексуального характера близких родственников, бывших супругов, граждан, имеющих общего ребенка (детей), либо иных граждан, которые проживают (проживали) совместно и ведут (вели) общее хозяйство, по отношению друг к другу, причиняющие физические и (или) психические страдания; индивидуальная профилактика правонарушений – деятельность субъектов профилактики правонарушений по оказанию корректирующего воздействия на гражданина в целях недопущения совершения правонарушений, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; общая профилактика правонарушений – деятельность субъектов профилактики правонарушений по выявлению причин правонарушений и условий, способствующих их совершению, и принятию мер по их устранению, воздействию на социальные процессы и явления в целях недопущения противоправного поведения граждан, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; пострадавший от домашнего насилия – гражданин, которому в результате совершения домашнего насилия причинены физические и (или) психические страдания; правонарушение – противоправное виновное действие (бездействие), за совершение которого предусмотрена уголовная или административная ответственность; профилактика правонарушений – деятельность по применению мер общей и (или) индивидуальной профилактики правонарушений субъектами профилактики правонарушений в соответствии с настоящим Законом и другими актами законодательства; профилактическое мероприятие – совокупность действий субъекта профилактики правонарушений, организованных и проводимых им в рамках общей и (или) индивидуальной профилактики правонарушений.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "This Law uses the following basic terms and their definitions: close relatives – parents, children, adopters, adopted children, siblings, grandfather, grandmother, grandchildren, as well as spouse; actions of a psychological nature – impact on the psyche of a citizen of the Republic of Belarus, a foreign citizen and a stateless person (hereinafter, unless otherwise defined, – citizen) by means of threat, humiliation of honor and dignity, commission of other immoral actions that objectively give the citizen reason to fear for his safety or the safety of persons close to him; actions of a sexual nature – encroachment on sexual freedom or sexual inviolability; actions of a physical nature – infliction of bodily injury, pain, torment, battery; domestic violence – intentional unlawful or immoral actions of a physical, psychological or sexual nature by close relatives, former spouses, citizens having a common child (children), or other citizens who live (lived) together and maintain (maintained) a common household, in relation to each other, causing physical and (or) mental suffering; individual prevention of offenses – activities of subjects of prevention of offenses to provide corrective influence on a citizen in order to prevent the commission of offenses, carried out in accordance with this Law and other acts of legislation; general prevention of offenses – activities of subjects of prevention of offenses to identify the causes of offenses and conditions contributing to their commission, and to take measures to eliminate them, influence social processes and phenomena in order to prevent unlawful behavior of citizens, carried out in accordance with this Law and other acts of legislation; victim of domestic violence – a citizen to whom physical and (or) mental suffering has been caused as a result of domestic violence; offense – unlawful culpable action (inaction) for the commission of which criminal or administrative liability is provided; prevention of offenses – activities involving the application of measures of general and (or) individual prevention of offenses by subjects of prevention of offenses in accordance with this Law and other acts of legislation; preventive measure – a set of actions of a subject of prevention of offenses, organized and carried out by it within the framework of general and (or) individual prevention of offenses.",
+      "rationale": "The law defines “actions of a physical nature” (including bodily injury and battery) and incorporates physical actions into the operative definition of domestic violence, which triggers legal measures (e.g., protective orders and prevention mechanisms elsewhere in the framework).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "В настоящем Законе применяются следующие основные термины и их определения: близкие родственники – родители, дети, усыновители (удочерители), усыновленные (удочеренные), родные братья и сестры, дед, бабка, внуки, а также супруг (супруга); действия психологического характера – воздействие на психику гражданина Республики Беларусь, иностранного гражданина и лица без гражданства (далее, если не определено иное, – гражданин) посредством угрозы, унижения чести и достоинства, совершения иных аморальных действий, которые объективно дают основания гражданину опасаться за свою безопасность или безопасность близких ему лиц; действия сексуального характера – посягательство на половую свободу или половую неприкосновенность; действия физического характера – причинение телесного повреждения, боли, мучений, нанесение побоев; домашнее насилие – умышленные противоправные либо аморальные действия физического, психологического или сексуального характера близких родственников, бывших супругов, граждан, имеющих общего ребенка (детей), либо иных граждан, которые проживают (проживали) совместно и ведут (вели) общее хозяйство, по отношению друг к другу, причиняющие физические и (или) психические страдания; индивидуальная профилактика правонарушений – деятельность субъектов профилактики правонарушений по оказанию корректирующего воздействия на гражданина в целях недопущения совершения правонарушений, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; общая профилактика правонарушений – деятельность субъектов профилактики правонарушений по выявлению причин правонарушений и условий, способствующих их совершению, и принятию мер по их устранению, воздействию на социальные процессы и явления в целях недопущения противоправного поведения граждан, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; пострадавший от домашнего насилия – гражданин, которому в результате совершения домашнего насилия причинены физические и (или) психические страдания; правонарушение – противоправное виновное действие (бездействие), за совершение которого предусмотрена уголовная или административная ответственность; профилактика правонарушений – деятельность по применению мер общей и (или) индивидуальной профилактики правонарушений субъектами профилактики правонарушений в соответствии с настоящим Законом и другими актами законодательства; профилактическое мероприятие – совокупность действий субъекта профилактики правонарушений, организованных и проводимых им в рамках общей и (или) индивидуальной профилактики правонарушений.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "This Law uses the following basic terms and their definitions: close relatives – parents, children, adopters, adopted children, siblings, grandfather, grandmother, grandchildren, as well as spouse; actions of a psychological nature – impact on the psyche of a citizen of the Republic of Belarus, a foreign citizen and a stateless person (hereinafter, unless otherwise defined, – citizen) by means of threat, humiliation of honor and dignity, commission of other immoral actions that objectively give the citizen reason to fear for his safety or the safety of persons close to him; actions of a sexual nature – encroachment on sexual freedom or sexual inviolability; actions of a physical nature – infliction of bodily injury, pain, torment, battery; domestic violence – intentional unlawful or immoral actions of a physical, psychological or sexual nature by close relatives, former spouses, citizens having a common child (children), or other citizens who live (lived) together and maintain (maintained) a common household, in relation to each other, causing physical and (or) mental suffering; individual prevention of offenses – activities of subjects of prevention of offenses to provide corrective influence on a citizen in order to prevent the commission of offenses, carried out in accordance with this Law and other acts of legislation; general prevention of offenses – activities of subjects of prevention of offenses to identify the causes of offenses and conditions contributing to their commission, and to take measures to eliminate them, influence social processes and phenomena in order to prevent unlawful behavior of citizens, carried out in accordance with this Law and other acts of legislation; victim of domestic violence – a citizen to whom physical and (or) mental suffering has been caused as a result of domestic violence; offense – unlawful culpable action (inaction) for the commission of which criminal or administrative liability is provided; prevention of offenses – activities involving the application of measures of general and (or) individual prevention of offenses by subjects of prevention of offenses in accordance with this Law and other acts of legislation; preventive measure – a set of actions of a subject of prevention of offenses, organized and carried out by it within the framework of general and (or) individual prevention of offenses.",
+      "rationale": "The framework defines “actions of a psychological nature” and includes psychological actions within the operative definition of domestic violence, which is linked to legal consequences and measures under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "В настоящем Законе применяются следующие основные термины и их определения: близкие родственники – родители, дети, усыновители (удочерители), усыновленные (удочеренные), родные братья и сестры, дед, бабка, внуки, а также супруг (супруга); действия психологического характера – воздействие на психику гражданина Республики Беларусь, иностранного гражданина и лица без гражданства (далее, если не определено иное, – гражданин) посредством угрозы, унижения чести и достоинства, совершения иных аморальных действий, которые объективно дают основания гражданину опасаться за свою безопасность или безопасность близких ему лиц; действия сексуального характера – посягательство на половую свободу или половую неприкосновенность; действия физического характера – причинение телесного повреждения, боли, мучений, нанесение побоев; домашнее насилие – умышленные противоправные либо аморальные действия физического, психологического или сексуального характера близких родственников, бывших супругов, граждан, имеющих общего ребенка (детей), либо иных граждан, которые проживают (проживали) совместно и ведут (вели) общее хозяйство, по отношению друг к другу, причиняющие физические и (или) психические страдания; индивидуальная профилактика правонарушений – деятельность субъектов профилактики правонарушений по оказанию корректирующего воздействия на гражданина в целях недопущения совершения правонарушений, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; общая профилактика правонарушений – деятельность субъектов профилактики правонарушений по выявлению причин правонарушений и условий, способствующих их совершению, и принятию мер по их устранению, воздействию на социальные процессы и явления в целях недопущения противоправного поведения граждан, осуществляемая в соответствии с настоящим Законом и другими актами законодательства; пострадавший от домашнего насилия – гражданин, которому в результате совершения домашнего насилия причинены физические и (или) психические страдания; правонарушение – противоправное виновное действие (бездействие), за совершение которого предусмотрена уголовная или административная ответственность; профилактика правонарушений – деятельность по применению мер общей и (или) индивидуальной профилактики правонарушений субъектами профилактики правонарушений в соответствии с настоящим Законом и другими актами законодательства; профилактическое мероприятие – совокупность действий субъекта профилактики правонарушений, организованных и проводимых им в рамках общей и (или) индивидуальной профилактики правонарушений.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence only in physical, psychological, or sexual terms and provide related measures; there is no mention or operative inclusion of economic violence/abuse, economic exploitation, or neglect as a form of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they establish minimum-age or protective rules for such practices.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence generally (including risk of serious consequences) but do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor establish femicide-specific aggravation, monitoring, or observatories.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking/trafficking in persons or trafficking victims; references to illegal migration or general offense prevention do not establish trafficking-specific definitions, prohibitions, or protections.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines “actions of a sexual nature” in relation to sexual freedom/inviolability, it does not mention sexual exploitation, sexual slavery, forced prostitution, or exploitation for sexual purposes, nor any trafficking-to-sexual-exploitation linkage.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only relevant references to technology concern communication methods (e.g., Internet/email for summons) and a domestic-violence protective order prohibition on communicating via the Internet; these do not recognize or define technology-facilitated violence (cyber harassment/abuse) as a form of violence under the coding rules.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence and related terms and repeatedly reference the possibility of administrative or criminal liability under other legislation (e.g., investigations, criminal cases, bringing a person to liability), but they do not themselves define any act of violence against women as a criminal offence with a specified criminal sanction (imprisonment/fine/other penalty), nor do they state generally that domestic violence is punishable by law in a way that would meet the referenced-only threshold. The text is primarily about prevention measures and protective orders rather than criminal penalties.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "A protective order is applied or extended by an authorized official of the internal affairs body with the written consent of an adult victim (victims) of domestic violence, taking into account an assessment of the likelihood of continuation or repeated commission of domestic violence, the occurrence of serious or particularly serious consequences of its commission, including the death of the victim of domestic violence (hereinafter – the risk of domestic violence).\nThe prohibitions and obligation specified in parts three and four of this Article are established for a period of up to fifteen days from the moment of announcement of the protective order to the citizen in respect of whom it has been applied.\nA protective order may be applied to a citizen who has committed domestic violence and in respect of whom in connection therewith: preparation is being carried out for the consideration of a case on an administrative offense of intentional infliction of bodily injury and other violent actions or violation of a protective order; an investigation is being conducted in accordance with the requirements of criminal procedure legislation or a criminal case has been initiated regarding a crime against life and health, sexual integrity or sexual freedom, or personal freedom, honor and dignity.",
+      "rationale": "The policy establishes a protective order mechanism, identifies the issuing authority (authorized official of the internal affairs body; in some cases the head/deputy in agreement with a prosecutor), provides duration (up to 15 days, extendable up to 30), and indicates a consequence for breach by explicitly linking protective orders to proceedings for an administrative offense for “violation of a protective order.” These elements satisfy the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Защитное предписание применяется либо продлевается уполномоченным должностным лицом органа внутренних дел с письменного согласия совершеннолетнего пострадавшего (пострадавших) от домашнего насилия с учетом оценки вероятности продолжения либо повторного совершения домашнего насилия, наступления тяжких либо особо тяжких последствий его совершения, в том числе смерти пострадавшего от домашнего насилия (далее – риск домашнего насилия).\n\nЗапреты и обязанность, указанные в частях третьей и четвертой настоящей статьи, устанавливаются на срок до пятнадцати суток с момента объявления защитного предписания гражданину, в отношении которого оно применено.\n\nЗащитное предписание может применяться к гражданину, совершившему домашнее насилие и в отношении которого в связи с этим: осуществляется подготовка к рассмотрению дела об административном правонарушении об умышленном причинении телесного повреждения и иных насильственных действиях либо о нарушении защитного предписания; проводится проверка в соответствии с требованиями уголовно-процессуального законодательства либо возбуждено уголовное дело о преступлении против жизни и здоровья, половой неприкосновенности или половой свободы либо личной свободы, чести и достоинства.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe responsibilities of internal affairs bodies regarding domestic violence (receiving reports, suppressing violence, preparing materials for liability, etc.) and other prevention structures, but they do not designate or mandate any specialised police unit/desk/division dedicated to victims of violence against women/domestic violence, nor do they even reference such a unit in general terms.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention victims’ rights and general access to assistance and the ability to appeal decisions to a prosecutor or court, but they do not establish or mandate any specialised court, chamber, judicial officer, or specialised/expedited judicial procedure for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence to include actions of a sexual nature and define “close relatives” to include spouses, but they do not expressly criminalise marital rape, state that rape/sexual assault provisions apply regardless of marital status, or remove any spousal exemption from criminal liability for sexual violence. Under the coding rules, general references to sexual violence/domestic violence are insufficient without explicit applicability within marriage or explicit removal of an exemption.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies in the sphere of preventing domestic violence: ensure the planning and systematic nature of preventive measures to prevent domestic violence, take measures to study and comprehensively respond to citizens' requests taking into account local characteristics; create interdepartmental councils to assist victims of domestic violence in the relevant territory, which determine the procedure for implementing a set of measures to assist victims of domestic violence within the framework of interdepartmental cooperation protocols in accordance with the model regulation on the interdepartmental council for assistance to victims of domestic violence, approved by the Council of Ministers of the Republic of Belarus, and the model form of the interdepartmental cooperation protocol established by the Council of Ministers of the Republic of Belarus; if necessary, protect the rights of a victim of domestic violence recognized by the court as incapacitated or with limited capacity, and represent his interests in state bodies or in court; promote the development of cooperation with other organizations and citizens in activities to prevent domestic violence; make decisions on the establishment of state organizations, their structural subdivisions for the round-the-clock provision of temporary shelter services to victims of domestic violence, provision of social, psychological and other assistance to them, and also take, if necessary, in the manner established by the Council of Ministers of the Republic of Belarus, measures to provide temporary accommodation for citizens against whom a protective order has been applied; organize within their competence the conduct of correctional programs; carry out accounting, generalization, systematization and analysis of data on the provision of assistance to victims of domestic violence, on measures taken against citizens who have committed domestic violence.\nCoordination of activities for prevention of offenses within the limits of competence is carried out by the General Prosecutor and lower prosecutors of territorial and transport prosecutor's offices, including through organizing the work of coordination meetings on combating crime and corruption.",
+      "rationale": "The framework establishes formal coordination mechanisms for prevention of offenses/domestic violence, including creation of interdepartmental councils to assist victims and coordination meetings organized by prosecutors, which together constitute institutional coordination across agencies/sectors for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы в сфере предупреждения домашнего насилия: обеспечивают плановость и системность проведения профилактических мероприятий по предупреждению домашнего насилия, принимают меры по изучению и комплексному реагированию на запросы граждан с учетом местных особенностей; на соответствующей территории создают межведомственные советы по оказанию помощи пострадавшим от домашнего насилия, которые определяют порядок реализации комплекса мер по оказанию помощи пострадавшим от домашнего насилия в рамках протоколов межведомственного взаимодействия в соответствии с примерным положением о межведомственном совете по оказанию помощи пострадавшим от домашнего насилия, утверждаемым Советом Министров Республики Беларусь, и примерной формой протокола межведомственного взаимодействия, устанавливаемой Советом Министров Республики Беларусь; при необходимости защищают права пострадавшего от домашнего насилия, признанного судом недееспособным либо ограниченно дееспособным, и представляют его интересы в государственных органах или в суде; способствуют развитию сотрудничества с иными организациями и гражданами в деятельности по предупреждению домашнего насилия; принимают решения о создании государственных организаций, их структурных подразделений по круглосуточному оказанию пострадавшим от домашнего насилия услуг временного приюта, оказанию им социальной, психологической и иной помощи, а также принимают при необходимости в порядке, установленном Советом Министров Республики Беларусь, меры по обеспечению местами временного пребывания граждан, в отношении которых применено защитное предписание; организуют в пределах своей компетенции проведение коррекционных программ; осуществляют учет, обобщение, систематизацию и анализ данных об оказании помощи пострадавшим от домашнего насилия, о мерах, принятых в отношении граждан, совершивших домашнее насилие.\n\nКоординация деятельности по профилактике правонарушений в пределах компетенции осуществляется Генеральным прокурором и нижестоящими прокурорами территориальных и транспортных прокуратур, в том числе посредством организации работы координационных совещаний по борьбе с преступностью и коррупцией.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "The registry of information on facts of domestic violence is a state information system intended for collecting, processing, registering, accumulating, storing and using information on facts of domestic violence.\nThe functioning of the registry of information on facts of domestic violence is ensured by the Ministry of Internal Affairs, which is its owner.\nOther crime prevention entities subordinate to the Government of the Republic of Belarus that conduct preventive measures to prevent domestic violence shall, within their competence, ensure the registration and transfer of information on facts of domestic violence to internal affairs bodies.",
+      "rationale": "The framework establishes a state information system (registry) for collecting/processing/storing information on domestic violence and assigns the Ministry of Internal Affairs responsibility for its functioning, while requiring other entities to register and transfer information to internal affairs bodies.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Реестр информации о фактах домашнего насилия – государственная информационная система, предназначенная для сбора, обработки, регистрации, накопления, сохранения и использования информации о фактах домашнего насилия.\n\nФункционирование реестра информации о фактах домашнего насилия обеспечивается Министерством внутренних дел, являющимся его владельцем.\n\nИные субъекты профилактики правонарушений, подчиненные Правительству Республики Беларусь, которые проводят профилактические мероприятия по предупреждению домашнего насилия, в пределах своей компетенции обеспечивают регистрацию и передачу информации о фактах домашнего насилия в органы внутренних дел.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., gender mainstreaming focal points, working groups, or integration into planning/budgeting). References to victims’ rights and consideration of age/gender for minors do not constitute gender mainstreaming.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies, internal affairs bodies, prosecutor's offices, bodies for labor, employment and social protection, social service institutions, health care management bodies, state health care organizations, education management bodies, educational institutions in the sphere of preventing domestic violence within their competence: take measures to form a negative attitude of society towards domestic violence, to identify and eliminate the causes and conditions contributing to it; conduct information and educational work on the prevention of domestic violence; ensure training, retraining and advanced training of specialists of subjects of crime prevention, including in the field of interdepartmental cooperation; organize the implementation (implement) of educational programs of training courses (lectures, thematic seminars, practical classes, trainings, officer courses and other types of training courses) for specialists of subjects of crime prevention; inform victims of domestic violence about organizations where they can be provided with assistance; conduct sectoral and intersectoral studies of the state, causes and conditions of the spread of domestic violence, the effectiveness of legislation and the practice of its application; provide assistance in conducting a free \"hotline\" on the issue of counseling victims of domestic violence.",
+      "rationale": "The framework explicitly requires training, retraining, and advanced training of specialists of crime-prevention subjects, including through implementing educational programs (courses, seminars, trainings) relevant to preventing domestic violence and interdepartmental cooperation.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы, органы внутренних дел, органы прокуратуры, органы по труду, занятости и социальной защите, учреждения социального обслуживания, органы управления здравоохранением, государственные организации здравоохранения, органы управления образованием, учреждения образования в сфере предупреждения домашнего насилия в пределах своей компетенции: принимают меры по формированию негативного отношения общества к домашнему насилию, выявлению и устранению причин и условий, ему способствующих; проводят информационно-просветительскую работу по предупреждению домашнего насилия; обеспечивают подготовку, переподготовку и повышение квалификации специалистов субъектов профилактики правонарушений, в том числе в области межведомственного взаимодействия; организуют реализацию (реализуют) образовательных программ обучающих курсов (лекториев, тематических семинаров, практикумов, тренингов, офицерских курсов и иных видов обучающих курсов) для специалистов субъектов профилактики правонарушений; информируют пострадавших от домашнего насилия об организациях, в которых им может быть оказана помощь; проводят отраслевые и межотраслевые исследования состояния, причин и условий распространения домашнего насилия, эффективности законодательства и практики его применения; оказывают содействие в проведении бесплатной «горячей линии» по вопросу консультирования пострадавших от домашнего насилия.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The respective coordination meetings for combating crime and corruption coordinate regional comprehensive plans for the prevention of offenses before their approval by local executive and administrative bodies of regional and basic territorial levels, and also monitor the implementation of preventive measures provided for therein.",
+      "rationale": "The framework assigns coordination meetings the role to coordinate regional plans before approval and to monitor implementation of preventive measures, including those addressing domestic violence, which constitutes an operative monitoring mechanism for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Соответствующие координационные совещания по борьбе с преступностью и коррупцией согласовывают региональные комплексные планы по профилактике правонарушений перед их утверждением местными исполнительными и распорядительными органами областного и базового территориальных уровней, а также контролируют реализацию предусмотренных в них профилактических мероприятий.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited financing provision states that activities are financed from republican and local budgets and other sources, but it does not create a binding requirement to allocate a budget specifically for violence against women/domestic violence response and prevention implementation; it is a general statement about possible funding sources for offense-prevention activities.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies in the sphere of preventing domestic violence: ensure the planning and systematic nature of preventive measures to prevent domestic violence, take measures to study and comprehensively respond to citizens' requests taking into account local characteristics; create interdepartmental councils to assist victims of domestic violence in the relevant territory, which determine the procedure for implementing a set of measures to assist victims of domestic violence within the framework of interdepartmental cooperation protocols in accordance with the model regulation on the interdepartmental council for assistance to victims of domestic violence, approved by the Council of Ministers of the Republic of Belarus, and the model form of the interdepartmental cooperation protocol established by the Council of Ministers of the Republic of Belarus; if necessary, protect the rights of a victim of domestic violence recognized by the court as incapacitated or with limited capacity, and represent his interests in state bodies or in court; promote the development of cooperation with other organizations and citizens in activities to prevent domestic violence; make decisions on the establishment of state organizations, their structural subdivisions for the round-the-clock provision of temporary shelter services to victims of domestic violence, provision of social, psychological and other assistance to them, and also take, if necessary, in the manner established by the Council of Ministers of the Republic of Belarus, measures to provide temporary accommodation for citizens against whom a protective order has been applied; organize within their competence the conduct of correctional programs; carry out accounting, generalization, systematization and analysis of data on the provision of assistance to victims of domestic violence, on measures taken against citizens who have committed domestic violence.",
+      "rationale": "The framework provides for creation of interdepartmental councils to assist victims of domestic violence, which determine procedures for implementing a set of assistance measures under interdepartmental cooperation protocols—an operative, designated coordination mechanism integrating multiple services for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы в сфере предупреждения домашнего насилия: обеспечивают плановость и системность проведения профилактических мероприятий по предупреждению домашнего насилия, принимают меры по изучению и комплексному реагированию на запросы граждан с учетом местных особенностей; на соответствующей территории создают межведомственные советы по оказанию помощи пострадавшим от домашнего насилия, которые определяют порядок реализации комплекса мер по оказанию помощи пострадавшим от домашнего насилия в рамках протоколов межведомственного взаимодействия в соответствии с примерным положением о межведомственном совете по оказанию помощи пострадавшим от домашнего насилия, утверждаемым Советом Министров Республики Беларусь, и примерной формой протокола межведомственного взаимодействия, устанавливаемой Советом Министров Республики Беларусь; при необходимости защищают права пострадавшего от домашнего насилия, признанного судом недееспособным либо ограниченно дееспособным, и представляют его интересы в государственных органах или в суде; способствуют развитию сотрудничества с иными организациями и гражданами в деятельности по предупреждению домашнего насилия; принимают решения о создании государственных организаций, их структурных подразделений по круглосуточному оказанию пострадавшим от домашнего насилия услуг временного приюта, оказанию им социальной, психологической и иной помощи, а также принимают при необходимости в порядке, установленном Советом Министров Республики Беларусь, меры по обеспечению местами временного пребывания граждан, в отношении которых применено защитное предписание; организуют в пределах своей компетенции проведение коррекционных программ; осуществляют учет, обобщение, систематизацию и анализ данных об оказании помощи пострадавшим от домашнего насилия, о мерах, принятых в отношении граждан, совершивших домашнее насилие.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies, internal affairs bodies, prosecutor's offices, bodies for labor, employment and social protection, social service institutions, health care management bodies, state health care organizations, education management bodies, educational institutions in the sphere of preventing domestic violence within their competence: take measures to form a negative attitude of society towards domestic violence, to identify and eliminate the causes and conditions contributing to it; conduct information and educational work on the prevention of domestic violence; ensure training, retraining and advanced training of specialists of subjects of crime prevention, including in the field of interdepartmental cooperation; organize the implementation (implement) of educational programs of training courses (lectures, thematic seminars, practical classes, trainings, officer courses and other types of training courses) for specialists of subjects of crime prevention; inform victims of domestic violence about organizations where they can be provided with assistance; conduct sectoral and intersectoral studies of the state, causes and conditions of the spread of domestic violence, the effectiveness of legislation and the practice of its application; provide assistance in conducting a free \"hotline\" on the issue of counseling victims of domestic violence.\nInternal affairs bodies in the sphere of preventing domestic violence: receive and consider applications and reports on the commission of domestic violence, take measures to suppress it, prepare materials for making decisions in the established manner to bring citizens who have committed domestic violence to administrative or criminal liability, to recognize them as having limited capacity; organize preventive measures to prevent domestic violence; inform guardianship and trusteeship bodies about the identification of facts of domestic violence against minors, citizens recognized by the court as incapacitated or with limited capacity; organize within their competence the conduct of correctional programs; carry out accounting, generalization, systematization and analysis of information on facts of domestic violence.",
+      "rationale": "The framework includes an operative provision to assist in conducting a free hotline for counselling victims of domestic violence, and it also assigns internal affairs bodies responsibility to receive and consider applications and reports of domestic violence, establishing mechanisms for reporting and seeking assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы, органы внутренних дел, органы прокуратуры, органы по труду, занятости и социальной защите, учреждения социального обслуживания, органы управления здравоохранением, государственные организации здравоохранения, органы управления образованием, учреждения образования в сфере предупреждения домашнего насилия в пределах своей компетенции: принимают меры по формированию негативного отношения общества к домашнему насилию, выявлению и устранению причин и условий, ему способствующих; проводят информационно-просветительскую работу по предупреждению домашнего насилия; обеспечивают подготовку, переподготовку и повышение квалификации специалистов субъектов профилактики правонарушений, в том числе в области межведомственного взаимодействия; организуют реализацию (реализуют) образовательных программ обучающих курсов (лекториев, тематических семинаров, практикумов, тренингов, офицерских курсов и иных видов обучающих курсов) для специалистов субъектов профилактики правонарушений; информируют пострадавших от домашнего насилия об организациях, в которых им может быть оказана помощь; проводят отраслевые и межотраслевые исследования состояния, причин и условий распространения домашнего насилия, эффективности законодательства и практики его применения; оказывают содействие в проведении бесплатной «горячей линии» по вопросу консультирования пострадавших от домашнего насилия.\n\nОрганы внутренних дел в сфере предупреждения домашнего насилия: осуществляют прием и рассмотрение заявлений и сообщений о совершении домашнего насилия, принимают меры по его пресечению, осуществляют подготовку материалов для принятия в установленном порядке решений о привлечении граждан, совершивших домашнее насилие, к административной или уголовной ответственности, о признании их ограниченно дееспособными; организуют проведение профилактических мероприятий по предупреждению домашнего насилия; информируют органы опеки и попечительства о выявлении фактов домашнего насилия в отношении несовершеннолетних, граждан, признанных судом недееспособными либо ограниченно дееспособными; организуют в пределах своей компетенции проведение коррекционных программ; осуществляют учет, обобщение, систематизацию и анализ информации о фактах домашнего насилия.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Victims of domestic violence and other offenses, regardless of registration at place of residence and consent to transfer information about domestic violence, have the right in accordance with legislation to receive: protection and prompt response in all cases of offenses committed against them; complete and comprehensive information about types of assistance provided within the competence of state bodies and other organizations; free of charge psychological assistance, social services in the form of emergency social services, including temporary shelter services; free medical and legal assistance; access to education, including for minor children residing with them.\nLocal executive and administrative bodies in the sphere of preventing domestic violence: ensure the planning and systematic nature of preventive measures to prevent domestic violence, take measures to study and comprehensively respond to citizens' requests taking into account local characteristics; create interdepartmental councils to assist victims of domestic violence in the relevant territory, which determine the procedure for implementing a set of measures to assist victims of domestic violence within the framework of interdepartmental cooperation protocols in accordance with the model regulation on the interdepartmental council for assistance to victims of domestic violence, approved by the Council of Ministers of the Republic of Belarus, and the model form of the interdepartmental cooperation protocol established by the Council of Ministers of the Republic of Belarus; if necessary, protect the rights of a victim of domestic violence recognized by the court as incapacitated or with limited capacity, and represent his interests in state bodies or in court; promote the development of cooperation with other organizations and citizens in activities to prevent domestic violence; make decisions on the establishment of state organizations, their structural subdivisions for the round-the-clock provision of temporary shelter services to victims of domestic violence, provision of social, psychological and other assistance to them, and also take, if necessary, in the manner established by the Council of Ministers of the Republic of Belarus, measures to provide temporary accommodation for citizens against whom a protective order has been applied; organize within their competence the conduct of correctional programs; carry out accounting, generalization, systematization and analysis of data on the provision of assistance to victims of domestic violence, on measures taken against citizens who have committed domestic violence.",
+      "rationale": "The framework explicitly provides victims the right to emergency social services including temporary shelter services, and authorizes local executive/administrative bodies to establish round-the-clock temporary shelter service structures and to take measures to provide temporary accommodation, which constitutes accommodation-based protection for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Пострадавшие от домашнего насилия, иных правонарушений вне зависимости от регистрации по месту жительства и дачи согласия о передаче информации о домашнем насилии вправе в соответствии с законодательством получить: защиту и оперативное реагирование во всех случаях совершения в отношении них правонарушений; полную и исчерпывающую информацию о видах оказываемой в пределах компетенции государственными органами и иными организациями помощи; безвозмездно психологическую помощь, социальные услуги в форме срочного социального обслуживания, в том числе услуги временного приюта; бесплатно медицинскую, юридическую помощь; доступ к образованию, в том числе проживающих совместно с ними несовершеннолетних детей.\n\nМестные исполнительные и распорядительные органы в сфере предупреждения домашнего насилия: обеспечивают плановость и системность проведения профилактических мероприятий по предупреждению домашнего насилия, принимают меры по изучению и комплексному реагированию на запросы граждан с учетом местных особенностей; на соответствующей территории создают межведомственные советы по оказанию помощи пострадавшим от домашнего насилия, которые определяют порядок реализации комплекса мер по оказанию помощи пострадавшим от домашнего насилия в рамках протоколов межведомственного взаимодействия в соответствии с примерным положением о межведомственном совете по оказанию помощи пострадавшим от домашнего насилия, утверждаемым Советом Министров Республики Беларусь, и примерной формой протокола межведомственного взаимодействия, устанавливаемой Советом Министров Республики Беларусь; при необходимости защищают права пострадавшего от домашнего насилия, признанного судом недееспособным либо ограниченно дееспособным, и представляют его интересы в государственных органах или в суде; способствуют развитию сотрудничества с иными организациями и гражданами в деятельности по предупреждению домашнего насилия; принимают решения о создании государственных организаций, их структурных подразделений по круглосуточному оказанию пострадавшим от домашнего насилия услуг временного приюта, оказанию им социальной, психологической и иной помощи, а также принимают при необходимости в порядке, установленном Советом Министров Республики Беларусь, меры по обеспечению местами временного пребывания граждан, в отношении которых применено защитное предписание; организуют в пределах своей компетенции проведение коррекционных программ; осуществляют учет, обобщение, систематизацию и анализ данных об оказании помощи пострадавшим от домашнего насилия, о мерах, принятых в отношении граждан, совершивших домашнее насилие.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Victims of domestic violence and other offenses, regardless of registration at place of residence and consent to transfer information about domestic violence, have the right in accordance with legislation to receive: protection and prompt response in all cases of offenses committed against them; complete and comprehensive information about types of assistance provided within the competence of state bodies and other organizations; free of charge psychological assistance, social services in the form of emergency social services, including temporary shelter services; free medical and legal assistance; access to education, including for minor children residing with them.",
+      "rationale": "The framework expressly states that victims of domestic violence and other offenses have the right to receive free legal assistance, which is a direct operative entitlement to legal aid/assistance for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Пострадавшие от домашнего насилия, иных правонарушений вне зависимости от регистрации по месту жительства и дачи согласия о передаче информации о домашнем насилии вправе в соответствии с законодательством получить: защиту и оперативное реагирование во всех случаях совершения в отношении них правонарушений; полную и исчерпывающую информацию о видах оказываемой в пределах компетенции государственными органами и иными организациями помощи; безвозмездно психологическую помощь, социальные услуги в форме срочного социального обслуживания, в том числе услуги временного приюта; бесплатно медицинскую, юридическую помощь; доступ к образованию, в том числе проживающих совместно с ними несовершеннолетних детей.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Victims of domestic violence and other offenses, regardless of registration at place of residence and consent to transfer information about domestic violence, have the right in accordance with legislation to receive: protection and prompt response in all cases of offenses committed against them; complete and comprehensive information about types of assistance provided within the competence of state bodies and other organizations; free of charge psychological assistance, social services in the form of emergency social services, including temporary shelter services; free medical and legal assistance; access to education, including for minor children residing with them.",
+      "rationale": "The framework explicitly provides that victims of domestic violence and other offenses have the right to receive free medical assistance, directly linking medical services to victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Пострадавшие от домашнего насилия, иных правонарушений вне зависимости от регистрации по месту жительства и дачи согласия о передаче информации о домашнем насилии вправе в соответствии с законодательством получить: защиту и оперативное реагирование во всех случаях совершения в отношении них правонарушений; полную и исчерпывающую информацию о видах оказываемой в пределах компетенции государственными органами и иными организациями помощи; безвозмездно психологическую помощь, социальные услуги в форме срочного социального обслуживания, в том числе услуги временного приюта; бесплатно медицинскую, юридическую помощь; доступ к образованию, в том числе проживающих совместно с ними несовершеннолетних детей.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "Victims of domestic violence and other offenses, regardless of registration at place of residence and consent to transfer information about domestic violence, have the right in accordance with legislation to receive: protection and prompt response in all cases of offenses committed against them; complete and comprehensive information about types of assistance provided within the competence of state bodies and other organizations; free of charge psychological assistance, social services in the form of emergency social services, including temporary shelter services; free medical and legal assistance; access to education, including for minor children residing with them.",
+      "rationale": "The framework provides that victims of domestic violence and other offenses have the right to receive free psychological assistance, which constitutes psychosocial/psychological support services for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.89,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.89
+      },
+      "evidence_verified": true,
+      "evidence_original": "Пострадавшие от домашнего насилия, иных правонарушений вне зависимости от регистрации по месту жительства и дачи согласия о передаче информации о домашнем насилии вправе в соответствии с законодательством получить: защиту и оперативное реагирование во всех случаях совершения в отношении них правонарушений; полную и исчерпывающую информацию о видах оказываемой в пределах компетенции государственными органами и иными организациями помощи; безвозмездно психологическую помощь, социальные услуги в форме срочного социального обслуживания, в том числе услуги временного приюта; бесплатно медицинскую, юридическую помощь; доступ к образованию, в том числе проживающих совместно с ними несовершеннолетних детей.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious leaders, faith-based institutions, pastoral care, or any religious/spiritual counselling or guidance as a service for victims; the text focuses on psychological, medical, legal, social, and shelter assistance.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide for immediate assistance (psychological, medical, legal, emergency social services including shelter) and general access to education, but they do not establish longer-term recovery/rehabilitation/reintegration measures (e.g., livelihood support, vocational training, employment assistance) specifically linked to victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "A correctional program is a set of measures for providing psychological assistance to a citizen who has committed domestic violence, aimed at correcting (adjusting) the citizen's behavior, developing their skills in non-violent communication, and preventing the recurrence of domestic violence.",
+      "rationale": "The framework establishes a correctional program for a citizen who has committed domestic violence, aimed at behavior correction, developing non-violent communication skills, and preventing recurrence—i.e., a perpetrator-focused intervention/behaviour-change programme.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Коррекционная программа – комплекс мероприятий по оказанию психологической помощи гражданину, совершившему домашнее насилие, направленных на исправление (корректировку) поведения гражданина, формирование у него навыков ненасильственной коммуникации, предотвращение повторного совершения домашнего насилия.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies, internal affairs bodies, prosecutor's offices, bodies for labor, employment and social protection, social service institutions, health care management bodies, state health care organizations, education management bodies, educational institutions in the sphere of preventing domestic violence within their competence: take measures to form a negative attitude of society towards domestic violence, to identify and eliminate the causes and conditions contributing to it; conduct information and educational work on the prevention of domestic violence; ensure training, retraining and advanced training of specialists of subjects of crime prevention, including in the field of interdepartmental cooperation; organize the implementation (implement) of educational programs of training courses (lectures, thematic seminars, practical classes, trainings, officer courses and other types of training courses) for specialists of subjects of crime prevention; inform victims of domestic violence about organizations where they can be provided with assistance; conduct sectoral and intersectoral studies of the state, causes and conditions of the spread of domestic violence, the effectiveness of legislation and the practice of its application; provide assistance in conducting a free \"hotline\" on the issue of counseling victims of domestic violence.",
+      "rationale": "The cited provision explicitly requires relevant bodies to conduct information and educational work aimed at preventing domestic violence, framed as a main preventive measure. This constitutes an operative prevention-oriented information/education activity linked to violence (domestic violence).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы, органы внутренних дел, органы прокуратуры, органы по труду, занятости и социальной защите, учреждения социального обслуживания, органы управления здравоохранением, государственные организации здравоохранения, органы управления образованием, учреждения образования в сфере предупреждения домашнего насилия в пределах своей компетенции: принимают меры по формированию негативного отношения общества к домашнему насилию, выявлению и устранению причин и условий, ему способствующих; проводят информационно-просветительскую работу по предупреждению домашнего насилия; обеспечивают подготовку, переподготовку и повышение квалификации специалистов субъектов профилактики правонарушений, в том числе в области межведомственного взаимодействия; организуют реализацию (реализуют) образовательных программ обучающих курсов (лекториев, тематических семинаров, практикумов, тренингов, офицерских курсов и иных видов обучающих курсов) для специалистов субъектов профилактики правонарушений; информируют пострадавших от домашнего насилия об организациях, в которых им может быть оказана помощь; проводят отраслевые и межотраслевые исследования состояния, причин и условий распространения домашнего насилия, эффективности законодательства и практики его применения; оказывают содействие в проведении бесплатной «горячей линии» по вопросу консультирования пострадавших от домашнего насилия.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe general legal education and information on law-abiding behavior and personal/property security, and specific information/education on preventing domestic violence, but they do not explicitly require or provide information/education activities about gender equality or women's rights, nor do they link such gender-equality education to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes information and educational work on preventing domestic violence and mentions studying the effectiveness of legislation, it does not specify dissemination or education about laws/policies/legal protections related to violence against women/domestic violence. General legal education provisions are not tied to VAW laws specifically.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention education management bodies and educational institutions participating in prevention of domestic violence and conducting information/educational work, but they do not identify formal education mechanisms (curricula, school-based programmes, teaching materials, or education-quality improvements) as a prevention measure for violence against women. The referenced educational programs are training courses for specialists, not school curricula or education-system improvements aimed at preventing VAW.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide for general prevention of domestic violence and correctional programs for perpetrators, but they do not explicitly target men or boys for engagement, positive masculinity, or gender-norm change as a primary prevention strategy for violence against women.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies in the sphere of preventing domestic violence: ensure the planning and systematic nature of preventive measures to prevent domestic violence, take measures to study and comprehensively respond to citizens' requests taking into account local characteristics; create interdepartmental councils to assist victims of domestic violence in the relevant territory, which determine the procedure for implementing a set of measures to assist victims of domestic violence within the framework of interdepartmental cooperation protocols in accordance with the model regulation on the interdepartmental council for assistance to victims of domestic violence, approved by the Council of Ministers of the Republic of Belarus, and the model form of the interdepartmental cooperation protocol established by the Council of Ministers of the Republic of Belarus; if necessary, protect the rights of a victim of domestic violence recognized by the court as incapacitated or with limited capacity, and represent his interests in state bodies or in court; promote the development of cooperation with other organizations and citizens in activities to prevent domestic violence; make decisions on the establishment of state organizations, their structural subdivisions for the round-the-clock provision of temporary shelter services to victims of domestic violence, provision of social, psychological and other assistance to them, and also take, if necessary, in the manner established by the Council of Ministers of the Republic of Belarus, measures to provide temporary accommodation for citizens against whom a protective order has been applied; organize within their competence the conduct of correctional programs; carry out accounting, generalization, systematization and analysis of data on the provision of assistance to victims of domestic violence, on measures taken against citizens who have committed domestic violence.\nOther organizations in the sphere of preventing domestic violence have the right in accordance with legislation and their charters: to participate in the conduct of correctional programs, preventive measures to prevent domestic violence; to provide temporary shelter services to victims of domestic violence; to provide social, psychological, legal and other assistance to victims of domestic violence; to organize a free \"hotline\" on the issue of counseling victims of domestic violence; to conduct other preventive measures to prevent domestic violence.",
+      "rationale": "The text includes operative provisions on domestic-violence prevention that (i) direct local executive/administrative bodies to promote cooperation with other organizations and citizens in activities to prevent domestic violence, and (ii) explicitly provide that “other organizations” in the domestic-violence prevention sphere have the right to deliver DV-related services (shelter, hotline, assistance) and participate in preventive measures—functions consistent with civil society/NGO engagement in response and prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы в сфере предупреждения домашнего насилия: обеспечивают плановость и системность проведения профилактических мероприятий по предупреждению домашнего насилия, принимают меры по изучению и комплексному реагированию на запросы граждан с учетом местных особенностей; на соответствующей территории создают межведомственные советы по оказанию помощи пострадавшим от домашнего насилия, которые определяют порядок реализации комплекса мер по оказанию помощи пострадавшим от домашнего насилия в рамках протоколов межведомственного взаимодействия в соответствии с примерным положением о межведомственном совете по оказанию помощи пострадавшим от домашнего насилия, утверждаемым Советом Министров Республики Беларусь, и примерной формой протокола межведомственного взаимодействия, устанавливаемой Советом Министров Республики Беларусь; при необходимости защищают права пострадавшего от домашнего насилия, признанного судом недееспособным либо ограниченно дееспособным, и представляют его интересы в государственных органах или в суде; способствуют развитию сотрудничества с иными организациями и гражданами в деятельности по предупреждению домашнего насилия; принимают решения о создании государственных организаций, их структурных подразделений по круглосуточному оказанию пострадавшим от домашнего насилия услуг временного приюта, оказанию им социальной, психологической и иной помощи, а также принимают при необходимости в порядке, установленном Советом Министров Республики Беларусь, меры по обеспечению местами временного пребывания граждан, в отношении которых применено защитное предписание; организуют в пределах своей компетенции проведение коррекционных программ; осуществляют учет, обобщение, систематизацию и анализ данных об оказании помощи пострадавшим от домашнего насилия, о мерах, принятых в отношении граждан, совершивших домашнее насилие.\n\nИные организации в сфере предупреждения домашнего насилия имеют право в соответствии с законодательством и их уставами: принимать участие в проведении коррекционных программ, профилактических мероприятий по предупреждению домашнего насилия; оказывать услуги временного приюта пострадавшим от домашнего насилия; оказывать социальную, психологическую, юридическую и иную помощь пострадавшим от домашнего насилия; организовывать проведение бесплатной «горячей линии» по вопросу консультирования пострадавших от домашнего насилия; проводить иные профилактические мероприятия по предупреждению домашнего насилия.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders as actors or partners in preventing or responding to domestic violence/VAW, nor do they establish any mechanism for engaging such actors.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies, internal affairs bodies, prosecutor's offices, bodies for labor, employment and social protection, social service institutions, health care management bodies, state health care organizations, education management bodies, educational institutions in the sphere of preventing domestic violence within their competence: take measures to form a negative attitude of society towards domestic violence, to identify and eliminate the causes and conditions contributing to it; conduct information and educational work on the prevention of domestic violence; ensure training, retraining and advanced training of specialists of subjects of crime prevention, including in the field of interdepartmental cooperation; organize the implementation (implement) of educational programs of training courses (lectures, thematic seminars, practical classes, trainings, officer courses and other types of training courses) for specialists of subjects of crime prevention; inform victims of domestic violence about organizations where they can be provided with assistance; conduct sectoral and intersectoral studies of the state, causes and conditions of the spread of domestic violence, the effectiveness of legislation and the practice of its application; provide assistance in conducting a free \"hotline\" on the issue of counseling victims of domestic violence.",
+      "rationale": "The domestic-violence prevention provisions explicitly include “educational institutions” among the entities responsible, within their competence, for implementing preventive measures (including information/educational work and other prevention-related actions) in the sphere of preventing domestic violence, which constitutes an operative assignment of responsibilities to education institutions in DV prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы, органы внутренних дел, органы прокуратуры, органы по труду, занятости и социальной защите, учреждения социального обслуживания, органы управления здравоохранением, государственные организации здравоохранения, органы управления образованием, учреждения образования в сфере предупреждения домашнего насилия в пределах своей компетенции: принимают меры по формированию негативного отношения общества к домашнему насилию, выявлению и устранению причин и условий, ему способствующих; проводят информационно-просветительскую работу по предупреждению домашнего насилия; обеспечивают подготовку, переподготовку и повышение квалификации специалистов субъектов профилактики правонарушений, в том числе в области межведомственного взаимодействия; организуют реализацию (реализуют) образовательных программ обучающих курсов (лекториев, тематических семинаров, практикумов, тренингов, офицерских курсов и иных видов обучающих курсов) для специалистов субъектов профилактики правонарушений; информируют пострадавших от домашнего насилия об организациях, в которых им может быть оказана помощь; проводят отраслевые и межотраслевые исследования состояния, причин и условий распространения домашнего насилия, эффективности законодательства и практики его применения; оказывают содействие в проведении бесплатной «горячей линии» по вопросу консультирования пострадавших от домашнего насилия.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference in the candidate sentences concerns the applicability of international treaties as part of legal regulation; it does not establish or require cooperation with international organisations on domestic violence/VAW, nor identify international organisations as partners or create a collaboration mechanism.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the candidate sentences mention state mass media and the powers of state media editorial offices in general offense-prevention activities, they do not establish media engagement specifically in relation to domestic violence/VAW prevention or response in the provided passages.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "Local executive and administrative bodies in the sphere of preventing domestic violence: ensure the planning and systematic nature of preventive measures to prevent domestic violence, take measures to study and comprehensively respond to citizens' requests taking into account local characteristics; create interdepartmental councils to assist victims of domestic violence in the relevant territory, which determine the procedure for implementing a set of measures to assist victims of domestic violence within the framework of interdepartmental cooperation protocols in accordance with the model regulation on the interdepartmental council for assistance to victims of domestic violence, approved by the Council of Ministers of the Republic of Belarus, and the model form of the interdepartmental cooperation protocol established by the Council of Ministers of the Republic of Belarus; if necessary, protect the rights of a victim of domestic violence recognized by the court as incapacitated or with limited capacity, and represent his interests in state bodies or in court; promote the development of cooperation with other organizations and citizens in activities to prevent domestic violence; make decisions on the establishment of state organizations, their structural subdivisions for the round-the-clock provision of temporary shelter services to victims of domestic violence, provision of social, psychological and other assistance to them, and also take, if necessary, in the manner established by the Council of Ministers of the Republic of Belarus, measures to provide temporary accommodation for citizens against whom a protective order has been applied; organize within their competence the conduct of correctional programs; carry out accounting, generalization, systematization and analysis of data on the provision of assistance to victims of domestic violence, on measures taken against citizens who have committed domestic violence.",
+      "rationale": "An operative provision on domestic-violence prevention directs local executive/administrative bodies to “promote the development of cooperation with other organizations and citizens in activities to prevent domestic violence,” which explicitly establishes community/public engagement (citizens) in DV prevention activities.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "Местные исполнительные и распорядительные органы в сфере предупреждения домашнего насилия: обеспечивают плановость и системность проведения профилактических мероприятий по предупреждению домашнего насилия, принимают меры по изучению и комплексному реагированию на запросы граждан с учетом местных особенностей; на соответствующей территории создают межведомственные советы по оказанию помощи пострадавшим от домашнего насилия, которые определяют порядок реализации комплекса мер по оказанию помощи пострадавшим от домашнего насилия в рамках протоколов межведомственного взаимодействия в соответствии с примерным положением о межведомственном совете по оказанию помощи пострадавшим от домашнего насилия, утверждаемым Советом Министров Республики Беларусь, и примерной формой протокола межведомственного взаимодействия, устанавливаемой Советом Министров Республики Беларусь; при необходимости защищают права пострадавшего от домашнего насилия, признанного судом недееспособным либо ограниченно дееспособным, и представляют его интересы в государственных органах или в суде; способствуют развитию сотрудничества с иными организациями и гражданами в деятельности по предупреждению домашнего насилия; принимают решения о создании государственных организаций, их структурных подразделений по круглосуточному оказанию пострадавшим от домашнего насилия услуг временного приюта, оказанию им социальной, психологической и иной помощи, а также принимают при необходимости в порядке, установленном Советом Министров Республики Беларусь, меры по обеспечению местами временного пребывания граждан, в отношении которых применено защитное предписание; организуют в пределах своей компетенции проведение коррекционных программ; осуществляют учет, обобщение, систематизацию и анализ данных об оказании помощи пострадавшим от домашнего насилия, о мерах, принятых в отношении граждан, совершивших домашнее насилие.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify businesses/employers/private-sector actors as partners or assign them roles in preventing or responding to domestic violence/VAW. References to “other organizations” are not specified as private-sector actors, and no workplace/private-sector DV mechanism is established in the provided text.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Financing and material and technical support of activities on prevention of offenses are carried out at the expense of funds of the republican and local budgets, as well as other sources not prohibited by legislation.\nProvision of public point councils with necessary premises, means of communication, furniture, other material and technical means, payment for public utilities, communication services, operational expenses of the said points is carried out at the expense of funds from the corresponding local budgets and other sources not prohibited by the legislation of the Republic of Belarus.",
+      "rationale": "The policy explicitly states that financing and material/technical support are carried out using both republican and local budgets, and separately specifies that certain operational costs are covered by corresponding local budgets.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Финансирование и материально-техническое обеспечение деятельности по профилактике правонарушений осуществляются за счет средств республиканского и местных бюджетов, а также иных источников, не запрещенных законодательством.\n\nОбеспечение советов общественных пунктов необходимыми помещениями, средствами связи, мебелью, иными материально-техническими средствами, оплата коммунальных услуг, услуг связи, эксплуатационных расходов указанных пунктов осуществляются за счет средств соответствующих местных бюджетов и иных источников, не запрещенных законодательством Республики Беларусь.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "Financing and material and technical support of activities on prevention of offenses are carried out at the expense of funds of the republican and local budgets, as well as other sources not prohibited by legislation.",
+      "rationale": "The policy explicitly identifies the republican budget (i.e., national-level budget) as a source of financing for prevention-of-offenses activities.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Финансирование и материально-техническое обеспечение деятельности по профилактике правонарушений осуществляются за счет средств республиканского и местных бюджетов, а также иных источников, не запрещенных законодательством.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe domestic violence services/rights and financing via republican/local budgets and other legally permitted sources, but do not explicitly mention international assistance, donors, UN agencies, foreign governments, or any international funding/support arrangements.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Financing and material and technical support of activities on prevention of offenses are carried out at the expense of funds of the republican and local budgets, as well as other sources not prohibited by legislation.",
+      "rationale": "Beyond republican and local budgets, the policy explicitly allows financing from “other sources not prohibited by legislation,” which constitutes other legally permitted sources of funding.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "Финансирование и материально-техническое обеспечение деятельности по профилактике правонарушений осуществляются за счет средств республиканского и местных бюджетов, а также иных источников, не запрещенных законодательством.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention “republican and local budgets” but do not explicitly identify a distinct provincial government budget as a funding source; “local” could include multiple subnational levels, but provincial is not stated.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 23,
+    "resolved": 23,
+    "rate": 1.0
+  }
+}

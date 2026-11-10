@@ -1,0 +1,951 @@
+{
+  "policy_file": "40. Costa Rica - DomViol - Spanish (b) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T23:43:29.217243+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Law against Domestic Violence\nShall be punished with a prison sentence of six months to two years, whoever breaches a protective measure issued by a competent authority, within a domestic violence proceeding in application of the Law against Domestic Violence.\nTo protect the victims, the protection measures contemplated in Law N° 7586, Law against Domestic Violence, of April 10, 1996, may be requested from the beginning of the judicial investigation, as well as the necessary precautionary measures provided in Law Nº 7594, Criminal Procedural Code, of April 10, 1996.",
+      "rationale": "The candidate sentences include operative provisions explicitly referencing the \"Law against Domestic Violence\" and domestic-violence proceedings, including amendment of that law and criminalization of breaching a protective measure issued within a domestic violence proceeding, as well as allowing protective measures under the Law against Domestic Violence during judicial investigation. This constitutes substantive legal coverage rather than a mere preambular mention.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ley contra la violencia doméstica\n\nSerá sancionado con pena de prisión de seis meses a dos años, quien incumpla una medida de protección dictada por una autoridad competente, dentro de un proceso de violencia doméstica en aplicación de la Ley contra la violencia doméstica.\n\nPara proteger a las víctimas podrá solicitarse, desde el inicio de la investigación judicial, las medidas de protección contempladas en la Ley N° 7586, Ley contra la Violencia Doméstica, de 10 de abril de 1996, así como las medidas cautelares necesarias previstas en la Ley Nº 7594, Código Procesal Penal, de 10 de abril de 1996.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Whoever inserts the penis, orally, anally or vaginally, into a woman with whom they maintain or have maintained a relationship or partnership bond, whether marital, de facto union, dating, cohabitation, non-cohabitation, casual or other similar relationship, even when there is divorce, separation or breakup, provided that the conduct does not constitute a more serious crime or one provided with a greater penalty, against her will, shall be punished with a prison sentence of twelve to eighteen years.\nof sexual violence",
+      "rationale": "The candidate sentences contain operative criminal provisions addressing rape and aggravated forms of sexual violence, including specified conduct and penalties. This is substantive legal regulation of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "Quien le introduzca el pene, por vía oral, anal o vaginal, a una mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la conducta no constituya un delito más grave o previsto con una pena mayor, contra la voluntad de ella, será sancionado con pena de prisión de doce a dieciocho años.\n\nagravadas de violencia sexual",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Whoever by any means strikes or physically abuses a woman with whom they maintain or have maintained a relationship or partnership bond, whether marital, de facto union, dating, cohabitation, non-cohabitation, casual or other similar relationship, even when there is divorce, separation or breakup, provided that the conduct does not constitute a more serious crime or one provided with a greater penalty, without incapacitating her for her usual occupations, shall be imposed a prison sentence of three months to one year.\nThe person who, in the exercise of a public function, promotes, by an illicit means, impunity or obstructs the police, judicial or administrative investigation for actions of physical, sexual, psychological or patrimonial violence, committed to the detriment of a woman, shall be punished with a prison sentence of three months to three years and disqualification for a period of one to four years from the exercise of public function.",
+      "rationale": "The candidate sentences include operative provisions criminalizing physical abuse/mistreatment (striking or physically abusing a woman) and also explicitly list \"physical\" violence as a category in an operative offense related to obstruction of investigations. This is substantive coverage of physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "A quien por cualquier medio golpee o maltrate físicamente a una mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la conducta no constituya un delito más grave o previsto con una pena mayor, sin que incapacite para sus ocupaciones habituales, se le impondrá pena de prisión de tres meses a un año.\n\nLa persona que, en el ejercicio de una función pública propicie, por un medio ilícito, la impunidad u obstaculice la investigación policial, judicial o administrativa por acciones de violencia física, sexual, psicológica o patrimonial, cometidas en perjuicio de una mujer, será sancionada con pena de prisión de tres meses a tres años e inhabilitación por el plazo de uno a cuatro años para el ejercicio de la función pública.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "The person who, in the exercise of a public function, promotes, by an illicit means, impunity or obstructs the police, judicial or administrative investigation for actions of physical, sexual, psychological or patrimonial violence, committed to the detriment of a woman, shall be punished with a prison sentence of three months to three years and disqualification for a period of one to four years from the exercise of public function.\nThe purpose of this law is to protect the rights of women victims of violence and to sanction forms of physical, psychological, sexual and patrimonial violence perpetrated against them, as a discriminatory practice based on gender, specifically in a relationship or partnership bond, whether marital, de facto union, dating, cohabiting, non-cohabiting, casual or other similar relationship, even when there is divorce, separation or breakup, in fulfillment of the obligations contracted by the State in the Convention for the Elimination of All Forms of Discrimination against Women, Law 6968, of October 2, 1984, as well as in the Inter-American Convention to Prevent, Sanction and Eradicate Violence against Women, Law 7499, of May 2, (As amended by",
+      "rationale": "The candidate sentences explicitly include \"psychological\" violence as a covered category in operative provisions (e.g., obstruction of investigations for actions of physical, sexual, psychological or patrimonial violence) and in the law’s stated purpose to sanction forms of psychological violence. This constitutes substantive coverage (operative classification with legal consequences).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "La persona que, en el ejercicio de una función pública propicie, por un medio ilícito, la impunidad u obstaculice la investigación policial, judicial o administrativa por acciones de violencia física, sexual, psicológica o patrimonial, cometidas en perjuicio de una mujer, será sancionada con pena de prisión de tres meses a tres años e inhabilitación por el plazo de uno a cuatro años para el ejercicio de la función pública.\n\nLa presente ley tiene como fin proteger los derechos de las mujeres víctimas de violencia y sancionar las formas de violencia física, psicológica, sexual y patrimonial perpetrada en su contra, por ser una práctica discriminatoria por razón de género, específicamente en una relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o ruptura, en cumplimiento de las obligaciones contraídas por el Estado en la Convención para la Eliminación de todas las Formas de Discriminación contra la Mujer, Ley 6968, de 2 de octubre de 1984, así como en la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, Ley 7499, de 2 de mayo de (Así reformado por el",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Artículo 39- Economic\nThe person who, through the use of force, intimidation or coercion, has themselves maintained, totally or partially, by a woman with whom they maintain or have maintained a relationship or partnership bond, whether matrimonial, de facto union, dating, cohabitation, non-cohabitation, casual or other similar, even when divorce, separation or rupture intervenes, provided that the conduct does not constitute a more serious crime or one provided with a greater penalty, shall be punished with a prison sentence of six months to three years.",
+      "rationale": "The candidate sentences include an operative criminal provision titled \"Economic exploitation of women\" that penalizes conduct involving maintaining oneself through force/intimidation/coercion by a woman in a relationship bond. This is substantive legal coverage of economic exploitation as a form of violence/abuse against women.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Artículo 39- Explotación\n\nLa persona que, mediante el uso de la fuerza, la intimidación o la coacción, se haga mantener, total o parcialmente, por una mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la conducta no constituya un delito más grave o previsto con un pena mayor, será sancionada con pena de prisión de seis meses a tres años.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention or regulate early/child marriage, FGM/C, honour crimes, female infanticide, or similar harmful practices. The excerpts focus on violence against women offenses (e.g., threats, rape, femicide, economic exploitation) without addressing the specified harmful practices.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "Yes",
+      "evidence": "Femicide.\nbis- Femicide in other contexts.",
+      "rationale": "The candidate sentences include operative provisions explicitly defining and criminalizing femicide (and femicide in other contexts) with specified penalties. This is substantive coverage of femicide/feminicide.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.99,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.99
+      },
+      "evidence_verified": true,
+      "evidence_original": "Femicidio.\n\nbis- Femicidio en otros contextos.",
+      "evidence_original_aligned": true
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not define, prohibit, or otherwise address trafficking in persons. While one sentence references \"trafficker\" in describing a circumstance for femicide in other contexts, it does not establish trafficking offenses, definitions, or trafficking-specific protections/services; under the coding rules, this is insufficient to count as substantive trafficking coverage.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Artículo 31- Sexual exploitation\nWhoever forces a woman with whom they maintain or have maintained a relationship or partnership bond, whether marital, de facto union, dating, cohabitation, non-cohabitation, casual or other similar relationship, even when there is divorce, separation or breakup, provided that the conduct does not constitute a more serious crime or one provided with a greater penalty, to have sexual relations with third parties, without profit motive, shall be punished with a prison sentence of two to five years.",
+      "rationale": "The candidate sentences include an operative criminal provision explicitly titled \"Sexual exploitation of a woman\" that penalizes forcing a woman to have sexual relations with third parties. This is substantive legal coverage of sexual exploitation.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "Artículo 31- Explotación sexual\n\nSerá sancionado con pena de prisión de dos a cinco años, quien obligue a una mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la conducta no constituya un delito más grave o previsto con una pena mayor, a tener relaciones sexuales con terceras personas, sin fines de lucro.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only technology-related reference in the candidate sentences concerns ordering an accused person to use an electronic device for victim protection (electronic monitoring). The excerpts do not define or criminalize cyber violence/harassment or otherwise recognize technology-facilitated violence as a form of violence; per the coding rules, such monitoring references do not qualify.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Whoever inserts the penis, orally, anally or vaginally, into a woman with whom they maintain or have maintained a relationship or partnership bond, whether marital, de facto union, dating, cohabitation, non-cohabitation, casual or other similar relationship, even when there is divorce, separation or breakup, provided that the conduct does not constitute a more serious crime or one provided with a greater penalty, against her will, shall be punished with a prison sentence of twelve to eighteen years.",
+      "rationale": "The framework defines at least one form of violence against women (rape against a woman in an intimate-partner relationship) as a criminal offence and specifies a prison sentence, satisfying the requirement for an attached criminal sanction in an operative provision.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Quien le introduzca el pene, por vía oral, anal o vaginal, a una mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la conducta no constituya un delito más grave o previsto con una pena mayor, contra la voluntad de ella, será sancionado con pena de prisión de doce a dieciocho años.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references protective measures and includes a criminal penalty for breach of a protective measure, the candidate sentences do not specify all required elements for a substantive protection-order mechanism (who may apply and the order’s duration are not provided). The references therefore do not meet the coding rule threshold for either substantive or referenced-only protection orders as defined here.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences impose general obligations on public servants and discuss investigations and protective measures, but they do not designate any specific specialised unit, desk, or division within police services for handling VAW cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention judges and competent judicial authority in general terms (e.g., ordering measures, initiating investigations), but do not establish or mandate a specialised court, chamber, designated judicial officer, or specialised/expedited judicial procedure specifically for VAW cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "Yes",
+      "evidence": "Whoever inserts the penis, orally, anally or vaginally, into a woman with whom they maintain or have maintained a relationship or partnership bond, whether marital, de facto union, dating, cohabitation, non-cohabitation, casual or other similar relationship, even when there is divorce, separation or breakup, provided that the conduct does not constitute a more serious crime or one provided with a greater penalty, against her will, shall be punished with a prison sentence of twelve to eighteen years.",
+      "rationale": "The rape provision expressly applies to conduct against a woman with whom the perpetrator maintains or has maintained a relationship or partnership bond, explicitly including a marital relationship, and attaches criminal liability and a prison sentence. This constitutes express criminalisation of rape within marriage/intimate partnerships rather than an inference from general rape criminalisation.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Quien le introduzca el pene, por vía oral, anal o vaginal, a una mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la conducta no constituya un delito más grave o previsto con una pena mayor, contra la voluntad de ella, será sancionado con pena de prisión de doce a dieciocho años.",
+      "evidence_original_aligned": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "b) of this article, the National Institute of Women and the Ministry of Justice shall send each year, to the Supreme Court of Justice, the list of accredited institutions, public and private, to which the competent judicial authority may refer for compliance with this penalty.",
+      "rationale": "The text assigns a recurring, structured inter-institutional information-sharing function (annual transmission of a list) between specified entities (National Institute of Women and Ministry of Justice) and the Supreme Court of Justice, which constitutes a formalized coordination process supporting implementation (referrals for compliance with a penalty).",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) del presente artículo, el Instituto Nacional de las Mujeres y el Ministerio de Justicia enviarán cada año, a la Corte Suprema de Justicia, la lista de instituciones acreditadas, públicas y privadas, a las cuales la autoridad judicial competente podrá remitir para el cumplimiento de esta pena.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": null,
+      "rationale": "The framework assigns a concrete, recurring duty to specific entities (National Institute of Women and Ministry of Justice) to send an annual list of accredited institutions to the Supreme Court of Justice, which is an explicit information management/exchange requirement relevant to implementation of the law’s offender program referrals. [unresolved evidence citation removed]",
+      "coverage": "Substantive",
+      "confidence": 0.64,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.64
+      },
+      "coverage_confidence": 0.57,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.57
+      },
+      "evidence_verified": false,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference violence against women as gender-based discrimination and cite international instruments, but they do not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming focal points, working groups, or mainstreaming in planning/budgeting) for implementing VAW policies or programs.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences impose duties on public servants to act promptly and describe accreditation of specialized offender programs, but they do not mandate training, technical guidance, or capacity building for implementing personnel or service providers.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish monitoring and evaluation mechanisms, processes, indicators, reporting requirements for assessing implementation, or designate a body responsible for M&E of violence against women policy implementation or service delivery.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain any operative provision requiring allocation of budget/funding or establishing a funding mechanism/source for implementing violence against women response or prevention; they focus on criminal provisions, protective measures, and accreditation/administrative steps.",
+      "coverage": null,
+      "confidence": 0.89,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.89
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on criminalization, protective measures, duties of public officials, and accreditation of specialized programs for offenders. None of the provided sentences establish, mandate, or recognize an integrated/one-stop/multidisciplinary service mechanism coordinating multiple victim services for women survivors of violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts mention that public officials may file complaints and that protective measures may be requested during investigations, but they do not establish a dedicated reporting mechanism/service (e.g., hotline, helpline, designated complaint-receiving service) for women victims/survivors to report violence or seek emergency assistance.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references protective measures and victim protection during proceedings, none of the candidate sentences mention shelters, safe houses, refuge accommodation, relocation, or any accommodation-based protection for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address access to justice obstruction and procedural protections, but do not establish or guarantee legal aid/advice/representation for women victims/survivors of violence, nor identify victims as eligible for legal assistance.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts include criminal provisions and references to psychological/psychiatric examinations in sentencing contexts, but they do not provide or mandate medical/health services (e.g., treatment, emergency care, forensic exams) for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only psychological/psychiatric elements in the candidate sentences relate to examinations for sentencing decisions and to specialized programs for offenders, not psychosocial/psychological counselling or trauma support services for women victims/survivors.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions religious or spiritual counselling, pastoral care, faith-based guidance, or any religious institution/personnel providing support to women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences concern criminal sanctions, protective measures, and offender programs; they do not establish longer-term recovery/rehabilitation/reintegration supports (e.g., economic assistance, housing support, vocational training) specifically for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "b) Subject the person to a specialized program for offenders, oriented to the control of violent behaviors and comprehensive psychological and psychiatric treatments.\nIn a period of three months, counted from the entry into force of this Law, public institutions and private organizations interested in developing specialized care programs for offenders, according to article 18 of this Law, must manage their accreditation before the National Institute for Women.",
+      "rationale": "The candidate sentences explicitly provide for specialized programs for offenders (including control of violent behaviors and comprehensive psychological/psychiatric treatments) and require accreditation of institutions/organizations developing specialized care programs for offenders, which constitutes perpetrator-focused intervention/rehabilitation programming in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Someter a la persona a un programa especializado para ofensores, orientado al control de conductas violentas y a tratamientos completos, psicológico y psiquiátrico.\n\nEn un plazo de tres meses, contados a partir de la entrada en vigencia de esta Ley, las instituciones públicas y las organizaciones privadas interesadas en desarrollar programas de atención especializada a ofensores, según el artículo 18 de la presente Ley, deberán gestionar su acreditación ante el Instituto Nacional de las Mujeres.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe criminal offences, protective measures, procedural obligations for public officials, and accreditation of specialized care programs for offenders, but they do not establish any information/awareness/education or public communication activities specifically about violence against women as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference women’s rights and international conventions (e.g., CEDAW) as purposes/sources of interpretation and set out criminal provisions, but they do not require or provide any information, education, awareness-raising, or communication activities about gender equality or women’s rights, nor do they link such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences set out and amend legal provisions on violence against women and protective measures, but they do not include operative provisions for dissemination, public education, awareness-raising, or communication about VAW laws/policies/legal protections as a prevention strategy.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain criminal law provisions and references to violence occurring in educational spheres as a circumstance, but they do not identify education systems, curricula, educational institutions, or improvements in education quality as measures to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not provide any prevention activities engaging men or boys (e.g., programmes, campaigns, norm-change/masculinity initiatives) to prevent violence against women. The only potentially related content concerns specialized care programs for offenders, which is not framed as primary prevention engaging men/boys generally.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "In a period of three months, counted from the entry into force of this Law, public institutions and private organizations interested in developing specialized care programs for offenders, according to article 18 of this Law, must manage their accreditation before the National Institute for Women.",
+      "rationale": "The text includes an operative provision requiring “private organizations” interested in developing specialized care programs for offenders to obtain accreditation before the National Institute for Women, which establishes a formal mechanism for private (non-state) organisations to participate in implementation of VAW-related programming (offender programs) under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "En un plazo de tres meses, contados a partir de la entrada en vigencia de esta Ley, las instituciones públicas y las organizaciones privadas interesadas en desarrollar programas de atención especializada a ofensores, según el artículo 18 de la presente Ley, deberán gestionar su acreditación ante el Instituto Nacional de las Mujeres.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only mention of “religious sphere” appears as part of a circumstance describing a perpetrator’s history of violence; it does not establish, require, or authorise any engagement or collaboration with religious or traditional/cultural organisations or leaders for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions the “educational” sphere only as a context where prior violence may have occurred; it does not assign roles to education institutions or establish any coordination/partnership mechanism with schools or universities for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provisions cite international human rights instruments as sources of interpretation and reference obligations under conventions, but they do not establish any operative mechanism for cooperation or collaboration with international organisations on VAW (and ratification/interpretive references alone are excluded by the coding rules).",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences identify media organisations/actors or establish any media-related partnership, responsibilities, or mechanisms for VAW prevention, awareness, or victim protection.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references “community” as a sphere where violence may have occurred and mentions “community utility organizations” as possible sites for public utility service penalties, it does not establish community participation, mobilisation, or collaboration mechanisms for preventing or responding to violence against women (and community engagement cannot be inferred from general references).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "In a period of three months, counted from the entry into force of this Law, public institutions and private organizations interested in developing specialized care programs for offenders, according to article 18 of this Law, must manage their accreditation before the National Institute for Women.",
+      "rationale": "An operative provision requires “private organizations” interested in developing specialized care programs for offenders to seek accreditation before the National Institute for Women, which authorises/structures private-sector participation in implementing a VAW-related intervention (offender programs).",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "En un plazo de tres meses, contados a partir de la entrada en vigencia de esta Ley, las instituciones públicas y las organizaciones privadas interesadas en desarrollar programas de atención especializada a ofensores, según el artículo 18 de la presente Ley, deberán gestionar su acreditación ante el Instituto Nacional de las Mujeres.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention funding or budget sources from local governments (e.g., municipalities/cantons/districts) or any local budget allocation. References to geographic areas (neighborhood/district/canton/province) are about residence restrictions, not budgeting.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "The expenses incurred for this treatment shall be borne by the State, unless the convicted person has sufficient resources to pay for them.",
+      "rationale": "The text explicitly states that expenses for treatment will be borne by the State, indicating national-level public funding responsibility (even though no specific budget line/amount is provided).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los gastos en que se incurra por este tratamiento correrán a cargo del Estado, salvo si la persona condenada cuenta con recursos suficientes para sufragarlos.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference international conventions and international human rights instruments only as interpretive/legal sources, without indicating any international assistance, donor funding, cooperation, or organizational participation in implementation or support. Under the coding rules, such references alone do not qualify.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any funding/budget source categorized as 'other legal sources' (e.g., earmarked funds, fines, levies, special funds, or other legally mandated revenue streams). They mainly address criminal provisions and interpretive sources, not financing mechanisms.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions provincial government budgets as a funding source. The mention of 'province' appears only in the context of defining a place for a residence prohibition, not as a budgetary authority or funding stream.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [
+    "3.2"
+  ],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 14,
+    "resolved": 14,
+    "rate": 1.0
+  }
+}

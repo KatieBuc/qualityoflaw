@@ -1,0 +1,772 @@
+# REGENT OF BANDUNG WEST JAVA PROVINCE
+
+REGENT OF BANDUNG WEST JAVA PROVINCE
+
+COPY
+
+REGIONAL REGULATION OF BANDUNG REGENCY
+
+NUMBER 21 OF 2016
+
+CONCERNING
+
+PROTECTION OF WOMEN
+
+BY THE GRACE OF ALMIGHTY GOD
+
+REGENT OF BANDUNG,
+
+Considering : a. that in order to improve the position, role and quality of women is an effort to realize gender equality and justice in family, social, national and state life;
+
+b. that all forms of violence against women constitute a violation of human rights so that women need to be protected in their dignity and guaranteed their right to life in accordance with their nature and disposition without discrimination;
+
+c. that in order to protect the community, realize equity, and justice as an obligation of the regional government to provide protection and welfare for women, a legal basis is needed in the implementation of women's protection;
+
+d. based on the considerations as referred to in letters a, b, and c, it is necessary to stipulate a Regional Regulation concerning Protection of
+
+Women;
+
+In view of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 14 of 1950 concerning the Establishment of Regency Regions Within the Province of West Java (State Gazette
+
+of 1950) as amended by
+
+Law Number 4 of 1968 concerning the
+
+Establishment of Purwakarta Regency and Subang Regency
+
+by amending Law Number 14 of 1950 concerning the Establishment of Regency Regions Within the Province of West Java (State Gazette of the Republic of Indonesia of 1968 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number 2851);
+
+3. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
+
+4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+5. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58 Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+6. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+
+7. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of Criminal Acts of Human Trafficking (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);
+
+8. Regulation of the State Minister for Women's Empowerment and Child Protection Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers (State Gazette of the Republic of Indonesia of 2010 Number 446).
+
+With Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF BANDUNG REGENCY and
+
+REGENT OF BANDUNG
+
+DECIDES:
+
+To stipulate : REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms shall mean:
+
+- 1. Region is Bandung Regency.
+- 2. Regent is the Regent of Bandung.
+- 3. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous region.
+- 4. Regional Apparatus is an auxiliary element of the Regent and the Regional House of Representatives in the administration of government affairs that are the authority of the Region.
+- 5. Women are human beings of female gender starting from infants, adolescents, adults up to the elderly, who have been recognized by law.
+- 6. Prevention is an activity carried out to prevent acts of violence against Women.
+- 7. Protection is all efforts aimed at providing a sense of security to victims carried out by family members, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily.
+- 8. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, the community, and/or other parties who know or hear that violence against Women will or has occurred.
+- 9. Victim is a Woman who experiences suffering and/or hardship either directly or indirectly as a result of violence and life vulnerability.
+- 10. Violence is any act that results in or may result in suffering or hardship whether physical, sexual, economic, social and psychological to the victim.
+- 11. Violence Victim is an individual or group of people who experience physical, mental or emotional suffering, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations or criminal acts as well as acts of Violence committed either by state apparatus, Regional Government apparatus, or individuals.
+- 12. Violence Against Women is any action that results in or may result in suffering or hardship to Women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.
+- 13. Family are people who have blood relations in a straight line upward or downward and collateral lines up to the third degree, or who have a marriage relationship, or people who are dependents of Women.
+- 14. Parents are biological father and/or mother, step father and/or mother, or adoptive father and/or mother. 15. Discrimination Against Women is any distinction, exclusion, or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil, or any other field by Women, regardless of their marital status on the basis of equality between men and Women. 16. Gender is a concept that refers to the differentiation of roles and responsibilities of men and Women that occur as a result of and can be changed by social and cultural conditions of society.
+- 17. Health Rehabilitation is an effort to restore the condition of Victims including physical, psychological, and sexual health so that Victims can carry out their roles again properly and naturally both in the family and in society.
+- 18. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.
+- 19. Repatriation is an effort to return Violence Victims to their region of origin.
+- 20. Social Reintegration is an effort to reunite Victims with family members, substitute families, or communities that can provide Protection and fulfillment of needs for Victims.
+- 21. Integrated Service Center for Women Empowerment and Child Protection hereinafter referred to as P2TP2A is an integrated service unit established by the Regional Government to carry out the functions and main tasks of integrated services for Women and child Violence Victims, including complaint services, Health Rehabilitation, Social Rehabilitation, Repatriation, Social Reintegration, and legal aid.
+
+# CHAPTER II
+
+RIGHTS OF WOMEN
+
+## Part One
+
+General
+
+#### Article 2
+
+Every Woman has the right:
+
+- a. to live;
+- b. to have a family and continue offspring; c. to develop oneself;
+- d. to obtain justice;
+- e. to personal freedom;
+- f. to security;
+- g. to welfare; and
+- h. to participate in government.
+
+## Part Two
+
+Rights of Women with Disabilities
+
+#### Article 3
+
+Every Woman with disabilities has the right to obtain:
+
+- a. education in all units, channels, types, and levels of education;
+- b. decent employment and livelihood in accordance with the type and degree of disability, education, and capability;
+- c. equal treatment to participate in development and enjoy the results;
+- d. accessibility in the framework of independence;
+- e. rehabilitation, social assistance, and maintenance of social welfare standards; and
+- f. equal rights to develop talents, abilities, and social life.
+
+## Part Three
+
+Rights of Women Victims of Violence
+
+#### Article 4
+
+Every Woman Victim of Violence has the right: a. to have her dignity and honor as a human being respected;
+
+b. to Health Rehabilitation;
+
+c. to make her own decisions;
+
+d. to obtain information;
+
+e. to confidentiality;
+
+f. to compensation;
+
+g. to Social Rehabilitation;
+
+h. to complaint handling;
+
+i. to obtain facilitation in the judicial process;
+
+j. to assistance;
+
+k. to health and psychological recovery; and l. to protection from family, community, Regional Government, and social institutions.
+
+# CHAPTER III
+
+FORMS OF VIOLENCE AGAINST WOMEN
+
+#### Article 5
+
+Forms of Violence Against Women include: a. Physical violence;
+
+b. Psychological violence;
+
+c. Sexual violence;
+
+d. Domestic Neglect;
+
+e. trafficking of Women;
+
+f. exploitation; and
+
+g. restriction of movement.
+
+# CHAPTER IV
+
+OBLIGATIONS AND RESPONSIBILITIES
+
+## Part One
+
+General
+
+#### Article 6
+
+Protection of Women in the Region is a shared obligation and responsibility among:
+
+- a. Regional Government;
+- b. Society;
+- c. Family; and
+- d. Parents.
+
+## Part Two
+
+Obligations and Responsibilities of Regional Government Article 7
+
+(1) The obligations and responsibilities of Regional Government as referred to in Article 6 letter a include:
+
+- a. implementing policies for the Protection of Women from all forms of Discrimination Against Women and acts of Violence;
+- b. establishing policies, programs, and activities for the Protection of Women;
+- c. collecting data and information on Women Victims of Violence and Discrimination Against Women and supporting regulations;
+- d. conducting education on matters related to the Protection of Women Victims of Violence and Discrimination Against Women;
+- e. conducting socialization of laws and regulations related to the Protection of Women Victims of Violence and Discrimination Against Women;
+- f. conducting monitoring and evaluation of the implementation of Protection for Women Victims of Violence and Discrimination Against Women; and
+- g. providing support for facilities and infrastructure in the implementation of the Protection of Women. (2) To anticipate acts of Violence, the Regional Government:
+- a. establishes and facilitates the implementation of integrated service institutions for Victims involving community elements;
+- b. facilitates legal aid assistance and legal services according to the needs of Victims;
+- c. provides safe houses or alternative residences along with procedures for handling, services, psychosocial, and spiritual support;
+- d. conducts continuous handling up to the rehabilitation and Social Reintegration stage;
+- e. conducts monitoring and evaluation of the implementation of protection for Victims;
+- f. encourages community awareness of the importance of Protection for Victims;
+- g. establishes integrated service posts to receive complaints in every sub-district;
+- h. facilitates comprehensive health services including visum et repertum services and psychological services; and
+- i. facilitates Protection guarantees needed by victims during assistance to Victims.
+  - (3) In carrying out obligations as referred to in paragraph (1) and paragraph (2), the Regional Government takes into account the rights and obligations of Parents, guardians, husbands, or other persons legally responsible for the Victim.
+  - (4) To carry out obligations and responsibilities as referred to in paragraph (1) through paragraph (3), the Regional Government prepares an action plan for Protection of Women Victims of Violence.
+  - (5) Provisions regarding the action plan for Protection of Women Victims of Violence as referred to in paragraph (4) are regulated by Regent Regulation.
+
+#### Article 8
+
+(1) The Regent integrates policies, programs, and activities for the Protection of Women into regional development planning.
+
+(2) The integration of programs and activities as referred to in paragraph (1) is incorporated into planning and budget documents which include:
+
+- a. regional long-term development plan; b. regional medium-term development plan; c. strategic plan of Regional Apparatus;
+- d. work plan of Regional Government; and e. work plan and budget of Regional Apparatus. (3) The Regional Apparatus handling the field of Women facilitates the integration of policies, programs, and activities for the Protection of Women into the preparation of planning and budget documents as referred to in paragraph (2).
+  - (4) In carrying out activities as referred to in paragraph (3), the Regional Apparatus handling the field of Women coordinates with Regional Apparatus that have direct connections with the field of Women.
+
+#### Article 9
+
+(1) The Regent implements policies, programs, and activities for the Protection of Women to eliminate all forms of Discrimination Against Women and acts of Violence Against Women.
+
+(2) The Regional Apparatus handling the field of Women implements established policies, programs, and activities for the Protection of Women in cooperation and coordination with relevant Regional Apparatus, law enforcement, community institutions, universities, and the community.
+
+(3) The implementation of policies, programs, and activities for the Protection of Women as in paragraph (2) is in the form of:
+
+- a. policy analysis;
+- b. advocacy;
+- c. coordination and communication;
+- d. socialization;
+- e. education;
+- f. training;
+- g. facilitation; and
+- h. provision of services.
+
+#### Article 10
+
+(1) The Regent in implementing policies, programs, and activities for the protection of women as referred to in Article 9 makes efforts:
+
+- a. coordination of implementation among Regional Apparatus; b. cooperation with the central government, provincial government, and other regency/city governments in accordance with the provisions of laws and regulations;
+- c. strengthening of Gender institutional capacity; d. facilitation of Protection of Women services; e. provision of Protection of Women services; f. implementation of affirmative action for Protection of Women; and
+- g. preparation of data collection system for Protection of Women including data collection system for Violence Against Women.
+  - (2) The implementation of policies, programs, and activities as referred to in paragraph (1) is coordinated by the Vice Regent.
+
+## Part Three
+
+Obligations and Responsibilities of Society, Family, and Parents
+
+#### Article 11
+
+(1) The obligations and responsibilities of the community as referred to in Article 6 letters b through d are carried out in the form of community participation.
+
+(2) The forms of community participation as referred to in paragraph (1) include:
+
+- a. establishing Family partners at the village and/or sub-district level;
+- b. establishing Women's Protection units within community organizations;
+- c. conducting independent socialization of Women's rights;
+- d. providing first aid to Victims; and
+- e. reporting to the competent authority if Violence Against Women occurs in their environment.
+  - (3) Community participation as referred to in paragraph (1) is carried out by individuals, community social institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and social media.
+  - (4) Forms of community participation as referred to in paragraph (2) are carried out responsibly in accordance with the provisions of laws and regulations.
+
+#### Article 12
+
+Family and/or Parents as referred to in Article 6 letters c and d, have full responsibility to prevent all forms of Violence and protect Women as Family members.
+
+# CHAPTER V
+
+PREVENTION, PROTECTION SERVICES, AND RECOVERY OF WOMEN VIOLENCE VICTIMS Part One
+
+Prevention of Violence Against Women
+
+#### Article 13
+
+To prevent the occurrence of acts of Violence Against Women, the Regional Government:
+
+- a. conducts preparation and socialization regarding matters concerning Violence Against Women;
+- b. conducts socialization of Women's rights; c. endeavors to improve education for Women;
+- d. opens skills courses for Women to support the economic needs of the Family;
+- e. creates employment opportunities for Women; f. provides counseling related to Violence Against Women;
+- g. empowers social community organizations and Women's organizations at the Regional, sub-district, village, and/or sub-village level to increase the knowledge and insight of Women;
+- h. establishes complaint posts for Women's Protection; and
+- i. forms work networks in efforts to prevent Violence Against Women.
+
+## Part Two
+
+Protection Services
+
+#### Article 14
+
+(1) Protection Services for Women are carried out in the form of:
+
+- a. Protection of the personal safety of Victims from physical and mental threats;
+- b. health services according to the needs of victims; c. medical services for the purposes of evidence in the legal field;
+- d. confidentiality of victim identity;
+- e. providing testimony during examination in court proceedings without facing the suspect;
+- f. spiritual guidance services; and/or
+- g. Protection of Women who work as laborers or workers in accordance with the provisions of laws and regulations.
+  - (2) Protection Services as referred to in paragraph (1) letter a are carried out by the Family, law enforcement officers, social institutions, and other parties either temporarily or based on a Protection order from the court.
+
+#### Article 15
+
+(1) In providing Protection services as referred to in Article 14 paragraph (1), the Regional Government:
+
+- a. provides services and handling as quickly as possible to companions, witnesses and/or Victims;
+- b. provides convenience, comfort, safety, and free of charge for companions, witnesses and/or Victims;
+- c. maintains confidentiality of witnesses and/or Victims; d. guarantees justice and legal certainty for witnesses and/or Victims;
+- e. provision of special service rooms at the Indonesian National Police office;
+- f. provision of officers, health workers, social workers, and spiritual counselors;
+- g. creation and development of systems and procedures for cooperation in implementing service programs involving parties easily accessible to Victims;
+- h. provides protection for companions, witnesses, Family, and friends of Victims;
+- i. provides decent work and livelihood according to the type and degree of disability, education, and ability; and
+- j. provides protection for female workers or laborers in accordance with the provisions of protection for laborers or workers in accordance with the provisions of laws and regulations.
+  - (2) The Regional Government in providing Protection services as referred to in paragraph (1) may cooperate with the central government, provincial government, other regency/city governments, the community, and/or other social institutions.
+  - (3) Cooperation as referred to in paragraph (2) is set forth in a cooperation agreement.
+
+#### Article 16
+
+(1) The provision of Women's Protection services as referred to in Article 14 consists of Victim identification, legal assistance, medical rehabilitation, psychosocial rehabilitation, Social Reintegration, repatriation assistance.
+
+(2) The provision of Women's Protection services as referred to in paragraph (1) is provided for Women Victims of Violence including victims of human trafficking, Women in disaster-prone areas, working Women, elderly Women, Women with disabilities, and Women Victims of sexual exploitation.
+
+## Part Three
+
+Recovery
+
+#### Article 17
+
+(1) For the purposes of recovery, Victims are entitled to obtain:
+
+- a. health services;
+- b. Victim assistance;
+- c. counseling;
+- d. spiritual guidance; and
+- e. resocialization; and
+- f. economic empowerment.
+  - (2) For the purposes of recovery as referred to in paragraph (1) the Regional Government must provide: a. special service rooms at the Indonesian National Police office;
+- b. expert and professional personnel;
+- c. service centers and safe houses; and
+- d. other facilities and infrastructure needed for the recovery of Victims.
+  - (3) Expert and professional personnel as referred to in paragraph (2) letter b consist of:
+- a. health workers;
+- b. social workers;
+- c. companion volunteers; and/or
+- d. spiritual counselors; and/or
+- e. psychologists.
+  - (4) Health workers as referred to in paragraph (3) letter a must examine Victims in accordance with their professional standards, restore, and rehabilitate the health of Victims if Victims require treatment.
+  - (5) Social workers, companion volunteers, and/or spiritual counselors as referred to in paragraph (3) letters b, c, and d must provide services to Victims in the form of providing counseling to strengthen and/or provide a sense of security for Victims.
+  - (6) Violations of the provisions as referred to in paragraphs (4) and (5) may be subject to administrative sanctions in the form of:
+- a. written warning;
+- b. temporary suspension from activities;
+- c. termination of cooperation;
+- d. revocation of registered certificate;
+- e. revocation of operational permit;
+- f. withdrawal of facilities; and
+- g. administrative fine.
+  - (7) Provisions regarding the procedures for the application of administrative sanctions as referred to in paragraph (6) are regulated in a Regent Regulation.
+
+#### Article 18
+
+Further provisions regarding the procedures for prevention, protection services, and Recovery of Women Violence Victims as referred to in Articles 13 through 17 are regulated by Regent Regulation.
+
+# CHAPTER VI
+
+INSTITUTIONS
+
+#### Article 19
+
+(1) The Regional Government establishes P2TP2A in the implementation of Women's Protection services. (2) Women's protection services by P2TP2A as referred to in paragraph (1) involve elements of:
+
+- a. health;
+- b. psychology;
+- c. law;
+- d. clergy;
+- e. social; and
+- f. economy.
+  - (3) Provisions regarding the establishment of P2TP2A as referred to in paragraph (1) are regulated by Regent Regulation.
+
+#### Article 20
+
+(1) In addition to establishing P2TP2A as referred to in Article 19, the Regional Government shall establish a task force in the implementation of Women's Protection services.
+
+(2) The task force as referred to in paragraph (1) shall consist of elements:
+
+- a. Regional Government;
+- b. Ministry conducting government affairs in the field of religion;
+- c. Indonesian National Police;
+- d. Prosecutor's Office;
+- e. non-governmental organizations; and
+- f. family welfare development mobilization team.
+  - (3) Provisions regarding the establishment, organizational structure, duties, and functions of the task force as referred to in paragraph (2) shall be regulated by Regent Regulation.
+
+# CHAPTER VII
+
+COMMUNITY PARTICIPATION
+
+#### Article 21
+
+(1) Community participation in Women's Protection may be in the form of:
+
+- a. provision of counseling regarding Women's rights;
+- b. provision of skills training to support Family economy;
+- c. establishment of social community institutions to assist Violence Victims; and
+- d. reporting to the competent authority if Violence Against Women occurs in their environment.
+  - (2) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.
+
+#### Article 22
+
+(1) Any person related to the implementation of Women's Protection who knows of the occurrence of acts of Violence against Women but allows it, does not provide Protection to the Victim, and/or does not report to the relevant agency may be subject to administrative sanctions in the form of:
+
+- a. verbal warning;
+- b. written warning;
+- c. temporary suspension from activities;
+- d. termination of cooperation;
+- e. revocation of registered certificate;
+- f. revocation of operational permit;
+- g. withdrawal of facilities; and
+- h. administrative fine.
+  - (2) Provisions regarding the procedures for imposing administrative sanctions as referred to in paragraph (1) shall be regulated in Regent Regulation.
+
+# CHAPTER VIII
+
+SUPERVISION, EVALUATION, AND DEVELOPMENT Part One
+
+Supervision
+
+#### Article 23
+
+(1) The Regent shall conduct supervision over the implementation of policies, programs, and activities of Women's Protection.
+
+(2) To ensure synergy, continuity, and effectiveness in an integrated manner in the implementation of supervision as referred to in paragraph (1), the Regent shall conduct monitoring through Regional Apparatus handling the field of Women.
+
+(3) Monitoring as referred to in paragraph (2) shall be conducted from planning to implementation of policies, programs, and activities of Women's Protection for the current year.
+
+(4) The results of monitoring as referred to in paragraph (3) shall be reported to the Regent periodically.
+
+## Part Two
+
+Evaluation
+
+#### Article 24
+
+(1) The Regional Government shall conduct evaluation of the implementation of policies, programs, and activities of Women's Protection at the end of each fiscal year.
+
+(2) The results of evaluation as referred to in paragraph (1) shall be used as input for the preparation of policies, programs, and activities of Women's Protection for the following year.
+
+(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.
+
+## Part Three
+
+Development
+
+#### Article 25
+
+The Regent shall conduct development over the implementation of policies, programs, and activities of Women's Protection to related Regional Apparatus and sub-districts.
+
+#### Article 26
+
+Further provisions regarding supervision, evaluation, and development of policies, programs, and activities of Women's Protection as referred to in Article 21 through Article 23 shall be regulated by Regent Regulation.
+
+# CHAPTER IX
+
+FINANCING
+
+#### Article 27
+
+Financing for the implementation of Women's Protection shall be sourced from:
+
+- a. regional revenue and expenditure budget; and b. other legitimate and non-binding funding sources
+
+#### Article 28
+
+(1) The Regional Government may provide financial assistance to community organizations, social organizations, or non-governmental organizations and higher education institutions that implement Protection of Women.
+
+(2) Financial assistance as referred to in paragraph (1) shall be provided in accordance with the financial capacity of the Region and implemented in accordance with the provisions of laws and regulations in the field of regional finance.
+
+# CHAPTER X
+
+CLOSING PROVISIONS
+
+#### Article 29
+
+Implementing regulations of this Regional Regulation must be stipulated no later than 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 30
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Bandung Regency.
+
+Stipulated in Soreang on the 23rd of December 2016
+
+REGENT OF BANDUNG,
+
+sgd
+
+DADANG M. NASER
+
+Promulgated in Soreang on the 23rd of December 2016
+
+REGIONAL SECRETARY
+
+OF BANDUNG REGENCY,
+
+sgd
+
+SOFIAN NATAPRAWIRA
+
+REGIONAL GAZETTE OF BANDUNG REGENCY YEAR 2016 NUMBER 21
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF BANDUNG REGENCY, WEST JAVA PROVINCE: (22/340/2016)
+
+Copy in accordance with the original
+
+HEAD OF LEGAL DIVISION
+
+DICKY ANUGRAH, SH, M.Si Principal Administrator Level I
+
+NIP. 19740717 199803 1 003
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF BANDUNG REGENCY
+
+NUMBER 21 OF 2016
+
+CONCERNING
+
+WOMEN'S PROTECTION
+
+I. GENERAL
+
+The position, role and quality of women in current developments have undergone changes in efforts to realize gender equality and justice, both in family life, society, nation and state. The protection of human rights has also become a concern, especially related to all forms of violence against women constituting violations of human rights so that women need to be protected in their dignity and honor and their right to life is guaranteed in accordance with their nature and disposition without discrimination.
+
+In order to protect the community, realize equity, and justice as an obligation of the regional government to provide protection and welfare to women, the Government of Bandung Regency establishes a Regional Regulation on Women's Protection. The implementation of women's protection is carried out based on the principles of Pancasila and based on the 1945 Constitution of the Republic of Indonesia, which includes:
+
+- a. Protection;
+- b. Respect for human rights;
+- c. Gender justice and equality;
+- d. Non-discrimination; and
+- e. Best interests for women.
+
+The objectives of establishing the Regional Regulation on Women's Protection are:
+
+- a. To ensure the fulfillment of women's rights to live and participate optimally in accordance with human dignity and honor;
+- b. To provide gender justice and equality;
+- c. To provide protection and security for women victims of violence and discrimination, as well as the crime of human trafficking; d. To eliminate all forms of violence and discrimination against women;
+- e. To provide services to women victims of violence and witnesses;
+- f. To carry out recovery of women victims of violence. II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Letter a
+
+What is meant by to live is the right to live and the right to maintain life and livelihood. Letter b What is meant by having a family and continuing descendants is the right to form a family and continue descendants through legal marriage.
+
+Letter c
+
+What is meant by developing oneself is developing oneself through the fulfillment of basic needs as well as obtaining education and benefiting from science and technology, arts and culture, for the purpose of improving quality of life and for the welfare of humankind.
+
+Letter d
+
+What is meant by obtaining justice is obtaining recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Letter e
+
+What is meant by personal freedom is advancing oneself in fighting for one's rights collectively to build society, nation and state.
+
+Letter f
+
+What is meant by security is the right to protection of oneself, family, honor, dignity and property under one's control, as well as the right to security and protection from threats of fear to do or not do something which is a basic right. Letter g
+
+What is meant by welfare is living in physical and spiritual prosperity, having a place to live and obtaining a good and healthy living environment, as well as the right to obtain health services.
+
+Letter h
+
+What is meant by participating in government is obtaining equal opportunity in government.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Letter a
+
+What is meant by physical violence is caused by acts that result in pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causing death.
+
+Letter b
+
+What is meant by psychological violence is caused by acts that result in fear, loss of self-confidence, loss of ability to act, feeling of helplessness and/or severe psychological suffering to a person.
+
+Letter c
+
+What is meant by sexual violence as referred to in Article 15 letter c is caused by: a. acts in the form of sexual harassment;
+
+b. coercion of sexual relations;
+
+c. coercion of sexual relations in an unnatural or unwanted manner; and/or
+
+d. coercion of sexual relations with others for commercial purposes and or certain purposes.
+
+Letter d
+
+What is meant by domestic neglect is caused by:
+
+- a. acts that result in the unfulfillment of the needs of women as wives properly, whether physical, mental, spiritual or social, committed by the husband, parents, guardian, or other party;
+- b. acts of deliberately neglecting to maintain, care for, or take care of women as wives as they should be, committed by the husband, parents, guardian or other party
+- c. acts of neglecting people within the scope of the household, whereas according to the law applicable to them or because of an agreement or contract they are obliged to provide livelihood, care, or maintenance to such person; and/or
+- d. acts that result in economic dependence by limiting and/or prohibiting work Letter e What is meant by Trafficking in persons is the act of recruitment, transportation, harboring, sending, transfer or receipt of a person by threat of violence, use of violence, abduction, confinement, forgery, fraud, abuse of power or vulnerable position, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over such other person, whether carried out within a country or between countries, for the purpose of exploitation or resulting in the person being exploited.
+
+Letter f
+
+What is meant by Exploitation as referred to in Article 15 letter f is caused by:
+
+- a. acts that exploit economically or sexually with the intention of benefiting oneself or others;
+- b. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or service, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or ability of a person by another party to obtain benefits either material or immaterial; and/or
+- c. all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or indecency.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Paragraph (1)
+
+Sufficiently clear.
+
+Paragraph (2)
+
+Sufficiently clear.
+
+Paragraph (3)
+
+Letter a
+
+What is meant by policy analysis is applied social research that is systematically compiled in order to know the substance of the policy so that information regarding the problems answered by the policy and problems that may arise as a result of the implementation of the policy can be clearly known Letter b
+
+What is meant by advocacy is social, political and cultural action carried out in a planned, structured manner, and carried out collectively, involving various tactics including lobbying, campaigning, establishing coalitions, applying pressure through mass action, as well as research used to change policies.
+
+Letter c
+
+What is meant by coordination is activity carried out by various parties of equal standing to mutually provide information and jointly arrange or agree on something, while communication is a process in which a person or several persons, groups, organizations, and society create and use information to be connected with the environment and other people.
+
+Letter d
+
+What is meant by socialization is the process of instilling or transferring habits or values and rules from one generation to another within a group or society
+
+Letter e
+
+What is meant by education is a learning process carried out either formally or informally aimed at educating, providing knowledge and developing human potential and realizing the learning process better.
+
+Letter f
+
+What is meant by training is a process whereby people achieve certain abilities to help achieve organizational goals and is part of education concerning the learning process to acquire and improve skills outside the applicable education system in a relatively short time with methods that prioritize practice over theory.
+
+Letter g
+
+What is meant by facilitation is a conscious process to assist a community group so that they can successfully carry out their tasks while maintaining the existence of that group.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Paragraph (1) Sufficiently clear. Paragraph (2) What is meant by Monitoring is to know the progress and obstacles in the implementation of policies, programs and activities for the protection of women.
+
+Paragraph (3) Sufficiently clear. Paragraph (4) Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+#### Article 30
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF BANDUNG REGENCY NUMBER 28.

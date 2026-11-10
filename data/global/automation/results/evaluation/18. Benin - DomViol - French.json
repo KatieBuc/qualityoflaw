@@ -1,0 +1,983 @@
+{
+  "policy_file": "18. Benin - DomViol - French.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T21:09:08.776648+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "The fact of being married to the penetrated person is not an excuse for the crime of rape; violence in the family environment: abuse of power or intentional negligence with a view to dominating, subjugating, controlling or assaulting women physically, verbally, psychologically, patrimonially, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes economically and sexually, inside or outside the family home, whether the aggressor is or has been linked to their victim by kinship relations, by blood or by marriage, by marriage relations, by cohabitation or whether they maintain or have maintained a de facto relationship with them; violence in the professional environment: refusal, in violation of the law, to hire the victim by contract, to maintain their employment or to respect the general working conditions; depreciation of work performed, threats, intimidation, humiliations, exploitation and any type of distraction based on sex; domestic violence: any physical or sexual violence committed by a person against the person of another when the two parties are married, cohabiting, or consanguineous, or living in the same house, or when the two parties have had an intimate relationship in the past, but are no longer together; economic violence: the act of using one's means to slow down or prevent the economic or financial development of any person, or the act of preventing any person from enjoying their socio-economic rights; patrimonial violence: any act or negligence affecting the survival of the victim and consisting of transforming, removing, destroying, retaining or misappropriating objects, personal documents, goods and valuables, patrimonial rights or economic resources intended to cover their needs and which may extend to damage caused to property common to or owned by the victim; physical violence: any type of act resulting in non-accidental harm, through the use of physical force or any type of weapon or object that may or may not cause internal, external or both injuries; psychological or moral violence: the act of subjecting any person to repeated actions or words having the object or effect of degrading living conditions likely to undermine their rights and dignity, to impair their physical or mental health or to compromise their plans or future.\ndomestic relationship, as defined in article 3 of this law, shall be considered as an aggravating circumstance.",
+      "rationale": "The law contains operative provisions that explicitly define “domestic violence” (and related family-environment violence) and also treats a domestic relationship as an aggravating circumstance for physical or sexual violence offenses, indicating substantive legal coverage rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "violence dans le milieu familial : abus de pouvoir ou négligence intentionnelle en vue de dominer, soumettre, contrôler ou agresser les femmes de manière physique, verbale, psychologique, patrimoniale, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes économique et sexuelle, à l’intérieur comme à l’extérieur du domicile familial, que l’agresseur soit lié ou ait été lié à sa victime par des relations de parenté, par le sang ou par alliance, des relations de mariage, de concubinage ou qu’il entretienne ou ait entretenu avec elle une relation de fait ; violence dans le milieu professionnel : refus, en violation de la loi, d’embaucher la victime par contrat, de maintenir son emploi ou de respecter les conditions générales de travail ; dépréciation du travail effectué, menaces, intimidation, humiliations, exploitation et tout type de distraction basée sur le sexe ; violence domestique : toute violence physique ou sexuelle faite par une personne contre la personne d’autrui quand les deux parties sont mariées, concubines, ou consanguines, ou qu’elles vivent dans la même maison, ou quand les deux parties ont eu une relation intime dans le passé, mais ne sont plus ensemble ; violence économique : le fait d’user de ses moyens pour ralentir ou empêcher l’épanouissement économique ou financier de toute personne, ou le fait d’empêcher toute personne de jouir de ses droits socio-économiques ;\n\nLOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes domestique, définie à l’article 3 de la présente loi, sera retenu comme circonstance aggravante.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "forced prostitution: the act of causing one or more persons to perform one or more acts of a sexual nature, by force, by threat of force or coercion or by taking advantage of the incapacity of said persons to give their consent freely in order to obtain a pecuniary or other advantage; procuring: the activity of one who facilitates the debauchery of others by serving as an intermediary, thereby deriving benefit from the fruits of this activity; forced sterilization: the act of committing or causing to be committed on a woman without her free consent or without a justified medical decision, an act likely to deprive her of her biological and organic reproductive capacity; rape: any act of vaginal, anal or oral penetration by another person's sex organ or vaginal or anal penetration by any object without the intelligent and voluntary consent of the penetrated person.\nPhysical or moral, sexual and psychological violence committed within the family such as beatings, marital rape, sexual assault and abuse, female genital mutilation as provided for by Law 2003-03 of 03 March 2003 on the punishment of the practice of female genital mutilation in the Republic of Benin, forced or arranged marriages, \"honor\" crimes and other traditional practices harmful to women.",
+      "rationale": "The framework substantively addresses sexual violence through operative definitions (including rape and forced prostitution) and by explicitly listing rape, sexual assault/abuse, and marital rape as covered forms of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "prostitution forcée : le fait d’amener une ou plusieurs personnes à accomplir un acte ou plusieurs actes de nature sexuelle, par la force, par la menace de la force ou de la coercition ou encore en profitant de l’incapacité desdites personnes à donner librement leur consentement en vue d’obtenir un avantage pécuniaire ou autres ; proxénétisme : l’activité de celui ou celle qui favorise la débauche d’autrui en servant d’intermédiaire, tirant de ce fait bénéfice des fruits de cette activité ; stérilisation forcée : le fait de commettre ou de faire commettre sur une femme sans son libre consentement ou sans une décision médicale justifiée, un acte de nature à la priver de sa capacité biologique et organique de reproduction ; viol : tout acte de pénétration vaginale, anale ou buccale par le sexe d’autrui ou la pénétration vaginale ou anale par un quelconque objet sans le consentement intelligent et volontaire de la personne pénétrée.\n\nLes violences physiques ou morales, sexuelles et psychologiques exercées au sein de la famille tels que les coups, le viol conjugal, les agressions et atteintes sexuelles, les mutilations génitales féminines telles que prévues par la loi 2003-03 du 03 mars 2003 portant répression de la pratique des mutilations génitales féminines en République du Bénin, les mariages forcés ou arrangés, les crimes d’ « honneur» et autres pratiques traditionnelles préjudiciables aux femmes.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "The fact of being married to the penetrated person is not an excuse for the crime of rape; violence in the family environment: abuse of power or intentional negligence with a view to dominating, subjugating, controlling or assaulting women physically, verbally, psychologically, patrimonially, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes economically and sexually, inside or outside the family home, whether the aggressor is or has been linked to their victim by kinship relations, by blood or by marriage, by marriage relations, by cohabitation or whether they maintain or have maintained a de facto relationship with them; violence in the professional environment: refusal, in violation of the law, to hire the victim by contract, to maintain their employment or to respect the general working conditions; depreciation of work performed, threats, intimidation, humiliations, exploitation and any type of distraction based on sex; domestic violence: any physical or sexual violence committed by a person against the person of another when the two parties are married, cohabiting, or consanguineous, or living in the same house, or when the two parties have had an intimate relationship in the past, but are no longer together; economic violence: the act of using one's means to slow down or prevent the economic or financial development of any person, or the act of preventing any person from enjoying their socio-economic rights; patrimonial violence: any act or negligence affecting the survival of the victim and consisting of transforming, removing, destroying, retaining or misappropriating objects, personal documents, goods and valuables, patrimonial rights or economic resources intended to cover their needs and which may extend to damage caused to property common to or owned by the victim; physical violence: any type of act resulting in non-accidental harm, through the use of physical force or any type of weapon or object that may or may not cause internal, external or both injuries; psychological or moral violence: the act of subjecting any person to repeated actions or words having the object or effect of degrading living conditions likely to undermine their rights and dignity, to impair their physical or mental health or to compromise their plans or future.\nPhysical or moral, sexual and psychological violence committed within the family such as beatings, marital rape, sexual assault and abuse, female genital mutilation as provided for by Law 2003-03 of 03 March 2003 on the punishment of the practice of female genital mutilation in the Republic of Benin, forced or arranged marriages, \"honor\" crimes and other traditional practices harmful to women.",
+      "rationale": "Physical violence is explicitly defined in the law’s operative definitions and is also expressly included as a covered category of violence against women (e.g., within-family violence including beatings), satisfying substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "violence dans le milieu familial : abus de pouvoir ou négligence intentionnelle en vue de dominer, soumettre, contrôler ou agresser les femmes de manière physique, verbale, psychologique, patrimoniale, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes économique et sexuelle, à l’intérieur comme à l’extérieur du domicile familial, que l’agresseur soit lié ou ait été lié à sa victime par des relations de parenté, par le sang ou par alliance, des relations de mariage, de concubinage ou qu’il entretienne ou ait entretenu avec elle une relation de fait ; violence dans le milieu professionnel : refus, en violation de la loi, d’embaucher la victime par contrat, de maintenir son emploi ou de respecter les conditions générales de travail ; dépréciation du travail effectué, menaces, intimidation, humiliations, exploitation et tout type de distraction basée sur le sexe ; violence domestique : toute violence physique ou sexuelle faite par une personne contre la personne d’autrui quand les deux parties sont mariées, concubines, ou consanguines, ou qu’elles vivent dans la même maison, ou quand les deux parties ont eu une relation intime dans le passé, mais ne sont plus ensemble ; violence économique : le fait d’user de ses moyens pour ralentir ou empêcher l’épanouissement économique ou financier de toute personne, ou le fait d’empêcher toute personne de jouir de ses droits socio-économiques ;\n\nLes violences physiques ou morales, sexuelles et psychologiques exercées au sein de la famille tels que les coups, le viol conjugal, les agressions et atteintes sexuelles, les mutilations génitales féminines telles que prévues par la loi 2003-03 du 03 mars 2003 portant répression de la pratique des mutilations génitales féminines en République du Bénin, les mariages forcés ou arrangés, les crimes d’ « honneur» et autres pratiques traditionnelles préjudiciables aux femmes.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "The fact of being married to the penetrated person is not an excuse for the crime of rape; violence in the family environment: abuse of power or intentional negligence with a view to dominating, subjugating, controlling or assaulting women physically, verbally, psychologically, patrimonially, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes economically and sexually, inside or outside the family home, whether the aggressor is or has been linked to their victim by kinship relations, by blood or by marriage, by marriage relations, by cohabitation or whether they maintain or have maintained a de facto relationship with them; violence in the professional environment: refusal, in violation of the law, to hire the victim by contract, to maintain their employment or to respect the general working conditions; depreciation of work performed, threats, intimidation, humiliations, exploitation and any type of distraction based on sex; domestic violence: any physical or sexual violence committed by a person against the person of another when the two parties are married, cohabiting, or consanguineous, or living in the same house, or when the two parties have had an intimate relationship in the past, but are no longer together; economic violence: the act of using one's means to slow down or prevent the economic or financial development of any person, or the act of preventing any person from enjoying their socio-economic rights; patrimonial violence: any act or negligence affecting the survival of the victim and consisting of transforming, removing, destroying, retaining or misappropriating objects, personal documents, goods and valuables, patrimonial rights or economic resources intended to cover their needs and which may extend to damage caused to property common to or owned by the victim; physical violence: any type of act resulting in non-accidental harm, through the use of physical force or any type of weapon or object that may or may not cause internal, external or both injuries; psychological or moral violence: the act of subjecting any person to repeated actions or words having the object or effect of degrading living conditions likely to undermine their rights and dignity, to impair their physical or mental health or to compromise their plans or future.\nArticle 32: Psychological violence as defined in Article 3 of this",
+      "rationale": "The law includes an operative definition of “psychological or moral violence” and provides an explicit penalty for psychological violence as defined in the law, demonstrating substantive legal treatment.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "violence dans le milieu familial : abus de pouvoir ou négligence intentionnelle en vue de dominer, soumettre, contrôler ou agresser les femmes de manière physique, verbale, psychologique, patrimoniale, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes économique et sexuelle, à l’intérieur comme à l’extérieur du domicile familial, que l’agresseur soit lié ou ait été lié à sa victime par des relations de parenté, par le sang ou par alliance, des relations de mariage, de concubinage ou qu’il entretienne ou ait entretenu avec elle une relation de fait ; violence dans le milieu professionnel : refus, en violation de la loi, d’embaucher la victime par contrat, de maintenir son emploi ou de respecter les conditions générales de travail ; dépréciation du travail effectué, menaces, intimidation, humiliations, exploitation et tout type de distraction basée sur le sexe ; violence domestique : toute violence physique ou sexuelle faite par une personne contre la personne d’autrui quand les deux parties sont mariées, concubines, ou consanguines, ou qu’elles vivent dans la même maison, ou quand les deux parties ont eu une relation intime dans le passé, mais ne sont plus ensemble ; violence économique : le fait d’user de ses moyens pour ralentir ou empêcher l’épanouissement économique ou financier de toute personne, ou le fait d’empêcher toute personne de jouir de ses droits socio-économiques ;\n\nArticle 32 : Les violences psychologiques comme définies à l’article 3 de la",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "The fact of being married to the penetrated person is not an excuse for the crime of rape; violence in the family environment: abuse of power or intentional negligence with a view to dominating, subjugating, controlling or assaulting women physically, verbally, psychologically, patrimonially, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes economically and sexually, inside or outside the family home, whether the aggressor is or has been linked to their victim by kinship relations, by blood or by marriage, by marriage relations, by cohabitation or whether they maintain or have maintained a de facto relationship with them; violence in the professional environment: refusal, in violation of the law, to hire the victim by contract, to maintain their employment or to respect the general working conditions; depreciation of work performed, threats, intimidation, humiliations, exploitation and any type of distraction based on sex; domestic violence: any physical or sexual violence committed by a person against the person of another when the two parties are married, cohabiting, or consanguineous, or living in the same house, or when the two parties have had an intimate relationship in the past, but are no longer together; economic violence: the act of using one's means to slow down or prevent the economic or financial development of any person, or the act of preventing any person from enjoying their socio-economic rights; patrimonial violence: any act or negligence affecting the survival of the victim and consisting of transforming, removing, destroying, retaining or misappropriating objects, personal documents, goods and valuables, patrimonial rights or economic resources intended to cover their needs and which may extend to damage caused to property common to or owned by the victim; physical violence: any type of act resulting in non-accidental harm, through the use of physical force or any type of weapon or object that may or may not cause internal, external or both injuries; psychological or moral violence: the act of subjecting any person to repeated actions or words having the object or effect of degrading living conditions likely to undermine their rights and dignity, to impair their physical or mental health or to compromise their plans or future.\nArticle 33: Economic violence as defined in Article 3 of this",
+      "rationale": "Economic violence is expressly defined in the operative definitions and is specifically sanctioned through an operative penalty provision, meeting the criterion for substantive coverage of economic violence as a form of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "violence dans le milieu familial : abus de pouvoir ou négligence intentionnelle en vue de dominer, soumettre, contrôler ou agresser les femmes de manière physique, verbale, psychologique, patrimoniale, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes économique et sexuelle, à l’intérieur comme à l’extérieur du domicile familial, que l’agresseur soit lié ou ait été lié à sa victime par des relations de parenté, par le sang ou par alliance, des relations de mariage, de concubinage ou qu’il entretienne ou ait entretenu avec elle une relation de fait ; violence dans le milieu professionnel : refus, en violation de la loi, d’embaucher la victime par contrat, de maintenir son emploi ou de respecter les conditions générales de travail ; dépréciation du travail effectué, menaces, intimidation, humiliations, exploitation et tout type de distraction basée sur le sexe ; violence domestique : toute violence physique ou sexuelle faite par une personne contre la personne d’autrui quand les deux parties sont mariées, concubines, ou consanguines, ou qu’elles vivent dans la même maison, ou quand les deux parties ont eu une relation intime dans le passé, mais ne sont plus ensemble ; violence économique : le fait d’user de ses moyens pour ralentir ou empêcher l’épanouissement économique ou financier de toute personne, ou le fait d’empêcher toute personne de jouir de ses droits socio-économiques ;\n\nArticle 33 : Les violences économiques comme définies à l’article 3 de la",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Physical or moral, sexual and psychological violence committed within the family such as beatings, marital rape, sexual assault and abuse, female genital mutilation as provided for by Law 2003-03 of 03 March 2003 on the punishment of the practice of female genital mutilation in the Republic of Benin, forced or arranged marriages, \"honor\" crimes and other traditional practices harmful to women.\nArticle 31: Any person who is guilty or an accomplice of a marriage",
+      "rationale": "The framework explicitly includes harmful practices (e.g., female genital mutilation, forced/arranged marriages, and “honor” crimes) within the operative classification of violence against women and also criminalizes forced/arranged marriage/cohabitation, indicating substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les violences physiques ou morales, sexuelles et psychologiques exercées au sein de la famille tels que les coups, le viol conjugal, les agressions et atteintes sexuelles, les mutilations génitales féminines telles que prévues par la loi 2003-03 du 03 mars 2003 portant répression de la pratique des mutilations génitales féminines en République du Bénin, les mariages forcés ou arrangés, les crimes d’ « honneur» et autres pratiques traditionnelles préjudiciables aux femmes.\n\nArticle 31 : Toute personne qui se rend coupable ou complice d’un mariage",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent term, nor do they show homicide provisions treating such killings as a distinct or aggravated form of violence against women.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Physical or moral, sexual and psychological violence committed within the community including rape, sexual assault and abuse, sexual harassment as provided for by Law 2006- LAW NO. 2011-26 OF 09 JANUARY 2012 on the prevention and punishment of violence against women 19 of 05 September 2006 on the punishment of sexual harassment and protection of victims in the Republic of Benin and intimidation at work, in educational institutions and other places, procuring, trafficking, forced prostitution.",
+      "rationale": "The operative classification of violence against women explicitly includes “trafficking” as a covered form of violence within the community context, which is sufficient to show the framework substantively addresses trafficking (even if detailed trafficking offenses are not shown in the retrieved sentences).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les violences physiques ou morales, sexuelles et psychologiques exercées au sein de la collectivité y compris le viol, les agressions et atteintes sexuelles, le harcèlement sexuel tel que prévu par la loi 2006- LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes 19 du 05 septembre 2006 portant répression du harcèlement sexuel et protection des victimes en République du Bénin et l’intimidation au travail, dans les établissements d’enseignement et autres lieux, le proxénétisme, la traite, la prostitution forcée.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "forced prostitution: the act of causing one or more persons to perform one or more acts of a sexual nature, by force, by threat of force or coercion or by taking advantage of the incapacity of said persons to give their consent freely in order to obtain a pecuniary or other advantage; procuring: the activity of one who facilitates the debauchery of others by serving as an intermediary, thereby deriving benefit from the fruits of this activity; forced sterilization: the act of committing or causing to be committed on a woman without her free consent or without a justified medical decision, an act likely to deprive her of her biological and organic reproductive capacity; rape: any act of vaginal, anal or oral penetration by another person's sex organ or vaginal or anal penetration by any object without the intelligent and voluntary consent of the penetrated person.\nArticle 34: Forced prostitution as defined in Article 3 of this",
+      "rationale": "The law defines forced prostitution in operative definitions and includes an operative criminal penalty provision for forced prostitution, which constitutes a clear sexual-exploitation nexus under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "prostitution forcée : le fait d’amener une ou plusieurs personnes à accomplir un acte ou plusieurs actes de nature sexuelle, par la force, par la menace de la force ou de la coercition ou encore en profitant de l’incapacité desdites personnes à donner librement leur consentement en vue d’obtenir un avantage pécuniaire ou autres ; proxénétisme : l’activité de celui ou celle qui favorise la débauche d’autrui en servant d’intermédiaire, tirant de ce fait bénéfice des fruits de cette activité ; stérilisation forcée : le fait de commettre ou de faire commettre sur une femme sans son libre consentement ou sans une décision médicale justifiée, un acte de nature à la priver de sa capacité biologique et organique de reproduction ; viol : tout acte de pénétration vaginale, anale ou buccale par le sexe d’autrui ou la pénétration vaginale ou anale par un quelconque objet sans le consentement intelligent et volontaire de la personne pénétrée.\n\nArticle 34 : La prostitution forcée comme définie à l’article 3 de la présente",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "verification before their market release of the compliance with the law, of cinematographic works: video cassettes, DVDs, internet broadcasting and any medium for broadcasting pornographic scenes.",
+      "rationale": "The framework includes an operative provision addressing pornographic content distributed via “internet broadcasting” and other media, indicating regulation of at least one technology-facilitated harm (pornographic content dissemination) rather than merely using technology for service delivery.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "la vérification avant leur mise sur le marché de la conformité à la loi, des œuvres cinématographiques : vidéo cassette, DVD, diffusion par internet et tout support de diffusion de scènes pornographiques.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Article 35: Forced sterilization as defined in Article 3 of this\nlaw is punished by imprisonment of one (01) year to five (05) years and a\nArticle 32: Psychological violence as defined in Article 3 of this",
+      "rationale": "The candidate sentences include operative provisions that attach specific criminal sanctions (imprisonment and/or fines) to forms of violence against women defined in the law (e.g., forced sterilization and psychological violence), satisfying the requirement for criminal penalties tied to VAW-related offences.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 35 : La stérilisation forcée comme définie à l’article 3 de la présente\n\nloi est punie d’un emprisonnement de un (01) an à cinq (05) ans et d’une\n\nArticle 32 : Les violences psychologiques comme définies à l’article 3 de la",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences specify a protection/restraining order mechanism with the required elements (who may apply, issuing authority, duration, and consequence for breach). Provisions about temporary occupation of the dwelling or other protective measures do not establish an order process or breach consequences as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text refers to strengthening capacities of judicial police officers so cases are handled in each police station or gendarmerie brigade, but it does not designate a specific specialised unit/desk/division within police services for VAW victims. Therefore it does not meet the criterion’s requirement to establish/mandate a specialised police unit.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "Each public prosecutor's office must designate at least one of its trained members who shall be responsible for representing the public prosecution service in all domestic and sexual violence cases.\nEach court of first instance must designate at least one investigating judge who shall be responsible for investigating all domestic and sexual violence cases.",
+      "rationale": "The candidate sentences require each public prosecutor’s office to designate a trained member responsible for domestic and sexual violence cases and each court of first instance to designate an investigating judge responsible for investigating such cases. This constitutes a designated specialised judicial officer/procedure for VAW-related cases under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Chaque parquet doit désigner au moins l’un de ses membres formé qui sera chargé de représenter le ministère public dans tous les dossiers de violences domestiques et sexuelles.\n\nChaque tribunal de première instance doit désigner au moins un juge d’instruction qui sera chargé d’instruire tous les dossiers de violences domestiques et sexuelles.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "Yes",
+      "evidence": "The fact of being married to the penetrated person is not an excuse for the crime of rape; violence in the family environment: abuse of power or intentional negligence with a view to dominating, subjugating, controlling or assaulting women physically, verbally, psychologically, patrimonially, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes economically and sexually, inside or outside the family home, whether the aggressor is or has been linked to their victim by kinship relations, by blood or by marriage, by marriage relations, by cohabitation or whether they maintain or have maintained a de facto relationship with them; violence in the professional environment: refusal, in violation of the law, to hire the victim by contract, to maintain their employment or to respect the general working conditions; depreciation of work performed, threats, intimidation, humiliations, exploitation and any type of distraction based on sex; domestic violence: any physical or sexual violence committed by a person against the person of another when the two parties are married, cohabiting, or consanguineous, or living in the same house, or when the two parties have had an intimate relationship in the past, but are no longer together; economic violence: the act of using one's means to slow down or prevent the economic or financial development of any person, or the act of preventing any person from enjoying their socio-economic rights; patrimonial violence: any act or negligence affecting the survival of the victim and consisting of transforming, removing, destroying, retaining or misappropriating objects, personal documents, goods and valuables, patrimonial rights or economic resources intended to cover their needs and which may extend to damage caused to property common to or owned by the victim; physical violence: any type of act resulting in non-accidental harm, through the use of physical force or any type of weapon or object that may or may not cause internal, external or both injuries; psychological or moral violence: the act of subjecting any person to repeated actions or words having the object or effect of degrading living conditions likely to undermine their rights and dignity, to impair their physical or mental health or to compromise their plans or future.",
+      "rationale": "The candidate sentences explicitly state that being married to the penetrated person is not an excuse for the crime of rape, which directly removes a spousal exemption/defence for rape and thus recognises marital rape as prosecutable.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "violence dans le milieu familial : abus de pouvoir ou négligence intentionnelle en vue de dominer, soumettre, contrôler ou agresser les femmes de manière physique, verbale, psychologique, patrimoniale, LOI N°2011-26 DU 09 JANVIER 2012 portant prévention et répression des violences faites aux femmes économique et sexuelle, à l’intérieur comme à l’extérieur du domicile familial, que l’agresseur soit lié ou ait été lié à sa victime par des relations de parenté, par le sang ou par alliance, des relations de mariage, de concubinage ou qu’il entretienne ou ait entretenu avec elle une relation de fait ; violence dans le milieu professionnel : refus, en violation de la loi, d’embaucher la victime par contrat, de maintenir son emploi ou de respecter les conditions générales de travail ; dépréciation du travail effectué, menaces, intimidation, humiliations, exploitation et tout type de distraction basée sur le sexe ; violence domestique : toute violence physique ou sexuelle faite par une personne contre la personne d’autrui quand les deux parties sont mariées, concubines, ou consanguines, ou qu’elles vivent dans la même maison, ou quand les deux parties ont eu une relation intime dans le passé, mais ne sont plus ensemble ; violence économique : le fait d’user de ses moyens pour ralentir ou empêcher l’épanouissement économique ou financier de toute personne, ou le fait d’empêcher toute personne de jouir de ses droits socio-économiques ;",
+      "evidence_original_aligned": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Article 7: The ministries in charge of national education in collaboration",
+      "rationale": "The framework explicitly requires collaboration among multiple ministries (education, family, justice) to adopt measures for mandatory training related to gender equality and combating violence against women, which constitutes an inter-ministerial coordination requirement even if no dedicated coordinating body or committee is created.",
+      "coverage": "Referenced only",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 7 : Les ministères en charge de l’éducation nationale en collaboration",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited provisions establish or mandate collection, recording, monitoring, reporting, management, or exchange of data on violence against women cases or victims. The cited reporting requirement concerns a government report to the National Assembly on policy implementation, which is ordinary policy reporting and does not clearly involve a VAW data system or case-data function as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences address gender equality as a priority and include gender-equality content in education/training, but they do not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming mandate, focal points, working groups, or integration into planning/budgeting) for implementing VAW policies and programs.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 9: The State, local authorities and/or private structures\nArticle 16: The initial and continuing training of all judicial\nArticle 14: The initial and continuing training of all",
+      "rationale": "The framework mandates supplementary/continuing training for professionals involved in combating violence against women and requires initial and continuing training for judicial/parajudicial and health/medico-social professionals on violence against women, satisfying the requirement for training/capacity building for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 9 : L’Etat, les collectivités territoriales et/ou les structures privées\n\nArticle 16 : La formation initiale et continue de tous les professionnels\n\nArticle 14 : La formation initiale et continue de tous les professionnels de",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 28: The Government presents during the first",
+      "rationale": "The framework requires the Government to present a report to the National Assembly accounting for implementation of its policy on combating violence against women, which constitutes a specific monitoring/reporting requirement for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 28 : Le Gouvernement présente au cours de la première session",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "In all cases of rape, the justice system must request competent health structures for the purpose of mandatory HIV/AIDS screening test and any other sexually transmitted infection for the victim and its perpetrator in order to assess the possibility of contamination that would create more harm to the victim.\nThe costs are borne by the State.",
+      "rationale": "The framework specifies that in rape cases mandatory HIV/STI screening tests for the victim and perpetrator are requested and that the costs are borne by the State, which is a binding funding obligation for a component of VAW response services.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "Dans tous les cas de viol, la justice doit requérir les structures sanitaires compétentes aux fins de test de dépistage obligatoire du VIH/SIDA et toute autre infection sexuellement transmissible pour la victime et son auteur afin d’apprécier l’éventualité d’une contamination qui créerait plus de préjudice à la victime.\n\nLes frais sont mis à la charge de l’Etat.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "Article 18: In each department, social promotion centers\nmust take care of women victims of violence for the purpose of providing them with emergency, reception and assistance social services.\nThese services are organized in such a way as to respond to urgent needs and to provide lasting multidisciplinary support.",
+      "rationale": "The law mandates that, in each department, social promotion centers must take care of women victims of violence and provide emergency, reception, and assistance social services organized to provide lasting multidisciplinary support—an operative, designated mechanism coordinating multiple services for women victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 18 : Dans chaque département, les centres de promotion sociale\n\ndoivent prendre en charge les femmes victimes de violences aux fins de leur faire bénéficier des services sociaux d’urgence, d’accueil et d’assistance.\n\nCes services sont organisés de façon à répondre aux besoins urgents et à apporter un soutien pluridisciplinaire durable.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions establish multidisciplinary social services and designate trained judicial actors, but none of the candidate sentences establish or mandate a hotline, helpline, complaint intake service, or other explicit reporting/assistance channel through which victims can report violence or seek emergency support.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "threatened with forced or arranged marriage, young girls in care, sexually abused are considered as priority in access to reception centers.\nIn case of domestic or marital violence where both parties occupy the same dwelling, the assaulted party shall have the right to continue to occupy the dwelling temporarily.",
+      "rationale": "The framework provides accommodation-related protection by prioritizing women victims of violence in access to reception centers and granting the assaulted party the right to continue to occupy the dwelling temporarily in cases of domestic or marital violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "menacées de mariage forcé ou arrangé, les jeunes filles placées, abusées sexuellement sont considérées comme prioritaires dans l’accès aux centres d’accueil.\n\nEn cas de violences domestiques ou conjugales où les deux parties occupent le même logement, la partie violentée aura droit à continuer à occuper provisoirement le logement.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "follow-up of legal and administrative procedures;",
+      "rationale": "Within the mandated multidisciplinary services for women victims of violence, the framework includes follow-up of legal and administrative procedures, which constitutes an operative provision for legal assistance/support as part of victim services.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "le suivi des démarches juridiques et administratives ;",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 13: The State has the obligation to promote through\nTo this end, it must develop awareness, initial and continuing training programs for socio-health personnel with the aim of improving clinical and psychological care and helping in the rehabilitation of women victims.\nIn all cases of rape, the justice system must request competent health structures for the purpose of mandatory HIV/AIDS screening test and any other sexually transmitted infection for the victim and its perpetrator in order to assess the possibility of contamination that would create more harm to the victim.\nThe costs are borne by the State.",
+      "rationale": "The law obligates the State, through socio-health structures, to improve clinical and psychological care for women victims and requires competent health structures to conduct mandatory HIV/STI screening in rape cases with costs borne by the State—an explicit, operative health-service response linked to VAW victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 13: L’Etat a l’obligation de promouvoir à travers les structures\n\nA cet effet, il doit développer des programmes de sensibilisation, de formation initiale et continue du personnel socio-sanitaire dans le but d’améliorer la prise en charge clinique, psychologique et d’aider à la réhabilitation des femmes victimes.\n\nDans tous les cas de viol, la justice doit requérir les structures sanitaires compétentes aux fins de test de dépistage obligatoire du VIH/SIDA et toute autre infection sexuellement transmissible pour la victime et son auteur afin d’apprécier l’éventualité d’une contamination qui créerait plus de préjudice à la victime.\n\nLes frais sont mis à la charge de l’Etat.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "psychological and psychiatric support;",
+      "rationale": "The mandated multidisciplinary services for women victims of violence explicitly include psychological and psychiatric support, which directly constitutes psychosocial/psychological support services in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "le soutien psychologique et psychiatrique ;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious leaders or institutions in providing victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "These services are organized in such a way as to respond to urgent needs and to provide lasting multidisciplinary support.\nsupport for training and professional integration;",
+      "rationale": "The services for women victims are organized to provide lasting multidisciplinary support and explicitly include support for training and professional integration, which are longer-term recovery/reintegration measures for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ces services sont organisés de façon à répondre aux besoins urgents et à apporter un soutien pluridisciplinaire durable.\n\nle soutien à la formation et à l’insertion professionnelle ;",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on victim services, training of professionals, and criminal/legal handling of cases, but do not establish or provide any perpetrator-focused intervention, rehabilitation, treatment, counselling, or behaviour-change programme.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "To this end, principles and teachings of mutual respect between the sexes, learning to live together, rejection and condemnation of violence, development of critical thinking and analysis against violence and all inequalities between women and men, will be taken into account in education programs.\nwith the ministry in charge of the family and the ministry of justice adopt the necessary measures so that in the initial training programs of the teaching staff is mandatorily included and subject to evaluation a specific training policy on gender equality and the fight against violence against women, with the aim of ensuring that it acquires the necessary knowledge and techniques enabling it to ensure:",
+      "rationale": "The cited operative provisions require education/training content explicitly addressing violence against women, including rejection/condemnation of violence and a mandatory teacher-training policy on gender equality and the fight against violence against women, which constitutes information/education activities directed at VAW as prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "A cet effet, des principes et des enseignements de respect mutuel entre les sexes, d’apprentissage de la vie en commun, de rejet et de condamnation des violences, de développement de l’esprit critique et d’analyse contre les violences et l’ensemble des inégalités femmes-hommes, seront pris en compte dans les programmes d’enseignement.\n\navec le ministère en charge de la famille et le ministère de la justice adoptent les mesures nécessaires pour que dans les programmes de formation initiale du corps professoral soit incluse obligatoirement et soumise à évaluation une politique de formation spécifique en matière d’égalité femme/homme et de lutte contre les violences à l’encontre des femmes, dans le but de s’assurer qu’il acquiert les connaissances et les techniques nécessaires lui permettant d’assurer :",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "To this end, principles and teachings of mutual respect between the sexes, learning to live together, rejection and condemnation of violence, development of critical thinking and analysis against violence and all inequalities between women and men, will be taken into account in education programs.\nwith the ministry in charge of the family and the ministry of justice adopt the necessary measures so that in the initial training programs of the teaching staff is mandatorily included and subject to evaluation a specific training policy on gender equality and the fight against violence against women, with the aim of ensuring that it acquires the necessary knowledge and techniques enabling it to ensure:",
+      "rationale": "The policy includes operative education/training measures specifically on equality between women and men (gender equality), including requiring that such principles be taken into account in education programs and mandating a teacher-training policy on gender equality (linked in the same provision to fighting violence against women).",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "A cet effet, des principes et des enseignements de respect mutuel entre les sexes, d’apprentissage de la vie en commun, de rejet et de condamnation des violences, de développement de l’esprit critique et d’analyse contre les violences et l’ensemble des inégalités femmes-hommes, seront pris en compte dans les programmes d’enseignement.\n\navec le ministère en charge de la famille et le ministère de la justice adoptent les mesures nécessaires pour que dans les programmes de formation initiale du corps professoral soit incluse obligatoirement et soumise à évaluation une politique de formation spécifique en matière d’égalité femme/homme et de lutte contre les violences à l’encontre des femmes, dans le but de s’assurer qu’il acquiert les connaissances et les techniques nécessaires lui permettant d’assurer :",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes training/awareness on violence against women and services such as 'information for victims', none of the candidate sentences explicitly provide for dissemination/education/awareness about laws, regulations, policies, or legal protections concerning VAW as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "To this end, principles and teachings of mutual respect between the sexes, learning to live together, rejection and condemnation of violence, development of critical thinking and analysis against violence and all inequalities between women and men, will be taken into account in education programs.\nSimilarly, the education system will include, in its quality principles, the elimination of obstacles that make full equality between men and women difficult and especially violence against women.\nwith the ministry in charge of the family and the ministry of justice adopt the necessary measures so that in the initial training programs of the teaching staff is mandatorily included and subject to evaluation a specific training policy on gender equality and the fight against violence against women, with the aim of ensuring that it acquires the necessary knowledge and techniques enabling it to ensure:",
+      "rationale": "The operative provisions explicitly embed anti-violence and equality teachings in education programs and state that the education system’s quality principles include eliminating obstacles to equality, especially violence against women, alongside mandating teacher training on gender equality and the fight against violence against women—thereby identifying education/curricula/quality principles as prevention-related measures addressing VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "A cet effet, des principes et des enseignements de respect mutuel entre les sexes, d’apprentissage de la vie en commun, de rejet et de condamnation des violences, de développement de l’esprit critique et d’analyse contre les violences et l’ensemble des inégalités femmes-hommes, seront pris en compte dans les programmes d’enseignement.\n\nDe même, le système éducatif inclura, dans ses principes de qualité, l’élimination des obstacles qui rendent difficiles l’entière égalité entre les hommes et les femmes et tout spécialement les violences à l’encontre des femmes.\n\navec le ministère en charge de la famille et le ministère de la justice adoptent les mesures nécessaires pour que dans les programmes de formation initiale du corps professoral soit incluse obligatoirement et soumise à évaluation une politique de formation spécifique en matière d’égalité femme/homme et de lutte contre les violences à l’encontre des femmes, dans le but de s’assurer qu’il acquiert les connaissances et les techniques nécessaires lui permettant d’assurer :",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss gender equality education and combating violence against women generally, but do not explicitly establish prevention activities that specifically target or engage men and/or boys (e.g., programmes aimed at changing male norms/behaviours/masculinities) to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The advent of this law constitutes the success of all the different actors who contributed to it, I would like to mention: civil society, the national representation, the Ministry of Family and the Government without forgetting the development partners who work for the cause of women in Benin.",
+      "rationale": "The only candidate sentence mentioning civil society/NGOs appears in the Preface and credits civil society as an actor that contributed to the law, but it does not establish an operative requirement or mechanism for collaboration in VAW prevention/response.",
+      "coverage": "Referenced only",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "L’avènement de cette loi constitue le succès de tous les différents acteurs qui y ont contribué, je voudrais citer : la société civile, la représentation nationale, le Ministère de la Famille et le Gouvernement sans oublier les partenaires au développement qui travaillent pour la cause de la femme au Bénin.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss traditional practices harmful to women and cultural/religious reasons in definitions, but they do not establish or require engagement/collaboration with religious or traditional leaders/organisations for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "University administrations and competent schools must ensure that these training contents are included in the training program for judicial and parajudicial professionals, armed forces, public security forces and equivalent personnel.\nUniversity administrations and competent schools must ensure that these training contents are included in the training program for medical, paramedical and social professionals.\nArticle 8: Public or private schools must provide for immediate enrollment,",
+      "rationale": "Operative provisions assign responsibilities to education institutions: university administrations/competent schools must ensure VAW-related training content is included in professional training programs, and public/private schools must provide immediate enrollment for girls who are victims of violence and forced to change residence. These provisions directly involve education institutions in prevention/response measures.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les administrations universitaires et les écoles compétentes doivent s’assurer que dans le programme de formation des professionnels judiciaires, parajudiciaires, des forces armées, de sécurité publique et assimilés sont inclus ces contenus de formation.\n\nLes administrations universitaires et les écoles compétentes doivent s’assurer que dans le programme de formation des professionnels médicaux, paramédicaux et sociaux, sont inclus ces contenus de formation.\n\nArticle 8 : L’école publique ou privée doit prévoir la scolarisation immédiate,",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "Document published with the support of the",
+      "rationale": "The only relevant candidate sentence indicates the document was published with the support of an international organisation (UNDP), but it does not create an operative cooperation mechanism or requirement within the law itself.",
+      "coverage": "Referenced only",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "Document édité avec le soutien du",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 11: The High Authority for Audiovisual and Communication (HAAC)\nThe specifications of broadcasters will mandatorily include these principles.\nIt must exercise its sanctioning power over the media concerned.",
+      "rationale": "Operative provisions impose VAW-relevant obligations on media via the media regulator (HAAC), including ensuring equitable representation and avoiding degrading/sexist stereotypes, requiring these principles in broadcasters’ specifications, and exercising sanctioning power. This establishes formal engagement with media actors in prevention of harmful norms linked to VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 11 : La Haute Autorité de l’Audiovisuel et de la Communication(HAAC)\n\nLe cahier des charges des diffuseurs inclura obligatoirement ces principes.\n\nElle doit exercer son pouvoir de sanction sur les médias mis en cause.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish community/public participation mechanisms for VAW prevention/response. References to violence occurring “within the community” describe contexts of violence rather than requiring engagement with communities or the public.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "Article 23: The head of the company must take all necessary measures",
+      "rationale": "An operative provision places duties on the head of a company to take measures to prevent/end/sanction sexist or sexually connoted behavior and to implement procedures and interim measures, which constitutes private-sector participation in preventing/responding to gender-based/sexist conduct relevant to VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Article 23 : Le chef d’entreprise doit prendre toutes dispositions nécessaires",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention that certain costs are borne by the State and refer to roles for local authorities, but they do not specify any funding or budget source coming from a local government budget.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "The costs are borne by the State.",
+      "rationale": "The policy explicitly assigns financial responsibility to the State by stating that costs are borne by the State, which constitutes a national government funding source.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les frais sont mis à la charge de l’Etat.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "Document published with the support of the\nUnited Nations Development Programme",
+      "rationale": "The policy explicitly notes that the document was published with the support of the United Nations Development Programme, indicating international organizational support related to the policy.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Document édité avec le soutien du\n\nProgramme des Nations Unies pour le développement",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss responsibilities, definitions, and that costs are borne by the State, and they reference other laws as legal context, but they do not identify any non-governmental/other legal funding or budget source (e.g., earmarked funds, levies, fines, or other legally established funding mechanisms) as a budget source.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention any provincial-level budget source. References to departments and local authorities do not specify provincial government budget funding.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 32,
+    "resolved": 32,
+    "rate": 1.0
+  }
+}

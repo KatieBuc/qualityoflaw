@@ -10,3 +10,9 @@ PyYAML==6.0.3
 rank-bm25==0.2.2
 requests==2.34.2
 scikit-learn==1.9.0
+# Stage 1 (input_process): text extraction from PDF / HTML
+pdfplumber==0.11.9
+trafilatura==2.1.0
+beautifulsoup4==4.15.0
+lxml==6.1.1
+lxml_html_clean==0.4.5

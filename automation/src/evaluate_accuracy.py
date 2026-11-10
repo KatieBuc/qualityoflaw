@@ -12,12 +12,13 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 from automation.src.confidence_report import (
     CONFIDENCE_METHOD_PREFIX,
+    COVERAGE_METHOD_PREFIX,
     STATUS_NO_DATA,
     build_confidence_report,
     build_low_confidence_frame,
     write_confidence_report,
 )
-from automation.src.config_loader import ConfidenceReportConfig
+from automation.src.config_loader import DEFAULT_COVERAGE_LABELS, ConfidenceReportConfig
 from automation.src.criteria import get_indicator_dimension
 
 
@@ -74,14 +75,48 @@ def deduplicate_reports(reports: list[tuple[datetime, str, dict]]) -> list[tuple
     return list(latest_by_policy.values())
 
 
-def reports_to_dataframe(reports: list[tuple[datetime, str, dict]]) -> pd.DataFrame:
+def coverage_level(included: str | None, coverage: str | None, labels: tuple[str, ...]) -> float:
+    """0 for No, otherwise the rank of the coverage label: the first label is the highest level.
+
+    With the default labels (Substantive, Referenced only): No = 0, Referenced only = 1, Substantive = 2. A Yes whose
+    coverage is missing or unknown has no level (NaN) rather than a guessed one.
+    """
+    if included != "Yes":
+        return 0.0
+    for index, label in enumerate(labels):
+        if coverage is not None and str(coverage).lower() == label.lower():
+            return float(len(labels) - index)
+    return float("nan")
+
+
+def reports_to_dataframe(
+    reports: list[tuple[datetime, str, dict]],
+    coverage_labels: tuple[str, ...] = DEFAULT_COVERAGE_LABELS,
+) -> pd.DataFrame:
     llm_data = []
     for _, file_path, data in reports:
         filename = data.get("policy_file")
         eval_results = data.get("evaluation_results", {})
         for _, details in eval_results.items():
+            # Reports of a run with `evaluation.coverage` on carry a second answer with a confidence of its own.
+            # It is added as separate columns, only when present, so the Yes / No columns never change.
+            coverage_columns = {}
+            if "coverage" in details:
+                coverage_columns = {
+                    "pred_coverage": details.get("coverage"),
+                    "pred_level": coverage_level(details.get("included"), details.get("coverage"), coverage_labels),
+                    "coverage_confidence": details.get("coverage_confidence"),
+                    "coverage_confidence_source": details.get("coverage_confidence_source"),
+                    "coverage_answer_logprob": details.get("coverage_answer_logprob"),
+                    "coverage_margin": details.get("coverage_margin"),
+                    **{
+                        f"{COVERAGE_METHOD_PREFIX}{method}": score
+                        for method, score in (details.get("coverage_confidence_scores") or {}).items()
+                    },
+                }
             llm_data.append(
                 {
+                    **coverage_columns,
                     "filename": filename,
                     "indicator_id": str(details.get("id")),
                     "pred_value": 1.0 if details.get("included") == "Yes" else 0.0,
@@ -342,6 +377,11 @@ def calculate_metrics(
         on=["filename", "indicator_id"],
         how="inner",
     )
+    if (merged_df["value"] > 1).any():
+        # A golden with levels (0 / 1 / 2): the Yes / No comparison sees "covered at all"; the level itself is kept
+        # for the independent coverage analysis of the confidence report.
+        merged_df["golden_level"] = merged_df["value"]
+        merged_df["value"] = (merged_df["value"] > 0).astype(float)
 
     duplicate_pairs = merged_df.duplicated(["filename", "indicator_id"]).sum()
     if duplicate_pairs:

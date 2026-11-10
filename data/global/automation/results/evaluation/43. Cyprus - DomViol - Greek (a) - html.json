@@ -1,0 +1,965 @@
+{
+  "policy_file": "43. Cyprus - DomViol - Greek (a) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T00:09:40.386977+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "7.—(1) An Advisory Committee is established for the purpose of prevention and combating of domestic violence.\n3.—(1) Violence, for the purposes of this Law, means any act, omission or behaviour by which physical, sexual or psychological harm is caused to any family member by another family member and includes violence exercised for the purpose of achieving sexual contact without the victim's consent, as well as the restriction of his freedom.",
+      "rationale": "The candidate sentences include operative provisions explicitly referring to domestic violence (e.g., establishing an Advisory Committee for prevention and combating of domestic violence) and define/cover violence within the family (violence by one family member against another), creating legal consequences and institutional responsibilities.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "7.—(1) Συνιστάται Συμβουλευτική Επιτροπή με σκοπό την πρόληψη και καταπολέμηση της βίας στην οικογένεια.\n\n3.—(1) Βία, για τους σκοπούς του Νόμου αυτού, σημαίνει οποιαδήποτε πράξη, παράλειψη ή συμπεριφορά με την οποία προκαλείται σωματική, σεξουαλική ή ψυχική βλάβη σε οποιοδήποτε μέλος της οικογένειας από άλλο μέλος της οικογένειας και περιλαμβάνει και τη βία που ασκείται με σκοπό την επίτευξη σεξουαλικής επαφής χωρίς τη συγκατάθεση του θύματος, καθώς επίσης και τον περιορισμό της ελευθερίας του.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "3.—(1) Violence, for the purposes of this Law, means any act, omission or behaviour by which physical, sexual or psychological harm is caused to any family member by another family member and includes violence exercised for the purpose of achieving sexual contact without the victim's consent, as well as the restriction of his freedom.\n5. Notwithstanding the provisions of any law, the offenses of rape, according to articles 144 and 145 of the Criminal Code, and attempted rape, according to article 146 of the same Code, may be considered to have been committed by a spouse against a spouse, if, based on the facts of the case, these offenses would be constituted, in the event that the perpetrator and the victim were not married, and are punished according to the provisions of the Criminal Code.",
+      "rationale": "The text includes sexual harm and non-consensual sexual contact within the operative definition of violence, and also contains an operative provision addressing rape (including spousal rape) by reference to Criminal Code offences, indicating substantive legal coverage of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "3.—(1) Βία, για τους σκοπούς του Νόμου αυτού, σημαίνει οποιαδήποτε πράξη, παράλειψη ή συμπεριφορά με την οποία προκαλείται σωματική, σεξουαλική ή ψυχική βλάβη σε οποιοδήποτε μέλος της οικογένειας από άλλο μέλος της οικογένειας και περιλαμβάνει και τη βία που ασκείται με σκοπό την επίτευξη σεξουαλικής επαφής χωρίς τη συγκατάθεση του θύματος, καθώς επίσης και τον περιορισμό της ελευθερίας του.\n\n5. Παρά τις διατάξεις οποιουδήποτε νόμου, τα αδικήματα του βιασμού, σύμφωνα με τα άρθρα 144 και 145 του Ποινικού Κώδικα, και της απόπειρας βιασμού, σύμφωνα με το άρθρο 146 του ίδιου Κώδικα, δύναται να θεωρηθεί ότι έχουν διαπραχθεί από σύζυγο εναντίον συζύγου, αν, με βάση τα γεγονότα της υπόθεσης, θα στοιχειοθετούνταν τα αδικήματα αυτά, σε περίπτωση που ο δράστης και το θύμα δεν ήταν συζευγμένοι, και τιμωρούνται σύμφωνα με τις διατάξεις του Ποινικού Κώδικα.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "3.—(1) Violence, for the purposes of this Law, means any act, omission or behaviour by which physical, sexual or psychological harm is caused to any family member by another family member and includes violence exercised for the purpose of achieving sexual contact without the victim's consent, as well as the restriction of his freedom.",
+      "rationale": "The operative definition of violence explicitly includes physical harm caused by one family member to another, which constitutes substantive coverage of physical violence within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "3.—(1) Βία, για τους σκοπούς του Νόμου αυτού, σημαίνει οποιαδήποτε πράξη, παράλειψη ή συμπεριφορά με την οποία προκαλείται σωματική, σεξουαλική ή ψυχική βλάβη σε οποιοδήποτε μέλος της οικογένειας από άλλο μέλος της οικογένειας και περιλαμβάνει και τη βία που ασκείται με σκοπό την επίτευξη σεξουαλικής επαφής χωρίς τη συγκατάθεση του θύματος, καθώς επίσης και τον περιορισμό της ελευθερίας του.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "3.—(1) Violence, for the purposes of this Law, means any act, omission or behaviour by which physical, sexual or psychological harm is caused to any family member by another family member and includes violence exercised for the purpose of achieving sexual contact without the victim's consent, as well as the restriction of his freedom.\n(3) An act or behaviour which constitutes violence, on the basis of subsections (1) and (2) of this article, or an offence, on the basis of articles 174, 175 and 177 of the Criminal Code when committed in the presence of a minor family member, is deemed to be violence exercised against the said minor insofar as it is capable of causing psychological harm to him.",
+      "rationale": "The operative definition of violence includes psychological harm, and the text further treats conduct causing psychological harm to a minor (including witnessing violence) as violence with offence consequences, indicating substantive coverage of psychological violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "3.—(1) Βία, για τους σκοπούς του Νόμου αυτού, σημαίνει οποιαδήποτε πράξη, παράλειψη ή συμπεριφορά με την οποία προκαλείται σωματική, σεξουαλική ή ψυχική βλάβη σε οποιοδήποτε μέλος της οικογένειας από άλλο μέλος της οικογένειας και περιλαμβάνει και τη βία που ασκείται με σκοπό την επίτευξη σεξουαλικής επαφής χωρίς τη συγκατάθεση του θύματος, καθώς επίσης και τον περιορισμό της ελευθερίας του.\n\n(3) Πράξη ή συμπεριφορά η οποία συνιστά βία, με βάση τα εδάφια (1) και (2) του άρθρου αυτού, ή αδίκημα, με βάση τα άρθρα 174, 175 και 177 του Ποινικού Κώδικα όταν διαπράττεται στην παρουσία ανήλικου μέλους της οικογένειας, θεωρείται βία η οποία ασκείται εναντίον του εν λόγω ανηλίκου εφόσον δύναται να προκαλέσει σ' αυτό ψυχική βλάβη.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention investigation of the family’s financial situation in relation to an exclusion order, but do not define, prohibit, or classify economic violence/abuse/neglect as a form of violence, nor link deprivation of resources or neglect to violence against women with legal consequences.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative prevention/protection measures specific to such practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they provide any femicide-specific aggravation, classification, monitoring, or prevention measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address violence in the family and related procedures and protections, but do not mention trafficking in persons/human trafficking or trafficking victims, nor define or criminalise trafficking-related exploitation.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text covers sexual harm and certain sexual offences (e.g., rape/indecent assault) within family violence, it does not mention sexual exploitation, sexual slavery, forced prostitution, or any explicit sexual-exploitation nexus as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference video-recorded testimony and related evidentiary rules, but do not recognise or prohibit cyber/online/digital forms of violence (e.g., cyber harassment, online sexual exploitation) as a form of violence; the technology references are procedural rather than technology-facilitated violence.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(4) Any person who exercises violence on the basis of subsection (1) commits an offence under this Law, which is punishable, except in the case of common assault which is punishable by two years' imprisonment and in the case where a more severe penalty is provided in another law or in this Law, with imprisonment of up to five years or with a fine of up to three thousand pounds or with both penalties.",
+      "rationale": "The text explicitly establishes that exercising violence constitutes an offence and specifies criminal sanctions (imprisonment and/or fine), thereby creating criminal penalties for violence covered by the law.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Οποιοσδήποτε ασκεί βία με βάση το εδάφιο (1) διαπράττει αδίκημα δυνάμει του Νόμου αυτού, που τιμωρείται, εκτός από την περίπτωση της κοινής επίθεσης που τιμωρείται με δύο χρόνια φυλάκιση και στην περίπτωση που σε άλλο ή στον παρόντα Νόμο προβλέπεται αυστηρότερη ποινή, με ποινή φυλάκισης μέχρι πέντε χρόνια ή με χρηματική ποινή μέχρι τρεις χιλιάδες λίρες ή και με τις δύο ποινές.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "22.—(1) The Court may, following an application by a member of the family or the police or the prosecutor or the Attorney General of the Republic or the Family Counsellor or another person acting on behalf of any of them, issue an interim exclusion order of the suspect or removal order of a minor victim, until a criminal case is registered and tried against the accused for a criminal offence of violence.\n(a) The interim order is valid for a period of up to eight days from the day of its service on the suspect and is returnable to the Court within that period at a time and day to be fixed by the Registrar.\n(7) A person against whom an exclusion order has been issued and while the said order is in force violates any of the terms contained therein commits an offence punishable by imprisonment of up to two years.",
+      "rationale": "The framework provides for court-issued interim exclusion orders upon application by specified actors, sets a defined validity period for the interim order, and criminalizes breach of an exclusion order with imprisonment, meeting the required elements for a protection/restraining order mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "22.—(1) Το Δικαστήριο δύναται, έπειτα από αίτηση μέλους της οικογένειας ή της αστυνομίας ή του κατηγόρου ή του Γενικού Εισαγγελέα της Δημοκρατίας ή του Οικογενειακού Συμβούλου ή άλλου προσώπου που ενεργεί για λογαριασμό οποιουδήποτε απ' αυτούς, να εκδώσει προσωρινό διάταγμα αποκλεισμού του υπόπτου ή απομάκρυνσης ανήλικου θύματος, μέχρις ότου καταχωρισθεί και εκδικαστεί ποινική υπόθεση εναντίον του κατηγορούμενου για ποινικό αδίκημα βίας.\n\n(3)(α) Το προσωρινό διάταγμα ισχύει για περίοδο μέχρι οκτώ ημερών από την ημέρα επίδοσής του στον ύποπτο και είναι επιστρεπτέο στο Δικαστήριο εντός της περιόδου αυτής σε ώρα και ημέρα που θα ορίσει ο Πρωτοκολλητής.\n\n(7) Πρόσωπο εναντίον του οποίου εκδόθηκε διάταγμα αποκλεισμού και ενώ το εν λόγω διάταγμα βρίσκεται σε ισχύ παραβαίνει οποιοδήποτε από τους όρους που περιλαμβάνονται σ' αυτό διαπράττει αδίκημα τιμωρούμενο με φυλάκιση μέχρι δύο έτη.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention police involvement and related roles (e.g., complaints to police officers, police applications to court, and a Family Counsellor who reports to police), but they do not designate or mandate a specific specialised unit/desk/division within police services for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "(3) Inquiries are conducted and the case is tried without delay.",
+      "rationale": "The framework establishes a special/expedited judicial procedure for violence cases by requiring that inquiries are conducted and the case is tried without delay, which constitutes a specialised procedure under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Οι ανακρίσεις διεξάγονται και η υπόθεση εκδικάζεται χωρίς καθυστέρηση.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "Yes",
+      "evidence": "5. Notwithstanding the provisions of any law, the offenses of rape, according to articles 144 and 145 of the Criminal Code, and attempted rape, according to article 146 of the same Code, may be considered to have been committed by a spouse against a spouse, if, based on the facts of the case, these offenses would be constituted, in the event that the perpetrator and the victim were not married, and are punished according to the provisions of the Criminal Code.",
+      "rationale": "The text expressly states that rape and attempted rape may be considered to have been committed by a spouse against a spouse and are punished under the Criminal Code, thereby explicitly removing any spousal exemption and recognizing marital rape as prosecutable.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Παρά τις διατάξεις οποιουδήποτε νόμου, τα αδικήματα του βιασμού, σύμφωνα με τα άρθρα 144 και 145 του Ποινικού Κώδικα, και της απόπειρας βιασμού, σύμφωνα με το άρθρο 146 του ίδιου Κώδικα, δύναται να θεωρηθεί ότι έχουν διαπραχθεί από σύζυγο εναντίον συζύγου, αν, με βάση τα γεγονότα της υπόθεσης, θα στοιχειοθετούνταν τα αδικήματα αυτά, σε περίπτωση που ο δράστης και το θύμα δεν ήταν συζευγμένοι, και τιμωρούνται σύμφωνα με τις διατάξεις του Ποινικού Κώδικα.",
+      "evidence_original_aligned": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "7.—(1) An Advisory Committee is established for the purpose of prevention and combating of domestic violence.\n(4) The Ministries and services referred to in subsection (2) of this article are—\nThe Ministry of Health; The Ministry of Justice and Public Order; The Ministry of Education and Culture (Educational Psychologist); The Social Welfare Services of the Ministry of Labour and Social Insurance; The Law Office; The Police.",
+      "rationale": "The law establishes a formal institutional coordination mechanism via an Advisory Committee for prevention/combating domestic violence, and specifies that its public-sector members are selected from multiple ministries and services, indicating cross-agency coordination through a designated body.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "7.—(1) Συνιστάται Συμβουλευτική Επιτροπή με σκοπό την πρόληψη και καταπολέμηση της βίας στην οικογένεια.\n\n(4) Τα Υπουργεία και οι υπηρεσίες που αναφέρονται στο εδάφιο (2) του άρθρου αυτού είναι— Το Υπουργείο Υγείας·\n\nΤο Υπουργείο Δικαιοσύνης και Δημοσίας Τάξεως· Το Υπουργείο Παιδείας και Πολιτισμού (Εκπαιδευτικός Ψυχολόγος)· Οι Υπηρεσίες Κοινωνικής Ευημερίας του Υπουργείου Εργασίας και Κοινωνικών Ασφαλίσεων· Η Νομική Υπηρεσία·",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "Specifically the Committee— (α) Monitors the problem of domestic violence in Cyprus; (β) proceeds with the information and enlightenment of the public and professionals by various means, including special conferences, training programs and seminars; (γ) promotes scientific research regarding domestic violence; (δ) promotes services for addressing all aspects of the problem of domestic violence; (ε) monitors the effectiveness of relevant services operating, as well as the implementation and observance of relevant legislation.\nThe Committee prepares and submits to the Minister and to the House of Representatives an annual report on its activities as a Committee.",
+      "rationale": "The framework assigns the Advisory Committee functions that include monitoring the problem of domestic violence, and requires the Committee to prepare and submit an annual report on its activities, which together constitute an explicit duty to monitor and report information related to violence cases/problems (even if not framed as a dedicated data system).",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ειδικότερα η Επιτροπή— (α) Παρακολουθεί το πρόβλημα της βίας στην οικογένεια στην Κύπρο· (β) προβαίνει στην ενημέρωση και διαφώτιση του κοινού και των επαγγελματιών με διάφορα μέσα, περιλαμβανομένων ειδικών συνεδριών, επιμορφωτικών προγραμμάτων και σεμιναρίων· (γ) προωθεί επιστημονικές έρευνες σχετικά με τη βία στην οικογένεια· (δ) προωθεί τις υπηρεσίες για την αντιμετώπιση όλων των πτυχών του προβλήματος της βίας στην οικογένεια· (ε) παρακολουθεί την αποτελεσματικότητα των σχετικών υπηρεσιών που λειτουργούν, καθώς και την εφαρμογή και τήρηση της σχετικής νομοθεσίας.\n\nΗ Επιτροπή ετοιμάζει και υποβάλλει στον Υπουργό και στη Βουλή των Αντιπροσώπων ετήσια έκθεση για τις δραστηριότητές της ως Επιτροπή.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly require or establish gender mainstreaming as an institutional mechanism, nor do they create gender mainstreaming focal points/working groups or integrate gender mainstreaming into planning/budgeting for violence prevention/response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Specifically the Committee— (α) Monitors the problem of domestic violence in Cyprus; (β) proceeds with the information and enlightenment of the public and professionals by various means, including special conferences, training programs and seminars; (γ) promotes scientific research regarding domestic violence; (δ) promotes services for addressing all aspects of the problem of domestic violence; (ε) monitors the effectiveness of relevant services operating, as well as the implementation and observance of relevant legislation.",
+      "rationale": "The Advisory Committee’s functions include public/professional information and enlightenment through conferences, training programs, and seminars, which provides for training activities connected to domestic violence prevention/combating.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ειδικότερα η Επιτροπή— (α) Παρακολουθεί το πρόβλημα της βίας στην οικογένεια στην Κύπρο· (β) προβαίνει στην ενημέρωση και διαφώτιση του κοινού και των επαγγελματιών με διάφορα μέσα, περιλαμβανομένων ειδικών συνεδριών, επιμορφωτικών προγραμμάτων και σεμιναρίων· (γ) προωθεί επιστημονικές έρευνες σχετικά με τη βία στην οικογένεια· (δ) προωθεί τις υπηρεσίες για την αντιμετώπιση όλων των πτυχών του προβλήματος της βίας στην οικογένεια· (ε) παρακολουθεί την αποτελεσματικότητα των σχετικών υπηρεσιών που λειτουργούν, καθώς και την εφαρμογή και τήρηση της σχετικής νομοθεσίας.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Specifically the Committee— (α) Monitors the problem of domestic violence in Cyprus; (β) proceeds with the information and enlightenment of the public and professionals by various means, including special conferences, training programs and seminars; (γ) promotes scientific research regarding domestic violence; (δ) promotes services for addressing all aspects of the problem of domestic violence; (ε) monitors the effectiveness of relevant services operating, as well as the implementation and observance of relevant legislation.\nThe Committee prepares and submits to the Minister and to the House of Representatives an annual report on its activities as a Committee.",
+      "rationale": "The law assigns the Advisory Committee monitoring functions, including monitoring the effectiveness of relevant services and implementation/observance of legislation, and also requires an annual report on Committee activities—together establishing a monitoring/reporting mechanism for implementation and service delivery.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ειδικότερα η Επιτροπή— (α) Παρακολουθεί το πρόβλημα της βίας στην οικογένεια στην Κύπρο· (β) προβαίνει στην ενημέρωση και διαφώτιση του κοινού και των επαγγελματιών με διάφορα μέσα, περιλαμβανομένων ειδικών συνεδριών, επιμορφωτικών προγραμμάτων και σεμιναρίων· (γ) προωθεί επιστημονικές έρευνες σχετικά με τη βία στην οικογένεια· (δ) προωθεί τις υπηρεσίες για την αντιμετώπιση όλων των πτυχών του προβλήματος της βίας στην οικογένεια· (ε) παρακολουθεί την αποτελεσματικότητα των σχετικών υπηρεσιών που λειτουργούν, καθώς και την εφαρμογή και τήρηση της σχετικής νομοθεσίας.\n\nΗ Επιτροπή ετοιμάζει και υποβάλλει στον Υπουργό και στη Βουλή των Αντιπροσώπων ετήσια έκθεση για τις δραστηριότητές της ως Επιτροπή.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "26.—(1) A Fund is established with the name \"Fund for Victims of Violence\" for the achievement and promotion of the purposes of this Law.\n(2) The revenue of the Committee comes from state grants, the amount of which is decided by the Council of Ministers.",
+      "rationale": "The framework establishes a dedicated Fund for Victims of Violence and provides that the Committee’s revenue comes from state grants decided by the Council of Ministers, indicating a specified funding mechanism/source to support the law’s purposes.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "26.—(1) Ιδρύεται Ταμείο με την επωνυμία \"Ταμείο Θυμάτων Βίας\" για την επίτευξη και προώθηση των σκοπών του Νόμου αυτού.\n\n(2) Τα έσοδα της Επιτροπής προέρχονται από κρατικές χορηγίες, το ύψος των οποίων αποφασίζεται από το Υπουργικό Συμβούλιο.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions establish roles such as the Family Counsellor and allow creation of multidisciplinary teams, but these are framed for domestic violence generally and/or for minors/other victims, and do not explicitly establish or recognise an integrated/one-stop service mechanism specifically for women victims/survivors of violence. References to a committee, fund, shelter permission, and consultation with “competent services” do not amount to an operative integrated service mechanism as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(2) The Family Counselor exercises the following powers: (α) Receives complaints regarding possible exercise of violence and conducts necessary investigations; (β) advises, guides and mediates for the mitigation of family problems that may have led or may lead to the exercise of violence; (γ) makes arrangements for the immediate medical examination of the complainant and where he deems it necessary accompanies him; (δ) makes a report to the Police for the investigation of any commission of a criminal offense; (ε) conducts upon instructions of the Court investigations regarding the financial situation of the family generally and the perpetrator specifically in the case that an exclusion order may be issued; (στ) conducts investigations and makes arrangements regarding the accommodation of the accused or his family in case of issuance of an exclusion order; (ζ) proceeds immediately with all necessary arrangements for medical or other examination of a child in respect of whom there is reasonable suspicion of abuse by a family member; (η) exercises any other power that the Minister assigns to him: (θ) in cases where a minor-",
+      "rationale": "The framework assigns a designated official (Family Counselor) the power to receive complaints regarding possible violence and conduct investigations, which constitutes an operative reporting/help-seeking mechanism for victims of violence (including women victims within the law’s scope).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Ο Οικογενειακός Σύμβουλος ασκεί τις πιο κάτω αρμοδιότητες: (α) Δέχεται παράπονα σχετικά με πιθανή άσκηση βίας και διεξάγει τις αναγκαίες έρευνες· (β) συμβουλεύει, καθοδηγεί και μεσολαβεί για την απάμβλυνση προβλημάτων της οικογένειας που πιθανόν να οδήγησαν ή δυνατό να οδηγήσουν στην άσκηση βίας· (γ) προβαίνει σε διευθετήσεις για την άμεση ιατρική εξέταση του παραπονούμενου και όπου κρίνει τούτο αναγκαίο τον συνοδεύει· (δ) προβαίνει σε καταγγελία στην Αστυνομία για τη διερεύνηση τυχόν διάπραξης ποινικού αδικήματος· (ε) διεξάγει κατόπιν οδηγιών του Δικαστηρίου έρευνες σχετικά με την οικονομική κατάσταση της οικογένειας γενικά και του δράστη ειδικά στην περίπτωση που ενδέχεται να εκδοθεί διάταγμα αποκλεισμού· (στ) διεξάγει έρευνες και προβαίνει σε διευθετήσεις σχετικά με τη διαμονή του κατηγορούμενου ή της οικογένειάς του σε περίπτωση έκδοσης διατάγματος αποκλεισμού· (ζ) προβαίνει άμεσα σε όλες τις απαραίτητες διευθετήσεις για ιατρική ή άλλη εξέταση παιδιού αναφορικά με το οποίο υπάρχει εύλογη υπόνοια κακοποίησής του από μέλος της οικογένειας· (η) ασκεί οποιαδήποτε άλλη αρμοδιότητα που ο Υπουργός αναθέτει σε αυτόν: (θ) στις περιπτώσεις κατά τις οποίες ανήλικο πρόσωπο-",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "The establishment and operation of a shelter for providing safe accommodation to victims of violence is permitted and in the case where a protection shelter operates by virtue of a certificate of suitability issued by the Minister by virtue of this article, the victims of violence residing in it receive legal protection from any harassment.",
+      "rationale": "The framework expressly recognises shelters by permitting the establishment and operation of a shelter providing safe accommodation to victims of violence, with additional legal protection for residents of certified shelters.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Επιτρέπεται η ίδρυση και λειτουργία στέγης για παροχή ασφαλούς διαμονής θυμάτων βίας και σε περίπτωση όπου στέγη προστασίας λειτουργεί δυνάμει πιστοποιητικού καταλληλότητας που εκδίδει ο Υπουργός δυνάμει του άρθρου αυτού, τα θύματα βίας που διαμένουν σ' αυτή τυγχάνουν νομικής προστασίας από οποιαδήποτε ενόχληση.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not establish legal aid/assistance/advice/representation for victims. Mentions of “legal protection” for shelter residents and the Fund’s legal personality are not provisions for legal assistance to victims, and no entitlement or service mechanism for legal aid is specified.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(2) The Family Counselor exercises the following powers: (α) Receives complaints regarding possible exercise of violence and conducts necessary investigations; (β) advises, guides and mediates for the mitigation of family problems that may have led or may lead to the exercise of violence; (γ) makes arrangements for the immediate medical examination of the complainant and where he deems it necessary accompanies him; (δ) makes a report to the Police for the investigation of any commission of a criminal offense; (ε) conducts upon instructions of the Court investigations regarding the financial situation of the family generally and the perpetrator specifically in the case that an exclusion order may be issued; (στ) conducts investigations and makes arrangements regarding the accommodation of the accused or his family in case of issuance of an exclusion order; (ζ) proceeds immediately with all necessary arrangements for medical or other examination of a child in respect of whom there is reasonable suspicion of abuse by a family member; (η) exercises any other power that the Minister assigns to him: (θ) in cases where a minor-",
+      "rationale": "The Family Counselor is assigned responsibility to arrange immediate medical examination of the complainant (and accompany them if necessary), which is an operative provision linking medical services to victims/complainants of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Ο Οικογενειακός Σύμβουλος ασκεί τις πιο κάτω αρμοδιότητες: (α) Δέχεται παράπονα σχετικά με πιθανή άσκηση βίας και διεξάγει τις αναγκαίες έρευνες· (β) συμβουλεύει, καθοδηγεί και μεσολαβεί για την απάμβλυνση προβλημάτων της οικογένειας που πιθανόν να οδήγησαν ή δυνατό να οδηγήσουν στην άσκηση βίας· (γ) προβαίνει σε διευθετήσεις για την άμεση ιατρική εξέταση του παραπονούμενου και όπου κρίνει τούτο αναγκαίο τον συνοδεύει· (δ) προβαίνει σε καταγγελία στην Αστυνομία για τη διερεύνηση τυχόν διάπραξης ποινικού αδικήματος· (ε) διεξάγει κατόπιν οδηγιών του Δικαστηρίου έρευνες σχετικά με την οικονομική κατάσταση της οικογένειας γενικά και του δράστη ειδικά στην περίπτωση που ενδέχεται να εκδοθεί διάταγμα αποκλεισμού· (στ) διεξάγει έρευνες και προβαίνει σε διευθετήσεις σχετικά με τη διαμονή του κατηγορούμενου ή της οικογένειάς του σε περίπτωση έκδοσης διατάγματος αποκλεισμού· (ζ) προβαίνει άμεσα σε όλες τις απαραίτητες διευθετήσεις για ιατρική ή άλλη εξέταση παιδιού αναφορικά με το οποίο υπάρχει εύλογη υπόνοια κακοποίησής του από μέλος της οικογένειας· (η) ασκεί οποιαδήποτε άλλη αρμοδιότητα που ο Υπουργός αναθέτει σε αυτόν: (θ) στις περιπτώσεις κατά τις οποίες ανήλικο πρόσωπο-",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(ii) following a complaint by his parent, resides in a residence other than his family residence, proceeds immediately with all necessary arrangements, so that all minor members of the family in relation to which a complaint has been submitted to the Police for commission of an offense of violence causing psychological harm or in relation to which there is reasonable suspicion for the commission of an offense of violence causing psychological harm, receive examination by a psychologist or by a psychiatrist.",
+      "rationale": "The framework provides for psychological/psychiatric examination of minor family members in relevant domestic-violence contexts, requiring arrangements so minors receive examination by a psychologist or psychiatrist. This is an operative psychosocial/psychological support measure for victims of violence (though focused on minors rather than women specifically).",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(ii) έπειτα από καταγγελία του γονέα του, διαμένει σε κατοικία άλλη από την οικογενειακή του κατοικία, προβαίνει άμεσα σε όλες τις απαραίτητες διευθετήσεις, ώστε όλα τα ανήλικα μέλη της οικογένειας σε σχέση με την οποία έχει υποβληθεί καταγγελία στην Αστυνομία για διάπραξη αδικήματος βίας με την οποία προκαλείται ψυχική βλάβη ή σε σχέση με την οποία υπάρχει εύλογη υπόνοια για τη διάπραξη αδικήματος βίας με την οποία προκαλείται ψυχική βλάβη, να τυγχάνουν εξέτασης από ψυχολόγο ή από ψυχίατρο.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences mention religious or spiritual counselling, pastoral care, faith-based support, or any role for religious leaders/institutions in victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(5) From this Fund, amounts shall be allocated for the purposes of addressing immediate needs, finding accommodation pursuant to section 24 of this Law, supporting victims of violence and other purposes that the Committee would deem appropriate and the Minister would approve.",
+      "rationale": "The framework establishes a Fund for Victims of Violence and provides that amounts from the Fund shall be allocated for supporting victims of violence and other approved purposes. This constitutes an operative longer-term support/assistance measure (financial/supportive) for victims, beyond immediate protection alone.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) Από το Ταμείο αυτό θα διατίθενται ποσά για σκοπούς αντιμετώπισης άμεσων αναγκών, εξεύρεσης διαμονής δυνάμει του άρθρου 24 του παρόντος Νόμου, ενίσχυσης των θυμάτων βίας και άλλους σκοπούς που η Επιτροπή ήθελε κρίνει κατάλληλους και ο Υπουργός ήθελε εγκρίνει.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "25.—(1) The Court, if it deems it appropriate, may, instead of imposing any other penalty on the accused, accept their request to place them under probation, pursuant to the Probation and Other Methods of Treatment of Offenders Law, with the special condition that they will undergo therapeutic self-control treatment by specialists or with other conditions that the Court will deem necessary, to avoid the repetition of acts of violence.",
+      "rationale": "The framework authorises the Court to place an accused under probation with a special condition to undergo therapeutic self-control treatment by specialists (or other conditions) to avoid repetition of violence, which is a perpetrator-focused intervention/treatment programme measure.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "25.—(1) Το Δικαστήριο, αν το κρίνει σκόπιμο, δύναται, αντί να επιβάλει στον κατηγορούμενο οποιαδήποτε άλλη ποινή, να δεχθεί αίτημά του να τον θέσει υπό κηδεμονία, δυνάμει του περί Κηδεμονίας και Άλλων Τρόπων Μεταχείρισης Αδικοπραγούντων Νόμου, με τον ειδικό όρο ότι θα υποβληθεί σε θεραπευτική αγωγή αυτοελέγχου από ειδικούς ή με άλλους όρους που το Δικαστήριο θα κρίνει αναγκαίους, για να αποφευχθεί η επανάληψη πράξεων βίας.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Specifically the Committee— (α) Monitors the problem of domestic violence in Cyprus; (β) proceeds with the information and enlightenment of the public and professionals by various means, including special conferences, training programs and seminars; (γ) promotes scientific research regarding domestic violence; (δ) promotes services for addressing all aspects of the problem of domestic violence; (ε) monitors the effectiveness of relevant services operating, as well as the implementation and observance of relevant legislation.",
+      "rationale": "The policy establishes an Advisory Committee for the purpose of prevention and combating of domestic violence and explicitly assigns it functions including public and professional information/enlightenment through conferences, training programs, and seminars, which constitutes awareness/education activities linked to violence (domestic violence).",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ειδικότερα η Επιτροπή— (α) Παρακολουθεί το πρόβλημα της βίας στην οικογένεια στην Κύπρο· (β) προβαίνει στην ενημέρωση και διαφώτιση του κοινού και των επαγγελματιών με διάφορα μέσα, περιλαμβανομένων ειδικών συνεδριών, επιμορφωτικών προγραμμάτων και σεμιναρίων· (γ) προωθεί επιστημονικές έρευνες σχετικά με τη βία στην οικογένεια· (δ) προωθεί τις υπηρεσίες για την αντιμετώπιση όλων των πτυχών του προβλήματος της βίας στην οικογένεια· (ε) παρακολουθεί την αποτελεσματικότητα των σχετικών υπηρεσιών που λειτουργούν, καθώς και την εφαρμογή και τήρηση της σχετικής νομοθεσίας.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss domestic violence prevention and response mechanisms (e.g., Advisory Committee public information on domestic violence), but do not provide education/awareness activities specifically about gender equality, equal rights, or women's rights, nor do they explicitly link such gender-equality education to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes legal provisions on domestic violence and assigns the Advisory Committee a role in public/professional information about domestic violence, it does not specify dissemination or education about laws/policies/legal protections concerning violence against women/domestic violence (i.e., no explicit legal-awareness or dissemination of the legal framework itself).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences mention training programs and seminars as part of public/professional information on domestic violence, and reference an educator as a possible complaint recipient, but they do not identify formal education institutions/curricula/educational content improvements as a prevention measure for violence against women.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences describe prevention activities that specifically target or engage men and boys (e.g., masculinity or gender-norm change programmes) to prevent violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The persons appointed from the public sector are selected from the Ministries and from the services referred to in subsection (4) of this article and the persons appointed from the private sector are selected from members of associations or organizations involved in the prevention and combating of domestic violence in equal proportion.\nWithout prejudice to the provisions of article 10 of the Evidence Law, a complaint made by a victim of a violence offence to any police officer, family counsellor, welfare officer, psychologist, doctor, including psychiatrist, who examines the victim, educator, members of the Advisory Committee, member of the Association for the Prevention and Treatment of Domestic Violence or members of the victim's close family environment within a reasonable time from its commission, constitutes evidence.",
+      "rationale": "The law creates an Advisory Committee for preventing and combating domestic violence and specifies that private-sector members are selected from associations/organizations involved in prevention and combating of domestic violence, establishing a formal mechanism for civil society participation. It also explicitly references a specific NGO/association (Association for the Prevention and Treatment of Domestic Violence) as a recipient of complaints whose reports constitute evidence, indicating an operative role in response processes.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Τα άτομα που διορίζονται από το δημόσιο τομέα επιλέγονται από τα Υπουργεία και από τις υπηρεσίες που αναφέρονται στο εδάφιο (4) του άρθρου αυτού και τα άτομα που διορίζονται από τον ιδιωτικό τομέα επιλέγονται από μέλη των συνδέσμων ή οργανώσεων εμπλεκομένων στην πρόληψη και καταπολέμηση της βίας στην οικογένεια σε ίση αναλογία. (3) Ένα μέλος της Επιτροπής διορίζεται από το Υπουργικό Συμβούλιο πρόεδρος και έχει την ευθύνη να συγκαλεί συσκέψεις και να προεδρεύει των συσκέψεων και ένα άλλο μέλος ορίζεται αντικαταστάτης του προέδρου σε περίπτωση απουσίας του. (4) Τα Υπουργεία και οι υπηρεσίες που αναφέρονται στο εδάφιο (2) του άρθρου αυτού είναι— Το Υπουργείο Υγείας·\n\nΧωρίς να επηρεάζονται οι διατάξεις του άρθρου 10 του περί Απόδειξης Νόμου, καταγγελία η οποία γίνεται από θύμα αδικήματος βίας προς οποιοδήποτε αστυνομικό, οικογενειακό σύμβουλο, λειτουργό ευημερίας, ψυχολόγο, γιατρό, περιλαμβανομένου ψυχιάτρου, που εξετάζει το θύμα, εκπαιδευτικό, μέλη της Συμβουλευτικής Επιτροπής, μέλος του Συνδέσμου Πρόληψης και Αντιμετώπισης της Βίας στην Οικογένεια ή μέλη του στενού οικογενειακού περιβάλλοντος του θύματος εντός εύλογου χρονικού διαστήματος από τη διάπραξή του, αποτελεί μαρτυρία.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors in relation to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions an \"educator\" as a person to whom a complaint may be made, and references the Ministry of Education and Culture (Educational Psychologist) as part of government services, but it does not establish or require engagement/collaboration with education institutions (schools, universities, etc.) as institutions in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention international organisations or any mechanism for cooperation with international/regional bodies on violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The law includes prohibitions on disclosure/publication by mass media of identifying details and restrictions on publishing certain testimony, but these are regulatory restrictions rather than provisions establishing or requiring engagement/collaboration with media actors for prevention or response to VAW.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the law refers to informing/enlightening the public and allows complaints to be made to members of the victim’s close family environment, it does not establish a mechanism for community/public participation or collaboration in prevention/response (and the coding rules specify not to infer engagement merely from reporting/complaint provisions).",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the Advisory Committee’s appointments are made from the public and private sector, the text does not identify businesses/employers/private companies as partners nor establish any cooperation mechanism with private-sector actors for VAW prevention or response; the private-sector reference is generic and not tied to business engagement measures.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss committee budgets funded by state grants and a victims’ fund supported by contributions/donations/grants, but none explicitly mention a local government/municipal budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(2) The revenue of the Committee comes from state grants, the amount of which is decided by the Council of Ministers.",
+      "rationale": "The policy explicitly states that the Committee’s revenue comes from state grants decided by the Council of Ministers, which constitutes national government funding.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Τα έσοδα της Επιτροπής προέρχονται από κρατικές χορηγίες, το ύψος των οποίων αποφασίζεται από το Υπουργικό Συμβούλιο.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention state grants and a fund receiving contributions/donations/legacies/grants, but do not explicitly reference any international organizations, foreign governments, UN agencies, or other international assistance/support mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(2) All contributions, donations, legacies and grants shall be deposited in the Fund.",
+      "rationale": "The policy establishes a fund and specifies that contributions, donations, legacies, and grants are deposited into it, indicating non-budgetary funding sources beyond government budgets.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Στο Ταμείο θα κατατίθενται όλες οι εισφορές, δωρεές, κληροδοτήματα και χορηγίες.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention any provincial/regional government budget as a funding source; they refer instead to state grants and other non-government contributions.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 23,
+    "resolved": 23,
+    "rate": 1.0
+  }
+}

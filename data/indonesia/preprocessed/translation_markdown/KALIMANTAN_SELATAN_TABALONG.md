@@ -1,0 +1,221 @@
+# REGENT OF TABALONG
+
+REGENT OF TABALONG
+
+SOUTH KALIMANTAN PROVINCE
+
+REGIONAL REGULATION OF TABALONG REGENCY NUMBER 04 YEAR 2017
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN
+
+BY THE GRACE OF GOD ALMIGHTY
+
+Considering
+
+In view of
+
+REGENT OF TABALONG,
+
+a. that every citizen has the right to be free from torture or treatment that degrades human dignity and has the right to obtain a sense of security and freedom from all forms of violence; b. that all forms of violence against women and children constitute violations of human rights so their honor and dignity need to be protected and their right to life guaranteed in accordance with their nature and character without discrimination; c. that the Regional Government is obliged to provide protection to women and children; d. that based on the considerations as referred to in letters a, b and c, it is necessary to establish a Regional Regulation on the Implementation of Protection of Women and Children;
+
+1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of
+
+Indonesia; 2. Law Number 8 Year 1965 concerning the Establishment of Level II Region of Tanah Laut, Level II Region of Tapin and Level II Region of Tabalong (State Gazette of the Republic of Indonesia Year 1965 Number 51, Supplement to the State Gazette of the Republic of Indonesia Number 2756); 3. Law Number 4 Year 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia Year 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143); 4. Law Number 8 Year 1981 concerning Criminal Procedure Law (State Gazette of the Republic of Indonesia Year 1981 Number 76, Supplement to the State Gazette of the Republic of Indonesia Number 3209);
+
+5. Law Number 39 Year 1999 concerning Human Rights
+
+(State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+
+6. Law Number 23 Year 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 Year 2014 concerning Amendment to Law Number 23 Year 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);
+
+7. Law Number 23 Year 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+8. Law Number 13 Year 2006 concerning
+
+Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia Year 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);
+
+9. Law Number 21 Year 2007 concerning
+
+Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720); 10. Law Number 10 Year 2012 concerning Optional Protocol
+
+to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution, and Child Pornography (State Gazette of the Republic of Indonesia Year 2012 Number 149, Supplement to the State Gazette of the Republic of Indonesia Number 5330); 11. Law Number 11 Year 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia Year 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);
+
+12. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587), as amended several times, most recently by Law Number 9 Year 2015 concerning the Second Amendment to Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679); 13. Government Regulation Number 27 Year 1983 concerning Implementation of the Criminal Procedure Code (State Gazette of the Republic of Indonesia Year 1983 Number 36, Supplement to the State Gazette of the Republic of Indonesia Number 3258);
+
+14. Government Regulation Number 40 Year 2011 concerning Guidance, Assistance, and Recovery of Children who are Victims or Perpetrators of Pornography (State Gazette of the Republic of Indonesia Year 2007 Number 86, Supplement to the State Gazette of the Republic of Indonesia Number 5237);
+
+15. Presidential Regulation Number 18 Year 2014 concerning
+
+Protection and Empowerment of Women and Children in Social Conflict (State Gazette of the Republic of Indonesia Year 2014 Number 44);
+
+16. Regulation of the Minister of Home Affairs Number 15 Year 2008 concerning General Guidelines for the Implementation of Gender Mainstreaming in the Regions, as amended by Regulation of the Minister of Home Affairs Number 67 Year 2011 concerning Amendment to Regulation of the Minister of Home Affairs Number 15 Year 2008 concerning General Guidelines for the Implementation of Gender Mainstreaming in the Regions (State News of the Republic of Indonesia Year 2011 Number 927); 17. Regional Regulation of Tabalong Regency Number 05 Year 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Tabalong Regency Year 2016 Number 05, Supplement to the Regional Gazette of Tabalong Regency Number 02);
+
+With Mutual Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF TABALONG REGENCY
+
+and
+
+REGENT OF TABALONG
+
+HAS DECIDED:
+
+To Enact REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN.
+
+# CHAPTER I GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation what is meant by:
+
+- 1. Region is Tabalong Regency. 2. Regional Government is the regional head as an element of the Regional Government administrator who leads the implementation of government affairs which are the authority of the autonomous region. 3. Regional Head hereinafter referred to as the Regent is the Regent of Tabalong. 4. Regional Apparatus Organization hereinafter abbreviated as OPD is an auxiliary element of the Regent and DPRD in the implementation of Government Affairs which are the authority of the Region.
+- 5. Agency is the Agency for Women Empowerment, Child Protection, Population Control and Family Planning of Tabalong Regency. 6. Head of Agency is the Head of the Agency for Women Empowerment, Child Protection, Population Control and Family Planning of Tabalong Regency. 7. Gender is a concept that refers to the differentiation of roles, functions and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society. 8. Gender-based violence is any deviant act caused by an imbalance of power in the relationship between women and men which results in misery or suffering of women and children whether physically, sexually and/or psychologically including threats of certain actions, coercion or deprivation of liberty arbitrarily that occurs in the private/domestic sphere and in the public sphere. 9. Protection is all efforts aimed at providing a sense of security to women and children carried out by the family, advocates, social institutions, police, prosecution, courts, or other parties either temporarily or based on court decisions. 10. Woman is an adult human being of female sex and a person recognized by law as a woman. 11. Child is a person who has not reached the age of 18 years including the fetus in the womb. 12. Victim is a woman and child who experiences violence and/or suffering as a result of violence and/or threat of violence. 13. Integrated Service Center for the Empowerment of Women and Children hereinafter referred to as P2TP2A is an Integrated Activity Center that provides services for women and children victims of violence in Tabalong Regency free of charge including information services, psychological counseling, legal and religious counseling, assistance and advocacy as well as health services and safe houses by referral.
+
+# CHAPTER II PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+Protection of Women and Children is implemented based on the principles of: a. respect for and fulfillment of the rights of victims; b. justice; c. non-discrimination; d. best interests of victims; e. legal certainty; and f. legal protection.
+
+Article 3
+
+Protection of Women and Children aims to: a. prevent all forms of violence against Women and Children; b. protect women and children; and c. provide services to Women and Children who are victims of violence.
+
+# CHAPTER III RIGHTS OF WOMEN AND CHILDREN
+
+#### Article 4
+
+Every Woman and Child has the right: a. to be respected for their dignity as human beings; b. to obtain protection from family, community, Regional
+
+Government and/or other parties either temporarily or based on a protection order from the court; c. to the restoration of physical, psychological and sexual health in accordance with the suffering experienced by the victim; d. to special handling related to the confidentiality of the victim; e. to assistance by social workers and legal aid at every level of the examination process in accordance with the provisions of laws and regulations; f. to spiritual guidance services; and g. to make their own decisions.
+
+# CHAPTER IV OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 5
+
+(1) The Regional Government is obligated and responsible for providing Protection to Women and Children.
+
+(2) The obligations and responsibilities of the Regional Government as referred to in paragraph (1) include: a. implementing the obligations of Protection of Women and Children based on laws and regulations; b. establishing policies, programs and activities for the Protection of Women and Children; c. completing facilities and infrastructure for the implementation of Protection
+
+of Women and Children; .,---", d. allocating budget in the implementation of Protection
+
+of Women and Children; and e. fostering and supervising the implementation of Protection of Women and Children.
+
+#### Article 6
+
+(1) The community is obligated and responsible for providing
+
+Protection to Women and Children.
+
+(2) The obligations and responsibilities of the community as referred to in paragraph (1) are carried out in the form of: a. preventing acts of violence against Women and Children; b. providing Protection to victims; c. providing emergency assistance; d. providing information and/or reporting acts of violence against Women and Children to the authorized parties; and e. participating in handling victims of violence.
+
+# CHAPTER V INSTITUTIONS
+
+(1) In organizing Protection for Women and Children in the Region, the Regent may establish P2TP2A.
+
+(2) The establishment and development of P2TP2A is adjusted to the development of priority needs, and the financial capacity of the Region as well as the institutional and personnel capacity available in the Region.
+
+(3) P2TP2A established by the Regional Government must have at least 4 (four) counselors.
+
+(4) Counselors as referred to in paragraph (3) include:
+
+- a. counselors in the field of law; b. counselors in the field of health; c. counselors in the field of psychology; and d. counselors in the field of religion.Article 7
+
+#### Article 8
+
+(1) Forms of services implemented at P2TP2A include:
+
+- a. legal consultation; b. assistance for victims; c. psychological consultation; d. medical service referrals; e. safe house services with referrals; f. home visits; and g. counseling.
+  - (2) P2TP2A working partners include:
+- a. Health Office; b. Education Office; c. Social Affairs Office; d. Regional General Hospital; e. Community Health Centers; f. Population and Civil Registration Office; g. PPA Unit (Police Resort and Police Sector) h. TPPKK; 1. Ministry of Religious Affairs; J. Office of Religious Affairs; and k. Religious Court.
+
+#### Article 9
+
+(1) The handling procedure at P2TP2A includes:
+
+- a. case reception; b. registration; c. case assessment; d. intervention planning; e. intervention agreement; f. intervention implementation; g. case recording; and h. termination.
+  - (2) The handling procedure at P2TP2A as referred to in paragraph (1) letter d includes: a. legal services; b. medical services; c. psychological services; d. spiritual services; and e. safe house services.
+
+#### Article 10
+
+In providing Protection to Women and Children, P2TP2A is obligated to: a. provide services as quickly as possible and free of charge to victims; b. organize protection and fulfillment of victims' rights to Health Rehabilitation, Social Rehabilitation, repatriation and legal assistance; c. cooperate with certain institutions in providing translators and volunteer assistants needed for victims; d. provide convenience, comfort and safety for victims; and e. maintain the confidentiality of victims.
+
+# CHAPTER VI MONITORING AND EVALUATION
+
+#### Article 11
+
+(1) To ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the Protection of Women and Children who are victims of violence, the Regional Government conducts monitoring.
+
+(2) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs, and activities for the Protection of Women and Children who are victims of violence in the Region. (3) Monitoring is carried out periodically through coordination and direct monitoring of Regional Apparatus Organizations that implement policies, programs and activities for the Protection of Women and Children.
+
+(4) Monitoring is carried out from the planning stage until the policies, programs and activities for the Protection of Women and Children for the current year.
+
+#### Article 12
+
+(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women and Children is conducted at the end of each fiscal year or when necessary according to needs.
+
+(2) The results of the evaluation of the implementation of policies, programs and activities for the Protection
+
+of Women and Children are used as input material for the formulation of policies, programs and activities for the Protection of Women and Children for the following year. (3) Evaluation as referred to in paragraph (1) is carried out in accordance with the provisions of laws and regulations.
+
+# CHAPTER VII REPORTING
+
+#### Article 13
+
+(1) The Regent is responsible for preparing reports on the implementation of P2TP2A for the Protection of Women and Children in the Region.
+
+(2) Reporting on implementation as referred to in paragraph (1) is conducted annually or when necessary and submitted to the Provincial Government.
+
+(3) The form of report as referred to in paragraph (1) is in accordance with the provisions of laws and regulations.
+
+# CHAPTER VIII FINANCING
+
+#### Article 14
+
+Financing for the implementation of the organization of Protection of Women and Children is sourced from the regional revenue and expenditure budget and other sources that are legal and non-binding.
+
+# CHAPTER IX GUIDANCE AND SUPERVISION
+
+#### Article 15
+
+(1) The Regional Government conducts guidance and supervision over the implementation of P2TP2A for the Protection of Women and Children in the Region.
+
+Guidance as referred to in paragraph (1) includes coordination, facilitation, coaching, supervision, consultation, education and training.
+
+#### (2) Article 16
+
+In the context of supervision, the Regent conducts monitoring and evaluation of the implementation of policies, programs and activities for the Protection of Women and Children.
+
+# CHAPTER X COMMUNITY PARTICIPATION
+
+#### Article 17
+
+(1) In organizing Protection for Women and Children, the community may: a. establish family partners at the sub-district/village level by the community; b. conduct socialization of the rights of Women and Children independently; c. provide first aid to victims; and d. report to the competent authority if violence against Women and Children occurs in the area.
+
+(2) Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector and mass media.
+
+# CHAPTERXI CLOSING PROVISIONS
+
+#### Article18
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, orders the Promulgation of this Regional Regulation by placing it in the Regional Gazette of Tabalong Regency.
+
+Stipulated in Tanjung on the date of 15 Hei 20 17
+
+,bREGENT OF TABALONG, :!
+
+H. ANANGSYAKHFIANI
+
+Promulgated in Tanjung on the date of 15 Hei 2017
+
+REGIONAL SECRETARY~~OF TABALONG REGENCY,it-
+
+H.ABDUL MUTHALIBSANGADJI
+
+REGIONAL GAZETTE OF TABALONG REGENCY YEAR 2017 NUMBER 04
+
+REGISTRATION NUMBER REGIONAL REGULATION OF TABALONG REGENCY SOUTH KALIMANTAN PROVINCE:(47/2017)

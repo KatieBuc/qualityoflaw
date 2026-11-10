@@ -1,0 +1,972 @@
+{
+  "policy_file": "82. Italy - DomViol - Italian (b) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T15:04:35.635823+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "1. In cases where law enforcement is notified, (( in non-anonymous form )), of a fact that must be considered attributable (( to the offenses referred to in articles 581, as well as 582, second paragraph, completed or attempted, of the criminal code, )) in the context of domestic violence, the questore, even in the absence of a complaint, may proceed, having obtained the necessary information from the investigative bodies and having heard the persons informed of the facts, to the warning of the perpetrator of the act.\nFor the purposes of this article, domestic violence means (( one or more acts, serious or non-episodic, )) of physical, sexual, psychological or economic violence occurring within the family or family unit (( or between persons linked, currently or in the past, by a marriage bond or by an emotional relationship, )) regardless of whether the perpetrator of such acts shares or has shared the same residence with the victim.\nWhen, in the course of police operations, investigations or proceedings for any of the offenses provided for in articles 572, 582, 583, 583-bis, 605, 609-bis and 612-bis of the criminal code or for one of the offenses provided for in article 380 of the code of criminal procedure, committed on the national territory in the context of domestic violence, situations of violence or abuse against a foreigner are ascertained and a concrete and current danger to his or her safety emerges, as a consequence of the choice to escape from the same violence or as a result of the statements made during the preliminary investigations or the trial, the questore, (( with the favorable opinion of the proceeding judicial authority or upon proposal of the latter, )) issues a residence permit pursuant to article 5, paragraph 6, to allow the victim to escape from the violence.",
+      "rationale": "The candidate sentences include operative provisions establishing a prevention/warning measure in cases occurring \"in the context of domestic violence\" and explicitly define domestic violence, and they also create an immigration protection measure (residence permit) for victims where offenses are committed in the context of domestic violence. This is substantive legal coverage rather than a mere mention in a preamble or recital.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Nei casi in cui alle forze dell'ordine sia segnalato, (( in forma non anonima )), un fatto che debba ritenersi riconducibile (( ai reati di cui agli articoli 581, nonchè 582, secondo comma, consumato o tentato, del codice penale, )) nell'ambito di violenza domestica, il questore, anche in assenza di querela, può procedere, assunte le informazioni necessarie da parte degli organi investigativi e sentite le persone informate dei fatti, all'ammonimento dell'autore del fatto.\n\nAi fini del presente articolo si intendono per violenza domestica (( uno o più atti, gravi ovvero non episodici, )) di violenza fisica, sessuale, psicologica o economica che si verificano all'interno della famiglia o del nucleo familiare (( o tra persone legate, attualmente o in passato, da un vincolo di matrimonio o da una relazione affettiva, )) indipendentemente dal fatto che l'autore di tali atti condivida o abbia condiviso la stessa residenza con la vittima.\n\nQuando, nel corso di operazioni di polizia, di indagini o di un procedimento per taluno dei delitti previsti dagli articoli 572, 582, 583, 583-bis, 605, 609-bis e 612-bis del codice penale o per uno dei delitti previsti dall'articolo 380 del codice di procedura penale, commessi sul territorio nazionale in ambito di violenza domestica, siano accertate situazioni di violenza o abuso nei confronti di uno straniero ed emerga un concreto ed attuale pericolo per la sua incolumità, come conseguenza della scelta di sottrarsi alla medesima violenza o per effetto delle dichiarazioni rese nel corso delle indagini preliminari o del giudizio, il questore, (( con il parere favorevole dell'autorità giudiziaria procedente ovvero su proposta di quest'ultima, )) rilascia un permesso di soggiorno ai sensi dell'articolo 5, comma 6, per consentire alla vittima di sottrarsi alla violenza.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Provisions on ill-treatment, sexual violence and stalking\nIn article 609-ter, first paragraph, of the Criminal Code, number 5) is replaced by the following: \"5) against a person who has not reached eighteen years of age of whom the offender is the ascendant, the parent, including adoptive, the guardian.\".",
+      "rationale": "The candidate sentences show operative criminal-law provisions addressing sexual violence through amendments to Criminal Code provisions on sexual violence (e.g., changes to article 609-ter). This constitutes substantive legal treatment rather than a purely contextual reference.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Norme in materia di maltrattamenti, violenza sessuale e atti persecutori\n\nAll'articolo 609-ter, primo comma, del codice penale, il numero 5) è sostituito dal seguente: \"5) nei confronti di persona che non ha compiuto gli anni diciotto della quale il colpevole sia l'ascendente, il genitore, anche adottivo, il tutore.\".",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this article, domestic violence means (( one or more acts, serious or non-episodic, )) of physical, sexual, psychological or economic violence occurring within the family or family unit (( or between persons linked, currently or in the past, by a marriage bond or by an emotional relationship, )) regardless of whether the perpetrator of such acts shares or has shared the same residence with the victim.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence that explicitly includes \"physical\" violence as a covered form, which is sufficient under the coding rules to count as substantive coverage of physical violence within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ai fini del presente articolo si intendono per violenza domestica (( uno o più atti, gravi ovvero non episodici, )) di violenza fisica, sessuale, psicologica o economica che si verificano all'interno della famiglia o del nucleo familiare (( o tra persone legate, attualmente o in passato, da un vincolo di matrimonio o da una relazione affettiva, )) indipendentemente dal fatto che l'autore di tali atti condivida o abbia condiviso la stessa residenza con la vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this article, domestic violence means (( one or more acts, serious or non-episodic, )) of physical, sexual, psychological or economic violence occurring within the family or family unit (( or between persons linked, currently or in the past, by a marriage bond or by an emotional relationship, )) regardless of whether the perpetrator of such acts shares or has shared the same residence with the victim.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence that explicitly includes \"psychological\" violence as a covered form, satisfying the criterion’s requirement that psychological violence appear in an operative definition/classification with legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ai fini del presente articolo si intendono per violenza domestica (( uno o più atti, gravi ovvero non episodici, )) di violenza fisica, sessuale, psicologica o economica che si verificano all'interno della famiglia o del nucleo familiare (( o tra persone legate, attualmente o in passato, da un vincolo di matrimonio o da una relazione affettiva, )) indipendentemente dal fatto che l'autore di tali atti condivida o abbia condiviso la stessa residenza con la vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this article, domestic violence means (( one or more acts, serious or non-episodic, )) of physical, sexual, psychological or economic violence occurring within the family or family unit (( or between persons linked, currently or in the past, by a marriage bond or by an emotional relationship, )) regardless of whether the perpetrator of such acts shares or has shared the same residence with the victim.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence that explicitly includes \"economic\" violence as a form of violence within the family/family unit or intimate relationship context. This meets the coding rule that economic violence be identified as a form of violence in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ai fini del presente articolo si intendono per violenza domestica (( uno o più atti, gravi ovvero non episodici, )) di violenza fisica, sessuale, psicologica o economica che si verificano all'interno della famiglia o del nucleo familiare (( o tra persone legate, attualmente o in passato, da un vincolo di matrimonio o da una relazione affettiva, )) indipendentemente dal fatto che l'autore di tali atti condivida o abbia condiviso la stessa residenza con la vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence, sexual violence, stalking, and protections for minors and pregnant persons, but do not mention or regulate any of the specified harmful practices (e.g., child/early marriage, FGM/C, honour crimes, female infanticide) nor any similar practice. Therefore, the criterion is not met on the provided text.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, the framework discusses violence against women, stalking, domestic violence, and related procedural and protective measures, but it does not mention femicide/feminicide (or an equivalent term such as gender-motivated killing of women) nor establish femicide-specific aggravating factors, definitions, registries, or monitoring obligations. Under the coding rules, absence of any mention requires Code No.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to various criminal code articles (including numbered provisions such as 600-series) and address domestic violence, stalking, and residence permits for victims of domestic violence, but they do not explicitly mention human trafficking/trafficking in persons or trafficking victims, nor define/prohibit trafficking or provide trafficking-specific protections. Under the coding rules, general violence/victim protection without mention of trafficking is Code No.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences address sexual violence and list criminal code provisions by number (e.g., 600-bis, 600-ter, etc.) but do not explicitly mention sexual exploitation, sexual slavery, exploitation for sexual purposes, or forced prostitution/sexual services, nor do they establish protections tied to a sexual-exploitation nexus. Under the coding rules, absence of explicit sexual exploitation/slavery language in the shown text yields Code No.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "\"The penalty is increased if the act is committed by the spouse, even if separated or divorced, or by a person who is or has been linked by a relationship to the victim or if the act is committed through computer or telematic means\";",
+      "rationale": "The framework explicitly treats conduct committed \"through computer or telematic means\" as a basis for increased penalty in the operative provisions on stalking/acts of persecution, which constitutes recognition of a technology-facilitated form of violence with legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "\"La pena è aumentata se il fatto è commesso dal coniuge, anche separato o divorziato, o da persona che è o è stata legata da relazione alla persona offesa ovvero se il fatto è commesso attraverso strumenti informatici o telematici\";",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "\"The penalty is increased if the act is committed by the spouse, even if separated or divorced, or by a person who is or has been linked by a relationship to the victim or if the act is committed through computer or telematic means\";\na) after the second paragraph, the following is inserted: \"The penalty is imprisonment from two to six years and a fine from 600 to 3,000 euros if the act is committed with (( theft or unlawful use )) of digital identity to the detriment of one or more subjects.\";",
+      "rationale": "The candidate sentences explicitly refer to criminal-code offences relevant to violence (e.g., stalking) and specify criminal penalties (e.g., imprisonment and a fine), demonstrating that at least one form of violence is treated as a criminal offence with an attached sanction.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "\"La pena è aumentata se il fatto è commesso dal coniuge, anche separato o divorziato, o da persona che è o è stata legata da relazione alla persona offesa ovvero se il fatto è commesso attraverso strumenti informatici o telematici\";\n\na) dopo il secondo comma, è inserito il seguente: «La pena è della reclusione da due a sei anni e della multa da euro 600 a euro 3.000 se il fatto è commesso con (( furto o indebito utilizzo )) dell'identità digitale in danno di uno o più soggetti.»;",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text describes measures such as urgent removal from the family home and prohibitions on approaching places frequented by the injured person, the provided sentences do not specify all required elements for a protection/restraining order mechanism under the coding rules—particularly a defined duration and a defined consequence for breach of the order.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss police/questore actions (warnings, informing perpetrators of services, criminological analysis) but do not designate any specific specialised unit, desk, or division within police services mandated to handle violence against women cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include procedural amendments (e.g., communications, protected examination methods, immediate trial/validation timelines) but do not designate a specialised court/chamber/judicial officer for VAW cases, nor do they clearly establish a specialised or expedited judicial procedure specifically for violence against women as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention spouse/intimate relationship status as an aggravating circumstance for certain crimes (e.g., stalking/sexual-violence-related provisions), but they do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise clearly remove a spousal exemption for sexual violence. Under the coding rules, such inference is not permitted.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "1. The Minister delegated for equal opportunities, also making use of the Fund for policies relating to rights and equal opportunities, referred to in Article 19, paragraph 3, of Decree-Law No. 223 of 4 July 2006, converted, with amendments, by Law No. 248 of 4 August 2006, prepares, with the contribution of the interested administrations, women's associations engaged in the fight against violence and anti-violence centres, and adopts, following agreement in the Unified Conference pursuant to Legislative Decree No. 281 of 28 August 1997, an \"Extraordinary Action Plan against Sexual and Gender-based Violence\", hereinafter referred to as the \"Plan\", which must be prepared in synergy with the new programming of the European Union for the period 2014-2020.\nl) to define a structured governance system among all levels of government, which is also based on the various experiences and good practices already implemented in local networks and in the territory.",
+      "rationale": "The framework establishes an Extraordinary Action Plan prepared with contributions from multiple administrations and stakeholders and adopted following agreement in the Unified Conference, and it explicitly includes defining a structured governance system among all levels of government—both of which constitute formal coordination/implementation structures across agencies and jurisdictions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Il Ministro delegato per le pari opportunità, anche avvalendosi del Fondo per le politiche relative ai diritti e alle pari opportunità, di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, elabora, con il contributo delle amministrazioni interessate, delle associazioni di donne impegnate nella lotta contro la violenza e dei centri antiviolenza, e adotta, previa intesa in sede di Conferenza unificata ai sensi del decreto legislativo 28 agosto 1997, n. 281, un «Piano d'azione straordinario contro la violenza sessuale e di genere», di seguito denominato «Piano», che deve essere predisposto in sinergia con la nuova programmazione dell'Unione europea per il periodo 2014-2020.\n\nl) definire un sistema strutturato di governance tra tutti i livelli di governo, che si basi anche sulle diverse esperienze e sulle buone pratiche già realizzate nelle reti locali e sul territorio.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "h) to provide for a structured and periodically updated collection, at least annually, of data on the phenomenon, including the census of anti-violence centres, also through the coordination of existing databases;\n3. The Ministry of the Interior - Department of Public Security, also through the data contained in the Data Processing Center referred to in article 8 of law of 1 April 1981, n.\n121, prepares annually a criminological analysis of gender violence which constitutes an autonomous section of the annual report to Parliament referred to in article 113 of the aforementioned law n.",
+      "rationale": "The Plan includes a purpose to provide for structured, periodically updated data collection and coordination of existing databases, and the Ministry of the Interior (Department of Public Security) is assigned responsibility to prepare an annual criminological analysis of gender violence as part of an annual report to Parliament—both are explicit operative duties related to collecting/reporting information on gender violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "h) prevedere una raccolta strutturata e periodicamente aggiornata, con cadenza almeno annuale, dei dati del fenomeno, ivi compreso il censimento dei centri antiviolenza, anche attraverso il coordinamento delle banche di dati già esistenti;\n\n3. Il Ministero dell'interno - Dipartimento della pubblica sicurezza, anche attraverso i dati contenuti nel Centro elaborazione dati di cui all'articolo 8 della legge 1° aprile 1981, n.\n\n121, elabora annualmente un'analisi criminologica della violenza di genere che costituisce un'autonoma sezione della relazione annuale al Parlamento di cui all'articolo 113 della predetta legge n.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address violence against women and gender-based violence, and mention gender representation and gender inequalities in training contexts, but they do not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal point, working group, or mainstreaming in planning/budgeting).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "e) to ensure the training of all professionals who come into contact with acts of gender-based violence or stalking;",
+      "rationale": "The Plan explicitly provides for ensuring training of all professionals who come into contact with acts of gender-based violence or stalking, which is a mandate for capacity building of implementing/service personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) garantire la formazione di tutte le professionalità che entrano in contatto con fatti di violenza di genere o di stalking;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "3. The Minister delegated for equal opportunities transmits annually to the Chambers a report on the implementation of the Plan.",
+      "rationale": "The framework requires the Minister delegated for equal opportunities to transmit annually to Parliament a report on the implementation of the Plan, which is a concrete monitoring/reporting requirement tied to implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Il Ministro delegato per le pari opportunità trasmette annualmente alle Camere una relazione sull'attuazione del Piano.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "4. For the financing of the Plan, the Fund for policies relating to rights and equal opportunities is increased by 10 million euros for the year 2013.\n1. In order to implement the provisions of Article 5, paragraph 2, letter d), of this decree, the Fund for policies relating to rights and equal opportunities, referred to in Article 19, paragraph 3, of Decree-Law No. 223 of 4 July 2006, converted, with amendments, by Law No. 248 of 4 August 2006, is increased by 10 million euros for the year 2013, by 7 million euros for the year 2014 and by 10 million euros per year starting from the year 2015.",
+      "rationale": "The framework includes operative provisions increasing a dedicated Fund to finance the Plan and increasing the same Fund to implement actions for anti-violence centers and shelters, which constitutes a binding budget/funding allocation mechanism for violence against women response/prevention measures.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Per il finanziamento del Piano, il Fondo per le politiche relative ai diritti e alle pari opportunità è incrementato di 10 milioni di euro per l'anno 2013.\n\n1. Al fine di dare attuazione a quanto previsto dall'articolo 5, comma 2, lettera d), del presente decreto, il Fondo per le politiche relative ai diritti e alle pari opportunità, di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, è incrementato di 10 milioni di euro per l'anno 2013, di 7 milioni di euro per l'anno 2014 e di 10 milioni di euro annui a decorrere dall'anno 2015.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "4. Anti-violence centers and shelters operate in an integrated manner with the network of local social, health and welfare services, taking into account the fundamental needs for the protection of persons suffering violence, even when they perform functions of specialized services.",
+      "rationale": "The framework recognises anti-violence centers and shelters and explicitly requires that they operate in an integrated manner with local social, health and welfare services, which constitutes an operative integrated/multisector service mechanism for women victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. I centri antiviolenza e le case-rifugio operano in maniera integrata con la rete dei servizi socio-sanitari e assistenziali territoriali, tenendo conto delle necessità fondamentali per la protezione delle persone che subiscono violenza, anche qualora svolgano funzioni di servizi specialistici.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss planning, funding, and service networks, and refer to situations where law enforcement is notified or victims give notice, but they do not establish or mandate a dedicated reporting/helpline mechanism or designated complaint-receiving service for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Actions for anti-violence centers and shelters\nc) the number of public and private shelters already existing in each region;",
+      "rationale": "The legal framework explicitly provides for shelters (including their existence and establishment) through operative provisions on actions and funding for anti-violence centers and shelters, thereby recognising accommodation-based protection for women victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Azioni per i centri antiviolenza e le case-rifugio\n\nc) del numero delle case-rifugio pubbliche e private già esistenti in ogni regione;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "1. The following amendments are made to the code of criminal procedure: (( 0a) in Article 101, paragraph 1, the following sentences are added at the end: \"At the time of acquiring notice of the crime, the public prosecutor and the judicial police inform the person injured by the crime of this right. The injured person is also informed of the possibility of access to state-funded legal aid pursuant to Article 76 of the consolidated text of legislative and regulatory provisions on court costs, referred to in Presidential Decree No. 115 of 30 May 2002, as amended.\"; 0b) in Article 266, paragraph 1, after letter f-ter) the following is added: \"f-quater) crime provided for by Article 612-bis of the criminal code\"; ))",
+      "rationale": "The framework requires that the injured person be informed of the possibility of access to state-funded legal aid, which is an operative provision facilitating legal aid for victims in relevant proceedings.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Al codice di procedura penale sono apportate le seguenti modificazioni: (( 0a) all'articolo 101, comma 1, sono aggiunti, in fine, i seguenti periodi: \"Al momento dell'acquisizione della notizia di reato il pubblico ministero e la polizia giudiziaria informano la persona offesa dal reato di tale facoltà. La persona offesa è altresì informata della possibilità dell'accesso al patrocinio a spese dello Stato ai sensi dell'articolo 76 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, e successive modificazioni.\"; 0b) all'articolo 266, comma 1, dopo la lettera f-ter) è aggiunta la seguente: \"f-quater) delitto previsto dall'articolo 612-bis del codice penale\"; ))",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references health facilities in the context of receiving notice and mentions integration with health services, it does not establish or require provision of medical examination, treatment, or other health/medical services specifically for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences mention mental health services and family counseling centers only as services available in the territory aimed at intervening with perpetrators, and do not provide psychosocial/psychological counselling or trauma-support services for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited provisions mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on prevention, coordination, and strengthening assistance/support networks and shelters, but do not set out specific longer-term recovery/rehabilitation/reintegration measures (e.g., livelihood, employment, vocational training, long-term reintegration support) for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(( a-bis) in Article 282-quater, paragraph 1, the following sentence is added at the end: \"When the accused successfully undergoes a violence prevention program organized by the social assistance services of the territory, the service manager communicates this to the public prosecutor and the judge for the purposes of evaluation pursuant to Article 299, paragraph 2\"; ))",
+      "rationale": "The framework includes an operative provision referencing a violence prevention program organized by territorial social assistance services, with communication to prosecutorial/judicial authorities upon successful completion, indicating a perpetrator-focused intervention program within legal proceedings.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(( a-bis) all'articolo 282-quater, comma 1, è aggiunto, in fine, il seguente periodo: \"Quando l'imputato si sottopone positivamente ad un programma di prevenzione della violenza organizzato dai servizi socio-assistenziali del territorio, il responsabile del servizio ne dà comunicazione al pubblico ministero e al giudice ai fini della valutazione ai sensi dell'articolo 299, comma 2\"; ))",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "a) to prevent the phenomenon of violence against women through information and awareness-raising of the community, strengthening the awareness of men and boys in the process of eliminating violence against women and in the resolution of conflicts in interpersonal relationships;\nc) to promote adequate training of school staff in relationships and against violence and gender discrimination and to promote, within the framework of the national guidelines for the curriculum of pre-school and first cycle of education, the national guidelines for high schools and the guidelines for technical and vocational institutes, in the curricular and extra-curricular educational programming of schools of all levels, the awareness-raising, information and training of students in order to prevent violence against women and gender discrimination, also through adequate emphasis on the theme in textbooks;",
+      "rationale": "The policy establishes an Extraordinary Action Plan whose stated purposes include preventing violence against women through community information/awareness-raising and through school-related awareness-raising, information and training of students explicitly aimed at preventing violence against women. These are operative prevention provisions directly tied to VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) prevenire il fenomeno della violenza contro le donne attraverso l'informazione e la sensibilizzazione della collettività, rafforzando la consapevolezza degli uomini e dei ragazzi nel processo di eliminazione della violenza contro le donne e nella soluzione dei conflitti nei rapporti interpersonali;\n\nc) promuovere un'adeguata formazione del personale della scuola alla relazione e contro la violenza e la discriminazione di genere e promuovere, nell'ambito delle indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo di istruzione, delle indicazioni nazionali per i licei e delle linee guida per gli istituti tecnici e professionali, nella programmazione didattica curricolare ed extra-curricolare delle scuole di ogni ordine e grado, la sensibilizzazione, l'informazione e la formazione degli studenti al fine di prevenire la violenza nei confronti delle donne e la discriminazione di genere, anche attraverso un'adeguata valorizzazione della tematica nei libri di testo;",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "c) to promote adequate training of school staff in relationships and against violence and gender discrimination and to promote, within the framework of the national guidelines for the curriculum of pre-school and first cycle of education, the national guidelines for high schools and the guidelines for technical and vocational institutes, in the curricular and extra-curricular educational programming of schools of all levels, the awareness-raising, information and training of students in order to prevent violence against women and gender discrimination, also through adequate emphasis on the theme in textbooks;",
+      "rationale": "The Plan includes school-based awareness-raising, information and training of students to prevent violence against women and gender discrimination. Because it explicitly addresses gender discrimination (a gender equality/non-discrimination concept) via educational activities and links it to preventing violence against women, it meets the criterion.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) promuovere un'adeguata formazione del personale della scuola alla relazione e contro la violenza e la discriminazione di genere e promuovere, nell'ambito delle indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo di istruzione, delle indicazioni nazionali per i licei e delle linee guida per gli istituti tecnici e professionali, nella programmazione didattica curricolare ed extra-curricolare delle scuole di ogni ordine e grado, la sensibilizzazione, l'informazione e la formazione degli studenti al fine di prevenire la violenza nei confronti delle donne e la discriminazione di genere, anche attraverso un'adeguata valorizzazione della tematica nei libri di testo;",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions include awareness-raising and education to prevent violence against women, and procedural obligations to inform injured persons of certain rights, but none of the candidate sentences explicitly provide for dissemination/education about laws or policies on VAW as a public prevention strategy (i.e., awareness specifically about VAW laws/policies/legal protections).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "c) to promote adequate training of school staff in relationships and against violence and gender discrimination and to promote, within the framework of the national guidelines for the curriculum of pre-school and first cycle of education, the national guidelines for high schools and the guidelines for technical and vocational institutes, in the curricular and extra-curricular educational programming of schools of all levels, the awareness-raising, information and training of students in order to prevent violence against women and gender discrimination, also through adequate emphasis on the theme in textbooks;",
+      "rationale": "The Plan explicitly identifies school staff training and the integration of awareness-raising/information/training of students within curricular and extra-curricular programming (including emphasis in textbooks) as measures to prevent violence against women and gender discrimination. This is an explicit education/curriculum-based prevention measure for VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) promuovere un'adeguata formazione del personale della scuola alla relazione e contro la violenza e la discriminazione di genere e promuovere, nell'ambito delle indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo di istruzione, delle indicazioni nazionali per i licei e delle linee guida per gli istituti tecnici e professionali, nella programmazione didattica curricolare ed extra-curricolare delle scuole di ogni ordine e grado, la sensibilizzazione, l'informazione e la formazione degli studenti al fine di prevenire la violenza nei confronti delle donne e la discriminazione di genere, anche attraverso un'adeguata valorizzazione della tematica nei libri di testo;",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "Yes",
+      "evidence": "a) to prevent the phenomenon of violence against women through information and awareness-raising of the community, strengthening the awareness of men and boys in the process of eliminating violence against women and in the resolution of conflicts in interpersonal relationships;",
+      "rationale": "The Plan’s prevention purpose explicitly includes strengthening the awareness of men and boys in eliminating violence against women and in resolving conflicts in interpersonal relationships, which constitutes an operative prevention activity engaging men and boys to prevent VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) prevenire il fenomeno della violenza contro le donne attraverso l'informazione e la sensibilizzazione della collettività, rafforzando la consapevolezza degli uomini e dei ragazzi nel processo di eliminazione della violenza contro le donne e nella soluzione dei conflitti nei rapporti interpersonali;",
+      "evidence_original_aligned": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "1. The Minister delegated for equal opportunities, also making use of the Fund for policies relating to rights and equal opportunities, referred to in Article 19, paragraph 3, of Decree-Law No. 223 of 4 July 2006, converted, with amendments, by Law No. 248 of 4 August 2006, prepares, with the contribution of the interested administrations, women's associations engaged in the fight against violence and anti-violence centres, and adopts, following agreement in the Unified Conference pursuant to Legislative Decree No. 281 of 28 August 1997, an \"Extraordinary Action Plan against Sexual and Gender-based Violence\", hereinafter referred to as the \"Plan\", which must be prepared in synergy with the new programming of the European Union for the period 2014-2020.\nb) associations and organizations operating in the field of support and assistance to women victims of violence, which have gained specific experience and expertise in the matter of violence against women, which use a reception methodology based on relationships between women, with specifically trained personnel;",
+      "rationale": "The policy establishes civil society participation in VAW policy design and implementation: the Minister prepares the national action plan with the contribution of women’s associations and anti-violence centres, and it explicitly provides that anti-violence centres and shelters are promoted by associations/organizations supporting women victims of violence (including in joint arrangements). These are operative provisions creating formal roles for NGOs/CSOs in VAW prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Il Ministro delegato per le pari opportunità, anche avvalendosi del Fondo per le politiche relative ai diritti e alle pari opportunità, di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, elabora, con il contributo delle amministrazioni interessate, delle associazioni di donne impegnate nella lotta contro la violenza e dei centri antiviolenza, e adotta, previa intesa in sede di Conferenza unificata ai sensi del decreto legislativo 28 agosto 1997, n. 281, un «Piano d'azione straordinario contro la violenza sessuale e di genere», di seguito denominato «Piano», che deve essere predisposto in sinergia con la nuova programmazione dell'Unione europea per il periodo 2014-2020.\n\nb) associazioni e organizzazioni operanti nel settore del sostegno e dell'aiuto alle donne vittime di violenza, che abbiano maturato esperienze e competenze specifiche in materia di violenza contro le donne, che utilizzino una metodologia di accoglienza basata sulla relazione tra donne, con personale specificamente formato;",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, the framework references women’s associations, anti-violence centres, schools, media operators, and institutions generally, but it does not mention religious organisations/leaders or traditional/cultural organisations/leaders as partners or participants in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "c) to promote adequate training of school staff in relationships and against violence and gender discrimination and to promote, within the framework of the national guidelines for the curriculum of pre-school and first cycle of education, the national guidelines for high schools and the guidelines for technical and vocational institutes, in the curricular and extra-curricular educational programming of schools of all levels, the awareness-raising, information and training of students in order to prevent violence against women and gender discrimination, also through adequate emphasis on the theme in textbooks;",
+      "rationale": "The action plan includes operative purposes that involve schools directly, including training school staff and integrating awareness-raising, information, and training of students within curricular and extra-curricular educational programming across school levels to prevent violence against women and gender discrimination. This constitutes engagement with education institutions for VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) promuovere un'adeguata formazione del personale della scuola alla relazione e contro la violenza e la discriminazione di genere e promuovere, nell'ambito delle indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo di istruzione, delle indicazioni nazionali per i licei e delle linee guida per gli istituti tecnici e professionali, nella programmazione didattica curricolare ed extra-curricolare delle scuole di ogni ordine e grado, la sensibilizzazione, l'informazione e la formazione degli studenti al fine di prevenire la violenza nei confronti delle donne e la discriminazione di genere, anche attraverso un'adeguata valorizzazione della tematica nei libri di testo;",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference in the candidate sentences is that the plan must be prepared “in synergy with the new programming of the European Union for the period 2014-2020,” which does not clearly establish or require cooperation with an international organisation on VAW (it reads as alignment with EU programming rather than an operative collaboration mechanism with an international organisation). No other operative provisions identify international organisations as partners for VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "b) to raise awareness among media sector operators for the implementation of communication and information, including commercial, respectful of gender representation and, in particular, of the female figure also through the adoption of self-regulatory codes by the operators themselves;",
+      "rationale": "The plan’s purposes explicitly include raising awareness among media sector operators and promoting respectful communication/information (including via self-regulatory codes). This is an operative provision that engages media actors in VAW-related prevention and norm change.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) sensibilizzare gli operatori dei settori dei media per la realizzazione di una comunicazione e informazione, anche commerciale, rispettosa della rappresentazione di genere e, in particolare, della figura femminile anche attraverso l'adozione di codici di autoregolamentazione da parte degli operatori medesimi;",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the plan includes community awareness-raising as an objective, the provided sentences do not establish a mechanism for community participation/collaboration (e.g., community organisations or public members as partners) in VAW prevention/response; it frames the community as the target of information/awareness rather than as an engaged actor. The other provisions concern institutions and service networks rather than community participation mechanisms.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require collaboration with businesses or private-sector actors for VAW prevention or response. References to “media sector operators” relate to media engagement (not general private sector), and mentions of “public and private” anti-violence centres/shelters describe service availability rather than private-sector partnership obligations or mechanisms.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss national-level funds (e.g., Ministry of the Interior budget estimates, national funds, state budget reallocations) and EU resources, and mention local authorities as implementers or in procedural/budget-deadline contexts, but do not identify local government budgets as a funding source.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "3. The cost arising from the implementation of paragraph 2, amounting to 6,299,662.00 euros for the year 2013, is covered, as to 4 million euros, by corresponding use of the sums available in residual account of the expenditure authorization referred to in Article 3, paragraph 155, second sentence, of Law No. 350 of 24 December 2003, which are paid into the revenue of the State budget for reallocation to the relevant chapters of the State budget expenditure for the purposes of this article, and, as to 2,299,662.00 euros, by corresponding reduction for the year 2013 of the same authorization.",
+      "rationale": "The text explicitly references coverage of costs through reallocations/reductions within the State budget and expenditure authorizations, indicating national government budget financing.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "111, con riferimento anche al medesimo articolo 9, comma 2-bis. 3. All'onere derivante dall'attuazione del comma 2, pari ad euro 6.299.662,00 per l'anno 2013, si provvede, quanto a euro 4 milioni, mediante corrispondente utilizzo delle somme disponibili in conto residui dell'autorizzazione di spesa di cui all'articolo 3, comma 155, secondo periodo, della legge 24 dicembre 2003, n. 350, che sono versate all'entrata del bilancio dello Stato per la riassegnazione ai pertinenti capitoli di spesa del bilancio dello Stato per le finalità di cui al presente articolo, e, quanto a euro 2.299.662,00, mediante corrispondente riduzione per l'anno 2013 della medesima autorizzazione.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references the European Union in relation to programming and EU resources, the cited sentences do not indicate international donor/support specifically for women’s protection/VAW measures; the EU references shown are either general programming alignment or relate to a security programme rather than VAW support.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "1. In order to implement the provisions of Article 5, paragraph 2, letter d), of this decree, the Fund for policies relating to rights and equal opportunities, referred to in Article 19, paragraph 3, of Decree-Law No. 223 of 4 July 2006, converted, with amendments, by Law No. 248 of 4 August 2006, is increased by 10 million euros for the year 2013, by 7 million euros for the year 2014 and by 10 million euros per year starting from the year 2015.",
+      "rationale": "The policy identifies a specific dedicated fund (the Fund for policies relating to rights and equal opportunities) as the financing mechanism, which constitutes a distinct legal funding source beyond generic national/local/provincial budgets.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Al fine di dare attuazione a quanto previsto dall'articolo 5, comma 2, lettera d), del presente decreto, il Fondo per le politiche relative ai diritti e alle pari opportunità, di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, è incrementato di 10 milioni di euro per l'anno 2013, di 7 milioni di euro per l'anno 2014 e di 10 milioni di euro annui a decorrere dall'anno 2015.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not identify provincial government budgets as a funding source; references to provinces concern commissarial management/administrative provisions rather than provincial budget financing.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 25,
+    "resolved": 25,
+    "rate": 1.0
+  }
+}

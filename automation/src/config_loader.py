@@ -1,5 +1,5 @@
 import shutil
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 from pathlib import Path
 
 import yaml
@@ -11,8 +11,9 @@ from automation.src.constants import (
     AUTOMATION_ROOT,
     CHUNKING_FALLBACK_PROMPT,
     MARKDOWN_FALLBACK_PROMPT,
-    DEFAULT_DATA_ROOT,
-    DEFAULT_MARKDOWN_INPUT_DIR,
+    AUTOMATION_DIRNAME,
+    DATA_ROOT,
+    DEFAULT_PROJECT,
     DEFAULT_MODEL_CONFIG,
     DEFAULT_PIPELINE_CONFIG,
     DEFAULT_SMALL_SCALE_STEMS,
@@ -26,6 +27,7 @@ from automation.src.llm.confidence import (
     ConfidenceSpec,
 )
 from automation.src.llm.model_profile import ModelProfile, RerankerProfile
+from automation.src.paths import project_dirs
 
 
 @dataclass
@@ -38,7 +40,21 @@ class PipelinePaths:
     # still needs the Indonesian original as plain text, and the raw-text
     # translation path stays runnable side by side with the Markdown one.
     markdown_input_dir: Path = field(
-        default_factory=lambda: PROJECT_ROOT / DEFAULT_MARKDOWN_INPUT_DIR
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).preprocessed_cleaned_markdown
+    )
+    # Where `translation_md` writes (and `translation_qa_md` / `md_to_text`
+    # read) the translated Markdown. Sits beside `markdown_input_dir` so a human
+    # can edit both before they are promoted to `processed/`.
+    translation_markdown_dir: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).preprocessed_translation_markdown
+    )
+    # Stage 4 (evaluation) reads the validated pair from `processed/`, after
+    # the human-adjustment stage: you move the pairs you accept here (the `validate` step only checks them).
+    processed_cleaned_markdown_dir: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).processed_cleaned_markdown
+    )
+    processed_translation_markdown_dir: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).processed_translation_markdown
     )
     # File suffix identifying a source document in `markdown_input_dir`
     # (glob is `*<suffix>`). The curated Indonesian corpus names files
@@ -51,6 +67,11 @@ class PipelinePaths:
     # filenames. Each step derives its own filename from the stem (`<stem>.txt`
     # for the plain-text artifacts, `<stem>.md` for the Markdown ones).
     small_scale_stems: tuple[str, ...] = DEFAULT_SMALL_SCALE_STEMS
+    project: str = DEFAULT_PROJECT
+    # Manual indicator corrections applied by the comparison step.
+    manual_overwrites: Path = field(
+        default_factory=lambda: project_dirs(DEFAULT_PROJECT).manual_overwrites
+    )
 
 
 @dataclass
@@ -114,6 +135,12 @@ class RetrievalConfig:
     reranker: RerankerConfig
     evidence_verification_enabled: bool
     enabled: bool = True
+    #: Step 4.6 aligner for chunks whose translated/source sentence counts
+    #: differ: "vecalign" | "bertalign" | "heuristic" (see rag/evidence_align.py).
+    alignment_method: str = "vecalign"
+    #: Token budget of one evaluation prompt (a dimension's criteria, rules and candidate sentences). The candidates are
+    #: trimmed to fit (see `prompt_builder.format_criteria_with_candidates`). Keep it below the model's context limit.
+    max_prompt_tokens: int = 200_000
 
 
 #: Evaluation-side confidence capture. Which methods to record and which one
@@ -221,6 +248,7 @@ def parse_model_profile(name: str, raw: dict) -> ModelProfile:
         max_tokens=raw.get("max_tokens"),
         max_retries=int(raw.get("max_retries", 3)),
         supports_logprobs=bool(raw.get("supports_logprobs", True)),
+        supports_temperature=bool(raw.get("supports_temperature", True)),
     )
 
 
@@ -269,6 +297,16 @@ def parse_small_scale_stems(raw: list | None) -> tuple[str, ...]:
     if not isinstance(raw, list) or not raw or not all(isinstance(s, str) and s for s in raw):
         raise ValueError("paths.small_scale_stems must be a non-empty list of policy names")
     return tuple(raw)
+
+
+ALIGNMENT_METHODS = ("vecalign", "bertalign", "heuristic")
+
+
+def parse_alignment_method(raw: dict | None) -> str:
+    method = str((raw or {}).get("method", "vecalign"))
+    if method not in ALIGNMENT_METHODS:
+        raise ValueError(f"alignment.method must be one of {ALIGNMENT_METHODS}, got '{method}'")
+    return method
 
 
 def parse_concurrency_config(raw: dict | None) -> ConcurrencyConfig:
@@ -370,11 +408,44 @@ def parse_retrieval_config(
             top_k=reranker_top_k,
         ),
         evidence_verification_enabled=bool(verification_raw.get("enabled", True)),
+        max_prompt_tokens=_parse_max_prompt_tokens(raw.get("max_prompt_tokens")),
         enabled=rag_enabled,
     )
 
 
-def parse_confidence_config(raw: dict | None) -> ConfidenceConfig:
+DEFAULT_COVERAGE_LABELS = ("Substantive", "Referenced only")
+
+
+def parse_coverage_labels(raw: dict | None) -> tuple[str, ...]:
+    """`evaluation.coverage`: a second answer for the indicators answered Yes, off unless ``enabled: true``.
+
+    ``labels`` are its allowed values (default: Substantive, Referenced only). The Yes / No answer stays the one
+    every downstream step reads; the coverage is recorded next to it, with a confidence of its own.
+    """
+    raw = raw or {}
+    if not isinstance(raw, dict):
+        raise ValueError("evaluation.coverage must be a mapping")
+    if not raw.get("enabled", False):
+        return ()
+    labels = raw.get("labels") or DEFAULT_COVERAGE_LABELS
+    if not isinstance(labels, (list, tuple)) or len(labels) < 2:
+        raise ValueError("evaluation.coverage.labels must list at least two values")
+    cleaned = tuple(" ".join(str(label).split()) for label in labels)
+    if any(not label for label in cleaned) or len({label.lower() for label in cleaned}) != len(cleaned):
+        raise ValueError("evaluation.coverage.labels must be distinct and not empty")
+    return cleaned
+
+
+def _parse_max_prompt_tokens(value: object) -> int:
+    if value is None:
+        return RetrievalConfig.__dataclass_fields__["max_prompt_tokens"].default
+    tokens = int(value)
+    if tokens < 10_000:
+        raise ValueError("evaluation.rag.retrieval.max_prompt_tokens must be at least 10000")
+    return tokens
+
+
+def parse_confidence_config(raw: dict | None, coverage_raw: dict | None = None) -> ConfidenceConfig:
     raw = raw or {}
 
     top_logprobs = int(raw.get("top_logprobs", 5))
@@ -407,6 +478,7 @@ def parse_confidence_config(raw: dict | None) -> ConfidenceConfig:
         methods=methods,
         primary=primary,
         top_logprobs=top_logprobs,
+        coverage_labels=parse_coverage_labels(coverage_raw),
     )
 
 
@@ -515,7 +587,7 @@ def parse_markdown_config(raw: dict | None) -> MarkdownTranslationConfig:
 
 def evaluation_output_names(method: str) -> tuple[str, str]:
     """Map the active evaluation method to its (evaluation_dir, comparison_dir)
-    names, so both methods can be run against the same run_id without one
+    names, so both methods can be run side by side in one output folder without one
     overwriting the other's results."""
     if method == "sliding_window":
         return "evaluation_sliding_window", "comparison_sliding_window"
@@ -578,7 +650,10 @@ def load_pipeline_config(
     translation_qa_cfg = pipeline_data.get("translation_qa", {})
     evaluation_cfg = pipeline_data.get("evaluation", {})
     diagnosis_cfg = pipeline_data.get("discrepancy_diagnosis", {})
-    paths_cfg = pipeline_data.get("paths", {})
+    paths_cfg = pipeline_data.get("paths") or {}
+    project = str(pipeline_data.get("project") or DEFAULT_PROJECT)
+    set_active_project(project)
+    dirs = project_dirs(project)
 
     translation_model_key = translation_cfg.get("model")
     translation_qa_model_key = translation_qa_cfg.get("model")
@@ -636,31 +711,49 @@ def load_pipeline_config(
         evaluation_template_path=evaluation_template,
         discrepancy_diagnosis_template_path=diagnosis_template,
         paths=PipelinePaths(
-            input_dir=_resolve_path(paths_cfg.get("input_dir", "data/raw/localpolicies")),
-            golden_csv=_resolve_path(
-                paths_cfg.get("golden_csv", "data/processed/long_policy_encoding.csv")
-            ),
-            index_schema=_resolve_path(
-                paths_cfg.get("index_schema", "data/mapping/index_schema.yaml")
-            ),
+            input_dir=_resolve_path(paths_cfg.get("input_dir", dirs.raw)),
+            golden_csv=_resolve_path(paths_cfg.get("golden_csv", dirs.golden_csv)),
+            index_schema=_resolve_path(paths_cfg.get("index_schema", dirs.index_schema)),
             markdown_input_dir=_resolve_path(
-                paths_cfg.get("markdown_input_dir", DEFAULT_MARKDOWN_INPUT_DIR)
+                paths_cfg.get("markdown_input_dir", dirs.preprocessed_cleaned_markdown)
+            ),
+            translation_markdown_dir=_resolve_path(
+                paths_cfg.get(
+                    "translation_markdown_dir", dirs.preprocessed_translation_markdown
+                )
+            ),
+            processed_cleaned_markdown_dir=_resolve_path(
+                paths_cfg.get("processed_cleaned_markdown_dir", dirs.processed_cleaned_markdown)
+            ),
+            processed_translation_markdown_dir=_resolve_path(
+                paths_cfg.get(
+                    "processed_translation_markdown_dir", dirs.processed_translation_markdown
+                )
             ),
             markdown_input_suffix=str(paths_cfg.get("markdown_input_suffix", CLEANED_MD_SUFFIX)),
             small_scale_stems=parse_small_scale_stems(paths_cfg.get("small_scale_stems")),
+            project=project,
+            manual_overwrites=_resolve_path(
+                paths_cfg.get("manual_overwrites", dirs.manual_overwrites)
+            ),
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),
         storage=parse_storage_config(
             rag_cfg.get("storage"), rag_enabled=rag_enabled and evaluation_method == "rag"
         ),
-        retrieval=parse_retrieval_config(
-            rag_cfg.get("retrieval"), rag_enabled=rag_enabled, reranker_profiles=reranker_profiles
+        retrieval=replace(
+            parse_retrieval_config(
+                rag_cfg.get("retrieval"),
+                rag_enabled=rag_enabled,
+                reranker_profiles=reranker_profiles,
+            ),
+            alignment_method=parse_alignment_method(pipeline_data.get("alignment")),
         ),
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
         evaluation_method=evaluation_method,
-        confidence=parse_confidence_config(evaluation_cfg.get("confidence")),
+        confidence=parse_confidence_config(evaluation_cfg.get("confidence"), evaluation_cfg.get("coverage")),
         comparison_confidence=parse_confidence_report_config(
             (pipeline_data.get("comparison") or {}).get("confidence")
         ),
@@ -670,8 +763,47 @@ def load_pipeline_config(
     )
 
 
-def get_run_dir(run_id: str) -> Path:
-    return DEFAULT_DATA_ROOT / run_id
+# Output dir override. None means "derive from the active project"
+# (data/<project>/automation); tests point it at a tmp dir. There is one
+# output folder per project and no run ids: a rerun cleans it and starts over
+# (`clean_output_dir`, `run_pipeline --force`).
+OUTPUT_DIR_OVERRIDE: Path | None = None
+_active_project: str = DEFAULT_PROJECT
+
+
+def set_active_project(project: str) -> None:
+    """Called by `load_pipeline_config`, so every `get_output_dir` caller follows
+    the `project:` config key without threading it through each step."""
+    global _active_project
+    _active_project = project
+
+
+def get_output_dir() -> Path:
+    return OUTPUT_DIR_OVERRIDE or project_dirs(_active_project).automation
+
+
+def clean_output_dir() -> int:
+    """Delete everything inside the output dir (the dir itself stays).
+
+    Returns the number of top-level entries removed. Refuses to touch a path
+    that is not an `automation` folder under the data root, unless it is the
+    test override, so a bad config can never point this at something else.
+    """
+    out = get_output_dir()
+    if OUTPUT_DIR_OVERRIDE is None and not (
+        out.name == AUTOMATION_DIRNAME and DATA_ROOT in out.resolve().parents
+    ):
+        raise ValueError(f"Refusing to clean {out}: not a <data>/<project>/automation folder")
+    if not out.exists():
+        return 0
+    removed = 0
+    for entry in out.iterdir():
+        if entry.is_dir() and not entry.is_symlink():
+            shutil.rmtree(entry)
+        else:
+            entry.unlink()
+        removed += 1
+    return removed
 
 
 def results_dir(run_dir: Path, name: str) -> Path:

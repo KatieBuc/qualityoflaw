@@ -1,0 +1,3472 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0__ctl0_Head1"><title>
+	Sistema Costarricense de Información Jurídica
+</title><meta http-equiv="X-UA-Compatible" content="IE=100"> <!-- IE8 mode -->
+    <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)"><meta name="robots" content="noarchive"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport">
+    <meta name="robots" content="noarchive" />
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;' name='viewport' />
+    
+    <meta name="GENERATOR" content="Microsoft Interdev 6.0">
+    <meta name="DESCRIPTION" content="Sistema de Busqueda Normativa SCIJ">
+    <meta name="AUTHOR" content="S-COM: Davinsson Nunjar Flores">
+    <meta name="MODIFY" content="S-COM: Sandra García Salas, sandrag@s-com.com">
+    <meta name="COPYRIGHT" content="S-COM">
+    <meta name="KEYWORDS" content="Ficha,Norma,SCIJ">
+    <meta name="SUBJECT" content="Texto Completo">
+    <title>Texto Completo</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <script language="JavaScript" src="nrm_generales.js"></script>
+    <link rel="stylesheet" href="../../../scij.css">
+    <script>
+<!--
+
+        function MostrarFicha() {
+            var x, y;
+
+            x = event.x;
+            y = event.y;
+
+            ficha.style.left = '55%';
+            ficha.style.top = window.document.body.scrollTop + 125; ;
+            ficha.style.visibility = 'visible';
+            OcultarBuscador();
+        }
+
+        function OcultarFicha() {
+            ficha.style.visibility = 'hidden';
+        }
+
+        function MostrarBuscador() {
+            var x, y;
+
+            x = event.x;
+            y = event.y;
+
+            buscador.style.rigth = '30%';
+            buscador.style.top = window.document.body.scrollTop + 125;
+            buscador.style.visibility = 'visible';
+
+            OcultarFicha();
+        }
+
+        function OcultarBuscador() {
+            buscador.style.visibility = 'hidden';
+        }
+
+
+        //---------------------------------------------------------------------
+        //Function:	window_onresize
+        //Objetivo:	Cuando el usuario amplía o disminuye el tamaño de la ventana
+        //			se reubica el div que hace visible la ficha de la norma
+        //			colocándolo siempre a la derecha de la pantalla.
+        //Autor:	Sandra García Salas (S-COM)
+        //Fecha:	03 junio 2003
+        //---------------------------------------------------------------------
+        function window_onresize() {
+            //Se instancia el div que hace visible la ficha de la norma
+            var objBarra = window.barra;
+            //Se le indica que ese span siempre esté en la parte superior de la pantalla
+            objBarra.style.top = window.document.body.scrollTop;
+            //Además a la izquierda de la pantalla
+        }
+
+        //---------------------------------------------------------------------
+        //Function:	window_onscroll
+        //Objetivo:	Cuando el usuario hace scroll de la pantalla el div que
+        //			hace visible la ficha así como la ficha misma se corren,
+        //			para que siempre estén visibles al usuario
+        //Autor:	Sandra García Salas, S-COM
+        //Fecha:	03 junio 2003
+        //---------------------------------------------------------------------
+        function window_onscroll() {
+            var objBarra = window.barra;
+            //Se corre el div que hace visible la ficha de la sentencia
+            objBarra.style.top = window.document.body.scrollTop;
+        }
+
+        function MostrarArticuloSgte() {
+            frmBuscarArticulo.submit();
+        }
+
+//-->
+    </script>
+    <style type="text/css">
+        a:visited, span.MsoHyperlinkFollowed
+        {
+            /*color: White !important;*/
+            text-decoration: none !important;
+        }
+        .style5
+        {
+            color: #31639c;
+        }
+      
+        .auto-style3 {
+            height: 41px;
+        }
+         table, tr, td, img {
+          margin: 0; padding: 0;  
+         }
+
+
+    </style>
+
+    <style type="text/css">
+        .Buscar
+        {
+            display: inline-table;
+        }
+        .Buscar select
+        {
+            /*width: 60%;*/
+        }
+        .Buscar div
+        {
+           padding: 2pt 0pt 2pt 0pt;
+        }
+        .Buscar span
+        {
+            color: #004999;
+        }
+        .Buscar input[type="Text"]
+        {
+            /*width: 87%;*/
+        }
+        .Buscar input[type="submit"]
+        {
+            /*width: 40%;*/
+        }
+        .Buscar label
+        {
+            color: #004999;
+        }
+        .AlineaDropDownList
+        {
+            /*position: relative;
+            left: 11pt;*/
+        }
+        .ClaseExplorerNav
+        {
+            /*position: relative;
+            left: 11pt;*/
+        }
+        .ClaseOtroNav
+        {
+            /*position: relative;
+            left: 11pt;
+            width: 63%;*/
+        }
+        
+              @media screen and (max-width:875px)
+        {
+            .Buscar
+            {
+                /*display: block;*/
+            }
+            .Buscar select
+            {
+                /*text-align: left;
+                width: 75%;
+                left: 0px;*/
+            }
+            .Separador
+            {
+                width: 0em !important;
+            }
+
+        }
+        html{color: #000;}
+    body{min-width:1024px;}
+
+        .auto-style2 {
+            width: 37px;
+        }
+    </style>
+
+
+
+
+        
+        
+        
+         <script lang="JavaScript" src="http://www.pgrweb.go.cr:80/scij/fgeneralesscij.js" type="text/javascript"></script>
+        <script lang="JavaScript" src="http://www.pgrweb.go.cr:80/scij/menu_sinalevi.js" type="text/javascript"></script>
+
+       
+
+
+        <script src="http://www.pgrweb.go.cr:80/scij/scripts/jquery-1.4.2.js" type="text/javascript"></script>
+        <script src="http://www.pgrweb.go.cr:80/scij/scripts/jquery-ui-1.8rc3.custom.min.js" type="text/javascript"></script>
+
+        <link rel="stylesheet" href="http://www.pgrweb.go.cr:80/scij/scij.css" />
+    
+    <script>
+        window.onload = function () {
+            //Se arma la ruta en donde se encuentra el usuario...
+            var strRuta;
+            var ColumnaDerecha = document.getElementById('tablas');
+
+            var w = window,
+            d = document,
+            e = d.documentElement,
+            g = d.getElementsByTagName('body')[0],
+            x = w.innerWidth || e.clientWidth || g.clientWidth,
+            y = w.innerHeight || e.clientHeight || g.clientHeight;
+
+            //en este caso, en la raiz del sitio
+            strRuta = m_strDondeEstoy + 'Inicio';
+            window.top.document.title = 'Sistema Costarricense de Información Jurídica';
+            ActualizarMenu();
+        }
+    </script>
+    <style type="text/css">
+        .style3 {
+            width: 10%;
+            height: 100%;
+            float: right;
+            color: #FFFFFF;
+            background-color: #94AECE;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        img {
+        vertical-align:text-bottom !important;
+        border: 0px;
+        }
+        table, tr, td, img {
+         margin: 0; padding: 0; 
+         }
+        #Table1 
+        {
+            max-width:100%;
+        }
+        #SearchTable
+        {
+            border-collapse: collapse;
+            padding:0px 0px 0px 0px;
+            border-spacing: 0px 0px 0px 0px;
+            margin: 0px 0px 0px 0px;
+            background-color:white;
+            max-width:100%;
+        }
+
+        #SearchTable td 
+        {
+            padding:0px 0px 0px 0px;
+            border-spacing: 0px 0px 0px 0px;
+            margin: 0px 0px 0px 0px;
+        }
+        a {text-decoration: none;}
+    </style>
+</head>
+<body style=" margin: 0; overflow:no-display"; onload="return window_onload(); ">
+    <form name="aspnetForm" method="post" action="./nrm_texto_completo.aspx?nValor1=1&amp;nValor2=60183" id="aspnetForm" style="overflow:hidden; border-collapse:collapse; border: none">
+<input type="hidden" name="_ctl0__ctl0_ToolkitScriptManager1_HiddenField" id="_ctl0__ctl0_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="9GK/K2K6HX618fbwLCjqHCFfQTcDgGkV34cIGsT4nFeJHwEz/2G/jVS5oc+bj0EPiQswLaqw3YBdpcyYF+xVfsGrkr2QYqirQCUvqfPpKHVS0lU2K6TixLAifJ1jthqqrsvc3jYNCcAu5Rc0IKyLWQXZX2pn5Dv39y+1g2mPOB7zHJS8ALZHuy3IQt0CI9thHs2E669A8vu2fcKOz9vhTZjielUw1F3yzUtp/mLziCToiQhFaAGFDdXTCfOZqe1LyBkjAzhNe3+de4kvZ6OAsax9eP5+OFDqMtj1/0GGFJylLYB2dkh4V95rDy9MAHNC62Y81rMYggUYw7iT9wI9vGAXTZ/vp2bqsrEIIGEx1qhCc9tXlGRL17ntLFmv6FPfAfAzqeNhv1l6xk5cVfJL+9kqquBVPr+9/ywcBF9eZau+ip9JwNZCFWdmm91FjJDqhOh8oH8RE4RiacfrGhMTsiBHPz/VW1RCT6nWlwikGS9q64Lzbh1r398kzKAV/oAOM72g9omzSuZ3nqd2+zfgniQE9qxEPZ9gzkNQEmHv1HHeOMg7RP8lSswp4sb85ERAxG2s91JbmFnUv2pkN9sEPcpUnY9S0IlWTmKwiCpkiXC6Vg9/aRlhVIdLIQnTRVEcMKOZxrbgrk4NreKH9cGqHpdCHsHZa4l47poGI6EjeRGzMD1iaIfQAeqp5FCKDsQpUIYqw9m7K/n11+Z6ydVngBrxGUPS6d+c9RabWej/eTZQ6FerQ9HPWjc4t/gv5dqABuMq2HBkH6y3RFepbndl2CINphcEraCwvUnklbHnFeQZ30734k8krE7inXYDbMsEn+MoZYBZjjw6HRdlz7PSZWxWNLkx+V2i+fml3aR0T0otd8bHmULNA+4PXSC5nCsypJ3u2U9+UY4RkMY3GlEjfADjV+2rFgo673DeCLwm+VnIATngfkxbp3sCdctBWmO9CriZ8LgykmLncgwxk0+v2w6ZgNFX0KFxiImv19ljMtdqrLj0ciRxsE8wFNxbOhLHgNjksFd/SRCyMuVNCqHVskS90Z5fvVIOy0Vw2xJ7V+tbgFt6WdhO3Cqx6mf56I4SZzY8iJxp4aUC5cHh7GyGG4915vS3RtNhzGjxbvxMbH353F+Ba/L6/S8DspcNTJ35sqH6hS+WJFnH/nHOH6zWNXwAks/drG+eLSSiX1cofEn5gJmU9PjLGnJe/PuOjgcjA1Cx7icz7Q1/ZkAMJIGnq7MR69wVwv5OGGlhyTckOO3qx2TcfTjRDviHDw0EtVgYgvifdHal3QdaFxjXhJGCgbN2gImRctkUvtpQAa8KOQB9U5/Kt5LCa/yv4qSFM28TraqX3mBH8CQfZ3RxdQHiYaMhYrzeb5fR6Kkyo/qMuRqBua1uEOPwpjVzRqk+GOtVrBFixNhC7OADn7bSrjrKlzlPrMNXzUSLItESnVIZGtxhvxFGQ5bM3WqxaOOiB2DG8erIZBHtcqhkUE6QRb6pa43qX0iJwylPCHeIdxubuauu4w1k9JdTvg15/SfsT2M4H0pj9Qi7UAzHtYJWUa3dkSrX8xsCDDSJvDl7J1jfzRRSWmt5jokh4oA33Gc4emxgF4Eo5CXlFxXNCNg1i+pMGI6tX+Je6WjKWttbdx3QT0xiZXKho9rjTExxs62KjS7p" />
+
+<script type="text/javascript">
+<!--
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+// -->
+</script>
+
+
+<script src="/scij/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMaUbEXYGr_QsaiGdLG9FuZnaE4oCSkmqvlkP87HS60zALFo84fl8rx-7VaFjDAneg2&amp;t=637814437746327080" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+<!--
+var __cultureInfo = {"name":"es-CR","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"₡","NaNSymbol":"NeuN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-Infinito","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinito","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"a.m.","Calendar":{"MinSupportedDateTime":"\/Date(-62135575200000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd d\u0027 de \u0027MMMM\u0027 de \u0027yyyy hh:mm:ss tt","LongDatePattern":"dddd d\u0027 de \u0027MMMM\u0027 de \u0027yyyy","LongTimePattern":"hh:mm:ss tt","MonthDayPattern":"d\u0027 de \u0027MMMM","PMDesignator":"p.m.","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"hh:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM\u0027 de \u0027yyyy","AbbreviatedDayNames":["dom","lun","mar","mié","jue","vie","sáb"],"ShortestDayNames":["do","lu","ma","mi","ju","vi","sá"],"DayNames":["domingo","lunes","martes","miércoles","jueves","viernes","sábado"],"AbbreviatedMonthNames":["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic",""],"MonthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre",""],"IsReadOnly":true,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic",""],"MonthGenitiveNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre",""]},"eras":[1,"d.C.",null,0]};// -->
+</script>
+
+<script src="/scij/ScriptResource.axd?d=yeSNAJTOPtPimTGCAo3LlbIINkYYQ_UGt7u35PSiAWJufT70-SlEcub39rV5Mlq-e_0mXuLGHcQ7_NLdlW1u-nzJOyJWSJrBtrsgNkRLKuXWgKSfdTJ1Q4IILs460x5H0&amp;t=ffffffffe3663df5" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('Error al cargar el marco de trabajo de cliente ASP.NET Ajax.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6176642A" />
+        
+        <table id="Table1"  style="width:100%; border-collapse:collapse; border: none">
+            <tr>
+               <td colspan="1" style="background-image: url(http://www.pgrweb.go.cr:80/scij/images/bg_bandera.gif)">
+                    <div style="float: left; vertical-align: bottom; border-collapse: collapse; padding: 0px; border-spacing: 0px; margin: 0px;">
+                        <img id="_ctl0__ctl0_ImgLogoAbogados" src="http://www.pgrweb.go.cr:80/scij/images/LogoAbogadosFondoSCIJ.jpg" border="0" style="border-style:None;height:60px;" />
+                    </div>
+                    <div style="float: left; outline:0; border-collapse: collapse; padding:0px; border-spacing: 0px; margin: 0px;">
+                      <img id="_ctl0__ctl0_ImgEncabezadoIzq" src="http://www.pgrweb.go.cr:80/scij/images/header_left.jpg" border="0" style="border-style:None;" />
+                    </div>
+               </td>
+                <td colspan="1" rowspan="2" style="vertical-align: top; background-color: #003366;">
+                    <div style="float: right; vertical-align: top; outline-width: 0;  border-collapse:collapse; border: none">
+                        <a href="http://www.pgr.go.cr" target="_parent">
+                            <img id="_ctl0__ctl0_ImgEncabezadoDer" title="Página Principal de la Procuraduría General" src="http://www.pgrweb.go.cr:80/scij/images/header_right_3.jpg" align="top" border="0" />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="1" style="width: 100%; background-color: #003366; height: 22px;">
+                     <div id="PanelMenu" style="float: left;">
+                        <ul id="MenuPrincipal">
+                            <li><a title="Ir a al menú principal del SCIJ (Poder Judicial)" href="http://www.pgrweb.go.cr:80/scij/avanzada_pgr.aspx">INICIO</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li>
+                                <a id="_ctl0__ctl0_hlPGRSINALEVI" title="Ir a la página del SCIJ - SINALEVI (Sistema Nacional de Legislación Vigente)" class="current" href="http://www.pgrweb.go.cr/scij/main.aspx">PGR SINALEVI&nbsp;</a>
+                            </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a la página del SCIJ (Poder Judicial)" href="https://nexuspj.poder-judicial.go.cr/">PODER JUDICIAL</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a la página del SCIJ (Minsterio de Hacienda)" href="https://scij.hacienda.go.cr/SCIJ_MHDA/default.aspx">HACIENDA</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a Corte Interamericana" href="http://www.corteidh.or.cr/index.php/es">CORTE IDH</a> </li>
+							<li class="Separador"><font color="white">|</font></li>
+                            <li><a title="Ir a Diccionario usual del PJ" href="https://diccionariousual.poder-judicial.go.cr/index.php/diccionario">DICCIONARIO JURÍDICO PJ</a> </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li>
+                                <a id="_ctl0__ctl0_hlAyuda" title="Manual de ayuda al usuario" href="http://www.pgrweb.go.cr/scij/ayuda_pgr.aspx">&nbsp;AYUDA&nbsp;</a>
+                            </li>
+                            <li class="Separador"><font color="white">|</font></li>
+                            <li>
+                                <a id="_ctl0__ctl0_hlMenu" title="Muesta el mapa de sitio SCIJ" href="http://www.pgrweb.go.cr/scij/mapa_sitio.aspx">&nbsp;MAPA DEL SITIO&nbsp;</a>
+                            </li>
+                        </ul>
+                    </div>
+                </td>
+            </tr>
+            </table>
+
+        <table id="SearchTable"  style="width:100%; border-collapse:collapse; border: none">
+            <tr style="height: 22px">
+                <td id="tdDondeEstoy" style="width: 100%; background-color: #cecfce; background: -moz-linear-gradient(left, #94AECE, #cecfce); /*mozilla*/ background: -webkit-linear-gradient(left, #94AECE, #cecfce); /*chrome*/  background: linear-background(left, #94AECE, #cecfce); /*General*/    height: 22px;">
+                    <!-- DONDE ESTOY -->
+
+                    <div style="background-color: #94adce; float: left; width: 20%; height: 100%">
+                        <span>Buscar:</span>
+                    </div>
+                    <div id="SubPanelDondeEstoy" style="float: left; font-size: 7pt; font-family: Verdana, Arial, Helvetica, sans-serif; padding-top: 5px;">
+                        
+            &nbsp;Normativa >> Ley 8589 >> Fecha 25/04/2007 >> Texto completo
+                        
+                    </div>
+                    <div class="style3">
+                        <strong>
+                            Internet
+                        </strong>
+                    </div>
+                    <div style="float: right; background-color: #94aece; height: 22px">
+                        <img id="_ctl0__ctl0_ImgDondeEstoy1" src="http://www.pgrweb.go.cr:80/scij/images/curva2.gif" border="0" style="height:25px;width:35px;" />
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <table style="border-width: 0px; border-collapse:collapse; border: none; width: 100%">
+            <tr>
+                <td id="tdContenidoPaginas">
+                    
+    
+     <script type="text/javascript" language="JavaScript">
+         var MIN_CARACTERES = 3;
+         var strAyudaContenido = "Si se marca la casilla 'Buscar en contenido' el programa buscará además en el texto de los documentos. Si no se marca, se buscará sólo en la ficha de los documentos que se indiquen.";
+         var strAyudaBuscador = "<STRONG>Búsqueda simple:</STRONG> Digite el dato que desea buscar, ya sean letras o números.<br>";
+         strAyudaBuscador += "<STRONG>Normativa:</STRONG> Debe seleccionar la búsqueda entre Normas generales, Pronunciamientos o Asuntos constitucionales.<br>";
+         strAyudaBuscador += "<STRONG>Año:</STRONG> Indique el año en el que desea buscar. Si no indica año, se buscará en todos los años.<br>";
+         strAyudaBuscador += "<STRONG>Resultados:</STRONG> Seleccione la cantidad de resultados que desea desplegar en pantalla.<br>";
+         strAyudaBuscador += "<STRONG>Buscar en:</STRONG> \"Contenido del texto\" busca dentro del texto de los documentos.<br><STRONG>Buscar en</STRONG>: \"Ficha del documento\" busca tanto en la ficha como en los descriptores asignados al documento.";
+
+
+         function ActivarMenu(strRuta) {
+             location.href = strRuta;
+         }
+
+         /////////////////////////////////////////////////////////////////////////////
+
+         var m_strTexto = "";
+         var m_nSearchScope = 0;
+         var m_nFlags = 0;
+         var m_sBookMark = "";
+         var m_nContador = 0;
+         var strEmailString = "_r=1";
+         var m_rng = null;
+         var m_BookMark = null;
+         var strMarca = "ß&Ø¥ß";
+
+         function GetContentWnd() { return parent; }
+
+         function BuscarTexto() {
+             m_nFlags = 0;
+             m_nSearchScope = 0;
+             showModalDialog("../../../nrm_find.aspx", window, "status:false;dialogWidth:350px;dialogHeight:190px");
+         }
+
+         //-------------------------------------------------------------------------------------
+         //Nombre: fnUpdate()
+         //Descripciòn: 
+         //		Realiza búsquedas en un texto, de acuerdo a los parámetros seleccionados por el
+         //		usuario. Los parámetros se solicitan en otra pantalla por medio del asp 
+         //		../../../nrm_find.asp se conservan en variables q son accesadas desde aquì en:
+         //		m_strTexto= texto q se va a buscar
+         //		m_nSearchScope= tipo de bùsqueda, si entero(+) es hacia adelante, si entero(-) es hacia atràs
+         //		m_nFlags=	0: Default. Match partial words. 
+         //					1: Match backwards. 
+         //					2: Match whole words only. 
+         //					4: Match case. 		
+         //		Marca=		ß&Ø¥ß, esta marca se pone p iniciar la bùsqueda a partir de aquì y no pasar
+         //					por la parte de la Ficha de la Sentencia. Se puso en el asp jur_ficha_completa_sentencia.asp
+         //-------------------------------------------------------------------------------------
+         function fnUpdate() {
+             if (m_rng == null) {
+
+                 m_rng = document.body.createTextRange();
+                 if (m_nSearchScope > 0) {
+                     m_rng.findText(strMarca, 1, 0);
+                 }
+             }
+
+             m_BookMark = m_rng.getBookmark();
+             m_rng.moveToBookmark(m_BookMark);
+
+             if (m_rng.findText(m_strTexto, m_strTexto.length * m_nSearchScope, m_nFlags) != false) {
+                 if (!(m_strTexto == strMarca)) {
+
+                     alert(m_strTexto);
+                     alert(strMarca);
+
+                     m_rng.select();
+                     m_rng.scrollIntoView();
+
+                     if (m_nSearchScope >= 1) {
+                         m_rng.collapse(false);
+                     }
+                     else {
+                         m_rng.collapse(true);
+                     }
+                 }
+                 else {
+                     m_rng = null;
+                     alert('Búsqueda en documento finalizada.');
+                 }
+             }
+             else {
+                 m_BookMark = null;
+                 m_rng = null;
+                 alert('Búsqueda en documento finalizada.');
+             }
+         }
+         //-------------------------------------------------------------------------------------
+         //Inserta:	Sandra García Salas, S-COM
+         //Fecha:	06-10-2003
+         //Objetivo:	Cuando el usuario hace clic en la imagen de 'guardar como' ésta se cambia
+         //			por una similiar pero que da el efecto de un botón oprimido. Además de
+         //			eso abre una nueva ventana con el texto de la sentencia o extracto seleccionado
+         //			y listo para guardar.
+         //-------------------------------------------------------------------------------------
+         function GuardarTexto(strTitulo2) {
+    
+          if (window.sidebar) {
+
+             var strTitulo = strTitulo2;
+
+             var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+             win = window.open();
+
+             self.focus();
+
+             win.document.open();
+
+             win.document.write(Texto);
+
+             win.alert("Para guardar el documento, presione click derecho en el mouse y seleccione 'Guardar Como...'")
+
+             win.document.charset = "ISO-8859-1";
+             win.document.execCommand("selectall");
+             win.document.execCommand("copy");
+             win.document.execCommand("Unselect");
+             win.document.execCommand("SaveAs", "true", strTitulo);
+
+             win.close();
+         }
+          else if (navigator.userAgent.indexOf("Chrome") != -1) {
+
+            
+              var Ruta = "http://www.pgrweb.go.cr/TextoCompleto/NORMAS/1/VIGENTE/L/2000-2009/2005-2009/2007/EB17/60183_126725-8.html";
+              
+
+              var strTitulo = strTitulo2;
+
+              var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+              win = window.open(Ruta);
+
+              self.focus();
+
+              //win.document.open();
+
+              //win.document.write(Texto);
+
+              win.alert("Para guardar el documento, presione click derecho en el mouse y seleccione 'Guardar Como...")
+
+          }
+
+          else {
+
+              var strTitulo = strTitulo2;
+
+              var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+              win = window.open();
+
+              self.focus();
+
+              win.document.open();
+
+              win.document.write(Texto);
+
+              win.document.close();
+
+              win.document.charset = "ISO-8859-1";
+              win.document.execCommand("selectall");
+              win.document.execCommand("copy");
+              win.document.execCommand("Unselect");
+              win.document.execCommand("SaveAs", "true", strTitulo);
+
+
+              win.close();
+          }
+         
+         }
+
+
+         var win = null;
+         function ImprimirTexto(strTitulo2) {
+
+
+             var Texto = window.document.getElementById("dvTextoCompleto").innerHTML
+
+             win = window.open();
+
+             self.focus();
+
+             win.document.open();
+
+             win.document.write(Texto);
+
+             win.document.close();
+
+             win.print();
+
+             win.close();
+
+
+         }
+
+
+         function IncluirFavorito(strTitulo2) {
+
+             var strTitulo = strTitulo2;
+             var strRuta = top.location.href;
+
+
+             if (window.sidebar) { // Mozilla Firefox
+                 window.sidebar.addPanel(strTitulo, strRuta, "");
+             }
+             else if (window.external) { // IE
+                 window.external.AddFavorite(strRuta, strTitulo);
+             }
+             else if (window.opera /*&& window.print*/) { // Opera y chrome
+                 alert("Para agregar la página a sus favoritos presione control + D");
+             }
+             else {
+                 alert("Para agregar la página a sus favoritos presione control + D");
+
+             }
+         }
+
+
+         function IncluirFavorito(strTitulo2) {
+
+             var strTitulo = strTitulo2;
+             var strRuta = top.location.href;
+
+
+             if (window.sidebar) { // Mozilla Firefox
+                 window.sidebar.addPanel(strTitulo, strRuta, "");
+             }
+             else if (window.external) { // IE
+                 window.external.AddFavorite(strRuta, strTitulo);
+             }
+             else if (window.opera /*&& window.print*/) { // Opera y chrome
+                 alert("Para agregar la página a sus favoritos presione control + D");
+             }
+             else { alert("Para agregar la página a sus favoritos presione control + D"); }
+
+         }
+
+
+         function OnEmail(strTitulo2) {
+             var oWnd = GetContentWnd();
+             var oDoc = oWnd.document;
+             var oDescription = oDoc.getElementById("Description");
+             var strDescription = ((oDescription == null) || (oDescription.content == "")) ? oDoc.title : oDescription.content;
+
+             if (oDoc.title == "")
+                 oWnd.location.href = "mailto:?body=" + BuildEmailDescription(strDescription, AddParamToURL(oWnd.location.href, strEmailString));
+             else
+                 oWnd.location.href = "mailto:?subject=" + escape(oDoc.title) + "&body=" + BuildEmailDescription(strDescription, AddParamToURL(oWnd.location.href, strEmailString));
+
+             return true;
+         }
+
+         function BuildEmailDescription(strDescription, hRef, strTitulo2) {
+             var strVolverResult;
+
+             var strTitulo = strTitulo2;
+             var strMensaje = 'Estimado amigo:' + String.fromCharCode(13) + String.fromCharCode(13) +
+                         'Adjunto envío la referencia a un asunto constitucional que podría ser de su interés. ' +
+                         'Ha sido tomada del Sistema Costarricense de Información Jurídica (SCIJ) y ' +
+                         'podrá ser consultada dando click sobre el siguiente enlace:' +
+                         String.fromCharCode(13) + String.fromCharCode(13);
+
+             var strMensaje1 = String.fromCharCode(13) + String.fromCharCode(13) + strTitulo +
+                         String.fromCharCode(13) + String.fromCharCode(13) + ' Saludos cordiales';
+             strVolverResult = hRef.replace('lResultado', 'Result');
+             return escape(strMensaje + "URL: " + strVolverResult + strMensaje1);
+         }
+
+         function AddParamToURL(strLoc, strParam) {
+             var i = strLoc.lastIndexOf("?");
+             if (strLoc.indexOf(strParam, i) >= 0)
+                 return strLoc;
+
+             strLoc += ((i >= 0) && (i > strLoc.lastIndexOf("/"))) ? "&" : "?";
+             return strLoc + strParam + ' ';
+         }
+
+         function OnDiscuss(ContentID) {
+             var strCmd = "/library/shared/comments/asp/threadedcomments.aspx?";
+             strCmd += "aID=" + ContentID;
+
+             var nHeight = (window.screen.availHeight < 560) ? window.screen.availHeight - 50 : 560;
+             var nWidth = (window.screen.availWidth < 640) ? window.screen.availWidth - 50 : 640;
+             var nTop = window.screen.availHeight * 2 / 5 - nHeight / 2;
+             var nLeft = window.screen.availWidth / 2 - nWidth / 2;
+             if (nTop < 0) nTop = 0;
+             if (nLeft < 0) nLeft = 0;
+
+             var strOpts = "resizable=yes,menubar=yes,status=yes,toolbar=no,height=" + String(nHeight) + ",width=" + String(nWidth);
+             if (navigator.appName.toUpperCase() == "NETSCAPE")
+                 strOpts = "screenX=" + String(nLeft) + ",screenY=" + String(nTop) + "," + strOpts;
+             else
+                 strOpts = "left=" + String(nLeft) + ",top=" + String(nTop) + "," + strOpts;
+
+             var oWnd = window.open(strCmd, "RatingsForum", strOpts);
+             if (oWnd == null)
+                 return false;
+
+             oWnd.focus();
+             return true;
+         }
+
+         function setCookie(name, value) {
+             var curCookie = name + "=" + escape(value) + "; expires=Wed, 07-Jun-2023 11:07:25 GMT; path=/; domain=go.com";
+             document.cookie = curCookie;
+             window.location.href = window.location.href;
+         }
+
+
+         function setFontCookie(name, value) {
+             var curCookie = name + "=" + escape(value) + "; expires=Wed, 07-Jun-2023 11:07:25 GMT;";
+             document.cookie = curCookie;
+         }
+
+         function getCookie(name) {
+             var dc = document.cookie;
+             var prefix = name + "=";
+             var begin = dc.indexOf("; " + prefix);
+             if (begin == -1) {
+                 begin = dc.indexOf(prefix);
+                 if (begin != 0) return null;
+             }
+             else
+                 begin += 2;
+
+             var end = document.cookie.indexOf(";", begin);
+             if (end == -1)
+                 end = dc.length;
+             return unescape(dc.substring(begin + prefix.length, end));
+         }
+         if (getCookie('nTamanoLetra') == null) {
+             var fontsize = 11;
+         } else {
+             var fontsize = getCookie('nTamanoLetra');
+         }
+
+         function changeFontSize(fontsize) {
+             setFontCookie('nTamanoLetra', fontsize);
+             window.top.location.reload();
+         }
+
+         //Para incluir un único articulo en la cesta
+         function IncluirActa(nNorma, strTexto) {
+             setFontCookie('Tp_Cesta_Norm', "NORM");
+             if (strTexto == "Incluir") {
+                 if (mChkIfExsists('nN' + nNorma)) {
+                     setFontCookie('nN' + nNorma, nNorma);
+
+                     m_nCesta++;
+                 }
+             }
+             else {
+                 if (strTexto == "Borrar") {
+                     DelCookie('nN' + nNorma);
+                     m_nCesta--;
+                 }
+             }
+             setCookie('nCesta', m_nCesta);
+
+         }
+         function ValidarTamano() {
+             var strNombre = document.getElementById("_ctl0__ctl0_ContentPlaceHolder1_txtConsulta")
+
+             strNombre = strNombre.value
+             if (strNombre.length <= MIN_CARACTERES) {
+                 if (SoloDigitos(strNombre) == false) {
+                     alert("Por favor digite una palabra de mayor longitud para que los resultados sean más exactos");
+
+                     return false;
+                 }
+             }
+
+             return true;
+         }
+
+    </script>
+
+    <script>
+        String.prototype.preg_quote = function () {
+            p = /([:.\+*?[^\]$(){}=!<>|:)])/g;
+            return this.replace(p, "\\$1");
+        }
+        function buscar(cadena) {
+            resetear();
+            if (!cadena.length) return;
+            var info3;
+            cadena = cadena.preg_quote();
+            var patron = new RegExp(cadena + '(?!\}\})', 'gim');
+            var espacio = /^\s$/;
+            var el = document.getElementById('tabla').getElementsByTagName('*');
+            for (var ii = 0; ii < el.length; ii++) {
+                if (el[ii].hasChildNodes && el[ii].nodeName.toLowerCase() != 'title' && el[ii].nodeName.toLowerCase() != 'script' && el[ii].nodeName.toLowerCase() != 'meta' && el[ii].nodeName.toLowerCase() != 'link' && el[ii].nodeName.toLowerCase() != 'style') {
+                    var tt = el[ii].childNodes;
+                    for (var jj in tt) {
+                        if (tt[jj].nodeType == 3 && !espacio.test(tt[jj].nodeValue)) {
+                            patron.lastIndex = 0;
+                            if (info3 = patron.exec(tt[jj].nodeValue)) {
+                                tt[jj].nodeValue = tt[jj].nodeValue.replace(patron, '{{' + tt[jj].nodeValue.substr(info3['index'], cadena.length) + '}}');
+
+                            }
+                        }
+
+                    }
+                }
+            }
+            document.getElementById('tabla').innerHTML = document.getElementById('tabla').innerHTML.split('}}').join('</span>').split('{{').join('<span style="background-color: yellow">');
+
+        }
+        function resetear() {
+            document.getElementById('tabla').innerHTML = original;
+        }
+        window.onload = function () {
+            var tabla = document.getElementById('dvContenedorTextoCompleto');
+            var ColumnaIzquierda = document.getElementById('dvMenuIzquierdo');
+            var ColumnaDerecha = document.getElementById('dvResultados');
+            var dvResultadosAfectaron = document.getElementById('dvResultadosAfectaron');
+            var dvResultadosAConcordancias = document.getElementById('dvResultadosAConcordancias');
+            var dvResultadosDescriptores = document.getElementById('dvResultadosDescriptores');
+            var ColumnaAfectaciones = document.getElementById('dvResultadosAfectaciones');
+            var dvResultadosNormaDictamen = document.getElementById('dvResultadosNormaDictamen');
+            var dvResultadosResoluciones = document.getElementById('dvResultadosResoluciones');
+            var dvResultadosObservaciones = document.getElementById('dvResultadosObservaciones');
+            var dvResultadosUsuales = document.getElementById('dvResultadosUsuales');
+            var dvResultadosJurRelacionada = document.getElementById('dvResultadosJurRelacionada');
+            var dvResultadosJurHacienda = document.getElementById('dvResultadosJurHacienda');
+            var dvResultadosArticulo = document.getElementById('dvResultadosArticulo');
+            var dvTextoCompleto = document.getElementById('dvTextoCompleto');
+            var dvPantallaGenerica = document.getElementById('dvPantallaGenerica');
+
+            var f1 = document.getElementById('_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_f1');
+            var largo = screen.height;
+
+            var w = window,
+            d = document,
+            e = d.documentElement,
+            g = d.getElementsByTagName('body')[0],
+            x = w.innerWidth || e.clientWidth || g.clientWidth,
+            y = w.innerHeight || e.clientHeight || g.clientHeight;
+
+            if (tabla != null) {
+                tabla.style.height = y - 125 + "px"
+            }
+
+            if (ColumnaIzquierda != null)
+            {
+                ColumnaIzquierda.style.height = y - 109 + "px";
+            }
+            
+            if (ColumnaDerecha != null)
+            {
+                ColumnaDerecha.style.height = y - 152 + "px"
+            }
+            
+            if (dvResultadosAfectaron != null)
+            {
+                dvResultadosAfectaron.style.height = y - 109 + "px"
+            }
+            if (dvResultadosAConcordancias)
+            {
+                dvResultadosAConcordancias.style.height = y - 109 + "px"
+            }
+
+            if (ColumnaAfectaciones != null)
+            {
+                ColumnaAfectaciones.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosDescriptores != null) {
+                dvResultadosDescriptores.style.height = y - 109 + "px"
+            }
+            
+            if (dvResultadosNormaDictamen != null) {
+                dvResultadosNormaDictamen.style.height = y - 109 + "px"
+            }
+            
+            if (dvResultadosResoluciones != null) {
+                dvResultadosResoluciones.style.height = y - 109 + "px"
+            }
+            
+            if (dvResultadosObservaciones != null)
+            {
+                dvResultadosObservaciones.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosUsuales != null) {
+                dvResultadosUsuales.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosJurRelacionada != null) {
+                dvResultadosJurRelacionada.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosJurHacienda != null) {
+                dvResultadosJurHacienda.style.height = y - 109 + "px"
+            }
+
+            if (dvResultadosArticulo != null) {
+                dvResultadosArticulo.style.height = y - 126 + "px"
+            }
+
+            if (dvTextoCompleto != null) {
+                dvTextoCompleto.style.height = y - 109 + "px"
+            }
+
+            if (dvPantallaGenerica != null) {
+                dvPantallaGenerica.style.height = y - 109 + "px"
+            }
+            
+            //original = document.getElementById('tabla').innerHTML;
+        }
+    </script>
+
+    <table style="border-width: 0px; width: 100%; margin-left: auto; margin-right: auto; border-collapse:collapse; border: none" border="0">
+        <tr>
+            <td style="background-color: #94adce; width: 20%; min-width: 120px; vertical-align: top; height: 100%">
+                <div id="dvMenuIzquierdo" style="overflow-x:hidden; overflow-y:scroll">
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_Panel1" language="javascript" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;_ctl0__ctl0_ContentPlaceHolder1_btnBuscar&#39;)">
+	
+                    <table id="_ctl0__ctl0_ContentPlaceHolder1_Table1" class="Buscar">
+		<tr>
+			<td colspan="3">
+                                <input name="_ctl0:_ctl0:ContentPlaceHolder1:txtConsulta" type="text" maxlength="100" id="_ctl0__ctl0_ContentPlaceHolder1_txtConsulta" />
+                                <img src="../../../images/boton_ayuda.gif" id="_ctl0__ctl0_ContentPlaceHolder1_Img1" onclick="MostrarAyuda(strAyudaBuscador);" class="imagen_ayuda" />
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3">
+                                <input id="_ctl0__ctl0_ContentPlaceHolder1_RBNormativa" type="radio" name="_ctl0:_ctl0:ContentPlaceHolder1:Criterio" value="RBNormativa" checked="checked" /><label for="_ctl0__ctl0_ContentPlaceHolder1_RBNormativa">Normativa</label>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3">
+                                <input id="_ctl0__ctl0_ContentPlaceHolder1_RBProcunciamientos" type="radio" name="_ctl0:_ctl0:ContentPlaceHolder1:Criterio" value="RBProcunciamientos" /><label for="_ctl0__ctl0_ContentPlaceHolder1_RBProcunciamientos">Pronunciamientos</label>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3">
+                                <input id="_ctl0__ctl0_ContentPlaceHolder1_RBAsuntosConst" type="radio" name="_ctl0:_ctl0:ContentPlaceHolder1:Criterio" value="RBAsuntosConst" /><label for="_ctl0__ctl0_ContentPlaceHolder1_RBAsuntosConst">Asuntos Constitucionales</label>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="1">
+                                <span id="_ctl0__ctl0_ContentPlaceHolder1_lblAnno">Año:</span>
+                            </td>
+			<td colspan="1">
+                                <input name="_ctl0:_ctl0:ContentPlaceHolder1:txtAnno" type="text" maxlength="4" id="_ctl0__ctl0_ContentPlaceHolder1_txtAnno" style="width:40px;" />
+                            </td>
+			<td colspan="1" style="text-align: left">
+                                <select name="_ctl0:_ctl0:ContentPlaceHolder1:DDLCantiadadResultados" id="_ctl0__ctl0_ContentPlaceHolder1_DDLCantiadadResultados">
+				<option selected="selected" value="50">50 resultados</option>
+				<option value="100">100 resultados</option>
+				<option value="0">Todos los resultados</option>
+
+			</select>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="2">
+                                <span id="_ctl0__ctl0_ContentPlaceHolder1_lblBuscarEn">Buscar en:</span>
+                            </td>
+			<td colspan="1" style="text-align: left">
+                                <select name="_ctl0:_ctl0:ContentPlaceHolder1:DDLBuscarEn" id="_ctl0__ctl0_ContentPlaceHolder1_DDLBuscarEn">
+				<option selected="selected" value="Ficha">Ficha del documento</option>
+				<option value="Contenido">Contenido del texto</option>
+
+			</select>
+                            </td>
+		</tr>
+		<tr>
+			<td colspan="3" style="text-align: center">
+                                <input type="submit" name="_ctl0:_ctl0:ContentPlaceHolder1:btnBuscar" value="Buscar" id="_ctl0__ctl0_ContentPlaceHolder1_btnBuscar" />
+                            </td>
+		</tr>
+	</table>
+	
+                
+</div>
+                <hr />
+                <!-- PANEL DE BUSQUEDAS AVANZADAS -->
+                <div class="OpcionMenu" title="Búsqueda de documentos según criterios ciertos">
+                    <a href="http://www.pgrweb.go.cr:80/scij/avanzada_pgr.aspx" style="color: white !important" target="_top">Menú de Búsquedas Avanzadas</a>
+                </div>
+                <hr />
+                <!-- NORMATIVA -->
+                
+                <!--Opción de Texto Completo-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmTextoCompleto" class="OpcionMenuSeleccionado" title="Muestra el texto completo de la norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=60183&amp;nValor3=0&amp;strTipM=TC">Texto completo</a>
+                </div>
+                
+                <!--Ficha de la norma. SIEMPRE se debe mostrar-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmFichaNorma" class="OpcionMenu" title="Muestra los datos generales de la norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma.aspx?param1=NRM&nValor1=1&nValor2=60183&amp;nValor3=0&amp;strTipM=FN">Ficha de la norma</a>
+                </div>
+                <!--Ficha del artículo. No se habilita si se muestra la ficha de la norma-->
+                
+                <!--Opción de normativa afectada-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmNormativaAfectada" class="OpcionMenu" title="Muestra la normativa anterior que es afectada por la presente norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_afectaciones.aspx?param1=NRF&nValor1=1&amp;nValor2=60183&amp;nValor3=0&amp;nValor5=&amp;strTipM=NA">Normativa afectada</a>
+                </div>
+                
+                <!--Opción de normativa que la afectó-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmNormativaQueAfecto" class="OpcionMenu" title="Muestra la normativa posterior que afecta a  la presente norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_afectaron_Consulta.aspx?param1=NRR&nValor1=1&amp;nValor2=60183&amp;nValor3=0&amp;nValor5=&amp;strTipM=NF">Normativa que la afectó</a>
+                </div>
+                
+                <!--Opción de Concordancias-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmConcordancias" class="OpcionMenu" title="Concordancias de la norma con otras del mismo tema dentro del Ordenamiento Jurídico">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_concordancias.aspx?param1=NRC&nValor1=1&amp;nValor2=60183&amp;nValor3=0&amp;nValor5=&amp;strTipM=C">Concordancias</a>
+                </div>
+                
+                <!--Opción de Reglamentaciones-->
+                
+                <!--Opción de descriptores-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmDescriptores" class="OpcionMenu" title="Temas de la norma según los descriptores del Macrotesauro en Derecho">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_descriptores.aspx?param1=NRE&nValor1=1&amp;nValor2=60183&amp;nValor3=0&amp;strTipM=D">Descriptores</a>
+                </div>
+                
+                <!--Opción de pronunciamientos de la PGR-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmPronunciamientoPGR_NRI" class="OpcionMenu" title="Jurisprudencia administrativa según los análisis de la Procuraduría General">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma_dictamen.aspx?param1=NRI&nValor1=1&amp;nValor2=60183&amp;nValor3=0&amp;strTipM=P">Pronunciamientos de la PGR</a>
+                </div>
+                
+                <!--Opción de acciones de inconstitucionalidad-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmAccionesResolucionesConst" class="OpcionMenu" title="Acciones, consultas y sentencias de la Sala Constitucional">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_resoluciones.aspx?param1=NRU&nValor1=1&amp;nValor2=60183&amp;nValor3=0&amp;nValor5=&amp;strTipM=AI">Acciones y resoluciones constitucionales</a>
+                </div>
+                
+                <!--Opción de observaciones. Solo se presentan en la ficha de la norma-->
+                
+                <!--Opción de jurisprudencia relacionada-->
+             
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmConsultaSentenciaNorma" class="OpcionMenu" title="Jurisprudencia judicial de los Tribunales de Justicia sobre la norma">
+                          <!--  <a target="_self" style="color: white !important"  href="../../../Busqueda/Normativa/Normas/jur_consulta_sent_x_nrm.aspx?nValor2=60183&nValor1=1&amp;nValor5=&amp;nValor3=0&amp;strTipM=J" >Jurisprudencia relacionada</a>-->
+                          <!--  <a target="_self" style="color: white !important" href="https://nexuspj.poder-judicial.go.cr/search?q=&wq=normasNumeroYArticulo:5027%7C%7C23850" >Jurisprudencia relacionada</a>-->
+                           <!--<a target="_self" style="color: white !important" href="https://nexuspj.poder-judicial.go.cr/pgr/60183/">Jurisprudencia relacionada</a>-->
+                          <a target="_self" style="color: white !important"  href="https://nexuspj.poder-judicial.go.cr/search?q=&advanced=true&nq=art_num:(%7C%7C)$$norm_num:(%7C8589%7C)">Jurisprudencia relacionada</a> 
+                          </div>
+
+                  
+
+
+                <!--Opción de jurisprudencia relacionada-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmJurmhda" class="OpcionMenu" title="Jurisprudencia Administrativa de Hacienda sobre la norma">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_JurNorma_mhda.aspx?nValor2=60183&nValor1=1&amp;nValor5=&amp;nValor3=0&amp;strTipM=JA">Jurisp. de Hacienda</a>
+                </div>
+                
+                <br />
+                
+                <!--Versión Original. Solo si existen más versiones-->
+                <div id="_ctl0__ctl0_ContentPlaceHolder1_nrmVersionOriginal" class="OpcionMenu" title="Búsqueda literal en los textos y contenidos de los pronunciamientos">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma.aspx?param1=NRM&nValor1=1&amp;nValor2=60183&amp;nValor3=67565&amp;strTipM=FN">Versión original</a>
+                </div>
+                
+                <!--Versión Anterior.-->
+                
+                <div class="OpcionMenu" title="Ir a la versión anterior de la norma, antes de la presente.">
+                    <a target="_top" style="color: white !important" href="../../../Busqueda/Normativa/Normas/nrm_norma.aspx?param1=NRM&nValor1=1&amp;nValor2=60183&amp;nValor3=125932&amp;strTipM=VA">Versión anterior</a>
+                </div>
+                
+                <!--Versión Siguiente-->
+                
+                <!--Versión Vigente. Solo se existen más versiones y no estamos en la última-->
+                
+                <br />
+                
+                <hr />
+                    
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" background="../../../imagenes/tabla_opciones_bkg.jpg">
+                    <tr>
+                        <td colspan="2" style="color: White">Opciones:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <img src="../../../imagenes/tabla_opciones_div.gif" width="100%" height="2">
+                        </td>
+                    </tr>
+                    <tr style="cursor: pointer" onclick="return GuardarTexto('Texto Completo Norma 8589')">
+                        <td class="auto-style2">
+                            <img src="../../../imagenes/icon_guardar.gif" width="30" height="22">
+                        </td>
+                        <td class="texto2" style="color: White">Guardar
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <img src="../../../imagenes/tabla_opciones_div.gif" width="100%" height="2">
+                        </td>
+                    </tr>
+                    <tr style="cursor: pointer" onclick="return ImprimirTexto('Texto Completo Norma 8589')">
+                        <td class="auto-style2">
+                            <img src="../../../imagenes/icon_imprimir.gif" width="30" height="22">
+                        </td>
+                        <td class="texto2" style="color: White">Imprimir
+                        </td>
+                    </tr>
+                    
+                </table>
+                    
+                <hr />
+                <br />
+                </div>
+            </td>
+            <td style="width: 80%; white-space: normal; min-width: 600px; overflow:hidden; vertical-align: top; height: 100%">
+                
+                    
+
+    
+    <!-- Para ir al inicio de la página -->
+    
+    <span id="barra" style="cursor: pointer;  width: 79%; height: 15px;">
+        <table border="0" style="margin-left: auto; margin-right: auto; height: 15px; text-align: center; width: 100%" id="Tabla_botones" valign="top" >
+            <tr>
+                <!--Botón para buscar artículos-->
+                <td style="width: 30%; text-align: center !important">
+                    <table style="height: 15px; width: 50%; text-align: center; margin-left: auto; margin-right: auto">
+                        <tr bordercolordark="white" bordercolorlight="#336699" bgcolor="#003366">
+                            <td style="font-size: xx-small" title="Permite buscar artículos en particular dentro del texto de la norma">
+                                <font color="white" style="cursor: pointer" face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                                    <label style="cursor: pointer" onclick="return MostrarBuscador();">
+                                        <b>
+                                            <nobr>Buscar artículos</nobr>
+                                        </b>
+                                    </label>
+                                </font>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!--Botón para artículos anterior y siguiente de la norma-->
+                <td style="width: 40%">
+                    <table border="1" style="margin-left: auto; margin-right: auto; height: 15px; text-align: center">
+                        <tr bordercolordark="white" bordercolorlight="#336699" bgcolor="#003366">
+                            <td align="middle" style="font-size: xx-small">
+                                <font color="white" face="Verdana, Arial, Helvetica, sans-serif" size="1">
+                                    <!--En la ficha de la norma solamente hay artículo siguiente por lo
+			 				    tanto se deshabilita la posibilidad de ir al artículo anterior-->
+                                    <font color="gray">
+                                        <label>
+                                            &lt;&lt;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                                    </font><b>Artículos</b>
+                                    
+                                    <a style="text-decoration: none;" href="nrm_CONSULTA_articulo.aspx?param1=NRA&nBaseDato=1&nNorma=60183&nVersion=126725"
+                                        target="_top">&nbsp;&nbsp;&nbsp;&nbsp;<font color="white">&gt;&gt;</font></a>
+                                    
+                                </font>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!--Botón para la ficha del expediente-->
+                <td style="width: 30%">
+                    <table border="1" style="height: 15px; margin-left: auto; margin-right: auto;">
+                        <tr bordercolordark="white" bordercolorlight="#336699" bgcolor="#003366">
+                            <td style="font-size: xx-small; text-align: center" title="Muestra los datos generales de la norma">
+                                <font color="white" style="cursor: pointer" face="Verdana, Arial, Helvetica, sans-serif"
+                                    size="1">
+                                    <label style="cursor: pointer" onclick="return MostrarFicha();">
+                                        <b>
+                                            <nobr>Ficha de la Norma</nobr>
+                                        </b>
+                                    </label>
+                                </font>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </span>
+    <div id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_Panel1" language="javascript" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_BuscarArt&#39;)">
+	
+    <div id="buscador" style="z-index: 2; visibility: hidden; width: 300px; position: absolute;
+        height: 28px; top: 138px; left: 246px;">
+
+        <table style="border:1px; border-color:#31639c; text-align:center; width:100%">
+            <tr>
+                <td colspan="4">
+                    <table style="width:100%">
+                        <tr>
+                            <td class="tabla_titulo">
+                                Ley&nbsp;:&nbsp;
+                                8589
+                                
+                                &nbsp;(47&nbsp;artículos)
+                                
+                                &nbsp;(1&nbsp;transitorio)
+                                
+                            </td>
+                            <td class="tabla_titulo" align="right">
+                                <img style="cursor: pointer" src="../../../images/boton_cerrar2.gif" width="15" height="16"
+                                    border="0" onclick="return OcultarBuscador()">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+                      <tr>
+                <td class="tabla_texto2" style="border: 0px">
+                    <b>Artículo:</b>&nbsp;
+               <input name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:txtNumeroArt" type="text" maxlength="4" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_txtNumeroArt" class="ControlesMedianos" title="Indique el número de artículo que desea buscar" style="WIDTH: 45px; HEIGHT: 20px" />&nbsp;&nbsp;
+			  
+                </td>
+                <td class="tabla_texto2" style="border: 0px">
+                    <b>Súbnúmero:</b>&nbsp;
+      
+                    <select name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:cbSubArt" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_cbSubArt" accesskey="m" class="Mediano">
+		<option selected="selected" value="0">0</option>
+		<option value="BIS">BIS</option>
+		<option value="TER">TER</option>
+		<option value="QUATER">QUATER</option>
+		<option value="QUINQUIES">QUINQUIES</option>
+		<option value="SEXIES">SEXIES</option>
+		<option value="OCTIES">OCTIES</option>
+		<option value="NOVIES">NOVIES</option>
+		<option value="DECIES">DECIES</option>
+		<option value="UNDECIES">UNDECIES</option>
+		<option value="DUODECIES">DUODECIES</option>
+		<option value="TREDECIES">TREDECIES</option>
+		<option value="QUATTUORDECIES">QUATTUORDECIES</option>
+		<option value="QUINDECIES">QUINDECIES</option>
+
+	</select>
+                    &nbsp;&nbsp;
+                </td>
+                <td class="tabla_texto2" style="border: 0px">
+                    <b>Tipo:</b>&nbsp;
+         
+                    <select name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:cbTipoArt" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_cbTipoArt" class="Mediano">
+		<option selected="selected" value="N">Normal</option>
+		<option value="T">Transitorio</option>
+		<option value="A">Anexo</option>
+
+	</select>
+                    &nbsp;&nbsp;
+                </td>
+                <td class="tabla_texto2" class="ControlesMedianos" style="border: 0px">
+                    <input type="hidden" value="1" name="nBaseDato">
+                    <input type="hidden" value="60183" name="nNorma">
+                    <input type="hidden" value="126725"
+                        name="nVersion">
+                    <input type="hidden" value="0"
+                        name="nRecopilada">
+                        <input type="submit" name="_ctl0:_ctl0:ContentPlaceHolder1:ContentPlaceHolderMenuBusqueda:BuscarArt" value="Buscar" id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_BuscarArt" class="cmdCeleste" title="Ejecuta la búsqueda del artículo" style="height: 26px" />
+              </td>
+            </tr>
+        </table>
+
+    </div>
+        
+</div>
+    <!--Tabla de la ficha de la norma-->
+    <div id="ficha" style="position: absolute; width: 400; height: 0px; z-index: 2; visibility: hidden">
+        <table border="1" bordercolor="#31639c" cellspacing="0" cellpadding="0" align="center"
+            width="60%">
+            <!--Título-->
+            <tr>
+                <td colspan="2">
+                    <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                        <tr>
+                            <td width="77%" class="tabla_titulo">
+                                Ley&nbsp;:&nbsp;
+                                8589
+                                
+                                &nbsp;&nbsp;&nbsp;del&nbsp;
+                                25/04/2007
+                                
+                            </td>
+                            <td class="tabla_titulo" align="right" width="1%">
+                                <img style="cursor: pointer" src="../../../images/boton_cerrar2.gif" width="15" height="16"
+                                    border="0" onclick="return OcultarFicha()">
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            
+            <tr>
+                <td colspan="2" class="tabla_texto1" width="80%" style="border-left: 1px solid">
+                    <!--Nombre de la norma-->
+                    Ley de Penalización de la Violencia Contra las Mujeres<br>
+                    <!--Estado de la norma-->
+                    
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="tabla_texto3" width="20%">
+                    <nobr>Ente emisor:</nobr>
+                </td>
+                <td class="tabla_texto2" width="80%">
+                    Asamblea Legislativa
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="tabla_texto3" width="20%">
+                    <nobr>Fecha de vigencia desde:</nobr>
+                </td>
+                <td class="tabla_texto2" width="80%">
+                    30/05/2007
+                </td>
+            </tr>
+            
+            <!--Se indica la versión actual de un total de versiones de la norma-->
+            <tr>
+                <td colspan="2" class="tabla_texto3" width="100%" style="text-align: right">
+                    <nobr>
+				<b>Versión de la norma:</b> 8 de 8&nbsp;
+				
+							del 23/08/2021
+						
+				</nobr>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="dvContenedorTextoCompleto" style="overflow-x:hidden; overflow-y:scroll">
+    <table border="0" width="95%" align="center">
+        <tr>
+            <td align="center" class="style" style="font-weight: bold; color: Black">
+                Recuerde que Control F es una opción que le permite buscar
+                en la totalidad del texto
+            </td>
+
+        </tr>
+                    <tr><td>
+
+            </td>
+                </tr>
+        <tr>
+            <td align="center" width="100%" class="auto-style3">
+                <br />
+                <a href="#ddown" style="color: Black"><span class="style5">Ir al final del documento
+                </span></a>
+            </td>
+        </tr>
+        <tr>
+            <td id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_tdVersionIntermediaNorma" align="center" width="100%">
+                <br />
+                <span style="font-style: italic; font-family: Verdana, Arial, Helvetica, sans-serif;
+                    color: maroon; font-weight: bold;">
+                    <span id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_lblMensajeVersionesIntermedias">- Usted está en la última versión de la norma</span>
+                    - </span>                
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <div id="dvTextoCompleto" style="position: static;">
+                    <div id="divTextoPrincipal" class="texto_documento10">
+                        <title>Texto Completo Norma 8589</title>
+                        <table style="width:95%; padding-bottom: 25px; padding-left: 25px; padding-right: 25px; padding-top: 25px;">
+                            <tr>
+                                <td style="text-align:center; width:100%" colspan="2">
+                                    <font size="4">
+                        <span id="_ctl0__ctl0_ContentPlaceHolder1_ContentPlaceHolderMenuBusqueda_lblTitulo">Ley de Penalización de la Violencia Contra las Mujeres                                                                                                                                                                                                         </span>
+                    </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="style1" >
+                                    
+                                    <font style="font-size: 10pt; font-family='Verdana, Arial, Helvetica, sans-serif'">
+                        <div id="dvTextoCompleto"><a name="up"></a>
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+xmlns:a="urn:schemas-microsoft-com:office:access"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882"
+xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema"
+xmlns:b="urn:schemas-microsoft-com:office:publisher"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+xmlns:oa="urn:schemas-microsoft-com:office:activation"
+xmlns:html="http://www.w3.org/TR/REC-html40"
+xmlns:q="http://schemas.xmlsoap.org/soap/envelope/" xmlns:D="DAV:"
+xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+xmlns:ois="http://schemas.microsoft.com/sharepoint/soap/ois/"
+xmlns:dir="http://schemas.microsoft.com/sharepoint/soap/directory/"
+xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+xmlns:dsp="http://schemas.microsoft.com/sharepoint/dsp"
+xmlns:udc="http://schemas.microsoft.com/data/udc"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:sub="http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts/"
+xmlns:ec="http://www.w3.org/2001/04/xmlenc#"
+xmlns:sp="http://schemas.microsoft.com/sharepoint/"
+xmlns:sps="http://schemas.microsoft.com/sharepoint/soap/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List href="1441EF_archivos/filelist.xml">
+<title>Texto Completo acta: 1441EF</title>
+<title>Nº 8589</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Procuraduría General de la República</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Lina Zárate Elizondo</o:LastAuthor>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>7</o:TotalTime>
+  <o:Created>2007-05-30T15:04:00Z</o:Created>
+  <o:LastSaved>2021-06-11T15:33:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>162</o:Words>
+  <o:Characters>896</o:Characters>
+  <o:Company>Procuraduría General de la República</o:Company>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1056</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="1441EF_archivos/themedata.thmx">
+<link rel=colorSchemeMapping href="1441EF_archivos/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ES-CR</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" LatentStyleCount="371">
+  <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   UnhideWhenUsed="true" Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	mso-bidi-font-size:10pt!important!important;
+	font-family:"Verdana!important",Verdana;
+	mso-fareast-font-family:"Verdana";}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana",serif;
+	mso-fareast-font-family:"Verdana";
+	mso-fareast-theme-font:minor-fareast;}
+p.pa6, li.pa6, div.pa6
+	{mso-style-name:pa6;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana",serif;
+	mso-fareast-font-family:"Verdana";
+	mso-fareast-theme-font:minor-fareast;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10pt!important!important;
+	mso-ansi-font-size:10pt!important!important;
+	mso-bidi-font-size:10pt!important!important;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana",serif;}
+table.TableNormal
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10pt!important!important;
+	font-family:"Verdana",serif;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ES-CR style='tab-interval:35.4pt'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='mso-ansi-language:ES'>Nº 8589<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span lang=ES
+style='mso-ansi-language:ES'>&nbsp;LA ASAMBLEA LEGISLATIVA<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span lang=ES
+style='mso-ansi-language:ES'>DE LA REPÚBLICA DE COSTA RICA<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span lang=ES
+style='mso-ansi-language:ES'>&nbsp;DECRETA:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b><span lang=ES
+style='mso-ansi-language:ES'>&nbsp;PENALIZACIÓN DE LA VIOLENCIA CONTRA LAS
+MUJERES</span></b><b style='mso-bidi-font-weight:normal'><span lang=ES
+style='mso-ansi-language:ES'><o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span lang=ES
+style='mso-ansi-language:ES'>&nbsp;TÍTULO I<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b><span lang=ES
+style='mso-ansi-language:ES'>&nbsp;PARTE GENERAL</span></b><b style='mso-bidi-font-weight:
+normal'><span lang=ES style='mso-ansi-language:ES'><o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span lang=ES
+style='mso-ansi-language:ES'>&nbsp;CAPÍTULO I<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b><span lang=ES
+style='mso-ansi-language:ES'>&nbsp;DISPOSICIONES GENERALES</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=ES style='mso-ansi-language:
+ES'><o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 1- Fines. La presente
+ley tiene como fin proteger los derechos de las mujeres víctimas de violencia y
+sancionar las formas de violencia física, psicológica, sexual y patrimonial
+perpetrada en su contra, por ser una práctica discriminatoria por razón de
+género, específicamente en una relación o vínculo de pareja, sea matrimonial,
+unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra
+análoga, aun cuando medie divorcio, separación o ruptura, en cumplimiento de
+las obligaciones contraídas por el Estado en la Convención para la Eliminación
+de todas las Formas de Discriminación contra la Mujer, Ley 6968, de 2 de
+octubre de 1984, así como en la Convención Interamericana para Prevenir,
+Sancionar y Erradicar la Violencia contra la Mujer, Ley 7499, de 2 de mayo de
+1995.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo de 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=2'> Ficha articulo</a><br /><br /><br /><br /><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 2- Ámbito de aplicación.
+Esta ley se aplicará cuando las conductas tipificadas como delitos se dirijan
+contra una mujer, en el contexto o con ocasión de una relación o vínculo de pareja,
+sea matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia,
+casual u otra análoga, aun cuando medie divorcio, separación o ruptura, siempre
+que la conducta no constituya un delito más grave o previsto con una pena
+mayor.</p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Se amplía el ámbito de aplicación
+de esta ley para los supuestos contemplados en el artículo 21 bis, denominado
+&quot;<span class=SpellE>Femicidio</span> en otros contextos&quot;, así como a
+lo establecido en el segundo párrafo de los artículos 22 &quot;Maltrato&quot;,
+23 &quot;Restricción a la libertad de tránsito&quot; y 27 &quot;Amenazas contra
+una mujer&quot; de esta ley.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así adicionado el
+párrafo anterior por el artículo 1° de la Ley para establecer el <span
+class=SpellE>femicidio</span> ampliado, N° 10022 del 23 de agosto de 2021)<o:p></o:p></i></p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo de 2021)<o:p></o:p></i></p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'><o:p>&nbsp;</o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=3'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 3.- Fuentes de
+interpretación<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Constituyen fuentes de interpretación
+de esta Ley todos los instrumentos internacionales de derechos humanos vigentes
+en el país, que tengan un valor similar a la Constitución Política, los cuales,
+en la medida en que otorguen mayores derechos y garantías a las personas,
+privan sobre la Constitución Política. En particular, serán fuentes de
+interpretación de esta Ley:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>&nbsp;a) La Convención para la eliminación de todas las formas de
+discriminación contra la mujer, Ley <span class=SpellE>Nº</span> 6968, de 2 de
+octubre de 1984.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>b) La Convención interamericana para prevenir, sancionar y erradicar la
+violencia contra la mujer, Ley <span class=SpellE>Nº</span> 7499, de 2 de mayo
+de 1995.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=4'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 4.- Delitos de
+acción pública<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>Todos los delitos contemplados en esta Ley serán de acción pública.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=5'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 5.- Obligaciones de
+las personas en la función pública<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>Quienes, en el ejercicio de sus funciones, estén obligados a conocer de
+situaciones de violencia contra las mujeres, en cualquiera de sus formas, o a
+resolverlas, deberán actuar ágil y eficazmente, respetando tanto los
+procedimientos como los derechos humanos de las mujeres afectadas; de lo
+contrario, podrán incurrir en el delito de incumplimiento de deberes.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=6'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 6.- Garantía de
+cumplimiento de un deber<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>No incurrirá en delito la persona
+que, en el ejercicio de una función pública, plantee la denuncia formal de
+alguno de los delitos de acción pública contenidos en esta Ley, aun si el
+denunciado no resulta condenado, excepto cuando se configuren los delitos de calumnia
+y denuncia calumniosa.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=7'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class="MsoNormal" style="TEXT-INDENT: 35.4pt"><span style="mso-ansi-language: ES-CR"><b>Artículo
+7.- Protección a las víctimas durante el proceso. </b></span><span style="mso-ansi-language: ES-CR">Para
+proteger a las víctimas podrá solicitarse, desde el inicio de la investigación
+judicial, las medidas de protección contempladas en la Ley N° 7586, Ley contra
+la Violencia Doméstica, de 10 de abril de 1996, así como las medidas
+cautelares necesarias previstas en la Ley Nº 7594, Código Procesal Penal, de
+10 de abril de 1996.<o:p>
+</o:p>
+</span></p></Br></Br>
+<p class="MsoNormal" style="TEXT-INDENT: 35.4pt"><span style="mso-ansi-language: ES-CR">Asimismo,
+el juez podrá ordenar a la persona imputada el uso del dispositivo electrónico
+sin perjuicio de enlazar con la víctima, a fin de garantizar su protección.</span></p></Br></Br>
+<p><i><font size="2" face="Verdana!important">(Así reformado por el artículo 7° de la ley
+N° 9271 del 30 de setiembre de 2014, &quot;Mecanismos electrónicos de
+seguimiento en materia penal&quot;)</font></i>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=8'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 8.- Circunstancias
+agravantes generales del delito<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Serán circunstancias agravantes
+generales de las conductas punibles descritas en esta Ley, con excepción del
+delito de femicidio, y siempre que no sean constitutivas del tipo, perpetrar el
+hecho:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>a) Contra una mujer que presente una discapacidad sensorial, física o
+mental, total o parcial, temporal o permanente.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>b) Contra una mujer mayor de sesenta y cinco años de edad.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>c) Contra una mujer en estado de embarazo o durante los tres meses
+posteriores al parto.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>d) En presencia de los hijos o las hijas menores de edad de la víctima o
+del autor del delito.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>e) Con el concurso de otras personas, con fuerza sobre las cosas o
+mediante el uso de armas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>f) Con alevosía o ensañamiento.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>g) Por precio, recompensa, promesa remuneratoria o ventaja de cualquier
+otra naturaleza.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>h) Con el uso de un alto grado de conocimiento científico, profesional o
+tecnológico del autor en la comisión del delito.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>i) Con el uso de animales.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>El juez que imponga la pena aumentará hasta en un tercio la señalada por
+el delito correspondiente, cuando concurran una o varias circunstancias
+agravantes.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=9'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>SECCIÓN I<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b>Clases de penas<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 9.- Clases de penas
+para los delitos<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>Las penas aplicables a los delitos descritos en la presente Ley serán:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:70.8pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>1.- Principal:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:106.2pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>&nbsp;a) Prisión.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:70.8pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>&nbsp;2.- Alternativas:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:106.2pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>&nbsp;a) Detención de fin de semana.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:106.2pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>b) Prestación de servicios de utilidad pública.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:106.2pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>c) Cumplimiento de instrucciones.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:106.2pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>d) Extrañamiento.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:70.8pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>&nbsp;3.- Accesorias:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:106.2pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>&nbsp;a) Inhabilitación.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=10'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none'><span style='mso-bidi-font-size:10pt!important!important;color:black'>SECCIÓN
+II<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center;mso-layout-grid-align:
+none;text-autospace:none'><b><span style='mso-bidi-font-size:10pt!important!important;color:black'>Definiciones<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><b><span
+style='mso-bidi-font-size:10pt!important!important;color:black'><o:p>&nbsp;</o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt;mso-layout-grid-align:none;
+text-autospace:none'><b><span style='mso-bidi-font-size:10pt!important!important;color:black'>ARTÍCULO
+10.- Pena principal<o:p></o:p></span></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-layout-grid-align:none;text-autospace:none'><span
+style='mso-bidi-font-size:10pt!important!important;color:black'><o:p>&nbsp;</o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt;mso-layout-grid-align:none;
+text-autospace:none'><span style='mso-bidi-font-size:10pt!important!important;color:black'>La
+pena principal por los delitos consignados en esta Ley será de prisión. El juez
+podrá optar por penas alternativas, si con ello no se colocan en riesgo la vida
+o la integridad de la víctima o si esta es perjudicada en el ejercicio de otros
+derechos. Para tal efecto, el tribunal de juicio, de previo al reemplazo de la
+pena de prisión, deberá ordenar otro examen psicológico y psiquiátrico
+completo, si lo considera necesario; además, deberá escuchar el criterio de la
+víctima. En caso de reemplazo por descuento de la mitad de la pena, el juez de
+ejecución de la pena deberá escuchar a la víctima previamente, si esta se
+encuentra localizable.</span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=11'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 11.- Imposición y
+reemplazo de penas alternativas<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Cuando a una persona primaria en
+materia de violencia contra las mujeres se le imponga una pena de prisión menor
+de tres años, dicha pena, de conformidad con el artículo 9º de esta Ley podrá
+ser reemplazada por dos penas alternativas de las señaladas en esta Ley; una de
+ellas será, necesariamente, la pena de cumplimiento de instrucciones, excepto
+que se aplique la pena de extrañamiento.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>También, a solicitud de la persona condenada, podrán aplicarse las penas
+alternativas, cuando dicha persona sea primaria en materia de violencia contra
+las mujeres, se le haya impuesto una pena superior a tres años, y haya
+descontado al menos la mitad de esta. La pena alternativa no podrá superar el
+monto de la pena principal impuesta.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=12'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 12.- Pena de
+detención de fin de semana<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La pena de detención de fin de semana
+consistirá en una limitación de la libertad ambulatoria y se cumplirá en un
+centro penitenciario o en un centro de rehabilitación por períodos
+correspondientes a los fines de semana, con una duración mínima de veinticuatro
+horas y máxima de cuarenta y ocho horas por semana.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=13'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 13.- Pena de
+prestación de servicios de utilidad pública<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La pena de prestación de servicios de
+utilidad pública consistirá en que la persona condenada preste servicio en los
+lugares y horarios que el juez determine, en favor de establecimientos de bien
+público o de utilidad comunitaria, o de organizaciones sociales, bajo el
+control de las autoridades de dichos centros, en forma tal que no resulte
+violatorio de los derechos humanos de la persona condenada, no perturbe su
+actividad laboral ni ponga en riesgo a la ofendida ni a terceras personas. Los
+períodos para el cumplimiento de esta pena serán de ocho a dieciséis horas
+semanales.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=14'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 14.- Revocatoria de
+una pena alternativa<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>El incumplimiento de una pena alternativa facultará al juez de ejecución
+de la pena para que la revoque y ordene que al condenado se le aplique la pena
+de prisión durante el tiempo de la condena que le falte cumplir.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>Ante la comisión de un nuevo delito, el juez tendrá la facultad de
+revocar la pena alternativa, si la persona es sentenciada posteriormente, en
+otras causas penales por violencia contra las mujeres.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=15'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 15.- Penas
+accesorias<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Las penas accesorias se aplicarán
+junto con la pena de prisión o las penas alternativas. El reemplazo de la pena
+principal por las alternativas no afectará el cumplimiento de la pena
+accesoria. Lo anterior se realizará respetando, en todo momento, el derecho del
+acusado al debido proceso legal en materia penal.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=16'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 16.- Pena de cumplimiento
+de instrucciones<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La pena de cumplimiento de
+instrucciones consistirá en el sometimiento a un plan de conducta en libertad,
+el cual será establecido por el juez que dicta la sentencia o por el juez de
+ejecución de la pena y podrá contener las siguientes instrucciones:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>a) Someter a la persona a un programa de tratamiento de adicciones para
+el control del consumo de alcohol, sustancias estupefacientes, psicotrópicas o
+drogas enervantes, cuando dicha adicción esté relacionada con la conducta sancionada
+o sus circunstancias.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>b) Someter a la persona a un programa especializado para ofensores,
+orientado al control de conductas violentas y a tratamientos completos,
+psicológico y psiquiátrico.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>c) Prohibición de residencia: esta pena consiste en la prohibición de
+residir en un lugar determinado y de ir a él o transitar por él sin
+autorización judicial. El juez determinará el lugar, el cual podrá ser un
+barrio, un distrito, un cantón o una provincia, teniendo en cuenta la necesidad
+de protección de las víctimas. Esta instrucción en ningún caso podrá asumir la
+forma de un castigo de destierro.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>d) Limitación de uso de armas: consistirá en la prohibición de obtención
+de permisos de tenencia, matrícula y <span class=SpellE>portación</span> de
+armas de cualquier tipo. La sentencia firme que imponga esta pena deberá ser
+comunicada al Arsenal Nacional del Ministerio de Seguridad Pública, que llevará
+un archivo de tales sentencias, a efecto de considerar cualquier solicitud de
+matrícula o <span class=SpellE>portación</span> de armas de fuego que realice
+el sentenciado.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>Para los efectos de los incisos a) y b) del presente artículo, el
+Instituto Nacional de las Mujeres y el Ministerio de Justicia enviarán cada
+año, a la Corte Suprema de Justicia, la lista de instituciones acreditadas,
+públicas y privadas, a las cuales la autoridad judicial competente podrá
+remitir para el cumplimiento de esta pena. Los gastos en que se incurra por
+este tratamiento correrán a cargo del Estado, salvo si la persona condenada
+cuenta con recursos suficientes para sufragarlos.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=17'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 17.- Pena de
+inhabilitación<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La pena de inhabilitación producirá
+la suspensión o restricción para ejercer uno o varios de los derechos señalados
+en este artículo. En sentencia motivada, el juez aplicará las penas
+pertinentes, de acuerdo con el delito cometido.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>La pena de inhabilitación consistirá en:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>a) Impedimento para ejercer el cargo público, incluso los de elección
+popular, la profesión, el oficio o la actividad con ocasión de cuyo desempeño
+haya cometido el delito.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>b) Impedimento para ejercer la tutela, curatela o administración judicial
+de bienes, cuando el delito haya sido cometido aprovechando estas situaciones
+jurídicas.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>La pena de inhabilitación no podrá ser inferior a un año ni superior a
+doce años.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>El reemplazo de la pena principal no afectará el cumplimiento de la pena
+de inhabilitación.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=18'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 18.- Rehabilitación<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La persona condenada a la pena de
+inhabilitación podrá ser rehabilitada cuando haya transcurrido la mitad del
+plazo de esta, si no ha violado la inhabilitación y si ha reparado el daño a
+satisfacción de la víctima.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>Cuando la inhabilitación haya importado la pérdida de un cargo público,
+la rehabilitación no comportará la reposición en ese cargo.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=19'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 19.- Pena de
+extrañamiento<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Cuando a una persona extranjera se le
+imponga una pena de prisión de cinco años o menos, en sentencia o durante su
+ejecución, podrá ser reemplazada por la obligación de abandonar de inmediato el
+territorio nacional y de no reingresar en él por el doble del tiempo de la
+condena. Esta pena no se aplicará cuando perjudique seriamente los intereses
+patrimoniales de la persona ofendida ni cuando imposibilite el cumplimiento de
+deberes familiares. El reingreso al país implicará la revocatoria del
+reemplazo, sin perjuicio de otras responsabilidades. Para el control
+migratorio, la Dirección General de Migración y Extranjería llevará un índice
+especial de este tipo de condenados.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=20'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 20.-
+Responsabilidades institucionales en la ejecución de las penas alternativas<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>El Ministerio de Seguridad Pública
+coadyuvará con el Poder Judicial y el Ministerio de Justicia y Gracia en la
+formulación y operacionalización de un sistema de ejecución de las penas
+alternativas contempladas</span><span style='mso-bidi-font-size:10pt!important!important'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=21'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'>TÍTULO II</p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>DELITOS<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center'>CAPÍTULO I</p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>VIOLENCIA FÍSICA<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 21- Femicidio. Se le
+impondrá pena de prisión de veinte a treinta y cinco años a quien dé muerte a
+una mujer con la que mantenga o haya mantenido una relación o vínculo de
+pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no
+convivencia, casual u otra análoga, aun cuando medie divorcio, separación o
+ruptura, siempre que la conducta no constituya un delito más grave o previsto
+con una pena mayor. </p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=22'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>Artículo 21 bis- <span
+class=SpellE>Femicidio</span> en otros contextos. Se impondrá pena de prisión
+de veinte a treinta y cinco años, a quien dé muerte a una mujer mayor o menor
+de edad, cuando concurra una de las siguientes circunstancias:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>a) Cuando la persona
+autora se haya aprovechado de una relación o vínculo de confianza, amistad, de
+parentesco, de autoridad o de una relación de poder que tuviera con la mujer
+víctima u ocurra dentro de las relaciones familiares de consanguinidad o
+afinidad hasta el tercer grado, sea que comparta o no haya compartido el mismo
+domicilio.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>b) Cuando la persona
+autora tenga antecedentes de violencia perpetrada contra la mujer víctima, en
+el ámbito familiar, laboral, estudiantil, comunitario o religioso, aun cuando
+los hechos no hayan sido denunciados con anterioridad.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>c) Cuando la persona
+autora sea cliente explotador sexual, tratante o proxeneta de la mujer víctima.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>d) Cuando la mujer
+víctima se había negado a establecer o restablecer, con la persona autora, una
+relación o vínculo de pareja permanente o casual, o a tener cualquier tipo de
+contacto sexual.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>e) Cuando la persona
+autora comete el hecho para preparar, facilitar, consumar u ocultar un delito
+sexual.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>f) Cuando la persona
+autora haya cometido el hecho utilizando a la mujer víctima como un acto de
+venganza, represalia o cobro de deudas en crímenes organizados de narcotráfico
+u otros delitos conexos.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='margin-left:70.8pt;text-align:justify'><span
+style='font-size:10pt!important!important;font-family:"Verdana!important",Verdana'>g) Cuando la persona
+autora haya cometido el hecho en razón de la participación, el cargo o la
+actividad política de la mujer víctima.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='text-align:justify'><i><span style='font-size:10pt!important!important;
+font-family:"Verdana!important",Verdana;color:black;background:white'>(Así adicionado por
+el artículo 1° de la Ley para establecer el&nbsp;<span class=SpellE><span
+class=spelle>femicidio</span></span>&nbsp;ampliado, N° 10022 del 23 de agosto
+de 2021)</span></i><o:p></o:p></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=49'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 22- Maltrato. A quien
+por cualquier medio golpee o maltrate físicamente a una mujer con quien
+mantenga o haya mantenido una relación o vínculo de pareja, sea matrimonial,
+unión de hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga,
+aun cuando medie divorcio, separación o ruptura, siempre que la conducta no
+constituya un delito más grave o previsto con una pena mayor, sin que
+incapacite para sus ocupaciones habituales, se le impondrá pena de prisión de
+tres meses a un año. </p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Igual pena se impondrá cuando las
+conductas de maltrato se cometan en alguno de los supuestos establecidos en el
+artículo 21 bis de esta ley.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+style='mso-bidi-font-size:10pt!important!important'>(Así adicionado el párrafo anterior p<span
+style='color:black;background:white;mso-bidi-font-style:italic'>or el artículo
+3° de la Ley para establecer el&nbsp;<span class=SpellE>femicidio</span>&nbsp;ampliado,
+N° 10022 del 23 de agosto de 2021)</span><o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Si de la acción resulta una
+incapacidad para sus labores habituales menor a cinco días, se le impondrá pena
+de seis meses a un año de prisión, siempre que la conducta no constituya un
+delito más grave o previsto con una pena mayor. </p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>A quien cause daño en el físico o
+a la salud de una mujer con quien mantenga o haya mantenido una relación o
+vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de
+no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o
+ruptura, siempre que la conducta no constituya un delito más grave o previsto
+con una pena mayor que le produzca una incapacidad para sus ocupaciones
+habituales por un tiempo mayor a cinco días y hasta por un mes, se le impondrá
+pena de prisión de ocho meses a dos años.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=23'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 23- Restricción a la
+libertad de tránsito. Será sancionado con pena de prisión de dos a diez años,
+quien, sin ánimo de lucro, prive o restrinja la libertad de tránsito a una mujer
+con quien mantenga o haya mantenido una relación o vínculo de pareja, sea
+matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u
+otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la
+conducta no constituya un delito más grave o previsto con una pena mayor.</p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Igual pena se impondrá cuando las
+conductas se cometan en alguno de los supuestos establecidos en el artículo 21
+bis de esta ley.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+style='mso-bidi-font-size:10pt!important!important'>(Así adicionado el párrafo anterior p<span
+style='color:black;background:white;mso-bidi-font-style:italic'>or el artículo 3°
+de la Ley para establecer el&nbsp;<span class=SpellE><span class=spelle>femicidio</span></span>&nbsp;ampliado,
+N° 10022 del 23 de agosto de 2021)</span><o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=24'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 24.- Pena de
+inhabilitación<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Al autor de los delitos contemplados
+en este capítulo se le impondrá, además, la pena de inhabilitación de uno a
+doce años.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=25'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'>CAPÍTULO II</p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>VIOLENCIA PSICOLÓGICA<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 25- Ofensas a la
+dignidad. <span style='mso-fareast-font-family:"Verdana";mso-fareast-theme-font:
+minor-fareast'>Será sancionado con pena de prisión de seis meses a dos años, al
+que ofenda de palabra en su dignidad o decoro, a una mujer con quien mantenga o
+haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de
+hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun
+cuando medie divorcio, separación o ruptura, siempre que la conducta no
+constituya un delito más grave o previsto con una pena mayor.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+style='mso-fareast-font-family:"Verdana";mso-fareast-theme-font:minor-fareast'>(Así
+reformado por el artículo 1° de la ley N° 9975 del 14 de mayo del 2021)</span><o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=26'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 26- Restricción a la
+autodeterminación. Se le impondrá pena de prisión de dos a cuatro años a quien,
+mediante el uso de amenazas, violencia, intimidación, chantaje, persecución o
+acoso, obligue a una mujer con quien mantenga o haya mantenido una relación o
+vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de
+no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o
+ruptura, siempre que la conducta no constituya un delito más grave o previsto
+con una pena mayor, a hacer, dejar de hacer o tolerar algo a lo que no está
+obligada. </p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=27'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 27- Amenazas contra una
+mujer. Quien amenace a una mujer, a su familia o a una tercera persona
+íntimamente vinculada, con quien mantenga o haya mantenido una relación o vínculo
+de <span class=SpellE>e</span> pareja, sea matrimonial, unión de hecho,
+noviazgo, convivencia, de no convivencia, casual u otra análoga, aun cuando
+medie divorcio, separación o ruptura, siempre que la conducta no constituya un
+delito más grave o previsto con una pena mayor, será sancionado con pena de
+prisión de seis meses a dos años. </p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Igual pena se impondrá cuando las
+conductas de amenazas se cometan en alguno de los supuestos establecidos en el
+artículo 21 bis de esta ley.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'><span
+style='mso-bidi-font-size:10pt!important!important'>(Así adicionado el párrafo anterior p<span
+style='color:black;background:white;mso-bidi-font-style:italic'>or el artículo 3°
+de la Ley para establecer el&nbsp;<span class=SpellE><span class=spelle>femicidio</span></span>&nbsp;ampliado,
+N° 10022 del 23 de agosto de 2021)</span><o:p></o:p></span></i></p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=28'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 28.- Pena de
+inhabilitación<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Al autor de los delitos contemplados
+en este capítulo, se le impondrá, además, la pena de inhabilitación de uno a
+seis años.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=29'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'>CAPÍTULO III</p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>VIOLENCIA SEXUAL<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 29- Violación contra una
+mujer. Quien le introduzca el pene, por vía oral, anal o vaginal, a una mujer
+con quien mantenga o haya mantenido una relación o vínculo de pareja, sea
+matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u
+otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la
+conducta no constituya un delito más grave o previsto con una pena mayor,
+contra la voluntad de ella, será sancionado con pena de prisión de doce a
+dieciocho años. </p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>La misma pena será aplicada a
+quien le introduzca algún objeto, animal o parte del cuerpo, por vía vaginal o
+anal, a quien obligue a la ofendida a introducir, por vía anal o vaginal,
+cualquier parte del cuerpo u objeto al autor o a sí misma.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el artículo
+1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=30'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 30- Conductas sexuales
+abusivas. Se le impondrá sanción de pena de prisión de tres a seis años, a
+quien obligue a una mujer con la cual mantenga o haya mantenido una relación o
+vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de
+no convivencia, casual u otra análoga, aun cuando medie divorcio, separación o
+ruptura, siempre que la conducta no constituya un delito más grave o previsto
+con una pena mayor, a soportar durante la relación sexual actos que le causen
+dolor o humillación, a realizar o ver actos de exhibicionismo, a ver o escuchar
+material pornográfico o a ver o escuchar actos con contenido sexual. </p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=31'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 31- Explotación sexual
+de una mujer. Será sancionado con pena de prisión de dos a cinco años, quien
+obligue a una mujer con quien mantenga o haya mantenido una relación o vínculo
+de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no
+convivencia, casual u otra análoga, aun cuando medie divorcio, separación o
+ruptura, siempre que la conducta no constituya un delito más grave o previsto
+con una pena mayor, a tener relaciones sexuales con terceras personas, sin
+fines de lucro. </p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=32'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 32.- Formas
+agravadas de violencia sexual<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La pena por los delitos referidos en
+los tres artículos anteriores, se incrementará hasta en un tercio, si de la
+comisión del hecho resulta alguna de las siguientes consecuencias:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>a) Embarazo de la ofendida.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>b) Contagio de una enfermedad de transmisión sexual a la ofendida.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>c) Daño psicológico permanente.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=33'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 33.- Pena de
+inhabilitación<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Al autor de los delitos contemplados
+en este capítulo se le impondrá, además, la pena de inhabilitación de tres a
+doce años.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=34'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'>CAPÍTULO IV</p></Br></Br>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>VIOLENCIA PATRIMONIAL<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 34- Sustracción
+patrimonial. Será sancionado con pena de prisión de seis meses a tres años,
+quien sustraiga, ilegítimamente, algún bien o valor de la posesión o patrimonio
+a una mujer con quien mantenga o haya mantenido una relación o vínculo de
+pareja, sea matrimonial, unión de hecho, noviazgo, convivencia, de no
+convivencia, casual u otra análoga, aun cuando medie divorcio, separación o
+ruptura, siempre que la conducta no constituya un delito más grave o previsto
+con una pena mayor. </p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=35'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 35- Daño patrimonial. La
+persona que en perjuicio de una mujer con quien mantenga o haya mantenido una
+relación o vínculo de pareja, sea matrimonial, unión de hecho, noviazgo, convivencia,
+de no convivencia, casual u otra análoga, aun cuando medie divorcio, separación
+o ruptura, destruya, inutilice, haga desaparecer o dañe un bien de su
+propiedad, posesión o tenencia, o un bien que es susceptible de ser ganancial,
+será sancionada con una pena de prisión de tres meses a dos años, siempre que
+no configure otro delito castigado más severamente.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=36'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 36- Limitación al
+ejercicio del derecho de propiedad. Será sancionada con pena de prisión de ocho
+meses a tres años, la persona que impida, limite o prohíba el uso, el disfrute,
+la administración, la transformación, la enajenación o la disposición de uno o
+varios bienes que formen parte del patrimonio de la mujer con quien mantenga o
+haya mantenido una relación o vínculo de pareja, sea matrimonial, unión de
+hecho, noviazgo, convivencia, de no convivencia, casual u otra análoga, aun
+cuando medie divorcio, separación o ruptura, siempre que la conducta no
+constituya un delito más grave o previsto con una pena mayor.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=37'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 37- Fraude de simulación
+sobre bienes susceptibles de ser gananciales. A la persona que simule la
+realización de un acto, contrato, gestión, escrito legal o judicial, sobre
+bienes susceptibles de ser gananciales, en perjuicio de los derechos de una
+mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea
+matrimonial, unión de hecho o convivencia, aun cuando medie divorcio, separación
+o ruptura, siempre que la conducta no constituya un delito más grave o previsto
+con una pena mayor, se le impondrá una pena de prisión de dos meses a tres
+años, si el monto de lo defraudado no excediera de diez veces el salario base
+y, con prisión de seis meses a diez años, si el monto de lo defraudado
+excediera de diez veces el salario base.</p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=38'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 38- Distracción de las
+utilidades de las actividades económicas familiares. Será sancionada con pena
+de prisión de seis meses a un año, la persona que unilateralmente sustraiga las
+ganancias derivadas de una actividad económica familiar o disponga de ellas
+para su exclusivo beneficio personal y en perjuicio de los derechos de una
+mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea
+matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u
+otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la
+conducta no constituya un delito más grave o previsto con una pena mayor. </p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=39'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=WordSection1>
+
+<p class=MsoNormal style='text-indent:35.4pt'>Artículo 39- Explotación
+económica de la mujer. La persona que, mediante el uso de la fuerza, la
+intimidación o la coacción, se haga mantener, total o parcialmente, por una
+mujer con quien mantenga o haya mantenido una relación o vínculo de pareja, sea
+matrimonial, unión de hecho, noviazgo, convivencia, de no convivencia, casual u
+otra análoga, aun cuando medie divorcio, separación o ruptura, siempre que la
+conducta no constituya un delito más grave o previsto con un pena mayor, será
+sancionada con pena de prisión de seis meses a tres años. </p></Br></Br>
+
+<p class=MsoNormal><i style='mso-bidi-font-style:normal'>(Así reformado por el
+artículo 1° de la ley N° 9975 del 14 de mayo del 2021)<o:p></o:p></i></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=40'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 40.- Pena de
+inhabilitación<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Al autor de los delitos contemplados
+en este capítulo se le impondrá, además, la pena de inhabilitación de uno a
+seis años.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=41'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>CAPÍTULO V<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b>INCUMPLIMIENTO DE DEBERES<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><b>&nbsp;<span style='mso-tab-count:1'>           </span>ARTÍCULO
+41.- Obstaculización del acceso a la justicia<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La persona que, en el ejercicio de
+una función pública propicie, por un medio ilícito, la impunidad u obstaculice
+la investigación policial, judicial o administrativa por acciones de violencia
+física, sexual, psicológica o patrimonial, cometidas en perjuicio de una mujer,
+será sancionada con pena de prisión de tres meses a tres años e inhabilitación
+por el plazo de uno a cuatro años para el ejercicio de la función pública.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=42'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 42.- Incumplimiento
+de deberes agravado<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>La pena de inhabilitación por el
+delito de incumplimiento de deberes será de dos a seis años, si el
+incumplimiento se produce en una situación de riesgo para la integridad
+personal o de necesidad económica de la mujer víctima.</span><span
+style='mso-bidi-font-size:10pt!important!important'><o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=43'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>CAPÍTULO VI<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b>INCUMPLIMIENTO DE UNA
+MEDIDA<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b>DE PROTECCIÓN<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span><b>ARTÍCULO 43.- Incumplimiento de
+una medida de protección<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Será sancionado con pena de prisión
+de seis meses a dos años, quien incumpla una medida de protección dictada por
+una autoridad competente, dentro de un proceso de violencia doméstica en
+aplicación de la Ley contra la violencia doméstica.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=44'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>CAPÍTULO VII<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal align=center style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;text-align:center;mso-layout-grid-align:none'><b>DISPOSICIONES FINALES<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span><b>ARTÍCULO 44.- Aplicación de la
+parte general del Código Penal<o:p></o:p></b></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Para los efectos de esta Ley, se
+aplicarán las disposiciones de la parte general del Código Penal, de acuerdo
+con los fines previstos en el artículo 1º de la presente Ley.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=45'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 45.- Adición al
+Código Procesal Penal<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span><span class=SpellE>Adiciónase</span>
+al artículo 239 del Código Procesal Penal el inciso d), cuyo texto dirá:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>"<u>Artículo 239</u>.- Procedencia de la prisión preventiva<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'><span style='mso-spacerun:yes'> </span>[...]&nbsp;<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>d) Exista peligro para la víctima, la persona denunciante o el testigo.
+Cuando la víctima se encuentre en situación de riesgo, el juez tomará en cuenta
+la necesidad de ordenar esta medida, especialmente en el marco de la
+investigación de delitos atribuibles a una persona con quien la víctima
+mantenga o haya mantenido una relación de matrimonio, en unión de hecho
+declarada o no."<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=46'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>ARTÍCULO 46.- Reforma de la
+Ley contra la violencia doméstica<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span class=SpellE><span
+style='mso-bidi-font-weight:bold'>Modifícase</span></span><span
+style='mso-bidi-font-weight:bold'> el párrafo final del artículo 3º de la Ley
+contra la violencia doméstica. El texto dirá:<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><u><span style='mso-bidi-font-weight:
+bold'>"Artículo 3</span></u><span style='mso-bidi-font-weight:bold'>.- Medidas
+de protección <o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+margin-left:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>[...]<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>De incumplirse una o varias de estas medidas en contravención de una
+orden emanada de la autoridad judicial competente, esta deberá testimoniar
+piezas a la fiscalía correspondiente, para que se inicie la investigación por
+el delito de incumplimiento de una medida de protección."<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=47'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important">
+<div class=Section1>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><b>TRANSITORIO ÚNICO.-<o:p></o:p></b></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>En un plazo de tres meses, contados a
+partir de la entrada en vigencia de esta Ley, las instituciones públicas y las
+organizaciones privadas interesadas en desarrollar programas de atención
+especializada a ofensores, según el artículo 18 de la presente Ley, deberán
+gestionar su acreditación ante el Instituto Nacional de las Mujeres.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+text-indent:35.4pt;mso-layout-grid-align:none'><span style='mso-bidi-font-weight:
+bold'>Rige a partir de su publicación.<o:p></o:p></span></p></Br></Br>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+mso-layout-grid-align:none'><span style='mso-bidi-font-weight:bold'>&nbsp;<span
+style='mso-tab-count:1'>           </span>Dado en la Presidencia de la
+República<span class=GramE>.-</span>San José, a los veinticinco días del mes de
+abril del dos mil siete.<o:p></o:p></span></p></Br></Br>
+
+</div>
+
+<br />
+<a target='_top' class='text' href='nrm_articulo.aspx?param1=NRA&nValor1=1&amp;nValor2=60183&amp;nValor3=126725&amp;nValor5=48'> Ficha articulo</a><br /><br /><br /><br /></span><span style="font-size:10pt!important!important;font-family:Verdana!important"></span><br /><br />Fecha de generación: 13/02/2024 10:39:24 p.m.</body>
+
+</html>
+
+
+<a name="down" id="ddown" /></div>
+
+                       
+                    </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="text-align:center">
+                                     <a align="center" href="#up">
+                                        <span class="style5">Ir al principio del documento </span>
+                                    </a>
+                                </td>
+                            </tr>
+                           
+                        </table>
+                    </div>
+                </div>
+            </td>
+        </tr>
+       
+    </table>
+    <br />
+   
+   
+    <!-- Para ir al final de la página -->
+    <table border="0" width="95%" align="center">
+        <tr>
+            <td align="center" width="100%">
+                <br />
+                
+            </td>
+        </tr>
+    </table>
+    </div>
+    
+    </a>
+                
+            </td>
+        </tr>
+    </table>
+    
+    
+                    
+                </td>
+            </tr>
+        </table>
+    
+
+<script type="text/javascript">
+<!--
+(function() {var fn = function() {$get("_ctl0__ctl0_ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();// -->
+</script>
+</form>
+</body>
+</html>

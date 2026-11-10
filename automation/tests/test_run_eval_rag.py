@@ -35,6 +35,8 @@ def _retrieval_config(verification_enabled=True) -> RetrievalConfig:
         hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60),
         reranker=RerankerConfig(enabled=False),
         evidence_verification_enabled=verification_enabled,
+        # Hermetic: the heuristic aligner needs no model download.
+        alignment_method="heuristic",
     )
 
 

@@ -1,0 +1,989 @@
+{
+  "policy_file": "43. Cyprus - DomViol - Greek (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T00:28:14.403988+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(o) the Law Office of the Republic; \"domestic violence\" means-\n(a) an act, omission or conduct of a person which causes harm to a member of their family and includes violence exercised with the purpose of achieving sexual contact without the consent of the victim and the restriction of their liberty, 119(I) of 2000 in accordance with articles 3 and 4 of the Prevention of Violence in the Family (Prevention and Protection of 212(I) of 2004 Victims) Law, 172(I) of 2015\n(2) The Court issues the exclusion order at any time after the filing of an application, in accordance with the provisions of subsection (1) which is accompanied by an affidavit of the victim or any other person who is in a position to have direct knowledge of the facts or if any other evidence is produced before it, which creates a prima facie risk of the exercise of violence against women or domestic violence or repetition of the offense or the need to protect the victim from influence or otherwise, including testimonies of the victim or other persons in any form, certificates, attestations or other evidence under the provisions of this Law or any other Law.",
+      "rationale": "The text contains operative provisions that define “domestic violence” and link it to legal consequences, including court-issued protective/exclusion orders based on risk of domestic violence or its repetition.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Τα ακόλουθα αδικήματα λογίζονται ως αδικήματα βίας κατά γυναίκας: βίας κατά γυναικών. Πίνακας. (α) Οποιοδήποτε από τα αναφερόμενα στον Πίνακα αδικήματα· (β) το προβλεπόμενο στο άρθρο 6 αδίκημα της άσκησης ψυχολογικής βίας· (γ) το προβλεπόμενο στο άρθρο 7 αδίκημα της σεξουαλικής παρενόχλησης· (δ) το προβλεπόμενο στο άρθρο 8 αδίκημα της άσκησης οικονομικής βίας· (ε) το προβλεπόμενο στο άρθρο 9 αδίκημα της διάδοσης υλικού πορνογραφικού ή σεξουαλικού περιεχομένου· (στ) το προβλεπόμενο στο άρθρο 10 αδίκημα της υποκίνησης παιδιού· (ζ) οποιοδήποτε αδίκημα εμπίπτει στον ορισμό του όρου «ενδοοικογενειακή βία». Άσκηση 6.\n\nβλάβη ή/και για να αποκομίσει παράνομο οικονομικό όφελος, είναι ένοχο κακουργήματος και, σε περίπτωση καταδίκης του, υπόκειται σε ποινή φυλάκισης που δεν υπερβαίνει τα δεκατέσσερα (14) έτη. (2) Πρόσωπο, το οποίο εκβιάζει ή απειλεί γυναίκα ότι χωρίς τη συγκατάθεσή της θα αποστείλει, διανείμει, δημοσιεύσει, διαδώσει, κυκλοφορήσει, αναπαράγει ή μεταδώσει με οποιαδήποτε ηλεκτρονικά, ψηφιακά έντυπα ή άλλα μέσα οποιασδήποτε φύσεως, υλικό με πορνογραφικό ή σεξουαλικό περιεχόμενο που απεικονίζει την ίδια, είναι ένοχο κακουργήματος και, σε περίπτωση καταδίκης του, υπόκειται σε ποινή φυλάκισης που δεν υπερβαίνει τα δεκατέσσερα (14) έτη. (3) Πρόσωπο το οποίο αποπειράται να διαπράξει τα προβλεπόμενα στα εδάφια (1) και (2) αδικήματα είναι ένοχο αδικήματος και, σε περίπτωση καταδίκης του, υπόκειται σε ποινή φυλάκισης που δεν υπερβαίνει τα πέντε (5) έτη.\n\nγυναίκας, ούτε η αυτοπροειδοποίηση του Δικαστηρίου για τον κίνδυνο καταδίκης με μόνη την ένορκη ή ανώμοτη μαρτυρία παιδιού ή την ένορκη μαρτυρία γυναίκας. διάταγμα Αστυνομίας, του Γενικού Εισαγγελέα της Δημοκρατίας, των Υπηρεσιών Κοινωνικής Ευημερίας ή, απομάκρυνσης όπου το θύμα είναι παιδί, επιτρόπου διορισμένου δυνάμει των διατάξεων του περί Σχέσεων Γονέων του θύματος. και Τέκνων Νόμου, να εκδώσει προσωρινό διάταγμα απομάκρυνσης θύματος, μέχρις ότου καταχωριστεί και εκδικαστεί ποινική υπόθεση εναντίον υπόπτου ή κατηγορουμένου για αδίκημα βίας κατά γυναίκας. (2) Το Δικαστήριο εκδίδει προσωρινό διάταγμα κατόπιν υποβολής αιτήσεως, η οποία καταχωρίζεται, όπως προβλέπεται στο εδάφιο (1) και συνοδεύεται από ένορκη δήλωση του θύματος ή οποιουδήποτε άλλου προσώπου είναι σε θέση να έχει άμεση γνώση των γεγονότων ή εφόσον προσκομιστούν ενώπιόν του οποιαδήποτε άλλα αποδεικτικά στοιχεία, τα οποία δημιουργούν εκ πρώτης όψεως κίνδυνο άσκησης βίας κατά γυναίκας ή ενδοοικογενειακής βίας ή επανάληψης του αδικήματος ή την ανάγκη προστασίας του θύματος από επηρεασμό ή άλλως πως, περιλαμβανομένων και καταθέσεων του θύματος ή άλλων προσώπων σε οποιαδήποτε μορφή, πιστοποιητικών, βεβαιώσεων ή άλλων αποδεικτικών στοιχείων δυνάμει των διατάξεων του παρόντος Νόμου ή οποιουδήποτε άλλου Νόμου.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Sexual 7. A person who engages in unwanted conduct of a sexual nature towards a woman which is harassment.\nexpressed in words or acts and has the purpose or effect of violating the dignity of the woman, especially when through this conduct that person creates an intimidating, hostile, degrading, humiliating or offensive environment towards that woman, is guilty of an offence and, upon conviction, is liable to imprisonment not exceeding five (5) years or to a fine not exceeding ten thousand euros (€10,000) or to both such penalties.\nFor the purposes of this Law, unless a different meaning arises from the text- \"offence of violence against women\" means, subject to the provisions of the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Ratification) Law, any of the offences referred to in article 5, whether it is committed in public or in private life; \"violence\" means an act, omission or sexual act without consent or conduct capable of causing harm to the victim and includes physical, verbal, sexual, psychological, economic and any other form of violence or pain against a woman, any threat of such an act, as well as coercion or arbitrary deprivation of liberty, whether these are carried out in public or in private life; \"gender-based violence\" means violence directed against a woman because of her sex or violence that disproportionately affects women; \"harm\" means physical, sexual, psychological or economic harm or pain or impairment of health or death caused as a result or potential result of an offence of violence against women or domestic violence, whether it occurs in public or in private life; \"woman\" means a person of female biological sex or female gender identity and includes such a person who has not attained the eighteenth (18th) year of their age; \"public communications network\" means an electronic communications network which is used wholly or mainly for the provision of publicly available electronic communications services to the public, which support the conveyance of information between network termination points; \"public telephone network\" means an electronic communications network which is used for the provision of publicly available telephone services and supports the conveyance of voice communications between network termination points, as well as other forms of communication, such as facsimile and data; \"proceedings\" means proceedings that include, beyond criminal proceedings, all contacts made by the victim in their capacity as a victim with any authority, public service or victim support organisation in relation to their case, before, during or after criminal proceedings; \"Court\" means a court exercising criminal jurisdiction in the Republic; \"prosecuting authorities\" means the Attorney General of the Republic and/or the Police; \"National Mechanism for Women's Rights\" means the National Mechanism for Women's Rights, which was established pursuant to Council of Ministers Decision No. 40.609, dated 2 March 1994; \"coercion\" means-",
+      "rationale": "The framework includes operative provisions criminalising sexual harassment and defines violence to include a “sexual act without consent,” indicating sexual violence is covered within the legal definition/classification of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(δ) ο περί της Πρόληψης και της Καταπολέμησης της Σεξουαλικής Κακοποίησης, της Σεξουαλικής Εκμετάλλευσης Παιδιών και της Παιδικής Πορνογραφίας Νόμος· 51(Ι) του 2016.\n\n(ε) ο περί της Θέσπισης Ελάχιστων Προτύπων σχετικά με τα Δικαιώματα, την Υποστήριξη και την Προστασία Θυμάτων της Εγκληματικότητας Νόμος. Δικαιοδοσία 15.-(1) Τηρουμένων των διατάξεων του άρθρου 5 του Ποινικού Κώδικα, τα δικαστήρια της δικαστηρίων. Δημοκρατίας έχουν δικαιοδοσία να εκδικάζουν αδικήματα βίας κατά γυναικών, εφόσον αυτά διαπράχθηκαν- (α) επί πλοίου φέροντος τη σημαία τη Δημοκρατίας, (β) επί αεροσκάφους το οποίο είναι εγγεγραμμένο σύμφωνα με τη νομοθεσία της Δημοκρατίας. (2) Αδίκημα, το οποίο διαπράχθηκε επί πλοίου ή αεροσκάφους, όπως προβλέπεται στο εδάφιο\n\nΓια τους σκοπούς του παρόντος Νόμου, εκτός εάν από το κείμενο προκύπτει διαφορετική έννοια- «αδίκημα βίας κατά γυναίκας» σημαίνει, τηρουμένων των διατάξεων του περί της Σύμβασης του Συμβουλίου της Ευρώπης για την Πρόληψη και την Καταπολέμηση της Βίας κατά των Γυναικών και της Ενδοοικογενειακής Βίας (Κυρωτικού) Νόμου, οποιοδήποτε από τα αναφερόμενα στο άρθρο 5 αδικήματα, είτε αυτό διαπράττεται στον δημόσιο είτε στον ιδιωτικό βίο· «βία» σημαίνει πράξη, παράλειψη ή σεξουαλική πράξη χωρίς συναίνεση ή συμπεριφορά με την οποία δύναται να προκληθεί βλάβη στο θύμα και περιλαμβάνει σωματική, λεκτική, σεξουαλική, ψυχολογική, οικονομική και κάθε άλλης μορφής βία ή πόνο έναντι γυναίκας, κάθε απειλή για τέτοια πράξη, καθώς και εξαναγκασμό ή αυθαίρετη στέρηση της ελευθερίας, είτε αυτά διενεργούνται στον δημόσιο είτε στον ιδιωτικό βίο· «βία με βάση το φύλο» σημαίνει βία ασκούμενη κατά γυναίκας, λόγω του φύλου της ή βία που επηρεάζει δυσανάλογα τη γυναίκα· «βλάβη» σημαίνει σωματική, σεξουαλική, ψυχολογική ή οικονομική βλάβη ή πόνο ή κλονισμό της υγείας ή θάνατο που προκαλείται ως αποτέλεσμα ή ενδεχόμενο αποτέλεσμα αδικήματος βίας κατά γυναίκας ή ενδοοικογενειακής βίας, είτε αυτή συμβαίνει στον δημόσιο είτε στον ιδιωτικό βίο· «γυναίκα» σημαίνει πρόσωπο θηλυκού βιολογικού φύλου ή θηλυκής ταυτότητας φύλου και περιλαμβάνει τέτοιο πρόσωπο που δεν έχει συμπληρώσει το δέκατο όγδοο (18ο) έτος της ηλικίας του· «δημόσιο δίκτυο επικοινωνιών» σημαίνει δίκτυο ηλεκτρονικών επικοινωνιών, το οποίο χρησιμοποιείται κυρίως ή εξ ολοκλήρου για την προσφορά δημόσια διαθέσιμων στο κοινό υπηρεσιών ηλεκτρονικών επικοινωνιών, που υποστηρίζουν τη μεταφορά πληροφοριών μεταξύ τερματικών σημείων δικτύου· «δημόσιο τηλεφωνικό δίκτυο» σημαίνει δίκτυο ηλεκτρονικών επικοινωνιών, το οποίο χρησιμοποιείται για την παροχή τηλεφωνικών υπηρεσιών προσιτών στο κοινό και υποστηρίζει τη μεταφορά προφορικών επικοινωνιών μεταξύ τερματικών σημείων δικτύων, καθώς και άλλες μορφές επικοινωνίας, όπως τηλεομοιοτυπία και δεδομένα· «διαδικασία» σημαίνει διαδικασία που περιλαμβάνει, πέραν της ποινικής διαδικασίας, όλες τις επαφές που πραγματοποιεί το θύμα υπό την ιδιότητα του θύματος με κάθε αρχή, δημόσια υπηρεσία ή οργάνωση υποστήριξης θυμάτων σε σχέση με την υπόθεσή του, πριν, κατά ή μετά την ποινική διαδικασία· «Δικαστήριο» σημαίνει δικαστήριο το οποίο ασκεί ποινική δικαιοδοσία στη Δημοκρατία∙ «διωκτικές αρχές» σημαίνει τον Γενικό Εισαγγελέα της Δημοκρατίας ή/και την Αστυνομία· «Εθνικός Μηχανισμός για τα Δικαιώματα της Γυναίκας» σημαίνει τον Εθνικό Μηχανισμό για τα Δικαιώματα της Γυναίκας, ο οποίος συστάθηκε με βάση την υπ’ αριθμόν 40.609 Απόφαση του",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this Law, unless a different meaning arises from the text- \"offence of violence against women\" means, subject to the provisions of the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Ratification) Law, any of the offences referred to in article 5, whether it is committed in public or in private life; \"violence\" means an act, omission or sexual act without consent or conduct capable of causing harm to the victim and includes physical, verbal, sexual, psychological, economic and any other form of violence or pain against a woman, any threat of such an act, as well as coercion or arbitrary deprivation of liberty, whether these are carried out in public or in private life; \"gender-based violence\" means violence directed against a woman because of her sex or violence that disproportionately affects women; \"harm\" means physical, sexual, psychological or economic harm or pain or impairment of health or death caused as a result or potential result of an offence of violence against women or domestic violence, whether it occurs in public or in private life; \"woman\" means a person of female biological sex or female gender identity and includes such a person who has not attained the eighteenth (18th) year of their age; \"public communications network\" means an electronic communications network which is used wholly or mainly for the provision of publicly available electronic communications services to the public, which support the conveyance of information between network termination points; \"public telephone network\" means an electronic communications network which is used for the provision of publicly available telephone services and supports the conveyance of voice communications between network termination points, as well as other forms of communication, such as facsimile and data; \"proceedings\" means proceedings that include, beyond criminal proceedings, all contacts made by the victim in their capacity as a victim with any authority, public service or victim support organisation in relation to their case, before, during or after criminal proceedings; \"Court\" means a court exercising criminal jurisdiction in the Republic; \"prosecuting authorities\" means the Attorney General of the Republic and/or the Police; \"National Mechanism for Women's Rights\" means the National Mechanism for Women's Rights, which was established pursuant to Council of Ministers Decision No. 40.609, dated 2 March 1994; \"coercion\" means-\n37.",
+      "rationale": "The law’s operative definition of “violence” explicitly includes physical violence, and the schedule references criminal code offences such as common assault, indicating physical violence is addressed through covered offences and definitions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Για τους σκοπούς του παρόντος Νόμου, εκτός εάν από το κείμενο προκύπτει διαφορετική έννοια- «αδίκημα βίας κατά γυναίκας» σημαίνει, τηρουμένων των διατάξεων του περί της Σύμβασης του Συμβουλίου της Ευρώπης για την Πρόληψη και την Καταπολέμηση της Βίας κατά των Γυναικών και της Ενδοοικογενειακής Βίας (Κυρωτικού) Νόμου, οποιοδήποτε από τα αναφερόμενα στο άρθρο 5 αδικήματα, είτε αυτό διαπράττεται στον δημόσιο είτε στον ιδιωτικό βίο· «βία» σημαίνει πράξη, παράλειψη ή σεξουαλική πράξη χωρίς συναίνεση ή συμπεριφορά με την οποία δύναται να προκληθεί βλάβη στο θύμα και περιλαμβάνει σωματική, λεκτική, σεξουαλική, ψυχολογική, οικονομική και κάθε άλλης μορφής βία ή πόνο έναντι γυναίκας, κάθε απειλή για τέτοια πράξη, καθώς και εξαναγκασμό ή αυθαίρετη στέρηση της ελευθερίας, είτε αυτά διενεργούνται στον δημόσιο είτε στον ιδιωτικό βίο· «βία με βάση το φύλο» σημαίνει βία ασκούμενη κατά γυναίκας, λόγω του φύλου της ή βία που επηρεάζει δυσανάλογα τη γυναίκα· «βλάβη» σημαίνει σωματική, σεξουαλική, ψυχολογική ή οικονομική βλάβη ή πόνο ή κλονισμό της υγείας ή θάνατο που προκαλείται ως αποτέλεσμα ή ενδεχόμενο αποτέλεσμα αδικήματος βίας κατά γυναίκας ή ενδοοικογενειακής βίας, είτε αυτή συμβαίνει στον δημόσιο είτε στον ιδιωτικό βίο· «γυναίκα» σημαίνει πρόσωπο θηλυκού βιολογικού φύλου ή θηλυκής ταυτότητας φύλου και περιλαμβάνει τέτοιο πρόσωπο που δεν έχει συμπληρώσει το δέκατο όγδοο (18ο) έτος της ηλικίας του· «δημόσιο δίκτυο επικοινωνιών» σημαίνει δίκτυο ηλεκτρονικών επικοινωνιών, το οποίο χρησιμοποιείται κυρίως ή εξ ολοκλήρου για την προσφορά δημόσια διαθέσιμων στο κοινό υπηρεσιών ηλεκτρονικών επικοινωνιών, που υποστηρίζουν τη μεταφορά πληροφοριών μεταξύ τερματικών σημείων δικτύου· «δημόσιο τηλεφωνικό δίκτυο» σημαίνει δίκτυο ηλεκτρονικών επικοινωνιών, το οποίο χρησιμοποιείται για την παροχή τηλεφωνικών υπηρεσιών προσιτών στο κοινό και υποστηρίζει τη μεταφορά προφορικών επικοινωνιών μεταξύ τερματικών σημείων δικτύων, καθώς και άλλες μορφές επικοινωνίας, όπως τηλεομοιοτυπία και δεδομένα· «διαδικασία» σημαίνει διαδικασία που περιλαμβάνει, πέραν της ποινικής διαδικασίας, όλες τις επαφές που πραγματοποιεί το θύμα υπό την ιδιότητα του θύματος με κάθε αρχή, δημόσια υπηρεσία ή οργάνωση υποστήριξης θυμάτων σε σχέση με την υπόθεσή του, πριν, κατά ή μετά την ποινική διαδικασία· «Δικαστήριο» σημαίνει δικαστήριο το οποίο ασκεί ποινική δικαιοδοσία στη Δημοκρατία∙ «διωκτικές αρχές» σημαίνει τον Γενικό Εισαγγελέα της Δημοκρατίας ή/και την Αστυνομία· «Εθνικός Μηχανισμός για τα Δικαιώματα της Γυναίκας» σημαίνει τον Εθνικό Μηχανισμό για τα Δικαιώματα της Γυναίκας, ο οποίος συστάθηκε με βάση την υπ’ αριθμόν 40.609 Απόφαση του\n\n36.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(b) the offence of exercise of psychological violence provided for in article 6;\nExercise of 6. A person who, by their conduct which is expressed through coercion, pressure, derogatory psychological comments, insult or threats seriously impairs the psychological integrity of a woman or causes her real violence.",
+      "rationale": "The framework explicitly includes an offence of “exercise of psychological violence,” and provides operative language describing conduct impairing psychological integrity and establishing criminal liability.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(α) Οποιοδήποτε από τα αναφερόμενα στον Πίνακα αδικήματα· (β) το προβλεπόμενο στο άρθρο 6 αδίκημα της άσκησης ψυχολογικής βίας· (γ) το προβλεπόμενο στο άρθρο 7 αδίκημα της σεξουαλικής παρενόχλησης· (δ) το προβλεπόμενο στο άρθρο 8 αδίκημα της άσκησης οικονομικής βίας· (ε) το προβλεπόμενο στο άρθρο 9 αδίκημα της διάδοσης υλικού πορνογραφικού ή σεξουαλικού περιεχομένου· (στ) το προβλεπόμενο στο άρθρο 10 αδίκημα της υποκίνησης παιδιού· (ζ) οποιοδήποτε αδίκημα εμπίπτει στον ορισμό του όρου «ενδοοικογενειακή βία». Άσκηση 6. Πρόσωπο, το οποίο με τη συμπεριφορά του η οποία εκφράζεται με εξαναγκασμό, πίεση, Ψυχολογικής υποτιμητικά σχόλια, εξύβριση ή απειλές πλήττει σοβαρά την ψυχολογική ακεραιότητα γυναίκας ή βίας. της προκαλεί πραγματικό φόβο, είναι ένοχο αδικήματος και, σε περίπτωση καταδίκης του, υπόκειται σε ποινή φυλάκισης που δεν υπερβαίνει τα πέντε (5) έτη ή σε χρηματική ποινή που δεν υπερβαίνει τις δέκα χιλιάδες ευρώ (€10.000) ή και στις δύο αυτές ποινές.\n\n(4) Νομικό πρόσωπο, το οποίο καταδικάζεται για τη διάπραξη αδικήματος βίας κατά γυναίκας, υπόκειται σε χρηματική ποινή που δεν υπερβαίνει τις τριακόσιες χιλιάδες ευρώ (€300.000): Νοείται ότι, πέραν της ποινικής ευθύνης για τη διάπραξη αδικήματος βίας κατά γυναίκας, το νομικό πρόσωπο υπέχει αστική ευθύνη. Επιπρόσθετες 13.-(1) Ανεξαρτήτως των διατάξεων οποιουδήποτε άλλου Νόμου και ανεξαρτήτως της επιβολής ποινές ή οποιασδήποτε άλλης ποινής ή κύρωσης για τη διάπραξη αδικήματος βίας κατά γυναίκας, το κυρώσεις κατά Δικαστήριο δύναται, σε οποιοδήποτε στάδιο της διαδικασίας ή κατά την επιβολή ποινής σε νομικού ή καταδικασθέντα, να διατάξει ως επιπρόσθετη ποινή ή κύρωση- φυσικού προσώπου. (α) τον αποκλεισμό από δημόσιες παροχές ή ενισχύσεις, (β) τη διάλυση του νομικού προσώπου, (γ) το προσωρινό ή το οριστικό κλείσιμο των υποστατικών ή εγκαταστάσεων που χρησιμοποιήθηκαν για τη διάπραξη του αδικήματος, (δ) την κατάσχεση και τη δήμευση οποιουδήποτε αντικειμένου ή μέσου, το οποίο χρησιμοποιήθηκε για τη διάπραξη αδικήματος βίας κατά γυναίκας.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(d) the offence of exercise of economic violence provided for in article 8;\nEconomic 8. The spouse or partner of a woman financially dependent on them, who deprives her of the violence.",
+      "rationale": "The framework explicitly recognises and criminalises “exercise of economic violence,” including deprivation of necessary economic means for living, establishing it as a form of violence with legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Οικονομική 8. Σύζυγος ή σύντροφος γυναίκας οικονομικά εξαρτώμενης από αυτόν, ο οποίος της αποστερεί βία.\n\nΑποκλεισμός 16. Δεν αποτελεί υπεράσπιση ή ελαφρυντικό παράγοντα ή δικαιολογία σχετικά με αδίκημα βίας υπεράσπισης.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Female genital mutilation.\n16. It does not constitute a defence or mitigating factor or justification in relation to an offence of defence.",
+      "rationale": "The text includes operative provisions addressing harmful practices: it explicitly references female genital mutilation as an offence via the schedule entry, and it also removes “honour” as a defence/mitigating factor for offences of violence against women, which substantively addresses honour-based crimes/violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Εξαναγκασμός σε γάμο.\n\nΑποκλεισμός 16. Δεν αποτελεί υπεράσπιση ή ελαφρυντικό παράγοντα ή δικαιολογία σχετικά με αδίκημα βίας υπεράσπισης.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences use the terms femicide/feminicide (or an equivalent term such as gender-motivated killing of women) or establish a femicide-specific offence, aggravating factor, classification, or dedicated prevention/monitoring mechanism. References to lethality risk assessment and general homicide/murder schedule entries do not constitute an explicit femicide framework under the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "(4) In the context of the individual assessment, the prosecuting authorities, in cooperation with the Social Welfare Services, the Mental Health Services and the Medical Services, give particular attention to victims who have suffered significant harm due to the seriousness of the offense, to victims of an offense due to prejudice or discrimination that may be related to their personal characteristics, and to victims who are particularly vulnerable due to their relationship with or dependence on the perpetrator, particularly victims of terrorism, organized crime, trafficking in human beings, gender-based violence, violence in the context of a close relationship, sexual violence or exploitation or hate crimes and to victims with disabilities.",
+      "rationale": "The operative provisions explicitly mention “trafficking in human beings” as a category of particularly vulnerable victims to which particular attention is given in the individual assessment context, which constitutes substantive inclusion of trafficking within protection/risk-assessment measures.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Στο πλαίσιο της ατομικής αξιολόγησης, οι διωκτικές αρχές, σε συνεργασία με τις Υπηρεσίες Κοινωνικής Ευημερίας, τις Υπηρεσίες Ψυχικής Υγείας και τις Ιατρικές Υπηρεσίες, δίδουν ιδιαίτερη προσοχή στα θύματα τα οποία υπέστησαν σημαντική βλάβη λόγω της σοβαρότητας του αδικήματος, στα θύματα αδικήματος που οφείλεται σε προκαταλήψεις ή διακρίσεις που δυνατόν να σχετίζεται με τα προσωπικά χαρακτηριστικά αυτών, και στα θύματα τα οποία είναι ιδιαίτερα ευάλωτα λόγω της σχέσης τους με τον δράστη ή της εξάρτησής τους από αυτόν, ιδίως τα θύματα τρομοκρατίας, οργανωμένου εγκλήματος, εμπορίας ανθρώπων, βίας με βάση το φύλο, βίας στο πλαίσιο στενής σχέσης, σεξουαλικής βίας ή εκμετάλλευσης ή εγκλήματος μίσους και στα θύματα με αναπηρίες.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not define, prohibit, or criminalise sexual exploitation/sexual slavery, nor do they link exploitation to a sexual purpose (e.g., forced prostitution/sexual services for gain). Mentions of “sexual exploitation of children” appear only as the title of another law, and the phrase “sexual violence or exploitation” is not specific to sexual exploitation/slavery as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "Dissemination 9.-(1) A person who sends, distributes, circulates, publishes, disseminates, reproduces or transmits of material of by any electronic, digital, printed or other means of any nature, material with pornographic or sexual pornographic or content in relation to a woman, without her consent, under conditions of reasonable expectation of privacy, sexual content.",
+      "rationale": "The operative provisions criminalise dissemination of pornographic/sexual content without consent via electronic/digital means, explicitly covering conduct committed through digital technologies and therefore substantively addressing technology-facilitated violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "17. Σε περίπτωση κατά την οποία πρόσωπο, στο πλαίσιο άσκησης του επαγγέλματός του ή επαγγελματίες. των επαγγελματικών του καθηκόντων, είτε στον δημόσιο είτε στον ιδιωτικό τομέα, έχει επαρκείς λόγους να πιστεύει ότι έχει διαπραχθεί αδίκημα βίας κατά γυναίκας ή ότι αναμένεται να διαπραχθούν και άλλες πράξεις βίας εναντίον γυναίκας και προβαίνει σε καταγγελία στις διωκτικές αρχές, οι κανόνες εμπιστευτικότητας που προβλέπονται σε οποιονδήποτε εν ισχύι Νόμο δεν τυγχάνουν εφαρμογής σε σχέση με την καταγγελία, εκτός από την περίπτωση για την οποία η πληροφόρηση ελήφθη από δικηγόρο, στο πλαίσιο παροχής νομικής συμβουλής ή/και εκπροσώπησης ή/και υπεράσπισης προσώπου σε σχέση με ποινική ή αστική διαδικασία. ΜΕΡΟΣ ΙΙΙ ΔΙΚΑΙΩΜΑΤΑ ΚΑΙ ΠΡΟΣΤΑΣΙΑ ΤΩΝ ΘΥΜΑΤΩΝ ΣΤΟ ΠΛΑΙΣΙΟ ΤΗΣ ΠΟΙΝΙΚΗΣ",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "fear, is guilty of an offence and, upon conviction, is liable to imprisonment not exceeding five (5) years or to a fine not exceeding ten thousand euros (€10,000) or to both such penalties.\nexpressed in words or acts and has the purpose or effect of violating the dignity of the woman, especially when through this conduct that person creates an intimidating, hostile, degrading, humiliating or offensive environment towards that woman, is guilty of an offence and, upon conviction, is liable to imprisonment not exceeding five (5) years or to a fine not exceeding ten thousand euros (€10,000) or to both such penalties.\nwith the purpose of intimidating and/or humiliating and/or harassing her or causing her emotional disturbance and/or economic or other harm or damage or to obtain unlawful financial benefit, is guilty of a felony and, upon conviction, is liable to imprisonment not exceeding fourteen (14) years.",
+      "rationale": "The text defines multiple forms of violence against women as criminal offences and specifies criminal sanctions upon conviction (imprisonment and/or fines), including for psychological violence, sexual harassment, and non-consensual dissemination of sexual content.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.99,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.99
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Παράλειψη συμμόρφωσης με διάταγμα του Δικαστηρίου που εκδίδεται δυνάμει των διατάξεων του εδαφίου (1), συνιστά ποινικό αδίκημα το οποίο τιμωρείται με ποινή φυλάκισης που δεν υπερβαίνει τα πέντε (5) έτη ή με χρηματική ποινή που δεν υπερβαίνει τις εκατόν εβδομήντα χιλιάδες ευρώ (€170.000) ή και με τις δύο αυτές ποινές. Εφαρμογή των 14. Για σκοπούς του παρόντος Νόμου στην περίπτωση, στον βαθμό και στην έκταση που οι διατάξεων διατάξεις τους δεν είναι αντίθετες με τις διατάξεις του παρόντος Νόμου, εφαρμόζονται οι ακόλουθοι άλλων νόμων. νόμοι:\n\n(ε) ο περί της Θέσπισης Ελάχιστων Προτύπων σχετικά με τα Δικαιώματα, την Υποστήριξη και την Προστασία Θυμάτων της Εγκληματικότητας Νόμος. Δικαιοδοσία 15.-(1) Τηρουμένων των διατάξεων του άρθρου 5 του Ποινικού Κώδικα, τα δικαστήρια της δικαστηρίων. Δημοκρατίας έχουν δικαιοδοσία να εκδικάζουν αδικήματα βίας κατά γυναικών, εφόσον αυτά διαπράχθηκαν- (α) επί πλοίου φέροντος τη σημαία τη Δημοκρατίας, (β) επί αεροσκάφους το οποίο είναι εγγεγραμμένο σύμφωνα με τη νομοθεσία της Δημοκρατίας. (2) Αδίκημα, το οποίο διαπράχθηκε επί πλοίου ή αεροσκάφους, όπως προβλέπεται στο εδάφιο\n\nΜεταχείριση 18. Τηρουμένων των διατάξεων του περί της Θέσπισης Ελάχιστων Προτύπων σχετικά με τα θυμάτων. Δικαιώματα, την Υποστήριξη και την Προστασία Θυμάτων της Εγκληματικότητας Νόμου και του περί Προστασίας Μαρτύρων Νόμου, στην έκταση που αυτοί εφαρμόζονται σε σχέση με θύματα αδικημάτων βίας κατά γυναικών- (α) οι εμπλεκόμενες υπηρεσίες και οι εμπλεκόμενοι μη κυβερνητικοί οργανισμοί, αναλόγως των αρμοδιοτήτων τους και εντός των πλαισίων αυτών, μεταχειρίζονται τα θύματα με σεβασμό στην αξιοπρέπεια, τα δικαιώματα και τα έννομα συμφέροντά τους, στο πλαίσιο της ποινικής διαδικασίας και διασφαλίζουν ότι τα θύματα τυγχάνουν ειδικής μεταχείρισης που ανταποκρίνεται με τον καλύτερο τρόπο στο βέλτιστο συμφέρον, την εξατομικευμένη κατάσταση και την ηλικία και τον βαθμό ωριμότητάς τους, (β) οι Υπηρεσίες Κοινωνικής Ευημερίας διασφαλίζουν ότι παρέχεται συνδρομή, στήριξη και προστασία σε θύμα, ευθύς ως οι υπηρεσίες αυτές ή οποιαδήποτε άλλη εμπλεκόμενη υπηρεσία διαπιστώσουν ότι υπάρχουν βάσιμοι λόγοι να πιστεύουν ότι ενδέχεται να έχει διαπραχθεί εις βάρος του θύματος αδίκημα βίας κατά γυναίκας, ανεξαρτήτως της προθυμίας του θύματος να συνεργαστεί στην ποινική διαδικασία, και (γ) οι Υπηρεσίες Κοινωνικής Ευημερίας διασφαλίζουν ότι, όταν η ηλικία θύματος αδικήματος βίας κατά γυναίκας δεν εξακριβώνεται και υπάρχουν λόγοι που καταδεικνύουν ότι πρόκειται για παιδί, το εν λόγω πρόσωπο θεωρείται κατά τεκμήριο ότι είναι παιδί, ώστε να έχει άμεση πρόσβαση σε συνδρομή, στήριξη και προστασία, σύμφωνα με τις διατάξεις του",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "Provisional 32.-(1) The Court may, following the filing of an application by any of the Police, the\n(3) The provisional order is valid for a period not exceeding eight (8) days from the day of its service on the suspect and is returnable within that period, at a time and day to be set by the Court.\n(5) A person against whom an exclusion order has been issued and who, while the said order is in force, violates any of the conditions contained therein, commits an offense and, upon conviction, is liable to imprisonment not exceeding two (2) years.",
+      "rationale": "The framework provides for court-issued exclusion/protection orders, specifies who may apply (including Police/Attorney General/Social Welfare Services), sets a defined duration for provisional orders, and establishes a criminal consequence for breach (imprisonment upon conviction).",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Δικαιοδοσία για την εκδίκαση αγωγής για αποζημίωση, όπως προβλέπεται στο εδάφιο (1), έχει το αρμόδιο Επαρχιακό Δικαστήριο που ασκεί πολιτική δικαιοδοσία, όπως αυτό καθορίζεται στον 14 του 1960 περί Δικαστηρίων Νόμο. 50 του 1962 11 του 1963 8 του 1969\n\n(3) Το ως άνω προσωρινό διάταγμα ισχύει για περίοδο που δεν υπερβαίνει τις οκτώ (8) ημέρες από την ημέρα επίδοσής του στον ύποπτο και είναι επιστρεπτέο στο Δικαστήριο εντός της περιόδου αυτής, σε ώρα και ημέρα που θα ορίσει το Δικαστήριο. (4) Κατά την ορισμένη από το Δικαστήριο ημέρα και ώρα, το Δικαστήριο ακούει τον ύποπτο ή κατηγορούμενο, καθώς και κάθε επηρεαζόμενο ή ενδιαφερόμενο πρόσωπο που θα παρουσιασθεί και αποφασίζει κατά πόσο θα τερματίσει την ισχύ του διατάγματος ή θα το παρατείνει για περαιτέρω χρονική περίοδο η οποία δεν υπερβαίνει τις οκτώ (8) ημέρες. (5) Το Δικαστήριο δύναται να παρατείνει έτι περαιτέρω την ισχύ του ως άνω προσωρινού διατάγματος για περίοδο την οποία κρίνει αναγκαία, χωρίς όμως η περίοδος ισχύος αυτού να δύναται να υπερβαίνει τις εξήντα (60) ημέρες στο σύνολό της για την περίοδο που προηγείται της άσκησης ποινικής δίωξης εναντίον του υπόπτου. (6) Το Δικαστήριο δύναται, μετά την άσκηση ποινικής δίωξης εναντίον του υπόπτου, να εκδώσει διάταγμα απομάκρυνσης ή να παρατείνει το προσωρινό διάταγμα, με ισχύ μέχρι την εκδίκαση της υπόθεσης.\n\n(5) Πρόσωπο εναντίον του οποίου εκδόθηκε διάταγμα αποκλεισμού και το οποίο, ενώ το εν λόγω διάταγμα βρίσκεται σε ισχύ, παραβαίνει οποιονδήποτε από τους όρους που περιλαμβάνονται σε αυτό, διαπράττει αδίκημα και, σε περίπτωση καταδίκης του, υπόκειται σε ποινή φυλάκισης μέχρι δύο (2) έτη. ΜΕΡΟΣ ΙV ΠΑΡΟΧΗ ΣΥΝΔΡΟΜΗΣ ΚΑΙ ΣΤΗΡΙΞΗΣ ΣΤΑ ΘΥΜΑΤΑ Μέτρα 34.-(1) Οι εμπλεκόμενες υπηρεσίες, στο πλαίσιο των αρμοδιοτήτων τους, λαμβάνουν όλα τα στήριξης κατάλληλα μέτρα για να συνδράμουν και στηρίξουν τα θύματα, βραχυπρόθεσμα και θυμάτων.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police obligations (e.g., first contact procedures, risk assessment, cooperation with other services) but do not designate or mandate a specific specialised unit/desk/division within police services for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss general court jurisdiction and various procedural/protective measures (e.g., witness protection, remote cross-examination, provisional orders), but they do not establish a specialised court/chamber/judicial officer or a designated specialised/fast-track judicial procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references rape and includes spouse/partner status as an aggravating circumstance for offences of violence against women, it does not expressly state in an operative provision that rape/sexual assault applies within marriage/intimate partnerships or that spousal status is not a defence/exemption to liability for rape/sexual offences. Under the coding rules, general criminalisation of rape is insufficient without explicit removal of a spousal exemption or explicit applicability to spouses.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Establishment 39.-(1) A National Coordinating Body for the Prevention and Combating of Violence of National against Women is established, which is accountable to the Minister and has the responsibility for the Coordinating coordination, planning, implementation, monitoring and evaluation of policies and measures for the Body for the prevention and combating of all forms of violence falling within the scope of application of this Prevention and Law: Combating of\n(2) The Coordinating Body is composed of one (1) chairperson who is appointed by the Council of Ministers and eleven (11) members as follows:\n(2) The Body meets regularly every two (2) months.",
+      "rationale": "The text establishes a formal multi-agency institutional coordination mechanism: a National Coordinating Body is created, with specified responsibilities for coordination/planning/implementation/monitoring/evaluation, a defined multi-sector composition including multiple ministries and police, and operational procedures including regular meetings.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Σύσταση 39.-(1) Καθιδρύεται Εθνικός Συντονιστικός Φορέας για την Πρόληψη και την Καταπολέμηση Εθνικού της Βίας κατά των Γυναικών, ο οποίος είναι υπόλογος στον Υπουργό και έχει την ευθύνη για τον Συντονιστικού συντονισμό, τον σχεδιασμό, την εφαρμογή, την παρακολούθηση και την αξιολόγηση των πολιτικών Φορέα για την και των μέτρων για την πρόληψη και την καταπολέμηση όλων των μορφών βίας που εμπίπτουν Πρόληψη και στο πεδίο εφαρμογής του παρόντος Νόμου: την Καταπο- λέμηση της\n\n(2) Ο Συντονιστικός Φορέας συγκροτείται από έναν (1) πρόεδρο ο οποίος διορίζεται από το Υπουργικό Συμβούλιο και έντεκα (11) μέλη ως ακολούθως: (α) Τον πρόεδρο του Εθνικού Μηχανισμού για τα Δικαιώματα της Γυναίκας ή εκπρόσωπό του· (β) τον πρόεδρο της Συμβουλευτικής Επιτροπής για την Πρόληψη και Καταπολέμηση της Βίας στην Οικογένεια που εγκαθιδρύθηκε δυνάμει των διατάξεων του περί Βίας στην Οικογένεια (Πρόληψη και Προστασία των Θυμάτων) Νόμου· (γ) έναν (1) εκπρόσωπο της Νομικής Υπηρεσίας της Δημοκρατίας· (δ) έναν (1) εκπρόσωπο του Υπουργείου Δικαιοσύνης και Δημοσίας Τάξεως· (ε) έναν (1) εκπρόσωπο του Υπουργείου Υγείας· (στ) έναν (1) εκπαιδευτικό ψυχολόγο υπαγόμενο στο Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας· (ζ) έναν (1) εκπρόσωπο του Υπουργείου Εσωτερικών· (η) έναν (1) εκπρόσωπο της Αστυνομίας· (θ) έναν (1) εκπρόσωπο των Υπηρεσιών Κοινωνικής Ευημερίας του Υπουργείου Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων· (ι) δύο (2) μέλη τα οποία προέρχονται από μη κυβερνητικούς οργανισμούς ή/και επαγγελματικούς συνδέσμους από τα πεδία της ψυχικής υγείας ή της κοινωνικής εργασίας. (3) Το αναφερόμενο στην παράγραφο (γ) του εδαφίου (2) μέλος διορίζεται από το Υπουργικό Συμβούλιο μετά από πρόταση του Γενικού Εισαγγελέα της Δημοκρατίας, ενώ τα αναφερόμενα στις παραγράφους (δ) έως (ι) του εδαφίου (1) μέλη, διορίζονται από το Υπουργικό Συμβούλιο ύστερα από πρόταση του Υπουργού, από κατάλογο που καταρτίζεται από τον ίδιο. (4) Τηρουμένων των διατάξεων του εδαφίου (2) του άρθρου 40, ο Πρόεδρος και τα μέλη του\n\nΦορέα. (2) Ο Φορέας συνέρχεται τακτικά κάθε δύο (2) μήνες.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "44. The Body ensures the collection, coordination, processing, analysis, study, and analysis of publication of statistical data, at regular intervals, in relation to violence against women and elements and domestic violence in the Republic, as well as the creation of a common database, through the data.\ngrouping of information regarding incidents of violence against women and domestic violence, which originate inter alia from all involved services and non-governmental organisations:",
+      "rationale": "The text assigns the Coordinating Body explicit responsibility to ensure collection/processing/analysis/publication of statistical data on violence against women and domestic violence and to create a common database using information from involved services and NGOs, which meets the criterion for a mandated data collection and management function.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "Συλλογή και 44. Ο Φορέας μεριμνά για τη συλλογή, τον συντονισμό, την επεξεργασία, ανάλυση, μελέτη, και ανάλυση δημοσιοποίηση στατιστικών δεδομένων, κατά τακτά χρονικά διαστήματα, σε σχέση με τη βία κατά στοιχείων και των γυναικών και την ενδοοικογενειακή βία στη Δημοκρατία, καθώς και για τη δημιουργία κοινής δεδομένων.\n\nβάσης δεδομένων, μέσω της ομαδοποίησης πληροφοριών αναφορικά με τα περιστατικά βίας κατά των γυναικών και της ενδοοικογενειακής βίας, οι οποίες προέρχονται μεταξύ άλλων από όλες τις εμπλεκόμενες υπηρεσίες και μη κυβερνητικές οργανώσεις:",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references gender equality and related concepts (e.g., equality between women and men, dismantling gender stereotypes), none of the provided sentences explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal points, mainstreaming working group, or integration into planning/budgeting as gender mainstreaming).",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(e) the planning and organisation of seminars and training programmes for officials of the involved services and non-governmental organisations and professionals of the government, private and voluntary sectors regarding violence against women and domestic violence;\nsystematic and mandatory intra-service and inter-departmental education, sensitisation and training of all officials or other persons who may come into contact with victims of violence against women and/or handle a case of violence against women, regarding the prevention and combating of offences of violence against women, equality between women and men, the needs and rights of victims and the reduction of such offences, the identification of victims and the minimisation of relapse of perpetrators.\n(c) ensure that the persons and authorities entrusted with the criminal investigation and prosecution of offenses of violence against women receive appropriate training regarding the application of the provisions of this Law;",
+      "rationale": "The framework assigns responsibilities to a designated body and involved services to plan and organize training programmes and to ensure/require training for officials who may come into contact with victims or handle cases, including those responsible for investigation and prosecution. These are operative, directed provisions concerning implementing personnel rather than mere references to “trained staff.”",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Το Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας διασφαλίζει ότι τα μέλη του εποπτικού προσωπικού του Υπουργείου Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας, καθώς και οι λειτουργοί εκπαιδευτικού προγραμματισμού όλων των βαθμίδων από το Παιδαγωγικό Ινστιτούτο, λαμβάνουν επιμόρφωση επί των αναφερόμενων στο εδάφιο (1) θεμάτων, ανά τακτά διαστήματα. (5) Το Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας διασφαλίζει ότι οι εκπαιδευτικοί όλων των βαθμίδων είναι δεόντως καταρτισμένοι σε σχέση με μεθόδους διακρίβωσης όλων των μορφών βίας κατά γυναικών, τις ανάγκες και τα δικαιώματα των παιδιών θυμάτων, καθώς και για την υλοποίηση των αναφερόμενων στο εδάφιο (1) υποχρεώσεων: Νοείται ότι, η προβλεπόμενη στο παρόν εδάφιο κατάρτιση πραγματοποιείται ανά τακτά διαστήματα, στο πλαίσιο υποχρεωτικής επιμόρφωσης των εκπαιδευτικών όλων των βαθμίδων ή κατ’ ιδίαν από το Παιδαγωγικό Ινστιτούτο, σε συνεργασία με την οικεία διεύθυνση εκπαίδευσης: Νοείται περαιτέρω ότι, η προβλεπόμενη στο παρόν εδάφιο κατάρτιση δύναται να πραγματοποιείται εναλλακτικά με την ανάρτηση/κυκλοφορία σχετικού βιβλιαρίου/εντύπου/ ψηφιακού οδηγού για την πρόληψη της βίας.\n\nκαι τη συστηματική και υποχρεωτική ενδοϋπηρεσιακή και διατμηματική εκπαίδευση, ευαισθητο- ποίηση και κατάρτιση όλων των λειτουργών ή άλλων προσώπων που ενδέχεται να έλθουν σε επαφή με θύματα βίας κατά γυναικών ή/και να χειριστούν περίπτωση βίας κατά γυναικών, σχετικά με την πρόληψη και την καταπολέμηση αδικημάτων βίας κατά γυναικών, την ισότητα μεταξύ γυναικών και ανδρών, τις ανάγκες και τα δικαιώματα των θυμάτων και τη μείωση τέτοιων αδικημάτων, τον εντοπισμό των θυμάτων και την ελαχιστοποίηση υποτροπής των δραστών.\n\nεκδικάζεται ποινική υπόθεση για διάπραξη αδικήματος βίας κατά γυναίκας, στο πλαίσιο των εξουσιών τους- (α) ενεργούν έγκαιρα και κατάλληλα, προσφέροντας επαρκή και άμεση προστασία στο θύμα, (β) διασφαλίζουν ότι η ποινική διαδικασία διεξάγεται χωρίς καθυστέρηση και χωρίς να επιδεινώνει την τραυματική εμπειρία που βίωσε το θύμα, (γ) εξασφαλίζουν ότι τα πρόσωπα και οι αρχές που είναι επιφορτισμένες με την ποινική έρευνα και τη δίωξη αδικημάτων βίας κατά γυναικών τυγχάνουν της ανάλογης επιμόρφωσης αναφορικά με την εφαρμογή των διατάξεων του παρόντος Νόμου∙ (δ) θέτουν στη διάθεση των προσώπων και των αρχών που είναι επιφορτισμένες με την ποινική έρευνα και δίωξη αδικημάτων βίας κατά γυναικών αποτελεσματικά εργαλεία έρευνας και άλλα απαραίτητα μέσα και διευκολύνσεις∙ (ε) διασφαλίζουν ότι η αβεβαιότητα για την πραγματική ηλικία του θύματος δεν αποτρέπει την έναρξη των ποινικών ερευνών.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Establishment 39.-(1) A National Coordinating Body for the Prevention and Combating of Violence of National against Women is established, which is accountable to the Minister and has the responsibility for the Coordinating coordination, planning, implementation, monitoring and evaluation of policies and measures for the Body for the prevention and combating of all forms of violence falling within the scope of application of this Prevention and Law: Combating of\nMinisters and the relevant action plans, as well as their monitoring, evaluation and implementation;\n(2) The Body prepares an annual report, which it submits to the Council of Ministers through the Minister, regarding its activities, the implementation of the provisions of this",
+      "rationale": "The framework establishes a National Coordinating Body with explicit responsibility for monitoring and evaluation of relevant policies/measures, including monitoring/evaluating the National Strategy and action plans, and it requires reporting (annual report on activities and implementation). This constitutes a specific mechanism and designated responsible entity for monitoring/evaluation of implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Σύσταση 39.-(1) Καθιδρύεται Εθνικός Συντονιστικός Φορέας για την Πρόληψη και την Καταπολέμηση Εθνικού της Βίας κατά των Γυναικών, ο οποίος είναι υπόλογος στον Υπουργό και έχει την ευθύνη για τον Συντονιστικού συντονισμό, τον σχεδιασμό, την εφαρμογή, την παρακολούθηση και την αξιολόγηση των πολιτικών Φορέα για την και των μέτρων για την πρόληψη και την καταπολέμηση όλων των μορφών βίας που εμπίπτουν Πρόληψη και στο πεδίο εφαρμογής του παρόντος Νόμου: την Καταπο- λέμηση της\n\nά. καθώς και για μορφές γλωσσικού σεξισμού και τρόπους υπέρβασής τους:\n\n(2) Ο Φορέας συντάσσει ετήσια έκθεση, την οποία υποβάλλει στο Υπουργικό Συμβούλιο μέσω του Υπουργού, αναφορικά με τις δραστηριότητές του, την εφαρμογή των διατάξεων του παρόντος",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "43. The budget of the Body is covered by a relevant appropriation, which is specifically of the Body.\nprovided in the budget of the Ministry of Justice and Public Order.",
+      "rationale": "The framework contains an operative provision specifying that the budget of the National Coordinating Body is covered by a specific appropriation in the budget of the Ministry of Justice and Public Order. This is a concrete budgetary allocation mechanism tied to implementation structures under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Προϋπολο- 43. Ο προϋπολογισμός του Φορέα καλύπτεται από σχετικό κονδύλι, το οποίο προβλέπεται γισμός ειδικά στον προϋπολογισμό του Υπουργείου Δικαιοσύνης και Δημοσίας Τάξεως. του Φορέα.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(2) The purpose of the cooperation and/or assignment of competences, in accordance with subsection (1), is the provision of integrated services to victims, which are concentrated and directly accessible by the victim and the members of their family, in a victim-friendly environment.\n(7) In the event that the victim has suffered violence involving a sexual act without their consent, the involved services ensure their care or their comprehensive supportive care in a specialized centre, which is staffed by a multidisciplinary team, including among others the Mental Health Services, the Medical",
+      "rationale": "The text includes operative provisions explicitly aiming at the provision of integrated services to victims and describes comprehensive supportive care in a specialized centre staffed by a multidisciplinary team, which constitutes an integrated/multidisciplinary service mechanism for victims/survivors of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Ο σκοπός της συνεργασίας ή/και ανάθεσης αρμοδιοτήτων, σύμφωνα με το εδάφιο (1), είναι η παροχή ολοκληρωμένων υπηρεσιών στα θύματα, οι οποίες να είναι συγκεντρωμένες και άμεσα προσβάσιμες από το θύμα και τα μέλη της οικογένειάς του, σε ένα φιλικό προς το θύμα περιβάλλον.\n\n(7) Σε περίπτωση κατά την οποία το θύμα υπέστη βία που ενέχει σεξουαλική πράξη χωρίς τη συναίνεσή του, οι εμπλεκόμενες υπηρεσίες διασφαλίζουν την περίθαλψή του ή την περιεκτική υποστηρικτική του φροντίδα σε εξειδικευμένο κέντρο, το οποίο στελεχώνεται από πολυθεματική ομάδα, περιλαμβανομένων μεταξύ άλλων των Υπηρεσιών Ψυχικής Υγείας, των Ιατρικών",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(n) the operation on a twenty-four hour basis of helplines for victims of violence against women and their staffing with appropriately specialised personnel:",
+      "rationale": "The framework contains an operative provision mandating the operation on a twenty-four hour basis of helplines for victims of violence against women, which is a mechanism through which victims can seek assistance/emergency support.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ρύθμισης των Διαδικασιών Σύναψης Δημοσίων Συμβάσεων και για Συναφή Θέματα Νόμων· (ιγ) την προώθηση και υιοθέτηση διατμηματικών διαδικασιών, με στόχο την αποτελεσματική αντιμετώπιση της βίας κατά των γυναικών από τις εμπλεκόμενες υπηρεσίες, οι οποίες να προβλέπουν, μεταξύ άλλων, για τη συνεργασία με μη κυβερνητικούς οργανισμούς· (ιδ) τη λειτουργία επί εικοσιτετραώρου βάσεως τηλεφωνικών γραμμών βοηθείας για θύματα βίας κατά των γυναικών και τη στελέχωσή τους με κατάλληλα εξειδικευμένο προσωπικό:",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(5) The Ministry of Labour, Welfare and Social Insurance ensures the operation of easily accessible shelters and/or protective shelters for the provision of safe accommodation, the active approach to victims and, through its services, the provision of short-term and long-term support to victims for matters falling within its competence, as provided in subsections (1) and (2).",
+      "rationale": "The framework includes an operative provision requiring the Ministry of Labour, Welfare and Social Insurance to ensure operation of easily accessible shelters/protective shelters for provision of safe accommodation to victims, satisfying the shelter/safe accommodation criterion.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) Το Υπουργείο Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων διασφαλίζει τη λειτουργία εύκολα προσβάσιμων στεγών και ή καταφυγίων προστασίας για την παροχή ασφαλούς στέγασης, την ενεργή προσέγγιση των θυμάτων και, μέσω των υπηρεσιών του, την παροχή βραχυπρόθεσμης και μακροπρόθεσμης στήριξης στα θύματα για ζητήματα που εμπίπτουν στην αρμοδιότητα του, όπως προβλέπεται στα εδάφια (1) και (2).",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "during the criminal proceedings, has the right of immediate access to legal representation in civil proceedings, in accordance with the provisions of the Advocates Law, for claiming compensation\nfrom the perpetrator and, in the event that they do not have sufficient resources, has the right to free legal",
+      "rationale": "The framework provides an operative entitlement for every victim to immediate access to legal representation in civil proceedings for claiming compensation and, where lacking resources, access to free legal aid under the Legal Aid Law, which constitutes legal assistance/legal aid for victims of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "διαδικασία, σύμφωνα με τις διατάξεις του περί Δικηγόρων Νόμου, προς διεκδίκηση αποζημιώσεων Κεφ.\n\nαπό τον δράστη και, σε περίπτωση που δεν έχει επαρκείς πόρους, έχει δικαίωμα σε δωρεάν νομική 42 του 1961 αρωγή βάσει των διατάξεων του περί Νομικής Αρωγής Νόμου.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(6) The Ministry of Health ensures that in all care facilities under its supervision protocols for admission, examination and care appropriate for dealing with cases of victims of violence shall be established.",
+      "rationale": "The text includes an operative provision assigning the Ministry of Health responsibility to establish protocols in care facilities for admission, examination and care appropriate for cases of victims of violence, which constitutes a required health-system response linked explicitly to victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) Το Υπουργείο Υγείας διασφαλίζει ότι σε όλους τους χώρους περίθαλψης οι οποίοι βρίσκονται υπό την εποπτεία του θα θεσπιστούν πρωτόκολλα εισδοχής, εξέτασης και περίθαλψης κατάλληλα για την αντιμετώπιση περιστατικών θυμάτων βίας.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(3) The Mental Health Services take, as the case may be and as far as possible, all necessary measures, in order to ensure assistance and support, primarily emergency psychological assistance to the victim and their family, if the family is in the Republic.",
+      "rationale": "The text contains an operative provision requiring Mental Health Services to take necessary measures to ensure assistance and support, primarily emergency psychological assistance, to the victim (and family), which is a psychosocial/psychological support service for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Οι Υπηρεσίες Ψυχικής Υγείας λαμβάνουν, κατά περίπτωση και κατά το δυνατόν, όλα τα απαραίτητα μέτρα, προκειμένου να εξασφαλίσουν συνδρομή και στήριξη, κυρίως έκτακτη ψυχολογική βοήθεια στο θύμα και στην οικογένειά του, σε περίπτωση που αυτή βρίσκεται στη Δημοκρατία.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences establish or mention religious/spiritual counselling, pastoral care, faith-based guidance, or any role for religious leaders/institutions in providing victim support. The only appearance of 'religious' is in an exclusion of defence clause and does not create a support service.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(2) The involved services, within the framework of their responsibilities, take all appropriate measures to ensure that victims have access to services by appropriately trained or specialized staff, which will facilitate their rehabilitation and which include legal, medical and psychological counseling services, financial assistance to cover their special needs regarding housing, education, training",
+      "rationale": "The text provides for victim access to services facilitating rehabilitation and explicitly includes financial assistance to cover special needs (including housing, education, training) and assistance in finding employment, which are longer-term recovery/reintegration supports linked to victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Τηρουμένων των διατάξεων του περί της Θέσπισης Ελάχιστων Προτύπων σχετικά με τα Δικαιώματα, την Υποστήριξη και την Προστασία Θυμάτων της Εγκληματικότητας Νόμου, οι Υπηρεσίες Κοινωνικής Ευημερίας παρέχουν στο θύμα σε απλή και κατανοητή γλώσσα ή στη μητρική του γλώσσα, τις πληροφορίες που κρίνονται αναγκαίες για την προστασία των συμφερόντων του ως θύματος, οι οποίες δίδονται και γραπτώς και περιλαμβάνουν κατ’ ελάχιστον τα ακόλουθα στοιχεία: (α) Τον τίτλο των κρατικών υπηρεσιών ή των μη Κυβερνητικών Οργανώσεων στις οποίες αυτός μπορεί να προσφύγει για παροχή υποστήριξης, καθώς και για το είδος της υποστήριξης∙ (β) τη δυνατότητα εξατομικευμένης αξιολόγησης της προσωπικής του κατάστασης και την αξιολόγηση κινδύνου δυνάμει των διατάξεων του άρθρου 21· (γ) πληροφορίες αναφορικά με την υγειονομική ή ψυχολογική στήριξή του∙ (δ) πληροφορίες σχετικές με την υποβολή καταγγελίας εναντίον του φερόμενου ως δράστη του αδικήματος στις διωκτικές αρχές· (ε) την ύπαρξη καταφυγίων προστασίας∙ (στ) τους όρους και τη διαδικασία βάσει των οποίων δύναται να απολαύει ασφάλειας και προστασίας∙ (ζ) τον βαθμό και τους όρους βάσει των οποίων δυνατόν να του παρασχεθούν νομικές συμβουλές και από ποίους παρέχονται τέτοιες συμβουλές ή τη δυνατότητα παροχής Μέρος ΙΙΙ.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(b) his/her attendance of the programmes provided for in article 44, so as to become capable of adopting behaviour, with the aim of preventing the exercise of violence and changing the violent forms of behaviour manifested by him/her, and/or",
+      "rationale": "The text authorizes the Court, when sentencing a convicted person (with consent), to order attendance of programmes aimed at preventing violence and changing violent behaviour, which is a perpetrator-focused behaviour-change intervention.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "κατά την επιβολή ποινής σε καταδικασθέντα και με τη συγκατάθεσή του, να διατάξει- (α) την υποβολή αυτού σε διαγνωστική εξέταση ή θεραπεία από ψυχίατρο ή/και κλινικό ψυχολόγο των Υπηρεσιών Ψυχικής Υγείας, (β) την παρακολούθηση από αυτόν των προβλεπόμενων στο άρθρο 44 προγραμμάτων, ώστε να καταστεί ικανό να υιοθετήσει συμπεριφορά, με στόχο την πρόληψη άσκησης βίας και την αλλαγή των εκδηλούμενων από αυτό βίαιων μορφών συμπεριφοράς, ή/και (γ) την υποβολή του σε θεραπευτική αγωγή αυτοελέγχου από εμπειρογνώμονες ή υπό άλλους όρους που το Δικαστήριο κρίνει αναγκαίους, ώστε να αποφευχθεί η επανάληψη αδικημάτων βίας κατά γυναικών.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(f) the undertaking and organisation of actions for the information and sensitisation of society on matters of violence against women, domestic violence, equality, and combating any discrimination on the basis of sex, information on measures available for the prevention of acts of violence and generally on matters falling within the provisions of this Law;\nInformation 48.-(1) The Ministry of Education, Culture, Sport and Youth ensures that children, during of children and primary and secondary education, public and private, are informed, through updated curricula training of and/or other actions, on sexual education and the prevention and combating of violence, violence educators against women, rape and domestic violence, including issues of gender equality and dismantling of and staff of gender stereotypes and prejudices, settlement of disputes without violence in interpersonal school relationships, non-exercise of gender-based violence against women and the right to personal units on integrity, adapted to their developmental capacity, as well as on forms of linguistic sexism and ways gender of overcoming them: issues, etc.",
+      "rationale": "Operative provisions assign responsibilities for information/sensitisation of society on matters of violence against women and for informing children through curricula/other actions about prevention and combating of violence against women, rape and domestic violence, which constitutes explicit information/education activities directed at VAW as prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) Τα ιδρύματα ανώτερης εκπαίδευσης που λειτουργούν στη Δημοκρατία, διασφαλίζουν ότι οι φοιτητές ενημερώνονται για την πρόληψη και καταπολέμηση της βίας, της βίας κατά των γυναικών, του βιασμού, της ενδοοικογενειακής βίας, περιλαμβανομένων θεμάτων ισότητας των φύλων και κατάρριψης των έμφυλων στερεοτύπων και των προκαταλήψεων, της διευθέτησης διενέξεων χωρίς βία στις διαπροσωπικές σχέσεις, της πρόληψης άσκησης βίας με βάση το φύλο κατά των γυναικών και του δικαιώματος της προσωπικής ακεραιότητας, καθώς και για τις μορφές γλωσσικού σεξισμού και τους τρόπους υπέρβασης. (7) Τα ιδρύματα ανώτερης εκπαίδευσης που λειτουργούν στη Δημοκρατία διασφαλίζουν ότι το διδακτικό προσωπικό είναι δεόντως καταρτισμένο σε σχέση με μεθόδους διακρίβωσης όλων των μορφών βίας κατά γυναικών, καθώς και για την υλοποίηση των αναφερόμενων στο εδάφιο (4) υποχρεώσεων: Νοείται ότι, η προβλεπόμενη στο παρόν εδάφιο κατάρτιση πραγματοποιείται, στο πλαίσιο υποχρεωτικής επιμόρφωσης του διδακτικού προσωπικού:\n\nΕνημέρωση 48.-(1) Το Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας διασφαλίζει ότι τα παιδιά, παιδιών και κατά την πρωτοβάθμια και δευτεροβάθμια εκπαίδευση, δημόσια και ιδιωτική, ενημερώνονται, μέσω κατάρτιση επικαιροποιημένων αναλυτικών προγραμμάτων ή/και άλλων δράσεων, για τη σεξουαλική εκπαιδευτικών διαπαιδαγώγηση και την πρόληψη και καταπολέμηση της βίας, της βίας κατά των γυναικών, του και στελεχών βιασμού και της ενδοοικογενειακής βίας, περιλαμβανομένων θεμάτων ισότητας των φύλων και των σχολικών κατάρριψης των έμφυλων στερεοτύπων και των προκαταλήψεων, της διευθέτησης διενέξεων χωρίς μονάδων για βία στις διαπροσωπικές σχέσεις, της μη άσκησης βίας με βάση το φύλο κατά των γυναικών και του τα έμφυλα δικαιώματος της προσωπικής ακεραιότητας, προσαρμοσμένων στην εξελικτική δυνατότητά τους, ζητήματα κ. ά. καθώς και για μορφές γλωσσικού σεξισμού και τρόπους υπέρβασής τους:",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Information 48.-(1) The Ministry of Education, Culture, Sport and Youth ensures that children, during of children and primary and secondary education, public and private, are informed, through updated curricula training of and/or other actions, on sexual education and the prevention and combating of violence, violence educators against women, rape and domestic violence, including issues of gender equality and dismantling of and staff of gender stereotypes and prejudices, settlement of disputes without violence in interpersonal school relationships, non-exercise of gender-based violence against women and the right to personal units on integrity, adapted to their developmental capacity, as well as on forms of linguistic sexism and ways gender of overcoming them: issues, etc.",
+      "rationale": "Operative provisions require that children be informed through updated curricula and/or other actions on prevention/combating of violence against women and explicitly include issues of gender equality and dismantling gender stereotypes and prejudices, linking gender-equality education to VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ενημέρωση 48.-(1) Το Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας διασφαλίζει ότι τα παιδιά, παιδιών και κατά την πρωτοβάθμια και δευτεροβάθμια εκπαίδευση, δημόσια και ιδιωτική, ενημερώνονται, μέσω κατάρτιση επικαιροποιημένων αναλυτικών προγραμμάτων ή/και άλλων δράσεων, για τη σεξουαλική εκπαιδευτικών διαπαιδαγώγηση και την πρόληψη και καταπολέμηση της βίας, της βίας κατά των γυναικών, του και στελεχών βιασμού και της ενδοοικογενειακής βίας, περιλαμβανομένων θεμάτων ισότητας των φύλων και των σχολικών κατάρριψης των έμφυλων στερεοτύπων και των προκαταλήψεων, της διευθέτησης διενέξεων χωρίς μονάδων για βία στις διαπροσωπικές σχέσεις, της μη άσκησης βίας με βάση το φύλο κατά των γυναικών και του τα έμφυλα δικαιώματος της προσωπικής ακεραιότητας, προσαρμοσμένων στην εξελικτική δυνατότητά τους, ζητήματα κ. ά. καθώς και για μορφές γλωσσικού σεξισμού και τρόπους υπέρβασής τους:",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes actions for information/sensitisation about violence against women and information on measures available for prevention, it does not explicitly specify dissemination or education about laws, regulations, policies, or legal protections concerning VAW as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "Information 48.-(1) The Ministry of Education, Culture, Sport and Youth ensures that children, during of children and primary and secondary education, public and private, are informed, through updated curricula training of and/or other actions, on sexual education and the prevention and combating of violence, violence educators against women, rape and domestic violence, including issues of gender equality and dismantling of and staff of gender stereotypes and prejudices, settlement of disputes without violence in interpersonal school relationships, non-exercise of gender-based violence against women and the right to personal units on integrity, adapted to their developmental capacity, as well as on forms of linguistic sexism and ways gender of overcoming them: issues, etc.\n(6) Higher education institutions operating in the Republic ensure that students are informed about the prevention and combating of violence, violence against women, rape, domestic violence, including issues of gender equality and dismantling of gender stereotypes and prejudices, settlement of disputes without violence in interpersonal relationships, prevention of gender-based violence against women and the right to personal integrity, as well as on forms of linguistic sexism and ways of overcoming it.",
+      "rationale": "Operative provisions explicitly require the Ministry of Education to ensure children are informed through updated curricula and/or other actions about prevention and combating of violence against women, and require higher education institutions to inform students about prevention/combating of violence against women, directly identifying educational institutions/curricula as prevention measures.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ενημέρωση 48.-(1) Το Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας διασφαλίζει ότι τα παιδιά, παιδιών και κατά την πρωτοβάθμια και δευτεροβάθμια εκπαίδευση, δημόσια και ιδιωτική, ενημερώνονται, μέσω κατάρτιση επικαιροποιημένων αναλυτικών προγραμμάτων ή/και άλλων δράσεων, για τη σεξουαλική εκπαιδευτικών διαπαιδαγώγηση και την πρόληψη και καταπολέμηση της βίας, της βίας κατά των γυναικών, του και στελεχών βιασμού και της ενδοοικογενειακής βίας, περιλαμβανομένων θεμάτων ισότητας των φύλων και των σχολικών κατάρριψης των έμφυλων στερεοτύπων και των προκαταλήψεων, της διευθέτησης διενέξεων χωρίς μονάδων για βία στις διαπροσωπικές σχέσεις, της μη άσκησης βίας με βάση το φύλο κατά των γυναικών και του τα έμφυλα δικαιώματος της προσωπικής ακεραιότητας, προσαρμοσμένων στην εξελικτική δυνατότητά τους, ζητήματα κ. ά. καθώς και για μορφές γλωσσικού σεξισμού και τρόπους υπέρβασής τους:\n\n(6) Τα ιδρύματα ανώτερης εκπαίδευσης που λειτουργούν στη Δημοκρατία, διασφαλίζουν ότι οι φοιτητές ενημερώνονται για την πρόληψη και καταπολέμηση της βίας, της βίας κατά των γυναικών, του βιασμού, της ενδοοικογενειακής βίας, περιλαμβανομένων θεμάτων ισότητας των φύλων και κατάρριψης των έμφυλων στερεοτύπων και των προκαταλήψεων, της διευθέτησης διενέξεων χωρίς βία στις διαπροσωπικές σχέσεις, της πρόληψης άσκησης βίας με βάση το φύλο κατά των γυναικών και του δικαιώματος της προσωπικής ακεραιότητας, καθώς και για τις μορφές γλωσσικού σεξισμού και τους τρόπους υπέρβασης.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general education for children and broader societal sensitisation, but do not specify prevention activities targeting or engaging men or boys (as men/boys) to prevent violence against women or to change masculinities/gender norms among them.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "Cooperation with 36.-(1) The involved services may cooperate with a non-governmental organization for non-governmental the provision of the required protection, assistance and support services to victims and/or organizations.\nProvided that, following approval by the Minister, the operation of the helplines may be assigned to a non-governmental organisation on the basis of a cooperation protocol or special agreement or by purchase of services; (o) the exercise of any other duties assigned to it by the Minister.\n(j) two (2) members who come from non-governmental organisations and/or professional associations from the fields of mental health or social work.",
+      "rationale": "The operative provisions explicitly authorize cooperation with NGOs for provision of protection/assistance/support services and training, allow assignment of helpline operation to an NGO via cooperation protocol/special agreement, and include NGO/professional association representatives as members of the National Coordinating Body—together establishing formal mechanisms for NGO participation in VAW response and implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Συνεργασία με 36.-(1) Οι εμπλεκόμενες υπηρεσίες δυνατόν να συνεργαστούν με μη κυβερνητικό οργανισμό για μη κυβερνητικές την παροχή των απαιτούμενων υπηρεσιών προστασίας, συνδρομής και στήριξης στα θύματα ή/και οργανώσεις.\n\nΝοείται ότι, μετά από έγκριση του Υπουργού, η λειτουργία των τηλεφωνικών γραμμών βοηθείας δύναται να ανατεθεί σε μη κυβερνητικό οργανισμό βάσει πρωτοκόλλου συνεργασίας ή ειδικής συμφωνίας ή με αγορά υπηρεσιών· (ιε) την άσκηση οποιωνδήποτε άλλων καθηκόντων ανατίθενται σε αυτόν από τον Υπουργό.\n\nΡύθμισης των Διαδικασιών Σύναψης Δημοσίων Συμβάσεων και για Συναφή Θέματα Νόμων· (ιγ) την προώθηση και υιοθέτηση διατμηματικών διαδικασιών, με στόχο την αποτελεσματική αντιμετώπιση της βίας κατά των γυναικών από τις εμπλεκόμενες υπηρεσίες, οι οποίες να προβλέπουν, μεταξύ άλλων, για τη συνεργασία με μη κυβερνητικούς οργανισμούς· (ιδ) τη λειτουργία επί εικοσιτετραώρου βάσεως τηλεφωνικών γραμμών βοηθείας για θύματα βίας κατά των γυναικών και τη στελέχωσή τους με κατάλληλα εξειδικευμένο προσωπικό:",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference cultural/religious/traditional rules only in the context of excluding them as a defence/mitigating factor, and otherwise discuss cooperation with NGOs and other sectors; they do not establish or require engagement/collaboration with religious or traditional/cultural organisations or leaders for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "(6) Higher education institutions operating in the Republic ensure that students are informed about the prevention and combating of violence, violence against women, rape, domestic violence, including issues of gender equality and dismantling of gender stereotypes and prejudices, settlement of disputes without violence in interpersonal relationships, prevention of gender-based violence against women and the right to personal integrity, as well as on forms of linguistic sexism and ways of overcoming it.\n(7) Higher education institutions operating in the Republic ensure that teaching staff is duly trained in relation to methods of ascertaining all forms of violence against women, as well as for the implementation of the obligations referred to in subsection (4):",
+      "rationale": "The operative provisions assign higher education institutions responsibilities to inform students about prevention/combating of violence against women and to ensure teaching staff are trained on ascertaining forms of VAW, which constitutes formal engagement of education institutions in VAW prevention and response-related capacity building.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) Τα ιδρύματα ανώτερης εκπαίδευσης που λειτουργούν στη Δημοκρατία, διασφαλίζουν ότι οι φοιτητές ενημερώνονται για την πρόληψη και καταπολέμηση της βίας, της βίας κατά των γυναικών, του βιασμού, της ενδοοικογενειακής βίας, περιλαμβανομένων θεμάτων ισότητας των φύλων και κατάρριψης των έμφυλων στερεοτύπων και των προκαταλήψεων, της διευθέτησης διενέξεων χωρίς βία στις διαπροσωπικές σχέσεις, της πρόληψης άσκησης βίας με βάση το φύλο κατά των γυναικών και του δικαιώματος της προσωπικής ακεραιότητας, καθώς και για τις μορφές γλωσσικού σεξισμού και τους τρόπους υπέρβασης.\n\n(7) Τα ιδρύματα ανώτερης εκπαίδευσης που λειτουργούν στη Δημοκρατία διασφαλίζουν ότι το διδακτικό προσωπικό είναι δεόντως καταρτισμένο σε σχέση με μεθόδους διακρίβωσης όλων των μορφών βίας κατά γυναικών, καθώς και για την υλοποίηση των αναφερόμενων στο εδάφιο (4) υποχρεώσεων:",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "(j) the development of cooperation with corresponding bodies in all sectors of the Body's responsibilities, at international level;",
+      "rationale": "The operative provisions assign the National Coordinating Body responsibility for developing cooperation with corresponding bodies at international level in sectors within its responsibilities, which include violence against women and domestic violence. This constitutes an explicit authorization/mandate for international-level collaboration related to VAW policy implementation/coordination.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) Στον Πρόεδρο και στα μέλη του Φορέα δύναται να παρέχεται αμοιβή, όπως αυτή εγκρίνεται κατά καιρούς από το Υπουργικό Συμβούλιο. (6) Ο Φορέας έχει την ικανότητα του συμβάλλεσθαι.",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss information/sensitisation actions and cooperation with NGOs and other sectors, but they do not identify media organisations/actors (e.g., broadcasters, journalists, publishers) as partners, nor do they establish any mechanism or responsibility for engaging with media specifically on VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "(i) the development of cooperation with registered associations or institutions of human rights and equality bodies, civil society and non-governmental organisations and with women's organisations for the purposes of achieving the objectives of this Law;",
+      "rationale": "The operative provisions require the Coordinating Body to develop cooperation with civil society, non-governmental organisations, and women's organisations to achieve the law’s objectives on violence against women and domestic violence. This establishes collaboration with community/societal actors as partners in achieving VAW-related objectives.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Νοείται ότι, για τις δραστηριότητες που αναπτύσσονται από μη κυβερνητικούς οργανισμούς ή/και από τους επαγγελματικούς συνδέσμους που μετέχουν στο Φορέα λαμβάνεται έγκριση από τον Υπουργό. (2) Ο Συντονιστικός Φορέας συγκροτείται από έναν (1) πρόεδρο ο οποίος διορίζεται από το Υπουργικό Συμβούλιο και έντεκα (11) μέλη ως ακολούθως: (α) Τον πρόεδρο του Εθνικού Μηχανισμού για τα Δικαιώματα της Γυναίκας ή εκπρόσωπό του· (β) τον πρόεδρο της Συμβουλευτικής Επιτροπής για την Πρόληψη και Καταπολέμηση της Βίας στην Οικογένεια που εγκαθιδρύθηκε δυνάμει των διατάξεων του περί Βίας στην Οικογένεια (Πρόληψη και Προστασία των Θυμάτων) Νόμου· (γ) έναν (1) εκπρόσωπο της Νομικής Υπηρεσίας της Δημοκρατίας· (δ) έναν (1) εκπρόσωπο του Υπουργείου Δικαιοσύνης και Δημοσίας Τάξεως· (ε) έναν (1) εκπρόσωπο του Υπουργείου Υγείας· (στ) έναν (1) εκπαιδευτικό ψυχολόγο υπαγόμενο στο Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας· (ζ) έναν (1) εκπρόσωπο του Υπουργείου Εσωτερικών· (η) έναν (1) εκπρόσωπο της Αστυνομίας· (θ) έναν (1) εκπρόσωπο των Υπηρεσιών Κοινωνικής Ευημερίας του Υπουργείου Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων· (ι) δύο (2) μέλη τα οποία προέρχονται από μη κυβερνητικούς οργανισμούς ή/και επαγγελματικούς συνδέσμους από τα πεδία της ψυχικής υγείας ή της κοινωνικής εργασίας. (3) Το αναφερόμενο στην παράγραφο (γ) του εδαφίου (2) μέλος διορίζεται από το Υπουργικό Συμβούλιο μετά από πρόταση του Γενικού Εισαγγελέα της Δημοκρατίας, ενώ τα αναφερόμενα στις παραγράφους (δ) έως (ι) του εδαφίου (1) μέλη, διορίζονται από το Υπουργικό Συμβούλιο ύστερα από πρόταση του Υπουργού, από κατάλογο που καταρτίζεται από τον ίδιο.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "(2) The Ministry of Education, Culture, Sport and Youth in cooperation with private sector actors, promotes skills among children, parents and educators regarding ways of dealing with the information and communications environment that provides access to degrading content of a sexual or violent nature, which may be harmful.",
+      "rationale": "An operative provision assigns the Ministry of Education, Culture, Sport and Youth a role in cooperating with private sector actors to promote skills related to dealing with harmful sexual/violent content, within a section addressing prevention/combating of violence against women and related education measures. This constitutes an explicit authorization of private-sector engagement linked to prevention-related content.",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Το Υπουργείο Παιδείας, Πολιτισμού, Αθλητισμού και Νεολαίας σε συνεργασία με παράγοντες του ιδιωτικού τομέα, προωθεί δεξιότητες μεταξύ παιδιών, γονέων και εκπαιδευτικών αναφορικά με τους τρόπους αντιμετώπισης του περιβάλλοντος πληροφόρησης και επικοινωνιών που παρέχει πρόσβαση σε ταπεινωτικό περιεχόμενο σεξουαλικής ή βίαιης φύσεως, το οποίο δυνατόν να είναι επιβλαβές.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss the Coordinating Body’s responsibilities and specify that its budget is covered by an appropriation in the Ministry of Justice and Public Order’s budget, which indicates national-level funding rather than any local government budget source. No sentence mentions municipalities, local authorities, or local government budgets as a funding source.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "43. The budget of the Body is covered by a relevant appropriation, which is specifically of the Body.\nprovided in the budget of the Ministry of Justice and Public Order.",
+      "rationale": "The text explicitly states that the Body’s budget is covered by a specific appropriation provided in the budget of the Ministry of Justice and Public Order, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Προϋπολο- 43. Ο προϋπολογισμός του Φορέα καλύπτεται από σχετικό κονδύλι, το οποίο προβλέπεται γισμός ειδικά στον προϋπολογισμό του Υπουργείου Δικαιοσύνης και Δημοσίας Τάξεως. του Φορέα.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references “international developments” and cooperation “at international level,” it does not explicitly mention international assistance, donor funding, foreign aid, UN agencies, development partners, or any international resources supporting implementation or services. References to international conventions/standards and international-level cooperation without support/assistance do not meet the coding rules for international support.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences include a national budget appropriation and various legal references, but they do not identify any funding/budget source categorized as “other legal sources” (e.g., earmarked funds, special funds, levies, fines-as-funding, or other non-budget legal financing mechanisms).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text specifies funding through an appropriation in the Ministry of Justice and Public Order’s budget and does not mention any provincial/regional government budget source. No provincial-level financing mechanism is described.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "03_Institutional_mechanisms.txt": 2,
+    "04_Specialised_Support_Services.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 32,
+    "resolved": 32,
+    "rate": 1.0
+  }
+}

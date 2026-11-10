@@ -1,0 +1,993 @@
+{
+  "policy_file": "20. Bolivia - DomViol - Spanish (b) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T23:03:56.676300+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(FAMILY OR DOMESTIC VIOLENCE).\nWhoever physically, psychologically or sexually assaults in the cases covered in numerals 1 to 4 of this Article shall incur a prison sentence of two (2) to four (4) years, provided it does not constitute another crime.",
+      "rationale": "The framework explicitly criminalises “family or domestic violence” as a specific criminal offense and sets out penalties and covered relationship contexts, which is an operative, substantive legal provision addressing domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(VIOLENCIA FAMILIAR O DOMÉSTICA).\n\nQuien agrediere físicamente, psicológica o sexualmente dentro los casos comprendidos en el numeral 1 al 4 del presente Artículo incurrirá en pena de reclusión de dos (2) a cuatro (4) años, siempre que no constituya otro delito.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(VIOLACIÓN).\nIt shall be sanctioned with deprivation of liberty from fifteen (15) to twenty(20) years whoever through intimidation, physical or psychological violence performs with a person of either sex, non-consented sexual acts that involve carnal access, through penetration of the virile member, or any other part of the body, or any object whatsoever, by vaginal, anal or oral means, with libidinous purposes; and whoever, under the same circumstances, even if physical violence or intimidation were not present, taking advantage of the serious mental illness or intellectual insufficiency of the victim or that they were incapacitated by any other cause to resist.",
+      "rationale": "The framework contains operative criminal provisions defining and sanctioning rape (and also includes other sexual offenses elsewhere), which constitutes substantive legal coverage of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(VIOLACIÓN).\n\nSe sancionará con privación de libertad de quince (15) a veinte(20) años a quien mediante intimidación, violencia física o psicológica realice con persona de uno u otro sexo, actos sexuales no consentidos que importen acceso carnal, mediante la penetración del miembro viril, o de cualquier otra parte del cuerpo, o de un objeto cualquiera, por vía vaginal, anal u oral, con fines libidinosos; y quien, bajo las mismas circunstancias, aunque no mediara violencia física o intimidación, aprovechando de la enfermedad mental grave o insuficiencia de la inteligencia de la víctima o que estuviera incapacitada por cualquier otra causa para resistir.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "1. Violencia Física.\nIt is any action that causes injuries and/or bodily harm, internal, external or both, temporary or permanent, that manifests immediately or in the long term, whether or not using physical force, weapons or any other means.",
+      "rationale": "The framework includes an operative classification/definition of “physical violence” as a form of violence against women, which is substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Violencia Física.\n\nEs toda acción que ocasiona lesiones y/o daño corporal, interno, externo o ambos, temporal o permanente, que se manifiesta de forma inmediata o en el largo plazo, empleando o no fuerza física, armas o cualquier otro medio.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "3. Violencia Psicológica.\nIt is the set of systematic actions of devaluation, intimidation and control of the behavior and decisions of women, that have as consequence the diminution of their self-esteem, depression, psychological instability, disorientation and even suicide.",
+      "rationale": "The framework explicitly defines “psychological violence” as a form of violence against women in operative provisions, satisfying substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Violencia Psicológica.\n\nEs el conjunto de acciones sistemáticas de desvalorización, intimidación y control del comportamiento, y decisiones de las mujeres, que tienen como consecuencia la disminución de su autoestima, depresión, inestabilidad psicológica, desorientación e incluso el suicidio.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(ECONOMIC VIOLENCE).\nA person who commits any of the following conduct shall be punished with a custodial sentence of two (2) to four (4) years:",
+      "rationale": "The framework creates a specific criminal offense of “economic violence” with penalties, which is a direct substantive legal treatment of economic violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(VIOLENCIA ECONÓMICA).\n\nSerá sancionada con pena privativa de libertad de dos (2) a cuatro (4) años, la persona que incurra en alguna de las siguientes conductas:",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, there is no explicit mention of early/child marriage, FGM/C, honour crimes, female infanticide, or an equivalent harmful practice being defined, prohibited, criminalised, or otherwise addressed through operative measures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "Yes",
+      "evidence": "(FEMICIDE).\nWhoever kills a woman under any of the following circumstances shall be punished with a prison sentence of thirty (30) years without the right to pardon:",
+      "rationale": "The framework explicitly establishes and sanctions the crime of femicide/feminicide in operative criminal provisions, meeting substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(FEMINICIDIO).\n\nSe sancionará con la pena de presidio de treinta (30) años sin derecho a indulto, a quien mate a una mujer, en cualquiera de las siguientes circunstancias:",
+      "evidence_original_aligned": true
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "8. When the death is connected to the crime of trafficking or smuggling of persons;",
+      "rationale": "The framework explicitly references “the crime of trafficking or smuggling of persons” in an operative provision (as a circumstance linked to femicide). This is an operative mention of trafficking, but the provided sentences do not define, prohibit, criminalise trafficking itself, nor set out trafficking-specific protections/services.",
+      "coverage": "Referenced only",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "8. Cuando la muerte sea conexa al delito de trata o tráfico de personas;",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "2. Subjects one or more persons to forced prostitution.",
+      "rationale": "The framework criminalises conduct including “forced prostitution” within an operative criminal provision, which constitutes substantive coverage of sexual exploitation (forced prostitution) under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Someta a una o más personas a prostitución forzada.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address media obligations and the use of technological support for investigations, but do not define, prohibit, or recognise cyber/digital/online violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) as a form of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Whoever kills a woman under any of the following circumstances shall be punished with a prison sentence of thirty (30) years without the right to pardon:\nWhoever physically, psychologically or sexually assaults in the cases covered in numerals 1 to 4 of this Article shall incur a prison sentence of two (2) to four (4) years, provided it does not constitute another crime.\nA person who, taking advantage of a hierarchical position or power of any kind, harasses, pursues, demands, pressures, threatens to cause any harm or damage, conditions the obtaining of a benefit or forces by any means another person to maintain a relationship or perform acts or engage in behaviors of a sexual nature that would otherwise not be consented to, for their own benefit or that of a third party, shall be punished with deprivation of liberty of four (4) to eight (8) years.",
+      "rationale": "The candidate sentences include operative criminal-code provisions that define specific offences linked to violence against women (e.g., femicide, family/domestic violence, sexual harassment) and attach explicit custodial penalties, satisfying the requirement for criminal sanctions for at least one form of VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "Se sancionará con la pena de presidio de treinta (30) años sin derecho a indulto, a quien mate a una mujer, en cualquiera de las siguientes circunstancias:\n\nQuien agrediere físicamente, psicológica o sexualmente dentro los casos comprendidos en el numeral 1 al 4 del presente Artículo incurrirá en pena de reclusión de dos (2) a cuatro (4) años, siempre que no constituya otro delito.\n\nI. La persona que valiéndose de una posición jerárquica o poder de cualquier índole hostigue, persiga, exija, apremie, amenace con producirle un daño o perjuicio cualquiera, condicione la obtención de un beneficio u obligue por cualquier medio a otra persona a mantener una relación o realizar actos o tener comportamientos de contenido sexual que de otra forma no serían consentidos, para su beneficio o de una tercera persona, será sancionada con privación de libertad de cuatro (4) a ocho (8) años.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "(PROTECTION MEASURES).\n5. Sanction non-compliance with judicial orders or resolutions, issued by their court;",
+      "rationale": "The text provides an operative list of protection measures that a competent authority may issue and also indicates that the relevant judges can sanction non-compliance with judicial orders/resolutions, demonstrating a protection-order type mechanism with an issuing authority and breach consequence. However, the candidate sentences do not clearly specify duration or a full application process, so the mechanism is not fully specified per the substantive coding rule.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(MEDIDAS DE PROTECCIÓN).\n\n5. Sancionar el incumplimiento de las órdenes o resoluciones judiciales, emitidas por su juzgado;",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "Yes",
+      "evidence": "The Special Force to Combat Violence is created as a specialized body of the Bolivian Police responsible for the prevention, assistance and investigation, identification and apprehension of those allegedly responsible for acts of violence against women and the family, under the functional direction of the Public Prosecutor's Office, in coordination with public and private entities.",
+      "rationale": "The policy explicitly creates a specialized body within the Bolivian Police (Special Force to Combat Violence) with responsibility for prevention, assistance, investigation, and apprehension in cases of violence against women and the family, which meets the requirement of a designated specialized police unit for VAW cases.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. Se crea la Fuerza Especial de Lucha Contra la Violencia, como organismo especializado de la Policía Boliviana encargado de la prevención, auxilio e investigación, identificación y aprehensión de los presuntos responsables de hechos de violencia hacia las mujeres y la familia, bajo la dirección funcional del Ministerio Público, en coordinación con entidades públicas y privadas.",
+      "evidence_original_aligned": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "The Council of the Judiciary shall create and implement public courts specialized in matters against violence toward women, according to an order of priorities and needs defined according to the caseload.\nThe female and male trial judges in matters of violence against women, have jurisdiction to:",
+      "rationale": "The candidate sentences mandate the creation/implementation of public courts specialized in matters against violence toward women and also describe jurisdiction of trial judges in matters of violence against women, indicating a designated specialized judicial mechanism for VAW cases.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Consejo de la Magistratura creará e implementará los juzgados públicos de materia contra la violencia hacia las mujeres, conforme a un orden de prioridades y necesidades definidas de acuerdo a la carga procesal.\n\nLas juezas y jueces de sentencia en materia de violencia contra las mujeres, tienen competencia para:",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text criminalizes rape generally and includes provisions referencing spouses/partners in other contexts (e.g., abusive sexual acts during consensual intercourse; aggravating circumstances; domestic violence), none of the candidate sentences expressly criminalize rape within marriage/intimate partnerships or explicitly remove any spousal exemption for rape/sexual assault as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "The Governing Entity shall be in charge of the Comprehensive Plurinational System for the Prevention, Attention, Sanction and Eradication of Gender-Based Violence – SIPPASE; likewise, said Governing Entity shall coordinate the implementation of comprehensive policies for the prevention, attention, sanction and eradication of violence against women, both at the central level and in the Autonomous Territorial Entities.\n1. Establish a commission comprised of an inter-institutional and multidisciplinary specialized technical team that conducts the respective monitoring, chaired and financed by the responsible entity.",
+      "rationale": "The framework designates a governing entity with responsibility for coordination across levels of government and establishes a comprehensive system (SIPPASE) and, in the context of an alert, an inter-institutional commission—both constituting formal coordination mechanisms rather than mere general calls to cooperate.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Ente Rector tendrá a su cargo el Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género – SIPPASE; asimismo, dicho Ente Rector coordinará la realización de políticas integrales de prevención, atención, sanción y erradicación de la violencia hacia las mujeres, tanto en el nivel central y las Entidades Territoriales Autónomas.\n\n1. Establecerá una comisión conformada por un equipo técnico interinstitucional y multidisciplinario especializado que realice el seguimiento respectivo, presidido y financiado por la entidad responsable.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "The Governing Entity shall be in charge of the Comprehensive Plurinational System for the Prevention, Attention, Sanction and Eradication of Gender-Based Violence – SIPPASE, which reorganizes the entire system of comprehensive attention to women in situations of violence and the information of public and private services, which shall be registered in a single registry on gender-based violence.\nAll information registered in this system shall be forwarded to the National Institute of Statistics for its processing and dissemination, according to jointly developed indicators, with a human rights and women's rights approach, disaggregated at least by sex, age and municipality.",
+      "rationale": "The framework establishes SIPPASE as a system that includes information from public and private services registered in a single registry on gender-based violence, and it specifies onward transmission of registered information for processing and dissemination, which constitutes an explicit data/registry system and related responsibilities.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. El Ente Rector tendrá a su cargo el Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género – SIPPASE, que reorganiza todo el sistema de atención integral a las mujeres en situación de violencia y la información de los servicios públicos y privados, que se inscribirá en un registro único sobre la violencia en razón de género.\n\nToda la información registrada en este sistema, será derivada al Instituto Nacional de Estadística para su procesamiento y difusión, conforme a indicadores elaborados de forma conjunta, con enfoque de derechos humanos y de las mujeres, desagregados al menos por sexo, edad y municipio.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference gender equality, gender equity, and use of a gender approach in specific sectors (e.g., education/health), but they do not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming mandate, focal points, working group, or mainstreaming integrated into planning/budgeting as a mechanism).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "The Organs of the State, the Public Prosecutor's Office and Forensic Investigations Institute, the Bolivian Police, the Ombudsman's Office, the Armed Forces, the Attorney General's Office, the Plurinational School of Public Management, the State School of Judges, the Autonomous Territorial Entities and all other public entities or entities that provide public services, within the scope of their respective competencies, shall adopt and develop specific training programs relating to the culture against violence, equality and non-discrimination on the basis of sex and on gender equity, among others, which must be permanently updated and shall be applied to all personnel, regardless of their hierarchy, without exception and on a mandatory basis.\nAutonomous Municipal Governments shall adopt a system of ongoing training for their personnel on Human Rights, especially women's rights, gender focus and affirmative action measures and, for those who are directly responsible for their care, shall also include basic training in the psychology of battered women.",
+      "rationale": "The framework mandates that state organs and multiple public entities adopt and develop specific training programs (mandatory and updated) and separately requires autonomous municipal governments to adopt an ongoing training system for their personnel, directly meeting the requirement for training/capacity building of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los Órganos del Estado, el Ministerio Público e Instituto de Investigaciones Forenses, la Policía Boliviana, la Defensoría del Pueblo, las Fuerzas Armadas, la Procuraduría General del Estado, la Escuela de Gestión Pública Plurinacional, la Escuela de Jueces del Estado, las Entidades Territoriales Autónomas y toda otra entidad pública o que preste servicios públicos, en el ámbito de sus respectivas competencias, adoptarán y desarrollarán programas de formación específica relativos a la cultura contra la violencia, igualdad y no discriminación por razón de sexo y sobre equidad de género, entre otros, los cuales deberán ser permanentemente actualizados y serán aplicados a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio.\n\nLos Gobiernos Autónomos Municipales adoptarán un sistema de capacitación permanente para su personal sobre Derechos Humanos, en especial de las mujeres, enfoque de género y medidas de acción positiva y, para quienes son responsables directos de su atención, incluirán además formación básica en psicología de la mujer maltratada.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Ministry of Justice and Institutional Transparency, within the framework of its competencies and powers, is the Governing Entity responsible for the coordination, articulation and monitoring of the effective application and compliance with this Law.\nThe Ministry of Justice and Institutional Transparency shall render an annual report before the Plurinational Legislative Assembly on the progress and compliance with this Law.",
+      "rationale": "The framework designates the governing entity as responsible for monitoring effective application and compliance with the law and requires an annual report to the legislature on progress and compliance, which together constitute a concrete monitoring/reporting mechanism for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Ministerio de Justicia y Transparencia Institucional, en el marco de sus competencias y atribuciones es el Ente Rector responsable de coordinación, articulación y vigilancia de la aplicación efectiva y cumplimiento de la presente Ley.\n\nMinisterio de Justicia y Transparencia Institucional, rendirá un informe anual ante la Asamblea Legislativa Plurinacional, sobre el avance y cumplimiento de la presente Ley.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "I. Make the necessary adjustments in their institutional budgets for the 2013 fiscal year; additionally, the General Treasury of the Nation shall allocate resources to central level entities, according to financial availability and according to the established deadlines.\nFor subsequent fiscal years, the General Treasury of the Nation shall allocate necessary and sufficient resources to central level entities, according to financial availability for the comprehensive application of this Law.",
+      "rationale": "The transitory provisions impose binding budget/resource allocation requirements, including that the General Treasury of the Nation shall allocate resources to central level entities (including for subsequent fiscal years) for comprehensive application of the law, which is a specified national funding source and obligation.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. Realizar los ajustes necesarios en sus presupuestos institucionales de la gestión 2013; adicionalmente, el Tesoro General de la Nación asignará recursos a las entidades del nivel central, de acuerdo a disponibilidad financiera y de acuerdo a los plazos establecidos.\n\nPara las gestiones posteriores, el Tesoro General de la Nación asignará recursos necesarios y suficientes a las entidades del nivel central, de acuerdo a disponibilidad financiera para la aplicación integral de la presente Ley.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "The Integrated Plurinational Justice Services under the Ministry of Justice and Institutional Transparency, which receive complaints and provide guidance and free legal representation, must apply a human rights approach to women in situations of violence.\nThey shall act in a coordinated manner with all state guarantee instances, especially with the Bolivian Police, the Judicial Branch and health institutions.",
+      "rationale": "The framework establishes/recognises designated services for women in situations of violence and specifies coordinated, multidisciplinary provision across institutions. It explicitly describes Integrated Plurinational Justice Services that receive complaints and provide guidance and free legal representation, and it requires comprehensive care services to act in a coordinated manner with police, judiciary, and health institutions—together constituting an integrated/multisectoral service mechanism for VAW survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. Los Servicios Integrados de Justicia Plurinacional dependientes del Ministerio de Justicia y Transparencia Institucional, reciben denuncias y brindan orientación y patrocinio legal gratuito, deberán aplicar un enfoque de derechos humanos a mujeres en situación de violencia.\n\nActuarán de manera coordinada con todas las instancias estatales de garantía, en especial con la Policía Boliviana, el Órgano Judicial e instituciones de salud.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "I. Any act of violence against women may be reported by the victim or any other person who has knowledge of a crime, before the following entities:\n1. Receive complaints from women in situations of violence or from third parties who are aware of the act.",
+      "rationale": "The framework provides operative reporting/complaint mechanisms for violence against women by specifying entities before which acts of violence may be reported and by establishing a complaint reception platform within the Special Force to Combat Violence that receives complaints from women in situations of violence (or third parties).",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. Todo hecho de violencia contra las mujeres podrá ser denunciado por la víctima o cualquier otra persona que conozca de un delito, ante las siguientes instancias:\n\n1. Recibir denuncias de mujeres en situación de violencia o de terceros que conozcan el hecho.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Autonomous Territorial Entities, within the framework of their competencies and financial sustainability, have the responsibility to create, equip, maintain and operate Shelters and Temporary Refuge Houses for women in situations of violence in urban and rural areas.\n1. Lodging and food.",
+      "rationale": "The framework mandates the creation, operation, and maintenance of Shelters and Temporary Refuge Houses for women in situations of violence and specifies that these shelters provide lodging (and other services), meeting the requirement for safe accommodation/residential protection.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Las Entidades Territoriales Autónomas, en el marco de sus competencias y sostenibilidad financiera, tienen la responsabilidad de crear, equipar, mantener y atender Casas de Acogida y Refugio Temporal para mujeres en situación de violencia en el área urbana y rural.\n\n1. Hospedaje y alimentación.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "4. Immediate, free and specialized legal guidance and assistance.\nThe Plurinational Victim Defense Service, as a decentralized institution under the tutelage of the Ministry of Justice and Institutional Transparency, shall support women in situations of violence who lack economic resources, through free legal representation and psychological support to guarantee their access to the administration of justice and the punishment of aggressors.",
+      "rationale": "The framework guarantees immediate legal guidance and assistance for women in situations of violence and establishes a dedicated Plurinational Victim Defense Service providing free legal representation (and psychological support) to women victims lacking economic resources.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Orientación y asistencia jurídica inmediata, gratuita y especializada.\n\nEl Servicio Plurinacional de Defensa a la Víctima, como institución descentralizada bajo tuición del Ministerio de Justicia y Transparencia Institucional, apoyará a mujeres en situación de violencia carentes de recursos económicos, mediante patrocinio legal gratuito y apoyo psicológico para garantizar su acceso a la administración de justicia y la sanción a los agresores.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "The Ministry of Health and Sports has the responsibility to adopt the following measures, aimed at guaranteeing women at risk or in situations of violence, access to health services, their treatment and protection, as a public health problem:\n4. Guarantee that the Public Health System, short-term social security and private, respond with emergency medical and psychological care, immediate treatment for the restoration of physical and emotional health of women who are at risk and/or in situations of violence; in the provision of free health care for the care of women victims of violence at the time of implementation of the Universal Health Insurance, being prohibited the denial of care.",
+      "rationale": "The framework assigns the Ministry of Health responsibility to ensure women at risk or in situations of violence have access to health services and mandates emergency medical and psychological care and treatment for women at risk/in situations of violence, explicitly linking health-sector obligations to VAW survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. El Ministerio de Salud y Deportes, tiene la responsabilidad de adoptar las siguientes medidas, dirigidas a garantizar a las mujeres en situación de riesgo o de violencia, el acceso a los servicios de salud, su tratamiento y protección, como un problema de salud pública:\n\n4. Garantizar que el Sistema de Salud Público, seguro social a corto plazo y privado, responda con atención médica y psicológica de emergencia, tratamiento inmediato para el restablecimiento de la salud física y emocional de las mujeres que se encuentran en situación de riesgo y/o violencia; en la prestación de salud gratuita para la atención de mujeres víctimas de violencia al momento de la implementación del Seguro Universal de Salud, quedando prohibida la negación de atención.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "2. Provide psychological, social and legal support services.\n3. Provide specialized individual and group psychological therapy with a gender focus.",
+      "rationale": "The framework requires Comprehensive Municipal Legal Services to provide psychological support services and specialized individual and group psychological therapy with a gender focus for women in situations of violence, which constitutes psychosocial/psychological counselling support.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Prestar servicios de apoyo psicológico, social y legal.\n\n3. Brindar terapia psicológica especializada individual y grupal con enfoque de género.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences provide for religious or spiritual counselling, pastoral care, or faith-based support services for women victims/survivors of violence; references are to legal, psychological, health, and other services only.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "2. To stimulate and promote the empowerment of women in situations of violence, facilitating their access to education, job training and work.\n2. Comprehensive re-educational programs to promote changes in attitudes and values for their gradual integration and full participation in social and private life, allowing them independence from the aggressor.",
+      "rationale": "The framework provides longer-term recovery and reintegration support through shelter services that promote empowerment and facilitate access to education, job training and work, and through programs aimed at gradual integration and independence from the aggressor—measures explicitly linked to women in situations of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Estimular y promover el empoderamiento de las mujeres en situación de violencia, facilitando su acceso a la educación, capacitación laboral y trabajo.\n\n2. Programas reeducativos integrales para promover cambios de actitudes y valores para su integración gradual y participación plena en la vida social y privada, que le permita independencia respecto al agresor.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "The rehabilitation of aggressors, by order of the competent jurisdictional authority, shall be ordered by express order, with the objective of promoting changes in their aggressive conduct.\n3. Create and sustain specialized comprehensive care and reeducation services for aggressors, as well as other measures aimed at modifying their behavior.",
+      "rationale": "The framework establishes perpetrator-focused rehabilitation/behaviour-change programming by providing for rehabilitation of aggressors ordered by the competent authority to promote changes in aggressive conduct, and by requiring creation/sustaining of specialized comprehensive care and reeducation services for aggressors.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. La rehabilitación de los agresores, por orden de la autoridad jurisdiccional competente, será dispuesta por orden expresa, con el objetivo de promover cambios en su conducta agresiva.\n\n3. Crear y sostener servicios de atención y reeducación integral especializada para los agresores, así como otras medidas destinadas a modificar su comportamiento.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Design and implementation of a national communication strategy, which includes campaigns in mass media, aimed at informing and raising awareness about the causes, forms and consequences of violence against women, as well as deconstructing patriarchal stereotypes of subordination and devaluation of women, considering cultural diversity and allocating for this purpose the same resources it assigns to advertising on strategic issues for national development.",
+      "rationale": "The policy includes an operative requirement to design and implement a national communication strategy with mass media campaigns aimed at informing and raising awareness about the causes, forms, and consequences of violence against women, which constitutes information/awareness activity explicitly directed at VAW as prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Diseño e implementación de una estrategia nacional de comunicación, que incluya campañas en medios masivos, dirigida a informar y sensibilizar sobre las causas, formas y consecuencias de la violencia contra las mujeres, así como a desestructurar estereotipos patriarcales de subordinación y desvalorización de las mujeres, considerando la diversidad cultural y destinando para este fin los mismos recursos que asigna a la publicidad sobre temas estratégicos para el desarrollo nacional.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "The Organs of the State, the Public Prosecutor's Office and Forensic Investigations Institute, the Bolivian Police, the Ombudsman's Office, the Armed Forces, the Attorney General's Office, the Plurinational School of Public Management, the State School of Judges, the Autonomous Territorial Entities and all other public entities or entities that provide public services, within the scope of their respective competencies, shall adopt and develop specific training programs relating to the culture against violence, equality and non-discrimination on the basis of sex and on gender equity, among others, which must be permanently updated and shall be applied to all personnel, regardless of their hierarchy, without exception and on a mandatory basis.",
+      "rationale": "The policy mandates specific training programs for public entities relating to equality, non-discrimination on the basis of sex, and gender equity, framed as part of the law’s prevention approach (culture against violence), which is an operative education/training activity about gender equality/women’s rights linked to preventing violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los Órganos del Estado, el Ministerio Público e Instituto de Investigaciones Forenses, la Policía Boliviana, la Defensoría del Pueblo, las Fuerzas Armadas, la Procuraduría General del Estado, la Escuela de Gestión Pública Plurinacional, la Escuela de Jueces del Estado, las Entidades Territoriales Autónomas y toda otra entidad pública o que preste servicios públicos, en el ámbito de sus respectivas competencias, adoptarán y desarrollarán programas de formación específica relativos a la cultura contra la violencia, igualdad y no discriminación por razón de sexo y sobre equidad de género, entre otros, los cuales deberán ser permanentemente actualizados y serán aplicados a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio.",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include awareness/education about violence against women generally and access to information about proceedings and mechanisms, but they do not explicitly provide for dissemination/education specifically about VAW laws, regulations, policies, or legal protections as a prevention activity.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "1. Incorporate strategies and programs of prevention and comprehensive intervention against violence towards women in public education policies.\n2. Incorporate the gender approach, the principles and values established in this Law, full respect for human rights and training in peaceful conflict resolution in the educational curriculum at all levels, including higher teacher training schools and universities, to contribute to a culture of respect in the family, community, school, labor and social spheres, as a daily practice.",
+      "rationale": "The policy assigns the Ministry of Education responsibility to incorporate prevention strategies and programs against violence towards women in public education policies and to incorporate relevant principles/values and gender approach into curricula, explicitly positioning educational policy and curricula as prevention measures for VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Incorporar estrategias y programas de prevención e intervención integral contra la violencia hacia las mujeres en las políticas públicas de educación.\n\n2. Incorporar el enfoque de género, los principios y valores establecidos en esta Ley, el respeto pleno a los derechos humanos y la formación en resolución pacífica de conflictos en la currícula educativa en todos los niveles, incluidas las escuelas superiores de formación docente y universidades, para contribuir a una cultura de respeto en el ámbito familiar, comunitario, escolar, laboral y social, como una práctica diaria.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss general prevention, communication to deconstruct sexist stereotypes, and rehabilitation of aggressors, but they do not explicitly establish prevention activities that specifically target or engage men and/or boys as participants or agents of change to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "6. Organize and design prevention and guidance campaigns for citizens, through civil society organizations, with the purpose of reducing the rates of violence against women.\nIn each Department, the Public Prosecutor's Office shall have at least one team of specialized professional advisors for the investigation of cases of violence against women, for which they may also request the collaboration of human rights and women's organizations and institutions.\nThe social and women's organizations of civil society shall exercise participation and social oversight within the framework of the corresponding Law, participating in the design, evaluation and management of public policies for the prevention, attention and protection of women and the quality of specialized services, public and private services that provide basic services or that administer fiscal resources at all levels of the State.",
+      "rationale": "The text contains operative provisions requiring/authorizing collaboration with civil society and NGOs in VAW prevention and response, including prevention campaigns through civil society organizations, prosecutors requesting collaboration of human rights and women's organizations, and civil society women’s organizations participating in design/evaluation/management of VAW-related public policies and oversight of services.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "6. Organizar y diseñar campañas de prevención y orientación a la ciudadanía, a través de las organizaciones de la sociedad civil, con el fin de disminuir los índices de violencia contra las mujeres.\n\nEn cada Departamento el Ministerio Público contará con al menos un equipo de asesoras y asesores profesionales especializados para la investigación de casos de violencia hacia las mujeres, para lo cual podrán también solicitar la colaboración de organismos e instituciones de derechos humanos y de mujeres.\n\nLas organizaciones sociales y de mujeres de la sociedad civil, ejercerán la participación y control social en el marco de la Ley correspondiente, participando en el diseño, evaluación y gestión de las políticas públicas de prevención, atención y protección a las mujeres y la calidad de los servicios especializados, públicos y a los privados que presten servicios básicos o que administren recursos fiscales en todos los niveles del Estado.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "The indigenous native peasant and Afro-Bolivian authorities shall adopt, in the communities in which they exercise their functions, the prevention measures they consider most appropriate under the three established criteria of action to prevent any act of violence towards women, with their participation in its planning, execution and monitoring, respecting their rights.",
+      "rationale": "The framework assigns indigenous native peasant and Afro-Bolivian authorities (traditional/community leaders) responsibilities to adopt prevention measures in their communities, with participation in planning, execution, and monitoring, which constitutes substantive engagement of traditional leaders in VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Las autoridades indígena originario campesinas y afrobolivianas, adoptarán en las comunidades en las que ejercen sus funciones, las medidas de prevención que consideren más adecuadas bajo los tres criterios de acción establecidos para evitar todo acto de violencia hacia las mujeres, con la participación de éstas en su planificación, ejecución y seguimiento, respetando sus derechos.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "3. Create in educational units a psychological care center, with mandatory specialization in violence, in agreement with public or private universities for the psychological care of students who live in families in situations of violence.\nI. Public universities and higher education centers shall create free programs and services intended for the prevention of violence against women, the care and rehabilitation of women in situations of violence, specialized and comprehensive professional counseling.",
+      "rationale": "Operative provisions explicitly involve education institutions (universities and educational units): requiring agreements with universities for psychological care centers in educational units, and requiring public universities/higher education centers to create free programs/services for prevention and care/rehabilitation related to violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Crear en las unidades educativas un centro de atención psicológica, con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas para la atención psicológica de las y los estudiantes que viven en familias en situación de violencia.\n\nI. Las universidades y centros de formación superior públicos crearán programas y servicios gratuitos destinados a la prevención de la violencia hacia las mujeres, la atención y rehabilitación de mujeres en situación de violencia, asesoría profesional especializada e integral.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only potentially relevant reference is to judges deciding on requests for international judicial cooperation, but it does not establish collaboration with international organizations on VAW prevention/response; it concerns procedural jurisdiction and does not identify or require engagement with international organizations. Other sentences reference international instruments generally without an operative cooperation mechanism with international organizations.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "The media shall adopt the following measures:\nDesign and implementation of a national communication strategy, which includes campaigns in mass media, aimed at informing and raising awareness about the causes, forms and consequences of violence against women, as well as deconstructing patriarchal stereotypes of subordination and devaluation of women, considering cultural diversity and allocating for this purpose the same resources it assigns to advertising on strategic issues for national development.",
+      "rationale": "The law contains operative provisions imposing obligations on media to adopt measures related to discriminatory content linked to VAW and to disseminate messages/information, and it mandates a national communication strategy including mass media campaigns to inform and raise awareness about violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los medios de comunicación adoptarán las siguientes medidas:\n\nDiseño e implementación de una estrategia nacional de comunicación, que incluya campañas en medios masivos, dirigida a informar y sensibilizar sobre las causas, formas y consecuencias de la violencia contra las mujeres, así como a desestructurar estereotipos patriarcales de subordinación y desvalorización de las mujeres, considerando la diversidad cultural y destinando para este fin los mismos recursos que asigna a la publicidad sobre temas estratégicos para el desarrollo nacional.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "The indigenous native peasant and Afro-Bolivian authorities shall adopt, in the communities in which they exercise their functions, the prevention measures they consider most appropriate under the three established criteria of action to prevent any act of violence towards women, with their participation in its planning, execution and monitoring, respecting their rights.\nThe authorities of indigenous native peasant and Afro-Bolivian communities shall adopt care and protection measures for women in situations of violence, within the framework of their competences and their own norms and procedures, with the participation of women who hold positions of authority, and with community participation and social control.\n7. Promote the dissemination, defense and exercise of women's rights with the active participation of citizens.",
+      "rationale": "The framework provides for community participation in VAW prevention and response, including community-based prevention by indigenous/native/Afro-Bolivian authorities with participation in planning/execution/monitoring, response measures with community participation and social control, and municipal legal services promoting dissemination/defense/exercise of women’s rights with active citizen participation.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Las autoridades indígena originario campesinas y afrobolivianas, adoptarán en las comunidades en las que ejercen sus funciones, las medidas de prevención que consideren más adecuadas bajo los tres criterios de acción establecidos para evitar todo acto de violencia hacia las mujeres, con la participación de éstas en su planificación, ejecución y seguimiento, respetando sus derechos.\n\nI. Las autoridades de las comunidades indígena originario campesinas y afrobolivianas, adoptarán medidas de atención y protección a mujeres en situación de violencia, en el marco de sus competencias y de sus normas y procedimientos propios, con participación de las mujeres que ejercen cargos de autoridad, y con participación y control social comunitario.\n\n7. Promover la difusión, defensa y ejercicio de los derechos de las mujeres con la participación activa de las y los ciudadanos.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "The Special Force to Combat Violence is created as a specialized body of the Bolivian Police responsible for the prevention, assistance and investigation, identification and apprehension of those allegedly responsible for acts of violence against women and the family, under the functional direction of the Public Prosecutor's Office, in coordination with public and private entities.",
+      "rationale": "An operative provision establishes that the Special Force to Combat Violence operates “in coordination with public and private entities,” which authorizes/mandates collaboration with private-sector actors in carrying out prevention/assistance/investigation functions related to violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. Se crea la Fuerza Especial de Lucha Contra la Violencia, como organismo especializado de la Policía Boliviana encargado de la prevención, auxilio e investigación, identificación y aprehensión de los presuntos responsables de hechos de violencia hacia las mujeres y la familia, bajo la dirección funcional del Ministerio Público, en coordinación con entidades públicas y privadas.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "For their operation, they shall allocate the necessary and sufficient budget, infrastructure and personnel to provide adequate, effective and specialized care to the entire population, especially those living in rural areas of their respective jurisdiction.\nCare programs and services shall be organized, coordinated and strengthened in each municipality charged to its annual budget, as instances of permanent support to the Municipal Comprehensive Legal Services and the Shelters and Temporary Refuge Houses.",
+      "rationale": "The policy explicitly assigns budgeting responsibility to municipal-level (local) governments, stating that Autonomous Municipal Governments must allocate necessary and sufficient budget for operation of services and that care programs/services in each municipality are charged to the municipality’s annual budget. This constitutes an explicit local government budget source for implementation and services.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Para su funcionamiento, asignarán el presupuesto, infraestructura y personal necesario y suficiente para brindar una atención adecuada, eficaz y especializada a toda la población, en especial aquella que vive en el área rural de su respectiva jurisdicción.\n\nLos programas y servicios de atención serán organizados, coordinados y fortalecidos en cada municipio con cargo a su presupuesto anual, como instancias de apoyo permanente a los Servicios Legales Integrales Municipales y las Casas de Acogida y Refugio Temporal.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "I. Make the necessary adjustments in their institutional budgets for the 2013 fiscal year; additionally, the General Treasury of the Nation shall allocate resources to central level entities, according to financial availability and according to the established deadlines.\nFor subsequent fiscal years, the General Treasury of the Nation shall allocate necessary and sufficient resources to central level entities, according to financial availability for the comprehensive application of this Law.",
+      "rationale": "The policy explicitly states that the General Treasury of the Nation will allocate resources to central level entities for implementation in the 2013 fiscal year and in subsequent fiscal years, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "I. Realizar los ajustes necesarios en sus presupuestos institucionales de la gestión 2013; adicionalmente, el Tesoro General de la Nación asignará recursos a las entidades del nivel central, de acuerdo a disponibilidad financiera y de acuerdo a los plazos establecidos.\n\nPara las gestiones posteriores, el Tesoro General de la Nación asignará recursos necesarios y suficientes a las entidades del nivel central, de acuerdo a disponibilidad financiera para la aplicación integral de la presente Ley.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, funding and support references are to domestic institutions (e.g., State organs, autonomous territorial entities, municipal budgets, General Treasury of the Nation) and general inter-institutional coordination. There is no explicit mention of international assistance, donors, UN agencies, foreign governments, bilateral/multilateral cooperation, or other international support mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "The fines shall be allocated to the Comprehensive Care Services in charge of the Autonomous Municipal Governments, which shall establish a fund and open an exclusive fiscal account for this purpose, and must allocate the resources with priority to Shelters and Temporary Refuge and costs for health services.",
+      "rationale": "The policy establishes a non-budgetary legal funding source by directing that fines be allocated to Comprehensive Care Services under Autonomous Municipal Governments, with an exclusive fiscal account and earmarking rules. This is an explicit funding source other than standard government budget appropriations.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Las multas serán destinadas a los Servicios de Atención Integral a cargo de los Gobiernos Autónomos Municipales, quienes constituirán un fondo y abrirán una cuenta fiscal exclusiva para este propósito, debiendo asignar los recursos con carácter preferente a las Casas de Acogida y Refugio Temporal y costo por servicios de salud.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference municipal budgets, autonomous territorial entities in general, and the national General Treasury, but do not explicitly identify a provincial-level government budget as a funding source. Without an explicit provincial budget reference, the criterion is not met.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 37,
+    "resolved": 37,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,1101 @@
+# MAYOR OF CIREBON
+
+MAYOR OF CIREBON
+
+WEST JAVA PROVINCE
+
+REGIONAL REGULATION OF CIREBON CITY
+
+NUMBER 10 OF 2024
+
+CONCERNING
+
+PROTECTION OF WOMEN FROM VIOLENCE, EXPLOITATION AND DISCRIMINATION
+
+BY THE GRACE OF ALMIGHTY GOD,
+
+MAYOR OF CIREBON,
+
+Considering : a. that every woman has the right to obtain security and protection from all forms of violence, exploitation, torture, discrimination, and other mistreatment that degrades human dignity and violates human rights;
+
+b. that to ensure prevention and handling of acts of violence against women in a swift, accurate, comprehensive, and integrated manner, regulations regarding the protection of women are necessary;
+
+c. that based on the considerations as referred to in points a and b, it is necessary to establish a Regional Regulation on the Protection of Women from
+
+Violence, Exploitation and Discrimination;
+
+In View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 23 of 2004 concerning the Elimination of Domestic Violence
+
+(State Gazette of the Republic of Indonesia of 2004
+
+Number 95);
+
+3. Law Number 13 of 2006 concerning the Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the
+
+State Gazette of the Republic of Indonesia Number 4635), as amended by Law
+
+Number 31 of 2014 concerning Amendment to
+
+Law Number 13 of 2006 concerning the
+
+Protection of Witnesses and Victims (State Gazette
+
+of the Republic of Indonesia of 2014 Number 293, Supplement to the
+
+State Gazette of the Republic of Indonesia Number 5602);
+
+4. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007
+
+Number 58, Supplement to the State Gazette of the Republic
+
+of Indonesia Number 4720);
+
+5. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587), as amended several times, most recently by Law Number 6 of 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 of 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia of 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);
+
+6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601), as amended several times, most recently by
+
+Law Number 6 of 2023 concerning the Stipulation of Government Regulation in Lieu of Law Number 2 of 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia of 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);
+
+7. Law Number 12 of 2022 concerning the Criminal Act of Sexual Violence (State Gazette of the Republic of Indonesia of 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792);
+
+8. Law Number 17 of 2023 concerning Health (State Gazette of the Republic of Indonesia of 2023 Number 105, Supplement to the State Gazette of the Republic of Indonesia Number 6887);
+
+9. Law Number 108 of 2024 concerning Cirebon City in West Java Province (State Gazette of the Republic of Indonesia of 2024 Number 294, Supplement to the State Gazette of the Republic of Indonesia Number 7045);
+
+10. Government Regulation Number 28 of 2024 concerning Implementing Regulations of Law Number 17 of 2023 concerning Health (State Gazette of the Republic of Indonesia of 2024 Number 135, Supplement to the State Gazette of the Republic of Indonesia Number 6952);
+
+11. Regulation of the Minister of Home Affairs Number 4 of 2023 concerning Acting Governor, Acting Regent, and Acting Mayor (State News of the Republic of Indonesia of 2023 Number 310);
+
+12. Decree of the Minister of Home Affairs Number 100.2.1.3-6572 of 2023 concerning Appointment of Acting Mayor of Cirebon West Java Province;
+
+13. Regional Regulation of Cirebon City Number 9 of 2016 concerning Formation of Regional Legal Products (Regional Gazette of Cirebon City of 2016 Number 9), as amended by Regional Regulation of Cirebon City Number 5 of 2020 concerning Amendment to Regional Regulation Number 9 of 2016 concerning Formation of Regional Legal Products (Regional Gazette of Cirebon City of 2020 Number 5);
+
+14. Regional Regulation of Cirebon City Number 5 of 2021 concerning Formation and Composition of Regional Apparatus of Cirebon City (Regional Gazette of Cirebon City
+
+of 2021 Number 5, Supplement to the Regional Gazette of Cirebon City
+
+Number 107);
+
+15. Regional Regulation of Cirebon City Number 3 of 2023 concerning Government Affairs Administered by the Regional Government of Cirebon City (Regional Gazette of Cirebon City
+
+of 2023 Number 3, Supplement to the Regional
+
+Gazette of Cirebon City Number 128);
+
+With the Mutual Approval of
+
+REGIONAL HOUSE OF REPRESENTATIVES OF CIREBON CITY
+
+and
+
+MAYOR OF CIREBON
+
+DECIDES:
+
+To Enact : REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN FROM VIOLENCE, EXPLOITATION AND DISCRIMINATION.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+## Part One
+
+Definitions
+
+#### Article 1
+
+In this Regional Regulation, the following terms are defined as:
+
+- 1. City Region hereinafter referred to as Region is the City Region of Cirebon.
+- 2. City Regional Government is the Mayor as an element of regional government administration that leads the implementation of government affairs that are the authority of the autonomous region.
+- 3. Mayor is the Mayor of Cirebon.
+- 4. Regional Apparatus is the supporting element of the Mayor and the Regional House of Representatives in the administration of government affairs that are the authority of the region.
+- 5. Agency is the Regional Apparatus that administers government affairs in the field of women's empowerment and child protection.
+- 6. Women's Empowerment is an effort to obtain access and control over resources, economy, politics, social, culture, so that women can manage themselves and increase self-confidence to be able to play a role and participate actively in solving problems, so as to be able to build capacity and self-concept.
+- 7. Protection of Women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.
+- 8. Victim Women are women who experience suffering physically, psychologically, sexually, economically, socially, and other losses resulting from violence, exploitation and/or gender-based discrimination whether occurring in the public sphere or in the sphere of private life.
+- 9. Vulnerable Women are women who live in conditions at risk of experiencing violence, exploitation and discrimination due to age, disability, poverty, geography, disaster, education, disparity and other conditions so that they require special protection and support.
+- 10. Prevention is a direct effort undertaken by the City Regional Government to prevent acts of violence against women.
+- 11. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of diminishing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.
+- 12. Violence Against Women is any act based on gender difference that results in misery or suffering of women physically, sexually or psychologically, economic exploitation, social, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in the public sphere or in private life.
+- 13. Exploitation is an act with or without the victim's consent which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully moving or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial.
+- 14. Services are all efforts and actions to fulfill the rights of women victims of violence, exploitation and discrimination against women which include complaint services, health, social rehabilitation, legal assistance and enforcement, repatriation, social reintegration, and restitution.
+- 15. Assistance is all efforts and actions to provide a sense of security and comfort for victim women so that they have readiness and/or ability to obtain services and live their lives.
+- 16. Technical Implementation Unit hereinafter abbreviated as UPT is the UPT for Protection of Women and Children. 17. Integrated Services is a system of comprehensive, integrated, cross-sector and professional, quality and sustainable service delivery for victim women that includes health, legal, social and economic services.
+- 18. Integrated Service Center hereinafter abbreviated as PPT is a non-structural institution that coordinates the implementation of integrated service systems for victim women.
+- 19. Service Institution is an institution that provides protection services for victim women, both government and community-owned service institutions.
+- 20. Social Rehabilitation is all efforts to restore and develop the capacity of victim women so that they can carry out their social roles and functions both in family life and/or society.
+- 21. Social Reintegration is all efforts to strengthen the readiness and capacity of victim women to regain their welfare in social, political, economic, and cultural life with dignity, including strengthening family and/or community acceptance and support for the protection and fulfillment of the rights of victim women.
+- 22. Restitution is the payment of compensation charged to the perpetrator based on a court decision that has permanent legal force for material and/or immaterial losses suffered by the victim or their heirs.
+- 23. Legal Aid Organization is a community organization that provides legal aid services. 24. Community are individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women and gender study centers, mass media or other similar entities.
+- 25. Family are persons who have blood relations in direct lineage upward or downward and collateral lineage up to the third degree, or who have marital relations, or persons who are dependents of women and/or children.
+- 26. Boarding Educational Institution is a formal or non-formal Educational Institution that organizes general education, and/or religious or integrated education (general education with religious education, or general education with vocational education or religious education with vocational education), where some or all of its students reside during their education.
+
+## Part Two
+
+Principles, Objectives and Scope
+
+### Paragraph 1
+
+Principles
+
+#### Article 2
+
+Protection of Women, is based on:
+
+- a. respect for human dignity; b. non-discrimination;
+- c. best interests of the victim;
+- d. justice;
+- e. benefit;and
+- f. legal certainty.
+
+### Paragraph 2
+
+Objectives
+
+#### Article 3
+
+Protection of Women aims to:
+
+- a. prevent all forms of violence, exploitation, and discrimination against women;
+- b. provide services and recovery for women victims of violence, exploitation and discrimination; c. realize the capacity of the City Regional Government in implementing Protection of Women from violence, exploitation and discrimination;
+- d. increase community participation in Protection of Women;and
+- e. realize a safe social life free from all forms of violence, exploitation and discrimination against women.
+
+### Paragraph 3
+
+Scope
+
+#### Article 4
+
+The scope of regulation for the implementation of Protection of Women includes:
+
+- a. women's rights;
+- b. prevention of violence, exploitation and discrimination against women;
+- c. services;
+- d. coordination and cooperation;
+- e. community participation;
+- f. data and information system;
+- g. institutional;
+- h. obligations of the City Regional Government;
+- i. control, guidance and supervision; j. awards;and
+- k. financing.
+
+# CHAPTER II
+
+WOMEN'S RIGHTS
+
+#### Article 5
+
+Every Woman has the right:
+
+- a. to obtain information related to the Protection of Women, victim service procedures and case handling developments;
+- b. to report, provide statements and views without pressure;
+- c. to participate in case handling and in efforts to eliminate violence against women;
+- d. to obtain protection of confidentiality; e. to obtain protection for personal, family and property security from threats and violence;
+- f. to be free from all forms of stereotypes, stigma and other discrimination;
+- g. to obtain services and recovery needed; h. to obtain restitution; and
+- i. to form and join organizations.
+
+# CHAPTER III
+
+PREVENTION OF VIOLENCE, EXPLOITATION AND DISCRIMINATION AGAINST WOMEN
+
+#### Article 6
+
+The City Regional Government together with educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, communities and media, are responsible for organizing the prevention of violence, exploitation and discrimination against women.
+
+#### Article 7
+
+The prevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce vulnerability to violence, exploitation and discrimination for vulnerable women groups, as follows:
+
+- a. women in disaster and social conflict situations; b. women with disabilities; c. women with HIV/AIDS;
+- d. migrant women workers;
+- e. girls;
+- f. women heads of household;
+- g. domestic women workers;
+- h. home-based women workers;
+- i. elderly women;
+- j. informal women workers;
+- k. women in situations of intolerance; and
+- l. other vulnerable women groups.
+
+#### Article 8
+
+(1) Prevention of violence, exploitation and discrimination against women, is carried out in the following fields:
+
+- a. education;
+- b. health;
+- c. religion;
+- d. security;
+- e. justice;
+- f. public works and spatial planning;
+- g. public housing and settlement areas; h. social;
+- i. labor;
+- j. women's empowerment and child protection; k. defense;
+- l. environment;
+- m. population administration and civil registration; n. population control and family planning; o. transportation;
+- p. communication and informatics;
+- q. cooperatives, small and medium enterprises;
+- r. youth and sports;
+- s. culture;
+- t. tourism;
+- u. trade and industry; and
+- v. other fields.
+  - (2) Prevention of violence, exploitation and discrimination against women as referred to in paragraph (1), is carried out by:
+- a. developing communication media, information, education and public campaigns through media;
+- b. developing educational materials and curriculum in accordance with regional authority;
+- c. developing safe transportation systems and public spaces;
+- d. building early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, boarding educational environments, and other public spaces;
+- e. implementing consultation services for families, prospective brides, students, Islamic students, youth, university students and vulnerable groups;
+- f. encouraging behavioral change of parents and the community;
+- g. developing regional, school, boarding school, and higher education policies that are safe and friendly for women and integrated with regional spatial planning policies;
+- h. forming and developing cadres, communities, young people, students, Islamic students, university students, journalists, social media influencers, educators, community leaders and religious leaders for prevention;
+- i. conducting education and advocacy to owners, managers and/or social media users;
+- j. developing protection systems and special support for vulnerable women groups;
+- k. conducting awareness raising for perpetrators;
+- l. increasing the capacity of the City Regional Government, government agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, youth organizations, legal aid organizations, media, religious leaders, community leaders and communities;
+- m. cooperating with religious institutions, community social institutions, service institutions, universities, media, youth organizations, religious leaders and community leaders; and
+- n. disseminating laws and regulations. (3) The fields and forms of prevention of violence, exploitation and discrimination against women as referred to in paragraph (1) and paragraph (2) are implemented by agencies, regional apparatus, institutions, community institutions, organizations, communities, professional institutions that oversee related affairs according to authority based on the provisions of laws and regulations.
+
+#### Article 9
+
+Prevention of violence, exploitation and discrimination against women is carried out in an integrated and coordinated manner with the City Regional Government, relevant agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, communities, and media coordinated by the Agency.
+
+#### Article 10
+
+Provisions regarding the prevention of violence, exploitation and discrimination against women as referred to in Article 6 through Article 9, are further regulated in the Mayor Regulation.
+
+# CHAPTER IV
+
+SERVICES
+
+## Part One
+
+Service Principles
+
+#### Article 11
+
+(1) Services are implemented to fulfill the rights of women victims and are carried out with the following principles:
+
+- a. respect for human rights; b. non-discrimination;
+- c. confidentiality;
+- d. empathy;
+- e. inclusion;
+- f. empowerment;
+- g. best interests of the victim;
+- h. honesty;
+- i. professionalism;
+- j. integration; and
+- k. sustainability.
+  - (2) Services to women victims must consider special conditions and needs based on the vulnerability experienced by women as referred to in Article 7.
+
+## Part Two
+
+Forms of Services
+
+### Paragraph 1
+
+General
+
+#### Article 12
+
+(1) Forms of protection services for women victims of violence, exploitation and discrimination, include services for: a. complaints;
+
+b. health rehabilitation;
+
+c. reproductive health;
+
+d. social rehabilitation;
+
+e. social reintegration; and
+
+f. legal aid and assistance.
+
+(2) Services for women victims are implemented quickly, comprehensively, with quality and integrated with services provided by the City Regional Government, community, educational institutions, boarding educational institutions, religious institutions, professional institutions, business sector through an integrated service system.
+
+### Paragraph 2
+
+Complaint Services
+
+#### Article 13
+
+(1) Complaint services as referred to in Article 12 paragraph (1) letter a, consist of:
+
+- a. complaint reception;
+- b. special complaints;
+- c. provision of information;
+- d. outreach;
+- e. crisis or emergency services;
+- f. assessment; and
+- g. other forms of complaint services needed by victims.
+  - (2) Complaint services as referred to in paragraph (1), are carried out by trained officers in special rooms that are safe and comfortable.
+
+#### Article 14
+
+Further provisions regarding complaint services as referred to in Article 13, are further regulated in the Mayor Regulation.
+
+### Paragraph 3
+
+Health Rehabilitation Services
+
+#### Article 15
+
+(1) Health rehabilitation services as referred to in Article 12 paragraph (1) letter b, are adjusted to the needs of victims based on medical and non-medical considerations, consisting of:
+
+- a. physical and mental health examination and treatment; b. psychological examination and recovery;
+- c. pregnancy, childbirth, and reproductive health services;
+- d. medical resume and results of psychological examination; e. visum et repertum and visum et psikiatrikum; f. deoxyribonucleic acid test; and
+- g. other forms of health services needed.
+(2) Health rehabilitation services for women victims are carried out by trained personnel in special rooms that are safe and comfortable.
+  - (3) Health rehabilitation services as referred to in paragraph (1), are carried out through special mechanisms of integrated hospital-based services and are the responsibility of the relevant Regional Apparatus.
+
+#### Article 16
+
+Further provisions regarding health rehabilitation services as referred to in Article 15, are further regulated in the Mayor Regulation.
+
+### Paragraph 4
+
+Reproductive Health Services
+
+#### Article 17
+
+(1) Reproductive health services as referred to in Article 12 paragraph (1) letter c, constitute a complete state of physical, mental, and social well-being related to the reproductive system, function, and process, not merely the absence of disease or disability.
+
+(2) Reproductive health services are implemented with activities in the form of:
+
+- a. early disease detection or screening;
+- b. treatment;
+- c. rehabilitation;
+- d. counseling; and
+- e. provision of contraceptive devices.
+
+### Paragraph 5
+
+Social Rehabilitation Services
+
+#### Article 18
+
+(1) Social rehabilitation services as referred to in Article 12 paragraph (1) letter d, are implemented with the following activities:
+
+- a. counseling;
+- b. assistance;
+- c. provision of language expert services and certified translators;
+- d. spiritual guidance;
+- e. safe house;
+- f. shelter/temporary shelter;
+- g. strengthening based on family and/or group support;
+- h. mobility support for victims with disabilities;
+- i. provision of social assistance for victims; and
+- j. other forms of social rehabilitation services needed by victims.
+  - (2) Social rehabilitation services as referred to in paragraph (1) letter a, letter b, letter c, letter d, letter e and letter g, are the responsibility of the Office.
+  - (3) Social rehabilitation services as referred to in paragraph (1) letter f, letter h, letter i and letter j, are the responsibility of the Regional Apparatus in charge of social affairs.
+
+### Paragraph 6
+
+Social Reintegration Services
+
+#### Article 19
+
+(1) Social reintegration services as referred to in Article 12 paragraph (1) letter e, are implemented with the following activities:
+
+- a. repatriation and/or picking up of victims; b. population document or identity services; c. alternative family;
+- d. scholarships and educational support facilities; e. non-formal education;
+- f. skills training and economic enterprises;
+- g. financial assistance and business capital;
+- h. economic enterprise assistance;
+- i. food and/or nutrition assistance for victims and their families;
+- j. provision of social protection programs and poverty alleviation programs; and
+- k. other forms of repatriation and social reintegration services needed by victims.
+  - (2) Social reintegration services as referred to in paragraph (1), are provided to victims, families and people whose lives depend on victims with the aim that victims have the readiness and ability to live life in society.
+  - (3) Social reintegration services as referred to in paragraph (1), are carried out in an integrated manner with the Integrated Referral Service System for Social Protection and Poverty Alleviation and the Child Social Welfare Center.
+  - (4) Social reintegration services as referred to in paragraph (1), are the responsibility of the Regional Apparatus in charge of social affairs, population administration and civil registration affairs, manpower affairs, small and medium enterprise cooperative affairs, education affairs, health affairs, public works and spatial planning affairs, land affairs, women's empowerment and child Protection affairs and other related affairs.
+
+#### Article 20
+
+Further provisions regarding social reintegration services as referred to in Article 19, are further regulated in the Mayor Regulation.
+
+# CHAPTER V
+
+COORDINATION AND COOPERATION
+
+## Part One
+
+Coordination
+
+#### Article 21
+
+In the context of organizing the Protection of Women from violence, exploitation and discrimination, the City Regional Government carries out coordination and cooperation with the central government, the Provincial Government of West Java, other regency/city governments, related agencies, law enforcement agencies, service institutions, educational institutions, boarding educational institutions, religious institutions, community social institutions, professional organizations, legal aid organizations, youth organizations, broadcasting supervisory institutions, media, communities, professional institutions, business community and other related stakeholders.
+
+## Part Two
+
+Cooperation
+
+#### Article 22
+
+(1) In the context of protecting women from violence, exploitation and discrimination, the City Regional Government may carry out cooperation.
+
+(2) Cooperation as referred to in paragraph (1), is implemented in accordance with the provisions of laws and regulations.
+
+# CHAPTER VI
+
+COMMUNITY PARTICIPATION
+
+#### Article 23
+
+(1) The City Regional Government has the obligation to strengthen community participation in organizing women's protection.
+
+(2) Community participation as referred to in paragraph (1), is carried out in the form of:
+
+- a. prevention;
+- b. services and referrals;
+- c. development of data information systems;
+- d. strengthening of service institutions;
+- e. research and policy advocacy;
+- f. control, guidance and supervision; and g. financing.
+  - (3) Strengthening community participation as referred to in paragraph (1), can be carried out by:
+- a. strengthening cooperation; and
+- b. strengthening institutional capacity for prevention and services from the community, boarding educational institutions, and business community.
+  - (4) The business community has responsibilities in implementing the Protection of Women in accordance with the objectives of Corporate Social and Environmental Responsibility.
+  - (5) Forms of business community responsibility as referred to in paragraph (4), are carried out as follows: a. financial assistance to service institutions; b. empowerment;
+- c. capacity building;
+- d. publication and information media;
+- e. provision of facilities and infrastructure;
+- f. establishment of special institutions for prevention and complaint services for violence; and
+- g. non-binding social assistance.
+
+#### Article 24
+
+Further provisions regarding the form and procedures for community participation as referred to in Article 23, are further regulated in the Mayor Regulation.
+
+# CHAPTER VII
+
+DATA AND INFORMATION SYSTEM
+
+#### Article 25
+
+(1) The City Regional Government uses a data and information system in organizing the Protection of Women.
+
+(2) The data and information system as referred to in paragraph (1), is provided by the Ministry that organizes Government Affairs in the Field of Women's Empowerment and Child Protection in an integrated and integrated manner.
+
+(3) The data and information system as referred to in paragraph (1), involves vertical agencies, City Regional Government, law enforcement agencies, regional apparatus, service institutions, community social institutions, media, universities, professional institutions, business community, and other related stakeholders.
+
+(4) Data and information on the Protection of Women are published to the public and submitted to regional apparatus and related agencies for the development of programs and policies on the Protection of Women.
+
+(5) The data and information system for the Protection of Women as referred to in paragraph (1), is implemented in accordance with the provisions of laws and regulations.
+
+# CHAPTER VIII
+
+INSTITUTIONAL ARRANGEMENTS
+
+## Part One
+
+General
+
+#### Article 26
+
+In the context of implementing the protection of women, the City Regional Government establishes:
+
+- a. UPT; and
+- b. PPT.
+
+## Part Two
+
+UPT
+
+#### Article 27
+
+(1) The City Regional Government establishes UPT to carry out operational technical activities and/or certain supporting technical activities for the implementation of the Protection of Women.
+
+(2) The establishment of UPT as referred to in paragraph (1), is carried out in accordance with the provisions of laws and regulations.
+
+## Part Three
+
+PPT
+
+#### Article 28
+
+(1) In the implementation of services for women victims, the City Regional Government establishes PPT as a victim service network.
+
+(2) The establishment of PPT is intended so that women victims obtain comprehensive, integrated, quality, inclusive and sustainable services.
+
+(3) The elements and tasks of PPT as referred to in paragraph (1), are further regulated in the Regulation of the Mayor.
+
+#### Article 29
+
+Further provisions regarding the establishment and structure of PPT as referred to in Article 28, are further regulated in the Regulation of the Mayor.
+
+# CHAPTER IX
+
+OBLIGATIONS OF THE CITY REGIONAL GOVERNMENT
+
+#### Article 30
+
+(1) The obligations of the City Regional Government in the implementation of the Protection of Women, are as follows: a. formulate policies and include the Protection of Women program in regional development planning and budgeting;
+
+b. provide complaint services, health, social rehabilitation, assistance and law enforcement as well as repatriation and social reintegration for women victims;
+
+c. establish shelter services and/or safe houses; d. establish special mechanisms for hospital-based integrated services;
+
+e. establish PPT;
+
+f. establish UPT for the Protection of Women and Children; g. prepare standard operating procedures and service referral systems;
+
+h. carry out prevention of violence, exploitation and discrimination against women;
+
+i. provide human resources and infrastructure for the Protection of Women;
+
+j. increase support and develop women's protection service institutions owned by the City Regional Government and the community;
+
+k. develop community-based victim services, boarding education institutions, basic education institutions, religious institutions, and the business world;
+
+l. carry out capacity building;
+
+m. carry out coordination and cooperation;
+
+n. carry out empowerment to increase community participation;
+
+o. develop an integrated and integrated women's protection data and information system; p. carry out control, guidance and supervision of the implementation of the provision of women's protection; and
+
+q. provide recognition to the community, community organizations, educational institutions, religious institutions, boarding education institutions, the business world and other parties.
+
+(2) The planning and budgeting of the Protection of Women as referred to in paragraph (1) letter a, is the responsibility of Regional Apparatus implementing the supporting functions of Governmental Affairs and the Agency.
+
+# CHAPTER X
+
+CONTROL, GUIDANCE AND SUPERVISION
+
+#### Article 31
+
+(1) The Mayor implements control, guidance, and supervision of the provision of women's protection in the Region.
+
+(2) In implementing control, guidance and supervision as referred to in paragraph (1), the Mayor assigns the Agency.
+
+(3) The Agency as referred to in paragraph (2), is the coordinator of the provision of the Protection of Women in the Region.
+
+#### Article 32
+
+(1) Control, guidance and supervision as referred to in Article 31, are implemented through the following activities:
+
+- a. regular coordination;
+- b. preparation of modules and work guidelines;
+- c. technical guidance and training;
+- d. preparation of standard operating procedures;
+- e. providing facilities and mechanisms for managing the handling of complaints or grievances related to services for women victims from the community;
+- f. service access testing;
+- g. mapping and studies;
+- h. resolution of inter-institutional disputes;
+- i. monitoring and evaluation; and
+- j. reporting.
+  - (2) Control, guidance and supervision are carried out at least 1 (one) time in 1 (one) year. (3) The results of the implementation of control, guidance and supervision are reported to the Mayor.
+
+# CHAPTER XI
+
+RECOGNITION
+
+#### Article 33
+
+(1) The Mayor provides recognition to educational institutions, religious institutions, health service provider institutions, professional institutions and the business world, service institutions, boarding education institutions, youth organizations, legal aid organizations, communities, media that provide women's protection.
+
+(2) Provisions regarding the procedures for granting recognition as referred to in paragraph (1), are further regulated in the Regulation of the Mayor.
+
+# CHAPTER XII
+
+FINANCING
+
+#### Article 34
+
+The financing of the provision of the Protection of Women is sourced from:
+
+- a. Regional Revenue and Expenditure Budget; and b. other legal and non-binding sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER XIII
+
+CLOSING PROVISIONS
+
+#### Article 35
+
+The implementing regulations of this Regional Regulation are stipulated no later than 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 36
+
+This Regional Regulation comes into force on the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Cirebon City.
+
+Stipulated in Cirebon on 31 October 2024
+
+Acting MAYOR OF CIREBON, signed,
+
+AGUS MULYADI
+
+Stipulated in Cirebon on 31 October 2024
+
+Acting REGIONAL SECRETARY OF CIREBON CITY, signed,
+
+IING DAIMAN
+
+REGIONAL GAZETTE OF CIREBON CITY YEAR 2024 NUMBER 10
+
+NOREG REGIONAL REGULATION OF CIREBON CITY WEST JAVA PROVINCE: (9/201/2024)
+
+Copy in accordance with the original
+
+HEAD OF LEGAL SECTION,
+
+FERY DJUNAEDI, SH., MH
+
+Principal Supervisor Level I (IV/b)
+
+NIP. 19711228 199803 1 002
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF CIREBON CITY
+
+NUMBER 10 OF 2024
+
+CONCERNING
+
+PROTECTION OF WOMEN FROM VIOLENCE, EXPLOITATION AND DISCRIMINATION
+
+I. GENERAL
+
+Violence against women still occurs in society today. Various forms of such violence include rape, sexual harassment, human trafficking, domestic violence, sexual exploitation, violence against domestic workers, pornography, bullying, cyber bullying, and cyber porn.
+
+This situation requires serious handling because it relates to human quality and the future of the Indonesian Nation. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination against Women, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, and Law Number 21 of 2007 concerning the Eradication of the Crime of Human Trafficking, impose obligations on the Government and City Regional Government to provide protection for women. The provision of protection for women, according to Law Number 23 of 2014 concerning Regional Government and its amendments, includes prevention, referral services for women victims of violence, strengthening and developing women's protection service institutions.
+
+Services for women victims of violence include complaint services, referrals, health rehabilitation, legal assistance and protection, social rehabilitation, repatriation and social reintegration, and encouraging community participation in these prevention and recovery efforts. Based on Article 12 paragraph (2) of Law Number 23 of 2014 concerning Regional Government and its amendments, the sub-affair of women's protection is a mandatory non-basic service affair. Based on Article 217, the Regional Apparatus responsible for women's empowerment affairs and child Protection is implemented by the Agency.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Letter a
+
+"Appreciation of human dignity and worth" means respect, upholding the inherent human rights of citizens, and protecting dignity and worth as human beings.
+
+Letter b
+
+"Non-discrimination" means Protection for all women without distinction as to ethnicity, religion, belief, race, group, sex, ethnicity, culture and language, political choice, legal status and physical or mental condition. Special treatment or action towards vulnerable groups of women with the aim of achieving equality of rights is not included as an act of discrimination.
+
+Letter c
+
+Sufficiently clear.
+
+Letter d
+
+"Justice" means fair treatment given to both women and men.
+
+Letter e
+
+"Benefit" means the implementation of Women's Protection that provides benefits to women in the form of welfare, equality and justice, security and protection from all forms of violence, exploitation and discrimination.
+
+Letter f
+
+Sufficiently clear.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+Sufficiently clear.
+
+#### Article 5
+
+Letter a
+
+Sufficiently clear.
+
+Letter b
+
+Sufficiently clear.
+
+Letter c
+
+Sufficiently clear.
+
+Letter d
+
+Sufficiently clear.
+
+Letter e
+
+Sufficiently clear.
+
+Letter f
+
+"Stereotype" or gender-based labeling means categorization of impressions and beliefs about character, nature, and image based on a person's sex differently.
+
+"Stigma" means a negative characteristic attached to a person's personality due to the influence of their environment.
+
+Letter g
+
+Sufficiently clear.
+
+Letter h
+
+Sufficiently clear.
+
+Letter i
+
+"Forming and joining organizations" means survivor organizations, namely organizations or groups established, operated and composed of female survivors (female victims who are able to survive and overcome situations or problems resulting from violence, exploitation and discrimination experienced by them) for specific purposes related to efforts to eliminate violence, exploitation and discrimination against women.
+
+#### Article 6
+
+| "Educational institutions" means an | institution or place where the educational process, teaching and learning | takes place including education within the family, school, | and community. |
+|---|---|---|---|
+| "Religious institutions" means a | organization established by religious communities with the aim of | promoting interests in religious life that | exist in the life of society, nation and State. |
+| "Health service provider institutions" means all health facilities in the form of | first-level health facilities and advanced referral health | facilities. | |
+| "Professional institutions" means institutions that | are non-profit in nature intended for a specific profession and | aimed at protecting public and professional interests | in that field. | |
+| "Business sector" means Micro Enterprises, | Small Enterprises, Medium Enterprises, and Large Enterprises that | conduct economic activities in Indonesia and are domiciled in | Indonesia. | |
+
+"Service institutions" means institutions dedicated to assisting victims of violence, exploitation and discrimination against women.
+
+"Pesantren" means community-based institutions established by individuals, foundations, Islamic community organizations and/or communities that instill faith and piety in Allah SWT, cultivate noble character and firmly adhere to the teachings of Islam rahmatan lil'alamin which is reflected in attitudes of humility, tolerance, balance, moderation, and other noble values of the Indonesian nation through education, Islamic preaching, exemplary conduct, and community empowerment within the framework of the Unitary State of the Republic of Indonesia.
+
+"Youth organizations" means a forum for developing the potential of youth.
+
+"Legal aid organizations" means legal aid institutions or community organizations that provide Legal Aid services based on Law.
+
+"Community" means communities of female survivors, communities of women with disabilities, communities of elderly women, communities of women living with HIV/AIDS, communities of female heads of households, communities of home-based women workers, communities of domestic women workers, communities of migrant women workers, communities of street vendor women, communities of small business women, communities of fisherwomen, communities of female farmers, journalist communities, victim assistance communities, human rights defender communities, congregations or religious study groups, teacher communities, student communities, and youth communities.
+
+"Media" means a communication tool (means) that can be conducted through mass media (Newspapers, Magazines, Tabloids), Electronic Media (Radio, Television, Film), Publication Media (Posters, Banners, Billboards) and Social Media.
+
+#### Article 7
+
+Letter a Sufficiently clear. Letter b Sufficiently clear. Letter c Sufficiently clear. Letter d Sufficiently clear. Letter e Sufficiently clear. Letter f Sufficiently clear. Letter g Sufficiently clear. Letter h Sufficiently clear. Letter i Sufficiently clear. Letter j Sufficiently clear. Letter k Sufficiently clear. Letter l "Other vulnerable women groups" includes village women groups, women groups from ethnic, religious and belief minorities, fisherwoman groups, female farmer groups, and poor women groups.
+
+#### Article 8
+
+Paragraph (1)
+
+Sufficiently clear.
+
+Paragraph (2)
+
+Letter a
+
+"Media" means mass media, social media, broadcast media, electronic media and other media.
+
+Letter b
+
+Sufficiently clear.
+
+Letter c
+
+Sufficiently clear.
+
+Letter d
+
+Sufficiently clear.
+
+Letter e
+
+Sufficiently clear.
+
+Letter f
+
+Sufficiently clear.
+
+Letter g
+
+Sufficiently clear.
+
+Letter h
+
+"Social media influencers" means a person or group who has the ability to influence society widely through social media (youtube, instagram, facebook, twitter, web, and vlog and others) including bloggers, youtubers, vloggers, celebrities to experts who generally have a large number of followers.
+
+Letter i
+
+Sufficiently clear.
+
+Letter j
+
+"Special support" means the provision of clothing, food, sanitation facilities, mobility support, communication support, special service assistance and other infrastructure facilities to prevent violence, exploitation and discrimination against women in vulnerable situations.
+
+Letter k
+
+Sufficiently clear.
+
+Letter l
+
+Sufficiently clear.
+
+Letter m
+
+Sufficiently clear.
+
+Letter n
+
+Sufficiently clear.
+
+Paragraph (3)
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Paragraph (1) Letter a Sufficiently clear. Letter b Sufficiently clear. Letter c Sufficiently clear. Letter d Sufficiently clear. Letter e "Inclusion" means the implementation of Women's Protection is carried out by inviting and involving all people with diverse abilities, backgrounds, characteristics, status, conditions, ethnicity, culture and others and facilitating special needs based on such diversity and eliminating barriers that may hinder the equality of every woman in obtaining her rights.
+
+Letter f Sufficiently clear. Letter g "Best interests of the victim" means decision-making on services provided must be based on agreement (confirmation) with the victim.
+
+Letter h Sufficiently clear. Letter i Sufficiently clear. Letter j Sufficiently clear. Letter k "Sustainability" means services to female victims are carried out thoroughly and comprehensively according to the needs of victims and have interconnection between one form of service and other forms of service.
+
+Paragraph (2) Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Paragraph (1)
+
+Letter a
+
+Sufficiently clear.
+
+Letter b
+
+What is meant by "special complaint" is a special mechanism to facilitate reporting from victims, the community and/or social institutions regarding a case of violence, exploitation and/or discrimination against women. The special mechanism may be in the form of a special telephone number or online complaint application technology. Letter c
+
+Sufficiently clear.
+
+Letter d
+
+Sufficiently clear.
+
+Letter e
+
+Sufficiently clear.
+
+Letter f
+
+Sufficiently clear.
+
+Letter g
+
+Sufficiently clear.
+
+Paragraph (2)
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Paragraph (1)
+
+Letter a
+
+Sufficiently clear.
+
+Letter b
+
+Sufficiently clear.
+
+Letter c
+
+Sufficiently clear.
+
+Letter d
+
+What is meant by "medical resume" is a summary of services provided by health service providers or doctors during the period of treatment until the patient leaves the hospital alive or deceased.
+
+What is meant by "psychological examination results" is a summary of psychological assessment results that describe a person's intellectual capacity, personality and behavioral tendencies for further diagnosis.
+
+Letter e
+
+Sufficiently clear.
+
+Letter f
+
+What is meant by "deoxyribonucleic acid test" is a method or medical procedure to identify, collect and inventory specific body characteristic files in order to obtain information about a person's genetics.
+
+Letter g
+
+Sufficiently clear.
+
+Paragraph (2)
+
+Sufficiently clear.
+
+Paragraph (3)
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Paragraph (1) Letter a Sufficiently clear. Letter b Sufficiently clear. Letter c Sufficiently clear. Letter d Sufficiently clear. Letter e Sufficiently clear. Letter f Sufficiently clear. Letter g Sufficiently clear. Letter h Sufficiently clear. Letter i What is meant by "provision of social assistance to victims" is social assistance specifically needed by victims to support case handling efforts and victim recovery such as cash assistance for transportation costs and meals during case handling, basic necessities assistance, school supplies assistance, assistance related to pregnancy, childbirth and reproductive health, assistance related to the needs of infants, toddlers and children, and other special assistance according to the needs of victims.
+
+Letter j Sufficiently clear. Paragraph (2) Sufficiently clear. Paragraph (3) Sufficiently clear.
+
+#### Article 19
+
+Paragraph (1)
+
+Letter a
+
+Sufficiently clear.
+
+Letter b
+
+Sufficiently clear.
+
+Letter c
+
+Sufficiently clear.
+
+Letter d
+
+Sufficiently clear.
+
+Letter e
+
+Sufficiently clear.
+
+Letter f
+
+Sufficiently clear.
+
+Letter g
+
+Sufficiently clear.
+
+Letter h
+
+Sufficiently clear.
+
+Letter i
+
+Sufficiently clear.
+
+Letter j
+
+What is meant by "social Protection program" is any effort or program directed as an effort to prevent and address risks from shocks and social vulnerability, such as health insurance programs, education scholarship programs, family hope programs, decent housing programs, cash transfer programs, basic necessities assistance programs, and joint business group programs.
+
+What is meant by "poverty alleviation program" is any targeted, integrated, and sustainable effort carried out by the government, regional government, business sector, and/or community in the form of policies, programs and activities for empowerment, assistance, and facilitation to meet the basic needs of every citizen.
+
+Letter k
+
+Sufficiently clear.
+
+Paragraph (2)
+
+Sufficiently clear.
+
+Paragraph (3)
+
+Sufficiently clear.
+
+Paragraph (4)
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Paragraph (1) Sufficiently clear. Paragraph (2) Sufficiently clear. Paragraph (3) Sufficiently clear. Paragraph (4) What is meant by "the business sector has responsibility" is the company's commitment to participate in sustainable economic development in order to improve the quality of life and environment that is beneficial, both for the company itself, the local community, and society in general including in the prevention and service of women victims of violence, exploitation and discrimination.
+
+Paragraph (5) Letter a Sufficiently clear. Letter b Sufficiently clear. Letter c Sufficiently clear. Letter d Sufficiently clear. Letter e What is meant by "facilities and infrastructure" is the place and other equipment needed to support the implementation of prevention and complaint services for women working in the business sector, including such as the availability of lactation rooms, childcare, CCTV, and complaint rooms for women victims.
+
+Letter f Sufficiently clear. Letter g Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Paragraph (1) Sufficiently clear. Paragraph (2) Sufficiently clear. Paragraph (3) Sufficiently clear. Paragraph (4) What is meant by "Data and information on women's protection is published to the public and submitted to regional apparatus and related agencies for the development of programs and policies for women's Protection" is the number and types of cases of violence against women in accordance with the provisions of laws and regulations.
+
+Paragraph (5) Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Sufficiently clear.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+#### Article 32
+
+Paragraph (1) Letter a Sufficiently clear. Letter b Sufficiently clear. Letter c Sufficiently clear. Letter d Sufficiently clear. Letter e What is meant by "complaint or grievance handling management mechanism" is a mechanism that must be provided by public service providers to accommodate and handle complaints or complaints from the community related to services for women victims. Service providers for women victims must provide facilities and infrastructure, officers and complaint management mechanisms that include the address of the place to complain and facilities to accommodate public complaints that are easily accessible, including telephone, short message service, website, e-mail, and complaint boxes.
+
+Letter f Sufficiently clear. Letter g Sufficiently clear. Letter h Sufficiently clear. Letter i Sufficiently clear. Letter j Sufficiently clear. Paragraph (2) Sufficiently clear. Paragraph (3) Sufficiently clear.
+
+#### Article 33
+
+Sufficiently clear.
+
+#### Article 34
+
+Sufficiently clear.
+
+#### Article 35
+
+Sufficiently clear.
+
+#### Article 36
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF CIREBON CITY NUMBER 146

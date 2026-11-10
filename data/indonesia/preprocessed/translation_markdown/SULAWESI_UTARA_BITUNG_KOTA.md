@@ -1,0 +1,856 @@
+# R E G I O N A L G A Z E T T E
+
+R E G I O N A L G A Z E T T E
+
+BITUNG CITY
+
+NUMBER : 8 OF 2019
+
+MAYOR OF BITUNG
+
+NORTH SULAWESI PROVINCE
+
+LOCAL REGULATION OF BITUNG CITY
+
+NUMBER 8 OF 2019
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION
+
+FOR WOMEN AND CHILDREN FROM ACTS OF VIOLENCE IN BITUNG CITY
+
+BY THE GRACE OF ALMIGHTY GOD
+
+THE MAYOR OF BITUNG,
+
+Considering : a. that the guarantee of respect, protection and fulfillment of Human Rights for every Indonesian Citizen in the Region is a duty that must be carried out by the Regional Government;
+
+b. that Bitung City as an industrial city that is rapidly developing as one of the economic centers in North Sulawesi Province, has created many jobs so that many people from various regions outside
+
+Bitung City come to work within the territory of Bitung
+
+City and have the potential to trigger social friction which can result in the vulnerability of women and children to become victims of acts of violence;
+
+c. that in the framework of implementing regional autonomy which refers to Article 12 paragraph (2) letter b and Article 236 of Law Number 23 of 2014 concerning
+
+Regional Government, particularly in the field of women's empowerment and child protection which is included in concurrent governmental affairs that are the authority of the Regional Government, namely mandatory governmental affairs not related to basic services, the Region establishes a Regional Regulation;
+
+d. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning the Implementation of Protection for Women and Children from Acts of Violence in
+
+Bitung City;
+
+In View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143);
+
+3. Law Number 7 of 1990 concerning the Establishment of Bitung Level II Regional Municipality (State Gazette of the Republic of Indonesia of 1990 Number 52, Supplement to the State Gazette of the Republic of Indonesia Number 3421);
+
+4. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+
+5. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as has been amended several times most recently by Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2016 Number 99, Supplement to the State Gazette of the Republic of Indonesia Number 5882);
+
+6. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+8. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+9. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as has been amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+10. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 64);
+
+11. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 of 2008 concerning the Implementation of Women's Protection;
+
+12. Regulation of the State Minister for Women's Empowerment and Child Protection Number 3 of 2008 concerning the Implementation of Child Protection;
+
+13. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 01 of 2010 concerning Minimum Service Standards (SPM) in the Field of
+
+Integrated Services for Women and Children Victims of
+
+Violence (State News of the Republic of Indonesia of 2010
+
+Number 56);
+
+14. Regulation of the State Minister for Women's Empowerment and Child Protection Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service
+
+Centers;
+
+15. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 of 2011 concerning the Empowerment of Child Victims of Violence;
+
+16. Regulation of the State Minister for Women's Empowerment and Child Protection Number 19 of 2011 concerning the Empowerment of Women Victims of Violence;
+
+17. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036); as has been amended by Regulation of the Minister of
+
+Home Affairs Number 120 of 2018 concerning Amendment to the Regulation of the Minister of Home Affairs Number 80 of
+
+2015 concerning the Formulation of Regional Legal Products (State
+
+News of the Republic of Indonesia of 2018 Number 157);
+
+With Mutual Approval of
+
+THE REGIONAL HOUSE OF REPRESENTATIVES OF BITUNG CITY
+
+and
+
+THE MAYOR OF BITUNG
+
+HAS DECIDED :
+
+To Enact : LOCAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN
+
+FROM ACTS OF VIOLENCE IN BITUNG CITY.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation what is meant by:
+
+- 1. Region is Bitung City.
+- 2. Regional Government is the Mayor and regional apparatus as elements of the administration of the Regional government.
+- 3. Mayor is the Mayor of Bitung.
+- 4. Regional House of Representatives, hereinafter abbreviated as DPRD, is the DPRD of Bitung City.
+- 5. Agency is the Agency that administers government affairs in the field of women's empowerment and child protection of the Region.
+- 6. Woman is a person who has female sex from birth or based on court determination who is over 18 years old.
+- 7. Child is a person who is not yet 18 (eighteen) years old, including a child in the womb.
+- 8. Act of violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of freedom.
+- 9. Victim of violence is a woman and child who experiences misery and/or suffering, either directly or indirectly as a result of acts of violence.
+- 10. Protection of women and children from acts of violence is action, conduct, activity that includes prevention of acts of violence against women and children, handling services, assistance, recovery, reunification, empowerment of women and rehabilitation of child victims of violence, carried out by the Regional Government, parents, husband, family or community, including therein is the Integrated Service Center.
+- 11. Prevention is the process, method, act to prevent the occurrence of acts of violence against women and children.
+- 12. Handling is the process, method, act to handle victims of women and children as a result of acts of violence.
+- 13. Assistance and recovery is all activities in order to assist and restore the physical, psychological conditions and health disorders of women and children victims of acts of violence.
+- 14. Reunification is an activity in order to reunite women and children victims of acts of violence with parents and/or family.
+- 15. Empowerment is the process, method and act to empower women victims of acts of violence.
+- 16. Rehabilitation is the recovery from disturbances to physical, psychological, and social conditions so that child victims of acts of violence can carry out their role again properly both in the family and in society.
+- 17. Community is individuals, families, groups, social organizations and/or community organizations.
+- 18. Family is the smallest unit in society consisting of husband and wife or husband and wife and their children or father and their children or mother and their children or blood relatives in direct line upwards or downwards up to the third degree.
+- 19. Parents/guardian is the biological father and/or mother or step father and/or mother or adoptive father and/or mother or guardian based on the provisions of laws and regulations.
+- 20. Integrated Service Center, hereinafter abbreviated as PPT, is various institutions that provide services for victims of violence, such as Integrated Service Center for Women and Child Empowerment, Safe House, Child Social Protection House, Trauma Centre Protection House, Women's Social Protection House, Shelter and the like.
+- 21. Regional Action Plan, hereinafter abbreviated as RAD, is the foundation and guideline for relevant regional apparatus, vertical agencies and the community in order to implement prevention and protection activities for women and children victims of acts of violence.
+
+#### Article 2
+
+The scope of this regional regulation includes: a. acts of violence;
+
+b. implementation of protection;
+
+c. implementation of prevention of acts of violence against women and children;
+
+d. implementation of services, assistance and recovery for women and children who are victims of acts of violence;
+
+e. institutional matters;
+
+f. reunification;
+
+g. empowerment and rehabilitation;
+
+h. guidance and supervision; and
+
+i. financing.
+
+#### Article 3
+
+The implementation of protection of women and children from acts of violence is carried out based on the following principles:
+
+- a. respect for Human Rights possessed by women and children;
+- b. justice and gender equality;
+- c. non-discrimination; and
+- d. the best interests for women and children.
+
+#### Article 4
+
+The purpose and objectives of implementing protection of women and children from acts of violence include: a. prevention of acts of violence against women and children;
+
+b. handling services, assistance and recovery for women and children who are victims of acts of violence;
+
+c. reunification; and
+
+d. empowerment of women and rehabilitation of children who are victims of acts of violence.
+
+# CHAPTER II
+
+ACTS OF VIOLENCE
+
+#### Article 5
+
+(1) The Regional Government is obliged to protect every woman and child in the Region from various kinds of acts of violence.
+
+(2) Acts of violence as referred to in paragraph (1) are in the form of:
+
+- a. physical violence;
+- b. psychological violence;
+- c. sexual violence;
+- d. neglect; and
+- e. exploitation.
+
+#### Article 6
+
+Physical violence as referred to in Article 5 paragraph (2) letter a is caused by acts that result in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causing death.
+
+#### Article 7
+
+Psychological violence as referred to in Article 5 paragraph (2) letter b is caused by acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.
+
+#### Article 8
+
+Sexual violence as referred to in Article 5 paragraph (2) letter c is caused by:
+
+- a. acts in the form of sexual harassment; b. forced sexual intercourse;
+- c. forced sexual intercourse in an unnatural or unwanted manner; and
+- d. forced sexual intercourse with others for commercial purposes and/or certain purposes.
+
+#### Article 9
+
+Neglect as referred to in Article 5 paragraph (2) letter d is caused by:
+
+- a. acts that result in the failure to properly fulfill the needs of children, whether physical, mental, spiritual or social, carried out by parents, guardians or any other party responsible for care;
+- b. acts of deliberately neglecting to maintain, care for or look after children as they should, carried out by parents, guardians or any other party responsible for their care;
+- c. acts that neglect the wife within the scope of her household, whereas according to the law applicable to them or due to agreement or covenant, he is obliged to provide livelihood, care or maintenance to his wife; and/or
+- d. acts that result in economic dependence, by limiting and/or prohibiting the wife from working decently inside or outside the home so that the wife is under the control of her husband.
+
+#### Article 10
+
+Exploitation as referred to in Article 5 paragraph (2) letter e is caused by:
+
+- a. acts that exploit economically or sexually with the intention of benefiting oneself or others;
+- b. acts without the consent of women and children who become victims of exploitation, including but not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or ability of a person by another party to obtain benefits, whether physical/material (material) or non-physical/material; and/or
+- c. all forms of exploitation of sexual organs or other body organs of women and children who become victims of exploitation to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.
+
+# CHAPTER III
+
+IMPLEMENTATION OF PROTECTION
+
+## Part One
+
+General
+
+#### Article 11
+
+The implementation of protection for women and children from acts of violence is carried out by: a. Regional Government;
+
+b. society;
+
+c. family; and
+
+d. parents.
+
+#### Article 12
+
+(1) The Regional Government implements protection efforts for women and children from acts of violence through:
+
+- a. implementing protection policies for women and children from acts of violence established by the Government;
+- b. establishing policies, programs and activities for the protection of women and children from acts of violence;
+- c. formation of PPT;
+- d. ensuring the implementation of ease of service to women and children who are victims of acts of violence;
+- e. seeking effectiveness and efficiency for the recovery process of women and children who are victims of acts of violence; and
+- f. seeking the creation of cooperation and coordination in efforts to recover women and children who are victims of acts of violence.
+  - (2) In order to carry out obligations and responsibilities as referred to in paragraph (1) letter b, the Regional Government establishes programs and action activities for the protection of women and children from acts of violence in 1 (one) RAD as a basis for regional apparatus in implementing protection for women and children who are victims of acts of violence.
+  - (3) RAD as referred to in paragraph (2) constitutes part of the Regional Medium-Term Development Plan.
+  - (4) RAD as referred to in paragraph (2) is further regulated by Mayor Regulation.
+
+#### Article 13
+
+(1) Forms of community participation in protecting women and children from acts of violence include: a. establishing Family Partners at the kelurahan level; b. establishing Women and Child Protection Units within community organizations;
+
+c. conducting socialization of women's and children's rights independently;
+
+d. providing first aid to women and children who are victims of acts of violence; and
+
+e. reporting to the competent authority if violence occurs in their environment against women and children who are victims of acts of violence.
+
+(2) Community participation as referred to in paragraph (1) is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector and mass media.
+
+(3) Forms of community participation as referred to in paragraph (2) are implemented responsibly in accordance with the provisions of laws and regulations.
+
+#### Article 14
+
+The family as referred to in Article 11 letter c has full responsibility to protect women and children from all forms of acts of violence.
+
+#### Article 15
+
+Parents as referred to in Article 11 letter d have full responsibility to protect women and children from all forms of acts of violence.
+
+## Part Two
+
+Protection of Women and Children from Acts of Violence Article 16
+
+(1) The implementation of protection for women from acts of violence is carried out through activities:
+
+- a. prevention of acts of violence;
+- b. service for accompaniment and recovery of women who are victims of acts of violence;
+- c. reunification; and
+- d. empowerment of women who are victims of acts of violence.
+  - (2) The implementation of child protection from acts of violence is carried out through activities:
+- a. prevention of acts of violence;
+- b. service for handling children who are victims of acts of violence;
+- c. reunification; and
+- d. rehabilitation of children who are victims of acts of violence.
+  - (3) The implementation of protection as referred to in paragraphs (1) and (2) is carried out by the Regional Government through the Dinas.
+
+# CHAPTER IV
+
+IMPLEMENTATION OF PREVENTION OF THE OCCURRENCE OF ACTS OF VIOLENCE AGAINST WOMEN AND CHILDREN
+
+#### Article 17
+
+The implementation of prevention of the occurrence of acts of violence against women and children is carried out by:
+
+- a. Regional Government;
+- b. society;
+- c. family; and
+- d. parents.
+
+#### Article 18
+
+(1) The Regional Government implements efforts to prevent the occurrence of acts of violence against women and children through:
+
+- a. implementation of policies for the prevention of the occurrence of acts of violence against women and children in accordance with policies established by the Government;
+- b. establishment of policies, programs and activities for the prevention of the occurrence of acts of violence against women and children;
+- c. formation of PPT;
+- d. raising awareness among families, parents and communities by providing information, guidance and/or counseling;
+- e. increasing the quantity and quality of education, both formal and non-formal and informal;
+- f. opening accessibility to obtain education, training, funding, income enhancement and social services;
+- g. opening employment opportunities for women; h. seeking the participation and concern of the community to implement prevention and protection of women and children from acts of violence;
+- i. development and provision of complete and easily accessible information systems;
+- j. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and
+- k. opening complaint posts for protection and prevention of the occurrence of acts of violence against women and children.
+  - (2) Prevention as referred to in paragraph (1) is implemented by Regional Apparatus that administer governmental affairs in the fields of:
+- a. women's empowerment and child protection;
+- b. health;
+- c. education;
+- d. manpower;
+- e. social;
+- f. mental and spiritual; and
+- g. public peace and order.
+  - (3) Prevention by regional apparatus as referred to in paragraph (2) is coordinated by the Dinas. (4) Prevention of violence by regional apparatus as referred to in paragraph (2) is implemented in an integrated and continuous manner based on RAD.
+
+#### Article 19
+
+(1) Forms of prevention of violence against women and children carried out by PPT may be implemented through:
+
+- a. socialization activities of laws and regulations related to the protection of the rights of women and children to the community; and
+- b. training of PPT members related to the implementation of their duties in preventing the occurrence of acts of violence against women and children.
+  - (2) PPT in carrying out its duties and functions may coordinate with competent parties in making efforts to prevent the occurrence of violence against women and children.
+  - (3) Further provisions regarding the mechanism for implementing prevention duties as referred to in paragraph (1) are regulated in a Mayor Regulation.
+
+#### Article 20
+
+| Forms of community participation in the prevention | of acts of violence against women and | children, include: |
+|---|---|---|
+| a. provision of safe houses and/or shelters; | b. establishment and management of orphanages; | c. establishment of child rehabilitation centers; |
+| d. active monitoring of violence against | women and children and reporting to the | competent authorities; and |
+
+e. providing assistance to victims.
+
+#### Article 21
+
+Families have the responsibility to prevent acts of violence against women and children, including:
+
+- a. maintaining harmonious family relations; b. providing assistance to victims;
+- c. reporting every form of domestic violence to the competent authorities; and
+- d. assisting the government in efforts to rehabilitate and reunify victims.
+
+#### Article 22
+
+Parents have the responsibility to prevent acts of violence against women and children, including:
+
+- a. fostering love, affection and mutual respect within the family;
+- b. providing assistance to victims; and c. reporting every form of domestic violence.
+
+#### Article 23
+
+(1) Prevention of acts of violence against women is carried out through activities:
+
+- a. formation of work networks;
+- b. implementation of coordination, integration, synchronization of violence prevention based on partnership patterns with the community, including the private sector and community organizations; and
+- c. socialization of laws and regulations governing the protection of women.
+  - (2) Prevention of acts of violence against children is carried out through activities:
+- a. formation of work networks;
+- b. implementation of coordination, integration, synchronization of violence prevention based on partnership patterns with the community including the existing private sector and community organizations;
+- c. socialization of laws and regulations governing child protection; and
+- d. education for parents.
+  - (3) Prevention as referred to in paragraph (1) and paragraph (2) is carried out by involving:
+- a. families;
+- b. the community;
+- c. the private sector;
+- d. community organizations; and
+- e. educational institutions.
+
+#### Article 24
+
+Provisions regarding the forms and procedures for preventing acts of violence against women and children are further regulated in a Mayoral Regulation.
+
+# CHAPTER V
+
+IMPLEMENTATION OF SERVICES, ASSISTANCE AND RECOVERY FOR WOMEN AND CHILDREN WHO ARE VICTIMS OF ACTS OF VIOLENCE
+
+#### Article 25
+
+(1) Every woman and child who is a victim of an act of violence has the right to receive:
+
+- a. protection;
+- b. information;
+- c. optimal services;
+- d. continuous treatment up to the rehabilitation stage;
+- e. confidential treatment;
+- f. psychological and legal assistance; and
+- g. guarantee of rights related to status as a family member or community member.
+  - (2) The Regional Government guarantees the fulfillment of the rights of women and children who are victims of acts of violence as referred to in paragraph (1).
+
+#### Article 26
+
+Children who are victims of acts of violence, in addition to receiving the rights as referred to in Article 25, receive special rights as follows:
+
+- a. the right to respect and full utilization for survival, growth and development; b. the right to basic services;
+- c. the right to equal protection;
+- d. the right to be free from various stigma; and
+- e. the right to freedom.
+
+#### Article 27
+
+(1) Treatment of children who are victims of acts of violence as referred to in Article 25 is carried out in accordance with the provisions of laws and regulations.
+
+(2) Provisions regarding the forms and procedures for treatment of children who are victims of acts of violence are further regulated in a Mayoral Regulation.
+
+#### Article 28
+
+(1) Assistance and recovery services for women and children who are victims of acts of violence as referred to in Article 25 are provided to women and children who are domiciled in the Region and who experience violence within the Region.
+
+(2) Forms of assistance and recovery services as referred to in paragraph (1) are implemented in the form of:
+
+- a. women's empowerment;
+- b. child rehabilitation;
+- c. complaint, consultation and counseling services; and
+- d. assistance services.
+  - (3) Provisions regarding the forms and procedures for assistance and recovery services for women and children who are victims of acts of violence are further regulated in a Mayoral Regulation.
+
+# CHAPTER VI
+
+INSTITUTIONS
+
+## Part One
+
+Establishment of PPT
+
+#### Article 29
+
+Implementation of service, treatment, assistance and recovery for women and children who are victims of acts of violence is carried out by the Regional Government by establishing the PPT.
+
+#### Article 30
+
+(1) Implementation of service, treatment, assistance and recovery for women and children who are victims of acts of violence is carried out in an integrated manner by the PPT.
+
+(2) In addition to implementing service, treatment, assistance and recovery for women and children who are victims of acts of violence, the PPT takes preventive measures against acts of violence against women and children.
+
+(3) The PPT reports the implementation of service, treatment, assistance and recovery for women and children who are victims of acts of violence as well as preventive measures against acts of violence against women and children to the Mayor through the Office.
+
+#### Article 31
+
+The PPT consists of elements:
+
+- a. regional apparatus that carries out governmental affairs in the health sector;
+- b. regional apparatus that carries out governmental affairs in the education sector;
+- c. regional apparatus that carries out governmental affairs in the social sector;
+- d. regional apparatus that carries out governmental affairs in the trade sector;
+- e. regional apparatus that carries out governmental affairs in the population sector;
+- f. regional apparatus that carries out governmental affairs in the women's empowerment and child protection sector;
+- g. regional apparatus that carries out governmental affairs in the community empowerment sector;
+- h. regional apparatus that carries out governmental affairs in the public peace and order sector;
+- i. City Police Resort; and
+- j. Non-Governmental Organizations.
+
+## Part Two
+
+PPT Counseling Division
+
+#### Article 32
+
+(1) The PPT has a counseling division in assistance and recovery services for women and children who are victims of acts of violence.
+
+(2) The counseling division as referred to in paragraph (1) consists of:
+
+- a. legal division;
+- b. health division;
+- c. spiritual division; and
+- d. psychology division.
+
+## Part Three
+
+Service Mechanism for Treatment, Assistance and Recovery Article 33
+
+(1) The PPT can receive and send case referrals from or to other service units in a networked manner.
+
+(2) The PPT provides temporary services and protection in the form of a Safe House.
+
+(3) In the event that the PPT does not yet have a Safe House, women and children who are victims of acts of violence are referred to the PPT that has a Safe
+
+House.
+
+#### Article 34
+
+Forms of PPT services for women and children who are victims of acts of violence, include:
+
+- a. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of women and children who are victims of acts of violence carried out by medical and paramedical personnel;
+- b. medical services for the purposes of legal evidence;
+- c. psychosocial services;
+- d. legal services to assist women and children who are victims of acts of violence in undergoing legal processes; and
+- e. economic independence services in the form of skills training and providing economic access so that women and children who are victims of acts of violence can be independent.
+
+#### Article 35
+
+Further provisions regarding the Standard Operating Procedures for the Service Mechanism for Handling, Assistance and Recovery of PPT are regulated in a Mayor Regulation.
+
+## Part Four
+
+Service Mechanism for Assistance and Recovery by Persons and/or Institutions Cooperating with PPT
+
+#### Article 36
+
+Assistance is carried out by persons and/or institutions cooperating with PPT.
+
+#### Article 37
+
+The implementation of services and assistance for women and children who are victims of acts of violence is carried out with the principles:
+
+- a. fast, safe and empathetic;
+- b. guarantee of confidentiality;
+- c. easily accessible; and
+- d. no charge.
+
+#### Article 38
+
+(1) PPT reports the implementation of protection for women and children who are victims of acts of violence to the Mayor through the Office.
+
+(2) The reporting as referred to in paragraph (1) is submitted in writing, covering:
+
+- a. administration;
+- b. finance;
+- c. services; and
+- d. performance.
+  - (3) The submission of written reports as referred to in paragraph (2) is carried out at least once every 3 (three) months.
+
+# CHAPTER VII
+
+REUNIFICATION
+
+#### Article 39
+
+In order to return women and children who are victims of acts of violence to their families, the Regional Government is obliged to: a. provide transportation costs and other needs for women and children who are victims of acts of violence to return to their families; b. provide and finance accompanying personnel to return women and children who are victims of acts of violence to their families; and
+
+c. coordinate with the Government, the Regional Government where the women and children who are victims of acts of violence reside and the Indonesian National Police to return women and children who are victims of acts of violence to their families.
+
+# CHAPTER VIII
+
+EMPOWERMENT AND REHABILITATION
+
+#### Article 40
+
+(1) Empowerment of women who are victims of acts of violence as referred to in Article 16 paragraph (1) letter d is carried out by: a. job training; and/or
+
+b. facilitating the establishment of productive economic businesses and joint business groups.
+
+(2) Job training as referred to in paragraph (1) letter a is coordinated with the Regional Apparatus that carries out governmental affairs in the field of manpower.
+
+(3) Job training for women who are victims of acts of violence can be carried out at job training institutions organized by the Regional Government or organized by the private sector.
+
+(4) The establishment of productive economic businesses and joint business groups as referred to in paragraph (1) letter b is carried out in coordination with the Regional Apparatus that carries out governmental affairs in the field of small and medium enterprises.
+
+#### Article 41
+
+Rehabilitation of children who are victims of acts of violence as referred to in Article 17 letter d is carried out in the form of:
+
+- a. legal aid services;
+- b. health rehabilitation services;
+- c. social rehabilitation services; and/or
+- d. repatriation and social reintegration services.
+
+# CHAPTER IX
+
+GUIDANCE AND SUPERVISION
+
+#### Article 42
+
+(1) The Regional Government conducts guidance and supervision of the implementation of protection for women and children who are victims of acts of violence.
+
+(2) Guidance as referred to in paragraph (1) includes:
+
+- a. guidelines and standards for fulfillment;
+- b. technical guidance and training;
+- c. provision of facilities;
+- d. monitoring; and
+- e. evaluation.
+  - (3) Supervision as referred to in paragraph (1) is carried out with the principles:
+- a. professional;
+- b. transparent; and
+- c. accountable.
+
+#### Article 43
+
+Guidance and supervision as referred to in Article 42 paragraph (1) are carried out in order to realize the objectives of implementing protection for women and children who are victims of acts of violence in accordance with minimum service standards stipulated by laws and regulations.
+
+# CHAPTER X
+
+FINANCING
+
+#### Article 44
+
+The costs required for the implementation of the duties of organizing protection for women and children from acts of violence may be sourced from: a. Regional Revenue and Expenditure Budget; and b. other legitimate sources in accordance with the provisions of laws and regulations.
+
+#### Article 45
+
+(1) The Regional Government may provide financial assistance to community organizations, social organizations or non-governmental organizations and universities that implement protection for women and children who are victims of acts of violence.
+
+(2) Financial assistance as referred to in paragraph (1) is adjusted to the financial capacity of the Region and is carried out in accordance with the provisions of laws and regulations.
+
+# CHAPTER XI
+
+CLOSING PROVISIONS
+
+#### Article 46
+
+Implementing regulations of this Regional Regulation are stipulated at the latest 6 (six) months after this Regional Regulation is promulgated.
+
+#### Article 47
+
+This Regional Regulation comes into force on the date of promulgation. In order that everyone may know of it, the promulgation of this Regional Regulation is ordered with its placement in the Regional Gazette of Bitung City.
+
+Enacted in Bitung on 21 October 2019
+
+MAYOR OF BITUNG,
+
+sgd
+
+MAXIMILIAAN JONAS LOMBAN
+
+Promulgated in Bitung on 21 October 2019
+
+REGIONAL SECRETARY,
+
+sgd
+
+AUDY RONALD RICHARD PANGEMANAN
+
+REGIONAL GAZETTE OF BITUNG CITY YEAR 2019 NUMBER 8
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF BITUNG CITY NORTH SULAWESI PROVINCE: (8/2019)
+
+dangkan di Bitung pada tanggal
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF BITUNG CITY
+
+NUMBER 8 OF 2019
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION
+
+FOR WOMEN AND CHILDREN FROM ACTS OF VIOLENCE IN BITUNG CITY
+
+I. GENERAL
+
+Bitung City as one of the regions that has become a center of economic activity in North Sulawesi has attracted many people from outside the City area to work in various industrial sectors that exist. Although this has a positive effect on the economic sector, but viewed from the security and order side, it will greatly affect the increased risk of the emergence of security disturbances, especially for those that threaten women and children as vulnerable parties.
+
+The Regional Government which sees this as a potential threat that must be resolved then establishes this Regional Regulation as a solution to the security threat problem that arises for women and children. As for this Regional Regulation, it regulates the form of protection provided by the Regional Government and various parties involved therein so as to reduce the high security threats to women and children in Bitung City, in addition it also regulates the institutions that will guarantee the implementation of holistic protection so that each party will know its duties at each stage of protection carried out by the Regional Government.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Sufficiently clear.
+
+#### Article 3
+
+Sufficiently clear.
+
+#### Article 4
+
+The intent and purpose of implementing protection for women and children from acts of violence is to:
+
+- a. prevent acts of violence against women and children;
+- b. eliminate all forms of violence and exploitation against women and children;
+- c. protect and provide a sense of security for women and children from acts of violence; and
+- d. facilitate and mediate disputes in households to realize the integrity of harmonious and prosperous households.
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+Sufficiently clear.
+
+#### Article 19
+
+Sufficiently clear.
+
+#### Article 20
+
+Sufficiently clear.
+
+#### Article 21
+
+Sufficiently clear.
+
+#### Article 22
+
+Sufficiently clear.
+
+#### Article 23
+
+Sufficiently clear.
+
+#### Article 24
+
+Sufficiently clear.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Sufficiently clear.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+In order to handle victims of violence, the Regional Government establishes PPT as an integrated service center for women and children who are victims of violence.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+#### Article 32
+
+Sufficiently clear.
+
+#### Article 33
+
+Sufficiently clear.
+
+#### Article 34
+
+Psychosocial services are services provided in order to restore the traumatic condition of women and children who are victims of acts of violence, including the provision of safe houses to protect women and children who are victims of acts of violence from various threats and intimidation against women and children who are victims of acts of violence and to provide social support so that women and children who are victims of acts of violence have self-confidence, strength and independence in resolving their problems.
+
+#### Article 35
+
+Sufficiently clear.
+
+#### Article 36
+
+#### Article 37
+
+Sufficiently clear.
+
+#### Article 38
+
+Sufficiently clear.
+
+#### Article 39
+
+Sufficiently clear.
+
+#### Article 40
+
+Sufficiently clear.
+
+#### Article 41
+
+Sufficiently clear.
+
+#### Article 42
+
+Sufficiently clear.
+
+#### Article 43
+
+Sufficiently clear.
+
+#### Article 44
+
+Sufficiently clear.
+
+#### Article 45
+
+Sufficiently clear.
+
+#### Article 46
+
+Sufficiently clear.
+
+#### Article 47
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF BITUNG CITY NUMBER 156

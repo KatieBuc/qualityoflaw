@@ -82,16 +82,25 @@ def process_mmd_folder(input_dir: str, output_dir: str):
 
 if __name__ == "__main__":
     import argparse
+    import sys
+
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+    from automation.src.constants import DEFAULT_PROJECT
+    from automation.src.paths import project_dirs
 
     parser = argparse.ArgumentParser(
         description="Clean raw .mmd extractions into .cleaned.md files for the pipeline."
     )
-    parser.add_argument("--input", default="./data/raw/QOL_reextract", help="Folder of .mmd files.")
+    parser.add_argument("--project", default=DEFAULT_PROJECT, help="Project under data/.")
+    parser.add_argument("--input", default=None, help="Folder of .mmd files (default: <project>/preprocessed/QOL_reextract).")
     parser.add_argument(
         "--output",
-        default="./data/processed/localpolicies/cleaned_markdown",
-        help="Folder that receives the .cleaned.md files.",
+        default=None,
+        help="Folder that receives the .cleaned.md files (default: <project>/preprocessed/cleaned_markdown).",
     )
     args = parser.parse_args()
+    dirs = project_dirs(args.project)
+    args.input = args.input or str(dirs.preprocessed / "QOL_reextract")
+    args.output = args.output or str(dirs.preprocessed_cleaned_markdown)
 
     process_mmd_folder(args.input, args.output)

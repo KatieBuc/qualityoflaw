@@ -1,121 +1,136 @@
-# PROTECTION OF WOMEN
+# REGENT OF WEST MUNA
 
 REGENT OF WEST MUNA
 
-PROVINCE OF SOUTHEAST SULAWESI
+SOUTHEAST SULAWESI PROVINCE
 
-# REGIONAL REGULATION OF WEST MUNA REGENCY
-
-NUMBER 5 OF 2022
+REGIONAL REGULATION OF WEST MUNA REGENCY NUMBER 5 OF 2022
 
 CONCERNING
 
-PROTECTION OF WOMEN
+WOMEN'S PROTECTION
 
 BY THE GRACE OF ALMIGHTY GOD
 
 REGENT OF WEST MUNA,
 
-Considering:
+Considering In view of
 
+a. that every woman has the right to obtain protection of her human rights, to be free from torture, threats, pressure, and to receive equal facilities, treatment, opportunities and benefits in order to achieve justice and welfare;
 
-a. that every woman has the right to obtain protection of her human rights, freedom from torture, threats, pressure, as well as to receive facilities, treatment, opportunities and equal benefits in order to achieve justice and welfare of life;
-b. that women as assets of the nation who play a role in the process of continuation and creation of quality generations need to be guaranteed the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation, and state;
-c. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on Protection of Women;
+b. that women as a national asset who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation, and state;
 
-In view of:
+c. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on Women's Protection;
 
 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
 2. Law Number 14 of 2014 concerning the Establishment of West Muna Regency in Southeast Sulawesi Province (State Gazette of the Republic of Indonesia of 2014 Number 171, Supplement to the State Gazette of the Republic of Indonesia Number 5561);
-3. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 11 of 2020 concerning Job Creation (State Gazette of the Republic of Indonesia of 2020 Number 245, Supplement to the State Gazette of the Republic of Indonesia Number 6573);
+
+3. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law
+
+Number 11 of 2020 concerning Job Creation (State Gazette of the Republic of Indonesia of 2020 Number 245, Supplement to the State Gazette of the Republic of Indonesia Number 6573);
 
 With Mutual Approval
 
-REGIONAL HOUSE OF REPRESENTATIVES OF WEST MUNA REGENCY
-
-And
+REGIONAL HOUSE OF REPRESENTATIVES OF WEST MUNA REGENCY And
 
 REGENT OF WEST MUNA
 
-DECIDES:
+DECIDES
 
-To establish:
+To enact : REGIONAL REGULATION CONCERNING WOMEN'S PROTECTION CHAPTER I
 
-REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN
-
-# CHAPTER I
-
-## GENERAL PROVISIONS
+GENERAL PROVISIONS
 
 #### Article 1
 
 In this Regional Regulation, what is meant by:
-1. Region is West Muna Regency.
-2. Regional Government is the administration of governmental affairs by the regional government and the regional house of representatives according to the principles of autonomy and assistance tasks with the principle of the broadest possible autonomy in the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.
+
+- 1. Region is West Muna Regency.
+- 2. Regional Government is the Administration of governmental affairs by the regional government and regional house of representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy in the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of
+
+Indonesia.
+
 3. Regional Government is the Regent as an element of regional government administration who leads the implementation of governmental affairs which are the authority of the autonomous region.
+
 4. Regent is the Regent of West Muna.
-5. Regional House of Representatives of West Muna Regency, hereinafter abbreviated as DPRD, is the regional people's representative institution as an element of regional government administration.
-6. Regional Apparatus Organization, hereinafter referred to as OPD, is an organization or regional people's representative institution as an element of regional government administration.
-7. Human Rights are a set of rights inherent in the nature and existence of humans as creatures of Almighty God and are His gift which must be respected, upheld and protected by the state, law, government, and every person for the sake of honor and protection of human dignity and worth.
-8. Protection of Women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.
-9. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of reducing or eliminating the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil, or any other field by women, regardless of their marital status on the basis of equality between men and women.
-10. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.
-11. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.
+
+5. Regional House of Representatives of West Muna Regency hereinafter abbreviated as DPRD is a regional people's representative institution as an element of regional government administration.
+
+6. Regional Apparatus Organization hereinafter referred to as OPD is an organization or regional people's representative institution as an element of regional government administration.
+
+7. Human Rights are a set of rights inherent in the nature and existence of humans as creatures of Almighty God and constitute His gift which must be respected, upheld and protected by the state, law, government, and every person for the sake of honor and protection of human dignity and worth.
+
+8. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.
+
+9. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of reducing or eliminating the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.
+
+10. Gender is a concept that refers to the differentiation of the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.
+
+11. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings in order to be able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.
+
 12. Society is individuals, families, groups, and social organizations and/or community organizations.
-13. Family is the smallest unit in society consisting of husband and wife, husband-wife and their children, or father and children, or mother and children.
-14. Labor Force is every person who is capable of performing work to produce goods and/or services either to meet their own needs or for society.
+
+13. Family is the smallest unit in society consisting of husband and wife, husband-wife and their children, or father and his children, or mother and her children.
+
+14. Labor is every person who is capable of performing work to produce goods and/or services either to meet their own needs or for society.
+
 15. Worker/Laborer is every person who works by receiving wages or remuneration in other forms.
-16. Criminal Act of Trafficking in Persons, hereinafter abbreviated as TPPO, is any act or series of acts that meet the elements of criminal acts as determined in Law Number 21 of 2007, namely concerning the Eradication of the Criminal Act of Trafficking in Persons.
+
+16. Criminal Act of Human Trafficking, hereinafter abbreviated as TPPO is any act or series of acts that meet the elements of criminal acts as determined in Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking.
 
 #### Article 2
 
 The scope of this Regional Regulation includes:
-a. General provisions;
-b. Protection of women;
-c. Community participation;
-d. Financing;
-e. Guidance and supervision; and
-f. Sanctions.
+
+- a. General provisions;
+- b. Women's protection;
+- c. Community participation;
+- d. Financing;
+- e. Guidance and supervision; and
+- f. Sanctions.
 
 #### Article 3
 
-Protection of Women is implemented based on the principles of:
-a. Human rights;
-b. Legal certainty;
-c. Justice;
-d. Gender equality; and
-e. Non-discrimination.
+Women's Protection is implemented based on the principles of:
+
+- a. Human rights;
+- b. Legal certainty;
+- c. Justice;
+- d. Gender equality; and
+- e. Non-discrimination.
 
 #### Article 4
 
 The objectives of this Regional Regulation are:
-a. To protect women both individually and in groups and society at large so that a sense of security and fulfillment of their rights is created; and
-b. To prevent and address the risks of violence and vulnerability of women so that their survival can be fulfilled according to the principles of equality and justice.
+
+- a. To protect women both individually and in groups and society at large so that a sense of security is created and their rights are fulfilled; and
+- b. To prevent and address the risk of violence and vulnerability of women so that their survival can be fulfilled according to the principles of equality and justice.
 
 # CHAPTER II
 
-## PROTECTION OF WOMEN
+WOMEN'S PROTECTION
 
 ## Part One
 
-Rights of Women
+Women's Rights
 
 #### Article 5
 
-1. Every woman has the right to:
-a. Live and maintain life and improve her standard of living;
-b. Fulfill her basic needs to grow and develop properly, have a family, and continue offspring;
-c. Develop her personality, to obtain education, and improve her quality of life to become a faithful, pious, responsible, noble, happy, and prosperous human being in accordance with human rights;
-d. Obtain justice, security, and freedom to express opinions without discrimination;
-e. Be involved in every stage of the development process;
-f. Be free from slavery or servitude and threats;
-g. Obtain protection of her person, family, honor, dignity and property rights;
-h. Obtain prosperity and a decent life;
-i. Participate in politics;
-j. Perform legal acts; and
-k. Be free to choose a partner in her marriage.
-2. Every woman during the marriage bond has the same rights and responsibilities as her husband over all matters relating to their married life, relations with their children, and ownership and management of joint property in accordance with the provisions of laws and regulations.
-3. After the dissolution of marriage, a woman has the same rights and responsibilities as her former husband over all matters relating to children with due regard to the best interests of the child.
+(1) Every woman has the right to:
+
+- a. Live and maintain life and improve her standard of living;
+- b. Meet her basic needs to grow and develop properly, have a family, and continue offspring;
+- c. Develop her personality, to obtain education, and improve her quality of life in order to become a person who is faithful, devout, responsible, of good character, happy, and prosperous in accordance with human rights;
+- d. Obtain justice, a sense of security, and freedom to express opinions without discrimination;
+- e. Be involved in every stage of the development process;
+- f. Be free from slavery or being enslaved and threats; g. Obtain protection of her person, family, honor, dignity and property rights;
+- h. Obtain prosperity and a decent life;
+- i. Participate in politics;
+  - j. Perform legal acts; and
+- k. Freely choose a partner in her marriage.
+  - (2) Every woman during the marriage bond has the same rights and responsibilities as her husband over all matters relating to the life of the marriage, relations with their children, and ownership and management of joint property in accordance with the provisions of laws and regulations.
+  - (3) After the dissolution of marriage, a woman has the same rights and responsibilities as her former husband over all matters relating to the children with due regard to the best interests of the children.
 
 ## Part Two
 
@@ -123,45 +138,62 @@ Obligations and Responsibilities
 
 #### Article 6
 
-1. Regional Government has the obligation and responsibility for the protection of women.  
-2. Efforts for the protection of women are carried out in the form of:  
-a. Prevention;  
-b. Handling; and c. Recovery.  
-3. Prevention as referred to in paragraph (2) letter a is implemented in the form of policy determination, implementation guidelines, programs, and activities.  
-4. Handling as referred to in paragraph (2) letter b is implemented in the form of service provision and coordination between service providers.  
-5. Recovery as referred to in paragraph (2) letter c is all efforts to strengthen women victims of violence and victims of trafficking in persons to be more empowered, both physically, psychologically, and economically.  
-6. Efforts for the protection of women as referred to in paragraph (2) are carried out in an integrated manner in accordance with the provisions of laws and regulations.
+(1) The Regional Government has the obligation and responsibility for the protection of women.
+
+(2) Efforts to protect women are carried out in the form of: a. Prevention;
+
+b. Handling; and
+
+c. Recovery.
+
+(3) Prevention as referred to in paragraph (2) letter a is implemented in the form of policy formulation, implementation guidelines, programs, and activities.
+
+(4) Handling as referred to in paragraph (2) letter b is implemented in the form of service provision and coordination among service providers.
+
+(5) Recovery as referred to in paragraph (2) letter c is all efforts to strengthen women victims of violence and victims of trafficking in persons to be more empowered, both physically, psychologically, and economically.
+
+(6) Efforts to protect women as referred to in paragraph (2) are carried out in an integrated manner in accordance with the provisions of laws and regulations.
 
 ## Part Three
 
-Implementation of Women's Protection
+Implementation of Protection of Women
 
 #### Article 7
 
-1. Protection of women includes:  
-a. Social protection;  
-b. Economic protection; and  
-c. Legal protection.  
-2. Social protection as referred to in paragraph (1) letter a is provided in the form of guarantees for the survival of women and ensuring the fulfillment of decent living needs.  
-3. Economic protection as referred to in paragraph (1) letter b is provided in the form of women's empowerment to prevent and address the risk of vulnerability due to economic shocks and social vulnerability of individuals, families, groups and/or communities for the survival of women.  
-4. Legal protection as referred to in paragraph (1) letter c is implemented in the form of legal consultation services, legal assistance and provision of legal aid to women who become witnesses and victims of violence and discrimination.
+(1) Protection of women includes:
+
+- a. Social protection;
+- b. Economic protection; and
+- c. Legal protection.
+  - (2) Social protection as referred to in paragraph (1) letter a is provided in the form of guarantees for the survival of women and ensuring the fulfillment of decent living needs.
+  - (3) Economic protection as referred to in paragraph (1) letter b is provided in the form of women's empowerment to prevent and address risks of vulnerability arising from economic shocks and social vulnerability of individuals, families, groups and/or communities for the survival of women.
+  - (4) Legal protection as referred to in paragraph (1) letter c is implemented in the form of legal consultation services, legal assistance and provision of legal aid to women who become witnesses and victims of violence and discrimination.
 
 #### Article 8
 
-1. Implementation of women's protection is provided to:  
-a. Women workers/laborers;  
-b. Elderly women;  
-c. Women with disabilities;  
-d. Homeless women;  
-e. Domestic workers;  
-f. Women heads of households;  
-g. Women former inmates of correctional institutions;  
-h. Women disaster victims;  
-i. Women former commercial sex workers;  
-j. Women victims of violence;  
-k. Women witnesses and victims; and  
-l. Women victims of trafficking in persons.  
-2. Further provisions regarding the form of implementation of women's protection as referred to in paragraph (1) are regulated by Regent Regulation.
+(1) Implementation of protection of women is provided to: a. Women workers/laborers;
+
+b. Elderly women;
+
+c. Women with disabilities;
+
+d. Homeless women;
+
+e. Women domestic workers;
+
+f. Women heads of household;
+
+g. Women former inmates of correctional institutions; h. Women victims of disasters;
+
+i. Women former commercial sex workers;
+
+j. Women victims of violence;
+
+k. Women witnesses and victims; and
+
+L Women victims of trafficking in persons.
+
+(2) Further provisions regarding the form of implementation of protection of women as referred to in paragraph (1) are regulated by Regent Regulation.
 
 ## Part Four
 
@@ -169,11 +201,12 @@ Violence Against Women
 
 #### Article 9
 
-Every person is prohibited from taking action against women in the form of:  
-a. Physical violence;  
-b. Psychological violence;  
-c. Sexual violence; and/or  
-d. Neglect in the household.
+Every person is prohibited from committing acts against women in the form of:
+
+- a. Physical violence;
+- b. Psychological violence;
+- c. Sexual violence; and/or
+- d. Neglect within the household.
 
 #### Article 10
 
@@ -185,113 +218,133 @@ Psychological violence as referred to in article 9 letter b is an act that resul
 
 #### Article 12
 
-1. Sexual violence as referred to in article 9 letter c includes:  
-a. Sexual violence in the household; and  
-b. Sexual violence outside the household.  
-2. Sexual violence in the household as referred to in paragraph (1) letter a includes:  
-a. Forced sexual intercourse committed against a person residing within the scope of that household; and  
-b. Forced sexual intercourse against one person within the scope of the household with another person for commercial purposes and/or certain purposes.  
-3. Sexual violence outside the household as referred to in paragraph (1) letter b is sexual violence against women who have no connection with the scope of the perpetrator's household.
+(1) Sexual violence as referred to in article 9 letter c includes:
+
+- a. Sexual violence within the household; and
+- b. Sexual violence outside the household.
+  - (2) Sexual violence within the household as referred to in paragraph (1) letter a includes:
+- a. Coercion of sexual relations committed against persons residing within the scope of that household; and b. Coercion of sexual relations of someone within the scope of their household with another person for commercial purposes and/or certain purposes.
+  - (3) Sexual violence outside the household as referred to in paragraph (1) letter b is sexual violence against women who have no connection with the perpetrator's household scope.
 
 #### Article 13
 
-1. Neglect in the household as referred to in article 9 letter d, namely neglecting the wife within the scope of the household, whereas according to the law applicable to him or because of an agreement or contract he is obliged to provide livelihood, care, or maintenance to his wife.  
-2. Neglect as referred to in paragraph (1) also applies to every woman in the household which results in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.
+(1) Neglect within the household as referred to in article 9 letter d, namely neglecting a wife within the scope of their household, whereas according to the law applicable to them or due to agreement or contract they are obliged to provide living, care, or maintenance to their wife.
+
+(2) Neglect as referred to in paragraph (1) also applies to every woman in their household which results in economic dependency by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.
 
 ## Part Five
 
-Women's Protection Strategy
+Strategy for Protection of Women
 
 #### Article 14
 
-1. Protection of women is implemented by integrating gender mainstreaming and gender-disaggregated data in an integrated manner based on the provisions of laws and regulations.  
-2. In the implementation of women's protection, a Working Group and Integrated Services are established.  
-3. Protection of women is coordinated by the Regional Apparatus Organization responsible for women's empowerment and protection.  
-4. The Working Group as referred to in paragraph (2) is established in each sub-district and village/urban village.  
-5. The Working Group carries out women's protection activities under the coordination of the Regional Apparatus Organization responsible for women's empowerment and protection.  
-6. Further provisions regarding the Working Group as referred to in paragraph (2), paragraph (4), and paragraph (5) are regulated by Regent Regulation.
+(1) Protection of women is implemented by integrating gender mainstreaming and gender-disaggregated data in an integrated manner based on the provisions of laws and regulations.
+
+(2) In the implementation of protection of women, Working Groups and Integrated Services are established.
+
+(3) Protection of women is coordinated by the Regional Government Organization in charge of women's empowerment and protection.
+
+(4) Working Groups as referred to in paragraph (2) are established in each district and village/sub-district.
+
+(5) Working Groups carry out activities for the protection of women under the coordination of the Regional Government Organization in charge of women's empowerment and protection.
+
+(6) Further provisions regarding Working Groups as referred to in paragraph (2), paragraph (4), and paragraph (5) are regulated by Regent Regulation.
 
 ## Part Six
 
-Mechanism for the Implementation of Women's Protection
+Mechanism for Implementation of Protection of Women
 
 #### Article 15
 
-1. The mechanism for the implementation of women's protection is carried out through stages:  
-a. Formulation of policy planning for programs and activities;  
-b. Budgeting of programs and activities;  
-c. Implementation of programs and activities; and  
-d. Monitoring, evaluation and reporting.  
-2. Further provisions regarding the mechanism for the implementation of women's protection as referred to in paragraph (1) are regulated by Regent Regulation.
+(1) The mechanism for implementation of protection of women is carried out through the stages of:
+
+- a. Formulation of program and activity planning policies; b. Budgeting of programs and activities;
+- c. Implementation of programs and activities; and
+- d. Monitoring, evaluation and reporting.
+  - (2) Further provisions regarding the mechanism for implementation of protection of women as referred to in paragraph (1) are regulated by Regent Regulation.
 
 # CHAPTER III
 
-## COMMUNITY PARTICIPATION
+COMMUNITY PARTICIPATION
 
 #### Article 16
 
-1. Every person, family, group, community organization and/or Non-Governmental Organization may participate in efforts to protect women.  
-2. Participation as referred to in paragraph (1) may be carried out through related agencies coordinated by the Regional Apparatus Organization responsible for women's empowerment and protection.  
-3. Further provisions regarding the form and procedures for participation as referred to in paragraph (1) and paragraph (2) are regulated by Regent Regulation.
+(1) Every person, family, group, community organization and/or Non-Governmental Organization may participate in efforts to protect women.
+
+(2) Participation as referred to in paragraph (1) may be carried out through related agencies coordinated by the Regional Government Organization in charge of women's empowerment and protection.
+
+(3) Further provisions regarding the form and procedure for participation as referred to in paragraph (1) and paragraph (2) are regulated by Regent Regulation.
 
 # CHAPTER IV
 
-## FINANCING
+FINANCING
 
 #### Article 17
 
-All costs for the implementation of policy planning for programs and activities related to Women's Empowerment and Protection are sourced from:  
-a. Regional Revenue and Expenditure Budget;  
-b. Village Revenue and Expenditure Budget;  
-c. Corporate Social Responsibility in accordance with the provisions of laws and regulations;  
-d. Community participation; and/or  
-e. Other legal and non-binding sources.
+All costs of implementing policy planning for programs and activities related to Women's Empowerment and Protection are sourced from: a. Regional Revenue and Expenditure Budget;
 
-##### CHAPTER V
+b. Village Revenue and Expenditure Budget;
 
-##### GUIDANCE AND SUPERVISION
+c. Corporate Social Responsibility in accordance with the provisions of laws and regulations; d. Community participation; and/or
+
+e. Other sources that are lawful and non-binding.
+
+# CHAPTER V
+
+GUIDANCE AND SUPERVISION
 
 #### Article 18
 
-1. The Regent or Regional Apparatus responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.  
-2. The forms of guidance as referred to in paragraph (1) are as follows:  
-a. Providing socialization to the community regarding women's protection policies;  
-b. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;  
-c. Facilitating capacity building of women's protection institutions;  
-d. Facilitating women's participation forums and women's organizations;  
-e. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;  
-f. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and  
-g. Providing awards to the community and business sector both individually and institutionally that have made efforts to protect women.  
-3. The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities on women's protection.
+(1) The Regent or Regional Government Organization in charge of women's empowerment and protection conducts guidance and supervision over the protection of women.
+
+(2) The forms of guidance as referred to in paragraph (1) are as follows:
+
+- a. Providing socialization to the community regarding policies on protection of women;
+- b. Providing books, leaflets, brochures regarding protection of women, and other related issues as well as disseminating them to the community;
+- c. Facilitation of capacity building for women's protection institutions; d. Facilitation of forums for women's participation and women's organizations; e. Facilitation of rehabilitation and reintegration services for women victims of disasters and victims of violence;
+- f. Coordinating the participation of the business world and other institutions, including international assistance for the protection of women; and
+- g. Providing awards to the community and business world both individually and institutionally who have made efforts to protect women.
+  - (3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities on the protection of women.
 
 #### Article 19
 
-Any person who violates the provisions as referred to in Article 9 shall be subject to criminal sanctions in accordance with the provisions of laws and regulations.
+Any person who violates the provisions as referred to in Article 9 shall be punished in accordance with the provisions of laws and regulations.
 
 # CHAPTER VI
 
-## CLOSING PROVISIONS
+CLOSING PROVISIONS
 
 #### Article 20
 
-This Regional Regulation shall come into force on the date of promulgation.  
-In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of West Muna Regency.  
+This Regional Regulation shall come into force on the date of promulgation. In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of West Muna Regency.
 
-Enacted in Laworo on the date 2 - 2 - 2022 Promulgated in Laworo on the date 2 - 2 - 2022  
+Enacted in Laworo on 2 - 2 - 2022
 
-REGIONAL SECRETARY OF WEST MUNA REGENCY,  
+Promulgated in Laworo on 2 - 2 - 2022
+
+REGIONAL SECRETARY OF WEST MUNA REGENCY,
 
 REGISTRATION NUMBER OF REGIONAL REGULATION OF WEST MUNA REGENCY, SOUTHEAST SULAWESI PROVINCE NUMBER: 5/24/2022
 
-# ELUCIDATION OF REGIONAL REGULATION OF WEST MUNA REGENCY
+I.
 
-NUMBER 5 OF 2022 CONCERNING PROTECTION OF WOMEN
+ELUCIDATION
 
-##### I. GENERAL
+ON
 
-The 1945 Constitution of the Republic of Indonesia mandates the Government of the Republic of Indonesia to protect the entire Indonesian homeland and for regional governments to regulate and manage their own governmental affairs directed towards accelerating the realization of community welfare through improved services, empowerment, and protection of the community. The authority of Regional Governments is to make regional policies to provide protection and services, increase participation, initiative, and community empowerment aimed at improving people's welfare. The implementation of regional autonomy must always be oriented towards improving community welfare by always paying attention to the interests and aspirations that grow in society. Therefore, governmental affairs related to basic services such as basic education, health, fulfillment of minimum living needs, basic environmental infrastructure must be fulfilled. Human rights are basic rights that are inherently and absolutely attached to human beings, are universal and eternal, so they must be protected, respected, maintained, and may not be ignored, reduced, or seized by anyone. In the context of Upholding Human Rights (HAM) to ensure justice for every individual by seeking to prevent all forms of unbalanced treatment or deemed detrimental to other parties, whether between individuals, between groups of individuals, or between individuals and between government and society, including the process of marginalization of women that makes women vulnerable to acts of violence, discrimination and exploitation in both domestic and public spheres. Women have the same and equal rights as men, but in some discriminatory conditions, the government is obliged to implement affirmative action so that the rights of women and women in vulnerable groups need to receive protection so as not to experience violence and can live a decent life according to the principles of humanity, equality and justice. The protection of women is carried out in order to realize gender equality and justice as well as Human Rights. To carry out these affairs, serious efforts are needed to improve the protection of women through a program approach based on regulations in the form of Regional Regulations that provide certainty, justice and benefits. Based on this, the Government of West Muna Regency as the party that has the authority to regulate and protect the citizens of West Muna Regency, deems it necessary to continuously carry out and formulate regulations in order to provide guarantees for the protection of women in West Muna Regency. This regional regulation is expected to be able to encourage efforts to protect and improve the physical and mental conditions of women in fulfilling their rights and life needs as part of human rights, increase the commitment and effectiveness of regional governments in implementing policies, programs and activities and encourage the institutional capacity of government and society that improves the quality of life of women.
+REGIONAL REGULATION OF WEST MUNA REGENCY
 
-##### II. ARTICLE BY ARTICLE
+NUMBER 5 OF 2022
+
+REGARDING
+
+PROTECTION OF WOMEN
+
+GENERAL
+
+The 1945 Constitution of the Republic of Indonesia mandates the Government of the Republic of Indonesia to protect the entire Indonesian nation and in order that regional governments regulate and manage their own governmental affairs directed towards accelerating the realization of community welfare through the improvement of services, empowerment, and protection of the community. The authority of Regional Governments is to make regional policies to provide protection and services, increase participation, initiative, and community empowerment aimed at improving the welfare of the people. The implementation of regional autonomy must always be oriented towards improving community welfare while always paying attention to the interests and aspirations that grow in society. Therefore, governmental affairs related to basic services such as basic education, health, fulfillment of minimum living needs, basic environmental infrastructure must be fulfilled. Human rights are basic rights that are inherently and absolutely attached to human beings, are universal and lasting, so they must be protected, respected, maintained, and must not be ignored, reduced, or violated by anyone. In the context of upholding Human Rights (HAM) to guarantee justice for each individual by seeking to prevent all forms of unbalanced treatment or treatment deemed detrimental to other parties, whether between individuals, between groups of individuals, or between individuals and between government and society, including the process of marginalization of women which causes women to be vulnerable to acts of violence, discrimination and exploitation in both domestic and public spheres. Women have equal rights with men, but in some discriminatory conditions, the government must implement affirmative action so that the rights of women and women in vulnerable groups need to receive protection so as not to experience violence and can live a decent life according to the principles of humanity, equality and justice. The protection of women is implemented in order to realize gender equality and justice as well as Human Rights. To carry out these affairs, serious efforts are needed to improve the protection of women through a program approach based on regulations in the form of Regional Regulations that provide certainty, justice and benefits. Based on this, the West Muna Regency Government as the party with the authority to regulate and protect the residents of West Muna Regency, deems it necessary to continuously carry out and formulate regulations to provide guarantees for the protection of women in West Muna Regency. This regional regulation is expected to be able to encourage efforts to protect and improve the physical and mental conditions of women in fulfilling their rights and living needs as part of human rights, increase the commitment and effectiveness of regional governments in implementing policies, programs and activities as well as encourage the institutional capacity of government and society to improve the quality of life of women.
+
+II. ARTICLE BY ARTICLE
 
 #### Article 1
 
@@ -303,89 +356,155 @@ Sufficiently clear.
 
 #### Article 3
 
-Letter a What is meant by "human rights" is a set of rights inherent in the essence and existence of human beings as creatures of Almighty God and is His gift that must be respected, upheld and protected by the state, law, Government, and every person for the sake of honor and protection of human dignity and worth.  
+Letter a
 
-Letter b What is meant by "legal certainty" is the existence of a foundation of laws and regulations, compliance, and justice in every policy of state administration.  
+What is meant by "human rights" is a set of rights inherent in the nature and existence of human beings as creatures of the Almighty God and constitutes His gift which must be respected, upheld and protected by the state, law, Government, and every person for the honor and protection of human dignity and worth.
 
-Letter c What is meant by "justice" is an ideal condition of truth that has philosophical and moral value regarding something, whether concerning objects or persons.  
+Letter b
 
-Letter d What is meant by "gender equality" is fair rights for men and women according to fairness without bias.  
+What is meant by "legal certainty" is the existence of a foundation of laws and regulations, compliance, and justice in every policy of state administration.
 
-Letter e What is meant by "non-discriminatory" is not differentiating treatment in all matters related to the basis of ethnicity, race, religion, class, sex and gender.
+Letter c
 
-#### Article 4
+What is meant by "justice" is a condition of ideal truth that has philosophical and moral value regarding something, whether concerning things or persons.
 
-Sufficiently clear.
-
-#### Article 5
-
-Sufficiently clear.
+#### Article 4 Article 5
 
 #### Article 6
 
-Sufficiently clear.  
+Letter d
 
-Paragraph (1) Letter a Sufficiently clear.  
+What is meant by "gender equality" is fair rights towards men and women according to fairness without bias.
 
-Letter b Sufficiently clear.  
+Letter e
 
-Letter c Sufficiently clear.  
-
-Letter d Sufficiently clear.  
-
-Letter e What is meant by "stages" of the development process is through the preparation of the Regional Medium-Term Development Plan (RPJMD), Strategic Plan (RENSTRA), Regional Government Work Plan (RKPD), and Work Plan (RENJA).  
-
-Letter f Sufficiently clear.  
-
-Letter g Sufficiently clear.  
-
-Letter h Sufficiently clear.  
-
-Letter i Sufficiently clear.  
-
-Letter j Sufficiently clear.  
-
-Letter j Sufficiently clear.  
-
-Letter k Sufficiently clear.  
-
-Paragraph (2) Sufficiently clear.  
-
-Paragraph (3) Sufficiently clear.  
+What is meant by "non-discriminatory" is not differentiating treatment in all matters relating to ethnicity, race, religion, group, sex and gender.
 
 Sufficiently clear.
 
-#### Article 7
+Paragraph (1)
+
+Letter a
 
 Sufficiently clear.
 
-#### Article 8
+Letter b
 
-Paragraph (1) Letter a What is meant by "Female Worker/Laborer" is a woman who works by receiving wages or remuneration in other forms.
+Sufficiently clear.
 
-Letter b What is meant by "Elderly woman" is a woman who has reached 60 years of age and above. Letter c What is meant by "Woman with disability" is a woman who experiences physical and/or mental barriers that disrupt her activities and social interaction in a normal manner.
+Letter c
 
-Letter d What is meant by "Homeless Woman" is a woman who does not have a permanent place of residence and for various reasons must live under bridge overpasses, public parks, roadsides or various other public facilities to sleep and carry out daily life. Letter e What is meant by "Female Domestic Worker" is a person who works for one or several persons in a household to perform household work in return for wages.
+Sufficiently clear.
 
-Letter f What is meant by "Female Head of Household" is a woman who, for various reasons, is left by her husband, and ultimately acts or contributes and functions to carry out the role and responsibilities as head of household.
+Letter d
 
-Letter g What is meant by "Female former resident of correctional institution" is a woman who has served a sentence in a correctional institution.
+Sufficiently clear.
 
-Letter h What is meant by "Female disaster victim" is a woman who suffers or dies as a result of natural and social disasters. Post-disaster recovery includes psychological services for victims, health services, residential facilities, public facilities and infrastructure, economic access recovery as well as population data services and legal aid.
+Letter e
 
-Letter i What is meant by "Female former commercial sex worker" is a woman who has worked and has stopped working as a commercial sex worker.
+What is meant by "stages" of the development process is through the preparation of Regional Medium-Term Development Plans (RPJMD), Strategic Plans (RENSTRA), Regional Government Work Plans (RKPD), and Work Plans (RENJA).
 
-Life skills enhancement for female former commercial sex workers is intended to provide additional knowledge through training and skills in accordance with the talents and abilities possessed so that they can live more independently and obtain decent work to improve their standard of living and change their social status so as not to become commercial sex workers again because such work is not legalized.
+Letter f
 
-Letter j What is meant by "Female Victim of Violence" is a woman who experiences physical, mental suffering, and/or economic loss caused by a criminal act.
+Sufficiently clear.
 
-Letter k What is meant by "witness" is a person who can provide information for the purposes of investigation, inquiry, prosecution, and examination in court regarding a criminal case that he heard himself, he saw himself, and/or he experienced himself.
+Letter g
 
-What is meant by "Victim" is a person who experiences physical, mental suffering, and/or economic loss caused by a criminal act.
+Sufficiently clear.
 
-Letter l Sufficiently clear.
+Letter h
 
-Paragraph (2) Sufficiently clear.
+Sufficiently clear.
+
+Letter i
+
+Sufficiently clear.
+
+Letter j
+
+Sufficiently clear.
+
+Letter j
+
+Sufficiently clear.
+
+Letter k
+
+Sufficiently clear.
+
+Paragraph (2)
+
+Sufficiently clear.
+
+Paragraph (3)
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+#### Article 7 Article 8
+
+Sufficiently clear.
+
+Paragraph (1)
+
+Point a
+
+What is meant by "Female Worker/Laborer" is a woman who works receiving wages or compensation in other forms.
+
+Point b
+
+What is meant by "Elderly woman" is a woman who has reached 60 years of age and above
+
+Point c
+
+What is meant by "Women with disabilities" is women who experience physical and/or mental barriers that disrupt their activities and social interactions normally.
+
+Point d
+
+What is meant by "Homeless Women" is women who do not have a permanent place of residence and for various reasons must live under bridges, public parks, roadsides or various other public facilities to sleep and carry out daily life
+
+Point e
+
+What is meant by "Female Domestic Worker" is a person who works for one or several people in a household to perform household work for wages.
+
+Point f
+
+What is meant by "Female Head of Household" is a woman who for various reasons, is left by her husband, and ultimately acts or contributes and functions to carry out her role and responsibilities as head of household.
+
+Point g
+
+What is meant by "Former female inmates" of correctional institutions is women who have served sentences in correctional institutions.
+
+Point h
+
+What is meant by "Female disaster victims" is women who suffer or die as a result of natural and social disasters. Post-disaster recovery includes psychological services for victims, health services, residential facilities, public infrastructure and facilities and restoration of economic access as well as population data services and legal assistance.
+
+Point i
+
+What is meant by "Former female commercial sex workers" is women who have worked and have stopped as commercial sex workers.
+
+Improvement of life skills for former female commercial sex workers is intended to provide additional knowledge through training and skills in accordance with their talents and abilities so they can live more independently and obtain decent work to improve their standard of living and change their social status so as not to become commercial sex workers again because such work is not legalized.
+
+Point j
+
+What is meant by "Female Victims of
+
+Violence" is women who experience physical, mental suffering, and/or economic loss resulting from a criminal act.
+
+Point k
+
+What is meant by "witness" is a person who can provide information for the purposes of inquiry, investigation, prosecution, and examination in court regarding a criminal case that he heard himself, he saw himself, and/or he experienced himself.
+
+What is meant by "Victim" is a person who experiences physical, mental suffering, and/or economic loss resulting from a criminal act.
+
+Point l
+
+Sufficiently clear.
+
+Paragraph (2)
+
+Sufficiently clear.
 
 #### Article 9
 
@@ -405,27 +524,37 @@ Sufficiently clear.
 
 #### Article 13
 
-Paragraph (1) Sufficiently clear.
+Paragraph (1)
 
-Paragraph (2) What is meant by "every woman in her household" is a woman other than the wife who lives together within the household environment. Neglect in the household includes that which results in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.
+Sufficiently clear.
+
+Paragraph (2)
+
+What is meant by "every woman in the household" is women other than the wife who live together in the household circle. Neglect in the household includes that which results in economic dependence by limiting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.
 
 #### Article 14
 
-Paragraph (1) What is meant by "Gender Mainstreaming" is a strategy built to integrate gender into an integral dimension of planning, budgeting, implementation, monitoring, and evaluation of development policies, programs and activities.
+Paragraph ( 1)
 
-Gender Mainstreaming is a strategy that can..
+What is meant by "Gender Mainstreaming" is a strategy built to integrate gender as an integral dimension of planning, budgeting, implementation, monitoring, and evaluation of development policies, programs and activities. Gender Mainstreaming is a strategy that can reduce gender gaps to achieve gender equality by using a gender perspective in the development process, women's empowerment is an affirmative strategy to achieve gender equality aimed at improving the fulfillment of women's rights to protection from acts of violence and discrimination.
 
-reduce gender gaps to achieve gender equality by using a gender perspective in the development process, women's empowerment is an affirmative strategy to achieve gender equality that aims to increase the fulfillment of women's rights to protection from acts of violence and discrimination.
+Paragraph (2)
 
-Paragraph (2) Integrated services may take the form of Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA or other Integrated Service Centers, which is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.
+Integrated services may take the form of the Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA or other Integrated Service Centers which are regional technical implementation units established by regional governments in providing services for women and children who experience violence, discrimination, special protection, and other problems. Paragraph (3)
 
-Paragraph (3) Sufficiently clear.
+Sufficiently clear.
 
-Paragraph (4) Sufficiently clear.
+Paragraph (4)
 
-Paragraph (5) Sufficiently clear.
+Sufficiently clear.
 
-Paragraph (6) Sufficiently clear.
+Paragraph (5)
+
+Sufficiently clear.
+
+Paragraph (6)
+
+Sufficiently clear.
 
 #### Article 15
 
@@ -435,20 +564,8 @@ Sufficiently clear.
 
 Sufficiently clear.
 
-#### Article 17
+#### Article 17 Article 18 Article 19 Article 20
 
-Sufficiently clear.
-
-#### Article 18
-
-Sufficiently clear.
-
-#### Article 19
-
-Sufficiently clear.
-
-#### Article 20
-
-Sufficiently clear.
+Sufficiently clear. Sufficiently clear. Sufficiently clear. Sufficiently clear.
 
 SUPPLEMENT TO THE REGIONAL GAZETTE OF WEST MUNA REGENCY NUMBER 5

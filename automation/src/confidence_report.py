@@ -30,6 +30,8 @@ STATUS_NO_DATA = "no_confidence_data"
 #: Column prefix under which each method's own score is carried through the
 #: golden join, e.g. `conf_logprobs`, `conf_margin`, `conf_verbalized`.
 CONFIDENCE_METHOD_PREFIX = "conf_"
+#: The same methods scored for the coverage answer (see `build_level_report`).
+COVERAGE_METHOD_PREFIX = "covconf_"
 
 DEFINITIONS = {
     "probability": "exp(logprob) of the tokens spelling the Yes/No answer",
@@ -520,11 +522,10 @@ def _method_comparison(methods: dict[str, dict], primary: str | None) -> list[di
     )
 
 
-def build_confidence_report(
+def _build_yes_no_report(
     merged_df: pd.DataFrame,
     config: ConfidenceReportConfig | None = None,
     *,
-    run_id: str | None = None,
     model: str | None = None,
     temperature: float | None = None,
     evaluation_dir: str | None = None,
@@ -551,7 +552,6 @@ def build_confidence_report(
 
     report = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "run_id": run_id,
         "status": STATUS_OK if len(conf_df) else STATUS_NO_DATA,
         "definitions": DEFINITIONS,
         "primary_method": resolved_method,
@@ -594,6 +594,128 @@ def build_confidence_report(
         name: analyse_scores(df, column, config) for name, column in sorted(columns.items())
     }
     report["method_comparison"] = _method_comparison(report["methods"], resolved_method)
+    return report
+
+
+LEVEL_NAMES = {0.0: "No", 1.0: "Referenced only", 2.0: "Substantive"}
+
+LEVEL_DEFINITIONS = {
+    "scope": (
+        "The coverage answer (e.g. Substantive vs Referenced only) is scored on its own, independently of the Yes / No "
+        "answer. Only pairs where the golden label AND the prediction are both above No take part: the level of "
+        "something that was not found cannot be judged."
+    ),
+    "confidence": "the judge's confidence in the coverage value it gave, by the same methods as the Yes / No one",
+    "correct": "the predicted level equals the golden level",
+    "level_over": "predicted a higher level than the golden label",
+    "level_under": "predicted a lower level than the golden label",
+}
+
+
+def _level_error_type(golden: float, pred: float) -> str:
+    if golden == pred:
+        return "correct"
+    return "level_over" if pred > golden else "level_under"
+
+
+def _level_frame(merged_df: pd.DataFrame) -> pd.DataFrame:
+    """Pairs on which a level can be judged, shaped so the Yes / No analysis helpers work on them unchanged.
+
+    `value` / `pred_value` become the golden and predicted LEVELS, `confidence` and the `conf_<method>` columns become
+    the coverage ones, and the Yes / No scores are dropped so nothing of them can leak in.
+    """
+    df = merged_df.copy()
+    both_positive = (df["pred_value"] == 1.0) & (df["golden_level"] > 0) & df["pred_level"].notna()
+    df = df[both_positive].copy()
+
+    df = df.drop(columns=[c for c in df.columns if c.startswith(CONFIDENCE_METHOD_PREFIX)])
+    df["value"] = df["golden_level"]
+    df["pred_value"] = df["pred_level"]
+    df["confidence"] = df.get("coverage_confidence", np.nan)
+    df["confidence_source"] = df.get("coverage_confidence_source")
+    for column in ("answer_logprob", "p_yes", "p_no", "margin"):
+        df[column] = np.nan
+    if "coverage_answer_logprob" in df.columns:
+        df["answer_logprob"] = df["coverage_answer_logprob"]
+    if "coverage_margin" in df.columns:
+        df["margin"] = df["coverage_margin"]
+    for column in [c for c in df.columns if c.startswith(COVERAGE_METHOD_PREFIX)]:
+        df[CONFIDENCE_METHOD_PREFIX + column[len(COVERAGE_METHOD_PREFIX):]] = df[column]
+
+    df = prepare_frame(df)
+    df["golden_label"] = df["value"].map(lambda v: LEVEL_NAMES.get(float(v), str(v)))
+    df["pred_label"] = df["pred_value"].map(lambda v: LEVEL_NAMES.get(float(v), str(v)))
+    df["error_type"] = [_level_error_type(g, p) for g, p in zip(df["value"], df["pred_value"])]
+    return df
+
+
+def build_level_report(
+    merged_df: pd.DataFrame,
+    config: ConfidenceReportConfig | None = None,
+    *,
+    primary_method: str | None = None,
+) -> dict | None:
+    """The confidence report of the coverage answer, independent of the Yes / No one.
+
+    None when the evaluation carries no coverage at all (so a run without `evaluation.coverage` gets exactly the
+    report it always had). Without golden levels (no ``golden_level`` column: the golden is Yes / No only) there is
+    nothing to be correct about, and the section says so.
+    """
+    if "pred_level" not in merged_df.columns:
+        return None
+    config = config or ConfidenceReportConfig()
+    report: dict = {"definitions": LEVEL_DEFINITIONS, "status": STATUS_OK, "primary_method": primary_method}
+
+    if "golden_level" not in merged_df.columns:
+        report["status"] = "no_level_labels"
+        report["note"] = "the golden dataset has no levels above 1, so the level cannot be scored"
+        return report
+
+    df = _level_frame(merged_df)
+    columns = method_columns(df)
+    primary_column, resolved_method, warning = resolve_primary_column(df, primary_method)
+    conf_df = df[df[primary_column].notna()]
+    report.update(
+        primary_method=resolved_method,
+        primary_method_warning=warning,
+        pairs=int(len(df)),
+        pairs_with_confidence=int(len(conf_df)),
+        availability=_ratio(len(conf_df), len(df)),
+        baseline={
+            "accuracy": _ratio(int(df["correct"].sum()), len(df)),
+            "pairs": int(len(df)),
+            "error_count": int(df["is_error"].sum()),
+            "error_rate": _ratio(int(df["is_error"].sum()), len(df)),
+            "by_error_type": {str(k): int(v) for k, v in df["error_type"].value_counts().to_dict().items()},
+        },
+    )
+    if df.empty:
+        report["status"] = "no_pairs_above_no"
+        return report
+    if conf_df.empty:
+        report["status"] = STATUS_NO_DATA
+        return report
+
+    primary_block = analyse_scores(df, primary_column, config, include_sample=True)
+    for key in ("distribution", "coverage", "calibration", "discrimination", "breakdowns", "flagged_sample"):
+        report[key] = primary_block.get(key)
+    report["methods"] = {name: analyse_scores(df, column, config) for name, column in sorted(columns.items())}
+    report["method_comparison"] = _method_comparison(report["methods"], resolved_method)
+    return report
+
+
+def build_confidence_report(
+    merged_df: pd.DataFrame,
+    config: ConfidenceReportConfig | None = None,
+    **context,
+) -> dict:
+    """The confidence report: the Yes / No answer's, plus, when the evaluation carries a coverage answer, its own
+    under the key ``level`` (scored independently; see `build_level_report`). Without coverage the report is exactly
+    the Yes / No one."""
+    report = _build_yes_no_report(merged_df, config, **context)
+    level = build_level_report(merged_df, config, primary_method=context.get("primary_method"))
+    if level is not None:
+        report["level"] = level
     return report
 
 

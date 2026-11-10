@@ -1,0 +1,894 @@
+# No. 3, 2021
+
+No. 3, 2021
+
+REGIONAL GAZETTE
+
+CITY OF PADANGSIDIMPUAN
+
+PEMKO-PSP. Empowerment of Women and Protection of Children in the City of Padang
+
+Sidimpuan.
+
+MAYOR OF PADANG SIDIMPUAN
+
+NORTH SUMATRA PROVINCE
+
+REGIONAL REGULATION OF THE CITY OF PADANG SIDIMPUAN NUMBER 3 OF 2021
+
+CONCERNING
+
+EMPOWERMENT OF WOMEN AND PROTECTION OF CHILDREN
+
+BY THE GRACE OF GOD ALMIGHTY
+
+MAYOR OF PADANG SIDIMPUAN,
+
+Considering a. that women and children are creatures of God Almighty who have human rights guaranteed by the 1945 Constitution of the Republic of Indonesia, therefore women and children must be protected from all forms of violence and discrimination;
+
+b. that violence against women and children in the Region tends to increase, therefore the Regional Government and/or the community needs to play an active role optimally to provide protection, so that women and children are protected and free from violence or threats of violence, torture, or treatment that degrades human dignity;
+
+c. that protection of women and children is a mandatory concurrent affair that is the authority, obligation, and responsibility of the Regional Government, so that regulation is needed as a basis for the implementation of comprehensive and integrated protection of women and children;
+
+d. that based on the considerations referred to in letters a, b and c, it is necessary to establish a Regional Regulation concerning Empowerment of Women and Protection of Children in the City of Padang Sidimpuan;
+
+In view of 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
+
+2021, No. 3
+
+3. Law Number 5 of 1998 concerning Ratification of the Convention Against Torture and Other Cruel, Inhuman or
+
+Degrading Treatment or Punishment (State Gazette of the Republic of Indonesia of 1998 Number 164, Supplement to the State Gazette of the Republic of Indonesia Number 3783);
+
+4. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+
+5. Law Number 4 of 2001 concerning Establishment of the City of Padang Sidimpuan (State Gazette of the Republic of Indonesia Number 84 of 2001, Supplement to the
+
+State Gazette of the Republic of Indonesia Number 4111);
+
+6. Law Number 20 of 2003 concerning National Education System (State Gazette of the Republic of Indonesia of 2003 Number 78, Supplement to the State Gazette of the Republic of Indonesia Number 4301);
+
+7. Law Number 23 of 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4844);
+
+8. Law Number 21 of 2007 concerning Eradication of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+9. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times, most recently by Law Number 9 of 2015 concerning Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+10. Law Number 17 of 2016 concerning Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning Second Amendment to Law Number 23 of 2002 concerning Child Protection into Law (State Gazette of the Republic of Indonesia of 2016 Number 237, Supplement to the State Gazette of the Republic of Indonesia Number 5946);
+
+11.Government Regulation Number 10 of 1983 concerning Marriage and Divorce Permits for Civil Servants (State Gazette of the Republic of Indonesia of 1983 Number 13, Supplement to the State Gazette of the Republic of Indonesia Number 3250) as amended by Government Regulation Number 45 of 1990 concerning Amendment to Government Regulation Number 10 of 1983 concerning Marriage and Divorce Permits for Civil Servants (State Gazette of the Republic of Indonesia of 1990 Number 61, Supplement to the State Gazette of the Republic of Indonesia Number 3424);
+
+12. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation in Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);
+
+2021, No. 3
+
+13. Government Regulation Number 38 of 2007 concerning Division of Government Affairs Between the Government, Provincial Regional Government and Regency/City Regional Government (State Gazette of the Republic of Indonesia of 2007 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 4737);
+
+14. Presidential Instruction Number 5 of 2014 concerning National Movement Against Sexual Crimes Against Children;
+
+15. Regulation of the Minister of Women's Empowerment and Child Protection Number 1 of 2010 concerning Minimum Service Standards for Integrated Services for Women and Children Victims of Violence;
+
+16. Regulation of the Minister of Women's Empowerment and Child Protection Number 1 of 2011 concerning Evaluation Guidelines for Child-Friendly Regencies/Cities;
+
+17. Regulation of the Minister of Women's Empowerment and Child Protection Number 11 of 2011 concerning Policy for Development of Child-Friendly Regencies/Cities;
+
+18. Regulation of the Minister of Women's Empowerment and Child Protection Number 12 of 2011 concerning Indicators for Child-Friendly Regencies/Cities;
+
+19. Regulation of the Minister of Women's Empowerment and Child Protection Number 13 of 2011 concerning Guidelines for Development of Child-Friendly Regencies/Cities;
+
+20. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036), as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 Concerning Formation of Regional Legal Products (State News of the Republic of Indonesia of 2019 Number 157);
+
+21. Regional Regulation of North Sumatra Province Number of 2004 concerning Elimination of the Worst Forms of Child Labor (Regional Gazette of North Sumatra Province Number 18 of 2004, Supplement to the Regional Gazette of North Sumatra Province Series E Number 12);
+
+22. Regional Regulation of North Sumatra Province Number 6 of 2004 concerning Elimination of Trafficking in Women and Children (Regional Gazette of North Sumatra Province Number 19 of 2004, Supplement to the Regional Gazette of North Sumatra Province Series E Number 13);
+
+23. Regulation of the Governor of North Sumatra Number 17 of 2012 concerning Task Force for Child-Friendly Regencies/Cities (KLA) of North Sumatra Province;
+
+24. Decree of the Governor of North Sumatra Number 188-44/502/KPTT/2013, dated August 16, 2013 concerning Determination of Child-Friendly Regencies/Cities for 2013;
+
+2021, No. 3
+
+With Joint Approval
+
+REGIONAL HOUSE OF REPRESENTATIVES OF THE CITY OF PADANG SIDIMPUAN and
+
+MAYOR OF PADANG SIDIMPUAN
+
+HAS DECIDED:
+
+To enact : REGIONAL REGULATION CONCERNING EMPOWERMENT OF WOMEN AND PROTECTION OF CHILDREN
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+- 1. Region is the City of Padang Sidempuan.
+- 2. Regional Government is the administration of governmental affairs by the Regional Government and Regional House of Representatives according to the principles of autonomy and co-administration with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.
+- 3. Regional Government is the Mayor as an element of Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.
+- 4. Mayor is the Mayor of Padang Sidempuan.
+- 5. Regional House of Representatives, hereinafter abbreviated as DPRD of Padang Sidempuan City, is a Regional People's Representative Institution positioned as an element of Regional Government Administration.
+- 6. Regional Apparatus is an auxiliary element of the Mayor and Regional House of Representatives in the administration of government affairs that are the authority of the region.
+- 7. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.
+- 8. Women Empowerment and Child Protection System is the entire process of organizing women empowerment and child protection carried out comprehensively, inclusively, and integratively from the stage of report/complaint handling services, health services, social rehabilitation, law enforcement and legal assistance, to repatriation and social reintegration for women and children victims of crime and violence to their social environment.
+- 9. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.
+
+2021, No.3
+
+10. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can change due to the social and cultural conditions of society.
+
+11. Victim is a person who experiences physical, mental suffering, and/or economic loss resulting from a criminal act.
+
+12. Violence is any act that causes injury or death to another person or causes physical damage or damage to another person's property.
+
+13. Violence against women is any action based on gender differences that results or may result in misery or suffering to women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.
+
+14. Violence against children is any action that results or may result in suffering to children physically, sexually, economically, socially and psychologically.
+
+15. Victim is a woman and child who experiences violence and/or suffering as a result of violence and/or threat of violence.
+
+16. Community is individuals, families, groups, social organizations and/or community organizations. 17. Family is the smallest unit in society consisting of husband and wife, or husband, wife and children, or father and children, as well as mother and children and among people who are their dependents.
+
+18. Social Rehabilitation is a service aimed at restoring and developing the abilities of a person experiencing social dysfunction so that they can perform their social functions properly.
+
+19. Repatriation is an effort to return victims of violence from a regional area to their area of origin.
+
+20. Social Reintegration is an effort to reunite victims with family, substitute family, or community that can provide protection and fulfillment of needs for victims.
+
+2 1. Prevention is a direct effort carried out by the regional government to prevent acts of violence against women and children.
+
+22. Companion is a person or representative from an institution that has expertise in accompanying victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.
+
+23. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.
+
+24. Child-Friendly City, hereinafter abbreviated as KLA, is a city that has a child rights-based development system through the integration of commitments and resources of government, community and business world that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights.
+
+2021, No. 3
+
+25. Child-friendly city task force, hereinafter abbreviated as KLA task force, is a coordinating institution at the city level that coordinates policies, programs and activities to realize KLA.
+
+29.Business Entity is an institution that carries out daily activities seeking profit and gain, but has a commitment to the protection of women and children.
+
+26. Business Entity is an institution that carries out daily activities seeking profit and gain, but has a commitment to the protection of women and children
+
+27. Social Welfare is a condition of fulfillment of material, spiritual, and social needs of citizens so that they can live decently and are able to develop themselves, so that they can perform their social functions.
+
+28. Gender mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development program policies.
+
+29. Integrated Service Center for the Protection of Women and Children, hereinafter abbreviated as P2TP2A, is an integrated service center in efforts to empower women in various fields of development, as well as protection of women and children from various types of discrimination and acts of violence, including human trafficking, established by the regional government or community-based, which includes: referral centers, business consultation centers, reproductive health consultation centers, legal consultation centers, integrated crisis centers (PKT), integrated service centers (PPT), trauma recovery centers (trauma centers), women's crisis handling centers (women crisis centers), training centers, science and technology information centers (PIPTEK), safe houses (shelters), transit houses, child helpline (TESA) 129, or other forms.
+
+# CHAPTER II
+
+PRINCIPLES
+
+#### Article 2
+
+The implementation of Protection of Women and Children is carried out based on the principles of:
+
+- a. respect and fulfillment of victims' rights; b. justice and gender equality;
+- c. non-discrimination;
+- d. best interests of victims;
+- e. legal certainty;
+- f. legal protection;
+- g. empowerment.
+
+# CHAPTER lII
+
+PURPOSE AND OBJECTIVES
+
+#### Article 3
+
+(1) The purpose of establishing this Regional Regulation is to provide a foundation of legal certainty in Women Empowerment and Child Protection activities in the Region.
+
+2021, No. 3
+
+(2) The implementation of Protection of Women and Children aims to:
+
+- a. improve the quality of life of women, children, and family quality;
+- b. increase the institutional capacity of women empowerment and child protection including the development of gender and child data systems;
+- c. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment;
+- d. provide guidance to regional governments in planning protection strategies and policies for women and children; and
+- e. prevent violations of women's and children's rights.
+
+# CHAPTER IV
+
+SCOPE OF PROTECTION OF WOMEN AND CHILDREN
+
+#### Article 4
+
+The scope of the implementation of the protection of women and children includes:
+
+- a. rights and obligations of women and children;
+- b. forms of violence;
+- c. prevention;
+- d. services for acts of violence;
+- e. implementation of the protection of women and children; f. information system data on women and children;
+- g. children's forum;
+- h. institutional implementation of the protection of women and children
+- i. Child-Friendly City;
+- j. community participation;
+- k. cooperation;
+  - 1. guidance and supervision;
+- m. funding;
+- n. criminal provisions; and
+- o. Closing provisions.
+
+# CHAPTER V
+
+RIGHTS AND OBLIGATIONS
+
+## Part One
+
+Rights of Women and Children
+
+#### Article 5
+
+(1) Every woman has the right to:
+
+- a. obtain protection from acts of discrimination; b. obtain protection from economic exploitation and sexual exploitation;
+- c. obtain protection from physical, psychological, sexual violence, and neglect;
+- d. obtain decent work in accordance with her abilities;
+
+2021, No. 3
+
+e. obtain work leave with wages/salary in accordance with laws and regulations;
+
+f. obtain education and teaching in all types, levels and pathways of education;
+
+g. obtain special protection in the performance of work or profession against matters that may threaten safety and or health in relation to women's reproductive functions; and
+
+h. ownership and management of joint assets in marriage in accordance with laws and regulations.
+
+(2) Every child has the right to:
+
+- a. live, grow, develop and participate reasonably in accordance with human dignity;
+- b. obtain protection from acts of discrimination;
+- c. obtain protection from economic exploitation and sexual exploitation;
+- d. obtain protection from physical, psychological, sexual violence, and neglect;
+- e. a name as self-identity and citizenship status;
+- f. obtain a birth certificate free of charge;
+- g. embrace religion and worship according to the teachings of his/her religion with the guidance of parents/guardians;
+- h. not to be forced to change religion by foster parents, adoptive parents and by anyone;
+- i. be recognized and know his/her parents, be raised and cared for by his/her own parents;
+- j. obtain health services and social security in accordance with physical, mental, spiritual, and social needs;
+- k. obtain education and teaching in accordance with interests and talents;
+- l. obtain care, education, training, self-improvement and the ability to participate in community and state life for children with physical, mental disabilities and special needs;
+- m. express and have his/her opinion heard; and
+- n. rest and utilize leisure time for self-development.
+
+## Part Two
+
+Obligations of the Regional Government
+
+#### Article 6
+
+(l)The obligations of the Regional Government in efforts to protect women include:
+
+- a. establish and implement policies, programs and activities for the protection of women's rights;
+- b. cooperate with the community and/or Community Organizations in the implementation of the protection of women in accordance with laws and regulations;
+- c. conduct rehabilitation and empowerment of women who are victims of violence;
+
+2021, No. 3
+
+d. provide special protection to women victims of violence and human trafficking; and e. take preventive action in order to prevent violations of women's rights.
+
+(2) The obligations of the Regional Government in efforts to protect children include:
+
+- a. be responsible for respecting the fulfillment of children's rights without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status, birth order, and physical and/or mental conditions;
+- b. be obliged and responsible to implement and support national policies in the implementation of child protection in the regions;
+- c. the policy as referred to in letter b can be realized through regional efforts to build child-friendly districts/cities;
+- d. be obliged and responsible to provide support for facilities, infrastructure, and availability of human resources in the implementation of child protection;
+- e. guarantee the protection, care, and welfare of children by taking into account the rights and obligations of parents, guardians, or other persons who are legally responsible for the child;
+- f. supervise the implementation of child protection. g. ensure children to use their rights in expressing opinions in accordance with the age and level of intelligence of the child.
+
+## Part Three
+
+Obligations of the Community
+
+#### Article 7
+
+(1) The obligations of the community in efforts to protect women and children:
+
+- a. participate in prevention and provide support for the development of prevention programs for violations of the rights of women and children;
+- b. provide information and/or report violations of the rights of women and children to the authorities; and
+- c. supervise the law enforcement process against cases of violations of the rights of women and children.
+  - (2) The obligations of the community as referred to in paragraph (1) are based on laws and regulations and the values of local wisdom of the local community.
+  - (3) The obligations and responsibilities of the community towards child protection are implemented through community participation activities in the implementation of child protection.
+  - (4) The obligations and responsibilities of the community towards child protection are implemented through community participation activities in the implementation of child protection.
+  - (5) The obligations and responsibilities of the community as referred to in paragraph (4) are implemented by involving community organizations, academics, and child observers.
+
+2021, No. 3
+
+## Part Four
+
+Obligations of the Family
+
+#### Article 8
+
+The family in efforts to protect the rights of women is obliged to:
+
+- a. protect women from conflict and violence in the household that demeans the dignity of women;
+- b. provide equal opportunities for women to develop themselves in the fields of education, social, economic, political and cultural affairs; and
+- c. prevent violations of women's rights in the household.
+
+#### Article 9
+
+(1) The family in efforts to protect the rights of children is obliged to:
+
+- a. care for, nurture, educate, and protect children;
+- b. develop children in accordance with their abilities, talents, and interests;
+- c. prevent marriage at the age of children;
+- d. provide character education and instillation of moral values in children.
+  - (2) In the event that parents are absent, or their whereabouts are unknown, or due to any reason, cannot carry out their obligations and responsibilities, then the obligations and responsibilities as referred to in paragraph (1) may be transferred to the family.
+
+# CHAPTER VI
+
+FORMS OF VIOLENCE
+
+#### Article 10
+
+Forms of violence include:
+
+- a. physical violence;
+- b. psychological violence;
+- c. sexual violence; and/or
+- d. domestic neglect.
+
+#### Article 11
+
+Physical violence as referred to in Article 10 letter a results in:
+
+- a. the victim becoming ill or seriously injured;
+- b. the death of the victim; and
+- c. causing illness or obstruction to carrying out work positions or livelihoods or daily activities.
+
+#### Article 12
+
+Psychological violence as referred to in Article 10 letter b results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.
+
+2021, No. 3
+
+#### Article 13
+
+Sexual violence as referred to in Article 10 letter c is in the form of:
+
+- a. acts of sexual harassment;
+- b. coercion of unnatural or unwanted sexual intercourse; and/or
+- c. coercion of sexual intercourse with others for commercial purposes and/or certain purposes.
+
+#### Article 14
+
+Domestic neglect as referred to in Article 10 letter d is caused by:
+
+- a. acts resulting in the failure to fulfill the child's needs properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;
+- b. acts of deliberately neglecting to maintain, care for, or attend to the child as appropriate, committed by parents, guardians, or any other party responsible for their care;
+- c. acts of neglecting persons within their household, whereas according to the law applicable to them or by agreement or contract they are obliged to provide life, care, or maintenance to such person; and/or
+- d. acts resulting in economic dependency by restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of such person.
+
+# CHAPTER VII
+
+PREVENTION
+
+#### Article 15
+
+(1) Efforts to prevent violence against women and children are carried out in an integrated manner by the Regional Government coordinated by the PPPA Service.
+
+(2) Prevention efforts as referred to in paragraph (1) are implemented by means of:
+
+- a. building networks and collaboration with law enforcement apparatus, government apparatus, as well as educational institutions, health, hospitals, various NGOs that care about women and children;
+- b. building community and family participation and awareness regarding the prevention and protection of women and children from acts of violence;
+- c. establishing a violence prevention system that provides a complete and easily accessible information system;
+- d. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence;
+- e. providing critical education on the rights of women and children as victims of violence to the community; and
+
+2021, No. 3
+
+f. opening complaint posts for the protection of women and children from acts of violence.
+
+#### Article 16
+
+(1) Prevention of acts of violence against women and children as referred to in Article 16, is implemented by the PPPA Service and regional apparatus/related institutions in the fields of;
+
+a. education;
+
+b. manpower;
+
+c. health;
+
+d. social;
+
+e. women empowerment and child protection;
+
+f. mental and spiritual; and
+
+g. peace and order.
+
+(2) Prevention of acts of violence by the PPPA Service and regional apparatus/related institutions as referred to in paragraph (1), is implemented in an integrated and sustainable manner.
+
+# CHAPTERVIll
+
+SERVICES FOR VICTIMS OF ACTS OF VIOLENCE
+
+#### Article 17
+
+Implementation of Victim Recovery Activities Includes:
+
+- a. health services;
+- b. victim assistance;
+- c. counseling;
+- d. spiritual guidance; and
+- e. resocialization;
+
+#### Article 18
+
+(1) Health Services are provided by health workers at health facilities owned by the government, regional government, and community, including private, by providing treatment and health recovery services for victims.
+
+(2) Victim assistance is provided by health workers, social workers, support volunteers, and/or spiritual counselors by providing counseling, spiritual guidance and advocacy for the strengthening and self-recovery of victims.
+
+(3) Provision of counseling is conducted by social workers, support volunteers, by listening empathetically and exploring problems for the psychological strengthening of victims.
+
+(4) Spiritual guidance is provided by spiritual counselors by providing explanations regarding their rights and obligations, as well as strengthening faith and piety in accordance with the religion and belief they profess.
+
+(5) Victim resocialization is implemented by social agencies and social institutions so that victims can return to performing their social functions in society.
+
+# CHAPTER IX
+
+IMPLEMENTATION OF PROTECTION
+
+OF WOMEN AND CHILDREN
+
+L
+
+2021, No. 3
+
+#### Article 19
+
+Those responsible for the implementation of protection of women and children are as follows:
+
+- a. The Mayor of Padang Sidempuan as Protector of the Implementation of Protection of Women and Children; b. Head of OPD, Director of General Hospital, Chairperson of the Association of Women's Organizations as Director of the Implementation of Protection of Women and Children; c. Head of the Women's Empowerment and Child Protection Service of Padang Sidempuan City as Chair of those Responsible for the Implementation of Protection of Women and Children;
+- d. Head of the Social Service of Padang Sidempuan City as Vice Chair of those Responsible for the Implementation of Protection of Women and Children;
+- e. Chief of Police of Padang Sidempuan as Vice Chair of those Responsible for the Implementation of Protection of Women and Children;
+- f. Head of the Women's Empowerment Division as Coordinator of those Responsible for the Implementation of Protection of Women and Children;
+- g. Head of the Child Protection Division as Secretary of those Responsible for the Implementation of Protection of Women and Children;
+- h. Head of the Section for Handling and Protection of Victims of Violence and Head of the Child Protection Section as Service Section for the Implementation of Protection of Women and Children;
+- i. Advocate/Peradi as Legal Assistance Section for the Implementation of Protection of Women and Children; j. Head of the Section for Improving the Quality of Life of Women and Head of the Child Growth and Development Section as Network Development Section for the Implementation of Protection of Women and Children;
+- k. Head of the Section for Handling Social Problems of Children with Special Needs and Head of the Section for Protection of Women's Rights as Reporting Section for the Implementation of Protection of Women and Children;
+
+# CHAPTERX
+
+INFORMATION SYSTEM FOR WOMEN AND CHILDREN DATA
+
+#### Article 20
+
+(1) Information system is a system to collect, prepare, store, process, analyze and/or disseminate information.
+
+(2) Gender and Child Data System is the institutionalization of the implementation of gender and child data consisting of components of regulations, institutions, and mechanisms in ministries/institutions and regions for the purpose of planning, implementation, evaluation, and reporting the results of policies/programs/activities of development that is gender responsive and child sensitive.
+
+(3) Gender Data is data concerning the relationship in status, role and condition between men and women.
+
+2021, No. 3
+
+(4) Disaggregated Data is data disaggregated by sex, age, status and condition of women in all areas of development including health, education, economy and employment, the field of politics and decision-making, the field of law and socio-culture and violence.
+
+(5) Types of gender and child data:
+
+- a. gender data:
+  - 1. gender data in the economic field including gender issues of labor, KUKM, industry and trade, agriculture, forestry, fisheries and marine affairs, transportation, science and technology and infrastructure;
+  - 2. gender data in the fields of politics, social and law;
+  - 3. data on protection of women's rights; and
+  - 4. data on welfare development and family resilience.
+- b. child data:
+  - 1. civil rights and freedoms;
+  - 2. family environment and alternative care;
+  - 3. basic health and welfare;
+  - 4. education, use of leisure time and cultural activities; and
+  - 5. special protection.
+    - (6) Gender analysis is the process of analyzing disaggregated data by sex conducted systematically with the intention of identifying gender issues and factors that can affect development, particularly related to gender equality issues that are the goal of development.
+
+#### Article 21
+
+(1) Guidelines for the Implementation of the Gender and Child Data System are intended as a reference for ministries/institutions and regions in providing and utilizing disaggregated data for planning, formulation, implementation, monitoring, evaluation and reporting of policies/programs/activities of development that is gender responsive and child sensitive.
+
+(2) Improving the availability and utilization of data, gender and child information in the formulation, planning, implementation, monitoring and evaluation of development programs/activities.
+
+#### Article 22
+
+(1) The Guidelines for the Implementation of the Gender and Child Data System aim to:
+
+- a. strengthen and encourage institutional (regulations, institutions, mechanisms) data systems disaggregated by sex and age in ministries/agencies and regions, which are reliable, can be presented quickly, accurate, comprehensive, and up-to-date;
+- b. build or strengthen coordination mechanisms among ministries/agencies and regions in the implementation of disaggregated data collection;
+- c. increase the availability and utilization of disaggregated data for planning, implementation, monitoring, evaluation, and reporting of results of gender-responsive and child-sensitive development policies/programs/activities in ministries/agencies and regions.
+
+2021, No. 3
+
+(2) The Implementation of the Electronic-Based Gender and Child Data System of Padang Sidempuan City includes data transmission, verification, input and publication
+
+(3) The utilization of the Gender and Child Data System of Padang Sidempuan City consists of:
+
+- a. regional apparatus within the Government of Padang Sidempuan City;
+- b. agencies located in Padang Sidempuan City; and
+- c. general public/public.
+
+#### Article 23
+
+(1) Gender Mainstreaming or abbreviated as PUG is a strategy carried out rationally and systematically to achieve and realize gender equality and gender justice in a number of aspects of human life (household, society and State), through policies and programs that take into account the experiences and aspirations of the needs and problems of women and men in planning, implementation, monitoring and evaluation of all policies in various aspects of life and development.
+
+(2) In efforts to accelerate the institutionalization of gender mainstreaming in all SKPD, a PUG Working Group is formed.
+
+(3) Members of the PUG Working Group are all heads/leaders of SKPD. (4) The Mayor appoints the head of Bapeda as chair of the PUG Working Group and the head of SKPD who oversees women's empowerment duties as Secretary of the PUG Working Group.
+
+(5) The formation of the PUG Working Group is established by Mayor's Decree.
+
+#### Article 24
+
+The PUG Working Group as referred to in article 23 has the duties:
+
+- a. to promote and facilitate PUG to each SKPD;
+- b. to conduct socialization and advocacy of PUG to District Heads, Village Heads and Sub-district Heads;
+- c. to prepare work programs every year;
+- d. to encourage the realization of gender-responsive planning and budgeting;
+- e. to prepare the PUG Working Group work plan every year; f. to be accountable to the Mayor through the Deputy Mayor; g. to formulate policy recommendations to the Mayor; h. to prepare the Gender Profile;
+- i. to monitor the implementation of PUG in each agency;
+- j. to establish a technical team to conduct analysis of the regional budget;
+- k. to prepare the Regional Action Plan (RANDA) for PUG and; 1. to encourage the selection and establishment of Focal Points in each SKPD.
+
+#### Article 25
+
+1. The PUG Focal Point in each SKPD consists of officials and/or staff who oversee planning and/or program duties.
+
+2021, No. 3
+
+2. The PUG Focal Point as referred to in paragraph (1), has the duties:
+
+- a. to promote gender mainstreaming in work units;
+- b. to facilitate the preparation of work plans and budgeting of SKPD that are gender-responsive;
+- c. to conduct training, socialization, advocacy of gender mainstreaming to all officials and staff within SKPD;
+- d. to encourage the implementation of gender analysis on policies, programs, and activities in work units; and
+- e. to facilitate the preparation of gender data in each SKPD;
+  - 3. The PUG Focal Point as referred to in paragraph (1), is selected and established by the head/leader of SKPD.
+
+#### Article 26
+
+(1) Regional Apparatus/Agencies submit reports on the women and children data information system to the Mayor through the Office of Women's Empowerment and Child Protection of Padang Sidempuan City.
+
+(2) Reporting of implementation as referred to in paragraph (1) is conducted annually and/or at any time when required.
+
+#### Article 27
+
+(1) Every person, community organization, university and business entity has the right to utilize the women and children data information system of Padang Sidempuan City by citing the data.
+
+(2) Every person, community organization, university and business entity may partner as both provider and user of data, gender and child information to the organizer of the women and children data information system of Padang Sidempuan City for subsequent verification, input and publication.
+
+# CHAPTER XI
+
+CHILDREN'S FORUM
+
+#### Article 28
+
+(1) The Regional Government is obliged to establish a children's forum at the Padang Sidempuan City level as participation through the children's forum.
+
+(2) The children's forum as referred to in paragraph (1) represents children, both in terms of children's geographic domicile representation, socio-cultural group components of children and children's educational background as well as accommodating the interests of children with special needs.
+
+(3) In every formulation of policies related to children, the Regional Government must consider and accommodate children's opinions conveyed through the children's forum.
+
+(4) The establishment of the children's forum as referred to in paragraph (1) is determined by Mayor's Decree.
+
+(5) Sources of financing for the implementation of children's forum activities may come from:
+
+- a. contributions from children's forum members;
+
+2021, No. 3
+
+b. donations from the community/private parties that are legal and non-binding;
+
+c. assistance from the City Government; and/or
+
+d. other sources of financing in accordance with laws and regulations.
+
+#### Article 29
+
+(1) Establishment of the Children's Forum of Padang Sidempuan City, participants in the meeting to establish the regency/city children's forum are delegates or representatives from the sub-district children's forum of at least one male and one female child; the number of representatives is adjusted to the needs and number of sub-districts in the Padang Sidempuan City area
+
+(2) Establishment of the Sub-district Children's Forum, participants in the meeting to establish the Sub-district Children's Forum are delegates or representatives from the village/sub-district children's forum of at least one male and one female child. The number of representatives is adjusted to the needs and number of villages/sub-districts in the sub-district area
+
+(3) Establishment of the Village/Sub-district Children's Forum, children are invited to represent their respective activity groups, at least one male and one female child for each children's activity group, subsequently the children's representatives from those activity groups become the main participants in establishing the Village/Sub-district Children's Forum.
+
+# CHAPTER XII
+
+INSTITUTIONAL ORGANIZATION FOR THE PROTECTION
+
+OF WOMEN AND CHILDREN
+
+#### Article 30
+
+In the context of organizing the Protection of Women and
+
+Children, the following are established:
+
+- a. Integrated Service Center for Women's and Children's Empowerment (P2TP2A);
+- b. Family Welfare Consultation Institution; and
+- c. Other institutions in accordance with needs and/or provisions of laws and regulations.
+
+#### Article 31
+
+(1) In the context of handling family psychosocial problems, recovery of family psychosocial conditions and strengthening family resilience, a Family Welfare Consultation Institution is established in the region.
+
+(2) With regard to the Family Welfare Consultation Institution, the Mayor has the following authorities:
+
+- a. to implement policies for organizing the Family Welfare Consultation Institution;
+- b. to implement norms, standards, procedures, and criteria regarding the Family Welfare Consultation Institution;
+- c. to implement service standards of the Family Welfare Consultation Institution;
+- d. to implement and process institutional data of the Family Welfare Consultation Institution;
+
+2021, No. 3
+
+e. to implement capacity building for human resources and institutions of the Family Welfare Consultation Institution;
+
+f. to provide facilitation of facilities and infrastructure for services of the Family Welfare Consultation Institution;
+
+g. to implement family welfare cooperation;
+
+h. to implement coordination with relevant agencies, business entities and the community; and/or
+
+1. to implement monitoring and evaluation.
+
+#### Article 32
+
+(1) Services of the Family Welfare Consultation Institution are organized by prioritizing strategies to build networks and partnerships
+
+(2) Types of services of the Family Welfare Consultation Institution consist of:
+
+- a. consultation;
+- b. counseling;
+- c. information;
+- d. advocacy;
+- e. referral; and
+- f. outreach
+  - (3) Networks and partnerships as referred to in paragraph (1) consist of:
+- a. potential and sources of social welfare;
+- b. Hospitals;
+- c. Indonesian National Police;
+- d. Bureau/Institution/Legal Aid Post;
+- e. Trauma Center Shelter;
+- f. Integrated Service Center for Women Empowerment and Child Protection;
+- g. other public services that can be used as networks and partnerships of the Family Welfare Consultation Institution.
+  - (4) Networks and partnerships as referred to in paragraph (2) are carried out through:
+- a. cooperation;
+- b. coordination; and/or;
+- c. collaboration;
+  - (5) Further provisions regarding the Family Welfare Consultation Institution are regulated by Mayor Regulation.
+
+#### Article 33
+
+(1) The Integrated Service Center for Women Empowerment and Child Protection (P2TP2A) is under the coordination of regional apparatus work units (SKPD) or other units handling women empowerment and child protection.
+
+(2) The Integrated Service Center for Women Empowerment and Child Protection (P2TP2A) as referred to in paragraph (1) does not have authority in the formulation of policies related to women empowerment and child protection.
+
+#### Article 34
+
+The Integrated Service Center for Women Empowerment and Child Protection (P2TP2A) functions as:
+
+- a. information center for women and children;
+
+2021, No. 3
+
+b. service center for women and victims of violence; and c. empowerment center for women and children.
+
+#### Article 35
+
+(1) The City Level Integrated Service Center for Women Empowerment and Child Protection (P2TP2A) is established based on the Mayor's Decree and the District Head's Decree for the sub-district level.
+
+(2) Membership of the Integrated Service Center for Women Empowerment and Child Protection (P2TP2A) may come from elements of regional apparatus, professional organizations, academics, community leaders and other elements as needed.
+
+(3) Further provisions regarding P2TP2A are regulated by Mayor Regulation.
+
+#### Article 36
+
+The Family Learning Center (PUSPAGA) is a form of prevention service under the coordinator of the Office of Women Empowerment and Child Protection as a manifestation of state concern in improving family life and family resilience through education or parenting programs, parenting skills, child protection skills, ability to increase child participation in the family as well as counseling program services for children and families.
+
+# CHAPTER XIII
+
+CHILD-FRIENDLY CITY
+
+## Part One
+
+Principles and Objectives
+
+#### Article 37
+
+To ensure the fulfillment of children's rights so they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination, integrated real efforts are needed between the Regional Government, community and business world through the development of Child-Friendly City.
+
+#### Article 38
+
+The development of Child-Friendly City as referred to in Article 37 is implemented based on the following principles:
+
+- a. good governance, namely transparency, accountability, participation, information disclosure, and rule of law;
+- b. non-discrimination, namely not distinguishing ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors;
+- c. best interests of the child, namely making the best for the child as the primary consideration in every policy, program, and activity;
+- d. right to life, survival, and development of children, namely guaranteeing the right to life, survival and development of children to the maximum extent possible; and 2021, No. 3
+- e. respect for the views of children, namely recognizing and ensuring that every child who has the ability to express their opinion, is given the opportunity to express their views freely on all matters that affect them.
+
+#### Article 39
+
+The development of Child-Friendly City is directed at fulfilling children's rights which include:
+
+- a. civil rights and freedoms;
+- b. family environment and alternative care;
+- c. basic health and welfare;
+- d. education, leisure time utilization, and cultural activities; and
+- e. special protection.
+
+#### Article 40
+
+(1) In order to realize Child-Friendly City, stages of Child-Friendly City development are prepared which include:
+
+- a. preparation;
+- b. planning;
+- c. implementation;
+- d. monitoring;
+- e. evaluation; and
+- f. reporting.
+  - (2) In every stage of Child-Friendly City development, the views of children obtained through child consultation must be considered.
+
+#### Article 41
+
+(1) To make the development of Child-Friendly City effective, a Child-Friendly City Task Force is established by Mayor's Decree.
+
+(2) Membership of the Child-Friendly City Task Force may come from the Regional Government, child representatives, business world, religious leaders, community leaders and other parties as needed.
+
+#### Article 42
+
+(1) The main tasks of the Child-Friendly City Task Force are as follows:
+
+- a. coordinating various Child-Friendly City development efforts;
+- b. preparing the Regional Action Plan for Child-Friendly City Development;
+- c. implementing socialization, advocacy and communication for Child-Friendly City development;
+- d. monitoring the implementation of policies, programs and activities in the Regional Action Plan for Child-Friendly City Development;
+- e. conducting annual evaluations on the implementation of policies, programs and activities in the Regional Action Plan for Child-Friendly City Development; and
+- f. submitting reports to the Mayor.
+  - (2) Further provisions regarding the Child-Friendly City Task Force are regulated by Mayor Regulation.
+
+2021, No. 3
+
+# CHAPTER XIV
+
+FUNDING
+
+#### Article 43
+
+(1) The Regional Government is obliged to provide a budget for the implementation of programs and activities for women empowerment and child protection.
+
+(2) Financing for the implementation of women empowerment and child protection activities as referred to in paragraph (1) is sourced from:
+
+- a. Regional Revenue and Expenditure Budget (APBD); and b. other legal and non-binding sources based on the provisions of laws and regulations.
+
+# CHAPTER XV
+
+COMMUNITY PARTICIPATION
+
+#### Article 44
+
+(1) The community can participate in the implementation of women empowerment activities.
+
+(2) Community participation as referred to in paragraph (1) may be carried out by individuals, community groups and community organizations.
+
+(3) Community participation as referred to in paragraph (1) may take the form of:
+
+- a. cooperation;
+- b. active role in policy formulation; and
+- c. complaints/reports.
+  - (4) Procedures for community participation as referred to in paragraph(3) are regulated by Mayor Regulation.
+
+# CHAPTER XVI
+
+COOPERATION
+
+#### Article 45
+
+(1) Regional cooperation is a joint effort between regions with other regions, between regions and third parties, and/or between regions and institutions or regional governments abroad based on consideration of efficiency and effectiveness of public services and mutual benefit.
+
+(2) Regional cooperation with third parties, hereinafter abbreviated as KSDPK is a joint effort undertaken by regions with third parties in the context of implementing governmental affairs under regional authority to improve public welfare and accelerate the fulfillment of public services.
+
+(3) In order to achieve the objectives of protecting the rights of women and children from acts of violence, the regional government cooperates with:
+
+- a. other provinces;
+- b. regencies/Cities; and
+- c. non-governmental institutions
+  - (4) Cooperation as referred to in paragraph (3) includes: a. exchange of data and information
+- b. rehabilitation of victims of acts of violence 2021, No. 3
+- c. repatriation and social reintegration, and
+- d. provision of evidence and witnesses to be followed up in accordance with applicable law.
+
+#### Article 46
+
+The regional government provides services for victims in the form of;
+
+a. facilitating the establishment of UPT P2TP2A in every regency/city;
+
+b. facilitating facilities and infrastructure for UPT P3TP2A;
+
+c. facilitating the Coordination Forum for the Protection of Victims of Violence as a network platform for handling victims.
+
+# CHAPTER XVII
+
+COACHING AND SUPERVISION
+
+#### Article47
+
+(1) The Regional Government is obligated to carry out coaching and supervision of Women's Empowerment and Child Protection.
+
+(2) Coaching as referred to in paragraph (1), includes: a. formulation of policies and regulations used as guidelines and standards in implementing women's empowerment and child protection;
+
+b. technical guidance and training, including:
+
+- 1. providing training for government officials and law enforcement on the prevention and handling of violence;
+- 2. providing training for religious leaders, community leaders, traditional leaders, educators, journalists and media managers in order to prevent violence against women and children;
+- 3. providing training to health workers who provide health services to women and children victims of violence at community health centers, integrated service units and general hospitals;
+- 4. providing training to social rehabilitation officers and spiritual guidance officers in order to protect women and children victims of violence; and
+- 5. providing training to PUG working groups and focal points of each Regional Apparatus for the preparation of activity programs based on gender-responsive planning and budgeting.
+  - c. provision of facilities and infrastructure in implementing women's empowerment and child protection.
+  - d. facilitation of the formation of nagari caring for women and children; e. provision of information through print and electronic media related to the protection of women and children.
+    - (3) Supervision as referred to in paragraph (1), includes: a. monitoring implemented in the form of submission of reports on the implementation of women's empowerment and child protection programs by the Head of Regional Apparatus to the Mayor periodically 1 (one) time every 3 (three) months; and
+
+2021, No. 3
+
+b. evaluation of the implementation of women's empowerment and child protection periodically 1 (one) time every 3 (three) months implemented by
+
+relevant Regional Apparatus
+
+(4) The results of supervision as referred to in paragraph (3) constitute evaluation material for the policy of women's empowerment and child protection programs.
+
+(5) Further provisions regarding coaching and supervision as referred to in paragraph (1) are regulated by Mayor Regulation.
+
+# CHAPTER XVIII
+
+CRIMINAL PROVISIONS
+
+#### Article 48
+
+Any person who commits a criminal act/violence as referred to in Article 11, Article 12, Article 13, and Article 14 is threatened with criminal punishment in accordance with the provisions of Laws and Regulations.
+
+# CHAPTER XIX
+
+CLOSING PROVISIONS
+
+#### Article 49
+
+This Regional Regulation comes into force on the date of promulgation.
+
+In order for everyone to know it, orders the promulgation of this Regional Regulation with its placement in the Regional Gazette of Padang Sidempuan City.
+
+Enacted in Padang Sidempuan
+
+MAYOR OF PADANG SIDEMPUAN,
+
+Sgd.
+
+IRSAN EFEND NASUTION
+
+Promulgated in Padang Sidempuan
+
+REGIONAL SECRETARY OF
+
+PADANG SIDEMPUAN,
+
+Sgd.
+
+LETNAN
+
+REGIONAL GAZETTE OF PADANG SIDEMPUAN CITY YEAR 2001 NUMBER 3
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF PADANG SIDEMPUAN CITY, NORTH SUMATRA PROVINCE : (3-40/2021)
+
+Copy in accordance with the original
+
+LEGAL SECTION,
+
+MHD. ERWIN,S.H.
+
+NIP. 19720525 200312 1 006

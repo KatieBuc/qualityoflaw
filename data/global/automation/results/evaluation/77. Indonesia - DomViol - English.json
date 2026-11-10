@@ -1,0 +1,961 @@
+{
+  "policy_file": "77. Indonesia - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T14:22:31.595151+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "1. Violence in Household shall be any act against anyone particularly woman, bringing about physical, sexual, psychological misery or suffering, and/or negligence of household including threat to commit act, forcing, or seizure of freedom in a manner against the law within the scope of household.\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n(1) Anyone committing act of physical violence in household as referred to in Article 5 letter a shall be punished with imprisonment of not longer than 5 (five) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah).",
+      "rationale": "The candidate sentences show an operative legal framework specifically on “violence in household,” including a definition, a prohibition, and criminal penalties, which meets the substantive-coding requirements for domestic/household violence.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Violence in Household shall be any act against anyone particularly woman, bringing about physical, sexual, psychological misery or suffering, and/or negligence of household including threat to commit act, forcing, or seizure of freedom in a manner against the law within the scope of household.\n\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n\n(1) Anyone committing act of physical violence in household as referred to in Article 5 letter a shall be punished with imprisonment of not longer than 5 (five) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah).",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Anyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\nThe sexual violence referred to in Article 5 letter c shall include:\nAnyone committing sexual violence act as referred to in Article 8 letter a shall be punished with imprisonment of not longer than 12 (twelve) years or fine of not more than Rp36,000,000.00 (thirty-six million rupiah).",
+      "rationale": "The text includes sexual violence as a prohibited form of household violence, provides an operative description of what it includes, and criminalises it with specified penalties, satisfying substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "Anyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n\nThe sexual violence referred to in Article 5 letter c shall include:\n\nAnyone committing sexual violence act as referred to in Article e letter a shall be punished with imprisonment of not longer than 12 (twelve) years or fine of not more than Rp36,000,000.00 (thirty-six million rupiah).",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "The physical violence referred to in Article 5 letter a shall be act bringing about pain, sickness, or serious injury.\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n(1) Anyone committing act of physical violence in household as referred to in Article 5 letter a shall be punished with imprisonment of not longer than 5 (five) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah).",
+      "rationale": "The framework defines physical violence, lists it as prohibited conduct, and provides criminal penalties for committing physical violence in the household, which is substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "The physical violence referred to in Article 5 letter a shall be act bringing about pain, sickness, or serious injury.\n\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n\n(1) Anyone committing act of physical violence in household as referred to in Article 5 letter a shall be punished with imprisonment of not longer than 5 (five) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah).",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "The psychic violence referred to in Article 5 letter b shall be an act bringing about fear, loss of self-confidence, loss of capability to act, hopelessness, and/or serious psychic suffering on someone.\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n(1) Anyone committing psychic act of violence within the scope of household as referred to in Article 5 letter b shall be punished with imprisonment of not longer than 3 (three) years or fine of not more than Rp9,000,000.00 (nine million rupiah).",
+      "rationale": "The candidate sentences define “psychic” (psychological) violence, include it in the list of prohibited forms of household violence, and criminalise it with penalties, meeting the substantive threshold.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "The psychic violence referred to in Article 5 letter b shall be an act bringing about fear, loss of self-confidence, loss of capability to act, hopelessness, and/or serious psychic suffering on someone.\n\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n\n(1) Anyone committing psychic act of violence within the scope of household as referred to in Article 5 letter b shall be punished with imprisonment of not longer than 3 (three) years or fine of not more than Rp9,000,000.00 (nine million rupiah).",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(2) The negligence referred to in paragraph (1) shall also apply to anyone bringing about economic dependence by limiting and/or prohibiting an individual to work properly inside or outside the house thereby the victim is placed under the control of the individual.\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\nShall be punished with imprisonment of not longer than 3 (three) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah), anyone who:",
+      "rationale": "The framework treats “negligence of household” as a prohibited form of violence and specifies that negligence includes creating economic dependence by limiting/prohibiting work; it also provides punishment for such neglect, which constitutes substantive coverage of economic abuse/neglect.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) The negligence referred to in paragraph (1) shall also apply to anyone bringing about economic dependence by limiting and/or prohibiting an individual to work properly inside or outside the house thereby the victim is placed under the control of the individual.\n\nAnyone shall be prohibited to carry out violence in household against an individual within the scope of the household, be means of:\n\nShall be punished with imprisonment of not longer than 3 (three) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah), anyone who:",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention or regulate early/child marriage, FGM/cutting, honour crimes, female infanticide, or any similar harmful practice; the excerpts focus on household violence categories and related procedures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, prevention, or monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts address household violence (including sexual violence for commercial purposes) but do not mention trafficking in persons/human trafficking, trafficking victims, or trafficking-specific definitions, prohibitions, or protections.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "forcing sexual intercourse against one of the individuals within the scope of the household for commercial purpose and/or a certain purpose.",
+      "rationale": "The candidate sentences include an operative provision describing forced sexual intercourse against a household member for commercial purposes and/or a certain purpose, which establishes a clear sexual-exploitation nexus sufficient for substantive coding under the rules.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "forcing sexual intercourse against one of the individuals within the scope of the household for commercial purpose and/or a certain purpose.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences reference cyber/online/digital forms of violence (e.g., cyber harassment, cyber pornography, online sexual exploitation) or recognise technology-facilitated violence as a category of prohibited conduct.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(1) Anyone committing act of physical violence in household as referred to in Article 5 letter a shall be punished with imprisonment of not longer than 5 (five) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah).\nAnyone committing sexual violence act as referred to in Article 8 letter a shall be punished with imprisonment of not longer than 12 (twelve) years or fine of not more than Rp36,000,000.00 (thirty-six million rupiah).",
+      "rationale": "The cited operative provisions attach specific criminal sanctions (imprisonment and/or fines) to defined acts of violence in the household, including physical violence and sexual violence, satisfying the requirement for criminal penalties for at least one form of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Anyone committing act of physical violence in household as referred to in Article 5 letter a shall be punished with imprisonment of not longer than 5 (five) years or fine of not more than Rp15,000,000.00 (fifteen million rupiah).\n\nAnyone committing sexual violence act as referred to in Article e letter a shall be punished with imprisonment of not longer than 12 (twelve) years or fine of not more than Rp36,000,000.00 (thirty-six million rupiah).",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines protection/protection instruction and describes temporary protection and application/reporting steps, the candidate sentences do not specify all required elements for a substantive protection/restraining order mechanism—particularly a defined consequence for breach of the order (civil or criminal) and a complete specification of order duration—so the criterion is not met on the provided evidence.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention provision of a special service room at a police station and various police obligations, but they do not designate a specific specialised unit/desk/division within police services with a defined mandate to handle VAW cases, as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to actions by the court (e.g., issuing protection rulings and examining alleged violations) but do not establish or mandate a specialised court, chamber, designated judicial officer, or specialised/expedited judicial procedure for VAW cases.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "Yes",
+      "evidence": "forcing sexual intercourse carried out against an individual living within the scope of the household;\nAnyone committing sexual violence act as referred to in Article 8 letter a shall be punished with imprisonment of not longer than 12 (twelve) years or fine of not more than Rp36,000,000.00 (thirty-six million rupiah).\nThe sexual violence crime referred to in Article 46 committed by a husband on the wife or vice versa shall constitute offense warranting complaint.",
+      "rationale": "The candidate sentences define sexual violence to include forcing sexual intercourse against an individual living within the household and attach criminal punishment to that conduct, and they explicitly contemplate sexual-violence crimes committed by a husband against a wife (or vice versa), indicating applicability within marriage rather than a spousal exemption.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "forcing sexual intercourse carried out against an individual living within the scope of the household;\n\nAnyone committing sexual violence act as referred to in Article e letter a shall be punished with imprisonment of not longer than 12 (twelve) years or fine of not more than Rp36,000,000.00 (thirty-six million rupiah).\n\nThe sexual violence crime referred to in Article 46 committed by a husband on the wife or vice versa shall constitute offense warranting complaint.",
+      "evidence_original_aligned": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "preparation and development of service program cooperation system and mechanism involving a party that is easily accessible to the victim; and\nconduct integrated coordination in providing service to the victim with the police, social service, social institution needed by the victim.",
+      "rationale": "The text provides for an integrated cooperation system/mechanism for victim services and explicitly requires integrated coordination in service provision with police and social services/institutions, which constitutes a formal multi-agency coordination mechanism in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "preparation and development of service program cooperation system and mechanism involving a party that is easily accessible to the victim; and\n\nconduct integrated coordination in providing service to the victim with the police, social service, social institution needed by the victim.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address reporting of incidents to police, provision of information to victims, and coordination/cooperation in service delivery, but do not establish or require any system/entity duty to collect, record, monitor, report, manage, or exchange data on violence, victims, or cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references gender equality as a principle and requires gender-sensitive education/training and service standards, but it does not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal points, working groups, or integration into planning/budgeting).",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Organize gender-sensitive education and training on and the issue of violence in household and shall establish gendersensitive service standard and accreditation.",
+      "rationale": "The framework mandates that the government organize gender-sensitive education and training on the issue of household violence, which is a substantive provision for training/capacity building to support implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "Organize gender-sensitive education and training on and the issue of violence in household and shall establish gendersensitive service standard and accreditation.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention monitoring, evaluation, implementation assessment, or any reporting requirement aimed at evaluating implementation or service delivery under the law.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe responsibilities, services, coordination, and penalties, but do not include any operative provision requiring allocation of budget/funding or establishing a funding mechanism/source for implementation.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "preparation and development of service program cooperation system and mechanism involving a party that is easily accessible to the victim; and\nconduct integrated coordination in providing service to the victim with the police, social service, social institution needed by the victim.",
+      "rationale": "The law provides for organizing victim services through cooperation systems/mechanisms and explicitly requires “integrated coordination” among service providers (e.g., social worker coordinating with police and social services), which constitutes an integrated/multidisciplinary service mechanism rather than isolated services.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "preparation and development of service program cooperation system and mechanism involving a party that is easily accessible to the victim; and\n\nconduct integrated coordination in providing service to the victim with the police, social service, social institution needed by the victim.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited operative provisions allow the victim (or a delegate) to report violence directly to the police, but this is framed as permission/empowerment to report rather than establishing a dedicated reporting service/mechanism (e.g., hotline/helpline/complaint service) beyond ordinary police reporting; the coding rules specify that merely stating victims may report to authorities is insufficient.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "take the victim to a safe house or alternative dwelling; and\n(2) The service of the social worker referred to in paragraph (1) shall be done at a safe house belonging to the government, a regional government, or the public.",
+      "rationale": "The operative provisions explicitly include taking the victim to a “safe house or alternative dwelling” and specify that social worker services are carried out at a safe house owned by government/regional government/public, which constitutes shelter/safe accommodation for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "take the victim to a safe house or alternative dwelling; and\n\n(2) The service of the social worker referred to in paragraph (1) shall be done at a safe house belonging to the government, a regional government, or the public.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "counter parting by a social worker and a legal aid worker at each examination process level in accordance with the stipulations of laws and regulations; and\nprovide legal consultation covering information on the rights of the victim and the court process;",
+      "rationale": "The law provides for legal support to victims through accompaniment by a legal aid worker during examinations and imposes duties on advocates to provide legal consultation and accompany victims through investigation/prosecution/court processes, meeting the criterion for legal assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "counter parting by a social worker and a legal aid worker at each examination process level in accordance with the stipulations of laws and regulations; and\n\nprovide legal consultation covering information on the rights of the victim and the court process;",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "health service in accordance with medical need;\n(1) In providing health service to the victim, the health worker must:",
+      "rationale": "The law entitles victims to health services and assigns explicit responsibilities to health workers to provide health services to victims (including examination and related documentation), satisfying the requirement for violence-linked medical/health services.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "health service in accordance with medical need;\n\n(1) In providing health service to the victim, the health worker must:",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "The social worker, companion volunteer, and/or spiritual mentor shall be obliged to provide service to the victim in the form of provision of counseling to strengthen and/or provide a sense of security to the victim.",
+      "rationale": "The law obliges social workers/companion volunteers/spiritual mentors to provide counselling to strengthen and/or provide a sense of security to the victim, which constitutes counselling/psychosocial support within victim services.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "The social worker, companion volunteer, and/or spiritual mentor shall be obliged to provide service to the victim in the form of provision of counseling to strengthen and/or provide a sense of security to the victim.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "spiritual guidance service.\nIn providing service, the spiritual mentor must provide clarification regarding the rights, obligations, and shall provide faith and piety strengthening to the victim.",
+      "rationale": "The law includes an entitlement to “spiritual guidance service” and specifies duties for spiritual mentors to provide faith/piety strengthening to the victim, which is an operative provision for spiritual/religious support.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "spiritual guidance service.\n\nIn providing service, the spiritual mentor must provide clarification regarding the rights, obligations, and shall provide faith and piety strengthening to the victim.",
+      "evidence_original_aligned": true
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "For the purpose of recovery, the victim may obtain the service of:\nFurther stipulations regarding the organization of restoration and cooperation efforts shall be provided for by a Government Regulation.",
+      "rationale": "The law contains a dedicated recovery framework, stating that for recovery the victim may obtain services from relevant providers and providing that further provisions on organizing restoration and cooperation efforts will be set by Government Regulation, indicating an operative basis for recovery/restoration support beyond immediate protection.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "For the purpose of recovery, the victim pay obtain the service of:\n\nFurther stipulations regarding the organization of restoration and cooperation efforts shall be provided for with a Government Regulation.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "ordering the perpetrator to undergo counseling program under the supervision of a certain institution.",
+      "rationale": "The law authorizes judges to impose an additional sentence ordering the perpetrator to undergo a counselling program under supervision of an institution, which is a perpetrator-focused intervention/behaviour-change measure.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "ruling the perpetrator to undergo counseling program under the supervision of a certain institution.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Organize communication, information, and education regarding violence in household;",
+      "rationale": "The operative provision in Article 12 requires the government to organize communication, information, and education regarding violence in household, which is explicitly framed as part of the government’s prevention responsibility for domestic violence (a form of violence against women as defined in the law).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Organize communication, information, and education regarding violence in household;",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes a principle of “justice and gender equality” and mentions “gender-sensitive education and training” in relation to violence in the household, it does not provide an operative requirement for information/education/awareness activities specifically about gender equality or women’s rights, nor does it explicitly link such gender-equality education to preventing violence against women (as distinct from education about violence itself).",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include communication/information/education about violence in the household and legal consultation to victims about their rights and court process, but they do not specify dissemination or education about laws/policies/legal protections concerning violence against women as a prevention strategy for the public or communities. The victim-focused legal consultation is a service element and is not framed as public legal-awareness or dissemination of VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The operative text requires organizing communication/information/education and “gender-sensitive education and training” on the issue of violence in the household, but it does not explicitly identify formal educational institutions, curricula, teaching materials, or improvements in the quality of education as a prevention measure for violence against women, nor does it assign responsibilities to education authorities or schools.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not include any explicit prevention programmes or activities that target or engage men and boys (or address masculinities/gender norms among men/boys) to prevent violence against women. Provisions referring to “anyone” or general prevention responsibilities are not specific to men or boys.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "To organize the effort referred to in Article 13, the government and the regional government in accordance with the function and duties may establish cooperation with the public or another social institution.",
+      "rationale": "The law contains an operative provision authorising government and regional government to establish cooperation with the public or another social institution to organise victim services, which constitutes formal collaboration with civil society/social institutions in the response to household violence (a form of VAW).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "To organize the effort referred to in Article 13, the government and the regional government in accordance with the function and duties may establish cooperation with the public or another social institution.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references religion and includes roles for “spiritual mentors,” it does not establish or require engagement/collaboration with religious organisations/leaders or traditional/cultural leaders as partners in preventing or responding to violence against women; the cited provisions concern service roles and cooperation among professionals rather than formal engagement with religious/traditional organisations or leaders.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provisions mention government-organised education/training and communication/education activities, but they do not identify schools, universities, or other education institutions as partners, nor do they establish coordination mechanisms with education institutions for VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references an international convention (CEDAW) only as a related law, but does not establish any operative mechanism or requirement for cooperation with international organisations on violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the law includes communication/information/education and socialisation activities, it does not identify media organisations or actors as partners or establish any media-specific engagement mechanism related to VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "To organize the effort referred to in Article 13, the government and the regional government in accordance with the function and duties may establish cooperation with the public or another social institution.\nThe definition of cooperation is as realization of public participation.",
+      "rationale": "An operative provision authorises government and regional government to establish cooperation with the public or another social institution in organising victim services, and the law’s elucidation explicitly frames “cooperation” as a realisation of public participation—together establishing community/public engagement in the response to household violence (a form of VAW).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "To organize the effort referred to in Article 13, the government and the regional government in accordance with the function and duties may establish cooperation with the public or another social institution.\n\nThe definition of cooperation is as realization of public participation.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions on cooperation refer to “the public or another social institution” without specifying businesses, employers, private companies, or other private-sector actors, and no other operative text establishes private-sector engagement in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe roles of government and regional government in providing services and cooperation, and mention facilities owned by government/regional government/public, but they do not explicitly identify any funding or budget source from local/regional government budgets.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences outline national government obligations and implementation by a minister, but do not mention any national government budget, funding allocation, or budget source.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references a domestic law ratifying CEDAW as part of related legal context, but does not mention any international assistance, donor funding, international organizations’ participation, or other explicit international support for implementation or services.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include criminal fines/penalties and general cooperation with the public/social institutions, but do not specify any funding or budget sources from other legal sources (e.g., earmarked funds, levies, trust funds, or other legally defined non-government budget sources).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences mention 'regional government' responsibilities and cooperation, but do not explicitly refer to provincial government budgets or any provincial funding source.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 21,
+    "resolved": 21,
+    "rate": 1.0
+  }
+}

@@ -100,3 +100,35 @@ def test_protect_abbreviations_handles_dotted_forms():
         "Surat ditandatangani a.n. Bupati.",
         "Salinan sesuai aslinya.",
     ]
+
+
+# --------------------------------------------------------------------------- backslashes (a US bill's page footer)
+import pytest as _pytest  # noqa: E402
+
+from automation.src.rag.sentence_split import split_sentences as _split  # noqa: E402
+
+
+@_pytest.mark.parametrize("text", [
+    r"Filed as G:\COMP\103\103-322.XML here.",
+    r"See G:\COMP\103\103-322.XML.Next sentence starts here.",       # the "no space after the period" case pysbd rewrites
+    r"A pattern \1 and \g and \n and \d are just characters.",
+    "H.R. 3355\nG:\\COMP\\103\\103-322.XML\nSEC. 2. Definitions.",
+])
+def test_a_backslash_in_the_text_does_not_break_the_segmenter(text):
+    sentences = _split(text)
+    assert sentences and "".join(sentences).replace(" ", "").replace("\n", "") != ""
+    assert text.count("\\") == sum(s.count("\\") for s in sentences)                  # every backslash comes back
+
+
+def test_the_backslash_path_is_kept_whole_in_the_sentence_text():
+    sentences = _split(r"Filed as G:\COMP\103\103-322.XML here. It is done.")
+    assert any(r"G:\COMP\103\103-322." in s for s in sentences)
+
+
+def test_text_without_backslashes_is_segmented_exactly_as_before():
+    assert _split("This Act applies. It is law.") == ["This Act applies.", "It is law."]
+
+
+def test_the_source_side_with_protected_abbreviations_also_survives_a_backslash():
+    sentences = _split(r"Lihat G:\COMP\103\103-322.XML dll. Ketentuan lain.", protect_abbreviations=True)
+    assert sentences and any("\\" in s for s in sentences)

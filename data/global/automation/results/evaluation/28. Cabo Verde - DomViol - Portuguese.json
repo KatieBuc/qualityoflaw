@@ -1,0 +1,973 @@
+{
+  "policy_file": "28. Cabo Verde - DomViol - Portuguese.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T23:20:43.888276+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define and criminalize gender-based violence and specify applicability in intimate/family/domestic-unit contexts, but they do not explicitly mention or define “domestic violence,” “family violence,” “household violence,” “intimate partner violence,” or an equivalent term as such. Under the coding rules, domestic violence cannot be inferred solely from coverage of GBV in domestic settings without explicit identification of domestic/family/household/intimate-partner violence as a term/category.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "iii) Sexual violence: any conduct practiced for the release or satisfaction of sexual instinct, involving threat, intimidation, coercion, fraud, deliberate placement of the victim in a situation of unconsciousness or impossibility of resisting, physical aggression, blackmail, comprising not only the sexual act of penetration, but also any other forms of sexual contact, limiting or nullifying the exercise of their sexual and reproductive rights;\n1. Quem, tendo autoridade ou influência sobre outrem faz depender, nomeadamente, a contratação, permanência no trabalho, renovação do contrato, promoção ou a aquisição de quaisquer outros privilégios, assim como bolsas de estudo, subsídios ou outros benefícios relevantes para si ou quem dela dependa, da obtenção de favores sexuais para si mesmo ou para terceiro, será punido com pena de prisão até 1 ano ou com pena de multa de 100 a 250 dias.",
+      "rationale": "The text includes an operative definition of “Sexual violence” and also criminalizes sexual harassment, which the coding rules treat as within scope for this indicator. These are operative provisions establishing covered forms of violence and legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "iii) Violência sexual: qualquer conduta praticada para a libertação ou satisfação do instinto sexual, envolvendo ameaça, intimidação, coacção, fraude, colocação deliberada da vítima em situação de inconsciência ou impossibilidade de resistir, agressão física, chantagem, compreendendo não só o acto sexual de penetração, mas também quaisquer outras formas de contacto sexual, limitando ou anulando o exercício de seus direitos sexuais e reprodutivos;\n\n1. Quem, tendo autoridade ou influência sobre outrem faz depender, nomeadamente, a contratação, permanência no trabalho, renovação do contrato, promoção ou a aquisição de quaisquer outros privilégios, assim como bolsas de estudo, subsídios ou outros benefícios relevantes para si ou quem dela dependa, da obtenção de favores sexuais para si mesmo ou para terceiro, será punido com pena de prisão até 1 ano ou com pena de multa de 100 a 250 dias.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "i) Physical violence: any conduct that offends the body or health of the victim;",
+      "rationale": "The framework contains an operative definition of physical violence as a manifestation of gender-based violence, satisfying the requirement that physical violence be included in an operative definition/classification of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "i) Violência física: qualquer conduta que ofenda o corpo ou a saúde da vítima;",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "ii) Psychological violence: any conduct that causes emotional harm, diminution of self-esteem, that harms and disturbs the full development of the victim, that aims to degrade or control their actions, beliefs and decisions, through threat, constraint, humiliation, manipulation, isolation, constant surveillance, persecution, insult, blackmail, ridicule, exploitation, dishonor, discredit, disregard for personal value and dignity as well as the limitation of the right to come and go;",
+      "rationale": "The framework contains an operative definition of psychological violence as a manifestation of gender-based violence, meeting the criterion for substantive coverage through definition/classification in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "ii) Violência psicológica: qualquer conduta que cause dano emocional, diminuição da auto-estima, que prejudique e perturbe o pleno desenvolvimento da vítima, que vise degradar ou controlar as suas acções, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição, insulto, chantagem, ridicularização, exploração, desonra, descrédito, menosprezo ao valor pessoal e dignidade bem como a limitação do direito de ir e vir;",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "iv) Patrimonial violence: any conduct that constitutes retention, subtraction, partial or total destruction of objects, work instruments, personal documents, goods, values and rights or economic resources of the victim, including those intended to satisfy their needs;",
+      "rationale": "The framework defines “Patrimonial violence” to include retention/subtraction/destruction of goods and economic resources of the victim, which constitutes an operative recognition of economic/financial deprivation as a form of violence with legal consequences under the law’s GBV framework.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "iv) Violência patrimonial: qualquer conduta que configure retenção, subtracção, destruição parcial ou total dos objectos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos económicos da vítima, incluindo os destinados a satisfazer as suas necessidades;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they establish minimum-age or protective rules targeting such practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, classification, or monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address gender-based violence and related services/procedures, but do not mention trafficking in persons/human trafficking or trafficking-related exploitation, nor identify trafficking victims as a protected group.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines sexual violence and sexual harassment, it does not mention sexual exploitation, sexual slavery, forced prostitution, or exploitation for sexual purposes, and no operative provision establishes a sexual-exploitation nexus as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) as defined/prohibited conduct or as a recognized category of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "1. Quem, em razão do género, nas circunstâncias e condições referidas nos números 2, 3 e 4 do artigo 2º, praticar, contra outrem, actos de violência a que se refere a alínea c) do artigo 3º, sob qualquer das formas aí definidas, é punido com a pena de prisão de 1 a 5 anos.\n1. Quem, tendo autoridade ou influência sobre outrem faz depender, nomeadamente, a contratação, permanência no trabalho, renovação do contrato, promoção ou a aquisição de quaisquer outros privilégios, assim como bolsas de estudo, subsídios ou outros benefícios relevantes para si ou quem dela dependa, da obtenção de favores sexuais para si mesmo ou para terceiro, será punido com pena de prisão até 1 ano ou com pena de multa de 100 a 250 dias.",
+      "rationale": "The candidate sentences include operative provisions that define gender-based violence and sexual harassment as punishable crimes and specify criminal sanctions (imprisonment terms and/or fines). This meets the requirement of at least one form of violence against women being a criminal offence with an attached penalty.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Quem, em razão do género, nas circunstâncias e condições referidas nos números 2, 3 e 4 do artigo 2º, praticar, contra outrem, actos de violência a que se refere a alínea c) do artigo 3º, sob qualquer das formas aí definidas, é punido com a pena de prisão de 1 a 5 anos.\n\n1. Quem, tendo autoridade ou influência sobre outrem faz depender, nomeadamente, a contratação, permanência no trabalho, renovação do contrato, promoção ou a aquisição de quaisquer outros privilégios, assim como bolsas de estudo, subsídios ou outros benefícios relevantes para si ou quem dela dependa, da obtenção de favores sexuais para si mesmo ou para terceiro, será punido com pena de prisão até 1 ano ou com pena de multa de 100 a 250 dias.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police protection, victim support, and a coercive measure involving prohibition of remaining in the family home, but they do not set out a protection/restraining order mechanism with all required elements (who may apply, issuing authority, duration, and consequence for breach). No sentence specifies duration or breach consequences for a protective/restraining order.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences require police to provide information/support and set procedures, and they establish victim support centres and shelters, but none designates a specific specialised unit/desk/division within police services to handle VAW/GBV cases. General references to police responsibilities are insufficient under the coding rules without a named/designated police unit.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "1. The trial of the crimes referred to in this law follows the procedure of the Abbreviated Proceedings, even if the prerequisites provided for in number 1 of Article 430 of the Code of Criminal Procedure are not met, with the specificities established in the following numbers.\n3. The judge's order is issued within 48 hours after the corresponding case files enter court.",
+      "rationale": "The candidate sentences establish a special/expedited judicial procedure for crimes under the law by mandating use of abbreviated proceedings and setting accelerated judicial timelines (e.g., judge’s order within 48 hours; trial deadline in certain cases). This constitutes a specialised judicial procedure for GBV cases.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O julgamento dos crimes a que se refere a presente lei observa a tramitação do Processo Abreviado, ainda que não se encontrem preenchidos os pressupostos previstos no número 1 do artigo 430º do Código de Processo Penal, com as especificidades estabelecidas nos números seguintes.\n\n3. O despacho do juiz é proferido no prazo de 48 horas após a entrada dos correspondentes autos em juízo.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define sexual violence generally and criminalise gender-based violence, including in contexts involving spouses/intimate relationships, but they do not expressly criminalise rape/sexual assault within marriage, nor do they explicitly remove any spousal exemption or state that marital status is not a defence for rape/sexual offences. Under the coding rules, general criminalisation of sexual violence or GBV is insufficient without explicit applicability to spouses for rape/sexual offences or explicit removal of an exemption.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Public entities, namely health, police, as well as civil society and the LEI VBG Final.indd 14 12-12-2011 15:15:17 media must establish coordination and action mechanisms that ensure uniformity and adequacy in prevention and assistance actions and procedures, namely allowing the standardisation of records, reports or other documents provided for in this law, within the scope of the competences of each entity.\n4. Os Centros de apoio à vítima actuam em articulação com os serviços sanitários, organismos responsáveis pela prestação de apoio jurídico, polícia, entidades judiciárias, Casas de Abrigo, organismo público responsável pela implementação de políticas públicas relativas à criança e ao adolescente e, ainda, organizações não governamentais vocacionadas para a promoção da igualdade de género e família.",
+      "rationale": "The framework requires multiple public entities (health, police, civil society, media) to establish coordination and action mechanisms, and it also specifies that Victim Support Centres act in articulation with a range of services and institutions, reflecting a formal multi-agency coordination/referral approach.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "As entidades públicas, designadamente, de saúde, polícia, bem como a sociedade civil e a comunicação LEI VBG Final.indd 14 12-12-2011 15:15:17 social devem estabelecer mecanismos de articulação e actuação que garantam a uniformidade e adequação nas actuações e procedimentos de prevenção e assistência, designadamente permitindo a uniformização dos autos, relatórios ou outros documentos previstos na presente lei, no âmbito das competências de cada entidade.\n\n4. Os Centros de apoio à vítima actuam em articulação com os serviços sanitários, organismos responsáveis pela prestação de apoio jurídico, polícia, entidades judiciárias, Casas de Abrigo, organismo público responsável pela implementação de políticas públicas relativas à criança e ao adolescente e, ainda, organizações não governamentais vocacionadas para a promoção da igualdade de género e família.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "1. Health and police services that have attended any GBV victim are required to proceed ex officio with the procedures to obtain the initial report, which must contain:\n2. It is the responsibility of the police authorities to send to the Public Prosecutor's Office the report referred to in the previous number, within the time limit established in number 2 of",
+      "rationale": "The framework requires health and police services to obtain an initial report containing specified case information and assigns police authorities responsibility to send that report to the Public Prosecutor's Office, which constitutes mandated recording/documentation and transmission of GBV case information.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Os serviços de saúde e policiais que tenham atendido qualquer vítima de VBG são obrigados a proceder oficiosamente às diligências destinadas a obter o relatório inicial, do qual deve constar:\n\n2. Cabe às autoridades policiais o envio ao Ministério Público do relatório a que se refere o número anterior, no prazo estabelecido no número 2 do",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to gender equality objectives and related measures (e.g., promoting gender equality in education/media) and institutional responsibilities, but they do not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal points, mainstreaming working group, or integration into planning/budgeting framed as mainstreaming).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "5. The State shall develop training and capacity building programmes for health personnel on gender equality and GBV.\nThe State promotes and encourages the specialisation of all professionals involved in the process of information, care and protection of victims of GBV.",
+      "rationale": "The framework explicitly provides for training and capacity-building programmes for health personnel on gender equality and GBV and promotes/encourages specialisation of professionals involved in information, care, and protection of GBV victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. O Estado desenvolverá programas de formação e capacitação do pessoal sanitário em matéria de igualdade de género e em VBG.\n\nO Estado promove e incentiva a especialização de todos os profissionais que intervenham no processo de informação, atenção e protecção das vítimas de VBG.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "2. Compete ao organismo público responsável pela promoção de políticas públicas relativas à igualdade de género a implementação e supervisão dos Centros de apoio à vítima, bem como o incentivo à formação de redes de combate à VBG.\nb) The promotion of studies, statistical research and periodic evaluation of results relating to the provisions of the previous paragraph;",
+      "rationale": "The framework assigns an entity responsibility for implementation and supervision of Victim Support Centres, and it also provides for periodic evaluation of results related to educational measures, which together indicate monitoring/supervision and evaluation functions connected to implementation of measures under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Compete ao organismo público responsável pela promoção de políticas públicas relativas à igualdade de género a implementação e supervisão dos Centros de apoio à vítima, bem como o incentivo à formação de redes de combate à VBG.\n\nb) A promoção de estudos, pesquisas estatísticas e avaliação periódica dos resultados referentes ao disposto na alínea anterior;",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "1. Deve ser criado pelo Governo um fundo autónomo de apoio à vítima de VBG, designado Fundo de Apoio.\nO Fundo é ainda financiado mediante a inclusão anual de verbas próprias no Orçamento do Estado.",
+      "rationale": "The framework requires creation of an autonomous victim support fund and specifies that the fund is financed through annual inclusion of dedicated amounts in the State Budget, establishing a concrete funding mechanism tied to GBV victim support and related structures/programmes.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Deve ser criado pelo Governo um fundo autónomo de apoio à vítima de VBG, designado Fundo de Apoio.\n\nO Fundo é ainda financiado mediante a inclusão anual de verbas próprias no Orçamento do Estado.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "1. Devem ser criados pelo Governo, em articulação com as Câmaras Municipais e outras entidades vocacionadas para o efeito, Centros de Apoio à Vítima, enquanto estruturas de atendimento multidisciplinar, designadamente nos domínios de prestação de informação, aten- LEI VBG Final.indd 21 12-12-2011 15:15:17 dimento psicológico e jurídico, apoio social, apoio educativo à unidade familiar, orientação e inserção laboral.\n4. Os Centros de apoio à vítima actuam em articulação com os serviços sanitários, organismos responsáveis pela prestação de apoio jurídico, polícia, entidades judiciárias, Casas de Abrigo, organismo público responsável pela implementação de políticas públicas relativas à criança e ao adolescente e, ainda, organizações não governamentais vocacionadas para a promoção da igualdade de género e família.",
+      "rationale": "The framework mandates creation of Victim Support Centres as multidisciplinary service structures and specifies that they operate in articulation with multiple sectors (health, legal support, police, judiciary, shelters, etc.), which constitutes an integrated/multidisciplinary victim-support mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Devem ser criados pelo Governo, em articulação com as Câmaras Municipais e outras entidades vocacionadas para o efeito, Centros de Apoio à Vítima, enquanto estruturas de atendimento multidisciplinar, designadamente nos domínios de prestação de informação, aten- LEI VBG Final.indd 21 12-12-2011 15:15:17 dimento psicológico e jurídico, apoio social, apoio educativo à unidade familiar, orientação e inserção laboral.\n\n4. Os Centros de apoio à vítima actuam em articulação com os serviços sanitários, organismos responsáveis pela prestação de apoio jurídico, polícia, entidades judiciárias, Casas de Abrigo, organismo público responsável pela implementação de políticas públicas relativas à criança e ao adolescente e, ainda, organizações não governamentais vocacionadas para a promoção da igualdade de género e família.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions establish support centres/shelters and describe victim assistance and inter-agency duties to report, but they do not establish a victim-facing reporting mechanism/service (e.g., hotline, designated complaint-receiving service, or explicit channel for victims to report/seeking emergency support).",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "1. Devem ser criadas pelo Governo, em articulação, com as Câmaras Municipais e entidades não-governamen- LEI VBG Final.indd 22 12-12-2011 15:15:17 tais vocacionadas, Casas de Abrigo para as vítimas e os menores a seu cargo, visando o seu acolhimento temporário e sigiloso, nos casos em que a permanência na sua residência implique ameaça iminente contra a sua integridade física ou vida.",
+      "rationale": "The framework mandates the creation of Shelter Houses for victims (and minors in their care) to provide temporary and confidential accommodation when remaining at home poses imminent threat, which is explicit provision of safe accommodation.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Devem ser criadas pelo Governo, em articulação, com as Câmaras Municipais e entidades não-governamen- LEI VBG Final.indd 22 12-12-2011 15:15:17 tais vocacionadas, Casas de Abrigo para as vítimas e os menores a seu cargo, visando o seu acolhimento temporário e sigiloso, nos casos em que a permanência na sua residência implique ameaça iminente contra a sua integridade física ou vida.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "2. Victims who demonstrate that they do not have economic means must be ensured the right to legal aid, representation or assistance by a lawyer, on a priority and urgent basis.",
+      "rationale": "The framework expressly ensures victims who lack economic means the right to legal aid/representation/assistance by a lawyer on a priority and urgent basis, which is a direct legal assistance entitlement for GBV victims.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Deve ser assegurado às vítimas que demonstrem não dispor de meios económicos o direito ao patrocínio, representação ou assistência por advogado, de forma prioritária e urgente.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "1. Public health services must ensure adequate, urgent care for victims of GBV, exempt from payment of fees.",
+      "rationale": "The framework requires public health services to ensure adequate and urgent care for GBV victims (with fee exemption), which is an operative obligation linking health services to victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Os serviços públicos de saúde devem assegurar às vítimas de VGB um atendimento adequado, urgente e isento do pagamento de taxas.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "d) Acompanhamento e tratamento psicológico.\n1. Devem ser criados pelo Governo, em articulação com as Câmaras Municipais e outras entidades vocacionadas para o efeito, Centros de Apoio à Vítima, enquanto estruturas de atendimento multidisciplinar, designadamente nos domínios de prestação de informação, aten- LEI VBG Final.indd 21 12-12-2011 15:15:17 dimento psicológico e jurídico, apoio social, apoio educativo à unidade familiar, orientação e inserção laboral.",
+      "rationale": "The framework explicitly guarantees psychological follow-up/treatment for GBV victims and also establishes victim support centres as multidisciplinary structures including psychological services, satisfying provision of psychosocial/psychological support.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) Acompanhamento e tratamento psicológico.\n\n1. Devem ser criados pelo Governo, em articulação com as Câmaras Municipais e outras entidades vocacionadas para o efeito, Centros de Apoio à Vítima, enquanto estruturas de atendimento multidisciplinar, designadamente nos domínios de prestação de informação, aten- LEI VBG Final.indd 21 12-12-2011 15:15:17 dimento psicológico e jurídico, apoio social, apoio educativo à unidade familiar, orientação e inserção laboral.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "2. Support is ensured for the victim of GBV with regard to guidance and professional insertion, directly through the Victim Support Centres and Shelter Houses or through other existing programmes that should also be promoted by the State.\n1. Devem ser criados pelo Governo, em articulação com as Câmaras Municipais e outras entidades vocacionadas para o efeito, Centros de Apoio à Vítima, enquanto estruturas de atendimento multidisciplinar, designadamente nos domínios de prestação de informação, aten- LEI VBG Final.indd 21 12-12-2011 15:15:17 dimento psicológico e jurídico, apoio social, apoio educativo à unidade familiar, orientação e inserção laboral.",
+      "rationale": "The framework provides longer-term support measures linked to recovery/reintegration, including guidance and professional insertion (employment-related reintegration) through Victim Support Centres/Shelters, and the centres’ mandate includes labour orientation/insertion and family educational support.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. É assegurado o apoio à vítima de VBG no que se refere à orientação e inserção profissional, directamente através dos Centros de Apoio à Vítima e das Casas de Abrigo ou através de outros programas existentes que deverão ser também fomentados pelo Estado.\n\n1. Devem ser criados pelo Governo, em articulação com as Câmaras Municipais e outras entidades vocacionadas para o efeito, Centros de Apoio à Vítima, enquanto estruturas de atendimento multidisciplinar, designadamente nos domínios de prestação de informação, aten- LEI VBG Final.indd 21 12-12-2011 15:15:17 dimento psicológico e jurídico, apoio social, apoio educativo à unidade familiar, orientação e inserção laboral.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "1. A administração penitenciária, em articulação com o organismo público responsável pela promoção de políticas públicas relativas à igualdade de género, deve LEI VBG Final.indd 37 12-12-2011 15:15:19 realizar programas específicos para reclusos condenados por crimes de VGB, através de pessoal qualificado e especializado.",
+      "rationale": "The framework requires the penitentiary administration to carry out specific programmes for prisoners convicted of GBV crimes, through qualified and specialised personnel, which is an operative perpetrator-focused intervention programme.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. A administração penitenciária, em articulação com o organismo público responsável pela promoção de políticas públicas relativas à igualdade de género, deve LEI VBG Final.indd 37 12-12-2011 15:15:19 realizar programas específicos para reclusos condenados por crimes de VGB, através de pessoal qualificado e especializado.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "The Government is responsible for preparing the National Awareness and Prevention Plan for G BV, with the purpose of:\nc) Establishing the bases for articulation with other public entities and non-governmental organizations, as well as private entities for the consolidation of interventions in the prevention and awareness against GBV;",
+      "rationale": "The policy assigns the Government responsibility to prepare a National Awareness and Prevention Plan for GBV and explicitly includes interventions for “prevention and awareness against GBV,” which constitutes an operative awareness/prevention activity directed at gender-based violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Governo é responsável pela elaboração do Plano nacional de sensibilização e prevenção da V BG, com a finalidade de:\n\nc) Estabelecer as bases de articulação com as demais entidades públicas e organizações não governamentais, bem como entidades privadas para a consolidação das intervenções na prevenção e sensibilização contra a VBG;",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "a) The adoption of educational measures that promote gender equality and eliminate sexist or discriminatory stereotypes, safeguarding respect for fundamental rights and freedoms and tolerance;\nd) Designing community and public training programs for the promotion of gender equality;",
+      "rationale": "The policy includes operative provisions requiring educational measures to promote gender equality and eliminate sexist/discriminatory stereotypes, and it also provides for community/public training programs for the promotion of gender equality within a national awareness and prevention plan for GBV, satisfying the requirement for education/awareness activities about gender equality as prevention-related measures.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) A adopção de medidas educativas que fomentem a igualdade de género e eliminem os estereótipos sexistas ou discriminatórios, salvaguardando o respeito pelos direitos e liberdades fundamentais e a tolerância;\n\nd) Conceber programas de formação comunitária e pública para a promoção da igualdade de género;",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy includes victim assistance information about rights and establishes GBV-related offences and procedures, none of the cited sentences explicitly provide for dissemination/education/awareness activities specifically about GBV/VAW laws, regulations, policies, or legal protections as a prevention strategy.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to educational measures promoting gender equality and to training of professionals for early detection, but they do not explicitly identify education institutions/curricula/quality-of-education improvements as measures to prevent violence against women/GBV (i.e., no explicit linkage framing education mechanisms as VAW/GBV prevention).",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences include general gender-equality educational measures and GBV prevention/awareness planning, but they do not specify programmes or activities that explicitly target or engage men and/or boys (or masculinities/gender-norm change among men/boys) to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "c) Establishing the bases for articulation with other public entities and non-governmental organizations, as well as private entities for the consolidation of interventions in the prevention and awareness against GBV;\n4. Os Centros de apoio à vítima actuam em articulação com os serviços sanitários, organismos responsáveis pela prestação de apoio jurídico, polícia, entidades judiciárias, Casas de Abrigo, organismo público responsável pela implementação de políticas públicas relativas à criança e ao adolescente e, ainda, organizações não governamentais vocacionadas para a promoção da igualdade de género e família.\n1. Devem ser criadas pelo Governo, em articulação, com as Câmaras Municipais e entidades não-governamen- LEI VBG Final.indd 22 12-12-2011 15:15:17 tais vocacionadas, Casas de Abrigo para as vítimas e os menores a seu cargo, visando o seu acolhimento temporário e sigiloso, nos casos em que a permanência na sua residência implique ameaça iminente contra a sua integridade física ou vida.",
+      "rationale": "The cited operative provisions explicitly provide for articulation/partnership with non-governmental organisations in GBV prevention/awareness and require victim support structures (support centres and shelters) to operate in coordination with, or be created in articulation with, relevant NGOs.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) Estabelecer as bases de articulação com as demais entidades públicas e organizações não governamentais, bem como entidades privadas para a consolidação das intervenções na prevenção e sensibilização contra a VBG;\n\n4. Os Centros de apoio à vítima actuam em articulação com os serviços sanitários, organismos responsáveis pela prestação de apoio jurídico, polícia, entidades judiciárias, Casas de Abrigo, organismo público responsável pela implementação de políticas públicas relativas à criança e ao adolescente e, ainda, organizações não governamentais vocacionadas para a promoção da igualdade de género e família.\n\n1. Devem ser criadas pelo Governo, em articulação, com as Câmaras Municipais e entidades não-governamen- LEI VBG Final.indd 22 12-12-2011 15:15:17 tais vocacionadas, Casas de Abrigo para as vítimas e os menores a seu cargo, visando o seu acolhimento temporário e sigiloso, nos casos em que a permanência na sua residência implique ameaça iminente contra a sua integridade física ou vida.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors for GBV prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address education measures and training in the education area, but they do not identify schools/universities/education institutions as partners or require/authorise collaboration with education institutions in GBV prevention or response.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference in the candidate sentences is printing sponsorship information, which does not establish an operative cooperation mechanism with international organisations for GBV prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "2. Public entities, namely health, police, civil society and the media, promote assistance to victims of GBV, including information about their rights, their protection and safety, social assistance, places for providing support to victims, status of proceedings, among others.\nPublic entities, namely health, police, as well as civil society and the LEI VBG Final.indd 14 12-12-2011 15:15:17 media must establish coordination and action mechanisms that ensure uniformity and adequacy in prevention and assistance actions and procedures, namely allowing the standardisation of records, reports or other documents provided for in this law, within the scope of the competences of each entity.",
+      "rationale": "The cited operative provisions explicitly include “the media” among the entities that promote assistance to GBV victims and require coordination/action mechanisms among public entities including the media for prevention and assistance actions and procedures.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. As entidades públicas, designadamente, de saúde, polícia, sociedade civil e comunicação social, promovem assistência às vítimas de VBG, compreendendo informações sobre seus direitos, sua protecção e segurança, assistência social, locais de prestação de apoio às vítimas, estado dos processos, entre outros.\n\nAs entidades públicas, designadamente, de saúde, polícia, bem como a sociedade civil e a comunicação LEI VBG Final.indd 14 12-12-2011 15:15:17 social devem estabelecer mecanismos de articulação e actuação que garantam a uniformidade e adequação nas actuações e procedimentos de prevenção e assistência, designadamente permitindo a uniformização dos autos, relatórios ou outros documentos previstos na presente lei, no âmbito das competências de cada entidade.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "d) Designing community and public training programs for the promotion of gender equality;",
+      "rationale": "The National Awareness and Prevention Plan’s purposes include designing “community and public training programs” for promoting gender equality, which constitutes an operative provision providing for community/public engagement in prevention-related programming connected to GBV.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) Conceber programas de formação comunitária e pública para a promoção da igualdade de género;",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "c) Establishing the bases for articulation with other public entities and non-governmental organizations, as well as private entities for the consolidation of interventions in the prevention and awareness against GBV;\ne) Defining the scope of intervention in partnership between public and private entities directed at the progressive improvement of interpersonal relations in matters of gender.",
+      "rationale": "The operative provision on the National Awareness and Prevention Plan explicitly includes articulation with “private entities” and defines intervention “in partnership between public and private entities” for prevention/awareness against GBV, establishing private-sector participation in GBV-related prevention efforts.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) Estabelecer as bases de articulação com as demais entidades públicas e organizações não governamentais, bem como entidades privadas para a consolidação das intervenções na prevenção e sensibilização contra a VBG;\n\ne) Definir o âmbito de intervenção em regime de parceria entre entidades públicas e privadas direccionadas à progressiva melhoria das relações inter-pessoais em matéria de género.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe a Victims Support Fund financed by judicial costs and annual allocations in the State Budget, and mention coordination with municipal councils for creating support centres/shelters, but they do not explicitly identify local/municipal government budget allocations as a funding source.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "O Fundo é ainda financiado mediante a inclusão anual de verbas próprias no Orçamento do Estado.",
+      "rationale": "The policy explicitly states that the Support Fund is financed through annual allocations included in the State Budget, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "O Fundo é ainda financiado mediante a inclusão anual de verbas próprias no Orçamento do Estado.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "Printing Sponsorship: UNFPA/UN",
+      "rationale": "The policy’s technical information explicitly notes printing sponsorship by UNFPA/UN, which is an international organization providing support connected to the policy document.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Patrocínio da Impressão: UNFPA/UN",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "2. Reverte para o Fundo de Apoio 50% do montante das custas judiciais aplicáveis, nos processos tramitados nos termos da presente lei.",
+      "rationale": "The policy identifies a non-budgetary legal revenue stream—50% of applicable judicial costs in cases processed under the law—as reverting to the Support Fund, which constitutes an ‘other legal source’ of funding.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Reverte para o Fundo de Apoio 50% do montante das custas judiciais aplicáveis, nos processos tramitados nos termos da presente lei.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference State Budget financing and coordination with municipal councils, but do not mention any provincial-level government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 27,
+    "resolved": 27,
+    "rate": 1.0
+  }
+}

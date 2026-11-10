@@ -1,0 +1,969 @@
+{
+  "policy_file": "55. Eswatini - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T14:31:18.146338+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(j) engages any other controlling or abusive behaviour towards the aggrieved person− where such conduct harms or may cause imminent harm to the safety, health or well-being of the aggrieved person, commits the offence of domestic violence and shall on conviction, be liable to pay a fine not exceeding seventy-five thousand Emalangeni or a term of imprisonment not exceeding fifteen years or both.\n(f) they share or recently shared the same residence; \"domestic violence\" means−\n83.",
+      "rationale": "The candidate sentences include operative provisions that criminalise domestic violence as an offence, define domestic violence and domestic relationship, and establish court powers to issue protection orders to protect against domestic violence—meeting the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(j) engages any other controlling or abusive behaviour towards the aggrieved person− where such conduct harms or may cause imminent harm to the safety, health or well-being of the aggrieved person, commits the offence of domestic violence and shall on conviction, be liable to pay a fine not exceeding seventy-five thousand Emalangeni or a term of imprisonment not exceeding fifteen years or both.\n\n(f) they share or recently shared the same residence; “domestic violence” means−\n\n83. (1) A Court may make an order against a respondent for the benefit of the aggrieved person if the Court is satisfied that−",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(1) A person who rapes another commits an offence of rape and, for purposes of this Act, the offence of rape is committed either by a male or female person against another person.\n5. (1) A person who unlawfully commits a sexual violation against another person, without the consent of that other person commits the offence of sexual assault.\n48. (1) A person who sexually harasses another commits an offence and shall, on conviction, be liable to pay a fine not exceeding twenty-five thousand Emalangeni or to imprisonment for a period not exceeding ten years or to both.",
+      "rationale": "The candidate sentences contain operative criminal provisions defining and criminalising rape and sexual assault, and also criminalising sexual harassment, which satisfies the criterion’s requirement that sexual violence/assault/rape/harassment be prohibited or criminalised in operative law.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. (1) A person who rapes another commits an offence of rape and, for purposes of this Act, the offence of rape is committed either by a male or female person against another person.\n\n5. (1) A person who unlawfully commits a sexual violation against another person, without the consent of that other person commits the offence of sexual assault.\n\n48. (1) A person who sexually harasses another commits an offence and shall, on conviction, be liable to pay a fine not exceeding twenty-five thousand Emalangeni or to imprisonment for a period not exceeding ten years or to both.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(a) physically abuses;\n(a) physical abuse;\n\"interim protection order\" is an order for a short period of time until a Court decides whether to make a protection order for the benefit of the aggrieved person; \"intimidation\" means uttering or conveying a threat, or causing the aggrieved person to receive a threat, which induces fear; \"Minister\" means Minister responsible for Children Welfare, Gender and Family Affairs; \"physical abuse\" means any act or threat of physical violence towards the aggrieved person; \"prescribed\" means prescribed by regulations made under this Act; \"protection order\" means an order issued under section 81 but excludes an interim protection order; \"respondent\" means−",
+      "rationale": "The candidate sentences include physical abuse/physical violence as an operative component of the domestic-violence offence and definition (including a definition of physical abuse as an act or threat of physical violence), which constitutes substantive legal coverage of physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) physically abuses;\n\n(a) physical abuse;\n\n(a) repeatedly watching, or loitering outside of or near the building or place where the aggrieved person resides, works, carries on business, studies or happens to be; (b) repeatedly making telephone calls or inducing another person to make telephone calls to the aggrieved person, whether or not conversation ensues; or (c) repeatedly sending, delivering or causing the delivery of letters, telegrams, packages, facsimiles, electronic mail including text messages and emails or other objects to the aggrieved person; “interim protection order” is an order for a short period of time until a Court decides whether to make a protection order for the benefit of the aggrieved person; “intimidation” means uttering or conveying a threat, or causing the aggrieved person to receive a threat, which induces fear; “Minister” means Minister responsible for Children Welfare, Gender and Family Affairs; “physical abuse” means any act or threat of physical violence towards the aggrieved person; “prescribed” means prescribed by regulations made under this Act; “protection order” means an order issued under section 81 but excludes an interim protection order; “respondent” means−",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(c) emotionally, verbally and psychologically abuses;\n(d) household necessities; \"emotional, verbal and psychological abuse\" means a display of degrading, demeaning or humiliating conduct towards the aggrieved person, including-",
+      "rationale": "The candidate sentences explicitly include psychological abuse as a form of domestic violence and provide an operative definition of “emotional, verbal and psychological abuse,” indicating substantive legal coverage rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) emotionally, verbally and psychologically abuses;\n\n(d) household necessities; “emotional, verbal and psychological abuse” means a display of degrading, demeaning or humiliating conduct towards the aggrieved person, including-",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(d) economically abuses;\n(j) any other controlling or abusive behaviour towards the aggrieved person− where such conduct harms or may cause imminent harm to the safety, health or well-being of the aggrieved person; \"economic abuse\" includes−",
+      "rationale": "The candidate sentences list economic abuse as a form of domestic violence and provide an operative definition of “economic abuse” (including deprivation of resources, disposal of property, and preventing work), which constitutes substantive legal recognition of economic violence/abuse.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) economically abuses;\n\n(j) any other controlling or abusive behaviour towards the aggrieved person− where such conduct harms or may cause imminent harm to the safety, health or well-being of the aggrieved person; “economic abuse” includes−",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "A person shall not marry a child in contravention of the Marriage Act No 47 of 1964 or any Act succeeding the Marriage Act No. 47 of 1964.",
+      "rationale": "The Act contains an operative prohibition on marrying a child (in contravention of the Marriage Act), which is a recognized harmful practice (child/early marriage) under the coding rules. This is a substantive legal rule rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "43. A person shall not marry a child in contravention of the Marriage Act No 47 of 1964 or any Act succeeding the Marriage Act No. 47 of 1964.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention femicide/feminicide (or an equivalent term) or establish any femicide-specific offence, aggravating factor, classification, registry/observatory, or prevention/response mechanism tied explicitly to gender-motivated killing of women.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences address commercial sexual exploitation, prostitution-related offences, and related conduct, but they do not mention or define human trafficking/trafficking in persons, nor do they identify trafficking victims or trafficking-specific prevention/protection/institutional measures. Under the coding rules, exploitation alone without trafficking is insufficient.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "(v) penetration past the hymen or hymenal remnants; \"sexual exploitation\" means−\n(1) A person who engages in commercial sexual exploitation commits an offence and shall, on conviction, be liable to pay a fine not exceeding one hundred thousand Emalangeni or to a term of imprisonment not exceeding twenty years or both, but where the victim is a child, that person shall, on conviction, be liable to a term of imprisonment not exceeding twenty-five years.\n(2) For the purposes of this section, a person commits commercial sexual exploitation if, in relation to another person, for financial or other reward, favour or compensation to such person or to any other person, the first mentioned person–",
+      "rationale": "The Act includes an operative definition of “sexual exploitation” and criminalises “commercial sexual exploitation,” including conduct involving using a person for sexual acts/violations for financial or other reward. This directly establishes a sexual-exploitation nexus and creates offences, meeting the substantive threshold.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(v) penetration past the hymen or hymenal remnants; “sexual exploitation” means−\n\n13. (1) A person who engages in commercial sexual exploitation commits an offence and shall, on conviction, be liable to pay a fine not exceeding one hundred thousand Emalangeni or to a term of imprisonment not exceeding twenty years or both, but where the victim is a child, that person shall, on conviction, be liable to a term of imprisonment not exceeding twenty-five years.\n\n(2) For the purposes of this section, a person commits commercial sexual exploitation if, in relation to another person, for financial or other reward, favour or compensation to such person or to any other person, the first mentioned person–",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "(1) A person shall not use electronic communication to−\n33. (1) A person who observes or visually records another person, in circumstances where a reasonable adult would expect to be afforded privacy–\n34.",
+      "rationale": "The Act contains operative provisions criminalising use of electronic communication to procure children for sexual acts/violations and criminalising privacy-violating visual recording and distribution of prohibited visual recordings. These are technology-facilitated forms of sexual exploitation/abuse and image-based abuse addressed through criminal offences.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "40. (1) A person shall not use electronic communication to−\n\n33. (1) A person who observes or visually records another person, in circumstances where a reasonable adult would expect to be afforded privacy–\n\n(b) when the observation or visual recording is made for the purpose of observing or visually recording the genital or anal area of that other person− commits an offence and shall, on conviction, be liable to a term of imprisonment not exceeding fifteen years. Distributing prohibited visual recordings.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(j) engages any other controlling or abusive behaviour towards the aggrieved person− where such conduct harms or may cause imminent harm to the safety, health or well-being of the aggrieved person, commits the offence of domestic violence and shall on conviction, be liable to pay a fine not exceeding seventy-five thousand Emalangeni or a term of imprisonment not exceeding fifteen years or both.\n(8) Any person who contravenes subsection (1) under circumstances where there are no aggravating factors, as referred to under the Criminal Procedure and Evidence Act shall, on conviction, be liable to a term of imprisonment of−",
+      "rationale": "The text defines domestic violence as an offence and specifies criminal sanctions (fine and/or imprisonment). It also defines rape as an offence with specified imprisonment terms on conviction, demonstrating criminal penalties for acts of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(j) engages any other controlling or abusive behaviour towards the aggrieved person− where such conduct harms or may cause imminent harm to the safety, health or well-being of the aggrieved person, commits the offence of domestic violence and shall on conviction, be liable to pay a fine not exceeding seventy-five thousand Emalangeni or a term of imprisonment not exceeding fifteen years or both.\n\n(8) Any person who contravenes subsection (1) under circumstances where there are no aggravating factors, as referred to under the Criminal Procedure and Evidence Act shall, on conviction, be liable to a term of imprisonment of−",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "78. (1) An application for a protection order may be made by−\n81. An applicant may in the prescribed manner apply to the Court for a protection order.\n(1) Subject to subsection (2), a Court may order that a protection order continues for a period no longer than two years.\n(1) A respondent who contravenes a protection order, interim protection order or any other order made under this Act, including a condition imposed by the order, if−",
+      "rationale": "The framework provides a protection order mechanism: it specifies who can apply (aggrieved person/authorised person/police officer), identifies the issuing authority (Court), provides duration rules for protection orders, and establishes criminal consequences for breach (contravention is an offence with penalties).",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "78. (1) An application for a protection order may be made by−\n\n81. An applicant may in the prescribed manner apply to the Court for a protection order.\n\n(1) Subject to subsection (2), a Court may order that a protection order continues for a period no longer than two years.\n\n(1) A respondent who contravenes a protection order, interim protection order or any other order made under this Act, including a condition imposed by the order, if−",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "Yes",
+      "evidence": "Wherever possible when powers to perform certain actions under this Act are delegated to police officers, those actions are to be undertaken by members of the Domestic Violence, Child Protection and Sexual Offences Unit or the equivalent unit, within the Royal Eswatini Police Service with the exception of duties that need to be undertaken by officers from the Scenes of Crime unit.",
+      "rationale": "The text explicitly references a specific police unit (Domestic Violence, Child Protection and Sexual Offences Unit or equivalent) and directs that delegated police actions under the Act should be undertaken by members of that unit, indicating a designated specialised unit within police services for these cases.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Wherever possible when powers to perform certain actions under this Act are delegated to police officers, those actions are to be undertaken by members of the Domestic Violence, Child Protection and Sexual Offences Unit or the equivalent unit, within the Royal Eswatini Police Service with the exception of duties that need to be undertaken by officers from the Scenes of Crime unit.",
+      "evidence_original_aligned": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "(1) The Minister, in consultation with the Minister responsible for Justice, shall cause the establishment of specialised Courts at a Magistrates Court level to deal with domestic violence cases.\n(2) A specialised Court referred to in subsection (1) is to be called a \"Domestic Violence Court\".",
+      "rationale": "The framework mandates establishment of specialised courts at Magistrates Court level to deal with domestic violence cases and names them \"Domestic Violence Court,\" which is a specialised judicial mechanism for VAW-related cases (at least domestic violence).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Minister, in consultation with the Minister responsible for Justice, shall cause the establishment of specialised Courts at a Magistrates Court level to deal with domestic violence cases.\n\n(2) A specialised Court referred to in subsection (1) is to be called a “Domestic Violence Court”.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "Yes",
+      "evidence": "Any relationship, previous or existing, shall not provide a defence to any offence under this Act.",
+      "rationale": "The framework contains an operative provision stating that any previous or existing relationship shall not provide a defence to any offence under the Act, which removes relationship-based (including spousal/intimate partner) exemptions for sexual offences covered by the Act.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "Any relationship, previous or existing, shall not provide a defence to any offence under this Act.",
+      "evidence_original_aligned": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "The Minister in consultation with the Minister responsible for Justice may prescribe policy directives for proper implementation of this Act by the Director of Public Prosecutions and the members of the Royal Eswatini Police.",
+      "rationale": "The framework provides for inter-ministerial consultation (Minister in consultation with the Minister responsible for Justice) to prescribe policy directives for implementation by multiple justice-sector actors (Director of Public Prosecutions and police). This indicates a cross-agency coordination arrangement for implementation, though it does not clearly establish a standing coordination body/network beyond the consultation and directives mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Minister in consultation with the Minister responsible for Justice may prescribe policy directives for proper implementation of this Act by the Director of Public Prosecutions and the members of the Royal Eswatini Police.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(1) The National Commissioner of Police shall cause to be kept a register of protection orders received by police officers.\n(a) a central register of documents which need to be served under this Act dealing with domestic violence is kept and that such register include provision for the recording of details of service;",
+      "rationale": "The framework mandates maintenance of a register of protection orders (kept centrally) and assigns responsibility to the National Commissioner of Police to keep it. It also requires a central register of documents to be served under the Act (including recording service details), which is a mandated information-recording system related to domestic violence protection processes.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The National Commissioner of Police shall cause to be kept a register of protection orders received by police officers.\n\n(a) a central register of documents which need to be served under this Act dealing with domestic violence is kept and that such register include provision for the recording of details of service;",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming focal points, working groups, or mainstreaming in planning/budgeting). References to a gender-related ministry title or considering gender as a factor do not constitute a gender mainstreaming mechanism under the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "As soon as practicable after their appointment or the coming into force of this Act, whichever is the latter, persons who have duties or responsibilities to perform under this Act including but not limited to Domestic Violence, Child Protection and Sexual Offences Unit in the police force, prosecutors and relevant judicial officers and Court staff, are to attend training on the following issues−",
+      "rationale": "The framework contains an operative provision requiring persons with duties/responsibilities under the Act (including police unit members, prosecutors, judicial officers, and court staff) to attend training, which directly constitutes mandated capacity building for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "As soon as practicable after their appointment or the coming into force of this Act, whichever is the latter, persons who have duties or responsibilities to perform under this Act including but not limited to Domestic Violence, Child Protection and Sexual Offences Unit in the police force, prosecutors and relevant judicial officers and Court staff, are to attend training on the following issues−",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the Act establishes various operational duties (e.g., registers of protection orders, service registers, training, policy directives), but it does not mention monitoring and evaluation of implementation or service delivery, nor does it create an M&E mechanism or reporting requirement for assessing implementation.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided candidate sentences do not include any operative provision requiring allocation of budget/funding for implementation of violence against women response or prevention. The only finance-related reference shown concerns consultation with the Minister responsible for Finance when making regulations that may result in state expenditure, which is not a binding budget-allocation requirement for implementation.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe reporting duties, referrals to counselling/support services, medical protocols, and police assistance (including arranging shelter and medical treatment), but they do not establish, mandate, or recognise a designated integrated/one-stop/multidisciplinary service mechanism or unit responsible for coordinating multiple services for women victims/survivors of violence. References to informing victims of services and making referrals are not framed as an integrated service mechanism.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "70. (1) Any person who witnesses or receives any information of an offence under this Act or has reasonable grounds to believe that an offence under this Act, has taken place or is about to take place, shall report the case to the police or to the relevant structure.\n(3) Any police officer shall, at the scene of an incident of domestic violence or as soon thereafter as is reasonably possible, or when the incident of domestic violence is reported−",
+      "rationale": "The framework contains operative provisions requiring reporting of offences to the police or a relevant structure, and it specifies police duties triggered when domestic violence is reported, including taking statements and assisting the aggrieved person. This constitutes a designated reporting/assistance mechanism through police channels (even though it is not a hotline).",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "70. (1) Any person who witnesses or receives any information of an offence under this Act or has reasonable grounds to believe that an offence under this Act, has taken place or is about to take place, shall report the case to the police or to the relevant structure.\n\n(3) Any police officer shall, at the scene of an incident of domestic violence or as soon thereafter as is reasonably possible, or when the incident of domestic violence is reported−",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(a) render such assistance to the aggrieved person as may be required in the circumstances, including assisting or making arrangements for the aggrieved person to find a suitable shelter and to obtain medical treatment;",
+      "rationale": "The police are required, in operative provisions, to render assistance at the scene of domestic violence including assisting or making arrangements for the aggrieved person to find a suitable shelter, which provides for access to safe accommodation as a protection measure.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) render such assistance to the aggrieved person as may be required in the circumstances, including assisting or making arrangements for the aggrieved person to find a suitable shelter and to obtain medical treatment;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not establish or guarantee legal aid/assistance/representation for victims of violence. They mention court processes, police/prosecutor duties, and that a police officer or authorised person may represent the aggrieved person in proceedings, but this is not framed as legal aid or legal assistance/representation by lawyers or a legal aid scheme for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "74. (1) The Minister responsible for Health shall by notice in the Gazette prescribe the treatment norms and protocols and the procedure for attending to victims of sexual offences.\n75. (1) Any qualified nurse or medical practitioner may examine a victim of a sexual offence with the consent of the victim.\n76. (1) A person medically examining a victim of a sexual offence shall do so in such a manner as to reasonably minimise the effects of secondary trauma on the victim.",
+      "rationale": "The framework includes operative provisions on medical treatment norms and protocols for attending to victims of sexual offences, authorises medical examination of victims by qualified health professionals, and sets requirements for how medical examinations/treatment should be conducted (including minimising secondary trauma). These are explicit health/medical service provisions linked to victims of violence (sexual offences).",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "74. (1) The Minister responsible for Health shall by notice in the Gazette prescribe the treatment norms and protocols and the procedure for attending to victims of sexual offences.\n\n75. (1) Any qualified nurse or medical practitioner may examine a victim of a sexual offence with the consent of the victim.\n\n76. (1) A person medically examining a victim of a sexual offence shall do so in such a manner as to reasonably minimise the effects of secondary trauma on the victim.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "72. Notwithstanding anything to the contrary in this or any other law, it shall be the duty of a police officer who deals with a victim of a sexual offence under this Act or who is a victim of an act of domestic violence to inform the victim of the availability of counselling and other support services, in particular, the availability of Post Exposure Prophylactics (PEP).",
+      "rationale": "The framework imposes a duty on police officers dealing with victims of sexual offences or domestic violence to inform victims about the availability of counselling and other support services, which constitutes an operative referral/support mechanism for counselling services for victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "72. Notwithstanding anything to the contrary in this or any other law, it shall be the duty of a police officer who deals with a victim of a sexual offence under this Act or who is a victim of an act of domestic violence to inform the victim of the availability of counselling and other support services, in particular, the availability of Post Exposure Prophylactics (PEP).",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to counselling and support services generally, but do not mention religious or spiritual counselling, pastoral care, faith-based support, or any role for religious leaders or institutions in providing victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on reporting, referral to counselling/support services, medical treatment, and procedural protections. They do not establish longer-term recovery/rehabilitation/reintegration measures (e.g., livelihood support, housing support, vocational training) specifically for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address reporting, victim referral and support, court procedures, and sanctions, but do not establish or mandate perpetrator-focused intervention, rehabilitation, treatment, counselling, or behaviour-change programmes, nor do they authorise referrals of perpetrators to such programmes.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on court procedures, protection orders, confidentiality/publication restrictions, police duties to inform victims of rights and services, and training for officials. None of the candidate sentences require or provide public information/awareness/education activities directed at violence against women as a primary prevention measure (e.g., public campaigns or community education aimed at preventing VAW).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain operative provisions requiring information/education/awareness activities about gender equality or women’s rights, nor do they link any such educational activities to preventing violence against women. The excerpts are largely definitional and procedural/administrative.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes police duties to provide a notice and explain remedies/rights to an aggrieved person in domestic violence incidents, the criterion requires dissemination/education about VAW laws and policies as primary prevention (public/community-facing legal awareness). The cited provisions are incident-response and victim-rights information at the scene, not a prevention-oriented dissemination of VAW laws/policies to the public or communities.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify education systems, curricula, educational institutions, or improvements in education quality as measures to prevent violence against women. References to training are for officials (police, prosecutors, judicial officers) and do not constitute formal education-sector prevention measures.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentences establish prevention activities that specifically engage men and boys (e.g., programmes targeting masculinities, gender norms, or male engagement) to prevent violence against women. The excerpts address offences, procedures, and institutional duties, not male-focused prevention programming.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(d) make every effort to use socio-economic reports prepared by social workers whether from governmental or non-governmental organisations.",
+      "rationale": "The text includes an operative sentencing provision directing the Court to use socio-economic reports prepared by social workers, explicitly including those from non-governmental organisations, which constitutes formal participation of NGOs in VAW-related proceedings/implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) make every effort to use socio-economic reports prepared by social workers whether from governmental or non-governmental organisations.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference marriage according to law, custom or religion in defining domestic relationships, but do not establish, require, or authorise any engagement or collaboration with religious or traditional/cultural organisations or leaders for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only education-related content defines “educator” as a type of specialist/professional for evidentiary purposes; it does not establish cooperation with schools, universities, or other education institutions in VAW prevention or response, nor assign such institutions roles or partnership mechanisms.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address mutual assistance arrangements between Eswatini and other States and extradition/jurisdiction, but do not establish cooperation with international organisations (e.g., UN agencies or other international bodies) specifically for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences include definitions and procedural/criminal provisions on domestic violence and sexual offences, plus a restriction on publication of identifying information that explicitly mentions journalists/editors/publishers. However, none of the candidate sentences establish, require, or authorise cooperation/partnership with media actors for prevention, awareness, education, dissemination, or response to violence against women; they only regulate publication/confidentiality in proceedings.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include a general duty for \"any person\" to report offences and various justice/police/court procedures, but they do not establish community participation mechanisms, community-based programmes, or identify communities/community organisations as partners in prevention or response. The reporting duty is explicitly insufficient under the coding rules to infer community engagement.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include definitions of employer/employee and licensing-related obligations (e.g., licensing authority checks against a sex offender register), but they do not establish or require collaboration with businesses/private-sector actors for VAW prevention or response, nor do they identify employers/businesses as partners in awareness, victim support, referral, or workplace measures addressing VAW.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention funding or budget sources from local governments. References to municipalities/local authorities appear only in definitional or procedural contexts (e.g., defining an employer or identifying a local authority official), not as a financing source.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(a) which may result in expenditure for the State, shall be made in consultation with the Minister responsible for Finance; and",
+      "rationale": "The text explicitly anticipates regulations that may result in expenditure for the State, indicating use of national/state resources (i.e., national government spending) even though no specific budget line or allocation is provided.",
+      "coverage": "Referenced only",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) which may result in expenditure for the State, shall be made in consultation with the Minister responsible for Finance; and",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference in the candidate sentences is to World Health Organisation guidelines, which is an international standard reference but does not indicate international funding, donor support, assistance, partnership, or involvement in implementation as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any non-governmental or alternative funding/budget sources (e.g., fees, fines earmarked as funding, private sector, NGOs, trusts, or other dedicated legal funding mechanisms). Mentions of fines, forfeiture to the State, and no court fees relate to penalties/procedure, not a stated funding source for VAW measures.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions provincial/regional government budgets as a funding source. References to regions (e.g., registrar in each region) are administrative and do not establish a provincial budget contribution.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 3,
+    "03_Institutional_mechanisms.txt": 2,
+    "04_Specialised_Support_Services.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 22,
+    "resolved": 22,
+    "rate": 1.0
+  }
+}

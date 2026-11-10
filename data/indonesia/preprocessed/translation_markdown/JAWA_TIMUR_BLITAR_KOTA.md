@@ -1,0 +1,547 @@
+# MAYOR OF BLITAR
+
+MAYOR OF BLITAR
+
+EAST JAVA PROVINCE
+
+REGIONAL REGULATION OF BLITAR CITY
+
+NUMBER 2 YEAR 2017
+
+CONCERNING
+
+PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE BY THE GRACE OF ALMIGHTY GOD
+
+MAYOR OF BLITAR,
+
+Considering : a. that every citizen has the right to be free from torture, discrimination or treatment that degrades human dignity and has the right to obtain a sense of security and freedom from all forms of violence;
+
+b. that women and children are vulnerable groups who tend to experience Violence, therefore they need to receive legal Protection;
+
+c. that based on the provisions in Law Number 23 Year 2014 concerning Regional Government as amended several times most recently by Law Number 9 Year 2015, women's empowerment and child protection constitute governmental affairs that must be implemented by Regional Governments;
+
+d. that the implementation of Protection of Women and Children Victims of Violence in Blitar City has not been optimal, therefore institutional strengthening and regulation are needed to guarantee its implementation in accordance with applicable provisions;
+
+e. that based on the considerations as referred to in letters a, b, c and d, it is necessary to establish a Regional Regulation concerning Protection of Women and Children Victims of Violence;
+
+In view of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 17 Year 1950 concerning the Establishment of Small City Regions within the Province of East Java, Central Java and West Java (State Gazette of the Republic of Indonesia Year 1950 Number 42) as amended by Law Number 13 Year 1954 concerning Amendment of Laws Number 16 and Number 17 Year 1950 (Former Republic of Indonesia) Concerning the Establishment of Large Cities and Small
+
+Cities in Java (State Gazette of the Republic of Indonesia Year 1954 Number 40, Supplement to the State Gazette of the Republic of Indonesia Number 551);
+
+3. Law Number 4 Year 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia Year 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia 3143);
+
+4. Law Number 7 Year 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention on The Elimination of All Forms of Discrimination Againts Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia 3668);
+
+5. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia 3886);
+
+6. Law Number 23 Year 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 3143); as amended by Law Number 35 Year 2014 concerning Amendment to Law Number 23 Year 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);
+
+7. Law Number 23 Year 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+
+8. Law Number 13 Year 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia Year 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);
+
+9. Law Number 21 Year 2007 concerning Eradication of the Crime of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+10. Law Number 11 Year 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia Year 2009 Number 12, Supplement to the State Gazette of the Republic of Indonesia Number 4976);
+
+11. Law Number 12 Year 2011 concerning Formulation of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+12. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244 Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 Year 2015 concerning Second Amendment to Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58 Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+13. Government Regulation Number 48 Year 1982 concerning Change of Regional Boundaries of the Second Level Municipality of Blitar (State Gazette of the Republic of Indonesia Year 1982
+
+Number 75, Supplement to the State Gazette of the Republic of Indonesia Number 3243);
+
+14. Government Regulation Number 4 Year 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia number 64);
+
+15. Presidential Regulation Number 87 Year 2014 concerning Implementing Regulations of Law Number 12 Year 2011 concerning Formulation of Legislation (State Gazette of the Republic of Indonesia Year 2014 Number 199);
+
+16. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 Year 2008 concerning Implementation of Women's Protection;
+
+16. Regulation of the State Minister for Women's Empowerment and Child Protection Number 3 Year 2008 concerning Implementation of Child Protection;
+
+17. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 1 Year 2010 concerning Minimum Service Standards (SPM) for Integrated Services for Women and Children Victims of Violence (State Gazette of the Republic of Indonesia Year 2010 Number 56);
+
+18. Regulation of the State Minister for Women's Empowerment and Child Protection Number 5 Year 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;
+
+19. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 Year 2011 concerning Guidelines for Handling Child Victims of Violence;
+
+20. Regulation of the State Minister for Women's Empowerment and Child Protection Number 19 Year 2011 concerning Guidelines for Empowerment of Women Victims of Violence;
+
+21. Regulation of the Minister for Women's Empowerment Number 6 Year 2015 concerning the System for Women's Empowerment and Child Protection (State Gazette of the Republic of Indonesia Year 2015 Number 615);
+
+22. Regulation of the Minister of Home Affairs 80 Year 2015 concerning Formulation of Regional Legal Products (State Gazette of the Republic of Indonesia Year 2015 Number 2036);
+
+23. Regional Regulation of East Java Province Number 16 Year 2012 concerning Implementation of Protection of Women and Children Victims of Violence (Regional Gazette of East Java Province Year 2013 Number 3 Series D);
+
+With Mutual Consent:
+
+REGIONAL PEOPLE'S REPRESENTATIVE COUNCIL OF BLITAR CITY
+
+and
+
+MAYOR OF BLITAR
+
+DECIDES:
+
+To enact : REGIONAL REGULATION CONCERNING PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms are defined as:
+
+- 1. Region is the City of Blitar.
+- 2. Regional Government is the Government of Blitar City.
+- 3. Mayor is the Mayor of Blitar.
+- 4. Regional apparatus is the supporting element of the Mayor and Regional House of Representatives in administering government affairs that are regional authority.
+- 5. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child in the womb.
+- 6. Woman is an adult human of female sex and a person who is legally recognized as a woman.
+- 7. Prevention is an activity conducted to prevent the occurrence of acts of violence against women and children.
+- 8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, community, advocates, social institutions, police, prosecutors, courts, or other parties whether temporary.
+- 9. Violence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.
+
+10.Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage or unconsciousness and/or causes death.
+
+11.Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feeling of helplessness or severe psychological suffering to a person.
+
+12.Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and/or certain purposes.
+
+13.Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.
+
+14.Community is individuals, families, groups, social organizations and/or community organizations. 15.Family is a person who has a blood relationship in a direct line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman and/or child.
+
+16.Parent is biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or mother. 17.Services are immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for strengthening and recovery of victims of violence.
+
+| 18.Assistance is all actions in the form of counseling, psychological | therapy, advocacy, and spiritual guidance, for strengthening victims of | violence to resolve the problems faced. |
+|---|---|---|
+| 19.Repatriation is an effort to return women and child victims of | violence to the family, substitute family, or community | that can provide protection and fulfillment of their needs. |
+| 20.Rehabilitation is the recovery of victims from psychosocial disorders and | restoration of normal social functioning, both within the family | and in the community. |
+| 21.Social Reintegration is an effort to reunite victims | with family, community, institutions, or other social environments | that can provide protection. |
+| 22.Institution is an agency/office/body/bureau within the scope of | regional government and/or non-governmental organizations that | provide assistance. |
+
+23.Counseling is the provision of assistance by an expert/trained person in such a way that the psychological understanding and ability of the victim and/or perpetrator increases in solving the problems faced.
+
+24.Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the Region that perform integrated service functions for women and children victims of crime and/or violence, including as a center for information on women's empowerment and child protection.
+
+25.Integrated Service Center for Women's Empowerment and Child Protection hereinafter abbreviated as P2TP2A is a form of UPT established by the Regional Government that functions as an information center, service center and empowerment center for women and children.
+
+26.Regional Action Plan is a foundation and guideline for relevant offices, vertical agencies, and the community, in carrying out activities for the implementation of prevention and protection of women and children victims of violence.
+
+27.Safe House is temporary housing, provided to give protection to victims in accordance with predetermined standards.
+
+# CHAPTER II
+
+PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+The implementation of protection for women and children victims of violence is carried out based on the principles of:
+
+- a. respect and fulfillment of the rights of victims of violence; b. justice and gender equality;
+- c. non-discrimination;
+- d. the best interests of victims;
+- e. empowerment of women and children victims of violence.
+
+#### Article 3
+
+(1) The objectives of implementing protection for women and children victims of violence are to:
+
+- a. prevent violence against women and children including trafficking in persons;
+- b. eliminate all forms of violence and exploitation against women and children;
+- c. protect and provide a sense of security for women and children; d. provide services to women and children victims of violence, reporters, and witnesses;
+- e. facilitate and mediate household disputes to realize harmonious and prosperous household integrity; and
+- f. Empower women and children victims of violence.
+  - (2) The objectives of implementing protection for women and children victims of violence as referred to in paragraph (1), include the aspects of: a. prevention;
+- b. services and assistance;
+- c. reintegration and rehabilitation; and
+- d. empowerment.
+
+# CHAPTER III
+
+FORMS OF VIOLENCE
+
+#### Article 4
+
+Forms of violence against women and children may include:
+
+- a. physical violence;
+- b. psychological violence;
+- c. sexual violence;
+- d. neglect; and
+- e. exploitation.
+
+#### Article 5
+
+Physical violence as referred to in Article 4 letter a includes acts that cause pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or cause death.
+
+#### Article 6
+
+Psychological violence as referred to in Article 4 letter b includes acts that result in fear, loss of self-confidence, loss of ability to act, feeling of helplessness and/or severe psychological suffering to a person.
+
+#### Article 7
+
+Sexual violence as referred to in Article 4 letter c includes: a. acts in the form of sexual harassment;
+
+b. forced sexual intercourse;
+
+c. forced sexual intercourse in an unnatural or unwanted manner; and/or
+
+d. forced sexual intercourse with another person for commercial purposes and or certain purposes.
+
+#### Article 8
+
+Neglect as referred to in Article 4 letter d includes: a. acts that result in the unfulfillment of a child's needs properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;
+
+b. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care;
+
+c. acts of neglecting a person within the scope of one's household, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and/or
+
+d. acts that result in economic dependence by restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.
+
+#### Article 9
+
+Exploitation as referred to in Article 4 letter e includes: a. acts that exploit economically or sexually with the intention of benefiting oneself or others;
+
+b. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or abilities of a person by other parties to obtain material or immaterial benefits; and/or
+
+c. all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including all activities of prostitution or indecency.
+
+# CHAPTER IV
+
+RIGHTS OF VICTIMS
+
+#### Article 10
+
+Every victim has the right to receive:
+
+- a. protection;
+- b. information;
+- c. optimal services;
+- d. continuous handling up to the rehabilitation and reintegration stage; e. confidential handling;
+- f. psychological and legal assistance; and
+- g. guarantee of rights related to status as a family member or community member.
+
+#### Article 11
+
+Child victims of violence, in addition to receiving the rights as referred to in Article 10, also receive special rights, as follows: a. the right to full respect and use for survival, growth and development;
+
+b. the right to basic services;
+
+c. the right to equal protection;
+
+d. the right to be free from various stigmas; and
+
+e. the right to obtain freedom.
+
+# CHAPTER V
+
+OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 12
+
+Obligations and responsibilities in the implementation of protection for women and children victims of violence are the shared responsibility of: a. regional government;
+
+b. society;
+
+c. family; and
+
+d. parents.
+
+#### Article 13
+
+(1) The Regional Government carries out efforts to protect women and children victims of violence through:
+
+- a. implementing protection policies for women and children victims of violence established by the government;
+- b. establishing policies, programs, and activities for the protection of women and children victims of violence;
+- c. formation and implementation of the functions of P2TP2A;
+- d. guaranteeing the implementation of ease of service to victims; e. ensuring effectiveness and efficiency for the victim recovery process; and
+- f. ensuring the creation of cooperation and coordination in victim recovery efforts.
+  - (2) In order to carry out the obligations and responsibilities as referred to in paragraph (1) letter b, the regional government establishes protection action programs and activities for women and children in 1 (one) Regional Action Plan as a basis for regional apparatuses in implementing protection for women and children victims of violence.
+  - (3) The Regional Action Plan as referred to in paragraph (2), shall be further regulated by Mayor Regulation.
+
+#### Article 14
+
+(1) The obligations and responsibilities of society as referred to in Article 12 letter b, are carried out in the form of community participation. (2) The forms of community participation as referred to in paragraph (1), include:
+
+- a. forming family partners at the kelurahan level;
+- b. forming women and child protection units within community organizations;
+- c. conducting independent socialization of women's and children's rights; d. providing first aid to victims; and
+- e. reporting to the competent authority if violence against victims occurs in their environment.
+  - (3) Community participation as referred to in paragraph (1) is carried out by individuals, social institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.
+  - (4) The forms of community participation as referred to in paragraph (2), shall be carried out responsibly.
+
+#### Article 15
+
+The obligations of family and/or parents as referred to in Article 12 letters c and d, who legally have full responsibility to prevent all forms of violence and protect women and children as family members.
+
+# CHAPTER VI
+
+IMPLEMENTATION OF PROTECTION
+
+## Part One
+
+UPT
+
+#### Article 16
+
+(1) The implementation of Women's Empowerment and Protection of Child Victims of Violence is realized, among others, through the establishment of an integrated and networked UPT formed by the Regional Government, society, non-governmental organizations, donor agencies or other institutions.
+
+(2) UPT as referred to in paragraph (1) is P2TP2A or similar institutions that have the same functions and roles.
+
+## Part Two
+
+P2TP2A
+
+### Paragraph 1
+
+Formation
+
+#### Article 17
+
+(1) P2TP2A is established in the Region.
+
+(2) The institutional structure of P2TP2A as referred to in paragraph (1) is determined by Mayor Decree.
+
+(3) P2TP2A as referred to in paragraph (1) is under the coordination of the Regional Apparatus Work Unit or other units that handle women's empowerment and child protection.
+
+### Paragraph 2
+
+Coordination Mechanism
+
+#### Article 18
+
+(1) The implementation of P2TP2A functions as referred to in Article 17, is carried out through coordination with Regional Apparatuses or other units that handle women's empowerment and child protection.
+
+(2) Coordination as referred to in paragraph (1) is carried out in the form of: a. Coordination meetings with work networks; b.Consultation;
+
+c. Submission of data and information; and/or d.Follow-up on case handling.
+
+#### Article 19
+
+Forms of services to victims organized by P2TP2A include:
+
+- a. Medical services ;
+- b. Medicolegal services ;
+- c. Psychosocial services ;
+- d. Legal services and;
+- e. Economic independence services.
+
+#### Article 20
+
+In carrying out the task of providing services to women and children victims of violence, P2TP2A may coordinate with governmental and non-governmental institutions.
+
+## Part Three
+
+Prevention
+
+#### Article 21
+
+(1) To prevent violence against women and children, the government conducts empowerment and awareness-raising for families, parents and the community by providing information, guidance and/or counseling.
+
+(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government undertakes efforts as follows:
+
+- a. increasing the quantity and quality of formal, non-formal and informal education;
+- b. opening accessibility to obtain education, training, funding, income enhancement and social services;
+- c. opening employment opportunities for women;
+- d. building community participation and concern to carry out prevention and protection of women and children from violence;
+- e. building and providing a complete and easily accessible information system;
+- f. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children; and
+- g. opening complaint posts for the protection of women and children from violence.
+
+#### Article 22
+
+(1) Prevention of violence against women and children as referred to in Article 21, is carried out by regional apparatuses whose duties and functions are in the fields of:
+
+- a. Social ;
+- b. health;
+- c. education;
+- d. manpower;
+- e. women's empowerment and child protection;
+- f. mental and spiritual; and
+- g. public peace and order.
+  - (2) Prevention of violence by regional apparatuses as referred to in paragraph (1), is carried out in an integrated and continuous manner based on the Regional Action Plan.
+
+## Part Four
+
+Assistance Mechanism
+
+#### Article 23
+
+(1) Assistance is carried out by persons and/or institutions that cooperate with P2TP2A.
+
+(2) The assistance mechanism as referred to in paragraph (1), is regulated in the Mayor Regulation.
+
+## Part Five
+
+Principles of Service and Assistance
+
+#### Article 24
+
+The provision of services and assistance to victims shall be carried out with the principles:
+
+- a. fast, safe, and empathetic;
+- b. guarantee of confidentiality;
+- c. easily accessible; and
+- d. free of charge.
+
+## Part Six
+
+Services
+
+#### Article 25
+
+(1) Forms of services provided to women and children victims of violence organized by UPT, include:
+
+- a. Medical services in the form of treatment and recovery of physical condition carried out by medical and paramedical personnel;
+- b. Medicolegal services are a form of medical services for the purposes of evidence in the field of law;
+- c. Legal aid services to assist victims of violence in undergoing judicial processes;
+- d. Spiritual services;
+- e. First psychosocial assistance to victims is carried out to identify the occurrence of violence and trauma experienced by victims; f. Assistance to victims of violence carried out by competent persons or institutions with expertise in counseling, therapy and advocacy for strengthening and recovery of victims of violence and who have cooperated with UPT; and
+- g. economic independence services in the form of services for skills training and provision of economic access so that victims can be independent. (2) Forms of services as referred to in paragraph (1), are implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of: a. social;
+- b. health;
+- c. women's empowerment and child protection; and
+- d. mental and spiritual.
+  - (3) In carrying out duties and functions as referred to in paragraph (2), the regional government cooperates with government agencies, provincial government, other district/city governments, community, family and parents.
+  - (4) Further provisions regarding the procedures for services, and handling of women and children victims of violence as referred to in paragraph (1), paragraph (2), and paragraph (3), are regulated in a Mayor Regulation.
+
+## Part Seven
+
+Protection
+
+#### Article 26
+
+(1) In the event that victims of violence require continuous treatment, they are entitled to stay in a safe house or alternative residence. (2) Continuous treatment as referred to in paragraph (1), is treatment at the rehabilitation stage carried out by individuals, groups or Government and non-Government institutions.
+
+#### Article 27
+
+(1) The safe house as referred to in Article 26 paragraph (1), provides a place and/or temporary safe shelter for victims of violence until their rights are restored.
+
+(2) The organization and/or management of safe houses as referred to in paragraph (1), is carried out by the Regional Apparatus that organizes government affairs in the field of Women's Empowerment and Child Protection.
+
+(3) For security and at the request of victims of violence, the manager or organizer of the safe house as referred to in paragraph (2) may place victims of violence in a certain confidential place.
+
+(4) Further provisions regarding the organization of safe houses as referred to in paragraph (2) are further regulated in a Mayor Regulation.
+
+# CHAPTER VII
+
+GUIDANCE AND SUPERVISION
+
+#### Article 28
+
+(1) The Regional Government conducts guidance and supervision of the organization of protection for women and children victims of violence.
+
+(2) Guidance as referred to in paragraph (1), includes: a. guidelines and fulfillment standards;
+
+b. technical guidance and training;
+
+c. provision of facilities;
+
+d. monitoring; and
+
+e. evaluation
+
+(3) Supervision as referred to in paragraph (1), is carried out with the principles:
+
+- a. professional;
+- b. transparent; and
+- c. accountable.
+
+#### Article 29
+
+Guidance and supervision as referred to in Article 28 paragraph (2) and paragraph (3), are carried out in order to realize the objectives of organizing protection for women and children victims of violence in accordance with minimum service standards established by laws and regulations.
+
+# CHAPTER VIII
+
+REPORTING
+
+#### Article 30
+
+(1) P2TP2A reports the implementation of the organization of protection for women and children victims of violence to the Mayor.
+
+(2) Reporting as referred to in paragraph (1) is submitted in writing, covering:
+
+- a. administration;
+- b. finance;
+- c. services; and
+- d. performance.
+  - (3) Submission of written reports as referred to in paragraph (2), is carried out every 3 (three) months.
+  - (4) The procedures for reporting as referred to in paragraph (1), are further regulated in a Mayor Regulation.
+
+# CHAPTER IX
+
+SOURCES OF FUNDS
+
+#### Article 31
+
+Funds for organizing protection of women and children victims of violence, are sourced from:
+
+- a. Regional Revenue and Expenditure Budget; and/or
+- b. other lawful sources in accordance with the provisions of laws and regulations.
+
+#### Article 32
+
+(1) The Regional Government may provide financial assistance to community organizations, social organizations, or non-governmental organizations and universities that carry out protection for women and children victims of violence.
+
+(2) Financial assistance as referred to in paragraph (1), is in accordance with regional financial capacity.
+
+# CHAPTER X
+
+TRANSITIONAL PROVISIONS
+
+#### Article 33
+
+When this Regional Regulation comes into force, the old institutions that organize women's empowerment and protection of children victims of violence may still carry out their authority until new institutions are established.
+
+# CHAPTER XI
+
+CLOSING PROVISIONS
+
+#### Article 34
+
+Implementing regulations of this Regional Regulation must be established no later than 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 35
+
+This Regional Regulation comes into force on the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Blitar City.
+
+Enacted in Blitar
+
+On 16 June 2017
+
+MAYOR OF BLITAR,
+
+Signed.
+
+MUH. SAMANHUDI ANWAR
+
+Promulgated in Blitar
+
+On 16 June 2017
+
+REGIONAL SECRETARY OF BLITAR CITY
+
+Signed.
+
+Rudy Wijonarko
+
+REGIONAL GAZETTE OF BLITAR CITY YEAR 2017 NUMBER 2 REGISTRY NUMBER OF BLITAR CITY REGIONAL REGULATION NUMBER 130-2/2017
+
+Copy in accordance with the original
+
+HEAD OF LEGAL AND
+
+ORGANIZATIONAL DIVISION,
+
+JUARI
+
+Principal Supervisor Grade I
+
+NIP. 19651204 198603 1 006

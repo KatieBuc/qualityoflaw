@@ -54,7 +54,7 @@ from pathlib import Path
 
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
 )
@@ -65,6 +65,7 @@ from automation.src.markdown.chunking import (
     check_structure,
     parse_sections,
 )
+from automation.src.markdown.validate import HeaderCheck, validate_headers
 from automation.src.markdown.policy_files import (
     markdown_policy_files,
     source_markdown_path,
@@ -233,13 +234,17 @@ def convert_one(
 
 
 def run_md_to_text_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     *,
     small_scale: bool = False,
     force: bool = False,
 ) -> dict:
-    """Convert every translated Markdown file in the run to plain text.
+    """Convert every translated Markdown file in `processed/` to plain text.
+
+    Reads the validated `processed/{cleaned,translation}_markdown` pair. Each
+    file's headers are checked first (`markdown.validate`): a pair whose
+    heading count or hierarchy differs is marked failed and skipped, and any
+    stale output for it is removed so later steps cannot pick it up.
 
     Idempotent: a policy is skipped once both its `.txt` and its
     `chunks.json` exist, so the step can be re-run to fill in whatever is
@@ -247,9 +252,8 @@ def run_md_to_text_step(
     `failures.json` -- it is a translation-fidelity defect, and that is where
     someone looking for one would go.
     """
-    run_dir = get_run_dir(run_id)
-    md_dir = resolve_results_dir(run_dir, "translation_markdown")
-    source_dir = resolve_results_dir(run_dir, "source_markdown")
+    run_dir = get_output_dir()
+    md_dir = config.paths.processed_translation_markdown_dir
     text_dir = resolve_results_dir(run_dir, "translation")
     chunks_dir = resolve_mid_product_dir(run_dir, "chunks")
 
@@ -288,18 +292,44 @@ def run_md_to_text_step(
             counts["skipped"] += 1
             continue
 
-        source_path = source_dir / f"{stem}.md"
-        if not source_path.exists():
-            source_path = source_markdown_path(
-                config.paths.markdown_input_dir, stem, suffix=config.paths.markdown_input_suffix
-            )
-        if not source_path.exists():
-            logger.warning(
-                "[%s] source markdown not found; retrieval chunks will carry the "
-                "translation only",
+        source_path = source_markdown_path(
+            config.paths.processed_cleaned_markdown_dir,
+            stem,
+            suffix=config.paths.markdown_input_suffix,
+        )
+        if source_path.exists():
+            header_check = validate_headers(
                 stem,
+                source_path.read_text(encoding="utf-8"),
+                translated_path.read_text(encoding="utf-8"),
             )
-            source_path = None
+        else:
+            header_check = HeaderCheck(stem, False, problem="no source file")
+        if not header_check.ok:
+            counts["failed"] += 1
+            message = f"Markdown headers do not match: {header_check.problem}"
+            failed_files.append(
+                {"filename": translated_path.name, "artifact": "validation", "message": message}
+            )
+            for stale in (text_path, chunks_path):
+                stale.unlink(missing_ok=True)
+            record_failure(
+                "translation",
+                {
+                    "filename": f"{stem}.txt",
+                    "policy_file": f"{stem}.txt",
+                    "error_type": "HeaderMismatch",
+                    "message": message,
+                    "details": {
+                        "step": "md_to_text",
+                        "source_headings": header_check.source_headings,
+                        "translated_headings": header_check.translated_headings,
+                    },
+                    "attempts": 1,
+                },
+            )
+            logger.error("[%s] %s", stem, message)
+            continue
 
         try:
             chunk_count, alignment = convert_one(
@@ -336,7 +366,7 @@ def run_md_to_text_step(
         # amendments with legitimately non-continuous or repeated numbering,
         # which would trip the same false positive. So: log for visibility,
         # never fail the file over it.
-        clear_failure(run_id, "translation", f"{stem}.txt")
+        clear_failure("translation", f"{stem}.txt")
         if diff is not None:
             counts["repaired"] += 1
             if diff.lost_clauses:
@@ -361,7 +391,6 @@ def run_md_to_text_step(
                 alignment.total,
             )
             record_failure(
-                run_id,
                 "translation",
                 {
                     "filename": f"{stem}.txt",

@@ -1,0 +1,927 @@
+{
+  "policy_file": "82. Italy - DomViol - Italian (e) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T14:59:35.108203+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the framework discusses sexual offences against minors (e.g., sexual acts with a minor) and related procedural/jurisprudential points, but it does not explicitly mention or define domestic/household/family/intimate-partner violence, nor include it in any operative definition, prohibition, remedy, or service/coordination obligation. Under the coding rules, domestic violence cannot be inferred from general violence or sexual-offence provisions without an explicit domestic/family/household/IPV reference.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "The subjective elements referred to in art. 133, second paragraph, Criminal Code, are not relevant for purposes of configurability of the hypothesis of lesser gravity of the crime of sexual violence, the mitigation of the penalty not responding to the need for adaptation to the culpability of the perpetrator and to the circumstances pertaining to their person but to the lesser harmfulness of the fact, to be related to the degree of violation of the legal interest of the sexual freedom of the victim.",
+      "rationale": "The candidate sentences explicitly reference the crime of sexual violence and discuss its legal treatment (e.g., assessment of lesser gravity/penalty mitigation), indicating that sexual violence is addressed within the legal framework rather than only mentioned in a non-operative context.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Gli elementi soggettivi di cui all'art. 133, comma secondo, c.p., non rilevano ai fini della configurabilità dell'ipotesi di minore gravità del reato di violenza sessuale, non rispondendo la mitigazione della pena all'esigenza di adeguamento alla colpevolezza del reo e alle circostanze attinenti alla sua persona ma alla minore lesività del fatto, da rapportare al grado di violazione del bene giuridico della libertà sessuale della vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences focus on sexual offences (sexual acts with a minor, sexual violence) and related concepts (e.g., physical contact not required for certain sexual offences). They do not define, prohibit, criminalise, or classify physical violence/assault/battery/bodily harm as such, nor mention physical violence in an operative definition or scope provision. References to 'violent attitudes' appear only as factual descriptions in case summaries and do not establish an operative legal provision addressing physical violence as a category.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention psychological/emotional/mental violence, coercive control, or verbal abuse as a defined/prohibited/criminalised form of violence, nor include it in an operative definition or classification. Mentions of 'psychological investigation' relate to evidentiary assessment of testimony, not to psychological violence as a form of violence covered by the framework.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address sexual offences against minors and related legal issues; they do not mention economic violence/abuse/exploitation, deprivation of resources, or neglect as a form of violence against women, nor include such concepts in any operative definition, prohibition, or service/response obligation. Therefore the criterion is not met.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern criminalisation and interpretation of sexual acts with minors (art. 609 quater) and related procedural/jurisprudential points. None of the candidate sentences mention or address harmful practices as defined in the coding rules (e.g., child/early marriage, FGM/C, honour crimes, female infanticide) or any prevention/protection measures specific to such practices.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate sentences, there is no mention of femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor any operative provisions on prevention/monitoring of such killings. The text instead focuses on sexual offences against minors (art. 609 quater) and related case law.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking/trafficking in persons or trafficking victims, nor do they define, criminalise, or provide protection/prevention measures for trafficking. References are to sexual acts with minors and related offences/case law, which is insufficient under the coding rules without explicit trafficking language.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While some sentences reference prostitution-related conduct in passing (e.g., inducement/facilitation/exploitation of prostitution), the retrieved material does not contain operative provisions defining or criminalising sexual exploitation/sexual slavery as such, nor does it clearly establish a sexual-exploitation nexus as a standalone concept within the framework (it is largely jurisprudential discussion around art. 609 quater and related articles). Under the coding rules, this set does not substantively address sexual exploitation/slavery as a defined/prohibited category.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include some references to remote/telematic communication in the context of sexual acts with a minor, but they do not define or criminalise technology-facilitated violence as a distinct category (e.g., cyber harassment/cyberbullying/cyber pornography/online sexual exploitation) nor recognise digital abuse as a form of violence against women with specific legal consequences. The material is case-law interpretation of an offline offence applied via remote communication, which does not meet the criterion’s coding rules.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Outside the cases provided for in Article 609 bis, the ascendant, the parent, including adoptive parent, or their cohabitant, the guardian, or another person to whom, for reasons of care, education, instruction, supervision or custody, the minor is entrusted, or who has with the latter a cohabitation relationship, who, with the abuse of the powers connected to their position, commits sexual acts with a minor person who has completed sixteen years of age, is punished with imprisonment from three to six years (4)\nOutside the cases provided for in the preceding paragraphs, anyone who commits sexual acts with a minor person who has completed fourteen years of age, abusing the trust earned with the minor or the authority or influence exercised over them by reason of their own quality or the office held or family, domestic, work, cohabitation or hospitality relationships, is punished with imprisonment up to four years (5)",
+      "rationale": "The cited operative provisions define sexual acts with a minor as punishable and specify imprisonment terms (e.g., imprisonment from three to six years; imprisonment up to four years), which constitutes a criminal offence with an attached criminal sanction.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) non ha compiuto gli anni sedici, quando il colpevole sia l'ascendente, il genitore, anche adottivo, o il di lui convivente, il tutore, ovvero altra persona cui, per ragioni di cura, di educazione, di istruzione, di vigilanza o di custodia, il minore è affidato o che abbia, con quest'ultimo, una relazione di convivenza (3) Fuori dei casi previsti dall'articolo 609 bis , l'ascendente, il genitore, anche adottivo, o il di lui convivente, il tutore, ovvero altra persona cui, per ragioni di cura, di educazione, di istruzione, di vigilanza o di custodia, il minore è affidato, o che abbia con quest'ultimo una relazione di convivenza, che, con l'abuso dei poteri connessi alla sua posizione, compie atti sessuali con persona minore che ha compiuto gli anni sedici, è punito con la reclusione da tre a sei anni (4) Fuori dei casi previsti dai commi precedenti, chiunque compie atti sessuali con persona minore che ha compiuto gli anni quattordici, abusando della fiducia riscossa presso il minore o dell'autorità o dell'influenza esercitata sullo stesso in ragione della propria qualità o dell'ufficio ricoperto o delle relazioni familiari, domestiche, lavorative, di coabitazione o di ospitalità, è punito con la reclusione fino a quattro anni (5) La pena è aumentata:",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on criminal offences relating to sexual acts with a minor and related case law; none specify a protection/restraining order mechanism with applicant, issuing authority, duration, and breach consequences (or even a general statement about seeking protection).",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern substantive criminal offences and judicial interpretations; they do not designate or mandate any specialised police unit/desk/division for handling violence against women cases, nor do they contain a general requirement for police to provide specialised services to women victims.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or mandate any specialised court, chamber, judicial officer, or specialised/expedited procedure for violence against women cases; they instead address substantive offence definitions and case-law principles.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the excerpts include general sexual-offence provisions and case law, none expressly state that rape/sexual violence provisions apply within marriage or intimate partnerships, nor do they explicitly remove a spousal exemption or state that spousal status is not a defence. Under the coding rules, general criminalisation of sexual violence is insufficient without explicit applicability to spouses/intimate partners.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern the definition and case law interpretation of the criminal offence of sexual acts with a minor (art. 609 quater) and related procedural/jurisprudential notes. None of the candidate sentences establish or even reference any inter-agency, cross-sector, or cross-jurisdictional coordination mechanism for implementing prevention, protection, or response to violence against women.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address substantive criminal law elements and jurisprudence on sexual acts with a minor, but do not establish, require, or assign responsibility for collecting, recording, monitoring, reporting, managing, or exchanging data/information on violence against women, victims, or cases.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention gender mainstreaming, gender-responsive implementation mechanisms, or any institutional requirement to mainstream gender in planning/budgeting/service delivery. They focus on criminal offence definitions and case law regarding sexual acts with a minor.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mandate or provide for training, technical guidance, or capacity building for officials or service providers. The text is limited to criminal law provisions and jurisprudential interpretations, without any training-related obligations.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish any monitoring and evaluation mechanism, reporting requirement, indicators, or responsible body for assessing implementation of violence against women policy or services. They concern criminal offence content and case law only.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions funding, budget allocation, a dedicated fund, or any requirement to resource implementation of violence against women response or prevention. The excerpts are about criminal law provisions and jurisprudence on sexual acts with a minor.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern criminalization and jurisprudence regarding sexual acts with a minor (art. 609 quater) and related procedural/judicial interpretations. None of the candidate sentences establish, mandate, or recognize an integrated or coordinated victim-support service mechanism (e.g., one-stop centre, multidisciplinary service unit) for women victims/survivors of violence, nor do they assign an agency responsibility to coordinate multiple services for VAW survivors.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address substantive criminal law and case-law on sexual offences against minors, but do not establish or mandate any hotline, helpline, complaint-receiving service, or other dedicated reporting/assistance mechanism for women victims/survivors of violence. References to criminal provisions do not, in the provided text, create a victim-facing reporting channel or service.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention shelters, safe houses, refuge centres, crisis accommodation, relocation, or any authority’s duty to provide emergency/temporary accommodation for women victims/survivors of violence. The text is focused on criminal offences and judicial reasoning, not residential protection services.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not provide an operative entitlement to legal aid/legal assistance for women victims/survivors of violence, nor do they identify victims of violence as eligible for publicly funded legal support. The only potentially adjacent content concerns criminal procedure/jurisprudence and does not establish legal aid services for victims.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not require or provide access to medical examination, treatment, forensic medical services, or health-sector protocols for victims/survivors of violence. They discuss criminal offences and judicial assessments, without establishing any health/medical response linked to violence against women.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences focus on defining and interpreting criminal offences related to sexual acts with minors and evidentiary/psychological assessment issues in testimony. They do not establish or provide psychosocial/psychological counselling, therapy, trauma support, or referral mechanisms as services for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences concern criminal law provisions and case law on sexual offences against minors and do not mention any religious or spiritual counselling, pastoral care, faith-based guidance, or roles for religious personnel/institutions in supporting victims/survivors.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts address criminalisation, penalties, and judicial considerations in sexual offences involving minors. They do not provide for victim recovery/rehabilitation/reintegration services or longer-term support measures (e.g., housing, financial assistance, vocational training) linked to victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text provided sets out criminal offences and related jurisprudence but does not establish or mandate perpetrator intervention, treatment, counselling, rehabilitation, or behaviour-change programmes, nor does it authorise referrals to such programmes as part of sentencing or other legal processes.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern criminalization and case-law interpretation of sexual acts with minors (art. 609 quater) and related procedural/legal commentary, but do not contain any operative provisions requiring or providing information, awareness-raising, communication, campaigns, or education activities specifically about violence against women as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address the definition and punishment of sexual acts with minors and related jurisprudence; they do not require or provide any information/education/awareness activities about gender equality or women’s rights, nor do they link such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts describe criminal provisions and judicial interpretations regarding sexual acts with minors, but do not include any dissemination, public legal-awareness, education, or communication activities about laws/policies on violence against women (or related legal protections) as a prevention measure.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text mentions education-related relationships (e.g., entrustment for reasons of education/instruction) in defining elements of an offense, it does not identify education systems, curricula, educational institutions, or improving education quality as a primary prevention measure for violence against women.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish any prevention activities engaging men and boys (e.g., programmes, campaigns, norm-change or positive masculinity initiatives) to prevent violence against women. They focus on criminal offenses and case-law concerning sexual acts with minors.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern criminal law provisions and case law on sexual acts with a minor (art. 609 quater) and related procedural/jurisprudential points. None of the candidate sentences establish, require, or authorise collaboration with civil society organisations/NGOs for prevention of or response to violence against women, nor do they reference such collaboration in any preambular/explanatory context.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address criminal provisions and jurisprudence on sexual acts with a minor and related issues. They do not establish or mention any engagement or collaboration with religious leaders/organisations or traditional/cultural leaders/organisations in relation to preventing or responding to violence against women.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While some sentences mention school-related roles (e.g., a school collaborator) in the context of defining a fiduciary/entrustment relationship for a sexual offence, none establish or require collaboration with education institutions for violence against women prevention/response, nor assign schools/universities roles in VAW programmes, campaigns, referrals, or policy implementation.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain criminal code text and case law/explanatory material about sexual acts with a minor. There is no operative provision or referenced-only statement about cooperating with international organisations on violence against women (and ratification/standards are not shown here either).",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences relate to criminal provisions and jurisprudence on sexual acts with a minor and evidentiary/procedural matters. They do not identify media actors as partners, nor establish any media engagement mechanism for VAW prevention, awareness, or response.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not establish community participation, community mobilisation, or public engagement mechanisms for preventing or responding to violence against women. References to social contexts (e.g., a social dinner) appear only as factual background in case law and do not create any community-engagement framework.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require collaboration with businesses/employers/private-sector actors for VAW prevention or response. Mentions of workplaces or settings (e.g., gym, work relationships) are incidental to offence context and do not create any private-sector engagement mechanism.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention funding or budget sources from local governments; the excerpts are largely legal code listings and substantive criminal law text unrelated to budgeting.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not reference any national government budget allocations or funding sources; they concern criminal code provisions and unrelated navigation/listing text.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions international assistance, donors, UN agencies, international organizations, or any international funding/support arrangements related to women’s protection/VAW measures (the text is criminal law content and site/legal listings).",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any funding/budget sources from other legal sources; they are primarily lists of legal codes and criminal law excerpts without budgetary provisions.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No sentence references provincial government budgets or provincial funding sources; the excerpts are criminal code text and unrelated listings.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 2,
+    "resolved": 2,
+    "rate": 1.0
+  }
+}

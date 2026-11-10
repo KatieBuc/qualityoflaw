@@ -1,0 +1,221 @@
+import pytest
+
+from automation.src.config_loader import parse_alignment_method
+from automation.src.rag import evidence_align
+from automation.src.rag.embedding_align import AlignerUnavailable
+from automation.src.rag.evidence_align import align_chunk_evidence
+from automation.src.rag.retriever import RetrievedChunk
+from automation.src.rag.sentence_align import GRANULARITY_ITEM, GRANULARITY_SENTENCE
+
+
+@pytest.fixture(autouse=True)
+def _clear_cache():
+    evidence_align._embedding_beads.cache_clear()
+
+
+def chunk(text, source_text):
+    return RetrievedChunk(chunk_id=0, text=text, score=0.0, source_text=source_text)
+
+
+def test_equal_counts_pair_by_index_without_calling_an_aligner(monkeypatch):
+    def boom(*a, **k):
+        raise AssertionError("aligner must not run when counts match")
+
+    monkeypatch.setattr(evidence_align, "align_sentences", boom)
+    result = align_chunk_evidence(
+        chunk("First rule. Second rule.", "Aturan pertama. Aturan kedua.")
+    )
+    assert result == {
+        0: ("Aturan pertama.", GRANULARITY_SENTENCE),
+        1: ("Aturan kedua.", GRANULARITY_SENTENCE),
+    }
+
+
+def test_unequal_counts_use_the_aligner_and_join_many_to_one(monkeypatch):
+    # src: 3 sentences, tgt: 2. Beads: 0->0, (1,2)->1.
+    monkeypatch.setattr(
+        evidence_align,
+        "align_sentences",
+        lambda src, tgt, method: [([0], [0]), ([1, 2], [1])],
+    )
+    result = align_chunk_evidence(
+        chunk("One. Two.", "Satu. Dua. Tiga."), method="vecalign"
+    )
+    assert result[0] == ("Satu.", GRANULARITY_SENTENCE)
+    assert result[1] == ("Dua. Tiga.", GRANULARITY_ITEM)
+
+
+def test_a_translated_sentence_with_no_source_is_left_out(monkeypatch):
+    monkeypatch.setattr(
+        evidence_align,
+        "align_sentences",
+        lambda src, tgt, method: [([0], [0]), ([], [1]), ([1], [2])],
+    )
+    result = align_chunk_evidence(
+        chunk("One. Added. Two.", "Satu. Dua."), method="vecalign"
+    )
+    assert 1 not in result and result[0][0] == "Satu." and result[2][0] == "Dua."
+
+
+def test_aligner_failure_falls_back_to_the_heuristic(monkeypatch):
+    def unavailable(*a, **k):
+        raise AlignerUnavailable("not installed")
+
+    monkeypatch.setattr(evidence_align, "align_sentences", unavailable)
+    monkeypatch.setattr(evidence_align, "heuristic_align", lambda c: {0: ("fallback", "chunk")})
+    result = align_chunk_evidence(chunk("One. Two.", "Satu. Dua. Tiga."))
+    assert result == {0: ("fallback", "chunk")}
+
+
+def test_heuristic_method_skips_the_embedding_aligner(monkeypatch):
+    monkeypatch.setattr(
+        evidence_align,
+        "align_sentences",
+        lambda *a, **k: (_ for _ in ()).throw(AssertionError("should not run")),
+    )
+    monkeypatch.setattr(evidence_align, "heuristic_align", lambda c: {0: ("h", "chunk")})
+    assert align_chunk_evidence(chunk("One. Two.", "Satu. Dua. Tiga."), "heuristic") == {
+        0: ("h", "chunk")
+    }
+
+
+def test_no_source_text_gives_nothing():
+    assert align_chunk_evidence(chunk("One.", None)) == {}
+
+
+def test_alignment_method_config_is_validated():
+    assert parse_alignment_method(None) == "vecalign"
+    assert parse_alignment_method({"method": "bertalign"}) == "bertalign"
+    with pytest.raises(ValueError):
+        parse_alignment_method({"method": "magic"})
+
+
+@pytest.fixture
+def fresh_models(monkeypatch):
+    from automation.src.rag import embedding_align
+
+    monkeypatch.setattr(embedding_align, "_LOADED", {})
+    monkeypatch.setattr(embedding_align, "_FAILED", {})
+    return embedding_align
+
+
+def test_bertalign_encoder_wraps_the_shared_labse_model(fresh_models, monkeypatch):
+    """Both aligners must use one LaBSE instance, not each load their own."""
+    sentinel = object()
+    monkeypatch.setattr(fresh_models, "_labse", lambda: sentinel)
+
+    encoder = fresh_models._bertalign_encoder()
+
+    assert encoder.model is sentinel
+    assert fresh_models._bertalign_encoder() is encoder  # built once
+
+
+def test_threads_asking_for_the_model_at_once_load_it_once(fresh_models, monkeypatch):
+    import threading
+    import time
+
+    loads = []
+
+    def slow_load():
+        loads.append(threading.get_ident())
+        time.sleep(0.2)                       # long enough for every thread to arrive while it loads
+        return object()
+
+    monkeypatch.setattr(fresh_models, "_load_labse", slow_load)
+    got = []
+    barrier = threading.Barrier(8)
+
+    def worker():
+        barrier.wait()
+        got.append(fresh_models._labse())
+
+    threads = [threading.Thread(target=worker) for _ in range(8)]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+
+    assert len(loads) == 1
+    assert len({id(m) for m in got}) == 1 and len(got) == 8
+
+
+def test_a_failed_load_is_not_retried_by_every_caller(fresh_models, monkeypatch):
+    calls = []
+
+    def broken():
+        calls.append(1)
+        raise OSError("offline")
+
+    monkeypatch.setattr(fresh_models, "_load_labse", broken)
+    for _ in range(3):
+        with pytest.raises(fresh_models.AlignerUnavailable, match="offline"):
+            fresh_models._labse()
+    assert len(calls) == 1
+
+
+def test_warm_up_loads_the_model_before_the_threads_start(fresh_models, monkeypatch):
+    loaded = []
+    monkeypatch.setattr(fresh_models, "_load_labse", lambda: loaded.append("labse") or object())
+    fresh_models.warm_up("vecalign")
+    fresh_models.warm_up("vecalign")
+    assert loaded == ["labse"]
+    fresh_models.warm_up("something-else")      # not an embedding method: nothing to load
+    assert loaded == ["labse"]
+
+
+def test_only_encode_concurrency_threads_encode_at_once(fresh_models, monkeypatch):
+    """The encoding call is what allocates the memory: it must not run in dozens of threads together."""
+    import threading
+    import time
+
+    running = peak = 0
+    lock = threading.Lock()
+
+    class FakeModel:
+        def encode(self, texts, **kwargs):
+            nonlocal running, peak
+            with lock:
+                running += 1
+                peak = max(peak, running)
+            time.sleep(0.05)
+            with lock:
+                running -= 1
+            return [[0.0]] * len(texts)
+
+    monkeypatch.setattr(fresh_models, "_ENCODE_SLOTS", threading.BoundedSemaphore(fresh_models.ENCODE_CONCURRENCY))
+    model = fresh_models._GuardedModel(FakeModel())
+    threads = [threading.Thread(target=lambda: model.encode(["a"])) for _ in range(12)]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+
+    assert fresh_models.ENCODE_CONCURRENCY == 1 and peak == 1
+
+
+def test_the_guard_sets_a_small_default_batch_size_and_passes_other_attributes_through(fresh_models):
+    seen = {}
+
+    class FakeModel:
+        max_seq_length = 512
+
+        def encode(self, texts, **kwargs):
+            seen.update(kwargs)
+            return []
+
+    model = fresh_models._GuardedModel(FakeModel())
+    model.encode(["a"], normalize_embeddings=True)
+
+    assert seen == {"normalize_embeddings": True, "batch_size": fresh_models.ENCODE_BATCH_SIZE}
+    assert model.max_seq_length == 512                      # attribute access reaches the real model
+    model.encode(["a"], batch_size=4)
+    assert seen["batch_size"] == 4                          # an explicit batch size wins
+
+
+def test_vecalign_timing_lines_are_hidden_but_warnings_stay(fresh_models):
+    import logging
+
+    logging.getLogger("vecalign").setLevel(logging.INFO)
+    fresh_models.quiet_vecalign_timings()
+    log = logging.getLogger("vecalign")
+    assert not log.isEnabledFor(logging.INFO) and log.isEnabledFor(logging.WARNING)

@@ -1,0 +1,945 @@
+{
+  "policy_file": "149. Singapore - DomViol - English - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:15:55.245718+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "), the family member on whose behalf the application is made; \"expedited order\" means an order made under section 66(1); \"family member\", in relation to a person, means — a a spouse or former spouse of the person; b a child of the person, including an adopted child and a stepchild; c a father or mother of the person; d a father-in-law or mother-in-law of the person; e a brother or sister of the person; or f any other relative of the person or an incapacitated person who in the opinion of the court should, in the circumstances, in either case be regarded as a member of the family of the person; \"family violence\" means the commission of any of the following acts: a wilfully or knowingly placing, or attempting to place, a family member in fear of hurt; b causing hurt to a family member by such act which is known or ought to have been known would result in hurt; c wrongfully confining or restraining a family member against his or her will; d causing continual harassment with intent to cause or knowing that it is likely to cause anguish to a family member, but does not include any force lawfully used in self‑defence, or by way of correction towards a child below 21 years of age; \"hurt\" means bodily pain, disease or infirmity; \"incapacitated person\" means a person who is wholly or partially incapacitated or infirm, by reason of physical or mental disability or ill health or old age; \"protected person\" means a person who is protected under a protection order; \"protection order\" means an order made under section 65; \"relative\" includes a person who is related through marriage or adoption; \"shared residence\" means the premises at which the parties are, or have been, living together as members of the same household.\n65. —(1) The court may, upon satisfaction on a balance of probabilities that family violence has been committed or is likely to be committed against a family member and that it is necessary for the protection of the family member, make a protection order restraining the person against whom the order is made from using family violence against the family member.",
+      "rationale": "The text provides an operative definition of “family violence” and establishes a court-issued protection order remedy restraining a person from using family violence against a family member, which substantively addresses domestic/family violence through enforceable protective measures.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "), the family member on whose behalf the application is made; “expedited order” means an order made under section 66(1); “family member”, in relation to a person, means — a a spouse or former spouse of the person; b a child of the person, including an adopted child and a stepchild; c a father or mother of the person; d a father-in-law or mother-in-law of the person; e a brother or sister of the person; or f any other relative of the person or an incapacitated person who in the opinion of the court should, in the circumstances, in either case be regarded as a member of the family of the person; “family violence” means the commission of any of the following acts: a wilfully or knowingly placing, or attempting to place, a family member in fear of hurt; b causing hurt to a family member by such act which is known or ought to have been known would result in hurt; c wrongfully confining or restraining a family member against his or her will; d causing continual harassment with intent to cause or knowing that it is likely to cause anguish to a family member, but does not include any force lawfully used in self‑defence, or by way of correction towards a child below 21 years of age; “hurt” means bodily pain, disease or infirmity; “incapacitated person” means a person who is wholly or partially incapacitated or infirm, by reason of physical or mental disability or ill health or old age; “protected person” means a person who is protected under a protection order; “protection order” means an order made under section 65; “relative” includes a person who is related through marriage or adoption; “shared residence” means the premises at which the parties are, or have been, living together as members of the same household.\n\n65. —(1) The court may, upon satisfaction on a balance of probabilities that family violence has been committed or is likely to be committed against a family member and that it is necessary for the protection of the family member, make a protection order restraining the person against whom the order is made from using family violence against the family member.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "143 Permitting girl below the age of 16 to use premises for sexual penetration\n145 Causing or encouraging prostitution of, girl below the age of 18 or sexual penetration with, or indecent assault on, girl below the age of 16",
+      "rationale": "The framework lists offences involving sexual acts (e.g., permitting premises for sexual penetration and indecent assault), indicating operative criminal-law coverage of sexual violence/abuse-related conduct.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "143 Permitting girl below the age of 16 to use premises for sexual penetration\n\n145 Causing or encouraging prostitution of, girl below the age of 18 or sexual penetration with, or indecent assault on, girl below the age of 16",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "), the family member on whose behalf the application is made; \"expedited order\" means an order made under section 66(1); \"family member\", in relation to a person, means — a a spouse or former spouse of the person; b a child of the person, including an adopted child and a stepchild; c a father or mother of the person; d a father-in-law or mother-in-law of the person; e a brother or sister of the person; or f any other relative of the person or an incapacitated person who in the opinion of the court should, in the circumstances, in either case be regarded as a member of the family of the person; \"family violence\" means the commission of any of the following acts: a wilfully or knowingly placing, or attempting to place, a family member in fear of hurt; b causing hurt to a family member by such act which is known or ought to have been known would result in hurt; c wrongfully confining or restraining a family member against his or her will; d causing continual harassment with intent to cause or knowing that it is likely to cause anguish to a family member, but does not include any force lawfully used in self‑defence, or by way of correction towards a child below 21 years of age; \"hurt\" means bodily pain, disease or infirmity; \"incapacitated person\" means a person who is wholly or partially incapacitated or infirm, by reason of physical or mental disability or ill health or old age; \"protected person\" means a person who is protected under a protection order; \"protection order\" means an order made under section 65; \"relative\" includes a person who is related through marriage or adoption; \"shared residence\" means the premises at which the parties are, or have been, living together as members of the same household.",
+      "rationale": "The operative definition of “family violence” includes acts causing “hurt,” and “hurt” is defined as bodily pain, disease or infirmity, which substantively captures physical violence within the legal framework’s protective-order regime.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "), the family member on whose behalf the application is made; “expedited order” means an order made under section 66(1); “family member”, in relation to a person, means — a a spouse or former spouse of the person; b a child of the person, including an adopted child and a stepchild; c a father or mother of the person; d a father-in-law or mother-in-law of the person; e a brother or sister of the person; or f any other relative of the person or an incapacitated person who in the opinion of the court should, in the circumstances, in either case be regarded as a member of the family of the person; “family violence” means the commission of any of the following acts: a wilfully or knowingly placing, or attempting to place, a family member in fear of hurt; b causing hurt to a family member by such act which is known or ought to have been known would result in hurt; c wrongfully confining or restraining a family member against his or her will; d causing continual harassment with intent to cause or knowing that it is likely to cause anguish to a family member, but does not include any force lawfully used in self‑defence, or by way of correction towards a child below 21 years of age; “hurt” means bodily pain, disease or infirmity; “incapacitated person” means a person who is wholly or partially incapacitated or infirm, by reason of physical or mental disability or ill health or old age; “protected person” means a person who is protected under a protection order; “protection order” means an order made under section 65; “relative” includes a person who is related through marriage or adoption; “shared residence” means the premises at which the parties are, or have been, living together as members of the same household.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "), the family member on whose behalf the application is made; \"expedited order\" means an order made under section 66(1); \"family member\", in relation to a person, means — a a spouse or former spouse of the person; b a child of the person, including an adopted child and a stepchild; c a father or mother of the person; d a father-in-law or mother-in-law of the person; e a brother or sister of the person; or f any other relative of the person or an incapacitated person who in the opinion of the court should, in the circumstances, in either case be regarded as a member of the family of the person; \"family violence\" means the commission of any of the following acts: a wilfully or knowingly placing, or attempting to place, a family member in fear of hurt; b causing hurt to a family member by such act which is known or ought to have been known would result in hurt; c wrongfully confining or restraining a family member against his or her will; d causing continual harassment with intent to cause or knowing that it is likely to cause anguish to a family member, but does not include any force lawfully used in self‑defence, or by way of correction towards a child below 21 years of age; \"hurt\" means bodily pain, disease or infirmity; \"incapacitated person\" means a person who is wholly or partially incapacitated or infirm, by reason of physical or mental disability or ill health or old age; \"protected person\" means a person who is protected under a protection order; \"protection order\" means an order made under section 65; \"relative\" includes a person who is related through marriage or adoption; \"shared residence\" means the premises at which the parties are, or have been, living together as members of the same household.",
+      "rationale": "The operative definition of “family violence” includes placing a family member in fear of hurt and continual harassment intended/likely to cause anguish, which substantively addresses psychological/emotional abuse within the protection-order framework.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "), the family member on whose behalf the application is made; “expedited order” means an order made under section 66(1); “family member”, in relation to a person, means — a a spouse or former spouse of the person; b a child of the person, including an adopted child and a stepchild; c a father or mother of the person; d a father-in-law or mother-in-law of the person; e a brother or sister of the person; or f any other relative of the person or an incapacitated person who in the opinion of the court should, in the circumstances, in either case be regarded as a member of the family of the person; “family violence” means the commission of any of the following acts: a wilfully or knowingly placing, or attempting to place, a family member in fear of hurt; b causing hurt to a family member by such act which is known or ought to have been known would result in hurt; c wrongfully confining or restraining a family member against his or her will; d causing continual harassment with intent to cause or knowing that it is likely to cause anguish to a family member, but does not include any force lawfully used in self‑defence, or by way of correction towards a child below 21 years of age; “hurt” means bodily pain, disease or infirmity; “incapacitated person” means a person who is wholly or partially incapacitated or infirm, by reason of physical or mental disability or ill health or old age; “protected person” means a person who is protected under a protection order; “protection order” means an order made under section 65; “relative” includes a person who is related through marriage or adoption; “shared residence” means the premises at which the parties are, or have been, living together as members of the same household.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences focus on family violence defined in terms of fear of hurt, hurt, confinement/restraint, and harassment/anguish, plus maintenance/financial provisions generally; none explicitly define or identify economic abuse/exploitation/neglect as a form of violence or abuse with attached violence-related legal consequences.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "9 Avoidance of marriages where either party is below 18",
+      "rationale": "The framework includes an operative provision on avoidance of marriages where either party is below 18, which substantively addresses early/child marriage through a minimum-age-related legal rule.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "9 Avoidance of marriages where either party is below 18",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, prevention, monitoring, or response mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "141 Traffic in women and girls",
+      "rationale": "The framework explicitly includes “Traffic in women and girls” as an offence category, indicating substantive legal coverage of trafficking-related conduct.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "141 Traffic in women and girls",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "140 Offences relating to prostitution\n145 Causing or encouraging prostitution of, girl below the age of 18 or sexual penetration with, or indecent assault on, girl below the age of 16",
+      "rationale": "The framework includes offences relating to prostitution and conduct involving prostitution/sexual penetration/indecent assault, which substantively addresses sexual exploitation-related conduct in operative offence provisions (even though the exact term “sexual exploitation” is not used in the provided sentences).",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "140 Offences relating to prostitution\n\n145 Causing or encouraging prostitution of, girl below the age of 18 or sexual penetration with, or indecent assault on, girl below the age of 16",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences address family violence (including harassment) and various offences, but do not mention cyber/online/digital conduct or technology-facilitated forms of violence; there is no operative recognition of cyber harassment, online sexual exploitation, or similar conduct.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(8) Any person who wilfully contravenes a protection order or an expedited order or an order made by virtue of subsection (5), except an order made by virtue of subsection (5)( b",
+      "rationale": "The text provides that wilful contravention of a protection order/expedited order (issued in response to family violence) is a criminal offence with specified penalties (fine and/or imprisonment), establishing a criminal penalty linked to violence in the family context.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(9) Subsection (10) applies to a protection order or an expedited order or an order made by virtue of subsection (5), except an order made by virtue of subsection (5)( b ), if the order relates to a vulnerable adult. (10)",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "65. —(1) The court may, upon satisfaction on a balance of probabilities that family violence has been committed or is likely to be committed against a family member and that it is necessary for the protection of the family member, make a protection order restraining the person against whom the order is made from using family violence against the family member.\n(2) An application for a protection order under this section, or for an expedited order under section 66, may be made — a by the family member concerned, if that family member is not below 21 years of age and is not an incapacitated person; b by a guardian or relative or person responsible for the care of the family member concerned, or by any person appointed by the Minister for the purposes of this paragraph, if that family member is below 21 years of age or is an incapacitated person; or c despite paragraphs ( a\n(3) A protection order may be made subject to such exceptions or conditions as may be specified in the order and for such term as may be specified.\n(8) Any person who wilfully contravenes a protection order or an expedited order or an order made by virtue of subsection (5), except an order made by virtue of subsection (5)( b",
+      "rationale": "Operative provisions specify the issuing authority (court), who may apply (family member, guardian/relative/appointed person, or certain married minors), that the order may be for a specified term, and that breach is an offence with criminal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "65. —(1) The court may, upon satisfaction on a balance of probabilities that family violence has been committed or is likely to be committed against a family member and that it is necessary for the protection of the family member, make a protection order restraining the person against whom the order is made from using family violence against the family member.\n\n(2) An application for a protection order under this section, or for an expedited order under section 66, may be made — a by the family member concerned, if that family member is not below 21 years of age and is not an incapacitated person; b by a guardian or relative or person responsible for the care of the family member concerned, or by any person appointed by the Minister for the purposes of this paragraph, if that family member is below 21 years of age or is an incapacitated person; or c despite paragraphs ( a\n\n(3) A protection order may be made subject to such exceptions or conditions as may be specified in the order and for such term as may be specified.\n\n(9) Subsection (10) applies to a protection order or an expedited order or an order made by virtue of subsection (5), except an order made by virtue of subsection (5)( b ), if the order relates to a vulnerable adult. (10)",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences designate or mandate a specific specialised unit/desk/division within police services to handle violence against women cases, nor do they contain even a general statement requiring police to provide specialised services to women victims.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe protection orders and other general provisions but do not designate a specialised court/chamber/judicial officer or a specialised/fast-track judicial procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address family violence definitions and protection orders, but they do not expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption for sexual offences. Under the coding rules, marital rape cannot be inferred from general violence provisions.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are largely tables of contents/headings and provisions on offences, protection orders, and administrative powers (e.g., Director-General powers, places of safety, boards/committees), but they do not establish or require any cross-agency/sector/jurisdiction coordination mechanism (e.g., inter-ministerial committee, referral network, coordinating body) for implementing VAW prevention/protection/response.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish or mandate a system/entity to collect, record, monitor, report, manage, or exchange data on violence against women or related cases/victims. The only potentially related phrase is a generic heading about “Record of evidence,” but no operative duty to collect/manage VAW data is shown.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention gender mainstreaming, gender mainstreaming mechanisms, or integrating gender mainstreaming into planning/budgeting/service delivery. They concern offences, family protection orders, and other unrelated administrative/legal provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mandate or provide for training/capacity building for officials or service providers implementing violence against women measures. References are to substantive legal provisions (orders, offences, powers) and headings only, without any training requirement.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions monitoring and evaluation of implementation or service delivery for violence against women, nor any reporting/assessment mechanism or responsible body for M&E.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain any provision requiring allocation of budget/funding/resources for violence against women prevention/response implementation (no dedicated fund, budget line, or binding funding obligation is shown).",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences list offences, protection-order procedures, and provisions about places of safety/refuge, but do not establish or recognise any integrated/one-stop/multidisciplinary service mechanism coordinating multiple services (health, legal, psychosocial, shelter, etc.) for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "65. —(1) The court may, upon satisfaction on a balance of probabilities that family violence has been committed or is likely to be committed against a family member and that it is necessary for the protection of the family member, make a protection order restraining the person against whom the order is made from using family violence against the family member.\n(2) An application for a protection order under this section, or for an expedited order under section 66, may be made — a by the family member concerned, if that family member is not below 21 years of age and is not an incapacitated person; b by a guardian or relative or person responsible for the care of the family member concerned, or by any person appointed by the Minister for the purposes of this paragraph, if that family member is below 21 years of age or is an incapacitated person; or c despite paragraphs ( a",
+      "rationale": "The framework provides an operative mechanism for victims (or specified representatives) to seek assistance by applying to the court for a protection order/expedited order in response to family violence, which functions as a formal help-seeking/reporting channel for protection.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "65. —(1) The court may, upon satisfaction on a balance of probabilities that family violence has been committed or is likely to be committed against a family member and that it is necessary for the protection of the family member, make a protection order restraining the person against whom the order is made from using family violence against the family member.\n\n(2) An application for a protection order under this section, or for an expedited order under section 66, may be made — a by the family member concerned, if that family member is not below 21 years of age and is not an incapacitated person; b by a guardian or relative or person responsible for the care of the family member concerned, or by any person appointed by the Minister for the purposes of this paragraph, if that family member is below 21 years of age or is an incapacitated person; or c despite paragraphs ( a",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "163 Women and girls in urgent need of refuge\n177 Minister may establish places of safety",
+      "rationale": "The candidate sentences explicitly reference refuge for women and girls and provide for establishment of places of safety, which constitutes accommodation-based protection/shelter-type measures.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "163 Women and girls in urgent need of refuge\n\n177 Minister may establish places of safety",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences concern offences, protection orders, and general procedural provisions, but do not establish or guarantee legal aid/assistance/representation for women victims/survivors of violence or identify them as eligible for legal aid.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence provides for medical examination, treatment, forensic services, or any health-sector response linked to victims/survivors of violence. The excerpts focus on protection orders and other non-medical provisions.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(5) A protection order may, where the court is satisfied on a balance of probabilities that it is necessary for the protection or personal safety of the applicant, provide for such orders as the court thinks fit having regard to all the circumstances of the case, including any one or more of the following orders: a the granting of the right of exclusive occupation to any protected person of the shared residence or a specified part of the shared residence by excluding the person against whom the order is made from the shared residence or specified part thereof, regardless of whether the shared residence is solely owned or leased by the person against whom the order is made or jointly owned or leased by the parties; b referring the person against whom the order is made or the protected person, or both, or their children to attend counselling provided by such body as the court may direct; c the giving of any such direction as is necessary for and incidental to the proper carrying into effect of any order made under this section.",
+      "rationale": "The protection-order provision includes an operative option for the court to refer relevant parties (including the protected person) to attend counselling provided by a directed body, which constitutes counselling/psychosocial support linked to family violence proceedings.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) A protection order may, where the court is satisfied on a balance of probabilities that it is necessary for the protection or personal safety of the applicant, provide for such orders as the court thinks fit having regard to all the circumstances of the case, including any one or more of the following orders: a the granting of the right of exclusive occupation to any protected person of the shared residence or a specified part of the shared residence by excluding the person against whom the order is made from the shared residence or specified part thereof, regardless of whether the shared residence is solely owned or leased by the person against whom the order is made or jointly owned or leased by the parties; b referring the person against whom the order is made or the protected person, or both, or their children to attend counselling provided by such body as the court may direct; c the giving of any such direction as is necessary for and incidental to the proper carrying into effect of any order made under this section.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention counselling generally but do not reference religious/spiritual counselling, faith-based guidance, or involvement of religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide for protection orders and (separately) counselling referrals, but do not establish longer-term recovery/rehabilitation/reintegration measures (e.g., economic support, vocational training, reintegration services) specifically for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the protection-order provision allows counselling referrals, the candidate sentences do not establish perpetrator-focused intervention/rehabilitation/behaviour-change programmes for perpetrators of violence against women (as distinct from general counselling or sanctions).",
+      "coverage": null,
+      "confidence": 0.68,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.68
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences list offences, procedural provisions, protection orders, and other legal mechanisms, but do not include any operative provisions requiring or providing information, awareness-raising, communication, campaigns, or education activities specifically about violence against women or preventing such violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include provisions on rights and duties of spouses and other legal topics, but they do not establish any information/education/awareness activities about gender equality or women’s rights, nor do they link any such activities to prevention of violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the excerpts describe offences and protective legal orders, they do not provide for dissemination, public education, awareness-raising, or communication specifically about laws/policies/legal protections concerning violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences do not identify education, educational institutions, curricula, or improvements in education quality as measures to prevent violence against women. References to counselling or programmes (e.g., parenting programme headings) are not explicitly framed as education-based VAW prevention measures in the provided text.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish prevention activities that specifically engage men and boys (e.g., programmes, campaigns, or norm-change initiatives) to prevent violence against women. The excerpts focus on offences and protective orders without targeted engagement measures.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern protection orders, offences, and administrative/navigation text. None of the candidate sentences mention civil society organisations/NGOs or establish any mechanism for collaboration with them in preventing or responding to violence against women (or family violence).",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address family violence definitions and court orders, but do not mention religious or traditional/cultural organisations or leaders, nor any collaboration mechanism involving them for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences contain provisions on protection orders and other unrelated parts of the Act, but do not reference schools, universities, or other education institutions as partners or participants in VAW/family-violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate sentences, there is no mention of international organisations or any operative provision establishing cooperation with them on violence against women/family violence. The text is focused on domestic offences and court procedures.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention media organisations/actors or any media-related partnership, guideline, or mechanism connected to preventing or responding to violence against women/family violence.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the excerpts define family violence and set out court order processes, they do not establish or require community/public engagement or participation mechanisms for VAW/family-violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only business-related content in the candidate sentences concerns employer duties in attachment of earnings orders (maintenance enforcement), which is not linked to violence against women prevention or response. No provisions establish collaboration with businesses/private sector on VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences are table-of-contents style headings and do not mention any funding or budget source from local government. The only potentially relevant reference is to earnings paid by Government or out of the Consolidated Fund, which is not a local government budget source.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "89 Earnings paid by Government or out of Consolidated Fund",
+      "rationale": "The policy explicitly references money being paid by the Government or out of the Consolidated Fund, which indicates a national-level public funding source.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "89 Earnings paid by Government or out of Consolidated Fund",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international assistance, donors, UN agencies, foreign governments, development partners, or any other explicit international support or funding related to women’s protection/VAW measures.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any funding/budget sources from other legal sources (e.g., earmarked funds, levies, fines as a funding stream, private sector funding mechanisms, etc.). They mainly list sections/parts and include a reference to Government/Consolidated Fund, which is not an 'other legal source' category.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of provincial-level budgets or provincial government funding sources. References are general headings and one national-level reference (Government/Consolidated Fund), not provincial funding.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 13,
+    "resolved": 13,
+    "rate": 1.0
+  }
+}

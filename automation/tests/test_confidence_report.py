@@ -105,10 +105,9 @@ def test_coverage_row_with_zero_errors_reports_null_coverage():
 def test_report_headline_numbers(sample_df):
     config = ConfidenceReportConfig(thresholds=(0.7, 0.9), quantiles=(0.5,), primary_threshold=0.9)
 
-    report = build_confidence_report(sample_df, config, run_id="20260821_102245", model="gpt-5.2")
+    report = build_confidence_report(sample_df, config, model="gpt-5.2")
 
     assert report["status"] == STATUS_OK
-    assert report["run_id"] == "20260821_102245"
     assert report["confidence_source"]["availability"] == 1.0
     assert report["baseline"]["error_count"] == 3
     assert report["baseline"]["accuracy"] == pytest.approx(0.5)
@@ -129,7 +128,17 @@ def test_quantile_cutoffs_are_derived_from_the_distribution(sample_df):
     assert quantile_row["flagged"] == 3
 
 
-def test_breakdowns_split_by_dimension_and_error_type(sample_df):
+@pytest.fixture
+def indonesian_dimensions(monkeypatch):
+    """The sample data uses Indonesian indicator ids; the dimension lookup follows the active project."""
+    from automation.src.criteria import build_criteria_maps, load_index_schema
+    from automation.src.paths import project_dirs
+
+    mapping = build_criteria_maps(load_index_schema(project_dirs("indonesia").index_schema))[1]
+    monkeypatch.setattr("automation.src.confidence_report.get_indicator_dimension", lambda i: mapping.get(str(i).strip()))
+
+
+def test_breakdowns_split_by_dimension_and_error_type(sample_df, indonesian_dimensions):
     report = build_confidence_report(sample_df, ConfidenceReportConfig(primary_threshold=0.9))
 
     by_dimension = report["breakdowns"]["by_dimension"]

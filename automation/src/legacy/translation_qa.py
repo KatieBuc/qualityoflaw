@@ -21,7 +21,7 @@ Per-file granularity mirrors `translate.py`'s chunked vs non-chunked split:
   file.
 
 Writes one audit report per policy to
-`data/automation/<run_id>/results/translation_qa/<stem>.json` -- metadata
+`data/<project>/automation/results/translation_qa/<stem>.json` -- metadata
 only (action_required/issues per unit), not the corrected text itself, which
 already lives in `results/translation/` and `mid_product/chunks/`.
 """
@@ -48,7 +48,7 @@ from automation.src.common import (
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
 )
@@ -209,7 +209,6 @@ def _qa_policy_file(
 
 
 def run_translation_qa_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
     *,
@@ -217,7 +216,7 @@ def run_translation_qa_step(
     small_scale: bool = False,
     force: bool = False,
 ) -> dict:
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     translation_dir = resolve_results_dir(run_dir, "translation")
     chunks_dir = resolve_mid_product_dir(run_dir, "chunks")
     output_dir = resolve_results_dir(run_dir, "translation_qa")
@@ -261,7 +260,7 @@ def run_translation_qa_step(
                     "details": details,
                     "attempts": 1,
                 }
-                record_failure(run_id, "translation_qa", entry)
+                record_failure("translation_qa", entry)
                 logger.error("[%s] translation_qa failed [%s]: %s", filename, error_type, result)
                 failed_files.append(entry)
                 counts["failed"] += 1
@@ -275,7 +274,7 @@ def run_translation_qa_step(
                     "details": result.error_details or {},
                     "attempts": 1,
                 }
-                record_failure(run_id, "translation_qa", entry)
+                record_failure("translation_qa", entry)
                 failed_files.append(entry)
                 counts["failed"] += 1
                 continue
@@ -295,7 +294,7 @@ def run_translation_qa_step(
             )
             report_path = output_dir / f"{Path(filename).stem}.json"
             report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
-            clear_failure(run_id, "translation_qa", filename)
+            clear_failure("translation_qa", filename)
             counts["succeeded"] += 1
             if result.corrected:
                 counts["corrected"] += 1

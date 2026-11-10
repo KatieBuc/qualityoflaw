@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <title>123/2024 Sb. - Beck-online</title>
+    <link rel="stylesheet" href="/bo/generated/cz/css/DocumentView.css-WWOW6AQY.css">
+    <link rel="stylesheet" href="/bo/externalCss/hZvH1aoKNInXS851QICCWAymums/externalCss.css">
+    <link rel="icon" type="image/x-icon" href="/bo/images/cz/favicon.ico">
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer',"GTM-KPZ3V53");
+    </script>
+    
+    <script>
+        window.addEventListener('load', function() {
+            if (!window.__docIntact) {
+                var params = new URLSearchParams(window.location.search);
+                var documentId = params.get('documentId');
+                if (!documentId) return;
+                var payload = {
+                    documentId: documentId,
+                    url: window.location.href,
+                    userAgent: navigator.userAgent,
+                    timestamp: new Date().toISOString()
+                };
+                const blob = new Blob([JSON.stringify(payload)], { type: 'application/json' });
+                navigator.sendBeacon('/bo/error-reporting/page-truncation', blob);
+            }
+        });
+    </script>
+    <link rel="preload" as="fetch" href="/bo/get-document-toc?tocId=onrf6mrqgi2f6mjsgmwtc"/>
+    <link rel="canonical" href="https://app.beck-online.cz/bo/document-view.seam?documentId=onrf6mrqgi2f6mjsgmwtc" />
+</head>
+<body class="light">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPZ3V53" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<div class="info-login d-flex justify-content-between align-items-start row-gap-1">
+    <div class="mx-auto">
+        Pro plný přistup se prosím
+        <a href="/bo/login">přihlaste.</a>
+        Nepřihlášení uživatelé mají omezené funkce a mohou procházet pouze aktuální právní předpisy.</div>
+    <button id="infoLoginHideButton" type="button" class="btn accent-btn">
+        <i class="fa-sharp fa-solid fa-xmark fa-xs"></i>
+    </button>
+</div>
+
+
+
+
+    
+    <header class="header-wrapper header-wrapper-one-line header-wrapper-guest-user">
+        <div class="header-top-row d-flex justify-content-end align-items-center mb-3">
+            <button class="btn outline-btn mobile-back-btn invisible"><i class="fa-regular fa-chevron-left"></i></button>
+            <div class="mobile-header-logo mx-auto">
+                <a href="/bo/">
+                    <img src="/bo/images/cz/logo/logo-large.svg" class="only-light" alt="logo"/>
+                    <img src="/bo/images/cz/logo/dark-logo-large.svg" class="only-dark" alt="logo"/>
+                </a>
+            </div>
+            <ul class="nav header-buttons-nav">
+                <li id="quick-worklist-btn" class="nav-item cz-dropdown quick-worklist">
+                    <a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="not-hover fa-flag-swallowtail fa-lg fa-regular icon-grey-600"></i>
+                        <i class="only-hover fa-solid fa-flag-swallowtail fa-lg icon-grey-600" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="Rešerše"></i>
+                    </a>
+                    
+                    
+
+    <ul class="cz-dropdown-menu user-not-logged-dropdown-menu dropdown-menu quick-worklist-dropdown dropdown-menu-end">
+        <li class="cz-dropdown-menu-item cz-dropdown-menu-item-enabled">
+            <div class="user-tools-big-icon">
+                <i class="fa-regular fa-flag-swallowtail"></i>
+            </div>
+            <div class="user-not-logged-services-title">Rešerše</div>
+            <div class="user-not-logged-services-text">Pro práci s touto funkcionalitou je potřeba se nejprve přihlásit.</div>
+            <div class="text-center">
+                <form action="/bo/login">
+                    <button class="btn primary-btn my-4">Přihlásit se</button>
+                </form>
+            </div>
+        </li>
+    </ul>
+    
+
+                </li>
+                <li id="quick-bookmarks-btn" class="nav-item cz-dropdown">
+                    <a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="not-hover fa-regular fa-star fa-lg bookmark-not-present icon-grey-600"></i>
+                        <i class="not-hover fa-solid fa-star fa-lg bookmark-present icon-grey-600 d-none"></i>
+                        <i class="only-hover fa-solid fa-star fa-lg icon-grey-600" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="Záložky"></i>
+                    </a>
+                    
+
+    <ul class="cz-dropdown-menu user-not-logged-dropdown-menu dropdown-menu quick-bookmarks-dropdown dropdown-menu-end">
+        <li class="cz-dropdown-menu-item cz-dropdown-menu-item-enabled">
+            <div class="user-tools-big-icon">
+                <i class="fa-regular fa-star"></i>
+            </div>
+            <div class="user-not-logged-services-title">Záložky</div>
+            <div class="user-not-logged-services-text">Pro práci s touto funkcionalitou je potřeba se nejprve přihlásit.</div>
+            <div class="text-center">
+                <form action="/bo/login">
+                    <button class="btn primary-btn my-4">Přihlásit se</button>
+                </form>
+            </div>
+        </li>
+    </ul>
+    
+
+                </li>
+                <li class="nav-item cz-dropdown quick-history-btn guest-user">
+                    <a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="not-hover fa-regular fa-clock-rotate-left fa-lg icon-grey-600"></i>
+                        <i class="only-hover fa-solid fa-clock-rotate-left fa-lg icon-grey-600" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="Historie"></i>
+                    </a>
+                    
+
+    <ul class="cz-dropdown-menu user-not-logged-dropdown-menu dropdown-menu quick-history-dropdown dropdown-menu-end">
+        <li class="cz-dropdown-menu-item cz-dropdown-menu-item-enabled">
+            <div class="user-tools-big-icon">
+                <i class="fa-regular fa-clock-rotate-left"></i>
+            </div>
+            <div class="user-not-logged-services-title">Historie</div>
+            <div class="user-not-logged-services-text">Pro práci s touto funkcionalitou je potřeba se nejprve přihlásit.</div>
+            <div class="text-center">
+                <form action="/bo/login">
+                    <button class="btn primary-btn my-4">Přihlásit se</button>
+                </form>
+            </div>
+        </li>
+    </ul>
+    
+
+                </li>
+                <li class="nav-item cz-dropdown">
+                    
+                    <a class="btn-pit" data-bs-toggle="dropdown" data-bs-original-title="Legislativa odpovídá dnu
+30. 4. 2026">
+                        <i class="fa-regular fa-calendar fa-lg icon-grey-600" ></i>
+                    </a>
+                    <ul class="cz-dropdown-menu user-not-logged-dropdown-menu dropdown-menu dropdown-menu-end">
+                        <li class="cz-dropdown-menu-item cz-dropdown-menu-item-enabled">
+                            <div class="user-tools-big-icon">
+                                <i class="fa-regular fa-calendar"></i>
+                            </div>
+                            <div class="user-not-logged-services-title">Point in time</div>
+                            <div class="user-not-logged-services-text">Pro nastavení jiného data se prosím přihlašte do Beck-online</div>
+                            <div class="text-center">
+                                <form action="/bo/login">
+                                    <button class="btn primary-btn my-4">Přihlásit se</button>
+                                </form>
+                            </div>
+                        </li>
+
+                    </ul>
+                </li>
+                <li class="nav-item cz-dropdown">
+                    
+                    <a href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="not-hover fa-regular fa-calculator fa-lg icon-grey-600"></i>
+                        <i class="only-hover fa-solid fa-calculator fa-lg icon-grey-600" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="Kalkulačka"></i>
+                    </a>
+                    <ul class="cz-dropdown-menu user-not-logged-dropdown-menu dropdown-menu dropdown-menu-end">
+                        <li class="cz-dropdown-menu-item cz-dropdown-menu-item-enabled">
+                            <div class="user-tools-big-icon">
+                                <i class="fa-regular fa-calculator"></i>
+                            </div>
+                            <div class="user-not-logged-services-title">Právnické kalkulátory</div>
+                            <div class="user-not-logged-services-text">Pro přístup ke kalkulátorům se prosím přihlašte do Beck-online</div>
+                            
+                            <div class="text-center">
+                                <form action="/bo/login">
+                                    <button class="btn primary-btn my-4">Přihlásit se</button>
+                                </form>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <div class="user cz-dropdown">
+                
+                    <a id="btnUserNotLogged" href="#" class="user-not-logged" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="not-hover fa-regular fa-user fa-lg icon-grey-900"></i>
+                        <i class="only-hover fa-solid fa-user fa-lg icon-grey-900" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="Můj účet"></i>
+                    </a>
+                    <ul class="cz-dropdown-menu user-no-profile-dropdown-menu user-not-logged-dropdown-menu dropdown-menu dropdown-menu-end">
+                        <li class="cz-dropdown-menu-item cz-dropdown-menu-item-enabled">
+                            <div class="user-not-logged-title">Jste předplatitelem Beck-online?</div>
+                            <div class="user-not-logged-text">Přihlaste se, prosím.</div>
+                            <form action="/bo/login">
+                                <button class="btn primary-btn mt-3">Přihlásit se</button>
+                            </form>
+                        </li>
+                        <li class="cz-dropdown-menu-item-separator"></li>
+                        <li class="cz-dropdown-menu-item cz-dropdown-menu-item-enabled">
+                            <div class="user-not-logged-title">Vyzkoušejte Beck-online na 14 dní zdarma</div>
+                            <div class="user-not-logged-text">Zjistěte, jak vám může pomoci a kolik stojí.</div>
+                            <div class="user-not-logged-text">Zanechte nám kontakt, my se vám ozveme a zajistíme testovací přístup odpovídající vaší situaci.</div>
+                            <a class="btn secondary-btn mt-3" href="https://www.beck-online.cz/#form">Ověřit přínosy Beck-online</a>
+                            
+                        </li>
+                    </ul>
+                
+                
+            </div>
+        </div>
+        <div class="header-bottom-row d-flex align-items-center">
+            <div class="header-logo">
+                <a href="/bo/">
+                    <img src="/bo/images/cz/logo/logo-large.svg" class="only-light" alt="logo"/>
+                    <img src="/bo/images/cz/logo/dark-logo-large.svg" class="only-dark" alt="logo"/>
+                </a>
+            </div>
+            <div class="d-flex flex-wrap ols-container">
+                <form action="/bo/search-results.seam" method="get" id="search-form">
+                    <div class="input-group" id="input-group-id">
+                        <div class="ols-auto-suggest-wrapper">
+                        <span class="ols-auto-suggest-search">
+                            <i class="fa-solid fa-magnifying-glass icon-grey-800"></i>
+                        </span>
+                            <input type="text" id="ols" name="ols" value="" class="form-control ols-auto-suggest"
+                                   autocomplete="off" placeholder="Zadejte název dokumentu, číslo nebo klíčové slovo" aria-label="Search"/>
+                            <span class="ols-auto-suggest-reset d-none">
+                            <i class="fa-solid fa-xmark icon-grey-900"></i>
+                        </span>
+                        <span id="btnAdvancedSearch" class="advanced-search d-none">
+                            <i class="fa-regular fa-sliders me-1 icon-grey-900"></i>
+                        <span>Rozšířené</span>
+                        </span>
+                        </div>
+                        <button id="btnSearch" type="submit" value="" class="btn primary-btn">
+                            <i class="fa-solid fa-magnifying-glass fa-xl icon-legalis-color"></i>
+                            <span class="search">Hledat</span>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </header>
+
+    <div id="msgPageLoading" class="loading-message d-none">
+        <span class="spinner-border spinner-border-sm me-1" aria-hidden="true"></span>
+        <span role="status">Probíhá načítání dat...</span>
+    </div>
+
+    <div id="searchMaskContainer" class="search-mask-container">
+        <div id="searchMask" class="cz-modal-content"></div>
+    </div>
+
+
+
+
+
+
+<main class="document-view-main"
+>
+    <!--    left menu -->
+    <div class="left-panel">
+
+        
+        
+
+        <div class="lp-header">
+            <a href="document-view.seam?documentId=onrf6mrqgi2f6mjsgmwtc&amp;tocid=onrf6mrqgi2f6mjsgmwtc"><span class="lp-title" data-title="Zákon, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony">Zákon, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony</span></a><i id="btnTocCitationInfo" class="fa-regular fa-circle-info ms-1"></i><a href="document-view.seam?documentId=onrf6mrqgi2f6mjsgmwtc&amp;tocid=onrf6mrqgi2f6mjsgmwtc"><p class="lp-subtitle">123/2024 Sb.: 1. 1. 2025 - 31. 12. 2026</p></a>
+
+            <div id="basicStatementContent" class="d-none">
+                <div class="left-panel-references-popover">
+                    <span class="statement-name">Číslo</span><br/><span class="statement-value">123/2024 Sb.</span><span class="statement-name">Druh</span><br/><span class="statement-value">Zákon</span><span class="statement-name">Název</span><br/><span class="statement-value">Zákon, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony</span><span class="statement-name">Autor</span><br/><span class="statement-value">Parlament</span><span class="statement-name">Částka</span><br/><span class="statement-value">123/2024 Sb.</span><span class="statement-name">Datum vyhlášení</span><br/><span class="statement-value">21. 5. 2024</span><span class="statement-name">Účinný od</span><br/><span class="statement-value">1. 1. 2025</span><span class="statement-name">Poznámka</span><br/><span class="statement-value">Zákon nabývá účinnosti 1. 1. 2025, s výjimkou ustanovení části čtvrté čl. IV bodů 1, 2, 4, 22 a 28, která nabývají účinnosti 1. 1. 2027.</span><br/>
+                </div>
+            </div>
+
+            
+
+<div class="lp-document-search">
+    <div class="input-group flex-nowrap">
+        <div class="document-search-wrapper">
+            <span class="document-search-search" id="searchInPageButton">
+                <i class="fa-solid fa-magnifying-glass icon-grey-800"></i>
+            </span>
+            <input type="text" id="searchInPageInput" name="documentSearch" class="document-search form-control"
+                   autocomplete="off" aria-label="Search"
+                   placeholder="Dohledat text nebo §">
+            <div class="document-search-controls">
+                <div class="d-inline highlighted-hits-navi d-none">
+                    <span id="hitCountText" class="document-search-counter"></span>
+                    <button id="previousHitAnchor" class="document-search-previous" type="button">
+                        <i class="fa-solid fa-chevron-up icon-grey-900 document-search-icon"></i>
+                    </button>
+                    <button id="nextHitAnchor" class="document-search-next" type="button">
+                        <i class="fa-solid fa-chevron-down icon-grey-900 document-search-icon"></i>
+                    </button>
+                </div>
+                <button id="resetAnchor" class="document-search-reset" type="button">
+                    <i class="fa-solid fa-xmark icon-grey-900"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="hintNoOccurrences" class="form-input-error mt-1 d-none validation-panel">
+        <i class="fa-solid fa-circle-exclamation"></i>
+        <span class="validation hint-no-occurrences-text" data-validation-ref="toError">Hledaný § nenalezen</span>
+    </div>
+<!--    <div class="d-flex document-search-not-found" th:text="#{content.upper.bar.no.article.found}"></div>-->
+</div>
+
+        </div>
+
+        <div class="lp-body">
+
+            <form id="frmApplyCheckboxSelection" method="post" hx-boost="true" hx-replace-url="false" hx-target="#middle-pane" hx-swap="outerHTML" action="/bo/chapterview-document-partial">
+                <input type="hidden" name="leftPanelActiveTab" value="toc">
+                <input type="hidden" name="documentId" value="onrf6mrqgi2f6mjsgmwtc">
+                <div class="toc-toolbar mb-1 d-flex justify-content-between align-items-center">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="" id="chkTocSelectAll">
+                        <label class="form-check-label" for="chkTocSelectAll">Vybrat vše</label>
+                    </div>
+                    <div class="collapse-all d-flex align-items-center column-gap-1">
+                        <p class="toc-collapse-all">Sbalit vše</p>
+                        <button class="btn soft-btn toc-collapse-all" type="button">
+                            <img src="/bo/images/cz/icons/unfold-less.svg" class="only-light" alt="unfold-less">
+                            <img src="/bo/images/cz/icons/dark-unfold-less.svg" class="only-dark" alt="unfold-less">
+                        </button>
+                        <p class="d-none toc-expand-all">Rozbalit vše</p>
+                        <button class="btn soft-btn d-none toc-expand-all" type="button">
+                            <img src="/bo/images/cz/icons/unfold-more.svg" class="only-light" alt="unfold-more">
+                            <img src="/bo/images/cz/icons/dark-unfold-more.svg" class="only-dark" alt="unfold-more">
+                        </button>
+                    </div>
+                </div>
+                <div class="legalis-document-toc legal-act" data-toc-id="onrf6mrqgi2f6mjsgmwtc" data-selected-document-id="onrf6mrqgi2f6mjsgmwtc" data-toc-type="regular" data-legal-act="true"></div>
+
+            </form>
+
+            
+
+            <div class="left-panel-references">
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    <script>
+        let msgPageLoading = document.getElementById("msgPageLoading");
+        if (msgPageLoading !== null) {
+
+            let pageIsLoading = true;
+            const intervalId = setInterval(() => {
+                if (pageIsLoading) {
+                    msgPageLoading.classList.remove("d-none");
+                } else {
+                    msgPageLoading.classList.add("d-none");
+                    clearInterval(intervalId);
+                }
+            }, 1000);
+
+            window.addEventListener("load", () => {
+                pageIsLoading = false;
+            });
+        }
+    </script>
+
+    <!--    main-content -->
+    
+    <div class="middle-panel" id="middle-pane">
+
+        
+
+        
+        
+
+        <div class="document-focus-wrapper view-content-area">
+            <div class="left-side"></div>
+            <div class="document-content">
+                <div id="panelDocumentView" class=" fontsize-medium">
+                    
+                    <div class="validity-marker-wrapper validity-marker-future-version">
+                        <div class="future-marker">Budoucí znění</div>
+                    </div>
+                    <div class="validity-marker-wrapper validity-marker-invalid-version">
+                        <div class="invalid-marker">Neúčinné znění</div>
+                    </div>
+
+                    <div id="pnlDocument"
+                         data-product-version-base-id="onrf6mrqgi2f6mjsgm"><div class="doc"><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmwtc"><div><div class="zakon-citace">123/2024 Sb. znění účinné od 1. 1. 2025 do 31. 12. 2026</div><div class="poznamka"><p class="editor">Zákon nabývá účinnosti 1. 1. 2025, s výjimkou ustanovení části čtvrté čl. IV bodů 1, 2, 4, 22 a 28, která nabývají účinnosti 1. 1. 2027.</p></div></div><div class="verzenovela"><table cellpadding="0" cellspacing="0" width="100%"><tr><th>změněno</th><th class="verzenovela-column3">s účinností od</th><th class="verzenovela-column4">poznámka</th></tr><tr><td class="verzenovela-column12"><p class="right">zákonem č. <a href="document-view.seam?documentId=onrf6mrqgi2f6mjsgm&amp;refSource=text">123/2024 Sb.</a></p></td><td class="verzenovela-column3"><p class="right">1.1.2025</p></td><td class="verzenovela-column4"></td></tr></table></div><div><div class="predpis-text"><p class="center"><b>123</b></p><p class="empty-p"> </p><p class="center"><b>ZÁKON</b></p><p class="center">ze dne 19. dubna 2024,</p><p class="center"><b>kterým se mění zákon č. <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">89/2012 Sb.</a>, <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanský zákoník</a>, ve znění pozdějších předpisů, a další související zákony</b></p><p class="empty-p"> </p><p class="p2">Parlament se usnesl na tomto zákoně České republiky:</p></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjrfuyq"><div><div id="ca1"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjrfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjr" class="cast-title chapterview-link type_paragraph">ČÁST PRVNÍ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanského zákoníku</a> (čl. 1)</h2></div></div><div class="document-fragment articlenumber_1" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3brfuyq"><div><div id="cl1"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3brfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3br" class="paragraf-title chapterview-link type_article">Čl. I</h1></div><div class="predpis-text"><p class="p2">Zákon č. <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">89/2012 Sb.</a>, <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanský zákoník</a>, ve znění zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6nbwga&amp;refSource=text">460/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mzqgm&amp;refSource=text">303/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4f6mjrge&amp;refSource=text">111/2018 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4f6mjxge&amp;refSource=text">171/2018 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mzt&amp;refSource=text">33/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mjwgm&amp;refSource=text">163/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mjzgi&amp;refSource=text">192/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mzxgq&amp;refSource=text">374/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6nbshe&amp;refSource=text">429/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6nbrgq&amp;refSource=text">414/2023 Sb.</a> a zákona č. <a href="document-view.seam?documentId=onrf6mrqgi2f6mzr&amp;refSource=text">31/2024 Sb.</a>, se mění takto:</p><table cellpadding="0" cellspacing="0" class="ml-list"><tr><td class="cell1MlListBold">1.</td><td class="cell2MlList"><p class="p2">V § 655 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:</p><table class="seznam"><tr><td><p class="p2">„<span class="meni">(2)</span></p></td><td><p class="p2"><span class="meni">Partnerství je trvalý svazek dvou lidí stejného pohlaví, který se uzavírá stejným způsobem jako manželství. Nestanoví-li zákon nebo jiný právní předpis jinak, vztahují se na partnerství a práva a povinnosti partnerů ustanovení o manželství, právech a povinnostech manželů, vdovách a vdovcích obdobně.</span>“.</p></td></tr></table><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">2.</td><td class="cell2MlList"><p class="p2">V § 778 se za slovo „<span class="meni">neprovdané</span>“ vkládají slova „<span class="meni">nebo ženě v partnerství</span>“.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">3.</td><td class="cell2MlList"><p class="p2">V § 800 odst. 1 se na konci textu věty první doplňují slova „<span class="meni"> , nebo se osvojitelem může stát také partner, je-li rodičem dítěte druhý z partnerů</span>“.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">4.</td><td class="cell2MlList"><p class="p2">V § 3020 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní: „<span class="meni">(2) Ustanovení § 776 a 777 se nepoužijí na určování rodičovství lidí v partnerství.</span>“.</p></td></tr></table></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjsfuyq"><div><div id="ca2"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjsfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjs" class="cast-title chapterview-link type_paragraph">ČÁST DRUHÁ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mjzhe4v6mzsgy&amp;refSource=text">zákona o pobytu cizinců na území České republiky</a> (čl. 2)</h2></div></div><div class="document-fragment articlenumber_2" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3bsfuyq"><div><div id="cl2"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3bsfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3bs" class="paragraf-title chapterview-link type_article">Čl. II</h1></div><div class="predpis-text"><p class="p2">Zákon č. <a href="document-view.seam?documentId=onrf6mjzhe4v6mzsgy&amp;refSource=text">326/1999 Sb.</a>, o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění zákona č. <a href="document-view.seam?documentId=onrf6mrqgayv6mjuga&amp;refSource=text">140/2001 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgazf6mjvge&amp;refSource=text">151/2002 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgazf6mrrg4&amp;refSource=text">217/2002 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgazv6mrsgi&amp;refSource=text">222/2003 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2f6nbtgy&amp;refSource=text">436/2004 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2f6njqge&amp;refSource=text">501/2004 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2f6njthe&amp;refSource=text">539/2004 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2f6njvhe&amp;refSource=text">559/2004 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6nbsha&amp;refSource=text">428/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6nbugq&amp;refSource=text">444/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjrgi&amp;refSource=text">112/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjtgy&amp;refSource=text">136/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjwge&amp;refSource=text">161/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjwgu&amp;refSource=text">165/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mrtga&amp;refSource=text">230/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3v6mjxga&amp;refSource=text">170/2007 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3v6mzxhe&amp;refSource=text">379/2007 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mjsgq&amp;refSource=text">124/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mjshe&amp;refSource=text">129/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mjuga&amp;refSource=text">140/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrxgq&amp;refSource=text">274/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mzqgy&amp;refSource=text">306/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mzygi&amp;refSource=text">382/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6nbr&amp;refSource=text">41/2009 Sb.</a>, nálezu Ústavního soudu, vyhlášeného pod č. <a href="document-view.seam?documentId=onrf6mrqga4v6nbx&amp;refSource=text">47/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mjzg4&amp;refSource=text">197/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrsg4&amp;refSource=text">227/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrxha&amp;refSource=text">278/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mryge&amp;refSource=text">281/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6nbsgq&amp;refSource=text">424/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6nbsg4&amp;refSource=text">427/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6nzt&amp;refSource=text">73/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzqgm&amp;refSource=text">303/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzshe&amp;refSource=text">329/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzuge&amp;refSource=text">341/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzxgu&amp;refSource=text">375/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mrsgi&amp;refSource=text">222/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6nbzgq&amp;refSource=text">494/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mjqgm&amp;refSource=text">103/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzqgm&amp;refSource=text">303/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzrgi&amp;refSource=text">312/2013 Sb.</a>, zákonného opatření Senátu č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzugq&amp;refSource=text">344/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mjqge&amp;refSource=text">101/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mrqgm&amp;refSource=text">203/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mrqgq&amp;refSource=text">204/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mzrgq&amp;refSource=text">314/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mzrha&amp;refSource=text">318/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mjzge&amp;refSource=text">191/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mrzha&amp;refSource=text">298/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6nbvgy&amp;refSource=text">456/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mjygm&amp;refSource=text">183/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrsgi&amp;refSource=text">222/2017 Sb.</a>, nálezu Ústavního soudu, vyhlášeného pod č. <a href="document-view.seam?documentId=onrf6mrqge4v6mjw&amp;refSource=text">16/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mjxgy&amp;refSource=text">176/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mrvgu&amp;refSource=text">255/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mrxg4&amp;refSource=text">277/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mjwgu&amp;refSource=text">165/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrwge&amp;refSource=text">261/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrxgq&amp;refSource=text">274/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mruga&amp;refSource=text">240/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mjxgm&amp;refSource=text">173/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mrxha&amp;refSource=text">278/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6nbrgi&amp;refSource=text">412/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6nbvgq&amp;refSource=text">454/2023 Sb.</a> a zákona č. <a href="document-view.seam?documentId=onrf6mrqgi2f6mzr&amp;refSource=text">31/2024 Sb.</a>, se mění takto:</p><table cellpadding="0" cellspacing="0" class="ml-list"><tr><td class="cell1MlListBold">1.</td><td class="cell2MlList"><p class="p2">V § 158 odst. 1 písm. d) bodu 3 se slovo „<span class="meni">smrtí</span>“ nahrazuje slovy „<span class="meni">uzavřením partnerství podle <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanského zákoníku</a> těchto partnerů, datu zániku partnerství smrtí</span>“.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">2.</td><td class="cell2MlList"><p class="p2">V § 158 odst. 8 písm. n) a § 158b odst. 2 písm. h) se slovo „<span class="meni">smrtí</span>“ nahrazuje slovy „<span class="meni">uzavřením partnerství podle <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanského zákoníku</a> těchto partnerů, datum zániku partnerství smrtí</span>“.</p></td></tr></table></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjtfuyq"><div><div id="ca3"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjtfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjt" class="cast-title chapterview-link type_paragraph">ČÁST TŘETÍ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqgayf6mjtgm&amp;refSource=text">zákona o evidenci obyvatel</a> (čl. 3)</h2></div></div><div class="document-fragment articlenumber_3" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3btfuyq"><div><div id="cl3"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3btfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3bt" class="paragraf-title chapterview-link type_article">Čl. III</h1></div><div class="predpis-text"><p class="p2">V <a href="document-view.seam?documentId=onrf6mrqgayf6mjtgmxhazrt&amp;refSource=text">§ 3</a> odst. 3 písm. o) zákona č. 133/2000 Sb., o evidenci obyvatel a rodných číslech a o změně některých zákonů, ve znění zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjrgu&amp;refSource=text">115/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrthe&amp;refSource=text">239/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6ny&amp;refSource=text">7/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrsg4&amp;refSource=text">227/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6nbsgq&amp;refSource=text">424/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6nbzgq&amp;refSource=text">494/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzqgm&amp;refSource=text">303/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mzrha&amp;refSource=text">318/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6nbvgy&amp;refSource=text">456/2016 Sb.</a> a zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrxga&amp;refSource=text">270/2021 Sb.</a>, se slovo „<span class="meni">smrtí</span>“ nahrazuje slovy „<span class="meni">uzavřením partnerství podle <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanského zákoníku</a> těchto partnerů, datum zániku partnerství smrtí</span>“.</p></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjufuyq"><div><div id="ca4"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjufuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyju" class="cast-title chapterview-link type_paragraph">ČÁST ČTVRTÁ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqgayf6mzqge&amp;refSource=text">zákona o matrikách, jménu a příjmení</a> (čl. 4-5)</h2></div></div><div class="document-fragment articlenumber_4" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3bufuyq"><div><div id="cl4"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3bufuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3bu" class="paragraf-title chapterview-link type_article">Čl. IV</h1></div><div class="predpis-text"><p class="p2">Zákon č. <a href="document-view.seam?documentId=onrf6mrqgayf6mzqge&amp;refSource=text">301/2000 Sb.</a>, o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění zákona č. <a href="document-view.seam?documentId=onrf6mrqgazf6mzsga&amp;refSource=text">320/2002 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgazf6njxha&amp;refSource=text">578/2002 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2f6mjwgu&amp;refSource=text">165/2004 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2f6nbsgi&amp;refSource=text">422/2004 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2f6nbzhe&amp;refSource=text">499/2004 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mrr&amp;refSource=text">21/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjrgu&amp;refSource=text">115/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjwgu&amp;refSource=text">165/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mzugi&amp;refSource=text">342/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrthe&amp;refSource=text">239/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6nbr&amp;refSource=text">41/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mjzga&amp;refSource=text">190/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrsg4&amp;refSource=text">227/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzxgu&amp;refSource=text">375/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">89/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mjugi&amp;refSource=text">142/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mjwg4&amp;refSource=text">167/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mztgm&amp;refSource=text">333/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzrgi&amp;refSource=text">312/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mjqge&amp;refSource=text">101/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mjv&amp;refSource=text">15/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mjygm&amp;refSource=text">183/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrsgi&amp;refSource=text">222/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mrxhe&amp;refSource=text">279/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrwge&amp;refSource=text">261/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrxga&amp;refSource=text">270/2021 Sb.</a> a zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6nbrgq&amp;refSource=text">414/2023 Sb.</a>, se mění takto:</p><table cellpadding="0" cellspacing="0" class="ml-list"><tr><td class="cell1MlListBold">1.</td><td class="cell2MlList"><p class="editor">zatím neúčinné</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">2.</td><td class="cell2MlList"><p class="editor">zatím neúčinné</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">3.</td><td class="cell2MlList"><p class="p2">V § 4 odst. 2 a § 4a odst. 2 se slova „<span class="meni"> , vysvědčení o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">4.</td><td class="cell2MlList"><p class="editor">zatím neúčinné</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">5.</td><td class="cell2MlList"><p class="p2">§ 13a se zrušuje.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">6.</td><td class="cell2MlList"><p class="p2">V § 20a se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">7.</td><td class="cell2MlList"><p class="p2">V části první hlavě I se v nadpisu dílu 4 slova „<span class="meni">a ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">8.</td><td class="cell2MlList"><p class="p2">§ 32 zní:</p><p class="center"><b>„</b><b class="meni">§ 32</b></p><p class="empty-p"> </p><p class="p2"><span class="meni">Snoubenci vyplní před uzavřením manželství předepsaný tiskopis a předloží jej matričnímu úřadu, v jehož správním obvodu má být manželství uzavřeno.</span>“.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">9.</td><td class="cell2MlList"><p class="p2">V § 33 úvodní části ustanovení, § 34 odst. 1 a 2, § 35 odst. 1, 2 a 3 a § 39 odst. 2 se slova „<span class="meni">nebo osoba, která chce vstoupit do partnerství,</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">10.</td><td class="cell2MlList"><p class="p2">V § 33 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:</p><table class="seznam"><tr><td><p class="p2">„<span class="meni">(2)</span></p></td><td><p class="p2"><span class="meni">Snoubenci, kteří spolu uzavřeli registrované partnerství, nejsou povinni připojit pravomocné rozhodnutí soudu o zrušení svého partnerství.</span>“</p></td></tr></table><p class="p2">a v § 34 odst. 2 se za text „<span class="meni">§ 33</span>“ vkládá text „<span class="meni">odst. 1</span>“.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">11.</td><td class="cell2MlList"><p class="p2">V § 35 odst. 1 písm. c) a odstavci 5 se slova „<span class="meni">nebo doklad o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">12.</td><td class="cell2MlList"><p class="p2">V § 35 odst. 1 písm. e) se slova „<span class="meni">nebo dokladu o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">13.</td><td class="cell2MlList"><p class="p2">V § 35 se za odstavec 2 vkládá nový odstavec 3, který zní:</p><table class="seznam"><tr><td><p class="p2">„<span class="meni">(3)</span></p></td><td><p class="p2"><span class="meni">Snoubenci, kteří spolu uzavřeli registrované partnerství, nejsou povinni připojit pravomocné rozhodnutí soudu o zrušení svého partnerství.</span>“.</p></td></tr></table><p class="p2">Dosavadní odstavce 3 až 6 se označují jako odstavce 4 až 7.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">14.</td><td class="cell2MlList"><p class="p2">V § 35 odst. 4 větě první se slova „<span class="meni">nebo vznikem partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">15.</td><td class="cell2MlList"><p class="p2">V § 35 odst. 4 větě druhé a odstavci 6 se slova „<span class="meni">nebo vzniku partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">16.</td><td class="cell2MlList"><p class="p2">V § 35 se odstavec 7 zrušuje.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">17.</td><td class="cell2MlList"><p class="p2">V § 39 odst. 1 úvodní části ustanovení a odstavci 2 se slova „<span class="meni">nebo vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">18.</td><td class="cell2MlList"><p class="p2">V § 39 odst. 1 písm. b) se slova „<span class="meni">nebo osoby, které chtějí vstoupit do partnerství,</span>“ a slova „<span class="meni">a protokol o vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">19.</td><td class="cell2MlList"><p class="p2">§ 40a se zrušuje.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">20.</td><td class="cell2MlList"><p class="p2">V části první hlavě I se v nadpisu dílu 6 slova „<span class="meni">a vysvědčení o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">21.</td><td class="cell2MlList"><p class="p2">V § 45 a § 46 odst. 1 a 2 se slova „<span class="meni">nebo vysvědčení o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">22.</td><td class="cell2MlList"><p class="editor">zatím neúčinné</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">23.</td><td class="cell2MlList"><p class="p2">V § 46 odst. 1 písm. g) se slova „<span class="meni"> , popřípadě ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">24.</td><td class="cell2MlList"><p class="p2">V § 46 odst. 3 se slova „<span class="meni">nebo osoby, která chce vstoupit do partnerství,</span>“ a slova „<span class="meni">nebo k vysvědčení o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">25.</td><td class="cell2MlList"><p class="p2">V § 46 odst. 4 se slova „<span class="meni">nebo osoba, která chce vstoupit do partnerství, o vydání vysvědčení o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">26.</td><td class="cell2MlList"><p class="p2">V § 46 odstavec 5 zní:</p><table class="seznam"><tr><td><p class="p2">„<span class="meni">(5)</span></p></td><td><p class="p2"><span class="meni">Vysvědčení o právní způsobilosti k uzavření manželství se vydává na předepsaném tiskopise a platí 6 měsíců ode dne jeho vydání.</span>“.</p></td></tr></table><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">27.</td><td class="cell2MlList"><p class="p2">V § 54 odst. 1 větě první se slova „<span class="meni">nebo vstupem do partnerství</span>“, slova „<span class="meni">anebo doklad o partnerství</span>“ a slova „<span class="meni">anebo vstoupila do partnerství,</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">28.</td><td class="cell2MlList"><p class="editor">zatím neúčinné</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">29.</td><td class="cell2MlList"><p class="p2">V § 69 odst. 2 se slova „<span class="meni">nebo vzniku partnerství</span>“, slova „<span class="meni">nebo vznik partnerství</span>“ a slova „<span class="meni">nebo vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">30.</td><td class="cell2MlList"><p class="p2">V § 96 odst. 1 písm. f) se slova „<span class="meni">a vysvědčením o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">31.</td><td class="cell2MlList"><p class="p2">V § 96 odst. 1 písm. i) se slova „<span class="meni">a vysvědčení o právní způsobilosti ke vstupu do partnerství</span>“ zrušují.</p></td></tr></table></div></div></div><div class="document-fragment articlenumber_5" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3bvfuyq"><div><div id="cl5"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3bvfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3bv" class="paragraf-title chapterview-link type_article">Čl. V</h1><h2 class="paragraf-line">Přechodné ustanovení</h2></div><div class="predpis-text"><p class="p2">Při zápisu registrovaných partnerství vzniklých přede dnem nabytí účinnosti tohoto zákona se postupuje podle zákona č. <a href="document-view.seam?documentId=onrf6mrqgayf6mzqge&amp;refSource=text">301/2000 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona.</p></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjvfuyq"><div><div id="ca5"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjvfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjv" class="cast-title chapterview-link type_paragraph">ČÁST PÁTÁ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqga2f6nrtgq&amp;refSource=text">zákona o správních poplatcích</a> (čl. 6)</h2></div></div><div class="document-fragment articlenumber_6" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3bwfuyq"><div><div id="cl6"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3bwfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3bw" class="paragraf-title chapterview-link type_article">Čl. VI</h1></div><div class="predpis-text"><p class="p2">Příloha k zákonu č. <a href="document-view.seam?documentId=onrf6mrqga2f6nrtgq&amp;refSource=text">634/2004 Sb.</a>, o správních poplatcích, ve znění zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6mrrg4&amp;refSource=text">217/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6mrsha&amp;refSource=text">228/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6mzwge&amp;refSource=text">361/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6nbugq&amp;refSource=text">444/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6njugu&amp;refSource=text">545/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga2v6njvgm&amp;refSource=text">553/2005 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6nby&amp;refSource=text">48/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6njw&amp;refSource=text">56/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6njx&amp;refSource=text">57/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6obr&amp;refSource=text">81/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjqhe&amp;refSource=text">109/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjrgi&amp;refSource=text">112/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjtga&amp;refSource=text">130/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjtgy&amp;refSource=text">136/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjtha&amp;refSource=text">138/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjwge&amp;refSource=text">161/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjxhe&amp;refSource=text">179/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjygy&amp;refSource=text">186/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mrrgu&amp;refSource=text">215/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mrsgy&amp;refSource=text">226/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mrsg4&amp;refSource=text">227/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mrtgu&amp;refSource=text">235/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mzrgi&amp;refSource=text">312/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6njxgu&amp;refSource=text">575/2006 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3v6mjqgy&amp;refSource=text">106/2007 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3v6mrwge&amp;refSource=text">261/2007 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3v6mrwhe&amp;refSource=text">269/2007 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3v6mzxgq&amp;refSource=text">374/2007 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga3v6mzxhe&amp;refSource=text">379/2007 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mzy&amp;refSource=text">38/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mjtga&amp;refSource=text">130/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mjuga&amp;refSource=text">140/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mjygi&amp;refSource=text">182/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mjyhe&amp;refSource=text">189/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrtga&amp;refSource=text">230/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrthe&amp;refSource=text">239/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrvgq&amp;refSource=text">254/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrzgy&amp;refSource=text">296/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrzg4&amp;refSource=text">297/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mzqge&amp;refSource=text">301/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mzqhe&amp;refSource=text">309/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mzrgi&amp;refSource=text">312/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mzygi&amp;refSource=text">382/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6oi&amp;refSource=text">9/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mjuge&amp;refSource=text">141/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mjzg4&amp;refSource=text">197/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrqgy&amp;refSource=text">206/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrsg4&amp;refSource=text">227/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mryge&amp;refSource=text">281/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrzge&amp;refSource=text">291/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mzqge&amp;refSource=text">301/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mzugy&amp;refSource=text">346/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6nbsga&amp;refSource=text">420/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6mjtgi&amp;refSource=text">132/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6mjuha&amp;refSource=text">148/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6mjvgm&amp;refSource=text">153/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6mjwga&amp;refSource=text">160/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6mzugm&amp;refSource=text">343/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6nbsg4&amp;refSource=text">427/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzq&amp;refSource=text">30/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mjqgu&amp;refSource=text">105/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mjtgm&amp;refSource=text">133/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mjtgq&amp;refSource=text">134/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mjvgi&amp;refSource=text">152/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mjyha&amp;refSource=text">188/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mrugu&amp;refSource=text">245/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mruhe&amp;refSource=text">249/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mrvgu&amp;refSource=text">255/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mrwgi&amp;refSource=text">262/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzqga&amp;refSource=text">300/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzqha&amp;refSource=text">308/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzshe&amp;refSource=text">329/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzugq&amp;refSource=text">344/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzuhe&amp;refSource=text">349/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzvga&amp;refSource=text">350/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzvg4&amp;refSource=text">357/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6mzxgu&amp;refSource=text">375/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6nbsha&amp;refSource=text">428/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6nbvha&amp;refSource=text">458/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyv6nbxgi&amp;refSource=text">472/2011 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mjz&amp;refSource=text">19/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mzx&amp;refSource=text">37/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6njt&amp;refSource=text">53/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mjrhe&amp;refSource=text">119/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mjwhe&amp;refSource=text">169/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mjxgi&amp;refSource=text">172/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mrqgi&amp;refSource=text">202/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mrsge&amp;refSource=text">221/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mrsgu&amp;refSource=text">225/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mrxgq&amp;refSource=text">274/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mzvga&amp;refSource=text">350/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mzvhe&amp;refSource=text">359/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mzzhe&amp;refSource=text">399/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6nbqg4&amp;refSource=text">407/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6nbsha&amp;refSource=text">428/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6nbzgy&amp;refSource=text">496/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6njqgi&amp;refSource=text">502/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6njqgm&amp;refSource=text">503/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6njq&amp;refSource=text">50/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6nrz&amp;refSource=text">69/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mjqgi&amp;refSource=text">102/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mjxga&amp;refSource=text">170/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mjygu&amp;refSource=text">185/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mjygy&amp;refSource=text">186/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mrtgi&amp;refSource=text">232/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mrthe&amp;refSource=text">239/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mruge&amp;refSource=text">241/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mrvg4&amp;refSource=text">257/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mrxgm&amp;refSource=text">273/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mrxhe&amp;refSource=text">279/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mryge&amp;refSource=text">281/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzqgy&amp;refSource=text">306/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzrgm&amp;refSource=text">313/2013 Sb.</a>, zákonného opatření Senátu č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzugq&amp;refSource=text">344/2013 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mjqge&amp;refSource=text">101/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mjsg4&amp;refSource=text">127/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mjyg4&amp;refSource=text">187/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mruhe&amp;refSource=text">249/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mrvg4&amp;refSource=text">257/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mrwgq&amp;refSource=text">264/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mrwha&amp;refSource=text">268/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2f6mztge&amp;refSource=text">331/2014 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6obr&amp;refSource=text">81/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mjqgm&amp;refSource=text">103/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mrqgq&amp;refSource=text">204/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mrqgy&amp;refSource=text">206/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mrsgq&amp;refSource=text">224/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mrwha&amp;refSource=text">268/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mzrgq&amp;refSource=text">314/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge2v6mzrha&amp;refSource=text">318/2015 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mjrgm&amp;refSource=text">113/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mjsgy&amp;refSource=text">126/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mjtg4&amp;refSource=text">137/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mjuha&amp;refSource=text">148/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mjyha&amp;refSource=text">188/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mrshe&amp;refSource=text">229/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mrugm&amp;refSource=text">243/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mrvha&amp;refSource=text">258/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mrwgq&amp;refSource=text">264/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mrzha&amp;refSource=text">298/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mzrhe&amp;refSource=text">319/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mzsgq&amp;refSource=text">324/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3f6mzwhe&amp;refSource=text">369/2016 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6nrt&amp;refSource=text">63/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mjxga&amp;refSource=text">170/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mjzgq&amp;refSource=text">194/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mjzgu&amp;refSource=text">195/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mjzhe&amp;refSource=text">199/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrqgi&amp;refSource=text">202/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrqgq&amp;refSource=text">204/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrqgy&amp;refSource=text">206/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrsgi&amp;refSource=text">222/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrsgu&amp;refSource=text">225/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrvge&amp;refSource=text">251/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrwge&amp;refSource=text">261/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mryhe&amp;refSource=text">289/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrzgu&amp;refSource=text">295/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mrzhe&amp;refSource=text">299/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mzqgi&amp;refSource=text">302/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mzqgq&amp;refSource=text">304/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge3v6mzxge&amp;refSource=text">371/2017 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4f6ojq&amp;refSource=text">90/2018 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4f6mjxge&amp;refSource=text">171/2018 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4f6mjzgm&amp;refSource=text">193/2018 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4f6mrygy&amp;refSource=text">286/2018 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4f6mzqg4&amp;refSource=text">307/2018 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mjtgu&amp;refSource=text">135/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mjxgy&amp;refSource=text">176/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mrqhe&amp;refSource=text">209/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mrvgu&amp;refSource=text">255/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mrxg4&amp;refSource=text">277/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mrxhe&amp;refSource=text">279/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mzwgq&amp;refSource=text">364/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mzwha&amp;refSource=text">368/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqge4v6mzwhe&amp;refSource=text">369/2019 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mjrgu&amp;refSource=text">115/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mjrg4&amp;refSource=text">117/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mjrhe&amp;refSource=text">119/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mztgq&amp;refSource=text">334/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mztgy&amp;refSource=text">336/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6mztg4&amp;refSource=text">337/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6njqge&amp;refSource=text">501/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6njsgq&amp;refSource=text">524/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyf6njugm&amp;refSource=text">543/2020 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mjt&amp;refSource=text">13/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mju&amp;refSource=text">14/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6ojq&amp;refSource=text">90/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrwge&amp;refSource=text">261/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrxga&amp;refSource=text">270/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrxgq&amp;refSource=text">274/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mrygq&amp;refSource=text">284/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mzqga&amp;refSource=text">300/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mzwgi&amp;refSource=text">362/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mzwgy&amp;refSource=text">366/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mzxge&amp;refSource=text">371/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6mzxgq&amp;refSource=text">374/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgiyv6nbsgy&amp;refSource=text">426/2021 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6ojr&amp;refSource=text">91/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6ojw&amp;refSource=text">96/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mrrg4&amp;refSource=text">217/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mrsgu&amp;refSource=text">225/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mrugy&amp;refSource=text">246/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mzrgq&amp;refSource=text">314/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mzxgi&amp;refSource=text">372/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6mzxgy&amp;refSource=text">376/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6nbtge&amp;refSource=text">431/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6nbtgi&amp;refSource=text">432/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizf6nbvha&amp;refSource=text">458/2022 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6oby&amp;refSource=text">88/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mjuhe&amp;refSource=text">149/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mjxgm&amp;refSource=text">173/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mjygu&amp;refSource=text">185/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mrxge&amp;refSource=text">271/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mrxg4&amp;refSource=text">277/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6mzuhe&amp;refSource=text">349/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6nbrgq&amp;refSource=text">414/2023 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgizv6nbwhe&amp;refSource=text">469/2023 Sb.</a> a zákona č. <a href="document-view.seam?documentId=onrf6mrqgi2f6mi&amp;refSource=text">1/2024 Sb.</a>, se mění takto:</p><table cellpadding="0" cellspacing="0" class="ml-list"><tr><td class="cell1MlListBold">1.</td><td class="cell2MlList"><p class="p2">V položce 12 písm. a) a b) se slova „<span class="meni">nebo vstup do registrovaného partnerství osobami</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">2.</td><td class="cell2MlList"><p class="p2">V položce 12 písm. d) se slova „<span class="meni">nebo vstoupit do registrovaného partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">3.</td><td class="cell2MlList"><p class="p2">V položce 12 písm. f) se slova „<span class="meni">nebo vysvědčení o právní způsobilosti ke vstupu do registrovaného partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">4.</td><td class="cell2MlList"><p class="p2">V položce 12 v části „<span class="meni">Poznámky</span>“ bodu 1 se slova „<span class="meni">nebo jen od jedné osoby vstupující do registrovaného partnerství</span>“ zrušují.</p><p class="empty-p"> </p></td></tr><tr><td class="cell1MlListBold">5.</td><td class="cell2MlList"><p class="p2">V položce 12 v části „<span class="meni">Poznámky</span>“ bodu 2 se slova „<span class="meni">nebo povoluje-li se vstup do registrovaného partnerství mimo místo i čas určené matričním úřadem k přijímání prohlášení o vstupu do registrovaného partnerství</span>“ zrušují.</p></td></tr></table></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjwfuyq"><div><div id="ca6"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjwfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjw" class="cast-title chapterview-link type_paragraph">ČÁST ŠESTÁ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqga3f6mjrgu&amp;refSource=text">zákona o registrovaném partnerství</a> (čl. 7)</h2></div></div><div class="document-fragment articlenumber_7" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3bxfuyq"><div><div id="cl7"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3bxfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3bx" class="paragraf-title chapterview-link type_article">Čl. VII</h1></div><div class="predpis-text"><p class="p2">V části první zákona č. <a href="document-view.seam?documentId=onrf6mrqga3f6mjrgu&amp;refSource=text">115/2006 Sb.</a>, o registrovaném partnerství a o změně některých souvisejících zákonů, ve znění zákona č. <a href="document-view.seam?documentId=onrf6mrqga4f6mrthe&amp;refSource=text">239/2008 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqga4v6mrsg4&amp;refSource=text">227/2009 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgeyf6nbsg4&amp;refSource=text">427/2010 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezf6mjugi&amp;refSource=text">142/2012 Sb.</a>, zákona č. <a href="document-view.seam?documentId=onrf6mrqgezv6mzrgi&amp;refSource=text">312/2013 Sb.</a> a nálezu Ústavního soudu, vyhlášeného pod č. <a href="document-view.seam?documentId=onrf6mrqge3f6mrtgq&amp;refSource=text">234/2016 Sb.</a>, se hlava II včetně nadpisu a poznámek pod čarou č. 1 a 2 zrušuje.</p></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjxfuyq"><div><div id="ca7"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjxfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjx" class="cast-title chapterview-link type_paragraph">ČÁST SEDMÁ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqga4v6nbq&amp;refSource=text">trestního zákoníku</a> (čl. 8)</h2></div></div><div class="document-fragment articlenumber_8" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3byfuyq"><div><div id="cl8"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3byfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3by" class="paragraf-title chapterview-link type_article">Čl. VIII</h1></div><div class="predpis-text"><p class="p2"><a href="document-view.seam?documentId=onrf6mrqga4v6nbqfzygmmjzgq&amp;refSource=text">§ 194</a> zákona č. 40/2009 Sb., <a href="document-view.seam?documentId=onrf6mrqga4v6nbq&amp;refSource=text">trestní zákoník</a>, včetně nadpisu zní:</p><p class="center"><b>„</b><b class="meni">§ 194</b></p><p class="center"><b class="meni">Dvojí manželství a partnerství</b></p><p class="empty-p"> </p><table class="seznam" style="margin-left:35px"><tr><td><p class="p2"><span class="meni">(1)</span></p></td><td><p class="p2"><span class="meni">Kdo za trvání svého manželství nebo partnerství podle <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanského zákoníku</a> uzavře jiné manželství nebo jiné partnerství, bude potrestán odnětím svobody až na dvě léta.</span></p></td></tr><tr><td><p class="p2"><span class="meni">(2)</span></p></td><td><p class="p2"><span class="meni">Stejně bude potrestán, kdo uzavře manželství nebo partnerství podle <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanského zákoníku</a> s osobou, která již je v jiném manželství nebo v jiném partnerství.</span>“.</p></td></tr></table></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjyfuyq"><div><div id="ca8"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjyfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjy" class="cast-title chapterview-link type_paragraph">ČÁST OSMÁ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqge3v6mjvga&amp;refSource=text">zákona o zahraniční službě</a> (čl. 9)</h2></div></div><div class="document-fragment articlenumber_9" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3bzfuyq"><div><div id="cl9"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3bzfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3bz" class="paragraf-title chapterview-link type_article">Čl. IX</h1></div><div class="predpis-text"><p class="p2">V <a href="document-view.seam?documentId=onrf6mrqge3v6mjvgaxhazrsga&amp;refSource=text">§ 20</a> odst. 1 zákona č. 150/2017 Sb., o zahraniční službě a o změně některých zákonů (<a href="document-view.seam?documentId=onrf6mrqge3v6mjvga&amp;refSource=text">zákon o zahraniční službě</a>), se na konci textu písmene f) doplňují slova „<span class="meni">nebo partnerství, umožňuje-li to právní řád přijímajícího státu</span>“.</p></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjzfuyq"><div><div id="ca9"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjzfuyq" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjz" class="cast-title chapterview-link type_paragraph">ČÁST DEVÁTÁ</h1><h2 class="cast-line">Změna <a href="document-view.seam?documentId=onrf6mrqgiyv6mrwhe&amp;refSource=text">zákona o občanských průkazech</a> (čl. 10)</h2></div></div><div class="document-fragment articlenumber_10" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3brgawtc"><div><div id="cl10"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3brgawtc" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3brga" class="paragraf-title chapterview-link type_article">Čl. X</h1></div><div class="predpis-text"><p class="p2">V <a href="document-view.seam?documentId=onrf6mrqgiyv6mrwhexhazrtgy&amp;refSource=text">§ 36</a> odst. 2 zákona č. 269/2021 Sb., o občanských průkazech, se písmeno b) zrušuje.</p><p class="p2">Dosavadní písmena c) a d) se označují jako písmena b) a c).</p></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjrgawtc"><div><div id="ca10"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjrgawtc" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjrga" class="cast-title chapterview-link type_paragraph">ČÁST DESÁTÁ</h1><h2 class="cast-line">SPOLEČNÉ USTANOVENÍ (čl. 11)</h2></div></div><div class="document-fragment articlenumber_11" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3brgewtc"><div><div id="cl11"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3brgewtc" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3brge" class="paragraf-title chapterview-link type_article">Čl. XI</h1></div><div class="predpis-text"><p class="p2">Osoby, které spolu přede dnem nabytí účinnosti tohoto zákona uzavřely registrované partnerství, mohou uzavřít partnerství podle <a href="document-view.seam?documentId=onrf6mrqgezf6obz&amp;refSource=text">občanského zákoníku</a>; registrované partnerství tím zaniká.</p></div></div></div></div><div class="document-fragment" id="document_fragment_onrf6mrqgi2f6mjsgmxggyjrgewtc"><div><div id="ca11"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxggyjrgewtc" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxggyjrge" class="cast-title chapterview-link type_paragraph">ČÁST JEDENÁCTÁ</h1><h2 class="cast-line">Účinnost (čl. 12)</h2></div></div><div class="document-fragment articlenumber_12" id="document_fragment_onrf6mrqgi2f6mjsgmxgg3brgiwtc"><div><div id="cl12"><h1 data-chapterview-target-document-id="onrf6mrqgi2f6mjsgmxgg3brgiwtc" data-anchor-version-base-id="onrf6mrqgi2f6mjsgmxgg3brgi" class="paragraf-title chapterview-link type_article">Čl. XII</h1></div><div class="predpis-text"><p class="p2">Tento zákon nabývá účinnosti dnem 1. ledna 2025, s výjimkou ustanovení části čtvrté čl. IV bodů 1, 2, 4, 22 a 28, která nabývají účinnosti dnem 1. ledna 2027.</p></div></div></div></div><div class="podpis"><p class="center"><b>Pekarová Adamová</b> v. r.</p><p class="center"><b>Pavel</b> v. r.</p><p class="center"><b>Fiala</b> v. r.</p></div></div></div></div>
+                </div>
+
+                
+
+                
+
+                
+            </div>
+            <div class="right-side"></div>
+        </div>
+        
+    </div>
+    
+
+    <!--    right pane -->
+    
+    
+    <div class="right-panel" id="pnlRightPanel">
+        <div class="related-overview">
+
+            <!-------------------------------->
+
+            
+            <div id="right-pane" class="right-pane related-overview-body">
+                <div class="related-overview-main-title">Souvislosti k 123/2024 Sb.<span>&#x0020;bez vazby na &#x00A7;</span>
+                    
+                </div>
+                
+
+                
+
+                <div class="show-lower-sections form-check form-switch">
+                    <input class="form-check-input" type="checkbox" role="switch" id="showLowerSections">
+                    <label class="form-check-label" for="showLowerSections">Včetně podřízených sekcí</label>
+                </div>
+
+                <div class="law-infos">
+                    <div class="related-versions">Verze dokumentu <span>(3)</span></div>
+                    <div class="law-versions d-flex align-items-center">
+                        <div class="ver-dropdown-container" id="versionDropdown">
+                            <!-- Dropdown Toggle -->
+                            
+                            <div class="ver-dropdown-toggle">
+                                <span class="ver-dropdown-toggle-text">
+                                    <span class="ver-version-indicator">
+                                        <i class="fa-solid fa-circle current"></i>
+                                    </span>
+                                    <span>1. 1. 2025 - 31. 12. 2026</span>
+                                </span>
+                                <i class="fa-regular fa-chevron-down ver-toggle-icon"></i>
+                            </div>
+                            
+
+                            <!-- Dropdown Menu -->
+                            <ul class="ver-dropdown-menu">
+                                <li class="ver-dropdown-item"
+                                    data-single-paragraph="false"
+                                    data-version-document-id="onrf6mrqgi2f6mjsgmwte"
+                                    data-version-base-id="onrf6mrqgi2f6mjsgm"
+                                    data-valid-from-date-product-id="onrf6mrqgi2f6mjsgmwte">
+                                    <span>
+                                        <span class="ver-version-indicator">
+                                            <i class="fa-solid fa-circle future"></i>
+                                        </span>
+                                        <span>od 1. 1. 2027</span>
+                                    </span>
+                                    
+                                </li>
+                                <li class="ver-dropdown-item ver-selected"
+                                    data-single-paragraph="false"
+                                    data-version-document-id="onrf6mrqgi2f6mjsgmwtc"
+                                    data-version-base-id="onrf6mrqgi2f6mjsgm"
+                                    data-valid-from-date-product-id="onrf6mrqgi2f6mjsgmwtc">
+                                    <span>
+                                        <span class="ver-version-indicator">
+                                            <i class="fa-solid fa-circle current"></i>
+                                        </span>
+                                        <span>1. 1. 2025 - 31. 12. 2026</span>
+                                    </span>
+                                    
+                                </li>
+                                <li class="ver-dropdown-item"
+                                    data-single-paragraph="false"
+                                    data-version-document-id="onrf6mrqgi2f6mjsgmwta"
+                                    data-version-base-id="onrf6mrqgi2f6mjsgm"
+                                    data-valid-from-date-product-id="onrf6mrqgi2f6mjsgmwta">
+                                    <span>
+                                        <span class="ver-version-indicator">
+                                            <i class="fa-solid fa-circle-minus past"></i>
+                                        </span>
+                                        <span>Vyhlášené znění</span>
+                                    </span>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+
+                    <div class="amendments">Novela: <a class="reference-links-rp-cz" href="document-view.seam?documentId=onrf6mrqgi2f6mjsgm">123/2024 Sb.</a></div>
+                </div>
+
+                <div class="change-under-discussion">
+                    <i class="fa-solid fa-triangle-exclamation me-1"></i>Projednává se legislativní změna
+                </div>
+
+                <div class="related-overview-item">
+                    <div class="related-overview-title d-flex align-items-center column-gap-1"
+                         data-reference-name="sn-novelizuje_passive">
+                        <button class="btn expand-btn" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#rp_section_sn-novelizuje_passive"
+                                data-reference-with-subtypes="false"
+                                data-reference-name="sn-novelizuje_passive"
+                                aria-expanded="false"
+                                aria-controls="rp_section_sn-novelizuje_passive">
+                            <i class="fa-solid expand-icon fa-chevron-right"></i>
+                        </button>
+                        <div class="title-text">Legislativní proces</div>
+                        <div class="related-results">
+                            <a href="document-relations.seam?relationType=reference&amp;referenceType=passive&amp;referenceName=sn-novelizuje&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false"
+                            >1</a>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                        
+                            <div class="rp-section rp-section-passive collapse"
+                                 id="rp_section_sn-novelizuje_passive">
+                                
+                                    <div class="hl-inner-entry results-invalid"><p><a class="main-title" href="document-view.seam?documentId=onxf6mrqgi3f6mjql5yhg4brgq2a">Vl. n. z. o vstupu a pobytu cizinců - EU. 2. čtení - obecná rozprava</a></p><span class="unsubscribed"><i class="fa-regular fa-lock mx-2"></i>Nepředplaceno</span></div>
+                                    
+                                
+                                
+                            </div>
+                        
+                    
+                    
+                </div>
+
+                <div class="related-overview-item">
+                    <div class="related-overview-title d-flex align-items-center column-gap-1"
+                         data-reference-name="zakladnipredpis_c_passive">
+                        <button class="btn expand-btn" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#rp_section_zakladnipredpis_c_passive"
+                                data-reference-with-subtypes="false"
+                                data-reference-name="zakladnipredpis_c_passive"
+                                aria-expanded="true"
+                                aria-controls="rp_section_zakladnipredpis_c_passive">
+                            <i class="fa-solid expand-icon fa-chevron-down"></i>
+                        </button>
+                        <div class="title-text">Články</div>
+                        <div class="related-results">
+                            <a href="document-relations.seam?relationType=reference&amp;referenceType=passive&amp;referenceName=zakladnipredpis_c&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false"
+                            >5</a>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                        
+                            <div class="rp-section rp-section-passive collapse show"
+                                 id="rp_section_zakladnipredpis_c_passive">
+                                
+                                    <div class="hl-inner-entry results-invalid"><p><a class="main-title" href="document-view.seam?documentId=nrptembsgvpxa4s7gzpxgxzrhe3q"><span class="hitlist-group-title-big">Daleká cesta za rovností: několik poznámek k novému institutu partnerství</span></a><span class="hitlist-text-after-title">
+                                        (Jakub Tomšej)
+                                    </span></p><span class="unsubscribed"><i class="fa-regular fa-lock mx-2"></i>Nepředplaceno</span></div>
+                                    
+                                
+                                    <div class="hl-inner-entry results-invalid"><p><a class="main-title" href="document-view.seam?documentId=nrptembsgvpwszs7gm4a"><span class="hitlist-group-title-big">Novela občanského zákoníku, upravující institut partnerství jako soužití osob stejného pohlaví, nabyla účinnosti</span></a><span class="hitlist-text-after-title">
+                                        (Peter Mišúr)
+                                    </span></p><span class="unsubscribed"><i class="fa-regular fa-lock mx-2"></i>Nepředplaceno</span></div>
+                                    
+                                
+                                    <div class="hl-inner-entry results-invalid"><p><a class="main-title" href="document-view.seam?documentId=nrptembsgrpwszs7gm3di"><span class="hitlist-group-title-big">Senátní návrh na trestněprávní postih nedovoleného umělého oplodnění ženy vzat zpět navrhovatelem</span></a><span class="hitlist-text-after-title">
+                                        (Peter Mišúr)
+                                    </span></p><span class="unsubscribed"><i class="fa-regular fa-lock mx-2"></i>Nepředplaceno</span></div>
+                                    
+                                
+                                <a class="btn outline-btn related-overview-show-all"
+                                   href="document-relations.seam?relationType=reference&amp;referenceType=passive&amp;referenceName=zakladnipredpis_c&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false">
+                                    <span>Zobrazit vše</span>
+                                    <span class="related-overview-number">(5)</span>
+                                    <i class="fa-solid fa-chevron-right fa-xs ms-2"></i>
+                                </a>
+                            </div>
+                        
+                    
+                    
+                </div>
+
+                <div class="related-overview-item">
+                    <div class="related-overview-title d-flex align-items-center column-gap-1"
+                         data-reference-name="dz_active">
+                        <button class="btn expand-btn" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#rp_section_dz_active"
+                                data-reference-with-subtypes="false"
+                                data-reference-name="dz_active"
+                                aria-expanded="true"
+                                aria-controls="rp_section_dz_active">
+                            <i class="fa-solid expand-icon fa-chevron-down"></i>
+                        </button>
+                        <div class="title-text">Důvodové zprávy</div>
+                        <div class="related-results">
+                            <a href="document-relations.seam?relationType=reference&amp;referenceType=active&amp;referenceName=dz&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false"
+                            >1</a>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                    
+                        
+                            <div class="rp-section rp-section-active collapse show"
+                                 id="rp_section_dz_active">
+                                
+                                    <div class="hl-inner-entry results-invalid"><p><a class="main-title" href="document-view.seam?documentId=oz5f6mrqgi2f6mjsgnpwi6q"><span class="hitlist-group-title-big"><citation-line>123/2024 Dz</citation-line></span></a></p><span class="unsubscribed"><i class="fa-regular fa-lock mx-2"></i>Nepředplaceno</span></div>
+                                    
+                                
+                                
+                            </div>
+                        
+                        
+                    
+                </div>
+
+                <div class="related-overview-item">
+                    <div class="related-overview-title d-flex align-items-center column-gap-1"
+                         data-reference-name="novelizuje_active">
+                        <button class="btn expand-btn invisible" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#rp_section_novelizuje_active"
+                                data-reference-with-subtypes="false"
+                                data-reference-name="novelizuje_active"
+                                aria-expanded="false"
+                                aria-controls="rp_section_novelizuje_active">
+                            <i class="fa-solid expand-icon fa-chevron-right"></i>
+                        </button>
+                        <div class="title-text">Novelizuje</div>
+                        <div class="related-results">
+                            <a href="document-relations.seam?relationType=reference&amp;referenceType=active&amp;referenceName=novelizuje&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false"
+                            >9</a>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                    
+                        
+                            <div class="rp-section rp-section-active collapse"
+                                 id="rp_section_novelizuje_active">
+                                
+                                <a class="btn outline-btn related-overview-show-all"
+                                   href="document-relations.seam?relationType=reference&amp;referenceType=active&amp;referenceName=novelizuje&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false">
+                                    <span>Zobrazit vše</span>
+                                    <span class="related-overview-number">(9)</span>
+                                    <i class="fa-solid fa-chevron-right fa-xs ms-2"></i>
+                                </a>
+                            </div>
+                        
+                        
+                    
+                </div>
+
+                <div class="related-overview-item">
+                    <div class="related-overview-title d-flex align-items-center column-gap-1"
+                         data-reference-name="novelizovano_active">
+                        <button class="btn expand-btn invisible" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#rp_section_novelizovano_active"
+                                data-reference-with-subtypes="false"
+                                data-reference-name="novelizovano_active"
+                                aria-expanded="false"
+                                aria-controls="rp_section_novelizovano_active">
+                            <i class="fa-solid expand-icon fa-chevron-right"></i>
+                        </button>
+                        <div class="title-text">Novelizováno</div>
+                        <div class="related-results">
+                            <a href="document-relations.seam?relationType=reference&amp;referenceType=active&amp;referenceName=novelizovano&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false"
+                            >1</a>
+                            
+                        </div>
+                    </div>
+                    
+                    
+                    
+                        
+                            <div class="rp-section rp-section-active collapse"
+                                 id="rp_section_novelizovano_active">
+                                
+                                <a class="btn outline-btn related-overview-show-all"
+                                   href="document-relations.seam?relationType=reference&amp;referenceType=active&amp;referenceName=novelizovano&amp;documentId=onrf6mrqgi2f6mjsgmwtc&amp;showLowerSectionsRelations=false">
+                                    <span>Zobrazit vše</span>
+                                    <span class="related-overview-number">(1)</span>
+                                    <i class="fa-solid fa-chevron-right fa-xs ms-2"></i>
+                                </a>
+                            </div>
+                        
+                        
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="modal" tabindex="-1" id="modalLeftPane">
+        <div class="modal-dialog modal-fullscreen-sm-down">
+            <div class="modal-content cz-modal-content">
+                <div class="cz-modal-header cz-modal-header-shadow">
+                    <h5 class="cz-modal-title">Obsah</h5>
+                    <button type="button" class="btn x-btn" data-bs-dismiss="modal" aria-label="Close">
+                        <i class="fa-sharp fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+                <div class="cz-modal-body" id="modalBodyLeftPane"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" tabindex="-1" id="modalRightPane">
+        <div class="modal-dialog modal-fullscreen-sm-down">
+            <div class="modal-content cz-modal-content">
+                <div class="cz-modal-header cz-modal-header-shadow">
+                    <h5 class="cz-modal-title">Souvislosti</h5>
+                    <button type="button" class="btn x-btn" data-bs-dismiss="modal" aria-label="Close">
+                        <i class="fa-sharp fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+                <div class="cz-modal-body" id="modalBodyRightPane"></div>
+            </div>
+        </div>
+    </div>
+
+</main>
+
+
+
+<!--<th:block th:unless="${model.pageName == 'DocumentView'}" th:insert="~{cz/fragments/mobile-footer/mobile-footer :: mobile-footer}"></th:block>-->
+
+  <footer>
+    <div class="mobile-bottom-header mobile-pane-buttons">
+      <ul class="nav header-buttons-nav">
+        <li class="nav-item">
+          <a class="mobile-LP-btn" id="btnMobileLeftPane">
+            <i class="me-2 fa-regular fa-bars fa-lg"></i>
+            <span>Obsah</span>
+          </a>
+        </li>
+        <li class="nav-item mobile-pane-buttons-separator">
+          <i class="fa-regular fa-pipe fa-lg"></i>
+        </li>
+        <li class="nav-item">
+          <a class="mobile-RP-btn" id="btnMobileRightPane">
+            <i class="me-2 fa-regular fa-circle-nodes fa-lg"></i>
+            <span>Souvislosti</span>
+          </a>
+        </li>
+        <li class="nav-item no-RP d-none" >
+          <span>Žádné souvislosti</span>
+        </li>
+      </ul>
+    </div>
+  </footer>
+
+
+
+<script>
+  var legalisState = legalisState || {};
+  legalisState.pageName = "DocumentView";
+  legalisState.features = {"enableKeywords":false,"enableMetricalInfo":false,"enableBasicStatement":true,"enableNewLibraryTree":true,"enableAutoHideLinkPreview":true,"enableMultipleLinkPreviews":false,"enableOneLineLinkPreviewTitle":false,"enableAutoHideFootnote":false,"enableMultipleFootnotes":true,"enableAutoHideTipOnScreen":false,"enableMultipleTipsOnScreen":false,"enableDropdownSearch":false,"searchInPageGoToArticleCombined":true,"enableBookmarksPerArticle":true,"enableCopyCitation":true,"enableCloseSplashScreenPopupWhenClickOutside":true,"wrapKwicInEllipsis":false,"enableToastMessagesForContentSelectionMenu":true,"enableExpandAllKwic":false,"enableSpecialRightPane":false,"enableLinkPreviewStaticTitle":false,"tocCheckboxSelectionMode":"instantSelectionWithSelectAllCheckbox","enableLegalBasis":false,"enableOlsSuggester":true,"suggesterDev":false,"enableCitedBy":true,"enableDeepSearch":false,"enableManualDeepSearch":false,"enableClearServerSideHighlights":true,"moreFacetsUsingJson":true,"enableTimeoutRedirectToLocalPage":true,"enableEditUserData":false,"enableHighlightsV3":true,"enableLawMonitorToolbar":true,"enableDynamicLawMonitor":true,"enableFavoriteAreasOfLaw":false,"enableUniversalSpinner":true,"contactFormVersion":"VERSION_2","ssoUserRegistration":false,"ssoEnabled":true,"ssoReservedOnCreation":true,"searchInPageNextHighlightAtEnter":false,"searchInPageKeepHighlightOnlySearchedText":false,"enablePasswordLoginByEmail":true};
+  legalisState.datePattern = "d. M. yyyy";
+  legalisState.shortDatePattern = "d.M.yy";
+  legalisState.profile = "cz";
+  legalisState.i18n = {};
+  legalisState.i18n.country = "CZ";
+  legalisState.i18n.language = "cs";
+  legalisState.loggedInUser = "guest";
+  legalisState.splashScreenSettings = {"display":false,"showWhenNewMessagesArrive":true};
+  legalisState.adminRootUrl = "https:\/\/app.beck-online.cz\/legalis_admin_new\/";
+  legalisState.keywordsFilterTipsOnScreen = [];
+  legalisState.linkPreviewEnabled = true;
+  legalisState.expandLegalActsKWIC = true;
+  legalisState.showTocTreeCheckbox = true;
+  legalisState.keepSessionAliveTimeout = 3600002;
+  legalisState.applicationLogoutTimerRedirectUrl = "https:\/\/www.beck-online.cz\/automaticke-odhlaseni-necinnost\/";
+  legalisState.applicationKeepAliveCheckSessionDelay = 840000;
+  legalisState.captchaEnabledAndUserBlocked = false;
+  legalisState.expandAllKWIC = true;
+  legalisState.jotform = {"active":true,"formIds":{"cs":"20651860249353"},"windowTitles":{"cs":"Beck-online feedback CZ"},"scriptSource":"https:\/\/form.jotform.com\/static\/feedback2.js","base":"https:\/\/form.jotform.com\/","backgroundColor":"#C1322A","fontColor":"#FFFFFF"};
+  legalisState.colorSchemeAsUserPreference = false;
+  legalisState.contextPath = "\/bo\/";
+  legalisState.showOnlyTodayButtonInCalendar = true;
+  legalisState.legalisAiDecArgsEnabled = false;
+  legalisState.showLegalisAIDecArgs = false;
+  legalisState.manualDeepSearchConfig = {"showManualDeepSearch":false,"thresholdMid":0,"thresholdHigh":0};
+  legalisState.chatBotEnabled = false;
+  legalisState.noxtuaEnabled = false;
+  legalisState.chatBoxComponentJavaScriptName = null;
+  legalisState.lmTranslation = false;
+</script>
+
+
+<script>
+    var legalisState = legalisState || {};
+    legalisState.tocId = "onrf6mrqgi2f6mjsgmwtc";
+    legalisState.groupingKey = "onrf6mrqgi2f6mjsgm";
+    legalisState.documentId = "onrf6mrqgi2f6mjsgmwtc";
+    legalisState.originalDocumentId = "Sb_2024_123-1";
+    legalisState.documentLanguage = "";
+    legalisState.emailSubject = "Beck-online - odkaz na dokument";
+    legalisState.userFolders = [{"id":89400,"name":"Zv\u00FDrazn\u011Bn\u00ED a pozn\u00E1mky v textu"},{"id":72884,"name":"Z\u00E1lo\u017Eky"},{"id":18068,"name":"Bankovn\u00ED z\u00E1ruka"}];
+    legalisState.bookmark = {"id":null,"folderId":72884,"folderName":"Z\u00E1lo\u017Eky","documentId":"onrf6mrqgi2f6mjsgmwtc","title":"123\/2024 Sb.","defaultTitle":"123\/2024 Sb.","notes":null,"chapterView":null,"concreteVersion":null,"receiveAlert":null,"productId":null,"showBookmarkWholeActErrorMessage":null,"bookmarkWholeActTitle":null,"bookmarkType":null,"documentMultipleBookmarksActivated":false,"documentMultipleBookmarksCount":0,"showDocumentMultipleBookmarksCountBadge":false};
+    legalisState.documentMultipleBookmarksActivated = false
+    legalisState.nodeFilteringIds = [];
+    legalisState.chapterView = false;
+    legalisState.legalActDocument = true;
+    legalisState.currentVersionLabel = "1. 1. 2025 - 31. 12. 2026";
+    legalisState.bookmarkAlertsVisible = true;
+    legalisState.bookmarkAlertsEnabled = false;
+    legalisState.purchaseDocumentId = null;
+    legalisState.copyCitationMenuConfig = {"copyCitationVisible":true,"deepSearchVisible":false,"highlightEnabled":false,"highlightDirectly":true,"machineTranslationEnabled":false};
+    legalisState.defaultBookmarksFolderId = 72884;
+    legalisState.loadArticleAllowed = true;
+    legalisState.captchaEnabledAndUserBlocked = false;
+    legalisState.enableHighlightsInExport = true;
+    legalisState.exportOptionsEnabledForUser = false;
+    legalisState.searchInPageConfig = {"minimumCharsCheckDisabled":true,"minimumCharsToActivate":3};
+
+</script>
+
+<script src="/bo/generated/cz/ts/DocumentView.ts-LIQV5GLF.js"></script>
+<div class="modal" tabindex="-1" id="userSettingsDialog">
+
+  
+  <div class="modal-dialog modal-dialog-centered" id="userSettingsDialogContent" data-initialized="false" data-selected-area="appearance">
+    <div class="my-account-wrapper d-flex">
+      <div class="my-account-menu">
+        <div class="user-profile d-flex align-items-center">
+          <div id="userSettingsMenuLogo" class="user-logo">
+            
+            <i id="userSettingsMenuUserIcon" class="fa-solid fa-user"></i>
+          </div>
+          <div class="user-info">
+            <div id="userSettingsMenuFullName" class="user-name"></div>
+            <div id="userSettingsMenuEmailAddress" class="user-mail"></div>
+          </div>
+        </div>
+        <div class="user-menu">
+          <div id="btnUserSettingsAppearance" hx-get="user-settings/appearance" data-area="appearance" hx-target="#userSettingsDialogContent" hx-swap="outerHTML" class="user-menu-entry d-flex align-items-center selected">
+            
+              <i class="normal-icon fa-regular fa-wrench"></i>
+              <i class="selected-icon fa-solid fa-wrench"></i>
+            
+            
+            <p>Přizpůsobení</p>
+          </div>
+          <div hx-get="user-settings/subscription" data-area="subscription" hx-target="#userSettingsDialogContent" hx-swap="outerHTML" class="user-menu-entry d-flex align-items-center">
+            <i class="normal-icon fa-regular fa-cart-shopping"></i>
+            <i class="selected-icon fa-solid fa-cart-shopping"></i>
+            <p>Předplatné</p>
+          </div>
+          <div hx-get="user-settings/newsletter" data-area="newsletter" hx-target="#userSettingsDialogContent" hx-swap="outerHTML" class="user-menu-entry d-flex align-items-center">
+            <i class="normal-icon fa-regular fa-envelope"></i>
+            <i class="selected-icon fa-solid fa-envelope"></i>
+            <p>Newslettery</p>
+          </div>
+          
+          <div hx-get="user-settings/alerts" data-area="alerts" hx-target="#userSettingsDialogContent" hx-swap="outerHTML" class="user-menu-entry d-flex align-items-center">
+            <i class="normal-icon fa-regular fa-bell"></i>
+            <i class="selected-icon fa-solid fa-bell"></i>
+            <p>Upozornění</p>
+          </div>
+          
+        </div>
+      </div>
+      <div class="my-account-content">
+        <button type="button" class="btn x-btn d-flex ms-auto" data-bs-dismiss="modal" aria-label="Close">
+          <i class="fa-sharp fa-solid fa-xmark"></i>
+        </button>
+        
+        
+        
+        
+        
+        
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+
+  <div class="modal" id="contactFormModal">
+    <div class="modal-dialog modal-dialog-centered">
+      <div id="contactFormModalContent" class="modal-content">
+          <div class="modal-body loading-modal d-flex align-items-center justify-content-center">
+              <div class="spinner-border loading" role="status">
+                  <span class="visually-hidden">Loading...</span>
+              </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+    window.__docIntact = true;
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"5197b2c471c64319b2c90384bd76b0bd","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

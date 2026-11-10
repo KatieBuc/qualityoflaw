@@ -117,4 +117,4 @@ scikit-learn
 pyyaml
 pytest
 rank_bm25
-pysbd
+pysbdpymupdf==1.28.0   # builds the PDF fixtures of the stage 1 tests

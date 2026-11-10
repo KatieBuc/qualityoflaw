@@ -1,0 +1,443 @@
+# REGENT OF SAMPANG
+
+REGENT OF SAMPANG
+
+EAST JAVA PROVINCE
+
+REGIONAL REGULATION OF SAMPANG REGENCY NUMBER 7 OF 2017
+
+CONCERNING
+
+WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+
+BY THE GRACE OF ALMIGHTY GOD
+
+THE REGENT OF SAMPANG,
+
+Considering : a. that every citizen has the same right to live a dignified life in accordance with the principles of humanity, equality, and justice;
+
+b. that women's empowerment is carried out so that women can actualize their potential optimally to participate in development in accordance with their capacity;
+
+c. that women who are a vulnerable group need to receive special protection so as not to experience violence and can live a decent life in accordance with the principles of humanity, equality and justice;
+
+d. that with the enactment of the Regulation of the Minister of Women's Empowerment and Child Protection Number 6 of 2015 Concerning the System for Women's Empowerment and Child Protection, the regional government needs to improve the quality of life of women and protect children.
+
+e. that based on the considerations as referred to in letter a, letter b, letter c, and letter d, it is necessary to establish a Regional Regulation concerning Women's Empowerment and Child Protection;
+
+In view of :1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law number 12 of 1950 concerning the Establishment of Regency Regions within the Province of East Java as amended by Law Number 2 of 1965 concerning the Amendment of the Territorial Boundaries of Surabaya Municipality and Surabaya Level II Region (State Gazette of the Republic of Indonesia of 1965 Number 19, Supplement to the State Gazette of the Republic of Indonesia Number 2730);
+
+3. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);
+
+4. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);
+
+5. Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);
+
+6. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as most recently amended by Law Number 9 of 2015 (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);
+
+7. Presidential Regulation Number 87 of 2014 concerning Implementing Regulations of Law Number 12 of 2011 concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia of 2014 Number 199);
+
+8. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;
+
+9. Regulation of the State Minister for Women's Empowerment and Child Protection Number 3 of 2008 concerning Guidelines for the Implementation of Child Protection;
+
+10. Regulation of the State Minister for Women's Empowerment and Child Protection Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;
+
+11. Regulation of the State Minister for Women's Empowerment and Child ProtectionNumber 6 of 2015 concerning the System for Women's Empowerment and Child Protection;
+
+12. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formulation of Regional Legal Products; With the Mutual Approval of
+
+THE REGIONAL HOUSE OF REPRESENTATIVES OF SAMPANG REGENCY and
+
+THE REGENT OF SAMPANG
+
+HAS DECIDED:
+
+To Enact : REGIONAL REGULATION CONCERNING WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, the following terms are defined as:
+
+- 1. Region is Sampang Regency.
+- 2. Regional Government is the administration of government affairs by the Regional Government and the Regional People's Representative Council according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;
+- 3. Regent is the Regent of Sampang.
+- 4. Regional Secretary is the Regional Secretary of Sampang Regency.
+- 5. Regional Apparatus is the supporting element of the Regional Head and the Regional People's Representative Council in the administration of Government Affairs that are the authority of the Region.
+- 6. The Family Planning Women's Empowerment and Child Protection Agency, hereinafter referred to as DKBP3A, is a Regional Apparatus Organization that has the main duties and functions in the field of Women's Empowerment and Child Protection in Sampang Regency.
+- 7. Child is a person who is not yet 18 years old, including a child who is still in the womb.
+- 8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court order;
+- 9. Child protection is all activities to ensure and protect children and their rights, so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination;
+- 10. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of freedom unlawfully.
+- 11. Violence against women is any action based on gender differences that results or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.
+- 12. Violence against children is any action that results or may result in suffering of children physically, mentally, socially, psychosocially, and sexually.
+- 13. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.
+- 14. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.
+- 15. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.
+- 16. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human distinction on the basis of religion, tribe, race, ethnicity, group, class, social status, economic status, gender, language, political beliefs that results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the fields of politics, economy, law, social, culture and other aspects of life.
+- 17. Victim is a woman including Female Workers who work abroad and children who experience misery and/or suffering either directly or indirectly as a result of such violence.
+- 18. Women's Empowerment is every effort to improve physical, mental, spiritual, social, knowledge, and skills so that women are ready to be utilized according to their respective abilities.
+- 19. Gender equality and justice is equal opportunity between men and women to participate in the development process, equal access in all forms of services, and have balanced social and economic status.
+- 20. Integrated services are a series of activities to provide protection for victims of violence including the crime of human trafficking carried out jointly by relevant agencies or institutions as a unified administration of health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;
+- 21. Integrated Service Center for Women's Empowerment and Child Protection, hereinafter referred to as P2TP2A, is an integrated service institution for victims of violence against women and children;
+- 22. Protection of women is any act aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will or has occurred.
+- 23. The women's empowerment and child protection system is the entire process of administering women's empowerment and child protection carried out comprehensively, inclusively, integratively from the stage of handling reports/complaints services, health services, social rehabilitation, enforcement and legal assistance to repatriation and social reintegration for women and children victims of crime and violence to their social environment;
+- 24. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, or mother and her children, or blood relatives in direct line upwards or downwards up to the third degree.
+- 25. Legal act is any act or action by a legal subject that has legal consequences and such legal consequences are indeed desired by the legal subject.
+- 26. Service is an action taken as soon as possible to victims when seeing, hearing and knowing about, during or after the occurrence of violence against victims;
+- 27. Companion is a person who has the expertise to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.
+- 28. Social worker is a person who has the expertise to listen empathetically and explore problems to provide counseling in an effort to strengthen the psychological condition of victims.
+- 29. Medicolegal is the effort to collect evidence for the purposes of proof in the judicial process.
+- 30. Women's Crisis Center is a service center for women and children victims of violence.
+- 31. Safe House is a temporary residence for victims, to obtain a sense of security and not be reached by the perpetrator or the perpetrator's messenger, while their case has not been resolved.
+- 32. Standard Operational Procedure, hereinafter referred to as SOP, is a procedure that becomes a reference for service actions established by Regent Decree.
+- 33. Community is individuals, families, groups, social organizations and/or community organizations.
+
+# CHAPTER II
+
+PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+The principles in Women's empowerment and child protection are: a. Non-discrimination;
+
+b. Best interests of the child;
+
+c. Right to life, survival and development;
+
+d. Respect for the views of the child;
+
+e. Gender equality;
+
+f. Gender justice;
+
+g. Legal certainty
+
+#### Article 3
+
+The women's empowerment and child protection system aims to: a. improve the quality of life of women, children, and family quality; b. increase the institutional capacity of women's empowerment and child protection in the region, including the development of gender and child data systems; and
+
+c. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.
+
+#### Article 4
+
+In order to realize the objectives as referred to in Article 3 letter a, efforts are made through:
+
+- a. providing access for women and children to education, health services and other strategic fields;
+- b. encouraging the involvement of women and children in the development process; c. providing knowledge, skills, character values, morals and family resilience; and
+- d. encouraging programs that can increase the independence of women in the economic, political, legal, social, cultural and other strategic fields.
+
+#### Article 5
+
+In order to realize the objectives as referred to in Article 3 letter b, efforts are made through:
+
+- a. establishment, development, and capacity strengthening of women and child protection institutions including service units for complaints of violence against women and children, as well as legal aid services; b. improving the quality of human resources management;
+- c. strengthening the institutional capacity of Gender Mainstreaming (PUG) and children; d. strengthening and developing gender and child data systems.
+
+#### Article 6
+
+In order to implement the objectives as referred to in Article 3 letter c, the Regional Government conducts promotive, preventive, curative, and rehabilitative efforts in accordance with the provisions of laws and regulations.
+
+#### Article 7
+
+Promotive efforts as referred to in Article 6 are as follows: a. strengthening coordination mechanisms and networks between service units in handling violence cases;
+
+b. providing Communication, Information, and Education (IEC) materials related to the prevention and handling of violence;
+
+c. conducting socialization, advocacy and social campaigns in order to prevent and handle violence.
+
+#### Article 8
+
+Preventive efforts as referred to in Article 6 are as follows: a. conducting legal awareness counseling for the community, especially for women and children;
+
+b. conducting massive and sustainable movements involving the community in violence prevention and handling actions;
+
+c. instilling character values, morals, and family resilience; d. involving the role and participation of the community in women empowerment and child protection.
+
+#### Article 9
+
+Curative efforts as referred to in Article 6 are as follows: a. optimizing technical services related to complaints of violence against women and children;
+
+b. providing adequate facilities and infrastructure for handling health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid;
+
+c. conducting handling for victims of crime and violence quickly, precisely, and accurately by law enforcement officials.
+
+#### Article 10
+
+Rehabilitative efforts as referred to in Article 6 are as follows: a. providing companion personnel for victims of crime and violence including, among others, psychologists, psychiatrists, clergy/spiritual companions, lawyers, medical personnel;
+
+b. strengthening work networks and coordination in the reintegration process and repatriation of victims to their families and/or social environment.
+
+# CHAPTER III
+
+WOMEN EMPOWERMENT AND CHILD PROTECTION SYSTEM
+
+#### Article 11
+
+The Regional Government assisted by regional apparatus must be strongly committed to building a comprehensive, inclusive and integrative women empowerment and child protection system.
+
+#### Article 12
+
+(1) The Regional Government, community, non-governmental organizations, or other institutions establish technical service units in realizing an integrated, one-roof and networked women empowerment and child protection system;
+
+(2) The technical service unit as referred to in paragraph (1) is P2TP2A.
+
+# CHAPTER IV
+
+P2TP2A
+
+#### Article 13
+
+(1) P2TP2A is located in the Region and sub-district;
+
+(2) Provisions regarding the Establishment of P2TP2A are further regulated in a Regent Regulation.
+
+#### Article 14
+
+P2TP2A is under the coordination of DKBP3A or other units that handle women empowerment and child protection.
+
+#### Article 15
+
+P2TP2A is one form of integrated service unit that functions as:
+
+- a. an information center for women and children;
+- b. a service center for women and children victims of violence; and c. an empowerment center for women and children.
+
+#### Article 16
+
+Institutional structure of P2TP2A:
+
+- a. established based on a Regent's/Sub-district Head's decree;
+- b. its membership comes from structural and non-structural elements originating from professionals, academicians, community leaders; and c. sources of funding for the establishment, development, and strengthening of P2TP2A are derived from the Regional Budget (APBD) and other legitimate and non-binding sources based on the provisions of laws and regulations.
+
+#### Article 17
+
+Provisions regarding P2TP2A are further regulated in a Regent Regulation.
+
+# CHAPTER V
+
+COORDINATION MECHANISM
+
+#### Article 18
+
+In carrying out the functions as referred to in Article 15, coordination is conducted with Regional Apparatus or other units that handle women empowerment and child protection.
+
+#### Article 19
+
+P2TP2A may consult and coordinate with the Ministry that administers women empowerment and child protection affairs by first coordinating with Regional Apparatus or other units that handle women empowerment and child protection.
+
+#### Article 20
+
+Coordination may be conducted in the form of:
+
+- a. coordination meetings with work networks;
+- b. consultation;
+- c. submission of data and information; and/or
+- d. follow-up on case handling.
+
+# CHAPTER VI
+
+PARTICIPATION
+
+#### Article 21
+
+The community, business world, academicians, and other professional groups may participate in the implementation of the women empowerment and child protection system.
+
+# CHAPTER VII
+
+MONITORING, EVALUATION, AND REPORTING
+
+#### Article 22
+
+Reporting on women empowerment and child protection is conducted 1 (one) time per year and is coordinated by DKBP3A with the province to the Minister who administers government affairs in the field of Women Empowerment and Child Protection through the Secretary of the Ministry.
+
+# CHAPTER VIII
+
+FUNDING
+
+#### Article 23
+
+Funding for the implementation of Women Empowerment and Child Protection is sourced from:
+
+- a. Regional Revenue and Expenditure Budget (APBD);
+- b. other legitimate and non-binding sources based on the provisions of laws and regulations.
+
+# CHAPTER IX
+
+CLOSING PROVISIONS
+
+#### Article 24
+
+Implementing Regulations of this Regional regulation shall be established no later than 6 (six) months from the promulgation of this Regional Regulation.
+
+#### Article 25
+
+This Regional Regulation comes into force from the date of promulgation.
+
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placement in the Regional Gazette of Sampang Regency.
+
+Enacted in : Sampang on the date of : 27 April 2017
+
+VICE REGENT OF SAMPANG,
+
+sgd
+
+H. FADHILAH BUDIONO
+
+Promulgated in : Sampang
+
+On the date of : 27 April 2017
+
+REGIONAL SECRETARY OF SAMPANG REGENCY
+
+sgd
+
+PUTHUT BUDI SANTOSO, SH,M.Si
+
+Young Principal Supervisor
+
+NIP. 19610114 198603 1 008
+
+REGIONAL GAZETTE OF SAMPANG REGENCY YEAR 2017 NUMBER : 7 REGISTER NUMBER OF REGIONAL REGULATION OF SAMPANG REGENCY NUMBER 77-7/2017
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF SAMPANG REGENCY
+
+NUMBER 7 OF 2017
+
+CONCERNING
+
+WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+
+1. GENERAL
+
+The Constitution of the Republic of Indonesia mandates regional governments to regulate and manage their own regions for the realization of public welfare through improvement of services, empowerment and community participation. One of the authorities of regional government is to make regional policies with the aim of improving the welfare of the people in their region.
+
+In addition, the Constitution of the Republic of Indonesia has also mandated in Article 28D Paragraph 1 of the 1945 Constitution of the Republic of Indonesia that every person has the right to recognition, guarantees, protection, and just legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth and development and has the right to protection from violence and discrimination. This shows that children and women should be protected by the state, especially from violence because their rights are already stipulated in the constitution.
+
+Therefore, efforts need to be made to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Sampang Regency area. The Government of Sampang Regency is one of the most authorized parties in carrying out women's empowerment and child protection by conducting and formulating regulations in order to provide guarantees for women's empowerment and child protection.
+
+One form of such regulation is the Regional Regulation of Sampang Regency. The regulation is expected to be able to encourage efforts to improve the physical and mental condition of women and children - 2 - victims of violence.
+
+2. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear
+
+#### Article 2
+
+Letter b What is meant by the principle of the best interests of the child is that in all actions concerning children carried out by the government, society, legislative bodies, and judicial bodies, the best interests of the child must be a primary consideration.
+
+Letter e Gender equality means equal conditions for men and women to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in political, legal, economic, social and cultural activities, education and national defense and security, as well as equality in enjoying the results of such development.
+
+Letter f Gender justice is a process and fair treatment of women and men. Gender justice means there is no stereotyping of roles, double burden, subordination, marginalization and violence against women or men
+
+#### Article 3
+
+Sufficiently clear
+
+#### Article 4
+
+Sufficiently clear
+
+#### Article 5
+
+Sufficiently clear
+
+#### Article 6
+
+Sufficiently clear
+
+#### Article 7
+
+Sufficiently clear
+
+#### Article 8
+
+Sufficiently clear
+
+#### Article 9
+
+Sufficiently clear
+
+#### Article 10
+
+Sufficiently clear
+
+#### Article 11
+
+Sufficiently clear
+
+#### Article 12
+
+Sufficiently clear
+
+#### Article 13
+
+Sufficiently clear
+
+#### Article 14
+
+Sufficiently clear
+
+#### Article 15
+
+Sufficiently clear
+
+#### Article 16
+
+The Implementation Guidelines and/or Technical Guidelines of P2TP2A contain technical matters regarding services for handling women and children victims of violence including HR services, facilities and infrastructure, rights and obligations of victims, referral systems including handling from complaint services, medical rehabilitation services, social rehabilitation services, spiritual guidance services, repatriation and social reintegration services. In addition, it also contains service flows and Standard Operating Procedures for each service.
+
+#### Article 17
+
+Sufficiently clear
+
+#### Article 18
+
+Sufficiently clear
+
+#### Article 19
+
+Sufficiently clear
+
+#### Article 20
+
+Sufficiently clear
+
+#### Article 21
+
+Sufficiently clear
+
+#### Article 22
+
+Monitoring and evaluation are intended to determine the progress and obstacles in the implementation of policies, programs and activities that have been established. Monitoring is carried out periodically through coordination and direct monitoring of OPDs that implement policies, programs and activities for the empowerment of women and child victims of violence. Monitoring - 4 - is carried out from planning to implementation of policies, programs and activities for the empowerment of women and child victims of violence for the current year and evaluations will be conducted at the end of each fiscal year.
+
+#### Article 23
+
+Sufficiently clear
+
+#### Article 24
+
+Sufficiently clear
+
+#### Article 25
+
+Sufficiently clear
+
+#### Article 26
+
+Sufficiently clear
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF SAMPANG REGENCY YEAR 2017 NUMBER : 7 REGISTER NUMBER OF REGIONAL REGULATION OF SAMPANG REGENCY NUMBER 77-7/2017
+
+
+This excerpt sits under: CHAPTER IX

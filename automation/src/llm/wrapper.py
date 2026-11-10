@@ -8,8 +8,14 @@ from openai import APIConnectionError, APIStatusError, AzureOpenAI, OpenAI, Rate
 from pydantic import BaseModel
 
 from automation.src.llm.client import ApiStyle
-from automation.src.llm.confidence import DISABLED, ConfidenceSpec, attach_confidence
-from automation.src.llm.logprobs import extract_answer_confidences
+from automation.src.llm.confidence import (
+    DISABLED,
+    ConfidenceSpec,
+    attach_confidence,
+    attach_coverage_confidence,
+    normalize_coverage,
+)
+from automation.src.llm.logprobs import extract_answer_confidences, extract_coverage_confidences
 from automation.src.llm.model_profile import ModelProfile
 
 if TYPE_CHECKING:
@@ -29,6 +35,35 @@ class LLMCallError(Exception):
         self.error_type = error_type
         self.details = details
         self.attempts = attempts
+
+
+class ContextLengthExceeded(LLMCallError):
+    """The prompt is longer than the model accepts. Retrying the same prompt can only fail the same way, so it is
+    raised at once; `limit` and `actual` (tokens, when the error message says them) tell the caller how far to cut."""
+
+    def __init__(self, message: str, *, limit: int | None, actual: int | None, details: dict[str, Any], attempts: int):
+        super().__init__(message, error_type="ContextLengthExceeded", details=details, attempts=attempts)
+        self.limit = limit
+        self.actual = actual
+
+
+_CONTEXT_MARKERS = ("context_length_exceeded", "maximum context length", "input tokens exceed", "context window")
+_LIMIT_RE = re.compile(r"(?:limit of|maximum context length is|maximum is|max(?:imum)? of)\s*([\d,]+)\s*tokens", re.I)
+_ACTUAL_RE = re.compile(r"(?:resulted in|you requested|requested|contains|has)\s*([\d,]+)\s*tokens", re.I)
+
+
+def parse_context_overflow(exc: BaseException) -> tuple[bool, int | None, int | None]:
+    """``(is a context overflow, token limit, tokens sent)`` from an API error; the numbers are None if not stated."""
+    text = f"{getattr(exc, 'message', '') or ''} {exc}".lower()
+    body = getattr(exc, "body", None)
+    if body is not None:
+        text += f" {body}".lower()
+    if not any(marker in text for marker in _CONTEXT_MARKERS):
+        return False, None, None
+    limit = _LIMIT_RE.search(text)
+    actual = _ACTUAL_RE.search(text)
+    to_int = lambda m: int(m.group(1).replace(",", "")) if m else None
+    return True, to_int(limit), to_int(actual)
 
 
 def format_api_error(exc: Exception) -> tuple[str, dict[str, Any]]:
@@ -84,6 +119,19 @@ def top_logprobs_limit(exc: Exception) -> int | None:
     if "must be" in message or "invalid value" in message:
         return TOP_LOGPROBS_FALLBACK
     return None
+
+
+def is_temperature_unsupported(exc: Exception) -> bool:
+    """True when a 400 says this deployment will not accept `temperature`
+    (e.g. "Unsupported parameter: 'temperature' is not supported with this
+    model"). Retrying the same request can never succeed, so the wrapper drops
+    the parameter instead of burning its retries on it."""
+    if getattr(exc, "status_code", None) != 400:
+        return False
+    message = (getattr(exc, "message", None) or str(exc)).lower()
+    return "temperature" in message and any(
+        marker in message for marker in ("unsupported", "not supported", "does not support")
+    )
 
 
 def is_logprobs_unsupported(exc: Exception) -> bool:
@@ -161,6 +209,8 @@ class AzureLLMWrapper:
         self.confidence = confidence
         self._logprobs_lock = threading.Lock()
         self._logprobs_disabled = False
+        self._temperature_lock = threading.Lock()
+        self._temperature_disabled = False
         self._top_logprobs_cap: int | None = None
         self._usage_lock = threading.Lock()
         self.token_usage = {
@@ -188,13 +238,42 @@ class AzureLLMWrapper:
         )
 
     def _build_request_kwargs(self, *, with_logprobs: bool = False) -> dict[str, Any]:
-        kwargs: dict[str, Any] = {"temperature": self.profile.temperature}
+        kwargs: dict[str, Any] = {}
+        if self.temperature_active():
+            kwargs["temperature"] = self.profile.temperature
         if self.profile.max_tokens is not None:
             kwargs["max_tokens"] = self.profile.max_tokens
         if with_logprobs:
             kwargs["logprobs"] = True
             kwargs["top_logprobs"] = self.effective_top_logprobs()
         return kwargs
+
+    def temperature_active(self) -> bool:
+        if not self.profile.supports_temperature:
+            return False
+        with self._temperature_lock:
+            return not self._temperature_disabled
+
+    def _disable_temperature(self, reason: str) -> bool:
+        """Stop sending `temperature` for the rest of the run, warning once.
+
+        Returns False when it was already off, i.e. the 400 is not about a
+        parameter we can still remove and the caller should treat it as real.
+        Several worker threads can hit the same 400 together; the lock keeps
+        that to one warning and lets the losers retry as well.
+        """
+        with self._temperature_lock:
+            if self._temperature_disabled or not self.profile.supports_temperature:
+                return False
+            self._temperature_disabled = True
+        logger.warning(
+            "Deployment %s rejected temperature; continuing without it for the "
+            "rest of this run (set supports_temperature: false in model_config.yaml "
+            "to skip this probe): %s",
+            self.profile.deployment,
+            reason,
+        )
+        return True
 
     def effective_top_logprobs(self) -> int:
         with self._logprobs_lock:
@@ -259,15 +338,38 @@ class AzureLLMWrapper:
         last_error: Exception | None = None
         last_error_type = "Exception"
         last_details: dict[str, Any] = {}
-        for attempt in range(self.profile.max_retries):
+        attempt = -1
+        # Dropping an unsupported `temperature` is not a transient failure, so
+        # the resend does not count against max_retries -- but only once per
+        # call, so a misleading error message cannot make this loop forever.
+        free_resends = 1
+        while attempt + 1 < self.profile.max_retries:
+            attempt += 1
             try:
                 if self.limiter is not None:
                     with self.limiter.semaphore:
                         return fn()
                 return fn()
             except (RateLimitError, APIConnectionError, APIStatusError, Exception) as exc:
+                if free_resends and is_temperature_unsupported(exc):
+                    # Either we drop it now, or another thread already did and
+                    # this request raced it; both are fixed by resending.
+                    if self._disable_temperature(str(exc)) or not self.temperature_active():
+                        free_resends -= 1
+                        attempt -= 1
+                        continue
                 last_error = exc
                 last_error_type, last_details = format_api_error(exc)
+                overflow, limit, actual = parse_context_overflow(exc)
+                if overflow:
+                    logger.warning(
+                        "prompt too long for %s (limit %s tokens, sent %s); not retried",
+                        self.profile.deployment, limit, actual,
+                    )
+                    raise ContextLengthExceeded(
+                        last_details.get("message", str(exc)),
+                        limit=limit, actual=actual, details=last_details, attempts=attempt + 1,
+                    ) from exc
                 if attempt == self.profile.max_retries - 1:
                     message = last_details.get("message", str(exc))
                     status_code = last_details.get("status_code", "n/a")
@@ -388,6 +490,13 @@ class AzureLLMWrapper:
                 items_by_id = {
                     item["id"]: item for item in output_dict["evaluation_results"]
                 }
+                if self.confidence.has_coverage:
+                    unusable = normalize_coverage(items_by_id, self.confidence.coverage_labels)
+                    if unusable:
+                        logger.warning(
+                            "coverage missing or not one of %s for %d indicator(s) answered Yes: %s",
+                            list(self.confidence.coverage_labels), len(unusable), ", ".join(unusable[:8]),
+                        )
                 if self.confidence.enabled:
                     confidences = (
                         extract_answer_confidences(choice) if with_logprobs else []
@@ -398,6 +507,13 @@ class AzureLLMWrapper:
                         self.confidence,
                         logprobs_available=with_logprobs,
                     )
+                    if self.confidence.has_coverage:
+                        attach_coverage_confidence(
+                            items_by_id,
+                            extract_coverage_confidences(choice, self.confidence.coverage_labels) if with_logprobs else [],
+                            self.confidence,
+                            logprobs_available=with_logprobs,
+                        )
                 output_dict["evaluation_results"] = items_by_id
             self._record_usage(_extract_usage(response, "chat"))
             return output_dict

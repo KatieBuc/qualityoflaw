@@ -1,165 +1,266 @@
-# PERLINDUNGAN PEREMPUAN
+# Menimbang Mengingat
+
+Menimbang Mengingat
+
+BUPATIKUTAITIMUR
+
+PROVINSIKALIMANTANTIMUR
+
+PERATURANDAERAH KABUPATENKUTAITIMUR NOMOR 3 TAHUN 2023
+
+TENTANG
+
+PERLINDUNGANPEREMPUAN
+
+DENGANRAHMATTUHANYANGMAHAESA
+
+BUPATIKUTAITlMUR,
+
+a. bahwa setiap perempuan berhak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda yang dibawah kekuasaannya, serta berhak atas rasa aman dan perlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat sesuatu yang merupakan hak asasi;
+
+b. bahwa untuk memberikan satu pedoman atau acuan bagi pemerintah daerah dan pemangku kepentingan terkait dengan peningkatan kualitas hidup perempuan dan perlindungan terhadap perempuan khususnya bagi perempuan korban kekerasan;
+
+c. bahwa untuk memberikan arah, landasan dan kepastian hukum kepada semua pihak yang terlibat dalam pemberdayaan perempuan dan anak, maka diperlukan pengaturan tentang pembentukan Pusat Pelayanan Terpadu Perlindungan Perempuan dan Anak;
+
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, sampai dengan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;
+
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+
+2. Undang ...
+
+BUPATIKUTAITIMUR
+
+PROVINSIKALIMANTANTIMUR
+
+2. Undang-Undang Nomor 47 Tahun 1999 tentang Pembentukan Kabupaten Nunukan, Kabupaten Malinau, Kabupaten Kutai Barat, Kabupaten Kutai
+
+Timur dan Kota Bontang (Lembaran Negara Republik
+
+Indonesia Tahun 1999 Nomor 175, Tambahan
+
+Lembaran Negara Republik Indonesia Nomor 3896) sebagaimana telah diubah beberapa kali terakhir
+
+Ibukota Negara (Lembaran Negara Republik Indonesia
+
+Tahun 2022 Nomor 41, Tambahan Lembaran Negara
+
+Republik Indonesia Nomor 6766);
+
+3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lernbaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan
+
+Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah diubah beberapa kali, terakhir
+
+Penetapan Peraturan Pemerintah Pengganti Undang
+
+Undang Nornor 2 Tahun 2022 tentang Cipta Kerja rnenjadi Undang-Undang (Lembaran Negara Republik
+
+Indonesia Tahun 2023 Nomor 41, Tambahan
+
+Lembaran Negara Republik Indonesia Nomor 6856);
+
+4. Peraturan Menteri Pemberdayaan Perempuan Dan Perlindungan Anak Nomor 6 Tahun 2015 Tentang Sistem Pemberdayaan Perempuan Dan Perlindungan
+
+Anak;
+
+5. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 4 Tahun 2018 tentang Pedornan Pembentukan Unit Pelaksana Teknis Daerah
+
+Perlindungan Perempuan dan Anak.
+
+Dengan Persetujuan Bersama
+
+DEWANPERWAKILANRAKYATDAERAHKABUPATENKUTAITIMUR dan
+
+BUPATIKUTAITIMUR
+
+MEMUTUSKAN...
 
 BUPATI KUTAI TIMUR
 
-PROVINSI KALIMANTAN TIMUR
+MEMUTUSKAN:
 
-# PERATURAN DAERAH KABUPATEN KUTAI TIMUR 
-
-NOMOR 3 TAHUN 2023  
-
-TENTANG  
-
-PERLINDUNGAN PEREMPUAN  
-
-DENGAN RAHMAT TUHAN YANG MAHA ESA  
-
-BUPATI KUTAI TlMUR,  
-
-Menimbang:  
-
-a. bahwa setiap perempuan berhak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda yang dibawah kekuasaannya, serta berhak atas rasa aman dan perlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat sesuatu yang merupakan hak asasi;  
-b. bahwa untuk memberikan satu pedoman atau acuan bagi pemerintah daerah dan pemangku kepentingan terkait dengan peningkatan kualitas hidup perempuan dan perlindungan terhadap perempuan khususnya bagi perempuan korban kekerasan;  
-c. bahwa untuk memberikan arah, landasan dan kepastian hukum kepada semua pihak yang terlibat dalam pemberdayaan perempuan dan anak, maka diperlukan pengaturan tentang pembentukan Pusat Pelayanan Terpadu Perlindungan Perempuan dan Anak;  
-d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, sampai dengan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
-
-Mengingat:  
-1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-2. Undang-Undang Nomor 47 Tahun 1999 tentang Pembentukan Kabupaten Nunukan, Kabupaten Malinau, Kabupaten Kutai Barat, Kabupaten Kutai Timur dan Kota Bontang (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 175, Tambahan Lembaran Negara Republik Indonesia Nomor 3896) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 3 Tahun 2022 tentang Ibukota Negara (Lembaran Negara Republik Indonesia Tahun 2022 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6766);  
-3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lernbaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587), sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nornor 2 Tahun 2022 tentang Cipta Kerja rnenjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 6856);  
-4. Peraturan Menteri Pemberdayaan Perempuan Dan Perlindungan Anak Nomor 6 Tahun 2015 Tentang Sistem Pemberdayaan Perempuan Dan Perlindungan Anak;  
-5. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 4 Tahun 2018 tentang Pedoman Pembentukan Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak.  
-
-Dengan Persetujuan Bersama  
-
-DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN KUTAI TIMUR  
-
-dan  
-
-BUPATI KUTAI TIMUR  
-
-MEMUTUSKAN:  
-
-Menetapkan:  
-
-PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN.  
+Menetapkan PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN.
 
 # BAB I
 
-## KETENTUAN UMUM
+KETENTUAN UMUM
 
 #### Pasal 1
 
-Dalam peraturan ini, yang dimaksud dengan:  
-1. Daerah adalah Kabupaten Kutai Timur.  
-2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom Kabupaten Kutai Timur.  
-3. Bupati adalah Bupati Kutai Timur.  
-4. Dinas adalah Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kabupaten Kutai Timur.  
-5. Desa adalah kesatuan masyarakat hukum yang memiliki batas wilayah yang berwenang untuk mengatur dan mengurus urusan pemerintahan, kepentingan masyarakat setempat berdasarkan prakarsa masyarakat, hak asal usul dan Zatau hak tradisional yang diakui dan dihormati dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.  
-6. Keluarga adalah orang yang mempunyai hubungan darah dalarn garis lurus ke atas atau ke bawah dan garis menyamping sarnpai derajat ketiga, atau yang mempunyai hubungan perkawinan, atau orang yang menjadi tanggungan perempuan.  
-7. Perlindungan Perempuan adalah segala upaya yang ditujukan untuk melindungi perempuan dan memberikan rasa aman dalam pemenuhan hak haknya dengan memberikan perhatian yang konsisten dan sistematis yang ditujukan untuk mencapai kesetaraan gender.  
-8. Pelayanan adalah segala upaya dan tindakan untuk memenuhi hak korban yang meliputi layanan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan bantuan hukum.  
-9. Kekerasan Terhadap Perempuan adalah setiap tindakan yang melanggar , menghambat, meniadakan kenikmatan, dan mengabaikan hak asasi perempuan.  
-10. Perempuan Korban Kekerasan adalah perempuan yang mengalami tindak kekerasan dan diskriminasi yang tidak terpenuhi hak-haknya.  
-11. Rehabilitasi Kesehatan adalah pemulihan Perempuan Korban kekerasan dari gangguan kesehatan yang dideritanya.  
-12. Rehabilitasi Sosial adalah segala upaya untuk memulihkan dan mengembangkan kemampuan Perempuan Korban Kekerasan agar dapat menjalankan peran dan fungsi sosialnya baik dalam kehidupan keluarga dan/ atau masyarakat.  
-13. Pemulangan adalah upaya pengembalian Perempuan Korban Kekerasan kepada pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhannya.  
-14. Reintegrasi Sosial adalah upaya penyatuan kembali Perempuan Korban Kekerasan dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi korban.  
-15. Bantuan Hukum adalah jasa hukum yang diberikan oleh pen damping hukum dan advokat untuk melakukan proses pendampingan saksi dan/ atau Perempuan Korban Kekerasan.  
-16. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT adalah suatu unit kerja fungsional yang menyelenggarakan pelayanan terpadu untuk Perempuan Korban Kekerasan.  
-17. Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak yang selanjutnya disingkat UPTD PPA adalah unit pelayanan terpadu yang dibentuk oleh Pemerintah Daerah untuk memberikan Pelayanan kepada Perempuan Korban Kekerasan dan anak secara komprehensif meliputi pelayanan layanan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial , pemulangan, reintegrasi sosial, dan bantuan hukum.  
-18. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah tolak ukur kinerja pelayanan UPTD PPA dalam memberikan pelayanan layanan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan bantuan hukum bagi Perempuan Korban Kekerasan dan anak.  
-19. Rumah Aman adalah tempat tinggal sementara, yang diberikan untuk memberikan perlindungan terhadap Perempuan Korban Kekerasan sesuai dengan standar yang telah ditentukan.  
+Dalarn peraturan ini, yang dimaksud dengan:
 
-#### Pasal 2 
+- 1. Daerah adalah Kabupaten Kutai Timur.
+- 2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom Kabupaten Kutai Timur.
+- 3. Bupati adalah Bupati Kutai Timur.
+- 4. Dinas adalah Dinas Pemberdayaan Perempuan dan Perlindungan Anak Kabupaten Kutai Timur.
+- 5. Desa adalah kesatuan masyarakat hukum yang memiliki batas wilayah yang berwenang untuk mengatur dan mengurus urusan pemerintahan, kepentingan masyarakat setempat berdasarkan prakarsa masyarakat, hak asal usul dan Zatau hak tradisional yang diakui dan dihormati dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.
+- 6. Keluarga adalah orang yang mempunyai hubungan darah dalarn garis lurus ke atas atau ke bawah dan garis menyamping sarnpai derajat ketiga, atau yang mempunyai hubungan perkawinan, atau orang yang menjadi tanggungan perempuan.
+- 7. Perlindungan . . .
 
-Peraturan Daerah ini dilaksanakan berdasarkan asas:  
-a. penghormatan terhadap hak asasi manusia;  
-b. keadilan dan kesetaraan gender;  
-c. non diskriminasi; dan  
-d. kepentingan terbaik perempuan.  
+BUPATIKUTAITIMUR
 
-#### Pasal 3 
+PROVINSIKALIMANTANTIMUR
 
-Peraturan Daerah ini bertujuan untuk:  
-a. menjamin terpenuhinya hak-hak perempuan agar dapat hidup dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan;  
-b. mencegah segala bentuk Kekerasan terhadap Perempuan;  
-c. memberikan perlindungan dan rasa aman bagi perempuan korban kekerasan dan diskriminasisi;  
-d. menjamin terlaksananya kebijakan, program, dan kegiatan perlindungan perempuan oleh daerah secara sistemis, komprehensif, berkesinambungan, dan terpad u;  
-e. meningkatkan komitmen Pemerintah Daerah dalam melaksanakan kebijakan, program dan kegiatan perlindungan perempuan; dan  
-f. mendorong kelembagaan yang menangani tugas dan fungsi pemberdayaan perempuan di Pemerintah Daerah maupun lembaga masyarakat di daerah untuk meningkatkan kinerja dalam upaya perlindungan perempuan.  
+7. Perlindungan Perempuan adalah segala upaya yang ditujukan untuk melindungi perempuan dan memberikan rasa aman dalam pemenuhan hak haknya dengan memberikan perhatian yang konsisten dan sistematis yang ditujukan untuk mencapai kesetaraan gender.
 
-#### Pasa1 4 
+8. Pelayanan adalah segala upaya dan tindakan untuk memenuhi hak korban yang meliputi layanan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan bantuan hukum.
 
-Ruang lingkup Peraturan Daerah ini meliputi:  
-a. hak-hak perempuan korban kekerasan;  
-b. kewenangan Pemerintah Daerah;  
-c. perencanaan;  
-d. pelaksanaan;  
-e. pemantauan dan evaluasi;  
-f. pelaporan;  
-g. pembinaan dan pengawasan;  
-h. peran serta masyarakat; dan  
-i. pendanaan.  
+9. Kekerasan Terhadap Perempuan adalah setiap tindakan yang melanggar , menghambat, meniadakan kenikmatan, dan mengabaikan hak asasi perempuan.
+
+10. Perempuan Korban Kekerasan adalah perempuan yang mengalami tindak kekerasan dan diskriminasi yang tidak terpenuhi hak-haknya.
+
+11. Rehabilitasi Kesehatan adalah pemulihan Perempuan Korban kekerasan dari gangguan kesehatan yang dideritanya.
+
+12. Rehabilitasi Sosial adalah segala upaya untuk memulihkan dan mengembangkan kemampuan Perempuan Korban Kekerasan agar dapat menjalankan peran dan fungsi sosialnya baik dalam kehidupan keluarga dan/ atau masyarakat.
+
+13. Pemulangan adalah upaya pengembalian Perempuan Korban Kekerasan kepada pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhannya.
+
+14. Reintegrasi Sosial adalah upaya penyatuan kembali Perempuan Korban Kekerasan dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi korban.
+
+15. Bantuan ...
+
+BUPATIKUTAITIMUR
+
+15. Bantuan Hukum adalah jasa hukum yang diberikan oleh pen damping hukum dan advokat untuk melakukan proses pendampingan saksi dan/ atau Perempuan Korban Kekerasan.
+
+16. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT adalah suatu unit kerja fungsional yang menyelenggarakan pelayanan terpadu untuk Perempuan Korban Kekerasan.
+
+17.Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak yang selanjutnya disingkat UPTD PPA adalah unit pelayanan terpadu yang dibentuk oleh Pemerintah Daerah untuk memberikan Pelayanan kepada Perempuan Korban Kekerasan dan anak secara komprehensif meliputi pelayanan layanan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial , pemulangan, reintegrasi sosial, dan bantuan hukum.
+
+18. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah tolak ukur kinerja pelayanan UPTD PPA dalam memberikan pelayanan layanan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan bantuan hukum bagi Perempuan Korban Kekerasan dan anak.
+
+19. Rumah Aman adalah tempat tinggal sementara, yang diberikan untuk memberikan perlindungan terhadap Perempuan Korban Kekerasan sesuai dengan standar yang telah ditentukan.
+
+#### Pasal2
+
+Peraturan Daerah ini dilaksanakan berdasarkan asas:
+
+- a. penghormatan terhadap hak asasi manusia;
+- b. keadilan dan kesetaraan gender;
+- c. Non ...
+
+BUPATI KUTAI TIMUR
+
+c. non diskriminasi; dan
+
+d. kepentingan terbaik perempuan.
+
+#### Pasal3
+
+Peraturan Daerah ini bertujuan untuk:
+
+- a. menjamin terpenuhinya hak-hak perempuan agar dapat hidup dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan;
+- b. mencegah segala bentuk Kekerasan terhadap Perempuan;
+- c. memberikan perlindungan dan rasa aman bagi perempuan korban kekerasan dan diskriminasisi;
+- d. menjamin terlaksananya kebijakan, program, dan kegiatan perlindungan perempuan oleh daerah secara sistemis, komprehensif, berkesinambungan, dan terpad u;
+- e. meningkatkan komitmen Pemerintah Daerah dalam melaksanakan kebijakan, program dan kegiatan perlindungan perempuan; dan
+- f. mendorong kelembagaan yang menangani tugas dan fungsi pemberdayaan perempuan di Pemerintah Daerah maupun lembaga masyarakat di daerah untuk meningkatkan kinerja dalam upaya perlindungan perempuan.
+
+Pasa14
+
+Ruang lingkup Peraturan Daerah ini meliputi:
+
+- a. hak-hak perempuan korban kekerasan;
+- b. kewenangan Pemerintah Daerah;
+- c. perencanaan;
+- d. Pelaksanaan ...
+
+BUPATI KUTAI TIMUR
+
+d. pelaksanaan;
+
+e. pemantauan dan evaluasi;
+
+f. pelaporan;
+
+g. pembinaan dan pengawasan;
+
+h. peran serta masyarakat; dan
+
+i. pendanaan.
 
 # BAB II
 
-## HAK-HAK PEREMPUAN KORBAN KEKERASAN
+HAK-HAK PEREMPUAN KORBAN KEKERASAN
 
-#### Pasal 5 
+#### Pasal5
 
-Setiap perempuan korban kekerasan mempunyai hak:  
-a. untuk dihormati harkat dan martabat sebagai manusia;  
-b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan Iatau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
-c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami Perempuan Korban Kekerasan;  
-d. atas penanganan secara khusus berkaitan dengan kerahasiaan Perempuan Korban Kekerasan;  
-e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan;  
-f. atas pelayanan bimbingan rohani; dan  
-g. menentukan sendiri keputusannya.  
+Setiap perempuan korban kekerasan mempunyai hak:
 
-# BAB III
+- a. untuk dihormati harkat dan martabat sebagai manusia;
+- b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan Iatau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;
+- c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami Perempuan Korban Kekerasan;
+- d. atas penanganan secara khusus berkaitan dengan kerahasiaan Perempuan Korban Kekerasan;
+- e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan;
+- f. atas pelayanan bimbingan rohani; dan
+- g. menentukan sendiri keputusannya.
 
-## KEWENANGAN PEMERINTAH DAERAH
+BABA III ...
 
-#### Pasal 6 
+BUPATI KUTAI TIMUR
 
-1. Pemerintah Daerah berwenang dalam Perlindungan Perempuan. 
-2. Kewenangan sebagaimana dimaksud pada ayat (1) meliputi:  
-a. pencegahan kekerasan terhadap perempuan yang melibatkan para pihak lingkup Daerah;  
-h. penyediaan layanan bagi perempuan Korban kekerasan yang memerlukan koordinasi tingkat Daerah; dan  
-c. penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan.  
+# BABIII
 
-# BAB IV
+KEWENANGAN PEMERINTAH DAERAH
 
-## PERENCANAAN
+#### Pasal6
+
+(1) Pemerintah Daerah berwenang dalam Perlindungan Perempuan. (2) Kewenangan sebagaimana dimaksud pada ayat (1)meliputi:
+
+- a. pencegahan kekerasan terhadap perempuan yang melibatkan para pihak lingkup Daerah;
+- h. penyediaan layanan bagi perempuan Korban kekerasan yang memerlukan koordinasi tingkat Daerah; dan
+- c. penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan.
+
+# BABIV
+
+PERENCANAAN
 
 #### Pasal 7
 
-Bupati berkewajiban mengintegrasikan kebijakan, program, dan kegiatan perlindungan perempuan ke dalam perencanaan pembangunan Daerah.  
+Bupati berkewajiban mengintegrasikan kebijakan, program, dan kegiatan perlindungan perempuan ke dalam perencanaan pembangunan Daerah.
 
-Pasal8 (1) Pengintegrasian kebijakan, program, dan kegiatan perlindungan perempuan di Daerah dituangkan ke dalam dokumen perencanaan dan anggaran yang meliputi:  
-a. Rencana Pembangunan Jangka Panjang Daerah;  
-b. Rencana Pembangunan Jangka Menengah Daerah;  
-c. Rencana Strategis Satuan Kerja Perangkat Daerah;  
-d. Rencana Kerja Pemerintah Daerah; dan  
-e. Rencana Kerja dan Anggaran Satuan Kerja Perangkat Daerah.  
-2. Penyusunan dokumen perencanaan dan anggaran sebagaimana dimaksud pada ayat (1) diselaraskan antar tingkatan dan susunan pemerintahan.  
-3. Dinas memfasilitasi pengintegrasian kebijakan, program, dan kegiatan Perlindungan Perempuan ke dalam penyusunan dokumen perencanaan dan anggaran sebagaimana dimaksud pada ayat (1).  
-4. Dalam melaksanakan fasilitasi sebagaimana dimaksud pada ayat (3), Dinas berkoordinasi dengan Badan Perencanaan Pembangunan Daerah Kabupaten Kutai Timur.  
+#### Pasal8
 
-# BAB V
+(1) Pengintegrasian kebijakan, program, dan kegiatan perlindungan perempuan di Daerah dituangkan ke dalam dokumen perencanaan dan anggaran yang meliputi:
 
-## PELAKSANAAN
+- a. Rencana Pembangunan Jangka Panjang Daerah;
+- h. Rencana Pembangunan Jangka Menengah Daerah;
+- c. Rencana ...
 
-### Bagian Kesatu
+BUPATIKUTAITIMUR
 
-Umum 
+PROVINSIKALIMANTANTIMUR
 
-#### Pasa1 9 
+c. Rencana Strategis Satuan Kerja Perangkat Daerah;
 
-1. Bupati berkewajiban melaksanakan kebijakan, program, dan kegiatan Perlindungan Perempuan, untuk menghapus segala bentuk diskriminasi dan tindak kekerasan terhadap perempuan di daerah.  
-2. Pelaksanaan sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh Wakil Bupati.  
-3. Pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan di daerah sebagaimana dimaksud pada ayat (1) dilakukan dengan membentuk, mengembangkan, memperkuat, atau memanfaatkan kelembagaan di Daerah.  
+d. Rencana Kerja Pemerintah Daerah; dan
+
+e. Rencana Kerja dan Anggaran Satuan Kerja Perangkat Daerah.
+
+(2) Penyusunan dokumen perencanaan dan anggaran sebagaimana dimaksud pada ayat (1) diselaraskan antar tingkatan dan susunan pemerintahan.
+
+(3) Dinas memfasilitasi pengintegrasian kebijakan, program, dan kegiatan Perlindungan Perempuan ke dalam penyusunan dokumen perencanaan dan anggaran sebagaimana dimaksud pada ayat (1).
+
+(4) Dalam melaksanakan fasilitasi sebagaimana dimaksud pada ayat (3), Dinas berkoordinasi dengan Badan Perencanaan Pembangunan Daerah Kabupaten Kutai Timur.
+
+# BABV
+
+PELAKSANAAN
+
+## Bagian Kesatu
+
+Umum
+
+Pasa19
+
+(1) Bupati berkewajiban melaksanakan kebijakan, program, dan kegiatan Perlindungan Perempuan, untuk menghapus segala bentuk diskriminasi dan tindak kekerasan terhadap perempuan di daerah.
+
+(2) Pelaksanaan sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh Wakil Bupati.
+
+(3) Pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan di daerah sebagaimana dimaksud pada ayat (1) dilakukan dengan membentuk, mengembangkan, memperkuat, atau memanfaatkan kelembagaan di Daerah.
+
+## Bagian Kedua ...
+
+BUPATI KUTAI TIMUR
 
 ## Bagian Kedua
 
@@ -167,16 +268,16 @@ Pencegahan
 
 #### Pasal 10
 
-Pencegahan tindak kekerasan terhadap perempuan sebagaimana dimaksud pada pasal 6 ayat (2) huruf a, Pemerintah Daerah melakukan upaya-upaya sebagai berikut:  
-a. melakukan penyuluhan dan sosialisasi mengenai hal-hal yang berkenaan dengan kekerasan terhadap perempuan;  
-b. melakukan sosialisasi terhadap hak-hak perempuan;  
-c. mengupayakan peningkatan pendidikan bagi perempuan;  
-d. membuka kursus-kursus ketrampilan bagi perempuan guna menunjang kebutuhan ekonomi keluarga;  
-e. menciptakan lapangan kerja bagi perempuan;  
-f. memberikan penyuluhan untuk segera melaporkan kepada aparat setempat apabila terjadi kekerasan terhadap perempuan;  
-g. memberdayakan organisasi-organisasi sosial kemasyarakatan dan organisasi-organisasi perempuan untuk meningkatkan pengetahuan, dan wawasan perempuan;  
-h. membangun Pos Pengaduan Perlindungan Perempuan; dan  
-i. membentuk jaringan kerja dalam upaya pencegahan kekerasan.  
+Pencegahan tindak kekerasan terhadap perempuan sebagaimana dimaksud pada pasal 6 ayat (2) huruf a, Pemerintah Daerah melakukan upaya-upaya sebagai berikut:
+
+- a. melakukan penyuluhan dan sosialisasi mengenai hal-hal yang berkenaan dengan kekerasan terhadap perempuan;
+- b. melakukan sosialisasi terhadap hak-hak perempuan;
+- c. mengupayakan peningkatan pendidikan bagi perempuan;
+- d. membuka kursus-kursus ketrampilan bagi perempuan guna menunjang kebutuhan ekonomi keluarga;
+- e. menciptakan lapangan kerja bagi perempuan;
+- f. memberikan penyuluhan untuk segera melaporkan kepada aparat setempat apabila terjadi kekerasan terhadap perempuan;
+- g. memberdayakan organisasi-organisasi sosial kemasyarakatan dan organisasi-organisasi perempuan untuk meningkatkan pengetahuan, dan wawasan perempuan;
+- h. membangun Pos Pengaduan Perlindungan Perempuan; dan i. membentuk jaringan kerja dalam upaya pencegahan kekerasan.
 
 ## Bagian Ketiga
 
@@ -184,344 +285,435 @@ Pelayanan Perlindungan Perempuan Korban Kekerasan
 
 #### Pasal 11
 
-1. Penyediaan Layanan bagi Perempuan korban kekerasan antara lain, meliputi:  
-a. memberikan Pelayanan dan penanganan secepat mungkin kepada Perempuan Korban Kekerasan;  
-b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Perempuan Korban Kekerasan;  
-c. menjaga kerahasiaan Perempuan Korban Kekerasan; dan  
-d. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.  
+(1) Penyediaan Layanan bagi Perempuan korban kekerasaan antara lain, meliputi:
+
+- a. memberikan ...
+
+BUPATIKUTAITIMUR
+
+PROVINSIKALIMANTANTIMUR
+
+a. memberikan Pelayanan dan penanganan secepat mungkin kepada Perempuan Korban Kekerasan;
+
+b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Perempuan Korban Kekerasan;
+
+c. menjaga kerahasiaan Perempuan Korban Kekerasan; dan
+
+d. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.
 
 ## Bagian Keempat
 
-Kelembagaan
-
-### Paragraf 1
+Kelembagaan Paragraf 1 PPT
 
 #### Pasal 12
 
-1. Dalam mendukung pelaksanaan Perlindungan Perempuan, Bupati membentuk PPT.  
-2. PPT sebagaimana dimaksud pada ayat (1) berupa:  
-a. UPTD PPA;  
-b. PPT berbasis rumah sakit;  
-c. PPT kecamatan; dan  
-d. PPT Desa/Icelurahan.  
-3. Ketentuan lebih lanjut mengenai tata cara pembentukan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
+(1) Dalam mendukung pelaksanaan Perlindungan Perempuan, Bupati membentuk PPT.
 
-#### Pasal 13 
+(2) PPT sebagaimana dimaksud pada ayat (1) berupa:
 
-1. Pelayanan PPT meliputi:  
-a. memberikan Pelayanan dan penanganan secepat mungkin kepada Perempuan Korban Kekerasan;  
-b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Perempuan Korban Kekerasan;  
-c. menjaga kerahasiaan Perempuan Karban Kekerasan; dan  
-d. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.  
-2. Ketentuan lebih lanjut mengenai tata cara Pelayanan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
+- a. UPTD PPA;
+- b. PPT berbasis rumah sakit;
+- c. PPT kecamatan; dan
+- d. PPT Desa/Icelurahan.
+  - (3) Ketentuan lebih lanjut mengenai tata cara pembentukan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
 
-#### Pasal 14 
+#### Pasal13
 
-Penyelenggaraan PPT memerlukan:  
-a. sarana dan prasarana pendukung yang memadai;  
-b. petugas pelaksana; dan  
-c. petugas fungsional.  
+( 1) Pelayanan PPT melipu ti:
+
+- a. memberikan Pelayanan dan penanganan secepat mungkin kepada Perempuan Korban Kekerasan;
+- b. memberikan ...
+
+BUPATIKUTAITIMUR
+
+PROVINSIKALIMANTANTIMUR
+
+b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Perempuan Korban Kekerasan;
+
+c. menjaga kerahasiaan Perempuan Karban Kekerasan; dan
+
+d. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.
+
+(2) Ketentuan lebih lanjut mengenai tata cara Pelayanan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
+
+#### Pasal14
+
+Penyelenggaraan PPT memerlukan:
+
+- a. sarana dan prasarana pendukung yang memadai;
+- b. petugas pelaksana; dan
+- c. petugas fungsional.
 
 #### Pasal 15
 
-1. Tata cara dan mekanisme Pelayanan terpadu, meliputi:  
-a. layanan pengaduan;  
-b. Rehabilitasi Kesehatan;  
-c. Rehabilitasi Sosial;  
-d. Pemulangan;  
-e. Reintegrasi Sosial, dan  
-f. Bantuan Hukum.  
-2. Penyelenggaraan layanan terpadu sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan SPM.  
+(1) Tata cara dan mekanisme Pelayanan terpadu, meliputi:
+
+- a. layanan pengaduan;
+- b. Rehabilitasi Kesehatan;
+- c. Rehabilitasi Sosial;
+- d. Pemulangan;
+- e. Reintegrasi Sosial, dan
+- f. Bantuan Hukum.
+  - (2) Penyelenggaraan layanan terpadu sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan SPM.
+
+## Bagian Kelima ...
+
+BUPATIKUTAITIMUR
+
+PROVINSIKALIMANTANTIMUR
 
 ## Bagian Kelima
 
+SPM
+
 #### Pasal 16
 
-1. SPM bidang layanan terpadu bagi perempuan dan anak korban kekerasan bertujuan menjamin Perempuan Korban kekerasan mendapatkan layanan minimal yang dibutuhkan.  
-2. SPM bidang layanan terpadu bagi Perempuan Korban kekerasan, meliputi layanan:  
-a. penanganan pengaduan/laporan Korban Kekerasan Terhadap Perempuan;  
-b. pelayanan kesehatan bagi perempuan Korban kekerasan;  
-c. rehabilitasi sosial bagi perempuan Korban kekerasan;  
-d. penegakan dan Bantuan Hukum bagi perempuan Korban kekerasan;  
-e. Pemulangan dan Reintegrasi Sosial bagi perempuan Korban kekerasan; dan  
-f. dalam hal Perempuan Korban Kekerasan mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah berkewajiban memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.  
+(1) SPM bidang layanan terpadu bagi perempuan dan anak korban kekerasan bertujuan menjamin Perempuan Korban kekerasan mendapatkan layanan minimal yang dibutuhkan.
 
-#### Pasal 17 
+(2) SPM bidang layanan terpadu bagi Perempuan Korban kekerasan, meliputi layanan:
 
-SPM sebagaimana dimaksud dalam Pasal 16 memiliki perempuan kinerja meliputi:  
-a. cakupan perempuan korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit Pelayanan terpadu;  
-b. cakupan Perempuan Korban kekerasan yang mendapatkan layanan indikator oleh tenaga indikator terlatih di puskesmas dan di rumah sakit;  
-c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas Rehabilitasi Sosial terlatih bagi indikator Korban kekerasan di dalam unit Pelayanan terpadu;  
-d. cakupan layanan bimbingan indikator yang diberikan oleh petugas bimbingan indikator terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu;  
-e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus Kekerasan Terhadap Perempuan;  
-f. cakupan Perempuan Korban Kekerasan yang mendapatkan layanan Bantuan Hukum;  
-g. cakupan layanan Pemulangan bagi Perempuan Korban Kekerasan; dan  
-h. cakupan layanan Reintegrasi Sosial bagi Perempuan Korban Kekerasan.  
-2. Penetapan ndicator kinerja SPM bidang layanan terpadu bagi Perempuan Korban Kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai oleh unit pelayanan terpadu secara bertahap.  
+- a. penanganan pengaduanjlaporan Korban Kekerasan Terhadap Perempuan;
+- b. pelayanan kesehatan bagi perempuan Korban kekerasan; c. rehabilitasi sosial bagi perempuan Korban kekerasan;
+- d. penegakan dan Bantuan Hukum bagi perempuan Korban kekerasan;
+- e. Pemulangan dan Reintegrasi Sosial bagi perempuan Korban kekerasan; dan
+- f. dalam hal Perempuan Korban Kekerasan mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah berkewajiban memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.
+
+#### Pasal17
+
+(1) SPM sebagaimana dimaksud dalam Pasal 16 memiliki erempuan kinerja meliputi:
+
+- a. cakupan erempuan korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit Pelayanan terpadu;
+- b. cakupan ...
+
+BUPATIKUTAITIMUR
+
+PROVINSIKALIMANTANTIMUR
+
+b. cakupan Perempuan Korban kekerasan yang mendapatkan layanan ndicator oleh tenaga ndicator terlatih di puskesmas dan di rumah sakit:
+
+- c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas Rehabilitasi Sosial terlatih bagi ndicator Korban kekerasan di dalam unit Pelayanan terpadu:
+- d. cakupan layanan bimbingan ndica yang diberikan oleh petugas bimbingan ndica terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu:
+- e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus Kekerasan Terhadap Perempuan;
+- f. cakupan Perempuan Korban Kekerasan yang mendapatkan layanan Bantuan Hukum;
+- g. cakupan layanan Pemulangan bagi Perempuan Korban Kekerasan; dan h. cakupan layanan Reintegrasi Sosial bagi Perempuan Korban Kekerasan.
+  - (2) Penetapan ndicator kinerja SPM bidang layanan terpadu bagi Perempuan Korban Kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai oleh unit pelayanan terpadu secara bertahap.
 
 ## Bagian Keenam
 
-Rumah Perlindungan Sosial 
+Rumah Perlindungan Sosial
 
-#### Pasa1 18 
+Pasa118
 
-1. Pemerintah Daerah berkewajiban membentuk rumah perlindungan sosial dan / atau Rumah Aman atau sebutan lainnya.  
-2. Rumah perlindungan sosial dan Iatau Rumah Aman sebagaimana dimaksud pada ayat (1) menjamin dalam pelaksanaan Pelayanan Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan, dan Reintegrasi Sosial.  
-3. Untuk penyelenggaraan Pelayanan sebagaimana dimaksud pada ayat (2), Pemerintah Daerah dapat mendayagunakan rumah Perlindungan sosial dan/ atau Rumah Aman milik masyarakat atau lembaga Pelayanan sosial lainnya.  
+(1) Pemerintah Daerah berkewajiban membentuk rumah perlindungan sosial dan / atau Rumah Arnan atau sebutan lainnya.
+
+(2) Rumah perlindungan sosial dan Iatau Rumah Aman sebagaimana dimaksud pada ayat (1) menjamin dalam pelaksanaan Pelayanan Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan, dan Reintegrasi Sosial.
+
+(3)Untuk ...
+
+BUPATI KUTAI TIMUR
+
+(3) Untuk penyelenggaraan Pelayanan sebagaimana dimaksud pada ayat (2), Pemerintah Daerah dapat mendayagunakan rumah Perlindungan sosial dan/ atau Rumah Aman milik masyarakat atau lembaga Pelayanan sosial lainnya.
 
 # BAB VI
 
-## PEMANTAUAN DAN EVALUASI
+PEMANTAUAN DAN EVALUASI
 
 #### Pasal 19
 
-1. Pemerintahan Daerah melakukan pemantauan untuk menjamin sinergi, kesinambungan, dan efektivitas langkah secara terpadu dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan.  
-2. Pemantauan sebagaimana dimaksud pada ayat (1) dilakukan untuk mengetahui perkembangan dan hambatan dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan di Daerah.  
+(1) Pemerintahan Daerah melakukan pemantauan untuk menjamin sinergi, kesinambungan, dan efektivitas langkah secara terpadu dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan.
 
-#### Pasal 20 
+(2) Pemantauan sebagaimana dimaksud pada ayat (1) dilakukan untuk mengetahui perkembangan dan hambatan dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan di Daerah.
 
-1. Pemantauan dilakukan melalui koordinasi dan pemantauan langsung terhadap perangkat Daerah terkait secara berkala.  
-2. Pemantauan dilakukan mulai dari perencanaan sampai dengan pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan untuk tahun berjalan.  
+#### Pasal20
 
-#### Pasal 21 
+(1) Pemantauan dilakukan melalui koordinasi dan pemantauan langsung terhadap perangkat Daerah terkait secara berkala.
 
-1. Evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan dilakukan setiap berakhirnya tahun anggaran atau jika diperlukan sesuai kebutuhan.  
-2. Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan digunakan sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan perlindungan perempuan untuk tahun berikutnya.  
-3. Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.  
+(2) Pemantauan dilakukan mulai dari perencanaan sampai dengan pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan untuk tahun berjalan.
+
+#### Pasal21
+
+(1) Evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan dilakukan setiap berakhirnya tahun anggaran atau jika diperlukan sesuai kebutuhan.
+
+(2) Hasil ...
+
+BUPATI KUTAI TIMUR
+
+(2) Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan digunakan sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan perlindungan perempuan untuk tahun berikutnya.
+
+(3) Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
 # BAB VII
 
-## PELAPORAN
+PELAPORAN
 
-#### Pasal 22 
+#### Pasal22
 
-1. Bupati bertanggungjawab untuk membuat laporan pelaksanaan SPM bidang layanan terpadu bagi perempuan dan disampaikan kepada Gubernur dengan tembusan disampaikan kepada Menteri yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan perlindungan anak dan Menteri yang menyelenggarakan urusan pemerintahan dalam negeri.  
-2. Pelaporan pelaksanaan sebagaimana dimaksud pada ayat (1) dilakukan setiap tahun.  
-3. Ketentuan lebih lanjut mengenai tata cara dan bentuk pelaporan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
+(1) Bupati bertanggungjawab untuk membuat laporan pelaksanaan SPMbidang layanan terpadu bagi perempuan dan disampaikan kepada Gubernur dengan tembusan disampaikan kepada Menteri yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan perlindungan anak dan Menteri yang menye1enggarakan urusan pemerintahan dalam negeri.
+
+(2) Pelaporan pelaksanaan sebagaimana dimaksud pada ayat (1) dilakukan setiap tahun.
+
+(3) Ketentuan lebih lanjut mengenai tata cara dan bentuk pelaporan sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.
 
 # BAB VIII
 
-## PEMBINAAN DAN PENGAWASAN
+PEMBINAAN DAN PENGAWASAN
 
-#### Pasal 23 
+#### Pasal23
 
-1. Bupati melakukan pembinaan terhadap pengembangan PPT.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  
-a. pemberian petunjuk pelaksanaan;  
-b. bimbingan;  
-c. supervisi; dan  
-d. monitoring dan evaluasi pelaksanaan pelayanan bagi perempuan korban kekerasan, aparatur maupun masyarakat.  
+(1) Bupati melakukan pembinaan terhadap pengembangan PPT. (2) Pembinaan sebagaimana dimaksud pada ayat (1)meliputi:
 
-#### Pasal 24 
+- a. pemberian ...
 
-Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM bidang layanan terpadu bagi Perempuan Korban Kekerasan di Daerah.  
+BUPATIKUTAITIMUR
 
-## BABIX
+a. pemberian petunjuk pelaksanaan;
 
-## PERAN SERTA MASYARAKAT
+b. bimbingan;
 
-#### Pasal 25 
+c. supervisi; dan
 
-1. Dalam menyelenggarakan Perlindungan Perempuan, masyarakat dapat:  
-a. membentuk mitra keluarga di tingkat kelurahan / desa;  
-b. membentuk unit perlindungan perempuan di dalam orgamsasi kemasyarakatan;  
-c. melakukan sosialisasi hak Perempuan secara mandiri;  
-d. melakukan pertolongan pertama kepada Perempuan Korban Kekerasan;  
-e. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi kekerasan terhadap Perempuan.  
-f. mencegah terjadinya tindak kekerasan terhadap perempuan.  
-g. memberikan informasi darr/atau melaporkan tindak kekerasan terhadap perempuan kepada pihak yang berwenang; dan  
-h. bentuk dan peran masyarakat dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan perundang-undangan.  
-2. Peran serta masyarakat sebagairnana dimaksud pada ayat (1)meliputi:  
-a. Perorangan;  
-b. lembaga sosial kemasyarakatan;  
-c. lembaga swadaya Masyarakat;  
-d. lembaga pendidikan;  
-e. lembaga keagamaan;  
-f. swasta; dan  
-g. media massa.  
+d. monitoring dan evaluasi pelaksanaan pelayanan bagi perempuan korban kekerasan, aparatur maupun masyarakat.
 
-# BAB X
+#### Pasal24
 
-## PENDANAAN
+Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM bidang layanan terpadu bagi Perempuan Korban Kekerasan di Daerah.
 
-#### Pasal 26 
+# BABIX
 
-Pendanaan dalam penyelenggaraan perlindungan perempuan bersumber dari:  
-a. anggaran pendapatan dan belanja Daerah; dan
-b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundangan- undangan.  
+PERANSERTAMASYARAKAT
 
-# BAB XI
+#### Pasal25
 
-## KETENTUAN SANKSI
+(1) Dalam menyelenggarakan Perlindungan Perempuan, masyarakat dapat: a. membentuk mitra keluarga di tingkat kelurahan / desa;
 
-#### Pasal 27 
+b. membentuk unit perlindungan perempuan di dalam orgamsasi kemasyarakatan;
 
-1. Pejabat yang ditunjuk, tidak melaksanakan kewajiban dan tanggung jawab sebagairnana dimaksud dalam Pasal 13, dikenakan tindakan dan /atau sanksi administratif.  
-2. Tindakan dan/ atau sanksi administratif sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundang-undangan.  
-3. Pengelola UPTD PPA yang melaksanakan tugas pelayanan yang melanggar prinsip pelayanan sebagaimana dimaksud dalam pasal 16, dikenakan sanksi sesuai dengan norma dan ketentuan peraturan perundang-undangan.  
+c. melakukan sosialisasi hak Perempuan secara mandiri;
+
+d. melakukan pertolongan pertama kepada Perempuan Korban Kekerasan;
+
+e. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi kekerasan terhadap Perempuan.
+
+f. mencegah terjadinya tindak kekerasan terhadap perempuan.
+
+g. memberikan informasi darr/atau melaporkan tindak kekerasan terhadap perempuan kepada pihak yang berwenang; dan
+
+h. bentuk ...
+
+BUPATI KUTAI TIMUR
+
+h. bentuk dan peran masyarakat dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan perundang-undangan.
+
+(2) Peran serta masyarakat sebagairnana dimaksud pada ayat (1)meliputi: a. Perorangan;
+
+b. lembaga sosial kemasyarakatan;
+
+c. lembaga swadaya Masyarakat;
+
+d. lembaga pendidikan;
+
+e. lembaga keagamaan;
+
+f. swasta; dan
+
+g. media massa.
+
+# BABX
+
+PENDANAAN
+
+#### Pasal26
+
+Pendanaan dalam penyelenggaraan perlindungan perempuan bersumber dari: a. anggaran pendapatan dan belanja Daerah; dan
+
+b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundangan- undangan.
+
+# BABXI
+
+KETENTUAN SANKSI
+
+#### Pasal27
+
+(1) Pejabat yang ditunjuk, tidak melaksanakan kewajiban dan tanggung jawab sebagairnana dimaksud dalam Pasal 13, dikenakan tindakan dan /atau sanksi administratif.
+
+(2)Tindakan ...
+
+BUPATI KUTAI TIMUR
+
+(2) Tindakan dan/ atau sanksi administratif sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundang-undangan.
+
+(3) Pengelola UPTD PPA yang melaksanakan tugas pelayanan yang melanggar prinsip pelayanan sebagaimana dimaksud dalam pasal 16, dikenakan sanksi sesuai dengan norma dan ketentuan peraturan perundang-undangan.
 
 # BAB XII
 
-## KETENTUAN PENUTUP
+KETENTUAN PENUTUP
 
-Pasal28 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kutai Timur.  
+#### Pasal28
 
-Ditetapkan di Sangatta  
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Kutai Timur.
 
-pada tanggal 22 Mei 2023
+Ditetapkan di Sangatta pada tanggal 22M e i 202 3
 
-BUPATI KUTAI TIMUR,  
+BUPATI KUTAI TIMUR,
 
-RIZALI HADI  
+RIZALI HADI
 
-LEMBARAN DAERAH KABUPATEN KUTAI TlMUR TAHUN 2023 NOMOR 3 NOREG PERATURAN DAERAH KABUPATEN KUTAI TIMUR, PROVINSI KALIMANTAN TIMUR: (64.08/1/30/2/2023)  
+LEMBARAN DAERAH KABUPATEN KUTAI TlMUR TAHUN 2023 NOMOR 3
 
-BUPATI KUTAI TIMUR  
+NOREG PERATURAN DAERAH KABUPATEN KUTAI TIMUR, PROVINSI KALIMANTAN TIMUR : (64.08/1/30/2/2023)
 
-PROVINSI KALIMANTAN TIMUR  
+BUPATIKUTAITIMUR
 
-# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN KUTAI TIMUR
+PROVINSIKALIMANTANTIMUR
 
-NOMOR 3 TAHUN 2023 TENTANG PERLINDUNGAN PEREMPUAN  
+PENJELASAN
 
-#### 1. UMUM
+PENJELASANATAS
 
-Perlindungan terhadap perempuan penting dilakukan karena perempuan merupakan kelompok rentan atau tersubornasi, khususnya sehubungan dengan banyaknya kasus kekerasan terhadap perempuan yang menjadi korban.  
+PERATURANDAERAHKABUPATENKUTAITIMUR
 
-Selanjutnya dalam Rencana Aksi Nasional Penghapusan Kekerasan terhadap perempuan Tahun 1999 dinyatakan bahwa perempuan sebagai ibu bangsa dan anak sebagai penerus bangsa merupakan mahkluk ciptaan Tuhan Yang Maha Esa, sehingga wajib dilindungi dan dijaga kehormatan, martabat dan harga dirinya secara wajar dan proporsional, baik secara hukum, ekonomi, politik, sosial dan budaya tanpa membedakan suku, agama, ras dan golongan.  
+NOMOR 3 TAHUN 2023
 
-Meskipun telah dilakukan upaya perlindungan terhadap perempuan dan juga adanya kebijakan pemerintah melalui peraturan perundang- undangan telah dengan tegas merumuskan upaya-upaya bagi perlindungan perempuan, termasuk upaya untuk melindungi perempuan korban kekerasan, namun dalam kenyataannya intensitas atau jumlah kekerasan terhadap perempuan di Kabupaten Kutai Timur masih tinggi sedangkan pelayanan dan perlindungan terhadap perempuan di Kabupaten Kutai Timur belum dilakukan secara optimal. Secara empiris di Kabupaten Kutai Timur, faktor penting yang berpengaruh dalam proses pencegahan dan perlindungan perempuan selama ini, karena dalam peraturan perundang- undangan yang ada, tidak diatur secara tegas tentang tata cara dan prosedur pencegahan dan perlindungan.  
+TENTANG
 
-Serta dengan memperhatikan kondisi perkembangan pertumbuhan masyarakat beserta permasalahan hukumnya dan dengan dorongan dari berbagai regulasi yang memayungi tentang perlindungan perempuan khususnya terhadap perempuan korban kekerasan.  
+PERLINDUNGANPEREMPUAN
 
-#### II. PASAL DEMI PASAL
+1. UMUM
+
+Perlindungan terhadap perempuan penting dilakukan karena perempuan merupakan kelompok rentan atau tersubornasi, khususnya sehubungan dengan banyaknya kasus kekerasan terhadap perempuan yang menjadi korban.
+
+Selanjutnya dalam Rencana Aksi Nasional Penghapusan Kekerasan terhadap perempuan Tahun 1999 dinyatakan bahwa perempuan sebagai ibu bangsa dan anak sebagai penerus bangsa merupakan mahkluk ciptaan Tuhan Yang Maha Esa, sehingga wajib dilindungi dan dijaga kehormatan, martabat dan harga dirinya secara wajar dan proporsional, baik secara hukum, ekonomi, politik, sosial dan budaya tanpa membedakan suku, agama, ras dan golongan.
+
+Meskipun telah dilakukan upaya perlindungan terhadap perempuan dan juga adanya kebijakan pemerintah melalui peraturan perundang- undangan telah dengan tegas merumuskan upaya-upaya bagi perlindungan perempuan, termasuk upaya untuk melindungi perempuan korban kekerasan, namun dalam kenyataannya intensitas atau jumlah kekerasan terhadap perempuan di Kabupaten Kutai Timur masih tinggi sedangkan pelayanan dan perlindungan terhadap perempuan di Kabupaten Kutai Timur belum dilakukan secara optimal. Secara empiris di Kabupaten Kutai Timur, faktor penting yang berpengaruh dalam proses pencegahan dan perlindungan perempuan selama ini, karena dalam peraturan perundang- undangan yang ada, tidak diatur secara tegas tentang tata cara dan prosedur pencegahan dan perlindungan.
+
+Serta ...
+
+BUPATI KUTAI TIMUR
+
+PROVINSI KALIMANTAN TlMUR
+
+Serta dengan memperhatikan kondisi perkembangan pertumbuhan masyarakat beserta permasalahan hukumnya dan dengan dorongan dari berbagai regulasi yang memayungi tentang perlindungan perempuan khususnya terhadap perempuan korban kekerasan.
+
+PASAL
 
 #### Pasal 1
 
-Cukup jelas.  
+Cukup jelas.
 
 #### Pasal 2
 
-Huruf a  
-yang dimaksud dengan "penghormatan terhadap hak asasi manusia" adalah jaminan terpenuhinya hak dasar Hak Asasi Manusia.  
+Hurufa yang dimaksud dengan "penghormatan terhadap hak asasi manusia" adalah jaminan terpenuhinya hak dasar Hak Asasi Manusia.
 
-Huruf b  
-yang dimaksud dengan "kesetaraan gender" adalah kesamaan hak, kesempatan, manfaat dan pengambilan keputusan antara perempuan dan laki-laki termasuk dalam memasuki kesempatan ketja baik di sektor formal maupun informal.  
+Hurufb yang dimaksud dengan "kesetaraan gender" adalah kesamaan hak, kesempatan, manfaat dan pengambilan keputusan antara perempuan dan laki-laki termasuk dalam memasuki kesempatan ketja baik di sektor formal maupun informal.
 
-Huruf c  
-yang dimaksud dengan "non diskriminasi" adalah sikap dan perlakuan terhadap perempuan dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama dan antar golongan.  
+Hurufc yang dimaksud dengan "non diskriminasi" adalah sikap dan perlakuan terhadap perempuan dengan tidak melakukan pembedaan atas dasar usia, jenis kelamin, ras, suku, agama dan antar golongan.
 
-Huruf d  
-yang dimaksud dengan "kepentingan yang terbaik perempuan" adalah semua tindakan terbaik yang menyangkut perempuan yang dilakukan oleh pemerintah daerah dan masyarakat, maka kepentingan yang terbaik bagi perempuan harus menjadi pertimbangan utama.  
+Hurufd yang dimaksud dengan "kepentingan yang terbaik perempuan" adalah semua tindakan terbaik yang menyangkut perempuan yang dilakukan oleh pemerintah daerah dan masyarakat, maka kepentingan yang terbaik bagi perempuan harus menjadi pertimbangan utama.
 
-#### Pasal 3 
+#### Pasal3
 
-Cukup jelas.  
+Cukup jelas.
 
-#### Pasal 4 
+#### Pasal4 ...
 
-Cukup jelas.  
+#### Pasal4
 
-#### Pasal 5 
+Cukup jelas.
 
-Cukup jelas.  
+#### Pasal5
 
-#### Pasa1 6 
-
-Cukup jelas.  
+Cukupjelas Pasa16 Cukupjelas
 
 #### Pasal 7
 
-Cukup jelas.  
+Cukupjelas
 
-#### Pasal 8
+#### Pasal8
 
-Cukup jelas.  
+Cukupjelas
 
-#### Pasal 9
+#### Pasal9
 
-Cukup jelas.  
-
-#### Pasal 10
-
-Cukup jelas.  
-
+Cukup jelas Pasall0 Cukup jelas
 
 #### Pasal 11
 
-Cukup jelas.  
+Cukupjelas
 
-#### Pasal 12
+#### Pasal12
 
-Cukup jelas.  
+Cukupjelas
 
-#### Pasal 13
+#### Pasal13
 
-Cukup jelas.  
+Cukup jelas
 
-#### Pasal 14  
+#### Pasal14
 
-Huruf a  
-Yang dimaksud dengan "sarana dan prasarana pendukung yang mamadai" adalah disesuaikan dengan stan dar pelayanan minimal dan standar operasional prosedur pemulangan dan reintegrasi sosial yang berlaku.  
+Hurufa
 
-Huruf b  
-Yang dimaksud dengan "petugas pelaksana atau petugas fungsional" meliputi tenaga kesehatan, psikolog, psikiater, pekerja sosial yang disediakan oleh instansi atau lembaga terkait.  
+BUPATI KUTAI TIMUR
 
-Huruf c  
-Cukup jelas.  
+Yang ...
 
-#### Pasal 15
+BUPATI KUTAI TIMUR
 
-Cukup jelas.  
+Yang dimaksud dengan "sarana dan prasarana pendukung yang mamadai" adalah disesuaikan dengan stan dar pelayanan minimal dan standar operasional prosedur pemulangan dan reintegrasi sosial yang berlaku.
 
-#### Pasal 16
+Hurufb
 
-Cukup jelas.  
+Yang dimaksud dengan "petugas pelaksana atau petugas fungsional" meliputi tenaga kesehatan, psikolog, psikiater, pekerja sosial yang disediakan oleh instansi atau lembaga terkait.
+
+Huruf c
+
+Cukup jelas. Pasa115
+
+Cukup jelas.
+
+#### Pasal16
+
+Cukup jelas.
 
 #### Pasal 17
 
-Cukup jelas.  
+Cukup jelas.
 
 #### Pasal 18
 
-Cukup jelas.  
+Cukup jelas.
 
-#### Pasal 19
+#### Pasal19
 
-Cukup jelas.  
+Cukup jelas. Pasa120 Cukup jelas.
 
-#### Pasal 20
-
-Cukup jelas.  
-
-#### Pasal 21
-
-Cukup jelas.  
-
-#### Pasal 22
-
-Cukup jelas.  
-
-#### Pasal 23
-
-Cukup jelas.  
-
-#### Pasal 24
+#### Pasal21
 
 Cukup jelas.
 
-#### Pasal 25
+#### Pasal22
 
 Cukup jelas.
 
-#### Pasal 26
+#### Pasal23 ...
+
+BUPATI KUTAI TIMUR
+
+#### Pasal23
 
 Cukup jelas.
 
-#### Pasal 27
+Pasa124
 
-Cukup jelas.
+Cukupjelas
 
-#### Pasal 28
+Pasa125
 
-Cukup jelas.
+Cukupjelas
+
+#### Pasal26
+
+Cukupjelas
+
+#### Pasal27
+
+Cukupjelas Pasa128 Cukupjelas

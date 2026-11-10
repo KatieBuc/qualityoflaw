@@ -4,15 +4,33 @@ AUTOMATION_ROOT = Path(__file__).resolve().parents[1]
 PROJECT_ROOT = AUTOMATION_ROOT.parent
 DEFAULT_MODEL_CONFIG = AUTOMATION_ROOT / "config" / "model_config.yaml"
 DEFAULT_PIPELINE_CONFIG = AUTOMATION_ROOT / "config" / "pipeline_config.yaml"
-DEFAULT_DATA_ROOT = PROJECT_ROOT / "data" / "automation"
+
+# Static data layout (see `paths.py`). The active project is a config choice
+# (`project:` in pipeline_config.yaml); DEFAULT_PROJECT is only the fallback.
+DATA_ROOT = PROJECT_ROOT / "data"
+DEFAULT_PROJECT = "indonesia"
+RAW_DIRNAME = "raw"
+# Stage 1 (input processing) folders, all inside raw/.
+RAW_FILES_DIRNAME = "raw_files"
+CLEANED_TXT_DIRNAME = "cleaned_txt"
+GOLD_DIRNAME = "gold"
+INPUT_LOG_FILENAME = "input_process.log"
+EXTRACTION_MANIFEST_FILENAME = "extraction_manifest.json"
+HEADER_CHECK_LOG_FILENAME = "header_check.log"
+PREPROCESSED_DIRNAME = "preprocessed"
+PROCESSED_DIRNAME = "processed"
+AUTOMATION_DIRNAME = "automation"
+CLEANED_MARKDOWN_DIRNAME = "cleaned_markdown"
+TRANSLATION_MARKDOWN_DIRNAME = "translation_markdown"
+CORRECTIONS_DIRNAME = "corrections"
+MANUAL_OVERWRITES_FILENAME = "manual_overwrites.yaml"
+GOLDEN_CSV_FILENAME = "long_policy_encoding.csv"
+INDEX_SCHEMA_RELPATH = "mapping/index_schema.yaml"
 PROMPTS_ROOT = AUTOMATION_ROOT / "prompts"
 CHUNKING_FALLBACK_PROMPT = PROMPTS_ROOT / "translation" / "chunking" / "fallback_prompt.txt"
 MARKDOWN_FALLBACK_PROMPT = (
     PROMPTS_ROOT / "translation" / "chunking" / "fallback_prompt_md.txt"
 )
-DEFAULT_MANUAL_OVERWRITES = PROJECT_ROOT / "data" / "corrections" / "manual_overwrites.yaml"
-# Repo-relative default for `paths.markdown_input_dir` (pipeline_config.yaml overrides it).
-DEFAULT_MARKDOWN_INPUT_DIR = "data/processed/localpolicies/cleaned_markdown"
 
 # The default `--small-scale` benchmark set, on the Indonesian localpolicies
 # corpus. It is only a fallback: the set actually used comes from
@@ -20,7 +38,7 @@ DEFAULT_MARKDOWN_INPUT_DIR = "data/processed/localpolicies/cleaned_markdown"
 # `markdown_input_dir` / `markdown_input_suffix` when the pipeline is pointed
 # at another corpus (see `config_loader.PipelinePaths.small_scale_stems`).
 # The raw-text translation path (`resolve_input_files`) stays pinned to this
-# list, since it only ever reads `data/raw/localpolicies`.
+# list, since it only ever reads the project's raw folder.
 SMALL_SCALE_FILES = [
     "ACEH_BIREUEN.txt",
     "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
@@ -29,27 +47,34 @@ SMALL_SCALE_FILES = [
 ]
 DEFAULT_SMALL_SCALE_STEMS = tuple(Path(name).stem for name in SMALL_SCALE_FILES)
 
-# The Markdown path is the default: the corpus in
-# `data/processed/localpolicies/cleaned_markdown/` is already cleaned and
-# structured, so translation reads and writes Markdown and `md_to_text`
+# The Markdown path is the default: the project's `cleaned_markdown/` corpus
+# is already cleaned and structured, so translation reads and writes Markdown and `md_to_text`
 # renders the plain-text artifact everything downstream reads.
 DEFAULT_STEPS = (
-    "translation_md",
+    "extract",         # stage 1.1: originals -> preprocessed/cleaned_txt
+    "quality_check",   # stage 1.1: checks and fixes preprocessed/cleaned_txt (breakpoint: OCR / eliminated files)
+    "txt_to_md",       # stage 1.2: cleaned_txt -> cleaned_markdown
+    "translation_md",  # stage 2
+    "human_review",    # stage 3 (optional pause, off by default)
+    "validate",        # stage 4 first step: header check of the pairs in preprocessed/ (moves nothing)
     "md_to_text",
     "storage",
     "evaluation",
-    "comparison",
 )
 
-# translation_qa_md and discrepancy_diagnosis stay out of the default chain
-# (extra QA pass / diagnosis cost isn't wanted on every run) but remain valid
-# --steps values so they can still be run explicitly.
-OPTIONAL_STEPS = ("translation_qa_md", "discrepancy_diagnosis")
+# comparison and discrepancy_diagnosis stay out of the default chain
+# (comparison against golden labels / diagnosis isn't wanted on every run)
+# but remain valid --steps values so they can still be run explicitly,
+# e.g. `--steps comparison`.
+OPTIONAL_STEPS = ("comparison", "discrepancy_diagnosis")
 
-# The raw-OCR-text path (`translation`, `translation_qa`, `markdown`) is kept
-# runnable via --steps so the two can be compared on the same corpus, but is
-# no longer part of the default chain.
-LEGACY_TEXT_STEPS = ("translation", "translation_qa", "markdown")
+# Legacy steps are kept runnable via --steps but are not part of the default
+# chain and are no longer developed: the raw-OCR-text path (`translation`,
+# `translation_qa`, `markdown`), kept so the two paths can be compared on the
+# same corpus, and `translation_qa_md` (the LLM audit-and-repair pass over a
+# translated Markdown file). When requested, `translation_qa_md` still runs
+# right after `translation_md`.
+LEGACY_TEXT_STEPS = ("translation", "translation_qa", "markdown", "translation_qa_md")
 
 VALID_STEPS = DEFAULT_STEPS + OPTIONAL_STEPS + LEGACY_TEXT_STEPS
 

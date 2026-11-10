@@ -1,8 +1,12 @@
 experiment_name: first-full-run
 
+# Active project: every data path is derived from data/<project>/ (see
+# automation/src/paths.py). Change this to run another corpus.
+project: global
+
 concurrency:
   enabled: true
-  max_workers: 5
+  max_workers: 10
 
 translation:
   model: claude-sonnet-4-5
@@ -30,7 +34,7 @@ translation_qa:
 
 evaluation:
   model: gpt-5.2
-  prompt_version: v4
+  prompt_version: global_v1
   method: rag  # "rag" | "sliding_window"
   # Per-indicator confidence. `logprobs` and `margin` ride along on the
   # evaluation call for free; `verbalized` asks the judge to rate itself and
@@ -40,12 +44,20 @@ evaluation:
   # Deployments that reject logprobs degrade to confidence: null, with one warning.
   confidence:
     enabled: true
-    methods: [logprobs, verbalized, margin]   # + verbalized (needs prompt_version: v4)
-    primary: margin
+    methods: [verbalized]   # also: logprobs, margin (verbalized needs prompt_version: v4)
+    primary: verbalized
     # Alternatives requested per answer token, which is what margin reads.
     # Azure caps this at 5; a higher value is detected and clamped at runtime
     # rather than costing the run its logprobs.
     top_logprobs: 5
+  # A second answer for the indicators answered Yes: HOW they are covered (the prompt's "Code Yes - Substantive" vs
+  # "Code Yes - Referenced only"). `included` stays Yes / No, so everything that reads it is unchanged; the coverage
+  # is recorded next to it with a confidence of its own (same methods as above), reported separately. The first
+  # label is the highest level (Substantive = 2, Referenced only = 1, No = 0). Off for the Indonesian prompts.
+  # Needs a prompt whose response format asks for `coverage` (global_v1 does).
+  coverage:
+    enabled: true
+    labels: [Substantive, Referenced only]
   sliding_window:
     prompt_version: sliding_window_v1
     window_sentences: 100
@@ -66,6 +78,38 @@ evaluation:
         top_k: 25
       evidence_verification:
         enabled: true
+      # Token budget of one evaluation prompt (a dimension: its criteria, rules and the candidate sentences). A dimension
+      # over the budget is split into two (or more) calls of whole indicators, so no candidate is lost; only an indicator
+      # too long on its own has its lowest-ranked candidates trimmed. Keep it below the model's context limit (272000 for the
+      # current deployment). Whole-section chunks (global) need it; the Indonesian prompts never reach it.
+      max_prompt_tokens: 200000
+
+# Stage 1 (input processing): data/<project>/raw/raw_files (originals) and
+# data/<project>/preprocessed/cleaned_txt (every extracted text; the one folder the later steps read).
+# Every key is optional; folders default to those names. Overrides are repo-relative or absolute.
+input_process:
+  # Language every file is judged as, unless language_pattern finds one in its name.
+  language: Indonesian
+  # Optional: regex with ONE group that picks the language out of a policy name, for
+  # multilingual corpora. GlobalLaws names look like "10. Azerbaijan - DomViol - Azerbaijani - html".
+  # Names it does not match (e.g. ACEH_BIREUEN) fall back to `language`.
+  language_pattern: 'DomViol - ([A-Za-z]+)'
+  # Which folder stage 1.2 (TXT -> Markdown) converts: "cleaned_txt" (default, this stage's
+  # output) or "gold" (hand-cleaned texts in data/<project>/raw/gold, or gold_dir).
+  markdown_source: cleaned_txt
+  # gold_dir: data/global/raw/gold
+  # raw_files_dir: data/indonesia/raw/raw_files      # PDF / HTML / TXT originals
+  # cleaned_txt_dir: data/indonesia/preprocessed/cleaned_txt
+  # log_path: data/indonesia/raw/input_process.log
+  # Override individual quality thresholds (names in input_process/quality/criteria.py, T).
+  thresholds: {}
+
+# Step 4.6: maps evidence sentences between translation and source. Equal
+# sentence counts are paired by index; otherwise this aligner (LaBSE embeddings,
+# benchmarked in automation/benchmarks/alignment) is used. Needs
+# automation/requirements-align.txt; falls back to "heuristic" if unavailable.
+alignment:
+  method: vecalign  # "vecalign" | "bertalign" | "heuristic"
 
 comparison:
   # Cutoffs for confidence_report.json. Predictions below a cutoff count as
@@ -81,28 +125,30 @@ discrepancy_diagnosis:
   model: gpt-5.2-diagnosis
   prompt_version: v1
 
+# Corpus-specific parameters. Folder locations are NOT set here: they come from
+# `project` above. The optional keys input_dir, markdown_input_dir, golden_csv,
+# index_schema and manual_overwrites override a derived location (repo-relative
+# or absolute) when a project needs it.
 paths:
-  # Raw OCR text: still the source of truth for discrepancy_diagnosis, and the
-  # input to the legacy raw-text translation path.
-  input_dir: data/indonesia/raw/localpolicies
-  # Curated Markdown corpus: the input to translation_md.
-  markdown_input_dir: data/indonesia/processed/cleaned_markdown
-  # markdown_input_dir: data/processed/globallaws_markdown
-  # localpolicies names files <POLICY>.cleaned.md; globallaws_markdown names
-  # them plain <name>.md, so the glob suffix needs to match. Defaults to
-  # ".cleaned.md" when omitted.
+  # localpolicies names files <POLICY>.cleaned.md; globallaws names them plain
+  # <name>.md, so the glob suffix needs to match. Defaults to ".cleaned.md".
   markdown_input_suffix: .cleaned.md
   # markdown_input_suffix: .md
   # Bare policy names (no suffix) that --small-scale selects, in every step.
-  # Belongs to the corpus, so change it together with markdown_input_dir and
+  # Belongs to the corpus, so change it together with project and
   # markdown_input_suffix. Defaults to the localpolicies set when omitted.
   small_scale_stems:
     - ACEH_BIREUEN
     - NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2
     - RIAU_PEKANBARU_KOTA
-  # small_scale_stems:  # globallaws_markdown
+  # small_scale_stems:  # globallaws
   #   - 21. Bosnia and Herzegovina - DomViol - Bosnian (b)
   #   - 94. Latvia - DomViol - Latvian (a)
   #   - 121. New Zealand - DomViol - English
-  golden_csv: data/indonesia/long_policy_encoding.csv
-  index_schema: data/indonesia/mapping/index_schema.yaml
+
+# Stage 3 (optional human adjustment). true: after translation the run pauses so you can edit
+# preprocessed/cleaned_markdown and preprocessed/translation_markdown; continue with --reviewed.
+# Either way, the `validate` step then checks the headings of each pair (log: preprocessed/header_check.log);
+# moving the pairs you accept to processed/ is up to you.
+human_review:
+  pause: false

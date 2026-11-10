@@ -1,0 +1,1128 @@
+# COPY
+
+COPY
+
+REGENT OF KEBUMEN
+
+CENTRAL JAVA PROVINCE
+
+REGIONAL REGULATION OF KEBUMEN REGENCY NUMBER 01 OF 2025
+
+CONCERNING
+
+IMPLEMENTATION OF PROTECTION AND EMPOWERMENT OF WOMEN BY THE GRACE OF ALMIGHTY GOD
+
+REGENT OF KEBUMEN,
+
+Considering : a. that women are citizens who have human rights that must be protected, respected, maintained, and must not be ignored, diminished, or deprived by anyone, thus requiring guaranteed protection from acts of violence, exploitation, and discrimination, and need to be empowered so they can actualize their potential optimally;
+
+b. that in society there are still many women who experience violence, discrimination, and injustice, and often face major obstacles in accessing adequate education, health, and social protection services, which negatively impact their welfare and personal development;
+
+c. that in order to protect and provide means for self-actualization of women in society in Kebumen Regency, regulations regarding protection and empowerment of women are needed;
+
+d. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to stipulate a Regional Regulation concerning Implementation of Protection and Empowerment of Women;
+
+In View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 13 of 1950 concerning the Establishment of Regency Regions within the Province of Central Java (State Gazette of the Republic of Indonesia of 1950 Number 42);
+
+3. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times, most recently by Law Number 6 of 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 of 2022 concerning Job Creation into Law (State Gazette
+
+of the Republic of Indonesia of 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);
+
+4. Law Number 11 of 2023 concerning Central Java Province (State Gazette of the Republic of Indonesia of 2023 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 6867);
+
+With Joint Approval
+
+REGIONAL HOUSE OF PEOPLE'S REPRESENTATIVES OF KEBUMEN REGENCY and
+
+REGENT OF KEBUMEN
+
+HAS DECIDED :
+
+To Stipulate : REGIONAL REGULATION CONCERNING IMPLEMENTATION OF PROTECTION AND EMPOWERMENT OF WOMEN.
+
+# CHAPTER I
+
+GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+- 1. Region is Kebumen Regency.
+- 2. Regent is the Regent of Kebumen.
+- 3. Regional Government is the Regent as an element of Regional Government administration who leads the implementation of governmental affairs which are the authority of the autonomous region.
+- 4. Regional House of Representatives, hereinafter abbreviated as DPRD, is the Regional House of Representatives of Kebumen Regency.
+- 5. Regional Apparatus is an auxiliary element of the Regent and DPRD in governmental affairs which are the authority of the region.
+- 6. Implementation is the execution of a matter carried out to achieve a goal.
+- 7. Woman is a person of female gender starting from infants, adolescents, adults to the elderly, who has been recognized by law.
+- 8. Protection of Women is all efforts aimed at protecting and providing a sense of security to women and the fulfillment of their rights through consistent, structured, and systematic attention aimed at achieving gender equality.
+- 9. Women's Empowerment is an effort to obtain access and control over resources, economy, politics, social, culture, so that women can self-regulate and increase self-confidence to be able to play a role and actively participate in solving problems, so as to be able to build capacity and self-concept.
+- 10. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of diminishing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.
+- 11. Gender Equality is an equal condition and position between men and women to obtain their rights as human beings, in accessing and controlling resources, participating in all development processes and decision-making, and obtaining benefits from development.
+- 12. Violence is any action that results in suffering or misery physically, sexually, mentally, psychologically, including intimidation, forced eviction, threats of certain actions, coercion or deprivation of freedom, neglect and hindering the ability to enjoy all rights and freedoms.
+- 13. Violence Against Women is any action based on gender differences that results in or may result in physical, sexual, and psychological suffering or misery to women, including threats of certain actions, arbitrary deprivation of freedom, whether occurring in the private or public sphere.
+- 14. Economic Violence is a form of violence in which the perpetrator controls, manipulates, or restricts the victim's access to economic resources with the aim of controlling and dominating the victim, including actions: taking full control over the victim's income, including salary, savings, or other financial assistance received by the victim, restricting or prohibiting the victim from owning or using money, so that the victim is entirely dependent on the perpetrator for financial needs, prohibiting or preventing the victim from working or continuing education with the aim of limiting the victim's financial independence, using the victim's assets or property for personal gain or damaging such assets as a form of punishment, and making all financial decisions without involving the victim, so that the victim has no control over household finances.
+- 15. Physical Violence is any action that results in pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causing death.
+- 16. Psychological Violence is an action that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or other psychological suffering in a person.
+- 17. Sexual Violence is any act in the form of rape, indecent acts, forced contraception, forced sterilization, sexual torture, sexual exploitation, sexual slavery, electronic-based sexual violence, acts violating decency contrary to the victim's will, forced prostitution, criminal acts of trafficking in persons aimed at sexual exploitation and other forms of sexual violence expressly referred to as criminal acts of sexual violence as regulated in statutory provisions.
+- 18. Family is the smallest unit in society consisting of husband, wife, or husband, wife and their children, or father and his children, or mother and her children, or blood relatives in a direct line upward or downward to the third degree.
+- 19. Household is husband, wife, children, persons who have family relationships by blood, marriage, breastfeeding, care, and guardianship representation, and/or domestic workers and reside in that household.
+- 20. Victim is a woman who experiences suffering and or misery either directly or indirectly as a result of violence.
+- 21. Women's Rights is a set of rights inherent to a woman or group of persons not to experience discrimination, suffering or misery either directly or indirectly committed by state officials or by the state or by regional government officials or individuals which constitute natural rights granted by God Almighty.
+- 22. Prevention is all efforts to prevent acts of violence, exploitation and discrimination against women and the recurrence of acts of violence, exploitation and discrimination against victims.
+- 23. Service is all efforts and actions to fulfill the rights of women victims of violence, exploitation and discrimination against women which includes complaint services, health, social rehabilitation, legal assistance and enforcement, repatriation, social reintegration, and restitution.
+- 24. Victim Recovery is all efforts and actions to strengthen the capacity of women victims of violence, exploitation and discrimination physically, psychologically, legally, socially, politically and economically so as to obtain a dignified and prosperous life.
+- 25. Integrated Service is the provision of integrated, multi-aspect, cross-functional and cross-sectoral services for victims, victim citizens, and/or witnesses of criminal acts of violence, exploitation and discrimination.
+- 26. Complaint is a series of reporting actions carried out by victims and/or companions to the organizers of the Integrated Service Center to follow up on reports of acts of violence against victims of violence.
+- 27. Health Rehabilitation is the recovery of victims of violence from health disorders they suffer. 28. Social Rehabilitation is a service aimed at restoring the psychological condition and developing the capacity of a person experiencing social dysfunction in order to be able to carry out their social functions properly.
+- 29. Legal Assistance is legal services provided by companions, law enforcement officials which includes providing legal consultation, exercising power of attorney, representing, accompanying, defending and taking other legal actions for victims of violence.
+- 30. Repatriation is an effort to return victims of violence from the receiving area/where the violence occurred to the area of origin or to the family.
+- 31. Social Reintegration is an effort to reunite victims of violence with family, community, institutions or other social environments that can provide protection.
+- 32. Exploitation is an action with or without the victim's consent which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the energy or abilities of a person by another party to obtain material or immaterial benefits.
+- 33. Discrimination as intended is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political belief, which results in the reduction, deviation or elimination of the recognition, implementation or exercise of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural fields, and other aspects of life.
+- 34. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is an operational technical implementation unit within a work unit that administers governmental affairs in the field of women's empowerment and child protection, which functions as an organizer of integrated services for women and children experiencing violence, discrimination, and other problems.
+- 35. Village/Sub-district Women and Children Protection Group, hereinafter abbreviated as KPPAD/KPPAK, is a community-based women and children protection institution that is based and carries out women and children protection work in the village/sub-district area according to residence.
+
+#### Article 2
+
+The Implementation of Protection and Empowerment of Women is based on:
+
+- a. respect for human rights;
+- b. non-discrimination;
+- c. gender justice and gender equality, and
+- d. benefit.
+
+#### Article 3
+
+(1) The Implementation of Protection and Empowerment of Women is intended to realize protection of women from acts of violence, exploitation and discrimination and to increase the capacity and welfare of Women in various aspects of life.
+
+(2) The implementation of protection and empowerment of women aims to:
+
+- a. prevent all forms of violence, exploitation, and discrimination against women;
+- b. provide services and recovery for victims; c. fulfill the special needs of women; and
+- d. improve the quality of life of women.
+  - (3) The scope of this Regional Regulation includes:
+- a. women's rights;
+- b. efforts to protect women;
+- c. empowerment of women;
+- d. obligations and responsibilities of Regional Government; e. institutions;
+- f. coordination and cooperation;
+- g. participation;
+- h. monitoring, evaluation, and reporting;
+- i. awards; and
+- j. funding.
+
+# CHAPTER II
+
+WOMEN'S RIGHTS
+
+## Part One
+
+Basic Rights of Women
+
+#### Article 4
+
+(1) Every person, both women and men, has the right and responsibility to create an environment that supports gender equality and the Empowerment of Women in various aspects of life including rights for every mother.
+
+(2) Every woman has the right:
+
+- a. to life;
+- b. to have a family and continue descendants;
+- c. to self-development;
+- d. to obtain justice;
+- e. to personal freedom;
+- f. to security;
+- g. to welfare; and
+- h. to participate in government.
+  - (3) The right to life as referred to in paragraph (2) letter a includes:
+- a. the right to sustain life and improve the standard of living;
+- b. the right to obtain a sense of tranquility, sense of security, sense of peace, happiness, physical and spiritual welfare; and
+- c. the right to a good and healthy environment.
+  - (4) The right to have a family and continue descendants as referred to in paragraph (2) letter b is the right to form a family and continue descendants through legitimate marriage in accordance with religion and the provisions of laws and regulations.
+  - (5) The right to self-development as referred to in paragraph (2) letter c includes:
+- a. the right of women to their basic needs to grow and develop properly;
+- b. the right to protection for personal development, to obtain education, to educate oneself and improve quality of life to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;
+- c. the right to develop and obtain benefits from science and technology, arts and culture in accordance with human dignity for the welfare of oneself, the nation, and humanity;
+- d. the right to communicate and obtain information necessary to develop one's person and social environment in accordance with religious, social, and legal norms;
+- e. the right to seek, obtain, possess, store, process, and convey information using all types of available means in accordance with religious, social, and legal norms;
+- f. the right to fight for the right to self-development, both individually and collectively, to build society, nation, and state in accordance with religious, social, and legal norms;
+- g. the right to perform social work in accordance with religious, social, and legal norms;
+- h. the right to participate in the planning and implementation of government policies in accordance with the provisions of laws and regulations;
+- i. the right to organize and form organizations in accordance with the provisions of laws and regulations; and
+- j. the right to organize education and teaching in accordance with religious, social, and legal norms.
+  - (6) The right to obtain justice as referred to in paragraph (2) letter d includes:
+- a. the right to receive equal treatment without discrimination;
+- b. the right to obtain justice;
+- c. the right to submit applications, complaints, and lawsuits, whether in criminal, civil, or administrative cases; and
+- d. the right to be tried through a free and impartial judicial process, in accordance with procedural law that guarantees objective examination by honest and fair judges to obtain a just and correct decision.
+  - (7) The right to personal freedom as referred to in paragraph (2) letter e includes:
+- a. the right not to be enslaved or subjugated, trafficked, and all acts with similar purposes;
+- b. the right to personal integrity, both spiritual and physical; c. the right not to become an object of research without consent; and
+- d. the right to freely express and convey opinions with regard to religious values, morality, public order, public interest, and national integrity.
+  - (8) The right to security as referred to in paragraph (2) letter f includes:
+- a. the right to protection of self, family, honor, dignity, and property rights;
+- b. the right to recognition before the law as a natural person; and
+- c. the right to be free from threats to do or not do something that violates religious, social, and legal norms. (9) The right to welfare as referred to in paragraph (2) letter g includes:
+- a. the right to have welfare, both individually and collectively; and
+- b. the right to perform work and receive fair wages in accordance with work that is comparable and commensurate with human dignity in accordance with the provisions of laws and regulations.
+  - (10) The right to participate in government as referred to in paragraph (2) letter h includes:
+- a. the right to be elected and to vote in general elections, regional head elections, and/or other political office elections based on equal rights through direct, general, free, secret, honest and fair voting according to applicable laws and regulations;
+- b. the right to have a career in government; and
+- c. the right to convey aspirations directly or through intermediaries in government.
+
+## Part Two
+
+Rights of Women with Disabilities
+
+#### Article 5
+
+(1) Every woman, including persons with disabilities and members of other social inclusion groups, has the right to obtain protection and empowerment in various aspects of life to ensure equality and social justice.
+
+(2) The rights as referred to in paragraph (1) include: a. accessing inclusive education at all units, paths, types, and levels of education without discrimination, with the support of inclusive facilities and infrastructure; b. obtaining decent work and livelihood in accordance with capacity, skills, and special needs, as well as a supportive work environment; c. obtaining equal treatment to play an active role in development and enjoy the results of development fairly;
+
+d. obtaining accessibility in various areas of life, including infrastructure, technology, transportation, public services, and information, to increase independence and social participation;
+
+e. obtaining equal treatment before the law, including legal protection that is sensitive to the needs of vulnerable groups;
+
+f. obtaining rehabilitation services, social assistance, and other support to improve welfare and social independence; and
+
+g. having equal opportunities in developing talents, abilities, and social life without structural or cultural barriers.
+
+(3) The Government, society, and business world must play an active role in realizing equality for women with disabilities and other social inclusion groups by providing inclusive and sustainable policies, programs, and services.
+
+## Part Three
+
+Rights and Forms of Violence, Exploitation, and Discrimination
+
+#### Article 6
+
+(1) Every Woman victim of Violence, Exploitation, and Discrimination has:
+
+- a. the right to handling;
+- b. the right to protection; and
+- c. the right to recovery.
+  - (2) The right to handling as referred to in paragraph (1) letter a includes:
+- a. the right to information regarding the entire process and results of Handling, Protection, and Recovery;
+- b. the right to obtain handling result documents; c. the right to legal services;
+- d. the right to psychological reinforcement;
+- e. the right to health services including examination, treatment, and medical care;
+- f. the right to services and facilities in accordance with the special needs of victims; and
+- g. the right to deletion of sexual content for cases of sexual violence using electronic media. (3) The right to protection as referred to in paragraph (1) letter b includes:
+- a. provision of information regarding rights and facilitation of protection;
+- b. provision of access to information on the implementation of protection;
+- c. protection from threats or violence by perpetrators and other parties as well as from recurring violence;
+- d. protection of identity confidentiality;
+- e. protection from attitudes and behaviors of law enforcement officials that demean victims;
+- f. protection from job loss, job transfer, education, or political access; and
+- g. protection of victims and/or reporters from criminal charges or civil lawsuits regarding criminal acts of sexual violence that have been reported;
+  - (4) The right to recovery as referred to in paragraph (1) letter c includes:
+- a. medical rehabilitation;
+- b. mental and social rehabilitation;
+- c. social empowerment;
+- d. restitution and/or compensation;
+- e. social reintegration; and
+- f. obtaining skills training for economic improvement for vulnerable women.
+
+#### Article 7
+
+(1) Forms of violence as referred to in Article 6 paragraph (1) include:
+
+- a. Physical violence;
+- b. Psychological violence;
+- c. Sexual violence; and
+- d. Economic violence.
+  - (2) Forms of exploitation as referred to in Article 6 paragraph (1) include:
+- a. exploiting female labor by providing inadequate wages, forcing excessive working hours, or not providing safe and healthy working conditions;
+- b. exploiting women for sexual purposes, through coercion, deception or pressure, including human trafficking for the purpose of prostitution or pornography production; and
+- c. unfairly exploiting women in economic transactions, such as providing loans with very high interest or manipulating the market for personal gain.
+  - (3) Forms of discrimination referred to in Article 6 paragraph (1) include: a. deprivation of life;
+- b. persecution;
+- c. rape;
+- d. indecent acts;
+- e. theft with violence; and
+- f. or deprivation of freedom
+
+# CHAPTER III
+
+WOMEN PROTECTION EFFORTS
+
+## Part One
+
+General
+
+#### Article 8
+
+The implementation of women's protection includes efforts to: a. prevent violence, exploitation, and discrimination; b. provide services to victims of violence, exploitation and discrimination; c. fulfill the special needs of women; and
+
+d. improve family quality.
+
+## Part Two
+
+Prevention of Violence, Exploitation and Discrimination Article 9
+
+(1) The Regional Government undertakes integrated efforts to prevent violence, exploitation and discrimination against women in the Region.
+
+(2) The prevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce the vulnerability to violence, exploitation and discrimination of vulnerable women groups.
+
+(3) Vulnerable women groups as referred to in paragraph (2) include:
+
+- a. women in disaster and social conflict situations; b. women with disabilities;
+- c. women with Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome (HIV/AIDS); d. women migrant workers;
+- e. girls;
+- f. women heads of households;
+- g. women domestic workers;
+- h. women home-based workers;
+- i. elderly women;
+- j. women informal workers;
+- k. women in situations of intolerance; and
+- l. other vulnerable women groups.
+  - (4) Prevention efforts as referred to in paragraph (1) are implemented through means including:
+- a. conducting coordination, integration, synchronization of prevention of acts of violence, exploitation and discrimination based on partnership patterns;
+- b. conducting socialization regarding laws and regulations related to the protection of women's rights.
+- c. building and providing a complete and easily accessible information system for the prevention of violence, exploitation and discrimination;
+- d. providing easy access to obtain civil rights, education, health, employment, training and funding, welfare improvement and services;
+- e. developing communication media, information, education, and public campaigns through media;
+- f. developing educational materials and curriculum; g. developing safe transportation systems and public spaces;
+- h. building early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;
+- i. providing consultation services for families, prospective brides and grooms, students, Islamic students, youth, university students and vulnerable groups;
+- j. encouraging behavioral change of parents and the community;
+- k. developing policies related to regencies, sub-districts, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with spatial planning policies;
+- l. forming and developing cadres, communities, and groups from among youth, students, Islamic students, university students, journalists, social media, educators, and religious leaders for prevention;
+- m. conducting education and advocacy to owners, managers and/or social media users;
+- n. developing special protection and support systems for vulnerable women groups;
+- o. conducting awareness raising for perpetrators;
+- p. increasing the capacity of Regional Apparatus, government agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, media, religious leaders, community leaders and communities; and
+- q. forming cooperation networks in prevention efforts from acts of violence, exploitation and discrimination with law enforcement officials, government agencies, Regional Apparatus, community institutions, educational institutions, community leaders, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, communities, and media.
+  - (5) Prevention efforts as referred to in paragraph (4) may involve Regional Apparatus, agencies, community institutions, educational institutions, community leaders, family learning centers, religious institutions, health service provision institutions, professional institutions, business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, communities, and media.
+  - (6) Further provisions regarding efforts to prevent violence, exploitation, and discrimination as referred to in paragraph (4) are regulated in the Regent's Regulation.
+
+#### Article 10
+
+Prevention of violence, exploitation, and discrimination against women is implemented in an integrated and coordinated manner coordinated by the Regional Apparatus that administers government affairs in the field of women's empowerment and child protection.
+
+## Part Three
+
+Services for Victims of Violence, Exploitation, and Discrimination Article 11
+
+(1) Services implemented to fulfill the rights of women victims are carried out with the following principles: a. respect for human rights;
+
+b. non-discrimination;
+
+c. confidentiality;
+
+d. empathy;
+
+e. inclusion;
+
+f. empowerment;
+
+g. victim-based decisions;
+
+h. honesty;
+
+i. professional;
+
+j. integration; and
+
+k. sustainability.
+
+(2) The provision of services to victims is carried out in an integrated manner by UPTD PPA.
+
+(3) In the provision of services as referred to in paragraph (1), UPTD PPA may cooperate with: a. public health centers, hospitals, and other health service facilities;
+
+b. technical implementing units in charge of affairs in the social field;
+
+c. detention houses, correctional institutions, and correctional centers;
+
+d. police;
+
+e. prosecutor's office;
+
+f. courts;
+
+g. technical implementing units of agencies organizing the protection of migrant workers;
+
+h. provincial regional offices of ministries organizing government affairs in the field of religion; i. regional offices and technical implementing units of ministries organizing government affairs in the field of law and human rights;
+
+j. social welfare organizing institutions; k. community-based service provider institutions; l. higher education institutions;
+
+m. mass media;
+
+n. religious organizations; and
+
+o. other institutions.
+
+#### Article 12
+
+(1) Forms of services for victims of violence, exploitation, and discrimination include:
+
+- a. receiving reports and outreach to Victims;
+- b. providing information about Victims' Rights;
+- c. facilitating the provision of health services;
+- d. facilitating the provision of psychological strengthening services; e. facilitating the provision of psychosocial services, social rehabilitation, and social reintegration;
+- f. providing legal services;
+- g. identifying economic empowerment needs; h. identifying temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately;
+- i. facilitating the needs of Victims with Disabilities; j. coordinating and cooperating on the fulfillment of Victims' Rights with other institutions; and
+- k. monitoring the fulfillment of Victims' Rights by law enforcement officials during the judicial process.
+  - (2) The implementation of forms of services for victims of violence, exploitation and discrimination as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.
+
+## Part Four
+
+Fulfillment of Special Needs of Women
+
+#### Article 13
+
+(1) The fulfillment of special needs of women relates to the protection of women from all things that may threaten the safety and/or health of women's reproductive organs.
+
+(2) The fulfillment of special needs as referred to in paragraph (1) consists of:
+
+- a. health services, especially family planning services, pregnancy, childbirth, post-childbirth, breastfeeding and menstruation;
+- b. fulfillment of the right to obtain paid leave including maternity leave; and
+- c. provision of special facilities and infrastructure for women.
+
+## Part Five
+
+Family Quality Improvement
+
+#### Article 14
+
+(1) The implementation of family quality improvement aims to: a. integrate policies, programs, and development activities whose targets are aimed at improving family quality;
+
+b. strengthen and develop institutions providing family quality improvement services; and
+
+c. provide standardized family quality improvement services.
+
+(2) Provisions regarding family quality improvement shall be implemented in accordance with the provisions of laws and regulations.
+
+# CHAPTER IV
+
+WOMEN EMPOWERMENT
+
+## Part One
+
+General
+
+#### Article 15
+
+(1) Women empowerment is carried out in an effort to improve the quality of life of women.
+
+(2) In order to improve the quality of life of women as referred to in paragraph (1), the Regional Government is responsible for:
+
+- a. respecting and guaranteeing the rights of women without discrimination in accordance with human dignity;
+- b. implementing gender mainstreaming in the Region; c. increasing women's empowerment in roles, quality, and capacity in the fields of:
+  - 1. health;
+  - 2. education;
+  - 3. economy;
+  - 4. law;
+  - 5. labor;
+  - 6. politics;
+  - 7. governance;
+  - 8. social;
+  - 9. culture; and
+  - 10. environment.
+
+## Part Two
+
+Increasing Women's Empowerment in the Health Field Article 16
+
+(1) The implementation of Women's Empowerment in the health field as referred to in Article 15 paragraph (2) letter c number 1 is carried out by Regional Apparatus organizing government affairs in the health field.
+
+(2) The form of empowerment in the health field as referred to in paragraph (1) consists of health services that are healthy, safe, and free from coercion and/or violence, including for persons with disabilities, the elderly, and women with psychological problems.
+
+(3) Health services as referred to in paragraph (2) include:
+
+- a. health services according to life cycle starting from women's health services during infancy and childhood, adolescence, adulthood and old age;
+- b. maternal health services starting from pre-pregnancy, pregnancy, childbirth and post-childbirth periods;
+- c. contraception and sexual health services;
+- d. reproductive health services;
+- e. health services in family planning; f. nutrition services;
+- g. dental and oral health services;
+- h. vision and hearing health services; i. mental health services;
+- j. communicable disease control services and non-communicable disease control;
+- k. family health services;
+- l. school health services;
+- m. occupational health services;
+- n. sports health services;
+- o. environmental health services;
+- p. dimensional health services;
+- q. health services in disasters;
+- r. blood services;
+- s. organ and/or body tissue transplantation services, cell-based and/or stem cell therapy, as well as reconstructive and aesthetic plastic surgery;
+- t. traditional health services;
+- u. other health services;
+- v. services and provision of adequate lactation rooms at every Regional Government institution, public facilities and industry; and
+- w. health services are provided with consideration of the special needs of persons with disabilities, the elderly, and women with psychological problems to ensure accessibility and equal quality of service.
+  - (4) Health services as referred to in paragraph (2) are implemented through promotive, preventive, curative, and rehabilitative approaches.
+
+## Part Three
+
+Increasing Women's Empowerment in the Education Field Article 17
+
+(1) The implementation of Women's Empowerment in the education field as referred to in Article 15 paragraph (2) letter c number 2 is carried out by Regional Apparatus organizing government affairs in the education field in the form of organizing formal and non-formal education.
+
+(2) Non-formal education as referred to in paragraph (1) aims to improve women's capabilities.
+
+## Part Four
+
+Increasing Women's Empowerment in the Economic Field Article 18
+
+The implementation of women's empowerment in the economic field as referred to in Article 15 paragraph (2) letter c number 3 is carried out by Regional Apparatus organizing government affairs in the field of micro, small and medium enterprises and related agencies in the form of:
+
+- a. facilitating the formation and strengthening of productive economic business groups; and
+- b. facilitating the development of marketing networks.
+
+## Part Five
+
+Increasing Women's Empowerment in the Legal Field Article 19
+
+The implementation of Women's Empowerment in the legal field as referred to in Article 15 paragraph (2) letter c number 4 is carried out by work units in charge of law in the form of:
+
+- a. increasing awareness and knowledge in the legal field through communication, information, and education services; and b. facilitating access and legal consultation services.
+
+## Part Six
+
+Enhancement of Women's Empowerment in the Field of Manpower Article 20
+
+Implementation of Women's Empowerment in the field of manpower as referred to in Article 15 paragraph (2) letter c number 5 is carried out by the Regional Apparatus that conducts governmental affairs in the field of manpower and related agencies in the form of:
+
+- a. provision of skills and work training;
+- b. women have equal opportunities without discrimination to obtain employment; and
+- c. employers who employ female workers, provide access and skills training.
+
+## Part Seven
+
+Enhancement of Women's Empowerment in the Field of Politics and Governance
+
+#### Article 21
+
+(1) Implementation of Women's Empowerment in the field of politics and governance as referred to in Article 15 paragraph (2) letter c number 6 and number 7 is carried out by the Regional Apparatus that conducts governmental affairs in the field of national unity and politics, Regional Apparatus and related agencies in the form of:
+
+- a. capacity development of women in the field of politics; b. self-development through organizations to associate, assemble, express opinions;
+- c. involvement of women in public decision-making;
+- d. provision of access for women to hold public office; and
+- e. participation in general elections, regional head elections and other political positions in the Region.
+  - (2) Regional Government and/or political parties are responsible for providing political education for women.
+
+## Part Eight
+
+Enhancement of Women's Empowerment in the Field of Social Affairs Article 22
+
+Implementation of Women's Empowerment in the field of social affairs as referred to in Article 15 paragraph (2) letter c number 8 is carried out by the Regional Apparatus that conducts governmental affairs in the field of social affairs and related agencies in the form of:
+
+- a. awareness-raising efforts and capacity building in the social field;
+- b. provision and development of access for women to participate in the social field;
+- c. enhancement of women's competence through training and social education for women;
+- d. involvement of women in social activities; and e. developing forums or institutions for women in the social field.
+
+## Part Nine
+
+Enhancement of Women's Empowerment in the Field of Culture Article 23
+
+Implementation of Women's Empowerment in the field of culture as referred to in Article 15 paragraph (2) letter c number 9 is carried out by the Regional Apparatus that conducts governmental affairs in the field of culture and related agencies in the form of:
+
+- a. awareness-raising efforts and capacity building in the cultural field;
+- b. provision and development of access for women to participate in the cultural field;
+- c. enhancement of women's competence through training and cultural literacy education for women;
+- d. involvement of women in cultural activities; and e. developing forums or institutions for women in the cultural field.
+
+## Part Ten
+
+Enhancement of Women's Empowerment in the Field of
+
+Environment
+
+#### Article 24
+
+Implementation of Women's Empowerment in the field of environment as referred to in Article 15 paragraph (2) letter c number 10 is carried out by the Regional Apparatus that conducts governmental affairs in the field of environment and related agencies in the form of:
+
+- a. awareness-raising and formation of environmentally conscious behavior among women;
+- b. capacity and competence enhancement of women through environmental training and education;
+- c. provision and development of access for women to participate in the environmental field;
+- d. involvement of women in environmental activities; and e. developing forums or institutions for women in the environmental field.
+
+# CHAPTER V
+
+OBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT Article 25
+
+Obligations of Regional Government in the implementation of protection and empowerment of women are as follows:
+
+- a. ensure the implementation of fulfillment of women's rights and provision of security guarantees from acts of violence, exploitation and discrimination against women in the Region;
+- b. establish policies, programs, activities for the implementation of protection and empowerment of women as well as guarantees for victim handling to eliminate all forms of violence, exploitation, and discrimination against women in the Region; and
+- c. provide guidance and supervision in efforts to implement protection and empowerment of women conducted by the Regional Apparatus that conducts governmental affairs in the field of women's empowerment.
+
+#### Article 26
+
+Regional Government is responsible for:
+
+- a. implementing policies, programs, activities for the implementation of protection and empowerment of women in order to realize the fulfillment of women's rights;
+- b. facilitating facilities and infrastructure for the implementation of protection and empowerment of women; and
+- c. applying service standards for the implementation of protection and empowerment of women in accordance with the provisions of laws and regulations.
+
+# CHAPTER VI
+
+INSTITUTIONAL ARRANGEMENTS
+
+## Part One
+
+General
+
+#### Article 27
+
+In the context of implementing protection and empowerment of women, the Regional Government establishes:
+
+- a. UPTD PPA;
+- b. Women and Children Protection Forum;
+- c. Village/Sub-district Women and Children Protection Group; and
+- d. Other women's protection and empowerment institutions in accordance with the provisions of laws and regulations.
+
+## Part Two
+
+UPTD PPA
+
+#### Article 28
+
+(1) Regional Government in an effort to provide and implement protection services for women victims of violence, exploitation and violence establishes UPTD PPA.
+
+(2) UPTD PPA as referred to in paragraph (1) is under and responsible to the head of the Regional Apparatus that conducts governmental affairs in the field of women's empowerment and children's protection.
+
+(3) Further provisions regarding the establishment, principal tasks and functions as well as management of UPTD PPA as referred to in paragraph (1) are regulated by Regent Regulation.
+
+## Part Three
+
+Women and Children Protection Forum
+
+#### Article 29
+
+(1) Regional Government conducts coordination in handling protection services for women victims of violence, exploitation, and discrimination at the sub-district level by establishing a women and children protection forum.
+
+(2) Membership of the women and children protection forum as referred to in paragraph (1) consists of elements of Sub-district, Sector Police, Military District Command, Public Health Center, Office of Religious Affairs and other elements.
+
+## Part Four
+
+Village/Sub-district Women and Children Protection Group Article 30
+
+(1) Regional Government in an effort to provide and implement protection services for women victims of violence, exploitation and discrimination establishes KPPAD/KPPAK.
+
+(2) KPPAD/KPPAK as referred to in paragraph (1) is under and responsible to the Regional Apparatus that conducts governmental affairs in the field of women's empowerment and children's protection through the Village Head/Sub-district Head with the knowledge of the local Sub-district Head.
+
+(3) KPPAD/KPPAK as referred to in paragraph (2) has the tasks of:
+
+- a. conducting advocacy, mediation, socialization, and facilitation regarding the need for fulfillment of women's and children's rights, as well as the right of participation of women and children in development;
+- b. collecting data and information related to the protection of women and children;
+- c. receiving complaints from the community;
+- d. conducting cooperation and coordination in implementing the fulfillment of women's and children's rights in accordance with applicable laws and regulations; and
+- e. making referrals on cases that cannot be resolved by KPPAD/KPPAK to UPTD PPA. (4) Further provisions regarding the establishment, principal tasks and functions as well as management of KPPAD/KPPAK as referred to in paragraph (1) are regulated in Regent Regulation.
+
+# CHAPTER VII
+
+COORDINATION AND COOPERATION
+
+## Part One
+
+Coordination
+
+#### Article 31
+
+In the context of organizing the protection and empowerment of women, the Regional Government carries out coordination with the central government, provincial government, other regency/city governments, relevant agencies, law enforcement institutions, service institutions, educational institutions, religious institutions, community social institutions, Islamic boarding schools, professional organizations, legal aid organizations, youth organizations, broadcasting supervisory institutions, media, communities, professional institutions, business sector and other stakeholders.
+
+## Part Two
+
+Cooperation
+
+#### Article 32
+
+(1) In the context of organizing the protection and empowerment of women, the Regional Government may conduct cooperation.
+
+(2) The cooperation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.
+
+# CHAPTER VIII
+
+PARTICIPATION
+
+#### Article 33
+
+(1) Every person and/or legal entity may participate in the organization of protection and empowerment of women in the Region.
+
+(2) The participation as referred to in paragraph (1) shall be conducted by individuals, groups or community social organizations, non-governmental organizations, educational institutions, law enforcement institutions, service institutions, religious institutions, Islamic boarding schools, professional organizations, legal aid organizations, youth organizations, broadcasting supervisory institutions, media, communities, professional institutions, business sector and other related stakeholders.
+
+(3) The participation as referred to in paragraph (1) may be in the form of: a. providing information or reporting to the authorized agency if aware of acts of violence, exploitation and discrimination against women;
+
+b. conducting prevention actions against violence towards women; and
+
+c. conducting skills training.
+
+# CHAPTER IX
+
+MONITORING, EVALUATION, AND REPORTING
+
+## Part One
+
+Monitoring
+
+#### Article 34
+
+(1) To ensure synergy, continuity and effectiveness in the implementation of policies, programs and activities for organizing the protection and empowerment of women, the Regional Government shall conduct monitoring.
+
+(2) The monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs and activities for organizing the protection and empowerment of women in the Region.
+
+(3) The monitoring as referred to in paragraph (2) shall be conducted periodically from the planning stage up to the policies, programs and activities for organizing the protection and empowerment of women for the current year.
+
+## Part Two
+
+Evaluation
+
+#### Article 35
+
+(1) Evaluation of the implementation of policies, programs and activities for the protection and empowerment of women shall be conducted by the Regional Apparatus organizing governmental affairs in the field of women's empowerment periodically.
+
+(2) The results of the evaluation of the implementation of policies, programs and activities for organizing the protection and empowerment of women shall be used as input material for the formulation of policies, programs and activities.
+
+## Part Three
+
+Reporting
+
+#### Article 36
+
+(1) To enhance coordination in organizing services for women in the Region, the Regional Apparatus organizing governmental affairs in the field of women's empowerment shall submit reports to the Regent.
+
+(2) The reporting as referred to in paragraph (1) shall include the organization of handling issues related to the protection and empowerment of women in the Region.
+
+# CHAPTER X
+
+AWARDS
+
+#### Article 37
+
+(1) The Regent shall grant awards to persons, educational institutions, religious institutions, health service provider institutions, professional institutions and business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, communities, and media that have rendered services in efforts to organize the protection and empowerment of women;
+
+(2) Further provisions regarding the procedures for granting awards shall be regulated in a Regent Regulation.
+
+# CHAPTER XI
+
+FUNDING
+
+#### Article 38
+
+Funding for organizing the protection and empowerment of women in the Region shall be sourced from:
+
+- a. Regional Revenue and Expenditure Budget; and/or b. other legal and non-binding sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER XII
+
+CLOSING PROVISIONS
+
+#### Article 39
+
+Implementing regulations of this Regional Regulation must be established no later than 1 (one) year from the promulgation of this Regional Regulation.
+
+#### Article 40
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered, with its placement in the Regional Gazette of Kebumen Regency.
+
+Enacted in Kebumen on 27 May 2025
+
+REGENT OF KEBUMEN,
+
+sgd.
+
+LILIS NURYANI
+
+Promulgated in Kebumen on 27 May 2025
+
+REGIONAL SECRETARY
+
+OF KEBUMEN REGENCY
+
+sgd.
+
+EDI RIANTO
+
+REGIONAL GAZETTE OF KEBUMEN REGENCY YEAR 2025 NUMBER 01 REGISTRY NUMBER OF REGIONAL REGULATION OF KEBUMEN REGENCY, CENTRAL JAVA PROVINCE: (1-35/2025)
+
+True copy of the original
+
+HEAD OF LEGAL DIVISION
+
+REGIONAL SECRETARIAT OF KEBUMEN REGENCY,
+
+sgd.
+
+AKHMAD HARUN, S.H.
+
+Supervisor Level I
+
+NIP 19690809 199803 1 006
+
+ELUCIDATION
+
+ON
+
+REGIONAL REGULATION OF KEBUMEN REGENCY
+
+NUMBER 01 OF 2025
+
+CONCERNING
+
+ORGANIZATION OF PROTECTION AND EMPOWERMENT OF WOMEN
+
+I. GENERAL
+
+Women constitute an inseparable part of citizens who possess human rights that must be safeguarded and fulfilled without exception. However, various issues such as violence, exploitation, and discrimination are still frequently experienced by women in Kebumen Regency. In addition, access to educational services, health, employment, and participation in development is also still limited, which causes gender inequality and impacts the low quality of life of women. This Regional Regulation is formulated as a manifestation of the Regional Government's responsibility in providing guarantees for the protection of women's rights and creating a fair, inclusive system that sides with vulnerable groups. This Regional Regulation aims to prevent acts of violence, exploitation, and discrimination against women, provide services and recovery for victims, fulfill the special needs of women, and enhance the welfare and quality of life of women comprehensively and sustainably.
+
+It is expected that through this Regional Regulation it can become a comprehensive legal foundation to strengthen protection efforts and encourage the empowerment of women to be empowered and independent in all aspects of life.
+
+II. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear.
+
+#### Article 2
+
+Letter a
+
+What is meant by respect for human rights is respect for, upholding the human rights inherent in citizens, and protecting dignity and honor as human beings.
+
+Letter b
+
+What is meant by non-discrimination is protection for all women without distinguishing ethnicity, religion, belief, race, class, sex, ethnicity, culture and language, political choice, legal status and physical or mental condition. Special treatment or actions for vulnerable women's groups with the aim that they obtain equality of rights is not included as an act of discrimination.
+
+Letter c
+
+What is meant by gender justice is fair treatment given to women and men.
+
+What is meant by gender equality is a condition and position that depicts equal, harmonious and balanced relations between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, and in society, nationhood and statehood.
+
+Letter d
+
+What is meant by usefulness is the organization of protection for women that provides benefits to women in the form of welfare, equality and justice, security and avoidance of all forms of violence, exploitation and discrimination.
+
+#### Article 3
+
+Sufficiently clear
+
+#### Article 4
+
+Sufficiently clear
+
+#### Article 5
+
+Sufficiently clear.
+
+#### Article 6
+
+Sufficiently clear.
+
+#### Article 7
+
+Sufficiently clear.
+
+#### Article 8
+
+Sufficiently clear.
+
+#### Article 9
+
+Verse (1) Sufficiently clear. Verse (2) Sufficiently clear. Verse (3) Sufficiently clear. Verse (4) Subparagraph a Sufficiently clear. Subparagraph b Sufficiently clear. Subparagraph c Sufficiently clear. Subparagraph d Sufficiently clear. Subparagraph e Sufficiently clear. Subparagraph f Sufficiently clear. Subparagraph g Sufficiently clear. Subparagraph h Sufficiently clear. Subparagraph i Sufficiently clear. Subparagraph j Sufficiently clear. Subparagraph k Sufficiently clear. Subparagraph l What is meant by social media influencers are individuals or groups who have the ability to influence the wider community through social media (youtube, instagram, facebook, twitter, web, and vlog as well as other social media) including bloggers, youtubers, vloggers, celebrities and experts who generally have a large number of followers.
+
+Subparagraph m Sufficiently clear. Subparagraph n What is meant by special support includes the provision of clothing, food, sanitation facilities, mobility support, communication support, special service assistance and other infrastructure to prevent violence, exploitation and discrimination against women in vulnerable situations.
+
+Subparagraph o Sufficiently clear. Subparagraph p Sufficiently clear. Subparagraph q Sufficiently clear. Verse (5) Sufficiently clear. Verse (6) Sufficiently clear.
+
+#### Article 10
+
+Sufficiently clear.
+
+#### Article 11
+
+Verse (1)
+
+Subparagraph a
+
+What is meant by respect for human rights is the right not to be prosecuted on the basis of retroactive law, which may be exempted in serious violations of human rights classified as crimes against humanity.
+
+Subparagraph b
+
+Sufficiently clear.
+
+Subparagraph c
+
+Sufficiently clear.
+
+Subparagraph d
+
+Sufficiently clear.
+
+Subparagraph e
+
+What is meant by inclusion is the implementation of women's protection carried out by inviting and involving all people with various diversities of abilities, backgrounds, characteristics, status, conditions, ethnicity, culture and others as well as facilitating special needs based on such diversity and eliminating barriers that may obstruct the equality of every woman in obtaining her rights.
+
+Subparagraph f
+
+Sufficiently clear.
+
+Subparagraph g
+
+What is meant by victim-based decisions is that decision-making regarding services provided must be based on approval/confirmation with the victim.
+
+Subparagraph h
+
+Sufficiently clear.
+
+Subparagraph i
+
+Sufficiently clear.
+
+Subparagraph j
+
+What is meant by integration is services to women victims carried out by various elements or components that integrate or cooperate harmoniously and synergistically to achieve specific goals in accordance with the needs of victims.
+
+Subparagraph k
+
+What is meant by sustainability is services to women victims carried out thoroughly and completely in accordance with the needs of victims and have interconnections between one form of service and another form of service.
+
+Verse (2)
+
+Sufficiently clear.
+
+Verse (3)
+
+Sufficiently clear.
+
+#### Article 12
+
+Sufficiently clear.
+
+#### Article 13
+
+Sufficiently clear.
+
+#### Article 14
+
+Sufficiently clear.
+
+#### Article 15
+
+Sufficiently clear.
+
+#### Article 16
+
+Verse (1)
+
+Sufficiently clear.
+
+Verse (2)
+
+Sufficiently clear.
+
+Verse (3)
+
+Subparagraph a
+
+Sufficiently clear.
+
+Subparagraph b
+
+Sufficiently clear.
+
+Subparagraph c
+
+Sufficiently clear.
+
+Subparagraph d
+
+Sufficiently clear.
+
+Subparagraph e
+
+Sufficiently clear.
+
+Subparagraph f
+
+What is meant by nutritional services includes the provision of blood-boosting tablets to adolescent girls, women of childbearing age and pregnant women.
+
+Subparagraph g
+
+Sufficiently clear.
+
+Subparagraph h
+
+Sufficiently clear.
+
+Subparagraph i
+
+Sufficiently clear.
+
+Subparagraph j
+
+Sufficiently clear.
+
+Subparagraph k
+
+Sufficiently clear.
+
+Subparagraph l
+
+Sufficiently clear.
+
+Subparagraph m
+
+Sufficiently clear.
+
+Subparagraph n
+
+Sufficiently clear.
+
+Subparagraph o
+
+Sufficiently clear.
+
+Subparagraph p
+
+Sufficiently clear.
+
+Subparagraph q
+
+Sufficiently clear.
+
+Subparagraph r
+
+Sufficiently clear.
+
+Subparagraph s
+
+Sufficiently clear.
+
+Subparagraph t
+
+Sufficiently clear.
+
+Subparagraph u
+
+Sufficiently clear.
+
+Subparagraph v
+
+Sufficiently clear.
+
+Subparagraph w
+
+Sufficiently clear.
+
+Verse (4)
+
+Sufficiently clear.
+
+#### Article 17
+
+Sufficiently clear.
+
+#### Article 18
+
+What is meant by related agencies are agencies that have a role in implementing women's empowerment in the economic sector, including State-Owned Enterprises, Regional-Owned Enterprises, associations of micro, small and medium enterprises, as well as universities and/or training institutions.
+
+#### Article 19
+
+What is meant by work units in the legal sector are agencies that have a role in implementing women's empowerment in the legal sector, including the Legal Division of the Regional Secretariat, law enforcement officials, police, state prosecutor's office, district court, religious court, and legal aid institutions, which may coordinate with universities, non-governmental organizations and the national commission on women.
+
+#### Article 20
+
+What is meant by related agencies are agencies that have a role in implementing women's empowerment in the employment sector, including Regional Apparatus that administer governmental affairs in the employment sector, Job Training Centers, cooperatives and micro, small and medium enterprises, State-Owned Enterprises, Regional-Owned Enterprises, women's organizations, Employment Social Security Administration Body and Health Social Security Administration Body, as well as other agencies that have a role in efforts to implement women's empowerment in the employment sector.
+
+#### Article 21
+
+What is meant by related agencies are agencies that have a role in implementing women's empowerment in the national unity and politics sector, as well as other agencies and institutions including the General Elections Commission, Election Supervisory Body, political organizations, and the community involved in political parties, non-governmental organizations, women's associations or organizations, universities or research institutions, as well as mass media.
+
+#### Article 22
+
+What is meant by related agencies are agencies that have a role in implementing women's empowerment in the social sector, including women and child protection institutions, legal aid organizations and victim of violence assistance, safe houses (shelters) that handle gender-based violence victims, psychology practitioners and counselors, universities/educational institutions, community organizations, Family Welfare Empowerment, gender study centers at universities, family counseling consultation institutions, religious organizations that have women's empowerment programs, social rehabilitation centers.
+
+#### Article 23
+
+What is meant by related agencies are agencies that have a role in implementing women's empowerment in the arts and culture sector, including universities/academic institutions, non-governmental organizations, youth organizations and local cultural organizations.
+
+#### Article 24
+
+What is meant by related agencies are agencies that have a role in implementing women's empowerment in the environmental sector, including universities/academic institutions, non-governmental organizations, community organizations concerned with the environment.
+
+#### Article 25
+
+Sufficiently clear.
+
+#### Article 26
+
+Sufficiently clear.
+
+#### Article 27
+
+Subparagraph a Sufficiently clear. Subparagraph b Sufficiently clear. Subparagraph c Sufficiently clear. Subparagraph d What is meant by other women's protection and empowerment institutions are institutions or organizations that provide services, counseling, consultation, provision or dissemination of information, outreach and empowerment for families proportionally, including referring targets to other service institutions needed by families whose establishment is in accordance with the provisions of laws and regulations.
+
+#### Article 28
+
+Sufficiently clear.
+
+#### Article 29
+
+Verse (1)
+
+Sufficiently clear.
+
+Verse (2)
+
+What is meant by other elements are related Regional Government offices or work units, community social institutions and/or women's organizations, community leaders, religious leaders, representatives of disability groups and parties who have interests therein.
+
+#### Article 30
+
+Sufficiently clear.
+
+#### Article 31
+
+Sufficiently clear.
+
+#### Article 32
+
+Sufficiently clear.
+
+#### Article 33
+
+Sufficiently clear.
+
+#### Article 34
+
+Sufficiently clear.
+
+#### Article 35
+
+Paragraph (1)
+
+What is meant by "periodically" is the time to conduct monitoring and evaluation at least once every 3 (three) months or at any time when necessary.
+
+Paragraph (2)
+
+Sufficiently clear.
+
+#### Article 36
+
+Sufficiently clear.
+
+#### Article 37
+
+Sufficiently clear.
+
+#### Article 38
+
+Sufficiently clear.
+
+#### Article 39
+
+Sufficiently clear.
+
+#### Article 40
+
+Sufficiently clear.
+
+SUPPLEMENT TO THE REGIONAL GAZETTE OF KEBUMEN REGENCY NUMBER 222

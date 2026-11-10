@@ -1,0 +1,951 @@
+{
+  "policy_file": "143. San Marino - DomViol - Italian (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:55:35.569082+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Domestic violence shall mean any act of physical, sexual, psychological or economic violence that occurs within the family or domestic unit or between current or former spouses or partners considered equivalent to a spouse, regardless of whether the perpetrator of the violence is or was cohabiting with the victim.\nWhoever uses ill-treatment against a person of the family or in any case cohabiting, or against a person who was or is bound by an emotional relationship, even not implying cohabitation, is punished with imprisonment of the second degree.",
+      "rationale": "The text contains operative provisions that explicitly define “domestic violence” and also criminalise/penalise ill-treatment against family members/cohabitants in a provision explicitly framed as domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Costituisce violenza domestica l’atto di violenza fisica, sessuale, psicologica o economica che si verifica all’interno della famiglia o del nucleo familiare o tra attuali o precedenti coniugi o partner considerati equivalenti al coniuge, indipendentemente dal fatto che l’autore della violenza sia o sia stato convivente della vittima.\n\nChiunque usa maltrattamenti ad una persona della famiglia o comunque convivente, o contro persona che era o è legata da una relazione affettiva, anche non implicante la coabitazione, è punito con la prigionia di secondo grado.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Violence against a person shall mean any act of violence based on sex or gender that results in, or is likely to result in, physical, sexual, psychological or economic harm or suffering to the victim, including threats of such acts, coercion, arbitrary deprivation of liberty, whether occurring in public or in private life.\nDomestic violence shall mean any act of physical, sexual, psychological or economic violence that occurs within the family or domestic unit or between current or former spouses or partners considered equivalent to a spouse, regardless of whether the perpetrator of the violence is or was cohabiting with the victim.",
+      "rationale": "The operative definition of violence against a person explicitly includes “sexual” harm, and the operative definition of domestic violence explicitly includes “sexual” violence, indicating sexual violence is covered within the legal framework’s scope of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Costituisce violenza nei confronti della persona ogni atto di violenza fondato sull’appartenenza sessuale o di genere che comporta o è suscettibile di comportare, per chi ne è bersaglio, danni o sofferenze di natura fisica, sessuale, psicologica o economica, ivi compresa la minaccia di mettere in atto tali atti, la coercizione, la privazione arbitraria della libertà, sia nella vita pubblica che nella vita privata.\n\nCostituisce violenza domestica l’atto di violenza fisica, sessuale, psicologica o economica che si verifica all’interno della famiglia o del nucleo familiare o tra attuali o precedenti coniugi o partner considerati equivalenti al coniuge, indipendentemente dal fatto che l’autore della violenza sia o sia stato convivente della vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Violence against a person shall mean any act of violence based on sex or gender that results in, or is likely to result in, physical, sexual, psychological or economic harm or suffering to the victim, including threats of such acts, coercion, arbitrary deprivation of liberty, whether occurring in public or in private life.\nDomestic violence shall mean any act of physical, sexual, psychological or economic violence that occurs within the family or domestic unit or between current or former spouses or partners considered equivalent to a spouse, regardless of whether the perpetrator of the violence is or was cohabiting with the victim.",
+      "rationale": "The operative definition of violence against a person includes “physical” harm, and the operative definition of domestic violence includes “physical” violence, thereby substantively covering physical violence as a form of violence within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Costituisce violenza nei confronti della persona ogni atto di violenza fondato sull’appartenenza sessuale o di genere che comporta o è suscettibile di comportare, per chi ne è bersaglio, danni o sofferenze di natura fisica, sessuale, psicologica o economica, ivi compresa la minaccia di mettere in atto tali atti, la coercizione, la privazione arbitraria della libertà, sia nella vita pubblica che nella vita privata.\n\nCostituisce violenza domestica l’atto di violenza fisica, sessuale, psicologica o economica che si verifica all’interno della famiglia o del nucleo familiare o tra attuali o precedenti coniugi o partner considerati equivalenti al coniuge, indipendentemente dal fatto che l’autore della violenza sia o sia stato convivente della vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Violence against a person shall mean any act of violence based on sex or gender that results in, or is likely to result in, physical, sexual, psychological or economic harm or suffering to the victim, including threats of such acts, coercion, arbitrary deprivation of liberty, whether occurring in public or in private life.\nDomestic violence shall mean any act of physical, sexual, psychological or economic violence that occurs within the family or domestic unit or between current or former spouses or partners considered equivalent to a spouse, regardless of whether the perpetrator of the violence is or was cohabiting with the victim.",
+      "rationale": "The operative definition of violence against a person includes “psychological” harm, and the operative definition of domestic violence includes “psychological” violence, which substantively addresses psychological violence as a covered form of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Costituisce violenza nei confronti della persona ogni atto di violenza fondato sull’appartenenza sessuale o di genere che comporta o è suscettibile di comportare, per chi ne è bersaglio, danni o sofferenze di natura fisica, sessuale, psicologica o economica, ivi compresa la minaccia di mettere in atto tali atti, la coercizione, la privazione arbitraria della libertà, sia nella vita pubblica che nella vita privata.\n\nCostituisce violenza domestica l’atto di violenza fisica, sessuale, psicologica o economica che si verifica all’interno della famiglia o del nucleo familiare o tra attuali o precedenti coniugi o partner considerati equivalenti al coniuge, indipendentemente dal fatto che l’autore della violenza sia o sia stato convivente della vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Violence against a person shall mean any act of violence based on sex or gender that results in, or is likely to result in, physical, sexual, psychological or economic harm or suffering to the victim, including threats of such acts, coercion, arbitrary deprivation of liberty, whether occurring in public or in private life.\nDomestic violence shall mean any act of physical, sexual, psychological or economic violence that occurs within the family or domestic unit or between current or former spouses or partners considered equivalent to a spouse, regardless of whether the perpetrator of the violence is or was cohabiting with the victim.",
+      "rationale": "The operative definition of violence against a person includes “economic harm or suffering,” and the operative definition of domestic violence includes “economic violence,” which meets the criterion for substantive inclusion of economic violence in the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Costituisce violenza nei confronti della persona ogni atto di violenza fondato sull’appartenenza sessuale o di genere che comporta o è suscettibile di comportare, per chi ne è bersaglio, danni o sofferenze di natura fisica, sessuale, psicologica o economica, ivi compresa la minaccia di mettere in atto tali atti, la coercizione, la privazione arbitraria della libertà, sia nella vita pubblica che nella vita privata.\n\nCostituisce violenza domestica l’atto di violenza fisica, sessuale, psicologica o economica che si verifica all’interno della famiglia o del nucleo familiare o tra attuali o precedenti coniugi o partner considerati equivalenti al coniuge, indipendentemente dal fatto che l’autore della violenza sia o sia stato convivente della vittima.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Anyone who performs on another person, or forces another person to undergo, excision, infibulation or any other mutilation of all or part of the labia majora, labia minora or removal of the clitoris, shall be punished with imprisonment and disqualification of the third degree.\nAnyone who forces a person to marry shall be punished with imprisonment of the third degree.",
+      "rationale": "The framework contains operative criminal provisions addressing recognised harmful practices, including female genital mutilation and forced marriage, satisfying the criterion’s requirement that at least one harmful practice be criminalised or otherwise regulated.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Chiunque pratichi a danno di altra persona, o la costringa a subire, l’escissione, l’infibulazione o qualsiasi altra mutilazione della totalità o di una parte della grandi labbra vaginali, delle piccole labbra o l’asportazione del clitoride, è punito con la prigionia e interdizione di terzo grado.\n\nChiunque costringe una persona a contrarre matrimonio è punito con la prigionia di terzo grado.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent term, nor do they establish femicide-specific aggravation, classification, or monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking/trafficking in persons or trafficking victims, and do not define or criminalise trafficking-related exploitation; general violence and victim-protection provisions are insufficient under the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to sexual harm/sexual violence in general definitions, but do not mention sexual exploitation or sexual slavery (or equivalent sexual-exploitation-for-gain concepts) and do not link any exploitation/trafficking provision to sexual purposes, so the criterion is not met.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) or otherwise recognise technology-facilitated violence as a form of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Whoever uses ill-treatment against a person of the family or in any case cohabiting, or against a person who was or is bound by an emotional relationship, even not implying cohabitation, is punished with imprisonment of the second degree.\nAnyone who performs on another person, or forces another person to undergo, excision, infibulation or any other mutilation of all or part of the labia majora, labia minora or removal of the clitoris, shall be punished with imprisonment and disqualification of the third degree.\nAnyone who forces a person to marry shall be punished with imprisonment of the third degree.",
+      "rationale": "The candidate sentences include operative Penal Code provisions that define specific forms of violence (e.g., domestic violence/ill-treatment, female genital mutilation, forced marriage) and attach criminal sanctions in the form of imprisonment (and, for FGM, also disqualification). This meets the requirement for at least one form of VAW being a criminal offence with an attached criminal penalty.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Chiunque usa maltrattamenti ad una persona della famiglia o comunque convivente, o contro persona che era o è legata da una relazione affettiva, anche non implicante la coabitazione, è punito con la prigionia di secondo grado.\n\nChiunque pratichi a danno di altra persona, o la costringa a subire, l’escissione, l’infibulazione o qualsiasi altra mutilazione della totalità o di una parte della grandi labbra vaginali, delle piccole labbra o l’asportazione del clitoride, è punito con la prigionia e interdizione di terzo grado.\n\nChiunque costringe una persona a contrarre matrimonio è punito con la prigionia di terzo grado.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss general protection and assistance measures and compensation, but do not specify a protection/restraining order mechanism with (i) who may apply, (ii) issuing authority, (iii) duration, and (iv) consequences for breach. No operative provision establishing such orders is shown.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions that judicial and police authorities shall adopt confidentiality measures, it does not designate or mandate any specific specialised unit/desk/division within police services to handle VAW cases. General references to police action are insufficient under the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to access to judicial authorities for compensation and to criminal procedure aspects (e.g., ex officio proceedings/withdrawal of complaint), but do not designate a specialised court/chamber/judicial officer or a specialised/expedited procedure specifically for VAW cases.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence broadly (including sexual violence) and criminalise certain offences (e.g., ill-treatment/domestic violence, forced marriage, FGM, forced sterilisation), but none expressly criminalise rape/sexual assault within marriage or explicitly remove a spousal exemption for sexual offences. Under the rules, applicability to spouses cannot be inferred from general domestic-violence language.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "In addition to the tasks provided for in Article 1 of Delegated Decree of 31 May 2012 no. 60, the Authority for Equal Opportunities is responsible for the organisation and coordination of the guaranteed assistance measures, through the conclusion of appropriate protocols with:",
+      "rationale": "The framework assigns the Authority for Equal Opportunities responsibility for the organisation and coordination of assistance measures and specifies that this coordination is carried out through protocols with multiple entities (e.g., professional order, health structures, service offices, reception facilities), which constitutes a formal coordination mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ad integrazione dei compiti previsti all’articolo 1 del Decreto Delegato 31 maggio 2012 n.60, all’Authority per le Pari Opportunità compete l’organizzazione e il coordinamento delle misure di assistenza garantite, mediante la stipulazione di appositi protocolli con:",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define violence and set out assistance, confidentiality, funding, and other measures, but do not establish or mandate any system or duty to collect, record, monitor, report, manage, exchange, or maintain data/information on violence against women cases or victims.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "3. to adopt a gender perspective in the design of implementing measures of the Convention and in assessing their impact.",
+      "rationale": "The framework includes an undertaking to adopt a gender perspective in designing implementing measures and assessing their impact. This reflects a general commitment to integrating gender considerations, but it does not establish a specific gender mainstreaming mechanism (e.g., focal points, working group, planning/budgeting requirements).",
+      "coverage": "Referenced only",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. ad adottare una prospettiva di genere nella progettazione delle misure attuative della Convenzione e nella valutazione del loro impatto.",
+      "evidence_original_aligned": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only mention of “training” concerns education/training pathways as part of victim assistance, not training or capacity building for implementing personnel (police, judges, health/social workers, service providers). No mandate for professional training or capacity building for officials/agencies is stated.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish monitoring/evaluation mechanisms, reporting requirements, indicators, or designate a body responsible for assessing implementation or service delivery under the violence against women framework.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "In the State budget, among the expenditure items pertaining to the Department of Institutional Affairs and Justice, a Fund for financial assistance to victims is established under the Authority for Equal Opportunities.",
+      "rationale": "The framework establishes a Fund for financial assistance to victims within the State budget, which is a concrete budgetary mechanism to fund part of the response (financial assistance to victims).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nel bilancio dello Stato, tra i capitoli di spesa di pertinenza del Dipartimento Affari Istituzionali e Giustizia, è istituito un Fondo per l’assistenza finanziaria alle vittime in dotazione all’Authority per le Pari Opportunità.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "In addition to the tasks provided for in Article 1 of Delegated Decree of 31 May 2012 no. 60, the Authority for Equal Opportunities is responsible for the organisation and coordination of the guaranteed assistance measures, through the conclusion of appropriate protocols with:",
+      "rationale": "The framework assigns the Authority for Equal Opportunities responsibility for the organisation and coordination of multiple assistance measures via protocols with several service providers, which constitutes an operative integrated/multisectoral service coordination mechanism for victims of violence (including women victims/survivors of violence as defined and covered by the law).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ad integrazione dei compiti previsti all’articolo 1 del Decreto Delegato 31 maggio 2012 n.60, all’Authority per le Pari Opportunità compete l’organizzazione e il coordinamento delle misure di assistenza garantite, mediante la stipulazione di appositi protocolli con:",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to confidentiality protections for people who report/denounce violence and to access to channels for complaints, but they do not establish or mandate a victim-facing reporting/helpline mechanism or designate an institution/service as responsible for receiving reports from victims as a service mechanism.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "adequate reception facilities, for placement in suitable accommodation in emergency situations.",
+      "rationale": "The framework includes operative provision for placement in suitable accommodation in emergency situations through adequate reception facilities, which amounts to providing/recognising emergency safe accommodation for victims of violence (including women victims/survivors).",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "adeguate strutture di accoglienza, per la sistemazione in idonei alloggi in situazione di emergenza.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Pursuant to Article 4 of Law no. 97/2008, in order to meet the specific needs for assistance and recovery of victims, legal advice, psychological support, financial assistance, accommodation, education, training and assistance in finding employment shall be ensured, where necessary.\nLegal assistance and advisory services shall be provided by experts registered in the list prepared by the Order of Advocates and Notaries pursuant to the second paragraph of Article 17 of Law of 20 June 2008 no. 97.",
+      "rationale": "The framework explicitly ensures legal advice as part of victim assistance and further provides that legal assistance and advisory services shall be provided by registered experts, constituting an operative legal assistance provision for victims of violence (including women victims/survivors).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ai sensi dell’articolo 4 della Legge n.97/2008, per far fronte alle specifiche esigenze di assistenza e recupero delle vittime sono assicurate, ove necessario, consulenze legali, sostegno psicologico, assistenza finanziaria, alloggio, istruzione, formazione e assistenza nella ricerca di un lavoro.\n\nI servizi di assistenza e consulenza legale verranno prestati dagli esperti iscritti nell’elenco predisposto dall’Ordine degli Avvocati e Notai ai sensi del secondo comma dell’articolo 17 della Legge 20 giugno 2008 n.97.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include psychological support and refer to social and health care services in general principles, but they do not establish or require medical examination, treatment, emergency care, or other health/medical services specifically for victims/survivors of violence in operative provisions.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "Pursuant to Article 4 of Law no. 97/2008, in order to meet the specific needs for assistance and recovery of victims, legal advice, psychological support, financial assistance, accommodation, education, training and assistance in finding employment shall be ensured, where necessary.\nthe competent structures of the ISS for the provision of psychological support services;",
+      "rationale": "The framework ensures psychological support for victims and specifies provision of psychological support services through competent structures, which constitutes an operative psychosocial/psychological support service for victims of violence (including women victims/survivors).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ai sensi dell’articolo 4 della Legge n.97/2008, per far fronte alle specifiche esigenze di assistenza e recupero delle vittime sono assicurate, ove necessario, consulenze legali, sostegno psicologico, assistenza finanziaria, alloggio, istruzione, formazione e assistenza nella ricerca di un lavoro.\n\nle competenti strutture dell’ISS per l’erogazione di servizi di sostegno psicologico;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Religion is mentioned only in the context of rejecting culture/religion as justification for crimes, and there is no operative provision establishing religious or spiritual counselling or faith-based support services for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "Pursuant to Article 4 of Law no. 97/2008, in order to meet the specific needs for assistance and recovery of victims, legal advice, psychological support, financial assistance, accommodation, education, training and assistance in finding employment shall be ensured, where necessary.\nIn the State budget, among the expenditure items pertaining to the Department of Institutional Affairs and Justice, a Fund for financial assistance to victims is established under the Authority for Equal Opportunities.",
+      "rationale": "The framework provides longer-term recovery supports such as education, training, and assistance in finding employment as part of victim assistance, and it establishes a financial assistance fund for victims, which are operative recovery/reintegration support measures for victims of violence (including women victims/survivors).",
+      "coverage": "Substantive",
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ai sensi dell’articolo 4 della Legge n.97/2008, per far fronte alle specifiche esigenze di assistenza e recupero delle vittime sono assicurate, ove necessario, consulenze legali, sostegno psicologico, assistenza finanziaria, alloggio, istruzione, formazione e assistenza nella ricerca di un lavoro.\n\nNel bilancio dello Stato, tra i capitoli di spesa di pertinenza del Dipartimento Affari Istituzionali e Giustizia, è istituito un Fondo per l’assistenza finanziaria alle vittime in dotazione all’Authority per le Pari Opportunità.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on victim assistance measures and criminal provisions/penalties, but do not establish or provide any perpetrator-focused intervention, rehabilitation, treatment, counselling, or behaviour-change programme.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define violence against women and set out various protection, assistance, criminalisation, and procedural measures. While there are references to “inform” in relation to services and to “information assistance” on access to complaint channels, none of the sentences explicitly require or provide public information/awareness/education activities specifically about violence against women as a primary prevention measure (e.g., campaigns, community education, dissemination about VAW harms/norms).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes a commitment to promote equality between women and men, but it does not establish any information, education, awareness-raising, communication, campaigns, or similar educational activities about gender equality or women’s rights, nor does it explicitly link any such educational activity to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include a provision about “information assistance on access to channels” for complaints, but they do not specify dissemination/education/awareness about laws, regulations, policies, or legal protections concerning violence against women as a prevention activity. The remainder of the text focuses on definitions, criminal provisions, assistance, and procedural measures without a public legal-awareness component about VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although education and training appear as part of victim assistance and recovery measures, the candidate sentences do not explicitly identify education systems, educational institutions, curricula, or improvements in educational content/quality as measures to prevent violence against women. There is no operative requirement directed at schools/curricula for VAW prevention.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not include any programmes, campaigns, education, or other primary prevention activities specifically engaging men and boys to prevent violence against women, nor do they address masculinities or harmful gender norms among men/boys as a prevention strategy.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe coordination of assistance measures through protocols with professional bodies (e.g., Order of Advocates and Notaries), health structures, offices, and reception facilities, but they do not mention civil society organisations or NGOs as partners or establish any mechanism for collaboration with them on VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references religion, culture, uses/customs, traditions, and honour only to state they are not justifications for crimes, and includes provisions on religious discrimination, but it does not establish or require engagement/collaboration with religious or traditional/cultural organisations or leaders for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy mentions ensuring access to education/training and refers to offices that provide services for access to education, training and employment pathways, it does not identify schools/universities/education institutions as partners nor establish any collaboration mechanism with them on VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference the Council of Europe Istanbul Convention as the basis for the law and define/implement related measures, but they do not establish any operative cooperation mechanism with international organisations on VAW. Ratification/adaptation to an international convention alone is not treated as collaboration under the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences contain no mention of media organisations, broadcasters, journalists, publishers, or any media engagement mechanism related to VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish community participation, community mobilisation, or public engagement mechanisms for preventing or responding to VAW; they focus on definitions, criminal provisions, victim assistance, and institutional responsibilities.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the law includes victim recovery measures such as assistance in finding employment, it does not mention collaboration with employers, businesses, or other private-sector actors, nor does it establish any partnership or role for the private sector in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe a fund established in the State budget and administered by national-level bodies; there is no mention of any local/municipal government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "In the State budget, among the expenditure items pertaining to the Department of Institutional Affairs and Justice, a Fund for financial assistance to victims is established under the Authority for Equal Opportunities.",
+      "rationale": "The policy explicitly establishes a fund within the State budget, which constitutes a national government budget source for victim financial assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nel bilancio dello Stato, tra i capitoli di spesa di pertinenza del Dipartimento Affari Istituzionali e Giustizia, è istituito un Fondo per l’assistenza finanziaria alle vittime in dotazione all’Authority per le Pari Opportunità.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference the Council of Europe Convention as a legal framework and discuss domestic measures and a state-budget fund, but do not mention international assistance, donors, international organizations’ support, or any international funding/cooperation for implementation.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences identify funding via the State budget and discuss services and legal provisions, but do not specify any other (non-government-budget) legal funding sources (e.g., earmarked fees, levies, confiscated assets, private/NGO funding, etc.).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention a fund in the State budget and do not reference any provincial/regional government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 16,
+    "resolved": 16,
+    "rate": 1.0
+  }
+}

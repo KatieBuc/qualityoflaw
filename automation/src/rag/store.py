@@ -1,14 +1,14 @@
 """Storage stage: chunk translated policy files and embed each chunk.
 
 Writes one JSON store file per policy under
-`data/automation/<run_id>/mid_product/rag_store/<stem>.json` — this
+`data/<project>/automation/mid_product/rag_store/<stem>.json` — this
 one-file-per-policy layout is what guarantees retrieval never mixes evidence
 across policies.
 
 Two ways to get chunk text for a policy, tried in order:
 1. Reuse the translation step's own chunk boundaries and per-chunk English
    translations, if
-   `data/automation/<run_id>/mid_product/chunks/<stem>.chunks.json`
+   `data/<project>/automation/mid_product/chunks/<stem>.chunks.json`
    exists and is valid (see `_load_translation_chunks`). These boundaries were
    decided on the source-language text (reliable BAB/Pasal/Bagian/Paragraf
    markers), so they're preferred over re-detecting structure in translated
@@ -27,7 +27,7 @@ from automation.src.chunking import STRUCTURE_MARKER_EN_RE, chunk_policy_text, f
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ResolvedPipelineConfig,
-    get_run_dir,
+    get_output_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
 )
@@ -171,7 +171,6 @@ def _embed_policy_file(
 
 
 def run_storage_step(
-    run_id: str,
     config: ResolvedPipelineConfig,
     embedder: AzureEmbedder,
     *,
@@ -179,7 +178,7 @@ def run_storage_step(
     small_scale: bool = False,
     force: bool = False,
 ) -> dict:
-    run_dir = get_run_dir(run_id)
+    run_dir = get_output_dir()
     policy_dir = resolve_results_dir(run_dir, "translation")
     chunks_dir = resolve_mid_product_dir(run_dir, "chunks")
     store_dir = resolve_mid_product_dir(run_dir, "rag_store")
@@ -217,12 +216,12 @@ def run_storage_step(
                 counts["failed"] += 1
                 entry = {"filename": "unknown", "error_type": type(result).__name__, "message": str(result)}
                 failed_files.append(entry)
-                record_failure(run_id, "storage", entry)
+                record_failure("storage", entry)
                 logger.error("Storage task failed: %s", result)
                 continue
             if result.status == "succeeded":
                 counts["succeeded"] += 1
-                clear_failure(run_id, "storage", result.filename)
+                clear_failure("storage", result.filename)
             else:
                 counts["failed"] += 1
                 entry = {
@@ -231,7 +230,7 @@ def run_storage_step(
                     "message": result.error or "unknown error",
                 }
                 failed_files.append(entry)
-                record_failure(run_id, "storage", entry)
+                record_failure("storage", entry)
 
     elapsed = round(time.time() - start, 2)
     return {

@@ -6,6 +6,7 @@
       "max_tokens": null,
       "name": "claude-sonnet-4-5",
       "supports_logprobs": true,
+      "supports_temperature": true,
       "temperature": 0.2
     },
     "gpt-4o": {
@@ -14,6 +15,7 @@
       "max_tokens": null,
       "name": "gpt-4o",
       "supports_logprobs": true,
+      "supports_temperature": true,
       "temperature": 0.2
     },
     "gpt-5.2": {
@@ -22,6 +24,7 @@
       "max_tokens": null,
       "name": "gpt-5.2",
       "supports_logprobs": true,
+      "supports_temperature": true,
       "temperature": 0.2
     },
     "gpt-5.2-diagnosis": {
@@ -30,6 +33,7 @@
       "max_tokens": null,
       "name": "gpt-5.2-diagnosis",
       "supports_logprobs": true,
+      "supports_temperature": true,
       "temperature": 0.2
     },
     "gpt-5.2-translation-qa": {
@@ -38,6 +42,7 @@
       "max_tokens": null,
       "name": "gpt-5.2-translation-qa",
       "supports_logprobs": true,
+      "supports_temperature": true,
       "temperature": 0.1
     }
   },

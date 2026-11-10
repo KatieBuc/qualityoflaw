@@ -1,328 +1,266 @@
-# WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+# REGENT OF MENTAWAI ISLANDS
 
-REGENT OF MENTAWAI ISLANDS REGENCY WEST SUMATRA PROVINCE
+REGENT OF MENTAWAI ISLANDS
 
-# REGIONAL REGULATION OF MENTAWAI ISLANDS REGENCY
+PROVINCE OF WEST SUMATRA
 
-NUMBER 1 OF 2025
+REGIONAL REGULATION OF MENTAWAI ISLANDS REGENCY NUMBER YEAR 2025
 
 CONCERNING
 
-WOMEN'S EMPOWERMENT AND CHILD PROTECTION
+WOMEN'S EMPOWERMENT AND CHILD PROTECTION BY THE GRACE OF ALMIGHTY GOD REGENT OF MENTAWAI ISLANDS, Considering :a. b. d.
 
-BY THE GRACE OF ALMIGHTY GOD
+In View of
 
-REGENT OF MENTAWAI ISLANDS.
+2.
 
-Considering:
+3. that every woman and child has the right to receive protection of their human rights, to be free from various forms of violations, violence, threats, pressure and discrimination, and must be given opportunities, facilities and empowerment to achieve justice and welfare in their lives, that in the context of efforts to empower and protect women and children in the Mentawai Islands Regency, concrete action is needed from the Regional Government through increasing the participation of the community and families broadly, that in order to implement the authority of the Regional Government as referred to in the Regulation of the Minister of Women's Empowerment and Child Protection Number Year 2023 concerning the Implementation of Concurrent Government Affairs in the Field of Women's Empowerment and Child Protection, it is necessary to have regulations regarding women's empowerment and child protection, that based on the considerations as referred to in letter a, letter and letter c, it is necessary to establish a Regional Regulation concerning Women's Empowerment and Child Protection, Law Number Year 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia Year 1979 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number 3143), Law Number Year 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination against Women (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277): Law Number 20 Year 1999 concerning Ratification of ILO Convention Concerning Minimum Age
 
-a. that every woman and child has the right to receive protection of their human rights, to be free from various forms of violations, violence, threats, pressure and discrimination, and must receive opportunities, facilities and empowerment to achieve justice and welfare in their lives;
+Permitted to Work (State Gazette of the Republic of
 
-b. that in the context of efforts to empower and protect women and children in Mentawai Islands Regency, there is a need for concrete action from the Regional Government through increasing the participation of the community and families broadly;
+Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3835), Law Number 23 Year 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 Year 2014 concerning Amendment to Law Number 23 Year 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606):
 
-c. that in order to implement the authority of the Regional Government as referred to in the Regulation of the Minister of Women's Empowerment and Child Protection Number 3 of 2023 concerning the Implementation of Concurrent Government Affairs in the Field of Women's Empowerment and Child Protection, it is necessary to have regulations concerning women's empowerment and child protection;
+Law Number 13 Year 2003 concerning Manpower (State Gazette of the Republic of Indonesia Year 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279), as amended by Law Number Year 2023 concerning Stipulation of Government Regulation in Lieu of
 
-d. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Women's Empowerment and Child Protection;
+Law Number Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856):
 
-In View of:
+Law Number 23 Year 2004 concerning the Elimination of Domestic Violence (State Gazette Year 2004 Number 95, Supplement to the State Gazette Number 4419):
 
-1. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number 3143);
+Law Number 21 Year 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette Year 2007 Number 58, Supplement to the State Gazette Number 4720), Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number Year 2023 concerning Stipulation of Government Regulation in Lieu of Law Number Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856), Law Number Year 2016 concerning Persons with Disabilities (State Gazette of the Republic of Indonesia Year 2016 Number 69, Supplement to the State Gazette of the Republic of Indonesia Number 5871), Law Number Year 2023 concerning the Criminal Code (State Gazette of the Republic of Indonesia Year 2023 Number 1, Supplement
 
-2. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
+10.
 
-3. Law Number 20 of 1999 concerning Ratification of the ILO Convention Concerning Minimum Age for Admission to Employment (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3835);
+to the State Gazette of the Republic of Indonesia Number 6842): Presidential Regulation Number 18 Year 2014 concerning Protection and Empowerment of Women and Children in Social Conflict (State Gazette of the Republic of Indonesia Year 2014 Number 44), 11.
 
-4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);
+Regulation of the Minister of Women's Empowerment and
 
-5. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279), as amended by Law Number 6 of 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 of 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia of 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);
+12.
 
-6. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of 2004 Number 95, Supplement to the State Gazette Number 4419);
+Child Protection Number 13 Year 2021 concerning Community Participation in the Field of Women's Empowerment and Child Protection (State News of the Republic of Indonesia Year 2021 Number 1499), With Mutual Approval REGIONAL HOUSE OF REPRESENTATIVES
 
-7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of 2007 Number 58, Supplement to the State Gazette Number 4720);
+OF MENTAWAI ISLANDS REGENCY
 
-8. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 6 of 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 of 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia of 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);
+and
 
-9. Law Number 8 of 2016 concerning Persons with Disabilities (State Gazette of the Republic of Indonesia of 2016 Number 69, Supplement to the State Gazette of the Republic of Indonesia Number 5871);
+REGENT OF MENTAWAI ISLANDS
 
-10. Law Number 1 of 2023 concerning the Criminal Code (State Gazette of the Republic of Indonesia of 2023 Number 1, Supplement to the State Gazette of the Republic of Indonesia Number 6842);
+DECIDES:
 
-11. Presidential Regulation Number 18 of 2014 concerning Protection and Empowerment of Women and Children in Social Conflict (State Gazette of the Republic of Indonesia of 2014 Number 44);
-
-12. Regulation of the Minister of Women's Empowerment and Child Protection Number 13 of 2021 concerning Community Participation in the Field of Women's Empowerment and Child Protection (State News of the Republic of Indonesia of 2021 Number 1499);
-
-With Mutual Approval of
-
-THE REGIONAL HOUSE OF REPRESENTATIVES OF MENTAWAI ISLANDS REGENCY and THE REGENT OF MENTAWAI ISLANDS
-
-Has Decided: REGIONAL REGULATION CONCERNING WOMEN'S EMPOWERMENT AND CHILD PROTECTION.
+To Establish REGIONAL REGULATION CONCERNING WOMEN'S EMPOWERMENT AND CHILD PROTECTION.
 
 # CHAPTER I
 
 GENERAL PROVISIONS
 
-#### Article 1
+Article
 
-In this Regulation, the following terms shall mean:
+In this Regulation, what is meant by:
 
-1. Region is the Mentawai Islands Regency.
+5.
 
-2. Regional Government is the Regent and Regional Apparatus as elements of regional government administration.
+Region is Mentawai Islands Regency. Regional Government is the Regent and Regional Apparatus as elements of regional government administration. Regional House of Representatives, hereinafter abbreviated as DPRD, is the Regional House of Representatives of Mentawai Islands Regency.
 
-3. Regional House of Representatives, hereinafter abbreviated as DPRD, is the Regional House of Representatives of the Mentawai Islands Regency.
+Regional Government is the administration of governmental affairs by regional government and DPRD according to the principles of autonomy and assistance duties with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia. Regent is the Regent of Mentawai Islands.
 
-4. Regional Governance is the administration of governmental affairs by the regional government and DPRD according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.
+Village is a legal community unit that has territorial boundaries authorized to regulate and manage governmental affairs, the interests of the local community based on community initiative, rights of origin, and/or traditional rights recognized and respected in the governmental system of the Unitary State of the Republic of Indonesia.
 
-5. Regent is the Regent of the Mentawai Islands.
+Village Government is the Village Head or called by another name assisted by village apparatus as elements of Village Government administration.
 
-6. Village is a legal community unit that has territorial boundaries authorized to regulate and manage governmental affairs, the interests of the local community based on community initiative, rights of origin, and/or traditional rights that are recognized and respected in the governmental system of the Unitary State of the Republic of Indonesia.
+Agency is the Regional Apparatus that administers Regional Government affairs in the field of women's empowerment and child protection.
 
-7. Village Government is the Village Head or called by another name assisted by village apparatus as elements of Village Government administration.
+Regional Apparatus is the organization of Regional apparatus within the Regional Government.
 
-8. Agency is the Regional Apparatus that administers Regional Government affairs in the field of women's empowerment and child protection.
+Regional Technical Implementation Unit, hereinafter abbreviated as UPTD, is an organization that carries out operational technical activities and/or certain technical supporting activities at the Agency.
 
-9. Regional Apparatus is the organizational apparatus of the Region within the Regional Government.
+10. Regional Technical Implementation Unit for Women and Children Protection, hereinafter abbreviated as UPTD PPA, is the Regional Technical Implementation Unit for Women and Children Protection of Mentawai Islands Regency.
 
-10. Regional Technical Implementation Unit, hereinafter abbreviated as UPTD, is an organization that carries out operational technical activities and/or certain supporting technical activities at the Agency.
+Women's Empowerment is an effort to obtain access and control over resources, economy, politics, social, culture, so that women can manage themselves and increase self-confidence to be able to play a role and actively participate in solving problems, so as to be able to build abilities and self-concept
 
-11. Regional Technical Implementation Unit for Women and Child Protection, hereinafter abbreviated as UPTD PPA, is the Regional Technical Implementation Unit for Women and Child Protection of the Mentawai Islands Regency.
+11.
 
-12. Women's Empowerment is an effort to obtain access and control over resources, economic, political, social, cultural, so that women can organize themselves and increase self-confidence to be able to play a role and actively participate in solving problems, so as to be able to build capacity and self-concept.
+Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive protection from violence and discrimination. Child is a person who has not reached the age of 18 (eighteen) years including a child still in the womb. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of such development. Gender Mainstreaming, hereinafter abbreviated as PUG
 
-13. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination.
+12.
 
-14. Child is a person who has not yet reached the age of 18 (eighteen) years including a child who is still in the womb.
+13.
 
-15. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.
+14.
 
-16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social, cultural, national defense and security activities, and equality in enjoying the results of such development.
+15.
 
-17. Gender Mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policies and programs.
+16.
 
-18. Discrimination is treatment that differentiates a person based on ethnicity, religion, race, class, gender, ethnicity, culture, language, physical and/or mental condition.
+17. is a strategy built to integrate gender into one integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policies and programs.
 
-19. Intimidation is any action, speech or other verbal behavior intended to endanger or threaten safety, freedom, peace or other violations of rights, whether physically or mentally.
+Discrimination is treatment that distinguishes a person based on ethnicity, religion, race, class, gender, ethnicity, culture, language, physical and/or mental condition. Intimidation is any action, speech or other verbal behavior intended to endanger or threaten safety, freedom, peace or other violations of rights, either physically or mentally.
 
-20. Exploitation is an act of exploiting, utilizing, or extorting with the aim of obtaining benefits for personal, family or group interests.
+18.
 
-21. Human trafficking is the act of recruiting, transporting, harboring, sending, transferring, or receiving a person by threat of violence, use of violence, kidnapping, confinement, forgery, fraud, abuse of power or vulnerable position, debt bondage or giving payment or benefits even though obtaining consent from the person holding control over another person, for the purpose of exploiting that person.
+19.
 
-22. Family is the smallest unit in society consisting of husband, wife or husband and wife and child or father and his child or mother and her child or blood family in a straight line upward or downward up to the second degree.
+Exploitation is an action to exploit, utilize, or extort with the aim of obtaining benefits for personal, family or group interests.
 
-23. Person with Disability is any person who experiences physical, intellectual, mental, and/or sensory limitations in the long term who in interacting with the environment may experience obstacles and difficulties to participate fully and effectively with other citizens based on equal rights.
+20.
 
-24. Street child is a child whose life is irregular by spending most of his/her time outside the home to earn a living on the streets or in public places.
+Human trafficking is the act of recruiting, transporting, harboring, sending, transferring, or receiving a person with threats of violence, use of violence, abduction, confinement, forgery, fraud, abuse of power or vulnerable position, debt bondage or giving payment or benefits even though obtaining consent from the person holding control over another person, for the purpose of exploiting that person. Family is the smallest unit in society consisting of husband, wife or husband and wife and children or father and his children or mother and her children or blood family in direct line upward or downward up to the second degree.
 
-25. Child in conflict with the law is a child who has reached the age of 12 (twelve) years but has not reached the age of 18 (eighteen) years and is not married who is suspected, accused, charged, or sentenced to punishment for committing a criminal act and who becomes a victim of a criminal act or who sees and/or hears directly the occurrence of a criminal act.
+21.
 
-26. Special Protection is protection given to women and children who are in emergency situations, who are isolated, exploited economically and/or sexually who are trafficked, become victims of narcotics, alcohol, psychotropics and other addictive substances, victims of kidnapping, sale and trafficking, physical or mental violence, persons with disabilities or victims of neglect.
+22.
 
-27. Handling is an action that includes identification, rescue, rehabilitation and reintegration of children who are victims of violence, abuse, exploitation, and or neglect.
+Persons with Disabilities are any persons who experience physical, intellectual, mental, and/or sensory limitations for a long period of time who in interacting with the environment may experience obstacles and difficulties to participate fully and effectively with other citizens based on equal rights.
 
-28. Public Participation Forum for Women and Child Welfare, hereinafter referred to as Forum Puspa, is a forum formed to increase community participation in the welfare of women and Children.
+Street children are children whose lives are irregular by spending most of their time outside the home to earn a living on the streets or in public places.
 
-29. Child-Friendly Regency, hereinafter referred to as KLA, is a regency that has a child rights-based development system through the integration of commitment and capability and resources of government, community, business world that is planned, sustainable in policies, programs, activities to ensure the fulfillment of children's rights.
+Children in conflict with the law are children who have reached the age of 12 (twelve) years but have not reached the age of 18 (eighteen) years and are not married who are suspected, alleged, charged, or sentenced to criminal punishment for committing a criminal offense and who are victims of a criminal offense or who see and/or hear for themselves the occurrence of a criminal offense. Special Protection is protection provided to women and children who are in emergency situations, who are isolated, economically and/or sexually exploited who are trafficked, become victims of narcotics, alcohol, psychotropics and other addictive substances, victims of abduction, sale and trafficking, physical or mental violence, persons with disabilities or victims of neglect.
 
-#### Article 2
+Handling is an action that includes identification, rescue, rehabilitation and reintegration of children who are victims of acts of violence, mistreatment, exploitation, and/or neglect.
 
-The regulation of Women's Empowerment and Child Protection is based on:
+Public Participation Forum for the Welfare of Women and Children, hereinafter referred to as Forum Puspa, is a forum established to increase community participation in the welfare of women and children. Child-Friendly Regency, hereinafter referred to as KLA
 
-a. respect for human rights;
+23.
 
-b. non-discrimination;
+24.
 
-c. justice and Gender Equality;
+25.
 
-d. best interests of women and children;
+26.
 
-e. victim protection; and
+27.
 
-f. togetherness.
+28.
 
-#### Article 3
+29. is a regency that has a child rights-based development system through the integration of commitment and capability and resources of government, community, business world that is planned, sustainable in policies, programs, activities to ensure the fulfillment of children's rights.
 
-The objectives of Women's Empowerment and Child Protection are:
+Article
 
-a. to improve the quality of life of women, children, and the quality of Families;
+The regulation of Women's Empowerment and Child Protection is based on: a. respect for human rights,
 
-b. to increase the institutional capacity of Women's Empowerment and Child Protection in the Region, including the development of Gender and Child data systems; and
+b. non-discrimination:
 
-c. to provide protection of women's rights and fulfillment of children's rights including Special Protection for children from various forms of violence and other discriminatory treatment.
+- C. justice and Gender Equality:
+  - d. best interests of women and children, e. victim protection, and
+  - f. togetherness.
 
-#### Article 4
+Article
 
-The scope of this Regional Regulation includes:
+The objectives of Women's Empowerment and Child Protection are: a. to improve the quality of life of women, children, and Family quality,
 
-a. Women's Empowerment;
+b. to improve the institutional capacity of Women's Empowerment and Child Protection in the Region, including the development of Gender and Child data systems, and
 
-b. implementation of Child Protection;
+c. to provide protection of women's rights and fulfillment of children's rights including Special Protection for children from various forms of violence and other discriminatory treatment. Article
 
-c. protection services for women victims of violence and Special Protection for Children;
+The scope of this Regional Regulation covers:
 
-d. improvement of Family quality;
-
-e. institutional strengthening and improvement;
-
-f. cooperation;
-
-g. community participation;
-
-h. guidance and supervision;
-
-i. sanctions; and
-
-j. closing provisions.
+- a. Women's Empowerment:
+- b. administration of Child Protection,
+  - Cc. services for protection of women victims of violence and Special Protection for Children, improvement of Family quality, strengthening and improvement of institutions, cooperation, community participation, guidance and supervision, sanctions, and closing.
 
 # CHAPTER II
 
 WOMEN'S EMPOWERMENT
 
-#### Article 5
+#### Article (1)
 
-(1) Women's Empowerment is implemented through the exercise of women's rights and obligations, fulfillment of women's rights, and gender mainstreaming.
+Women's Empowerment is implemented through the implementation of women's rights and obligations, fulfillment of women's rights, and gender mainstreaming. (2) Fulfillment of rights, protection and gender mainstreaming as referred to in paragraph (1) shall be implemented by the Family, community, business actors, Village Government, and Regional Government.
 
-(2) Fulfillment of rights, protection and gender mainstreaming as referred to in paragraph (1) shall be implemented by Families, communities, business actors, Village Government, and Regional Government.
+Article
 
-#### Article 6
+Women's Empowerment is directed to obtain opportunities and rights as human beings to be able to play a role and participate in the fields of:
 
-Women's Empowerment is directed to obtain opportunities and rights as human beings in order to be able to play a role and participate in the fields of:
+- a. economy,
+- b. socio-culture,
+  - Cc. politics, and
+- d. law.
 
-a. economy;
+Article
 
-b. social culture;
-
-c. politics; and
-
-d. law.
-
-#### Article 7
-
-Women's Empowerment in the economic field as referred to in Article 6 letter a shall be implemented through:
-
-a. provision of skills and job training;
-
-b. facilitation of the establishment of productive economic business groups; c. facilitation of strengthening and development of productive economic business groups;
-
-d. facilitation and capital assistance; and
+Women's Empowerment in the economic field as referred to in Article letter shall be implemented through: a. provision of skills and job training, b. facilitation of the formation of productive economic business groups: c. facilitation of strengthening and development of productive economic business groups, d. facilitation and capital assistance, and
 
 e. facilitation of marketing network development.
 
-#### Article 8
+Article
 
-Women's Empowerment in the social cultural field as referred to in Article 6 letter b shall be implemented through:
+Women's Empowerment in the socio-cultural field as referred to in Article letter shall be implemented through:
 
-a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;
+- a. b. d. improvement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status, increase awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts, especially in the field of reproductive health, increase awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration, and facilitation and efforts to preserve customs and the development of science, technology, arts and culture for the advancement of women.
 
-b. enhancement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts, especially in the field of reproductive health;
+Article
 
-c. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and
+Women's empowerment in the political field as referred to in Article letter includes:
 
-d. facilitation and efforts to preserve customs and develop science, technology, arts and culture for the advancement of women.
+(1)
 
-#### Article 9
+a. involvement of women in decision-making at various levels,
 
-(1) Women's empowerment in the political field as referred to in Article 6 letter c includes:
+b. providing opportunities for women to hold public office, Cc. participation in general elections, and
 
-a. involvement of women in decision-making at various levels;
+d. self-development through organizations to associate, assemble and express opinions. Women's Empowerment in the political field as referred to in paragraph (1) shall be implemented in accordance with
 
-b. provision of opportunities for women to hold public office;
+(2)
 
-c. participation in general elections; and
-
-d. self-development through organizations to associate, assemble and express opinions.
-
-(2) Women's Empowerment in the political field as referred to in paragraph (1) shall be implemented in accordance with applicable laws and regulations.
+the prevailing laws and regulations.
 
 #### Article 10
 
-(1) Women's Empowerment in the legal field as referred to in Article 6 letter d includes:
+Women's Empowerment in the legal field as referred to in Article letter includes:
 
-a. enhancement of awareness and knowledge in the legal field through communication, information and education services; and
+(1)
 
-b. facilitation of access and legal consultation services.
+a. increase awareness and knowledge in the legal field through communication, information and education services: and
 
-(2) Women's Empowerment in the legal field as referred to in paragraph (1) shall be implemented in accordance with applicable laws and regulations.
+b. facilitation of access and legal consultation services. Women's Empowerment in the legal field as referred to in paragraph (1) shall be implemented in accordance with
+
+(2)
+
+the prevailing laws and regulations.
 
 # CHAPTER III
 
 PROTECTION OF WOMEN
 
-## Part One
-
-Rights and Obligations of Women
+## Part One Rights and Obligations of Women
 
 #### Article 11
 
 Every woman has the right to:
 
-a. obtain respect for dignity and worth as a human being;
-
-b. obtain decent work in accordance with dignity, worth and ability;
-
-c. obtain special rights with regard to her reproductive function personally and/or in the workplace;
-
-d. obtain protection from physical, psychological, sexual violence, and neglect;
-
-e. obtain identity and marital status;
-
-f. obtain education at every type and level of education;
-
-g. obtain freedom in the public and political sphere;
-
-h. obtain protection from economic exploitation and sexual exploitation; and
-
-i. obtain protection from acts of Discrimination.
+- a. b. obtain respect for dignity and worth as a human being, obtain decent work in accordance with dignity, worth and ability,
+- c. obtain special rights with regard to her reproductive function personally and/or in the workplace, d. obtain protection from physical, psychological, sexual violence, and neglect,
+- e. obtain identity and marital status, f. obtain education at every type and level of education, obtain freedom in the public and political spheres, obtain protection from economic exploitation and sexual exploitation, and
+- i. obtain protection from acts of Discrimination.
 
 #### Article 12
 
 (1) Every woman has the obligation to:
 
-a. uphold religious values and customary values;
+- a. uphold religious values and customary values, b. maintain morals, honor, decency, ethics, and behavior in family and community life, and a. respect each other, love each other and help each other with all Family members and relatives.
+  - (2) Every woman in a marriage bond is obliged to carry out obligations as a wife and/or mother, care for and educate Children together with her husband in accordance with religious norms, customs, and laws and regulations.
 
-b. maintain morals, honor, decency, ethics, and behavior in family and community life; and
-
-a. respect each other, love each other and help each other with all Family members and relatives.
-
-(2) Every woman in a marriage bond is obliged to carry out obligations as a wife and/or mother, care for and educate Children together with her husband in accordance with religious norms, customs, and laws and regulations.
-
-## Part Two
-
-Fulfillment of Women's Rights
+## Part Two Fulfillment of Women's Rights
 
 #### Article 13
 
 Fulfillment of women's rights is the obligation and responsibility of:
 
-a. every person;
+- a. every person, b. family,
+  - C. community organizations,
+- d. business actors,
+- e. f.
 
-b. family;
+Village Government: and
 
-c. community organizations;
+Regional Government.
 
-d. business actors;
+Paragraph
 
-e. Village Government; and
+Obligations and Responsibilities of Every Person in the Fulfillment of Women's Rights Article 14 Every person in the fulfillment of women's rights has the obligation and responsibility to:
 
-f. Regional Government.
+- a. not smoke in the work space where there are female workers who are pregnant or breastfeeding, b. maintain the honor and dignity of women in accordance with religious norms and customs,
+  - Cc. prevent discriminatory, exploitative, and intimidating actions against women, d. report to the authorities if they know of any violation of women's rights, and
+- e. prevent violations of women's rights.
 
-### Paragraph 1
-
-Obligations and Responsibilities of Every Person in the Fulfillment of Women's Rights
-
-#### Article 14
-
-Every person in the fulfillment of women's rights has the obligation and responsibility to:
-
-a. not smoke in work spaces where there are female workers who are pregnant or breastfeeding;
-
-b. maintain the honor and dignity of women in accordance with religious norms and customs;
-
-c. prevent discriminatory, exploitative, and intimidating acts against women;
-
-d. report to the authorities if aware of any violations of women's rights; and
-
-e. prevent violations of women's rights.
-
-### Paragraph 2
+Paragraph
 
 Obligations and Responsibilities of Family Members in the Fulfillment of Women's Rights
 
@@ -330,165 +268,99 @@ Obligations and Responsibilities of Family Members in the Fulfillment of Women's
 
 (1) Every family member in the fulfillment of women's rights has the obligation and responsibility to:
 
-a. prevent domestic violence;
+- a. prevent domestic violence, b. prevent divorce, and
+- c. provide opportunities for women to develop themselves in the fields of education, social, economic, political and cultural.
+  - (2) The husband as the head of the family together with his wife is responsible for fostering every family member in the fulfillment of women's rights as referred to in paragraph (1).
 
-b. prevent divorce; and
-
-c. provide opportunities for women to develop themselves in the fields of education, social, economic, political and cultural affairs.
-
-(2) The husband as head of the family together with the wife is responsible for guiding every family member in the fulfillment of women's rights as referred to in paragraph (1).
-
-### Paragraph 3
+Paragraph
 
 Obligations and Responsibilities of Community Organizations in the Fulfillment of Women's Rights
 
 #### Article 16
 
-(1) Every community organization in the fulfillment of women's rights has the obligation and responsibility to:
+(l) Every community organization in the fulfillment of women's rights has the obligation and responsibility to: a. accommodate the representation of women in management, b. have programs in the field of Women's Empowerment, and C. participate in preventing violations of the fulfillment of women's rights.
 
-a. accommodate women's representation in the management;
+(2) Every community organization that does not fulfill its obligations as referred to in paragraph (1) letter shall not be provided with services for the processing of registered certificates from the Regional Government.
 
-b. have programs in the field of Women's Empowerment; and
-
-c. participate in preventing violations of the fulfillment of women's rights.
-
-(2) Every community organization that does not fulfill its obligations as referred to in paragraph (1) letter a shall not be provided with services for processing registered certificates from the Regional Government.
-
-### Paragraph 4
+Paragraph
 
 Obligations and Responsibilities of Business Actors in the Fulfillment of Women's Rights
 
 #### Article 17
 
-(1) Every business actor in fulfilling women's rights in general has the obligations and responsibilities to:
+(1) Every business actor in fulfilling women's rights in general has the obligations and responsibilities: a. to protect female workers from threats of violence, Discrimination, harassment, and intimidation, b. to provide job vacancies for women: c. to provide opportunities for women to be employed according to the type of work that can be done by women,
 
-a. protect female workers from threats of violence, Discrimination, harassment, and intimidation;
+d. to include all employees as participants in the national health insurance and employment insurance in accordance with statutory provisions,
 
-b. provide job vacancies for women;
+e. to comply with all applicable rules in fulfilling women's rights, and
 
-c. provide opportunities for women to be employed according to the type of work that can be performed by women;
-
-d. include all employees as participants in national health insurance and employment insurance in accordance with the provisions of laws and regulations;
-
-e. comply with all applicable rules in fulfilling women's rights; and
-
-f. provide lactation rooms.
+f. to provide lactation rooms.
 
 (2) In addition to the general obligations and responsibilities of business actors as referred to in paragraph (1), specifically:
 
-a. every owner/manager of business in the field of industry and trade has the obligations and responsibilities to:
+- a. every owner/manager of businesses in the field of industry and trade has the obligations and responsibilities:
+  - 1) not to assign female employees who are pregnant or breastfeeding to work at night: 2) to provide lactation rooms: and
+  - 3) to designate certain workplaces/work rooms as smoke-free areas. b. every manager/owner of businesses in the field of hotels, inns, homestays, guesthouses, resorts, tourist lodges, and similar other lodging places is prohibited from: 1) allowing women to stay in one room with men, except if they have a husband-wife relationship or are biological children,
+  - 2) allowing a man to visit the room of a female guest/occupant, except if they have a family relationship, 3) allowing a woman to visit the room of a male guest/occupant, except if they have a family relationship, and
+  - 4) providing massage and spa services without permission from the Regional Government. every owner/manager of entertainment and recreation places is prohibited from providing places for prostitution practices or places with the potential for prostitution to occur.
+    - (3) Every business actor/owner/manager who does not fulfill the obligations and prohibitions as referred to in paragraph (1) and paragraph (2) may be subject to administrative sanctions. The administrative sanctions as referred to in paragraph (3) consist of:
 
-1) not assign female employees who are pregnant or breastfeeding to work at night;
+(4)
 
-2) provide lactation rooms; and
+verbal warning, written warning, administrative fine: temporary closure of business activities, or revocation of business license which is the authority of the Regional Government
 
-3) designate certain workplaces/work rooms as smoke-free zones.
+Administrative fine as referred to in paragraph (4) letter at most Rp50,000,000,- (fifty million
 
-b. every manager/owner of business in the field of hotels, lodging, homestays, guesthouses, resorts, tourist cottages, and similar accommodation places is prohibited from:
+(5)
 
-1) allowing women to stay in one room with men, unless they have a husband-wife relationship or are biological children;
-
-2) allowing a man to visit the room of a female guest/occupant, unless they have a family relationship;
-
-3) allowing a woman to visit the room of a male guest/occupant, unless they have a family relationship; and
-
-4) providing massage and spa services without permission from the Regional Government.
-
-c. every owner/manager of entertainment and recreation venues is prohibited from providing places for the practice of prostitution or places with the potential for prostitution to occur.
-
-(3) Every business actor/owner/manager who does not fulfill the obligations and prohibitions as referred to in paragraph (1) and paragraph (2) may be subject to administrative sanctions.
-
-(4) Administrative sanctions as referred to in paragraph (3) consist of:
-
-a. oral warning;
-
-b. written warning;
-
-c. administrative fine;
-
-d. temporary closure of business activities; or
-
-e. revocation of business license which is the authority of the Regional Government
-
-(5) The administrative fine as referred to in paragraph (4) letter c is at most Rp50,000,000,- (fifty million rupiah).
+rupiah).
 
 #### Article 18
 
-The procedure for imposing administrative sanctions as referred to in Article 17 paragraph (4) shall be further regulated by Regent Regulation.
+Procedures for imposing administrative sanctions as referred to in Article 17 paragraph (4) are further regulated by Regent Regulation.
 
-### Paragraph 5
+Paragraph
 
 Obligations and Responsibilities of Village Government in Fulfilling Women's Rights
 
 #### Article 19
 
-(1) Village Government in fulfilling women's rights has the obligations and responsibilities to:
+(1) Village Government in fulfilling women's rights has the obligations and responsibilities:
 
-a. formulate policies in the field of women's empowerment at the Village level;
-
-b. facilitate the establishment of women's organizations at the Village level;
-
-c. provide budget to support empowerment activities of dasawisma groups and women's groups at the Village level;
-
-d. compile women's profile data at the Village level;
-
-e. implement the implementation of women-friendly and Child-caring Village in programs and activities of village revenue and expenditure budget;
-
-f. increase women's representation in the structure of Village apparatus, membership of Village Consultative Body, and management of Village customary institutions;
-
-g. increase women entrepreneurs in the Village;
-
-h. increase women's involvement in the management of village revenue and expenditure budget; and
-
-i. make efforts to fulfill women's rights.
-
-(2) In the event that the village government does not fulfill the obligations as referred to in paragraph (1) letter c, the Regional Government may postpone the disbursement or reduce the allocation of village funds.
-
-(3) The procedures and percentage amount of budgeting as referred to in paragraph (1) letter c as well as the postponement of disbursement or reduction of village fund allocation as referred to in paragraph (2) shall be further regulated by Regent Regulation.
+- a. to formulate policies in the field of women's empowerment at the Village level,
+- b. to facilitate the formation of women's organizations at the Village level,
+  - c. to provide budget to support empowerment activities of dasawisma groups and women's groups at the Village level,
+- d. to compile women's profile data at the Village level, e. to implement the implementation of women-friendly and Child-caring Villages in programs and activities of the Village revenue and expenditure budget,
+- f. to increase women's representation in the structure of Village apparatus, membership of the Village Consultative Body, and management of Village customary institutions, to increase women entrepreneurs in the Village, to increase women's involvement in the management of the Village revenue and expenditure budget, and i. to carry out efforts to fulfill women's rights. (2) In the event that the village government does not fulfill the obligations as referred to in paragraph (1) letter c, the Regional Government may postpone the disbursement or reduce the allocation of village funds.
+  - (3) Procedures and percentage of budgeting as referred to in paragraph (1) letter as well as postponement of disbursement or reduction of village fund allocation as referred to in paragraph (2) are further regulated by Regent Regulation.
 
 #### Article 20
 
-(1) Village Government conducts guidance and supervision of the fulfillment of women's rights.
+(1) Village Government conducts guidance and supervision on the fulfillment of women's rights.
 
-(2) Guidance and supervision as referred to in paragraph (1) shall be conducted in the form of socialization, counseling and monitoring.
+(2) Guidance and supervision as referred to in paragraph (1) are carried out in the form of socialization, counseling and monitoring.
 
-(3) The procedures for guidance, supervision and monitoring as referred to in paragraph (2) shall be further regulated by Regent Regulation.
-
-### Paragraph 6
+(3) Procedures for guidance, supervision and monitoring as referred to in paragraph (2) are further regulated by Regent Regulation. Paragraph
 
 Obligations and Responsibilities of Regional Government in Fulfilling Women's Rights
 
 #### Article 21
 
-Regional Government in the effort of Women's Empowerment and Child Protection has the obligations and responsibilities to:
+Regional Government in efforts to Empower Women and Protect Children has the obligations and responsibilities:
 
-a. formulate strategic plans for women's protection in the short, medium, and long term;
-
-b. provide legal aid facilities in the form of advocacy and assistance for victims and or families of victims of violence against women;
-
-c. encourage the responsibility of all stakeholders to fulfill obligations and responsibilities in the protection of women;
-
-d. ensure that every program and activity/sub-activity involving the community includes targets for women's empowerment;
-
-e. provide budget for the family welfare empowerment driving team and women's organizations at the Regional level in accordance with the provisions of laws and regulations;
-
-f. facilitate the provision of shelters for families of mothers giving birth;
-
-g. facilitate the establishment of women's organizations at the Regional level;
-
-h. provide shelter facilities for victims of violence;
-
-i. provide special rooms for breastfeeding women in every office owned by the Regional Government; and
-
-j. coordinate the implementation of fulfillment of women's rights in accordance with the provisions of laws and regulations.
+- a. to formulate strategic plans for women's protection in the short, medium, and long term:
+- b. to provide legal aid facilities in the form of advocacy and assistance for victims and or families of victims of violence against women,
+  - c. to encourage the responsibility of all stakeholders to fulfill obligations and responsibilities in the protection of women, d. to ensure that every program and activity/sub-activity involving the community includes targets for women's empowerment,
+- e. to provide budget for the family welfare empowerment mobilization team and women's organizations at the Regional level in accordance with statutory provisions, f. to facilitate the provision of shelters for families of mothers giving birth,
+- g. to facilitate the formation of women's organizations at the Regional level:
+- h. to provide shelter facilities for victims of violence:
+- i. to provide special rooms for breastfeeding women in every office owned by the Regional Government, and j. to coordinate the implementation of the fulfillment of women's rights in accordance with statutory provisions.
 
 #### Article 22
 
-(1) In carrying out the obligations and responsibilities as referred to in Article 21, the Regent shall establish an integrated team.
+(1) In carrying out the obligations and responsibilities as referred to in Article 21, the Regent forms an integrated team. (2) The team as referred to in paragraph (1) consists of related Regional Apparatus by involving vertical agencies in the Region, religious leaders, community leaders, business world, and the press.
 
-(2) The team as referred to in paragraph (1) consists of relevant Regional Apparatus by involving vertical agencies in the Region, religious leaders, community leaders, business world, and press members.
-
-(3) The establishment, duties, functions and working procedures of the integrated team as referred to in paragraph (2) shall be further regulated by Regent Regulation.
+(3) The formation, duties, functions and working procedures of the integrated team as referred to in paragraph (2) are further regulated by Regent Regulation.
 
 ## Part Three
 
@@ -496,17 +368,17 @@ Gender Mainstreaming
 
 #### Article 23
 
-(1) The Regional Government guarantees the quality of life of women by institutionalizing PUG in every administration of government in the Region.
+(1) Regional Government guarantees the quality of life of women by institutionalizing GMS in every implementation of governance in the Region.
 
-(2) The institutionalization of PUG in every administration of government in the Region as referred to in paragraph (1) shall be the responsibility of the Regent.
+(2) Institutionalization of GMS in every implementation of governance in the Region as referred to in paragraph (1) is the responsibility of the Regent.
 
 #### Article 24
 
-The institutionalization of PUG as referred to in Article 23 shall be implemented in the form of policy programs and activities/sub-activities based on the duties and functions of Regional Apparatus.
+Institutionalization of GMS as referred to in Article 23 is implemented in the form of program policies and activities/sub-activities based on the duties and functions of the Regional Apparatus.
 
 #### Article 25
 
-Further provisions regarding the institutionalization of PUG as referred to in Article 23 and Article 24 shall be regulated by Regent Regulation.
+Further provisions regarding the institutionalization of GMS as referred to in Article 23 and Article 24 are regulated by Regent Regulation.
 
 # CHAPTER IV
 
@@ -514,349 +386,214 @@ CHILD-FRIENDLY REGENCY
 
 #### Article 26
 
-(1) Child Protection shall be implemented through the administration of fulfillment of children's rights and Child Protection and Special Protection for Children.
+(1) Child Protection is implemented through the implementation of fulfillment of rights and Child Protection and Special Protection for Children.
 
-(2) The Regional Government is responsible for the administration and coordination of Child Protection as referred to in paragraph (1).
+The Regional Government is responsible for the
+
+(2)
+
+implementation and coordination of Child Protection as referred to in paragraph (1).
 
 ## Part One
 
-Administration of Child-Friendly Regency
+Implementation of Child-Friendly Regency
 
 #### Article 27
 
-(1) Efforts to fulfill Children's rights shall be administered through KLA based on the principles of Pancasila and grounded in the 1945 Constitution of the Republic of Indonesia.
+Efforts to fulfill Children's Rights are implemented through CFR
 
-(2) The KLA efforts as referred to in paragraph (1) shall be implemented based on the principles of:
+(1)
 
-a. non-discrimination;
+based on the principles of Pancasila and grounded on the 1945 Constitution of the Republic of Indonesia. (2) CFR efforts as referred to in paragraph (1) are implemented based on the principles: a. non-discrimination: b. best interests of the Child,
 
-b. the best interests of the Child;
+c. right to life, survival, and development of the Child, d. respect for the views of the Child, and e. good governance.
 
-c. the right to life, survival, and development of the Child;
-
-d. respect for the views of the Child; and
-
-e. good governance.
-
-(3) The administration of KLA as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.
+(3) Implementation of CFR as referred to in paragraph (1) is carried out in accordance with statutory provisions.
 
 ## Part Two
 
-Rights, Obligations, and Special Protection for Children
-
-#### Article 28
+Rights, Obligations, and Special Protection of Children Article 28
 
 Every Child has the right to:
 
-a. live, grow, develop, and participate reasonably in accordance with human dignity, and receive protection from violence and discrimination;
-
-b. obtain a name as personal identity and citizenship status;
-
-c. worship according to their religion, think, and express themselves in accordance with their level of intelligence and age under the guidance of parents or guardians;
-
-d. know their parents, be raised, and be cared for by their own parents, unless there are reasons and/or valid legal rules requiring separation for the best interests of the Child;
-
-e. have their growth and development guaranteed, not be neglected by being cared for or adopted as a foster child or adopted child by others;
-
-f. obtain health services and social security in accordance with physical, mental, spiritual, and social needs;
-
-g. obtain education and teaching in the context of personal development and the Child's level of intelligence in accordance with the Child's interests and talents;
-
-h. receive protection in educational units from sexual crimes and Violence committed by educators, education personnel, fellow students, and/or other parties;
-
-i. obtain special education and receive special education for Children with Disabilities;
-
-j. obtain rehabilitation, social assistance, and maintenance of social welfare standards for Children with disabilities;
-
-k. express and have their opinion heard, receive, seek, and provide information in accordance with their level of intelligence and age for their self-development in accordance with the values of decency and propriety;
-
-l. rest and utilize leisure time, associate with Children of the same age, play, recreate, and create in accordance with their interests, talents, and level of intelligence for self-development;
-
-m. receive protection from discriminatory treatment, exploitation both economic and sexual, neglect, cruelty, Violence, and abuse, injustice, misuse in political activities, and sexual crimes;
-
-n. receive protection from involvement in armed conflict, social unrest, and events containing elements of violence and warfare;
-
-o. obtain protection from being targets of persecution, torture, or imposition of inhuman punishment;
-
-p. meet directly and maintain personal relations regularly with both parents in the event the Child is cared for not by their parents;
-
-q. receive care, maintenance, education and protection for the growth and development process from both parents in accordance with the Child's abilities, talents, and interests;
-
-r. obtain living expenses from both parents; s. obtain freedom in accordance with legal rules;
-
-t. in the case of arrest, detention, or criminal imprisonment of a Child, it shall be carried out as a last resort; and
-
-u. for Children who are deprived of their freedom, receive humane treatment and placement of the Child separated from adults, obtain legal assistance or other assistance effectively at every stage of legal remedies, self-defense and justice before an objective and impartial Children's court in a closed hearing to the public.
+- a. life, growth, development, and participation in a reasonable manner in accordance with human dignity and worth, as well as to receive protection from violence and discrimination, b. obtain a name as personal identity and citizenship status,
+- c. worship according to their religion, think, and express themselves in accordance with their level of intelligence and age under the guidance of parents or guardians, d. know their parents, be raised, and cared for by their own parents, unless there are valid reasons and/or legal rules necessitating separation in the best interests of the Child,
+- e. be guaranteed their growth and development, not be neglected by being cared for or adopted as a foster Child or adopted Child by others, f. obtain health services and social security in accordance with physical, mental, spiritual, and social needs,
+- g. obtain education and instruction in the context of personal development and the Child's level of intelligence in accordance with the Child's interests and talents, h. receive protection in educational units from sexual crimes and Violence committed by educators, educational staff, fellow students, and/or other parties, obtain special education and receive 1. special education for Children with Disabilities: k. obtain rehabilitation, social assistance, and maintenance of social welfare standards for Children with disabilities, express and be heard their opinions, receive, seek, and provide information in accordance with their level of intelligence and age for their self-development in accordance with the values of decency and propriety, rest and utilize leisure time, associate with Children of the same age, play, recreate, and create in accordance with their interests, talents, and level of intelligence for self-development, receive protection from discriminatory treatment, m. exploitation both economic and sexual, neglect, cruelty, Violence, and abuse, injustice, abuse in political activities, and sexual crimes,
+- n. P. receive protection from involvement in armed conflict, social unrest, and events containing elements of violence and warfare, obtain protection from being targets of persecution, torture, or imposition of inhumane punishment: meet directly and maintain personal contact regularly with both parents in the event the Child is not cared for by their parents, receive care, maintenance, education and protection for the growth and development process from both parents in accordance with the Child's abilities, talents, and interests, obtain financial support from both parents, obtain freedom in accordance with legal rules, in the event of arrest, detention, or criminal imprisonment of a Child being carried out as a last resort, and for Children deprived of their liberty to receive humane treatment and placement of Children separated from adults, obtain legal assistance or other assistance effectively at every stage of legal remedies, self-defense and justice before an objective and impartial Child court in closed sessions to the public.
 
 #### Article 29
 
-Every Child must:
-
-a. respect parents, guardians, and teachers;
-
-b. love the Family, community, and care for friends;
-
-c. love the homeland, nation, and state;
-
-d. perform worship in accordance with the teachings of religion and their beliefs; and
-
-e. have ethics and noble character in accordance with religious values and customs.
+Every Child is obligated to: respect parents, guardians, and teachers, love Family, community, and care for friends, love the homeland, nation, and state, perform worship in accordance with the teachings of their religion and beliefs, and be ethical and have noble character in accordance with religious values and customs. e.
 
 #### Article 30
 
-(1) Every Child has the right to receive Special Protection.
+Every Child has the right to receive Special Protection.
 
-(2) Children requiring Special Protection as referred to in paragraph (1) include:
+(1)
 
-a. Children in emergency situations;
+Children requiring Special Protection
 
-b. Children in conflict with the law;
+(2)
 
-c. Children from minority and isolated groups;
+as referred to in paragraph (1) include: a. Children in emergency situations:
 
-d. Children who are exploited economically and/or sexually;
+- b. Children in conflict with the law,
+- c. Children from minority and isolated groups,
+- d. Children who are exploited economically and/or sexually,
+- e. Children who are victims of narcotics, alcohol, psychotropic, and other addictive substance abuse, Children who are victims of pornography,
+- g. Children with human immunodeficiency virus (HIV)/
+- h. 1. acquired immuno deficiency syndrome (AIDS): Children who are victims of kidnapping, sale, and/or trafficking, Children who are victims of physical and/or psychological violence, Children who are victims of sexual crimes, Children who are victims of terrorism networks, Children with Disabilities, Children who are victims of abuse and neglect, Children with deviant social behavior, and Children who are victims of stigmatization from labeling m. n. related to their parents' condition.
+  - (3) The forms of Special Protection for Children as referred to in paragraph (2) shall be further regulated by Regent Regulation.
 
-e. Children who are victims of narcotics, alcohol, psychotropic, and other addictive substance abuse;
-
-f. Children who are victims of pornography;
-
-g. Children with human immunodeficiency virus (HIV)/ acquired immuno deficiency syndrome (AIDS):
-
-h. Children who are victims of kidnapping, sale, and/or trafficking;
-
-i. Children who are victims of physical and/or psychological violence;
-
-j. Children who are victims of sexual crimes;
-
-k. Children who are victims of terrorism networks;
-
-l. Children with Disabilities;
-
-m. Children who are victims of mistreatment and neglect;
-
-n. Children with deviant social behavior; and
-
-o. Children who are victims of stigmatization from labeling related to their parents' condition.
-
-(3) Forms of Special Protection for Children as referred to in paragraph (2) shall be further regulated by Regent Regulation.
-
-## Part Three
-
-Fulfillment of Rights and Protection of Children
+## Part Three Fulfillment of Rights and Protection of Children
 
 #### Article 31
 
-Fulfillment of rights and Protection of Children is the obligation and responsibility of:
+The fulfillment of rights and Protection of Children is the obligation and responsibility of:
 
-a. every person;
+- a. every person,
+- b. Family,
+  - c. community organizations,
+- d. business actors, Village Government, and e.
 
-b. the Family;
+Regional Government. f.
 
-c. community organizations;
-
-d. business actors;
-
-e. Village Government; and
-
-f. Regional Government.
-
-### Paragraph 1
+Paragraph
 
 Obligations and Responsibilities of Every Person in the Fulfillment of Rights and Protection of Children
 
 #### Article 32
 
-Every person in fulfilling the rights and Protection of Children has the obligation and responsibility to:
+Every person in fulfilling the rights and Protection of Children has the obligations and responsibilities to:
 
-a. not smoke near or at Children's playgrounds;
+- a. not smoke near or at Children's playgrounds, b. prevent the occurrence of all forms of violence against Children,
+- c. not employ Children as domestic helpers,
+- d. not order children to buy cigarettes, alcoholic beverages, and other addictive substances, and
+- e. prevent the occurrence of Child exploitation.
 
-b. prevent the occurrence of all forms of violence against Children;
+Paragraph
 
-c. not employ Children as domestic helpers;
+Obligations and Responsibilities of the Family in the Fulfillment of Rights and Protection of Children Article 33
 
-d. not instruct children to buy cigarettes, alcoholic beverages, and other addictive substances; and
-
-e. prevent the occurrence of exploitation of Children.
-
-### Paragraph 2
-
-Obligations and Responsibilities of the Family in the Fulfillment of Rights and Protection of Children
-
-#### Article 33
-
-Every adult in the family in fulfilling the rights and Protection of Children has the obligation and responsibility to:
-
-a. prevent the occurrence of violence against Children in the family;
-
-b. prevent the occurrence of exploitation of Children;
-
-c. prevent the occurrence of attempts to take Children out of the home/Region for any reason without parental permission; and
-
-d. report to the authorities if they become aware of attempts to fail to fulfill the rights and protection of children in the family.
+Every adult in the family in fulfilling the rights and Protection of Children has the obligations and responsibilities to: prevent the occurrence of violence against Children in a. the family, prevent the occurrence of Child exploitation, b. prevent the occurrence of attempts to take Children out of the home/Region for any reason without parental permission, and report to the authorities if aware of any attempts to fail to fulfill the rights and protection of children in the family.
 
 #### Article 34
 
-In addition to the obligations and responsibilities as referred to in Article 33, every parent of a Child in the fulfillment of rights and Protection of Children has the obligation and responsibility to:
+In addition to the obligations and responsibilities as referred to in Article 33, every parent of a Child in the fulfillment of rights and Protection of Children has the obligations and responsibilities to:
 
-a. fulfill the Child's decent living needs;
+- a. b.
 
-b. fulfill decent educational needs for the Child; and
+c. fulfill the Child's decent living needs, fulfill decent educational needs for the Child, and not employ the Child to other parties.
 
-c. not employ the Child to other parties.
-
-### Paragraph 3
+Paragraph
 
 Obligations and Responsibilities of Community Organizations in the Fulfillment of Rights and Protection of Children
 
 #### Article 35
 
-(1) Every community organization in the fulfillment of rights and Protection of Children has the obligation and responsibility to:
+Every community organization in the fulfillment of rights and Protection of Children has the obligations and
 
-a. have an organizational program in the field of Child Protection; and
+(1)
 
-b. participate in providing facilities for Children requiring Special Protection.
+responsibilities to:
 
-(2) Every community organization that does not fulfill its obligations as referred to in paragraph (1) letter a shall not be provided with services for processing registered certificates from the Regional Government.
+- a. have organizational programs in the field of Child Protection: and b. participate in providing facilities for Children requiring Special Protection. Every community organization that does not fulfill (2) its obligations as referred to in paragraph (1) letter shall not be provided with services for the processing of registered certificates from the Regional Government.
 
-### Paragraph 4
+Paragraph
 
 Obligations and Responsibilities of Business Actors in the Fulfillment of Rights and Protection of Children
 
 #### Article 36
 
-(1) Every business actor in the fulfillment of rights and Child Protection in general has the obligations and responsibilities:
+Every business actor in the fulfillment of rights and
 
-a. not to employ children as employees/workers; b. to comply with all applicable regulations in the fulfillment of rights and Child Protection.
+(1)
 
-(2) In addition to the obligations and responsibilities of business actors in general as referred to in paragraph (1), specifically:
+Child Protection in general has the obligations and responsibilities:
 
-a. every owner/manager of business in the field of industry and trade has the obligations and responsibilities:
+- a. not to employ children as employees/workers, b. to comply with all applicable regulations in the fulfillment of rights and Child Protection. In addition to the general obligations and responsibilities of business actors as (2) referred to in paragraph (1), specifically: a. every owner/manager of business in the field of industry and trade has the obligations and responsibilities:
+  - 1) not to assign female employees who are pregnant or breastfeeding to work at night, and
+  - 2) to provide a special room for breastfeeding mothers. b. every manager/owner of business in the field of hotels, lodging, homestays, guesthouses, resorts, tourist cottages, boarding houses, and other similar lodging places is prohibited from allowing Children to stay overnight without being accompanied by Parents or guardians, except with the permission of parents or guardians,
+    - c. every owner/manager of shopping centers, minimarkets, and other similar shopping places is prohibited from:
+  - 1) serving Children to purchase cigarettes, alcoholic beverages, and contraceptives,
+  - 2) allowing children to visit during school hours. d. every owner/manager of entertainment venues is prohibited from: 1) allowing children to visit during school hours, except when accompanied by teachers/educational staff, and 2) allowing Children to visit after 20.00 WIB without being accompanied by parents/guardians. Every business actor/owner/manager who does not fulfill the obligations and prohibitions as referred to (3) in paragraph (1) and paragraph (2) may be subject to administrative sanctions. Administrative sanctions as referred to in paragraph (3) consist of:
 
-1) not to require female employees who are pregnant or breastfeeding to work at night; and
+(4)
 
-2) to provide special rooms for breastfeeding mothers.
+verbal warning, written warning, administrative fine, temporary closure of business activities, or revocation of business license which is the authority of the Regional Government.
 
-b. every manager/owner of business in the field of hotels, lodging, homestays, guesthouses, resorts, tourist cottages, boarding houses, and other similar accommodation places is prohibited from allowing Children to stay overnight without being accompanied by parents or guardians, except with the permission of parents or guardians;
+The administrative fine as referred to in paragraph (4) letter is at most Rp. 50,000,000,- (fifty million
 
-c. every owner/manager of shopping centers, minimarkets, and other similar shopping places is prohibited from:
+(S)
 
-1) serving Children to purchase cigarettes, alcoholic beverages, and contraceptives;
+rupiah).
 
-2) allowing children to visit during school hours.
+The procedures for imposing administrative sanctions as referred to in paragraph (4) shall be further regulated by
 
-d. every owner/manager of entertainment venues is prohibited from:
+(6)
 
-1) allowing children to visit during school hours, except when accompanied by teachers/educators; and
+Regent Regulation.
 
-2) allowing Children to visit after 8:00 PM WIB without being accompanied by parents/guardians.
-
-(3) Every business actor/owner/manager who does not fulfill the obligations and prohibitions as referred to in paragraph (1) and paragraph (2) may be subject to administrative sanctions.
-
-(4) Administrative sanctions as referred to in paragraph (3) consist of:
-
-a. verbal warning;
-
-b. written warning;
-
-c. administrative fine;
-
-d. temporary closure of business activities; or
-
-e. revocation of business license which is the authority of the Regional Government.
-
-(5) Administrative fine as referred to in paragraph (4) letter c shall be at most Rp. 50,000,000,- (fifty million rupiah).
-
-(6) Procedures for imposing administrative sanctions as referred to in paragraph (4) shall be further regulated by Regent Regulation.
-
-### Paragraph 5
+Paragraph
 
 Obligations and Responsibilities of Village Government in the Fulfillment of Rights and Child Protection
 
 #### Article 37
 
-(1) Village Government in the fulfillment of rights and Child Protection has the obligations and responsibilities:
+The Village Government in the fulfillment of rights and Child Protection has the obligations and responsibilities:
 
-a. to formulate policies in the field of Child Protection;
+(1)
 
-b. to facilitate the establishment of Child organizations at the village level;
+a. to formulate policies in the field of Child Protection, b. to facilitate the establishment of Child organizations at the village level,
 
-c. to provide budget to support activities for the fulfillment of rights and Protection of Child victims of violence and Children who require Special Protection at the Village level;
+c. to provide budget to support activities for the fulfillment of rights and Protection of child victims of violence and Children in need of Special Protection at the Village level, d. to compile child profile data at the Village level,
 
-d. to compile Child profile data at the Village level;
+e. to implement Child-Friendly Village in the programs and activities of the Village revenue and expenditure budget,
 
-e. to implement the Child-Friendly Village implementation in programs and activities of the Village revenue and expenditure budget;
+f. to provide education scholarship budget for underprivileged Children,
 
-f. to provide education scholarship budget for underprivileged Children;
+g. to provide budget for Integrated Service Post (Posyandu) at the Village level, h. to provide budget for Early Childhood Education management institutions, to prevent the occurrence of violence and exploitation of Children, 1.
 
-g. to provide budget for Integrated Service Posts (Posyandu) at the Village level;
+j. to prevent attempts to take Children out of the Village/Region without parental consent and the knowledge of the Village Head, and k. to make efforts to fulfill the rights of Children in need of Special Protection.
 
-h. to provide budget for Early Childhood Education management institutions;
+(2) In the event that the Village Government does not fulfill the obligations as referred to in paragraph (1) letter c, letter f, letter and letter h, the Regional Government may postpone the distribution or reduce the allocation of Village funds.
 
-i. to prevent the occurrence of violence and exploitation of Children;
-
-j. to prevent attempts to take Children out of the Village/Region without parental permission and the knowledge of the Village Head; and
-
-k. to make efforts to fulfill the rights of Children who require Special Protection.
-
-(2) In the event that the Village Government does not fulfill the obligations as referred to in paragraph (1) letter c, letter f, letter g and letter h, the Regional Government may postpone the distribution or reduce the allocation of village funds.
-
-(3) Procedures and percentage amounts of budgeting as referred to in paragraph (1) letter c, letter f, letter g and letter h as well as postponement of distribution or reduction of village fund allocation as referred to in paragraph (2) shall be further regulated by Regent Regulation.
+(3) The procedures and percentage amounts of budgeting as referred to in paragraph (1) letter c, letter f, letter and letter as well as the postponement of distribution or reduction of village fund allocation as referred to in paragraph (2) shall be further regulated by Regent Regulation.
 
 #### Article 38
 
-(1) Village Government conducts guidance and supervision of the fulfillment of rights and Child Protection.
+(1) The Village Government conducts guidance and supervision of the fulfillment of rights and Child Protection. (2) Guidance and supervision as referred to in paragraph (1) shall be carried out in the form of socialization, counseling and monitoring.
 
-(2) Guidance and supervision as referred to in paragraph (1) shall be conducted in the form of socialization, counseling and monitoring.
+(3) The procedures for guidance, supervision and monitoring as referred to in paragraph (2) shall be further regulated by Regent Regulation.
 
-(3) Procedures for guidance, supervision and monitoring as referred to in paragraph (2) shall be further regulated by Regent Regulation.
-
-### Paragraph 6
+Paragraph
 
 Obligations and Responsibilities of Regional Government in the Fulfillment of Rights and Child Protection
 
 #### Article 39
 
-Regional Government in efforts to fulfill rights and Child Protection has the obligations and responsibilities:
+The Regional Government in efforts to fulfill rights and Child Protection has the obligations and responsibilities:
 
-a. to formulate strategic plans for Child protection in the short, medium, and long term;
-
-b. to provide legal aid facilities in the form of advocacy and assistance for victims and or families of victims of violence against Children;
-
-c. to encourage the responsibility of all stakeholders to fulfill obligations and responsibilities in the fulfillment of rights and Child Protection;
-
-d. to provide budget for programs for the fulfillment of rights and Child Protection at the Regional level;
-
-e. to facilitate the establishment of child organizations at the Regional level;
-
-f. to provide shelter facilities for child victims of violence; and
-
-g. to coordinate the implementation of the fulfillment of rights and Child Protection in accordance with the provisions of laws and regulations.
+- a. to formulate short, medium, and long-term Child protection strategic plans, b. to provide legal aid facilities in the form of advocacy and assistance for victims and/or families of victims of violence against Children,
+  - c. to encourage the responsibility of all stakeholders to fulfill obligations and responsibilities in the fulfillment of rights and Child Protection, d. to provide budget for programs on the fulfillment of rights and Child Protection at the Regional level,
+- e. to facilitate the establishment of child organizations at the Regional level,
+- f. to provide shelter facilities for child victims of violence, and
+- g. to coordinate the implementation of the fulfillment of rights and Child Protection in accordance with the provisions of laws and regulations.
 
 #### Article 40
 
-(1) In carrying out the obligations and responsibilities as referred to in Article 39, the Regent shall establish an integrated team.
+(1) In carrying out the obligations and responsibilities as referred to in Article 39, the Regent establishes an integrated team. (2) The team as referred to in paragraph (1) consists of relevant Regional Apparatus by involving vertical agencies in the Region, religious leaders, community leaders, business world, and press personnel.
 
-(2) The team as referred to in paragraph (1) shall consist of relevant Regional Apparatus by involving vertical agencies in the Region, religious leaders, community leaders, business world, and press members.
+(3) The establishment, duties, functions and working procedures of the integrated team as referred to in paragraph (2) shall be further regulated by Regent Regulation.
 
-(3) Establishment, duties, functions and working procedures of the integrated team as referred to in paragraph (2) shall be further regulated by Regent Regulation.
-
-## Part Four
-
-Regional Child Forum
+## Part Four Regional Child Forum
 
 #### Article 41
 
-(1) To organize CFA, membership of the Regional Child Forum shall consist of children from cross-communities domiciled in the Region.
+(1) To organize KLA, the membership of the Regional Child Forum consists of children across communities who reside in the Region. (2) The Regional Government establishes the Regional Child Forum. (3) Guidance of the Child Forum is conducted by the KLA Task Force. (4) Provisions regarding the establishment of the Child Forum at the Regional level shall be stipulated by Regent Decree. (S5) The establishment of the Child Forum at the Sub-district level shall be stipulated by the Sub-district Head.
 
-(2) Regional Government shall establish the Regional Child Forum.
-
-(3) Guidance of the Child Forum shall be conducted by the CFA Task Force.
-
-(4) Provisions regarding the establishment of the Child Forum at the Regional level shall be stipulated by Regent Decree.
-
-(5) Establishment of the Child Forum at the Sub-district level shall be stipulated by the Sub-district Head.
-
-(6) Establishment of the Child Forum at the Village level shall be stipulated by the Village Head.
+(6) The establishment of the Child Forum at the Village level shall be stipulated by the Village Head.
 
 #### Article 42
 
@@ -864,87 +601,66 @@ The Regional Child Forum has the function as a forum for Child participation in 
 
 #### Article 43
 
-(1) The Child Forum has the roles:
+(1) The Child Forum has the roles: a. as pioneers and reporters: and
 
-a. as pioneers and reporters; and
+b. Child participation in development planning. (2) The implementation of the role as pioneers and reporters through Child Participation in development planning as referred to in paragraph (1) is in the form of issues related to the fulfillment of Child Rights and Special Protection of Children. (3) The Child Forum has instruments consisting of: a. supervisor, b. companion, c. facilitator:
 
-b. Child participation in development planning.
-
-(2) Implementation of the role as pioneers and reporters through Child Participation in development planning as referred to in paragraph (1) shall be in the form of issues related to the fulfillment of Child Rights and Special Protection of Children.
-
-(3) The Child Forum has supporting instruments consisting of:
-
-a. advisors;
-
-b. companions;
-
-c. facilitators;
-
-d. management; and
-
-e. members.
+- d. management, and
+- e. members.
 
 #### Article 44
 
 Provisions regarding the Regional Child Forum shall be implemented in accordance with the provisions of laws and regulations.
 
-# CHAPTER V
+CHAPTER
 
-PROTECTION SERVICES FOR WOMEN VICTIMS OF VIOLENCE AND CHILD PROTECTION
+SERVICES FOR THE PROTECTION OF WOMEN VICTIMS OF VIOLENCE AND CHILD PROTECTION
 
 #### Article 45
 
-(1) Regional Government shall be responsible for providing protection services for women victims of violence and Special Protection of Children.
+The Regional Government is responsible for providing
 
-(2) Protection services for women victims of violence and Special Protection of Children as referred to in paragraph (1) shall be at the UPTD PPA.
+(1)
 
-(3) Provision of services as referred to in paragraph (1) shall include:
+protection services for women victims of violence and Special Protection of Children. Protection services for women victims of violence and
 
-a. further referral services for women victims of violence requiring coordination at the Regional level; and
+(2)
 
-b. Special Protection services for Children requiring coordination at the Regional level.
+Special Protection of Children as referred to in paragraph (1) shall be under the UPTD PPA. The provision of services as referred to in paragraph (1)
 
-(4) Establishment of UPTD PPA as referred to in paragraph (2) shall be stipulated by Regent Regulation in accordance with the provisions of applicable laws and regulations.
+(3)
+
+includes:
+
+- a. follow-up referral services for women victims of violence requiring coordination at the Regional level: and b. Special Protection services for Children requiring coordination at the Regional level.
+
+The establishment of UPTD PPA as referred to in paragraph
+
+(4)
+
+(2) shall be stipulated by Regent Regulation in accordance with the provisions of applicable laws and regulations.
 
 #### Article 46
 
-(1) Services for women victims of violence as referred to in Article 45 paragraph (3) letter a are women who are in the following conditions:
+Services for women victims of violence
 
-a. women victims of the criminal act of trafficking in persons;
+(1)
 
-b. women in conflict-prone and disaster areas;
+as referred to in Article 45 paragraph (3) letter constitutes women who are in the condition of: women victims of criminal acts of trafficking in persons, women in conflict-prone and disaster areas, working women, elderly women, women with Disabilities, women heads of Households, women victims of sexual exploitation, and/or women from other vulnerable groups.
 
-c. women workers;
+Services for Children requiring Special Protection as referred to in Article 45 paragraph (3) letter constitutes Children who are in the condition of requiring Special Protection.
 
-d. elderly women;
+#### (2) Article 47
 
-e. women with Disabilities;
+Provision of services at UPTD PPA within the framework of
 
-f. women heads of Families;
+(1)
 
-g. women victims of sexual exploitation; and/or
+Protection services for women victims of violence and for Children requiring Special Protection include:
 
-h. women from other vulnerable groups.
-
-(2) Services for Children requiring Special Protection as referred to in Article 45 paragraph (3) letter b are Children who are in conditions requiring Special Protection.
-
-#### Article 47
-
-(1) The provision of services at UPTD PPA in the context of providing Protection services for women victims of violence and for Children requiring Special Protection includes:
-
-a. public complaints;
-
-b. victim outreach;
-
-c. case management;
-
-d. temporary shelter;
-
-e. mediation; and
-
-f. victim assistance.
-
-(2) UPTD PPA in providing services as referred to in paragraph (1) shall comply with service standards established by laws and regulations.
+- a. b.
+- d. e. public complaints, victim outreach, case management, temporary shelter, mediation, and victim assistance.
+  - (2) UPTD PPA in providing services as referred to in paragraph (1) shall be in accordance with service standards established by laws and regulations.
 
 #### Article 48
 
@@ -954,75 +670,47 @@ f. victim assistance.
 
 #### Article 49
 
-UPTD PPA in providing protection services for women victims of violence and for Children requiring Special Protection shall coordinate with:
+UPTD PPA in providing protection services for women victims of violence and for Children requiring Special Protection shall coordinate with: a. hospitals, public health centers and other health service facilities,
 
-a. hospitals, community health centers and other health service facilities;
+b. correctional centers,
 
-b. correctional centers;
+c. sector police, d. resort police,
 
-c. sector police;
-
-d. resort police;
-
-e. regional police;
-
-f. district prosecutor's office;
-
-g. high prosecutor's office;
-
-h. district courts and high courts;
-
-i. placement and protection service centers for Indonesian workers;
-
-j. regional office of the Ministry of Religious Affairs;
-
-k. regional office of the Ministry of Law;
-
-l. special child correctional institutions; and/or
-
-m. social welfare service institutions.
+- e. regional police,
+- f. district prosecutor's office,
+- g. high prosecutor's office, h. district courts and high courts, service centers for placement and protection of Indonesian i. workers, regional office of the Ministry of Religious Affairs, regional office of the Ministry of Law, special correctional institutions for Children, and/or
+- m. social welfare service institutions.
 
 #### Article 50
 
-In addition to coordination as referred to in Article 49, UPTD PPA may coordinate with Village Government and the Provincial Government of West Sumatra.
+In addition to coordination as referred to in Article 49, UPTD PPA may coordinate with the Village Government and the Provincial Government of West Sumatra.
 
 #### Article 51
 
-(1) In the event that case handling has been completed by UPTD PPA, UPTD PPA shall report to the Agency for follow-up post case handling.
-
-(2) Follow-up post case handling as referred to in paragraph (1) shall be in the form of providing services for Families to realize Gender Equality and children's rights.
+(1) In the event that case handling has been completed by UPTD PPA, UPTD PPA shall report to the Agency for follow-up after case handling. (2) Follow-up after case handling as referred to in paragraph (1) shall be in the form of providing services for Families to realize Gender Equality and the rights of Children.
 
 # CHAPTER VI
 
-FAMILY QUALITY IMPROVEMENT
+IMPROVEMENT OF FAMILY QUALITY
 
 #### Article 52
 
-(1) In implementing Women's Empowerment and Child Protection in the Region, the Regional Government shall be responsible for improving Family quality.
+(1) In implementing Women's Empowerment and Child Protection in the Region, the Regional Government is responsible for improving the quality of Families.
 
-(2) Family quality improvement as referred to in paragraph (1) aims to:
+(2) Improvement of Family quality as referred to in paragraph (1) aims to:
 
-a. integrate policies, programs, and development activities whose targets are aimed at improving Family quality;
-
-b. strengthen and develop institutions providing Family quality improvement services; and
-
-c. provide standardized Family quality improvement services.
-
-(3) Family quality improvement as referred to in paragraph (1) shall be implemented to enhance the role of Families in developing self-potential to be more capable of being independent and productive.
-
-(4) The Regent may assign village heads for Family quality improvement in the development of Women's Empowerment and Child Protection in accordance with the provisions of laws and regulations.
+- a. integrate policies, programs, and activities of development targeted at improving Family quality, b. strengthen and develop institutions providing Family quality improvement services, and
+  - c. provide standardized Family quality improvement services.
+    - (3) Improvement of Family quality as referred to in paragraph (1) shall be implemented to enhance the role of Families in developing self-potential to be more capable of independence and productivity.
+    - (4) The Regent may assign the village head for improvement of Family quality in the development of Women's Empowerment and Child Protection in accordance with the provisions of laws and regulations.
 
 #### Article 53
 
-(1) Family quality improvement shall be implemented with due regard to:
+(1) Improvement of Family quality shall be implemented with due regard to:
 
-a. Gender Equality in carrying out family functions;
-
-b. protection; and
-
-c. the best interests of Children.
-
-(2) Gender Equality in carrying out Family functions as referred to in paragraph (1) letter a includes religious functions, socio-cultural functions, affection functions, protection functions, reproduction functions, socialization and education functions, economic functions, and environmental development functions.
+- a. Gender Equality in carrying out family functions, b. protection, and
+- c. the best interests of Children.
+  - (2) Gender Equality in carrying out Family functions as referred to in paragraph (1) letter includes religious functions, socio-cultural functions, affection functions, protection functions, reproduction functions, socialization and education functions, economic functions, and environmental development functions.
 
 #### Article 54
 
@@ -1030,171 +718,102 @@ The Regent shall conduct monitoring, evaluation, and reporting of Family quality
 
 #### Article 55
 
-The scope of Family Quality Improvement includes:
+The scope of Family Quality Improvement includes: a. planning, implementation, monitoring, evaluation, and reporting of Family Quality improvement that is Gender and Child Rights responsive in policies, programs, and activities targeted at Families,
 
-a. planning, implementation, monitoring, evaluation, and reporting of Family Quality improvement that is Gender responsive and Child Rights responsive in policies, programs, and activities whose targets are aimed at Families;
+b. strengthening and developing institutions providing Family quality improvement services in realizing Gender Equality and the rights of Children; and
 
-b. strengthening and developing institutions providing Family quality improvement services in realizing Gender Equality and children's rights; and
-
-c. standardization of institutions providing Family quality improvement services in realizing Gender Equality and children's rights.
+c. standardization of institutions providing Family quality improvement services in realizing Gender Equality and the rights of Children.
 
 #### Article 56
 
-(1) The Regent and village heads shall be responsible for the implementation of Family quality improvement in
+(1) The Regent and village heads are responsible for the implementation of Family quality improvement in realizing Gender Equality and the rights of Children, according to their respective levels and authorities.
 
-realizing Gender Equality and children's rights, according to their respective levels and authorities.
+Improvement of Family quality as referred to in paragraph
 
-(2) Family quality improvement as referred to in paragraph (1) shall be carried out through:
+(2)
 
-a. formulation of technical policies for Family quality improvement;
+(1) shall be conducted through:
 
-b. coordination of Family quality improvement among regional apparatus;
-
-c. preparation of regional action plans for achieving Family quality index in Regional Government down to Villages by involving the community;
-
-d. integration of Regional action plans into planning and budgeting documents;
-
-e. coordination of implementation of Regional action plans;
-
-f. management of Family quality index data for program/activity intervention in Regional Government; and
-
-g. monitoring, evaluation, and reporting.
+- a. formulation of technical policies for Family quality improvement,
+- b. coordination of Family quality improvement among regional apparatuses,
+- c. preparation of regional action plans for achieving Family quality index in the Regional Government down to the Village by involving the community,
+- d. integration of regional action plans into planning and budgeting documents,
+- e. coordination of the implementation of regional action plans,
+- f. management of Family quality index data for program/activity intervention in the Regional Government, and g. monitoring, evaluation, and reporting.
 
 #### Article 57
 
-(1) In Family quality improvement as referred to in Article 56, the Regional Government shall provide services for Families to realize Gender Equality and Children's Rights with a working area across Villages.
+In improving Family quality as referred to in Article 56, the Regional Government
 
-(2) The provision of Family quality improvement services as referred to in paragraph (1) shall be implemented through:
+(1)
 
-a. socialization of guidelines for standardization of institutions providing Family quality improvement services in the Region;
+shall provide services for Families to realize Gender Equality and the Rights of Children with a working area across Villages.
 
-b. advocacy for the implementation of standardization of institutions providing Family quality improvement services in the Region;
+Provision of Family quality improvement services as
 
-c. coordination of guidelines for standardization of institutions providing Family quality improvement services in the Region;
+(2)
 
-d. implementation of guidelines for standardization of institutions providing Family quality improvement services in the Region;
+referred to in paragraph (1) shall be implemented through: a. socialization of standardization guidelines for institutions providing Family quality improvement services in the Region, b. advocacy for the implementation of standardization of institutions providing Family quality improvement services in the Region, c. coordination of standardization guidelines for institutions providing Family quality improvement services in the Region, d. implementation of standardization guidelines for institutions providing Family quality improvement services in the Region, e. assistance in the implementation of standardization of institutions providing Family quality improvement services in the Region,
 
-e. assistance in the implementation of standardization of institutions providing Family quality improvement services in the Region;
-
-f. certification of human resources at institutions providing Family quality improvement services based on guidelines for competency certification of human resources at institutions providing Family quality improvement services in the Region;
-
-g. strengthening and development of standardized institutions providing Family quality improvement services in the Region;
-
-h. conducting technical guidance and supervision of the implementation of standardization of institutions providing Family quality improvement services in the Region;
-
-i. assistance and guidance in the implementation of standardization of institutions providing Family quality improvement services in the Region;
-
-j. monitoring and evaluation of the implementation of standardization of institutions providing Family quality improvement services in the Region; and
-
-k. development/replication of standardization of institutions providing Family quality improvement services in the Region.
-
-(3) The provision of services as referred to in paragraph (1) shall be implemented by the Agency.
+- f. certification of human resources at institutions providing Family quality improvement services based on competency certification guidelines for human resources at institutions providing Family quality improvement services in the Region,
+- g. strengthening and developing standardized institutions providing Family quality improvement services in the Region, h. conducting technical guidance and supervision of the implementation of standardization of institutions providing Family quality improvement services in the Region,
+- i. assistance and guidance in the implementation of standardization of institutions providing Family quality improvement services in the Region,
+- j. monitoring and evaluation of the implementation of standardization of institutions providing Family quality improvement services in the Region, and
+- k. development/replication of standardization of institutions providing Family quality improvement services in the Region. (3) Provision of services as referred to in paragraph (1) shall be implemented by the Agency.
 
 #### Article 58
 
-(1) Provision of services for Families in realizing Gender Equality and the rights of Children as referred to in Article 57 is provided through:
+(1) The provision of services for Families in realizing Gender Equality and the rights of Children as referred to in Article 57 is provided through:
 
-a. provision of entrepreneurship training in order to improve the economy;
-
-b. provision of legal counseling to increase legal awareness;
-
-c. provision of opportunities to participate in development activities;
-
-d. provision of assistance for women, Children and Families; and/or
-
-e. enhancement of the role of Families in pursuing marriage of Children in accordance with the age stipulated in the provisions of laws and regulations.
-
-(2) The Agency may coordinate with related Regional Apparatus in the provision of services for Families in realizing Gender Equality and the rights of Children as referred to in paragraph (1).
-
-(3) In addition to related Regional Apparatus as referred to in paragraph (2), the Agency may coordinate with other agencies and/or institutions.
+- a. b. Cc.
+- d. e. providing entrepreneurship training in order to improve the economy, providing legal counseling to increase legal awareness: providing opportunities to participate in development activities, providing assistance for women, Children and Families, and/or enhancing the role of Families in pursuing Child marriage in accordance with the age stipulated in the provisions of laws and regulations.
+  - (2) The Service may coordinate with related Regional Apparatus in the provision of services for Families in realizing Gender Equality and the rights of Children as referred to in paragraph (1).
+  - (3) In addition to the related Regional Apparatus as referred to in paragraph (2), the Service may coordinate with other agencies and/or institutions.
 
 #### Article 59
 
 (1) Community participation in improving the quality of Families is carried out in the form of partnerships, among others, through:
 
-a. strengthening institutions for improving the quality of Families in realizing Gender Equality and the rights of Children;
-
-b. strengthening and developing standardized Family quality improvement service provider institutions;
-
-c. providing information through socialization and advocacy regarding improving the quality of Families;
-
-d. playing an active role in promoting the importance of improving the quality of Families as the basic strength of society and the state; and/or
-
-e. actively participating in supporting the monitoring and evaluation of the implementation of improving the quality of Families in the Region.
-
-(2) In addition to the forms of partnership as referred to in paragraph (1), the community also encourages the improvement of Families in realizing Gender Equality and the rights of Children, among others, through:
-
-a. public dialogue;
-
-b. public consultation;
-
-c. deliberation;
-
-d. submission of aspirations;
-
-e. supervision;
-
-f. working visits;
-
-g. socialization and advocacy;
-
-h. seminars and workshops;
-
-i. public hearings or discussions; and/or
-
-j. studies on women's and Children's issues.
-
-(3) Community participation as referred to in paragraph (1) is implemented with the following mechanisms:
-
-a. socialization of guidelines for implementing policies on improving the quality of Families to community institutions;
-
-b. establishment and development of coordination forums for improving the quality of Families together with the government or other communities;
-
-c. participating in the implementation of improving the quality of Families; and/or
-
-d. monitoring and evaluation.
+- a. b.
+- d. e. strengthening institutions for improving the quality of Families in realizing Gender Equality and the rights of Children, strengthening and developing standardized institutions providing services for improving the quality of Families, providing information through socialization and advocacy regarding improving the quality of Families, playing an active role in promoting the importance of improving the quality of Families as the basis for the strength of society and the state, and/or actively participating in supporting monitoring and evaluation of the implementation of improving the quality of Families in the Region.
+  - (2) In addition to the form of partnership as referred to in paragraph (1), the community also encourages the improvement of Families in realizing Gender Equality and the rights of Children, among others, through: public dialogue, public consultation,
+    - Cc. e. deliberation, delivery of aspirations, supervision, working visits, socialization and advocacy, seminars and workshops, public hearings or discussions, and/or j. studies on women and Children issues.
+  - (3) Community participation as referred to in paragraph (1) is implemented with the following mechanism: a. socialization of guidelines for implementing policies to improve the quality of Families to community institutions,
+- b. establishment and development of coordination forums for improving the quality of Families together with the government or other communities, c. participating in the implementation of improving the quality of Families, and/or
+- d. monitoring and evaluation.
 
 #### Article 60
 
-Improving the quality of Families as well as monitoring, evaluation and reporting on improving the quality of Families is implemented in accordance with the provisions of laws and regulations.
+Improving the quality of Families as well as monitoring, evaluation and reporting on improving the quality of Families is carried out in accordance with the provisions of laws and regulations.
 
 # CHAPTER VII
 
-INSTITUTIONAL STRENGTHENING AND DEVELOPMENT
+STRENGTHENING AND DEVELOPMENT OF INSTITUTIONS Article 61
 
-#### Article 61
+(1) The Regional Government is responsible for strengthening and developing institutions providing services for Women's Empowerment and Child Protection in the Region.
 
-(1) The Regional Government is responsible for strengthening and developing Women's Empowerment and Child Protection service provider institutions in the Region.
-
-(2) In strengthening and developing Women's Empowerment and Child Protection service provider institutions as referred to in paragraph (1), the Regional Government provides a budget in accordance with the financial capacity of the Region.
+(2) In strengthening and developing institutions providing services for Women's Empowerment and Child Protection as referred to in paragraph (1), the Regional Government provides a budget in accordance with the financial capacity of the Region.
 
 #### Article 62
 
-(1) Women's Empowerment and Child Protection service provider institutions are community organizations with legal entity status and/or have a certificate of registration from the Regent for those without legal entity status.
+(1) Institutions providing services for Women's Empowerment and Child Protection are legal entity community organizations and/or have a certificate of registration from the Regent for those that are not legal entities.
 
-(2) Women's Empowerment and Child Protection service provider institutions as referred to in paragraph (1) are Women's Empowerment and Child Protection institutions at the Regional level and/or with a working area coverage across Villages.
+(2) Institutions providing services for Women's Empowerment and Child Protection as referred to in paragraph (1) are Regional-level Women's Empowerment and Child Protection institutions and/or cover cross-Village working areas.
 
 #### Article 63
 
-Strengthening and developing Women's Empowerment and Child Protection service provider institutions as referred to in Article 61 includes:
+Strengthening and development of institutions providing services for Women's Empowerment and Child Protection as referred to in Article 61 includes: a. strengthening management, b. provision of data and information,
 
-a. management strengthening;
+C. development of partnerships,
 
-b. provision of data and information;
+d. support for expertise, programs, and assistance, e. strengthening leadership and cadre development:
 
-c. partnership development;
-
-d. support for expertise, programs, and assistance;
-
-e. leadership strengthening and cadre development;
-
-f. awarding of recognition; and/or
-
-g. facilitation of research and development.
+- f. granting of awards, and/or
+- g. facilitation of research and development.
 
 #### Article 64
 
-Further provisions regarding the strengthening and development of Women's Empowerment and Child Protection service provider institutions are regulated by Regent Regulation.
+Further provisions regarding strengthening and development of institutions providing services for Women's Empowerment and Child Protection are regulated by Regent Regulation.
 
 # CHAPTER VIII
 
@@ -1206,301 +825,303 @@ GENDER AND CHILD DATA
 
 (2) In organizing the Gender and Child data system as referred to in paragraph (1), the Region may establish or develop a disaggregated data forum/working group.
 
-(3) The disaggregated data forum/working group as referred to in paragraph (2) has duties including:
+(3) The disaggregated data forum/working group as referred to in paragraph (2) has tasks including: a. coordinating data management units, research units, planning units, and reporting units both internally and externally in organizing the Gender and Child data system,
 
-a. coordinating data management units, research units, planning units, and reporting units internally and externally in organizing the Gender and Child data system;
+b. encouraging implementing units/work units to collect and utilize disaggregated data and gender and child analysis in preparing planning, implementation, evaluation and reporting of Gender-responsive and Child-caring development activities,
 
-b. encouraging implementing units/work units to collect and utilize disaggregated data and gender and child analysis in preparing planning, implementation, evaluation and reporting of Gender-responsive and Child-sensitive development activities;
-
-c. encouraging data management units, research units, and reporting units to document and disseminate disaggregated data into publications and database systems that are updated regularly;
-
-d. conducting monitoring and evaluation of the organization of the gender and child data system at least 1 (one) time in 1 (one) year; and
-
-e. reporting the results of the implementation of organizing the Gender and Child data system to the Regent.
+Cc. encouraging data management units, research units, and reporting units to document and disseminate disaggregated data into publications and database systems that are regularly updated, d. conducting monitoring and evaluation of the organization of the gender and child data system at least (one) time in (one) year, and e. reporting the results of the implementation of the organization of the Gender and Child data system to the Regent.
 
 #### Article 66
 
-(1) In order to accelerate the realization of organizing Gender data and Child data, and for ease of communication, a mechanism for the Gender and Child data organization system is required.
+(1) In order to accelerate the realization of the organization of Gender data and Child data, as well as for ease of communication, a mechanism for the Gender and Child data organization system is required. (2) the mechanism of the Gender and Child data organization system as referred to in paragraph (1) is:
 
-(2) the mechanism for the Gender and Child data organization system as referred to in paragraph (1) is:
-
-a. indicators and types of data needed;
-
-b. data collectors;
-
-c. collection methods and data flow;
-
-d. data collection period; and
-
-e. beneficiaries.
+- a. b. c. d. e. indicators and types of data needed, data collectors, data collection methods and data flow, data collection period, and beneficiaries.
 
 #### Article 67
 
-Funding for organizing the Gender and Child data system is sourced from the state revenue and expenditure budget, the provincial regional revenue and expenditure budget and the Regional revenue and expenditure budget as well as other legitimate and non-binding sources in accordance with the provisions of laws and regulations.
+Funding for the organization of the Gender and Child data system is sourced from the state revenue and expenditure budget, provincial regional revenue and expenditure budget and Regional revenue and expenditure budget as well as other legitimate and non-binding sources in accordance with the provisions of laws and regulations.
 
 #### Article 68
 
-The procedures for organizing gender and child data as referred to in Article 65 through Article 67 are further regulated by Regent Regulation.
+Procedures for organizing gender and child data as referred to in Article 65 through Article 67 are further regulated by Regent Regulation.
 
-# CHAPTER IX
-
-COOPERATION
+# CHAPTER IX COOPERATION
 
 #### Article 69
 
 (1) In organizing the Protection of Women and Children, the Regional Government may cooperate with:
 
-a. other regional governments;
+- a. other regional governments,
+- b. government commissions/bodies/institutions in the field of protection of women and Children, the police,
+- d. e. f£ 1. advocates, health workers, district prosecutor's office, district court, community supervisors of correctional centers, social workers, volunteer assistants, spiritual advisors, non-governmental organizations engaged in the protection of women and Children, and
+- m. the community.
+  - (2) Cooperation as referred to in paragraph (1) is in the form of:
+- a. b.
+- d. e. socialization: provision of legal aid, health services, victim assistance, counseling, social rehabilitation, spiritual guidance, repatriation and social reintegration, and
+- i. Family welfare consultation institutions.
+  - (3) Cooperation as referred to in paragraph (1) is carried out in accordance with laws and regulations.
 
-b. commissions/agencies/government institutions in the field of protection of women and Children;
-
-c. police;
-
-d. advocates;
-
-e. health workers;
-
-f. state prosecutor's office;
-
-g. district court;
-
-h. community supervisors of correctional centers;
-
-i. social workers;
-
-j. volunteer assistants;
-
-k. religious counselors;
-
-l. non-governmental organizations engaged in the protection of women and Children; and
-
-m. the community.
-
-(2) Cooperation as referred to in paragraph (1) is in the form of:
-
-a. socialization;
-
-b. provision of legal aid;
-
-c. health services;
-
-d. victim assistance;
-
-e. counseling;
-
-f. social rehabilitation;
-
-g. religious guidance;
-
-h. repatriation and social reintegration; and
-
-i. Family welfare consultation institutions.
-
-(3) Cooperation as referred to in paragraph (1) is implemented in accordance with laws and regulations.
-
-# CHAPTER X
+CHAPTER
 
 COMMUNITY PARTICIPATION
 
 #### Article 70
 
-(1) The community may participate in the implementation of Women's Empowerment and Child Protection in the Region.
+(1) The community may participate in organizing the field of Women's Empowerment and Child Protection in the Region.
 
-(2) Community participation as referred to in paragraph (1) is carried out by:
+Community participation as referred to in paragraph
 
-a. individual Indonesian Citizens;
+(2)
 
-b. community groups; and/or
+(1) is carried out by:
 
-c. community organizations.
+- a. individual Indonesian Citizens,
+- b. community groups: and/or
+  - C. community organizations.
 
 #### Article 71
 
-(1) Community participation as referred to in Article 70 is carried out in:
+Community participation as referred to in
 
-a. providing input at the stage of formation of laws and regulations;
+#### (1) Article 70 is carried out in:
 
-b. planning and budgeting;
+a. providing input at the stage of formation of legislation,
 
-c. implementation; and
+b. planning and budgeting,
 
-d. monitoring and evaluation;
+Cc. implementation, and
 
-regarding Women's Empowerment and Child Protection carried out by Regional Government and Village Government.
+d. monitoring and evaluation, regarding Women's Empowerment and Child Protection carried out by the Regional Government and Village Government.
 
-(2) Community participation in providing input at the stage of formation of laws and regulations as referred to in paragraph (1) letter a is carried out by providing input regarding the substance of Gender Equality, protection of women's rights, Fulfillment of Children's rights, and Special Protection of Children so that:
+Community participation in providing input at the stage of
 
-a. it is in accordance with the needs of women and Children;
+(2)
 
-b. it is not discriminatory towards women and Children;
+formation of legislation as referred to in paragraph (1) letter is carried out by providing input regarding the substance of Gender Equality, protection of women's rights, Fulfillment of Children's rights, and Special Protection of Children so that:
 
-c. it provides facilities and special treatment for women and Children.
+- a. in accordance with the needs of women and Children, b. non-discriminatory against women and Children, c. provide facilities and special treatment for women and Children.
 
-(3) Community participation in planning and budgeting as referred to in paragraph (1) letter b is carried out by integrating Gender perspective and Children's rights into community programs and activities.
+Community participation in planning and budgeting as
 
-(4) Community participation in implementation as referred to in paragraph (1) letter c is carried out by conducting partnerships with Regional Government which are carried out in the form of:
+(3)
 
-a. strengthening the institutionalization of Women's Empowerment and institutionalization of Child Protection;
+referred to in paragraph (1) letter is carried out by integrating Gender perspectives and Children's rights into community programs and activities.
 
-b. strengthening or increasing the capacity of women in access, participation, control, and benefits in all fields of development through technical guidance and supervision;
+Community participation in implementation as referred to in paragraph (1) letter is carried out by conducting partnerships with the Regional Government which are carried out in the form of:
 
-c. mutually providing facilitation support or assistance (specific needs of women and special needs of Children) in accordance with the provisions of laws and regulations;
+(4)
 
-d. providing information through socialization and advocacy regarding women's rights and Children's rights as well as laws and regulations concerning women and Children;
+a. strengthening the institutionalization of Women's Empowerment and institutionalization of Child Protection, b. strengthening or increasing the capacity of women in access, participation, control, and benefits in all fields of development through technical guidance and supervision,
 
-e. preventing the occurrence of violence and human rights violations against women and Children including in conflict and disaster situations;
+c. mutually providing facilitation support or assistance (specific needs of women and special needs of Children) in accordance with the provisions of legislation,
 
-f. reporting if violence occurs against women and Children;
+d. providing information through socialization and advocacy regarding women's rights and Children's rights as well as legislation concerning women and Children,
 
-g. assisting women victims of violence so that they do not experience stigma and exclusion in their environment;
+e. preventing violence and human rights violations against women and Children including in conflict and disaster situations,
 
-h. supporting the availability of facilities and infrastructure in creating a conducive atmosphere for the growth and participation of Children;
+f. reporting if violence occurs against women and Children,
 
-i. playing an active role by eliminating negative labeling of Children; and
+g. assisting women victims of violence so they do not experience stigma and exclusion in their environment, h. supporting the availability of facilities and infrastructure in creating a conducive atmosphere for the growth and participation of Children,
 
-j. supporting the development of Women's Empowerment and Child Protection developed in Regions and Villages including women-friendly and child-caring Villages.
+i. playing an active role in eliminating negative labeling of Children, and
 
-(5) Community participation in monitoring and evaluation as referred to in paragraph (1) letter d is carried out by conducting studies or reviews of policies, programs, and implementation of activities in the field of Women's Empowerment and Child Protection.
+j. supporting the development of Women's Empowerment and Child Protection developed in the Region and Village including women-friendly and child-caring Villages.
+
+Community participation in monitoring and evaluation as
+
+(S)
+
+referred to in paragraph (1) letter is carried out by conducting studies or reviews of policies, programs, and implementation of activities in the field of Women's Empowerment and Child Protection.
 
 #### Article 72
 
-(1) Community participation in the implementation of the field of Women's Empowerment and Child Protection as referred to in Article 71 is facilitated by the Agency by establishing a Regional level Puspa Forum.
+Community participation in the implementation of the field
 
-(2) The membership composition of the Puspa Forum as referred to in paragraph (1) is determined by the Regent for a period of 3 (three) years.
+(1)
+
+of Women's Empowerment and Child Protection as referred to in Article 71 is facilitated by the Agency by establishing a Regional level Puspa Forum. The membership composition of the Puspa Forum as referred to in paragraph (1) is determined by the Regent for a
+
+(2)
+
+period of (three) years.
 
 #### Article 73
 
-(1) The membership of the Regional level Puspa Forum as referred to in Article 72 consists of leadership and member elements.
+Membership of the Regional level Puspa Forum as referred to in Article 72 consists of leadership elements and
 
-(2) The leadership element as referred to in paragraph (1) consists of:
+(1)
 
-a. chairperson:
+members.
 
-b. vice chairperson:
+Leadership elements as referred to in paragraph (1) consist of:
 
-c. secretary:
+(2)
 
-d. treasurer:
+a. chairperson,
 
-e. coordinating chairperson for the field of Women's Empowerment; and
+b. vice chairperson,
 
-f. coordinating chairperson for the field of Child Protection.
+C. secretary,
 
-(3) The leadership element as referred to in paragraph (2) is appointed and dismissed by the Regent upon proposal from the chairperson of the Regional level Puspa Forum.
+d. treasurer,
 
-(4) The member element as referred to in paragraph (1) is appointed and dismissed by the chairperson of the Regional level Puspa Forum.
+e. coordinating chairperson for the field of Women's Empowerment, and f. coordinating chairperson for the field of Child Protection. Leadership elements as referred to in paragraph (2) are appointed and dismissed by the Regent upon proposal from the chairperson of the Regional level Puspa Forum.
 
-(5) The Head of the Agency coordinates the Regional level Puspa Forum.
+(3)
 
-#### Article 74
+Member elements as referred to in paragraph (1) are appointed and dismissed by the chairperson of the Regional
 
-(1) The Regional level Puspa Forum as referred to in Article 73 has the task of coordinating and synergizing community participation in the implementation of the field of Women's Empowerment and Child Protection at the Regional level.
+(4)
 
-(2) In carrying out the coordinating task as referred to in paragraph (1), the Regional level Puspa Forum conducts:
+level Puspa Forum.
 
-a. communication;
+The Head of the Agency coordinates the Regional level Puspa Forum. (
 
-b. planning of time and activity schedule;
+#### 5) Article 74
 
-c. flexibility in changes; and
+The Regional level Puspa Forum as referred to in
 
-d. control.
+(1)
 
-(3) In carrying out the synergizing task as referred to in paragraph (1), the Regional level Puspa Forum conducts:
+Article 73 has the task of coordinating and synergizing community participation in the implementation of the field of Women's Empowerment and Child Protection at the Regional level.
 
-a. alignment of vision, mission, and objectives;
+In carrying out the task of coordinating as referred to
 
-b. understanding of the strengths and talents of team colleagues;
+(2)
 
-c. similarity of concepts and ways of thinking;
+in paragraph (1), the Regional level Puspa Forum conducts: a. communication,
 
-d. good planning;
+b. planning of time and activity schedule,
 
-e. clear division of work and roles; and
+c. flexibility in changes, and
 
-f. efforts to build honest and mutually open communication.
+d. control. In carrying out the task of synergizing as referred to in paragraph (1), the Regional level Puspa Forum conducts:
 
-(4) In carrying out the task as referred to in paragraph (1), the Regional level Puspa Forum performs the functions of:
+(3)
 
-a. formulating strategies and action plans of the Regional level Puspa Forum;
+a. alignment of vision, mission, and objectives,
 
-b. providing input for the formulation of policies, programs, and activities related to Gender Equality, protection of women's rights, fulfillment of Children's rights, and Special Protection of Children;
+b. understanding the strengths and talents of team members, C. similarity of concepts and ways of thinking,
 
-c. implementing advocacy, socialization, training, and cooperation;
+d. good planning,
 
-d. conducting assistance in the development of Women's Empowerment and Child Protection in Regions and Villages, including women-friendly and child-caring Villages;
+e. clear division of work and roles, and f. efforts to build honest and mutually open communication.
 
-e. monitoring the progress of implementation of community participation for the welfare of women and Children; and
+In carrying out the tasks as referred to in paragraph
 
-f. implementing evaluation and reporting.
+(4)
+
+(1), the Regional level Puspa Forum performs the functions of:
+
+- a. formulation of strategy and action plan of the Regional level Puspa Forum,
+- b. providing input for the formulation of policies, programs, and activities related to Gender Equality, protection of women's rights, fulfillment of Children's rights, and Special Protection of Children, c. carrying out advocacy, socialization, training, and cooperation,
+- d. providing assistance in the development of Women's Empowerment and Child Protection in the Region and Village, including women-friendly and child-caring Villages, e. monitoring the development of community participation implementation for the welfare of women and Children, and f. carrying out evaluation and reporting.
 
 #### Article 75
 
-(1) The Regional level Puspa Forum in carrying out the coordinating task as referred to in Article 74 paragraph (1) is carried out in the form of:
+The Regional level Puspa Forum in carrying out the task
 
-a. Regional level coordination;
+(1)
 
-b. field coordination; and
+of coordinating as referred to in Article 74 paragraph (1) is carried out in the form of:
 
-c. special coordination.
+- a. Regional level coordination, b. field coordination, and
+- c. special coordination.
 
-(2) Regional level coordination as referred to in paragraph (1) letter a is implemented at least 1 (one) time in 1 (one) year or at any time if necessary to strengthen communication, cooperation, and discuss the implementation of the field of Women's Empowerment and Child Protection at the Regional level.
+Regional level coordination as referred to in paragraph
 
-(3) Field coordination as referred to in paragraph (1) letter b is implemented periodically at least 1 (one) time in 4 (four) months or at any time if necessary to discuss program activities that are its duties.
+(2)
 
-(4) Special coordination as referred to in paragraph (1) letter c is implemented in the event it is necessary to resolve special problems that require quick and appropriate solutions related to the field of Women's Empowerment and Child Protection.
+(1) letter is carried out at least (one) time in (one) year or at any time if necessary to strengthen communication, cooperation, and discuss the implementation of the field of Women's Empowerment and Child Protection at the Regional level. Field coordination as referred to in paragraph (1) letter is carried out periodically at least (one) time in (four) months or at any time if necessary to discuss the activity
+
+(3)
+
+program that is its task.
+
+Special coordination as referred to in paragraph (1) letter is carried out when necessary to resolve special
+
+(4)
+
+problems that require fast and appropriate solutions related to the field of Women's Empowerment and Child Protection.
 
 #### Article 76
 
-(1) The Regional Puspa Forum conducts evaluation and reporting annually.
+The Regional Puspa Forum conducts evaluation and
 
-(2) Annual evaluation as referred to in paragraph (1) is conducted 1 (one) time in 1 (one) year or at any time if necessary.
+(1)
 
-(3) Annual reporting as referred to in paragraph (1) is implemented 1 (one) time in 1 (one) year or at any time if necessary.
+reporting annually.
 
-(4) In addition to annual reporting as referred to in paragraph (3), the Regional level Puspa Forum conducts reporting periodically before the end of the forum membership period.
+Annual evaluation as referred to in paragraph (1) is carried out (one) time in (one) year or at any time if necessary.
 
-(5) Reporting of the Regional level Puspa Forum is submitted to the Regent with a copy to the Governor.
+(2)
+
+Annual reporting as referred to in paragraph (1) is carried out (one) time in (one) year or at any time
+
+(3)
+
+if necessary.
+
+In addition to annual reporting as referred to in
+
+(4)
+
+paragraph (3), the Regional level Puspa Forum conducts periodic reporting before the end of the forum's membership period. The reporting of the Regional level Puspa Forum is submitted
+
+(5)
+
+to the Regent with a copy to the Governor.
 
 #### Article 77
 
-(1) The Regent as coordinator of the Regional level Puspa Forum conducts Guidance to the Regional level Puspa Forum and to the Village heads.
+The Regent as coordinator of the Regional Level Puspa Forum conducts Guidance to the Regional Level Puspa Forum and to the Village Head.
 
-(2) Guidance by the Regent as referred to in paragraph (1) to the Regional level Puspa Forum is carried out by:
+(1)
 
-a. providing capacity building, institutional strengthening; and
+Guidance by the Regent as referred to in paragraph
 
-b. providing direction, input, suggestions, and considerations for the smooth implementation of community participation in the field of Women's Empowerment and Child Protection.
+(2)
 
-(3) Guidance by the Regent to the Village heads as referred to in paragraph (1) is carried out by:
+(1) to the Regional Level Puspa Forum is carried out by:
 
-a. providing capacity building to the Village Government for institutional strengthening of the Regional level Puspa Forum;
+- a. providing capacity building, institutional strengthening, and
+- b. providing direction, input, suggestions, and considerations for the smooth implementation of community participation in the field of Women's Empowerment and Child Protection.
 
-b. providing direction, input, suggestions, and considerations for the smooth implementation of community participation in the field of Women's Empowerment and Child Protection; and
+Guidance by the Regent to the Village Head as referred to in paragraph (1) is carried out by:
 
-c. encouraging the establishment and development of Puspa Forums in Villages.
+(3)
+
+a. providing capacity building to the Village Government for institutional strengthening of the Regional Level Puspa Forum,
+
+b. providing direction, input, suggestions, and considerations for the smooth implementation of community participation in the field of Women's Empowerment and Child Protection, and
+
+Cc. encouraging the establishment and development of Puspa Forum in the Village.
 
 #### Article 78
 
-(1) Parents, religious leaders, customary leaders, youth leaders and customary law communities participate in realizing protection of women and Children by preventing violence against women and Children.
+Parents, religious leaders, traditional leaders, youth leaders and
 
-(2) Prevention of Violence against women and Children as referred to in paragraph (1) shall take into account local wisdom and local culture.
+(1)
 
-(3) Prevention of violence against women and Children as referred to in paragraph (2) is realized in the form of:
+indigenous law communities participate in realizing protection of women and Children by preventing violence against women and Children.
 
-a. guiding Children to behave in accordance with religion, ethics, morals, and customs;
+Prevention of Violence against women and Children
 
-b. strengthening the function of houses of worship, the role of religious institutions or other religious associations;
+(2)
 
-c. supporting efforts to protect women and Children;
+as referred to in paragraph (1) with due regard to local wisdom and local culture.
 
-d. creating an environmental condition that provides a sense of security for women and Children;
+Prevention of violence against women and Children
 
-e. fostering a sense of care for the Family and surrounding environment;
+(3)
 
-f. strengthening the role of customary institutions in socializing the rights of women and Children; and
+as referred to in paragraph (2) is realized in the form of:
 
-g. supporting the Women's Protection and Child Protection programs implemented by the Regional Government.
+- a. guiding Children to behave in accordance with religion, ethics, morals, and customs,
+- b. strengthening the function of places of worship, the role of religious institutions or other religious associations,
+  - Cc. supporting efforts to protect women and Children, d. creating environmental conditions that provide a sense of security for women and Children,
+- e. fostering a sense of care for Families and the surrounding environment,
+- f. strengthening the role of traditional institutions in conducting socialization on the rights of women and Children, and g. supporting the Women's Protection and Child Protection programs implemented by the Regional Government.
 
 # CHAPTER XI
 
@@ -1508,63 +1129,53 @@ GUIDANCE AND SUPERVISION
 
 #### Article 79
 
-(1) The Regional Government through the Agency conducts guidance on the implementation of Women's Empowerment and Child Protection in the Region.
+The Regional Government through the Agency conducts guidance
 
-(2) Guidance as referred to in paragraph (1) is implemented in the form of:
+(1)
 
-a. socialization;
+on the implementation of Women's Empowerment and Child Protection in the Region. Guidance as referred to in paragraph (1) is carried out in the form of:
 
-b. technical guidance and training;
+(2)
 
-c. provision and dissemination of information through print and/or electronic media; and/or
+a. socialization,
+
+b. technical guidance and training,
+
+Cc. provision and dissemination of information through print and/or electronic media, and/or
 
 d. advocacy.
 
 #### Article 80
 
-(1) The Regional Government through the Agency conducts supervision of the implementation of Women's Empowerment and Child Protection in the Region.
+The Regional Government through the Agency conducts supervision
 
-(2) Supervision as referred to in paragraph (1) is implemented in the form of:
+(1)
 
-a. monitoring;
+on the implementation of Women's Empowerment and Child Protection in the Region. Supervision as referred to in paragraph (1) is carried out in the form of:
 
-b. evaluation; and/or
+(2)
 
-c. reporting.
+a. monitoring,
+
+b. evaluation, and/or
+
+Cc. reporting.
 
 # CHAPTER XII
 
-PROVISIONS ON INVESTIGATION
+INVESTIGATION PROVISIONS
 
 #### Article 81
 
-In addition to investigators from the Indonesian National Police, investigation of violations in this Regional Regulation is carried out by Civil Servant Investigators (PPNS) within the Regional Government.
+In addition to investigators from the Indonesian National Police, investigations of violations in this Regional Regulation are carried out by Civil Servant Investigators (PPNS) within the Regional Government.
 
 #### Article 82
 
 In carrying out investigation duties, Civil Servant Investigators as referred to in Article 81 are authorized to:
 
-a. receive, search for, collect and examine information or reports concerning criminal acts;
-
-b. examine, search for and collect information regarding individuals or entities about the truth of acts committed in connection with criminal acts;
-
-c. request information and evidence from individuals or entities in connection with criminal acts;
-
-d. examine books, records and other documents concerning criminal acts;
-
-e. conduct searches to obtain evidence of bookkeeping, recording and other documents, and conduct seizures of such evidence;
-
-f. request the assistance of experts in the context of carrying out criminal investigation duties;
-
-g. order to stop, prohibit someone from leaving a room or place when an examination is in progress and examine the identity of persons and or documents carried as referred to in letter e;
-
-h. take fingerprints and photograph someone related to a criminal act;
-
-i. summon persons to be heard and examined as suspects or witnesses;
-
-j. terminate the investigation after receiving instructions from the POLRI investigator that there is insufficient evidence or the incident does not constitute a criminal act and subsequently through the police investigator notify the public prosecutor, suspect or their family of this matter; and
-
-k. take other actions necessary for the smooth investigation of criminal acts according to law that can be accounted for.
+- a. b.
+- c. d. e. receive, seek, collect and examine information or reports concerning criminal acts, examine, seek and collect information regarding individuals or entities about the truth of actions carried out in connection with criminal acts, request information and evidence from individuals or entities in connection with criminal acts, examine books, records and other documents concerning criminal acts, conduct searches to obtain evidence of accounting, records and other documents, and carry out seizures of such evidence, request the assistance of experts in the context of carrying out criminal investigation duties, order to stop, prohibit someone from leaving a room or place during an examination and examine the identity of the person and or documents carried as referred to in letter e,
+- h. 1. take fingerprints and photograph someone related to a criminal act, summon persons to be heard for their testimony and examined as suspects or witnesses, terminate the investigation after receiving instructions from POLRI investigators that there is insufficient evidence or the incident does not constitute a criminal act and subsequently through police investigators notify this to the public prosecutor, the suspect or k. their family, and take other actions necessary for the smooth running of criminal investigations according to accountable law.
 
 # CHAPTER XIII
 
@@ -1572,37 +1183,33 @@ CRIMINAL PROVISIONS
 
 #### Article 83
 
-(1) Every adult who is not a biological parent or blood relative who brings a child to an entertainment venue during:
+Every adult who is not a biological parent or blood relative who
 
-a. school hours without permission from the teacher/educator; or
+(1)
 
-b. night time after 20.00 WIB without permission from the parent/guardian
+brings a child to an entertainment venue during:
 
-shall be punished with imprisonment of a maximum of 30 (thirty) days or a fine of a maximum of Rp2,000,000.00 (two million rupiah).
-
-(2) The criminal act as referred to in paragraph (1) constitutes a violation.
+- a. school hours without permission from a teacher/educator, or
+- b. nighttime after 20.00 WIB without permission from parent/guardian shall be subject to imprisonment for a maximum of 30 (thirty) days or a maximum fine of Rp2,000,000.00 (two million rupiah).
+  - (2) The criminal act as referred to in paragraph (1) constitutes a violation.
 
 #### Article 84
 
-(1) Every male person is prohibited from inviting a woman to a hotel, inn, homestay, guesthouse, resort, tourist cottage, boarding house, or similar lodging place with the purpose of sleeping together in 1 (one) same room unless they have a husband and wife relationship or have a biological parent relationship.
+(1) Every male is prohibited from inviting a female to a hotel, lodging, homestay, guesthouse, resort, tourist cottage, boarding house, or other similar accommodation with the purpose of sleeping together in the same (one) room unless having a husband-wife relationship or having a biological parent relationship.
 
-(2) Every person who violates the provisions as referred to in paragraph (1) shall be punished with imprisonment of a maximum of 3 (three) months or a fine of a maximum of Rp10,000,000.00 (ten million rupiah).
+(2) Any person who violates the provisions as referred to in paragraph (1) shall be subject to imprisonment for a maximum of (three) months or a maximum fine of Rp10,000,000.00 (ten million rupiah).
 
 (3) The criminal act as referred to in paragraph (1) constitutes a violation.
 
 #### Article 85
 
-(1) Every boarding house owner must determine the conditions for occupying the boarding house based on the gender of male or female or family.
-
-(2) Every person as a boarding house owner in establishing the conditions for boarding house occupants as referred to in paragraph (1) is prohibited from accepting prospective boarding house occupants with different genders or mixed between male and female in 1 (one) boarding house building, except for families.
-
-(3) Every person who violates the provisions as referred to in paragraph (2) shall be punished with imprisonment of a maximum of 3 (three) months or a fine of a maximum of Rp50,000,000.00 (fifty million rupiah).
+(1) Every boarding house owner must determine the conditions for occupying the boarding house based on gender, male or female or family. (2) Every person as a boarding house owner in determining the conditions for boarding house occupants as referred to in paragraph (1) is prohibited from accepting prospective boarding house occupants of different genders or mixed between men and women in (one) boarding house building, except for families. (3) Any person who violates the provisions as referred to in paragraph (2) shall be subject to imprisonment for a maximum of (three) months or a maximum fine of Rp50,000,000.00 (fifty million rupiah).
 
 (4) The criminal act as referred to in paragraph (1) constitutes a violation.
 
 #### Article 86
 
-The procedures for imposing criminal sanctions as referred to in Article 83 through Article 85 shall be further regulated by Regent Regulation with reference to the prevailing laws and regulations in the field of criminal law.
+The procedures for imposing criminal sanctions as referred to in Articles 83 to 85 are further regulated by Regent Regulation guided by the prevailing laws and regulations in the field of criminal law.
 
 # CHAPTER XIV
 
@@ -1610,7 +1217,7 @@ TRANSITIONAL PROVISIONS
 
 #### Article 87
 
-All implementing regulations governing Women's Empowerment and Child Protection shall remain in effect as long as they do not conflict with the provisions in this Regional Regulation.
+All implementing regulations governing Women's Empowerment and Child Protection remain in force as long as they are not in conflict with the provisions in this Regional Regulation.
 
 # CHAPTER XV
 
@@ -1618,424 +1225,184 @@ CLOSING PROVISIONS
 
 #### Article 88
 
-The Implementing Regulations of this Regional Regulation must be stipulated no later than 1 (one) year from the promulgation of this Regional Regulation.
+The Implementing Regulations of this Regional Regulation must be established no later than (one) year from the date this Regional Regulation is promulgated.
 
 #### Article 89
 
 This Regional Regulation shall come into force on the date of promulgation.
 
-In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Mentawai Islands Regency.
+In order that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Kepulauan Mentawai Regency.
 
-Stipulated in Tua pejat on 19 February 2025
+Enacted in Tua pejat on the date of (8 February 2025
 
-Promulgated in Tua pejat on 19 February 2025
+MENTAWAI ISLANDS REGENCY,
 
-REGIONAL GAZETTE OF MENTAWAI ISLANDS REGENCY YEAR 2025 NUMBER: 1
+GGURAN SIMANJUNTAK
 
-REGISTRATION NUMBER OF REGIONAL REGULATION OF MENTAWAI ISLANDS REGENCY WEST SUMATRA PROVINCE : (1/5/2025)
+Promulgated in Tua pejat on the date of is February 2025 "3. REGIONAL SECRETARY
 
-# ELUCIDATION OF REGIONAL REGULATION OF MENTAWAI ISLANDS REGENCY
+AYAN
 
-NUMBER 1 YEAR 2025
+KEPULAUAN MENTAWAI REGENCY, Mp Naa
+
+MARTINUS
+
+REGIONAL GAZETTE OF KEPULAUAN MENTAWAI REGENCY YEAR 2025 NUMBER:
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF KEPULAUAN MENTAWAI REGENCY WEST SUMATRA PROVINCE (1/5/2025)
+
+ELUCIDATION
+
+OF
+
+REGIONAL REGULATION OF KEPULAUAN MENTAWAI REGENCY NUMBER YEAR 2025
 
 CONCERNING
 
 WOMEN'S EMPOWERMENT AND CHILD PROTECTION
 
-#### I. GENERAL
+GENERAL
 
-The 1945 Constitution of the Republic of Indonesia mandates the authority of regional governments to regulate and manage their own governmental affairs directed towards accelerating the realization of public welfare through improved services, empowerment and community participation. The authority of Regional Government is to make regional policies to provide services, increase participation, initiative, and community empowerment aimed at improving people's welfare.
+The 1945 Constitution of the Republic of Indonesia mandates the authority of regional governments to regulate and manage their own governmental affairs directed toward accelerating the realization of public welfare through improved services, empowerment and community participation. The authority of Regional Government is to make regional policies to provide services, increase participation, initiative, and community empowerment aimed at improving people's welfare.
 
-The implementation of regional autonomy must always be oriented towards improving community welfare while always paying attention to the interests and aspirations that grow in society. Therefore, governmental affairs related to basic services such as basic education, health, fulfillment of minimum living needs, basic environmental infrastructure must be fulfilled.
+The implementation of regional autonomy must always be oriented toward improving community welfare while always paying attention to the interests and aspirations that grow in society. Therefore, governmental affairs related to basic services such as basic education, health, fulfillment of minimum living needs, basic environmental infrastructure must be fulfilled. Human rights are basic rights that are inherently attached to humans, are universal and lasting, so they must be protected, respected, maintained, and may not be ignored, diminished, or seized by anyone. In the context of upholding Human Rights (HAM) to guarantee justice for each individual, efforts are made to prevent all forms of unbalanced treatment or treatment deemed detrimental to other parties, whether individual to individual, between groups of individuals, or between individuals and between government and society, including the process of marginalization of women which causes women to be vulnerable to acts of violence, discrimination and exploitation in both domestic and public domains.
 
-Human rights are basic rights that are inherently attached to human beings by nature, are universal and lasting, so they must be protected, respected, maintained, and may not be ignored, reduced, or deprived by anyone. In the context of Upholding Human Rights (HAM) to guarantee justice for every individual by seeking to prevent all forms of unbalanced treatment or treatment deemed detrimental to other parties, whether between individuals, between groups of individuals, or between individuals and between government and society, including the process of marginalization of women that causes women to be vulnerable to acts of violence, discrimination and exploitation in both domestic and public spheres.
+On one hand, women's empowerment efforts aim to eliminate all forms of discrimination and gender stereotypes, ensure women have equal access to education, health, economics, and political participation. This is important to optimize the role of women as agents of change and significant contributors to regional progress. On the other hand, child protection becomes an essential foundation to ensure every child grows and develops optimally, free from violence, exploitation, neglect, and discrimination, so that they can become quality and competitive future generations.
 
-On one hand, women's empowerment efforts aim to eliminate all forms of discrimination and gender stereotypes, ensuring women have equal access to education, health, economy, and political participation. This is important to optimize the role of women as agents of change and significant contributors to regional progress. On the other hand, child protection becomes an essential foundation to ensure every child grows and develops optimally, free from violence, exploitation, neglect, and discrimination, so that they can become quality and competitive future generations.
+Women's empowerment and child protection are implemented in order to realize gender equality and justice. To carry out these affairs, efforts are needed to increase the capacity of women's resources and strengthen gender mainstreaming institutions, through gender mainstreaming strategies and gender-disaggregated data. This Regional Regulation on Women's Empowerment and Child Protection is a concrete manifestation of the commitment of the Regional Government of Kepulauan Mentawai Regency in creating a just, equal, and prosperous society, where every individual, regardless of gender and age, can feel and enjoy their basic rights fully. This Perda is formed as a response to social realities that show that women and children, as vulnerable groups, still often face various challenges and obstacles in accessing their rights and actively participating in development.
 
-Women's empowerment and child protection are implemented in order to realize gender equality and justice. To carry out these affairs, efforts are needed to increase the capacity of women's resources and strengthen gender mainstreaming institutions, through gender mainstreaming strategies and gender-disaggregated data.
+With the existence of this Perda, it is hoped that a strong legal framework, a coordinated institutional system, and targeted and sustainable programs will be created in efforts to empower women and protect children throughout the Kepulauan Mentawai Regency.
 
-This Regional Regulation on Women's Empowerment and Child Protection is a concrete manifestation of the commitment of the Regional Government of Mentawai Islands Regency in creating a just, equal, and prosperous society, where every individual, regardless of gender and age, can feel and enjoy their basic rights fully. This Regional Regulation was formed as a response to social realities that show that women and children, as vulnerable groups, still often face various challenges and obstacles in accessing their rights and actively participating in development.
+ARTICLE BY ARTICLE
 
-With this Regional Regulation, it is expected that a strong legal framework, a coordinated institutional system, and targeted and sustainable programs will be created in efforts to empower women and protect children throughout the Mentawai Islands Regency.
+Il.
 
-#### II. ARTICLE BY ARTICLE
+Article
 
-Article 1
+Sufficiently clear. Article
 
-Sufficiently clear.
-
-Article 2
-
-Point a
-
-What is meant by respect for human rights is the principle that underlies efforts in carrying out the protection, empowerment of women and children based on respect, protection and promotion of human rights as stated in the 1945 Constitution of the Republic of Indonesia.
-
-Point b
-
-What is meant by non-discrimination is the principle that underlies the regulation and implementation of protection for women and children without differentiating treatment, actions or policies based on background, ethnicity, religion, race, class, ethnic group, culture, language, gender and physical and/or mental condition.
-
-Point c
-
-What is meant by gender justice and equality is a state in which women and men enjoy equal status and have the same conditions to fully realize their basic rights and potential for the integrity and continuity of the household proportionally.
-
-Point d
-
-What is meant by the best interests of women and children is all efforts to realize protection directed at the best possible efforts and services in accordance with existing capabilities and potential by considering the survival and development of women and children.
-
-Point e
-
-What is meant by victim protection is the principle in regulating the protection of women and children aimed at protecting the rights and interests of victims who experience various forms of violence, discrimination, mistreatment, exploitation, neglect, trafficking and various other forms of criminal acts.
-
-Point f
-
-What is meant by "Togetherness" is a principle that encourages the role of all stakeholders to jointly make efforts to protect women and children to realize common welfare.
-
-Article 3
-
-Sufficiently clear.
-
-Article 4
-
-Sufficiently clear.
-
-Article 5
-
-Sufficiently clear.
-
-Article 6
-
-Sufficiently clear.
-
-Article 7
-
-Sufficiently clear.
-
-Article 8
-
-Sufficiently clear.
-
-Article 9
-
-Sufficiently clear.
-
-Article 10
-
-Sufficiently clear.
-
-Article 11
-
-Sufficiently clear.
-
-Article 12
-
-Sufficiently clear.
-
-Article 13
-
-Sufficiently clear.
-
-Article 14
-
-Sufficiently clear.
-
-Article 15
-
-Sufficiently clear.
-
-Article 16
-
-Sufficiently clear.
-
-Article 17
-
-Sufficiently clear.
-
-Article 18
-
-Sufficiently clear.
-
-Article 19
-
-Sufficiently clear.
-
-Article 20
-
-Sufficiently clear.
-
-Article 21
-
-Sufficiently clear.
-
-Article 22
-
-Sufficiently clear.
-
-Article 23
-
-Sufficiently clear.
-
-Article 24
-
-Sufficiently clear.
-
-Article 25
-
-Sufficiently clear.
-
-Article 26
-
-Sufficiently clear.
-
-Article 27
-
-Sufficiently clear.
-
-Article 28
-
-Sufficiently clear.
-
-Article 29
-
-Sufficiently clear.
+Letter
 
-Article 30
+What is meant by respect for human rights is the principle underlying efforts in carrying out the protection, empowerment of women and children based on respect, protection and promotion of human rights as stated in
 
-Sufficiently clear.
-
-Article 31
-
-Sufficiently clear.
-
-Article 32
-
-Sufficiently clear.
-
-Article 33
-
-Sufficiently clear.
-
-Article 34
-
-Sufficiently clear.
-
-Article 35
-
-Sufficiently clear.
-
-Article 36
-
-Sufficiently clear.
-
-Article 37
-
-Sufficiently clear.
-
-Article 38
-
-Sufficiently clear.
-
-Article 39
-
-Sufficiently clear.
-
-Article 40
-
-Sufficiently clear.
-
-Article 41
-
-Sufficiently clear.
-
-Article 42
-
-Sufficiently clear.
-
-Article 43
-
-Sufficiently clear.
-
-Article 44
-
-Sufficiently clear.
-
-Article 45
-
-Sufficiently clear.
-
-Article 46
+the 1945 Constitution of the Republic of Indonesia. LetterWhat is meant by non-discrimination is the principle underlying the regulation and implementation of the protection of women and children without discriminating treatment, actions or policies based on background, ethnicity, religion, race, class, ethnicity, culture, language, gender and physical and/or mental condition. Letter
 
-Sufficiently clear.
-
-Article 47
-
-Sufficiently clear.
-
-Article 48
-
-Sufficiently clear.
-
-Article 49
-
-Sufficiently clear.
-
-Article 50
-
-Sufficiently clear.
-
-Article 51
-
-Sufficiently clear.
-
-Article 52
-
-Sufficiently clear.
-
-Article 53
-
-Sufficiently clear.
-
-Article 54
-
-Sufficiently clear.
-
-Article 55
-
-Sufficiently clear.
-
-Article 56
-
-Sufficiently clear.
-
-Article 57
-
-Sufficiently clear.
-
-Article 58
-
-Sufficiently clear.
-
-Article 59
-
-Sufficiently clear.
-
-Article 60
-
-Sufficiently clear.
+What is meant by gender justice and equality is a situation in which women and men enjoy equal status and have the same conditions to fully realize their basic rights and potential for the integrity and sustainability of the household proportionally. LetterWhat is meant by the best interests of women and children is all efforts to realize protection directed at the best possible efforts and services in accordance with existing capabilities and potential by considering the survival and development of women and children. Letter
 
-Article 61
+What is meant by victim protection is the principle in the regulation of the protection of women and children aimed at protecting the rights and interests of victims who experience various forms of violence, discrimination, maltreatment, exploitation, neglect, trafficking and various forms of other criminal acts. LetterWhat is meant by "Togetherness" is a principle that encourages the role of all stakeholders to jointly make efforts to protect women and children to realize common welfare. Article Sufficiently clear. Article
 
-Sufficiently clear.
+Sufficiently clear. Article
 
-Article 62
+Sufficiently clear. Article
 
-Sufficiently clear.
+Sufficiently clear. Article
 
-Article 63
+Sufficiently clear. Article
 
-Sufficiently clear.
+Sufficiently clear. Article
 
-Article 64
+Sufficiently clear. Articl 10
 
 Sufficiently clear.
 
-Article 65
+#### Article 11
 
 Sufficiently clear.
 
-Article 66
+#### Article 12
 
 Sufficiently clear.
 
-Article 67
+#### Article 13
 
 Sufficiently clear.
 
-Article 68
+#### Article 14
 
 Sufficiently clear.
 
-Article 69
+#### Article 15
 
 Sufficiently clear.
 
-Article 70
+#### Article 16
 
 Sufficiently clear.
 
-Article 71
+#### Article 17
 
 Sufficiently clear.
 
-Article 72
+#### Article 18
 
 Sufficiently clear.
 
-Article 73
+#### Article 19
 
 Sufficiently clear.
 
-Article 74
+#### Article 20
 
 Sufficiently clear.
 
-Article 75
+#### Article 21
 
 Sufficiently clear.
 
-Article 76
+#### Article 22
 
 Sufficiently clear.
 
-Article 77
+#### Article 23
 
 Sufficiently clear.
 
-Article 78
+#### Article 24
 
 Sufficiently clear.
 
-Article 79
+#### Article 25
 
 Sufficiently clear.
 
-Article 80
+#### Article 26
 
 Sufficiently clear.
 
-Article 81
+#### Article 27
 
-Sufficiently clear.
+Sufficiently clear. Article 28Sufficiently clear. Article 29Sufficiently clear. Article 30Sufficiently clear. Article 31Sufficiently clear. Article 32Sufficiently clear. Article 33Sufficiently clear. Article 34Sufficiently clear. Article 35Sufficiently clear. Article 36Sufficiently clear. Article 37Sufficiently clear. Article 38Sufficiently clear. Article 39Sufficiently clear. Article 40Sufficiently clear. Article 41Sufficiently clear. Article 42Sufficiently clear. Article 43Sufficiently clear. Article 44Sufficiently clear. Article 45Sufficiently clear. Article 46Sufficiently clear. Article 47Sufficiently clear. Article 48Sufficiently clear. Article 49Sufficiently clear. Article 50Sufficiently clear. Article S1Sufficiently clear. Article 52Sufficiently clear. Article 53Sufficiently clear. Article 54Sufficiently clear.
 
-Article 82
+#### Article 55
 
-Sufficiently clear.
+Sufficiently clear. Article 56Sufficiently clear. Article 57Sufficiently clear. Article 58Sufficiently clear. Article 59Sufficiently clear. Article 60Sufficiently clear. Article 61Sufficiently clear. Article 62Sufficiently clear. Articl 63Sufficiently clear. Article 64Sufficiently clear. Article 65Sufficiently clear. Article 66Sufficiently clear. Article 67Sufficiently clear. Article 68Sufficiently clear. Article 69Sufficiently clear. Article 70Sufficiently clear. Article 71Sufficiently clear. Article 72Sufficiently clear. Article 73Sufficiently clear. Article 74Sufficiently clear. Article 75Sufficiently clear. Article 76Sufficiently clear. Article 77Sufficiently clear. Article 78Sufficiently clear. Article 79Sufficiently clear. Article 80Sufficiently clear. Article 81Sufficiently clear. Article 82Sufficiently clear.
 
-Article 83
+#### Article 83
 
 Sufficiently clear.
 
-Article 84
+#### Article 84
 
 Sufficiently clear.
 
-Article 85
+#### Article 85
 
 Sufficiently clear.
 
-Article 86
+#### Article 86
 
 Sufficiently clear.
 
-Article 87
+#### Article 87
 
 Sufficiently clear.
 
-Article 88
+#### Article 88
 
 Sufficiently clear.
 
-Article 89
+#### Article 89
 
 Sufficiently clear.
 
-SUPPLEMENT TO THE REGIONAL GAZETTE OF MENTAWAI ISLANDS REGENCY NUMBER 1
+SUPPLEMENT TO THE REGIONAL GAZETTE OF MENTAWAI ISLANDS REGENCY NUMBER

@@ -1,0 +1,973 @@
+{
+  "policy_file": "175. Tunisia - DomViol - French.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T20:02:57.406557+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "or sectoral programs and to take the regulations and measures necessary for their implementation with the aim of eliminating all forms of violence against women in the family space, social environment, educational, vocational training, health, cultural, sports and media environments.\nIs punished by six (6) months to one year of imprisonment and a fine of one thousand dinars, whoever commits against their spouse repeated assault likely to violate the dignity of the victim, or their consideration or to alter their physical or psychological security by use of words, signals and acts.",
+      "rationale": "The framework includes operative provisions addressing violence against women occurring in the family space and criminalises repeated assault against a spouse (and related intimate relationships), which constitutes substantive coverage of domestic/intimate-partner violence.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "communs ou sectoriels et à prendre les règlements et mesures nécessaires à leur mise en œuvre dans le but d’éliminer toutes les formes de violence à l’égard des femmes dans l’espace familial, l’environnement social, le milieu éducatif, de formation professionnelle, sanitaire, culturel, sportif et médiatique.\n\nEst puni de six (6) mois à un an d’emprisonnement et d’une amende de mille dinars, quiconque commet à l’encontre de son conjoint une agression répétée susceptible de porter atteinte à la dignité de la victime, ou sa considération ou d’altérer sa sécurité physique ou psychologique par usage de paroles, signaux et actes.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Woman: any person of the female sex of any age,  Child: any person of male or female sex, within the meaning of the child protection code,  Violence against women: any physical, moral, sexual or economic harm against women, based on discrimination founded on sex and which results for them in injury, suffering or bodily, psychological, sexual or economic harm and also includes the threat of inflicting such harm, pressure or deprivation of rights and freedoms, whether in public or private life,  Physical violence: any harmful act or abuse affecting the integrity or physical security of the woman or her life, such as blows, kicks, injuries, pushing, disfigurement, burns, mutilation of certain body parts, confinement, torture and homicide,  Moral violence: any verbal assault, such as defamation, insult, coercion, threat, abandonment, deprivation of rights and freedoms, humiliation, neglect, mockery, belittlement and other acts or words affecting the human dignity of the woman or aimed at intimidating or dominating her,  Sexual violence: any act or word by which the perpetrator aims to subject the woman to his own sexual desires or to the sexual desires of another, by means of coercion, fraud, pressure or other means, likely to weaken or affect the will, and this, regardless of the perpetrator's relationship with the victim,  Political violence: any act or practice based on discrimination between the sexes by which the perpetrator aims to deprive the woman or prevent her from exercising any political, partisan, associative activity or any fundamental right or freedom,  Economic violence: any act or omission likely to exploit women or deprive them of economic resources, whatever their origin, such as deprivation of funds, salary or income, control of salaries or income and prohibition from working or coercion to work,  Discrimination against women: any distinction, exclusion or restriction which has the effect or purpose of impairing the recognition for women of human rights and freedoms, on the basis of complete and effective equality, in the civil, political, economic, social and cultural fields, or of compromising this recognition or the enjoyment or exercise of these rights by women, whatever the color, race, religion, thought, age, nationality, economic and social conditions, marital status, health status, language or disability.\nIs considered rape, any act of sexual penetration, whatever its nature, and the means used committed on a person of female or male sex without their consent the perpetrator of rape is punished by twenty years of imprisonment.\nter (nouveau) – Is punished by two (2) years of imprisonment and a fine of five (5) thousand dinars whoever commits sexual harassment.",
+      "rationale": "The policy defines sexual violence within the operative definitions and criminalises rape and sexual harassment with specified penalties, meeting the criterion for substantive legal coverage of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": " Femme : toute personne de sexe féminin de tout âge,  Enfant : toute personne de sexe masculin ou féminin, au sens du code de la protection de l’enfant,  Violence à l’égard des femmes : toute atteinte physique, morale, sexuelle ou économique à l’égard des femmes, basée sur une discrimination fondée sur le sexe et qui entraîne pour elles, un préjudice, une souffrance ou un dommage corporel, psychologique, sexuel ou économique et comprend également la menace de porter une telle atteinte, la pression ou la privation de droits et libertés, que ce soit dans la vie publique ou privée,  Violence physique : tout acte nuisible ou de sévices portant atteinte à l’intégrité ou à la sécurité physique de la femme ou à sa vie, tels que les coups, coups de pieds, blessures, poussées, défiguration, brûlures, mutilation de certaines parties du corps, séquestration, torture et homicide,  Violence morale : toute agression verbale, telle que la diffamation, l’injure, la contrainte, la menace, l’abandon, la privation des droits et des libertés, l’humiliation, la négligence, la raillerie, le rabaissement et autres actes ou paroles portant atteinte à la dignité humaine de la femme ou visant à l’intimider ou la dominer,  Violence sexuelle : tout acte ou parole dont l’auteur vise à soumettre la femme à ses propres désirs sexuels ou aux désirs sexuels d’autrui, au moyen de la contrainte, du dol, de la pression ou autres moyens, de nature à affaiblir ou porter atteinte à la volonté, et ce, indépendamment de la relation de l’auteur avec la victime,  Violence politique : tout acte ou pratique fondé sur la discrimination entre les sexes dont l’auteur vise à priver la femme ou l’empêcher d’exercer toute activité politique, partisane, associative ou tout droit ou liberté fondamentale,  Violence économique : tout acte ou abstention de nature à exploiter les femmes ou les priver des ressources économiques, quelqu’en soit l’origine, tels que la privation des fonds, du salaire ou des revenus, le contrôle des salaires ou revenus et l’interdiction de travailler ou la contrainte à travailler,  Discrimination à l’égard des femmes : toute distinction, exclusion ou restriction qui a pour effet ou pour but de porter atteinte à la reconnaissance aux femmes, des droits de l’Homme et des libertés, sur la base de l’égalité complète et effective, dans les domaines civil, politique, économique, social et culturel, ou de compromettre cette reconnaissance ou la jouissance ou l’exercice de ces droits par les femmes, quelque soit la couleur, la race, la religion,la pensée, l’âge, la nationalité, les conditions économiques et sociales, l’état civil, l’état de santé, la langue ou le handicap.\n\nEst considéré viol, tout acte de pénétration sexuelle, quelle que soit sa nature, et le moyen utilisé commis sur une personne de sexe féminin ou masculin sans son consentement l’auteur du viol est puni de vingt ans d’emprisonnement.\n\nter (nouveau) – Est puni de deux (2) ans d’emprisonnement et d’une amende de cinq (5) mille dinars celui qui commet le harcèlement sexuel.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Woman: any person of the female sex of any age,  Child: any person of male or female sex, within the meaning of the child protection code,  Violence against women: any physical, moral, sexual or economic harm against women, based on discrimination founded on sex and which results for them in injury, suffering or bodily, psychological, sexual or economic harm and also includes the threat of inflicting such harm, pressure or deprivation of rights and freedoms, whether in public or private life,  Physical violence: any harmful act or abuse affecting the integrity or physical security of the woman or her life, such as blows, kicks, injuries, pushing, disfigurement, burns, mutilation of certain body parts, confinement, torture and homicide,  Moral violence: any verbal assault, such as defamation, insult, coercion, threat, abandonment, deprivation of rights and freedoms, humiliation, neglect, mockery, belittlement and other acts or words affecting the human dignity of the woman or aimed at intimidating or dominating her,  Sexual violence: any act or word by which the perpetrator aims to subject the woman to his own sexual desires or to the sexual desires of another, by means of coercion, fraud, pressure or other means, likely to weaken or affect the will, and this, regardless of the perpetrator's relationship with the victim,  Political violence: any act or practice based on discrimination between the sexes by which the perpetrator aims to deprive the woman or prevent her from exercising any political, partisan, associative activity or any fundamental right or freedom,  Economic violence: any act or omission likely to exploit women or deprive them of economic resources, whatever their origin, such as deprivation of funds, salary or income, control of salaries or income and prohibition from working or coercion to work,  Discrimination against women: any distinction, exclusion or restriction which has the effect or purpose of impairing the recognition for women of human rights and freedoms, on the basis of complete and effective equality, in the civil, political, economic, social and cultural fields, or of compromising this recognition or the enjoyment or exercise of these rights by women, whatever the color, race, religion, thought, age, nationality, economic and social conditions, marital status, health status, language or disability.\ninjuries inflicted voluntarily, but without intention to cause death, have nevertheless caused it.",
+      "rationale": "The framework includes an operative definition of physical violence and provides criminal penalties for blows/injuries inflicted voluntarily, which substantively addresses physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": " Femme : toute personne de sexe féminin de tout âge,  Enfant : toute personne de sexe masculin ou féminin, au sens du code de la protection de l’enfant,  Violence à l’égard des femmes : toute atteinte physique, morale, sexuelle ou économique à l’égard des femmes, basée sur une discrimination fondée sur le sexe et qui entraîne pour elles, un préjudice, une souffrance ou un dommage corporel, psychologique, sexuel ou économique et comprend également la menace de porter une telle atteinte, la pression ou la privation de droits et libertés, que ce soit dans la vie publique ou privée,  Violence physique : tout acte nuisible ou de sévices portant atteinte à l’intégrité ou à la sécurité physique de la femme ou à sa vie, tels que les coups, coups de pieds, blessures, poussées, défiguration, brûlures, mutilation de certaines parties du corps, séquestration, torture et homicide,  Violence morale : toute agression verbale, telle que la diffamation, l’injure, la contrainte, la menace, l’abandon, la privation des droits et des libertés, l’humiliation, la négligence, la raillerie, le rabaissement et autres actes ou paroles portant atteinte à la dignité humaine de la femme ou visant à l’intimider ou la dominer,  Violence sexuelle : tout acte ou parole dont l’auteur vise à soumettre la femme à ses propres désirs sexuels ou aux désirs sexuels d’autrui, au moyen de la contrainte, du dol, de la pression ou autres moyens, de nature à affaiblir ou porter atteinte à la volonté, et ce, indépendamment de la relation de l’auteur avec la victime,  Violence politique : tout acte ou pratique fondé sur la discrimination entre les sexes dont l’auteur vise à priver la femme ou l’empêcher d’exercer toute activité politique, partisane, associative ou tout droit ou liberté fondamentale,  Violence économique : tout acte ou abstention de nature à exploiter les femmes ou les priver des ressources économiques, quelqu’en soit l’origine, tels que la privation des fonds, du salaire ou des revenus, le contrôle des salaires ou revenus et l’interdiction de travailler ou la contrainte à travailler,  Discrimination à l’égard des femmes : toute distinction, exclusion ou restriction qui a pour effet ou pour but de porter atteinte à la reconnaissance aux femmes, des droits de l’Homme et des libertés, sur la base de l’égalité complète et effective, dans les domaines civil, politique, économique, social et culturel, ou de compromettre cette reconnaissance ou la jouissance ou l’exercice de ces droits par les femmes, quelque soit la couleur, la race, la religion,la pensée, l’âge, la nationalité, les conditions économiques et sociales, l’état civil, l’état de santé, la langue ou le handicap.\n\nblessures faites volontairement, mais sans intention de donner la mort, l'ont pourtant occasionnée.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Woman: any person of the female sex of any age,  Child: any person of male or female sex, within the meaning of the child protection code,  Violence against women: any physical, moral, sexual or economic harm against women, based on discrimination founded on sex and which results for them in injury, suffering or bodily, psychological, sexual or economic harm and also includes the threat of inflicting such harm, pressure or deprivation of rights and freedoms, whether in public or private life,  Physical violence: any harmful act or abuse affecting the integrity or physical security of the woman or her life, such as blows, kicks, injuries, pushing, disfigurement, burns, mutilation of certain body parts, confinement, torture and homicide,  Moral violence: any verbal assault, such as defamation, insult, coercion, threat, abandonment, deprivation of rights and freedoms, humiliation, neglect, mockery, belittlement and other acts or words affecting the human dignity of the woman or aimed at intimidating or dominating her,  Sexual violence: any act or word by which the perpetrator aims to subject the woman to his own sexual desires or to the sexual desires of another, by means of coercion, fraud, pressure or other means, likely to weaken or affect the will, and this, regardless of the perpetrator's relationship with the victim,  Political violence: any act or practice based on discrimination between the sexes by which the perpetrator aims to deprive the woman or prevent her from exercising any political, partisan, associative activity or any fundamental right or freedom,  Economic violence: any act or omission likely to exploit women or deprive them of economic resources, whatever their origin, such as deprivation of funds, salary or income, control of salaries or income and prohibition from working or coercion to work,  Discrimination against women: any distinction, exclusion or restriction which has the effect or purpose of impairing the recognition for women of human rights and freedoms, on the basis of complete and effective equality, in the civil, political, economic, social and cultural fields, or of compromising this recognition or the enjoyment or exercise of these rights by women, whatever the color, race, religion, thought, age, nationality, economic and social conditions, marital status, health status, language or disability.\nIs punished by six (6) months to one year of imprisonment and a fine of one thousand dinars, whoever commits against their spouse repeated assault likely to violate the dignity of the victim, or their consideration or to alter their physical or psychological security by use of words, signals and acts.",
+      "rationale": "The policy includes an operative definition of moral violence (covering verbal assault and related conduct) and criminalises repeated assault against a spouse that alters physical or psychological security, satisfying substantive coverage of psychological/emotional violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": " Femme : toute personne de sexe féminin de tout âge,  Enfant : toute personne de sexe masculin ou féminin, au sens du code de la protection de l’enfant,  Violence à l’égard des femmes : toute atteinte physique, morale, sexuelle ou économique à l’égard des femmes, basée sur une discrimination fondée sur le sexe et qui entraîne pour elles, un préjudice, une souffrance ou un dommage corporel, psychologique, sexuel ou économique et comprend également la menace de porter une telle atteinte, la pression ou la privation de droits et libertés, que ce soit dans la vie publique ou privée,  Violence physique : tout acte nuisible ou de sévices portant atteinte à l’intégrité ou à la sécurité physique de la femme ou à sa vie, tels que les coups, coups de pieds, blessures, poussées, défiguration, brûlures, mutilation de certaines parties du corps, séquestration, torture et homicide,  Violence morale : toute agression verbale, telle que la diffamation, l’injure, la contrainte, la menace, l’abandon, la privation des droits et des libertés, l’humiliation, la négligence, la raillerie, le rabaissement et autres actes ou paroles portant atteinte à la dignité humaine de la femme ou visant à l’intimider ou la dominer,  Violence sexuelle : tout acte ou parole dont l’auteur vise à soumettre la femme à ses propres désirs sexuels ou aux désirs sexuels d’autrui, au moyen de la contrainte, du dol, de la pression ou autres moyens, de nature à affaiblir ou porter atteinte à la volonté, et ce, indépendamment de la relation de l’auteur avec la victime,  Violence politique : tout acte ou pratique fondé sur la discrimination entre les sexes dont l’auteur vise à priver la femme ou l’empêcher d’exercer toute activité politique, partisane, associative ou tout droit ou liberté fondamentale,  Violence économique : tout acte ou abstention de nature à exploiter les femmes ou les priver des ressources économiques, quelqu’en soit l’origine, tels que la privation des fonds, du salaire ou des revenus, le contrôle des salaires ou revenus et l’interdiction de travailler ou la contrainte à travailler,  Discrimination à l’égard des femmes : toute distinction, exclusion ou restriction qui a pour effet ou pour but de porter atteinte à la reconnaissance aux femmes, des droits de l’Homme et des libertés, sur la base de l’égalité complète et effective, dans les domaines civil, politique, économique, social et culturel, ou de compromettre cette reconnaissance ou la jouissance ou l’exercice de ces droits par les femmes, quelque soit la couleur, la race, la religion,la pensée, l’âge, la nationalité, les conditions économiques et sociales, l’état civil, l’état de santé, la langue ou le handicap.\n\nEst puni de six (6) mois à un an d’emprisonnement et d’une amende de mille dinars, quiconque commet à l’encontre de son conjoint une agression répétée susceptible de porter atteinte à la dignité de la victime, ou sa considération ou d’altérer sa sécurité physique ou psychologique par usage de paroles, signaux et actes.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Woman: any person of the female sex of any age,  Child: any person of male or female sex, within the meaning of the child protection code,  Violence against women: any physical, moral, sexual or economic harm against women, based on discrimination founded on sex and which results for them in injury, suffering or bodily, psychological, sexual or economic harm and also includes the threat of inflicting such harm, pressure or deprivation of rights and freedoms, whether in public or private life,  Physical violence: any harmful act or abuse affecting the integrity or physical security of the woman or her life, such as blows, kicks, injuries, pushing, disfigurement, burns, mutilation of certain body parts, confinement, torture and homicide,  Moral violence: any verbal assault, such as defamation, insult, coercion, threat, abandonment, deprivation of rights and freedoms, humiliation, neglect, mockery, belittlement and other acts or words affecting the human dignity of the woman or aimed at intimidating or dominating her,  Sexual violence: any act or word by which the perpetrator aims to subject the woman to his own sexual desires or to the sexual desires of another, by means of coercion, fraud, pressure or other means, likely to weaken or affect the will, and this, regardless of the perpetrator's relationship with the victim,  Political violence: any act or practice based on discrimination between the sexes by which the perpetrator aims to deprive the woman or prevent her from exercising any political, partisan, associative activity or any fundamental right or freedom,  Economic violence: any act or omission likely to exploit women or deprive them of economic resources, whatever their origin, such as deprivation of funds, salary or income, control of salaries or income and prohibition from working or coercion to work,  Discrimination against women: any distinction, exclusion or restriction which has the effect or purpose of impairing the recognition for women of human rights and freedoms, on the basis of complete and effective equality, in the civil, political, economic, social and cultural fields, or of compromising this recognition or the enjoyment or exercise of these rights by women, whatever the color, race, religion, thought, age, nationality, economic and social conditions, marital status, health status, language or disability.\nArt. 19 – Is punished by a fine of two (2) thousand dinars the perpetrator of violence or economic discrimination",
+      "rationale": "The framework defines economic violence as exploitation or deprivation of economic resources and also establishes penalties for violence/economic discrimination resulting in deprivation of a woman's economic resources or use of her income, which is substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": " Femme : toute personne de sexe féminin de tout âge,  Enfant : toute personne de sexe masculin ou féminin, au sens du code de la protection de l’enfant,  Violence à l’égard des femmes : toute atteinte physique, morale, sexuelle ou économique à l’égard des femmes, basée sur une discrimination fondée sur le sexe et qui entraîne pour elles, un préjudice, une souffrance ou un dommage corporel, psychologique, sexuel ou économique et comprend également la menace de porter une telle atteinte, la pression ou la privation de droits et libertés, que ce soit dans la vie publique ou privée,  Violence physique : tout acte nuisible ou de sévices portant atteinte à l’intégrité ou à la sécurité physique de la femme ou à sa vie, tels que les coups, coups de pieds, blessures, poussées, défiguration, brûlures, mutilation de certaines parties du corps, séquestration, torture et homicide,  Violence morale : toute agression verbale, telle que la diffamation, l’injure, la contrainte, la menace, l’abandon, la privation des droits et des libertés, l’humiliation, la négligence, la raillerie, le rabaissement et autres actes ou paroles portant atteinte à la dignité humaine de la femme ou visant à l’intimider ou la dominer,  Violence sexuelle : tout acte ou parole dont l’auteur vise à soumettre la femme à ses propres désirs sexuels ou aux désirs sexuels d’autrui, au moyen de la contrainte, du dol, de la pression ou autres moyens, de nature à affaiblir ou porter atteinte à la volonté, et ce, indépendamment de la relation de l’auteur avec la victime,  Violence politique : tout acte ou pratique fondé sur la discrimination entre les sexes dont l’auteur vise à priver la femme ou l’empêcher d’exercer toute activité politique, partisane, associative ou tout droit ou liberté fondamentale,  Violence économique : tout acte ou abstention de nature à exploiter les femmes ou les priver des ressources économiques, quelqu’en soit l’origine, tels que la privation des fonds, du salaire ou des revenus, le contrôle des salaires ou revenus et l’interdiction de travailler ou la contrainte à travailler,  Discrimination à l’égard des femmes : toute distinction, exclusion ou restriction qui a pour effet ou pour but de porter atteinte à la reconnaissance aux femmes, des droits de l’Homme et des libertés, sur la base de l’égalité complète et effective, dans les domaines civil, politique, économique, social et culturel, ou de compromettre cette reconnaissance ou la jouissance ou l’exercice de ces droits par les femmes, quelque soit la couleur, la race, la religion,la pensée, l’âge, la nationalité, les conditions économiques et sociales, l’état civil, l’état de santé, la langue ou le handicap.\n\nArt. 19 – Est puni d’une amende de deux (2) mille dinars l’auteur de violence ou de discrimination",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "disfigurement or partial or total mutilation of the female genital organ.",
+      "rationale": "The policy includes an operative provision treating mutilation of the female genital organ as an aggravated assault outcome subject to penalty, which substantively addresses FGM/C as a harmful practice.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "défiguration ou mutilation partielle ou totale de l’organe génital de la femme.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent term, nor do they establish femicide-specific aggravation, classification, or monitoring obligations.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention trafficking in persons/human trafficking or trafficking victims, and references to exploitation (e.g., economic exploitation or child domestic work) are not framed as trafficking or trafficking-related exploitation.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the framework defines and criminalises sexual violence (including rape and sexual harassment), none of the candidate sentences specifically address sexual exploitation or sexual slavery (e.g., forced prostitution, sexual services for gain, or exploitation for sexual purposes).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference cyber/online/digital forms of violence or technology-facilitated abuse; they address offline sexual harassment and other violence-related provisions without a technology nexus.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Is considered rape, any act of sexual penetration, whatever its nature, and the means used committed on a person of female or male sex without their consent the perpetrator of rape is punished by twenty years of imprisonment.",
+      "rationale": "The candidate sentences include operative criminal-law provisions defining rape and attaching a specific criminal sanction (20 years’ imprisonment), which constitutes a criminal penalty for a form of violence against women (sexual violence).",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Est considéré viol, tout acte de pénétration sexuelle, quelle que soit sa nature, et le moyen utilisé commis sur une personne de sexe féminin ou masculin sans son consentement l’auteur du viol est puni de vingt ans d’emprisonnement.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "Art. 30 – The family judge is seized with the examination of the application for protection following a written request\nthe victim in person or their representative,  the public prosecution with the victim's consent,  the child protection delegate if the victim is a child or in case of the existence of a child.\nArt. 33 – The family judge may take, by virtue of the protection order, one of the following measures:\nThe order must provide for the duration of protection, which must not exceed, in all cases, six",
+      "rationale": "The text sets out a protection-order mechanism: it identifies the issuing authority (family judge), specifies who may apply (victim/representative, public prosecution with consent, child protection delegate), provides for measures available under a protection order, and specifies the order’s duration (up to six months, extendable once). However, the provided sentences do not state a defined consequence for breach of the order.",
+      "coverage": "Referenced only",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Art. 30 – Le juge de la famille est saisi de l’examen de la demande de protection suite à une requête écrite\n\n la victime en personne ou son mandataire,  le ministère public sur accord de la victime,  le délégué à la protection de l’enfance si la victime est un enfant ou en cas d’existence d’un enfant.\n\nArt. 33 – Le juge de la famille peut prendre, en vertu de l’ordonnance de protection, l’une des mesures suivantes :\n\nL’ordonnance doit prévoir la durée de la protection, qui ne doit dépasser, dans tous les cas, six",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "Yes",
+      "evidence": "Art. 24 – Is created within each national security and national guard station, in all",
+      "rationale": "An operative provision creates a specialized unit within each national security and national guard station to investigate violence against women offenses, which meets the requirement of a designated unit within police services with a defined VAW mandate.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Art. 24 – Est créée au sein de chaque commissariat de sûreté nationale et de garde nationale, dans tous",
+      "evidence_original_aligned": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "Art. 23 – Are reserved for magistrates specialized in violence against women cases,",
+      "rationale": "The framework provides for specialized magistrates for violence against women cases and reserves separate spaces within courts of first instance at multiple judicial levels, indicating a specialized judicial mechanism/procedure for VAW cases.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Art. 23 – Sont réservés aux magistrats spécialisés dans les affaires de violence à l’égard des femmes, des",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While rape is criminalized generally, none of the candidate sentences expressly state that rape provisions apply within marriage/intimate partnerships or that spousal status is not a defense/exemption. References to spouses appear in non-sexual assault provisions, not in the rape provision, so the required explicit removal of a spousal exemption is not shown.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Art. 12 – The ministry responsible for women's affairs ensures coordination between the various",
+      "rationale": "The framework assigns the ministry responsible for women's affairs an explicit coordination role across multiple actors and provides for establishing partnership/support/coordination mechanisms with civil society, which constitutes a formal institutional coordination mechanism for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Art. 12 – Le ministère chargé des affaires de la femme assure la coordination entre les différents",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "detect cases of violence against women, in light of the reports and information collected, while archiving these cases and their incidences in a database created for this purpose,  ensure the monitoring of the implementation of legislation and policies, assess their effectiveness and efficiency in eliminating violence against women, and publish reports to this effect by proposing the necessary reforms,  carry out the necessary scientific and field research concerning violence against women in order to assess the required interventions and address the forms of violence as provided for in this law,  contribute to the development of national strategies, common and sectoral practical measures, and define the guiding principles for the elimination of violence against women in accordance with this law,  ensure cooperation and coordination with civil society organizations, constitutional bodies and other public organizations concerned with monitoring and controlling respect for human rights, with a view to developing and consolidating the system of rights and freedoms,  issue opinions on training and learning programs, empower all actors in the field of violence against women, propose appropriate mechanisms to develop them and ensure their monitoring, The observatory prepares an annual report on its activity, including in particular statistics on violence against women, the conditions of reception, accommodation, monitoring, support and integration of victims of violence, the follow-up to protection orders, related actions and judgments, proposals and recommendations to develop national mechanisms for the elimination of violence against women.\nThe Ministry of Women receives from all concerned ministries and public bodies, each in its respective area, reports and data relating to violence against women which it transmits to the national observatory for the prevention of violence against women.",
+      "rationale": "The framework creates a national observatory with explicit duties to detect cases, archive them in a dedicated database, and produce statistics/reports, and it assigns the Ministry of Women a role in receiving and transmitting reports and data from other ministries/public bodies to the observatory—together establishing and assigning responsibility for VAW data collection/management and reporting.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": " détecter les cas de violence à l’égard des femmes, et ce, à la lumière des rapports et informations collectés, tout en archivant ces cas ainsi que leurs incidences dans une base de données créée à cet effet,  assurer le suivi d’exécution des législations et des politiques, évaluer leur efficacité et efficience dans l’élimination de la violence à l’égard des femmes, et publier des rapports à cet effet en proposant les réformes nécessaires,  effectuer les recherches scientifiques et sur terrain nécessaires concernant la violence à l’égard des femmes afin d’évaluer les interventions requises et de traiter les formes de violences telles que prévues par la présente loi,  contribuer à l’élaboration des stratégies nationales, des mesures pratiques communes et sectorielles, et définir les principes directeurs de l’élimination de la violence à l’égard des femmes conformément à la présente loi,  assurer la coopération et la coordination avec les organisations de la société civile, les instances constitutionnelles et les autres organismes publics concernés par le suivi et le contrôle du respect des droits de l’Homme, en vue de développer et consolider le dispositif des droits et des libertés,  émettre l’avis sur les programmes de formation et d’apprentissage, habiliter tous les intervenants dans le domaine des violences à l’égard des femmes, proposer les mécanismes opportuns pour les développer et assurer leur suivi, L’observatoire établit un rapport annuel sur son activité, comprenant notamment les statistiques sur la violence à l’égard des femmes, les conditions d’accueil, d’hébergement, de suivi, d’accompagnement et d’intégration des victimes des violences, les suites des ordonnances de protection, des actions et jugements y afférents, les propositions et recommandations pour développer les mécanismes nationaux pour l’élimination des violences à l’égard des femmes.\n\nLe ministère de la femme reçoit de la part de tous les ministères et organismes publics concernés, chacun en ce qui le concerne, les rapports et les données relatifs à la violence à l’égard des femmes qu’il transmet à l’observatoire national de la prévention des violences à l’égard des femmes.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference equality/non-discrimination and broad policy/program development, but they do not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal points, mainstreaming in planning/budgeting) for implementing VAW policies/programs.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Art. 7 – The ministries responsible for education, higher education, vocational\nArt. 8 – The ministry responsible for health is called upon to establish integrated programs to combat\nArt. 9 – The ministry responsible for social affairs is called upon to provide adequate training to the various",
+      "rationale": "The framework mandates training for implementing personnel across sectors: it requires training of educators/personnel and specific training sessions for officials, requires the health ministry to train health personnel, and calls on the social affairs ministry to provide adequate training to social workers for intervention and care of women victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Art. 7 – Les ministères chargés de l’éducation, de l’enseignement supérieur, de la formation\n\nArt. 8 – Le ministère chargé de la santé est appelé à établir des programmes intégrés en vue de lutter\n\nArt. 9 – Le ministère chargé des affaires sociales est appelé à assurer la formation adéquate aux différents",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "detect cases of violence against women, in light of the reports and information collected, while archiving these cases and their incidences in a database created for this purpose,  ensure the monitoring of the implementation of legislation and policies, assess their effectiveness and efficiency in eliminating violence against women, and publish reports to this effect by proposing the necessary reforms,  carry out the necessary scientific and field research concerning violence against women in order to assess the required interventions and address the forms of violence as provided for in this law,  contribute to the development of national strategies, common and sectoral practical measures, and define the guiding principles for the elimination of violence against women in accordance with this law,  ensure cooperation and coordination with civil society organizations, constitutional bodies and other public organizations concerned with monitoring and controlling respect for human rights, with a view to developing and consolidating the system of rights and freedoms,  issue opinions on training and learning programs, empower all actors in the field of violence against women, propose appropriate mechanisms to develop them and ensure their monitoring, The observatory prepares an annual report on its activity, including in particular statistics on violence against women, the conditions of reception, accommodation, monitoring, support and integration of victims of violence, the follow-up to protection orders, related actions and judgments, proposals and recommendations to develop national mechanisms for the elimination of violence against women.",
+      "rationale": "The framework establishes a national observatory and assigns it explicit responsibilities to monitor implementation of legislation and policies and assess their effectiveness and efficiency, including publishing reports—constituting a designated monitoring and evaluation mechanism/body.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": " détecter les cas de violence à l’égard des femmes, et ce, à la lumière des rapports et informations collectés, tout en archivant ces cas ainsi que leurs incidences dans une base de données créée à cet effet,  assurer le suivi d’exécution des législations et des politiques, évaluer leur efficacité et efficience dans l’élimination de la violence à l’égard des femmes, et publier des rapports à cet effet en proposant les réformes nécessaires,  effectuer les recherches scientifiques et sur terrain nécessaires concernant la violence à l’égard des femmes afin d’évaluer les interventions requises et de traiter les formes de violences telles que prévues par la présente loi,  contribuer à l’élaboration des stratégies nationales, des mesures pratiques communes et sectorielles, et définir les principes directeurs de l’élimination de la violence à l’égard des femmes conformément à la présente loi,  assurer la coopération et la coordination avec les organisations de la société civile, les instances constitutionnelles et les autres organismes publics concernés par le suivi et le contrôle du respect des droits de l’Homme, en vue de développer et consolider le dispositif des droits et des libertés,  émettre l’avis sur les programmes de formation et d’apprentissage, habiliter tous les intervenants dans le domaine des violences à l’égard des femmes, proposer les mécanismes opportuns pour les développer et assurer leur suivi, L’observatoire établit un rapport annuel sur son activité, comprenant notamment les statistiques sur la violence à l’égard des femmes, les conditions d’accueil, d’hébergement, de suivi, d’accompagnement et d’intégration des victimes des violences, les suites des ordonnances de protection, des actions et jugements y afférents, les propositions et recommandations pour développer les mécanismes nationaux pour l’élimination des violences à l’égard des femmes.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe state undertakings to develop policies/programs and provide services (sometimes within available means), but they do not contain an operative provision requiring allocation of budget/funding or establishing a funding mechanism/source for implementation of VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe coordination with competent services and list various supports (legal advice/aid, social/health/psychological assistance, accommodation) and create other bodies (e.g., observatory; specialized police investigative units), but they do not explicitly establish/mandate/recognise a designated integrated service mechanism (e.g., one-stop centre/integrated service centre) responsible for coordinating multiple victim services. General coordination language alone does not meet the criterion’s requirement for an integrated service mechanism.",
+      "coverage": null,
+      "confidence": 0.63,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.63
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "complaints relating to violence against women and to monitor the investigations relating thereto.",
+      "rationale": "The framework assigns Public Prosecutor deputies to receive complaints relating to violence against women, which constitutes an operative, designated complaint-receiving mechanism for reporting VAW and initiating assistance/protection through the justice system.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "plaintes relatives aux violences à l’égard des femmes et du suivi des enquêtes y afférentes.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "The State subrogates in this case the victims in the recovery of the amounts disbursed,  health and psychological follow-up, appropriate social support and where appropriate, the benefit of public and associative care, including listening,  immediate accommodation within the limits of available means.\nrespond without delay to any request for assistance and protection, presented directly by the victim,  respond immediately to any request for assistance or protection within the meaning of article 14 of this law,  give priority to alerts concerning the commission of violence threatening the physical, sexual and psychological safety of the woman and the children residing with her,  ensure listening and examination on the occasion of receiving complaints, by meeting the parties and witnesses, including children, in separate rooms while ensuring their integrity,  inform the complainant of all her rights,  intervene, in case of loss of housing, due to violence, to ensure accommodation in protection centers for women victims of violence.",
+      "rationale": "The framework provides for immediate accommodation for victims and requires responsible protection actors to intervene to ensure accommodation in protection centers for women victims of violence, which meets the requirement for shelter/safe accommodation or residential protection.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "L’Etat subroge dans ce cas les victimes dans le recouvrement des montants décaissés,  le suivi sanitaire et psychologique, l’accompagnement social approprié et le cas échéant, le bénéfice de la prise en charge publique et associative, y compris l’écoute,  l’hébergement immédiat dans la limite des moyens disponibles.\n\n répondre sans délai à toute demande d’assistance et de protection, présenté directement par la victime,  répondre immédiatement à toute demande d’assistance ou de protection au sens de l’article 14 de la présente loi,  accorder la priorité aux alertes concernant la commission d’une violence menaçant la sécurité physique, sexuelle et psychologique de la femme et des enfants qui résident avec elle,  assurer l’écoute et l’examen à l’occasion de la réception des plaintes, en rencontrant les parties et les témoins, y compris les enfants, dans des salles séparées tout en assurant leur intégrité,  informer la plaignante de tous ses droits,  intervenir, en cas de perte de logement, due à la violence, pour assurer l’hébergement dans des centres de protection de la femme victime de la violence.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "considering violence against women as a form of discrimination and a violation of human rights,  recognizing the status of victim to the woman and the children who reside with her, who have suffered violence,  respecting the victim's will to make the decision that matters to her,  respecting and guaranteeing the secrecy of the private life and personal data of the victim,  enabling equal opportunities for access to services in the different zones and regions,  providing legal advice to victims of violence and granting them legal aid,  ensuring the support of victims of violence in coordination with the competent services in order to provide them with the necessary social, health and psychological assistance and to facilitate their integration and accommodation.\nappropriate legal protection to the nature of the violence exercised against her, so as to ensure her safety, physical and psychological integrity and dignity, as well as the administrative, security and judicial measures required to this effect, in respect of her specificities,  access to information and legal advice concerning the provisions governing judicial procedures and available services,  the benefit of legal aid,  fair compensation for victims of violence in the event of impossibility of execution against the person responsible for the act of violence.",
+      "rationale": "The framework explicitly provides legal advice and legal aid for victims of violence and lists legal aid among the rights of women victims of violence, establishing an operative entitlement/support for legal assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": " considérer la violence à l’égard des femmes comme étant une forme de discrimination et une violation des droits de l’Homme,  reconnaître la qualité de victime à la femme et aux enfants qui résident avec elle, qui ont subi la violence,  respecter la volonté de la victime de prendre la décision qui lui importe,  respecter et garantir le secret de la vie privée et des données à caractère personnel de la victime,  permettre l'égalité des chances pour l'accès aux services dans les différentes zones et régions,  fournir le conseil juridique aux victimes des violences et leur accorder l’aide judiciaire,  assurer l’accompagnement des victimes des violences en coordination avec les services compétents en vue de leur fournir l’assistance sociale, sanitaire et psychologique nécessaires et de faciliter leur intégration et hébergement.\n\n la protection juridique appropriée à la nature de la violence exercée à son encontre, de manière à assurer sa sécurité, son intégrité physique et psychologique et sa dignité, ainsi que les mesures administratives, sécuritaires et judiciaires requises à cet effet, et ce, dans le respect de ses spécificités,  l’accès à l’information et le conseil juridique concernant les dispositions régissant les procédures judiciaires et les services disponibles,  le bénéfice de l’aide judiciaire,  la réparation équitable pour les victimes de la violence en cas d’impossibilité d’exécution sur la personne responsable de l’acte de violence.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "violence against women in medical and paramedical education, and to train personnel working in the field of health, at all levels, to detect, assess and prevent all forms of violence against women, as well as examination, treatment and follow-up in order to provide care for women and children residing with her, victims of violence.\nIt must also reserve spaces for welcoming victims of violence and provide them with psycho-health services.",
+      "rationale": "The framework assigns the health ministry responsibilities connected to VAW cases, including examination, treatment and follow-up to provide care to victims, and requires reserving spaces for welcoming victims and providing psycho-health services—an explicit, violence-linked health-service response.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "contre la violence à l’égard des femmes dans l’enseignement médical et paramédical, et former le personnel opérant dans le domaine de la santé, à tous les niveaux, pour détecter, évaluer et prévenir toutes les formes de violence à l’égard des femmes, ainsi que l’examen, le traitement et le suivi en vue de prendre en charge la femme et les enfants qui résident avec elle, victimes de violence.\n\nIl doit également réserver des espaces destinés à l’accueil des victimes de violences et de leur fournir les services psycho-sanitaires.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "The State subrogates in this case the victims in the recovery of the amounts disbursed,  health and psychological follow-up, appropriate social support and where appropriate, the benefit of public and associative care, including listening,  immediate accommodation within the limits of available means.\nIt must also reserve spaces for welcoming victims of violence and provide them with psycho-health services.",
+      "rationale": "The framework provides for psychological follow-up and psycho-health services for victims of violence, which constitutes psychosocial/psychological support services linked to VAW victim assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "L’Etat subroge dans ce cas les victimes dans le recouvrement des montants décaissés,  le suivi sanitaire et psychologique, l’accompagnement social approprié et le cas échéant, le bénéfice de la prise en charge publique et associative, y compris l’écoute,  l’hébergement immédiat dans la limite des moyens disponibles.\n\nIl doit également réserver des espaces destinés à l’accueil des victimes de violences et de leur fournir les services psycho-sanitaires.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences establish or mention religious/spiritual counselling, pastoral care, faith-based guidance, or any role for religious leaders/institutions in providing victim support services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "considering violence against women as a form of discrimination and a violation of human rights,  recognizing the status of victim to the woman and the children who reside with her, who have suffered violence,  respecting the victim's will to make the decision that matters to her,  respecting and guaranteeing the secrecy of the private life and personal data of the victim,  enabling equal opportunities for access to services in the different zones and regions,  providing legal advice to victims of violence and granting them legal aid,  ensuring the support of victims of violence in coordination with the competent services in order to provide them with the necessary social, health and psychological assistance and to facilitate their integration and accommodation.",
+      "rationale": "The framework goes beyond immediate protection by referring to facilitating victims’ integration (and accommodation) through coordinated support and assistance, which constitutes longer-term reintegration/support for victims in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": " considérer la violence à l’égard des femmes comme étant une forme de discrimination et une violation des droits de l’Homme,  reconnaître la qualité de victime à la femme et aux enfants qui résident avec elle, qui ont subi la violence,  respecter la volonté de la victime de prendre la décision qui lui importe,  respecter et garantir le secret de la vie privée et des données à caractère personnel de la victime,  permettre l'égalité des chances pour l'accès aux services dans les différentes zones et régions,  fournir le conseil juridique aux victimes des violences et leur accorder l’aide judiciaire,  assurer l’accompagnement des victimes des violences en coordination avec les services compétents en vue de leur fournir l’assistance sociale, sanitaire et psychologique nécessaires et de faciliter leur intégration et hébergement.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "The ministry of justice also takes all necessary measures to rehabilitate the perpetrator of the offense of violence against women and reintegrate him into the family and social environment.",
+      "rationale": "The framework assigns the ministry of justice responsibility to take necessary measures to rehabilitate perpetrators of violence against women and reintegrate them into the family and social environment, which is an operative perpetrator-focused rehabilitation/intervention measure.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.73,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.73
+      },
+      "evidence_verified": true,
+      "evidence_original": "Le ministère de la justice prend également toutes les mesures nécessaires pour réhabiliter l’auteur de l’infraction de violence à l’égard des femmes et le réintégrer dans le milieu familial et social.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "the development of didactic, educational and cultural programs aimed at eliminating and combating violence and discrimination against women, enshrining the principles of human rights and gender equality, as well as health and sexuality education,  the training of educators and personnel working in the field of education on equality, non-discrimination and combating violence in order to help them address issues of violence in the educational space,  the organization of specific training sessions in the areas of human rights, women's rights, their protection and combating violence against them, for the benefit of officials working in these fields,  taking all necessary measures to combat early school dropout, particularly among girls in all regions,  the creation of listening units, social action offices and health clubs in cooperation with interested parties,  the dissemination and consolidation of the culture of human rights education among young generations.\nwomen and methods of combating and preventing such violence and ensure that personnel working in the media field are trained to address violence against women, in respect of professional ethics, human rights and equality.",
+      "rationale": "The policy includes operative prevention measures requiring educational programs and media awareness-raising specifically aimed at combating and preventing violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": " l’élaboration de programmes didactiques, éducatifs et culturels visant à bannir et à lutter contre la violence et la discrimination à l’égard des femmes, à consacrer les principes de droits de l’Homme et l’égalité entre les sexes, ainsi que l’éducation à la santé et à la sexualité,  la formation des éducateurs et du personnel opérant dans le domaine de l’éducation à propos de l’égalité, la non-discrimination et la lutte contre la violence afin de les aider à traiter les questions de violence dans l’espace éducatif,  l’organisation de sessions de formation spécifiques dans les domaines des droits de l’Homme, des droits de la femme, de sa protection et de lutte contre la violence à son encontre, et ce, au profit des fonctionnaires opérant dans ces domaines,  la prise de toutes les mesures nécessaires en vue de lutter contre l’abandon scolaire précoce, notamment chez les filles dans toutes les régions,  la création de cellules d’écoute, de bureaux d’action sociale et des clubs de santé en coopération avec les parties intéressées,  la diffusion et la consolidation de la culture de l’éducation aux droits de l’Homme auprès des jeunes générations.\n\ndes femmes et aux méthodes de lutte et de prévention contre cette violence et veillent à former le personnel opérant dans le domaine médiatique pour faire face à la violence à l’égard des femmes, dans le respect de l'éthique professionnelle, des droits de l'Homme et de l'égalité.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "the development of didactic, educational and cultural programs aimed at eliminating and combating violence and discrimination against women, enshrining the principles of human rights and gender equality, as well as health and sexuality education,  the training of educators and personnel working in the field of education on equality, non-discrimination and combating violence in order to help them address issues of violence in the educational space,  the organization of specific training sessions in the areas of human rights, women's rights, their protection and combating violence against them, for the benefit of officials working in these fields,  taking all necessary measures to combat early school dropout, particularly among girls in all regions,  the creation of listening units, social action offices and health clubs in cooperation with interested parties,  the dissemination and consolidation of the culture of human rights education among young generations.",
+      "rationale": "The policy requires didactic/educational programs and training that enshrine human rights and gender equality and includes training on equality and non-discrimination, explicitly framed as measures to prevent and combat violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": " l’élaboration de programmes didactiques, éducatifs et culturels visant à bannir et à lutter contre la violence et la discrimination à l’égard des femmes, à consacrer les principes de droits de l’Homme et l’égalité entre les sexes, ainsi que l’éducation à la santé et à la sexualité,  la formation des éducateurs et du personnel opérant dans le domaine de l’éducation à propos de l’égalité, la non-discrimination et la lutte contre la violence afin de les aider à traiter les questions de violence dans l’espace éducatif,  l’organisation de sessions de formation spécifiques dans les domaines des droits de l’Homme, des droits de la femme, de sa protection et de lutte contre la violence à son encontre, et ce, au profit des fonctionnaires opérant dans ces domaines,  la prise de toutes les mesures nécessaires en vue de lutter contre l’abandon scolaire précoce, notamment chez les filles dans toutes les régions,  la création de cellules d’écoute, de bureaux d’action sociale et des clubs de santé en coopération avec les parties intéressées,  la diffusion et la consolidation de la culture de l’éducation aux droits de l’Homme auprès des jeunes générations.",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text provides victims access to information and legal advice about judicial procedures and services, and includes general awareness about the dangers of VAW, it does not explicitly provide public dissemination/education activities about VAW laws, regulations, policies, or legal protections as a prevention strategy.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "the development of didactic, educational and cultural programs aimed at eliminating and combating violence and discrimination against women, enshrining the principles of human rights and gender equality, as well as health and sexuality education,  the training of educators and personnel working in the field of education on equality, non-discrimination and combating violence in order to help them address issues of violence in the educational space,  the organization of specific training sessions in the areas of human rights, women's rights, their protection and combating violence against them, for the benefit of officials working in these fields,  taking all necessary measures to combat early school dropout, particularly among girls in all regions,  the creation of listening units, social action offices and health clubs in cooperation with interested parties,  the dissemination and consolidation of the culture of human rights education among young generations.",
+      "rationale": "The policy assigns ministries responsible for education and related sectors duties to prevent and combat violence against women through school/education-based measures, including development of educational programs and training of educators to address violence in educational spaces.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.87,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.87
+      },
+      "evidence_verified": true,
+      "evidence_original": " l’élaboration de programmes didactiques, éducatifs et culturels visant à bannir et à lutter contre la violence et la discrimination à l’égard des femmes, à consacrer les principes de droits de l’Homme et l’égalité entre les sexes, ainsi que l’éducation à la santé et à la sexualité,  la formation des éducateurs et du personnel opérant dans le domaine de l’éducation à propos de l’égalité, la non-discrimination et la lutte contre la violence afin de les aider à traiter les questions de violence dans l’espace éducatif,  l’organisation de sessions de formation spécifiques dans les domaines des droits de l’Homme, des droits de la femme, de sa protection et de lutte contre la violence à son encontre, et ce, au profit des fonctionnaires opérant dans ces domaines,  la prise de toutes les mesures nécessaires en vue de lutter contre l’abandon scolaire précoce, notamment chez les filles dans toutes les régions,  la création de cellules d’écoute, de bureaux d’action sociale et des clubs de santé en coopération avec les parties intéressées,  la diffusion et la consolidation de la culture de l’éducation aux droits de l’Homme auprès des jeunes générations.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general prevention and education measures and perpetrator rehabilitation, but do not specify any prevention activities that explicitly target or engage men or boys to change masculinities, gender norms, attitudes, or behaviors to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "actors mentioned in articles 6 to 11 of this law and the establishment of mechanisms for partnership, support and coordination with the relevant civil society organizations for the purpose of monitoring the implementation of what has been approved.\ndetect cases of violence against women, in light of the reports and information collected, while archiving these cases and their incidences in a database created for this purpose,  ensure the monitoring of the implementation of legislation and policies, assess their effectiveness and efficiency in eliminating violence against women, and publish reports to this effect by proposing the necessary reforms,  carry out the necessary scientific and field research concerning violence against women in order to assess the required interventions and address the forms of violence as provided for in this law,  contribute to the development of national strategies, common and sectoral practical measures, and define the guiding principles for the elimination of violence against women in accordance with this law,  ensure cooperation and coordination with civil society organizations, constitutional bodies and other public organizations concerned with monitoring and controlling respect for human rights, with a view to developing and consolidating the system of rights and freedoms,  issue opinions on training and learning programs, empower all actors in the field of violence against women, propose appropriate mechanisms to develop them and ensure their monitoring, The observatory prepares an annual report on its activity, including in particular statistics on violence against women, the conditions of reception, accommodation, monitoring, support and integration of victims of violence, the follow-up to protection orders, related actions and judgments, proposals and recommendations to develop national mechanisms for the elimination of violence against women.",
+      "rationale": "The policy contains operative provisions assigning state bodies responsibilities to cooperate/coordinate with civil society organisations in the context of implementing and monitoring measures to eliminate violence against women (including establishing partnership/support/coordination mechanisms and ensuring cooperation/coordination with civil society organisations).",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "intervenants mentionnés aux articles de 6 à 11 de la présente loi et l’instauration de mécanismes de partenariat, d’appui et de coordination avec les organisations de la société civile concernées aux fins de suivi de la mise en œuvre de ce qui a été approuvé.\n\n détecter les cas de violence à l’égard des femmes, et ce, à la lumière des rapports et informations collectés, tout en archivant ces cas ainsi que leurs incidences dans une base de données créée à cet effet,  assurer le suivi d’exécution des législations et des politiques, évaluer leur efficacité et efficience dans l’élimination de la violence à l’égard des femmes, et publier des rapports à cet effet en proposant les réformes nécessaires,  effectuer les recherches scientifiques et sur terrain nécessaires concernant la violence à l’égard des femmes afin d’évaluer les interventions requises et de traiter les formes de violences telles que prévues par la présente loi,  contribuer à l’élaboration des stratégies nationales, des mesures pratiques communes et sectorielles, et définir les principes directeurs de l’élimination de la violence à l’égard des femmes conformément à la présente loi,  assurer la coopération et la coordination avec les organisations de la société civile, les instances constitutionnelles et les autres organismes publics concernés par le suivi et le contrôle du respect des droits de l’Homme, en vue de développer et consolider le dispositif des droits et des libertés,  émettre l’avis sur les programmes de formation et d’apprentissage, habiliter tous les intervenants dans le domaine des violences à l’égard des femmes, proposer les mécanismes opportuns pour les développer et assurer leur suivi, L’observatoire établit un rapport annuel sur son activité, comprenant notamment les statistiques sur la violence à l’égard des femmes, les conditions d’accueil, d’hébergement, de suivi, d’accompagnement et d’intégration des victimes des violences, les suites des ordonnances de protection, des actions et jugements y afférents, les propositions et recommandations pour développer les mécanismes nationaux pour l’élimination des violences à l’égard des femmes.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references a ministry responsible for religious affairs among ministries tasked with prevention measures, none of the candidate sentences establish or require engagement/collaboration with religious organisations/leaders or traditional/cultural leaders as partners in preventing or responding to violence against women.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "training, culture, health, youth, sports, children, women and religious affairs must take all necessary measures to prevent and combat violence against women in establishments under their jurisdiction, through:",
+      "rationale": "The policy assigns ministries responsibility to prevent and combat violence against women within establishments under their jurisdiction, explicitly covering education and higher education establishments, which constitutes an operative linkage to education institutions in VAW prevention/response within those establishments.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "professionnelle, de la culture, de la santé, de la jeunesse, du sport, de l’enfance, de la femme et des affaires religieuses doivent prendre toutes les mesures nécessaires pour prévenir et lutter contre la violence à l’égard des femmes dans les établissements relevant de leur ressort, et ce, à travers :",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention cooperation or collaboration with international organisations on violence against women, nor do they establish any mechanism for international technical assistance or joint programmes related to VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "Art. 11 – Public and private media raise awareness of the dangers of violence against\nwomen and methods of combating and preventing such violence and ensure that personnel working in the media field are trained to address violence against women, in respect of professional ethics, human rights and equality.",
+      "rationale": "The policy includes operative provisions assigning public and private media responsibilities for awareness-raising on violence against women and requiring training of media personnel to address VAW, which constitutes formal media engagement in prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Art. 11 – Les médias publics et privés procèdent à la sensibilisation aux dangers de la violence à l’égard\n\ndes femmes et aux méthodes de lutte et de prévention contre cette violence et veillent à former le personnel opérant dans le domaine médiatique pour faire face à la violence à l’égard des femmes, dans le respect de l'éthique professionnelle, des droits de l'Homme et de l'égalité.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish community participation or collaboration mechanisms for VAW prevention/response. References to civil society organisations and general duties (e.g., reporting) do not, on these excerpts, identify communities/members of the public as partners or create community mobilisation/participation structures as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require engagement/collaboration with businesses, employers, or other private-sector actors in preventing or responding to violence against women. Mentions of public/private media and general sectoral environments do not constitute private-sector partnership provisions for VAW.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention local/municipal government budgets or local government funding sources; they describe state and ministry responsibilities, services, and institutional arrangements without specifying local budget financing.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to actions and commitments by 'the State' and ministries, but do not explicitly identify a national government budget or budgetary allocation as a funding source. General state undertakings and program development are not framed as budget sourcing.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no explicit mention of international assistance, donors, UN agencies, foreign governments, development partners, or other international support mechanisms related to VAW measures.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any funding or budget sources from other legal sources (e.g., earmarked funds, fines, levies, special funds, or other legally established financing mechanisms). They focus on obligations, services, and institutional setup.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions provincial/regional/governorate budgets as a funding source. References to 'governorates' concern the geographic placement of units, not budget financing.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 27,
+    "resolved": 27,
+    "rate": 1.0
+  }
+}

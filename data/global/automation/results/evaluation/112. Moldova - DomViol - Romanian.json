@@ -1,0 +1,977 @@
+{
+  "policy_file": "112. Moldova - DomViol - Romanian.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T15:28:09.779259+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this law, the following notions mean: domestic violence – acts of physical, sexual, psychological, spiritual or economic violence, with the exception of actions of self-defense or defense of another person, including the threat of such acts, committed by a family member against another member of the same family, which caused material or moral harm to the victim; physical violence - intentional harm to bodily integrity or health through beating, pushing, throwing, hair pulling, pricking, cutting, burning, strangulation, biting, in any form and of any intensity, through poisoning, intoxication, other actions with similar effect; sexual violence - any violence of a sexual nature or any illegal sexual conduct within the family or in other interpersonal relationships, such as marital rape, prohibition of the use of contraceptive methods, sexual harassment; any unwanted, imposed sexual conduct; forced prostitution; any illegal sexual behavior in relation to a minor family member, including through caressing, kissing, posing of the child and through other unwanted touches of a sexual nature; other actions with similar effect; psychological violence – imposition of will or personal control; causing states of tension and psychological suffering through offenses, ridicule, abuse, insult, nicknaming, blackmail, demonstrative destruction of objects, verbal threats, ostentatious display of weapons or beating of domestic animals, neglect; interference in personal life; acts of jealousy; imposition of isolation through detention, including in the family home; isolation from family, community, friends; prohibition and/or creation of impediments in professional achievement or prohibition and/or creation of impediments in the completion of the educational program in the educational institution; persecution through contacting or attempting to contact by any means or through another person the victim who has been caused a state of anxiety, fear for their own safety or that of close relatives, being forced to modify their life conduct; dispossession of identity documents; intentional deprivation of access to information; other actions with similar effect; [Art.2 notion as worded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force spiritual violence - underestimation or diminution of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of the aspirations of family members, through prohibition, limitation, ridicule or punishment of access to cultural, ethnic, linguistic or religious values; imposition of a personally unacceptable value system; other actions with similar effect or with similar repercussions; economic violence - deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, basic necessities; abuse of various situations of superiority to steal the person's goods; prohibition of the right to own, use and dispose of common goods; inequitable control over common goods and resources; refusal to support the family; imposition of heavy and harmful work to the detriment of health, including of a minor family member; other actions with similar effect; violence against women – acts of gender-based violence that cause or may cause women physical, sexual or psychological suffering, including the threat of such acts, coercion or arbitrary deprivation of liberty, committed in the public or private sphere; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force adult victim – adult person who has been subjected to acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force child victim – person who has not reached the age of 18 years, who has been subjected to or has witnessed acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force moral harm – causing physical and/or psychological suffering, which leads to humiliation, fear, degradation, inability to defend against violence, feelings of frustration and other consequences of a similar nature; material harm - material damages, susceptible to financial/pecuniary evaluation or estimation, resulting from any act of domestic violence, in cohabitation, as well as the costs for the investigation of cases of domestic violence; aggressor - person who commits acts of domestic violence, in cohabitation. In case of complaints from several family members, with reciprocal accusations of committing acts of violence, the aggressor will be identified taking into consideration the following circumstances: which of the subjects involved acted in defense of themselves or another person; the probability of critical situations occurring for each person; the manner of action in the violence scene and the severity of injuries caused by each person; previous complaints of domestic violence, other circumstances that indicate the initiator of acts of violence; [Art.2 notion \"victim\" excluded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force 07.09.20] protection order - legal act by which the court applies victim protection measures; crisis situation/critical situation – totality of circumstances that present imminent danger to the life and/or physical and/or mental integrity of the person, requiring urgent intervention with protective measures; emergency restriction order – administrative act issued by the police, through which protection measures are applied meant to ensure the immediate removal of the aggressor from the dwelling of the family subjected to violence and the establishment of prohibitions provided by law, in order to prevent the repetition/commission of acts of violence, thus guaranteeing the safety of the victim and other family members in their dwelling and outside it.\n(4) The victim of domestic violence has the right to demand from the aggressor reparation, under the conditions of the law, of the material and moral damage caused by acts of violence, and from the state – reparation of material and moral damage as a result of failure to provide adequate assistance and protection.",
+      "rationale": "The text contains an operative definition of “domestic violence” and establishes victim rights and remedies specifically for victims of domestic violence, indicating substantive legal coverage beyond mere mention.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "În sensul prezentei legi, următoarele noţiuni semnifică: violenţă în familie – acte de violenţă fizică, sexuală, psihologică, spirituală sau economică, cu excepţia acţiunilor de autoapărare sau de apărare ale altei persoane, inclusiv ameninţarea cu asemenea acte, comise de către un membru de familie în privinţa altui membru al aceleiaşi familii, prin care s-a cauzat victimei prejudiciu material sau moral; violenţă fizică - vătămare intenţionată a integrităţii corporale ori a sănătăţii prin lovire, îmbrîncire, trîntire, tragere de păr, înţepare, tăiere, ardere, strangulare, muşcare, în orice formă şi de orice intensitate, prin otrăvire, intoxicare, alte acţiuni cu efect similar; violenţă sexuală - orice violenţă cu caracter sexual sau orice conduită sexuală ilegală în cadrul familiei sau în alte relaţii interpersonale, cum ar fi violul conjugal, interzicerea folosirii metodelor de contracepţie, hărţuirea sexuală; orice conduită sexuală nedorită, impusă; obligarea practicării prostituţiei; orice comportament sexual ilegal în raport cu un membru de familie minor, inclusiv prin mîngîieri, sărutări, pozare a copilului şi prin alte atingeri nedorite cu tentă sexuală; alte acţiuni cu efect similar; violenţă psihologică – impunere a voinţei sau a controlului personal; provocare a stărilor de tensiune şi de suferinţă psihică prin ofense, luare în derâdere, înjurare, insultare, poreclire, şantajare, distrugere demonstrativă a obiectelor, ameninţări verbale, afişare ostentativă a armelor sau lovire a animalelor domestice, neglijare; implicare în viaţa personală; acte de gelozie; impunere a izolării prin detenţie, inclusiv în locuinţa familială; izolare de familie, de comunitate, de prieteni; interzicere și/sau creare a impedimentelor în realizarea profesională ori interzicere și/sau creare a impedimentelor în realizarea programului educațional în instituția de învățământ; persecutare prin contactarea sau încercarea de a contacta prin orice mijloc sau prin intermediul altei persoane victima căreia i s-a cauzat o stare de anxietate, frică pentru siguranța proprie ori a rudelor apropiate, fiind constrânsă să-și modifice conduita de viață; deposedare de acte de identitate; privare intenţionată de acces la informaţie; alte acţiuni cu efect similar; [Art.2 noțiunea în redacția LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare violenţă spirituală - subestimare sau diminuare a importanţei satisfacerii necesităţilor moralspirituale prin interzicere, limitare, ridiculizare, penalizare a aspiraţiilor membrilor de familie, prin interzicere, limitare, luare în derîdere sau pedepsire a accesului la valorile culturale, etnice, lingvistice sau religioase; impunere a unui sistem de valori personal inacceptabile; alte acţiuni cu efect similar sau cu repercusiuni similare; violenţă economică - privare de mijloace economice, inclusiv lipsire de mijloace de existenţă primară, cum ar fi hrană, medicamente, obiecte de primă necesitate; abuz de variate situaţii de superioritate pentru a sustrage bunurile persoanei; interzicere a dreptului de a poseda, folosi şi dispune de bunurile comune; control inechitabil asupra bunurilor şi resurselor comune; refuz de a susţine familia; impunere la munci grele şi nocive în detrimentul sănătăţii, inclusiv a unui membru de familie minor; alte acţiuni cu efect similar; violenţă împotriva femeilor – acte de violenţă bazate pe gen, care cauzează sau poate cauza femeilor o suferinţă fizică, sexuală sau psihologică, inclusiv ameninţarea cu asemenea acte, forţarea sau privarea de libertate arbitrară, comise în sfera publică sau privată; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-adult – persoană adultă care a fost supusă actelor de violenţă în familie, în concubinaj; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-copil – persoană care nu a împlinit vârsta de 18 ani, care a fost supusă sau a fost martoră la acte de violență în familie, în concubinaj;\n\n(4) Victima violenţei în familie are dreptul să ceară agresorului repararea, în condiţiile legii, a prejudiciului material şi moral cauzat prin actele de violenţă, iar statului – repararea prejudiciului material şi moral ca urmare a neasigurării asistenţei şi protecţiei adecvate.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this law, the following notions mean: domestic violence – acts of physical, sexual, psychological, spiritual or economic violence, with the exception of actions of self-defense or defense of another person, including the threat of such acts, committed by a family member against another member of the same family, which caused material or moral harm to the victim; physical violence - intentional harm to bodily integrity or health through beating, pushing, throwing, hair pulling, pricking, cutting, burning, strangulation, biting, in any form and of any intensity, through poisoning, intoxication, other actions with similar effect; sexual violence - any violence of a sexual nature or any illegal sexual conduct within the family or in other interpersonal relationships, such as marital rape, prohibition of the use of contraceptive methods, sexual harassment; any unwanted, imposed sexual conduct; forced prostitution; any illegal sexual behavior in relation to a minor family member, including through caressing, kissing, posing of the child and through other unwanted touches of a sexual nature; other actions with similar effect; psychological violence – imposition of will or personal control; causing states of tension and psychological suffering through offenses, ridicule, abuse, insult, nicknaming, blackmail, demonstrative destruction of objects, verbal threats, ostentatious display of weapons or beating of domestic animals, neglect; interference in personal life; acts of jealousy; imposition of isolation through detention, including in the family home; isolation from family, community, friends; prohibition and/or creation of impediments in professional achievement or prohibition and/or creation of impediments in the completion of the educational program in the educational institution; persecution through contacting or attempting to contact by any means or through another person the victim who has been caused a state of anxiety, fear for their own safety or that of close relatives, being forced to modify their life conduct; dispossession of identity documents; intentional deprivation of access to information; other actions with similar effect; [Art.2 notion as worded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force spiritual violence - underestimation or diminution of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of the aspirations of family members, through prohibition, limitation, ridicule or punishment of access to cultural, ethnic, linguistic or religious values; imposition of a personally unacceptable value system; other actions with similar effect or with similar repercussions; economic violence - deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, basic necessities; abuse of various situations of superiority to steal the person's goods; prohibition of the right to own, use and dispose of common goods; inequitable control over common goods and resources; refusal to support the family; imposition of heavy and harmful work to the detriment of health, including of a minor family member; other actions with similar effect; violence against women – acts of gender-based violence that cause or may cause women physical, sexual or psychological suffering, including the threat of such acts, coercion or arbitrary deprivation of liberty, committed in the public or private sphere; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force adult victim – adult person who has been subjected to acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force child victim – person who has not reached the age of 18 years, who has been subjected to or has witnessed acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force moral harm – causing physical and/or psychological suffering, which leads to humiliation, fear, degradation, inability to defend against violence, feelings of frustration and other consequences of a similar nature; material harm - material damages, susceptible to financial/pecuniary evaluation or estimation, resulting from any act of domestic violence, in cohabitation, as well as the costs for the investigation of cases of domestic violence; aggressor - person who commits acts of domestic violence, in cohabitation. In case of complaints from several family members, with reciprocal accusations of committing acts of violence, the aggressor will be identified taking into consideration the following circumstances: which of the subjects involved acted in defense of themselves or another person; the probability of critical situations occurring for each person; the manner of action in the violence scene and the severity of injuries caused by each person; previous complaints of domestic violence, other circumstances that indicate the initiator of acts of violence; [Art.2 notion \"victim\" excluded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force 07.09.20] protection order - legal act by which the court applies victim protection measures; crisis situation/critical situation – totality of circumstances that present imminent danger to the life and/or physical and/or mental integrity of the person, requiring urgent intervention with protective measures; emergency restriction order – administrative act issued by the police, through which protection measures are applied meant to ensure the immediate removal of the aggressor from the dwelling of the family subjected to violence and the establishment of prohibitions provided by law, in order to prevent the repetition/commission of acts of violence, thus guaranteeing the safety of the victim and other family members in their dwelling and outside it.",
+      "rationale": "The law includes an operative definition of “sexual violence” (including examples such as marital rape and sexual harassment) as part of the legal definitions, which constitutes substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "În sensul prezentei legi, următoarele noţiuni semnifică: violenţă în familie – acte de violenţă fizică, sexuală, psihologică, spirituală sau economică, cu excepţia acţiunilor de autoapărare sau de apărare ale altei persoane, inclusiv ameninţarea cu asemenea acte, comise de către un membru de familie în privinţa altui membru al aceleiaşi familii, prin care s-a cauzat victimei prejudiciu material sau moral; violenţă fizică - vătămare intenţionată a integrităţii corporale ori a sănătăţii prin lovire, îmbrîncire, trîntire, tragere de păr, înţepare, tăiere, ardere, strangulare, muşcare, în orice formă şi de orice intensitate, prin otrăvire, intoxicare, alte acţiuni cu efect similar; violenţă sexuală - orice violenţă cu caracter sexual sau orice conduită sexuală ilegală în cadrul familiei sau în alte relaţii interpersonale, cum ar fi violul conjugal, interzicerea folosirii metodelor de contracepţie, hărţuirea sexuală; orice conduită sexuală nedorită, impusă; obligarea practicării prostituţiei; orice comportament sexual ilegal în raport cu un membru de familie minor, inclusiv prin mîngîieri, sărutări, pozare a copilului şi prin alte atingeri nedorite cu tentă sexuală; alte acţiuni cu efect similar; violenţă psihologică – impunere a voinţei sau a controlului personal; provocare a stărilor de tensiune şi de suferinţă psihică prin ofense, luare în derâdere, înjurare, insultare, poreclire, şantajare, distrugere demonstrativă a obiectelor, ameninţări verbale, afişare ostentativă a armelor sau lovire a animalelor domestice, neglijare; implicare în viaţa personală; acte de gelozie; impunere a izolării prin detenţie, inclusiv în locuinţa familială; izolare de familie, de comunitate, de prieteni; interzicere și/sau creare a impedimentelor în realizarea profesională ori interzicere și/sau creare a impedimentelor în realizarea programului educațional în instituția de învățământ; persecutare prin contactarea sau încercarea de a contacta prin orice mijloc sau prin intermediul altei persoane victima căreia i s-a cauzat o stare de anxietate, frică pentru siguranța proprie ori a rudelor apropiate, fiind constrânsă să-și modifice conduita de viață; deposedare de acte de identitate; privare intenţionată de acces la informaţie; alte acţiuni cu efect similar; [Art.2 noțiunea în redacția LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare violenţă spirituală - subestimare sau diminuare a importanţei satisfacerii necesităţilor moralspirituale prin interzicere, limitare, ridiculizare, penalizare a aspiraţiilor membrilor de familie, prin interzicere, limitare, luare în derîdere sau pedepsire a accesului la valorile culturale, etnice, lingvistice sau religioase; impunere a unui sistem de valori personal inacceptabile; alte acţiuni cu efect similar sau cu repercusiuni similare; violenţă economică - privare de mijloace economice, inclusiv lipsire de mijloace de existenţă primară, cum ar fi hrană, medicamente, obiecte de primă necesitate; abuz de variate situaţii de superioritate pentru a sustrage bunurile persoanei; interzicere a dreptului de a poseda, folosi şi dispune de bunurile comune; control inechitabil asupra bunurilor şi resurselor comune; refuz de a susţine familia; impunere la munci grele şi nocive în detrimentul sănătăţii, inclusiv a unui membru de familie minor; alte acţiuni cu efect similar; violenţă împotriva femeilor – acte de violenţă bazate pe gen, care cauzează sau poate cauza femeilor o suferinţă fizică, sexuală sau psihologică, inclusiv ameninţarea cu asemenea acte, forţarea sau privarea de libertate arbitrară, comise în sfera publică sau privată; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-adult – persoană adultă care a fost supusă actelor de violenţă în familie, în concubinaj; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-copil – persoană care nu a împlinit vârsta de 18 ani, care a fost supusă sau a fost martoră la acte de violență în familie, în concubinaj;",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this law, the following notions mean: domestic violence – acts of physical, sexual, psychological, spiritual or economic violence, with the exception of actions of self-defense or defense of another person, including the threat of such acts, committed by a family member against another member of the same family, which caused material or moral harm to the victim; physical violence - intentional harm to bodily integrity or health through beating, pushing, throwing, hair pulling, pricking, cutting, burning, strangulation, biting, in any form and of any intensity, through poisoning, intoxication, other actions with similar effect; sexual violence - any violence of a sexual nature or any illegal sexual conduct within the family or in other interpersonal relationships, such as marital rape, prohibition of the use of contraceptive methods, sexual harassment; any unwanted, imposed sexual conduct; forced prostitution; any illegal sexual behavior in relation to a minor family member, including through caressing, kissing, posing of the child and through other unwanted touches of a sexual nature; other actions with similar effect; psychological violence – imposition of will or personal control; causing states of tension and psychological suffering through offenses, ridicule, abuse, insult, nicknaming, blackmail, demonstrative destruction of objects, verbal threats, ostentatious display of weapons or beating of domestic animals, neglect; interference in personal life; acts of jealousy; imposition of isolation through detention, including in the family home; isolation from family, community, friends; prohibition and/or creation of impediments in professional achievement or prohibition and/or creation of impediments in the completion of the educational program in the educational institution; persecution through contacting or attempting to contact by any means or through another person the victim who has been caused a state of anxiety, fear for their own safety or that of close relatives, being forced to modify their life conduct; dispossession of identity documents; intentional deprivation of access to information; other actions with similar effect; [Art.2 notion as worded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force spiritual violence - underestimation or diminution of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of the aspirations of family members, through prohibition, limitation, ridicule or punishment of access to cultural, ethnic, linguistic or religious values; imposition of a personally unacceptable value system; other actions with similar effect or with similar repercussions; economic violence - deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, basic necessities; abuse of various situations of superiority to steal the person's goods; prohibition of the right to own, use and dispose of common goods; inequitable control over common goods and resources; refusal to support the family; imposition of heavy and harmful work to the detriment of health, including of a minor family member; other actions with similar effect; violence against women – acts of gender-based violence that cause or may cause women physical, sexual or psychological suffering, including the threat of such acts, coercion or arbitrary deprivation of liberty, committed in the public or private sphere; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force adult victim – adult person who has been subjected to acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force child victim – person who has not reached the age of 18 years, who has been subjected to or has witnessed acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force moral harm – causing physical and/or psychological suffering, which leads to humiliation, fear, degradation, inability to defend against violence, feelings of frustration and other consequences of a similar nature; material harm - material damages, susceptible to financial/pecuniary evaluation or estimation, resulting from any act of domestic violence, in cohabitation, as well as the costs for the investigation of cases of domestic violence; aggressor - person who commits acts of domestic violence, in cohabitation. In case of complaints from several family members, with reciprocal accusations of committing acts of violence, the aggressor will be identified taking into consideration the following circumstances: which of the subjects involved acted in defense of themselves or another person; the probability of critical situations occurring for each person; the manner of action in the violence scene and the severity of injuries caused by each person; previous complaints of domestic violence, other circumstances that indicate the initiator of acts of violence; [Art.2 notion \"victim\" excluded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force 07.09.20] protection order - legal act by which the court applies victim protection measures; crisis situation/critical situation – totality of circumstances that present imminent danger to the life and/or physical and/or mental integrity of the person, requiring urgent intervention with protective measures; emergency restriction order – administrative act issued by the police, through which protection measures are applied meant to ensure the immediate removal of the aggressor from the dwelling of the family subjected to violence and the establishment of prohibitions provided by law, in order to prevent the repetition/commission of acts of violence, thus guaranteeing the safety of the victim and other family members in their dwelling and outside it.",
+      "rationale": "The law provides an operative definition of “physical violence” within its main notions, explicitly classifying it as a form of violence covered by the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "În sensul prezentei legi, următoarele noţiuni semnifică: violenţă în familie – acte de violenţă fizică, sexuală, psihologică, spirituală sau economică, cu excepţia acţiunilor de autoapărare sau de apărare ale altei persoane, inclusiv ameninţarea cu asemenea acte, comise de către un membru de familie în privinţa altui membru al aceleiaşi familii, prin care s-a cauzat victimei prejudiciu material sau moral; violenţă fizică - vătămare intenţionată a integrităţii corporale ori a sănătăţii prin lovire, îmbrîncire, trîntire, tragere de păr, înţepare, tăiere, ardere, strangulare, muşcare, în orice formă şi de orice intensitate, prin otrăvire, intoxicare, alte acţiuni cu efect similar; violenţă sexuală - orice violenţă cu caracter sexual sau orice conduită sexuală ilegală în cadrul familiei sau în alte relaţii interpersonale, cum ar fi violul conjugal, interzicerea folosirii metodelor de contracepţie, hărţuirea sexuală; orice conduită sexuală nedorită, impusă; obligarea practicării prostituţiei; orice comportament sexual ilegal în raport cu un membru de familie minor, inclusiv prin mîngîieri, sărutări, pozare a copilului şi prin alte atingeri nedorite cu tentă sexuală; alte acţiuni cu efect similar; violenţă psihologică – impunere a voinţei sau a controlului personal; provocare a stărilor de tensiune şi de suferinţă psihică prin ofense, luare în derâdere, înjurare, insultare, poreclire, şantajare, distrugere demonstrativă a obiectelor, ameninţări verbale, afişare ostentativă a armelor sau lovire a animalelor domestice, neglijare; implicare în viaţa personală; acte de gelozie; impunere a izolării prin detenţie, inclusiv în locuinţa familială; izolare de familie, de comunitate, de prieteni; interzicere și/sau creare a impedimentelor în realizarea profesională ori interzicere și/sau creare a impedimentelor în realizarea programului educațional în instituția de învățământ; persecutare prin contactarea sau încercarea de a contacta prin orice mijloc sau prin intermediul altei persoane victima căreia i s-a cauzat o stare de anxietate, frică pentru siguranța proprie ori a rudelor apropiate, fiind constrânsă să-și modifice conduita de viață; deposedare de acte de identitate; privare intenţionată de acces la informaţie; alte acţiuni cu efect similar; [Art.2 noțiunea în redacția LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare violenţă spirituală - subestimare sau diminuare a importanţei satisfacerii necesităţilor moralspirituale prin interzicere, limitare, ridiculizare, penalizare a aspiraţiilor membrilor de familie, prin interzicere, limitare, luare în derîdere sau pedepsire a accesului la valorile culturale, etnice, lingvistice sau religioase; impunere a unui sistem de valori personal inacceptabile; alte acţiuni cu efect similar sau cu repercusiuni similare; violenţă economică - privare de mijloace economice, inclusiv lipsire de mijloace de existenţă primară, cum ar fi hrană, medicamente, obiecte de primă necesitate; abuz de variate situaţii de superioritate pentru a sustrage bunurile persoanei; interzicere a dreptului de a poseda, folosi şi dispune de bunurile comune; control inechitabil asupra bunurilor şi resurselor comune; refuz de a susţine familia; impunere la munci grele şi nocive în detrimentul sănătăţii, inclusiv a unui membru de familie minor; alte acţiuni cu efect similar; violenţă împotriva femeilor – acte de violenţă bazate pe gen, care cauzează sau poate cauza femeilor o suferinţă fizică, sexuală sau psihologică, inclusiv ameninţarea cu asemenea acte, forţarea sau privarea de libertate arbitrară, comise în sfera publică sau privată; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-adult – persoană adultă care a fost supusă actelor de violenţă în familie, în concubinaj; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-copil – persoană care nu a împlinit vârsta de 18 ani, care a fost supusă sau a fost martoră la acte de violență în familie, în concubinaj;",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this law, the following notions mean: domestic violence – acts of physical, sexual, psychological, spiritual or economic violence, with the exception of actions of self-defense or defense of another person, including the threat of such acts, committed by a family member against another member of the same family, which caused material or moral harm to the victim; physical violence - intentional harm to bodily integrity or health through beating, pushing, throwing, hair pulling, pricking, cutting, burning, strangulation, biting, in any form and of any intensity, through poisoning, intoxication, other actions with similar effect; sexual violence - any violence of a sexual nature or any illegal sexual conduct within the family or in other interpersonal relationships, such as marital rape, prohibition of the use of contraceptive methods, sexual harassment; any unwanted, imposed sexual conduct; forced prostitution; any illegal sexual behavior in relation to a minor family member, including through caressing, kissing, posing of the child and through other unwanted touches of a sexual nature; other actions with similar effect; psychological violence – imposition of will or personal control; causing states of tension and psychological suffering through offenses, ridicule, abuse, insult, nicknaming, blackmail, demonstrative destruction of objects, verbal threats, ostentatious display of weapons or beating of domestic animals, neglect; interference in personal life; acts of jealousy; imposition of isolation through detention, including in the family home; isolation from family, community, friends; prohibition and/or creation of impediments in professional achievement or prohibition and/or creation of impediments in the completion of the educational program in the educational institution; persecution through contacting or attempting to contact by any means or through another person the victim who has been caused a state of anxiety, fear for their own safety or that of close relatives, being forced to modify their life conduct; dispossession of identity documents; intentional deprivation of access to information; other actions with similar effect; [Art.2 notion as worded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force spiritual violence - underestimation or diminution of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of the aspirations of family members, through prohibition, limitation, ridicule or punishment of access to cultural, ethnic, linguistic or religious values; imposition of a personally unacceptable value system; other actions with similar effect or with similar repercussions; economic violence - deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, basic necessities; abuse of various situations of superiority to steal the person's goods; prohibition of the right to own, use and dispose of common goods; inequitable control over common goods and resources; refusal to support the family; imposition of heavy and harmful work to the detriment of health, including of a minor family member; other actions with similar effect; violence against women – acts of gender-based violence that cause or may cause women physical, sexual or psychological suffering, including the threat of such acts, coercion or arbitrary deprivation of liberty, committed in the public or private sphere; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force adult victim – adult person who has been subjected to acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force child victim – person who has not reached the age of 18 years, who has been subjected to or has witnessed acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force moral harm – causing physical and/or psychological suffering, which leads to humiliation, fear, degradation, inability to defend against violence, feelings of frustration and other consequences of a similar nature; material harm - material damages, susceptible to financial/pecuniary evaluation or estimation, resulting from any act of domestic violence, in cohabitation, as well as the costs for the investigation of cases of domestic violence; aggressor - person who commits acts of domestic violence, in cohabitation. In case of complaints from several family members, with reciprocal accusations of committing acts of violence, the aggressor will be identified taking into consideration the following circumstances: which of the subjects involved acted in defense of themselves or another person; the probability of critical situations occurring for each person; the manner of action in the violence scene and the severity of injuries caused by each person; previous complaints of domestic violence, other circumstances that indicate the initiator of acts of violence; [Art.2 notion \"victim\" excluded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force 07.09.20] protection order - legal act by which the court applies victim protection measures; crisis situation/critical situation – totality of circumstances that present imminent danger to the life and/or physical and/or mental integrity of the person, requiring urgent intervention with protective measures; emergency restriction order – administrative act issued by the police, through which protection measures are applied meant to ensure the immediate removal of the aggressor from the dwelling of the family subjected to violence and the establishment of prohibitions provided by law, in order to prevent the repetition/commission of acts of violence, thus guaranteeing the safety of the victim and other family members in their dwelling and outside it.",
+      "rationale": "The law includes an operative definition of “psychological violence,” detailing forms of conduct that constitute it, which is substantive legal recognition within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "În sensul prezentei legi, următoarele noţiuni semnifică: violenţă în familie – acte de violenţă fizică, sexuală, psihologică, spirituală sau economică, cu excepţia acţiunilor de autoapărare sau de apărare ale altei persoane, inclusiv ameninţarea cu asemenea acte, comise de către un membru de familie în privinţa altui membru al aceleiaşi familii, prin care s-a cauzat victimei prejudiciu material sau moral; violenţă fizică - vătămare intenţionată a integrităţii corporale ori a sănătăţii prin lovire, îmbrîncire, trîntire, tragere de păr, înţepare, tăiere, ardere, strangulare, muşcare, în orice formă şi de orice intensitate, prin otrăvire, intoxicare, alte acţiuni cu efect similar; violenţă sexuală - orice violenţă cu caracter sexual sau orice conduită sexuală ilegală în cadrul familiei sau în alte relaţii interpersonale, cum ar fi violul conjugal, interzicerea folosirii metodelor de contracepţie, hărţuirea sexuală; orice conduită sexuală nedorită, impusă; obligarea practicării prostituţiei; orice comportament sexual ilegal în raport cu un membru de familie minor, inclusiv prin mîngîieri, sărutări, pozare a copilului şi prin alte atingeri nedorite cu tentă sexuală; alte acţiuni cu efect similar; violenţă psihologică – impunere a voinţei sau a controlului personal; provocare a stărilor de tensiune şi de suferinţă psihică prin ofense, luare în derâdere, înjurare, insultare, poreclire, şantajare, distrugere demonstrativă a obiectelor, ameninţări verbale, afişare ostentativă a armelor sau lovire a animalelor domestice, neglijare; implicare în viaţa personală; acte de gelozie; impunere a izolării prin detenţie, inclusiv în locuinţa familială; izolare de familie, de comunitate, de prieteni; interzicere și/sau creare a impedimentelor în realizarea profesională ori interzicere și/sau creare a impedimentelor în realizarea programului educațional în instituția de învățământ; persecutare prin contactarea sau încercarea de a contacta prin orice mijloc sau prin intermediul altei persoane victima căreia i s-a cauzat o stare de anxietate, frică pentru siguranța proprie ori a rudelor apropiate, fiind constrânsă să-și modifice conduita de viață; deposedare de acte de identitate; privare intenţionată de acces la informaţie; alte acţiuni cu efect similar; [Art.2 noțiunea în redacția LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare violenţă spirituală - subestimare sau diminuare a importanţei satisfacerii necesităţilor moralspirituale prin interzicere, limitare, ridiculizare, penalizare a aspiraţiilor membrilor de familie, prin interzicere, limitare, luare în derîdere sau pedepsire a accesului la valorile culturale, etnice, lingvistice sau religioase; impunere a unui sistem de valori personal inacceptabile; alte acţiuni cu efect similar sau cu repercusiuni similare; violenţă economică - privare de mijloace economice, inclusiv lipsire de mijloace de existenţă primară, cum ar fi hrană, medicamente, obiecte de primă necesitate; abuz de variate situaţii de superioritate pentru a sustrage bunurile persoanei; interzicere a dreptului de a poseda, folosi şi dispune de bunurile comune; control inechitabil asupra bunurilor şi resurselor comune; refuz de a susţine familia; impunere la munci grele şi nocive în detrimentul sănătăţii, inclusiv a unui membru de familie minor; alte acţiuni cu efect similar; violenţă împotriva femeilor – acte de violenţă bazate pe gen, care cauzează sau poate cauza femeilor o suferinţă fizică, sexuală sau psihologică, inclusiv ameninţarea cu asemenea acte, forţarea sau privarea de libertate arbitrară, comise în sfera publică sau privată; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-adult – persoană adultă care a fost supusă actelor de violenţă în familie, în concubinaj; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-copil – persoană care nu a împlinit vârsta de 18 ani, care a fost supusă sau a fost martoră la acte de violență în familie, în concubinaj;",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this law, the following notions mean: domestic violence – acts of physical, sexual, psychological, spiritual or economic violence, with the exception of actions of self-defense or defense of another person, including the threat of such acts, committed by a family member against another member of the same family, which caused material or moral harm to the victim; physical violence - intentional harm to bodily integrity or health through beating, pushing, throwing, hair pulling, pricking, cutting, burning, strangulation, biting, in any form and of any intensity, through poisoning, intoxication, other actions with similar effect; sexual violence - any violence of a sexual nature or any illegal sexual conduct within the family or in other interpersonal relationships, such as marital rape, prohibition of the use of contraceptive methods, sexual harassment; any unwanted, imposed sexual conduct; forced prostitution; any illegal sexual behavior in relation to a minor family member, including through caressing, kissing, posing of the child and through other unwanted touches of a sexual nature; other actions with similar effect; psychological violence – imposition of will or personal control; causing states of tension and psychological suffering through offenses, ridicule, abuse, insult, nicknaming, blackmail, demonstrative destruction of objects, verbal threats, ostentatious display of weapons or beating of domestic animals, neglect; interference in personal life; acts of jealousy; imposition of isolation through detention, including in the family home; isolation from family, community, friends; prohibition and/or creation of impediments in professional achievement or prohibition and/or creation of impediments in the completion of the educational program in the educational institution; persecution through contacting or attempting to contact by any means or through another person the victim who has been caused a state of anxiety, fear for their own safety or that of close relatives, being forced to modify their life conduct; dispossession of identity documents; intentional deprivation of access to information; other actions with similar effect; [Art.2 notion as worded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force spiritual violence - underestimation or diminution of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of the aspirations of family members, through prohibition, limitation, ridicule or punishment of access to cultural, ethnic, linguistic or religious values; imposition of a personally unacceptable value system; other actions with similar effect or with similar repercussions; economic violence - deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, basic necessities; abuse of various situations of superiority to steal the person's goods; prohibition of the right to own, use and dispose of common goods; inequitable control over common goods and resources; refusal to support the family; imposition of heavy and harmful work to the detriment of health, including of a minor family member; other actions with similar effect; violence against women – acts of gender-based violence that cause or may cause women physical, sexual or psychological suffering, including the threat of such acts, coercion or arbitrary deprivation of liberty, committed in the public or private sphere; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force adult victim – adult person who has been subjected to acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force child victim – person who has not reached the age of 18 years, who has been subjected to or has witnessed acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force moral harm – causing physical and/or psychological suffering, which leads to humiliation, fear, degradation, inability to defend against violence, feelings of frustration and other consequences of a similar nature; material harm - material damages, susceptible to financial/pecuniary evaluation or estimation, resulting from any act of domestic violence, in cohabitation, as well as the costs for the investigation of cases of domestic violence; aggressor - person who commits acts of domestic violence, in cohabitation. In case of complaints from several family members, with reciprocal accusations of committing acts of violence, the aggressor will be identified taking into consideration the following circumstances: which of the subjects involved acted in defense of themselves or another person; the probability of critical situations occurring for each person; the manner of action in the violence scene and the severity of injuries caused by each person; previous complaints of domestic violence, other circumstances that indicate the initiator of acts of violence; [Art.2 notion \"victim\" excluded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force 07.09.20] protection order - legal act by which the court applies victim protection measures; crisis situation/critical situation – totality of circumstances that present imminent danger to the life and/or physical and/or mental integrity of the person, requiring urgent intervention with protective measures; emergency restriction order – administrative act issued by the police, through which protection measures are applied meant to ensure the immediate removal of the aggressor from the dwelling of the family subjected to violence and the establishment of prohibitions provided by law, in order to prevent the repetition/commission of acts of violence, thus guaranteeing the safety of the victim and other family members in their dwelling and outside it.",
+      "rationale": "The law explicitly defines “economic violence” (including deprivation of economic means and refusal to support the family) as a form of violence within the operative definitions, meeting the substantive threshold.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "În sensul prezentei legi, următoarele noţiuni semnifică: violenţă în familie – acte de violenţă fizică, sexuală, psihologică, spirituală sau economică, cu excepţia acţiunilor de autoapărare sau de apărare ale altei persoane, inclusiv ameninţarea cu asemenea acte, comise de către un membru de familie în privinţa altui membru al aceleiaşi familii, prin care s-a cauzat victimei prejudiciu material sau moral; violenţă fizică - vătămare intenţionată a integrităţii corporale ori a sănătăţii prin lovire, îmbrîncire, trîntire, tragere de păr, înţepare, tăiere, ardere, strangulare, muşcare, în orice formă şi de orice intensitate, prin otrăvire, intoxicare, alte acţiuni cu efect similar; violenţă sexuală - orice violenţă cu caracter sexual sau orice conduită sexuală ilegală în cadrul familiei sau în alte relaţii interpersonale, cum ar fi violul conjugal, interzicerea folosirii metodelor de contracepţie, hărţuirea sexuală; orice conduită sexuală nedorită, impusă; obligarea practicării prostituţiei; orice comportament sexual ilegal în raport cu un membru de familie minor, inclusiv prin mîngîieri, sărutări, pozare a copilului şi prin alte atingeri nedorite cu tentă sexuală; alte acţiuni cu efect similar; violenţă psihologică – impunere a voinţei sau a controlului personal; provocare a stărilor de tensiune şi de suferinţă psihică prin ofense, luare în derâdere, înjurare, insultare, poreclire, şantajare, distrugere demonstrativă a obiectelor, ameninţări verbale, afişare ostentativă a armelor sau lovire a animalelor domestice, neglijare; implicare în viaţa personală; acte de gelozie; impunere a izolării prin detenţie, inclusiv în locuinţa familială; izolare de familie, de comunitate, de prieteni; interzicere și/sau creare a impedimentelor în realizarea profesională ori interzicere și/sau creare a impedimentelor în realizarea programului educațional în instituția de învățământ; persecutare prin contactarea sau încercarea de a contacta prin orice mijloc sau prin intermediul altei persoane victima căreia i s-a cauzat o stare de anxietate, frică pentru siguranța proprie ori a rudelor apropiate, fiind constrânsă să-și modifice conduita de viață; deposedare de acte de identitate; privare intenţionată de acces la informaţie; alte acţiuni cu efect similar; [Art.2 noțiunea în redacția LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare violenţă spirituală - subestimare sau diminuare a importanţei satisfacerii necesităţilor moralspirituale prin interzicere, limitare, ridiculizare, penalizare a aspiraţiilor membrilor de familie, prin interzicere, limitare, luare în derîdere sau pedepsire a accesului la valorile culturale, etnice, lingvistice sau religioase; impunere a unui sistem de valori personal inacceptabile; alte acţiuni cu efect similar sau cu repercusiuni similare; violenţă economică - privare de mijloace economice, inclusiv lipsire de mijloace de existenţă primară, cum ar fi hrană, medicamente, obiecte de primă necesitate; abuz de variate situaţii de superioritate pentru a sustrage bunurile persoanei; interzicere a dreptului de a poseda, folosi şi dispune de bunurile comune; control inechitabil asupra bunurilor şi resurselor comune; refuz de a susţine familia; impunere la munci grele şi nocive în detrimentul sănătăţii, inclusiv a unui membru de familie minor; alte acţiuni cu efect similar; violenţă împotriva femeilor – acte de violenţă bazate pe gen, care cauzează sau poate cauza femeilor o suferinţă fizică, sexuală sau psihologică, inclusiv ameninţarea cu asemenea acte, forţarea sau privarea de libertate arbitrară, comise în sfera publică sau privată; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-adult – persoană adultă care a fost supusă actelor de violenţă în familie, în concubinaj; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-copil – persoană care nu a împlinit vârsta de 18 ani, care a fost supusă sau a fost martoră la acte de violență în familie, în concubinaj;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention or regulate harmful practices such as child/early marriage, FGM/C, honour crimes, or female infanticide, nor do they reference such practices in operative or preambular language.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they establish any femicide-specific prevention, monitoring, or aggravation provisions.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided text does not mention human trafficking/trafficking in persons or trafficking victims; references to forced prostitution appear only within the definition of sexual violence and are not framed as trafficking provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "For the purposes of this law, the following notions mean: domestic violence – acts of physical, sexual, psychological, spiritual or economic violence, with the exception of actions of self-defense or defense of another person, including the threat of such acts, committed by a family member against another member of the same family, which caused material or moral harm to the victim; physical violence - intentional harm to bodily integrity or health through beating, pushing, throwing, hair pulling, pricking, cutting, burning, strangulation, biting, in any form and of any intensity, through poisoning, intoxication, other actions with similar effect; sexual violence - any violence of a sexual nature or any illegal sexual conduct within the family or in other interpersonal relationships, such as marital rape, prohibition of the use of contraceptive methods, sexual harassment; any unwanted, imposed sexual conduct; forced prostitution; any illegal sexual behavior in relation to a minor family member, including through caressing, kissing, posing of the child and through other unwanted touches of a sexual nature; other actions with similar effect; psychological violence – imposition of will or personal control; causing states of tension and psychological suffering through offenses, ridicule, abuse, insult, nicknaming, blackmail, demonstrative destruction of objects, verbal threats, ostentatious display of weapons or beating of domestic animals, neglect; interference in personal life; acts of jealousy; imposition of isolation through detention, including in the family home; isolation from family, community, friends; prohibition and/or creation of impediments in professional achievement or prohibition and/or creation of impediments in the completion of the educational program in the educational institution; persecution through contacting or attempting to contact by any means or through another person the victim who has been caused a state of anxiety, fear for their own safety or that of close relatives, being forced to modify their life conduct; dispossession of identity documents; intentional deprivation of access to information; other actions with similar effect; [Art.2 notion as worded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force spiritual violence - underestimation or diminution of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of the aspirations of family members, through prohibition, limitation, ridicule or punishment of access to cultural, ethnic, linguistic or religious values; imposition of a personally unacceptable value system; other actions with similar effect or with similar repercussions; economic violence - deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, basic necessities; abuse of various situations of superiority to steal the person's goods; prohibition of the right to own, use and dispose of common goods; inequitable control over common goods and resources; refusal to support the family; imposition of heavy and harmful work to the detriment of health, including of a minor family member; other actions with similar effect; violence against women – acts of gender-based violence that cause or may cause women physical, sexual or psychological suffering, including the threat of such acts, coercion or arbitrary deprivation of liberty, committed in the public or private sphere; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force adult victim – adult person who has been subjected to acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force child victim – person who has not reached the age of 18 years, who has been subjected to or has witnessed acts of domestic violence, in cohabitation; [Art.2 notion introduced by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force moral harm – causing physical and/or psychological suffering, which leads to humiliation, fear, degradation, inability to defend against violence, feelings of frustration and other consequences of a similar nature; material harm - material damages, susceptible to financial/pecuniary evaluation or estimation, resulting from any act of domestic violence, in cohabitation, as well as the costs for the investigation of cases of domestic violence; aggressor - person who commits acts of domestic violence, in cohabitation. In case of complaints from several family members, with reciprocal accusations of committing acts of violence, the aggressor will be identified taking into consideration the following circumstances: which of the subjects involved acted in defense of themselves or another person; the probability of critical situations occurring for each person; the manner of action in the violence scene and the severity of injuries caused by each person; previous complaints of domestic violence, other circumstances that indicate the initiator of acts of violence; [Art.2 notion \"victim\" excluded by LP113 of 09.07.20, MO199-204/07.08.20 art.400; in force 07.09.20] protection order - legal act by which the court applies victim protection measures; crisis situation/critical situation – totality of circumstances that present imminent danger to the life and/or physical and/or mental integrity of the person, requiring urgent intervention with protective measures; emergency restriction order – administrative act issued by the police, through which protection measures are applied meant to ensure the immediate removal of the aggressor from the dwelling of the family subjected to violence and the establishment of prohibitions provided by law, in order to prevent the repetition/commission of acts of violence, thus guaranteeing the safety of the victim and other family members in their dwelling and outside it.",
+      "rationale": "The operative definition of sexual violence explicitly includes “forced prostitution,” which constitutes a specific sexual-exploitation nexus within the framework’s covered forms of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "În sensul prezentei legi, următoarele noţiuni semnifică: violenţă în familie – acte de violenţă fizică, sexuală, psihologică, spirituală sau economică, cu excepţia acţiunilor de autoapărare sau de apărare ale altei persoane, inclusiv ameninţarea cu asemenea acte, comise de către un membru de familie în privinţa altui membru al aceleiaşi familii, prin care s-a cauzat victimei prejudiciu material sau moral; violenţă fizică - vătămare intenţionată a integrităţii corporale ori a sănătăţii prin lovire, îmbrîncire, trîntire, tragere de păr, înţepare, tăiere, ardere, strangulare, muşcare, în orice formă şi de orice intensitate, prin otrăvire, intoxicare, alte acţiuni cu efect similar; violenţă sexuală - orice violenţă cu caracter sexual sau orice conduită sexuală ilegală în cadrul familiei sau în alte relaţii interpersonale, cum ar fi violul conjugal, interzicerea folosirii metodelor de contracepţie, hărţuirea sexuală; orice conduită sexuală nedorită, impusă; obligarea practicării prostituţiei; orice comportament sexual ilegal în raport cu un membru de familie minor, inclusiv prin mîngîieri, sărutări, pozare a copilului şi prin alte atingeri nedorite cu tentă sexuală; alte acţiuni cu efect similar; violenţă psihologică – impunere a voinţei sau a controlului personal; provocare a stărilor de tensiune şi de suferinţă psihică prin ofense, luare în derâdere, înjurare, insultare, poreclire, şantajare, distrugere demonstrativă a obiectelor, ameninţări verbale, afişare ostentativă a armelor sau lovire a animalelor domestice, neglijare; implicare în viaţa personală; acte de gelozie; impunere a izolării prin detenţie, inclusiv în locuinţa familială; izolare de familie, de comunitate, de prieteni; interzicere și/sau creare a impedimentelor în realizarea profesională ori interzicere și/sau creare a impedimentelor în realizarea programului educațional în instituția de învățământ; persecutare prin contactarea sau încercarea de a contacta prin orice mijloc sau prin intermediul altei persoane victima căreia i s-a cauzat o stare de anxietate, frică pentru siguranța proprie ori a rudelor apropiate, fiind constrânsă să-și modifice conduita de viață; deposedare de acte de identitate; privare intenţionată de acces la informaţie; alte acţiuni cu efect similar; [Art.2 noțiunea în redacția LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare violenţă spirituală - subestimare sau diminuare a importanţei satisfacerii necesităţilor moralspirituale prin interzicere, limitare, ridiculizare, penalizare a aspiraţiilor membrilor de familie, prin interzicere, limitare, luare în derîdere sau pedepsire a accesului la valorile culturale, etnice, lingvistice sau religioase; impunere a unui sistem de valori personal inacceptabile; alte acţiuni cu efect similar sau cu repercusiuni similare; violenţă economică - privare de mijloace economice, inclusiv lipsire de mijloace de existenţă primară, cum ar fi hrană, medicamente, obiecte de primă necesitate; abuz de variate situaţii de superioritate pentru a sustrage bunurile persoanei; interzicere a dreptului de a poseda, folosi şi dispune de bunurile comune; control inechitabil asupra bunurilor şi resurselor comune; refuz de a susţine familia; impunere la munci grele şi nocive în detrimentul sănătăţii, inclusiv a unui membru de familie minor; alte acţiuni cu efect similar; violenţă împotriva femeilor – acte de violenţă bazate pe gen, care cauzează sau poate cauza femeilor o suferinţă fizică, sexuală sau psihologică, inclusiv ameninţarea cu asemenea acte, forţarea sau privarea de libertate arbitrară, comise în sfera publică sau privată; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-adult – persoană adultă care a fost supusă actelor de violenţă în familie, în concubinaj; [Art.2 noțiunea introdusă prin LP113 din 09.07.20, MO199-204/07.08.20 art.400; în vigoare victimă-copil – persoană care nu a împlinit vârsta de 18 ani, care a fost supusă sau a fost martoră la acte de violență în familie, în concubinaj;",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not recognize cyber/digital/online violence as a form of violence; references to communication (e.g., telephone contact prohibitions) relate to enforcement of protection measures rather than technology-facilitated violence as an offense or category.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(2) In case of committing acts of domestic violence that meet the constituent elements of a crime, liability arises under the conditions of the law, regardless of the establishment of protective measures",
+      "rationale": "The framework provides that when acts of domestic violence meet the constituent elements of a crime, legal liability arises under the conditions of the law, indicating criminal consequences for at least some acts of violence covered by the law. However, it does not itself specify a concrete penalty (e.g., imprisonment/fine) or set out offence elements as a standalone criminal offence in these excerpts.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) În caz de comitere a actelor de violenţă în familie care întrunesc elementele constitutive de infracţiune, survine răspunderea în condiţiile legii, indiferent de stabilirea măsurilor de protecţie",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "The application for the issuance of the protection order is filed by the victim personally or through a representative.\n(1) The court shall issue, within 24 hours of receiving the application, a protection order by which it may provide assistance to the victim and their children, applying the following measures to the aggressor:\n(3) The protection measures provided in paragraph (1) shall be applied for a period of up to 3 months, may be revoked under the conditions of this law and may be extended in case of a repeated application or of non-compliance with the conditions provided in the protection order.\n(2) The emergency restraining order is issued for a period of up to 10 days and is immediately put into effect, the aggressor and the victim (in the case of children – the legal representative of the victim) being informed about the applied restrictions, the rights and obligations incumbent upon them and about the liability for non-execution of the requirements of the restraining order.\n(6) The refusal or evasion of the aggressor from executing the requirements of the emergency restraining order/protection order shall entail liability according to the law.",
+      "rationale": "The text specifies who may apply for a protection order (victim personally or via representative, and in some cases police/social assistance/prosecutor/local guardianship authority), identifies issuing authorities (court for protection order; police for emergency restraining order), provides durations (up to 3 months for protection measures; up to 10 days for emergency restraining order), and states that refusal/evasion of executing order requirements entails liability under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Cererea pentru eliberarea ordonanţei de protecţie se depune de către victimă personal sau prin reprezentant.\n\n(1) Instanţa de judecată emite, în 24 de ore de la primirea cererii, o ordonanţă de protecţie, prin care poate oferi asistenţă victimei şi copiilor ei, aplicînd agresorului următoarele măsuri:\n\n(3) Măsurile de protecţie prevăzute la alin. (1) se aplică pe un termen de pînă la 3 luni, pot fi revocate în condiţiile prezentei legi şi pot fi prelungite în cazul unei cereri repetate sau al nerespectării condiţiilor prevăzute în ordonanţa de protecţie.\n\n(2) Ordinul de restricţie de urgență se eliberează pentru o perioadă de pînă la 10 zile şi se pune îndată în aplicare, agresorul şi victima (în cazul copiilor – reprezentantul legal al victimei) fiind informaţi despre restricţiile aplicate, drepturile şi obligaţiile care le revin şi despre răspunderea pentru neexecutarea cerinţelor ordinului de restricţie.\n\n(6) Refuzul sau eschivarea agresorului de la executarea cerinţelor ordinului de restricţie de urgență/ordonanţei de protecţie atrage răspundere conform legii.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police bodies/territorial subdivisions of the police as competent authorities and list police responsibilities (e.g., issuing emergency restraining orders, supervision), but do not designate or mandate a specialised unit/desk/division within police services dedicated to VAW victims.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the framework assigns courts roles in issuing protection orders and references examination under civil/criminal procedure codes, it does not establish a specialised court/chamber/judicial officer or a specialised/fast-track judicial procedure specifically for VAW cases beyond general timelines for protection orders.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes “marital rape” as an example within a definition of sexual violence, but it does not contain an operative provision expressly criminalising marital rape, stating that rape/sexual-offence provisions apply regardless of marital status, or removing any spousal exemption from criminal liability for sexual violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(3) Under the Ministry of Health, Labor and Social Protection is established the Interministerial Coordinating Council in the field of prevention and combating of domestic violence, the composition of which includes one representative of the central authorities, according to para.\nThe Interministerial Coordinating Council is responsible for ensuring coordination and collaboration among ministries and other central administrative authorities with competences in the field of prevention and combating of domestic violence.",
+      "rationale": "The text establishes a formal interministerial coordinating council under a ministry, with an explicit mandate to ensure coordination and collaboration among ministries and other central administrative authorities, which constitutes an institutional coordination mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Pe lîngă Ministerul Sănătății, Muncii și Protecției Sociale se creează Consiliul coordonator interministerial în domeniul prevenirii şi combaterii violenţei în familie, în componenţa căruia intră cîte un reprezentant al autorităţilor centrale, conform alin.\n\nConsiliul coordonator interministerial este responsabil de asigurarea coordonării şi colaborării dintre ministere şi alte autorităţi administrative centrale cu competenţe în domeniul prevenirii şi combaterii violenţei în familie.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "d) systematically collect statistical data in the field disaggregated by sex, provide support in conducting research on the phenomenon of domestic violence;\nb) update the database, at territorial level, regarding the phenomenon of domestic violence;",
+      "rationale": "The framework assigns explicit responsibilities to collect sex-disaggregated statistical data and to update a territorial-level database regarding domestic violence, which meets the requirement to mandate collection/management of violence-related data.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) colectează sistematic date statistice pe domeniu dezagregate pe sexe, oferă suport în realizarea cercetărilor privind fenomenul de violenţă în familie;\n\nb) actualizează baza de date, la nivel teritorial, ce vizează fenomenul violenţei în familie;",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference gender equality in the preambular context but do not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., no mainstreaming requirement, focal point, or mainstreaming process).",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "e) strengthen the capacities of human resources in the field of preventing and combating domestic violence, ensure their continuous training and improvement;\na) ensure the information and training of teaching staff in order to qualify acts of domestic violence, apply methods and means of preventing such acts and notify empowered authorities;",
+      "rationale": "The framework includes an explicit duty to strengthen human resource capacities and ensure continuous training, and it also specifies training of teaching staff to identify and prevent domestic violence, which constitutes mandated training/capacity building for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) consolidează capacităţile resurselor umane din domeniul prevenirii şi combaterii violenţei în familie, asigură pregătirea şi perfecţionarea lor continuă;\n\na) asigură informarea şi instruirea cadrelor didactice în vederea calificării actelor de violenţă în familie, aplicării metodelor şi mijloacelor de prevenire a unor astfel de acte şi de sesizare a autorităţilor abilitate;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "d) the preparation of an annual report on domestic violence and violence against women with the participation of all authorities and institutions empowered with the function of preventing and combating domestic violence.\nThe annual report shall be presented to the Government by March 31 and made public.",
+      "rationale": "The framework requires preparation of an annual report on domestic violence and violence against women (with participation of all relevant authorities) and submission to the Government and publication, which is a concrete monitoring/reporting mechanism for implementation/service delivery oversight.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) elaborarea unui raport anual cu privire la violenţa în familie şi violenţa faţă de femei cu participarea tuturor autorităţilor şi instituţiilor abilitate cu funcţia de prevenire şi combatere a violenţei în familie.\n\nRaportul anual urmează a fi prezentat Guvernului pînă la data de 31 martie şi făcut public.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "(1) The activities for implementing this law shall be financed from the state budget, from the budgets of administrative-territorial units, within the limit of financial means established annually, from other sources not prohibited by law.\n(2) The financing of centers/services for assistance and protection of victims of domestic violence and their children and of centers/services for assistance and counseling for family aggressors shall be carried out from allocations provided in the state budget, from donations, grants, from other sources, according to the legislation in force.",
+      "rationale": "The framework provides that implementation activities shall be financed from the state budget and other specified sources, and specifies that financing of victim assistance/protection centers/services shall be carried out from allocations provided in the state budget, which constitutes a binding funding provision tied to implementation and services.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Activităţile de implementare a prezentei legi se finanţează de la bugetul de stat, de la bugetele unităţilor administrativ-teritoriale, în limita mijloacelor financiare stabilite anual, din alte surse neinterzise de lege.\n\n(2) Finanțarea centrelor/serviciilor de asistență și protecție a victimelor violenței în familie şi a copiilor lor şi a centrelor/serviciilor de asistenţă şi consiliere pentru agresorii familiali se efectuează din alocațiile prevăzute la bugetul de stat, din donații, granturi, din alte surse, conform legislației în vigoare.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(8) In order to ensure a systemic approach to the protection and assistance of subjects of domestic violence, the conduct of joint activities for preventing and combating domestic violence, including the activities mentioned in para.\n(7), empowered specialists shall be designated, by order of the head, to the territorial multidisciplinary team.",
+      "rationale": "The framework provides for a designated multidisciplinary team mechanism intended to ensure a systemic approach to protection and assistance in domestic violence cases, indicating an integrated/multisectoral service mechanism rather than only standalone services.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(8) În vederea asigurării unei abordări sistemice a protecţiei şi asistenţei subiecţilor violenţei în familie, desfăşurării activităţilor comune de prevenire şi combatere a violenţei în familie, inclusiv a activităţilor menţionate la alin.\n\n(7), specialiştii abilitaţi se desemnează, prin ordinul conducătorului, în echipa multidisciplinară teritorială.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "b) the establishment and maintenance of the free telephone assistance service that provides counseling to callers, 24 hours a day, 7 days a week, regarding the prevention of domestic violence and regarding the services available to subjects of domestic violence.\nThe service is anonymous and confidential;",
+      "rationale": "The framework mandates establishment and maintenance of a free, 24/7 telephone assistance service providing counseling and information about available services for subjects of domestic violence, which functions as a help-seeking mechanism for victims/survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) instituirea şi menţinerea serviciului de asistenţă telefonică gratuită care oferă consilierea apelanţilor, în regim de 24 din 24 de ore, 7 zile din săptămînă, privind prevenirea violenţei în familie şi privind serviciile disponibile pentru subiecţii violenţei în familie.\n\nServiciul este anonim şi confidenţial;",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "a) for victims of domestic violence and their children: free telephone assistance service; shelters (placement); day counseling centers/services and others;\n(2) Centers/services for assistance and protection for victims of domestic violence and their children provide specialized support services such as: shelter (placement), legal, psychological, social, emergency medical assistance and other types of assistance.",
+      "rationale": "The framework explicitly includes shelters (placement) within the typology of centers/services for victims and specifies that these centers provide shelter (placement) among specialized support services.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) pentru victimele violenţei în familie şi pentru copiii lor: serviciul de asistenţă telefonică gratuită; adăposturi (plasament); centre/servicii de consiliere de zi şi altele;\n\n(2) Centrele/serviciile de asistență și protecție pentru victimele violenţei în familie şi pentru copiii lor oferă servicii specializate de sprijin precum: adăpost (plasament), asistenţă juridică, psihologică, socială, medicală de urgenţă şi alte tipuri de asistenţă.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "(5) The victim has the right to free primary and qualified legal assistance in accordance with the legislation on state-guaranteed legal assistance.",
+      "rationale": "The framework provides an operative entitlement for victims of domestic violence to free primary and qualified legal assistance under state-guaranteed legal assistance legislation.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) Victima are dreptul la asistenţă juridică primară şi calificată gratuită conform legislaţiei cu privire la asistenţa juridică garantată de stat.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(6) The victim is provided medical assistance by health care institutions in accordance with the Law on Compulsory Health Care Insurance.\nThe bodily examination of the victim and the completion of forensic medical reports on the severity of injury to bodily integrity or health are performed free of charge in cases provided by law.",
+      "rationale": "The framework provides that victims are provided medical assistance by health care institutions and provides for free bodily examination and forensic medical reports in relevant cases, explicitly linking health/medical services to victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) Victimei i se acordă asistenţă medicală de instituţiile medico-sanitare în conformitate cu Legea cu privire la asigurarea obligatorie de asistenţă medicală.\n\nExaminarea corporală a victimei şi perfectarea actelor de constatare medico-legală a gravităţii vătămării integrităţii corporale sau a sănătăţii se efectuează gratuit în cazurile prevăzute de lege.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "The victim has the right to assistance for physical, psychological and social recovery through special medical, psychological, legal and social actions.\n(2) Centers/services for assistance and protection for victims of domestic violence and their children provide specialized support services such as: shelter (placement), legal, psychological, social, emergency medical assistance and other types of assistance.",
+      "rationale": "The framework provides for psychological recovery actions for victims and specifies that victim assistance/protection centers provide psychological support services, establishing psychosocial/psychological support within victim services.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Victima are dreptul la asistenţă pentru recuperare fizică, psihologică şi socială prin acţiuni speciale medicale, psihologice, juridice şi sociale.\n\n(2) Centrele/serviciile de asistență și protecție pentru victimele violenţei în familie şi pentru copiii lor oferă servicii specializate de sprijin precum: adăpost (plasament), asistenţă juridică, psihologică, socială, medicală de urgenţă şi alte tipuri de asistenţă.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the definition section references 'spiritual violence' and authorities may partner with religious organizations, the candidate sentences do not establish or provide any religious/spiritual counselling, pastoral care, or faith-based victim-support service.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "The victim has the right to assistance for physical, psychological and social recovery through special medical, psychological, legal and social actions.\nc)1 contribute to the social inclusion of victims of domestic violence by creating opportunities for retraining and/or employment in the labor field, ensure their access to social housing;",
+      "rationale": "The framework provides for victims’ physical, psychological and social recovery and includes longer-term reintegration supports such as retraining/employment opportunities and access to social housing for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "Victima are dreptul la asistenţă pentru recuperare fizică, psihologică şi socială prin acţiuni speciale medicale, psihologice, juridice şi sociale.\n\nc) instituie şi asigură, în limita resurselor financiare alocate şi/sau disponibile, finanţarea centrelor/serviciilor de asistenţă şi protecţie a victimelor violenţei în familie şi a copiilor lor şi centrelor/serviciilor de asistenţă și consiliere pentru agresorii familiali; c)1 contribuie la incluziunea socială a victimelor violenţei în familie prin crearea oportunităţilor de reprofilare şi/sau de angajare în cîmpul muncii, asigură accesul lor la locuinţă socială;",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "h) obligation to participate in a special treatment or counseling program for reducing violence or eliminating it;\na) implementation of correction programs for aggressors in penitentiaries;",
+      "rationale": "The framework provides for perpetrator participation in special treatment/counseling programs as a protection measure and also references implementation of correction programs for aggressors in penitentiaries, establishing perpetrator-focused intervention/behaviour-change programming.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "h) obligarea de a participa la un program special de tratament sau de consiliere pentru reducerea violenţei sau pentru înlăturarea ei;\n\na) realizarea programelor de corecţie pentru agresori în penitenciare;",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "c) the organization, jointly with development partners, of studies and information campaigns for preventing and combating domestic violence;\ng) implement, jointly with other empowered authorities and in collaboration with non-governmental organizations in the field, information programs for preventing domestic violence;",
+      "rationale": "The candidate sentences include operative provisions assigning authorities responsibility to organize information campaigns and implement information programs explicitly for preventing and combating domestic violence, and the law also covers violence against women within its scope/definitions. These are explicit information/awareness activities linked to prevention of violence (domestic violence/VAW).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) organizarea, în comun cu partenerii de dezvoltare, a studiilor şi campaniilor de informare pentru prevenirea şi combaterea violenţei în familie;\n\ng) realizează, în comun cu alte autorităţi abilitate şi în colaborare cu organizaţiile neguvernamentale din domeniu, programe informaţionale în vederea prevenirii violenţei în familie;",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the preambular text recognizes gender equality as a key element in preventing violence against women, the operative provisions shown focus on information campaigns/programs about preventing and combating domestic violence, not on educating/raising awareness specifically about gender equality or women’s rights as a prevention activity. The principles include equality/non-discrimination but do not establish educational/awareness activities on gender equality.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions require access to information about mechanisms/measures for preventing and combating domestic violence and include information campaigns, but they do not specify dissemination/education about laws, regulations, policies, or legal protections as such. Informing victims about their rights is a response/service component and is not framed as public legal-awareness about VAW laws/policies, and the text does not explicitly state that campaigns concern laws or policies.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The operative provisions include educational programs for parents and children to prevent and combat domestic violence and training of teaching staff, but they do not explicitly identify formal education institutions/curricula/quality-of-education improvements as a primary prevention measure for violence against women specifically. The education-related measures are framed around domestic violence generally and do not mention curricula or education-quality improvements as VAW-prevention strategies.",
+      "coverage": null,
+      "confidence": 0.69,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.69
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not include any prevention activities specifically targeting men or boys, nor do they mention changing masculinities or harmful gender norms among men/boys as a prevention approach. References to aggressor programs or counseling are oriented to perpetrators/services rather than primary prevention engagement of men and boys.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "f) cooperate with non-governmental organizations, with natural and legal persons involved in activities for preventing and combating violence.",
+      "rationale": "The law assigns competent public authorities an operative duty to cooperate with non-governmental organizations in activities for preventing and combating violence, which constitutes a substantive collaboration requirement related to domestic violence/VAW response and prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "f) conlucrează cu organizaţii neguvernamentale, cu persoane fizice şi juridice implicate în activităţi de prevenire şi de combatere a violenţei.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "e) develop social partnerships with non-governmental organizations, including foundations, trade unions, employers' organizations, religious organizations, international bodies that contribute to the prevention and combating of domestic violence; (21) The local guardianship authority:",
+      "rationale": "The law provides that local public administration authorities develop social partnerships with various non-governmental actors, explicitly including religious organizations, that contribute to preventing and combating domestic violence, which is an operative provision establishing engagement with religious organizations in DV/VAW prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) dezvoltă parteneriate sociale cu organizaţii neguvernamentale, inclusiv cu fundaţii, sindicate, patronate, cu organizaţii de cult religioase, cu organisme internaţionale care să contribuie la prevenirea şi combaterea violenţei în familie; (21) Autoritatea tutelară locală:",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions assign responsibilities to education-sector authorities (e.g., general directorates of education) and teaching staff, but they do not establish engagement or collaboration with education institutions (such as schools or universities) as partners; the text focuses on government authorities’ competencies rather than formal collaboration with education institutions as institutions.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "f) cooperation of public administration authorities with civil society and international organizations.",
+      "rationale": "The law’s operative principles include cooperation of public administration authorities with international organizations in the context of preventing and combating domestic violence, which substantively establishes/authorizes collaboration with international organizations for DV/VAW-related action.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "f) cooperarea autorităţilor administraţiei publice cu societatea civilă şi cu organizaţiile internaţionale.",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences discuss information access, websites, and information campaigns, but none identify media organizations/actors (journalists, broadcasters, publishers, etc.) as partners or establish a mechanism for collaboration with media on domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references civil society and allows any person to report domestic violence, the coding rules exclude inferring community engagement from reporting provisions, and the cited sentences do not establish community/public participation mechanisms or identify communities/the public as partners in prevention/response.",
+      "coverage": null,
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions mention employers' organizations only as part of a list of NGO partners and do not establish cooperation with businesses/private-sector actors as such, nor do they assign employers/businesses roles in VAW prevention/response; no operative mechanism for private-sector engagement is specified.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "(1) The activities for implementing this law shall be financed from the state budget, from the budgets of administrative-territorial units, within the limit of financial means established annually, from other sources not prohibited by law.",
+      "rationale": "The policy explicitly states that implementation activities are financed not only from the state budget but also from the budgets of administrative-territorial units, which corresponds to local government budgets.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Activităţile de implementare a prezentei legi se finanţează de la bugetul de stat, de la bugetele unităţilor administrativ-teritoriale, în limita mijloacelor financiare stabilite anual, din alte surse neinterzise de lege.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(1) The activities for implementing this law shall be financed from the state budget, from the budgets of administrative-territorial units, within the limit of financial means established annually, from other sources not prohibited by law.",
+      "rationale": "The policy explicitly identifies the state budget as a financing source for implementing the law, which constitutes national government budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Activităţile de implementare a prezentei legi se finanţează de la bugetul de stat, de la bugetele unităţilor administrativ-teritoriale, în limita mijloacelor financiare stabilite anual, din alte surse neinterzise de lege.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "c) the organization, jointly with development partners, of studies and information campaigns for preventing and combating domestic violence;\nc) by international organizations and non-commercial organizations, with notification of the Ministry of Health, Labor and Social Protection;",
+      "rationale": "The policy explicitly references working jointly with development partners for studies and information campaigns and also allows centers/services to be created by international organizations, indicating explicit international involvement/support relevant to domestic violence prevention and response.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) organizarea, în comun cu partenerii de dezvoltare, a studiilor şi campaniilor de informare pentru prevenirea şi combaterea violenţei în familie;\n\nc) de organizaţiile internaţionale şi de organizaţiile necomerciale, cu informarea Ministerului Sănătății, Muncii și Protecției Sociale;",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(1) The activities for implementing this law shall be financed from the state budget, from the budgets of administrative-territorial units, within the limit of financial means established annually, from other sources not prohibited by law.",
+      "rationale": "Beyond state and local budgets, the policy explicitly allows financing from “other sources not prohibited by law,” which constitutes other legally permissible funding sources.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Activităţile de implementare a prezentei legi se finanţează de la bugetul de stat, de la bugetele unităţilor administrativ-teritoriale, în limita mijloacelor financiare stabilite anual, din alte surse neinterzise de lege.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention the state budget and the budgets of administrative-territorial units (local budgets), but do not explicitly identify a provincial/regional government budget as a distinct funding source.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 29,
+    "resolved": 29,
+    "rate": 1.0
+  }
+}

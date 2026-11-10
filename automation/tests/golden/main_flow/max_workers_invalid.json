@@ -1,7 +1,11 @@
 {
   "calls": [],
   "exit_code": 1,
-  "runs": {},
+  "output": {
+    "failures": null,
+    "files": [],
+    "metadata": null
+  },
   "stderr": "Error: --max-workers must be >= 1\n",
   "stdout": ""
 }

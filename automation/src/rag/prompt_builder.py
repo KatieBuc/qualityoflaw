@@ -11,7 +11,7 @@ import re
 from dataclasses import dataclass, field
 
 from automation.src.rag.retriever import RetrievedChunk
-from automation.src.rag.sentence_align import align_chunk_sentences, align_chunk_sentences_detailed
+from automation.src.rag.evidence_align import align_chunk_evidence
 from automation.src.rag.sentence_split import split_sentences
 
 logger = logging.getLogger(__name__)
@@ -71,6 +71,9 @@ def parse_criteria_lines(criteria_file_path: str) -> list[Criterion]:
                         question=parts[2].strip(),
                     )
                 )
+            elif criteria and not criteria[-1].question and not criteria[-1].rubric:
+                # `id | indicator |` with the question on the next line: that line is the question, not a rule.
+                criteria[-1].question = line
             elif criteria:
                 criteria[-1].rubric.append(line)
             else:
@@ -112,25 +115,98 @@ def format_criteria_list(criteria_rows: list[Criterion]) -> str:
     return "\n".join(lines)
 
 
+#: Characters per token used to turn a token budget into a character budget. Deliberately low (English averages ~4;
+#: Cyrillic, Arabic and the many-diacritic Latin languages need more tokens per character), so the estimate errs on the
+#: side of a shorter prompt. A prompt that is still too long is cut again from the model's own error (see run_eval).
+CHARS_PER_TOKEN = 3.0
+
+
+@dataclass
+class TrimReport:
+    """What `format_criteria_with_candidates` had to leave out to stay inside its budget."""
+
+    dropped_candidates: int = 0       # retrieved chunks that did not fit and are not in the prompt at all
+    truncated_candidates: int = 0     # chunks of which only the leading sentences are in the prompt
+    dropped_sentences: int = 0        # sentences left out of those truncated chunks
+    indicators: list[str] = field(default_factory=list)
+
+    @property
+    def trimmed(self) -> bool:
+        return bool(self.dropped_candidates or self.truncated_candidates)
+
+    def as_dict(self) -> dict:
+        return {
+            "dropped_candidates": self.dropped_candidates,
+            "truncated_candidates": self.truncated_candidates,
+            "dropped_sentences": self.dropped_sentences,
+            "indicators": self.indicators,
+        }
+
+
 def format_criteria_with_candidates(
     criteria_rows: list[Criterion],
     candidates_by_id: dict[str, list[RetrievedChunk]],
+    max_chars: int | None = None,
+    trim: TrimReport | None = None,
 ) -> str:
+    """The criteria with their rules and the retrieved candidate sentences.
+
+    `max_chars` bounds the whole block. The headings and the rules always go in; what is left is shared equally by the
+    indicators, and each indicator fills its share with its candidates in rank order -- a candidate that fits goes in
+    whole, one that does not is skipped (a smaller, lower-ranked one may still fit), and if even the best candidate is
+    larger than the share, its leading sentences go in. Everything is tagged exactly as without a budget, so what the
+    judge cites still resolves against the full lookup. `trim` records what was left out.
+    """
+    fixed = {
+        criterion.id: [criterion.heading, *format_rubric_block(criterion)] for criterion in criteria_rows
+    }
+    share = None
+    if max_chars is not None:
+        remaining = max_chars - sum(len(line) + 1 for lines in fixed.values() for line in lines)
+        share = max(remaining // max(len(criteria_rows), 1), 0)
+
     blocks: list[str] = []
     for criterion in criteria_rows:
-        blocks.append(criterion.heading)
         # Rules first, then evidence: the judge should know how the call is
         # decided before reading the sentences it decides on.
-        blocks.extend(format_rubric_block(criterion))
+        blocks.extend(fixed[criterion.id])
         candidates = candidates_by_id.get(criterion.id, [])
         if not candidates:
             blocks.append("  Candidate passages: (none retrieved)")
         else:
+            used = 0
+            trimmed_here = False
             for candidate in candidates:
-                for sentence_idx, sentence in enumerate(split_sentences(candidate.text)):
-                    blocks.append(
-                        f"  [{_sentence_tag(criterion.id, candidate, sentence_idx)}] {sentence}"
-                    )
+                lines = [
+                    f"  [{_sentence_tag(criterion.id, candidate, sentence_idx)}] {sentence}"
+                    for sentence_idx, sentence in enumerate(split_sentences(candidate.text))
+                ]
+                cost = sum(len(line) + 1 for line in lines)
+                if share is None or used + cost <= share:
+                    blocks.extend(lines)
+                    used += cost
+                    continue
+                trimmed_here = True
+                if used == 0:
+                    # even the best candidate is bigger than the share: keep its leading sentences
+                    kept: list[str] = []
+                    size = 0
+                    for line in lines:
+                        if size + len(line) + 1 > share:
+                            break
+                        kept.append(line)
+                        size += len(line) + 1
+                    if kept:
+                        blocks.extend(kept)
+                        used += size
+                        if trim is not None:
+                            trim.truncated_candidates += 1
+                            trim.dropped_sentences += len(lines) - len(kept)
+                        continue
+                if trim is not None:
+                    trim.dropped_candidates += 1
+            if trimmed_here and trim is not None:
+                trim.indicators.append(criterion.id)
         blocks.append("")
     return "\n".join(blocks)
 
@@ -152,7 +228,48 @@ def build_candidate_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) ->
     }
 
 
-def build_source_text_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) -> dict[str, str]:
+_TAG_RE = re.compile(r"^(?P<cid>\d+(?:\.\d+)*)-(?P<chunk>\d+)\.(?P<sentence>\d+)$")
+
+
+def cited_chunk_keys(citations_per_item: list[list[str] | None]) -> set[tuple[str, str]]:
+    """``{(criterion id, chunk id)}`` that the judge cited, from its evidence tags (``"1.3-4.2"`` -> ``("1.3", "4")``).
+
+    Brackets and spacing around a tag are tolerated, the way `evidence_check` tolerates them. A tag that is not in the
+    ``<criterion>-<chunk>.<sentence>`` form cites nothing a lookup could answer, so it is ignored here.
+    """
+    keys: set[tuple[str, str]] = set()
+    for citations in citations_per_item:
+        for citation in citations or []:
+            match = _TAG_RE.match((citation or "").strip().strip("[]").strip())
+            if match:
+                keys.add((match.group("cid"), match.group("chunk")))
+    return keys
+
+
+def cited_candidates(
+    batch_evals: dict[str, dict], candidates_by_id: dict[str, list[RetrievedChunk]]
+) -> dict[str, list[RetrievedChunk]]:
+    """The candidates, per criterion, that an answer of "Yes" actually cites -- the only ones whose original-language
+    text is ever shown.
+
+    The original-language side is aligned to the translation sentence by sentence, and that is by far the most
+    expensive part of an evaluation: a whole-section chunk of a few hundred sentences means thousands of embeddings.
+    Every indicator retrieves up to `top_k` chunks but cites a handful, so aligning only what is cited does the same
+    job for a fraction of the work.
+    """
+    cited = cited_chunk_keys(
+        [item.get("evidence") for item in batch_evals.values() if item.get("included") == "Yes"]
+    )
+    return {
+        cid: [candidate for candidate in candidates if (cid, str(candidate.chunk_id)) in cited]
+        for cid, candidates in candidates_by_id.items()
+        if any((cid, str(candidate.chunk_id)) in cited for candidate in candidates)
+    }
+
+
+def build_source_text_lookup(
+    candidates_by_id: dict[str, list[RetrievedChunk]], method: str = "vecalign"
+) -> dict[str, str]:
     """Build tag -> original-language text, for showing alongside the
     verified translated evidence sentence a tag resolves to.
 
@@ -166,11 +283,13 @@ def build_source_text_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) 
         _sentence_tag(cid, candidate, flat_idx): source_text
         for cid, candidates in candidates_by_id.items()
         for candidate in candidates
-        for flat_idx, source_text in align_chunk_sentences(candidate).items()
+        for flat_idx, (source_text, _granularity) in align_chunk_evidence(candidate, method).items()
     }
 
 
-def build_source_alignment_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) -> dict[str, str]:
+def build_source_alignment_lookup(
+    candidates_by_id: dict[str, list[RetrievedChunk]], method: str = "vecalign"
+) -> dict[str, str]:
     """Tag -> the granularity its `build_source_text_lookup` entry was
     resolved at (one of `sentence_align.GRANULARITY_*`), so the caller can
     tell an exact per-sentence pairing from a best-effort whole-chunk
@@ -180,5 +299,5 @@ def build_source_alignment_lookup(candidates_by_id: dict[str, list[RetrievedChun
         _sentence_tag(cid, candidate, flat_idx): granularity
         for cid, candidates in candidates_by_id.items()
         for candidate in candidates
-        for flat_idx, (_text, granularity) in align_chunk_sentences_detailed(candidate).items()
+        for flat_idx, (_text, granularity) in align_chunk_evidence(candidate, method).items()
     }

@@ -1,0 +1,953 @@
+{
+  "policy_file": "135. Poland - DomViol - Polish (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:00:13.859467+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "2) domestic violence – this shall mean a single or repeated intentional act or omission violating the rights or personal interests of the persons referred to in point 1, in particular exposing such persons to the danger of loss of life, health, violating their dignity, bodily integrity, freedom, including sexual freedom, causing damage to their physical or mental health, as well as causing suffering and moral harm to persons affected by violence.\n1. A person affected by domestic violence shall be provided with free assistance, in particular in the form of:\n1. If a family member jointly occupying a dwelling, by his or her behavior consisting in the use of domestic violence, makes living together particularly burdensome, the person affected by violence may demand that the court order him or her to vacate the dwelling.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence, provide for free assistance to persons affected by domestic violence, and create a civil remedy allowing a court to order a perpetrator to vacate a dwelling due to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) przemocy w rodzinie – należy przez to rozumieć jednorazowe albo powtarzające się umyślne działanie lub zaniechanie naruszające prawa lub dobra osobiste osób wymienionych w pkt 1, w szczególności narażające te osoby na niebezpieczeństwo utraty życia, zdrowia, naruszające ich godność, nietykalność cielesną, wolność, w tym seksualną, powodujące szkody na ich zdrowiu fizycznym lub psychicznym, a także wywołujące cierpienia i krzywdy moralne u osób dotkniętych przemocą.\n\n1. Osobie dotkniętej przemocą w rodzinie udziela się bezpłatnej pomocy, w szczególności w formie:",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not define, prohibit, criminalise, or otherwise explicitly cover sexual violence/assault/rape/harassment as such. The only sexual-related wording appears as part of the domestic-violence definition referencing \"freedom, including sexual freedom,\" which does not explicitly identify sexual violence as a covered form under this indicator.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not explicitly mention or define physical violence/assault/battery/bodily harm as a standalone form of violence. While the domestic-violence definition references endangerment to life/health and bodily integrity, it does not explicitly label physical violence as a covered category for this indicator.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not explicitly mention psychological/emotional violence or abuse as a form of violence. Although services include psychological counselling and the domestic-violence definition references mental health and moral harm, the framework does not explicitly identify psychological violence as a covered form for this indicator.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention economic violence/abuse/exploitation/neglect as a form of violence, nor do they define deprivation of economic resources as violence against women. References to housing assistance are service measures for domestic-violence victims but do not constitute an operative recognition of economic violence as a form of violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative provisions addressing such practices.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they include any operative provisions treating such killings as a distinct offence or aggravating factor.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking/trafficking in persons or trafficking victims, and do not include any trafficking-related definitions, prohibitions, or protection measures.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention sexual exploitation or sexual slavery, nor do they contain trafficking/exploitation provisions explicitly linked to sexual purposes.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention cyber violence, online harassment, digital abuse, or any other technology-facilitated form of violence; they concern domestic-violence programming, services, and institutional arrangements.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences define domestic violence and reference the Penal Code and reporting obligations for suspected ex officio crimes, but they do not define any specific violence-against-women offence as a criminal offence with an attached sanction, nor do they generally state that domestic violence/VAW is punishable by law. The only explicit remedy described is a civil court order to vacate a dwelling, which is not a criminal penalty.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes a civil mechanism allowing a victim to demand that a court order the perpetrator to vacate a shared dwelling and describes the procedure and timing for issuing the ruling. However, the coding rules require (for substantive coverage) specification of duration and a defined consequence for breach; the cited provisions do not state an order duration (beyond enforceability and possibility of change/revocation) and do not define any consequence for breach. Other sentences mention protection against harm and prohibiting contact/approach, but without an application process, issuing authority, duration, and breach consequence as required.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention notifying the Police, Police participation in the “Blue Cards” procedure, and Police involvement in interdisciplinary teams, but they do not establish or mandate any specialised unit/desk/division within police services dedicated to VAW victims, nor do they even generally reference provision of specialised police services to women victims.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to a court hearing an application to order a perpetrator to vacate a dwelling under general civil procedure (non-contentious proceedings) and set a timeline for the hearing/ruling, but they do not designate a specialised court/chamber/judicial officer for VAW cases or establish a specialised/fast-track judicial procedure specifically for VAW beyond ordinary civil procedure references.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences define domestic violence broadly (including sexual freedom) and reference the Penal Code definition of family member, but they do not expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption. Under the coding rules, domestic-violence references and general mentions of sexual freedom are insufficient without explicit applicability to spouses/intimate partners for sexual offences.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "2. The interdisciplinary team is established by the mayor, town mayor or city president.\n3. The interdisciplinary team consists of representatives of:\n2. The task of the interdisciplinary team is to integrate and coordinate the actions of the entities referred to in Article 9a paragraphs 3 and 5, and specialists in the field of preventing domestic violence, in particular by:",
+      "rationale": "The framework establishes formal multi-agency coordination mechanisms through municipal interdisciplinary teams, specifying their establishment and multi-sector composition, and explicitly assigning them an integration/coordination function across relevant entities.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Zespół interdyscyplinarny powołuje wójt, burmistrz albo prezydent miasta.\n\n3. W skład zespołu interdyscyplinarnego wchodzą przedstawiciele:\n\n2. Zadaniem zespołu interdyscyplinarnego jest integrowanie i koordynowanie działań podmiotów, o których mowa w art. 9a ust. 3 i 5, oraz specjalistów w zakresie przeciwdziałania przemocy w rodzinie, w szczególności przez:",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "1.2) Members of the interdisciplinary team and working groups, to the extent necessary to perform the\ntasks referred to in Art. 9b, shall process data of:\n6.3) The administrator of data processed on the basis of the provisions of this Article is the social welfare centre providing organisational and technical support to the interdisciplinary team.",
+      "rationale": "The framework explicitly requires processing of data by interdisciplinary teams/working groups for their statutory tasks and designates a data administrator (social welfare centre), which constitutes an assigned responsibility for managing/handling case-related information.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "1.2) Członkowie zespołu interdyscyplinarnego oraz grup roboczych w zakresie niezbędnym do realizacji\n\nzadań, o których mowa w art. 9b, przetwarzają dane:\n\n6.3) Administratorem danych przetwarzanych na podstawie przepisów niniejszego artykułu jest ośrodek pomocy społecznej zapewniający obsługę organizacyjno-techniczną zespołu interdyscyplinarnego.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention gender mainstreaming or establish any gender-mainstreaming mechanism, focal point, or requirement for implementing domestic violence/women’s protection policies.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "5) developing and issuing at least once every two years guidelines for conducting training in the field of preventing domestic violence;\n4) organising training for persons carrying out tasks related to preventing domestic violence.",
+      "rationale": "The framework provides for training-related measures for implementing personnel by requiring the competent minister to develop and issue guidelines for conducting training and by assigning the voivodeship self-government the task of organizing training for persons carrying out domestic-violence-prevention tasks.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "5) opracowanie oraz wydawanie co najmniej raz na dwa lata wytycznych do prowadzenia szkoleń w zakresie przeciwdziałania przemocy w rodzinie;\n\n4) organizowanie szkoleń dla osób realizujących zadania związane z przeciwdziałaniem przemocy w rodzinie.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "1. A Monitoring Team for Counteracting Domestic Violence is hereby established, hereinafter referred to as the \"Team\", as an advisory and consultative body of the minister competent for social security matters.\n2) monitoring activities in the field of counteracting domestic violence;\nThe Council of Ministers shall submit annually to the Sejm and Senate of the Republic of Poland, by September 30, a report on the implementation of the National Program for Counteracting Domestic Violence.",
+      "rationale": "The framework establishes a specific monitoring mechanism (a Monitoring Team with monitoring tasks) and also imposes an annual reporting requirement to the legislature on implementation of the National Program, together constituting monitoring/evaluation of implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Tworzy się Zespół Monitorujący do spraw Przeciwdziałania Przemocy w Rodzinie, zwany dalej „Zespołem”, jako organ opiniodawczo-doradczy ministra właściwego do spraw zabezpieczenia społecznego.\n\n2) monitorowanie działań w zakresie przeciwdziałania przemocy w rodzinie;\n\nRada Ministrów składa corocznie Sejmowi i Senatowi Rzeczypospolitej Polskiej, w terminie do dnia 30 września, sprawozdanie z realizacji Krajowego Programu Przeciwdziałania Przemocy w Rodzinie.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "5. Funds for the implementation and service of the tasks referred to in paragraph 4 are provided by the state budget.",
+      "rationale": "The framework contains a binding provision specifying that funds for implementation and servicing of certain domestic-violence-prevention tasks are provided by the state budget, which is an explicit budget/funding allocation requirement from a specified source.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Środki na realizację i obsługę zadań, o których mowa w ust. 4, zapewnia budżet państwa.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "2. The task of the interdisciplinary team is to integrate and coordinate the actions of the entities referred to in Article 9a paragraphs 3 and 5, and specialists in the field of preventing domestic violence, in particular by:",
+      "rationale": "The framework establishes an interdisciplinary team whose task is to “integrate and coordinate” actions of multiple entities involved in preventing domestic violence, which constitutes a designated multidisciplinary coordination mechanism for victim support rather than isolated services.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Zadaniem zespołu interdyscyplinarnego jest integrowanie i koordynowanie działań podmiotów, o których mowa w art. 9a ust. 3 i 5, oraz specjalistów w zakresie przeciwdziałania przemocy w rodzinie, w szczególności przez:",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "4. Initiation of the \"Blue Cards\" procedure takes place by completing the \"Blue Card\" form in the event of suspicion, in the course of official or professional activities, of the use of violence against family members or as a result of a notification made by a family member or by a person who is a witness to domestic violence.",
+      "rationale": "The framework provides an operative reporting mechanism via the “Blue Cards” procedure, which can be initiated through a notification by a family member or witness, creating a formal channel through which violence can be reported and trigger intervention.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Wszczęcie procedury „Niebieskie Karty” następuje przez wypełnienie formularza „Niebieska Karta” w przypadku powzięcia, w toku prowadzonych czynności służbowych lub zawodowych, podejrzenia stosowania przemocy wobec członków rodziny lub w wyniku zgłoszenia dokonanego przez członka rodziny lub przez osobę będącą świadkiem przemocy w rodzinie.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "4) providing a person affected by domestic violence with safe shelter in a specialized support center for victims of domestic violence;",
+      "rationale": "The framework explicitly provides for safe shelter for persons affected by domestic violence in a specialized support center, which is a shelter/accommodation-based protection measure.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "4) zapewnienia osobie dotkniętej przemocą w rodzinie bezpiecznego schronienia w specjalistycznym ośrodku wsparcia dla ofiar przemocy w rodzinie;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "1) medical, psychological, legal, social, vocational and family counseling;",
+      "rationale": "The framework provides that a person affected by domestic violence shall receive free assistance including legal counseling, which is an operative provision for legal assistance to victims.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) poradnictwa medycznego, psychologicznego, prawnego, socjalnego, zawodowego i rodzinnego;",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "5) medical examination in order to determine the causes and type of bodily injuries related to the use of domestic violence and issuing a medical certificate in this regard;\n2. The minister competent for health matters shall specify, by means of a regulation, the model medical certificate on the causes and type of bodily injuries related to the use of domestic violence, taking into account the usefulness of the certificate for the legal protection of a person affected by domestic violence.",
+      "rationale": "The framework provides for medical examination related to domestic violence injuries and mandates a health-minister regulation on the medical certificate model for such injuries, establishing a violence-linked medical/forensic health response.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "5) badania lekarskiego w celu ustalenia przyczyn i rodzaju uszkodzeń ciała związanych z użyciem przemocy w rodzinie oraz wydania zaświadczenia lekarskiego w tym przedmiocie;\n\n2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wzór zaświadczenia lekarskiego o przyczynach i rodzaju uszkodzeń ciała związanych z użyciem przemocy w rodzinie, uwzględniając przydatność zaświadczenia dla ochrony prawnej osoby dotkniętej przemocą w rodzinie.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "1) medical, psychological, legal, social, vocational and family counseling;\n2) crisis intervention and support;",
+      "rationale": "The framework provides free assistance including psychological counseling and crisis intervention/support for persons affected by domestic violence, which are psychosocial/psychological support services for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) poradnictwa medycznego, psychologicznego, prawnego, socjalnego, zawodowego i rodzinnego;\n\n2) interwencji kryzysowej i wsparcia;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the framework mentions cooperation with churches and religious associations in providing assistance, it does not expressly provide religious/spiritual counselling, pastoral care, or faith-based guidance services for victims as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "1) medical, psychological, legal, social, vocational and family counseling;\n6) providing a person affected by domestic violence who has no legal title to the premises jointly occupied with the perpetrator of violence with assistance in obtaining housing.",
+      "rationale": "The framework provides victim assistance that includes vocational counseling and assistance in obtaining housing for persons affected by domestic violence, which are longer-term recovery/reintegration supports beyond immediate protection.",
+      "coverage": "Substantive",
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) poradnictwa medycznego, psychologicznego, prawnego, socjalnego, zawodowego i rodzinnego;\n\n6) zapewnienia osobie dotkniętej przemocą w rodzinie, która nie ma tytułu prawnego do zajmowanego wspólnie ze sprawcą przemocy lokalu, pomocy w uzyskaniu mieszkania.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "preventing their contact with injured persons and applying corrective and educational interventions.\n2) development and implementation of correctional and educational intervention programmes for persons using domestic violence.",
+      "rationale": "The framework provides for corrective and educational interventions toward persons committing/using domestic violence and assigns responsibility for developing and implementing such intervention programmes, constituting perpetrator-focused behaviour-change programming.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "celu zapobieganie ich kontaktowaniu się z osobami pokrzywdzonymi oraz oddziaływania korekcyjno-edukacyjne.\n\n2) opracowywanie i realizacja programów oddziaływań korekcyjno-edukacyjnych dla osób stosujących przemoc w rodzinie.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions require awareness-raising and information dissemination about domestic violence (e.g., raising social awareness about causes/effects; disseminating information about assistance options), but they do not explicitly direct these activities to violence against women or gender-based violence specifically. Under the coding rules, domestic-violence awareness measures without an explicit link to violence against women do not satisfy this indicator.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on domestic-violence prevention and public awareness about domestic violence, not on education/awareness specifically about gender equality, women’s rights, or non-discrimination against women. There is also no explicit linkage presented between gender-equality education and preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes dissemination of information about assistance possibilities and raising awareness about domestic violence, it does not specify that the information/education concerns laws, regulations, policies, or legal protections related to violence against women (or even domestic-violence laws/policies specifically). The coding rules require the framework to specify that the information concerns relevant laws/policies/legal protections.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions mention educational activities (e.g., promoting educational methods without violence; educational activities to strengthen parenting competences; programmes for children in families at risk), but they do not explicitly identify formal education institutions, curricula, or education-system improvements as a prevention measure for violence against women. The references are framed around domestic violence generally and parenting/child-focused educational methods, not VAW-specific education measures in educational institutions/curricula.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include correctional/educational interventions toward persons using domestic violence, but they do not explicitly engage men and boys as a target group for primary prevention of violence against women (e.g., positive masculinity or gender-norm change programmes). Per the coding rules, perpetrator interventions after violence has occurred do not qualify as primary-prevention engagement of men and boys.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "1. Government administration and local government bodies cooperate with non-governmental organisations and churches and religious associations in the field of providing assistance to persons affected by violence, influencing persons using violence, and raising public awareness about the causes and effects of domestic violence.",
+      "rationale": "The policy contains an operative provision requiring government administration and local government bodies to cooperate with non-governmental organisations in providing assistance to persons affected by violence, influencing persons using violence, and raising public awareness about domestic violence, which constitutes formal collaboration with NGOs on prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Organy administracji rządowej i samorządowej współdziałają z organizacjami pozarządowymi oraz kościołami i związkami wyznaniowymi w zakresie udzielania pomocy osobom dotkniętym przemocą, oddziaływania na osoby stosujące przemoc oraz podnoszenia świadomości społecznej na temat przyczyn i skutków przemocy w rodzinie.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "1. Government administration and local government bodies cooperate with non-governmental organisations and churches and religious associations in the field of providing assistance to persons affected by violence, influencing persons using violence, and raising public awareness about the causes and effects of domestic violence.",
+      "rationale": "An operative provision states that government administration and local government bodies cooperate with churches and religious associations in providing assistance, influencing perpetrators, and raising public awareness about domestic violence, establishing collaboration with religious organisations in prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Organy administracji rządowej i samorządowej współdziałają z organizacjami pozarządowymi oraz kościołami i związkami wyznaniowymi w zakresie udzielania pomocy osobom dotkniętym przemocą, oddziaływania na osoby stosujące przemoc oraz podnoszenia świadomości społecznej na temat przyczyn i skutków przemocy w rodzinie.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference \"education\" as a sector represented in interdisciplinary teams and in the Blue Cards procedure, but they do not explicitly establish or require engagement/collaboration with education institutions (e.g., schools/universities) as institutions, nor assign such institutions a partnership role or formal coordination mechanism specific to VAW/domestic violence.",
+      "coverage": null,
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international organisations or establish any cooperation mechanism with international bodies regarding prevention of or response to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text refers to raising social awareness and disseminating information, it does not identify media organisations/actors as partners or establish any mechanism or responsibility for media engagement related to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general awareness-raising and a provision that witnesses \"should notify\" authorities/other entities, but the coding rules exclude inferring community engagement merely from reporting expectations; there is no explicit mechanism establishing community/public participation or collaboration in prevention/response.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private companies, or other private-sector actors, nor establish any partnership or role for the private sector in preventing or responding to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe municipalities’ and districts’ own tasks and note that certain district-administered government-administration tasks are funded by the state budget, but they do not explicitly identify local government budgets (municipal/district/voivodeship budgets) as a funding source.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "5. Funds for the implementation and service of the tasks referred to in paragraph 4 are provided by the state budget.\n3. Members of the Team shall benefit from leave from work in order to participate in meetings of the Team and shall be entitled to reimbursement of travel costs from the state budget from the part administered by the minister competent for social security matters.",
+      "rationale": "The text explicitly states that funds for specified tasks are provided by the state budget and also provides for reimbursement of travel costs from the state budget, which constitutes an explicit national government budget funding source.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Środki na realizację i obsługę zadań, o których mowa w ust. 4, zapewnia budżet państwa.\n\n3. Członkowie Zespołu korzystają ze zwolnień w pracy w celu uczestniczenia w posiedzeniach Zespołu i przysługuje im zwrot kosztów podróży ze środków budżetu państwa z części, której dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss domestic institutions, state budget funding, and cooperation with NGOs/churches, but contain no explicit mention of international assistance, donors, UN agencies, foreign governments, or other international support mechanisms related to VAW measures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences identify the state budget as a funding source and mention financing/supporting programs by the minister, but do not specify any other distinct funding/budget sources categorized as “other legal sources.”",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text assigns tasks to the voivodeship self-government, it does not explicitly state that these are funded through a provincial/voivodeship budget (or any provincial budget source).",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 17,
+    "resolved": 17,
+    "rate": 1.0
+  }
+}

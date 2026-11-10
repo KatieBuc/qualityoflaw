@@ -1,0 +1,991 @@
+{
+  "policy_file": "6. Argentina - DomViol - Spanish (b) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T14:05:38.781983+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "a) Domestic violence against women: that exercised against women by a member of the family group, regardless of the physical space where it occurs, that harms dignity, well-being, physical, psychological, sexual, economic or patrimonial integrity, freedom, including reproductive freedom and the right to full development of women.\na) of this article, in cases of the modality of domestic violence against women, the judge may order the following urgent preventive measures: b.1.",
+      "rationale": "The text explicitly defines “Domestic violence against women” as a modality of violence and provides operative judicial urgent preventive measures specifically applicable in cases of domestic violence, indicating substantive legal coverage rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Violencia doméstica contra las mujeres: aquella ejercida contra las mujeres por un integrante del grupo familiar, independientemente del espacio físico donde ésta ocurra, que dañe la dignidad, el bienestar, la integridad física, psicológica, sexual, económica o patrimonial, la libertad, comprendiendo la libertad reproductiva y el derecho al pleno desarrollo de las mujeres.\n\na) del presente artículo, en los casos de la modalidad de violencia doméstica contra las mujeres, el/la juez/a podrá ordenar las siguientes medidas preventivas urgentes: b.1.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "3.- Sexual: Any action that implies the violation in all its forms, with or without genital access, of the woman's right to voluntarily decide about her sexual or reproductive life through threats, coercion, use of force or intimidation, including rape within marriage or other bonding or kinship relationships, whether or not there is cohabitation, as well as forced prostitution, exploitation, slavery, harassment, sexual abuse and trafficking of women.",
+      "rationale": "The framework includes an operative classification of violence against women that explicitly defines “Sexual” violence and lists acts such as rape within marriage/relationships, sexual abuse, harassment, and trafficking, meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "3.- Sexual: Cualquier acción que implique la vulneración en todas sus formas, con o sin acceso genital, del derecho de la mujer de decidir voluntariamente acerca de su vida sexual o reproductiva a través de amenazas, coerción, uso de la fuerza o intimidación, incluyendo la violación dentro del matrimonio o de otras relaciones vinculares o de parentesco, exista o no convivencia, así como la prostitución forzada, explotación, esclavitud, acoso, abuso sexual y trata de mujeres.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "1.- Physical: That which is used against the body of the woman producing pain, harm or risk of producing it and any other form of mistreatment or aggression that affects her physical integrity.",
+      "rationale": "The policy contains an operative definition/classification that explicitly defines physical violence as a type of violence against women, which is sufficient for substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1.- Física: La que se emplea contra el cuerpo de la mujer produciendo dolor, daño o riesgo de producirlo y cualquier otra forma de maltrato agresión que afecte su integridad física.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "2.- Psychological: That which causes emotional harm and diminished self-esteem or damages and disturbs full personal development or that seeks to degrade or control their actions, behaviors, beliefs and decisions, through threat, harassment, hostility, restriction, humiliation, dishonor, discredit, manipulation, isolation.\nIt also includes blame, constant surveillance, demand for obedience and submission, verbal coercion, persecution, insult, indifference, abandonment, excessive jealousy, blackmail, ridicule, exploitation and limitation of the right to movement or any other means that causes harm to their psychological health and self-determination.",
+      "rationale": "The framework explicitly defines psychological violence as a type of violence against women and details forms of psychological abuse (e.g., threats, harassment, humiliation, coercion), satisfying substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "2.- Psicológica: La que causa daño emocional y disminución de la autoestima o perjudica y perturba el pleno desarrollo personal o que busca degradar o controlar sus acciones, comportamientos, creencias y decisiones, mediante amenaza, acoso, hostigamiento, restricción, humillación, deshonra, descrédito, manipulación aislamiento.\n\nIncluye también la culpabilización, vigilancia constante, exigencia de obediencia sumisión, coerción verbal, persecución, insulto, indiferencia, abandono, celos excesivos, chantaje, ridiculización, explotación y limitación del derecho de circulación o cualquier otro medio que cause perjuicio a su salud psicológica y a la autodeterminación.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "4.- Economic and patrimonial: That which is directed to cause impairment of the economic or patrimonial resources of the woman, through:\nc) The limitation of economic resources intended to satisfy their needs or deprivation of the indispensable means to live a dignified life;",
+      "rationale": "The policy explicitly defines “Economic and patrimonial” violence and includes deprivation/limitation of economic resources and control of income as forms of violence against women, which constitutes substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "4.- Económica y patrimonial: La que se dirige a ocasionar un menoscabo en los recursos económicos o patrimoniales de la mujer, a través de:\n\nc) La limitación de los recursos económicos destinados a satisfacer sus necesidades o privación de los medios indispensables para vivir una vida digna;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative provisions targeting such practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or an equivalent term, nor do they provide any femicide-specific criminalisation, aggravation, registry, or prevention/monitoring mechanism.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "3.- Sexual: Any action that implies the violation in all its forms, with or without genital access, of the woman's right to voluntarily decide about her sexual or reproductive life through threats, coercion, use of force or intimidation, including rape within marriage or other bonding or kinship relationships, whether or not there is cohabitation, as well as forced prostitution, exploitation, slavery, harassment, sexual abuse and trafficking of women.",
+      "rationale": "The framework’s operative definition of sexual violence explicitly includes “trafficking of women,” which constitutes substantive inclusion of trafficking within the legal framework’s classification of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "3.- Sexual: Cualquier acción que implique la vulneración en todas sus formas, con o sin acceso genital, del derecho de la mujer de decidir voluntariamente acerca de su vida sexual o reproductiva a través de amenazas, coerción, uso de la fuerza o intimidación, incluyendo la violación dentro del matrimonio o de otras relaciones vinculares o de parentesco, exista o no convivencia, así como la prostitución forzada, explotación, esclavitud, acoso, abuso sexual y trata de mujeres.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "3.- Sexual: Any action that implies the violation in all its forms, with or without genital access, of the woman's right to voluntarily decide about her sexual or reproductive life through threats, coercion, use of force or intimidation, including rape within marriage or other bonding or kinship relationships, whether or not there is cohabitation, as well as forced prostitution, exploitation, slavery, harassment, sexual abuse and trafficking of women.",
+      "rationale": "The operative definition of sexual violence explicitly includes forced prostitution, exploitation, and slavery, which establishes a clear sexual-exploitation/sexual-slavery nexus within the framework’s covered forms of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "3.- Sexual: Cualquier acción que implique la vulneración en todas sus formas, con o sin acceso genital, del derecho de la mujer de decidir voluntariamente acerca de su vida sexual o reproductiva a través de amenazas, coerción, uso de la fuerza o intimidación, incluyendo la violación dentro del matrimonio o de otras relaciones vinculares o de parentesco, exista o no convivencia, así como la prostitución forzada, explotación, esclavitud, acoso, abuso sexual y trata de mujeres.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "i) Digital or telematic violence: any conduct, action or omission against women based on their gender that is committed, instigated or aggravated, in part or in its entirety, with the assistance, use and/or appropriation of information and communication technologies, with the object of causing physical, psychological, economic, sexual or moral harm both in the private and public sphere to them or their family group.\nEspecially conduct that attacks their integrity, dignity, identity, reputation, freedom, and against access, permanence and activity in the digital space or that implies the obtaining, reproduction and dissemination, without consent, of real or edited digital material, intimate or of nudity, that is attributed to women, or the reproduction in the digital space of misogynistic hate speech and stereotyped sexist patterns or situations of harassment, threat, extortion, control or espionage of virtual activity, unauthorized access to electronic devices or online accounts, theft and non-consensual dissemination of personal data to the extent that they are not conduct permitted by law 25.326 and/or the one that replaces it in the future, or actions that attack the sexual integrity of women through information and communication technologies, or any cyberattack that may arise in the future and that affects the rights protected in this law.",
+      "rationale": "The policy explicitly defines “Digital or telematic violence” as a modality of violence against women and details technology-facilitated conduct (e.g., non-consensual dissemination of intimate material, online harassment/threats, unauthorized access), meeting substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "i) Violencia digital o telemática: toda conducta, acción u omisión en contra de las mujeres basada en su género que sea cometida, instigada o agravada, en parte o en su totalidad, con la asistencia, utilización y/o apropiación de las tecnologías de la información y la comunicación, con el objeto de causar daños físicos, psicológicos, económicos, sexuales o morales tanto en el ámbito privado como en el público a ellas o su grupo familiar.\n\nEn especial conductas que atenten contra su integridad, dignidad, identidad, reputación, libertad, y contra el acceso, permanencia y desenvolvimiento en el espacio digital o que impliquen la obtención, reproducción y difusión, sin consentimiento de material digital real o editado, intimo o de desnudez, que se le atribuya a las mujeres, o la reproducción en el espacio digital de discursos de odio misóginos y patrones estereotipados sexistas o situaciones de acoso, amenaza, extorsión, control o espionaje de la actividad virtual, accesos no autorizados a dispositivos electrónicos o cuentas en línea, robo y difusión no consentida de datos personales en la medida en que no sean conductas permitidas por la ley 25.326 y/o la que en el futuro la reemplace, o acciones que atenten contra la integridad sexual de las mujeres a través de las tecnologías de la información y la comunicación, o cualquier ciberataque que pueda surgir a futuro y que afecte los derechos protegidos en la presente ley.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions define types and modalities of violence and set out preventive measures and some sanctions for non-compliance with court-ordered measures, but they do not define any form of violence against women as a criminal offence with a specified criminal penalty (e.g., imprisonment or fine range). References to possible criminal responsibility or reporting to criminal courts do not themselves establish criminal penalties for VAW acts within the shown text.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text provides for urgent preventive measures ordered by a judge and indicates they may be ordered ex officio or at a party’s request, and it lists examples of restraining/protective measures. However, the coding rules require (for substantive coverage) specification of who may apply, issuing authority, duration, and a defined consequence for breach. While issuing authority and (partly) who may request are present, the candidate sentences do not specify the order’s duration, and breach consequences are not defined for these measures within the provided excerpts. Therefore it does not meet the criterion’s required elements.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text mentions “specialized units on violence at the first level of care” and encourages police/security forces to develop interdisciplinary services and protocols, but it does not designate or mandate a specific unit/desk/division within police services for handling VAW cases. General references to police services and protocols are insufficient under the coding rules without a designated police unit.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "The intervening judge shall set a hearing, which must be personally conducted under penalty of nullity, within FORTY-EIGHT (48) hours of ordering the measures of article 26, or if none of them were adopted, from the moment he/she became aware of the complaint.",
+      "rationale": "The candidate sentences establish an expedited/special procedure by requiring the judge to set a hearing within 48 hours after ordering urgent measures (or after learning of the complaint if none were ordered). This constitutes a specialised/expedited judicial procedure for VAW-related proceedings under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "El/la juez/a interviniente fijará una audiencia, la que deberá tomar personalmente bajo pena de nulidad, dentro de CUARENTA Y OCHO (48) horas de ordenadas las medidas del artículo 26, o si no se adoptara ninguna de ellas, desde el momento que tomó conocimiento de la denuncia.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text includes “rape within marriage” within the definition of sexual violence, it does not, in the provided excerpts, create or modify criminal offences or expressly state that rape/sexual-offence provisions apply regardless of marital status or that spousal status is not a defence. Moreover, the text explicitly states that the conducts in this law do not entail the creation of new criminal types or modification of existing ones, so the mention of marital rape here does not establish criminal liability or remove a spousal exemption within the operative criminal framework shown.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "b) Articulate and coordinate actions for compliance with this law, with the various areas involved at the national, provincial and municipal levels, and with university, trade union, business, religious spheres, organizations for the defense of women's rights and other civil society organizations with competence in the matter;\na) Prepare, implement and monitor a National Action Plan for the Prevention, Assistance and Eradication of Violence against Women;\nc) Convene and establish an ad honorem Advisory Council, composed of representatives of civil society organizations and specialized academic spheres, whose function shall be to advise and recommend on courses of action and appropriate strategies to address the phenomenon of violence;",
+      "rationale": "The text assigns the National Council for Women responsibilities to coordinate actions across national, provincial, and municipal levels and with multiple sectors, and it also mandates preparation/implementation/monitoring of a National Action Plan and establishes an Advisory Council—together constituting formal coordination mechanisms and structures for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Articular y coordinar las acciones para el cumplimiento de la presente ley, con las distintas áreas involucradas a nivel nacional, provincial y municipal, y con los ámbitos universitarios, sindicales, empresariales, religiosos, las organizaciones de defensa de los derechos de las mujeres y otras de la sociedad civil con competencia en la materia;\n\na) Elaborar, implementar y monitorear un Plan Nacional de Acción para la Prevención, Asistencia y Erradicación de la Violencia contra las Mujeres;\n\nc) Convocar y constituir un Consejo Consultivo ad honórem, integrado por representantes de las organizaciones de la sociedad civil y del ámbito académico especializadas, que tendrá por función asesorar y recomendar sobre los cursos de acción y estrategias adecuadas para enfrentar el fenómeno de la violencia;",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "The Supreme Court of Justice of the Nation shall keep sociodemographic records of complaints filed regarding acts of violence provided for in this law, specifying, at a minimum, age, marital status, profession or occupation of the woman who suffers violence, as well as of the aggressor; relationship with the aggressor, nature of the facts, measures adopted and their results, as well as sanctions imposed on the aggressor.\nThe Observatory of Violence against Women is hereby created within the scope of the National Women's Council, intended for the monitoring, collection, production, registration and systematization of data and information on violence against women.\nk) Design and implement Registers of situations of violence against women in an inter-jurisdictional and inter-institutional manner, in which the basic indicators approved by all competent Ministries and Secretariats are established, independently of those determined by each area for specific purposes, and agreed upon within the framework of Federal Councils with competence in the matter;",
+      "rationale": "The framework establishes entities and duties for collecting and managing VAW data, including a Supreme Court registry of complaints, creation of an Observatory intended for monitoring/collection/registration/systematization of data, and a mandate for the National Council for Women to design and implement registers of VAW situations.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "La Corte Suprema de Justicia de la Nación llevará registros sociodemográficos de las denuncias efectuadas sobre hechos de violencia previstos en esta ley, especificando, como mínimo, edad, estado civil, profesión u ocupación de la mujer que padece violencia, así como del agresor; vínculo con el agresor, naturaleza de los hechos, medidas adoptadas y sus resultados, así como las sanciones impuestas al agresor.\n\nCréase el Observatorio de la Violencia contra las Mujeres en el ámbito del Consejo Nacional de la Mujer, destinado al monitoreo, recolección, producción, registro y sistematización de datos e información sobre la violencia contra las mujeres.\n\nk) Diseñar e implementar Registros de situaciones de violencia contra las mujeres de manera interjurisdiccional e interinstitucional, en los que se establezcan los indicadores básicos aprobados por todos los Ministerios y Secretarías competentes, independientemente de los que determine cada área a los fines específicos, y acordados en el marco de los Consejos Federales con competencia en la materia;",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "d) The adoption of the principle of mainstreaming shall be present in all measures as well as in the execution of normative provisions, articulating interinstitutionally and coordinating budgetary resources;",
+      "rationale": "The framework explicitly requires the adoption of the principle of mainstreaming to be present in all measures and in execution of normative provisions, including inter-institutional articulation and coordination of budgetary resources, which constitutes an operative requirement for mainstreaming as an implementation mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) La adopción del principio de transversalidad estará presente en todas las medidas así como en la ejecución de las disposiciones normativas, articulando interinstitucionalmente y coordinando recursos presupuestarios;",
+      "evidence_original_aligned": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "h) Provide permanent training, education and instruction on the subject to public officials in the field of Justice, police and security forces, and the Armed Forces, which shall be imparted in a comprehensive and specific manner according to each area of action, based on a basic module respecting the principles enshrined in this law;\ni) Coordinate with legislative spheres specialized training on violence against women and implementation of the principles and rights recognized by the Inter-American Convention to Prevent, Punish and Eradicate Violence against Women aimed at legislators and advisors;\nd) Raise awareness and train police and security forces on the issue of violence against women within the framework of respect for human rights;",
+      "rationale": "The framework mandates provision of permanent training to public officials (justice, police/security forces, armed forces), includes specialized training aimed at legislators/advisors, and provides for training/awareness-raising within police and security forces—meeting the requirement for training/capacity building of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "h) Brindar capacitación permanente, formación y entrenamiento en la temática a los funcionarios públicos en el ámbito de la Justicia, las fuerzas policiales y de seguridad, y las Fuerzas Armadas, las que se impartirán de manera integral y específica según cada área de actuación, a partir de un módulo básico respetando los principios consagrados en esta ley;\n\ni) Coordinar con los ámbitos legislativos la formación especializada, en materia de violencia contra las mujeres e implementación de los principios y derechos reconocidos por la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres destinada a legisladores/as y asesores/as;\n\nd) Sensibilizar y capacitar a las fuerzas policial y de seguridad en la temática de la violencia contra las mujeres en el marco del respeto de los derechos humanos;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "a) Prepare, implement and monitor a National Action Plan for the Prevention, Assistance and Eradication of Violence against Women;\ng) To coordinate actions with governmental bodies with competence in matters of women's human rights for the purpose of monitoring the implementation of policies for the prevention and eradication of violence against women, to evaluate their impact and prepare proposals for actions or reforms;\nDuring the processing of the case, for the time deemed appropriate, the judge must monitor the effectiveness of the measures and decisions adopted, either through the appearance of the parties before the court, with the frequency ordered, and/or through the intervention of the interdisciplinary team, who shall prepare periodic reports on the situation.",
+      "rationale": "The framework assigns monitoring functions, including monitoring a National Action Plan, coordinating actions to monitor implementation of prevention/eradication policies (via the Observatory functions), and requiring judges to monitor effectiveness of measures with periodic reports—together establishing monitoring mechanisms for implementation and service/protection measures.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Elaborar, implementar y monitorear un Plan Nacional de Acción para la Prevención, Asistencia y Erradicación de la Violencia contra las Mujeres;\n\ng) Articular acciones con organismos gubernamentales con competencia en materia de derechos humanos de las mujeres a los fines de monitorear la implementación de políticas de prevención y erradicación de la violencia contra las mujeres, para evaluar su impacto y elaborar propuestas de actuaciones o reformas;\n\nDurante el trámite de la causa, por el tiempo que se juzgue adecuado, el/la juez/a deberá controlar la eficacia de las medidas y decisiones adoptadas, ya sea a través de la comparecencia de las partes al tribunal, con la frecuencia que se ordene, y/o mediante la intervención del equipo interdisciplinario, quienes elaborarán informes periódicos acerca de la situación.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "The appropriations necessary for compliance with this law shall be provided annually in the General Budget Law of the National Administration.",
+      "rationale": "The framework contains an operative provision requiring that appropriations necessary for compliance with the law be provided annually in the General Budget Law of the National Administration, which is a binding budget-allocation requirement.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "Las partidas que resulten necesarias para el cumplimiento de la presente ley serán previstas anualmente en la Ley de Presupuesto General de la Administración Nacional.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "2.- Specialized units on violence at the first level of care that work on the prevention and assistance of acts of violence, which shall coordinate their activities according to the established standards, protocols and registries and shall have a comprehensive approach to the following activities:",
+      "rationale": "The framework mandates specialized first-level units on violence with a comprehensive approach and coordination across standards/protocols/registries, indicating an integrated/multidisciplinary service mechanism for women experiencing violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "2.- Unidades especializadas en violencia en el primer nivel de atención que trabajen en la prevención y asistencia de hechos de violencia, las que coordinarán sus actividades según los estándares, protocolos y registros establecidos y tendrán un abordaje integral de las siguientes actividades:",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "o) Implement a multi-support, telephone and digital service that is free and accessible, in an articulated manner with the provinces, through relevant government agencies, aimed at providing support, information and advice on existing resources in the matter of prevention of violence against women and assistance to those who suffer it, including the modality of 'violence against women in public space' known as 'street harassment'.",
+      "rationale": "The framework requires implementation of a free, accessible multi-support telephone and digital service aimed at providing support, information and advice on resources for prevention of violence against women and assistance to those who suffer it, which constitutes an operative help-seeking mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "o) Implementar un servicio multisoporte, telefónico y digital gratuito y accesible, en forma articulada con las provincias, a través de organismos gubernamentales pertinentes, destinada a dar contención, información y brindar asesoramiento sobre recursos existentes en materia de prevención de la violencia contra las mujeres y asistencia a quienes la padecen, incluida la modalidad de ‘violencia contra las mujeres en el espacio público’ conocida como ‘acoso callejero’.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "6.- Transit facilities for the care and shelter of women who suffer violence in cases where remaining at their home or residence implies an imminent threat to their physical, psychological or sexual integrity, or that of their family group, and which must be oriented toward immediate integration into their family, social and work environment.",
+      "rationale": "The framework provides for transit facilities for the care and shelter of women who suffer violence when remaining at home implies an imminent threat, which is an operative provision for safe accommodation/residential protection.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "6.- Instancias de tránsito para la atención y albergue de las mujeres que padecen violencia en los casos en que la permanencia en su domicilio o residencia implique una amenaza inminente a su integridad física, psicológica o sexual, o la de su grupo familiar, debiendo estar orientada a la integración inmediata a su medio familiar, social y laboral.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "c) Free legal assistance and representation;",
+      "rationale": "The framework includes free legal assistance and representation as part of specialized first-level units for prevention and assistance of acts of violence, constituting an operative legal aid/assistance provision for women victims/survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) Asistencia y patrocinio jurídico gratuito;",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "c) Design specific protocols for early detection and care of all types and modalities of violence against women, primarily in the areas of primary health care, emergencies, internal medicine, obstetrics, gynecology, traumatology, pediatrics, and mental health, specifying the procedure to be followed for the care of women who suffer violence, safeguarding the privacy of the assisted person and promoting a non-sexist medical practice.",
+      "rationale": "The framework requires the Ministry of Health to design specific protocols for early detection and care of all types and modalities of violence against women across health service areas, establishing a health-sector response for women who suffer violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) Diseñar protocolos específicos de detección precoz y atención de todo tipo y modalidad de violencia contra las mujeres, prioritariamente en las áreas de atención primaria de salud, emergencias, clínica médica, obstetricia, ginecología, traumatología, pediatría, y salud mental, que especifiquen el procedimiento a seguir para la atención de las mujeres que padecen violencia, resguardando la intimidad de la persona asistida y promoviendo una práctica médica no sexista.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "2.- Specialized units on violence at the first level of care that work on the prevention and assistance of acts of violence, which shall coordinate their activities according to the established standards, protocols and registries and shall have a comprehensive approach to the following activities:\na) Interdisciplinary assistance for the evaluation, diagnosis and definition of approach strategies;",
+      "rationale": "The framework mandates specialized first-level units with a comprehensive approach including interdisciplinary assistance for evaluation/diagnosis/approach strategies, which entails psychosocial/psychological-type support within an integrated service setting.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "2.- Unidades especializadas en violencia en el primer nivel de atención que trabajen en la prevención y asistencia de hechos de violencia, las que coordinarán sus actividades según los estándares, protocolos y registros establecidos y tendrán un abordaje integral de las siguientes actividades:\n\na) Asistencia interdisciplinaria para la evaluación, diagnóstico y definición de estrategias de abordaje;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While religious spheres are mentioned among actors for coordination, none of the candidate sentences establish or provide religious/spiritual counselling, pastoral care, or faith-based victim-support services for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "a) Promote policies aimed at the social and labor reconnection of women who suffer violence;",
+      "rationale": "The framework includes policies aimed at the social and labor reconnection of women who suffer violence, which is a longer-term recovery/reintegration support measure for victims/survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Promover políticas tendientes a la revinculación social y laboral de las mujeres que padecen violencia;",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "c) Mandatory attendance of the aggressor to reflective, educational or therapeutic programs aimed at modifying violent behaviors.",
+      "rationale": "The framework provides for mandatory attendance of the aggressor to reflective, educational or therapeutic programs aimed at modifying violent behaviors as a sanction for non-compliance with ordered measures, establishing perpetrator behaviour-change programming.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) Asistencia obligatoria del agresor a programas reflexivos, educativos o terapéuticos tendientes a la modificación de conductas violentas.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "1.- Education and training campaigns aimed at the community to inform, raise awareness and prevent violence against women in the spheres in which they develop their interpersonal relationships.\nq) Promote awareness-raising and sensitization campaigns on violence against women, informing about the rights, resources and services that the State guarantees and establishing social condemnation of all forms of violence against women.",
+      "rationale": "The candidate sentences include operative provisions requiring education/training campaigns aimed at the community to inform, raise awareness, and prevent violence against women, and also requiring awareness-raising/sensitization campaigns on violence against women. These are explicit information/education/awareness activities directed at VAW as prevention measures.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1.- Campañas de educación y capacitación orientadas a la comunidad para informar, concientizar y prevenir la violencia contra las mujeres en los ámbitos en que desarrollen sus relaciones interpersonales.\n\nq) Promover campañas de sensibilización y concientización sobre la violencia contra las mujeres informando sobre los derechos, recursos y servicios que el Estado garantiza e instalando la condena social a toda forma de violencia contra las mujeres.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "a) Articulate within the framework of the Federal Council of Education the inclusion in the minimum curricular contents of the gender perspective, the exercise of tolerance, respect and freedom in interpersonal relationships, equality between the sexes, the democratization of family relationships and the enforcement of human rights and the delegitimization of violent models of conflict resolution and of \"violence against women in public space\" known as \"street harassment\"; (Subsection replaced by art. 3° of Law No. 27.501 O.G. 8/5/2019)",
+      "rationale": "The candidate sentences include an operative education-sector measure to include in minimum curricular contents gender perspective and equality between the sexes, alongside delegitimization of violent models and VAW in public space. This is an education activity about gender equality that is explicitly situated within the law’s prevention-oriented public policies addressing violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Articular en el marco del Consejo Federal de Educación la inclusión en los contenidos mínimos curriculares de la perspectiva de género, el ejercicio de la tolerancia, el respeto y la libertad en las relaciones interpersonales, la igualdad entre los sexos, la democratización de las relaciones familiares y la vigencia de los derechos humanos y la deslegitimación de modelos violentos de resolución de conflictos y de la “violencia contra las mujeres en el espacio público” conocida como “acoso callejero”; (Inciso sustituido por art. 3° de la Ley N° 27.501 B.O. 8/5/2019)",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "q) Promote awareness-raising and sensitization campaigns on violence against women, informing about the rights, resources and services that the State guarantees and establishing social condemnation of all forms of violence against women.\na) The rights that legislation confers on women who suffer violence, and about governmental services available for their care;",
+      "rationale": "The candidate sentences include an operative requirement to run awareness-raising campaigns on violence against women that inform about rights, resources, and services guaranteed by the State, and an obligation for officials to inform affected women about rights conferred by legislation and available governmental services. These are legal-rights/legal-protection information activities related to VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "q) Promover campañas de sensibilización y concientización sobre la violencia contra las mujeres informando sobre los derechos, recursos y servicios que el Estado garantiza e instalando la condena social a toda forma de violencia contra las mujeres.\n\na) Los derechos que la legislación le confiere a la mujer que padece violencia, y sobre los servicios gubernamentales disponibles para su atención;",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "a) Articulate within the framework of the Federal Council of Education the inclusion in the minimum curricular contents of the gender perspective, the exercise of tolerance, respect and freedom in interpersonal relationships, equality between the sexes, the democratization of family relationships and the enforcement of human rights and the delegitimization of violent models of conflict resolution and of \"violence against women in public space\" known as \"street harassment\"; (Subsection replaced by art. 3° of Law No. 27.501 O.G. 8/5/2019)\nd) Promote the incorporation of the issue of violence against women in tertiary and university curricula, both at undergraduate and postgraduate levels;",
+      "rationale": "The candidate sentences assign responsibilities to the Ministry of Education to include content (including delegitimization of violent models and VAW in public space) in minimum curricular contents and to incorporate the issue of violence against women in tertiary and university curricula. These are explicit education/curriculum measures presented within the law’s prevention-oriented public policies on VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Articular en el marco del Consejo Federal de Educación la inclusión en los contenidos mínimos curriculares de la perspectiva de género, el ejercicio de la tolerancia, el respeto y la libertad en las relaciones interpersonales, la igualdad entre los sexos, la democratización de las relaciones familiares y la vigencia de los derechos humanos y la deslegitimación de modelos violentos de resolución de conflictos y de la “violencia contra las mujeres en el espacio público” conocida como “acoso callejero”; (Inciso sustituido por art. 3° de la Ley N° 27.501 B.O. 8/5/2019)\n\nd) Promover la incorporación de la temática de la violencia contra las mujeres en las currículas terciarias y universitarias, tanto en los niveles de grado como de post grado;",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include re-education programs aimed at men who exercise violence, but this is framed as perpetrator-focused intervention rather than an explicit primary-prevention engagement of men/boys (e.g., positive masculinity or gender-norm change programmes targeting men/boys before violence occurs). No other cited sentence explicitly targets men or boys for prevention activities.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "b) Articulate and coordinate actions for compliance with this law, with the various areas involved at the national, provincial and municipal levels, and with university, trade union, business, religious spheres, organizations for the defense of women's rights and other civil society organizations with competence in the matter;\nc) Convene and establish an ad honorem Advisory Council, composed of representatives of civil society organizations and specialized academic spheres, whose function shall be to advise and recommend on courses of action and appropriate strategies to address the phenomenon of violence;\np) Establish and maintain a Register of non-governmental organizations specialized in the matter in coordination with the jurisdictions and enter into agreements for the development of preventive, control and implementation activities of assistance measures for women who suffer violence and the rehabilitation of men who exercise it;",
+      "rationale": "The cited operative provisions require/authorise coordination with civil society organizations (including women’s rights organizations), establish an Advisory Council composed of civil society representatives to advise on strategies addressing violence, and mandate maintaining a register of specialized NGOs and entering into agreements with them for prevention, assistance, and implementation activities—meeting the criterion’s collaboration/participation mechanisms for VAW response and prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Articular y coordinar las acciones para el cumplimiento de la presente ley, con las distintas áreas involucradas a nivel nacional, provincial y municipal, y con los ámbitos universitarios, sindicales, empresariales, religiosos, las organizaciones de defensa de los derechos de las mujeres y otras de la sociedad civil con competencia en la materia;\n\nc) Convocar y constituir un Consejo Consultivo ad honórem, integrado por representantes de las organizaciones de la sociedad civil y del ámbito académico especializadas, que tendrá por función asesorar y recomendar sobre los cursos de acción y estrategias adecuadas para enfrentar el fenómeno de la violencia;\n\np) Establecer y mantener un Registro de las organizaciones no gubernamentales especializadas en la materia en coordinación con las jurisdicciones y celebrar convenios para el desarrollo de actividades preventivas, de control y ejecución de medidas de asistencia a las mujeres que padecen violencia y la rehabilitación de los hombres que la ejercen;",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "b) Articulate and coordinate actions for compliance with this law, with the various areas involved at the national, provincial and municipal levels, and with university, trade union, business, religious spheres, organizations for the defense of women's rights and other civil society organizations with competence in the matter;",
+      "rationale": "An operative provision directs the National Council for Women to coordinate actions for compliance with the law with multiple sectors including “religious spheres,” explicitly linking engagement with religious actors to implementation of the VAW law.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Articular y coordinar las acciones para el cumplimiento de la presente ley, con las distintas áreas involucradas a nivel nacional, provincial y municipal, y con los ámbitos universitarios, sindicales, empresariales, religiosos, las organizaciones de defensa de los derechos de las mujeres y otras de la sociedad civil con competencia en la materia;",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "The national State shall implement the development of the following priority actions, promoting their articulation and coordination with the different Ministries and Secretariats of the national Executive Power, provincial and municipal jurisdictions, universities and civil society organizations with competence in the matter:\nb) Articulate and coordinate actions for compliance with this law, with the various areas involved at the national, provincial and municipal levels, and with university, trade union, business, religious spheres, organizations for the defense of women's rights and other civil society organizations with competence in the matter;",
+      "rationale": "The policy’s operative provisions require/promote articulation and coordination of priority actions with universities, and also require coordination of actions for compliance with the law with “university” spheres, establishing education institutions as partners in implementing VAW-related actions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Estado nacional implementará el desarrollo de las siguientes acciones prioritarias, promoviendo su articulación y coordinación con los distintos Ministerios y Secretarías del Poder Ejecutivo nacional, jurisdicciones provinciales y municipales, universidades y organizaciones de la sociedad civil con competencia en la materia:\n\nb) Articular y coordinar las acciones para el cumplimiento de la presente ley, con las distintas áreas involucradas a nivel nacional, provincial y municipal, y con los ámbitos universitarios, sindicales, empresariales, religiosos, las organizaciones de defensa de los derechos de las mujeres y otras de la sociedad civil con competencia en la materia;",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "d) To enter into cooperation agreements with public or private bodies, national or international, with the purpose of articulating in an interdisciplinary manner the development of studies and research;",
+      "rationale": "The Observatory’s functions include entering into cooperation agreements with public or private bodies, including international ones, for interdisciplinary development of studies and research on violence against women, which constitutes an operative mechanism for collaboration with international actors on VAW-related research/monitoring.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) Celebrar convenios de cooperación con organismos públicos o privados, nacionales o internacionales, con la finalidad de articular interdisciplinariamente el desarrollo de estudios e investigaciones;",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "a) Promote from the National Media System the dissemination of messages and permanent awareness and sensitization campaigns aimed at the general population and particularly at women about their right to live a life free of violence;\nb) Promote in the mass media respect for the human rights of women and the treatment of violence from the gender perspective;\nc) Provide training to mass media professionals on violence against women;",
+      "rationale": "Operative provisions assign the Secretariat of Media responsibilities to disseminate messages and ongoing awareness campaigns about women’s right to live free of violence, promote appropriate treatment of violence from a gender perspective in mass media, and provide training to media professionals—explicitly engaging media actors in VAW prevention and awareness.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Impulsar desde el Sistema Nacional de Medios la difusión de mensajes y campañas permanentes de sensibilización y concientización dirigida a la población en general y en particular a las mujeres sobre el derecho de las mismas a vivir una vida libre de violencias;\n\nb) Promover en los medios masivos de comunicación el respeto por los derechos humanos de las mujeres y el tratamiento de la violencia desde la perspectiva de género;\n\nc) Brindar capacitación a profesionales de los medios masivos de comunicación en violencia contra las mujeres;",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "t) Promote network work in the community sphere, in order to develop inter-institutional and inter-sectoral care and prevention models that unify and coordinate the efforts of public and private institutions;",
+      "rationale": "An operative provision mandates promoting “network work in the community sphere” to develop inter-institutional and inter-sectoral care and prevention models coordinating public and private institutions, which establishes community-level engagement/mobilisation mechanisms for VAW prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "t) Promover en el ámbito comunitario el trabajo en red, con el fin de desarrollar modelos de atención y prevención interinstitucional e intersectorial, que unifiquen y coordinen los esfuerzos de las instituciones públicas y privadas;",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "b) Articulate and coordinate actions for compliance with this law, with the various areas involved at the national, provincial and municipal levels, and with university, trade union, business, religious spheres, organizations for the defense of women's rights and other civil society organizations with competence in the matter;\na) Develop awareness, training and incentive programs for companies and unions to eliminate labor violence against women and promote equality of rights, opportunities and treatment in the labor sphere, having to respect the principle of non-discrimination in:\nb) Promote, through specific programs, the prevention of sexual harassment against women in the sphere of companies and unions;",
+      "rationale": "The framework includes operative provisions requiring coordination with “business” spheres for compliance with the VAW law, and assigns the Ministry of Labor responsibilities to develop programs for companies and unions to eliminate labor violence against women and to prevent sexual harassment in companies and unions—explicitly involving private-sector actors in VAW prevention and response in the workplace context.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Articular y coordinar las acciones para el cumplimiento de la presente ley, con las distintas áreas involucradas a nivel nacional, provincial y municipal, y con los ámbitos universitarios, sindicales, empresariales, religiosos, las organizaciones de defensa de los derechos de las mujeres y otras de la sociedad civil con competencia en la materia;\n\na) Desarrollar programas de sensibilización, capacitación e incentivos a empresas y sindicatos para eliminar la violencia laboral contra las mujeres y promover la igualdad de derechos, oportunidades y trato en el ámbito laboral, debiendo respetar el principio de no discriminación en:\n\nb) Promover, a través de programas específicos la prevención del acoso sexual contra las mujeres en el ámbito de empresas y sindicatos;",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only explicit budget/appropriation provision cited refers to the National Administration’s General Budget Law, not to municipal/local government budgets. Other sentences mention coordination with municipal jurisdictions and coordinating budgetary resources in general, but do not identify local government budgets as a funding source.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "The appropriations necessary for compliance with this law shall be provided annually in the General Budget Law of the National Administration.",
+      "rationale": "The policy explicitly states that appropriations needed to comply with the law will be provided annually through the General Budget Law of the National Administration, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Las partidas que resulten necesarias para el cumplimiento de la presente ley serán previstas anualmente en la Ley de Presupuesto General de la Administración Nacional.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "d) To enter into cooperation agreements with public or private bodies, national or international, with the purpose of articulating in an interdisciplinary manner the development of studies and research;",
+      "rationale": "The policy explicitly provides for entering into cooperation agreements with bodies that may be international, indicating international organizational involvement/support mechanisms (even if not framed as donor funding).",
+      "coverage": "Referenced only",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) Celebrar convenios de cooperación con organismos públicos o privados, nacionales o internacionales, con la finalidad de articular interdisciplinariamente el desarrollo de estudios e investigaciones;",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited funding provision specifies the national administration’s general budget law. The remaining sentences concern policy actions, cooperation, and procedural matters, but do not identify any other legal funding sources (e.g., earmarked funds, special levies, trust funds, or other statutory financing mechanisms) as budget sources.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references provincial level actors and coordination, it does not specify provincial government budgets as a funding source. The only explicit appropriation source mentioned is the National Administration’s General Budget Law.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 36,
+    "resolved": 36,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "policy_file": "104. Maldives - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T14:25:28.336870+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(a) For the purposes of this Act, \"domestic violence\" shall mean any of the following acts by a perpetrator where such conduct harms, or may cause imminent harm to, the safety, health or wellbeing of the victim(s), and provided the victim(s) and perpetrator are in a domestic relationship:\nAny act prescribed as an act of domestic violence under this Act violence shall carry both civil liability and be a criminal offence liable for criminal prosecution, which would be dealt with in accordance with the provisions of this Act.",
+      "rationale": "The candidate sentences include operative provisions that define domestic violence and establish that acts of domestic violence are unlawful and carry civil and criminal liability, with related legal mechanisms (e.g., protection orders and institutional roles) throughout the excerpt.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) For the purposes of this Act, “domestic violence” shall mean any of the following acts by a perpetrator where such conduct harms, or may cause imminent harm to, the safety, health or wellbeing of the victim(s), and provided the victim(s) and perpetrator are in a domestic relationship:\n\nAny act prescribed as an act of domestic violence under this Act violence shall carry both civil liability and be a criminal offence liable for criminal prosecution, which would be dealt with in accordance with the provisions of this Act.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(2) sexual abuse;\n(z) \"Sexual abuse\" means any conduct that abuses, humiliates, degrades or otherwise violates the sexual integrity of the victim; (aa) \"Physical abuse\" means any act or threatened act of physical violence towards a victim; (bb) \"Chief Executive Officer\" means the main administrative officer responsible for the implementation of the decisions of the Board of the Authority and the daily administration of the Authority; Law Number 3/2012",
+      "rationale": "The text includes sexual abuse as a covered act within the operative definition of domestic violence and provides an operative definition of sexual abuse, which constitutes substantive legal coverage of sexual violence within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) sexual abuse;\n\n(z) “Sexual abuse” means any conduct that abuses, humiliates, degrades or otherwise violates the sexual integrity of the victim; (aa) “Physical abuse” means any act or threatened act of physical violence towards a victim; (bb) “Chief Executive Officer” means the main administrative officer responsible for the implementation of the decisions of the Board of the Authority and the daily administration of the Authority; Law Number 3/2012",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(1) physical abuse;\n(z) \"Sexual abuse\" means any conduct that abuses, humiliates, degrades or otherwise violates the sexual integrity of the victim; (aa) \"Physical abuse\" means any act or threatened act of physical violence towards a victim; (bb) \"Chief Executive Officer\" means the main administrative officer responsible for the implementation of the decisions of the Board of the Authority and the daily administration of the Authority; Law Number 3/2012",
+      "rationale": "The framework explicitly includes physical abuse as a covered act within the operative definition of domestic violence and provides an operative definition of physical abuse, thereby substantively addressing physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) physical abuse;\n\n(z) “Sexual abuse” means any conduct that abuses, humiliates, degrades or otherwise violates the sexual integrity of the victim; (aa) “Physical abuse” means any act or threatened act of physical violence towards a victim; (bb) “Chief Executive Officer” means the main administrative officer responsible for the implementation of the decisions of the Board of the Authority and the daily administration of the Authority; Law Number 3/2012",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(3) verbal and psychological abuse;\n(d) \"Verbal and psychological abuse\" means a pattern of degrading or humiliating conduct towards a victim.",
+      "rationale": "The candidate sentences include verbal and psychological abuse as a covered act within the operative definition of domestic violence and provide an operative definition of verbal and psychological abuse, meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) verbal and psychological abuse;\n\n(d) “Verbal and psychological abuse” means a pattern of degrading or humiliating conduct towards a victim.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(4) economic or financial abuse;\n(m) \"Economic abuse\" includes the following:-\n1. the unreasonable deprivation of economic or financial resources to which a victim is entitled under law or which the victim requires out of necessity, including household necessities for the victim, and payment of rent or mortgage bond repayments in respect of the shared household; or",
+      "rationale": "The framework includes economic or financial abuse as a covered act within the operative definition of domestic violence and provides an operative definition of economic abuse including deprivation of economic/financial resources and household necessities, which meets the criterion for substantive coverage of economic violence/abuse.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) economic or financial abuse;\n\n(m) “Economic abuse” includes the following:-\n\n1. the unreasonable deprivation of economic or financial resources to which a victim is entitled under law or which the victim requires out of necessity, including household necessities for the victim, and payment of rent or mortgage bond repayments in respect of the shared household; or",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence generally (definitions, protection orders, police duties, reporting, and dissolution of marriage) but do not mention or regulate any recognised harmful practice such as child/early marriage, FGM/C, honour crimes, or female infanticide. References to a “harmful marriage” are not the same as addressing a harmful practice as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent concept, nor do they establish femicide-specific prevention/monitoring mechanisms. Mentions of murder/manslaughter appear only as examples of other criminal laws and are not framed as femicide.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of human trafficking/trafficking in persons or trafficking-related exploitation, and do not identify trafficking victims as a protected group or provide trafficking-specific prevention/protection measures.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes “sexual abuse” as a form of domestic violence, it does not address sexual exploitation or sexual slavery (e.g., forced prostitution, sexual exploitation for gain, sexual slavery) as defined in the coding rules, nor does it link any exploitation concept to a sexual purpose.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not recognise or regulate technology-facilitated violence (cyber harassment, cyberbullying, online sexual exploitation, etc.). References to communication methods (e.g., reporting by phone/SMS/email) are about reporting mechanisms, not digital abuse as a form of violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(a) A perpetrator who commits any of the following acts is guilty of a criminal offence:\n35(a) shall be punished by up to a maximum term of 6 months imprisonment or fined with an amount not exceeding MRf.\n15,000 (Fifteen thousand Rufiyaa).",
+      "rationale": "The text establishes that certain acts related to domestic violence protection orders constitute criminal offences and specifies criminal sanctions (imprisonment and/or fines), thereby establishing criminal penalties within the legal framework for violence-related conduct.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) A perpetrator who commits any of the following acts is guilty of a criminal offence:\n\n35(a) shall be punished by up to a maximum term of 6 months imprisonment or fined with an amount not exceeding MRf.\n\n15,000 (Fifteen thousand Rufiyaa).",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "(a) A protection order is a legal order made by the court to prohibit the commission or omission of certain acts by the person who committed the act of domestic violence, in order to protect the victim(s) from the recurrence of domestic violence.\n(a) A person may make an application for a protection order to for a protection order court against another person provided such two persons are bound by a domestic relationship.\nAs such, a protection order shall be issued in the first instance for a maximum period of one year.\n(a) A perpetrator who commits any of the following acts is guilty of a criminal offence:",
+      "rationale": "The framework provides for protection orders issued by a court, specifies who may apply, sets an initial maximum duration, and defines criminal consequences for breach/non-compliance, meeting the required elements for a substantive protection/restraining order mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) A protection order is a legal order made by the court to prohibit the commission or omission of certain acts by the person who committed the act of domestic violence, in order to protect the victim(s) from the recurrence of domestic violence.\n\n(a) A person may make an application for a protection order to for a protection order court against another person provided such two persons are bound by a domestic relationship.\n\nAs such, a protection order shall be issued in the first instance for a maximum period of one year.\n\n(a) A perpetrator who commits any of the following acts is guilty of a criminal offence:",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police duties (advising victims, investigating, reporting, arrest powers) but do not designate or mandate any specific specialised unit/desk/division within the police for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text defines which existing courts have jurisdiction (Family Court generally; Criminal Court for certain offences) and mentions in camera proceedings, but it does not establish a specialised VAW court/chamber or a specialised/expedited judicial procedure specifically for VAW cases.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the framework includes \"sexual abuse\" within acts of domestic violence and references rape/sexual offences as examples under other criminal laws, it does not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption for sexual violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(a) A Family Protection Agency is hereby established under this Family Protection Agency Section of this Act in order to combat domestic violence; create public awareness on issues of domestic violence; provide the required services to the victims of such violence; co-ordinate the work of the relevant government institutions including the\n(c) to establish multi-stakeholder mechanisms for implementing policies and programmes for combating violence;",
+      "rationale": "The text establishes a formal institutional coordination mechanism by creating a Family Protection Agency with an explicit mandate to coordinate the work of relevant government institutions (including police and health sector) and to establish multi-stakeholder mechanisms for implementing policies and programmes to combat domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) A Family Protection Agency is hereby established under this Family Protection Agency Section of this Act in order to combat domestic violence; create public awareness on issues of domestic violence; provide the required services to the victims of such violence; co-ordinate the work of the relevant government institutions including the\n\n(c) to establish multi-stakeholder mechanisms for implementing policies and programmes for combating violence;",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(a) In the event that a Police investigation into the occurrence of an domestic violence incident of domestic violence has taken place, then a report on the same shall be prepared by the Police and dispatched to the\n(a) Within 3 months of the end of the Gregorian year, an annual report report shall be prepared by the Police on the previous year's reported cases and concluded cases of domestic violence, and dispatched to the Authority and the Court.\n(h) to conduct research and collect data on the extent of (spread and occurrence of) domestic violence in the country; the reasons and personal characteristics related to occurrence of such violence and; the measures which could be taken to stop such violence and publish the required information from such findings;",
+      "rationale": "The framework requires the Police to prepare and dispatch incident reports and annual reports on domestic violence cases, and it assigns the Authority responsibility to conduct research and collect data on the extent of domestic violence and publish information from findings—meeting the requirement to mandate/assign responsibility for collecting and reporting case-related data.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) In the event that a Police investigation into the occurrence of an domestic violence incident of domestic violence has taken place, then a report on the same shall be prepared by the Police and dispatched to the\n\n(a) Within 3 months of the end of the Gregorian year, an annual report report shall be prepared by the Police on the previous year’s reported cases and concluded cases of domestic violence, and dispatched to the Authority and the Court. (b) The annual report referred to in 17\n\n(h) to conduct research and collect data on the extent of (spread and occurrence of) domestic violence in the country; the reasons and personal characteristics related to occurrence of such violence and; the measures which could be taken to stop such violence and publish the required information from such findings; (i) to determine and enforce the standards that have to be maintained while responding to victims of domestic violence and, the types, nature, extent and standard of social services that has to be provided to such persons; (j) to establish temporary shelters for the purpose of providing safe locations to the victims of domestic violence in order to help such persons resume a healthy living; provide assistance to other entities administering such shelters and; determine and monitor the standards, rules and objectives of such centres; (k) to provide support for perpetrators through anger management therapy and counselling support in order to rehabilitate them as healthy individuals;",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions giving priority to gender balancing in appointments to the Authority’s Board, it does not explicitly establish or require gender mainstreaming as an institutional mechanism for implementing violence against women/domestic violence policies or programs (e.g., no gender mainstreaming requirement, focal point, or mainstreaming process).",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe roles, reporting duties, standards/regulations, and institutional responsibilities, but they do not explicitly mandate training, capacity building, or technical guidance for implementing personnel (police, health professionals, social workers, etc.). References to competency or standards are not framed as training requirements.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(j) to establish temporary shelters for the purpose of providing safe locations to the victims of domestic violence in order to help such persons resume a healthy living; provide assistance to other entities administering such shelters and; determine and monitor the standards, rules and objectives of such centres;\n(a) Within 3 months of the end of the Gregorian year, an annual report report shall be prepared by the Police on the previous year's reported cases and concluded cases of domestic violence, and dispatched to the Authority and the Court.",
+      "rationale": "The framework assigns the Authority responsibility to monitor standards/rules/objectives of shelters/centres and requires the Police to prepare and dispatch annual reports on domestic violence cases to the Authority and Court, which constitutes a specified reporting/monitoring mechanism tied to implementation and service delivery.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(g) to determine the standards and policies which need to be introduced in order to improve the responsiveness (in all required areas) to incidents of domestic violence and; take all necessary steps in relation to that; (h) to conduct research and collect data on the extent of (spread and occurrence of) domestic violence in the country; the reasons and personal characteristics related to occurrence of such violence and; the measures which could be taken to stop such violence and publish the required information from such findings; (i) to determine and enforce the standards that have to be maintained while responding to victims of domestic violence and, the types, nature, extent and standard of social services that has to be provided to such persons; (j) to establish temporary shelters for the purpose of providing safe locations to the victims of domestic violence in order to help such persons resume a healthy living; provide assistance to other entities administering such shelters and; determine and monitor the standards, rules and objectives of such centres;\n\n(a) Within 3 months of the end of the Gregorian year, an annual report report shall be prepared by the Police on the previous year’s reported cases and concluded cases of domestic violence, and dispatched to the Authority and the Court. (b) The annual report referred to in 17",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "When the People's Majlis (Parliament) passes the following year's budget during the current year, through such budget, sufficient funds shall be remitted to the Authority and the Police for the purpose of combating domestic violence and providing support to victims.\n(a) When the People's Majlis (Parliament) passes the following year's budget during the current year, sufficient funds shall be remitted to the Authority for the purpose of administering the",
+      "rationale": "The text contains an operative provision requiring that, through the national budget process, sufficient funds shall be remitted to the Authority and the Police for combating domestic violence and supporting victims, including administering the Authority and enforcing the Act.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "When the People’s Majlis (Parliament) passes the following year’s budget during the current year, through such budget, sufficient funds shall be remitted to the Authority and the Police for the purpose of combating domestic violence and providing support to victims.\n\n(a) When the People’s Majlis (Parliament) passes the following year’s budget during the current year, sufficient funds shall be remitted to the Authority for the purpose of administering the",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(a) A Family Protection Agency is hereby established under this Family Protection Agency Section of this Act in order to combat domestic violence; create public awareness on issues of domestic violence; provide the required services to the victims of such violence; co-ordinate the work of the relevant government institutions including the\nPolice and the Health Sector, coordinate various local efforts made by individuals (to protect victims of domestic violence) by bringing such efforts under a national policy and implementing such policies and; to undertake a leading role in carrying out such work on a national scale.\n(c) to establish multi-stakeholder mechanisms for implementing policies and programmes for combating violence;",
+      "rationale": "The Act establishes a Family Protection Agency/Authority with responsibilities that include providing required services to victims and coordinating relevant government institutions (including Police and Health Sector), and it also empowers the Authority to establish multi-stakeholder mechanisms for implementing policies/programmes for combating violence. This constitutes an operative, designated institutional mechanism for coordinated/multi-service response to domestic violence victims (including women victims).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) A Family Protection Agency is hereby established under this Family Protection Agency Section of this Act in order to combat domestic violence; create public awareness on issues of domestic violence; provide the required services to the victims of such violence; co-ordinate the work of the relevant government institutions including the\n\nPolice and the Health Sector, coordinate various local efforts made by individuals (to protect victims of domestic violence) by bringing such efforts under a national policy and implementing such policies and; to undertake a leading role in carrying out such work on a national scale.\n\n(c) to establish multi-stakeholder mechanisms for implementing policies and programmes for combating violence;",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(a) Any person who has reason to believe that an act of domestic violence has been, or is being, or is likely to be committed, must give information about it to the Police.\n(c) For the purposes of Section 8(a), acts of domestic violence may be reported in person verbally or in writing at the Police station.\nOr, it may be reported by calling the hotline or landline of such station by phone or by fax, or by any other means of communication.",
+      "rationale": "The Act provides an operative reporting mechanism requiring that information about domestic violence be given to the Police, and specifies that reporting may occur in person at a police station or by calling the hotline/landline of the station (as well as other communication means). This establishes a concrete channel through which victims/survivors can report and seek assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) Any person who has reason to believe that an act of domestic violence has been, or is being, or is likely to be committed, must give information about it to the Police.\n\n(c) For the purposes of Section 8(a), acts of domestic violence may be reported in person verbally or in writing at the Police station.\n\nOr, it may be reported by calling the hotline or landline of such station by phone or by fax, or by any other means of communication.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(f) to establish shelters with adequate staff and facilities in order to prevent domestic violence and to provide temporary support services for victims of violence; to determine the services provided from such shelters; and to provide such services in a sustainable manner; Law Number 3/2012\n(j) to establish temporary shelters for the purpose of providing safe locations to the victims of domestic violence in order to help such persons resume a healthy living; provide assistance to other entities administering such shelters and; determine and monitor the standards, rules and objectives of such centres;",
+      "rationale": "The Act assigns the Authority responsibility to establish shelters with adequate staff and facilities and also to establish temporary shelters to provide safe locations to victims of domestic violence, including setting/monitoring standards. These are operative provisions providing for shelter/safe accommodation for victims (including women victims).",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(f) to establish shelters with adequate staff and facilities in order to prevent domestic violence and to provide temporary support services for victims of violence; to determine the services provided from such shelters; and to provide such services in a sustainable manner; Law Number 3/2012\n\n(g) to determine the standards and policies which need to be introduced in order to improve the responsiveness (in all required areas) to incidents of domestic violence and; take all necessary steps in relation to that; (h) to conduct research and collect data on the extent of (spread and occurrence of) domestic violence in the country; the reasons and personal characteristics related to occurrence of such violence and; the measures which could be taken to stop such violence and publish the required information from such findings; (i) to determine and enforce the standards that have to be maintained while responding to victims of domestic violence and, the types, nature, extent and standard of social services that has to be provided to such persons; (j) to establish temporary shelters for the purpose of providing safe locations to the victims of domestic violence in order to help such persons resume a healthy living; provide assistance to other entities administering such shelters and; determine and monitor the standards, rules and objectives of such centres;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Legal representation 64. Any party to proceedings in terms of this Act may be represented by a lawyer.\nAnd, the State shall be responsible for the provision of lawyer, upon request, to those victims without the financial means.",
+      "rationale": "The Act provides that parties may be represented by a lawyer and specifies that the State shall provide a lawyer upon request to victims without financial means. This is an operative legal aid/legal assistance provision applicable to victims of domestic violence (including women victims).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Legal representation 64. Any party to proceedings in terms of this Act may be represented by a lawyer.\n\nAnd, the State shall be responsible for the provision of lawyer, upon request, to those victims without the financial means.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "A health professional that that has been notified by the Police that Professionals an act of domestic violence may have been committed on a victim or who for any other reason otherwise suspects the same must carry-out the following:-\n(a) Examine the suspected victim to the highest possible degree.\n(c) Assist the victim in seeking psychiatric or counselling support.",
+      "rationale": "The Act imposes duties on health professionals in suspected domestic violence cases, including examining the suspected victim, advising on support options, and assisting the victim in seeking psychiatric/counselling support. These are operative provisions requiring a health-sector response linked specifically to domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "A health professional that that has been notified by the Police that Professionals an act of domestic violence may have been committed on a victim or who for any other reason otherwise suspects the same must carry-out the following:-\n\n(a) Examine the suspected victim to the highest possible degree.\n\n(c) Assist the victim in seeking psychiatric or counselling support.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(c) Assist the victim in seeking psychiatric or counselling support.\n(1) The social worker must advise the victim of support options available, assist the victim to obtain psychiatric or counselling support and guide the victim on all",
+      "rationale": "The operative provisions assign duties to health professionals and social workers to assist victims in obtaining psychiatric or counselling support, which constitutes psychosocial/psychological counselling support services and a referral/assistance mechanism for victims/survivors of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) Assist the victim in seeking psychiatric or counselling support.\n\n(1) The social worker must advise the victim of support options available, assist the victim to obtain psychiatric or counselling support and guide the victim on all",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss counselling and support generally (including psychiatric/counselling support) and reference Islamic Shari'ah in relation to marriage dissolution, but they do not establish any religious/spiritual counselling, pastoral care, or faith-based victim-support service, nor assign such a role to religious personnel or institutions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(d) to implement adequate programmes for victims of domestic violence and to ensure the recovery of such\n(j) to establish temporary shelters for the purpose of providing safe locations to the victims of domestic violence in order to help such persons resume a healthy living; provide assistance to other entities administering such shelters and; determine and monitor the standards, rules and objectives of such centres;",
+      "rationale": "The text includes an objective to implement programmes for victims and ensure their recovery, and it also provides an operative measure to establish temporary shelters to help victims resume healthy living, which is a longer-term recovery/support measure beyond immediate emergency response.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) to implement adequate programmes for victims of domestic violence and to ensure the recovery of such\n\n(g) to determine the standards and policies which need to be introduced in order to improve the responsiveness (in all required areas) to incidents of domestic violence and; take all necessary steps in relation to that; (h) to conduct research and collect data on the extent of (spread and occurrence of) domestic violence in the country; the reasons and personal characteristics related to occurrence of such violence and; the measures which could be taken to stop such violence and publish the required information from such findings; (i) to determine and enforce the standards that have to be maintained while responding to victims of domestic violence and, the types, nature, extent and standard of social services that has to be provided to such persons; (j) to establish temporary shelters for the purpose of providing safe locations to the victims of domestic violence in order to help such persons resume a healthy living; provide assistance to other entities administering such shelters and; determine and monitor the standards, rules and objectives of such centres;",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(k) to provide support for perpetrators through anger management therapy and counselling support in order to rehabilitate them as healthy individuals;",
+      "rationale": "The framework provides for perpetrator-focused support through anger management therapy and counselling support aimed at rehabilitating perpetrators, which constitutes an intervention/rehabilitation programme for perpetrators of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(k) to provide support for perpetrators through anger management therapy and counselling support in order to rehabilitate them as healthy individuals;",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to creating public awareness on issues of domestic violence and creating awareness of the characterizing features of domestic violence among state entities, but they do not explicitly address violence against women or gender-based violence specifically. Under the coding rules, domestic-violence awareness alone (without an explicit link to violence against women) is insufficient to count as information/education about VAW.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences focus on domestic-violence awareness and implementation structures; they do not require or provide education/awareness activities specifically about gender equality or women's rights, nor do they explicitly link any such gender-equality education to preventing violence against women. A reference to gender balancing in appointments is not an educational/awareness activity.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes duties to advise victims of their rights and remedies under the Act, this is framed as victim assistance/response rather than a primary prevention activity disseminating information to the public or communities about VAW/DV laws and policies. The provisions do not specify public legal-awareness or dissemination campaigns about the law/policies as prevention measures.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences identify schools, curricula, educational institutions, or education-quality improvements as measures to prevent violence against women (or even domestic violence). References to “educational competency” of board members or general awareness-raising are not education-sector/curriculum-based prevention measures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved provisions do not establish prevention activities that specifically engage men or boys (e.g., programmes targeting men/boys, masculinity or gender-norm change initiatives) to prevent violence against women. References to perpetrator counselling/rehabilitation are post-incident responses and are not framed as primary prevention engaging men and boys generally.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(e) The Authority shall have the power to carry out any responsibilities of the Authority under this Act either by itself, or by delegating such responsibilities under supervision to health care providers, social service providers, or non-profit organizations.\n(a) may include relatives and family of the victim, a friend of the victim or a Registered NGO.",
+      "rationale": "The text includes operative provisions authorising the Authority to delegate responsibilities to non-profit organizations, and explicitly includes a Registered NGO as a permissible third party to make a protection order application, which establishes NGO participation in response mechanisms for domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(e) The Authority shall have the power to carry out any responsibilities of the Authority under this Act either by itself, or by delegating such responsibilities under supervision to health care providers, social service providers, or non-profit organizations.\n\n(a) may include relatives and family of the victim, a friend of the victim or a Registered NGO.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference Shariah in relation to marriage dissolution (thafriq) and define a guardian under law or Shariah, but do not establish or require any engagement or collaboration with religious/traditional organisations or leaders for prevention of or response to domestic violence.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require collaboration with schools, universities, or other education institutions for domestic violence prevention or response. A reference to “educational and practical competency” for board appointments is not engagement with education institutions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions complying with international standards and refers to entering into agreements with “local and international parties,” but it does not explicitly establish collaboration with international organisations (as organisations) on domestic violence/VAW; the language is too general to meet the criterion’s requirement for engagement with international organisations.",
+      "coverage": null,
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "(m) Disclose to the media details of the perpetrator and the acts of domestic violence committed by the perpetrator",
+      "rationale": "An operative provision directs disclosure to the media of details of the perpetrator and acts of domestic violence, which constitutes an explicit, VAW/DV-related engagement with media actors.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "(g) Gather the factual details of the act of domestic violence. (h) Advise the victim of the domestic violence of their rights and remedies under this Act, including:",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text refers to creating public awareness and includes broad reporting duties for “any person,” the coding rules exclude inferring community engagement merely from reporting obligations. The candidate sentences do not establish a mechanism for community participation/mobilisation or identify communities/the public as partners in prevention/response.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private companies, or other private-sector actors as partners or participants in domestic violence/VAW prevention or response, nor do they establish any public-private mechanism for this purpose.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences discuss decentralization to Island/Atoll/City Councils and national budget remittances by Parliament, but do not explicitly identify local government budgets as a funding source.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "When the People's Majlis (Parliament) passes the following year's budget during the current year, through such budget, sufficient funds shall be remitted to the Authority and the Police for the purpose of combating domestic violence and providing support to victims.\n(a) When the People's Majlis (Parliament) passes the following year's budget during the current year, sufficient funds shall be remitted to the Authority for the purpose of administering the",
+      "rationale": "The policy explicitly states that when Parliament passes the annual budget, sufficient funds shall be remitted to the Authority (and Police) for combating domestic violence and administering/enforcing the Act, indicating national government budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "When the People’s Majlis (Parliament) passes the following year’s budget during the current year, through such budget, sufficient funds shall be remitted to the Authority and the Police for the purpose of combating domestic violence and providing support to victims.\n\n(a) When the People’s Majlis (Parliament) passes the following year’s budget during the current year, sufficient funds shall be remitted to the Authority for the purpose of administering the",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "(e) to enter into agreements local and international parties and, organize and implement programmes with such parties in order to implement this Act and stop domestic violence;",
+      "rationale": "The policy authorizes the Authority to enter into agreements with local and international parties to organize and implement programmes to implement the Act and stop domestic violence, which constitutes explicit international involvement/support in implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(e) to enter into agreements local and international parties and, organize and implement programmes with such parties in order to implement this Act and stop domestic violence;",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences reference inclusion in the national budget and other operational/legal provisions, but do not specify any other distinct legal funding sources (e.g., earmarked funds, fines as a funding stream, special levies, trust funds) as budget sources for VAW measures.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not mention provincial governments or provincial budgets as a funding source; they focus on national budget allocations and decentralization to councils without specifying provincial budget funding.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 23,
+    "resolved": 23,
+    "rate": 1.0
+  }
+}

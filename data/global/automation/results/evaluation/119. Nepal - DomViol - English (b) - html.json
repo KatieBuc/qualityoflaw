@@ -1,0 +1,953 @@
+{
+  "policy_file": "119. Nepal - DomViol - English (b) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T16:21:44.097675+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(1) Anyone willing to lodge a complaint relating to domestic violence may lodge such complaint before the Complain Hearing Body in a format as referred to in Schedule-1.\n(1) Each Women Development Office shall have one Women Protection Officer to coordinate in relation to domestic violence.",
+      "rationale": "The rules explicitly regulate complaints relating to domestic violence and establish institutional roles (e.g., a Women Protection Officer) to coordinate domestic-violence response, which are operative provisions with legal/service consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Anyone willing to lodge a complaint relating to domestic violence may lodge such complaint before the Complain Hearing Body in a format as referred to in Schedule-1.\n\n(1) Each Women Development Office shall have one Women Protection Officer to coordinate in relation to the domestic violence.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, the framework repeatedly addresses domestic violence procedures and services but does not mention sexual violence, rape, sexual assault, sexual abuse, or sexual harassment, nor does it classify sexual violence as a covered form of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(1) In case, there is a possibility of physical wound or mental torture of the victim or his/her dependent by the perpetrator while lodging the complaint or during the procedure of taking an action, the petitioner may request to the Complaint Hearing Body, for his/her security upon showing the reasonable grounds thereof.\n(b) To make necessary arrangements to be protected from physical injuries (attack) and getting mental torture from the perpetrator.",
+      "rationale": "The operative provisions explicitly refer to risks of physical harm (physical wound/physical injuries/attack) and provide for security/protection arrangements, which constitutes substantive coverage of physical violence within protection/response measures.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) In case, there is a possibility of physical wound or mental torture of the victim or his/her dependent by the perpetrator while lodging the complaint or during the procedure of taking an action, the petitioner may request to the Complaint Hearing Body, for his/her security upon showing the reasonable grounds thereof.\n\n(b) To make necessary arrangements to be protected from physical injuries (attack) and getting mental torture from the perpetrator.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(1) In case, there is a possibility of physical wound or mental torture of the victim or his/her dependent by the perpetrator while lodging the complaint or during the procedure of taking an action, the petitioner may request to the Complaint Hearing Body, for his/her security upon showing the reasonable grounds thereof.\n(d) To provide psycho-consultation or psychological service to the victim and perpetrator as required,",
+      "rationale": "The rules explicitly address mental torture and provide for psycho-consultation/psychological services as part of the response framework, indicating psychological harm is covered with associated protective/service measures.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) In case, there is a possibility of physical wound or mental torture of the victim or his/her dependent by the perpetrator while lodging the complaint or during the procedure of taking an action, the petitioner may request to the Complaint Hearing Body, for his/her security upon showing the reasonable grounds thereof.\n\n(d) To provide psycho-consultation or psychological service to the victim and perpetrator as required,",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on complaint procedures, security, medical/psychological services, legal aid, and service-fund administration; they do not mention economic violence/abuse/exploitation, deprivation of resources, or neglect as a form of violence or harm.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention child/early marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative prevention/protection measures targeting such practices.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of femicide/feminicide, gender-motivated killing of women, or any related aggravated homicide concept, registry, or monitoring mechanism specific to lethal violence against women.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention trafficking in persons/human trafficking or trafficking-related exploitation, nor do they identify trafficking victims as a protected group or provide trafficking-specific prevention/protection measures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no reference in the candidate sentences to sexual exploitation, sexual slavery, forced prostitution, or any exploitation with a sexual purpose; the text is limited to domestic-violence procedures and general victim services.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) or recognize technology-facilitated violence as a form of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences are from procedural Rules on complaints, security arrangements, service centres, funds, and administrative matters. They do not define any form of violence against women as a criminal offence, nor do they specify any criminal sanction (imprisonment/fine) or even a general statement that domestic violence is punishable by law within the provided text.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text provides for requesting 'security' and for the Complaint Hearing Body to issue a letter to police to make security arrangements (e.g., safe place/service centre). However, it does not establish a protection/restraining order mechanism with the required elements (application process, issuing authority for an order against the perpetrator, duration, and consequences for breach).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention police offices as possible complaint hearing bodies and require police to provide security arrangements upon receiving a letter, but they do not designate or mandate any specialised police unit/desk/division for VAW victims or even a general requirement for specialised victim services within police.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references that complaints may be lodged in court and that certain complaints are forwarded to court, but it does not establish any specialised court/chamber, specialised judicial officer, or expedited/specialised procedure for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences concern domestic violence complaint procedures, security, service centres, and administrative arrangements. They do not mention rape/sexual assault, marital rape, consent within marriage, or removal of any spousal exemption from criminal liability for sexual violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(1) There shall be a Service Fund Management and Operation Committee to manage and operate the\n(2) The committee shall have the following members:\n(a) Secretary, Ministry of Women, Children and Social Welfare – Chairperson\n(b) Joint Secretary, Ministry of Finance – Member\n(c) Joint Secretary, Ministry of Home Affairs – Member\n(d) Joint Secretary, Office of Prime Minister and Council of Minister – Member\n(e) Joint Secretary, Ministry of Local Development – Member\n(h) Representative, National Women Commission – Member\n(i) Deputy Inspector General of Police, Women, children Service Directorate, Police Head Quarter – Member",
+      "rationale": "The rules establish a formal multi-agency committee (Service Fund Management and Operation Committee) with specified membership drawn from multiple ministries and institutions, which constitutes an institutional coordination mechanism across agencies/sectors relevant to implementation. In addition, the framework assigns a protection officer a coordination function between bodies involved in handling cases and service provision.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) There shall be a Service Fund Management and Operation Committee to manage and operate the\n\n(2) The committee shall have following members:\n\n(a) Secretary, Ministry of Women, Children and Social Welfare – Chairperson\n\n(b) Joint Secretary, Ministry of Finance – Member\n\n(c) Joint Secretary, Ministry of Home Affairs – Member\n\n(d) Joint Secretary, Office of Prime Minister and Council of Minister – Member\n\n(e) Joint Secretary, Ministry of Local Development – Member\n\n(h) Representative, National Women Commission – Member\n\n(i) Deputy Inspector General of Police, Women, children Service Directorate, Police Head Quarter – Member",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(1) Out of the Complaint Hearing Body, the Local Body and Police Office shall send the complaint and the details of the action taken as per the complaint lodged in the office, on a monthly basis to the Women Development Office of the District, every year.\n(2) The Service Centre shall send the details of the service provided to the victim every year to the Women Development Office of the District.\n(3) The Women Development Office shall send the report to the Ministry received from Complaint Hearing Body and Service Centre pursuant to Sub-rule (1), and (2).\n(4) The Ministry shall update the report received from Women Development Office pursuant to Sub-rule (3).",
+      "rationale": "The framework mandates regular transmission of complaints and action details from complaint-handling bodies to the district Women Development Office, requires service centres to send service-delivery details, requires the Women Development Office to report to the Ministry, and requires the Ministry to update the report—together assigning responsibilities for recording/reporting and managing information on domestic violence cases and services.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Out of the Complaint Hearing Body, the Local Body and Police Office shall send the complaint and the details of the action taken as per the complaint lodged in the office, on the monthly basis to the Women Development Office of the District, every year.\n\n(2) The Service Centre shall send the details of the service provided to the victim every year to the Women Development Office of the District.\n\n(3) Women Development Office shall send the report to the Ministry received from Complaint Hearing Body and Service Centre pursuant to Sub-rule (1), and (2).\n\n(4) The Ministry shall update the report received from Women Development Office pursuant to Sub-rule (3).",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming in planning/budgeting, a gender mainstreaming unit/working group, or mainstreaming requirements for implementation). The text focuses on domestic violence procedures, committees, reporting, and service standards without mentioning gender mainstreaming.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mandate or provide for training, technical guidance, or capacity building for implementing officials or service providers. They describe roles (e.g., protection officer), service standards, supervision/monitoring, and awareness programs, but none establish a training requirement for personnel responsible for implementation.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(1) The supervision and monitoring of Service Centre may be carried out by the Ministry itself or the Ministry may assign any of its subordinate body or staff to carry out such action.\n(2) In case the Ministry assigns any of the subordinate body or staff for the supervision and monitoring of Service Centre pursuant to Sub-rule (1), such body or staff shall submit the report to the Ministry.\n(1) Out of the Complaint Hearing Body, the Local Body and Police Office shall send the complaint and the details of the action taken as per the complaint lodged in the office, on a monthly basis to the Women Development Office of the District, every year.\n(2) The Service Centre shall send the details of the service provided to the victim every year to the Women Development Office of the District.\n(3) The Women Development Office shall send the report to the Ministry received from Complaint Hearing Body and Service Centre pursuant to Sub-rule (1), and (2).\n(4) The Ministry shall update the report received from Women Development Office pursuant to Sub-rule (3).",
+      "rationale": "The framework provides for supervision and monitoring of service centres by the Ministry (or delegated bodies) with reporting back to the Ministry, and it establishes periodic reporting flows on complaints/actions and services up through the Women Development Office to the Ministry, which together constitute a monitoring mechanism for service delivery and implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The supervision and monitoring of Service Centre may be pursued by the Ministry itself or the Ministry may assign any of its subordinate body or staff to carry out such action.\n\n(2) In case the Ministry assigns any of the subordinate body or staff for the Supervision and Monitoring of Service Centre pursuant to Sub-rule (1), such a body or staff shall submit the report to the Ministry.\n\n(1) Out of the Complaint Hearing Body, the Local Body and Police Office shall send the complaint and the details of the action taken as per the complaint lodged in the office, on the monthly basis to the Women Development Office of the District, every year.\n\n(2) The Service Centre shall send the details of the service provided to the victim every year to the Women Development Office of the District.\n\n(3) Women Development Office shall send the report to the Ministry received from Complaint Hearing Body and Service Centre pursuant to Sub-rule (1), and (2).\n\n(4) The Ministry shall update the report received from Women Development Office pursuant to Sub-rule (3).",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "The collected sum of Service Fund shall be spent for the following works:\n(a) To operate or manage the Service Centre,\n(b) To provide security or medical treatment for the victim,\n(c) To provide legal aid for the victim,\n(e) To conduct awareness programme against domestic violence,",
+      "rationale": "The framework creates and governs use of a dedicated Service Fund and requires that the collected sums be spent on specified domestic-violence response and prevention-related purposes (service centre operation, victim security/medical treatment, legal aid, and awareness programmes). This is a binding funding mechanism for implementation, even if it is not explicitly framed as a national budget line item.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Collected sum of Service Fund shall be spent for the following works:\n\n(a) To operate or manage the Service Centre,\n\n(b) To provide security or medical treatment for the victim,\n\n(c) To provide Legal Aid for the Victim,\n\n(e) To conduct awareness programme against domestic violence,",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(h) \"Service Centre\" means the Service Centre established pursuant to Section 11.\n(b) To maintain coordination between the Complaint Hearing Body and Service Centre,\n(c) Provision to provide psycho-consultation service, psychological service and legal aid to the victim as required,",
+      "rationale": "The rules define a \"Service Centre\" established under the domestic violence framework, set standards for operating it that include multiple victim services (including psychological services and legal aid), and assign a Protection Officer duties to coordinate between the complaint-hearing bodies and the Service Centre—together indicating an operative, coordinated multi-service mechanism for domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(h) “Service Centre” means the Service Centre established pursuant to Section 11.\n\n(b) To maintain coordination between the Complaint Hearing Body and Service Centre,\n\n(c) Provision to provide psycho-consultation service, psychological service and legal aid to the victim as required,",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(1) Anyone willing to lodge a complaint relating to domestic violence may lodge such complaint before the Complain Hearing Body in a format as referred to in Schedule-1.\n(c) \"Complaint Hearing Body\" means Police Office, National Women Commission, local body or the Court.\n(2) In case, a complaint of domestic violence is received in a verbal form, the Complaint Hearing Body shall register it upon setting out details in the written form upon putting the signature of the complainant pursuant to Schedule-1.",
+      "rationale": "The framework establishes an operative complaint mechanism for domestic violence by allowing anyone to lodge a complaint before designated \"Complaint Hearing Body\" institutions (including police, National Women Commission, local body, or court) and requiring registration of verbal complaints, which constitutes a reporting/help-seeking mechanism even without a hotline.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Anyone willing to lodge a complaint relating to domestic violence may lodge such complaint before the Complain Hearing Body in a format as referred to in Schedule-1.\n\n(c) “Complaint Hearing Body” means Police Office, National Women Commission, local body or the Court.\n\n(2) In case, a complaint of domestic violence is received in a verbal form, the Complaint Hearing Body shall register it upon setting out details in the written form upon putting the signature of the complainant pursuant to Schedule-1.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(a) To make temporary arrangements of a safe place or Service Centre to the victim or his/her dependent,",
+      "rationale": "The security provision requires the police to make temporary arrangements of a \"safe place or Service Centre\" for the victim or dependents upon receipt of a protection letter, which is an operative provision for temporary safe accommodation/residential protection.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) To make temporary arrangements of a safe place or Service Centre to the victim or his/her dependent,",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "(c) To provide legal aid to the victim,\n(4) The Ministry may form a Legal Aid Committee for the purpose of providing legal aid to the victim, as per the requirement.\n(c) To provide legal aid for the victim,",
+      "rationale": "Operative provisions assign the Protection Officer a duty to provide legal aid to the victim, allow the Ministry to form a Legal Aid Committee for providing legal aid, and allow Service Fund expenditures to provide legal aid for the victim—together establishing legal assistance for domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) To provide legal aid to the victim,\n\n(4) Ministry may form Legal Aid Committee for the purpose of providing Legal Aid to the victim, as per the requirement.\n\n(c) To provide Legal Aid for the Victim,",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(1) In case, a complaint is lodged stating that the victim has been physically wounded or mentally tortured by the perpetrator, the Complaint Hearing Body, shall request the hospital or health Centre which is nearby or convenient for the health examination of health of such victim.\n(2) In case, a hospital or health centre is requested for the health examination pursuant to Sub-rule (1) it shall immediately provide treatment and shall submit the medical examination report to the Complaint Hearing Body.",
+      "rationale": "The framework requires the Complaint Hearing Body to request a nearby hospital/health centre to conduct health examination when a complaint alleges physical or mental harm, and requires the health facility to immediately provide treatment and submit a medical examination report—an operative medical response for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) In case, a complaint is lodged stating that the victim has been physically wounded or mentally tortured by the perpetrator, the Complaint Hearing Body, shall request the hospital or health Centre which is nearby or convenient for the health examination of health of such victim.\n\n(2) In case, a hospital or health centre is requested for the health examination pursuant to Sub-rule (1) it shall immediately provide treatment and shall submit the medical examination report to the Complaint Hearing Body.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(d) To provide psycho-consultation or psychological service to the victim and perpetrator as required,\n(c) Provision to provide psycho-consultation service, psychological service and legal aid to the victim as required,",
+      "rationale": "Operative provisions require/provide psycho-consultation or psychological services for the victim (and perpetrator as required) through the Protection Officer’s duties and as a standard for operating a Service Centre, meeting the criterion for psychosocial/psychological support services.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) To provide psycho-consultation or psychological service to the victim and perpetrator as required,\n\n(c) Provision to provide psycho-consultation service, psychological service and legal aid to the victim as required,",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious leaders or institutions in providing support to victims/survivors.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(d) Capacity to provide financial support to the victim,",
+      "rationale": "The standards for operating a Service Centre include the capacity to provide financial support to the victim, which is a longer-term support measure linked to victims within the domestic violence service mechanism (even though details of rehabilitation/reintegration are limited).",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) Capacity to provide financial support to the victim,",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(d) To provide psycho-consultation or psychological service to the victim and perpetrator as required,\n(d) To provide psycho-consultation or psychological service to the victim and perpetrator as required,",
+      "rationale": "Operative provisions provide psycho-consultation or psychological services to the perpetrator (as required), funded/covered through the Service Fund and included in the Protection Officer’s duties, which constitutes a perpetrator-focused counselling/intervention service even if not framed as a structured behaviour-change programme.",
+      "coverage": "Substantive",
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) To provide psycho-consultation or psychological service to the victim and perpetrator as required,",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(e) To conduct awareness programme against domestic violence,\nThe Ministry, any other governmental body or non-governmental organization may conduct or cause to be conducted awareness programme against domestic violence.",
+      "rationale": "The rules explicitly provide for conducting an “awareness programme against domestic violence,” including authorizing relevant bodies to conduct or cause such programmes to be conducted. This is an operative prevention-oriented awareness activity specifically linked to domestic violence (a form of violence against women within the scope of VAW prevention measures).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(e) To conduct awareness programme against domestic violence,\n\nThe Ministry, any other Governmental body or Non-governmental organization may conduct or cause to conduct awareness programme against domestic violence.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences only mention awareness programmes against domestic violence and various service/administrative provisions. They do not provide information/education/awareness activities specifically about gender equality or women’s rights, nor do they explicitly link such gender-equality education to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text authorizes awareness programmes against domestic violence, it does not specify that the awareness activities concern laws, regulations, policies, legal rights, protections, or remedies related to violence against women/domestic violence. Under the coding rules, general awareness about domestic violence without an explicit legal/policy dissemination component is insufficient.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention schools, educational institutions, curricula, teaching materials, or improving education quality as a measure to prevent violence against women. They refer only to general awareness programmes against domestic violence and other procedural/service provisions, which do not meet the criterion’s requirement for an explicit education-sector or curriculum-based prevention measure.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not include any prevention activities specifically targeting or engaging men or boys (e.g., programmes aimed at changing male attitudes/behaviours/masculinities). The awareness programme provision is general and not directed at men/boys as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The Ministry, any other governmental body or non-governmental organization may conduct or cause to be conducted awareness programme against domestic violence.",
+      "rationale": "The rules explicitly authorize non-governmental organizations, alongside the Ministry and other governmental bodies, to conduct or cause to be conducted awareness programmes against domestic violence, which constitutes an operative provision involving NGOs in VAW-related prevention/awareness activities.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Ministry, any other Governmental body or Non-governmental organization may conduct or cause to conduct awareness programme against domestic violence.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any mechanism for their engagement in domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference schools, universities, or other education institutions, and do not assign them any role in domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of international organisations or any operative cooperation mechanism with such organisations concerning domestic violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions awareness programmes, it does not identify media organisations/actors (e.g., broadcasters, journalists, publishers) as partners or establish any media-specific engagement mechanism related to domestic violence.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish community/public participation mechanisms or identify communities/community organisations as partners in domestic violence prevention or response; they focus on government bodies, NGOs, and institutional procedures.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private companies, or other private-sector actors, nor do they establish any private-sector role in domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe a Service Fund, its management committee, permitted uses, and auditing. While local bodies are mentioned as complaint hearing bodies and in reporting/forwarding procedures, none of the sentences explicitly identify a local government budget as a funding/budget source for the policy or the Service Fund.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references ministries and government oversight (e.g., Auditor General) and establishes a Service Fund with rules for spending and auditing, but it does not explicitly state that funding comes from the national government budget or appropriations. Mentions of government bodies and officials are not, by themselves, a national budget funding source.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions international assistance, donors, UN agencies, foreign governments, development partners, or any other explicit international support. The only potentially related reference is to non-governmental organizations conducting awareness programs, which does not indicate an international component.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss the Service Fund’s governance, spending purposes, and auditing, but do not specify any funding/budget sources from other legal sources (e.g., fines, fees, earmarked revenues, levies, or other legally mandated sources).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention provinces or provincial government budgets as a funding source. They focus on a centrally managed Service Fund and administrative structures without identifying provincial budget allocations.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 17,
+    "resolved": 17,
+    "rate": 1.0
+  }
+}

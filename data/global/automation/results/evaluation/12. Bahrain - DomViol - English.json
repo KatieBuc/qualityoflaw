@@ -1,0 +1,961 @@
+{
+  "policy_file": "12. Bahrain - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:11:23.727615+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Domestic violence: Any act of abuse which falls within the family's scope by one of its members \"the aggressor\" against another \"the victim\".\nThe Ministry shall work to provide services and take the following measures to limit domestic violence, in cooperation and coordination with all official institutions, each according to its jurisdiction, as follows:",
+      "rationale": "The policy contains operative provisions that explicitly define domestic violence and establish institutional/service measures to limit domestic violence, which meets the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "ةليدب ةرسأ ةناضحب لومشلما صخشلا .5 Domestic violence: Any act of abuse which falls within the family’s scope by one of its members “the .”هيلع ىدتعلما“ اهيف رخآ دض ”يدتعلما“ اهدارفأ دحأ لبق نم ةرسلأا قاطن لخاد عقي ءاذيلإا لاعفأ نم لعف لك :يرسلأا فنعلا aggressor” against another “the victim”.\n\nThe Ministry shall work to provide services and take the following measures to limit domestic violence, تاسسؤلما ةفاك عم قيسنتلاو نواعتلاب ،يرسلأا فنعلا نم دحلل ةيلاتلا ريبادتلا ذاختاو تامدخلا ميدقت ىلع ةرازولا لمعت in cooperation and coordination with all official institutions, each according to its jurisdiction, as :يلاتلا وحنلا ىلع ،هصاصتخا بسح لك ةيمسرلا follows:",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "3. The act of sexual abuse: In accordance with the provisions of this Law, the following acts undertaken by the aggressor towards the victim are considered acts of sexual abuse:\nA. Sexual assault, urging or exploiting the victim by any means, to satisfy the sexual desires of the aggressor or for it to be achieved for others.",
+      "rationale": "The policy substantively addresses sexual violence by defining sexual abuse within domestic violence crimes, including sexual assault and exploitation, as an operative classification of covered violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. The act of sexual abuse: In accordance with the provisions of this Law, the following acts هيلع ىدتعلما هاجت يدتعلما مايق ،نوناقلا اذه ماكحلأ اقفو ،ي سنجلا ءاذيلإا لاعفأ نم دعت :ي سنجلا ءاذيلإا لعف .3 undertaken by the aggressor towards the victim are considered acts of sexual abuse: : يتلآا نم يأب\n\nA. Sexual assault, urging or exploiting the victim by any means, to satisfy the sexual desires فدهب وأ ةيسنجلا يدتعلما تابغر عابشلإ ،ةليسو ةيأب هيلع ىدتعلما للاغتسا وأ عفد وأ ي سنجلا ءادتعلاا . أ of the aggressor or for it to be achieved for others. . ريغلا ىدل كلذ قيقحت",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "1. The act of physical abuse: Any assault by any means on the body of the victim.",
+      "rationale": "The policy includes an operative definition/classification of physical abuse as a domestic violence crime (assault on the body), which substantively addresses physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. The act of physical abuse: Any assault by any means on the body of the victim. . هيلع ىدتعلما مسج ىلع ةليسو ةيأب ءادتعا يأ :يدسجلا ءاذيلإا لعف .1",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "2. The act of psychological abuse: Every act which results in psychological harm to the victim, including defamation and insult.",
+      "rationale": "The policy substantively addresses psychological violence by defining psychological abuse (acts resulting in psychological harm, including defamation and insult) as a domestic violence crime in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. The act of psychological abuse: Every act which results in psychological harm to the victim, . بسلاو فذقلا كلذ يف امب ،هيلع ىدتعملل ةيسفن رارضأ ىلإ يدؤي لعف لك :ي سفنلا ءاذيلإا لعف .2 including defamation and insult.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "4. The act of economic abuse: Every act which results in depriving the victim of his right or freedom to dispose of his monies to the detriment of the victim.",
+      "rationale": "The policy substantively addresses economic violence by defining economic abuse (depriving the victim of the right/freedom to dispose of money to the victim’s detriment) as a domestic violence crime in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. The act of economic abuse: Every act which results in depriving the victim of his right or . هل ارارضإ هلاومأ يف فرصتلا يف هتيرح وأ هقح نم هيلع ىدتعلما نامرح ىلإ يدؤي لعف لك : يداصتقلاا ءاذيلإا لعف .4 freedom to dispose of his monies to the detriment of the victim.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention or regulate harmful practices such as child/early marriage, FGM/cutting, honour crimes, or female infanticide, nor do they reference such practices in a preamble/recital context.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific prevention/monitoring measures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking/trafficking in persons or trafficking victims; references to exploitation appear only within the definition of sexual abuse in a domestic violence context and are not framed as trafficking.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "A. Sexual assault, urging or exploiting the victim by any means, to satisfy the sexual desires of the aggressor or for it to be achieved for others.",
+      "rationale": "The policy substantively addresses sexual exploitation by including, within an operative definition of sexual abuse, conduct described as urging or exploiting the victim to satisfy sexual desires (including for others), which establishes a sexual-exploitation nexus as a covered form of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "A. Sexual assault, urging or exploiting the victim by any means, to satisfy the sexual desires فدهب وأ ةيسنجلا يدتعلما تابغر عابشلإ ،ةليسو ةيأب هيلع ىدتعلما للاغتسا وأ عفد وأ ي سنجلا ءادتعلاا . أ of the aggressor or for it to be achieved for others. . ريغلا ىدل كلذ قيقحت",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention cyber/online/digital forms of violence or harassment; they address reporting/records and general domestic violence procedures, which the coding rules specify are insufficient for technology-facilitated violence.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Without prejudice to any more severe penalty in the Penal Code or any other law, whomever violates the protection order by using violence against any of the persons covered by the provisions of this Law shall be punished with imprisonment for a period not exceeding three months and a fine not exceeding two hundred dinars, or either of these two penalties.",
+      "rationale": "The framework specifies a criminal sanction (imprisonment and/or fine) for violating a protection order by using violence, which establishes a criminal penalty connected to domestic violence conduct.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Without prejudice to any more severe penalty in the Penal Code or any other law, whomever violates لا ةمارغبو رهشأ ةثلاث ىلع ديزت لا ةدم سبحلاب بقاعي رخآ نوناق يأ وأ تابوقعلا نوناق يف دشأ ةبوقع ةيأب للاخلإا مدع عم the protection order by using violence against any of the persons covered by the provisions of this Law ماكحأب نيلومشلما نم يأ هاجت فنعلا مادختساب ةيامحلا رمأ فلاخ نم لك نيتبوقعلا نيتاه ىدحإب وأ رانيد يتئام ىلع ديزت shall be punished with imprisonment for a period not exceeding three months and a fine not exceeding two hundred dinars, or either of these two penalties.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "The Public Prosecution may issue a protection order on its own initiative or at the request of the victim, obliging the aggressor to:\nThe protection order shall not exceed one month, and the protection order may be renewed by an order of the Lower Criminal Court in the event of its violation or breach by the aggressor provided that the protection period does not exceed three months.\nWhomever violates the protection order shall be punished with imprisonment for a period not exceeding one month and a fine not exceeding one hundred dinars, or either of these two penalties.",
+      "rationale": "The framework provides a protection order mechanism, specifying the issuing authority and who may request it, the order’s duration/renewal, and a defined criminal consequence for breach.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Public Prosecution may issue a protection order on its own initiative or at the request of the victim, : يلي امب يدتعلما مزلي ،هيلع ىدتعلما نم بلط ىلع ء ً انب وأ اهسفن ءاقلت نم ةيامح رمأ رادصإ ةماعلا ةباينلل زوجي obliging the aggressor to:\n\nةيرورضلا ةيصخشلا هتاقلعتم ملاتسا نم هضوفي نم وأ هيلع ىدتعلما نيكمت .4 The protection order shall not exceed one month, and the protection order may be renewed by an order ةدم زواجتت لا نأ ىلع ةيئانجلا ىرغصلا ةمكحلما نم رمأب ةيامحلا رمأ ديدجت زوجيو ،رهش نع ةيامحلا رمأ ديزي لاأ بجيو of the Lower Criminal Court in the event of its violation or breach by the aggressor provided that the . يدتعلما نم هقرخ وأ هكاهتنا ةلاح يف كلذو رهشأ ةثلاث ةيامحلا protection period does not exceed three months.\n\nWhomever violates the protection order shall be punished with imprisonment for a period not . ةيامحلا رمأ فلاخ نم لك نيتبوقعلا نيتاه ىدحإب وأ رانيد ةئام ىلع ديزت لا ةمارغبو رهش ىلع ديزت لا ةدم سبحلاب بقاعي exceeding one month and a fine not exceeding one hundred dinars, or either of these two penalties.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police obligations and procedures for handling domestic violence reports (e.g., receiving complaints, confidentiality, transferring victims), but do not designate or mandate any specific specialised unit/desk/division within police services for VAW victims.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention general court involvement (e.g., Lower Criminal Court for renewal/grievances and bringing minors before court) and training for judges/prosecutors, but do not establish a specialised court/chamber or a specialised/expedited judicial procedure specifically for VAW cases.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the framework defines family members (including spouses) and includes “sexual abuse” within domestic violence crimes, none of the candidate sentences expressly criminalise rape/sexual assault within marriage, state that marriage is not a defence, or otherwise remove a spousal exemption from criminal liability for sexual violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "The Ministry shall work to provide services and take the following measures to limit domestic violence, in cooperation and coordination with all official institutions, each according to its jurisdiction, as follows:",
+      "rationale": "The law directs the Ministry to take measures to limit domestic violence \"in cooperation and coordination with all official institutions,\" which establishes an inter-institutional coordination requirement, but does not specify a formal coordination body, committee, or process.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Ministry shall work to provide services and take the following measures to limit domestic violence, تاسسؤلما ةفاك عم قيسنتلاو نواعتلاب ،يرسلأا فنعلا نم دحلل ةيلاتلا ريبادتلا ذاختاو تامدخلا ميدقت ىلع ةرازولا لمعت in cooperation and coordination with all official institutions, each according to its jurisdiction, as :يلاتلا وحنلا ىلع ،هصاصتخا بسح لك ةيمسرلا follows:",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "When receiving a report on domestic violence, the Public Prosecution shall issue a record containing the following data:\n11. Develop national indicators that monitor and measure cases of domestic violence, in cooperation with the relevant authorities.",
+      "rationale": "The framework assigns responsibilities related to documenting and monitoring domestic violence cases: the Public Prosecution must issue a record containing specified data when receiving a report, and the Ministry is tasked with developing national indicators to monitor and measure cases (with relevant authorities). These are operative duties concerning recording and monitoring case data.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "When receiving a report on domestic violence, the Public Prosecution shall issue a record containing :ةيلاتلا تانايبلا نمضتي ارضحم ررحت نأ ،يرسلأا فنعلا نأشب غلاب يقلت دنع ةماعلا ةباينلا ىلع بجي the following data:\n\n11. Develop national indicators that monitor and measure cases of domestic violence, in . ةينعلما تاهجلا عم نواعتلاب يرسلأا فنعلا تلااح سيقتو دصرت ةينطو تارشؤم عضو .11 cooperation with the relevant authorities.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly require or establish gender mainstreaming (or a gender mainstreaming mechanism such as focal points, working groups, or integration into planning/budgeting) for implementing domestic violence or women’s protection policies.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "7. Provide specialized training programs and lectures in the field of domestic violence to personnel in charge of enforcing this Law, and to judges and public prosecutors.",
+      "rationale": "The law provides for specialized training programs and lectures on domestic violence for personnel enforcing the law, as well as judges and public prosecutors, which is an explicit capacity-building provision for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "7. Provide specialized training programs and lectures in the field of domestic violence to ةاضقللو نوناقلا اذه ذافنإب نيفلكلما نيفظوملل يرسلأا فنعلا لاجم يف ةصصختم تارضاحمو ةيبيردت جمارب ميدقت .7 personnel in charge of enforcing this Law, and to judges and public prosecutors. . ةماعلا ةباينلا يفظومو",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "11. Develop national indicators that monitor and measure cases of domestic violence, in cooperation with the relevant authorities.",
+      "rationale": "The framework requires development of national indicators to monitor and measure cases of domestic violence, which constitutes an indicator-based monitoring mechanism (even if it does not detail a broader evaluation process of implementation/service delivery).",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "11. Develop national indicators that monitor and measure cases of domestic violence, in . ةينعلما تاهجلا عم نواعتلاب يرسلأا فنعلا تلااح سيقتو دصرت ةينطو تارشؤم عضو .11 cooperation with the relevant authorities.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe services and measures to be provided but do not include any operative provision requiring allocation of budget/funding, establishing a fund, or otherwise mandating financing for implementation.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe multiple services (shelters, counselling, legal aid, hotline) and general “cooperation and coordination” by the Ministry, but they do not explicitly establish or recognise a designated integrated/one-stop/multidisciplinary service mechanism or unit responsible for coordinating multiple services for women victims/survivors of violence. The Family Guidance Department is established for family guidance services and awareness, not as an integrated victim service mechanism.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "10. Create a hotline to receive reports and complaints about cases of domestic violence.\nThe Public Prosecution or police stations shall receive reports and complaints related to domestic violence and they shall take all necessary legal procedures.",
+      "rationale": "The framework mandates creation of a hotline to receive reports/complaints about domestic violence and also obligates designated authorities (Public Prosecution or police stations) to receive reports and complaints, which constitutes an operative reporting/help-seeking mechanism for victims/survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "10. Create a hotline to receive reports and complaints about cases of domestic violence. . يرسلأا فنعلا تلااح نع ىواكشلاو تاغلابلا يقلتل نخاس طخ ةئيهت .10\n\nThe Public Prosecution or police stations shall receive reports and complaints related to domestic تاءارجلإا عيمج ذاختا مهيلعو يرسلأا فنعلاب ةقلعتلما ىواكشلاو تاغلابلا يقلت ةطرشلا زكارم وأ ةماعلا ةباينلا ىلع بجي violence and they shall take all necessary legal procedures.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "3. Provide the necessary shelters to accommodate the victim of domestic violence crimes.\n2. Upon an order issued by the Public Prosecution, the victim shall be transferred to one of the Ministry's shelters in cases of domestic violence, especially children, as quickly as possible.",
+      "rationale": "The framework provides for shelters by requiring the Ministry to provide necessary shelters for victims of domestic violence crimes and provides an operative procedure for transferring victims to one of the Ministry’s shelters.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Provide the necessary shelters to accommodate the victim of domestic violence crimes. . يرسلأا فنعلا مئارج يف هيلع ىدتعلما ءاويلإ ةمزلالا ءاويلإا رود ريفوت .3\n\n2. Upon an order issued by the Public Prosecution, the victim shall be transferred to one of the فنعلا تلااح يف ةرازولل ةعباتلا ءاويلإا رود ىدحإ ىلإ هيلع ىدتعلما لقن متي ةماعلا ةباينلا نم رداص رمأ ىلع ء ً انب .2 Ministry's shelters in cases of domestic violence, especially children, as quickly as possible. . ةنكملما ةعرسلابو لافطلأا ةصاخبو يرسلأا",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "5. Provide legal aid to the victim when needed.",
+      "rationale": "The framework includes an operative measure requiring provision of legal aid to the victim when needed, which constitutes legal assistance for victims/survivors of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Provide legal aid to the victim when needed. . ةجاحلا دنع هيلع ىدتعملل ةينوناقلا ةدعاسلما ريفوت .5",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "1. Transfer the victim to the nearest hospital or health center for treatment, if necessary.",
+      "rationale": "The framework requires police stations, upon receiving reports of domestic violence, to transfer the victim to the nearest hospital or health center for treatment if necessary, establishing a violence-linked medical response mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Transfer the victim to the nearest hospital or health center for treatment, if necessary. . ءاضتقلاا دنع جلاعلل يحص زكرم وأ ىفشتسم برقأ ىلإ هيلع ىدتعلما لقن .1",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "4. Provide family, psychological, social and health counseling services and rehabilitation services for the victim and the aggressor.",
+      "rationale": "The framework provides for psychological and social counselling services and rehabilitation services for the victim (and aggressor), which directly covers psychosocial/psychological support services for victims/survivors of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.87,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.87
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Provide family, psychological, social and health counseling services and rehabilitation . يدتعلماو هيلع ىدتعلما ليهأت ةداعإ تامدخو يحصلاو يعامتجلااو ي سفنلاو يرسلأا داشرلإا تامدخ ريفوت .4 services for the victim and the aggressor.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences mention religious or spiritual counselling, faith-based guidance, or involvement of religious leaders/institutions in victim support services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "4. Provide family, psychological, social and health counseling services and rehabilitation services for the victim and the aggressor.",
+      "rationale": "The framework provides “rehabilitation services for the victim,” which constitutes an operative longer-term recovery/rehabilitation support measure for victims/survivors of domestic violence (even if not detailed).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Provide family, psychological, social and health counseling services and rehabilitation . يدتعلماو هيلع ىدتعلما ليهأت ةداعإ تامدخو يحصلاو يعامتجلااو ي سفنلاو يرسلأا داشرلإا تامدخ ريفوت .4 services for the victim and the aggressor.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "4. Provide family, psychological, social and health counseling services and rehabilitation services for the victim and the aggressor.",
+      "rationale": "The framework provides for “rehabilitation services for the victim and the aggressor,” which is an operative perpetrator-focused rehabilitation/intervention service (even if not described as a structured programme).",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.68,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.68
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Provide family, psychological, social and health counseling services and rehabilitation . يدتعلماو هيلع ىدتعلما ليهأت ةداعإ تامدخو يحصلاو يعامتجلااو ي سفنلاو يرسلأا داشرلإا تامدخ ريفوت .4 services for the victim and the aggressor.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "1. Work on raising public opinion on the risks and effects of domestic violence.",
+      "rationale": "The law includes an operative measure requiring the Ministry to raise public opinion about the risks and effects of domestic violence, which is an explicit awareness-raising activity directed at violence (domestic violence) as a prevention/limitation measure.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Work on raising public opinion on the risks and effects of domestic violence. . يرسلأا فنعلا راثآو رطاخمب ماعلا يأرلا ةيعوت ىلع لمعلا .1",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include awareness-raising and curriculum measures focused on renouncing domestic violence, but they do not provide information/education specifically about gender equality, non-discrimination against women, or women's rights, nor do they link such gender-equality education to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions disseminating information about services and providing legal aid, it does not specify dissemination/education about laws, regulations, policies, or legal protections related to violence against women/domestic violence as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "The Ministry of Education shall work to develop educational curricula to contribute to the promotion and dissemination of a culture of renouncing domestic violence and strengthening family ties.",
+      "rationale": "The law assigns responsibility to the Ministry of Education to develop educational curricula to promote and disseminate a culture of renouncing domestic violence, explicitly using curricula/education as a prevention-oriented measure against domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Ministry of Education shall work to develop educational curricula to contribute to the promotion طباورلا ديطوتو يرسلأا فنعلا ذبن ةفاقث رشنو زيزعت يف ةمهاسملل ميلعتلا جهانم ريوطت ىلع ميلعتلاو ةيبرتلا ةرازو لمعت and dissemination of a culture of renouncing domestic violence and strengthening family ties.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide general public awareness measures and services for victims and aggressors, but they do not establish prevention activities specifically targeting or engaging men and/or boys (e.g., norm-change, positive masculinity, or male-focused prevention programmes) to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to cooperation/coordination with “all official institutions” and to licensing/inspection of (private) family guidance centers, but they do not explicitly establish or require collaboration with civil society organisations/NGOs as such in preventing or responding to domestic violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text references Sharia'a-based marriage and mentions the Minister of Justice, Islamic Affairs and Endowments, it does not establish or require engagement/collaboration with religious leaders/organisations or traditional/cultural leaders/organisations in domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The law assigns an action to the Ministry of Education to develop curricula related to renouncing domestic violence, but it does not establish engagement or collaboration with education institutions (e.g., schools/universities) as partners, nor a coordination mechanism with such institutions. References to “educational profession” relate to mandatory reporting, not institutional collaboration.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The preambular references to accession to international conventions (e.g., CEDAW, CRC) do not establish any operative cooperation mechanism with international organisations on domestic violence, and no other cited sentence provides for collaboration with international bodies.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provisions include general measures such as raising public opinion and disseminating information/data, but they do not identify media organisations/actors as partners or establish any media-specific engagement mechanism for domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes awareness-raising and information dissemination by the Ministry, and it requires certain persons to report domestic violence incidents, but it does not establish community participation/collaboration mechanisms or identify communities/community organisations as partners. The coding rules also specify not to infer community engagement merely from reporting requirements.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not establish or require engagement with businesses/employers/private-sector actors in domestic violence prevention or response. While the law regulates licensing of private family guidance centers, it does not frame this as private-sector partnership/engagement for VAW/DV measures.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe responsibilities of national ministries and other institutions to provide services and implement the law, but they do not mention any funding or budget source, nor any allocation from local government budgets.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text assigns duties to the Ministry and other national bodies to provide shelters, services, training, and other measures, it does not explicitly reference any national government budget, funding allocation, or budget source for these activities.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international elements in the candidate sentences are references to international conventions in the law’s preamble, but there is no explicit mention of international assistance, donor funding, international organizations’ participation, or other international support for implementation or services.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain definitions, institutional responsibilities, procedures, and penalties, but do not identify any funding or budget sources from other legal sources (e.g., earmarked fees, fines as funding streams, special funds, or other non-budget legal financing mechanisms).",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention provinces, governorates, or any provincial-level budget or financing source; they focus on national ministries and law enforcement/prosecution procedures without budget provisions.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 21,
+    "resolved": 21,
+    "rate": 1.0
+  }
+}

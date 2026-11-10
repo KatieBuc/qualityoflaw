@@ -1,0 +1,959 @@
+{
+  "policy_file": "119. Nepal - DomViol - English (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T16:39:03.847548+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n3. Domestic Violence not to be committed: (1) No one shall commit; or aid or abet; or incite for the commission of for the act of domestic violence.",
+      "rationale": "The policy contains operative provisions that define “Domestic Violence” and explicitly prohibit its commission, making it an offence under the Act.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n\n3. Domestic Violence not to be committed: (1) No one shall commit; or aid or abet; or incite for the commission of for the act of domestic violence.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n(e) \"Sexual harm\" means sexual misbehaviour, humiliation, discouragement or harm in self respect of any person; or any other act that hampers safe sexual health.",
+      "rationale": "The framework includes sexual harm within the operative definition of domestic violence and provides an operative definition of “Sexual harm,” thereby substantively covering sexual violence within the Act’s scope.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n\n(e) \"Sexual harm\" means sexual misbehaviour, humiliation, discouragement or harm in self respect of any person; or any other act that hampers safe sexual health.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n(c) \"Physical harm\" means an act of committing or causing bodily harm or injury holding as a captive, inflicting physical pain or any other act connected therewith and incidental thereto except the act of breaking the limbs of body (Angabhanga).",
+      "rationale": "The Act includes physical harm within the operative definition of domestic violence and provides an operative definition of “Physical harm,” indicating substantive coverage of physical violence/abuse within its legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n\n(c) \"Physical harm\" means an act of committing or causing bodily harm or injury holding as a captive, inflicting physical pain or any other act connected therewith and incidental thereto except the act of breaking the limbs of body (Angabhanga).",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n(d) \"Mental harm\" means any act of threatening the Victim of physical torture, showing terror, reprimanding him/her, accusing him/her of false blame, forcefully evicting him/her from the house or otherwise causing injury or harm to the Victim emotionally and this expression also includes any discrimination carried out on the basis of thought, religion or culture and customs and traditions.",
+      "rationale": "The Act includes mental harm within the operative definition of domestic violence and defines “Mental harm” in operative provisions, which substantively addresses psychological/emotional violence.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n\n(d) \"Mental harm\" means any act of threatening the Victim of physical torture, showing terror, reprimanding him/her, accusing him/her of false blame, forcefully evicting him/her from the house or otherwise causing injury or harm to the Victim emotionally and this expression also includes any discrimination carried out on the basis of thought, religion or culture and customs and traditions.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n(f) \"Economic harm\" means deprivation from using jointly or privately owned properly or deprivation of or access to employment opportunities, economic resources or means.",
+      "rationale": "The Act includes economic harm within the operative definition of domestic violence and defines “Economic harm” as deprivation of property use or access to employment/economic resources, which constitutes substantive coverage of economic violence/abuse.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) \"Domestic Violence\" means any form of physical, mental, sexual and economic harm perpetrated by person to a person with whom he/she has a family relationship and this word also includes any acts of reprimand or emotional harm.\n\n(f) \"Economic harm\" means deprivation from using jointly or privately owned properly or deprivation of or access to employment opportunities, economic resources or means.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence and related harms but do not mention or regulate harmful practices such as child/early marriage, FGM/C, honour crimes, or female infanticide in either operative provisions or preambular references.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, classification, or monitoring measures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of human trafficking/trafficking in persons or trafficking victims, and the provisions shown relate only to domestic violence processes and remedies.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the Act defines “Sexual harm,” the candidate sentences do not mention sexual exploitation, sexual slavery, forced prostitution, or any explicit sexual-exploitation nexus required by the criterion.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention cyber/online/digital forms of violence or technology-facilitated abuse; references are limited to general domestic-violence provisions without a technology component.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Penalty: (1) A person who commits an act of domestic violence shall be punished with a fine of Three Thousand Rupees upto Twenty Five Thousand Rupees or Six months of imprisonment or both.\n(2) A person who commits an act pursuant to Sub-section (1) shall be deemed to have committed an offence under this Act.",
+      "rationale": "The candidate sentences explicitly deem commission of domestic violence to be an offence under the Act and attach specific criminal sanctions (fine and/or imprisonment) for committing domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "13. Penalty: (1) A person who commits an act of domestic violence shall be punished with a fine of Three Thousand Rupees upto Twenty Five Thousand Rupees or Six months of imprisonment or both. (2) A person who attempts to commit domestic violence or abets the crime or incites others to commit the crime shall be liable to half the punishment of the perpetrator. (3) A person who has been punished once for the offence of domestic violence shall be liable to double the punishment upon every repetition of the offence. (4) If a person holing a public post who commits the offence of domestic violence, he/she shall be liable to an additional ten percent punishment.\n\n(2) A person who commits an act pursuant to Sub-section (1) shall be deemed to have committed an offence under this Act.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions that an interim protection order may be granted by the Court, the provided candidate sentences do not specify all required elements under the coding rules (notably, no stated duration beyond a general reference to the period until final decision, and no defined consequence for breach is provided in the shown text).",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "Yes",
+      "evidence": "(i) \"Police Office\" means a Police Office closest to the residence of the Victim, the perpetrator or that office which is closest to the scene of crime and this word also includes the Children or Women Cell or",
+      "rationale": "The definition of “Police Office” expressly includes a “Children or Women Cell,” which indicates a designated unit/desk within police services relevant to handling women-related cases.",
+      "coverage": "Referenced only",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "(i) \"Police Office\" means a Police Office closest to the residence of the Victim, the perpetrator or that office which is closest to the scene of crime and this word also includes the Children or Women Cell or",
+      "evidence_original_aligned": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to a “Court” appointed by government and to use of summary procedure and in camera proceedings, but they do not designate a specialised court/chamber/judicial officer or a specialised/fast-track mechanism specifically for violence against women cases as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence to include sexual harm and provide penalties for domestic violence generally, but they do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital exemption for sexual violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "4. Filing of complaint: (1) A person who has knowledge of an act of domestic violence has been committed, or is being committed, or likely to be committed, may lodge a written or oral complaint setting out the details thereof, with the Police Office, National Women Commission or Local body.\n(7) If it is found necessary, to provide protection to Victim and his/her dependants from the preliminary investigation on the complaint pursuant to Sub-section (1) of section 4, it shall be provided with immediately with the assistance of the Police Office.\nIf the medical report is caused to be prepared by the Local Body, a copy of it shall be sent to the Police Station.",
+      "rationale": "The Act provides for multiple entities to receive complaints (Police Office, National Women Commission, Local Body), and includes operative provisions requiring interaction/assistance and information-sharing between entities (e.g., protection provided with assistance of the Police Office; medical report copy sent to Police Station). This goes beyond assigning isolated responsibilities and reflects inter-agency coordination in implementation/response, though it does not create a standalone coordinating body.",
+      "coverage": "Referenced only",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Filing of complaint: (1) A person who has knowledge of an act of domestic violence has been committed, or is being committed, or likely to be committed, may lodge a written or oral complaint setting out the details thereof, with the Police Office, National Women Commission or Local body.\n\n(7) If it is found necessary, to provide protection to Victim and his/her dependants from the preliminary investigation on the complaint pursuant to Sub-section (1) of section 4, it shall be provided with immediately with the assistance of the Police Office.\n\nIf the medical report is caused to be prepared by the Local Body, a copy of it shall be sent to the Police Station.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or mandate any system/entity responsible for collecting, recording, monitoring, reporting, managing, or exchanging data on domestic violence cases or victims. The only potentially related provision concerns sending a copy of a medical report to a police station, which is case-document transmission rather than a mandated data collection/management system or assigned data responsibility as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention gender mainstreaming or establish any gender mainstreaming mechanism (e.g., focal points, working groups, mainstreaming in planning/budgeting) for implementing women’s protection or VAW policies/programs. The text focuses on complaint procedures, protection orders, service centers, and penalties without gender-mainstreaming provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no explicit mandate or provision for training, technical guidance, or capacity building for officials or service providers implementing the Act. References to involving professionals (e.g., psychologist/sociologist) do not constitute a training requirement for implementing personnel.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention monitoring and evaluation of implementation or service delivery, nor do they establish any monitoring mechanism, reporting requirement, or responsible body for M&E under the Act. The only appearance of the word “monitoring” is in relation to service centre management being “as prescribed,” which does not establish an M&E mechanism for VAW policy implementation in the provided text.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "12. Service Fund: (1) The Government of Nepal shall establish a Service Fund for the operation of Service Centers established pursuant to Sub-section (1) of Section\n(a) The amount received from the Government of Nepal,",
+      "rationale": "The Act includes an operative provision that the Government of Nepal shall establish a Service Fund for operating Service Centers, and specifies that the fund consists of amounts received from the Government of Nepal (among other sources). This constitutes a designated funding mechanism tied to implementation of response services (service centers).",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "12. Service Fund: (1) The Government of Nepal shall establish a Service Fund for the operation of Service Centers established pursuant to Sub-section (1) of Section 11. (2) The fund shall consist of the following amounts established pursuant to Sub-section (1):\n\n(a) The amount received from the Government of Nepal,",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "11. Service Centre: (1) The Government of Nepal, as per necessity, may establish Service Centers for the purpose of immediate protection of the Victim, and for the separate accommodation of the Victim during the course of treatment.\n12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "rationale": "The Act provides for establishment of “Service Centers” for immediate protection and separate accommodation, and assigns these centres multiple victim-support functions including legal aid and psycho-consultation/psychological services, which constitutes an integrated service mechanism for victims (including women victims/survivors of domestic violence).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "11. Service Centre: (1) The Government of Nepal, as per necessity, may establish Service Centers for the purpose of immediate protection of the Victim, and for the separate accommodation of the Victim during the course of treatment.\n\n(3) Service Centers operating pursuant to Sub-section (2) may be given financial and other aid from the Fund established under Section 12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "4. Filing of complaint: (1) A person who has knowledge of an act of domestic violence has been committed, or is being committed, or likely to be committed, may lodge a written or oral complaint setting out the details thereof, with the Police Office, National Women Commission or Local body.",
+      "rationale": "The Act establishes an operative complaint-filing mechanism by specifying designated authorities/institutions (Police Office, National Women Commission, Local body) with whom a complaint may be lodged, which is a reporting/help-seeking mechanism for victims/survivors of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Filing of complaint: (1) A person who has knowledge of an act of domestic violence has been committed, or is being committed, or likely to be committed, may lodge a written or oral complaint setting out the details thereof, with the Police Office, National Women Commission or Local body.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "11. Service Centre: (1) The Government of Nepal, as per necessity, may establish Service Centers for the purpose of immediate protection of the Victim, and for the separate accommodation of the Victim during the course of treatment.",
+      "rationale": "The Act authorises establishment of Service Centers explicitly for immediate protection and for separate accommodation of the victim during treatment, which constitutes provision for safe accommodation/residential protection for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "11. Service Centre: (1) The Government of Nepal, as per necessity, may establish Service Centers for the purpose of immediate protection of the Victim, and for the separate accommodation of the Victim during the course of treatment.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "rationale": "The Act assigns Service Centres the function to provide, as necessary, “legal aid” to the victim, which is an operative provision for legal assistance to victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Service Centers operating pursuant to Sub-section (2) may be given financial and other aid from the Fund established under Section 12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(6) If the Victim has been physically wounded or mentally tortured as a result of the act of domestic violence, he/she shall be immediately sent to the nearest hospital or health post for necessary check-up and an injury report shall be drawn up.\n9. Perpetrator to bear expenses of treatment: (1) The total costs of treatment of the victim of the domestic violence, who has sustained physical or mental injuries so as to require medical help in the hospital, shall be borne by the perpetrator.",
+      "rationale": "The Act requires that a victim who is physically wounded or mentally tortured be immediately sent to the nearest hospital/health post for check-up and an injury report, and it also addresses payment of treatment costs for victims requiring medical help in hospital—together establishing a violence-linked medical response for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) If the Victim has been physically wounded or mentally tortured as a result of the act of domestic violence, he/she shall be immediately sent to the nearest hospital or health post for necessary check-up and an injury report shall be drawn up.\n\n9. Perpetrator to bear expenses of treatment: (1) The total costs of treatment of the victim of the domestic violence, who has sustained physical or mental injuries so as to require medical help in the hospital, shall be borne by the perpetrator.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "rationale": "The Act provides that Service Centres shall provide psycho-consultation and psychological services to the victim as necessary, which directly constitutes psychosocial/psychological support services for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Service Centers operating pursuant to Sub-section (2) may be given financial and other aid from the Fund established under Section 12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish or mention any religious/spiritual counselling, faith-based guidance, or involvement of religious leaders/institutions in victim support services.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "rationale": "The Act provides that Service Centres shall provide economic aid (alongside other services) to the victim as necessary, which is a form of longer-term support beyond immediate protection and can support recovery/reintegration.",
+      "coverage": "Substantive",
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Service Centers operating pursuant to Sub-section (2) may be given financial and other aid from the Fund established under Section 12. (4) The Service Centre shall provide, as per necessity, legal aid, psycho-consultation service, psychological Service and economic aid to the Victim.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on complaint procedures, protection orders, victim services, and penalties, but do not establish or mandate any perpetrator-focused intervention, counselling, treatment, rehabilitation, or behaviour-change programme.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe the purpose of the Act (to prevent/control domestic violence), define domestic violence, and set out complaint, protection, service-centre, and penalty procedures. None of the candidate sentences include operative provisions requiring or providing information, awareness-raising, communication, campaigns, or education activities specifically about violence against women/domestic violence as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not include any operative requirement for information/education/awareness activities about gender equality or women’s rights, nor do they explicitly link any such educational activity to preventing violence against women. The text focuses on defining domestic violence and establishing complaint, protection, service, and punishment mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the excerpt sets out legal rules and procedures on domestic violence, none of the candidate sentences provide for dissemination, public legal-awareness, education, or communication activities about these laws/policies/legal protections as a prevention strategy. The content is primarily substantive/procedural law and services, not public information measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There are no candidate sentences that mention education systems, educational institutions, curricula, teaching materials, or improving education quality as measures linked to preventing violence against women. The excerpt concerns domestic violence definitions, complaint handling, protection orders, service centres, and penalties.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not describe any prevention programmes or activities specifically engaging men or boys (e.g., norm-change, positive masculinity, targeted campaigns/training) to prevent violence against women. The text addresses offences, procedures, protection, and services without targeted engagement measures.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(2) For the purpose of Sub-section (1), an organization may establish and operate Service Centers upon receiving approval as prescribed.",
+      "rationale": "The Act provides an operative mechanism allowing an organization (which can include civil society/NGO actors) to establish and operate Service Centers upon receiving approval, which constitutes authorised participation in VAW-related service delivery/response.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) For the purpose of Sub-section (1), an organization may establish and operate Service Centers upon receiving approval as prescribed.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only mention related to religion/culture is within the definition of mental harm referencing discrimination based on religion/culture/customs, but there is no operative provision establishing or requiring engagement or collaboration with religious or traditional/cultural leaders or organisations for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of schools, universities, or other education institutions being engaged as partners or assigned responsibilities in preventing or responding to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the Act allows the Service Fund to receive amounts from national or foreign organizations/institutions/individuals, it does not establish or require cooperation with international organisations specifically for VAW prevention/response, nor does it set out a collaboration mechanism with international organisations.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify media organisations/actors as partners, nor do they establish any media-related responsibilities, guidelines, or mechanisms for VAW prevention, awareness, or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the Act allows any person with knowledge of domestic violence to lodge a complaint, the coding rules exclude inferring community engagement merely from reporting provisions, and there is no other operative mechanism establishing community participation or mobilisation in VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, or private-sector actors as partners or participants in VAW prevention or response, nor do they establish any private-sector engagement mechanism.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention roles for Local Body officers and procedures involving local bodies, but they do not specify any local government budget or local budgetary funding source for services or implementation.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "12. Service Fund: (1) The Government of Nepal shall establish a Service Fund for the operation of Service Centers established pursuant to Sub-section (1) of Section\n(a) The amount received from the Government of Nepal,",
+      "rationale": "The policy establishes a Service Fund and explicitly includes amounts received from the Government of Nepal as a source for that fund, which constitutes a national government funding source.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "12. Service Fund: (1) The Government of Nepal shall establish a Service Fund for the operation of Service Centers established pursuant to Sub-section (1) of Section 11. (2) The fund shall consist of the following amounts established pursuant to Sub-section (1):\n\n(a) The amount received from the Government of Nepal,",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "(b) The amount received from any national or foreign organization, institution or individual,",
+      "rationale": "The Service Fund is stated to include amounts received from national or foreign organizations/institutions/individuals, which is an explicit reference to foreign (international) sources of support for the fund linked to service centers for victim protection.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(b) The amount received from any national or foreign organization, institution or individual,",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(c) The amount received from any other source.",
+      "rationale": "The Service Fund is described as consisting of multiple sources including amounts received from “any other source,” which functions as an explicit catch-all funding source beyond specified government and (national/foreign) organizational contributions.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) The amount received from any other source.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention provinces or any provincial government budget as a funding source; they only reference the Government of Nepal and local bodies in administrative roles.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 20,
+    "resolved": 20,
+    "rate": 1.0
+  }
+}

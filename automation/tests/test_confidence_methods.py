@@ -100,7 +100,9 @@ def test_verbalized_works_without_logprobs_at_all():
     attach_confidence(by_id, [], spec, logprobs_available=False)
 
     assert by_id["1.1"]["confidence"] == 0.6
-    assert by_id["1.1"]["answer_logprob"] is None
+    # Verbalized-only reports carry no token-probability fields.
+    for key in ("answer_logprob", "p_yes", "p_no", "margin", "margin_counterpart_observed"):
+        assert key not in by_id["1.1"]
 
 
 def test_unaligned_and_unavailable_are_distinguished():

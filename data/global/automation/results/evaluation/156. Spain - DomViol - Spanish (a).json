@@ -1,0 +1,984 @@
+{
+  "policy_file": "156. Spain - DomViol - Spanish (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:40:28.420776+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Code, or Law 27/2003, of 31 July, regulating the Protection Order for Victims of Domestic Violence; in addition to laws approved by various Autonomous\n3. The action of the Security Forces and Corps shall take into account the Protocol of Action of the Security Forces and Corps and of Coordination with the Judicial Bodies for the protection against domestic and gender violence.",
+      "rationale": "The candidate sentences explicitly reference “Domestic Violence” in connection with an operative legal instrument (a law regulating protection orders for victims of domestic violence) and also refer to an operational protocol for protection against “domestic and gender violence” used by security forces, indicating the framework addresses domestic violence beyond mere background mention.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "Penal, o la Ley 27/2003, de 31 de julio, reguladora de la Orden de Protección de las Víctimas de la Violencia Doméstica; además de las leyes aprobadas por diversas Comunidades\n\n3. La actuación de las Fuerzas y Cuerpos de Seguridad habrá de tener en cuenta el Protocolo de Actuación de las Fuerzas y Cuerpos de Seguridad y de Coordinación con los Órganos Judiciales para la protección de la violencia doméstica y de género.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "3. The gender-based violence referred to in this Law includes every act of physical and psychological violence, including assaults on sexual freedom, threats, coercion or arbitrary deprivation of liberty.",
+      "rationale": "The operative definition of gender-based violence explicitly includes “assaults on sexual freedom,” which constitutes inclusion of sexual violence within the scope of covered violence with legal consequences under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "3. The gender-based violence referred to in this Law includes every act of physical and psychological violence, including assaults on sexual freedom, threats, coercion or arbitrary deprivation of liberty.\nAnyone who by any means or procedure causes another person psychological harm or an injury not defined as a crime in this Code, or strikes or physically mistreats another without causing injury, when the victim is or has been the spouse, or a woman who is or has been linked to him by an analogous relationship of affection even without cohabitation, or a particularly vulnerable person living with the perpetrator, shall be punished with a prison sentence of six months to one year or community service of thirty-one to eighty days and, in all cases, deprivation of the right to possess and carry weapons from one year and one day to three years, as well as, when the Judge or Court deems it appropriate to the interest of the minor or",
+      "rationale": "The law’s operative scope includes “physical … violence,” and the criminal provisions criminalize physically striking or physically mistreating another person in specified intimate/household contexts, demonstrating substantive legal coverage of physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.\n\nEl que por cualquier medio o procedimiento causare a otro menoscabo psíquico o una lesión no definidos como delito en este Código, o golpeare o maltratare de obra a otro sin causarle lesión, cuando la ofendida sea o haya sido esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, o persona especialmente vulnerable que conviva con el autor, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficios de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "3. The gender-based violence referred to in this Law includes every act of physical and psychological violence, including assaults on sexual freedom, threats, coercion or arbitrary deprivation of liberty.\nAnyone who by any means or procedure causes another person psychological harm or an injury not defined as a crime in this Code, or strikes or physically mistreats another without causing injury, when the victim is or has been the spouse, or a woman who is or has been linked to him by an analogous relationship of affection even without cohabitation, or a particularly vulnerable person living with the perpetrator, shall be punished with a prison sentence of six months to one year or community service of thirty-one to eighty days and, in all cases, deprivation of the right to possess and carry weapons from one year and one day to three years, as well as, when the Judge or Court deems it appropriate to the interest of the minor or",
+      "rationale": "The operative definition includes “psychological violence,” and the criminal provision explicitly penalizes causing “psychological harm” in the covered relationship contexts, meeting the criterion for substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.\n\nEl que por cualquier medio o procedimiento causare a otro menoscabo psíquico o una lesión no definidos como delito en este Código, o golpeare o maltratare de obra a otro sin causarle lesión, cuando la ofendida sea o haya sido esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, o persona especialmente vulnerable que conviva con el autor, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficios de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Within the framework of protection against economic violence under the terms provided in this law, the State shall guarantee the payment of recognised and unpaid maintenance in favour of minor sons and daughters in judicially approved agreement or judicial resolution, through specific legislation that shall specify the coverage system in said cases and which, in any case, shall take into account the circumstances of victims of gender-based violence.\nTo reinforce the support measures for victims of economic violence, the Government shall modify the current regulation of the Guarantee Fund for Pensions in order to improve its accessibility, its effectiveness and its economic allocation, through the amendment of Royal Decree 1618/2007, of 7 December, on the organisation and operation of the Guarantee Fund for the Payment of Maintenance.",
+      "rationale": "The framework explicitly refers to “protection against economic violence” and establishes state measures (maintenance payment guarantee and reform of a guarantee fund) to support victims of economic violence, indicating economic violence is recognized and addressed with concrete legal/administrative consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "En el marco de la protección contra la violencia económica en los términos previstos en esta ley, el Estado garantizará el pago de alimentos reconocidos e impagados a favor de los hijos e hijas menores de edad en convenio judicialmente aprobado o en resolución judicial, a través de una legislación específica que concretará el sistema de cobertura en dichos supuestos y que, en todo caso, tendrá en cuenta las circunstancias de las víctimas de violencia de género.\n\nPara reforzar las medidas de apoyo a las víctimas de violencia económica, el Gobierno modificará la regulación actual del Fondo de Garantía de Pensiones en el sentido de mejorar su accesibilidad, su eficacia y su dotación económica, a través de la modificación del Real Decreto 1618/ 2007, de 7 de diciembre, sobre organización y funcionamiento del Fondo de Garantía del Pago de Alimentos.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the framework addresses gender-based violence generally (e.g., courts/prosecutors, protection orders, victim services), but it does not mention or regulate any of the specified harmful practices (child/early marriage, FGM/C, honour crimes, female infanticide) or similar practices. Without any explicit mention of a harmful practice in operative or preambular text, the criterion is not met.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to homicide in general (e.g., jurisdiction over homicide cases; pension consequences after homicide convictions), but they do not use or define femicide/feminicide (or an equivalent term) nor establish femicide-specific aggravation, classification, prevention/monitoring mechanisms, or institutional measures explicitly tied to gender-motivated killing of women. Therefore, femicide/feminicide does not appear in the provided text.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on gender-based violence in intimate-partner contexts and related institutional/judicial measures. There is no mention of human trafficking/trafficking in persons, trafficking-related exploitation, or trafficking victims as a protected group. Under the coding rules, general victim protection without any trafficking reference is insufficient.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references “assaults on sexual freedom” as part of gender-based violence, it does not mention sexual exploitation, sexual slavery, forced prostitution, or any explicit sexual-exploitation nexus (definitions, criminalisation, or targeted services). The provided provisions relate to violence, threats, coercion, and procedural protections, not sexual exploitation/slavery as defined by the criterion.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "restoration of their dignity and reputation, the overcoming of any situation of stigmatization and the right to deletion applied to Internet search engines and public dissemination media.",
+      "rationale": "The framework includes an operative victim-focused measure addressing online harms by providing for a “right to deletion applied to Internet search engines and public dissemination media,” which directly targets a digital/online dimension of harm and remedy connected to violence against women. This goes beyond merely using technology for service delivery and substantively addresses an online aspect of victim protection/remedy.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "restablecimiento de su dignidad y reputación, la superación de cualquier situación de estigmatización y el derecho de supresión aplicado a buscadores en Internet y medios de difusión públicos.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Anyone who by any means or procedure causes another person psychological harm or an injury not defined as a crime in this Code, or strikes or physically mistreats another without causing injury, when the victim is or has been the spouse, or a woman who is or has been linked to him by an analogous relationship of affection even without cohabitation, or a particularly vulnerable person living with the perpetrator, shall be punished with a prison sentence of six months to one year or community service of thirty-one to eighty days and, in all cases, deprivation of the right to possess and carry weapons from one year and one day to three years, as well as, when the Judge or Court deems it appropriate to the interest of the minor or",
+      "rationale": "The framework includes operative criminal-code language defining an offence (physical/psychological harm or physical mistreatment against a spouse/ex-partner) and specifies criminal sanctions including imprisonment and other penalties, satisfying the requirement for criminal penalties for at least one form of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "El que por cualquier medio o procedimiento causare a otro menoscabo psíquico o una lesión no definidos como delito en este Código, o golpeare o maltratare de obra a otro sin causarle lesión, cuando la ofendida sea o haya sido esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, o persona especialmente vulnerable que conviva con el autor, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficios de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text provides for restraining/protective measures and indicates a judge may order them and warns of criminal liability for breach, the candidate sentences do not specify who may apply for a protection/restraining order as required by the coding rules (victim/police/prosecutor on victim’s behalf), nor do they set out a defined application process covering all required elements in one mechanism description.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "Yes",
+      "evidence": "1. The Government shall establish, in the State Security Forces and Corps, specialised units in the prevention of gender violence and in monitoring the execution of judicial measures adopted.",
+      "rationale": "An operative provision mandates that the Government establish specialised units within the State Security Forces and Corps for prevention of gender violence and monitoring execution of judicial measures, which constitutes a designated specialised unit within police services for VAW-related functions.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. El Gobierno establecerá, en las Fuerzas y Cuerpos de Seguridad del Estado, unidades especializadas en la prevención de la violencia de género y en el control de la ejecución de las medidas judiciales adoptadas.",
+      "evidence_original_aligned": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "In each judicial district there shall be one or more Courts of Violence against Women, with headquarters in the capital thereof and jurisdiction over its entire territorial area.",
+      "rationale": "The framework expressly establishes dedicated Courts of Violence against Women in each judicial district, which is a specialised judicial mechanism for VAW cases.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "En cada partido habrá uno o más Juzgados de Violencia sobre la Mujer, con sede en la capital de aquél y jurisdicción en todo su ámbito territorial.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference crimes against sexual freedom/indemnity within the jurisdiction of specialised courts and define gender-based violence as including assaults on sexual freedom, but they do not contain an operative provision expressly criminalising rape/sexual assault within marriage/intimate partnerships or explicitly removing any spousal exemption for sexual offences, as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "1. The public authorities shall prepare collaboration plans that guarantee the coordination of their actions in the prevention, assistance and prosecution of acts of gender violence, which must involve the health administrations, the Administration of Justice, the Security Forces and Corps and the social services and equality bodies.\n2. In development of such plans, action protocols shall be articulated that determine the procedures that ensure a global and comprehensive action of the different administrations and services involved, and that guarantee the evidential activity in the proceedings that follow.",
+      "rationale": "The cited provisions require public authorities to prepare collaboration plans guaranteeing coordination across multiple sectors (health, justice, security forces, social services, equality bodies) and to develop action protocols setting procedures for comprehensive action across administrations and services, which constitutes a formal coordination mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Los poderes públicos elaborarán planes de colaboración que garanticen la ordenación de sus actuaciones en la prevención, asistencia y persecución de los actos de violencia de género, que deberán implicar a las administraciones sanitarias, la Administración de Justicia, las Fuerzas y Cuerpos de Seguridad y los servicios sociales y organismos de igualdad.\n\n2. En desarrollo de dichos planes, se articularán protocolos de actuación que determinen los procedimientos que aseguren una actuación global e integral de las distintas administraciones y servicios implicados, y que garanticen la actividad probatoria en los procesos que se sigan.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "2. The State Observatory on Violence against Women shall submit to the Government and to the Autonomous Communities, annually, a report on the evolution of violence against women as referred to in Article 1 of this Law, with determination of the criminal types that have been applied, and the effectiveness of the measures agreed for the protection of victims.",
+      "rationale": "The framework assigns the State Observatory on Violence against Women the duty to submit an annual report on the evolution of violence against women, including information on applied criminal types and effectiveness of protection measures, which is an explicit reporting/data function on violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. El Observatorio Estatal de Violencia sobre la Mujer remitirá al Gobierno y a las Comunidades Autónomas, con periodicidad anual, un informe sobre la evolución de la violencia ejercida sobre la mujer en los términos a que se refiere el artículo 1 de la presente Ley, con determinación de los tipos penales que se hayan aplicado, y de la efectividad de las medidas acordadas para la protección de las víctimas.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "k) Guarantee the principle of mainstreaming of measures, so that in their application the specific needs and demands of all women victims of gender-based violence are taken into account.",
+      "rationale": "The guiding principles explicitly state a requirement to guarantee the principle of mainstreaming of measures so that, in application, the specific needs and demands of all women victims are taken into account, which is an explicit mainstreaming requirement in the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "k) Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género.",
+      "evidence_original_aligned": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "equality and non-discrimination on grounds of sex and on gender-based violence in the training courses for Judges and Magistrates, Prosecutors, Court Clerks, Security Forces and Bodies and Forensic Doctors.",
+      "rationale": "The framework requires the Government, the General Council of the Judiciary, and autonomous communities to ensure specific training on equality/non-discrimination and gender-based violence in training courses for key implementing actors (judges, prosecutors, court clerks, security forces, forensic doctors), which is a clear mandate for capacity building of responsible personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "igualdad y no discriminación por razón de sexo y sobre violencia de género en los cursos de formación de Jueces y Magistrados, Fiscales, Secretarios Judiciales, Fuerzas y Cuerpos de Seguridad y Médicos Forenses.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Government, in collaboration with the Autonomous Communities, three years after the entry into force of this Organic Law shall prepare and submit to the Congress of Deputies a report evaluating the effects of its application in the fight against gender-based violence.",
+      "rationale": "The framework requires the Government, in collaboration with the Autonomous Communities, to prepare and submit to the Congress a report evaluating the effects of the law’s application in the fight against gender-based violence, establishing an evaluation mechanism for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Gobierno, en colaboración con las Comunidades Autónomas, a los tres años de la entrada en vigor de esta Ley Orgánica elaborará y remitirá al Congreso de los Diputados un informe en el que se hará una evaluación de los efectos de su aplicación en la lucha contra la violencia de género.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "1. From the responsibility of the State Government and immediately upon the entry into force of this law, with the corresponding budgetary allocation, a State Plan for Awareness and Prevention of Gender-Based Violence shall be launched on a permanent basis that shall include at least the following elements:",
+      "rationale": "The framework provides that a State Plan for Awareness and Prevention of Gender-Based Violence shall be launched “with the corresponding budgetary allocation,” indicating a required budget allocation tied to implementation of prevention activities under the plan.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Desde la responsabilidad del Gobierno del Estado y de manera inmediata a la entrada en vigor de esta ley, con la consiguiente dotación presupuestaria, se pondrá en marcha un Plan Estatal de Sensibilización y Prevención de la Violencia de Género con carácter permanente que como mínimo recoja los siguientes elementos:",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "1. Women victims of gender-based violence have the right to social care services, emergency services, support and shelter services, and comprehensive recovery services.\n3. The services shall adopt organizational formulas that, through the specialization of their personnel, through their characteristics of convergence and integration of actions, guarantee the effectiveness of the indicated principles, ensuring, in any case, the availability, accessibility, and quality thereof.\n4. These services shall act in coordination and collaboration with the Security Forces, the Courts on Violence against Women, the health services, and the institutions responsible for providing legal assistance to victims in the corresponding geographic area CONSOLIDATED LEGISLATION.",
+      "rationale": "The cited operative provisions establish a right to comprehensive care through social services that include multiple forms of support, require organizational formulas characterized by convergence/integration of actions, and mandate coordination/collaboration with security forces, courts, health services, and legal assistance institutions—together constituting an integrated/multidisciplinary service mechanism for women victims of gender-based violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Las mujeres víctimas de violencia de género tienen derecho a servicios sociales de atención, de emergencia, de apoyo y acogida y de recuperación integral.\n\n3. Los servicios adoptarán fórmulas organizativas que, por la especialización de su personal, por sus características de convergencia e integración de acciones, garanticen la efectividad de los indicados principios, asegurando, en todo caso, la disponibilidad, accesibilidad y calidad de los mismos.\n\n4. Estos servicios actuarán coordinadamente y en colaboración con los Cuerpos de Seguridad, los Juzgados de Violencia sobre la Mujer, los servicios sanitarios y las instituciones encargadas de prestar asistencia jurídica a las víctimas del ámbito geográfico LEGISLACIÓN CONSOLIDADA correspondiente.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "3. Information and guidance services, immediate psychosocial care, telephone and online, 24-hour legal advice, reception services and comprehensive social assistance\nconsisting of legal, psychological and social guidance for victims of violence against women shall have the character of essential services.",
+      "rationale": "The cited operative provision characterizes as essential services for victims of violence against women: information and guidance services, immediate psychosocial care (including telephone and online), and 24-hour legal advice—providing a concrete help-seeking mechanism through which victims can seek assistance and emergency support.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Los servicios de información y orientación, atención psicosocial inmediata, telefónica y en línea, asesoramiento jurídico 24 horas, los servicios de acogida y asistencia social\n\nintegral, consistentes en orientación jurídica, psicológica y social destinadas a las víctimas de violencias contra las mujeres tendrán carácter de servicios esenciales.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "1. Women victims of gender-based violence have the right to social care services, emergency services, support and shelter services, and comprehensive recovery services.",
+      "rationale": "The cited operative provision explicitly includes “shelter services” among the social care services to which women victims of gender-based violence have a right, which constitutes provision/recognition of shelter or safe accommodation within the victim-support framework.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Las mujeres víctimas de violencia de género tienen derecho a servicios sociales de atención, de emergencia, de apoyo y acogida y de recuperación integral.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "1. Victims of gender-based violence have the right to receive free legal advice in the moment immediately prior to filing a complaint, and to free defense and representation by a lawyer and attorney in all processes and administrative proceedings that have direct or indirect cause in the violence suffered.",
+      "rationale": "The cited operative provision explicitly grants victims of gender-based violence the right to free legal advice prior to filing a complaint and to free defense and representation by a lawyer and attorney in relevant processes and proceedings, thereby providing legal assistance/legal aid for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Las víctimas de violencia de género tienen derecho a recibir asesoramiento jurídico gratuito en el momento inmediatamente previo a la interposición de la denuncia, y a la defensa y representación gratuitas por abogado y procurador en todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "1. The Public Health System shall guarantee women victims of gender-based violence, as well as their sons and daughters, the right to health care, with special psychological and psychiatric care, and to follow-up on the evolution of their state of health until their full recovery, concerning the symptoms or psychological and physical sequelae derived from the situation of violence suffered.\n3. Likewise, specific measures shall be established for the detection, intervention, and assistance in situations of violence against women with disabilities, women with mental health problems, addictions or other problems or other cases of addictions derived from or added to violence.",
+      "rationale": "The cited operative provisions require the public health system to guarantee women victims of gender-based violence the right to health care (including special psychological/psychiatric care and follow-up until recovery) and to establish specific measures for detection, intervention, and assistance for certain victim groups, directly linking health services to VAW victims.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. El Sistema Público de Salud garantizará a las mujeres víctimas de violencia de género, así como a sus hijos e hijas, el derecho a la atención sanitaria, con especial atención psicológica y psiquiátrica, y al seguimiento de la evolución de su estado de salud hasta su total recuperación, en lo concerniente a la sintomatología o las secuelas psíquicas y físicas derivadas de la situación de violencia sufrida.\n\n3. Asimismo, se establecerán medidas específicas para la detección, intervención y asistencia en situaciones de violencia contra mujeres con discapacidad, mujeres con problemas de salud mental, adicciones u otras problemáticas u otros casos de adicciones derivadas o añadidas a la violencia.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "b) Psychological care.\n1. The Public Health System shall guarantee women victims of gender-based violence, as well as their sons and daughters, the right to health care, with special psychological and psychiatric care, and to follow-up on the evolution of their state of health until their full recovery, concerning the symptoms or psychological and physical sequelae derived from the situation of violence suffered.",
+      "rationale": "The cited operative provisions explicitly provide psychological care and special psychological/psychiatric health care for women victims of gender-based violence, which constitutes psychosocial/psychological support services for victims/survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Atención psicológica.\n\n1. El Sistema Público de Salud garantizará a las mujeres víctimas de violencia de género, así como a sus hijos e hijas, el derecho a la atención sanitaria, con especial atención psicológica y psiquiátrica, y al seguimiento de la evolución de su estado de salud hasta su total recuperación, en lo concerniente a la sintomatología o las secuelas psíquicas y físicas derivadas de la situación de violencia sufrida.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the framework describes legal, psychological, social, health, and other assistance, but does not mention any religious/spiritual counselling, pastoral care, faith-based support, or religious institutions/leaders providing victim support.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "1. Women victims of gender-based violence have the right to social care services, emergency services, support and shelter services, and comprehensive recovery services.\ng) Support for training and labor market integration.\n1. Cuando las víctimas de violencia de género careciesen de rentas superiores, en cómputo mensual, al 75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias, recibirán una ayuda de pago único, siempre que se presuma que debido a su edad, falta de preparación general o especializada y circunstancias sociales, la víctima tendrá especiales dificultades para obtener un empleo y\nLas mujeres víctimas de violencia de género serán consideradas colectivos prioritarios en el acceso a viviendas protegidas y residencias públicas para mayores, en los términos que determine la legislación aplicable.",
+      "rationale": "The operative provisions provide longer-term recovery and reintegration supports for victims, including comprehensive recovery services, support for training and labor market integration, social financial assistance, and priority access to protected housing/residences for women victims of gender-based violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Las mujeres víctimas de violencia de género tienen derecho a servicios sociales de atención, de emergencia, de apoyo y acogida y de recuperación integral.\n\ng) Apoyo a la formación e inserción laboral.\n\n1. Cuando las víctimas de violencia de género careciesen de rentas superiores, en cómputo mensual, al 75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias, recibirán una ayuda de pago único, siempre que se presuma que debido a su edad, falta de preparación general o especializada y circunstancias sociales, la víctima tendrá especiales dificultades para obtener un empleo y\n\nLas mujeres víctimas de violencia de género serán consideradas colectivos prioritarios en el acceso a viviendas protegidas y residencias públicas para mayores, en los términos que determine la legislación aplicable.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "\"In the case that the offender has been convicted of an offence related to gender violence, the prison sentence may only be substituted by community service. In these cases, the Judge or Court shall additionally impose, in addition to subjection to specific re-education and psychological treatment programmes, observance of the obligations or duties provided for in rules 1.ª and 2.ª, of section 1 of Article 83 of this Code.\"",
+      "rationale": "The cited operative provision explicitly provides that in cases of conviction related to gender violence, the judge/court shall additionally impose subjection to specific re-education and psychological treatment programmes, which constitutes a perpetrator-focused intervention/behaviour-change programme linked to sentencing.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "«En el caso de que el reo hubiera sido condenado por un delito relacionado con la violencia de género, la pena de prisión sólo podrá ser sustituida por la de trabajos en beneficio de la comunidad. En estos supuestos, el Juez o Tribunal impondrá adicionalmente, además de la sujeción a programas específicos de reeducación y tratamiento psicológico, la observancia de las obligaciones o deberes previstos en las reglas 1.ª y 2.ª, del apartado 1 del artículo 83 de este Código.»",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "1. From the responsibility of the State Government and immediately upon the entry into force of this law, with the corresponding budgetary allocation, a State Plan for Awareness and Prevention of Gender-Based Violence shall be launched on a permanent basis that shall include at least the following elements:\n2. Public authorities, within the framework of their competencies, shall also promote specific information and awareness campaigns in order to prevent gender-based violence.",
+      "rationale": "The policy establishes a State Plan for Awareness and Prevention of Gender-Based Violence and requires public authorities to promote specific information and awareness campaigns to prevent gender-based violence, which directly constitutes information/awareness activities explicitly linked to preventing violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Desde la responsabilidad del Gobierno del Estado y de manera inmediata a la entrada en vigor de esta ley, con la consiguiente dotación presupuestaria, se pondrá en marcha un Plan Estatal de Sensibilización y Prevención de la Violencia de Género con carácter permanente que como mínimo recoja los siguientes elementos:\n\n2. Los poderes públicos, en el marco de sus competencias, impulsarán además campañas de información y sensibilización específicas con el fin de prevenir la violencia de género.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes multiple education and training measures about equality between men and women, and some are within a broader plan to prevent gender-based violence, the candidate sentences do not explicitly link information/education about gender equality or women’s rights (as distinct from VAW-focused awareness) to the prevention of violence against women in a way required by the coding rules for this indicator.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss awareness campaigns against gender-based violence and victims’ rights to information, but they do not specify dissemination or education about laws, regulations, policies, or legal protections concerning violence against women as a prevention activity. References to legal assistance or rights are service-oriented and not framed as public legal-awareness dissemination about VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "3. The competent educational Administrations shall ensure that in the curricular areas of bachelor's and undergraduate degrees, and in the specialization programs of social and health professions, contents aimed at training for prevention, early detection, intervention and support for victims of this form of violence are incorporated.\n4. In the relevant National Health Plans, a section on prevention and comprehensive intervention in gender-based violence shall be included.",
+      "rationale": "The policy explicitly requires inclusion of prevention and comprehensive intervention in gender-based violence within National Health Plans and mandates incorporation of curricular contents aimed at training for prevention, early detection, intervention and support for victims of this violence, thereby identifying formal education/curricula as part of prevention measures for gender-based violence.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Las Administraciones educativas competentes asegurarán que en los ámbitos curriculares de las licenciaturas y diplomaturas, y en los programas de especialización de las profesiones sociosanitarias, se incorporen contenidos dirigidos a la capacitación para la prevención, la detección precoz, intervención y apoyo a las víctimas de esta forma de violencia.\n\n4. En los Planes Nacionales de Salud que procedan se contemplará un apartado de prevención e intervención integral en violencia de género.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the awareness plan is described as aimed at both men and women, the candidate sentences do not establish prevention activities specifically engaging men and boys (e.g., targeted programmes to change male norms/behaviours or promote positive masculinities) as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "i) Promote the collaboration and participation of entities, associations and organizations that act against gender-based violence from civil society.\n3. Its functions, operating rules and composition shall be determined by regulation, which shall guarantee, in any case, the participation of the Autonomous Communities, local entities, social partners, consumer and\nuser associations, and women's organisations with presence throughout the territory of the State as well as the most representative business and trade union organisations.",
+      "rationale": "The candidate sentences include operative provisions that explicitly promote collaboration/participation of civil-society entities working against gender-based violence and require participation of women’s organisations (and other non-state actors) in the State Observatory’s composition, which constitutes a formal participation mechanism linked to VAW policy/monitoring.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "i) Promover la colaboración y participación de las entidades, asociaciones y organizaciones que desde la sociedad civil actúan contra la violencia de género.\n\n3. Reglamentariamente se determinarán sus funciones, su régimen de funcionamiento y su composición, en la que se garantizará, en todo caso, la participación de las Comunidades Autónomas, las entidades locales, los agentes sociales, las asociaciones de consumidores y\n\nusuarios, y las organizaciones de mujeres con implantación en todo el territorio del Estado así como de las organizaciones empresariales y sindicales más representativas.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the policy discusses collaboration among public authorities and participation of civil society/women’s organisations, but it does not mention religious organisations/leaders or traditional/cultural organisations/leaders as partners or participants in VAW prevention or response, nor does it establish any mechanism involving such actors.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "3. The competent educational Administrations shall ensure that in the curricular areas of bachelor's and undergraduate degrees, and in the specialization programs of social and health professions, contents aimed at training for prevention, early detection, intervention and support for victims of this form of violence are incorporated.",
+      "rationale": "The candidate sentences include an operative provision requiring educational administrations to ensure that VAW-related training content is incorporated into bachelor’s/undergraduate curricula and specialization programs, which assigns responsibilities to the education sector/institutions in prevention, early detection, intervention and victim support.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Las Administraciones educativas competentes asegurarán que en los ámbitos curriculares de las licenciaturas y diplomaturas, y en los programas de especialización de las profesiones sociosanitarias, se incorporen contenidos dirigidos a la capacitación para la prevención, la detección precoz, intervención y apoyo a las víctimas de esta forma de violencia.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe coordination among domestic public administrations and bodies (e.g., Government Delegation, Observatory, health/justice/security services) and reference international instruments and bodies in the statement of reasons, but none of the candidate sentences establish, require, or authorise cooperation with international organisations on violence against women in operative terms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "1. Public Administrations shall ensure strict compliance with legislation regarding the protection and safeguarding of fundamental rights, with special attention to the eradication of conduct that favors situations of inequality of women in all social media, in accordance with current legislation.\n2. The public Administration shall promote self-regulation agreements that, having effective mechanisms for preventive control and extrajudicial dispute resolution, contribute to compliance with advertising legislation.",
+      "rationale": "The operative provisions on media require public administrations to act regarding conduct in social media that fosters inequality and to promote self-regulation agreements with mechanisms for preventive control and dispute resolution, linking this to eradication of inequality that is part of the law’s VAW prevention framework.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Las Administraciones Públicas velarán por el cumplimiento estricto de la legislación en lo relativo a la protección y salvaguarda de los derechos fundamentales, con especial atención a la erradicación de conductas favorecedoras de situaciones de desigualdad de las mujeres en todos los medios de comunicación social, de acuerdo con la legislación vigente.\n\n2. La Administración pública promoverá acuerdos de autorregulación que, contando con mecanismos de control preventivo y de resolución extrajudicial de controversias eficaces, contribuyan al cumplimiento de la legislación publicitaria.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "i) Promote the collaboration and participation of entities, associations and organizations that act against gender-based violence from civil society.\nd) Controlled by a Commission with broad participation, which shall be created within a maximum period of one month, in which the presence of victims and their environment, institutions, professionals and persons of recognized social prestige related to the treatment of these issues must be ensured.",
+      "rationale": "The law explicitly promotes collaboration and participation of civil-society entities/associations/organizations acting against gender-based violence, and establishes that the State Plan is to be overseen by a commission with broad participation including victims and their environment and other socially relevant actors—both constituting formalised public/community engagement mechanisms for VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "i) Promover la colaboración y participación de las entidades, asociaciones y organizaciones que desde la sociedad civil actúan contra la violencia de género.\n\nd) Controlado por una Comisión de amplia participación, que se creará en un plazo máximo de un mes, en la que se ha de asegurar la presencia de las víctimas y su entorno, las instituciones, los profesionales y de personas de reconocido prestigio social relacionado con el tratamiento de estos temas.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require cooperation with businesses or private-sector actors on VAW. References to ‘social partners’ in an observatory composition clause are not clearly framed as private-sector engagement mechanisms for VAW, and other provisions concern public administrations and services rather than employers/companies as partners.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences discuss social assistance financed by the General State Budget and mention compatibility with other autonomous or local aid, but they do not identify local government budgets as a funding/budget source for the policy itself.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "3. Estas ayudas, financiadas con cargo a los Presupuestos Generales del Estado, serán concedidas por las Administraciones competentes en materia de servicios sociales.",
+      "rationale": "The policy explicitly states that the social assistance is financed from the General State Budget, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Estas ayudas, financiadas con cargo a los Presupuestos Generales del Estado, serán concedidas por las Administraciones competentes en materia de servicios sociales.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference international conferences, conventions, and EU/UN-related instruments as background, but they do not indicate any international funding, donor support, assistance, partnership, or international organizational involvement in implementing or financing the measures.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences identify financing from the General State Budget and mention compatibility with other autonomous/local aid, but they do not specify any distinct 'other legal sources' of funding (e.g., private sector, earmarked funds, levies, donor funds) as a budget source.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences identify provincial government budgets as a funding/budget source; the only explicit budget source mentioned is the General State Budget.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 30,
+    "resolved": 30,
+    "rate": 1.0
+  }
+}

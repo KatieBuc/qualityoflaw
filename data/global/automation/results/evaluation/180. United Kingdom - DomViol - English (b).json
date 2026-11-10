@@ -1,0 +1,945 @@
+{
+  "policy_file": "180. United Kingdom - DomViol - English (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T21:05:29.158915+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "In Part 4 of the Family Law Act 1996 (c. 27) (family homes and domestic violence), after section 42 insert— \"42A Offence of breaching non-molestation order\n(1) A person who without reasonable excuse does anything that he is prohibited from doing by a non-molestation order is guilty of an offence.",
+      "rationale": "The candidate sentences include operative provisions amending the Family Law Act 1996 explicitly framed as relating to “family homes and domestic violence” and creating a criminal offence for breaching a non-molestation order, which is a protective remedy used in domestic violence contexts. This is substantive legal coverage rather than a mere preambular mention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "In Part 4 of the Family Law Act 1996 (c. 27) (family homes and domestic violence), after section 42 insert— “42A Offence of breaching non-molestation order\n\n(1) A person who without reasonable excuse does anything that he is prohibited from doing by a non-molestation order is guilty of an offence.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(a) a court convicts a person (\"the offender\") of a sexual [F48, violent or terrorism]",
+      "rationale": "The text contains operative provisions that apply when a court convicts a person of a “sexual … offence,” triggering victims’ rights processes. This constitutes substantive legal treatment of sexual offences (a category encompassing sexual violence) with attached procedural/service consequences for victims, even though specific acts like rape/assault are not defined in the shown excerpts.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) a court convicts a person (“the offender”) of a sexual [F48, violent or terrorism]",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(a) the respondent has used or threatened violence against the applicant or a relevant child; and",
+      "rationale": "The candidate sentences include an operative provision referring to a respondent having “used or threatened violence” in the context of court undertakings/non-molestation orders, indicating the framework addresses violence (including physical violence) with legal consequences in protective-order proceedings.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) the respondent has used or threatened violence against the applicant or a relevant child; and",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, there is no explicit mention of psychological/emotional abuse, coercive control, verbal abuse, or equivalent terms. References to “violence, abuse or neglect” are present in other contexts, but none specifically identify psychological violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention economic abuse/violence, financial abuse, economic exploitation, deprivation of economic resources, or domestic/economic neglect as a form of violence against women. While “neglect” appears in the definition of domestic homicide review circumstances, it is not framed as economic violence/exploitation/neglect as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "7 In Schedule 1 to the Children and Young Persons Act (Northern Ireland) 1968 (offences against children and young persons with respect to which special provisions of the Act apply), after \"Infanticide\" insert— \" An offence under",
+      "rationale": "The candidate sentences include an explicit reference to “Infanticide” in the context of offences against children and young persons, indicating the legal framework addresses (at least) one recognised harmful practice. This is not merely a preambular mention; it appears as an operative amendment specifying offences, which meets the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "7 In Schedule 1 to the Children and Young Persons Act (Northern Ireland) 1968 (offences against children and young persons with respect to which special provisions of the Act apply), after “Infanticide” insert— “ An offence under",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent term, nor do they establish any femicide-specific classification, aggravating factor, or monitoring/prevention mechanism framed as femicide.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "F18(c) Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).",
+      "rationale": "The candidate sentences explicitly reference a statute titled the “Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022,” which is a direct mention of trafficking victims in an operative legal context (cross-referenced within procedural provisions). This constitutes more than a general reference to exploitation and supports that trafficking is addressed in the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": 0.52,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.52
+      },
+      "evidence_verified": true,
+      "evidence_original": "F18(c) Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain any operative mention of sexual exploitation, sexual slavery, forced prostitution, or exploitation for sexual purposes. References to “Sexual Offences Act 2003” and to “sexual offence” classifications are not, on their own, explicit coverage of sexual exploitation/slavery as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention cyber/online/digital abuse, cyber harassment, online sexual exploitation, or any technology-facilitated form of violence. The excerpts relate to general harassment/assault provisions and administrative matters (e.g., data protection), which the coding rules specify are insufficient without explicit recognition of technology-facilitated violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(1) A person who without reasonable excuse does anything that he is prohibited from doing by a non-molestation order is guilty of an offence.\n(a) on conviction on indictment, to imprisonment for a term not exceeding five years, or a fine, or both;",
+      "rationale": "The text creates a criminal offence for breaching a non-molestation order and specifies criminal sanctions including imprisonment and/or a fine, satisfying the requirement that at least one form of violence-related conduct is criminalised with an attached penalty.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) A person who without reasonable excuse does anything that he is prohibited from doing by a non-molestation order is guilty of an offence.\n\n(a) on conviction on indictment, to imprisonment for a term not exceeding five years, or a fine, or both;",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the excerpts discuss restraining orders and non-molestation/occupation orders, the provided sentences do not, on their own, specify all required elements for a protection/restraining order mechanism (who may apply, issuing authority, duration, and consequence for breach) in a complete way. In particular, duration and breach consequences are not shown in the cited restraining-order provisions, and the non-molestation/occupation-order references are fragmentary amendments without the full application process and duration details in the provided sentences.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts reference police forces as entities within a commissioner's remit and discuss a victims' code, but they do not designate or mandate any specific specialised unit/desk/division within police services to handle violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts address various criminal procedure matters (e.g., preparatory hearings, rules of court, jury-related provisions) but do not establish or mandate a specialised court/chamber/judicial officer or specialised/expedited procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption for sexual offences. The excerpts focus on non-molestation order breach, restraining orders, and other criminal justice provisions unrelated to marital rape applicability.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "[F18151A Duty to co-operate with Commissioner\n(2) A relevant person must comply with a request made to the person under this section, so far as it is appropriate and reasonably practicable for the person to do so.",
+      "rationale": "The text establishes a formal cooperation mechanism by creating a statutory duty to co-operate with the Commissioner: the Commissioner may request cooperation as necessary for the Commissioner's functions, and relevant persons must comply (subject to appropriateness and practicability). This is a formalized process for cross-entity cooperation rather than merely assigning separate responsibilities.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "[F18151A Duty to co-operate with Commissioner\n\n(2) A relevant person must comply with a request made to the person under this section, so far as it is appropriate and reasonably practicable for the person to do so.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on disclosure of information to relevant authorities and on victims’ rights to receive information (e.g., schemes to make information available to victims). They do not establish or require a system/entity to collect, record, monitor, report, manage, or exchange data on violence against women, victims, or cases as a data function; rather, they permit disclosure for specified purposes and provide information to victims.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention gender mainstreaming, gender mainstreaming mechanisms, or institutional requirements to mainstream gender in planning/budgeting/service delivery related to violence against women. The excerpts are about victims’ code, commissioner functions, and other criminal justice provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mandate or provide for training, technical guidance, or capacity building for implementing agencies or service providers. They address institutional roles (e.g., commissioner, disclosure, lists of authorities) and victims’ rights, but contain no explicit training requirement.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(c) keep under review the operation of the code of practice issued under\n[F176(4) The Commissioner must prepare in respect of each calendar year a report on the carrying out of the functions of the Commissioner during the year.\n(6) Reports under subsection (2)(b) or (4) must be published by the Commissioner.",
+      "rationale": "The framework assigns monitoring/review and reporting functions: the Commissioner must keep under review the operation of the code of practice, must prepare an annual report on carrying out the Commissioner’s functions, and reports must be published. These provisions create an ongoing review and reporting mechanism relevant to implementation/service delivery under the victims’ framework.",
+      "coverage": "Substantive",
+      "confidence": 0.68,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.68
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) keep under review the operation of the code of practice issued under\n\n[F176(4) The Commissioner must prepare in respect of each calendar year a report on the carrying out of the functions of the Commissioner during the year.\n\n(6) Reports under subsection (2)(b) or (4) must be published by the Commissioner.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text allows the Secretary of State to pay remuneration/expenses to the Commissioner and to pay grants for measures intended to assist victims, these are permissive (“may pay”) and do not create a binding requirement to allocate a budget or funding for violence against women response/prevention implementation. No mandatory budget allocation mechanism is established in the provided sentences.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions concern a general victims’ code of practice, the Victims’ Commissioner, disclosure of information, and lists of public bodies. None of the candidate sentences explicitly establish, mandate, or recognise an integrated/one-stop/multidisciplinary service mechanism coordinating multiple services for women victims/survivors of violence, nor do they assign responsibility for integrated VAW services.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general victims’ provisions (e.g., victims’ code, schemes for providing information to victims, and definitions noting that it is immaterial whether an offence has been reported). They do not establish or mandate any hotline/helpline/complaint intake mechanism or other dedicated reporting or assistance channel for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences do not mention shelters, refuges, safe houses, crisis accommodation, emergency/temporary accommodation, relocation, or any residential protection mechanism for women victims/survivors of violence. References to “premises” and “requirements as to residence” relate to enforcement powers or supervision orders, not victim shelter.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not provide an operative entitlement or duty to provide legal aid/legal assistance to women victims/survivors of violence. Mentions of “Legal services” appear only as headings/omitted schedule entries and do not establish legal aid or assistance for victims of violence.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although some sentences reference health bodies (e.g., NHS England, integrated care boards) and medical treatment in the context of supervision orders/mental health disposals, none link health/medical services to women victims/survivors of violence or require health services to respond to VAW cases. The health references are institutional listings or offender/patient treatment provisions, not victim medical support.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided excerpts concern procedural/administrative matters (orders, disclosure, victims’ code framework, probation/hospital notification duties, grants) but do not mention psychosocial/psychological counselling, therapy, trauma support, mental-health support, or referral mechanisms for such services for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the retrieved sentences, there is no mention of religious or spiritual counselling, pastoral care, chaplains/clerics, or faith-based institutions providing support to victims/survivors of violence. The text focuses on victims’ code administration, information/representation rights, and related institutional provisions.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(1) The Secretary of State may pay such grants to such persons as he considers appropriate in connection with measures which appear to him to be intended to assist victims, witnesses or other persons affected by offences.",
+      "rationale": "The framework authorises grants for measures intended to assist victims, witnesses, or other persons affected by offences, which constitutes an operative mechanism that can support longer-term assistance/recovery for victims (even though it is not specific to women or to violence against women).",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Secretary of State may pay such grants to such persons as he considers appropriate in connection with measures which appear to him to be intended to assist victims, witnesses or other persons affected by offences.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved provisions address offences, sentencing/mental health disposals, victims’ rights to information/representations, and administrative matters, but do not establish or provide perpetrator-focused intervention, treatment, counselling, rehabilitation, or behaviour-change programmes, nor do they authorise referrals to such programmes.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences contain operative provisions requiring or providing information, awareness-raising, communication, campaigns, or education specifically about violence against women or preventing such violence. The excerpts shown are largely about amendments, institutional lists, victims’ information about offender discharge/licence conditions, and procedural/administrative matters, which do not constitute primary prevention information/education about VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention gender equality, women’s rights, non-discrimination against women, or any education/awareness activities about these topics, nor do they link any such activities to preventing violence against women. The excerpts concern criminal justice/victims’ information schemes and legislative amendments, not gender-equality education or awareness.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not establish dissemination, public legal-awareness, or education/awareness activities about laws/policies/legal protections concerning violence against women. While the Act concerns domestic violence and victims, the excerpts shown focus on legal amendments and victim notification/information about offender status, not public-facing education about VAW laws/policies as prevention.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence identifies education systems, schools, curricula, or educational institutions as a measure to prevent violence against women, nor assigns responsibilities to education authorities for VAW prevention. The excerpts are about criminal justice provisions, victims’ code procedures, and other administrative/legal amendments, without an explicit education-based prevention link.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences provide or require prevention activities engaging men or boys (e.g., programmes, campaigns, norm-change/masculinity initiatives) to prevent violence against women. The excerpts relate to offences, procedural matters, and victim-related administrative provisions, not targeted engagement of men/boys for primary prevention.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe duties to cooperate with the Commissioner and consultation requirements among government actors (e.g., Attorney General, Secretary of State), plus grant-making powers to unspecified “persons”. None of the candidate sentences explicitly mention civil society organisations or NGOs, nor establish a mechanism for collaboration with them on violence against women or related victim services.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate sentences, there is no mention of religious organisations/leaders or traditional/cultural organisations/leaders, and no operative provision establishing engagement with such actors in relation to violence against women (or victims/witnesses).",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention schools, universities, colleges, or other education institutions, nor do they establish any collaboration mechanism with education institutions for violence against women prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no operative provisions referencing international organisations or establishing cooperation with them on violence against women (or victims/witnesses). They mainly concern domestic administrative provisions (Commissioner functions, orders, schedules, etc.).",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention media organisations, broadcasters, journalists, publishers, or any media engagement mechanism related to violence against women prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish community/public participation mechanisms for preventing or responding to violence against women. They focus on victim/witness procedures, Commissioner functions, and inter-agency duties, without identifying communities or the public as partners in VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private companies, or private-sector actors as partners, nor do they establish any private-sector engagement mechanism related to violence against women prevention or response.",
+      "coverage": null,
+      "confidence": 0.89,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.89
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences identify local government budgets as a funding source. References to local authorities appear only in the context of bodies involved (e.g., recipients of reports), not as budget/funding sources, while funding provisions shown relate to the Secretary of State paying grants/expenses.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(1) The Secretary of State may pay such grants to such persons as he considers appropriate in connection with measures which appear to him to be intended to assist victims, witnesses or other persons affected by offences.",
+      "rationale": "The policy explicitly authorizes the Secretary of State to pay grants to support measures assisting victims/witnesses, which constitutes national-level government funding.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Secretary of State may pay such grants to such persons as he considers appropriate in connection with measures which appear to him to be intended to assist victims, witnesses or other persons affected by offences.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no explicit mention of international assistance, donors, UN agencies, foreign governments, or other international support mechanisms. The only funding-related language concerns domestic grants paid by the Secretary of State.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(3) In section 9(7) (financial provisions: sums payable into Consolidated Fund), after \"section 3(1)(c)\" insert \" , or by virtue of regulations made under section 7A(1), \".",
+      "rationale": "The policy references financial flows into the Consolidated Fund via regulations (i.e., a legally established fund/revenue mechanism), which is a funding source distinct from a standard government budget line item.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) In section 9(7) (financial provisions: sums payable into Consolidated Fund), after “section 3(1)(c)” insert “ , or by virtue of regulations made under section 7A(1), ”.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence identifies a provincial/regional government budget as a funding source. Funding language shown is at the national level (Secretary of State grants) and does not allocate or reference provincial budgets.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 11,
+    "resolved": 11,
+    "rate": 1.0
+  }
+}

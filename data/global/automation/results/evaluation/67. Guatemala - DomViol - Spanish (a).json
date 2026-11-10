@@ -1,0 +1,959 @@
+{
+  "policy_file": "67. Guatemala - DomViol - Spanish (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T14:21:59.624168+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "violence constitutes a violation of human rights and for the purposes of this law, it must be understood as\nmeasures necessary to guarantee the life, WHEREAS: integrity, security and dignity of victims of domestic violence.\nof domestic violence, shall order any of the following security measures.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence and establish protective measures and procedures (e.g., application of the law to protective measures and ordering security measures in situations of domestic violence), which constitutes substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "intrafamiliar, constituye una violación a los derechos humanos y para los efectos de la presente ley, debe\n\nLa presente ley regulará la aplicación de medidas de protección necesarias para garantizar la vida, CONSIDERANDO: integridad, seguridad y dignidad de las víctimas de violencia intrafamiliar.\n\nde violencia intrafamiliar, acordarán cualquiera de las siguientes medidas de seguridad.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "That Guatemala ratified through Decree Law 49-82 any action or omission that directly or indirectly causes the Convention on the Elimination of All Forms of harm or physical, sexual, psychological or patrimonial Discrimination Against Women, and through suffering, both in the public and private spheres, to a\nh) Suspend the alleged aggressor's right to visit his children, in case of sexual aggression",
+      "rationale": "Sexual harm is included within the operative definition of domestic violence (covering physical, sexual, psychological, or patrimonial suffering), and the framework also references measures in cases of sexual aggression against minors, indicating operative recognition with legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Que Guatemala ratificó por medio del Decreto Ley 49-82 entenderse como cualquier acción u omisión que de la Convención sobre la eliminación de todas las formas manera directa o indirecta causare daño o sufrimiento de discriminación contra la mujer, y por medio del físico, sexual, psicológico o patrimonial, tanto en el\n\nh) Suspenderle al presunto agresor el derecho de visitar a sus hijos e hijas, en caso de agresión",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "That Guatemala ratified through Decree Law 49-82 any action or omission that directly or indirectly causes the Convention on the Elimination of All Forms of harm or physical, sexual, psychological or patrimonial Discrimination Against Women, and through suffering, both in the public and private spheres, to a",
+      "rationale": "Physical harm is explicitly included in the operative definition of domestic violence (as harm or suffering that may be physical), which makes physical violence a covered form within the law’s scope with attached protective-measure consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Que Guatemala ratificó por medio del Decreto Ley 49-82 entenderse como cualquier acción u omisión que de la Convención sobre la eliminación de todas las formas manera directa o indirecta causare daño o sufrimiento de discriminación contra la mujer, y por medio del físico, sexual, psicológico o patrimonial, tanto en el",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "That Guatemala ratified through Decree Law 49-82 any action or omission that directly or indirectly causes the Convention on the Elimination of All Forms of harm or physical, sexual, psychological or patrimonial Discrimination Against Women, and through suffering, both in the public and private spheres, to a",
+      "rationale": "Psychological harm is explicitly included in the operative definition of domestic violence (as harm or suffering that may be psychological), bringing psychological violence within the law’s scope for protective measures.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Que Guatemala ratificó por medio del Decreto Ley 49-82 entenderse como cualquier acción u omisión que de la Convención sobre la eliminación de todas las formas manera directa o indirecta causare daño o sufrimiento de discriminación contra la mujer, y por medio del físico, sexual, psicológico o patrimonial, tanto en el",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "That Guatemala ratified through Decree Law 49-82 any action or omission that directly or indirectly causes the Convention on the Elimination of All Forms of harm or physical, sexual, psychological or patrimonial Discrimination Against Women, and through suffering, both in the public and private spheres, to a",
+      "rationale": "The operative definition of domestic violence includes “patrimonial” harm/suffering, which indicates economic/property-related harm is treated as a form of domestic violence covered by the law’s protective framework.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "Que Guatemala ratificó por medio del Decreto Ley 49-82 entenderse como cualquier acción u omisión que de la Convención sobre la eliminación de todas las formas manera directa o indirecta causare daño o sufrimiento de discriminación contra la mujer, y por medio del físico, sexual, psicológico o patrimonial, tanto en el",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention or regulate early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice; the text focuses on domestic/intrafamily violence generally.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they establish any femicide-specific criminalisation, aggravation, registry, or monitoring mechanism.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of trafficking in persons or trafficking-related exploitation, and do not identify trafficking victims as a protected group or establish trafficking-specific measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references sexual harm within domestic violence and “sexual aggression” against minors, it does not mention sexual exploitation, sexual slavery, coerced prostitution, or any sexual-exploitation nexus required by the criterion.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only technology-related reference is to a telematic control device used to enforce security measures; there is no recognition or prohibition of cyber/online/digital forms of violence as violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "The protective measures shall be applied independently of the specific sanctions",
+      "rationale": "The text states that protective measures apply independently of sanctions established by the Criminal Code/Criminal Procedure Code in cases where acts constitute a crime or offense, indicating that criminal sanctions exist for at least some acts of domestic violence, but without defining offences or specifying penalties in the provided sentences.",
+      "coverage": "Referenced only",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "Las medidas de protección se aplicarán independientemente de las sanciones específicas",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "The complaint or request for protection regulated by this law That it is necessary to take legislative measures may be made in writing or orally with or without to reduce and subsequently put an end to the assistance of a lawyer and may be filed domestic violence, which causes so much harm to by: Guatemalan society, and thus contribute to the construction of families based on equality and a) Any person, regardless of age, who respect for the human dignity of men and women.\nof domestic violence, shall order any of the following security measures.\nThe protection measures may is created, it shall correspond to the Office not last less than one month nor more than six, except of the Attorney General of the Nation, in accordance with the functions the one consigned in subsection c) of the preceding article.\nThe failure to comply with these obligations shall be sanctioned the use and enjoyment of instruments indispensable as indicated in article 114 of the Code of Criminal so that the victim can fend for himself or herself or",
+      "rationale": "The framework provides a process to request protection, indicates that courts shall order specified security measures, sets a duration range for protection measures, and states that failure to comply with obligations will be sanctioned (by reference to criminal procedure provisions), meeting the required elements for a protection/restraining order mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "La denuncia o solicitud de protección que norma la presente ley, Que se hace necesario tomar medidas legislativas podrá hacerse en forma escrita o verbal con o sin para disminuir y con posterioridad poner fin a la asistencia de abogada o abogado y puede ser presentada violencia intrafamiliar, que tanto daño causa a la por: sociedad guatemalteca, y contribuir de esta forma a la construcción de familias basadas en igualdad y el a) Cualquier persona, no importando su edad, que respecto a la dignidad humana de hombres y mujeres.\n\nde violencia intrafamiliar, acordarán cualquiera de las siguientes medidas de seguridad.\n\nLas medidas de protección no rector, corresponderá a la Procuraduría General podrán durar menos de un mes ni más de seis, excepto de la Nación, de conformidad con las funciones la consignada en el inciso c) del artículo anterior.\n\nEl incumplimiento de estas obligaciones será sancionado el uso y disfrute de instrumentos indispensables conforme lo indica el artículo 114 del Código Procesal para que la víctima pueda valerse por si misma o",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text lists the national police among institutions involved and sets police obligations to intervene, it does not designate a specific specialised unit/desk/division within police services for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions family courts and referral to family or criminal court as appropriate, and duty judges attending to matters related to the law, but it does not establish a specialised court/chamber or a specialised/expedited judicial procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss domestic violence generally (including sexual harm) and protective/security measures, but they do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital exemption for sexual offences.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "guarantee the creation, through the Human Rights Ombudsman, of an instance in charge of coordinating the",
+      "rationale": "The text establishes an institutional coordination mechanism by requiring the creation (through the Human Rights Ombudsman) of an instance specifically in charge of coordinating, which goes beyond merely assigning separate responsibilities to individual agencies.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "crear, a través del Procurador de los Derechos Humanos, una instancia que se encargue de coordinar la",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "k) Fix a provisional food obligation, in in the preceding article, shall be obligated to register accordance with the provisions of the Civil Code.\ncomplaints of intrafamily violence and refer them to Judicial Statistics, for purposes of evaluating and",
+      "rationale": "The framework requires institutions to register complaints of intrafamily violence and to refer them to Judicial Statistics for evaluation and determining effectiveness, which constitutes an explicit duty to collect/record and transmit case-related information to a data/statistics entity.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "k) Fijar una obligación alimentaria provisional, de en el artículo anterior, estarán obligadas a registrar conformidad con lo establecido en el Código Civil.\n\ndenuncias de violencia intrafamiliar y remitirlas a Estadística Judicial, para efectos de evaluar y",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references equality and discrimination against women, none of the candidate sentences explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming in planning/budgeting, a focal point, or a mainstreaming working group).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "5) Shall promote the education and training of personnel in the administration of justice, police and other officials responsible for law enforcement, as well as personnel responsible for implementing policies to prevent, punish and eliminate intrafamily violence.",
+      "rationale": "The framework provides for training by stating an obligation to promote education and training of personnel in justice administration, police, and other officials responsible for law enforcement and implementing policies related to intrafamily violence.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "5) Fomentará la educación y capacitación del personal en la administración de justicia, policial y de otros funcionarios responsables de la aplicación de la ley, así como del personal encargado de aplicar las políticas para prevenir, sancionar y eliminar la violencia intrafamiliar.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "complaints of intrafamily violence and refer them to Judicial Statistics, for purposes of evaluating and\nl) Order the preventive attachment of assets, of the determining the effectiveness of measures to prevent, alleged aggressor.",
+      "rationale": "The framework links mandatory registration and referral of complaints to Judicial Statistics explicitly for evaluating and determining the effectiveness of measures, indicating a concrete evaluation-related process tied to implementation effectiveness (i.e., an M&E-related mechanism through statistics-based evaluation).",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "denuncias de violencia intrafamiliar y remitirlas a Estadística Judicial, para efectos de evaluar y\n\nl) Disponer el embargo preventivo de bienes, del determinar la eficacia de las medidas para prevenirla, presunto agresor.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention allocating budget/funding, creating a dedicated fund, or requiring resources for implementation; the excerpts focus on institutional roles, coordination, training, and statistics/evaluation rather than financing.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions list multiple institutions that can receive complaints and require referral to courts, and mention an Ombudsman-led coordinating instance for training/workshops. However, none of the candidate sentences explicitly establishes or mandates an integrated/one-stop/multidisciplinary service mechanism that coordinates multiple victim services (health, legal, psychosocial, shelter, etc.) for women victims/survivors of violence; the references are to complaint reception and training coordination rather than integrated victim services.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "The complaint or request for protection regulated by this law That it is necessary to take legislative measures may be made in writing or orally with or without to reduce and subsequently put an end to the assistance of a lawyer and may be filed domestic violence, which causes so much harm to by: Guatemalan society, and thus contribute to the construction of families based on equality and a) Any person, regardless of age, who respect for the human dignity of men and women.\nWhoever receives the complaint must refer it to a family court or criminal court, as appropriate, within",
+      "rationale": "The operative text provides a mechanism for victims (and others) to file complaints/requests for protection, including orally or in writing, and sets a process obligation that whoever receives the complaint must refer it to the appropriate court within 24 hours. This constitutes a designated complaint/reporting mechanism for seeking assistance/protection (even though it is not a hotline).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "La denuncia o solicitud de protección que norma la presente ley, Que se hace necesario tomar medidas legislativas podrá hacerse en forma escrita o verbal con o sin para disminuir y con posterioridad poner fin a la asistencia de abogada o abogado y puede ser presentada violencia intrafamiliar, que tanto daño causa a la por: sociedad guatemalteca, y contribuir de esta forma a la construcción de familias basadas en igualdad y el a) Cualquier persona, no importando su edad, que respecto a la dignidad humana de hombres y mujeres.\n\nQuien reciba la denuncia deberá remitirla a un juzgado de familia o del orden penal, según corresponda, en un",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include protective/security measures (e.g., removal of aggressor from the common residence and restrictions on access to the victim’s domicile) and protection/assistance by authorities, but they do not establish or recognise shelters, safe houses, refuge centres, temporary accommodation, or any authority duty to provide residential accommodation for victims.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions that a complaint may be filed with or without the assistance of a lawyer and lists “Legal Aid Clinics” among institutions, it does not establish an entitlement or duty to provide legal aid/representation to women victims/survivors of violence. The references do not specify that legal aid will be provided to victims as a service mechanism.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Health/medical actors are mentioned only in relation to mandatory reporting (members of health services/physicians must file complaints) and as audiences for training/conferences. There is no operative provision requiring medical examination, treatment, emergency care, or other health services for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not provide psychosocial/psychological counselling or trauma-support services for victims. The only related reference is to “therapeutic, educational programs” as a security measure, which is not specified as victim counselling and appears framed as an institutional program order rather than a victim psychosocial service.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions religious or spiritual counselling, pastoral care, faith-based support, or any role for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on complaint filing, protective/security measures, institutional roles, training/awareness, and (separately) treatment/rehabilitation alternatives for aggressors. They do not establish longer-term recovery/rehabilitation/reintegration support services (e.g., livelihood, housing support, vocational training) for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "The State shall endeavor to offer treatment and rehabilitation alternatives to aggressors, taking into account, among others, their dual condition as victims and aggressors.",
+      "rationale": "The operative text states that the State shall endeavor to offer treatment and rehabilitation alternatives to aggressors, which constitutes provision for perpetrator-focused intervention/rehabilitation programming.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Estado procurará ofrecer alternativas de tratamiento y rehabilitación a las personas agresoras, tomando en cuenta, entre otras, su doble condición de víctimas y de agresoras.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "6) Shall stimulate educational programs, governmental and private sector, aimed at raising awareness among the population about problems related to intrafamily violence, legal resources and corresponding reparation.",
+      "rationale": "The operative provisions require stimulating educational programs aimed at raising awareness among the population about intrafamily violence, which is a form of violence affecting women and is framed in the law as something to prevent/eradicate; this constitutes information/education activities specifically about violence (intrafamily violence) as a prevention-related measure.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "6) Estimulará programas educativos, gubernamentales y del sector privado, tendientes a concientizar a la población sobre problemas relacionados con la violencia intrafamiliar, los recursos legales y la reparación correspondiente.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions strengthening observance of rights and modifying sociocultural patterns and stereotypes, the candidate sentences do not clearly establish information/education/awareness activities specifically about gender equality or women’s rights as such, nor do they explicitly link such gender-equality education to preventing violence against women (as distinct from awareness about intrafamily violence).",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "6) Shall stimulate educational programs, governmental and private sector, aimed at raising awareness among the population about problems related to intrafamily violence, legal resources and corresponding reparation.",
+      "rationale": "The operative provision calls for educational programs to raise awareness among the population about intrafamily violence and explicitly includes “legal resources and corresponding reparation,” which constitutes public legal-awareness/information about legal protections/remedies related to violence.",
+      "coverage": "Substantive",
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "6) Estimulará programas educativos, gubernamentales y del sector privado, tendientes a concientizar a la población sobre problemas relacionados con la violencia intrafamiliar, los recursos legales y la reparación correspondiente.",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "4) Shall recommend the modification of sociocultural patterns of conduct of men and women, including the design of education programs, formal and informal, appropriate for all levels of the educational process, in order to counteract prejudices, customs and all types of practices based on the premise of the inferiority of any of the genders or on stereotypes for men and women, that legitimize or exacerbate violence against persons.",
+      "rationale": "The operative provision explicitly links the design of formal and informal education programs across educational levels to counteracting prejudices and stereotypes that legitimize or exacerbate violence, thereby identifying education programming as a prevention-related measure.",
+      "coverage": "Substantive",
+      "confidence": 0.76,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.76
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "4) Recomendara la modificación de los patrones socioculturales de conducta de hombres y mujeres, inclusive el diseño de programas de educación, formales e informales, apropiados para todos los niveles del proceso educativo, con el fin de contrarrestar prejuicios, costumbres y todo tipo de prácticas que se basen en la premisa de la inferioridad de cualquiera de los géneros o en los estereotipos para el hombre y la mujer, que legitiman o exacerban la violencia contra las personas.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to modifying sociocultural patterns of conduct of men and women and to general educational/awareness programs, but they do not specify prevention activities that explicitly target or engage men and boys (as participants or a target group) to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "e) Non-governmental organizations and one measure may be applied.\nsocial organizations whose purpose is the protection of the rights of women, minors a) Order the alleged aggressor to immediately and, in general, those that address family leave the common residence.",
+      "rationale": "The operative provisions on who may file a complaint explicitly include non-governmental and social organizations whose purpose includes protecting the rights of women/minors and addressing family issues, thereby authorising NGO involvement in the response process for domestic violence cases.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "Se podrá aplicar más e) Las organizaciones no gubernamentales y las de una medida.\n\norganizaciones sociales cuyo objeto sea la protección de los derechos de la mujer, de los menores a) Ordenar al presunto agresor que salga inmediay, en general, las que atienden la problemática tamente de la residencia común.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention religious organisations/leaders or traditional/cultural/community leaders as actors to be engaged or collaborated with in preventing or responding to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions “members of health or educational services” in relation to mandatory complaint filing, it does not establish or require engagement/collaboration with education institutions (e.g., schools/universities) as partners in VAW prevention or response, nor does it assign institutions a collaborative role.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "9) Shall promote, with international cooperation, the promotion of programs aimed at protecting the right to a life without violence and the exchange of ideas and experiences on the subject.",
+      "rationale": "An operative provision calls for promoting programs and exchange of ideas/experiences “with international cooperation” aimed at protecting the right to a life without violence, which constitutes an authorisation/requirement of collaboration with international actors in VAW-related programming.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "9) Promoverá, con la cooperación internacional, el impulso de programas encaminados a proteger el derecho a una vida sin violencia y el intercambio de ideas y experiencias sobre el tema.",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "7) Shall encourage the media to develop appropriate dissemination guidelines and thus contribute to eradicating intrafamily violence in all its forms and, especially, to enhance respect for human dignity.",
+      "rationale": "The operative provisions explicitly encourage the media to develop dissemination guidelines to help eradicate intrafamily violence, directly establishing media engagement for prevention/awareness purposes.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "7) Alentará a los medios de comunicación para que elaboren directrices adecuadas de difusión y contribuyan así a erradicar la violencia intrafamiliar en todas sus formas y, en especial, a realzar el respeto a la dignidad humana.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the framework allows various persons (e.g., any person, family members, witnesses) to file complaints, the coding rules exclude inferring community engagement merely from reporting/complaint mechanisms; the text does not establish community participation, mobilisation, or collaboration mechanisms for prevention/response beyond complaint filing.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only relevant reference is to stimulating educational programs in the “governmental and private sector,” which does not identify businesses/employers as partners nor establish a collaboration mechanism with private-sector actors for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention funding or budget sources from local/municipal governments. The excerpts describe institutional duties, procedures, and measures, but do not specify any local government budget allocation or financing mechanism.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to state duties and various institutions, but do not explicitly mention a national government budget, appropriations, treasury funding, or any budget line/source for implementation. Therefore, national government budget funding is not addressed in the provided text.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "9) Shall promote, with international cooperation, the promotion of programs aimed at protecting the right to a life without violence and the exchange of ideas and experiences on the subject.",
+      "rationale": "The text explicitly references promoting programs \"with international cooperation\" related to protecting the right to a life without violence, which constitutes an explicit international support/cooperation component under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "9) Promoverá, con la cooperación internacional, el impulso de programas encaminados a proteger el derecho a una vida sin violencia y el intercambio de ideas y experiencias sobre el tema.",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences discuss supplementary application of other domestic laws (e.g., Civil Code, Penal Code) and various protective measures, but they do not identify any funding/budget source categorized as \"other legal sources\" (i.e., a non-governmental budget source established by law).",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions provincial/regional government budgets or financing. The excerpts focus on state duties, institutions, and measures without specifying any provincial budget source.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 20,
+    "resolved": 20,
+    "rate": 1.0
+  }
+}
