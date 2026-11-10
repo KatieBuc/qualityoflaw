@@ -1,0 +1,949 @@
+{
+  "policy_file": "170. Thailand - DomViol - Thai.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T20:01:58.128951+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "\"domestic violence\" means any act committed by a family member against another with the intention to cause, or in a manner likely to cause, danger to the life, body, mind, health, liberty, or reputation of a family member, or coercing or exercising unlawful domination over a family member to compel such family member to commit an act, omit to commit an act, or submit to an act unlawfully;\nมาตรา ๒๙ The Family Promotion and Protection Center filing a petition for the court to issue a welfare protection order",
+      "rationale": "The text contains an operative definition of “domestic violence” and provides operative welfare protection measures and court orders to address domestic violence, which constitutes substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "มาตรา ๒๙ ศูนย์ส่งเสริมและคุ้มครองครอบครวั ที่ยื่นค าร้องเพื่อให้ศาลมีค าสั่งคุ้มครองสวสั ดภิ าพ",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, the framework repeatedly addresses “domestic violence” and related welfare protection measures, but it does not mention sexual violence, rape, sexual assault, sexual abuse, or sexual harassment, nor does it classify sexual violence as a covered form of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention physical violence/assault/battery/bodily harm as such. While the definition of domestic violence references danger to “life” and “body,” it does not explicitly identify physical violence as a category, and the cited Criminal Code sections are referenced without specifying that they are physical-violence offenses.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not explicitly mention psychological/emotional/verbal abuse or coercive control as a form/category of violence. Although the domestic violence definition references danger to the “mind” and includes coercion/unlawful domination, it does not explicitly label these as psychological violence under the criterion’s required terms.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention economic violence/abuse/exploitation/neglect as a form of violence against women. References to financial assistance/relief appear as general welfare measures and family hardship support, not as recognition of economic abuse/neglect as violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or similar harmful practices, nor do they include operative minimum-age or protective rules targeting such practices.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of femicide/feminicide or gender-motivated killing of women, and no operative provisions addressing such killings as a distinct category or aggravating factor are shown.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "(8) having never been punished for committing an offence under the law on the protection of persons subjected to domestic violence, the law on child protection, the law on the Juvenile and Family Court and Juvenile and Family Case Procedure, or the law on the prevention and suppression of human trafficking;",
+      "rationale": "The text explicitly references “the law on the prevention and suppression of human trafficking” as a relevant legal instrument (in an operative eligibility/prohibited-characteristics provision), indicating trafficking is addressed in the legal framework, though only by reference here.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention sexual exploitation, sexual slavery, forced prostitution, or any sexual-exploitation nexus. A reference to human trafficking law appears, but without any explicit linkage to sexual exploitation in the provided text.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions reporting “by electronic means” and includes a prohibition on causing distress/annoyance via “sending annoying messages by electronic media,” but it does not recognize or define technology-facilitated violence (e.g., cyber harassment/online abuse) as such; the electronic references function as modalities within domestic-violence measures rather than an explicit technology-facilitated violence category under the criterion.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "มาตรา ๔๕ ผู้ใดฝ่าฝืนมาตรา ๓๙ ต้องระวางโทษจ าคุกไม่เกินหกเดือน หรือปรับไม่เกิน",
+      "rationale": "The candidate sentences include an operative penalty provision establishing imprisonment and/or a fine for violating Section 39, demonstrating that at least one act connected to the domestic-violence framework carries a criminal sanction.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "มาตรา ๔๕ ผู้ใดฝ่าฝืนมาตรา ๓๙ ต้องระวางโทษจ าคุกไม่เกินหกเดือน หรือปรับไม่เกิน",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "มาตรา ๒๙ The Family Promotion and Protection Center filing a petition for the court to issue a welfare protection order\nมาตรา ๓๒ In the case where the court issues a welfare protection order requiring a domestic violence perpetrator\nto comply, the court may specify the commencement and termination period, provided that it shall not exceed one year, except for rehabilitation, remediation, or treatment of the physical or mental health of the domestic violence perpetrator.\nIn the case where the court orders a domestic violence perpetrator to enter into a bond and there is a violation of the bond,\nthe provisions of Section 47 of the Criminal Code shall apply mutatis mutandis.",
+      "rationale": "The text provides for a welfare protection order issued by a court upon petition, specifies that the court may set a commencement/termination period (generally not exceeding one year), and provides a defined consequence for breach via application of Criminal Code provisions when a bond is violated.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "มาตรา ๒๙ ศูนย์ส่งเสริมและคุ้มครองครอบครวั ที่ยื่นค าร้องเพื่อให้ศาลมีค าสั่งคุ้มครองสวสั ดภิ าพ\n\nมาตรา ๓๒ ในกรณีที่ศาลมีค าสั่งคุ้มครองสวัสดิภาพให้ผู้กระท าความรุนแรงในครอบครัว\n\nต้องปฏิบัติตาม ศาลจะก าหนดระยะเวลาเริ่มต้นและสิ้นสุดไว้ด้วยก็ได้ ทั้งนี้ ต้องไม่เกินกว่าหนึ่งปี เว้นแต่ การแก้ไขบ าบัดฟื้นฟูหรือการรักษาสุขภาพกายหรือจิตใจของผู้กระท าความรุนแรงในครอบครัว ในกรณี ที่มีการเสนอข้อมูลทางการแพทย์มาเพื่อประกอบการพิจารณาของศาล ศาลอาจก าหนดเวลาเกินกว่า หนึ่งปีก็ได้\n\nในกรณีที่ศาลสั่งให้ผู้กระท าความรุนแรงในครอบครัวท าทัณฑ์บน และมีการกระท าผิดทัณฑ์บน\n\nให้น าความในมาตรา ๔๗ แห่งประมวลกฎหมายอาญา มาใช้บังคับโดยอนุโลม",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention police/official coordination and inquiry officials, but do not designate or mandate any specific specialised unit/desk/division within police services for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines “Court” as the Juvenile and Family Court and discusses petitions and procedures for welfare protection orders, it does not establish a specialised court/chamber or specialised judicial procedure specifically for violence against women cases (beyond general reference to an existing court).",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence generally and welfare protection/criminal procedure issues, but do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital exemption for sexual violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Section 6 There shall be a committee called the \"Committee on Promotion of Family Institution Development and Protection\", consisting of:\n(3) ex officio members, namely: the Permanent Secretary of the Ministry of Social Development and Human Security, the Permanent Secretary of the Ministry of Interior, the Permanent Secretary of the Ministry of Justice, the Permanent Secretary of the Ministry of Education, the Permanent Secretary of the Ministry of Public Health, the Attorney-General, and the Commissioner-General of the Royal Thai Police;\n(๓) To serve as a learning center for the promotion and development of families and welfare protection, and as a coordination center with government agencies and the private sector in carrying out the promotion and development of families and welfare protection;",
+      "rationale": "The Act establishes formal multi-agency coordination mechanisms, including a Committee composed of senior officials from multiple ministries and agencies, and designates the Family Promotion and Protection Center as a coordination center with government agencies and the private sector. These are operative institutional structures supporting implementation relevant to domestic violence welfare protection.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๓) เป็นศูนย์กลางแห่งการเรียนรู้ในการส่งเสริมและพัฒนาครอบครัวและการคุ้มครองสวัสดิภาพ และเป็นศูนย์กลางในการประสานงานกับหน่วยงานของรัฐและเอกชนในการด าเนินการเพื่อส่งเสริมและ พัฒนาครอบครัวและคุ้มครองสวัสดิภาพ",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(๒) To provide knowledge and understanding, counseling and advice, and mediation and conciliation in matters of family problems, as well as to receive reports, collect, and compile facts concerning acts of domestic violence for the purpose of filing petitions or statements to the court and welfare protection;\n(๓) ตรวจสอบ ประเมินสภาพปัญหาที่เกิดขึ้น รวบรวมข้อเท็จจริงและสาเหตุเกี่ยวกับการกระท า ความรุนแรงในครอบครัว รายงานความเห็นหรือผลการตรวจของผู้ประกอบวิชาชีพซึ่งเกี่ยวข้อง และ สรุปประมวลผล เพื่อให้หัวหน้าศูนย์พิจารณาออกค าสั่งคุ้มครองสวัสดิภาพ หรือเสนอต่อศาลเพื่อพิจารณา ออกค าสั่งคุ้มครองสวัสดิภาพ หรือด าเนินการอื่นใดตามพระราชบัญญัตินี้",
+      "rationale": "The framework assigns explicit duties to receive reports, collect and compile facts concerning acts of domestic violence, and to gather facts/causes and report and summarize results for decision-making on welfare protection orders. This constitutes mandated collection/recording/reporting of domestic violence case information by responsible entities.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๒) ให้ความรู้ความเข้าใจ ค าปรึกษาแนะนา และไกล่เกลี่ยประนปี ระนอม ในเรื่องของปญั หา เกี่ยวกับครอบครัว รวมทั้งรับแจ้ง รวบรวม และประมวลข้อเท็จจริงเกี่ยวกับการกระท าความรุนแรงใน ครอบครัว เพื่อประโยชน์ในการยื่นค าร้องขอหรือค าแถลงต่อศาล และการคุ้มครองสวัสดิภาพ\n\n(๓) ตรวจสอบ ประเมินสภาพปัญหาที่เกิดขึ้น รวบรวมข้อเท็จจริงและสาเหตุเกี่ยวกับการกระท า ความรุนแรงในครอบครัว รายงานความเห็นหรือผลการตรวจของผู้ประกอบวิชาชีพซึ่งเกี่ยวข้อง และ สรุปประมวลผล เพื่อให้หัวหน้าศูนย์พิจารณาออกค าสั่งคุ้มครองสวัสดิภาพ หรือเสนอต่อศาลเพื่อพิจารณา ออกค าสั่งคุ้มครองสวัสดิภาพ หรือด าเนินการอื่นใดตามพระราชบัญญัตินี้",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming in planning/budgeting/service delivery, a gender mainstreaming focal point/working group). References to women as a field of expertise for committee members do not amount to a gender mainstreaming mechanism.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(๕) To implement programs and guidelines for the development of the capacity of officials and personnel involved in the promotion and development of families and welfare protection, as well as to evaluate the performance of officials and personnel in the family promotion and protection center;",
+      "rationale": "The Act assigns the Family Promotion and Protection Center the duty to implement programs and guidelines for the development of the capacity of officials and personnel involved in promotion/development of families and welfare protection, which includes domestic violence welfare protection functions under the Act.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๕) ด าเนินการตามแผนงานและแนวทางในการพัฒนาศักยภาพของพนักงานเจ้าหน้าที่และบุคลากร ที่เกี่ยวข้องกับการส่งเสริมและพัฒนาครอบครัวและการคุ้มครองสวัสดิภาพ รวมทั้งประเมินผลการปฏิบัติงาน ของพนักงานเจ้าหน้าที่และบุคลากรในศูนย์ส่งเสริมและคุ้มครองครอบครัว",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(๒) To monitor and evaluate the implementation of policies, strategies, master plans, programs, measures, and guidelines for the promotion and development of families and welfare protection, as well as to report on the promotion and development of families and welfare protection to the Council of Ministers and the National Assembly for acknowledgment at least once a year;\n(๖) To monitor and report on the implementation of this Act to the Director-General and the Minister;",
+      "rationale": "The framework designates responsible bodies and requirements to monitor and evaluate implementation of policies/strategies/master plans and to monitor and report on implementation of the Act to senior authorities. These are operative monitoring/evaluation and reporting provisions tied to implementation of welfare protection including domestic violence measures.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๒) ติดตามและประเมินผลการด าเนินงานตามนโยบาย ยุทธศาสตร์ แผนหลัก แผนงาน มาตรการ และแนวทางในการส่งเสริมและพัฒนาครอบครัวและการคุ้มครองสวัสดิภาพ รวมทั้งรายงานผล เกี่ยวกับการส่งเสริมและพัฒนาครอบครัวและการคุ้มครองสวัสดิภาพต่อคณะรัฐมนตรีและรัฐสภาเพื่อทราบ อย่างน้อยปีละหนึ่งครั้ง\n\n(๖) ติดตามและรายงานผลการด าเนินงานตามพระราชบัญญัตินี้ต่ออธิบดีและรัฐมนตรี",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not create a binding requirement to allocate budget/funding from a specified source for domestic violence response or prevention. Provisions about requesting or providing assistance/support in resources or personnel development are permissive and do not mandate budget allocation.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "มาตรา ๑๓ In implementing this Act, the Provincial Office of Social Development and Human Security shall serve as the family promotion and protection center in the provincial area, and the Department of Women's Affairs and Family Development shall serve as the family promotion and protection center in the Bangkok Metropolitan area, and shall have the following duties and powers:\n(๓) To serve as a learning center for the promotion and development of families and welfare protection, and as a coordination center with government agencies and the private sector in carrying out the promotion and development of families and welfare protection;\n(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม\n(๕) ประสานงานกับเจ้าหน้าที่ฝ่ายปกครองหรือต ารวจ เจ้าหน้าที่ของสถานพยาบาล หรือ พนักงานเจ้าหน้าที่ตามกฎหมายอื่นที่เกี่ยวข้องกับการคุ้มครองสวัสดิภาพเพื่อด าเนินการตาม (๔)",
+      "rationale": "The Act establishes and designates Family Promotion and Protection Centers (provincial and Bangkok) with duties including serving as a coordination center with government agencies/private sector, and competent officials must coordinate with hospitals/police/administration to ensure victims receive multiple forms of assistance (medical care, counselling, rehabilitation/other help). This constitutes an operative, designated mechanism coordinating multiple services for domestic violence victims (even if not women-specific).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "มาตรา ๑๓ ในการปฏิบัติตามพระราชบัญญัตินี้ ให้ส านักงานพัฒนาสังคมและความมั่นคง ของมนุษย์จังหวัดเป็นศูนย์ส่งเสริมและคุ้มครองครอบครัวในเขตพื้นที่จังหวัด และให้กรมกิจการสตรีและ สถาบันครอบครัวเป็นศูนย์ส่งเสริมและคุ้มครองครอบครัวในเขตพื้นที่กรุงเทพมหานคร และให้มีหน้าที่ และอ านาจ ดังต่อไปนี้\n\n(๓) เป็นศูนย์กลางแห่งการเรียนรู้ในการส่งเสริมและพัฒนาครอบครัวและการคุ้มครองสวัสดิภาพ และเป็นศูนย์กลางในการประสานงานกับหน่วยงานของรัฐและเอกชนในการด าเนินการเพื่อส่งเสริมและ พัฒนาครอบครัวและคุ้มครองสวัสดิภาพ\n\n(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม\n\n(๕) ประสานงานกับเจ้าหน้าที่ฝ่ายปกครองหรือต ารวจ เจ้าหน้าที่ของสถานพยาบาล หรือ พนักงานเจ้าหน้าที่ตามกฎหมายอื่นที่เกี่ยวข้องกับการคุ้มครองสวัสดิภาพเพื่อด าเนินการตาม (๔)",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "มาตรา ๒๓ Any person who witnesses or becomes aware of domestic violence shall report information\nor news of such case to an official, the Social Assistance Center of the Ministry of Social Development and\nThe report under paragraph one may be made orally, in writing, by telephone, by electronic means,",
+      "rationale": "The Act provides an operative reporting mechanism for domestic violence: reports can be made to an official, the Social Assistance Center, or directly to the Family Promotion and Protection Center, including by telephone and electronic means. This is a designated service/mechanism for receiving reports and seeking assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "มาตรา ๒๓ ผู้ใดพบเห็นหรือทราบว่ามีการกระท าความรุนแรงในครอบครัว ให้แจ้งข้อมูล\n\nหรือข่าวสารกรณีดังกล่าวต่อพนักงานเจ้าหน้าที่ ศูนย์ช่วยเหลือสังคม กระทรวงการพัฒนาสังคมและ\n\nสวัสดิภาพ",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe welfare protection, reporting, coordination, and various protective measures (e.g., removal of perpetrator from victim’s residence), but do not establish or require shelters, safe houses, temporary accommodation, or other residential protection facilities/services for victims.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences address reporting, welfare protection, coordination, and court-related procedures, but do not establish legal aid/representation/counselling for victims of domestic violence (or women victims specifically).",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม\n(๕) ประสานงานกับเจ้าหน้าที่ฝ่ายปกครองหรือต ารวจ เจ้าหน้าที่ของสถานพยาบาล หรือ พนักงานเจ้าหน้าที่ตามกฎหมายอื่นที่เกี่ยวข้องกับการคุ้มครองสวัสดิภาพเพื่อด าเนินการตาม (๔)",
+      "rationale": "Competent officials are tasked to ensure victims receive medical examination/treatment according to medical standards and to coordinate with hospital officials to carry out such assistance. This is an operative linkage to medical services for domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม\n\n(๕) ประสานงานกับเจ้าหน้าที่ฝ่ายปกครองหรือต ารวจ เจ้าหน้าที่ของสถานพยาบาล หรือ พนักงานเจ้าหน้าที่ตามกฎหมายอื่นที่เกี่ยวข้องกับการคุ้มครองสวัสดิภาพเพื่อด าเนินการตาม (๔)",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม",
+      "rationale": "The Act requires that victims receive advice/recommendations from psychiatrists, psychologists, and social workers, alongside other assistance. This is an operative provision for psychosocial/psychological support services for domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious leaders, faith-based counselling, spiritual guidance, or any religious/spiritual support service for victims of violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม",
+      "rationale": "The Act includes operative victim-support elements beyond immediate protection by providing for remedy/healing and rehabilitation (including “remedy, treatment and rehabilitation” and other appropriate assistance) for persons subjected to domestic violence. While not detailed on reintegration/economic support, it does provide recovery/rehabilitation support services for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๔) ด าเนินการให้ผู้ถูกกระท าด้วยความรุนแรงในครอบครัวได้รับการช่วยเหลือและความคุ้มครอง ในเบื้องต้นเป็นการชั่วคราว ได้เข้ารับการตรวจรักษาตามมาตรฐานทางการแพทย์ ได้รับค าปรึกษาแนะน าจาก จิตแพทย์ นักจิตวิทยา นักสังคมสงเคราะห์ ตลอดจนไดร้ ับการเยียวยา บ าบัดฟื้นฟู หรือการช่วยเหลืออนื่ ใด ตามความเหมาะสม",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(๖) Requiring the perpetrator of domestic violence to receive psychosocial counseling or\n(๗) Requiring the perpetrator of domestic violence to receive treatment and rehabilitation for alcohol addiction, gambling, any addictive substance, or any other behavior which is the cause of the violence at a medical facility or treatment center",
+      "rationale": "Welfare protection measures include requiring the perpetrator to receive psychosocial counselling and to receive treatment and rehabilitation at a medical facility/treatment center (including for addiction/behaviours causing violence). These are operative perpetrator-focused intervention/rehabilitation measures intended to address behaviour and prevent reoffending.",
+      "coverage": "Substantive",
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๖) ให้ผู้กระท าความรุนแรงในครอบครัวเข้ารับค าปรึกษาแนะน าทางจิตวิทยาสังคม หรือ\n\n(๗) ให้ผู้กระท าความรุนแรงในครอบครัวเข้ารับการแก้ไขบ าบัดฟื้นฟูอาการติดสุรา การพนัน สิ่งเสพติดใด ๆ หรือพฤติกรรมอื่นใด ซึ่งเป็นต้นเหตุของการกระท าความรุนแรง ณ สถานพยาบาลหรือ สถานบ าบัด",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss welfare protection measures, reporting mechanisms, confidentiality of victim information (including limited disclosure for educational purposes), and general provision of knowledge/counseling on family problems. None of the candidate sentences explicitly require or provide public information/awareness/education activities specifically about violence against women (or domestic violence) as a primary prevention measure (e.g., campaigns, community education, dissemination aimed at preventing VAW).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide for advice/guidance on family matters, general knowledge and understanding for registrars/officials about family promotion, and announcing rights/benefits to the public. They do not mention gender equality, women’s rights, non-discrimination against women, or any educational/awareness activity on those topics linked to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references domestic violence procedures and includes general “knowledge and understanding”/advice on family matters, it does not specify dissemination or public education about laws, regulations, policies, or legal protections related to violence against women/domestic violence as a prevention strategy. The confidentiality clause allowing disclosure for educational purposes is about conditions for disclosure, not a mandate to educate the public about VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify schools, curricula, educational institutions, or education-quality improvements as measures to prevent violence against women. References to providing knowledge/understanding relate to family promotion and welfare protection generally, without an explicit education-system-based prevention measure for VAW.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish prevention activities specifically engaging men or boys (e.g., programmes targeting men/boys, masculinity/gender-norm change initiatives) to prevent violence against women. The provisions focus on domestic violence welfare protection, procedures, and general family-related guidance.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(๔) To promote the provision of support, coordination, monitoring, and assistance to government agencies, private sector, and civil society organizations that carry out the promotion and development of families and welfare protection;",
+      "rationale": "The policy includes an operative provision assigning the Committee a duty to promote support, coordination, monitoring, and assistance to civil society organizations carrying out family promotion/development and welfare protection, which encompasses domestic violence welfare protection activities under the Act.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(๔) ส่งเสริมให้มีการสนับสนุน ประสานงาน ติดตามผล และช่วยเหลือหน่วยงานของรัฐ เอกชน และภาคประชาสังคม ที่ด าเนินการส่งเสริมและพัฒนาครอบครัวและการคุ้มครองสวัสดิภาพ",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references 'culture and religion' as fields of expertise for committee member recruitment, it does not establish or require any engagement or collaboration with religious/traditional organizations or leaders in preventing or responding to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention the Ministry of Education as an ex officio committee member and refer to 'educational development' as an expertise field, but they do not establish cooperation with schools/universities or assign education institutions roles in domestic violence/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences include references to Thailand's role at national and international levels in family promotion/welfare protection, but they do not establish any cooperation mechanism with international organizations specifically for domestic violence/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions regulate dissemination of information/images about domestic violence cases (including prohibitions and consent requirements), but they do not establish or require engagement/collaboration with media actors as partners in prevention, awareness, or response.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the Act requires any person who witnesses or becomes aware of domestic violence to report it, the coding rules specify not to infer community engagement merely from reporting duties; the candidate sentences do not otherwise establish community participation/collaboration mechanisms for prevention or response.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text allows employers/business establishment owners to request government assistance to implement family promotion/development policies for their personnel, but it does not link private-sector participation to domestic violence/VAW prevention or response measures, nor establish private-sector roles in DV/VAW programming.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss government agencies providing assistance/support (including financial support) and define state agencies as including local administration, but they do not explicitly identify a local government budget as a funding/budget source.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention government agencies considering providing financial/resource support and Cabinet-approved plans, but they do not explicitly state that funding comes from the national government budget or identify a national budget line/source.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international-related reference concerns Thailand's role at national and international levels, but there is no explicit mention of international assistance, donors, UN agencies, foreign governments, or international funding/support for protection/VAW measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references regulations, ministerial rules, and court processes, it does not identify any funding/budget source from other legal sources (e.g., earmarked funds, fines, levies, or other legally created funding mechanisms) as a source of financing.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe provincial offices/officials and centers and mention possible financial support from government agencies, but they do not explicitly cite a provincial government budget as a funding/budget source.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 14,
+    "resolved": 14,
+    "rate": 1.0
+  }
+}

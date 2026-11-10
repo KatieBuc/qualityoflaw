@@ -27,6 +27,7 @@
     "max_workers": 10
   },
   "confidence": {
+    "coverage_labels": [],
     "enabled": true,
     "methods": [
       "verbalized"
@@ -90,6 +91,7 @@
       "enabled": true,
       "rrf_k": 60
     },
+    "max_prompt_tokens": 200000,
     "reranker": {
       "candidate_pool_size": 125,
       "enabled": true,

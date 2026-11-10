@@ -1,0 +1,943 @@
+{
+  "policy_file": "65. Greece - DomViol - Greek.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T14:11:08.782910+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "1. domestic violence, the commission of a punishable act against a family member, in accordance with Articles 6, 7, 8 and 9 of this law and Articles 299 and 311 of the Penal Code.\nThe exercise of violence of any form between family members is prohibited.\n1. In case of commission of a crime of domestic violence, it is possible, if under the specific circumstances it is deemed necessary for the protection of the physical and mental health of the victim, to impose on the accused by the competent criminal court to which he is referred for trial or by the competent examining magistrate or by the judicial council and for as long as required, the restrictive condition of his removal from the family home, his relocation, the prohibition to approach the victim's places of residence and/or work, residences of close relatives, children's educational institutions and shelters.",
+      "rationale": "The text contains operative provisions that explicitly define domestic violence and victims of domestic violence, prohibit violence between family members, and provide criminal-court protective measures (e.g., removal from the home and no-approach conditions) in domestic violence cases—meeting the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. ενδοοικογενειακή βία, η τέλεση αξιόποινης πράξης, σε βάρος μέλους της οικογένειας, σύμφωνα με τα άρθρα 6, 7, 8 και 9 του παρόντος και τα άρθρα 299 και 311 του Ποινικού Κώδικα.\n\nΗ άσκηση βίας κάθε μορφής μεταξύ των μελών της οικογένειας απαγορεύεται.\n\n1. Σε περίπτωση διαπράξεως εγκλήματος ενδοοικογενειακής βίας είναι δυνατόν, αν υπό τις συγκεκριμένες συνθήκες κρίνεται απαραίτητο για την προστασία της σωματικής και ψυχικής υγείας του θύματος, να επιβληθεί στον κατηγορούμενο από το αρμόδιο ποινικό δικαστήριο στο οποίο παραπέμπεται να δικασθεί ή από τον αρμόδιο ανακριτή ή από το δικαστικό συμβούλιο και για όσο χρονικό διάστημα απαιτείται, ο περιοριστικός όρος της απομάκρυνσης του από την οικογενειακή κατοικία, η μετοίκηση του, η απαγόρευση να προσεγγίζει τους χώρους κατοικίας ή και εργασίας του θύματος, κατοικίες στενών συγγενών του, τα εκπαιδευτήρια των παιδιών και ξενώνες φιλοξενίας.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not explicitly define, prohibit, or criminalise sexual violence/assault/rape/sexual harassment. The only sexual-content provision shown concerns offending dignity with a humiliating word or act relating to sexual life, which does not clearly constitute sexual violence as defined in the coding rules, and the amendments to Penal Code articles are not described in substance here.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "1. A family member who causes to another family member bodily harm or injury to his health, within the meaning of subparagraph a' of paragraph 1 of Article 308 of the Penal Code, or by continuous conduct causes very slight harm or injury to his health, within the meaning of subparagraph b' of the above provision, is punished by imprisonment of at least one year.\nIn the case of exercise of physical violence against a minor as a means of discipline in the context of upbringing, Article 1532 of the Civil Code applies.",
+      "rationale": "The text includes operative criminal provisions punishing bodily harm/injury to health between family members and also explicitly references physical violence against a minor in an operative rule, satisfying substantive coverage of physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Το μέλος της οικογένειας το οποίο προξενεί σε άλλο μέλος αυτής σωματική κάκωση ή βλάβη της υγείας του, υπό την έννοια του εδαφίου α' της παρ. 1 του άρθρου 308 του Ποινικού Κώδικα, ή με συνεχή συμπεριφορά προξενεί εντελώς ελαφρά κάκωση ή βλάβη της υγείας του, με την έννοια του εδαφίου β' της παραπάνω διάταξης, τιμωρείται με φυλάκιση, τουλάχιστον, ενός έτους.\n\nΕπί ασκήσεως σωματικής βίας σε βάρος ανηλίκου, ως μέσου σωφρονισμού στο πλαίσιο της ανατροφής του, εφαρμόζεται το άρθρο 1532 του Αστικού Κώδικα.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "2. A family member who causes terror or anxiety to another family member by threatening him with violence or other unlawful act or omission is punished by imprisonment.\n4. If the act of the first paragraph constitutes systematic infliction of intense physical pain or physical exhaustion, dangerous to health, or mental pain, capable of causing serious mental injury, especially by prolonged isolation of the victim, imprisonment for a term of years is imposed.",
+      "rationale": "The candidate sentences include operative criminal provisions addressing conduct that causes terror or anxiety through threats and also refer to systematic infliction of mental pain capable of causing serious mental injury, which substantively covers psychological violence/abuse under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Το μέλος της οικογένειας το οποίο προκαλεί τρόμο ή ανησυχία σε άλλο μέλος της οικογένειας, απειλώντας το με βία ή άλλη παράνομη πράξη ή παράλειψη, τιμωρείται με φυλάκιση.\n\n4. Αν η πράξη της πρώτης παραγράφου συνιστά μεθοδευμένη πρόκληση έντονου σωματικού πόνου ή σωματικής εξάντλησης, επικίνδυνης για την υγεία, ή ψυχικού πόνου, ικανού να επιφέρει σοβαρή ψυχική βλάβη, ιδίως με την παρατεταμένη απομόνωση του θύματος, επιβάλλεται κάθειρξη.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention economic violence/abuse, financial deprivation, economic exploitation, or neglect as a form of violence. References to material assistance and monetary satisfaction are remedies/support but are not framed as economic violence or economic neglect, so they do not meet the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/cutting, honour crimes, female infanticide, or any similar harmful practice, nor do they include minimum-age or protective rules tied to such practices.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they show homicide aggravation, registries, or prevention/monitoring mechanisms specific to femicide.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of human trafficking/trafficking in persons or trafficking victims, and no trafficking-related exploitation is defined or criminalised in the provided text.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention sexual exploitation, sexual slavery, forced prostitution, or exploitation for sexual purposes. The provision on humiliating acts relating to sexual life does not establish a sexual-exploitation nexus as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference cyber violence, online harassment, digital abuse, or any technology-facilitated form of violence; they address domestic violence generally and related procedures/services without a digital-violence component.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "1. A family member who causes to another family member bodily harm or injury to his health, within the meaning of subparagraph a' of paragraph 1 of Article 308 of the Penal Code, or by continuous conduct causes very slight harm or injury to his health, within the meaning of subparagraph b' of the above provision, is punished by imprisonment of at least one year.",
+      "rationale": "The framework contains operative criminal provisions defining domestic-violence-related conduct (e.g., causing bodily harm to a family member) and attaches a specific criminal sanction (imprisonment of at least one year), which satisfies the requirement for criminal penalties for at least one form of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Το μέλος της οικογένειας το οποίο προξενεί σε άλλο μέλος αυτής σωματική κάκωση ή βλάβη της υγείας του, υπό την έννοια του εδαφίου α' της παρ. 1 του άρθρου 308 του Ποινικού Κώδικα, ή με συνεχή συμπεριφορά προξενεί εντελώς ελαφρά κάκωση ή βλάβη της υγείας του, με την έννοια του εδαφίου β' της παραπάνω διάταξης, τιμωρείται με φυλάκιση, τουλάχιστον, ενός έτους.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text provides for restrictive conditions such as removal from the home and no-approach measures imposed by a criminal court/magistrate, the candidate sentences do not specify who may apply for such an order and do not define a consequence for breach of the restrictive condition, both of which are required for a substantive 'Yes' under the coding rules; it also goes beyond a mere general reference, but still lacks the required elements.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe general obligations of police authorities in domestic violence cases (e.g., informing victims and protecting identity) but do not designate or mandate any specific specialised unit/desk/division within police services for handling VAW cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to competent criminal courts, examining magistrates, and procedural steps (including criminal mediation), but do not establish a specialised court/chamber, designate specialised judicial officers, or create an expedited/specialised judicial procedure specifically for VAW cases beyond ordinary competent authorities.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence in relation to family members (including spouses) and reference amendments to Penal Code provisions, but they do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise clearly remove any marital exemption for sexual violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "1. Victims of domestic violence are entitled to moral support and necessary material assistance from legal entities of public or private law, operating specifically for these purposes under the supervision of the Ministry of Health and Social Solidarity, and from social services of local government organizations.\n2. Police authorities dealing with, within the scope of their competencies, cases of domestic violence are obliged, if requested by the victim, to inform the victim and the above entities, so that the necessary assistance, as the case may be, is provided immediately.",
+      "rationale": "The cited provisions describe multiple entities involved in victim assistance (legal entities under ministry supervision and local government social services) and require police, upon the victim’s request, to inform both the victim and those entities so assistance is provided immediately. This constitutes an operative, multi-actor coordination/referral process between police and service-providing entities (and across central ministry-supervised and local government services).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Τα θύματα ενδοοικογενειακής βίας δικαιούνται ηθικής συμπαράστασης και της αναγκαίας υλικής συνδρομής από νομικά πρόσωπα δημοσίου ή ιδιωτικού δικαίου, που λειτουργούν ειδικά για τους σκοπούς αυτούς υπό την εποπτεία του Υπουργείου Υγείας και Κοινωνικής Αλληλεγγύης, και από κοινωνικές υπηρεσίες των οργανισμών τοπικής αυτοδιοίκησης.\n\n2. Οι αστυνομικές αρχές που επιλαμβάνονται, στο πλαίσιο των αρμοδιοτήτων τους, υποθέσεων ενδοοικογενειακής βίας υποχρεούνται, εφόσον το ζητήσει το θύμα, να ενημερώσουν αυτό και τους παραπάνω φορείς, ώστε να παρασχεθεί αμέσως η απαραίτητη, κατά περίπτωση, αρωγή.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "1. The prosecutor's order issued following criminal mediation is registered in a special section of the criminal record certificate and is kept for a period equal to the statute of limitations for the crime to which it relates as provided by law.\nIf the victim's response is positive, the prosecutor by his order places the case file in a special archive of the prosecutor's office.",
+      "rationale": "The framework requires the prosecutor’s order following criminal mediation to be registered in a special section of the criminal record certificate, and also provides that the prosecutor places the case file in a special archive of the prosecutor’s office. These are explicit operative requirements to record/register and archive case-related information in official systems.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Η διάταξη του εισαγγελέα που εκδίδεται κατόπιν ποινικής διαμεσολάβησης καταχωρίζεται σε ειδική μερίδα στο δελτίο ποινικού μητρώου και τηρείται για χρονικό διάστημα ίσο προς τον εκ του νόμου προβλεπόμενο χρόνο παραγραφής του εγκλήματος στο οποίο αφορά.\n\nΚατά της διατάξεως αυτής δεν χωρεί προσφυγή.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention gender mainstreaming, gender mainstreaming mechanisms, or institutional requirements to mainstream gender in planning/budgeting/service delivery for violence against women. The text focuses on domestic violence definitions, criminal/civil procedures, and victim assistance without any gender-mainstreaming provisions.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mandate or provide for training, technical guidance, or capacity building for officials or service providers. References to counseling/therapeutic programs concern perpetrators’ participation, not training of implementing personnel, and other provisions address procedures and duties without training requirements.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish any monitoring and evaluation mechanism, reporting requirement, indicator framework, or designated body to assess implementation or service delivery. They address assistance, confidentiality, criminal mediation, and procedural matters only.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence contains a binding requirement to allocate budget/funding or establish a funding mechanism for implementation, prevention, or response services. The provisions on assistance and legal aid/poverty benefit do not constitute a budget allocation mandate.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions provide for victim assistance from various entities and an obligation for police to inform the victim and those entities so assistance can be provided, but they do not explicitly establish/mandate/recognise a designated integrated or one-stop/multidisciplinary service mechanism or coordination unit. This is closer to listing available services and notification rather than creating an integrated service mechanism as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish a hotline/helpline or a designated victim-facing reporting/complaint mechanism. They include inter-authority reporting by school officials and police obligations to inform victims about assistance entities, but do not create a service through which victims can report violence or seek emergency support as a defined mechanism.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "1. In case of commission of a crime of domestic violence, it is possible, if under the specific circumstances it is deemed necessary for the protection of the physical and mental health of the victim, to impose on the accused by the competent criminal court to which he is referred for trial or by the competent examining magistrate or by the judicial council and for as long as required, the restrictive condition of his removal from the family home, his relocation, the prohibition to approach the victim's places of residence and/or work, residences of close relatives, children's educational institutions and shelters.",
+      "rationale": "The framework expressly includes “shelters” among protected places in the context of imposing restrictive conditions (including removal/relocation and prohibitions on approaching specified locations), which constitutes an operative provision recognising shelter-related residential protection for victims at risk.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Σε περίπτωση διαπράξεως εγκλήματος ενδοοικογενειακής βίας είναι δυνατόν, αν υπό τις συγκεκριμένες συνθήκες κρίνεται απαραίτητο για την προστασία της σωματικής και ψυχικής υγείας του θύματος, να επιβληθεί στον κατηγορούμενο από το αρμόδιο ποινικό δικαστήριο στο οποίο παραπέμπεται να δικασθεί ή από τον αρμόδιο ανακριτή ή από το δικαστικό συμβούλιο και για όσο χρονικό διάστημα απαιτείται, ο περιοριστικός όρος της απομάκρυνσης του από την οικογενειακή κατοικία, η μετοίκηση του, η απαγόρευση να προσεγγίζει τους χώρους κατοικίας ή και εργασίας του θύματος, κατοικίες στενών συγγενών του, τα εκπαιδευτήρια των παιδιών και ξενώνες φιλοξενίας.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions include eligibility for the “benefit of poverty” regarding judicial costs, but they do not explicitly establish or guarantee legal aid/representation/advice for victims of domestic violence. General material assistance and cost relief are not, on these sentences alone, a legal assistance mechanism as defined by the coding rules.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "a) may order the conduct of a medical expert examination on the alleged victim, in order to investigate the validity of the complaint regarding the commission of the act against them,",
+      "rationale": "The framework authorises a medical expert examination of the alleged victim in the course of a preliminary investigation, which is an operative, violence-linked medical/forensic service response for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "2 του Κώδικα Ποινικής Δικονομίας.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not provide psychosocial/psychological counselling services to victims. References to “moral support” and the possibility for judicial authorities to seek advisory opinions from psychologists/social workers relate to court decision-making, not a victim counselling/support service mechanism.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No cited sentence mentions religious leaders, pastoral care, chaplaincy, or any faith-based counselling/support service for victims.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on immediate assistance/material support and procedural protections, without establishing longer-term recovery/rehabilitation/reintegration measures (e.g., livelihood support, training, reintegration services) for victims.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "b) to attend a special counseling - therapeutic program for addressing domestic violence at a public provider, in whatever place and for whatever period of time is deemed necessary by the competent therapists.",
+      "rationale": "The framework makes participation in a “special counseling - therapeutic program for addressing domestic violence” at a public provider a condition within the criminal mediation process, which constitutes an operative perpetrator-focused intervention/behaviour-change programme.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "β) να παρακολουθήσει ειδικό συμβουλευτικό - θεραπευτικό πρόγραμμα για την αντιμετώπιση της ενδοοικογενειακής βίας σε δημόσιο φορέα, σε όποιον τόπο και για όσο χρονικό διάστημα κρίνεται τούτο αναγκαίο από τους αρμόδιους θεραπευτές.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on definitions, criminal provisions, victim assistance, confidentiality, reporting obligations for teachers, and criminal mediation including a counseling/therapeutic program for perpetrators. None of the sentences explicitly require or provide public information, awareness-raising, communication, or education activities specifically about violence against women (or domestic violence) as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved provisions address domestic violence offences, procedures, victim assistance, and related measures, but do not include any operative requirement for information/education/awareness activities about gender equality or women’s rights, nor do they link such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes an obligation for police to inform the victim and relevant entities so assistance can be provided, it does not specify dissemination or public education about laws/policies/legal protections on violence against women as a prevention activity. The remaining sentences describe legal rules and procedures rather than requiring awareness-raising about those laws/policies.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Education-related references are limited to (a) prohibiting an accused from approaching children’s educational institutions as part of protective restrictions, and (b) teachers’/school directors’ duties to report domestic violence against a student. These are protection/reporting measures, not education, curricula, or educational-institution initiatives explicitly identified as primary prevention of violence against women.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only potentially relevant measure is a requirement (as part of criminal mediation) that an alleged perpetrator attend a counseling/therapeutic program addressing domestic violence. This is a post-incident perpetrator-focused intervention, not an explicit primary prevention activity engaging men and boys (or changing masculinities/gender norms) to prevent violence against women before it occurs.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "1. Victims of domestic violence are entitled to moral support and necessary material assistance from legal entities of public or private law, operating specifically for these purposes under the supervision of the Ministry of Health and Social Solidarity, and from social services of local government organizations.\n2. Police authorities dealing with, within the scope of their competencies, cases of domestic violence are obliged, if requested by the victim, to inform the victim and the above entities, so that the necessary assistance, as the case may be, is provided immediately.",
+      "rationale": "The cited provisions create an operative victim-assistance/referral arrangement involving \"legal entities of public or private law\" operating for victim-support purposes, and require police (upon victim request) to inform both the victim and those entities so assistance is provided. This establishes/authorises participation of non-state (potentially NGO/civil society) entities in response/service delivery for domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Τα θύματα ενδοοικογενειακής βίας δικαιούνται ηθικής συμπαράστασης και της αναγκαίας υλικής συνδρομής από νομικά πρόσωπα δημοσίου ή ιδιωτικού δικαίου, που λειτουργούν ειδικά για τους σκοπούς αυτούς υπό την εποπτεία του Υπουργείου Υγείας και Κοινωνικής Αλληλεγγύης, και από κοινωνικές υπηρεσίες των οργανισμών τοπικής αυτοδιοίκησης.\n\n2. Οι αστυνομικές αρχές που επιλαμβάνονται, στο πλαίσιο των αρμοδιοτήτων τους, υποθέσεων ενδοοικογενειακής βίας υποχρεούνται, εφόσον το ζητήσει το θύμα, να ενημερώσουν αυτό και τους παραπάνω φορείς, ώστε να παρασχεθεί αμέσως η απαραίτητη, κατά περίπτωση, αρωγή.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors in relation to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "1. A teacher of primary or secondary education who, during the execution of their educational work, in any way becomes aware or ascertains that a domestic violence crime has been committed against a student, informs, without delay, the director of the school unit.\nThe director of the school unit announces, immediately, the punishable act to the competent prosecutor, in accordance with the provisions of paragraph 1 of Article 37 of the Code of Criminal Procedure, or to the nearest police authority.\nTeachers and directors of private schools, as well as those responsible for Preschool Education Units of any kind, have the same obligation.",
+      "rationale": "The framework assigns specific responsibilities to education-sector actors (teachers, school directors, private schools, and preschool unit heads) to report domestic violence crimes against students to school leadership and then to prosecutorial/police authorities. This is an operative role for education institutions/actors in the response/referral pathway for domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Εκπαιδευτικός της πρωτοβάθμιας ή δευτεροβάθμιας εκπαίδευσης ο οποίος, κατά την εκτέλεση του εκπαιδευτικού του έργου, με οποιονδήποτε τρόπο πληροφορείται ή διαπιστώνει ότι έχει διαπραχθεί σε βάρος μαθητή έγκλημα ενδοοικογενειακής βίας, ενημερώνει, χωρίς καθυστέρηση, τον διευθυντή της σχολικής μονάδας.\n\nΟ διευθυντής της σχολικής μονάδας ανακοινώνει, αμέσως, την αξιόποινη πράξη στον αρμόδιο εισαγγελέα, σύμφωνα με τις διατάξεις της παραγράφου 1 του άρθρου 37 του Κώδικα Ποινικής Δικονομίας, ή στην πλησιέστερη αστυνομική αρχή.\n\nΤην ίδια υποχρέωση έχουν οι εκπαιδευτικοί και οι διευθυντές των ιδιωτικών σχολείων, καθώς και οι υπεύθυνοι των πάσης φύσεως Μονάδων Προσχολικής Αγωγής.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference international organisations or establish any cooperation/technical assistance/coordination mechanism with international or regional bodies concerning domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include confidentiality restrictions and victim assistance provisions but do not mention media organisations/actors as partners, nor do they establish any media engagement mechanism for prevention/awareness/response to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references assistance from public/private legal entities and local government social services, it does not establish community/public participation, mobilisation, or collaboration mechanisms involving communities or members of the public in VAW prevention or response (beyond service provision by institutions).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "1. Victims of domestic violence are entitled to moral support and necessary material assistance from legal entities of public or private law, operating specifically for these purposes under the supervision of the Ministry of Health and Social Solidarity, and from social services of local government organizations.",
+      "rationale": "The framework provides, in an operative victim-assistance provision, that victims are entitled to support and material assistance from \"legal entities of public or private law\" operating for these purposes. This authorises/recognises a role for private-law entities (private-sector actors) in delivering assistance as part of the response to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Τα θύματα ενδοοικογενειακής βίας δικαιούνται ηθικής συμπαράστασης και της αναγκαίας υλικής συνδρομής από νομικά πρόσωπα δημοσίου ή ιδιωτικού δικαίου, που λειτουργούν ειδικά για τους σκοπούς αυτούς υπό την εποπτεία του Υπουργείου Υγείας και Κοινωνικής Αλληλεγγύης, και από κοινωνικές υπηρεσίες των οργανισμών τοπικής αυτοδιοίκησης.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences mention that victims may receive assistance from social services of local government organizations, but they do not specify any local government budget allocation or budget source/funding mechanism.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference entities supervised by a national ministry and other institutional provisions, but they do not mention national government budget funding or a national budget source for implementation or services.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international assistance, donors, UN agencies, foreign governments, or any other explicit international support or funding related to domestic violence measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences discuss assistance entitlements and legal aid/poverty benefit for judicial costs, but they do not identify any funding or budget source categorized as 'other legal sources' (i.e., a specified non-governmental/non-budget legal funding source).",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention provincial/regional government budgets or any provincial-level budget source. References to local government organizations are not provincial budgets and do not specify budget funding.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 12,
+    "resolved": 12,
+    "rate": 1.0
+  }
+}

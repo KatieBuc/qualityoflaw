@@ -36,6 +36,11 @@ _ABBREV_RE = re.compile(
 # Dotted abbreviations like "a.n." "u.b." "s.d." "d.a." -- each internal dot.
 _DOTTED_ABBREV_RE = re.compile(r"\b([a-z](?:\.[a-z])+)\.", re.IGNORECASE)
 _DOT = "\x00"
+# `pysbd` rewrites text it finds "connected" ("end.Next") with `re.sub(pattern, <the matched text>, ...)`, so a
+# backslash in that text is read as a regex escape: a file path such as `G:\COMP\103\103-322.XML` (the footer of every
+# page of a US bill) makes it raise `bad escape \C`, and with it the whole evaluation of the policy. Backslashes are
+# swapped for a character that cannot appear in the text while it segments, and put back afterwards.
+_BACKSLASH_STANDINS = ("\ue000", "\ue001", "\ue002", "\ue003")
 
 
 def split_sentences(text: str, *, protect_abbreviations: bool = False) -> list[str]:
@@ -78,4 +83,11 @@ def _segment_line(line: str, protect_abbreviations: bool) -> list[str]:
     if protect_abbreviations:
         line = _DOTTED_ABBREV_RE.sub(lambda m: m.group(0).replace(".", _DOT), line)
         line = _ABBREV_RE.sub(lambda m: m.group(1) + _DOT, line)
-    return [s.strip().replace(_DOT, ".") for s in _segmenter.segment(line) if s.strip()]
+    standin = None
+    if "\\" in line:
+        standin = next((c for c in _BACKSLASH_STANDINS if c not in line), None)
+        if standin is None:
+            raise ValueError("a line contains a backslash and every stand-in character; cannot segment it safely")
+        line = line.replace("\\", standin)
+    sentences = [s.strip().replace(_DOT, ".") for s in _segmenter.segment(line) if s.strip()]
+    return [s.replace(standin, "\\") for s in sentences] if standin else sentences

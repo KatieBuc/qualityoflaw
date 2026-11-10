@@ -1,0 +1,961 @@
+{
+  "policy_file": "146. Serbia - DomViol - Bosnian (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:00:32.261363+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Domestic violence, within the meaning of this law, is an act of physical, sexual, psychological or economic violence by a perpetrator against a person with whom the perpetrator is in a current or former marital or extramarital or partnership relationship, or against a person with whom he or she is a blood relative in direct line, and in collateral line up to the second degree, or with whom he or she is related by affinity up to the second degree, or whose adopter, adoptee, foster child or foster parent he or she is, or against another person with whom he or she lives or has lived in a common household.\nEmergency measures are: a measure of temporary removal of the perpetrator from the dwelling and a measure of temporary prohibition for the perpetrator to contact and approach the victim of violence.",
+      "rationale": "The law contains operative provisions defining domestic violence and establishing protective emergency measures (e.g., removal from dwelling and no-contact orders), as well as related duties and procedures, which constitutes substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nasilje u porodici, u smislu ovog zakona, jeste akt fizičkog, seksualnog, psihičkog ili ekonomskog nasilja učinioca prema licu sa kojim se učinilac nalazi u sadašnjem ili ranijem bračnom ili vanbračnom ili partnerskom odnosu ili prema licu sa kojim je krvni srodnik u pravoj liniji, a u pobočnoj liniji do drugog stepena ili sa kojim je srodnik po tazbini do drugog stepena ili kome je usvojitelj, usvojenik, hranjenik ili hranitelj ili prema drugom licu sa kojim živi ili je živeo u zajedničkom domaćinstvu.\n\nHitne mere su: mera privremenog udaljenja učinioca iz stana i mera privremene zabrane učiniocu da kontaktira žrtvu nasilja i prilazi joj.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "2) rape (Article 178. of the Criminal Code);\n7) sexual harassment (Article 182a of the Criminal Code);",
+      "rationale": "The law’s operative scope explicitly includes criminal proceedings for rape and sexual harassment (among other sexual offenses) as covered criminal offenses for cooperation/prevention and victim protection/support under the law, which is substantive coverage of sexual violence within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) silovanje (član 178. Krivičnog zakonika);\n\n7) polno uznemiravanje (član 182a Krivičnog zakonika);",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Domestic violence, within the meaning of this law, is an act of physical, sexual, psychological or economic violence by a perpetrator against a person with whom the perpetrator is in a current or former marital or extramarital or partnership relationship, or against a person with whom he or she is a blood relative in direct line, and in collateral line up to the second degree, or with whom he or she is related by affinity up to the second degree, or whose adopter, adoptee, foster child or foster parent he or she is, or against another person with whom he or she lives or has lived in a common household.",
+      "rationale": "Domestic violence is operatively defined to include physical violence, which brings physical violence within the law’s scope with legal consequences and procedures.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nasilje u porodici, u smislu ovog zakona, jeste akt fizičkog, seksualnog, psihičkog ili ekonomskog nasilja učinioca prema licu sa kojim se učinilac nalazi u sadašnjem ili ranijem bračnom ili vanbračnom ili partnerskom odnosu ili prema licu sa kojim je krvni srodnik u pravoj liniji, a u pobočnoj liniji do drugog stepena ili sa kojim je srodnik po tazbini do drugog stepena ili kome je usvojitelj, usvojenik, hranjenik ili hranitelj ili prema drugom licu sa kojim živi ili je živeo u zajedničkom domaćinstvu.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Domestic violence, within the meaning of this law, is an act of physical, sexual, psychological or economic violence by a perpetrator against a person with whom the perpetrator is in a current or former marital or extramarital or partnership relationship, or against a person with whom he or she is a blood relative in direct line, and in collateral line up to the second degree, or with whom he or she is related by affinity up to the second degree, or whose adopter, adoptee, foster child or foster parent he or she is, or against another person with whom he or she lives or has lived in a common household.",
+      "rationale": "Domestic violence is operatively defined to include psychological violence, thereby substantively covering psychological violence within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nasilje u porodici, u smislu ovog zakona, jeste akt fizičkog, seksualnog, psihičkog ili ekonomskog nasilja učinioca prema licu sa kojim se učinilac nalazi u sadašnjem ili ranijem bračnom ili vanbračnom ili partnerskom odnosu ili prema licu sa kojim je krvni srodnik u pravoj liniji, a u pobočnoj liniji do drugog stepena ili sa kojim je srodnik po tazbini do drugog stepena ili kome je usvojitelj, usvojenik, hranjenik ili hranitelj ili prema drugom licu sa kojim živi ili je živeo u zajedničkom domaćinstvu.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Domestic violence, within the meaning of this law, is an act of physical, sexual, psychological or economic violence by a perpetrator against a person with whom the perpetrator is in a current or former marital or extramarital or partnership relationship, or against a person with whom he or she is a blood relative in direct line, and in collateral line up to the second degree, or with whom he or she is related by affinity up to the second degree, or whose adopter, adoptee, foster child or foster parent he or she is, or against another person with whom he or she lives or has lived in a common household.",
+      "rationale": "Domestic violence is operatively defined to include economic violence, which is sufficient for substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nasilje u porodici, u smislu ovog zakona, jeste akt fizičkog, seksualnog, psihičkog ili ekonomskog nasilja učinioca prema licu sa kojim se učinilac nalazi u sadašnjem ili ranijem bračnom ili vanbračnom ili partnerskom odnosu ili prema licu sa kojim je krvni srodnik u pravoj liniji, a u pobočnoj liniji do drugog stepena ili sa kojim je srodnik po tazbini do drugog stepena ili kome je usvojitelj, usvojenik, hranjenik ili hranitelj ili prema drugom licu sa kojim živi ili je živeo u zajedničkom domaćinstvu.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative provisions targeting such practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific prevention/monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "17) human trafficking (Article 388. of the Criminal Code);",
+      "rationale": "Human trafficking is explicitly listed among the covered criminal offenses (with a Criminal Code reference) for which the law applies regarding cooperation and related protection/support provisions, constituting substantive inclusion of trafficking within the framework’s operative scope.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "17) trgovina ljudima (član 388. Krivičnog zakonika);",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the candidate sentences list offenses such as pimping/mediation in prostitution and exploitation of minors for pornography, they do not explicitly establish a sexual exploitation/sexual slavery nexus as defined in the coding rules (e.g., explicit ‘sexual exploitation’/‘sexual slavery’ terminology or trafficking provisions explicitly extending to sexual exploitation).",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention cyber/digital/online violence or technology-facilitated forms of abuse; references are limited to offline offenses and administrative mechanisms (e.g., records), which are excluded by the coding rules.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "A person who violates an urgent measure imposed or extended on them shall be punished by imprisonment of up to 60 days for a misdemeanour.",
+      "rationale": "The candidate sentences include an operative penal provision establishing imprisonment (up to 60 days) for violating an urgent measure, which is a criminal-type penalty (misdemeanour imprisonment) linked to domestic-violence-related protective measures. This demonstrates that the legal framework attaches a penal sanction in the context of domestic violence prevention and response.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Kaznom zatvora do 60 dana kazniće se za prekršaj lice koje prekrši hitnu meru koja mu je izrečena ili produžena.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "If, after the risk assessment, they establish an immediate danger of domestic violence, the competent police officer issues an order imposing an emergency measure on the perpetrator who has been brought to the competent organizational unit of the police (Article 15, paragraph 1).\nEmergency measures are: a measure of temporary removal of the perpetrator from the dwelling and a measure of temporary prohibition for the perpetrator to contact and approach the victim of violence.\nThe order contains: the name of the authority issuing it, data about the person to whom the emergency measure is imposed, the type of emergency measure being imposed and its duration, the day and hour of imposition of the emergency measure, and the obligation of the person to whom the emergency measure has been imposed to report to the police officer who imposed it upon its expiration.\nA person who violates an urgent measure imposed or extended on them shall be punished by imprisonment of up to 60 days for a misdemeanour.",
+      "rationale": "The text specifies an emergency measure order issued by a competent police officer upon finding immediate danger, defines the types of measures (removal from dwelling; prohibition of contact/approach), requires the order to include its duration, and provides a consequence for breach (punished by imprisonment up to 60 days for a misdemeanour). These elements meet the substantive coding requirements for a protection/restraining order mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Ako posle procene rizika ustanovi neposrednu opasnost od nasilja u porodici, nadležni policijski službenik donosi naređenje kojim izriče hitnu meru učiniocu koji je doveden u nadležnu organizacionu jedinicu policije (član 15. stav 1).\n\nHitne mere su: mera privremenog udaljenja učinioca iz stana i mera privremene zabrane učiniocu da kontaktira žrtvu nasilja i prilazi joj.\n\nNaređenje sadrži: naziv organa koji ga donosi, podatke o licu kome se izriče hitna mera, vrstu hitne mere koja se izriče i njeno trajanje, dan i čas izricanja hitne mere i obavezu lica kome je izrečena hitna mera da se po njenom isteku javi policijskom službeniku koji je izrekao.\n\nKaznom zatvora do 60 dana kazniće se za prekršaj lice koje prekrši hitnu meru koja mu je izrečena ili produžena.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe designation of trained 'competent police officers' and procedures for risk assessment and emergency measures, but they do not designate a specific specialised unit/desk/division within police services for VAW victims. Training-based designation of officers is not the same as establishing a specialised police unit.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "The president of each court of general jurisdiction and misdemeanor court designates judges who have completed specialized training to adjudicate cases of prevention of domestic violence and criminal offenses specified by this law.",
+      "rationale": "An operative provision requires the president of each court of general jurisdiction and misdemeanor court to designate judges who have completed specialized training to adjudicate domestic-violence-prevention cases and specified related criminal offenses. This constitutes a specialised judicial mechanism (specialised judges/procedure) for such cases.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "Predsednik svakog suda opšte nadležnosti i prekršajnog suda određuje sudije koje su završile specijalizovanu obuku da sude u predmetima sprečavanja nasilja u porodici i za krivična dela određena ovim zakonom.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference rape as a criminal offense in the Criminal Code and define domestic violence as including sexual violence within certain relationships, but they do not expressly state that rape/sexual-offence provisions apply within marriage or remove any spousal exemption. Under the coding rules, marital rape cannot be inferred from general rape criminalisation or general domestic-violence definitions.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "The Government establishes the Council for Combating Domestic Violence (hereinafter: Council), which monitors the implementation of this law and improves the coordination and effectiveness of prevention of domestic violence and protection from domestic violence.\nA coordination and cooperation group shall be formed in the territory of each basic public prosecutor's office.",
+      "rationale": "The text establishes formal coordination mechanisms, including a government-established Council to improve coordination and a mandated coordination and cooperation group formed in each basic public prosecutor’s office, which together constitute institutional coordination structures across relevant agencies.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Vlada obrazuje Savet za suzbijanje nasilja u porodici (u daljem tekstu: Savet), koji prati primenu ovog zakona i poboljšava koordinisanje i delotvornost sprečavanja nasilja u porodici i zaštitu od nasilja u porodici.\n\nNa području svakog osnovnog javnog tužilaštva obrazuje se grupa za koordinaciju i saradnju.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "The competent police administration maintains records of reported cases of domestic violence and of the imposition and enforcement of urgent measures and enforcement of protective measures against domestic violence.\nThe records of police administrations, basic courts, basic public prosecutor's offices and social welfare centres are maintained in electronic form and constitute the Central Records of Domestic Violence Cases (hereinafter: Central Records), maintained by the Republic Public Prosecutor's Office.",
+      "rationale": "The framework mandates that competent authorities maintain records of domestic violence cases and establishes an electronic Central Records of Domestic Violence Cases maintained by the Republic Public Prosecutor’s Office, meeting the requirement for a data collection/information system with assigned responsibility.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nadležna policijska uprava vodi evidencije o prijavljenim slučajevima nasilja u porodici i o izricanju i izvršenju hitnih mera i izvršenju mera zaštite od nasilja u porodici.\n\nEvidencije policijskih uprava, osnovnih sudova, osnovnih javnih tužilaštava i centara za socijalni rad vode se u elektronskom obliku i čine Centralnu evidenciju o slučajevima nasilja u porodici (u daljem tekstu: Centralna evidencija), koju vodi Republičko javno tužilaštvo.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions bodies for gender equality at the local self-government level participating in prevention, it does not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirements, focal points, or mainstreaming integration into planning/budgeting).",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Competent police officers and public prosecutors, deputy public prosecutors, and judges who apply this law are obliged to complete specialized training according to a program adopted by the Judicial Academy.\nSpecialized training is conducted by the Judicial Academy for public prosecutors, deputy public prosecutors, and judges, in cooperation with other professional institutions and organizations, and for police officers, specialized training is conducted by the Criminal Police Academy.",
+      "rationale": "The framework imposes an obligation on key implementing officials (police officers, prosecutors, judges) to complete specialized training and specifies the institutions responsible for conducting that training, which is a direct mandate for capacity building of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Nadležni policijski službenici i javni tužioci, zamenici javnih tužilaca i sudije koji primenjuju ovaj zakon dužni su da završe specijalizovanu obuku prema programu koji donosi Pravosudna akademija.\n\nSpecijalizovanu obuku sprovodi Pravosudna akademija za javne tužioce, zamenike javnih tužilaca i sudije, u saradnji sa drugim stručnim ustanovama i organizacijama, a za policijske službenike specijalizovanu obuku sprovodi Kriminalističkopolicijska akademija.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Government establishes the Council for Combating Domestic Violence (hereinafter: Council), which monitors the implementation of this law and improves the coordination and effectiveness of prevention of domestic violence and protection from domestic violence.",
+      "rationale": "The framework designates a specific body (the Council for Combating Domestic Violence) with the function to monitor implementation of the law, which constitutes an explicit monitoring mechanism for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Vlada obrazuje Savet za suzbijanje nasilja u porodici (u daljem tekstu: Savet), koji prati primenu ovog zakona i poboljšava koordinisanje i delotvornost sprečavanja nasilja u porodici i zaštitu od nasilja u porodici.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences create a binding requirement to allocate budget/funding or establish a funding mechanism/source for implementation; the excerpts focus on responsibilities, coordination, training, records, and rights (e.g., free legal aid by special law) without budget allocation provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "A coordination and cooperation group shall be formed in the territory of each basic public prosecutor's office.\nIt considers each case of domestic violence that has not been concluded by a final court decision in civil or criminal proceedings, cases where protection and support should be provided to victims of domestic violence and victims of criminal offenses under this law, prepares an individual plan for protection and support of the victim, and proposes measures to the competent public prosecutor's office for the conclusion of court proceedings.",
+      "rationale": "The law mandates formation of a multi-agency “coordination and cooperation group” in each prosecutor’s office territory and assigns it functions including considering cases and preparing an individual protection/support plan, which constitutes an operative, designated coordination mechanism providing integrated support across institutions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Na području svakog osnovnog javnog tužilaštva obrazuje se grupa za koordinaciju i saradnju.\n\nOna razmatra svaki slučaj nasilja u porodici koji nije okončan pravosnažnom sudskom odlukom u građanskom ili krivičnom postupku, slučajeve kada treba da se pruži zaštita i podrška žrtvama nasilja u porodici i žrtvama krivičnih dela iz ovog zakona, izrađuje individualni plan zaštite i podrške žrtvi i predlaže nadležnom javnom tužilaštvu mere za okončanje sudskih postupaka.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Everyone must report without delay to the police or the public prosecutor domestic violence or imminent danger thereof.",
+      "rationale": "The framework establishes an operative reporting mechanism by requiring that domestic violence or imminent danger be reported to designated authorities (police or public prosecutor), thereby providing a formal channel through which victims/the public can report violence and seek state response.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "Svako mora da policiji ili javnom tužiocu prijavi bez odlaganja nasilje u porodici ili neposrednu opasnost od njega.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address protection/support generally and emergency measures such as removal of the perpetrator from the dwelling, but they do not establish or require shelters, safe accommodation, crisis housing, or any residential protection facility/service for victims.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "A victim of domestic violence and a victim of a criminal offense under this law has the right to free legal aid, in accordance with a special law.",
+      "rationale": "The law provides an operative entitlement to free legal aid for victims of domestic violence and victims of specified criminal offenses, which directly constitutes legal aid/assistance for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Žrtva nasilja u porodici i žrtva krivičnog dela iz ovog zakona ima pravo na besplatnu pravnu pomoć, prema posebnom zakonu.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although health institutions are mentioned among participating institutions, the candidate sentences do not require or provide medical examination, treatment, forensic services, or any health-service response specifically for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "State authorities and institutions competent for the application of this law are obliged to quickly, effectively and in a coordinated manner prevent domestic violence and the commission of criminal offenses specified by this law and to provide the victim with protection, legal assistance and psychosocial and other support for his or her recovery, empowerment and independence.",
+      "rationale": "The law obliges competent authorities/institutions to provide victims with “psychosocial and other support” for recovery, empowerment, and independence, which constitutes an operative provision for psychosocial support services for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Državni organi i ustanove nadležne za primenu ovog zakona dužni su da brzo, delotvorno i koordinisano sprečavaju nasilje u porodici i vršenje krivičnih dela određenih ovim zakonom i da pruže žrtvi zaštitu, pravnu pomoć i psihosocijalnu i drugu podršku radi njenog oporavka, osnaživanja i osamostaljivanja.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "State authorities and institutions competent for the application of this law are obliged to quickly, effectively and in a coordinated manner prevent domestic violence and the commission of criminal offenses specified by this law and to provide the victim with protection, legal assistance and psychosocial and other support for his or her recovery, empowerment and independence.",
+      "rationale": "The law includes an operative obligation to provide victims with support for “recovery, empowerment and independence,” which addresses longer-term recovery-oriented support beyond immediate protection.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "Državni organi i ustanove nadležne za primenu ovog zakona dužni su da brzo, delotvorno i koordinisano sprečavaju nasilje u porodici i vršenje krivičnih dela određenih ovim zakonom i da pruže žrtvi zaštitu, pravnu pomoć i psihosocijalnu i drugu podršku radi njenog oporavka, osnaživanja i osamostaljivanja.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on prevention procedures, emergency measures, coordination, and victim support, but do not establish or provide any perpetrator intervention, treatment, counselling, rehabilitation, or behaviour-change programme.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on institutional responsibilities, reporting/recognition duties, risk assessment, emergency measures, coordination, record-keeping, and providing information to victims about available support services. None of the candidate sentences establish public information/awareness/education campaigns or communication activities explicitly about violence against women/domestic violence as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text mentions bodies for gender equality participating in prevention, it does so through assistance, notification, and victim support rather than through education/awareness activities about gender equality or women’s rights linked to preventing VAW. The remaining sentences concern coordination, reporting, training of officials, and victim information about services, not gender-equality education or awareness-raising.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe the legal framework’s scope, institutional roles, reporting obligations, procedures, and victim information about support providers. They do not provide for dissemination or public education/awareness specifically about laws/policies/legal protections concerning violence against women/domestic violence; they also do not identify such dissemination as a prevention strategy.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Education-sector institutions are mentioned as participants in prevention, but only in relation to assistance, notification, and support, not as implementing curricula, school-based programmes, or educational content improvements explicitly linked to preventing violence against women. The specialized training referenced concerns professionals applying the law (police/prosecutors/judges), not formal education as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences include prevention activities that specifically engage men or boys (e.g., programmes, campaigns, norm-change initiatives, or positive masculinity measures) to prevent violence against women. The provisions instead address institutional procedures, coordination, reporting, and protective measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "Support to victims of domestic violence and victims of criminal offenses specified by this law may also be provided by other legal entities and natural persons and associations.\nRepresentatives of educational, upbringing and health institutions and the National Employment Service, representatives of other legal entities and associations, and individuals who provide protection and support to victims may attend the meetings as needed.\nThe Council may, as necessary, include in its work representatives of scientific and other professional institutions and associations whose activities are related to protection from domestic violence.",
+      "rationale": "The law provides for participation of associations and other legal entities in providing support to victims, allows such associations/individuals to attend coordination and cooperation group meetings as needed, and allows the national Council to include associations related to protection from domestic violence in its work—together establishing operative avenues for civil society/NGO engagement in prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Podršku žrtvama nasilja u porodici i žrtvama krivičnih dela određenih ovim zakonom mogu da pruže i druga pravna i fizička lica i udruženja.\n\nSastancima mogu, po potrebi, prisustvovati predstavnici obrazovnih, vaspitnih i zdravstvenih ustanova i Nacionalne službe za zapošljavanje, predstavnici drugih pravnih lica i udruženja i pojedinci koji pružaju zaštitu i podršku žrtvama.\n\nSavet može, po potrebi, uključiti u rad i predstavnike naučnih i drugih stručnih institucija i udruženja čija je delatnost povezana sa zaštitom od nasilja u porodici.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe responsibilities of state authorities and allow participation of unspecified legal entities/associations, but do not mention religious organisations/leaders or traditional/cultural leaders, nor establish any mechanism to engage them in domestic violence/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "In addition to the competent state authorities and centers for social work, other institutions in the field of child, social protection, education, upbringing and health (hereinafter: state authorities and institutions competent for the application of this law), as well as bodies for gender equality at the level of local self-governments, participate in the prevention of domestic violence through the provision of assistance and notification of violence, as well as the provision of support to victims of violence.\nRepresentatives of educational, upbringing and health institutions and the National Employment Service, representatives of other legal entities and associations, and individuals who provide protection and support to victims may attend the meetings as needed.",
+      "rationale": "The law includes institutions in the field of education among those participating in prevention of domestic violence, and explicitly provides that representatives of educational institutions may attend coordination and cooperation group meetings as needed, indicating an operative collaboration/engagement mechanism involving education institutions.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Pored nadležnih državnih organa i centara za socijalni rad, u sprečavanju nasilja u porodici, preko davanja pomoći i obaveštavanja o nasilju, kao i pružanju podrške žrtvama nasilja učestvuju i druge ustanove u oblasti dečje, socijalne zaštite, obrazovanja, vaspitanja i zdravstva (u daljem tekstu: državni organi i ustanove nadležne za primenu ovog zakona), kao i tela za rodnu ravnopravnost na nivou lokalnih samouprava.\n\nSastancima mogu, po potrebi, prisustvovati predstavnici obrazovnih, vaspitnih i zdravstvenih ustanova i Nacionalne službe za zapošljavanje, predstavnici drugih pravnih lica i udruženja i pojedinci koji pružaju zaštitu i podršku žrtvama.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international organisations or establish any cooperation mechanism with international bodies regarding prevention of or response to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify media organisations/actors (journalists, broadcasters, etc.) as partners, nor establish any media-related responsibilities or mechanisms for VAW/domestic-violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the law requires everyone to report domestic violence and allows support by other legal entities/associations, the coding rules exclude inferring community engagement merely from reporting duties, and the text does not otherwise establish community/public participation mechanisms (mobilisation, community programmes, public engagement structures) for VAW/domestic-violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "Support to victims of domestic violence and victims of criminal offenses specified by this law may also be provided by other legal entities and natural persons and associations.\nRepresentatives of educational, upbringing and health institutions and the National Employment Service, representatives of other legal entities and associations, and individuals who provide protection and support to victims may attend the meetings as needed.",
+      "rationale": "The law allows support to victims to be provided by other legal entities (which can include private-sector entities) and provides that representatives of other legal entities may attend coordination/cooperation group meetings as needed, creating an operative basis for private/non-state entity participation in victim support and coordination.",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "Podršku žrtvama nasilja u porodici i žrtvama krivičnih dela određenih ovim zakonom mogu da pruže i druga pravna i fizička lica i udruženja.\n\nSastancima mogu, po potrebi, prisustvovati predstavnici obrazovnih, vaspitnih i zdravstvenih ustanova i Nacionalne službe za zapošljavanje, predstavnici drugih pravnih lica i udruženja i pojedinci koji pružaju zaštitu i podršku žrtvama.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention any funding mechanism or budget allocation from local self-government budgets. While local self-government gender equality bodies are mentioned as participants, this is about roles in prevention/support rather than financing.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe responsibilities of state authorities and establishment of bodies (e.g., Council) but do not reference any national government budget line, state budget funding, appropriations, or financing source.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, there is no explicit mention of international assistance, donors, UN agencies, foreign governments, development partners, or any international cooperation/funding related to VAW measures. The text focuses on domestic institutions and procedures only.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences mention that support may be provided by other legal entities, natural persons, and associations, and reference other domestic laws governing procedures, but they do not identify any funding/budget source from 'other legal sources' (i.e., a financing source).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions provincial/autonomous province budgets or any provincial-level funding source. The text is limited to institutional roles and procedures.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 21,
+    "resolved": 21,
+    "rate": 1.0
+  }
+}

@@ -128,7 +128,17 @@ def test_quantile_cutoffs_are_derived_from_the_distribution(sample_df):
     assert quantile_row["flagged"] == 3
 
 
-def test_breakdowns_split_by_dimension_and_error_type(sample_df):
+@pytest.fixture
+def indonesian_dimensions(monkeypatch):
+    """The sample data uses Indonesian indicator ids; the dimension lookup follows the active project."""
+    from automation.src.criteria import build_criteria_maps, load_index_schema
+    from automation.src.paths import project_dirs
+
+    mapping = build_criteria_maps(load_index_schema(project_dirs("indonesia").index_schema))[1]
+    monkeypatch.setattr("automation.src.confidence_report.get_indicator_dimension", lambda i: mapping.get(str(i).strip()))
+
+
+def test_breakdowns_split_by_dimension_and_error_type(sample_df, indonesian_dimensions):
     report = build_confidence_report(sample_df, ConfidenceReportConfig(primary_threshold=0.9))
 
     by_dimension = report["breakdowns"]["by_dimension"]

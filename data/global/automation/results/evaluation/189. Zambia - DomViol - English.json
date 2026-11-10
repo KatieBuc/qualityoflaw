@@ -1,0 +1,964 @@
+{
+  "policy_file": "189. Zambia - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T23:02:29.078692+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the framework addresses gender-based violence generally and references the Anti-Gender Based Violence Act, 2011, but it does not explicitly mention or define domestic/household/family/intimate partner violence or an equivalent term in the shown text. Under the coding rules, domestic violence cannot be inferred from general references to gender-based violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "39. (1) A person is entitled not to be sexually harassed.\n(2) A person shall not commit an act of sexual harassment.\n(3) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to imprisonment for a period of not less than three years and not exceeding fifteen years.",
+      "rationale": "The candidate sentences include operative provisions establishing an entitlement not to be sexually harassed, prohibiting sexual harassment, and setting criminal liability/penalties for contravention. Under the coding rules for this indicator (which includes sexual harassment), this constitutes substantive legal coverage of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "39. (1) A person is entitled not to be sexually harassed.\n\n(2) A person shall not commit an act of sexual harassment.\n\n(3) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to imprisonment for a period of not less than three years and not exceeding fifteen years.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly define, prohibit, or otherwise address physical violence/assault/bodily harm as such. While there is a general prohibition on subjecting a person to “abusive, violent or degrading treatment” and references to gender-based violence legislation, the indicator requires explicit coverage of physical violence (or equivalent terms) in the shown text, which is not present.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(b) psychosocial harassment;\n(b) results in physical, sexual, emotional or psychological harm to a person;",
+      "rationale": "The candidate sentences include an operative definition of “harassment” that explicitly includes “psychosocial harassment,” and the definition of “harmful practice” explicitly includes “emotional or psychological harm.” These are explicit references to psychological/emotional harm within defined terms that can carry legal consequences under the Act, meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(b) psychosocial harassment;\n\n(b) results in physical, sexual, emotional or psychological harm to a person; “ health ” means the complete state of physical, mental, spiritual and social well-being of an individual and not merely the absence of disease or infirmity; “ Human Rights Commission ” means the Commission established in accordance with the Constitution; Cap. 1",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on discrimination, economic empowerment, access to resources, and labour-market exploitation in a general equality/discrimination context. They do not define or identify economic violence/abuse/exploitation/neglect as a form of violence or abuse against women, nor link deprivation of economic resources or neglect to violence with legal/service consequences, as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "(3) A person shall not commit, engage in, subject another person to, or encourage the commission of a harmful practice.\n(v) engaging in other menacing, annoying or aggravating behaviour; \" harmful practice \" means a social, cultural or religious practice which—",
+      "rationale": "The Act includes an operative prohibition on committing, engaging in, subjecting another person to, or encouraging the commission of a “harmful practice,” and it also provides an operative definition of “harmful practice.” This constitutes substantive legal regulation of harmful practices (even though it does not enumerate specific practices like child marriage or FGM in the provided excerpts).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) A person shall not commit, engage in, subject another person to, or encourage the commission of a harmful practice.\n\n(v) engaging in other menacing, annoying or aggravating behaviour; “ harmful practice ” means a social, cultural or religious practice which—",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, there is no mention of femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor any provisions establishing it as a specific offence, classification, or aggravating factor.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided candidate sentences do not mention human trafficking/trafficking in persons or trafficking-related exploitation, nor do they identify trafficking victims or establish trafficking-specific prevention/protection/response measures. General references to discrimination, exploitation, or violence are insufficient under the coding rules without explicit trafficking language.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address sexual harassment and general exploitation (e.g., labour market exploitation) but do not mention sexual exploitation, sexual slavery, forced prostitution, or any explicit sexual-exploitation nexus. Under the coding rules, general exploitation or sexual harassment alone does not qualify.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to technology in non-violence contexts (e.g., access to technology/support services) and to communications as part of a general harassment definition, but they do not recognise or regulate cyber violence/online abuse or any technology-facilitated form of violence as such. The coding rules require explicit recognition/prohibition of technology-facilitated violence, which is absent here.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(3) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to imprisonment for a period of not less than three years and not exceeding fifteen years.",
+      "rationale": "The text explicitly criminalises sexual harassment and specifies a custodial sentence upon conviction, which is a criminal penalty attached to a form of violence against women (sexual harassment).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) A person who contravenes subsection (1) commits an offence and is liable, on conviction, to imprisonment for a period of not less than three years and not exceeding fifteen years.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences describe a protection/restraining order mechanism, including who may apply, issuing authority, duration, or consequences for breach.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not designate or mandate any specialised police unit/desk/division for handling violence against women cases; they discuss offences, discrimination provisions, and investigative/arrest powers generally.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not establish any specialised court, chamber, judicial officer, or expedited/specialised judicial procedure for violence against women cases; they only reference general access to justice/protection and other non-judicial mechanisms.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences criminalise sexual harassment and reference gender-based violence generally, but they do not expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption for sexual violence.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(g) public and private bodies shall work together as partners in a coordinated manner in achieving gender equity and equality;",
+      "rationale": "The text states that public and private bodies shall work together as partners in a coordinated manner. This establishes an expectation of coordination but does not create a specific formal mechanism/body/process (e.g., committee, task force, referral network) for coordination.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(g) public and private bodies shall work together as partners in a coordinated manner in achieving gender equity and equality;",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(g) put in place harmonised data collection mechanisms to improve data collection and ensure effective programming, planning and monitoring.",
+      "rationale": "The framework assigns the Minister a duty to put in place harmonised data collection mechanisms to improve data collection and ensure effective programming, planning and monitoring. This is an operative requirement to establish data collection mechanisms (even if not limited to VAW-specific data).",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(g) put in place harmonised data collection mechanisms to improve data collection and ensure effective programming, planning and monitoring.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "(a) mainstreaming gender in all policies, legislation, programmes and budgets;\n(b) mainstreaming gender in all strategies, policies, programmes and budgets so as to empower and benefit both sexes;",
+      "rationale": "The framework explicitly requires mainstreaming gender in policies, legislation, programmes and budgets, and further requires public and private bodies to mainstream gender in strategies, policies, programmes and budgets. These are operative requirements establishing gender mainstreaming as an implementation approach.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) mainstreaming gender in all policies, legislation, programmes and budgets;\n\n(b) mainstreaming gender in all strategies, policies, programmes and budgets so as to empower and benefit both sexes;",
+      "evidence_original_aligned": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(iii) provide assistance, advice and training to its officers on gender equity and equality;\n(2) The Commission shall undertake or cause to be undertaken training programmes on gender equity and equality, the provisions of this Act and empowerment.",
+      "rationale": "The framework requires training for implementing personnel: public bodies must provide assistance, advice and training to their officers on gender equity and equality, and the Commission must undertake or cause to be undertaken training programmes on gender equity and equality and the provisions of the Act. These are explicit mandates for capacity building of relevant officials/implementers.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "(iii) provide assistance, advice and training to its officers on gender equity and equality;\n\n(2) The Commission shall undertake or cause to be undertaken training programmes on gender equity and equality, the provisions of this Act and empowerment.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(e) ensure gender sensitive and responsive budgeting at the micro and macro levels, including tracking, monitoring and evaluation; and\n(f) monitor the implementation of laws, policies and programmes that affect, or have an impact on, gender.\n(e) monitor and evaluate the performance of the Commission against budgets and plans;",
+      "rationale": "The framework assigns monitoring functions (including tracking/monitoring/evaluation in budgeting and monitoring implementation of laws/policies/programmes affecting gender) and also gives the Board a role to monitor and evaluate the performance of the Commission against budgets and plans. This constitutes designated responsibilities for monitoring/evaluation of implementation structures relevant to gender/GBV objectives.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(e) ensure gender sensitive and responsive budgeting at the micro and macro levels, including tracking, monitoring and evaluation; and\n\n(f) monitor the implementation of laws, policies and programmes that affect, or have an impact on, gender.\n\n(e) monitor and evaluate the performance of the Commission against budgets and plans;",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "(3) The Commission shall be adequately funded in a financial year to enable it to effectively perform its functions.",
+      "rationale": "The framework states that the Commission shall be adequately funded in a financial year to enable it to effectively perform its functions. This is an operative funding requirement tied to implementation capacity, though it does not specify a dedicated VAW budget line or detailed allocation mechanism.",
+      "coverage": "Referenced only",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) The Commission shall be adequately funded in a financial year to enable it to effectively perform its functions.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss general gender principles, non-discrimination, sexual harassment grievance procedures, and the establishment/functions of the Gender Equity and Equality Commission. While there is a general principle that public and private bodies should work together in a coordinated manner and references to justice for survivors of gender-based violence, none of the candidate sentences establish, mandate, or recognise an integrated or multidisciplinary service mechanism (e.g., one-stop centre) that coordinates multiple services (health, legal, psychosocial, shelter, etc.) specifically for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(1) A person who alleges that any person, public body or complaint private body has contravened this Act may lodge a complaint, as may be prescribed, with the Director in the prescribed manner and form.\n(b) entitle a person who has been subjected to sexual harassment to lodge a grievance with the Commission or an employer of the perpetrator where the conduct giving rise to the complaint has taken place at the workplace or in the course of being employed;",
+      "rationale": "The framework provides operative mechanisms for lodging complaints and grievances: it allows a person to lodge a complaint with the Director for contraventions of the Act, and it specifically entitles a person subjected to sexual harassment to lodge a grievance with the Commission or an employer. These are formal reporting/help-seeking channels through which (at least in sexual-harassment cases, and more generally for contraventions) victims can report and seek institutional action, even though a dedicated VAW hotline is not established.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) A person who alleges that any person, public body or complaint private body has contravened this Act may lodge a complaint, as may be prescribed, with the Director in the prescribed manner and form.\n\n(b) entitle a person who has been subjected to sexual harassment to lodge a grievance with the Commission or an employer of the perpetrator where the conduct giving rise to the complaint has taken place at the workplace or in the course of being employed;",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish or require shelters, safe houses, refuge centres, crisis/temporary accommodation, relocation, or any residential protection mechanism for women victims/survivors of violence. References to “housing” appear only as part of general living conditions/development benefits and are not framed as protective accommodation for violence survivors.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general access to justice/protection and complaint/grievance procedures, but they do not establish legal aid, legal representation, legal counselling, or legal assistance specifically for women victims/survivors of violence (or even for complainants generally). The sexual-harassment provisions describe grievance channels and procedures, not legal aid services.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address general health-care equality and sexual/reproductive health rights (including family planning and pregnancy-related services) and access to health facilities for rural/peri-urban women, but they do not connect health/medical services to women victims/survivors of violence, nor do they assign health facilities/professionals responsibilities for VAW case response (e.g., treatment after violence, forensic exams, referral for VAW).",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(vi) designate persons as may be prescribed, by statutory instrument, whom a person who has been subjected to sexual harassment may approach for confidential advise and counselling.",
+      "rationale": "The framework requires sexual-harassment policies and procedures to include designated persons whom a victim may approach for confidential advice and counselling, which constitutes counselling support for victims/survivors of violence in an operative provision.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(vi) designate persons as may be prescribed, by statutory instrument, whom a person who has been subjected to sexual harassment may approach for confidential advise and counselling.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to counselling in the context of sexual-harassment procedures and a definition of health that includes spiritual well-being, but they do not provide religious/spiritual counselling or identify faith-based personnel or institutions as providing support to women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention general gender equity measures and some victim-related support in the context of sexual harassment (assistance/social support) and compensation to victims of discrimination, but they do not establish rehabilitation, reintegration, or longer-term recovery/livelihood support specifically for women victims/survivors of violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address prohibitions, offences, and procedural measures (including counselling access for victims of sexual harassment), but they do not establish or mandate any perpetrator-focused intervention, rehabilitation, treatment, or behaviour-change programme, nor do they authorise referrals of perpetrators to such programmes.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(1) The Minister responsible for education, in liaison with equity and the Minister, shall adopt and implement gender sensitive educational equality measures in policies and programmes addressing gender stereotypes in education education curriculum and gender- based violence and other gender issues.",
+      "rationale": "The framework includes an operative provision requiring the education minister to adopt and implement gender-sensitive educational measures addressing “gender-based violence,” which constitutes an explicit education-based activity directed at violence against women/gender-based violence (not merely a general gender-equality education measure).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Minister responsible for education, in liaison with equity and the Minister, shall adopt and implement gender sensitive educational equality measures in policies and programmes addressing gender stereotypes in education education curriculum and gender- based violence and other gender issues.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text contains multiple operative provisions on awareness programmes and campaigns to promote gender equity and equality, the coding rules for this criterion require that such education/awareness about gender equality or women’s rights be explicitly linked to preventing violence against women. The candidate sentences shown do not explicitly make that prevention-of-VAW linkage for gender-equality awareness activities.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to gender-based violence and to communicating sexual-harassment policies/procedures, but they do not specify dissemination or education about laws/policies/legal protections concerning violence against women as such (e.g., public legal-awareness about VAW laws). The provisions shown focus on policies/procedures and awareness of sexual harassment, not explicit education about VAW laws/policies/legal protections.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "(1) The Minister responsible for education, in liaison with equity and the Minister, shall adopt and implement gender sensitive educational equality measures in policies and programmes addressing gender stereotypes in education education curriculum and gender- based violence and other gender issues.",
+      "rationale": "The framework assigns responsibility to the minister responsible for education to adopt and implement gender-sensitive educational measures addressing gender-based violence, explicitly using the education system/curriculum as a mechanism to address (and thereby prevent) such violence.",
+      "coverage": "Substantive",
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Minister responsible for education, in liaison with equity and the Minister, shall adopt and implement gender sensitive educational equality measures in policies and programmes addressing gender stereotypes in education education curriculum and gender- based violence and other gender issues.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions including men in gender-related activities and enhancing men’s understanding/attitudes regarding women’s participation, but it does not explicitly establish prevention activities engaging men and boys to prevent violence against women or to change masculinities/gender norms specifically for VAW prevention.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(c) enlist the services of traditional leaders and nongovernmental organisations in disseminating information and in conducting other activities connected with awareness programmes.",
+      "rationale": "The Act contains an operative provision authorising the Commission to enlist the services of non-governmental organisations in disseminating information and conducting activities connected with awareness programmes, which constitutes formal engagement with NGOs in prevention/response-relevant activities (awareness-raising) linked to gender issues including sexual harassment and gender-based violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) enlist the services of traditional leaders and nongovernmental organisations in disseminating information and in conducting other activities connected with awareness programmes.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "(c) enlist the services of traditional leaders and nongovernmental organisations in disseminating information and in conducting other activities connected with awareness programmes.",
+      "rationale": "An operative provision empowers the Commission to enlist the services of traditional leaders in disseminating information and conducting other activities connected with awareness programmes, which is a form of collaboration with traditional leaders for prevention-oriented programming relevant to violence against women (the same section also covers awareness of sexual harassment and support for victims).",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) enlist the services of traditional leaders and nongovernmental organisations in disseminating information and in conducting other activities connected with awareness programmes.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define “educational institution” and impose certain curriculum-related measures, but they do not establish or require cooperation/partnership with education institutions (as institutions) for violence against women prevention/response, nor do they set a coordination mechanism between government and education institutions specifically for VAW-related activities.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions reference international instruments/standards (e.g., monitoring and evaluating international, regional and national standards; participation in the work of international organisations), but they do not establish, require, or authorise cooperation with international organisations specifically for preventing or responding to violence against women. References to international standards and participation at the international level are insufficient under the coding rules without an operative collaboration mechanism tied to VAW.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only relevant operative provision concerns civic awareness programmes and consultation with the Minister responsible for information, but it does not identify media organisations/actors (broadcasters, journalists, publishers, etc.) as partners or establish a media engagement mechanism for violence against women prevention/response. The remaining excerpts address discrimination and harassment generally without media collaboration.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "(c) enlist the services of traditional leaders and nongovernmental organisations in disseminating information and in conducting other activities connected with awareness programmes.",
+      "rationale": "The framework authorises enlisting services of traditional leaders and non-governmental organisations in disseminating information and conducting activities connected with awareness programmes, which constitutes an operative mechanism for engaging community actors in awareness-raising relevant to gender-based violence/VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) enlist the services of traditional leaders and nongovernmental organisations in disseminating information and in conducting other activities connected with awareness programmes.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the Act regulates private bodies and employers in relation to discrimination and sexual harassment, the cited provisions do not establish or require collaboration/engagement with businesses or private-sector actors as partners in preventing or responding to violence against women. The employer-related provisions focus on workplace discrimination/harassment obligations rather than a collaboration mechanism for VAW prevention/response, and general public-private partnership language is not tied to VAW-specific engagement.",
+      "coverage": null,
+      "confidence": 0.63,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.63
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited financial provisions describe Commission funding sources such as appropriations by Parliament, fees, loans, grants/donations, and other accruals, but do not mention any local government/local authority budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(a) be appropriated to the Commission by Parliament for the purpose of the Commission;",
+      "rationale": "The policy states that Commission funds may include monies appropriated by Parliament, which constitutes a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) be appropriated to the Commission by Parliament for the purpose of the Commission;",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "(a) accept monies by way of grants or donations from any source within or outside Zambia; and",
+      "rationale": "The policy explicitly allows the Commission to accept grants or donations from any source within or outside Zambia, which constitutes explicit international support/assistance as a potential funding source (even if not naming a specific donor).",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) accept monies by way of grants or donations from any source within or outside Zambia; and",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(b) be paid to the Commission by way of fees, loans, grants or donations; and\n(c) otherwise vest in or accrue to the Commission.",
+      "rationale": "Beyond parliamentary appropriations, the policy lists additional funding sources for the Commission including fees, loans, grants/donations, and other monies that vest in or accrue to the Commission, which are other (non-budget) legal funding sources.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(b) be paid to the Commission by way of fees, loans, grants or donations; and\n\n(c) otherwise vest in or accrue to the Commission.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions do not mention provincial government budgets as a funding source; they refer to parliamentary appropriations and other general sources (fees, loans, grants/donations) without specifying provincial-level funding.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 20,
+    "resolved": 20,
+    "rate": 1.0
+  }
+}

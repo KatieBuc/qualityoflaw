@@ -1,0 +1,945 @@
+{
+  "policy_file": "25. Bulgaria - DomViol - Bulgarian (b) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T00:18:28.292538+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "31. (new - SG, issue 16 of 2019, amend. - SG, issue 67 of 2023) A crime is committed \"in conditions of domestic violence\" if it is committed through the exercise of physical, sexual or psychological violence, placing in economic dependence, forced restriction of personal life, personal freedom and personal rights and is perpetrated against an ascendant, descendant, spouse or former spouse, person with whom there is a child, person with whom one is or has been in actual marital cohabitation, or person with whom one lives or has lived in one household.\n(Amend. - SG No. 92 of 2002) (1) (Suppl. - SG No. 27 of 2009, amend. - SG No. 102 of 2009, effective from 22.12.2009, suppl. - SG No. 41 of 2015, effective from 06.07.2015) Whoever obstructs or prevents in any way the execution of a court decision or does not comply with a protection order for domestic violence or a European Protection Order, shall be punished by deprivation of liberty up to three years or a fine up to five thousand leva.",
+      "rationale": "The text includes an operative definition of when a crime is committed \"in conditions of domestic violence\" and also criminalizes non-compliance with a protection order for domestic violence, demonstrating substantive legal coverage rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "31. (нова - ДВ, бр. 16 от 2019 г., изм. - ДВ, бр. 67 от 2023 г.) Престъплението е извършено \"в условията на домашно насилие\", ако е извършено чрез упражняване на физическо, сексуално или психическо насилие, поставяне в икономическа зависимост, принудително ограничаване на личния живот, личната свобода и личните права и е осъществено спрямо възходящ, низходящ, съпруг или бивш съпруг, лице, от което има дете, лице, с което се намира или е било във фактическо съпружеско съжителство, или лице, с което живеят или е живяло в едно домакинство.\n\n(Изм. - ДВ, бр. 92 от 2002 г.) (1) (Доп. - ДВ, бр. 27 от 2009 г., изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г., доп. - ДВ, бр. 41 от 2015 г., в сила от 06.07.2015 г.) Който попречи или осуети по какъвто и да е начин изпълнението на съдебно решение или не изпълни заповед за защита от домашното насилие или Европейска заповед за защита, се наказва с лишаване от свобода до три години или глоба до пет хиляди лева.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "3. by bringing her into a helpless state, shall be punished for rape by imprisonment from two to eight years.",
+      "rationale": "The framework criminalizes rape in operative provisions, which is a core form of sexual violence under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. като го приведе в безпомощно състояние, се наказва за изнасилване с лишаване от свобода от две до осем години.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(1) (Amended - SG No. 103 of 2004, effective from 01.01.2005) Whoever causes another disturbance of health, outside the cases of Art. 128 and 129, shall be punished for minor bodily injury by imprisonment up to two years or by probation.",
+      "rationale": "The framework criminalizes causing bodily injury (including minor bodily injury), which constitutes physical violence/assault/bodily harm in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) (Изм. - ДВ, бр. 103 от 2004 г., в сила от 01.01.2005 г.) Който причини другиму разстройство на здравето, извън случаите на чл. 128 и 129, се наказва за лека телесна повреда с лишаване от свобода до две години или с пробация.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "31. (new - SG, issue 16 of 2019, amend. - SG, issue 67 of 2023) A crime is committed \"in conditions of domestic violence\" if it is committed through the exercise of physical, sexual or psychological violence, placing in economic dependence, forced restriction of personal life, personal freedom and personal rights and is perpetrated against an ascendant, descendant, spouse or former spouse, person with whom there is a child, person with whom one is or has been in actual marital cohabitation, or person with whom one lives or has lived in one household.",
+      "rationale": "The operative definition of \"in conditions of domestic violence\" explicitly includes psychological violence, satisfying the requirement that psychological violence appear in an operative scope/definition with legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "31. (нова - ДВ, бр. 16 от 2019 г., изм. - ДВ, бр. 67 от 2023 г.) Престъплението е извършено \"в условията на домашно насилие\", ако е извършено чрез упражняване на физическо, сексуално или психическо насилие, поставяне в икономическа зависимост, принудително ограничаване на личния живот, личната свобода и личните права и е осъществено спрямо възходящ, низходящ, съпруг или бивш съпруг, лице, от което има дете, лице, с което се намира или е било във фактическо съпружеско съжителство, или лице, с което живеят или е живяло в едно домакинство.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "31. (new - SG, issue 16 of 2019, amend. - SG, issue 67 of 2023) A crime is committed \"in conditions of domestic violence\" if it is committed through the exercise of physical, sexual or psychological violence, placing in economic dependence, forced restriction of personal life, personal freedom and personal rights and is perpetrated against an ascendant, descendant, spouse or former spouse, person with whom there is a child, person with whom one is or has been in actual marital cohabitation, or person with whom one lives or has lived in one household.",
+      "rationale": "The operative definition of \"in conditions of domestic violence\" includes \"placing in economic dependence,\" which is an explicit economic-abuse element tied to legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "31. (нова - ДВ, бр. 16 от 2019 г., изм. - ДВ, бр. 67 от 2023 г.) Престъплението е извършено \"в условията на домашно насилие\", ако е извършено чрез упражняване на физическо, сексуално или психическо насилие, поставяне в икономическа зависимост, принудително ограничаване на личния живот, личната свобода и личните права и е осъществено спрямо възходящ, низходящ, съпруг или бивш съпруг, лице, от което има дете, лице, с което се намира или е било във фактическо съпружеско съжителство, или лице, с което живеят или е живяло в едно домакинство.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "(Amend. - SG No. 28 of 1982, effective 01.07.1982) (1) (Amend. - SG No. 103 of 2004, effective 01.01.2005) An adult who, without having entered into marriage, cohabits as spouses with a female person under 16 years of age, shall be punished by imprisonment of up to two years or probation, as well as public censure.",
+      "rationale": "The framework criminalizes adult cohabitation as spouses with a female person under 16 years of age, which is an operative provision addressing child/early marriage-like harmful practice per the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Изм. - ДВ, бр. 28 от 1982 г., в сила от 01.07.1982 г.) (1) (Изм. - ДВ, бр. 103 от 2004 г., в сила от 01.01.2005 г.) Пълнолетно лице, което, без да е сключило брак, заживее съпружески с лице от женски пол, ненавършило 16-годишна възраст, се наказва с лишаване от свобода до две години или с пробация, както и с обществено порицание.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences use femicide/feminicide or an equivalent concept of gender-motivated killing of women; the homicide provisions shown include categories like killing a pregnant woman or killing in conditions of domestic violence, but do not explicitly frame this as femicide/feminicide as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "(New - SG No. 92 of 2002) (1) (Amended - SG No. 27 of 2009, amended - SG No. 84 of 2013) Whoever recruits, transports, conceals or receives individuals or groups of people for the purpose of being used for depraved acts, for forced labour or for begging, for removal of a bodily organ, tissue, cell or bodily fluid or to be kept in forced subjugation regardless of their consent, shall be punished by imprisonment from two to eight years and a fine from three thousand to twelve thousand leva.",
+      "rationale": "The framework contains an operative trafficking-in-human-beings offense describing recruitment/transport/harbouring/receipt for exploitation purposes, meeting the substantive threshold.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Нов - ДВ, бр. 92 от 2002 г.) (1) (Изм. - ДВ, бр. 27 от 2009 г., изм. - ДВ, бр. 84 от 2013 г.) Който набира, транспортира, укрива или приема отделни лица или групи от хора с цел да бъдат използвани за развратни действия, за принудителен труд или за просия, за отнемане на телесен орган, тъкан, клетка или телесна течност или за да бъдат държани в принудително подчинение независимо от съгласието им, се наказва с лишаване от свобода от две до осем години и глоба от три хиляди до дванадесет хиляди лева.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "(Amend. - SG, No. 28 of 1982, effective from 01.07.1982) (1) (Amend. - SG, No. 10 of 1993, amend. - SG, No. 62 of 1997, amend. - SG, No. 92 of 2002, amend. - SG, No. 26 of 2004, amend. - SG, No. 75 of 2006, effective from 13.10.2006) Whoever inclines another person to prostitution or procures them for lewd acts or sexual intercourse shall be punished with imprisonment of up to three years and a fine from one thousand to three thousand leva.",
+      "rationale": "The framework criminalizes conduct related to procuring/inducing another person to prostitution or for lewd acts/sexual intercourse, which constitutes sexual exploitation within operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Изм. - ДВ, бр. 28 от 1982 г., в сила от 01.07.1982 г.) (1) (Изм. - ДВ, бр. 10 от 1993 г., изм. - ДВ, бр. 62 от 1997 г., изм. - ДВ, бр. 92 от 2002 г., изм. - ДВ, бр. 26 от 2004 г., изм. - ДВ, бр. 75 от 2006 г., в сила от 13.10.2006 г.) Който склонява друго лице към проституция или свожда към блудствени действия или съвкупление, се наказва с лишаване от свобода до три години и глоба от хиляда до три хиляди лева.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "(2) (Нова - ДВ, бр. 38 от 2007 г., доп. - ДВ, бр. 27 от 2009 г., изм. - ДВ, бр. 74 от 2015 г.) Whoever distributes pornographic material through information or communication technology or in another similar manner shall be punished by imprisonment up to two years and a fine from one thousand to three thousand leva.\n(New - SG, No. 38 of 2007, amend. - SG, No. 74 of 2015) (1) (Amend. - SG, No. 67 of 2023) Whoever through information or communication technology or otherwise provides or collects information about a person who has not reached 18 years of age in order to establish contact with them for the purpose of performing a lewd act, sexual intercourse, sexual relations, prostitution, for creating pornographic material or for participation in a pornographic performance shall be punished with imprisonment from three to ten years and a fine from ten thousand to twenty thousand leva.",
+      "rationale": "The framework criminalizes distribution of pornographic material through information/communication technology and criminalizes ICT-facilitated conduct aimed at establishing contact with minors for sexual purposes, both of which are technology-facilitated forms of sexual exploitation/abuse covered by the indicator.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) (Нова - ДВ, бр. 38 от 2007 г., доп. - ДВ, бр. 27 от 2009 г., изм. - ДВ, бр. 74 от 2015 г.) Който разпространява чрез информационна или съобщителна технология или по друг подобен начин порнографски материал, се наказва с лишаване от свобода до две години и глоба от хиляда до три хиляди лева.\n\n(Нов - ДВ, бр. 38 от 2007 г., изм. - ДВ, бр. 74 от 2015 г.) (1) (Изм. - ДВ, бр. 67 от 2023 г.) Който чрез информационна или съобщителна технология или по друг начин предоставя или събира информация за лице, ненавършило 18-годишна възраст, за да се установи контакт с него за извършване на блудствено действие, съвкупление, полово сношение, проституция, за създаване на порнографски материал или за участие в порнографско представление, се наказва с лишаване от свобода от три до десет години и с глоба от десет хиляди до двадесет хиляди лева.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "3. by bringing her into a helpless state, shall be punished for rape by imprisonment from two to eight years.",
+      "rationale": "The cited provision explicitly defines rape as punishable by a specified term of imprisonment, which is a criminal penalty for a form of violence against women (sexual violence).",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. като го приведе в безпомощно състояние, се наказва за изнасилване с лишаване от свобода от две до осем години.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions non-compliance with a protection order for domestic violence and provides a criminal penalty for breach, the candidate sentences do not specify the protection order mechanism itself (who may apply, issuing authority, and duration). Therefore, the required elements for a protection/restraining order framework are not established in the provided excerpts.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain criminal offences and definitions (including domestic violence conditions) and references to police authorities in other contexts, but do not designate or mandate any specialised unit/desk/division within police services for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts provide substantive criminal offences and penalties and some procedural notes about complaint-based prosecution, but they do not establish a specialised court/chamber or a specialised/expedited judicial procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although rape and other sexual offences are criminalised, none of the candidate sentences expressly state that these offences apply within marriage/intimate partnerships or remove any spousal exemption. The domestic-violence definition and references to spouses in other procedural contexts do not clearly establish criminal liability for marital rape under the coding rules.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are criminal-law provisions defining and penalizing various offenses (e.g., bodily injury, threats, stalking, torture) and do not establish or require any inter-agency/sector coordination mechanism, coordinating body, committee, referral network, or implementation structure for violence against women prevention/protection/response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include definitions (e.g., “information system”) and criminal provisions, but none establish or mandate collection/recording/monitoring/reporting/exchange of data on violence against women or assign any entity responsibility for such a data system or function.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts are from the Criminal Code and address criminal offenses and definitions; they do not mention gender mainstreaming or establish any gender-mainstreaming mechanism (focal points, working groups, planning/budgeting requirements) for implementing women’s protection or VAW policies/programs.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mandate or provide for training, technical guidance, or capacity building for officials or service providers implementing violence against women policy; the text is limited to criminal definitions and penalties.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention monitoring or evaluation of implementation or service delivery related to violence against women, nor do they establish any monitoring/reporting mechanism or designate a responsible body for such functions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain any operative provision requiring allocation of budget/funding for violence against women response or prevention. The only budget-related text concerns criminal liability for misuse of budget funds, not a funding mandate for VAW implementation.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are from the Criminal Code and concern definitions and criminal offences/penalties (e.g., bodily injury, rape, trafficking, domestic violence aggravation, protection order non-compliance). None of the candidate sentences establish, mandate, or recognise an integrated or multidisciplinary victim service mechanism/centre, nor assign an institution to coordinate multiple support services for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "1, criminal prosecution of general nature shall be initiated upon complaint of the injured person to the prosecutor's office and may not be discontinued at his or her request.",
+      "rationale": "The framework provides an operative reporting/complaint mechanism by specifying that for certain offences (including those potentially occurring in domestic violence contexts), criminal prosecution is initiated upon complaint of the injured person to the prosecutor's office. This constitutes a designated authority/mechanism for receiving victim complaints, even though it is not a dedicated hotline or VAW-specific service.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "1 наказателното преследване от общ характер се възбужда по тъжба на пострадалия до прокуратурата и не може да се прекрати по негово искане.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address criminal offences and procedures (e.g., domestic violence aggravating circumstances, protection order non-compliance, unlawful entry, abduction) but do not mention shelters, safe houses, crisis accommodation, temporary residential protection, or any authority duty to provide accommodation for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts concern criminalisation, penalties, and complaint-based prosecution rules, but do not establish or guarantee legal aid/assistance/counselling/representation for victims of violence, nor identify victims of violence as eligible for legal aid or require any provider to deliver it.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While there is a provision criminalising failure of a medical professional to aid a sick person or a woman in childbirth, it is not linked to victims/survivors of violence and does not establish medical examination/treatment/forensic services for VAW victims. No operative victim-focused health service response is provided in the candidate sentences.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention psychosocial/psychological counselling, trauma support, therapy, or referral mechanisms for victims/survivors of violence, nor assign such responsibilities to relevant professionals or services.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text includes offences related to religious freedom and incitement on religious grounds, it does not provide any religious/spiritual counselling or faith-based victim support service for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts include general criminal-law concepts such as rehabilitation of convicted persons and probation measures, but these relate to offenders and criminal records rather than victim recovery/reintegration services. No longer-term recovery, rehabilitation, reintegration, or economic support measures for women victims/survivors of violence are established in the candidate sentences.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "4. (amend. - SG, issue 75 of 2006, effective from 13.10.2006) inclusion in courses for professional qualification, programs for social impact;\n(4) (Amend. - SG, issue 75 of 2006, effective from 13.10.2006) The probation measure inclusion in courses for professional qualification, programs for social impact is aimed at labor integration or building social habits and skills for lawful behavior of the convicted person.",
+      "rationale": "The framework provides perpetrator-focused programmes through probation measures that include \"inclusion in courses for professional qualification, programs for social impact\" aimed at labour integration or building social habits and skills for lawful behavior. While not specific to violence against women, these are operative behaviour-change/rehabilitative programmes for convicted persons and thus meet the criterion’s threshold for perpetrator programmes.",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. (изм. - ДВ, бр. 75 от 2006 г., в сила от 13.10.2006 г.) включване в курсове за професионална квалификация, програми за обществено въздействие;\n\n(4) (Изм. - ДВ, бр. 75 от 2006 г., в сила от 13.10.2006 г.) Пробационната мярка включване в курсове за професионална квалификация, програми за обществено въздействие е насочена към трудова интеграция или изграждане на социални навици и умения за законосъобразно поведение на осъдения.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are criminal-law provisions defining and penalizing rape, threats, stalking, trafficking, and related offenses, plus definitional and administrative/entry-into-force text. None of the candidate sentences establish or require information, awareness-raising, communication, campaigns, or education activities specifically about violence against women as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences concern criminal offenses and penalties (e.g., prostitution-related crimes, trafficking, rape, incitement to discrimination/violence/hate) and general code metadata. They do not require or provide any information, education, awareness-raising, or communication activities about gender equality or women’s rights, nor do they link such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts set out substantive criminal prohibitions and penalties (e.g., rape, threats, stalking, trafficking) and related procedural/administrative provisions, but they do not include any operative requirement to disseminate, publicize, or educate the public about laws/policies/legal protections concerning violence against women. Merely defining crimes is insufficient under the coding rules without an explicit dissemination/education component.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes references to “educational measures” in the context of juvenile justice and mentions teachers as protected persons in an aggravated assault provision, it does not explicitly identify education institutions, curricula, or education-quality improvements as measures to prevent violence against women. No school-based or curriculum-linked VAW prevention measure is stated.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain criminal offenses and definitions (including domestic violence conditions) but do not establish any prevention programmes, campaigns, education, or norm-change initiatives specifically engaging men and boys to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are excerpts from the Criminal Code defining and criminalizing various acts (e.g., threats, stalking, rape, trafficking) and include definitions (e.g., “in conditions of domestic violence”). None of the candidate sentences establish, require, or authorize cooperation/coordination with civil society organisations or NGOs for prevention of or response to violence against women, nor do they create any formal mechanism for NGO participation.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although some provisions reference religion (e.g., crimes motivated by religion, crimes against religions, incitement on religious grounds), none of the candidate sentences establish or require engagement/collaboration with religious or traditional/cultural organisations or leaders in preventing or responding to violence against women. The text is about criminalization, not partnership or coordination mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include criminal provisions that mention a “teacher (educator)” as a protected category in the context of aggravated bodily injury, and other criminal-law provisions. They do not establish or require collaboration with schools/universities/education institutions for VAW prevention, awareness, referral, research, or implementation mechanisms.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference “international protection” and include an explanatory clause about implementing an EU directive, but they do not establish or require cooperation with international organisations on violence against women (no joint programmes, technical assistance, coordination mechanisms, or similar operative collaboration provisions).",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Some provisions mention “mass media” as a channel for committing offenses (e.g., incitement, insult, disclosure of data) and criminalize certain speech acts. However, none of the candidate sentences establish or require engagement/collaboration with media actors for VAW prevention, awareness-raising, victim protection, or related coordination mechanisms.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include criminal provisions (including on domestic violence conditions) and provisions about crowds assembled for attacks on groups of the population, but they do not establish community participation or collaboration mechanisms for preventing or responding to violence against women (no community mobilisation, public participation structures, or community-based referral/support mechanisms).",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include definitions and criminal provisions that may involve commercial activity (e.g., bribery in commercial activity, pricing offenses) but do not link private-sector actors to prevention of or response to violence against women, nor establish any partnership, employer duties, or mechanisms involving businesses for VAW-related measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss budgetary funds generally and mention harm to the state or municipality, but they do not identify a local/municipal government budget as a funding/budget source for measures; they are criminal provisions about misuse of funds rather than specifying local government budget funding.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(Repealed - SG, No. 10 of 1993, new - SG, No. 62 of 1997, amended - SG, No. 75 of 2006, in force from 13.10.2006) (1) (Supplemented - SG, No. 103 of 2020, in force from 01.01.2021) Whoever through the use of a document with false content or of a false or forged document obtains from the state budget, from the budget of the state social insurance or from the budget of the National Health Insurance Fund an undue monetary amount in large amounts or enables another person to obtain such amount, shall be punished by deprivation of liberty from two to eight years and a fine from one thousand to five thousand leva.",
+      "rationale": "The text explicitly references obtaining money from the state budget, which constitutes mention of the national government budget as a budget source (even though in a criminal-law context rather than an implementation plan).",
+      "coverage": "Referenced only",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Отм. - ДВ, бр. 10 от 1993 г., нов - ДВ, бр. 62 от 1997 г., изм. - ДВ, бр. 75 от 2006 г., в сила от 13.10.2006 г.) (1) (Доп. - ДВ, бр. 103 от 2020 г., в сила от 01.01.2021 г.) Който чрез използване на документ с невярно съдържание или на неистински или преправен документ получи от държавния бюджет, от бюджета на държавното обществено осигуряване или от бюджета на Националната здравноосигурителна каса неследваща се парична сума в големи размери или даде възможност на друго лице да получи такава сума, се наказва с лишаване от свобода от две до осем години и глоба от хиляда до пет хиляди лева.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to international protection and international organizations in definitional/criminal-law contexts, but do not mention international assistance, donor funding, partnerships, or external support for women’s protection/VAW measures or related implementation.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference various funds (including EU funds and state funds) in the context of criminal offenses and confiscation, but do not specify any 'other legal sources' of funding/budget for policy measures beyond the standard public budgets/funds mentioned.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention a provincial/regional government budget as a funding/budget source; they refer to the state budget, municipalities, and other funds in criminal-law provisions.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 13,
+    "resolved": 13,
+    "rate": 1.0
+  }
+}

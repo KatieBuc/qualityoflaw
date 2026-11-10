@@ -1,0 +1,992 @@
+{
+  "policy_file": "181. United States - DomViol - English (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T22:34:01.416639+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "—The term \"domestic violence\" includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who— 1There should be a closed parenthesis before the period at the end of paragraph (8).",
+      "rationale": "The candidate sentences include an operative definition of “domestic violence,” specifying covered conduct and relationships, which constitutes substantive legal coverage rather than a mere preambular mention.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(iii) The frequency of interaction between the persons involved in the relationship. (12) DOMESTIC VIOLENCE. —The term ‘‘domestic violence’’ includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who— 1There should be a closed parenthesis before the period at the end of paragraph (8).",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "—The term \"sexual assault\" means any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.",
+      "rationale": "The candidate sentences contain an operative definition of “sexual assault” as a nonconsensual sexual act proscribed by law, which substantively brings sexual violence/assault within the framework’s covered scope.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "—The term ‘‘sexual assault’’ means any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "—The term \"domestic violence\" includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who— 1There should be a closed parenthesis before the period at the end of paragraph (8).",
+      "rationale": "The framework includes physical abuse within an operative definition of domestic violence (including for victim services), which constitutes substantive coverage of physical violence under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(iii) The frequency of interaction between the persons involved in the relationship. (12) DOMESTIC VIOLENCE. —The term ‘‘domestic violence’’ includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who— 1There should be a closed parenthesis before the period at the end of paragraph (8).",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "—The term \"domestic violence\" includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who— 1There should be a closed parenthesis before the period at the end of paragraph (8).",
+      "rationale": "The framework explicitly includes psychological abuse (and related coercive behavior) within an operative definition of domestic violence, meeting the substantive threshold for addressing psychological violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(iii) The frequency of interaction between the persons involved in the relationship. (12) DOMESTIC VIOLENCE. —The term ‘‘domestic violence’’ includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who— 1There should be a closed parenthesis before the period at the end of paragraph (8).",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "—The term \"economic abuse\", in the context of domestic violence, dating violence, and abuse in later life, means behavior that is coercive, deceptive, or unreasonably controls or restrains a person's ability to acquire, use, or maintain economic resources to which they are entitled, including using coercion, fraud, or manipulation to—",
+      "rationale": "The framework provides an operative definition of \"economic abuse\" describing coercive control or restraint of a person's ability to acquire, use, or maintain economic resources, which directly matches the criterion’s economic violence/abuse requirements.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "—The term ‘‘economic abuse’’, in the context of domestic violence, dating violence, and abuse in later life, means behavior that is coercive, deceptive, or unreasonably controls or restrains a person’s ability to acquire, use, or maintain economic resources to which they are entitled, including using coercion, fraud, or manipulation to—",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "FEMALE GENITAL MUTILATION OR CUTTING.\nFORCED MARRIAGE.\n(C) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of female genital mutilation or cutting, or forced marriage.",
+      "rationale": "The candidate sentences include operative definitions of harmful practices (female genital mutilation or cutting; forced marriage) and also explicitly include victims of FGM/C or forced marriage within the scope of victim services/legal assistance, which constitutes substantive legal framework coverage beyond mere mention.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "FEMALE GENITAL MUTILATION OR CUTTING.\n\nFORCED MARRIAGE.\n\n(C) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of female genital mutilation or cutting, or forced marriage.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences use the terms femicide/feminicide or an equivalent concept (e.g., gender-motivated killing of women) in a way that defines, criminalises, treats as an aggravating factor, or establishes femicide-specific prevention/monitoring mechanisms. References to gender-motivated violence and homicide/death penalty provisions are not framed as femicide/feminicide.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "SEX TRAFFICKING.\n(A) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. (B) adult survivors of child sexual abuse; and",
+      "rationale": "The text provides an operative definition of \"sex trafficking\" and also includes victims of severe forms of trafficking in persons as a target group for victim services/legal assistance, which is substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "SEX TRAFFICKING.\n\n(A) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. (B) adult survivors of child sexual abuse; and",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "(A) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. (B) adult survivors of child sexual abuse; and\nSEX TRAFFICKING.",
+      "rationale": "The candidate sentences explicitly cover trafficking in persons (including an operative definition of sex trafficking) and include trafficking victims within victim services/legal assistance. Because sex trafficking inherently establishes a sexual-exploitation nexus in the operative text provided, this constitutes substantive coverage of sexual exploitation within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(A) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. (B) adult survivors of child sexual abuse; and\n\nSEX TRAFFICKING.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "TECHNOLOGICAL ABUSE.\n(4) to develop safe uses of technology (such as notice requirements regarding electronic surveillance by government entities), to protect against abuses of technology (such as elec-",
+      "rationale": "The framework includes an operative definition of \"technological abuse\" as harmful conduct using technology within domestic violence/sexual assault/dating violence/stalking contexts, and it also authorizes grant uses to protect against abuses of technology such as electronic or GPS stalking and related high-tech electronic crimes. This is substantive recognition and addressing of technology-facilitated violence, not merely use of technology for service delivery.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.87,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.87
+      },
+      "evidence_verified": true,
+      "evidence_original": "TECHNOLOGICAL ABUSE.\n\n(4) to develop safe uses of technology (such as notice requirements regarding electronic surveillance by government entities), to protect against abuses of technology (such as elec-",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "\"A person who, in the course of an offense under this chapter, engages in conduct that results in the death of a person, shall be punished by death or imprisoned for any term of years or for life.\".",
+      "rationale": "The text includes an operative criminal punishment provision for sexual abuse resulting in death, specifying that the perpetrator “shall be punished by death or imprisoned for any term of years or for life,” which is a criminal sanction attached to a form of violence against women (sexual abuse).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "‘‘A person who, in the course of an offense under this chapter, engages in conduct that results in the death of a person, shall be punished by death or imprisoned for any term of years or for life. ’’.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines “protection order or restraining order” and references judges issuing orders in stalking/domestic violence cases, it does not, in the provided sentences, set out an operative protection-order mechanism meeting the coding requirements (who may apply, issuing authority, duration, and consequence for breach).",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss grant programs, training, task forces, privacy protections, and definitions related to domestic violence/sexual assault, but they do not designate or mandate a specific specialised unit/desk/division within police services for VAW victims, nor do they contain a general requirement that police provide adequate services to women victims without naming a unit.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference civil rights causes of action, studies, and training programs for judges/court personnel, but they do not establish or mandate a specialised court/chamber/judicial officer or an expedited/specialised judicial procedure specifically for VAW cases. Training provisions alone are not a designated specialised judicial mechanism.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions marital rape as a topic that may be included in judicial training content, and defines domestic violence to include crimes by spouses/intimate partners, it does not contain an operative provision expressly criminalising rape within marriage, stating that marriage is not a defence, or otherwise removing a spousal exemption from criminal liability for sexual violence. Under the coding rules, general references to rape/sexual assault or domestic violence are insufficient without explicit applicability to spouses in the operative criminal provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(1) support implementation of this chapter; (2) coordinate with Federal agencies on legislation, implementation, and other issues affecting the housing provisions under this subtitle, as well as other issues related to advancing housing protections for victims of domestic violence, dating violence, sexual assault, and stalking; (3) coordinate with State and local governments and agencies, including State housing finance agencies, regarding advancing housing protections and access to housing for victims of domestic violence, dating violence, sexual assault, and stalking; (4) ensure that technical assistance and support are provided to each appropriate agency and housing providers regarding implementation of this subtitle, as well as other issues related to advancing housing protections for victims of domestic violence, dating violence, sexual assault, and stalking, including compliance with this subtitle; G:\\COMP\\103\\103-322.\n—The Attorney General, in consultation with national nonprofit, nongovernmental organizations whose primary expertise is in domestic violence, shall establish a task force to coordinate research on domestic violence and to report to Congress on any overlapping or duplication of efforts on domestic violence issues.",
+      "rationale": "The text establishes formal coordination mechanisms: a HUD Gender-based Violence Prevention Office with a Director whose duties include coordinating with Federal agencies and with State and local governments/agencies, and it also establishes a domestic violence research task force comprised of representatives from all Federal agencies that fund such research to coordinate research and report to Congress. These are operative, institutionalized coordination bodies/processes rather than mere exhortations to cooperate.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) support implementation of this chapter; (2) coordinate with Federal agencies on legislation, implementation, and other issues affecting the housing provisions under this subtitle, as well as other issues related to advancing housing protections for victims of domestic violence, dating violence, sexual assault, and stalking; (3) coordinate with State and local governments and agencies, including State housing finance agencies, regarding advancing housing protections and access to housing for victims of domestic violence, dating violence, sexual assault, and stalking; (4) ensure that technical assistance and support are provided to each appropriate agency and housing providers regarding implementation of this subtitle, as well as other issues related to advancing housing protections for victims of domestic violence, dating violence, sexual assault, and stalking, including compliance with this subtitle;\n\n—The Attorney General, in consultation with national nonprofit, nongovernmental organizations whose primary expertise is in domestic violence, shall establish a task force to coordinate research on domestic violence and to report to Congress on any overlapping or duplication of efforts on domestic violence issues.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "Not later than 2 years after the date of enactment of this Act, the Attorney General, in accordance with the States, shall compile data regarding domestic violence and intimidation (including stalking) as part of the National Incident-Based Reporting System\n—The Attorney General is authorized to provide grants to States and units of local government to improve and implement processes for entering data regarding stalking and domestic violence into local, State, and national crime information databases.",
+      "rationale": "The framework assigns explicit responsibilities related to collecting/entering violence-related data: it requires the Attorney General to compile data on domestic violence and intimidation (including stalking) as part of NIBRS, and it authorizes grants to improve and implement processes for entering data regarding stalking and domestic violence into crime information databases. These are operative provisions establishing/mandating data collection and management functions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Not later than 2 years after the date of enactment of this Act, the Attorney General, in accordance with the States, shall compile data regarding domestic violence and intimidation (including stalking) as part of the National Incident-Based Reporting System\n\n—The Attorney General is authorized to provide grants to States and units of local government to improve and implement processes for entering data regarding stalking and domestic violence into local, State, and national crime information databases.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences reference gender-motivated violence, civil rights, nondiscrimination, and the establishment of a Gender-based Violence Prevention Office, but they do not explicitly require or establish 'gender mainstreaming' as an institutional mechanism (e.g., mainstreaming in planning/budgeting/service delivery or a gender mainstreaming focal point/working group). Under the coding rules, general gender-related objectives or gender-based violence structures without an explicit gender mainstreaming mechanism do not qualify.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(i) provide training programs to assist law enforcement agencies, prosecutors, agencies of States or units of local government, population specific organizations, victim service providers, victim advocates, or relevant officers in Federal, tribal, State, territorial, and local courts in recognizing and addressing instances of abuse in later life;",
+      "rationale": "The framework includes an operative requirement that grant recipients use funds to provide training programs to assist law enforcement agencies, prosecutors, government agencies, courts, and related implementing actors in recognizing and addressing abuse (a form of violence) in later life, which constitutes mandated training/capacity building for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(i) provide training programs to assist law enforcement agencies, prosecutors, agencies of States or units of local government, population specific organizations, victim service providers, victim advocates, or relevant officers in Federal, tribal, State, territorial, and local courts in recognizing and addressing instances of abuse in later life;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "—Each appropriate agency shall establish a process by which to review compliance with the requirements of this subtitle, which shall—\n(B) examine—\n—Each appropriate agency shall conduct the review described in paragraph (1) on a regular basis, as determined by the appropriate agency.",
+      "rationale": "The framework establishes a specific compliance review process (a monitoring mechanism) requiring appropriate agencies to review compliance with housing-related protections for victims of domestic violence, dating violence, sexual assault, and stalking, and to conduct such reviews on a regular basis, which amounts to monitoring of implementation/service delivery requirements.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "—Each appropriate agency shall establish a process by which to review compliance with the requirements of this subtitle, which shall—\n\n(B) examine—\n\n—Each appropriate agency shall conduct the review described in paragraph (1) on a regular basis, as determined by the appropriate agency.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "(f) AUTHORIZATION OF APPROPRIATIONS.",
+      "rationale": "The framework contains an operative authorization of appropriations specifying a dollar amount for multiple fiscal years to carry out a program aimed at preventing domestic violence, dating violence, sexual assault, and stalking, which constitutes a legal provision for allocating funding to support implementation of violence prevention initiatives.",
+      "coverage": "Substantive",
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(f) AUTHORIZATION OF APPROPRIATIONS.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on civil rights causes of action, research coordination, training, and various grant programs (including multidisciplinary responses for abuse in later life and housing-related coordination), but none of the candidate sentences explicitly establish, mandate, or recognize an integrated/one-stop/multidisciplinary service mechanism specifically for women victims/survivors of violence that coordinates multiple victim services (e.g., health, legal, psychosocial, shelter) through a designated mechanism. References to multidisciplinary partnerships/responses are tied to specific contexts (e.g., abuse in later life) or general collaboration, rather than an integrated service unit for women VAW survivors as defined by the criterion.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "—Landlords, homeowners, tenants, residents, occupants, and guests of, and applicants for, housing—\n(i) 24-hour hotline services providing crisis intervention services and referral;",
+      "rationale": "The text includes an operative right for individuals (including victims) to seek law enforcement or emergency assistance, which functions as a help-seeking/reporting mechanism, and it also explicitly includes 24-hour hotline services (for sexual assault victims) as part of intervention and related assistance. These are operative provisions establishing mechanisms through which victims can seek assistance/emergency support.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "—Landlords, homeowners, tenants, residents, occupants, and guests of, and applicants for, housing—\n\n(i) 24-hour hotline services providing crisis intervention services and referral;",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(1) transitional housing, including funding for the operating expenses of newly developed or existing transitional housing.10",
+      "rationale": "The framework provides, through operative grant provisions, for transitional housing for victims of domestic violence, dating violence, sexual assault, or stalking, which constitutes accommodation-based protection/residential support for victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) transitional housing, including funding for the operating expenses of newly developed or existing transitional housing.10",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "(2) providing treatment, counseling, advocacy, legal assistance, and other long-term and short-term victim and population specific services to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters; (3) working in cooperation with the community to develop education and prevention strategies directed toward such issues; and",
+      "rationale": "The retrieved operative provision authorizes grants for programs that include providing legal assistance to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking, which constitutes an explicit legal-assistance service mechanism for victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) providing treatment, counseling, advocacy, legal assistance, and other long-term and short-term victim and population specific services to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters; (3) working in cooperation with the community to develop education and prevention strategies directed toward such issues; and",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(4) to develop, expand, implement, and improve the quality of sexual assault forensic medical examination or sexual assault nurse examiner programs.",
+      "rationale": "The retrieved operative provision includes development and improvement of sexual assault forensic medical examination or sexual assault nurse examiner programs, which are specific health/medical (forensic) services connected to victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) to develop, expand, implement, and improve the quality of sexual assault forensic medical examination or sexual assault nurse examiner programs.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(2) providing treatment, counseling, advocacy, legal assistance, and other long-term and short-term victim and population specific services to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters; (3) working in cooperation with the community to develop education and prevention strategies directed toward such issues; and",
+      "rationale": "The framework authorizes grant-funded programs that provide “counseling” as part of victim services for adult and minor victims of domestic violence, dating violence, sexual assault, and stalking, which constitutes provision of psychosocial/counselling support services in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) providing treatment, counseling, advocacy, legal assistance, and other long-term and short-term victim and population specific services to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters; (3) working in cooperation with the community to develop education and prevention strategies directed toward such issues; and",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions “faith-based leaders” and “faith-based organizations” in the context of training/technical assistance and as possible partners, it does not expressly provide religious/spiritual counselling, pastoral care, or faith-based victim-support services to women victims/survivors of violence, nor assign such counselling responsibilities to religious personnel or institutions.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(3) support services designed to enable a minor, an adult, or a dependent of such minor or adult, who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—\n(A) locate and secure permanent housing; (B) secure employment, including obtaining employment counseling, occupational training, job retention counseling, and counseling concerning re-entry in to the workforce; and\nServices, acting through the Administration for Children and Families, in partnership with the Secretary of Housing and Urban Development, shall award grants, contracts, or cooperative agreements for a period of not less than 2 years to eligible entities to develop long-term sustainability and self-sufficiency options for adult and youth victims of domestic violence, dating violence, sexual assault, and stalking who are currently homeless or at risk for becoming homeless.",
+      "rationale": "The framework provides longer-term support measures for victims/survivors, including support services to help victims secure permanent housing and employment-related assistance, and it establishes grants to develop long-term sustainability and self-sufficiency options for victims who are homeless or at risk of homelessness—both of which are recovery/reintegration supports in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) support services designed to enable a minor, an adult, or a dependent of such minor or adult, who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—\n\n(A) locate and secure permanent housing; (B) secure employment, including obtaining employment counseling, occupational training, job retention counseling, and counseling concerning re-entry in to the workforce; and\n\nServices, acting through the Administration for Children and Families, in partnership with the Secretary of Housing and Urban Development, shall award grants, contracts, or cooperative agreements for a period of not less than 2 years to eligible entities to develop long-term sustainability and self-sufficiency options for adult and youth victims of domestic violence, dating violence, sexual assault, and stalking who are currently homeless or at risk for becoming homeless.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(b) by a defendant convicted of such an offense for the first time that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant.\n(2) in subsection (d) by inserting the following after the first sentence: \"The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant.\".",
+      "rationale": "The framework requires, as a condition of probation and supervised release for certain domestic violence offenders, attendance at an approved offender rehabilitation program, which is a perpetrator-focused intervention/rehabilitation measure established in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "‘‘(4) for a domestic violence crime as defined in section 3561(b) by a defendant convicted of such an offense for the first time that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant. ’’.\n\n(2) in subsection (d) by inserting the following after the first sentence: ‘‘The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant.’’.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(B) creating and implementing strategies to increase awareness and prevent domestic violence, sexual assault, dating violence, and stalking; and",
+      "rationale": "The policy includes an operative purpose to create and implement strategies to increase awareness and prevent domestic violence, sexual assault, dating violence, and stalking, which constitutes information/awareness activities explicitly linked to preventing violence against women (VAW/GBV).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(B) creating and implementing strategies to increase awareness and prevent domestic violence, sexual assault, dating violence, and stalking; and",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided candidate sentences require or provide information/education/awareness activities specifically about gender equality, equal rights of women and men, or women's rights, nor do they explicitly link such gender-equality education to preventing violence against women. The text focuses on education/awareness about violence (e.g., domestic violence/sexual assault) or other topics (e.g., gender bias in courts) rather than gender equality or women's rights as prevention content.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to education/prevention grants, training programs, information programs, public awareness/public dissemination, and dissemination of model legislation on confidentiality, but none of the candidate sentences explicitly provide for public information/education specifically about laws, regulations, policies, or legal protections relating to violence against women (as required by the coding rules). Several passages concern training/education about violence generally or about services/programs, and one concerns disseminating model legislation to State authorities, but this is not framed as public legal-awareness about VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "—To enable middle schools, high schools, and institutions of higher education to—\n(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating vi- G:\\COMP\\103\\103-322.\nXML Sec. 41201 VIOLENT CRIME CONTROL AND LAW ENFORCEMENT ACT OF... 154 olence, sexual assault, stalking, sex trafficking, or female genital mutilation or cutting; (B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students; (C) provide confidential support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call; (D) implement developmentally appropriate educational programming for students regarding domestic violence, dating violence, sexual assault, stalking, and sex trafficking and the impact of such violence on youth; or",
+      "rationale": "The cited provisions explicitly situate educational institutions (middle schools, high schools, and institutions of higher education) as sites for prevention and intervention policies and for educational programming regarding domestic violence, dating violence, sexual assault, stalking, and related issues, which are expressly linked to preventing future violence. This meets the requirement that the framework identify education/educational institutions and programming as a prevention measure for violence against women (including forms of VAW such as domestic and sexual violence).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "—To enable middle schools, high schools, and institutions of higher education to—\n\n(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating vi- G:\\COMP\\103\\103-322.\n\nXML Sec. 41201 VIOLENT CRIME CONTROL AND LAW ENFORCEMENT ACT OF... 154 olence, sexual assault, stalking, sex trafficking, or female genital mutilation or cutting; (B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students; (C) provide confidential support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call; (D) implement developmentally appropriate educational programming for students regarding domestic violence, dating violence, sexual assault, stalking, and sex trafficking and the impact of such violence on youth; or",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "Yes",
+      "evidence": "—The Attorney General, in consultation with the Secretary of Health and Human Services and the Secretary of Education, is authorized to award grants for the purpose of preventing domestic violence, dating violence, sexual assault, and stalking by focusing on men and youth as leaders and influencers of social norms.\n—Funds provided under this section may be used to develop, maintain or enhance programs that work with men and youth to prevent domestic violence, dating violence, sexual assault, and stalking by helping men and youth to serve as role models and social influencers of other men and youth at the individual, school, community or statewide levels.",
+      "rationale": "The cited provisions authorize grants specifically to prevent domestic violence, dating violence, sexual assault, and stalking by focusing on men (and youth) as leaders and influencers of social norms, including programs that work with men and youth as role models and social influencers. This is an operative, primary-prevention measure engaging men to change norms/behaviors linked to violence, satisfying the criterion.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "—The Attorney General, in consultation with the Secretary of Health and Human Services and the Secretary of Education, is authorized to award grants for the purpose of preventing domestic violence, dating violence, sexual assault, and stalking by focusing on men and youth as leaders and influencers of social norms.\n\n—Funds provided under this section may be used to develop, maintain or enhance programs that work with men and youth to prevent domestic violence, dating violence, sexual assault, and stalking by helping men and youth to serve as role models and social influencers of other men and youth at the individual, school, community or statewide levels.",
+      "evidence_original_aligned": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(ii) because of the actions or threatened actions of the individual who the victim, as certified in subsection (e), states has committed or threatened to commit acts of such violence against the victim, or against the victim's family or household member; (D) plans are developed that establish meaningful consultation and coordination with local victim service providers, tenant organizations, linguistically and culturally specific service providers, population-specific organizations, State domestic violence and sexual assault coalitions, and, where they exist, tribal domestic violence and sexual assault coalitions; and\nApplicants described in paragraph (1) and paragraphs (3) through (6) shall demonstrate that they have entered into a significant partnership with a State, tribal, territorial, or local victim service or advocacy organization or condition in order to develop safe, confidential, and effective protocols, procedures, policies, and systems for protecting personally identifying information of victims.",
+      "rationale": "The text contains operative grant conditions requiring applicants/eligible grantees to establish consultation/coordination and to enter into significant partnerships with victim service or advocacy organizations (including nonprofit, nongovernmental organizations) in the context of domestic violence, dating violence, sexual assault, stalking, etc., which constitutes formal engagement/collaboration mechanisms with civil society/NGOs for VAW-related response and implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(ii) because of the actions or threatened actions of the individual who the victim, as certified in subsection (e), states has committed or threatened to commit acts of such violence against the victim, or against the victim’s family or household member; (D) plans are developed that establish meaningful consultation and coordination with local victim service providers, tenant organizations, linguistically and culturally specific service providers, population-specific organizations, State domestic violence and sexual assault coalitions, and, where they exist, tribal domestic violence and sexual assault coalitions; and\n\nApplicants described in paragraph (1) and paragraphs (3) through (6) shall demonstrate that they have entered into a significant partnership with a State, tribal, territorial, or local victim service or advocacy organization or condition in order to develop safe, confidential, and effective protocols, procedures, policies, and systems for protecting personally identifying information of victims.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "(iv) conduct cross-training for law enforcement agencies, prosecutors, agencies of States or units of local government, attorneys, health care providers, population specific organizations, faith-based leaders, victim advocates, victim service providers, courts, and first responders to better serve older victims.",
+      "rationale": "The text includes an operative provision requiring grant recipients to conduct cross-training that explicitly includes \"faith-based leaders\" to better serve older victims (which includes domestic violence, dating violence, sexual assault, or stalking of adults aged 50+ per the surrounding context). This constitutes authorized/required engagement with religious leaders in response to violence that includes VAW-related forms.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(iv) conduct cross-training for law enforcement agencies, prosecutors, agencies of States or units of local government, attorneys, health care providers, population specific organizations, faith-based leaders, victim advocates, victim service providers, courts, and first responders to better serve older victims.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "(A) domestic violence, dating violence, sexual assault, and stalking victim service providers; (B) law enforcement agencies; (C) prosecutors; (D) courts; (E) other criminal justice service providers; (F) human and community service providers; (G) educational institutions; and\n—The Attorney General, working in collaboration with the Secretary of Health and Human Services and the Secretary of Education, shall award grants to enhance the",
+      "rationale": "The framework includes operative provisions that (1) encourage collaboration among multiple actors including \"educational institutions\" to respond to domestic violence/sexual assault/dating violence/stalking in rural communities, and (2) require the Attorney General to award grants in collaboration with the Secretary of Education to enhance safety and prevent future violence for youth/children exposed to domestic violence, dating violence, sexual assault, stalking, or sex trafficking. These provisions establish collaboration involving education institutions/authorities in VAW-related prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(D) courts; (E) other criminal justice service providers; (F) human and community service providers; (G) educational institutions; and\n\n—The Attorney General, working in collaboration with the Secretary of Health and Human Services and the Secretary of Education, shall award grants to enhance the",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions discuss domestic violence/VAW programming and coordination among domestic actors, and include a general aim to improve coordination of “international crime control and prevention efforts,” but they do not establish or require cooperation with any international organisation (e.g., UN, regional bodies) specifically on violence against women. References to “international” are either generic (coordination of crime control efforts) or unrelated to VAW, and there is no operative mechanism for collaboration with an international organisation on VAW.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include a non-binding “sense of the Senate” statement about news media respecting rape victims’ privacy, but this does not establish, require, or authorise collaboration with media actors for VAW prevention/response mechanisms. Other references are to communication channels (e.g., websites/social media) without identifying media organisations as partners, and no operative provision creates media engagement responsibilities or partnerships on VAW.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "(2) providing treatment, counseling, advocacy, legal assistance, and other long-term and short-term victim and population specific services to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters; (3) working in cooperation with the community to develop education and prevention strategies directed toward such issues; and\n(ii) community-based collaboration and training for individuals with influence on youth, such as parents, teachers, coaches, healthcare providers, faith leaders, older teens, and mentors;",
+      "rationale": "The framework includes operative provisions that explicitly contemplate working with the community and community-based collaboration as part of prevention and response programming for domestic violence/sexual assault/stalking (forms of VAW). These provisions go beyond general references to the public by specifying cooperation with the community and community-based collaboration/training as part of program activities.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) providing treatment, counseling, advocacy, legal assistance, and other long-term and short-term victim and population specific services to adult and minor victims of domestic violence, dating violence, sexual assault, and stalking in rural communities, including assistance in immigration matters; (3) working in cooperation with the community to develop education and prevention strategies directed toward such issues; and\n\n(ii) community-based collaboration and training for individuals with influence on youth, such as parents, teachers, coaches, healthcare providers, faith leaders, older teens, and mentors;",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "The resource center shall provide information and assistance to employers, labor organizations, and victim service providers to aid in their efforts to develop and implement responses to such violence.\n(1) information that demonstrates that the entity or organization has nationally recognized expertise in the area of domestic or sexual violence; (2) a plan to maximize, to the extent practicable, outreach to employers (including private companies, public entities such as public institutions of higher education and State and local governments, and employers with fewer than 20 employees) and labor organizations described in subsection (a) concerning developing and implementing workplace responses to assist victims of domestic or sexual violence; and",
+      "rationale": "The framework authorises establishment/operation of a national resource center that provides information and assistance to employers and includes outreach to employers (including private companies) regarding workplace responses to domestic/sexual violence and sexual harassment. This constitutes an operative mechanism engaging private-sector actors (employers/private companies) in VAW-related response/prevention in the workplace context.",
+      "coverage": "Substantive",
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "The resource center shall provide information and assistance to employers, labor organizations, and victim service providers to aid in their efforts to develop and implement responses to such violence.\n\n(1) information that demonstrates that the entity or organization has nationally recognized expertise in the area of domestic or sexual violence; (2) a plan to maximize, to the extent practicable, outreach to employers (including private companies, public entities such as public institutions of higher education and State and local governments, and employers with fewer than 20 employees) and labor organizations described in subsection (a) concerning developing and implementing workplace responses to assist victims of domestic or sexual violence; and",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe federal payments to local governments and a Treasury fund consisting of amounts appropriated to it, but they do not identify local government budget as a funding/budget source. References to “State or local funds” appear only in nonsupplanting language and do not establish local government budget as a source of funding for the policy.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "—There are authorized to be appropriated $100,000,000 for each of fiscal years 2023 through 2027 to carry out this section.\n(b) AUTHORIZATION OF APPROPRIATIONS.\n—On the first day of the following fiscal years (or as soon thereafter as possible for fiscal year 1995), the following amounts shall be transferred from the general fund to the Fund—",
+      "rationale": "The candidate sentences explicitly authorize appropriations (national-level budget authority) for programs and funds, and also specify transfers from the general fund to a Treasury trust fund, which are national government financing mechanisms.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "—There are authorized to be appropriated $100,000,000 for each of fiscal years 2023 through 2027 to carry out this section.\n\n(b) AUTHORIZATION OF APPROPRIATIONS.\n\n—On the first day of the following fiscal years (or as soon thereafter as possible for fiscal year 1995), the following amounts shall be transferred from the general fund to the Fund—",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited passages discuss domestic (U.S. federal) appropriations, grants, reporting to Congress, and coordination among U.S. federal agencies and domestic entities. None of the candidate sentences mention international assistance, foreign donors, UN agencies, development partners, or any other explicit international support related to VAW measures.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "There is authorized to be appropriated for fiscal years 1995 through 2000 such sums as may be necessary to carry out the programs under parts D and E of title I of the Omnibus Crime Control and Safe Streets Act of 1968, of which the following amounts may be appropriated from the Violent Crime Reduction Trust Fund:\n(a) VIOLENT CRIME REDUCTION TRUST FUND.",
+      "rationale": "The policy identifies funding/budget sources beyond a standard annual appropriation, including appropriations from a dedicated trust fund and the creation of that trust fund as a financing mechanism. These constitute explicit budget sources from other legal sources.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "There is authorized to be appropriated for fiscal years 1995 through 2000 such sums as may be necessary to carry out the programs under parts D and E of title I of the Omnibus Crime Control and Safe Streets Act of 1968, of which the following amounts may be appropriated from the Violent Crime Reduction Trust Fund: (1) $580,000,000 for fiscal year 1995;\n\n(a) VIOLENT CRIME REDUCTION TRUST FUND.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to U.S. federal appropriations and allocations to States and local governments, but do not mention provincial government budgets (or an equivalent subnational 'province' budget source) as a funding source.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 3,
+    "02_Protection_and_Justice.txt": 2,
+    "03_Institutional_mechanisms.txt": 2,
+    "04_Specialised_Support_Services.txt": 3,
+    "05_Primary_prevention.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2,
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 32,
+    "resolved": 32,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,967 @@
+{
+  "policy_file": "106. Malta - DomViol - English (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T16:51:56.364699+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(e) in the case of any offence involving domestic violence:\n(1) Upon the receipt of any report, information or protection complaint by the Executive Police requiring proceedings to be orders.",
+      "rationale": "The candidate sentences explicitly include an operative reference to offences involving domestic violence and link the term to a statutory definition, and they also establish procedural/protective measures (risk assessment and temporary protection orders) in connection with reports/complaints, referencing the Gender-Based Violence and Domestic Violence Act. This constitutes substantive legal coverage rather than a mere preambular mention.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(e) in the case of any offence involving domestic violence:\n\n(1) Upon the receipt of any report, information or protection complaint by the Executive Police requiring proceedings to be orders.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Rape.\n(1) Whosoever shall engage in non-consensual carnal\n(e) subjects another person to any act and, or conduct with sexual connotations, including spoken words, gestures and, or the production, display or circulation of any written words, pictures, and, or any other material, where such act, words, and, or conduct is unwelcome to the victim, and could be reasonably be regarded as offensive, humiliating, degrading, and, or intimidating towards that person, shall be guilty of an offence under this article.",
+      "rationale": "The candidate sentences contain operative criminal provisions on rape (non-consensual carnal connection) and also criminalize harassment involving sexual connotations and requests for sexual favours. These are substantive legal prohibitions addressing sexual violence/sexual offences within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Rape.\n\n(1) Whosoever shall engage in non-consensual carnal\n\n(e) subjects another person to any act and, or conduct with sexual connotations, including spoken words, gestures and, or the production, display or circulation of any written words, pictures, and, or any other material, where such act, words, and, or conduct is unwelcome to the victim, and could be reasonably be regarded as offensive, humiliating, degrading, and, or intimidating towards that person, shall be guilty of an offence under this article. (2) For the purpose of this article, the person whose course of conduct is in question ought to know that it amounts to harassment of another person if a reasonable person in possession of the same information would think the course of conduct amounted to harassment of the other person. (3) It is a defence for a person charged with an offence under this article to show that: (a) his course of conduct was pursued for the purpose of preventing or detecting crime; or",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Bodily harm 94.\nWhosoever shall assault or resist by violence or active resistance.",
+      "rationale": "The cited provisions explicitly criminalise bodily harm and assault, which are direct forms of physical violence addressed in operative criminal law provisions (not merely in preambular or contextual text).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Bodily harm 94.\n\nWhosoever shall assault or resist by violence or active resistance.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(1) Whosoever shall use violence, including moral and, or, Amended by: psychological violence, and, or coercion, in order to compel another",
+      "rationale": "The framework explicitly includes “psychological violence” within an operative offence provision on private violence, indicating it is covered as a form of violence with criminal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Whosoever shall use violence, including moral and, or, Amended by: psychological violence, and, or coercion, in order to compel another",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(1) Whosoever shall use violence, including moral and, or, Amended by: psychological violence, and, or coercion, in order to compel another",
+      "rationale": "The operative provision on private violence explicitly covers conduct that restricts access to money, education, or employment, which constitutes deprivation of economic resources/economic abuse with attached criminal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Whosoever shall use violence, including moral and, or, Amended by: psychological violence, and, or coercion, in order to compel another",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Amended by: changes, shall be guilty of enforced female genital mutilation and XIII.2018.24.\nAny person who by force, bribery, deceit, deprivation of Forced liberty, improper pressure or any other unlawful conduct or by marriage.\nInfanticide.",
+      "rationale": "The cited provisions criminalise specific harmful practices affecting women and girls, including female genital mutilation, forced marriage, and infanticide, with specified penalties and related operative rules. This constitutes substantive legal regulation of harmful practices rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "Amended by: changes, shall be guilty of enforced female genital mutilation and XIII.2018.24.\n\nAny person who by force, bribery, deceit, deprivation of Forced liberty, improper pressure or any other unlawful conduct or by marriage.\n\nInfanticide.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences use the terms femicide/feminicide (or an equivalent such as gender-motivated killing of women) or establish a femicide-specific offence, classification, aggravating factor for homicide, or dedicated prevention/monitoring mechanism. The excerpts address homicide generally and gender as an aggravating motive for certain offences, but do not specifically address femicide as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "(1) Whosoever, by any means mentioned in sub-article person of age for (2), traffics a person of age for the purpose of exploiting that the purpose of person in: exploitation in the production\n(1) In this Sub-title, the phrase \"trafficks a person\" or General \"trafficks a minor\" means the recruitment, transportation, sale or provisions applicable to this transfer of a person, or of a minor, as the case may be, including Sub-title.\nthat the person concerned is a victim of any of the offences under this Sub-title.",
+      "rationale": "The text contains operative provisions defining and criminalising trafficking in persons (including the definition of “trafficks a person/minor” and the offence of trafficking for exploitation). It also explicitly recognises victims of trafficking in an operative rule (immigration-law inapplicability period triggered when there are reasonable grounds to believe a person is a victim), indicating substantive treatment beyond mere mention.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Whosoever, by any means mentioned in sub-article person of age for (2), traffics a person of age for the purpose of exploiting that the purpose of person in: exploitation in the production\n\n(1) In this Sub-title, the phrase \"trafficks a person\" or General \"trafficks a minor\" means the recruitment, transportation, sale or provisions applicable to this transfer of a person, or of a minor, as the case may be, including Sub-title.\n\nthat the person concerned is a victim of any of the offences under this Sub-title.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Whosoever, by any means mentioned in article 248A(2), Traffic of a trafficks a person of age for the purpose of exploiting that person in person of age for the purpose of prostitution or in pornographic performances or in the production exploitation in of pornographic material or other forms of sexual exploitation shall, prostitution, etc. on conviction, be liable to the punishment laid down in article Added by: III.2002.50.",
+      "rationale": "The candidate sentences include an operative trafficking provision that explicitly criminalises trafficking of an adult for the purpose of exploitation in prostitution, pornographic performances/material, or “other forms of sexual exploitation,” which directly establishes a sexual-exploitation nexus in the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "XXIII.2017.10. person of any one of the spouses, or on the person of any one of the natural parents, or on any person mentioned in article 202(h); (b) on the person of any witness or referee who shall have given evidence or an opinion in any suit, and on account of such evidence or opinion, or on the person of a child under nine years of age; (c) on the person of whosoever was a public officer or was lawfully charged with a public duty or is or was an officer or employee of a body corporate established by law and the offence was committed because of that person having exercised his functions;",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "(1) Whosoever, with an intent to cause distress, emotional Non-consensual harm or harm of any nature, takes or discloses a private sexual taking or disclosure of photograph or film without the consent of the person or persons private sexual displayed or depicted in such photograph or film shall on photographs and conviction be liable to imprisonment for a term of up to five years or films.\n(4) In this article: \"taking\" shall refer to the unauthorised taking of sexual private photos and films, by any means; \"disclosure\" shall be construed as also including the publication, distribution, trade, circulation or unauthorised use of private sexual photographs and films, by any means; \"private\" shall refer to any photograph or film which was never intended for public consumption; \"sexual\" shall include the depiction of all or part of a person's exposed genitals or pubic area, or, in the case of females, of the breasts, or of any content that, when taken as a whole, a reasonable person would consider to be sexual because of its nature; \"photograph or film\" means a moving or still image or data, stored by any means, which is capable of conversion into a moving or still image.",
+      "rationale": "The candidate sentences include an operative offence criminalising the non-consensual taking or disclosure of a private sexual photograph or film, and explicitly define “disclosure” to include publication/distribution/trade/circulation/unauthorised use “by any means,” which substantively covers a form of technology-facilitated sexual abuse (image-based abuse).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) For the purposes of this article an image shall be regarded as an extreme pornographic image if it is so described or defined by regulations made under sub-article (5) or is otherwise to be so regarded in accordance with any regulation made as aforesaid. (5) The Minister responsible for justice shall make regulations for the purpose of describing or defining or otherwise establishing what is to be regarded as an extreme pornographic image for the purposes of this article and may by such regulations make provision regarding the criteria to be followed for that purpose and may make different provisions for different circumstances and different purposes. 208E. (1) Whosoever, with an intent to cause distress, emotional Non-consensual harm or harm of any nature, takes or discloses a private sexual taking or disclosure of photograph or film without the consent of the person or persons private sexual displayed or depicted in such photograph or film shall on photographs and conviction be liable to imprisonment for a term of up to five years or films.\n\n(4) In this article: \"taking\" shall refer to the unauthorised taking of sexual private photos and films, by any means; \"disclosure\" shall be construed as also including the publication, distribution, trade, circulation or unauthorised use of private sexual photographs and films, by any means; \"private\" shall refer to any photograph or film which was never intended for public consumption; \"sexual\" shall include the depiction of all or part of a person’s exposed genitals or pubic area, or, in the case of females, of the breasts, or of any content that, when taken as a whole, a reasonable person would consider to be sexual because of its nature; \"photograph or film\" means a moving or still image or data, stored by any means, which is capable of conversion into a moving or still image.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(1) Whosoever shall engage in non-consensual carnal\nliable to imprisonment for a term from six to twelve years:\nAmended by: changes, shall be guilty of enforced female genital mutilation and XIII.2018.24.\nshall be liable to the punishment of imprisonment for a term from five to ten years.",
+      "rationale": "The cited provisions define specific forms of violence (e.g., rape; enforced female genital mutilation) as criminal offences and attach explicit criminal sanctions (imprisonment terms), satisfying the requirement for substantive criminal penalties within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Whosoever shall engage in non-consensual carnal\n\nliable to imprisonment for a term from six to twelve years:\n\nAmended by: changes, shall be guilty of enforced female genital mutilation and XIII.2018.24.\n\nshall be liable to the punishment of imprisonment for a term from five to ten years.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "Amended by: of inquiry or as a Court of criminal judicature, the Court may, L.N. 407 of either ex officio or at the request of any party to the proceedings, on Substituted: reasonable grounds, for the purpose of providing for the safety of XIII.2018.24.\n(9) A protection order shall remain in force for a period, not exceeding five years, specified by the Court, but can be revoked or extended for further periods.\nIf without reasonable excuse the accused contravenes any prohibition or restriction imposed upon him by an order under this article, he shall be guilty of an offence and shall, on conviction, be liable to a fine (multa) of seven thousand euro (€7,000) or to imprisonment not exceeding two years or to both such fine and imprisonment.\n(2) Where, following such investigation, and after the due consideration of the results of the assessment, it becomes apparent that any person is at a serious risk of harm, the Executive Police shall immediately apply to a Magistrate requesting the issue of a temporary protection order stating the grounds for the request and giving the Magistrate all such information that will enable the Magistrate to decide upon the request:",
+      "rationale": "The text provides an operative mechanism for protection orders: it identifies the issuing authority (the Court) and that orders may be issued ex officio or at the request of a party; it specifies duration (up to five years); it defines a consequence for breach (offence punishable by fine and/or imprisonment); and it also specifies that the Executive Police may apply to a Magistrate for a temporary protection order, indicating who may apply and the issuing authority for that temporary order.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Amended by: of inquiry or as a Court of criminal judicature, the Court may, L.N. 407 of either ex officio or at the request of any party to the proceedings, on Substituted: reasonable grounds, for the purpose of providing for the safety of XIII.2018.24. the injured person or of other individuals or for the keeping of the public peace or for the purpose of protecting the injured person or other individuals from harassment or other conduct which will cause a fear of violence, issue a protection order against the accused. (2) Where a protection order is requested by any party to the proceedings, such request shall be appointed for hearing to determine whether there is sufficient prima facie evidence for it to be issued by the Court within seven days from when such request is made. (3) Before issuing a protection order, the Court shall take into account:\n\n(9) A protection order shall remain in force for a period, not exceeding five years, specified by the Court, but can be revoked or extended for further periods.\n\nIf without reasonable excuse the accused contravenes any prohibition or restriction imposed upon him by an order under this article, he shall be guilty of an offence and shall, on conviction, be liable to a fine (multa) of seven thousand euro (€7,000) or to imprisonment not exceeding two years or to both such fine and imprisonment.\n\n(2) Where, following such investigation, and after the due consideration of the results of the assessment, it becomes apparent that any person is at a serious risk of harm, the Executive Police shall immediately apply to a Magistrate requesting the issue of a temporary protection order stating the grounds for the request and giving the Magistrate all such information that will enable the Magistrate to decide upon the request:",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe general police duties (e.g., receiving complaints, investigating, risk assessment, applying for protection orders) and involvement of trained professionals/agencies, but they do not designate or mandate a specific specialised unit/desk/division within police services for VAW victims, nor do they contain a general statement about providing adequate services to women victims tied to a specific unit.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to general court processes and powers (including protection orders, temporary protection orders, and procedural options such as staying/continuing proceedings in domestic violence/rape cases), but they do not establish or mandate a specialised court, chamber, designated judicial officer, or a specialised/expedited judicial procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions define rape and consent generally and list aggravating circumstances when crimes are committed against a spouse/partner, but they do not expressly state that rape/sexual assault applies within marriage or that spousal status is not a defence, nor do they explicitly remove any spousal exemption. Under the coding rules, marital rape cannot be inferred from general rape criminalisation or domestic-violence references alone.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Upon the receipt of any report, information or complaint on receipt of requiring proceedings to be taken, the Executive Police shall as report, soon as possible inform the Court of Magistrates (Malta), or the information or complaint.\n12(a) of the Victims of Crime Act, a professional, trained by the Amended by: designated agency in accordance with the Gender-Based Violence\n(6) When issuing a protection order under this article, the Court shall immediately communicate such order to the Commissioner of Police, who shall take all actions necessary to ensure monitoring of the conditions of such order, including, if appropriate, by electronic means.",
+      "rationale": "The text establishes inter-institutional coordination steps in operative provisions: the Executive Police must inform the Court of Magistrates upon receipt of a report/information/complaint, indicating a formalized coordination process between police and the judiciary. It also requires that a professional trained by a designated agency (under the Gender-Based Violence and Domestic Violence Act) conduct a risk assessment upon receipt of certain complaints, reflecting a structured multi-actor process. Additionally, when a protection order is issued, the Court must immediately communicate it to the Commissioner of Police for monitoring/enforcement, again creating a formal coordination mechanism between court and police.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Upon the receipt of any report, information or complaint on receipt of requiring proceedings to be taken, the Executive Police shall as report, soon as possible inform the Court of Magistrates (Malta), or the information or complaint.\n\n12(a) of the Victims of Crime Act, a professional, trained by the Amended by: designated agency in accordance with the Gender-Based Violence\n\n(6) When issuing a protection order under this article, the Court shall immediately communicate such order to the Commissioner of Police, who shall take all actions necessary to ensure monitoring of the conditions of such order, including, if appropriate, by electronic means.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe procedures for making reports/complaints, conducting risk assessments, informing courts, and keeping certain procedural records (e.g., entering details in a detention record), but they do not establish or assign responsibility for a system/entity to collect, manage, monitor, report, or exchange data specifically on violence against women, victims, or cases as a data function. The provisions are primarily case-processing and evidentiary/procedural requirements rather than a VAW data collection/management mandate.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, there is no explicit requirement to implement gender mainstreaming, nor any establishment of a gender mainstreaming mechanism (e.g., focal points, working groups, mainstreaming in planning/budgeting) for women’s protection or violence against women. References to “gender” appear in contexts such as hate-aggravation provisions or definitional clauses, not as an institutional gender mainstreaming implementation mechanism.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(1) The Minister responsible for home affairs shall Training.\nensure that staff of law enforcement authorities and of detention facilities who handle cases involving children, receive specific training to a level appropriate to their contact with children with regard to children's rights, appropriate questioning techniques, child psychology, and communication in a language adapted to the child.\n(2) Without prejudice to the independence of the judiciary, the Minister responsible for justice shall take appropriate measures to ensure that judges and prosecutors who deal with criminal proceedings involving children have specific competence in that field, effective access to specific training, or both.",
+      "rationale": "The framework contains operative provisions requiring the responsible ministers to ensure that relevant justice-sector personnel receive specific training (law enforcement/detention staff; judges and prosecutors). Although the cited provisions are framed around cases involving children (not explicitly violence against women), they still constitute a clear mandate for training of implementing personnel within the criminal justice system; additionally, the text references professionals trained in accordance with the Gender-Based Violence and Domestic Violence Act, but that reference alone would not be sufficient without the explicit training mandate found here.",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Minister responsible for home affairs shall Training.\n\nensure that staff of law enforcement authorities and of detention facilities who handle cases involving children, receive specific training to a level appropriate to their contact with children with regard to children's rights, appropriate questioning techniques, child psychology, and communication in a language adapted to the child.\n\n(2) Without prejudice to the independence of the judiciary, the Minister responsible for justice shall take appropriate measures to ensure that judges and prosecutors who deal with criminal proceedings involving children have specific competence in that field, effective access to specific training, or both.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(6) When issuing a protection order under this article, the Court shall immediately communicate such order to the Commissioner of Police, who shall take all actions necessary to ensure monitoring of the conditions of such order, including, if appropriate, by electronic means.",
+      "rationale": "The framework explicitly requires monitoring of protection-order conditions by designating the Commissioner of Police to take actions necessary to ensure such monitoring, including by electronic means. This is a specific monitoring mechanism tied to implementation/enforcement of a key GBV-related protective measure, rather than a vague aspiration.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) When issuing a protection order under this article, the Court shall immediately communicate such order to the Commissioner of Police, who shall take all actions necessary to ensure monitoring of the conditions of such order, including, if appropriate, by electronic means.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish a binding requirement to allocate budget/funding for violence against women response or prevention. The only funding-related language concerns a potential victim compensation scheme fund and funding for an Asset Recovery Bureau, which are not framed as required budget allocations for VAW implementation or prevention.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe general police reporting/complaint procedures and criminal procedure steps (including risk assessment and temporary protection orders, and a duty to provide sheltered accommodation by an agency), but they do not explicitly establish, mandate, or recognise an integrated/one-stop/multidisciplinary service mechanism coordinating multiple victim services for women victims/survivors of violence through a designated institutional mechanism. The references to a designated agency and sheltered accommodation relate to specific actions following a report rather than creating an integrated service unit/centre.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(1) Any person may give information to any officer of the Information.\nEvery person who feels himself aggrieved by any offence Amended by: and desires to lodge a complaint for the punishment of the offender, VI.1871.34; if known, or, if not known, in case he should be discovered, may III.1880.10; IX.1911.18.\nmake such complaint to any Police officer, even by letter.",
+      "rationale": "The framework provides an operative mechanism for reporting offences and lodging complaints to the Executive Police, including allowing a complaint to be made to any police officer (even by letter). This constitutes a designated authority/mechanism for receiving reports/complaints through which victims (including women victims/survivors of violence) can report violence and seek assistance via the criminal justice response.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Any person may give information to any officer of the Information.\n\nEvery person who feels himself aggrieved by any offence Amended by: and desires to lodge a complaint for the punishment of the offender, VI.1871.34; if known, or, if not known, in case he should be discovered, may III.1880.10; IX.1911.18.\n\nmake such complaint to any Police officer, even by letter.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Provided also that said agency shall, immediately after the assessment is carried out according to sub-article (1), provide sheltered accommodation to the alleged victim, according to article 19(3)(d) of the Gender-Based Violence and Domestic Violence Act, Cap.",
+      "rationale": "The framework includes an operative requirement that a designated agency provide \"sheltered accommodation\" to an alleged victim as needed, which constitutes provision for safe accommodation/residential protection for victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Provided also that said agency shall, immediately after the assessment is carried out according to sub-article (1), provide sheltered accommodation to the alleged victim, according to article 19(3)(d) of the Gender-Based Violence and Domestic Violence Act, Cap.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions on legal assistance and legal aid concern suspects/accused persons’ access to a lawyer and the Advocate for Legal Aid, and procedural rights in criminal proceedings. None of the candidate sentences establish or guarantee legal aid/legal assistance specifically for women victims/survivors of violence (or victims of violence generally) as eligible beneficiaries.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences primarily define and penalize offences (e.g., bodily harm, miscarriage-related offences) and include a court \"treatment order\" mechanism directed at the accused, not health/medical services for victims/survivors. No operative provision is shown that requires or provides medical examination, treatment, emergency care, or other health services specifically for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are largely criminal offence definitions and procedural provisions. While psychological harm is mentioned as a possible consequence (e.g., severe psychological harm; compensation for psychological harm) and certain professions (including psychologist/psychotherapist/social worker) are referenced in the context of abuse of professional trust, none of the candidate sentences establish or provide psychosocial/psychological counselling or trauma-support services for victims/survivors, nor do they create a referral mechanism for such services.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only relevant mention is a definition of “personal records” that includes records relating to “spiritual counselling or assistance given or to be given” (a confidentiality/evidence-related definition). This does not establish any religious/spiritual counselling or faith-based support service for women victims/survivors of violence, nor assign any religious actor/institution a support role.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(1) The Minister may make regulations to establish a Compensation scheme for the compensation of victims of crime under such of victims of crime.",
+      "rationale": "The framework authorises the Minister to establish, by regulations, a compensation scheme for victims of crime. A victim compensation scheme is a longer-term support measure (financial/economic support) available to victims (not limited to immediate protection), and is set out as an operative enabling provision.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Minister may make regulations to establish a Compensation scheme for the compensation of victims of crime under such of victims of crime.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(1) Together with or separately from a protection order Treatment under article 412C, and provided the court is satisfied that proper Orders.",
+      "rationale": "The text provides for a court “treatment order” requiring a person (including a convicted person, and in some cases an accused person) to submit to treatment, in connection with protection orders. This constitutes an operative perpetrator-focused intervention/treatment mechanism that can be imposed as part of the legal response to violence (including domestic violence contexts).",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Together with or separately from a protection order Treatment under article 412C, and provided the court is satisfied that proper Orders.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions define and regulate criminal procedure and offences (including domestic violence, rape, harassment, etc.) and related protective measures (e.g., risk assessment and protection orders), but none of the candidate sentences require or provide information, awareness-raising, public communication, campaigns, or education activities specifically about violence against women as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address criminal offences and aggravating circumstances (including references to gender as a motive) but do not establish any information, education, awareness-raising, communication, or similar activities about gender equality or women’s rights, nor do they link any such activities to prevention of violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the excerpts reference and define offences and procedures related to domestic violence and other forms of violence, they do not include operative provisions requiring dissemination, public legal education, or awareness-raising about laws/policies/legal protections concerning violence against women. The text is primarily substantive criminal law and procedure rather than public-information or education measures.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly identify education, educational institutions, curricula, or improving education quality as a primary prevention measure for violence against women. The only mention of education is in the context of restricting access to education as part of the offence of private violence, not as a prevention strategy.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern criminal offences and procedures (e.g., sexual offences, domestic violence proceedings, harassment, hate/incitement provisions) but do not establish any primary prevention programmes or activities that specifically engage men and boys to prevent violence against women or to change harmful gender norms/masculinities.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences establish, require, or authorise cooperation with civil society organisations/NGOs in relation to prevention of or response to violence against women. The excerpts focus on criminal procedure, offences, and protective orders, and while they reference a \"designated agency\" and training under the Gender-Based Violence and Domestic Violence Act, they do not identify NGOs/civil society or create a collaboration mechanism with them.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to \"religion or belief\" as protected grounds in hate/aggravation provisions and provisions about religious services, but they do not establish or require engagement/collaboration with religious or traditional/cultural organisations or leaders for preventing or responding to violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts do not establish or require collaboration with schools, universities, or other education institutions on violence against women. The only education-related term appears in an offence description (restricting access to education) and professional roles (e.g., educator), which does not constitute an engagement/partnership mechanism with education institutions for VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences reference international instruments/standards (e.g., ICC Treaty, Geneva Conventions) and allow regulations to give effect to arrangements for information sharing, but they do not establish cooperation with international organisations specifically concerning violence against women prevention or response. No operative VAW-specific collaboration mechanism with an international organisation is shown.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences establish, require, or authorise cooperation with media organisations/actors for preventing or responding to violence against women. The only media-adjacent reference is a definition of \"journalistic material\" held in confidence, which concerns evidentiary/confidentiality concepts rather than collaboration on VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to criminal procedure (e.g., any person may give information to police; complaints; proceedings in domestic violence/rape cases) and to offences affecting \"public order or the community in general,\" but they do not establish any mechanism for community participation, mobilisation, partnership, or collaboration in VAW prevention or response. Under the coding rules, general reporting/complaint provisions do not qualify as community engagement.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not set out any requirement or authorisation for engaging businesses/employers/private-sector actors in preventing or responding to violence against women. References to \"body corporate\" appear in the context of corporate liability/sanctions for offences (e.g., trafficking-related provisions), not as a framework for private-sector collaboration on VAW prevention, victim support, or response.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences discuss ministerial regulation-making powers, government compensation schemes, office funding, and fees, but do not mention any funding/budget source specifically from local government budgets.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(b) may provide that compensation by Government to the victim shall only be payable when the victim has exhausted all remedies available to him against the offender for the payment of damages suffered by the victim;",
+      "rationale": "The text explicitly refers to compensation being payable by the Government, indicating a national-level public funding source (government funds) for a compensation scheme.",
+      "coverage": "Referenced only",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(b) may provide that compensation by Government to the victim shall only be payable when the victim has exhausted all remedies available to him against the offender for the payment of damages suffered by the victim;",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references international law, the United Nations Charter, and EU instruments, none of the candidate sentences indicate international funding, donor support, or international assistance for women’s protection/VAW measures or related implementation support.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(3) The cost of taking any such shorthand notes, and of any transcript, where a transcript is directed to be made by the court or by the Attorney General, shall be defrayed, in accordance with scales of payment to be fixed from time to time, out of money provided by the Government.",
+      "rationale": "The text specifies that certain costs (shorthand notes/transcripts) shall be defrayed out of money provided by the Government, which constitutes an explicit funding source other than the specific categories of local/provincial budgets and is therefore captured as an 'other' legal funding source.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) The cost of taking any such shorthand notes, and of any transcript, where a transcript is directed to be made by the court or by the Attorney General, shall be defrayed, in accordance with scales of payment to be fixed from time to time, out of money provided by the Government.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention provincial government budgets or provincial-level funding sources.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 4,
+    "02_Protection_and_Justice.txt": 2,
+    "03_Institutional_mechanisms.txt": 2,
+    "04_Specialised_Support_Services.txt": 3,
+    "05_Primary_prevention.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 20,
+    "resolved": 20,
+    "rate": 1.0
+  }
+}

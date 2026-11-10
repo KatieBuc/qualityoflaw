@@ -1,0 +1,937 @@
+{
+  "policy_file": "16. Belgium - DomViol - French (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:46:42.616179+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, there is no explicit mention of domestic violence, household/family violence, or intimate partner violence, nor any equivalent term used to define, prohibit, criminalise, or provide remedies specifically for domestic violence. While some provisions address violence or aggravating circumstances involving spouses/cohabitants, they do not explicitly identify domestic violence as such within these excerpts, which is required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "nature whatsoever and by any means whatsoever, committed on a person who does not consent to it, constitutes the crime of rape.\nThere is no consent in particular when the act has been imposed by violence, coercion [ , threat, surprise] or deception, or has been made possible due to an infirmity or physical or mental deficiency of the victim.",
+      "rationale": "The excerpts include operative criminal-law provisions defining rape as non-consensual sexual penetration and specifying circumstances negating consent, which constitutes substantive legal coverage of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "nature qu'il soit et par quelque moyen que ce soit, commis sur une personne qui n'y consent pas, constitue le crime de viol.\n\nIl n'y a pas consentement notamment lorsque l'acte a été imposé par violence, contrainte [ , menace, surprise] ou ruse, ou a été rendu possible en raison d'une infirmité ou d'une déficience physique ou mentale de la victime.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Whoever has voluntarily inflicted injuries or struck blows\nshall be punished by imprisonment of eight days to six months and a fine of twenty-six [euros] to one hundred [euros], or by one of these penalties only.",
+      "rationale": "The excerpts contain operative provisions criminalising the voluntary infliction of injuries or blows and setting penalties, which substantively addresses physical violence/assault.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Quiconque aura volontairement fait des blessures ou porté des coups\n\nsera puni d'un emprisonnement de huit jours à six mois et d'une amende de vingt-six [euros] à cent [euros], ou d'une de ces peines seulement.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Whoever has harassed a person when they knew or should have known that this behavior would seriously affect the peace of mind of the person concerned, shall be punished by imprisonment of fifteen days to two years and a fine of fifty [euros] to three hundred [euros], or by one of these penalties only.",
+      "rationale": "The excerpts include an operative offence of harassment defined by conduct that seriously affects a person's peace of mind, which constitutes substantive legal coverage of psychological/emotional harm via harassment.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Quiconque aura harcelé une personne alors qu'il savait ou aurait dû savoir qu'il affecterait gravement par ce comportement la tranquillité de la personne visée, sera puni d'une peine d'emprisonnement de quinze jours à deux ans et d'une amende de cinquante [euros] à trois cents [euros], ou de l'une de ces peines seulement.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts address exploitation (e.g., trafficking-related exploitation, exploitation of begging) and neglect/deprivation of food or care, but they do not frame these as economic violence/economic abuse/domestic neglect as a form of violence against women, nor do they link such economic deprivation specifically to violence against women as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Whoever shall have practiced, facilitated or promoted any form of mutilation of the genital organs of a female person, with or without the consent of the latter, shall be punished with imprisonment from three years to five years.\n<L 2007-04-25/76, art. 2, 005; En vigueur : 25-06-2007> Any person who, by violence or threats, has forced someone to enter into marriage shall be punished by imprisonment [ of three months to five years and a fine of two hundred and fifty euros to five thousand euros] .",
+      "rationale": "The excerpts include operative criminal provisions prohibiting female genital mutilation and forced marriage, both of which are recognised harmful practices affecting women and girls under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Quiconque aura pratiqué, facilité ou favorisé toute forme de mutilation des organes génitaux d'une personne de sexe féminin, avec ou sans consentement de cette dernière, sera puni d'un emprisonnement de trois ans à cinq ans.\n\n<L 2007-04-25/76, art. 2, 005; En vigueur : 25-06-2007> Toute personne qui, par des violences ou des menaces, aura contraint quelqu'un à contracter un mariage sera punie d'un emprisonnement [ de trois mois à cinq ans et d'une amende de deux cent cinquante euros à cinq mille euros] .",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided excerpts use the terms femicide/feminicide or explicitly define gender-motivated killing of women as a distinct offence or aggravating factor. General homicide provisions and other violence provisions shown do not meet the criterion’s requirement for explicit femicide/feminicide coverage.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "1. [ The offence of trafficking in human beings is constituted by recruiting, transporting, transferring, housing, receiving a person, taking or transferring control exercised over them:\n1° for the purposes of exploiting prostitution or other forms of sexual exploitation;",
+      "rationale": "The excerpts contain an operative definition of trafficking in human beings (recruiting/transporting/etc.) and specify exploitation purposes, which is substantive legal coverage of human trafficking.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "1er. [ Constitue l'infraction de traite des êtres humains le fait de recruter, de transporter, de transférer, d'héberger, d'accueillir une personne, de prendre ou de transférer le contrôle exercé sur elle :\n\n1° à des fins d'exploitation de la prostitution ou d'autres formes d'exploitation sexuelle;",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "1° for the purposes of exploiting prostitution or other forms of sexual exploitation;",
+      "rationale": "The trafficking definition explicitly includes exploitation of prostitution or other forms of sexual exploitation as a purpose, which substantively addresses sexual exploitation within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1° à des fins d'exploitation de la prostitution ou d'autres formes d'exploitation sexuelle;",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "[ Shall be punished with imprisonment from six months to five years whoever shall have:\nwhile they were in circumstances where they could reasonably consider that their privacy would not be violated; 2° shown, made accessible or disseminated the visual or audio recording of a person who is nude or engaged in explicit sexual activity, without their consent or without their knowledge, even if that person consented to its creation.",
+      "rationale": "The excerpts include operative criminal provisions covering non-consensual recording and dissemination of nude/explicit sexual images (a technology-facilitated form of sexual abuse/violence), satisfying substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "[ Sera puni d'un emprisonnement de six mois à cinq ans quiconque aura :\n\nalors qu'elle se trouvait dans des circonstances où elle pouvait raisonnablement considérer qu'il ne serait pas porté atteinte à sa vie privée; 2° montré, rendu accessible ou diffusé l'enregistrement visuel ou audio d'une personne dénudée ou se livrant à une activité sexuelle explicite, sans son accord ou à son insu, même si cette personne a consenti à sa réalisation.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(Whoever shall have committed the crime of rape shall be punished with imprisonment from five years to ten years.) <L 2000-11-28/35, art. 8, 029; En vigueur : 27-03-2001>\nWhoever shall have practiced, facilitated or promoted any form of mutilation of the genital organs of a female person, with or without the consent of the latter, shall be punished with imprisonment from three years to five years.",
+      "rationale": "The cited provisions explicitly criminalize at least one form of violence against women (e.g., rape; female genital mutilation) and attach specific criminal sanctions (imprisonment terms), satisfying the requirement for substantive criminal penalties.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Quiconque aura commis le crime de viol sera puni de réclusion de cinq ans à dix ans.) <L 2000-11-28/35, art. 8, 029; En vigueur : 27-03-2001>\n\nQuiconque aura pratiqué, facilité ou favorisé toute forme de mutilation des organes génitaux d'une personne de sexe féminin, avec ou sans consentement de cette dernière, sera puni d'un emprisonnement de trois ans à cinq ans.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences shown concern criminal offences and penalties (e.g., rape, harassment, FGM, confidentiality exceptions, accommodation/rehousing, prohibitions/disqualifications), but do not specify a protection/restraining order mechanism with who may apply, issuing authority, duration, and consequences for breach.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences designate or mandate a specific specialised unit/desk/division within police services to handle violence against women cases; references to police appear only incidentally (e.g., transmission to police services) and not as an institutional specialised victim unit.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide definitions of offences, penalties, and some procedural/ancillary measures (e.g., seizure, publication bans), but do not establish a specialised court/chamber/judicial officer or a specialised/expedited judicial procedure specifically for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the candidate sentences define rape based on lack of consent and provide penalties, they do not expressly state that rape provisions apply within marriage/intimate partnerships, nor do they explicitly remove any spousal exemption or state that a spouse may be prosecuted for rape against their partner. The only spouse-related provision shown concerns penalty aggravation for certain offences (not rape) against a spouse/cohabitant, which does not satisfy the criterion’s requirement for explicit applicability/removal of exemption for sexual violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions are criminal law articles defining offences, penalties, confidentiality exceptions, and related procedural points. None of the candidate sentences establish or require an inter-agency/sector/jurisdiction coordination mechanism (e.g., committee, task force, referral network, coordinating body) for implementing prevention, protection, or response to violence against women.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address criminal offences/penalties and limited information-sharing/reporting in specific contexts (e.g., optional reporting to the prosecutor; consultation under authorization), but they do not establish or mandate a system/entity to collect, record, monitor, manage, exchange, or report data on violence against women cases/victims as a data function. The only explicit reporting requirement shown concerns an organization’s annual activity report to the Minister of Justice and a prohibition on constituting a database from reported images, which is not a VAW data system and is not framed as collecting/managing VAW case data.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention gender mainstreaming or establish any gender-mainstreaming mechanism (focal points, working groups, integration into planning/budgeting) for women’s protection or violence against women policies/programs. The excerpts are primarily criminal provisions and do not contain gender mainstreaming requirements.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain criminal definitions, penalties, and procedural/confidentiality provisions, but do not mandate or provide for training, technical guidance, or capacity building for officials or service providers implementing violence against women policy or services.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish any monitoring and evaluation mechanism, process, or responsible body for assessing implementation of violence against women law/policy or service delivery. No M&E language appears in the provided excerpts.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence requires allocation of budget/funding for violence against women prevention/response implementation. The excerpts focus on criminal offences, penalties, confiscation, and procedural matters, without any funding or budget provisions.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are criminal-law provisions on offenses/penalties, confidentiality exceptions, and related procedural matters. None establish, mandate, or recognize an integrated or multidisciplinary victim service mechanism (e.g., one-stop centre, coordinated service unit) for women victims/survivors of violence, nor assign an agency to coordinate multiple victim services.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences largely concern criminal offenses and penalties. While one provision allows an approved organization to receive reports about child pornography images and transmit them to authorities, this is not a mechanism for women victims/survivors of violence to report VAW or seek assistance/emergency support. Other passages (e.g., professional secrecy exceptions) do not establish a victim-facing reporting/helpline mechanism for VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "<Inséré par L 2005-08-10/61, art. 21; En vigueur : 12- 09-2005> In the cases referred to in article 433decies, the victims may be, where appropriate, accommodated or rehoused on the decision, as the case may be, of the competent minister, the competent authority or the officials designated by them, in consultation with the competent services in this matter.",
+      "rationale": "An operative provision states that victims may, where appropriate, be accommodated or rehoused by decision of competent authorities, which constitutes provision for safe accommodation/relocation as a residential protection measure for victims (even though it is framed in relation to a specific offense context).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "<Inséré par L 2005-08-10/61, art. 21; En vigueur : 12- 09-2005> Dans les cas visés à l'article 433decies, les victimes peuvent être, le cas échéant, accueillies ou relogées sur décision, selon le cas, du ministre compétent, de l'autorité compétente ou des fonctionnaires désigné par eux, et ce, en concertation avec les services compétents en la matière.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish or guarantee legal aid/assistance, legal advice, or representation for women victims/survivors of violence, nor identify victims of violence as eligible for legal aid. The excerpts focus on criminalization/penalties, confidentiality rules, and accommodation/rehousing costs, without legal assistance provisions.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences reference health professionals mainly in the context of professional secrecy and as categories of offenders/roles, and mention health consequences (e.g., illness, incapacity) as elements of offenses or aggravating circumstances. They do not create any entitlement to medical care, require medical examination/treatment, or establish health-service response protocols for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts mention psychologists and mental integrity only in contexts such as aggravating circumstances or professional roles, and do not establish counselling/psychological/trauma-support services for victims/survivors of violence or assign providers to deliver such services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include provisions on offenses relating to free exercise of worship and other criminal-law content, but do not provide any religious/spiritual counselling, pastoral care, or faith-based victim-support service for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only victim-support-like measure in the excerpts is possible accommodation/rehousing, which is immediate/temporary assistance rather than a structured longer-term recovery/rehabilitation/reintegration framework (e.g., vocational training, economic support, reintegration services). No operative provisions establish longer-term recovery or reintegration support for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide criminal penalties and other sanctions (e.g., imprisonment, fines, disqualifications, electronic monitoring conditions) but do not establish or mandate perpetrator intervention/rehabilitation/treatment/behaviour-change programmes, nor authorize referrals to such programmes as part of sentencing or probation for VAW perpetrators.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are criminal-law provisions defining offences and penalties (e.g., rape, harassment, trafficking, FGM) and related procedural/ancillary rules (e.g., publication restrictions, professional secrecy exceptions). None of the candidate sentences require or provide information, awareness-raising, communication, campaigns, or education activities specifically about violence against women as a primary prevention measure.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences concern criminal offences/penalties and aggravating circumstances (including references to sex as a protected ground), but they do not establish any information, education, awareness-raising, or communication activities about gender equality or women’s rights, nor do they link any such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the excerpts set out various offences and penalties relevant to violence (including some gendered offences like FGM), they do not include operative provisions mandating dissemination, public legal education, or awareness-raising about laws/policies/legal protections concerning violence against women. The publication-related provisions shown concern protecting victim identity, not educating the public about VAW laws.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only education-related references in the candidate sentences relate to offences committed against educational staff or prohibitions on offenders participating in teaching, but these are punitive/ancillary measures and are not framed as education-based prevention of violence against women, nor do they address curricula, educational content, or education institutions as VAW-prevention mechanisms.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences provide for programmes, campaigns, education, or other primary prevention activities that specifically engage men and boys to prevent violence against women or to change harmful gender norms/masculinities. The excerpts are primarily criminal prohibitions and penalty provisions.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are criminal-code provisions on offences and penalties (e.g., trafficking, rape, harassment, confidentiality exceptions) and do not establish, require, or authorise cooperation/partnership with civil society organisations or NGOs for prevention of or response to violence against women, nor do they create any formal mechanism for NGO participation.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts mention religion/culture/tradition only as contextual descriptors (e.g., “acts of violence perpetrated in the name of culture, custom, religion, tradition or so-called 'honor'”) and include offences relating to worship, but they do not establish or require engagement/collaboration with religious or traditional leaders/organisations in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences referencing educational establishments concern aggravated penalties for violence against school staff or prohibitions on convicted persons participating in teaching; they do not establish or require collaboration with education institutions for VAW prevention/response, nor assign schools/universities roles in VAW programmes, awareness, referral, or policy implementation.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references international law and includes a provision about membership in an international association of internet hotlines (in the context of child pornography reporting), it does not establish cooperation with international organisations specifically for preventing or responding to violence against women, nor create a VAW-related international collaboration mechanism.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts regulate publication/dissemination (e.g., prohibiting revealing victim identity) and mention press/radio/television as means of publication, but they do not establish or require engagement/collaboration with media actors for VAW prevention, awareness-raising, or coordinated response; they are restrictions rather than partnership mechanisms.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are primarily criminal offences/penalties and procedural/confidentiality provisions. They do not establish community participation, community mobilisation, or public engagement mechanisms for preventing or responding to violence against women, and the coding rules specify not to infer engagement merely from general legal obligations.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts do not establish or require cooperation with businesses/employers/private-sector actors for VAW prevention or response. References to employers appear only in the context of transmitting parts of judicial decisions for offenders in contact with minors, not as a VAW-related partnership or prevention/support mechanism involving the private sector.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention funding or budget sources from local governments/municipal budgets for policy implementation. References to mayors/local police or local consultation structures are about governance/administration, not budget sources.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss criminal offences, fines, and that fines are collected for the benefit of the State, but they do not describe national government budget allocations or budget sources for implementing women’s protection/VAW measures (or any policy program).",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text references international conventions (Geneva Conventions) and the Statute/Charter context (International Criminal Court; United Nations in defining war crimes), it does not indicate any international funding, donor support, international assistance, or international organizational participation for women’s protection/VAW measures or policy implementation.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to financial assistance, donations/loans, confiscation, and fines, but these are in the context of criminal offences and penalties (e.g., terrorist financing, foreign donations for propaganda, confiscation procedures), not as funding/budget sources for implementing a policy or VAW measures. No alternative funding source (e.g., earmarked funds, levies, trust funds) is specified as a policy budget source.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only mention of provinces concerns securities issued by provinces/municipalities in a counterfeiting offence provision, not provincial budget funding for implementation. No provincial government budget source is identified.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 9,
+    "resolved": 9,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,996 @@
+{
+  "policy_file": "133. Peru - DomViol - Spanish.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:48:02.122014+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "This Law has the object to prevent, eradicate and punish all forms of violence occurring in the public or private sphere against women on the basis of their status as such, and against members of the family group; especially when they are in a situation of vulnerability, due to age or physical condition such as girls, boys, adolescents, older adults and persons with disabilities.\nAmong the protection measures that may be ordered in proceedings for acts of violence against women and members of the family group are the following:",
+      "rationale": "The operative provisions explicitly cover violence occurring within the family group (i.e., domestic/family context) and establish legal mechanisms such as protection measures in proceedings for violence against women and members of the family group, which substantively addresses domestic/family violence rather than merely referencing it.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "La presente Ley tiene por objeto prevenir, erradicar y sancionar toda forma de violencia producida en el ámbito público o privado contra las mujeres por su condición de tales, y contra los integrantes del grupo familiar; en especial, cuando se encuentran en situación de vulnerabilidad, por la edad o situación física como las niñas, niños, adolescentes, personas adultas mayores y personas con discapacidad.\n\nEntre las medidas de protección que pueden dictarse en los procesos por actos de violencia contra las mujeres y los integrantes del grupo familiar se encuentran las siguientes:",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "c) Sexual violence.\nThese are actions of a sexual nature that are committed against a person without their consent or under coercion.",
+      "rationale": "The policy includes sexual violence as an explicit type/category of violence and provides an operative definition describing actions of a sexual nature committed without consent or under coercion, which constitutes substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "c ) Violencia sexual.\n\nSon acciones de naturaleza sexual que se cometen contra una persona sin su consentimiento o bajo coacción.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "a) Physical violence.\nIt is the action or conduct that causes damage to bodily integrity or health.",
+      "rationale": "The policy explicitly lists physical violence as a covered type of violence and defines it in operative text as conduct causing damage to bodily integrity or health, meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "L os tipos de violencia contra las mujeres y los integrantes del grupo familiar son: a ) Violencia física.\n\nEs la acción o conducta, que causa daño a la integridad corporal o a la salud.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "b) Psychological violence.\nIt is the action or conduct, tending to control or isolate the person against their will, to humiliate or shame them and that may cause psychological harm.",
+      "rationale": "The policy explicitly includes psychological violence as a type of violence and defines it in operative provisions (control/isolation/humiliation causing psychological harm), satisfying substantive coverage requirements.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "b ) Violencia psicológica.\n\nEs la acción o conducta, tendiente a controlar o aislar a la persona contra su voluntad, a humillarla o avergonzarla y que puede ocasionar daños psíquicos.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "d) Economic or patrimonial violence.\nIt is the action or omission that is directed to cause a detriment in the economic or patrimonial resources of any person, through:\n3. the limitation of economic resources intended to satisfy their needs or deprivation of the indispensable means to live a dignified life; as well as the evasion of compliance with their maintenance obligations;",
+      "rationale": "The policy explicitly recognizes economic or patrimonial violence as a type of violence and defines it in operative text, including deprivation/limitation of economic resources and evasion of maintenance obligations as forms of such violence, which is substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "d ) Violencia económica o patrimonial.\n\nEs la acción u omisión que se dirige a ocasionar un menoscabo en los recursos económicos o patrimoniales de cualquier persona, a través de:\n\n3 . la limitación de los recursos económicos destinados a satisfacer sus necesidades o privación de los medios indispensables para vivir una vida digna; así como la evasión del cumplimiento de sus obligaciones alimentarias;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided candidate sentences mention or regulate specific harmful practices such as child/early marriage, FGM/C, honour crimes, or female infanticide. The text addresses violence against women and family members generally (including vulnerability due to age) and sets out protection measures and institutional mechanisms, but without any explicit harmful-practice nexus required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "Yes",
+      "evidence": "In cases of intimate partner violence, the National Police of Peru and the Public Prosecutor's Office apply the risk assessment form for women victims of intimate partner violence as a measure to prevent femicide.\nLikewise, in cases of feminicide or attempted feminicide, it takes into account the indirect victims of the crime.",
+      "rationale": "The framework explicitly addresses feminicide/femicide through operative prevention and risk-assessment measures (risk assessment form as a measure to prevent femicide) and includes procedural provisions that specifically reference feminicide/attempted feminicide in the criteria for protection measures (consideration of indirect victims). This goes beyond a mere mention and constitutes substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "E n casos de violencia de pareja, la Policía Nacional del Perú y el Ministerio Público aplican la ficha de valoración del riesgo en mujeres víctimas de violencia de pareja como medida de prevención del feminicidio.\n\nAsimismo, en casos de feminicidio o tentativa de feminicidio, toma en cuenta a las víctimas indirectas del delito.",
+      "evidence_original_aligned": true
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "That which takes place in the community, is perpetrated by any person and includes, among others, rape, sexual abuse, torture, trafficking in persons, forced prostitution, kidnapping and sexual harassment in the workplace, as well as in educational institutions, health establishments or any other place.",
+      "rationale": "The operative definition of violence against women explicitly includes “trafficking in persons” as a form of community violence. This is an operative inclusion of trafficking within the framework’s definition/classification of violence, meeting the substantive threshold even though it does not further define or criminalize trafficking in the provided excerpts.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "La que tenga lugar en la comunidad, sea perpetrada por cualquier persona y comprende, entre otros, violación, abuso sexual, tortura, trata de personas, prostitución forzada, secuestro y acoso sexual en el lugar de trabajo, así como en instituciones educativas, establecimientos de salud o cualquier otro lugar.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "That which takes place in the community, is perpetrated by any person and includes, among others, rape, sexual abuse, torture, trafficking in persons, forced prostitution, kidnapping and sexual harassment in the workplace, as well as in educational institutions, health establishments or any other place.",
+      "rationale": "The operative definition of violence against women includes “forced prostitution,” which is a clear sexual-exploitation nexus (prostitution obtained through force/coercion). This satisfies the criterion’s requirement for a specific sexual exploitation/slavery-related concept in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "La que tenga lugar en la comunidad, sea perpetrada por cualquier persona y comprende, entre otros, violación, abuso sexual, tortura, trata de personas, prostitución forzada, secuestro y acoso sexual en el lugar de trabajo, así como en instituciones educativas, establecimientos de salud o cualquier otro lugar.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions mention prohibiting communication via electronic means, chat, social networks, intranet or other networks as a protection measure, but they do not recognize or define any technology-facilitated form of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) as a distinct prohibited conduct or category of violence. Under the coding rules, restricting electronic communications as a protective measure is insufficient to count as substantive coverage of technology-facilitated violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "In the cases provided for in the first part of article 121, a custodial sentence of not less than six nor more than twelve years is imposed when the victim:\n1. Is a woman and is injured because of her condition as such in any of the contexts provided for in the first paragraph of article 108-B.",
+      "rationale": "The cited provisions specify a custodial sentence (imprisonment) for serious injuries when the victim is a woman injured because of her status as such, establishing a criminal penalty attached to violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "En los casos previstos en la primera parte del artículo 121 se aplica pena privativa de libertad no menor de seis ni mayor de doce años cuando la víctima:\n\n1. Es mujer y es lesionada por su condición de tal en cualquiera de los contextos previstos en el primer párrafo del artículo 108-B.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "I n the maximum period of seventy-two hours following the filing of the complaint, the family court or its equivalent proceeds to evaluate the case and resolves in oral hearing the issuance of the required protection measures that are necessary.\nThe protection and precautionary measures issued by the family court remain in force as long as the victim's risk conditions persist, regardless of the resolution that ends the investigation, or the criminal or misdemeanor proceedings.\nIn cases of non-compliance with protection or precautionary measures, it notifies the Public Prosecutor's Office so that it may investigate for the commission of the crime referred to in article 24.\"(*)",
+      "rationale": "The framework provides a process and issuing authority (family court) for protection measures, specifies duration/validity (in force as long as risk conditions persist), and provides a defined consequence for non-compliance by referring breach to investigation for a crime.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "E n el plazo máximo de setenta y dos horas, siguientes a la interposición de la denuncia, el juzgado de familia o su equivalente procede a evaluar el caso y resuelve en audiencia oral la emisión de las medidas de protección requeridas que sean necesarias.\n\nLas medidas de protección y cautelares dictadas por el juzgado de familia se mantienen vigentes en tanto persistan las condiciones de riesgo de la víctima, con prescindencia de la resolución que pone fin a la investigación, o al proceso penal o de faltas.\n\nEn los casos de incumplimiento de las medidas de protección o cautelares, pone en conocimiento del Ministerio Público para que investigue por la comisión del delito a que se refiere el artículo 24.”(*)",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "Yes",
+      "evidence": "b) Promote in the National Police of Peru the creation of Family and Violence against Women and Family Group sections that are responsible for receiving and investigating all complaints of misdemeanors and crimes that arise within the framework of this law in police stations nationwide.",
+      "rationale": "The framework mandates/promotes creation of specific police sections focused on family and violence against women and the family group, with responsibility for receiving and investigating complaints, which constitutes a designated specialised unit within police services.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Promover en la Policía Nacional del Perú la creación de secciones de Familia y Violencia contra las Mujeres y Grupo Familiar que sean las responsables de recibir e investigar todas las denuncias de faltas y delitos que se presenten en el marco de la presente ley en las comisarías a nivel nacional.",
+      "evidence_original_aligned": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "Special Process",
+      "rationale": "The framework establishes a specific \"special process\" for violence against women and members of the family group, which is a specialised judicial procedure for these cases.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Proceso Especial",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define sexual violence and mention rape among forms of violence, but none expressly criminalise rape within marriage/intimate partnerships or explicitly remove any spousal exemption from criminal liability for sexual offences, as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "The High-Level Multisectoral Commission is hereby established for the purpose of directing the National System for the Prevention, Punishment and Eradication of Violence against Women and Members of the Family Group and formulating the guidelines and evaluation of the provisions established in this regulation.\nThe National System for the Prevention, Punishment and Eradication of Violence against Women and Members of the Family Group is composed of the entities that make up the high-level multisectoral commission, which has a technical secretariat, and the regional, provincial and district coordination bodies to eradicate violence against women and members of the family group.",
+      "rationale": "The text establishes a formal multisectoral coordination mechanism (a High-Level Multisectoral Commission) to direct the national system, and defines the National System as coordinating articulated and integrated actions across the state, which meets the requirement for an institutional coordination mechanism across agencies/sectors/jurisdictions.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Constitúyase la Comisión Multisectorial de Alto Nivel con la finalidad de dirigir el Sistema Nacional para la Prevención, Sanción y Erradicación de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar y formular los lineamientos y la evaluación de lo establecido en la presente norma.\n\nIntegran el Sistema Nacional para la Prevención, Sanción y Erradicación de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar las entidades que integran la comisión multisectorial de alto nivel, que cuenta con una secretaría técnica, y las instancias regionales, provinciales y distritales de concertación para erradicar la violencia contra las mujeres y los integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "For the purpose of implementing an intersectoral system for registering cases of violence against women and members of the family group, called the Single Registry of Victims and Aggressors, the Public Prosecutor's Office, in coordination with the National Police of Peru, the Judiciary and the Ministry of Women and Vulnerable Populations, is responsible for the registration of such cases, in which all data of the victim and the aggressor, the classification, the causes and consequences of the violence, the existence of prior complaints and other necessary data are recorded.\nThe National Observatory on Violence against Women and Members of the Family Group, under the Ministry of Women and Vulnerable Populations, has the objective of monitoring, collecting, producing and systematizing data and information by following up on public policies and international commitments assumed by the State in this matter.",
+      "rationale": "The framework establishes an intersectoral registry system (Single Registry of Victims and Aggressors) and assigns responsibility for registering cases, and also creates an Observatory tasked with monitoring and collecting/systematizing data and information on violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "C on el objeto de implementar un sistema intersectorial de registro de casos de violencia contra las mujeres y los integrantes del grupo familiar, denominado Registro Único de Víctimas y Agresores, el Ministerio Público, en coordinación con la Policía Nacional del Perú, el Poder Judicial y el Ministerio de la Mujer y Poblaciones Vulnerables, es el responsable del registro de dichos casos, en el que se consignan todos las datos de la víctima y del agresor, la tipificación, las causas y consecuencias de la violencia, la existencia de denuncias anteriores y otros datos necesarios.\n\nEl Observatorio Nacional de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar, a cargo del Ministerio de la Mujer y Poblaciones Vulnerables, tiene por objeto monitorear, recolectar, producir y sistematizar datos e información haciendo seguimiento a las políticas públicas y los compromisos internacionales asumidos por el Estado en esta materia.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference a 'gender approach' and require incorporating gender and other approaches in actions (e.g., by the Center for Advanced Studies), but they do not explicitly establish or require 'gender mainstreaming' as an institutional mechanism (e.g., mainstreaming process, focal points, or mainstreaming in planning/budgeting) as defined by the coding rules.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "The sectors and institutions involved, and the regional and local governments, in addition to adopting mechanisms for permanent training, qualification and specialization, in accordance with their organic laws and other applicable regulations, are responsible for:(*)\nc) Develop awareness and continuous training programs for health personnel in order to improve and promote adequate care for victims of violence referred to in the law.\nAll proceedings before the Judicial Branch regarding violence against women and members of the family group are free for victims; and ensure permanent and specialized training of judges on issues of violence against women and members of the family group.",
+      "rationale": "The framework explicitly provides for training/capacity building for implementing personnel: it states that sectors and institutions are responsible for adopting mechanisms for permanent training/qualification/specialization, and specifies continuous training programs for health personnel and permanent specialized training of judges on violence against women and family group violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "L os sectores e instituciones involucradas, y los gobiernos regionales y locales, además de adoptar mecanismos de formación, capacitación y especialización permanente, de conformidad con sus leyes orgánicas y demás normas aplicables, son responsables de:(*)\n\nj) Hacer efectivo el cumplimiento de la prohibición de tenencia y porte de armas ordenadas a través de medidas de protección, respecto de su personal civil y policial. \" 5. El Ministerio de Justicia y Derechos Humanos a) Sistematizar y difundir el ordenamiento jurídico del Estado en materia de lucha para erradicar la violencia contra las mujeres y los integrantes del grupo familiar.\n\nTodas las actuaciones ante el Poder Judicial en materia de violencia contra las mujeres y los integrantes del grupo familiar son gratuitas para las víctimas; y asegura la capacitación permanente y especializada de los jueces y juezas en temas de violencia contra las mujeres y los integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "5. Coordinate, supervise and monitor and evaluate the execution of adaptation plans and programs to the Law.\nThe provincial coordination body is responsible for developing, implementing, monitoring and evaluating public policies responsible for combating violence against women and members of the family group at the provincial level, and promoting compliance with this regulation.\nThe Presidency of the Council of Ministers, within the framework of \"November 25, International Day for the Elimination of Violence against Women\", presents a report regarding progress in compliance with Law 30364, Law to Prevent, Punish and Eradicate Violence against Women and Members of the Family Group, with special emphasis on the implementation of the National System provided for in said regulation.",
+      "rationale": "The framework establishes monitoring and evaluation functions and reporting requirements: the Special Commission is empowered to monitor and evaluate execution of adaptation plans and programs; provincial coordination bodies are responsible for developing/implementing/monitoring/evaluating relevant public policies; and there is a reporting requirement for a progress report on compliance with the law and implementation of the National System.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Concordar, supervisar y efectuar un seguimiento y evaluación de la ejecución de los planes y programas de adecuación a la Ley.\n\nLa instancia provincial de concertación tiene como responsabilidad elaborar, implementar, monitorear y evaluar las políticas públicas encargadas de combatir la violencia contra las mujeres y los integrantes del grupo familiar a nivel provincial, y promover el cumplimiento de la presente norma.\n\nLa Presidencia del Consejo de Ministros, en el marco del “25 de noviembre, Día Internacional de la Eliminación de la Violencia contra la Mujer”, presenta un informe respecto al avance en el cumplimiento de la Ley 30364, Ley para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres y los Integrantes del Grupo Familiar, con especial énfasis en la implementación del Sistema Nacional previsto en dicha norma.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "Allocate the necessary resources for compliance with this Law.",
+      "rationale": "The framework includes an operative provision directing the Ministry of Economy and Finance to allocate the necessary resources for compliance with the law, which constitutes a requirement to allocate funding for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "Asignar los recursos necesarios para el cumplimiento de la presente Ley.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "The National System for the Prevention, Punishment and Eradication of Violence against Women and Members of the Family Group is hereby created, in order to coordinate, plan, organize and execute articulated, integrated and complementary actions for State action in the prevention, care, protection and reparation of the victim, the punishment and reeducation of the aggressor, for the purpose of achieving the eradication of violence against women and members of the family group.",
+      "rationale": "The framework explicitly creates a National System whose purpose is to coordinate and execute articulated, integrated and complementary actions across prevention, care, protection and reparation for victims, which constitutes an operative, designated integrated service/coordination mechanism for violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Créase el Sistema Nacional para la Prevención, Sanción y Erradicación de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar, a fin de coordinar, planificar, organizar y ejecutar acciones articuladas, integradas y complementarias para la acción del Estado en la prevención, atención, protección y reparación de la víctima, la sanción y reeducación del agresor, a efectos de lograr la erradicación de la violencia contra las mujeres y los integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "The complaint may be filed in writing or verbally, before the National Police of Peru, the criminal or family prosecutor's offices, and the family courts.",
+      "rationale": "The framework provides an operative complaint/reporting mechanism by specifying that complaints may be filed before designated authorities (police, prosecutors, and family courts), thereby establishing a formal channel through which victims can report violence and seek assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "La denuncia puede presentarse por escrito o verbalmente, ante la Policía Nacional del Perú, las fiscalías penales o de familia y los juzgados de familia.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "The creation and management of temporary shelter homes, programs directed at men to prevent violent conduct and other protection services in favor of victims of violence against women and members of the family group shall be the responsibility of local and regional governments and the Ministry of Women and Vulnerable Populations.",
+      "rationale": "The framework provides for residential protection by assigning responsibility for the creation and management of temporary shelter homes for victims of violence against women and members of the family group.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "La creación y gestión de los hogares de refugio temporal, programas dirigidos a varones para prevenir conductas violentas y otros servicios de protección a favor de las víctimas de violencia contra la mujer e integrantes del grupo familiar estarán a cargo de los gobiernos locales, regionales y del Ministerio de la Mujer y Poblaciones Vulnerables.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "The State must provide legal assistance, immediately, free of charge, specialized and in their own language, to all victims of violence, and must provide them with public defense services to guarantee the effective exercise of their rights.",
+      "rationale": "The framework contains an operative entitlement/duty requiring the State to provide legal assistance and public defense services to victims of violence, which covers legal aid for women victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Estado debe brindar asistencia jurídica, en forma inmediata, gratuita, especializada y en su propia lengua, a todas las víctimas de violencia, debiendo proporcionarles los servicios de defensa pública para garantizar el efectivo ejercicio de sus derechos.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "T he promotion, prevention, care and comprehensive recovery of the physical and mental health of victims of violence against women and family group members is free of charge at any State health facility and includes medical care; diagnostic aid examinations (laboratory, imaging and others); hospitalization, medications, psychological and psychiatric treatment; and any other activity necessary or required for the restoration of their health.\nT he Ministry of Health is responsible for the free provision of health services for the comprehensive recovery of the physical and mental health of victims.",
+      "rationale": "The cited provisions explicitly require free health services for victims of violence against women and family group members, including medical care and comprehensive recovery, and assign responsibility to the Ministry of Health for providing these services. This is an operative, service-provision obligation linked directly to victims/survivors of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "L a promoción, prevención, atención y recuperación integral de la salud física y mental de las víctimas de violencia contra las mujeres y los integrantes del grupo familiar es gratuita en cualquier establecimiento de salud del Estado e incluye la atención médica; exámenes de ayuda diagnóstica (laboratorio, imagenología y otros); hospitalización, medicamentos, tratamiento psicológico y psiquiátrico; y cualquier otra actividad necesaria o requerida para el restablecimiento de su salud.\n\nE l Ministerio de Salud tiene a su cargo la provisión gratuita de servicios de salud para la recuperación integral de la salud física y mental de las víctimas.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "T he promotion, prevention, care and comprehensive recovery of the physical and mental health of victims of violence against women and family group members is free of charge at any State health facility and includes medical care; diagnostic aid examinations (laboratory, imaging and others); hospitalization, medications, psychological and psychiatric treatment; and any other activity necessary or required for the restoration of their health.\n10. Psychological treatment for the emotional recovery of the victim.",
+      "rationale": "The framework expressly includes psychological and psychiatric treatment as part of free health care for victims of violence, and also lists psychological treatment for the emotional recovery of the victim as a protection measure. These are operative provisions providing psychological/trauma-support services to victims/survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "L a promoción, prevención, atención y recuperación integral de la salud física y mental de las víctimas de violencia contra las mujeres y los integrantes del grupo familiar es gratuita en cualquier establecimiento de salud del Estado e incluye la atención médica; exámenes de ayuda diagnóstica (laboratorio, imagenología y otros); hospitalización, medicamentos, tratamiento psicológico y psiquiátrico; y cualquier otra actividad necesaria o requerida para el restablecimiento de su salud.\n\n10. Tratamiento psicológico para la recuperación emocional de la víctima.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in victim support. References to health, legal, social care, and other services do not establish any religious/spiritual support service.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "a) Prioritize, within the framework of programs, strategies and action plans for employment promotion and employability, attention to victims of violence for their incorporation into the labor market as employees or through the development of productive self-employment and other forms of entrepreneurship.\nIt is the State's obligation to formulate specific measures to favor the permanence of victims in the educational field and, if applicable, favor their reinsertion therein.",
+      "rationale": "The framework provides longer-term recovery/reintegration supports by prioritizing victims of violence for employment promotion/employability measures and by obligating the State to formulate measures to favor victims’ permanence in education and, where applicable, their reinsertion. These are operative provisions linked specifically to victims of violence and aimed at longer-term recovery and reintegration.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "h) Incorporar en las guías dirigidas a la población escolar, contenidas sobre prevención del acoso y abuso sexual en niñas y niños. i) Implementar estrategias creativas y de impacto sobre lucha contra la violencia contra las mujeres y los integrantes del grupo familiar, en espacios educativos no formales como los mercados, espacios de esparcimiento, terminales de buses, salas de espera de instituciones públicas y privadas entre otras. 3. El Ministerio de Salud a) Promover y fortalecer programas para la promoción, protección, recuperación y rehabilitación de la salud, contribuyendo a lograr el bienestar y desarrollo de la persona, en condiciones de plena accesibilidad y respeto de los derechos fundamentales, de conformidad con las políticas sectoriales.\n\nEs obligación del Estado la formulación de medidas específicas para favorecer la permanencia de las víctimas en el ámbito educativo y, de ser el caso, favorecer su reinserción en el mismo.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "In proceedings for crimes related to acts of violence against women and members of the family group, the judge may impose on the aggressor psychosocial, psychiatric or self-help group treatment specialized in violence through attendance at therapies on violence against women and members of the family group, using the various programs developed by family protection institutions.\nThose sentenced to effective deprivation of liberty for crimes related to violence against women and members of the family group, following evaluation, must undergo multidisciplinary and differentiated reeducation treatment, taking into account the approaches set forth in this Law in order to facilitate their social reintegration.",
+      "rationale": "The framework provides perpetrator-focused intervention and treatment: courts may impose psychosocial/psychiatric/self-help group treatment specialized in violence for aggressors, and imprisoned offenders must undergo multidisciplinary and differentiated reeducation treatment. These are operative provisions establishing perpetrator programmes.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "En los procesos por delitos vinculados a actos de violencia contra las mujeres y los integrantes del grupo familiar, el juez puede imponer al agresor tratamiento psicosocial, psiquiátrico o de grupos de autoayuda especializados en violencia a través de la asistencia a terapias sobre violencia contra las mujeres y los integrantes del grupo familiar, utilizando los diversos programas que desarrollan las instituciones de protección a la familia.\n\nEl condenado a pena privativa de libertad efectiva por delitos vinculados a la violencia contra las mujeres y los integrantes del grupo familiar, previa evaluación, debe seguir un tratamiento de reeducación de carácter multidisciplinario y diferenciado, teniendo en cuenta los enfoques consignados en esta Ley a fin de facilitar su reinserción social.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "e) Promote awareness campaigns on the problem of violence against women and members of the family group and dissemination of the scope of this Law.\nPublic and private broadcasting services allow the use of the educational band of 10% of their programming so that, during family protection hours, public institutions articulated in the National System for the Prevention, Punishment and Eradication of Violence against Women and Members of the Family Group develop content related to awareness, prevention, care, protection, punishment and re-education for the eradication of violence against women and members of the family group.",
+      "rationale": "The text includes operative provisions requiring awareness campaigns on violence against women and allowing educational broadcast programming to develop content related to awareness and prevention for eradicating violence against women, which constitutes information/education activities explicitly directed at VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) Promover campañas de difusión sobre la problemática de la violencia contra las mujeres y los integrantes del grupo familiar y de difusión de los alcances de la presente Ley.\n\nLos servicios de radiodifusión públicos y privados permiten el uso de la franja educativa del 10% de su programación para que, en el horario de protección familiar, las instituciones públicas articuladas en el Sistema Nacional para la Prevención, Sanción y Erradicación de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar desarrollen contenidos vinculados a la sensibilización, prevención, atención, protección, sanción y reeducación para la erradicación de la violencia contra las mujeres y los integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references promoting equality between men and women and eliminating sexist stereotypes in educational materials, the candidate sentences do not clearly establish information/education or awareness activities specifically about gender equality or women’s rights as a prevention strategy for violence against women (they are framed as education-sector responsibilities and equality promotion, not explicitly as VAW-prevention education about gender equality/women’s rights).",
+      "coverage": null,
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "e) Promote awareness campaigns on the problem of violence against women and members of the family group and dissemination of the scope of this Law.",
+      "rationale": "The text includes an operative provision to promote dissemination of the scope of the law alongside awareness campaigns on violence against women, which constitutes dissemination of VAW-related legal provisions/policy framework.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) Promover campañas de difusión sobre la problemática de la violencia contra las mujeres y los integrantes del grupo familiar y de difusión de los alcances de la presente Ley.",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "e) Implement in educational institutions of Regular Basic Education (EBR) and\nf) Implement capacity building programs in initial and ongoing teacher training on topics related to the fight to eradicate violence against women and members of the family group, incorporating in guides, modules and teacher training programs, topics such as types of violence, gender socialization and violence, identification of risk factors related to violence and mechanisms for strengthening support networks for prevention.",
+      "rationale": "The text assigns the Ministry of Education responsibilities to implement curricular content and teacher training on living free from violence and on eradicating violence against women and family members, explicitly linking educational institutions/curricula/training to prevention/eradication of VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) Implementar en las instituciones educativas de la Educación Básica Regular (EBR) y la\n\nf) Implementar programas de fortalecimiento de capacidades en la formación inicial y permanente del profesorado en las temáticas de lucha para erradicar la violencia contra las mujeres y los integrantes del grupo familiar, incorporando en las guías, módulos y programas de capacitación de docentes, y tópicos como tipos de violencia, socialización de género y violencia, identificación de factores de riesgo relacionados con la violencia y mecanismos de fortalecimiento de redes de apoyo para la prevención.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "Yes",
+      "evidence": "d) Implement prevention services against violence against women and members of the family group, through actions of social and economic empowerment of victims of violence and preventive programs, reflection groups directed at men to promote egalitarian relationships free from violence.\nThe creation and management of temporary shelter homes, programs directed at men to prevent violent conduct and other protection services in favor of victims of violence against women and members of the family group shall be the responsibility of local and regional governments and the Ministry of Women and Vulnerable Populations.",
+      "rationale": "The text explicitly provides for reflection groups directed at men to promote egalitarian relationships free from violence and for programs directed at men to prevent violent conduct, which are primary prevention activities engaging men to prevent violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) Promover campañas de difusión sobre la problemática de la violencia contra las mujeres y los integrantes del grupo familiar y de difusión de los alcances de la presente Ley. f) Promover el estudio e investigación sobre las causas de la violencia contra las mujeres y los integrantes del grupo familiar y tomar medidas para su corrección. g) Promover la participación activa de organizaciones dedicadas a la protección de los derechos de las mujeres, niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad, entre otras, y del sector privado, con especial énfasis en el sector empresarial, en programas de prevención, atención y recuperación de la violencia contra las mujeres e integrantes del grupo familiar. h) Disponer las medidas necesarias a fin de implementar acciones de prevención y atención de las víctimas de violencia en las zonas rurales del país y respecto de las víctimas en mayor situación de vulnerabilidad.\n\nLa creación y gestión de los hogares de refugio temporal, programas dirigidos a varones para prevenir conductas violentas y otros servicios de protección a favor de las víctimas de violencia contra la mujer e integrantes del grupo familiar estarán a cargo de los gobiernos locales, regionales y del Ministerio de la Mujer y Poblaciones Vulnerables.",
+      "evidence_original_aligned": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The General Directorate against Gender Violence of the aforementioned ministry is constituted as the technical secretariat of the Commission, which convenes specialists from different sectors and representatives of civil society for the purpose of establishing a national working group.\ng) Promote the active participation of organizations dedicated to the protection of the rights of women, girls, boys and adolescents, older adults and persons with disabilities, among others, and the private sector, with special emphasis on the business sector, in programs for prevention, care and recovery from violence against women and members of the family group.",
+      "rationale": "The cited operative provisions explicitly provide for involvement of civil society in the national system: the technical secretariat convenes representatives of civil society to establish a national working group, and the Ministry is tasked with promoting the active participation of organizations dedicated to protection of rights in prevention, care, and recovery programs related to violence against women and family group members.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "La Dirección General contra la Violencia de Género del citado ministerio se constituye como secretaría técnica de la Comisión, la cual convoca a especialistas de diferentes sectores y representantes de la sociedad civil con la finalidad de constituir un grupo de trabajo nacional.\n\ng) Promover la participación activa de organizaciones dedicadas a la protección de los derechos de las mujeres, niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad, entre otras, y del sector privado, con especial énfasis en el sector empresarial, en programas de prevención, atención y recuperación de la violencia contra las mujeres e integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "In populated centers where there is no police station, the justice of the peace courts coordinate the execution of protection measures and sanctions imposed with the authorities of the peasant communities, native communities or peasant patrols.",
+      "rationale": "The framework provides for coordination with authorities of peasant communities, native communities or peasant patrols in executing protection measures and sanctions in VAW cases, which constitutes an operative collaboration mechanism with traditional/community authorities in the response to violence against women and family group members.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "En los centros poblados donde no exista comisaría, los juzgados de paz coordinan la ejecución de las medidas de protección y las sanciones impuestas con las autoridades de las comunidades campesinas, comunidades nativas o rondas campesinas.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "The Center for Advanced Studies has close coordination with the Judicial Academy, the School of the Public Prosecutor's Office, the Center for Judicial Research of the Judiciary, the Center for Constitutional Studies of the Constitutional Court, the Center for Studies in Justice and Human Rights of the Ministry of Justice and Human Rights, universities and research centers to influence the prioritization of training and research activities on violence against women and members of the family group.",
+      "rationale": "The law establishes that the Center for Advanced Studies has close coordination with universities and research centers to influence prioritization of training and research activities on violence against women and members of the family group, which is an operative collaboration mechanism with education institutions in VAW-related capacity building and research.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Centro de Altos Estudios tiene estrecha coordinación con la Academia de la Magistratura, la Escuela del Ministerio Público, el Centro de Investigaciones Judiciales del Poder Judicial, el Centro de Estudios Constitucionales del Tribunal Constitucional, el Centro de Estudios en Justicia y Derechos Humanos del Ministerio de Justicia y Derechos Humanos, universidades y centros de investigación para incidir en que se prioricen actividades de capacitación e investigación sobre la violencia contra las mujeres e integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference international commitments (e.g., the Observatory follows up on international commitments) but do not establish or require cooperation/collaboration with any international organisation, nor do they set out a mechanism for joint work, technical assistance, or partnership with international bodies on VAW.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "Public and private broadcasting services allow the use of the educational band of 10% of their programming so that, during family protection hours, public institutions articulated in the National System for the Prevention, Punishment and Eradication of Violence against Women and Members of the Family Group develop content related to awareness, prevention, care, protection, punishment and re-education for the eradication of violence against women and members of the family group.",
+      "rationale": "The cited provision assigns a specific role to public and private broadcasting services by requiring them to allocate programming time so that public institutions within the national VAW system can develop and air content on awareness, prevention, care, protection, punishment, and re-education related to violence against women. This constitutes an operative mechanism for collaboration with media actors in VAW prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los servicios de radiodifusión públicos y privados permiten el uso de la franja educativa del 10% de su programación para que, en el horario de protección familiar, las instituciones públicas articuladas en el Sistema Nacional para la Prevención, Sanción y Erradicación de la Violencia contra las Mujeres y los Integrantes del Grupo Familiar desarrollen contenidos vinculados a la sensibilización, prevención, atención, protección, sanción y reeducación para la erradicación de la violencia contra las mujeres y los integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "g) Promote the active participation of organizations dedicated to the protection of the rights of women, girls, boys and adolescents, older adults and persons with disabilities, among others, and the private sector, with special emphasis on the business sector, in programs for prevention, care and recovery from violence against women and members of the family group.\nThe National Police of Peru applies the risk assessment form and, while protection measures are issued and executed, in cases of severe risk prioritizes integrated patrolling in the vicinity of the victim's or their relatives' home, in coordination with the municipal security service and neighborhood organizations; and other actions within the framework of its competencies.",
+      "rationale": "The framework explicitly promotes active participation of relevant organizations (including civil-society organizations) in prevention, care, and recovery programs related to violence against women. It also provides for coordination with municipal security services and neighborhood organizations in police protection actions, which is a concrete collaboration mechanism involving community actors in response to VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "g) Promover la participación activa de organizaciones dedicadas a la protección de los derechos de las mujeres, niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad, entre otras, y del sector privado, con especial énfasis en el sector empresarial, en programas de prevención, atención y recuperación de la violencia contra las mujeres e integrantes del grupo familiar.\n\nLa Policía Nacional del Perú aplica la ficha de valoración de riesgo y, en tanto se dicten y ejecuten las medidas de protección, en los casos de riesgo severo prioriza el patrullaje integrado en las inmediaciones del domicilio de la víctima o de sus familiares, en coordinación con el serenazgo y las organizaciones vecinales; y otras acciones en el marco de sus competencias.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "g) Promote the active participation of organizations dedicated to the protection of the rights of women, girls, boys and adolescents, older adults and persons with disabilities, among others, and the private sector, with special emphasis on the business sector, in programs for prevention, care and recovery from violence against women and members of the family group.",
+      "rationale": "The framework expressly calls for promoting the active participation of the private sector, with special emphasis on the business sector, in programs for prevention, care, and recovery from violence against women and members of the family group. This is an operative provision establishing private-sector engagement in VAW-related programming.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "g) Promover la participación activa de organizaciones dedicadas a la protección de los derechos de las mujeres, niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad, entre otras, y del sector privado, con especial énfasis en el sector empresarial, en programas de prevención, atención y recuperación de la violencia contra las mujeres e integrantes del grupo familiar.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited passages describe responsibilities of regional/local governments and mention national-level institutions (e.g., Ministry of Economy and Finance) allocating resources, but they do not explicitly identify local government budgets as a funding/budget source.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "Allocate the necessary resources for compliance with this Law.",
+      "rationale": "The policy explicitly assigns the Ministry of Economy and Finance responsibility to allocate necessary resources for compliance with the law, indicating national government budget resourcing.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Asignar los recursos necesarios para el cumplimiento de la presente Ley.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference domestic institutions and budgets and mention “international commitments” only in the context of monitoring, without any explicit international assistance, donor funding, or international organizational support for implementation.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text discusses institutional budgets, resource allocation, and legal/regulatory references, but it does not identify any distinct “other legal sources” of funding (e.g., earmarked funds, fines, levies, dedicated trust funds, or other non-budget legal revenue sources).",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While provincial governments and provincial coordination bodies are mentioned, the passages do not explicitly cite provincial government budgets as a funding/budget source.",
+      "coverage": null,
+      "confidence": 0.76,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.76
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 36,
+    "resolved": 36,
+    "rate": 1.0
+  }
+}

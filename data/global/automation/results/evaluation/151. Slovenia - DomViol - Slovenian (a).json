@@ -1,0 +1,967 @@
+{
+  "policy_file": "151. Slovenia - DomViol - Slovenian (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:20:48.084674+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(1) Domestic violence (hereinafter: violence) is prohibited.\n(2) Violence is any use of physical, sexual, psychological or economic violence by one family member (hereinafter: perpetrator of violence) against another family member (hereinafter: victim) or neglect or stalking of the victim regardless of age, sex or any other personal circumstance of the victim or perpetrator of violence, and corporal punishment of children.",
+      "rationale": "The candidate sentences explicitly prohibit domestic violence and define it (including covered forms and family-member context) in operative provisions, satisfying the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Nasilje v družini (v nadaljnjem besedilu: nasilje) je prepovedano.\n\n(2) Nasilje je vsaka uporaba fizičnega, spolnega, psihičnega ali ekonomskega nasilja enega družinskega člana (v nadaljnjem besedilu: povzročitelj nasilja) proti drugemu družinskemu članu (v nadaljnjem besedilu: žrtev) oziroma zanemarjanje ali zalezovanje žrtve ne glede na starost, spol ali katerokoli drugo osebno okoliščino žrtve ali povzročitelja nasilja, in telesno kaznovanje otrok.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(2) Violence is any use of physical, sexual, psychological or economic violence by one family member (hereinafter: perpetrator of violence) against another family member (hereinafter: victim) or neglect or stalking of the victim regardless of age, sex or any other personal circumstance of the victim or perpetrator of violence, and corporal punishment of children.\n(4) Sexual violence is conduct with sexual content to which the victim does not consent, is forced into or does not understand the meaning thereof due to their stage of development, threats to use sexual violence, and public disclosure of sexual content about the victim.",
+      "rationale": "Sexual violence is explicitly included as a form of violence within an operative definition of violence and is itself defined, which constitutes substantive coverage under the rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Nasilje je vsaka uporaba fizičnega, spolnega, psihičnega ali ekonomskega nasilja enega družinskega člana (v nadaljnjem besedilu: povzročitelj nasilja) proti drugemu družinskemu članu (v nadaljnjem besedilu: žrtev) oziroma zanemarjanje ali zalezovanje žrtve ne glede na starost, spol ali katerokoli drugo osebno okoliščino žrtve ali povzročitelja nasilja, in telesno kaznovanje otrok.\n\n(4) Spolno nasilje so ravnanja s spolno vsebino, v katera žrtev ne privoli, je vanje prisiljena ali zaradi svoje stopnje razvoja ne razume njihovega pomena, grožnje z uporabo spolnega nasilja, ter javna objava spolnih vsebin o žrtvi.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(2) Violence is any use of physical, sexual, psychological or economic violence by one family member (hereinafter: perpetrator of violence) against another family member (hereinafter: victim) or neglect or stalking of the victim regardless of age, sex or any other personal circumstance of the victim or perpetrator of violence, and corporal punishment of children.\n(3) Physical violence is any use of physical force or threat of the use of physical force which compels the victim to do or omit or suffer something or restricts their movement or communication and causes them pain, fear or humiliation, regardless of whether bodily injuries have occurred.",
+      "rationale": "Physical violence is explicitly included as a covered form of violence and is defined in operative provisions, meeting the substantive criteria.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Nasilje je vsaka uporaba fizičnega, spolnega, psihičnega ali ekonomskega nasilja enega družinskega člana (v nadaljnjem besedilu: povzročitelj nasilja) proti drugemu družinskemu članu (v nadaljnjem besedilu: žrtev) oziroma zanemarjanje ali zalezovanje žrtve ne glede na starost, spol ali katerokoli drugo osebno okoliščino žrtve ali povzročitelja nasilja, in telesno kaznovanje otrok.\n\n(3) Fizično nasilje je vsaka uporaba fizične sile ali grožnja z uporabo fizične sile, ki žrtev prisili, da kaj stori ali opusti ali da kaj trpi ali ji omejuje gibanje oziroma komuniciranje in ji povzroči bolečino, strah ali ponižanje, ne glede na to, ali so nastale telesne poškodbe.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(2) Violence is any use of physical, sexual, psychological or economic violence by one family member (hereinafter: perpetrator of violence) against another family member (hereinafter: victim) or neglect or stalking of the victim regardless of age, sex or any other personal circumstance of the victim or perpetrator of violence, and corporal punishment of children.\n(5) Psychological violence is conduct and dissemination of information by which the perpetrator of violence causes fear, humiliation, a sense of inferiority, endangerment and other mental distress to the victim, even if committed through the use of information and communication technology.",
+      "rationale": "Psychological violence is explicitly included in the operative definition of violence and is defined in an operative provision, which is substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Nasilje je vsaka uporaba fizičnega, spolnega, psihičnega ali ekonomskega nasilja enega družinskega člana (v nadaljnjem besedilu: povzročitelj nasilja) proti drugemu družinskemu članu (v nadaljnjem besedilu: žrtev) oziroma zanemarjanje ali zalezovanje žrtve ne glede na starost, spol ali katerokoli drugo osebno okoliščino žrtve ali povzročitelja nasilja, in telesno kaznovanje otrok.\n\n(5) Psihično nasilje so ravnanja in razširjanje informacij, s katerimi povzročitelj nasilja pri žrtvi povzroči strah, ponižanje, občutek manjvrednosti, ogroženosti in druge duševne stiske, tudi če so storjena z uporabo informacijsko komunikacijske tehnologije.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(2) Violence is any use of physical, sexual, psychological or economic violence by one family member (hereinafter: perpetrator of violence) against another family member (hereinafter: victim) or neglect or stalking of the victim regardless of age, sex or any other personal circumstance of the victim or perpetrator of violence, and corporal punishment of children.\n(6) Economic violence is unjustified control or restriction of the victim in disposing of income or managing property which the victim independently disposes of or manages, or unjustified restriction of disposal or management of the common property of family members, unjustified non-fulfilment of financial or property obligations towards a family member or unjustified transfer of financial or property obligations to a family member.\n(7) Neglect is a form of violence when the perpetrator of violence omits due care for the victim who needs it due to illness, disability, age, developmental or other personal circumstances.",
+      "rationale": "The operative definition of violence explicitly includes economic violence and neglect, and economic violence is defined in detail, satisfying the substantive coding rules for economic violence/exploitation/neglect as a form of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Nasilje je vsaka uporaba fizičnega, spolnega, psihičnega ali ekonomskega nasilja enega družinskega člana (v nadaljnjem besedilu: povzročitelj nasilja) proti drugemu družinskemu članu (v nadaljnjem besedilu: žrtev) oziroma zanemarjanje ali zalezovanje žrtve ne glede na starost, spol ali katerokoli drugo osebno okoliščino žrtve ali povzročitelja nasilja, in telesno kaznovanje otrok.\n\n(6) Ekonomsko nasilje je neupravičeno nadzorovanje ali omejevanje žrtve pri razpolaganju z dohodki oziroma upravljanju s premoženjem, s katerim žrtev samostojno razpolaga oziroma upravlja ali neupravičeno omejevanje razpolaganja oziroma upravljanja s skupnim premoženjem družinskih članov, neupravičeno neizpolnjevanje finančnih oziroma premoženjskih obveznosti do družinskega člana ali neupravičeno prelaganje finančnih oziroma premoženjskih obveznosti na družinskega člana.\n\n(7) Zanemarjanje je oblika nasilja, kadar povzročitelj nasilja opušča dolžno skrb za žrtev, ki jo potrebuje zaradi bolezni, invalidnosti, starosti, razvojnih ali drugih osebnih okoliščin.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative provisions specifically addressing such practices.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss domestic violence generally and related measures, but do not mention femicide/feminicide or gender-motivated killing of women, nor any equivalent term or specific prevention/monitoring mechanism for femicide.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of human trafficking/trafficking in persons or trafficking victims; they address domestic violence and related protective measures only.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence and sexual abuse are mentioned, none of the candidate sentences refer to sexual exploitation, sexual slavery, prostitution obtained through coercion, or exploitation for sexual purposes as required by the indicator.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "(5) Psychological violence is conduct and dissemination of information by which the perpetrator of violence causes fear, humiliation, a sense of inferiority, endangerment and other mental distress to the victim, even if committed through the use of information and communication technology.",
+      "rationale": "The operative definition of psychological violence explicitly includes conduct committed through the use of information and communication technology, which recognizes a technology-facilitated modality of violence within the legal definition.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) Psihično nasilje so ravnanja in razširjanje informacij, s katerimi povzročitelj nasilja pri žrtvi povzroči strah, ponižanje, občutek manjvrednosti, ogroženosti in druge duševne stiske, tudi če so storjena z uporabo informacijsko komunikacijske tehnologije.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions define domestic violence and list protective/court measures and monetary penalties for non-compliance with court decisions, but they do not define any form of violence against women as a criminal offence with a specified criminal sanction (e.g., imprisonment or criminal fine), nor do they even generally state that such violence is punishable by law. References to “prosecution, trial and enforcement of sanctions” appear in a training context and do not establish criminal penalties in operative provisions.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "(1) The court may, to a perpetrator of violence who has physically injured the victim, or caused damage to their health, or otherwise unlawfully interfered with their dignity or other personality rights, in particular:\nprohibit entering the residence in which the victim lives;\n(3) Unless this Act provides otherwise, the court shall impose a measure from the first paragraph of this Article for a maximum of 12 months.\n(1) The procedure under this law commences at the victim's request.\nIn the decision by which the court pronounces a measure under this law, it shall also pronounce a monetary penalty in the event that the perpetrator of violence does not act in accordance with the court's decision or violates the obligation from the fifth paragraph of Article 21 or the obligation from the fifth paragraph of Article 22 of this law.",
+      "rationale": "The framework provides court-imposed measures that function as protection/restraining orders (e.g., prohibiting entry/approach/contact), specifies the issuing authority (the court), provides a duration (maximum 12 months, extendable), specifies who may apply/commence the procedure (victim request), and provides a defined consequence for breach/non-compliance (a monetary penalty pronounced in the decision).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Sodišče lahko povzročitelju nasilja, ki je žrtev telesno poškodoval, ali ji je prizadejal škodo na zdravju, ali je drugače protipravno posegel v njeno dostojanstvo ali druge osebnostne pravice, zlasti:\n\nprepove vstopiti v stanovanje, v katerem živi žrtev;\n\n(3) Če ta zakon ne določa drugače, sodišče izreče ukrep iz prvega odstavka tega člena za največ 12 mesecev.\n\n(1) Postopek po tem zakonu se začne na predlog žrtve.\n\nV sklepu, s katerim sodišče izreče ukrep po tem zakonu, izreče tudi denarno kazen za primer, če povzročitelj nasilja ne bo ravnal v skladu s sklepom sodišča ali bo kršil dolžnost iz petega odstavka 21. člena ali dolžnost iz petega odstavka 22. člena tega zakona.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police duties to protect victims’ safety and broader coordination/training obligations, but they do not designate or mandate any specific specialised unit, desk, or division within police services for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "(2) The district court has subject-matter jurisdiction for procedures under this law.\n(4) Procedures under this law are urgent and have priority.\n(5) In procedures under this law, when the court decides after a hearing has been held, it shall issue a decision within eight days.",
+      "rationale": "The framework establishes a specific judicial procedure for measures under the law by designating the competent court (district court) and providing an expedited/priority procedure (urgent, priority; decision within eight days after a hearing). This constitutes a specialised/expedited judicial procedure for violence-related protection measures.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Za postopek po tem zakonu je stvarno pristojno okrožno sodišče.\n\n(4) Postopki po tem zakonu so nujni in prednostni.\n\n(5) V postopkih po tem zakonu sodišče, kadar odloči po opravljenem naroku, izda odločbo v osmih dneh.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text defines “sexual violence” as a form of domestic violence and includes spouses/partners as family members, but it does not expressly criminalise marital rape, state that rape/sexual-offence provisions apply regardless of marital status, or remove any spousal exemption from criminal liability for sexual violence. Under the coding rules, general references to sexual violence within domestic violence are insufficient.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(1) A service for coordination and assistance to victims is established at the Social Work Center for the purpose of providing assistance to victims of violence, implementing the intervention service, connecting the activities of authorities and organizations, and monitoring and analyzing the phenomena of domestic violence.\n(5) A multidisciplinary team shall be established at a social work centre for dealing with domestic violence.\nThe Social Work Center invites other authorities and organizations to participate in the team that are or will be dealing with the victim or the perpetrator of violence within the scope of their activities, as well as non-governmental organizations.",
+      "rationale": "The text establishes formal coordination mechanisms: a dedicated coordination service at the Social Work Center tasked with connecting activities of authorities/organizations, and a multidisciplinary team at the social work centre with mandatory participation and invitations to other authorities/NGOs—together constituting an institutional multi-agency coordination structure for violence cases.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Pri centru za socialno delo se z namenom zagotavljanja pomoči žrtvam nasilja, izvajanja interventne službe, povezovanja dejavnosti organov in organizacij ter spremljanja in analiziranja pojavov nasilja v družini oblikuje služba za koordinacijo in pomoč žrtvam.\n\n(5) Pri centru za socialno delo se za obravnavanje nasilja v družini ustanovi multidisciplinarni tim.\n\nCenter za socialno delo pozove k sodelovanju v timu tudi druge organe in organizacije, ki so ali bodo v okviru področja svojega delovanja obravnavali žrtev oziroma povzročitelja nasilja ter nevladne organizacije.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "For the purposes of assistance to the victim, treatment of the perpetrator of violence, preparation of the victim assistance plan, its implementation and monitoring, for scientific research purposes and for statistical purposes, social work centres process personal data and maintain data collections of persons they have treated as victims and as perpetrators of violence under this Act.\n(1) Data on the victim and the perpetrator of violence and data on the type of treatment of violence shall be entered, for the purposes specified in Article 30 of this Act, in existing data collections determined by the law governing social welfare.\n(2) Social work centres, when performing tasks under this Act, obtain free of charge the data they need for the purposes referred to in Article 30 of this Act and for the purposes of data collection under the law governing social welfare, from existing data collections of the following controllers:",
+      "rationale": "The framework assigns social work centres responsibility to process personal data and maintain data collections of victims and perpetrators, requires entry of victim/perpetrator and treatment data into existing data collections, and specifies how social work centres obtain needed data from multiple official controllers—together establishing mandated collection/management of case-related data.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Za potrebe pomoči žrtvi, obravnavanja povzročitelja nasilja, izdelave načrta pomoči žrtvi, njegovega izvajanja in spremljanja, za znanstveno-raziskovalne namene in za statistične namene centri za socialno delo obdelujejo osebne podatke in vodijo zbirke podatkov oseb, ki so jih obravnavali kot žrtve in kot povzročitelje nasilja po tem zakonu.\n\n(1) Podatke o žrtvi in povzročitelju nasilja ter podatke o vrsti obravnave nasilja, se za namene, določene v 30. členu tega zakona, vnese v obstoječe zbirke podatkov, ki jih določa zakon, ki ureja socialno varstvo.\n\n(2) Centri za socialno delo pri izvajanju nalog na podlagi tega zakona brezplačno pridobivajo podatke, ki jih potrebujejo za namene iz 30. člena tega zakona in za namene zbiranja podatkov po zakonu, ki ureja socialno varstvo, iz obstoječih zbirk podatkov naslednjih upravljavcev:",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions education on equality between women and men, it does not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal point, or mainstreaming working group) for implementing violence against women policies/programs.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(4) Professional workers in authorities and organizations who, within the framework of the rules and procedures from the previous paragraph, perform tasks in the field of violence, shall, within the framework of continuing education, further training and qualification, undergo mandatory regular education, in particular on the prevention and detection of violent acts, prosecution, trial and enforcement of sanctions for these violent acts, on equality between women and men, on the needs and rights of victims and the prevention of secondary victimization, to the extent determined by the ministers from the previous paragraph.\n(5) Responsible persons in authorities and organizations and non-governmental organizations shall ensure training for all professional workers who encounter victims or perpetrators of violence in the course of their work.\n(6) Judges and state prosecutors who encounter victims or perpetrators of violence in their work shall, within the framework of continuing education, further training and qualification, undergo mandatory regular education in the areas from the fourth paragraph of this Article.",
+      "rationale": "The framework mandates regular education/training for professional workers dealing with violence, requires responsible persons to ensure training for workers encountering victims/perpetrators, and mandates regular education for judges and state prosecutors—clearly providing for capacity building of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Strokovni delavci v organih in organizacijah, ki v okviru pravil in postopkov iz prejšnjega odstavka opravljajo naloge na področju nasilja, se v okviru stalnega izobraževanja, izpopolnjevanja in usposabljanja obvezno redno izobražujejo zlasti o preprečevanju in odkrivanju nasilnih dejanj, pregonu, sojenju in izvrševanju sankcij za ta nasilna dejanja, o enakosti med ženskami in moškimi, o potrebah in pravicah žrtev ter preprečevanju sekundarne viktimizacije v obsegu, ki ga določijo ministri iz prejšnjega odstavka.\n\n(5) Odgovorne osebe v organih in organizacijah ter nevladne organizacije zagotovijo usposabljanje vseh strokovnih delavcev, ki se v okviru svojega dela srečujejo z žrtvami oziroma povzročitelji nasilja.\n\n(6) Sodniki in državni tožilci, ki se pri svojem delu srečujejo z žrtvami oziroma povzročitelji nasilja, se v okviru stalnega izobraževanja, izpopolnjevanja in usposabljanja obvezno redno izobražujejo s področij iz četrtega odstavka tega člena.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Government shall report to the National Assembly every two years on the implementation of the national programme.\n(1) A service for coordination and assistance to victims is established at the Social Work Center for the purpose of providing assistance to victims of violence, implementing the intervention service, connecting the activities of authorities and organizations, and monitoring and analyzing the phenomena of domestic violence.",
+      "rationale": "The framework creates a reporting requirement for the Government to report every two years to the National Assembly on implementation of the national programme, and establishes a coordination service tasked with monitoring and analyzing domestic violence phenomena—together constituting a monitoring mechanism tied to implementation and analysis.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Vlada vsaki dve leti poroča državnemu zboru o izvajanju nacionalnega programa.\n\n(1) Pri centru za socialno delo se z namenom zagotavljanja pomoči žrtvam nasilja, izvajanja interventne službe, povezovanja dejavnosti organov in organizacij ter spremljanja in analiziranja pojavov nasilja v družini oblikuje služba za koordinacijo in pomoč žrtvam.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "Funds from the budget of the Republic of Slovenia are provided for:",
+      "rationale": "The text provides that funds from the budget of the Republic of Slovenia are provided for specified violence-prevention related purposes (including implementing tasks from the national program and related monitoring/training/program implementation), which functions as an operative funding allocation provision from the national budget.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "Iz proračuna Republike Slovenije se zagotavljajo sredstva za:",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(1) A service for coordination and assistance to victims is established at the Social Work Center for the purpose of providing assistance to victims of violence, implementing the intervention service, connecting the activities of authorities and organizations, and monitoring and analyzing the phenomena of domestic violence.\n(2) The service for coordination and assistance to victims includes the intervention service and crisis centers.",
+      "rationale": "The text establishes a dedicated \"service for coordination and assistance to victims\" at the Social Work Center, with functions including providing assistance to victims and connecting activities of authorities and organizations, and specifies that this service includes intervention services and crisis centers—together constituting an integrated/coordination mechanism for victim support.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Pri centru za socialno delo se z namenom zagotavljanja pomoči žrtvam nasilja, izvajanja interventne službe, povezovanja dejavnosti organov in organizacij ter spremljanja in analiziranja pojavov nasilja v družini oblikuje služba za koordinacijo in pomoč žrtvam.\n\n(2) Služba za koordinacijo in pomoč žrtvam vključuje interventno službo in krizne centre.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(1) Authorities and organisations and non-governmental organisations which, in the course of their work, learn of circumstances on the basis of which it is possible to conclude that violence is being perpetrated, are obliged to immediately notify the social work centre thereof, except in the case where the victim expressly objects to this and there is no suspicion of the commission of a criminal offence prosecuted ex officio.\n(2) Everyone, especially professional workers in the health sector and staff of pre-school, educational institutions and social welfare institutions, and providers of content for children in sports and cultural associations, regardless of the provisions on the protection of professional secrecy, shall immediately notify the social work centre, the police or the state prosecutor's office when they suspect that the victim of violence is a child or a person who is unable to care for themselves due to personal circumstances.",
+      "rationale": "The framework creates an operative reporting mechanism by requiring authorities/NGOs and, in specified cases, everyone to immediately notify the social work centre (and for certain victims also the police or state prosecutor's office) when violence is suspected, thereby establishing designated institutions for receiving reports and triggering assistance/protection processes.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Organi in organizacije ter nevladne organizacije, ki pri svojem delu izvedo za okoliščine, na podlagi katerih je mogoče sklepati, da se izvaja nasilje, so dolžni o tem takoj obvestiti center za socialno delo, razen v primeru, če žrtev temu izrecno nasprotuje in ne gre za sum storitve kaznivega dejanja, ki se preganja po uradni dolžnosti.\n\n(2) Vsakdo, zlasti pa strokovni delavci oziroma delavke v zdravstvu ter osebje vzgojno-varstvenih, vzgojno-izobraževalnih zavodov in socialnih zavodov, ter izvajalci vsebin za otroke v športnih in kulturnih združenjih, ne glede na določbe o varovanju poklicne skrivnosti takoj obvesti center za socialno delo, policijo ali državno tožilstvo, kadar sumi, da je žrtev nasilja otrok ali oseba, ki zaradi osebnih okoliščin ni sposobna skrbeti zase.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(2) The service for coordination and assistance to victims includes the intervention service and crisis centers.",
+      "rationale": "The framework provides for accommodation-based protection by specifying that the victim coordination/assistance service includes \"crisis centers,\" which are a form of crisis accommodation/safe residential protection for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Služba za koordinacijo in pomoč žrtvam vključuje interventno službo in krizne centre.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Unless otherwise provided in this Act, the law governing free legal aid shall apply to free legal aid for victims of violence.\nFree legal aid under this Act shall be granted for proceedings conducted due to measures pursuant to Articles 19, 20, 21 and 22 of this Act and for proceedings under the law governing family relations, if this is, in the opinion of the social work centre, urgently necessary.",
+      "rationale": "The text explicitly links victims of violence to the free legal aid system and further specifies that free legal aid under the Act is granted for proceedings related to protective measures and certain family-law proceedings, establishing an operative legal aid entitlement/arrangement for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Kolikor ni v tem zakonu drugače določeno, se za brezplačno pravno pomoč žrtvi nasilja uporablja zakon, ki ureja brezplačno pravno pomoč.\n\nBrezplačna pravna pomoč se po tem zakonu odobri za postopke, ki tečejo zaradi ukrepov po 19., 20., 21. in 22. členu tega zakona in za postopke po zakonu, ki ureja družinska razmerja, če je to po mnenju centra za socialno delo nujno potrebno.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While health organizations are mentioned in relation to coordinated operation and training, and health programs appear in the context of perpetrator referrals, the candidate sentences do not establish or require medical examination/treatment or other health services specifically for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(1) Non-governmental organizations in the field of treatment and protection against violence, within the framework of their programs, provide protection and psychosocial assistance to victims, organize programs for teaching perpetrators of violence about non-violent behavior in interpersonal relationships with the aim of preventing further violence and changing violent behavioral patterns, and cooperate with authorities and organizations from various fields, such as: police, state prosecutor's office, court, social work center, health organizations, educational institutions.\n(4) The companion assists the victim in protecting their integrity in procedures before authorities and organizations, assists in finding solutions and provides psychological support to the victim.",
+      "rationale": "The framework provides psychosocial/psychological support to victims through operative provisions stating that NGOs provide psychosocial assistance to victims and that a victim’s companion may provide psychological support to the victim, indicating availability of psychosocial/psychological support services within the response system.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Nevladne organizacije s področja obravnave in zaščite proti nasilju v okviru svojih programov nudijo zaščito in psihosocialno pomoč žrtvam, organizirajo programe za učenje povzročiteljev nasilja o nenasilnem vedenju v medosebnih odnosih z namenom preprečevanja nadaljnjega nasilja in spreminjanja nasilnih vedenjskih vzorcev ter sodelujejo z organi in organizacijami z različnih področij, kot so: policija, državno tožilstvo, sodišče, center za socialno delo, zdravstvene organizacije, vzgojno-izobraževalni zavodi.\n\n(4) Spremljevalec pomaga žrtvi pri zaščiti njene integritete v postopkih pred organi in organizacijami, pomaga pri iskanju rešitev in nudi žrtvi psihično oporo.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "The assistance plan is developed if long-term action is required to establish a safe environment for the victim or if several assistance measures are required and in other cases if it assesses that this is necessary.\n(1) A social work centre shall provide services to victims and perpetrators of violence pursuant to the law governing social welfare, with the aim of treatment being the elimination of immediate danger and concern for the victim's long-term safety, by eliminating the causes or circumstances in which violence occurs, through resolving their social and material living conditions.",
+      "rationale": "The framework provides for longer-term support via a victim assistance plan developed when long-term action or multiple assistance measures are required to establish a safe environment, and it assigns social work centres a role in addressing victims’ longer-term safety by resolving social and material living conditions—supporting recovery/reintegration beyond immediate emergency response.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "Načrt pomoči oblikuje, če je za vzpostavitev varnega okolja žrtve potrebno dlje časa trajajoče ukrepanje oziroma je potrebnih več ukrepov pomoči in v drugih primerih, če oceni, da je to potrebno.\n\n(1) Center za socialno delo nudi žrtvi in povzročitelju nasilja storitve po zakonu, ki ureja socialno varstvo, pri čemer je cilj obravnavanja odprava neposredne ogroženosti in skrb za žrtvino dolgoročno varnost, z odpravo vzrokov oziroma okoliščin, v katerih prihaja do nasilja, prek reševanja njenih socialnih in materialnih pogojev bivanja.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(4) A social work centre may refer a perpetrator of violence to appropriate social welfare, educational, psychosocial or health programmes implemented by authorities and organizations and non-governmental organizations.\n(1) Non-governmental organizations in the field of treatment and protection against violence, within the framework of their programs, provide protection and psychosocial assistance to victims, organize programs for teaching perpetrators of violence about non-violent behavior in interpersonal relationships with the aim of preventing further violence and changing violent behavioral patterns, and cooperate with authorities and organizations from various fields, such as: police, state prosecutor's office, court, social work center, health organizations, educational institutions.\n(1) If the court imposes a measure from the previous Article, it may refer the perpetrator of violence to appropriate social welfare, educational, psychosocial and health programs implemented by authorities and organizations and non-governmental organizations.",
+      "rationale": "The framework authorises referral of perpetrators to psychosocial/health/educational programmes, provides that NGOs organize programmes to teach perpetrators non-violent behavior aimed at preventing further violence and changing patterns, and allows courts to refer perpetrators to such programmes when imposing measures—together establishing perpetrator-focused intervention/behaviour-change programming.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Center za socialno delo lahko napoti povzročitelja nasilja v ustrezne socialnovarstvene, izobraževalne, psihosocialne ali zdravstvene programe, ki jih izvajajo organi in organizacije ter nevladne organizacije.\n\n(1) Nevladne organizacije s področja obravnave in zaščite proti nasilju v okviru svojih programov nudijo zaščito in psihosocialno pomoč žrtvam, organizirajo programe za učenje povzročiteljev nasilja o nenasilnem vedenju v medosebnih odnosih z namenom preprečevanja nadaljnjega nasilja in spreminjanja nasilnih vedenjskih vzorcev ter sodelujejo z organi in organizacijami z različnih področij, kot so: policija, državno tožilstvo, sodišče, center za socialno delo, zdravstvene organizacije, vzgojno-izobraževalni zavodi.\n\n(1) Če sodišče izreče ukrep iz prejšnjega člena, lahko povzročitelja nasilja napoti v ustrezne socialnovarstvene, izobraževalne, psihosocialne in zdravstvene programe, ki jih izvajajo organi in organizacije ter nevladne organizacije.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(1) The National Assembly, on the proposal of the Government, shall adopt a resolution on the national programme for the prevention of domestic violence and violence against women (hereinafter: national programme) for a period of six years.",
+      "rationale": "The candidate sentences establish an operative requirement to adopt a national programme specifically for the prevention of domestic violence and violence against women, which is framed as a prevention measure and is expected to include preventive activities. This satisfies the criterion’s requirement that the framework explicitly provide for prevention activities directed at violence against women (even if the specific modalities like public campaigns are not detailed in the retrieved sentences).",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Državni zbor na predlog vlade sprejme resolucijo o nacionalnem programu preprečevanja nasilja v družini in nasilja nad ženskami (v nadaljnjem besedilu: nacionalni program) za obdobje šestih let.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text requires mandatory regular education for professional workers that includes “equality between women and men,” the retrieved sentences do not explicitly frame education about gender equality or women’s rights as a primary prevention activity for violence against women, nor do they require public/community awareness-raising about gender equality linked to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences include obligations to provide victims with information about available support services and legal remedies, but they do not establish dissemination/education/awareness activities about laws and policies concerning violence against women as a primary prevention strategy aimed at the public or communities. The provisions shown are oriented to victim support after/when violence occurs rather than prevention through legal-awareness campaigns or education about VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to education and training of professional workers and mention educational institutions in coordination/notification contexts, but they do not explicitly identify schools, curricula, educational content, or improvements in the quality of education as a primary prevention measure for violence against women. The education referenced is professional training rather than formal education-based prevention in educational institutions.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences mention work with perpetrators and programmes teaching perpetrators non-violent behavior, but they do not explicitly provide primary prevention activities that engage men and boys (as men/boys) to prevent violence against women, nor do they address masculinities or gender-norm change among men/boys as a prevention measure.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The Social Work Center invites other authorities and organizations to participate in the team that are or will be dealing with the victim or the perpetrator of violence within the scope of their activities, as well as non-governmental organizations.\n(2) Non-governmental organizations cooperate with authorities and organizations in dealing with individual cases of victims and perpetrators of violence.",
+      "rationale": "The cited operative provisions explicitly require inclusion of non-governmental organizations in multidisciplinary victim assistance planning and state that NGOs cooperate with authorities and organizations in dealing with individual cases of victims and perpetrators of violence, establishing formal collaboration in response to violence (including violence against women as covered by the Act).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Center za socialno delo pozove k sodelovanju v timu tudi druge organe in organizacije, ki so ali bodo v okviru področja svojega delovanja obravnavali žrtev oziroma povzročitelja nasilja ter nevladne organizacije.\n\n(2) Nevladne organizacije sodelujejo z organi in organizacijami pri obravnavanju posameznih primerov žrtev in povzročiteljev nasilja.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the framework discusses authorities, organizations, NGOs, and some sectors (e.g., educational institutions, sports/cultural associations) but does not mention religious organizations/leaders or traditional/cultural leaders as partners or participants in preventing or responding to violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "(3) Ministers responsible for the operation of the police, health organizations, social welfare and educational institutions shall determine, in agreement with the minister responsible for the family, rules and procedures that ensure coordinated operation of authorities and organizations, and which authorities and organizations from the specified areas must observe when dealing with cases of violence.",
+      "rationale": "The operative provision assigns ministers responsible for educational institutions (among others) to determine rules and procedures ensuring coordinated operation of authorities and organizations when dealing with cases of violence, which establishes formal engagement of the education sector/institutions in the response framework.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Ministri, pristojni za delovanje policije, zdravstvenih organizacij, socialnovarstvenih in vzgojno-izobraževalnih zavodov, določijo v soglasju z ministrom pristojnim za družino, pravila in postopke, ki zagotavljajo usklajeno delovanje organov in organizacij, in ki jih morajo organi in organizacije z navedenih področij upoštevati pri obravnavanju primerov nasilja.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference in the candidate sentences is to partial transposition of an EU Directive, which is an international/regional legal instrument reference but does not establish any operative cooperation mechanism with an international organization for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no operative provisions identifying media organizations/actors as partners or establishing collaboration with media for awareness-raising, prevention campaigns, or other VAW-related activities.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes a general duty for everyone to report suspected violence against certain victims, the coding rules specify not to infer community engagement merely from reporting duties, and there are no other provisions establishing community participation, mobilisation, or collaboration mechanisms for VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only mention related to the private sector is as a data controller category (“employers”) for data collection purposes, which does not establish or require employer/business engagement in preventing or responding to violence against women.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention funding from the budget of the Republic of Slovenia (national level) and discuss roles of local self-government bodies, but do not specify any funding source from local government budgets.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "Funds from the budget of the Republic of Slovenia are provided for:",
+      "rationale": "The policy explicitly states that funds from the budget of the Republic of Slovenia are provided for multiple violence-prevention and response purposes, which constitutes national government budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Iz proračuna Republike Slovenije se zagotavljajo sredstva za:",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international reference shown is to an EU Directive as partial transposition, which is a legal/standards reference and does not indicate international funding, donor support, assistance, partnerships, or international organizational involvement in implementation.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences identify funding from the national budget and discuss free legal aid and other laws applying, but they do not specify any additional non-budget funding sources (e.g., earmarked funds, fees, private sector, dedicated funds, or other explicit legal funding sources) as a budget/funding source category.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences specify funding from the budget of the Republic of Slovenia and do not mention any provincial/regional government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 24,
+    "resolved": 24,
+    "rate": 1.0
+  }
+}

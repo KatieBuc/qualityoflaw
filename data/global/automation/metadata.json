@@ -3,7 +3,7 @@
   "status": "completed",
   "timestamps": {
     "created_at": "2026-10-27T05:24:05.771857+00:00",
-    "updated_at": "2026-11-02T03:42:33.045623+00:00"
+    "updated_at": "2026-11-07T15:35:56.256476+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -54,7 +54,13 @@
     "steps_executed": [
       "extract",
       "txt_to_md",
-      "translation_md"
+      "translation_md",
+      "md_to_text",
+      "storage",
+      "evaluation",
+      "quality_check",
+      "human_review",
+      "validate"
     ],
     "small_scale": false,
     "evaluated_policy_files": []
@@ -62,29 +68,69 @@
   "file_counts": {
     "extract": {
       "total": 228,
-      "succeeded": 1,
+      "succeeded": 0,
       "updated": 0,
       "edited_kept": 0,
-      "skipped": 227,
+      "skipped": 228,
       "failed": 0,
       "unsupported": 0
     },
     "txt_to_md": {
-      "total": 174,
-      "succeeded": 0,
+      "total": 228,
+      "succeeded": 14,
       "skipped": 166,
       "failed": 0,
-      "no_structure": 8
+      "no_structure": 48
     },
     "translation_md": {
-      "total": 166,
-      "succeeded": 42,
-      "skipped": 124,
+      "total": 180,
+      "succeeded": 14,
+      "skipped": 166,
       "failed": 0
+    },
+    "md_to_text": {
+      "total": 166,
+      "succeeded": 0,
+      "skipped": 146,
+      "failed": 20,
+      "clauses_lost": 0,
+      "repaired": 0,
+      "source_unaligned": 0
+    },
+    "storage": {
+      "total": 146,
+      "succeeded": 0,
+      "skipped": 146,
+      "failed": 0
+    },
+    "evaluation": {
+      "total": 146,
+      "succeeded": 34,
+      "failed": 0,
+      "skipped": 112,
+      "saved_reports": 34
+    },
+    "quality_check": {
+      "total": 228,
+      "succeeded": 174,
+      "needs_ocr": 43,
+      "eliminated": 11,
+      "skipped": 0,
+      "failed": 0
+    },
+    "human_review": {
+      "total": 0,
+      "skipped": 1
+    },
+    "validate": {
+      "total": 346,
+      "succeeded": 156,
+      "skipped": 166,
+      "failed": 24
     }
   },
   "failures": {
-    "translation": 0,
+    "translation": 25,
     "translation_qa": 0,
     "storage": 0,
     "evaluation": 0,
@@ -93,15 +139,26 @@
   },
   "token_usage": {
     "translation_md": {
-      "prompt_tokens": 3618846,
-      "completion_tokens": 5086980,
-      "total_tokens": 8705826
+      "prompt_tokens": 1415628,
+      "completion_tokens": 1343048,
+      "total_tokens": 2758676
+    },
+    "evaluation": {
+      "prompt_tokens": 21151791,
+      "completion_tokens": 176756,
+      "total_tokens": 21328547
     }
   },
   "timing_seconds": {
-    "total": 1.84,
-    "extract": 1.8,
-    "txt_to_md": 0.89,
-    "translation_md": 18285.37
+    "total": 7488.83,
+    "extract": 4.03,
+    "txt_to_md": 16.14,
+    "translation_md": 6840.82,
+    "md_to_text": 1.06,
+    "storage": 0.04,
+    "evaluation": 7479.67,
+    "quality_check": 57.56,
+    "human_review": 0.01,
+    "validate": 6.56
   }
 }

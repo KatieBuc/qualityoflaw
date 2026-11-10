@@ -1,0 +1,335 @@
+{
+  "updated_at": "2026-11-07T14:31:18.225874+00:00",
+  "translation": [
+    {
+      "filename": "141. Rwanda - DomViol - Kinyarwanda.txt",
+      "policy_file": "141. Rwanda - DomViol - Kinyarwanda.txt",
+      "error_type": "SourceAlignmentPartial",
+      "message": "40/49 sections have no original-language text (structure drift); evidence_original will be missing for those",
+      "details": {
+        "step": "md_to_text",
+        "unpaired": 40,
+        "total": 49
+      },
+      "attempts": 1,
+      "at": "2026-11-02T12:23:26.499623+00:00"
+    },
+    {
+      "filename": "16. Belgium - DomViol - French (b).txt",
+      "policy_file": "16. Belgium - DomViol - French (b).txt",
+      "error_type": "SourceAlignmentPartial",
+      "message": "2/832 sections have no original-language text (structure drift); evidence_original will be missing for those",
+      "details": {
+        "step": "md_to_text",
+        "unpaired": 2,
+        "total": 832
+      },
+      "attempts": 1,
+      "at": "2026-11-02T12:23:29.777219+00:00"
+    },
+    {
+      "filename": "170. Thailand - DomViol - Thai.txt",
+      "policy_file": "170. Thailand - DomViol - Thai.txt",
+      "error_type": "SourceAlignmentPartial",
+      "message": "9/50 sections have no original-language text (structure drift); evidence_original will be missing for those",
+      "details": {
+        "step": "md_to_text",
+        "unpaired": 9,
+        "total": 50
+      },
+      "attempts": 1,
+      "at": "2026-11-02T12:23:30.301358+00:00"
+    },
+    {
+      "filename": "20. Bolivia - DomViol - Spanish (c) - html.txt",
+      "policy_file": "20. Bolivia - DomViol - Spanish (c) - html.txt",
+      "error_type": "SourceAlignmentPartial",
+      "message": "5/780 sections have no original-language text (structure drift); evidence_original will be missing for those",
+      "details": {
+        "step": "md_to_text",
+        "unpaired": 5,
+        "total": 780
+      },
+      "attempts": 1,
+      "at": "2026-11-02T12:23:34.713770+00:00"
+    },
+    {
+      "filename": "45. Denmark - DomViol - Danish (a).txt",
+      "policy_file": "45. Denmark - DomViol - Danish (a).txt",
+      "error_type": "SourceAlignmentPartial",
+      "message": "2/400 sections have no original-language text (structure drift); evidence_original will be missing for those",
+      "details": {
+        "step": "md_to_text",
+        "unpaired": 2,
+        "total": 400
+      },
+      "attempts": 1,
+      "at": "2026-11-02T12:23:39.578179+00:00"
+    },
+    {
+      "filename": "105. Mali - DomViol - French.txt",
+      "policy_file": "105. Mali - DomViol - French.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 1486, translation 1484",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 1486,
+        "translated_headings": 1484
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:04.900618+00:00"
+    },
+    {
+      "filename": "110. Mexico - DomViol - Spanish.txt",
+      "policy_file": "110. Mexico - DomViol - Spanish.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 917, translation 967",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 917,
+        "translated_headings": 967
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:04.960150+00:00"
+    },
+    {
+      "filename": "116. Mozambique - DomViol - Portuguese (b).txt",
+      "policy_file": "116. Mozambique - DomViol - Portuguese (b).txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 467, translation 480",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 467,
+        "translated_headings": 480
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.027640+00:00"
+    },
+    {
+      "filename": "120. Netherlands - DomViol - Dutch (a) - html.txt",
+      "policy_file": "120. Netherlands - DomViol - Dutch (a) - html.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 20, translation 19",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 20,
+        "translated_headings": 19
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.066708+00:00"
+    },
+    {
+      "filename": "126. Norway - DomViol - Norwegian - html.txt",
+      "policy_file": "126. Norway - DomViol - Norwegian - html.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 460, translation 459",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 460,
+        "translated_headings": 459
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.106518+00:00"
+    },
+    {
+      "filename": "132. Paraguay - DomViol - Spanish.txt",
+      "policy_file": "132. Paraguay - DomViol - Spanish.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 514, translation 531",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 514,
+        "translated_headings": 531
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.155133+00:00"
+    },
+    {
+      "filename": "145. Senegal - DomViol - French.txt",
+      "policy_file": "145. Senegal - DomViol - French.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 343, translation 337",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 343,
+        "translated_headings": 337
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.194710+00:00"
+    },
+    {
+      "filename": "176. Turkiye - DomViol - Turkish (a).txt",
+      "policy_file": "176. Turkiye - DomViol - Turkish (a).txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 349, translation 379",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 349,
+        "translated_headings": 379
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.243092+00:00"
+    },
+    {
+      "filename": "178. Ukraine - DomViol - Ukrainian (b) - html.txt",
+      "policy_file": "178. Ukraine - DomViol - Ukrainian (b) - html.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 533, translation 554",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 533,
+        "translated_headings": 554
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.301182+00:00"
+    },
+    {
+      "filename": "185. Venezuela - DomViol - Spanish (a).txt",
+      "policy_file": "185. Venezuela - DomViol - Spanish (a).txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 28, translation 30",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 28,
+        "translated_headings": 30
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.356178+00:00"
+    },
+    {
+      "filename": "185. Venezuela - DomViol - Spanish (b).txt",
+      "policy_file": "185. Venezuela - DomViol - Spanish (b).txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 248, translation 247",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 248,
+        "translated_headings": 247
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.405446+00:00"
+    },
+    {
+      "filename": "20. Bolivia - DomViol - Spanish (a) - html.txt",
+      "policy_file": "20. Bolivia - DomViol - Spanish (a) - html.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 53, translation 78",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 53,
+        "translated_headings": 78
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.459080+00:00"
+    },
+    {
+      "filename": "39. Congo, Rep - DomViol - French.txt",
+      "policy_file": "39. Congo, Rep - DomViol - French.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 323, translation 322",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 323,
+        "translated_headings": 322
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.520336+00:00"
+    },
+    {
+      "filename": "42. Croatia - DomViol - Croatian (a) - html.txt",
+      "policy_file": "42. Croatia - DomViol - Croatian (a) - html.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 33, translation 34",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 33,
+        "translated_headings": 34
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.549994+00:00"
+    },
+    {
+      "filename": "44. Czechia - DomViol - Czech (b) - html.txt",
+      "policy_file": "44. Czechia - DomViol - Czech (b) - html.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 4, translation 41",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 4,
+        "translated_headings": 41
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.611318+00:00"
+    },
+    {
+      "filename": "59. France - DomViol - French - html.txt",
+      "policy_file": "59. France - DomViol - French - html.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 26, translation 25",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 26,
+        "translated_headings": 25
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.665904+00:00"
+    },
+    {
+      "filename": "90. Kosovo - DomViol - Albanian.txt",
+      "policy_file": "90. Kosovo - DomViol - Albanian.txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 70, translation 78",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 70,
+        "translated_headings": 78
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.725125+00:00"
+    },
+    {
+      "filename": "94. Latvia - DomViol - Latvian (a).txt",
+      "policy_file": "94. Latvia - DomViol - Latvian (a).txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 386, translation 385",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 386,
+        "translated_headings": 385
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.768761+00:00"
+    },
+    {
+      "filename": "94. Latvia - DomViol - Latvian (b).txt",
+      "policy_file": "94. Latvia - DomViol - Latvian (b).txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 713, translation 716",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 713,
+        "translated_headings": 716
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.843220+00:00"
+    },
+    {
+      "filename": "99. Lithuania - DomViol - Lithuanian (b).txt",
+      "policy_file": "99. Lithuania - DomViol - Lithuanian (b).txt",
+      "error_type": "HeaderMismatch",
+      "message": "Markdown headers do not match: heading count differs: source 389, translation 408",
+      "details": {
+        "step": "md_to_text",
+        "source_headings": 389,
+        "translated_headings": 408
+      },
+      "attempts": 1,
+      "at": "2026-11-05T16:29:05.898851+00:00"
+    }
+  ],
+  "translation_qa": [],
+  "storage": [],
+  "evaluation": [],
+  "discrepancy_diagnosis": [],
+  "step_failures": []
+}

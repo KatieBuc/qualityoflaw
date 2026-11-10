@@ -279,3 +279,59 @@ def test_non_logprob_errors_still_propagate():
 
     with pytest.raises(Exception):
         wrapper.complete_structured("prompt", PolicyEvaluationResponse)
+
+
+# --------------------------------------------------------------------------- the coverage answer through the wrapper
+class CoverageCriterionResult(BaseModel):
+    id: str
+    included: str
+    coverage: str | None = None
+
+
+class CoveragePolicyEvaluationResponse(BaseModel):
+    evaluation_results: List[CoverageCriterionResult]
+
+
+def build_coverage_response():
+    parsed = CoveragePolicyEvaluationResponse(
+        evaluation_results=[
+            CoverageCriterionResult(id="1.1", included="Yes", coverage="substantive"),
+            CoverageCriterionResult(id="1.2", included="No", coverage="Substantive"),
+            CoverageCriterionResult(id="1.3", included="Yes", coverage="somewhere in between"),
+        ]
+    )
+    tokens = [
+        FakeToken(token='{"id":"1.1","included":"'),
+        FakeToken(token="Yes", logprob=-0.01),
+        FakeToken(token='","coverage":"'),
+        FakeToken(token="Sub", logprob=-0.3),
+        FakeToken(token="stantive", logprob=-0.1),
+        FakeToken(token='"},{"id":"1.2","included":"'),
+        FakeToken(token="No", logprob=-0.5),
+        FakeToken(token='","coverage":null},{"id":"1.3","included":"'),
+        FakeToken(token="Yes", logprob=-0.02),
+        FakeToken(token='"}'),
+    ]
+    choice = SimpleNamespace(message=SimpleNamespace(parsed=parsed), logprobs=SimpleNamespace(content=tokens))
+    usage = SimpleNamespace(prompt_tokens=1, completion_tokens=1, total_tokens=2)
+    return SimpleNamespace(choices=[choice], usage=usage)
+
+
+def test_the_wrapper_normalises_the_coverage_and_gives_it_its_own_confidence(caplog):
+    client = RecordingClient(reject_logprobs=False)
+    client.parse = lambda **kwargs: build_coverage_response()
+    spec = ConfidenceSpec(
+        methods=(METHOD_LOGPROBS,), primary=METHOD_LOGPROBS, top_logprobs=5,
+        coverage_labels=("Substantive", "Referenced only"),
+    )
+    wrapper = make_wrapper(client, confidence=spec)
+
+    with caplog.at_level("WARNING"):
+        results = wrapper.complete_structured("prompt", CoveragePolicyEvaluationResponse)["evaluation_results"]
+
+    assert results["1.1"]["coverage"] == "Substantive"                                   # canonical spelling
+    assert math.isclose(results["1.1"]["confidence"], math.exp(-0.01))                     # Yes / No: its own tokens
+    assert math.isclose(results["1.1"]["coverage_confidence"], math.exp(-0.4))             # coverage: its own tokens
+    assert results["1.2"]["coverage"] is None and results["1.2"]["coverage_confidence_source"] == "not_applicable"
+    assert results["1.3"]["coverage"] is None                                              # not one of the labels
+    assert "1.3" in caplog.text                                                            # and it was reported

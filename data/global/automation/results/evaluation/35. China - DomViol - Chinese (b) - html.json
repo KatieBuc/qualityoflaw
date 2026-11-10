@@ -1,0 +1,971 @@
+{
+  "policy_file": "35. China - DomViol - Chinese (b) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T23:32:34.932546+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 1 This Law is formulated in order to prevent and stop domestic violence, protect the lawful rights and interests of family members, safeguard equal, harmonious and civilized family relationships, and promote family harmony and social stability.\nArticle 2 For the purposes of this Law, domestic violence refers to physical and mental harm inflicted among family members through acts such as beating, binding, maiming, restricting personal freedom, and habitual verbal abuse and intimidation.\nThe State prohibits all forms of domestic violence.",
+      "rationale": "The candidate sentences are from an operative law that explicitly aims to prevent and stop domestic violence, defines domestic violence, and states that the State prohibits all forms of domestic violence, which meets the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 1.0,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 1.0
+      },
+      "coverage_confidence": 1.0,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 1.0
+      },
+      "evidence_verified": true,
+      "evidence_original": "第一条 为了预防和制止家庭暴力，保护家庭成员的合法权益，维护平等、和睦、文明的家庭关系，促进家庭和谐、社会稳定，制定本法。\n\n第二条 本法所称家庭暴力，是指家庭成员之间以殴打、捆绑、残害、限制人身自由以及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。\n\n国家禁止任何形式的家庭暴力。",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate sentences, the framework repeatedly addresses domestic violence but does not mention sexual violence, sexual assault, rape, sexual abuse, or sexual harassment, nor does it include any operative definition/classification that explicitly covers sexual violence.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 2 For the purposes of this Law, domestic violence refers to physical and mental harm inflicted among family members through acts such as beating, binding, maiming, restricting personal freedom, and habitual verbal abuse and intimidation.",
+      "rationale": "The operative definition of domestic violence explicitly includes physical harm and lists physical acts (e.g., beating, binding, maiming, restricting personal freedom), which substantively addresses physical violence within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "第二条 本法所称家庭暴力，是指家庭成员之间以殴打、捆绑、残害、限制人身自由以及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 2 For the purposes of this Law, domestic violence refers to physical and mental harm inflicted among family members through acts such as beating, binding, maiming, restricting personal freedom, and habitual verbal abuse and intimidation.",
+      "rationale": "The operative definition of domestic violence includes mental harm and explicitly references habitual verbal abuse and intimidation, which are forms of psychological/emotional violence covered in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "第二条 本法所称家庭暴力，是指家庭成员之间以殴打、捆绑、残害、限制人身自由以及经常性谩骂、恐吓等方式实施的身体、精神等侵害行为。",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence in terms of physical and mental harm and list physical and verbal/intimidation acts, but do not mention economic violence/abuse, financial deprivation, economic exploitation, or neglect as a form of violence or abuse with legal consequences.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative prevention/protection measures targeted to such practices.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence generally but do not mention femicide/feminicide, gender-motivated killing of women, or any femicide-specific aggravation, classification, prevention, monitoring, or registry mechanism.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of human trafficking/trafficking in persons, trafficking-related exploitation, or trafficking victims as a protected group or service target; they focus on domestic violence procedures and responsibilities.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention sexual exploitation, sexual slavery, forced prostitution, or any trafficking/exploitation provision with an explicit sexual-exploitation nexus; only domestic violence is addressed.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the candidate sentences mention media including the internet in the context of publicity/education, they do not define, prohibit, or otherwise recognise cyber violence/online harassment/digital abuse as a form of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Article 33 Where a perpetrator commits domestic violence, constituting a violation of the administration of public security, administrative punishment for public security shall be imposed in accordance with law; where a crime is constituted, criminal liability shall be investigated in accordance with law.\nArticle 34 Where a respondent violates a personal safety protection order, constituting a crime, criminal liability shall be investigated in accordance with law; where it does not yet constitute a crime, the people's court shall give a reprimand and may, according to the seriousness of the circumstances, impose a fine of not more than 1,000 yuan or detention of not more than 15 days.",
+      "rationale": "The framework provides that where domestic violence or violation of a personal safety protection order constitutes a crime, criminal liability shall be investigated, and it also specifies detention and fines for certain violations of protection orders, demonstrating criminal/penal consequences attached to domestic violence-related acts.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "第三十三条 加害人实施家庭暴力，构成违反治安管理行为的，依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。\n\n第三十四条 被申请人违反人身安全保护令，构成犯罪的，依法追究刑事责任；尚不构成犯罪的，人民法院应当给予训诫，可以根据情节轻重处以一千元以下罚款、十五日以下拘留。",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "Article 23 Where a party applies to a people's court for a personal safety protection order due to suffering from domestic violence or facing the realistic danger of domestic violence, the people's court shall accept the application.\nWhere the party is a person with no capacity for civil conduct or a person with limited capacity for civil conduct, or is unable to apply for a personal safety protection order due to coercion, intimidation or other reasons, their close relatives, public security organs, women's federations, residents' committees, villagers' committees, or assistance and management institutions may apply on their behalf.\nArticle 26 Personal safety protection orders shall be issued by people's courts in the form of rulings.\nArticle 30 The validity period of a personal safety protection order shall not exceed six months and shall take effect from the date it is issued.\nArticle 34 Where a respondent violates a personal safety protection order, constituting a crime, criminal liability shall be investigated in accordance with law; where it does not yet constitute a crime, the people's court shall give a reprimand and may, according to the seriousness of the circumstances, impose a fine of not more than 1,000 yuan or detention of not more than 15 days.",
+      "rationale": "The law establishes a personal safety protection order regime, specifying who may apply (including on behalf of the victim), that people's courts issue the orders, the order validity period (up to six months), and consequences for breach (criminal liability where a crime is constituted, otherwise reprimand and possible fine/detention).",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "第二十三条 当事人因遭受家庭暴力或者面临家庭暴力的现实危险，向人民法院申请人身安全保护令的，人民法院应当受理。\n\n当事人是无民事行为能力人、限制民事行为能力人，或者因受到强制、威吓等原因无法申请人身安全保护令的，其近亲属、公安机关、妇女联合会、居民委员会、村民委员会、救助管理机构可以代为申请。\n\n第二十六条 人身安全保护令由人民法院以裁定形式作出。\n\n第三十条 人身安全保护令的有效期不超过六个月，自作出之日起生效。\n\n第三十四条 被申请人违反人身安全保护令，构成犯罪的，依法追究刑事责任；尚不构成犯罪的，人民法院应当给予训诫，可以根据情节轻重处以一千元以下罚款、十五日以下拘留。",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe general responsibilities of public security organs (e.g., dispatching police, stopping violence, investigating, assisting victims) but do not designate or mandate any specialised unit/desk/division within police services for VAW victims.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text assigns roles to people's courts (e.g., jurisdiction and issuance of protection orders), it does not establish a specialised court/chamber/judicial officer or a specialised/expedited procedure specifically for violence against women cases beyond ordinary court handling and protection-order procedures.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence generally and protection orders/legal liabilities, but do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption for sexual violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Article 4 The institutions responsible for women's and children's work under people's governments at the county level or above shall be responsible for organizing, coordinating, guiding and supervising relevant departments in carrying out anti-domestic violence work.\nArticle 8 Township people's governments and sub-district offices shall organize the carrying out of work to prevent domestic violence, and residents' committees, villagers' committees, and social work service institutions shall provide coordination and assistance.",
+      "rationale": "The cited provisions assign an institution under county-level (or above) governments responsibility for organizing and coordinating relevant departments’ anti-domestic-violence work, and also describe township/sub-district authorities organizing prevention work with community committees and social work institutions providing coordination/assistance. This constitutes an operative, formal coordination arrangement across agencies/sectors/levels rather than merely separate agency responsibilities.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "第四条 县级以上人民政府负责妇女儿童工作的机构，负责组织、协调、指导、督促有关部门做好反家庭暴力工作。\n\n第八条 乡镇人民政府、街道办事处应当组织开展家庭暴力预防工作，居民委员会、村民委员会、社会工作服务机构应当予以配合协助。",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "Article 7 Relevant departments and judicial organs under people's governments at the county level or above and women's federations shall incorporate the prevention and stopping of domestic violence into their professional training and statistical work.\nMedical institutions shall maintain good medical records of victims of domestic violence.",
+      "rationale": "The framework assigns responsibilities related to statistics and recordkeeping: relevant departments/judicial organs and women’s federations must incorporate anti-domestic-violence work into statistical work, and medical institutions must maintain medical records of victims. These are explicit operative duties to document/record and manage information related to domestic violence/victims.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "第七条 县级以上人民政府有关部门、司法机关、妇女联合会应当将预防和制止家庭暴力纳入业务培训和统计工作。\n\n医疗机构应当做好家庭暴力受害人的诊疗记录。",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming in planning/budgeting, a mainstreaming focal point/working group, or a mainstreaming mandate). The text focuses on anti-domestic-violence coordination, reporting, services, and training/statistics, but does not mention gender mainstreaming.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 7 Relevant departments and judicial organs under people's governments at the county level or above and women's federations shall incorporate the prevention and stopping of domestic violence into their professional training and statistical work.",
+      "rationale": "The framework explicitly requires relevant departments and judicial organs (and women’s federations) to incorporate prevention and stopping of domestic violence into their professional training, which is a direct mandate for training of implementing institutions/personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "第七条 县级以上人民政府有关部门、司法机关、妇女联合会应当将预防和制止家庭暴力纳入业务培训和统计工作。",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 4 The institutions responsible for women's and children's work under people's governments at the county level or above shall be responsible for organizing, coordinating, guiding and supervising relevant departments in carrying out anti-domestic violence work.",
+      "rationale": "The framework assigns an institution responsibility for organizing, coordinating, guiding, and supervising relevant departments in carrying out anti-domestic-violence work. The explicit supervisory function constitutes an operative monitoring/oversight mechanism for implementation, even though it does not lay out a detailed evaluation framework or indicators.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "第四条 县级以上人民政府负责妇女儿童工作的机构，负责组织、协调、指导、督促有关部门做好反家庭暴力工作。",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "People's governments at all levels shall provide necessary financial support for anti-domestic violence work.",
+      "rationale": "The framework states that people’s governments at all levels shall provide necessary financial support for anti-domestic-violence work. This is an operative requirement to provide funding for implementation (even if not specifying a dedicated national budget line).",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "各级人民政府应当对反家庭暴力工作给予必要的经费保障。",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions assign general coordination roles across government and list multiple separate services (complaints to various units, police assistance, shelters, legal aid), but they do not explicitly establish/mandate/recognise a designated integrated service unit/one-stop centre/multidisciplinary mechanism that coordinates multiple services through a specific institutional mechanism. General statements about coordination/assistance are insufficient under the coding rules.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 13 Victims of domestic violence and their legal representatives or close relatives may file complaints with, report to or seek help from the perpetrators' or victims' work units, residents' committees, villagers' committees, women's federations or other units.\nAfter receiving complaints, reports or requests for help regarding domestic violence, the relevant units shall provide assistance and handle the matter.",
+      "rationale": "The framework provides an operative mechanism allowing victims to file complaints/report/seek help from specified entities, and requires those entities to provide assistance and handle the matter, which constitutes a designated reporting/help-seeking mechanism even without a hotline.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "第十三条 家庭暴力受害人及其法定代理人、近亲属可以向加害人或者受害人所在单位、居民委员会、村民委员会、妇女联合会等单位投诉、反映或者求助。\n\n有关单位接到家庭暴力投诉、反映或者求助后，应当给予帮助、处理。",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 18 People's governments at the county level or city level divided into districts may establish temporary shelters independently or by relying on assistance and management institutions to provide temporary living assistance to victims of domestic violence.",
+      "rationale": "The framework expressly provides that certain levels of government may establish temporary shelters to provide temporary living assistance to victims of domestic violence, which is an operative provision for accommodation-based protection.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "第十八条 县级或者设区的市级人民政府可以单独或者依托救助管理机构设立临时庇护场所，为家庭暴力受害人提供临时生活帮助。",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 19 Legal aid institutions shall provide legal aid to victims of domestic violence in accordance with law.",
+      "rationale": "The framework contains an operative provision requiring legal aid institutions to provide legal aid to victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "第十九条 法律援助机构应当依法为家庭暴力受害人提供法律援助。",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 15 After receiving reports of domestic violence, public security organs shall promptly dispatch police, stop the domestic violence, investigate and collect evidence in accordance with relevant provisions, and assist victims in seeking medical treatment and injury assessment.",
+      "rationale": "The framework requires public security organs, after receiving reports, to assist victims in seeking medical treatment and injury assessment, which is an operative linkage to medical services for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "第十五条 公安机关接到家庭暴力报案后应当及时出警，制止家庭暴力，按照有关规定调查取证，协助受害人就医、鉴定伤情。",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "Article 9 People's governments at all levels shall support social organizations such as social work service institutions in providing services such as mental health counseling, family relationship guidance, and education on knowledge about the prevention of domestic violence.\nArticle 22 Trade unions, the Communist Youth League, women's federations, federations of persons with disabilities, residents' committees, villagers' committees and others shall provide rule of law education to perpetrators who commit domestic violence and, where necessary, may provide psychological counseling to perpetrators and victims.",
+      "rationale": "The framework supports provision of mental health counseling services related to domestic violence through social organizations, and also provides that specified organizations may provide psychological counseling to perpetrators and victims where necessary—both are operative references to psychosocial/psychological support for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "第九条 各级人民政府应当支持社会工作服务机构等社会组织开展心理健康咨询、家庭关系指导、家庭暴力预防知识教育等服务。\n\n第二十二条 工会、共产主义青年团、妇女联合会、残疾人联合会、居民委员会、村民委员会等应当对实施家庭暴力的加害人进行法治教育，必要时可以对加害人、受害人进行心理辅导。",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences mention religious or spiritual counselling, faith-based support, or religious leaders/institutions providing victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on immediate assistance and protection (reporting/help-seeking, police response, temporary shelters, legal aid, counseling) but do not establish longer-term recovery/rehabilitation/reintegration measures such as livelihood, employment, skills training, or other long-term support mechanisms specifically for victims/survivors.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "Article 22 Trade unions, the Communist Youth League, women's federations, federations of persons with disabilities, residents' committees, villagers' committees and others shall provide rule of law education to perpetrators who commit domestic violence and, where necessary, may provide psychological counseling to perpetrators and victims.",
+      "rationale": "The framework provides for perpetrator-focused intervention in the form of rule-of-law education for perpetrators and allows psychological counseling to perpetrators (and victims) where necessary, which constitutes an operative perpetrator-oriented behaviour-change/intervention measure.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "第二十二条 工会、共产主义青年团、妇女联合会、残疾人联合会、居民委员会、村民委员会等应当对实施家庭暴力的加害人进行法治教育，必要时可以对加害人、受害人进行心理辅导。",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 6 The State shall carry out publicity and education on family virtues, popularize knowledge about anti-domestic violence, and enhance citizens' awareness of anti-domestic violence.\nSchools and kindergartens shall carry out education on family virtues and anti-domestic violence.",
+      "rationale": "The candidate sentences include operative provisions requiring the State and educational institutions (schools/kindergartens) to conduct publicity and education specifically on anti-domestic violence, which is a form of violence relevant to violence against women prevention activities.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "第六条 国家开展家庭美德宣传教育，普及反家庭暴力知识，增强公民反家庭暴力意识。\n\n学校、幼儿园应当开展家庭美德和反家庭暴力教育。",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on publicity/education about family virtues and anti-domestic violence and related prevention/handling measures, but do not require or describe information/education activities specifically about gender equality or women's rights, nor link such gender-equality education to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes publicity/education on anti-domestic violence and mentions 'rule of law education' for perpetrators, it does not explicitly specify dissemination or education about laws, regulations, or policies concerning violence against women/domestic violence (i.e., legal rights/protections/remedies) as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "Schools and kindergartens shall carry out education on family virtues and anti-domestic violence.",
+      "rationale": "The candidate sentences include an operative provision assigning responsibility to schools and kindergartens to carry out education on anti-domestic violence, explicitly using educational institutions as part of prevention efforts.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "学校、幼儿园应当开展家庭美德和反家庭暴力教育。",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide general anti-domestic-violence publicity/education and other prevention measures, and include education directed at perpetrators after domestic violence occurs, but do not establish prevention activities that specifically target or engage men and/or boys to prevent violence against women or change masculinities/gender norms.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "Article 9 People's governments at all levels shall support social organizations such as social work service institutions in providing services such as mental health counseling, family relationship guidance, and education on knowledge about the prevention of domestic violence.",
+      "rationale": "The law contains an operative provision requiring government support for “social organizations” (e.g., social work service institutions) to provide services related to prevention of domestic violence, which constitutes formal engagement/collaboration with civil-society actors in VAW-related response/prevention activities.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "第九条 各级人民政府应当支持社会工作服务机构等社会组织开展心理健康咨询、家庭关系指导、家庭暴力预防知识教育等服务。",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors for preventing or responding to domestic violence.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Schools and kindergartens shall carry out education on family virtues and anti-domestic violence.\nArticle 14 Where schools, kindergartens, medical institutions, residents' committees, villagers' committees, social work service institutions, assistance and management institutions, welfare institutions and their staff discover in their work that persons with no capacity for civil conduct or persons with limited capacity for civil conduct have suffered or are suspected of having suffered domestic violence, they shall promptly report the case to public security organs.",
+      "rationale": "The law assigns schools and kindergartens responsibilities to conduct anti-domestic-violence education and to report suspected domestic violence in the course of their work, establishing their participation in prevention and response activities.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "学校、幼儿园应当开展家庭美德和反家庭暴力教育。\n\n第十四条 学校、幼儿园、医疗机构、居民委员会、村民委员会、社会工作服务机构、救助管理机构、福利机构及其工作人员在工作中发现无民事行为能力人、限制民事行为能力人遭受或者疑似遭受家庭暴力的，应当及时向公安机关报案。",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention international organisations or any mechanism for cooperation with them on domestic violence/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "Radio, television, newspapers, the internet and other media shall carry out publicity on family virtues and anti-domestic violence.",
+      "rationale": "The law explicitly assigns media (radio, television, newspapers, internet and other media) a role in carrying out publicity on anti-domestic violence, which is an operative provision engaging media actors in prevention/awareness-raising.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "广播、电视、报刊、网络等应当开展家庭美德和反家庭暴力宣传。",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "Article 8 Township people's governments and sub-district offices shall organize the carrying out of work to prevent domestic violence, and residents' committees, villagers' committees, and social work service institutions shall provide coordination and assistance.",
+      "rationale": "The law provides for township/sub-district governments to organize prevention work with residents’ and villagers’ committees providing coordination and assistance, establishing community-level bodies as participants in prevention activities (more than a mere general reference to “society”).",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "第八条 乡镇人民政府、街道办事处应当组织开展家庭暴力预防工作，居民委员会、村民委员会、社会工作服务机构应当予以配合协助。",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "Article 11 Where an employing unit discovers that its personnel have domestic violence situations, it shall give criticism and education, and properly carry out mediation and resolution work for family conflicts.",
+      "rationale": "The law imposes an operative duty on employing units to take specified actions when they discover domestic violence situations involving their personnel, which constitutes private-sector/employer participation in response/prevention measures.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "第十一条 用人单位发现本单位人员有家庭暴力情况的，应当给予批评教育，并做好家庭矛盾的调解、化解工作。",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "People's governments at all levels shall provide necessary financial support for anti-domestic violence work.",
+      "rationale": "The policy states that people's governments at all levels shall provide necessary financial support for anti-domestic violence work, which includes local governments as part of 'all levels.'",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "各级人民政府应当对反家庭暴力工作给予必要的经费保障。",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "People's governments at all levels shall provide necessary financial support for anti-domestic violence work.",
+      "rationale": "The policy states that people's governments at all levels shall provide necessary financial support for anti-domestic violence work, which includes the national level as part of 'all levels.'",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "各级人民政府应当对反家庭暴力工作给予必要的经费保障。",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international assistance, donors, UN agencies, foreign governments, or any other explicit international support or funding source; the only financial support referenced is from people's governments.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any non-governmental or alternative legal funding sources (e.g., earmarked funds, fines, levies, private/charitable funds) as budget sources; they only reference government financial support and other non-funding provisions (e.g., legal aid, fee waivers).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "Yes",
+      "evidence": "People's governments at all levels shall provide necessary financial support for anti-domestic violence work.",
+      "rationale": "The policy states that people's governments at all levels shall provide necessary financial support for anti-domestic violence work, which encompasses provincial governments as one of the government levels.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "各级人民政府应当对反家庭暴力工作给予必要的经费保障。",
+      "evidence_original_aligned": true
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 26,
+    "resolved": 26,
+    "rate": 1.0
+  }
+}

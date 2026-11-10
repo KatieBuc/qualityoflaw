@@ -1,0 +1,976 @@
+{
+  "policy_file": "167. Taiwan - DomViol - English - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:52:27.219689+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.\n1. Prohibit the opposite party from committing acts of domestic violence against the victim or any child, youth or specific family member that witnessed the domestic violence.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence and provide operative protective remedies (protection orders) prohibiting domestic violence, which constitutes substantive legal coverage rather than a mere reference.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.\n\n1. Prohibit the opposite party from committing acts of domestic violence against the victim or any child, youth or specific family member that witnessed the domestic violence.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "To reinforce the promotion of work related to the prevention of domestic violence and sexual assault, the central competent authority shall establish a fund.\nThe centers under the previous paragraph may be combined with sexual assault prevention centers.",
+      "rationale": "The text includes operative provisions that explicitly mention sexual assault (e.g., establishing a fund for prevention work related to domestic violence and sexual assault, and allowing domestic violence prevention centers to be combined with sexual assault prevention centers), which indicates the framework substantively addresses sexual violence within institutional/coordination measures.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "To reinforce the promotion of work related to the prevention of domestic violence and sexual assault, the central competent authority shall establish a fund.\n\nThe centers under the previous paragraph may be combined with sexual assault prevention centers.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.",
+      "rationale": "The operative definition of domestic violence explicitly includes acts that are physical in nature, which substantively covers physical violence within the legal framework’s scope definition.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.\n4. Harassment: Means any language or gesture that interrupts, warns, mocks or insults any other person, or any conduct that causes a psychological scenario of fear.",
+      "rationale": "The operative definition of domestic violence explicitly includes acts that are psychological in nature, and the Act also defines harassment in psychological terms, indicating substantive coverage of psychological violence/abuse within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.\n\n4. Harassment: Means any language or gesture that interrupts, warns, mocks or insults any other person, or any conduct that causes a psychological scenario of fear.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.",
+      "rationale": "The operative definition of domestic violence explicitly includes acts that are economical in nature, which constitutes substantive inclusion of economic abuse/violence within the framework’s definition of covered violence.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Domestic violence: Means an act of harassment, control, threat or other illegal action conducted against any family member that is physical, psychological, or economical in nature.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence generally (institutional responsibilities, protection orders, reporting, services, education, and statistics), but they do not mention or regulate any of the specified harmful practices (e.g., child/early marriage, FGM/C, honour crimes, female infanticide) or similar practices. Under the coding rules, without any mention of a harmful practice, this must be coded No.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss domestic violence prevention and include a requirement to publish statistics such as the number of deaths caused by domestic violence, but they do not mention femicide/feminicide or gender-motivated killing of women, nor do they define it, criminalize it, treat it as an aggravating factor, or establish femicide-specific prevention/monitoring mechanisms. The coding rules require femicide/feminicide to appear; it does not.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate sentences, the framework concerns domestic violence procedures, protection orders, reporting, confidentiality, and services. There is no mention of human trafficking/trafficking in persons, trafficking-related exploitation, or trafficking victims as a protected group. Per the coding rules, general victim protection without any trafficking reference is Code No.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention sexual exploitation, sexual slavery, forced prostitution, or any sexual-exploitation nexus. References to “sexual intimacy” appear only to define an intimate relationship, not exploitation or slavery. Therefore, the framework as shown does not substantively (or even in passing) address sexual exploitation/slavery as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference the Internet and other media in the context of restricting publication of identifying information about victims and imposing fines for breaches, and reference technical equipment for filing petitions/notifications. However, they do not define, prohibit, or otherwise recognize cyber/online/digital abuse (e.g., cyber harassment, cyberbullying, online sexual exploitation) as a form of violence. The coding rules exclude mere use of technology for administration/service delivery or confidentiality rules without recognizing technology-facilitated violence itself.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "The breach of any of the following court rulings rendered in accordance with the first paragraph of Article 14 or the third paragraph of Article 16 is a violation of protection order referred to in this Act and shall be penalized by a term of imprisonment of no more than three years, short-term imprisonment and/or a fine of not more than NT$100,000:",
+      "rationale": "The framework provides a criminal sanction (imprisonment and/or fine) for violation of certain protection-order rulings, which are directly tied to prohibitions on domestic violence and related conduct. This establishes criminal penalties within the legal framework for at least one form of violence addressed by the Act (domestic violence) via penalization of protection-order violations.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "The breach of any of the following court rulings rendered in accordance with the first paragraph of Article 14 or the third paragraph of Article 16 is a violation of protection order referred to in this Act and shall be penalized by a term of imprisonment of no more than three years, short-term imprisonment and/or a fine of not more than NT$100,000:",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "A victim may file a petition with the court for an ordinary protection order or temporary protection order.\nThe court may issue a temporary protection order or emergency protection order without a trial.\nAn ordinary protection order is valid for two years or less and shall become effective from the time of issuance.\nThe breach of any of the following court rulings rendered in accordance with the first paragraph of Article 14 or the third paragraph of Article 16 is a violation of protection order referred to in this Act and shall be penalized by a term of imprisonment of no more than three years, short-term imprisonment and/or a fine of not more than NT$100,000:",
+      "rationale": "The text specifies who may apply (victim, and also prosecutor/police/competent authority), identifies the issuing authority (court), provides duration for ordinary protection orders, and sets a defined criminal consequence for breach of specified protection-order rulings. These elements satisfy the required components for a substantive protection/restraining order mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "A victim may file a petition with the court for an ordinary protection order or temporary protection order.\n\nThe court may issue a temporary protection order or emergency protection order without a trial.\n\nAn ordinary protection order is valid for two years or less and shall become effective from the time of issuance.\n\nThe breach of any of the following court rulings rendered in accordance with the first paragraph of Article 14 or the third paragraph of Article 16 is a violation of protection order referred to in this Act and shall be penalized by a term of imprisonment of no more than three years, short-term imprisonment and/or a fine of not more than NT$100,000:",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police measures in handling domestic violence cases and the establishment of domestic violence prevention centers by municipal/county authorities, but they do not designate a specific specialised unit/desk/division within police services itself to handle VAW cases. General police duties and cross-agency centers are not the same as a mandated specialised police unit.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "In an area with a juvenile and family court, the district court under the previous paragraph refers to the juvenile and family court.",
+      "rationale": "The framework designates that, in areas with a juvenile and family court, the district court with jurisdiction over protection-order petitions refers to the juvenile and family court. This constitutes a specified judicial mechanism (a particular court) for handling these domestic-violence-related protection order matters.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "In an area with a juvenile and family court, the district court under the previous paragraph refers to the juvenile and family court.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a marital exemption for sexual violence. The text discusses domestic violence generally and includes an intimate-relationship provision, but it does not address the applicability of sexual-offence provisions to spouses or intimate partners as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "The municipal and county (city) competent authorities shall consolidate the activities and manpower of its police, education, health, social policy, civil administration, household registration, and labor and news departments and agencies, establish domestic violence prevention centers, and coordinate with relevant judicial and immigration authorities to perform the following matters:\nTo coordinate, study, review, consult, supervise, review and promote domestic violence prevention work, municipal and county (city) competent authorities shall establish a domestic violence prevention committee.",
+      "rationale": "The text establishes formal multi-agency coordination structures at the municipal/county level, including mandated consolidation of multiple departments into domestic violence prevention centers and coordination with judicial/immigration authorities, and also requires establishment of a domestic violence prevention committee to coordinate and supervise prevention work. These are operative, institutional coordination mechanisms rather than mere aspirational cooperation language.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "The municipal and county (city) competent authorities shall consolidate the activities and manpower of its police, education, health, social policy, civil administration, household registration, and labor and news departments and agencies, establish domestic violence prevention centers, and coordinate with relevant judicial and immigration authorities to perform the following matters:\n\nTo coordinate, study, review, consult, supervise, review and promote domestic violence prevention work, municipal and county (city) competent authorities shall establish a domestic violence prevention committee.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "7. Consolidated establishment and management of an electronic database of cases of domestic violence for use by judges, prosecutors, police, doctors, nursing staff, psychologists, social workers and other government authorities, while keeping the victims' identities confidential.\nThe central competent authority shall determine the rules for the establishment, management and use of the electronic database under Subparagraph 7 of the first paragraph.",
+      "rationale": "The framework assigns the central competent authority responsibility to establish and manage an electronic database of domestic violence cases and to determine rules for its establishment, management, and use. This is an explicit, operative data system mandate and responsibility assignment.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "7. Consolidated establishment and management of an electronic database of cases of domestic violence for use by judges, prosecutors, police, doctors, nursing staff, psychologists, social workers and other government authorities, while keeping the victims’ identities confidential.\n\nThe central competent authority shall determine the rules for the establishment, management and use of the electronic database under Subparagraph 7 of the first paragraph.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include a gender representation quota for invited advisors (each gender at least 1/3), but they do not explicitly establish or require gender mainstreaming as an institutional mechanism for implementing domestic violence/women’s protection policies and programs. No gender mainstreaming mechanism, working group, or mainstreaming requirement is stated.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "The social administration competent authority shall provide on-the-job education concerning domestic violence prevention to social workers, family day care providers, childcare personnel, daily-life guidance personnel and other relevant social administration personnel.\nThe police competent authority shall provide on-the-job education concerning domestic violence prevention to police personnel.\nThe Judicial Yuan and the Ministry of Justice shall provide on-the-job education concerning domestic violence prevention to relevant judicial personnel.\nThe health competent authority shall provide or procure that the relevant healthcare organizations provide on-the-job education concerning domestic violence prevention to healthcare personnel.\nThe immigration competent authority shall provide on-the-job education concerning domestic violence prevention to immigration personnel.",
+      "rationale": "The framework explicitly mandates on-the-job education concerning domestic violence prevention for multiple categories of implementing personnel (e.g., social workers, police, judicial personnel, healthcare personnel, immigration personnel). This is a direct training/capacity-building requirement for responsible officials and service providers.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "The social administration competent authority shall provide on-the-job education concerning domestic violence prevention to social workers, family day care providers, childcare personnel, daily-life guidance personnel and other relevant social administration personnel.\n\nThe police competent authority shall provide on-the-job education concerning domestic violence prevention to police personnel.\n\nThe Judicial Yuan and the Ministry of Justice shall provide on-the-job education concerning domestic violence prevention to relevant judicial personnel.\n\nThe health competent authority shall provide or procure that the relevant healthcare organizations provide on-the-job education concerning domestic violence prevention to healthcare personnel.\n\nThe immigration competent authority shall provide on-the-job education concerning domestic violence prevention to immigration personnel.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "9. Investigation and analysis of issues of domestic violence, current status of prevention and requirements shall be conducted every four years.",
+      "rationale": "The framework requires periodic investigation and analysis of domestic violence issues and the current status of prevention every four years, which functions as a structured monitoring/evaluation process for prevention implementation/status. While it is not a full indicator framework, it is a specific, time-bound evaluation requirement in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "9. Investigation and analysis of issues of domestic violence, current status of prevention and requirements shall be conducted every four years.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "To reinforce the promotion of work related to the prevention of domestic violence and sexual assault, the central competent authority shall establish a fund.\n1. Government budget allocation.",
+      "rationale": "The framework requires the central competent authority to establish a fund to promote domestic violence and sexual assault prevention work, and specifies that the fund’s sources include government budget allocation. This creates a designated funding mechanism tied to implementation/prevention activities.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "To reinforce the promotion of work related to the prevention of domestic violence and sexual assault, the central competent authority shall establish a fund.\n\n1. Government budget allocation.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "The municipal and county (city) competent authorities shall consolidate the activities and manpower of its police, education, health, social policy, civil administration, household registration, and labor and news departments and agencies, establish domestic violence prevention centers, and coordinate with relevant judicial and immigration authorities to perform the following matters:\n2. Provision of a 24-hour emergency rescue service, assistance with medical visits, injury certification, evidence collection and emergency placements.\n3. Provision or referral of financial aid, legal services, education services and lodging assistance to the victims, including provision of stage-by-stage, supportive and diversified vocational training and employment services.\n4. Provision of short-term, mid-term and long-term shelter placements for the victims and their minors.\n5. Provision or referral of physical and mental treatment, counseling, social and psychological evaluation and disposition for the victims and the children, youth or family members who have witnessed domestic violence and who need these services.",
+      "rationale": "The framework mandates municipal/county authorities to consolidate multiple departments, establish domestic violence prevention centers, and provide/referral a bundle of services (hotline, emergency rescue/medical assistance, legal services, shelter placements, counselling/psychological evaluation), which constitutes an integrated/multidisciplinary service mechanism for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "The municipal and county (city) competent authorities shall consolidate the activities and manpower of its police, education, health, social policy, civil administration, household registration, and labor and news departments and agencies, establish domestic violence prevention centers, and coordinate with relevant judicial and immigration authorities to perform the following matters:\n\n2. Provision of a 24-hour emergency rescue service, assistance with medical visits, injury certification, evidence collection and emergency placements.\n\n3. Provision or referral of financial aid, legal services, education services and lodging assistance to the victims, including provision of stage-by-stage, supportive and diversified vocational training and employment services.\n\n4. Provision of short-term, mid-term and long-term shelter placements for the victims and their minors.\n\n5. Provision or referral of physical and mental treatment, counseling, social and psychological evaluation and disposition for the victims and the children, youth or family members who have witnessed domestic violence and who need these services.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "1. Provision of a 24-hour hotline service.",
+      "rationale": "The framework requires domestic violence prevention centers to provide a 24-hour hotline service, which is a mechanism through which victims can seek assistance and emergency support.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Provision of a 24-hour hotline service.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "4. Provision of short-term, mid-term and long-term shelter placements for the victims and their minors.",
+      "rationale": "The framework includes provision of short-, mid-, and long-term shelter placements for victims (and their minors) as part of the mandated services of domestic violence prevention centers, establishing accommodation-based protection.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Provision of short-term, mid-term and long-term shelter placements for the victims and their minors.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "3. Provision or referral of financial aid, legal services, education services and lodging assistance to the victims, including provision of stage-by-stage, supportive and diversified vocational training and employment services.",
+      "rationale": "The framework requires domestic violence prevention centers to provide or refer victims to legal services, which constitutes legal assistance within an operative victim-support mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Provision or referral of financial aid, legal services, education services and lodging assistance to the victims, including provision of stage-by-stage, supportive and diversified vocational training and employment services.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "No medical institution shall refuse treatment for any victim of domestic violence or refuse to issue any certificate of verification of injury diagnosis without justification.",
+      "rationale": "The framework explicitly requires medical institutions not to refuse treatment for any victim of domestic violence and not to refuse to issue injury diagnosis verification certificates without justification, establishing a health/medical response for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "No medical institution shall refuse treatment for any victim of domestic violence or refuse to issue any certificate of verification of injury diagnosis without justification.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "5. Provision or referral of physical and mental treatment, counseling, social and psychological evaluation and disposition for the victims and the children, youth or family members who have witnessed domestic violence and who need these services.",
+      "rationale": "The framework requires domestic violence prevention centers to provide or refer victims to counselling and social/psychological evaluation and disposition, which are psychosocial/psychological support services for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Provision or referral of physical and mental treatment, counseling, social and psychological evaluation and disposition for the victims and the children, youth or family members who have witnessed domestic violence and who need these services.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious or spiritual counselling, faith-based guidance, pastoral care, or religious institutions/leaders providing support to victims.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "The municipal and county (city) competent authorities may issue the following subsidies to the victims of domestic violence:\n4. Accommodation costs and housing rental.\nThe labor competent authority shall provide preparatory employment or supporting employment services to the victims of domestic violence who wish to be employed but who do not have sufficient working capabilities.",
+      "rationale": "The framework provides longer-term support measures for victims, including subsidies (e.g., accommodation costs and housing rental) and employment-related support services, which support recovery and reintegration beyond immediate emergency protection.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "The municipal and county (city) competent authorities may issue the following subsidies to the victims of domestic violence:\n\n4. Accommodation costs and housing rental.\n\nThe labor competent authority shall provide preparatory employment or supporting employment services to the victims of domestic violence who wish to be employed but who do not have sufficient working capabilities.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "The central health competent authority shall establish the regulations regarding domestic violence offender treatment programs, including the following:\nThe Ministry of Justice shall establish and enforce disposition programs for sentenced persons who have committed offenses of domestic violence or who have breached protection orders.\n10. Order the opposite party to complete an offender treatment program.",
+      "rationale": "The framework establishes domestic violence offender treatment programs (with regulations to be established by the central health authority), provides for disposition programs for sentenced persons, and authorizes courts to order completion of an offender treatment program, collectively constituting perpetrator-focused intervention/rehabilitation programming.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "The central health competent authority shall establish the regulations regarding domestic violence offender treatment programs, including the following:\n\nThe Ministry of Justice shall establish and enforce disposition programs for sentenced persons who have committed offenses of domestic violence or who have breached protection orders.\n\n10. Order the opposite party to complete an offender treatment program.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "3. Education competent authority: Education of prevention against domestic violence in all levels of schools, assistance measures for children and youths who have witnessed domestic violence, protection of the interest of victims of domestic violence, the education rights of their children and other related matters.\nThe municipal and county (city) competent authorities shall provide medical institutions, public and private elementary schools and household registration authorities with information about domestic violence prevention so that the medical institutions, public and private elementary schools and household registration authorities can provide such relevant information to parents of newborns, parents of new students registering with elementary schools, persons of marriage registration or birth registration.",
+      "rationale": "The cited provisions explicitly require education and provision of information specifically on domestic violence prevention (a form of VAW/GBV within the scope of the Act), including school-based prevention education and dissemination of domestic violence prevention information to parents and registrants. These are operative prevention-related information/education measures, not merely general education or a preambular reference.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Education competent authority: Education of prevention against domestic violence in all levels of schools, assistance measures for children and youths who have witnessed domestic violence, protection of the interest of victims of domestic violence, the education rights of their children and other related matters.\n\nThe municipal and county (city) competent authorities shall provide medical institutions, public and private elementary schools and household registration authorities with information about domestic violence prevention so that the medical institutions, public and private elementary schools and household registration authorities can provide such relevant information to parents of newborns, parents of new students registering with elementary schools, persons of marriage registration or birth registration.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on domestic violence prevention education, training, and information, but do not explicitly require or provide information/education/awareness activities specifically about gender equality or women’s rights, nor do they explicitly link such gender-equality education to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes providing victims written materials about their rights, remedies, and services and police informing victims of rights/remedies, it does not specify dissemination or education about laws, regulations, or policies concerning violence against women/domestic violence as such (i.e., legal-awareness about the legal framework itself). The provisions are framed as victim information/service materials rather than public/legal education about VAW laws and policies.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "High schools or lower level schools should have at least 4 hours of domestic violence prevention courses every school year.",
+      "rationale": "The framework explicitly mandates school-based domestic violence prevention courses (a formal education/curriculum measure) as part of prevention, thereby identifying educational institutions/curricula as a prevention measure.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "High schools or lower level schools should have at least 4 hours of domestic violence prevention courses every school year.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide general domestic violence prevention education/training and offender treatment programming, but do not explicitly establish prevention activities that target or engage men and boys (e.g., positive masculinity or gender-norm change programmes) as a primary prevention strategy for violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "To perform the activities under the previous paragraph, the central competent authority should invite (assign) scholars and experts and representatives of private organizations and relevant authorities to provide advice.\nThe municipal or county (city) competent authority shall establish or mandate a private organization to establish a service location to handle domestic violence cases in the local district court.",
+      "rationale": "The policy includes operative provisions requiring/authorising engagement with non-governmental/private organisations in domestic violence work, including inviting representatives of private organizations to provide advice and allowing local authorities to establish or mandate a private organization to run a service location handling domestic violence cases in court.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "To perform the activities under the previous paragraph, the central competent authority should invite (assign) scholars and experts and representatives of private organizations and relevant authorities to provide advice.\n\nThe municipal or county (city) competent authority shall establish or mandate a private organization to establish a service location to handle domestic violence cases in the local district court.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention religious organisations/leaders or traditional/cultural organisations/leaders as partners or participants in domestic violence/VAW prevention or response. A reference to respecting diversified cultures does not establish engagement with religious/traditional actors.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "The municipal and county (city) competent authorities shall provide medical institutions, public and private elementary schools and household registration authorities with information about domestic violence prevention so that the medical institutions, public and private elementary schools and household registration authorities can provide such relevant information to parents of newborns, parents of new students registering with elementary schools, persons of marriage registration or birth registration.",
+      "rationale": "The policy assigns a role to public and private elementary schools in disseminating domestic violence prevention information (schools receive information from authorities so they can provide it to parents), which constitutes an operative collaboration mechanism involving education institutions in prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "The municipal and county (city) competent authorities shall provide medical institutions, public and private elementary schools and household registration authorities with information about domestic violence prevention so that the medical institutions, public and private elementary schools and household registration authorities can provide such relevant information to parents of newborns, parents of new students registering with elementary schools, persons of marriage registration or birth registration.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish or mention cooperation with international organisations regarding domestic violence/VAW. The provisions shown focus on domestic authorities and institutions without any international collaboration mechanism.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences regulate media reporting (e.g., prohibiting identifying victims and imposing fines) but do not establish or require engagement/collaboration with media actors for prevention, awareness-raising, or response. Regulation alone is excluded by the coding rules.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include reporting duties and institutional coordination, but they do not establish community/public participation or mobilisation mechanisms. Provisions about schools/medical institutions providing information to parents are institutional dissemination measures, not community participation as partners, and reporting obligations should not be inferred as community engagement under the rules.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions “public and private institutions” and allows mandating a private organization for a court service location, the candidate sentences do not specifically establish engagement with businesses/employers/private-sector actors as such in VAW prevention/response. The private-organization references are more consistent with NGO/civil society service provision than private-sector/business collaboration.",
+      "coverage": null,
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited funding provision lists a generic \"government budget allocation\" as a source for a fund established by the central competent authority, but it does not explicitly specify local/municipal/county government budget as a funding source. Other cited sentences describe municipal/county authorities providing subsidies and services, but do not identify local government budgets as the funding source.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "To reinforce the promotion of work related to the prevention of domestic violence and sexual assault, the central competent authority shall establish a fund.\n1. Government budget allocation.",
+      "rationale": "The policy establishes a fund by the central competent authority and explicitly lists \"Government budget allocation\" as a source of that fund, which constitutes national-level government budget support.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "To reinforce the promotion of work related to the prevention of domestic violence and sexual assault, the central competent authority shall establish a fund.\n\n1. Government budget allocation.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences list domestic funding sources (government budget allocation, payments, profits, donations, fines, other income) and describe domestic institutions and authorities. There is no explicit mention of international assistance, donors, UN agencies, foreign governments, or other international support mechanisms.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "2. Payment for deferred prosecution.\n3. Payment for plea bargaining.\n6. Fines imposed in accordance with this Act.\n5. Donations.\n4. Profit from the fund.\n7. Other relevant sources of income.",
+      "rationale": "Beyond government budget allocation, the policy explicitly identifies multiple non-budget legal/administrative revenue sources for the fund (e.g., payments tied to prosecution outcomes, fines under the Act, donations, profits from the fund, and other relevant income), which qualifies as other legal sources of funding.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Payment for deferred prosecution.\n\n3. Payment for plea bargaining.\n\n6. Fines imposed in accordance with this Act.\n\n5. Donations.\n\n4. Profit from the fund.\n\n7. Other relevant sources of income.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences refer to a central competent authority fund supported by \"government budget allocation\" and other sources, and they reference municipal/county authorities, but there is no explicit mention of a provincial government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 27,
+    "resolved": 27,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,969 @@
+{
+  "policy_file": "143. San Marino - DomViol - Italian (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:58:51.332842+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(Protection orders against domestic abuse)\nThe Judge orders the spouse or cohabitant who has engaged in the prejudicial conduct to cease such conduct, and orders the removal from the family home of the spouse or cohabitant who has engaged in the prejudicial conduct, also prescribing, where necessary, that they not approach places habitually frequented by the applicant, and in particular the workplace, the domicile of the family of origin, or the domicile of other close relatives or other persons and in proximity to the places of education of the couple's children, unless they must frequent the same places for work requirements.",
+      "rationale": "The framework contains operative provisions specifically on domestic abuse, including judicially ordered protection orders (e.g., cessation of conduct, removal from the family home, and non-approach requirements), which constitutes substantive legal coverage of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Ordini di protezione contro gli abusi familiari)\n\nIl Giudice ordina al coniuge o convivente che ha tenuto la condotta pregiudizievole, la cessazione della stessa condotta, e dispone l’allontanamento dalla casa familiare del coniuge o del convivente che ha tenuto la condotta pregiudizievole prescrivendogli altresì, ove occorra, di non avvicinarsi ai luoghi abitualmente frequentati dall’istante, ed in particolare al luogo di lavoro, al domicilio della famiglia d’origine, ovvero al domicilio di altri prossimi congiunti o di altre persone ed in prossimità dei luoghi di istruzione dei figli della coppia, salvo che questi non debba frequentare i medesimi luoghi per esigenze di lavoro.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Group sexual violence\nWhoever commits acts of group sexual violence is punished with fourth degree imprisonment and a fine.",
+      "rationale": "The framework includes operative criminal provisions addressing sexual violence, including an offense of group sexual violence with specified punishment, which is substantive legal coverage of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "Violenza sessuale di gruppo\n\nChiunque commette atti di violenza sessuale di gruppo è punito con la prigionia di quarto grado e con la multa.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Any act of violence based on sex or gender that causes or is likely to cause physical, sexual or psychological harm or suffering to the victim constitutes violence against a person, including the threat of such acts, coercion, arbitrary deprivation of liberty, whether in public or private life.",
+      "rationale": "The operative definition of violence against women explicitly includes acts causing or likely to cause physical harm or suffering, which substantively covers physical violence within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "Costituisce violenza nei confronti della persona ogni atto di violenza fondato sull’appartenenza sessuale che comporta o è suscettibile di comportare, per chi ne è bersaglio, danni o sofferenze di natura fisica, sessuale o psicologica, ivi compresa la minaccia di mettere in atto tali atti, la coercizione, la privazione arbitraria della libertà, sia nella vita pubblica che nella vita privata.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Any act of violence based on sex or gender that causes or is likely to cause physical, sexual or psychological harm or suffering to the victim constitutes violence against a person, including the threat of such acts, coercion, arbitrary deprivation of liberty, whether in public or private life.",
+      "rationale": "The operative definition of violence against women explicitly includes acts causing or likely to cause psychological harm or suffering, which substantively covers psychological violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "Costituisce violenza nei confronti della persona ogni atto di violenza fondato sull’appartenenza sessuale che comporta o è suscettibile di comportare, per chi ne è bersaglio, danni o sofferenze di natura fisica, sessuale o psicologica, ivi compresa la minaccia di mettere in atto tali atti, la coercizione, la privazione arbitraria della libertà, sia nella vita pubblica che nella vita privata.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define violence against women in terms of physical, sexual, or psychological harm and include trafficking/slavery provisions, but they do not identify economic violence/abuse, deprivation of economic resources, or neglect as a form of violence against women with legal consequences.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "\"When the injury has resulted in abortion, danger to life, illness cured after more than sixty days or incurable, permanent disfigurement of the face, loss or significant weakening of a sense, an organ or its functionality, or the loss of the ability to procreate, or genital mutilation, even if inflicted for religious reasons, imprisonment and disqualification of the third degree shall apply.",
+      "rationale": "The framework includes an operative provision addressing genital mutilation (including when inflicted for religious reasons) as an aggravating circumstance for personal injury, which is a harmful practice affecting women and girls and is substantively regulated.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "“Quando dalla lesione è derivato come evento aborto, pericolo di vita, malattia guarita oltre i sessanta giorni o insanabile, sfregio permanente del viso, perdita o notevole indebolimento di un senso, di un organo o della sua funzionalità ovvero la perdita della capacità di procreare, o la mutilazione genitale, anche se inferta per motivi religiosi, si applicano la prigionia e l’interdizione di terzo grado.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide or gender-motivated killing of women as such, nor do they establish a femicide-specific offense, aggravating factor explicitly tied to femicide, or a femicide monitoring/prevention mechanism.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "\"Trafficking in persons\nWhoever commits trafficking or otherwise trades in a person who is in the conditions referred to in Article 167, or, in order to reduce or maintain a person in slavery or servitude, induces them by deception or coerces them by violence, threat, abuse of authority or exploitation of a situation of physical or mental inferiority or a situation of necessity, or by promise or giving of sums of money or other advantages to the person who has authority over them, to enter or stay or leave the territory of the State or to move within it, is punished with sixth degree imprisonment and fourth degree interdiction.",
+      "rationale": "The framework contains an operative criminal provision titled and defining/punishing “Trafficking in persons,” establishing substantive legal coverage of human trafficking.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "“Tratta di persone\n\nChiunque commette tratta o fa altrimenti commercio di persona che si trova nelle condizioni di cui all’articolo 167, ovvero, al fine di ridurre o mantenere una persona in schiavitù o servitù, la induce mediante inganno o la costringe mediante violenza, minaccia, abuso d’autorità o approfittamento di una situazione di inferiorità fisica o psichica o di una situazione di necessità, o mediante promessa o dazione di somme di denaro o di altri vantaggi alla persona che su di essa ha autorità, a fare ingresso o a soggiornare o a uscire dal territorio dello Stato o a trasferirsi al suo interno, è punito con la prigionia di sesto grado e con l’interdizione di quarto grado.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Anyone who exercises over a person powers corresponding to those of property rights or anyone who reduces or maintains a person in a state of continuous subjection, forcing them to provide work or sexual services or to beg or in any case services that involve their exploitation, shall be punished with imprisonment of the fifth degree and disqualification of the fourth degree.\nThe penalty is increased by one degree if the acts referred to in the first paragraph are committed against a minor under eighteen years of age or are aimed at the exploitation of prostitution or for the purpose of subjecting the victim to organ removal.",
+      "rationale": "The operative slavery/servitude provision explicitly covers forcing a person to provide sexual services and includes conduct aimed at exploitation of prostitution, which substantively addresses sexual exploitation/sexual slavery.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Chiunque esercita su una persona poteri corrispondenti a quelli del diritto di proprietà ovvero chiunque riduce o mantiene una persona in uno stato di soggezione continuativa, costringendola a prestazioni lavorative o sessuali ovvero all’accattonaggio o comunque a prestazioni che ne comportano lo sfruttamento, è punito con la prigionia di quinto grado e con l’interdizione di quarto grado.\n\nLa pena è aumentata di un grado se i fatti di cui al primo comma sono commessi in danno di minore degli anni diciotto o sono diretti allo sfruttamento della prostituzione o al fine di sottoporre la persona offesa al prelievo di organi.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address stalking/harassment generally, privacy protections, and media/discriminatory communications, but they do not recognize or criminalize cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) as such.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Whoever repeatedly harasses or threatens a person in such a way as to cause them serious moral suffering and harm to their dignity, to the point of disturbing their normal living conditions or placing them in a state of subjection or serious physical or mental distress, or justified fear for the personal safety of themselves or others connected to them by stable emotional relationships, is punished, upon complaint by the victim, with first degree imprisonment and a fine.\nWhoever commits acts of group sexual violence is punished with fourth degree imprisonment and a fine.\nWhoever inflicts ill-treatment on a family member or cohabitant in any case, or on a person subject to their authority or entrusted to them, is punished with second degree imprisonment.",
+      "rationale": "The candidate sentences amend the Penal Code to define specific forms of violence (e.g., persecutory acts/stalking, group sexual violence, and ill-treatment of family members/cohabitants) and explicitly attach criminal sanctions including imprisonment and fines, satisfying the requirement for criminal penalties for acts of violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "E’ punito con la prigionia di primo grado e con la multa chiunque ripetutamente molesta o minaccia una persona in modo da arrecarle gravi sofferenze morali e danno alla propria dignità, fino a turbare le sue normali condizioni di vita o metterla in uno stato di soggezione o di grave disagio fisico o psichico, o di giustificato timore per la sicurezza personale propria o di altri a lei legati da stabili rapporti affettivi, è punito, a querela della persona offesa, con la prigionia di primo grado e la multa.\n\nChiunque commette atti di violenza sessuale di gruppo è punito con la prigionia di quarto grado e con la multa.\n\nChiunque usa maltrattamenti ad una persona della famiglia o comunque convivente, o ad una persona sottoposta alla sua autorità o a lui affidata, è punito con la prigionia di secondo grado.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "The Judge orders the spouse or cohabitant who has engaged in the prejudicial conduct to cease such conduct, and orders the removal from the family home of the spouse or cohabitant who has engaged in the prejudicial conduct, also prescribing, where necessary, that they not approach places habitually frequented by the applicant, and in particular the workplace, the domicile of the family of origin, or the domicile of other close relatives or other persons and in proximity to the places of education of the couple's children, unless they must frequent the same places for work requirements.\nBy the same decree, the Judge, in the cases referred to in the preceding paragraphs, establishes the duration of the protection order, which runs from the day of its execution.\nThis cannot exceed six months and may be extended, upon application of a party, only if serious reasons exist for the time strictly necessary.\nThe application may also be filed by the party personally.\nThe Commissario della Legge, having heard the parties, proceeds in the manner deemed most appropriate to the necessary evidentiary acts, acquiring, also ex officio, all appropriate information, and issues an immediately enforceable reasoned decree.\nIn cases of urgency, the Judge, having obtained, where necessary, summary information, may immediately adopt the protection order, setting the hearing for the appearance of the parties before them within a period not exceeding fifteen days.",
+      "rationale": "The text establishes protection orders against domestic abuse, identifies the issuing authority (the Judge), specifies duration (up to six months with possible extension), and provides an application/process framework (application may be filed personally; decree issued and urgent interim orders with a hearing within 15 days). However, within the provided candidate sentences for this criterion, there is no explicit defined consequence for breach of the protection order, which is required for substantive coding under the rules.",
+      "coverage": "Referenced only",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "Il Giudice ordina al coniuge o convivente che ha tenuto la condotta pregiudizievole, la cessazione della stessa condotta, e dispone l’allontanamento dalla casa familiare del coniuge o del convivente che ha tenuto la condotta pregiudizievole prescrivendogli altresì, ove occorra, di non avvicinarsi ai luoghi abitualmente frequentati dall’istante, ed in particolare al luogo di lavoro, al domicilio della famiglia d’origine, ovvero al domicilio di altri prossimi congiunti o di altre persone ed in prossimità dei luoghi di istruzione dei figli della coppia, salvo che questi non debba frequentare i medesimi luoghi per esigenze di lavoro.\n\nCon il medesimo decreto il Giudice, nei casi di cui ai precedenti commi, stabilisce la durata dell’ordine di protezione, che decorre dal giorno dell’avvenuta esecuzione dello stesso.\n\nQuesta non può essere superiore a sei mesi e può essere prorogata, su istanza di parte, soltanto se ricorrano gravi motivi per il tempo strettamente necessario.\n\nL’istanza è proposta anche dalla parte personalmente.\n\nIl Commissario della Legge, sentite le parti, procede nel modo che ritiene più opportuno agli atti di istruzione necessari, acquisendo, anche d’ufficio, ogni opportuna informazione, e provvede con decreto motivato immediatamente esecutivo.\n\nNei casi di urgenza, il Giudice, assunte, ove sia necessario, sommarie informazioni, può adottare immediatamente l’ordine di protezione, fissando l’udienza di comparizione delle parti davanti a sé entro un termine non superiore a quindici giorni.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police obligations to intervene and inform victims of rights and refer generally to services with specialised personnel and training for police, but they do not designate or mandate a specific specialised unit/desk/division within police services dedicated to handling VAW cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "g) specific training for judges to whom the judicial proceedings referred to in this law are assigned and for the Police Forces.",
+      "rationale": "The candidate sentences include an operative provision ensuring “specific training for judges” assigned to proceedings under the law, which constitutes a specialised judicial mechanism (designated trained judges for these cases) under the coding rules, even though it does not create a separate court/chamber.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "g) la formazione specifica dei giudici ai quali sono affidati i procedimenti giudiziari di cui alla presente legge e delle Forze dell’Ordine.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references sexual offences and includes an aggravating circumstance when an offence is committed by a spouse/cohabitant, it does not expressly state that rape/sexual assault applies within marriage or remove any spousal exemption from liability. Under the coding rules, marital rape cannot be inferred from general sexual-offence provisions or relationship-based aggravation alone.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "For all interventions, a specific report must be drawn up, which must be transmitted to the Command of the Gendarmeria and to the Neuropsychiatric Service.\nThe data thus collected are transmitted to the Authority for Equal Opportunities and are also available to the Civil Judge requested to issue protection orders.",
+      "rationale": "The framework sets out a multi-agency information-sharing/reporting process in which reports are transmitted between multiple institutions (e.g., Police Forces, Command of the Gendarmeria, Neuropsychiatric Service, and the Authority for Equal Opportunities), indicating an operative coordination mechanism across agencies for response/protection.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "Per tutti gli interventi deve essere redatto apposito verbale, che dovrà essere trasmesso al Comando della Gendarmeria e al Servizio Neuropsichiatrico.\n\nI dati così raccolti sono trasmessi all’Authority per le Pari Opportunità e sono a disposizione anche del Giudice Civile richiesto di emanare ordini di protezione.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "The Authority for Equal Opportunities provides for the collection of data relating to violence against women and gender-based violence on a half-yearly basis.\nThe Authority for Equal Opportunities draws up an annual report that must be publicly disseminated.",
+      "rationale": "The framework explicitly assigns the Authority for Equal Opportunities responsibility to collect data on violence against women and gender-based violence and to produce a publicly disseminated annual report, which meets the requirement to establish/assign responsibility for data collection and reporting.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "L’Authority per le Pari Opportunità provvede alla raccolta dei dati relativi alla violenza contro le donne e di genere con cadenza semestrale.\n\nL’Authority per le Pari Opportunità redige annualmente apposito rapporto che deve essere pubblicamente diffuso.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference violence against women objectives and equality-related bodies/functions, but do not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming in planning/budgeting/service delivery, or a mainstreaming focal point/working group).",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "g) specific training for judges to whom the judicial proceedings referred to in this law are assigned and for the Police Forces.\nThe Order of Lawyers and Notaries shall provide permanent and specific training for those enrolled in the list, organizing interdisciplinary training courses.",
+      "rationale": "The framework provides for training of implementing/legal actors, including specific training for judges and police forces and permanent/specific training for lawyers enrolled to assist victims, satisfying an explicit training/capacity-building provision for personnel involved in implementation and service delivery.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "g) la formazione specifica dei giudici ai quali sono affidati i procedimenti giudiziari di cui alla presente legge e delle Forze dell’Ordine.\n\nL’Ordine degli Avvocati e Notai cura la formazione permanente e specifica degli iscritti nell’elenco, organizzando corsi di formazione interdisciplinare.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Authority for Equal Opportunities provides for the collection of data relating to violence against women and gender-based violence on a half-yearly basis.\nThe Authority for Equal Opportunities draws up an annual report that must be publicly disseminated.",
+      "rationale": "While the text does not use the phrase “monitoring and evaluation,” it establishes an implementation-relevant reporting mechanism: the Authority for Equal Opportunities must collect data on violence and produce an annual public report, which functions as a formal monitoring/reporting requirement tied to the framework’s implementation context.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "L’Authority per le Pari Opportunità provvede alla raccolta dei dati relativi alla violenza contro le donne e di genere con cadenza semestrale.\n\nL’Authority per le Pari Opportunità redige annualmente apposito rapporto che deve essere pubblicamente diffuso.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe services and some state-covered legal assistance costs, but they do not create a binding requirement to allocate a budget or establish a dedicated funding mechanism/source for implementing violence against women prevention/response.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe multiple forms of assistance (information, social services, psychological support, legal assistance, protection orders) and refer to the existence/organisation of services, but they do not explicitly establish, mandate, or recognise a designated integrated/one-stop/multidisciplinary service mechanism or institutional coordination mechanism for women victims/survivors of violence as such.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "When the victim of violence or third parties who witnessed the fact report the violence to the Police Forces, they must intervene immediately, and in any case no later than one hour from the report, unless serious reasons exist.",
+      "rationale": "The framework provides an operative mechanism for victims (or witnesses) to report violence to the Police Forces, triggering mandatory immediate intervention, which constitutes a designated reporting/help-seeking channel for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Qualora la vittima di violenza o terzi che hanno assistito al fatto, segnalino alle Forze dell’Ordine la violenza, queste devono intervenire immediatamente, e comunque non oltre un’ora dalla segnalazione, salvo che non sussistano gravi ragioni.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "e) in the most serious cases, where remaining in the family is harmful, the placement of victims in family-type communities for a period sufficient to implement a social reintegration project;",
+      "rationale": "The framework provides for placement of victims in “family-type communities” when remaining in the family is harmful, which functions as a form of residential protection/safe accommodation for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) nei casi più gravi, nei quali sia nociva la permanenza in famiglia, l’inserimento delle vittime in comunità di tipo familiare per un periodo sufficiente a realizzare un progetto di reinserimento sociale;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "In all civil, criminal or administrative proceedings, the victim of violence is ensured legal assistance, even outside the conditions for legal aid, when they are not objectively able to provide for their own procedural defense.\nLegal assistance is free of charge.",
+      "rationale": "The framework expressly ensures legal assistance to victims of violence in proceedings and specifies that such legal assistance is free of charge, establishing an operative entitlement/service for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "In tutti i procedimenti, civili, penali o amministrativi, alla vittima della violenza, è assicurata l’assistenza legale, anche al di fuori delle condizioni per il gratuito patrocinio, quando non è obiettivamente in grado di provvedere alla propria difesa processuale.\n\nL’assistenza legale è gratuita.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences include reporting obligations for health professionals and general victim assistance measures, but they do not establish or require provision of medical examination, treatment, emergency care, forensic medical services, or other health services specifically for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "c) that the services are able to perform emergency intervention functions, including psychological support, and subsequent medium-term management of situations, also for the purpose of family reunification;\nWhen proceeding for offences against personal safety, personal freedom or for maltreatment committed to the detriment of the person, psychological support to the victim by experts must be ensured when he/she is heard as a witness or during confrontations with the suspect or with other witnesses.",
+      "rationale": "The framework requires that victim services be able to perform emergency intervention functions including psychological support, and separately mandates psychological support by experts for victims during key stages of criminal proceedings (e.g., when heard as a witness), constituting psychosocial/psychological support services for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) che i servizi siano in grado di svolgere funzioni di pronto intervento anche psicologico e di successiva presa in carico delle situazioni a medio termine, anche ai fini della ricomposizione familiare;\n\nQualora si proceda per misfatti contro la incolumità personale, la libertà personale o per maltrattamenti compiuti in danno della persona, deve essere assicurato il sostegno psicologico alla vittima da parte di esperti quando la stessa viene ascoltata quale testimone ovvero durante i confronti con l’indiziato o con altri testimoni.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "d) the provision of measures for social support, protection, support for education, training and professional integration;\nf) the preparation of protection and social reintegration programmes for the victim of violence, where necessary, including meeting housing needs and maintaining the residence permit, should it expire during the proceedings, at least for the duration of the criminal trial, professional reintegration and the needs for care and support of dependent children.",
+      "rationale": "The framework provides longer-term recovery/reintegration support measures for victims, including support for education, training and professional integration, and preparation of protection and social reintegration programmes (including housing needs and related supports).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) la previsione di azioni di sostegno sociale, di protezione, di supporto all’istruzione, alla formazione e all’inserimento professionale;\n\nf) la predisposizione di programmi di protezione e di reinserimento sociale della vittima della violenza, qualora siano necessari, ivi compreso il soddisfacimento delle esigenze di alloggio ed il mantenimento del permesso di soggiorno, qualora nelle more del giudizio venisse a scadere, almeno per la durata del processo penale, il reinserimento professionale e le esigenze di cura e di sostegno dei figli a carico.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "Probation to social services of those convicted for acts of sexual or family violence, in cases where it is permitted by law, may take place only if accompanied by the participation of the convicted person in a specific rehabilitation program.",
+      "rationale": "The framework provides a perpetrator-focused rehabilitation requirement by conditioning probation to social services for those convicted of sexual or family violence on participation in a specific rehabilitation program.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "L’affidamento in prova al servizio sociale dei condannati per fatti di violenza sessuale o familiare, nei casi in cui sia consentito dalla legge, può avere luogo solo se accompagnato dalla partecipazione del condannato ad un programma di riabilitazione specifico.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include an objective to prevent and combat violence against women and a chapter heading referencing awareness-raising and prevention, but they do not contain an operative provision requiring public information/awareness/education activities specifically about VAW as a primary prevention measure. The only explicit \"information\" provision shown concerns informing victims about legal measures and services (a response/assistance measure), not public prevention-oriented awareness/education about VAW.",
+      "coverage": null,
+      "confidence": 0.63,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.63
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text requires mass media to promote equality between men and women and avoid discrimination, but it does not establish an information/education/awareness activity about gender equality or women's rights that is explicitly linked to preventing violence against women, as required by the coding rules. Other passages relate to victim assistance or procedures rather than prevention education on gender equality.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only relevant information provision shown is that the State ensures victims receive information on legal measures for protection and assistance; this is not framed as a primary prevention activity disseminating VAW laws/policies to the public or communities. No operative prevention-oriented dissemination/awareness of VAW laws and policies is included in the candidate sentences.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention teachers only in the context of mandatory reporting, and mention \"support for education\" as part of victim assistance. There is no explicit identification of education systems, curricula, or educational institutions as a primary prevention measure for violence against women, nor any requirement for schools/education authorities to implement VAW-prevention education.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish prevention activities that specifically engage men or boys (e.g., programmes/campaigns targeting men/boys, masculinity or gender-norm change) to prevent violence against women. The provisions shown focus on definitions, victim assistance, reporting, protective measures, and media non-discrimination obligations without male/boy-targeted engagement.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "the intervention of social services or a family mediation center, as well as associations whose statutory purpose is the support and reception of women and minors or other victims of abuse and mistreatment;",
+      "rationale": "The framework provides an operative provision allowing the judge to order the intervention of associations whose statutory purpose is supporting and receiving women/minors/other victims of abuse, which constitutes formal participation of civil society organisations in response measures for violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "l’intervento dei servizi sociali o di un centro di mediazione familiare, nonché delle associazioni che abbiano come fine statutario il sostegno e l’accoglienza di donne e minori o di altri soggetti vittime di abusi e maltrattati;",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require any cooperation or engagement with religious organisations/leaders or traditional/cultural organisations/leaders in relation to preventing or responding to violence against women; the only religion-related reference concerns aggravating circumstances for injury inflicted for religious reasons, which is not an engagement mechanism.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Teachers of any order and level are required to promptly report to the Minors Service the facts referred to in the above paragraph of which they have become aware.",
+      "rationale": "The framework assigns teachers a specific responsibility to report known facts of violence, which directly involves actors within education institutions in the response system for violence against women/minors/gender-based violence.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Gli insegnanti di qualsiasi ordine e grado sono tenuti a segnalare tempestivamente al Servizio Minori i fatti di cui al comma superiore di cui sono venuti a conoscenza.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention cooperation, technical assistance, joint programmes, or any other collaboration mechanism with international organisations regarding violence against women; the text shown focuses on domestic institutions and procedures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "The mass media must promote the protection and safeguarding of equality between men and women and must avoid any discrimination between them.",
+      "rationale": "The framework contains an operative provision assigning the mass media a role in promoting equality and avoiding discrimination, which constitutes a mandated media responsibility linked to prevention-oriented norms relevant to violence against women and gender-based discrimination.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "I mezzi di comunicazione sociale devono promuovere la protezione e la tutela dell’uguaglianza tra uomini e donne e devono evitare ogni discriminazione tra loro.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish community/public participation mechanisms for VAW prevention/response. While the text allows “anyone having an interest” to notify the Authority for Equal Opportunities regarding discriminatory communications, and includes reporting duties for professionals, the coding rules specify not to infer community engagement merely from reporting/compliance-type provisions, and there is no explicit community mobilisation/participation framework shown.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require cooperation with businesses or employers as private-sector partners in VAW prevention/response. References to “private” health professionals concern reporting obligations, and employer involvement appears only as a mechanism for wage deduction to pay an allowance, not as private-sector engagement in VAW measures under the criterion’s rules.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention local/municipal government budgets or local government funding sources. The only explicit funding reference is to the State advancing expenses, which is national-level, not local.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "The State shall advance the expenses necessary for the performance of or participation in procedural acts, including judicial expert reports, necessary for the protection of the victim of violence.",
+      "rationale": "The policy explicitly assigns financial responsibility to the State by stating that the State will advance necessary expenses for procedural acts to protect victims, which constitutes national government funding support.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Lo Stato anticipa le spese necessarie per il compimento o per la partecipazione ad atti processuali, ivi comprese le perizie giudiziali, necessarie per la tutela della vittima della violenza.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no explicit mention of international assistance, donors, UN agencies, foreign governments, or other international organizations/partnerships supporting implementation or funding. References are to domestic institutions and the State.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "The lawyer, however, is entitled to payment of fees at the expense of the guilty party or the person who committed the act, when the violence has been ascertained by final civil or criminal judgment or results from the acts by a specific declaration issued in adversarial proceedings by the Judge ordering the dismissal of the criminal proceedings or the civil case, or when protection orders have been issued against them.",
+      "rationale": "The policy specifies that legal assistance fees are to be paid at the expense of the guilty party/person who committed the act, which is a non-governmental funding source (i.e., not a government budget) and thus fits 'other legal sources'.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "L’avvocato, tuttavia, ha diritto al pagamento degli onorari a carico del colpevole o di colui che ha posto in essere il fatto, quando la violenza sia stata accertata con sentenza definitiva civile o penale ovvero risulti dagli atti per apposita dichiarazione emessa in contraddittorio dal Giudice che dispone l’archiviazione del procedimento penale o della causa civile, ovvero quando siano stati emessi gli ordini di protezione a suo carico.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences refer to provincial/regional government budgets or provincial funding sources. Funding references are framed at the State level or via the guilty party, not provincial authorities.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 25,
+    "resolved": 25,
+    "rate": 1.0
+  }
+}

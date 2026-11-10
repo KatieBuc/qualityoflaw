@@ -34,7 +34,7 @@ translation_qa:
 
 evaluation:
   model: gpt-5.2
-  prompt_version: v4
+  prompt_version: global_v1
   method: rag  # "rag" | "sliding_window"
   # Per-indicator confidence. `logprobs` and `margin` ride along on the
   # evaluation call for free; `verbalized` asks the judge to rate itself and
@@ -50,6 +50,14 @@ evaluation:
     # Azure caps this at 5; a higher value is detected and clamped at runtime
     # rather than costing the run its logprobs.
     top_logprobs: 5
+  # A second answer for the indicators answered Yes: HOW they are covered (the prompt's "Code Yes - Substantive" vs
+  # "Code Yes - Referenced only"). `included` stays Yes / No, so everything that reads it is unchanged; the coverage
+  # is recorded next to it with a confidence of its own (same methods as above), reported separately. The first
+  # label is the highest level (Substantive = 2, Referenced only = 1, No = 0). Off for the Indonesian prompts.
+  # Needs a prompt whose response format asks for `coverage` (global_v1 does).
+  coverage:
+    enabled: true
+    labels: [Substantive, Referenced only]
   sliding_window:
     prompt_version: sliding_window_v1
     window_sentences: 100
@@ -70,6 +78,11 @@ evaluation:
         top_k: 25
       evidence_verification:
         enabled: true
+      # Token budget of one evaluation prompt (a dimension: its criteria, rules and the candidate sentences). A dimension
+      # over the budget is split into two (or more) calls of whole indicators, so no candidate is lost; only an indicator
+      # too long on its own has its lowest-ranked candidates trimmed. Keep it below the model's context limit (272000 for the
+      # current deployment). Whole-section chunks (global) need it; the Indonesian prompts never reach it.
+      max_prompt_tokens: 200000
 
 # Stage 1 (input processing): data/<project>/raw/raw_files (originals) and
 # data/<project>/preprocessed/cleaned_txt (every extracted text; the one folder the later steps read).

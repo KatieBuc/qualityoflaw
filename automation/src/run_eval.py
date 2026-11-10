@@ -3,7 +3,7 @@ import logging
 import threading
 import sys
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable, List, Optional
@@ -18,10 +18,15 @@ from automation.src.config_loader import (
     resolve_mid_product_dir,
     resolve_results_dir,
 )
-from automation.src.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_COUNT, EXPECTED_INDICATOR_IDS
+from automation.src.criteria import (
+    EXPECTED_INDICATOR_IDS,
+    validate_criteria_files,
+    extract_schema_from_prompts,
+    list_criteria_files,
+)
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.confidence import ConfidenceSpec
-from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
+from automation.src.llm.wrapper import AzureLLMWrapper, ContextLengthExceeded, LLMCallError, format_api_error
 from automation.src.policy_files import filter_policy_files
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.embedding_align import AlignerUnavailable, warm_up
@@ -31,9 +36,12 @@ from automation.src.rag.evidence_check import (
     resolve_evidence_source_text,
 )
 from automation.src.rag.prompt_builder import (
+    CHARS_PER_TOKEN,
+    TrimReport,
     build_candidate_lookup,
     build_source_alignment_lookup,
     build_source_text_lookup,
+    cited_candidates,
     format_criteria_list,
     format_criteria_with_candidates,
     parse_criteria_lines,
@@ -66,31 +74,71 @@ class VerbalizedPolicyEvaluationResponse(BaseModel):
     evaluation_results: List[VerbalizedCriterionResult]
 
 
-def response_model_for(confidence: ConfidenceSpec) -> type[BaseModel]:
-    """Pick the response schema for the configured confidence methods.
+# With `evaluation.coverage` on, an indicator answered Yes also says how it is covered. The field is only in the
+# schema when asked for, so runs without it send byte-identical requests to before.
+class CoverageCriterionResult(CriterionResult):
+    coverage: Optional[str] = Field(
+        default=None,
+        description="When included is 'Yes': how the policy covers it, exactly one of the allowed coverage values. Null when included is 'No'.",
+    )
 
-    The verbalized field is only in the schema when it is asked for, so runs
-    without it produce byte-identical requests to before the confidence module
-    existed — the v3 baseline stays comparable.
+
+class CoveragePolicyEvaluationResponse(BaseModel):
+    evaluation_results: List[CoverageCriterionResult]
+
+
+class VerbalizedCoverageCriterionResult(VerbalizedCriterionResult):
+    coverage: Optional[str] = Field(
+        default=None,
+        description="When included is 'Yes': how the policy covers it, exactly one of the allowed coverage values. Null when included is 'No'.",
+    )
+    coverage_self_reported_confidence: Optional[float] = Field(
+        default=None,
+        description="Your confidence that this 'coverage' value is correct, from 0.0 (coin flip) to 1.0 (certain). Null when coverage is null.",
+    )
+
+
+class VerbalizedCoveragePolicyEvaluationResponse(BaseModel):
+    evaluation_results: List[VerbalizedCoverageCriterionResult]
+
+
+def response_model_for(confidence: ConfidenceSpec) -> type[BaseModel]:
+    """Pick the response schema for the configured confidence methods and the coverage answer.
+
+    The verbalized and coverage fields are only in the schema when they are asked for, so runs without them
+    produce byte-identical requests to before the confidence module existed -- the v3 baseline stays comparable.
     """
+    if confidence.has_coverage:
+        if confidence.needs_verbalized:
+            return VerbalizedCoveragePolicyEvaluationResponse
+        return CoveragePolicyEvaluationResponse
     if confidence.needs_verbalized:
         return VerbalizedPolicyEvaluationResponse
     return PolicyEvaluationResponse
 
 
-def validate_completeness(evaluation_results: dict) -> tuple[bool, list[str]]:
+def indicator_ids_in(criteria_dir: Path) -> frozenset[str]:
+    """Every indicator id the criteria files of a prompt version define: what an evaluation must answer."""
+    schema = extract_schema_from_prompts(criteria_dir)
+    return frozenset(indicator_id for indicators in schema.values() for indicator_id in indicators)
+
+
+def validate_completeness(
+    evaluation_results: dict, expected_ids: frozenset[str] | set[str] | None = None
+) -> tuple[bool, list[str]]:
+    """Did the judge answer every indicator? `expected_ids` are the ones in the prompt that was used; without them
+    the active project's schema is the reference."""
+    expected = frozenset(expected_ids) if expected_ids is not None else EXPECTED_INDICATOR_IDS
     found_ids = set(evaluation_results.keys())
-    missing = sorted(EXPECTED_INDICATOR_IDS - found_ids)
-    extra = sorted(found_ids - set(EXPECTED_INDICATOR_IDS))
+    missing = sorted(expected - found_ids)
+    extra = sorted(found_ids - expected)
     issues: list[str] = []
     if missing:
         issues.append(f"Missing indicators ({len(missing)}): {', '.join(missing)}")
     if extra:
         issues.append(f"Unexpected indicators ({len(extra)}): {', '.join(extra)}")
-    if len(found_ids) != EXPECTED_INDICATOR_COUNT:
-        issues.append(
-            f"Expected {EXPECTED_INDICATOR_COUNT} indicators, found {len(found_ids)}"
-        )
+    if len(found_ids) != len(expected):
+        issues.append(f"Expected {len(expected)} indicators, found {len(found_ids)}")
     return len(issues) == 0, issues
 
 
@@ -109,9 +157,10 @@ def finalize_and_save_report(
     output_folder: str,
     deployment_name: str,
     allow_partial: bool,
+    expected_ids: frozenset[str] | None = None,
 ) -> tuple[bool, str | None]:
     is_complete, completeness_issues = validate_completeness(
-        final_report["evaluation_results"]
+        final_report["evaluation_results"], expected_ids
     )
     has_failures = bool(final_report["failed_dimensions"])
 
@@ -148,6 +197,10 @@ class DimensionResult:
     error: str | None = None
     error_type: str | None = None
     error_details: dict | None = None
+    #: How many model calls the dimension took: 1 unless its prompt was too long for one (see `_judge_in_parts`).
+    prompt_parts: int = 1
+    #: What had to be left out of the prompt of an indicator that was too long even alone (see `TrimReport`).
+    prompt_trim: dict | None = None
 
 
 def _has_eval_report(output_dir: Path, policy_name: str) -> bool:
@@ -209,6 +262,109 @@ def _failure_entry_from_report(final_report: dict) -> dict:
     }
 
 
+#: A prompt that is refused as too long is rebuilt smaller at most this many times (for one indicator that cannot be split).
+_MAX_SHRINKS = 2
+
+
+@dataclass
+class _Judged:
+    batch_evals: dict
+    calls: int = 0
+    trim: TrimReport = field(default_factory=TrimReport)
+
+    def absorb(self, other: "_Judged") -> None:
+        self.batch_evals.update(other.batch_evals)
+        self.calls += other.calls
+        self.trim.dropped_candidates += other.trim.dropped_candidates
+        self.trim.truncated_candidates += other.trim.truncated_candidates
+        self.trim.dropped_sentences += other.trim.dropped_sentences
+        self.trim.indicators.extend(other.trim.indicators)
+
+
+def _split_in_two(rows: list, weights: dict[str, int]) -> tuple[list, list]:
+    """Two runs of consecutive indicators whose prompts weigh about the same (never an empty side)."""
+    total = sum(weights[row.id] for row in rows)
+    best_index, best_gap, running = 1, None, 0
+    for index in range(1, len(rows)):
+        running += weights[rows[index - 1].id]
+        gap = abs(total - 2 * running)
+        if best_gap is None or gap < best_gap:
+            best_index, best_gap = index, gap
+    return rows[:best_index], rows[best_index:]
+
+
+def _judge_in_parts(
+    criteria_rows: list,
+    candidates_by_id: dict[str, list[RetrievedChunk]],
+    template_text: str,
+    complete_fn: Callable[[str], dict],
+    max_prompt_tokens: int,
+    label: str = "",
+) -> _Judged:
+    """Ask the judge about a dimension's indicators, in as few calls as fit the model's context.
+
+    One call normally carries the whole dimension. When its prompt would exceed `max_prompt_tokens` -- or the model
+    refuses it as too long anyway -- the indicators are split into two runs (balanced by prompt size) and each is judged
+    on its own, recursively, so nothing is dropped: every indicator keeps ALL its retrieved candidates. Only an
+    indicator that is too long even alone has its candidates trimmed (lowest-ranked first, see
+    `format_criteria_with_candidates`), because there is nothing left to split.
+
+    The answers of the parts are merged by indicator id; the tags the judge cites resolve against the full lookup as
+    before.
+    """
+    budget_chars = int(max_prompt_tokens * CHARS_PER_TOKEN)
+
+    def render(rows: list, max_chars: int | None = None, trim: TrimReport | None = None) -> str:
+        block = format_criteria_with_candidates(rows, candidates_by_id, max_chars, trim)
+        return template_text.replace("{{CRITERIA_WITH_CANDIDATES}}", block)
+
+    weights = {
+        row.id: len(format_criteria_with_candidates([row], candidates_by_id)) for row in criteria_rows
+    }
+
+    def split(rows: list, why: str) -> _Judged:
+        left, right = _split_in_two(rows, weights)
+        logger.info(
+            "%s prompt %s: judging %d + %d indicators separately",
+            label, why, len(left), len(right),
+        )
+        judged = run(left)
+        judged.absorb(run(right))
+        return judged
+
+    def run(rows: list) -> _Judged:
+        prompt = render(rows)
+        if len(prompt) > budget_chars and len(rows) > 1:
+            return split(rows, f"is about {int(len(prompt) / CHARS_PER_TOKEN)} tokens (budget {max_prompt_tokens})")
+
+        trim = TrimReport()
+        chars = budget_chars - (len(template_text) - len("{{CRITERIA_WITH_CANDIDATES}}"))
+        if len(prompt) > budget_chars:                      # one indicator, still too long: trim its candidates
+            prompt = render(rows, chars, trim)
+            logger.warning("%s indicator %s alone exceeds the budget; candidates trimmed", label, rows[0].id)
+
+        for attempt in range(_MAX_SHRINKS + 1):
+            try:
+                result = complete_fn(prompt)
+            except ContextLengthExceeded as exc:
+                if len(rows) > 1:
+                    return split(rows, "was refused as too long")
+                if attempt == _MAX_SHRINKS:
+                    raise
+                # a single indicator: cut its budget by what the error says, with a margin
+                ratio = (exc.limit / exc.actual) if exc.limit and exc.actual else 0.6
+                chars = int(min(chars, len(prompt)) * min(ratio, 1.0) * 0.9)
+                trim = TrimReport()
+                prompt = render(rows, chars, trim)
+                logger.warning("%s indicator %s refused as too long; retrying with a smaller prompt", label, rows[0].id)
+                continue
+            judged = _Judged(result.get("evaluation_results", {}), calls=1, trim=trim)
+            return judged
+        raise AssertionError("unreachable")                 # the loop returns or raises
+
+    return run(criteria_rows)
+
+
 def _evaluate_dimension(
     policy_path: Path,
     criteria_file: str,
@@ -257,17 +413,25 @@ def _evaluate_dimension(
             for criterion, query_embedding in zip(criteria_rows, question_embeddings)
         }
 
-        final_prompt = template_text.replace(
-            "{{CRITERIA_WITH_CANDIDATES}}",
-            format_criteria_with_candidates(criteria_rows, candidates_by_id),
+        judged = _judge_in_parts(
+            criteria_rows,
+            candidates_by_id,
+            template_text,
+            complete_fn,
+            retrieval_config.max_prompt_tokens,
+            label=f"[{policy_path.name}] {criteria_file}",
         )
-        batch_result = complete_fn(final_prompt)
-        batch_evals = batch_result.get("evaluation_results", {})
+        batch_evals = judged.batch_evals
         candidate_lookup = build_candidate_lookup(candidates_by_id)
-        source_lookup = build_source_text_lookup(candidates_by_id, retrieval_config.alignment_method)
-        alignment_lookup = build_source_alignment_lookup(
-            candidates_by_id, retrieval_config.alignment_method
+        # Original-language text is shown only for the chunks the judge cited, so only those are aligned (and not at
+        # all when evidence verification is off, which is the only reader of these lookups).
+        to_align = (
+            cited_candidates(batch_evals, candidates_by_id)
+            if retrieval_config.evidence_verification_enabled
+            else {}
         )
+        source_lookup = build_source_text_lookup(to_align, retrieval_config.alignment_method)
+        alignment_lookup = build_source_alignment_lookup(to_align, retrieval_config.alignment_method)
         _resolve_batch_evidence(
             batch_evals,
             candidate_lookup,
@@ -279,7 +443,11 @@ def _evaluate_dimension(
 
         logger.info("[%s] %s completed", policy_path.name, criteria_file)
         return DimensionResult(
-            criteria_file=criteria_file, batch_evals=batch_evals, candidates_by_id=candidates_by_id
+            criteria_file=criteria_file,
+            batch_evals=batch_evals,
+            candidates_by_id=candidates_by_id,
+            prompt_parts=judged.calls,
+            prompt_trim=judged.trim.as_dict() if judged.trim.trimmed else None,
         )
     except Exception as exc:
         error_type, details = format_api_error(exc)
@@ -405,6 +573,12 @@ def _merge_dimension_results(
         if result.candidates_by_id:
             all_candidates_by_id.update(result.candidates_by_id)
 
+    split = {r.criteria_file: r.prompt_parts for r in dimension_results if not isinstance(r, BaseException) and r.prompt_parts > 1}
+    trimmed = {r.criteria_file: r.prompt_trim for r in dimension_results if not isinstance(r, BaseException) and r.prompt_trim}
+    if split:
+        final_report["split_dimensions"] = split          # dimension -> model calls it took (its prompt did not fit in one)
+    if trimmed:
+        final_report["prompt_trimmed"] = trimmed          # dimension -> what an over-long single indicator lost
     final_report["indicator_count"] = len(final_report["evaluation_results"])
     final_report["evidence_verification_failures"] = [
         key
@@ -456,7 +630,7 @@ def _evaluate_policy_serial(
             retrieval_config,
             complete_fn,
         )
-        for criteria_file in CRITERIA_FILES
+        for criteria_file in list_criteria_files(criteria_folder)
     ]
     return _merge_dimension_results(policy_path, deployment_name, criteria_folder.name, dimension_results)
 
@@ -498,7 +672,8 @@ def _evaluate_policies_flat(
     policy is done. The policy's retrieval store is loaded when its first dimension starts and dropped when
     it settles, which keeps only a couple of stores in memory.
     """
-    jobs = {path: _PolicyJob(path, len(CRITERIA_FILES)) for path in policy_files}
+    criteria_files = list_criteria_files(criteria_folder)      # the dimensions are whatever the prompt version has
+    jobs = {path: _PolicyJob(path, len(criteria_files)) for path in policy_files}
 
     def store_for(job: _PolicyJob) -> list[dict]:
         with job.lock:
@@ -548,12 +723,12 @@ def _evaluate_policies_flat(
         settle(job.policy_path, outcome)
 
     logger.info(
-        "Evaluating %d policies x %d dimensions on %d threads", len(policy_files), len(CRITERIA_FILES), limiter.max_workers
+        "Evaluating %d policies x %d dimensions on %d threads", len(policy_files), len(criteria_files), limiter.max_workers
     )
     tasks = [
         lambda job=job, index=index, cf=cf: run_one(job, index, cf)
         for job in jobs.values()
-        for index, cf in enumerate(CRITERIA_FILES)
+        for index, cf in enumerate(criteria_files)
     ]
     limiter.run_parallel(tasks)
 
@@ -590,6 +765,7 @@ def _process_policy_result(
     allow_partial: bool,
     candidates_by_id: dict[str, list[RetrievedChunk]],
     rag_candidates_dir: Path,
+    expected_ids: frozenset[str] | None = None,
 ) -> tuple[bool, str | None, bool]:
     success, output_path = finalize_and_save_report(
         final_report=final_report,
@@ -597,6 +773,7 @@ def _process_policy_result(
         output_folder=str(output_dir),
         deployment_name=deployment_name,
         allow_partial=allow_partial,
+        expected_ids=expected_ids,
     )
     if output_path:
         _write_candidates_file(rag_candidates_dir, policy_path.name, candidates_by_id)
@@ -636,6 +813,12 @@ def run_evaluation_step(
     if not policy_files:
         raise FileNotFoundError(f"No policy files to evaluate in {policy_dir}")
 
+    ok, issues = validate_criteria_files(config.evaluation_criteria_dir)
+    if not ok:
+        raise ValueError(
+            f"The criteria files in {config.evaluation_criteria_dir} are malformed; fix them before evaluating "
+            "(each costs model calls): " + " | ".join(issues[:5])
+        )
     template_text = config.evaluation_template_path.read_text(encoding="utf-8")
 
     total_candidates = len(policy_files)
@@ -677,6 +860,8 @@ def run_evaluation_step(
         }
 
     bookkeeping_lock = threading.Lock()
+    # An evaluation is complete when it answers every indicator of the prompt version in use.
+    expected_ids = indicator_ids_in(config.evaluation_criteria_dir)
 
     def settle(policy_path: Path, outcome) -> None:
         """Save one policy's report the moment its evaluation is done, and record how it went.
@@ -704,6 +889,7 @@ def run_evaluation_step(
             allow_partial,
             candidates_by_id,
             rag_candidates_dir,
+            expected_ids,
         )
         with bookkeeping_lock:
             if output_path:

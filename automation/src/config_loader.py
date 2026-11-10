@@ -138,6 +138,9 @@ class RetrievalConfig:
     #: Step 4.6 aligner for chunks whose translated/source sentence counts
     #: differ: "vecalign" | "bertalign" | "heuristic" (see rag/evidence_align.py).
     alignment_method: str = "vecalign"
+    #: Token budget of one evaluation prompt (a dimension's criteria, rules and candidate sentences). The candidates are
+    #: trimmed to fit (see `prompt_builder.format_criteria_with_candidates`). Keep it below the model's context limit.
+    max_prompt_tokens: int = 200_000
 
 
 #: Evaluation-side confidence capture. Which methods to record and which one
@@ -405,11 +408,44 @@ def parse_retrieval_config(
             top_k=reranker_top_k,
         ),
         evidence_verification_enabled=bool(verification_raw.get("enabled", True)),
+        max_prompt_tokens=_parse_max_prompt_tokens(raw.get("max_prompt_tokens")),
         enabled=rag_enabled,
     )
 
 
-def parse_confidence_config(raw: dict | None) -> ConfidenceConfig:
+DEFAULT_COVERAGE_LABELS = ("Substantive", "Referenced only")
+
+
+def parse_coverage_labels(raw: dict | None) -> tuple[str, ...]:
+    """`evaluation.coverage`: a second answer for the indicators answered Yes, off unless ``enabled: true``.
+
+    ``labels`` are its allowed values (default: Substantive, Referenced only). The Yes / No answer stays the one
+    every downstream step reads; the coverage is recorded next to it, with a confidence of its own.
+    """
+    raw = raw or {}
+    if not isinstance(raw, dict):
+        raise ValueError("evaluation.coverage must be a mapping")
+    if not raw.get("enabled", False):
+        return ()
+    labels = raw.get("labels") or DEFAULT_COVERAGE_LABELS
+    if not isinstance(labels, (list, tuple)) or len(labels) < 2:
+        raise ValueError("evaluation.coverage.labels must list at least two values")
+    cleaned = tuple(" ".join(str(label).split()) for label in labels)
+    if any(not label for label in cleaned) or len({label.lower() for label in cleaned}) != len(cleaned):
+        raise ValueError("evaluation.coverage.labels must be distinct and not empty")
+    return cleaned
+
+
+def _parse_max_prompt_tokens(value: object) -> int:
+    if value is None:
+        return RetrievalConfig.__dataclass_fields__["max_prompt_tokens"].default
+    tokens = int(value)
+    if tokens < 10_000:
+        raise ValueError("evaluation.rag.retrieval.max_prompt_tokens must be at least 10000")
+    return tokens
+
+
+def parse_confidence_config(raw: dict | None, coverage_raw: dict | None = None) -> ConfidenceConfig:
     raw = raw or {}
 
     top_logprobs = int(raw.get("top_logprobs", 5))
@@ -442,6 +478,7 @@ def parse_confidence_config(raw: dict | None) -> ConfidenceConfig:
         methods=methods,
         primary=primary,
         top_logprobs=top_logprobs,
+        coverage_labels=parse_coverage_labels(coverage_raw),
     )
 
 
@@ -716,7 +753,7 @@ def load_pipeline_config(
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
         evaluation_method=evaluation_method,
-        confidence=parse_confidence_config(evaluation_cfg.get("confidence")),
+        confidence=parse_confidence_config(evaluation_cfg.get("confidence"), evaluation_cfg.get("coverage")),
         comparison_confidence=parse_confidence_report_config(
             (pipeline_data.get("comparison") or {}).get("confidence")
         ),

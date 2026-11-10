@@ -1,0 +1,951 @@
+{
+  "policy_file": "102. Malawi - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T14:03:10.080890+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person's income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—\n(i) committing any further acts of domestic violence;",
+      "rationale": "The text contains operative provisions that define domestic violence and provide legal remedies (e.g., protection orders prohibiting further acts of domestic violence), which constitutes substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person’s income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—\n\n(i) committing any further acts of domestic violence;",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person's income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—\n(h) making unwelcome and repeated or intimidatory contact with a child, dependant or elderly relative of a person; \"enforcement officer\" means any officer designated as such by the Minister under section 31; \"financial abuse\" means a pattern of behaviour of a kind, the purpose of which is to exercise coercive control over, or exploit or limit a person's access to financial resources so as to ensure financial dependence; \"household residence\" means the dwelling-house that is or was last used habitually by persons within a domestic relationship as the only principal family residence, together with any land, buildings or improvements appurtenant thereto, and wholly or mainly used for the purposes of the household; \"interim order\" means an interim occupation order, an interim protection order, or an interim tenancy order; \"occupation order\" means an order made under section 11, and includes an interim occupation order; \"order\" means an occupation order, a protection order, or a tenancy order, but does not include an interim order; \"parent\" means a person who is a parent or grandparent in relation to a child, dependant, spouse or respondent, as the case may be, by blood, marriage or adoption; \"physical abuse\" means any act or omission which causes or is intended to cause physical injury or reasonable apprehension of physical injury; \"prescribed person\", in relation to a respondent, means a husband or wife, parent, child or dependant of the respondent; \"protection order\" means an order made under section 5 and, includes an interim protection order; \"service provider\" means any person or body of persons approved by the Minister by order published in the Gazette to provide assistance to victims of domestic violence, and includes the police, community policing forums, faith-based organizations, Government institutions, non-governmental, voluntary or charitable organizations; \"sexual abuse\" includes sexual contact of any kind that is made by force or threat and the commission of, or an attempt to commit, any of the offences under Chapter XV of the Penal Code;",
+      "rationale": "The framework’s operative definition of domestic violence explicitly includes sexual abuse, and it defines sexual abuse by reference to forced sexual contact and Penal Code sexual offences, indicating substantive legal coverage of sexual violence within the Act’s scope.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person’s income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—\n\n(h) making unwelcome and repeated or intimidatory contact with a child, dependant or elderly relative of a person; \"enforcement officer\" means any officer designated as such by the Minister under section 31; \"financial abuse\" means a pattern of behaviour of a kind, the purpose of which is to exercise coercive control over, or exploit or limit a person’s access to financial resources so as to ensure financial dependence; \"household residence\" means the dwelling-house that is or was last used habitually by persons within a domestic relationship as the only principal family residence, together with any land, buildings or improvements appurtenant thereto, and wholly or mainly used for the purposes of the household; \"interim order\" means an interim occupation order, an interim protection order, or an interim tenancy order; \"occupation order\" means an order made under section 11, and includes an interim occupation order; \"order\" means an occupation order, a protection order, or a tenancy order, but does not include an interim order; \"parent\" means a person who is a parent or grandparent in relation to a child, dependant, spouse or respondent, as the case may be, by blood, marriage or adoption; \"physical abuse\" means any act or omission which causes or is intended to cause physical injury or reasonable apprehension of physical injury; \"prescribed person\", in relation to a respondent, means a husband or wife, parent, child or dependant of the respondent; \"protection order\" means an order made under section 5 and, includes an interim protection order; \"service provider\" means any person or body of persons approved by the Minister by order published in the Gazette to provide assistance to victims of domestic violence, and includes the police, community policing forums, faith-based organizations, Government institutions, non-governmental, voluntary or charitable organizations; \"sexual abuse\" includes sexual contact of any kind that is made by force or threat and the commission of, or an attempt to commit, any of the offences under Chapter XV of the Penal Code;",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person's income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—",
+      "rationale": "The operative definition of domestic violence includes physical abuse, and the Act defines physical abuse as conduct causing or intended to cause physical injury or apprehension of injury, which substantively addresses physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person’s income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person's income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—",
+      "rationale": "The operative definition of domestic violence includes emotional or psychological abuse, and the Act provides a definition of emotional or psychological abuse, meeting the substantive threshold for addressing psychological violence.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person’s income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person's income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—\n(h) making unwelcome and repeated or intimidatory contact with a child, dependant or elderly relative of a person; \"enforcement officer\" means any officer designated as such by the Minister under section 31; \"financial abuse\" means a pattern of behaviour of a kind, the purpose of which is to exercise coercive control over, or exploit or limit a person's access to financial resources so as to ensure financial dependence; \"household residence\" means the dwelling-house that is or was last used habitually by persons within a domestic relationship as the only principal family residence, together with any land, buildings or improvements appurtenant thereto, and wholly or mainly used for the purposes of the household; \"interim order\" means an interim occupation order, an interim protection order, or an interim tenancy order; \"occupation order\" means an order made under section 11, and includes an interim occupation order; \"order\" means an occupation order, a protection order, or a tenancy order, but does not include an interim order; \"parent\" means a person who is a parent or grandparent in relation to a child, dependant, spouse or respondent, as the case may be, by blood, marriage or adoption; \"physical abuse\" means any act or omission which causes or is intended to cause physical injury or reasonable apprehension of physical injury; \"prescribed person\", in relation to a respondent, means a husband or wife, parent, child or dependant of the respondent; \"protection order\" means an order made under section 5 and, includes an interim protection order; \"service provider\" means any person or body of persons approved by the Minister by order published in the Gazette to provide assistance to victims of domestic violence, and includes the police, community policing forums, faith-based organizations, Government institutions, non-governmental, voluntary or charitable organizations; \"sexual abuse\" includes sexual contact of any kind that is made by force or threat and the commission of, or an attempt to commit, any of the offences under Chapter XV of the Penal Code;",
+      "rationale": "The Act’s operative definition of domestic violence includes economic or financial abuse, and it defines economic abuse (including refusal to provide basic household necessities and withholding income) and financial abuse, which is substantive coverage of economic violence/exploitation/neglect-type conduct.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) the applicant and the respondent are or have been in a visiting relationship for a period exceeding twelve months; \"domestic violence\" means any criminal offence arising out of physical, sexual, emotional or psychological, social, economic or financial abuse committed by a person against another person within a domestic relationship; \"economic abuse\" means the denying of a person the liberty to undertake any lawful income generating activity or access economic resources, and includes refusal to provide basic household necessities, withholding that person’s income or salary and denying that person the opportunity to seek employment; Prevention of Domestic Violence Act Malawi \"emergency monetary relief\", in relation to an interim protection order, means relief provided to the applicant to compensate for loss suffered as a result of the domestic violence, and includes medical and dental expenses, accommodation and transport expenses, household necessities and loss of earnings; \"emotional or psychological abuse\" means a pattern of behaviour of any kind, the purpose of which is to undermine the emotional or mental well being of a person, and includes—\n\n(h) making unwelcome and repeated or intimidatory contact with a child, dependant or elderly relative of a person; \"enforcement officer\" means any officer designated as such by the Minister under section 31; \"financial abuse\" means a pattern of behaviour of a kind, the purpose of which is to exercise coercive control over, or exploit or limit a person’s access to financial resources so as to ensure financial dependence; \"household residence\" means the dwelling-house that is or was last used habitually by persons within a domestic relationship as the only principal family residence, together with any land, buildings or improvements appurtenant thereto, and wholly or mainly used for the purposes of the household; \"interim order\" means an interim occupation order, an interim protection order, or an interim tenancy order; \"occupation order\" means an order made under section 11, and includes an interim occupation order; \"order\" means an occupation order, a protection order, or a tenancy order, but does not include an interim order; \"parent\" means a person who is a parent or grandparent in relation to a child, dependant, spouse or respondent, as the case may be, by blood, marriage or adoption; \"physical abuse\" means any act or omission which causes or is intended to cause physical injury or reasonable apprehension of physical injury; \"prescribed person\", in relation to a respondent, means a husband or wife, parent, child or dependant of the respondent; \"protection order\" means an order made under section 5 and, includes an interim protection order; \"service provider\" means any person or body of persons approved by the Minister by order published in the Gazette to provide assistance to victims of domestic violence, and includes the police, community policing forums, faith-based organizations, Government institutions, non-governmental, voluntary or charitable organizations; \"sexual abuse\" includes sexual contact of any kind that is made by force or threat and the commission of, or an attempt to commit, any of the offences under Chapter XV of the Penal Code;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention or regulate harmful practices such as child/early marriage, FGM/C, honour crimes, or female infanticide, nor do they include operative prevention/protection measures specific to such practices.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific prevention/monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention trafficking in persons/human trafficking or trafficking-related exploitation, nor do they define, criminalise, or provide trafficking-specific protections or services.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes sexual abuse within domestic violence, none of the provided sentences specifically address sexual exploitation or sexual slavery (e.g., exploitation for sexual purposes, forced prostitution, or sexual services for gain).",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) as prohibited conduct or as part of the violence definitions; references are limited to general procedures and reporting/administration.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(2) Any person who contravenes or fails to comply with subsection (1) commits an offence and is liable to a fine of K1,000,000.",
+      "rationale": "The framework creates at least one offence with a specified criminal sanction (a fine) for contravening the publication restriction related to proceedings under the Act, demonstrating that the legal framework establishes criminal penalties in the context of domestic violence/VAW-related proceedings.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Any person who contravenes or fails to comply with subsection (1) commits an offence and is liable to a fine of K1,000,000.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "(1) An application for a protection order under this Act may be made by—\nAny court within the area in which—\n(5) An interim protection order remains in force until—\nof the terms of this Order you shall be liable to imprisonment and/or a fine pursuant to section 31 of the Act.",
+      "rationale": "The framework specifies who may apply for protection orders (including victims and police/enforcement officers/service providers), identifies the issuing authority as the court, provides duration rules for interim protection orders, and indicates a defined consequence for breach (liability to imprisonment and/or a fine).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) An application for a protection order under this Act may be made by—\n\nAny court within the area in which—\n\n(5) An interim protection order remains in force until—\n\nof the terms of this Order you shall be liable to imprisonment and/or a fine pursuant to section 31 of the Act.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences impose duties on police officers to respond to domestic violence complaints and complete reports, but they do not designate or mandate any specialised police unit/desk/division for VAW victims.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to courts generally having jurisdiction and to ordinary procedures (including ex parte orders and hearings in absence), but do not establish a specialised court/chamber or a specialised/expedited judicial procedure specifically for VAW cases.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic relationships (including spouses) and define sexual abuse by reference to Penal Code offences, but they do not expressly criminalise rape within marriage, state that marriage is not a defence, or otherwise remove a spousal exemption for sexual offences as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe duties/powers of individual actors (police, enforcement officers, service providers) and some reporting lines within police, but they do not establish a formal inter-agency/sector coordination mechanism (e.g., committee, task force, referral network, coordinating body) for implementing prevention/protection/response to violence against women.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(2) It shall be the duty of every police officer responding to a domestic violence complaint to complete a domestic violence report which shall form part of a national domestic violence register, and shall be maintained by the Commissioner of Police of each region.",
+      "rationale": "The framework requires police to complete a domestic violence report that becomes part of a national domestic violence register and assigns maintenance responsibility to the Commissioner of Police of each region, which constitutes an explicit mandated data recording/collection system with a responsible entity.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) It shall be the duty of every police officer responding to a domestic violence complaint to complete a domestic violence report which shall form part of a national domestic violence register, and shall be maintained by the Commissioner of Police of each region.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text references eliminating gender-based violence as a purpose, but it does not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirements, focal points, working groups, planning/budgeting mainstreaming).",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions allow regulations to prescribe qualifications/experience for service providers, but do not mandate training, technical guidance, or capacity building for implementing officials or service providers. References to counselling relate to services for parties, not training of implementers.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions include some case-specific reporting/review (e.g., court review of a bond; police reporting up the chain after warrantless entry; counsellor reports to court), but they do not establish monitoring and evaluation of overall policy implementation or service delivery for violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text states the Act’s purpose and sets out operational duties and procedures, but contains no provision requiring allocation of budget/funding or establishing a funding mechanism for implementation of violence against women/domestic violence response or prevention.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(c) arrange for the provision of medical assistance to the victim of domestic violence at the nearest hospital or health facility;\n(d) arrange for alternative residence or a temporary safe place of shelter for the victim of domestic violence; and",
+      "rationale": "The Act assigns enforcement officers duties to arrange multiple forms of assistance for domestic violence victims, including medical assistance and shelter, indicating a coordinated multi-service response through a designated actor (enforcement officer), even if not labelled as a one-stop centre.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) arrange for the provision of medical assistance to the victim of domestic violence at the nearest hospital or health facility;\n\n(d) arrange for alternative residence or a temporary safe place of shelter for the victim of domestic violence; and",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(1) Every police officer shall respond to every complaint or report alleging domestic violence whether or not the complainant is the victim.\n(b) has reason to believe that an act of domestic violence has been, is being or is likely to be committed, may report to the police, or give information to an enforcement officer, who shall then report the matter to the police.",
+      "rationale": "The framework establishes an operative mechanism for receiving complaints/reports of domestic violence by requiring police to respond to every complaint or report, and it provides that persons may report to police or give information to an enforcement officer who then reports to police.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Every police officer shall respond to every complaint or report alleging domestic violence whether or not the complainant is the victim.\n\n(b) has reason to believe that an act of domestic violence has been, is being or is likely to be committed, may report to the police, or give information to an enforcement officer, who shall then report the matter to the police.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(d) arrange for alternative residence or a temporary safe place of shelter for the victim of domestic violence; and\n(i) making arrangements for the victim of domestic violence to find suitable temporary shelter and to obtain medical treatment, if so required;",
+      "rationale": "Operative provisions require arranging alternative residence or a temporary safe place of shelter and include making arrangements for suitable temporary shelter as part of assistance to victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(d) arrange for alternative residence or a temporary safe place of shelter for the victim of domestic violence; and\n\n(i) making arrangements for the victim of domestic violence to find suitable temporary shelter and to obtain medical treatment, if so required;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions refer to informing victims about legal remedies and assisting with filing complaints/applications, but they do not establish legal aid/representation/advice services or an entitlement/duty to provide legal assistance to victims.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(c) arrange for the provision of medical assistance to the victim of domestic violence at the nearest hospital or health facility;\n(i) making arrangements for the victim of domestic violence to find suitable temporary shelter and to obtain medical treatment, if so required;",
+      "rationale": "The Act requires arranging medical assistance at the nearest hospital/health facility and includes obtaining medical treatment as part of victim assistance, directly linking health services to domestic violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) arrange for the provision of medical assistance to the victim of domestic violence at the nearest hospital or health facility;\n\n(i) making arrangements for the victim of domestic violence to find suitable temporary shelter and to obtain medical treatment, if so required;",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(x) the applicant or both, receive professional counselling or therapy from any person or agency or from a programme approved by the Minister in writing;",
+      "rationale": "The framework allows protection-order applications to seek professional counselling or therapy for the applicant or both parties, which constitutes provision for counselling/psychosocial support linked to domestic violence proceedings.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(x) the applicant or both, receive professional counselling or therapy from any person or agency or from a programme approved by the Minister in writing;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "The court may, on making an order under this Act, recommend either or both parties to participate in counselling of such nature as the court may specify, including counselling by marriage advocate relations, religious leaders and chiefs.",
+      "rationale": "An operative provision authorises the court to recommend counselling including counselling by religious leaders, which constitutes faith-based counselling support within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "The court may, on making an order under this Act, recommend either or both parties to participate in counselling of such nature as the court may specify, including counselling by marriage advocate relations, religious leaders and chiefs.",
+      "evidence_original_aligned": true
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on immediate remedies and assistance (shelter, medical treatment, information, legal remedies) and do not establish longer-term recovery/rehabilitation/reintegration measures such as livelihood support, vocational training, or other long-term services for victims.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions counselling (including for both parties) and bonds of good behaviour, it does not establish perpetrator-focused intervention/rehabilitation/behaviour-change programmes as a distinct service or programme for perpetrators of violence against women.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on the Act’s purpose, protection orders, enforcement/police powers, counselling/ADR in individual cases, and informing victims about their rights and available remedies/services. None of the sentences establish public information/awareness/education or communication activities specifically about violence against women/domestic violence as a primary prevention measure (e.g., campaigns, community education, dissemination to the public).",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences do not require or provide any information, education, awareness-raising, or communication activities about gender equality or women’s rights, nor do they link such activities to preventing violence against women. The text instead addresses domestic violence response mechanisms (orders, enforcement, victim assistance).",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the candidate sentences include provisions about explaining victims’ rights to protection and informing victims of available legal remedies, they do not establish primary prevention activities to disseminate or educate the public/communities about VAW laws or policies. The provisions shown are framed as victim assistance/response after an incident rather than public legal-awareness prevention programming.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence identifies education systems, educational institutions, curricula, or improvements in education quality as measures to prevent violence against women. The only mention of “education” is incidental (e.g., place of work, business or education in protection-order restrictions), not an education-based prevention strategy.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not describe any prevention programmes or activities that specifically engage men or boys (e.g., norm-change, positive masculinity, targeted campaigns/training) to prevent violence against women. References to perpetrators or parties in proceedings/counselling are not framed as primary prevention engagement of men and boys.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(4) An enforcement officer may solicit the services of any service provider to assist with any action to be taken under this Act.\n(h) making unwelcome and repeated or intimidatory contact with a child, dependant or elderly relative of a person; \"enforcement officer\" means any officer designated as such by the Minister under section 31; \"financial abuse\" means a pattern of behaviour of a kind, the purpose of which is to exercise coercive control over, or exploit or limit a person's access to financial resources so as to ensure financial dependence; \"household residence\" means the dwelling-house that is or was last used habitually by persons within a domestic relationship as the only principal family residence, together with any land, buildings or improvements appurtenant thereto, and wholly or mainly used for the purposes of the household; \"interim order\" means an interim occupation order, an interim protection order, or an interim tenancy order; \"occupation order\" means an order made under section 11, and includes an interim occupation order; \"order\" means an occupation order, a protection order, or a tenancy order, but does not include an interim order; \"parent\" means a person who is a parent or grandparent in relation to a child, dependant, spouse or respondent, as the case may be, by blood, marriage or adoption; \"physical abuse\" means any act or omission which causes or is intended to cause physical injury or reasonable apprehension of physical injury; \"prescribed person\", in relation to a respondent, means a husband or wife, parent, child or dependant of the respondent; \"protection order\" means an order made under section 5 and, includes an interim protection order; \"service provider\" means any person or body of persons approved by the Minister by order published in the Gazette to provide assistance to victims of domestic violence, and includes the police, community policing forums, faith-based organizations, Government institutions, non-governmental, voluntary or charitable organizations; \"sexual abuse\" includes sexual contact of any kind that is made by force or threat and the commission of, or an attempt to commit, any of the offences under Chapter XV of the Penal Code;",
+      "rationale": "The Act defines “service provider” to include non-governmental, voluntary or charitable organizations, and empowers enforcement officers to solicit the services of any service provider to assist with actions under the Act, which constitutes an operative authorization for collaboration with NGOs in response to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) An enforcement officer may solicit the services of any service provider to assist with any action to be taken under this Act.\n\n(h) making unwelcome and repeated or intimidatory contact with a child, dependant or elderly relative of a person; \"enforcement officer\" means any officer designated as such by the Minister under section 31; \"financial abuse\" means a pattern of behaviour of a kind, the purpose of which is to exercise coercive control over, or exploit or limit a person’s access to financial resources so as to ensure financial dependence; \"household residence\" means the dwelling-house that is or was last used habitually by persons within a domestic relationship as the only principal family residence, together with any land, buildings or improvements appurtenant thereto, and wholly or mainly used for the purposes of the household; \"interim order\" means an interim occupation order, an interim protection order, or an interim tenancy order; \"occupation order\" means an order made under section 11, and includes an interim occupation order; \"order\" means an occupation order, a protection order, or a tenancy order, but does not include an interim order; \"parent\" means a person who is a parent or grandparent in relation to a child, dependant, spouse or respondent, as the case may be, by blood, marriage or adoption; \"physical abuse\" means any act or omission which causes or is intended to cause physical injury or reasonable apprehension of physical injury; \"prescribed person\", in relation to a respondent, means a husband or wife, parent, child or dependant of the respondent; \"protection order\" means an order made under section 5 and, includes an interim protection order; \"service provider\" means any person or body of persons approved by the Minister by order published in the Gazette to provide assistance to victims of domestic violence, and includes the police, community policing forums, faith-based organizations, Government institutions, non-governmental, voluntary or charitable organizations; \"sexual abuse\" includes sexual contact of any kind that is made by force or threat and the commission of, or an attempt to commit, any of the offences under Chapter XV of the Penal Code;",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "The court may, on making an order under this Act, recommend either or both parties to participate in counselling of such nature as the court may specify, including counselling by marriage advocate relations, religious leaders and chiefs.",
+      "rationale": "The Act provides an operative basis for involving religious leaders and chiefs by allowing the court to recommend counselling by these actors when making an order under the Act, linking them to response measures in domestic violence cases.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "The court may, on making an order under this Act, recommend either or both parties to participate in counselling of such nature as the court may specify, including counselling by marriage advocate relations, religious leaders and chiefs.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish, require, or authorise cooperation with schools, universities, or other education institutions for prevention of or response to domestic violence/VAW; references to “education” appear only as a location (place of work, business or education) rather than as an institutional partner.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention international organisations or establish any cooperation mechanism with them regarding domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or authorise collaboration with media actors for VAW prevention/response; the only media-related reference concerns substituted service by newspaper advertisement, which is a procedural service mechanism rather than VAW-focused media engagement or partnership.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the Act allows any person to report domestic violence and includes “community policing forums” within the definition of service provider, the retrieved sentences do not establish a mechanism for community participation/mobilisation in prevention or response beyond reporting, which the coding rules say is insufficient on its own.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require collaboration with businesses or private-sector actors for VAW prevention/response; references to “carries on business” relate to court jurisdiction rather than private-sector participation in VAW measures.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention funding or budget sources from local government (e.g., municipal/district councils). The excerpts focus on legal procedures, police powers, court orders, fines, and service provider roles, but do not identify any local government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference any national government budget, treasury allocation, or state funding line for implementation. They describe legal remedies, procedures, and roles (police, courts, service providers) without specifying national budgetary sources.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, there is no explicit mention of international assistance, donors, UN agencies, foreign governments, development partners, or any international funding/support arrangements related to domestic violence or women’s protection. References are domestic and institutional only.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts include compensation categories, fines, and procedural costs borne by an applicant in one instance, but they do not identify any funding/budget source (e.g., earmarked funds, levies, dedicated financing mechanisms, private sector funding, or other legally established funding sources) for VAW measures. Thus, no explicit ‘other legal source’ of funding is provided.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions provincial/regional government budgets as a funding source. While there are references to police regions and administrative reporting, these do not constitute budget/funding provisions.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 16,
+    "resolved": 16,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,957 @@
+{
+  "policy_file": "144. Saudi Arabia - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:13:51.935819+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Social Protection Homes: Homes designated to provide shelter for victims of domestic violence, whether affiliated with the Ministry or the third sector supervised by the Ministry.\n1. The Domestic Violence Report Center shall receive reports from all regions of the Kingdom about cases of abuse, whether from individuals or relevant parties.",
+      "rationale": "The regulation contains operative provisions explicitly referencing domestic violence, including defining social protection homes as shelters for victims of domestic violence and establishing a Domestic Violence Report Center to receive and process reports. These are operative institutional/service mechanisms, not merely preambular mentions.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Social Protection Homes: Homes designated to provide shelter for victims of domestic violence, whether affiliated with the Ministry, or the third sector supervised by the Ministry.\n\n1. The Domestic Violence Report Center shall receive reports from all regions of the Kingdom about cases of abuse, whether from individuals or relevant parties.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Sexual Abuse: Any act or saying that exposes a person to unlawful sexual exploitation by any means, even if only once, including exposing the victim to pornographic or immoral materials or sexual behavior.",
+      "rationale": "The regulation includes an operative definition of “Sexual Abuse,” describing conduct that exposes a person to unlawful sexual exploitation, which constitutes substantive coverage of sexual violence/abuse within the framework’s definitions.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Sexual Abuse: Any act or saying that exposes a person to unlawful sexual exploitation by any means, even if only once, including exposing the victim to pornographic or immoral materials or sexual behavior.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Physical Abuse: Every intentional act carried out through the use of physical force, or any act that results in physical injury or bodily harm, such as beating, wounding, punching, biting, burning, throwing incendiary, caustic, or disfiguring materials, or any similar act whose purpose is to inflict a certain degree of pain or harm, regardless of how mild their intensity may be.",
+      "rationale": "The regulation substantively addresses physical violence by providing an operative definition of “Physical Abuse,” describing intentional acts using physical force resulting in injury or bodily harm.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "Physical Abuse: Every intentional act carried out through the use of physical force, or any act that results in physical injury or bodily harm, such as beating, wounding, punching, biting, burning, throwing incendiary, caustic, or disfiguring materials, or any similar act whose purpose is to inflict a certain degree of pain or harm, regardless of how mild their intensity may be.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Psychological Abuse: Any act or abstention from action that leads to psychological harm, resulting in psychological, emotional, or mental pain, such as intimidation, threats, exploitation, humiliation, insults, isolation from family and friends, mockery, intimidation, unreasonable demands, or arbitrary deprivation of rights and freedoms, along with all forms of interaction that invariably involve harm.",
+      "rationale": "The regulation substantively addresses psychological violence through an operative definition of “Psychological Abuse,” describing acts/omissions causing psychological harm and listing examples such as intimidation, threats, humiliation, and isolation.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "Psychological Abuse: Any act or abstention from action that leads to psychological harm, resulting in psychological, emotional, or mental pain, such as intimidation, threats, exploitation, humilation, insults, isolation from family and friends, mockery, intimidation, unreasonable demands, or arbitrary deprivation of rights and freedoms, along with all forms of interaction that always involve harm.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Negligence: Any act or abstention from action that in itself leads to direct or indirect harm to the victim.",
+      "rationale": "The regulation includes “Negligence” as an operative defined form of abuse/harm (acts or omissions leading to direct or indirect harm to the victim). Under the criterion’s coding rules, operative inclusion of neglect qualifies as substantive coverage of economic violence/economic neglect/domestic neglect as a form of violence/abuse.",
+      "coverage": "Substantive",
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "Negligence: Any act or abstention from action, that in itself leads to direct, or indirect harm to the victim.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative prevention/protection measures specifically tied to such practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific criminal/aggravating provisions or monitoring/registry mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking or trafficking in persons. References to “exploitation” are general and not linked to trafficking, and the framework otherwise addresses abuse generally without trafficking-specific provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Sexual Abuse: Any act or saying that exposes a person to unlawful sexual exploitation by any means, even if only once, including exposing the victim to pornographic or immoral materials or sexual behavior.",
+      "rationale": "The regulation’s operative definition of “Sexual Abuse” explicitly refers to exposure to unlawful sexual exploitation, which establishes a clear sexual-exploitation nexus within the framework’s covered forms of abuse.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Sexual Abuse: Any act or saying that exposes a person to unlawful sexual exploitation by any means, even if only once, including exposing the victim to pornographic or immoral materials or sexual behavior.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) or define/prohibit technology-facilitated violence. The text instead concerns general abuse definitions and service/reporting mechanisms not tied to digital perpetration.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define types of abuse and describe reporting, sheltering, referrals to security authorities/Public Prosecution, and taking legal measures under the Code of Criminal Procedure, but they do not state that any form of violence against women is a criminal offence with a specified criminal sanction (e.g., imprisonment/fine) or even a general statement that it is punishable. References to referral for legal action are procedural and do not establish criminal penalties in the text provided.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions that in cases of critical abuse the Protection Center requests security authorities to refer the case to the Public Prosecution to issue an order prohibiting contact, but it does not specify who may apply, the issuing authority in a complete mechanism (beyond this single scenario), the order’s duration, or a defined consequence for breach. Therefore, it does not meet the substantive coding requirements for a protection/restraining order mechanism, and the retrieved sentences do not otherwise provide a general protection-order framework.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to Protection Centers and a Domestic Violence Report Center, and to notifying security authorities, but they do not designate or mandate a specialised unit/desk/division within police services for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference referral to the Public Prosecution and courts generally (e.g., compensation claims), but do not establish or mandate any specialised court, chamber, judicial officer, or specialised/expedited judicial procedure for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define “sexual abuse” and “family relationship,” but do not expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption from criminal liability for sexual violence. Under the coding rules, general references to sexual abuse are insufficient without explicit applicability to spouses/intimate partners.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "5. Coordinate with the competent authorities to establish mechanisms and procedures for dealing with common cases.",
+      "rationale": "The framework assigns the Ministry a duty to coordinate with competent authorities to establish mechanisms and procedures for dealing with cases, which constitutes an operative, formalized coordination mechanism/process across agencies.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Coordinate with the competent authorities to establish mechanisms and procedures, for dealing with common cases.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "3. Monitor, collect and document data and information of abuse – Kingdom wide, coordinate with other parties dealing with abused cases to provide accurate authenticated statistical data on abuse cases, to be utilized in developing cooperation mechanisms to treat this phenomenon, and to conduct specialized scientific research and studies in this field.",
+      "rationale": "The framework assigns the Ministry functions to monitor, collect, and document abuse data and information Kingdom-wide and to coordinate with other parties to provide statistical data, which meets the requirement to establish/require data collection and assign responsibility for it.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. Monitor, collect and document data and information of abuse – Kingdom wide, coordinate with other parties dealing with abused cases to provide accurate authenticated statistical data on abuse cases, to be utilized in developing cooperation mechanisms to treat this phenomenon, and to conduct specialized scientific research and studies in this field.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention gender mainstreaming or establish any gender mainstreaming mechanism (e.g., focal points, working groups, integration into planning/budgeting) for implementing women’s protection or violence-related policies.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "2. Support the conduct of scientific research, and specialized studies related to protection from abuse, and working to organize and implement specialized training programs for all those concerned with dealing with cases of abuse, including Ministry employees, judges, police officers, investigation officers, doctors, and specialists.",
+      "rationale": "The framework provides for organizing and implementing specialized training programs for personnel concerned with handling abuse cases (including ministry employees, judges, police, investigators, doctors, and specialists), which is training/capacity building for implementing actors.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Support the conduct of scientific research, and specialized studies related to protection from abuse, and working to organize and implement specialized training programs for all those concerned with dealing with cases of abuse, including Ministry employees, judges, police officers, investigation officers, doctors, and specialists.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "1. The competent agency in the Ministry shall establish an appropriate procedural mechanism through which the lawsuits referred to the security authorities shall be followed up, and their findings shall be monitored on an ongoing basis.",
+      "rationale": "The framework requires the Ministry’s competent agency to establish a procedural mechanism to follow up lawsuits referred to security authorities and to monitor findings on an ongoing basis, which is a specific monitoring mechanism tied to implementation/handling of abuse cases.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. The competent agency in the Ministry shall establish an appropriate procedural mechanism, through which the lawsuits referred to the security authorities shall be followed up, and their findings shall be monitored on an ongoing basis.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe duties (coordination, services, training, data collection, procedures) but do not include any operative provision requiring allocation of budget/funding or establishing a funding mechanism/source for implementation.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "Protection Centers: Administrative and field centers for processing reports of protection from abuse, and providing an integrated service to victims and aggressors.",
+      "rationale": "The framework defines “Protection Centers” as centers that process abuse reports and provide an integrated service to victims (and aggressors), which constitutes an expressly recognised integrated service mechanism in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "Protection Centers: Administrative and field centers for processing reports of protection from abuse, and providing an integrated service to victims and aggressors.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "1. The Domestic Violence Report Center shall receive reports from all regions of the Kingdom about cases of abuse, whether from individuals or relevant parties.\nReports Center: A center for receiving domestic violence reports about cases of abuse across the Kingdom.",
+      "rationale": "The framework establishes a designated “Domestic Violence Report Center”/“Reports Center” responsible for receiving reports of domestic violence cases across the Kingdom, which is an operative reporting mechanism through which victims or others can report abuse and seek assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. The Domestic Violence Report Center shall receive reports from all regions of the Kingdom about cases of abuse, whether from individuals or relevant parties.\n\nReports Center: A center for receiving domestic violence reports about cases of abuse, across the Kingdom.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "3. The abused case shall be sheltered or hosted according to the following conditions:\nSocial Protection Homes: Homes designated to provide shelter for victims of domestic violence, whether affiliated with the Ministry or the third sector supervised by the Ministry.",
+      "rationale": "The framework provides for sheltering/hosting abused cases (including women) and defines “Social Protection Homes” as homes designated to provide shelter for victims of domestic violence, thereby recognising and providing accommodation-based protection in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. The abused case shall be sheltered or hosted according to the following conditions:\n\nSocial Protection Homes: Homes designated to provide shelter for victims of domestic violence, whether affiliated with the Ministry, or the third sector supervised by the Ministry.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references legal measures (e.g., referral to prosecution) and includes “legal” as a specialty within a multidisciplinary team, none of the candidate sentences establish or guarantee legal aid/assistance/advice/representation for victims as a service or entitlement.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Conduct the necessary medical evaluation of the abused case, and if not possible in a timely manner, the victim shall be temporarily hosted in one of the designated protection homes until medical evaluation is done and the case's safety is ascertained.\n1. Deal Immediately with the report by communicating with the case, conducting a medical evaluation, in accordance with the mental health care law, and taking all necessary and appropriate measures to deal with the case.",
+      "rationale": "The framework requires medical evaluation of abused cases and includes conducting a medical evaluation as an immediate action after receiving an abuse report, which constitutes an operative provision for health/medical services linked to abuse cases.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Conduct the necessary medical evaluation of the abused case, and if not possible in a timely manner, the victim shall be temporarily hosted in one of designated protection homes until medical evaluation is done and the case safety is ascertained.\n\n1. Deal Immediately with the report by communicating with the case, conducting a medical evaluation, in accordance with the mental health care law, and taking all necessary and appropriate measures to deal with the case.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "4. If the Protection Center deems that the interest of the case requires only treating the case by providing psychological, family, and social guidance and counseling, or reconciliation between the parties to the case, then the Center must ensure that this procedure will not result in more severe harm to the case by, adopting the necessary means to maintain the case's safety.\n5. Subjecting the necessary parties to the case to psychological treatment or rehabilitation programs, that are appropriate for each case.",
+      "rationale": "The framework provides for psychological/family/social guidance and counseling and for subjecting necessary parties to psychological treatment or rehabilitation programs, which are operative psychosocial/psychological support services within the response mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. If the Protection Center deems that the interest of the case requires only treating the case by providing psychological, family, and social guidance and counseling, or reconciliation between the parties to the case, then the Center must ensure that this procedure will not result in more severe harm to the case by, adopting the necessary means to maintain the case's safety.\n\n5. Subjecting the necessary parties to the case to psychological treatment or rehabilitation programs, that are appropriate for each case.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious or spiritual counselling, faith-based guidance, or involvement of religious institutions/leaders in victim support services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "1. Conduct social and psychological research for abused cases, engage the case in rehabilitation programs, and empower in a manner that guarantees assisting the case to settle down and adapt to their family or social conditions.\n2. Follow up and supervise social protection homes to ensure satisfactory protection for the abused cases, and develop empowering programs in preparation for returning the cases to their families.",
+      "rationale": "The framework assigns the Ministry responsibilities including engaging abused cases in rehabilitation programs and developing empowering programs in preparation for returning cases to their families, which are longer-term recovery/rehabilitation and reintegration-oriented supports in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Conduct social and psychological research for abused cases, engage the case in rehabilitation programs, and empower in a manner that guarantees assist the case to settle down, and adapt to their family or social conditions.\n\n2. Follow up and supervise social protection homes, to ensures satisfactory protection for the abused cases , and develop empowering programs in preparation for returning the cases to their famililes.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "5. Subjecting the necessary parties to the case to psychological treatment or rehabilitation programs, that are appropriate for each case.\nProtection Centers: Administrative and field centers for processing reports of protection from abuse, and providing an integrated service to victims and aggressors.",
+      "rationale": "The framework provides for subjecting necessary parties to psychological treatment or rehabilitation programs and defines Protection Centers as providing integrated services to victims and aggressors, indicating perpetrator-focused rehabilitation/treatment programming within the operative service mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Subjecting the necessary parties to the case to psychological treatment or rehabilitation programs, that are appropriate for each case.\n\nProtection Centers: Administrative and field centers for processing reports of protection from abuse, and providing an integrated service to victims and aggressors.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "4. In order to reduce abuse, the Ministry shall propose appropriate preventive measures to protect against abuse, and spread awareness among members of society about the concept of abuse and its effects, in cooperation with the competent authorities.",
+      "rationale": "The framework includes an operative provision requiring the Ministry, as a preventive measure to reduce abuse, to spread awareness among members of society about abuse and its effects, explicitly linking awareness-raising to prevention/reduction of abuse.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. In order to reduce abuse, the Ministry shall propose appropriate preventive measures to protect against abuse, and spreads awareness among members of society about the concept of abuse, and its effects, in cooperation with the competent authorities.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss awareness about abuse and its effects and other protection/response measures, but do not require or provide information/education/awareness activities specifically about gender equality, non-discrimination against women, or women’s rights, nor link such gender-equality education to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions educating community members about their legal and statutory rights, it does not specify that the information/education concerns laws, regulations, policies, or legal protections related to violence against women (or even abuse-specific legal protections). The awareness provisions are framed around the concept/effects of abuse rather than dissemination of VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general awareness-raising and training related to abuse, but do not explicitly identify formal education systems (schools, curricula, educational institutions, or education authorities) or improvements in education quality as a prevention measure for violence against women.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not describe any prevention activities specifically targeting or engaging men and/or boys (e.g., programmes to change masculinities or harmful gender norms) to prevent violence against women. They address abuse generally and case-handling measures without a men/boys engagement component.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "Competent Authorities: Relevant authorities from the governmental sector, private sector, and the third sector.\nSocial Protection Homes: Homes designated to provide shelter for victims of domestic violence, whether affiliated with the Ministry or the third sector supervised by the Ministry.",
+      "rationale": "The regulation defines “Competent Authorities” to include the third sector, and defines “Social Protection Homes” as including homes affiliated with the third sector supervised by the Ministry, which establishes an operative role for third-sector (civil society) entities in providing shelter/services for abuse victims.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Competent Authorities: Relevant authorities from the governmental sector, private sector, and the third sector.\n\nSocial Protection Homes: Homes designated to provide shelter for victims of domestic violence, whether affiliated with the Ministry, or the third sector supervised by the Ministry.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors in preventing or responding to abuse/VAW.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss awareness-raising, research, training, and coordination with competent authorities, but they do not identify schools, universities, or other education institutions as partners or require/authorise collaboration with them on abuse/VAW.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of international organisations or any operative provision establishing cooperation with international bodies on abuse/VAW.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text mentions awareness-raising among community members, it does not mention media organisations/actors or establish any media engagement mechanism related to abuse/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provisions refer to raising awareness among community members and spreading awareness among members of society, but they do not establish community participation/collaboration mechanisms; they describe government-led awareness activities rather than community engagement as partners, and reporting obligations alone cannot be inferred as engagement.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While “Competent Authorities” is defined to include the private sector, the candidate sentences do not establish or require collaboration with businesses/private-sector actors specifically for abuse/VAW prevention or response, nor assign them roles as partners in such activities.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe ministry/protection-center responsibilities, procedures, and coordination with authorities, but do not mention any funding source or budget line attributable to local government.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text assigns duties to the Ministry and other authorities, none of the candidate sentences explicitly reference a national government budget, state funding allocation, or financing source.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions international assistance, donors, UN agencies, foreign governments, development partners, or any other explicit international support mechanism related to protection from abuse.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on definitions, procedures, and institutional roles; they do not identify any funding/budget source from other legal sources (e.g., earmarked funds, fines, levies, or other legally established financing streams).",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention governors and regional handling of cases, but do not reference any provincial-level budget or funding source.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 19,
+    "resolved": 19,
+    "rate": 1.0
+  }
+}

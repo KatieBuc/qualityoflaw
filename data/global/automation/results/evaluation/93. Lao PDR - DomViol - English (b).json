@@ -1,0 +1,971 @@
+{
+  "policy_file": "93. Lao PDR - DomViol - English (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T15:26:12.729145+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Act of domestic violence against women and children is an action and negligence of any members of the family that create damages to the body, mind or assets of women and children in the family.\nHaving received information or requests on domestic violence against women and children, counseling and protecting women and children unit of the village must study it within 7 days in coordination with concerned authorities, fix date, venue and invite the parties and witnesses to attend mediation sessions.\nThe victims of domestic violence have the rights to receive necessary assistance in food and accommodation, legal matters, health, short-term vocational training and repatriation as stipulated in Articles 21, 22, 23, 24, 25 and 26 of this Decree.",
+      "rationale": "The text contains operative provisions that define domestic violence against women and children and establish procedures and entitlements for victims (e.g., mediation procedures and rights to necessary assistance), which meets the substantive-coding requirements.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Act of domestic violence against women and children is an action and negligence of any members of the family that create damages to the body, mind or assets of women and children in the family.\n\nHaving received information or requests on domestic violence against women and children, counseling and protecting women and children unit of the village must study it within 7 days in coordination with concerned authorities, fix date, venue and invite the parties and witnesses to attend mediation sessions.\n\nThe victims of domestic violence have the rights to receive necessary assistance in food and accommodation, legal matters, health, short-term vocational training and repatriation as stipulated in Articles 21, 22, 23, 24, 25 and 26 of this Decree.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Rape,",
+      "rationale": "Rape is explicitly listed as an act constituting severe domestic violence, which is an operative classification of violence with legal/process consequences in the decree, satisfying substantive coverage of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Rape,",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Beating, torture,\nAct of the use of domestic violence against women and children is any activity that causes losses in life, health, mind, liberty, dignity or assets resulting from beating, torture, detention, tying, oppression, preventing from undertaking social activities, rape, illegal divorce, adultery, insults, scorn, allegation, defamation, burning, destructing premises and other things, wasting the assets of the family.",
+      "rationale": "Physical acts such as beating and torture are explicitly included in the operative definition/classification of domestic violence (severe domestic violence), which constitutes substantive coverage of physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Beating, torture,\n\nAct of the use of domestic violence against women and children is any activity that causes losses in life, health, mind, liberty, dignity or assets resulting from beating, torture, detention, tying, oppression, preventing from undertaking social activities, rape, illegal divorce, adultery, insults, scorn, allegation, defamation, burning, destructing premises and other things, wasting the assets of the family.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Negligence constituting a domestic violence against women and children is a noncompliance with what stipulated in the law or with what husband, family members shall be done to each other, which causes psychological damages or health to women and children in family shown by the acts of refusal of obligations in caring for-feeding the family, when delivering a child, miscarrying or getting sick, the act of not protecting right and benefits of wife and children when being harassed, the act of not sharing work for the improved standards of living of the family and the act of not sharing responsibilities of educating children to be good citizens.\nInsults,",
+      "rationale": "The framework explicitly refers to psychological damages in defining negligence constituting domestic violence and includes verbal/psychological acts (e.g., insults) as minor domestic violence, indicating psychological violence is covered in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "Negligence constituting a domestic violence against women and children is a noncompliance with what stipulated in the law or with what husband, family members shall be done to each other, which causes psychological damages or health to women and children in family shown by the acts of refusal of obligations in caring for-feeding the family, when delivering a child, miscarrying or getting sick, the act of not protecting right and benefits of wife and children when being harassed, the act of not sharing work for the improved standards of living of the family and the act of not sharing responsibilities of educating children to be good citizens.\n\nInsults,",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Wasting the assets of the family,\nNot taking responsibilities of caring for the family, when delivering a child or getting sick.",
+      "rationale": "The decree classifies conduct with an economic/neglect dimension—such as wasting family assets and not taking responsibilities of caring for the family—as acts of domestic violence (severe domestic violence), which substantively addresses economic abuse/neglect as a form of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Wasting the assets of the family,\n\nNot taking responsibilities of caring for the family, when delivering a child or getting sick.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention or regulate early/child marriage, FGM/C, honour crimes/violence, female infanticide, or similar harmful practices; the excerpts focus on trafficking and domestic violence definitions and procedures.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, prevention, or monitoring measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "The trafficking in persons especially in women and children has the following compositions:\nPurposes of receipt of women and children are for exploitation of labor, prostitution, propagation of pornography, things that contradict with good national culture, removal of body's organs or for other illegal profits.\nAfter receiving information about or being informed of the trafficking in persons especially in women and children who are Lao citizens, foreign nationals, stateless persons and foreigners in the Lao PDR, the police shall coordinate with local authorities to render assistance to the victims promptly, delivering them to a safe shelter, and at the same time shall pursue lawsuit against the accused in accordance with the law.",
+      "rationale": "The framework provides an operative description of trafficking in persons (including its components and purposes) and sets out victim assistance obligations by police and coordination with local authorities, meeting substantive criteria for addressing trafficking.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "The trafficking in persons especially in women and children has the following compositions:\n\nPurposes of receipt of women and children are for exploitation of labor, prostitution, propagation of pornography, things that contradict with good national culture, removal of body’s organs or for other illegal profits.\n\nAfter receiving information about or being informed of the trafficking in persons especially in women and children who are Lao citizens, foreign nationals, stateless persons and foreigners in the Lao PDR, the police shall coordinate with local authorities to render assistance to the victims promptly, delivering them to a safe shelter, and at the same time shall pursue lawsuit against the accused in accordance with the law.",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Purposes of receipt of women and children are for exploitation of labor, prostitution, propagation of pornography, things that contradict with good national culture, removal of body's organs or for other illegal profits.",
+      "rationale": "The trafficking provision explicitly includes prostitution and pornography among the purposes of receipt of women and children, establishing a clear sexual-exploitation nexus within operative trafficking definitions, which satisfies substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.76,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.76
+      },
+      "evidence_verified": true,
+      "evidence_original": "Purposes of receipt of women and children are for exploitation of labor, prostitution, propagation of pornography, things that contradict with good national culture, removal of body’s organs or for other illegal profits.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) or define/prohibit technology-facilitated violence; they address trafficking/domestic violence generally and procedural matters.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "If there are concrete and sufficient evidence, dossier of cases shall be sent to the Public Prosecutors for prosecuting criminals and penalizing for damages, mental rehabilitation and others incurred costs",
+      "rationale": "The text describes criminal prosecution and penalization of offenders in cases related to trafficking in persons (including domestic violence), indicating criminal consequences (prosecuting criminals and penalizing). However, it does not specify offence elements or a specific penalty type/range (e.g., imprisonment term or fine amount) for VAW acts within the provided sentences.",
+      "coverage": "Referenced only",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "If there are concrete and sufficient evidence, dossier of cases shall be sent to the Public Prosecutors for prosecuting criminals and penalizing for damages, mental rehabilitation and others incurred costs",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss assistance, mediation, reporting, arrest/detention measures, and general protection/safety measures, but they do not establish a protection/restraining order mechanism with an application process, issuing authority, duration, and consequences for breach.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions village-level counseling/protection units and broader organizations (including police) involved in assistance and case handling, it does not designate a specialised unit within the police services (e.g., a dedicated police desk/division) mandated to handle VAW cases.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences refer to general responsibilities of prosecutors/courts to guide proceedings and organize training, and to ordinary court access after mediation, but they do not establish a specialised court/chamber or a specialised/expedited judicial procedure specifically for VAW cases.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Rape is listed as a form of severe domestic violence, but the provided sentences do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption from criminal liability for sexual violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "Management and monitoring of the development and protection of women are the duties of concerned authorities of the state as stipulated in Article 43 of the Law on Development and Protection of Women, having Lao Women's Union plays a central role in coordinating with concerned authorities for harmony and effectiveness.",
+      "rationale": "The text establishes an institutional coordination role by specifying that the Lao Women's Union plays a central role in coordinating with concerned state authorities for effective implementation/monitoring related to development and protection of women, which includes domestic violence provisions in the decree.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Management and monitoring of the development and protection of women are the duties of concerned authorities of the state as stipulated in Article 43 of the Law on Development and Protection of Women, having Lao Women’s Union plays a central role in coordinating with concerned authorities for harmony and effectiveness.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "In receiving the information, the informed officers shall record main information such as:\nIn case that the Lao Women Union or the Local Administration are the informed, the minutes of information shall be sent to the police immediately to help the victim and proceed on the case in accordance with the law.",
+      "rationale": "The framework requires that informed officers record specified information when receiving information (a formal record/minutes requirement) and provides for transmission of those minutes to police, which constitutes mandated documentation/recording and information management related to cases (including domestic violence via the cross-reference for domestic violence records).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "In receiving the information, the informed officers shall record main information such as:\n\nIn case that the Lao Women Union or the Local Administration are the informed, the minutes of information shall be sent to the police immediately to help the victim and proceed on the case in accordance with the law.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address gender equality and measures to guarantee equality between women and men, but they do not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirements, focal points, or mainstreaming in planning/budgeting) as defined by the coding rules.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "General Public Prosecutor and People's Supreme Court have the responsibilities of guiding the proceeding of cases against the accused related to trafficking in persons especially in women and children including domestic violence, coordinating with concerned authorities to organize training to upgrade knowledge of the investigatorsinterrogator, investigator officers, prosecutors and judges on proceeding the cases of trafficking in persons especially in women and children.",
+      "rationale": "The framework assigns responsibilities that include organizing training to upgrade knowledge of investigators, prosecutors, and judges for handling trafficking cases including domestic violence, which is an explicit training/capacity-building provision for implementing legal personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "General Public Prosecutor and People’s Supreme Court have the responsibilities of guiding the proceeding of cases against the accused related to trafficking in persons especially in women and children including domestic violence, coordinating with concerned authorities to organize training to upgrade knowledge of the investigatorsinterrogator, investigator officers, prosecutors and judges on proceeding the cases of trafficking in persons especially in women and children.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Monitoring is undertaken by convening joint meetings between the Lao Women's Union and concerned authorities to consult and review the implementation of the law.\nAfter finishing the monitoring, report shall be made and submitted to their superiors regularly.",
+      "rationale": "The framework establishes a monitoring process (regular monitoring, joint meetings between the Lao Women's Union and concerned authorities to review implementation) and requires reporting of monitoring results to superiors, which constitutes a specific monitoring mechanism for implementation of the law (including domestic violence provisions).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Monitoring is undertaken by convening joint meetings between the Lao Women’s Union and concerned authorities to consult and review the implementation of the law.\n\nAfter finishing the monitoring, report shall be made and submitted to their superiors regularly.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "The above-mentioned organizations shall plan to budget the assistance to the victims of trafficking in persons especially in women and children including domestic violence.",
+      "rationale": "The framework imposes a duty on specified organizations to plan/budget assistance to victims (including domestic violence), which functions as a binding requirement to allocate/plan budget for implementation of response services.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.67,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.67
+      },
+      "evidence_verified": true,
+      "evidence_original": "The above-mentioned organizations shall plan to budget the assistance to the victims of trafficking in persons especially in women and children including domestic violence.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "The organizations for counseling and protection of women and children are organizations of the Central, Provincial, District and Village Lao Women's Union, which play roles of counseling, receiving appeals or mediating issues related to legitimate rights and benefits of women and children, at the same time coordinate with concerned organizations to collect data and solve problems according to their responsibilities.\nThe victims have the right to receive legal assistance such as counseling, legal advice, lawyer and other protection in defending the case free of charge, having Lao Women's Union at each level as coordinator to deal with concerned sections such as Justice, Public Security, People's Court, Public Prosecutor and others.",
+      "rationale": "The framework recognises designated counseling/protection organizations that provide counseling and coordinate with other concerned organizations to solve problems, and it assigns a coordinating role (Lao Women's Union) to deal with multiple justice-sector bodies in providing legal assistance—together indicating an operative, coordinated multi-service mechanism for women/children victims including domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "The organizations for counseling and protection of women and children are organizations of the Central, Provincial, District and Village Lao Women’s Union, which play roles of counseling, receiving appeals or mediating issues related to legitimate rights and benefits of women and children, at the same time coordinate with concerned organizations to collect data and solve problems according to their responsibilities.\n\nThe victims have the right to receive legal assistance such as counseling, legal advice, lawyer and other protection in defending the case free of charge, having Lao Women’s Union at each level as coordinator to deal with concerned sections such as Justice, Public Security, People’s Court, Public Prosecutor and others.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Informing shall be done orally, by phone call, or in written form.\nIndividuals who have the right to be informed on domestic violence against women and children are:",
+      "rationale": "The framework provides an operative mechanism for reporting domestic violence: specified categories of informers (including victims) may inform, including by phone call, and it identifies designated entities that are to be informed (village administration, village counseling/protection units, organizations the victim belongs to, and police).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Informing shall be done orally, by phone call, or in written form.\n\nIndividuals who have the right to be informed on domestic violence against women and children are:",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "The victims have the right to receive assistance in safe shelter, including food, medicines, clothing and necessary stuff, for which the Labor and Social Welfare section in coordination with the Lao Women Union at various levels and other concerned sections are responsible according to their roles and duties.",
+      "rationale": "The framework explicitly provides a right to assistance in a safe shelter and assigns responsibility to the Labor and Social Welfare section in coordination with the Lao Women Union and other sections, which constitutes an operative shelter/safe accommodation provision for victims including domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "The victims have the right to receive assistance in safe shelter, including food, medicines, clothing and necessary stuff, for which the Labor and Social Welfare section in coordination with the Lao Women Union at various levels and other concerned sections are responsible according to their roles and duties.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "The victims have the right to receive legal assistance such as counseling, legal advice, lawyer and other protection in defending the case free of charge, having Lao Women's Union at each level as coordinator to deal with concerned sections such as Justice, Public Security, People's Court, Public Prosecutor and others.",
+      "rationale": "The framework expressly grants victims a right to legal assistance (including counseling, legal advice, and lawyer/defense protection) and specifies coordination through the Lao Women's Union with justice and security institutions, meeting the legal aid/assistance criterion.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "The victims have the right to receive legal assistance such as counseling, legal advice, lawyer and other protection in defending the case free of charge, having Lao Women’s Union at each level as coordinator to deal with concerned sections such as Justice, Public Security, People’s Court, Public Prosecutor and others.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "The victims have the rights to receive medical assistance as following:\nMinistry of Public Health has the responsibilities of rendering medical services to victims as stipulated in Article 24 of this Decree.",
+      "rationale": "The framework provides victims a right to medical assistance (including examinations and treatment) and assigns the Ministry of Public Health responsibility to render medical services to victims, explicitly linking health services to victims including domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "The victims have the rights to receive medical assistance as following:\n\nMinistry of Public Health has the responsibilities of rendering medical services to victims as stipulated in Article 24 of this Decree.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "1. Counseling in mental health and psychological treatments,\nPsychological counseling such as: giving encouragement, warmth, recommending alternatives so that they are psychologically strong and able to solve problems by themselves;",
+      "rationale": "The framework includes operative provisions for mental health/psychological counseling and explicitly lists psychological counseling as part of counseling and protection contents, thereby providing psychosocial/psychological support services for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Counseling in mental health and psychological treatments,\n\nPsychological counseling such as: giving encouragement, warmth, recommending alternatives so that they are psychologically strong and able to solve problems by themselves;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to citizens/local authorities providing 'spiritual assistance' in general, but do not establish any religious or faith-based counselling/guidance service, identify religious leaders/institutions, or include faith-based support as a defined victim-support service mechanism.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "The victims have the right to receive short term vocational training such as in tailoring, handicraft, beauty caring, food processing, hotel management, agriculture, livestock and others to enable them to have jobs, income and improve further their standard of living, for which the Labor and Social Welfare Section in coordination with the Lao Women's Union at various levels and other concerned sections are responsible in accordance with their roles and duties.\n2. Send the victims to their families, parents or relatives and entrust village administrative authorities, village Lao Women's Union to continue monitoring and assisting them.",
+      "rationale": "The framework provides longer-term recovery/reintegration measures, including a right to short-term vocational training to enable jobs/income and procedures for returning victims home with continued monitoring and assistance by local authorities and the Lao Women's Union, which are reintegration supports for victims including domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "The victims have the right to receive short term vocational training such as in tailoring, handicraft, beauty caring, food processing, hotel management, agriculture, livestock and others to enable them to have jobs, income and improve further their standard of living, for which the Labor and Social Welfare Section in coordination with the Lao Women’s Union at various levels and other concerned sections are responsible in accordance with their roles and duties.\n\n2. Send the victims to their families, parents or relatives and entrust village administrative authorities, village Lao Women’s Union to continue monitoring and assisting them.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on victim assistance, reporting, mediation, and sanctions/warnings/education as penalties, but do not establish or provide perpetrator-focused intervention, rehabilitation, treatment, or behaviour-change programmes, nor any referral to such programmes as part of sentencing or other legal processes.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Local Administrations have the responsibilities of propagating-educating citizens in their localities on the dangers of trafficking in persons especially in women and children including domestic violence, playing central roles in combating and deterring the trafficking, receiving information including victims who are delivered by referral organizations to their families, parents or relatives, continuing to educate, monitor, render material and spiritual assistance so that the victims can be reintegrated into the society and become good citizens.",
+      "rationale": "The framework assigns local administrations responsibility for “propagating-educating” citizens about dangers of trafficking in persons (especially women and children) including domestic violence, which is an explicit awareness/education activity directed at violence against women (via domestic violence against women and children) and trafficking of women.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Local Administrations have the responsibilities of propagating-educating citizens in their localities on the dangers of trafficking in persons especially in women and children including domestic violence, playing central roles in combating and deterring the trafficking, receiving information including victims who are delivered by referral organizations to their families, parents or relatives, continuing to educate, monitor, render material and spiritual assistance so that the victims can be reintegrated into the society and become good citizens.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text discusses equality between women and men and education-sector responsibilities to promote equal educational opportunities and curricula reflecting equality, none of the candidate sentences explicitly establish information/awareness activities about gender equality or women’s rights as a primary prevention measure for violence against women, nor do they explicitly link such education/awareness to preventing VAW.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include propagation/education about the dangers of trafficking and domestic violence, and separate provisions about training/propagating the constitution, laws and treaties related to rights of women and children. However, none of the sentences specify dissemination/education about laws or policies specifically concerning violence against women (or domestic violence legal protections) as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The education-sector provision focuses on equal opportunities and curricula reflecting equality between women and men, but it does not explicitly identify education, educational institutions, or curricula as measures to prevent violence against women. Other references to “educate” relate to mediation/handling of domestic violence cases or general propagation about dangers, not formal education-based VAW prevention.",
+      "coverage": null,
+      "confidence": 0.73,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.73
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences impose general obligations on “every citizen” to deter and combat trafficking/domestic violence and include general equality provisions, but they do not establish prevention activities specifically engaging men or boys, nor do they describe programmes aimed at changing masculinities or male gender norms to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "Lao Women's Union has the responsibilities of receiving information, counseling, rehabilitating psychological damages, providing temporary safe shelter, short-term vocational training, giving legal and health advice, collaborating in providing evidence useful for the proceeding of lawsuit, protecting legitimate rights and benefits of women and children who are victims of trafficking in persons including domestic violence.",
+      "rationale": "The framework assigns the Lao Women's Union specific responsibilities to support and protect women and children who are victims of trafficking including domestic violence, indicating an operative role for a non-governmental/mass organization in the response to VAW-related harms.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Lao Women’s Union has the responsibilities of receiving information, counseling, rehabilitating psychological damages, providing temporary safe shelter, short-term vocational training, giving legal and health advice, collaborating in providing evidence useful for the proceeding of lawsuit, protecting legitimate rights and benefits of women and children who are victims of trafficking in persons including domestic violence.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention religious organisations/leaders or traditional/cultural leaders as actors to be engaged in preventing or responding to violence against women; references to culture/tradition are general and not framed as collaboration mechanisms with such leaders.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references the Ministry of Education and the education sector, it does not establish engagement or collaboration with education institutions (e.g., schools/universities) as partners in VAW prevention or response; the provisions shown do not assign VAW-related roles to education institutions themselves.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "The budget for counseling and protection of women and children comes from the government's budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.",
+      "rationale": "The framework explicitly includes international organizations as a source of foreign contributions to the budget for counseling and protection of women and children, indicating an operative provision that contemplates engagement with international organizations in supporting these services (which include domestic violence assistance).",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "The budget for counseling and protection of women and children comes from the government’s budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify media organisations/actors (journalists, broadcasters, publishers, etc.) or establish any media-related partnership, responsibilities, or mechanisms for VAW prevention/response; general propagation/education language is not tied to media actors.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text imposes obligations on citizens, family members, witnesses, and nearby persons to intervene, assist, or inform authorities, the coding rules exclude inferring community engagement merely from reporting/compliance duties; the excerpts do not establish a community participation mechanism or community mobilisation/partnership for VAW prevention/response beyond these obligations.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private companies, or other private-sector actors as partners or participants in preventing or responding to violence against women, nor do they establish any public-private mechanism for VAW-related purposes.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions mention funding from the “government's budget” and other contributions, and assign local administrations responsibilities, but none of the candidate sentences explicitly identify a local (subnational) government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "The budget for counseling and protection of women and children comes from the government's budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.\nSources of the Women Development Fund are from the government budget, contribution of individuals, juristic persons, community, Lao Front for National Reconstruction, Mass Unofficial translation",
+      "rationale": "The candidate sentences explicitly state that budgets/fund sources come from the government’s budget, which constitutes national government budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "The budget for counseling and protection of women and children comes from the government’s budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.\n\nSources of the Women Development Fund are from the government budget, contribution of individuals, juristic persons, community, Lao Front for National Reconstruction, Mass Unofficial translation",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "The budget for counseling and protection of women and children comes from the government's budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.\nOrganizations, Social organizations, International Organizations and from others activities.",
+      "rationale": "The policy explicitly includes “international organizations” as a source of budget/funding for counseling/protection and as a source for the Women Development Fund, which meets the criterion for explicit international support.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "The budget for counseling and protection of women and children comes from the government’s budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.\n\nOrganizations, Social organizations, International Organizations and from others activities.",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Sources of the Women Development Fund are from the government budget, contribution of individuals, juristic persons, community, Lao Front for National Reconstruction, Mass Unofficial translation\nThe budget for counseling and protection of women and children comes from the government's budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.",
+      "rationale": "Beyond government budget, the policy lists multiple non-budget sources (e.g., contributions from individuals/juristic persons/communities and other entities/activities), which qualifies as other (non-government-budget) funding sources.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "Sources of the Women Development Fund are from the government budget, contribution of individuals, juristic persons, community, Lao Front for National Reconstruction, Mass Unofficial translation\n\nThe budget for counseling and protection of women and children comes from the government’s budget, in country and foreign contributions of individual, juristic persons, communities, National Front for Reconstruction, mass organizations, social organizations, international organizations and from others activities.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references provincial offices/structures and mentions funding from the “government's budget,” it does not explicitly specify a provincial government budget as a distinct funding source in the candidate sentences.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 26,
+    "resolved": 26,
+    "rate": 1.0
+  }
+}

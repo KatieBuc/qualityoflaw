@@ -16,11 +16,12 @@ the configured confidence methods.
 
 import math
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Any, Sequence
 
 ID_PATTERN = re.compile(r'"id"\s*:\s*"([^"]*)"')
 INCLUDED_PATTERN = re.compile(r'"included"\s*:\s*"([^"]*)"')
+COVERAGE_PATTERN = re.compile(r'"coverage"\s*:\s*"([^"]*)"')
 
 LABEL_YES = "yes"
 LABEL_NO = "no"
@@ -213,6 +214,138 @@ def extract_answer_confidences(choice: Any) -> list[AnswerConfidence]:
                 probability=probability,
                 p_yes=p_yes,
                 p_no=p_no,
+                margin=margin,
+                counterpart_observed=counterpart_observed,
+                token_count=len(token_indices),
+            )
+        )
+    return results
+
+
+# --------------------------------------------------------------------------- coverage
+@dataclass
+class CoverageConfidence:
+    """Confidence for one indicator's `coverage` answer (e.g. "Substantive" vs "Referenced only").
+
+    Independent of the Yes/No answer: it is read from the tokens of the `coverage` value only.
+    `probability` is the joint probability of the whole value; `p_by_label` and `margin` are normalised over the
+    configured labels, the way `AnswerConfidence.p_yes` / `margin` are over Yes / No.
+    """
+
+    indicator_id: str
+    answer: str
+    logprob: float
+    probability: float
+    p_by_label: dict[str, float] = field(default_factory=dict)
+    margin: float | None = None
+    counterpart_observed: bool = False
+    token_count: int = 0
+
+
+def classify_coverage_label(text: str, labels: Sequence[str]) -> str | None:
+    """The configured label a (partial, quoted, any-case) token stands for; None when it is ambiguous or unrelated."""
+    normalized = text.strip().strip('"').lower()
+    if not normalized:
+        return None
+    matches = [
+        label for label in labels
+        if label.lower().startswith(normalized) or normalized.startswith(label.lower())
+    ]
+    return matches[0] if len(matches) == 1 else None
+
+
+def canonical_coverage(value: str | None, labels: Sequence[str]) -> str | None:
+    """`value` as one of `labels` (case and surrounding space ignored), or None."""
+    if value is None:
+        return None
+    wanted = " ".join(str(value).split()).lower()
+    for label in labels:
+        if label.lower() == wanted:
+            return label
+    return None
+
+
+def _coverage_margin(
+    entry: Any, answer: str | None, answer_probability: float, labels: Sequence[str]
+) -> tuple[dict[str, float], float | None, bool]:
+    """Normalised P(label) for every label, and the margin between the winner and the runner-up.
+
+    As with Yes/No, a label missing from the top-k is bounded by the smallest alternative that was returned, so the
+    margin is a conservative estimate rather than unknown.
+    """
+    if answer is None:
+        return {}, None, False
+    best: dict[str, float] = {}
+    observed: list[float] = []
+    for alternative in getattr(entry, "top_logprobs", None) or []:
+        logprob = getattr(alternative, "logprob", None)
+        if logprob is None:
+            continue
+        probability = _to_probability(logprob)
+        observed.append(probability)
+        label = classify_coverage_label(_token_text(alternative), labels)
+        if label is not None and probability > best.get(label, 0.0):
+            best[label] = probability
+
+    p_answer = best.get(answer, answer_probability)
+    probabilities = {answer: p_answer}
+    counterpart_observed = True
+    bound = min(observed) if observed else 0.0
+    for label in labels:
+        if label == answer:
+            continue
+        if label in best:
+            probabilities[label] = best[label]
+        else:
+            counterpart_observed = False
+            probabilities[label] = min(bound, max(0.0, 1.0 - p_answer))
+    total = sum(probabilities.values())
+    if total <= 0:
+        return {}, None, counterpart_observed
+    probabilities = {label: p / total for label, p in probabilities.items()}
+    ranked = sorted(probabilities.values(), reverse=True)
+    margin = ranked[0] - ranked[1] if len(ranked) > 1 else ranked[0]
+    return probabilities, margin, counterpart_observed
+
+
+def extract_coverage_confidences(choice: Any, labels: Sequence[str]) -> list[CoverageConfidence]:
+    """Per-indicator confidence of the `coverage` value, from one chat completion choice.
+
+    Only a quoted value is read, so an indicator answered "No" (`"coverage": null`) simply has none.
+    Returns an empty list when the response carries no logprobs.
+    """
+    entries = _token_entries(choice)
+    if not entries or not labels:
+        return []
+
+    text, spans = _build_text(entries)
+    id_matches = list(ID_PATTERN.finditer(text))
+
+    results: list[CoverageConfidence] = []
+    for match in COVERAGE_PATTERN.finditer(text):
+        indicator_id = _pair_with_id(id_matches, match.start())
+        if indicator_id is None:
+            continue
+        value_start, value_end = match.span(1)
+        token_indices = _tokens_covering(spans, value_start, value_end)
+        if not token_indices:
+            continue
+
+        logprob = sum(
+            getattr(entries[i], "logprob", None) or 0.0 for i in token_indices
+        )
+        probability = _to_probability(logprob)
+        answer = canonical_coverage(match.group(1), labels)
+        p_by_label, margin, counterpart_observed = _coverage_margin(
+            entries[token_indices[0]], answer, probability, labels
+        )
+        results.append(
+            CoverageConfidence(
+                indicator_id=indicator_id,
+                answer=match.group(1),
+                logprob=logprob,
+                probability=probability,
+                p_by_label=p_by_label,
                 margin=margin,
                 counterpart_observed=counterpart_observed,
                 token_count=len(token_indices),

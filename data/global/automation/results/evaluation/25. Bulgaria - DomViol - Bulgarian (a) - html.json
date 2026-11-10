@@ -1,0 +1,973 @@
+{
+  "policy_file": "25. Bulgaria - DomViol - Bulgarian (a) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T23:36:35.687968+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "1. the rights of persons who have suffered domestic violence or are at risk;\n(Amd. - SG, No. 102 of 2009, in force from 22.12.2009) (1) (Amd. - SG, No. 66 of 2023, in force from 01.01.2024, suppl. - SG, No. 69 of 2023) Domestic violence is any act of physical, sexual, psychological or economic violence, as well as an attempt at such violence, forced restriction of private life, personal freedom and personal rights, committed against persons who are in kinship, who are or have been in a family relationship or in de facto marital cohabitation or in an intimate relationship.\n(1) (Amended - SG, issue 102 of 2009, effective 22.12.2009) The measures for protection from domestic violence are:",
+      "rationale": "The cited operative provisions explicitly regulate domestic violence, including defining it and establishing protection measures and related rights/procedures, which meets the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. правата на лицата, пострадали от домашно насилие или в риск;\n\n(Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г.) (1) (Изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г., доп. - ДВ, бр. 69 от 2023 г.) Домашно насилие е всеки акт на физическо, сексуално, психическо или икономическо насилие, както и опитът за такова насилие, принудителното ограничаване на личния живот, личната свобода и личните права, извършени спрямо лица, които се намират в родствена връзка, които са или са били в семейна връзка или във фактическо съпружеско съжителство или в интимна връзка.\n\n(1) (Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г.) Мерките за защита от домашното насилие са:",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(Amd. - SG, No. 102 of 2009, in force from 22.12.2009) (1) (Amd. - SG, No. 66 of 2023, in force from 01.01.2024, suppl. - SG, No. 69 of 2023) Domestic violence is any act of physical, sexual, psychological or economic violence, as well as an attempt at such violence, forced restriction of private life, personal freedom and personal rights, committed against persons who are in kinship, who are or have been in a family relationship or in de facto marital cohabitation or in an intimate relationship.",
+      "rationale": "The operative definition of domestic violence explicitly includes sexual violence as a covered form of violence, which constitutes substantive coverage under the rules (classification of violence with legal consequences under the law).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г.) (1) (Изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г., доп. - ДВ, бр. 69 от 2023 г.) Домашно насилие е всеки акт на физическо, сексуално, психическо или икономическо насилие, както и опитът за такова насилие, принудителното ограничаване на личния живот, личната свобода и личните права, извършени спрямо лица, които се намират в родствена връзка, които са или са били в семейна връзка или във фактическо съпружеско съжителство или в интимна връзка.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(Amd. - SG, No. 102 of 2009, in force from 22.12.2009) (1) (Amd. - SG, No. 66 of 2023, in force from 01.01.2024, suppl. - SG, No. 69 of 2023) Domestic violence is any act of physical, sexual, psychological or economic violence, as well as an attempt at such violence, forced restriction of private life, personal freedom and personal rights, committed against persons who are in kinship, who are or have been in a family relationship or in de facto marital cohabitation or in an intimate relationship.",
+      "rationale": "The operative definition of domestic violence explicitly includes physical violence as a covered form, satisfying the criterion via inclusion in an operative classification of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г.) (1) (Изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г., доп. - ДВ, бр. 69 от 2023 г.) Домашно насилие е всеки акт на физическо, сексуално, психическо или икономическо насилие, както и опитът за такова насилие, принудителното ограничаване на личния живот, личната свобода и личните права, извършени спрямо лица, които се намират в родствена връзка, които са или са били в семейна връзка или във фактическо съпружеско съжителство или в интимна връзка.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(Amd. - SG, No. 102 of 2009, in force from 22.12.2009) (1) (Amd. - SG, No. 66 of 2023, in force from 01.01.2024, suppl. - SG, No. 69 of 2023) Domestic violence is any act of physical, sexual, psychological or economic violence, as well as an attempt at such violence, forced restriction of private life, personal freedom and personal rights, committed against persons who are in kinship, who are or have been in a family relationship or in de facto marital cohabitation or in an intimate relationship.\n(2) (Amd. - SG, No. 66 of 2023, in force from 01.01.2024) Any domestic violence committed in the presence of a child is also considered psychological violence against the child.",
+      "rationale": "The operative definition of domestic violence explicitly includes psychological violence, and the text further specifies that domestic violence committed in the presence of a child is considered psychological violence against the child, meeting substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г.) (1) (Изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г., доп. - ДВ, бр. 69 от 2023 г.) Домашно насилие е всеки акт на физическо, сексуално, психическо или икономическо насилие, както и опитът за такова насилие, принудителното ограничаване на личния живот, личната свобода и личните права, извършени спрямо лица, които се намират в родствена връзка, които са или са били в семейна връзка или във фактическо съпружеско съжителство или в интимна връзка.\n\n(2) (Изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) За психическо насилие върху дете се смята и всяко домашно насилие, извършено в негово присъствие.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(Amd. - SG, No. 102 of 2009, in force from 22.12.2009) (1) (Amd. - SG, No. 66 of 2023, in force from 01.01.2024, suppl. - SG, No. 69 of 2023) Domestic violence is any act of physical, sexual, psychological or economic violence, as well as an attempt at such violence, forced restriction of private life, personal freedom and personal rights, committed against persons who are in kinship, who are or have been in a family relationship or in de facto marital cohabitation or in an intimate relationship.",
+      "rationale": "The operative definition of domestic violence explicitly includes economic violence as a form of violence covered by the law, which is sufficient for substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г.) (1) (Изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г., доп. - ДВ, бр. 69 от 2023 г.) Домашно насилие е всеки акт на физическо, сексуално, психическо или икономическо насилие, както и опитът за такова насилие, принудителното ограничаване на личния живот, личната свобода и личните права, извършени спрямо лица, които се намират в родствена връзка, които са или са били в семейна връзка или във фактическо съпружеско съжителство или в интимна връзка.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative provisions targeting such practices.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they establish any femicide-specific aggravation, registry, or prevention/monitoring mechanism explicitly tied to femicide.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on domestic violence definitions, protection measures, and institutional mechanisms; they do not mention trafficking in persons, human trafficking, or trafficking victims/services.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes 'sexual' as a type of violence within domestic violence, it does not mention sexual exploitation or sexual slavery (or coercive prostitution/sexual exploitation for gain) as required by the criterion’s rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only technology-related reference is to prohibiting contact via communication means (e.g., telephone/electronic mail) as a protection measure; the text does not recognize or define technology-facilitated violence (e.g., cyber harassment/online abuse) as a form of violence, and the remaining references are to systems/administration.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(3) (Suppl. - SG, No. 102 of 2009, in force from 22.12.2009, former para. 2, amd. - SG, No. 66 of 2023, in force from 01.01.2024) The measures under this law do not exclude the civil, administrative-penal and criminal liability of the perpetrator.",
+      "rationale": "The text explicitly states that measures under the law do not exclude criminal liability of the perpetrator, which is a general reference to criminal consequences but does not define any VAW act as a criminal offence or specify criminal sanctions/penalties within the provided provisions.",
+      "coverage": "Referenced only",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) (Доп. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г., предишна ал. 2, изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) Мерките по този закон не изключват гражданската, административнонаказателната и наказателната отговорност на извършителя.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "(1) (Amended - SG, No. 102 of 2009, effective from 22.12.2009, previous text of Art. 8, amended - SG, No. 66 of 2023, effective from 01.01.2024) Proceedings for issuing a protection order may be instituted upon application by:\nThe district court in the region where the injured person actually resides at the time of filing the application is competent to impose a protection measure.\n1, items 2 - 5 are imposed for a term of three to 18 months with deduction of the term of validity of the measures under an issued order for immediate protection under Art. 18 and 19.\n1, in case of non-execution of the court order, the police authority that has established the violation detains the violator and immediately notifies the prosecution authorities.",
+      "rationale": "The framework sets out who may institute proceedings for a protection order (including the injured person and others, and prosecutor in specified circumstances), identifies the competent issuing authority (district court), provides a duration for certain measures (three to 18 months), and specifies consequences for non-execution (police detain violator and notify prosecution).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) (Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г., предишен текст на чл. 8, изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) Производството по издаване на заповед за защита може да се образува по молба на:\n\n(Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г., изм. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) Компетентен да наложи мярка за защита е районният съд в района на който пострадалото лице фактически пребивава към момента на подаване на молбата.\n\n1, т. 2 - 5 се налагат за срок от три до 18 месеца при приспадане на срока на действие на мерките при издадена заповед за незабавна защита по чл. 18 и 19.\n\n1 при неизпълнение на заповедта на съда полицейският орган, констатирал нарушението, задържа нарушителя и уведомява незабавно органите на прокуратурата.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention the Ministry of Interior/police in relation to forwarding applications, monitoring execution, and training, but do not designate or mandate any specific specialised unit/desk/division within police services for VAW victims.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "(1) (Amended - SG, No. 102 of 2009, effective from 22.12.2009, supplemented - SG, No. 66 of 2023, effective from 01.01.2024) When the application contains data of direct, immediate or subsequent danger to the life or health of the victim, the district court in closed session without summoning the parties issues an immediate protection order within 24 hours from receiving the application.",
+      "rationale": "The framework establishes an expedited/special procedure for urgent cases by requiring the district court to issue an immediate protection order within 24 hours when the application indicates direct/immediate/subsequent danger to the victim’s life or health. This constitutes a specialised/expedited judicial procedure for domestic-violence protection matters.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) (Изм. - ДВ, бр. 102 от 2009 г., в сила от 22.12.2009 г., доп. - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) Когато молбата съдържа данни за пряка, непосредствена или последваща опасност за живота или здравето на пострадалото лице, районният съд в закрито заседание без призоваване на страните издава заповед за незабавна защита в срок до 24 часа от получаването на молбата.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While domestic violence is defined to include sexual violence and applies in family/intimate relationships, none of the provided operative sentences expressly criminalise marital rape, state that spousal status is not a defence/exemption for rape/sexual offences, or otherwise clarify that rape/sexual-offence provisions apply irrespective of marital/intimate-partner status.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(New - SG, No. 66 of 2023, effective from 01.01.2024) (1) The interaction for protection, assistance and support of persons affected by domestic violence shall be carried out under the conditions and according to the procedure of a coordination mechanism for assistance and support to persons affected by domestic violence.\n1 regulates the basic procedures for interaction between the executive authorities, the local self-government and local administration bodies and the legal entities that carry out activities for prevention and protection from domestic violence under the procedure of this law.",
+      "rationale": "The text establishes a formal coordination mechanism for assistance and support, specifying that interaction shall occur under a defined “coordination mechanism” and that this mechanism regulates procedures for interaction between executive authorities, local self-government/local administration bodies, and relevant legal entities. This goes beyond a general call to coordinate by creating/mandating a structured mechanism and defining its function.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Нов - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) (1) Взаимодействието за защита, помощ и подкрепа на пострадалите от домашно насилие се осъществява при условията и по реда на координационен механизъм за помощ и подкрепа на лица, пострадали от домашно насилие.\n\n1 урежда основните процедури на взаимодействие между органите на изпълнителната власт, органите на местното самоуправление и местната администрация и юридическите лица, които осъществяват дейности по превенция и защита от домашното насилие по реда на този закон.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(New - SG, No. 66 of 2023, effective from 03.08.2024) (1) The National Council shall create and maintain a National Information System for Prevention and Protection from Domestic Violence, in which data on cases of domestic violence committed on the territory of the country or in relation to Bulgarian citizens abroad who have sought help and support shall be stored, hereinafter referred to as the \"National Information System\".\n(5) The executive authorities, the judicial authorities, the local self-government and local administration bodies and the legal entities that carry out activities for prevention and protection from domestic violence under the procedure of this law shall provide the National Council with the necessary data under para.",
+      "rationale": "The framework mandates creation and maintenance of a National Information System that stores data on domestic violence cases and requires multiple authorities and relevant legal entities to provide necessary data to the National Council, thereby establishing a system and assigning responsibilities for data collection/management.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Нов - ДВ, бр. 66 от 2023 г., в сила от 03.08.2024 г.) (1) Националният съвет създава и поддържа Национална информационна система за превенция и защита от домашното насилие, в която се съхраняват данни за случаите на домашно насилие, осъществени на територията на страната, или по отношение на български граждани в чужбина, които са потърсили помощ и подкрепа, наричана по-нататък \"Национална информационна система\".\n\n(5) Органите на изпълнителната власт, съдебната власт, органите на местното самоуправление и местната администрация и юридическите лица, които осъществяват дейности по превенция и защита от домашното насилие по реда на този закон, предоставят на Националния съвет необходимите данни по ал.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions promotion of gender equality and respect in the context of training in educational institutions, it does not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirements, focal points, working groups, or integration into planning/budgeting) for implementing violence-related policies or programs.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(2) The executive authorities, the National Institute of Justice and the local self-government and local administration bodies shall organize training for persons who carry out activities under this law.",
+      "rationale": "The framework explicitly mandates that executive authorities, the National Institute of Justice, and local self-government/local administration bodies shall organize training for persons who carry out activities under the law, which is a direct training/capacity-building requirement for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "6е, ал. 6. (6) В заседанията на Националния съвет по покана на председателя може да участват омбудсманът на Република България, народни представители, представители на органите на съдебната власт, представители на академичните среди, представители на юридически лица и международни организации с представителства в страната, които извършват дейност по превенция и защита от домашното насилие, ръководители на други държавни органи, представители на органи на местното самоуправление и местната администрация, на професионални и граждански организации, други длъжностни лица и експерти.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "2. carries out coordination, monitoring and evaluation of the implementation of policies and measures in the field of prevention and protection from domestic violence;",
+      "rationale": "The text assigns a responsible body (the National Council) the function to carry out monitoring and evaluation of implementation of policies and measures in the field of prevention and protection from domestic violence, which constitutes an operative monitoring and evaluation mechanism/designation.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. осъществява координация, мониторинг и оценка на изпълнението на политиките и мерките в областта на превенцията и защитата от домашното насилие;",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "(6) By the law on the state budget of the Republic of Bulgaria for the relevant year, funds shall be allocated under the budget of the Council of Ministers for financing projects of the persons under para.",
+      "rationale": "The framework contains a binding provision that, through the annual state budget law, funds shall be allocated under the budget of the Council of Ministers to finance projects for prevention programs and specialized protection/support services, constituting a requirement tied to the national budget for implementation funding.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "6. създава и поддържа национална информационна система за случаите на домашно насилие, осъществени на територията на страната, или по отношение на български граждани в чужбина, които са потърсили помощ и подкрепа, и списък на юридическите лица, които осъществяват дейности по превенция и защита от домашното насилие по реда на този закон, при спазване на изискванията на Закона за защита на личните данни;",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(New - SG, No. 66 of 2023, effective from 01.01.2024) (1) The interaction for protection, assistance and support of persons affected by domestic violence shall be carried out under the conditions and according to the procedure of a coordination mechanism for assistance and support to persons affected by domestic violence.\n1 regulates the basic procedures for interaction between the executive authorities, the local self-government and local administration bodies and the legal entities that carry out activities for prevention and protection from domestic violence under the procedure of this law.",
+      "rationale": "The text establishes an operative “coordination mechanism for assistance and support to persons affected by domestic violence” and specifies that it regulates procedures for interaction among multiple authorities and legal entities, which constitutes a designated integrated/coordination service mechanism (even if not a single physical one-stop center).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Нов - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) (1) Взаимодействието за защита, помощ и подкрепа на пострадалите от домашно насилие се осъществява при условията и по реда на координационен механизъм за помощ и подкрепа на лица, пострадали от домашно насилие.\n\n1 урежда основните процедури на взаимодействие между органите на изпълнителната власт, органите на местното самоуправление и местната администрация и юридическите лица, които осъществяват дейности по превенция и защита от домашното насилие по реда на този закон.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "1. \"National helpline for victims of domestic violence or persons at risk with a single harmonised telephone number\" is a free telephone line with national coverage and a single harmonised telephone number for reporting cases of domestic violence, informing, counselling, referring victims of domestic violence or persons at risk, while observing confidentiality and anonymity for the persons.\nThe telephone line is accessible 24 hours a day, seven days a week, on all days of the year.",
+      "rationale": "The framework defines a national helpline with a single number that is explicitly for reporting domestic violence cases and is available 24/7, which is an operative reporting/help-seeking mechanism for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. \"Национална телефонна линия за помощ на лица, пострадали от домашно насилие или в риск, с единен хармонизиран телефонен номер\" е безплатна телефонна линия с национално покритие и единен хармонизиран телефонен номер за сигнализиране относно случаи на домашно насилие, информиране, консултиране, насочване на пострадали от домашно насилие лица или лица в риск, при спазване на поверителност и анонимност за лицата.\n\nТелефонната линия е достъпна денонощно, седем дни в седмицата, през всички дни на годината.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(New - SG, No. 66 of 2023, effective from 01.01.2024) (1) To a person affected by domestic violence, the following specialized services shall be provided independently or as a package:\n3. a shelter.",
+      "rationale": "The operative provisions state that specialized services provided to a person affected by domestic violence include “a shelter,” which constitutes provision/recognition of safe accommodation for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Чл. 6ж. (Нов - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) (1) На лице, пострадало от домашно насилие, се предоставят самостоятелно или като комплекс следните специализирани услуги:\n\n3. защитено жилище.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "2. \"Counselling centre for victims of domestic violence\" is a standalone service or complex of interdisciplinary specialized services for adults and/or children who are victims of domestic violence, providing psychological, social and legal assistance and aimed at ensuring support for victims simultaneously with or after using other specialized services.",
+      "rationale": "The framework defines a counselling centre for victims of domestic violence as providing psychological, social, and legal assistance, which is an explicit legal-assistance component within a specialized victim service.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. \"Консултативен център за пострадали от домашно насилие\" е самостоятелна услуга или комплекс от интердисциплинарни специализирани услуги за пълнолетни лица и/или деца, пострадали от домашно насилие, с които се предоставя психологическа, социална и правна помощ и които са насочени към осигуряване на подкрепа за пострадалите едновременно с ползването или след ползването на други специализирани услуги.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(4) (Former para. 3 - SG, No. 66 of 2023, in force from 01.01.2024) At the request of the victim, every doctor is obliged to issue a document in which to certify in writing the injuries or traces of violence ascertained by them.",
+      "rationale": "The framework assigns a duty to doctors, upon the victim’s request, to issue written certification of injuries/traces of violence, which is a violence-specific medical/forensic health response linked to victim needs.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) (Предишна ал. 3 - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) По искане на пострадалото лице всеки лекар е длъжен да издаде документ, в който писмено да удостовери констатираните от него увреждания или следи от насилие.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "2. \"Counselling centre for victims of domestic violence\" is a standalone service or complex of interdisciplinary specialized services for adults and/or children who are victims of domestic violence, providing psychological, social and legal assistance and aimed at ensuring support for victims simultaneously with or after using other specialized services.",
+      "rationale": "The counselling centre for victims of domestic violence is defined as providing psychological assistance, which directly constitutes psychosocial/psychological support services for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. \"Консултативен център за пострадали от домашно насилие\" е самостоятелна услуга или комплекс от интердисциплинарни специализирани услуги за пълнолетни лица и/или деца, пострадали от домашно насилие, с които се предоставя психологическа, социална и правна помощ и които са насочени към осигуряване на подкрепа за пострадалите едновременно с ползването или след ползването на други специализирани услуги.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention religious leaders, faith-based institutions, pastoral care, or any religious/spiritual counselling or guidance as a victim-support service.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "b) risk; 3. measures for long-term support after cessation of violence:\nb) development of skills for realization on the labour market and for realization in the social environment;",
+      "rationale": "The coordination mechanism explicitly includes “measures for long-term support after cessation of violence,” including development of skills for labour-market and social-environment realization, which are longer-term recovery/reintegration supports for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. мерки за дългосрочна подкрепа след прекратяване на насилието: а) психо-социално консултиране и психотерапевтична работа; б) развиване на умения за реализация на пазара на труда и за реализиране в социалната среда; в) социално консултиране, застъпничество и активна социална работа.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(New - SG, No. 66 of 2023, effective from 01.01.2024)\nTo a person who has committed domestic violence, a specialized programme for overcoming aggression and anger management shall be provided.",
+      "rationale": "The framework provides that a person who has committed domestic violence shall be provided a specialized programme for overcoming aggression and anger management, which is a perpetrator-focused behaviour-change intervention.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(Нов - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) На лице, извършило домашно насилие, се предоставя специализирана програма за преодоляване на агресията и справяне с гнева.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address domestic violence generally (e.g., information/awareness/training campaigns and information campaigns on domestic violence), but they do not explicitly direct these activities to violence against women or gender-based violence specifically, as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "c) training in educational institutions for the prevention of domestic violence and the promotion of gender equality and respect; the programme shall be adopted by the Ministry of Education and Science;",
+      "rationale": "The framework includes an operative provision for training in educational institutions that explicitly includes promotion of gender equality (and respect) as part of prevention of domestic violence, which constitutes an education-based primary prevention activity about gender equality.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "16. одобрява програмите за обучение на служители за изпълнение на функции във връзка с превенцията и защитата от домашното насилие; 17. поддържа и развива национална телефонна линия за помощ на лица, пострадали от домашно насилие и в риск; 18. извършва наблюдение и оценка на въздействието на мерките за превенция и защита от домашното насилие. (2) Председателят на Националния съвет представя ежегоден доклад за дейността си пред Министерския съвет.",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes information/awareness campaigns and training related to domestic violence, it does not specify that these activities disseminate or educate about laws, regulations, policies, legal protections, rights, or remedies concerning violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provision refers to training in educational institutions for prevention of domestic violence and promotion of gender equality and respect, but it does not explicitly identify education/curricula/quality-of-education improvements as a measure to prevent violence against women specifically (it is framed around domestic violence generally).",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include perpetrator programmes (aggression/anger management) and general prevention/training measures, but they do not explicitly engage men and boys as a target group for primary prevention or address masculinities/gender-norm change among men/boys to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(5) The composition of the National Council shall include representatives of non-profit legal entities that carry out activities for prevention and protection from domestic violence.\n(New - SG, No. 66 of 2023, effective from 01.01.2024) (1) For the implementation of activities for prevention and protection from domestic violence, the National Council shall interact with the executive authorities, the judicial authorities, the local self-government and local administration bodies and the legal entities that carry out activities for prevention and protection from domestic violence.",
+      "rationale": "The law creates a National Council on domestic violence whose composition includes representatives of non-profit legal entities working on prevention/protection from domestic violence, and it requires the National Council to interact with legal entities carrying out such activities. These are operative provisions establishing formal participation and collaboration mechanisms with civil society/NGO-type actors in the domestic violence response framework.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) В състава на Националния съвет се включват представители на юридически лица с нестопанска цел, които осъществяват дейност по превенция и защита от домашното насилие.\n\n(Нов - ДВ, бр. 66 от 2023 г., в сила от 01.01.2024 г.) (1) За осъществяване на дейностите по превенция и защита от домашното насилие Националният съвет взаимодейства с органите на изпълнителната власт, органите на съдебната власт, органите на местното самоуправление и местната администрация и юридическите лица, които осъществяват дейности по превенция и защита от домашното насилие.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe interaction with executive/judicial/local authorities and with legal entities active in domestic violence prevention/protection, but they do not mention religious organisations/leaders or traditional/cultural organisations/leaders as partners or participants in VAW/domestic-violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "c) training in educational institutions for the prevention of domestic violence and the promotion of gender equality and respect; the programme shall be adopted by the Ministry of Education and Science;",
+      "rationale": "The framework explicitly provides for training in educational institutions for the prevention of domestic violence (and related promotion of gender equality and respect), with the programme to be adopted by the Ministry of Education and Science. This is an operative provision linking education institutions to domestic-violence prevention activities.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "16. одобрява програмите за обучение на служители за изпълнение на функции във връзка с превенцията и защитата от домашното насилие; 17. поддържа и развива национална телефонна линия за помощ на лица, пострадали от домашно насилие и в риск; 18. извършва наблюдение и оценка на въздействието на мерките за превенция и защита от домашното насилие. (2) Председателят на Националния съвет представя ежегоден доклад за дейността си пред Министерския съвет.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "14. carries out international cooperation with international organizations and institutions with activities in the field of prevention and protection from domestic violence, exchanging information and good practices;",
+      "rationale": "The National Council is assigned a function to carry out international cooperation with international organizations and institutions with activities in the field of prevention and protection from domestic violence, including exchanging information and good practices. This is an operative mandate establishing collaboration with international organisations on the relevant topic.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "14. осъществява международно сътрудничество с международни организации и институции с дейност в сферата на превенцията и защитата от домашното насилие, като обменя информация и добри практики; 15. одобрява процедурите по подбор на дейностите за превенция на домашното насилие и специализираните услуги за защита от домашното насилие, финансирани по реда на чл. 6е, ал. 6, и осъществява контрол за изпълнението на условията по договора за финансиране;",
+      "evidence_original_aligned": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions information/awareness-raising campaigns, it does not identify media organisations/actors (journalists, broadcasters, publishers, etc.) as partners nor establish any mechanism or requirement for collaboration with media in relation to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on coordination among state bodies, local authorities, and legal entities providing domestic-violence-related activities/services. They do not establish community/public participation, community organisations as partners, or community mobilisation mechanisms for prevention/response.",
+      "coverage": null,
+      "confidence": 0.76,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.76
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private companies, or other private-sector actors as partners or participants in domestic-violence/VAW prevention or response, nor do they establish any public-private collaboration mechanism for this purpose.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention local self-government/local administration bodies as implementers and trainees, but do not specify local government budget as a funding source. The only explicit budget source mentioned is the state budget (under the Council of Ministers).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(6) By the law on the state budget of the Republic of Bulgaria for the relevant year, funds shall be allocated under the budget of the Council of Ministers for financing projects of the persons under para.",
+      "rationale": "The text explicitly states that funds shall be allocated by the law on the state budget of the Republic of Bulgaria under the budget of the Council of Ministers, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "6. създава и поддържа национална информационна система за случаите на домашно насилие, осъществени на територията на страната, или по отношение на български граждани в чужбина, които са потърсили помощ и подкрепа, и списък на юридическите лица, които осъществяват дейности по превенция и защита от домашното насилие по реда на този закон, при спазване на изискванията на Закона за защита на личните данни;",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "(6) In the meetings of the National Council, upon invitation of the Chairman, the Ombudsman of the Republic of Bulgaria, Members of Parliament, representatives of the judicial authorities, representatives of academic circles, representatives of legal entities and international organizations with representations in the country that carry out activities for prevention and protection from domestic violence, heads of other state bodies, representatives of local self-government and local administration bodies, professional and civil organizations, other officials and experts may participate.\n14. carries out international cooperation with international organizations and institutions with activities in the field of prevention and protection from domestic violence, exchanging information and good practices;",
+      "rationale": "The policy explicitly references participation of international organizations (with representations in the country) in National Council meetings and also mandates international cooperation with international organizations and institutions, indicating international involvement/support structures relevant to domestic violence prevention and protection.",
+      "coverage": "Referenced only",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) В заседанията на Националния съвет по покана на председателя може да участват омбудсманът на Република България, народни представители, представители на органите на съдебната власт, представители на академичните среди, представители на юридически лица и международни организации с представителства в страната, които извършват дейност по превенция и защита от домашното насилие, ръководители на други държавни органи, представители на органи на местното самоуправление и местната администрация, на професионални и граждански организации, други длъжностни лица и експерти.\n\n14. осъществява международно сътрудничество с международни организации и институции с дейност в сферата на превенцията и защитата от домашното насилие, като обменя информация и добри практики; 15. одобрява процедурите по подбор на дейностите за превенция на домашното насилие и специализираните услуги за защита от домашното насилие, финансирани по реда на чл. 6е, ал. 6, и осъществява контрол за изпълнението на условията по договора за финансиране;",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences specify state budget financing and refer to implementing regulations governing financing and control, but do not identify any distinct 'other legal sources' of funding (beyond the state budget framework).",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions provincial/regional government budgets as a funding source. The only explicit budget source described is the national state budget under the Council of Ministers.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 27,
+    "resolved": 27,
+    "rate": 1.0
+  }
+}

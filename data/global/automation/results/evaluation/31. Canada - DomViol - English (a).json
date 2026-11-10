@@ -1,0 +1,936 @@
+{
+  "policy_file": "31. Canada - DomViol - English (a).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T23:33:28.781024+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "engaging in family violence.",
+      "rationale": "The candidate sentences include an operative reference to “engaging in family violence,” indicating that family/domestic violence is explicitly recognized within the legal framework’s operative provisions (e.g., as conduct relevant to orders/conditions). This meets the criterion’s requirement for explicit identification of domestic/household/family violence (or equivalent term) in operative text.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "engaging in family violence.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, there is no mention of sexual violence, sexual assault, rape, sexual abuse, or sexual harassment, nor any operative definition/classification indicating these are covered forms of violence. The excerpts focus on restraining orders, family violence, and other family-law procedural matters without referencing sexual violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided candidate sentences explicitly mention or define physical violence/physical abuse/assault/battery/bodily harm, nor do they include physical violence in an operative definition or classification of violence. The excerpts address restraining orders, proximity/contact restrictions, and refer generally to “family violence” and “violence committed by a spouse,” but do not specifically address physical violence as required by the criterion’s coding rules.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention psychological violence/abuse, emotional violence/abuse, mental violence, moral violence, verbal abuse, or coercive control. While they reference “harassing or threatening conduct” and “family violence,” they do not explicitly identify psychological violence as a covered form or define it in operative provisions, as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences concern support obligations, property/equalization, and related court powers, but they do not define or identify economic violence/abuse/exploitation/financial abuse/neglect as a form of violence against women, nor do they link deprivation of economic resources to violence or abuse. References to support, debts, financial hardship, and property division are not framed as violence/abuse categories, so the criterion is not met.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided candidate sentences mention or regulate early/child marriage, FGM/C, honour crimes/violence, female infanticide, or any similar harmful practice. The excerpts focus on family law procedures, support obligations, domestic contracts, restraining orders, and related matters, without referencing these specific harmful practices.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain the terms femicide/feminicide, gender-motivated killing of women, or any equivalent concept, nor do they establish any femicide-specific prevention, protection, response, monitoring, or aggravating-factor provisions. The excerpts address restraining orders and other family law matters, but not femicide as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are from a family law statute dealing with support obligations, restraining orders, court duties, and related procedural matters. None of the candidate sentences mention human trafficking/trafficking in persons, define or criminalize it, identify trafficking victims as a protected group, or set out trafficking-related prevention/protection/recovery/institutional responsibilities. Under the coding rules, general safety/violence-related provisions without any trafficking reference do not qualify.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate sentences, there is no mention of sexual exploitation, sexual slavery, forced prostitution, online sexual exploitation, or any equivalent sexual-exploitation nexus. The text focuses on family law matters (support, restraining orders, court procedures) and does not define, prohibit, or otherwise address sexual exploitation/slavery in operative provisions or even in a preamble/recital within the provided excerpts.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention cyber violence, cyber harassment/bullying, online sexual exploitation, non-consensual intimate image sharing, or any other technology-facilitated form of violence. References to contacting/communicating in restraining orders are not framed as digital/online abuse, and there are no operative provisions recognizing technology-facilitated violence as a form of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(5) A person who contravenes an order for exclusive possession is guilty of an offence and upon conviction is liable,\n(a) in the case of a first offence, to a fine of not more than $5,000 or to imprisonment for a term of not more than three months, or to both; and\n(b) in the case of a second or subsequent offence, to a fine of not more than $10,000 or to imprisonment for a term of not more than two years, or to both.",
+      "rationale": "The text creates an offence for contravening an order for exclusive possession and specifies criminal sanctions (fine and/or imprisonment, with higher penalties for repeat offences). This establishes criminal penalties connected to a violence-related protective measure within the family context.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) A person who contravenes an order for exclusive possession is guilty of an offence and upon conviction is liable,\n\n(a) in the case of a first offence, to a fine of not more than $5,000 or to imprisonment for a term of not more than three months, or to both; and\n\n(b) in the case of a second or subsequent offence, to a fine of not more than $10,000 or to imprisonment for a term of not more than two years, or to both.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "46 (1) On application, the court may make an interim or final restraining order against a person described in subsection (2) if the applicant has reasonable grounds to fear for his or her own safety or for the safety of any child in his or her lawful custody.\nSame\n(5) A person who contravenes an order for exclusive possession is guilty of an offence and upon conviction is liable,",
+      "rationale": "The framework provides for restraining orders issued by a court on application where the applicant fears for safety, and it specifies who the order may be made against (spouse/former spouse/cohabiting partner). It also provides a defined consequence for breach of a related protective order (contravention of an exclusive possession order is an offence with penalties). While the retrieved sentences do not clearly specify order duration, they do establish a court-issued protection/restraining order mechanism with an application basis and breach consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": 0.55,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.55
+      },
+      "evidence_verified": true,
+      "evidence_original": "46 (1) On application, the court may make an interim or final restraining order against a person described in subsection (2) if the applicant has reasonable grounds to fear for his or her own safety or for the safety of any child in his or her lawful custody.\n\nSame\n\n(5) A person who contravenes an order for exclusive possession is guilty of an offence and upon conviction is liable,",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences are about court orders (restraining orders, appeals, contempt, duties of court/legal advisers) and other family-law procedural matters. None of the candidate sentences designate or mandate a specialised unit/desk/division within police services for victims of violence against women, nor do they contain even a general statement that police shall provide adequate services to women victims.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference ordinary courts (Ontario Court of Justice, Superior Court of Justice, Family Court) and general procedures (restraining orders, appeals, contempt, mediation, duties of court) but do not designate any specialised court/chamber/judicial officer or specialised/expedited procedure specifically for violence against women cases, nor do they contain a general commitment to expedite VAW cases without specifying a mechanism.",
+      "coverage": null,
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences are from the Family Law Act and address civil/family matters (e.g., restraining orders, matrimonial home, support, tort capacity between spouses). They do not expressly criminalise rape/sexual assault within marriage, do not state that marriage is not a defence to sexual offences, and do not otherwise remove a spousal exemption from criminal liability for sexual violence. The references to spouses’ legal personality and tort actions are not operative criminal provisions on sexual offences.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "47.4 (1) The purpose of this section is to facilitate,\n(b) the co-ordination of proceedings.",
+      "rationale": "The text states an explicit purpose to facilitate the coordination of proceedings, indicating an operative coordination mechanism/process within the court context (i.e., a structured approach to coordinating proceedings and identifying potentially conflicting orders/measures).",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "47.4 (1) The purpose of this section is to facilitate,\n\n(b) the co-ordination of proceedings.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions concern restraining orders, appeals, and court inquiries/review of readily available information for case handling, but they do not establish or require a system/entity to collect, record, monitor, report, manage, or exchange data on violence against women, victims, or cases.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences mention gender mainstreaming or establish any gender mainstreaming mechanism (e.g., focal points, working groups, or integration into planning/budgeting) for women’s protection or violence against women policies/programs.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided candidate sentences mention training, technical guidance, professional development, or capacity building for officials, implementing agencies, or service providers in relation to violence against women (or otherwise). The excerpts focus on restraining orders, court duties, appeals, and other procedural/family law matters, without any training mandate or reference.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention monitoring and evaluation of violence against women policy implementation or service delivery, nor do they establish any monitoring/reporting mechanism or responsible body for such monitoring. The excerpts relate to court orders, procedures, and child support administration rather than M&E of VAW implementation.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence contains any requirement or statement about allocating budget/funding/resources for implementing violence against women response or prevention. The text provided concerns family law procedures and orders, without any funding or budget provisions tied to VAW implementation.",
+      "coverage": null,
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern restraining orders, court duties to identify conflicting orders and coordinate proceedings, mediation/ADR duties, and other family law procedural matters. None of the candidate sentences establish, mandate, or recognize an integrated or multidisciplinary service mechanism (e.g., one-stop centre) providing coordinated multi-sector services (health, legal, psychosocial, shelter, etc.) specifically for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe court processes for restraining orders, appeals, and coordination of proceedings, plus child support calculation procedures. They do not establish a hotline/helpline, complaint intake service, or other designated reporting/help-seeking mechanism for victims/survivors of violence. References to restraining orders and court proceedings do not constitute a reporting service mechanism under the coding rules.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address matrimonial home possession/exclusive possession orders and related criteria (including considering violence and availability of other accommodation), but they do not establish or mandate shelters, safe houses, refuge centres, crisis accommodation, or any authority duty to provide emergency/temporary accommodation for women victims/survivors of violence. Mention of 'availability of other suitable and affordable accommodation' is a factor for court decision-making, not a shelter/protection service provision.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include provisions about legal advisers’ duties to encourage ADR and inform clients of 'family justice services,' and other procedural provisions. They do not establish legal aid/legal assistance for women victims/survivors of violence, do not identify victims of violence as eligible for legal aid, and do not mandate provision of legal representation or counselling to such victims. A reference to a 'Legal Aid Services Act' appears only as an exclusion related to liens, not as a legal assistance entitlement.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern restraining orders, court procedures, support obligations, damages, and other family-law matters. None of the candidate sentences mention medical examination, treatment, emergency care, reproductive health services, forensic medical services, health professionals’ duties, or any health-service referral/protocols for victims/survivors of violence. Therefore, the framework is not shown (in the provided excerpts) to provide health/medical services specifically for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address restraining orders, court duties, alternative dispute resolution, support obligations, and related procedural provisions. They do not mention psychosocial/psychological counselling, therapy, trauma support, mental-health services, or any assignment of counsellors/psychologists/social workers or referral mechanisms for victims/survivors of violence. As such, the excerpts do not establish psychosocial counselling services for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages concern restraining orders, court procedures, family justice services, and a provision about removing barriers to remarriage within a spouse’s faith. None of the candidate sentences establish or provide religious/spiritual counselling, pastoral care, chaplaincy, or faith-based support services for women victims/survivors of violence, nor do they assign such a role to religious personnel or institutions.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address restraining orders, court processes, support obligations, and general family justice services. They do not establish rehabilitation, recovery, reintegration, or other longer-term support services specifically for women victims/survivors of violence, nor do they provide victim-linked economic/housing/vocational reintegration measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved provisions focus on restraining orders, procedural duties, support obligations, and related family law mechanisms. They do not establish or mandate perpetrator intervention/rehabilitation/treatment/behaviour-change programmes, nor do they authorize referrals to such programmes for perpetrators of violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences are about restraining orders, court procedures, support obligations, and related legal mechanisms. They do not contain any operative provisions requiring or providing information, awareness-raising, communication, campaigns, or education activities specifically about violence against women or prevention of violence against women.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include statements about equal legal personality/capacity of married persons and general family-law provisions, but they do not establish any information, education, awareness-raising, or communication activities about gender equality or women’s rights, nor do they explicitly link any such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe court orders/procedures (e.g., restraining order provisions, appeals, contempt, duties of parties/legal advisers) and other family-law matters, but none explicitly provide for dissemination, public education, or awareness-raising about laws/policies/legal protections related to violence against women. References to \"inform\" relate to legal advisers informing clients about family justice services and duties under the Act, not public/legal awareness about VAW laws.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences identify education, educational institutions, curricula, or improving education quality as a prevention measure for violence against women. The only education-related mention concerns matters respecting a child's education in domestic contracts, which is not linked to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no provisions establishing prevention activities that engage men or boys (e.g., programmes, campaigns, norm-change initiatives) to prevent violence against women. The text focuses on family law procedures and orders, without any targeted engagement of men/boys for VAW prevention.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences concern court orders (e.g., restraining orders, duties of parties/legal advisers/court, support obligations) and do not mention civil society organisations or NGOs, nor any mechanism for collaboration with them in relation to violence against women or family violence.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address court procedures and orders (including references to family violence) but do not mention religious organisations/leaders or traditional/cultural organisations/leaders, nor any engagement mechanism with such actors for prevention of or response to violence against women.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences relate to restraining orders, court duties, and support obligations. They do not establish or reference any collaboration with schools, universities, or other education institutions in relation to violence against women prevention or response.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences contain no mention of international organisations or any cooperation mechanism with them regarding violence against women (or family violence). The text is focused on domestic court processes and orders.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention media organisations/actors (e.g., journalists, broadcasters, publishers) or establish any mechanism for engaging media in preventing or responding to violence against women. The excerpts focus on restraining orders, court procedures, support obligations, and other family law matters, which do not meet the criterion’s requirements for media collaboration related to VAW.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish or require community/public engagement mechanisms for preventing or responding to violence against women. They address court orders, proceedings, and family law procedures (e.g., restraining orders, appeals, duties of parties/legal advisers), without identifying communities, community organisations, or the public as partners in VAW prevention/response or creating community-based programmes or participation structures.",
+      "coverage": null,
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not establish or require cooperation with businesses, employers, or other private-sector actors in relation to violence against women. While there are references to employers in the context of court-ordered wage information (e.g., employer returns), these are procedural and not linked to VAW prevention or response, and therefore do not satisfy the criterion.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention funding or budget sources from local government budgets. The text is primarily about support obligations and court powers; while it references municipalities as agencies that may apply for support orders, it does not describe any local government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention any national government budget as a funding source. References to ministries or the Government of Ontario relate to administrative services and legal authorities, not budget allocations or funding sources.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences contain no explicit mention of international assistance, donors, UN agencies, foreign governments, development partners, or other international support mechanisms. The content is domestic legal procedure and obligations only.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss support obligations, court considerations, child support guidelines, and references to support payable out of public money, but they do not identify any funding/budget source category (including “other legal sources”) as a source of program funding.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference Ontario government entities and services (e.g., Government of Ontario child support services) and mention support payable out of public money, but they do not specify any funding/budget source as coming from the provincial government budget.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 4,
+    "02_Protection_and_Justice.txt": 2,
+    "03_Institutional_mechanisms.txt": 2,
+    "04_Specialised_Support_Services.txt": 3,
+    "05_Primary_prevention.txt": 2,
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt": 2,
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 4,
+    "resolved": 4,
+    "rate": 1.0
+  }
+}

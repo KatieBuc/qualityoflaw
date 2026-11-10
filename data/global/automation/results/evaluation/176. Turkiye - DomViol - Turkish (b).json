@@ -1,0 +1,969 @@
+{
+  "policy_file": "176. Turkiye - DomViol - Turkish (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T20:43:20.864291+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "b) Domestic violence: Refers to all forms of physical, sexual, psychological and economic violence occurring among family members or in the family or household or among other persons considered as family members, even if the victim of violence and the perpetrator of violence do not share the same household,",
+      "rationale": "The legal framework includes an operative definition of “Domestic violence,” explicitly covering multiple forms of violence within family/household contexts, which constitutes substantive legal coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Ev içi şiddet: Şiddet mağduru ve şiddet uygulayanla aynı haneyi paylaşmasa da aile veya hanede ya da aile mensubu sayılan diğer kişiler arasında meydana gelen her türlü fiziksel, cinsel, psikolojik ve ekonomik şiddeti,",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "b) Domestic violence: Refers to all forms of physical, sexual, psychological and economic violence occurring among family members or in the family or household or among other persons considered as family members, even if the victim of violence and the perpetrator of violence do not share the same household,\nd) Violence: Refers to all kinds of physical, sexual, psychological, verbal or economic attitudes and behaviors occurring in social, public or private sphere, including actions that result or are likely to result in physical, sexual, psychological or economic harm or suffering to a person, threats and coercion to this end, or arbitrary restriction of freedom,",
+      "rationale": "The framework substantively covers sexual violence by including “sexual” violence within the operative definition of domestic violence and within the operative definition of violence more generally, bringing sexual violence within the law’s scope for protective/preventive measures and services.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Ev içi şiddet: Şiddet mağduru ve şiddet uygulayanla aynı haneyi paylaşmasa da aile veya hanede ya da aile mensubu sayılan diğer kişiler arasında meydana gelen her türlü fiziksel, cinsel, psikolojik ve ekonomik şiddeti,\n\nd) Şiddet: Kişinin, fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel hareketleri, buna yönelik tehdit ve baskıyı ya da özgürlüğün keyfî engellenmesini de içeren, toplumsal, kamusal veya özel alanda meydana gelen fiziksel, cinsel, psikolojik, sözlü veya ekonomik her türlü tutum ve davranışı,",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "b) Domestic violence: Refers to all forms of physical, sexual, psychological and economic violence occurring among family members or in the family or household or among other persons considered as family members, even if the victim of violence and the perpetrator of violence do not share the same household,\nd) Violence: Refers to all kinds of physical, sexual, psychological, verbal or economic attitudes and behaviors occurring in social, public or private sphere, including actions that result or are likely to result in physical, sexual, psychological or economic harm or suffering to a person, threats and coercion to this end, or arbitrary restriction of freedom,",
+      "rationale": "Physical violence is explicitly included in operative definitions (domestic violence includes “physical” violence; the general definition of violence also includes “physical”), satisfying substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Ev içi şiddet: Şiddet mağduru ve şiddet uygulayanla aynı haneyi paylaşmasa da aile veya hanede ya da aile mensubu sayılan diğer kişiler arasında meydana gelen her türlü fiziksel, cinsel, psikolojik ve ekonomik şiddeti,\n\nd) Şiddet: Kişinin, fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel hareketleri, buna yönelik tehdit ve baskıyı ya da özgürlüğün keyfî engellenmesini de içeren, toplumsal, kamusal veya özel alanda meydana gelen fiziksel, cinsel, psikolojik, sözlü veya ekonomik her türlü tutum ve davranışı,",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "b) Domestic violence: Refers to all forms of physical, sexual, psychological and economic violence occurring among family members or in the family or household or among other persons considered as family members, even if the victim of violence and the perpetrator of violence do not share the same household,\nd) Violence: Refers to all kinds of physical, sexual, psychological, verbal or economic attitudes and behaviors occurring in social, public or private sphere, including actions that result or are likely to result in physical, sexual, psychological or economic harm or suffering to a person, threats and coercion to this end, or arbitrary restriction of freedom,",
+      "rationale": "Psychological violence is explicitly included in operative definitions (domestic violence includes “psychological” violence; the general definition of violence also includes “psychological”), meeting the substantive threshold.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Ev içi şiddet: Şiddet mağduru ve şiddet uygulayanla aynı haneyi paylaşmasa da aile veya hanede ya da aile mensubu sayılan diğer kişiler arasında meydana gelen her türlü fiziksel, cinsel, psikolojik ve ekonomik şiddeti,\n\nd) Şiddet: Kişinin, fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel hareketleri, buna yönelik tehdit ve baskıyı ya da özgürlüğün keyfî engellenmesini de içeren, toplumsal, kamusal veya özel alanda meydana gelen fiziksel, cinsel, psikolojik, sözlü veya ekonomik her türlü tutum ve davranışı,",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "b) Domestic violence: Refers to all forms of physical, sexual, psychological and economic violence occurring among family members or in the family or household or among other persons considered as family members, even if the victim of violence and the perpetrator of violence do not share the same household,\nd) Violence: Refers to all kinds of physical, sexual, psychological, verbal or economic attitudes and behaviors occurring in social, public or private sphere, including actions that result or are likely to result in physical, sexual, psychological or economic harm or suffering to a person, threats and coercion to this end, or arbitrary restriction of freedom,",
+      "rationale": "Economic violence is explicitly included in operative definitions (domestic violence includes “economic” violence; the general definition of violence includes “economic” attitudes/behaviors and harm), which is sufficient for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Ev içi şiddet: Şiddet mağduru ve şiddet uygulayanla aynı haneyi paylaşmasa da aile veya hanede ya da aile mensubu sayılan diğer kişiler arasında meydana gelen her türlü fiziksel, cinsel, psikolojik ve ekonomik şiddeti,\n\nd) Şiddet: Kişinin, fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel hareketleri, buna yönelik tehdit ve baskıyı ya da özgürlüğün keyfî engellenmesini de içeren, toplumsal, kamusal veya özel alanda meydana gelen fiziksel, cinsel, psikolojik, sözlü veya ekonomik her türlü tutum ve davranışı,",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, forced marriage, or any similar harmful practice; the text is limited to general violence definitions and protective measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific prevention/monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of trafficking in persons/human trafficking or trafficking victims; they address violence generally and related protective/support measures without a trafficking nexus.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention sexual exploitation, sexual slavery, forced prostitution, or any equivalent sexual-exploitation nexus; references to sexual violence in definitions do not establish sexual exploitation/slavery as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not recognize cyber/digital/online violence as a form of violence; the only technology-related content concerns technical monitoring methods and administrative/service mechanisms, which the coding rules explicitly exclude.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "shall, in case of acting contrary to the requirements of this decision, be subject to coercive detention from three days to ten days by judge's decision according to the nature of the violated measure and the severity of the violation, even if the act constitutes a crime.",
+      "rationale": "The text provides for a sanction (coercive detention) imposed by a judge when a perpetrator violates a measure decision issued under the law, which constitutes a criminal-type penalty consequence within the framework for violence-related conduct (breach of protective/preventive measures).",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "uygulayan, bu kararın gereklerine aykırı hareket etmesi hâlinde, fiili bir suç oluştursa bile ihlal edilen tedbirin niteliğine ve aykırılığın ağırlığına göre hâkim kararıyla üç günden on güne kadar zorlama hapsine tabi tutulur.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "ARTICLE 8 – (1) The protective measure decision is issued upon the request of the concerned party, the application of the Ministry or law enforcement officials or the public prosecutor.\n(2) The protective measure decision may be issued for a maximum of six months for the first time.\nshall, in case of acting contrary to the requirements of this decision, be subject to coercive detention from three days to ten days by judge's decision according to the nature of the violated measure and the severity of the violation, even if the act constitutes a crime.",
+      "rationale": "The framework specifies who may request a protective measure decision (concerned party, Ministry, law enforcement, or public prosecutor), sets a maximum initial duration (six months), and provides a defined consequence for breach (coercive detention by judge’s decision).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "MADDE 8 – (1) Tedbir kararı, ilgilinin talebi, Bakanlık veya kolluk görevlileri ya da Cumhuriyet savcısının başvurusu üzerine verilir.\n\n(2) Tedbir kararı ilk defasında en çok altı ay için verilebilir.\n\nuygulayan, bu kararın gereklerine aykırı hareket etmesi hâlinde, fiili bir suç oluştursa bile ihlal edilen tedbirin niteliğine ve aykırılığın ağırlığına göre hâkim kararıyla üç günden on güne kadar zorlama hapsine tabi tutulur.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe law enforcement duties and training requirements and establish violence prevention/monitoring centers under the Ministry, but they do not designate a specific specialised unit/desk/division within police services for handling VAW cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references a family court judge and procedures for issuing/appealing protective measures, it does not establish a specialised court/chamber or a specialised/expedited judicial procedure specifically for violence against women cases beyond ordinary assignment to existing family courts/judges.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define violence and domestic violence broadly and reference other laws, but they do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital exemption for sexual violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "ARTICLE 16 – (1) Inter-institutional coordination in the implementation of the provisions of this Law shall be carried out by the Ministry.",
+      "rationale": "The framework explicitly assigns responsibility for inter-institutional coordination in implementing the law to the Ministry, which constitutes a formal coordination arrangement across institutions for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "MADDE 16 – (1) Bu Kanun hükümlerinin yerine getirilmesinde kurumlararası koordinasyon Bakanlık tarafından gerçekleştirilir.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "a) To establish an information bank by collecting data regarding the issuance and implementation of protective and preventive measure decisions and coercive detention, to keep a register of measure decisions.",
+      "rationale": "The framework assigns violence prevention and monitoring centers the duty to establish an information bank by collecting data and keeping a register of measure decisions, which is an explicit data collection/management function related to protection measures under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Koruyucu ve önleyici tedbir kararları ile zorlama hapsinin verilmesine ve uygulanmasına ilişkin veri toplayarak bilgi bankası oluşturmak, tedbir kararlarının sicilini tutmak.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference gender equality and training on women's human rights and gender equality, but they do not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming focal points, working groups, or mainstreaming requirements in planning/budgeting/service delivery).",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(5) All public institutions and organizations as well as professional organizations having the nature of a public institution shall ensure the participation of their personnel and members in training programs on women's human rights and gender equality, which will be prepared and coordinated by the Ministry for the purpose of effective implementation of this Law.",
+      "rationale": "The framework requires public institutions and certain professional organizations to ensure participation of their personnel and members in training programs prepared and coordinated by the Ministry for effective implementation of the law, which is a mandate for training of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) Tüm kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşları, personel ve üyelerinin bu Kanunun etkin bir biçimde uygulanması amacıyla Bakanlığın hazırlayıp koordine edeceği, kadının insan hakları ile kadın erkek eşitliği konusunda eğitim programlarına katılmasını sağlar.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions monitoring of measure decisions and monitoring of applications (and reporting upon request), it does not establish a monitoring and evaluation mechanism for overall policy implementation/service delivery, nor a specific M&E process or reporting requirement aimed at assessing implementation of the violence against women framework as such.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "(2) In the event that a person regarding whom a preventive measure decision has been made pursuant to the provisions of this Law is also decided to require rehabilitation or treatment, expenses for rehabilitation services not covered by general health insurance as well as expenses for other health services to be provided within the scope of rehabilitation services shall be covered from the relevant appropriations of the Ministry budget.",
+      "rationale": "The framework provides that certain rehabilitation and health service expenses (not covered by general health insurance) shall be covered from relevant appropriations of the Ministry budget, which is a binding funding provision tied to implementing response measures under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Bu Kanun hükümlerine göre hakkında önleyici tedbir kararı verilen kişinin aynı zamanda rehabilitasyonunun veya tedavi edilmesinin gerekli olduğuna karar verilmesi hâlinde, genel sağlık sigortası kapsamında karşılanmayan rehabilitasyon hizmetlerine yönelik giderler ile rehabilitasyon hizmetleri kapsamında verilmesi gereken diğer sağlık hizmetlerinin giderleri Bakanlık bütçesinin ilgili tertiplerinden karşılanır.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "ARTICLE 14 – (1) The Ministry shall establish violence prevention and monitoring centers where necessary expert personnel are employed and preferably female\nb) To coordinate accommodation, temporary financial assistance, health, legal aid services and other services provided to the protected person.",
+      "rationale": "The law mandates establishment of violence prevention and monitoring centers and assigns them a coordinating role across multiple victim-support services (e.g., accommodation, financial assistance, health, legal aid), which constitutes an integrated/multidisciplinary service mechanism for victims of violence (including women).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "MADDE 14 – (1) Bakanlık, gerekli uzman personelin görev yaptığı ve tercihen kadın\n\nb) Korunan kişiye verilen barınma, geçici maddi yardım, sağlık, adlî yardım hizmetleri ve diğer hizmetleri koordine etmek.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "d) To ensure the expansion of the call center established within the Ministry in accordance with the purpose of this Law and the monitoring of applications made.",
+      "rationale": "The framework provides for a call center within the Ministry and requires ensuring its expansion and monitoring of applications made, which functions as an operative help-seeking/reporting mechanism linked to the law’s purpose of addressing violence against women and other protected persons.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) Bakanlık bünyesinde kurulan çağrı merkezinin bu Kanunun amacına uygun olarak yaygınlaştırılması ve yapılan müracaatların izlenmesini sağlamak.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "a) Providing suitable accommodation for oneself and, if necessary, the children accompanying, at the current location or at another location.\n(4) In cases where the measure decision is issued and implemented by the law enforcement chief or where the protected person is at the law enforcement facility, the person shall be promptly transferred by the law enforcement units to the relevant provincial or district directorates of the Ministry; in case this is not possible, temporary accommodation shall be provided to them and their accompanying persons, with expenses to be covered from the relevant appropriation of the Ministry's budget.",
+      "rationale": "Operative provisions authorize provision of suitable accommodation for protected persons and require temporary accommodation when transfer is not possible, establishing accommodation-based protection for victims of violence (including women).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Kendisine ve gerekiyorsa beraberindeki çocuklara, bulunduğu yerde veya başka bir yerde uygun barınma yeri sağlanması.\n\n(4) Tedbir kararının, kolluk amirince verilip uygulandığı veya korunan kişinin kollukta bulunduğu hâllerde, kolluk birimleri tarafından kişi, Bakanlığın ilgili il veya ilçe müdürlüklerine ivedilikle ulaştırılır; bunun mümkün olmaması hâlinde giderleri Bakanlık bütçesinin ilgili tertibinden karşılanmak üzere kendisine ve beraberindekilere geçici olarak barınma imkânı sağlanır.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "b) To coordinate accommodation, temporary financial assistance, health, legal aid services and other services provided to the protected person.",
+      "rationale": "The law includes legal aid services among the services to be coordinated for the protected person by violence prevention and monitoring centers, indicating an operative legal assistance component for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Korunan kişiye verilen barınma, geçici maddi yardım, sağlık, adlî yardım hizmetleri ve diğer hizmetleri koordine etmek.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "b) To coordinate accommodation, temporary financial assistance, health, legal aid services and other services provided to the protected person.\n(2) In the event that a person regarding whom a preventive measure decision has been made pursuant to the provisions of this Law is also decided to require rehabilitation or treatment, expenses for rehabilitation services not covered by general health insurance as well as expenses for other health services to be provided within the scope of rehabilitation services shall be covered from the relevant appropriations of the Ministry budget.",
+      "rationale": "Health services are expressly included among services to be coordinated for protected persons, and the law provides for coverage of rehabilitation/treatment-related health expenses when such treatment is decided under the law, linking health/medical support to violence-related measures.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Korunan kişiye verilen barınma, geçici maddi yardım, sağlık, adlî yardım hizmetleri ve diğer hizmetleri koordine etmek.\n\n(2) Bu Kanun hükümlerine göre hakkında önleyici tedbir kararı verilen kişinin aynı zamanda rehabilitasyonunun veya tedavi edilmesinin gerekli olduğuna karar verilmesi hâlinde, genel sağlık sigortası kapsamında karşılanmayan rehabilitasyon hizmetlerine yönelik giderler ile rehabilitasyon hizmetleri kapsamında verilmesi gereken diğer sağlık hizmetlerinin giderleri Bakanlık bütçesinin ilgili tertiplerinden karşılanır.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "ç) To provide assistance and counseling in resolving psycho-social and economic problems.\nc) Providing guidance and counselling services in psychological, vocational, legal and social aspects.",
+      "rationale": "The framework provides counselling/assistance for psycho-social problems and also provides for guidance and counselling services in psychological and social aspects for protected persons, constituting psychosocial/psychological support services for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.87,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.87
+      },
+      "evidence_verified": true,
+      "evidence_original": "ç) Psiko-sosyal ve ekonomik sorunların çözümünde yardım ve danışmanlık yapmak.\n\nc) Psikolojik, meslekî, hukukî ve sosyal bakımdan rehberlik ve danışmanlık hizmeti verilmesi.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious leaders, faith-based institutions, or spiritual/pastoral counselling as a service for victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "a) To provide guidance to the person on their rights, institutions from which they can receive support, job placement and similar matters and to conduct activities for their participation in vocational training courses.\nb) Providing temporary financial assistance, without prejudice to assistance to be made under other laws.",
+      "rationale": "The law provides longer-term support elements for protected persons, including job placement/vocational training-related activities and temporary financial assistance, which are recovery/reintegration-oriented measures for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Kişiye hakları, destek alabilecekleri kurumlar, iş bulma ve benzeri konularda rehberlik etmek ve meslek edindirme kurslarına katılmasına yönelik faaliyetlerde bulunmak.\n\nb) Diğer kanunlar kapsamında yapılacak yardımlar saklı kalmak üzere, geçici maddi yardım yapılması.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "1) Participation in education and rehabilitation programs aimed at changing attitudes and behaviors by providing awareness of anger control, coping with stress, and preventing violence,",
+      "rationale": "The framework provides perpetrator-focused services, including participation in education and rehabilitation programs aimed at changing attitudes and behaviors (e.g., anger control, coping with stress, preventing violence), which qualifies as perpetrator intervention/behaviour-change programming.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) Öfke kontrolü, stresle başa çıkma, şiddeti önlemeye yönelik farkındalık sağlayarak tutum ve davranış değiştirmeyi hedefleyen eğitim ve rehabilitasyon programlarına katılmasına,",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(3) The Turkish Radio and Television Corporation as well as private television organizations and radio stations broadcasting nationally, regionally and locally are obliged to broadcast informational materials prepared by or commissioned by the Ministry on the participation of women in working life, mechanisms to combat violence especially concerning women and children, and similar policies, for at least ninety minutes per month.",
+      "rationale": "The law includes an operative provision requiring national and local broadcasters to air informational materials on mechanisms to combat violence, explicitly including violence concerning women, which constitutes a public information/communication activity directed at combating violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Türkiye Radyo ve Televizyon Kurumu ile ulusal, bölgesel ve yerel yayın yapan özel televizyon kuruluşları ve radyolar, ayda en az doksan dakika kadınların çalışma yaşamına katılımı, özellikle kadın ve çocukla ilgili olmak üzere şiddetle mücadele mekanizmaları ve benzeri politikalar konusunda Bakanlık tarafından hazırlanan ya da hazırlattırılan bilgilendirme materyallerini yayınlamak zorundadır.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text requires training and curricula on women's human rights and gender equality, the candidate sentences do not explicitly link these educational activities to the prevention of violence against women, which is required by the coding rules for this indicator.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include a requirement to broadcast informational materials on mechanisms to combat violence and similar policies, but they do not specify dissemination or education about laws, regulations, legal protections, or legal rights related to violence against women, as required by the criterion.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention including courses on women's human rights and gender equality in school curricula, but they do not explicitly identify education, educational institutions, or curricula as a measure to prevent violence against women; the required explicit linkage to VAW prevention is not present.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not provide prevention activities specifically targeting men or boys to prevent violence against women. References to perpetrator participation in education/rehabilitation programs are framed as responses for perpetrators and are not explicitly described as engaging men/boys as a primary prevention strategy aimed at preventing VAW before it occurs.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "e) To cooperate with relevant non-governmental organizations working to end violence within the scope of this Law.",
+      "rationale": "The law includes an operative provision assigning violence prevention and monitoring centers a function to cooperate with relevant NGOs working to end violence within the scope of the law, which constitutes required/authorised collaboration with civil society actors on VAW prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "e) Bu Kanun kapsamındaki şiddetin sonlandırılması için çalışan ilgili sivil toplum kuruluşlarıyla işbirliği yapmak.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention cooperation with NGOs and general inter-institutional cooperation, but do not mention religious organisations/leaders or traditional/cultural organisations/leaders as actors to be engaged in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Informational materials to be broadcast on television organizations and radio stations shall be prepared by the Ministry units with the opinions of universities, relevant professional organizations and non-governmental organizations also being obtained.",
+      "rationale": "An operative provision requires that informational materials be prepared with opinions obtained from universities (among others) in the context of materials addressing mechanisms to combat violence, which establishes engagement with an education institution (universities) related to VAW prevention/awareness.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Televizyon kuruluşları ve radyolarda yayınlanacak bilgilendirme materyalleri, Bakanlık birimleri tarafından üniversiteler, ilgili meslek kuruluşları ve sivil toplum kuruluşlarının da görüşleri alınarak hazırlanır.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references international conventions as a basis for implementation, but does not establish any cooperation mechanism or engagement with international organisations regarding VAW; ratification/reference alone is insufficient under the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "(3) The Turkish Radio and Television Corporation as well as private television organizations and radio stations broadcasting nationally, regionally and locally are obliged to broadcast informational materials prepared by or commissioned by the Ministry on the participation of women in working life, mechanisms to combat violence especially concerning women and children, and similar policies, for at least ninety minutes per month.",
+      "rationale": "The law contains an operative provision obliging national and private TV/radio broadcasters to air informational materials on mechanisms to combat violence (especially concerning women and children), which constitutes mandated engagement with media actors for VAW-related awareness/prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Türkiye Radyo ve Televizyon Kurumu ile ulusal, bölgesel ve yerel yayın yapan özel televizyon kuruluşları ve radyolar, ayda en az doksan dakika kadınların çalışma yaşamına katılımı, özellikle kadın ve çocukla ilgili olmak üzere şiddetle mücadele mekanizmaları ve benzeri politikalar konusunda Bakanlık tarafından hazırlanan ya da hazırlattırılan bilgilendirme materyallerini yayınlamak zorundadır.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the law allows anyone to report violence and includes broad statements about natural/legal persons cooperating, the candidate sentences do not establish a community participation/mobilisation mechanism or identify communities/the public as partners in VAW prevention/response as required by the coding rules (and reporting alone is explicitly insufficient).",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include obligations for private broadcasters (media) and general references to cooperation by natural/legal persons, but do not specifically establish or require engagement with businesses/employers/private-sector actors for VAW prevention or response (and the media provision is not coded as private-sector engagement for this indicator).",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences specify funding from the Ministry’s budget appropriations and other central institutions (e.g., Chief Public Prosecutor’s Office appropriation), but do not mention any local/municipal government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(2) These payments shall be covered from the appropriation allocated for temporary financial assistance in the Ministry budget.\n(2) In the event that a person regarding whom a preventive measure decision has been made pursuant to the provisions of this Law is also decided to require rehabilitation or treatment, expenses for rehabilitation services not covered by general health insurance as well as expenses for other health services to be provided within the scope of rehabilitation services shall be covered from the relevant appropriations of the Ministry budget.\n(4) In cases where the measure decision is issued and implemented by the law enforcement chief or where the protected person is at the law enforcement facility, the person shall be promptly transferred by the law enforcement units to the relevant provincial or district directorates of the Ministry; in case this is not possible, temporary accommodation shall be provided to them and their accompanying persons, with expenses to be covered from the relevant appropriation of the Ministry's budget.\nd) If necessary, if the protected person has children, to support their participation in working life, limited to four months, or two months if the person is working, not exceeding half of the monthly net minimum wage determined each year for those over sixteen years of age, and to be met from the relevant appropriation of the Ministry's budget subject to documentation, providing nursery facilities.",
+      "rationale": "Multiple sentences explicitly state that payments/expenses are covered from appropriations in the Ministry budget, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Bu ödemeler, Bakanlık bütçesine, geçici maddi yardımlar için konulan ödenekten karşılanır.\n\n(2) Bu Kanun hükümlerine göre hakkında önleyici tedbir kararı verilen kişinin aynı zamanda rehabilitasyonunun veya tedavi edilmesinin gerekli olduğuna karar verilmesi hâlinde, genel sağlık sigortası kapsamında karşılanmayan rehabilitasyon hizmetlerine yönelik giderler ile rehabilitasyon hizmetleri kapsamında verilmesi gereken diğer sağlık hizmetlerinin giderleri Bakanlık bütçesinin ilgili tertiplerinden karşılanır.\n\n(4) Tedbir kararının, kolluk amirince verilip uygulandığı veya korunan kişinin kollukta bulunduğu hâllerde, kolluk birimleri tarafından kişi, Bakanlığın ilgili il veya ilçe müdürlüklerine ivedilikle ulaştırılır; bunun mümkün olmaması hâlinde giderleri Bakanlık bütçesinin ilgili tertibinden karşılanmak üzere kendisine ve beraberindekilere geçici olarak barınma imkânı sağlanır.\n\nd) Gerekli olması hâlinde, korunan kişinin çocukları varsa çalışma yaşamına katılımını desteklemek üzere dört ay, kişinin çalışması hâlinde ise iki aylık süre ile sınırlı olmak kaydıyla, on altı yaşından büyükler için her yıl belirlenen aylık net asgari ücret tutarının yarısını geçmemek ve belgelendirilmek kaydıyla Bakanlık bütçesinin ilgili tertibinden karşılanmak suretiyle kreş imkânının sağlanması.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references international conventions as part of the legal basis, but does not indicate any international funding, donor support, international organizational participation, or other international assistance for implementation or services.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "The payments made shall be collected from the perpetrator of violence within one month from the notification date.",
+      "rationale": "Beyond Ministry budget appropriations, the policy specifies that payments made are to be collected from the perpetrator of violence, which constitutes a non-budget funding source (i.e., another legally defined source).",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Yapılan ödemeler, şiddet uygulayandan tebliğ tarihinden itibaren bir ay içinde tahsil edilir.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although provincial governors and provincial/district directorates are mentioned in implementation roles, the only explicit funding sources cited are Ministry budget appropriations and other central appropriations; no provincial government budget is identified as a funding source.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 25,
+    "resolved": 25,
+    "rate": 1.0
+  }
+}

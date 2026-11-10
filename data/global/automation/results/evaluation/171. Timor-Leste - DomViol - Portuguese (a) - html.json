@@ -1,0 +1,969 @@
+{
+  "policy_file": "171. Timor-Leste - DomViol - Portuguese (a) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T18:57:11.942932+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "1. For the purposes of this instrument, domestic violence is considered to be any act or sequence of acts committed in a family context, with or without cohabitation, by a family member against any of its members, when there is an ascendancy, particularly physical or economic, in the family relationship, or by one person in relation to another with whom they had an intimate relationship, from which results or may result damage or physical, sexual or psychological suffering, economic abuse, including threats such as intimidating acts, bodily offenses, aggression, coercion, harassment, or deprivation of liberty.\nThis law establishes the legal regime applicable to the prevention of domestic violence and the protection and assistance to its victims.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence and state that the law establishes a legal regime for prevention and protection/assistance related to domestic violence, which constitutes substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Para efeitos do presente diploma, considera-se violência doméstica qualquer acto ou sequência de actos cometidos num contexto familiar, com ou sem coabitação, por um membro da família contra qualquer dos seus membros, quando exista uma ascendência, nomeadamente física ou económica, na relação familiar, ou por uma pessoa em relação a outra com a qual teve um relacionamento íntimo, do qual ou dos quais resultem ou possam resultar, danos ou sofrimento físico, sexual ou psicológico, abuso econó-mico, incluindo ameaças tais como actos intimidatórios, ofensas corporais, agressão, coação, assédio, ou privação da liberdade.\n\nA presente lei estabelece o regime jurídico aplicável à prevenção da violência doméstica e à protecção e assistência às suas vítimas.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "b) Sexual violence, understood as any conduct that compels one to witness, maintain or participate in unwanted sexual relations, even within marriage, through intimidation, threat, coercion or use of force, or that limits or nullifies the exercise of sexual and reproductive rights;",
+      "rationale": "The candidate sentences include an operative provision listing and defining “Sexual violence” as a form of domestic violence, which is a substantive legal classification of sexual violence within the framework’s scope.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) A violência sexual, entendida como qualquer conduta que constranja a presenciar, manter ou participar de relação sexual não desejada, mesmo que na constância do matrimónio, mediante intimidação, ameaça, coação ou uso da força, ou que limite ou anule o exercício dos direitos sexuais e reprodutivos;",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "a) Physical violence, understood as any conduct that offends bodily integrity or health;",
+      "rationale": "The candidate sentences include an operative provision listing and defining “Physical violence” as a form of domestic violence, which substantively addresses physical violence under the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) A violência física, entendida como qualquer conduta que ofenda a integridade ou saúde corporal;",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "c) Psychological violence, understood as any conduct that causes emotional damage and diminished self-esteem, aimed at degrading or controlling the actions, behaviors, beliefs and decisions of another, through threat, constraint, humiliation, manipulation, isolation, constant surveillance, systematic persecution, insult, blackmail, ridicule, exploitation, limitation of the right to movement or any other means that causes harm to psychological health and self-determination;",
+      "rationale": "The candidate sentences include an operative provision listing and defining “Psychological violence” as a form of domestic violence, meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) A violência psicológica, entendida como qualquer conduta que cause dano emocional e a diminuição da auto-estima, visando degradar ou controlar as acções, comportamentos, crenças e decisões de outrem, me-diante ameaça, constrangimento, humilhação, manipu-lação, isolamento, vigilância constante, perseguição sistemática, insulto, chantagem, ridicularização, exploração, limitação do direito de deslocação ou qual-quer outro meio que cause prejuízo à saúde psicológica e à autodeterminação;",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "d) Economic violence, understood as any conduct that constitutes retention, subtraction, partial or total destruction of personal objects, work instruments, impediment to work inside or outside the home, personal documents, goods, valuables and economic rights or resources, including those intended to satisfy personal and household needs.",
+      "rationale": "The candidate sentences include an operative provision listing and defining “Economic violence” (economic abuse/retention/subtraction/destruction of goods and economic resources) as a form of domestic violence, which is substantive coverage under the rules.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) A violência económica, entendida como qualquer conduta que configure retenção, subtração, destruição parcial ou total de objectos pessoais, instrumentos de trabalho, impedimento de trabalhar dentro ou fora de casa, documentos pessoais, bens, valores e direitos ou recursos económicos, incluindo os destinados a satisfazer as necessidades pessoais e do agregado familiar.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they cite ratification of an instrument specifically tied to such practices. The text focuses on domestic violence generally.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, classification, or monitoring measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention trafficking in persons/human trafficking or trafficking-related exploitation, nor do they identify trafficking victims as a protected group or provide trafficking-specific prevention/protection measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to “sexual violence” and general “exploitation” in a non-specific way, but do not mention sexual exploitation/sexual slavery or any explicit sexual-exploitation nexus (e.g., forced prostitution or exploitation for sexual purposes) as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention cyber violence, online harassment, cyberbullying, digital abuse, online sexual exploitation, or any other technology-facilitated form of violence. References are limited to general domestic-violence concepts and service/procedural provisions.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "1. The court may substitute the prison sentence with a fine penalty provided that the prerequisites set forth in article 67.º of the Penal Code are met, the safety of the victim is ensured, the aggressor agrees to submit to treatment or monitoring by victim support services and it is beneficial for the maintenance of the family unit.",
+      "rationale": "The candidate sentences explicitly refer to criminal sentencing for domestic violence crimes, including a prison sentence and the possibility of substituting it with a fine, demonstrating that criminal penalties attach to acts of domestic violence (a form of violence against women within the framework’s scope).",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O tribunal pode substituir a pena de prisão por pena de multa desde que estejam reunidos os pressupostos previstos no artigo 67.º do Código Penal, a segurança da vítima esteja assegurada, o agressor concorde sujeitar-se a tratamento ou acompanhamento pelos serviços de apoio à vítima e seja proveitoso para a manutenção da unidade familiar.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions judge-ordered coercive measures such as removal from the residence and prohibition of contact, the retrieved sentences do not specify the required elements for a protection/restraining order mechanism (who may apply, duration, and defined consequence for breach).",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "Yes",
+      "evidence": "1. The specialized police assistance services intervene in cases of crimes relating to domestic violence through communication from hospital services and victim support services.",
+      "rationale": "The framework designates “specialized police assistance services” that intervene in domestic-violence crimes, indicating a specific specialised function/unit within police services to handle such cases.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Os serviços especializados de atendimento policial intervêm nos casos de crimes relativos à violência doméstica por comunicação dos serviços hospitalares e dos serviços de apoio às vitimas.",
+      "evidence_original_aligned": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences reference courts and trial judges in ordinary criminal proceedings (e.g., coercive measures, witness protection, sentencing discretion) but do not establish or mandate a specialised court, chamber, or specialised/expedited judicial procedure for violence against women cases.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although sexual violence is defined to include conduct occurring “even within marriage,” the retrieved sentences do not contain an operative provision expressly criminalising marital rape, stating that spousal status is not a defence, or otherwise removing a spousal exemption from criminal liability for rape/sexual offences (and the rules prohibit inferring this from general sexual-violence language alone).",
+      "coverage": null,
+      "confidence": 0.77,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.77
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "1. O Governo assegura a existência de uma entidade pública que colabora na definição, coordenação e acompanha-mento do Plano de Acção Nacional referido no artigo anterior.\n2. A entidade pública referida no número anterior e o membro do Governo responsável pela promoção da igualdade devem colaborar com, entre outros, os membros do Governo responsáveis pelas áreas da segurança, da saúde, educação, justiça e solidariedade social.",
+      "rationale": "The framework provides for a public entity to collaborate in defining, coordinating, and monitoring the National Action Plan, and explicitly requires collaboration with multiple government sectors (security, health, education, justice, social solidarity), which constitutes a formal cross-sectoral coordination mechanism for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O Governo assegura a existência de uma entidade pública que colabora na definição, coordenação e acompanha-mento do Plano de Acção Nacional referido no artigo anterior.\n\n2. A entidade pública referida no número anterior e o membro do Governo responsável pela promoção da igualdade devem colaborar com, entre outros, os membros do Governo responsáveis pelas áreas da segurança, da saúde, educação, justiça e solidariedade social.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe service provision, referrals/notifications, and preparation of reports for case handling, but they do not establish or mandate a system/entity responsible for collecting, recording, managing, monitoring, exchanging, or reporting aggregated or systematic data/information on violence against women/victims/cases as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes references to equality, gender-related curriculum content, and combating gender stereotypes, but it does not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal points, working group, or integration into planning/budgeting) for implementing violence against women policies/programs.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "3. The Government, through the body responsible for social security, guarantees the information and specialized training of officials working in the services referred to in number 1.",
+      "rationale": "The framework explicitly assigns the Government responsibility to ensure information and specialized training of officials working in the specialized assistance services, which is a direct mandate for capacity building of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. O Governo, através do órgão responsável pela segurança social garante a informação e formação especializada dos funcionários em exercício nos serviços referidos no número 1.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "1. O Governo assegura a existência de uma entidade pública que colabora na definição, coordenação e acompanha-mento do Plano de Acção Nacional referido no artigo anterior.\n3. O Governo elabora anualmente um relatório sobre as activi-dades desenvolvidas e o programa para o ano seguinte, que são remetidos ao Parlamento Nacional.",
+      "rationale": "The framework establishes a public entity that collaborates in the coordination and monitoring of the National Action Plan and requires the Government to produce an annual report on activities and the program for the following year to be submitted to Parliament, which functions as an implementation monitoring/reporting mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O Governo assegura a existência de uma entidade pública que colabora na definição, coordenação e acompanha-mento do Plano de Acção Nacional referido no artigo anterior.\n\n3. O Governo elabora anualmente um relatório sobre as activi-dades desenvolvidas e o programa para o ano seguinte, que são remetidos ao Parlamento Nacional.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe creation of services and that services are free of charge, but they do not contain an operative provision requiring allocation of budget/funding or establishing a funding mechanism/source for implementation.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "1. O Governo, através do membro responsável pela solidariedade social, estabelece, gere e supervisiona a rede nacional de centros de apoio às vitimas de violência doméstica, que são responsáveis pela assistência directa, refúgio e orientação das vítimas.\n1. Specialized assistance services are created for the submission of complaints regarding the commission of crimes relating to domestic violence, assistance and guidance of the respective victims with hospital services, organizations in the reference network of support services for victims of domestic violence and the PNTL.",
+      "rationale": "The law creates and mandates a national network of support centers for domestic violence victims and also creates specialized assistance services that link complaint submission and victim guidance with hospital services, support-service networks, and police—together constituting an integrated/multisectoral service mechanism rather than isolated services.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O Governo, através do membro responsável pela solidariedade social, estabelece, gere e supervisiona a rede nacional de centros de apoio às vitimas de violência doméstica, que são responsáveis pela assistência directa, refúgio e orientação das vítimas.\n\n1. São criados serviços especializados de assistência para apresentação de queixas pela prática de crimes relativos à violência doméstica, assistência e orientação das respec-tivas vítimas junto dos serviços hospitalares, das organiza-ções da rede de referência de serviços de apoio às vítimas de violência doméstica e da PNTL.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "1. É criado um serviço de emergência para assistência às víti-mas de violência doméstica, com o fim de as informar sobre as providências adequadas à sua situação.\n2. O serviço de emergência disponibiliza uma linha de aten-dimento telefónico, de carácter anónimo, por um período temporal e nas condições a fixar por despacho ministerial.\n1. Specialized assistance services are created for the submission of complaints regarding the commission of crimes relating to domestic violence, assistance and guidance of the respective victims with hospital services, organizations in the reference network of support services for victims of domestic violence and the PNTL.",
+      "rationale": "The framework establishes an emergency assistance service with an anonymous telephone line, and it also creates specialized assistance services for the submission of complaints regarding domestic-violence crimes, which together provide operative mechanisms for victims to seek help and report violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. É criado um serviço de emergência para assistência às víti-mas de violência doméstica, com o fim de as informar sobre as providências adequadas à sua situação.\n\n2. O serviço de emergência disponibiliza uma linha de aten-dimento telefónico, de carácter anónimo, por um período temporal e nas condições a fixar por despacho ministerial.\n\n1. São criados serviços especializados de assistência para apresentação de queixas pela prática de crimes relativos à violência doméstica, assistência e orientação das respec-tivas vítimas junto dos serviços hospitalares, das organiza-ções da rede de referência de serviços de apoio às vítimas de violência doméstica e da PNTL.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "1. O Governo, através do membro responsável pela solidariedade social, estabelece, gere e supervisiona a rede nacional de centros de apoio às vitimas de violência doméstica, que são responsáveis pela assistência directa, refúgio e orientação das vítimas.\n2. Os centros de apoio são compostos por centros de acolhi-mento e casas de abrigo, que trabalham coordenadamente.\na) Acolher temporariamente vítimas de violência domés-tica, acompanhadas ou não de filhos menores, sempre que, por razões de segurança, não possam permanecer na sua residência habitual;",
+      "rationale": "The law establishes a national network of support centers that includes shelters (casas de abrigo) and explicitly provides for temporary accommodation of domestic-violence victims for safety reasons, meeting the shelter/safe accommodation requirement in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O Governo, através do membro responsável pela solidariedade social, estabelece, gere e supervisiona a rede nacional de centros de apoio às vitimas de violência doméstica, que são responsáveis pela assistência directa, refúgio e orientação das vítimas.\n\n2. Os centros de apoio são compostos por centros de acolhi-mento e casas de abrigo, que trabalham coordenadamente.\n\na) Acolher temporariamente vítimas de violência domés-tica, acompanhadas ou não de filhos menores, sempre que, por razões de segurança, não possam permanecer na sua residência habitual;",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "1. In all procedural acts the victim of domestic violence must be accompanied by a lawyer or public defender, if they do not have financial means to appoint a lawyer.\na) To provide legal counseling to victims of domestic violence;",
+      "rationale": "The framework requires that domestic-violence victims be accompanied by a lawyer or public defender when they lack means, and assigns legal counselling duties to the lawyer/public defender, establishing an operative legal assistance mechanism for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Em todos os actos processuais a vítima de violência doméstica deverá estar acompanhada de advogado ou defensor público, caso não possua condições financeiras para constituir advogado.\n\na) Prestar aconselhamento jurídico às vitimas de violência doméstica;",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Whenever a patient reveals that they have been a victim or the clinical diagnosis allows for the conclusion that a crime relating to domestic violence has occurred, the specialized hospital assistance service is called to intervene, namely:\na) To provide assistance and medical follow-up to victims of domestic violence taking into account the needs of victims, particularly children;",
+      "rationale": "The law assigns specialized hospital assistance services to intervene when domestic violence is revealed or suspected, including providing assistance and medical follow-up, which constitutes an operative health/medical response linked to violence victims.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Sempre que um paciente revele ter sido vítima ou o diagnóstico clínico permita concluir estar-se perante crime relativo a violência doméstica, é chamado a intervir o serviço especiali-zado de assistência hospitalar para, nomeadamente:\n\na) Prestar assistência e seguimento médico às vítimas de vio-lência doméstica tendo em conta as necessidades das vítimas, em particular das crianças;",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "d) Conducting counseling sessions with victims of domestic violence;\nc) Ensuring, whenever this proves necessary, that the victim receives immediate medical and psycho-social assistance provided by specialized personnel;",
+      "rationale": "The framework assigns victim-support services responsibilities that include conducting counseling sessions, and requires police assistance services to ensure victims receive immediate psycho-social assistance by specialized personnel, establishing psychosocial/counselling support in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "d) Realizar sessões de aconselhamento com as vítimas de violência doméstica;\n\nc) Providenciar, sempre que tal se revele necessário, para que a vítima receba de imediato assistência médica e psico-social prestada por pessoal especializado;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided operative sentences mention religious leaders, pastoral care, spiritual counselling, or any faith-based support service for victims; the text focuses on legal, medical, psychosocial, shelter, and other social services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "1. The Ministry responsible for social services supports the victims in the process of social reintegration as well as in the provision of maintenance when such proves necessary.\n2. Support associations aim to protect victims of domestic violence, giving priority to programs aimed at their support and accompaniment, personal and professional development in accordance with their social needs.",
+      "rationale": "The framework provides longer-term support by requiring the responsible ministry to support victims’ social reintegration and maintenance when necessary, and by promoting/supporting associations prioritizing programs for victims’ support, accompaniment, and personal/professional development—measures aimed at reintegration and recovery beyond immediate emergency assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O Ministério responsável pelos serviços sociais apoia as vítimas no processo de reintegração social assim como na prestação de alimentos quando tal se mostrar necessário.\n\n2. As associações de apoio têm por objectivo proteger as vítimas de violência doméstica, dando prioridade a programas que visem o seu apoio e acompanhamento, o desenvolvimento pessoal e profissional de acordo com as suas necessidades sociais.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "The Government, through the member responsible for the promotion of equality, must promote the development of public or private initiative projects aimed at aggressors in order to raise their awareness and lead them to adopt non-violent behaviors.",
+      "rationale": "The law includes an operative provision requiring the Government to promote development of projects aimed at aggressors to raise awareness and lead them to adopt non-violent behaviors, which constitutes a perpetrator-focused intervention/behaviour-change programme measure.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "O Governo, através do membro responsável pela promoção da igualdade, deve fomentar o desenvolvimento de projectos de iniciativa pública ou privada dirigidos aos agressores no sentido de os consciencializar e levar a adoptar comporta-mentos não-violentos.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "1. O Governo deve elaborar material informativo e formativo sobre a prevenção e identificação e os factores da violência doméstica, dando particular atenção ao material destinado aos profissionais, bem como à transcrição, publicação e difusão de textos internacionais sobre esta problemática.\nThe Government develops public awareness campaigns through the media in order to promote a culture of non-violence and combat gender-based stereotypes, based on respect for the rights and duties of all and with a view to changing behaviors likely to generate violence against particularly vulnerable groups.",
+      "rationale": "The operative provisions require the Government to develop informational/training materials on prevention and identification of domestic violence and to run public awareness campaigns promoting non-violence and changing behaviors likely to generate violence, which constitutes explicit information/awareness activity linked to preventing violence (including against women in the domestic violence context).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O Governo deve elaborar material informativo e formativo sobre a prevenção e identificação e os factores da violência doméstica, dando particular atenção ao material destinado aos profissionais, bem como à transcrição, publicação e difusão de textos internacionais sobre esta problemática.\n\nO Governo desenvolve campanhas de sensibilização da opinião pública, através dos órgãos de comunicação social, de forma a promover uma cultura de não-violência e o combate aos estereótipos baseados no género, baseada no respeito pelos direitos e deveres de todos e tendo em vista a mudança de comportamentos susceptíveis de gerar violência sobre os grupos especialmente vulneráveis",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions combating gender-based stereotypes via media campaigns and integrating gender-related topics into school curricula, the candidate sentences do not explicitly frame these gender equality/women’s rights education measures as a strategy to prevent violence against women specifically (they are framed as non-violence/violence generally or as human rights/gender topics without an explicit VAW-prevention linkage as required by the coding rules).",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "2. O Governo deve ainda elaborar e distribuir, a título gratuito, em todo o território nacional, um guia destinado às vítimas de violência doméstica, em que constem informações práticas sobre os seus direitos assim como dos instrumentos existentes à sua disposição.",
+      "rationale": "The operative provisions require the Government to produce and distribute a guide for domestic violence victims containing practical information about their rights and available instruments, which is a legal-awareness/information activity concerning legal protections/remedies in the VAW/domestic violence context.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. O Governo deve ainda elaborar e distribuir, a título gratuito, em todo o território nacional, um guia destinado às vítimas de violência doméstica, em que constem informações práticas sobre os seus direitos assim como dos instrumentos existentes à sua disposição.",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "1. O Governo, como forma de combate à violência, integra nos planos curriculares escolares temas relacionados com os direitos humanos, em particular questões relacionadas com o género, incluindo os valores do afecto, da sexualidade e o princípio da resolução negociada dos conflitos.",
+      "rationale": "The operative provisions explicitly link school curricula to combating violence by requiring the Government to integrate human rights and gender-related themes into school curricular plans as a way to combat violence, which constitutes an education/curriculum-based prevention measure in the domestic violence framework.",
+      "coverage": "Substantive",
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. O Governo, como forma de combate à violência, integra nos planos curriculares escolares temas relacionados com os direitos humanos, em particular questões relacionadas com o género, incluindo os valores do afecto, da sexualidade e o princípio da resolução negociada dos conflitos.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include awareness campaigns about non-violence and a measure aimed at aggressors to raise awareness and adopt non-violent behaviors, but they do not explicitly target men or boys as a group for primary prevention or include masculinity/gender-norm change programmes engaging men/boys to prevent violence against women (and the aggressor-focused measure is framed as perpetrator support rather than men/boys engagement).",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "1. It is the responsibility of the Government to promote and support the creation and operation of associations, or other organizations, if it considers the existing conditions insufficient.\n2. Support associations aim to protect victims of domestic violence, giving priority to programs aimed at their support and accompaniment, personal and professional development in accordance with their social needs.",
+      "rationale": "The policy assigns the Government responsibility to promote and support the creation and operation of associations/organizations, and specifies that these support associations aim to protect victims of domestic violence. This is an operative provision establishing participation of non-state organizations in the response to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Compete ao Governo promover e apoiar a criação e o fun-cionamento de associações, ou de outras organizações, caso considere as condições existentes insuficientes.\n\n2. As associações de apoio têm por objectivo proteger as vítimas de violência doméstica, dando prioridade a programas que visem o seu apoio e acompanhamento, o desenvolvimento pessoal e profissional de acordo com as suas necessidades sociais.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "3. O Governo prepara acções de formação e material de informação especificamente para os Chefes de Suco e de Aldeia, tendo em conta a posição privilegiada dos líderes das comunidades para a disseminação da informação.",
+      "rationale": "The policy provides for the Government to prepare training and information materials specifically for community leaders (Chefes de Suco e de Aldeia) to disseminate information on domestic violence prevention/identification, which constitutes engagement with traditional/community leadership in prevention efforts.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. O Governo prepara acções de formação e material de informação especificamente para os Chefes de Suco e de Aldeia, tendo em conta a posição privilegiada dos líderes das comunidades para a disseminação da informação.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy addresses education by integrating relevant themes into school curricula and assigning curriculum-planning responsibility to the education ministry, the candidate sentences do not establish engagement or collaboration with education institutions (schools/universities) as partners or actors in VAW prevention/response; they describe government curriculum action rather than institutional collaboration.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference international texts/instruments and the diffusion of international texts, but do not establish or require cooperation with any international organisation or create an operative mechanism for collaboration with international bodies on domestic violence.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "The Government develops public awareness campaigns through the media in order to promote a culture of non-violence and combat gender-based stereotypes, based on respect for the rights and duties of all and with a view to changing behaviors likely to generate violence against particularly vulnerable groups.",
+      "rationale": "The policy includes an operative provision that the Government develops public awareness campaigns through the media to promote non-violence and combat gender-based stereotypes, which constitutes engagement with media actors for prevention/awareness.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "O Governo desenvolve campanhas de sensibilização da opinião pública, através dos órgãos de comunicação social, de forma a promover uma cultura de não-violência e o combate aos estereótipos baseados no género, baseada no respeito pelos direitos e deveres de todos e tendo em vista a mudança de comportamentos susceptíveis de gerar violência sobre os grupos especialmente vulneráveis",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "1. Compete ao Governo a promoção e o desenvolvimento do Plano de Acção Nacional para a prevenção e apoio no domínio da violência doméstica, em colaboração com toda a sociedade e em especial com a família e os órgãos de poder local, nos termos desta lei.",
+      "rationale": "The policy states that the Government promotes and develops the National Action Plan for prevention and support in domestic violence in collaboration with all of society, especially the family and local authorities, which is an operative requirement/authorisation for broad societal/community collaboration in prevention/response.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Compete ao Governo a promoção e o desenvolvimento do Plano de Acção Nacional para a prevenção e apoio no domínio da violência doméstica, em colaboração com toda a sociedade e em especial com a família e os órgãos de poder local, nos termos desta lei.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text mentions coordination with public and private entities in the preamble, the candidate sentences do not establish any operative provision requiring or authorising collaboration with businesses/private-sector actors specifically for domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe government responsibilities, coordination with local authorities, and provision of services, but they do not mention any funding or budget source from local government budgets.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text assigns duties to the Government and ministries (e.g., establishing networks of support centers and bearing maintenance in some cases), but it does not explicitly reference a national government budget or budgetary allocation/source as funding.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The preamble references international legal texts and ratified conventions, and there is mention of disseminating international texts, but there is no explicit international assistance, donor support, foreign aid, or international organizational involvement in funding/implementation as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences cover government duties, service provision, and some references to other legal procedures (e.g., Code of Civil Procedure), but they do not identify any funding/budget sources from 'other legal sources' (e.g., earmarked funds, fines, levies, special funds) or any non-governmental legally defined funding stream.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention provincial budgets or provincial government funding sources; they focus on national government responsibilities and service structures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 25,
+    "resolved": 25,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,985 @@
+{
+  "policy_file": "125. North Macedonia - DomViol - Macedonian.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:17:03.167364+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "3) \"Domestic violence\" is maltreatment, insult, endangering safety, bodily injury, sexual or other psychological, physical or economic violence that causes a feeling of insecurity, endangerment or fear, including threats of such acts, against a spouse, parents or children or other persons living in a marital or extramarital union or common household, as well as against a current or former spouse or extramarital partner or persons who have a common child or are in close personal relationships, regardless of whether the perpetrator shares or shared the same residence with the victim or not;",
+      "rationale": "The candidate sentences include an operative definition of “Domestic violence,” specifying forms of abuse and the covered relationships, which constitutes substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "3) „Семејно насилство“ е малтретирање, навредување, загрозување на сигурноста, телесно повредување, полово или друго психичко, физичко или економско насилство со кое се предизвикува чувство на несигурност, загрозување или страв, вклучувајќи и закани за такви дејствија, спрема брачен другар, родителите или децата или други лица кои живеат во брачна или вонбрачна заедница или заедничко домаќинство, како и спрема сегашен или поранешен брачен другар или вонбрачен партнер или лица кои имаат заедничко дете или се наоѓаат во блиски лични односи, без оглед дали сторителот го дели или го делел истото живеалиште со жртвата или не;",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "18) \"Sexual violence and rape\" is any act of a sexual nature, with any body part or object, on the body of another person without his/her consent.",
+      "rationale": "The candidate sentences contain an operative definition of “Sexual violence and rape,” including the consent standard, which substantively addresses sexual violence within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "18) „Сексуално насилство и силување“ е секое дејствие од сексуална природа, со кој било телесен дел или предмет, на телото на друго лице без негова/нејзина согласност.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "14) \"Physical violence\" is any act of use of physical force or action that harms the health and bodily and psychological integrity of the victim.",
+      "rationale": "The candidate sentences include an operative definition of “Physical violence,” describing it as use of physical force harming the victim’s health and integrity, which is substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "14) „Физичко насилство“ е секое дејствие на примена на физичка сила или дејствие со кое се нарушува здравјето и телесниот и психичкиот интегритет на жртвата.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "15) \"Psychological violence\" is any behavior using coercion, intimidation or threat that causes a feeling of fear, endangerment, disturbance or injury to the dignity and psychological integrity of the victim;",
+      "rationale": "The candidate sentences provide an operative definition of “Psychological violence,” describing coercion/intimidation/threat causing fear and injury to dignity/psychological integrity, meeting substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "15) „Психичко насилство“ е секое однесување со употреба на присилба, заплашување или закана, кое предизвикува чувство на страв, загрозеност, вознемиреност или повреда на достоинството и психичкиот интегритет на жртвата;",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "17) \"Economic violence\" is any act of restricting or preventing the realization and/or disposal of personal income and financial resources, for maintaining the common household and for care of the child, thereby causing economic dependence of the victim;",
+      "rationale": "The candidate sentences include an operative definition of “Economic violence,” describing restriction/prevention of income and financial resources causing economic dependence, which substantively addresses economic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "17) „Економско насилство“ е секое дејствие на ограничување или спречување во остварување и/или располагање со лични приходи и финансиски средства, за одржување на заедничкото домаќинство и за грижа на детето, со што се предизвикува економска зависност на жртвата;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "21) \"Forced marriage\" is forcing, enticing, misleading, threatening or otherwise coercing an adult or child to enter into marriage or extramarital union;\n22) \"Female genital mutilation\" is the cutting, infibulation or any other mutilation in whole or in part of the labia majora, labia minora or clitoris of a woman;",
+      "rationale": "The candidate sentences explicitly define harmful practices including “Forced marriage” and “Female genital mutilation,” which qualifies as substantive coverage under the rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "21) „Присилен брак“ е присилување, намамување, доведување во заблуда, закана или на друг начин принудување на возрасен или дете да стапат во брак или вонбрачна заедница;\n\n22) „Женско генитално осакатување“ е отсекување, инфибулација или секое друго осакатување во целост или делумно на големите усни (labia majora), малите усни (labia minora) или клиторисот на жената;",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent term, nor do they establish a femicide-specific classification, aggravating factor, or registry/monitoring specific to femicide.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "24) \"Trafficking in women\" is an act whereby through force, serious threat the victim is misled or other forms of coercion, abduction, fraud, abuse of one's position or the state of pregnancy, helplessness or physical or mental incapacity of another or by giving or receiving money or other benefit for obtaining the consent of a person who has control over another person or otherwise recruits, transports, transfers, buys, sells, shelters or receives persons for the purpose of exploitation through prostitution or other forms of sexual exploitation, pornography, forced 3 of 34 labor or servitude, slavery, forced marriages, forced pregnancy, illegal adoption or similar relationship, begging or exploitation for legally prohibited activity or inadmissible transplantation of parts of the human body and",
+      "rationale": "The candidate sentences include an operative definition of “Trafficking in women,” describing coercive recruitment/transport/receipt for exploitation, which substantively addresses trafficking.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "21) „Присилен брак“ е присилување, намамување, доведување во заблуда, закана или на друг начин принудување на возрасен или дете да стапат во брак или вонбрачна заедница; 22) „Женско генитално осакатување“ е отсекување, инфибулација или секое друго осакатување во целост или делумно на големите усни (labia majora), малите усни (labia minora) или клиторисот на жената; 23) „Присилен абортус и присилна стерилизација“ е прекинување на бременост врз жена без претходно да биде информирана и даде писмена согласност, како и вршење операција врз жена без претходно да биде информирана и даде писмена согласност, односно разбирање на постапката чија цел или последица е да се прекине нејзината способност за природна репродукција; 24) „Трговија со жени“ е дејствие со кое преку сила, сериозна закана жртвата се доведува во заблуди или други форми на присилба, грабнување, измама, со злоупотреба на својата положба или состојбата на бременост, немоќ или физичка или ментална неспособност на друг или со давање или примање пари или друга корист заради добивање согласност на лице кое има контрола на друго лице или на друг начин врбува, превезува, пренесува, купува, продава, засолнува или прифаќа лица заради експлоатација по пат на проституција или други форми на сексуална експлоатација, порнографија, принудна 3 од 34 работа или слугување, ропство, присилни бракови, присилна бременост, незаконито посвојување или нему сличен однос, питачење или експлоатација заради со закон забранета активност или недопуштено пресадување делови од човековото тело и",
+      "evidence_original_aligned": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "24) \"Trafficking in women\" is an act whereby through force, serious threat the victim is misled or other forms of coercion, abduction, fraud, abuse of one's position or the state of pregnancy, helplessness or physical or mental incapacity of another or by giving or receiving money or other benefit for obtaining the consent of a person who has control over another person or otherwise recruits, transports, transfers, buys, sells, shelters or receives persons for the purpose of exploitation through prostitution or other forms of sexual exploitation, pornography, forced 3 of 34 labor or servitude, slavery, forced marriages, forced pregnancy, illegal adoption or similar relationship, begging or exploitation for legally prohibited activity or inadmissible transplantation of parts of the human body and",
+      "rationale": "The candidate sentences define “Trafficking in women” and explicitly include exploitation through prostitution and other forms of sexual exploitation (and pornography), which establishes a clear sexual-exploitation nexus and thus substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "21) „Присилен брак“ е присилување, намамување, доведување во заблуда, закана или на друг начин принудување на возрасен или дете да стапат во брак или вонбрачна заедница; 22) „Женско генитално осакатување“ е отсекување, инфибулација или секое друго осакатување во целост или делумно на големите усни (labia majora), малите усни (labia minora) или клиторисот на жената; 23) „Присилен абортус и присилна стерилизација“ е прекинување на бременост врз жена без претходно да биде информирана и даде писмена согласност, како и вршење операција врз жена без претходно да биде информирана и даде писмена согласност, односно разбирање на постапката чија цел или последица е да се прекине нејзината способност за природна репродукција; 24) „Трговија со жени“ е дејствие со кое преку сила, сериозна закана жртвата се доведува во заблуди или други форми на присилба, грабнување, измама, со злоупотреба на својата положба или состојбата на бременост, немоќ или физичка или ментална неспособност на друг или со давање или примање пари или друга корист заради добивање согласност на лице кое има контрола на друго лице или на друг начин врбува, превезува, пренесува, купува, продава, засолнува или прифаќа лица заради експлоатација по пат на проституција или други форми на сексуална експлоатација, порнографија, принудна 3 од 34 работа или слугување, ропство, присилни бракови, присилна бременост, незаконито посвојување или нему сличен однос, питачење или експлоатација заради со закон забранета активност или недопуштено пресадување делови од човековото тело и",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "20) \"Sexual harassment via the internet\" is any verbal, non-verbal or other conduct of a sexual nature, that has the purpose or consequence, of violating dignity or creating a threatening, hostile, humiliating or intimidating environment, access or practice, through electronic means of communication;",
+      "rationale": "The candidate sentences include an operative definition of “Sexual harassment via the internet,” explicitly recognizing an online/digital form of violence/harassment, which meets the criterion for technology-facilitated violence.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "20) „Сексуално вознемирување преку интернет“ е секое вербално, невербално или друго постапување од сексуална природа, што има за цел или последица, повреда на достоинството или создавање на заканувачка, непријателска, понижувачка или застрашувачка средина, пристап или практика, преку електронските средства за комуникација;",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe civil/administrative-style protection measures (e.g., temporary/urgent protection measures) and related procedures, plus general statements about the state obligation to “punish,” but they do not define any form of violence against women as a criminal offence with a specified criminal sanction (imprisonment/fine/other criminal penalty). References to a “convicted person for a criminal offense” do not themselves establish criminalization or penalties within the shown text.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text clearly establishes urgent and temporary protection measures issued by a court and specifies who may submit proposals and the duration of measures. However, the coding rules for a substantive “Yes” also require a defined consequence for breach of the order (civil or criminal). The provided sentences do not specify any consequence/sanction for violating an urgent/temporary protection measure (they state the court shall oblige parties to respect the decision, but not what happens if it is breached). Because the mechanism is detailed but lacks an explicit breach consequence in the provided excerpts, it does not meet the criterion’s requirements for inclusion.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences describe police duties and procedures in responding to reports and risk assessment, and mention “specialized services” for victims generally, but they do not designate or mandate a specific specialised unit/desk/division within police services to handle VAW cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "(1) In proceedings for imposition of temporary protection measures for gender-based violence against women and domestic violence, a single judge decides.\n(1) The court, immediately and no later than within 24 hours after receipt of the proposal from the Ministry of Internal Affairs and the police report, without holding a hearing, shall decide on the imposition of an urgent protection measure of removal of the perpetrator from the home and prohibition of approaching the home from Article 57 of this law.",
+      "rationale": "The cited provisions establish a specific judicial procedure for protection-measure cases: a single judge decides in proceedings for temporary protection measures, and the court must decide on urgent protection measures within 24 hours without holding a hearing. These are specialised/expedited judicial procedures for VAW/domestic-violence protection matters.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Во постапките за изрекување на привремените мерки за заштита од родово-базирано насилство врз жени и семејно насилство одлучува судија поединец.\n\n(1) Судот, веднаш а најдоцна во рок од 24 часа по приемот на предлогот од Министерството за внатрешни работи и полицискиот извештај, без да одржи рочиште ќе одлучи за изрекување на итна мерка за заштита отстранување на сторителот од домот и забрана за приближување до домот од членот 57 од овој закон.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences define “sexual violence and rape” and define domestic/intimate partner violence as including sexual violence against a spouse/partner, but they do not contain an operative provision expressly criminalising marital rape, stating that spousal status is not a defence, or otherwise removing a spousal exemption from criminal liability. Under the coding rules, general definitions and references to sexual violence in domestic contexts are insufficient without explicit applicability of criminal rape/sexual-offence provisions to spouses/intimate partners.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(1) The Government establishes a National Coordination Body for the implementation of the Council of Europe Convention on preventing and combating violence against women and domestic violence (hereinafter: National Coordination Body), with a mandate of five years.\n3) coordinates the work of institutions in the part of prevention and protection from gender-based violence against women and domestic violence;\n(1) The subjects from Article 11 of this law are obliged to cooperate with each other for the achievement of the objectives of this law by preparing a protocol for mutual cooperation.",
+      "rationale": "The text establishes a formal multi-agency coordination mechanism by creating a National Coordination Body with representatives from multiple ministries and other institutions, and assigns it a coordination function. It also requires institutions to cooperate by preparing a protocol for mutual cooperation, reinforcing an operative coordination process.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Владата формира Национално координативно тело за имплементација на Конвенцијата на Советот на Европа за спречување и борба против насилство врз жените и семејно насилство (во натамошниот текст: Национално координативно тело), со мандат од пет години.\n\n3) го координира работењето на институциите во делот на превенцијата и заштита од родово-базирано насилство врз жените и семејното насилство;\n\n(1) Субјектите од членот 11 од овој закон се должни меѓусебно да соработуваат за остварување на целите од овој закон со изготвување на протокол за меѓусебна соработка.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(1) The subjects from articles 11 and 24 of this law collect statistical and administrative data on the state of gender-based violence against women and domestic violence, based on sex, gender, age, community affiliation, residence and other data determined by this or another law, in accordance with the provisions of the Law on Protection of Personal Data.\n(2) The Ministry of Labour and Social Policy on a daily basis using the national platform for interoperability – Macedonian Information Highway (hereinafter: MIM), takes over the data from the subjects determined in paragraph\n(1) The public prosecutor's offices establish and maintain a special record for cases of gender-based violence against women and victims of domestic violence based on sex, gender, age, ethnic affiliation, disability, residence and other grounds, as well as data relevant to monitoring the situation with gender-based violence against women and domestic violence in accordance with law.",
+      "rationale": "The framework mandates collection of statistical/administrative data on gender-based violence and domestic violence, provides for integrated data transfer via a national interoperability platform, and requires public prosecutor’s offices to establish and maintain a special record for relevant cases—each of which assigns concrete data-collection/record-keeping responsibilities.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Субјектите од членовите 11 и 24 од овој закон, прибираат статистички и административни податоци за состојбата со родово-базирано насилство врз жените и семејното насилство, врз основа на пол, род, возраст, припадност на заедница, живеалиште и други податоци утврдени со овој или друг закон, согласно со одредбите од Законот за заштита на личните податоци.\n\n(2) Министерството за труд и социјална политика на дневна основа користејќи ја националната платформа за интероперабилност – Македонска информациска магистрала (во натамошниот текст: МИМ), ги презема податоците од субјектите определени со ставот\n\n(1) Јавните обвинителства воспоставуваат и водат посебна евиденција за предмети на родово-базирано насилство врз жените и жртвите на семејното насилство врз основа на пол, род, возраст, етничка припадност, попреченост, живеалиште и други основи, како и податоци релевантни за следење на состојбата со родово-базираното насилство врз жените и семејното насилство согласно со закон.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "(2) Gender-responsive policies include the gender perspective as a criterion that is integrated in all phases of the policy-making process, assessment of situations, implementation and evaluation of policies arising from this law.",
+      "rationale": "The text requires that gender-responsive policies integrate the gender perspective as a criterion across all phases of policy-making, assessment, implementation, and evaluation under the law, which functions as an operative gender mainstreaming requirement for implementation of the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Родово одговорните политики ја вклучуваат родовата перспектива како критериум кој е интегриран во сите фази од процесот на креирање на политиките, оценката на состојбите, имплементацијата и евалуацијата на политиките кои произлегуваат од овој закон.",
+      "evidence_original_aligned": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "2) prepares a program for implementation of initial and continuous education for police officers who work on prevention and protection of women victims of gender-based violence and victims of domestic violence and submits it to the Ministry of Labor and Social Policy for obtaining consent;\n6) prepares a program for implementation of initial and continuous education for health workers who work on protection of women victims of gender-based violence and victims of domestic violence and submits it to the Ministry of Labor and Social Policy for obtaining consent;\n2) conducts initial and continuous education for candidates, judges and public prosecutors on gender-based violence against women and domestic violence through trainers registered in the register of the Ministry of Labour and Social Work;",
+      "rationale": "Multiple operative provisions mandate initial and continuous education (training) for implementing personnel, including police officers, health workers, and judges/public prosecutors, with specified responsibilities to prepare and/or conduct such education.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) подготвува програма за спроведување на почетна и континуирана едукација за полициските службеници кои работат на превенција и заштита на жените жртви на родово-базирано насилство и жртвите на семејно насилство и ја доставува до Министерството за труд и социјална политика за добивање согласност;\n\n6) подготвува програма за спроведување на почетна и континуирана едукација за здравствените работници кои работат на заштита на жените жртви на родово-базирано насилство и жртвите на семејно насилство и ја доставува до Министерството за труд и социјална политика за добивање согласност;\n\n2) спроведува почетна и континуирана едукација за кандидати, судии и јавни обвинители за родово-базирано насилство врз жените и семејното насилство преку обучувачи евидентирани во регистарот на Министерството за труд и социјална работа;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "1) prepares and monitors the implementation of the Strategy;\n4) monitors the implementation of the Council of Europe Convention on preventing and combating violence against women and domestic violence and national policies in the field of gender-based violence against women and domestic violence;\n13) submits an annual report on the activities undertaken and progress achieved regarding the situation with gender-based violence against women and domestic violence in accordance with the Strategy to the Assembly of the Republic of North Macedonia for consideration, no later than the end of June for the previous year.",
+      "rationale": "The framework designates the National Coordination Body to monitor implementation of the Strategy and National Action Plans, monitor implementation of the Convention and national policies, and submit an annual report on activities and progress—constituting a specific monitoring/reporting mechanism for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) ја подготвува и следи реализацијата на Стратегијата;\n\n4) го следи спроведувањето на Конвенцијата на Советот на Европа за спречување и борба против насилството врз жените и семејното насилство и националните политики од областа на родово-базирано насилството врз жените и семејното насилство;\n\n13) доставува годишен извештај за преземените активности и постигнатиот напредок за состојбата со родово-базирано насилство врз жените и семејното насилство согласно со Стратегијата до Собранието на Република Северна Македонија за разгледување, најдоцна до крајот на јуни за претходната година.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "(4) The specialized services from paragraph (1) of this article are financed from funds from the Budget of the Republic of North Macedonia, from the budgets of local self-government units and other sources of financing.",
+      "rationale": "The text specifies that specialized services are financed from the Budget of the Republic of North Macedonia (as well as local budgets and other sources), which constitutes an operative funding provision tied to implementation of response services.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Специјализираните услуги од ставот (1) на овој член се финансираат од средства од Буџетот на Република Северна Македонија, од буџетите на единиците на локалната самоуправа и други извори на финансирање.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "(2) The competent social work center, according to the residence or temporary residence of the victim, forms a multisectoral expert team from paragraph (1) of this article which is composed of professional persons from the social work center, competent police station and healthcare institution, with the aim of undertaking coordinated activities in providing assistance to the victim in accordance with their needs.",
+      "rationale": "The framework provides for a multisectoral expert team formed by the competent social work center and composed of professionals from social work, police, and healthcare institutions to undertake coordinated activities to assist the victim, which constitutes an operative multidisciplinary/integrated service mechanism for victims of violence (including women victims).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Надлежниот центар за социјална работа, според живеалиштето, односно престојувалиштето на жртвата, формира мултисекторски стручен тим од ставот (1) на овој член кој е составен од стручни лица од центар за социјална работа, надлежна полициска станица и здравствена установа, со цел преземање координирани активности во обезбедување на помош на жртвата во согласност со нејзините потреби.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(1) The information and referral service is provided through the S.O.S. line.\n(2) The S.O.S. line provides 24-hour accurate, timely and confidential information on protection of victims, available services and telephone counseling for women victims of violence and victims of domestic violence.",
+      "rationale": "The law establishes an information and referral service provided through an S.O.S. line that offers 24-hour information and telephone counseling for women victims of violence and victims of domestic violence, which is an operative help-seeking mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Услугата на информирање и упатување се обезбедува преку С. О. С. линија.\n\n(2) С. О. С. линија обезбедува 24 часовна точна, навремена и доверлива информација за заштита на жртвите, достапните услуги и телефонско советување на жени жртви на насилство и жртвите на семејно насилство.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(1) The temporary accommodation service provides care in a temporary accommodation center when there is knowledge of a real threat to the life and health of the victim or in the absence of other care resources for the following categories of persons:\n(2) Emergency placement is provided in an acute situation of violence when there is a serious real threat to the life and health of the victim for a period of 24 to 72 hours.",
+      "rationale": "The framework provides for a temporary accommodation service in a temporary accommodation center for women victims of gender-based violence/domestic violence (and other categories), including emergency placement for 24–72 hours in acute situations, satisfying shelter/safe accommodation provision.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Услугата за привремен престој обезбедува згрижување во центар за привремен престој кога постои сознание за реална закана по животот и здравјето на жртвата или во отсуство на други ресурси за згрижување на следниве категории лица:\n\n(2) Интервентно сместувањето се обезбедува во акутна состојба на насилство кога постои сериозна реална закана по животот и здравјето на жртвата во траење од 24 до 72 часа.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "7) provides legal assistance and representation;",
+      "rationale": "The law assigns the Center for Social Work a duty to provide legal assistance and representation as a protection measure for victims, which constitutes an operative legal assistance provision for victims of violence (including women victims).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "7) дава правна помош и застапување;",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(1) The healthcare institution and healthcare workers are obliged to immediately undertake measures for protection of the victim, namely:\nexamination of injuries and providing medical treatment,",
+      "rationale": "The framework obliges healthcare institutions and healthcare workers to immediately undertake protection measures for the victim, including examination of injuries and providing medical treatment, establishing a violence-linked medical response.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Здравствената установа и здравствените работници се должни веднаш да преземат мерки за заштита на жртвата и тоа:\n\nпреглед на повредите и обезбедуваат медицински третман,",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(1) The counseling service includes psycho-social support, counseling and treatment of women victims of gender-based violence, children victims of gender-based violence and victims of domestic violence.",
+      "rationale": "The law provides a counseling service that includes psycho-social support, counseling and treatment for women victims of gender-based violence (and other victim categories), which directly meets the psychosocial/psychological support criterion.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Услугата советување опфаќа психо-социјална поддршка, советување и третман на жени жртви на родово-базирано насилство, деца жртви на родово-базирано насилство и жртвите на семејно насилство.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences provide for religious or spiritual counselling/pastoral care for women victims; references to counseling are psychosocial/psychological and do not involve faith-based support or religious personnel.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(1) The entities from articles 11 and 24 of this law are obliged within their competencies to take care of the process of reintegration of victims of violence through recognition of victims as a particularly vulnerable category and development of programs and measures for assistance and support based on their needs.\n(2) The program for reintegration of victims of violence includes models for temporary housing, psychological counseling with mentorship, various types of financial assistance specifically intended for women victims of violence, opportunities for education and training in various fields, as well as employment measures determined by law.",
+      "rationale": "The framework obliges relevant entities to support reintegration of victims of violence through programs and measures based on needs, explicitly including temporary housing models, financial assistance intended for women victims, education/training opportunities, and employment measures—constituting longer-term recovery/reintegration support.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Субјектите од членовите 11 и 24 од овој закон се должни во рамки на своите надлежности да се грижат за процесот на реинтеграција на жртвите на насилство преку препознавање на жртвите како посебна ранлива категорија и развивање на програми и мерки за помош и поддршка врз основа на нивните потреби.\n\n(2) Програмата за реинтеграција на жртвите на насилство вклучува модели за привремено домување, психичко советување со менторство, различни видови на финансиска помош специфично наменети за жени жртви на насилство, можности за образование и обуки во различни области, како и мерки за вработување утврдени со закон.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "Psychosocial treatment of perpetrators of domestic violence is provided in a counseling center for perpetrators of violence in accordance with the Law on Social Protection and regulations in the field of health protection.",
+      "rationale": "The law provides psychosocial treatment for perpetrators of domestic violence in a counseling center for perpetrators of violence, establishing a perpetrator-focused intervention/treatment programme.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Психосоцијален третман на сторители на семејно насилство се обезбедува во советувалиште за сторители на насилство согласно со Законот за социјалната заштита и прописите од областа на здравствената заштита.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "2) conduct campaigns for recognition of the consequences of gender-based violence against women and domestic violence;\n2) introduces content in the curricula that promotes gender equality, non-violent conflict resolution, respect for differences, information on all forms of gender-based violence and comprehensive sexual education in primary and secondary schools;",
+      "rationale": "The cited operative provisions explicitly require prevention measures that include campaigns about the consequences of violence against women/domestic violence and inclusion of curricular content providing information on forms of gender-based violence, framed as special preventive measures.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) спроведуваат кампањи за препознавање на последиците од родово-базирано насилство врз жените и семејното насилство;\n\n2) воведува содржини во наставните програми кои промовираат родова еднаквост, ненасилно разрешување на конфликти, почитување на различностите, информации за сите форми на родово-базирано насилство и сеопфатно сексуално образование во основните и средните училишта;",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "1) adopts programs for equality between women and men, non-violent conflict resolution, respect for differences, promotion of gender equality and elimination of stereotypes about gender roles based on culture, customs, religion, traditions and other practices that are based on the idea of subordination of women and men in institutions for care and education of preschool children upon proposal of the Bureau for Development of Education;\n2) introduces content in the curricula that promotes gender equality, non-violent conflict resolution, respect for differences, information on all forms of gender-based violence and comprehensive sexual education in primary and secondary schools;",
+      "rationale": "The framework includes operative, prevention-framed education measures requiring programs and curriculum content that promote gender equality/equality between women and men, presented as special preventive measures within the law’s prevention section.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) донесува програми за еднаквоста меѓу жените и мажите, ненасилно разрешување на конфликти, почитување на различностите, промовирање на родовата еднаквост и елиминирање на стереотипите за родовите улоги базирани на културата, обичаите, верата, традициите и другите практики кои се засноваат на идејата за подреденост на жените и мажите во установите за згрижување и воспитание на деца од предучилишна возраст на предлог на Бирото за развој на образованието;\n\n2) воведува содржини во наставните програми кои промовираат родова еднаквост, ненасилно разрешување на конфликти, почитување на различностите, информации за сите форми на родово-базирано насилство и сеопфатно сексуално образование во основните и средните училишта;",
+      "evidence_original_aligned": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes campaigns and publication of information on safety measures/advice for prevention, none of the candidate sentences specify dissemination or education about laws, regulations, policies, or legal protections related to violence against women, which is required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "34 of this law, also takes the following special preventive measures:\n2) introduces content in the curricula that promotes gender equality, non-violent conflict resolution, respect for differences, information on all forms of gender-based violence and comprehensive sexual education in primary and secondary schools;",
+      "rationale": "The Ministry of Education and Science is assigned responsibility to implement special preventive measures that include introducing specific curriculum content (including information on forms of gender-based violence) in schools, explicitly framed as preventive measures under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "34 од овој закон ги презема и следниве посебни превентивни мерки:\n\n2) воведува содржини во наставните програми кои промовираат родова еднаквост, ненасилно разрешување на конфликти, почитување на различностите, информации за сите форми на родово-базирано насилство и сеопфатно сексуално образование во основните и средните училишта;",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address gender equality and elimination of stereotypes generally, but do not explicitly target or engage men or boys in prevention activities (e.g., programs/campaigns directed at men/boys or masculinity/gender-norm change among men/boys). References to perpetrators’ programs are post-incident measures and not framed as primary prevention engaging men/boys broadly.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "10) cooperates with associations, foundations and other organizations in promotion, prevention and protection from gender-based violence against women and domestic violence and",
+      "rationale": "The cited operative provision assigns a ministry a duty to cooperate with associations, foundations and other organizations specifically for promotion, prevention and protection from gender-based violence against women and domestic violence, which constitutes required/authorised collaboration with civil society/NGOs on VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "10) соработува со здруженијата, фондации и други организации во промоција, превенција и заштита од родово-базирано насилство врз жените и семејното насилство и",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences impose obligations on religious organizations (e.g., to refrain from justifying violence) and list them among actors obliged to take preventive measures, but they do not establish or require engagement/collaboration/partnership mechanisms between the state and religious/traditional leaders or organisations for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "2) introduces content in the curricula that promotes gender equality, non-violent conflict resolution, respect for differences, information on all forms of gender-based violence and comprehensive sexual education in primary and secondary schools;",
+      "rationale": "The cited operative provision requires the Ministry of Education and Science to introduce curriculum content in primary and secondary schools on gender equality and information on all forms of gender-based violence, which assigns education institutions a role in VAW prevention/education.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) воведува содржини во наставните програми кои промовираат родова еднаквост, ненасилно разрешување на конфликти, почитување на различностите, информации за сите форми на родово-базирано насилство и сеопфатно сексуално образование во основните и средните училишта;",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference international treaties and monitoring implementation of the Council of Europe Convention and recommendations of international/regional bodies, but they do not establish cooperation or collaboration with international organisations (e.g., joint programmes, technical assistance, formal cooperation mechanisms) as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "The media established in accordance with the Law on Media apply the general preventive measures from Article 34 points 2),\n1) when creating and broadcasting informative and educational programs, take into account raising awareness among the general public of all forms of gender-based violence against women and domestic violence, promotion of gender equality and elimination of stereotypes about gender roles and",
+      "rationale": "The cited operative provisions assign media organisations responsibilities to apply preventive measures and to take special preventive measures through informative/educational programming to raise awareness of gender-based violence against women and domestic violence, which constitutes media engagement for VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Медиумите основани согласно со Законот за медиуми ги применуваат општите превентивни мерки од членот 34 точки 2),\n\n1) при креирањето и емитувањето информативни и едукативни програми водат сметка за подигање на свеста кај општата јавност за сите форми на родово-базирано насилство врз жени и семејно насилство, промовирање на родовата еднаквост и елиминирање на стереотипите за родовите улоги и",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text lists “the public” and various groups as obliged to take preventive measures, it does not establish a mechanism for community/public participation or collaboration (e.g., community mobilisation programmes or structured participation). Reporting obligations on individuals are explicitly insufficient under the coding rules and do not constitute engagement mechanisms.",
+      "coverage": null,
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention the “private sector” among actors obliged to take preventive measures, but they do not establish or require cooperation/partnership with businesses or employers, nor do they assign specific VAW-related participation duties to private-sector actors beyond a general obligation statement.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "(1) Local self-government units are obliged to provide funds in the budget for financial support to victims of gender-based violence and family violence.",
+      "rationale": "The policy explicitly obliges local self-government units to provide funds in their budgets for financial support to victims, which directly constitutes local government budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Единиците на локалната самоуправа се должни во буџетот да обезбедат средства за финансиска поддршка на жртви на родово-базирано насилство и семејно насилство.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(4) The specialized services from paragraph (1) of this article are financed from funds from the Budget of the Republic of North Macedonia, from the budgets of local self-government units and other sources of financing.",
+      "rationale": "The policy explicitly states that specialized services are financed from the Budget of the Republic of North Macedonia, which is a national government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Специјализираните услуги од ставот (1) на овој член се финансираат од средства од Буџетот на Република Северна Македонија, од буџетите на единиците на локалната самоуправа и други извори на финансирање.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference international treaties and monitoring of international/regional recommendations, but do not mention any international funding, donor support, foreign aid, or international assistance as a resource for implementation or services.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(4) The specialized services from paragraph (1) of this article are financed from funds from the Budget of the Republic of North Macedonia, from the budgets of local self-government units and other sources of financing.",
+      "rationale": "Beyond national and local budgets, the policy explicitly includes “other sources of financing” for specialized services, which qualifies as other (non-specified) legal/financing sources.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) Специјализираните услуги од ставот (1) на овој член се финансираат од средства од Буџетот на Република Северна Македонија, од буџетите на единиците на локалната самоуправа и други извори на финансирање.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention national (Republic) and local self-government budgets, but do not reference any provincial/regional/intermediate-tier government budget as a funding source.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 33,
+    "resolved": 33,
+    "rate": 1.0
+  }
+}

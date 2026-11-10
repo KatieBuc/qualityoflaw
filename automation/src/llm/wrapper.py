@@ -8,8 +8,14 @@ from openai import APIConnectionError, APIStatusError, AzureOpenAI, OpenAI, Rate
 from pydantic import BaseModel
 
 from automation.src.llm.client import ApiStyle
-from automation.src.llm.confidence import DISABLED, ConfidenceSpec, attach_confidence
-from automation.src.llm.logprobs import extract_answer_confidences
+from automation.src.llm.confidence import (
+    DISABLED,
+    ConfidenceSpec,
+    attach_confidence,
+    attach_coverage_confidence,
+    normalize_coverage,
+)
+from automation.src.llm.logprobs import extract_answer_confidences, extract_coverage_confidences
 from automation.src.llm.model_profile import ModelProfile
 
 if TYPE_CHECKING:
@@ -29,6 +35,35 @@ class LLMCallError(Exception):
         self.error_type = error_type
         self.details = details
         self.attempts = attempts
+
+
+class ContextLengthExceeded(LLMCallError):
+    """The prompt is longer than the model accepts. Retrying the same prompt can only fail the same way, so it is
+    raised at once; `limit` and `actual` (tokens, when the error message says them) tell the caller how far to cut."""
+
+    def __init__(self, message: str, *, limit: int | None, actual: int | None, details: dict[str, Any], attempts: int):
+        super().__init__(message, error_type="ContextLengthExceeded", details=details, attempts=attempts)
+        self.limit = limit
+        self.actual = actual
+
+
+_CONTEXT_MARKERS = ("context_length_exceeded", "maximum context length", "input tokens exceed", "context window")
+_LIMIT_RE = re.compile(r"(?:limit of|maximum context length is|maximum is|max(?:imum)? of)\s*([\d,]+)\s*tokens", re.I)
+_ACTUAL_RE = re.compile(r"(?:resulted in|you requested|requested|contains|has)\s*([\d,]+)\s*tokens", re.I)
+
+
+def parse_context_overflow(exc: BaseException) -> tuple[bool, int | None, int | None]:
+    """``(is a context overflow, token limit, tokens sent)`` from an API error; the numbers are None if not stated."""
+    text = f"{getattr(exc, 'message', '') or ''} {exc}".lower()
+    body = getattr(exc, "body", None)
+    if body is not None:
+        text += f" {body}".lower()
+    if not any(marker in text for marker in _CONTEXT_MARKERS):
+        return False, None, None
+    limit = _LIMIT_RE.search(text)
+    actual = _ACTUAL_RE.search(text)
+    to_int = lambda m: int(m.group(1).replace(",", "")) if m else None
+    return True, to_int(limit), to_int(actual)
 
 
 def format_api_error(exc: Exception) -> tuple[str, dict[str, Any]]:
@@ -325,6 +360,16 @@ class AzureLLMWrapper:
                         continue
                 last_error = exc
                 last_error_type, last_details = format_api_error(exc)
+                overflow, limit, actual = parse_context_overflow(exc)
+                if overflow:
+                    logger.warning(
+                        "prompt too long for %s (limit %s tokens, sent %s); not retried",
+                        self.profile.deployment, limit, actual,
+                    )
+                    raise ContextLengthExceeded(
+                        last_details.get("message", str(exc)),
+                        limit=limit, actual=actual, details=last_details, attempts=attempt + 1,
+                    ) from exc
                 if attempt == self.profile.max_retries - 1:
                     message = last_details.get("message", str(exc))
                     status_code = last_details.get("status_code", "n/a")
@@ -445,6 +490,13 @@ class AzureLLMWrapper:
                 items_by_id = {
                     item["id"]: item for item in output_dict["evaluation_results"]
                 }
+                if self.confidence.has_coverage:
+                    unusable = normalize_coverage(items_by_id, self.confidence.coverage_labels)
+                    if unusable:
+                        logger.warning(
+                            "coverage missing or not one of %s for %d indicator(s) answered Yes: %s",
+                            list(self.confidence.coverage_labels), len(unusable), ", ".join(unusable[:8]),
+                        )
                 if self.confidence.enabled:
                     confidences = (
                         extract_answer_confidences(choice) if with_logprobs else []
@@ -455,6 +507,13 @@ class AzureLLMWrapper:
                         self.confidence,
                         logprobs_available=with_logprobs,
                     )
+                    if self.confidence.has_coverage:
+                        attach_coverage_confidence(
+                            items_by_id,
+                            extract_coverage_confidences(choice, self.confidence.coverage_labels) if with_logprobs else [],
+                            self.confidence,
+                            logprobs_available=with_logprobs,
+                        )
                 output_dict["evaluation_results"] = items_by_id
             self._record_usage(_extract_usage(response, "chat"))
             return output_dict

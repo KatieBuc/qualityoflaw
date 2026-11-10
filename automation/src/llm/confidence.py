@@ -20,7 +20,7 @@ and a writer for its score -- the report scores whatever it finds.
 
 from dataclasses import dataclass, field
 
-from automation.src.llm.logprobs import AnswerConfidence
+from automation.src.llm.logprobs import AnswerConfidence, CoverageConfidence, canonical_coverage
 
 METHOD_LOGPROBS = "logprobs"
 METHOD_MARGIN = "margin"
@@ -55,12 +55,22 @@ CONFIDENCE_FIELDS = (
 
 @dataclass(frozen=True)
 class ConfidenceSpec:
-    """Which confidence signals to capture, and which one leads."""
+    """Which confidence signals to capture, and which one leads.
+
+    `coverage_labels` (empty = off) are the values of the second answer, `coverage`, that an indicator answered
+    Yes carries (e.g. "Substantive", "Referenced only"). It gets its own confidence, independent of the Yes / No
+    one, with the same methods.
+    """
 
     enabled: bool = True
     methods: tuple[str, ...] = (METHOD_LOGPROBS, METHOD_MARGIN)
     primary: str = METHOD_LOGPROBS
     top_logprobs: int = 5
+    coverage_labels: tuple[str, ...] = ()
+
+    @property
+    def has_coverage(self) -> bool:
+        return bool(self.coverage_labels)
 
     def wants(self, method: str) -> bool:
         return self.enabled and method in self.methods
@@ -214,3 +224,106 @@ def merge_scores(items: list[dict], chosen: dict | None) -> dict:
         "margin": chosen.get("margin"),
         "margin_counterpart_observed": chosen.get("margin_counterpart_observed"),
     }
+
+
+# --------------------------------------------------------------------------- coverage (the second answer)
+#: Field the verbalized prompt asks the model to fill for the coverage answer.
+COVERAGE_VERBALIZED_FIELD = "coverage_self_reported_confidence"
+
+COVERAGE_CONFIDENCE_FIELDS = (
+    "coverage_confidence",
+    "coverage_confidence_source",
+    "coverage_confidence_scores",
+    "coverage_answer_logprob",
+    "coverage_margin",
+    "coverage_margin_counterpart_observed",
+)
+
+
+def normalize_coverage(items_by_id: dict[str, dict], labels: tuple[str, ...]) -> list[str]:
+    """Make `coverage` one of `labels` for an indicator answered Yes, and None for everything else, in place.
+
+    Returns the ids whose Yes answer carried no usable coverage (missing or not one of the labels), so the caller can
+    log them; those items get ``coverage: None`` rather than a guessed value.
+    """
+    unusable: list[str] = []
+    for indicator_id, item in items_by_id.items():
+        if item.get("included") != "Yes":
+            item["coverage"] = None
+            continue
+        value = canonical_coverage(item.get("coverage"), labels)
+        if value is None:
+            unusable.append(indicator_id)
+        item["coverage"] = value
+    return unusable
+
+
+def _coverage_verbalized(item: dict) -> float | None:
+    """The judge's stated certainty about its coverage answer (same sanity checks as the Yes / No one)."""
+    raw = item.pop(COVERAGE_VERBALIZED_FIELD, None)
+    if raw is None:
+        return None
+    try:
+        value = float(raw)
+    except (TypeError, ValueError):
+        return None
+    if value < 0.0:
+        return None
+    if value > 1.0:
+        value = value / 100.0
+    return min(value, 1.0)
+
+
+def attach_coverage_confidence(
+    items_by_id: dict[str, dict],
+    confidences: list[CoverageConfidence],
+    spec: ConfidenceSpec,
+    *,
+    logprobs_available: bool,
+) -> None:
+    """Record every enabled method's score for the `coverage` answer on each item, in place.
+
+    Independent of `attach_confidence`: it never reads or changes the Yes / No scores. An item with no coverage
+    (answered No) gets the full field set with nulls and the source ``not_applicable``.
+    """
+    by_id = {confidence.indicator_id: confidence for confidence in confidences}
+
+    for indicator_id, item in items_by_id.items():
+        verbalized = _coverage_verbalized(item) if spec.needs_verbalized else None
+        if item.get("coverage") is None:
+            item.update(
+                coverage_confidence=None,
+                coverage_confidence_source="not_applicable",
+                coverage_confidence_scores={},
+            )
+            if spec.needs_logprobs:
+                item.update(coverage_answer_logprob=None, coverage_margin=None, coverage_margin_counterpart_observed=None)
+            continue
+
+        answer = by_id.get(indicator_id)
+        values: dict[str, float] = {}
+        if answer is not None:
+            if spec.wants(METHOD_LOGPROBS):
+                values[METHOD_LOGPROBS] = answer.probability
+            if spec.wants(METHOD_MARGIN) and answer.margin is not None:
+                values[METHOD_MARGIN] = answer.margin
+        if verbalized is not None:
+            values[METHOD_VERBALIZED] = verbalized
+
+        primary = values.get(spec.primary)
+        if primary is not None:
+            source = spec.primary
+        elif not logprobs_available and not values:
+            source = SOURCE_UNAVAILABLE
+        else:
+            source = SOURCE_UNALIGNED
+
+        item["coverage_confidence"] = primary
+        item["coverage_confidence_source"] = source
+        item["coverage_confidence_scores"] = values
+        if spec.needs_logprobs:
+            item["coverage_answer_logprob"] = answer.logprob if answer else None
+            item["coverage_margin"] = answer.margin if answer else None
+            item["coverage_margin_counterpart_observed"] = (
+                answer.counterpart_observed if answer and answer.margin is not None else None
+            )

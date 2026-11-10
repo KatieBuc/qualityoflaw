@@ -1,0 +1,983 @@
+{
+  "policy_file": "100. Luxembourg - DomViol - French (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T14:05:48.370358+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "The amended law of 8 September 2003 on domestic violence is amended as follows:\nThe residence authorization referred to in paragraph 1 is granted to the victim of domestic violence if the authorization is necessary either in view of the victim's personal situation, namely their safety, their state of health, their family situation or their situation in their country of origin, or if it is required for the purposes of the victim's cooperation with the competent authorities in the context of an investigation or criminal proceedings.",
+      "rationale": "The candidate sentences include operative amendments to a domestic-violence law and an immigration provision granting residence authorization to victims of domestic violence, indicating substantive legal consequences and protections tied to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "La loi modifiée du 8 septembre 2003 sur la violence domestique est modifiée comme suit :\n\nL’autorisation de séjour visée à l’alinéa 1er est accordée à la victime de violence domestique si l’autorisation est nécessaire soit au regard de la situation personnelle de la victime, à savoir sa sécurité, son état de santé, sa situation familiale ou sa situation dans son pays d’origine, soit si elle s’impose aux fins de la coopération de la victime avec les autorités compétentes dans le cadre d’une enquête ou d’une procédure pénale.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "1The Parties shall take the necessary legislative or other measures to ensure that the following intentional conducts are criminalised: a engaging in non-consensual vaginal, anal or oral penetration of a sexual nature of the body of another person with any bodily part or object; b engaging in other non-consensual acts of a sexual nature with another person; c causing another person to engage in non-consensual acts of a sexual nature with a third person.\nThe Parties shall take the necessary legislative or other measures to ensure that any form of unwanted verbal, non-verbal or physical conduct of a sexual nature with the purpose or effect of violating the dignity of a person, in particular when creating an intimidating, hostile, degrading, humiliating or offensive environment, is subject to criminal or other legal sanctions.",
+      "rationale": "The candidate sentences contain operative provisions requiring criminalisation of sexual violence (including rape) and sexual harassment, which meets the criterion for substantive legal framework coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties prennent les mesures législatives ou autres nécessaires pour ériger en infraction pénale, lorsqu’ils sont commis intentionnellement : a la pénétration vaginale, anale ou orale non consentie, à caractère sexuel, du corps d’autrui avec toute partie du corps ou avec un objet ; b les autres actes à caractère sexuel non consentis sur autrui ; c le fait de contraindre autrui à se livrer à des actes à caractère sexuel non consentis avec un tiers.\n\nLes Parties prennent les mesures législatives ou autres nécessaires pour que toute forme de comportement non désiré, verbal, non-verbal ou physique, à caractère sexuel, ayant pour objet ou pour effet de violer la dignité d’une personne, en particulier lorsque ce comportement crée un environnement intimidant, hostile, dégradant, humiliant ou offensant, soit soumise à des sanctions pénales ou autres sanctions légales.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "The Parties shall take the necessary legislative or other measures to ensure that the intentional conduct of committing acts of physical violence against another person is criminalised.",
+      "rationale": "The candidate sentences explicitly require that intentional acts of physical violence against another person be criminalised, which is a direct substantive treatment of physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties prennent les mesures législatives ou autres nécessaires pour ériger en infraction pénale le fait, lorsqu’il est commis intentionnellement, de commettre des actes de violence physique à l’égard d’une autre personne.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "The Parties shall take the necessary legislative or other measures to ensure that the intentional conduct of seriously impairing a person's psychological integrity through coercion or threats is criminalised.",
+      "rationale": "The candidate sentences explicitly require criminalisation of conduct impairing a person's psychological integrity through coercion or threats, which substantively addresses psychological violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties prennent les mesures législatives ou autres nécessaires pour ériger en infraction pénale le fait, lorsqu’il est commis intentionnellement, de porter gravement atteinte à l’intégrité psychologique d’une personne par la contrainte ou les menaces.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this Convention: a \"violence against women\" is understood as a violation of human rights and a form of discrimination against women and shall mean all acts of gender-based violence that result in, or are likely to result in, physical, sexual, psychological or economic harm or suffering to women, including threats of such acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life; b \"domestic violence\" shall mean all acts of physical, sexual, psychological or economic violence that occur within the family or domestic unit or between former or current spouses or partners, whether or not the perpetrator shares or has shared the same residence with the victim; c \"gender\" shall mean the socially constructed roles, behaviours, activities and attributes that a given society considers appropriate for women and men; d \"violence against women based on gender\" shall mean violence that is directed against a woman because she is a woman or that affects women disproportionately; e \"victim\" shall mean any natural person who is subject to the conduct specified in points a and b; f \"women\" includes girls under the age of 18.",
+      "rationale": "The candidate sentences include an operative definition of violence against women and domestic violence that explicitly includes \"economic harm or suffering\" and \"economic violence,\" which satisfies substantive inclusion of economic violence within the legal framework definition.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Aux fins de la présente Convention : a le terme « violence à l’égard des femmes » doit être compris comme une violation des droits de l’homme et une forme de discrimination à l’égard des femmes, et désigne tous les actes de violence fondés sur le genre qui entraînent, ou sont susceptibles d’entraîner pour les femmes, des dommages ou souffrances de nature physique, sexuelle, psychologique ou économique, y compris la menace de se livrer à de tels actes, la contrainte ou la privation arbitraire de liberté, que ce soit dans la vie publique ou privée ; b le terme « violence domestique » désigne tous les actes de violence physique, sexuelle, psychologique ou économique qui surviennent au sein de la famille ou du foyer ou entre des anciens ou actuels conjoints ou partenaires, indépendamment du fait que l’auteur de l’infraction partage ou a partagé le même domicile que la victime ; c le terme « genre » désigne les rôles, les comportements, les activités et les attributions socialement construits, qu’une société donnée considère comme appropriés pour les femmes et les hommes ; d le terme « violence à l’égard des femmes fondée sur le genre » désigne toute violence faite à l’égard d’une femme parce qu’elle est une femme ou affectant les femmes de manière disproportionnée ; e le terme « victime » désigne toute personne physique qui est soumise aux comportements spécifiés aux points a et b ; f le terme « femme » inclut les filles de moins de 18 ans.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "(1)Whoever has practiced, facilitated or promoted the excision, infibulation or any other mutilation of all or part of the labia majora, labia minora or clitoris of a woman, with or without the latter's consent, shall be punished by imprisonment of three to five years and a fine of 500 euros to 10,000 euros.\n1The Parties shall take the necessary legislative or other measures to ensure that the intentional conduct of forcing an adult or a child to enter into a marriage is criminalised.\n1The Parties shall take the necessary legislative or other measures to ensure that, in criminal proceedings initiated following the commission of any of the acts of violence covered by the scope of this Convention, culture, custom, religion, tradition or so-called \"honour\" shall not be regarded as justification for such acts.",
+      "rationale": "The candidate sentences include operative criminalisation of female genital mutilation and forced marriage, and an operative provision addressing so-called \"honour\" justifications in criminal proceedings, collectively meeting the harmful-practices criterion substantively.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1)Quiconque aura pratiqué, facilité ou favorisé l’excision, l’infibulation ou toute autre mutilation de la totalité ou partie des labia majora, labia minora ou clitoris d’une femme, avec ou sans consentement de cette dernière, sera puni d’un emprisonnement de trois à cinq ans et d’une amende de 500 euros à 10 000 euros.\n\n1Les Parties prennent les mesures législatives ou autres nécessaires pour ériger en infraction pénale le fait, lorsqu’il est commis intentionnellement, de forcer un adulte ou un enfant à contracter un mariage.\n\n1Les Parties prennent les mesures législatives ou autres nécessaires pour s’assurer que, dans les procédures pénales diligentées à la suite de la commission de l’un des actes de violence couverts par le champ d’application de la présente Convention, la culture, la coutume, la religion, la tradition ou le prétendu « honneur » ne soient pas considérés comme justifiant de tels actes.",
+      "evidence_original_aligned": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent term, nor do they establish femicide-specific prevention/monitoring mechanisms; general violence provisions and risk assessment language are not sufficient under the coding rules without explicit femicide reference.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference a Council of Europe convention on trafficking in the preamble, but do not contain operative provisions defining, prohibiting, criminalising, or providing protections specifically for trafficking or trafficking victims; therefore the framework does not address trafficking within the provided text for this criterion.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address sexual violence (including rape) and sexual harassment, but do not mention sexual exploitation, sexual slavery, exploitation for sexual purposes, or coercive prostitution/sexual labour; without an explicit sexual-exploitation nexus, the criterion is not met.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention the information and communication technology sector and exposure to degrading content, but do not define, prohibit, or criminalise cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) as violence with legal consequences; thus the criterion is not substantively addressed.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(1)Whoever has practiced, facilitated or promoted the excision, infibulation or any other mutilation of all or part of the labia majora, labia minora or clitoris of a woman, with or without the latter's consent, shall be punished by imprisonment of three to five years and a fine of 500 euros to 10,000 euros.",
+      "rationale": "The framework amends the Criminal Code to criminalise female genital mutilation and specifies concrete criminal sanctions (imprisonment and a fine range), which satisfies the requirement that at least one form of VAW is a criminal offence with an attached penalty.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1)Quiconque aura pratiqué, facilité ou favorisé l’excision, l’infibulation ou toute autre mutilation de la totalité ou partie des labia majora, labia minora ou clitoris d’une femme, avec ou sans consentement de cette dernière, sera puni d’un emprisonnement de trois à cinq ans et d’une amende de 500 euros à 10 000 euros.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text states that restraining/protection orders and emergency barring orders should be available and mentions specified periods and sanctions for violations, it does not specify who may apply for an order or clearly identify the issuing authority, which are required elements for a substantive 'Yes' under the coding rules; and the coding rules do not allow a 'Referenced only' yes where these core procedural elements are missing.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to police providing an information sheet and to general cooperation/support services, but they do not designate or mandate any specific specialised unit/desk/division within police services for handling VAW cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes general obligations to conduct investigations and proceedings without undue delay and other general procedural protections, but it does not establish or mandate any specialised court, chamber, judicial officer, or specialised/expedited judicial procedure specifically for VAW cases.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "Yes",
+      "evidence": "3The Parties shall take the necessary legislative or other measures to ensure that the provisions of paragraph 1 also apply to acts committed against former or current spouses or partners as defined by their internal law.\nThe offences established in accordance with this Convention shall apply irrespective of the nature of the relationship between victim and perpetrator.",
+      "rationale": "The framework explicitly provides that sexual-violence provisions apply to acts committed against former or current spouses/partners and further states that offences established under the Convention apply irrespective of the nature of the relationship between victim and perpetrator, thereby removing any spousal exemption and recognising criminal liability for sexual violence within marriage/intimate partnerships.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "3Les Parties prennent les mesures législatives ou autres nécessaires pour que les dispositions du paragraphe 1 s’appliquent également à des actes commis contre les anciens ou actuels conjoints ou partenaires, conformément à leur droit interne.\n\nLes infractions établies conformément à la présente Convention s’appliquent indépendamment de la nature de la relation entre la victime et l’auteur de l’infraction.",
+      "evidence_original_aligned": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "1The Parties shall designate or establish one or more official bodies responsible for the coordination, implementation, monitoring and evaluation of policies and measures to prevent and combat all forms of violence covered by this Convention.\n2The Parties shall take the necessary legislative or other measures, in conformity with internal law, to ensure that there are adequate mechanisms to provide for effective cooperation between all relevant state agencies, including the judicial authorities, public prosecutors, law enforcement agencies, local and regional authorities as well as non-governmental organisations and other relevant organisations and entities, in protecting and supporting victims and witnesses of all forms of violence covered by the scope of this Convention, including by referring to general and specialist support services as detailed in Articles 20 and 22 of this Convention.",
+      "rationale": "The framework requires Parties to designate or establish official coordinating body/bodies responsible for coordination, implementation, monitoring and evaluation of relevant policies and measures, and it also requires “adequate mechanisms” to ensure effective cooperation among relevant state agencies and NGOs in protecting and supporting victims—together constituting formal coordination/cooperation mechanisms across agencies/sectors.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties désignent ou établissent un ou plusieurs organes officiels responsables pour la coordination, la mise en œuvre, le suivi et l’évaluation des politiques et des mesures prises afin de prévenir et combattre toutes les formes de violence couvertes par la présente Convention.\n\n2Les Parties prennent les mesures législatives ou autres nécessaires, conformément à leur droit interne, pour veiller à ce qu’il existe des mécanismes adéquats pour mettre en œuvre une coopération effective entre toutes les agences étatiques pertinentes, y compris les autorités judiciaires, les procureurs, les services répressifs, les autorités locales et régionales, ainsi que les organisations non gouvernementales et les autres organisations ou entités pertinentes pour la protection et le soutien des victimes et des témoins de toutes les formes de violence couvertes par le champ d’application de la présente Convention, y compris en se référant aux services de soutien généraux et spécialisés visés aux articles 20 et 22 de la présente Convention.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "1For the purposes of the implementation of this Convention, the Parties undertake: a to collect disaggregated relevant statistical data at regular intervals on cases of all forms of violence covered by the scope of this Convention; b to support research in the fields related to all forms of violence covered by the scope of this Convention in order to study their root causes and effects, their frequency and conviction rates, as well as the effectiveness of measures taken to implement this Convention.\nThese bodies shall coordinate the collection of data referred to in Article 11, analyse and disseminate the results.",
+      "rationale": "The framework explicitly undertakes/mandates regular collection of disaggregated statistical data on cases of violence and assigns the coordinating body/bodies a role to coordinate the collection of such data and disseminate results, meeting the requirement to mandate data collection and assign responsibility.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Aux fins de la mise en œuvre de la présente Convention, les Parties s’engagent : a à collecter les données statistiques désagrégées pertinentes, à intervalle régulier, sur les affaires relatives à toutes les formes de violence couvertes par le champ d’application de la présente Convention ; b à soutenir la recherche dans les domaines relatifs à toutes les formes de violence couvertes par le champ d’application de la présente Convention, afin d’étudier leurs causes profondes et leurs effets, leur fréquence et les taux de condamnation, ainsi que l’efficacité des mesures prises pour mettre en œuvre la présente Convention.\n\nCes organes coordonnent la collecte des données mentionnées à l’article 11, analysent et en diffusent les résultats.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "Parties undertake to include a gender perspective in the implementation and evaluation of the impact of the provisions of this Convention and to promote and effectively implement policies of equality between women and men and the empowerment of women.",
+      "rationale": "The framework requires inclusion of a gender perspective in implementation and evaluation of the Convention’s provisions, which functions as an explicit gender-mainstreaming-type requirement tied to implementation and evaluation rather than a general equality commitment.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties s’engagent à inclure une perspective de genre dans la mise en œuvre et l’évaluation de l’impact des dispositions de la présente Convention et à promouvoir et mettre en œuvre de manière effective des politiques d’égalité entre les femmes et les hommes, et d’autonomisation des femmes.",
+      "evidence_original_aligned": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "1The Parties shall provide or strengthen appropriate training for the relevant professionals dealing with victims or perpetrators of all acts of violence covered by the scope of this Convention, on the prevention and detection of such violence, equality between women and men, the needs and rights of victims, as well as on how to prevent secondary victimisation.",
+      "rationale": "The framework mandates that Parties provide or strengthen appropriate training for relevant professionals dealing with victims or perpetrators of covered acts of violence, which is a direct training/capacity-building requirement for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties dispensent ou renforcent la formation adéquate des professionnels pertinents ayant affaire aux victimes ou aux auteurs de tous les actes de violence couverts par le champ d’application de la présente Convention, sur la prévention et la détection de cette violence, l’égalité entre les femmes et les hommes, les besoins et les droits des victimes, ainsi que sur la manière de prévenir la victimisation secondaire.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "1The Parties shall designate or establish one or more official bodies responsible for the coordination, implementation, monitoring and evaluation of policies and measures to prevent and combat all forms of violence covered by this Convention.\n1The Group of Experts on Action against Violence against Women and Domestic Violence (hereinafter referred to as \"GREVIO\") shall monitor the implementation of this Convention by the Parties.",
+      "rationale": "The framework requires designation/establishment of official body/bodies responsible for monitoring and evaluation of relevant policies and measures, and it also establishes an external monitoring mechanism (GREVIO) to monitor implementation, satisfying the requirement for a specific monitoring/evaluation mechanism and responsible bodies.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties désignent ou établissent un ou plusieurs organes officiels responsables pour la coordination, la mise en œuvre, le suivi et l’évaluation des politiques et des mesures prises afin de prévenir et combattre toutes les formes de violence couvertes par la présente Convention.\n\n1Le Groupe d’experts sur la lutte contre la violence à l’égard des femmes et la violence domestique (ci-après dénommé « GREVIO ») est chargé de veiller à la mise en œuvre de la présente Convention par les Parties.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "Parties shall allocate appropriate financial and human resources for the adequate implementation of integrated policies, measures and programmes to prevent and combat all forms of violence covered by the scope of this Convention, including those carried out by non-governmental organisations and civil society.",
+      "rationale": "The framework contains an operative provision requiring Parties to allocate appropriate financial and human resources for implementation of integrated policies, measures and programmes to prevent and combat covered forms of violence, which is a binding resource-allocation requirement for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties allouent des ressources financières et humaines appropriées pour la mise en œuvre adéquate des politiques intégrées, mesures et programmes visant à prévenir et combattre toutes les formes de violence couvertes par le champ d’application de la présente Convention, y compris ceux réalisés par les organisations non gouvernementales et la société civile.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "2The Parties shall take the necessary legislative or other measures, in conformity with internal law, to ensure that there are adequate mechanisms to provide for effective cooperation between all relevant state agencies, including the judicial authorities, public prosecutors, law enforcement agencies, local and regional authorities as well as non-governmental organisations and other relevant organisations and entities, in protecting and supporting victims and witnesses of all forms of violence covered by the scope of this Convention, including by referring to general and specialist support services as detailed in Articles 20 and 22 of this Convention.",
+      "rationale": "The framework requires “adequate mechanisms” to ensure effective cooperation among relevant state agencies and NGOs in protecting and supporting victims, which constitutes an operative, multi-agency coordination mechanism for victim support (even if not labelled a one-stop centre).",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "2Les Parties prennent les mesures législatives ou autres nécessaires, conformément à leur droit interne, pour veiller à ce qu’il existe des mécanismes adéquats pour mettre en œuvre une coopération effective entre toutes les agences étatiques pertinentes, y compris les autorités judiciaires, les procureurs, les services répressifs, les autorités locales et régionales, ainsi que les organisations non gouvernementales et les autres organisations ou entités pertinentes pour la protection et le soutien des victimes et des témoins de toutes les formes de violence couvertes par le champ d’application de la présente Convention, y compris en se référant aux services de soutien généraux et spécialisés visés aux articles 20 et 22 de la présente Convention.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "The Parties shall take the necessary legislative or other measures to set up state-wide round-the-clock (24/7) telephone helplines free of charge to provide advice to callers, confidentially or with due respect for their anonymity, in relation to all forms of violence covered by the scope of this Convention.",
+      "rationale": "The framework mandates the establishment of state-wide, 24/7 telephone helplines to provide advice to callers in relation to all forms of violence covered, which is a direct help-seeking/emergency-support mechanism for victims/survivors.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties prennent les mesures législatives ou autres nécessaires pour mettre en place à l’échelle nationale des permanences téléphoniques gratuites, accessibles vingt-quatre heures sur vingt-quatre, sept jours sur sept, pour fournir aux personnes qui appellent, de manière confidentielle ou dans le respect de leur anonymat, des conseils concernant toutes les formes de violence couvertes par le champ d’application de la présente Convention.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "The Parties shall take the necessary legislative or other measures to provide for the setting up of appropriate, easily accessible shelters in sufficient numbers to provide safe accommodation for and to reach out proactively to victims, especially women and their children.",
+      "rationale": "The framework requires legislative or other measures to set up shelters in sufficient numbers to provide safe accommodation, explicitly prioritising victims, especially women and their children.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties prennent les mesures législatives ou autres nécessaires pour permettre la mise en place de refuges appropriés, facilement accessibles et en nombre suffisant, afin d’offrir des logements sûrs pour les victimes, en particulier les femmes et leurs enfants, et pour les aider de manière proactive.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Parties shall ensure that victims have the right to legal assistance and to free legal aid under the conditions provided by their internal law.",
+      "rationale": "The framework explicitly provides that victims have the right to legal assistance and to free legal aid (subject to internal-law conditions), which directly establishes access to legal support for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties veillent à ce que les victimes aient droit à une assistance juridique et à une aide juridique gratuite selon les conditions prévues par leur droit interne.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "2The Parties shall take the necessary legislative or other measures to ensure that victims have access to health care and social services, that services have adequate resources and that professionals are trained to assist victims and refer them to the appropriate services.",
+      "rationale": "The framework requires measures to ensure victims have access to health care and social services, explicitly linking health-care access to victims (including victims of violence against women/domestic violence within the Convention’s scope).",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2Les Parties prennent les mesures législatives ou autres nécessaires pour que les victimes aient accès à des services de santé et des services sociaux, que les services disposent des ressources adéquates et que les professionnels soient formés afin de fournir une assistance aux victimes et de les orienter vers les services adéquats.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "The Parties shall take the necessary legislative or other measures to provide for the setting up of appropriate, easily accessible rape crisis or sexual violence referral centres for victims in sufficient numbers to provide for medical and forensic examination, trauma support and counselling for victims.",
+      "rationale": "The framework mandates rape crisis/sexual violence referral centres that provide trauma support and counselling for victims, which is an operative provision for psychosocial/psychological support services.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties prennent les mesures législatives ou autres nécessaires pour permettre la mise en place de centres d’aide d’urgence pour les victimes de viols et de violences sexuelles, appropriés, facilement accessibles et en nombre suffisant, afin de leur dispenser un examen médical et médico-légal, un soutien lié au traumatisme et des conseils.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences establish or assign any religious/spiritual counselling, pastoral care, or faith-based victim-support service; references to religion appear only in the context of rejecting religion as a justification for violence, not as a support service.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "1The Parties shall take the necessary legislative or other measures to ensure that victims have access to services facilitating their recovery.\nThese measures should include, when necessary, services such as legal and psychological counselling, financial assistance, housing, education, training and assistance in finding employment.",
+      "rationale": "The framework requires measures to ensure victims have access to services facilitating recovery and specifies longer-term supports such as financial assistance, housing, education, training, and employment assistance, which are recovery/reintegration-oriented supports for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties prennent les mesures législatives ou autres nécessaires pour que les victimes aient accès à des services facilitant leur rétablissement.\n\nCes mesures devraient inclure, si nécessaire, des services tels que le conseil juridique et psychologique, l’assistance financière, les services de logement, l’éducation, la formation et l’assistance en matière de recherche d’emploi.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "programmes aimed at teaching perpetrators of domestic violence to adopt non-violent behaviour in interpersonal relationships with a view to preventing further violence and changing violent behavioural patterns.\ntreatment programmes aimed at preventing the recidivism of offenders, in particular of sexual offenders.",
+      "rationale": "The framework provides for preventive intervention and treatment programmes aimed at changing perpetrators’ violent behaviour and preventing recidivism, including for domestic violence perpetrators and sexual offenders.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "programmes visant à apprendre aux auteurs de violence domestique à adopter un comportement non violent dans les relations interpersonnelles en vue de prévenir de nouvelles violences et de changer les schémas comportementaux violents.\n\nprogrammes de traitement destinés à prévenir la récidive des auteurs d’infractions, en particulier des auteurs d’infractions à caractère sexuel.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "1The Parties shall promote or conduct, on a regular basis and at all levels, awareness-raising campaigns or programmes, including in cooperation with national human rights institutions and equality bodies, civil society and non-governmental organisations, especially women's organisations where appropriate, to increase awareness and understanding among the general public of the different manifestations of all forms of violence covered by the scope of this Convention, their consequences on children, and the need to prevent such violence.\n2The Parties shall ensure the wide dissemination among the general public of information on measures available to prevent acts of violence covered by the scope of this Convention.\n1The Parties shall take, where appropriate, the necessary steps to include teaching material on issues such as equality between women and men, non-stereotyped gender roles, mutual respect, non-violent conflict resolution in interpersonal relationships, gender-based violence against women, and the right to personal integrity, adapted to the evolving capacity of learners, in formal curricula and at all levels of education.",
+      "rationale": "The candidate sentences include operative provisions requiring awareness-raising campaigns/programmes about forms of violence covered by the Convention and dissemination of information on measures to prevent such violence, and requiring inclusion of teaching material on gender-based violence against women in formal curricula. These are explicit information/education activities directed at violence against women and prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties promeuvent ou conduisent, régulièrement et à tous les niveaux, des campagnes ou des programmes de sensibilisation y compris en coopération avec les institutions nationales des droits de l’homme et les organes compétents en matière d’égalité, la société civile et les organisations non gouvernementales, notamment les organisations de femmes, le cas échéant, pour accroître la prise de conscience et la compréhension par le grand public des différentes manifestations de toutes les formes de violence couvertes par le champ d’application de la présente Convention et leurs conséquences sur les enfants, et de la nécessité de les prévenir.\n\n2Les Parties assurent une large diffusion parmi le grand public d’informations sur les mesures disponibles pour prévenir les actes de violence couverts par le champ d’application de la présente Convention.\n\n1Les Parties entreprennent, le cas échéant, les actions nécessaires pour inclure dans les programmes d’étude officiels et à tous les niveaux d’enseignement du matériel d’enseignement sur des sujets tels que l’égalité entre les femmes et les hommes, les rôles non stéréotypés des genres, le respect mutuel, la résolution non violente des conflits dans les relations interpersonnelles, la violence à l’égard des femmes fondée sur le genre, et le droit à l’intégrité personnelle, adapté au stade de développement des apprenants.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes education content on equality between women and men, it does not explicitly link education/awareness about gender equality or women’s rights to the prevention of violence against women as required by the coding rules for this indicator. The awareness-raising provisions shown focus on violence manifestations and prevention, not on gender equality/women’s rights as the educational topic linked to VAW prevention.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "\"(7)In the case where expulsion is not granted by the State Prosecutor, the police shall provide to persons cohabiting in a family context, an information sheet on the services taking care of adult and minor victims and the services taking care of perpetrators of domestic violence as well as the available legal measures, in a language they understand\".",
+      "rationale": "The candidate sentences include an operative provision requiring police to provide an information sheet including available legal measures in domestic violence contexts. This is a specified information activity about legal measures/protections related to domestic violence (within the scope of violence against women/domestic violence).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "« (7)Au cas où l’expulsion n’est pas accordée par le procureur d’État, la police remet aux personnes cohabitant dans un cadre familial, une fiche informative sur les services prenant en charge des victimes adultes et mineures et les services prenant en charge des auteurs de violence domestique ainsi que les mesures légales disponibles, dans une langue qu’elles comprennent ».",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "1The Parties shall take, where appropriate, the necessary steps to include teaching material on issues such as equality between women and men, non-stereotyped gender roles, mutual respect, non-violent conflict resolution in interpersonal relationships, gender-based violence against women, and the right to personal integrity, adapted to the evolving capacity of learners, in formal curricula and at all levels of education.\n2The Parties shall take the necessary steps to promote the principles referred to in paragraph 1 in informal educational facilities, as well as in sports, cultural and leisure facilities, and the media.",
+      "rationale": "The candidate sentences include an operative requirement to include teaching material (including on gender-based violence against women) in formal curricula at all levels of education and to promote these principles in informal educational facilities and other settings. This explicitly identifies curricula/education as a prevention-related measure within the Convention’s prevention chapter context.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties entreprennent, le cas échéant, les actions nécessaires pour inclure dans les programmes d’étude officiels et à tous les niveaux d’enseignement du matériel d’enseignement sur des sujets tels que l’égalité entre les femmes et les hommes, les rôles non stéréotypés des genres, le respect mutuel, la résolution non violente des conflits dans les relations interpersonnelles, la violence à l’égard des femmes fondée sur le genre, et le droit à l’intégrité personnelle, adapté au stade de développement des apprenants.\n\n2Les Parties entreprennent les actions nécessaires pour promouvoir les principes mentionnés au paragraphe 1 dans les structures éducatives informelles ainsi que dans les structures sportives, culturelles et de loisirs, et les médias.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "Yes",
+      "evidence": "4The Parties shall take the necessary measures to encourage all members of society, especially men and boys, to contribute actively to preventing all forms of violence covered by the scope of this Convention.",
+      "rationale": "The candidate sentences include an operative provision encouraging all members of society, especially men and boys, to contribute actively to preventing all forms of violence covered by the Convention. This is an explicit prevention measure engaging men and boys.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "4Les Parties prennent les mesures nécessaires afin d’encourager tous les membres de la société, en particulier les hommes et les garçons, à contribuer activement à la prévention de toutes les formes de violence couvertes par le champ d’application de la présente Convention.",
+      "evidence_original_aligned": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The Parties recognise, encourage and support, at all levels, the work of relevant non-governmental organisations and civil society active in combating violence against women and establish effective cooperation with these organisations.\n2The Parties shall take the necessary legislative or other measures, in conformity with internal law, to ensure that there are adequate mechanisms to provide for effective cooperation between all relevant state agencies, including the judicial authorities, public prosecutors, law enforcement agencies, local and regional authorities as well as non-governmental organisations and other relevant organisations and entities, in protecting and supporting victims and witnesses of all forms of violence covered by the scope of this Convention, including by referring to general and specialist support services as detailed in Articles 20 and 22 of this Convention.",
+      "rationale": "The text contains operative provisions requiring/establishing effective cooperation with non-governmental organisations and civil society in combating violence against women and in mechanisms to protect and support victims, which meets the criterion for substantive engagement/collaboration.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Les Parties reconnaissent, encouragent et soutiennent, à tous les niveaux, le travail des organisations non gouvernementales pertinentes et de la société civile qui sont actives dans la lutte contre la violence à l’égard des femmes et établissent une coopération effective avec ces organisations.\n\n2Les Parties prennent les mesures législatives ou autres nécessaires, conformément à leur droit interne, pour veiller à ce qu’il existe des mécanismes adéquats pour mettre en œuvre une coopération effective entre toutes les agences étatiques pertinentes, y compris les autorités judiciaires, les procureurs, les services répressifs, les autorités locales et régionales, ainsi que les organisations non gouvernementales et les autres organisations ou entités pertinentes pour la protection et le soutien des victimes et des témoins de toutes les formes de violence couvertes par le champ d’application de la présente Convention, y compris en se référant aux services de soutien généraux et spécialisés visés aux articles 20 et 22 de la présente Convention.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention that culture, custom, religion, tradition or so-called \"honour\" cannot justify violence, but they do not establish or require engagement/collaboration with religious or traditional/cultural organisations or leaders in VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text requires inclusion of teaching material on gender equality and gender-based violence in formal curricula, but it does not establish or require cooperation/collaboration with education institutions (e.g., schools/universities) as partners or actors; it is framed as a state obligation about curricula rather than engagement with institutions.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provisions address international cooperation between Parties (states) and reporting to GREVIO, and providing information to a group of experts, but they do not explicitly establish collaboration with international organisations as partners for VAW prevention/response (and ratification/participation in a convention is not, by itself, counted as such collaboration under the coding rules).",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "1The Parties shall encourage the private sector, the information and communication technology sector and the media, with due respect for freedom of expression and their 14 independence, to participate in the elaboration and implementation of policies and to set guidelines and self-regulatory standards to prevent violence against women and to enhance respect for their dignity.",
+      "rationale": "An operative provision explicitly encourages the media to participate in elaboration/implementation of policies and to set guidelines/self-regulatory standards to prevent violence against women, which constitutes substantive media engagement for VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties encouragent le secteur privé, le secteur des technologies de l’information et de la communication et les médias, dans le respect de la liberté d’expression et de leur 14 indépendance, à participer à l’élaboration et à la mise en œuvre des politiques, ainsi qu’à mettre en place des lignes directrices et des normes d’autorégulation pour prévenir la violence à l’égard des femmes et renforcer le respect de leur dignité.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "4The Parties shall take the necessary measures to encourage all members of society, especially men and boys, to contribute actively to preventing all forms of violence covered by the scope of this Convention.",
+      "rationale": "The text explicitly requires measures to encourage all members of society to contribute actively to preventing violence covered by the Convention, which constitutes an operative provision establishing public/community engagement in VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "4Les Parties prennent les mesures nécessaires afin d’encourager tous les membres de la société, en particulier les hommes et les garçons, à contribuer activement à la prévention de toutes les formes de violence couvertes par le champ d’application de la présente Convention.",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "1The Parties shall encourage the private sector, the information and communication technology sector and the media, with due respect for freedom of expression and their 14 independence, to participate in the elaboration and implementation of policies and to set guidelines and self-regulatory standards to prevent violence against women and to enhance respect for their dignity.",
+      "rationale": "An operative provision explicitly encourages the private sector (including ICT sector) to participate in policy elaboration/implementation and to set guidelines/self-regulatory standards to prevent violence against women, meeting the substantive private-sector engagement criterion.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1Les Parties encouragent le secteur privé, le secteur des technologies de l’information et de la communication et les médias, dans le respect de la liberté d’expression et de leur 14 indépendance, à participer à l’élaboration et à la mise en œuvre des politiques, ainsi qu’à mettre en place des lignes directrices et des normes d’autorégulation pour prévenir la violence à l’égard des femmes et renforcer le respect de leur dignité.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss allocating financial and human resources generally and involving local/regional authorities in implementation, but they do not identify local government budgets as a funding/budget source.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text requires Parties to allocate financial and human resources and mentions state compensation/state-funded services, but it does not explicitly specify the national government budget as the funding/budget source for VAW measures.",
+      "coverage": null,
+      "confidence": 0.68,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.68
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "4The Parties shall endeavour to integrate, where appropriate, the prevention of and the fight against violence against women and domestic violence into development assistance programmes conducted for the benefit of third States, including by entering into bilateral and multilateral agreements with third States with a view to facilitating the protection of victims, in accordance with Article 18, paragraph 5.",
+      "rationale": "The policy explicitly references integrating prevention and the fight against violence against women and domestic violence into development assistance programmes and entering bilateral/multilateral agreements with third States, which constitutes explicit international assistance/support related to VAW measures.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "4Les Parties s’efforcent d’intégrer, le cas échéant, la prévention et la lutte contre la violence à l’égard des femmes et la violence domestique dans les programmes d’assistance au développement conduits au profit d’États tiers, y compris la conclusion d’accords bilatéraux et multilatéraux avec des États tiers dans le but de faciliter la protection des victimes, conformément à l’article 18, paragraphe 5.",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "2Adequate state compensation should be awarded to those who have sustained serious bodily injury or impairment of health, to the extent that the damage is not covered by other sources, in particular by the perpetrator of the offence, by insurance or by state-funded health and social services.",
+      "rationale": "The policy identifies non-government/non-budget sources that can cover costs (e.g., perpetrator, insurance) in the context of compensation, which constitutes funding/financial sources other than government budgets.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "2Une indemnisation adéquate par État devrait être octroyée à ceux qui ont subi des atteintes graves à l’intégrité corporelle ou à la santé, dans la mesure où le préjudice n’est pas couvert par d’autres sources, notamment par l’auteur de l’infraction, par les assurances ou par les services sociaux et médicaux financés par l’État.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions national, regional, and local authorities and general allocation of resources, it does not specify provincial government budgets as a funding/budget source.",
+      "coverage": null,
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 32,
+    "resolved": 32,
+    "rate": 1.0
+  }
+}

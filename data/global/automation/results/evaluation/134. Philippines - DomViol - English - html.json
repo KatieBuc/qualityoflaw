@@ -1,0 +1,969 @@
+{
+  "policy_file": "134. Philippines - DomViol - English - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:30:44.309487+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(a) \"Violence against women and their children\" refers to any act or a series of acts committed by any person against a woman who is his wife, former wife, or against a woman with whom the person has or had a sexual or dating relationship, or with whom he has a common child, or against her child whether legitimate or illegitimate, within or without the family abode, which result in or is likely to result in physical, sexual, psychological harm or suffering, or economic abuse including threats of such acts, battery, assault, coercion, harassment or arbitrary deprivation of liberty.\n- The crime of violence against women and their children is committed through any of the following acts:",
+      "rationale": "The Act defines violence against women and their children in the context of spouses/former spouses and dating/sexual relationships, covering violence occurring within or without the family abode, and establishes the crime of violence against women and their children through specified acts. This constitutes operative, legally consequential coverage of domestic/intimate-partner violence (an equivalent framing to domestic violence) rather than a mere preambular mention.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) “Violence against women and their children” refers to any act or a series of acts committed by any person against a woman who is his wife, former wife, or against a woman with whom the person has or had a sexual or dating relationship, or with whom he has a common child, or against her child whether legitimate or illegitimate, within or without the family abode, which result in or is likely to result in physical, sexual, psychological harm or suffering, or economic abuse including threats of such acts, battery, assault, coercion, harassment or arbitrary deprivation of liberty.\n\n- The crime of violence against women and their children is committed through any of the following acts:",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "B. \"Sexual violence\" refers to an act which is sexual in nature, committed against a woman or her child.\na) rape, sexual harassment, acts of lasciviousness, treating a woman or her child as a sex object, making demeaning and sexually suggestive remarks, physically attacking the sexual parts of the victim's body, forcing her/him to watch obscene publications and indecent shows or forcing the woman or her child to do indecent acts and/or make films thereof, forcing the wife and mistress/lover to live in the conjugal home or sleep together in the same room with the abuser;",
+      "rationale": "The framework includes an operative definition of “Sexual violence” and enumerates covered acts including rape and sexual harassment, indicating sexual violence is a covered category within the Act’s legal scope.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "B. “Sexual violence” refers to an act which is sexual in nature, committed against a woman or her child.\n\na) rape, sexual harassment, acts of lasciviousness, treating a woman or her child as a sex object, making demeaning and sexually suggestive remarks, physically attacking the sexual parts of the victim’s body, forcing her/him to watch obscene publications and indecent shows or forcing the woman or her child to do indecent acts and/or make films thereof, forcing the wife and mistress/lover to live in the conjugal home or sleep together in the same room with the abuser;",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "A. \"Physical Violence\" refers to acts that include bodily or physical harm;\n(a) Causing physical harm to the woman or her child;",
+      "rationale": "The Act provides an operative definition of “Physical Violence” and criminalizes acts such as causing physical harm to the woman or her child as part of the crime of violence against women and their children.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "A. “Physical Violence” refers to acts that include bodily or physical harm;\n\n(a) Causing physical harm to the woman or her child;",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "C. \"Psychological violence\" refers to acts or omissions causing or likely to cause mental or emotional suffering of the victim such as but not limited to intimidation, harassment, stalking, damage to property, public ridicule or humiliation, repeated verbal abuse and marital infidelity.\n(h) Engaging in purposeful, knowing, or reckless conduct, personally or through another, that alarms or causes substantial emotional or psychological distress to the woman or her child.",
+      "rationale": "The framework defines “Psychological violence” in operative terms and includes conduct causing substantial emotional or psychological distress among the criminalized acts of violence against women and their children.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "C. “Psychological violence” refers to acts or omissions causing or likely to cause mental or emotional suffering of the victim such as but not limited to intimidation, harassment, stalking, damage to property, public ridicule or humiliation, repeated verbal abuse and marital infidelity.\n\n(h) Engaging in purposeful, knowing, or reckless conduct, personally or through another, that alarms or causes substantial emotional or psychological distress to the woman or her child.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "D. \"Economic abuse\" refers to acts that make or attempt to make a woman financially dependent which includes, but is not limited to the following:\n(2) Depriving or threatening to deprive the woman or her children of financial support legally due her or her family, or deliberately providing the woman's children insufficient financial support;",
+      "rationale": "The Act defines “Economic abuse” (including withdrawal of support, deprivation of resources, and controlling money/property) and includes deprivation/threatened deprivation of financial support among the criminalized acts, establishing economic abuse as a form of violence with legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "D. “Economic abuse” refers to acts that make or attempt to make a woman financially dependent which includes, but is not limited to the following:\n\n(2) Depriving or threatening to deprive the woman or her children of financial support legally due her or her family, or deliberately providing the woman’s children insufficient financial support;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they establish minimum-age or specific protective rules targeting such practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide or gender-motivated killing of women, nor do they create femicide-specific offenses, aggravating factors, or monitoring/prevention mechanisms specific to lethal violence against women.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention trafficking in persons/human trafficking or trafficking victims. References to “prostituting the woman or child” appear within the definition of sexual violence but are not framed as trafficking or trafficking-related exploitation in these excerpts.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "c) Prostituting the woman or child.",
+      "rationale": "The operative definition of sexual violence explicitly includes “Prostituting the woman or child,” which constitutes a specific sexual-exploitation nexus (use of a person for sexual purposes), bringing sexual exploitation within the Act’s covered forms of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "c) Prostituting the woman or child.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences reference cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation, digital abuse) or otherwise recognize technology-facilitated violence as a form of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "- The crime of violence against women and their children, under Section 5 hereof shall be punished according to the following rules:\nIf these acts resulted in mutilation, it shall be punishable in accordance with the Revised Penal Code; those constituting serious physical injuries shall have the penalty of prison mayor; those constituting less serious physical injuries shall be punished by prision correccional; and those constituting slight physical injuries shall be punished by arresto mayor.\n(a) pay a fine in the amount of not less than One hundred thousand pesos (P100,000.00) but not more than three hundred thousand pesos (300,000.00);",
+      "rationale": "The text explicitly defines violence against women and their children as a crime and sets out specific criminal sanctions, including imprisonment terms (e.g., prision mayor/correccional, arresto mayor) and a specified fine range, satisfying the requirement for criminal penalties attached to VAW offences.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "- The crime of violence against women and their children, under Section 5 hereof shall be punished according to the following rules:\n\nIf these acts resulted in mutilation, it shall be punishable in accordance with the Revised Penal Code; those constituting serious physical injuries shall have the penalty of prison mayor; those constituting less serious physical injuries shall be punished by prision correccional; and those constituting slight physical injuries shall be punished by arresto mayor.\n\n(a) pay a fine in the amount of not less than One hundred thousand pesos (P100,000.00) but not more than three hundred thousand pesos (300,000.00);",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "– A petition for protection order may be filed by any of the following:\n– Temporary Protection Orders (TPOs) refers to the protection order issued by the court on the date of filing of the application after ex parte determination that such order should be issued.\nA court may grant in a TPO any, some or all of the reliefs mentioned in this Act and shall be effective for thirty (30) days.\n– All TPOs and PPOs issued under this Act shall be enforceable anywhere in the Philippines and a violation thereof shall be punishable with a fine ranging from Five Thousand Pesos (P5,000.00) to Fifty Thousand Pesos (P50,000.00) and/or imprisonment of six (6) months.",
+      "rationale": "The framework provides a protection order mechanism with who may apply (including the offended party and others), identifies the issuing authority (court for TPOs), specifies duration (TPO effective for 30 days), and provides consequences for violation (fine and/or imprisonment).",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "– A petition for protection order may be filed by any of the following:\n\n– Temporary Protection Orders (TPOs) refers to the protection order issued by the court on the date of filing of the application after ex parte determination that such order should be issued.\n\nA court may grant in a TPO any, some or all of the reliefs mentioned in this Act and shall be effective for thirty (30) days.\n\n– All TPOs and PPOs issued under this Act shall be enforceable anywhere in the Philippines and a violation thereof shall be punishable with a fine ranging from Five Thousand Pesos (P5,000.00) to Fifty Thousand Pesos (P50,000.00) and/or imprisonment of six (6) months.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention police training and refer to police officers (preferably those in charge of women and children's desks) as possible applicants for protection orders, but they do not establish or mandate a specific specialised unit/desk/division within police services with a defined mandate to handle VAW cases.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "- The Regional Trial Court designated as a Family Court shall have original and exclusive jurisdiction over cases of violence against women and their children under this law.",
+      "rationale": "The text designates a specific court type (Regional Trial Court designated as a Family Court) with original and exclusive jurisdiction over VAWC cases, which constitutes a specialised judicial mechanism for these cases.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "- The Regional Trial Court designated as a Family Court shall have original and exclusive jurisdiction over cases of violence against women and their children under this law.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines sexual violence and includes rape among examples, it does not contain an operative provision expressly criminalising rape within marriage, stating that spousal status is not a defence, or otherwise removing a marital/spousal exemption for rape/sexual offences. Under the coding rules, general references to rape/sexual violence are insufficient without explicit applicability to spouses/intimate partners.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "In pursuance of the abovementioned policy, there is hereby established an Inter-Agency Council on Violence Against Women and their children, hereinafter known as the Council, which shall be composed of the following agencies:",
+      "rationale": "The text establishes a formal inter-agency council composed of multiple government agencies to address violence against women and their children, which constitutes an institutional coordination mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "In pursuance of the abovementioned policy, there is hereby established an Inter-Agency Council on Violence Against Women and their children, hereinafter known as the Council, which shall be composed of the following agencies:",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address confidentiality of records and documentation/record-keeping by healthcare providers, but they do not establish or mandate a system/entity for collecting, managing, monitoring, reporting, or exchanging VAW case data, nor assign responsibility for such a data function.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The sentences reference use of the Gender and Development (GAD) budget and establish an inter-agency council, but they do not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming requirement, focal point, or mainstreaming working group).",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "– All agencies involved in responding to violence against women and their children cases shall be required to undergo education and training to acquaint them with:\nThe PNP, in coordination with LGU's shall establish an education and training program for police officers and barangay officials to enable them to properly handle cases of violence against women and their children.",
+      "rationale": "The framework explicitly requires agencies responding to VAWC cases to undergo education and training and directs the PNP (in coordination with LGUs) to establish an education and training program for police officers and barangay officials.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "– All agencies involved in responding to violence against women and their children cases shall be required to undergo education and training to acquaint them with:\n\nThe PNP, in coordination with LGU’s shall establish an education and training program for police officers and barangay officials to enable them to properly handle cases of violence against women and their children.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Council will also serve as the monitoring body as regards to VAW initiatives.",
+      "rationale": "The text designates the Inter-Agency Council as a monitoring body for VAW initiatives, which constitutes an explicit monitoring mechanism/responsible body for assessing implementation/initiatives.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Council will also serve as the monitoring body as regards to VAW initiatives.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "Funding – The amount necessary to implement the provisions of this Act shall be included in the annual General Appropriations Act (GAA).\nThe Gender and Development (GAD) Budget of the mandated agencies and LGU's shall be used to implement services for victim of violence against women and their children.",
+      "rationale": "The framework requires that the amount necessary to implement the Act be included in the annual General Appropriations Act and specifies use of the GAD budget of mandated agencies and LGUs to implement services for victims, creating a binding funding requirement with identified sources.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Funding – The amount necessary to implement the provisions of this Act shall be included in the annual General Appropriations Act (GAA).\n\nThe Gender and Development (GAD) Budget of the mandated agencies and LGU’s shall be used to implement services for victim of violence against women and their children.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions list victims’ rights to individual services (legal assistance; support services) and establish an inter-agency council to formulate/monitor VAW initiatives, but they do not explicitly establish or recognize an integrated/one-stop/multidisciplinary victim service mechanism responsible for coordinating multiple services for women victims/survivors.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "– Violence against women and their children shall be considered a public offense which may be prosecuted upon the filing of a complaint by any citizen having personal knowledge of the circumstances involving the commission of the crime.\nBarangay officials and court personnel shall assist applicants in the preparation of the application.",
+      "rationale": "The framework provides an operative mechanism for initiating legal action through filing a complaint (public offense prosecutable upon filing of a complaint) and requires barangay officials/court personnel to assist applicants in preparing protection order applications, which functions as a concrete help-seeking/reporting channel for victims to seek protection.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "– Violence against women and their children shall be considered a public offense which may be prosecuted upon the filing of a complaint by any citizen having personal knowledge of the circumstances involving the commission of the crime.\n\nBarangay officials and court personnel shall assist applicants in the preparation of the application.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "– The DSWD, and LGU's shall provide the victims temporary shelters, provide counseling, psycho-social services and /or, recovery, rehabilitation programs and livelihood assistance.\n(g) \"Safe place or shelter\" refers to any home or institution maintained or managed by the Department of Social Welfare and Development (DSWD) or by any other agency or voluntary organization accredited by the DSWD for the purposes of this Act or any other suitable place the resident of which is willing temporarily to receive the victim.",
+      "rationale": "The framework requires DSWD and LGUs to provide victims temporary shelters, and it defines “safe place or shelter” for purposes of the Act, together establishing accommodation-based protection for victims of VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "– The DSWD, and LGU’s shall provide the victims temporary shelters, provide counseling, psycho-social services and /or, recovery, rehabilitation programs and livelihood assistance.\n\n(g) “Safe place or shelter” refers to any home or institution maintained or managed by the Department of Social Welfare and Development (DSWD) or by any other agency or voluntary organization accredited by the DSWD for the purposes of this Act or any other suitable place the resident of which is willing temporarily to receive the victim.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "(b) to avail of legal assistance form the PAO of the Department of Justice (DOJ) or any public legal assistance office;\n– If the woman or her child requests in the applications for a protection order for the appointment of counsel because of lack of economic means to hire a counsel de parte, the court shall immediately direct the Public Attorney's Office (PAO) to represent the petitioner in the hearing on the application.",
+      "rationale": "Victims are expressly entitled to legal assistance from the Public Attorney’s Office (or other public legal assistance office), and courts must direct PAO to represent petitioners for protection orders when requested due to lack of means—an operative legal aid/representation mechanism for VAW victims.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "(b) to avail of legal assistance form the PAO of the Department of Justice (DOJ) or any public legal assistance office;\n\n– If the woman or her child requests in the applications for a protection order for the appointment of counsel because of lack of economic means to hire a counsel de parte, the court shall immediately direct the Public Attorney’s Office (PAO) to represent the petitioner in the hearing on the application.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "The DOH shall provide medical assistance to victims.\nHealthcare Provider Response to Abuse – Any healthcare provider, including, but not limited to, an attending physician, nurse, clinician, barangay health worker, therapist or counselor who suspects abuse or has been informed by the victim of violence shall:",
+      "rationale": "The framework assigns the Department of Health responsibility to provide medical assistance to victims and sets out required healthcare-provider responses when abuse is suspected or disclosed, establishing a violence-linked medical response.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "The DOH shall provide medical assistance to victims.\n\nHealthcare Provider Response to Abuse – Any healthcare provider, including, but not limited to, an attending physician, nurse, clinician, barangay health worker, therapist or counselor who suspects abuse or has been informed by the victim of violence shall:",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "– The DSWD, and LGU's shall provide the victims temporary shelters, provide counseling, psycho-social services and /or, recovery, rehabilitation programs and livelihood assistance.",
+      "rationale": "The framework mandates that DSWD and LGUs provide counseling and psycho-social services (along with related recovery/rehabilitation programs) to victims, which directly covers psychosocial/trauma-support services for VAW victims.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "– The DSWD, and LGU’s shall provide the victims temporary shelters, provide counseling, psycho-social services and /or, recovery, rehabilitation programs and livelihood assistance.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited provisions mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in providing victim support services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "– The DSWD, and LGU's shall provide the victims temporary shelters, provide counseling, psycho-social services and /or, recovery, rehabilitation programs and livelihood assistance.",
+      "rationale": "The framework mandates recovery and rehabilitation programs and livelihood assistance for victims (in addition to shelters and counselling/psycho-social services), which are longer-term support measures aimed at recovery and reintegration.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "– The DSWD, and LGU’s shall provide the victims temporary shelters, provide counseling, psycho-social services and /or, recovery, rehabilitation programs and livelihood assistance.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "– The DSWD shall provide rehabilitative counseling and treatment to perpetrators towards learning constructive ways of coping with anger and emotional outbursts and reforming their ways.\nWhen necessary, the offender shall be ordered by the Court to submit to psychiatric treatment or confinement.",
+      "rationale": "The framework provides perpetrator-focused rehabilitative counseling and treatment through DSWD and allows courts to order psychiatric treatment or confinement when necessary, establishing intervention/treatment programming for offenders.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "– The DSWD shall provide rehabilitative counseling and treatment to perpetrators towards learning constructive ways of coping with anger and emotional outbursts and reforming their ways.\n\nWhen necessary, the offender shall be ordered by the Court to submit to psychiatric treatment or confinement.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Duties of Other Government Agencies and LGUs – Other government agencies and LGUs shall establish programs such as, but not limited to, education and information campaign and seminars or symposia on the nature, causes, incidence and consequences of such violence particularly towards educating the public on its social impacts.\nIt shall be the duty of the concerned government agencies and LGU's to ensure the sustained education and training of their officers and personnel on the prevention of violence against women and their children under the Act.",
+      "rationale": "The policy includes operative provisions requiring government agencies/LGUs to establish education and information campaigns and to ensure sustained education/training specifically on the prevention of violence against women and their children, which constitutes primary prevention information/education activities about VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Duties of Other Government Agencies and LGUs – Other government agencies and LGUs shall establish programs such as, but not limited to, education and information campaign and seminars or symposia on the nature, causes, incidence and consequences of such violence particularly towards educating the public on its social impacts.\n\nIt shall be the duty of the concerned government agencies and LGU’s to ensure the sustained education and training of their officers and personnel on the prevention of violence against women and their children under the Act.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss education and training about violence against women and their children and cite human rights instruments, but they do not require or provide education/awareness activities specifically about gender equality or women's rights as a prevention strategy for VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "the legal rights of, and remedies available to, victims of violence against women and their children;",
+      "rationale": "The policy requires education and training for agencies responding to VAWC cases that includes acquainting them with the legal rights of, and remedies available to, victims—an explicit legal-awareness component related to VAW protections.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "the legal rights of, and remedies available to, victims of violence against women and their children;",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes education campaigns and training on VAW prevention, it does not explicitly identify formal education systems (schools, curricula, educational institutions, or education-quality improvements) as a prevention measure for violence against women.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide general public education campaigns and training for officials/responders, but do not specify prevention activities that target or engage men and boys (e.g., masculinity/gender-norm change programmes) to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(h) immediately report the call for assessment or assistance of the DSWD, social Welfare Department of LGUs or accredited non-government organizations (NGOs).\n– Within six (6) months from the approval of this Act, the DOJ, the NCRFW, the DSWD, the DILG, the DOH, and the PNP, and three (3) representatives from NGOs to be identified by the NCRFW, shall promulgate the Implementing Rules and Regulations (IRR) of this Act.",
+      "rationale": "The text includes operative provisions that explicitly involve NGOs in the response/implementation framework: barangay officials/law enforcers must report for assistance to accredited NGOs, and NGO representatives are included in the promulgation of the Act’s implementing rules and regulations. These constitute formal engagement mechanisms with NGOs linked to VAW response and implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(h) immediately report the call for assessment or assistance of the DSWD, social Welfare Department of LGUs or accredited non-government organizations (NGOs).\n\n– Within six (6) months from the approval of this Act, the DOJ, the NCRFW, the DSWD, the DILG, the DOH, and the PNP, and three (3) representatives from NGOs to be identified by the NCRFW, shall promulgate the Implementing Rules and Regulations (IRR) of this Act.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text refers to education and information campaigns and includes the Department of Education in an inter-agency council, it does not identify schools, universities, or other education institutions as partners/participants, nor does it establish a coordination mechanism with education institutions for VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international references are to international human rights instruments (e.g., UDHR, CEDAW, CRC) as part of the policy basis. The candidate sentences do not establish any operative cooperation mechanism with international organisations on VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention education/information campaigns generally, but do not identify media organisations/actors (journalists, broadcasters, publishers, etc.) as partners or establish any media-specific engagement mechanism related to VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text includes public education campaigns and allows prosecution upon complaint by any citizen, the coding rules require an active community engagement/participation mechanism. The provided sentences do not establish community organisations or the public as partners in prevention/response, nor do they create a community mobilisation or participation mechanism beyond general awareness and complaint-filing.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish collaboration with businesses or private-sector actors for VAW prevention/response. References to an employer withholding income for support relate to enforcement of support obligations, not private-sector partnership or participation mechanisms addressing VAW.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "The Gender and Development (GAD) Budget of the mandated agencies and LGU's shall be used to implement services for victim of violence against women and their children.",
+      "rationale": "The policy explicitly states that the Gender and Development (GAD) Budget of LGUs shall be used to implement services for victims, which constitutes a local government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Gender and Development (GAD) Budget of the mandated agencies and LGU’s shall be used to implement services for victim of violence against women and their children.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "Funding – The amount necessary to implement the provisions of this Act shall be included in the annual General Appropriations Act (GAA).",
+      "rationale": "The policy specifies that the amount necessary to implement the Act shall be included in the annual General Appropriations Act (GAA), which is a national government budget mechanism.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Funding – The amount necessary to implement the provisions of this Act shall be included in the annual General Appropriations Act (GAA).",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only international references are to human rights instruments (e.g., Universal Declaration of Human Rights, CEDAW, CRC), which are cited as part of the policy context but do not indicate any international funding, donor support, assistance, partnership, or involvement in implementation.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences identify funding through the GAA and GAD budgets of agencies/LGUs, but do not mention any other distinct legal funding sources (e.g., special funds, trust funds, earmarked fees, private sector levies, or other non-GAA/non-LGU budgetary legal mechanisms).",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions LGU budgets generally, it does not explicitly identify a provincial government budget (e.g., province-level appropriations) as a funding source in the provided sentences.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 25,
+    "resolved": 25,
+    "rate": 1.0
+  }
+}

@@ -1,0 +1,977 @@
+{
+  "policy_file": "137. Puerto Rico - DomViol - Spanish.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:55:07.633473+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "(r) Domestic violence.\nAny person who employs physical force or psychological or economic violence, intimidation or persecution against the person of his spouse, ex-spouse, or the person with whom he cohabits or has cohabited, or the person with whom he maintains or has maintained a consensual relationship, or the person with whom he has procreated a son or daughter, regardless of sex, marital status, involved in the relationship, to cause physical harm to his person, to the companion animal or pet of the victim, of the children or of the victimizer, to the property valued by the victim, except those that belong privately to the offender, or to the person of another or to cause serious emotional harm, shall incur a fourth-degree felony in its upper half.",
+      "rationale": "The candidate sentences include an operative definition of “Domestic violence” and criminalize abuse within intimate/partner relationships, establishing penalties and related legal consequences, which meets the substantive coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(r) Violencia doméstica.\n\nToda persona que empleare fuerza física o violencia psicológica o económica, intimidación o persecución en la persona de su cónyuge, ex cónyuge, o la persona con quien cohabita o haya cohabitado, o la persona con quien sostuviere o haya sostenido una relación consensual, o la persona con quien haya procreado un hijo o hija, independientemente del sexo, estado civil, involucradas en la relación, para causarle daño físico a su persona, al animal de compañía o mascota de la víctima, de los hijos o del victimario, a los bienes apreciados por esta, excepto aquellos que pertenecen privativamente al ofensor, o a la persona de otro o para causarle grave daño emocional, incurrirá en delito grave de cuarto grado en su mitad superior.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "A penalty of imprisonment shall be imposed, as provided below, on any person who engages in non-consensual sexual relations with their spouse or ex-spouse, or with the person with whom they cohabit or have cohabited, or with whom they maintain or have maintained a consensual relationship, or the person with whom they have procreated a son or daughter, regardless of sex, marital status, of the persons involved in the relationship, in any of the following circumstances:",
+      "rationale": "The framework includes an operative criminal provision on non-consensual sexual relations in an intimate/partner relationship (“Spousal Sexual Assault”) with specified penalties, which substantively addresses sexual violence under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "Se impondrá pena de reclusión, según se dispone más adelante, a toda persona que incurra en una relación sexual no consentida con su cónyuge o ex cónyuge, o con la persona con quien cohabite o haya cohabitado, o con quien sostuviere o haya sostenido una relación consensual, o la persona con quien haya procreado un hijo o hija, independientemente del sexo, estado civil, involucradas en la relación, en cualesquiera de las circunstancias siguientes:",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Any person who employs physical force or psychological or economic violence, intimidation or persecution against the person of his spouse, ex-spouse, or the person with whom he cohabits or has cohabited, or the person with whom he maintains or has maintained a consensual relationship, or the person with whom he has procreated a son or daughter, regardless of sex, marital status, involved in the relationship, to cause physical harm to his person, to the companion animal or pet of the victim, of the children or of the victimizer, to the property valued by the victim, except those that belong privately to the offender, or to the person of another or to cause serious emotional harm, shall incur a fourth-degree felony in its upper half.",
+      "rationale": "The candidate sentences include an operative criminal offense covering the use of physical force to cause physical harm in the covered relationship context, satisfying the requirement that physical violence/assault be prohibited or criminalised.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Toda persona que empleare fuerza física o violencia psicológica o económica, intimidación o persecución en la persona de su cónyuge, ex cónyuge, o la persona con quien cohabita o haya cohabitado, o la persona con quien sostuviere o haya sostenido una relación consensual, o la persona con quien haya procreado un hijo o hija, independientemente del sexo, estado civil, involucradas en la relación, para causarle daño físico a su persona, al animal de compañía o mascota de la víctima, de los hijos o del victimario, a los bienes apreciados por esta, excepto aquellos que pertenecen privativamente al ofensor, o a la persona de otro o para causarle grave daño emocional, incurrirá en delito grave de cuarto grado en su mitad superior.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Any person who employs physical force or psychological or economic violence, intimidation or persecution against the person of his spouse, ex-spouse, or the person with whom he cohabits or has cohabited, or the person with whom he maintains or has maintained a consensual relationship, or the person with whom he has procreated a son or daughter, regardless of sex, marital status, involved in the relationship, to cause physical harm to his person, to the companion animal or pet of the victim, of the children or of the victimizer, to the property valued by the victim, except those that belong privately to the offender, or to the person of another or to cause serious emotional harm, shall incur a fourth-degree felony in its upper half.\nPsychological violence shall also occur when any type of electronic or digital communication is used, through text messages, voice mail, electronic mail, or social networks, or any other digital means, including satellite tracking systems, that has the effect of harassing, stalking, intimidating, or afflicting a person with whom a relationship is or has been maintained, or the person with whom he cohabits or has cohabited.",
+      "rationale": "The framework criminalizes abuse that includes “psychological … violence” and further specifies how psychological violence can occur (including via digital communications), which is substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "Toda persona que empleare fuerza física o violencia psicológica o económica, intimidación o persecución en la persona de su cónyuge, ex cónyuge, o la persona con quien cohabita o haya cohabitado, o la persona con quien sostuviere o haya sostenido una relación consensual, o la persona con quien haya procreado un hijo o hija, independientemente del sexo, estado civil, involucradas en la relación, para causarle daño físico a su persona, al animal de compañía o mascota de la víctima, de los hijos o del victimario, a los bienes apreciados por esta, excepto aquellos que pertenecen privativamente al ofensor, o a la persona de otro o para causarle grave daño emocional, incurrirá en delito grave de cuarto grado en su mitad superior.\n\nLa violencia psicológica también ocurrirá cuando se utilice cualquier tipo de comunicación electrónica o digital, mediante mensajes de texto, correo de voz, correos electrónicos, o redes sociales, o cualquier otro medio digital, incluyendo sistemas de rastreo satelital, que tenga el efecto de acosar, perseguir, intimidar, o afligir a una persona con quien se sostiene o se haya sostenido una relación de pareja, o la persona con quien cohabita o haya cohabitado.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(s) Economic violence.\n— Means that conduct exercised with the purpose of undermining the present or future financial capacity, economic stability or housing and shelter security through threats, coercion, fraud with restriction or deprivation of access to or use of accounts, assets, financial information, identification or credit cards, money or government assistance, concealment of information related to payment of rent or mortgages, or forced evictions; exercise of undue influence on the decisions or behavior or the financial and economic decisions of a person, or interference in the work relationship or performance of a person or in their own business.",
+      "rationale": "The candidate sentences provide an operative definition of “Economic violence” describing deprivation/restriction of access to economic resources and related coercive conduct, which constitutes substantive legal recognition of economic violence under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "(s) Violencia económica.\n\n— Significa aquella conducta ejercida con el fin de menoscabar la capacidad financiera presente o futura, la estabilidad económica o la seguridad habitacional y de vivienda a través de amenazas, coerción, fraude con restricción o privación de acceso o uso de cuentas, activos, información financiera, tarjetas de identificación o crédito, dinero o asistencias gubernamentales, ocultación de información relacionada al pago de renta o hipotecas, o de desalojos forzosos; ejercicio de influencia indebida en las decisiones o comportamiento o las decisiones financieras y económicas de una persona, o interferencia en la relación o desempeño laboral de una persona o en su negocio propio.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention or regulate early/child marriage, FGM/C, honour crimes, female infanticide, or similar harmful practices. The excerpts focus on domestic violence offenses, protection orders, and related procedures, which do not meet the criterion’s requirement of mentioning a recognized harmful practice.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain the terms femicide/feminicide (or an equivalent concept such as gender-motivated killing of women) and do not establish any femicide-specific offense, aggravating factor, definition, or prevention/monitoring mechanism. References to murders/homicides in the statement of motives are not framed as femicide/feminicide.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, there is no mention of human trafficking/trafficking in persons or trafficking-related exploitation, nor any trafficking-victim protections or institutional duties tied to trafficking. The text addresses domestic violence crimes and protective measures only.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts address spousal sexual assault and being compelled into unwanted sexual relationships with third parties, but they do not establish a sexual exploitation/sexual slavery concept (e.g., commercial/benefit-based sexual exploitation, forced prostitution, sexual slavery) or related victim-support/institutional measures with a sexual-exploitation nexus as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "Psychological violence shall also occur when any type of electronic or digital communication is used, through text messages, voice mail, electronic mail, or social networks, or any other digital means, including satellite tracking systems, that has the effect of harassing, stalking, intimidating, or afflicting a person with whom a relationship is or has been maintained, or the person with whom he cohabits or has cohabited.\nFor psychological violence through digital or cyber violence to be constituted, proof of a pattern of conduct shall not be necessary.\n(q) Cyber or digital violence.",
+      "rationale": "The policy explicitly recognizes digital/cyber violence as a form of psychological violence committed via electronic/digital communications (including social networks and satellite tracking) and treats it as part of the operative definition of violence under the law, with legal consequences under the domestic violence offense framework.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "La violencia psicológica también ocurrirá cuando se utilice cualquier tipo de comunicación electrónica o digital, mediante mensajes de texto, correo de voz, correos electrónicos, o redes sociales, o cualquier otro medio digital, incluyendo sistemas de rastreo satelital, que tenga el efecto de acosar, perseguir, intimidar, o afligir a una persona con quien se sostiene o se haya sostenido una relación de pareja, o la persona con quien cohabita o haya cohabitado.\n\nPara que se constituya la violencia psicológica mediante violencia digital o cibernética, no será necesario la prueba de un patrón de conducta.\n\n(q) Violencia cibernética o digital.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Any person who employs physical force or psychological or economic violence, intimidation or persecution against the person of his spouse, ex-spouse, or the person with whom he cohabits or has cohabited, or the person with whom he maintains or has maintained a consensual relationship, or the person with whom he has procreated a son or daughter, regardless of sex, marital status, involved in the relationship, to cause physical harm to his person, to the companion animal or pet of the victim, of the children or of the victimizer, to the property valued by the victim, except those that belong privately to the offender, or to the person of another or to cause serious emotional harm, shall incur a fourth-degree felony in its upper half.",
+      "rationale": "The text defines abuse involving physical force or psychological/economic violence in an intimate/partner relationship as a felony, thereby establishing criminal penalties for a form of violence against women (domestic violence) with an attached criminal sanction.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Toda persona que empleare fuerza física o violencia psicológica o económica, intimidación o persecución en la persona de su cónyuge, ex cónyuge, o la persona con quien cohabita o haya cohabitado, o la persona con quien sostuviere o haya sostenido una relación consensual, o la persona con quien haya procreado un hijo o hija, independientemente del sexo, estado civil, involucradas en la relación, para causarle daño físico a su persona, al animal de compañía o mascota de la víctima, de los hijos o del victimario, a los bienes apreciados por esta, excepto aquellos que pertenecen privativamente al ofensor, o a la persona de otro o para causarle grave daño emocional, incurrirá en delito grave de cuarto grado en su mitad superior.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "Any person, eighteen (18) years of age or older, who has been a victim of domestic violence or conduct constituting a crime, as defined in this Law or in the Penal Code of the Commonwealth of Puerto Rico [sic] or in any other special law, in the context of a partner relationship, as defined by subsection (m) of Article 1.3 of this Law, may file on their own behalf, through their legal representative or through a law enforcement officer, a petition with the Court and request a protection order, without the prior filing of a complaint or accusation being necessary.\nWhen a court determines that there is cause for arrest based on a complaint in a criminal proceeding under Rule 6 of the Rules of Criminal Procedure, as amended, for any offense typified within this Law, and the accused is a repeat offender for violations of any of the offenses typified in this Law, it shall, without any additional proceeding, issue a protection order in favor of the victim for a period of validity that shall not be less than one (1) year and that may be extended at the discretion of a court and with the consent of the victim.\n(a) Every protection order must specifically establish the court's determinations, the remedies ordered, and the period of validity.\n(b) Every protection order must establish the date and time it was issued and expressly notify the parties that any violation thereof shall constitute contempt of court, which could result in a penalty of imprisonment, fine, or both.",
+      "rationale": "The framework specifies who may apply for a protection order (victim, legal representative, or law enforcement officer), identifies the issuing authority (court), provides for duration/validity (including minimum periods in automatic issuance provisions), and states consequences for breach (contempt of court with possible imprisonment/fine).",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Cualquier persona, de dieciocho (18) años o más de edad, que haya sido víctima de violencia doméstica o de conducta constitutiva de delito, según tipificado en esta Ley o en el Código Penal del Estado Libre Asociado de Puerto Rico [sic] o en cualquier otra ley especial, en el contexto de una relación de pareja, según definida por el inciso (m) del Artículo 1.3 de esta Ley, podrá radicar por sí, por conducto de su representante legal o por un agente del orden público una petición en el Tribunal y solicitar una orden de protección, sin que sea necesaria la radicación previa de una denuncia o acusación.\n\nCuando un tribunal determine que existe causa para el arresto a base de una denuncia en un procedimiento penal al amparo de las Regla 6 de las de Procedimiento Criminal, según enmendadas, por algún delito tipificado dentro de esta Ley, y el imputado sea reincidente por violaciones a cualquiera de los delitos tipificados en esta Ley, deberá, sin que medie procedimiento adicional alguno, emitir una orden de protección a favor de la víctima por un período de vigencia que no será menor de un (1) año y que podrá ser extendida a discreción de un tribunal y con la anuencia de la víctima.\n\n(a) Toda orden de protección debe establecer específicamente las determinaciones del tribunal, los remedios ordenados y el periodo de vigencia.\n\n(b) Toda orden de protección debe establecer la fecha y hora en que fue expedida y notificar expresamente a las partes que cualquier violación a la misma constituirá desacato al tribunal, lo que podría resultar en pena de reclusión, multa o ambas.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe duties of law enforcement officers to assist victims and mention “Domestic Violence Divisions of the Police” as recipients of protection orders, but they do not establish or mandate a specialised unit within police services with a defined mandate to handle VAW cases (the reference is to notification/receipt rather than creation/mandate of a unit).",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts refer generally to courts issuing protection orders and related procedures, but do not designate a specialised court/chamber/judicial officer or a specialised/expedited judicial procedure specifically for VAW cases beyond ordinary protection-order processes.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "Yes",
+      "evidence": "A penalty of imprisonment shall be imposed, as provided below, on any person who engages in non-consensual sexual relations with their spouse or ex-spouse, or with the person with whom they cohabit or have cohabited, or with whom they maintain or have maintained a consensual relationship, or the person with whom they have procreated a son or daughter, regardless of sex, marital status, of the persons involved in the relationship, in any of the following circumstances:\nThe penalty to be imposed for this crime, in all its forms, shall be that corresponding to a severe second-degree felony.",
+      "rationale": "The framework expressly criminalises non-consensual sexual relations within marriage (and other intimate-partner relationships) as “Spousal Sexual Assault” and provides a felony penalty, thereby recognising marital rape/sexual assault as a criminal offence and removing any spousal exemption for this conduct.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.97,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.97
+      },
+      "evidence_verified": true,
+      "evidence_original": "Se impondrá pena de reclusión, según se dispone más adelante, a toda persona que incurra en una relación sexual no consentida con su cónyuge o ex cónyuge, o con la persona con quien cohabite o haya cohabitado, o con quien sostuviere o haya sostenido una relación consensual, o la persona con quien haya procreado un hijo o hija, independientemente del sexo, estado civil, involucradas en la relación, en cualesquiera de las circunstancias siguientes:\n\nLa pena a imponerse por este delito, en todas sus modalidades, será la correspondiente a delito grave de segundo grado severo.",
+      "evidence_original_aligned": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences describe functions of the Office of the Women's Advocate and various procedural duties (e.g., sending protection orders to police/employers, compiling reports), but they do not establish a formal inter-agency coordination mechanism (e.g., committee/task force/network) for implementing prevention/protection/response, nor do they clearly require agencies to coordinate as a general implementation mechanism. Mentions of sending copies or developing items 'in coordination with' another body are task-specific and do not amount to an institutional coordination mechanism across agencies/sectors/jurisdictions as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "The Superintendent of Police must establish an information collection system that allows maintaining a copy of each intervention report at the station where it is generated and that facilitates the centralized compilation of the same at the Statistics Division of the Puerto Rico Police.\nThe Statistics Division of the Puerto Rico Police shall receive monthly a copy of every intervention report prepared under this section, shall compile the information contained therein, and shall prepare annually a public statistical report on domestic violence incidents in Puerto Rico.\nThe Court Administration shall provide to the Police Statistics Division information on protection orders requested and issued, as well as such information as may be useful so that the report contains, among other, the following information:",
+      "rationale": "The framework mandates an information collection system for domestic violence intervention reports, requires centralized compilation and annual statistical reporting, and assigns responsibilities to the Superintendent of Police, the Police Statistics Division, and Court Administration to provide protection-order data—meeting the requirement to establish/require a system and assign responsibility for collecting and reporting domestic violence data.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Superintendente de la Policía deberá establecer un sistema de recopilación de información que permita mantener copia de cada informe de intervención en el cuartel donde se genera y que facilite la recopilación centralizada de los mismos en la División de Estadísticas de la Policía de Puerto Rico.\n\nLa División de Estadísticas de la Policía de Puerto Rico recibirá mensualmente copia de todo informe de intervención preparado al amparo de esta sección, recopilará la información contenida en los mismos y preparará anualmente un informe estadístico público sobre los incidentes de violencia doméstica en Puerto Rico.\n\nLa Administración de los Tribunales proveerá a la División de Estadísticas de la Policía la información sobre las órdenes de protección solicitadas y expedidas, así como aquella información que sea útil para que el informe contenga, entre otra, la siguiente información:",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming in planning/budgeting, a gender mainstreaming focal point/working group, or mainstreaming requirements for implementation). The text includes general public policy language about inequity and references to women, but not an explicit gender mainstreaming mechanism as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(i) Providing training and orientation services to helping professionals on treatment and counseling for victims of abuse.",
+      "rationale": "The framework assigns the Office of the Women's Advocate responsibility for providing training and orientation services to helping professionals on treatment and counseling for victims of abuse, which constitutes an explicit provision for capacity building of service providers involved in implementation/service delivery.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(i) Proveer servicios de adiestramiento y orientación a profesionales de ayuda sobre tratamiento y consejería a personas víctimas de maltrato.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(j) Evaluating the progress in the implementation of this law and submitting annual reports to the Governor of the Commonwealth of Puerto Rico and to the Legislative Assembly.",
+      "rationale": "The framework assigns the Office of the Women's Advocate responsibility for evaluating progress in implementation of the law and submitting annual reports to the Governor and Legislative Assembly, which is a specific monitoring/evaluation and reporting requirement with a designated responsible body.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(j) Evaluar el progreso en la implantación de esta ley y someter informes anuales al Gobernador(a) del Estado Libre Asociado de Puerto Rico y a la Asamblea Legislativa.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "During fiscal year 1989-90, the sum of two hundred fifty thousand (250,000) dollars is allocated from uncommitted funds in the State Treasury to the agencies and to fulfill the purposes indicated below:\n$15,000 In subsequent years, the funds necessary for the aforementioned agencies to fulfill the functions assigned to them in this law shall be appropriated in the line item corresponding to each of them in the Joint Resolution of the General Budget of the Commonwealth of Puerto Rico.",
+      "rationale": "The framework includes an operative provision allocating a specified sum from the State Treasury for designated agencies to fulfill functions under the law and further provides that in subsequent years necessary funds shall be appropriated in the general budget line items for those agencies—meeting the requirement for budget allocation to implement the law.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Durante el año fiscal 1989-90 se asigna, de fondos no comprometidos en el Tesoro Estatal, la suma de doscientos cincuenta mil (250,000) dólares a las agencias y para cumplir los fines que a continuación se indican:\n\n$15,000 En años subsiguientes los fondos necesarios para que las agencias antes señaladas cumplan con las funciones que se le asignan en esta ley, se consignarán en la partida correspondiente a cada una de las mismas en la Resolución Conjunta del Presupuesto General del Estado Libro Asociado de Puerto Rico.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe individual assistance actions by law enforcement (e.g., arranging medical treatment/transport, transport to a safe place, providing information on services) and court accompaniment/support roles (intercessor/technician), plus general collaboration language. None of the candidate sentences explicitly establishes, mandates, or recognizes a designated integrated/one-stop/multidisciplinary service mechanism that coordinates multiple services for women victims/survivors of violence, as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Any person, eighteen (18) years of age or older, who has been a victim of domestic violence or conduct constituting a crime, as defined in this Law or in the Penal Code of the Commonwealth of Puerto Rico [sic] or in any other special law, in the context of a partner relationship, as defined by subsection (m) of Article 1.3 of this Law, may file on their own behalf, through their legal representative or through a law enforcement officer, a petition with the Court and request a protection order, without the prior filing of a complaint or accusation being necessary.\n(1) By filing a verbal or written petition; or",
+      "rationale": "The framework provides an operative mechanism for victims of domestic violence to seek protection by filing a petition with the court for a protection order, including via a verbal or written petition. This constitutes a specific help-seeking/reporting channel for victims to access protective assistance, even though it is not a hotline.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Cualquier persona, de dieciocho (18) años o más de edad, que haya sido víctima de violencia doméstica o de conducta constitutiva de delito, según tipificado en esta Ley o en el Código Penal del Estado Libre Asociado de Puerto Rico [sic] o en cualquier otra ley especial, en el contexto de una relación de pareja, según definida por el inciso (m) del Artículo 1.3 de esta Ley, podrá radicar por sí, por conducto de su representante legal o por un agente del orden público una petición en el Tribunal y solicitar una orden de protección, sin que sea necesaria la radicación previa de una denuncia o acusación.\n\n(1) Mediante la radicación de una petición verbal o escrita; o",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "— Means any institution whose primary function is to provide protection, safety, support services and temporary housing to the victim survivor of domestic violence and their daughters and sons.",
+      "rationale": "The legal framework includes an operative definition of “Shelter” as an institution whose primary function includes providing protection, safety, support services and temporary housing to domestic violence victim-survivors and their children, thereby recognizing shelter-based accommodation for victims within the law’s provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "— Significa cualquier institución cuya función principal sea brindar protección, seguridad, servicios de apoyo y alojamiento temporero a la víctima sobreviviente de violencia doméstica y a sus hijas e hijos.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide for accompaniment/support by an intercessor or victim/witness assistance technician and explicitly exclude legal advice or representation for intercessors. While one sentence mentions providing an “advocate” to appear at a judicial proceeding, the excerpt does not specify that this is legal aid/advice/representation for victims (and the term “advocate” is used elsewhere as a non-legal support role). Therefore, the retrieved text does not clearly establish or guarantee legal assistance/legal aid for women victims/survivors of violence under the coding rules.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(a) If the person indicates that he/she has suffered damages, blows or injuries requiring medical attention, even if not visible, he shall administer the necessary first aid to the person, offer to make arrangements for adequate medical treatment and provide transportation to a medical services center where he/she can be treated.",
+      "rationale": "The framework requires a law enforcement officer, when intervening with an abuse victim who indicates injuries requiring medical attention, to administer first aid, arrange adequate medical treatment, and provide transportation to a medical services center. This is an operative provision linking medical services directly to victims of abuse/domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) Si la persona indica que ha sufrido daños, golpes o heridas que requieren atención médica, aunque no sean visibles, administrará a la persona la primera ayuda necesaria, le ofrecerá hacer arreglos para que reciba tratamiento médico adecuado y le proveerá transportación hasta un centro de servicios médicos donde pueda ser atendida.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "Said compensation may include, but shall not be limited to compensation for moving expenses, expenses for property repairs, legal expenses, medical, psychiatric, psychological, counseling, orientation, lodging, shelter and other similar expenses, without prejudice to other civil actions to which the petitioning party may be entitled.",
+      "rationale": "The framework provides for compensation that may include psychiatric, psychological, counseling, and orientation expenses for the petitioning party (victim) as a consequence of domestic violence, indicating psychosocial/psychological support is included within victim-related remedies in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Disponiéndose, que cuando se trate de actos de administración de negocio, comercio o industria la parte contra la cual se expida la orden deberá someter un informe financiero mensual al tribunal de sus gestiones administrativas. (i) Ordenar cualesquiera medidas provisionales respecto a la posesión y uso de la residencia de las partes y sobre aquellos bienes muebles enumerados y comprendidos en los incisos (1), (2), (3), (4), (4)(a), (5) y (6) del Artículo 249 del Código de Enjuiciamiento Civil, según enmendado (32 L.P.R.A. sec. 1130) la cual establece las propiedades exentas de ejecución. (j) Ordenar a la parte peticionada pagar una indemnización económica de su caudal privativo por los daños que fueren causados por la conducta constitutiva de violencia doméstica. Dicha indemnización podrá incluir, pero no estará limitada a compensación por gastos de mudanza, gastos por reparaciones a la propiedad, gastos legales, gastos médicos, psiquiátricos, psicológicos, de consejería, orientación, alojamiento, albergue y otros gastos similares, sin perjuicio de otras acciones civiles a las que tenga derecho la parte peticionaria.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious or spiritual counselling, pastoral care, faith-based guidance, or any role for religious institutions/leaders in victim support.",
+      "coverage": null,
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "Said compensation may include, but shall not be limited to compensation for moving expenses, expenses for property repairs, legal expenses, medical, psychiatric, psychological, counseling, orientation, lodging, shelter and other similar expenses, without prejudice to other civil actions to which the petitioning party may be entitled.\n(k) Order that payments of rent or mortgage installments for the principal residence continue during the term of the Order.",
+      "rationale": "The framework provides longer-term support measures through economic compensation that may cover moving expenses, lodging/shelter and other similar expenses, and also allows orders to continue rent or mortgage payments during the term of the protection order—measures that support victims’ longer-term stability and recovery beyond immediate emergency response.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Disponiéndose, que cuando se trate de actos de administración de negocio, comercio o industria la parte contra la cual se expida la orden deberá someter un informe financiero mensual al tribunal de sus gestiones administrativas. (i) Ordenar cualesquiera medidas provisionales respecto a la posesión y uso de la residencia de las partes y sobre aquellos bienes muebles enumerados y comprendidos en los incisos (1), (2), (3), (4), (4)(a), (5) y (6) del Artículo 249 del Código de Enjuiciamiento Civil, según enmendado (32 L.P.R.A. sec. 1130) la cual establece las propiedades exentas de ejecución. (j) Ordenar a la parte peticionada pagar una indemnización económica de su caudal privativo por los daños que fueren causados por la conducta constitutiva de violencia doméstica. Dicha indemnización podrá incluir, pero no estará limitada a compensación por gastos de mudanza, gastos por reparaciones a la propiedad, gastos legales, gastos médicos, psiquiátricos, psicológicos, de consejería, orientación, alojamiento, albergue y otros gastos similares, sin perjuicio de otras acciones civiles a las que tenga derecho la parte peticionaria.\n\n(k) Ordenar qué continúen los pagos de los cánones de arrendamiento o hipoteca de la residencia principal durante la vigencia de la Orden.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "Once the trial has been held and a conviction obtained or the accused makes a plea of guilty to any of the offenses defined in this Law, the Court may, on its own motion or upon request of the Prosecutor or the defense, suspend all proceedings and submit the convicted person to probation, subject to their participation in a reeducation and retraining program for persons who engage in abusive conduct in intimate partner relationships, as defined by subsection (m) of Article 1.3 of this Law.",
+      "rationale": "The framework authorizes the court to suspend proceedings and submit the convicted person to probation conditioned on participation in a reeducation and retraining program for persons who engage in abusive conduct in intimate partner relationships, which is a perpetrator-focused behaviour-change/rehabilitation programme in an operative provision.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Una vez celebrado el juicio y convicto que fuere o que el acusado haga alegación de culpabilidad por cualesquiera de los delitos tipificados en esta Ley, el Tribunal podrá motu proprio o mediante solicitud del Ministerio Fiscal o de la defensa, suspender todo procedimiento y someter a la persona convicta a libertad a prueba, sujeto a que ésta participe en un programa de reeducación y readiestramiento para personas que incurren en conducta maltratante en la relación de pareja, según definida por el inciso (m) del Artículo 1.3 de esta Ley.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(a) Promoting and developing educational programs for the prevention of domestic violence.\n(f) The Court shall have discretion, after having heard the evidence presented to it or at the request of the Public Prosecutor, to impose as an additional condition to the request for the Protection Order, that the petitioned party participate in a mandatory manner in a program or workshop of education, whether public or private, on the scope of this Law.\nThis, to prevent conduct constituting a crime of domestic violence from being committed and to raise awareness about its harmful effect on the family.",
+      "rationale": "The candidate sentences include operative provisions requiring/promoting educational programs and workshops explicitly aimed at preventing domestic violence and raising awareness of its harmful effects, including mandatory participation in an education program as a condition of a protection order and an agency function to develop educational programs for prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) Promover y desarrollar programas educativos para la prevención de la violencia doméstica.\n\n(f) El Tribunal tendrá discreción, luego de haber escuchado la prueba que le fuere presentada o a petición del Ministerio Público, de imponer como condición adicional a la solicitud de la Orden de Protección, que el peticionado participe de manera compulsoria de un programa o taller de educación, ya sea público o privado, sobre el alcance de esta Ley.\n\nEsto, para prevenir que se incurra en conducta constitutiva de un delito de violencia doméstica y para concienciar sobre el efecto nocivo de la misma sobre la familia.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss domestic violence prevention education and awareness, but they do not explicitly require or provide education/awareness activities specifically about gender equality, women’s rights, or non-discrimination against women as a violence-prevention strategy.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "(f) The Court shall have discretion, after having heard the evidence presented to it or at the request of the Public Prosecutor, to impose as an additional condition to the request for the Protection Order, that the petitioned party participate in a mandatory manner in a program or workshop of education, whether public or private, on the scope of this Law.\nThis, to prevent conduct constituting a crime of domestic violence from being committed and to raise awareness about its harmful effect on the family.",
+      "rationale": "The candidate sentences include an operative provision allowing the court to require participation in an education program/workshop specifically “on the scope of this Law,” explicitly framed as preventing domestic-violence criminal conduct and raising awareness of its harmful effects, which constitutes education about the law as part of prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "(f) El Tribunal tendrá discreción, luego de haber escuchado la prueba que le fuere presentada o a petición del Ministerio Público, de imponer como condición adicional a la solicitud de la Orden de Protección, que el peticionado participe de manera compulsoria de un programa o taller de educación, ya sea público o privado, sobre el alcance de esta Ley.\n\nEsto, para prevenir que se incurra en conducta constitutiva de un delito de violencia doméstica y para concienciar sobre el efecto nocivo de la misma sobre la familia.",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes education programs/workshops for domestic violence prevention, it does not explicitly identify formal educational institutions, curricula, teaching materials, or education-system quality improvements as prevention measures for violence against women/domestic violence. References to a children’s school are incidental to protection-order guidance rather than an education-based prevention measure.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not establish prevention activities specifically engaging men or boys (e.g., targeting men/boys for norm change or positive masculinity). References to “boys and girls” relate to service programs for children from homes with abuse, and perpetrator-focused education/workshops are framed as conditions/remedies rather than explicit engagement of men/boys as a target group for primary prevention of violence against women.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "Any person who has accredited training or studies in the area of counseling, guidance, psychology, social work or legal intercession and who is certified by the Office of the Women's Advocate or by a private nonprofit entity authorized to issue such certifications according to the regulations approved by the Office of the Women's Advocate for such purposes may serve as an Intercessor.",
+      "rationale": "The framework includes an operative provision explicitly involving a private nonprofit entity in a formal role (authorised to issue certifications for Intercessors/Advocates under regulations), which constitutes a mechanism for NGO participation in the response to domestic violence (victim support/advocacy).",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Podrá fungir como personal de apoyo cualquier persona mayor de edad que escoja la víctima, sea un familiar o no. Podrá fungir como Intercesor o Intercesora toda persona que cuente con los adiestramientos o estudios acreditados en el área de consejería, orientación, psicología, trabajo social o intercesión legal y que esté certificada por la Oficina de la Procuradora de las Mujeres o por una entidad privada sin fines de lucro autorizada a emitir dichas certificaciones según la reglamentación que apruebe la Oficina de la Procuradora de las Mujeres a esos efectos.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural organisations/leaders, nor do they establish any collaboration mechanism with such actors in relation to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references a child’s school only as a place to notify/provide a copy of a protection order, and mentions education programs/workshops generally, but it does not establish or require collaboration with schools/universities as institutions for VAW prevention/response or assign them responsibilities.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention international organisations or any operative mechanism for cooperation with them on domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify media organisations/actors or establish any media-related collaboration mechanism for prevention, awareness, or response to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes general statements about uniting efforts and provides guidance recommending that victims notify neighbors and other local actors, it does not establish an operative mechanism requiring or authorising community/public participation or collaboration in VAW prevention/response (beyond victim self-protection steps).",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "Every cellular telephone service provider company shall transfer without any additional cost the responsibility, control and change of the telephone number, as well as the cellular telephone number or numbers of any minor under the custody of the person to whom a Protection Order has been issued in his/her favor.",
+      "rationale": "The framework imposes an operative obligation on private-sector cellular telephone service provider companies to take specific actions for persons with protection orders, which is a form of mandated private-sector participation supporting victims’ safety in the response to domestic violence/VAW.",
+      "coverage": "Substantive",
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "Toda compañía proveedora de servicio telefónico celular transferirá sin ningún costo adicional la responsabilidad, control y cambio del número telefónico, así como el número o números de teléfonos celulares de cualquier menor bajo la custodia de la persona a la que se le haya expedido a su favor una Orden de Protección.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "The funds allocated in this law to the Commission for Women's Affairs may be matched with any other funds from the Commonwealth of Puerto Rico, its agencies and municipalities or from the Government of the United States, as well as with donations from private persons and entities.",
+      "rationale": "The policy explicitly mentions that funds allocated may be matched with funds from municipalities, which constitutes a local government budget source.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los fondos asignados en esta ley a la Comisión para los Asuntos de la Mujer podrán parearse con cualesquiera otros fondos del Estado Libre Asociado de Puerto Rico, sus agencias y municipios o del Gobierno de los Estados Unidos, así como con donativos de personas y entidades privadas.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "During fiscal year 1989-90, the sum of two hundred fifty thousand (250,000) dollars is allocated from uncommitted funds in the State Treasury to the agencies and to fulfill the purposes indicated below:\n$15,000 In subsequent years, the funds necessary for the aforementioned agencies to fulfill the functions assigned to them in this law shall be appropriated in the line item corresponding to each of them in the Joint Resolution of the General Budget of the Commonwealth of Puerto Rico.",
+      "rationale": "The policy allocates funds from the State Treasury and specifies that in subsequent years necessary funds will be appropriated in the General Budget of the Commonwealth, indicating national-level government budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "Durante el año fiscal 1989-90 se asigna, de fondos no comprometidos en el Tesoro Estatal, la suma de doscientos cincuenta mil (250,000) dólares a las agencias y para cumplir los fines que a continuación se indican:\n\n$15,000 En años subsiguientes los fondos necesarios para que las agencias antes señaladas cumplan con las funciones que se le asignan en esta ley, se consignarán en la partida correspondiente a cada una de las mismas en la Resolución Conjunta del Presupuesto General del Estado Libro Asociado de Puerto Rico.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "The funds allocated in this law to the Commission for Women's Affairs may be matched with any other funds from the Commonwealth of Puerto Rico, its agencies and municipalities or from the Government of the United States, as well as with donations from private persons and entities.",
+      "rationale": "The policy states that allocated funds may be matched with funds from the Government of the United States, which is an explicit foreign-government funding source and therefore qualifies as international support under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los fondos asignados en esta ley a la Comisión para los Asuntos de la Mujer podrán parearse con cualesquiera otros fondos del Estado Libre Asociado de Puerto Rico, sus agencias y municipios o del Gobierno de los Estados Unidos, así como con donativos de personas y entidades privadas.",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "The funds allocated in this law to the Commission for Women's Affairs may be matched with any other funds from the Commonwealth of Puerto Rico, its agencies and municipalities or from the Government of the United States, as well as with donations from private persons and entities.",
+      "rationale": "The policy explicitly allows matching allocated funds with donations from private persons and entities, which are non-governmental/other sources beyond standard public budgets.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.77,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.77
+      },
+      "evidence_verified": true,
+      "evidence_original": "Los fondos asignados en esta ley a la Comisión para los Asuntos de la Mujer podrán parearse con cualesquiera otros fondos del Estado Libre Asociado de Puerto Rico, sus agencias y municipios o del Gobierno de los Estados Unidos, así como con donativos de personas y entidades privadas.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to Commonwealth-level funding (State Treasury and General Budget) and mention municipalities, but do not explicitly identify a provincial/state/regional (subnational, non-municipal) government budget source distinct from the Commonwealth government.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 27,
+    "resolved": 27,
+    "rate": 1.0
+  }
+}

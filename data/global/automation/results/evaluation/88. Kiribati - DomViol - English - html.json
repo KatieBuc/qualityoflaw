@@ -1,0 +1,967 @@
+{
+  "policy_file": "88. Kiribati - DomViol - English - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T15:24:28.651895+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Meaning of domestic violence\n(1) For the purposes of this Act, any act or omission or conduct of the respondent or any threats to the complainant or any person related to the complainant by the respondent in a domestic relationship shall constitute domestic violence if it-\n33. Domestic violence offence and breach of protection order",
+      "rationale": "The candidate sentences include operative provisions that explicitly define “domestic violence” and establish a “domestic violence offence,” indicating the legal framework substantively addresses domestic violence through definitions and criminalisation (and related court/police mechanisms appear throughout the excerpts).",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Meaning of domestic violence\n\n(1) For the purposes of this Act, any act or omission or conduct of the respondent or any threats to the complainant or any person related to the complainant by the respondent in a domestic relationship shall constitute domestic violence if it-\n\n33. Domestic violence offence and breach of protection order",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(c)repeatedly sending, delivering or causing the delivery of unwanted letters, packages, other objects, facsimiles, text messages or other electronic mail to the complainant; \"health care provider\" means a doctor, nurse or health worker engaged in any medical facility providing medical services to members of the public; \"intimidation\" means any word or action that intentionally threatens the use of force or the threat of force, causing or threatening to cause physical injury to any person; \"respondent\" means any person who is or has been in a domestic relationship with the complainant and who has committed or allegedly committed an act of violence against the complainant or against whom an order is sought or made under this Act; \"person at risk\" means any person in a domestic relationship who is at risk, or has been subjected to domestic violence; \"police safety order\" means an on-the-spot order issued by the Police and referred to in section 26; \"protection order\" means an emergency, temporary or final protection order made under this Act; \"sexual assault\" means sexual contact that involves the intentional touching or penetration by the perpetrator of the complainant's intimate parts; or, the touching by the complainant of the perpetrator's, the complainant's, or another's intimate parts effected by the person in a position of authority; or, by coercion, or by inducement if the complainant is under 13 years of age or mentally impaired; or, the touching of the clothing covering the immediate area of the intimate parts; or, the intentional penetration or touching with seminal fluid or sperm by the perpetrator of the complainant's body or the clothing covering the complainant's body.\n(b) \"sexual abuse\" includes any conduct of a sexual nature that abuses, humiliates, degrades or otherwise violates the dignity of a person;",
+      "rationale": "The framework includes operative definitions of “sexual assault” and “sexual abuse,” and also includes sexual abuse within the operative definition of domestic violence, which gives it legal consequences under the Act (e.g., protection orders/offences).",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c)repeatedly sending, delivering or causing the delivery of unwanted letters, packages, other objects, facsimiles, text messages or other electronic mail to the complainant; \"health care provider\" means a doctor, nurse or health worker engaged in any medical facility providing medical services to members of the public; \"intimidation\" means any word or action that intentionally threatens the use of force or the threat of force, causing or threatening to cause physical injury to any person; \"respondent\" means any person who is or has been in a domestic relationship with the complainant and who has committed or allegedly committed an act of violence against the complainant or against whom an order is sought or made under this Act; \"person at risk\" means any person in a domestic relationship who is at risk, or has been subjected to domestic violence; \"police safety order\" means an on-the-spot order issued by the Police and referred to in section 26; \"protection order\" means an emergency, temporary or final protection order made under this Act; \"sexual assault\" means sexual contact that involves the intentional touching or penetration by the perpetrator of the complainant's intimate parts; or, the touching by the complainant of the perpetrator's, the complainant's, or another's intimate parts effected by the person in a position of authority; or, by coercion, or by inducement if the complainant is under 13 years of age or mentally impaired; or, the touching of the clothing covering the immediate area of the intimate parts; or, the intentional penetration or touching with seminal fluid or sperm by the perpetrator of the complainant's body or the clothing covering the complainant's body.\n\n(b) \"sexual abuse\" includes any conduct of a sexual nature that abuses, humiliates, degrades or otherwise violates the dignity of a person;",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(a) \"physical abuse\" means any act or conduct which is of such a nature as to cause bodily pain, harm or danger to life, limb or health or impair the health or development of the complainant and includes assault, criminal intimidation and criminal force;\n(a) physically or sexually abuse the complainant;",
+      "rationale": "The candidate sentences define “physical abuse” and include operative protection-order conditions prohibiting physical abuse, demonstrating substantive legal coverage of physical violence with enforceable consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) \"physical abuse\" means any act or conduct which is of such a nature as to cause bodily pain, harm or danger to life, limb or health or impair the health or development of the complainant and includes assault, criminal intimidation and criminal force;\n\n(a) physically or sexually abuse the complainant;",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(c) \"verbal, emotional and psychological abuse\" means a pattern of degrading or humiliating conduct towards the complainant, including —\n(d) engage, or threaten to engage, in other behaviour, including intimidation, harassment or stalking which amounts to psychological abuse of the complainant;",
+      "rationale": "The framework defines “verbal, emotional and psychological abuse” and includes an operative protection-order condition prohibiting behaviour amounting to “psychological abuse,” providing substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) \"verbal, emotional and psychological abuse\" means a pattern of degrading or humiliating conduct towards the complainant, including —\n\n(d) engage, or threaten to engage, in other behaviour, including intimidation, harassment or stalking which amounts to psychological abuse of the complainant; (e) deprive or threaten to deprive the complainant of economic or financial resources or dispose or threaten to dispose of any movable or immovable property in which the complainant has a material interest. (f) encourage any person to engage in behaviour against a complainant where the behaviour; if engaged in by the respondent would be prohibited by the order; (g) prohibit the respondent or complainant from approaching each other while under the influence of alcohol, kava or non-prescription drugs.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(iii) the repeated exhibition of obsessive possessiveness or jealousy, which is such as to constitute a serious invasion of the victim's privacy, liberty, integrity or security; (d) \"economic abuse\" includes-\n(i) deprivation of all or any economic or financial resources to which the complainant is entitled under any law or custom whether payable under an order of a court or otherwise or which the complainant requires out of necessity including, but not limited to, household necessities for the complainant and dependent children, if any, property, jointly or separately owned by the complainant, payment of rent related to the shared household and maintenance;",
+      "rationale": "The candidate sentences include an operative definition of “economic abuse,” specifying deprivation of economic/financial resources and related conduct as part of domestic violence, which carries legal consequences under the Act (e.g., protection orders/offences).",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(iii) the repeated exhibition of obsessive possessiveness or jealousy, which is such as to constitute a serious invasion of the victim's privacy, liberty, integrity or security; (d) \"economic abuse\" includes-\n\n(i) deprivation of all or any economic or financial resources to which the complainant is entitled under any law or custom whether payable under an order of a court or otherwise or which the complainant requires out of necessity including, but not limited to, household necessities for the complainant and dependent children, if any, property, jointly or separately owned by the complainant, payment of rent related to the shared household and maintenance;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided candidate sentences, the Act addresses domestic violence generally (prevention, protection orders, offences, aggravated circumstances, services), but it does not mention or regulate any of the specified harmful practices (e.g., child/early marriage, FGM/C, honour crimes, female infanticide) or similar practices. There are also no preambular/recital references to such practices in the provided text.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of femicide/feminicide, gender-motivated killing of women, or equivalent terms, nor any femicide-specific prevention/monitoring mechanisms. While the Act covers domestic violence and includes aggravated circumstances (e.g., severe or life-threatening violence), it does not frame or define femicide as a distinct concept or legal category in the provided text.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking/trafficking in persons or trafficking-related exploitation, nor do they identify trafficking victims as a protected group or provide trafficking-specific prevention/response measures. References to “exploitation of power imbalances” appear only in the context of domestic violence generally and do not indicate trafficking.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address sexual abuse/sexual assault and sexual harassment within domestic violence, but they do not mention sexual exploitation or sexual slavery, nor do they cover forced prostitution, commercial sexual exploitation, or other exploitation-for-gain concepts required by the coding rules. The text therefore lacks a clear sexual-exploitation nexus.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to communication methods (e.g., text messages/email for applications; unwanted electronic mail within the definition of harassment), but they do not recognise or regulate technology-facilitated violence as such (e.g., cyber harassment/cyberbullying/online sexual exploitation) as a distinct form of violence with attached legal consequences. The electronic communications references appear as channels for contact/harassment rather than an explicit technology-facilitated violence framework.",
+      "coverage": null,
+      "confidence": 0.65,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.65
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(2) A person who commits a domestic violence offence referred to in subsection (1) shall be punished by up to a maximum term of 6 months imprisonment or a fine of up to $250.",
+      "rationale": "The cited provision establishes a specific criminal offence (“domestic violence offence”) and specifies criminal sanctions (imprisonment and/or a fine), satisfying the requirement for an attached criminal penalty for violence within domestic relationships (a form of VAW within scope).",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) A person who commits a domestic violence offence referred to in subsection (1) shall be punished by up to a maximum term of 6 months imprisonment or a fine of up to $250.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "(1) An application for a protection order may be made by the Complainant to the Court nearest to where the complainant lives either temporarily or permanently, works or where the act of domestic violence occurred or is occurring.\n(5) An emergency protection order shall be effective for a period of no more than 28 days including the day the order is made.\n(b) breaches a protection order;",
+      "rationale": "The framework provides a protection-order mechanism with (i) who may apply (complainant to the court), (ii) a defined duration for at least one type of protection order (emergency protection order effective up to 28 days), and (iii) a defined consequence for breach (breach of a protection order constitutes part of a domestic violence offence). These elements meet the substantive coding rule requirements.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) An application for a protection order may be made by the Complainant to the Court nearest to where the complainant lives either temporarily or permanently, works or where the act of domestic violence occurred or is occurring.\n\n(5) An emergency protection order shall be effective for a period of no more than 28 days including the day the order is made.\n\n(b) breaches a protection order;",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe police duties, police safety orders, and prosecution obligations, but do not designate or mandate any specialised police unit/desk/division for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference courts’ general jurisdiction and procedures (e.g., Magistrate’s Court jurisdiction, service, withdrawal of complaint), but do not establish a specialised court/chamber or a specialised/expedited judicial procedure specifically for VAW cases beyond ordinary court processes.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines domestic violence and includes “sexual abuse” and creates a domestic violence offence, it does not expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption for sexual offences. Under the coding rules, such explicit applicability is required and cannot be inferred from general provisions.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(1) The Minister responsible for the Ministry responsible for women affairs may establish an Advisory Council consisting of persons appointed by the Minister in accordance with subsection (2).\n(2) The Council consists of such representatives of relevant government agencies, organisations or councils for protecting women, and other civil society groups as the Minister thinks fit.",
+      "rationale": "The framework provides for establishment of an Advisory Council by the Minister, with membership drawn from relevant government agencies and civil society groups, which constitutes a formal multi-stakeholder coordination/oversight mechanism supporting implementation of the Act.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) The Minister responsible for the Ministry responsible for women affairs may establish an Advisory Council consisting of persons appointed by the Minister in accordance with subsection (2).\n\n(2) The Council consists of such representatives of relevant government agencies, organisations or councils for protecting women, and other civil society groups as the Minister thinks fit.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "Central data collection, monitoring, reporting etc\n(1) The Secretary for the Ministry responsible for women affairs must at least once a year, compile annual statistics and an annual report for the information collected under this section and forward the statistics and report to the Minister responsible for women affairs.\n(3) On receipt of the statistics and annual report referred to in subsection (2), the Minister responsible for women affairs must prepare a consolidated report which the Minister must, at least once in every year, submit to relevant authorities, the Council established under section 42 of this Act and table in the Maneaba ni Maungatabu, but any information which might reveal the identity of the parties must not be disclosed in the consolidated report.",
+      "rationale": "The framework assigns the Secretary for the Ministry responsible for women affairs a duty to compile annual statistics and an annual report on domestic violence-related information, and requires the Minister to prepare and submit a consolidated report to authorities and the Council, establishing an official data collection/monitoring/reporting function.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "44. Central data collection, monitoring, reporting etc\n\n(1) The Secretary for the Ministry responsible for women affairs must at least once a year, compile annual statistics and an annual report for the information collected under this section and forward the statistics and report to the Minister responsible for women affairs.\n\n(3) On receipt of the statistics and annual report referred to in subsection (2), the Minister responsible for women affairs must prepare a consolidated report which the Minister must, at least once in every year, submit to relevant authorities, the Council established under section 42 of this Act and table in the Maneaba ni Maungatabu, but any information which might reveal the identity of the parties must not be disclosed in the consolidated report.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference gender equality in training and education, but do not explicitly require or establish gender mainstreaming as an institutional mechanism (e.g., mainstreaming focal points, working groups, or integration into planning/budgeting) for implementing VAW policies/programs.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(a) sensitisation and training in human rights, gender equality and causes and consequences of domestic violence for judicial officers, police officers, health care professionals, social welfare officers, other personnel in relevant Government agencies, youth groups, media personnel and civil society organizations;",
+      "rationale": "The framework provides for sensitisation and training for key implementing personnel (judicial officers, police, health care professionals, social welfare officers, and other relevant government agency personnel) on human rights, gender equality, and domestic violence, which is a training/capacity-building provision for implementers.",
+      "coverage": "Substantive",
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) sensitisation and training in human rights, gender equality and causes and consequences of domestic violence for judicial officers, police officers, health care professionals, social welfare officers, other personnel in relevant Government agencies, youth groups, media personnel and civil society organizations;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(c) research, monitoring and evaluation of the impact of domestic violence in the community;\n(d) the adequacy of preventive measures, responses, shelters and counselling support services provided to victims of domestic violence; and",
+      "rationale": "The framework assigns the Advisory Council functions including research, monitoring and evaluation of the impact of domestic violence and assessing adequacy of preventive measures, responses, shelters, and counselling support services—i.e., monitoring/evaluation of implementation and service delivery.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.82,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.82
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) research, monitoring and evaluation of the impact of domestic violence in the community;\n\n(d) the adequacy of preventive measures, responses, shelters and counselling support services provided to victims of domestic violence; and",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not contain an operative provision requiring allocation of budget/funding or establishing a dedicated funding mechanism for implementation; the only mention of funding support appears in an explanatory memorandum-style sentence, not a binding budget allocation requirement.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe individual roles (e.g., registered counsellors facilitating accommodation/medical arrangements; police arranging shelter/medical/counselling; health/social service providers advising/referring) and general statements about a “coordinated legal and social response,” but they do not explicitly establish, mandate, or recognise a designated integrated/one-stop/multidisciplinary service mechanism or unit responsible for coordinating multiple services for women victims/survivors of violence, as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(1) An application for a protection order may be made by the Complainant to the Court nearest to where the complainant lives either temporarily or permanently, works or where the act of domestic violence occurred or is occurring.\n(c) by telephone, radio or similar facility; or",
+      "rationale": "The framework provides an operative mechanism for victims to seek assistance by applying for a protection order, including via remote channels (telephone/radio/similar facility and electronic means). This constitutes a specific help-seeking/reporting pathway for victims of domestic violence, even though it is not a dedicated hotline.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) An application for a protection order may be made by the Complainant to the Court nearest to where the complainant lives either temporarily or permanently, works or where the act of domestic violence occurred or is occurring.\n\n(c) by telephone, radio or similar facility; or",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(f) assist the victim and any dependent children where necessary by taking them to a shelter, where available and /or a house of a relative or friend and shall further liaise with the Police in ensuring that protection orders are applied for, are obtained and enforced.",
+      "rationale": "The operative duty on social service providers includes assisting the victim and dependent children by taking them to a shelter (where available) or to a relative/friend’s house, which is a form of emergency/temporary safe accommodation for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "(f) assist the victim and any dependent children where necessary by taking them to a shelter, where available and /or a house of a relative or friend and shall further liaise with the Police in ensuring that protection orders are applied for, are obtained and enforced.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text references “the working of legal aid in relation to this Act” only as a topic for an Advisory Council to advise on, and mentions a complainant’s “right to hire or have access to a court appointed lawyer” in the context of police providing information. Neither establishes an operative entitlement to legal aid/legal assistance for women victims/survivors of violence or assigns a duty to provide such assistance.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(3) The health care professional must examine the complainant and applying the protocol established by the Ministry of Health providing for professional standards and confidential treatment and further advise the victim of support options available and refer the victim to counselling support where available.\n(c) refer the victim for medical treatment;",
+      "rationale": "The framework assigns health and social service providers responsibilities connected to domestic violence cases, including requiring healthcare professionals to examine the complainant and requiring social service providers to refer the victim for medical treatment. These are operative, violence-linked health/medical response provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) The health care professional must examine the complainant and applying the protocol established by the Ministry of Health providing for professional standards and confidential treatment and further advise the victim of support options available and refer the victim to counselling support where available.\n\n(c) refer the victim for medical treatment;",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "(a) advise the complainant about counselling;\n(b) refer the complainant to counselling as appropriate;\n(b) refer the victim to counselling;",
+      "rationale": "The Act includes operative provisions establishing duties for healthcare professionals and social service providers to advise victims about counselling and to refer victims to counselling, and it also provides for registered counsellors with counselling functions. These provisions constitute provision/referral mechanisms for counselling support services for victims/survivors of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) advise the complainant about counselling;\n\n(b) refer the complainant to counselling as appropriate;\n\n(b) refer the victim to counselling;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss counselling and registered counsellors generally, but do not mention religious/spiritual counselling, pastoral care, faith-based support, or religious leaders/institutions providing victim support. References to marriage 'according to ... religion' are definitional and not about counselling services.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(c) to implement programmes for victims of domestic violence to ensure their recovery to lead a safe and healthy life.\n(1) Where the court makes a protection order, it must also make an order for urgent maintenance where it appears that the party is in need of immediate financial assistance, until further orders of the court.",
+      "rationale": "The Act states as an object the implementation of programmes for victims to ensure their recovery, and it also contains an operative provision requiring the court to make urgent maintenance orders where immediate financial assistance is needed when making a protection order. This constitutes a support measure linked to victims of domestic violence, going beyond immediate protection by providing financial assistance to address victims’ needs.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) to implement programmes for victims of domestic violence to ensure their recovery to lead a safe and healthy life.\n\n(1) Where the court makes a protection order, it must also make an order for urgent maintenance where it appears that the party is in need of immediate financial assistance, until further orders of the court.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include counselling referrals for victims and general prevention measures, plus criminal offences/penalties and protection-order conditions. They do not establish or mandate perpetrator-focused intervention, rehabilitation, treatment, or behaviour-change programmes, nor do they authorise referrals of perpetrators to such programmes.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(1) Ministries and Departments shall support and help ensure the introduction of public awareness programmes on prevention and the causes and consequences of violence in the family and in the community and based on available data.\n(c) promoting and conducting educative campaigns on the National Action Plan on violence against women and on sexual and gender based violence;",
+      "rationale": "The cited operative provisions require public awareness programmes on prevention and the causes/consequences of violence, and require/promote educative campaigns specifically on violence against women and sexual and gender-based violence, which constitutes information/education activities explicitly directed at VAW as prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Ministries and Departments shall support and help ensure the introduction of public awareness programmes on prevention and the causes and consequences of violence in the family and in the community and based on available data.\n\n(c) promoting and conducting educative campaigns on the National Action Plan on violence against women and on sexual and gender based violence;",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions training in gender equality and emphasizing gender equality in curricula, the candidate sentences do not explicitly link these gender-equality education activities to preventing violence against women (as required by the coding rules for this indicator).",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "(c) promoting and conducting educative campaigns on the National Action Plan on violence against women and on sexual and gender based violence;",
+      "rationale": "The framework provides for educative campaigns on the National Action Plan on violence against women, which is a policy instrument concerning VAW; this is an explicit education/awareness activity about a VAW policy.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "(c) promoting and conducting educative campaigns on the National Action Plan on violence against women and on sexual and gender based violence;",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "(b) educating officials including and emphasizing human rights, gender equality and the problems of gender based violence in the education curricula in all levels of education;",
+      "rationale": "The operative provision identifies education curricula at all levels as a mechanism for preventing/reducing violence by requiring emphasis on human rights, gender equality, and problems of gender-based violence in curricula, explicitly framed within prevention mechanisms.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(b) educating officials including and emphasizing human rights, gender equality and the problems of gender based violence in the education curricula in all levels of education;",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general prevention measures and training for various groups (e.g., officials, youth groups) but do not explicitly target men or boys or describe programmes engaging men/boys to change masculinities or gender norms to prevent violence against women.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(a) consult with the Secretary of the Ministry responsible for women affairs, President of a recognised national council of women, and an organisation or task force established solely for the purpose of protecting women or protecting victims of domestic violence; and",
+      "rationale": "The operative provisions require the Minister to consult with specified non-governmental actors (a recognised national council of women and an organisation/task force established to protect women or victims of domestic violence) when making a declaration, which constitutes a formal consultation mechanism involving civil society/NGO actors in the response framework.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) consult with the Secretary of the Ministry responsible for women affairs, President of a recognised national council of women, and an organisation or task force established solely for the purpose of protecting women or protecting victims of domestic violence; and",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, the framework references community and civil society generally (e.g., community, youth groups, civil society organizations) but does not explicitly establish or require cooperation with religious organisations/leaders or traditional/cultural leaders in relation to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text refers to incorporating human rights/gender equality and GBV issues into education curricula and mentions a head of a school as a possible applicant on behalf of a complainant, but it does not establish or require collaboration with education institutions (schools/universities) as partners in VAW prevention/response or create a coordination mechanism with them.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences include references to international instruments (e.g., CEDAW/CRC in definitions/objects) but do not establish any operative mechanism for cooperation with international organisations on VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "(a) sensitisation and training in human rights, gender equality and causes and consequences of domestic violence for judicial officers, police officers, health care professionals, social welfare officers, other personnel in relevant Government agencies, youth groups, media personnel and civil society organizations;",
+      "rationale": "The operative provision on prevention mechanisms explicitly includes sensitisation and training for \"media personnel\" on causes and consequences of domestic violence, indicating formal inclusion of media actors in prevention-related training/engagement.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "(a) sensitisation and training in human rights, gender equality and causes and consequences of domestic violence for judicial officers, police officers, health care professionals, social welfare officers, other personnel in relevant Government agencies, youth groups, media personnel and civil society organizations;",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "Yes",
+      "evidence": "(1) Ministries and Departments shall support and help ensure the introduction of public awareness programmes on prevention and the causes and consequences of violence in the family and in the community and based on available data.\n(a) sensitisation and training in human rights, gender equality and causes and consequences of domestic violence for judicial officers, police officers, health care professionals, social welfare officers, other personnel in relevant Government agencies, youth groups, media personnel and civil society organizations;",
+      "rationale": "The prevention section requires ministries/departments to support public awareness programmes on prevention and causes/consequences of violence in the family and community, and includes engagement of community-linked groups (e.g., youth groups) in sensitisation/training mechanisms, reflecting community/public engagement in prevention efforts.",
+      "coverage": "Substantive",
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Ministries and Departments shall support and help ensure the introduction of public awareness programmes on prevention and the causes and consequences of violence in the family and in the community and based on available data.\n\n(a) sensitisation and training in human rights, gender equality and causes and consequences of domestic violence for judicial officers, police officers, health care professionals, social welfare officers, other personnel in relevant Government agencies, youth groups, media personnel and civil society organizations;",
+      "evidence_original_aligned": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences establish or require cooperation with businesses, employers, private companies, or other private-sector actors in relation to preventing or responding to violence against women/domestic violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly identify local government budget allocations or local government budget as a funding source. References to local government bodies/regions relate to registers and counsellor coverage, not budgeting or funding.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe responsibilities of ministries/departments and other implementation mechanisms, but do not explicitly state that national government budget funds these measures or identify a national budget line/source. Mentions of a 'Domestic Violence fund' are not described as being financed by the national budget in the provided text.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references international conventions (CEDAW, CRC) only as part of definitions/consistency objectives, which is explicitly insufficient under the coding rules without indicating international assistance, funding, partnerships, or involvement. No donors, UN agencies, foreign governments, or international assistance mechanisms are mentioned as supporters or funders.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the excerpts mention a 'Domestic Violence fund' and 'funding support' in an explanatory memorandum, they do not specify any 'other legal sources' of funding (e.g., earmarked fees, fines, levies, dedicated trust funds with defined revenue sources, or other legally defined non-budget sources). The passages also discuss financial support needs and maintenance orders, which are not funding sources for implementation.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence explicitly mentions provincial government budgets or identifies provincial budget allocations as a funding source. References to local government regions/bodies concern service coverage and record-keeping rather than budgeting.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 22,
+    "resolved": 22,
+    "rate": 1.0
+  }
+}

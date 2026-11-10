@@ -1,0 +1,961 @@
+{
+  "policy_file": "179. United Arab Emirates - DomViol - English.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T20:42:21.636809+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "For the purposes of applying this Decree-Law, domestic violence is defined as any act, omission, statement, or threat thereof, neglect, sexual or economic exploitation committed or shared by one or more family members against another, exceeding the guardianship, authority or responsibility held by the perpetrator.\nAny person who commits the crime of domestic violence stipulated in Article (4) of this Decree- Law shall be punished by imprisonment and a fine not exceeding (50,000) fifty thousand Dirhams, or by either of these penalties.",
+      "rationale": "The candidate sentences include an operative definition of domestic violence and establish criminal penalties for committing the crime of domestic violence, demonstrating substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "For the purposes of applying this Decree-Law, domestic violence is defined as any act, omission, statement, or threat thereof, neglect, sexual or economic exploitation committed or shared by one or more family members against another, exceeding the guardianship, authority or responsibility held by the perpetrator.\n\nAny person who commits the crime of domestic violence stipulated in Article (4) of this Decree- Law shall be punished by imprisonment and a fine not exceeding (50,000) fifty thousand Dirhams, or by either of these penalties.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "4. The Police station shall be reported about the incident of domestic violence if the act constitutes physical or sexual violence, and the station shall take the necessary legal actions in response.\nThis behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "rationale": "The text treats sexual violence as a covered category within domestic violence reporting procedures and includes sexual harm within the operative definition of domestic violence’s resulting harms, indicating substantive coverage of sexual violence within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. The Police station shall be reported about the incident of domestic violence if the act constitutes physical or sexual violence, and the station shall take the necessary legal actions in response.\n\nThis behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "4. The Police station shall be reported about the incident of domestic violence if the act constitutes physical or sexual violence, and the station shall take the necessary legal actions in response.\nThis behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "rationale": "The framework explicitly references physical violence as a trigger for police reporting and includes physical harm within the operative definition of domestic violence harms, which constitutes substantive coverage of physical violence.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. The Police station shall be reported about the incident of domestic violence if the act constitutes physical or sexual violence, and the station shall take the necessary legal actions in response.\n\nThis behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "This behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "rationale": "Psychological harm is explicitly included in the operative definition of domestic violence harms, which substantively brings psychological violence/abuse within the framework’s scope.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "This behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "For the purposes of applying this Decree-Law, domestic violence is defined as any act, omission, statement, or threat thereof, neglect, sexual or economic exploitation committed or shared by one or more family members against another, exceeding the guardianship, authority or responsibility held by the perpetrator.\nThis behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "rationale": "The operative definition of domestic violence expressly includes economic exploitation and neglect, and also includes economic harm among the harms caused/aimed at, meeting the criterion for substantive coverage of economic violence/exploitation/neglect.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "For the purposes of applying this Decree-Law, domestic violence is defined as any act, omission, statement, or threat thereof, neglect, sexual or economic exploitation committed or shared by one or more family members against another, exceeding the guardianship, authority or responsibility held by the perpetrator.\n\nThis behaviour results in or aims to cause physical, psychological, sexual, or economic harm.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, FGM/cutting, honour crimes, female infanticide, or any similar harmful practice; the text focuses on domestic violence generally without addressing these specific practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor do they establish femicide-specific aggravation, prevention, or monitoring mechanisms.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention human trafficking/trafficking in persons or trafficking victims; references to exploitation appear only in the domestic-violence definition and are not linked to trafficking.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "For the purposes of applying this Decree-Law, domestic violence is defined as any act, omission, statement, or threat thereof, neglect, sexual or economic exploitation committed or shared by one or more family members against another, exceeding the guardianship, authority or responsibility held by the perpetrator.",
+      "rationale": "The operative definition of domestic violence explicitly includes “sexual ... exploitation” as covered conduct, which is sufficient to substantively address sexual exploitation within the framework’s scope (even though it is not elaborated as trafficking or commercial sexual exploitation).",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "For the purposes of applying this Decree-Law, domestic violence is defined as any act, omission, statement, or threat thereof, neglect, sexual or economic exploitation committed or shared by one or more family members against another, exceeding the guardianship, authority or responsibility held by the perpetrator.",
+      "evidence_original_aligned": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference electronic channels and modern technologies only as tools for reporting/service delivery and do not define, prohibit, or otherwise recognize cyber/digital/online violence as a form of violence with legal consequences.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "Any person who commits the crime of domestic violence stipulated in Article (4) of this Decree- Law shall be punished by imprisonment and a fine not exceeding (50,000) fifty thousand Dirhams, or by either of these penalties.",
+      "rationale": "The framework explicitly provides that committing the crime of domestic violence is punishable by imprisonment and a specified fine cap, which constitutes a criminal penalty attached to a form of violence covered by the instrument.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Any person who commits the crime of domestic violence stipulated in Article (4) of this Decree- Law shall be punished by imprisonment and a fine not exceeding (50,000) fifty thousand Dirhams, or by either of these penalties.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "1. The Public Prosecution may issue a restraining order on its own, based on a request from the Social Support Centre that received the domestic violence report, or from the Ministry, the competent authority, or at the request of the victim.\n1. Duration of the restraining order issued by the Public Prosecution shall not exceed (30) thirty days, and it may be extended for two similar periods.\nAnyone who violates a restraining order issued in accordance with the provisions of this Decree- Law shall be punished with imprisonment and a fine of not less than five thousand AED (5,000) and not exceeding ten thousand AED (10,000), or with one of these penalties.",
+      "rationale": "The framework establishes a restraining order mechanism by specifying who may request it (including the victim and other bodies), identifies an issuing authority (Public Prosecution), provides a defined duration, and sets criminal consequences for violating the order.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. The Public Prosecution may issue a restraining order on its own, based on a request from the Social Support Centre that received the domestic violence report, or from the Ministry, the competent authority, or at the request of the victim.\n\n1. Duration of the restraining order issued by the Public Prosecution shall not exceed (30) thirty days, and it may be extended for two similar periods.\n\nAnyone who violates a restraining order issued in accordance with the provisions of this Decree- Law shall be punished with imprisonment and a fine of not less than five thousand AED (5,000) and not exceeding ten thousand AED (10,000), or with one of these penalties.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention reporting to a police station and define a Social Support Centre, but they do not designate or mandate a specialised unit/desk/division within police services specifically for victims of violence against women or domestic violence case handling.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "The Federal Judiciary Council and local judicial authorities, each according to its jurisdiction, may establish specialized judicial chambers to adjudicate cases of domestic violence for the purposes of implementing the provisions of this Decree-Law.\nIn all cases, adjudication of domestic violence cases shall be expedited.",
+      "rationale": "The framework provides for the possible establishment of specialized judicial chambers to adjudicate domestic violence cases and also mandates expedited adjudication, which constitutes a specialised judicial mechanism/procedure for such cases.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "The Federal Judiciary Council and local judicial authorities, each according to its jurisdiction, may establish specialized judicial chambers to adjudicate cases of domestic violence for the purposes of implementing the provisions of this Decree-Law.\n\nIn all cases, adjudication of domestic violence cases shall be expedited.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While domestic violence is defined to include sexual harm/exploitation and the law provides penalties for the crime of domestic violence, none of the candidate sentences expressly criminalise rape/sexual assault within marriage, state that spousal status is not a defence, or otherwise remove a marital/spousal exemption for sexual violence as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "4. The Ministry and the competent authority shall share and link all data recorded in the electronic register, and any changes or updates that occur, with the electronic databases of the relevant entities in charge of implementing the provisions of this Decree-Law, in a manner that ensures real-time linking of such data.",
+      "rationale": "The framework establishes a formal inter-entity coordination mechanism through mandated data linking/sharing between the Ministry/competent authority and other relevant implementing entities, which constitutes an institutional coordination process across agencies for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. The Ministry and the competent authority shall share and link all data recorded in the electronic register, and any changes or updates that occur, with the electronic databases of the relevant entities in charge of implementing the provisions of this Decree-Law, in a manner that ensures real-time linking of such data.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "1. An electronic register shall be established at the Ministry and the competent authority, where all data, information, and statistics that relate to cases of domestic violence, as well as any changes or updates, shall be recorded.",
+      "rationale": "The framework explicitly establishes an electronic register at specified entities (the Ministry and the competent authority) to record domestic violence case data, which is a mandated information system for collecting/recording/managing case information.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. An electronic register shall be established at the Ministry and the competent authority, where all data, information, and statistics that relate to cases of domestic violence, as well as any changes or updates, shall be recorded.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention gender mainstreaming, gender-responsive implementation, or any institutional mechanism (e.g., focal points/working groups) to mainstream gender in domestic violence policy implementation.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "2. Organize training programs for all those involved in dealing with cases of domestic violence, in coordination with relevant government entities.",
+      "rationale": "The framework mandates the Ministry/competent authority to organize training programs for those involved in dealing with domestic violence cases, which is an explicit training requirement for implementing personnel/service providers.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Organize training programs for all those involved in dealing with cases of domestic violence, in coordination with relevant government entities.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "3. The Ministry or the competent authority shall regularly follow up the implementation of the protection measures in the restraining order.",
+      "rationale": "The framework assigns a responsible body (the Ministry or competent authority) a duty to regularly follow up implementation of protection measures, which constitutes an operative monitoring mechanism for service/protection delivery under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": 0.62,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.62
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. The Ministry or the competent authority shall regularly follow up the implementation of the protection measures in the restraining order.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention any requirement to allocate budget/funding, establish a fund, or otherwise provide for financing of implementation; they describe duties and measures without budget provisions.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions establish multiple separate services and actors (e.g., Social Support Centre receiving reports; shelters providing counselling and legal consultation; referral to healthcare facilities; data sharing), but they do not explicitly establish, mandate, or recognise an integrated/one-stop/multidisciplinary service mechanism as a designated integrated unit for women victims/survivors of violence. References to coordination (e.g., shelters coordinating with relevant authorities when needed) are general and do not amount to an operative provision creating an integrated service mechanism as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "3. The incident of domestic violence shall be reported to the Ministry, the competent authority, or the social support centre, which shall take the necessary legal actions in response.\n5. The Ministry and the competent authority shall provide effective channels and means of communication for receiving reports of domestic violence, including electronic channels, and shall inform the community about these channels and methods and raise awareness regarding them.\nSocial Support Centre : A centre that is dedicated to receive reports about domestic violence at the Ministry of Interior, federal and local Police",
+      "rationale": "The framework provides operative reporting mechanisms by designating specific bodies/centres to receive domestic violence reports (Ministry, competent authority, Social Support Centre) and requiring the Ministry/competent authority to provide effective communication channels, including electronic channels, for receiving reports. The Social Support Centre is defined as dedicated to receiving reports about domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "3. The incident of domestic violence shall be reported to the Ministry, the competent authority, or the social support centre, which shall take the necessary legal actions in response.\n\n5. The Ministry and the competent authority shall provide effective channels and means of communication for receiving reports of domestic violence, including electronic channels, and shall inform the community about these channels and methods and raise awareness regarding them.\n\nSocial Support Centre : A centre that is dedicated to receive reports about domestic violence at the Ministry of Interior, federal and local Police",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Shelters shall receive victims referred to them by the Ministry, the competent authority, the Public\n2. Provide necessary shelter and care for the case.\nThe Ministry, the competent authority, or the Social Support Centre, upon receiving reports of domestic violence, may take the measure of referral to the shelter immediately in any of the following cases:",
+      "rationale": "The framework recognises shelters as facilities that receive victims referred by authorities and requires shelters to provide shelter and care; it also provides for emergency referral to shelter upon receiving domestic violence reports, which constitutes accommodation-based protection.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "Shelters shall receive victims referred to them by the Ministry, the competent authority, the Public\n\n2. Provide necessary shelter and care for the case.\n\nThe Ministry, the competent authority, or the Social Support Centre, upon receiving reports of domestic violence, may take the measure of referral to the shelter immediately in any of the following cases:",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "5. Provide legal consultancies and assistance to the victim when needed.",
+      "rationale": "The framework requires shelters to provide legal consultancies and assistance to the victim when needed, which is an operative provision establishing legal assistance as part of victim services.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "5. Provide legal consultancies and assistance to the victim when needed.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "4. Refer the victim to a healthcare facility if needed, and the facility shall prepare a medical report on the case.",
+      "rationale": "The framework includes an operative procedure requiring referral of the victim to a healthcare facility if needed and requiring the facility to prepare a medical report, establishing a health/medical response linked to domestic violence cases.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Refer the victim to a healthcare facility if needed, and the facility shall prepare a medical report on the case.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "4. Offer social and psychological counselling services as well as rehabilitation services for the offender and the victim or any family members of the victim, using all possible methods, including modern technologies, and shall coordinate with relevant authorities when needed.",
+      "rationale": "The framework requires shelters to offer social and psychological counselling services (including for the victim), which constitutes psychosocial/psychological support services for victims of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Offer social and psychological counselling services as well as rehabilitation services for the offender and the victim or any family members of the victim, using all possible methods, including modern technologies, and shall coordinate with relevant authorities when needed.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited provisions mention religious or spiritual counselling, faith-based guidance, or involvement of religious personnel/institutions in victim support.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "4. Offer social and psychological counselling services as well as rehabilitation services for the offender and the victim or any family members of the victim, using all possible methods, including modern technologies, and shall coordinate with relevant authorities when needed.",
+      "rationale": "The framework provides for rehabilitation services for the victim (and family members) through shelters, which constitutes a recovery/rehabilitation support measure beyond immediate protection.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "4. Offer social and psychological counselling services as well as rehabilitation services for the offender and the victim or any family members of the victim, using all possible methods, including modern technologies, and shall coordinate with relevant authorities when needed.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "In addition to the penalties prescribed in this Article, the competent court shall obligate the perpetrator of domestic violence to participate in rehabilitation courses against violence at specialized centres.",
+      "rationale": "The framework requires the competent court to obligate perpetrators of domestic violence to participate in rehabilitation courses against violence at specialized centres, establishing a perpetrator-focused behaviour-change/rehabilitation programme as part of sentencing.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "In addition to the penalties prescribed in this Article, the competent court shall obligate the perpetrator of domestic violence to participate in rehabilitation courses against violence at specialized centres.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "1. Raise awareness of the concept of domestic violence, its forms, dangers, and its negative impacts on individuals and society, as well as methods for dealing with it.",
+      "rationale": "The policy includes an operative obligation for authorities to raise awareness about domestic violence, including its forms, dangers, and negative impacts, which constitutes an explicit awareness-raising activity directed at violence (domestic violence) as a prevention-related measure.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Raise awareness of the concept of domestic violence, its forms, dangers, and its negative impacts on individuals and society, as well as methods for dealing with it.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on awareness of domestic violence and related reporting channels, training for those handling domestic violence cases, and other response mechanisms; none explicitly provide information/education/awareness activities about gender equality or women's rights, nor link such activities to preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy includes awareness-raising about domestic violence generally and informing victims about available legal measures, it does not specify dissemination/education/awareness about laws or policies concerning violence against women/domestic violence as such (i.e., public legal-awareness about the legal framework itself).",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention awareness-raising and training programs for those involved in handling domestic violence cases, and refer to providers of education services in reporting obligations, but do not identify educational institutions, curricula, or education-quality improvements as a violence-prevention measure.",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general awareness-raising about domestic violence and other measures, but do not provide prevention activities specifically engaging men or boys, nor do they address masculinities or gender-norm change targeted at men/boys for preventing violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe government obligations, reporting duties, shelters, and coordination with government entities and relevant authorities, but they do not explicitly establish, require, or authorise cooperation with civil society organisations or NGOs in preventing or responding to domestic violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention religious organisations/leaders or traditional/cultural leaders, nor do they establish any mechanism for engaging such actors in domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references providers of education services as potential reporters, but it does not establish or require collaboration with education institutions (e.g., schools/universities) as partners in prevention, awareness, research, or response to domestic violence.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of international organisations or any operative provision establishing cooperation with them on domestic violence/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the Ministry is tasked with awareness-raising and informing the community about reporting channels, the candidate sentences do not identify media organisations/actors or establish any media-specific partnership or engagement mechanism related to domestic violence/VAW.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The framework includes obligations to raise awareness and inform the community, and it imposes reporting duties on community members, but the coding rules exclude inferring engagement from reporting requirements and general awareness activities. The candidate sentences do not establish a mechanism for community participation/collaboration (e.g., community mobilisation programmes or community organisations as partners) in domestic violence prevention or response.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention businesses, employers, private-sector actors, or any partnership/obligation involving the private sector in domestic violence/VAW prevention or response.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention any funding or budget source, let alone a local government budget allocation. The text focuses on definitions, obligations, procedures, shelters, restraining orders, and penalties, without budgetary provisions.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference any national/federal budget line, appropriation, or funding source for implementation. They describe institutional responsibilities and legal procedures but contain no budget or funding language.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence mentions international assistance, donors, UN agencies, foreign governments, development partners, or any international cooperation/support. References are to domestic ministries, competent local authorities, police, prosecution, and courts only.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any funding/budget sources from other legal sources (e.g., earmarked funds, fines as a funding stream, special funds, or other legally established financing mechanisms). They include penalties and fee exemption, but not as a funding source for VAW measures.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention provincial-level budget allocations or funding sources. While they refer to a 'competent authority' as a local authority, there is no explicit budget/funding provision tied to provincial government budgets.",
+      "coverage": null,
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 21,
+    "resolved": 21,
+    "rate": 1.0
+  }
+}

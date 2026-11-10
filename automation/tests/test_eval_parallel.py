@@ -18,9 +18,10 @@ from automation.src.config_loader import (
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.rag.retriever import RetrievedChunk
-from automation.src.criteria import EXPECTED_INDICATOR_IDS
+from automation.src.criteria import list_criteria_files
 from automation.src.run_eval import (
     DimensionResult,
+    indicator_ids_in,
     _evaluate_policies_flat,
     _merge_dimension_results,
     run_evaluation_step,
@@ -158,24 +159,39 @@ def test_merge_dimension_results_evidence_original_aligned_rate_none_when_no_pai
     }
 
 
+V2 = AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2"
+V2_IDS = indicator_ids_in(V2)
+
+
+def test_the_expected_indicators_are_the_ones_in_the_prompt_used():
+    assert len(V2_IDS) == 56
+    assert len(indicator_ids_in(AUTOMATION_ROOT / "prompts" / "quality_eval" / "global_v1")) == 47
+
+
+def test_completeness_follows_the_prompt_not_the_active_project():
+    global_ids = indicator_ids_in(AUTOMATION_ROOT / "prompts" / "quality_eval" / "global_v1")
+    answers = {i: {"id": i} for i in global_ids}
+    assert validate_completeness(answers, global_ids) == (True, [])
+    ok, issues = validate_completeness(answers, V2_IDS)                 # the same answers against the wrong prompt
+    assert not ok and any("Missing" in i for i in issues) and any("Unexpected" in i for i in issues)
+
+
 def test_validate_completeness_detects_missing():
     partial = {"1.1": {"id": "1.1", "included": "Yes"}}
-    is_complete, issues = validate_completeness(partial)
+    is_complete, issues = validate_completeness(partial, V2_IDS)
     assert not is_complete
     assert any("Missing indicators" in issue for issue in issues)
 
 
 def test_validate_completeness_passes_for_full_set():
-    full = {indicator_id: {"id": indicator_id} for indicator_id in EXPECTED_INDICATOR_IDS}
-    is_complete, issues = validate_completeness(full)
+    full = {indicator_id: {"id": indicator_id} for indicator_id in V2_IDS}
+    is_complete, issues = validate_completeness(full, V2_IDS)
     assert is_complete
     assert issues == []
 
 
 def test_flat_scheduler_merges_dimensions(tmp_path):
     import re
-
-    from automation.src.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_COUNT
 
     policy_path = Path("policy.txt")
     rag_store_dir = tmp_path / "rag_store"
@@ -224,8 +240,8 @@ def test_flat_scheduler_merges_dimensions(tmp_path):
     )
     report, candidates_by_id = settled[policy_path]
 
-    assert len(report["completed_dimensions"]) == len(CRITERIA_FILES)
-    assert report["indicator_count"] == EXPECTED_INDICATOR_COUNT
+    assert len(report["completed_dimensions"]) == len(list_criteria_files(V2))
+    assert report["indicator_count"] == len(V2_IDS)
     assert report["evidence_verification_failures"] == []
     assert all(item["evidence_verified"] is True for item in report["evaluation_results"].values())
     assert set(candidates_by_id.keys()) == set(report["evaluation_results"].keys())
@@ -414,8 +430,6 @@ def test_total_threads_never_exceed_max_workers_across_policies_and_dimensions(p
 
 
 def test_policies_finish_in_queue_order_and_each_store_is_loaded_once(pipeline_config, data_root):
-    from automation.src.criteria import CRITERIA_FILES
-
     paths = [Path(f"{name}.txt") for name in ("A", "B", "C")]
     loads = []
     settled = []
@@ -447,4 +461,291 @@ def test_policies_finish_in_queue_order_and_each_store_is_loaded_once(pipeline_c
 
     assert settled == ["A", "B", "C"]
     assert len(loads) == 3                                        # one load per policy, not one per dimension
-    assert all(len(ids) == 1 for ids in store_ids.values()) and len(CRITERIA_FILES) > 1
+    assert all(len(ids) == 1 for ids in store_ids.values()) and len(list_criteria_files(V2)) > 1
+
+
+# --------------------------------------------------------------------------- only the cited chunks are aligned
+def _chunks(*ids):
+    return [RetrievedChunk(chunk_id=i, text=f"Sentence of chunk {i}.", score=1.0 - i / 10, source_text=f"Kalimat {i}.") for i in ids]
+
+
+def test_cited_candidates_keeps_only_what_a_yes_answer_cites():
+    from automation.src.rag.prompt_builder import cited_candidates
+
+    candidates = {"1.1": _chunks(1, 2, 3), "1.2": _chunks(1, 2), "1.3": _chunks(4)}
+    batch = {
+        "1.1": {"included": "Yes", "evidence": ["1.1-2.0", "[1.1-2.3]", " 1.1-3.1 "]},
+        "1.2": {"included": "No", "evidence": ["1.2-1.0"]},                      # a No cites nothing that is shown
+        "1.3": {"included": "Yes", "evidence": ["some transcribed text"]},       # not a tag: nothing to align
+    }
+
+    kept = cited_candidates(batch, candidates)
+
+    assert {cid: [c.chunk_id for c in cs] for cid, cs in kept.items()} == {"1.1": [2, 3]}
+
+
+def test_a_tag_only_cites_a_chunk_of_its_own_criterion():
+    from automation.src.rag.prompt_builder import cited_candidates
+
+    kept = cited_candidates(
+        {"1.1": {"included": "Yes", "evidence": ["1.2-1.0"]}},                  # cites criterion 1.2's chunk 1
+        {"1.1": _chunks(1), "1.2": _chunks(1)},
+    )
+
+    assert {cid: [c.chunk_id for c in cs] for cid, cs in kept.items()} == {"1.2": [1]}
+
+
+def test_nothing_cited_means_nothing_to_align():
+    from automation.src.rag.prompt_builder import cited_candidates
+
+    assert cited_candidates({"1.1": {"included": "Yes", "evidence": None}, "1.2": {"included": "No"}}, {"1.1": _chunks(1)}) == {}
+
+
+def _dimension_run(tmp_path, *, verification, cited_tags):
+    """Run one dimension with 4 retrieved chunks per criterion; return the chunk ids that were aligned."""
+    from automation.src.criteria import list_criteria_files
+    from automation.src.run_eval import _evaluate_dimension
+
+    folder = AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2"
+    criteria_file = list_criteria_files(folder)[0]
+    store = [
+        {"chunk_id": i, "section_id": 0, "chunk_index": i, "type": "pasal", "text": f"Evidence sentence {i}.",
+         "source_text": f"Kalimat bukti {i}.", "embedding": [1.0, 0.0]}
+        for i in range(4)
+    ]
+    embedder = MagicMock()
+    embedder.embed_texts.side_effect = lambda texts: [[1.0, 0.0] for _ in texts]
+    aligned: list[int] = []
+
+    def fake_align(candidate, method="vecalign"):
+        aligned.append(candidate.chunk_id)
+        return {0: (candidate.source_text, "sentence")}
+
+    from automation.src.rag.prompt_builder import parse_criteria_lines
+
+    first_id = parse_criteria_lines(str(folder / criteria_file))[0].id        # an indicator of THIS dimension
+
+    def complete_fn(prompt):
+        return {"evaluation_results": {first_id: {"id": first_id, "indicator": "x", "included": "Yes",
+                                                  "evidence": [t.replace("ID", first_id) for t in cited_tags], "rationale": "r"}}}
+
+    retrieval = RetrievalConfig(
+        top_k=4, hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60), reranker=RerankerConfig(enabled=False),
+        evidence_verification_enabled=verification,
+    )
+    with patch("automation.src.rag.prompt_builder.align_chunk_evidence", side_effect=fake_align):
+        result = _evaluate_dimension(Path("p.txt"), criteria_file, folder, "{{CRITERIA_WITH_CANDIDATES}}", store,
+                                     embedder, retrieval, complete_fn)
+    return result, sorted(set(aligned))
+
+
+def test_only_the_chunks_the_judge_cited_are_aligned(tmp_path):
+    result, aligned = _dimension_run(tmp_path, verification=True, cited_tags=["ID-1.0"])
+
+    assert aligned == [1]                                   # 4 chunks were retrieved for every indicator; 1 was cited
+    item = next(iter(result.batch_evals.values()))
+    assert item["evidence"] == "Evidence sentence 1." and item["evidence_original"] == "Kalimat bukti 1."
+    assert item["evidence_verified"] is True and item["evidence_original_aligned"] is True
+
+
+def test_no_alignment_at_all_when_evidence_verification_is_off(tmp_path):
+    result, aligned = _dimension_run(tmp_path, verification=False, cited_tags=["ID-1.0"])
+
+    assert aligned == []
+    assert next(iter(result.batch_evals.values()))["evidence_original"] is None
+
+
+def test_a_citation_that_does_not_resolve_costs_no_alignment(tmp_path):
+    result, aligned = _dimension_run(tmp_path, verification=True, cited_tags=["ID-9.0"])
+
+    assert aligned == []
+    assert next(iter(result.batch_evals.values()))["evidence_verified"] is False
+
+
+# --------------------------------------------------------------------------- a prompt too long for one call is split
+def _rows_and_candidates(n_chunks=3, chunk_chars=4000):
+    from automation.src.criteria import list_criteria_files
+    from automation.src.rag.prompt_builder import parse_criteria_lines
+
+    folder = AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2"
+    rows = parse_criteria_lines(str(folder / list_criteria_files(folder)[0]))
+    candidates = {
+        row.id: [
+            RetrievedChunk(
+                chunk_id=i,
+                text=" ".join(f"Sentence {k} of chunk {i} for {row.id}." for k in range(chunk_chars // 40)),
+                score=1.0 - i / 10,
+            )
+            for i in range(n_chunks)
+        ]
+        for row in rows
+    }
+    return rows, candidates
+
+
+class _Recorder:
+    """A fake judge: answers every indicator whose heading is in the prompt, and remembers the prompts."""
+
+    def __init__(self, rows, refuse_if=None):
+        self.rows, self.prompts, self.refuse_if = rows, [], refuse_if
+
+    def __call__(self, prompt):
+        from automation.src.llm.wrapper import ContextLengthExceeded
+
+        self.prompts.append(prompt)
+        if self.refuse_if and self.refuse_if(prompt):
+            raise ContextLengthExceeded("too long", limit=272000, actual=413247, details={}, attempts=1)
+        return {"evaluation_results": {r.id: {"id": r.id, "included": "No"} for r in self.rows if f"- {r.id} (" in prompt}}
+
+
+def test_a_prompt_that_fits_is_sent_whole_and_unchanged():
+    from automation.src.rag.prompt_builder import format_criteria_with_candidates
+    from automation.src.run_eval import _judge_in_parts
+
+    rows, candidates = _rows_and_candidates(n_chunks=1, chunk_chars=400)
+    judge = _Recorder(rows)
+
+    judged = _judge_in_parts(rows, candidates, "HEAD {{CRITERIA_WITH_CANDIDATES}} TAIL", judge, 200_000)
+
+    assert judged.calls == 1 and judged.trim.trimmed is False
+    assert judge.prompts == ["HEAD " + format_criteria_with_candidates(rows, candidates) + " TAIL"]   # byte-identical to before
+    assert set(judged.batch_evals) == {r.id for r in rows}
+
+
+def test_a_prompt_over_the_budget_is_split_and_nothing_is_dropped():
+    from automation.src.rag.prompt_builder import CHARS_PER_TOKEN
+    from automation.src.run_eval import _judge_in_parts
+
+    rows, candidates = _rows_and_candidates()
+    judge = _Recorder(rows)
+    budget_tokens = 12_000                                              # one whole dimension is several times that
+
+    judged = _judge_in_parts(rows, candidates, "{{CRITERIA_WITH_CANDIDATES}}", judge, budget_tokens)
+
+    assert judged.calls == len(judge.prompts) > 1
+    assert all(len(p) <= budget_tokens * CHARS_PER_TOKEN for p in judge.prompts)       # every part fits
+    assert set(judged.batch_evals) == {r.id for r in rows}                             # every indicator answered once
+    assert judged.trim.trimmed is False                                                # and none of its candidates cut
+    for row in rows:                                                                   # all candidates of an indicator are in its part
+        part = next(p for p in judge.prompts if f"- {row.id} (" in p)
+        assert all(f"[{row.id}-{c.chunk_id}.0]" in part for c in candidates[row.id])
+    sent = [r.id for p in judge.prompts for r in rows if f"- {r.id} (" in p]
+    assert sorted(sent) == sorted(r.id for r in rows)                                  # an indicator is in exactly one part
+
+
+def test_the_split_keeps_the_order_and_balances_the_parts():
+    from automation.src.run_eval import _split_in_two
+
+    class Row:
+        def __init__(self, id):
+            self.id = id
+
+    rows = [Row(str(i)) for i in range(5)]
+    left, right = _split_in_two(rows, {"0": 10, "1": 10, "2": 10, "3": 10, "4": 60})
+    assert [r.id for r in left] == ["0", "1", "2", "3"] and [r.id for r in right] == ["4"]       # 40 vs 60
+    left, right = _split_in_two(rows[:2], {"0": 1, "1": 1000})
+    assert [r.id for r in left] == ["0"] and [r.id for r in right] == ["1"]                        # never an empty side
+
+
+def test_a_prompt_the_model_refuses_is_split_even_when_the_estimate_said_it_fits():
+    from automation.src.run_eval import _judge_in_parts
+
+    rows, candidates = _rows_and_candidates(n_chunks=1, chunk_chars=400)
+    judge = _Recorder(rows, refuse_if=lambda prompt: sum(f"- {r.id} (" in prompt for r in rows) > 3)
+
+    judged = _judge_in_parts(rows, candidates, "{{CRITERIA_WITH_CANDIDATES}}", judge, 200_000)
+
+    assert judged.calls >= 3 and set(judged.batch_evals) == {r.id for r in rows}
+    accepted = [p for p in judge.prompts if sum(f"- {r.id} (" in p for r in rows) <= 3]
+    assert len(accepted) == judged.calls                                                           # only the small parts were answered
+
+
+def test_one_indicator_too_long_even_alone_has_its_candidates_trimmed_and_reported():
+    from automation.src.rag.prompt_builder import CHARS_PER_TOKEN
+    from automation.src.run_eval import _judge_in_parts
+
+    rows, candidates = _rows_and_candidates(n_chunks=6, chunk_chars=6000)
+    one = rows[:1]
+    judge = _Recorder(one)
+
+    judged = _judge_in_parts(one, {one[0].id: candidates[one[0].id]}, "{{CRITERIA_WITH_CANDIDATES}}", judge, 3_000)
+
+    assert judged.calls == 1 and judged.trim.trimmed
+    assert judged.trim.indicators == [one[0].id] and judged.trim.dropped_candidates + judged.trim.truncated_candidates > 0
+    assert len(judge.prompts[0]) <= 3_000 * CHARS_PER_TOKEN
+
+
+def test_a_single_indicator_the_model_keeps_refusing_gives_up_after_a_few_smaller_tries():
+    from automation.src.llm.wrapper import ContextLengthExceeded
+    from automation.src.run_eval import _MAX_SHRINKS, _judge_in_parts
+
+    rows, candidates = _rows_and_candidates(n_chunks=2, chunk_chars=2000)
+    one = rows[:1]
+    judge = _Recorder(one, refuse_if=lambda prompt: True)
+
+    with pytest.raises(ContextLengthExceeded):
+        _judge_in_parts(one, {one[0].id: candidates[one[0].id]}, "{{CRITERIA_WITH_CANDIDATES}}", judge, 200_000)
+
+    sizes = [len(p) for p in judge.prompts]
+    assert len(sizes) == _MAX_SHRINKS + 1 and sizes == sorted(sizes, reverse=True) and sizes[-1] < sizes[0]
+
+
+def test_the_report_says_which_dimensions_were_split_or_trimmed_and_only_then():
+    from automation.src.run_eval import DimensionResult, _merge_dimension_results
+
+    plain = DimensionResult(criteria_file="01_a.txt", batch_evals={"1.1": {"id": "1.1", "included": "No"}})
+    split = DimensionResult(criteria_file="02_b.txt", batch_evals={"2.1": {"id": "2.1", "included": "No"}}, prompt_parts=2)
+    trimmed = DimensionResult(criteria_file="03_c.txt", batch_evals={}, prompt_parts=1, prompt_trim={"dropped_candidates": 3})
+
+    report, _ = _merge_dimension_results(Path("p.txt"), "gpt", "v", [plain, split, trimmed])
+    assert report["split_dimensions"] == {"02_b.txt": 2} and report["prompt_trimmed"] == {"03_c.txt": {"dropped_candidates": 3}}
+
+    report, _ = _merge_dimension_results(Path("p.txt"), "gpt", "v", [plain])
+    assert "split_dimensions" not in report and "prompt_trimmed" not in report            # unchanged for ordinary runs
+
+
+def test_evaluate_dimension_splits_when_the_budget_is_small(tmp_path):
+    from automation.src.criteria import list_criteria_files
+    from automation.src.run_eval import _evaluate_dimension
+
+    folder = AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2"
+    criteria_file = list_criteria_files(folder)[0]
+    store = [
+        {"chunk_id": i, "section_id": 0, "chunk_index": i, "type": "pasal",
+         "text": " ".join(f"Evidence sentence {k} of chunk {i}." for k in range(150)), "source_text": None, "embedding": [1.0, 0.0]}
+        for i in range(4)
+    ]
+    embedder = MagicMock()
+    embedder.embed_texts.side_effect = lambda texts: [[1.0, 0.0] for _ in texts]
+    rows, _ = _rows_and_candidates(n_chunks=1, chunk_chars=40)
+    judge = _Recorder(rows)
+    retrieval = RetrievalConfig(
+        top_k=4, hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60), reranker=RerankerConfig(enabled=False),
+        evidence_verification_enabled=False, max_prompt_tokens=12_000,
+    )
+
+    result = _evaluate_dimension(Path("p.txt"), criteria_file, folder, "{{CRITERIA_WITH_CANDIDATES}}", store, embedder, retrieval, judge)
+
+    assert result.error is None and result.prompt_parts == len(judge.prompts) > 1
+    assert set(result.batch_evals) == {r.id for r in rows}
+
+
+def test_evaluation_stops_before_any_model_call_when_the_criteria_files_are_malformed(pipeline_config, data_root, tmp_path):
+    import dataclasses
+
+    bad = tmp_path / "bad_prompt"
+    bad.mkdir()
+    (bad / "01_dim.txt").write_text("1.1 | A | Q?\n5. Not a criterion | but it looks like one\n", encoding="utf-8")
+    (bad / "prompt_template.txt").write_text("{{CRITERIA_WITH_CANDIDATES}}", encoding="utf-8")
+    config = dataclasses.replace(pipeline_config, evaluation_criteria_dir=bad, evaluation_template_path=bad / "prompt_template.txt")
+    policy_dir = data_root / "results" / "translation"
+    policy_dir.mkdir(parents=True)
+    (policy_dir / "A.txt").write_text("policy A", encoding="utf-8")
+    wrapper = MagicMock()
+    wrapper.profile.deployment = "gpt-4o"
+
+    with pytest.raises(ValueError, match="malformed"):
+        run_evaluation_step(config=config, wrapper=wrapper, embedder=MagicMock(),
+                            limiter=ConcurrencyLimiter(max_workers=2, enabled=True), small_scale=False, allow_partial=False)
+
+    wrapper.complete_structured.assert_not_called()

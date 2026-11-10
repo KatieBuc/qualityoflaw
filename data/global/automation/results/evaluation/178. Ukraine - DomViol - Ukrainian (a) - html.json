@@ -1,0 +1,979 @@
+{
+  "policy_file": "178. Ukraine - DomViol - Ukrainian (a) - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T21:12:19.336481+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "This Law defines the organizational and legal framework for preventing and counteracting domestic violence, the main directions for implementing state policy in the field of preventing and counteracting domestic violence, aimed at protecting the rights and interests of persons who have suffered from such violence.\n3) domestic violence - acts (actions or omissions) of physical, sexual, psychological or economic violence committed in the family or within the place of residence, or between relatives, or between former or current spouses, or between other persons who live together (lived together) as one family but are not (were not) in family relations or in marriage with each other, regardless of whether the person who committed domestic violence lives (lived) in the same place as the affected person, as well as threats to commit such acts;",
+      "rationale": "The candidate sentences explicitly establish a law on prevention and counteraction to domestic violence and define “domestic violence” in operative terms, creating a legal framework and scope for prevention/counteraction and protection of affected persons.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "Цей Закон визначає організаційно-правові засади запобігання та протидії домашньому насильству, основні напрями реалізації державної політики у сфері запобігання та протидії домашньому насильству, спрямовані на захист прав та інтересів осіб, які постраждали від такого насильства.\n\n3) домашнє насильство - діяння (дії або бездіяльність) фізичного, сексуального, психологічного або економічного насильства, що вчиняються в сім’ї чи в межах місця проживання або між родичами, або між колишнім чи теперішнім подружжям, або між іншими особами, які спільно проживають (проживали) однією сім’єю, але не перебувають (не перебували) у родинних відносинах чи у шлюбі між собою, незалежно від того, чи проживає (проживала) особа, яка вчинила домашнє насильство, у тому самому місці, що й постраждала особа, а також погрози вчинення таких діянь;",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "15) sexual violence - a form of domestic violence that includes any acts of a sexual nature committed against an adult person without their consent or against a child regardless of their consent, or in the presence of a child, coercion to an act of a sexual nature with a third party, as well as other offenses against sexual freedom or sexual integrity of a person, including those committed against a child or in their presence;",
+      "rationale": "The candidate sentences include an operative definition of “sexual violence” as a form of domestic violence, indicating it is a covered category within the legal framework with legal consequences under the domestic-violence regime.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) дитина-кривдник - особа, яка не досягла 18 років та вчинила домашнє насильство у будь-якій формі; 2) дитина, яка постраждала від домашнього насильства (далі - постраждала дитина), - особа, яка не досягла 18 років та зазнала домашнього насильства у будь-якій формі або стала свідком (очевидцем) такого насильства; 3) домашнє насильство - діяння (дії або бездіяльність) фізичного, сексуального, психологічного або економічного насильства, що вчиняються в сім’ї чи в межах місця проживання або між родичами, або між колишнім чи теперішнім подружжям, або між іншими особами, які спільно проживають (проживали) однією сім’єю, але не перебувають (не перебували) у родинних відносинах чи у шлюбі між собою, незалежно від того, чи проживає (проживала) особа, яка вчинила домашнє насильство, у тому самому місці, що й постраждала особа, а також погрози вчинення таких діянь; 4) економічне насильство - форма домашнього насильства, що включає умисне позбавлення житла, їжі, одягу, іншого майна, коштів чи документів або можливості користуватися ними, залишення без догляду чи піклування, перешкоджання в отриманні необхідних послуг з лікування чи реабілітації, заборону працювати, примушування до праці, заборону навчатися та інші правопорушення економічного характеру;",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "17) physical violence - a form of domestic violence that includes slaps, blows, pushing, pinching, whipping, biting, as well as unlawful deprivation of liberty, beating, torture, infliction of bodily injuries of varying degrees of severity, leaving in danger, failure to provide assistance to a person who is in a life-threatening condition, causing death, commission of other violent offenses.",
+      "rationale": "The candidate sentences provide an operative definition of “physical violence” as a form of domestic violence, listing specific acts (e.g., blows, beating, torture, bodily injuries), which constitutes substantive coverage as a defined covered form of violence within the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "15) сексуальне насильство - форма домашнього насильства, що включає будь-які діяння сексуального характеру, вчинені стосовно повнолітньої особи без її згоди або стосовно дитини незалежно від її згоди, або в присутності дитини, примушування до акту сексуального характеру з третьою особою, а також інші правопорушення проти статевої свободи чи статевої недоторканості особи, у тому числі вчинені стосовно дитини або в її присутності; 16) терміновий заборонний припис стосовно кривдника - спеціальний захід протидії домашньому насильству, що вживається уповноваженими підрозділами органів Національної поліції України як реагування на факт домашнього насильства та спрямований на негайне припинення домашнього насильства, усунення небезпеки для життя і здоров’я постраждалих осіб та недопущення продовження чи повторного вчинення такого насильства; 17) фізичне насильство - форма домашнього насильства, що включає ляпаси, стусани, штовхання, щипання, шмагання, кусання, а також незаконне позбавлення волі, нанесення побоїв, мордування, заподіяння тілесних ушкоджень різного ступеня тяжкості, залишення в небезпеці, ненадання допомоги особі, яка перебуває в небезпечному для життя стані, заподіяння смерті, вчинення інших правопорушень насильницького характеру.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "14) psychological violence - a form of domestic violence that includes verbal insults, threats, including against third parties, humiliation, harassment, intimidation, other acts aimed at restricting the expression of will of a person, control in the reproductive sphere, if such actions or omissions caused the affected person to fear for their safety or the safety of third parties, caused emotional insecurity, inability to defend themselves or caused harm to the mental health of the person;",
+      "rationale": "The candidate sentences explicitly define “psychological violence” as a form of domestic violence and describe its components (e.g., threats, humiliation, intimidation, control), which is substantive legal coverage through an operative definition/classification.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "14) психологічне насильство - форма домашнього насильства, що включає словесні образи, погрози, у тому числі щодо третіх осіб, приниження, переслідування, залякування, інші діяння, спрямовані на обмеження волевиявлення особи, контроль у репродуктивній сфері, якщо такі дії або бездіяльність викликали у постраждалої особи побоювання за свою безпеку чи безпеку третіх осіб, спричинили емоційну невпевненість, нездатність захистити себе або завдали шкоди психічному здоров’ю особи; 15) сексуальне насильство - форма домашнього насильства, що включає будь-які діяння сексуального характеру, вчинені стосовно повнолітньої особи без її згоди або стосовно дитини незалежно від її згоди, або в присутності дитини, примушування до акту сексуального характеру з третьою особою, а також інші правопорушення проти статевої свободи чи статевої недоторканості особи, у тому числі вчинені стосовно дитини або в її присутності; 16) терміновий заборонний припис стосовно кривдника - спеціальний захід протидії домашньому насильству, що вживається уповноваженими підрозділами органів Національної поліції України як реагування на факт домашнього насильства та спрямований на негайне припинення домашнього насильства, усунення небезпеки для життя і здоров’я постраждалих осіб та недопущення продовження чи повторного вчинення такого насильства; 17) фізичне насильство - форма домашнього насильства, що включає ляпаси, стусани, штовхання, щипання, шмагання, кусання, а також незаконне позбавлення волі, нанесення побоїв, мордування, заподіяння тілесних ушкоджень різного ступеня тяжкості, залишення в небезпеці, ненадання допомоги особі, яка перебуває в небезпечному для життя стані, заподіяння смерті, вчинення інших правопорушень насильницького характеру.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "4) economic violence - a form of domestic violence that includes intentional deprivation of housing, food, clothing, other property, funds or documents or the possibility to use them, leaving without care or custody, obstruction in receiving necessary services for treatment or rehabilitation, prohibition to work, coercion to work, prohibition to study and other offenses of an economic nature;",
+      "rationale": "The candidate sentences explicitly define “economic violence” as a form of domestic violence and specify behaviors such as deprivation of housing/food/clothing/funds, obstruction of services, and prohibitions/coercion related to work/study, meeting the criterion for substantive inclusion as a defined form of violence with legal relevance in the framework.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.96,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.96
+      },
+      "evidence_verified": true,
+      "evidence_original": "4) економічне насильство - форма домашнього насильства, що включає умисне позбавлення житла, їжі, одягу, іншого майна, коштів чи документів або можливості користуватися ними, залишення без догляду чи піклування, перешкоджання в отриманні необхідних послуг з лікування чи реабілітації, заборону працювати, примушування до праці, заборону навчатися та інші правопорушення економічного характеру;",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence and gender-based violence generally (prevention measures, restrictive orders, victim rights, services, and definitions), but they do not mention or regulate any of the specified harmful practices (e.g., child/early marriage, FGM/C, honour crimes, female infanticide) or similar practices. Therefore, the framework shown does not address harmful practices as defined by the coding rules.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the provided sentences, the framework discusses gender-based violence prevention, protection, restrictive orders, and registries, but it does not mention femicide/feminicide, gender-motivated killing of women, or any equivalent term, nor does it treat such killing as a distinct category or aggravating factor. Thus, it does not meet the criterion’s requirement that femicide appear in the framework.",
+      "coverage": null,
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only potentially related language concerns “illegal transactions concerning a child… committed for the purpose of exploitation” and general references to “exploitation, including sexual violence” in the child-protection context, but none of the candidate sentences explicitly mention human trafficking/trafficking in persons or trafficking victims, nor do they define/prohibit trafficking or establish trafficking-specific protections. Under the coding rules, general exploitation language without trafficking is insufficient.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference “sexual violence” (as a form of domestic violence) and mention “exploitation” in general terms (including in relation to illegal transactions concerning a child), but they do not specifically address sexual exploitation or sexual slavery (e.g., exploitation for sexual purposes, forced prostitution/sexual services, sexual slavery) as required by the coding rules. Mentions of sexual violence alone do not establish a sexual-exploitation nexus.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to administrative/digital systems (e.g., an automated register and electronic signatures/identification) and communication channels (call centers), but they do not define, prohibit, or otherwise recognize cyber/online/digital forms of violence (e.g., cyber harassment, cyberbullying, online sexual exploitation) as forms of violence with legal consequences. The coding rules exclude mere use of digital systems for service delivery.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions define domestic violence and set out administrative penalties (e.g., fines/community service/administrative arrest) and other measures (restrictive orders, perpetrator programs), and mention that criminal proceedings may be initiated under the Criminal Code, but none of the candidate sentences establish a criminal offence with a criminal sanction for a form of violence against women. References to being brought to criminal liability are conditional and do not define an offence or specify criminal penalties for VAW within these excerpts.",
+      "coverage": null,
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "A victim or their representative, and in case of commission of gender-based violence against a child - parents or other legal representatives of the child, relatives of the child (grandmother, grandfather, adult brother, sister), stepmother or stepfather of the child, as well as the guardianship and trusteeship authority have the right to apply to the court with a petition for issuing a restrictive order against the perpetrator.\nA restrictive order is issued for a period from one to six months.\nCommission of domestic violence, gender-based violence, that is, intentional commission of any acts (actions or inaction) of a physical, psychological or economic nature (use of violence that did not cause bodily injuries, threats, insults or harassment, deprivation of housing, food, clothing, other property or funds to which the victim has a right provided by law, etc.), as a result of which harm could have been or was caused to the physical or mental health of the victim, as well as failure to comply with an urgent restraining order by a person in respect of whom it was issued, or failure to notify the authorized units of the National Police of Ukraine about the place of one's temporary stay in case of its issuance, - entail the imposition of a fine from ten to twenty non-taxable minimum incomes of citizens or community service for a term from thirty to forty hours, or administrative arrest for a term of up to seven days.",
+      "rationale": "The framework provides for a restrictive order: it specifies who may apply (victim/representative and others for child cases), the issuing authority (court), and the duration (one to six months). It also specifies a consequence for breach via an administrative sanction for failure to comply with an urgent restraining order (fine/community service/administrative arrest), satisfying the breach-consequence element under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Постраждала особа або її представник, а в разі вчинення насильства за ознакою статі стосовно дитини - батьки або інші законні представники дитини, родичі дитини (баба, дід, повнолітні брат, сестра), мачуха або вітчим дитини, а також орган опіки та піклування мають право звернутися до суду із заявою про видачу обмежувального припису стосовно кривдника.\n\nОбмежувальний припис видається на строк від одного до шести місяців.\n\nВчинення домашнього насильства, насильства за ознакою статі, тобто умисне вчинення будь-яких діянь (дій або бездіяльності) фізичного, психологічного чи економічного характеру (застосування насильства, що не спричинило тілесних ушкоджень, погрози, образи чи переслідування, позбавлення житла, їжі, одягу, іншого майна або коштів, на які потерпілий має передбачене законом право, тощо), внаслідок чого могла бути чи була завдана шкода фізичному або психічному здоров’ю потерпілого, а так само невиконання термінового заборонного припису особою, стосовно якої він винесений, або неповідомлення уповноваженим підрозділам органів Національної поліції України про місце свого тимчасового перебування в разі його винесення, - тягнуть за собою накладення штрафу від десяти до двадцяти неоподатковуваних мінімумів доходів громадян або громадські роботи на строк від тридцяти до сорока годин, або адміністративний арешт на строк до семи діб.",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to “authorized subdivisions/units of the National Police of Ukraine” with powers related to domestic violence response, but they do not establish or mandate a specialised unit within police services specifically for victims of violence against women (e.g., a dedicated women’s/family protection unit/desk) with a defined VAW-specific mandate. The text describes police functions generally rather than creating a specialised VAW victim unit.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe court procedures for issuing restrictive injunctions (including a 72-hour consideration timeline) but do not establish a specialised court, chamber, designated judicial officer, or specialised judicial procedure specifically for violence against women cases beyond the general restraining-order process. No specialised VAW court mechanism is designated in the candidate sentences.",
+      "coverage": null,
+      "confidence": 0.66,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.66
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define domestic violence (including sexual violence) and outline protective measures and general principles, but they do not expressly criminalise rape/sexual violence within marriage, state that spousal status is not a defence, or otherwise remove a spousal exemption from criminal liability for sexual offences. Under the coding rules, general references to sexual violence or domestic violence are insufficient without explicit applicability to spouses/intimate partners for rape/sexual offences.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "1. Interaction of entities carrying out measures in the sphere of prevention and counteraction of domestic violence provides for:\n3. The procedure for interaction of entities carrying out measures in the sphere of prevention and counteraction of domestic violence is approved by the Cabinet of Ministers of Ukraine.",
+      "rationale": "The framework sets out an inter-entity “interaction” mechanism for domestic violence response, including mutual notification, coordinated response measures, and other joint actions, and specifies that the Cabinet of Ministers approves the procedure for such interaction—together constituting a formal coordination process rather than a mere aspiration to cooperate.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Взаємодія суб’єктів, що здійснюють заходи у сфері запобігання та протидії домашньому насильству, передбачає:\n\n3. Порядок взаємодії суб’єктів, що здійснюють заходи у сфері запобігання та протидії домашньому насильству, затверджується Кабінетом Міністрів України.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "1. The Unified State Register of Cases of Domestic Violence and Gender-Based Violence (hereinafter - the Register) is an automated information and communication system designed for the collection, registration, accumulation, storage, adaptation, modification, renewal, use, distribution (dissemination, implementation, transfer), depersonalization and destruction of data defined by this Law on cases of domestic violence and gender-based violence.\n8. The holder of the Register is the central executive body that implements state policy in the field of prevention and counteraction of domestic violence.",
+      "rationale": "The framework establishes a Unified State Register as an automated system for collection/registration/storage and other data operations on domestic and gender-based violence cases, and assigns a specific central executive body as the holder of the Register, satisfying the requirement for a mandated information system and responsible entity.",
+      "coverage": "Substantive",
+      "confidence": 0.96,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.96
+      },
+      "coverage_confidence": 0.94,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.94
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Єдиний державний реєстр випадків домашнього насильства та насильства за ознакою статі (далі - Реєстр) - це автоматизована інформаційно-комунікаційна система, призначена для збирання, реєстрації, накопичення, зберігання, адаптування, зміни, поновлення, використання, поширення (розповсюдження, реалізації, передачі), знеособлення і знищення визначених цим Законом даних про випадки домашнього насильства та насильства за ознакою статі.\n\n8. Держателем Реєстру є центральний орган виконавчої влади, що реалізує державну політику у сфері запобігання та протидії домашньому насильству.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address gender equality and prevention/counteraction of gender-based violence, coordination structures, and non-discrimination, but do not explicitly require or establish “gender mainstreaming” as an institutional mechanism (e.g., mainstreaming requirement, focal points/working group for mainstreaming, or mainstreaming in planning/budgeting).",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "8) coordinated inter-agency training of specialists representing entities carrying out measures in the sphere of prevention and counteraction of domestic violence;\n5) ensuring the training of specialists whose competence includes issues of preventing and combating domestic violence, including specialists who implement programs for offenders;",
+      "rationale": "The framework provides for coordinated inter-agency training of specialists involved in domestic violence measures and assigns local/regional authorities responsibility to ensure training of specialists whose competence includes preventing and combating domestic violence, which constitutes mandated capacity building for implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "8) скоординовану міжвідомчу підготовку фахівців, які представляють суб’єктів, що здійснюють заходи у сфері запобігання та протидії домашньому насильству;\n\n5) забезпечення підготовки фахівців, до компетенції яких належать питання запобігання та протидії домашньому насильству, у тому числі фахівців, які реалізують програми для кривдників;",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "7) ensuring the monitoring of the effectiveness of legislation on prevention and counteraction of domestic violence, practice of its application, measures in the field of prevention and counteraction of domestic violence, provision of methodological and practical assistance to entities carrying out measures in the field of prevention and counteraction of domestic violence;\n8) preparation and publication of an annual report on the state of implementation of state policy in the field of prevention and counteraction of domestic violence;",
+      "rationale": "The framework assigns the central executive body implementing state policy responsibilities to monitor effectiveness of legislation/measures and to prepare and publish an annual report on implementation of state policy, which together establish monitoring/reporting mechanisms for implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "7) забезпечення здійснення моніторингу ефективності законодавства про запобігання та протидію домашньому насильству, практики його застосування, заходів у сфері запобігання та протидії домашньому насильству, надання методичної та практичної допомоги суб’єктам, що здійснюють заходи у сфері запобігання та протидії домашньому насильству;\n\n8) підготовка та оприлюднення щорічного звіту про стан реалізації державної політики у сфері запобігання та протидії домашньому насильству;",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "1. Financial support of measures in the field of prevention and counteraction of domestic violence, provision of assistance to victims, as well as the creation and ensuring of the functioning of the Unified State Register of Cases of Domestic Violence and Gender-Based Violence is carried out at the expense of state and local budgets, funds of enterprises, institutions and organizations, trade unions, voluntary contributions of legal entities and individuals, and other sources not prohibited by law.",
+      "rationale": "The framework provides that financial support for prevention/counteraction measures, victim assistance, and the violence case register “is carried out” at the expense of state and local budgets and other sources, which functions as an operative funding provision tied to implementation activities.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.66,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.66
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Фінансове забезпечення заходів у сфері запобігання та протидії домашньому насильству, надання допомоги постраждалим особам, а також створення та забезпечення функціонування Єдиного державного реєстру випадків домашнього насильства та насильства за ознакою статі здійснюється за рахунок коштів державного та місцевих бюджетів, коштів підприємств, установ та організацій, професійних спілок, добровільних внесків юридичних і фізичних осіб, інших джерел, не заборонених законодавством.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe multiple separate victim-support services (general/specialized support services, shelters, call center, mobile teams) and general requirements for inter-agency interaction/coordination, but they do not explicitly establish or recognize a single integrated/one-stop/multidisciplinary service mechanism (or equivalent designated integrated mechanism) specifically for women victims/survivors of violence. The text focuses on service powers and access pathways rather than creating an integrated service unit/center as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "The provision of assistance and protection to victims is carried out in the following areas: providing the victim with information about their rights and opportunities for their realization in a language understandable to them or through an interpreter or an involved third party who speaks a language understandable to the victim; ensuring victims' access to specialized support services for victims and receiving social services they provide; providing, if necessary, temporary shelter for safe accommodation of victims, especially women with children; ensuring victims' access to justice and other legal protection mechanisms, including by providing free legal aid in the manner established by the Law of Ukraine \"On Free Legal Aid\"; establishment of a round-the-clock free call center on prevention and counteraction of domestic violence, gender-based violence and violence against children to ensure immediate response by authorized units of the bodies of the National Police of Ukraine, other state authorities and local self-government bodies defined by this Law, to cases of gender-based violence, providing consultations on gender-based violence to subscribers anonymously or with due regard for confidentiality requirements and personal data protection; providing qualified consultations in case of commission of gender-based violence with compliance with the legal regime of information with restricted access.\nThe call center on prevention and counteraction to domestic violence, gender-based violence and violence against children is established by the central executive authority that ensures the formation of state policy in the field of prevention and counteraction to domestic violence, belongs to its sphere of management and operates on the basis of regulations approved by this body.",
+      "rationale": "The framework mandates establishment of a round-the-clock free call center related to domestic violence, gender-based violence and violence against children, and specifies that this call center is established by a central executive authority. This constitutes an operative reporting/help-seeking mechanism through which victims can seek assistance and trigger immediate response.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Надання допомоги та захисту постраждалим особам здійснюється за такими напрямами: надання постраждалій особі інформації про її права та можливості їх реалізації зрозумілою їй мовою або через перекладача чи залучену третю особу, яка володіє мовою, зрозумілою для постраждалої особи; забезпечення постраждалим особам доступу до спеціалізованих служб підтримки постраждалих осіб та отримання соціальних послуг, які вони надають; надання у разі потреби тимчасового притулку для безпечного розміщення постраждалих осіб, особливо жінок з дітьми; забезпечення постраждалим особам доступу до правосуддя та інших механізмів юридичного захисту, у тому числі шляхом надання безоплатної правової допомоги у порядку, встановленому Законом України \"Про безоплатну правову допомогу\"; утворення цілодобового безоплатного кол-центру з питань запобігання та протидії домашньому насильству, насильству за ознакою статі та насильству стосовно дітей для забезпечення невідкладного реагування уповноважених підрозділів органів Національної поліції України, інших органів державної влади та органів місцевого самоврядування, визначених цим Законом, на випадки насильства за ознакою статі, надання консультацій щодо насильства за ознакою статі абонентам анонімно або з належним урахуванням вимог конфіденційності та захисту персональних даних; надання кваліфікованих консультацій у разі вчинення насильства за ознакою статі з дотриманням правового режиму інформації з обмеженим доступом.\n\nКол-центр з питань запобігання та протидії домашньому насильству, насильству за ознакою статі та насильству стосовно дітей утворюється центральним органом виконавчої влади, що забезпечує формування державної політики у сфері запобігання та протидії домашньому насильству, належить до сфери його управління та діє на основі положення, затвердженого цим органом.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "The provision of assistance and protection to victims is carried out in the following areas: providing the victim with information about their rights and opportunities for their realization in a language understandable to them or through an interpreter or an involved third party who speaks a language understandable to the victim; ensuring victims' access to specialized support services for victims and receiving social services they provide; providing, if necessary, temporary shelter for safe accommodation of victims, especially women with children; ensuring victims' access to justice and other legal protection mechanisms, including by providing free legal aid in the manner established by the Law of Ukraine \"On Free Legal Aid\"; establishment of a round-the-clock free call center on prevention and counteraction of domestic violence, gender-based violence and violence against children to ensure immediate response by authorized units of the bodies of the National Police of Ukraine, other state authorities and local self-government bodies defined by this Law, to cases of gender-based violence, providing consultations on gender-based violence to subscribers anonymously or with due regard for confidentiality requirements and personal data protection; providing qualified consultations in case of commission of gender-based violence with compliance with the legal regime of information with restricted access.\nSpecialized support services for victims include shelters for victims, centers of medical and social rehabilitation of victims, call center on prevention and counteraction of domestic violence, gender-based violence and violence against children, mobile teams of social and psychological assistance to victims and persons who suffered from gender-based violence, as well as institutions and establishments designated exclusively for victims and persons who suffered from gender-based violence.",
+      "rationale": "The framework includes temporary shelter for safe accommodation of victims (explicitly noting women with children) as part of assistance/protection, and it recognizes shelters for victims as a form of specialized support service. These are operative provisions providing for accommodation-based protection.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "Надання допомоги та захисту постраждалим особам здійснюється за такими напрямами: надання постраждалій особі інформації про її права та можливості їх реалізації зрозумілою їй мовою або через перекладача чи залучену третю особу, яка володіє мовою, зрозумілою для постраждалої особи; забезпечення постраждалим особам доступу до спеціалізованих служб підтримки постраждалих осіб та отримання соціальних послуг, які вони надають; надання у разі потреби тимчасового притулку для безпечного розміщення постраждалих осіб, особливо жінок з дітьми; забезпечення постраждалим особам доступу до правосуддя та інших механізмів юридичного захисту, у тому числі шляхом надання безоплатної правової допомоги у порядку, встановленому Законом України \"Про безоплатну правову допомогу\"; утворення цілодобового безоплатного кол-центру з питань запобігання та протидії домашньому насильству, насильству за ознакою статі та насильству стосовно дітей для забезпечення невідкладного реагування уповноважених підрозділів органів Національної поліції України, інших органів державної влади та органів місцевого самоврядування, визначених цим Законом, на випадки насильства за ознакою статі, надання консультацій щодо насильства за ознакою статі абонентам анонімно або з належним урахуванням вимог конфіденційності та захисту персональних даних; надання кваліфікованих консультацій у разі вчинення насильства за ознакою статі з дотриманням правового режиму інформації з обмеженим доступом.\n\nДо спеціалізованих служб підтримки постраждалих осіб належать притулки для постраждалих осіб, центри медико-соціальної реабілітації постраждалих осіб, кол-центр з питань запобігання та протидії домашньому насильству, насильству за ознакою статі та насильству стосовно дітей, мобільні бригади соціально-психологічної допомоги постраждалим особам та особам, які постраждали від насильства за ознакою статі, а також заклади та установи, призначені виключно для постраждалих осіб та осіб, які постраждали від насильства за ознакою статі.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "1) ensuring the provision of free legal aid to victims in the manner established by the Law of Ukraine \"On Free Legal Aid\", including on the basis of general and special support services for victims;\nThe provision of assistance and protection to victims is carried out in the following areas: providing the victim with information about their rights and opportunities for their realization in a language understandable to them or through an interpreter or an involved third party who speaks a language understandable to the victim; ensuring victims' access to specialized support services for victims and receiving social services they provide; providing, if necessary, temporary shelter for safe accommodation of victims, especially women with children; ensuring victims' access to justice and other legal protection mechanisms, including by providing free legal aid in the manner established by the Law of Ukraine \"On Free Legal Aid\"; establishment of a round-the-clock free call center on prevention and counteraction of domestic violence, gender-based violence and violence against children to ensure immediate response by authorized units of the bodies of the National Police of Ukraine, other state authorities and local self-government bodies defined by this Law, to cases of gender-based violence, providing consultations on gender-based violence to subscribers anonymously or with due regard for confidentiality requirements and personal data protection; providing qualified consultations in case of commission of gender-based violence with compliance with the legal regime of information with restricted access.",
+      "rationale": "The framework assigns legal aid centers powers to ensure provision of free legal aid to victims, and also includes ensuring victims’ access to justice and legal protection mechanisms including free legal aid. This is an operative legal assistance entitlement/service mechanism for victims of violence.",
+      "coverage": "Substantive",
+      "confidence": 0.94,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.94
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) забезпечення надання безоплатної правничої допомоги постраждалим особам у порядку, встановленому Законом України \"Про безоплатну правничу допомогу\", у тому числі на базі загальних та спеціальних служб підтримки постраждалих осіб;\n\nНадання допомоги та захисту постраждалим особам здійснюється за такими напрямами: надання постраждалій особі інформації про її права та можливості їх реалізації зрозумілою їй мовою або через перекладача чи залучену третю особу, яка володіє мовою, зрозумілою для постраждалої особи; забезпечення постраждалим особам доступу до спеціалізованих служб підтримки постраждалих осіб та отримання соціальних послуг, які вони надають; надання у разі потреби тимчасового притулку для безпечного розміщення постраждалих осіб, особливо жінок з дітьми; забезпечення постраждалим особам доступу до правосуддя та інших механізмів юридичного захисту, у тому числі шляхом надання безоплатної правової допомоги у порядку, встановленому Законом України \"Про безоплатну правову допомогу\"; утворення цілодобового безоплатного кол-центру з питань запобігання та протидії домашньому насильству, насильству за ознакою статі та насильству стосовно дітей для забезпечення невідкладного реагування уповноважених підрозділів органів Національної поліції України, інших органів державної влади та органів місцевого самоврядування, визначених цим Законом, на випадки насильства за ознакою статі, надання консультацій щодо насильства за ознакою статі абонентам анонімно або з належним урахуванням вимог конфіденційності та захисту персональних даних; надання кваліфікованих консультацій у разі вчинення насильства за ознакою статі з дотриманням правового режиму інформації з обмеженим доступом.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "1) development and approval of the standard for providing medical assistance to victims or persons who have likely suffered from domestic violence;\n2) approval of the procedure for conducting and documenting the results of medical examination of victims;\n4) provide medical assistance to victims taking into account individual needs;",
+      "rationale": "The cited provisions assign explicit responsibilities to health-care bodies and facilities in domestic-violence response, including developing standards for medical assistance to victims, establishing procedures for medical examinations, and providing medical assistance to victims. This is an operative, service-provision framework linked directly to victims/survivors of domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) розроблення та затвердження стандарту надання медичної допомоги постраждалим особам або особам, які ймовірно постраждали від домашнього насильства;\n\n2) затвердження порядку проведення та документування результатів медичного обстеження постраждалих осіб;\n\n4) надають медичну допомогу постраждалим особам з урахуванням індивідуальних потреб;",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "4) безоплатне отримання відповідно до законодавства соціальних послуг, медичної, соціальної та психологічної допомоги відповідно до її потреб;\n5) provision in accordance with competence to victims of social services, medical, social, psychological assistance on a free basis, facilitation of provision of legal aid, as well as ensuring temporary shelter for such persons and their children in the manner provided by law;",
+      "rationale": "The text explicitly provides victims the right to receive psychological assistance and requires general/specialized support services to provide psychological assistance on a free basis as part of victim support. These are operative provisions establishing psychosocial/psychological support within victim assistance mechanisms.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "4) безоплатне отримання відповідно до законодавства соціальних послуг, медичної, соціальної та психологічної допомоги відповідно до її потреб;\n\n5) надання відповідно до компетенції постраждалим особам соціальних послуг, медичної, соціальної, психологічної допомоги на безоплатній основі, сприяння наданню правничої допомоги, а також забезпечення тимчасового притулку для таких осіб та їхніх дітей у порядку, передбаченому законодавством;",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only religion-related reference is that victims’ religious beliefs are to be taken into account when providing assistance, and religion/traditions cannot justify violence. There is no operative provision establishing religious/spiritual counselling, pastoral care, or faith-based victim-support services.",
+      "coverage": null,
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "1. Суб'єктами, відповідальними за виконання програм для постраждалих осіб, є місцеві державні адміністрації та органи місцевого самоврядування.\n2. Суб'єкт, відповідальний за виконання програм для постраждалих осіб, організовує та забезпечує проходження такими особами зазначених програм за їхньою згодою.",
+      "rationale": "The framework establishes “programs for affected persons” and assigns responsibility to local state administrations and local self-government bodies to organize and ensure participation in such programs (with consent). This constitutes an operative mechanism for longer-term support beyond immediate protection.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Суб’єктами, відповідальними за виконання програм для постраждалих осіб, є місцеві державні адміністрації та органи місцевого самоврядування.\n\n2. Суб’єкт, відповідальний за виконання програм для постраждалих осіб, організовує та забезпечує проходження такими особами зазначених програм за їхньою згодою.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "The entities responsible for implementation of programs for perpetrators are local state administrations and local self-government bodies.\nA perpetrator may be referred by a court to undergo a program for perpetrators for a period from three months to one year in cases provided for by legislation.",
+      "rationale": "The law contains operative provisions on implementation of programs for perpetrators, designating responsible entities and providing for court referral to such programs. This directly establishes perpetrator-focused intervention/behaviour-change programming within the legal framework.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "Суб’єктами, відповідальними за виконання програм для кривдників, є місцеві державні адміністрації та органи місцевого самоврядування.\n\nКривдника може бути направлено судом на проходження програми для кривдників на строк від трьох місяців до одного року у випадках, передбачених законодавством.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Measures for the prevention of gender-based violence are carried out in the following directions: studying the situation and collecting data on facts of gender-based violence; conducting sectoral and intersectoral research on the state, causes and prerequisites for the spread of gender-based violence, as well as the effectiveness of legislation in the field of prevention and counteraction to such violence, the practice of its application; conducting information campaigns on manifestations of gender-based violence, its consequences, including for children; conducting informational and educational activities on the prevention and counteraction to gender-based violence in educational institutions, including regarding children; involving the media in conducting educational campaigns aimed at fulfilling tasks in the field of prevention and counteraction to gender-based violence; organization and conducting of joint and specialized trainings and seminars for specialists working in the field of prevention and counteraction to gender-based violence, as well as for law enforcement officers and judges; organization and implementation of programs for persons who have committed gender-based violence, including sexual violence, in the manner prescribed by law.",
+      "rationale": "The cited provision explicitly lists prevention measures for gender-based violence, including information campaigns and informational/educational activities in educational institutions, which directly meets the criterion for primary prevention information/education activities about violence against women/gender-based violence.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Заходи із запобігання насильству за ознакою статі здійснюються за такими напрямами: вивчення ситуації та збір даних про факти насильства за ознакою статі; проведення галузевих та міжгалузевих досліджень стану, причин і передумов поширення насильства за ознакою статі, а також ефективності законодавства у сфері запобігання та протидії такому насильству, практики його застосування; проведення інформаційних кампаній щодо проявів насильства за ознакою статі, його наслідків, зокрема для дітей; проведення у навчальних закладах інформаційно-просвітницьких заходів з питань запобігання та протидії насильству за ознакою статі, у тому числі стосовно дітей; залучення засобів масової інформації до проведення просвітницьких кампаній, спрямованих на виконання завдань у сфері запобігання та протидії насильству за ознакою статі; організація і проведення спільних та спеціалізованих тренінгів і семінарів для фахівців, які працюють у сфері запобігання та протидії насильству за ознакою статі, а також для працівників правоохоронних органів і суддів; організація і виконання програм для осіб, які вчинили насильство за ознакою статі, зокрема сексуальне насильство, у визначеному законодавством порядку.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss information/education about domestic violence and gender-based violence, and mention eradicating discriminatory notions about social roles, but they do not explicitly require information/education activities specifically about gender equality or women’s rights, nor do they explicitly link such gender-equality education to preventing violence against women as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions research on the effectiveness of legislation and provides victims information about their rights, it does not specify dissemination/awareness activities about laws or policies concerning violence against women as a primary prevention strategy aimed at the public or communities. The provisions shown focus on prevention activities about violence itself and service-related rights information rather than public legal-awareness about VAW laws/policies.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "2) ensuring implementation in the educational process at all educational levels, including inclusion in curricula and plans, of issues of prevention and counteraction of domestic violence;\n3) ensuring inclusion in educational and professional programs when establishing state standards of education of issues of prevention and counteraction of domestic violence;",
+      "rationale": "The cited provisions assign responsibilities to education authorities to include issues of prevention and counteraction of domestic violence in curricula/plans and in educational/professional programs and state education standards, explicitly linking educational content and institutions to prevention measures.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) забезпечення впровадження в навчально-виховний процес на всіх освітніх рівнях, у тому числі включення до навчальних програм і планів, питань запобігання та протидії домашньому насильству;\n\n3) забезпечення включення до освітньо-професійних програм під час встановлення державних стандартів освіти питань запобігання та протидії домашньому насильству;",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "Yes",
+      "evidence": "6) encouraging all members of society, especially men and boys, to actively contribute to the prevention of domestic violence.",
+      "rationale": "The cited task explicitly calls for encouraging all members of society, especially men and boys, to actively contribute to the prevention of domestic violence, which constitutes an operative prevention measure engaging men and boys.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "6) заохочення всіх членів суспільства, насамперед чоловіків і хлопців, до активного сприяння запобіганню домашньому насильству.",
+      "evidence_original_aligned": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "2. Entities carrying out measures in the sphere of prevention and counteraction of domestic violence involve in cooperation on organization and implementation of such measures and provision of effective assistance to affected persons public associations, foreign non-governmental organizations and other interested persons, and also ensure coverage of such measures and activities in the media with compliance with the legal regime of information with restricted access.",
+      "rationale": "The framework contains an operative provision requiring entities implementing domestic-violence measures to involve public associations and foreign NGOs in cooperation for organizing and implementing measures and providing assistance to affected persons, which constitutes formal engagement/collaboration in response to domestic violence (a form of VAW-related violence addressed in the law).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "2. Суб’єкти, що здійснюють заходи у сфері запобігання та протидії домашньому насильству, залучають до співпраці з організації та здійснення таких заходів і надання дієвої допомоги постраждалим особам громадські об’єднання, іноземні неурядові організації та інших заінтересованих осіб, а також забезпечують висвітлення таких заходів і діяльності в медіа з дотриманням правового режиму інформації з обмеженим доступом.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions mention religion/traditions only to state they cannot justify domestic violence, and describe cooperation with public associations/NGOs and other interested persons, but do not establish or require engagement with religious or traditional/cultural organisations or leaders as partners in prevention or response.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "5) cooperate with other subjects implementing measures in the sphere of prevention and counteraction of domestic violence, in accordance with Article 15 of this Law;",
+      "rationale": "The framework assigns education institutions an operative duty to cooperate with other subjects implementing measures on prevention and counteraction of domestic violence, establishing their role as engaged partners in the response/prevention system.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "5) взаємодіють з іншими суб’єктами, що здійснюють заходи у сфері запобігання та протидії домашньому насильству, відповідно до статті 15 цього Закону;",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only relevant cited provision refers generally to “implementation of international cooperation” as a power of a central executive body, without specifying cooperation with international organisations or establishing a mechanism/partnership with such organisations concerning VAW/domestic violence.",
+      "coverage": null,
+      "confidence": 0.67,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.67
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "Ensuring equal rights and opportunities for women and men in the activities of the media The media, in accordance with the law, contribute to the prevention of: discrimination on the basis of sex and gender-based violence; dissemination of materials that reproduce or reinforce discriminatory perceptions of the social roles and responsibilities of women and men, approve or provoke discrimination on the basis of sex or gender-based violence, including sexual violence.",
+      "rationale": "The framework includes an operative provision assigning the media a role in preventing gender-based violence (including violence against women) by contributing to prevention and addressing dissemination of discriminatory/GBV-approving materials, which constitutes formal media engagement in VAW prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.84,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.84
+      },
+      "evidence_verified": true,
+      "evidence_original": "Забезпечення рівних прав та можливостей жінок і чоловіків у діяльності засобів масової інформації Засоби масової інформації відповідно до законодавства сприяють недопущенню: дискримінації за ознакою статі та насильства за ознакою статі; поширення матеріалів, що відтворюють чи зміцнюють дискримінаційні уявлення про соціальні ролі та обов’язки жінок і чоловіків, схвалюють або провокують дискримінацію за ознакою статі чи насильство за ознакою статі, включаючи сексуальне насильство.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references citizens’ obligations to report violence and mentions “other interested persons” in cooperation provisions, the candidate sentences do not clearly establish a mechanism for community/public participation as partners in prevention/response (beyond reporting/compliance), which the coding rules exclude as sufficient on its own.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "1. Enterprises, institutions, organizations regardless of form of ownership, public associations, foreign non-governmental organizations, individual entrepreneurs, as well as natural persons who provide social services, in accordance with the law are engaged by subjects implementing measures in the sphere of prevention of and countering domestic violence, in:",
+      "rationale": "The framework expressly provides that enterprises, institutions, and organizations regardless of ownership form (i.e., including private-sector actors) are engaged by responsible subjects in implementing domestic-violence prevention/counteraction measures, including tasks, trainings, programs, services, campaigns, and establishing support services, which is substantive private-sector participation in VAW-related measures.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.87,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.87
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Підприємства, установи, організації незалежно від форми власності, громадські об’єднання, іноземні неурядові організації, фізичні особи - підприємці, а також фізичні особи, які надають соціальні послуги, відповідно до законодавства залучаються суб’єктами, що здійснюють заходи у сфері запобігання та протидії домашньому насильству, до:",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "1. Financial support of measures in the field of prevention and counteraction of domestic violence, provision of assistance to victims, as well as the creation and ensuring of the functioning of the Unified State Register of Cases of Domestic Violence and Gender-Based Violence is carried out at the expense of state and local budgets, funds of enterprises, institutions and organizations, trade unions, voluntary contributions of legal entities and individuals, and other sources not prohibited by law.",
+      "rationale": "The policy explicitly states that financial support for measures is carried out at the expense of “state and local budgets,” which directly includes local government budget sources.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Фінансове забезпечення заходів у сфері запобігання та протидії домашньому насильству, надання допомоги постраждалим особам, а також створення та забезпечення функціонування Єдиного державного реєстру випадків домашнього насильства та насильства за ознакою статі здійснюється за рахунок коштів державного та місцевих бюджетів, коштів підприємств, установ та організацій, професійних спілок, добровільних внесків юридичних і фізичних осіб, інших джерел, не заборонених законодавством.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "1. Financial support of measures in the field of prevention and counteraction of domestic violence, provision of assistance to victims, as well as the creation and ensuring of the functioning of the Unified State Register of Cases of Domestic Violence and Gender-Based Violence is carried out at the expense of state and local budgets, funds of enterprises, institutions and organizations, trade unions, voluntary contributions of legal entities and individuals, and other sources not prohibited by law.",
+      "rationale": "The policy explicitly lists “state ... budgets” as a source of financial support for measures, which constitutes national government budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Фінансове забезпечення заходів у сфері запобігання та протидії домашньому насильству, надання допомоги постраждалим особам, а також створення та забезпечення функціонування Єдиного державного реєстру випадків домашнього насильства та насильства за ознакою статі здійснюється за рахунок коштів державного та місцевих бюджетів, коштів підприємств, установ та організацій, професійних спілок, добровільних внесків юридичних і фізичних осіб, інших джерел, не заборонених законодавством.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences list domestic funding sources (state/local budgets, enterprises, trade unions, voluntary contributions, other lawful sources) and mention foreign NGOs as possible participants, but do not explicitly mention international assistance, donor funding, UN agencies, foreign governments, development partners, or any international funding/support mechanism.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "1. Financial support of measures in the field of prevention and counteraction of domestic violence, provision of assistance to victims, as well as the creation and ensuring of the functioning of the Unified State Register of Cases of Domestic Violence and Gender-Based Violence is carried out at the expense of state and local budgets, funds of enterprises, institutions and organizations, trade unions, voluntary contributions of legal entities and individuals, and other sources not prohibited by law.",
+      "rationale": "Beyond state and local budgets, the policy explicitly includes additional funding sources such as funds of enterprises/institutions/organizations, trade unions, voluntary contributions, and “other sources not prohibited by law,” which qualifies as other legal sources.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "1. Фінансове забезпечення заходів у сфері запобігання та протидії домашньому насильству, надання допомоги постраждалим особам, а також створення та забезпечення функціонування Єдиного державного реєстру випадків домашнього насильства та насильства за ознакою статі здійснюється за рахунок коштів державного та місцевих бюджетів, коштів підприємств, установ та організацій, професійних спілок, добровільних внесків юридичних і фізичних осіб, інших джерел, не заборонених законодавством.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer generally to “state and local budgets” but do not explicitly identify a provincial/regional government budget as a distinct funding source; therefore the specific provincial budget criterion is not directly addressed in the provided text.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 28,
+    "resolved": 28,
+    "rate": 1.0
+  }
+}

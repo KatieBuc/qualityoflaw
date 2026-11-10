@@ -1,0 +1,989 @@
+{
+  "policy_file": "139. Romania - DomViol - Romanian - html.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-06T17:58:30.977572+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "For the purposes of this law, domestic violence means any inaction or intentional action of physical, sexual, psychological, economic, social, spiritual or cyber violence, which occurs in the family or domestic environment or between spouses or former spouses, as well as between current or former partners, regardless of whether the aggressor resides or has resided together with the victim.\n(1) Domestic violence manifests itself in the following forms:a) verbal violence - addressing through offensive, brutal language, such as the use of insults, threats, degrading or humiliating words and expressions;b) psychological violence - imposition of will or personal control, causing states of tension and psychological suffering in any manner and by any means, through verbal threats or in any other way, blackmail, demonstrative violence against objects and animals, ostentatious display of weapons, neglect, control of personal life, acts of jealousy, constraints of any kind, unlawful stalking, surveillance of the dwelling, workplace or other places frequented by the victim, making telephone calls or other types of communications through remote transmission means, which through their frequency, content or moment they are made create fear, as well as other actions with similar effect;c) physical violence - bodily harm or harm to health through hitting, pushing, slamming, hair pulling, stabbing, cutting, burning, strangling, biting, in any form and of any intensity, including those disguised as being the result of accidents, through poisoning, intoxication, as well as other actions with similar effect, subjection to exhausting physical efforts or to activities with a high degree of risk to life or health and bodily integrity, other than those referred to in letter e);d) sexual violence - sexual assault, imposition of degrading acts, harassment, intimidation, manipulation, brutality with a view to maintaining forced sexual relations, marital rape;e) economic violence - prohibition of professional activity, deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, necessities, the action of intentional misappropriation of the person's property, prohibition of the right to own, use and dispose of common property, inequitable control over common property and resources, refusal to support the family, imposition of hard and harmful work to the detriment of health, including to a minor family member, as well as other actions with similar effect;f) social violence - imposition of isolation of the person from family, community and friends, prohibition of attending educational institutions or the workplace, prohibition/limitation of professional achievement, imposition of isolation, including in the common dwelling, deprivation of access to the living space, dispossession of identity documents, intentional deprivation of access to information, as well as other actions with similar effect;g) spiritual violence - underestimation or diminishment of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of family members' aspirations, of access to cultural, ethnic, linguistic or religious values, prohibition of the right to speak in one's mother tongue and to teach children to speak in their mother tongue, imposition of adherence to unacceptable spiritual and religious beliefs and practices, as well as other actions with similar effect or similar repercussions;h) cyber violence - online harassment, online messages instigating gender-based hatred, online stalking, online threats, non-consensual publication of information and intimate graphic content, illegal access to intercept communications and private data and any other form of abusive use of information and communication technology through computers, smartphones or other similar devices that use telecommunications or can connect to the internet and can transmit and use social or e-mail platforms, with the purpose of shaming, humiliating, frightening, threatening, silencing the victim.\n(1) Persoana a cărei viață, integritate fizică sau psihică ori libertate este pusă în pericol printr-un act de violență din partea unui membru al familiei poate solicita instanței ca, în scopul înlăturării stării de pericol, să emită un ordin de protecție prin care să se dispună, cu caracter provizoriu, una ori mai multe dintre următoarele măsuri - obligații sau interdicții:a) evacuarea temporară a agresorului din locuința familiei, indiferent dacă acesta este titularul dreptului de proprietate;b) reintegrarea victimei și, după caz, a copiilor, în locuința familiei;c) limitarea dreptului de folosință al agresorului numai asupra unei părți a locuinței comune atunci când aceasta poate fi astfel partajată încât agresorul să nu vină în contact cu victima;d) cazarea/plasarea victimei, cu acordul acesteia, și, după caz, a copiilor, într-un centru de asistență dintre cele prevăzute la art. 19;e) obligarea agresorului la păstrarea unei distanțe minime determinate față de victimă, față de membrii familiei acesteia, astfel cum sunt definiți potrivit prevederilor art. 5, ori față de reședința, locul de muncă sau unitatea de învățământ a persoanei protejate;f) interdicția pentru agresor de a se deplasa în anumite localități sau zone determinate pe care persoana protejată le frecventează ori le vizitează periodic;g) obligarea agresorului de a purta permanent un dispozitiv electronic de supraveghere; (la 21-05-2021, sintagma: sistem electronic de supraveghere a fost înlocuită de Articolul 46, Titlul II din LEGEA nr. 146 din 17 mai 2021, publicată în MONITORUL OFICIAL nr. 515 din 18 mai 2021 ) h) interzicerea oricărui contact, inclusiv telefonic, prin corespondență sau în orice alt mod, cu victima;i) obligarea agresorului de a preda poliției armele deținute;j) încredințarea copiilor minori sau stabilirea reședinței acestora;k) interdicția pentru agresor de a încasa alocația de stat pentru copii și încuviințarea încasării acesteia de către părintele/persoana căruia/căreia i s-a încredințat copilul spre creștere și educare sau la care s-a stabilit reședința acestuia.",
+      "rationale": "The candidate sentences are from an operative law specifically on preventing and combating domestic violence, including an operative definition of domestic violence, an operative classification of forms of domestic violence, and an operative protective remedy (protection order) available when a person is endangered by violence from a family member.",
+      "coverage": "Substantive",
+      "confidence": 0.99,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.99
+      },
+      "coverage_confidence": 0.98,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.98
+      },
+      "evidence_verified": true,
+      "evidence_original": "În sensul prezentei legi, violența domestică înseamnă orice inacțiune sau acțiune intenționată de violență fizică, sexuală, psihologică, economică, socială, spirituală sau cibernetică, care se produce în mediul familial sau domestic ori între soți sau foști soți, precum și între actuali sau foști parteneri, indiferent dacă agresorul locuiește sau a locuit împreună cu victima.\n\n(1) Violența domestică se manifestă sub următoarele forme:a) violența verbală - adresarea printr-un limbaj jignitor, brutal, precum utilizarea de insulte, amenințări, cuvinte și expresii degradante sau umilitoare;b) violența psihologică - impunerea voinței sau a controlului personal, provocarea de stări de tensiune și de suferință psihică în orice mod și prin orice mijloace, prin amenințare verbală sau în orice altă modalitate, șantaj, violență demonstrativă asupra obiectelor și animalelor, afișare ostentativă a armelor, neglijare, controlul vieții personale, acte de gelozie, constrângerile de orice fel, urmărirea fără drept, supravegherea locuinței, a locului de muncă sau a altor locuri frecventate de victimă, efectuarea de apeluri telefonice sau alte tipuri de comunicări prin mijloace de transmitere la distanță, care prin frecvență, conținut sau momentul în care sunt emise creează temere, precum și alte acțiuni cu efect similar;c) violența fizică - vătămarea corporală ori a sănătății prin lovire, îmbrâncire, trântire, tragere de păr, înțepare, tăiere, ardere, strangulare, mușcare, în orice formă și de orice intensitate, inclusiv mascate ca fiind rezultatul unor accidente, prin otrăvire, intoxicare, precum și alte acțiuni cu efect similar, supunerea la eforturi fizice epuizante sau la activități cu grad mare de risc pentru viață sau sănătate și integritate corporală, altele decât cele de la lit. e);d) violența sexuală - agresiune sexuală, impunere de acte degradante, hărțuire, intimidare, manipulare, brutalitate în vederea întreținerii unor relații sexuale forțate, viol conjugal;e) violența economică - interzicerea activității profesionale, privare de mijloace economice, inclusiv lipsire de mijloace de existență primară, cum ar fi hrană, medicamente, obiecte de primă necesitate, acțiunea de sustragere intenționată a bunurilor persoanei, interzicerea dreptului de a poseda, folosi și dispune de bunurile comune, control inechitabil asupra bunurilor și resurselor comune, refuzul de a susține familia, impunerea de munci grele și nocive în detrimentul sănătății, inclusiv unui membru de familie minor, precum și alte acțiuni cu efect similar;f) violența socială - impunerea izolării persoanei de familie, de comunitate și de prieteni, interzicerea frecventării instituției de învățământ sau a locului de muncă, interzicerea/limitarea realizării profesionale, impunerea izolării, inclusiv în locuința comună, privarea de acces în spațiul de locuit, deposedarea de acte de identitate, privare intenționată de acces la informație, precum și alte acțiuni cu efect similar;g) violența spirituală - subestimarea sau diminuarea importanței satisfacerii necesităților moral-spirituale prin interzicere, limitare, ridiculizare, penalizare a aspirațiilor membrilor de familie, a accesului la valorile culturale, etnice, lingvistice ori religioase, interzicerea dreptului de a vorbi în limba maternă și de a învăța copiii să vorbească în limba maternă, impunerea aderării la credințe și practici spirituale și religioase inacceptabile, precum și alte acțiuni cu efect similar sau cu repercusiuni similare;h) violența cibernetică - hărțuire online, mesaje online instigatoare la ură pe bază de gen, urmărire online, amenințări online, publicarea nonconsensuală de informații și conținut grafic intim, accesul ilegal de interceptare a comunicațiilor și datelor private și orice altă formă de utilizare abuzivă a tehnologiei informației și a comunicațiilor prin intermediul calculatoarelor, telefoanelor mobile inteligente sau altor dispozitive similare care folosesc telecomunicațiile sau se pot conecta la internet și pot transmite și utiliza platformele sociale sau de e-mail, cu scopul de a face de rușine, umili, speria, amenința, reduce la tăcere victima.\n\n(1) Persoana a cărei viață, integritate fizică sau psihică ori libertate este pusă în pericol printr-un act de violență din partea unui membru al familiei poate solicita instanței ca, în scopul înlăturării stării de pericol, să emită un ordin de protecție prin care să se dispună, cu caracter provizoriu, una ori mai multe dintre următoarele măsuri - obligații sau interdicții:a) evacuarea temporară a agresorului din locuința familiei, indiferent dacă acesta este titularul dreptului de proprietate;b) reintegrarea victimei și, după caz, a copiilor, în locuința familiei;c) limitarea dreptului de folosință al agresorului numai asupra unei părți a locuinței comune atunci când aceasta poate fi astfel partajată încât agresorul să nu vină în contact cu victima;d) cazarea/plasarea victimei, cu acordul acesteia, și, după caz, a copiilor, într-un centru de asistență dintre cele prevăzute la art. 19;e) obligarea agresorului la păstrarea unei distanțe minime determinate față de victimă, față de membrii familiei acesteia, astfel cum sunt definiți potrivit prevederilor art. 5, ori față de reședința, locul de muncă sau unitatea de învățământ a persoanei protejate;f) interdicția pentru agresor de a se deplasa în anumite localități sau zone determinate pe care persoana protejată le frecventează ori le vizitează periodic;g) obligarea agresorului de a purta permanent un dispozitiv electronic de supraveghere; (la 21-05-2021, sintagma: sistem electronic de supraveghere a fost înlocuită de Articolul 46, Titlul II din LEGEA nr. 146 din 17 mai 2021, publicată în MONITORUL OFICIAL nr. 515 din 18 mai 2021 ) h) interzicerea oricărui contact, inclusiv telefonic, prin corespondență sau în orice alt mod, cu victima;i) obligarea agresorului de a preda poliției armele deținute;j) încredințarea copiilor minori sau stabilirea reședinței acestora;k) interdicția pentru agresor de a încasa alocația de stat pentru copii și încuviințarea încasării acesteia de către părintele/persoana căruia/căreia i s-a încredințat copilul spre creștere și educare sau la care s-a stabilit reședința acestuia.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "(1) Domestic violence manifests itself in the following forms:a) verbal violence - addressing through offensive, brutal language, such as the use of insults, threats, degrading or humiliating words and expressions;b) psychological violence - imposition of will or personal control, causing states of tension and psychological suffering in any manner and by any means, through verbal threats or in any other way, blackmail, demonstrative violence against objects and animals, ostentatious display of weapons, neglect, control of personal life, acts of jealousy, constraints of any kind, unlawful stalking, surveillance of the dwelling, workplace or other places frequented by the victim, making telephone calls or other types of communications through remote transmission means, which through their frequency, content or moment they are made create fear, as well as other actions with similar effect;c) physical violence - bodily harm or harm to health through hitting, pushing, slamming, hair pulling, stabbing, cutting, burning, strangling, biting, in any form and of any intensity, including those disguised as being the result of accidents, through poisoning, intoxication, as well as other actions with similar effect, subjection to exhausting physical efforts or to activities with a high degree of risk to life or health and bodily integrity, other than those referred to in letter e);d) sexual violence - sexual assault, imposition of degrading acts, harassment, intimidation, manipulation, brutality with a view to maintaining forced sexual relations, marital rape;e) economic violence - prohibition of professional activity, deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, necessities, the action of intentional misappropriation of the person's property, prohibition of the right to own, use and dispose of common property, inequitable control over common property and resources, refusal to support the family, imposition of hard and harmful work to the detriment of health, including to a minor family member, as well as other actions with similar effect;f) social violence - imposition of isolation of the person from family, community and friends, prohibition of attending educational institutions or the workplace, prohibition/limitation of professional achievement, imposition of isolation, including in the common dwelling, deprivation of access to the living space, dispossession of identity documents, intentional deprivation of access to information, as well as other actions with similar effect;g) spiritual violence - underestimation or diminishment of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of family members' aspirations, of access to cultural, ethnic, linguistic or religious values, prohibition of the right to speak in one's mother tongue and to teach children to speak in their mother tongue, imposition of adherence to unacceptable spiritual and religious beliefs and practices, as well as other actions with similar effect or similar repercussions;h) cyber violence - online harassment, online messages instigating gender-based hatred, online stalking, online threats, non-consensual publication of information and intimate graphic content, illegal access to intercept communications and private data and any other form of abusive use of information and communication technology through computers, smartphones or other similar devices that use telecommunications or can connect to the internet and can transmit and use social or e-mail platforms, with the purpose of shaming, humiliating, frightening, threatening, silencing the victim.\nb) integrated emergency services intended for victims of sexual violence.",
+      "rationale": "Sexual violence is explicitly included as a covered form within the operative classification of domestic violence, and the framework also provides for response services via integrated emergency services intended for victims of sexual violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Violența domestică se manifestă sub următoarele forme:a) violența verbală - adresarea printr-un limbaj jignitor, brutal, precum utilizarea de insulte, amenințări, cuvinte și expresii degradante sau umilitoare;b) violența psihologică - impunerea voinței sau a controlului personal, provocarea de stări de tensiune și de suferință psihică în orice mod și prin orice mijloace, prin amenințare verbală sau în orice altă modalitate, șantaj, violență demonstrativă asupra obiectelor și animalelor, afișare ostentativă a armelor, neglijare, controlul vieții personale, acte de gelozie, constrângerile de orice fel, urmărirea fără drept, supravegherea locuinței, a locului de muncă sau a altor locuri frecventate de victimă, efectuarea de apeluri telefonice sau alte tipuri de comunicări prin mijloace de transmitere la distanță, care prin frecvență, conținut sau momentul în care sunt emise creează temere, precum și alte acțiuni cu efect similar;c) violența fizică - vătămarea corporală ori a sănătății prin lovire, îmbrâncire, trântire, tragere de păr, înțepare, tăiere, ardere, strangulare, mușcare, în orice formă și de orice intensitate, inclusiv mascate ca fiind rezultatul unor accidente, prin otrăvire, intoxicare, precum și alte acțiuni cu efect similar, supunerea la eforturi fizice epuizante sau la activități cu grad mare de risc pentru viață sau sănătate și integritate corporală, altele decât cele de la lit. e);d) violența sexuală - agresiune sexuală, impunere de acte degradante, hărțuire, intimidare, manipulare, brutalitate în vederea întreținerii unor relații sexuale forțate, viol conjugal;e) violența economică - interzicerea activității profesionale, privare de mijloace economice, inclusiv lipsire de mijloace de existență primară, cum ar fi hrană, medicamente, obiecte de primă necesitate, acțiunea de sustragere intenționată a bunurilor persoanei, interzicerea dreptului de a poseda, folosi și dispune de bunurile comune, control inechitabil asupra bunurilor și resurselor comune, refuzul de a susține familia, impunerea de munci grele și nocive în detrimentul sănătății, inclusiv unui membru de familie minor, precum și alte acțiuni cu efect similar;f) violența socială - impunerea izolării persoanei de familie, de comunitate și de prieteni, interzicerea frecventării instituției de învățământ sau a locului de muncă, interzicerea/limitarea realizării profesionale, impunerea izolării, inclusiv în locuința comună, privarea de acces în spațiul de locuit, deposedarea de acte de identitate, privare intenționată de acces la informație, precum și alte acțiuni cu efect similar;g) violența spirituală - subestimarea sau diminuarea importanței satisfacerii necesităților moral-spirituale prin interzicere, limitare, ridiculizare, penalizare a aspirațiilor membrilor de familie, a accesului la valorile culturale, etnice, lingvistice ori religioase, interzicerea dreptului de a vorbi în limba maternă și de a învăța copiii să vorbească în limba maternă, impunerea aderării la credințe și practici spirituale și religioase inacceptabile, precum și alte acțiuni cu efect similar sau cu repercusiuni similare;h) violența cibernetică - hărțuire online, mesaje online instigatoare la ură pe bază de gen, urmărire online, amenințări online, publicarea nonconsensuală de informații și conținut grafic intim, accesul ilegal de interceptare a comunicațiilor și datelor private și orice altă formă de utilizare abuzivă a tehnologiei informației și a comunicațiilor prin intermediul calculatoarelor, telefoanelor mobile inteligente sau altor dispozitive similare care folosesc telecomunicațiile sau se pot conecta la internet și pot transmite și utiliza platformele sociale sau de e-mail, cu scopul de a face de rușine, umili, speria, amenința, reduce la tăcere victima.\n\n(4) Serviciile sociale pentru prevenirea și combaterea violenței domestice cu program continuu sunt:a) servicii de informare și consiliere pentru victimele violenței domestice de tip linie telefonică de urgență - help-line;b) servicii integrate de urgență destinate victimelor violenței sexuale.",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "(1) Domestic violence manifests itself in the following forms:a) verbal violence - addressing through offensive, brutal language, such as the use of insults, threats, degrading or humiliating words and expressions;b) psychological violence - imposition of will or personal control, causing states of tension and psychological suffering in any manner and by any means, through verbal threats or in any other way, blackmail, demonstrative violence against objects and animals, ostentatious display of weapons, neglect, control of personal life, acts of jealousy, constraints of any kind, unlawful stalking, surveillance of the dwelling, workplace or other places frequented by the victim, making telephone calls or other types of communications through remote transmission means, which through their frequency, content or moment they are made create fear, as well as other actions with similar effect;c) physical violence - bodily harm or harm to health through hitting, pushing, slamming, hair pulling, stabbing, cutting, burning, strangling, biting, in any form and of any intensity, including those disguised as being the result of accidents, through poisoning, intoxication, as well as other actions with similar effect, subjection to exhausting physical efforts or to activities with a high degree of risk to life or health and bodily integrity, other than those referred to in letter e);d) sexual violence - sexual assault, imposition of degrading acts, harassment, intimidation, manipulation, brutality with a view to maintaining forced sexual relations, marital rape;e) economic violence - prohibition of professional activity, deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, necessities, the action of intentional misappropriation of the person's property, prohibition of the right to own, use and dispose of common property, inequitable control over common property and resources, refusal to support the family, imposition of hard and harmful work to the detriment of health, including to a minor family member, as well as other actions with similar effect;f) social violence - imposition of isolation of the person from family, community and friends, prohibition of attending educational institutions or the workplace, prohibition/limitation of professional achievement, imposition of isolation, including in the common dwelling, deprivation of access to the living space, dispossession of identity documents, intentional deprivation of access to information, as well as other actions with similar effect;g) spiritual violence - underestimation or diminishment of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of family members' aspirations, of access to cultural, ethnic, linguistic or religious values, prohibition of the right to speak in one's mother tongue and to teach children to speak in their mother tongue, imposition of adherence to unacceptable spiritual and religious beliefs and practices, as well as other actions with similar effect or similar repercussions;h) cyber violence - online harassment, online messages instigating gender-based hatred, online stalking, online threats, non-consensual publication of information and intimate graphic content, illegal access to intercept communications and private data and any other form of abusive use of information and communication technology through computers, smartphones or other similar devices that use telecommunications or can connect to the internet and can transmit and use social or e-mail platforms, with the purpose of shaming, humiliating, frightening, threatening, silencing the victim.",
+      "rationale": "Physical violence is explicitly defined/listed as a form of domestic violence in an operative provision, describing bodily/health injury through various acts, which constitutes substantive coverage under the coding rules.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Violența domestică se manifestă sub următoarele forme:a) violența verbală - adresarea printr-un limbaj jignitor, brutal, precum utilizarea de insulte, amenințări, cuvinte și expresii degradante sau umilitoare;b) violența psihologică - impunerea voinței sau a controlului personal, provocarea de stări de tensiune și de suferință psihică în orice mod și prin orice mijloace, prin amenințare verbală sau în orice altă modalitate, șantaj, violență demonstrativă asupra obiectelor și animalelor, afișare ostentativă a armelor, neglijare, controlul vieții personale, acte de gelozie, constrângerile de orice fel, urmărirea fără drept, supravegherea locuinței, a locului de muncă sau a altor locuri frecventate de victimă, efectuarea de apeluri telefonice sau alte tipuri de comunicări prin mijloace de transmitere la distanță, care prin frecvență, conținut sau momentul în care sunt emise creează temere, precum și alte acțiuni cu efect similar;c) violența fizică - vătămarea corporală ori a sănătății prin lovire, îmbrâncire, trântire, tragere de păr, înțepare, tăiere, ardere, strangulare, mușcare, în orice formă și de orice intensitate, inclusiv mascate ca fiind rezultatul unor accidente, prin otrăvire, intoxicare, precum și alte acțiuni cu efect similar, supunerea la eforturi fizice epuizante sau la activități cu grad mare de risc pentru viață sau sănătate și integritate corporală, altele decât cele de la lit. e);d) violența sexuală - agresiune sexuală, impunere de acte degradante, hărțuire, intimidare, manipulare, brutalitate în vederea întreținerii unor relații sexuale forțate, viol conjugal;e) violența economică - interzicerea activității profesionale, privare de mijloace economice, inclusiv lipsire de mijloace de existență primară, cum ar fi hrană, medicamente, obiecte de primă necesitate, acțiunea de sustragere intenționată a bunurilor persoanei, interzicerea dreptului de a poseda, folosi și dispune de bunurile comune, control inechitabil asupra bunurilor și resurselor comune, refuzul de a susține familia, impunerea de munci grele și nocive în detrimentul sănătății, inclusiv unui membru de familie minor, precum și alte acțiuni cu efect similar;f) violența socială - impunerea izolării persoanei de familie, de comunitate și de prieteni, interzicerea frecventării instituției de învățământ sau a locului de muncă, interzicerea/limitarea realizării profesionale, impunerea izolării, inclusiv în locuința comună, privarea de acces în spațiul de locuit, deposedarea de acte de identitate, privare intenționată de acces la informație, precum și alte acțiuni cu efect similar;g) violența spirituală - subestimarea sau diminuarea importanței satisfacerii necesităților moral-spirituale prin interzicere, limitare, ridiculizare, penalizare a aspirațiilor membrilor de familie, a accesului la valorile culturale, etnice, lingvistice ori religioase, interzicerea dreptului de a vorbi în limba maternă și de a învăța copiii să vorbească în limba maternă, impunerea aderării la credințe și practici spirituale și religioase inacceptabile, precum și alte acțiuni cu efect similar sau cu repercusiuni similare;h) violența cibernetică - hărțuire online, mesaje online instigatoare la ură pe bază de gen, urmărire online, amenințări online, publicarea nonconsensuală de informații și conținut grafic intim, accesul ilegal de interceptare a comunicațiilor și datelor private și orice altă formă de utilizare abuzivă a tehnologiei informației și a comunicațiilor prin intermediul calculatoarelor, telefoanelor mobile inteligente sau altor dispozitive similare care folosesc telecomunicațiile sau se pot conecta la internet și pot transmite și utiliza platformele sociale sau de e-mail, cu scopul de a face de rușine, umili, speria, amenința, reduce la tăcere victima.",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "(1) Domestic violence manifests itself in the following forms:a) verbal violence - addressing through offensive, brutal language, such as the use of insults, threats, degrading or humiliating words and expressions;b) psychological violence - imposition of will or personal control, causing states of tension and psychological suffering in any manner and by any means, through verbal threats or in any other way, blackmail, demonstrative violence against objects and animals, ostentatious display of weapons, neglect, control of personal life, acts of jealousy, constraints of any kind, unlawful stalking, surveillance of the dwelling, workplace or other places frequented by the victim, making telephone calls or other types of communications through remote transmission means, which through their frequency, content or moment they are made create fear, as well as other actions with similar effect;c) physical violence - bodily harm or harm to health through hitting, pushing, slamming, hair pulling, stabbing, cutting, burning, strangling, biting, in any form and of any intensity, including those disguised as being the result of accidents, through poisoning, intoxication, as well as other actions with similar effect, subjection to exhausting physical efforts or to activities with a high degree of risk to life or health and bodily integrity, other than those referred to in letter e);d) sexual violence - sexual assault, imposition of degrading acts, harassment, intimidation, manipulation, brutality with a view to maintaining forced sexual relations, marital rape;e) economic violence - prohibition of professional activity, deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, necessities, the action of intentional misappropriation of the person's property, prohibition of the right to own, use and dispose of common property, inequitable control over common property and resources, refusal to support the family, imposition of hard and harmful work to the detriment of health, including to a minor family member, as well as other actions with similar effect;f) social violence - imposition of isolation of the person from family, community and friends, prohibition of attending educational institutions or the workplace, prohibition/limitation of professional achievement, imposition of isolation, including in the common dwelling, deprivation of access to the living space, dispossession of identity documents, intentional deprivation of access to information, as well as other actions with similar effect;g) spiritual violence - underestimation or diminishment of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of family members' aspirations, of access to cultural, ethnic, linguistic or religious values, prohibition of the right to speak in one's mother tongue and to teach children to speak in their mother tongue, imposition of adherence to unacceptable spiritual and religious beliefs and practices, as well as other actions with similar effect or similar repercussions;h) cyber violence - online harassment, online messages instigating gender-based hatred, online stalking, online threats, non-consensual publication of information and intimate graphic content, illegal access to intercept communications and private data and any other form of abusive use of information and communication technology through computers, smartphones or other similar devices that use telecommunications or can connect to the internet and can transmit and use social or e-mail platforms, with the purpose of shaming, humiliating, frightening, threatening, silencing the victim.",
+      "rationale": "Psychological violence is explicitly included and described in the operative classification of domestic violence (including control, threats, blackmail, stalking/surveillance and other actions causing psychological suffering), meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Violența domestică se manifestă sub următoarele forme:a) violența verbală - adresarea printr-un limbaj jignitor, brutal, precum utilizarea de insulte, amenințări, cuvinte și expresii degradante sau umilitoare;b) violența psihologică - impunerea voinței sau a controlului personal, provocarea de stări de tensiune și de suferință psihică în orice mod și prin orice mijloace, prin amenințare verbală sau în orice altă modalitate, șantaj, violență demonstrativă asupra obiectelor și animalelor, afișare ostentativă a armelor, neglijare, controlul vieții personale, acte de gelozie, constrângerile de orice fel, urmărirea fără drept, supravegherea locuinței, a locului de muncă sau a altor locuri frecventate de victimă, efectuarea de apeluri telefonice sau alte tipuri de comunicări prin mijloace de transmitere la distanță, care prin frecvență, conținut sau momentul în care sunt emise creează temere, precum și alte acțiuni cu efect similar;c) violența fizică - vătămarea corporală ori a sănătății prin lovire, îmbrâncire, trântire, tragere de păr, înțepare, tăiere, ardere, strangulare, mușcare, în orice formă și de orice intensitate, inclusiv mascate ca fiind rezultatul unor accidente, prin otrăvire, intoxicare, precum și alte acțiuni cu efect similar, supunerea la eforturi fizice epuizante sau la activități cu grad mare de risc pentru viață sau sănătate și integritate corporală, altele decât cele de la lit. e);d) violența sexuală - agresiune sexuală, impunere de acte degradante, hărțuire, intimidare, manipulare, brutalitate în vederea întreținerii unor relații sexuale forțate, viol conjugal;e) violența economică - interzicerea activității profesionale, privare de mijloace economice, inclusiv lipsire de mijloace de existență primară, cum ar fi hrană, medicamente, obiecte de primă necesitate, acțiunea de sustragere intenționată a bunurilor persoanei, interzicerea dreptului de a poseda, folosi și dispune de bunurile comune, control inechitabil asupra bunurilor și resurselor comune, refuzul de a susține familia, impunerea de munci grele și nocive în detrimentul sănătății, inclusiv unui membru de familie minor, precum și alte acțiuni cu efect similar;f) violența socială - impunerea izolării persoanei de familie, de comunitate și de prieteni, interzicerea frecventării instituției de învățământ sau a locului de muncă, interzicerea/limitarea realizării profesionale, impunerea izolării, inclusiv în locuința comună, privarea de acces în spațiul de locuit, deposedarea de acte de identitate, privare intenționată de acces la informație, precum și alte acțiuni cu efect similar;g) violența spirituală - subestimarea sau diminuarea importanței satisfacerii necesităților moral-spirituale prin interzicere, limitare, ridiculizare, penalizare a aspirațiilor membrilor de familie, a accesului la valorile culturale, etnice, lingvistice ori religioase, interzicerea dreptului de a vorbi în limba maternă și de a învăța copiii să vorbească în limba maternă, impunerea aderării la credințe și practici spirituale și religioase inacceptabile, precum și alte acțiuni cu efect similar sau cu repercusiuni similare;h) violența cibernetică - hărțuire online, mesaje online instigatoare la ură pe bază de gen, urmărire online, amenințări online, publicarea nonconsensuală de informații și conținut grafic intim, accesul ilegal de interceptare a comunicațiilor și datelor private și orice altă formă de utilizare abuzivă a tehnologiei informației și a comunicațiilor prin intermediul calculatoarelor, telefoanelor mobile inteligente sau altor dispozitive similare care folosesc telecomunicațiile sau se pot conecta la internet și pot transmite și utiliza platformele sociale sau de e-mail, cu scopul de a face de rușine, umili, speria, amenința, reduce la tăcere victima.",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "(1) Domestic violence manifests itself in the following forms:a) verbal violence - addressing through offensive, brutal language, such as the use of insults, threats, degrading or humiliating words and expressions;b) psychological violence - imposition of will or personal control, causing states of tension and psychological suffering in any manner and by any means, through verbal threats or in any other way, blackmail, demonstrative violence against objects and animals, ostentatious display of weapons, neglect, control of personal life, acts of jealousy, constraints of any kind, unlawful stalking, surveillance of the dwelling, workplace or other places frequented by the victim, making telephone calls or other types of communications through remote transmission means, which through their frequency, content or moment they are made create fear, as well as other actions with similar effect;c) physical violence - bodily harm or harm to health through hitting, pushing, slamming, hair pulling, stabbing, cutting, burning, strangling, biting, in any form and of any intensity, including those disguised as being the result of accidents, through poisoning, intoxication, as well as other actions with similar effect, subjection to exhausting physical efforts or to activities with a high degree of risk to life or health and bodily integrity, other than those referred to in letter e);d) sexual violence - sexual assault, imposition of degrading acts, harassment, intimidation, manipulation, brutality with a view to maintaining forced sexual relations, marital rape;e) economic violence - prohibition of professional activity, deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, necessities, the action of intentional misappropriation of the person's property, prohibition of the right to own, use and dispose of common property, inequitable control over common property and resources, refusal to support the family, imposition of hard and harmful work to the detriment of health, including to a minor family member, as well as other actions with similar effect;f) social violence - imposition of isolation of the person from family, community and friends, prohibition of attending educational institutions or the workplace, prohibition/limitation of professional achievement, imposition of isolation, including in the common dwelling, deprivation of access to the living space, dispossession of identity documents, intentional deprivation of access to information, as well as other actions with similar effect;g) spiritual violence - underestimation or diminishment of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of family members' aspirations, of access to cultural, ethnic, linguistic or religious values, prohibition of the right to speak in one's mother tongue and to teach children to speak in their mother tongue, imposition of adherence to unacceptable spiritual and religious beliefs and practices, as well as other actions with similar effect or similar repercussions;h) cyber violence - online harassment, online messages instigating gender-based hatred, online stalking, online threats, non-consensual publication of information and intimate graphic content, illegal access to intercept communications and private data and any other form of abusive use of information and communication technology through computers, smartphones or other similar devices that use telecommunications or can connect to the internet and can transmit and use social or e-mail platforms, with the purpose of shaming, humiliating, frightening, threatening, silencing the victim.",
+      "rationale": "Economic violence is explicitly identified and described as a form of domestic violence in an operative provision (including deprivation of economic means and subsistence, refusal to support the family, and related conduct), which satisfies the criterion’s requirement that economic violence/abuse be defined or identified as a form of violence with legal consequences.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Violența domestică se manifestă sub următoarele forme:a) violența verbală - adresarea printr-un limbaj jignitor, brutal, precum utilizarea de insulte, amenințări, cuvinte și expresii degradante sau umilitoare;b) violența psihologică - impunerea voinței sau a controlului personal, provocarea de stări de tensiune și de suferință psihică în orice mod și prin orice mijloace, prin amenințare verbală sau în orice altă modalitate, șantaj, violență demonstrativă asupra obiectelor și animalelor, afișare ostentativă a armelor, neglijare, controlul vieții personale, acte de gelozie, constrângerile de orice fel, urmărirea fără drept, supravegherea locuinței, a locului de muncă sau a altor locuri frecventate de victimă, efectuarea de apeluri telefonice sau alte tipuri de comunicări prin mijloace de transmitere la distanță, care prin frecvență, conținut sau momentul în care sunt emise creează temere, precum și alte acțiuni cu efect similar;c) violența fizică - vătămarea corporală ori a sănătății prin lovire, îmbrâncire, trântire, tragere de păr, înțepare, tăiere, ardere, strangulare, mușcare, în orice formă și de orice intensitate, inclusiv mascate ca fiind rezultatul unor accidente, prin otrăvire, intoxicare, precum și alte acțiuni cu efect similar, supunerea la eforturi fizice epuizante sau la activități cu grad mare de risc pentru viață sau sănătate și integritate corporală, altele decât cele de la lit. e);d) violența sexuală - agresiune sexuală, impunere de acte degradante, hărțuire, intimidare, manipulare, brutalitate în vederea întreținerii unor relații sexuale forțate, viol conjugal;e) violența economică - interzicerea activității profesionale, privare de mijloace economice, inclusiv lipsire de mijloace de existență primară, cum ar fi hrană, medicamente, obiecte de primă necesitate, acțiunea de sustragere intenționată a bunurilor persoanei, interzicerea dreptului de a poseda, folosi și dispune de bunurile comune, control inechitabil asupra bunurilor și resurselor comune, refuzul de a susține familia, impunerea de munci grele și nocive în detrimentul sănătății, inclusiv unui membru de familie minor, precum și alte acțiuni cu efect similar;f) violența socială - impunerea izolării persoanei de familie, de comunitate și de prieteni, interzicerea frecventării instituției de învățământ sau a locului de muncă, interzicerea/limitarea realizării profesionale, impunerea izolării, inclusiv în locuința comună, privarea de acces în spațiul de locuit, deposedarea de acte de identitate, privare intenționată de acces la informație, precum și alte acțiuni cu efect similar;g) violența spirituală - subestimarea sau diminuarea importanței satisfacerii necesităților moral-spirituale prin interzicere, limitare, ridiculizare, penalizare a aspirațiilor membrilor de familie, a accesului la valorile culturale, etnice, lingvistice ori religioase, interzicerea dreptului de a vorbi în limba maternă și de a învăța copiii să vorbească în limba maternă, impunerea aderării la credințe și practici spirituale și religioase inacceptabile, precum și alte acțiuni cu efect similar sau cu repercusiuni similare;h) violența cibernetică - hărțuire online, mesaje online instigatoare la ură pe bază de gen, urmărire online, amenințări online, publicarea nonconsensuală de informații și conținut grafic intim, accesul ilegal de interceptare a comunicațiilor și datelor private și orice altă formă de utilizare abuzivă a tehnologiei informației și a comunicațiilor prin intermediul calculatoarelor, telefoanelor mobile inteligente sau altor dispozitive similare care folosesc telecomunicațiile sau se pot conecta la internet și pot transmite și utiliza platformele sociale sau de e-mail, cu scopul de a face de rușine, umili, speria, amenința, reduce la tăcere victima.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address domestic violence generally and include a clause stating that custom, culture, religion, tradition and honour cannot justify acts of violence, but they do not mention or regulate any of the specified harmful practices (e.g., child/early marriage, FGM/C, honour crimes as a distinct practice, female infanticide) or similar practices through specific prohibitions, minimum-age rules, or targeted measures.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention femicide/feminicide, gender-motivated killing of women, or an equivalent term, nor do they establish femicide-specific definitions, aggravating factors, registries/observatories, or other femicide-focused prevention/response measures.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on domestic violence protection orders and related procedures. While one sentence references a law on preventing and combating illicit drug trafficking/consumption, there is no mention of trafficking in persons/human trafficking or trafficking victims, nor any trafficking-related exploitation provisions or services.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include references to sexual violence (e.g., assault, forced sexual relations, marital rape) and services for victims of sexual violence, but they do not mention or regulate sexual exploitation or sexual slavery (including exploitation for commercial/material gain, forced prostitution, or trafficking-for-sexual-exploitation).",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "Yes",
+      "evidence": "(1) Domestic violence manifests itself in the following forms:a) verbal violence - addressing through offensive, brutal language, such as the use of insults, threats, degrading or humiliating words and expressions;b) psychological violence - imposition of will or personal control, causing states of tension and psychological suffering in any manner and by any means, through verbal threats or in any other way, blackmail, demonstrative violence against objects and animals, ostentatious display of weapons, neglect, control of personal life, acts of jealousy, constraints of any kind, unlawful stalking, surveillance of the dwelling, workplace or other places frequented by the victim, making telephone calls or other types of communications through remote transmission means, which through their frequency, content or moment they are made create fear, as well as other actions with similar effect;c) physical violence - bodily harm or harm to health through hitting, pushing, slamming, hair pulling, stabbing, cutting, burning, strangling, biting, in any form and of any intensity, including those disguised as being the result of accidents, through poisoning, intoxication, as well as other actions with similar effect, subjection to exhausting physical efforts or to activities with a high degree of risk to life or health and bodily integrity, other than those referred to in letter e);d) sexual violence - sexual assault, imposition of degrading acts, harassment, intimidation, manipulation, brutality with a view to maintaining forced sexual relations, marital rape;e) economic violence - prohibition of professional activity, deprivation of economic means, including deprivation of primary means of subsistence, such as food, medicines, necessities, the action of intentional misappropriation of the person's property, prohibition of the right to own, use and dispose of common property, inequitable control over common property and resources, refusal to support the family, imposition of hard and harmful work to the detriment of health, including to a minor family member, as well as other actions with similar effect;f) social violence - imposition of isolation of the person from family, community and friends, prohibition of attending educational institutions or the workplace, prohibition/limitation of professional achievement, imposition of isolation, including in the common dwelling, deprivation of access to the living space, dispossession of identity documents, intentional deprivation of access to information, as well as other actions with similar effect;g) spiritual violence - underestimation or diminishment of the importance of satisfying moral-spiritual needs through prohibition, limitation, ridicule, penalization of family members' aspirations, of access to cultural, ethnic, linguistic or religious values, prohibition of the right to speak in one's mother tongue and to teach children to speak in their mother tongue, imposition of adherence to unacceptable spiritual and religious beliefs and practices, as well as other actions with similar effect or similar repercussions;h) cyber violence - online harassment, online messages instigating gender-based hatred, online stalking, online threats, non-consensual publication of information and intimate graphic content, illegal access to intercept communications and private data and any other form of abusive use of information and communication technology through computers, smartphones or other similar devices that use telecommunications or can connect to the internet and can transmit and use social or e-mail platforms, with the purpose of shaming, humiliating, frightening, threatening, silencing the victim.\nFor the purposes of this law, domestic violence means any intentional inaction or action of physical, sexual, psychological, economic, social, spiritual or cyber violence, which occurs in the family or domestic environment or between spouses or former spouses, as well as between current or former partners, regardless of whether the aggressor lives or has lived together with the victim.\n(3) The Ministry of Transport, Infrastructure and Communications, through the coordinated bodies responsible for prevention, analysis, identification and response to incidents within cyber infrastructures, has the obligation to carry out the necessary steps to develop public awareness campaigns regarding cyber violence and to provide practical assistance to central and local authorities in the prevention and response to cyber violence.",
+      "rationale": "The candidate sentences explicitly recognize cyber violence as a form of domestic violence and describe technology-facilitated acts (e.g., online harassment, online stalking, online threats, non-consensual publication of intimate content, illegal access to communications/private data). They also assign an institutional obligation to develop awareness campaigns and provide assistance regarding cyber violence, indicating operative treatment beyond mere service-delivery technology references.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Violența domestică se manifestă sub următoarele forme:a) violența verbală - adresarea printr-un limbaj jignitor, brutal, precum utilizarea de insulte, amenințări, cuvinte și expresii degradante sau umilitoare;b) violența psihologică - impunerea voinței sau a controlului personal, provocarea de stări de tensiune și de suferință psihică în orice mod și prin orice mijloace, prin amenințare verbală sau în orice altă modalitate, șantaj, violență demonstrativă asupra obiectelor și animalelor, afișare ostentativă a armelor, neglijare, controlul vieții personale, acte de gelozie, constrângerile de orice fel, urmărirea fără drept, supravegherea locuinței, a locului de muncă sau a altor locuri frecventate de victimă, efectuarea de apeluri telefonice sau alte tipuri de comunicări prin mijloace de transmitere la distanță, care prin frecvență, conținut sau momentul în care sunt emise creează temere, precum și alte acțiuni cu efect similar;c) violența fizică - vătămarea corporală ori a sănătății prin lovire, îmbrâncire, trântire, tragere de păr, înțepare, tăiere, ardere, strangulare, mușcare, în orice formă și de orice intensitate, inclusiv mascate ca fiind rezultatul unor accidente, prin otrăvire, intoxicare, precum și alte acțiuni cu efect similar, supunerea la eforturi fizice epuizante sau la activități cu grad mare de risc pentru viață sau sănătate și integritate corporală, altele decât cele de la lit. e);d) violența sexuală - agresiune sexuală, impunere de acte degradante, hărțuire, intimidare, manipulare, brutalitate în vederea întreținerii unor relații sexuale forțate, viol conjugal;e) violența economică - interzicerea activității profesionale, privare de mijloace economice, inclusiv lipsire de mijloace de existență primară, cum ar fi hrană, medicamente, obiecte de primă necesitate, acțiunea de sustragere intenționată a bunurilor persoanei, interzicerea dreptului de a poseda, folosi și dispune de bunurile comune, control inechitabil asupra bunurilor și resurselor comune, refuzul de a susține familia, impunerea de munci grele și nocive în detrimentul sănătății, inclusiv unui membru de familie minor, precum și alte acțiuni cu efect similar;f) violența socială - impunerea izolării persoanei de familie, de comunitate și de prieteni, interzicerea frecventării instituției de învățământ sau a locului de muncă, interzicerea/limitarea realizării profesionale, impunerea izolării, inclusiv în locuința comună, privarea de acces în spațiul de locuit, deposedarea de acte de identitate, privare intenționată de acces la informație, precum și alte acțiuni cu efect similar;g) violența spirituală - subestimarea sau diminuarea importanței satisfacerii necesităților moral-spirituale prin interzicere, limitare, ridiculizare, penalizare a aspirațiilor membrilor de familie, a accesului la valorile culturale, etnice, lingvistice ori religioase, interzicerea dreptului de a vorbi în limba maternă și de a învăța copiii să vorbească în limba maternă, impunerea aderării la credințe și practici spirituale și religioase inacceptabile, precum și alte acțiuni cu efect similar sau cu repercusiuni similare;h) violența cibernetică - hărțuire online, mesaje online instigatoare la ură pe bază de gen, urmărire online, amenințări online, publicarea nonconsensuală de informații și conținut grafic intim, accesul ilegal de interceptare a comunicațiilor și datelor private și orice altă formă de utilizare abuzivă a tehnologiei informației și a comunicațiilor prin intermediul calculatoarelor, telefoanelor mobile inteligente sau altor dispozitive similare care folosesc telecomunicațiile sau se pot conecta la internet și pot transmite și utiliza platformele sociale sau de e-mail, cu scopul de a face de rușine, umili, speria, amenința, reduce la tăcere victima.\n\nÎn sensul prezentei legi, violența domestică înseamnă orice inacțiune sau acțiune intenționată de violență fizică, sexuală, psihologică, economică, socială, spirituală sau cibernetică, care se produce în mediul familial sau domestic ori între soți sau foști soți, precum și între actuali sau foști parteneri, indiferent dacă agresorul locuiește sau a locuit împreună cu victima.\n\n(3) Ministerul Transporturilor, Infrastructurii și Comunicațiilor, prin organismele aflate în coordonare responsabile de prevenirea, analiza, identificarea și reacția la incidente în cadrul infrastructurilor cibernetice, are obligația de a efectua demersurile necesare pentru a dezvolta campanii de sensibilizare publică privind violența cibernetică și să ofere asistență practică autorităților centrale și locale în prevenirea și răspunsul la violența cibernetică.",
+      "evidence_original_aligned": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "(6) The operative part of the decision shall include the mention that violation of any of the measures ordered by the protection order constitutes an offense, according to art. 47 para.",
+      "rationale": "The framework explicitly states that violation of measures ordered by a protection order constitutes an offense, which establishes a criminal consequence linked to domestic violence-related protective measures. While the excerpts do not specify imprisonment/fines or define domestic-violence acts themselves as standalone criminal offences with penalties, they do establish criminal liability in connection with domestic-violence protection measures.",
+      "coverage": "Substantive",
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) Dispozitivul hotărârii va cuprinde și mențiunea că încălcarea oricăreia dintre măsurile dispuse prin ordinul de protecție constituie infracțiune, conform art. 47 alin.",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "(1) The application for issuance of the protection order is within the competence of the court in the territorial area where the victim has their domicile or residence.\n(2) The application for issuance of the order may be filed by the victim personally or through a legal representative.\n(1) Through the provisional protection order, for a period of 5 days, one or more protection measures are ordered, capable of contributing to the diminution of the ascertained imminent risk, from among the following obligations or prohibitions:a) temporary evacuation of the aggressor from the common dwelling, regardless of whether they are the holder of the property right;b) reintegration of the victim and, as the case may be, the children in the common dwelling;c) obligating the aggressor to maintain a determined minimum distance from the victim, from the members of their family, as defined according to the provisions of art. 5, or from the residence, workplace or educational institution of the protected person;d) obligating the aggressor to permanently wear an electronic surveillance device; (on 21-05-2021, the phrase: electronic surveillance system was replaced by Article 46, Title II of LAW no. 146 of 17 May 2021, published in the OFFICIAL GAZETTE no. 515 of 18 May 2021) e) obligating the aggressor to surrender the weapons held to the police.\n(on 21-05-2021, the phrase: electronic surveillance system was replaced by Article 46, Title II of LAW no. 146 of 17 May 2021, published in the OFFICIAL GAZETTE no. 515 of 18 May 2021) (4) The provisional protection order shall also contain the mention that the violation of any of the measures ordered in paragraph (1) constitutes an offense, according to the provisions of art. 47 paragraph (2).",
+      "rationale": "The text provides a protection/provisional protection order mechanism: it identifies the issuing authority (court for protection orders; police officers for provisional protection orders), who may apply (victim personally or via representative), a defined duration for the provisional protection order (5 days), and a defined consequence for breach (violation constitutes an offense).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Cererea pentru emiterea ordinului de protecție este de competența judecătoriei de pe raza teritorială în care își are domiciliul sau reședința victima.\n\n(2) Cererea pentru emiterea ordinului poate fi introdusă de victimă personal sau prin reprezentant legal.\n\n(1) Prin ordinul de protecție provizoriu se dispun, pentru o perioadă de 5 zile, una ori mai multe măsuri de protecție, apte să contribuie la diminuarea riscului iminent constatat, dintre următoarele obligații sau interdicții:a) evacuarea temporară a agresorului din locuința comună, indiferent dacă acesta este titularul dreptului de proprietate;b) reintegrarea victimei și, după caz, a copiilor în locuința comună;c) obligarea agresorului la păstrarea unei distanțe minime determinate față de victimă, față de membrii familiei acesteia, astfel cum sunt definiți potrivit prevederilor art. 5, ori față de reședința, locul de muncă sau unitatea de învățământ a persoanei protejate;d) obligarea agresorului de a purta permanent un dispozitiv electronic de supraveghere; (la 21-05-2021, sintagma: sistem electronic de supraveghere a fost înlocuită de Articolul 46, Titlul II din LEGEA nr. 146 din 17 mai 2021, publicată în MONITORUL OFICIAL nr. 515 din 18 mai 2021 ) e) obligarea agresorului de a preda poliției armele deținute.\n\n(la 21-05-2021, sintagma: sistem electronic de supraveghere a fost înlocuită de Articolul 46, Titlul II din LEGEA nr. 146 din 17 mai 2021, publicată în MONITORUL OFICIAL nr. 515 din 18 mai 2021 ) (4) Ordinul de protecție provizoriu va cuprinde și mențiunea că încălcarea oricăreia dintre măsurile dispuse la alin. (1) constituie infracțiune, potrivit prevederilor art. 47 alin. (2).",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss police procedures for managing domestic violence cases and inter-institutional cooperation, but they do not designate a specific specialised unit/desk/division within police services dedicated to victims of violence against women (or domestic violence).",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "(1) Applications for the issuance of protection orders are judged in chambers, with mandatory participation of the prosecutor.\n(4) The trial is conducted urgently and with priority.\n(9) The resolution of applications cannot exceed a period of 72 hours from the filing of the application, except in the case where a provisional protection order has been previously issued, whose initial duration is extended, by law, with the time necessary to complete the judicial procedure for issuing the protection order, with notification of the aggressor about this fact.",
+      "rationale": "The framework establishes a specialised/expedited judicial procedure for protection-order cases: hearings in chambers, urgent/priority handling, and a maximum timeframe for resolution (72 hours). This constitutes a special judicial procedure within the meaning of the criterion.",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Cererile pentru emiterea ordinului de protecție se judecă în camera de consiliu, participarea procurorului fiind obligatorie.\n\n(4) Judecata se face de urgență și cu precădere.\n\n(9) Soluționarea cererilor nu poate depăși un termen de 72 de ore de la depunerea cererii, cu excepția cazului în care, anterior, s-a emis un ordin de protecție provizoriu, durata inițială pentru care acesta este dispus fiind prelungită, de drept, cu durata necesară îndeplinirii procedurii judiciare de emitere a ordinului de protecție, cu informarea agresorului despre acest fapt.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text lists “marital rape” as a form of sexual violence within domestic violence, the provided sentences do not contain an operative provision expressly criminalising marital rape, stating that spousal status is not a defence, or otherwise removing a spousal exemption from criminal liability for sexual offences. Under the coding rules, this is insufficient to code Yes.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "(4) At the level of counties and sectors of Bucharest Municipality, the intersectoral team in the field of preventing and combating domestic violence, with an advisory role, is established alongside the county/Bucharest Municipality sectors general directorates for social assistance and child protection.\n(7) The intersectoral team proposes measures to improve activity in the field, ensures cooperation between the institutions provided in para.",
+      "rationale": "The framework establishes a formal multi-agency coordination mechanism at county/sector level (an intersectoral team) and specifies that it ensures cooperation between listed institutions, which meets the requirement for an institutional coordination mechanism across agencies/sectors/jurisdictions.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(4) La nivelul județelor și sectoarelor municipiului București se înființează, pe lângă direcțiile generale de asistență socială și protecția copilului județene/ale sectoarelor municipiului București, echipa intersectorială în domeniul prevenirii și combaterii violenței domestice, cu rol consultativ.\n\n(7) Echipa intersectorială propune măsuri de îmbunătățire a activității în domeniu, asigură cooperarea dintre instituțiile prevăzute la alin.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "(6) The National Agency for Equality of Opportunity between Women and Men manages the national database regarding victims of domestic violence and aggressors who benefit from the provision of social services existing at the level of each county.\n(3) The central and local public administration authorities competent in preventing and combating domestic violence have the obligation to collect relevant, disaggregated statistical data at regular intervals on cases of domestic violence.",
+      "rationale": "The framework assigns responsibility for managing a national database on victims/aggressors and also mandates regular collection of disaggregated statistical data on domestic violence cases by competent authorities, satisfying the requirement to establish/require data collection and a responsible entity/system.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(6) Agenția Națională pentru Egalitatea de Șanse între Femei și Bărbați gestionează baza de date națională privind victimele violenței domestice și agresorii care beneficiază de furnizarea serviciilor sociale existente la nivelul fiecărui județ.\n\n(3) Autoritățile administrației publice centrale și locale competente în prevenirea și combaterea violenței domestice au obligația de a colecta date statistice relevante, dezagregate și la intervale regulate privind cazurile de violență domestică.",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to gender equality principles and to integrating a gender equality perspective in AI-related policies, but they do not explicitly establish or require gender mainstreaming as an institutional mechanism for implementing violence against women/domestic violence policies and programs (no mainstreaming mechanism, working group, or institutionalized mainstreaming requirement for VAW implementation is specified).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "+ Articolul 12The authorities provided for in art. 8 ensure the continuous training and professional development of persons designated with responsibilities in the field of prevention and combating domestic violence.",
+      "rationale": "The framework explicitly requires continuous training and professional development for persons designated with responsibilities in preventing and combating domestic violence, which is a direct mandate for capacity building of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.92,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.92
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "+ Articolul 12Autoritățile prevăzute la art. 8 asigură pregătirea și perfecționarea continuă a persoanelor desemnate cu atribuții în domeniul prevenirii și combaterii violenței domestice.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(5) and (6) and evaluates the activity in the field annually.",
+      "rationale": "The framework establishes a specific body (the intersectoral team) with an explicit duty to evaluate activities annually, which constitutes a monitoring/evaluation mechanism for implementation/service-related activities in the domestic violence field.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(5) și (6) și evaluează anual activitatea în domeniu.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "Yes",
+      "evidence": "Financing in the field of prevention and combating of domestic violence + Article 53Activities in the field of prevention and combating of domestic violence are financed from the following sources:a) the state budget;b) the budgets of funds from external credits contracted or guaranteed by the state and whose repayment, interest and other costs are ensured from public funds;c) the budgets of non-reimbursable external funds;d) the local budgets of counties, respectively of the sectors of the municipality of Bucharest and of the General Council of the Municipality of Bucharest, as well as of municipalities, towns and communes; local authorities have the responsibility to estimate the local dimension of domestic violence situations and to allocate an adequate budget for activities in the field;e) donations, sponsorships and other sources, under the conditions of the law.",
+      "rationale": "The framework provides that activities in preventing and combating domestic violence are financed from specified sources including the state budget, which constitutes an operative provision establishing funding sources for implementation (including national-level funding).",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Finanțarea în domeniul prevenirii și combaterii violenței domestice + Articolul 53Activitățile în domeniul prevenirii și combaterii violenței domestice se finanțează din următoarele surse:a) bugetul de stat;b) bugetele fondurilor provenite din credite externe contractate sau garantate de stat și ale căror rambursare, dobânzi și alte costuri se asigură din fonduri publice;c) bugetele fondurilor externe nerambursabile;d) bugetele locale ale județelor, respectiv ale sectoarelor municipiului București și al Consiliului General al Municipiului București, precum și ale municipiilor, orașelor și comunelor; autoritățile locale au responsabilitatea de a estima dimensiunea locală a situațiilor de violență domestică și de a aloca un buget adecvat activităților din domeniu;e) donații, sponsorizări și alte surse, în condițiile legii.",
+      "evidence_original_aligned": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "Yes",
+      "evidence": "+ Articolul 26Integrated emergency centers in case of sexual violence provide medical and medico-legal examination, post-traumatic assistance and counseling for victims of sexual violence.",
+      "rationale": "The framework recognises an integrated, multi-service mechanism for victims of sexual violence by establishing integrated emergency centers that provide multiple forms of assistance (medical/forensic examination and post-traumatic assistance/counseling). This constitutes an integrated service mechanism for violence victims within operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "+ Articolul 26Centrele integrate de urgență în caz de violență sexuală asigură examinarea medicală și medico-legală, asistență posttraumatică și consiliere pentru victimele violenței sexuale.",
+      "evidence_original_aligned": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "+ Article 25Emergency hotline services are free social services that provide confidential counseling to callers regarding all forms of violence provided in art. 3 and 4.",
+      "rationale": "The framework establishes emergency hotline services as a free social service providing confidential counseling regarding forms of violence, which functions as a mechanism for victims/survivors to seek assistance and emergency support.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.87,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.87
+      },
+      "evidence_verified": true,
+      "evidence_original": "+ Articolul 25Serviciile de tip linie telefonică de urgență sunt servicii sociale gratuite care asigură consiliere apelanților, în mod confidențial, în legătură cu toate formele de violență prevăzute la art. 3 și 4.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(1) Reception centers in emergency regime, hereinafter referred to as shelters, are social assistance units, with or without legal personality, of residential type, which provide protection, accommodation, care and counseling to victims of domestic violence.",
+      "rationale": "The framework explicitly recognises shelters (emergency reception centres) as residential social assistance units that provide protection and accommodation to victims of domestic violence, satisfying the requirement for safe accommodation/residential protection in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Centrele de primire în regim de urgență, denumite în continuare adăposturi, sunt unități de asistență socială, cu sau fără personalitate juridică, de tip rezidențial, care asigură protecție, găzduire, îngrijire și consiliere victimelor violenței domestice.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "(2) Legal assistance for the person requesting the protection order is mandatory.",
+      "rationale": "The framework provides for legal assistance in protection-order proceedings by making legal assistance for the person requesting the protection order mandatory, which is an operative legal assistance provision applicable to victims seeking protection.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Asistența juridică a persoanei care solicită ordinul de protecție este obligatorie.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(1) Local public administration authorities have the obligation to take the following specific measures:a) to include the issue of preventing and combating domestic violence in regional, county and local development strategies and programs;b) to provide logistical, informational and material support to departments with responsibilities in preventing and combating domestic violence;c) to establish directly, in public partnership or, as applicable, in public-private partnership, social services for preventing and combating domestic violence and to support their operation;d) to develop programs for preventing and combating domestic violence;e) to support family aggressors' access to psychological counseling, psychotherapy, psychiatric treatments, detoxification and alcohol treatment;f) to develop and implement projects in the field of preventing and combating domestic violence;g) to provide in their annual budget amounts for supporting social services and other social assistance measures for victims of domestic violence and for other measures aimed at preventing and combating domestic violence;h) to bear, from the local budget, in cases of domestic violence established following the registration of the victim by public social assistance services, the expenses for drafting legal documents, as well as those necessary for obtaining forensic medical certificates for victims of domestic violence;i) to bear, from the local budget, in cases of domestic violence established following the registration of the victim by public social assistance services, the expenses for medical assistance to victims of domestic violence who do not have health insurance;j) to collaborate in implementing a system for recording, reporting and management of domestic violence cases.",
+      "rationale": "The framework requires local public administration authorities, in certain domestic violence cases, to bear costs for obtaining forensic medical certificates and to cover medical assistance expenses for victims without health insurance, explicitly linking medical/forensic services to domestic violence victims in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Autoritățile administrației publice locale au obligația să ia următoarele măsuri specifice:a) să includă problematica prevenirii și combaterii violenței domestice în strategiile și programele de dezvoltare regională, județeană și locală;b) să acorde sprijinul logistic, informațional și material compartimentelor cu atribuții în prevenirea și combaterea violenței domestice;c) să înființeze direct, în parteneriat public sau, după caz, în parteneriat public-privat, servicii sociale pentru prevenirea și combaterea violenței domestice și să susțină funcționarea acestora;d) să dezvolte programe de prevenire și combatere a violenței domestice;e) să sprijine accesul agresorilor familiali la consiliere psihologică, psihoterapie, tratamente psihiatrice, de dezintoxicare și dezalcoolizare;f) să elaboreze și să implementeze proiecte în domeniul prevenirii și combaterii violenței domestice;g) să își prevadă în bugetul anual sume pentru susținerea serviciilor sociale și a altor măsuri de asistență socială pentru victimele violenței domestice și pentru alte măsuri ce vizează prevenirea și combaterea violenței domestice;h) să suporte, din bugetul local, în cazurile de violență domestică constatate în urma luării în evidență a victimei de către serviciile publice de asistență socială, cheltuielile cu întocmirea actelor juridice, precum și cele necesare pentru obținerea certificatelor medico-legale pentru victimele violenței domestice;i) să suporte, din bugetul local, în cazurile de violență domestică constatate în urma luării în evidență a victimei de către serviciile publice de asistență socială, cheltuielile cu asistența medicală a victimelor violenței domestice care nu sunt asigurate medical;j) să colaboreze la implementarea unui sistem de înregistrare, raportare și management al cazurilor de violență domestică.",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "+ Articolul 23Centers for the prevention and combating of domestic violence are social assistance units in day regime, with or without legal personality, which provide social assistance, psychological and legal counseling, as well as information and guidance of victims of domestic violence.\n(2) The shelters provide free of charge, for a determined period, family assistance to both the victim and the minors in their care, protection against the aggressor, medical assistance and care, food, accommodation, psychological counselling and legal counselling, according to the organization and functioning instructions elaborated by the authority.",
+      "rationale": "The cited provisions establish victim-facing services that explicitly include psychological counselling (and related counselling) within domestic-violence support centers/shelters, which constitutes psychosocial/psychological support services for victims/survivors in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "+ Articolul 23Centrele pentru prevenirea și combaterea violenței domestice sunt unități de asistență socială în regim de zi, cu sau fără personalitate juridică, care asigură asistență socială, consiliere psihologică, juridică, precum și informarea și orientarea victimelor violenței domestice.\n\n(2) Adăposturile asigură gratuit, pe o perioadă determinată, asistență familială atât victimei, cât și minorilor aflați în îngrijirea acesteia, protecție împotriva agresorului, asistență medicală și îngrijire, hrană, cazare, consiliere psihologică și consiliere juridică, potrivit instrucțiunilor de organizare și funcționare elaborate de autoritate.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention “spiritual violence” as a form of domestic violence and reference cooperation with religious organizations, but they do not establish any religious/spiritual counselling, pastoral care, or faith-based victim-support service, nor assign such a counselling role to religious actors.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "Yes",
+      "evidence": "(1) Recovery centers for victims of domestic violence are residential social assistance units, with or without legal personality, which provide accommodation, care, legal and psychological counseling, support for adaptation to an active life, professional integration of victims of domestic violence, as well as their rehabilitation and social reintegration.\n(2) Recovery centers for victims of domestic violence shall conclude agreements with the county employment authorities and those of the sectors of Bucharest Municipality in order to provide support for work integration, readaptation and professional requalification of assisted persons.",
+      "rationale": "The cited provisions establish recovery centers for victims that provide longer-term support elements (rehabilitation and social reintegration) and include employment-related reintegration measures via agreements with employment authorities, meeting the criterion for recovery/rehabilitation/reintegration support in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Centrele de recuperare pentru victimele violenței domestice sunt unități de asistență socială de tip rezidențial, cu sau fără personalitate juridică, care asigură găzduirea, îngrijirea, consilierea juridică și psihologică, sprijin în vederea adaptării la o viață activă, inserția profesională a victimelor violenței domestice, precum și reabilitarea și reinserția socială a acestora.\n\n(2) Centrele de recuperare pentru victimele violenței domestice vor încheia convenții cu autoritățile pentru ocuparea forței de muncă județene și ale sectoarelor municipiului București în vederea acordării suportului pentru integrarea în muncă, readaptarea și recalificarea profesională a persoanelor asistate.",
+      "evidence_original_aligned": true
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "(1) Persons convicted of domestic violence offenses are obligated to participate in special counseling and social reintegration programs organized by the institutions in charge of executing the sentence in whose records they are.\n(3) In resolving divorce cases in which the fault of one of the spouses has been established regarding the commission of acts of domestic violence, the competent courts may order, ex officio or upon express request made by the other spouse, that the aggressor be required to participate in special psychological counseling programs organized by public or private specialized services.",
+      "rationale": "The cited provisions require convicted persons to participate in special counselling and social reintegration programs and allow courts (in relevant proceedings) to order aggressors to participate in special psychological counselling programs, which are perpetrator-focused intervention/behaviour-change measures in operative provisions.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Persoanele condamnate pentru infracțiuni de violență domestică sunt obligate să participe la programe speciale de consiliere și reinserție socială organizate de către instituțiile însărcinate cu executarea pedepsei în evidența cărora se află.\n\n(3) În soluționarea cazurilor de divorț, în care s-a reținut culpa unuia dintre soți cu privire la săvârșirea unor fapte de violență domestică, instanțele judecătorești competente pot dispune, din oficiu sau la cererea expresă formulată de către celălalt soț, în sarcina agresorului, măsura de a participa la programele speciale de consiliere psihologică organizate de către serviciile de specialitate publice sau private.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "(1) The central and local public administration authorities have the obligation to take the necessary measures for the prevention of domestic violence, for preventing situations of repeated violation of the fundamental rights of victims of domestic violence, including by providing information and education programmes on the ways in which cases of violence can be prevented, avoided, recognized and reported.",
+      "rationale": "The framework imposes an obligation on public authorities to prevent domestic violence, explicitly including the provision of information and education programmes on how violence can be prevented, avoided, recognized and reported, which is a primary-prevention information/education measure linked to violence (domestic violence).",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Autoritățile administrației publice centrale și locale au obligația să ia măsurile necesare pentru prevenirea violenței domestice, pentru preîntâmpinarea unor situații de încălcare repetată a drepturilor fundamentale ale victimelor violenței domestice, inclusiv prin furnizarea de informații și programe de educație despre modalitățile în care se pot preveni, evita, recunoaște și raporta cazurile de violență.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text includes curriculum content on equal opportunities and treatment between women and men, the coding rules require that gender-equality/women’s-rights education be explicitly linked to preventing violence against women. The cited provisions either focus on preventing domestic violence/harassment/sexual violence or mention equal opportunities as a topic, but do not explicitly frame gender-equality education itself as a VAW-prevention strategy in the candidate sentences for this criterion.",
+      "coverage": null,
+      "confidence": 0.6,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.6
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide for information/education about preventing domestic violence and for victims’ right to information about services and procedures, but they do not specify dissemination or education about laws, regulations, or policies on violence against women/domestic violence as such (i.e., public legal-awareness about the legal framework).",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "Yes",
+      "evidence": "(1) The Ministry of Education and Research has the obligation to carry out the necessary steps to introduce at the level of the curriculum implemented in class learning activities referring to: equal opportunities and treatment between women and men, mutual respect, non-violent resolution of conflicts in interpersonal relationships, gender-based violence and the right to personal integrity, as well as combating discriminatory stereotypes based on gender roles, adapted to the age and understanding of students.\n(3) The Ministry of Education and Research carries out, with the support of the other involved ministries and in collaboration with non-governmental organizations active in the field, educational programs for teachers, parents and children, with a view to preventing domestic violence, harassment and sexual violence, including school-community-family partnerships.",
+      "rationale": "The framework assigns responsibilities to the Ministry of Education and Research to introduce curriculum content including gender-based violence and to carry out educational programs for teachers, parents and children explicitly with a view to preventing domestic violence, harassment and sexual violence, which constitutes education-based primary prevention linked to violence.",
+      "coverage": "Substantive",
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": 0.8,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.8
+      },
+      "evidence_verified": true,
+      "evidence_original": "(1) Ministerul Educației și Cercetării are obligația de a efectua demersurile necesare pentru a introduce la nivelul curriculumului implementat la clasă activități de învățare referitoare la: egalitatea de șanse și de tratament între femei și bărbați, respectul reciproc, rezolvarea nonviolentă a conflictelor în relațiile interpersonale, violență de gen și dreptul la integritate personală, precum și combaterea stereotipurilor discriminatorii ce au la bază rolurile de gen, adaptate vârstei și înțelegerii elevilor.\n\n(3) Ministerul Educației și Cercetării realizează, cu sprijinul celorlalte ministere implicate și în colaborare cu organizațiile neguvernamentale cu activitate în domeniu, programe educative pentru cadre didactice, părinți și copii, în vederea prevenirii violenței domestice, a hărțuirii și a violenței sexuale, inclusiv parteneriate școală-comunitate-familie.",
+      "evidence_original_aligned": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general prevention activities and services (including for aggressors) and education programs for teachers/parents/children, but none explicitly target men or boys for engagement as a primary prevention strategy (e.g., programs aimed at changing male norms/behaviours or engaging men/boys as agents of change).",
+      "coverage": null,
+      "confidence": 0.85,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.85
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "(2) The ministries and other central specialized bodies of public administration, local public administration authorities, non-governmental organizations and other representatives of civil society shall carry out, separately or, as the case may be, in cooperation, activities for preventing and combating domestic violence.",
+      "rationale": "The law explicitly includes non-governmental organizations and other civil society representatives among the actors that shall carry out activities for preventing and combating domestic violence, including “in cooperation,” which establishes/authorises collaboration with civil society/NGOs in an operative provision.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Ministerele și celelalte organe centrale de specialitate ale administrației publice, autoritățile administrației publice locale, organizațiile neguvernamentale și alți reprezentanți ai societății civile vor desfășura, separat sau, după caz, în cooperare, activități de prevenire și combatere a violenței domestice.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "Yes",
+      "evidence": "(3) Mayors and local councils shall cooperate with religious organisations, non-governmental organisations, as well as with any other legal and natural persons involved in charitable activities, providing them with the necessary support for fulfilling the obligations provided in para.",
+      "rationale": "An operative provision requires mayors and local councils to cooperate with religious organisations (alongside NGOs and others) to support fulfilment of obligations related to preventing and combating domestic violence, which constitutes substantive engagement with religious organisations in VAW/DV response/prevention.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.88,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.88
+      },
+      "evidence_verified": true,
+      "evidence_original": "(3) Primarii și consiliile locale vor conlucra cu organizațiile de cult, organizațiile neguvernamentale, precum și cu oricare alte persoane juridice și fizice implicate în acțiuni caritabile, acordându-le sprijinul necesar în vederea îndeplinirii obligațiilor prevăzute la alin.",
+      "evidence_original_aligned": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "(2) The Ministry of Education and Research establishes the procedure applicable by county school inspectorates for the urgent transfer, on a temporary basis, of children who are victims or witnesses of domestic violence to the school unit recommended by the institutions that provide social services for preventing and combating domestic violence.",
+      "rationale": "The framework establishes a procedure involving county school inspectorates and transfer of child victims/witnesses to a school unit, directly engaging education-system institutions in response measures related to domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.75,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.75
+      },
+      "evidence_verified": true,
+      "evidence_original": "(2) Ministerul Educației și Cercetării stabilește procedura aplicabilă de către inspectoratele școlare județene în vederea transferării urgente, cu caracter temporar, a copiilor victime sau martori ai violenței domestice la unitatea școlară recomandată de către instituțiile care oferă servicii sociale pentru prevenirea și combaterea violenței domestice.",
+      "evidence_original_aligned": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss cooperation among domestic institutions, NGOs, and religious organisations, and mention external funds, but do not establish or require cooperation with any international organisation or create a mechanism for collaboration with international bodies on VAW/domestic violence.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved provisions refer to developing and disseminating documentary materials and public awareness campaigns, but they do not identify media organisations/actors (journalists, broadcasters, publishers, etc.) as partners nor establish a media engagement mechanism specific to VAW/domestic violence.",
+      "coverage": null,
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions “other representatives of civil society” and includes awareness/information services for the population, the candidate sentences do not explicitly establish community/public participation mechanisms (community organisations/members of the public) in preventing or responding to domestic violence, beyond institutional/NGO cooperation.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "Yes",
+      "evidence": "In order to ensure unrestricted access to accommodation in emergency situations, as well as to the rest of the existing social services for victims of domestic violence, as well as for aggressors, DGASPC undertakes the necessary diligence with SPAS and private social service providers in the territorial area of the county.",
+      "rationale": "The framework provides that DGASPC undertakes necessary diligence with SPAS and private social service providers to ensure access to accommodation and other services for victims/aggressors, which is an operative provision involving private-sector actors in the response/service-delivery system for domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "În scopul de a asigura accesul neîngrădit la găzduire în situațiile de urgență, precum și la restul serviciilor sociale existente pentru victimele violenței domestice, precum și pentru agresori, DGASPC depune diligențele necesare pe lângă SPAS și furnizorii privați de servicii sociale de pe raza teritorială a județului.",
+      "evidence_original_aligned": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Financing in the field of prevention and combating of domestic violence + Article 53Activities in the field of prevention and combating of domestic violence are financed from the following sources:a) the state budget;b) the budgets of funds from external credits contracted or guaranteed by the state and whose repayment, interest and other costs are ensured from public funds;c) the budgets of non-reimbursable external funds;d) the local budgets of counties, respectively of the sectors of the municipality of Bucharest and of the General Council of the Municipality of Bucharest, as well as of municipalities, towns and communes; local authorities have the responsibility to estimate the local dimension of domestic violence situations and to allocate an adequate budget for activities in the field;e) donations, sponsorships and other sources, under the conditions of the law.",
+      "rationale": "The policy explicitly lists local budgets (counties/municipalities/towns/communes and Bucharest sectors) as a financing source for domestic violence prevention and combating activities, and assigns local authorities responsibility to allocate an adequate budget.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Finanțarea în domeniul prevenirii și combaterii violenței domestice + Articolul 53Activitățile în domeniul prevenirii și combaterii violenței domestice se finanțează din următoarele surse:a) bugetul de stat;b) bugetele fondurilor provenite din credite externe contractate sau garantate de stat și ale căror rambursare, dobânzi și alte costuri se asigură din fonduri publice;c) bugetele fondurilor externe nerambursabile;d) bugetele locale ale județelor, respectiv ale sectoarelor municipiului București și al Consiliului General al Municipiului București, precum și ale municipiilor, orașelor și comunelor; autoritățile locale au responsabilitatea de a estima dimensiunea locală a situațiilor de violență domestică și de a aloca un buget adecvat activităților din domeniu;e) donații, sponsorizări și alte surse, în condițiile legii.",
+      "evidence_original_aligned": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "Financing in the field of prevention and combating of domestic violence + Article 53Activities in the field of prevention and combating of domestic violence are financed from the following sources:a) the state budget;b) the budgets of funds from external credits contracted or guaranteed by the state and whose repayment, interest and other costs are ensured from public funds;c) the budgets of non-reimbursable external funds;d) the local budgets of counties, respectively of the sectors of the municipality of Bucharest and of the General Council of the Municipality of Bucharest, as well as of municipalities, towns and communes; local authorities have the responsibility to estimate the local dimension of domestic violence situations and to allocate an adequate budget for activities in the field;e) donations, sponsorships and other sources, under the conditions of the law.",
+      "rationale": "The policy explicitly includes the state budget as a source of financing for activities in the field of prevention and combating domestic violence.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Finanțarea în domeniul prevenirii și combaterii violenței domestice + Articolul 53Activitățile în domeniul prevenirii și combaterii violenței domestice se finanțează din următoarele surse:a) bugetul de stat;b) bugetele fondurilor provenite din credite externe contractate sau garantate de stat și ale căror rambursare, dobânzi și alte costuri se asigură din fonduri publice;c) bugetele fondurilor externe nerambursabile;d) bugetele locale ale județelor, respectiv ale sectoarelor municipiului București și al Consiliului General al Municipiului București, precum și ale municipiilor, orașelor și comunelor; autoritățile locale au responsabilitatea de a estima dimensiunea locală a situațiilor de violență domestică și de a aloca un buget adecvat activităților din domeniu;e) donații, sponsorizări și alte surse, în condițiile legii.",
+      "evidence_original_aligned": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "Financing in the field of prevention and combating of domestic violence + Article 53Activities in the field of prevention and combating of domestic violence are financed from the following sources:a) the state budget;b) the budgets of funds from external credits contracted or guaranteed by the state and whose repayment, interest and other costs are ensured from public funds;c) the budgets of non-reimbursable external funds;d) the local budgets of counties, respectively of the sectors of the municipality of Bucharest and of the General Council of the Municipality of Bucharest, as well as of municipalities, towns and communes; local authorities have the responsibility to estimate the local dimension of domestic violence situations and to allocate an adequate budget for activities in the field;e) donations, sponsorships and other sources, under the conditions of the law.",
+      "rationale": "The policy identifies financing sources that include external credits contracted/guaranteed by the state and non-reimbursable external funds, which constitute explicit external/international funding sources supporting domestic-violence-related activities.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Finanțarea în domeniul prevenirii și combaterii violenței domestice + Articolul 53Activitățile în domeniul prevenirii și combaterii violenței domestice se finanțează din următoarele surse:a) bugetul de stat;b) bugetele fondurilor provenite din credite externe contractate sau garantate de stat și ale căror rambursare, dobânzi și alte costuri se asigură din fonduri publice;c) bugetele fondurilor externe nerambursabile;d) bugetele locale ale județelor, respectiv ale sectoarelor municipiului București și al Consiliului General al Municipiului București, precum și ale municipiilor, orașelor și comunelor; autoritățile locale au responsabilitatea de a estima dimensiunea locală a situațiilor de violență domestică și de a aloca un buget adecvat activităților din domeniu;e) donații, sponsorizări și alte surse, în condițiile legii.",
+      "evidence_original_aligned": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Financing in the field of prevention and combating of domestic violence + Article 53Activities in the field of prevention and combating of domestic violence are financed from the following sources:a) the state budget;b) the budgets of funds from external credits contracted or guaranteed by the state and whose repayment, interest and other costs are ensured from public funds;c) the budgets of non-reimbursable external funds;d) the local budgets of counties, respectively of the sectors of the municipality of Bucharest and of the General Council of the Municipality of Bucharest, as well as of municipalities, towns and communes; local authorities have the responsibility to estimate the local dimension of domestic violence situations and to allocate an adequate budget for activities in the field;e) donations, sponsorships and other sources, under the conditions of the law.",
+      "rationale": "Beyond government budgets, the policy explicitly lists additional financing sources such as donations, sponsorships, and other sources under the law, which qualify as other legal sources of funding.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "Finanțarea în domeniul prevenirii și combaterii violenței domestice + Articolul 53Activitățile în domeniul prevenirii și combaterii violenței domestice se finanțează din următoarele surse:a) bugetul de stat;b) bugetele fondurilor provenite din credite externe contractate sau garantate de stat și ale căror rambursare, dobânzi și alte costuri se asigură din fonduri publice;c) bugetele fondurilor externe nerambursabile;d) bugetele locale ale județelor, respectiv ale sectoarelor municipiului București și al Consiliului General al Municipiului București, precum și ale municipiilor, orașelor și comunelor; autoritățile locale au responsabilitatea de a estima dimensiunea locală a situațiilor de violență domestică și de a aloca un buget adecvat activităților din domeniu;e) donații, sponsorizări și alte surse, în condițiile legii.",
+      "evidence_original_aligned": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "Yes",
+      "evidence": "Financing in the field of prevention and combating of domestic violence + Article 53Activities in the field of prevention and combating of domestic violence are financed from the following sources:a) the state budget;b) the budgets of funds from external credits contracted or guaranteed by the state and whose repayment, interest and other costs are ensured from public funds;c) the budgets of non-reimbursable external funds;d) the local budgets of counties, respectively of the sectors of the municipality of Bucharest and of the General Council of the Municipality of Bucharest, as well as of municipalities, towns and communes; local authorities have the responsibility to estimate the local dimension of domestic violence situations and to allocate an adequate budget for activities in the field;e) donations, sponsorships and other sources, under the conditions of the law.",
+      "rationale": "The policy explicitly includes county local budgets as financing sources. Counties function as a subnational/provincial-level public administration unit in this text, so this constitutes provincial-level budget funding.",
+      "coverage": "Substantive",
+      "confidence": 0.74,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.74
+      },
+      "coverage_confidence": 0.6,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.6
+      },
+      "evidence_verified": true,
+      "evidence_original": "Finanțarea în domeniul prevenirii și combaterii violenței domestice + Articolul 53Activitățile în domeniul prevenirii și combaterii violenței domestice se finanțează din următoarele surse:a) bugetul de stat;b) bugetele fondurilor provenite din credite externe contractate sau garantate de stat și ale căror rambursare, dobânzi și alte costuri se asigură din fonduri publice;c) bugetele fondurilor externe nerambursabile;d) bugetele locale ale județelor, respectiv ale sectoarelor municipiului București și al Consiliului General al Municipiului București, precum și ale municipiilor, orașelor și comunelor; autoritățile locale au responsabilitatea de a estima dimensiunea locală a situațiilor de violență domestică și de a aloca un buget adecvat activităților din domeniu;e) donații, sponsorizări și alte surse, în condițiile legii.",
+      "evidence_original_aligned": true
+    }
+  },
+  "split_dimensions": {
+    "01_scope_of_violence.txt": 2,
+    "04_Specialised_Support_Services.txt": 2
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 33,
+    "resolved": 33,
+    "rate": 1.0
+  }
+}

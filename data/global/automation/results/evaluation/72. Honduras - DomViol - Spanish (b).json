@@ -1,0 +1,963 @@
+{
+  "policy_file": "72. Honduras - DomViol - Spanish (b).txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-11-07T14:30:30.119250+00:00",
+  "prompt_version": "global_v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_Protection_and_Justice.txt",
+    "03_Institutional_mechanisms.txt",
+    "04_Specialised_Support_Services.txt",
+    "05_Primary_prevention.txt",
+    "06_Stakeholder_Engagement_and_Multi-Sectoral_Cooperation.txt",
+    "07_Intersectional_and_Vulnerability-Specific_Protections.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "1) DOMESTIC VIOLENCE: Any pattern of conduct associated with a situation of unequal exercise of power that manifests itself in the use of physical, psychological, patrimonial and/or economic and sexual violence; and,\nviolence, protection mechanisms shall be established consisting of: Security, precautionary and preventive measures.",
+      "rationale": "The text contains operative provisions that explicitly define “DOMESTIC VIOLENCE” and establish protection mechanisms for women who suffer domestic violence, which constitutes substantive legal coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.98,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.98
+      },
+      "coverage_confidence": 0.95,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.95
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) VIOLENCIA DOMESTICA: Todo patrón de conducta asociado a una situación de ejercicio desigual de poder que se manifieste en el uso de la violencia física, sicológica, patrimonial y/o económica y sexual; y,\n\ndoméstica se establecerán mecanismos de protección que consiste en: Medidas de seguridad, precautorias y cautelares.",
+      "evidence_original_aligned": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "3) SEXUAL VIOLENCE: Any conduct that involves threat or intimidation that affects the integrity or sexual self-determination of women, such as unwanted sexual relations, denial of contraception and protection, among others, provided that such actions are not classified as a crime in the Penal Code; and,",
+      "rationale": "Sexual violence is explicitly defined as a form of domestic violence in an operative definitions article, indicating it is covered with legal consequences under the law.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "3) VIOLENCIA SEXUAL: Toda conducta que entrañe amenaza o intimidación que afecte la integridad o la autodeterminación sexual de la mujer, tal como las relaciones sexuales no deseadas, la negación a anticoncepción y protección, entre otras, siempre que dichas acciones no se encuentren tipificadas como delito en el Código Penal ; y,",
+      "evidence_original_aligned": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "1) PHYSICAL VIOLENCE: Any action or omission that produces harm or impairment to the bodily integrity of women, not classified as a crime in the Penal Code;",
+      "rationale": "Physical violence is explicitly defined in the operative definitions/classification of forms of domestic violence, demonstrating substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "1) VIOLENCIA FÍSICA: Toda acción u omisión que produce un daño o menoscabo a la integridad corporal de la mujer, no tipificada como delito en el Código Penal;",
+      "evidence_original_aligned": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "2) PSYCHOLOGICAL VIOLENCE: Any action or omission whose purpose is to degrade or control the actions, behaviors, beliefs and decisions of women, by means of intimidation, manipulation, direct or indirect threat, humiliation, isolation, confinement or any other conduct or omission that implies harm to the integral development or self-determination of women, or that causes emotional damage, diminishes self-esteem, harms or disturbs the healthy development of women, exercising acts in discredit of women or contempt for personal value or dignity, humiliating or degrading treatment, surveillance, isolation, insults, blackmail, degradation, ridicule, manipulation, exploitation or threat of removal of the children, among others;",
+      "rationale": "Psychological violence is explicitly defined in the operative definitions/classification of forms of domestic violence, demonstrating substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "2) VIOLENCIA PSICOLÓGICA: Toda acción u omisión cuyo propósito sea degradar o controlar las acciones, comportamientos, creencias y decisiones de la mujer, por medio de la intimidación, manipulación, amenaza directa o indirecta, humillación, aislamiento, encierro o cualquier otra conducta u omisión que implique un perjuicio en el desarrollo integral o la autodeterminación de la mujer, o que ocasione daño emocional, disminuya la autoestima, perjudique o perturbe el sano desarrollo de la mujer, ejerciendo actos en descrédito de la mujer o menosprecio al valor personal o dignidad, tratos humillantes o vejatorios, vigilancia, aislamiento, insultos el chantaje, degradación, ridiculizar, manipular, explotar o amenazar con el alejamiento de los (as) hijos(as),entre otras;",
+      "evidence_original_aligned": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "4) PATRIMONIAL AND/OR ECONOMIC VIOLENCE: Any act or omission that implies loss, transformation, denial, subtraction, destruction, retention of objects, personal documents, movable and/or immovable property, assets, rights or economic resources intended to satisfy the needs of women or the family group, including the impairment, reduction or denial that affects the income of women or the breach of alimony obligations.",
+      "rationale": "The law explicitly defines “PATRIMONIAL AND/OR ECONOMIC VIOLENCE” in operative provisions as a form of domestic violence, meeting the criterion for substantive coverage.",
+      "coverage": "Substantive",
+      "confidence": 0.97,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.97
+      },
+      "coverage_confidence": 0.93,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.93
+      },
+      "evidence_verified": true,
+      "evidence_original": "4) VIOLENCIA PATRIMONIAL Y/ O ECONÓMICA: Todo acto u omisión que implica pérdida, transformación, negación, sustracción, destrucción, retención de objetos, documentos personales, bienes muebles y/e inmuebles, valores, derechos o recursos económicos destinados a satisfacer las necesidades de la mujer o del grupo familiar, incluyendo el menoscabo, reducción o negación que afecten los ingresos de la mujer o el incumplimiento de obligaciones alimentarias.",
+      "evidence_original_aligned": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention early/child marriage, FGM/C, honour crimes, female infanticide, or any similar harmful practice, nor do they include operative measures targeting such practices.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences define and regulate domestic violence and related protection mechanisms, but do not mention femicide/feminicide or gender-motivated killing of women in any operative or referenced form.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention trafficking in persons/human trafficking, trafficking victims, or trafficking-related exploitation; references to “exploitation” appear only in a general psychological-violence context without trafficking nexus.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text addresses sexual violence within domestic violence, but does not mention sexual exploitation, sexual slavery, coerced prostitution, or any explicit sexual-exploitation nexus required by the criterion.",
+      "coverage": null,
+      "confidence": 0.87,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.87
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention cyber/online/digital forms of violence (e.g., cyber harassment, online sexual exploitation) or recognize technology-facilitated violence as a form of violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Criminal penalty",
+      "included": "Yes",
+      "evidence": "without causing damages classified as crimes in the Penal Code, shall be sanctioned as follows:\n1) With the provision of community service for a term of one (1) to three (3) months, when the complaint is declared with merit; and,",
+      "rationale": "The text provides an operative sanction for acts of domestic violence that are not already classified as crimes in the Penal Code, specifying a penalty (community service for 1–3 months) for the aggressor. This constitutes an attached sanction for a form of violence against women covered by the law.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "sin llegar a causar daños tipificados como delitos en el Código Penal, será sancionado así:\n\n1) Con la prestación de servicios a la comunidad por el termino de uno (1) a tres (3) meses, cuando la denuncia sea declarada con lugar; y,",
+      "evidence_original_aligned": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Protection order",
+      "included": "Yes",
+      "evidence": "Upon the mere filing of the complaint, they shall be imposed ex officio by the competent court, by the Public Prosecutor's Office or the Secretariat of State in the Office of Security, through the National Police.\nThese mechanisms are temporary in nature; such temporality shall not be less than two (2) months nor more than six (6) months.\n2) With the provision of community service of one (1) to three (3) months, for failure to comply with one or more of the protection mechanisms imposed, without prejudice to the penalty that may apply for the crime of disobedience to authority.",
+      "rationale": "The framework establishes protection mechanisms (security measures) that function as restraining/protection orders, specifies issuing authorities (competent court, Public Prosecutor’s Office, or Security Secretariat through the National Police), provides a duration range for protection mechanisms, and defines consequences for breach (sanction for failure to comply with protection mechanisms, with possible additional criminal penalty for disobedience).",
+      "coverage": "Substantive",
+      "confidence": 0.83,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.83
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "Con la sola presentación de la denuncia se impondrán de oficio, por el juzgado competente, por el Ministerio Público o la Secretaría de Estado en el Despacho de Seguridad, a través de la Policía Nacional.\n\nEstos mecanismos tienen carácter temporal ;dicha temporalidad no será inferior a dos (2) meses ni superior a seis (6) meses .\n\n2) Con la prestación de servicios a la comunidad de uno (1) a tres (3) meses, por el no acatamiento de uno o más de los mecanismos de protección impuestos, sin perjuicio de la pena a que hubiere lugar por el delito de desobediencia a la autoridad .",
+      "evidence_original_aligned": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Specialised service unit for victims of VAW in police offices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference the National Police as an actor in imposing or assisting with security measures, but they do not designate or mandate any specific specialised police unit/desk/division for handling violence against women cases.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Specialised court",
+      "included": "Yes",
+      "evidence": "Article 13.- The special jurisdiction of domestic violence is hereby created, which shall hear and\napply the provisions of this Law, which shall function through specialized Courts and Tribunals in different regions of the country according to specific requirements.",
+      "rationale": "The text explicitly creates a special jurisdiction for domestic violence and states it will function through specialized courts and tribunals, which is a designated specialised judicial mechanism for these cases.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "Artículo 13.- Créase la jurisdicción especial de violencia doméstica que habrá de conocer y\n\naplicar lo dispuesto en la presente Ley, la cual funcionara por medio de los Juzgados y Tribunales especializados en diferentes regiones del país de acuerdo a los requerimientos concretos.",
+      "evidence_original_aligned": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Marital rape / spousal exemption",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the framework defines sexual violence within domestic violence and applies to spouses/partners, the provided sentences do not expressly criminalise rape within marriage, state that spousal status is not a defence, or otherwise remove a marital exemption from criminal liability for sexual offences. References to conduct being 'not classified as a crime in the Penal Code' further indicate the law is not itself establishing rape criminal liability within marriage.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Institutional and sectoral coordination across agencies and jurisdictions",
+      "included": "Yes",
+      "evidence": "-The National Women's Institute (INAM) shall be responsible for coordinating\npolicies directed at women and, in coordination with public or private law entities related to the matter, shall design a policy with its national action plan to address domestic violence against women, as well as the planning and execution of actions aimed at eradicating these behaviors in Honduran society.",
+      "rationale": "The framework assigns INAM responsibility for coordinating policies directed at women and, in coordination with relevant public/private entities, to design a policy and national action plan to address domestic violence against women. This constitutes a formal coordination role linked to implementation planning.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "-El Instituto Nacional de la Mujer (INAM), se encargará de coordinar las\n\npolíticas dirigidas a la mujer y en coordinación con las entidades de derecho público o privado vinculadas a la materia, diseñarán una política con su plan nacional de acción para atender la violencia doméstica contra la mujer, así como la planificación y ejecución de acciones encaminadas a la erradicación de estas conductas en la sociedad hondureña.",
+      "evidence_original_aligned": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Data collection or information system",
+      "included": "Yes",
+      "evidence": "women in our society, evaluating the results of this Law and standardizing statistical control, the Public Ministry, the Secretaries of State in the Offices of Security and Health and all public institutions related to the attention of domestic violence, as well as non-governmental organizations and the Courts in charge of applying the Law, shall use the measurement and control instrument designed and provided by the National Institute for Women (INAM).\nAll entities shall remit semi-annually the \"information to the National Institute for Women (INAM) which must have the procedures that allow it to maintain updated statistics\".",
+      "rationale": "The framework requires multiple institutions (including public bodies, courts, and NGOs) to use a standardized measurement/control instrument and to remit information semi-annually to INAM so it can maintain updated statistics, which assigns responsibility and establishes a data reporting/management function.",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "la mujer en nuestra sociedad, evaluar los resultados de esta Ley y homogenizar el control estadístico, el Ministerio Público, las Secretarías de Estado en los Despachos de Seguridad y Salud y todas las instituciones públicas vinculadas a la atención de la violencia doméstica, así como las organizaciones no gubernamentales y los Juzgados encargados de aplicar la Ley, utilizarán el instrumento de medición y control diseñado y proporcionado por el Instituto Nacional de la Mujer (INAM).\n\nTodas las entidades remitirán semestralmente la “información al Instituto Nacional de la Mujer (INAM) quien deberá contar con los procedimientos que le permitan mantener estadísticas actualizadas” .",
+      "evidence_original_aligned": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references gender perspective in relation to service provision and includes women-focused policy planning, it does not explicitly establish or require gender mainstreaming as an institutional mechanism (e.g., mainstreaming across government planning/budgeting or a dedicated mainstreaming structure).",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "The National Plan must contain educational measures, research measures, comprehensive care for victims; medical, psychological, legal and social, awareness-raising and training for Judges, Judges, Police Officers, officials and employees of the different public or private institutions that are involved in the prevention, punishment and protection of women who suffer domestic violence.",
+      "rationale": "The framework requires that the National Plan include training for judges, police officers, and officials/employees of institutions involved in prevention, punishment, and protection related to domestic violence against women, which is a mandate for capacity building of implementing personnel.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Plan Nacional deberá contener medidas educativas, de investigación, de atención integral a las agredidas; médico, psicológico, legal y social, de sensibilización y capacitación a Jueces, Juezas, Policías, funcionarios y empleados de las diferentes instituciones públicas o privadas que estén involucradas en la prevención, sanción y protección de las mujeres que sufren violencia doméstica.",
+      "evidence_original_aligned": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "women in our society, evaluating the results of this Law and standardizing statistical control, the Public Ministry, the Secretaries of State in the Offices of Security and Health and all public institutions related to the attention of domestic violence, as well as non-governmental organizations and the Courts in charge of applying the Law, shall use the measurement and control instrument designed and provided by the National Institute for Women (INAM).\nshall be competent to monitor the execution and compliance of the security measures they impose, ceasing in this obligation until the celebration of the hearing that will be assumed by the corresponding court.",
+      "rationale": "The framework explicitly links data collection to evaluating the results of the law and standardizing statistical control, and it assigns the Public Ministry and the Security Secretariat competence to monitor execution and compliance of security measures they impose. These provisions establish monitoring (and an evaluation-related function) tied to implementation.",
+      "coverage": "Substantive",
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": 0.65,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.65
+      },
+      "evidence_verified": true,
+      "evidence_original": "la mujer en nuestra sociedad, evaluar los resultados de esta Ley y homogenizar el control estadístico, el Ministerio Público, las Secretarías de Estado en los Despachos de Seguridad y Salud y todas las instituciones públicas vinculadas a la atención de la violencia doméstica, así como las organizaciones no gubernamentales y los Juzgados encargados de aplicar la Ley, utilizarán el instrumento de medición y control diseñado y proporcionado por el Instituto Nacional de la Mujer (INAM).\n\nserán competentes para vigilar la ejecución y cumplimiento de las medidas de seguridad que impongan, cesando en esta obligación hasta la celebración de la audiencia que será asumida por el juzgado correspondiente.",
+      "evidence_original_aligned": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "National budget allocation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include obligations to establish shelters and other measures, but they do not contain any operative provision requiring allocation of budget/funding, identifying a funding source, or creating a dedicated financing mechanism for implementation.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Integrated service unit for VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions establish protection mechanisms (security/precautionary/preventive measures), shelters, referrals, and coordination/planning functions (e.g., INAM coordinating policies and a national plan), but they do not explicitly establish or recognize a designated integrated/one-stop/multidisciplinary service mechanism or unit responsible for coordinating multiple victim services through a single institutional mechanism. References to multiple institutions and services appear as separate measures/obligations rather than an integrated service unit as defined in the coding rules.",
+      "coverage": null,
+      "confidence": 0.63,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.63
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Artículo 16.- The complaint of domestic violence may be filed by:\nThe complaint shall be filed verbally or in writing.",
+      "rationale": "The framework provides an operative complaint/reporting mechanism by specifying who may file a domestic violence complaint (including the affected woman and others) and that the complaint may be filed verbally or in writing, thereby establishing a formal reporting channel for seeking protection/assistance.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.83,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.83
+      },
+      "evidence_verified": true,
+      "evidence_original": "Artículo 16.- La denuncia de violencia doméstica podrá presentarla:\n\nLa denuncia se presentará en forma verbal o escrita.",
+      "evidence_original_aligned": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "j) The institutions that are aware of the complaint must refer the affected woman to a safe domicile.\nThe State through the National Women's Institute (INAM), Secretariat of State in the Offices of Governance and Justice and municipal mayoralties undertake to establish temporary shelters and refuge houses, in order to provide immediate protection to women affected by domestic violence and their dependent sons and daughters.",
+      "rationale": "The framework requires referral of the affected woman to a safe domicile and includes an operative commitment by state entities to establish temporary shelters and refuge houses to provide immediate protection to women affected by domestic violence (and dependent children).",
+      "coverage": "Substantive",
+      "confidence": 0.93,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.93
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "j) Las instituciones que conozcan de la denuncia deberán remitir a la mujer afectada a un domicilio seguro.\n\nEl Estado a través del Instituto Nacional de la Mujer (INAM), Secretaría de Estado en los Despachos de Gobernación y Justicia y alcaldías municipales se comprometen a establecer albergues temporales y casas refugio, a fin de brindar protección inmediata a las mujeres afectadas por violencia doméstica y a sus hijos e hijas dependientes.",
+      "evidence_original_aligned": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "To guarantee free of charge to the complainant, institutions whether public or private law that execute programs or projects of legal assistance to women affected by domestic violence, such as: Public Prosecutor's Office, Legal Professionals of the Family Counseling Centers or any state institution or non-governmental organization, must attend to and provide complainants with timely legal services, for which all days and hours are working days.\nIn the case of the Prosecutors, through appearance in court, they will act in representation of the affected party.",
+      "rationale": "The framework contains operative provisions requiring institutions executing legal assistance programs for women affected by domestic violence to provide timely legal services, and specifies that prosecutors will act in representation of the affected party, establishing legal assistance/representation for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.92,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.92
+      },
+      "evidence_verified": true,
+      "evidence_original": "Para garantizar la gratuidad a la denunciante, las instituciones ya sean de derecho público o privado que ejecuten programas o proyectos de atención legal a mujeres afectadas por violencia doméstica, como: Ministerio Público, Profesionales del Derecho de las Consejerías de Familia o cualquier institución estatal u organización no gubernamental, deberán atender y suministrar a las denunciantes los servicios legales oportunos, para lo cual todos los días y horas son hábiles.\n\nEn el caso de las (os) Fiscales mediante personamiento en juicio, actuaran en representación de la afectada.",
+      "evidence_original_aligned": true
+    },
+    "4.5": {
+      "id": "4.5",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "4) Be attended for opinion and examination by the Directorate of Forensic Medicine, when referred by the Public Ministry or competent Court, or any of the institutions equally competent to impose security measures;",
+      "rationale": "The framework provides that women affected by domestic violence have the right to be attended for opinion and examination by the Directorate of Forensic Medicine when referred by competent authorities, which is a violence-linked medical/forensic service provision.",
+      "coverage": "Substantive",
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": 0.78,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.78
+      },
+      "evidence_verified": true,
+      "evidence_original": "4) Ser atendida para dictamen y reconocimiento por la Dirección de Medicina Forense, cuando fuere remitida por el Ministerio Publico o Juzgado competente, o cualquiera de las instituciones igualmente competentes para imponer medidas de seguridad;",
+      "evidence_original_aligned": true
+    },
+    "4.6": {
+      "id": "4.6",
+      "indicator": "Psychosocial counselling services",
+      "included": "Yes",
+      "evidence": "b) Order the referral of the woman and, where appropriate, her immediate family, to a Family Counseling center or other instance according to the preceding subsection.",
+      "rationale": "The framework authorizes/mandates referral of the woman (and where appropriate her immediate family) to a Family Counseling center or other instance, which constitutes an operative counselling/psychosocial support service mechanism for victims.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.74,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.74
+      },
+      "evidence_verified": true,
+      "evidence_original": "b) Establecer la guarda y cuidado provisional, de los hijos e hijas menores de edad a cargo de la afectada. Sin embargo ésta podrá otorgarse a terceras personas a petición de la madre. Cuando proceda se podrá establecer un régimen especial de visitas para el padre; y, c) Se atribuirá el uso y disfrute provisional de la vivienda familiar y el menaje de la casa a la mujer.",
+      "evidence_original_aligned": true
+    },
+    "4.7": {
+      "id": "4.7",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the cited sentences mention religious leaders, faith-based institutions, pastoral care, or any religious/spiritual counselling or guidance service for women victims/survivors of violence.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.8": {
+      "id": "4.8",
+      "indicator": "Recovery and support for victims",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on immediate protection measures (security measures, shelters, referrals), legal/medical/counselling services, and planning/coordination. They do not establish longer-term recovery/rehabilitation/reintegration supports for victims (e.g., livelihood, vocational training, economic/housing support) as required by the coding rules.",
+      "coverage": null,
+      "confidence": 0.72,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.72
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "4.9": {
+      "id": "4.9",
+      "indicator": "Perpetrator programmes",
+      "included": "Yes",
+      "evidence": "a) Order the mandatory attendance of the defendant to services for his re-education, which shall be provided by the nearest Family Counseling center, trained in gender perspective, or any natural or legal person trained in this type of care authorized by the Secretariat of State in the Office of Health; and,",
+      "rationale": "The framework provides for perpetrator-focused intervention by allowing/ordering mandatory attendance of the defendant at re-education services, which is a behaviour-change/rehabilitation-type programme aimed at preventing recurrence.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.86,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.86
+      },
+      "evidence_verified": true,
+      "evidence_original": "a) Disponer la asistencia obligatoria del denunciado a servicios para su reeducación, la que será impartida por la Consejería de Familia más cercana, capacitada en perspectiva de genero, o cualquier persona natural o jurídica capacitada en este tipo de atención autorizada por la Secretaría de Estado en el Despacho de Salud; y, b) Disponer la remisión de la mujer y en su caso, de su familia cercana, a una Consejería de familia u otra instancia de acuerdo al literal anterior. La Consejería de Familia o persona autorizada para prestar este tipo de atención, deberá informar mensualmente sobre el cumplimiento de la misma y de forma obligatoria emitir dictamen sobre cambios conductuales al Juzgado que impuso la medida. Se entenderá como desobediencia la ausencia del denunciado a dos (2) sesiones, sin mediar caso fortuito o fuerza mayor debidamente comprobada.",
+      "evidence_original_aligned": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "The National Plan must contain educational measures, research measures, comprehensive care for victims; medical, psychological, legal and social, awareness-raising and training for Judges, Judges, Police Officers, officials and employees of the different public or private institutions that are involved in the prevention, punishment and protection of women who suffer domestic violence.\nFor the purposes of disseminating the scope and objectives of this Law; the action plan must involve social communicators, also promoting new forms of mass communication that delegitimize violence of all kinds against women, disseminate the contribution and a positive image of women, and that in general contribute to establishing new relationships between the sexes.",
+      "rationale": "The cited operative provisions require a national action plan on domestic violence against women to include educational measures and awareness-raising, and also require dissemination/communication actions (including mass communication) aimed at delegitimizing violence against women—explicitly linking information/education/communication activities to preventing/eradicating violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": 0.85,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.85
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Plan Nacional deberá contener medidas educativas, de investigación, de atención integral a las agredidas; médico, psicológico, legal y social, de sensibilización y capacitación a Jueces, Juezas, Policías, funcionarios y empleados de las diferentes instituciones públicas o privadas que estén involucradas en la prevención, sanción y protección de las mujeres que sufren violencia doméstica.\n\nPara los efectos de divulgación sobre los alcances y objetivos de esta Ley; el plan de acción deberá involucrar a los comunicadores sociales, promoviendo además nuevas formas de comunicación masiva que deslegitimen la violencia de todo tipo contra la mujer, divulguen el aporte y una imagen positiva de las mujeres y que en general coadyuven a establecer nuevas relaciones entre los sexos.",
+      "evidence_original_aligned": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions promoting a positive image of women and establishing new relationships between the sexes, the candidate sentences do not explicitly require information/education/awareness activities specifically about gender equality or women’s rights, nor do they explicitly link such gender-equality/women’s-rights education to preventing violence against women (as distinct from delegitimizing violence itself).",
+      "coverage": null,
+      "confidence": 0.75,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.75
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Information and education about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "For the purposes of disseminating the scope and objectives of this Law; the action plan must involve social communicators, also promoting new forms of mass communication that delegitimize violence of all kinds against women, disseminate the contribution and a positive image of women, and that in general contribute to establishing new relationships between the sexes.",
+      "rationale": "The text explicitly provides for dissemination of the scope and objectives of the law via the action plan, which constitutes an operative requirement to communicate information about the VAW legal framework (the law’s scope/objectives) as part of the plan addressing domestic violence against women.",
+      "coverage": "Substantive",
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": 0.7,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.7
+      },
+      "evidence_verified": true,
+      "evidence_original": "Para los efectos de divulgación sobre los alcances y objetivos de esta Ley; el plan de acción deberá involucrar a los comunicadores sociales, promoviendo además nuevas formas de comunicación masiva que deslegitimen la violencia de todo tipo contra la mujer, divulguen el aporte y una imagen positiva de las mujeres y que en general coadyuven a establecer nuevas relaciones entre los sexos.",
+      "evidence_original_aligned": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Prevention through education and improving the quality of education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the national plan must contain “educational measures,” the candidate sentences do not explicitly identify formal education institutions, curricula, school-based programmes, or improvements in education quality as prevention measures for violence against women; they instead refer generally to educational measures and awareness/training without specifying education systems or curricula as the mechanism.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Engagement of men and boys",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include re-education of the defendant and general communication/awareness measures, but they do not establish primary prevention activities that specifically engage men and boys (as a target group) to prevent violence against women or to change masculinities/gender norms; the re-education measure appears tied to defendants in cases rather than broad preventive engagement of men/boys.",
+      "coverage": null,
+      "confidence": 0.8,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.8
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Engagement/collaboration with civil society organisations and NGOs",
+      "included": "Yes",
+      "evidence": "The National Women's Institute (INAM) shall enter into agreements with legally recognized non-governmental organizations that develop programs for shelters, legal and emotional assistance to women affected by domestic violence.\n3. Formulate with the direct participation of local or municipal governments, government action plans, which must be agreed upon with the different organizations of Honduran civil society, embracing their initiatives and recovering their experiences.",
+      "rationale": "The operative provisions explicitly require/authorise collaboration with NGOs and civil society in addressing domestic violence against women, including entering into agreements with legally recognized NGOs for shelters and assistance, and requiring government action plans to be agreed with civil society organisations.",
+      "coverage": "Substantive",
+      "confidence": 0.95,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.95
+      },
+      "coverage_confidence": 0.9,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.9
+      },
+      "evidence_verified": true,
+      "evidence_original": "El Instituto Nacional de la Mujer (INAM), celebrará convenios con las organizaciones no gubernamentales legalmente reconocidas que desarrollen programas de refugios atención legal y emocional a mujeres afectadas por violencia doméstica.\n\n3. Formular con la participación directa de los gobiernos locales o municipales, planes gubernamentales de acción, los cuales deberán ser concertados con las distintas organizaciones de la sociedad civil hondureña, acogiendo sus iniciativas y recuperando sus experiencias.",
+      "evidence_original_aligned": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Engagement/collaboration with religious and traditional organisations or leaders",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention coordination with public/private entities, NGOs, and social communicators, but do not identify or require engagement with religious organisations/leaders or traditional/cultural leaders in relation to violence against women.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Engagement/collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text refers to 'educational measures' and training, it does not establish or require collaboration with specific education institutions (schools, universities, colleges, etc.) as partners or assign them roles in VAW prevention/response.",
+      "coverage": null,
+      "confidence": 0.78,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.78
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Engagement/collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference international conventions (e.g., Belem do Para, CEDAW) as standards, but do not establish any operative mechanism for cooperation or collaboration with international organisations on VAW.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "Engagement/collaboration with media",
+      "included": "Yes",
+      "evidence": "For the purposes of disseminating the scope and objectives of this Law; the action plan must involve social communicators, also promoting new forms of mass communication that delegitimize violence of all kinds against women, disseminate the contribution and a positive image of women, and that in general contribute to establishing new relationships between the sexes.",
+      "rationale": "An operative provision on the action plan requires involving 'social communicators' and promoting mass communication approaches to delegitimize violence against women and disseminate related messaging, which constitutes engagement with media actors for VAW prevention/awareness.",
+      "coverage": "Substantive",
+      "confidence": 0.82,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.82
+      },
+      "coverage_confidence": 0.72,
+      "coverage_confidence_source": "verbalized",
+      "coverage_confidence_scores": {
+        "verbalized": 0.72
+      },
+      "evidence_verified": true,
+      "evidence_original": "Para los efectos de divulgación sobre los alcances y objetivos de esta Ley; el plan de acción deberá involucrar a los comunicadores sociales, promoviendo además nuevas formas de comunicación masiva que deslegitimen la violencia de todo tipo contra la mujer, divulguen el aporte y una imagen positiva de las mujeres y que en general coadyuven a establecer nuevas relaciones entre los sexos.",
+      "evidence_original_aligned": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Engagement/collaboration with communities and society",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions eradicating behaviours in society and requires plans to be agreed with civil society organisations, it does not establish community/public participation mechanisms (community organisations/members of the public) as such; the relevant engagement described is with civil society organisations/NGOs rather than communities or the public broadly.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Engagement/collaboration with business and private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer generally to coordination with 'public or private law entities' and to employers granting permits for compliance with court measures, but they do not establish private-sector actors as partners or require/authorise their engagement specifically for VAW prevention or response activities.",
+      "coverage": null,
+      "confidence": 0.7,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.7
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention municipal mayoralties/municipal corporations as implementing or coordinating actors (e.g., establishing shelters; receiving lists for community service compliance), but they do not specify any funding or budget source coming from local/municipal government budgets.",
+      "coverage": null,
+      "confidence": 0.86,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.86
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text assigns responsibilities to national-level institutions (e.g., INAM, Secretariats of State, Public Ministry) but does not mention any national government budget allocation or funding source for these measures.",
+      "coverage": null,
+      "confidence": 0.84,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.84
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy references international conventions (e.g., Belem do Para and CEDAW) as part of the legal framing, but it does not indicate any international assistance, donor funding, partnerships, or involvement in implementation. Under the coding rules, conventions alone are insufficient for a Yes.",
+      "coverage": null,
+      "confidence": 0.9,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.9
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss measures like provisional alimony payments and compensation/reimbursement by the aggressor, but these are obligations imposed on individuals rather than identified funding/budget sources for policy implementation from other legal sources. No explicit alternative funding source is specified.",
+      "coverage": null,
+      "confidence": 0.62,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.62
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of provincial/regional/departmental government budgets as a funding source. References to departmental entities (e.g., Departmental Headquarters of the Preventive Police) are operational and not budgetary.",
+      "coverage": null,
+      "confidence": 0.88,
+      "confidence_source": "verbalized",
+      "confidence_scores": {
+        "verbalized": 0.88
+      },
+      "coverage_confidence": null,
+      "coverage_confidence_source": "not_applicable",
+      "coverage_confidence_scores": {},
+      "evidence_verified": null,
+      "evidence_original": null,
+      "evidence_original_aligned": null
+    }
+  },
+  "indicator_count": 47,
+  "evidence_verification_failures": [],
+  "evidence_original_aligned_rate": {
+    "sentence_aligned": 22,
+    "resolved": 22,
+    "rate": 1.0
+  }
+}

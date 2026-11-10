@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from automation.src.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_IDS
+from automation.src.criteria import build_criteria_maps, list_criteria_files, load_index_schema
 from automation.src.constants import PROMPTS_ROOT
 from automation.src.rag.prompt_builder import (
     format_criteria_list,
@@ -10,7 +10,10 @@ from automation.src.rag.prompt_builder import (
     format_rubric_block,
     parse_criteria_lines,
 )
+from automation.src.paths import project_dirs
 from automation.src.rag.retriever import RetrievedChunk
+
+INDONESIA_IDS = build_criteria_maps(load_index_schema(project_dirs("indonesia").index_schema))[0]
 
 CRITERION = "4.1 | Information and education about VAW | Does the policy include education about VAW?"
 
@@ -124,20 +127,20 @@ def test_missing_candidates_still_reported_alongside_rules(tmp_path):
 def test_shipped_criteria_files_parse_to_the_expected_indicators(version):
     found = {
         criterion.id
-        for name in CRITERIA_FILES
+        for name in list_criteria_files(PROMPTS_ROOT / "quality_eval" / version)
         for criterion in parse_criteria_lines(
             str(PROMPTS_ROOT / "quality_eval" / version / name)
         )
     }
 
-    assert found == set(EXPECTED_INDICATOR_IDS)
+    assert found == set(INDONESIA_IDS)
 
 
 @pytest.mark.parametrize("version,has_rubric", [("v1", False), ("v2", False), ("v3", True), ("v4", True)])
 def test_rubric_reaches_the_prompt_for_versions_that_have_one(version, has_rubric):
     criteria = [
         criterion
-        for name in CRITERIA_FILES
+        for name in list_criteria_files(PROMPTS_ROOT / "quality_eval" / version)
         for criterion in parse_criteria_lines(
             str(PROMPTS_ROOT / "quality_eval" / version / name)
         )
@@ -154,3 +157,38 @@ def test_rubric_reaches_the_prompt_for_versions_that_have_one(version, has_rubri
         assert sum(1 for criterion in criteria if criterion.rubric) == 41
     else:
         assert rubric_lines == 0
+
+
+def test_the_global_prompt_parses_every_criterion_of_every_dimension():
+    folder = PROMPTS_ROOT / "quality_eval" / "global_v1"
+    per_file = {name: parse_criteria_lines(str(folder / name)) for name in list_criteria_files(folder)}
+
+    assert [len(rows) for rows in per_file.values()] == [10, 5, 6, 9, 5, 7, 5]       # none of the 7 files comes back empty
+    ids = [row.id for rows in per_file.values() for row in rows]
+    assert len(ids) == len(set(ids)) == 47
+    assert all(row.question for rows in per_file.values() for row in rows)
+
+
+def test_a_question_written_on_the_line_after_the_criterion_is_the_question_not_a_rule(tmp_path):
+    path = write(
+        tmp_path,
+        "6.1 | Engagement with NGOs |",
+        "",
+        "Does the framework require engagement with NGOs?",
+        "",
+        "Code Yes - Substantive if the operative provisions require it;",
+        "Code No otherwise.",
+        "6.2 | Engagement with media | Does the framework involve the media?",
+        "Code Yes if so.",
+    )
+
+    first, second = parse_criteria_lines(path)
+
+    assert first.question == "Does the framework require engagement with NGOs?"
+    assert first.rubric == ["Code Yes - Substantive if the operative provisions require it;", "Code No otherwise."]
+    assert second.question == "Does the framework involve the media?" and second.rubric == ["Code Yes if so."]
+
+
+def test_a_question_given_on_the_criterion_line_is_never_replaced_by_the_next_line(tmp_path):
+    (first,) = parse_criteria_lines(write(tmp_path, "1.1 | A | The real question?", "Code Yes if x."))
+    assert first.question == "The real question?" and first.rubric == ["Code Yes if x."]
