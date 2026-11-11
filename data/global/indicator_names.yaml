@@ -1,0 +1,273 @@
+scope_of_violence:
+  "name": "Scope of Violence"
+  "1.1":
+    indicator: "Domestic violence"
+    definition: "Any act of violence perpetrated by family members, intimate partners, or members of the same household, explicitly identified as domestic, household, family, or intimate partner violence."
+    qu: "Does the national legal framework substantively address domestic violence?"
+
+  "1.2":
+    indicator: "Sexual violence"
+    definition: "Any sexual assault, rape, sexual abuse, sexual harassment, or other unwanted sexual act or conduct that violates a person's bodily integrity and dignity."
+    qu: "Does the national legal framework substantively address sexual violence?"
+
+  "1.3":
+    indicator: "Physical violence"
+    definition: "Any act of physical abuse, assault, battery, or force that results in or is likely to result in bodily harm, injury, pain, or suffering."
+    qu: "Does the national legal framework substantively address physical violence?"
+
+  "1.4":
+    indicator: "Psychological violence"
+    definition: "Any act causing emotional or mental harm, including emotional or verbal abuse, intimidation, threats, humiliation, or coercive control."
+    qu: "Does the national legal framework substantively address psychological violence?"
+
+  "1.5":
+    indicator: "Economic violence"
+    definition: "Any act that controls, withholds, or exploits a woman's money, property, labour, or economic independence, or deprives her of basic economic needs, recognised as a form of violence or abuse."
+    qu: "Does the national legal framework substantively address economic violence, economic exploitation, or domestic neglect?"
+
+  "1.6":
+    indicator: "Harmful practices"
+    definition: "Practices based on discriminatory social or gender norms that cause harm to women and girls, such as early/child marriage, female genital mutilation, honour crimes, and female infanticide."
+    qu: "Does the national legal framework substantively address harmful practices, including early/child marriage, female genital mutilation, honour crimes, or female infanticide?"
+
+  "1.7":
+    indicator: "Femicide/feminicide"
+    definition: "The gender-motivated killing of a woman or girl, defined as an offence, an aggravating factor in homicide, or the most severe form of violence against women."
+    qu: "Does the national legal framework substantively address femicide/feminicide?"
+
+  "1.8":
+    indicator: "Human trafficking"
+    definition: "The recruitment, transportation, transfer, harbouring, or receipt of persons through force, coercion, deception, or abuse of power for the purpose of exploitation."
+    qu: "Does the national legal framework substantively address human trafficking or trafficking in persons?"
+
+  "1.9":
+    indicator: "Sexual slavery/exploitation"
+    definition: "Any act using force, coercion, or abuse of vulnerability, power, or trust to profit from the prostitution, sexual services, or sexual use of a person's body."
+    qu: "Does the national legal framework substantively address sexual exploitation or sexual slavery?"
+
+  "1.10":
+    indicator: "Technology-facilitated violence"
+    definition: "Any violence committed, assisted, or amplified through digital technologies, such as cyber harassment, cyberbullying, cyber pornography, or online sexual exploitation."
+    qu: "Does the national legal framework substantively address technology-facilitated violence?"
+
+protection_and_justice:
+  "name": "Protection and Justice"
+  "2.1":
+    indicator: "Criminal penalty"
+    definition: "The definition of at least one form of violence against women as a criminal offence with an attached sanction, such as imprisonment or a specified fine."
+    qu: "Does the national legal framework establish criminal penalties for acts of violence against women?"
+
+  "2.2":
+    indicator: "Protection order"
+    definition: "A protection or restraining order mechanism specifying who may apply, the issuing authority, the order's duration, and the consequence for breach."
+    qu: "Does the national legal framework provide for protection or restraining orders for victims/survivors of violence against women?"
+
+  "2.3":
+    indicator: "Police specialised service unit"
+    definition: "Designation of a specific unit, desk, or division within police services with a defined mandate to handle cases of violence against women."
+    qu: "Does the national legal framework establish or mandate a specialised police unit for victims/survivors of violence against women?"
+
+  "2.4":
+    indicator: "Specialised court"
+    definition: "Designation of a specific court, chamber, judicial officer, or expedited/specialised judicial procedure for cases of violence against women."
+    qu: "Does the national legal framework establish or mandate a specialised court, chamber, or judicial procedure for cases of violence against women?"
+
+  "2.5":
+    indicator: "Marital rape/spousal exemption"
+    definition: "Express criminalisation of rape or sexual assault within marriage or intimate partnerships, or express removal of any spousal exemption from criminal liability."
+    qu: "Does the national legal framework criminalise marital rape or remove any spousal exemption from criminal liability for sexual violence?"
+
+institutional_mechanism:
+  "name": "Institutional Mechanism"
+  "3.1":
+    indicator: "Institutional coordination"
+    definition: "A formal coordination or cooperation mechanism across government agencies, sectors, levels of government, or jurisdictions, such as a task force, committee, referral network, or national action plan with a coordinating body."
+    qu: "Does the national legal framework establish an institutional coordination mechanism across agencies, sectors, or jurisdictions to prevent and respond to violence against women?"
+
+  "3.2":
+    indicator: "Data collection systems"
+    definition: "Establishment of a system, duty, or responsible entity to collect, record, monitor, report, manage, or exchange data on violence against women, victims, or cases."
+    qu: "Does the national legal framework establish or require data collection or information systems on violence against women?"
+
+  "3.3":
+    indicator: "Gender mainstreaming institutionalisation"
+    definition: "Adoption of gender mainstreaming as a formal implementation mechanism, such as a working group, focal point, or integration into planning and budgeting for violence against women policies."
+    qu: "Does the national legal framework establish or require gender mainstreaming as an institutional mechanism for violence against women policies and programs?"
+
+  "3.4":
+    indicator: "Training and capacity building"
+    definition: "A mandate to provide training, technical guidance, or capacity building for government officials, police, health, legal, and other personnel implementing violence against women policies and services."
+    qu: "Does the national legal framework require or provide training or capacity building for government officials, implementing agencies, or service providers?"
+
+  "3.5":
+    indicator: "Monitoring and evaluation"
+    definition: "Establishment of a specific monitoring and evaluation mechanism, indicator framework, reporting requirement, or responsible body to assess implementation of violence against women laws, policies, and services."
+    qu: "Does the national legal framework establish monitoring and evaluation of policy implementation and service delivery?"
+
+  "3.6":
+    indicator: "National budget allocation"
+    definition: "A binding requirement to allocate budget or funding, from the national budget, a dedicated fund, or another specified source, for violence against women response and prevention."
+    qu: "Does the national legal framework require the allocation of a budget to fund violence against women response and prevention?"
+
+specialised_support_services:
+  "name": "Specialised Support Services"
+  "4.1":
+    indicator: "Integrated service unit"
+    definition: "Establishment or recognition of an integrated, one-stop, or multidisciplinary mechanism that provides or coordinates multiple services for victims/survivors of violence against women."
+    qu: "Does the national legal framework establish, mandate, or recognise an integrated service mechanism for victims/survivors of violence against women?"
+
+  "4.2":
+    indicator: "Reporting/hotline service"
+    definition: "Establishment of a hotline, helpline, online channel, complaint mechanism, or designated service through which victims can report violence or seek assistance."
+    qu: "Does the national legal framework provide for services that receive reports of violence against women or provide help-seeking or emergency support (e.g., hotlines)?"
+
+  "4.3":
+    indicator: "Safety/protection shelter"
+    definition: "Provision of shelters, safe houses, refuges, crisis or temporary accommodation, or relocation providing safe residential protection for victims/survivors of violence against women."
+    qu: "Does the national legal framework provide for safety or protection shelters for victims/survivors of violence against women?"
+
+  "4.4":
+    indicator: "Legal assistance"
+    definition: "Provision of legal aid, advice, counselling, or representation specifically for victims/survivors of violence against women."
+    qu: "Does the national legal framework provide legal assistance for victims/survivors of violence against women?"
+
+  "4.5":
+    indicator: "Health/medical services"
+    definition: "Provision of medical examination, treatment, emergency, reproductive, or forensic health services specifically for victims/survivors of violence against women."
+    qu: "Does the national legal framework provide health or medical services for victims/survivors of violence against women?"
+
+  "4.6":
+    indicator: "Psychosocial counselling"
+    definition: "Provision of psychosocial, psychological, therapeutic, or trauma-support services for victims/survivors of violence against women."
+    qu: "Does the national legal framework provide psychosocial counselling services for victims/survivors of violence against women?"
+
+  "4.7":
+    indicator: "Religious/spiritual counselling"
+    definition: "Provision of religious, spiritual, pastoral, or faith-based counselling or guidance for victims/survivors of violence against women."
+    qu: "Does the national legal framework provide religious or spiritual counselling or faith-based support for victims/survivors of violence against women?"
+
+  "4.8":
+    indicator: "Recovery and support"
+    definition: "Provision of rehabilitation, reintegration, or longer-term support, including skills training, livelihood, financial, or housing assistance, for victims/survivors of violence against women."
+    qu: "Does the national legal framework provide recovery, rehabilitation, reintegration, or economic support for victims/survivors of violence against women?"
+
+  "4.9":
+    indicator: "Perpetrator programmes"
+    definition: "Establishment of intervention, rehabilitation, treatment, or behaviour-change programmes for perpetrators of violence against women to prevent reoffending."
+    qu: "Does the national legal framework establish or provide programmes for perpetrators of violence against women?"
+
+primary_prevention:
+  "name": "Primary Prevention"
+  "5.1":
+    indicator: "Information and education about VAW"
+    definition: "Prevention activities such as education, campaigns, or awareness raising that are explicitly about violence against women, its consequences, or its prevention."
+    qu: "Does the national legal framework include primary prevention activities that provide information, education, or awareness raising about violence against women?"
+
+  "5.2":
+    indicator: "Gender equality education"
+    definition: "Prevention activities that educate or raise awareness about gender equality or women's rights, explicitly linked to preventing violence against women."
+    qu: "Does the national legal framework include primary prevention activities that promote education or awareness on gender equality and/or women's rights?"
+
+  "5.3":
+    indicator: "VAW laws awareness"
+    definition: "Prevention activities that disseminate or educate about laws, policies, rights, and legal protections relating to violence against women."
+    qu: "Does the national legal framework include primary prevention activities that provide information or education about laws and policies on violence against women?"
+
+  "5.4":
+    indicator: "Prevention through education"
+    definition: "Prevention measures delivered through education systems, institutions, curricula, or improvements in education that are explicitly linked to preventing violence against women."
+    qu: "Does the national legal framework identify education, curricula, or improving the quality of education as a primary prevention measure for violence against women?"
+
+  "5.5":
+    indicator: "Engagement of men and boys"
+    definition: "Prevention activities targeting men and boys to change attitudes, norms, masculinities, or behaviours associated with violence against women."
+    qu: "Does the national legal framework include primary prevention activities that engage men and boys to prevent violence against women?"
+
+stakeholder_engagement:
+  "name": "Stakeholder Engagement"
+  "6.1":
+    indicator: "NGO collaboration"
+    definition: "Engagement or collaboration with civil society organisations or NGOs in violence against women prevention, service delivery, implementation, or monitoring."
+    qu: "Does the national legal framework establish or require collaboration with civil society organisations or NGOs on violence against women?"
+
+  "6.2":
+    indicator: "Religious/traditional engagement"
+    definition: "Engagement or collaboration with religious, traditional, cultural, or customary organisations or leaders in violence against women prevention or response."
+    qu: "Does the national legal framework establish or require engagement with religious or traditional/cultural organisations or leaders on violence against women?"
+
+  "6.3":
+    indicator: "Education institutions engagement"
+    definition: "Engagement or collaboration with schools, universities, and other education institutions in violence against women prevention, research, services, or implementation."
+    qu: "Does the national legal framework establish or require engagement with education institutions, including universities, on violence against women?"
+
+  "6.4":
+    indicator: "International organisations engagement"
+    definition: "Cooperation with international or regional organisations on violence against women through technical assistance, joint programmes, financing, or monitoring, beyond treaty ratification alone."
+    qu: "Does the national legal framework establish or require engagement with international organisations on violence against women?"
+
+  "6.5":
+    indicator: "Media engagement"
+    definition: "Engagement or collaboration with media organisations or journalists to raise awareness, prevent violence, or protect victims of violence against women."
+    qu: "Does the national legal framework establish or require engagement with media on violence against women?"
+
+  "6.6":
+    indicator: "Community engagement"
+    definition: "Active participation or mobilisation of communities, community organisations, or the public in violence against women prevention, victim support, or monitoring."
+    qu: "Does the national legal framework establish or require engagement with communities or society on violence against women?"
+
+  "6.7":
+    indicator: "Private sector engagement"
+    definition: "Engagement or collaboration with businesses, employers, or industry organisations in violence against women prevention, victim support, or response."
+    qu: "Does the national legal framework establish or require engagement with businesses or the private sector on violence against women?"
+
+intersectional_approach:
+  "name": "Intersectional Approach"
+  "7.1":
+    indicator: "Women in conflict/disaster areas"
+    definition: "Targeted measures to protect and assist women affected by armed conflict, humanitarian crises, disasters, or emergencies."
+    qu: "Does the national legal framework include protection measures for women in conflict, disaster, or emergency settings?"
+
+  "7.2":
+    indicator: "LBTQ+ women/gender-diverse persons"
+    definition: "Targeted measures to protect lesbian, bisexual, transgender, queer, or other gender-diverse persons from violence."
+    qu: "Does the national legal framework include protection measures for LBTQ+ women or gender-diverse persons?"
+
+  "7.3":
+    indicator: "Women workers"
+    definition: "Targeted measures to protect women workers from violence, harassment, abuse, or exploitation in the workplace or in connection with employment."
+    qu: "Does the national legal framework include protection measures for women workers?"
+
+  "7.4":
+    indicator: "Young and elderly women"
+    definition: "Targeted, age-specific measures to protect young, adolescent, older, or elderly women from violence."
+    qu: "Does the national legal framework include protection measures for young or elderly women?"
+
+  "7.5":
+    indicator: "Women with disabilities"
+    definition: "Targeted measures, including accessible services and procedures, to protect and assist women and girls with disabilities who experience violence."
+    qu: "Does the national legal framework include protection measures for women with disabilities?"
+
+  "7.6":
+    indicator: "Women heads of household"
+    definition: "Targeted measures to protect and assist women heads of household or female-headed households in relation to violence."
+    qu: "Does the national legal framework include protection measures for women heads of household?"
+
+  "7.7":
+    indicator: "Women from minority groups"
+    definition: "Targeted measures to protect women from minority, marginalised, rural, remote, or isolated groups and overcome barriers to violence against women services and justice."
+    qu: "Does the national legal framework include protection measures for women from minority or isolated groups?"
+
+  "7.8":
+    indicator: "Indigenous women/groups"
+    definition: "Targeted, culturally appropriate measures to protect Indigenous women and women from Indigenous communities from violence."
+    qu: "Does the national legal framework include protection measures for Indigenous women or Indigenous groups?"
+
+  "7.9":
+    indicator: "Refugee/migrant women"
+    definition: "Targeted measures to protect refugee, asylum-seeking, displaced, or migrant women from violence, including addressing barriers linked to legal status."
+    qu: "Does the national legal framework include protection measures for refugee, migrant, or displaced women?"
+
+  "7.10":
+    indicator: "Domestic workers"
+    definition: "Targeted measures to protect women domestic and household workers from violence, abuse, harassment, or exploitation."
+    qu: "Does the national legal framework include protection measures for women domestic workers?"
